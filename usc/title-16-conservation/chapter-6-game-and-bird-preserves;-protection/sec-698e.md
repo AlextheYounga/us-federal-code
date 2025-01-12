@@ -6,6 +6,6 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### Amendments ####
 
-**1993**—Pub. L. 103–46 inserted at end “Effective upon July 1, 1993, there is authorized to be appropriated such sums as may be necessary to carry out the purposes of subsections (c) and (d) of section 698 of this title.”
+**1993**—Pub. L. 103–46 inserted at end "Effective upon July 1, 1993, there is authorized to be appropriated such sums as may be necessary to carry out the purposes of subsections (c) and (d) of section 698 of this title."
 
 **1984**—Pub. L. 98–489 authorized appropriations for acquisition of a visitor contact and administrative site.

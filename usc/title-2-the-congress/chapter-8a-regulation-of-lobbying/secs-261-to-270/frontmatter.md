@@ -28,4 +28,4 @@ Repeal effective Jan. 1, 1996, except as otherwise provided, see section 24 of P
 
 #### Short Title ####
 
-Act Aug. 2, 1946, title III, §301, 60 Stat. 839, provided that title III of act Aug. 2, 1946 (enacting this chapter), could be cited as the “Federal Regulation of Lobbying Act”, prior to repeal by Pub. L. 104–65, §11(a), Dec. 19, 1995, 109 Stat. 701.
+Act Aug. 2, 1946, title III, §301, 60 Stat. 839, provided that title III of act Aug. 2, 1946 (enacting this chapter), could be cited as the "Federal Regulation of Lobbying Act", prior to repeal by Pub. L. 104–65, §11(a), Dec. 19, 1995, 109 Stat. 701.

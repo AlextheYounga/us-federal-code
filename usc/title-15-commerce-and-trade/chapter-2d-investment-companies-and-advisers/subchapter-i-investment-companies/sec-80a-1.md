@@ -20,7 +20,7 @@ Upon the basis of facts disclosed by the record and reports of the Securities an
 
 (1) when investors purchase, pay for, exchange, receive dividends upon, vote, refrain from voting, sell, or surrender securities issued by investment companies without adequate, accurate, and explicit information, fairly presented, concerning the character of such securities and the circumstances, policies, and financial responsibility of such companies and their management;
 
-(2) when investment companies are organized, operated, managed, or their portfolio securities are selected, in the interest of directors, officers, investment advisers, depositors, or other affiliated persons thereof, in the interest of underwriters, brokers, or dealers, in the interest of special classes of their security holders, or in the interest of other investment companies or persons engaged in other lines of business, rather than in the interest of all classes of such companies’ security holders;
+(2) when investment companies are organized, operated, managed, or their portfolio securities are selected, in the interest of directors, officers, investment advisers, depositors, or other affiliated persons thereof, in the interest of underwriters, brokers, or dealers, in the interest of special classes of their security holders, or in the interest of other investment companies or persons engaged in other lines of business, rather than in the interest of all classes of such companies' security holders;
 
 (3) when investment companies issue securities containing inequitable or discriminatory provisions, or fail to protect the preferences and privileges of the holders of their outstanding securities;
 

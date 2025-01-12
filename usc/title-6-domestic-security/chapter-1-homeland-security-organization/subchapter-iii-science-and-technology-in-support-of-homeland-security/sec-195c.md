@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Director ####
 
-The term “Director” means the Director selected under subsection (b)(2).
+The term "Director" means the Director selected under subsection (b)(2).
 
 #### (2) International cooperative activity ####
 
-The term “international cooperative activity” includes—
+The term "international cooperative activity" includes—
 
 (A) coordinated research projects, joint research projects, or joint ventures;
 
@@ -134,20 +134,20 @@ The Foreign Relations Authorization Act, Fiscal Year 1979, referred to in subsec
 
 #### Findings ####
 
-Pub. L. 110–53, title XIX, §1901(a), Aug. 3, 2007, 121 Stat. 505, provided that: “Congress finds the following:
+Pub. L. 110–53, title XIX, §1901(a), Aug. 3, 2007, 121 Stat. 505, provided that: "Congress finds the following:
 
-“(1) The development and implementation of technology is critical to combating terrorism and other high consequence events and implementing a comprehensive homeland security strategy.
+"(1) The development and implementation of technology is critical to combating terrorism and other high consequence events and implementing a comprehensive homeland security strategy.
 
-“(2) The United States and its allies in the global war on terrorism share a common interest in facilitating research, development, testing, and evaluation of equipment, capabilities, technologies, and services that will aid in detecting, preventing, responding to, recovering from, and mitigating against acts of terrorism.
+"(2) The United States and its allies in the global war on terrorism share a common interest in facilitating research, development, testing, and evaluation of equipment, capabilities, technologies, and services that will aid in detecting, preventing, responding to, recovering from, and mitigating against acts of terrorism.
 
-“(3) Certain United States allies in the global war on terrorism, including Israel, the United Kingdom, Canada, Australia, and Singapore have extensive experience with, and technological expertise in, homeland security.
+"(3) Certain United States allies in the global war on terrorism, including Israel, the United Kingdom, Canada, Australia, and Singapore have extensive experience with, and technological expertise in, homeland security.
 
-“(4) The United States and certain of its allies in the global war on terrorism have a history of successful collaboration in developing mutually beneficial equipment, capabilities, technologies, and services in the areas of defense, agriculture, and telecommunications.
+"(4) The United States and certain of its allies in the global war on terrorism have a history of successful collaboration in developing mutually beneficial equipment, capabilities, technologies, and services in the areas of defense, agriculture, and telecommunications.
 
-“(5) The United States and its allies in the global war on terrorism will mutually benefit from the sharing of technological expertise to combat domestic and international terrorism.
+"(5) The United States and its allies in the global war on terrorism will mutually benefit from the sharing of technological expertise to combat domestic and international terrorism.
 
-“(6) The establishment of an office to facilitate and support cooperative endeavors between and among government agencies, for-profit business entities, academic institutions, and nonprofit entities of the United States and its allies will safeguard lives and property worldwide against acts of terrorism and other high consequence events.”
+"(6) The establishment of an office to facilitate and support cooperative endeavors between and among government agencies, for-profit business entities, academic institutions, and nonprofit entities of the United States and its allies will safeguard lives and property worldwide against acts of terrorism and other high consequence events."
 
 #### Transparency of Funds ####
 
-Pub. L. 110–53, title XIX, §1902, Aug. 3, 2007, 121 Stat. 508, provided that: “For each Federal award (as that term is defined in section 2 of the Federal Funding Accountability and Transparency Act of 2006 [Pub. L. 109–282] (31 U.S.C. 6101 note)) under this title [enacting this section and provisions set out as notes under this section] or an amendment made by this title, the Director of the Office of Management and Budget shall ensure full and timely compliance with the requirements of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note).”
+Pub. L. 110–53, title XIX, §1902, Aug. 3, 2007, 121 Stat. 508, provided that: "For each Federal award (as that term is defined in section 2 of the Federal Funding Accountability and Transparency Act of 2006 [Pub. L. 109–282] (31 U.S.C. 6101 note)) under this title [enacting this section and provisions set out as notes under this section] or an amendment made by this title, the Director of the Office of Management and Budget shall ensure full and timely compliance with the requirements of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note)."

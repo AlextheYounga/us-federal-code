@@ -10,9 +10,9 @@ Repeal effective July 1, 1975, see section 905 of Pub. L. 94–63, set out as an
 
 Pub. L. 94–63, title IX, §936(e)(2), (3), July 29, 1975, 89 Stat. 363, provided that:
 
-“(2) The nurse training fund created within the Treasury by section 827(d)(1) of the Act [42 U.S.C. 297f(d)(1)] shall remain available to the Secretary of Health, Education, and Welfare [now Health and Human Services] for the purpose of meeting his responsibilities respecting participations in obligations acquired under section 827 of the Act [42 U.S.C. 297f]. The Secretary shall continue to deposit in such fund all amounts received by him as interest payments or repayments of principal on loans under such section 27[827]. If at any time the Secretary determines the moneys in the funds exceed the present and any reasonable prospective further requirements of such fund, such excess may be transferred to the general fund of the Treasury.
+"(2) The nurse training fund created within the Treasury by section 827(d)(1) of the Act [42 U.S.C. 297f(d)(1)] shall remain available to the Secretary of Health, Education, and Welfare [now Health and Human Services] for the purpose of meeting his responsibilities respecting participations in obligations acquired under section 827 of the Act [42 U.S.C. 297f]. The Secretary shall continue to deposit in such fund all amounts received by him as interest payments or repayments of principal on loans under such section 27[827]. If at any time the Secretary determines the moneys in the funds exceed the present and any reasonable prospective further requirements of such fund, such excess may be transferred to the general fund of the Treasury.
 
-“(3) There are authorized to be appropriated without fiscal year limitation such sums as may be necessary to enable the Secretary to make payments under agreements entered into under section 827(b) of the Act [42 U.S.C. 297f(b)] before the date of the enactment of this Act [July 29, 1975].”
+"(3) There are authorized to be appropriated without fiscal year limitation such sums as may be necessary to enable the Secretary to make payments under agreements entered into under section 827(b) of the Act [42 U.S.C. 297f(b)] before the date of the enactment of this Act [July 29, 1975]."
 
 #### Conversion of Federal Capital Contribution to a Loan Under Section 297f of This Title ####
 

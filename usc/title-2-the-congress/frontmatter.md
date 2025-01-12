@@ -35,7 +35,7 @@ Chap. Sec.
 
 10A. Payroll Administration in House of Representatives [Transferred, Omitted, or Repealed] 331
 
-11. Citizens’ Commission on Public Service and Compensation 351
+11. Citizens' Commission on Public Service and Compensation 351
 
 12. Contested Elections 381
 

@@ -2,7 +2,7 @@
 
 #### (a) Mandatory application ####
 
-All provisions of sections 450c(b), 450d, 450e, 450f(c) and (d), 450i, 450j(k) and (l), 450j–1(a) through (k), and 450n of this title and section 314 of Public Law 101–512 (coverage under chapter 171 of title 28, commonly known as the “Federal Tort Claims Act”), to the extent not in conflict with this part, shall apply to compacts and funding agreements authorized by this part.
+All provisions of sections 450c(b), 450d, 450e, 450f(c) and (d), 450i, 450j(k) and (l), 450j–1(a) through (k), and 450n of this title and section 314 of Public Law 101–512 (coverage under chapter 171 of title 28, commonly known as the "Federal Tort Claims Act"), to the extent not in conflict with this part, shall apply to compacts and funding agreements authorized by this part.
 
 #### (b) Discretionary application ####
 

@@ -104,17 +104,17 @@ A prior section 502 of act July 1, 1944, which was classified to section 220 of 
 
 #### Amendments ####
 
-**2000**—Subsec. (e). Pub. L. 106–310 substituted “2 times during each fiscal year” for “3 times during each fiscal year”.
+**2000**—Subsec. (e). Pub. L. 106–310 substituted "2 times during each fiscal year" for "3 times during each fiscal year".
 
-**1994**—Subsec. (b)(2)(D). Pub. L. 103–446 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the Chief Medical Director of the Veterans Administration; and”.
+**1994**—Subsec. (b)(2)(D). Pub. L. 103–446 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "the Chief Medical Director of the Veterans Administration; and".
 
-**1992**—Pub. L. 102–352 substituted “or management” for “and management” in subsec. (b)(3)(B).
+**1992**—Pub. L. 102–352 substituted "or management" for "and management" in subsec. (b)(3)(B).
 
 Pub. L. 102–321 amended section generally, substituting provisions relating to appointment of advisory councils to Substance Abuse and Mental Health Services Administration, Center for Substance Abuse Treatment, Center for Substance Abuse Prevention, and Center for Mental Health Services for provisions appointing advisory councils for National Institute on Alcohol Abuse and Alcoholism, National Institute on Drug Abuse, and National Institute of Mental Health.
 
 **1990**—Subsec. (a)(2). Pub. L. 101–381 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
 
-**1988**—Subsec. (b)(2)(A). Pub. L. 100–527 substituted “Chief Medical Director of the Department of Veterans Affairs” for “Chief Medical Director of the Veterans’ Administration”.
+**1988**—Subsec. (b)(2)(A). Pub. L. 100–527 substituted "Chief Medical Director of the Department of Veterans Affairs" for "Chief Medical Director of the Veterans' Administration".
 
 #### Effective Date of 1992 Amendments ####
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 
 #### Effective Date of 1988 Amendment ####
 
-Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
+Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans' Benefits.
 
 #### Termination of Advisory Councils ####
 
@@ -138,10 +138,10 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Continuation of Existing Advisory Councils ####
 
-Pub. L. 99–570, title IV, §4004(b), Oct. 27, 1986, 100 Stat. 3207–111, provided that: “The amendment made by subsection (a) [enacting this section and renumbering this section and section 290aa–5 of this title] does not terminate the membership of any advisory council for the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, or the National Institute of Mental Health which was in existence on the date of enactment of this Act [Oct. 27, 1986]. After such date—
+Pub. L. 99–570, title IV, §4004(b), Oct. 27, 1986, 100 Stat. 3207–111, provided that: "The amendment made by subsection (a) [enacting this section and renumbering this section and section 290aa–5 of this title] does not terminate the membership of any advisory council for the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, or the National Institute of Mental Health which was in existence on the date of enactment of this Act [Oct. 27, 1986]. After such date—
 
-“(1) the Secretary of Health and Human Services shall make appointments to each such advisory council in such a manner as to bring about as soon as practicable the composition for such council prescribed by section 505 [now 502] of the Public Health Service Act [42 U.S.C. 290aa–1];
+"(1) the Secretary of Health and Human Services shall make appointments to each such advisory council in such a manner as to bring about as soon as practicable the composition for such council prescribed by section 505 [now 502] of the Public Health Service Act [42 U.S.C. 290aa–1];
 
-“(2) each advisory council shall organize itself in accordance with such section and exercise the functions prescribed by such section; and
+"(2) each advisory council shall organize itself in accordance with such section and exercise the functions prescribed by such section; and
 
-“(3) the Director of each such institute shall perform for such advisory council the functions prescribed by such section.”
+"(3) the Director of each such institute shall perform for such advisory council the functions prescribed by such section."

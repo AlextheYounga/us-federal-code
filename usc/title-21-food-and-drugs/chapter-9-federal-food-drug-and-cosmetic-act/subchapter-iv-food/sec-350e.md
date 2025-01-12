@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Bulk vehicle ####
 
-The term “bulk vehicle” includes a tank truck, hopper truck, rail tank car, hopper car, cargo tank, portable tank, freight container, or hopper bin, and any other vehicle in which food is shipped in bulk, with the food coming into direct contact with the vehicle.
+The term "bulk vehicle" includes a tank truck, hopper truck, rail tank car, hopper car, cargo tank, portable tank, freight container, or hopper bin, and any other vehicle in which food is shipped in bulk, with the food coming into direct contact with the vehicle.
 
 #### (2) Transportation ####
 
-The term “transportation” means any movement in commerce by motor vehicle or rail vehicle.
+The term "transportation" means any movement in commerce by motor vehicle or rail vehicle.
 
 #### (b) Regulations ####
 
@@ -86,4 +86,4 @@ Section effective Oct. 1, 2005, see section 7204 of Pub. L. 109–59, set out as
 
 #### Regulations ####
 
-Pub. L. 111–353, title I, §111(a), Jan. 4, 2011, 124 Stat. 3916, provided that: “Not later than 18 months after the date of enactment of this Act [Jan. 4, 2011], the Secretary shall promulgate regulations described in section 416(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 350e(b)).”
+Pub. L. 111–353, title I, §111(a), Jan. 4, 2011, 124 Stat. 3916, provided that: "Not later than 18 months after the date of enactment of this Act [Jan. 4, 2011], the Secretary shall promulgate regulations described in section 416(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 350e(b))."

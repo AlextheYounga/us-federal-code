@@ -48,13 +48,13 @@ The Secretary shall append to the plan a detailed statement describing the manne
 
 #### Authority To Erect Permanent Improvements on Land Acquired for Confederated Tribes of Siletz Indians of Oregon ####
 
-Pub. L. 97–38, Aug. 14, 1981, 95 Stat. 938, provided: “That, notwithstanding any other provision of law or regulation, the Attorney General shall approve any deed or other instrument which—
+Pub. L. 97–38, Aug. 14, 1981, 95 Stat. 938, provided: "That, notwithstanding any other provision of law or regulation, the Attorney General shall approve any deed or other instrument which—
 
-“(1) conveys to the United States the land described in section 2 of the Act entitled ‘An Act to establish a reservation for the Confederated Tribes of Siletz Indians of Oregon’, approved September 4, 1980 (94 Stat. 1073) [set out below], and
+"(1) conveys to the United States the land described in section 2 of the Act entitled 'An Act to establish a reservation for the Confederated Tribes of Siletz Indians of Oregon', approved September 4, 1980 (94 Stat. 1073) [set out below], and
 
-“(2) incorporates by reference the terms of the agreement entered into on September 18, 1980, by the city of Siletz, Oregon, the Confederated Tribes of Siletz Indians of Oregon, and the United States of America.
+"(2) incorporates by reference the terms of the agreement entered into on September 18, 1980, by the city of Siletz, Oregon, the Confederated Tribes of Siletz Indians of Oregon, and the United States of America.
 
-The Secretary of the Interior or the Confederated Tribes of Siletz Indians of Oregon may erect permanent improvements, improvements of a substantial value, or any other improvements authorized by law on such land after such land is conveyed to the United States.”
+The Secretary of the Interior or the Confederated Tribes of Siletz Indians of Oregon may erect permanent improvements, improvements of a substantial value, or any other improvements authorized by law on such land after such land is conveyed to the United States."
 
 #### Establishment of Reservation for Confederated Tribes of Siletz Indians of Oregon ####
 

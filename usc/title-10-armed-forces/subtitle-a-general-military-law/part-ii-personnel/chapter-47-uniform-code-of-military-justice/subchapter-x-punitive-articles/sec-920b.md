@@ -34,9 +34,9 @@ is guilty of rape of a child and shall be punished as a court-martial may direct
 
 (h) Definitions.—In this section:
 
-(1) Sexual act and sexual contact.—The terms “sexual act” and “sexual contact” have the meanings given those terms in section 920(g) of this title (article 120(g)).
+(1) Sexual act and sexual contact.—The terms "sexual act" and "sexual contact" have the meanings given those terms in section 920(g) of this title (article 120(g)).
 
-(2) Force.—The term “force” means—
+(2) Force.—The term "force" means—
 
 (A) the use of a weapon;
 
@@ -46,11 +46,11 @@ is guilty of rape of a child and shall be punished as a court-martial may direct
 
 In the case of a parent-child or similar relationship, the use or abuse of parental or similar authority is sufficient to constitute the use of force.
 
-(3) Threatening or placing that child in fear.—The term “threatening or placing that child in fear” means a communication or action that is of sufficient consequence to cause the child to fear that non-compliance will result in the child or another person being subjected to the action contemplated by the communication or action.
+(3) Threatening or placing that child in fear.—The term "threatening or placing that child in fear" means a communication or action that is of sufficient consequence to cause the child to fear that non-compliance will result in the child or another person being subjected to the action contemplated by the communication or action.
 
-(4) Child.—The term “child” means any person who has not attained the age of 16 years.
+(4) Child.—The term "child" means any person who has not attained the age of 16 years.
 
-(5) Lewd act.—The term “lewd act” means—
+(5) Lewd act.—The term "lewd act" means—
 
 (A) any sexual contact with a child;
 

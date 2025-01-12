@@ -6,7 +6,7 @@ Whenever, by the health laws of any State, or by the regulations made pursuant t
 
 #### Codification ####
 
-Words “or delivery” after “port of entry” which were included in this section as originally enacted were omitted as ports of delivery were abolished pursuant to the President's Message to Congress on Mar. 3, 1913, set out in Codification note under section 1 of Title 19, Customs Duties.
+Words "or delivery" after "port of entry" which were included in this section as originally enacted were omitted as ports of delivery were abolished pursuant to the President's Message to Congress on Mar. 3, 1913, set out in Codification note under section 1 of Title 19, Customs Duties.
 
 R.S. §4793 derived from act Feb. 23, 1799, ch. 12, §2, 1 Stat. 619.
 

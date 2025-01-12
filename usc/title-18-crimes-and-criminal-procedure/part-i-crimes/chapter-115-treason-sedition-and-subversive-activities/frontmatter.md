@@ -26,6 +26,6 @@ Sec.
 
 #### Amendments ####
 
-**1994**—Pub. L. 103–322, title XXXIII, §330004(13), Sept. 13, 1994, 108 Stat. 2142, struck out item 2391 “Temporary extension of section 2388”.
+**1994**—Pub. L. 103–322, title XXXIII, §330004(13), Sept. 13, 1994, 108 Stat. 2142, struck out item 2391 "Temporary extension of section 2388".
 
 **1953**—Act June 30, 1953, ch. 175, §5, 67 Stat. 134, added item 2391.

@@ -44,11 +44,11 @@ In this section:
 
 #### (1) Consumer Price Index ####
 
-The term “Consumer Price Index” means the Consumer Price Index for all-urban consumers, United States city average, as published by the Bureau of Labor Statistics, or if such index shall cease to be published, any successor index or reasonable substitute thereof.
+The term "Consumer Price Index" means the Consumer Price Index for all-urban consumers, United States city average, as published by the Bureau of Labor Statistics, or if such index shall cease to be published, any successor index or reasonable substitute thereof.
 
 #### (2) Eligible lender ####
 
-The term “eligible lender” means any non-Federal qualified institutional buyer (as defined by section 230.144A(a) of title 17, Code of Federal Regulations (or any successor regulation), known as Rule 144A(a) of the Securities and Exchange Commission and issued under the Securities Act of 1933 [15 U.S.C. 77a et seq.]), including—
+The term "eligible lender" means any non-Federal qualified institutional buyer (as defined by section 230.144A(a) of title 17, Code of Federal Regulations (or any successor regulation), known as Rule 144A(a) of the Securities and Exchange Commission and issued under the Securities Act of 1933 [15 U.S.C. 77a et seq.]), including—
 
 (A) a qualified retirement plan (as defined in section 4974(c) of title 26) that is a qualified institutional buyer; and
 
@@ -56,11 +56,11 @@ The term “eligible lender” means any non-Federal qualified institutional buy
 
 #### (3) Federal guarantee instrument ####
 
-The term “Federal guarantee instrument” means any guarantee or other pledge by the Secretary to pledge the full faith and credit of the United States to pay all of the principal and interest on any loan or other debt obligation entered into by a holder of a certificate of public convenience and necessity.
+The term "Federal guarantee instrument" means any guarantee or other pledge by the Secretary to pledge the full faith and credit of the United States to pay all of the principal and interest on any loan or other debt obligation entered into by a holder of a certificate of public convenience and necessity.
 
 #### (4) Qualified infrastructure project ####
 
-The term “qualified infrastructure project” means an Alaskan natural gas transportation project or system consisting of the design, engineering, finance, construction, and completion of pipelines and related transportation and production systems (including gas treatment plants <sup><a href="#720n_1_target" name="720n_1">1</a></sup> liquification plants and liquefied natural gas tankers for transportation of liquefied natural gas from southcentral Alaska to the West Coast), and appurtenances thereto, that are used to transport natural gas from the Alaska North Slope to the continental United States.
+The term "qualified infrastructure project" means an Alaskan natural gas transportation project or system consisting of the design, engineering, finance, construction, and completion of pipelines and related transportation and production systems (including gas treatment plants <sup><a href="#720n_1_target" name="720n_1">1</a></sup> liquification plants and liquefied natural gas tankers for transportation of liquefied natural gas from southcentral Alaska to the West Coast), and appurtenances thereto, that are used to transport natural gas from the Alaska North Slope to the continental United States.
 
 (Pub. L. 108–324, div. C, §116, Oct. 13, 2004, 118 Stat. 1265; Pub.L. 108–199, div. H, §146, Jan. 23, 2004, 118 Stat. 444; Pub. L. 108–447, div. J, title I, §114, Dec. 8, 2004, 118 Stat. 3346.)
 
@@ -70,14 +70,14 @@ The Securities Act of 1933, referred to in subsec. (g)(2), is title I of act May
 
 #### Amendments ####
 
-**2004**—Subsec. (a)(1). Pub.L. 108–199, §146(1), as amended by Pub. L. 108–447, §114(a)(1), (2), which directed the amendment of subsec. (a) by inserting “or with an entity the Secretary determines is qualified to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States,” before “to issue”, was executed to par. (1) of subsec. (a) to reflect the probable intent of Congress.
+**2004**—Subsec. (a)(1). Pub.L. 108–199, §146(1), as amended by Pub. L. 108–447, §114(a)(1), (2), which directed the amendment of subsec. (a) by inserting "or with an entity the Secretary determines is qualified to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States," before "to issue", was executed to par. (1) of subsec. (a) to reflect the probable intent of Congress.
 
-Subsec. (b)(1). Pub.L. 108–199, §146(2), as amended by Pub. L. 108–447, §114(1)–(3), inserted before period at end “, or after the Secretary certifies there exists a qualified entity to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States. In no case shall loan guarantees be issued for more than one qualified project”.
+Subsec. (b)(1). Pub.L. 108–199, §146(2), as amended by Pub. L. 108–447, §114(1)–(3), inserted before period at end ", or after the Secretary certifies there exists a qualified entity to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States. In no case shall loan guarantees be issued for more than one qualified project".
 
 Subsec. (b)(4). Pub. L. 108–447, §114(b), added par. (4).
 
-Subsec. (c)(2). Pub. L. 108–199, §146(3), as amended by Pub. L. 108–447, §114(1), (2), (4), which directed the amendment of subsec. (a)(2) by inserting “, except that the total amount of principal that may be guaranteed for a qualified liquefied natural gas project may not exceed a principal amount in which the cost of loan guarantees, as defined by section 661a(5) of title 2, exceeds $2,000,000,000” before period at end, was executed by making the amendment to subsec. (c)(2), to reflect the probable intent of Congress.
+Subsec. (c)(2). Pub. L. 108–199, §146(3), as amended by Pub. L. 108–447, §114(1), (2), (4), which directed the amendment of subsec. (a)(2) by inserting ", except that the total amount of principal that may be guaranteed for a qualified liquefied natural gas project may not exceed a principal amount in which the cost of loan guarantees, as defined by section 661a(5) of title 2, exceeds $2,000,000,000" before period at end, was executed by making the amendment to subsec. (c)(2), to reflect the probable intent of Congress.
 
-Subsec. (g)(4). Pub.L. 108–199, §146(4), as amended by Pub. L. 108–447, §114(1), (2), (5), inserted “or system” after “gas transportation project” and “liquification plants and liquefied natural gas tankers for transportation of liquefied natural gas from Southcentral Alaska to the West Coast” after “including gas treatment plants”.
+Subsec. (g)(4). Pub.L. 108–199, §146(4), as amended by Pub. L. 108–447, §114(1), (2), (5), inserted "or system" after "gas transportation project" and "liquification plants and liquefied natural gas tankers for transportation of liquefied natural gas from Southcentral Alaska to the West Coast" after "including gas treatment plants".
 
 [<sup>1</sup> So in original. Probably should be followed by a comma.](#720n_1)

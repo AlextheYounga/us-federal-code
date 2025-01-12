@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (1) Pay status participant ####
 
-The term “pay status participant” means, with respect to a plan, a participant receiving retirement benefits under the plan.
+The term "pay status participant" means, with respect to a plan, a participant receiving retirement benefits under the plan.
 
 #### (2) Number of active participants ####
 
@@ -48,7 +48,7 @@ The number of active participants for a plan year shall be the sum of—
 
 (A) the number of active employees who are participants in the plan and on whose behalf contributions are required to be made during the plan year;
 
-(B) the number of active employees who are not participants in the plan but who are in an employment unit covered by a collective bargaining agreement which requires the employees’ employer to contribute to the plan unless service in such employment unit was never covered under the plan or a predecessor thereof, and
+(B) the number of active employees who are not participants in the plan but who are in an employment unit covered by a collective bargaining agreement which requires the employees' employer to contribute to the plan unless service in such employment unit was never covered under the plan or a predecessor thereof, and
 
 (C) the total number of active employees attributed to employers who made payments to the plan for the plan year of withdrawal liability pursuant to part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974, determined by dividing—
 
@@ -60,7 +60,7 @@ The Secretary shall by regulations provide alternative methods of determining ac
 
 #### (3) Average number ####
 
-The term “average number” means, with respect to pay status participants for a plan year, a number equal to one-half the sum of—
+The term "average number" means, with respect to pay status participants for a plan year, a number equal to one-half the sum of—
 
 (A) the number with respect to the plan as of the beginning of the plan year, and
 

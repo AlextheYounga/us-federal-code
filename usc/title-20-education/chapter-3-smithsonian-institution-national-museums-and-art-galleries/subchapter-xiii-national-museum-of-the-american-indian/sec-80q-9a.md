@@ -26,8 +26,8 @@ Any museum of the Smithsonian Institution which repatriates any item in good fai
 
 Nothing in this section may be construed to prevent the Secretary of the Smithsonian Institution, with respect to any museum of the Smithsonian Institution, from making an inventory or preparing a written summary or carrying out the repatriation of unassociated funerary objects, sacred objects, or objects of cultural patrimony in a manner that exceeds the requirements of this subchapter.
 
-#### (f) “Native Hawaiian organization” defined ####
+#### (f) "Native Hawaiian organization" defined ####
 
-For purposes of this section, the term “Native Hawaiian organization” has the meaning provided that term in section 3001(11) of title 25.
+For purposes of this section, the term "Native Hawaiian organization" has the meaning provided that term in section 3001(11) of title 25.
 
 (Pub. L. 101–185, §11A, as added Pub. L. 104–278, §4, Oct. 9, 1996, 110 Stat. 3355.)

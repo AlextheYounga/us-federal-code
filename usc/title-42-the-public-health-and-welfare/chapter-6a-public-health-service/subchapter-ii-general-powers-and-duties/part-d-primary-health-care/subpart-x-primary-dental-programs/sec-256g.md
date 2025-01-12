@@ -2,7 +2,7 @@
 
 #### (a) Grant program authorized ####
 
-The Secretary, acting through the Administrator of the Health Resources and Services Administration, is authorized to award grants to States for the purpose of helping States develop and implement innovative programs to address the dental workforce needs of designated dental health professional shortage areas in a manner that is appropriate to the States’ individual needs.
+The Secretary, acting through the Administrator of the Health Resources and Services Administration, is authorized to award grants to States for the purpose of helping States develop and implement innovative programs to address the dental workforce needs of designated dental health professional shortage areas in a manner that is appropriate to the States' individual needs.
 
 #### (b) State activities ####
 
@@ -16,7 +16,7 @@ A State receiving a grant under subsection (a) of this section may use funds rec
 
 (C) agree to—
 
-(i) provide services to patients regardless of such patients’ ability to pay; and
+(i) provide services to patients regardless of such patients' ability to pay; and
 
 (ii) use a sliding payment scale for patients who are unable to pay the total cost of services;
 
@@ -80,4 +80,4 @@ The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch
 
 #### Amendments ####
 
-**2008**—Subsec. (f). Pub. L. 110–355 substituted “$25,000,000” for “$50,000,000” and “2008” for “2002”.
+**2008**—Subsec. (f). Pub. L. 110–355 substituted "$25,000,000" for "$50,000,000" and "2008" for "2002".

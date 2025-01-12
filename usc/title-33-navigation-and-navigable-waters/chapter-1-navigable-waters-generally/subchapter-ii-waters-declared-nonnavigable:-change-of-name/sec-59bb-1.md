@@ -28,6 +28,6 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pu
 
 The provisions of subsec. (b) of this section, which contain the text of the boundary descriptions, have been omitted. Such provisions appear at 114 Stat. 2614 to 2618.
 
-#### “Secretary” Defined ####
+#### "Secretary" Defined ####
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–541, set out as a note under section 2201 of this title.

@@ -68,33 +68,33 @@ Under regulations prescribed by the Secretary, any exempt-interest dividend (as 
 
 #### (i) In general ####
 
-For purposes of this part, the term “specified private activity bond” means any private activity bond (as defined in section 141) which is issued after August 7, 1986, and the interest on which is not includible in gross income under section 103.
+For purposes of this part, the term "specified private activity bond" means any private activity bond (as defined in section 141) which is issued after August 7, 1986, and the interest on which is not includible in gross income under section 103.
 
 #### (ii) Exception for qualified 501(c)(3) bonds ####
 
-For purposes of clause (i), the term “private activity bond” shall not include any qualified 501(c)(3) bond (as defined in section 145).
+For purposes of clause (i), the term "private activity bond" shall not include any qualified 501(c)(3) bond (as defined in section 145).
 
 #### (iii) Exception for certain housing bonds ####
 
-For purposes of clause (i), the term “private activity bond” shall not include any bond issued after the date of the enactment of this clause if such bond is—
+For purposes of clause (i), the term "private activity bond" shall not include any bond issued after the date of the enactment of this clause if such bond is—
 
 (I) an exempt facility bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide qualified residential rental projects (as defined in section 142(d)),
 
 (II) a qualified mortgage bond (as defined in section 143(a)), or
 
-(III) a qualified veterans’ mortgage bond (as defined in section 143(b)).
+(III) a qualified veterans' mortgage bond (as defined in section 143(b)).
 
  The preceding sentence shall not apply to any refunding bond unless such preceding sentence applied to the refunded bond (or in the case of a series of refundings, the original bond).
 
 #### (iv) Exception for refundings ####
 
-For purposes of clause (i), the term “private activity bond” shall not include any refunding bond (whether a current or advance refunding) if the refunded bond (or in the case of a series of refundings, the original bond) was issued before August 8, 1986.
+For purposes of clause (i), the term "private activity bond" shall not include any refunding bond (whether a current or advance refunding) if the refunded bond (or in the case of a series of refundings, the original bond) was issued before August 8, 1986.
 
 #### (v) Certain bonds issued before September 1, 1986 ####
 
 For purposes of this subparagraph, a bond issued before September 1, 1986, shall be treated as issued before August 8, 1986, unless such bond would be a private activity bond if—
 
-(I) paragraphs (1) and (2) of section 141(b) were applied by substituting “25 percent” for “10 percent” each place it appears,
+(I) paragraphs (1) and (2) of section 141(b) were applied by substituting "25 percent" for "10 percent" each place it appears,
 
 (II) paragraphs (3), (4), and (5) of section 141(b) did not apply, and
 
@@ -104,7 +104,7 @@ For purposes of this subparagraph, a bond issued before September 1, 1986, shall
 
 #### (I) In general ####
 
-For purposes of clause (i), the term “private activity bond” shall not include any bond issued after December 31, 2008, and before January 1, 2011.
+For purposes of clause (i), the term "private activity bond" shall not include any bond issued after December 31, 2008, and before January 1, 2011.
 
 #### (II) Treatment of refunding bonds ####
 
@@ -128,11 +128,11 @@ For purposes of paragraph (2) of subsection (a)—
 
 #### (1) In general ####
 
-The term “straight line recovery of intangibles”, when used with respect to intangible drilling and development costs for any well, means (except in the case of an election under paragraph (2)) ratable amortization of such costs over the 120-month period beginning with the month in which production from such well begins.
+The term "straight line recovery of intangibles", when used with respect to intangible drilling and development costs for any well, means (except in the case of an election under paragraph (2)) ratable amortization of such costs over the 120-month period beginning with the month in which production from such well begins.
 
 #### (2) Election ####
 
-If the taxpayer elects with respect to the intangible drilling and development costs for any well, the term “straight line recovery of intangibles” means any method which would be permitted for purposes of determining cost depletion with respect to such well and which is selected by the taxpayer for purposes of subsection (a)(2).
+If the taxpayer elects with respect to the intangible drilling and development costs for any well, the term "straight line recovery of intangibles" means any method which would be permitted for purposes of determining cost depletion with respect to such well and which is selected by the taxpayer for purposes of subsection (a)(2).
 
 (Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2333; amended Pub. L. 100–647, title I, §1007(b)(14)(B), (c), Nov. 10, 1988, 102 Stat. 3430, 3432; Pub. L. 101–508, title XI, §§11344, 11801(c)(12)(A), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–472, 1388–527, 1388–558; Pub. L. 102–227, title I, §112, Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–486, title XIX, §1915(a)(1), (b)(1), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13113(b)(1), 13171(a), Aug. 10, 1993, 107 Stat. 429, 454; Pub. L. 104–188, title I, §1616(b)(3), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title III, §311(b)(2)(B), Aug. 5, 1997, 111 Stat. 835; Pub. L. 105–206, title VI, §6005(d)(3), July 22, 1998, 112 Stat. 805; Pub. L. 108–27, title III, §301(b)(3), May 28, 2003, 117 Stat. 759; Pub. L. 110–289, div. C, title I, §3022(a)(1), July 30, 2008, 122 Stat. 2893; Pub. L. 111–5, div. B, title I, §1503(a), Feb. 17, 2009, 123 Stat. 354.)
 
@@ -152,43 +152,43 @@ A prior section 57, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 
 
 **2008**—Subsec. (a)(5)(C)(iii) to (v). Pub. L. 110–289 added cl. (iii) and redesignated former cls. (iii) and (iv) as (iv) and (v), respectively.
 
-**2003**—Subsec. (a)(7). Pub. L. 108–27 substituted “7 percent” for “42 percent” after “An amount equal to” and struck out last sentence which read as follows: “In the case of stock the holding period of which begins after December 31, 2000 (determined with the application of the last sentence of section 1(h)(2)(B)), the preceding sentence shall be applied by substituting ‘28 percent’ for ‘42 percent’.”
+**2003**—Subsec. (a)(7). Pub. L. 108–27 substituted "7 percent" for "42 percent" after "An amount equal to" and struck out last sentence which read as follows: "In the case of stock the holding period of which begins after December 31, 2000 (determined with the application of the last sentence of section 1(h)(2)(B)), the preceding sentence shall be applied by substituting '28 percent' for '42 percent'."
 
-**1998**—Subsec. (a)(7). Pub. L. 105–206 inserted at end “In the case of stock the holding period of which begins after December 31, 2000 (determined with the application of the last sentence of section 1(h)(2)(B)), the preceding sentence shall be applied by substituting ‘28 percent’ for ‘42 percent’.”
+**1998**—Subsec. (a)(7). Pub. L. 105–206 inserted at end "In the case of stock the holding period of which begins after December 31, 2000 (determined with the application of the last sentence of section 1(h)(2)(B)), the preceding sentence shall be applied by substituting '28 percent' for '42 percent'."
 
-**1997**—Subsec. (a)(7). Pub. L. 105–34 substituted “42 percent” for “one-half”.
+**1997**—Subsec. (a)(7). Pub. L. 105–34 substituted "42 percent" for "one-half".
 
-**1996**—Subsec. (a)(4). Pub. L. 104–188 struck out par. (4) which read as follows: “Reserves for losses on bad debts of financial institutions.—In the case of a financial institution to which section 593 applies, the amount by which the deduction allowable for the taxable year for a reasonable addition to a reserve for bad debts exceeds the amount that would have been allowable had the institution maintained its bad debt reserve for all taxable years on the basis of actual experience.”
+**1996**—Subsec. (a)(4). Pub. L. 104–188 struck out par. (4) which read as follows: "Reserves for losses on bad debts of financial institutions.—In the case of a financial institution to which section 593 applies, the amount by which the deduction allowable for the taxable year for a reasonable addition to a reserve for bad debts exceeds the amount that would have been allowable had the institution maintained its bad debt reserve for all taxable years on the basis of actual experience."
 
 **1993**—Subsec. (a)(6), (7). Pub. L. 103–66, §13171(a), redesignated pars. (7) and (8) as (6) and (7), respectively, and struck out heading and text of former par. (6). Text read as follows:
 
-“(A) In general.—The amount by which the deduction allowable under section 170 or 642(c) would be reduced if all capital gain property were taken into account at its adjusted basis.
+"(A) In general.—The amount by which the deduction allowable under section 170 or 642(c) would be reduced if all capital gain property were taken into account at its adjusted basis.
 
-“(B) Capital gain property.—For purposes of subparagraph (A), the term ‘capital gain property’ has the meaning given to such term by section 170(b)(1)(C)(iv). Such term shall not include any property to which an election under section 170(b)(1)(C)(iii) applies. In the case of any taxable year beginning in 1991, such term shall not include any tangible personal property. In the case of a contribution made before July 1, 1992, in a taxable year beginning in 1992, such term shall not include any tangible personal property.”
+"(B) Capital gain property.—For purposes of subparagraph (A), the term 'capital gain property' has the meaning given to such term by section 170(b)(1)(C)(iv). Such term shall not include any property to which an election under section 170(b)(1)(C)(iii) applies. In the case of any taxable year beginning in 1991, such term shall not include any tangible personal property. In the case of a contribution made before July 1, 1992, in a taxable year beginning in 1992, such term shall not include any tangible personal property."
 
 Subsec. (a)(8). Pub. L. 103–66, §13171(a), redesignated par. (8) as (7).
 
 Pub. L. 103–66, §13113(b)(1), added par. (8).
 
-**1992**—Subsec. (a)(1). Pub. L. 102–486, §1915(a)(1), inserted at end “Effective with respect to taxable years beginning after December 31, 1992, this paragraph shall not apply to any deduction for depletion computed in accordance with section 613A(c).”
+**1992**—Subsec. (a)(1). Pub. L. 102–486, §1915(a)(1), inserted at end "Effective with respect to taxable years beginning after December 31, 1992, this paragraph shall not apply to any deduction for depletion computed in accordance with section 613A(c)."
 
 Subsec. (a)(2)(E). Pub. L. 102–486, §1915(b)(1), added subpar. (E).
 
-**1991**—Subsec. (a)(6)(B). Pub. L. 102–227 inserted at end “In the case of a contribution made before July 1, 1992, in a taxable year beginning in 1992, such term shall not include any tangible personal property.”
+**1991**—Subsec. (a)(6)(B). Pub. L. 102–227 inserted at end "In the case of a contribution made before July 1, 1992, in a taxable year beginning in 1992, such term shall not include any tangible personal property."
 
-**1990**—Subsec. (a)(2)(D)(ii). Pub. L. 101–508, §11815(b)(3), substituted “section 613(e)(2)” for “section 613(e)(3)”.
+**1990**—Subsec. (a)(2)(D)(ii). Pub. L. 101–508, §11815(b)(3), substituted "section 613(e)(2)" for "section 613(e)(3)".
 
-Subsec. (a)(4). Pub. L. 101–508, §11801(c)(12)(A), struck out “585 or” after “section”.
+Subsec. (a)(4). Pub. L. 101–508, §11801(c)(12)(A), struck out "585 or" after "section".
 
-Subsec. (a)(6)(B). Pub. L. 101–508, §11344, inserted at end “In the case of any taxable year beginning in 1991, such term shall not include any tangible personal property.”
+Subsec. (a)(6)(B). Pub. L. 101–508, §11344, inserted at end "In the case of any taxable year beginning in 1991, such term shall not include any tangible personal property."
 
 **1988**—Subsec. (a)(3). Pub. L. 100–647, §1007(b)(14)(B), struck out par. (3) which related to incentive stock options.
 
-Subsec. (a)(5)(C)(i). Pub. L. 100–647, §1007(c)(2), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “For purposes of this part, the term ‘specified private activity bonds’ means any private activity bond (as defined in section 141) issued after August 7, 1986.”
+Subsec. (a)(5)(C)(i). Pub. L. 100–647, §1007(c)(2), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "For purposes of this part, the term 'specified private activity bonds' means any private activity bond (as defined in section 141) issued after August 7, 1986."
 
-Subsec. (a)(5)(C)(iii). Pub. L. 100–647, §1007(c)(1), inserted “(whether a current or advance refunding)” after “any refunding bond”.
+Subsec. (a)(5)(C)(iii). Pub. L. 100–647, §1007(c)(1), inserted "(whether a current or advance refunding)" after "any refunding bond".
 
-Subsec. (a)(6)(A). Pub. L. 100–647, §1007(c)(3), inserted “or 642(c)” after “section 170”.
+Subsec. (a)(6)(A). Pub. L. 100–647, §1007(c)(3), inserted "or 642(c)" after "section 170".
 
 #### Effective Date of 2009 Amendment ####
 
@@ -242,17 +242,17 @@ For provisions that nothing in amendment by sections 11801 and 11815 of Pub. L. 
 
 Pub. L. 100–647, title I, §1007(f)(4), Nov. 10, 1988, 102 Stat. 3433, provided that:
 
-“(A) If any property to which this paragraph applies is placed in service in a taxable year which begins before January 1, 1987, and ends on or after August 1, 1986, the item of tax preference determined under section 57(a) of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986 [Oct. 22, 1986]) with respect to such property shall be the excess of—
+"(A) If any property to which this paragraph applies is placed in service in a taxable year which begins before January 1, 1987, and ends on or after August 1, 1986, the item of tax preference determined under section 57(a) of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986 [Oct. 22, 1986]) with respect to such property shall be the excess of—
 
-“(i) the amount allowable as a deduction for depreciation or amortization for such taxable year, over
+"(i) the amount allowable as a deduction for depreciation or amortization for such taxable year, over
 
-“(ii) the amount which would be determined for such taxable year under the rules of paragraph (1) or (5) (whichever is appropriate) of section 56(a) of the Internal Revenue Code of 1954 (as amended by the Tax Reform Act of 1986 [Pub. L. 99–514]).
+"(ii) the amount which would be determined for such taxable year under the rules of paragraph (1) or (5) (whichever is appropriate) of section 56(a) of the Internal Revenue Code of 1954 (as amended by the Tax Reform Act of 1986 [Pub. L. 99–514]).
 
-“(B) This paragraph shall apply to any property—
+"(B) This paragraph shall apply to any property—
 
-“(i) which is described in paragraph (4) or (12) of section 57(a) of the Internal Revenue Code of 1954 (as so in effect), and
+"(i) which is described in paragraph (4) or (12) of section 57(a) of the Internal Revenue Code of 1954 (as so in effect), and
 
-“(ii) to which paragraph (1) or (5) of section 56(a) of the Internal Revenue Code of 1986 would apply if the taxable year referred to in subparagraph (A) began after December 31, 1986.”
+"(ii) to which paragraph (1) or (5) of section 56(a) of the Internal Revenue Code of 1986 would apply if the taxable year referred to in subparagraph (A) began after December 31, 1986."
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States ####
 

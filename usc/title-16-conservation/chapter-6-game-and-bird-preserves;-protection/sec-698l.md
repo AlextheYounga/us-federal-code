@@ -6,4 +6,4 @@ Within five years from October 11, 1974, with respect to the preserve and five y
 
 #### Amendments ####
 
-**1988**—Pub. L. 100–301 inserted “with respect to the preserve and five years from April 29, 1988, with respect to the Addition” after “October 11, 1974,” and “or the area within the Addition (as the case may be)” after “preserve” in two places.
+**1988**—Pub. L. 100–301 inserted "with respect to the preserve and five years from April 29, 1988, with respect to the Addition" after "October 11, 1974," and "or the area within the Addition (as the case may be)" after "preserve" in two places.

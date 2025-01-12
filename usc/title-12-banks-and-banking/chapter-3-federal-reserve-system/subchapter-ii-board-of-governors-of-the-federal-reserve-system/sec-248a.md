@@ -52,7 +52,7 @@ All depository institutions, as defined in section 461(b)(1) of this title, may 
 
 #### Effective Date of 1987 Amendment ####
 
-Pub. L. 100–86, title VI, §612(b), Aug. 10, 1987, 101 Stat. 652, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of enactment of this title [Aug. 10, 1987].”
+Pub. L. 100–86, title VI, §612(b), Aug. 10, 1987, 101 Stat. 652, provided that: "The amendment made by subsection (a) [amending this section] shall take effect on the date of enactment of this title [Aug. 10, 1987]."
 
 #### Effective Date ####
 

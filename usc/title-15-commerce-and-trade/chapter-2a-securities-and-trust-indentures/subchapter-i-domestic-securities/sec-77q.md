@@ -30,25 +30,25 @@ Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII 
 
 #### References in Text ####
 
-Section 78c(a)(78) of this title, referred to in subsec. (a), was in the original “section 3(a)(78) of the Securities Exchange Act”, and was translated as meaning section 3(a)(78) of act June 6, 1934, ch. 404, to reflect the probable intent of Congress.
+Section 78c(a)(78) of this title, referred to in subsec. (a), was in the original "section 3(a)(78) of the Securities Exchange Act", and was translated as meaning section 3(a)(78) of act June 6, 1934, ch. 404, to reflect the probable intent of Congress.
 
 #### Amendments ####
 
-**2010**—Subsec. (a). Pub. L. 111–203, §762(c)(2)(A), in introductory provisions, inserted “(including security-based swaps)” after “securities” and substituted “(as defined in section 78c(a)(78) of this title)” for “(as defined in section 206B of the Gramm-Leach-Bliley Act)”.
+**2010**—Subsec. (a). Pub. L. 111–203, §762(c)(2)(A), in introductory provisions, inserted "(including security-based swaps)" after "securities" and substituted "(as defined in section 78c(a)(78) of this title)" for "(as defined in section 206B of the Gramm-Leach-Bliley Act)".
 
-Subsec. (d). Pub. L. 111–203, §762(c)(2)(B), substituted “78c(a)(78) of this title” for “206B of the Gramm-Leach-Bliley Act”.
+Subsec. (d). Pub. L. 111–203, §762(c)(2)(B), substituted "78c(a)(78) of this title" for "206B of the Gramm-Leach-Bliley Act".
 
-**2000**—Subsec. (a). Pub. L. 106–554, §1(a)(5) [title III, §302(b)], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “It shall be unlawful for any person in the offer or sale of any securities by the use of any means or instruments of transportation or communication in interstate commerce or by the use of the mails, directly or indirectly—
+**2000**—Subsec. (a). Pub. L. 106–554, §1(a)(5) [title III, §302(b)], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "It shall be unlawful for any person in the offer or sale of any securities by the use of any means or instruments of transportation or communication in interstate commerce or by the use of the mails, directly or indirectly—
 
-“(1) to employ any device, scheme, or artifice to defraud, or
+"(1) to employ any device, scheme, or artifice to defraud, or
 
-“(2) to obtain money or property by means of any untrue statement of a material fact or any omission to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading, or
+"(2) to obtain money or property by means of any untrue statement of a material fact or any omission to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading, or
 
-“(3) to engage in any transaction, practice, or course of business which operates or would operate as a fraud or deceit upon the purchaser.”
+"(3) to engage in any transaction, practice, or course of business which operates or would operate as a fraud or deceit upon the purchaser."
 
 Subsec. (d). Pub. L. 106–554, §1(a)(5) [title III, §302(c)], added subsec. (d).
 
-**1954**—Subsec. (a). Act Aug. 10, 1954, inserted “offer or” before “sale” in introductory text.
+**1954**—Subsec. (a). Act Aug. 10, 1954, inserted "offer or" before "sale" in introductory text.
 
 #### Effective Date of 2010 Amendment ####
 

@@ -16,7 +16,7 @@ Section 6064, Pub. L. 88–164, title I, §154, as added Pub. L. 98–527, §2, 
 
 A prior section 6064, Pub. L. 88–164, title I, §134, formerly §137, as added Pub. L. 91–517, title I, §101(b), Oct. 30, 1970, 84 Stat. 1323; amended Pub. L. 93–45, title III, §301(c), June 18, 1973, 87 Stat. 95; renumbered §134 and amended Pub. L. 94–103, title I, §§101(b), 113, title III, §302(a), Oct. 4, 1975, 89 Stat. 486, 492, 506; Pub. L. 94–278, title XI, §1107(b), (c), Apr. 22, 1976, 90 Stat. 416; Pub. L. 95–602, title V, §514(b), Nov. 6, 1978, 92 Stat. 3017, related to payments to the States for planning, administration, and services, prior to the general amendment of this chapter by Pub. L. 98–527.
 
-Section 6065, Pub. L. 88–164, title I, §155, as added Pub. L. 103–230, title IV, §406, Apr. 6, 1994, 108 Stat. 327, defined “State”.
+Section 6065, Pub. L. 88–164, title I, §155, as added Pub. L. 103–230, title IV, §406, Apr. 6, 1994, 108 Stat. 327, defined "State".
 
 A prior section 6065, Pub. L. 88–164, title I, §135, formerly §138, as added Pub. L. 91–517, title I, §101(b), Oct. 30, 1970, 84 Stat. 1323; renumbered §135 and amended Pub. L. 94–103, title I, §§110(e)(3), 114, title III, §302(a), (b)(3), Oct. 4, 1975, 89 Stat. 490, 493, 506; Pub. L. 95–602, title V, §514(c), Nov. 6, 1978, 92 Stat. 3017, related to withholding of payments to States for planning, administration, and services, prior to the general amendment of this chapter by Pub. L. 98–527.
 

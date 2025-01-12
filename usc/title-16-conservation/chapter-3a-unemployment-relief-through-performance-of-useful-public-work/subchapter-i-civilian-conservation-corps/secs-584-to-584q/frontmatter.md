@@ -68,11 +68,11 @@ Civilian Conservation Corps and its functions consolidated with other agencies u
 
 #### Sections Continued for Purposes of Liquidation ####
 
-Act July 12, 1943, ch. 221, title II, 57 Stat. 499, provided in part: “For the purposes hereof the provisions of the Act to establish the Civilian Conservation Corps and for other purposes approved June 28, 1937, as amended, shall continue in full force and effect to such extent as may be necessary to facilitate liquidation of such corps, and the Federal Security Administrator shall exercise the authority vested in the Director of such corps by such Act.”
+Act July 12, 1943, ch. 221, title II, 57 Stat. 499, provided in part: "For the purposes hereof the provisions of the Act to establish the Civilian Conservation Corps and for other purposes approved June 28, 1937, as amended, shall continue in full force and effect to such extent as may be necessary to facilitate liquidation of such corps, and the Federal Security Administrator shall exercise the authority vested in the Director of such corps by such Act."
 
 #### Liquidation of C.C.C. ####
 
-Acts July 2, 1942, ch. 475, title II, 56 Stat. 569, and July 12, 1943, ch. 221, title II, 57 Stat. 499, appropriated funds to enable the Director of the Civilian Conservation Corps to provide for the liquidation of the Civilian Conservation Corps and the latter provided that “said liquidation shall be completed as quickly as possible but in any event not later than June 30, 1944.”
+Acts July 2, 1942, ch. 475, title II, 56 Stat. 569, and July 12, 1943, ch. 221, title II, 57 Stat. 499, appropriated funds to enable the Director of the Civilian Conservation Corps to provide for the liquidation of the Civilian Conservation Corps and the latter provided that "said liquidation shall be completed as quickly as possible but in any event not later than June 30, 1944."
 
 Liquidation of all enrollees and overhead personnel was accomplished by August 15, 1942, pursuant to a directive of Director of C.C.C., except for a skeleton force which was retained to transfer supplies and material to Army, Navy, and Civil Aeronautics Authority.
 
@@ -88,7 +88,7 @@ Act July 1, 1937, ch. 425, §1, 50 Stat. 470, provided for continuance of employ
 
 #### Cooperation of Department Heads Authorized ####
 
-Ex. Ord. No. 7677–A, §3, July 1, 1937, 2 F.R. 1581 DI, 1346 BV, as amended by Ex. Ord. No. 7717, Sept. 29, 1937, 2 F.R. 2435 DI, 2087 BV; Ex. Ord. No. 8133, May 15, 1939, 4 F.R. 2043; Ex. Ord. No. 8221, July 1, 1939, 4 F.R. 3715, provided for cooperation of Secretary of War, Secretary of the Interior, Secretary of Agriculture and Administrator of Veterans’ Affairs with Director of C.C.C.
+Ex. Ord. No. 7677–A, §3, July 1, 1937, 2 F.R. 1581 DI, 1346 BV, as amended by Ex. Ord. No. 7717, Sept. 29, 1937, 2 F.R. 2435 DI, 2087 BV; Ex. Ord. No. 8133, May 15, 1939, 4 F.R. 2043; Ex. Ord. No. 8221, July 1, 1939, 4 F.R. 3715, provided for cooperation of Secretary of War, Secretary of the Interior, Secretary of Agriculture and Administrator of Veterans' Affairs with Director of C.C.C.
 
 #### Medical and Burial Expenses ####
 

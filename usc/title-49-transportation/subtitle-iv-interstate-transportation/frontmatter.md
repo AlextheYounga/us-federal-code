@@ -69,4 +69,4 @@ A prior subtitle IV, consisting of chapters 101 to 119, related to interstate co
 
 #### Amendments ####
 
-**1997**—Pub. L. 105–102, §2(5), Nov. 20, 1997, 111 Stat. 2204, struck out “AND TARIFFS” after “RATES” in item for chapter 155.
+**1997**—Pub. L. 105–102, §2(5), Nov. 20, 1997, 111 Stat. 2204, struck out "AND TARIFFS" after "RATES" in item for chapter 155.

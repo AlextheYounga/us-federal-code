@@ -22,8 +22,8 @@ Section was enacted as a part of the Psychotropic Substances Act of 1978, and no
 
 #### Change of Name ####
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in par. (3) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in par. (3) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date ####
 
-Pub. L. 95–633, title I, §112, Nov. 10, 1978, 92 Stat. 3774, provided that: “This title [enacting this section and section 852 of this title, amending sections 352, 802, 811, 812, 823, 827, 872, 952, and 953 of this title and section 242a of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 801 and 812 of this title] and the amendments made by this title shall take effect on the date the Convention on Psychotropic Substances, signed at Vienna, Austria on February 21, 1971, enters into force in respect to the United States.” [The Convention entered into force in respect to the United States on July 15, 1980.]
+Pub. L. 95–633, title I, §112, Nov. 10, 1978, 92 Stat. 3774, provided that: "This title [enacting this section and section 852 of this title, amending sections 352, 802, 811, 812, 823, 827, 872, 952, and 953 of this title and section 242a of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 801 and 812 of this title] and the amendments made by this title shall take effect on the date the Convention on Psychotropic Substances, signed at Vienna, Austria on February 21, 1971, enters into force in respect to the United States." [The Convention entered into force in respect to the United States on July 15, 1980.]

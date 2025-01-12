@@ -10,4 +10,4 @@ Sec.
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–357, title VIII, §833(b)(6)(B), Oct. 22, 2004, 118 Stat. 1591, substituted “Special rules where section 754 election or substantial built-in loss” for “Optional adjustment to basis of partnership property” in item 743.
+**2004**—Pub. L. 108–357, title VIII, §833(b)(6)(B), Oct. 22, 2004, 118 Stat. 1591, substituted "Special rules where section 754 election or substantial built-in loss" for "Optional adjustment to basis of partnership property" in item 743.

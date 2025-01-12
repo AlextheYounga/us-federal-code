@@ -42,7 +42,7 @@ For each award year after award year 1993–1994, the Secretary shall publish in
 
 (1) by increasing each dollar amount that refers to net worth of a farm or business by a percentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 1992 and the December next preceding the beginning of such award year, and rounding the result to the nearest $5,000; and
 
-(2) by adjusting the dollar amounts “$30,000”, “$105,000”, and “$195,000” to reflect the changes made pursuant to paragraph (1).
+(2) by adjusting the dollar amounts "$30,000", "$105,000", and "$195,000" to reflect the changes made pursuant to paragraph (1).
 
 #### (d) Education savings and asset protection allowance ####
 
@@ -62,9 +62,9 @@ For each award year after award year 1993–1994, the Secretary shall publish in
 
 (2) by adjusting the other dollar amounts to reflect the changes made pursuant to paragraph (1).
 
-#### (f) “Consumer Price Index” defined ####
+#### (f) "Consumer Price Index" defined ####
 
-As used in this section, the term “Consumer Price Index” means the Consumer Price Index for All Urban Consumers published by the Department of Labor. Each annual update of tables to reflect changes in the Consumer Price Index shall be corrected for misestimation of actual changes in such Index in previous years.
+As used in this section, the term "Consumer Price Index" means the Consumer Price Index for All Urban Consumers published by the Department of Labor. Each annual update of tables to reflect changes in the Consumer Price Index shall be corrected for misestimation of actual changes in such Index in previous years.
 
 #### (g) State and other tax allowance ####
 
@@ -80,31 +80,31 @@ For each award year after award year 1993–1994, the Secretary shall publish in
 
 **2007**—Subsec. (b)(1). Pub. L. 110–84, §601(d)(1), added par. (1) and struck out former par. (1). Prior to amendment, par. (1) required the Secretary to publish in the Federal Register, for each academic year after academic year 1993–1994, a revised table of income protection allowances for the purpose of sections 1087oo(c)(4) and 1087qq(b)(4) of this title.
 
-Subsec. (b)(2). Pub. L. 110–84, §601(d)(2), substituted “shall be developed for each academic year after academic year 2012–2013, by increasing each of the dollar amounts contained in such section for academic year 2012–2013 by a percentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 2011 and the December next preceding the beginning of such academic year, and rounding the result to the nearest $10.” for “shall be developed by increasing each of the dollar amounts contained in such section by a percentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 2006 and the December next preceding the beginning of such academic year, and rounding the result to the nearest $10.”
+Subsec. (b)(2). Pub. L. 110–84, §601(d)(2), substituted "shall be developed for each academic year after academic year 2012–2013, by increasing each of the dollar amounts contained in such section for academic year 2012–2013 by a percentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 2011 and the December next preceding the beginning of such academic year, and rounding the result to the nearest $10." for "shall be developed by increasing each of the dollar amounts contained in such section by a percentage equal to the estimated percentage increase in the Consumer Price Index (as determined by the Secretary) between December 2006 and the December next preceding the beginning of such academic year, and rounding the result to the nearest $10."
 
-**2006**—Subsec. (b)(1). Pub. L. 109–171, §8017(d)(1), inserted at end “For the 2007–2008 academic year, the Secretary shall revise the tables in accordance with this paragraph, except that the Secretary shall increase the amounts contained in the table in section 1087qq(b)(4) of this title by a percentage equal to the greater of the estimated percentage increase in the Consumer Price Index (as determined under the preceding sentence) or 5 percent.”
+**2006**—Subsec. (b)(1). Pub. L. 109–171, §8017(d)(1), inserted at end "For the 2007–2008 academic year, the Secretary shall revise the tables in accordance with this paragraph, except that the Secretary shall increase the amounts contained in the table in section 1087qq(b)(4) of this title by a percentage equal to the greater of the estimated percentage increase in the Consumer Price Index (as determined under the preceding sentence) or 5 percent."
 
-Subsec. (b)(2). Pub. L. 109–171, §8017(d)(2), substituted “2007–2008” for “2000–2001” and “2006” for “1999”.
+Subsec. (b)(2). Pub. L. 109–171, §8017(d)(2), substituted "2007–2008" for "2000–2001" and "2006" for "1999".
 
-Subsec. (h). Pub. L. 109–171, §8017(e), struck out “1087pp(b)(4)(B),” after “1087pp(b)(4)(A),” and substituted “food away from home, apparel, transportation, and household furnishings and operations” for “meals away from home, apparel and upkeep, transportation, and housekeeping services”.
+Subsec. (h). Pub. L. 109–171, §8017(e), struck out "1087pp(b)(4)(B)," after "1087pp(b)(4)(A)," and substituted "food away from home, apparel, transportation, and household furnishings and operations" for "meals away from home, apparel and upkeep, transportation, and housekeeping services".
 
 **1998**—Subsec. (b). Pub. L. 105–244 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-**1993**—Subsec. (b). Pub. L. 103–208, §2(g)(8)(A), substituted “1993–1994” for “1992–1993”.
+**1993**—Subsec. (b). Pub. L. 103–208, §2(g)(8)(A), substituted "1993–1994" for "1992–1993".
 
-Subsec. (c). Pub. L. 103–208, §2(g)(8), substituted “1993–1994” for “1992–1993” in introductory provisions and inserted “December” before “1992” in par. (1).
+Subsec. (c). Pub. L. 103–208, §2(g)(8), substituted "1993–1994" for "1992–1993" in introductory provisions and inserted "December" before "1992" in par. (1).
 
-Subsecs. (d), (e), (g). Pub. L. 103–208, §2(g)(8)(A), substituted “1993–1994” for “1992–1993”.
+Subsecs. (d), (e), (g). Pub. L. 103–208, §2(g)(8)(A), substituted "1993–1994" for "1992–1993".
 
-Subsec. (h). Pub. L. 103–208, §2(g)(8)(A), (9), substituted “1993–1994” for “1992–1993” and “Bureau of Labor Statistics” for “Bureau of Labor Standards”.
+Subsec. (h). Pub. L. 103–208, §2(g)(8)(A), (9), substituted "1993–1994" for "1992–1993" and "Bureau of Labor Statistics" for "Bureau of Labor Standards".
 
 **1992**—Pub. L. 102–325 amended section generally, revising and restating as subsecs. (a) to (h) provisions formerly contained in subsecs. (a) to (f).
 
-**1987**—Subsec. (c)(2). Pub. L. 100–50, §14(21), substituted “ ‘$24,000’, ‘$84,000’, and ‘$156,000’ ” for “ ‘$26,000’, ‘$91,000’, and ‘$169,000’ ”.
+**1987**—Subsec. (c)(2). Pub. L. 100–50, §14(21), substituted " '$24,000', '$84,000', and '$156,000' " for " '$26,000', '$91,000', and '$169,000' ".
 
-Subsec. (d). Pub. L. 100–50, §14(20), inserted “, rounded to the nearest $100,” after “present value cost” and “of 40 and above” after “each age cohort” in second sentence and, after second sentence, inserted “For each age cohort below 40, the asset protection allowance shall be computed by decreasing the asset protection allowance for age 40, as updated, by one-fifteenth for each year of age below age 40 and rounding the result to the nearest $100.”
+Subsec. (d). Pub. L. 100–50, §14(20), inserted ", rounded to the nearest $100," after "present value cost" and "of 40 and above" after "each age cohort" in second sentence and, after second sentence, inserted "For each age cohort below 40, the asset protection allowance shall be computed by decreasing the asset protection allowance for age 40, as updated, by one-fifteenth for each year of age below age 40 and rounding the result to the nearest $100."
 
-Subsec. (f). Pub. L. 100–50, §14(22), substituted “Consumer Price Index for All Urban Consumers” for “Consumer Price Index for Wage Earners and Clerical Workers”.
+Subsec. (f). Pub. L. 100–50, §14(22), substituted "Consumer Price Index for All Urban Consumers" for "Consumer Price Index for Wage Earners and Clerical Workers".
 
 #### Effective Date of 2007 Amendment ####
 

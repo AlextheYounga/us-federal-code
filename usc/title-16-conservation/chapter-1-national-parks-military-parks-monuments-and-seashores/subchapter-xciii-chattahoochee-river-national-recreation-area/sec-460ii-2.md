@@ -20,6 +20,6 @@ In administering the recreation area, the Secretary may permit fishing in waters
 
 #### Amendments ####
 
-**1999**—Subsec. (a). Pub. L. 106–154, §2(e)(1), substituted “of this subchapter” for “of this subchapter and chapter 43 of this title”.
+**1999**—Subsec. (a). Pub. L. 106–154, §2(e)(1), substituted "of this subchapter" for "of this subchapter and chapter 43 of this title".
 
-Subsec. (b). Pub. L. 106–154, §2(c), added subsec. (b) and struck out former subsec. (b) which read as follows: “The Secretary is authorized and encouraged to enter into cooperative agreements with the State or its political subdivisions whereby he may assist in the planning for and interpretation of non-Federal publicly owned lands within or adjacent or related to the recreation area to assure that such lands are used in a manner consistent with the findings and purposes of this subchapter and chapter 43 of this title.”
+Subsec. (b). Pub. L. 106–154, §2(c), added subsec. (b) and struck out former subsec. (b) which read as follows: "The Secretary is authorized and encouraged to enter into cooperative agreements with the State or its political subdivisions whereby he may assist in the planning for and interpretation of non-Federal publicly owned lands within or adjacent or related to the recreation area to assure that such lands are used in a manner consistent with the findings and purposes of this subchapter and chapter 43 of this title."

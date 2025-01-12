@@ -28,7 +28,7 @@ If a person subject to a fee under this subsection fails to pay the fee when due
 
 #### (A) Establishment ####
 
-There is established in the Treasury of the United States a fund, to be known as the “Agricultural Quarantine Inspection User Fee Account”, which shall contain all of the fees collected under this subsection and late payment penalties and interest charges collected under paragraph (4) through fiscal year 2002.
+There is established in the Treasury of the United States a fund, to be known as the "Agricultural Quarantine Inspection User Fee Account", which shall contain all of the fees collected under this subsection and late payment penalties and interest charges collected under paragraph (4) through fiscal year 2002.
 
 #### (B) Use of account ####
 
@@ -98,7 +98,7 @@ An action may be brought for the recovery of fees, late payment penalties, and a
 
 #### (1) Animal quarantine laws ####
 
-For purposes of this section, the term “animal quarantine laws” means—
+For purposes of this section, the term "animal quarantine laws" means—
 
 (A) section 306 of the Tariff Act of 1930 <sup><a href="#136a_3_target" name="136a_3">3</a></sup> (19 U.S.C. 1306);
 
@@ -110,19 +110,19 @@ For purposes of this section, the term “animal quarantine laws” means—
 
 #### (2) Customs territory ####
 
-For the purposes of subsection (a) of this section, the term “customs territory of the United States” means the 50 States, the District of Columbia, and Puerto Rico.
+For the purposes of subsection (a) of this section, the term "customs territory of the United States" means the 50 States, the District of Columbia, and Puerto Rico.
 
 #### (3) Person ####
 
-For the purposes of this section, the term “person” means an individual, corporation, partnership, trust, association, or any other public or private entity, or any officer, employee, or agent thereof.
+For the purposes of this section, the term "person" means an individual, corporation, partnership, trust, association, or any other public or private entity, or any officer, employee, or agent thereof.
 
 #### (4) United States ####
 
-For the purposes of subsection (b) of this section, the term “United States” means the several States of the United States, the District of Columbia, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and all other territories and possessions of the United States.
+For the purposes of subsection (b) of this section, the term "United States" means the several States of the United States, the District of Columbia, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and all other territories and possessions of the United States.
 
 #### (5) Vessel ####
 
-For the purposes of subsection (a) of this section, the term “vessel” does not include any ferry.
+For the purposes of subsection (a) of this section, the term "vessel" does not include any ferry.
 
 (Pub. L. 101–624, title XXV, §2509, Nov. 28, 1990, 104 Stat. 4069; Pub. L. 101–508, title I, §1203, Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 102–237, title X, §1015, Dec. 13, 1991, 105 Stat. 1902; Pub. L. 104–127, title IX, §917, Apr. 4, 1996, 110 Stat. 1187; Pub. L. 107–171, title X, §10418(b)(5), May 13, 2002, 116 Stat. 509.)
 
@@ -142,45 +142,45 @@ Section is comprised of section 2509 of Pub. L. 101–624. Subsec. (b) and anoth
 
 Subsec. (f)(1)(B) to (O). Pub. L. 107–171, §10418(b)(5)(B), added subpars. (B) to (D) and struck out former subpars. (B) to (O), which read as follows:
 
-“(B) sections 6 through 10 of the Act of August 30, 1890 (26 Stat. 416, chapter 839; 21 U.S.C. 101–105);
+"(B) sections 6 through 10 of the Act of August 30, 1890 (26 Stat. 416, chapter 839; 21 U.S.C. 101–105);
 
-“(C) section 2 of the Act of February 2, 1903 (32 Stat. 792, chapter 349; 21 U.S.C. 111);
+"(C) section 2 of the Act of February 2, 1903 (32 Stat. 792, chapter 349; 21 U.S.C. 111);
 
-“(D) the Act of May 29, 1884 (23 Stat. 32, chapter 60; 21 U.S.C. 112 to 114a–1, 115, 117–119, and 130) (commonly known as the ‘Animal Industry Act’);
+"(D) the Act of May 29, 1884 (23 Stat. 32, chapter 60; 21 U.S.C. 112 to 114a–1, 115, 117–119, and 130) (commonly known as the 'Animal Industry Act');
 
-“(E) the Act of February 28, 1947 (61 Stat. 7, chapter 8; 21 U.S.C. 114b, 114c, and 114d–1);
+"(E) the Act of February 28, 1947 (61 Stat. 7, chapter 8; 21 U.S.C. 114b, 114c, and 114d–1);
 
-“(F) the Act of June 16, 1948 (62 Stat. 458, chapter 477; 21 U.S.C. 114e and 114f);
+"(F) the Act of June 16, 1948 (62 Stat. 458, chapter 477; 21 U.S.C. 114e and 114f);
 
-“(G) Public Law 87–209 (21 U.S.C. 114g and 114h);
+"(G) Public Law 87–209 (21 U.S.C. 114g and 114h);
 
-“(H) the Act of May 31, 1920 (41 Stat. 699, chapter 217; 21 U.S.C. 116);
+"(H) the Act of May 31, 1920 (41 Stat. 699, chapter 217; 21 U.S.C. 116);
 
-“(I) the Act of February 2, 1903 (32 Stat. 791, chapter 349; 21 U.S.C. 112 and 120–122) (commonly known as the ‘Cattle Contagious Diseases Act of 1903’);
+"(I) the Act of February 2, 1903 (32 Stat. 791, chapter 349; 21 U.S.C. 112 and 120–122) (commonly known as the 'Cattle Contagious Diseases Act of 1903');
 
-“(J) the Act of March 3, 1905 (33 Stat. 1264, chapter 1496; 21 U.S.C. 123–127) (commonly known as the ‘Cattle Contagious Diseases Act of 1905’);
+"(J) the Act of March 3, 1905 (33 Stat. 1264, chapter 1496; 21 U.S.C. 123–127) (commonly known as the 'Cattle Contagious Diseases Act of 1905');
 
-“(K) the matter under the heading ‘Bureau of Animal Industry’ of the Act of June 30, 1914 (38 Stat. 419, chapter 131; 21 U.S.C. 128);
+"(K) the matter under the heading 'Bureau of Animal Industry' of the Act of June 30, 1914 (38 Stat. 419, chapter 131; 21 U.S.C. 128);
 
-“(L) section 101 of Public Law 92–73 (21 U.S.C. 129);
+"(L) section 101 of Public Law 92–73 (21 U.S.C. 129);
 
-“(M) the matter under the heading ‘Miscellaneous’ of the Act of May 26, 1910 (36 Stat. 440, chapter 256; 21 U.S.C. 131);
+"(M) the matter under the heading 'Miscellaneous' of the Act of May 26, 1910 (36 Stat. 440, chapter 256; 21 U.S.C. 131);
 
-“(N) sections 1 through 6 and 11 through 13 of Public Law 87–518 (21 U.S.C. 134–134h); or
+"(N) sections 1 through 6 and 11 through 13 of Public Law 87–518 (21 U.S.C. 134–134h); or
 
-“(O) any other Act administered by the Secretary relating to plant or animal diseases or pests, other than the first section of Public Law 91–239 (21 U.S.C. 135).”
+"(O) any other Act administered by the Secretary relating to plant or animal diseases or pests, other than the first section of Public Law 91–239 (21 U.S.C. 135)."
 
 **1996**—Subsec. (a). Pub. L. 104–127 added subsec. (a) and struck out heading and text of former subsec. (a) which consisted of pars. (1) to (4) relating to quarantine, inspection, and transportation fees.
 
 **1991**—Subsec. (a)(1). Pub. L. 102–237, §1015(1), designated existing provisions as subpar. (A), realigned margin, added heading, and added subpars. (B) to (D).
 
-Subsec. (a)(3)(B)(ii). Pub. L. 102–237, §1015(2), added cl. (ii) and struck out former cl. (ii) which read as follows: “The Secretary of Treasury shall use the Account to provide reimbursements to any appropriations accounts that incur the costs associated with the services authorized in paragraph (1). Any such reimbursement shall be subject to appropriations under clause (v).”
+Subsec. (a)(3)(B)(ii). Pub. L. 102–237, §1015(2), added cl. (ii) and struck out former cl. (ii) which read as follows: "The Secretary of Treasury shall use the Account to provide reimbursements to any appropriations accounts that incur the costs associated with the services authorized in paragraph (1). Any such reimbursement shall be subject to appropriations under clause (v)."
 
-Subsec. (a)(4). Pub. L. 102–237, §1015(3), substituted “Subject to the limits set forth in paragraph (1), the” for “The”.
+Subsec. (a)(4). Pub. L. 102–237, §1015(3), substituted "Subject to the limits set forth in paragraph (1), the" for "The".
 
-**1990**—Subsec. (a)(1). Pub. L. 101–508, §1203(1), substituted “an international passenger, commercial vessel, commercial aircraft, commercial truck, or railroad car.” for “a commercial vessel, commercial aircraft, commercial truck, or railroad car,”.
+**1990**—Subsec. (a)(1). Pub. L. 101–508, §1203(1), substituted "an international passenger, commercial vessel, commercial aircraft, commercial truck, or railroad car." for "a commercial vessel, commercial aircraft, commercial truck, or railroad car,".
 
-Subsec. (a)(3)(B)(ii). Pub. L. 101–508, §1203(2)(A), inserted at end “Any such reimbursement shall be subject to appropriations under clause (v).”
+Subsec. (a)(3)(B)(ii). Pub. L. 101–508, §1203(2)(A), inserted at end "Any such reimbursement shall be subject to appropriations under clause (v)."
 
 Subsec. (a)(3)(B)(v). Pub. L. 101–508, §1203(2)(B), added cl. (v).
 
@@ -190,10 +190,10 @@ Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub.
 
 #### Report on Agricultural Quarantine Inspection Fund ####
 
-Pub. L. 104–66, title I, §1012(c), Dec. 21, 1995, 109 Stat. 712, provided that: “The Secretary of Agriculture shall not be required to submit a report to the appropriate committees of Congress on the status of the Agricultural Quarantine Inspection fund more frequently than annually.”
+Pub. L. 104–66, title I, §1012(c), Dec. 21, 1995, 109 Stat. 712, provided that: "The Secretary of Agriculture shall not be required to submit a report to the appropriate committees of Congress on the status of the Agricultural Quarantine Inspection fund more frequently than annually."
 
-[<sup>1</sup> So in original. Probably should be “Liens”.](#136a_1)
+[<sup>1</sup> So in original. Probably should be "Liens".](#136a_1)
 
-[<sup>2</sup> So in original. Probably should be “makes”.](#136a_2)
+[<sup>2</sup> So in original. Probably should be "makes".](#136a_2)
 
 [<sup>3</sup> See References in Text note below.](#136a_3)

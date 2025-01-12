@@ -142,7 +142,7 @@ In exercising authority to acquire lands pursuant to this section the Secretary 
 
 #### (1) Definition of landowner ####
 
-In this subsection, the term “landowner” means the owner of legal or equitable title as of September 1, 2000.
+In this subsection, the term "landowner" means the owner of legal or equitable title as of September 1, 2000.
 
 #### (2) Appraisal standards ####
 
@@ -196,52 +196,52 @@ For the purposes of section 460l–9 of this title, the boundaries of the scenic
 
 Pub. L. 106–291, title III, §346(c), Oct. 11, 2000, 114 Stat. 1000, provided that:
 
-“(1) Not later than November 1, 2000, the Secretary of Agriculture shall provide notice of the provisions contained in the amendments made by subsections (a) and (b) [amending this section and section 544f of this title] through—
+"(1) Not later than November 1, 2000, the Secretary of Agriculture shall provide notice of the provisions contained in the amendments made by subsections (a) and (b) [amending this section and section 544f of this title] through—
 
-“(A) publication of a notice in the Federal Register and in newspapers of general circulation in the counties in the Columbia River Gorge National Scenic Area; and
+"(A) publication of a notice in the Federal Register and in newspapers of general circulation in the counties in the Columbia River Gorge National Scenic Area; and
 
-“(B) posting of a notice in each facility of the United States Postal Service located in those counties.
+"(B) posting of a notice in each facility of the United States Postal Service located in those counties.
 
-“(2) If the counties wherein special management areas are located provide the Forest Service administrator of the Columbia River Gorge National Scenic Area lists of the names and addresses of landowners within the special management areas as of September 1, 2000, the Forest Service shall send to such names and addresses by certified first class mail notice of the provisions contained in the amendments made by subsections (a) and (b);
+"(2) If the counties wherein special management areas are located provide the Forest Service administrator of the Columbia River Gorge National Scenic Area lists of the names and addresses of landowners within the special management areas as of September 1, 2000, the Forest Service shall send to such names and addresses by certified first class mail notice of the provisions contained in the amendments made by subsections (a) and (b);
 
-“(A) The mailing shall occur within twenty working days of the receipt of the list; and
+"(A) The mailing shall occur within twenty working days of the receipt of the list; and
 
-“(B) The mailing shall constitute constructive notice to landowners, and proof of receipt by the addressee shall not be required.”
+"(B) The mailing shall constitute constructive notice to landowners, and proof of receipt by the addressee shall not be required."
 
 #### Conveyance of Lands Between Skamania County and the United States ####
 
 Pub. L. 105–277, div. A, §101(e) [title III, §341], Oct. 21, 1998, 112 Stat. 2681–231, 2681–296, provided that:
 
-“Upon the condition that Skamania County conveys title acceptable to the Secretary of Agriculture to all right, title and interest in lands identified on a map dated September 29, 1998 entitled ‘Skamania County Lands to be Transferred’, such lands being located on Table Mountain lying within the Columbia River Gorge National Scenic Area, there is hereby conveyed to Skamania County, notwithstanding any other provision of law, the Wind River Nursery Site lands and facilities and all interests therein, except for the corridor of the Pacific Crest National Scenic Trail, as depicted on a map dated September 29, 1998, entitled ‘Wind River Conveyance’, which is on file and available for public inspection in the Office of the Chief, USDA Forest Service, Washington, D.C.
+"Upon the condition that Skamania County conveys title acceptable to the Secretary of Agriculture to all right, title and interest in lands identified on a map dated September 29, 1998 entitled 'Skamania County Lands to be Transferred', such lands being located on Table Mountain lying within the Columbia River Gorge National Scenic Area, there is hereby conveyed to Skamania County, notwithstanding any other provision of law, the Wind River Nursery Site lands and facilities and all interests therein, except for the corridor of the Pacific Crest National Scenic Trail, as depicted on a map dated September 29, 1998, entitled 'Wind River Conveyance', which is on file and available for public inspection in the Office of the Chief, USDA Forest Service, Washington, D.C.
 
-“The conveyance of lands to Skamania County shall become automatically effective upon a determination by the Secretary that Skamania County has conveyed acceptable title to the United States to the Skamania County lands. Lands conveyed to the United States shall become part of the Gifford Pinchot National Forest and shall have the status of lands acquired under the Act of March 1, 1911, (commonly called the Weeks Act) [see Short Title note set out under section 552 of this title] and shall be managed in accordance with the laws and regulations applicable to the National Forest System.”
+"The conveyance of lands to Skamania County shall become automatically effective upon a determination by the Secretary that Skamania County has conveyed acceptable title to the United States to the Skamania County lands. Lands conveyed to the United States shall become part of the Gifford Pinchot National Forest and shall have the status of lands acquired under the Act of March 1, 1911, (commonly called the Weeks Act) [see Short Title note set out under section 552 of this title] and shall be managed in accordance with the laws and regulations applicable to the National Forest System."
 
 #### Land Exchanges ####
 
-Pub. L. 105–83, title III, §336, Nov. 14, 1997, 111 Stat. 1602, provided that: “To facilitate priority land exchanges through which the United States will receive land within the White Salmon Wild and Scenic River boundaries and within the Columbia River Gorge National Scenic Area, the Secretary of Agriculture may, until September 30, 2000, accept title to such lands deemed appropriate by the Secretary within the States of Oregon and Washington, regardless of the State in which the transferred lands are located, following existing exchange authorities.”
+Pub. L. 105–83, title III, §336, Nov. 14, 1997, 111 Stat. 1602, provided that: "To facilitate priority land exchanges through which the United States will receive land within the White Salmon Wild and Scenic River boundaries and within the Columbia River Gorge National Scenic Area, the Secretary of Agriculture may, until September 30, 2000, accept title to such lands deemed appropriate by the Secretary within the States of Oregon and Washington, regardless of the State in which the transferred lands are located, following existing exchange authorities."
 
 #### Wind River Nursery ####
 
 Pub. L. 105–83, title III, §340, Nov. 14, 1997, 111 Stat. 1603, provided that:
 
-“(a) The Secretary of Agriculture is authorized and directed to negotiate with Skamania County for the exchange of lands or interests in lands constituting the Wind River Nursery Site within the Gifford Pinchot National Forest, Washington.
+"(a) The Secretary of Agriculture is authorized and directed to negotiate with Skamania County for the exchange of lands or interests in lands constituting the Wind River Nursery Site within the Gifford Pinchot National Forest, Washington.
 
-“(b) In return for the Nursery Site properties, Skamania County is authorized and directed to negotiate with the Forest Service the conveyance of approximately 120 acres of high biodiversity, special management lands located near Table Mountain within the Columbia River Gorge National Scenic Area, title to which must be acceptable to the Secretary of Agriculture.
+"(b) In return for the Nursery Site properties, Skamania County is authorized and directed to negotiate with the Forest Service the conveyance of approximately 120 acres of high biodiversity, special management lands located near Table Mountain within the Columbia River Gorge National Scenic Area, title to which must be acceptable to the Secretary of Agriculture.
 
-“(c) Before this exchange can occur, it must be of equal value and the Secretary and the Skamania County Board of Commissioners must agree on the exact parcels of land to be included in the exchange. An agreement signed by the Secretary of Agriculture and the Skamania County Board of Commissioners describing the properties involved and a certification that the exchange is of equal value must be completed no later than September 30, 1999.
+"(c) Before this exchange can occur, it must be of equal value and the Secretary and the Skamania County Board of Commissioners must agree on the exact parcels of land to be included in the exchange. An agreement signed by the Secretary of Agriculture and the Skamania County Board of Commissioners describing the properties involved and a certification that the exchange is of equal value must be completed no later than September 30, 1999.
 
-“(d) During this two-year negotiating period, the Wind River Nursery property shall not be conveyed to another party. The Forest Service shall maintain the site in a tenantable condition.
+"(d) During this two-year negotiating period, the Wind River Nursery property shall not be conveyed to another party. The Forest Service shall maintain the site in a tenantable condition.
 
-“(e) Except as provided herein, the exchange shall be for equal value in accordance with land exchange authorities applicable to the National Forest System.
+"(e) Except as provided herein, the exchange shall be for equal value in accordance with land exchange authorities applicable to the National Forest System.
 
-“(f) The Secretary is directed to equalize values by not only cash and exchange of lands, easements, reservations, and other interests in lands, but also by full value credit for such services as Skamania County provides to the Gifford Pinchot and Columbia River Gorge National Scenic Area and as the Secretary and Skamania County deem appropriate. The Secretary may accept services in lieu of cash when the Secretary can discern cash value for the services and when the Secretary determines such services would provide direct benefits to lands and resources and users of such lands and resources under the jurisdiction of the Secretary.
+"(f) The Secretary is directed to equalize values by not only cash and exchange of lands, easements, reservations, and other interests in lands, but also by full value credit for such services as Skamania County provides to the Gifford Pinchot and Columbia River Gorge National Scenic Area and as the Secretary and Skamania County deem appropriate. The Secretary may accept services in lieu of cash when the Secretary can discern cash value for the services and when the Secretary determines such services would provide direct benefits to lands and resources and users of such lands and resources under the jurisdiction of the Secretary.
 
-“(g) Any cash equalization which Skamania County elects to make may be made up to 50 percent of the fair market value of the Federal property, and such cash equalization may be made in installments over a period not to exceed 25 years. Payments received as partial consideration shall be deposited into the fund in the Treasury established under the Act of December 4, 1967 [16 U.S.C. 484a], commonly known as the Sisk Act, and shall be available for expenditure as provided in the Act except that the Secretary may not use those funds to purchase lands within Skamania County.
+"(g) Any cash equalization which Skamania County elects to make may be made up to 50 percent of the fair market value of the Federal property, and such cash equalization may be made in installments over a period not to exceed 25 years. Payments received as partial consideration shall be deposited into the fund in the Treasury established under the Act of December 4, 1967 [16 U.S.C. 484a], commonly known as the Sisk Act, and shall be available for expenditure as provided in the Act except that the Secretary may not use those funds to purchase lands within Skamania County.
 
-“(h) In defining the Federal estate to be conveyed, the Secretary may require such additional terms and conditions as deemed necessary in connection with assuring equal value and public interest considerations in this exchange including, but not limited to, continued research use of the Wind River Experimental Forest and protection of natural, cultural, and historic resources, existing administrative sites, and a scenic corridor for the Pacific Crest National Scenic Trail.
+"(h) In defining the Federal estate to be conveyed, the Secretary may require such additional terms and conditions as deemed necessary in connection with assuring equal value and public interest considerations in this exchange including, but not limited to, continued research use of the Wind River Experimental Forest and protection of natural, cultural, and historic resources, existing administrative sites, and a scenic corridor for the Pacific Crest National Scenic Trail.
 
-“(i) This authorization is predicated on Skamania County's Board of Commissioners commitment to give foremost consideration to preservation of the overall integrity of the site and conservation of the educational and research potential of the site, including providing for access to and assurance of the continued administration and operation of forestry research on the adjacent Thornton Munger Research Natural Area.
+"(i) This authorization is predicated on Skamania County's Board of Commissioners commitment to give foremost consideration to preservation of the overall integrity of the site and conservation of the educational and research potential of the site, including providing for access to and assurance of the continued administration and operation of forestry research on the adjacent Thornton Munger Research Natural Area.
 
-“(j) The Secretary is further directed to cooperate with Skamania County to address applicable Federal and State environmental laws.
+"(j) The Secretary is further directed to cooperate with Skamania County to address applicable Federal and State environmental laws.
 
-“(k) Notwithstanding the processes involved with the National Environmental Policy Act [of 1969, 42 U.S.C. 4321 et seq.] and the State Environmental Policy Act, should the Secretary of Agriculture and the Skamania County Board of Commissioners fail to reach an agreement on an equal value exchange defined under the terms of this legislation by September 30, 1999, the Wind River Nursery Site shall remain under Forest Service ownership and be maintained by the Forest Service in a tenantable condition.”
+"(k) Notwithstanding the processes involved with the National Environmental Policy Act [of 1969, 42 U.S.C. 4321 et seq.] and the State Environmental Policy Act, should the Secretary of Agriculture and the Skamania County Board of Commissioners fail to reach an agreement on an equal value exchange defined under the terms of this legislation by September 30, 1999, the Wind River Nursery Site shall remain under Forest Service ownership and be maintained by the Forest Service in a tenantable condition."

@@ -32,7 +32,7 @@ Sec.
 
 1013. Omitted.
 
-1013a. Benefits extended to Puerto Rico and Virgin Islands; “county” defined; payments to Governor or fiscal agent of county.
+1013a. Benefits extended to Puerto Rico and Virgin Islands; "county" defined; payments to Governor or fiscal agent of county.
 
 #### SUBCHAPTER IV—GENERAL PROVISIONS ####
 
@@ -60,4 +60,4 @@ Sec.
 
 1039. Time for filing purchase applications.
 
-1040. Farmers’ Home Administration funds account.
+1040. Farmers' Home Administration funds account.

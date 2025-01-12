@@ -10,7 +10,7 @@ Repeal of sections 4401 and 4402 effective Apr. 1, 1974, see section 605 of Pub.
 
 #### Short Title ####
 
-Pub. L. 91–606, §1, Dec. 31, 1970, 84 Stat. 1744, provided that Pub. L. 91–606 which enacted this chapter, amended section 1926 of Title 7, Agriculture, sections 1706c, 1709, and 1715l of Title 12, Banks and Banking, sections 241–1, 646, and 758 of Title 20, Education, sections 165, 5064, and 5708 of Title 26, Internal Revenue Code, section 1820 [now 3720] of Title 38, Veterans’ Benefits, and section 461 of former Title 40, Public Buildings, Property, and Works, repealed sections 1855 to 1855g, 1855aa, 1855aa note, 1855bb to 1855ii, 1855aaa, 1855aaa note, 1855bbb to 1855nnn of this title, and enacted provisions set out as notes under sections 4401 and 4434 of this title, and amended provisions set out as a note under section 1681 of Title 48, Territories and Insular Possessions, may be cited as the “Disaster Relief Act of 1970”.
+Pub. L. 91–606, §1, Dec. 31, 1970, 84 Stat. 1744, provided that Pub. L. 91–606 which enacted this chapter, amended section 1926 of Title 7, Agriculture, sections 1706c, 1709, and 1715l of Title 12, Banks and Banking, sections 241–1, 646, and 758 of Title 20, Education, sections 165, 5064, and 5708 of Title 26, Internal Revenue Code, section 1820 [now 3720] of Title 38, Veterans' Benefits, and section 461 of former Title 40, Public Buildings, Property, and Works, repealed sections 1855 to 1855g, 1855aa, 1855aa note, 1855bb to 1855ii, 1855aaa, 1855aaa note, 1855bbb to 1855nnn of this title, and enacted provisions set out as notes under sections 4401 and 4434 of this title, and amended provisions set out as a note under section 1681 of Title 48, Territories and Insular Possessions, may be cited as the "Disaster Relief Act of 1970".
 
 #### Savings Provision ####
 
@@ -22,7 +22,7 @@ Functions of President under the Disaster Relief Acts of 1970 and 1974 delegated
 
 #### References to Disaster Relief Act of 1970 ####
 
-Section 702(m), formerly section 602(m), of Pub. L. 93–288, as renumbered by Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100, provided that: “Whenever reference is made in any provision of law (other than this Act [the Disaster Relief Act of 1974, see Short Title note set out under section 5121 of this title]), regulation rule, record, or documents of the United States to provisions of the Disaster Relief Act of 1970 (84 Stat. 1744) [see Short Title note above], repealed by this Act such reference shall be deemed to be a reference to the appropriate provision of this Act.”
+Section 702(m), formerly section 602(m), of Pub. L. 93–288, as renumbered by Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100, provided that: "Whenever reference is made in any provision of law (other than this Act [the Disaster Relief Act of 1974, see Short Title note set out under section 5121 of this title]), regulation rule, record, or documents of the United States to provisions of the Disaster Relief Act of 1970 (84 Stat. 1744) [see Short Title note above], repealed by this Act such reference shall be deemed to be a reference to the appropriate provision of this Act."
 
 #### References to Act of September 30, 1950 ####
 
@@ -30,7 +30,7 @@ Pub. L. 91–606, title III, §301(l), Dec. 31, 1970, 84 Stat. 1758, provided th
 
 #### Availability of Funds Appropriated Under This Chapter for Use Under Chapter 68 ####
 
-Section 704, formerly section 604, of Pub. L. 93–288, as renumbered by Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100, provided that: “Funds heretofore appropriated and available under Public Laws 91–606, as amended [this chapter], and 92–385 [amending section 4451 of this title and sections 633 and 636 of Title 15, Commerce and Trade, repealing section 1969 of Title 7, Agriculture, enacting provisions set out as notes under section 4401 of this title and section 636 of Title 15] shall continue to be available for the purpose of providing assistance under those Acts as well as for the purposes of this Act [see Short Title note set out under section 5121 of this title].”
+Section 704, formerly section 604, of Pub. L. 93–288, as renumbered by Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100, provided that: "Funds heretofore appropriated and available under Public Laws 91–606, as amended [this chapter], and 92–385 [amending section 4451 of this title and sections 633 and 636 of Title 15, Commerce and Trade, repealing section 1969 of Title 7, Agriculture, enacting provisions set out as notes under section 4401 of this title and section 636 of Title 15] shall continue to be available for the purpose of providing assistance under those Acts as well as for the purposes of this Act [see Short Title note set out under section 5121 of this title]."
 
 #### Use of Funds Allocated Before December 31, 1970 ####
 

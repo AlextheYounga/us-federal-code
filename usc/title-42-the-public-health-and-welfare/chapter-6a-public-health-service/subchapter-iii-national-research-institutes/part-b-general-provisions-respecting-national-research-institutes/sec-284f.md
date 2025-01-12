@@ -62,9 +62,9 @@ The Director of NIH is authorized to establish a grant program to support invest
 
 #### Amendments ####
 
-**2007**—Subsec. (a). Pub. L. 109–482, §103(b)(8)(A), substituted “to carry out this section” for “under subsection (e) of this section”.
+**2007**—Subsec. (a). Pub. L. 109–482, §103(b)(8)(A), substituted "to carry out this section" for "under subsection (e) of this section".
 
-Subsec. (e). Pub. L. 109–482, §103(b)(8)(B), struck out heading and text of subsec. (e). Text read as follows: “For the purpose of carrying out this section and section 241 of this title and this subchapter with respect to research focused on Parkinson's disease, there are authorized to be appropriated up to $100,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 and 2000.”
+Subsec. (e). Pub. L. 109–482, §103(b)(8)(B), struck out heading and text of subsec. (e). Text read as follows: "For the purpose of carrying out this section and section 241 of this title and this subchapter with respect to research focused on Parkinson's disease, there are authorized to be appropriated up to $100,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 and 2000."
 
 #### Change of Name ####
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 
 #### Additional Grants ####
 
-Pub. L. 108–199, div. E, title II, §217, Jan. 23, 2004, 118 Stat. 255, provided that: “Notwithstanding section 409B(c) of the Public Health Service Act [42 U.S.C. 284f(c)] regarding a limitation on the number of such grants, funds appropriated in this Act [div. E of Pub. L. 108–199, see Tables for classification] and Acts in fiscal years thereafter may be expended by the Director of the National Institutes of Health to award Core Center Grants to encourage the development of innovative multidisciplinary research and provide training concerning Parkinson's disease. Each center funded under such grants shall be designated as a Morris K. Udall Center for Research on Parkinson's Disease.”
+Pub. L. 108–199, div. E, title II, §217, Jan. 23, 2004, 118 Stat. 255, provided that: "Notwithstanding section 409B(c) of the Public Health Service Act [42 U.S.C. 284f(c)] regarding a limitation on the number of such grants, funds appropriated in this Act [div. E of Pub. L. 108–199, see Tables for classification] and Acts in fiscal years thereafter may be expended by the Director of the National Institutes of Health to award Core Center Grants to encourage the development of innovative multidisciplinary research and provide training concerning Parkinson's disease. Each center funded under such grants shall be designated as a Morris K. Udall Center for Research on Parkinson's Disease."
 
 Similar provisions were contained in Pub. L. 108–7, div. G, title II, §218, Feb. 20, 2003, 117 Stat. 326.
 
@@ -86,8 +86,8 @@ Similar provisions were contained in Pub. L. 108–7, div. G, title II, §218, F
 
 Pub. L. 105–78, title VI, §603(b), Nov. 13, 1997, 111 Stat. 1519, provided that:
 
-“(1) Finding.—Congress finds that to take full advantage of the tremendous potential for finding a cure or effective treatment, the Federal investment in Parkinson's disease must be expanded, as well as the coordination strengthened among the National Institutes of Health research institutes.
+"(1) Finding.—Congress finds that to take full advantage of the tremendous potential for finding a cure or effective treatment, the Federal investment in Parkinson's disease must be expanded, as well as the coordination strengthened among the National Institutes of Health research institutes.
 
-“(2) Purpose.—It is the purpose of this section [enacting this section] to provide for the expansion and coordination of research regarding Parkinson's disease, and to improve care and assistance for afflicted individuals and their family caregivers.”
+"(2) Purpose.—It is the purpose of this section [enacting this section] to provide for the expansion and coordination of research regarding Parkinson's disease, and to improve care and assistance for afflicted individuals and their family caregivers."
 
-[<sup>1</sup> So in original. Probably should be “pathogenesis,”.](#284f_1)
+[<sup>1</sup> So in original. Probably should be "pathogenesis,".](#284f_1)

@@ -24,17 +24,17 @@ In the Corporation's purchasing and selling operations with respect to agricultu
 
 #### Codification ####
 
-“Chapter 91 of title 31” substituted in provision preceding subsec. (a) for “the Government Corporation Control Act (31 U.S.C., 1940 edition, Supp. V, 841)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+"Chapter 91 of title 31" substituted in provision preceding subsec. (a) for "the Government Corporation Control Act (31 U.S.C., 1940 edition, Supp. V, 841)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–357 inserted “(other than tobacco)” after “agricultural commodities” wherever appearing.
+**2004**—Pub. L. 108–357 inserted "(other than tobacco)" after "agricultural commodities" wherever appearing.
 
-**2002**—Pub. L. 107–171 inserted “(including, at the option of the Corporation, the use of private sector entities)” before period at end of last sentence.
+**2002**—Pub. L. 107–171 inserted "(including, at the option of the Corporation, the use of private sector entities)" before period at end of last sentence.
 
 **1996**—Subsecs. (g), (h). Pub. L. 104–127 added subsec. (g) and redesignated former subsec. (g) as (h).
 
-**1984**—Subsec. (f). Pub. L. 98–623 inserted “(including fish and fish products, without regard to whether such fish are harvested in aquacultural operations)”.
+**1984**—Subsec. (f). Pub. L. 98–623 inserted "(including fish and fish products, without regard to whether such fish are harvested in aquacultural operations)".
 
 #### Effective Date of 2004 Amendment ####
 
@@ -42,11 +42,11 @@ Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of to
 
 #### Effective Date of 1996 Amendment ####
 
-Pub. L. 104–127, title III, §381(b), Apr. 4, 1996, 110 Stat. 1016, provided that: “The amendments made by subsection (a) [amending this section] shall become effective on January 1, 1997.”
+Pub. L. 104–127, title III, §381(b), Apr. 4, 1996, 110 Stat. 1016, provided that: "The amendments made by subsection (a) [amending this section] shall become effective on January 1, 1997."
 
 #### Effective Date of 1984 Amendment ####
 
-Pub. L. 98–623, title IV, §405(d), Nov. 8, 1984, 98 Stat. 3409, provided that: “For purposes of section 135 of the Omnibus Budget Reconciliation Act of 1982 (7 U.S.C. 612c note) [Pub. L. 97–253], the amendments made by this section [amending this section and sections 1707a and 1732 of Title 7, Agriculture] shall be considered to have taken effect before the date of the enactment of that Act [Sept. 8, 1982].”
+Pub. L. 98–623, title IV, §405(d), Nov. 8, 1984, 98 Stat. 3409, provided that: "For purposes of section 135 of the Omnibus Budget Reconciliation Act of 1982 (7 U.S.C. 612c note) [Pub. L. 97–253], the amendments made by this section [amending this section and sections 1707a and 1732 of Title 7, Agriculture] shall be considered to have taken effect before the date of the enactment of that Act [Sept. 8, 1982]."
 
 #### Continuation of Liability for 2004 and Earlier Crop Years ####
 
@@ -60,22 +60,22 @@ For exception of functions of corporations of Department of Agriculture from tra
 
 Pub. L. 101–220, §2, Dec. 12, 1989, 103 Stat. 1876, provided that:
 
-“(a) Commissaries.—During each of fiscal years 1990, 1991, and 1992, the Commodity Credit Corporation shall, in carrying out the export enhancement program established pursuant to section 5(f) of the Commodity Credit Corporation Charter Act (15 U.S.C. 714c(f)), promote the export of United States meat, including poultry products, to commissaries on military installations in the European Community.
+"(a) Commissaries.—During each of fiscal years 1990, 1991, and 1992, the Commodity Credit Corporation shall, in carrying out the export enhancement program established pursuant to section 5(f) of the Commodity Credit Corporation Charter Act (15 U.S.C. 714c(f)), promote the export of United States meat, including poultry products, to commissaries on military installations in the European Community.
 
-“(b) Funding.—
+"(b) Funding.—
 
-“(1) In general.—Except as provided in paragraph (2), of the amounts made available by the Commodity Credit Corporation to exporters, processors, and foreign importers under the authority of section 5(f) of the Commodity Credit Corporation Charter Act (15 U.S.C. 714c(f)) in commodities of the Commodity Credit Corporation to enhance the export of United States commodities by making the price of such commodities competitive in the world market, the Commodity Credit Corporation shall make available to carry out subsection (a) not less than $14,000,000 in funds or commodities for fiscal year 1990, not less than $9,300,000 in funds or commodities for fiscal year 1991, and not less than $4,600,000 in funds or commodities for fiscal year 1992.
+"(1) In general.—Except as provided in paragraph (2), of the amounts made available by the Commodity Credit Corporation to exporters, processors, and foreign importers under the authority of section 5(f) of the Commodity Credit Corporation Charter Act (15 U.S.C. 714c(f)) in commodities of the Commodity Credit Corporation to enhance the export of United States commodities by making the price of such commodities competitive in the world market, the Commodity Credit Corporation shall make available to carry out subsection (a) not less than $14,000,000 in funds or commodities for fiscal year 1990, not less than $9,300,000 in funds or commodities for fiscal year 1991, and not less than $4,600,000 in funds or commodities for fiscal year 1992.
 
-“(2) Transportation costs.—Funds or commodities shall be made available under this section only to the extent that funds are made available by the Department of Defense for the costs of transporting the meat to the commissaries.
+"(2) Transportation costs.—Funds or commodities shall be made available under this section only to the extent that funds are made available by the Department of Defense for the costs of transporting the meat to the commissaries.
 
-“(c) Reimbursement of Corporation.—Section 4 of the Act of July 16, 1943 (57 Stat. 566, chapter 241; 15 U.S.C. 713a [15 U.S.C. 713a–9]) shall not apply to services performed, losses sustained, operating costs incurred, or commodities purchased or delivered by the Commodity Credit Corporation pursuant to this section.”
+"(c) Reimbursement of Corporation.—Section 4 of the Act of July 16, 1943 (57 Stat. 566, chapter 241; 15 U.S.C. 713a [15 U.S.C. 713a–9]) shall not apply to services performed, losses sustained, operating costs incurred, or commodities purchased or delivered by the Commodity Credit Corporation pursuant to this section."
 
 #### Use of Commodity Credit Corporation for Purchase of Agricultural Products Formerly Intended for Export to Soviet Union ####
 
-Pub. L. 96–494, title II, §206, Dec. 3, 1980, 94 Stat. 2572, provided that: “Notwithstanding any other provision of law, the Secretary of Agriculture may use, subject to such terms and conditions as the Secretary may deem appropriate, the funds, facilities, and authorities of the Commodity Credit Corporation in purchasing and handling agricultural products, other than grains, that—
+Pub. L. 96–494, title II, §206, Dec. 3, 1980, 94 Stat. 2572, provided that: "Notwithstanding any other provision of law, the Secretary of Agriculture may use, subject to such terms and conditions as the Secretary may deem appropriate, the funds, facilities, and authorities of the Commodity Credit Corporation in purchasing and handling agricultural products, other than grains, that—
 
-“(1) were intended to be exported to the Union of Soviet Socialist Republics under contracts entered into prior to January 5, 1980, but
+"(1) were intended to be exported to the Union of Soviet Socialist Republics under contracts entered into prior to January 5, 1980, but
 
-“(2) cannot be exported under such contracts due to the imposition, on January 4, 1980, of restrictions on the export of agricultural products to the Union of Soviet Socialist Republics,
+"(2) cannot be exported under such contracts due to the imposition, on January 4, 1980, of restrictions on the export of agricultural products to the Union of Soviet Socialist Republics,
 
-in the same manner and under the same conditions as the Secretary purchases and handles grains under similar contracts and subject to the imposition of the same restrictions.”
+in the same manner and under the same conditions as the Secretary purchases and handles grains under similar contracts and subject to the imposition of the same restrictions."

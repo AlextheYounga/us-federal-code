@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-To be eligible to receive financial assistance under this part, each State shall establish a Statewide Independent Living Council (referred to in this section as the “Council”). The Council shall not be established as an entity within a State agency.
+To be eligible to receive financial assistance under this part, each State shall establish a Statewide Independent Living Council (referred to in this section as the "Council"). The Council shall not be established as an entity within a State agency.
 
 #### (b) Composition and appointment ####
 
@@ -146,8 +146,8 @@ Another prior section 796d, Pub. L. 93–112, title VII, §705, as added Pub. L.
 
 #### Amendments ####
 
-**1998**—Subsec. (b)(1). Pub. L. 105–277, §101(f) [title VIII, §402(c)(7)(A)], in first sentence, substituted “by the Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity” for “by the Governor” and, in second sentence, substituted “The appointing authority” for “The Governor”.
+**1998**—Subsec. (b)(1). Pub. L. 105–277, §101(f) [title VIII, §402(c)(7)(A)], in first sentence, substituted "by the Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity" for "by the Governor" and, in second sentence, substituted "The appointing authority" for "The Governor".
 
-Subsec. (b)(5)(B). Pub. L. 105–277, §101(f) [title VIII, §402(c)(7)(B)], substituted “chief executive officer” for “Governor” in heading and “appointing authority described in paragraph (3) shall” for “Governor shall” in text.
+Subsec. (b)(5)(B). Pub. L. 105–277, §101(f) [title VIII, §402(c)(7)(B)], substituted "chief executive officer" for "Governor" in heading and "appointing authority described in paragraph (3) shall" for "Governor shall" in text.
 
-Subsec. (b)(6)(A)(ii), (7)(B). Pub. L. 105–277, §101(f) [title VIII, §402(c)(7)(C)], substituted “appointing authority described in paragraph (3)” for “Governor”.
+Subsec. (b)(6)(A)(ii), (7)(B). Pub. L. 105–277, §101(f) [title VIII, §402(c)(7)(C)], substituted "appointing authority described in paragraph (3)" for "Governor".

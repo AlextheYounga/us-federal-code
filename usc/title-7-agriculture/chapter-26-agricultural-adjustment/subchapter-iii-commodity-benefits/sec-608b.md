@@ -42,7 +42,7 @@ The provisions appearing in subsec. (a) of this section except the first sentenc
 
 #### Effective Date of 1989 Amendment ####
 
-Pub. L. 101–220, §4(c), Dec. 12, 1989, 103 Stat. 1878, provided that: “The amendment made by this section [amending this section] shall be effective with respect to the 1990 and subsequent crops of peanuts.”
+Pub. L. 101–220, §4(c), Dec. 12, 1989, 103 Stat. 1878, provided that: "The amendment made by this section [amending this section] shall be effective with respect to the 1990 and subsequent crops of peanuts."
 
 #### Validity of Section Affirmed ####
 

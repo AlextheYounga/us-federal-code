@@ -34,15 +34,15 @@ Sec.
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–375, div. A, title X, §1084(d)(33), Oct. 28, 2004, 118 Stat. 2063, renumbered item 8755 “Korea Defense Service Medal” as 8756.
+**2004**—Pub. L. 108–375, div. A, title X, §1084(d)(33), Oct. 28, 2004, 118 Stat. 2063, renumbered item 8755 "Korea Defense Service Medal" as 8756.
 
-**2002**—Pub. L. 107–314, div. A, title V, §543(d)(2), Dec. 2, 2002, 116 Stat. 2550, added item 8755 “Korea Defense Service Medal”.
+**2002**—Pub. L. 107–314, div. A, title V, §543(d)(2), Dec. 2, 2002, 116 Stat. 2550, added item 8755 "Korea Defense Service Medal".
 
-Pub. L. 107–248, title VIII, §8143(c)(3)(B), Oct. 23, 2002, 116 Stat. 1571, added item 8755 “Medal of honor: presentation of Medal of Honor Flag”.
+Pub. L. 107–248, title VIII, §8143(c)(3)(B), Oct. 23, 2002, 116 Stat. 1571, added item 8755 "Medal of honor: presentation of Medal of Honor Flag".
 
 **2001**—Pub. L. 107–107, div. A, title V, §553(c)(1)(B), Dec. 28, 2001, 115 Stat. 1116, added item 8754.
 
-**1960**—Pub. L. 86–593, §1(7), July 6, 1960, 74 Stat. 332, substituted “Air Force cross” for “distinguished-service cross” in items 8742, 8744, and 8745, inserted “Air Force cross;” in items 8747 and 8748, and substituted “Airman's Medal” for “Soldier's Medal” in item 8750.
+**1960**—Pub. L. 86–593, §1(7), July 6, 1960, 74 Stat. 332, substituted "Air Force cross" for "distinguished-service cross" in items 8742, 8744, and 8745, inserted "Air Force cross;" in items 8747 and 8748, and substituted "Airman's Medal" for "Soldier's Medal" in item 8750.
 
 #### Extension of Time for Award of Decoration ####
 

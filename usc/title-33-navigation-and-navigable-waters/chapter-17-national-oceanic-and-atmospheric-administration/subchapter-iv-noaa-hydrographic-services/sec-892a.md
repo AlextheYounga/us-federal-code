@@ -44,30 +44,30 @@ Where appropriate and to the extent that it does not detract from the promotion 
 
 #### References in Text ####
 
-This subchapter, referred to in subsecs. (a) and (b), was in the original “this Act”, and was translated, to reflect the probable intent of Congress, as reading “this title”, meaning title III of Pub. L. 105–384, Nov. 13, 1998, 112 Stat. 3454, known as the Hydrographic Services Improvement Act of 1998, which is classified principally to this subchapter. For complete classification of title III to the Code, see Short Title of 1998 Amendment note set out under section 851 of this title and Tables.
+This subchapter, referred to in subsecs. (a) and (b), was in the original "this Act", and was translated, to reflect the probable intent of Congress, as reading "this title", meaning title III of Pub. L. 105–384, Nov. 13, 1998, 112 Stat. 3454, known as the Hydrographic Services Improvement Act of 1998, which is classified principally to this subchapter. For complete classification of title III to the Code, see Short Title of 1998 Amendment note set out under section 851 of this title and Tables.
 
 Subchapter VI of chapter 10 of title 40, referred to in subsec. (b)(6), probably means title IX of the Federal Property and Administrative Services Act of 1949, act June 30, 1949, ch. 288, as added Pub. L. 92–582, Oct. 27, 1972, 86 Stat. 1278. Title IX of the Act, which was classified generally to subchapter VI (§541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§1101 et seq.) of Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of act June 30, 1949, to the Code, see Tables.
 
 #### Amendments ####
 
-**2008**—Subsec. (a). Pub. L. 110–386, §3(1), substituted “the Coast and Geodetic Survey Act, promote safe, efficient and environmentally sound marine transportation, and otherwise fulfill the purposes of this subchapter,” for “the Act of 1947,” in introductory provisions.
+**2008**—Subsec. (a). Pub. L. 110–386, §3(1), substituted "the Coast and Geodetic Survey Act, promote safe, efficient and environmentally sound marine transportation, and otherwise fulfill the purposes of this subchapter," for "the Act of 1947," in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 110–386, §3(2), substituted “data and provide hydrographic services;” for “data;”.
+Subsec. (a)(1). Pub. L. 110–386, §3(2), substituted "data and provide hydrographic services;" for "data;".
 
 Subsec. (b). Pub. L. 110–386, §3(3), added subsec. (b) and struck out former subsec. (b) which related to actions of Administrator to fulfill data gathering and dissemination duties of the Administration under the Act of 1947.
 
-**2002**—Subsec. (b)(4). Pub. L. 107–372, §103(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “may design and install where appropriate Physical Oceanographic Real-Time Systems to enhance navigation safety and efficiency.”
+**2002**—Subsec. (b)(4). Pub. L. 107–372, §103(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "may design and install where appropriate Physical Oceanographic Real-Time Systems to enhance navigation safety and efficiency."
 
 Subsec. (c). Pub. L. 107–372, §103(b), added subsec. (c).
 
 #### Hydrographic Survey ####
 
-Pub. L. 106–541, title V, §554, Dec. 11, 2000, 114 Stat. 2679, provided that: “The Secretary [of the Army] shall enter into an agreement with the Administrator of the National Oceanic and Atmospheric Administration—
+Pub. L. 106–541, title V, §554, Dec. 11, 2000, 114 Stat. 2679, provided that: "The Secretary [of the Army] shall enter into an agreement with the Administrator of the National Oceanic and Atmospheric Administration—
 
-“(1) to require the Secretary, not later than 60 days after the Corps of Engineers completes a project involving dredging of a channel, to provide data to the Administration in a standard digital format on the results of a hydrographic survey of the channel conducted by the Corps of Engineers; and
+"(1) to require the Secretary, not later than 60 days after the Corps of Engineers completes a project involving dredging of a channel, to provide data to the Administration in a standard digital format on the results of a hydrographic survey of the channel conducted by the Corps of Engineers; and
 
-“(2) to require the Administrator to provide the final charts with respect to the project to the Secretary in digital format, at no charge, for the purpose of enhancing the mission of the Corps of Engineers of maintaining Federal navigation projects.”
+"(2) to require the Administrator to provide the final charts with respect to the project to the Secretary in digital format, at no charge, for the purpose of enhancing the mission of the Corps of Engineers of maintaining Federal navigation projects."
 
-[<sup>1</sup> So in original. The word “and” probably should not appear.](#892a_1)
+[<sup>1</sup> So in original. The word "and" probably should not appear.](#892a_1)
 
 [<sup>2</sup> See References in Text note below.](#892a_2)

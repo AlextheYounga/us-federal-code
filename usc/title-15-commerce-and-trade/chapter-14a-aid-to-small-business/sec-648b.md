@@ -42,4 +42,4 @@ Section was enacted as part of the Small Business Jobs Act of 2010, and not as p
 
 #### Definitions ####
 
-For definition of “Administrator” and “small business concern” as used in this section, see section 1001 of Pub. L. 111–240, set out as a note under section 632 of this title.
+For definition of "Administrator" and "small business concern" as used in this section, see section 1001 of Pub. L. 111–240, set out as a note under section 632 of this title.

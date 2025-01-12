@@ -10,7 +10,7 @@ This Act, referred to in text, is act Aug. 27, 1935, ch. 748, 49 Stat. 891, as a
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+**2004**—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 #### Transfer of Functions ####
 

@@ -4,7 +4,7 @@ For the purpose of determining entitlement to the judgment awarded in Indian Cla
 
 (a) They were born on or prior to, and living on, October 14, 1966; and
 
-(b) Their name or the name of an ancestor from whom they claim eligibility appears on the roll of Miami Indians of Indiana of June 12, 1895, or the roll of “Miami Indians of Indiana, now living in Kansas, Quapaw Agency, I.T., and Oklahoma Territory,” prepared and completed pursuant to the Act of March 2, 1895 (28 Stat. 903), or the roll of the Eel River Miami Tribe of Indians of May 27, 1889, prepared and completed pursuant to the Act of June 29, 1888 (25 Stat. 223). No person whose name appears on the current tribal roll of the Miami Tribe of Oklahoma shall be eligible to be enrolled under this section.
+(b) Their name or the name of an ancestor from whom they claim eligibility appears on the roll of Miami Indians of Indiana of June 12, 1895, or the roll of "Miami Indians of Indiana, now living in Kansas, Quapaw Agency, I.T., and Oklahoma Territory," prepared and completed pursuant to the Act of March 2, 1895 (28 Stat. 903), or the roll of the Eel River Miami Tribe of Indians of May 27, 1889, prepared and completed pursuant to the Act of June 29, 1888 (25 Stat. 223). No person whose name appears on the current tribal roll of the Miami Tribe of Oklahoma shall be eligible to be enrolled under this section.
 
 (Pub. L. 89–659, §3, Oct. 14, 1966, 80 Stat. 909.)
 

@@ -14,13 +14,13 @@ Under such rules and regulations as the Commission may prescribe, every public u
 
 #### (d) Notice required for rate changes ####
 
-Unless the Commission otherwise orders, no change shall be made by any public utility in any such rate, charge, classification, or service, or in any rule, regulation, or contract relating thereto, except after sixty days’ notice to the Commission and to the public. Such notice shall be given by filing with the Commission and keeping open for public inspection new schedules stating plainly the change or changes to be made in the schedule or schedules then in force and the time when the change or changes will go into effect. The Commission, for good cause shown, may allow changes to take effect without requiring the sixty days’ notice herein provided for by an order specifying the changes so to be made and the time when they shall take effect and the manner in which they shall be filed and published.
+Unless the Commission otherwise orders, no change shall be made by any public utility in any such rate, charge, classification, or service, or in any rule, regulation, or contract relating thereto, except after sixty days' notice to the Commission and to the public. Such notice shall be given by filing with the Commission and keeping open for public inspection new schedules stating plainly the change or changes to be made in the schedule or schedules then in force and the time when the change or changes will go into effect. The Commission, for good cause shown, may allow changes to take effect without requiring the sixty days' notice herein provided for by an order specifying the changes so to be made and the time when they shall take effect and the manner in which they shall be filed and published.
 
 #### (e) Suspension of new rates; hearings; five-month period ####
 
 Whenever any such new schedule is filed the Commission shall have authority, either upon complaint or upon its own initiative without complaint, at once, and, if it so orders, without answer or formal pleading by the public utility, but upon reasonable notice, to enter upon a hearing concerning the lawfulness of such rate, charge, classification, or service; and, pending such hearing and the decision thereon, the Commission, upon filing with such schedules and delivering to the public utility affected thereby a statement in writing of its reasons for such suspension, may suspend the operation of such schedule and defer the use of such rate, charge, classification, or service, but not for a longer period than five months beyond the time when it would otherwise go into effect; and after full hearings, either completed before or after the rate, charge, classification, or service goes into effect, the Commission may make such orders with reference thereto as would be proper in a proceeding initiated after it had become effective. If the proceeding has not been concluded and an order made at the expiration of such five months, the proposed change of rate, charge, classification, or service shall go into effect at the end of such period, but in case of a proposed increased rate or charge, the Commission may by order require the interested public utility or public utilities to keep accurate account in detail of all amounts received by reason of such increase, specifying by whom and in whose behalf such amounts are paid, and upon completion of the hearing and decision may by further order require such public utility or public utilities to refund, with interest, to the persons in whose behalf such amounts were paid, such portion of such increased rates or charges as by its decision shall be found not justified. At any hearing involving a rate or charge sought to be increased, the burden of proof to show that the increased rate or charge is just and reasonable shall be upon the public utility, and the Commission shall give to the hearing and decision of such questions preference over other questions pending before it and decide the same as speedily as possible.
 
-#### (f) Review of automatic adjustment clauses and public utility practices; action by Commission; “automatic adjustment clause” defined ####
+#### (f) Review of automatic adjustment clauses and public utility practices; action by Commission; "automatic adjustment clause" defined ####
 
 (1) Not later than 2 years after November 9, 1978, and not less often than every 4 years thereafter, the Commission shall make a thorough review of automatic adjustment clauses in public utility rate schedules to examine—
 
@@ -44,13 +44,13 @@ Such review may take place in individual rate proceedings or in generic or other
 
 if such clause or practice does not result in the economical purchase and use of fuel, electric energy, or other items, the cost of which is included in any rate schedule under an automatic adjustment clause.
 
-(4) As used in this subsection, the term “automatic adjustment clause” means a provision of a rate schedule which provides for increases or decreases (or both), without prior hearing, in rates reflecting increases or decreases (or both) in costs incurred by an electric utility. Such term does not include any rate which takes effect subject to refund and subject to a later determination of the appropriate amount of such rate.
+(4) As used in this subsection, the term "automatic adjustment clause" means a provision of a rate schedule which provides for increases or decreases (or both), without prior hearing, in rates reflecting increases or decreases (or both) in costs incurred by an electric utility. Such term does not include any rate which takes effect subject to refund and subject to a later determination of the appropriate amount of such rate.
 
 (June 10, 1920, ch. 285, pt. II, §205, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 851; amended Pub. L. 95–617, title II, §§207(a), 208, Nov. 9, 1978, 92 Stat. 3142.)
 
 #### Amendments ####
 
-**1978**—Subsec. (d). Pub. L. 95–617, §207(a), substituted “sixty” for “thirty” in two places.
+**1978**—Subsec. (d). Pub. L. 95–617, §207(a), substituted "sixty" for "thirty" in two places.
 
 Subsec. (f). Pub. L. 95–617, §208, added subsec. (f).
 

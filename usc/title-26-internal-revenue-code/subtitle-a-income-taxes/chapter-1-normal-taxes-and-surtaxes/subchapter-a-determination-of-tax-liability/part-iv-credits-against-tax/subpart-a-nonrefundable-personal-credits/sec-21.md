@@ -8,7 +8,7 @@ In the case of an individual for which there are 1 or more qualifying individual
 
 #### (2) Applicable percentage defined ####
 
-For purposes of paragraph (1), the term “applicable percentage” means 35 percent reduced (but not below 20 percent) by 1 percentage point for each $2,000 (or fraction thereof) by which the taxpayer's adjusted gross income for the taxable year exceeds $15,000.
+For purposes of paragraph (1), the term "applicable percentage" means 35 percent reduced (but not below 20 percent) by 1 percentage point for each $2,000 (or fraction thereof) by which the taxpayer's adjusted gross income for the taxable year exceeds $15,000.
 
 #### (b) Definitions of qualifying individual and employment-related expenses ####
 
@@ -16,7 +16,7 @@ For purposes of this section—
 
 #### (1) Qualifying individual ####
 
-The term “qualifying individual” means—
+The term "qualifying individual" means—
 
 (A) a dependent of the taxpayer (as defined in section 152(a)(1)) who has not attained age 13,
 
@@ -28,7 +28,7 @@ The term “qualifying individual” means—
 
 #### (A) In general ####
 
-The term “employment-related expenses” means amounts paid for the following expenses, but only if such expenses are incurred to enable the taxpayer to be gainfully employed for any period for which there are 1 or more qualifying individuals with respect to the taxpayer:
+The term "employment-related expenses" means amounts paid for the following expenses, but only if such expenses are incurred to enable the taxpayer to be gainfully employed for any period for which there are 1 or more qualifying individuals with respect to the taxpayer:
 
 (i) expenses for household services, and
 
@@ -54,7 +54,7 @@ Employment-related expenses described in subparagraph (A) which are incurred for
 
 #### (D) Dependent care center defined ####
 
-For purposes of this paragraph, the term “dependent care center” means any facility which—
+For purposes of this paragraph, the term "dependent care center" means any facility which—
 
 (i) provides care for more than six individuals (other than individuals who reside at the facility), and
 
@@ -138,15 +138,15 @@ No credit shall be allowed under subsection (a) for any amount paid by the taxpa
 
 (B) who is a child of the taxpayer (within the meaning of section 152(f)(1)) who has not attained the age of 19 at the close of the taxable year.
 
-For purposes of this paragraph, the term “taxable year” means the taxable year of the taxpayer in which the service is performed.
+For purposes of this paragraph, the term "taxable year" means the taxable year of the taxpayer in which the service is performed.
 
 #### (7) Student ####
 
-The term “student” means an individual who during each of 5 calendar months during the taxable year is a full-time student at an educational organization.
+The term "student" means an individual who during each of 5 calendar months during the taxable year is a full-time student at an educational organization.
 
 #### (8) Educational organization ####
 
-The term “educational organization” means an educational organization described in section 170(b)(1)(A)(ii).
+The term "educational organization" means an educational organization described in section 170(b)(1)(A)(ii).
 
 #### (9) Identifying information required with respect to service provider ####
 
@@ -174,55 +174,55 @@ A prior section 21 was renumbered section 15 of this title.
 
 #### Amendments ####
 
-**2007**—Subsec. (e)(5). Pub. L. 110–172 substituted “section 152(e)(4)(A)” for “section 152(e)(3)(A)” in concluding provisions.
+**2007**—Subsec. (e)(5). Pub. L. 110–172 substituted "section 152(e)(4)(A)" for "section 152(e)(3)(A)" in concluding provisions.
 
-**2005**—Subsec. (b)(1)(B). Pub. L. 109–135 inserted “(as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B))” after “dependent of the taxpayer”.
+**2005**—Subsec. (b)(1)(B). Pub. L. 109–135 inserted "(as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B))" after "dependent of the taxpayer".
 
-**2004**—Subsec. (a)(1). Pub. L. 108–311, §203(a), substituted “In the case of an individual for which there are 1 or more qualifying individuals (as defined in subsection (b)(1)) with respect to such individual” for “In the case of an individual who maintains a household which includes as a member one or more qualifying individuals (as defined in subsection (b)(1))”.
+**2004**—Subsec. (a)(1). Pub. L. 108–311, §203(a), substituted "In the case of an individual for which there are 1 or more qualifying individuals (as defined in subsection (b)(1)) with respect to such individual" for "In the case of an individual who maintains a household which includes as a member one or more qualifying individuals (as defined in subsection (b)(1))".
 
-Subsec. (b)(1). Pub. L. 108–311, §203(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘qualifying individual’ means—
+Subsec. (b)(1). Pub. L. 108–311, §203(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The term 'qualifying individual' means—
 
-“(A) a dependent of the taxpayer who is under the age of 13 and with respect to whom the taxpayer is entitled to a deduction under section 151(c),
+"(A) a dependent of the taxpayer who is under the age of 13 and with respect to whom the taxpayer is entitled to a deduction under section 151(c),
 
-“(B) a dependent of the taxpayer who is physically or mentally incapable of caring for himself, or
+"(B) a dependent of the taxpayer who is physically or mentally incapable of caring for himself, or
 
-“(C) the spouse of the taxpayer, if he is physically or mentally incapable of caring for himself.”
+"(C) the spouse of the taxpayer, if he is physically or mentally incapable of caring for himself."
 
-Subsec. (e)(1). Pub. L. 108–311, §203(c), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “An individual shall be treated as maintaining a household for any period only if over half the cost of maintaining the household for such period is furnished by such individual (or, if such individual is married during such period, is furnished by such individual and his spouse).”
+Subsec. (e)(1). Pub. L. 108–311, §203(c), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: "An individual shall be treated as maintaining a household for any period only if over half the cost of maintaining the household for such period is furnished by such individual (or, if such individual is married during such period, is furnished by such individual and his spouse)."
 
-Subsec. (e)(5). Pub. L. 108–311, §207(2), struck out “paragraph (2) or (4) of” before “section 152(e)” in subpar. (A) and substituted “as defined in section 152(e)(3)(A)” for “within the meaning of section 152(e)(1)” in concluding provisions.
+Subsec. (e)(5). Pub. L. 108–311, §207(2), struck out "paragraph (2) or (4) of" before "section 152(e)" in subpar. (A) and substituted "as defined in section 152(e)(3)(A)" for "within the meaning of section 152(e)(1)" in concluding provisions.
 
-Subsec. (e)(6)(B). Pub. L. 108–311, §207(3), substituted “section 152(f)(1)” for “section 151(c)(3)”.
+Subsec. (e)(6)(B). Pub. L. 108–311, §207(3), substituted "section 152(f)(1)" for "section 151(c)(3)".
 
-**2002**—Subsec. (d)(2)(A). Pub. L. 107–147, §418(b)(1), substituted “$250” for “$200”.
+**2002**—Subsec. (d)(2)(A). Pub. L. 107–147, §418(b)(1), substituted "$250" for "$200".
 
-Subsec. (d)(2)(B). Pub. L. 107–147, §418(b)(2), substituted “$500” for “$400”.
+Subsec. (d)(2)(B). Pub. L. 107–147, §418(b)(2), substituted "$500" for "$400".
 
-**2001**—Subsec. (a)(2). Pub. L. 107–16, §204(b), substituted “35 percent” for “30 percent” and “$15,000” for “$10,000”.
+**2001**—Subsec. (a)(2). Pub. L. 107–16, §204(b), substituted "35 percent" for "30 percent" and "$15,000" for "$10,000".
 
-Subsec. (c)(1). Pub. L. 107–16, §204(a)(1), substituted “$3,000” for “$2,400”.
+Subsec. (c)(1). Pub. L. 107–16, §204(a)(1), substituted "$3,000" for "$2,400".
 
-Subsec. (c)(2). Pub. L. 107–16, §204(a)(2), substituted “$6,000” for “$4,800”.
+Subsec. (c)(2). Pub. L. 107–16, §204(a)(2), substituted "$6,000" for "$4,800".
 
 **1996**—Subsec. (e)(10). Pub. L. 104–188 added par. (10).
 
-**1988**—Subsec. (b)(1)(A). Pub. L. 100–485, §703(a), substituted “age of 13” for “age of 15”.
+**1988**—Subsec. (b)(1)(A). Pub. L. 100–485, §703(a), substituted "age of 13" for "age of 15".
 
-Subsec. (c). Pub. L. 100–485, §703(b), inserted at end: “The amount determined under paragraph (1) or (2) (whichever is applicable) shall be reduced by the aggregate amount excludable from gross income under section 129 for the taxable year.”
+Subsec. (c). Pub. L. 100–485, §703(b), inserted at end: "The amount determined under paragraph (1) or (2) (whichever is applicable) shall be reduced by the aggregate amount excludable from gross income under section 129 for the taxable year."
 
-Subsec. (e)(5)(B). Pub. L. 100–485, §703(a), substituted “age of 13” for “age of 15”.
+Subsec. (e)(5)(B). Pub. L. 100–485, §703(a), substituted "age of 13" for "age of 15".
 
 Subsec. (e)(9). Pub. L. 100–485, §703(c)(1), added par. (9).
 
-**1987**—Subsec. (b)(2)(A). Pub. L. 100–203 inserted at end “Such term shall not include any amount paid for services outside the taxpayer's household at a camp where the qualifying individual stays overnight.”
+**1987**—Subsec. (b)(2)(A). Pub. L. 100–203 inserted at end "Such term shall not include any amount paid for services outside the taxpayer's household at a camp where the qualifying individual stays overnight."
 
-**1986**—Subsecs. (b)(1)(A), (e)(6)(A). Pub. L. 99–514, §104(b)(1)(A), substituted “section 151(c)” for “section 151(e)”.
+**1986**—Subsecs. (b)(1)(A), (e)(6)(A). Pub. L. 99–514, §104(b)(1)(A), substituted "section 151(c)" for "section 151(e)".
 
-Subsec. (e)(6)(B). Pub. L. 99–514, §104(b)(1)(B), substituted “section 151(c)(3)” for “section 151(e)(3)”.
+Subsec. (e)(6)(B). Pub. L. 99–514, §104(b)(1)(B), substituted "section 151(c)(3)" for "section 151(e)(3)".
 
 **1984**—Pub. L. 98–369, §471(c), renumbered section 44A of this title as this section.
 
-Subsec. (a)(1). Pub. L. 98–369, §474(c)(2), (3), substituted “subsection (b)(1)” for “subsection (c)(1)” and “subsection (b)(2)” for “subsection (c)(2)”.
+Subsec. (a)(1). Pub. L. 98–369, §474(c)(2), (3), substituted "subsection (b)(1)" for "subsection (c)(1)" and "subsection (b)(2)" for "subsection (c)(2)".
 
 Subsec. (b). Pub. L. 98–369, §474(c)(1), redesignated subsec. (c) as (b). Former subsec. (b), which provided that the credit allowed by subsec. (a) could not exceed the amount of the tax imposed by this chapter for the taxable year reduced by the sum of the credits allowable under sections 33, 37, 38, 40, 41, 42, and 44, was struck out.
 
@@ -230,53 +230,53 @@ Subsec. (c). Pub. L. 98–369, §474(c)(1), redesignated subsec. (d) as (c). For
 
 Subsec. (d). Pub. L. 98–369, §474(c)(1), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Subsec. (d)(2). Pub. L. 98–369, §474(c)(4), substituted “subsection (b)(1)(C)” for “subsection (c)(1)(C)” in introductory provisions.
+Subsec. (d)(2). Pub. L. 98–369, §474(c)(4), substituted "subsection (b)(1)(C)" for "subsection (c)(1)(C)" in introductory provisions.
 
-Subsec. (d)(2)(A). Pub. L. 98–369, §474(c)(5), substituted “subsection (c)(1)” for “subsection (d)(1)”.
+Subsec. (d)(2)(A). Pub. L. 98–369, §474(c)(5), substituted "subsection (c)(1)" for "subsection (d)(1)".
 
-Subsec. (d)(2)(B). Pub. L. 98–369, §474(c)(6), substituted “subsection (c)(2)” for “subsection (d)(2).
+Subsec. (d)(2)(B). Pub. L. 98–369, §474(c)(6), substituted "subsection (c)(2)" for "subsection (d)(2).
 
 Subsec. (e). Pub. L. 98–369, §474(c)(1), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Subsec. (e)(5). Pub. L. 98–369, §474(c)(7), substituted “subsection (b)(1)” for “subsection (c)(1)” in provisions following subpar. (B).
+Subsec. (e)(5). Pub. L. 98–369, §474(c)(7), substituted "subsection (b)(1)" for "subsection (c)(1)" in provisions following subpar. (B).
 
 Pub. L. 98–369, §423(c)(4), amended par. (5) generally, substituting subpars. (A) and (B) reading:
 
-“(A) paragraph (2) or (4) of section 152(e) applies to any child with respect to any calendar year, and
+"(A) paragraph (2) or (4) of section 152(e) applies to any child with respect to any calendar year, and
 
-“(B) such child is under the age of 15 or is physically or mentally incapable of caring for himself,”
+"(B) such child is under the age of 15 or is physically or mentally incapable of caring for himself,"
 
 for former provisions:
 
-“(A) a child (as defined in section 151(e)(3)) who is under the age of 15 or who is physically or mentally incapable of caring for himself receives over half of his support during the calendar year from his parents who are divorced or legally separated under a decree of divorce or separate maintenance or who are separated under a written separation agreement, and
+"(A) a child (as defined in section 151(e)(3)) who is under the age of 15 or who is physically or mentally incapable of caring for himself receives over half of his support during the calendar year from his parents who are divorced or legally separated under a decree of divorce or separate maintenance or who are separated under a written separation agreement, and
 
-“(B) such child is in the custody of one or both of his parents for more than one-half of the calendar year.”
+"(B) such child is in the custody of one or both of his parents for more than one-half of the calendar year."
 
-and substituted in concluding text “(whichever is appropriate) with respect to the custodial parent (within the meaning of section 152(e)(1)), and shall not be treated as a qualifying individual with respect to the noncustodial parent” for “, as the case may be, with respect to that parent who has custody for a longer period during such calendar year than the other parent, and shall not be treated as being a qualifying individual with respect to such other parent.”
+and substituted in concluding text "(whichever is appropriate) with respect to the custodial parent (within the meaning of section 152(e)(1)), and shall not be treated as a qualifying individual with respect to the noncustodial parent" for ", as the case may be, with respect to that parent who has custody for a longer period during such calendar year than the other parent, and shall not be treated as being a qualifying individual with respect to such other parent."
 
 Subsecs. (f), (g). Pub. L. 98–369, §474(c)(1), redesignated subsecs. (f) and (g) as (e) and (f), respectively.
 
-**1983**—Subsec. (b)(2). Pub. L. 98–21 substituted “relating to credit for the elderly and the permanently and totally disabled” for “relating to credit for the elderly”.
+**1983**—Subsec. (b)(2). Pub. L. 98–21 substituted "relating to credit for the elderly and the permanently and totally disabled" for "relating to credit for the elderly".
 
-**1981**—Subsec. (a). Pub. L. 97–34, §124(a), designated existing provisions as par. (1), substituted “the applicable percentage” for “20 percent” in par. (1) as so designated, and added par. (2).
+**1981**—Subsec. (a). Pub. L. 97–34, §124(a), designated existing provisions as par. (1), substituted "the applicable percentage" for "20 percent" in par. (1) as so designated, and added par. (2).
 
 Subsec. (c)(2)(B). Pub. L. 97–34, §124(c), designated existing provisions as cl. (i) and added cl. (ii).
 
 Subsec. (c)(2)(C), (D). Pub. L. 97–34, §124(d), added subpars. (C) and (D).
 
-Subsec. (d)(1). Pub. L. 97–34, §124(b)(1)(A), substituted “$2,400” for “$2,000”.
+Subsec. (d)(1). Pub. L. 97–34, §124(b)(1)(A), substituted "$2,400" for "$2,000".
 
-Subsec. (d)(2). Pub. L. 97–34, §124(b)(1)(B), substituted “$4,800” for “$4,000”.
+Subsec. (d)(2). Pub. L. 97–34, §124(b)(1)(B), substituted "$4,800" for "$4,000".
 
-Subsec. (e)(2)(A). Pub. L. 97–34, §124(b)(2)(A), substituted “$200” for “$166”.
+Subsec. (e)(2)(A). Pub. L. 97–34, §124(b)(2)(A), substituted "$200" for "$166".
 
-Subsec. (e)(2)(B). Pub. L. 97–34, §124(b)(2)(B), substituted “$400” for “$333”.
+Subsec. (e)(2)(B). Pub. L. 97–34, §124(b)(2)(B), substituted "$400" for "$333".
 
-**1978**—Subsec. (f)(6). Pub. L. 95–600 substituted provision disallowing a credit for any amount paid by a taxpayer to an individual with respect to whom, for the taxable year, a deduction under section 151(e) is allowable either to the taxpayer or his spouse or who is a child of the taxpayer who has not attained the age of 19 at the close of the taxpayer year and defining “taxpayer year” for provision disallowing a credit for any amount paid by the taxpayer to an individual bearing a relationship described in section 152(a)(1) through (8), or a dependent described in section 152(a)(9), except that a credit was allowed for an amount paid by a taxpayer to an individual with respect to whom, for the taxable year of the taxpayer in which the service was performed, neither the taxpayer nor his spouse was entitled to a deduction under section 151(e), provided the service constituted employment within the meaning of section 3121(b).
+**1978**—Subsec. (f)(6). Pub. L. 95–600 substituted provision disallowing a credit for any amount paid by a taxpayer to an individual with respect to whom, for the taxable year, a deduction under section 151(e) is allowable either to the taxpayer or his spouse or who is a child of the taxpayer who has not attained the age of 19 at the close of the taxpayer year and defining "taxpayer year" for provision disallowing a credit for any amount paid by the taxpayer to an individual bearing a relationship described in section 152(a)(1) through (8), or a dependent described in section 152(a)(9), except that a credit was allowed for an amount paid by a taxpayer to an individual with respect to whom, for the taxable year of the taxpayer in which the service was performed, neither the taxpayer nor his spouse was entitled to a deduction under section 151(e), provided the service constituted employment within the meaning of section 3121(b).
 
 #### Effective Date of 2005 Amendment ####
 
-Pub. L. 109–135, title IV, §404(d), Dec. 21, 2005, 119 Stat. 2634, provided that: “The amendments made by this section [amending this section and sections 152 and 223 of this title] shall take effect as if included in the provisions of the Working Families Tax Relief Act of 2004 [Pub. L. 108–311] to which they relate.”
+Pub. L. 109–135, title IV, §404(d), Dec. 21, 2005, 119 Stat. 2634, provided that: "The amendments made by this section [amending this section and sections 152 and 223 of this title] shall take effect as if included in the provisions of the Working Families Tax Relief Act of 2004 [Pub. L. 108–311] to which they relate."
 
 #### Effective Date of 2004 Amendment ####
 
@@ -284,31 +284,31 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2002 Amendment ####
 
-Pub. L. 107–147, title IV, §418(c), Mar. 9, 2002, 116 Stat. 58, provided that: “The amendments made by this section [amending this section and sections 23 and 137 of this title] shall take effect as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 [Pub. L. 107–16] to which they relate.”
+Pub. L. 107–147, title IV, §418(c), Mar. 9, 2002, 116 Stat. 58, provided that: "The amendments made by this section [amending this section and sections 23 and 137 of this title] shall take effect as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 [Pub. L. 107–16] to which they relate."
 
 #### Effective Date of 2001 Amendment ####
 
-Pub. L. 107–16, title II, §204(c), June 7, 2001, 115 Stat. 50, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2002.”
+Pub. L. 107–16, title II, §204(c), June 7, 2001, 115 Stat. 50, provided that: "The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2002."
 
 #### Effective Date of 1996 Amendment ####
 
 Pub. L. 104–188, title I, §1615(d), Aug. 20, 1996, 110 Stat. 1853, provided that:
 
-“(1) In general.—The amendments made by this section [amending this section and sections 151, 6109, 6213, and 6724 of this title] shall apply with respect to returns the due date for which (without regard to extensions) is on or after the 30th day after the date of the enactment of this Act [Aug. 20, 1996].
+"(1) In general.—The amendments made by this section [amending this section and sections 151, 6109, 6213, and 6724 of this title] shall apply with respect to returns the due date for which (without regard to extensions) is on or after the 30th day after the date of the enactment of this Act [Aug. 20, 1996].
 
-“(2) Special rule for 1995 and 1996.—In the case of returns for taxable years beginning in 1995 or 1996, a taxpayer shall not be required by the amendments made by this section to provide a taxpayer identification number for a child who is born after October 31, 1995, in the case of a taxable year beginning in 1995 or November 30, 1996, in the case of a taxable year beginning in 1996.”
+"(2) Special rule for 1995 and 1996.—In the case of returns for taxable years beginning in 1995 or 1996, a taxpayer shall not be required by the amendments made by this section to provide a taxpayer identification number for a child who is born after October 31, 1995, in the case of a taxable year beginning in 1995 or November 30, 1996, in the case of a taxable year beginning in 1996."
 
 #### Effective Date of 1988 Amendment ####
 
-Pub. L. 100–485, title VII, §703(d), Oct. 13, 1988, 102 Stat. 2427, provided that: “The amendments made by this section [amending this section and sections 129 and 6109 of this title] shall apply to taxable years beginning after December 31, 1988.”
+Pub. L. 100–485, title VII, §703(d), Oct. 13, 1988, 102 Stat. 2427, provided that: "The amendments made by this section [amending this section and sections 129 and 6109 of this title] shall apply to taxable years beginning after December 31, 1988."
 
 #### Effective Date of 1987 Amendment ####
 
 Pub. L. 100–203, title X, §10101(b), Dec. 22, 1987, 101 Stat. 1330–384, as amended by Pub. L. 100–647, title II, §2004(a), Nov. 10, 1988, 102 Stat. 3598, provided that:
 
-“(1) In general.—The amendment made by subsection (a) [amending this section] shall apply to expenses paid in taxable years beginning after December 31, 1987.
+"(1) In general.—The amendment made by subsection (a) [amending this section] shall apply to expenses paid in taxable years beginning after December 31, 1987.
 
-“(2) Special rule for cafeteria plans.—For purposes of section 125 of the Internal Revenue Code of 1986, a plan shall not be treated as failing to be a cafeteria plan solely because under the plan a participant elected before January 1, 1988, to receive reimbursement under the plan for dependent care assistance for periods after December 31, 1987, and such assistance included reimbursement for expenses at a camp where the dependent stays overnight.”
+"(2) Special rule for cafeteria plans.—For purposes of section 125 of the Internal Revenue Code of 1986, a plan shall not be treated as failing to be a cafeteria plan solely because under the plan a participant elected before January 1, 1988, to receive reimbursement under the plan for dependent care assistance for periods after December 31, 1987, and such assistance included reimbursement for expenses at a camp where the dependent stays overnight."
 
 #### Effective Date of 1986 Amendment ####
 
@@ -318,7 +318,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 423(c)(4) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1984, see section 423(d) of Pub. L. 98–369, set out as a note under section 2 of this title.
 
-Pub. L. 98–369, title IV, §475(a), July 18, 1984, 98 Stat. 847, provided that: “The amendments made by this title [probably means subtitle F (§§471–475) of title IV of Pub. L. 98–369, which enacted sections 25, 38, and 39 of this title, amended this section and sections 12, 15, 22 to 24, 27 to 35, 37, 39 to 41, 44A, 44C to 44H, 45 to 48, 51, 52, 55, 56, 86, 87, 103, 108, 129, 168, 196, 213, 280C, 381, 383, 401, 404, 409, 441, 527, 642, 691, 874, 882, 901, 904, 936, 1016, 1033, 1351, 1366, 1374, 1375, 1441, 1442, 1451, 3507, 6013, 6096, 6201, 6211, 6213, 6362, 6401, 6411, 6420, 6421, 6427, 6501, 6511, 7701, 7871, 9502, and 9503 of this title, repealed sections 38, 40, 44, 44B, 50A, 50B, and 53 of this title, and enacted provisions set out as notes under sections 30, 33, 46, and 48 of this title] shall apply to taxable years beginning after December 31, 1983, and to carrybacks from such years.”
+Pub. L. 98–369, title IV, §475(a), July 18, 1984, 98 Stat. 847, provided that: "The amendments made by this title [probably means subtitle F (§§471–475) of title IV of Pub. L. 98–369, which enacted sections 25, 38, and 39 of this title, amended this section and sections 12, 15, 22 to 24, 27 to 35, 37, 39 to 41, 44A, 44C to 44H, 45 to 48, 51, 52, 55, 56, 86, 87, 103, 108, 129, 168, 196, 213, 280C, 381, 383, 401, 404, 409, 441, 527, 642, 691, 874, 882, 901, 904, 936, 1016, 1033, 1351, 1366, 1374, 1375, 1441, 1442, 1451, 3507, 6013, 6096, 6201, 6211, 6213, 6362, 6401, 6411, 6420, 6421, 6427, 6501, 6511, 7701, 7871, 9502, and 9503 of this title, repealed sections 38, 40, 44, 44B, 50A, 50B, and 53 of this title, and enacted provisions set out as notes under sections 30, 33, 46, and 48 of this title] shall apply to taxable years beginning after December 31, 1983, and to carrybacks from such years."
 
 #### Effective Date of 1983 Amendment ####
 
@@ -328,13 +328,13 @@ Amendment by Pub. L. 98–21 applicable to taxable years beginning after Dec. 31
 
 Pub. L. 97–34, title I, §124(f), Aug. 13, 1981, 95 Stat. 201, provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by this section [amending this section and enacting section 129 of this title] shall apply to taxable years beginning after December 31, 1981.
+"(1) Except as provided in paragraph (2), the amendments made by this section [amending this section and enacting section 129 of this title] shall apply to taxable years beginning after December 31, 1981.
 
-“(2) The amendments made by subsection (e)(2) [amending sections 3121, 3306, and 3401 of this title and section 409 of Title 42, The Public Health and Welfare] shall apply to remuneration paid after December 31, 1981.”
+"(2) The amendments made by subsection (e)(2) [amending sections 3121, 3306, and 3401 of this title and section 409 of Title 42, The Public Health and Welfare] shall apply to remuneration paid after December 31, 1981."
 
 #### Effective Date of 1978 Amendment ####
 
-Pub. L. 95–600, title I, §121(b), Nov. 6, 1978, 92 Stat. 2779, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1978.”
+Pub. L. 95–600, title I, §121(b), Nov. 6, 1978, 92 Stat. 2779, provided that: "The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1978."
 
 #### Effective Date ####
 
@@ -342,4 +342,4 @@ Section applicable to taxable years beginning after Dec. 31, 1975, see section 5
 
 #### Program To Increase Public Awareness ####
 
-Pub. L. 101–508, title XI, §11114, Nov. 5, 1990, 104 Stat. 1388–414, provided that: “Not later than the first calendar year following the date of the enactment of this subtitle [Nov. 5, 1990], the Secretary of the Treasury, or the Secretary's delegate, shall establish a taxpayer awareness program to inform the taxpaying public of the availability of the credit for dependent care allowed under section 21 of the Internal Revenue Code of 1986 and the earned income credit and child health insurance under section 32 of such Code. Such public awareness program shall be designed to assure that individuals who may be eligible are informed of the availability of such credit and filing procedures. The Secretary shall use appropriate means of communication to carry out the provisions of this section.”
+Pub. L. 101–508, title XI, §11114, Nov. 5, 1990, 104 Stat. 1388–414, provided that: "Not later than the first calendar year following the date of the enactment of this subtitle [Nov. 5, 1990], the Secretary of the Treasury, or the Secretary's delegate, shall establish a taxpayer awareness program to inform the taxpaying public of the availability of the credit for dependent care allowed under section 21 of the Internal Revenue Code of 1986 and the earned income credit and child health insurance under section 32 of such Code. Such public awareness program shall be designed to assure that individuals who may be eligible are informed of the availability of such credit and filing procedures. The Secretary shall use appropriate means of communication to carry out the provisions of this section."

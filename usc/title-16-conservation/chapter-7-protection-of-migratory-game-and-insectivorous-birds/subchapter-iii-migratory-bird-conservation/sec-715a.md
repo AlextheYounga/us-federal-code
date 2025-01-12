@@ -6,7 +6,7 @@ A commission to be known as the Migratory Bird Conservation Commission, consisti
 
 #### Amendments ####
 
-**1989**—Pub. L. 101–233 substituted “Administrator of the Environmental Protection Agency” for “Secretary of Transportation”.
+**1989**—Pub. L. 101–233 substituted "Administrator of the Environmental Protection Agency" for "Secretary of Transportation".
 
 **1976**—Pub. L. 94–215 inserted provision including in the purchase or rental of any area of land, water, or land and water the purchase or rental of any interest in any such area of land, water, or land and water.
 

@@ -20,7 +20,7 @@ if Congress by law (enacted after November 16, 1973) specifically authorizes suc
 
 (2) Any recommendation submitted to the Congress for legislation to authorize an action described in paragraph (1) with respect to a hospital of the Public Health Service shall be accompanied by a copy of the written, unqualified approval of the proposed action submitted to the Secretary by each (A) section 314(a) State health planning agency whose section 314(a) plan covers (in whole or in part) the area in which such hospital is located or which is served by such hospital, and (B) section 314(b) areawide health planning agency whose section 314(b) plan covers (in whole or in part) such area.
 
-(3) For purposes of this subsection, the term “section 314(a) State health planning agency” means the agency of a State which administers or supervises the administration of a State's health planning functions under a State plan approved under section 314(a) of the Public Health Service Act (referred to in paragraph (2) as a “section 314(a) plan”); and the term “section 314(b) areawide health planning agency” means a public or nonprofit private agency or organization which has developed a comprehensive regional, metropolitan, or other local area plan or plans referred to in section 314(b) of that Act (referred to in paragraph (2) as a “section 314(b) plan”).
+(3) For purposes of this subsection, the term "section 314(a) State health planning agency" means the agency of a State which administers or supervises the administration of a State's health planning functions under a State plan approved under section 314(a) of the Public Health Service Act (referred to in paragraph (2) as a "section 314(a) plan"); and the term "section 314(b) areawide health planning agency" means a public or nonprofit private agency or organization which has developed a comprehensive regional, metropolitan, or other local area plan or plans referred to in section 314(b) of that Act (referred to in paragraph (2) as a "section 314(b) plan").
 
 (Pub. L. 93–155, title VIII, §818(a), (b), Nov. 16, 1973, 87 Stat. 622; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
@@ -38,4 +38,4 @@ Provisions similar to those comprising this section were contained in Pub. L. 92
 
 #### Change of Name ####
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.

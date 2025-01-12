@@ -6,7 +6,7 @@ If a domestic corporation chooses to have the benefits of subpart A of part III 
 
 #### Amendments ####
 
-**1976**—Pub. L. 94–455 substituted “section 902(a)” for “section 902(a)(1)” and “section 960(a)(1)” for “section 960(a)(1)(C)”.
+**1976**—Pub. L. 94–455 substituted "section 902(a)" for "section 902(a)(1)" and "section 960(a)(1)" for "section 960(a)(1)(C)".
 
 #### Effective Date of 1976 Amendment ####
 

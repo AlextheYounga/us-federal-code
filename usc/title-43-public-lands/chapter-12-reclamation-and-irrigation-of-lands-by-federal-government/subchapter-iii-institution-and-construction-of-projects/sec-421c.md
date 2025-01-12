@@ -6,11 +6,11 @@ The Secretary shall require, as conditions to any such loan, that the borrower c
 
 #### Codification ####
 
-“Section 8124 of title 38” substituted in text (see 1991 Amendment note below) for “section 5024 of title 38”, which previously had been substituted for “section 5014 of title 38” as the probable intent of Congress in view of the renumbering of section 5014 of title 38 as section 5024 by Pub. L. 96–22, title III, §301(b)(1), June 13, 1979, 93 Stat. 61. Previously, “section 5014 of title 38” had been substituted for “section 11i of title 38” on authority of Pub. L. 85–857, §5(a), Sept. 2, 1958, 72 Stat. 1281, the first section of which enacted Title 38, Veterans’ Benefits.
+"Section 8124 of title 38" substituted in text (see 1991 Amendment note below) for "section 5024 of title 38", which previously had been substituted for "section 5014 of title 38" as the probable intent of Congress in view of the renumbering of section 5014 of title 38 as section 5024 by Pub. L. 96–22, title III, §301(b)(1), June 13, 1979, 93 Stat. 61. Previously, "section 5014 of title 38" had been substituted for "section 11i of title 38" on authority of Pub. L. 85–857, §5(a), Sept. 2, 1958, 72 Stat. 1281, the first section of which enacted Title 38, Veterans' Benefits.
 
 #### Amendments ####
 
-**1991**—Pub. L. 102–40 substituted “section 8124 of title 38” for “section 5024 of title 38”. See Codification note above.
+**1991**—Pub. L. 102–40 substituted "section 8124 of title 38" for "section 5024 of title 38". See Codification note above.
 
 **1972**—Pub. L. 92–487 inserted provision subjecting drainage systems to the requirements of this section, substituted provisions authorizing the Secretary to reconvey to borrowers all land or interests in land and distribution works transferred to the United States under the provisions of sections 421a to 421h of this title, with the proviso relating to the amendment of the repayment contract, for provisions requiring borrowers, prior to the consummation of any loan, to transfer to the United States any lands or interests in lands presently held or acquired in the future which the Secretary finds necessary for the construction, operation, or maintenance of distribution systems, with title to all such lands, etc., subject to retransfer to the borrower by the Secretary upon repayment of the loan, to remain in the United States, and struck out provisions which restricted applicability of provisions to provisions relating to Federal reclamation laws.
 

@@ -1,6 +1,6 @@
 ### §§851 to 856. Repealed. Pub. L. 97–79, §9(b)(1), Nov. 16, 1981, 95 Stat. 1079 ###
 
-Section 851, acts May 20, 1926 ch 346, §1, 44 Stat. 576; July 2, 1930, ch. 801, 46 Stat. 845; July 30, 1947, ch. 348, 61 Stat. 517; July 16, 1952, ch. 911, §1, 66 Stat. 736; Dec. 5, 1969, Pub. L. 91–135, §9(d), 83 Stat. 282, defined the terms “person” and “State”. See section 3371 of this title.
+Section 851, acts May 20, 1926 ch 346, §1, 44 Stat. 576; July 2, 1930, ch. 801, 46 Stat. 845; July 30, 1947, ch. 348, 61 Stat. 517; July 16, 1952, ch. 911, §1, 66 Stat. 736; Dec. 5, 1969, Pub. L. 91–135, §9(d), 83 Stat. 282, defined the terms "person" and "State". See section 3371 of this title.
 
 Section 852, acts May 20, 1926, ch. 346, §2, 44 Stat. 576; July 2, 1930, ch. 801, 46 Stat. 845; July 30, 1947, ch. 348, 61 Stat. 517; July 16, 1952, ch. 911, §2, 66 Stat. 736; Dec. 5, 1969, Pub. L. 91–135, §9(a), 83 Stat. 281, made illegal the transportation of illegally taken black bass or other fish. See section 3372 of this title.
 

@@ -28,6 +28,6 @@ If the study is conducted under subsection (a), the Secretary shall, not later t
 
 #### (c) Definition ####
 
-For purposes of this section, the term “traumatic brain injury” means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to trauma including near drowning. The Secretary may revise the definition of such term as the Secretary determines necessary.
+For purposes of this section, the term "traumatic brain injury" means an acquired injury to the brain. Such term does not include brain dysfunction caused by congenital or degenerative disorders, nor birth trauma, but may include brain injuries caused by anoxia due to trauma including near drowning. The Secretary may revise the definition of such term as the Secretary determines necessary.
 
 (July 1, 1944, ch. 373, title III, §393C–1, as added Pub. L. 110–206, §4, Apr. 28, 2008, 122 Stat. 715.)

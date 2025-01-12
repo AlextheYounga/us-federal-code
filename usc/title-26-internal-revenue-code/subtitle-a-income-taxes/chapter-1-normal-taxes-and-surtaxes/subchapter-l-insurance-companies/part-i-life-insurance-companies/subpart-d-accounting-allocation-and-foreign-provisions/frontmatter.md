@@ -4,7 +4,7 @@ Sec.
 
 811. Accounting provisions.
 
-812. Definition of company's share and policyholders’ share.
+812. Definition of company's share and policyholders' share.
 
 [813. Repealed.]
 
@@ -14,4 +14,4 @@ Sec.
 
 #### Amendments ####
 
-**1987**—Pub. L. 100–203, title X, §10242(c)(4), Dec. 22, 1987, 101 Stat. 1330–423, struck out item 813 “Foreign life insurance companies”.
+**1987**—Pub. L. 100–203, title X, §10242(c)(4), Dec. 22, 1987, 101 Stat. 1330–423, struck out item 813 "Foreign life insurance companies".

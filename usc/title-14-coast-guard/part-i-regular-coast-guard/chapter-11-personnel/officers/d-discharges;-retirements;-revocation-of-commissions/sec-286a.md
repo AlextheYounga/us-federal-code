@@ -12,17 +12,17 @@
 
 #### Amendments ####
 
-**2012**—Subsec. (d). Pub. L. 112–213 substituted “separation pay” for “severance pay” wherever appearing.
+**2012**—Subsec. (d). Pub. L. 112–213 substituted "separation pay" for "severance pay" wherever appearing.
 
-**2002**—Pub. L. 107–295 substituted “separation” for “severance” in section catchline, added subsecs. (a) to (c), and struck out former subsecs. (a) to (c) which related to, in subsec. (a), severance pay of a regular warrant officer of the Coast Guard who is separated under section 580(a)(4)(A) of title 10, in subsec. (b), severance pay of a regular warrant officer of the Coast Guard who is separated under section 1166 of title 10, and, in subsec. (c), the calculation of part of the year of service for the purposes of this section.
+**2002**—Pub. L. 107–295 substituted "separation" for "severance" in section catchline, added subsecs. (a) to (c), and struck out former subsecs. (a) to (c) which related to, in subsec. (a), severance pay of a regular warrant officer of the Coast Guard who is separated under section 580(a)(4)(A) of title 10, in subsec. (b), severance pay of a regular warrant officer of the Coast Guard who is separated under section 1166 of title 10, and, in subsec. (c), the calculation of part of the year of service for the purposes of this section.
 
-**1998**—Subsec. (b). Pub. L. 105–383, §201(b), inserted before period at end “, unless the Secretary determines that the conditions under which the officer is discharged or separated do not warrant payment of that amount of severance pay”.
+**1998**—Subsec. (b). Pub. L. 105–383, §201(b), inserted before period at end ", unless the Secretary determines that the conditions under which the officer is discharged or separated do not warrant payment of that amount of severance pay".
 
-Subsec. (d). Pub. L. 105–383, §201(a), struck out at end “However, no person is entitled to severance pay under this section in an amount that is more than $15,000.”
+Subsec. (d). Pub. L. 105–383, §201(a), struck out at end "However, no person is entitled to severance pay under this section in an amount that is more than $15,000."
 
-**1994**—Subsec. (a). Pub. L. 103–337 substituted “section 580(a)(4)(A) of title 10” for “section 564(a)(3) of title 10 (as in effect on the day before the effective date of the Warrant Officer Management Act)”.
+**1994**—Subsec. (a). Pub. L. 103–337 substituted "section 580(a)(4)(A) of title 10" for "section 564(a)(3) of title 10 (as in effect on the day before the effective date of the Warrant Officer Management Act)".
 
-**1991**—Subsec. (a). Pub. L. 102–190 inserted “(as in effect on the day before the effective date of the Warrant Officer Management Act)” after “section 564(a)(3) of title 10”.
+**1991**—Subsec. (a). Pub. L. 102–190 inserted "(as in effect on the day before the effective date of the Warrant Officer Management Act)" after "section 564(a)(3) of title 10".
 
 #### Effective Date of 2002 Amendment ####
 

@@ -10,4 +10,4 @@ The head of the agency administering this part or provisions thereof (including 
 
 (July 1, 1944, ch. 373, title II, §267, as added Pub. L. 108–20, §2, Apr. 30, 2003, 117 Stat. 645.)
 
-[<sup>1</sup> So in original. Probably should be “part”.](#239f_1)
+[<sup>1</sup> So in original. Probably should be "part".](#239f_1)

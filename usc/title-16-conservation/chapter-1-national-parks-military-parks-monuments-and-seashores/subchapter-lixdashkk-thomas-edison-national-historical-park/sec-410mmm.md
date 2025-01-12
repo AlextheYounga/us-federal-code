@@ -12,11 +12,11 @@ The purposes of this section are—
 
 #### (1) In general ####
 
-There is established the Thomas Edison National Historical Park as a unit of the National Park System (referred to in this section as the “Historical Park”).
+There is established the Thomas Edison National Historical Park as a unit of the National Park System (referred to in this section as the "Historical Park").
 
 #### (2) Boundaries ####
 
-The Historical Park shall be comprised of all property owned by the United States in the Edison National Historic Site as well as all property authorized to be acquired by the Secretary of the Interior (referred to in this section as the “Secretary”) for inclusion in the Edison National Historic Site before March 30, 2009, as generally depicted on the map entitled the “Thomas Edison National Historical Park”, numbered 403/80,000, and dated April 2008.
+The Historical Park shall be comprised of all property owned by the United States in the Edison National Historic Site as well as all property authorized to be acquired by the Secretary of the Interior (referred to in this section as the "Secretary") for inclusion in the Edison National Historic Site before March 30, 2009, as generally depicted on the map entitled the "Thomas Edison National Historical Park", numbered 403/80,000, and dated April 2008.
 
 #### (3) Map ####
 
@@ -46,7 +46,7 @@ The Secretary may consult and enter into cooperative agreements with interested 
 
 #### (5) References ####
 
-Any reference in a law, map, regulation, document, paper, or other record of the United States to the “Edison National Historic Site” shall be deemed to be a reference to the “Thomas Edison National Historical Park”.
+Any reference in a law, map, regulation, document, paper, or other record of the United States to the "Edison National Historic Site" shall be deemed to be a reference to the "Thomas Edison National Historical Park".
 
 #### (d) Authorization of appropriations ####
 

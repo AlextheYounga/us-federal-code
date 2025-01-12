@@ -6,13 +6,13 @@ Mount Rainier National Park shall be under the exclusive control of the Secretar
 
 #### Codification ####
 
-The words “In addition to the powers and duties enumerated in section 3 of this title, not inconsistent with this section” were added to relate this section to later law, defining the duties of the Secretary of the Interior as to national parks.
+The words "In addition to the powers and duties enumerated in section 3 of this title, not inconsistent with this section" were added to relate this section to later law, defining the duties of the Secretary of the Interior as to national parks.
 
 An additional provision in the first sentence making it the duty of the Secretary of the Interior as soon as practicable to make such rules and regulations as he might deem necessary or proper for the care and management of the park has been omitted as executed.
 
 A provision of the original section for the disposition of the proceeds of leases for buildings for accommodation of visitors and other revenues from the park has been omitted as superseded by section 452 of this title.
 
-“Pacific National Forest” was substituted for “Pacific Forest Reserve” on authority of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
+"Pacific National Forest" was substituted for "Pacific Forest Reserve" on authority of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
 
 #### Repeals ####
 

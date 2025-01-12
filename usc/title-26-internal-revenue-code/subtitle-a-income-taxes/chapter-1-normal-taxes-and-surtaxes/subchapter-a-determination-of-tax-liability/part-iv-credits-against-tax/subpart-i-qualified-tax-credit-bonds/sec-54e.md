@@ -2,7 +2,7 @@
 
 #### (a) Qualified zone academy bonds ####
 
-For purposes of this subchapter, the term “qualified zone academy bond” means any bond issued as part of an issue if—
+For purposes of this subchapter, the term "qualified zone academy bond" means any bond issued as part of an issue if—
 
 (1) 100 percent of the available project proceeds of such issue are to be used for a qualified purpose with respect to a qualified zone academy established by an eligible local education agency,
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (1) Qualified zone academy ####
 
-The term “qualified zone academy” means any public school (or academic program within a public school) which is established by and operated under the supervision of an eligible local education agency to provide education or training below the postsecondary level if—
+The term "qualified zone academy" means any public school (or academic program within a public school) which is established by and operated under the supervision of an eligible local education agency to provide education or training below the postsecondary level if—
 
 (A) such public school or program (as the case may be) is designed in cooperation with business to enhance the academic curriculum, increase graduation and employment rates, and better prepare students for the rigors of college and the increasingly complex workforce,
 
@@ -74,11 +74,11 @@ The term “qualified zone academy” means any public school (or academic progr
 
 #### (2) Eligible local education agency ####
 
-For purposes of this section, the term “eligible local education agency” means any local educational agency as defined in section 9101 of the Elementary and Secondary Education Act of 1965.
+For purposes of this section, the term "eligible local education agency" means any local educational agency as defined in section 9101 of the Elementary and Secondary Education Act of 1965.
 
 #### (3) Qualified purpose ####
 
-The term “qualified purpose” means, with respect to any qualified zone academy—
+The term "qualified purpose" means, with respect to any qualified zone academy—
 
 (A) rehabilitating or repairing the public school facility in which the academy is established,
 
@@ -90,7 +90,7 @@ The term “qualified purpose” means, with respect to any qualified zone acade
 
 #### (4) Qualified contributions ####
 
-The term “qualified contribution” means any contribution (of a type and quality acceptable to the eligible local education agency) of—
+The term "qualified contribution" means any contribution (of a type and quality acceptable to the eligible local education agency) of—
 
 (A) equipment for use in the qualified zone academy (including state-of-the-art technology and vocational equipment),
 
@@ -114,23 +114,23 @@ Section 9101 of the Elementary and Secondary Education Act of 1965, referred to 
 
 #### Amendments ####
 
-**2013**—Subsec. (c)(1). Pub. L. 112–240 inserted “, 2012, and 2013” after “for 2011”.
+**2013**—Subsec. (c)(1). Pub. L. 112–240 inserted ", 2012, and 2013" after "for 2011".
 
-**2010**—Subsec. (c)(1). Pub. L. 111–312 substituted “2008,” for “2008 and” and inserted “and $400,000,000 for 2011” after “2010,”.
+**2010**—Subsec. (c)(1). Pub. L. 111–312 substituted "2008," for "2008 and" and inserted "and $400,000,000 for 2011" after "2010,".
 
-**2009**—Subsec. (c)(1). Pub. L. 111–5 substituted “and $1,400,000,000 for 2009 and 2010” for “and 2009”.
+**2009**—Subsec. (c)(1). Pub. L. 111–5 substituted "and $1,400,000,000 for 2009 and 2010" for "and 2009".
 
 #### Effective Date of 2013 Amendment ####
 
-Pub. L. 112–240, title III, §310(b), Jan. 2, 2013, 126 Stat. 2330, provided that: “The amendments made by this section [amending this section] shall apply to obligations issued after December 31, 2011.”
+Pub. L. 112–240, title III, §310(b), Jan. 2, 2013, 126 Stat. 2330, provided that: "The amendments made by this section [amending this section] shall apply to obligations issued after December 31, 2011."
 
 #### Effective Date of 2010 Amendment ####
 
-Pub. L. 111–312, title VII, §758(c), Dec. 17, 2010, 124 Stat. 3323, provided that: “The amendments made by this section [amending this section and section 6431 of this title] shall apply to obligations issued after December 31, 2010.”
+Pub. L. 111–312, title VII, §758(c), Dec. 17, 2010, 124 Stat. 3323, provided that: "The amendments made by this section [amending this section and section 6431 of this title] shall apply to obligations issued after December 31, 2010."
 
 #### Effective Date of 2009 Amendment ####
 
-Pub. L. 111–5, div. B, title I, §1522(b), Feb. 17, 2009, 123 Stat. 358, provided that: “The amendment made by this section [amending this section] shall apply to obligations issued after December 31, 2008.”
+Pub. L. 111–5, div. B, title I, §1522(b), Feb. 17, 2009, 123 Stat. 358, provided that: "The amendment made by this section [amending this section] shall apply to obligations issued after December 31, 2008."
 
 #### Effective Date ####
 

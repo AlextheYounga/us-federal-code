@@ -6,4 +6,4 @@ The Secretaries may issue rules and regulations necessary to effectuate the purp
 
 #### Amendments ####
 
-**1984**—Pub. L. 98–284 substituted “The Secretaries” for “The Secretary of Agriculture and the Secretary of Commerce”.
+**1984**—Pub. L. 98–284 substituted "The Secretaries" for "The Secretary of Agriculture and the Secretary of Commerce".

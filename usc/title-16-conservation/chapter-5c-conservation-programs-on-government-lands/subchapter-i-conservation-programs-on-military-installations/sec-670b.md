@@ -18,8 +18,8 @@ Public Law 85–337, referred to in subsec. (b), is Pub. L. 85–337, Feb. 28, 1
 
 #### Amendments ####
 
-**2011**—Pub. L. 112–81 inserted section catchline and subsec. (a) designation and heading, and substituted “agency.”, subsec. (b) designation and heading, and “Possession” for “agency: Provided, That possession”.
+**2011**—Pub. L. 112–81 inserted section catchline and subsec. (a) designation and heading, and substituted "agency.", subsec. (b) designation and heading, and "Possession" for "agency: Provided, That possession".
 
-**1997**—Pub. L. 105–85 substituted “military installations” for “military reservations” and “an integrated natural resources management plan” for “a cooperative plan”.
+**1997**—Pub. L. 105–85 substituted "military installations" for "military reservations" and "an integrated natural resources management plan" for "a cooperative plan".
 
-**1974**—Pub. L. 93–452, §3(3), substituted “title” for “Act” which for purposes of codification was translated as “subchapter”.
+**1974**—Pub. L. 93–452, §3(3), substituted "title" for "Act" which for purposes of codification was translated as "subchapter".

@@ -22,9 +22,9 @@ Based on title 28, U.S.C., 1940 ed., §124a (June 18, 1934, ch. 585, 48 Stat. 99
 
 A proviso in section 124a of title 28, U.S.C., 1940 ed., relating to taxes accruing prior to the effective date of the 1934 act, was omitted as obsolete.
 
-References in section 124a of title 28, U.S.C., 1940 ed., to specific officers was omitted as covered by the words “Any officers.”
+References in section 124a of title 28, U.S.C., 1940 ed., to specific officers was omitted as covered by the words "Any officers."
 
-Word “Federal” was added before “State” in recognition of the liability of such officers for Federal taxes under the revenue laws.
+Word "Federal" was added before "State" in recognition of the liability of such officers for Federal taxes under the revenue laws.
 
 Changes in phraseology were made.
 

@@ -2,9 +2,9 @@
 
 #### (a) Designation ####
 
-(1) The manufacturer or the sponsor of a new animal drug for a minor use or use in a minor species may request that the Secretary declare that drug a “designated new animal drug”. A request for designation of a new animal drug shall be made before the submission of an application under section 360b(b) of this title or section 360ccc of this title for the new animal drug.
+(1) The manufacturer or the sponsor of a new animal drug for a minor use or use in a minor species may request that the Secretary declare that drug a "designated new animal drug". A request for designation of a new animal drug shall be made before the submission of an application under section 360b(b) of this title or section 360ccc of this title for the new animal drug.
 
-(2) The Secretary may declare a new animal drug a “designated new animal drug” if—
+(2) The Secretary may declare a new animal drug a "designated new animal drug" if—
 
 (A) it is intended for a minor use or use in a minor species; and
 
@@ -28,13 +28,13 @@
 
 (2) For purposes of paragraph (1) of this section—
 
-(A) The term “qualified safety and effectiveness testing” means testing—
+(A) The term "qualified safety and effectiveness testing" means testing—
 
 (i) which occurs after the date such new animal drug is designated under this section and before the date on which an application with respect to such drug is submitted under section 360b of this title; and
 
 (ii) which is carried out under an investigational exemption under section 360b(j) of this title.
 
-(B) The term “manufacturing expenses” means expenses incurred in developing processes and procedures associated with manufacture of the designated new animal drug which occur after the new animal drug is designated under this section and before the date on which an application with respect to such new animal drug is submitted under section 360b or 360ccc of this title.
+(B) The term "manufacturing expenses" means expenses incurred in developing processes and procedures associated with manufacture of the designated new animal drug which occur after the new animal drug is designated under this section and before the date on which an application with respect to such new animal drug is submitted under section 360b or 360ccc of this title.
 
 #### (c) Exclusivity for designated new animal drugs ####
 

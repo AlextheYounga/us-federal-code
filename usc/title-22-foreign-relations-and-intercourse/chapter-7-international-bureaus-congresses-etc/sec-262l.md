@@ -80,7 +80,7 @@ The Administrator of the Agency for International Development in conjunction wit
 
 (2) in preparation of reviews required by subsection (g)(1), compile a list of categories of projects likely to have adverse impacts on the environment, natural resources, or indigenous peoples. The list shall be developed in consultation with interested members of the public and made available to the Committee on Appropriations by December 31, 1986 and semiannually thereafter; and
 
-(3) study the feasibility of creating a cooperative “early warning system” for projects of concern with other interested donors.
+(3) study the feasibility of creating a cooperative "early warning system" for projects of concern with other interested donors.
 
 #### (h) Adverse impacts to environment, natural resources, or indigenous peoples; instructions to Executive Director of Multilateral Development Bank ####
 
@@ -106,7 +106,7 @@ Another prior section 262l, Pub. L. 101–167, title V, §533, Nov. 21, 1989, 10
 
 Another prior section 262l, Pub. L. 100–461, title V, §535, Oct. 1, 1988, 102 Stat. 2268–28, which related to sustainable use of natural resources and use of agricultural and industrial chemicals, was transferred to section 262l–2 of this title.
 
-Another prior section 262l, Pub. L. 100–202, §101(e) [title V, §537], Dec. 22, 1987, 101 Stat. 1329–131, 1329–161; Pub. L. 101–240, title V, §541(d)(8), Dec. 19, 1989, 103 Stat. 2518, which related to sustainable economic growth and management of natural resources, environmental impact of loans, pest management, addition of trained professionals, and “early warning system”, was transferred to section 262l–1 of this title.
+Another prior section 262l, Pub. L. 100–202, §101(e) [title V, §537], Dec. 22, 1987, 101 Stat. 1329–131, 1329–161; Pub. L. 101–240, title V, §541(d)(8), Dec. 19, 1989, 103 Stat. 2518, which related to sustainable economic growth and management of natural resources, environmental impact of loans, pest management, addition of trained professionals, and "early warning system", was transferred to section 262l–1 of this title.
 
 #### Similar Provisions ####
 
@@ -120,78 +120,78 @@ Pub. L. 99–190, §101(i) [title V, §540], Dec. 19, 1985, 99 Stat. 1291, 1309.
 
 Pub. L. 101–167, title V, §533, Nov. 21, 1989, 103 Stat. 1225, provided that:
 
-“(a) It is the policy of the United States that sustainable economic growth must be predicated on the sustainable management of natural resources. The Secretary of the Treasury shall instruct the United States Executive Directors of each multilateral development bank (MDB) to promote vigorously within each MDB the expansion of programs in areas which address the problems of global climate change through requirements to—
+"(a) It is the policy of the United States that sustainable economic growth must be predicated on the sustainable management of natural resources. The Secretary of the Treasury shall instruct the United States Executive Directors of each multilateral development bank (MDB) to promote vigorously within each MDB the expansion of programs in areas which address the problems of global climate change through requirements to—
 
-“(1) augment and expand the professional staff of each MDB with expertise in end-use energy efficiency and conservation and renewable energy;
+"(1) augment and expand the professional staff of each MDB with expertise in end-use energy efficiency and conservation and renewable energy;
 
-“(2) develop methodologies which allow borrowing countries to include investments in end-use energy efficiency and renewable energy as explicit alternatives in the ‘least cost’ energy sector investments plans they prepare with MDB assistance. Such plans shall give priority to projects and programs which support energy conservation, end-use efficiency and renewable energy sources in major economic sectors, and shall compare the economic and environmental costs of those actions with the economic and environmental costs of investments in conventional energy supplies;
+"(2) develop methodologies which allow borrowing countries to include investments in end-use energy efficiency and renewable energy as explicit alternatives in the 'least cost' energy sector investments plans they prepare with MDB assistance. Such plans shall give priority to projects and programs which support energy conservation, end-use efficiency and renewable energy sources in major economic sectors, and shall compare the economic and environmental costs of those actions with the economic and environmental costs of investments in conventional energy supplies;
 
-“(3) provide analysis for each proposed loan to support additional power generating capacity, comparing the economic and environmental costs of investments in demand reduction, including energy conservation and end-use energy efficiency, with the economic and environmental costs of the proposal;
+"(3) provide analysis for each proposed loan to support additional power generating capacity, comparing the economic and environmental costs of investments in demand reduction, including energy conservation and end-use energy efficiency, with the economic and environmental costs of the proposal;
 
-“(4) assure that systematic, detailed environmental impact assessments (EIA) of proposed energy projects, or projects with potential significant environmental impacts, are conducted early in the project cycle. Assessments should include but not be limited to—
+"(4) assure that systematic, detailed environmental impact assessments (EIA) of proposed energy projects, or projects with potential significant environmental impacts, are conducted early in the project cycle. Assessments should include but not be limited to—
 
-“(A) consideration of a wide range of alternatives to the proposed project including, where feasible, alternative investments in end-use energy efficiency and non-conventional renewable energy; and
+"(A) consideration of a wide range of alternatives to the proposed project including, where feasible, alternative investments in end-use energy efficiency and non-conventional renewable energy; and
 
-“(B) encouragement and adoption of policies which allow for public participation in the EIA process;
+"(B) encouragement and adoption of policies which allow for public participation in the EIA process;
 
-“(5) include environmental costs in the economic assessment of the proposed projects with significant potential environmental impacts, or power projects, and if possible for all projects which involve expansion of generating capacity of more than 10 MW, develop a standard increase in project cost as a surrogate for the environmental costs;
+"(5) include environmental costs in the economic assessment of the proposed projects with significant potential environmental impacts, or power projects, and if possible for all projects which involve expansion of generating capacity of more than 10 MW, develop a standard increase in project cost as a surrogate for the environmental costs;
 
-“(6) encourage and promote end-use energy efficiency and renewable energy in negotiations of policy-based energy sector lending, and MDBs should consider not proceeding with policy-based sector loans which do not contain commitments from the borrowing country to devote a significant portion of its sector investments toward energy efficiency and renewable energy;
+"(6) encourage and promote end-use energy efficiency and renewable energy in negotiations of policy-based energy sector lending, and MDBs should consider not proceeding with policy-based sector loans which do not contain commitments from the borrowing country to devote a significant portion of its sector investments toward energy efficiency and renewable energy;
 
-“(7) provide technical assistance as a component of all energy sector lending to help borrowing countries identify and pursue end-use energy efficiency investments. This technical assistance shall include support for detailed audits of energy use and the development of institutional capacity to promote end-use energy efficiency and conservation;
+"(7) provide technical assistance as a component of all energy sector lending to help borrowing countries identify and pursue end-use energy efficiency investments. This technical assistance shall include support for detailed audits of energy use and the development of institutional capacity to promote end-use energy efficiency and conservation;
 
-“(8) work with borrowing countries, with input from the public in both borrowing and donor countries, to develop loans for end-use energy efficiency and renewable energy, where possible ‘bundling’ small projects into larger, more easily financed projects; and
+"(8) work with borrowing countries, with input from the public in both borrowing and donor countries, to develop loans for end-use energy efficiency and renewable energy, where possible 'bundling' small projects into larger, more easily financed projects; and
 
-“(9) seek the convening of a special seminar for board members and senior staff of each MDB concerning alternate energy investment opportunities and end-use energy efficiency and conservation.
+"(9) seek the convening of a special seminar for board members and senior staff of each MDB concerning alternate energy investment opportunities and end-use energy efficiency and conservation.
 
-“(b) The Secretary of the Treasury as a part of the annual report to the Congress shall describe in detail, progress made by each of the MDBs in adopting and implementing programs meeting the standards set out in subsection (a), including in particular—
+"(b) The Secretary of the Treasury as a part of the annual report to the Congress shall describe in detail, progress made by each of the MDBs in adopting and implementing programs meeting the standards set out in subsection (a), including in particular—
 
-“(1) efforts by the Department of Treasury to assure implementation by each of the MDBs of programs substantially equivalent to those set out in this section, and results of such efforts;
+"(1) efforts by the Department of Treasury to assure implementation by each of the MDBs of programs substantially equivalent to those set out in this section, and results of such efforts;
 
-“(2) progress made by each MDB in drafting and implementing least cost energy plans for each recipient country which meets requirements outlined in subsection (a)(2);
+"(2) progress made by each MDB in drafting and implementing least cost energy plans for each recipient country which meets requirements outlined in subsection (a)(2);
 
-“(3) the absolute dollar amounts, and proportion of total lending in the energy sector, of loans and portions of loans, approved by each MDB in the previous year for projects or programs of end-use energy efficiency and conservation and renewable energy.
+"(3) the absolute dollar amounts, and proportion of total lending in the energy sector, of loans and portions of loans, approved by each MDB in the previous year for projects or programs of end-use energy efficiency and conservation and renewable energy.
 
-“(c) Not later than April 1, 1990, the Secretary of the Treasury shall request each MDB to prepare an analysis of the impact its current forestry sector loans will have on borrowing country emissions of CO<sub>2</sub> and the status of proposals for specific forestry sector activities to reduce CO<sub>2</sub> emissions.
+"(c) Not later than April 1, 1990, the Secretary of the Treasury shall request each MDB to prepare an analysis of the impact its current forestry sector loans will have on borrowing country emissions of CO<sub>2</sub> and the status of proposals for specific forestry sector activities to reduce CO<sub>2</sub> emissions.
 
-“(d)(1) The Administrator of the Agency for International Development shall issue guidance to all Agency missions and bureaus detailing the elements of a ‘Global Warming Initiative’ which will emphasize the need to reduce emissions of greenhouse gases, especially CO<sub>2</sub>, through strategies consistent with their continued economic development. This initiative shall emphasize the need to accelerate sustainable development strategies in areas such as reforestation, biodiversity, end-use energy efficiency, least-cost energy planning, and renewable energy, and shall encourage mission directors to incorporate the elements of this initiative in developing their country programs.
+"(d)(1) The Administrator of the Agency for International Development shall issue guidance to all Agency missions and bureaus detailing the elements of a 'Global Warming Initiative' which will emphasize the need to reduce emissions of greenhouse gases, especially CO<sub>2</sub>, through strategies consistent with their continued economic development. This initiative shall emphasize the need to accelerate sustainable development strategies in areas such as reforestation, biodiversity, end-use energy efficiency, least-cost energy planning, and renewable energy, and shall encourage mission directors to incorporate the elements of this initiative in developing their country programs.
 
-“(2) The Agency for International Development shall—
+"(2) The Agency for International Development shall—
 
-“(A) increase the number and expertise of personnel devoted to end-use energy efficiency, renewable energy, and environmental activities in all bureaus and missions;
+"(A) increase the number and expertise of personnel devoted to end-use energy efficiency, renewable energy, and environmental activities in all bureaus and missions;
 
-“(B) devote increased resources to technical training of mission directors, in energy planning, energy conservation, end-use energy efficiency, renewable energy, reforestation, and biodiversity;
+"(B) devote increased resources to technical training of mission directors, in energy planning, energy conservation, end-use energy efficiency, renewable energy, reforestation, and biodiversity;
 
-“(C) accelerate the activities of the Multi-Agency Working Group on Power Sector Innovation to enable completion of case studies of at least ten countries in fiscal year 1990; and
+"(C) accelerate the activities of the Multi-Agency Working Group on Power Sector Innovation to enable completion of case studies of at least ten countries in fiscal year 1990; and
 
-“(D) devote at least 10 percent of the resources allocated for forestry activities to the preservation and restoration (as opposed to management for extraction) of natural forests.
+"(D) devote at least 10 percent of the resources allocated for forestry activities to the preservation and restoration (as opposed to management for extraction) of natural forests.
 
-“(3) Funds appropriated by this Act [see Tables for classification] to carry out the provisions of sections 103 to 106 of the Foreign Assistance Act of 1961 [22 U.S.C. 2151a to 2151d] may be used to reimburse the full cost of technical personnel detailed or assigned to, or contracted by, the Agency for International Development to provide expertise in the environmental sector.
+"(3) Funds appropriated by this Act [see Tables for classification] to carry out the provisions of sections 103 to 106 of the Foreign Assistance Act of 1961 [22 U.S.C. 2151a to 2151d] may be used to reimburse the full cost of technical personnel detailed or assigned to, or contracted by, the Agency for International Development to provide expertise in the environmental sector.
 
-“(4)(A) [Amended section 2151q of this title.]
+"(4)(A) [Amended section 2151q of this title.]
 
-“(B) Not less than $10,000,000 of the funds appropriated to carry out the provisions of sections 103 through 106 of such Act [22 U.S.C. 2151a to 2151d] (including funds for sub-Saharan Africa) shall be made available for biological diversity activities, of which $2,000,000 shall be made available for the Parks in Peril project, pursuant to the authority of section 119(b) [of the Foreign Assistance Act of 1961, 22 U.S.C. 2151q(b)] and $1,000,000 shall be available for the National Science Foundation's international biological diversity program.
+"(B) Not less than $10,000,000 of the funds appropriated to carry out the provisions of sections 103 through 106 of such Act [22 U.S.C. 2151a to 2151d] (including funds for sub-Saharan Africa) shall be made available for biological diversity activities, of which $2,000,000 shall be made available for the Parks in Peril project, pursuant to the authority of section 119(b) [of the Foreign Assistance Act of 1961, 22 U.S.C. 2151q(b)] and $1,000,000 shall be available for the National Science Foundation's international biological diversity program.
 
-“(C) Funds obligated in prior fiscal years pursuant to the authority of section 119(b) may be expended in fiscal year 1990 pursuant to the authority of such section as amended by subparagraph (A).
+"(C) Funds obligated in prior fiscal years pursuant to the authority of section 119(b) may be expended in fiscal year 1990 pursuant to the authority of such section as amended by subparagraph (A).
 
-“(e) The Secretary of the Treasury shall—
+"(e) The Secretary of the Treasury shall—
 
-“(1) instruct the United States Executive Directors to the International Bank for Reconstruction and Development, the International Development Association, the Inter-American Development Bank, the African Development Bank, the Asian Development Bank, and the International Monetary Fund, to actively support lending portfolios which allow debtor developing countries to reduce or restructure debt in concert with the sustainable use of their natural resources. As a part of any such debt restructuring program, the United States Executive Director should require a thorough review of opportunities this initiative may offer for providing additional financial resources for the management of natural resources. The Secretary shall submit a report to the Committees on Appropriations on the progress of this program by April 30, 1990;
+"(1) instruct the United States Executive Directors to the International Bank for Reconstruction and Development, the International Development Association, the Inter-American Development Bank, the African Development Bank, the Asian Development Bank, and the International Monetary Fund, to actively support lending portfolios which allow debtor developing countries to reduce or restructure debt in concert with the sustainable use of their natural resources. As a part of any such debt restructuring program, the United States Executive Director should require a thorough review of opportunities this initiative may offer for providing additional financial resources for the management of natural resources. The Secretary shall submit a report to the Committees on Appropriations on the progress of this program by April 30, 1990;
 
-“(2) instruct the United States Executive Directors to the international financial institutions to seek the support of other donor countries in the implementation of this policy; and
+"(2) instruct the United States Executive Directors to the international financial institutions to seek the support of other donor countries in the implementation of this policy; and
 
-“(3) instruct the United States Executive Director to the International Bank for Reconstruction and Development to actively seek the implementation by the World Bank of the recommendations set forth in its April 1, 1988, report on ‘Debt-for-Nature swaps’, including the setting up of a pilot debt-for-nature swap program in one or more interested countries. The Secretary shall submit a progress report on the implementation of this program to the Committees on Appropriations by April 1, 1990.
+"(3) instruct the United States Executive Director to the International Bank for Reconstruction and Development to actively seek the implementation by the World Bank of the recommendations set forth in its April 1, 1988, report on 'Debt-for-Nature swaps', including the setting up of a pilot debt-for-nature swap program in one or more interested countries. The Secretary shall submit a progress report on the implementation of this program to the Committees on Appropriations by April 1, 1990.
 
-“(f) The Secretary of the Treasury shall seek to incorporate natural resource management initiatives throughout the implementation of the Brady Plan. The Secretary shall submit to the Committees on Appropriations a report by April 15, 1990, describing how such initiatives have been incorporated into the Brady Plan and identifying any such initiatives undertaken to date.
+"(f) The Secretary of the Treasury shall seek to incorporate natural resource management initiatives throughout the implementation of the Brady Plan. The Secretary shall submit to the Committees on Appropriations a report by April 15, 1990, describing how such initiatives have been incorporated into the Brady Plan and identifying any such initiatives undertaken to date.
 
-“(g) The Secretary of the Treasury shall instruct the United States Executive Director to the Inter-American Development Bank to—
+"(g) The Secretary of the Treasury shall instruct the United States Executive Director to the Inter-American Development Bank to—
 
-“(1) seek implementation of the environmental reform measures agreed to as part of the Bank's 7th Replenishment;
+"(1) seek implementation of the environmental reform measures agreed to as part of the Bank's 7th Replenishment;
 
-“(2) seek adoption of Bank policies regarding indigenous people, relations with nongovernmental organizations, and the protection of wildlife and unique natural and cultural features;
+"(2) seek adoption of Bank policies regarding indigenous people, relations with nongovernmental organizations, and the protection of wildlife and unique natural and cultural features;
 
-“(3) require the Bank to demonstrate how it has improved, and will improve, the monitoring of environmental and social components of loans; and
+"(3) require the Bank to demonstrate how it has improved, and will improve, the monitoring of environmental and social components of loans; and
 
-“(4) within four months after the date of enactment of this Act [Nov. 21, 1989] report to the Committees on Appropriations on the progress the Bank has made in implementing each of these reforms.”
+"(4) within four months after the date of enactment of this Act [Nov. 21, 1989] report to the Committees on Appropriations on the progress the Bank has made in implementing each of these reforms."
 
 [<sup>1</sup> So in original. The period probably should be a semicolon.](#262l_1)

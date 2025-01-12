@@ -12,7 +12,7 @@ Sec.
 
 10305. Manner of signing agreement.
 
-10306. Exhibiting merchant mariners’ documents.
+10306. Exhibiting merchant mariners' documents.
 
 10307. Posting agreements.
 

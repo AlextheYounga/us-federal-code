@@ -18,7 +18,7 @@ A prior section 8 was renumbered section 7 of this title.
 
 **2002**—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) [title IV, §4732(a)(10)(A)]. See 1999 Amendment note below.
 
-**1999**—Pub. L. 106–113, §1000(a)(9) [title IV, §4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+**1999**—Pub. L. 106–113, §1000(a)(9) [title IV, §4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted "Director" for "Commissioner".
 
 Pub. L. 106–113, §1000(a)(9) [title IV, §4717(1)], renumbered section 9 of this title as this section.
 

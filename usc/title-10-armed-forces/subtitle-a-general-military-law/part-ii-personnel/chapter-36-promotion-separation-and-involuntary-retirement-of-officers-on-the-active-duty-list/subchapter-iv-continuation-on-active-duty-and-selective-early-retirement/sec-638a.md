@@ -64,34 +64,34 @@ Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, ref
 
 #### Amendments ####
 
-**2013**—Subsec. (a). Pub. L. 112–239, §502(1), designated existing provisions as par. (1), struck out “, during the period beginning on October 1, 1990, and ending on December 31, 2001, and for the purpose of subsection (b)(4) during the period beginning on October 1, 2006, and ending on December 31, 2012,” after “military department”, and added par. (2).
+**2013**—Subsec. (a). Pub. L. 112–239, §502(1), designated existing provisions as par. (1), struck out ", during the period beginning on October 1, 1990, and ending on December 31, 2001, and for the purpose of subsection (b)(4) during the period beginning on October 1, 2006, and ending on December 31, 2012," after "military department", and added par. (2).
 
-Subsec. (b)(2)(A). Pub. L. 113–66, §503(a)(1), substituted “have failed of selection for promotion at least one time and whose names are not on a list of officers recommended for promotion” for “would be subject to consideration for selection for early retirement under section 638(a)(1)(A) of this title except that they have failed of selection for promotion only one time (rather than two or more times)”.
+Subsec. (b)(2)(A). Pub. L. 113–66, §503(a)(1), substituted "have failed of selection for promotion at least one time and whose names are not on a list of officers recommended for promotion" for "would be subject to consideration for selection for early retirement under section 638(a)(1)(A) of this title except that they have failed of selection for promotion only one time (rather than two or more times)".
 
-Subsec. (b)(2)(B). Pub. L. 113–66, §503(a)(2), substituted “have served on active duty in that grade for at least two years and whose names are not on a list of officers recommended for promotion” for “would be subject to consideration for selection for early retirement under section 638(a)(1)(B) of this title except that they have served on active duty in that grade less than four years (but not less than two years)”.
+Subsec. (b)(2)(B). Pub. L. 113–66, §503(a)(2), substituted "have served on active duty in that grade for at least two years and whose names are not on a list of officers recommended for promotion" for "would be subject to consideration for selection for early retirement under section 638(a)(1)(B) of this title except that they have served on active duty in that grade less than four years (but not less than two years)".
 
-Subsec. (b)(3), (4). Pub. L. 112–239, §502(2), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “Suspending section 638(c) of this title.”
+Subsec. (b)(3), (4). Pub. L. 112–239, §502(2), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "Suspending section 638(c) of this title."
 
 Subsec. (c)(4). Pub. L. 112–239, §502(3), added par. (4).
 
-Subsec. (d). Pub. L. 112–239, §502(4), substituted “subsection (b)(3)” for “subsection (b)(4)” wherever appearing and “except that through December 31, 2018,” for “except that during the period beginning on October 1, 2006, and ending on December 31, 2012,” in subpars. (A) and (B) of par. (2).
+Subsec. (d). Pub. L. 112–239, §502(4), substituted "subsection (b)(3)" for "subsection (b)(4)" wherever appearing and "except that through December 31, 2018," for "except that during the period beginning on October 1, 2006, and ending on December 31, 2012," in subpars. (A) and (B) of par. (2).
 
-**2006**—Subsec. (a). Pub. L. 109–364, §623(b)(1), inserted “and for the purpose of subsection (b)(4) during the period beginning on October 1, 2006, and ending on December 31, 2012,” after “December 31, 2001,”.
+**2006**—Subsec. (a). Pub. L. 109–364, §623(b)(1), inserted "and for the purpose of subsection (b)(4) during the period beginning on October 1, 2006, and ending on December 31, 2012," after "December 31, 2001,".
 
-Subsec. (d)(2)(A). Pub. L. 109–364, §623(b)(2)(A), inserted “, except that during the period beginning on October 1, 2006, and ending on December 31, 2012, such number may be more than 30 percent of the officers considered in each competitive category, but may not be more than 30 percent of the number of officers considered in each grade” before “; or” at end.
+Subsec. (d)(2)(A). Pub. L. 109–364, §623(b)(2)(A), inserted ", except that during the period beginning on October 1, 2006, and ending on December 31, 2012, such number may be more than 30 percent of the officers considered in each competitive category, but may not be more than 30 percent of the number of officers considered in each grade" before "; or" at end.
 
-Subsec. (d)(2)(B). Pub. L. 109–364, §623(b)(2)(B), inserted “, except that during the period beginning on October 1, 2006, and ending on December 31, 2012, such number may be more than 30 percent of the officers considered in each competitive category, but may not be more than 30 percent of the number of officers considered in each grade” before period at end.
+Subsec. (d)(2)(B). Pub. L. 109–364, §623(b)(2)(B), inserted ", except that during the period beginning on October 1, 2006, and ending on December 31, 2012, such number may be more than 30 percent of the officers considered in each competitive category, but may not be more than 30 percent of the number of officers considered in each grade" before period at end.
 
-**2000**—Subsec. (a). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
+**2000**—Subsec. (a). Pub. L. 106–398 substituted "December 31, 2001" for "September 30, 2001".
 
-**1998**—Subsec. (a). Pub. L. 105–261 substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
+**1998**—Subsec. (a). Pub. L. 105–261 substituted "during the period beginning on October 1, 1990, and ending on September 30, 2001" for "during the nine-year period beginning on October 1, 1990".
 
-**1993**—Subsec. (a). Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
+**1993**—Subsec. (a). Pub. L. 103–160 substituted "nine-year period" for "five-year period".
 
-**1992**—Subsec. (b)(4)(C). Pub. L. 102–484, §4403(g)(2), inserted “(other than by reason of eligibility pursuant to section 4403 of the National Defense Authorization Act for Fiscal Year 1993)” after “any provision of law”.
+**1992**—Subsec. (b)(4)(C). Pub. L. 102–484, §4403(g)(2), inserted "(other than by reason of eligibility pursuant to section 4403 of the National Defense Authorization Act for Fiscal Year 1993)" after "any provision of law".
 
 Subsec. (c)(3). Pub. L. 102–484, §503, added par. (3).
 
-**1991**—Subsec. (b)(2)(C). Pub. L. 102–190, §503(b)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Officers holding a regular grade below the grade of colonel or, in the case of the Navy, captain who are not eligible for retirement under section 3911, 6323, or 8911 of this title but who after two additional years of active service as a commissioned officer would be eligible for retirement under one of those sections and whose names are not on a list of officers recommended for promotion.”
+**1991**—Subsec. (b)(2)(C). Pub. L. 102–190, §503(b)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "Officers holding a regular grade below the grade of colonel or, in the case of the Navy, captain who are not eligible for retirement under section 3911, 6323, or 8911 of this title but who after two additional years of active service as a commissioned officer would be eligible for retirement under one of those sections and whose names are not on a list of officers recommended for promotion."
 
 Subsec. (c). Pub. L. 102–190, §503(b)(2), designated existing provisions as par. (1) and added par. (2).

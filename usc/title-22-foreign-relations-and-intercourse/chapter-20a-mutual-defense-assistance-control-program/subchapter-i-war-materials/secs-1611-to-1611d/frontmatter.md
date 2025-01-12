@@ -12,8 +12,8 @@ Section 1611b related to determinations respecting items to be embargoed.
 
 Section 1611c related to resumption of assistance upon determination of compliance by the President.
 
-Section 1611d defined “assistance” for purposes of this chapter.
+Section 1611d defined "assistance" for purposes of this chapter.
 
 #### Short Title ####
 
-Act Oct. 26, 1951, ch. 575, §1, 65 Stat. 645, which provided that this chapter be cited as the “Mutual Defense Assistance Control Act of 1951”, was superseded, effective October 1, 1979, by section 2416(e) of Title 50, Appendix, War and National Defense.
+Act Oct. 26, 1951, ch. 575, §1, 65 Stat. 645, which provided that this chapter be cited as the "Mutual Defense Assistance Control Act of 1951", was superseded, effective October 1, 1979, by section 2416(e) of Title 50, Appendix, War and National Defense.

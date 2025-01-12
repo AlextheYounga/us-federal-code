@@ -10,17 +10,17 @@ Section was formerly classified to section 443c of this title.
 
 #### Amendments ####
 
-**2006**—Pub. L. 109–418 substituted “$8,572,000” for “$10,472,000”.
+**2006**—Pub. L. 109–418 substituted "$8,572,000" for "$10,472,000".
 
-**1974**—Pub. L. 93–477 substituted “$10,472,000” for “$2,777,000”.
+**1974**—Pub. L. 93–477 substituted "$10,472,000" for "$2,777,000".
 
-**1967**—Pub. L. 90–74 substituted “$2,777,000” for “$2,000,000”.
+**1967**—Pub. L. 90–74 substituted "$2,777,000" for "$2,000,000".
 
 **1931**—Act Mar. 3, 1931, changed amount of appropriation and inserted last sentence extending the area of Yorktown battlefield.
 
 #### Change of Name ####
 
-Act June 5, 1936, changed “Colonial National Monument” to “Colonial National Historical Park”.
+Act June 5, 1936, changed "Colonial National Monument" to "Colonial National Historical Park".
 
 #### George Waller Blow Estate; Use of 1967 Increase in Authorization of Appropriations To Purchase ####
 

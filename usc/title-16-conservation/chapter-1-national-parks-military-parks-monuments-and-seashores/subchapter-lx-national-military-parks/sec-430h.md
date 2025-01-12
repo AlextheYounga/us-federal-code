@@ -10,11 +10,11 @@ In order to commemorate the campaign, siege, and defense of Vicksburg, and to pr
 
 #### Change of Name ####
 
-“United States magistrate judge” and “magistrate judge” substituted for “United States magistrate” and “magistrate”, respectively, wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “magistrate” substituted for “commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
+"United States magistrate judge" and "magistrate judge" substituted for "United States magistrate" and "magistrate", respectively, wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, "magistrate" substituted for "commissioner" pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
 
 #### Short Title of 2002 Amendment ####
 
-Pub. L. 107–238, §1, Oct. 11, 2002, 116 Stat. 1486, provided that: “This Act [enacting sections 430h–10 to 430h–13 of this title] may be cited as the ‘Vicksburg National Military Park Boundary Modification Act of 2002’.”
+Pub. L. 107–238, §1, Oct. 11, 2002, 116 Stat. 1486, provided that: "This Act [enacting sections 430h–10 to 430h–13 of this title] may be cited as the 'Vicksburg National Military Park Boundary Modification Act of 2002'."
 
 #### Transfer of Functions ####
 

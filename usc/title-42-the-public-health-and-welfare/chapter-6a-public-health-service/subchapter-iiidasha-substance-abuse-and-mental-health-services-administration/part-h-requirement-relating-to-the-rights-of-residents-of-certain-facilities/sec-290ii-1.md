@@ -6,7 +6,7 @@ Each facility to which the Protection and Advocacy for Mentally Ill Individuals 
 
 #### (b) Facility ####
 
-In this section, the term “facility” has the meaning given the term “facilities” in section 102(3) of the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup><a href="#290ii-1_1_target" name="290ii-1_1">1</a></sup> (42 U.S.C. 10802(3)).
+In this section, the term "facility" has the meaning given the term "facilities" in section 102(3) of the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup><a href="#290ii-1_1_target" name="290ii-1_1">1</a></sup> (42 U.S.C. 10802(3)).
 
 (July 1, 1944, ch. 373, title V, §592, as added Pub. L. 106–310, div. B, title XXXII, §3207, Oct. 17, 2000, 114 Stat. 1196.)
 

@@ -24,7 +24,7 @@ For purposes of this section—
 
 #### (1) Eligible contractor ####
 
-The term “eligible contractor” means—
+The term "eligible contractor" means—
 
 (A) the person who constructed the qualified new energy efficient home, or
 
@@ -32,7 +32,7 @@ The term “eligible contractor” means—
 
 #### (2) Qualified new energy efficient home ####
 
-The term “qualified new energy efficient home” means a dwelling unit—
+The term "qualified new energy efficient home" means a dwelling unit—
 
 (A) located in the United States,
 
@@ -42,11 +42,11 @@ The term “qualified new energy efficient home” means a dwelling unit—
 
 #### (3) Construction ####
 
-The term “construction” includes substantial reconstruction and rehabilitation.
+The term "construction" includes substantial reconstruction and rehabilitation.
 
 #### (4) Acquire ####
 
-The term “acquire” includes purchase.
+The term "acquire" includes purchase.
 
 #### (c) Energy saving requirements ####
 
@@ -66,7 +66,7 @@ A dwelling unit meets the energy saving requirements of this subsection if such 
 
 (3) a manufactured home which conforms to Federal Manufactured Home Construction and Safety Standards (part 3280 of title 24, Code of Federal Regulations) and which—
 
-(A) meets the requirements of paragraph (1) applied by substituting “30 percent” for “50 percent” both places it appears therein and by substituting “1/3” for “1/5” in subparagraph (B) thereof, or
+(A) meets the requirements of paragraph (1) applied by substituting "30 percent" for "50 percent" both places it appears therein and by substituting "1/3" for "1/5" in subparagraph (B) thereof, or
 
 (B) meets the requirements established by the Administrator of the Environmental Protection Agency under the Energy Star Labeled Homes program.
 
@@ -102,25 +102,25 @@ The National Appliance Energy Conservation Act of 1987, referred to in subsec. (
 
 #### Amendments ####
 
-**2013**—Subsec. (c)(1)(A)(i). Pub. L. 112–240, §408(b), substituted “2006 International Energy Conservation Code, as such Code (including supplements) is in effect on January 1, 2006” for “2003 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of this section”.
+**2013**—Subsec. (c)(1)(A)(i). Pub. L. 112–240, §408(b), substituted "2006 International Energy Conservation Code, as such Code (including supplements) is in effect on January 1, 2006" for "2003 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of this section".
 
-Subsec. (g). Pub. L. 112–240, §408(a), substituted “December 31, 2013” for “December 31, 2011”.
+Subsec. (g). Pub. L. 112–240, §408(a), substituted "December 31, 2013" for "December 31, 2011".
 
-**2010**—Subsec. (g). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
+**2010**—Subsec. (g). Pub. L. 111–312 substituted "December 31, 2011" for "December 31, 2009".
 
-**2008**—Subsec. (g). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2008”.
+**2008**—Subsec. (g). Pub. L. 110–343 substituted "December 31, 2009" for "December 31, 2008".
 
-**2007**—Subsec. (c)(2), (3). Pub. L. 110–172 substituted “part 3280” for “section 3280” in par. (2) and in introductory provisions of par. (3).
+**2007**—Subsec. (c)(2), (3). Pub. L. 110–172 substituted "part 3280" for "section 3280" in par. (2) and in introductory provisions of par. (3).
 
-**2006**—Subsec. (g). Pub. L. 109–432 substituted “2008” for “2007”.
+**2006**—Subsec. (g). Pub. L. 109–432 substituted "2008" for "2007".
 
 #### Effective Date of 2013 Amendment ####
 
-Pub. L. 112–240, title IV, §408(c), Jan. 2, 2013, 126 Stat. 2342, provided that: “The amendments made by this section [amending this section] shall apply to homes acquired after December 31, 2011.”
+Pub. L. 112–240, title IV, §408(c), Jan. 2, 2013, 126 Stat. 2342, provided that: "The amendments made by this section [amending this section] shall apply to homes acquired after December 31, 2011."
 
 #### Effective Date of 2010 Amendment ####
 
-Pub. L. 111–312, title VII, §703(b), Dec. 17, 2010, 124 Stat. 3311, provided that: “The amendment made by this section [amending this section] shall apply to homes acquired after December 31, 2009.”
+Pub. L. 111–312, title VII, §703(b), Dec. 17, 2010, 124 Stat. 3311, provided that: "The amendment made by this section [amending this section] shall apply to homes acquired after December 31, 2009."
 
 #### Effective Date ####
 

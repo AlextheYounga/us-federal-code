@@ -1,6 +1,6 @@
 ### §4. Secretary defined ###
 
-In this title, the term “Secretary” means the Secretary of the respective department in which the Coast Guard is operating.
+In this title, the term "Secretary" means the Secretary of the respective department in which the Coast Guard is operating.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 497; May 5, 1950, ch. 169, §14(u), 64 Stat. 148; Pub. L. 89–444, §1(1), June 9, 1966, 80 Stat. 195; Pub. L. 112–213, title II, §217(1), Dec. 20, 2012, 126 Stat. 1557.)
 
@@ -16,7 +16,7 @@ Subsection (c) is based on title 14, U.S.C., 1946 ed., §7 (Aug. 29, 1916, ch. 4
 
 Subsection (d) is derived from title 34, U.S.C., 1946 ed., §§355 to 356b (Feb. 4, 1919, ch. 14, §§2–5, 40 Stat. 1056; Aug. 7, 1942, ch. 551, §1, 56 Stat. 743).
 
-Said sections authorized medals for presentation “. . . to any person who, while serving in any capacity with the Navy of the United States . . .”; inasmuch as this language includes the Coast Guard when it is operating under the Navy, this subsection entails no change in existing law.
+Said sections authorized medals for presentation ". . . to any person who, while serving in any capacity with the Navy of the United States . . ."; inasmuch as this language includes the Coast Guard when it is operating under the Navy, this subsection entails no change in existing law.
 
 Subsection (e) is based on title 34, U.S.C., 1946 ed., §228 (R.S. 1442; Feb. 28, 1942, ch. 11, 59 Stat. 9).
 
@@ -32,7 +32,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 **2012**—Pub. L. 112–213 amended section generally. Prior to amendment, section related to operation of Coast Guard as a service in the Navy.
 
-**1966**—Pub. L. 89–444 made technical changes in subsecs. (d) and (e) by inserting “and” at end of subsec. (d) and substituting a period for “; and” at end of subsec. (e).
+**1966**—Pub. L. 89–444 made technical changes in subsecs. (d) and (e) by inserting "and" at end of subsec. (d) and substituting a period for "; and" at end of subsec. (e).
 
 **1950**—Act May 5, 1950, repealed subsec. (f) which provided that personnel of the Coast Guard should be subject to the laws for the government of the Navy.
 

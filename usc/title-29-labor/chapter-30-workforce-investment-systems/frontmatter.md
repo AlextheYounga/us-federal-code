@@ -112,7 +112,7 @@ Sec.
 
 2912. Migrant and seasonal farmworker programs.
 
-2913. Veterans’ workforce investment programs.
+2913. Veterans' workforce investment programs.
 
 2914. Youth opportunity grants.
 

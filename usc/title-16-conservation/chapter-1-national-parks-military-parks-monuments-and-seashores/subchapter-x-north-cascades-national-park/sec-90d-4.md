@@ -10,7 +10,7 @@ The Federal Power Act, referred to in text, is act June 20, 1920, ch. 285, 41 St
 
 #### Amendments ####
 
-**1988**—Pub. L. 100–668 substituted “in the lands and waters within the Skagit River Hydroelectric Project, Federal Energy and Regulatory Commission Project 553, including the proposed Copper Creek, High Ross, and Thunder Creek elements of the Project; and the Newhalem Project, Federal Energy and Regulatory Commission Project 2705, within the Ross Lake National Recreation Area; the lands and waters within the Lake Chelan Project, Federal Energy and Regulatory Commission Project 637; the Company Creek small hydroelectric project at Stehekin within the Lake Chelan National Recreation Area; and existing hydrologic monitoring stations necessary for the proper operation of the hydroelectric projects listed herein” for “in the recreation areas”.
+**1988**—Pub. L. 100–668 substituted "in the lands and waters within the Skagit River Hydroelectric Project, Federal Energy and Regulatory Commission Project 553, including the proposed Copper Creek, High Ross, and Thunder Creek elements of the Project; and the Newhalem Project, Federal Energy and Regulatory Commission Project 2705, within the Ross Lake National Recreation Area; the lands and waters within the Lake Chelan Project, Federal Energy and Regulatory Commission Project 637; the Company Creek small hydroelectric project at Stehekin within the Lake Chelan National Recreation Area; and existing hydrologic monitoring stations necessary for the proper operation of the hydroelectric projects listed herein" for "in the recreation areas".
 
 #### Transfer of Functions ####
 

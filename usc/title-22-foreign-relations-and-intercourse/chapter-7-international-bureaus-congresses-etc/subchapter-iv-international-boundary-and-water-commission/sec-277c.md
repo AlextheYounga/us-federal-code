@@ -10,7 +10,7 @@ Clause (c), except the proviso thereof, repealed by Pub. L. 94–579, title VII,
 
 #### Amendments ####
 
-**1936**—Act May 22, 1936, inserted “paragraph (2) of section 277a”.
+**1936**—Act May 22, 1936, inserted "paragraph (2) of section 277a".
 
 #### Savings Provision ####
 

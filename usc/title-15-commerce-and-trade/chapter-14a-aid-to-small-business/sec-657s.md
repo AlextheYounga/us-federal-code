@@ -50,7 +50,7 @@ In this section, the following definitions apply:
 
 #### (1) Covered small business concern ####
 
-The term “covered small business concern” means a business concern that—
+The term "covered small business concern" means a business concern that—
 
 (A) with respect to a contract awarded under section 637(a) of this title, is a small business concern eligible to receive contracts under that section;
 
@@ -68,7 +68,7 @@ The term “covered small business concern” means a business concern that—
 
 #### (2) Similarly situated entity ####
 
-The term “similarly situated entity” means a subcontractor that—
+The term "similarly situated entity" means a subcontractor that—
 
 (A) if a subcontractor for a small business concern, is a small business concern;
 

@@ -18,4 +18,4 @@ Section 150g, act June 15, 1948, ch. 471, §8, 62 Stat. 443, directed that chapt
 
 #### Short Title ####
 
-Act June 15, 1948, ch. 471, §9, 62 Stat. 443, provided that act June 15, 1948, enacting this chapter, could be cited as the “Golden Nematode Act”, prior to repeal by Pub. L. 106–224, title IV, §438(a)(8), June 20, 2000, 114 Stat. 454.
+Act June 15, 1948, ch. 471, §9, 62 Stat. 443, provided that act June 15, 1948, enacting this chapter, could be cited as the "Golden Nematode Act", prior to repeal by Pub. L. 106–224, title IV, §438(a)(8), June 20, 2000, 114 Stat. 454.

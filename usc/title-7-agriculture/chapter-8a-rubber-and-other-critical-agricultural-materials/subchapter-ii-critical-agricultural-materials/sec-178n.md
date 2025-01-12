@@ -28,25 +28,25 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments ####
 
-**2014**—Subsec. (a). Pub. L. 113–79 struck out “such sums as are necessary” after “Agriculture”, substituted “subchapter—” for “subchapter in each of the fiscal years 1991 through 2012.”, and added pars. (1) and (2).
+**2014**—Subsec. (a). Pub. L. 113–79 struck out "such sums as are necessary" after "Agriculture", substituted "subchapter—" for "subchapter in each of the fiscal years 1991 through 2012.", and added pars. (1) and (2).
 
-**2008**—Subsec. (a). Pub. L. 110–246, §7401, substituted “2012” for “2007”.
+**2008**—Subsec. (a). Pub. L. 110–246, §7401, substituted "2012" for "2007".
 
-**2002**—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
+**2002**—Subsec. (a). Pub. L. 107–171 substituted "2007" for "2002".
 
-**1998**—Subsec. (a). Pub. L. 105–185 substituted “2002” for “1997”.
+**1998**—Subsec. (a). Pub. L. 105–185 substituted "2002" for "1997".
 
-**1996**—Subsec. (a). Pub. L. 104–127 substituted “1997” for “1995”.
+**1996**—Subsec. (a). Pub. L. 104–127 substituted "1997" for "1995".
 
-**1990**—Subsec. (a). Pub. L. 101–624, §1601(e)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “There is authorized to be appropriated to the Secretary of Agriculture $2,500,000 for each of the fiscal years ending September 30, 1980, and September 30, 1981, $5,000,000 for each of the fiscal years ending September 30, 1982, and September 30, 1983, $5,000,000 for the fiscal year ending September 30, 1984, $5,500,000 for the fiscal year ending September 30, 1985, $6,500,000 for the fiscal year ending September 30, 1986, $7,500,000 for the fiscal year ending September 30, 1987, and $8,000,000 for the fiscal year ending September 30, 1988, to carry out the purposes of this subchapter. Funds appropriated under this paragraph shall be available for obligation until the last day of the fiscal year after the year for which such funds are authorized.”
+**1990**—Subsec. (a). Pub. L. 101–624, §1601(e)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: "There is authorized to be appropriated to the Secretary of Agriculture $2,500,000 for each of the fiscal years ending September 30, 1980, and September 30, 1981, $5,000,000 for each of the fiscal years ending September 30, 1982, and September 30, 1983, $5,000,000 for the fiscal year ending September 30, 1984, $5,500,000 for the fiscal year ending September 30, 1985, $6,500,000 for the fiscal year ending September 30, 1986, $7,500,000 for the fiscal year ending September 30, 1987, and $8,000,000 for the fiscal year ending September 30, 1988, to carry out the purposes of this subchapter. Funds appropriated under this paragraph shall be available for obligation until the last day of the fiscal year after the year for which such funds are authorized."
 
-Subsec. (b). Pub. L. 101–624, §1601(e)(2)–(4), redesignated subsec. (c) as (b) and substituted “subsection (a)” for “subsections (a) and (b)”, and struck out former subsec. (b) which read as follows: “There is authorized to be appropriated to the Secretary of Commerce $2,500,000 for each of the fiscal years ending September 30, 1980, and September 30, 1981, $5,000,000 for each of the fiscal years ending September 30, 1982, and September 30, 1983, $2,500,000 for the fiscal year ending September 30, 1984, $3,000,000 for the fiscal year ending September 30, 1985, $3,500,000 for the fiscal year ending September 30, 1986, $4,000,000 for the fiscal year ending September 30, 1987, and $4,500,000 for the fiscal year ending September 30, 1988, to carry out the purposes of this subchapter. Funds appropriated under this paragraph shall be available for obligation until the last day of the fiscal year after the year for which such funds are authorized.”
+Subsec. (b). Pub. L. 101–624, §1601(e)(2)–(4), redesignated subsec. (c) as (b) and substituted "subsection (a)" for "subsections (a) and (b)", and struck out former subsec. (b) which read as follows: "There is authorized to be appropriated to the Secretary of Commerce $2,500,000 for each of the fiscal years ending September 30, 1980, and September 30, 1981, $5,000,000 for each of the fiscal years ending September 30, 1982, and September 30, 1983, $2,500,000 for the fiscal year ending September 30, 1984, $3,000,000 for the fiscal year ending September 30, 1985, $3,500,000 for the fiscal year ending September 30, 1986, $4,000,000 for the fiscal year ending September 30, 1987, and $4,500,000 for the fiscal year ending September 30, 1988, to carry out the purposes of this subchapter. Funds appropriated under this paragraph shall be available for obligation until the last day of the fiscal year after the year for which such funds are authorized."
 
 Subsecs. (c) to (e). Pub. L. 101–624, §1601(e)(4), redesignated subsecs. (c) to (e) as (b) to (d), respectively.
 
-**1984**—Subsec. (a). Pub. L. 98–284, §15(a), inserted “$5,000,000 for the fiscal year ending September 30, 1984, $5,500,000 for the fiscal year ending September 30, 1985, $6,500,000 for the fiscal year ending September 30, 1986, $7,500,000 for the fiscal year ending September 30, 1987, and $8,000,000 for the fiscal year ending September 30, 1988,” and struck out “and” after “1981,”.
+**1984**—Subsec. (a). Pub. L. 98–284, §15(a), inserted "$5,000,000 for the fiscal year ending September 30, 1984, $5,500,000 for the fiscal year ending September 30, 1985, $6,500,000 for the fiscal year ending September 30, 1986, $7,500,000 for the fiscal year ending September 30, 1987, and $8,000,000 for the fiscal year ending September 30, 1988," and struck out "and" after "1981,".
 
-Subsec. (b). Pub. L. 98–284, §15(b), inserted “$2,500,000 for the fiscal year ending September 30, 1984, $3,000,000 for the fiscal year ending September 30, 1985, $3,500,000 for the fiscal year ending September 30, 1986, $4,000,000 for the fiscal year ending September 30, 1987, and $4,500,000 for the fiscal year ending September 30, 1988,” and struck out “and” after “1981,”.
+Subsec. (b). Pub. L. 98–284, §15(b), inserted "$2,500,000 for the fiscal year ending September 30, 1984, $3,000,000 for the fiscal year ending September 30, 1985, $3,500,000 for the fiscal year ending September 30, 1986, $4,000,000 for the fiscal year ending September 30, 1987, and $4,500,000 for the fiscal year ending September 30, 1988," and struck out "and" after "1981,".
 
 Subsec. (e). Pub. L. 98–284, §15(c), added subsec. (e).
 

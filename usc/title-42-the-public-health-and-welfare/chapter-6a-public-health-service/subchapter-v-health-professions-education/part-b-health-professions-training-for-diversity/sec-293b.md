@@ -90,7 +90,7 @@ To be eligible to receive a grant or contract under paragraph (1) an applicant s
 
 #### (5) Definition ####
 
-For purposes of this subsection, the term “underrepresented minority individuals” means individuals who are members of racial or ethnic minority groups that are underrepresented in the health professions including nursing.
+For purposes of this subsection, the term "underrepresented minority individuals" means individuals who are members of racial or ethnic minority groups that are underrepresented in the health professions including nursing.
 
 (July 1, 1944, ch. 373, title VII, §738, as added Pub. L. 105–392, title I, §101(a), Nov. 13, 1998, 112 Stat. 3532; amended Pub. L. 111–148, title V, §5402(a), title X, §10501(d), Mar. 23, 2010, 124 Stat. 644, 995.)
 
@@ -108,6 +108,6 @@ A prior section 738 of act July 1, 1944, was classified to section 294k of this 
 
 #### Amendments ####
 
-**2010**—Subsec. (a)(1). Pub. L. 111–148, §5402(a), substituted “$30,000” for “$20,000”.
+**2010**—Subsec. (a)(1). Pub. L. 111–148, §5402(a), substituted "$30,000" for "$20,000".
 
-Subsec. (a)(3). Pub. L. 111–148, §10501(d), inserted “schools offering physician assistant education programs,” after “public health,”.
+Subsec. (a)(3). Pub. L. 111–148, §10501(d), inserted "schools offering physician assistant education programs," after "public health,".

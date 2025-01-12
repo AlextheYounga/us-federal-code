@@ -1,6 +1,6 @@
 ### §7e. Definitions ###
 
-The terms “airport”, “project”, “project costs”, “public agency”, and “sponsor”, as used in sections 7a to 7e of this title, shall have the respective meanings prescribed in the Federal Airport Act.
+The terms "airport", "project", "project costs", "public agency", and "sponsor", as used in sections 7a to 7e of this title, shall have the respective meanings prescribed in the Federal Airport Act.
 
 (Mar. 18, 1950, ch. 72, §5, 64 Stat. 28.)
 

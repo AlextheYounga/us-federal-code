@@ -6,7 +6,7 @@ It shall be lawful for the authorities of any State having had troops engaged at
 
 #### Change of Name ####
 
-“Petersburg National Battlefield” and “battlefield” substituted in text for “Petersburg National Military Park” and “park”, respectively, in view of redesignation of Petersburg National Military Park as Petersburg National Battlefield by Pub. L. 87–603. See section 423h–1 of this title.
+"Petersburg National Battlefield" and "battlefield" substituted in text for "Petersburg National Military Park" and "park", respectively, in view of redesignation of Petersburg National Military Park as Petersburg National Battlefield by Pub. L. 87–603. See section 423h–1 of this title.
 
 #### Transfer of Functions ####
 

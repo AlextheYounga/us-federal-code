@@ -14,4 +14,4 @@ Section 726, act Aug. 14, 1935, ch. 531, title V, §526, as added Sept. 13, 1960
 
 Section 727, act Aug. 14, 1935, ch. 531, title V, §527, as added July 25, 1962, Pub. L. 87–543, title I, §102(c)(2), 76 Stat. 183, provided for allotments and reallotment of allotments to States for day care services. Section had been previously repealed by Pub. L. 89–97, title II, §208(a)(1), July 30, 1965, 79 Stat. 355, effective Jan. 1, 1966, under section 208(d) of Pub. L. 89–97.
 
-Section 728, act Aug. 14, 1935, ch. 531, title V, §528, as added July 25, 1962, Pub. L. 87–543, title I, §102(d)(2), 76 Stat. 184, defined “child-welfare services”.
+Section 728, act Aug. 14, 1935, ch. 531, title V, §528, as added July 25, 1962, Pub. L. 87–543, title I, §102(d)(2), 76 Stat. 184, defined "child-welfare services".

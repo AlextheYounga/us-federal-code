@@ -34,17 +34,17 @@ Nothing in this section may be construed to affect the application of section 12
 
 #### (e) STEM defined ####
 
-In this section, the term “STEM” means the academic and professional disciplines of science, technology, engineering, and mathematics.
+In this section, the term "STEM" means the academic and professional disciplines of science, technology, engineering, and mathematics.
 
 (Pub. L. 110–69, title IV, §4002, Aug. 9, 2007, 121 Stat. 600; Pub. L. 111–358, title III, §302, Jan. 4, 2011, 124 Stat. 3997.)
 
 #### Amendments ####
 
-**2011**—Subsec. (a). Pub. L. 111–358, §302(1), substituted “agency, with consideration given to the goal of promoting the participation of individuals from underrepresented groups in STEM fields and in promoting the acquisition and retention of highly qualified and motivated young scientists to complement and supplement workforce needs.” for “the agency.”
+**2011**—Subsec. (a). Pub. L. 111–358, §302(1), substituted "agency, with consideration given to the goal of promoting the participation of individuals from underrepresented groups in STEM fields and in promoting the acquisition and retention of highly qualified and motivated young scientists to complement and supplement workforce needs." for "the agency."
 
 Subsec. (b). Pub. L. 111–358, §302(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 111–358, §302(4), substituted “maintain” for “develop”.
+Subsec. (c). Pub. L. 111–358, §302(4), substituted "maintain" for "develop".
 
 Pub. L. 111–358, §302(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
@@ -52,4 +52,4 @@ Subsec. (d). Pub. L. 111–358, §302(2), redesignated subsec. (c) as (d).
 
 Subsec. (e). Pub. L. 111–358, §302(5), added subsec. (e).
 
-[<sup>1</sup> So in original. Probably should be “the agency,”.](#893a_1)
+[<sup>1</sup> So in original. Probably should be "the agency,".](#893a_1)

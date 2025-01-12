@@ -62,11 +62,11 @@ For a product that entered the pharmaceutical distribution supply chain prior to
 
 #### (6) Wholesale distributor licenses ####
 
-Notwithstanding section 360eee(9)(A) of this title, until the effective date of the wholesale distributor licensing regulations under section 360eee–2 of this title, the term “licensed” or “authorized”, as it relates to a wholesale distributor with respect to prescription drugs, shall mean a wholesale distributor with a valid license under State law.
+Notwithstanding section 360eee(9)(A) of this title, until the effective date of the wholesale distributor licensing regulations under section 360eee–2 of this title, the term "licensed" or "authorized", as it relates to a wholesale distributor with respect to prescription drugs, shall mean a wholesale distributor with a valid license under State law.
 
 #### (7) Third-party logistics provider licenses ####
 
-Until the effective date of the third-party logistics provider licensing regulations under section 360eee–3 of this title, a third-party logistics provider shall be considered “licensed” under section 360eee(9)(B) of this title unless the Secretary has made a finding that the third-party logistics provider does not utilize good handling and distribution practices and publishes notice thereof.
+Until the effective date of the third-party logistics provider licensing regulations under section 360eee–3 of this title, a third-party logistics provider shall be considered "licensed" under section 360eee(9)(B) of this title unless the Secretary has made a finding that the third-party logistics provider does not utilize good handling and distribution practices and publishes notice thereof.
 
 #### (8) Label changes ####
 
@@ -168,7 +168,7 @@ Upon determining that a product in the possession or control of the manufacturer
 
 #### (II) High risk of illegitimacy ####
 
-A manufacturer shall notify the Secretary and immediate trading partners that the manufacturer has reason to believe may have in the trading partner's possession a product manufactured by, or purported to be a product manufactured by, the manufacturer not later than 24 hours after determining or being notified by the Secretary or a trading partner that there is a high risk that such product is an illegitimate product. For purposes of this subclause, a “high risk” may include a specific high risk that could increase the likelihood that illegitimate product will enter the pharmaceutical distribution supply chain and other high risks as determined by the Secretary in guidance pursuant to subsection (h).
+A manufacturer shall notify the Secretary and immediate trading partners that the manufacturer has reason to believe may have in the trading partner's possession a product manufactured by, or purported to be a product manufactured by, the manufacturer not later than 24 hours after determining or being notified by the Secretary or a trading partner that there is a high risk that such product is an illegitimate product. For purposes of this subclause, a "high risk" may include a specific high risk that could increase the likelihood that illegitimate product will enter the pharmaceutical distribution supply chain and other high risks as determined by the Secretary in guidance pursuant to subsection (h).
 
 #### (iii) Responding to a notification ####
 
@@ -818,4 +818,4 @@ On the date that is 10 years after November 27, 2013, the timeline for responses
 
 **2013**—Subsecs. (g) to (m). Pub. L. 113–54, §203, added subsecs. (g) to (m).
 
-[<sup>1</sup> So in original. Probably should be “title”.](#360eee-1_1)
+[<sup>1</sup> So in original. Probably should be "title".](#360eee-1_1)

@@ -4,4 +4,4 @@ The Secretary may enter into a cooperative agreement with the Ohio Historical So
 
 (Pub. L. 102–294, §3, May 27, 1992, 106 Stat. 186.)
 
-[<sup>1</sup> So in original. Probably should be “Archaeological”.](#410uu-2_1)
+[<sup>1</sup> So in original. Probably should be "Archaeological".](#410uu-2_1)

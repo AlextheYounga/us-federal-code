@@ -16,11 +16,11 @@ if each of the corporations has capital, surplus, and undivided profits aggregat
 
 (C) the competitive sales of each corporation are less than 4 per centum of that corporation's total sales.
 
-For purposes of this paragraph, “competitive sales” means the gross revenues for all products and services sold by one corporation in competition with the other, determined on the basis of annual gross revenues for such products and services in that corporation's last completed fiscal year. For the purposes of this paragraph, “total sales” means the gross revenues for all products and services sold by one corporation over that corporation's last completed fiscal year.
+For purposes of this paragraph, "competitive sales" means the gross revenues for all products and services sold by one corporation in competition with the other, determined on the basis of annual gross revenues for such products and services in that corporation's last completed fiscal year. For the purposes of this paragraph, "total sales" means the gross revenues for all products and services sold by one corporation over that corporation's last completed fiscal year.
 
 (3) The eligibility of a director or officer under the provisions of paragraph (1) shall be determined by the capital, surplus and undivided profits, exclusive of dividends declared but not paid to stockholders, of each corporation at the end of that corporation's last completed fiscal year.
 
-(4) For purposes of this section, the term “officer” means an officer elected or chosen by the Board of Directors.
+(4) For purposes of this section, the term "officer" means an officer elected or chosen by the Board of Directors.
 
 (5) For each fiscal year commencing after September 30, 1990, the $10,000,000 and $1,000,000 thresholds in this subsection shall be increased (or decreased) as of October 1 each year by an amount equal to the percentage increase (or decrease) in the gross national product, as determined by the Department of Commerce or its successor, for the year then ended over the level so established for the year ending September 30, 1989. As soon as practicable, but not later than January 31 of each year, the Federal Trade Commission shall publish the adjusted amounts required by this paragraph.
 
@@ -34,9 +34,9 @@ The antitrust laws, referred to in subsec. (a)(1)(B), are defined in section 12 
 
 #### Amendments ####
 
-**1993**—Subsec. (a)(5). Pub. L. 103–203 substituted “January 31” for “October 30”.
+**1993**—Subsec. (a)(5). Pub. L. 103–203 substituted "January 31" for "October 30".
 
-**1990**—Pub. L. 101–588 amended section generally, completely revising it in form by substituting text divided into a subsec. (a) consisting of five numbered paragraphs and a subsec. (b) consisting of a single unnumbered paragraph for former provisions which had consisted of a series of five undesignated paragraphs, and in substance by increasing the jurisdictional threshold for application of the section to corporations from $1,000,000 in net worth to $10,000,000 in net worth, creating three “de minimis” exceptions to applications of the section in cases of insignificant competitive overlaps, and expanding the section to cover officers elected or chosen by the Board of Directors.
+**1990**—Pub. L. 101–588 amended section generally, completely revising it in form by substituting text divided into a subsec. (a) consisting of five numbered paragraphs and a subsec. (b) consisting of a single unnumbered paragraph for former provisions which had consisted of a series of five undesignated paragraphs, and in substance by increasing the jurisdictional threshold for application of the section to corporations from $1,000,000 in net worth to $10,000,000 in net worth, creating three "de minimis" exceptions to applications of the section in cases of insignificant competitive overlaps, and expanding the section to cover officers elected or chosen by the Board of Directors.
 
 **1935**—Act Aug. 23, 1935, amended section generally.
 

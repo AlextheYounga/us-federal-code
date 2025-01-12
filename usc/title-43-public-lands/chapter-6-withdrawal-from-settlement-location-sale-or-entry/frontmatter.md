@@ -30,7 +30,7 @@ Sec.
 
 154. Vacation of withdrawals under reclamation law; lands valuable for minerals; reservation of rights, ways, and easements; rules and regulations.
 
-155. Withdrawal, reservation, or restriction of public lands for defense purposes; “public lands” defined; exception.
+155. Withdrawal, reservation, or restriction of public lands for defense purposes; "public lands" defined; exception.
 
 156. Approval by Congress necessary for withdrawal, reservation, or restriction of over 5,000 acres for any Department of Defense project or facility.
 

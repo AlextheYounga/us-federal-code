@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Administrator ####
 
-The term “Administrator” means the Administrator of the Bonneville Power Administration.
+The term "Administrator" means the Administrator of the Bonneville Power Administration.
 
 #### (2) Council ####
 
-The term “Council” means the Northwest Power and Conservation Planning Council.
+The term "Council" means the Northwest Power and Conservation Planning Council.
 
 #### (3) Excess Federal power ####
 
-The term “excess Federal power” means such electric power that has become surplus to the firm contractual obligations of the Administrator under section 839c(f) of this title due to either—
+The term "excess Federal power" means such electric power that has become surplus to the firm contractual obligations of the Administrator under section 839c(f) of this title due to either—
 
 (A) any reduction in the quantity of electric power that the Administrator is contractually required to supply under subsections (b) and (d) of section 839c of this title, due to the election by customers of the Bonneville Power Administration to purchase electric power from other suppliers, as compared to the quantity of electric power that the Administrator was contractually required to supply as of January 1, 1995; or
 
@@ -38,7 +38,7 @@ The Assistant Secretary of the Army for Civil Works, acting through the North Pa
 
 #### (e) Residential exchange ####
 
-Notwithstanding the establishment, confirmation and approval of rates pursuant to section 839e of this title, and notwithstanding the provisions of section 839c(c) of this title, the cost benefits of eligible utilities’ total purchase and exchange sales under section 839c(c)(1) of this title shall be $145,000,000 for fiscal year 1997, and the net benefits paid to each eligible electric utility shall be $145,000,000 multiplied by the percentage of the total of such net benefits paid by the Administrator to such utility for fiscal year 1995.
+Notwithstanding the establishment, confirmation and approval of rates pursuant to section 839e of this title, and notwithstanding the provisions of section 839c(c) of this title, the cost benefits of eligible utilities' total purchase and exchange sales under section 839c(c)(1) of this title shall be $145,000,000 for fiscal year 1997, and the net benefits paid to each eligible electric utility shall be $145,000,000 multiplied by the percentage of the total of such net benefits paid by the Administrator to such utility for fiscal year 1995.
 
 #### (f) Personnel flexibility ####
 
@@ -56,6 +56,6 @@ Section was enacted as part of the Energy and Water Development Appropriations A
 
 #### Voluntary Separation Incentives to Employees ####
 
-Pub. L. 104–206, title V, §511, Sept. 30, 1996, 110 Stat. 3004, as amended by Pub. L. 106–377, §1(a)(2) [title III], Oct. 27, 2000, 114 Stat. 1441, 1441A–76, provided that: “The Administrator may offer employees voluntary separation incentives as deemed necessary which shall not exceed $25,000. Recipients who accept employment with the United States within five years after separation shall repay the entire amount to the Bonneville Power Administration. This authority shall expire January 1, 2003.”
+Pub. L. 104–206, title V, §511, Sept. 30, 1996, 110 Stat. 3004, as amended by Pub. L. 106–377, §1(a)(2) [title III], Oct. 27, 2000, 114 Stat. 1441, 1441A–76, provided that: "The Administrator may offer employees voluntary separation incentives as deemed necessary which shall not exceed $25,000. Recipients who accept employment with the United States within five years after separation shall repay the entire amount to the Bonneville Power Administration. This authority shall expire January 1, 2003."
 
 [<sup>1</sup> So in original. No par. (2) has been enacted.](#832m_1)

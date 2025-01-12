@@ -38,14 +38,14 @@ In carrying out the responsibilities set forth in subsection (b) and the duties 
 
 #### Amendments ####
 
-**2011**—Pub. L. 112–81, §567(c)(3), substituted “Oversight of health care provided to residents” for “Improved health care oversight of Retirement Home” in section catchline.
+**2011**—Pub. L. 112–81, §567(c)(3), substituted "Oversight of health care provided to residents" for "Improved health care oversight of Retirement Home" in section catchline.
 
-Subsec. (b). Pub. L. 112–81, §562(a), substituted “The” for “(1) The” and “the Chief Operating Officer, and the Advisory Council regarding the direction and oversight of—” for “the Chief Operating Officer regarding the direction and oversight of the provision of medical, preventive mental health, and dental care services at each facility of the Retirement Home.”, added pars. (1) and (2), and struck out former par. (2) which read as follows: “The Senior Medical Advisor shall also provide advice to the Local Board for a facility of the Retirement Home regarding all medical and medical administrative matters of the facility.”
+Subsec. (b). Pub. L. 112–81, §562(a), substituted "The" for "(1) The" and "the Chief Operating Officer, and the Advisory Council regarding the direction and oversight of—" for "the Chief Operating Officer regarding the direction and oversight of the provision of medical, preventive mental health, and dental care services at each facility of the Retirement Home.", added pars. (1) and (2), and struck out former par. (2) which read as follows: "The Senior Medical Advisor shall also provide advice to the Local Board for a facility of the Retirement Home regarding all medical and medical administrative matters of the facility."
 
 Subsec. (c)(3) to (5). Pub. L. 112–81, §562(b), added pars. (3) and (4) and struck out former pars. (3) to (5) which read as follows:
 
-“(3) Periodically visit and inspect the medical facilities and medical operations of each facility of the Retirement Home.
+"(3) Periodically visit and inspect the medical facilities and medical operations of each facility of the Retirement Home.
 
-“(4) Periodically examine and audit the medical records and administration of the Retirement Home.
+"(4) Periodically examine and audit the medical records and administration of the Retirement Home.
 
-“(5) Consult with the Local Board for each facility of the Retirement Home not less frequently than once each year.”
+"(5) Consult with the Local Board for each facility of the Retirement Home not less frequently than once each year."

@@ -12,7 +12,7 @@ Section 445 of this title, referred to in text, was repealed by act June 12, 194
 
 #### Amendments ####
 
-**1994**—Pub. L. 103–325 struck out “National-bank notes and” before “Federal Reserve bank notes redeemed” and “national-bank notes and” after “deposits for the retirement of”.
+**1994**—Pub. L. 103–325 struck out "National-bank notes and" before "Federal Reserve bank notes redeemed" and "national-bank notes and" after "deposits for the retirement of".
 
 **1966**—Pub. L. 89–427 substituted provisions allowing the Board of Governors of the Federal Reserve System to determine the proper apportioning between the Federal Reserve banks of the charges for the redemption by the Treasurer of the United States of Federal Reserve notes that are unidentifiable as to bank of issue for provisions that set out the exact formula for determining the proper apportioning of charges using a proportion based upon the amount of Federal Reserve notes of each Federal Reserve bank in circulation in the 31st day of December of the year preceding the date of redemption, with the amount apportioned under the formula charged by the Treasurer of the United States against deposit in the gold-redemption fund made by the bank or its Federal Reserve agent.
 

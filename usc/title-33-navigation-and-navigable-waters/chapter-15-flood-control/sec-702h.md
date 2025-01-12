@@ -8,16 +8,16 @@ The official salary of any officer of the United States Army or other branch of 
 
 #### References in Text ####
 
-Herein, referred to in text, means act May 15, 1928, ch. 569, 45 Stat. 534, as amended, which enacted sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, 702k, 702l, 702m, and 704 of this title. For complete classification of this Act to the Code, see Tables. The “project herein authorized” was specifically authorized by section 702a of this title.
+Herein, referred to in text, means act May 15, 1928, ch. 569, 45 Stat. 534, as amended, which enacted sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, 702k, 702l, 702m, and 704 of this title. For complete classification of this Act to the Code, see Tables. The "project herein authorized" was specifically authorized by section 702a of this title.
 
 #### Codification ####
 
-Provisions of the second paragraph, as amended by Pub. L. 106–53, that read: “The salary of the president of the Mississippi River Commission shall hereafter be $10,000 per annum, and the salary of the other members of the commission shall hereafter be $21,500 per annum.” were omitted as obsolete and superseded by the Classification Act of 1949, 63 Stat. 954, 972. The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632, and reenacted as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees. Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
+Provisions of the second paragraph, as amended by Pub. L. 106–53, that read: "The salary of the president of the Mississippi River Commission shall hereafter be $10,000 per annum, and the salary of the other members of the commission shall hereafter be $21,500 per annum." were omitted as obsolete and superseded by the Classification Act of 1949, 63 Stat. 954, 972. The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632, and reenacted as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees. Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
 #### Amendments ####
 
-**1999**—Pub. L. 106–53 amended provisions which were omitted from the second paragraph by substituting “$21,500” for “$7,500”. See Codification note above.
+**1999**—Pub. L. 106–53 amended provisions which were omitted from the second paragraph by substituting "$21,500" for "$7,500". See Codification note above.
 
 #### Change of Name ####
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.

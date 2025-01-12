@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-There is hereby established in the Treasury a revolving fund for duplication and delivery services provided by the Librarian of Congress (hereafter in sections 182a to 182d of this title referred to as the “Librarian”) which are associated with the national audiovisual conservation center established under the Act entitled “An Act to authorize acquisition of certain real property for the Library of Congress, and for other purposes”, approved December 15, 1997 (Public Law 105–144; 2 U.S.C. 141 note).
+There is hereby established in the Treasury a revolving fund for duplication and delivery services provided by the Librarian of Congress (hereafter in sections 182a to 182d of this title referred to as the "Librarian") which are associated with the national audiovisual conservation center established under the Act entitled "An Act to authorize acquisition of certain real property for the Library of Congress, and for other purposes", approved December 15, 1997 (Public Law 105–144; 2 U.S.C. 141 note).
 
 #### (b) Fees for services ####
 
@@ -42,16 +42,16 @@ Amounts in the revolving fund under this section shall be available to the Libra
 
 #### References in Text ####
 
-Sections 182a to 182d of this title, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 106–481, Nov. 9, 2000, 114 Stat. 2187, known as the Library of Congress Fiscal Operations Improvement Act of 2000, which enacted this section and sections 182b to 182d of this title, amended section 154 of this title, and enacted provisions set out as notes under this section and section 154 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
+Sections 182a to 182d of this title, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 106–481, Nov. 9, 2000, 114 Stat. 2187, known as the Library of Congress Fiscal Operations Improvement Act of 2000, which enacted this section and sections 182b to 182d of this title, amended section 154 of this title, and enacted provisions set out as notes under this section and section 154 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Amendments ####
 
-**2001**—Pub. L. 107–68 struck out “audio and video” before “duplication” in section catchline and in subsec. (a).
+**2001**—Pub. L. 107–68 struck out "audio and video" before "duplication" in section catchline and in subsec. (a).
 
 #### Effective Date ####
 
-Pub. L. 106–481, title I, §105, Nov. 9, 2000, 114 Stat. 2190, provided that: “The provisions of this title [enacting this section and sections 182b to 182d of this title and provisions set out as a note under this section] shall apply with respect to fiscal year 2002 and each succeeding fiscal year.”
+Pub. L. 106–481, title I, §105, Nov. 9, 2000, 114 Stat. 2190, provided that: "The provisions of this title [enacting this section and sections 182b to 182d of this title and provisions set out as a note under this section] shall apply with respect to fiscal year 2002 and each succeeding fiscal year."
 
 #### Short Title ####
 
-Pub. L. 106–481, §1, Nov. 9, 2000, 114 Stat. 2187, provided that: “This Act [enacting this section and sections 182b to 182d of this title, amending section 154 of this title, and enacting provisions set out as notes under this section and section 154 of this title] may be cited as the ‘Library of Congress Fiscal Operations Improvement Act of 2000’.”
+Pub. L. 106–481, §1, Nov. 9, 2000, 114 Stat. 2187, provided that: "This Act [enacting this section and sections 182b to 182d of this title, amending section 154 of this title, and enacting provisions set out as notes under this section and section 154 of this title] may be cited as the 'Library of Congress Fiscal Operations Improvement Act of 2000'."

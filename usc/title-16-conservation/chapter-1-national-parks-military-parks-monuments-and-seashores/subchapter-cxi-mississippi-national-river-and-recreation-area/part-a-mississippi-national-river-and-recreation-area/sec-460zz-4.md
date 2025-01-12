@@ -38,6 +38,6 @@ The Secretary may permit the owner or owners of any improved residential propert
 
 #### Amendments ####
 
-**1989**—Subsec. (a). Pub. L. 101–40 substituted “Other” for “Our” in third sentence.
+**1989**—Subsec. (a). Pub. L. 101–40 substituted "Other" for "Our" in third sentence.
 
-[<sup>1</sup> So in original. Probably should be “noncommercial”.](#460zz-4_1)
+[<sup>1</sup> So in original. Probably should be "noncommercial".](#460zz-4_1)

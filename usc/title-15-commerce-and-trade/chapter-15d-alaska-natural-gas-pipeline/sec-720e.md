@@ -10,7 +10,7 @@ Except for review by the Supreme Court on writ of certiorari, the United States 
 
 (3) the validity of any determination, permit, approval, authorization, review, or other related action taken under any provision of law relating to a gas transportation project constructed and operated in accordance with section 720a of this title, including—
 
-(A) subchapter II of chapter 5, and chapter 7, of title 5 (commonly known as the “Administrative Procedure Act”);
+(A) subchapter II of chapter 5, and chapter 7, of title 5 (commonly known as the "Administrative Procedure Act");
 
 (B) the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.);
 
@@ -32,7 +32,7 @@ The United States Court of Appeals for the District of Columbia Circuit shall se
 
 #### References in Text ####
 
-This chapter, referred to in subsecs. (a) and (b), was in the original “this division”, meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. For complete classification of division C to the Code, see Short Title note set out under section 720 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original "this division", meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. For complete classification of division C to the Code, see Short Title note set out under section 720 of this title and Tables.
 
 The Endangered Species Act of 1973, referred to in subsec. (a)(3)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
@@ -48,4 +48,4 @@ Section is comprised of section 107 of Pub. L. 108–324. Subsec. (d) of section
 
 #### Amendments ####
 
-**2009**—Subsec. (a)(3). Pub. L. 111–11 added par. (3) and struck out former par. (3) which read as follows: “the adequacy of any environmental impact statement prepared under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to any action under this chapter.”
+**2009**—Subsec. (a)(3). Pub. L. 111–11 added par. (3) and struck out former par. (3) which read as follows: "the adequacy of any environmental impact statement prepared under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to any action under this chapter."

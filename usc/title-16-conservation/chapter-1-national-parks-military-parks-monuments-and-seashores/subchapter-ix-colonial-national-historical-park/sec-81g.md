@@ -10,7 +10,7 @@ Section was formerly classified to section 443d of this title.
 
 #### Change of Name ####
 
-Act June 5, 1936, changed “Colonial National Monument” to “Colonial National Historical Park”.
+Act June 5, 1936, changed "Colonial National Monument" to "Colonial National Historical Park".
 
 #### Transfer of Functions ####
 

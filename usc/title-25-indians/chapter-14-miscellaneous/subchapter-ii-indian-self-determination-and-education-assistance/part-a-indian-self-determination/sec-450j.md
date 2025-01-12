@@ -178,11 +178,11 @@ as based on the cost of comparable private rental housing in the nearest establi
 
 #### (1) In general ####
 
-At the option of an Indian tribe or tribal organization, patient records may be deemed to be Federal records under those provisions of title 44 that are commonly referred to as the “Federal Records Act of 1950” for the limited purposes of making such records eligible for storage by Federal Records Centers to the same extent and in the same manner as other Department of Health and Human Services patient records.
+At the option of an Indian tribe or tribal organization, patient records may be deemed to be Federal records under those provisions of title 44 that are commonly referred to as the "Federal Records Act of 1950" for the limited purposes of making such records eligible for storage by Federal Records Centers to the same extent and in the same manner as other Department of Health and Human Services patient records.
 
 #### (2) Treatment of records ####
 
-Patient records that are deemed to be Federal records under those provisions of title 44 that are commonly referred to as the “Federal Records Act of 1950” pursuant to this subsection shall not be considered Federal records for the purposes of chapter 5 of title 5.
+Patient records that are deemed to be Federal records under those provisions of title 44 that are commonly referred to as the "Federal Records Act of 1950" pursuant to this subsection shall not be considered Federal records for the purposes of chapter 5 of title 5.
 
 (Pub. L. 93–638, title I, §105, formerly §106, Jan. 4, 1975, 88 Stat. 2210; renumbered §105 and amended Pub. L. 100–472, title II, §204, Oct. 5, 1988, 102 Stat. 2291; Pub. L. 101–301, §2(a)(7), May 24, 1990, 104 Stat. 207; Pub. L. 101–644, title II, §203(c)–(e), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §§102(10)–(13), 106, Oct. 25, 1994, 108 Stat. 4253–4255, 4270; Pub. L. 104–109, §7, Feb. 12, 1996, 110 Stat. 764; Pub. L. 106–260, §§7, 8, Aug. 18, 2000, 114 Stat. 732, 733.)
 
@@ -192,33 +192,33 @@ Section 9(c) of the Act of Aug. 2, 1946, referred to in subsec. (a)(3)(C)(ii)(II
 
 The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
-Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No. 12138, May 18, 1979, 44 F.R. 29637, which is set out as a note under section 631 of Title 15, Commerce and Trade, Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, which is set out as a note under section 2000e of Title 42, The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a note under section 4212 of Title 38, Veterans’ Benefits, and Ex. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, which is set out as a note under section 701 of Title 29, Labor.
+Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No. 12138, May 18, 1979, 44 F.R. 29637, which is set out as a note under section 631 of Title 15, Commerce and Trade, Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, which is set out as a note under section 2000e of Title 42, The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a note under section 4212 of Title 38, Veterans' Benefits, and Ex. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, which is set out as a note under section 701 of Title 29, Labor.
 
-This part, referred to in subsecs. (b) and (i)(2), was in the original “this title”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to this part (450f et seq.). For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables.
+This part, referred to in subsecs. (b) and (i)(2), was in the original "this title", meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to this part (450f et seq.). For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 Section 314 of the Department of the Interior and Related Agencies Appropriations Act, 1991, referred to in subsec. (m)(1)(B), is section 314 of Pub. L. 101–512, which is set out as a note under section 450f of this title.
 
-Subsections (a)(2) and (b) of section 450f of this title, referred to in subsec. (m)(4)(C)(v), was in the original “sections 102(a)(2) and 102(b) of section 102”, and was translated as reading “subsections (a)(2) and (b) of section 102”, meaning section 102 of Pub. L. 93–638, to reflect the probable intent of Congress.
+Subsections (a)(2) and (b) of section 450f of this title, referred to in subsec. (m)(4)(C)(v), was in the original "sections 102(a)(2) and 102(b) of section 102", and was translated as reading "subsections (a)(2) and (b) of section 102", meaning section 102 of Pub. L. 93–638, to reflect the probable intent of Congress.
 
 The Federal Records Act of 1950, referred to in subsec. (o), was title V of act June 30, 1949, ch. 288, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which was classified generally to sections 392 to 396 and 397 to 401 of former Title 44, Public Printing and Documents. Section 6(d) of act Sept. 5, 1950, was repealed by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238, the first section of which enacted Title 44, Public Printing and Documents. For disposition of sections of former Title 44, see Table at the beginning of Title 44. Title V of act June 30, 1949, was repealed by Pub. L. 107–217, §4, Aug. 21, 2002, 116 Stat. 1303.
 
 #### Codification ####
 
-In subsec. (a)(3)(A), “division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41” substituted for “the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)” and for “such Act” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(3)(A), "division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of title 41" substituted for "the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)" and for "such Act" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(3)(C)(ii)(I), “Chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “The Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(3)(C)(ii)(I), "Chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "The Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(3)(C)(ii)(II), “Section 6101 of title 41” substituted for “Section 3709 of the Revised Statutes” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(3)(C)(ii)(II), "Section 6101 of title 41" substituted for "Section 3709 of the Revised Statutes" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(3)(C)(ii)(IV), “Division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “Title III of the Federal Property and Administrative Services Act of 1949 (63 Stat. 393 et seq., chapter 288)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(3)(C)(ii)(IV), "Division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "Title III of the Federal Property and Administrative Services Act of 1949 (63 Stat. 393 et seq., chapter 288)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(3)(C)(ii)(VII), “Section 3145 of title 40” substituted for “Section 2 of the Act of June 13, 1934 (48 Stat 948, chapter 483 [482])” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (a)(3)(C)(ii)(VII), "Section 3145 of title 40" substituted for "Section 2 of the Act of June 13, 1934 (48 Stat 948, chapter 483 [482])" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works.
 
-In subsec. (a)(3)(C)(ii)(VIII), “Chapter 65 of title 41” substituted for “Sections 1 through 12 of the Act of June 30, 1936 (49 Stat. 2036 et seq. chapter 881)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(3)(C)(ii)(VIII), "Chapter 65 of title 41" substituted for "Sections 1 through 12 of the Act of June 30, 1936 (49 Stat. 2036 et seq. chapter 881)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(3)(C)(ii)(IX), “Chapter 67 of title 41” substituted for “The Service Control [Contract] Act of 1965 (41 U.S.C. 351 et seq.)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(3)(C)(ii)(IX), "Chapter 67 of title 41" substituted for "The Service Control [Contract] Act of 1965 (41 U.S.C. 351 et seq.)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (k), “section 501 of title 40” substituted for “section 201(a) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(a))” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (k), "section 501 of title 40" substituted for "section 201(a) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(a))" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions ####
 
@@ -226,39 +226,39 @@ A prior section 105 of Pub. L. 93–638 was renumbered section 104 by Pub. L. 10
 
 #### Amendments ####
 
-**2000**—Subsec. (k). Pub. L. 106–260, §7, substituted “deemed an executive agency and part of the Indian Health Service” for “deemed an executive agency” and inserted at end “For purposes of carrying out such contract, grant, or agreement, the Secretary shall, at the request of an Indian tribe, enter into an agreement for the acquisition, on behalf of the Indian tribe, of any goods, services, or supplies available to the Secretary from the General Services Administration or other Federal agencies that are not directly available to the Indian tribe under this section or under any other Federal law, including acquisitions from prime vendors. All such acquisitions shall be undertaken through the most efficient and speedy means practicable, including electronic ordering arrangements.”
+**2000**—Subsec. (k). Pub. L. 106–260, §7, substituted "deemed an executive agency and part of the Indian Health Service" for "deemed an executive agency" and inserted at end "For purposes of carrying out such contract, grant, or agreement, the Secretary shall, at the request of an Indian tribe, enter into an agreement for the acquisition, on behalf of the Indian tribe, of any goods, services, or supplies available to the Secretary from the General Services Administration or other Federal agencies that are not directly available to the Indian tribe under this section or under any other Federal law, including acquisitions from prime vendors. All such acquisitions shall be undertaken through the most efficient and speedy means practicable, including electronic ordering arrangements."
 
 Subsec. (o). Pub. L. 106–260, §8, added subsec. (o).
 
 **1996**—Subsec. (e). Pub. L. 104–109 made technical amendment to directory language of Pub. L. 103–413, §102(11). See 1994 Amendment note below.
 
-**1994**—Subsec. (a). Pub. L. 103–413, §102(10), added subsec. (a) and struck out former subsec. (a) which read as follows: “Contracts with tribal organizations pursuant to section 450f of this title shall be in accordance with all Federal contracting laws and regulations except that, in the discretion of the appropriate Secretary, such contracts may be negotiated without advertising and need not conform with the provisions of sections 270a to 270d of title 40: *Provided*, That the appropriate Secretary may waive any provisions of such contracting laws or regulations which he determines are not appropriate for the purposes of the contract involved or inconsistent with the provisions of this Act: *Provided further*, That, except for construction contracts (or sub-contracts of such a construction contract), the Office of Federal Procurement Policy Act (88 Stat. 796; 41 U.S.C. 401 et seq.) and Federal acquisition regulations promulgated thereunder shall not apply to self-determination contracts.”
+**1994**—Subsec. (a). Pub. L. 103–413, §102(10), added subsec. (a) and struck out former subsec. (a) which read as follows: "Contracts with tribal organizations pursuant to section 450f of this title shall be in accordance with all Federal contracting laws and regulations except that, in the discretion of the appropriate Secretary, such contracts may be negotiated without advertising and need not conform with the provisions of sections 270a to 270d of title 40: *Provided*, That the appropriate Secretary may waive any provisions of such contracting laws or regulations which he determines are not appropriate for the purposes of the contract involved or inconsistent with the provisions of this Act: *Provided further*, That, except for construction contracts (or sub-contracts of such a construction contract), the Office of Federal Procurement Policy Act (88 Stat. 796; 41 U.S.C. 401 et seq.) and Federal acquisition regulations promulgated thereunder shall not apply to self-determination contracts."
 
-Subsec. (e). Pub. L. 103–413, §102(11), as amended by Pub. L. 104–109, added subsec. (e) and struck out former subsec. (e) which read as follows: “Whenever an Indian tribe requests retrocession of the appropriate Secretary for any contract entered into pursuant to this Act, such retrocession shall become effective one year from the date of the request by the Indian tribe or at such date as may be mutually agreed by the Secretary and the Indian tribe.”
+Subsec. (e). Pub. L. 103–413, §102(11), as amended by Pub. L. 104–109, added subsec. (e) and struck out former subsec. (e) which read as follows: "Whenever an Indian tribe requests retrocession of the appropriate Secretary for any contract entered into pursuant to this Act, such retrocession shall become effective one year from the date of the request by the Indian tribe or at such date as may be mutually agreed by the Secretary and the Indian tribe."
 
-Subsec. (f)(2). Pub. L. 103–413, §102(12), added par. (2) and struck out former par. (2) which read as follows: “donate to an Indian tribe or tribal organization the title to any personal or real property found to be excess to the needs of the Bureau of Indian Affairs, the Indian Health Service, or the General Services Administration, including property and equipment purchased with funds under any self-determination contract or grant agreement; and”.
+Subsec. (f)(2). Pub. L. 103–413, §102(12), added par. (2) and struck out former par. (2) which read as follows: "donate to an Indian tribe or tribal organization the title to any personal or real property found to be excess to the needs of the Bureau of Indian Affairs, the Indian Health Service, or the General Services Administration, including property and equipment purchased with funds under any self-determination contract or grant agreement; and".
 
-Subsec. (h). Pub. L. 103–413, §106, struck out “and the rules and regulations adopted by the Secretaries of the Interior and Health and Human Services pursuant to section 450k of this title” after “sections 450f and 450h of this title”.
+Subsec. (h). Pub. L. 103–413, §106, struck out "and the rules and regulations adopted by the Secretaries of the Interior and Health and Human Services pursuant to section 450k of this title" after "sections 450f and 450h of this title".
 
 Subsecs. (i) to (n). Pub. L. 103–413, §102(13), added subsecs. (i) to (n).
 
-**1990**—Subsec. (a). Pub. L. 101–301 substituted “sub-contracts of such a construction contract” for “sub-contracts in such cases where the tribal contractor has sub-contracted the activity”.
+**1990**—Subsec. (a). Pub. L. 101–301 substituted "sub-contracts of such a construction contract" for "sub-contracts in such cases where the tribal contractor has sub-contracted the activity".
 
-Subsec. (c)(1)(B). Pub. L. 101–644, §203(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “for an indefinite term in the case of a mature contract.”
+Subsec. (c)(1)(B). Pub. L. 101–644, §203(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "for an indefinite term in the case of a mature contract."
 
 Subsec. (d). Pub. L. 101–644, §203(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
-“(1) No later than fiscal year 1990, the Secretary shall begin using the calendar year as the basis for contracts and agreements under this Act except for instances where the Secretary and the Indian tribe or tribal organization agree on a different period.
+"(1) No later than fiscal year 1990, the Secretary shall begin using the calendar year as the basis for contracts and agreements under this Act except for instances where the Secretary and the Indian tribe or tribal organization agree on a different period.
 
-“(2) The Secretary shall submit a report to the Congress within ninety days of October 5, 1988, on the amounts of any additional obligational authority needed to implement this subsection in fiscal year 1989.”
+"(2) The Secretary shall submit a report to the Congress within ninety days of October 5, 1988, on the amounts of any additional obligational authority needed to implement this subsection in fiscal year 1989."
 
-Subsec. (f)(2), (3). Pub. L. 101–644, §203(e), inserted “or real” after “personal”.
+Subsec. (f)(2), (3). Pub. L. 101–644, §203(e), inserted "or real" after "personal".
 
-**1988**—Subsec. (a). Pub. L. 100–472, §204(b), (c), substituted “section 450f” for “sections 450f and 450g” and inserted proviso relating to nonapplication of Office of Federal Procurement Policy Act to self-determination contracts.
+**1988**—Subsec. (a). Pub. L. 100–472, §204(b), (c), substituted "section 450f" for "sections 450f and 450g" and inserted proviso relating to nonapplication of Office of Federal Procurement Policy Act to self-determination contracts.
 
-Subsec. (b). Pub. L. 100–472, §204(d), which directed the amendment of subsec. (b) by substituting “sections 450f and 450h” for “sections 450f, 450g, and 450h” was executed by substituting the new language for “section 450f, 450g, or 450h” as the probable intent of Congress.
+Subsec. (b). Pub. L. 100–472, §204(d), which directed the amendment of subsec. (b) by substituting "sections 450f and 450h" for "sections 450f, 450g, and 450h" was executed by substituting the new language for "section 450f, 450g, or 450h" as the probable intent of Congress.
 
-Subsec. (c). Pub. L. 100–472, §204(e), added subsec. (c) and struck out former subsec. (c) which read as follows: “Any contract requested by a tribe pursuant to sections 450f and 450g of this title shall be for a term not to exceed one year unless the appropriate Secretary determines that a longer term would be advisable: *Provided*, That such term may not exceed three years and shall be subject to the availability of appropriations: *Provided, further*, That the amounts of such contracts may be renegotiated annually to reflect factors, including but not limited to cost increases beyond the control of a tribal organization.”
+Subsec. (c). Pub. L. 100–472, §204(e), added subsec. (c) and struck out former subsec. (c) which read as follows: "Any contract requested by a tribe pursuant to sections 450f and 450g of this title shall be for a term not to exceed one year unless the appropriate Secretary determines that a longer term would be advisable: *Provided*, That such term may not exceed three years and shall be subject to the availability of appropriations: *Provided, further*, That the amounts of such contracts may be renegotiated annually to reflect factors, including but not limited to cost increases beyond the control of a tribal organization."
 
 Subsec. (d). Pub. L. 100–472, §204(e), added subsec. (d) and struck out former subsec. (d) which related to revision or amendment of contracts or grants at request or with consent of tribal organization and effective date for retrocession of contracts.
 
@@ -266,14 +266,14 @@ Subsec. (e). Pub. L. 100–472, §204(e), added subsec. (e) and struck out forme
 
 Subsec. (f). Pub. L. 100–472, §204(e), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 100–472, §204(f), redesignated former subsec. (f) as (g) and substituted “section 450f” for “sections 450f and 450g”. Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 100–472, §204(f), redesignated former subsec. (f) as (g) and substituted "section 450f" for "sections 450f and 450g". Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 100–472, §204(g), (h), redesignated former subsec. (g) as (h), substituted “sections 450f and 450h” for “sections 450f, 450g, and 450h”, and “Health and Human Services” for “Health, Education, and Welfare”. Former subsec. (h), which related to minimum amount of funds under terms of contracts, was struck out.
+Subsec. (h). Pub. L. 100–472, §204(g), (h), redesignated former subsec. (g) as (h), substituted "sections 450f and 450h" for "sections 450f, 450g, and 450h", and "Health and Human Services" for "Health, Education, and Welfare". Former subsec. (h), which related to minimum amount of funds under terms of contracts, was struck out.
 
 #### Continued Availability of Certain Funds ####
 
-Pub. L. 105–277, div. A, §101(e) [title I], Oct. 21, 1998, 105 Stat. 2681–231, 2681–246, provided in part that: “hereafter funds made available to tribes and tribal organizations through contracts, compact agreements, or grants, as authorized by the Indian Self-Determination Act of 1975 [25 U.S.C. 450f et seq.] or grants authorized by the Indian Education Amendments of 1988 (25 U.S.C. 2001 and 2008A [probably means prior versions of 25 U.S.C. 2001 and 2008a]) shall remain available until expended by the contractor or grantee”.
+Pub. L. 105–277, div. A, §101(e) [title I], Oct. 21, 1998, 105 Stat. 2681–231, 2681–246, provided in part that: "hereafter funds made available to tribes and tribal organizations through contracts, compact agreements, or grants, as authorized by the Indian Self-Determination Act of 1975 [25 U.S.C. 450f et seq.] or grants authorized by the Indian Education Amendments of 1988 (25 U.S.C. 2001 and 2008A [probably means prior versions of 25 U.S.C. 2001 and 2008a]) shall remain available until expended by the contractor or grantee".
 
-[<sup>1</sup> So in original. Probably should be “provisions”.](#450j_1)
+[<sup>1</sup> So in original. Probably should be "provisions".](#450j_1)
 
 [<sup>2</sup> See References in Text note below.](#450j_2)

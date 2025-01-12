@@ -14,7 +14,7 @@ a tax determined under tables, applicable to such taxable year, which shall be p
 
 #### (2) Ceiling amount defined ####
 
-For purposes of paragraph (1), the term “ceiling amount” means, with respect to any taxpayer, the amount (not less than $20,000) determined by the Secretary for the tax rate category in which such taxpayer falls.
+For purposes of paragraph (1), the term "ceiling amount" means, with respect to any taxpayer, the amount (not less than $20,000) determined by the Secretary for the tax rate category in which such taxpayer falls.
 
 #### (3) Authority to prescribe tables for taxpayers who itemize deductions ####
 
@@ -46,47 +46,47 @@ Whenever it is necessary to determine the taxable income of an individual to who
 
 **1986**—Subsec. (a). Pub. L. 99–514, §102(b), substituted subsec. (a) for former subsec. (a) which read as follows:
 
-“(1) In general.—In lieu of the tax imposed by section 1, there is hereby imposed for each taxable year on the tax table income of every individual whose tax table income for such year does not exceed the ceiling amount, a tax determined under tables, applicable to such taxable year, which shall be prescribed by the Secretary and which shall be in such form as he determines appropriate. In the tables so prescribed, the amounts of tax shall be computed on the basis of the rates prescribed by section 1.
+"(1) In general.—In lieu of the tax imposed by section 1, there is hereby imposed for each taxable year on the tax table income of every individual whose tax table income for such year does not exceed the ceiling amount, a tax determined under tables, applicable to such taxable year, which shall be prescribed by the Secretary and which shall be in such form as he determines appropriate. In the tables so prescribed, the amounts of tax shall be computed on the basis of the rates prescribed by section 1.
 
-“(2) Ceiling amount defined.—For purposes of paragraph (1), the term “ceiling amount” means, with respect to any taxpayer, the amount (not less than $20,000) determined by the Secretary for the tax rate category in which such taxpayer falls.
+"(2) Ceiling amount defined.—For purposes of paragraph (1), the term "ceiling amount" means, with respect to any taxpayer, the amount (not less than $20,000) determined by the Secretary for the tax rate category in which such taxpayer falls.
 
-“(3) Certain taxpayers with large number of exemptions.—The Secretary may exclude from the application of this section taxpayers in any tax rate category having more than the number of exemptions for that category determined by the Secretary.
+"(3) Certain taxpayers with large number of exemptions.—The Secretary may exclude from the application of this section taxpayers in any tax rate category having more than the number of exemptions for that category determined by the Secretary.
 
-“(4) Tax table income defined.—For purposes of this section, the term ‘tax table income’ means adjusted gross income—
+"(4) Tax table income defined.—For purposes of this section, the term 'tax table income' means adjusted gross income—
 
-“(A) reduced by the sum of—
+"(A) reduced by the sum of—
 
-“(i) the excess itemized deductions, and
+"(i) the excess itemized deductions, and
 
-“(ii) the direct charitable deduction, and
+"(ii) the direct charitable deduction, and
 
-“(B) increased (in the case of an individual to whom section 63(e) applies) by the unused zero bracket amount.
+"(B) increased (in the case of an individual to whom section 63(e) applies) by the unused zero bracket amount.
 
-“(5) Section may be applied on the basis of taxable income.—The Secretary may provide that this section shall be applied for any taxable year on the basis of taxable income in lieu of tax table income.”
+"(5) Section may be applied on the basis of taxable income.—The Secretary may provide that this section shall be applied for any taxable year on the basis of taxable income in lieu of tax table income."
 
-Subsec. (b). Pub. L. 99–514, §141(b)(1), struck out par. (1) which read: “an individual to whom section 1301 (relating to income averaging) applies for the taxable year,” and redesignated pars. (2) and (3) as (1) and (2), respectively.
+Subsec. (b). Pub. L. 99–514, §141(b)(1), struck out par. (1) which read: "an individual to whom section 1301 (relating to income averaging) applies for the taxable year," and redesignated pars. (2) and (3) as (1) and (2), respectively.
 
-**1981**—Subsec. (a)(1). Pub. L. 97–34, §101(b)(2)(B), inserted “and which shall be in such form as he determines appropriate” after “Secretary”.
+**1981**—Subsec. (a)(1). Pub. L. 97–34, §101(b)(2)(B), inserted "and which shall be in such form as he determines appropriate" after "Secretary".
 
-Subsec. (a)(4)(A). Pub. L. 97–34, §121(c)(3), substituted “reduced by the sum of (i) the excess itemized deductions, and (ii) the direct charitable deduction” for “reduced by the excess itemized deductions”.
+Subsec. (a)(4)(A). Pub. L. 97–34, §121(c)(3), substituted "reduced by the sum of (i) the excess itemized deductions, and (ii) the direct charitable deduction" for "reduced by the excess itemized deductions".
 
 Subsec. (a)(5). Pub. L. 97–34, §101(b)(2)(C), added par. (5).
 
-Subsec. (b)(1). Pub. L. 97–34, §101(c)(2)(A), substituted “an individual to whom section 1301 (relating to income averaging) applies for the taxable year” for “an individual to whom (A) section 1301 (relating to income averaging), or (B) section 1348 (relating to maximum rate on personal service income), applies for the taxable year”.
+Subsec. (b)(1). Pub. L. 97–34, §101(c)(2)(A), substituted "an individual to whom section 1301 (relating to income averaging) applies for the taxable year" for "an individual to whom (A) section 1301 (relating to income averaging), or (B) section 1348 (relating to maximum rate on personal service income), applies for the taxable year".
 
 **1980**—Subsec. (b)(1). Pub. L. 96–222 redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which made reference to section 911 (relating to earned income from sources without the United States).
 
 **1978**—Subsec. (b)(1). Pub. L. 95–600 struck out subpar. (B) which related to the alternative capital gains tax under section 1201 of this title, and redesignated subpars. (C) and (D) as (B) and (C), respectively.
 
-**1977**—Pub. L. 95–30 struck out “having taxable income of less than $20,000” after “individuals” in section catchline.
+**1977**—Pub. L. 95–30 struck out "having taxable income of less than $20,000" after "individuals" in section catchline.
 
-Subsec. (a). Pub. L. 95–30 designated existing provisions as par. (1), substituted “tax table income” for “taxable income” and “does not exceed the ceiling amount” for “does not exceed $20,000”, and added pars. (2) to (4).
+Subsec. (a). Pub. L. 95–30 designated existing provisions as par. (1), substituted "tax table income" for "taxable income" and "does not exceed the ceiling amount" for "does not exceed $20,000", and added pars. (2) to (4).
 
 Subsecs. (b) to (e). Pub. L. 95–30 added subsec. (b), redesignated former subsec. (b) as (c), and added subsecs. (d) and (e).
 
-**1976**—Pub. L. 94–455 designated existing provisions as subsec. (a), substituted provision relating to taxable income for such year does not exceed $20,000 for provision relating to adjusted gross income for such year is less than $15,000 and who has elected for such year to pay the tax imposed by this section, struck out “or his delegate” after “Secretary”, “beginning after Dec. 31, 1969” after “each taxable year”, struck out provision requiring computation of taxable income by using standard deduction, and added subsec. (b).
+**1976**—Pub. L. 94–455 designated existing provisions as subsec. (a), substituted provision relating to taxable income for such year does not exceed $20,000 for provision relating to adjusted gross income for such year is less than $15,000 and who has elected for such year to pay the tax imposed by this section, struck out "or his delegate" after "Secretary", "beginning after Dec. 31, 1969" after "each taxable year", struck out provision requiring computation of taxable income by using standard deduction, and added subsec. (b).
 
-**1975**—Pub. L. 94–12 substituted “$15,000” for “$10,000”.
+**1975**—Pub. L. 94–12 substituted "$15,000" for "$10,000".
 
 **1969**—Pub. L. 91–172 raised the individual gross income limit of $5,000 to $10,000 for exercising the option and substituted provision that the tax has to be determined under tables to be prescribed by the Secretary or his delegate for tables of tax rates for single persons, heads of household, married persons filing joint returns, married persons filing separate returns with 10 per cent standard deduction and married persons filing separate returns with minimum standard deduction.
 
@@ -106,9 +106,9 @@ Amendment by section 121(c)(3) of Pub. L. 97–34 applicable to contributions ma
 
 Pub. L. 96–222, title I, §108(a)(2), Apr. 1, 1980, 94 Stat. 225, provided that:
 
-“(A) In general.—Except as provided in subparagraph (B), the amendments made by paragraph (1) [amending this section and sections 119, 911, and 913 of this title] shall take effect as if included in the Foreign Earned Income Act of 1978 [Pub. L. 95–615].
+"(A) In general.—Except as provided in subparagraph (B), the amendments made by paragraph (1) [amending this section and sections 119, 911, and 913 of this title] shall take effect as if included in the Foreign Earned Income Act of 1978 [Pub. L. 95–615].
 
-“(B) Paragraph (1)(E).—The amendment made by paragraph (1)(E) [amending this section] shall apply to taxable years beginning after December 31, 1978.”
+"(B) Paragraph (1)(E).—The amendment made by paragraph (1)(E) [amending this section] shall apply to taxable years beginning after December 31, 1978."
 
 #### Effective Date of 1978 Amendment ####
 
@@ -120,11 +120,11 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1976 Amendment ####
 
-Pub. L. 94–455, title V, §508, Oct. 4, 1976, 90 Stat. 1569, provided that: “Except as otherwise provided, the amendments made by this title [enacting section 44A, amending this section and sections 36, 37, 41, 42, 46, 50A, 104, 144, 213, 217, 904, 1211, 1304, 3402, 6014, and 6096, enacting provisions set out as notes under sections 105, 8022, and repealing sections 4 and 214 of this title] shall apply to taxable years beginning after December 31, 1975.”
+Pub. L. 94–455, title V, §508, Oct. 4, 1976, 90 Stat. 1569, provided that: "Except as otherwise provided, the amendments made by this title [enacting section 44A, amending this section and sections 36, 37, 41, 42, 46, 50A, 104, 144, 213, 217, 904, 1211, 1304, 3402, 6014, and 6096, enacting provisions set out as notes under sections 105, 8022, and repealing sections 4 and 214 of this title] shall apply to taxable years beginning after December 31, 1975."
 
 #### Effective and Termination Dates of 1975 Amendment ####
 
-Pub. L. 94–12, title II, §209(a), Mar. 29, 1975, 89 Stat. 35, as amended by Pub. L. 94–164, §2(e), Dec. 23, 1975, 89 Stat. 972, provided that: “The amendments made by sections 201, 202(a), and 203 [enacting section 42 of this title and amending this section and sections 56, 141, 6012, and 6096 of this title] shall apply to taxable years ending after December 31, 1974. The amendments made by sections 201(a) and 202(a) [amending section 141 of this title] shall cease to apply to taxable years ending after December 31, 1975; those made by sections 201(b), 201(c), and 203 [enacting section 42 of this title and amending this section and sections 56, 6012, and 6096 of this title] shall cease to apply to taxable years ending after December 31, 1976.”
+Pub. L. 94–12, title II, §209(a), Mar. 29, 1975, 89 Stat. 35, as amended by Pub. L. 94–164, §2(e), Dec. 23, 1975, 89 Stat. 972, provided that: "The amendments made by sections 201, 202(a), and 203 [enacting section 42 of this title and amending this section and sections 56, 141, 6012, and 6096 of this title] shall apply to taxable years ending after December 31, 1974. The amendments made by sections 201(a) and 202(a) [amending section 141 of this title] shall cease to apply to taxable years ending after December 31, 1975; those made by sections 201(b), 201(c), and 203 [enacting section 42 of this title and amending this section and sections 56, 6012, and 6096 of this title] shall cease to apply to taxable years ending after December 31, 1976."
 
 #### Effective Date of 1969 Amendment ####
 
@@ -132,4 +132,4 @@ Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1964 Amendment ####
 
-Pub. L. 88–272, title III, §301(c), Feb. 26, 1964, 78 Stat. 140, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except for purposes of section 21 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to effect of changes in rates during a taxable year), the amendments made by this section [amending this section and sections 4 and 6014 of this title] shall apply to taxable years beginning after December 31, 1963.”
+Pub. L. 88–272, title III, §301(c), Feb. 26, 1964, 78 Stat. 140, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Except for purposes of section 21 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to effect of changes in rates during a taxable year), the amendments made by this section [amending this section and sections 4 and 6014 of this title] shall apply to taxable years beginning after December 31, 1963."

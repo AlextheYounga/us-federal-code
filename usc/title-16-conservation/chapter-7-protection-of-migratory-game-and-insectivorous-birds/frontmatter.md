@@ -58,7 +58,7 @@ Sec.
 
 715i. Administration.
 
-715j. “Migratory birds” defined.
+715j. "Migratory birds" defined.
 
 715k. Authorization of appropriations for purposes of subchapter; disposal; reservation protectors.
 
@@ -74,7 +74,7 @@ Sec.
 
 715l, 715m. Repealed.
 
-715n. “Take” defined.
+715n. "Take" defined.
 
 715 o. National forest and power sites; use for migratory bird reservations.
 

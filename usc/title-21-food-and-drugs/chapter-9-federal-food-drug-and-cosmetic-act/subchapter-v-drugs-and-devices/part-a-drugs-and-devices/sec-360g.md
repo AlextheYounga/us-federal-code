@@ -22,7 +22,7 @@ Not later than thirty days after—
 
 (9) a regulation under section 360e(i)(2) or 360j(l)(5)(B) of this title,
 
-any person adversely affected by such regulation or order may file a petition with the United States Court of Appeals for the District of Columbia or for the circuit wherein such person resides or has his principal place of business for judicial review of such regulation or order. A copy of the petition shall be transmitted by the clerk of the court to the Secretary or other officer designated by him for that purpose. The Secretary shall file in the court the record of the proceedings on which the Secretary based his regulation or order as provided in section 2112 of title 28. For purposes of this section, the term “record” means all notices and other matter published in the Federal Register with respect to the regulation or order reviewed, all information submitted to the Secretary with respect to such regulation or order, proceedings of any panel or advisory committee with respect to such regulation or order, any hearing held with respect to such regulation or order, and any other information identified by the Secretary, in the administrative proceeding held with respect to such regulation or order, as being relevant to such regulation or order.
+any person adversely affected by such regulation or order may file a petition with the United States Court of Appeals for the District of Columbia or for the circuit wherein such person resides or has his principal place of business for judicial review of such regulation or order. A copy of the petition shall be transmitted by the clerk of the court to the Secretary or other officer designated by him for that purpose. The Secretary shall file in the court the record of the proceedings on which the Secretary based his regulation or order as provided in section 2112 of title 28. For purposes of this section, the term "record" means all notices and other matter published in the Federal Register with respect to the regulation or order reviewed, all information submitted to the Secretary with respect to such regulation or order, proceedings of any panel or advisory committee with respect to such regulation or order, any hearing held with respect to such regulation or order, and any other information identified by the Secretary, in the administrative proceeding held with respect to such regulation or order, as being relevant to such regulation or order.
 
 #### (b) Additional data, views, and arguments ####
 
@@ -48,15 +48,15 @@ To facilitate judicial review under this section or under any other provision of
 
 #### Amendments ####
 
-**2012**—Subsec. (a)(1). Pub. L. 112–144 substituted “, an administrative order changing the classification of a device to class I,” for “or changing the classification of a device to class I”.
+**2012**—Subsec. (a)(1). Pub. L. 112–144 substituted ", an administrative order changing the classification of a device to class I," for "or changing the classification of a device to class I".
 
-**1997**—Subsec. (a)(8). Pub. L. 105–115, §216(a)(2)(A), inserted “or” at end.
+**1997**—Subsec. (a)(8). Pub. L. 105–115, §216(a)(2)(A), inserted "or" at end.
 
-Subsec. (a)(9). Pub. L. 105–115, §216(a)(2)(B), substituted comma for “, or” at end.
+Subsec. (a)(9). Pub. L. 105–115, §216(a)(2)(B), substituted comma for ", or" at end.
 
-Subsec. (a)(10). Pub. L. 105–115, §216(a)(2)(C), struck out par. (10) which read as follows: “an order under section 360j(h)(4)(B) of this title,”.
+Subsec. (a)(10). Pub. L. 105–115, §216(a)(2)(C), struck out par. (10) which read as follows: "an order under section 360j(h)(4)(B) of this title,".
 
-**1992**—Subsec. (a)(10). Pub. L. 102–300 substituted “360j(h)(4)(B)” for “360j(c)(4)(B)”.
+**1992**—Subsec. (a)(10). Pub. L. 102–300 substituted "360j(h)(4)(B)" for "360j(c)(4)(B)".
 
 **1990**—Subsec. (a)(8) to (10). Pub. L. 101–629 added pars. (8) to (10).
 

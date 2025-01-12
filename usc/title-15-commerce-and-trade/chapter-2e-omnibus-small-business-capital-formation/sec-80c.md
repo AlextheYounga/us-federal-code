@@ -12,8 +12,8 @@ The Commission shall make the results of such studies available to the Small Bus
 
 #### Effective Date ####
 
-Pub. L. 96–477, title V, §507, Oct. 21, 1980, 94 Stat. 2294, provided that: “Except as otherwise specified, the amendments made by this title [enacting this chapter and amending section 77s of this title] shall become effective January 1 of the year following the date of enactment of this Act [Oct. 21, 1980].”
+Pub. L. 96–477, title V, §507, Oct. 21, 1980, 94 Stat. 2294, provided that: "Except as otherwise specified, the amendments made by this title [enacting this chapter and amending section 77s of this title] shall become effective January 1 of the year following the date of enactment of this Act [Oct. 21, 1980]."
 
 #### Short Title ####
 
-Pub. L. 96–477, title V, §501, Oct. 21, 1980, 94 Stat. 2291, provided that: “This title [enacting this chapter and amending section 77s of this title] may be cited as the ‘Omnibus Small Business Capital Formation Act of 1980’.”
+Pub. L. 96–477, title V, §501, Oct. 21, 1980, 94 Stat. 2291, provided that: "This title [enacting this chapter and amending section 77s of this title] may be cited as the 'Omnibus Small Business Capital Formation Act of 1980'."

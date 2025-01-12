@@ -6,4 +6,4 @@ In conducting and preparing the report referred to in section 1a–9 of this tit
 
 #### References in Text ####
 
-Section 1a–9 of this title, referred to in text, was in the original “section 1”, and was translated as reading “section 1213”, meaning section 1213 of Pub. L. 101–628, title XII, Nov. 28, 1990, 104 Stat. 4507, which enacted section 1a–9 relating to submission of reports, as the probable intent of Congress.
+Section 1a–9 of this title, referred to in text, was in the original "section 1", and was translated as reading "section 1213", meaning section 1213 of Pub. L. 101–628, title XII, Nov. 28, 1990, 104 Stat. 4507, which enacted section 1a–9 relating to submission of reports, as the probable intent of Congress.

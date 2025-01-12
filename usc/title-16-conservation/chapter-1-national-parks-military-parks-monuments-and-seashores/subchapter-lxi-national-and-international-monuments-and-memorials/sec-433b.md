@@ -6,7 +6,7 @@ The administration, protection and development of the aforesaid peace memorial s
 
 #### Change of Name ####
 
-“Peace memorial” substituted in text for “national monument” to conform to redesignation of Perry's Victory and International Peace Memorial National Monument as Perry's Victory and International Peace Memorial provided in section 1 of Pub. L. 92–568, classified to section 433f–1 of this title.
+"Peace memorial" substituted in text for "national monument" to conform to redesignation of Perry's Victory and International Peace Memorial National Monument as Perry's Victory and International Peace Memorial provided in section 1 of Pub. L. 92–568, classified to section 433f–1 of this title.
 
 #### Transfer of Functions ####
 

@@ -14,7 +14,7 @@ The incentive payment for a State for a fiscal year is equal to the incentive pa
 
 #### (A) In general ####
 
-In paragraph (1), the term “incentive payment pool” means—
+In paragraph (1), the term "incentive payment pool" means—
 
 (i) $422,000,000 for fiscal year 2000;
 
@@ -38,11 +38,11 @@ In paragraph (1), the term “incentive payment pool” means—
 
 #### (B) CPI ####
 
-For purposes of subparagraph (A), the CPI for a fiscal year is the average of the Consumer Price Index for the 12-month period ending on September 30 of the fiscal year. As used in the preceding sentence, the term “Consumer Price Index” means the last Consumer Price Index for all-urban consumers published by the Department of Labor.
+For purposes of subparagraph (A), the CPI for a fiscal year is the average of the Consumer Price Index for the 12-month period ending on September 30 of the fiscal year. As used in the preceding sentence, the term "Consumer Price Index" means the last Consumer Price Index for all-urban consumers published by the Department of Labor.
 
 #### (3) State incentive payment share ####
 
-In paragraph (1), the term “State incentive payment share” means, with respect to a fiscal year—
+In paragraph (1), the term "State incentive payment share" means, with respect to a fiscal year—
 
 (A) the incentive base amount for the State for the fiscal year; divided by
 
@@ -50,7 +50,7 @@ In paragraph (1), the term “State incentive payment share” means, with respe
 
 #### (4) Incentive base amount ####
 
-In paragraph (3), the term “incentive base amount” means, with respect to a State and a fiscal year, the sum of the applicable percentages (determined in accordance with paragraph (6)) multiplied by the corresponding maximum incentive base amounts for the State for the fiscal year, with respect to each of the following measures of State performance for the fiscal year:
+In paragraph (3), the term "incentive base amount" means, with respect to a State and a fiscal year, the sum of the applicable percentages (determined in accordance with paragraph (6)) multiplied by the corresponding maximum incentive base amounts for the State for the fiscal year, with respect to each of the following measures of State performance for the fiscal year:
 
 (A) The paternity establishment performance level.
 
@@ -348,11 +348,11 @@ A State to which a payment is made under this section shall expend the full amou
 
 #### Effective Date ####
 
-Pub. L. 105–200, title II, §201(g), July 16, 1998, 112 Stat. 658, provided that: “Except as otherwise provided in this section [enacting this section, amending this section and sections 652, 655, and 658 of this title, repealing section 658 of this title, enacting provisions set out as notes under this section and sections 652 and 655 of this title, amending provisions set out as notes under this section and sections 652 and 658 of this title, and repealing provisions set out as a note under section 658 of this title], the amendments made by this section shall take effect on October 1, 1999.”
+Pub. L. 105–200, title II, §201(g), July 16, 1998, 112 Stat. 658, provided that: "Except as otherwise provided in this section [enacting this section, amending this section and sections 652, 655, and 658 of this title, repealing section 658 of this title, enacting provisions set out as notes under this section and sections 652 and 655 of this title, amending provisions set out as notes under this section and sections 652 and 658 of this title, and repealing provisions set out as a note under section 658 of this title], the amendments made by this section shall take effect on October 1, 1999."
 
 #### Regulations ####
 
-Pub. L. 105–200, title II, §201(c), July 16, 1998, 112 Stat. 656, provided that: “Within 9 months after the date of the enactment of this section [July 16, 1998], the Secretary of Health and Human Services shall prescribe regulations governing the implementation of section 458A [now 458] of the Social Security Act [42 U.S.C. 658a] when such section takes effect and the implementation of subsection (b) of this section [formerly set out as a note below].”
+Pub. L. 105–200, title II, §201(c), July 16, 1998, 112 Stat. 656, provided that: "Within 9 months after the date of the enactment of this section [July 16, 1998], the Secretary of Health and Human Services shall prescribe regulations governing the implementation of section 458A [now 458] of the Social Security Act [42 U.S.C. 658a] when such section takes effect and the implementation of subsection (b) of this section [formerly set out as a note below]."
 
 #### Transition Rule ####
 
@@ -362,20 +362,20 @@ Pub. L. 105–200, title II, §201(b), July 16, 1998, 112 Stat. 656, provided fo
 
 Pub. L. 105–200, title II, §201(d), (f)(2)(C), July 16, 1998, 112 Stat. 656, 658, provided that:
 
-“(1) General review of new incentive payment system.—
+"(1) General review of new incentive payment system.—
 
-“(A) In general.—The Secretary of Health and Human Services shall conduct a study of the implementation of the incentive payment system established by section 458 of the Social Security Act [42 U.S.C. 658a], in order to identify the problems and successes of the system.
+"(A) In general.—The Secretary of Health and Human Services shall conduct a study of the implementation of the incentive payment system established by section 458 of the Social Security Act [42 U.S.C. 658a], in order to identify the problems and successes of the system.
 
-“(B) Reports to the congress.—
+"(B) Reports to the congress.—
 
-“(i) Report on variations in state performance attributable to demographic variables.—Not later than October 1, 2000, the Secretary shall submit to the Congress a report that identifies any demographic or economic variables that account for differences in the performance levels achieved by the States with respect to the performance measures used in the system, and contains the recommendations of the Secretary for such adjustments to the system as may be necessary to ensure that the relative performance of States is measured from a baseline that takes account of any such variables.
+"(i) Report on variations in state performance attributable to demographic variables.—Not later than October 1, 2000, the Secretary shall submit to the Congress a report that identifies any demographic or economic variables that account for differences in the performance levels achieved by the States with respect to the performance measures used in the system, and contains the recommendations of the Secretary for such adjustments to the system as may be necessary to ensure that the relative performance of States is measured from a baseline that takes account of any such variables.
 
-“(ii) Interim report.—Not later than March 1, 2001, the Secretary shall submit to the Congress an interim report that contains the findings of the study required by subparagraph (A).
+"(ii) Interim report.—Not later than March 1, 2001, the Secretary shall submit to the Congress an interim report that contains the findings of the study required by subparagraph (A).
 
-“(iii) Final report.—Not later than October 1, 2003, the Secretary shall submit to the Congress a final report that contains the final findings of the study required by subparagraph (A). The report shall include any recommendations for changes in the system that the Secretary determines would improve the operation of the child support enforcement program.
+"(iii) Final report.—Not later than October 1, 2003, the Secretary shall submit to the Congress a final report that contains the final findings of the study required by subparagraph (A). The report shall include any recommendations for changes in the system that the Secretary determines would improve the operation of the child support enforcement program.
 
-“(2) Development of medical support incentive.—
+"(2) Development of medical support incentive.—
 
-“(A) In general.—The Secretary of Health and Human Services, in consultation with State directors of programs operated under part D of title IV of the Social Security Act [42 U.S.C. 651 et seq.] and representatives of children potentially eligible for medical support, shall develop a performance measure based on the effectiveness of States in establishing and enforcing medical support obligations, and shall make recommendations for the incorporation of the measure, in a revenue neutral manner, into the incentive payment system established by section 458A [now 458] of the Social Security Act [42 U.S.C. 658a].
+"(A) In general.—The Secretary of Health and Human Services, in consultation with State directors of programs operated under part D of title IV of the Social Security Act [42 U.S.C. 651 et seq.] and representatives of children potentially eligible for medical support, shall develop a performance measure based on the effectiveness of States in establishing and enforcing medical support obligations, and shall make recommendations for the incorporation of the measure, in a revenue neutral manner, into the incentive payment system established by section 458A [now 458] of the Social Security Act [42 U.S.C. 658a].
 
-“(B) Report.—Not later than October 1, 1999, the Secretary shall submit to the Congress a report that describes the performance measure and contains the recommendations required by subparagraph (A).”
+"(B) Report.—Not later than October 1, 1999, the Secretary shall submit to the Congress a report that describes the performance measure and contains the recommendations required by subparagraph (A)."

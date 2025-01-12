@@ -8,4 +8,4 @@ The Secretary is authorized, when the Secretary determines it to be in the publi
 
 (Pub. L. 97–465, §2, Jan. 12, 1983, 96 Stat. 2535.)
 
-[<sup>1</sup> So in original. Probably should be “covenants,”.](#521d_1)
+[<sup>1</sup> So in original. Probably should be "covenants,".](#521d_1)

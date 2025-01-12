@@ -2,7 +2,7 @@
 
 Congress finds that—
 
-(1) few events in the past quarter-century have rocked Americans’ perception of themselves and their institutions, and brought together the people of our Nation with greater intensity than the April 19, 1995, bombing of the Alfred P. Murrah Federal Building in downtown Oklahoma City;
+(1) few events in the past quarter-century have rocked Americans' perception of themselves and their institutions, and brought together the people of our Nation with greater intensity than the April 19, 1995, bombing of the Alfred P. Murrah Federal Building in downtown Oklahoma City;
 
 (2) the resulting deaths of 168 people, some of whom were children, immediately touched thousands of family members whose lives will forever bear scars of having those precious to them taken away so brutally;
 
@@ -20,8 +20,8 @@ Congress finds that—
 
 #### Short Title of 2004 Amendment ####
 
-Pub. L. 108–199, div. F, title V, §544(a), Jan. 23, 2004, 118 Stat. 347, provided that: “This section [amending sections 450ss–1 to 450ss–3 and 450ss–5 of this title, repealing sections 450ss–4, 450ss–6, and 450ss–7 of this title, and enacting provisions set out as notes under sections 450ss–3 and 450ss–4 of this title] may be cited as the ‘Oklahoma City National Memorial Act Amendments of 2003’.”
+Pub. L. 108–199, div. F, title V, §544(a), Jan. 23, 2004, 118 Stat. 347, provided that: "This section [amending sections 450ss–1 to 450ss–3 and 450ss–5 of this title, repealing sections 450ss–4, 450ss–6, and 450ss–7 of this title, and enacting provisions set out as notes under sections 450ss–3 and 450ss–4 of this title] may be cited as the 'Oklahoma City National Memorial Act Amendments of 2003'."
 
 #### Short Title ####
 
-Pub. L. 105–58, §1, Oct. 9, 1997, 111 Stat. 1261, provided that: “This Act [enacting this section and sections 450ss–1 to 450ss–7 of this title] may be cited as the ‘Oklahoma City National Memorial Act of 1997’.”
+Pub. L. 105–58, §1, Oct. 9, 1997, 111 Stat. 1261, provided that: "This Act [enacting this section and sections 450ss–1 to 450ss–7 of this title] may be cited as the 'Oklahoma City National Memorial Act of 1997'."

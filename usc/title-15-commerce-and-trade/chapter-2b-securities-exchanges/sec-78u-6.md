@@ -6,15 +6,15 @@ In this section the following definitions shall apply:
 
 #### (1) Covered judicial or administrative action ####
 
-The term “covered judicial or administrative action” means any judicial or administrative action brought by the Commission under the securities laws that results in monetary sanctions exceeding $1,000,000.
+The term "covered judicial or administrative action" means any judicial or administrative action brought by the Commission under the securities laws that results in monetary sanctions exceeding $1,000,000.
 
 #### (2) Fund ####
 
-The term “Fund” means the Securities and Exchange Commission Investor Protection Fund.
+The term "Fund" means the Securities and Exchange Commission Investor Protection Fund.
 
 #### (3) Original information ####
 
-The term “original information” means information that—
+The term "original information" means information that—
 
 (A) is derived from the independent knowledge or analysis of a whistleblower;
 
@@ -24,7 +24,7 @@ The term “original information” means information that—
 
 #### (4) Monetary sanctions ####
 
-The term “monetary sanctions”, when used with respect to any judicial or administrative action, means—
+The term "monetary sanctions", when used with respect to any judicial or administrative action, means—
 
 (A) any monies, including penalties, disgorgement, and interest, ordered to be paid; and
 
@@ -32,11 +32,11 @@ The term “monetary sanctions”, when used with respect to any judicial or adm
 
 #### (5) Related action ####
 
-The term “related action”, when used with respect to any judicial or administrative action brought by the Commission under the securities laws, means any judicial or administrative action brought by an entity described in subclauses (I) through (IV) of subsection (h)(2)(D)(i) that is based upon the original information provided by a whistleblower pursuant to subsection (a) that led to the successful enforcement of the Commission action.
+The term "related action", when used with respect to any judicial or administrative action brought by the Commission under the securities laws, means any judicial or administrative action brought by an entity described in subclauses (I) through (IV) of subsection (h)(2)(D)(i) that is based upon the original information provided by a whistleblower pursuant to subsection (a) that led to the successful enforcement of the Commission action.
 
 #### (6) Whistleblower ####
 
-The term “whistleblower” means any individual who provides, or 2 or more individuals acting jointly who provide, information relating to a violation of the securities laws to the Commission, in a manner established, by rule or regulation, by the Commission.
+The term "whistleblower" means any individual who provides, or 2 or more individuals acting jointly who provide, information relating to a violation of the securities laws to the Commission, in a manner established, by rule or regulation, by the Commission.
 
 #### (b) Awards ####
 
@@ -126,7 +126,7 @@ Any determination made under this section, including whether, to whom, or in wha
 
 #### (1) Fund established ####
 
-There is established in the Treasury of the United States a fund to be known as the “Securities and Exchange Commission Investor Protection Fund”.
+There is established in the Treasury of the United States a fund to be known as the "Securities and Exchange Commission Investor Protection Fund".
 
 #### (2) Use of Fund ####
 
@@ -240,7 +240,7 @@ Relief for an individual prevailing in an action brought under subparagraph (B) 
 
 (ii) 2 times the amount of back pay otherwise owed to the individual, with interest; and
 
-(iii) compensation for litigation costs, expert witness fees, and reasonable attorneys’ fees.
+(iii) compensation for litigation costs, expert witness fees, and reasonable attorneys' fees.
 
 #### (2) Confidentiality ####
 
@@ -310,7 +310,7 @@ The Commission shall have the authority to issue such rules and regulations as m
 
 The Sarbanes-Oxley Act of 2002, referred to in subsec. (h)(1)(A)(iii), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of this title and Tables.
 
-This chapter, referred to in subsec. (h)(1)(A)(iii), was in the original “the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.)”. This chapter, referred to in subsec. (h)(2)(D)(i), was in the original “this Act”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsec. (h)(1)(A)(iii), was in the original "the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.)". This chapter, referred to in subsec. (h)(2)(D)(i), was in the original "this Act". See References in Text note set out under section 78a of this title.
 
 #### Effective Date ####
 

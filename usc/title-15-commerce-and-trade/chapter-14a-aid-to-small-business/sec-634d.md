@@ -24,9 +24,9 @@ Section was not enacted as part of the Small Business Act which comprises this c
 
 #### Amendments ####
 
-**1994**—Pub. L. 103–403, §§605(b), 610(1), in introductory provisions substituted “provisions of sections 634a to 634g of this title, the Chief” for “provisions of section 634b of this title, after consultation with and subject to the approval of the Administrator, the Chief”.
+**1994**—Pub. L. 103–403, §§605(b), 610(1), in introductory provisions substituted "provisions of sections 634a to 634g of this title, the Chief" for "provisions of section 634b of this title, after consultation with and subject to the approval of the Administrator, the Chief".
 
-Par. (1). Pub. L. 103–403, §610(2), substituted “14” for “ten” before “staff personnel”.
+Par. (1). Pub. L. 103–403, §610(2), substituted "14" for "ten" before "staff personnel".
 
 **1980**—Par. (1). Pub. L. 96–302 authorized employment at any one time of ten staff personnel at rate of compensation not in excess of GS–15, step 10, of the General Schedule.
 

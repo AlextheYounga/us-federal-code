@@ -6,7 +6,7 @@ In fiscal year 2004 and thereafter, funds appropriated in this account shall be 
 
 #### References in Text ####
 
-“Funds appropriated in this account”, and “this appropriation”, referred to in text, mean funds appropriated under the headings “Federal Law Enforcement Training Center” and “salaries and expenses” of title IV of the Department of Homeland Security Appropriations Act, 2004, Pub. L. 108–90.
+"Funds appropriated in this account", and "this appropriation", referred to in text, mean funds appropriated under the headings "Federal Law Enforcement Training Center" and "salaries and expenses" of title IV of the Department of Homeland Security Appropriations Act, 2004, Pub. L. 108–90.
 
 Section 801 of the Antiterrorism and Effective Death Penalty Act of 1996, referred to in text, is section 801 of Pub. L. 104–132, which is set out as a note under section 509 of Title 28, Judiciary and Judicial Procedure.
 

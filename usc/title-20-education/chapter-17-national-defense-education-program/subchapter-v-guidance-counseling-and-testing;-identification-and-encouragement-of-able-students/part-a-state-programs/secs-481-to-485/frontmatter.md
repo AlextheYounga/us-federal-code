@@ -12,4 +12,4 @@ Section 483, Pub. L. 85–864, title V, §503, Sept. 2, 1958, 72 Stat. 1592; Pub
 
 Section 484, Pub. L. 85–864, title V, §504, Sept. 2, 1958, 72 Stat. 1592; Pub. L. 87–344, title II, §204(b), (c), Oct. 3, 1961, 75 Stat. 760; Pub. L. 88–210, title II, §205(d), formerly §25(d), Dec. 18, 1963, 77 Stat. 418, renumbered Pub. L. 90–576, title I, §101(a)(1), Oct. 16, 1968, 82 Stat. 1064; Pub. L. 88–665, title V, §503, Oct. 16, 1964, 78 Stat. 1105; Pub. L. 90–575, title III, §321(b), Oct. 16, 1968, 82 Stat. 1057, related to payments to States with plans approved under section 483 of this title.
 
-Section 485, Pub. L. 85–864, title V, §505, as added Pub. L. 88–665, title V, §504, Oct. 16, 1964, 78 Stat. 1106, defined “junior colleges or technical institutes” as used in this subchapter.
+Section 485, Pub. L. 85–864, title V, §505, as added Pub. L. 88–665, title V, §504, Oct. 16, 1964, 78 Stat. 1106, defined "junior colleges or technical institutes" as used in this subchapter.

@@ -6,7 +6,7 @@ Except as otherwise provided in chapter 3A of this title, the provisions of sect
 
 #### References in Text ####
 
-Sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 47, 51 and 52 of this title and section 661 of title 43, referred to in text, were in the original “the preceding provisions of this chapter”, meaning chapter 6 of title 32 of the Revised Statutes, consisting of R.S. §§2318 to 2344.
+Sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 47, 51 and 52 of this title and section 661 of title 43, referred to in text, were in the original "the preceding provisions of this chapter", meaning chapter 6 of title 32 of the Revised Statutes, consisting of R.S. §§2318 to 2344.
 
 #### Codification ####
 

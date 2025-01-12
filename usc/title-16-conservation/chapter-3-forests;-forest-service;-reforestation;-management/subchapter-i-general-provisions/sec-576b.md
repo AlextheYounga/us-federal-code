@@ -14,16 +14,16 @@
 
 **2005**—Subsec. (a). Pub. L. 109–54 added cl. (5).
 
-**2004**—Pub. L. 108–447, §318(1), which directed the amendment of this section “by striking ‘The Secretary of Agriculture may, when in his’ and inserting ‘(a) The Secretary of Agriculture may, when in his or her’;
+**2004**—Pub. L. 108–447, §318(1), which directed the amendment of this section "by striking 'The Secretary of Agriculture may, when in his' and inserting '(a) The Secretary of Agriculture may, when in his or her';
 
-‘(b) Amounts deposited under subsection (a) of this section’ ”,
+'(b) Amounts deposited under subsection (a) of this section' ",
 
-was partially executed by designating existing text as subsec. (a) and substituting “The Secretary of Agriculture may, when in his or her” for “The Secretary of Agriculture may, when in his”. However, the provisions relating to subsec. (b) were not inserted, because of missing directory language.
+was partially executed by designating existing text as subsec. (a) and substituting "The Secretary of Agriculture may, when in his or her" for "The Secretary of Agriculture may, when in his". However, the provisions relating to subsec. (b) were not inserted, because of missing directory language.
 
-Subsec. (a). Pub. L. 108–447, §318(2), substituted “may direct. The Secretary of Agriculture” for “may direct: *Provided*, That any portion of any deposit found to be in excess of the cost of doing said work shall, upon the determination that it is so in excess, be transferred to miscellaneous receipts, forest reserve fund, as a national-forest receipt of the fiscal year in which such transfer is made: *Provided further*, That the Secretary of Agriculture”.
+Subsec. (a). Pub. L. 108–447, §318(2), substituted "may direct. The Secretary of Agriculture" for "may direct: *Provided*, That any portion of any deposit found to be in excess of the cost of doing said work shall, upon the determination that it is so in excess, be transferred to miscellaneous receipts, forest reserve fund, as a national-forest receipt of the fiscal year in which such transfer is made: *Provided further*, That the Secretary of Agriculture".
 
 Subsec. (c). Pub. L. 108–447, §318(3), added subsec. (c).
 
-**1976**—Pub. L. 94–588 struck out “or” before “(3)” and substituted “, or (4) protecting and improving the future productivity of the renewable resources of the forest land on such sale area, including sale area improvement operations, maintenance and construction, reforestation and wildlife habitat management” for “: *Provided*, That the total amount so required to be deposited by any purchaser shall not exceed, on an acreage basis, the average cost of planting (including the production or purchase of young trees) other comparable national-forest lands during the previous three years”.
+**1976**—Pub. L. 94–588 struck out "or" before "(3)" and substituted ", or (4) protecting and improving the future productivity of the renewable resources of the forest land on such sale area, including sale area improvement operations, maintenance and construction, reforestation and wildlife habitat management" for ": *Provided*, That the total amount so required to be deposited by any purchaser shall not exceed, on an acreage basis, the average cost of planting (including the production or purchase of young trees) other comparable national-forest lands during the previous three years".
 
 [<sup>1</sup> See 2004 Amendment notes below.](#576b_1)

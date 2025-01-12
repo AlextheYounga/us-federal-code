@@ -16,7 +16,7 @@ Section 1782f, Pub. L. 97–300, title IV, §497, as added Pub. L. 102–367, ti
 
 Section 1782g, Pub. L. 97–300, title IV, §498, as added Pub. L. 102–367, title IV, §406, Sept. 7, 1992, 106 Stat. 1091, related to Federal responsibilities.
 
-Section 1782h, Pub. L. 97–300, title IV, §498A, as added Pub. L. 102–367, title IV, §406, Sept. 7, 1992, 106 Stat. 1092, defined “participating community”, “high poverty area”, and “target area”.
+Section 1782h, Pub. L. 97–300, title IV, §498A, as added Pub. L. 102–367, title IV, §406, Sept. 7, 1992, 106 Stat. 1092, defined "participating community", "high poverty area", and "target area".
 
 #### Effective Date of Repeal ####
 

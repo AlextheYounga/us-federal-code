@@ -84,49 +84,49 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments ####
 
-**2010**—Subsec. (a)(1)(B). Pub. L. 111–203, §749(h)(1)(B), which directed insertion of “or any swap” after “such contract”, was executed by making the insertion after “such contract” the second time appearing, to reflect the probable intent of Congress.
+**2010**—Subsec. (a)(1)(B). Pub. L. 111–203, §749(h)(1)(B), which directed insertion of "or any swap" after "such contract", was executed by making the insertion after "such contract" the second time appearing, to reflect the probable intent of Congress.
 
-Pub. L. 111–203, §749(h)(1)(A), inserted “or any swap” after “commodity)”.
+Pub. L. 111–203, §749(h)(1)(A), inserted "or any swap" after "commodity)".
 
 Subsec. (a)(1)(C)(iv). Pub. L. 111–203, §749(h)(2), added cl. (iv).
 
-Subsec. (a)(1)(D). Pub. L. 111–203, §753(c), added subpar. (D) and struck out former subpar. (D) which read as follows: “who purchased or sold a contract referred to in subparagraph (B) hereof if the violation constitutes a manipulation of the price of any such contract or the price of the commodity underlying such contract.”
+Subsec. (a)(1)(D). Pub. L. 111–203, §753(c), added subpar. (D) and struck out former subpar. (D) which read as follows: "who purchased or sold a contract referred to in subparagraph (B) hereof if the violation constitutes a manipulation of the price of any such contract or the price of the commodity underlying such contract."
 
-Subsec. (a)(4), (5). Pub. L. 111–203, §739, added pars. (4) and (5) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “No agreement, contract, or transaction between eligible contract participants or persons reasonably believed to be eligible contract participants, and no hybrid instrument sold to any investor, shall be void, voidable, or unenforceable, and no such party shall be entitled to rescind, or recover any payment made with respect to, such an agreement, contract, transaction, or instrument under this section or any other provision of Federal or State law, based solely on the failure of the agreement, contract, transaction, or instrument to comply with the terms or conditions of an exemption or exclusion from any provision of this chapter or regulations of the Commission.”
+Subsec. (a)(4), (5). Pub. L. 111–203, §739, added pars. (4) and (5) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: "No agreement, contract, or transaction between eligible contract participants or persons reasonably believed to be eligible contract participants, and no hybrid instrument sold to any investor, shall be void, voidable, or unenforceable, and no such party shall be entitled to rescind, or recover any payment made with respect to, such an agreement, contract, transaction, or instrument under this section or any other provision of Federal or State law, based solely on the failure of the agreement, contract, transaction, or instrument to comply with the terms or conditions of an exemption or exclusion from any provision of this chapter or regulations of the Commission."
 
 Subsec. (a)(6). Pub. L. 111–203, §738(c), added par. (6).
 
-Subsec. (b)(1)(A). Pub. L. 111–203, §749(h)(3), substituted “section 7, 7a–1, 7a–2, 7b–3, or 24a of this title” for “section 2(h)(7) of this title or sections 7 through 7a–2 of this title”.
+Subsec. (b)(1)(A). Pub. L. 111–203, §749(h)(3), substituted "section 7, 7a–1, 7a–2, 7b–3, or 24a of this title" for "section 2(h)(7) of this title or sections 7 through 7a–2 of this title".
 
-**2008**—Subsec. (a)(2). Pub. L. 110–246, §13105(i), substituted “7a–1(c)(2)(H)” for “7a–1(b)(1)(E)”.
+**2008**—Subsec. (a)(2). Pub. L. 110–246, §13105(i), substituted "7a–1(c)(2)(H)" for "7a–1(b)(1)(E)".
 
-Subsec. (b)(1)(A). Pub. L. 110–246, §13203(n), inserted “section 2(h)(7) of this title or” before “sections 7 through 7a–2”.
+Subsec. (b)(1)(A). Pub. L. 110–246, §13203(n), inserted "section 2(h)(7) of this title or" before "sections 7 through 7a–2".
 
-**2000**—Subsec. (a)(1). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(25)(A)(i)(I)], substituted “registered entity” for “contract market, clearing organization of a contract market, licensed board of trade,” in introductory provisions.
+**2000**—Subsec. (a)(1). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(25)(A)(i)(I)], substituted "registered entity" for "contract market, clearing organization of a contract market, licensed board of trade," in introductory provisions.
 
-Subsec. (a)(1)(C)(i). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(25)(A)(i)(II)], substituted “registered entity” for “contract market”.
+Subsec. (a)(1)(C)(i). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(25)(A)(i)(II)], substituted "registered entity" for "contract market".
 
-Subsec. (a)(2). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(25)(A)(ii)], substituted “sections 7(d)(13), 7a–1(b)(1)(E),” for “sections 7a(11),”.
+Subsec. (a)(2). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(25)(A)(ii)], substituted "sections 7(d)(13), 7a–1(b)(1)(E)," for "sections 7a(11),".
 
-Subsec. (a)(3). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(25)(A)(iii)], substituted “registered entity” for “contract market” in introductory provisions.
+Subsec. (a)(3). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(25)(A)(iii)], substituted "registered entity" for "contract market" in introductory provisions.
 
 Subsec. (a)(4). Pub. L. 106–554, §1(a)(5) [title I, §120], added par. (4).
 
-Subsec. (b)(1). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(25)(B)(i)], substituted “registered entity that fails” for “contract market or clearing organization of a contract market that fails”, “sections 7 through 7a–2 of this title” for “section 7a(8) and section 7a(9) of this title”, “registered entity that in” for “contract market, clearing organization of a contract market, or licensed board of trade that in”, and “registered entity to the” for “contract market or licensed board of trade to the”.
+Subsec. (b)(1). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(25)(B)(i)], substituted "registered entity that fails" for "contract market or clearing organization of a contract market that fails", "sections 7 through 7a–2 of this title" for "section 7a(8) and section 7a(9) of this title", "registered entity that in" for "contract market, clearing organization of a contract market, or licensed board of trade that in", and "registered entity to the" for "contract market or licensed board of trade to the".
 
-Subsec. (b)(3). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(25)(B)(ii)], substituted “employee of registered entity” for “employee of a contract market, clearing organization, licensed board of trade,” and “such registered entity” for “such contract market, licensed board of trade”.
+Subsec. (b)(3). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(25)(B)(ii)], substituted "employee of registered entity" for "employee of a contract market, clearing organization, licensed board of trade," and "such registered entity" for "such contract market, licensed board of trade".
 
-Subsec. (b)(4). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(25)(B)(iii)], substituted “registered entity” for “contract market, licensed board of trade, clearing organization,”.
+Subsec. (b)(4). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(25)(B)(iii)], substituted "registered entity" for "contract market, licensed board of trade, clearing organization,".
 
-Subsec. (b)(5). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(25)(B)(iv)], substituted “registered entity” for “contract market, licensed board of trade, clearing organization,”.
+Subsec. (b)(5). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(25)(B)(iv)], substituted "registered entity" for "contract market, licensed board of trade, clearing organization,".
 
-**1992**—Subsec. (a)(1). Pub. L. 102–546, §402(14)(A), substituted “subparagraphs” for “clauses” in introductory provisions and “subparagraph” for “clause” in subpar. (D).
+**1992**—Subsec. (a)(1). Pub. L. 102–546, §402(14)(A), substituted "subparagraphs" for "clauses" in introductory provisions and "subparagraph" for "clause" in subpar. (D).
 
 Subsec. (a)(2). Pub. L. 102–546, §402(14)(B), made technical amendment to reference to section 21(b)(10) of this title to correct reference to corresponding section of original act.
 
 Subsec. (a)(3). Pub. L. 102–546, §222(d), added par. (3).
 
-Subsec. (c). Pub. L. 102–546, §211, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The United States district courts shall have exclusive jurisdiction of actions brought under this section. Any such action must be brought within two years after the date the cause of action accrued.”
+Subsec. (c). Pub. L. 102–546, §211, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The United States district courts shall have exclusive jurisdiction of actions brought under this section. Any such action must be brought within two years after the date the cause of action accrued."
 
 #### Effective Date of 2010 Amendment ####
 
@@ -144,8 +144,8 @@ Amendment by section 13203(n) of Pub. L. 110–246 effective June 18, 2008, see 
 
 Section effective Jan. 11, 1983, see section 239 of Pub. L. 97–444, set out as an Effective Date of 1983 Amendment note under section 2 of this title.
 
-[<sup>1</sup> So in original. The word “or” probably should not appear.](#25_1)
+[<sup>1</sup> So in original. The word "or" probably should not appear.](#25_1)
 
-[<sup>2</sup> So in original. Probably should be preceded by “a”.](#25_2)
+[<sup>2</sup> So in original. Probably should be preceded by "a".](#25_2)
 
 [<sup>3</sup> So in original. Probably should be followed by a comma.](#25_3)

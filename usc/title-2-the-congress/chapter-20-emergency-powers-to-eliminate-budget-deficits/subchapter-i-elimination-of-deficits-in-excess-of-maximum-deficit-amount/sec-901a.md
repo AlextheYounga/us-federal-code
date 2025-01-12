@@ -128,41 +128,41 @@ A prior section 901a, Pub. L. 99–177, title II, §251A, as added Pub. L. 103�
 
 #### Amendments ####
 
-**2014**—Par. (6)(B). Pub. L. 113–82 substituted “, for fiscal year 2023, and for fiscal year 2024” for “and for fiscal year 2023”.
+**2014**—Par. (6)(B). Pub. L. 113–82 substituted ", for fiscal year 2023, and for fiscal year 2024" for "and for fiscal year 2023".
 
 Par. (6)(D). Pub. L. 113–93 added subpar. (D).
 
-**2013**—Pub. L. 113–67, §101(d)(2)(A), in introductory provisions substituted “Discretionary appropriations and direct spending accounts shall be reduced in accordance with this section as follows:” for “Unless a joint committee bill achieving an amount greater than $1,200,000,000,000 in deficit reduction as provided in section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011 is enacted by January 15, 2012, the discretionary spending limits listed in section 901(c) of this title shall be revised, and discretionary appropriations and direct spending shall be reduced, as follows:”.
+**2013**—Pub. L. 113–67, §101(d)(2)(A), in introductory provisions substituted "Discretionary appropriations and direct spending accounts shall be reduced in accordance with this section as follows:" for "Unless a joint committee bill achieving an amount greater than $1,200,000,000,000 in deficit reduction as provided in section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011 is enacted by January 15, 2012, the discretionary spending limits listed in section 901(c) of this title shall be revised, and discretionary appropriations and direct spending shall be reduced, as follows:".
 
-Par. (1). Pub. L. 113–67, §101(d)(2)(B), (C), redesignated par.(3) as (1) and struck out former par. (1) which defined “revised security category” as discretionary appropriations in budget function 050 and “revised nonsecurity category” as discretionary appropriations other than in budget function 050.
+Par. (1). Pub. L. 113–67, §101(d)(2)(B), (C), redesignated par.(3) as (1) and struck out former par. (1) which defined "revised security category" as discretionary appropriations in budget function 050 and "revised nonsecurity category" as discretionary appropriations other than in budget function 050.
 
-Par. (2). Pub. L. 113–67, §101(d)(2)(B)–(D), redesignated par. (4) as (2), substituted “paragraph (1)” for “paragraph (3)”, and struck out former par. (2) which revised discretionary spending limits under section 901(c) of this title for fiscal years 2013 through 2021.
+Par. (2). Pub. L. 113–67, §101(d)(2)(B)–(D), redesignated par. (4) as (2), substituted "paragraph (1)" for "paragraph (3)", and struck out former par. (2) which revised discretionary spending limits under section 901(c) of this title for fiscal years 2013 through 2021.
 
-Par. (3). Pub. L. 113–67, §101(d)(2)(C), (E), redesignated par. (5) as (3) and substituted “paragraph (2)” for “paragraph (4)” in two places. Former par. (3) redesignated (1).
+Par. (3). Pub. L. 113–67, §101(d)(2)(C), (E), redesignated par. (5) as (3) and substituted "paragraph (2)" for "paragraph (4)" in two places. Former par. (3) redesignated (1).
 
 Par. (3)(E). Pub. L. 112–240, §901(a), added subpar. (E).
 
-Par. (4). Pub. L. 113–67, §101(d)(2)(C), (F), redesignated par. (6) as (4) and substituted “paragraph (2)” for “paragraph (4)” in two places. Former par. (4) redesignated (2).
+Par. (4). Pub. L. 113–67, §101(d)(2)(C), (F), redesignated par. (6) as (4) and substituted "paragraph (2)" for "paragraph (4)" in two places. Former par. (4) redesignated (2).
 
-Pub. L. 112–240, §901(c)(1), substituted “March 1, 2013” for “January 2, 2013”.
+Pub. L. 112–240, §901(c)(1), substituted "March 1, 2013" for "January 2, 2013".
 
-Par. (5). Pub. L. 113–67, §101(d)(2)(C), (G), redesignated par. (7) as (5) and substituted “paragraph (3)” for “paragraph (5)” in two places and “paragraph (4)” for “paragraph (6)” in two places. Former par. (5) redesignated (3).
+Par. (5). Pub. L. 113–67, §101(d)(2)(C), (G), redesignated par. (7) as (5) and substituted "paragraph (3)" for "paragraph (5)" in two places and "paragraph (4)" for "paragraph (6)" in two places. Former par. (5) redesignated (3).
 
-Par. (5)(B). Pub. L. 113–67, §101(b)(2), substituted “Except as provided by paragraph (10), on” for “On” in introductory provisions.
+Par. (5)(B). Pub. L. 113–67, §101(b)(2), substituted "Except as provided by paragraph (10), on" for "On" in introductory provisions.
 
-Par. (6). Pub. L. 113–67, §101(d)(2)(C), (H), redesignated par. (8) as (6) and, in subpar. (A), substituted “paragraph (2)” for “paragraph (4)” and “paragraphs (3) and (4)” for “paragraphs (5) and (6)”. Former par. (6) redesignated (4).
+Par. (6). Pub. L. 113–67, §101(d)(2)(C), (H), redesignated par. (8) as (6) and, in subpar. (A), substituted "paragraph (2)" for "paragraph (4)" and "paragraphs (3) and (4)" for "paragraphs (5) and (6)". Former par. (6) redesignated (4).
 
 Pub. L. 113–67, §101(c), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Par. (6)(C). Pub. L. 113–67, §1205, added subpar. (C).
 
-Par. (7). Pub. L. 113–67, §101(d)(2)(C), (I), redesignated par. (9) as (7), substituted “paragraph (6)” for “paragraph (8)”, and substituted “paragraph (4)” for “paragraph (6)” in two places. Former par. (7) redesignated (5).
+Par. (7). Pub. L. 113–67, §101(d)(2)(C), (I), redesignated par. (9) as (7), substituted "paragraph (6)" for "paragraph (8)", and substituted "paragraph (4)" for "paragraph (6)" in two places. Former par. (7) redesignated (5).
 
-Par. (7)(A). Pub. L. 112–240, §901(c)(2), substituted “March 1, 2013” for “January 2, 2013” in introductory provisions.
+Par. (7)(A). Pub. L. 112–240, §901(c)(2), substituted "March 1, 2013" for "January 2, 2013" in introductory provisions.
 
 Par. (8). Pub. L. 113–67, §101(d)(2)(C), redesignated par. (10) as (8). Former par. (8) redesignated (6).
 
-Par. (9). Pub. L. 113–67, §101(d)(2)(C), (J), redesignated par. (11) as (9) and substituted “paragraph (2)” for “paragraph (4)”. Former par. (9) redesignated (7).
+Par. (9). Pub. L. 113–67, §101(d)(2)(C), (J), redesignated par. (11) as (9) and substituted "paragraph (2)" for "paragraph (4)". Former par. (9) redesignated (7).
 
 Par. (10). Pub. L. 113–67, §101(b)(1), added par. (10). Former par. (10) redesignated (8).
 
@@ -170,19 +170,19 @@ Par. (11). Pub. L. 113–67, §101(d)(2)(C), redesignated par. (11) as (9).
 
 #### 2013 Sequester ####
 
-Pub. L. 112–240, title IX, §901(e), Jan. 2, 2013, 126 Stat. 2370, provided that: “On March 1, 2013, the President shall order a sequestration for fiscal year 2013 pursuant to section 251A of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 901a], as amended by this section, pursuant to which, only for the purposes of the calculation in sections 251A(5)(A), 251A(6)(A), and 251A(7)(A), section 251(c)(2) [former 2 U.S.C. 901(c)(2)] shall be applied as if it read as follows:
+Pub. L. 112–240, title IX, §901(e), Jan. 2, 2013, 126 Stat. 2370, provided that: "On March 1, 2013, the President shall order a sequestration for fiscal year 2013 pursuant to section 251A of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 901a], as amended by this section, pursuant to which, only for the purposes of the calculation in sections 251A(5)(A), 251A(6)(A), and 251A(7)(A), section 251(c)(2) [former 2 U.S.C. 901(c)(2)] shall be applied as if it read as follows:
 
-“ ‘(2) For fiscal year 2013—
+" '(2) For fiscal year 2013—
 
-“ ‘(A) for the security category, $544,000,000,000 in budget authority; and
+" '(A) for the security category, $544,000,000,000 in budget authority; and
 
-“ ‘(B) for the nonsecurity category, $499,000,000,000 in budget authority;’.”
+" '(B) for the nonsecurity category, $499,000,000,000 in budget authority;'."
 
 #### Sequestration Order for Fiscal Year 2013 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended ####
 
 Order of President of the United States, dated Mar. 1, 2013, 78 F.R. 14633, provided:
 
-By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act, as amended (the “Act”), 2 U.S.C. 901a, I hereby order that budgetary resources in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of March 1, 2013.
+By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act, as amended (the "Act"), 2 U.S.C. 901a, I hereby order that budgetary resources in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of March 1, 2013.
 
 Pursuant to sections 250(c)(6), 251A, and 255(e) of the Act, budgetary resources subject to sequestration shall be new budget authority, unobligated balances of defense function accounts carried over from prior fiscal years, direct spending authority, and obligation limitations.
 
@@ -194,7 +194,7 @@ Barack Obama.
 
 Order of President of the United States, dated Apr. 10, 2013, 78 F.R. 22409, provided:
 
-By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act [of 1985] (the “Act”), as amended, 2 U.S.C. 901a, I hereby order that, on October 1, 2013, direct spending budgetary resources for fiscal year 2014 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of April 10, 2013.
+By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act [of 1985] (the "Act"), as amended, 2 U.S.C. 901a, I hereby order that, on October 1, 2013, direct spending budgetary resources for fiscal year 2014 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of April 10, 2013.
 
 All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget's report of April 10, 2013, prepared pursuant to section 251A(11) of the Act.
 

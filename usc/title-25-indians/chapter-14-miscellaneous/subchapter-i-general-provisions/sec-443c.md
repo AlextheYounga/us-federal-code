@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Fund ####
 
-There is established in the Treasury of the United States a fund, to be known as the “Emergency Fund for Indian Safety and Health” (referred to in this section as the “Fund”), consisting of such amounts as are appropriated to the Fund under subsection (b).
+There is established in the Treasury of the United States a fund, to be known as the "Emergency Fund for Indian Safety and Health" (referred to in this section as the "Fund"), consisting of such amounts as are appropriated to the Fund under subsection (b).
 
 #### (b) Transfers to Fund ####
 
@@ -78,6 +78,6 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 #### Amendments ####
 
-**2010**—Subsec. (b)(1). Pub. L. 111–291, §831(1), substituted “$1,602,619,000” for “$2,000,000,000”.
+**2010**—Subsec. (b)(1). Pub. L. 111–291, §831(1), substituted "$1,602,619,000" for "$2,000,000,000".
 
-Subsec. (f)(2)(B). Pub. L. 111–291, §831(2), substituted “not more than $602,619,000” for “50 percent”.
+Subsec. (f)(2)(B). Pub. L. 111–291, §831(2), substituted "not more than $602,619,000" for "50 percent".

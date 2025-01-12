@@ -32,12 +32,12 @@ The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 5
 
 #### Codification ####
 
-In subsec. (c)(3), “section 1105 of title 31” was substituted for “section 201 of the Budget and Accounting Act, 1921 [31 U.S.C. 11]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c)(3), "section 1105 of title 31" was substituted for "section 201 of the Budget and Accounting Act, 1921 [31 U.S.C. 11]" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section was enacted as part of the Rehabilitation, Comprehensive Services, and Developmental Disabilities Amendments of 1978, and not as part of Rehabilitation Act of 1973 which comprises this chapter.
 
 #### Amendments ####
 
-**1986**—Subsec. (a). Pub. L. 99–506 substituted “individuals with handicaps” for “handicapped individuals”.
+**1986**—Subsec. (a). Pub. L. 99–506 substituted "individuals with handicaps" for "handicapped individuals".
 
-**1984**—Subsec. (a). Pub. L. 98–221 substituted “Secretary of Education” for “Secretary of Health, Education, and Welfare”.
+**1984**—Subsec. (a). Pub. L. 98–221 substituted "Secretary of Education" for "Secretary of Health, Education, and Welfare".

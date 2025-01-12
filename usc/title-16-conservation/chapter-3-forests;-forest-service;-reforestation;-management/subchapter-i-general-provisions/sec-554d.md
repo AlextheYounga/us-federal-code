@@ -6,4 +6,4 @@ Not to exceed $100,000 annually of funds available to the Forest Service may be 
 
 #### Amendments ####
 
-**1990**—Pub. L. 101–512 substituted “$100,000” for “$35,000”.
+**1990**—Pub. L. 101–512 substituted "$100,000" for "$35,000".

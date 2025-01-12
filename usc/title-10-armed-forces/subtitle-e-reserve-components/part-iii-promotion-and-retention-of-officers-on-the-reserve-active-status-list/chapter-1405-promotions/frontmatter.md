@@ -38,6 +38,6 @@ Sec.
 
 #### Amendments ####
 
-**2006**—Pub. L. 109–163, div. A, title V, §515(b)(4)(I), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy Reserve” for “Naval Reserve” in item 14306.
+**2006**—Pub. L. 109–163, div. A, title V, §515(b)(4)(I), Jan. 6, 2006, 119 Stat. 3235, substituted "Navy Reserve" for "Naval Reserve" in item 14306.
 
-**1996**—Pub. L. 104–106, div. A, title XV, §1501(b)(24), Feb. 10, 1996, 110 Stat. 497, substituted “Number” for “Numbers” in item 14307, a semicolon for a colon in item 14309, and “State” for “state” in item 14314.
+**1996**—Pub. L. 104–106, div. A, title XV, §1501(b)(24), Feb. 10, 1996, 110 Stat. 497, substituted "Number" for "Numbers" in item 14307, a semicolon for a colon in item 14309, and "State" for "state" in item 14314.

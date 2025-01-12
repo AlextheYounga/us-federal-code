@@ -98,7 +98,7 @@ Sec.
 
 8e. Conveyance to States of roads leading to certain historical areas; conditions; jurisdiction.
 
-8f. Roads leading to certain historical areas; “State” defined.
+8f. Roads leading to certain historical areas; "State" defined.
 
 9. Repealed.
 
@@ -162,7 +162,7 @@ Sec.
 
 17m. Consent of Congress to agreements between States; when agreements effective.
 
-17n. “State” defined.
+17n. "State" defined.
 
 17 o. National Park Service housing improvement.
 
@@ -952,7 +952,7 @@ Sec.
 
 230a. Acquisition of property.
 
-230b. Owner's retention of right of use and occupancy for residential purposes for life or fixed term of years; election of term; fair market value; transfer, assignment or termination; “improved property” defined.
+230b. Owner's retention of right of use and occupancy for residential purposes for life or fixed term of years; election of term; fair market value; transfer, assignment or termination; "improved property" defined.
 
 230c. Cooperative agreements; specific provisions.
 
@@ -1028,7 +1028,7 @@ Sec.
 
 251g. Land acquisition; study and investigation of use of private lands; transmittal to President and Congress; transfer of lands to Secretary of Agriculture; excluded property within Indian reservation; continuation of concession contracts; termination of concession contracts and purchase of possessory interest; Indian hunting and fishing rights.
 
-251h. Property retention rights; compensation at fair market value; “improved property” defined.
+251h. Property retention rights; compensation at fair market value; "improved property" defined.
 
 251i. Land acquisition of privately owned land; report to Congress; condemnation proceedings; compensation.
 
@@ -1710,7 +1710,7 @@ Sec.
 
 410g. Rules and regulations governing reservation rights.
 
-410h. Ascertainment of owners’ election regarding reservation rights.
+410h. Ascertainment of owners' election regarding reservation rights.
 
 410i. Exterior boundaries; administration.
 
@@ -1720,7 +1720,7 @@ Sec.
 
 410 l. Rules and regulations governing reservation rights.
 
-410m. Ascertainment of owners’ election regarding reservation rights.
+410m. Ascertainment of owners' election regarding reservation rights.
 
 410n. Drainage of lands; right-of-way.
 
@@ -1766,7 +1766,7 @@ Sec.
 
 410x–1. Residential occupancy.
 
-410x–2. “Residential property” defined.
+410x–2. "Residential property" defined.
 
 #### SUBCHAPTER LVI—CHESAPEAKE AND OHIO CANAL NATIONAL HISTORICAL PARK ####
 
@@ -2022,7 +2022,7 @@ Sec.
 
 410qq–2. Administration.
 
-410qq–3. “Native American Samoan” defined.
+410qq–3. "Native American Samoan" defined.
 
 410qq–4. Authorization of appropriations.
 
@@ -3856,7 +3856,7 @@ Sec.
 
 460u–2. Direction for establishment; publication in Federal Register; continuing acquisition of lands.
 
-460u–3. “Improved property” and “appropriate map” defined; terms and conditions for rights of use and occupancy.
+460u–3. "Improved property" and "appropriate map" defined; terms and conditions for rights of use and occupancy.
 
 460u–4. Repealed.
 

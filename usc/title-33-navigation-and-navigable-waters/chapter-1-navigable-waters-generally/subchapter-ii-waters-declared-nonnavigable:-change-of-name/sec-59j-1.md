@@ -10,7 +10,7 @@ Unless the Secretary finds, after consultation with local and regional public of
 
 (3) Marine Trade Center—Pier 24 North. [Omitted]
 
-(4) National Sugar Company “Sugar House”. [Omitted]
+(4) National Sugar Company "Sugar House". [Omitted]
 
 (5) Rivercenter. [Omitted]
 
@@ -34,8 +34,8 @@ The text of the boundary descriptions contained in pars. (1) to (5) of subsec. (
 
 #### Amendments ####
 
-**2007**—Subsec. (c). Pub. L. 110–114 substituted “subsection (a) (except 30 years from November 17, 1988, in the case of the area or any part thereof described in subsection (a)(5))” for “subsection (a) of this section”.
+**2007**—Subsec. (c). Pub. L. 110–114 substituted "subsection (a) (except 30 years from November 17, 1988, in the case of the area or any part thereof described in subsection (a)(5))" for "subsection (a) of this section".
 
-#### “Secretary” Defined ####
+#### "Secretary" Defined ####
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 100–676, set out as a note under section 2201 of this title.

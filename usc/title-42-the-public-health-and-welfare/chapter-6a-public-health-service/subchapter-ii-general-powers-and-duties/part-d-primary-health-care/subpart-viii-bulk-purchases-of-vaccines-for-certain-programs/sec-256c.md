@@ -26,7 +26,7 @@ This section may not be construed as requiring any State to reduce or terminate 
 
 #### Amendments ####
 
-**1996**—Subsec. (a)(2). Pub. L. 104–299 substituted “with assistance provided under section 254b of this title” for “under the programs established in sections 254b, 254c, 256, and 256a of this title.”
+**1996**—Subsec. (a)(2). Pub. L. 104–299 substituted "with assistance provided under section 254b of this title" for "under the programs established in sections 254b, 254c, 256, and 256a of this title."
 
 #### Effective Date of 1996 Amendment ####
 

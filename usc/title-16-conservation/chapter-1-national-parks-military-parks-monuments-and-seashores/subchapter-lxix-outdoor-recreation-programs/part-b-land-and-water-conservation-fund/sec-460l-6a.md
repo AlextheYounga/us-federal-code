@@ -66,7 +66,7 @@ Where the primary public access to a unit of the National Park System is provide
 
 (A) Any vehicle transporting organized school groups or outings conducted for educational purposes by schools or other bona fide educational institutions.
 
-(B) Any vehicle entering a park system unit pursuant to a contract issued under the Act of October 9, 1965 (16 U.S.C. 20–20g) <sup><a href="#460l-6a_1_target" name="460l-6a_1">1</a></sup> entitled “An Act relating to the establishment of concession policies in the areas administered by the National Park Service and for other purposes.”
+(B) Any vehicle entering a park system unit pursuant to a contract issued under the Act of October 9, 1965 (16 U.S.C. 20–20g) <sup><a href="#460l-6a_1_target" name="460l-6a_1">1</a></sup> entitled "An Act relating to the establishment of concession policies in the areas administered by the National Park Service and for other purposes."
 
 (5)(A) The provisions of this subsection shall apply to aircraft entering the airspace of units of the National Park System identified in section 2(b) and section 3 of Public Law 100–91 for the specific purpose of providing commercial tour services within the airspace of such units.
 
@@ -90,7 +90,7 @@ A prior section 4 of Pub. L. 88–578 was renumbered section 5 and is classified
 
 **2005**—Pub. L. 109–54, §132(a), amended Pub. L. 108–447, §813(a). See 2004 Amendment notes below.
 
-Subsec. (i)(1)(C)(i). Pub. L. 109–54, §132(b), substituted “Notwithstanding section 107” for “Notwithstanding subparagraph (A), section 315(c) of section 101(c) of the Omnibus Consolidated Recessions and Appropriations Act of 1996 (16 U.S.C. 460l–6a note; Public Law 104–134), or section 107” and “account under section 6806(a) of this title” for “account under subparagraph (A)”.
+Subsec. (i)(1)(C)(i). Pub. L. 109–54, §132(b), substituted "Notwithstanding section 107" for "Notwithstanding subparagraph (A), section 315(c) of section 101(c) of the Omnibus Consolidated Recessions and Appropriations Act of 1996 (16 U.S.C. 460l–6a note; Public Law 104–134), or section 107" and "account under section 6806(a) of this title" for "account under subparagraph (A)".
 
 **2004**—Subsecs. (a) to (g). Pub. L. 108–447, §813(a), as amended by Pub. L. 109–54, §132(a), struck out subsec. (a) relating to admission fees, Golden Eagle and Golden Age Passports, and permits, subsec. (b) relating to recreation use fees, collection, campgrounds at lakes or reservoirs, and fees for Golden Age passport permittees, subsec. (c) relating to special recreation permits, subsec. (d) relating to criteria, posting, and uniformity of fees, subsec. (e) relating to establishment of rules and regulations, enforcement powers, and penalty for violations, subsec. (f) relating to contracts with any public or private entity to provide visitor registration services, and subsec. (g) relating to effect on Federal and State laws.
 
@@ -98,69 +98,69 @@ Subsec. (i). Pub. L. 108–447, §813(a), as amended by Pub. L. 109–54, §132(
 
 **1998**—Subsec. (i)(1)(C). Pub. L. 105–327 added subpar. (C).
 
-**1995**—Subsec. (h). Pub. L. 104–66 struck out subsec. (h) which read as follows: “Periodic reports indicating the number and location of fee collection areas, the number and location of potential fee collection areas, capacity and visitation information, the fees collected, and other pertinent data, shall be coordinated and compiled by the Bureau of Outdoor Recreation and transmitted to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. Such reports, which shall be transmitted no later than March 31 annually, shall include any recommendations which the Bureau may have with respect to improving this aspect of the land and water conservation fund program.”
+**1995**—Subsec. (h). Pub. L. 104–66 struck out subsec. (h) which read as follows: "Periodic reports indicating the number and location of fee collection areas, the number and location of potential fee collection areas, capacity and visitation information, the fees collected, and other pertinent data, shall be coordinated and compiled by the Bureau of Outdoor Recreation and transmitted to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. Such reports, which shall be transmitted no later than March 31 annually, shall include any recommendations which the Bureau may have with respect to improving this aspect of the land and water conservation fund program."
 
-**1994**—Subsec. (h). Pub. L. 103–437 substituted “Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate” for “Committees on Interior and Insular Affairs of the United States House of Representatives and United States Senate”.
+**1994**—Subsec. (h). Pub. L. 103–437 substituted "Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate" for "Committees on Interior and Insular Affairs of the United States House of Representatives and United States Senate".
 
-**1993**—Subsec. (a). Pub. L. 103–66, §10001(a), in first sentence inserted “or National Conservation Areas” after “National Park System” and “, National Monuments, National Volcanic Monuments, National Scenic Areas, and no more than 21 areas of concentrated public use” after “National Recreation Areas” and inserted new second sentence defining “area of concentrated public use”.
+**1993**—Subsec. (a). Pub. L. 103–66, §10001(a), in first sentence inserted "or National Conservation Areas" after "National Park System" and ", National Monuments, National Volcanic Monuments, National Scenic Areas, and no more than 21 areas of concentrated public use" after "National Recreation Areas" and inserted new second sentence defining "area of concentrated public use".
 
-Subsec. (a)(1)(A). Pub. L. 103–66, §10002(d), (e), designated existing provisions as cl. (i), substituted “The annual permit shall be valid for a period of 12 months from the date the annual fee is paid” for “The annual permit shall be valid during the calendar year for which the annual fee is paid”, and added cl. (ii).
+Subsec. (a)(1)(A). Pub. L. 103–66, §10002(d), (e), designated existing provisions as cl. (i), substituted "The annual permit shall be valid for a period of 12 months from the date the annual fee is paid" for "The annual permit shall be valid during the calendar year for which the annual fee is paid", and added cl. (ii).
 
-Subsec. (a)(4). Pub. L. 103–66, §10001(b), substituted “for a one-time charge of $10” for “without charge”.
+Subsec. (a)(4). Pub. L. 103–66, §10001(b), substituted "for a one-time charge of $10" for "without charge".
 
-Subsec. (b). Pub. L. 103–66, §10002(a)(1), in first sentence, substituted “or toilet facilities, nor shall there be any such charge solely for the use of picnic tables: *Provided*, That in no event shall there be a charge for the use of any campground not having a majority of the following: tent or trailer spaces, picnic tables, drinking water, access road, refuse containers, toilet facilities, personal collection of the fee by an employee or agent of the Federal agency operating the facility, reasonable visitor protection, and simple devices for containing a campfire (where campfires are permitted).” for “toilet facilities, picnic tables, or boat ramps: *Provided, however*, That a fee shall be charged for boat launching facilities only where specialized facilities or services such as mechanical or hydraulic boat lifts or facilities are provided: *And provided further*, That in no event shall there be a charge for the use of any campground not having the following—tent or trailer spaces, drinking water, access road, refuse containers, toilet facilities, personal collection of the fee by an employee or agent of the Federal agency operating the facility, reasonable visitor protection, and simple devices for containing a campfire (where campfires are permitted).”, and inserted new second sentence defining “specialized outdoor recreation sites”.
+Subsec. (b). Pub. L. 103–66, §10002(a)(1), in first sentence, substituted "or toilet facilities, nor shall there be any such charge solely for the use of picnic tables: *Provided*, That in no event shall there be a charge for the use of any campground not having a majority of the following: tent or trailer spaces, picnic tables, drinking water, access road, refuse containers, toilet facilities, personal collection of the fee by an employee or agent of the Federal agency operating the facility, reasonable visitor protection, and simple devices for containing a campfire (where campfires are permitted)." for "toilet facilities, picnic tables, or boat ramps: *Provided, however*, That a fee shall be charged for boat launching facilities only where specialized facilities or services such as mechanical or hydraulic boat lifts or facilities are provided: *And provided further*, That in no event shall there be a charge for the use of any campground not having the following—tent or trailer spaces, drinking water, access road, refuse containers, toilet facilities, personal collection of the fee by an employee or agent of the Federal agency operating the facility, reasonable visitor protection, and simple devices for containing a campfire (where campfires are permitted).", and inserted new second sentence defining "specialized outdoor recreation sites".
 
-Pub. L. 102–66, §§5001(b) and 10002(a)(2), amended subsec. (b) identically, striking out second sentence which read as follows: “At each lake or reservoir under the jurisdiction of the Corps of Engineers, United States Army, where camping is permitted, such agency shall provide at least one primitive campground, containing designated campsites, sanitary facilities, and vehicular access, where no charge shall be imposed.”
+Pub. L. 102–66, §§5001(b) and 10002(a)(2), amended subsec. (b) identically, striking out second sentence which read as follows: "At each lake or reservoir under the jurisdiction of the Corps of Engineers, United States Army, where camping is permitted, such agency shall provide at least one primitive campground, containing designated campsites, sanitary facilities, and vehicular access, where no charge shall be imposed."
 
 Subsec. (i)(1). Pub. L. 103–66, §10002(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (n). Pub. L. 103–66, §10002(c), added subsec. (n).
 
-**1987**—Subsec. (a)(1). Pub. L. 100–203, §5201(a)(1), (2), designated existing provisions as subpar. (A) and substituted “$25” for “$10”, and added subpar. (B).
+**1987**—Subsec. (a)(1). Pub. L. 100–203, §5201(a)(1), (2), designated existing provisions as subpar. (A) and substituted "$25" for "$10", and added subpar. (B).
 
-Subsec. (a)(2). Pub. L. 100–203, §5201(a)(3), inserted at end “The fee for a single-visit permit at any designated area applicable to those persons entering by private, noncommercial vehicle shall be no more than $5 per vehicle. The single-visit permit shall admit the permittee and all persons accompanying him in a single vehicle. The fee for a single-visit permit at any designated area applicable to those persons entering by any means other than a private noncommercial vehicle shall be no more than $3 per person. Except as otherwise provided in this subsection, the maximum fee amounts set forth in this paragraph shall apply to all designated areas.”
+Subsec. (a)(2). Pub. L. 100–203, §5201(a)(3), inserted at end "The fee for a single-visit permit at any designated area applicable to those persons entering by private, noncommercial vehicle shall be no more than $5 per vehicle. The single-visit permit shall admit the permittee and all persons accompanying him in a single vehicle. The fee for a single-visit permit at any designated area applicable to those persons entering by any means other than a private noncommercial vehicle shall be no more than $3 per person. Except as otherwise provided in this subsection, the maximum fee amounts set forth in this paragraph shall apply to all designated areas."
 
-Subsec. (a)(3). Pub. L. 100–203, §5201(a)(4), inserted at end “Notwithstanding any other provision of this part, no admission fee may be charged at any unit of the National Park System which provides significant outdoor recreation opportunities in an urban environment and to which access is publicly available at multiple locations.”
+Subsec. (a)(3). Pub. L. 100–203, §5201(a)(4), inserted at end "Notwithstanding any other provision of this part, no admission fee may be charged at any unit of the National Park System which provides significant outdoor recreation opportunities in an urban environment and to which access is publicly available at multiple locations."
 
 Subsec. (a)(6) to (12). Pub. L. 100–203, §5201(a)(5), added pars. (6) to (12).
 
-Subsec. (f). Pub. L. 100–203, §5201(b), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Except as otherwise provided by law or as may be required by lawful contracts entered into prior to September 3, 1964, providing that revenues collected at particular Federal areas shall be credited to specific purposes, all fees which are collected by any Federal agency shall be covered into a special account in the Treasury of the United States to be administered in conjunction with, but separate from, the revenues in the Land and Water Conservation Fund: *Provided*, That the head of any Federal agency, under such terms and conditions as he deems appropriate, may contract with any public or private entity to provide visitor reservation services; and any such contract may provide that the contractor shall be permitted to deduct a commission to be fixed by the agency head from the amount charged the public for providing such services and to remit the net proceeds therefrom to the contracting agency. Revenues in the special account shall be available for appropriation, without prejudice to appropriations from other sources for the same purposes, for any authorized outdoor recreation function of the agency by which the fees were collected: *Provided, however*, That not more than forty per centum of the amount so credited may be appropriated during the five fiscal years following the enactment of this Act for the enhancement of the fee collection system established by this section, including the promotion and enforcement thereof.”
+Subsec. (f). Pub. L. 100–203, §5201(b), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "Except as otherwise provided by law or as may be required by lawful contracts entered into prior to September 3, 1964, providing that revenues collected at particular Federal areas shall be credited to specific purposes, all fees which are collected by any Federal agency shall be covered into a special account in the Treasury of the United States to be administered in conjunction with, but separate from, the revenues in the Land and Water Conservation Fund: *Provided*, That the head of any Federal agency, under such terms and conditions as he deems appropriate, may contract with any public or private entity to provide visitor reservation services; and any such contract may provide that the contractor shall be permitted to deduct a commission to be fixed by the agency head from the amount charged the public for providing such services and to remit the net proceeds therefrom to the contracting agency. Revenues in the special account shall be available for appropriation, without prejudice to appropriations from other sources for the same purposes, for any authorized outdoor recreation function of the agency by which the fees were collected: *Provided, however*, That not more than forty per centum of the amount so credited may be appropriated during the five fiscal years following the enactment of this Act for the enhancement of the fee collection system established by this section, including the promotion and enforcement thereof."
 
 Subsecs. (i) to (m). Pub. L. 100–203, §5201(c), added subsecs. (i) to (m).
 
-**1980**—Subsec. (a)(2). Pub. L. 96–344, §9(1), substituted provision defining “single visit” as a more or less continuous stay within a designated area and providing that payment of a single visit admission authorizes exits from and reentries to a single designated area for a period of from one to fifteen days, such period to be determined by the administrating Secretary, for provision defining “single visit” as the length of time a visitor remained within the exterior boundary of a designated fee area beginning from the first day he entered until he left, except that on the same day the admission fee was paid, the visitor could leave and reenter without paying an additional admission fee.
+**1980**—Subsec. (a)(2). Pub. L. 96–344, §9(1), substituted provision defining "single visit" as a more or less continuous stay within a designated area and providing that payment of a single visit admission authorizes exits from and reentries to a single designated area for a period of from one to fifteen days, such period to be determined by the administrating Secretary, for provision defining "single visit" as the length of time a visitor remained within the exterior boundary of a designated fee area beginning from the first day he entered until he left, except that on the same day the admission fee was paid, the visitor could leave and reenter without paying an additional admission fee.
 
 Subsec. (a)(5). Pub. L. 96–344, §9(2), added par. (5).
 
-Subsec. (b). Pub. L. 96–344, §9(3), inserted “, or permittee under paragraph (5) of subsection (a) of this section,” after “Passport permittee”.
+Subsec. (b). Pub. L. 96–344, §9(3), inserted ", or permittee under paragraph (5) of subsection (a) of this section," after "Passport permittee".
 
-**1974**—Subsec. (a). Pub. L. 93–303, §1(b), inserted “which are operated and maintained by a Federal agency and” after “areas”.
+**1974**—Subsec. (a). Pub. L. 93–303, §1(b), inserted "which are operated and maintained by a Federal agency and" after "areas".
 
-Subsec. (a)(1). Pub. L. 93–303, §1(c), among other changes, substituted “The permittee” for “Any person purchasing the annual permit”, inserted provisions authorizing the permittee and his spouse, children, and parents accompanying him to enter an area where entry is by any means other than private, noncommercial vehicles, changed provisions which relate to the purchase of the annual permit to allow its sale at any designated area instead of through the offices of the Secretary of the Interior and the Secretary of Agriculture, through all post offices of the first- and second-class, and at such other offices as the Postmaster General directed, and struck out provisions which empowered the Secretary of the Interior to transfer to the Postal Service from the permit receipts such funds as are adequate to reimburse the Postal Service for the cost of the service.
+Subsec. (a)(1). Pub. L. 93–303, §1(c), among other changes, substituted "The permittee" for "Any person purchasing the annual permit", inserted provisions authorizing the permittee and his spouse, children, and parents accompanying him to enter an area where entry is by any means other than private, noncommercial vehicles, changed provisions which relate to the purchase of the annual permit to allow its sale at any designated area instead of through the offices of the Secretary of the Interior and the Secretary of Agriculture, through all post offices of the first- and second-class, and at such other offices as the Postmaster General directed, and struck out provisions which empowered the Secretary of the Interior to transfer to the Postal Service from the permit receipts such funds as are adequate to reimburse the Postal Service for the cost of the service.
 
-Subsec. (a)(2). Pub. L. 93–303, §1(d), struck out “or who enter such an area by means other than by private, noncommercial vehicle” after “annual permit” in first sentence. See subsec. (a)(1) of this section.
+Subsec. (a)(2). Pub. L. 93–303, §1(d), struck out "or who enter such an area by means other than by private, noncommercial vehicle" after "annual permit" in first sentence. See subsec. (a)(1) of this section.
 
-Subsec. (a)(4). Pub. L. 93–303, §1(e), substituted “a lifetime admission permit” for “an annual entrance permit”, limited the issuance of this permit to citizens of, or persons domiciled in the United States, and inserted provisions to allow the permittee and his spouse and children accompanying him to enter an area which entry is by any means other than private, noncommercial vehicle.
+Subsec. (a)(4). Pub. L. 93–303, §1(e), substituted "a lifetime admission permit" for "an annual entrance permit", limited the issuance of this permit to citizens of, or persons domiciled in the United States, and inserted provisions to allow the permittee and his spouse and children accompanying him to enter an area which entry is by any means other than private, noncommercial vehicle.
 
-Subsec. (b). Pub. L. 93–303, §1(f), (g), among other changes, substituted “daily recreation use fee” for “special recreation use fees”, authorized a fee for boat launching facilities where specialized facilities or services such as mechanical or hydraulic boat lifts or facilities are provided, required the Corps of Engineers to provide at least one primitive campground where no charge shall be imposed at each lake or reservoir under its jurisdiction, incorporated provisions formerly in subsec. (b)(1) allowing any Golden Age Passport permittee to utilize the recreation facilities at a rate of 50 per centum of the established use fee, struck out the remainder of former subsec. (b)(1) which related to determination of daily use fees for overnight occupancy, and redesignated former subsec. (b)(2) as (c).
+Subsec. (b). Pub. L. 93–303, §1(f), (g), among other changes, substituted "daily recreation use fee" for "special recreation use fees", authorized a fee for boat launching facilities where specialized facilities or services such as mechanical or hydraulic boat lifts or facilities are provided, required the Corps of Engineers to provide at least one primitive campground where no charge shall be imposed at each lake or reservoir under its jurisdiction, incorporated provisions formerly in subsec. (b)(1) allowing any Golden Age Passport permittee to utilize the recreation facilities at a rate of 50 per centum of the established use fee, struck out the remainder of former subsec. (b)(1) which related to determination of daily use fees for overnight occupancy, and redesignated former subsec. (b)(2) as (c).
 
 Subsec. (c). Pub. L. 93–303, §1(g), redesignated subsec. (b)(2) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 93–303, §1(g), (h), redesignated subsec. (c) as (d), and substituted therein “a fee has been established pursuant to this section” for “an admission fee or special recreation use fee has been established”.
+Subsec. (d). Pub. L. 93–303, §1(g), (h), redesignated subsec. (c) as (d), and substituted therein "a fee has been established pursuant to this section" for "an admission fee or special recreation use fee has been established".
 
-Subsec. (e). Pub. L. 93–303, §1(g), (i), redesignated subsec. (d) as (e), and substituted therein “collection of any fee established pursuant to this section” for “collection of any entrance fee and/or special recreation use fee, as the case may be”.
+Subsec. (e). Pub. L. 93–303, §1(g), (i), redesignated subsec. (d) as (e), and substituted therein "collection of any fee established pursuant to this section" for "collection of any entrance fee and/or special recreation use fee, as the case may be".
 
 Subsec. (f). Pub. L. 93–303, §1(g), (j), redesignated subsec. (e) as (f), and inserted provisions therein empowering the head of any Federal agency to contract with any public or private entity to provide visitor reservation services.
 
 Subsecs. (g), (h). Pub. L. 93–303, §1(g), redesignated subsecs. (f) and (g) as (g) and (h), respectively.
 
-**1973**—Subsec. (a)(2). Pub. L. 93–81, §2, inserted definition of “single visit”.
+**1973**—Subsec. (a)(2). Pub. L. 93–81, §2, inserted definition of "single visit".
 
-Subsec. (b). Pub. L. 93–81, §1, inserted in opening paragraph the proviso that there shall be no charge for the day use or recreational use of facilities such as picnic areas, boat ramps, where no mechanical or hydraulic equipment is provided, drinking water, wayside exhibits, roads, trails, overlook sites, visitors’ centers, scenic drives and toilet facilities and that no fee be charged for access to or use of campground not having flush restrooms, showers, access and circulatory roads, sanitary disposal stations, visitor protection control, designated tent or trailer spaces, refuse containers and potable water.
+Subsec. (b). Pub. L. 93–81, §1, inserted in opening paragraph the proviso that there shall be no charge for the day use or recreational use of facilities such as picnic areas, boat ramps, where no mechanical or hydraulic equipment is provided, drinking water, wayside exhibits, roads, trails, overlook sites, visitors' centers, scenic drives and toilet facilities and that no fee be charged for access to or use of campground not having flush restrooms, showers, access and circulatory roads, sanitary disposal stations, visitor protection control, designated tent or trailer spaces, refuse containers and potable water.
 
 #### Effective Date of 2005 Amendment ####
 
-Pub. L. 109–54, title I, §132(d), Aug. 2, 2005, 119 Stat. 526, provided that: “This section [amending this section and section 6812 of this title and enacting provisions set out as a note under this section] and the amendments made by this section take effect as of December 8, 2004.”
+Pub. L. 109–54, title I, §132(d), Aug. 2, 2005, 119 Stat. 526, provided that: "This section [amending this section and section 6812 of this title and enacting provisions set out as a note under this section] and the amendments made by this section take effect as of December 8, 2004."
 
 #### Savings Provision for 2004 Amendment ####
 
@@ -168,7 +168,7 @@ For authority of Secretary to continue to issue Golden Eagle Passports, Golden A
 
 #### Construction ####
 
-Pub. L. 109–54, title I, §132(c), Aug. 2, 2005, 119 Stat. 526, provided that: “Except as provided in this section [amending this section and section 6812 of this title and enacting provisions set out as a note under this section], section 4(i)(1)(C) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–6a(i)(1)(C)) shall be applied and administered as if section 813(a) of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6812(a)) (and the amendments made by that section [Pub. L. 108–447, amending this section]) had not been enacted.”
+Pub. L. 109–54, title I, §132(c), Aug. 2, 2005, 119 Stat. 526, provided that: "Except as provided in this section [amending this section and section 6812 of this title and enacting provisions set out as a note under this section], section 4(i)(1)(C) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–6a(i)(1)(C)) shall be applied and administered as if section 813(a) of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6812(a)) (and the amendments made by that section [Pub. L. 108–447, amending this section]) had not been enacted."
 
 #### Transfer of Functions ####
 
@@ -178,59 +178,59 @@ Enforcement functions of Secretary or other official in Department of the Interi
 
 Pub. L. 106–176, title III, §310, Mar. 10, 2000, 114 Stat. 34, provided that:
 
-“(a) The Secretary of the Interior is authorized to retain and expend revenues from entrance and recreation use fees at units of the National Park System where such fees are collected under section 4 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–6a), notwithstanding the provisions of section 4(i) of such Act. Fees shall be retained and expended in the same manner and for the same purposes as provided under the Recreational Fee Demonstration Program (section 315 of Public Law 104–134, as amended (16 U.S.C. 460l–6a note)[)].
+"(a) The Secretary of the Interior is authorized to retain and expend revenues from entrance and recreation use fees at units of the National Park System where such fees are collected under section 4 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–6a), notwithstanding the provisions of section 4(i) of such Act. Fees shall be retained and expended in the same manner and for the same purposes as provided under the Recreational Fee Demonstration Program (section 315 of Public Law 104–134, as amended (16 U.S.C. 460l–6a note)[)].
 
-“(b) Nothing in this section shall affect the collection of fees at units of the National Park System designated as fee demonstration projects under the Recreational Fee Demonstration Program.
+"(b) Nothing in this section shall affect the collection of fees at units of the National Park System designated as fee demonstration projects under the Recreational Fee Demonstration Program.
 
-“(c) The authorities in this section shall expire upon the termination of the Recreational Fee Demonstration Program.”
+"(c) The authorities in this section shall expire upon the termination of the Recreational Fee Demonstration Program."
 
 #### Recreation User Fees ####
 
 Pub. L. 106–53, title II, §225, Aug. 17, 1999, 113 Stat. 297, provided that:
 
-“(a) Withholding of Amounts.—
+"(a) Withholding of Amounts.—
 
-“(1) In general.—During fiscal years 1999 through 2002, the Secretary [of the Army] may withhold from the special account established under section 4(i)(1)(A) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–6a(i)(1)(A)) 100 percent of the amount of receipts above a baseline of $34,000,000 per each fiscal year received from fees imposed at recreation sites under the administrative jurisdiction of the Department of the Army under section 4(b) of that Act (16 U.S.C. 460l–6a(b)).
+"(1) In general.—During fiscal years 1999 through 2002, the Secretary [of the Army] may withhold from the special account established under section 4(i)(1)(A) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–6a(i)(1)(A)) 100 percent of the amount of receipts above a baseline of $34,000,000 per each fiscal year received from fees imposed at recreation sites under the administrative jurisdiction of the Department of the Army under section 4(b) of that Act (16 U.S.C. 460l–6a(b)).
 
-“(2) Use.—The amounts withheld shall be retained by the Secretary and shall be available, without further Act of appropriation, for expenditure by the Secretary in accordance with subsection (b).
+"(2) Use.—The amounts withheld shall be retained by the Secretary and shall be available, without further Act of appropriation, for expenditure by the Secretary in accordance with subsection (b).
 
-“(3) Availability.—The amounts withheld shall remain available until September 30, 2005.
+"(3) Availability.—The amounts withheld shall remain available until September 30, 2005.
 
-“(b) Use of Amounts Withheld.—In order to increase the quality of the visitor experience at public recreational areas and to enhance the protection of resources, the amounts withheld under subsection (a) may be used only for—
+"(b) Use of Amounts Withheld.—In order to increase the quality of the visitor experience at public recreational areas and to enhance the protection of resources, the amounts withheld under subsection (a) may be used only for—
 
-“(1) repair and maintenance projects (including projects relating to health and safety);
+"(1) repair and maintenance projects (including projects relating to health and safety);
 
-“(2) interpretation;
+"(2) interpretation;
 
-“(3) signage;
+"(3) signage;
 
-“(4) habitat or facility enhancement;
+"(4) habitat or facility enhancement;
 
-“(5) resource preservation;
+"(5) resource preservation;
 
-“(6) annual operation (including fee collection);
+"(6) annual operation (including fee collection);
 
-“(7) maintenance; and
+"(7) maintenance; and
 
-“(8) law enforcement related to public use.
+"(8) law enforcement related to public use.
 
-“(c) Availability.—Each amount withheld by the Secretary [of the Army] shall be available for expenditure, without further Act of appropriation, at the specific project from which the amount, above baseline, is collected.”
+"(c) Availability.—Each amount withheld by the Secretary [of the Army] shall be available for expenditure, without further Act of appropriation, at the specific project from which the amount, above baseline, is collected."
 
 #### Recreational Fee Demonstration Program ####
 
-Pub. L. 108–447, div. E, title III, §319, Dec. 8, 2004, 118 Stat. 3097, provided that: “A project undertaken by the Forest Service under the Recreation Fee Demonstration Program as authorized by section 315 of the Department of the Interior and Related Agencies Appropriations Act for Fiscal Year 1996, as amended [Pub. L. 104–134, title I, §101(c), formerly set out below], shall not result in—
+Pub. L. 108–447, div. E, title III, §319, Dec. 8, 2004, 118 Stat. 3097, provided that: "A project undertaken by the Forest Service under the Recreation Fee Demonstration Program as authorized by section 315 of the Department of the Interior and Related Agencies Appropriations Act for Fiscal Year 1996, as amended [Pub. L. 104–134, title I, §101(c), formerly set out below], shall not result in—
 
-“(1) displacement of the holder of an authorization to provide commercial recreation services on Federal lands. Prior to initiating any project, the Secretary shall consult with potentially affected holders to determine what impacts the project may have on the holders. Any modifications to the authorization shall be made within the terms and conditions of the authorization and authorities of the impacted agency; and
+"(1) displacement of the holder of an authorization to provide commercial recreation services on Federal lands. Prior to initiating any project, the Secretary shall consult with potentially affected holders to determine what impacts the project may have on the holders. Any modifications to the authorization shall be made within the terms and conditions of the authorization and authorities of the impacted agency; and
 
-“(2) the return of a commercial recreation service to the Secretary for operation when such services have been provided in the past by a private sector provider, except when—
+"(2) the return of a commercial recreation service to the Secretary for operation when such services have been provided in the past by a private sector provider, except when—
 
-“(A) the private sector provider fails to bid on such opportunities;
+"(A) the private sector provider fails to bid on such opportunities;
 
-“(B) the private sector provider terminates its relationship with the agency; or
+"(B) the private sector provider terminates its relationship with the agency; or
 
-“(C) the agency revokes the permit for non-compliance with the terms and conditions of the authorization.
+"(C) the agency revokes the permit for non-compliance with the terms and conditions of the authorization.
 
-In such cases, the agency may use the Recreation Fee Demonstration Program to provide for operations until a subsequent operator can be found through the offering of a new prospectus.”
+In such cases, the agency may use the Recreation Fee Demonstration Program to provide for operations until a subsequent operator can be found through the offering of a new prospectus."
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -244,7 +244,7 @@ Pub. L. 106–291, title III, §334, Oct. 11, 2000, 114 Stat. 997.
 
 Pub. L. 106–113, div. B, §1000(a)(3) [title III, §344], Nov. 29, 1999, 113 Stat. 1535, 1501A–203.
 
-Pub. L. 105–83, title I, §107, Nov. 14, 1997, 111 Stat. 1561, provided that: “In fiscal year 1998 and thereafter, for those years in which the recreation fee demonstration program authorized in Public Law 104–134 [set out below] is in effect, the fee collection support authority provided in 16 U.S.C. 460l–6(i)(1)(B) applies only to parks not included in the fee demonstration program, and that the amount retained under this authority to cover fee collection costs will not exceed those costs at the non-demonstration parks, or 15 percent of all fees collected at non-demonstration parks in a fiscal year whichever is less. Fee collection costs for parks included in the fee demonstration program will be covered by the fees retained at those parks.”
+Pub. L. 105–83, title I, §107, Nov. 14, 1997, 111 Stat. 1561, provided that: "In fiscal year 1998 and thereafter, for those years in which the recreation fee demonstration program authorized in Public Law 104–134 [set out below] is in effect, the fee collection support authority provided in 16 U.S.C. 460l–6(i)(1)(B) applies only to parks not included in the fee demonstration program, and that the amount retained under this authority to cover fee collection costs will not exceed those costs at the non-demonstration parks, or 15 percent of all fees collected at non-demonstration parks in a fiscal year whichever is less. Fee collection costs for parks included in the fee demonstration program will be covered by the fees retained at those parks."
 
 Pub. L. 104–134, title I, §101(c) [title III, §315], Apr. 26, 1996, 110 Stat. 1321–156, 1321–200; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, as amended by Pub. L. 104–208, div. A, title I, §101(d) [title I, title III, §319], Sept. 30, 1996, 110 Stat. 3009–181, 3009–187, 3009–223; Pub. L. 105–18, title II, §5001, June 12, 1997, 111 Stat. 181; Pub. L. 105–83, title III, §320, Nov. 14, 1997, 111 Stat. 1596; Pub. L. 105–277, div. A, §101(e) [title III, §327], Oct. 21, 1998, 112 Stat. 2681–231, 2681–291; Pub. L. 106–291, title III, §336, Oct. 11, 2000, 114 Stat. 997; Pub. L. 107–63, title III, §312, Nov. 5, 2001, 115 Stat. 466; Pub. L. 108–108, title III, §332, Nov. 10, 2003, 117 Stat. 1309; Pub. L. 108–447, div. E, title III, §331, Dec. 8, 2004, 118 Stat. 3099, directed the Secretary of the Interior and Secretary of Agriculture to implement fee programs to demonstrate the feasibility of user-generated cost recovery for operation and maintenance of recreation areas or sites and habitat enhancement projects on Federal lands and to establish various requirements for carrying out the pilot programs, prior to repeal by Pub. L. 108–447, div. J, title VIII, §813(b), Dec. 8, 2004, 118 Stat. 3390.
 
@@ -254,14 +254,14 @@ Pub. L. 100–203, title V, §5201(e), Dec. 22, 1987, 101 Stat. 1330–267, dire
 
 #### Prohibition on Entrance Fee at Statue of Liberty National Monument ####
 
-Pub. L. 100–55, June 19, 1987, 101 Stat. 371, provided: “That, notwithstanding any other provision of law, after the date of enactment of this Act [June 19, 1987], the Secretary of the Interior shall not charge any entrance or admission fee at the Statue of Liberty National Monument, New Jersey and New York.”
+Pub. L. 100–55, June 19, 1987, 101 Stat. 371, provided: "That, notwithstanding any other provision of law, after the date of enactment of this Act [June 19, 1987], the Secretary of the Interior shall not charge any entrance or admission fee at the Statue of Liberty National Monument, New Jersey and New York."
 
-#### Establishment and Collection of Use or Royalty Fees for Manufacture, Reproduction, or Use of “Golden Eagle Insignia” ####
+#### Establishment and Collection of Use or Royalty Fees for Manufacture, Reproduction, or Use of "Golden Eagle Insignia" ####
 
-Pub. L. 92–347, §3(a), July 11, 1972, 86 Stat. 461, provided that: “The Secretary of the Interior may establish and collect use or royalty fees for the manufacture, reproduction, or use of ‘The Golden Eagle Insignia’, originated by the Department of the Interior and announced in the December 3, 1970, issue of the Federal Register (35 Federal Register 18376) as the official symbol for Federal recreation areas designated for recreation fee collection. Any fees collected pursuant to this subsection shall be covered into the Land and Water Conservation Fund.”
+Pub. L. 92–347, §3(a), July 11, 1972, 86 Stat. 461, provided that: "The Secretary of the Interior may establish and collect use or royalty fees for the manufacture, reproduction, or use of 'The Golden Eagle Insignia', originated by the Department of the Interior and announced in the December 3, 1970, issue of the Federal Register (35 Federal Register 18376) as the official symbol for Federal recreation areas designated for recreation fee collection. Any fees collected pursuant to this subsection shall be covered into the Land and Water Conservation Fund."
 
-#### Termination of Rights in “Golden Eagle Insignia” ####
+#### Termination of Rights in "Golden Eagle Insignia" ####
 
-Pub. L. 92–347, §3(d), July 11, 1972, 86 Stat. 462, provided that: “The rights in ‘The Golden Eagle Insignia’ under this Act [which enacted this section and section 715 of title 18, enacted notes set out hereunder, and repealed note set out under section 460l–5 of this title], shall terminate if the use by the Secretary of the Interior of ‘The Golden Eagle Insignia’ is abandoned. Nonuse for a continuous period of two years shall constitute abandonment.”
+Pub. L. 92–347, §3(d), July 11, 1972, 86 Stat. 462, provided that: "The rights in 'The Golden Eagle Insignia' under this Act [which enacted this section and section 715 of title 18, enacted notes set out hereunder, and repealed note set out under section 460l–5 of this title], shall terminate if the use by the Secretary of the Interior of 'The Golden Eagle Insignia' is abandoned. Nonuse for a continuous period of two years shall constitute abandonment."
 
 [<sup>1</sup> See References in Text note below.](#460l-6a_1)

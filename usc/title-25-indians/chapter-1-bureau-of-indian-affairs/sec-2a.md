@@ -6,13 +6,13 @@ Assistant or deputy commissioners of the Bureau of Indian Affairs, in the Depart
 
 #### Codification ####
 
-“Chapter 51 and subchapter III of chapter 53 of title 5” and “section 3101 of title 5” substituted in text for “the Classification Act of 1949, as amended” and “section 169 of the Revised Statutes, as amended (5 U.S.C., sec. 43)”, respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+"Chapter 51 and subchapter III of chapter 53 of title 5" and "section 3101 of title 5" substituted in text for "the Classification Act of 1949, as amended" and "section 169 of the Revised Statutes, as amended (5 U.S.C., sec. 43)", respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 Section embodies only those provisions of section 1 of act June 5, 1942, which relate to the Bureau of Indian Affairs. Provisions of section 1 of such act relating to the General Land Office were classified to section 3a of Title 43, Public Lands, and were omitted from the Code pursuant to Reorg. Plan No. 3 of 1946.
 
 #### Amendments ####
 
-**1949**—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+**1949**—Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
 #### Repeals ####
 
@@ -20,7 +20,7 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 #### Repeal of Inconsistent Laws ####
 
-Act June 5, 1942, ch. 336, §2, 56 Stat. 312, provided that: “All provisions of law inconsistent with this Act [this section] are hereby repealed to the extent of such inconsistency.”
+Act June 5, 1942, ch. 336, §2, 56 Stat. 312, provided that: "All provisions of law inconsistent with this Act [this section] are hereby repealed to the extent of such inconsistency."
 
 #### Transfer of Functions ####
 

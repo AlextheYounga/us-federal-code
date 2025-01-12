@@ -14,4 +14,4 @@ Changes were made in phraseology.
 
 #### Amendments ####
 
-**1971**—Pub. L. 92–143 inserted “completion of the ginning season, but not later than the”.
+**1971**—Pub. L. 92–143 inserted "completion of the ginning season, but not later than the".

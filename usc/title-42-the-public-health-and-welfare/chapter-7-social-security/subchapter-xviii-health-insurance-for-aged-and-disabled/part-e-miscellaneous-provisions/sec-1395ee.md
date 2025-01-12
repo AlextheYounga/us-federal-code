@@ -6,7 +6,7 @@
 
 #### (1) Establishment ####
 
-The Secretary shall establish a Council for Technology and Innovation within the Centers for Medicare & Medicaid Services (in this section referred to as “CMS”).
+The Secretary shall establish a Council for Technology and Innovation within the Centers for Medicare & Medicaid Services (in this section referred to as "CMS").
 
 #### (2) Composition ####
 
@@ -30,9 +30,9 @@ A prior section 1395ee, act Aug. 14, 1935, ch. 531, title XVIII, §1868, as adde
 
 **2010**—Subsec. (a). Pub. L. 111–148 struck out subsec. (a) which related to the Practicing Physicians Advisory Council.
 
-**2003**—Pub. L. 108–173, §942(a)(1), inserted “; Council for Technology and Innovation” in section catchline.
+**2003**—Pub. L. 108–173, §942(a)(1), inserted "; Council for Technology and Innovation" in section catchline.
 
-Subsec. (a). Pub. L. 108–173, §942(a)(2)–(4), inserted subsec. heading, redesignated existing provisions as par. (1), substituted “in this subsection” for “in this section”, and redesignated former subsecs. (b) and (c) as pars. (2) and (3), respectively.
+Subsec. (a). Pub. L. 108–173, §942(a)(2)–(4), inserted subsec. heading, redesignated existing provisions as par. (1), substituted "in this subsection" for "in this section", and redesignated former subsecs. (b) and (c) as pars. (2) and (3), respectively.
 
 Subsec. (b). Pub. L. 108–173, §942(a)(5), added subsec. (b). Former subsec. (b) redesignated par. (2) of subsec. (a).
 

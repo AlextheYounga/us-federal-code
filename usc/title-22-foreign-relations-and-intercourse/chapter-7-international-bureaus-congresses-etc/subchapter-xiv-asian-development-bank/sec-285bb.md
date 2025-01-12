@@ -4,7 +4,7 @@
 
 #### (1) In general ####
 
-The United States Governor of the Bank may contribute on behalf of the United States an amount equal to the amount appropriated under subsection (b) of this section, pursuant to the resolution of the Bank entitled “Seventh Replenishment of the Asian Development Fund”.
+The United States Governor of the Bank may contribute on behalf of the United States an amount equal to the amount appropriated under subsection (b) of this section, pursuant to the resolution of the Bank entitled "Seventh Replenishment of the Asian Development Fund".
 
 #### (2) Subject to appropriations ####
 

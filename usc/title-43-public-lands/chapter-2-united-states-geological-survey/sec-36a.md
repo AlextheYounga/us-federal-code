@@ -6,7 +6,7 @@ The Director of the United States Geological Survey, under the general supervisi
 
 #### Change of Name ####
 
-“United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of this title.
+"United States Geological Survey" substituted in text for "Geological Survey" pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of this title.
 
 #### Transfer of Functions ####
 

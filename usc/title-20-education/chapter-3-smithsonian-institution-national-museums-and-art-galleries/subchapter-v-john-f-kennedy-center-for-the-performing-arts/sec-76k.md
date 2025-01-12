@@ -50,9 +50,9 @@ The actions of the Board relating to performing arts and to payments made or dir
 
 #### (f) Collective bargaining ####
 
-#### (1) “Theatrical employee” defined ####
+#### (1) "Theatrical employee" defined ####
 
-As used in this subsection, the term “theatrical employee” means a nonappropriated fund employee of the Board, who is engaged in a box office, performing, or theatrical trade that is the subject of a collective bargaining agreement as of January 1, 1994, including any change in the trade as a result of a technological advance.
+As used in this subsection, the term "theatrical employee" means a nonappropriated fund employee of the Board, who is engaged in a box office, performing, or theatrical trade that is the subject of a collective bargaining agreement as of January 1, 1994, including any change in the trade as a result of a technological advance.
 
 #### (2) Collective bargaining ####
 
@@ -60,9 +60,9 @@ As used in this subsection, the term “theatrical employee” means a nonapprop
 
 For the purposes of the National Labor Relations Act (29 U.S.C. 151 et seq.) and the Labor-Management Relations Act, 1947 (29 U.S.C. 141 et seq.)—
 
-(i) each theatrical employee shall be considered to be an “employee” within the meaning of section 2(3) of the National Labor Relations Act (29 U.S.C. 152(3)); and
+(i) each theatrical employee shall be considered to be an "employee" within the meaning of section 2(3) of the National Labor Relations Act (29 U.S.C. 152(3)); and
 
-(ii) with respect to a theatrical employee, the Board shall be considered to be an “employer” within the meaning of section 2(2) of the National Labor Relations Act (29 U.S.C. 152(2)).
+(ii) with respect to a theatrical employee, the Board shall be considered to be an "employer" within the meaning of section 2(2) of the National Labor Relations Act (29 U.S.C. 152(2)).
 
 #### (B) Rights and obligations ####
 
@@ -90,12 +90,12 @@ The Labor Management Relations Act, 1947, referred to in subsec. (f)(2), is act 
 
 **1994**—Pub. L. 103–279, §4(a)(1), substituted section catchline for former section catchline.
 
-Subsec. (a). Pub. L. 103–279, §4(a)(1), inserted heading and substituted “John F. Kennedy Center for the Performing Arts, as a bureau of the Smithsonian Institution,” for “Smithsonian Institution”.
+Subsec. (a). Pub. L. 103–279, §4(a)(1), inserted heading and substituted "John F. Kennedy Center for the Performing Arts, as a bureau of the Smithsonian Institution," for "Smithsonian Institution".
 
-Subsec. (b). Pub. L. 103–279, §4(b), inserted heading and amended text generally. Prior to amendment, text read as follows: “The Board shall appoint and fix the compensation and duties of a director, an assistant director, and a secretary of the John F. Kennedy Center for the Performing Arts and of such other officers and employees of the John F. Kennedy Center for the Performing Arts as may be necessary for the efficient administration of the functions of the Board. The director, assistant director, and secretary shall be well qualified by experience and training to perform the duties of their office.”
+Subsec. (b). Pub. L. 103–279, §4(b), inserted heading and amended text generally. Prior to amendment, text read as follows: "The Board shall appoint and fix the compensation and duties of a director, an assistant director, and a secretary of the John F. Kennedy Center for the Performing Arts and of such other officers and employees of the John F. Kennedy Center for the Performing Arts as may be necessary for the efficient administration of the functions of the Board. The director, assistant director, and secretary shall be well qualified by experience and training to perform the duties of their office."
 
-Subsec. (c). Pub. L. 103–279, §4(c), added heading and text of subsec. (c) and struck out text of former subsec. (c). Prior to amendment, text read as follows: “The actions of the Board, including any payment made or directed to be made by it from any trust funds, shall not be subject to review by any officer or agency other than a court of law.”
+Subsec. (c). Pub. L. 103–279, §4(c), added heading and text of subsec. (c) and struck out text of former subsec. (c). Prior to amendment, text read as follows: "The actions of the Board, including any payment made or directed to be made by it from any trust funds, shall not be subject to review by any officer or agency other than a court of law."
 
 Subsecs. (d) to (f). Pub. L. 103–279, §4(c), added subsecs. (d) to (f).
 
-**1964**—Subsecs. (a), (b). Pub. L. 88–260 substituted “John F. Kennedy Center for the Performing Arts” for “National Cultural Center” wherever appearing.
+**1964**—Subsecs. (a), (b). Pub. L. 88–260 substituted "John F. Kennedy Center for the Performing Arts" for "National Cultural Center" wherever appearing.

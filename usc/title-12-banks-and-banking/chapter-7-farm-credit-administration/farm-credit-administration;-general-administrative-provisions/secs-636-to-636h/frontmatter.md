@@ -4,7 +4,7 @@ Section 636, acts May 12, 1933, ch. 25, title II, §40, 48 Stat. 51; Sept. 6, 19
 
 Section 636a, act Aug. 6, 1953, ch. 335, §2, 67 Stat. 390, stated Congressional declaration of policy concerning agricultural credit. See section 2001 of this title.
 
-Section 636a note, act Aug. 6, 1953, ch. 335, §1, 67 Stat. 390, provided that such act Aug. 6, 1953, should be known as “Farm Credit Act of 1953”.
+Section 636a note, act Aug. 6, 1953, ch. 335, §1, 67 Stat. 390, provided that such act Aug. 6, 1953, should be known as "Farm Credit Act of 1953".
 
 Section 636b, act Aug. 6, 1953, ch. 335, §3, 67 Stat. 390, covered the creation of Farm Credit Administration as an independent agency in executive branch. See section 2241 et seq. of this title.
 

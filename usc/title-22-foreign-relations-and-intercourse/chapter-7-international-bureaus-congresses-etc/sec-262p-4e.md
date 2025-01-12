@@ -10,11 +10,11 @@ As used in this section:
 
 #### (1) Debt-for-development swap ####
 
-The term “debt-for-development swap” means the purchase of qualified debt by, or the donation of such debt to, an organization described in section 501(c)(3) of title 26 which is exempt from taxation under section 501(a) of title 26, and the subsequent transfer of such debt to an organization located in such foreign country in exchange for an undertaking by such tax-exempt organization, such foreign government, or such foreign organization to engage in a charitable, educational, or scientific activity.
+The term "debt-for-development swap" means the purchase of qualified debt by, or the donation of such debt to, an organization described in section 501(c)(3) of title 26 which is exempt from taxation under section 501(a) of title 26, and the subsequent transfer of such debt to an organization located in such foreign country in exchange for an undertaking by such tax-exempt organization, such foreign government, or such foreign organization to engage in a charitable, educational, or scientific activity.
 
 #### (2) Qualified debt ####
 
-The term “qualified debt” means—
+The term "qualified debt" means—
 
 (A) sovereign debt issued by a foreign government;
 

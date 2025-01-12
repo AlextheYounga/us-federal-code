@@ -108,7 +108,7 @@ To expend appropriated funds for—
 
 (C) any other related lodging or subsistence.
 
-*Provided*, That the exception of “banks, savings and loan institutions described in section 57a(f)(3) of this title, Federal credit unions described in section 57a(f)(4) of this title, and common carriers subject to the Act to regulate commerce” from the Commission's powers defined in subsections (a), (b), and (j) of this section, shall not be construed to limit the Commission's authority to gather and compile information, to investigate, or to require reports or answers from, any person, partnership, or corporation to the extent that such action is necessary to the investigation of any person, partnership, or corporation, group of persons, partnerships, or corporations, or industry which is not engaged or is engaged only incidentally in banking, in business as a savings and loan institution, in business as a Federal credit union, or in business as a common carrier subject to the Act to regulate commerce.
+*Provided*, That the exception of "banks, savings and loan institutions described in section 57a(f)(3) of this title, Federal credit unions described in section 57a(f)(4) of this title, and common carriers subject to the Act to regulate commerce" from the Commission's powers defined in subsections (a), (b), and (j) of this section, shall not be construed to limit the Commission's authority to gather and compile information, to investigate, or to require reports or answers from, any person, partnership, or corporation to the extent that such action is necessary to the investigation of any person, partnership, or corporation, group of persons, partnerships, or corporations, or industry which is not engaged or is engaged only incidentally in banking, in business as a savings and loan institution, in business as a Federal credit union, or in business as a common carrier subject to the Act to regulate commerce.
 
 The Commission shall establish a plan designed to substantially reduce burdens imposed upon small businesses as a result of requirements established by the Commission under clause (b) relating to the filing of quarterly financial reports. Such plan shall (1) be established after consultation with small businesses and persons who use the information contained in such quarterly financial reports; (2) provide for a reduction of the number of small businesses required to file such quarterly financial reports; and (3) make revisions in the forms used for such quarterly financial reports for the purpose of reducing the complexity of such forms. The Commission, not later than December 31, 1980, shall submit such plan to the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Energy and Commerce of the House of Representatives. Such plan shall take effect not later than October 31, 1981.
 
@@ -132,13 +132,13 @@ The International Antitrust Enforcement Assistance Act of 1994, referred to in s
 
 **2012**—Pub. L. 112–203, §1, amended Pub. L. 109–455, §13. See 2006 Amendment notes below.
 
-**2006**—Pub. L. 109–455, §4(d), which substituted “subsections (a), (b), and (j)” for “clauses (a) and (b)” in proviso following subsec. (l), was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. See Termination Date of 2006 Amendment note below.
+**2006**—Pub. L. 109–455, §4(d), which substituted "subsections (a), (b), and (j)" for "clauses (a) and (b)" in proviso following subsec. (l), was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. See Termination Date of 2006 Amendment note below.
 
-Subsec. (f). Pub. L. 109–455, §4(a), which inserted “(1)” after “disclose such information”, substituted “purposes, and” for “purposes.”, and added par. (2) providing for conditional disclosure to officers and employees of foreign law enforcement, was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. See Termination Date of 2006 Amendment note below.
+Subsec. (f). Pub. L. 109–455, §4(a), which inserted "(1)" after "disclose such information", substituted "purposes, and" for "purposes.", and added par. (2) providing for conditional disclosure to officers and employees of foreign law enforcement, was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. See Termination Date of 2006 Amendment note below.
 
 Subsecs. (j) to (l). Pub. L. 109–455, §4(b), which added subsecs. (j) to (l) relating to investigative assistance for foreign law enforcement agencies, referral of evidence for criminal proceedings, and expenditures for cooperative arrangements, respectively, was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. See Termination Date of 2006 Amendment note below.
 
-**1994**—Pub. L. 103–437, in first and third undesignated pars. following proviso after subsec. (h), substituted “Committee on Energy and Commerce” for “Committee on Interstate and Foreign Commerce”.
+**1994**—Pub. L. 103–437, in first and third undesignated pars. following proviso after subsec. (h), substituted "Committee on Energy and Commerce" for "Committee on Interstate and Foreign Commerce".
 
 Subsec. (i). Pub. L. 103–438 added subsec. (i).
 
@@ -148,19 +148,19 @@ Subsecs. (a), (b). Pub. L. 100–86, §715(a)(1), (2), inserted reference to Fed
 
 **1980**—Pub. L. 96–252, §§3(b)–5(a), inserted three undesignated paragraphs following proviso after subsec. (h) requiring the Commission to establish a plan to reduce burdens imposed upon small businesses by the quarterly financial reporting requirements under subsec. (b) of this section, prohibiting Commissioners and officers and employees of the Commission from publishing or disclosing information whereby line-of-business data furnished by particular establishments or individuals can be identified, and, with certain exceptions, making this section inapplicable to the business of insurance.
 
-Subsec. (f). Pub. L. 96–252, §3(a), substituted “as are” for “, except trade secrets and names of customers, as it shall deem expedient” and inserted proviso restricting Commission's authority to make public trade secrets or commercial or financial information which is obtained from any person and which is privileged or confidential.
+Subsec. (f). Pub. L. 96–252, §3(a), substituted "as are" for ", except trade secrets and names of customers, as it shall deem expedient" and inserted proviso restricting Commission's authority to make public trade secrets or commercial or financial information which is obtained from any person and which is privileged or confidential.
 
 **1979**—Pub. L. 96–37, §1(b)(3), in proviso following subsec. (h), inserted references to savings and loan institutions and to persons, partnerships, corporations, groups of persons, partnerships, or corporations or industries that are not engaged or are engaged only incidentally in business as savings and loan institutions.
 
 Subsecs. (a), (b). Pub. L. 96–37, §1(b)(1), (2), inserted reference to savings and loan institutions described in section 57a(f)(3) of this title.
 
-**1975**—Pub. L. 93–637, §203(a)(3), in proviso following subsec. (h), substituted “any person, partnership, or corporation to the extent that such action is necessary to the investigation of any person, partnership, or corporation, group of persons, partnerships, or corporations,” for “any such corporation to the extent that such action is necessary to the investigation of any corporation, group of corporations,”.
+**1975**—Pub. L. 93–637, §203(a)(3), in proviso following subsec. (h), substituted "any person, partnership, or corporation to the extent that such action is necessary to the investigation of any person, partnership, or corporation, group of persons, partnerships, or corporations," for "any such corporation to the extent that such action is necessary to the investigation of any corporation, group of corporations,".
 
-Subsec. (a). Pub. L. 93–637, §§201(b), 203(a)(1), substituted “in or whose business affects commerce” for “in commerce”, “person, partnership, or corporation” for “corporation”, and “persons, partnerships, and corporations” for “corporations and to individuals, associations, and partnerships”.
+Subsec. (a). Pub. L. 93–637, §§201(b), 203(a)(1), substituted "in or whose business affects commerce" for "in commerce", "person, partnership, or corporation" for "corporation", and "persons, partnerships, and corporations" for "corporations and to individuals, associations, and partnerships".
 
-Subsec. (b). Pub. L. 93–637, §§201(b), 203(a)(2), substituted “in or whose business affects commerce” for “in commerce”, “special orders, persons, partnerships, and corporations, engaged in or whose business affects commerce, excepting” for “special orders, corporations engaged in or whose business affects commerce, excepting”, and “respective persons, partnerships, and corporations” for “respective corporations”.
+Subsec. (b). Pub. L. 93–637, §§201(b), 203(a)(2), substituted "in or whose business affects commerce" for "in commerce", "special orders, persons, partnerships, and corporations, engaged in or whose business affects commerce, excepting" for "special orders, corporations engaged in or whose business affects commerce, excepting", and "respective persons, partnerships, and corporations" for "respective corporations".
 
-Subsec. (g). Pub. L. 93–637, §202(b), inserted “(except as provided in section 57a(a)(2) of this title)” before “to make rules and regulations”.
+Subsec. (g). Pub. L. 93–637, §202(b), inserted "(except as provided in section 57a(a)(2) of this title)" before "to make rules and regulations".
 
 **1973**—Pub. L. 93–153 inserted proviso following subsec. (h) that the Commission's investigatory powers to gather and compile information, investigate, and require reports or answers is not curtailed as regards banks and common carriers when the investigation in question is an investigation of a corporation, group of corporations, or industry not engaged or engaged only incidentally in banking or in business as a common carrier subject to the Act to regulate commerce notwithstanding provisions excepting banks and common carriers subject to the Act from the exercise of the Commission's power to investigate and require reports from corporations.
 
@@ -178,7 +178,7 @@ Amendment by Pub. L. 96–252 effective May 28, 1980, see section 23 of Pub. L. 
 
 #### Applicability of 1975 Amendment to Subsection (g) of This Section ####
 
-For applicability to rules promulgated or proposed under subsec. (g) of this section prior to Jan. 4, 1975, of amendment made to said subsec. (g) by section 202(b) of Act Jan. 4, 1975, see “Applicability” provisions of section 202(c) of Act Jan. 4, 1975, set out as a note under section 57a of this title.
+For applicability to rules promulgated or proposed under subsec. (g) of this section prior to Jan. 4, 1975, of amendment made to said subsec. (g) by section 202(b) of Act Jan. 4, 1975, see "Applicability" provisions of section 202(c) of Act Jan. 4, 1975, set out as a note under section 57a of this title.
 
 #### Transfer of Functions ####
 
@@ -186,7 +186,7 @@ For transfer of functions of Federal Trade Commission, with certain exceptions, 
 
 #### Study and Evaluation of Effectiveness of State Policies and Programs Relating to Regulation of Certain Health Insurance Policies ####
 
-Pub. L. 96–252, §5(b), May 28, 1980, 94 Stat. 376, provided that: “The amendment made in subsection (a) [adding undesignated paragraph authorizing studies and reports relating to the business of insurance] shall not be construed to prohibit the Federal Trade Commission from participating with the Secretary of Health and Human Services in a comprehensive study and evaluation of the comparative effectiveness of various State policies and programs relating to the regulation of health insurance policies available for purchase by individuals who are eligible for benefits under the program of health insurance benefits established in title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.].”
+Pub. L. 96–252, §5(b), May 28, 1980, 94 Stat. 376, provided that: "The amendment made in subsection (a) [adding undesignated paragraph authorizing studies and reports relating to the business of insurance] shall not be construed to prohibit the Federal Trade Commission from participating with the Secretary of Health and Human Services in a comprehensive study and evaluation of the comparative effectiveness of various State policies and programs relating to the regulation of health insurance policies available for purchase by individuals who are eligible for benefits under the program of health insurance benefits established in title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.]."
 
 #### Ex. Ord. No. 10544. Inspection of Income Tax Returns by Federal Trade Commission ####
 

@@ -28,4 +28,4 @@ Section 2813, Pub. L. 93–629, §14, Jan. 3, 1975, 88 Stat. 2152, related to se
 
 #### Short Title ####
 
-Pub. L. 93–629, §1, Jan. 3, 1975, 88 Stat. 2148, provided: “That this Act [enacting this chapter] may be cited as the ‘Federal Noxious Weed Act of 1974’.”
+Pub. L. 93–629, §1, Jan. 3, 1975, 88 Stat. 2148, provided: "That this Act [enacting this chapter] may be cited as the 'Federal Noxious Weed Act of 1974'."

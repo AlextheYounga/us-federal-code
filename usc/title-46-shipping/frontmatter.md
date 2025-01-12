@@ -23,15 +23,15 @@ VIII. MISCELLANEOUS 80101
 
 #### Amendments ####
 
-**2006**—Pub. L. 109–304, §3, Oct. 6, 2006, 120 Stat. 1485, amended title analysis generally, adding item IV, substituting “50101” for “53101” in item V, adding item VI, substituting “SECURITY AND DRUG ENFORCEMENT” for “MISCELLANEOUS” in item VII, and adding item VIII.
+**2006**—Pub. L. 109–304, §3, Oct. 6, 2006, 120 Stat. 1485, amended title analysis generally, adding item IV, substituting "50101" for "53101" in item V, adding item VI, substituting "SECURITY AND DRUG ENFORCEMENT" for "MISCELLANEOUS" in item VII, and adding item VIII.
 
-Pub. L. 109–241, title IX, §901(k)(2), July 11, 2006, 120 Stat. 565, redesignated item VI “MISCELLANEOUS” as item VII.
+Pub. L. 109–241, title IX, §901(k)(2), July 11, 2006, 120 Stat. 565, redesignated item VI "MISCELLANEOUS" as item VII.
 
 **2003**—Pub. L. 108–136, div. C, title XXXV, §3531(b), Nov. 24, 2003, 117 Stat. 1817, added item V.
 
 **2002**—Pub. L. 107–295, title I, §102(b), Nov. 25, 2002, 116 Stat. 2084, added item VI.
 
-**1988**—Pub. L. 100–710, title I, §102(b), Nov. 23, 1988, 102 Stat. 4738, amended title analysis generally, substituting “GENERAL” for “[Reserved—general]” in item I and adding item III.
+**1988**—Pub. L. 100–710, title I, §102(b), Nov. 23, 1988, 102 Stat. 4738, amended title analysis generally, substituting "GENERAL" for "[Reserved—general]" in item I and adding item III.
 
 |      *Title 46 or Title 46 Appendix<br/><br/>Former Sections*       |              *Title 46<br/><br/>New Sections*               |
 |---------------------------------------------------------------------|-------------------------------------------------------------|
@@ -754,8 +754,8 @@ Pub. L. 109–241, title IX, §901(k)(2), July 11, 2006, 120 Stat. 565, redesign
 |                                 881                                 |                      3305, 3316, 12119                      |
 |                                 882                                 |                            3304                             |
 |                   883 (words before 1st proviso)                    |                            55102                            |
-|       883 (1st proviso, 2d proviso less meaning of “rebuilt”)       |                            12132                            |
-|          883 (2d proviso related to meaning of “rebuilt”)           |                            12101                            |
+|       883 (1st proviso, 2d proviso less meaning of "rebuilt")       |                            12132                            |
+|          883 (2d proviso related to meaning of "rebuilt")           |                            12101                            |
 |                          883 (3d proviso)                           |                            55116                            |
 |                          883 (4th proviso)                          |                            55119                            |
 |                          883 (5th proviso)                          |                            55117                            |
@@ -1382,88 +1382,88 @@ Pub. L. 109–241, title IX, §901(k)(2), July 11, 2006, 120 Stat. 565, redesign
 
 #### Enacting Clauses ####
 
-Pub. L. 100–710, title I, §102(a), Nov. 23, 1988, 102 Stat. 4738, provided that: “Certain general and permanent laws of the United States, related to definitions and maritime commercial instruments and liens, are revised, consolidated, and enacted by paragraph (3) of this subsection [probably means subsection (c) of this section] as subtitle III of title 46, United States Code, ‘Shipping’.”
+Pub. L. 100–710, title I, §102(a), Nov. 23, 1988, 102 Stat. 4738, provided that: "Certain general and permanent laws of the United States, related to definitions and maritime commercial instruments and liens, are revised, consolidated, and enacted by paragraph (3) of this subsection [probably means subsection (c) of this section] as subtitle III of title 46, United States Code, 'Shipping'."
 
-Pub. L. 98–89, §1, Aug. 26, 1983, 97 Stat. 500, provided in part that: “Certain general and permanent laws of the United States, related to vessels and seamen, are revised, consolidated, and enacted as title 46, United States Code, ‘Shipping’ ”.
+Pub. L. 98–89, §1, Aug. 26, 1983, 97 Stat. 500, provided in part that: "Certain general and permanent laws of the United States, related to vessels and seamen, are revised, consolidated, and enacted as title 46, United States Code, 'Shipping' ".
 
 #### Legislative Purpose and Construction ####
 
 Pub. L. 109–304, §2, Oct. 6, 2006, 120 Stat. 1485, provided that:
 
-“(a) Purpose.—The purpose of this Act [see Tables for classification] is to complete the codification of title 46, United States Code, “Shipping”, as positive law, by reorganizing and restating the laws currently in the appendix to title 46.
+"(a) Purpose.—The purpose of this Act [see Tables for classification] is to complete the codification of title 46, United States Code, "Shipping", as positive law, by reorganizing and restating the laws currently in the appendix to title 46.
 
-“(b) Conformity With Original Intent.—In the codification of laws by this Act, the intent is to conform to the understood policy, intent, and purpose of the Congress in the original enactments, with such amendments and corrections as will remove ambiguities, contradictions, and other imperfections, in accordance with section 205(c)(1) of House Resolution No. 988, 93d Congress, as enacted into law by Public Law 93–554 (2 U.S.C. 285b(1)).”
+"(b) Conformity With Original Intent.—In the codification of laws by this Act, the intent is to conform to the understood policy, intent, and purpose of the Congress in the original enactments, with such amendments and corrections as will remove ambiguities, contradictions, and other imperfections, in accordance with section 205(c)(1) of House Resolution No. 988, 93d Congress, as enacted into law by Public Law 93–554 (2 U.S.C. 285b(1))."
 
 Pub. L. 109–304, §18, Oct. 6, 2006, 120 Stat. 1709, provided that:
 
-“(a) Cutoff Date.—This Act [see Tables for classification] replaces certain provisions enacted on or before April 30, 2005. If a law enacted after that date amends or repeals a provision replaced by this Act, that law is deemed to amend or repeal, as the case may be, the corresponding provision enacted by this Act. If a law enacted after that date is otherwise inconsistent with this Act, it supersedes this Act to the extent of the inconsistency.
+"(a) Cutoff Date.—This Act [see Tables for classification] replaces certain provisions enacted on or before April 30, 2005. If a law enacted after that date amends or repeals a provision replaced by this Act, that law is deemed to amend or repeal, as the case may be, the corresponding provision enacted by this Act. If a law enacted after that date is otherwise inconsistent with this Act, it supersedes this Act to the extent of the inconsistency.
 
-“(b) Original Date of Enactment Unchanged.—For purposes of determining whether one provision supersedes another based on enactment later in time, the date of enactment of a provision enacted by this Act is deemed to be the date of enactment of the provision it replaced.
+"(b) Original Date of Enactment Unchanged.—For purposes of determining whether one provision supersedes another based on enactment later in time, the date of enactment of a provision enacted by this Act is deemed to be the date of enactment of the provision it replaced.
 
-“(c) References to Provisions Replaced.—A reference to a provision replaced by this Act is deemed to refer to the corresponding provision enacted by this Act.
+"(c) References to Provisions Replaced.—A reference to a provision replaced by this Act is deemed to refer to the corresponding provision enacted by this Act.
 
-“(d) Laws Governing Applicability of Prior Amendments.—This Act does not affect any law governing the applicability of an amendment to a provision replaced by this Act, notwithstanding the repeal by this Act of the provision that was amended. To the extent that any such law governed the applicability of a provision replaced by this Act, that law governs the applicability of the corresponding provision enacted by this Act.
+"(d) Laws Governing Applicability of Prior Amendments.—This Act does not affect any law governing the applicability of an amendment to a provision replaced by this Act, notwithstanding the repeal by this Act of the provision that was amended. To the extent that any such law governed the applicability of a provision replaced by this Act, that law governs the applicability of the corresponding provision enacted by this Act.
 
-“(e) Regulations, Orders, and Other Administrative Actions.—A regulation, order, or other administrative action in effect under a provision replaced by this Act continues in effect under the corresponding provision enacted by this Act.
+"(e) Regulations, Orders, and Other Administrative Actions.—A regulation, order, or other administrative action in effect under a provision replaced by this Act continues in effect under the corresponding provision enacted by this Act.
 
-“(f) Actions Taken and Offenses Committed.—An action taken or an offense committed under a provision replaced by this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.”
+"(f) Actions Taken and Offenses Committed.—An action taken or an offense committed under a provision replaced by this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act."
 
 Pub. L. 100–710, title I, §105, Nov. 23, 1988, 102 Stat. 4751, provided that:
 
-“(a) A reference to a law replaced by section 102 of this Act [see Tables for classification], including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision of this Act.
+"(a) A reference to a law replaced by section 102 of this Act [see Tables for classification], including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision of this Act.
 
-“(b) An order, rule, or regulation in effect under a law replaced by section 102 of this Act continues in effect under the corresponding provision of this Act until repealed, amended, or superseded.
+"(b) An order, rule, or regulation in effect under a law replaced by section 102 of this Act continues in effect under the corresponding provision of this Act until repealed, amended, or superseded.
 
-“(c) An action taken or an offense committed under a law replaced by section 102 of this Act is deemed to have been taken or committed under the corresponding provision of this Act.
+"(c) An action taken or an offense committed under a law replaced by section 102 of this Act is deemed to have been taken or committed under the corresponding provision of this Act.
 
-“(d) An inference of legislative construction is not to be drawn by reason of the caption or catch line of a provision enacted by section 102 of this Act.
+"(d) An inference of legislative construction is not to be drawn by reason of the caption or catch line of a provision enacted by section 102 of this Act.
 
-“(e) If a provision of this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
+"(e) If a provision of this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications."
 
 Pub. L. 99–509, title V, subtitle B, §5103(a)–(f), Oct. 21, 1986, 100 Stat. 1927, provided that:
 
-“(a) Laws effective after January 1, 1986, that are inconsistent with this subtitle [see Tables for classification] supersede this subtitle to the extent of the inconsistency.
+"(a) Laws effective after January 1, 1986, that are inconsistent with this subtitle [see Tables for classification] supersede this subtitle to the extent of the inconsistency.
 
-“(b) A reference to a law replaced by this subtitle, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision of this subtitle.
+"(b) A reference to a law replaced by this subtitle, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision of this subtitle.
 
-“(c) An order, rule, or regulation in effect under a law replaced by this subtitle continues in effect under the corresponding provision of this subtitle until repealed, amended, or superseded.
+"(c) An order, rule, or regulation in effect under a law replaced by this subtitle continues in effect under the corresponding provision of this subtitle until repealed, amended, or superseded.
 
-“(d) An action taken or an offense committed under a law replaced by this subtitle is deemed to have been taken or committed under the corresponding provision of this subtitle.
+"(d) An action taken or an offense committed under a law replaced by this subtitle is deemed to have been taken or committed under the corresponding provision of this subtitle.
 
-“(e) An inference of legislative construction is not to be drawn by reason of the caption or catch line of a provision enacted by this subtitle.
+"(e) An inference of legislative construction is not to be drawn by reason of the caption or catch line of a provision enacted by this subtitle.
 
-“(f) If a provision enacted by this subtitle is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this subtitle is held invalid in one or more of its applications, the provision remains in effect in all valid applications that are severable from the invalid application or applications.”
+"(f) If a provision enacted by this subtitle is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this subtitle is held invalid in one or more of its applications, the provision remains in effect in all valid applications that are severable from the invalid application or applications."
 
 Pub. L. 98–89, §2(a)–(f), Aug. 26, 1983, 97 Stat. 598, provided that:
 
-“(a) Laws effective after December 31, 1982, that are inconsistent with this Act [see Tables for classification] supersede this Act to the extent of the inconsistency.
+"(a) Laws effective after December 31, 1982, that are inconsistent with this Act [see Tables for classification] supersede this Act to the extent of the inconsistency.
 
-“(b) A reference to a law replaced by this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision of this Act.
+"(b) A reference to a law replaced by this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision of this Act.
 
-“(c) An order, rule, or regulation in effect under a law replaced by this Act continues in effect under the corresponding provision of this Act until repealed, amended, or superseded.
+"(c) An order, rule, or regulation in effect under a law replaced by this Act continues in effect under the corresponding provision of this Act until repealed, amended, or superseded.
 
-“(d) An action taken or an offense committed under a law replaced by this Act is deemed to have been taken or committed under the corresponding provision of this Act.
+"(d) An action taken or an offense committed under a law replaced by this Act is deemed to have been taken or committed under the corresponding provision of this Act.
 
-“(e) An inference of legislative construction is not to be drawn by reason of the caption or catch line of a provision enacted by this Act.
+"(e) An inference of legislative construction is not to be drawn by reason of the caption or catch line of a provision enacted by this Act.
 
-“(f) If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in one or more of its applications, the provision remains in effect in all valid applications that are severable from the invalid application or applications.”
+"(f) If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in one or more of its applications, the provision remains in effect in all valid applications that are severable from the invalid application or applications."
 
 #### Codification of Shipping and Maritime Laws by Federal Maritime Commission and Secretary of Transportation ####
 
-Pub. L. 98–89, §2(j), Aug. 26, 1983, 97 Stat. 599, provided that: “Within 2 years after the date of enactment of this Act [Aug. 26, 1983], the Federal Maritime Commission and the Secretary of Transportation each shall submit to Congress a proposed codification of the laws within their respective jurisdictions related to shipping and maritime matters.”
+Pub. L. 98–89, §2(j), Aug. 26, 1983, 97 Stat. 599, provided that: "Within 2 years after the date of enactment of this Act [Aug. 26, 1983], the Federal Maritime Commission and the Secretary of Transportation each shall submit to Congress a proposed codification of the laws within their respective jurisdictions related to shipping and maritime matters."
 
 #### Repeals and Savings Provisions ####
 
 Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710, as amended by Pub. L. 110–181, div. C, title XXXV, §3529(b)(1)(C), Jan. 28, 2008, 122 Stat. 603, repealed specified laws relating to shipping, except with respect to rights and duties that matured, penalties that were incurred, or proceedings that were begun before Oct. 6, 2006.
 
-Pub. L. 100–710, title I, §106(a), Nov. 23, 1988, 102 Stat. 4752, provided that: “The repeal of a law by this title may not be construed as a legislative implication that the provision was or was not in effect before its repeal.”
+Pub. L. 100–710, title I, §106(a), Nov. 23, 1988, 102 Stat. 4752, provided that: "The repeal of a law by this title may not be construed as a legislative implication that the provision was or was not in effect before its repeal."
 
 Pub. L. 100–710, title I, §106(b), Nov. 23, 1988, 102 Stat. 4752, repealed specified laws relating to shipping, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before the effective date of this title, which is Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as an Effective Date note under section 31301 of this title.
 
-Pub. L. 99–509, title V, subtitle B, §5104(a), Oct. 21, 1986, 100 Stat. 1928, provided that: “The repeal of a law by this subtitle may not be construed as a legislative implication that the provision was or was not in effect before its repeal.”
+Pub. L. 99–509, title V, subtitle B, §5104(a), Oct. 21, 1986, 100 Stat. 1928, provided that: "The repeal of a law by this subtitle may not be construed as a legislative implication that the provision was or was not in effect before its repeal."
 
 Pub. L. 99–509, title V, subtitle B, §5104(b), Oct. 21, 1986, 100 Stat. 1928, repealed specified laws relating to shipping, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 21, 1986.
 
-Pub. L. 98–89, §4(a), Aug. 26, 1983, 97 Stat. 599, provided that: “The repeal of a law by this Act may not be construed as a legislative implication that the provision was or was not in effect before its repeal.”
+Pub. L. 98–89, §4(a), Aug. 26, 1983, 97 Stat. 599, provided that: "The repeal of a law by this Act may not be construed as a legislative implication that the provision was or was not in effect before its repeal."
 
 Pub. L. 98–89, §4(b), Aug. 26, 1983, 97 Stat. 599, repealed specified laws relating to shipping, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Aug. 26, 1983, and except as provided by section 2 of Pub. L. 98–89, set out as notes above and notes under sections 3101, 3302, 3715, and 6301 of this title.

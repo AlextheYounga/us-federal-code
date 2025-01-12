@@ -20,4 +20,4 @@ Section 77a, act Feb. 20, 1929, ch. 272, §1, 45 Stat. 1248, related to a site f
 
 #### Effective Date of Repeal ####
 
-Repeal effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans’ Benefits.
+Repeal effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans' Benefits.

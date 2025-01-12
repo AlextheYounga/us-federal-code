@@ -6,4 +6,4 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 #### Amendments ####
 
-**1976**—Pub. L. 94–578 substituted “$104,500” for “$16,000”.
+**1976**—Pub. L. 94–578 substituted "$104,500" for "$16,000".

@@ -10,10 +10,10 @@ Article VII of the constitution of the Organization, referred to in text, is art
 
 #### Codification ####
 
-“Section 5703 of title 5” substituted in text for “section 5 of the Administrative Expenses Act of 1946, as amended (5 U.S.C. 73b–2)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+"Section 5703 of title 5" substituted in text for "section 5 of the Administrative Expenses Act of 1946, as amended (5 U.S.C. 73b–2)" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments ####
 
 **1961**—Pub. L. 87–139 substituted provisions for payment of transportation and other expenses as authorized by section 5703 of title 5, for provisions authorizing payment of actual transportation expenses plus a $10 maximum per diem.
 
-[<sup>1</sup> So in original. Probably should be “Cooperation”.](#287o_1)
+[<sup>1</sup> So in original. Probably should be "Cooperation".](#287o_1)

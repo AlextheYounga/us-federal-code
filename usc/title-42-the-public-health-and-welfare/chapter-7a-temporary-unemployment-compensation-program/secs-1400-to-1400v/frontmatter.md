@@ -8,7 +8,7 @@ Section 1400b, Pub. L. 85–441, title I, §103, June 4, 1958, 72 Stat. 173, mad
 
 Section 1400c, Pub. L. 85–441, title I, §104, June 4, 1958, 72 Stat. 173; Pub. L. 86–778, title V, §524(b), Sept. 13, 1960, 74 Stat. 982; Pub. L. 88–173, §2, Nov. 7, 1963, 77 Stat. 306, provided for repayment of amounts of any temporary unemployment compensation benefits, except benefits paid to veterans and Federal employees, paid under sections 1400 to 1400k of this title through device of reduction of credits allowed under section 3302 of Title 26, Internal Revenue Code.
 
-Section 1400d, Pub. L. 85–441, title II, §201, June 4, 1958, 72 Stat. 174, defined “Secretary”, “State”, and “first claim” as used in sections 1400 to 1400k of this title.
+Section 1400d, Pub. L. 85–441, title II, §201, June 4, 1958, 72 Stat. 174, defined "Secretary", "State", and "first claim" as used in sections 1400 to 1400k of this title.
 
 Section 1400e, Pub. L. 85–441, title II, §202, June 4, 1958, 72 Stat. 174, provided for review by appropriate State agency with respect to determinations of entitlement to temporary unemployment compensation under sections 1400 to 1400k of this title.
 
@@ -24,7 +24,7 @@ Section 1400j, Pub. L. 85–441, title II, §207, June 4, 1958, 72 Stat. 176, au
 
 Section 1400k, Pub. L. 85–441, title II, §208, June 4, 1958, 72 Stat. 176, authorized appropriation of funds necessary to carry out sections 1400 to 1400k of this title.
 
-Section 1400l, Pub. L. 87–6, §2, Mar. 24, 1961, 75 Stat. 8, defined “compensation period”, “first claim”, “State unemployment compensation”, “Secretary”, “State”, “State agency”, “State law”, “temporary extended unemployment compensation”, “title XV”, and “week” as used in sections 1400l to 1400v of this title.
+Section 1400l, Pub. L. 87–6, §2, Mar. 24, 1961, 75 Stat. 8, defined "compensation period", "first claim", "State unemployment compensation", "Secretary", "State", "State agency", "State law", "temporary extended unemployment compensation", "title XV", and "week" as used in sections 1400l to 1400v of this title.
 
 Section 1400m, Pub. L. 87–6, §3, Mar. 24, 1961, 75 Stat. 8, provided for payment of temporary extended unemployment compensation benefits under sections 1400l to 1400v of this title for any period of unemployment between March 24, 1961, and June 30, 1962.
 

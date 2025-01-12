@@ -60,4 +60,4 @@ Act of June 8, 1906, referred to in subsecs. (g)(1) and (h), is act June 8, 1906
 
 Following the enactment of this chapter, referred to in subsec. (h)(2), means following the enactment of Pub. L. 96–95, approved Oct. 31, 1979.
 
-[<sup>1</sup> So in original. Probably should be “archaeological”.](#470cc_1)
+[<sup>1</sup> So in original. Probably should be "archaeological".](#470cc_1)

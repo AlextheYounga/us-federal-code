@@ -22,6 +22,6 @@ Sec.
 
 1024. Joint Economic Committee.
 
-1025. Printing of monthly publication by Joint Economic Committee entitled “Economic Indicators”; distribution.
+1025. Printing of monthly publication by Joint Economic Committee entitled "Economic Indicators"; distribution.
 
 1026. Repealed.

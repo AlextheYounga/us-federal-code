@@ -10,7 +10,7 @@
 
 (ii) the law of the State, territory, possession, or district in which the offense occurred does not provide an additional term of imprisonment under the circumstances described in clause (i).
 
-(B) For the purposes of subparagraph (A), the term “minor” means a person less than 18 years of age.
+(B) For the purposes of subparagraph (A), the term "minor" means a person less than 18 years of age.
 
 (c) Whenever any waters of the territorial sea of the United States lie outside the territory of any State, Commonwealth, territory, possession, or district, such waters (including the airspace above and the seabed and subsoil below, and artificial islands and fixed structures erected thereon) shall be deemed, for purposes of subsection (a), to lie within the area of the State, Commonwealth, territory, possession, or district that it would lie within if the boundaries of such State, Commonwealth, territory, possession, or district were extended seaward to the outer limit of the territorial sea of the United States.
 
@@ -20,33 +20,33 @@
 
 Based on title 18, U.S.C., 1940 ed., §468 (Mar. 4, 1909, ch. 321, §289, 35 Stat. 1145; June 15, 1933, ch. 85, 48 Stat. 152; June 20, 1935, ch. 284, 49 Stat. 394; June 6, 1940, ch. 241, 54 Stat. 234).
 
-Act March 4, 1909, §289 used the words “now in force” when referring to the laws of any State, organized Territory or district, to be considered in force.
+Act March 4, 1909, §289 used the words "now in force" when referring to the laws of any State, organized Territory or district, to be considered in force.
 
-As amended on June 15, 1933, the words “by the laws thereof in force on June 1, 1933, and remaining in force at the time of the doing or omitting the doing of such act or thing, would be penal,” were used.
+As amended on June 15, 1933, the words "by the laws thereof in force on June 1, 1933, and remaining in force at the time of the doing or omitting the doing of such act or thing, would be penal," were used.
 
-The amendment of June 20, 1935, extended the date to “April 1, 1935,” and the amendment of June 6, 1940, extended the date to “February 1, 1940”.
+The amendment of June 20, 1935, extended the date to "April 1, 1935," and the amendment of June 6, 1940, extended the date to "February 1, 1940".
 
 The revised section omits the specification of any date as unnecessary in a revision, which speaks from the date of its enactment. Such omission will not only make effective within Federal reservations, the local State laws in force on the date of the enactment of the revision, but will authorize the Federal courts to apply the same measuring stick to such offenses as is applied in the adjoining State under future changes of the State law and will make unnecessary periodic pro forma amendments of this section to keep abreast of changes of local laws. In other words, the revised section makes applicable to offenses committed on such reservations, the law of the place that would govern if the reservation had not been ceded to the United States.
 
-The word “Possession” was inserted to clarify scope of section.
+The word "Possession" was inserted to clarify scope of section.
 
 Minor changes were made in phraseology.
 
 #### Amendments ####
 
-**1996**—Subsec. (a). Pub. L. 104–132, §901(b)(1), inserted “or on, above, or below any portion of the territorial sea of the United States not within the jurisdiction of any State, Commonwealth, territory, possession, or district” after “section 7 of this title,”.
+**1996**—Subsec. (a). Pub. L. 104–132, §901(b)(1), inserted "or on, above, or below any portion of the territorial sea of the United States not within the jurisdiction of any State, Commonwealth, territory, possession, or district" after "section 7 of this title,".
 
-Subsec. (b)(2)(A). Pub. L. 104–294 substituted “under this title” for “of not more than $1,000”.
+Subsec. (b)(2)(A). Pub. L. 104–294 substituted "under this title" for "of not more than $1,000".
 
 Subsec. (c). Pub. L. 104–132, §901(b)(2), added subsec. (c).
 
-**1994**—Subsec. (b). Pub. L. 103–322 designated existing provisions as par. (1), substituted “Subject to paragraph (2) and for purposes” for “For purposes”, and added par. (2).
+**1994**—Subsec. (b). Pub. L. 103–322 designated existing provisions as par. (1), substituted "Subject to paragraph (2) and for purposes" for "For purposes", and added par. (2).
 
 **1988**—Pub. L. 100–690 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1996 Amendment ####
 
-Pub. L. 104–294, title VI, §604(d), Oct. 11, 1996, 110 Stat. 3509, provided that: “The amendments made by this section [amending this section, sections 36, 112, 113, 241, 242, 245, 351, 511, 542, 544, 545, 668, 704, 709, 794, 1014, 1030, 1112, 1169, 1512, 1515, 1516, 1751, 1956, 1961, 2114, 2311, 2339A, 2423, 2511, 2512, 2721, 3059A, 3561, 3582, 3592, and 5037 of this title, section 802 of Title 21, Food and Drugs, sections 540A and 991 of Title 28, Judiciary and Judicial Procedure, and sections 3631, 5633, 10604, and 14011 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 1001, 1169, and 2325 of this title and section 994 of Title 28] shall take effect on the date of enactment of Public Law 103–322 [Sept. 13, 1994].”
+Pub. L. 104–294, title VI, §604(d), Oct. 11, 1996, 110 Stat. 3509, provided that: "The amendments made by this section [amending this section, sections 36, 112, 113, 241, 242, 245, 351, 511, 542, 544, 545, 668, 704, 709, 794, 1014, 1030, 1112, 1169, 1512, 1515, 1516, 1751, 1956, 1961, 2114, 2311, 2339A, 2423, 2511, 2512, 2721, 3059A, 3561, 3582, 3592, and 5037 of this title, section 802 of Title 21, Food and Drugs, sections 540A and 991 of Title 28, Judiciary and Judicial Procedure, and sections 3631, 5633, 10604, and 14011 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 1001, 1169, and 2325 of this title and section 994 of Title 28] shall take effect on the date of enactment of Public Law 103–322 [Sept. 13, 1994]."
 
 #### Territorial Sea of United States ####
 

@@ -10,22 +10,22 @@ Repeal applicable to obligations issued after Dec. 31, 1983, see section 491(f)(
 
 Pub. L. 98–369, div. A, title IV, §491(c)(1), (f)(2), July 18, 1984, 98 Stat. 848, 853, provided that, applicable to redemptions after July 18, 1984, in taxable years ending after such date, subsec. (d)(3)(A) of this section, as in effect before its repeal, is amended to read as follows:
 
-“(A) In general.—If—
+"(A) In general.—If—
 
-“(i) any qualified bond is redeemed,
+"(i) any qualified bond is redeemed,
 
-“(ii) any portion of the excess of the proceeds from such redemption over the basis of such bond is transferred to an individual retirement plan which is maintained for the benefit of the individual redeeming such bond, or to a qualified trust (as defined in section 402(a)(5)(D)(iii)) for the benefit of such individual, and
+"(ii) any portion of the excess of the proceeds from such redemption over the basis of such bond is transferred to an individual retirement plan which is maintained for the benefit of the individual redeeming such bond, or to a qualified trust (as defined in section 402(a)(5)(D)(iii)) for the benefit of such individual, and
 
-“(iii) such transfer is made on or before the 60th day after the individual received the proceeds of such redemption,
+"(iii) such transfer is made on or before the 60th day after the individual received the proceeds of such redemption,
 
-then gross income shall not include the proceeds to the extent so transferred and the transfer shall be treated as a rollover contribution described in section 408(d)(3).”
+then gross income shall not include the proceeds to the extent so transferred and the transfer shall be treated as a rollover contribution described in section 408(d)(3)."
 
 #### Bonds Under Qualified Bond Purchase Plans Redeemable at any Time After July 18, 1984 ####
 
-Pub. L. 98–369, div. A, title IV, §491(f)(4), July 18, 1984, 98 Stat. 853, provided that: “Notwithstanding—
+Pub. L. 98–369, div. A, title IV, §491(f)(4), July 18, 1984, 98 Stat. 853, provided that: "Notwithstanding—
 
-“(A) subparagraph (D) of section 405(b)(1) of the Internal Revenue Code of 1954 (as in effect before its repeal by this section) [see above], and
+"(A) subparagraph (D) of section 405(b)(1) of the Internal Revenue Code of 1954 (as in effect before its repeal by this section) [see above], and
 
-“(B) the terms of any bond described in subsection (b) of such section 405,
+"(B) the terms of any bond described in subsection (b) of such section 405,
 
-such a bond may be redeemed at any time after the date of the enactment of this Act [July 18, 1984] in the same manner as if the individual redeeming the bond had attained age 59½.”
+such a bond may be redeemed at any time after the date of the enactment of this Act [July 18, 1984] in the same manner as if the individual redeeming the bond had attained age 59½."

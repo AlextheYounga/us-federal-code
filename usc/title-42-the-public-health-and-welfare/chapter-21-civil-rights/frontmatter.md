@@ -92,7 +92,7 @@ Sec.
 
 2000b–2. Personal suits for relief against discrimination in public facilities.
 
-2000b–3. “Complaint” defined.
+2000b–3. "Complaint" defined.
 
 #### SUBCHAPTER IV—PUBLIC EDUCATION ####
 
@@ -128,7 +128,7 @@ Sec.
 
 2000d–4. Federal authority and financial assistance to programs or activities by way of contract of insurance or guaranty.
 
-2000d–4a. “Program or activity” and “program” defined.
+2000d–4a. "Program or activity" and "program" defined.
 
 2000d–5. Prohibited deferral of action on applications by local educational agencies seeking Federal funds for alleged noncompliance with Civil Rights Act.
 
@@ -160,7 +160,7 @@ Sec.
 
 2000e–10. Posting of notices; penalties.
 
-2000e–11. Veterans’ special rights or preference.
+2000e–11. Veterans' special rights or preference.
 
 2000e–12. Regulations; conformity of regulations with administrative procedure provisions; reliance on interpretations and instructions of Commission.
 

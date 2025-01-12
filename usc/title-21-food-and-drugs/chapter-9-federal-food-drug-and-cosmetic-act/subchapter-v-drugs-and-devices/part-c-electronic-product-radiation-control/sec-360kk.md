@@ -50,7 +50,7 @@ A certified copy of the transcript of the record and administrative proceedings 
 
 #### (f) Technical Electronic Product Radiation Safety Standards Committee ####
 
-(1)(A) The Secretary shall establish a Technical Electronic Product Radiation Safety Standards Committee (hereafter in this part referred to as the “Committee”) which he shall consult before prescribing any standard under this section. The Committee shall be appointed by the Secretary, after consultation with public and private agencies concerned with the technical aspect of electronic product radiation safety, and shall be composed of fifteen members each of whom shall be technically qualified by training and experience in one or more fields of science or engineering applicable to electronic product radiation safety, as follows:
+(1)(A) The Secretary shall establish a Technical Electronic Product Radiation Safety Standards Committee (hereafter in this part referred to as the "Committee") which he shall consult before prescribing any standard under this section. The Committee shall be appointed by the Secretary, after consultation with public and private agencies concerned with the technical aspect of electronic product radiation safety, and shall be composed of fifteen members each of whom shall be technically qualified by training and experience in one or more fields of science or engineering applicable to electronic product radiation safety, as follows:
 
 (i) Five members shall be selected from governmental agencies, including State and Federal Governments;
 
@@ -82,11 +82,11 @@ Section was classified to section 263f of Title 42, The Public Health and Welfar
 
 Subsec. (f)(2). Pub. L. 103–80, §3(w), made technical amendment to reference to section 210 of title 42 to reflect correction of corresponding provision of original act.
 
-**1990**—Subsec. (a)(1)(E). Pub. L. 101–629, §19(a)(2)(B), substituted “section 360hh” for “section 263c”.
+**1990**—Subsec. (a)(1)(E). Pub. L. 101–629, §19(a)(2)(B), substituted "section 360hh" for "section 263c".
 
-Subsecs. (e), (f)(1)(A). Pub. L. 101–629, §19(a)(1)(B), substituted “this part” for “this subpart”.
+Subsecs. (e), (f)(1)(A). Pub. L. 101–629, §19(a)(1)(B), substituted "this part" for "this subpart".
 
-**1970**—Subsec. (f)(2). Pub. L. 91–515 struck out provisions related to payment of compensation and travel expenses of members of the Committee who are not officers or employees of the United States, and substituted “to members of the Committee who are not officers or employees of the United States pursuant to subsection (c) of section 210 of title 42” for “under this subsection”.
+**1970**—Subsec. (f)(2). Pub. L. 91–515 struck out provisions related to payment of compensation and travel expenses of members of the Committee who are not officers or employees of the United States, and substituted "to members of the Committee who are not officers or employees of the United States pursuant to subsection (c) of section 210 of title 42" for "under this subsection".
 
 #### Noninterference With Other Federal Agencies ####
 

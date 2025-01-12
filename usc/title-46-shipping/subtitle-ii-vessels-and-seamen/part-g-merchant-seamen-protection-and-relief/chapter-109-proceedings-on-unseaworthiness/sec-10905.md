@@ -2,7 +2,7 @@
 
 (a) When a complaint under section 10902(a) of this title is made in a foreign port, the procedures of this chapter shall be followed, with a consular officer performing the duties of the judge or justice of the peace.
 
-(b) On review of the marine surveyors’ report, the consular officer may approve and must certify any part of the report with which the officer agrees. If the consular officer dissents from any part of the report, the officer shall certify reasons for dissenting from that part.
+(b) On review of the marine surveyors' report, the consular officer may approve and must certify any part of the report with which the officer agrees. If the consular officer dissents from any part of the report, the officer shall certify reasons for dissenting from that part.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 576.)
 

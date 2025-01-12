@@ -26,6 +26,6 @@ Sec.
 
 **1980**—Pub. L. 96–499, title XI, §1122(b), Dec. 5, 1980, 94 Stat. 2687, added item 897.
 
-**1966**—Pub. L. 89–809, title I, §§102(a)(4)(B), 105(c), Nov. 13, 1966, 80 Stat. 1543, 1565, substituted “affected by treaty” for “exempt under treaty” in item 894, inserted “or from bank deposits” in item 895, and added item 896.
+**1966**—Pub. L. 89–809, title I, §§102(a)(4)(B), 105(c), Nov. 13, 1966, 80 Stat. 1543, 1565, substituted "affected by treaty" for "exempt under treaty" in item 894, inserted "or from bank deposits" in item 895, and added item 896.
 
 **1961**—Pub. L. 87–29, §1(b), May 4, 1961, 75 Stat. 64, added item 895.

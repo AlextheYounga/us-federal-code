@@ -22,7 +22,7 @@ Prior sections 3311 to 3318 were repealed by Pub. L. 97–35, title V, §587(a)(
 
 Section 3311, Pub. L. 89–10, title IX, §901, as added Pub. L. 95–561, title VIII, §802, Nov. 1, 1978, 92 Stat. 2292, set out the short title and the declaration of findings and purpose for program for gifted and talented children.
 
-Section 3312, Pub. L. 89–10, title IX, §902, as added Pub. L. 95–561, title VIII, §802, Nov. 1, 1978, 92 Stat. 2292, defined “gifted and talented children”.
+Section 3312, Pub. L. 89–10, title IX, §902, as added Pub. L. 95–561, title VIII, §802, Nov. 1, 1978, 92 Stat. 2292, defined "gifted and talented children".
 
 Section 3313, Pub. L. 89–10, title IX, §903, as added Pub. L. 95–561, title VIII, §802, Nov. 1, 1978, 92 Stat. 2292; amended Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692, authorized appropriations.
 

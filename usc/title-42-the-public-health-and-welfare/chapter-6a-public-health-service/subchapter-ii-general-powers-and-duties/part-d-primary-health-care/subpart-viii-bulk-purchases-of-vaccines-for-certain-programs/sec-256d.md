@@ -54,9 +54,9 @@ The Indian Self-Determination Act, referred to in subsec. (c)(10), is title I of
 
 #### Amendments ####
 
-**2002**—Subsec. (c)(5). Pub. L. 107–251 substituted “254b(h)” for “256”.
+**2002**—Subsec. (c)(5). Pub. L. 107–251 substituted "254b(h)" for "256".
 
-**2000**—Subsec. (c)(1). Pub. L. 106–310 substituted “section 247b–7 of this title” for “section 247b–6 of this title”.
+**2000**—Subsec. (c)(1). Pub. L. 106–310 substituted "section 247b–7 of this title" for "section 247b–6 of this title".
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center ####
 

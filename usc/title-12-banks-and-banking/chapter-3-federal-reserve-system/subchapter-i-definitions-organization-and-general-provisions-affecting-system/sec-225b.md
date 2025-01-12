@@ -26,7 +26,7 @@ The Board shall, concurrent with each semi-annual hearing required by this secti
 
 #### (c) Public access to information ####
 
-The Board shall place on its home Internet website, a link entitled “Audit”, which shall link to a webpage that shall serve as a repository of information made available to the public for a reasonable period of time, not less than 6 months following the date of release of the relevant information, including—
+The Board shall place on its home Internet website, a link entitled "Audit", which shall link to a webpage that shall serve as a repository of information made available to the public for a reasonable period of time, not less than 6 months following the date of release of the relevant information, including—
 
 (1) the reports prepared by the Comptroller General under section 714 of title 31;
 

@@ -8,17 +8,17 @@
 
 #### Amendments ####
 
-**1994**—Pub. L. 103–331 substituted “Waiver of collection” for “Rebate of” in section catchline and amended text generally. Prior to amendment, text read as follows:
+**1994**—Pub. L. 103–331 substituted "Waiver of collection" for "Rebate of" in section catchline and amended text generally. Prior to amendment, text read as follows:
 
-“(a) The Corporation shall transfer to the Harbor Maintenance Trust Fund, at such times and under such terms and conditions as the Secretary of the Treasury may prescribe, all revenues derived from the collection of charges or tolls established under section 988 of this title.
+"(a) The Corporation shall transfer to the Harbor Maintenance Trust Fund, at such times and under such terms and conditions as the Secretary of the Treasury may prescribe, all revenues derived from the collection of charges or tolls established under section 988 of this title.
 
-“(b)(1) The Corporation shall certify to the Secretary of the Treasury, in such form and at such times as the Secretary of the Treasury shall prescribe—
+"(b)(1) The Corporation shall certify to the Secretary of the Treasury, in such form and at such times as the Secretary of the Treasury shall prescribe—
 
-“(A) the identity of any person who pays a charge or toll to the Corporation pursuant to section 988 of this title with respect to a commercial vessel (as defined in section 4462(a)(4) of title 26),
+"(A) the identity of any person who pays a charge or toll to the Corporation pursuant to section 988 of this title with respect to a commercial vessel (as defined in section 4462(a)(4) of title 26),
 
-“(B) the amount of the toll or charge paid by such person with respect to such vessel.
+"(B) the amount of the toll or charge paid by such person with respect to such vessel.
 
-“(2) Within 30 days of the receipt of a certification described in paragraph (1), the Secretary of the Treasury shall rebate, out of the Harbor Maintenance Trust Fund, to the person described in paragraph (1) the amount of the charge or toll paid pursuant to section 988 of this title.”
+"(2) Within 30 days of the receipt of a certification described in paragraph (1), the Secretary of the Treasury shall rebate, out of the Harbor Maintenance Trust Fund, to the person described in paragraph (1) the amount of the charge or toll paid pursuant to section 988 of this title."
 
 #### Effective Date ####
 

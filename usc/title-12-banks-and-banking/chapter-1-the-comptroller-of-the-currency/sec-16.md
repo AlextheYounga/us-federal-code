@@ -12,6 +12,6 @@ Subchapter XV of chapter 3, referred to in first par., was in the original a ref
 
 #### Effective Date ####
 
-Pub. L. 111–203, title III, §318(e), July 21, 2010, 124 Stat. 1527, provided that: “This section [enacting this section and amending sections 248, 481, 482, and 1820 of this title], and the amendments made by this section, shall take effect on the transfer date.”
+Pub. L. 111–203, title III, §318(e), July 21, 2010, 124 Stat. 1527, provided that: "This section [enacting this section and amending sections 248, 481, 482, and 1820 of this title], and the amendments made by this section, shall take effect on the transfer date."
 
-[For definition of “transfer date” as used in section 318(e) of Pub. L. 111–203, set out above, see section 5301 of this title.]
+[For definition of "transfer date" as used in section 318(e) of Pub. L. 111–203, set out above, see section 5301 of this title.]

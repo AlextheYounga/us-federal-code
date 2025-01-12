@@ -12,17 +12,17 @@ Any person who willfully and knowingly violates any rule, regulation, restrictio
 
 #### Amendments ####
 
-**2005**—Subsec. (a). Pub. L. 109–58, §1284(d)(1), substituted “$1,000,000” for “$5,000” and “5 years” for “two years”.
+**2005**—Subsec. (a). Pub. L. 109–58, §1284(d)(1), substituted "$1,000,000" for "$5,000" and "5 years" for "two years".
 
-Subsec. (b). Pub. L. 109–58, §1284(d)(2), substituted “$25,000” for “$500”.
+Subsec. (b). Pub. L. 109–58, §1284(d)(2), substituted "$25,000" for "$500".
 
-Subsec. (c). Pub. L. 109–58, §1284(d)(3), struck out subsec. (c) which read as follows: “This subsection shall not apply in the case of any provision of section 824j, 824k, 824l, or 824m of this title or any rule or order issued under any such provision.”
+Subsec. (c). Pub. L. 109–58, §1284(d)(3), struck out subsec. (c) which read as follows: "This subsection shall not apply in the case of any provision of section 824j, 824k, 824l, or 824m of this title or any rule or order issued under any such provision."
 
 **1992**—Subsec. (c). Pub. L. 102–486 added subsec. (c).
 
 #### Change of Name ####
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
 
 #### State Authorities; Construction ####
 

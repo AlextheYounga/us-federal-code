@@ -16,30 +16,30 @@ Except for property which the Secretary determines to be necessary for the purpo
 
 Any right of use and occupancy retained pursuant to this section may, during its existence, be conveyed or transferred, but all rights of use and occupancy shall be subject to such terms and conditions as the Secretary deems appropriate to assure the use of the property in accordance with the purposes of this subchapter. Upon his determination that the property, or any portion thereof, has ceased to be so used in accordance with such terms and conditions, the Secretary may terminate the right of use and occupancy by tendering to the holder of such right an amount equal to the fair market value, as of the date of the tender, of that portion of the right which remains unexpired on the date of termination.
 
-#### (e) “Improved property” defined ####
+#### (e) "Improved property" defined ####
 
-As used in this section, the term “improved property” means a detached, year-round noncommercial residential dwelling, the construction of which was begun before January 1, 1975, together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
+As used in this section, the term "improved property" means a detached, year-round noncommercial residential dwelling, the construction of which was begun before January 1, 1975, together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
 (Pub. L. 95–344, title I, §102, Aug. 15, 1978, 92 Stat. 474; Pub. L. 98–568, §1(c), Oct. 30, 1984, 98 Stat. 2928; Pub. L. 106–154, §2(b), (e)(1), Dec. 9, 1999, 113 Stat. 1737, 1738.)
 
 #### Codification ####
 
-In subsec. (b), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments ####
 
-**1999**—Subsec. (a). Pub. L. 106–154, §2(b)(1), inserted “from willing sellers” after “purchase”.
+**1999**—Subsec. (a). Pub. L. 106–154, §2(b)(1), inserted "from willing sellers" after "purchase".
 
-Subsec. (d). Pub. L. 106–154, §2(e)(1), substituted “this subchapter” for “this subchapter and chapter 43 of this title”.
+Subsec. (d). Pub. L. 106–154, §2(e)(1), substituted "this subchapter" for "this subchapter and chapter 43 of this title".
 
 Subsec. (f). Pub. L. 106–154, §2(b)(2), struck out subsec. (f) which read as follows:
 
-“(f)(1) The Secretary shall exchange those federally owned lands identified on the map referenced in section 460ii of this title as ‘exchange lands’ for non-Federal lands which are within the boundaries of the recreation area. The values of the lands exchanged under this subsection shall be equal, or shall be equalized in the same manner as provided in section 1716 of title 43.
+"(f)(1) The Secretary shall exchange those federally owned lands identified on the map referenced in section 460ii of this title as 'exchange lands' for non-Federal lands which are within the boundaries of the recreation area. The values of the lands exchanged under this subsection shall be equal, or shall be equalized in the same manner as provided in section 1716 of title 43.
 
-“(2) At three year intervals after October 30, 1984, the Secretary shall publish in the Federal Register a progress report on the land exchanges which have taken place and the exchanges which are likely to take place under the authority of this subsection. Such report shall identify the lands which are unsuitable for exchange pursuant to such authority.
+"(2) At three year intervals after October 30, 1984, the Secretary shall publish in the Federal Register a progress report on the land exchanges which have taken place and the exchanges which are likely to take place under the authority of this subsection. Such report shall identify the lands which are unsuitable for exchange pursuant to such authority.
 
-“(3) Effective on the date ten years after October 30, 1984, the exchange authority of paragraph (1) shall terminate. The exchange lands identified under paragraph (1) which have not been exchanged prior to such date shall be retained in Federal ownership as a part of the recreation area.
+"(3) Effective on the date ten years after October 30, 1984, the exchange authority of paragraph (1) shall terminate. The exchange lands identified under paragraph (1) which have not been exchanged prior to such date shall be retained in Federal ownership as a part of the recreation area.
 
-“(4) The Secretary shall publish a revision of the boundary map referred to in section 460ii of this title to exclude from the boundaries of the recreation area any exchange lands which are used to acquire non-Federal lands under paragraph (3).”
+"(4) The Secretary shall publish a revision of the boundary map referred to in section 460ii of this title to exclude from the boundaries of the recreation area any exchange lands which are used to acquire non-Federal lands under paragraph (3)."
 
 **1984**—Subsec. (f). Pub. L. 98–568 added subsec. (f).

@@ -66,7 +66,7 @@ The family's contribution from income is determined by—
 
 The allowance for State and other taxes is equal to an amount determined by multiplying total income (as defined in section 1087vv of this title) by a percentage determined according to the following table (or a successor table prescribed by the Secretary under section 1087rr of this title):
 
-|                                   If the students’ State or territory of<br/><br/>residence is—                                   |The percentage is—|
+|                                   If the students' State or territory of<br/><br/>residence is—                                   |The percentage is—|
 |-----------------------------------------------------------------------------------------------------------------------------------|------------------|
 |Alaska, American Samoa, Florida, Guam, Nevada, South Dakota, Tennessee, Texas, Trust Territory, Virgin Islands, Washington, Wyoming|        0         |
 |                                                Connecticut, Louisiana, Puerto Rico                                                |        1         |
@@ -117,7 +117,7 @@ The family's net worth is calculated by adding—
 
 (B) the net value of investments and real estate, excluding the net value in the principal place of residence; and
 
-(C) the adjusted net worth of a business or farm, computed on the basis of the net worth of such business or farm (hereafter referred to as “NW”), determined in accordance with the following table (or a successor table prescribed by the Secretary under section 1087rr of this title), except as provided under section 1087vv(f) of this title:
+(C) the adjusted net worth of a business or farm, computed on the basis of the net worth of such business or farm (hereafter referred to as "NW"), determined in accordance with the following table (or a successor table prescribed by the Secretary under section 1087rr of this title), except as provided under section 1087vv(f) of this title:
 
 |If the net worth of a business or farm is—|       Then the adjusted net worth is—       |
 |------------------------------------------|---------------------------------------------|
@@ -191,25 +191,25 @@ In the case of a student who is divorced or separated, or whose spouse has died,
 
 #### Amendments ####
 
-**2007**—Subsec. (b)(1)(A)(iv). Pub. L. 110–84 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “an income protection allowance of the following amount (or a successor amount prescribed by the Secretary under section 1087rr of this title)—
+**2007**—Subsec. (b)(1)(A)(iv). Pub. L. 110–84 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: "an income protection allowance of the following amount (or a successor amount prescribed by the Secretary under section 1087rr of this title)—
 
-“(I) $6,050 for single students;
+"(I) $6,050 for single students;
 
-“(II) $6,050 for married students where both are enrolled pursuant to subsection (a)(2) of this section; and
+"(II) $6,050 for married students where both are enrolled pursuant to subsection (a)(2) of this section; and
 
-“(III) $9,700 for married students where one is enrolled pursuant to subsection (a)(2) of this section;”.
+"(III) $9,700 for married students where one is enrolled pursuant to subsection (a)(2) of this section;".
 
-**2006**—Subsec. (b)(1)(A)(iv). Pub. L. 109–171, §8017(b)(1)(A), substituted “$6,050” for “$5,000” in subcls. (I) and (II) and “$9,700” for “$8,000” in subcl. (III).
+**2006**—Subsec. (b)(1)(A)(iv). Pub. L. 109–171, §8017(b)(1)(A), substituted "$6,050" for "$5,000" in subcls. (I) and (II) and "$9,700" for "$8,000" in subcl. (III).
 
-Subsec. (c)(4). Pub. L. 109–171, §8017(b)(1)(B), substituted “20” for “35”.
+Subsec. (c)(4). Pub. L. 109–171, §8017(b)(1)(B), substituted "20" for "35".
 
 **1998**—Subsec. (a)(3). Pub. L. 105–244, §474(a), added par. (3).
 
-Subsec. (b)(1)(A)(iv). Pub. L. 105–244, §474(b)(1), in introductory provisions, substituted “allowance of the following amount (or a successor amount prescribed by the Secretary under section 1087rr of this title)—” for “allowance of—”.
+Subsec. (b)(1)(A)(iv). Pub. L. 105–244, §474(b)(1), in introductory provisions, substituted "allowance of the following amount (or a successor amount prescribed by the Secretary under section 1087rr of this title)—" for "allowance of—".
 
-Subsec. (b)(1)(A)(iv)(I), (II). Pub. L. 105–244, §474(b)(2), substituted “$5,000” for “$3,000”.
+Subsec. (b)(1)(A)(iv)(I), (II). Pub. L. 105–244, §474(b)(2), substituted "$5,000" for "$3,000".
 
-Subsec. (b)(1)(A)(iv)(III). Pub. L. 105–244, §474(b)(3), substituted “$8,000” for “$6,000”.
+Subsec. (b)(1)(A)(iv)(III). Pub. L. 105–244, §474(b)(3), substituted "$8,000" for "$6,000".
 
 **1997**—Subsec. (b)(1)(A)(vi). Pub. L. 105–78 added cl. (vi).
 
@@ -217,23 +217,23 @@ Subsec. (b)(1)(A)(iv)(III). Pub. L. 105–244, §474(b)(3), substituted “$8,00
 
 **1992**—Pub. L. 102–325 amended section generally, substituting provisions relating to family contribution for independent students without dependents other than a spouse for provisions relating to family contribution for independent students without dependents (including a spouse).
 
-**1987**—Subsec. (b)(1)(A), (B). Pub. L. 100–50, §14(13)(B), (C), substituted subpar. (A) and introductory provisions of subpar. (B) for introductory provisions of former subpar. (A) which read as follows: “computing the student's available taxable income by deducting from the student's adjusted gross income—”. Former subpar. (B) redesignated (C).
+**1987**—Subsec. (b)(1)(A), (B). Pub. L. 100–50, §14(13)(B), (C), substituted subpar. (A) and introductory provisions of subpar. (B) for introductory provisions of former subpar. (A) which read as follows: "computing the student's available taxable income by deducting from the student's adjusted gross income—". Former subpar. (B) redesignated (C).
 
 Subsec. (b)(1)(C). Pub. L. 100–50, §14(13)(B), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
-Subsec. (b)(1)(D). Pub. L. 100–50, §14(15), which directed that subsec. (b)(1)(C) be amended by inserting “plus the amount of veterans’ benefits paid during the award period under chapters 32, 34, and 35 of title 28”, was executed to subpar. (D) to reflect the probable intent of Congress and the intervening redesignation of subpar. (C) as (D) by section 14(13)(B) of Pub. L. 100–50.
+Subsec. (b)(1)(D). Pub. L. 100–50, §14(15), which directed that subsec. (b)(1)(C) be amended by inserting "plus the amount of veterans' benefits paid during the award period under chapters 32, 34, and 35 of title 28", was executed to subpar. (D) to reflect the probable intent of Congress and the intervening redesignation of subpar. (C) as (D) by section 14(13)(B) of Pub. L. 100–50.
 
-Pub. L. 100–50, §14(13)(A), (B), redesignated subpar. (C) as (D) and substituted “subparagraph (C)” for “subparagraph (B)”.
+Pub. L. 100–50, §14(13)(A), (B), redesignated subpar. (C) as (D) and substituted "subparagraph (C)" for "subparagraph (B)".
 
-Subsec. (b)(2). Pub. L. 100–50, §14(1), (14), substituted “total income” for “total taxable income” and “section 1087rr of this title” for “section 1087ss of this title”.
+Subsec. (b)(2). Pub. L. 100–50, §14(1), (14), substituted "total income" for "total taxable income" and "section 1087rr of this title" for "section 1087ss of this title".
 
-Subsec. (b)(4)(A). Pub. L. 100–50, §14(16)(A), substituted “$8,600” for “$8,900”.
+Subsec. (b)(4)(A). Pub. L. 100–50, §14(16)(A), substituted "$8,600" for "$8,900".
 
-Subsec. (b)(4)(B). Pub. L. 100–50, §14(16), substituted “$8,600” for “$8,900” in two places and “$6,020” for “$6,230”.
+Subsec. (b)(4)(B). Pub. L. 100–50, §14(16), substituted "$8,600" for "$8,900" in two places and "$6,020" for "$6,230".
 
 Subsec. (c)(1). Pub. L. 100–50, §14(17), substituted a semicolon for a period at end of subpar. (C) and inserted, after subpar. (C), provision that the student's income supplemental amount from assets not be less than zero.
 
-Subsec. (c)(2)(B). Pub. L. 100–50, §14(3), substituted “displaced homemaker” for “dislocated homemaker”.
+Subsec. (c)(2)(B). Pub. L. 100–50, §14(3), substituted "displaced homemaker" for "dislocated homemaker".
 
 Subsec. (c)(2)(C). Pub. L. 100–50, §14(4), added table and struck out former table which read as follows:
 
@@ -243,9 +243,9 @@ Subsec. (c)(2)(C). Pub. L. 100–50, §14(4), added table and struck out former 
 |                $1–$65,000                |               40 percent of NW                |
 |             $65,001–$195,000             |  $26,000 plus 50 percent of NW over $65,000   |
 |            $195,001–$325,000             |  $91,000 plus 60 percent of NW over $195,000  |
-|             $325,001 or more             |$169,000 plus 100 percent of NW over $325,000”.|
+|             $325,001 or more             |$169,000 plus 100 percent of NW over $325,000".|
 
-Pub. L. 100–50, §14(1), substituted “section 1087rr of this title” for “section 1087ss of this title”.
+Pub. L. 100–50, §14(1), substituted "section 1087rr of this title" for "section 1087ss of this title".
 
 #### Effective Date of 2007 Amendment ####
 
@@ -255,7 +255,7 @@ Amendment by Pub. L. 110–84 effective July 1, 2009, see section 601(e) of Pub.
 
 Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
-Pub. L. 109–171, title VIII, §8017(b)(2), Feb. 8, 2006, 120 Stat. 173, provided that: “The amendments made by paragraph (1) [amending this section] shall apply with respect to determinations of need for periods of enrollment beginning on or after July 1, 2007.”
+Pub. L. 109–171, title VIII, §8017(b)(2), Feb. 8, 2006, 120 Stat. 173, provided that: "The amendments made by paragraph (1) [amending this section] shall apply with respect to determinations of need for periods of enrollment beginning on or after July 1, 2007."
 
 #### Effective Date of 1998 Amendment ####
 

@@ -32,7 +32,7 @@ Sec.
 
 942. Omitted.
 
-942–1. Rights of way in Alaska; railroad rights of way; reservations; water transportation connections; State title to submerged lands; Federal repossession as trustee; “navigable waters” defined; posting schedules of rates; changes in rates.
+942–1. Rights of way in Alaska; railroad rights of way; reservations; water transportation connections; State title to submerged lands; Federal repossession as trustee; "navigable waters" defined; posting schedules of rates; changes in rates.
 
 942–2. Rights of several roads through canyons.
 

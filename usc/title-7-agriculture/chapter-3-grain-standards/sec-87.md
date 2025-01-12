@@ -10,7 +10,7 @@ No person licensed or authorized by the Secretary to perform any official functi
 
 (2) A substantial stockholder of a corporation shall be any person holding 2 per centum or more, or one hundred shares or more, of the voting stock of the corporation, whichever is the lesser interest. Any entity shall be considered to be related to another entity if it owns or controls, or is owned or controlled by, such other entity, or both entities are owned or controlled by another entity.
 
-(3) Each State agency delegated official weighing authority under section 79a of this title and each State or local agency or other person designated by the Secretary under such section to perform official weighing or supervision of weighing shall be subject to the provisions of subsection (b) of this section. The term “use of official inspection service” shall be deemed to refer to the use of the services provided under such a delegation or designation.
+(3) Each State agency delegated official weighing authority under section 79a of this title and each State or local agency or other person designated by the Secretary under such section to perform official weighing or supervision of weighing shall be subject to the provisions of subsection (b) of this section. The term "use of official inspection service" shall be deemed to refer to the use of the services provided under such a delegation or designation.
 
 (4) If a State or local governmental agency is delegated authority to perform official inspection or official weighing or supervision of weighing, or a State or local governmental agency is designated as an official agency, the Secretary shall specify the officials and other personnel thereof to which the conflict of interest provisions of this subsection (b) apply.
 
@@ -24,27 +24,27 @@ The provisions of this section shall not prevent an official agency or State age
 
 #### Amendments ####
 
-**1994**—Subsecs. (a), (b). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
+**1994**—Subsecs. (a), (b). Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
 
-Subsec. (b)(5). Pub. L. 103–437 substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”.
+Subsec. (b)(5). Pub. L. 103–437 substituted "Committee on Agriculture, Nutrition, and Forestry" for "Committee on Agriculture and Forestry".
 
-**1993**—Pub. L. 103–156, §12(j), which directed amendment of “Section 11”, without specifying the name of the Act being amended, was executed to this section, which is section 11 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+**1993**—Pub. L. 103–156, §12(j), which directed amendment of "Section 11", without specifying the name of the Act being amended, was executed to this section, which is section 11 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Subsec. (a). Pub. L. 103–156, §12(j)(1), substituted “the Administrator” for “he” before “determines”.
+Subsec. (a). Pub. L. 103–156, §12(j)(1), substituted "the Administrator" for "he" before "determines".
 
-Subsec. (b)(1). Pub. L. 103–156, §12(j)(2)(A), substituted “the producer” for “he”.
+Subsec. (b)(1). Pub. L. 103–156, §12(j)(2)(A), substituted "the producer" for "he".
 
-Subsec. (b)(5). Pub. L. 103–156, §12(j)(2)(B), substituted “the Administrator” for “he” in two places.
+Subsec. (b)(5). Pub. L. 103–156, §12(j)(2)(B), substituted "the Administrator" for "he" in two places.
 
-**1977**—Subsec. (b)(3). Pub. L. 95–113, §1604(h)(1), substituted “to perform official weighing or supervision of weighing” for “to perform supervision of weighing”.
+**1977**—Subsec. (b)(3). Pub. L. 95–113, §1604(h)(1), substituted "to perform official weighing or supervision of weighing" for "to perform supervision of weighing".
 
-Subsec. (b)(4). Pub. L. 95–113, §1606(g), substituted “official weighing or supervision of weighing” for “official weighing”.
+Subsec. (b)(4). Pub. L. 95–113, §1606(g), substituted "official weighing or supervision of weighing" for "official weighing".
 
-Subsec. (b)(5). Pub. L. 95–113, §1604(h)(2), substituted “to perform official inspection or perform official weighing or supervision of weighing except that” for “to perform official inspection or perform supervision of weighing except that” and “member, director, officer” for “member, officer”.
+Subsec. (b)(5). Pub. L. 95–113, §1604(h)(2), substituted "to perform official inspection or perform official weighing or supervision of weighing except that" for "to perform official inspection or perform supervision of weighing except that" and "member, director, officer" for "member, officer".
 
-Subsec. (c). Pub. L. 95–113, §1604(h)(3), inserted “or State agency delegated authority under this chapter” after “official agency”.
+Subsec. (c). Pub. L. 95–113, §1604(h)(3), inserted "or State agency delegated authority under this chapter" after "official agency".
 
-**1976**—Subsec. (a). Pub. L. 94–582, §13(a)–(c), substituted “Administrator” for “Secretary” wherever appearing and “perform any official function” for “perform any official inspection function”, and designated first paragraph provisions, as amended, as subsec. (a), respectively.
+**1976**—Subsec. (a). Pub. L. 94–582, §13(a)–(c), substituted "Administrator" for "Secretary" wherever appearing and "perform any official function" for "perform any official inspection function", and designated first paragraph provisions, as amended, as subsec. (a), respectively.
 
 Subsecs. (b), (c). Pub. L. 94–582, §13(c), added subsecs. (b) and (c).
 

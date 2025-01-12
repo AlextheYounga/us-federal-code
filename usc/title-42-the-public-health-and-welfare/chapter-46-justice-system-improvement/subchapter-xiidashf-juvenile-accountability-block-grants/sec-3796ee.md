@@ -44,7 +44,7 @@ Amounts paid to a State or a unit of local government under this subchapter shal
 
 #### (c) Definition ####
 
-In this section the term “restorative justice program” means a program that emphasizes the moral accountability of an offender toward the victim and the affected community and may include community reparations boards, restitution (in the form of monetary payment or service to the victim or, where no victim can be identified, service to the affected community), and mediation between victim and offender.
+In this section the term "restorative justice program" means a program that emphasizes the moral accountability of an offender toward the victim and the affected community and may include community reparations boards, restitution (in the form of monetary payment or service to the victim or, where no victim can be identified, service to the affected community), and mediation between victim and offender.
 
 (Pub. L. 90–351, title I, §1801, as added Pub. L. 107–273, div. C, title II, §12102(a), Nov. 2, 2002, 116 Stat. 1859; amended Pub. L. 109–162, title XI, §§1165, 1186, Jan. 5, 2006, 119 Stat. 3121, 3127.)
 
@@ -56,10 +56,10 @@ A prior section 1801 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 #### Amendments ####
 
-**2006**—Subsec. (b)(13). Pub. L. 109–162, §1186, amended par. (13) generally. Prior to amendment, par. (13) read as follows: “establishing and maintaining accountability-based programs that are designed to enhance school safety;”.
+**2006**—Subsec. (b)(13). Pub. L. 109–162, §1186, amended par. (13) generally. Prior to amendment, par. (13) read as follows: "establishing and maintaining accountability-based programs that are designed to enhance school safety;".
 
 Subsec. (b)(17). Pub. L. 109–162, §1165, added par. (17).
 
 #### Effective Date ####
 
-Pub. L. 107–273, div. C, title II, §12102(b), Nov. 2, 2002, 116 Stat. 1869, provided that: “The amendments made by subsection (a) [enacting this subchapter] shall take effect on the first day of the first fiscal year that begins after the date of enactment of this Act [Nov. 2, 2002].”
+Pub. L. 107–273, div. C, title II, §12102(b), Nov. 2, 2002, 116 Stat. 1869, provided that: "The amendments made by subsection (a) [enacting this subchapter] shall take effect on the first day of the first fiscal year that begins after the date of enactment of this Act [Nov. 2, 2002]."

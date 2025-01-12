@@ -16,11 +16,11 @@ For purposes of this section—
 
 #### (1) Personal service corporation ####
 
-The term “personal service corporation” means a corporation the principal activity of which is the performance of personal services and such services are substantially performed by employee-owners.
+The term "personal service corporation" means a corporation the principal activity of which is the performance of personal services and such services are substantially performed by employee-owners.
 
 #### (2) Employee-owner ####
 
-The term “employee-owner” means any employee who owns, on any day during the taxable year, more than 10 percent of the outstanding stock of the personal service corporation. For purposes of the preceding sentence, section 318 shall apply, except that “5 percent” shall be substituted for “50 percent” in section 318(a)(2)(C).
+The term "employee-owner" means any employee who owns, on any day during the taxable year, more than 10 percent of the outstanding stock of the personal service corporation. For purposes of the preceding sentence, section 318 shall apply, except that "5 percent" shall be substituted for "50 percent" in section 318(a)(2)(C).
 
 #### (3) Related persons ####
 
@@ -30,7 +30,7 @@ All related persons (within the meaning of section 144(a)(3)) shall be treated a
 
 #### Amendments ####
 
-**1986**—Subsec. (b)(3). Pub. L. 99–514 substituted “section 144(a)(3)” for “section 103(b)(6)(C)”.
+**1986**—Subsec. (b)(3). Pub. L. 99–514 substituted "section 144(a)(3)" for "section 103(b)(6)(C)".
 
 #### Effective Date of 1986 Amendment ####
 
@@ -38,4 +38,4 @@ Amendment by Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, ex
 
 #### Effective Date ####
 
-Pub. L. 97–248, title II, §250(c), Sept. 3, 1982, 96 Stat. 529, provided that: “The amendments made by this section [enacting this section] shall apply to taxable years beginning after December 31, 1982.”
+Pub. L. 97–248, title II, §250(c), Sept. 3, 1982, 96 Stat. 529, provided that: "The amendments made by this section [enacting this section] shall apply to taxable years beginning after December 31, 1982."

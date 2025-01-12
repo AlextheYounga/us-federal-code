@@ -6,7 +6,7 @@ When construing and enforcing the provisions of this chapter, the act, omission,
 
 #### Amendments ####
 
-**1993**—Pub. L. 103–156, which directed amendment of “Section 15” by substituting “the employment or office of the official, agent, or other person” for “his employment or office”, without specifying the name of the Act being amended, was executed to this section, which is section 15 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+**1993**—Pub. L. 103–156, which directed amendment of "Section 15" by substituting "the employment or office of the official, agent, or other person" for "his employment or office", without specifying the name of the Act being amended, was executed to this section, which is section 15 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
 #### Effective Date ####
 

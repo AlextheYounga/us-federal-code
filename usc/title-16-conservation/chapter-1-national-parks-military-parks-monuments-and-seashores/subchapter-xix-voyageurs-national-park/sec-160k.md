@@ -20,7 +20,7 @@ For purposes of section 460l–9(a)(3) of this title, the statutory ceilings on 
 
 #### Amendments ####
 
-**1983**—Pub. L. 97–405 designated existing provisions as subsec. (a), substituted “$38,314,000” for “$26,014,000”, and added subsecs. (b) to (d).
+**1983**—Pub. L. 97–405 designated existing provisions as subsec. (a), substituted "$38,314,000" for "$26,014,000", and added subsecs. (b) to (d).
 
 #### Change of Name ####
 

@@ -20,4 +20,4 @@ Chapter 89 provides for the manning of freight vessels, small passenger vessels,
 
 #### Amendments ####
 
-**1986**—Pub. L. 99–307, §1(14)(A), May 19, 1986, 100 Stat. 446, substituted “Self-propelled, uninspected” for “Uninspected” in item 8903.
+**1986**—Pub. L. 99–307, §1(14)(A), May 19, 1986, 100 Stat. 446, substituted "Self-propelled, uninspected" for "Uninspected" in item 8903.

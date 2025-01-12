@@ -2,7 +2,7 @@
 
 Sec.
 
-5901. “Secretary” defined.
+5901. "Secretary" defined.
 
 #### SUBCHAPTER I—NATIONAL PARK SERVICE CAREER DEVELOPMENT, TRAINING, AND MANAGEMENT ####
 

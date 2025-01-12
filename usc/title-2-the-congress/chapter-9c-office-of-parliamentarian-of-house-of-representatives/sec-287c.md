@@ -16,7 +16,7 @@ Section is based on section 4 of House Resolution No. 502, Ninety-fifth Congress
 
 #### Prior Provisions ####
 
-House Resolution No. 904, Eighty-eighth Congress, Oct. 3, 1964, provided: “That effective January 1, 1965, the salary of the Parliamentarian of the House of Representatives shall be at the gross rate of $28,500. The additional sums necessary to carry out this resolution shall be paid out of the contingent fund of the House until otherwise provided by law.”
+House Resolution No. 904, Eighty-eighth Congress, Oct. 3, 1964, provided: "That effective January 1, 1965, the salary of the Parliamentarian of the House of Representatives shall be at the gross rate of $28,500. The additional sums necessary to carry out this resolution shall be paid out of the contingent fund of the House until otherwise provided by law."
 
 #### Increases in Compensation ####
 

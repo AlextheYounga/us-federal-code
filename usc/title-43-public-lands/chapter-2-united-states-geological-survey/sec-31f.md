@@ -34,10 +34,10 @@ Executive Order 12906, referred to in subsec. (b)(1), is set out as a note under
 
 #### Amendments ####
 
-**2009**—Subsec. (a)(1). Pub. L. 111–11, §11001(g)(1), substituted “geologic-map” for “geologic map”.
+**2009**—Subsec. (a)(1). Pub. L. 111–11, §11001(g)(1), substituted "geologic-map" for "geologic map".
 
-Subsec. (a)(2)(A). Pub. L. 111–11, §11001(g)(2), added subpar. (A) and struck out former subpar. (A) which read as follows: “all maps developed under the Federal component and the education component;”.
+Subsec. (a)(2)(A). Pub. L. 111–11, §11001(g)(2), added subpar. (A) and struck out former subpar. (A) which read as follows: "all maps developed under the Federal component and the education component;".
 
-**1999**—Pub. L. 106–148 substituted “geologic map database” for “geologic-map data base” in section catchline, added subsec. (a), and struck out heading and text of former subsec. (a). Text read as follows: “The Survey shall establish a national geologic-map data base. Such data base shall be a national archive that includes all maps developed pursuant to sections 31a to 31h of this title, the data bases developed pursuant to the investigations under sections 31c(d)(2)(C), (D), (E), and (F) of this title, and other maps and data as the Survey deems appropriate.”
+**1999**—Pub. L. 106–148 substituted "geologic map database" for "geologic-map data base" in section catchline, added subsec. (a), and struck out heading and text of former subsec. (a). Text read as follows: "The Survey shall establish a national geologic-map data base. Such data base shall be a national archive that includes all maps developed pursuant to sections 31a to 31h of this title, the data bases developed pursuant to the investigations under sections 31c(d)(2)(C), (D), (E), and (F) of this title, and other maps and data as the Survey deems appropriate."
 
-**1997**—Subsec. (b). Pub. L. 105–36 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Geologic maps contributed to the national archives should have standardized format, symbols, and technical attributes so that archival information can be assimilated, manipulated, accessed, exchanged, and compared efficiently and accurately.”
+**1997**—Subsec. (b). Pub. L. 105–36 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "Geologic maps contributed to the national archives should have standardized format, symbols, and technical attributes so that archival information can be assimilated, manipulated, accessed, exchanged, and compared efficiently and accurately."

@@ -20,6 +20,6 @@ The National Forest Reservation Commission, referred to in text, was abolished a
 
 #### Amendments ####
 
-**1994**—Pub. L. 103–437 in introductory provisions substituted “Agriculture, Nutrition, and Forestry of the Senate” for “Agriculture and Forestry of the Senate”.
+**1994**—Pub. L. 103–437 in introductory provisions substituted "Agriculture, Nutrition, and Forestry of the Senate" for "Agriculture and Forestry of the Senate".
 
-**1988**—Pub. L. 100–409 substituted “$150,000” for “$25,000” in introductory provisions and added par. (5).
+**1988**—Pub. L. 100–409 substituted "$150,000" for "$25,000" in introductory provisions and added par. (5).

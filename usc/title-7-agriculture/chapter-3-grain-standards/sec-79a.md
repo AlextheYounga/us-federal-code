@@ -12,7 +12,7 @@ The Secretary is authorized to cause official weighing or supervision of weighin
 
 (1) With respect to official weighing or supervision of weighing for locations at which official inspection is provided by the Secretary, the Secretary shall cause such official weighing or supervision of weighing to be performed by official inspection personnel employed by the Secretary.
 
-(2) With respect to official weighing or supervision of weighing for any location at which official inspection is provided other than by the Secretary, the Secretary is authorized, with respect to export port locations, to delegate authority to perform official weighing or supervision of weighing to the State agency providing official inspection service at such location, and with respect to any other location, to designate the agency or person providing official inspection service at such location to perform official weighing or supervision of weighing, if such agency or person qualifies for a delegation of authority or designation under section 79 of this title, except that where the term “official inspection” is used in such section it shall be deemed to refer to “official weighing” or “supervision of weighing” under this section. If such agency or person is not available to perform such weighing services, or the Secretary determines that such agency or person is not qualified to perform such weighing services, then (A) at export port locations official weighing or supervision of weighing shall be performed by official inspection personnel employed by the Secretary, and (B) at any other location, the Secretary is authorized to cause official weighing or supervision of weighing to be performed by official inspection personnel employed by the Secretary or designate any State or local governmental agency, or any person to perform official weighing or supervision of weighing, if such agency or person meets the same criteria that agencies must meet to be designated to perform official inspection as set out in section 79 of this title, except that where the term “official inspection” is used in such section it shall be deemed to refer to “official weighing” or “supervision of weighing” under this section. Delegations and designations made pursuant to this subsection shall be subject to the same provisions for delegations and designations set forth in subsection (g) of section 79 of this title.
+(2) With respect to official weighing or supervision of weighing for any location at which official inspection is provided other than by the Secretary, the Secretary is authorized, with respect to export port locations, to delegate authority to perform official weighing or supervision of weighing to the State agency providing official inspection service at such location, and with respect to any other location, to designate the agency or person providing official inspection service at such location to perform official weighing or supervision of weighing, if such agency or person qualifies for a delegation of authority or designation under section 79 of this title, except that where the term "official inspection" is used in such section it shall be deemed to refer to "official weighing" or "supervision of weighing" under this section. If such agency or person is not available to perform such weighing services, or the Secretary determines that such agency or person is not qualified to perform such weighing services, then (A) at export port locations official weighing or supervision of weighing shall be performed by official inspection personnel employed by the Secretary, and (B) at any other location, the Secretary is authorized to cause official weighing or supervision of weighing to be performed by official inspection personnel employed by the Secretary or designate any State or local governmental agency, or any person to perform official weighing or supervision of weighing, if such agency or person meets the same criteria that agencies must meet to be designated to perform official inspection as set out in section 79 of this title, except that where the term "official inspection" is used in such section it shall be deemed to refer to "official weighing" or "supervision of weighing" under this section. Delegations and designations made pursuant to this subsection shall be subject to the same provisions for delegations and designations set forth in subsection (g) of section 79 of this title.
 
 #### (d) Official weighing in Canadian ports ####
 
@@ -76,45 +76,45 @@ The United States Warehouse Act, referred to in subsec. (j), is part C of act Au
 
 #### Amendments ####
 
-**2005**—Subsec. (l)(3). Pub. L. 109–83 substituted “2015” for “2005”.
+**2005**—Subsec. (l)(3). Pub. L. 109–83 substituted "2015" for "2005".
 
 **2000**—Subsec. (i). Pub. L. 106–472, §102(b), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, struck out second sentence, which prohibited more than one official agency or State delegated authority from operating at one time in any geographic area except as permitted in pilot programs, and added par. (2).
 
-Subsec. (l)(3). Pub. L. 106–472, §103(b), substituted “2005” for “2000” in first sentence.
+Subsec. (l)(3). Pub. L. 106–472, §103(b), substituted "2005" for "2000" in first sentence.
 
-**1994**—Pub. L. 103–354 substituted “supervision by the Secretary of the Secretary's field office personnel” for “supervision by Service personnel of its field office personnel” in first sentence of subsec. (l)(2) and substituted “Secretary” for “Administrator” and “Service” wherever appearing in subsecs. (a) to (f) and (i) to (l).
+**1994**—Pub. L. 103–354 substituted "supervision by the Secretary of the Secretary's field office personnel" for "supervision by Service personnel of its field office personnel" in first sentence of subsec. (l)(2) and substituted "Secretary" for "Administrator" and "Service" wherever appearing in subsecs. (a) to (f) and (i) to (l).
 
-**1993**—Subsec. (c)(2). Pub. L. 103–156, §4(b)(1), in second sentence, substituted “ ‘official weighing’ or ‘supervision of weighing’ ” for “ ‘supervision of weighing’ ”.
+**1993**—Subsec. (c)(2). Pub. L. 103–156, §4(b)(1), in second sentence, substituted " 'official weighing' or 'supervision of weighing' " for " 'supervision of weighing' ".
 
-Subsec. (d). Pub. L. 103–156, §4(b)(2), inserted before period at end of second sentence “or as otherwise provided by agreement with the Canadian Government”.
+Subsec. (d). Pub. L. 103–156, §4(b)(2), inserted before period at end of second sentence "or as otherwise provided by agreement with the Canadian Government".
 
-Subsec. (e). Pub. L. 103–156, §12(e), which directed amendment of “Section 7A(e)” by substituting “regulations as the Administrator” for “regulations as he”, without specifying the name of the Act being amended, was executed to this section, which is section 7A of the United States Grain Standards Act, to reflect the probable intent of Congress.
+Subsec. (e). Pub. L. 103–156, §12(e), which directed amendment of "Section 7A(e)" by substituting "regulations as the Administrator" for "regulations as he", without specifying the name of the Act being amended, was executed to this section, which is section 7A of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Subsec. (i). Pub. L. 103–156, §§4(b)(3), 5(b), inserted before period at end of first sentence “or as otherwise provided in section 79(i) of this title and subsection (d) of this section” and inserted before period at end of second sentence “, except that the Administrator may conduct pilot programs to allow more than 1 official agency to carry out the weighing provisions within a single geographic area without undermining the policy stated in section 74 of this title”.
+Subsec. (i). Pub. L. 103–156, §§4(b)(3), 5(b), inserted before period at end of first sentence "or as otherwise provided in section 79(i) of this title and subsection (d) of this section" and inserted before period at end of second sentence ", except that the Administrator may conduct pilot programs to allow more than 1 official agency to carry out the weighing provisions within a single geographic area without undermining the policy stated in section 74 of this title".
 
 Subsec. (l)(3). Pub. L. 103–156, §14(b), added par. (3).
 
-**1988**—Subsec. (l). Pub. L. 100–518 amended subsec. (l) generally, substituting “cover the costs of the Service” for “cover the costs of the service” in par. (1).
+**1988**—Subsec. (l). Pub. L. 100–518 amended subsec. (l) generally, substituting "cover the costs of the Service" for "cover the costs of the service" in par. (1).
 
 **1981**—Subsec. (l). Pub. L. 97–35 temporarily designated existing provisions as par. (1), made changes in nomenclature, provided for inclusion, rather than exclusion, of administrative and supervisory costs, and struck out provisions respecting availability of deposited funds, and added par. (2). See Effective and Termination Dates of 1981 Amendment note below.
 
-**1977**—Subsec. (a). Pub. L. 95–113, §1606(e), substituted “standards or procedures” for “standards”.
+**1977**—Subsec. (a). Pub. L. 95–113, §1606(e), substituted "standards or procedures" for "standards".
 
-Subsec. (b). Pub. L. 95–113, §§1604(e)(1), 1606(e), substituted “The Administrator is authorized to cause official weighing or supervision of weighing under standards or procedures” for “The Administrator is authorized to cause supervision of weighing under standards” and “other than at export elevators at export port locations” for “other than at export port locations”.
+Subsec. (b). Pub. L. 95–113, §§1604(e)(1), 1606(e), substituted "The Administrator is authorized to cause official weighing or supervision of weighing under standards or procedures" for "The Administrator is authorized to cause supervision of weighing under standards" and "other than at export elevators at export port locations" for "other than at export port locations".
 
-Subsec. (c)(2). Pub. L. 95–113, §1604(e)(2), made technical amendments to conform par. (2) to increased authority granted in subsec. (b) to cause official weighing as well as supervision of weighing at interior inspection points and corrected a typographical error in which “number” had been erroneously used for “under” in text as originally enacted by Pub. L. 94–582.
+Subsec. (c)(2). Pub. L. 95–113, §1604(e)(2), made technical amendments to conform par. (2) to increased authority granted in subsec. (b) to cause official weighing as well as supervision of weighing at interior inspection points and corrected a typographical error in which "number" had been erroneously used for "under" in text as originally enacted by Pub. L. 94–582.
 
 Subsec. (d). Pub. L. 95–113, §1604(e)(3), inserted requirement that all or specified functions of Canadian weighing be performed by official inspection personnel employed by the Service or, except for appeals, by persons operating under a contract with the Service.
 
-Subsec. (e). Pub. L. 95–113, §§1604(e)(4), 1606(e), substituted “under standards or procedures provided” for “under standards provided” and struck out provisions which had required that the weighing service not be provided for periods of less than a year, that the fees therefor be set separately from the fees provided for in subsec. (l), and that they be reasonable, nondiscriminatory, and equal, as nearly as possible, to the cost of providing the service.
+Subsec. (e). Pub. L. 95–113, §§1604(e)(4), 1606(e), substituted "under standards or procedures provided" for "under standards provided" and struck out provisions which had required that the weighing service not be provided for periods of less than a year, that the fees therefor be set separately from the fees provided for in subsec. (l), and that they be reasonable, nondiscriminatory, and equal, as nearly as possible, to the cost of providing the service.
 
-Subsec. (f)(2). Pub. L. 95–113, §1604(e)(5)(A), substituted “permit only competent persons with a reputation for honesty and integrity and who are approved by the Administrator” for “employ only competent persons with a reputation for honesty and integrity”.
+Subsec. (f)(2). Pub. L. 95–113, §1604(e)(5)(A), substituted "permit only competent persons with a reputation for honesty and integrity and who are approved by the Administrator" for "employ only competent persons with a reputation for honesty and integrity".
 
-Subsec. (f)(3). Pub. L. 95–113, §1604(e)(5)(B), substituted “when weighing is to be done by persons other than official inspection personnel, will require such persons to operate the scales” for “when weighing is to be done by employees of the facility, will require employees to operate the scales”.
+Subsec. (f)(3). Pub. L. 95–113, §1604(e)(5)(B), substituted "when weighing is to be done by persons other than official inspection personnel, will require such persons to operate the scales" for "when weighing is to be done by employees of the facility, will require employees to operate the scales".
 
-Subsec. (g). Pub. L. 95–113, §1604(e)(6), substituted “official weighing or supervision of weighing” for “official weighing”.
+Subsec. (g). Pub. L. 95–113, §1604(e)(6), substituted "official weighing or supervision of weighing" for "official weighing".
 
-Subsec. (i). Pub. L. 95–113, §1604(e)(7), (8), substituted “No State or local governmental agency” for “No State” and inserted provision that not more than one official agency or State delegated authority pursuant to subsection (c)(2) of this section for carrying out the weighing provisions of this chapter be operative at one time for any geographic area as determined by the Administrator to effectuate the objectives stated in section 74 of this title.
+Subsec. (i). Pub. L. 95–113, §1604(e)(7), (8), substituted "No State or local governmental agency" for "No State" and inserted provision that not more than one official agency or State delegated authority pursuant to subsection (c)(2) of this section for carrying out the weighing provisions of this chapter be operative at one time for any geographic area as determined by the Administrator to effectuate the objectives stated in section 74 of this title.
 
 Subsec. (l). Pub. L. 95–113, §1602(b), revised provisions relating to fees so as to remove requirement that field supervision of weighing be supported by fees.
 
@@ -138,4 +138,4 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 Section effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as an Effective Date of 1976 Amendment note under section 74 of this title.
 
-[<sup>1</sup> So in original. Probably should be “the Secretary's”.](#79a_1)
+[<sup>1</sup> So in original. Probably should be "the Secretary's".](#79a_1)

@@ -12,13 +12,13 @@ Another section 4p of act Sept. 21, 1922, was renumbered section 4q and is class
 
 #### Amendments ####
 
-**2000**—Subsec. (a). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(11)(A)], substituted “title, contract markets, or derivatives transaction execution facilities” for “title or contract markets”.
+**2000**—Subsec. (a). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(11)(A)], substituted "title, contract markets, or derivatives transaction execution facilities" for "title or contract markets".
 
-Subsec. (b). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(11)(B)], inserted “derivatives transaction execution facility,” after “contract market,”.
+Subsec. (b). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(11)(B)], inserted "derivatives transaction execution facility," after "contract market,".
 
 **1992**—Pub. L. 102–546 designated existing provisions as subsec. (a) and added subsec. (b).
 
-**1983**—Pub. L. 97–444 substituted “persons required to be registered with the Commission” for “futures commission merchants, floor brokers, and those persons associated with futures commission merchants or floor brokers” in first sentence, “customers, clients, pool participants, or other members of the public with whom such individuals deal” for “the customers of futures commission merchants and floor brokers” in last sentence, and in second and third sentences struck out “as futures commission merchants, floor brokers, and those persons associated with futures commission merchants or floor brokers,” after “applicants for registration”.
+**1983**—Pub. L. 97–444 substituted "persons required to be registered with the Commission" for "futures commission merchants, floor brokers, and those persons associated with futures commission merchants or floor brokers" in first sentence, "customers, clients, pool participants, or other members of the public with whom such individuals deal" for "the customers of futures commission merchants and floor brokers" in last sentence, and in second and third sentences struck out "as futures commission merchants, floor brokers, and those persons associated with futures commission merchants or floor brokers," after "applicants for registration".
 
 #### Effective Date of 1983 Amendment ####
 
@@ -30,6 +30,6 @@ For effective date of section, see section 418 of Pub. L. 93–463, set out as a
 
 #### Regulations ####
 
-Pub. L. 102–546, title II, §210(b), Oct. 28, 1992, 106 Stat. 3607, provided that: “The Commodity Futures Trading Commission shall issue the regulations required by section 4p(b) of the Commodity Exchange Act [7 U.S.C. 6p(b)], as added by subsection (a), no later than one hundred and eighty days after the date of enactment of this Act [Oct. 28, 1992].”
+Pub. L. 102–546, title II, §210(b), Oct. 28, 1992, 106 Stat. 3607, provided that: "The Commodity Futures Trading Commission shall issue the regulations required by section 4p(b) of the Commodity Exchange Act [7 U.S.C. 6p(b)], as added by subsection (a), no later than one hundred and eighty days after the date of enactment of this Act [Oct. 28, 1992]."
 
 [<sup>1</sup> So in original. Probably should be capitalized.](#6p_1)

@@ -24,19 +24,19 @@ Moneys received in payment of such civil penalties shall be deposited in the gen
 
 #### Amendments ####
 
-**1994**—Subsecs. (a), (c) to (e). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
+**1994**—Subsecs. (a), (c) to (e). Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
 
-**1993**—Pub. L. 103–156, §12(i), which directed amendment of “Section 10”, without specifying the name of the Act being amended, was executed to this section, which is section 10 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+**1993**—Pub. L. 103–156, §12(i), which directed amendment of "Section 10", without specifying the name of the Act being amended, was executed to this section, which is section 10 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Subsec. (a). Pub. L. 103–156, §12(i)(1), substituted “the Administrator” for “he” in two places.
+Subsec. (a). Pub. L. 103–156, §12(i)(1), substituted "the Administrator" for "he" in two places.
 
-Subsec. (b). Pub. L. 103–156, §12(i)(2), substituted “the person” for “he”.
+Subsec. (b). Pub. L. 103–156, §12(i)(2), substituted "the person" for "he".
 
-**1976**—Subsec. (a). Pub. L. 94–582 substituted “Administrator” for “Secretary”, “grain offered for such services” for “grain offered for inspection”, “has knowingly committed any violation of section 87b of this title or has been convicted of any violation of other Federal law with respect to the handling, weighing, or official inspection of grain, or that official inspection or the services related to weighing have been refused” for “has been convicted of any violation of section 87b of this title, or that official inspection has been refused”, and “integrity of the service” for “integrity of the official inspection service”, and authorized refusal of provision of services relating to weighing.
+**1976**—Subsec. (a). Pub. L. 94–582 substituted "Administrator" for "Secretary", "grain offered for such services" for "grain offered for inspection", "has knowingly committed any violation of section 87b of this title or has been convicted of any violation of other Federal law with respect to the handling, weighing, or official inspection of grain, or that official inspection or the services related to weighing have been refused" for "has been convicted of any violation of section 87b of this title, or that official inspection has been refused", and "integrity of the service" for "integrity of the official inspection service", and authorized refusal of provision of services relating to weighing.
 
 Subsec. (c). Pub. L. 94–582 added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 94–582 redesignated provisions of former subsec. (c) as (d), inserted “or services related to weighing” before “is refused”, inserted “or a civil penalty is assessed against any person under this section” after “to any person”, provided for the hearing under sections 554, 556, and 557 of title 5, and inserted provisions relating to temporary refusal without hearing pending final determination.
+Subsec. (d). Pub. L. 94–582 redesignated provisions of former subsec. (c) as (d), inserted "or services related to weighing" before "is refused", inserted "or a civil penalty is assessed against any person under this section" after "to any person", provided for the hearing under sections 554, 556, and 557 of title 5, and inserted provisions relating to temporary refusal without hearing pending final determination.
 
 Subsec. (e). Pub. L. 94–582 added subsec. (e).
 

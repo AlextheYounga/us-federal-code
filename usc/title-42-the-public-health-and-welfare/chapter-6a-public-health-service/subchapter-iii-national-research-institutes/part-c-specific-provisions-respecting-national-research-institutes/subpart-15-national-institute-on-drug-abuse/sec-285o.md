@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-The general purpose of the National Institute on Drug Abuse (hereafter in this subpart referred to as the “Institute”) is the conduct and support of biomedical and behavioral research, health services research, research training, and health information dissemination with respect to the prevention of drug abuse and the treatment of drug abusers.
+The general purpose of the National Institute on Drug Abuse (hereafter in this subpart referred to as the "Institute") is the conduct and support of biomedical and behavioral research, health services research, research training, and health information dissemination with respect to the prevention of drug abuse and the treatment of drug abusers.
 
 #### (b) Research program ####
 
@@ -18,7 +18,7 @@ The Director of the Institute shall collaborate with the Substance Abuse and Men
 
 **2007**—Subsec. (d). Pub. L. 109–482 struck out subsec. (d) which related to authorization of appropriations and allocation for health services research.
 
-**1992**—Subsec. (d)(1). Pub. L. 102–352 inserted “other than section 285o–4 of this title,” after “this subpart,”.
+**1992**—Subsec. (d)(1). Pub. L. 102–352 inserted "other than section 285o–4 of this title," after "this subpart,".
 
 #### Effective Date of 2007 Amendment ####
 

@@ -16,13 +16,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments ####
 
-**2008**—Pub. L. 110–246, §13202(b), in introductory provisions, inserted “, or any significant price discovery contract traded or executed on an electronic trading facility or any agreement, contract, or transaction that is treated by a derivatives clearing organization, whether registered or not registered, as fungible with a significant price discovery contract” after “derivatives transaction execution facility” and, in concluding provisions, inserted “or electronic trading facility” after “board of trade”.
+**2008**—Pub. L. 110–246, §13202(b), in introductory provisions, inserted ", or any significant price discovery contract traded or executed on an electronic trading facility or any agreement, contract, or transaction that is treated by a derivatives clearing organization, whether registered or not registered, as fungible with a significant price discovery contract" after "derivatives transaction execution facility" and, in concluding provisions, inserted "or electronic trading facility" after "board of trade".
 
-**2000**—Pub. L. 106–554 inserted “or derivatives transaction execution facility” after “contract market” in introductory provisions.
+**2000**—Pub. L. 106–554 inserted "or derivatives transaction execution facility" after "contract market" in introductory provisions.
 
 **1983**—Pub. L. 97–444 amended section generally by substantially restating provisions and inserting requirement that persons whose transactions and positions in any cash commodity or commodity future are equal to or in excess of amounts fixed by the Commission, must keep books and records of such transactions and positions as well as books and records of any such commodity traded on or subject to rules of any other board of trade, whether or not such person is required to file reports with the Commission concerning such transactions and positions.
 
-**1974**—Pub. L. 93–463 substituted “Commission” for “Secretary of Agriculture” and “United States Department of Agriculture”.
+**1974**—Pub. L. 93–463 substituted "Commission" for "Secretary of Agriculture" and "United States Department of Agriculture".
 
 **1968**—Pub. L. 90–258 required recordkeeping of positions and of cash or spot transactions in commodities entered into, and inventories and purchase and sale commitments of commodities held, in any month in which reports are required to be kept, including details concerning positions, inventories, and commitments, and included controlled transactions and positions in the futures and cash or spot transactions and positions of any person.
 

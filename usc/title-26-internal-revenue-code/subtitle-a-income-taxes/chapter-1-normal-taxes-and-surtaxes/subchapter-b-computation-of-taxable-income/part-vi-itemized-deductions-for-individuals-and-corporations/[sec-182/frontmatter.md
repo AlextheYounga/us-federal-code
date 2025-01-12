@@ -4,4 +4,4 @@ Section, added Pub. L. 87–834, §21(a), Oct. 16, 1962, 76 Stat. 1063; amended 
 
 #### Effective Date of Repeal ####
 
-Pub. L. 99–514, title IV, §402(c), Oct. 22, 1986, 100 Stat. 2221, provided that: “The amendments made by this section [amending sections 263 and 1252 of this title and repealing this section] shall apply to amounts paid or incurred after December 31, 1985, in taxable years ending after such date.”
+Pub. L. 99–514, title IV, §402(c), Oct. 22, 1986, 100 Stat. 2221, provided that: "The amendments made by this section [amending sections 263 and 1252 of this title and repealing this section] shall apply to amounts paid or incurred after December 31, 1985, in taxable years ending after such date."

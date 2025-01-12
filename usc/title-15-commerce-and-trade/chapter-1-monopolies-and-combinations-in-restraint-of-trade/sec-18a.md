@@ -24,7 +24,7 @@ In the case of a tender offer, the person whose voting securities are sought to 
 
 (1) The waiting period required under subsection (a) of this section shall—
 
-(A) begin on the date of the receipt by the Federal Trade Commission and the Assistant Attorney General in charge of the Antitrust Division of the Department of Justice (hereinafter referred to in this section as the “Assistant Attorney General”) of—
+(A) begin on the date of the receipt by the Federal Trade Commission and the Assistant Attorney General in charge of the Antitrust Division of the Department of Justice (hereinafter referred to in this section as the "Assistant Attorney General") of—
 
 (i) the completed notification required under subsection (a) of this section, or
 
@@ -38,7 +38,7 @@ from both persons, or, in the case of a tender offer, the acquiring person; and
 
 (3) As used in this section—
 
-(A) The term “voting securities” means any securities which at present or upon conversion entitle the owner or holder thereof to vote for the election of directors of the issuer or, with respect to unincorporated issuers, persons exercising similar functions.
+(A) The term "voting securities" means any securities which at present or upon conversion entitle the owner or holder thereof to vote for the election of directors of the issuer or, with respect to unincorporated issuers, persons exercising similar functions.
 
 (B) The amount or percentage of voting securities or assets of a person which are acquired or held by another person shall be determined by aggregating the amount or percentage of such voting securities or assets held or acquired by such other person and each affiliate thereof.
 
@@ -158,7 +158,7 @@ The Antitrust Civil Process Act, referred to in subsec. (i)(2), is Pub. L. 87–
 
 #### Codification ####
 
-December 21, 2000, referred to in subsec. (e)(1)(B), was in the original “the date of the enactment of this Act” which was translated as meaning the date of enactment of Pub. L. 106–553, which enacted subsec. (e)(1)(B), to reflect the probable intent of Congress.
+December 21, 2000, referred to in subsec. (e)(1)(B), was in the original "the date of the enactment of this Act" which was translated as meaning the date of enactment of Pub. L. 106–553, which enacted subsec. (e)(1)(B), to reflect the probable intent of Congress.
 
 Subsection (j), which required the Federal Trade Commission, with the concurrence of the Assistant Attorney General, to report annually to Congress on the operation of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 172 of House Document No. 103–7.
 
@@ -166,37 +166,37 @@ Subsection (j), which required the Federal Trade Commission, with the concurrenc
 
 **2000**—Subsec. (a). Pub. L. 106–553, §1(a)(2) [title VI, §630(a)], amended subsec. (a) generally, reenacting introductory provisions, par. (1), and concluding provisions without change, adding par. (2), and striking out former pars. (2) and (3) which read as follows:
 
-“(2)(A) any voting securities or assets of a person engaged in manufacturing which has annual net sales or total assets of $10,000,000 or more are being acquired by any person which has total assets or annual net sales of $100,000,000 or more;
+"(2)(A) any voting securities or assets of a person engaged in manufacturing which has annual net sales or total assets of $10,000,000 or more are being acquired by any person which has total assets or annual net sales of $100,000,000 or more;
 
-“(B) any voting securities or assets of a person not engaged in manufacturing which has total assets of $10,000,000 or more are being acquired by any person which has total assets or annual net sales of $100,000,000 or more; or
+"(B) any voting securities or assets of a person not engaged in manufacturing which has total assets of $10,000,000 or more are being acquired by any person which has total assets or annual net sales of $100,000,000 or more; or
 
-“(C) any voting securities or assets of a person with annual net sales or total assets of $100,000,000 or more are being acquired by any person with total assets or annual net sales of $10,000,000 or more; and
+"(C) any voting securities or assets of a person with annual net sales or total assets of $100,000,000 or more are being acquired by any person with total assets or annual net sales of $10,000,000 or more; and
 
-“(3) as a result of such acquisition, the acquiring person would hold—
+"(3) as a result of such acquisition, the acquiring person would hold—
 
-“(A) 15 per centum or more of the voting securities or assets of the acquired person, or
+"(A) 15 per centum or more of the voting securities or assets of the acquired person, or
 
-“(B) an aggregate total amount of the voting securities and assets of the acquired person in excess of $15,000,000.”
+"(B) an aggregate total amount of the voting securities and assets of the acquired person in excess of $15,000,000."
 
 Subsec. (e)(1). Pub. L. 106–553, §1(a)(2) [title VI, §630(c)], designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (e)(2). Pub. L. 106–553, §1(a)(2) [title VI, §630(d)(1)], substituted “30 days” for “20 days”.
+Subsec. (e)(2). Pub. L. 106–553, §1(a)(2) [title VI, §630(d)(1)], substituted "30 days" for "20 days".
 
 Subsec. (k). Pub. L. 106–553, §1(a)(2) [title VI, §630(d)(2)], added subsec. (k).
 
-**1999**—Subsec. (c)(7). Pub. L. 106–102, §133(c)(1), inserted before semicolon at end “, except that a portion of a transaction is not exempt under this paragraph if such portion of the transaction (A) is subject to section 1843(k) of title 12; and (B) does not require agency approval under section 1842 of title 12”.
+**1999**—Subsec. (c)(7). Pub. L. 106–102, §133(c)(1), inserted before semicolon at end ", except that a portion of a transaction is not exempt under this paragraph if such portion of the transaction (A) is subject to section 1843(k) of title 12; and (B) does not require agency approval under section 1842 of title 12".
 
-Subsec. (c)(8). Pub. L. 106–102, §133(c)(2), inserted before semicolon at end “, except that a portion of a transaction is not exempt under this paragraph if such portion of the transaction (A) is subject to section 1843(k) of title 12; and (B) does not require agency approval under section 1843 of title 12”.
+Subsec. (c)(8). Pub. L. 106–102, §133(c)(2), inserted before semicolon at end ", except that a portion of a transaction is not exempt under this paragraph if such portion of the transaction (A) is subject to section 1843(k) of title 12; and (B) does not require agency approval under section 1843 of title 12".
 
 **1989**—Subsec. (c)(7). Pub. L. 101–73, §1214(1), inserted reference to section 1467a(e) of title 12.
 
 Subsec. (c)(8). Pub. L. 101–73, §1214(2), struck out reference to section 1726 or 1730a(e) of title 12.
 
-**1984**—Subsec. (f)(2). Pub. L. 98–620 struck out designation “(A)” before “upon the filing”, and struck out subpar. (B) which had provided that if the Federal Trade Commission or the Assistant Attorney General certified that he or it believed that the public interest required relief pendente lite pursuant to this subsection, the motion for a preliminary injunction had to be set down for hearing by the district judge so designated at the earliest practicable time, would take precedence over all matters except older matters of the same character and trials pursuant to section 3161 of title 18, and had to be in every way expedited.
+**1984**—Subsec. (f)(2). Pub. L. 98–620 struck out designation "(A)" before "upon the filing", and struck out subpar. (B) which had provided that if the Federal Trade Commission or the Assistant Attorney General certified that he or it believed that the public interest required relief pendente lite pursuant to this subsection, the motion for a preliminary injunction had to be set down for hearing by the district judge so designated at the earliest practicable time, would take precedence over all matters except older matters of the same character and trials pursuant to section 3161 of title 18, and had to be in every way expedited.
 
 #### Effective Date of 2000 Amendment ####
 
-Pub. L. 106–553, §1(a)(2) [title VI, §630(e)], Dec. 21, 2000, 114 Stat. 2762, 2762A–111, provided that: “This section [amending this section and provisions set out as a note under this section] and the amendments made by this section shall take effect on the 1st day of the 1st month that begins more than 30 days after the date of the enactment of this Act [Dec. 21, 2000].”
+Pub. L. 106–553, §1(a)(2) [title VI, §630(e)], Dec. 21, 2000, 114 Stat. 2762, 2762A–111, provided that: "This section [amending this section and provisions set out as a note under this section] and the amendments made by this section shall take effect on the 1st day of the 1st month that begins more than 30 days after the date of the enactment of this Act [Dec. 21, 2000]."
 
 #### Effective Date of 1999 Amendment ####
 
@@ -208,18 +208,18 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 #### Effective Date ####
 
-Pub. L. 94–435, title II, §202, Sept. 30, 1976, 90 Stat. 1394, provided that: “The amendment made by section 201 of this Act [enacting this section] shall take effect 150 days after the date of enactment of this Act [Sept. 30, 1976], except that subsection (d) of section 7A of the Clayton Act [subsec. (d) of this section] (as added by section 201 of this Act) shall take effect on the date of enactment of this Act.”
+Pub. L. 94–435, title II, §202, Sept. 30, 1976, 90 Stat. 1394, provided that: "The amendment made by section 201 of this Act [enacting this section] shall take effect 150 days after the date of enactment of this Act [Sept. 30, 1976], except that subsection (d) of section 7A of the Clayton Act [subsec. (d) of this section] (as added by section 201 of this Act) shall take effect on the date of enactment of this Act."
 
 #### Assessment and Collection of Filing Fees ####
 
 Pub. L. 101–162, title VI, §605, Nov. 21, 1989, 103 Stat. 1031, as amended by Pub. L. 101–302, title II, May 25, 1990, 104 Stat. 217; Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1847; Pub. L. 103–317, title I, Aug. 26, 1994, 108 Stat. 1739; Pub. L. 106–553, §1(a)(2) [title VI, §630(b)], Dec. 21, 2000, 114 Stat. 2762, 2762A–109, provided that:
 
-“(a) Five working days after enactment of this Act [Nov. 21, 1989] and thereafter, the Federal Trade Commission shall assess and collect filing fees established in subsection (b) which shall be paid by persons acquiring voting securities or assets who are required to file premerger notifications by the [sic] section 7A of the Clayton Act (15 U.S.C. 18a) and the regulations promulgated thereunder. For purposes of said Act, no notification shall be considered filed until payment of the fee required by this section. Fees collected pursuant to this section shall be divided evenly between and credited to the appropriations, Federal Trade Commission, ‘Salaries and Expenses’ and Department of Justice, ‘Salaries and Expenses, Antitrust Division’: *Provided*, That fees in excess of $40,000,000 in fiscal year 1990 shall be deposited to the credit of the Treasury of the United States: *Provided further*, That fees made available to the Federal Trade Commission and the Antitrust Division herein shall remain available until expended.
+"(a) Five working days after enactment of this Act [Nov. 21, 1989] and thereafter, the Federal Trade Commission shall assess and collect filing fees established in subsection (b) which shall be paid by persons acquiring voting securities or assets who are required to file premerger notifications by the [sic] section 7A of the Clayton Act (15 U.S.C. 18a) and the regulations promulgated thereunder. For purposes of said Act, no notification shall be considered filed until payment of the fee required by this section. Fees collected pursuant to this section shall be divided evenly between and credited to the appropriations, Federal Trade Commission, 'Salaries and Expenses' and Department of Justice, 'Salaries and Expenses, Antitrust Division': *Provided*, That fees in excess of $40,000,000 in fiscal year 1990 shall be deposited to the credit of the Treasury of the United States: *Provided further*, That fees made available to the Federal Trade Commission and the Antitrust Division herein shall remain available until expended.
 
-“(b) The filing fees referred to in subsection (a) are—
+"(b) The filing fees referred to in subsection (a) are—
 
-“(1) $45,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is less than $100,000,000 (as adjusted and published for each fiscal year beginning after September 30, 2004, in the same manner as provided in section 8(a)(5) of the Clayton Act (15 U.S.C. 19(a)(5)) to reflect the percentage change in the gross national product for such fiscal year compared to the gross national product for the year ending September 30, 2003);
+"(1) $45,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is less than $100,000,000 (as adjusted and published for each fiscal year beginning after September 30, 2004, in the same manner as provided in section 8(a)(5) of the Clayton Act (15 U.S.C. 19(a)(5)) to reflect the percentage change in the gross national product for such fiscal year compared to the gross national product for the year ending September 30, 2003);
 
-“(2) $125,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is not less than $100,000,000 (as so adjusted and published) but less than $500,000,000 (as so adjusted and published); and
+"(2) $125,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is not less than $100,000,000 (as so adjusted and published) but less than $500,000,000 (as so adjusted and published); and
 
-“(3) $280,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is not less than $500,000,000 (as so adjusted and published).”
+"(3) $280,000 if the aggregate total amount determined under section 7A(a)(2) of the Clayton Act (15 U.S.C. 18a(a)(2)) is not less than $500,000,000 (as so adjusted and published)."

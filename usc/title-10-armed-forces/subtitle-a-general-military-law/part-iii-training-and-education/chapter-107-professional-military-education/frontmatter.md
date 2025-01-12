@@ -22,4 +22,4 @@ A prior chapter 107 was renumbered chapter 106A of this title.
 
 #### Amendments ####
 
-**2006**—Pub. L. 109–364, div. A, title X, §1071(a)(12), (13), Oct. 17, 2006, 120 Stat. 2399, substituted “Joint professional” for “Professional” in item 2152 and “Phase” for “phase” in item 2155.
+**2006**—Pub. L. 109–364, div. A, title X, §1071(a)(12), (13), Oct. 17, 2006, 120 Stat. 2399, substituted "Joint professional" for "Professional" in item 2152 and "Phase" for "phase" in item 2155.

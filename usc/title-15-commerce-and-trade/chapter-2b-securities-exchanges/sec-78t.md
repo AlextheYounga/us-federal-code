@@ -32,27 +32,27 @@ Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII 
 
 #### References in Text ####
 
-This chapter, referred to in text, was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in text, was in the original "this title". See References in Text note set out under section 78a of this title.
 
 #### Amendments ####
 
-**2010**—Subsec. (a). Pub. L. 111–203, §929P(c), inserted “(including to the Commission in any action brought under paragraph (1) or (3) of section 78u(d) of this title)” after “controlled person is liable”.
+**2010**—Subsec. (a). Pub. L. 111–203, §929P(c), inserted "(including to the Commission in any action brought under paragraph (1) or (3) of section 78u(d) of this title)" after "controlled person is liable".
 
-Subsec. (d). Pub. L. 111–203, §762(d)(6)(A), struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreement”.
+Subsec. (d). Pub. L. 111–203, §762(d)(6)(A), struck out "(as defined in section 206B of the Gramm-Leach-Bliley Act)" after "security-based swap agreement".
 
-Subsec. (e). Pub. L. 111–203, §929O, inserted “or recklessly” after “knowingly”.
+Subsec. (e). Pub. L. 111–203, §929O, inserted "or recklessly" after "knowingly".
 
-Subsec. (f). Pub. L. 111–203, §762(d)(6)(B), struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreements”.
+Subsec. (f). Pub. L. 111–203, §762(d)(6)(B), struck out "(as defined in section 206B of the Gramm-Leach-Bliley Act)" after "security-based swap agreements".
 
-**2000**—Subsec. (d). Pub. L. 106–554, §1(a)(5) [title III, §303(i)], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Wherever communicating, or purchasing or selling a security while in possession of, material nonpublic information would violate, or result in liability to any purchaser or seller of the security under any provision of this chapter, or any rule or regulation thereunder, such conduct in connection with a purchase or sale of a put, call, straddle, option,, privilege, or security futures product with respect to such security or with respect to a group or index of securities including such security, shall also violate and result in comparable liability to any purchaser or seller of that security under such provision, rule, or regulation.”
+**2000**—Subsec. (d). Pub. L. 106–554, §1(a)(5) [title III, §303(i)], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Wherever communicating, or purchasing or selling a security while in possession of, material nonpublic information would violate, or result in liability to any purchaser or seller of the security under any provision of this chapter, or any rule or regulation thereunder, such conduct in connection with a purchase or sale of a put, call, straddle, option,, privilege, or security futures product with respect to such security or with respect to a group or index of securities including such security, shall also violate and result in comparable liability to any purchaser or seller of that security under such provision, rule, or regulation."
 
-Pub. L. 106–554, §1(a)(5) [title II, §205(a)(3)], substituted “, privilege, or security futures product” for “or privilege”.
+Pub. L. 106–554, §1(a)(5) [title II, §205(a)(3)], substituted ", privilege, or security futures product" for "or privilege".
 
 Subsec. (f). Pub. L. 106–554, §1(a)(5) [title III, §303(j)], added subsec. (f).
 
 **1998**—Subsecs. (e), (f). Pub. L. 105–353 redesignated subsec. (f) as (e).
 
-**1995**—Pub. L. 104–67, §104(1), substituted “liability of controlling persons and persons who aid and abet violations” for “Liabilities of controlling persons” in section catchline.
+**1995**—Pub. L. 104–67, §104(1), substituted "liability of controlling persons and persons who aid and abet violations" for "Liabilities of controlling persons" in section catchline.
 
 Subsec. (f). Pub. L. 104–67, §104(2), added subsec. (f).
 
@@ -60,7 +60,7 @@ Subsec. (f). Pub. L. 104–67, §104(2), added subsec. (f).
 
 **1964**—Subsec. (c). Pub. L. 88–467 extended application of provisions of subsec. (c) by substituting the prohibition against any officer or director of, or an owner of securities issued by, a company from hindering, delaying, or obstructing the preparation or filing of any report, document, or information required to be filed under this chapter for existing provisions applicable only to filings by companies with securities registered on a national securities exchange or subject to the provisions of section 78o(d) of this title.
 
-**1936**—Subsec. (c). Act May 27, 1936, inserted “or any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title”.
+**1936**—Subsec. (c). Act May 27, 1936, inserted "or any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title".
 
 #### Effective Date of 2010 Amendment ####
 

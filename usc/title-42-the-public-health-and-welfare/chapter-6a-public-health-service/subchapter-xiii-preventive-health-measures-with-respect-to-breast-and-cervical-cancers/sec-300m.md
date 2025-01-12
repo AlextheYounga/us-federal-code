@@ -112,15 +112,15 @@ In this subsection:
 
 #### (A) Indian tribe ####
 
-The term “Indian tribe” has the meaning given the term in section 1603 of title 25.
+The term "Indian tribe" has the meaning given the term in section 1603 of title 25.
 
 #### (B) Tribal organization ####
 
-The term “tribal organization” has the meaning given the term in section 1603 of title 25.
+The term "tribal organization" has the meaning given the term in section 1603 of title 25.
 
 #### (C) State ####
 
-The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, the Republic of Palau, an Indian tribe, and a tribal organization.
+The term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, the Republic of Palau, an Indian tribe, and a tribal organization.
 
 #### (6) Sunset ####
 
@@ -156,8 +156,8 @@ Section 300m–6, act July 1, 1944, ch. 373, title XV, §1527, as added Oct. 4, 
 
 #### Transition Rule Regarding Mammographies ####
 
-Pub. L. 103–183, title I, §101(c)(2), Dec. 14, 1993, 107 Stat. 2228, provided that: “With respect to the screening procedure for breast cancer known as a mammography, the requirements in effect on the day before the date of the enactment of this Act [Dec. 14, 1993] under section 1503(c) of the Public Health Service Act [42 U.S.C. 300m(c)] remain in effect (for an individual or facility conducting such procedures pursuant to a grant to a State under section 1501 of such Act [42 U.S.C. 300k]) until there is in effect for the facility a certificate (or provisional certificate) issued under section 354 of such Act [42 U.S.C. 263b].”
+Pub. L. 103–183, title I, §101(c)(2), Dec. 14, 1993, 107 Stat. 2228, provided that: "With respect to the screening procedure for breast cancer known as a mammography, the requirements in effect on the day before the date of the enactment of this Act [Dec. 14, 1993] under section 1503(c) of the Public Health Service Act [42 U.S.C. 300m(c)] remain in effect (for an individual or facility conducting such procedures pursuant to a grant to a State under section 1501 of such Act [42 U.S.C. 300k]) until there is in effect for the facility a certificate (or provisional certificate) issued under section 354 of such Act [42 U.S.C. 263b]."
 
-[<sup>1</sup> So in original. Probably should be “waiver”.](#300m_1)
+[<sup>1</sup> So in original. Probably should be "waiver".](#300m_1)
 
-[<sup>2</sup> So in original. Probably should be “non-Federal”.](#300m_2)
+[<sup>2</sup> So in original. Probably should be "non-Federal".](#300m_2)

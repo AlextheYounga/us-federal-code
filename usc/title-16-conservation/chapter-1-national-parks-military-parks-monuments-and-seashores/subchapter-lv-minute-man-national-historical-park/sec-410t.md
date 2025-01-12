@@ -12,7 +12,7 @@ The Secretary of the Interior shall transfer, without reimbursement, to the admi
 
 #### (c) Exceptions and limitations to authorization to acquire lands; condemnation ####
 
-The Secretary of the Interior is authorized to acquire by donation, purchase with donated or appropriated funds, or exchange, lands or interests in lands within the areas included within the boundaries of the park pursuant to amendments made by the Minute Man National Historical Park Amendments of 1991 (hereinafter referred to as “1991 additions”), except that—
+The Secretary of the Interior is authorized to acquire by donation, purchase with donated or appropriated funds, or exchange, lands or interests in lands within the areas included within the boundaries of the park pursuant to amendments made by the Minute Man National Historical Park Amendments of 1991 (hereinafter referred to as "1991 additions"), except that—
 
 (1) lands, and interests in lands, within the 1991 additions which are owned by the State of Massachusetts or any political subdivision thereof, may be acquired only by donation, and
 
@@ -42,30 +42,30 @@ The Minute Man National Historical Park Amendments of 1991, referred to in subse
 
 Pub. L. 111–11, title VII, §7106, Mar. 30, 2009, 123 Stat. 1193, provided that:
 
-“(a) Definitions.—In this section:
+"(a) Definitions.—In this section:
 
-“(1) Map.—The term ‘map’ means the map entitled ‘Minute Man National Historical Park Proposed Boundary’, numbered 406/81001, and dated July 2007.
+"(1) Map.—The term 'map' means the map entitled 'Minute Man National Historical Park Proposed Boundary', numbered 406/81001, and dated July 2007.
 
-“(2) Park.—The term ‘Park’ means the Minute Man National Historical Park in the State of Massachusetts.
+"(2) Park.—The term 'Park' means the Minute Man National Historical Park in the State of Massachusetts.
 
-“(3) Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+"(3) Secretary.—The term 'Secretary' means the Secretary of the Interior.
 
-“(b) Minute Man National Historical Park.—
+"(b) Minute Man National Historical Park.—
 
-“(1) Boundary adjustment.—
+"(1) Boundary adjustment.—
 
-“(A) In general.—The boundary of the Park is modified to include the area generally depicted on the map.
+"(A) In general.—The boundary of the Park is modified to include the area generally depicted on the map.
 
-“(B) Availability of map.—The map shall be on file and available for inspection in the appropriate offices of the National Park Service.
+"(B) Availability of map.—The map shall be on file and available for inspection in the appropriate offices of the National Park Service.
 
-“(2) Acquisition of land.—The Secretary may acquire the land or an interest in the land described in paragraph (1)(A) by—
+"(2) Acquisition of land.—The Secretary may acquire the land or an interest in the land described in paragraph (1)(A) by—
 
-“(A) purchase from willing sellers with donated or appropriated funds;
+"(A) purchase from willing sellers with donated or appropriated funds;
 
-“(B) donation; or
+"(B) donation; or
 
-“(C) exchange.
+"(C) exchange.
 
-“(3) Administration of land.—The Secretary shall administer the land added to the Park under paragraph (1)(A) in accordance with applicable laws (including regulations).
+"(3) Administration of land.—The Secretary shall administer the land added to the Park under paragraph (1)(A) in accordance with applicable laws (including regulations).
 
-“(c) Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section.”
+"(c) Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section."

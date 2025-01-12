@@ -12,4 +12,4 @@ With a view to avoiding unnecessary duplication of existing staffs and facilitie
 
 #### Amendments ####
 
-**1974**—Subsec. (a). Pub. L. 93–383 substituted “or medical practice facility (as defined in section 1749aaa–5 of this title)” for “(as defined in section 1749aaa–5(1) of this title)”.
+**1974**—Subsec. (a). Pub. L. 93–383 substituted "or medical practice facility (as defined in section 1749aaa–5 of this title)" for "(as defined in section 1749aaa–5(1) of this title)".

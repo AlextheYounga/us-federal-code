@@ -16,6 +16,6 @@ The Federal Power Act, referred to in subsec. (a), is act June 10, 1920, ch. 285
 
 #### Transfer of Functions ####
 
-“Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec. (a) pursuant to Pub. L. 95–91, §402(a)(1)(A), which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
+"Federal Energy Regulatory Commission" substituted for "Federal Power Commission" in subsec. (a) pursuant to Pub. L. 95–91, §402(a)(1)(A), which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
 
 Federal Power Commission terminated and functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under part I of Federal Power Act (16 U.S.C. 792 et seq.) transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42.

@@ -64,6 +64,6 @@ A prior section 3 of Pub. L. 88–74 was classified to section 390b of this titl
 
 #### Amendments ####
 
-**1998**—Subsec. (c)(2)(C)(ii). Pub. L. 105–185, §106(a), substituted “national or multistate needs” for “regional needs”.
+**1998**—Subsec. (c)(2)(C)(ii). Pub. L. 105–185, §106(a), substituted "national or multistate needs" for "regional needs".
 
 Subsec. (e). Pub. L. 105–185, §106(b), added subsec. (e).

@@ -10,6 +10,6 @@ Within one year after November 28, 1990, the Secretary shall develop criteria to
 
 (Pub. L. 101–628, title XII, §1216, Nov. 28, 1990, 104 Stat. 4508.)
 
-[<sup>1</sup> So in original. Probably should be paragraph “(a);”.](#1a-12_1)
+[<sup>1</sup> So in original. Probably should be paragraph "(a);".](#1a-12_1)
 
 [<sup>2</sup> So in original.](#1a-12_2)

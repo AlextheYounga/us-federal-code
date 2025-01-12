@@ -8,7 +8,7 @@
 
 (2) A waiver granted under subsection (a)(2) shall terminate not later than 90 days after the date on which the designation of the major disaster or emergency that was the basis for the waiver expires.
 
-(c) Statutory End Strength.—In this section, the term “statutory end strength” means any end-strength limitation with respect to a fiscal year that is prescribed by law for any military or civilian component of the armed forces or of the Department of Defense.
+(c) Statutory End Strength.—In this section, the term "statutory end strength" means any end-strength limitation with respect to a fiscal year that is prescribed by law for any military or civilian component of the armed forces or of the Department of Defense.
 
 (Added Pub. L. 101–510, div. A, title XIV, §1483(b)(1), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 107–107, div. A, title IV, §421(b), Dec. 28, 2001, 115 Stat. 1076; Pub. L. 110–417, [div. A], title IV, §416(a)–(c)(1), Oct. 14, 2008, 122 Stat. 4430.)
 
@@ -18,9 +18,9 @@ Provisions similar to those in this section were contained in section 115(b)(4) 
 
 #### Amendments ####
 
-**2008**—Pub. L. 110–417 in section catchline substituted “Suspension of end-strength and other strength limitations in time of war or national emergency” for “Suspension of end-strength limitations in time of war or national emergency”, in subsec. (a) designated existing provisions as par. (1) and added par. (2), and in subsec. (b) substituted “Termination of Waiver” for “Upon Termination of War or National Emergency” in heading, designated existing provisions as par. (1), substituted “subsection (a)(1)” for “subsection (a)”, and added par. (2).
+**2008**—Pub. L. 110–417 in section catchline substituted "Suspension of end-strength and other strength limitations in time of war or national emergency" for "Suspension of end-strength limitations in time of war or national emergency", in subsec. (a) designated existing provisions as par. (1) and added par. (2), and in subsec. (b) substituted "Termination of Waiver" for "Upon Termination of War or National Emergency" in heading, designated existing provisions as par. (1), substituted "subsection (a)(1)" for "subsection (a)", and added par. (2).
 
-**2001**—Pub. L. 107–107 amended text generally. Prior to amendment, text read as follows: “If at the end of any fiscal year there is in effect a war or national emergency, the President may defer the effectiveness of any end-strength limitation with respect to that fiscal year prescribed by law for any military or civilian component of the armed forces or of the Department of Defense. Any such deferral may not extend beyond November 30 of the following fiscal year.”
+**2001**—Pub. L. 107–107 amended text generally. Prior to amendment, text read as follows: "If at the end of any fiscal year there is in effect a war or national emergency, the President may defer the effectiveness of any end-strength limitation with respect to that fiscal year prescribed by law for any military or civilian component of the armed forces or of the Department of Defense. Any such deferral may not extend beyond November 30 of the following fiscal year."
 
 #### Delegation of Authority ####
 

@@ -978,15 +978,15 @@ V. Transportation of Mail 5001
 
 #### Positive Law ####
 
-This title was enacted into law by Pub. L. 91–375, §2, Aug. 12, 1970, 84 Stat. 719, which provided that: “Title 39, United States Code, is revised and reenacted, and the sections thereof may be cited as 39 U.S.C. §\_\_”.
+This title was enacted into law by Pub. L. 91–375, §2, Aug. 12, 1970, 84 Stat. 719, which provided that: "Title 39, United States Code, is revised and reenacted, and the sections thereof may be cited as 39 U.S.C. §\_\_".
 
 #### Effective Dates ####
 
 Pub. L. 91–375, §15, Aug. 12, 1970, 84 Stat. 787, provided that:
 
-“(a) Except as provided in subsection (b) of this section, this section and sections 9 through 13 of this Act [set out as notes below and under sections 1001, 1003, 1201, and 2004 of this title], and sections 202, 203, 205(b) and (c), 206, and 401(2), and subchapter I of chapter 36 of title 39, United States Code [sections 3601 to 3604 of this title], as enacted by section 2 of this Act, shall become effective on the date of enactment of this Act [Aug. 12, 1970]. Except as otherwise provided in this Act [see Short Title note set out under section 101 of this title] the other provisions of this Act shall become effective within 1 year after the enactment of this Act [Aug. 12, 1970] on the date or dates established therefor by the Board of Governors and published by it in the Federal Register. References to the Postal Service in any provision of this Act [see Short Title note set out under section 101 of this title] (other than a provision referred to in the first sentence of this subsection) which becomes effective before the Postal Service commences operations shall be held and considered to refer to the Post Office Department until the Postal Service commences operations.
+"(a) Except as provided in subsection (b) of this section, this section and sections 9 through 13 of this Act [set out as notes below and under sections 1001, 1003, 1201, and 2004 of this title], and sections 202, 203, 205(b) and (c), 206, and 401(2), and subchapter I of chapter 36 of title 39, United States Code [sections 3601 to 3604 of this title], as enacted by section 2 of this Act, shall become effective on the date of enactment of this Act [Aug. 12, 1970]. Except as otherwise provided in this Act [see Short Title note set out under section 101 of this title] the other provisions of this Act shall become effective within 1 year after the enactment of this Act [Aug. 12, 1970] on the date or dates established therefor by the Board of Governors and published by it in the Federal Register. References to the Postal Service in any provision of this Act [see Short Title note set out under section 101 of this title] (other than a provision referred to in the first sentence of this subsection) which becomes effective before the Postal Service commences operations shall be held and considered to refer to the Post Office Department until the Postal Service commences operations.
 
-“(b) Sections 3010 and 3011 of title 39, United States Code, as enacted by section 2 of this Act, and sections 1735, 1736, and 1737 of title 18, United States Code, as enacted by section 6(j) of this Act, shall become effective on the first day of the sixth month which begins after the date of enactment of this Act [Aug. 12, 1970].”
+"(b) Sections 3010 and 3011 of title 39, United States Code, as enacted by section 2 of this Act, and sections 1735, 1736, and 1737 of title 18, United States Code, as enacted by section 6(j) of this Act, shall become effective on the first day of the sixth month which begins after the date of enactment of this Act [Aug. 12, 1970]."
 
 The provisions of Title 39, as revised by Pub. L. 91–375, §2, Aug. 12, 1970, 84 Stat. 719, are effective on the following dates:
 
@@ -1014,49 +1014,49 @@ Effective Apr. 13, 1971, pursuant to Resolution No. 71–14 of the Board of Gove
 
 Section 410(a), (b)(2) to (6), (c)(1) to (3), (5), (6).
 
-Effective July 1, 1971, all other provisions of Title 39, pursuant to Resolution No. 71–9 of the Board of Governors, which provided in part: “The Board of Governors establishes July 1, 1971, as the date upon which the Postal Service shall commence operations. All provisions of the Act [Pub. L. 91–375] not made effective on an earlier date shall become effective upon the commencement of operations.”
+Effective July 1, 1971, all other provisions of Title 39, pursuant to Resolution No. 71–9 of the Board of Governors, which provided in part: "The Board of Governors establishes July 1, 1971, as the date upon which the Postal Service shall commence operations. All provisions of the Act [Pub. L. 91–375] not made effective on an earlier date shall become effective upon the commencement of operations."
 
 #### Savings Provision ####
 
 Pub. L. 91–375, §5, Aug. 12, 1970, 84 Stat. 774, provided that:
 
-“(a) All orders, determinations, rules, regulations, permits, contracts, certificates, licenses, and privileges—
+"(a) All orders, determinations, rules, regulations, permits, contracts, certificates, licenses, and privileges—
 
-“(1) which have been issued, made, granted, or allowed to become effective—
+"(1) which have been issued, made, granted, or allowed to become effective—
 
-“(A) under any provision of law amended by this Act [see Short Title note set out under section 101 of this title]; or
+"(A) under any provision of law amended by this Act [see Short Title note set out under section 101 of this title]; or
 
-“(B) in the exercise of duties, powers, or functions which are transferred under this Act [see Short Title note set out under section 101 of this title];
+"(B) in the exercise of duties, powers, or functions which are transferred under this Act [see Short Title note set out under section 101 of this title];
 
 by (i) any department or agency, any functions of which are transferred by this Act [see Short Title note set out under section 101 of this title], or (ii) any court of competent jurisdiction; and
 
-“(2) which are in effect at the time the United States Postal Service commences operations, shall continue in effect according to their terms until modified, terminated, superseded, set aside, or repealed by the Postal Service (in the exercise of any authority vested in it by this Act [see Short Title note set out under section 101 of this title]), by any court of competent jurisdiction, or by operation of law.
+"(2) which are in effect at the time the United States Postal Service commences operations, shall continue in effect according to their terms until modified, terminated, superseded, set aside, or repealed by the Postal Service (in the exercise of any authority vested in it by this Act [see Short Title note set out under section 101 of this title]), by any court of competent jurisdiction, or by operation of law.
 
-“(b) The provisions of this Act [see Short Title note set out under section 101 of this title] shall not affect any proceedings pending at the time this section takes effect before any department or agency (or component thereof), the functions of which are transferred by this Act but such proceedings shall be continued before the Postal Service. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this Act had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or repealed by the Postal Service (in the exercise of any authority vested in it by this Act), by a court of competent jurisdiction, or by operation of law.
+"(b) The provisions of this Act [see Short Title note set out under section 101 of this title] shall not affect any proceedings pending at the time this section takes effect before any department or agency (or component thereof), the functions of which are transferred by this Act but such proceedings shall be continued before the Postal Service. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this Act had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or repealed by the Postal Service (in the exercise of any authority vested in it by this Act), by a court of competent jurisdiction, or by operation of law.
 
-“(c)(1) Except as provided in paragraph (2) of this subsection—
+"(c)(1) Except as provided in paragraph (2) of this subsection—
 
-“(A) the provisions of this Act [see Short Title note set out under section 101 of this title] shall not affect suits commenced prior to the date this section takes effect; and
+"(A) the provisions of this Act [see Short Title note set out under section 101 of this title] shall not affect suits commenced prior to the date this section takes effect; and
 
-“(B) in all such suits proceedings shall be had, appeals taken, and judgments rendered, in the same manner and effect as if this Act [see Short Title note set out under section 101 of this title] had not been enacted.
+"(B) in all such suits proceedings shall be had, appeals taken, and judgments rendered, in the same manner and effect as if this Act [see Short Title note set out under section 101 of this title] had not been enacted.
 
 No suit, action, or other proceeding commenced by or against any officer in his official capacity as an officer of any department or agency, functions of which are transferred by this Act [see Short Title note set out under section 101 of this title] shall abate by reason of the enactment of this Act. No cause of action by or against any department or agency, functions of which are transferred by this Act, or by or against any officer thereof in his official capacity shall abate by reason of the enactment of this Act. Causes of actions, suits, actions, or other proceedings may be asserted by or against the Postal Service or such official of that Service as may be appropriate and, in any litigation pending when this section takes effect, the court may at any time, on its own motion or that of any party, enter an order which will give effect to the provisions of this subsection.
 
-“(2) If before the date on which any provision of this Act [see Short Title note set out under section 101 of this title] takes effect, any department or agency, or officer thereof in his official capacity, is a party to a suit, and under this Act–
+"(2) If before the date on which any provision of this Act [see Short Title note set out under section 101 of this title] takes effect, any department or agency, or officer thereof in his official capacity, is a party to a suit, and under this Act–
 
-“(A) such department or agency is transferred to the Postal Service; or
+"(A) such department or agency is transferred to the Postal Service; or
 
-“(B) any function of such department, agency, or officer is transferred to the Postal Service;
+"(B) any function of such department, agency, or officer is transferred to the Postal Service;
 
 such suit shall be continued by the Postal Service.
 
-“(d) The amendment of any statute by this Act [see Short Title note set out under section 101 of this title] shall not release or extinguish any criminal prosecution, penalty, forfeiture, or liability incurred under such statute, unless the amending Act shall so expressly provide, and such statute shall be treated as still remaining in force for the purpose of sustaining any proper action or prosecution for the enforcement of such prosecution, penalty, forfeiture, or liability.
+"(d) The amendment of any statute by this Act [see Short Title note set out under section 101 of this title] shall not release or extinguish any criminal prosecution, penalty, forfeiture, or liability incurred under such statute, unless the amending Act shall so expressly provide, and such statute shall be treated as still remaining in force for the purpose of sustaining any proper action or prosecution for the enforcement of such prosecution, penalty, forfeiture, or liability.
 
-“(e) With respect to any function, power, or duty transferred by this Act [see Short Title note set out under section 101 of this title] and exercised after the effective date of this Act, reference in any other Federal law to any department or agency, officer, or office so transferred, or functions of which are so transferred, shall be deemed to mean the officer or agency of the Postal Service in which this Act vests such function after such transfer.
+"(e) With respect to any function, power, or duty transferred by this Act [see Short Title note set out under section 101 of this title] and exercised after the effective date of this Act, reference in any other Federal law to any department or agency, officer, or office so transferred, or functions of which are so transferred, shall be deemed to mean the officer or agency of the Postal Service in which this Act vests such function after such transfer.
 
-“(f) Provisions of title 39, United States Code, in effect immediately prior to the effective date of this section, but not reenacted by this Act [see Short Title note set out under section 101 of this title], shall remain in force as rules or regulations of the Postal Service established by this Act, to the extent the Postal Service is authorized to adopt such provisions as rules or regulations, until they are revoked, amended, or revised by the Postal Service.
+"(f) Provisions of title 39, United States Code, in effect immediately prior to the effective date of this section, but not reenacted by this Act [see Short Title note set out under section 101 of this title], shall remain in force as rules or regulations of the Postal Service established by this Act, to the extent the Postal Service is authorized to adopt such provisions as rules or regulations, until they are revoked, amended, or revised by the Postal Service.
 
-“(g) Notwithstanding section 202 of title 39, United States Code, as enacted by section 2 of this Act, Governors of the Board of Governors of the Postal Service may be paid $300 a day for not more than 60 days of meetings in each of the first 2 years following the effective date of such section 202 [see section 15(b) of Pub. L. 91–375 set out as an Effective Date note above].”
+"(g) Notwithstanding section 202 of title 39, United States Code, as enacted by section 2 of this Act, Governors of the Board of Governors of the Postal Service may be paid $300 a day for not more than 60 days of meetings in each of the first 2 years following the effective date of such section 202 [see section 15(b) of Pub. L. 91–375 set out as an Effective Date note above]."
 
 Provisions of section 5 of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note above.
 
@@ -1064,11 +1064,11 @@ Provisions of section 5 of Pub. L. 91–375 effective within 1 year after Aug. 1
 
 Pub. L. 91–375, §6(o)–(q), Aug. 12, 1970, 84 Stat. 783, provided that:
 
-“(o) Whenever any reference is made in any provision of law (other than this Act [see Short Title note set out under section 101 of this title] or a provision of law amended by this Act), regulation, rule, record, or document to the Post Office Department, the Postal Service, the postal field service, the field postal service, or the departmental service or departmental headquarters of the Post Office Department, such reference shall be considered a reference to the United States Postal Service. Any reference to any officer or employee of the Post Office Department, the Postal Service, the postal field service, the field postal service, or the departmental service or departmental headquarters of the Post Office Department shall be deemed a reference to the appropriate officer or employee of the United States Postal Service.
+"(o) Whenever any reference is made in any provision of law (other than this Act [see Short Title note set out under section 101 of this title] or a provision of law amended by this Act), regulation, rule, record, or document to the Post Office Department, the Postal Service, the postal field service, the field postal service, or the departmental service or departmental headquarters of the Post Office Department, such reference shall be considered a reference to the United States Postal Service. Any reference to any officer or employee of the Post Office Department, the Postal Service, the postal field service, the field postal service, or the departmental service or departmental headquarters of the Post Office Department shall be deemed a reference to the appropriate officer or employee of the United States Postal Service.
 
-“(p) Whenever reference is made in any provision of law (other than this Act [see Short Title note set out under section 101 of this title] or provision of law amended by this Act), regulation, rule, record, or document to a postal inspector or chief postal inspector of the Post Office Department, such reference shall be deemed to be a reference to the appropriate officer or employee of the United States Postal Service who performs duties related to the inspection of postal matters.
+"(p) Whenever reference is made in any provision of law (other than this Act [see Short Title note set out under section 101 of this title] or provision of law amended by this Act), regulation, rule, record, or document to a postal inspector or chief postal inspector of the Post Office Department, such reference shall be deemed to be a reference to the appropriate officer or employee of the United States Postal Service who performs duties related to the inspection of postal matters.
 
-“(q) Whenever reference is made in any law to title 39, United States Code, or provision of that title, as such title or provision existed prior to the effective date of this section [see Effective Date note set out above], that reference shall be considered a reference to the appropriate provision of title 39, as amended by section 2 of this Act, unless no such provision is included therein.”
+"(q) Whenever reference is made in any law to title 39, United States Code, or provision of that title, as such title or provision existed prior to the effective date of this section [see Effective Date note set out above], that reference shall be considered a reference to the appropriate provision of title 39, as amended by section 2 of this Act, unless no such provision is included therein."
 
 Provisions of section 6(o) to (q) of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note above.
 
@@ -1076,8 +1076,8 @@ Provisions of section 6(o) to (q) of Pub. L. 91–375 effective within 1 year af
 
 Pub. L. 91–375, §11, Aug. 12, 1970, 84 Stat. 785, provided that:
 
-“(a) If a part of title 39, United States Code, as enacted by section 2 of this Act, is held invalid, the remainder of such title shall not be affected thereby; and if any other part of this Act [see Short Title note set out under section 101 of this title] is held to be invalid, the remainder of the Act shall not be affected thereby.
+"(a) If a part of title 39, United States Code, as enacted by section 2 of this Act, is held invalid, the remainder of such title shall not be affected thereby; and if any other part of this Act [see Short Title note set out under section 101 of this title] is held to be invalid, the remainder of the Act shall not be affected thereby.
 
-“(b) An inference of a legislative construction is not to be drawn by reason of a chapter in title 39, United States Code, as enacted by section 2 of this Act in which a section is placed nor by reason of the caption or catchline.”
+"(b) An inference of a legislative construction is not to be drawn by reason of a chapter in title 39, United States Code, as enacted by section 2 of this Act in which a section is placed nor by reason of the caption or catchline."
 
 Provisions of section 11 of Pub. L. 91–375 effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note above.

@@ -6,4 +6,4 @@ On and after July 1, 1916, in the absence of the Director of the United States B
 
 #### Change of Name ####
 
-“United States Bureau of Mines” substituted in text for “Bureau of Mines” pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
+"United States Bureau of Mines" substituted in text for "Bureau of Mines" pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.

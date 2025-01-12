@@ -12,6 +12,6 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments ####
 
-**1974**—Pub. L. 93–283 substituted “the navigable waters or waters above the continental shelf of the United States” for “any navigable waters of the United States”.
+**1974**—Pub. L. 93–283 substituted "the navigable waters or waters above the continental shelf of the United States" for "any navigable waters of the United States".
 
 **1965**—Pub. L. 89–191 vested sole responsibility for wreck marking in the Coast Guard by giving the Secretary discretionary authority to mark wrecks or other similar obstructions for as long as in his judgment the needs of maritime navigation may require, by removing reference to responsibility of the Department of the Army to mark wrecks, after abandonment and before removal, and by giving the Secretary the authority to terminate an owner's liability to pay the cost of marking a wreck.

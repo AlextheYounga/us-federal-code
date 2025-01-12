@@ -10,7 +10,7 @@ Repeal effective July 1, 1988, see section 6303 of Pub. L. 100–297, set out as
 
 #### Short Title ####
 
-Pub. L. 99–570, title IV, §4101, Oct. 27, 1986, 100 Stat. 3207–125, which provided that subtitle B [§§4101 to 4144] of title IV of Pub. L. 99–570 was to be cited as the “Drug-Free Schools and Communities Act of 1986”, was repealed by Pub. L. 100–297, title I, §1003(e), Apr. 28, 1988, 102 Stat. 293.
+Pub. L. 99–570, title IV, §4101, Oct. 27, 1986, 100 Stat. 3207–125, which provided that subtitle B [§§4101 to 4144] of title IV of Pub. L. 99–570 was to be cited as the "Drug-Free Schools and Communities Act of 1986", was repealed by Pub. L. 100–297, title I, §1003(e), Apr. 28, 1988, 102 Stat. 293.
 
 #### White House Conference for a Drug Free America ####
 

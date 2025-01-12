@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Eligible product ####
 
-The term “eligible product” means a product that—
+The term "eligible product" means a product that—
 
 (A) is approved or cleared under this subchapter or licensed under section 351 of the Public Health Service Act [42 U.S.C. 262];
 
@@ -22,7 +22,7 @@ The term “eligible product” means a product that—
 
 #### (2) Product ####
 
-The term “product” means a drug, device, or biological product.
+The term "product" means a drug, device, or biological product.
 
 #### (b) Expiration dating ####
 
@@ -54,7 +54,7 @@ Notwithstanding any other provision of this chapter or the Public Health Service
 
 #### (4) Expiration date ####
 
-For purposes of this subsection, the term “expiration date” means the date established through appropriate stability testing required by the regulations issued by the Secretary to ensure that the product meets applicable standards of identity, strength, quality, and purity at the time of use.
+For purposes of this subsection, the term "expiration date" means the date established through appropriate stability testing required by the regulations issued by the Secretary to ensure that the product meets applicable standards of identity, strength, quality, and purity at the time of use.
 
 #### (c) Current good manufacturing practice ####
 

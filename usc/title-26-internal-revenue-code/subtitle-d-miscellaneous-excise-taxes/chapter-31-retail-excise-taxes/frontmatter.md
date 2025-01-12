@@ -32,13 +32,13 @@ The subject matter of the prior sections was as follows:
 
 A prior section 4001, acts Aug. 16, 1954, ch. 736, 68A Stat. 473; Sept. 2, 1958, Pub. L. 85–859, title I, §101, 72 Stat. 1275; Sept. 21, 1959, Pub. L. 86–344, §1(a), 73 Stat. 617, imposed an excise tax equivalent to 10 percent of selling price upon jewelry, stones, watches, clocks, case and movements for watches and clocks, flatware and hollow ware, opera glasses, lorgnettes, marine glasses, field glasses, and binoculars.
 
-A prior section 4002, act Aug. 16, 1954, ch. 736, 68A Stat. 473, defined “articles sold at retail” to include articles sold at auction.
+A prior section 4002, act Aug. 16, 1954, ch. 736, 68A Stat. 473, defined "articles sold at retail" to include articles sold at auction.
 
 A prior section 4003, acts Aug. 16, 1954, ch. 736, 68A Stat. 474; Sept. 2, 1958, Pub. L. 85–859, title I, §102, 72 Stat. 1276, specified exemptions to tax imposed by section 4001.
 
 A prior section 4011, act Aug. 16, 1954, ch. 736, 68A Stat. 475, imposed an excise tax equivalent to 10 percent of selling price upon fur articles.
 
-A prior section 4012, act Aug. 16, 1954, ch. 736, 68A Stat. 475, defined “article sold at retail” to include articles manufactured from material supplied by customer and articles sold at auction.
+A prior section 4012, act Aug. 16, 1954, ch. 736, 68A Stat. 475, defined "article sold at retail" to include articles manufactured from material supplied by customer and articles sold at auction.
 
 A prior section 4013, act Aug. 16, 1954, ch. 736, 68A Stat. 475, specified exemptions to tax imposed by section 4011.
 
@@ -62,19 +62,19 @@ A prior section 4055, act Aug. 16, 1954, ch. 736, 68A Stat. 480; June 21, 1965, 
 
 A prior section 4056, act Aug. 16, 1954, ch. 736, 68A Stat. 480, provided that no tax shall be imposed upon sale of any article for export, or for shipment to a possession of United States and in due course so shipped and exported.
 
-A prior section 4057, added Pub. L. 85–859, title I, §105(a), Sept. 2, 1958, 72 Stat. 1277; amended Pub. L. 86–344, §2(a), Sept. 21, 1959, 73 Stat. 617; Pub. L. 89–44, title I, §101(b)(4), June 21, 1965, 79 Stat. 136; Pub. L. 91–172, title I, §101(j)(25), Dec. 30, 1969, 83 Stat. 528, provided an exception with respect to sale of any article to a non-profit educational organization for its exclusive use including use of any liquid as a fuel and defined “non-profit educational organization”.
+A prior section 4057, added Pub. L. 85–859, title I, §105(a), Sept. 2, 1958, 72 Stat. 1277; amended Pub. L. 86–344, §2(a), Sept. 21, 1959, 73 Stat. 617; Pub. L. 89–44, title I, §101(b)(4), June 21, 1965, 79 Stat. 136; Pub. L. 91–172, title I, §101(j)(25), Dec. 30, 1969, 83 Stat. 528, provided an exception with respect to sale of any article to a non-profit educational organization for its exclusive use including use of any liquid as a fuel and defined "non-profit educational organization".
 
 A prior section 4058, act Aug. 16, 1954, ch. 736, 68A Stat. 480, §4058, formerly 4057; renumbered Sept. 2, 1958, Pub. L. 85–859, title I, §105(a), 72 Stat. 1277, related to cross references for exemption of sales to United States in certain cases and administrative provisions of general application.
 
 #### Amendments ####
 
-**1993**—Pub. L. 103–66, title XIII, §13161(b)(3), Aug. 10, 1993, 107 Stat. 453, substituted “Luxury passenger vehicles” for “Certain luxury items” in item for subchapter A.
+**1993**—Pub. L. 103–66, title XIII, §13161(b)(3), Aug. 10, 1993, 107 Stat. 453, substituted "Luxury passenger vehicles" for "Certain luxury items" in item for subchapter A.
 
 **1990**—Pub. L. 101–508, title XI, §11221(e), Nov. 5, 1990, 104 Stat. 1388–444, added item for subchapter A and redesignated former items for subchapters A and B as B and C, respectively.
 
-**1983**—Pub. L. 97–424, title V, §512(b)(2)(A), Jan. 6, 1983, 96 Stat. 2177, substituted “Retail Excise Taxes” for “Special Fuels” in chapter heading, and added an analysis for subchapters A and B.
+**1983**—Pub. L. 97–424, title V, §512(b)(2)(A), Jan. 6, 1983, 96 Stat. 2177, substituted "Retail Excise Taxes" for "Special Fuels" in chapter heading, and added an analysis for subchapters A and B.
 
-**1976**—Pub. L. 94–455, title XIX, §1904(a)(1)(A), Oct. 4, 1976, 90 Stat. 1810, substituted “Special Fuels” for “Retailers Excise Taxes” in chapter heading.
+**1976**—Pub. L. 94–455, title XIX, §1904(a)(1)(A), Oct. 4, 1976, 90 Stat. 1810, substituted "Special Fuels" for "Retailers Excise Taxes" in chapter heading.
 
 [<sup>1</sup> Section numbers editorially supplied.](#CHAPTER31_1)
 

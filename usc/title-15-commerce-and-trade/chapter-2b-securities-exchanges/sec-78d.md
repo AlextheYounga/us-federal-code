@@ -2,7 +2,7 @@
 
 #### (a) Establishment; composition; limitations on commissioners; terms of office ####
 
-There is hereby established a Securities and Exchange Commission (hereinafter referred to as the “Commission”) to be composed of five commissioners to be appointed by the President by and with the advice and consent of the Senate. Not more than three of such commissioners shall be members of the same political party, and in making appointments members of different political parties shall be appointed alternately as nearly as may be practicable. No commissioner shall engage in any other business, vocation, or employment than that of serving as commissioner, nor shall any commissioner participate, directly or indirectly, in any stock-market operations or transactions of a character subject to regulation by the Commission pursuant to this chapter. Each commissioner shall hold office for a term of five years and until his successor is appointed and has qualified, except that he shall not so continue to serve beyond the expiration of the next session of Congress subsequent to the expiration of said fixed term of office, and except (1) any commissioner appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and (2) the terms of office of the commissioners first taking office after June 6, 1934, shall expire as designated by the President at the time of nomination, one at the end of one year, one at the end of two years, one at the end of three years, one at the end of four years, and one at the end of five years, after June 6, 1934.
+There is hereby established a Securities and Exchange Commission (hereinafter referred to as the "Commission") to be composed of five commissioners to be appointed by the President by and with the advice and consent of the Senate. Not more than three of such commissioners shall be members of the same political party, and in making appointments members of different political parties shall be appointed alternately as nearly as may be practicable. No commissioner shall engage in any other business, vocation, or employment than that of serving as commissioner, nor shall any commissioner participate, directly or indirectly, in any stock-market operations or transactions of a character subject to regulation by the Commission pursuant to this chapter. Each commissioner shall hold office for a term of five years and until his successor is appointed and has qualified, except that he shall not so continue to serve beyond the expiration of the next session of Congress subsequent to the expiration of said fixed term of office, and except (1) any commissioner appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and (2) the terms of office of the commissioners first taking office after June 6, 1934, shall expire as designated by the President at the time of nomination, one at the end of one year, one at the end of two years, one at the end of three years, one at the end of four years, and one at the end of five years, after June 6, 1934.
 
 #### (b) Appointment and compensation of staff and leasing authority ####
 
@@ -38,7 +38,7 @@ Notwithstanding any other provision of law, the Commission may accept payment an
 
 #### (1) Office established ####
 
-There is established within the Commission the Office of the Investor Advocate (in this subsection referred to as the “Office”).
+There is established within the Commission the Office of the Investor Advocate (in this subsection referred to as the "Office").
 
 #### (2) Investor Advocate ####
 
@@ -186,7 +186,7 @@ The Division of Investment Management of the Commission, or any successor organi
 
 #### (1) Reserve Fund established ####
 
-There is established in the Treasury of the United States a separate fund, to be known as the “Securities and Exchange Commission Reserve Fund” (referred to in this subsection as the “Reserve Fund”).
+There is established in the Treasury of the United States a separate fund, to be known as the "Securities and Exchange Commission Reserve Fund" (referred to in this subsection as the "Reserve Fund").
 
 #### (2) Reserve Fund amounts ####
 
@@ -218,7 +218,7 @@ Amounts collected and deposited in the Reserve Fund shall not be construed to be
 
 #### References in Text ####
 
-This chapter, referred to in subsecs. (a) and (g)(4)(D)(ii), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a) and (g)(4)(D)(ii), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 #### Amendments ####
 
@@ -234,7 +234,7 @@ Subsec. (i). Pub. L. 111–203, §991(e)(1), added subsec. (i).
 
 **1998**—Subsec. (b)(2), (3). Pub. L. 105–353 added par. (2) and redesignated former par. (2) as (3).
 
-**1996**—Subsec. (e). Pub. L. 104–290 inserted before period at end “and the Commission may also specify the time that such fee shall be determined and paid relative to the filing of any statement or document with the Commission”.
+**1996**—Subsec. (e). Pub. L. 104–290 inserted before period at end "and the Commission may also specify the time that such fee shall be determined and paid relative to the filing of any statement or document with the Commission".
 
 **1990**—Subsec. (b). Pub. L. 101–550, §103, inserted heading, designated existing provision as par. (1) and inserted heading, and added par. (2).
 
@@ -250,13 +250,13 @@ Subsec. (f). Pub. L. 101–550, §207, added subsec. (f).
 
 Pub. L. 86–619 increased the salary of each commissioner from $15,000 to $20,000 a year, and provided for continuation in office of a commissioner upon termination of his term until a successor is appointed and has qualified, not beyond expiration of next session of Congress subsequent to the expiration of said fixed term of office.
 
-**1949**—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+**1949**—Subsec. (b). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
 #### Effective Date of 2010 Amendment ####
 
 Amendment by sections 915, 919D, and 965 of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-Pub. L. 111–203, title IX, §991(e)(2), July 21, 2010, 124 Stat. 1955, provided that: “The amendment made by this subsection [amending this section] shall take effect on October 1, 2011.”
+Pub. L. 111–203, title IX, §991(e)(2), July 21, 2010, 124 Stat. 1955, provided that: "The amendment made by this subsection [amending this section] shall take effect on October 1, 2011."
 
 #### Effective Date of 2002 Amendment ####
 
@@ -276,11 +276,11 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Outreach by the Commission ####
 
-Pub. L. 112–106, title VII, §701, Apr. 5, 2012, 126 Stat. 327, provided that: “The Securities and Exchange Commission shall provide online information and conduct outreach to inform small and medium sized businesses, women owned businesses, veteran owned businesses, and minority owned businesses of the changes made by this Act [see Short Title of 2012 Amendment note set out under section 78a of this title].”
+Pub. L. 112–106, title VII, §701, Apr. 5, 2012, 126 Stat. 327, provided that: "The Securities and Exchange Commission shall provide online information and conduct outreach to inform small and medium sized businesses, women owned businesses, veteran owned businesses, and minority owned businesses of the changes made by this Act [see Short Title of 2012 Amendment note set out under section 78a of this title]."
 
 #### Pay Authority for Employment of Experts and Consultants ####
 
-Pub. L. 111–203, title IX, §929G(c), July 21, 2010, 124 Stat. 1856, provided that: “The [Securities and Exchange] Commission may set the rate of pay for experts and consultants appointed under the authority of section 3109 of title 5, United States Code, in the same manner in which it sets the rate of pay for employees of the Commission.”
+Pub. L. 111–203, title IX, §929G(c), July 21, 2010, 124 Stat. 1856, provided that: "The [Securities and Exchange] Commission may set the rate of pay for experts and consultants appointed under the authority of section 3109 of title 5, United States Code, in the same manner in which it sets the rate of pay for employees of the Commission."
 
 #### **1950 REORGANIZATION PLAN NO. 10** ####
 
@@ -322,6 +322,6 @@ The taking effect of the reorganizations included in this plan may not in itself
 
 Harry S. Truman.
 
-[<sup>1</sup> So in original. Probably should be “Notwithstanding”.](#78d_1)
+[<sup>1</sup> So in original. Probably should be "Notwithstanding".](#78d_1)
 
-[<sup>2</sup> So in original. Probably should be “(2)(A)(ii),”.](#78d_2)
+[<sup>2</sup> So in original. Probably should be "(2)(A)(ii),".](#78d_2)

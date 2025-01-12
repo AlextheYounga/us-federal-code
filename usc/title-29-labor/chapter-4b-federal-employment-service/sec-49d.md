@@ -32,25 +32,25 @@ The Federal Unemployment Tax Act, referred to in subsec. (b)(1), is act Aug. 16,
 
 **1998**—Subsec. (c)(3). Pub. L. 105–220 struck out par. (3) which read as follows:
 
-“(3)(A) Appropriations for fiscal year 1984 shall be available both to fund activities for the period between October 1, 1983, and July 1, 1984, and for the program year beginning July 1, 1984.
+"(3)(A) Appropriations for fiscal year 1984 shall be available both to fund activities for the period between October 1, 1983, and July 1, 1984, and for the program year beginning July 1, 1984.
 
-“(B) There are authorized to be appropriated such additional sums as may be necessary to carry out the provisions of this paragraph for the transition to program year funding.”
+"(B) There are authorized to be appropriated such additional sums as may be necessary to carry out the provisions of this paragraph for the transition to program year funding."
 
 **1982**—Subsec. (b). Pub. L. 97–300 added subsec. (b). Former subsec. (b), which related to certification of compliance by the Secretary to the Secretary of the Treasury with regard to the Federal Unemployment Tax Act by State programs and payment of monies for the operation of the State systems, was struck out.
 
 Subsec. (c). Pub. L. 97–300 added subsec. (c).
 
-**1981**—Subsec. (b). Pub. L. 97–35 inserted provisions authorizing appropriations for fiscal year beginning Oct. 1, 1981, and definition of “proper and efficient administration of its public employment offices”.
+**1981**—Subsec. (b). Pub. L. 97–35 inserted provisions authorizing appropriations for fiscal year beginning Oct. 1, 1981, and definition of "proper and efficient administration of its public employment offices".
 
-**1976**—Subsec. (b). Pub. L. 94–566 substituted “Guam” for “Guam and the Virgin Islands”.
+**1976**—Subsec. (b). Pub. L. 94–566 substituted "Guam" for "Guam and the Virgin Islands".
 
-**1960**—Subsec. (b). Pub. L. 86–778 substituted “Guam and the Virgin Islands” for “Puerto Rico, Guam, and the Virgin Islands”.
+**1960**—Subsec. (b). Pub. L. 86–778 substituted "Guam and the Virgin Islands" for "Puerto Rico, Guam, and the Virgin Islands".
 
-**1956**—Subsec. (b). Act Aug. 1, 1956, inserted “Guam” after “Puerto Rico”.
+**1956**—Subsec. (b). Act Aug. 1, 1956, inserted "Guam" after "Puerto Rico".
 
 **1950**—Subsec. (a). Act, Sept. 8, 1950, struck out apportionment formula and requirement that States match the funds granted them.
 
-**1938**—Subsec. (a). Act June 29, 1938, substituted “The annual appropriation under this chapter shall designate the amount to” for “Seventy-five per centum of the amounts appropriated under this chapter shall”, at beginning of second sentence, and “the said amount among the several States” for “said 75 per centum of amounts appropriated after January 1, 1935, under this chapter” in proviso.
+**1938**—Subsec. (a). Act June 29, 1938, substituted "The annual appropriation under this chapter shall designate the amount to" for "Seventy-five per centum of the amounts appropriated under this chapter shall", at beginning of second sentence, and "the said amount among the several States" for "said 75 per centum of amounts appropriated after January 1, 1935, under this chapter" in proviso.
 
 **1935**—Subsec. (a). Act May 10, 1935, inserted proviso.
 
@@ -72,6 +72,6 @@ Pub. L. 86–778, title V, §543(c), Sept. 13, 1960, 74 Stat. 987, provided that
 
 #### Suspension of State Appropriation Requirements Until July 1, 1952 ####
 
-Act Sept. 6, 1950, ch. 896, Ch. V, title I, 64 Stat. 643, provided in part that: “No State shall be required to make any appropriation as provided in section 5(a) of said Act of June 6, 1933 [subsec. (a) of this section], prior to July 1, 1952.”
+Act Sept. 6, 1950, ch. 896, Ch. V, title I, 64 Stat. 643, provided in part that: "No State shall be required to make any appropriation as provided in section 5(a) of said Act of June 6, 1933 [subsec. (a) of this section], prior to July 1, 1952."
 
 Similar provisions suspending the requirement until July 1, 1950 were contained in acts June 16, 1948, ch. 472, title I, 62 Stat. 445; June 29, 1949, ch. 275, title II, 63 Stat. 284.

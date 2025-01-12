@@ -30,6 +30,6 @@ Sec.
 
 #### Amendments ####
 
-**2009**—Pub. L. 111–84, div. A, title V, §541(b), Oct. 28, 2009, 123 Stat. 2298, substituted “Program to resolve preenactment missing person cases” for “Preenactment cases” in item 1509.
+**2009**—Pub. L. 111–84, div. A, title V, §541(b), Oct. 28, 2009, 123 Stat. 2298, substituted "Program to resolve preenactment missing person cases" for "Preenactment cases" in item 1509.
 
-**1996**—Pub. L. 104–201, div. A, title V, §578(f)(2)(B), Sept. 23, 1996, 110 Stat. 2537, struck out “, special interest” after “Preenactment” in item 1509.
+**1996**—Pub. L. 104–201, div. A, title V, §578(f)(2)(B), Sept. 23, 1996, 110 Stat. 2537, struck out ", special interest" after "Preenactment" in item 1509.

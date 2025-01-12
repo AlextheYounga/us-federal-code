@@ -52,17 +52,17 @@ The Internal Revenue Code of 1986, referred to in subsec. (a)(1), is classified 
 
 #### Amendments ####
 
-**2010**—Subsec. (b)(2)(B). Pub. L. 111–148 substituted “a high-performing State under section 1397kk(b)(3)(B) of this title” for “the child population growth factor under section 1397dd(m)(5)(B) of this title”.
+**2010**—Subsec. (b)(2)(B). Pub. L. 111–148 substituted "a high-performing State under section 1397kk(b)(3)(B) of this title" for "the child population growth factor under section 1397dd(m)(5)(B) of this title".
 
 **2009**—Subsec. (b)(2). Pub. L. 111–3, §602(b)(2), added par. (2). Former par. (2) redesignated (4).
 
-Pub. L. 111–3, §602(a), substituted “$20,000,000 for fiscal year 2009” for “$10,000,000 for fiscal year 2000”.
+Pub. L. 111–3, §602(a), substituted "$20,000,000 for fiscal year 2009" for "$10,000,000 for fiscal year 2000".
 
 Subsec. (b)(3), (4). Pub. L. 111–3, §602(b), added par. (3) and redesignated former par. (2) as (4).
 
-**2007**—Subsec. (b)(2). Pub. L. 110–173 inserted before period at end “(except that only with respect to fiscal year 2008, there are appropriated $20,000,000 for the purpose of carrying out this subsection, to remain available until expended)”.
+**2007**—Subsec. (b)(2). Pub. L. 110–173 inserted before period at end "(except that only with respect to fiscal year 2008, there are appropriated $20,000,000 for the purpose of carrying out this subsection, to remain available until expended)".
 
-**1999**—Subsec. (a)(1). Pub. L. 106–113, §1000(a)(6) [title VII, §705(c)(1)], substituted “title I” for “title II” before “of the Employee Retirement Income Security Act of 1974,”.
+**1999**—Subsec. (a)(1). Pub. L. 106–113, §1000(a)(6) [title VII, §705(c)(1)], substituted "title I" for "title II" before "of the Employee Retirement Income Security Act of 1974,".
 
 Subsec. (a)(2). Pub. L. 106–113, §1000(a)(6) [title VII, §705(c)(2)], inserted closing parenthesis before period at end.
 

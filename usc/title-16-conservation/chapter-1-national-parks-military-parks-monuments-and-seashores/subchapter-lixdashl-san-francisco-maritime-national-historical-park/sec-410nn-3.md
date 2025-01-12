@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-There is hereby established the Advisory Commission of the San Francisco Maritime National Historical Park (hereinafter in this subchapter referred to as the “Commission”). The Commission shall be composed of 12 members appointed by the Secretary as follows:
+There is hereby established the Advisory Commission of the San Francisco Maritime National Historical Park (hereinafter in this subchapter referred to as the "Commission"). The Commission shall be composed of 12 members appointed by the Secretary as follows:
 
 (1) 3 members appointed for terms of 4 years from recommendations submitted by the National Maritime Museum Association.
 
@@ -44,6 +44,6 @@ The Commission shall cease to exist 10 years after the date on which the first m
 
 #### References in Text ####
 
-This subchapter, referred to in subsecs. (a) and (e), was in the original “this Act”, meaning Pub. L. 100–348, June 27, 1988, 102 Stat. 654, known as the San Francisco Maritime National Historical Park Act of 1988, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 410nn of this title and Tables.
+This subchapter, referred to in subsecs. (a) and (e), was in the original "this Act", meaning Pub. L. 100–348, June 27, 1988, 102 Stat. 654, known as the San Francisco Maritime National Historical Park Act of 1988, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 410nn of this title and Tables.
 
 The Federal Advisory Committee Act, referred to in subsecs. (d) and (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.

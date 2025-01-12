@@ -4,6 +4,8 @@
 
 Sec.
 
+400. Continuing authority programs.
+
 401. Construction of bridges, causeways, dams or dikes generally; exemptions.
 
 402. Construction of bridges, etc., over Illinois and Mississippi Canal.
@@ -72,7 +74,7 @@ Sec.
 
 426–3. Transfer of functions of Beach Erosion Board.
 
-426a. Additional investigations concerning erosion of shores of coastal and lake waters; payment of costs; “shores” defined.
+426a. Additional investigations concerning erosion of shores of coastal and lake waters; payment of costs; "shores" defined.
 
 426b. Applicability of existing laws; projects referred to Board of Engineers for Rivers and Harbors.
 
@@ -83,6 +85,8 @@ Sec.
 426e. Federal aid in protection of shores.
 
 426e–1. Shore protection projects.
+
+426e–2. Clarification of munition disposal authorities.
 
 426f. Reimbursements.
 
@@ -96,7 +100,7 @@ Sec.
 
 426i. Shore damage prevention or mitigation.
 
-426i–1. Construction of shoreline protection projects by non-Federal interests.
+426i–1. Repealed.
 
 426i–2. National coastal data bank.
 
@@ -195,6 +199,8 @@ Sec.
 467g. Research.
 
 467g–1. Dam safety training.
+
+467g–2. Public awareness and outreach for dam safety.
 
 467h. Reports.
 

@@ -2,15 +2,15 @@
 
 #### (a) Establishment ####
 
-There is established an independent board to be known as the “Independent Payment Advisory Board”.
+There is established an independent board to be known as the "Independent Payment Advisory Board".
 
 #### (b) Purpose ####
 
 It is the purpose of this section to, in accordance with the following provisions of this section, reduce the per capita rate of growth in Medicare spending—
 
-(1) by requiring the Chief Actuary of the Centers for Medicare & Medicaid Services to determine in each year to which this section applies (in this section referred to as “a determination year”) the projected per capita growth rate under Medicare for the second year following the determination year (in this section referred to as “an implementation year”);
+(1) by requiring the Chief Actuary of the Centers for Medicare & Medicaid Services to determine in each year to which this section applies (in this section referred to as "a determination year") the projected per capita growth rate under Medicare for the second year following the determination year (in this section referred to as "an implementation year");
 
-(2) if the projection for the implementation year exceeds the target growth rate for that year, by requiring the Board to develop and submit during the first year following the determination year (in this section referred to as “a proposal year”) a proposal containing recommendations to reduce the Medicare per capita growth rate to the extent required by this section; and
+(2) if the projection for the implementation year exceeds the target growth rate for that year, by requiring the Board to develop and submit during the first year following the determination year (in this section referred to as "a proposal year") a proposal containing recommendations to reduce the Medicare per capita growth rate to the extent required by this section; and
 
 (3) by requiring the Secretary to implement such proposals unless Congress enacts legislation pursuant to this section.
 
@@ -56,7 +56,7 @@ In developing and submitting each proposal under this section in a proposal year
 
 (I) improve the health care delivery system and health outcomes, including by promoting integrated care, care coordination, prevention and wellness, and quality and efficiency improvement; and
 
-(II) protect and improve Medicare beneficiaries’ access to necessary and evidence-based items and services, including in rural and frontier areas;
+(II) protect and improve Medicare beneficiaries' access to necessary and evidence-based items and services, including in rural and frontier areas;
 
 (iii) include recommendations that target reductions in Medicare program spending to sources of excess cost growth;
 
@@ -150,7 +150,7 @@ For purposes of this section, the Medicare per capita growth rate for an impleme
 
 The projection under clause (i) shall—
 
-(I) to the extent that there is projected to be a negative update to the single conversion factor applicable to payments for physicians’ services under section 1395w–4(d) of this title furnished in the proposal year or the implementation year, assume that such update for such services is 0 percent rather than the negative percent that would otherwise apply; and
+(I) to the extent that there is projected to be a negative update to the single conversion factor applicable to payments for physicians' services under section 1395w–4(d) of this title furnished in the proposal year or the implementation year, assume that such update for such services is 0 percent rather than the negative percent that would otherwise apply; and
 
 (II) take into account any delivery system reforms or other payment changes that have been enacted or published in final rules but not yet implemented as of the making of such calculation.
 
@@ -398,7 +398,7 @@ The Secretary may use interim final rulemaking to implement any recommendation d
 
 The Secretary shall not implement the recommendations contained in a proposal submitted in a proposal year by the Board or the President to Congress pursuant to this section if—
 
-(i) prior to August 15 of the proposal year, Federal legislation is enacted that includes the following provision: “This Act supercedes the recommendations of the Board contained in the proposal submitted, in the year which includes the date of enactment of this Act, to Congress under section 1899A of the Social Security Act.”; and
+(i) prior to August 15 of the proposal year, Federal legislation is enacted that includes the following provision: "This Act supercedes the recommendations of the Board contained in the proposal submitted, in the year which includes the date of enactment of this Act, to Congress under section 1899A of the Social Security Act."; and
 
 (ii) in the case of implementation year 2020 and subsequent implementation years, a joint resolution described in subsection (f)(1) is enacted not later than August 15, 2017.
 
@@ -442,9 +442,9 @@ For purposes of subsection (e)(3)(B), a joint resolution described in this parag
 
 (B) which does not have a preamble;
 
-(C) the title of which is as follows: “Joint resolution approving the discontinuation of the process for consideration and automatic implementation of the annual proposal of the Independent Payment Advisory Board under section 1899A of the Social Security Act”; and
+(C) the title of which is as follows: "Joint resolution approving the discontinuation of the process for consideration and automatic implementation of the annual proposal of the Independent Payment Advisory Board under section 1899A of the Social Security Act"; and
 
-(D) the matter after the resolving clause of which is as follows: “That Congress approves the discontinuation of the process for consideration and automatic implementation of the annual proposal of the Independent Payment Advisory Board under section 1899A of the Social Security Act.”.
+(D) the matter after the resolving clause of which is as follows: "That Congress approves the discontinuation of the process for consideration and automatic implementation of the annual proposal of the Independent Payment Advisory Board under section 1899A of the Social Security Act.".
 
 #### (2) Procedure ####
 
@@ -708,19 +708,19 @@ In this section:
 
 #### (1) Board; Chairperson; Member ####
 
-The terms “Board”, “Chairperson”, and “Member” mean the Independent Payment Advisory Board established under subsection (a) and the Chairperson and any Member thereof, respectively.
+The terms "Board", "Chairperson", and "Member" mean the Independent Payment Advisory Board established under subsection (a) and the Chairperson and any Member thereof, respectively.
 
 #### (2) Medicare ####
 
-The term “Medicare” means the program established under this subchapter, including parts A, B, C, and D.
+The term "Medicare" means the program established under this subchapter, including parts A, B, C, and D.
 
 #### (3) Medicare beneficiary ####
 
-The term “Medicare beneficiary” means an individual who is entitled to, or enrolled for, benefits under part A or enrolled for benefits under part B.
+The term "Medicare beneficiary" means an individual who is entitled to, or enrolled for, benefits under part A or enrolled for benefits under part B.
 
 #### (4) Medicare program spending ####
 
-The term “Medicare program spending” means program spending under parts A, B, and D net of premiums.
+The term "Medicare program spending" means program spending under parts A, B, and D net of premiums.
 
 #### (m) Funding ####
 
@@ -802,54 +802,54 @@ The Federal Advisory Committee Act, referred to in subsec. (k)(6), is Pub. L. 92
 
 #### Amendments ####
 
-**2010**—Subsec. (c)(1)(B). Pub. L. 111–148, §10320(a)(1)(A), inserted at end “In any year (beginning with 2014) that the Board is not required to submit a proposal under this section, the Board shall submit to Congress an advisory report on matters related to the Medicare program.”
+**2010**—Subsec. (c)(1)(B). Pub. L. 111–148, §10320(a)(1)(A), inserted at end "In any year (beginning with 2014) that the Board is not required to submit a proposal under this section, the Board shall submit to Congress an advisory report on matters related to the Medicare program."
 
-Subsec. (c)(2)(A)(iv). Pub. L. 111–148, §10320(a)(1)(B)(i), inserted “or the full premium subsidy under section 1395w–114(a) of this title” before period at end of the last sentence.
+Subsec. (c)(2)(A)(iv). Pub. L. 111–148, §10320(a)(1)(B)(i), inserted "or the full premium subsidy under section 1395w–114(a) of this title" before period at end of the last sentence.
 
 Subsec. (c)(2)(A)(vii). Pub. L. 111–148, §10320(a)(1)(B)(ii), added cl. (vii).
 
 Subsec. (c)(2)(B)(vii). Pub. L. 111–148, §10320(a)(1)(C), added cl. (vii).
 
-Subsec. (c)(3). Pub. L. 111–148, §10320(a)(1)(D)(i), substituted “Submission of Board proposal to Congress and the President” for “Transmission of Board proposal to President” in heading.
+Subsec. (c)(3). Pub. L. 111–148, §10320(a)(1)(D)(i), substituted "Submission of Board proposal to Congress and the President" for "Transmission of Board proposal to President" in heading.
 
-Subsec. (c)(3)(A)(i). Pub. L. 111–148, §10320(a)(1)(D)(ii), substituted “submit a proposal under this section to Congress and the President” for “transmit a proposal under this section to the President”.
+Subsec. (c)(3)(A)(i). Pub. L. 111–148, §10320(a)(1)(D)(ii), substituted "submit a proposal under this section to Congress and the President" for "transmit a proposal under this section to the President".
 
-Subsec. (c)(3)(A)(ii). Pub. L. 111–148, §10320(a)(1)(D)(iii), inserted “or” at end of subcl. (I), substituted a period for “; or” at end of subcl. (II), and struck out subcl. (III), which read as follows: “for proposal year 2019 and subsequent proposal years, a year in which the Chief Actuary of the Centers for Medicare & Medicaid Services makes a determination in the determination year that the growth rate described in paragraph (8) exceeds the growth rate described in paragraph (6)(A)(i).”
+Subsec. (c)(3)(A)(ii). Pub. L. 111–148, §10320(a)(1)(D)(iii), inserted "or" at end of subcl. (I), substituted a period for "; or" at end of subcl. (II), and struck out subcl. (III), which read as follows: "for proposal year 2019 and subsequent proposal years, a year in which the Chief Actuary of the Centers for Medicare & Medicaid Services makes a determination in the determination year that the growth rate described in paragraph (8) exceeds the growth rate described in paragraph (6)(A)(i)."
 
-Subsec. (c)(4). Pub. L. 111–148, §10320(a)(1)(E), struck out “the Board under paragraph (3)(A)(i) or” before “the Secretary” and substituted “within 2 days” for “immediately”.
+Subsec. (c)(4). Pub. L. 111–148, §10320(a)(1)(E), struck out "the Board under paragraph (3)(A)(i) or" before "the Secretary" and substituted "within 2 days" for "immediately".
 
-Subsec. (c)(5). Pub. L. 111–148, §10320(a)(1)(F), in introductory provisions, substituted “but” for “to but” and inserted “Congress and” after “submit a proposal to”.
+Subsec. (c)(5). Pub. L. 111–148, §10320(a)(1)(F), in introductory provisions, substituted "but" for "to but" and inserted "Congress and" after "submit a proposal to".
 
-Subsec. (c)(6)(B)(i). Pub. L. 111–148, §10320(a)(1)(G), substituted “(calculated as the sum of per capita spending under each of parts A, B, and D)” for “per unduplicated enrollee”.
+Subsec. (c)(6)(B)(i). Pub. L. 111–148, §10320(a)(1)(G), substituted "(calculated as the sum of per capita spending under each of parts A, B, and D)" for "per unduplicated enrollee".
 
-Subsec. (d)(1)(A). Pub. L. 111–148, §10320(a)(2)(A), inserted “the Board or” after “a proposal is submitted by” and “subsection (c)(3)(A)(i) or” after “the Senate under”.
+Subsec. (d)(1)(A). Pub. L. 111–148, §10320(a)(2)(A), inserted "the Board or" after "a proposal is submitted by" and "subsection (c)(3)(A)(i) or" after "the Senate under".
 
-Subsec. (d)(2)(A). Pub. L. 111–148, §10320(a)(2)(B), inserted “the Board or” after “a proposal is submitted by”.
+Subsec. (d)(2)(A). Pub. L. 111–148, §10320(a)(2)(B), inserted "the Board or" after "a proposal is submitted by".
 
-Subsec. (e)(1). Pub. L. 111–148, §10320(a)(3)(A), inserted “the Board or” after “a proposal submitted by”.
+Subsec. (e)(1). Pub. L. 111–148, §10320(a)(3)(A), inserted "the Board or" after "a proposal submitted by".
 
-Subsec. (e)(3). Pub. L. 111–148, §10320(a)(3)(B), substituted “Exceptions” for “Exception” in par. heading, designated existing provisions as subpar. (A) and inserted heading, substituted “The Secretary shall not implement the recommendations contained in a proposal submitted in a proposal year by the Board or” for “The Secretary shall not be required to implement the recommendations contained in a proposal submitted in a proposal year by”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
+Subsec. (e)(3). Pub. L. 111–148, §10320(a)(3)(B), substituted "Exceptions" for "Exception" in par. heading, designated existing provisions as subpar. (A) and inserted heading, substituted "The Secretary shall not implement the recommendations contained in a proposal submitted in a proposal year by the Board or" for "The Secretary shall not be required to implement the recommendations contained in a proposal submitted in a proposal year by", redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
 
-Subsec. (f)(3)(B). Pub. L. 111–148, §10320(a)(4), substituted “, advisory reports, or advisory recommendations” for “or advisory reports to Congress” and inserted “or produce the public report under subsection (n)” after “this section”.
+Subsec. (f)(3)(B). Pub. L. 111–148, §10320(a)(4), substituted ", advisory reports, or advisory recommendations" for "or advisory reports to Congress" and inserted "or produce the public report under subsection (n)" after "this section".
 
 Subsecs. (n), (o). Pub. L. 111–148, §10320(a)(5), added subsecs. (n) and (o).
 
 #### Change of Name ####
 
-Pub. L. 111–148, title X, §10320(b), Mar. 23, 2010, 124 Stat. 952, provided that: “Any reference in the provisions of, or amendments made by, section 3403 [enacting this section and section 1395kkk–1 of this title and amending section 1395b–6 of this title and section 207 of Title 18, Crimes and Criminal Procedure] to the ‘Independent Medicare Advisory Board’ shall be deemed to be a reference to the ‘Independent Payment Advisory Board’.”
+Pub. L. 111–148, title X, §10320(b), Mar. 23, 2010, 124 Stat. 952, provided that: "Any reference in the provisions of, or amendments made by, section 3403 [enacting this section and section 1395kkk–1 of this title and amending section 1395b–6 of this title and section 207 of Title 18, Crimes and Criminal Procedure] to the 'Independent Medicare Advisory Board' shall be deemed to be a reference to the 'Independent Payment Advisory Board'."
 
 #### Construction ####
 
-Pub. L. 111–148, title X, §10320(c), Mar. 23, 2010, 124 Stat. 952, provided that: “Nothing in the amendments made by this section [amending this section] shall preclude the Independent Medicare Advisory Board [now Independent Payment Advisory Board], as established under section 1899A of the Social Security Act (as added by section 3403) [42 U.S.C. 1395kkk], from solely using data from public or private sources to carry out the amendments made by subsection (a)(4).”
+Pub. L. 111–148, title X, §10320(c), Mar. 23, 2010, 124 Stat. 952, provided that: "Nothing in the amendments made by this section [amending this section] shall preclude the Independent Medicare Advisory Board [now Independent Payment Advisory Board], as established under section 1899A of the Social Security Act (as added by section 3403) [42 U.S.C. 1395kkk], from solely using data from public or private sources to carry out the amendments made by subsection (a)(4)."
 
-[<sup>1</sup> So in original. Probably should be “paragraphs”.](#1395kkk_1)
+[<sup>1</sup> So in original. Probably should be "paragraphs".](#1395kkk_1)
 
 [<sup>2</sup> See References in Text note below.](#1395kkk_2)
 
-[<sup>3</sup> So in original. Probably should be preceded by “section”.](#1395kkk_3)
+[<sup>3</sup> So in original. Probably should be preceded by "section".](#1395kkk_3)
 
-[<sup>4</sup> So in original. Probably should be preceded by “a”.](#1395kkk_4)
+[<sup>4</sup> So in original. Probably should be preceded by "a".](#1395kkk_4)
 
-[<sup>5</sup> So in original. Probably should be “Clauses”.](#1395kkk_5)
+[<sup>5</sup> So in original. Probably should be "Clauses".](#1395kkk_5)
 
 [<sup>6</sup> So in original. Probably should be capitalized.](#1395kkk_6)

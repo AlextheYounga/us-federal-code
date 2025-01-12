@@ -30,11 +30,11 @@ This section shall not apply to any recovery of a foreign expropriation loss to 
 
 #### Amendments ####
 
-**1984**—Subsec. (a). Pub. L. 98–369 substituted “801” for “802”.
+**1984**—Subsec. (a). Pub. L. 98–369 substituted "801" for "802".
 
-**1976**—Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+**1976**—Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-Subsec. (c)(1). Pub. L. 94–455, §1901(b)(3)(K), substituted “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”.
+Subsec. (c)(1). Pub. L. 94–455, §1901(b)(3)(K), substituted "ordinary income" for "gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231".
 
 #### Effective Date of 1984 Amendment ####
 
@@ -46,4 +46,4 @@ Amendment by section 1901(b)(3)(K) of Pub. L. 94–455 applicable with respect t
 
 #### Effective Date ####
 
-Pub. L. 89–384, §1(b)(3), Apr. 8, 1966, 80 Stat. 102, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this subsection [enacting this section] shall apply to taxable years beginning after December 31, 1965, but only with respect to losses described in section 80(a)(2) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as added by paragraph (1) of this subsection) which were sustained after December 31, 1958.”
+Pub. L. 89–384, §1(b)(3), Apr. 8, 1966, 80 Stat. 102, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this subsection [enacting this section] shall apply to taxable years beginning after December 31, 1965, but only with respect to losses described in section 80(a)(2) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as added by paragraph (1) of this subsection) which were sustained after December 31, 1958."

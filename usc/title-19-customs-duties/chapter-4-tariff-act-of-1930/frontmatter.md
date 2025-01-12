@@ -104,7 +104,7 @@ Sec.
 
 1356k. Importation of coffee under International Coffee Agreement, 1983; Presidential powers and duties.
 
-1356 l. “Coffee” defined.
+1356 l. "Coffee" defined.
 
 1356m to 1359. Repealed.
 
@@ -248,7 +248,7 @@ Sec.
 
 1496. Examination of baggage.
 
-1496a. Clearance restrictions of individuals returning from abroad; special circumstances; “baggage and effects” defined.
+1496a. Clearance restrictions of individuals returning from abroad; special circumstances; "baggage and effects" defined.
 
 1497. Penalties for failure to declare.
 

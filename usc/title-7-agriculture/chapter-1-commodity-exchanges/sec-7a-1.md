@@ -466,13 +466,13 @@ A prior section 5b of act Sept. 21, 1922, was renumbered section 5e, and is clas
 
 **2010**—Subsec. (a). Pub. L. 111–203, §725(a), added subsec. (a) and struck out former subsec. (a) which related to registration requirement of derivatives clearing organizations.
 
-Pub. L. 111–203, §721(e)(6), substituted “section 1a” for “section 1a(9)” in introductory provisions.
+Pub. L. 111–203, §721(e)(6), substituted "section 1a" for "section 1a(9)" in introductory provisions.
 
-Subsec. (b). Pub. L. 111–203, §725(a), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “A derivatives clearing organization that clears agreements, contracts, or transactions excluded from this chapter by section 2(c), 2(d), 2(f), or 2(g) of this title or sections 27 to 27f of this title, or exempted under section 2(h) or 6(c) of this title, or other over-the-counter derivative instruments (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991) may register with the Commission as a derivatives clearing organization.”
+Subsec. (b). Pub. L. 111–203, §725(a), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "A derivatives clearing organization that clears agreements, contracts, or transactions excluded from this chapter by section 2(c), 2(d), 2(f), or 2(g) of this title or sections 27 to 27f of this title, or exempted under section 2(h) or 6(c) of this title, or other over-the-counter derivative instruments (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991) may register with the Commission as a derivatives clearing organization."
 
 Subsec. (c)(2). Pub. L. 111–203, §725(c), added par. (2) and struck out former par. (2) which related to core principles for derivatives clearing organizations.
 
-Subsec. (f)(1). Pub. L. 111–203, §725(h), inserted at end “In order to minimize systemic risk, under no circumstances shall a derivatives clearing organization be compelled to accept the counterparty credit risk of another clearing organization.”
+Subsec. (f)(1). Pub. L. 111–203, §725(h), inserted at end "In order to minimize systemic risk, under no circumstances shall a derivatives clearing organization be compelled to accept the counterparty credit risk of another clearing organization."
 
 Subsecs. (g) to (i). Pub. L. 111–203, §725(b), added subsecs. (g) to (i).
 
@@ -484,7 +484,7 @@ Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21,
 
 #### Conflicts of Interest ####
 
-Pub. L. 111–203, title VII, §725(d), July 21, 2010, 124 Stat. 1692, provided that: “The Commodity Futures Trading Commission shall adopt rules mitigating conflicts of interest in connection with the conduct of business by a swap dealer or a major swap participant with a derivatives clearing organization, board of trade, or a swap execution facility that clears or trades swaps in which the swap dealer or major swap participant has a material debt or material equity investment.”
+Pub. L. 111–203, title VII, §725(d), July 21, 2010, 124 Stat. 1692, provided that: "The Commodity Futures Trading Commission shall adopt rules mitigating conflicts of interest in connection with the conduct of business by a swap dealer or a major swap participant with a derivatives clearing organization, board of trade, or a swap execution facility that clears or trades swaps in which the swap dealer or major swap participant has a material debt or material equity investment."
 
 [For definitions of terms used in section 725(d) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.]
 

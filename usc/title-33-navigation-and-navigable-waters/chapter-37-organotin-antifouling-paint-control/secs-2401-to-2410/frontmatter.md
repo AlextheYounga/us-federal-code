@@ -26,4 +26,4 @@ Pub. L. 100–333, §12, June 16, 1988, 102 Stat. 609, which provided that this 
 
 #### Short Title ####
 
-Pub. L. 100–333, §1, June 16, 1988, 102 Stat. 605, which provided that this chapter could be cited as the “Organotin Antifouling Paint Control Act of 1988”, was repealed by Pub. L. 111–281, title X, §1048, Oct. 15, 2010, 124 Stat. 3032.
+Pub. L. 100–333, §1, June 16, 1988, 102 Stat. 605, which provided that this chapter could be cited as the "Organotin Antifouling Paint Control Act of 1988", was repealed by Pub. L. 111–281, title X, §1048, Oct. 15, 2010, 124 Stat. 3032.

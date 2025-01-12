@@ -54,7 +54,7 @@ Act of September 28, 1962, referred to in subsec. (c)(1), is Pub. L. 87–714, S
 
 #### Amendments ####
 
-**2009**—Subsec. (a). Pub. L. 111–8, §117(1), substituted “Establishment and purpose” for “Establishment” in heading, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and inserted headings, substituted “The establishment of the refuge under subparagraph (A)” for “Such establishment” in subpar. (B), and added par. (2).
+**2009**—Subsec. (a). Pub. L. 111–8, §117(1), substituted "Establishment and purpose" for "Establishment" in heading, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and inserted headings, substituted "The establishment of the refuge under subparagraph (A)" for "Such establishment" in subpar. (B), and added par. (2).
 
 Subsec. (c). Pub. L. 111–8, §117(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 

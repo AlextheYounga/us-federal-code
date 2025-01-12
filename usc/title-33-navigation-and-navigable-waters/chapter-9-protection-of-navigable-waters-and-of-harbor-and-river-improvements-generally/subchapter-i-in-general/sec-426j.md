@@ -4,4 +4,4 @@ Section, Pub. L. 94–587, §145, Oct. 22, 1976, 90 Stat. 2931; Pub. L. 99–662
 
 #### Existing Projects ####
 
-Pub. L. 110–114, title II, §2037(b)(2), Nov. 8, 2007, 121 Stat. 1096, provided that: “The Secretary [of the Army] may complete any project being carried out under section 145 of the Water Resources Development Act of 1976 [this section] on the day before the date of enactment of this Act [Nov. 8, 2007].”
+Pub. L. 110–114, title II, §2037(b)(2), Nov. 8, 2007, 121 Stat. 1096, provided that: "The Secretary [of the Army] may complete any project being carried out under section 145 of the Water Resources Development Act of 1976 [this section] on the day before the date of enactment of this Act [Nov. 8, 2007]."

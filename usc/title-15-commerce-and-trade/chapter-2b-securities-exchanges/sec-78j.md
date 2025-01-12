@@ -22,11 +22,11 @@ Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII 
 
 #### Amendments ####
 
-**2010**—Pub. L. 111–203, §762(d)(3)(B), which directed amendment of the matter following subsection (b) “by striking ‘(as defined in section 206B of the Gramm-Leach-Bliley Act), in each place that such terms appear’ ”, was executed by striking out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreements” in two places in concluding provisions following subsec. (c) to reflect the probable intent of Congress.
+**2010**—Pub. L. 111–203, §762(d)(3)(B), which directed amendment of the matter following subsection (b) "by striking '(as defined in section 206B of the Gramm-Leach-Bliley Act), in each place that such terms appear' ", was executed by striking out "(as defined in section 206B of the Gramm-Leach-Bliley Act)" after "security-based swap agreements" in two places in concluding provisions following subsec. (c) to reflect the probable intent of Congress.
 
-Subsec. (a)(1). Pub. L. 111–203, §929L(2), substituted “other than a government security” for “registered on a national securities exchange”.
+Subsec. (a)(1). Pub. L. 111–203, §929L(2), substituted "other than a government security" for "registered on a national securities exchange".
 
-Subsec. (b). Pub. L. 111–203, §762(d)(3)(A), struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act),” after “securities-based swap agreement”.
+Subsec. (b). Pub. L. 111–203, §762(d)(3)(A), struck out "(as defined in section 206B of the Gramm-Leach-Bliley Act)," after "securities-based swap agreement".
 
 Subsec. (c). Pub. L. 111–203, §984(a), which directed amendment of this section by adding subsec. (c) at the end, was executed by adding subsec. (c) after subsec. (b) to reflect the probable intent of Congress.
 
@@ -34,7 +34,7 @@ Subsec. (c). Pub. L. 111–203, §984(a), which directed amendment of this secti
 
 Subsec. (a). Pub. L. 106–554, §1(a)(5) [title II, §206(g)], designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b). Pub. L. 106–554, §1(a)(5) [title III, §303(d)(1)], inserted “or any securities-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act),” before “any manipulative or deceptive device”.
+Subsec. (b). Pub. L. 106–554, §1(a)(5) [title III, §303(d)(1)], inserted "or any securities-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act)," before "any manipulative or deceptive device".
 
 #### Effective Date of 2010 Amendment ####
 
@@ -44,7 +44,7 @@ Amendment by section 762(d)(3) of Pub. L. 111–203 effective on the later of 36
 
 #### Regulations ####
 
-Pub. L. 111–203, title IX, §984(b), July 21, 2010, 124 Stat. 1933, provided that: “Not later than 2 years after the date of enactment of this Act [July 21, 2010], the Commission shall promulgate rules that are designed to increase the transparency of information available to brokers, dealers, and investors, with respect to the loan or borrowing of securities.”
+Pub. L. 111–203, title IX, §984(b), July 21, 2010, 124 Stat. 1933, provided that: "Not later than 2 years after the date of enactment of this Act [July 21, 2010], the Commission shall promulgate rules that are designed to increase the transparency of information available to brokers, dealers, and investors, with respect to the loan or borrowing of securities."
 
 [For definitions of terms used in section 984(b) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.]
 
@@ -54,10 +54,10 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Prohibition of Insider Trading ####
 
-Pub. L. 112–105, §4(a), Apr. 4, 2012, 126 Stat. 292, provided that: “Members of Congress and employees of Congress are not exempt from the insider trading prohibitions arising under the securities laws, including section 10(b) of the Securities Exchange Act of 1934 [15 U.S.C. 78j(b)] and Rule 10b–5 thereunder.”
+Pub. L. 112–105, §4(a), Apr. 4, 2012, 126 Stat. 292, provided that: "Members of Congress and employees of Congress are not exempt from the insider trading prohibitions arising under the securities laws, including section 10(b) of the Securities Exchange Act of 1934 [15 U.S.C. 78j(b)] and Rule 10b–5 thereunder."
 
 #### Application of Insider Trading Laws ####
 
-Pub. L. 112–105, §9(b)(1), Apr. 4, 2012, 126 Stat. 297, provided that: “Executive branch employees, judicial officers, and judicial employees are not exempt from the insider trading prohibitions arising under the securities laws, including section 10(b) of the Securities Exchange Act of 1934 [15 U.S.C. 78j(b)] and Rule 10b–5 thereunder.”
+Pub. L. 112–105, §9(b)(1), Apr. 4, 2012, 126 Stat. 297, provided that: "Executive branch employees, judicial officers, and judicial employees are not exempt from the insider trading prohibitions arising under the securities laws, including section 10(b) of the Securities Exchange Act of 1934 [15 U.S.C. 78j(b)] and Rule 10b–5 thereunder."
 
 [<sup>1</sup> So in original. Probably should be followed by a comma.](#78j_1)

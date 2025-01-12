@@ -206,7 +206,7 @@ Sec.
 
 1321. Prevention of unauthorized landing of aliens.
 
-1322. Bringing in aliens subject to denial of admission on a health-related ground; persons liable; clearance papers; exceptions; “person” defined.
+1322. Bringing in aliens subject to denial of admission on a health-related ground; persons liable; clearance papers; exceptions; "person" defined.
 
 1323. Unlawful bringing of aliens into United States.
 

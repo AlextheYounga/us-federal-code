@@ -12,10 +12,10 @@ Any person who violates or fails or refuses to comply with any order issued by t
 
 #### Amendments ####
 
-**2002**—Subsec. (a). Pub. L. 107–188, in first sentence, inserted “, or that there is a threatened or potential terrorist attack (or other intentional act designed to disrupt the provision of safe drinking water or to impact adversely the safety of drinking water supplied to communities and individuals), which” after “drinking water”.
+**2002**—Subsec. (a). Pub. L. 107–188, in first sentence, inserted ", or that there is a threatened or potential terrorist attack (or other intentional act designed to disrupt the provision of safe drinking water or to impact adversely the safety of drinking water supplied to communities and individuals), which" after "drinking water".
 
-**1996**—Subsec. (b). Pub. L. 104–182 substituted “$15,000” for “$5,000”.
+**1996**—Subsec. (b). Pub. L. 104–182 substituted "$15,000" for "$5,000".
 
-**1986**—Subsec. (a). Pub. L. 99–339, §204(1), (2), inserted “or an underground source of drinking water” after “to enter a public water system” and “including orders requiring the provision of alternative water supplies by persons who caused or contributed to the endangerment,” after “including travelers),”.
+**1986**—Subsec. (a). Pub. L. 99–339, §204(1), (2), inserted "or an underground source of drinking water" after "to enter a public water system" and "including orders requiring the provision of alternative water supplies by persons who caused or contributed to the endangerment," after "including travelers),".
 
-Subsec. (b). Pub. L. 99–339, §204(3), struck out “willfully” after “person who” and substituted “subject to a civil penalty of not to exceed” for “fined not more than”.
+Subsec. (b). Pub. L. 99–339, §204(3), struck out "willfully" after "person who" and substituted "subject to a civil penalty of not to exceed" for "fined not more than".

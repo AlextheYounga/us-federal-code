@@ -28,4 +28,4 @@ Sec.
 
 #### Amendments ####
 
-**1995**—Pub. L. 104–66, title III, §3001(c)(2), Dec. 21, 1995, 109 Stat. 734, struck out item 3810 “Reports”.
+**1995**—Pub. L. 104–66, title III, §3001(c)(2), Dec. 21, 1995, 109 Stat. 734, struck out item 3810 "Reports".

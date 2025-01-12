@@ -20,12 +20,12 @@ Section was formerly classified to section 564 of this title.
 
 #### Amendments ####
 
-**1991**—Subsec. (a). Pub. L. 102–237 substituted “(7 U.S.C. 1 et seq.)” for “(7 U.S.C., Supp. 2, secs. 1 to 17(a))” and a period for semicolon at end.
+**1991**—Subsec. (a). Pub. L. 102–237 substituted "(7 U.S.C. 1 et seq.)" for "(7 U.S.C., Supp. 2, secs. 1 to 17(a))" and a period for semicolon at end.
 
-**1937**—Act Aug. 20, 1937, designated existing provisions as subsec. (a) and, among other changes inserted “That official inspection certificates for fresh fruits and vegetables issued by the Secretary of Agriculture pursuant to any law shall be received by all officers and all courts of the United States, in all proceedings under this chapter, and in all transactions upon contract markets under Commodities Exchange Act” before “as prima facie” in third proviso, and added subsec. (b).
+**1937**—Act Aug. 20, 1937, designated existing provisions as subsec. (a) and, among other changes inserted "That official inspection certificates for fresh fruits and vegetables issued by the Secretary of Agriculture pursuant to any law shall be received by all officers and all courts of the United States, in all proceedings under this chapter, and in all transactions upon contract markets under Commodities Exchange Act" before "as prima facie" in third proviso, and added subsec. (b).
 
-**1934**—Act Apr. 13, 1934, inserted “and in all proceedings under this chapter” after “United States” in third proviso.
+**1934**—Act Apr. 13, 1934, inserted "and in all proceedings under this chapter" after "United States" in third proviso.
 
 #### Potato Inspection ####
 
-Pub. L. 99–198, title XVII, §1704, Dec. 23, 1985, 99 Stat. 1635, as amended by Pub. L. 104–66, title I, §1011(g), Dec. 21, 1995, 109 Stat. 710, provided that: “The Secretary of Agriculture shall perform random spot checks of potatoes entering through ports of entry in the northeastern United States.”
+Pub. L. 99–198, title XVII, §1704, Dec. 23, 1985, 99 Stat. 1635, as amended by Pub. L. 104–66, title I, §1011(g), Dec. 21, 1995, 109 Stat. 710, provided that: "The Secretary of Agriculture shall perform random spot checks of potatoes entering through ports of entry in the northeastern United States."

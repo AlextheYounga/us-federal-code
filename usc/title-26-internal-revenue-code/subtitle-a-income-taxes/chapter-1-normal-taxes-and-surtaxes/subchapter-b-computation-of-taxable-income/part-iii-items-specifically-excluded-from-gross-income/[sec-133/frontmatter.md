@@ -22,17 +22,17 @@ with respect to a securities acquisition loan.
 
 (1) In general
 
-For purposes of this section, the term “securities acquisition loan” means—
+For purposes of this section, the term "securities acquisition loan" means—
 
 (A) any loan to a corporation or to an employee stock ownership plan to the extent that the proceeds are used to acquire employer securities for the plan, or
 
 (B) any loan to a corporation to the extent that, within 30 days, employer securities are transferred to the plan in an amount equal to the proceeds of such loan and such securities are allocable to accounts of plan participants within 1 year of the date of such loan.
 
-For purposes of this paragraph, the term “employer securities” has the meaning given such term by section 409(l). The term “securities acquisition loan” shall not include a loan with a term greater than 15 years.
+For purposes of this paragraph, the term "employer securities" has the meaning given such term by section 409(l). The term "securities acquisition loan" shall not include a loan with a term greater than 15 years.
 
 (2) Loans between related persons
 
-The term “securities acquisition loan” shall not include—
+The term "securities acquisition loan" shall not include—
 
 (A) any loan made between corporations which are members of the same controlled group of corporations, or
 
@@ -54,11 +54,11 @@ A loan to a corporation shall not fail to be treated as a securities acquisition
 
 (4) Controlled group of corporations
 
-For purposes of this paragraph, the term “controlled group of corporations” has the meaning given such term by section 409(l)(4).
+For purposes of this paragraph, the term "controlled group of corporations" has the meaning given such term by section 409(l)(4).
 
 (5) Treatment of refinancings
 
-The term “securities acquisition loan” shall include any loan which—
+The term "securities acquisition loan" shall include any loan which—
 
 (A) is (or is part of a series of loans) used to refinance a loan described in subparagraph (A) or (B) of paragraph (1), and
 
@@ -90,7 +90,7 @@ For purposes of subparagraph (A)—
 
 (i) In general
 
-The term “stock” means stock other than stock described in section 1504(a)(4).
+The term "stock" means stock other than stock described in section 1504(a)(4).
 
 (ii) Treatment of certain rights
 
@@ -118,7 +118,7 @@ A loan shall not be treated as a securities acquisition loan for purposes of thi
 
 (c) Employee stock ownership plan
 
-For purposes of this section, the term “employee stock ownership plan” has the meaning given to such term by section 4975(e)(7).
+For purposes of this section, the term "employee stock ownership plan" has the meaning given to such term by section 4975(e)(7).
 
 (d) Application with section 483 and original issue discount rules
 
@@ -138,7 +138,7 @@ subsection (a) shall apply only to interest accruing during the excludable perio
 
 (2) Excludable period
 
-For purposes of this subsection, the term “excludable period” means, with respect to any original securities acquisition loan—
+For purposes of this subsection, the term "excludable period" means, with respect to any original securities acquisition loan—
 
 (A) In general
 
@@ -150,7 +150,7 @@ If the term of an original securities acquisition loan described in subsection (
 
 (3) Original securities acquisition loan
 
-For the purposes of this subsection, the term “original securities acquisition loan” means a securities acquisition loan described in subparagraph (A) or (B) of subsection (b)(1).
+For the purposes of this subsection, the term "original securities acquisition loan" means a securities acquisition loan described in subparagraph (A) or (B) of subsection (b)(1).
 
 #### Prior Provisions ####
 
@@ -160,16 +160,16 @@ A prior section 133 was renumbered section 140 of this title.
 
 Pub. L. 104–188, title I, §1602(c), Aug. 20, 1996, 110 Stat. 1834, provided that:
 
-“(1) In general.—The amendments made by this section [amending sections 291, 812, 852, 4978, 6047, and 7872 of this title and repealing this section and section 4978B of this title] shall apply to loans made after the date of the enactment of this Act [Aug. 20, 1996].
+"(1) In general.—The amendments made by this section [amending sections 291, 812, 852, 4978, 6047, and 7872 of this title and repealing this section and section 4978B of this title] shall apply to loans made after the date of the enactment of this Act [Aug. 20, 1996].
 
-“(2) Refinancings.—The amendments made by this section shall not apply to loans made after the date of the enactment of this Act to refinance securities acquisition loans (determined without regard to section 133(b)(1)(B) of the Internal Revenue Code of 1986, as in effect on the day before the date of the enactment of this Act) [set out above] made on or before such date or to refinance loans described in this paragraph if—
+"(2) Refinancings.—The amendments made by this section shall not apply to loans made after the date of the enactment of this Act to refinance securities acquisition loans (determined without regard to section 133(b)(1)(B) of the Internal Revenue Code of 1986, as in effect on the day before the date of the enactment of this Act) [set out above] made on or before such date or to refinance loans described in this paragraph if—
 
-“(A) the refinancing loans meet the requirements of section 133 of such Code (as so in effect),
+"(A) the refinancing loans meet the requirements of section 133 of such Code (as so in effect),
 
-“(B) immediately after the refinancing the principal amount of the loan resulting from the refinancing does not exceed the principal amount of the refinanced loan (immediately before the refinancing), and
+"(B) immediately after the refinancing the principal amount of the loan resulting from the refinancing does not exceed the principal amount of the refinanced loan (immediately before the refinancing), and
 
-“(C) the term of such refinancing loan does not extend beyond the last day of the term of the original securities acquisition loan.
+"(C) the term of such refinancing loan does not extend beyond the last day of the term of the original securities acquisition loan.
 
-For purposes of this paragraph, the term ‘securities acquisition loan’ includes a loan from a corporation to an employee stock ownership plan described in section 133(b)(3) of such Code (as so in effect).
+For purposes of this paragraph, the term 'securities acquisition loan' includes a loan from a corporation to an employee stock ownership plan described in section 133(b)(3) of such Code (as so in effect).
 
-“(3) Exception.—Any loan made pursuant to a binding written contract in effect before June 10, 1996, and at all times thereafter before such loan is made, shall be treated for purposes of paragraphs (1) and (2) as a loan made on or before the date of the enactment of this Act.”
+"(3) Exception.—Any loan made pursuant to a binding written contract in effect before June 10, 1996, and at all times thereafter before such loan is made, shall be treated for purposes of paragraphs (1) and (2) as a loan made on or before the date of the enactment of this Act."

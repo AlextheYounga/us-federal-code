@@ -10,35 +10,35 @@ For delegation to Secretary of the Interior of authority vested in President by 
 
 #### Silver Creek Project ####
 
-Act July 30, 1947, ch. 351, 61 Stat. 519, provided: “That, in order to carry out the purposes of the act of June 6, 1942 [56 Stat. 326; sections 459r to 459t of this title], relating to the disposition of recreational demonstration areas, and to effectuate the transfer to the State of Oregon, pursuant to that act, of the Silver Creek recreational demonstration project, the following-described revested Oregon and California Railroad grant lands shall hereafter be administered as a part of the Silver Creek recreational demonstration project and shall be subject to all of the provisions of the aforesaid Act of June 6, 1942:
+Act July 30, 1947, ch. 351, 61 Stat. 519, provided: "That, in order to carry out the purposes of the act of June 6, 1942 [56 Stat. 326; sections 459r to 459t of this title], relating to the disposition of recreational demonstration areas, and to effectuate the transfer to the State of Oregon, pursuant to that act, of the Silver Creek recreational demonstration project, the following-described revested Oregon and California Railroad grant lands shall hereafter be administered as a part of the Silver Creek recreational demonstration project and shall be subject to all of the provisions of the aforesaid Act of June 6, 1942:
 
-#### “willamette meridian ####
+#### "willamette meridian ####
 
-“Township 8 south, range 1 east:
+"Township 8 south, range 1 east:
 
-“Section 13, east half southeast quarter and southeast quarter northeast quarter;
+"Section 13, east half southeast quarter and southeast quarter northeast quarter;
 
-“Section 25, all;
+"Section 25, all;
 
-“Section 35, north half northeast quarter northeast quarter and north half south half northeast quarter northeast quarter;
+"Section 35, north half northeast quarter northeast quarter and north half south half northeast quarter northeast quarter;
 
-“Township 8 south, range 2 east:
+"Township 8 south, range 2 east:
 
-“Section 17, south half southwest quarter and northwest quarter southwest quarter;
+"Section 17, south half southwest quarter and northwest quarter southwest quarter;
 
-“Section 19, lots 3, 4, and northeast quarter;
+"Section 19, lots 3, 4, and northeast quarter;
 
-“Section 29, west half; and
+"Section 29, west half; and
 
-“Section 31, north half;
+"Section 31, north half;
 
 comprising one thousand seven hundred and ninety-one and ninety-three one-hundredths acres.
 
-“Sec. 2. The following-described lands also shall become a part of the Silver Creek recreational demonstration project and shall be subject to the provisions of the act of June 6, 1942, upon acquisition of title thereto by the Oregon and California Revested Lands Administration:
+"Sec. 2. The following-described lands also shall become a part of the Silver Creek recreational demonstration project and shall be subject to the provisions of the act of June 6, 1942, upon acquisition of title thereto by the Oregon and California Revested Lands Administration:
 
-#### “willamette meridian ####
+#### "willamette meridian ####
 
-“Township 8 south, range 1 east: Section 36, northeast quarter, northeast quarter northwest quarter, north half southeast quarter northwest quarter, north half south half southeast quarter northwest quarter, north half northwest quarter northwest quarter, and north half south half northwest quarter northwest quarter; comprising two hundred and sixty acres.”
+"Township 8 south, range 1 east: Section 36, northeast quarter, northeast quarter northwest quarter, north half southeast quarter northwest quarter, north half south half southeast quarter northwest quarter, north half northwest quarter northwest quarter, and north half south half northwest quarter northwest quarter; comprising two hundred and sixty acres."
 
 #### Ex. Ord. No. 7496. Transfer of Recreational Demonstration Projects ####
 

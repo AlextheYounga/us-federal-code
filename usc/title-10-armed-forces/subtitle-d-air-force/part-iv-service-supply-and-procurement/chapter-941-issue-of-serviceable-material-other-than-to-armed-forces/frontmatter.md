@@ -16,8 +16,8 @@ Sec.
 
 #### Amendments ####
 
-**2013**—Pub. L. 112–239, div. A, title V, §552(c)(4), Jan. 2, 2013, 126 Stat. 1741, struck out item 9651 “Arms, tentage, and equipment: educational institutions not maintaining units of A.F.R.O.T.C.”
+**2013**—Pub. L. 112–239, div. A, title V, §552(c)(4), Jan. 2, 2013, 126 Stat. 1741, struck out item 9651 "Arms, tentage, and equipment: educational institutions not maintaining units of A.F.R.O.T.C."
 
-**2009**—Pub. L. 111–84, div. A, title X, §1073(a)(32), Oct. 28, 2009, 123 Stat. 2474, transferred item 9515 “Charter air transportation services: minimum annual purchase amount for carriers participating in Civil Reserve Air Fleet” to chapter 931 of this title.
+**2009**—Pub. L. 111–84, div. A, title X, §1073(a)(32), Oct. 28, 2009, 123 Stat. 2474, transferred item 9515 "Charter air transportation services: minimum annual purchase amount for carriers participating in Civil Reserve Air Fleet" to chapter 931 of this title.
 
 **2008**—Pub. L. 110–417, [div. A], title X, §1033(b), Oct. 14, 2008, 122 Stat. 4593, added item 9515 at end.

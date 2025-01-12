@@ -34,7 +34,7 @@ Sec.
 
 112b. United States international agreements; transmission to Congress.
 
-113. “Little and Brown's” edition of laws and treaties; slip laws; Treaties and Other International Act 1 Series; admissibility in evidence.
+113. "Little and Brown's" edition of laws and treaties; slip laws; Treaties and Other International Act 1 Series; admissibility in evidence.
 
 114. Sealing of instruments.
 
@@ -42,7 +42,7 @@ Sec.
 
 **1972**—Pub. L. 92–403, §2, Aug. 22, 1972, 86 Stat. 619, added item 112b.
 
-**1966**—Pub. L. 89–497, §2, July 8, 1966, 80 Stat. 271, inserted “slip laws; Treaties and Other International Acts Series;” in item 113.
+**1966**—Pub. L. 89–497, §2, July 8, 1966, 80 Stat. 271, inserted "slip laws; Treaties and Other International Acts Series;" in item 113.
 
 **1951**—Act Oct. 31, 1951, ch. 655, §2(a), 65 Stat. 710, added items 106a and 106b.
 

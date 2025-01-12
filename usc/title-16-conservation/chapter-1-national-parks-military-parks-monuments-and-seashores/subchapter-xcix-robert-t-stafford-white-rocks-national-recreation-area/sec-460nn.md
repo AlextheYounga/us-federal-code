@@ -20,4 +20,4 @@ This Act, referred to in subsec. (a)(3), (4), is Pub. L. 98–322, June 19, 1984
 
 #### Change of Name ####
 
-“Robert T. Stafford White Rocks National Recreation Area” substituted in subsec. (b) for “White Rocks National Recreation Area” pursuant to section 1(b) of Pub. L. 110–1, set out as a note under section 460nn–1 of this title.
+"Robert T. Stafford White Rocks National Recreation Area" substituted in subsec. (b) for "White Rocks National Recreation Area" pursuant to section 1(b) of Pub. L. 110–1, set out as a note under section 460nn–1 of this title.

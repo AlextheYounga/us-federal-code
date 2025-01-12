@@ -30,7 +30,7 @@ Section 228o, act Aug. 29, 1935, ch. 812, §15, as restated June 24, 1937, ch. 3
 
 Section 228p, act Aug. 29, 1935, ch. 812, §16, as added June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 317, related to authorization of appropriations under this subchapter.
 
-Section 228q, act Aug. 29, 1935, ch. 812, §17, as added June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 317; amended Oct. 30, 1951, ch. 632, §24, 65 Stat. 690, defined “employment” as used in this subchapter. See section 231q of this title.
+Section 228q, act Aug. 29, 1935, ch. 812, §17, as added June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 317; amended Oct. 30, 1951, ch. 632, §24, 65 Stat. 690, defined "employment" as used in this subchapter. See section 231q of this title.
 
 Section 228r, act Aug. 29, 1935, ch. 812, §18, as added June 24, 1917, ch. 382, pt. I, §1, 50 Stat. 318, related to free transportation. See section 231p of this title.
 
@@ -80,7 +80,7 @@ Pub. L. 93–69, title I, §108, July 10, 1973, 87 Stat. 165, provided that the 
 
 #### Conversion of Special Obligations in Railroad Retirement Account on Oct. 5, 1963; Interest Rate ####
 
-Pub. L. 88–133, §7(b), Oct. 5, 1963, 77 Stat. 220, provided that: “The Secretary of the Treasury is authorized to retire the special obligations held by the account on the date of enactment of this Act [Oct. 5, 1963] and to issue in lieu thereof special obligations with an interest rate determined as provided for in section 15(b) of the Railroad Retirement Act of 1937, as amended by this Act [Pub. L. 88–133].”
+Pub. L. 88–133, §7(b), Oct. 5, 1963, 77 Stat. 220, provided that: "The Secretary of the Treasury is authorized to retire the special obligations held by the account on the date of enactment of this Act [Oct. 5, 1963] and to issue in lieu thereof special obligations with an interest rate determined as provided for in section 15(b) of the Railroad Retirement Act of 1937, as amended by this Act [Pub. L. 88–133]."
 
 #### Determination of Amounts of Social Security Benefits ####
 
@@ -98,15 +98,15 @@ Act Aug. 29, 1935, ch. 812, §21, as added July 30, 1965, Pub. L. 89–97, title
 
 Pub. L. 93–69, title I, §105, July 10, 1973, 87 Stat. 164, provided that if title II of the Social Security Act, section 401 et seq. of Title 42, The Public Health and Welfare, was amended to provide an increase in benefits at any time during the period July 1, 1973 to Dec. 31, 1974, the pension of each recipient under section 228f of this title and the annuity of each recipient under this subchapter was to be increased by an amount computed under the method set forth in section 228c(a)(6) of this title.
 
-Pub. L. 92–460, §2 Sept. 4, 1972, 86 Stat. 766, provided for 20 per cent increases in pensions under section 228f of this title, annuities under subchapter II of this chapter, certain survivor annuities, and certain widows’ and widowers’ insurance annuities.
+Pub. L. 92–460, §2 Sept. 4, 1972, 86 Stat. 766, provided for 20 per cent increases in pensions under section 228f of this title, annuities under subchapter II of this chapter, certain survivor annuities, and certain widows' and widowers' insurance annuities.
 
-Pub. L. 92–46, §5, July 2, 1971, 85 Stat. 101, provided for 10 per cent increases in pensions under section 228f of this title, annuities under subchapter II of this chapter, certain survivor annuities, and certain widows’ and widowers’ insurance annuities.
+Pub. L. 92–46, §5, July 2, 1971, 85 Stat. 101, provided for 10 per cent increases in pensions under section 228f of this title, annuities under subchapter II of this chapter, certain survivor annuities, and certain widows' and widowers' insurance annuities.
 
-Pub. L. 91–377, §4(b)(1), Aug. 12, 1970, 84 Stat. 792, provided for 15 per cent increases in pensions under section 228f of this title, annuities under subchapter II of this chapter, certain survivor annuities, and certain widows’ and widowers’ insurance annuities, provided that there would be a reduction in the amount of the increase where the recipient was also a recipient of certain social security benefits.
+Pub. L. 91–377, §4(b)(1), Aug. 12, 1970, 84 Stat. 792, provided for 15 per cent increases in pensions under section 228f of this title, annuities under subchapter II of this chapter, certain survivor annuities, and certain widows' and widowers' insurance annuities, provided that there would be a reduction in the amount of the increase where the recipient was also a recipient of certain social security benefits.
 
-Pub. L. 90–257, §107, Feb. 15, 1968, 82 Stat. 22, provided for certain increases in pensions under section 228f of this title, annuities under subchapter II of this chapter, survivor annuities and widows’ and widowers’ insurance annuities, provided that there would be a reduction in the amount of the increase where the recipient was also a recipient of certain social security benefits.
+Pub. L. 90–257, §107, Feb. 15, 1968, 82 Stat. 22, provided for certain increases in pensions under section 228f of this title, annuities under subchapter II of this chapter, survivor annuities and widows' and widowers' insurance annuities, provided that there would be a reduction in the amount of the increase where the recipient was also a recipient of certain social security benefits.
 
-Pub. L. 89–699, §201(g), Oct. 30, 1966, 80 Stat. 1077, provided for 7 per cent increases in pensions under section 228f of this title, annuities under subchapter II of this chapter, certain survivor annuities, and certain widows’ and widowers’ insurance annuities, provided that there would be a reduction in the amount of the increase where the recipient was also a recipient of certain social security benefits.
+Pub. L. 89–699, §201(g), Oct. 30, 1966, 80 Stat. 1077, provided for 7 per cent increases in pensions under section 228f of this title, annuities under subchapter II of this chapter, certain survivor annuities, and certain widows' and widowers' insurance annuities, provided that there would be a reduction in the amount of the increase where the recipient was also a recipient of certain social security benefits.
 
 #### Permanency of Increases in Certain Pensions and Annuities ####
 

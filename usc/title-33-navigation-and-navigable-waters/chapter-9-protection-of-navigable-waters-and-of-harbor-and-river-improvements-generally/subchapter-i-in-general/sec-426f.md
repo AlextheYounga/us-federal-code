@@ -22,15 +22,15 @@ The agreement shall—
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–303 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “Secretary” for “Secretary of the Army” and “non-Federal interests” for “local interests”, inserted “or separable element of the project” after “project”, inserted “or separable elements” after “projects” wherever appearing, and added subsec. (b).
+**1996**—Pub. L. 104–303 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted "Secretary" for "Secretary of the Army" and "non-Federal interests" for "local interests", inserted "or separable element of the project" after "project", inserted "or separable elements" after "projects" wherever appearing, and added subsec. (b).
 
 **1962**—Pub. L. 87–874 substituted provisions which authorize the Secretary of the Army to reimburse local interests for work done on authorized projects which individually do not exceed $1,000,000 in cost, and provide that such reimbursement shall be subject to applicable appropriations or available funds and not take priority over pending projects of higher priority, for provisions which authorized the Chief of Engineers to cause to be paid to the political subdivision involved the amount authorized by Congress.
 
-**1956**—Act July 28, 1956, substituted “or other political subdivision involved” for “or political subdivision”.
+**1956**—Act July 28, 1956, substituted "or other political subdivision involved" for "or political subdivision".
 
 #### Change of Name ####
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
 #### Transfer of Functions ####
 

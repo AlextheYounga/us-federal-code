@@ -30,6 +30,6 @@ The Indian Self-Determination and Education Assistance Act (Public Law 93–638,
 
 #### Amendments ####
 
-**1984**—Cl. (h). Pub. L. 98–284, §9(1), inserted “or the culture of other native agricultural crops which could supply critical agricultural materials”.
+**1984**—Cl. (h). Pub. L. 98–284, §9(1), inserted "or the culture of other native agricultural crops which could supply critical agricultural materials".
 
-Cl. (i). Pub. L. 98–284, §9(2), inserted “or the technology of other native agricultural crops which could supply critical agricultural materials”.
+Cl. (i). Pub. L. 98–284, §9(2), inserted "or the technology of other native agricultural crops which could supply critical agricultural materials".

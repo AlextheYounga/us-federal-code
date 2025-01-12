@@ -6,4 +6,4 @@ The Department of Labor is authorized, within the discretion of the Secretary of
 
 #### Codification ####
 
-This section and sections 9a and 9b of this title comprised sections 1 to 3 of act Apr. 13, 1934. Section 4 of that act provided as follows: “This Act shall cease to be effective one year after the date of its enactment.” The act was temporarily extended by acts Apr. 11, 1935, and June 15, 1937, and was made permanent by act Apr. 15, 1939.
+This section and sections 9a and 9b of this title comprised sections 1 to 3 of act Apr. 13, 1934. Section 4 of that act provided as follows: "This Act shall cease to be effective one year after the date of its enactment." The act was temporarily extended by acts Apr. 11, 1935, and June 15, 1937, and was made permanent by act Apr. 15, 1939.

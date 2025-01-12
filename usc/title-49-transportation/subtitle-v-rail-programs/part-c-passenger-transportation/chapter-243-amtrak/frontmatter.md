@@ -38,6 +38,6 @@ Sec.
 
 **2008**—Pub. L. 110–432, div. A, title V, §502(b), div. B, title II, §221(b), Oct. 16, 2008, 122 Stat. 4899, 4932, added items 24310 and 24316.
 
-**1997**—Pub. L. 105–134, title IV, §§403, 404, 415(a)(2), Dec. 2, 1997, 111 Stat. 2585, 2586, 2590, substituted “Employee stock ownership plans” for “Capitalization” in item 24304 and struck out item 24310 “Assistance for upgrading facilities” and item 24314 “Demonstration of new technology”.
+**1997**—Pub. L. 105–134, title IV, §§403, 404, 415(a)(2), Dec. 2, 1997, 111 Stat. 2585, 2586, 2590, substituted "Employee stock ownership plans" for "Capitalization" in item 24304 and struck out item 24310 "Assistance for upgrading facilities" and item 24314 "Demonstration of new technology".
 
 [<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER243_1)

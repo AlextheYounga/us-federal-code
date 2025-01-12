@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Adverse event ####
 
-The term “adverse event” means any health-related event associated with the use of a nonprescription drug that is adverse, including—
+The term "adverse event" means any health-related event associated with the use of a nonprescription drug that is adverse, including—
 
 (A) an event occurring from an overdose of the drug, whether accidental or intentional;
 
@@ -18,7 +18,7 @@ The term “adverse event” means any health-related event associated with the 
 
 #### (2) Nonprescription drug ####
 
-The term “nonprescription drug” means a drug that is—
+The term "nonprescription drug" means a drug that is—
 
 (A) not subject to section 353(b) of this title; and
 
@@ -26,7 +26,7 @@ The term “nonprescription drug” means a drug that is—
 
 #### (3) Serious adverse event ####
 
-The term “serious adverse event” is an adverse event that—
+The term "serious adverse event" is an adverse event that—
 
 (A) results in—
 
@@ -44,13 +44,13 @@ The term “serious adverse event” is an adverse event that—
 
 #### (4) Serious adverse event report ####
 
-The term “serious adverse event report” means a report that is required to be submitted to the Secretary under subsection (b).
+The term "serious adverse event report" means a report that is required to be submitted to the Secretary under subsection (b).
 
 #### (b) Reporting requirement ####
 
 #### (1) In general ####
 
-The manufacturer, packer, or distributor whose name (pursuant to section 352(b)(1) of this title) appears on the label of a nonprescription drug marketed in the United States (referred to in this section as the “responsible person”) shall submit to the Secretary any report received of a serious adverse event associated with such drug when used in the United States, accompanied by a copy of the label on or within the retail package of such drug.
+The manufacturer, packer, or distributor whose name (pursuant to section 352(b)(1) of this title) appears on the label of a nonprescription drug marketed in the United States (referred to in this section as the "responsible person") shall submit to the Secretary any report received of a serious adverse event associated with such drug when used in the United States, accompanied by a copy of the label on or within the retail package of such drug.
 
 #### (2) Retailer ####
 
@@ -92,7 +92,7 @@ The responsible person shall permit an authorized person to have access to recor
 
 #### (B) Authorized person ####
 
-For purposes of this paragraph, the term “authorized person” means an officer or employee of the Department of Health and Human Services who has—
+For purposes of this paragraph, the term "authorized person" means an officer or employee of the Department of Health and Human Services who has—
 
 (i) appropriate credentials, as determined by the Secretary; and
 
@@ -104,7 +104,7 @@ A serious adverse event report submitted to the Secretary under this section, in
 
 (1) a safety report under section 379v of this title and may be accompanied by a statement, which shall be a part of any report that is released for public disclosure, that denies that the report or the records constitute an admission that the product involved caused or contributed to the adverse event; and
 
-(2) a record about an individual under section 552a of title 5 (commonly referred to as the “Privacy Act of 1974”) and a medical or similar file the disclosure of which would constitute a violation of section 552 of such title 5 (commonly referred to as the “Freedom of Information Act”), and shall not be publicly disclosed unless all personally identifiable information is redacted.
+(2) a record about an individual under section 552a of title 5 (commonly referred to as the "Privacy Act of 1974") and a medical or similar file the disclosure of which would constitute a violation of section 552 of such title 5 (commonly referred to as the "Freedom of Information Act"), and shall not be publicly disclosed unless all personally identifiable information is redacted.
 
 #### (g) Rule of construction ####
 
@@ -146,10 +146,10 @@ Section effective 1 year after Dec. 22, 2006, see section 2(e)(1) of Pub. L. 109
 
 #### Modifications ####
 
-Pub. L. 109–462, §2(b), Dec. 22, 2006, 120 Stat. 3472, provided that: “The Secretary of Health and Human Services may modify requirements under the amendments made by this section [enacting this section and amending sections 331 and 352 of this title] in accordance with section 553 of title 5, United States Code, to maintain consistency with international harmonization efforts over time.”
+Pub. L. 109–462, §2(b), Dec. 22, 2006, 120 Stat. 3472, provided that: "The Secretary of Health and Human Services may modify requirements under the amendments made by this section [enacting this section and amending sections 331 and 352 of this title] in accordance with section 553 of title 5, United States Code, to maintain consistency with international harmonization efforts over time."
 
 #### Guidance ####
 
-Pub. L. 109–462, §2(e)(3), Dec. 22, 2006, 120 Stat. 3472, provided that: “Not later than 270 days after the date of enactment of this Act [Dec. 22, 2006], the Secretary of Health and Human Services shall issue guidance on the minimum data elements that should be included in a serious adverse event report described under the amendments made by this Act [see Short Title of 2006 Amendment note set out under section 301 of this title].”
+Pub. L. 109–462, §2(e)(3), Dec. 22, 2006, 120 Stat. 3472, provided that: "Not later than 270 days after the date of enactment of this Act [Dec. 22, 2006], the Secretary of Health and Human Services shall issue guidance on the minimum data elements that should be included in a serious adverse event report described under the amendments made by this Act [see Short Title of 2006 Amendment note set out under section 301 of this title]."
 
 Pub. L. 109–462, §3(d)(3), Dec. 22, 2006, 120 Stat. 3475, enacted provisions substantially identical to those enacted by Pub. L. 109–462, §2(b), set out above.

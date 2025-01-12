@@ -16,7 +16,7 @@ It is the purpose of this section to preserve and interpret for the education, i
 
 #### (c) Establishment ####
 
-To carry out the purposes of this section there is hereby established the Women's Rights National Historical Park (hereinafter in this section referred to as the “park”). The park shall consist of the following designated sites in Seneca Falls and Waterloo, New York:
+To carry out the purposes of this section there is hereby established the Women's Rights National Historical Park (hereinafter in this section referred to as the "park"). The park shall consist of the following designated sites in Seneca Falls and Waterloo, New York:
 
 (1) Stanton House, 32 Washington Street, Seneca Falls;
 
@@ -62,7 +62,7 @@ The Secretary shall administer the park in accordance with the provisions of thi
 
 #### (h) Women's Rights National Historical Park Advisory Commission; membership; Chair; compensation and expenses; function; consultation; termination ####
 
-(1) There is hereby established the Women's Rights National Historical Park Advisory Commission (hereinafter referred to as the “Commission”). The Commission shall consist of eleven members, each appointed by the Secretary for a term of five years as follows:
+(1) There is hereby established the Women's Rights National Historical Park Advisory Commission (hereinafter referred to as the "Commission"). The Commission shall consist of eleven members, each appointed by the Secretary for a term of five years as follows:
 
 (A) One member appointed from recommendations submitted by the Elizabeth Cady Stanton Foundation;
 
@@ -98,37 +98,37 @@ The effective date of this section, referred to in subsec. (h)(5), probably mean
 
 #### Amendments ####
 
-**2000**—Subsec. (c)(8). Pub. L. 106–258, §1(b), substituted “Main” for “Williams”.
+**2000**—Subsec. (c)(8). Pub. L. 106–258, §1(b), substituted "Main" for "Williams".
 
-Subsec. (d). Pub. L. 106–258, §1(a), in first sentence struck out before period at end “, except that the Secretary may not acquire the fee simple title to the land comprising the sites designated in paragraphs (7) and (9) of subsection (c) of this section” and struck out last sentence which read as follows: “Within two years of the acquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removed all structures from the property that are not relevant to the historic integrity of the McClintock House.”
+Subsec. (d). Pub. L. 106–258, §1(a), in first sentence struck out before period at end ", except that the Secretary may not acquire the fee simple title to the land comprising the sites designated in paragraphs (7) and (9) of subsection (c) of this section" and struck out last sentence which read as follows: "Within two years of the acquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removed all structures from the property that are not relevant to the historic integrity of the McClintock House."
 
-**1996**—Subsec. (c). Pub. L. 104–333, §505(a), inserted heading and amended text generally. Prior to amendment, text read as follows: “To carry out the purpose of this section there is hereby established the Women's Rights National Historical Park (hereinafter in this section referred to as the ‘park’). The park shall consist initially of the following designated sites in Seneca Falls and Waterloo, New York:
+**1996**—Subsec. (c). Pub. L. 104–333, §505(a), inserted heading and amended text generally. Prior to amendment, text read as follows: "To carry out the purpose of this section there is hereby established the Women's Rights National Historical Park (hereinafter in this section referred to as the 'park'). The park shall consist initially of the following designated sites in Seneca Falls and Waterloo, New York:
 
-“(1) Stanton House, 32 Washington Street, Seneca Falls;
+"(1) Stanton House, 32 Washington Street, Seneca Falls;
 
-“(2) dwelling, 30 Washington Street, Seneca Falls;
+"(2) dwelling, 30 Washington Street, Seneca Falls;
 
-“(3) dwelling, 34 Washington Street, Seneca Falls;
+"(3) dwelling, 34 Washington Street, Seneca Falls;
 
-“(4) lot, 26–28 Washington Street, Seneca Falls;
+"(4) lot, 26–28 Washington Street, Seneca Falls;
 
-“(5) former Wesleyan Chapel, 126 Fall Street, Seneca Falls;
+"(5) former Wesleyan Chapel, 126 Fall Street, Seneca Falls;
 
-“(6) theater, 128 Fall Street, Seneca Falls;
+"(6) theater, 128 Fall Street, Seneca Falls;
 
-“(7) Bloomer House, 53 East Bayard Street;
+"(7) Bloomer House, 53 East Bayard Street;
 
-“(8) McClintock House and related structures, 14 and 16 East Williams Street, Waterloo; and
+"(8) McClintock House and related structures, 14 and 16 East Williams Street, Waterloo; and
 
-“(9) Hunt House, 401 East Main Street, Waterloo.”
+"(9) Hunt House, 401 East Main Street, Waterloo."
 
 Subsec. (i). Pub. L. 104–333, §505(b), designated existing provisions as par. (1) and added par. (2).
 
-**1988**—Subsec. (i). Pub. L. 100–475 substituted “$700,000” for “$490,000”.
+**1988**—Subsec. (i). Pub. L. 100–475 substituted "$700,000" for "$490,000".
 
-**1984**—Subsec. (c)(8). Pub. L. 98–402, §1(a), substituted “McClintock House and related structures, 14 and 16 East Williams Street” for “McClintock House, 16 East Williams Street”.
+**1984**—Subsec. (c)(8). Pub. L. 98–402, §1(a), substituted "McClintock House and related structures, 14 and 16 East Williams Street" for "McClintock House, 16 East Williams Street".
 
-Subsec. (d). Pub. L. 98–402, §1(b), substituted “paragraphs (7) and (9)” for “paragraphs (7) through (9)”, and inserted “Within two years of the acquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removed all structures from the property that are not relevant to the historic integrity of the McClintock House.”
+Subsec. (d). Pub. L. 98–402, §1(b), substituted "paragraphs (7) and (9)" for "paragraphs (7) through (9)", and inserted "Within two years of the acquisition of the property listed in subsection (c)(8) of this section the Secretary shall have removed all structures from the property that are not relevant to the historic integrity of the McClintock House."
 
 #### General Management Plans; Submittal to Congressional Committees ####
 

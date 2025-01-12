@@ -18,4 +18,4 @@ The National Forest Management Act of 1976 (16 U.S.C. 1600), referred to in subs
 
 #### Short Title ####
 
-Pub. L. 96–476, §1, Oct. 19, 1980, 94 Stat. 2271, provided in part: “That this Act [enacting this subchapter] may be cited as the ‘Rattlesnake National Recreation Area and Wilderness Act of 1980’.”
+Pub. L. 96–476, §1, Oct. 19, 1980, 94 Stat. 2271, provided in part: "That this Act [enacting this subchapter] may be cited as the 'Rattlesnake National Recreation Area and Wilderness Act of 1980'."

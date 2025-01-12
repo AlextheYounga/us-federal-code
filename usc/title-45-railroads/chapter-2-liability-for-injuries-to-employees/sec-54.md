@@ -6,4 +6,4 @@ In any action brought against any common carrier under or by virtue of any of th
 
 #### Amendments ####
 
-**1939**—Act Aug. 11, 1939, inserted “where such injury or death resulted in whole or in part from the negligence of any of the officers, agents, or employees of such carrier; and no employee shall be held to have assumed the risks of his employment in any case” after “of his employment in any case”.
+**1939**—Act Aug. 11, 1939, inserted "where such injury or death resulted in whole or in part from the negligence of any of the officers, agents, or employees of such carrier; and no employee shall be held to have assumed the risks of his employment in any case" after "of his employment in any case".

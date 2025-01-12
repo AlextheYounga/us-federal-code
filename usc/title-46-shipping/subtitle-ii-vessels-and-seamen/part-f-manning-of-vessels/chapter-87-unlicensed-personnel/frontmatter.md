@@ -2,7 +2,7 @@
 
 Sec.
 
-8701. Merchant mariners’ documents required.
+8701. Merchant mariners' documents required.
 
 8702. Certain crew requirements.
 

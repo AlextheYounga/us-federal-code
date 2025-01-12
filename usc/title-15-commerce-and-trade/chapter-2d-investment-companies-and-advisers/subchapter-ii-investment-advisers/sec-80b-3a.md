@@ -28,9 +28,9 @@ An investment adviser described in this subparagraph is an investment adviser th
 
 (II) $100,000,000, or such higher amount as the Commission may, by rule, deem appropriate in accordance with the purposes of this subchapter.
 
-#### (3) “Assets under management” defined ####
+#### (3) "Assets under management" defined ####
 
-For purposes of this subsection, the term “assets under management” means the securities portfolios with respect to which an investment adviser provides continuous and regular supervisory or management services.
+For purposes of this subsection, the term "assets under management" means the securities portfolios with respect to which an investment adviser provides continuous and regular supervisory or management services.
 
 #### (b) Advisers subject to Commission authority ####
 
@@ -64,11 +64,11 @@ The Investment Company Act of 1940, referred to in subsec. (a)(2)(A), is title I
 
 **2010**—Subsec. (a)(2), (3). Pub. L. 111–203 added par. (2) and redesignated former par. (2) as (3).
 
-**2006**—Subsecs. (d), (e). Pub. L. 109–290 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “The Commission may, by rule, require an investment adviser—
+**2006**—Subsecs. (d), (e). Pub. L. 109–290 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: "The Commission may, by rule, require an investment adviser—
 
-“(1) to file with the Commission any fee, application, report, or notice required by this subchapter or by the rules issued under this subchapter through any entity designated by the Commission for that purpose; and
+"(1) to file with the Commission any fee, application, report, or notice required by this subchapter or by the rules issued under this subchapter through any entity designated by the Commission for that purpose; and
 
-“(2) to pay the reasonable costs associated with such filing.”
+"(2) to pay the reasonable costs associated with such filing."
 
 #### Effective Date of 2010 Amendment ####
 
@@ -82,12 +82,12 @@ Section effective 270 days after Oct. 11, 1996, see section 308(a) of Pub. L. 10
 
 Pub. L. 104–290, title III, §307, Oct. 11, 1996, 110 Stat. 3440, provided that:
 
-“(a) Preservation of Filing Requirements.—Nothing in this title [see Short Title of 1996 Amendment note set out under section 80b–20 of this title] or any amendment made by this title prohibits the securities commission (or any agency or office performing like functions) of any State from requiring the filing of any documents filed with the Commission pursuant to the securities laws solely for notice purposes, together with a consent to service of process and any required fee.
+"(a) Preservation of Filing Requirements.—Nothing in this title [see Short Title of 1996 Amendment note set out under section 80b–20 of this title] or any amendment made by this title prohibits the securities commission (or any agency or office performing like functions) of any State from requiring the filing of any documents filed with the Commission pursuant to the securities laws solely for notice purposes, together with a consent to service of process and any required fee.
 
-“(b) Preservation of Fees.—Until otherwise provided by law, rule, regulation, or order, or other administrative action of any State, or any political subdivision thereof, adopted after the date of enactment of this Act [Oct. 11, 1996], filing, registration, or licensing fees shall, notwithstanding the amendments made by this title, continue to be paid in amounts determined pursuant to the law, rule, regulation, or order, or other administrative action as in effect on the day before such date of enactment.
+"(b) Preservation of Fees.—Until otherwise provided by law, rule, regulation, or order, or other administrative action of any State, or any political subdivision thereof, adopted after the date of enactment of this Act [Oct. 11, 1996], filing, registration, or licensing fees shall, notwithstanding the amendments made by this title, continue to be paid in amounts determined pursuant to the law, rule, regulation, or order, or other administrative action as in effect on the day before such date of enactment.
 
-“(c) Availability of Preemption Contingent on Payment of Fees.—
+"(c) Availability of Preemption Contingent on Payment of Fees.—
 
-“(1) In general.—During the period beginning on the date of enactment of this Act [Oct. 11, 1996] and ending 3 years after that date of enactment, the securities commission (or any agency or office performing like functions) of any State may require registration of any investment adviser that fails or refuses to pay the fees required by subsection (b) in or to such State, notwithstanding the limitations on the laws, rules, regulations, or orders, or other administrative actions of any State, or any political subdivision thereof, contained in subsection (a), if the laws of such State require registration of investment advisers.
+"(1) In general.—During the period beginning on the date of enactment of this Act [Oct. 11, 1996] and ending 3 years after that date of enactment, the securities commission (or any agency or office performing like functions) of any State may require registration of any investment adviser that fails or refuses to pay the fees required by subsection (b) in or to such State, notwithstanding the limitations on the laws, rules, regulations, or orders, or other administrative actions of any State, or any political subdivision thereof, contained in subsection (a), if the laws of such State require registration of investment advisers.
 
-“(2) Delays.—For purposes of this subsection, delays in payment of fees or underpayments of fees that are promptly remedied in accordance with the applicable laws, rules, regulations, or orders, or other administrative actions of the relevant State shall not constitute a failure or refusal to pay fees.”
+"(2) Delays.—For purposes of this subsection, delays in payment of fees or underpayments of fees that are promptly remedied in accordance with the applicable laws, rules, regulations, or orders, or other administrative actions of the relevant State shall not constitute a failure or refusal to pay fees."

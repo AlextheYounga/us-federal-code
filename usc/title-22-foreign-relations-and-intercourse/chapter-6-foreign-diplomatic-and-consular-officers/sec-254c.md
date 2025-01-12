@@ -6,7 +6,7 @@ The President may, on the basis of reciprocity and under such terms and conditio
 
 #### Amendments ####
 
-**1982**—Pub. L. 97–241 substituted “immunities for the mission, the members” for “immunities for members” and “diplomatic couriers which” for “diplomatic couriers of any sending state which”.
+**1982**—Pub. L. 97–241 substituted "immunities for the mission, the members" for "immunities for members" and "diplomatic couriers which" for "diplomatic couriers of any sending state which".
 
 #### Effective Date of 1982 Amendment ####
 

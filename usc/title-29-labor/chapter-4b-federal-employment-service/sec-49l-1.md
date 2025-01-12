@@ -8,4 +8,4 @@ There are authorized to be appropriated such sums as may be necessary to enable 
 
 Section effective Oct. 1, 1983, but with Secretary authorized to use funds appropriated for fiscal 1983 to plan for orderly implementation of section, see section 181(i) of Pub. L. 97–300, which was formerly classified to section 1591(i) of this title.
 
-[<sup>1</sup> So in original. Probably should be “reimbursable”.](#49l-1_1)
+[<sup>1</sup> So in original. Probably should be "reimbursable".](#49l-1_1)

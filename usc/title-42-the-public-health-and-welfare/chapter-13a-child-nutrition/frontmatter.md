@@ -40,7 +40,7 @@ Sec.
 
 1788. Team nutrition network.
 
-1789. Department of Defense overseas dependents’ schools.
+1789. Department of Defense overseas dependents' schools.
 
 1790. Breastfeeding promotion program.
 

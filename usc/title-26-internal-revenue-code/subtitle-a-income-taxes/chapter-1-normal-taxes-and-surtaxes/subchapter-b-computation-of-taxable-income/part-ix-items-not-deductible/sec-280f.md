@@ -76,7 +76,7 @@ then any excess depreciation shall be included in gross income for the taxable y
 
 #### (B) Excess depreciation ####
 
-For purposes of subparagraph (A), the term “excess depreciation” means the excess (if any) of—
+For purposes of subparagraph (A), the term "excess depreciation" means the excess (if any) of—
 
 (i) the amount of the depreciation deductions allowable with respect to the property for taxable years before the 1st taxable year in which the property was not predominantly used in a qualified business use, over
 
@@ -128,13 +128,13 @@ Any employee use of listed property shall not be treated as use in a trade or bu
 
 #### (B) Employee use ####
 
-For purposes of subparagraph (A), the term “employee use” means any use in connection with the performance of services as an employee.
+For purposes of subparagraph (A), the term "employee use" means any use in connection with the performance of services as an employee.
 
 #### (4) Listed property ####
 
 #### (A) In general ####
 
-Except as provided in subparagraph (B), the term “listed property” means—
+Except as provided in subparagraph (B), the term "listed property" means—
 
 (i) any passenger automobile,
 
@@ -142,13 +142,13 @@ Except as provided in subparagraph (B), the term “listed property” means—
 
 (iii) any property of a type generally used for purposes of entertainment, recreation, or amusement,
 
-(iv) any computer or peripheral equipment (as defined in section 168(i)(2)(B)), “and” <sup><a href="#280F_1_target" name="280F_1">1</a></sup>
+(iv) any computer or peripheral equipment (as defined in section 168(i)(2)(B)), "and" <sup><a href="#280F_1_target" name="280F_1">1</a></sup>
 
 (v) any other property of a type specified by the Secretary by regulations.
 
 #### (B) Exception for certain computers ####
 
-The term “listed property” shall not include any computer or peripheral equipment (as so defined) used exclusively at a regular business establishment and owned or leased by the person operating such establishment. For purposes of the preceding sentence, any portion of a dwelling unit shall be treated as a regular business establishment if (and only if) the requirements of section 280A(c)(1) are met with respect to such portion.
+The term "listed property" shall not include any computer or peripheral equipment (as so defined) used exclusively at a regular business establishment and owned or leased by the person operating such establishment. For purposes of the preceding sentence, any portion of a dwelling unit shall be treated as a regular business establishment if (and only if) the requirements of section 280A(c)(1) are met with respect to such portion.
 
 #### (C) Exception for property used in business of transporting persons or property ####
 
@@ -158,17 +158,17 @@ Except to the extent provided in regulations, clause (ii) of subparagraph (A) sh
 
 #### (A) In general ####
 
-Except as provided in subparagraph (B), the term “passenger automobile” means any 4-wheeled vehicle—
+Except as provided in subparagraph (B), the term "passenger automobile" means any 4-wheeled vehicle—
 
 (i) which is manufactured primarily for use on public streets, roads, and highways, and
 
 (ii) which is rated at 6,000 pounds unloaded gross vehicle weight or less.
 
-In the case of a truck or van, clause (ii) shall be applied by substituting “gross vehicle weight” for “unloaded gross vehicle weight”.
+In the case of a truck or van, clause (ii) shall be applied by substituting "gross vehicle weight" for "unloaded gross vehicle weight".
 
 #### (B) Exception for certain vehicles ####
 
-The term “passenger automobile” shall not include—
+The term "passenger automobile" shall not include—
 
 (i) any ambulance, hearse, or combination ambulance-hearse used by the taxpayer directly in a trade or business,
 
@@ -180,17 +180,17 @@ The term “passenger automobile” shall not include—
 
 #### (A) In general ####
 
-The term “business use percentage” means the percentage of the use of any listed property during any taxable year which is a qualified business use.
+The term "business use percentage" means the percentage of the use of any listed property during any taxable year which is a qualified business use.
 
 #### (B) Qualified business use ####
 
-Except as provided in subparagraph (C), the term “qualified business use” means any use in a trade or business of the taxpayer.
+Except as provided in subparagraph (C), the term "qualified business use" means any use in a trade or business of the taxpayer.
 
 #### (C) Exception for certain use by 5-percent owners and related persons ####
 
 #### (i) In general ####
 
-The term “qualified business use” shall not include—
+The term "qualified business use" shall not include—
 
 (I) leasing property to any 5-percent owner or related person,
 
@@ -208,11 +208,11 @@ For purposes of this paragraph—
 
 #### (i) 5-percent owner ####
 
-The term “5-percent owner” means any person who is a 5-percent owner with respect to the taxpayer (as defined in section 416(i)(1)(B)(i)).
+The term "5-percent owner" means any person who is a 5-percent owner with respect to the taxpayer (as defined in section 416(i)(1)(B)(i)).
 
 #### (ii) Related person ####
 
-The term “related person” means any person related to the taxpayer (within the meaning of section 267(b)).
+The term "related person" means any person related to the taxpayer (within the meaning of section 267(b)).
 
 #### (7) Automobile price inflation adjustment ####
 
@@ -234,11 +234,11 @@ The automobile price inflation adjustment for any calendar year is the percentag
 
 #### (ii) CPI automobile component ####
 
-The term “CPI automobile component” means the automobile component of the Consumer Price Index for All Urban Consumers published by the Department of Labor.
+The term "CPI automobile component" means the automobile component of the Consumer Price Index for All Urban Consumers published by the Department of Labor.
 
 #### (8) Unrecovered basis ####
 
-For purposes of subsection (a)(2), the term “unrecovered basis” means the adjusted basis of the passenger automobile determined after the application of subsection (a) and as if all use during the recovery period were use in a trade or business (including the holding of property for the production of income).
+For purposes of subsection (a)(2), the term "unrecovered basis" means the adjusted basis of the passenger automobile determined after the application of subsection (a) and as if all use during the recovery period were use in a trade or business (including the holding of property for the production of income).
 
 #### (9) All taxpayers holding interests in passenger automobile treated as 1 taxpayer ####
 
@@ -260,99 +260,99 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 #### Amendments ####
 
-**2010**—Subsec. (d)(4)(A). Pub. L. 111–240 inserted “ ‘and’ ” at end of clause (iv), redesignated clause (vi) as (v), and struck out former cl. (v) which read as follows: “any cellular telephone (or other similar telecommunications equipment), and”.
+**2010**—Subsec. (d)(4)(A). Pub. L. 111–240 inserted " 'and' " at end of clause (iv), redesignated clause (vi) as (v), and struck out former cl. (v) which read as follows: "any cellular telephone (or other similar telecommunications equipment), and".
 
 **2002**—Subsec. (a)(1)(C)(iii). Pub. L. 107–147 added cl. (iii).
 
-**1998**—Subsec. (a)(1)(C)(ii). Pub. L. 105–206 substituted “subparagraphs (A) and (B)” for “subparagraph (A)”.
+**1998**—Subsec. (a)(1)(C)(ii). Pub. L. 105–206 substituted "subparagraphs (A) and (B)" for "subparagraph (A)".
 
 **1997**—Subsec. (a)(1)(C). Pub. L. 105–34 added subpar. (C).
 
-**1996**—Subsec. (a). Pub. L. 104–188 struck out “investment tax credit and” after “amount of” in heading.
+**1996**—Subsec. (a). Pub. L. 104–188 struck out "investment tax credit and" after "amount of" in heading.
 
-**1990**—Pub. L. 101–508, §11813(b)(13)(E), struck out “investment tax credit and” after “Limitation on” in section catchline.
+**1990**—Pub. L. 101–508, §11813(b)(13)(E), struck out "investment tax credit and" after "Limitation on" in section catchline.
 
-Subsec. (a)(1). Pub. L. 101–508, §11813(b)(13)(A)(i), redesignated par. (2) as (1) and struck out former par. (1) “Investment tax credit” which read as follows: “The amount of the credit determined under section 46(a) for any passenger automobile shall not exceed $675.”
+Subsec. (a)(1). Pub. L. 101–508, §11813(b)(13)(A)(i), redesignated par. (2) as (1) and struck out former par. (1) "Investment tax credit" which read as follows: "The amount of the credit determined under section 46(a) for any passenger automobile shall not exceed $675."
 
 Subsec. (a)(2). Pub. L. 101–508, §11813(b)(13)(A)(i), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
-Subsec. (a)(2)(B). Pub. L. 101–508, §11813(b)(13)(A)(ii), struck out “the credit determined under section 46(a) or” after “the amount of”.
+Subsec. (a)(2)(B). Pub. L. 101–508, §11813(b)(13)(A)(ii), struck out "the credit determined under section 46(a) or" after "the amount of".
 
 Subsec. (a)(3). Pub. L. 101–508, §11813(b)(13)(A)(i), redesignated par. (3) as (2).
 
-Subsec. (a)(4). Pub. L. 101–508, §11813(b)(13)(A)(i), struck out par. (4) “Special rule where election of reduced credit in lieu of the basis adjustment” which read as follows: “In the case of any election under section 48(q)(4) with respect to any passenger automobile, the limitation of paragraph (1) applicable to such passenger automobile shall be 2/3 of the amount which would be so applicable but for this paragraph.”
+Subsec. (a)(4). Pub. L. 101–508, §11813(b)(13)(A)(i), struck out par. (4) "Special rule where election of reduced credit in lieu of the basis adjustment" which read as follows: "In the case of any election under section 48(q)(4) with respect to any passenger automobile, the limitation of paragraph (1) applicable to such passenger automobile shall be 2/3 of the amount which would be so applicable but for this paragraph."
 
-Subsec. (b). Pub. L. 101–508, §11813(b)(13)(B), redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) “Investment tax credit” which read as follows: “For purposes of this subtitle, any listed property shall not be treated as section 38 property for any taxable year unless such property is predominantly used in a qualified business use for such taxable year.”
+Subsec. (b). Pub. L. 101–508, §11813(b)(13)(B), redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) "Investment tax credit" which read as follows: "For purposes of this subtitle, any listed property shall not be treated as section 38 property for any taxable year unless such property is predominantly used in a qualified business use for such taxable year."
 
-Subsec. (c)(1). Pub. L. 101–508, §11813(b)(13)(C), struck out “credits and” after “Lessor's” in heading.
+Subsec. (c)(1). Pub. L. 101–508, §11813(b)(13)(C), struck out "credits and" after "Lessor's" in heading.
 
-Subsec. (d)(3)(A). Pub. L. 101–508, §11813(b)(13)(D), struck out “the amount of any credit allowable under section 38 to the employee or” after “of determining”.
+Subsec. (d)(3)(A). Pub. L. 101–508, §11813(b)(13)(D), struck out "the amount of any credit allowable under section 38 to the employee or" after "of determining".
 
 **1989**—Subsec. (d)(4)(A)(v), (vi). Pub. L. 101–239 added cl. (v) and redesignated former cl. (v) as (vi).
 
-**1988**—Subsec. (b)(3)(B)(i). Pub. L. 100–647, §1018(u)(3), substituted “depreciation deductions” for “recovery deductions”.
+**1988**—Subsec. (b)(3)(B)(i). Pub. L. 100–647, §1018(u)(3), substituted "depreciation deductions" for "recovery deductions".
 
-Subsec. (d)(1). Pub. L. 100–647, §1002(b)(2), substituted “subsections (a) and (b), and the limitation of paragraph (3) of this subsection,” for “subsections (a) and (b)”.
+Subsec. (d)(1). Pub. L. 100–647, §1002(b)(2), substituted "subsections (a) and (b), and the limitation of paragraph (3) of this subsection," for "subsections (a) and (b)".
 
-Subsec. (d)(3)(A). Pub. L. 100–647, §1002(a)(10), substituted “depreciation deduction” for “recovery deduction”.
+Subsec. (d)(3)(A). Pub. L. 100–647, §1002(a)(10), substituted "depreciation deduction" for "recovery deduction".
 
-**1986**—Subsec. (a)(2)(A). Pub. L. 99–514, §201(d)(4)(A)(i), (K), substituted “depreciation deduction” for “recovery deduction” in introductory provisions and substituted cls. (i) to (iv) for former cls. (i) and (ii) which read as follows:
+**1986**—Subsec. (a)(2)(A). Pub. L. 99–514, §201(d)(4)(A)(i), (K), substituted "depreciation deduction" for "recovery deduction" in introductory provisions and substituted cls. (i) to (iv) for former cls. (i) and (ii) which read as follows:
 
-“(i) $3,200 for the first taxable year in the recovery period, and
+"(i) $3,200 for the first taxable year in the recovery period, and
 
-“(ii) $4,800 for each succeeding taxable year in the recovery period.”
+"(ii) $4,800 for each succeeding taxable year in the recovery period."
 
-Subsec. (a)(2)(B). Pub. L. 99–514, §201(d)(4)(A)(ii), (K), substituted “$1,475” for “$4,800” in heading and text of cl. (ii), and “depreciation deduction” for “recovery deduction” in heading and text of cl. (iv).
+Subsec. (a)(2)(B). Pub. L. 99–514, §201(d)(4)(A)(ii), (K), substituted "$1,475" for "$4,800" in heading and text of cl. (ii), and "depreciation deduction" for "recovery deduction" in heading and text of cl. (iv).
 
-Subsec. (a)(3)(B). Pub. L. 99–514, §201(d)(4)(K), substituted “depreciation deduction” for “recovery deduction” in two places.
+Subsec. (a)(3)(B). Pub. L. 99–514, §201(d)(4)(K), substituted "depreciation deduction" for "recovery deduction" in two places.
 
-Subsec. (b)(2). Pub. L. 99–514, §201(d)(4)(J), substituted “section 168(g) (relating to alternative depreciation system)” for “the straight line method over the earnings and profits life for such property”.
+Subsec. (b)(2). Pub. L. 99–514, §201(d)(4)(J), substituted "section 168(g) (relating to alternative depreciation system)" for "the straight line method over the earnings and profits life for such property".
 
-Subsec. (b)(3)(A). Pub. L. 99–514, §201(d)(4)(B), (K), substituted “depreciation deduction” for “recovery deduction” and “section 168(g) (relating to alternative depreciation system)” for “the straight line method over the earnings and profits life” in closing provisions.
+Subsec. (b)(3)(A). Pub. L. 99–514, §201(d)(4)(B), (K), substituted "depreciation deduction" for "recovery deduction" and "section 168(g) (relating to alternative depreciation system)" for "the straight line method over the earnings and profits life" in closing provisions.
 
-Subsec. (b)(4). Pub. L. 99–514, §201(d)(4)(C), in amending par. (4) generally, struck out heading “Definitions”, redesignated as par. (4) former subpar. (A) heading and text, substituted “For purposes of this section, property” for “Property”, and struck out former subpar. (B) definition of straight line method over earnings and profits life.
+Subsec. (b)(4). Pub. L. 99–514, §201(d)(4)(C), in amending par. (4) generally, struck out heading "Definitions", redesignated as par. (4) former subpar. (A) heading and text, substituted "For purposes of this section, property" for "Property", and struck out former subpar. (B) definition of straight line method over earnings and profits life.
 
-Subsec. (c)(4). Pub. L. 99–514, §201(d)(4)(D), substituted “section 168(i)(3)(A)” for “section 168(j)(6)(B)”.
+Subsec. (c)(4). Pub. L. 99–514, §201(d)(4)(D), substituted "section 168(i)(3)(A)" for "section 168(j)(6)(B)".
 
-Subsec. (d)(1). Pub. L. 99–514, §201(d)(4)(E), substituted “depreciation deduction” for “recovery deduction”.
+Subsec. (d)(1). Pub. L. 99–514, §201(d)(4)(E), substituted "depreciation deduction" for "recovery deduction".
 
-Subsec. (d)(2). Pub. L. 99–514, §1812(e)(5), substituted “is use described in” for “is not use described in”.
+Subsec. (d)(2). Pub. L. 99–514, §1812(e)(5), substituted "is use described in" for "is not use described in".
 
-Pub. L. 99–514, §201(d)(4)(F), substituted “depreciation deduction” for “recovery deduction” and “use in a trade or business (including the holding for the production of income)” for “use described in section 168(c)(1) (defining recovery property)”.
+Pub. L. 99–514, §201(d)(4)(F), substituted "depreciation deduction" for "recovery deduction" and "use in a trade or business (including the holding for the production of income)" for "use described in section 168(c)(1) (defining recovery property)".
 
-Subsec. (d)(3)(A). Pub. L. 99–514, §1812(e)(2), inserted “(or the amount of any deduction allowable to the employee for rentals or other payments under a lease of listed property)”.
+Subsec. (d)(3)(A). Pub. L. 99–514, §1812(e)(2), inserted "(or the amount of any deduction allowable to the employee for rentals or other payments under a lease of listed property)".
 
-Subsec. (d)(4)(A)(iv). Pub. L. 99–514, §201(d)(4)(G), substituted “section 168(i)(2)(B)” for “section 168(j)(5)(D)”.
+Subsec. (d)(4)(A)(iv). Pub. L. 99–514, §201(d)(4)(G), substituted "section 168(i)(2)(B)" for "section 168(j)(5)(D)".
 
-Subsec. (d)(4)(B). Pub. L. 99–514, §1812(e)(3), inserted “and owned or leased by the person operating such establishment”.
+Subsec. (d)(4)(B). Pub. L. 99–514, §1812(e)(3), inserted "and owned or leased by the person operating such establishment".
 
 Subsec. (d)(4)(C). Pub. L. 99–514, §1812(e)(4), added subpar. (C).
 
-Subsec. (d)(5)(A). Pub. L. 99–514, §1812(e)(1)(A), (C), substituted “unloaded gross vehicle weight” for “gross vehicle weight” in cl. (ii) and inserted at end “In the case of a truck or van, clause (ii) shall be applied by substituting ‘gross vehicle weight’ for ‘unloaded gross vehicle weight’.”
+Subsec. (d)(5)(A). Pub. L. 99–514, §1812(e)(1)(A), (C), substituted "unloaded gross vehicle weight" for "gross vehicle weight" in cl. (ii) and inserted at end "In the case of a truck or van, clause (ii) shall be applied by substituting 'gross vehicle weight' for 'unloaded gross vehicle weight'."
 
-Subsec. (d)(8). Pub. L. 99–514, §201(d)(4)(H), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “For purposes of subsection (a)(2), the term “unrecovered basis” means the excess (if any) of—
+Subsec. (d)(8). Pub. L. 99–514, §201(d)(4)(H), amended par. (8) generally. Prior to amendment, par. (8) read as follows: "For purposes of subsection (a)(2), the term "unrecovered basis" means the excess (if any) of—
 
-“(A) the unadjusted basis (as defined in section 168(d)(1)(A)) of the passenger automobile, over
+"(A) the unadjusted basis (as defined in section 168(d)(1)(A)) of the passenger automobile, over
 
-“(B) the amount of the recovery deductions which would have been allowable for taxable years in the recovery period determined after the application of subsection (a) and as if all use during the recovery period were use described in section 168(c)(1).”
+"(B) the amount of the recovery deductions which would have been allowable for taxable years in the recovery period determined after the application of subsection (a) and as if all use during the recovery period were use described in section 168(c)(1)."
 
-Subsec. (d)(10). Pub. L. 99–514, §201(d)(4)(I), struck out “, notwithstanding any regulations prescribed under section 168(f)(7),” after “For purposes of subsection (a)(2)”.
+Subsec. (d)(10). Pub. L. 99–514, §201(d)(4)(I), struck out ", notwithstanding any regulations prescribed under section 168(f)(7)," after "For purposes of subsection (a)(2)".
 
-**1985**—Subsec. (a)(1). Pub. L. 99–44, §4(a)(1), substituted “$675” for “$1,000”.
+**1985**—Subsec. (a)(1). Pub. L. 99–44, §4(a)(1), substituted "$675" for "$1,000".
 
-Subsec. (a)(2)(A)(i). Pub. L. 99–44, §4(a)(2)(A), substituted “$3,200” for “$4,000”.
+Subsec. (a)(2)(A)(i). Pub. L. 99–44, §4(a)(2)(A), substituted "$3,200" for "$4,000".
 
-Subsec. (a)(2)(A)(ii), (B)(ii). Pub. L. 99–44, §4(a)(2)(B), substituted “$4,800” for “$6,000” wherever appearing in text and heading.
+Subsec. (a)(2)(A)(ii), (B)(ii). Pub. L. 99–44, §4(a)(2)(B), substituted "$4,800" for "$6,000" wherever appearing in text and heading.
 
-Subsec. (d)(7)(A). Pub. L. 99–44, §4(b)(1), inserted “placed in service after 1988” after “passenger automobile”.
+Subsec. (d)(7)(A). Pub. L. 99–44, §4(b)(1), inserted "placed in service after 1988" after "passenger automobile".
 
 Subsec. (d)(7)(B)(i). Pub. L. 99–44, §4(b)(3), struck out last sentence which directed that in the case of calendar year 1984, the automobile price inflation adjustment would be zero.
 
-Subsec. (d)(7)(B)(i)(II). Pub. L. 99–44, §4(b)(2), substituted “1987” for “1983”.
+Subsec. (d)(7)(B)(i)(II). Pub. L. 99–44, §4(b)(2), substituted "1987" for "1983".
 
 #### Effective Date of 2010 Amendment ####
 
-Pub. L. 111–240, title II, §2043(b), Sept. 27, 2010, 124 Stat. 2560, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2009.”
+Pub. L. 111–240, title II, §2043(b), Sept. 27, 2010, 124 Stat. 2560, provided that: "The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2009."
 
 #### Effective Date of 2002 Amendment ####
 
@@ -364,7 +364,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment ####
 
-Pub. L. 105–34, title IX, §971(b), Aug. 5, 1997, 111 Stat. 897, as amended by Pub. L. 107–147, title VI, §602(b)(2), Mar. 9, 2002, 116 Stat. 59, provided that: “The amendments made by this section [amending this section] shall apply to property placed in service after the date of enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title IX, §971(b), Aug. 5, 1997, 111 Stat. 897, as amended by Pub. L. 107–147, title VI, §602(b)(2), Mar. 9, 2002, 116 Stat. 59, provided that: "The amendments made by this section [amending this section] shall apply to property placed in service after the date of enactment of this Act [Aug. 5, 1997]."
 
 #### Effective Date of 1996 Amendment ####
 
@@ -376,7 +376,7 @@ Amendment by Pub. L. 101–508 applicable to property placed in service after De
 
 #### Effective Date of 1989 Amendment ####
 
-Pub. L. 101–239, title VII, §7643(b), Dec. 19, 1989, 103 Stat. 2381, provided that: “The amendment made by subsection (a) [amending this section] shall apply to property placed in service or leased in taxable years beginning after December 31, 1989.”
+Pub. L. 101–239, title VII, §7643(b), Dec. 19, 1989, 103 Stat. 2381, provided that: "The amendment made by subsection (a) [amending this section] shall apply to property placed in service or leased in taxable years beginning after December 31, 1989."
 
 #### Effective Date of 1988 Amendment ####
 
@@ -394,39 +394,39 @@ Amendment by section 1812(e)(1)(A), (C), (2)–(5) of Pub. L. 99–514 effective
 
 Pub. L. 99–44, §6(e), May 24, 1985, 99 Stat. 79, provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by section 4 [amending this section] shall apply to—
+"(1) Except as provided in paragraph (2), the amendments made by section 4 [amending this section] shall apply to—
 
-“(A) property placed in service after April 2, 1985, in taxable years ending after such date, and
+"(A) property placed in service after April 2, 1985, in taxable years ending after such date, and
 
-“(B) property leased after April 2, 1985, in taxable years ending after such date.
+"(B) property leased after April 2, 1985, in taxable years ending after such date.
 
-“(2) The amendments made by section 4 [amending this section] shall not apply to any property—
+"(2) The amendments made by section 4 [amending this section] shall not apply to any property—
 
-“(A) acquired by the taxpayer pursuant to a binding contract in effect on April 1, 1985, and at all times thereafter, but only if the property is placed in service before August 1, 1985, or
+"(A) acquired by the taxpayer pursuant to a binding contract in effect on April 1, 1985, and at all times thereafter, but only if the property is placed in service before August 1, 1985, or
 
-“(B) of which the taxpayer is the lessee, but only if the lease is pursuant to a binding contract in effect on April 1, 1985, and at all times thereafter, and only if the taxpayer first uses such property under the lease before August 1, 1985.”
+"(B) of which the taxpayer is the lessee, but only if the lease is pursuant to a binding contract in effect on April 1, 1985, and at all times thereafter, and only if the taxpayer first uses such property under the lease before August 1, 1985."
 
 #### Effective Date ####
 
 Pub. L. 98–369, div. A, title I, §179(d), July 18, 1984, 98 Stat. 719, provided that:
 
-“(1) In general.—
+"(1) In general.—
 
-“(A) Except as provided in subparagraph (B), the amendments made by subsections (a) and (c) [enacting this section] shall apply to—
+"(A) Except as provided in subparagraph (B), the amendments made by subsections (a) and (c) [enacting this section] shall apply to—
 
-“(i) property placed in service after June 18, 1984, in taxable years ending after such date, and
+"(i) property placed in service after June 18, 1984, in taxable years ending after such date, and
 
-“(ii) property leased after June 18, 1984, in taxable years ending after such date.
+"(ii) property leased after June 18, 1984, in taxable years ending after such date.
 
-“(B) The amendments made by subsections (a) and (c) shall not apply to any property—
+"(B) The amendments made by subsections (a) and (c) shall not apply to any property—
 
-“(i) acquired by the taxpayer pursuant to a binding contract in effect on June 18, 1984, and at all times thereafter (or under construction on such date) but only if the property is placed in service before January 1, 1985 (January 1, 1987, in the case of 15-year real property), or
+"(i) acquired by the taxpayer pursuant to a binding contract in effect on June 18, 1984, and at all times thereafter (or under construction on such date) but only if the property is placed in service before January 1, 1985 (January 1, 1987, in the case of 15-year real property), or
 
-“(ii) of which the taxpayer is the lessee but only if the lease is pursuant to a binding contract in effect on June 18, 1984, and at all times thereafter and only if the taxpayer first uses such property under the lease before January 1, 1985 (January 1, 1987, in the case of 15-year real property).
+"(ii) of which the taxpayer is the lessee but only if the lease is pursuant to a binding contract in effect on June 18, 1984, and at all times thereafter and only if the taxpayer first uses such property under the lease before January 1, 1985 (January 1, 1987, in the case of 15-year real property).
 
-For purposes of the preceding sentence, the term ‘15-year real property’ includes 18-year real property.
+For purposes of the preceding sentence, the term '15-year real property' includes 18-year real property.
 
-“(2) Compliance provisions.—The amendments made by subsection (b) [amending sections 274, 6653, and 6695 of this title] shall apply to taxable years beginning after December 31, 1984.”
+"(2) Compliance provisions.—The amendments made by subsection (b) [amending sections 274, 6653, and 6695 of this title] shall apply to taxable years beginning after December 31, 1984."
 
 #### Savings Provision ####
 

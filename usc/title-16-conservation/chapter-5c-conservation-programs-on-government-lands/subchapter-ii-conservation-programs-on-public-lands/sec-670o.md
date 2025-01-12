@@ -24,7 +24,7 @@ The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to i
 
 #### Codification ####
 
-In subsec. (d), “division C (except sections 3302, 3307(e), 3501(b), 3509, 3901, 3905, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “title III (other than section 304) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251–260)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (d), "division C (except sections 3302, 3307(e), 3501(b), 3509, 3901, 3905, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "title III (other than section 304) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251–260)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions ####
 
@@ -34,15 +34,15 @@ A prior section 208 of Pub. L. 86–797 was classified to section 670n of this t
 
 **2011**—Pub. L. 112–81, §312(b)(14), inserted section catchline and headings for subsecs. (a) to (d).
 
-**1997**—Subsec. (a). Pub. L. 105–85, §2914(b)(1), substituted “$4,000,000 for each of fiscal years 1998 through 2003,” for “the sum of $10,000,000 for each of the fiscal years 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, and 1993,”.
+**1997**—Subsec. (a). Pub. L. 105–85, §2914(b)(1), substituted "$4,000,000 for each of fiscal years 1998 through 2003," for "the sum of $10,000,000 for each of the fiscal years 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, and 1993,".
 
-Subsec. (b). Pub. L. 105–85, §2914(b)(2), substituted “$5,000,000 for each of fiscal years 1998 through 2003,” for “the sum of $12,000,000 for each of the fiscal years 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, and 1993,”.
+Subsec. (b). Pub. L. 105–85, §2914(b)(2), substituted "$5,000,000 for each of fiscal years 1998 through 2003," for "the sum of $12,000,000 for each of the fiscal years 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, and 1993,".
 
-**1988**—Subsecs. (a), (b). Pub. L. 100–653 substituted “1988, 1989, 1990, 1991, 1992, and 1993” for “and 1988”.
+**1988**—Subsecs. (a), (b). Pub. L. 100–653 substituted "1988, 1989, 1990, 1991, 1992, and 1993" for "and 1988".
 
-**1986**—Subsecs. (a), (b). Pub. L. 99–561 substituted “1985, 1986, 1987, and 1988” for “and 1985”.
+**1986**—Subsecs. (a), (b). Pub. L. 99–561 substituted "1985, 1986, 1987, and 1988" for "and 1985".
 
-**1982**—Subsecs. (a), (b). Pub. L. 97–396, §5(1), substituted “1983, 1984, and 1985,” for “ending September 30, 1979, September 30, 1980, and September 30, 1981,” wherever appearing.
+**1982**—Subsecs. (a), (b). Pub. L. 97–396, §5(1), substituted "1983, 1984, and 1985," for "ending September 30, 1979, September 30, 1980, and September 30, 1981," wherever appearing.
 
 Subsecs. (c), (d). Pub. L. 97–396, §5(2), added subsecs. (c) and (d).
 

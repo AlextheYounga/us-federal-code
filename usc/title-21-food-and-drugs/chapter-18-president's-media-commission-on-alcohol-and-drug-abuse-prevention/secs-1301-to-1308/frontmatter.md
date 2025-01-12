@@ -20,4 +20,4 @@ Section 1308, Pub. L. 99–570, title VIII, §8009, Oct. 27, 1986, 100 Stat. 320
 
 #### Short Title ####
 
-Pub. L. 99–570, title VIII, §8001, Oct. 27, 1986, 100 Stat. 3207–161, provided that title VIII of Pub. L. 99–570, which enacted this chapter, was to be cited as the “President's Media Commission on Alcohol and Drug Abuse Prevention Act”.
+Pub. L. 99–570, title VIII, §8001, Oct. 27, 1986, 100 Stat. 3207–161, provided that title VIII of Pub. L. 99–570, which enacted this chapter, was to be cited as the "President's Media Commission on Alcohol and Drug Abuse Prevention Act".

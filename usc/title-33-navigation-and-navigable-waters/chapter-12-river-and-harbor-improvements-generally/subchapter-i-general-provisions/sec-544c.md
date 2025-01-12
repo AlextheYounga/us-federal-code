@@ -6,4 +6,4 @@ The Secretary of the Army, acting through the Chief of Engineers, is directed to
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–106 struck out at end “The Chief of Engineers is directed to report on July 1 of each year to the Congress on the implementation of this section, together with recommendation for any legislation that may be needed to assure the fuller and more equitable participation of members of minority groups in this project or others under the direction of the Secretary.”
+**1996**—Pub. L. 104–106 struck out at end "The Chief of Engineers is directed to report on July 1 of each year to the Congress on the implementation of this section, together with recommendation for any legislation that may be needed to assure the fuller and more equitable participation of members of minority groups in this project or others under the direction of the Secretary."

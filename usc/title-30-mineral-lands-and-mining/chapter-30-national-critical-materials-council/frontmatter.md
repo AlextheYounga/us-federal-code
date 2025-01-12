@@ -22,4 +22,4 @@ Sec.
 
 1810. Authorization of appropriations.
 
-1811. “Materials” defined.
+1811. "Materials" defined.

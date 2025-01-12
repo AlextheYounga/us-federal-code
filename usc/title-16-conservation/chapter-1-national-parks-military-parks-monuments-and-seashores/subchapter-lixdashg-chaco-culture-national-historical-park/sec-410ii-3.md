@@ -2,7 +2,7 @@
 
 #### (a) Methods of acquisition ####
 
-The Secretary is authorized to acquire lands, waters, and interests therein within the boundaries of the Chaco Culture National Historical Park (hereinafter referred to as the “park”) and the archeological protection sites as identified in section 410ii–1 of this title by donation, purchase with donated or appropriated funds, or exchange. Property owned by the State of New Mexico or any political subdivision thereof, may be acquired by exchange or donation only. Property held in trust for the benefit of any Indian tribe or for the benefit of any individual member thereof may be acquired only with the consent of such owner or beneficial owner as the case may be.
+The Secretary is authorized to acquire lands, waters, and interests therein within the boundaries of the Chaco Culture National Historical Park (hereinafter referred to as the "park") and the archeological protection sites as identified in section 410ii–1 of this title by donation, purchase with donated or appropriated funds, or exchange. Property owned by the State of New Mexico or any political subdivision thereof, may be acquired by exchange or donation only. Property held in trust for the benefit of any Indian tribe or for the benefit of any individual member thereof may be acquired only with the consent of such owner or beneficial owner as the case may be.
 
 #### (b) Conveyance by tribal authorities ####
 
@@ -32,6 +32,6 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (e), 
 
 #### Amendments ####
 
-**1995**—Subsec. (c)(2). Pub. L. 104–11 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall attempt to enter into cooperative agreements pursuant to section 410ii–4 of this title with owners of private property for those archeological protection sites described in section 410ii–1(b) of this title. The Secretary shall acquire fee title to any such private property only if it is necessary to prevent direct and material damage to, or destruction of, Chaco cultural resources and no cooperative agreement with the owner of the private property interest can be affected.”
+**1995**—Subsec. (c)(2). Pub. L. 104–11 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Secretary shall attempt to enter into cooperative agreements pursuant to section 410ii–4 of this title with owners of private property for those archeological protection sites described in section 410ii–1(b) of this title. The Secretary shall acquire fee title to any such private property only if it is necessary to prevent direct and material damage to, or destruction of, Chaco cultural resources and no cooperative agreement with the owner of the private property interest can be affected."
 
-[<sup>1</sup> So in original. Probably should be “or”.](#410ii-3_1)
+[<sup>1</sup> So in original. Probably should be "or".](#410ii-3_1)

@@ -36,9 +36,9 @@ For the amendment of section 422e(a) of this title by Pub. L. 94–181, referred
 
 #### Amendments ####
 
-**1994**—Subsec. (e). Pub. L. 103–437 substituted “Committee on Natural Resources of the House of Representatives nor the Committee on Energy and Natural Resources of the Senate” for “House nor the Senate Interior and Insular Affairs Committee”.
+**1994**—Subsec. (e). Pub. L. 103–437 substituted "Committee on Natural Resources of the House of Representatives nor the Committee on Energy and Natural Resources of the Senate" for "House nor the Senate Interior and Insular Affairs Committee".
 
-**1986**—Subsec. (b)(1). Pub. L. 99–546, §304(a), designated existing provisions as par. (1) and substituted “grant of Federal funds” for “grant under this subchapter”.
+**1986**—Subsec. (b)(1). Pub. L. 99–546, §304(a), designated existing provisions as par. (1) and substituted "grant of Federal funds" for "grant under this subchapter".
 
 Subsec. (b)(2). Pub. L. 99–546, §304(b), added par. (2).
 
@@ -46,13 +46,13 @@ Subsec. (c). Pub. L. 99–546, §305, inserted provisions which required certifi
 
 **1975**—Subsec. (d). Pub. L. 94–181, §1(c), (d), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsecs. (e), (f). Pub. L. 94–181, §1(d), (e), redesignated former subsec. (d) as (e), substituted “(e)” for “(d)”, and redesignated former subsec. (e) as (f).
+Subsecs. (e), (f). Pub. L. 94–181, §1(d), (e), redesignated former subsec. (d) as (e), substituted "(e)" for "(d)", and redesignated former subsec. (e) as (f).
 
-**1971**—Subsec. (e). Pub. L. 92–167 substituted in first sentence “project” for “project, whether the proposal involves furnishing supplemental irrigation water for an existing irrigation project, whether the proposal involves rehabilitation of existing irrigation project works, and whether the proposed project is primarily for irrigation”.
+**1971**—Subsec. (e). Pub. L. 92–167 substituted in first sentence "project" for "project, whether the proposal involves furnishing supplemental irrigation water for an existing irrigation project, whether the proposal involves rehabilitation of existing irrigation project works, and whether the proposed project is primarily for irrigation".
 
 **1966**—Subsec. (a). Pub. L. 89–553, §1(2), extended project costs to include the cost of means and measures to prevent loss of and damage to fish and wildlife resources and authorized allocation of such costs as may be appropriate among project functions.
 
-Subsec. (b). Pub. L. 89–553, §1(3), substituted “cost of the project” for “cost of construction” in provision requiring that the organization be ready, able, and willing to finance by other than loan or grant whatever costs the Secretary advises, inserted reference to section 422e(b)(2) of this title as an exception to the costs which the organization must be able to finance other than by loan or grant, and struck out proviso that the contribution by the applicant organization shall not be required in excess of 25 per centum of the costs of the project which, if it were being constructed as a Federal reclamation project, would be properly allocable to reimbursable functions under general provisions of law applicable to such projects.
+Subsec. (b). Pub. L. 89–553, §1(3), substituted "cost of the project" for "cost of construction" in provision requiring that the organization be ready, able, and willing to finance by other than loan or grant whatever costs the Secretary advises, inserted reference to section 422e(b)(2) of this title as an exception to the costs which the organization must be able to finance other than by loan or grant, and struck out proviso that the contribution by the applicant organization shall not be required in excess of 25 per centum of the costs of the project which, if it were being constructed as a Federal reclamation project, would be properly allocable to reimbursable functions under general provisions of law applicable to such projects.
 
 **1957**—Subsec. (c). Pub. L. 85–47, §1(a), changed language generally, and struck out provisions which authorized Secretary to negotiate a contract as provided in section 422e of this title, with the provision that no such contract be executed by him prior to sixty days from date project proposal was submitted to both branches of Congress for committee consideration, and then only if neither committee disapproved proposal within the period, but that if both committees approved he could execute contract, and that if either committee disapproved, he could not proceed unless Congress approved.
 

@@ -4,7 +4,7 @@
 
 Sections contained provisions which were incorporated in various sections of the Internal Revenue Code of 1939. For distribution of the Internal Revenue Code of 1939 to the Internal Revenue Code of 1986, see Table I preceding section 1 of Title 26, Internal Revenue Code.
 
-Section 151, act Aug. 27, 1935, ch. 740, §2, 49 Stat. 872, defined “person”, “Commissioner”, “application”, “permit”, “bond”, “regulation”, and “articles”, was incorporated in section 3124(a)(3)–(8) of the Internal Revenue Code of 1939.
+Section 151, act Aug. 27, 1935, ch. 740, §2, 49 Stat. 872, defined "person", "Commissioner", "application", "permit", "bond", "regulation", and "articles", was incorporated in section 3124(a)(3)–(8) of the Internal Revenue Code of 1939.
 
 Section 152, act Aug. 27, 1935, ch. 740, §3, 49 Stat. 872, authorized Commissioner, his assistants, agents, and inspectors to investigate and report to United States attorney violations of this chapter and chapter 3 of this title, was incorporated in section 3117(a) of the Internal Revenue Code of 1939.
 
@@ -36,4 +36,4 @@ Section 165, act Aug. 27, 1935, ch. 740, §15, 49 Stat. 876, provided that a con
 
 Section 166, act Aug. 27, 1935, ch. 740, §16, 49 Stat. 876, provided that no tax will be assessed or collected where distilled spirits are lost, stolen, or destroyed by fire or other casualty, was incorporated in section 3113(a) of Internal Revenue Code of 1939.
 
-Section 167, act Aug. 27, 1935, ch. 740, §1, 49 Stat. 872, provided that this chapter may be cited as “Liquor Law Repeal and Enforcement Act”.
+Section 167, act Aug. 27, 1935, ch. 740, §1, 49 Stat. 872, provided that this chapter may be cited as "Liquor Law Repeal and Enforcement Act".

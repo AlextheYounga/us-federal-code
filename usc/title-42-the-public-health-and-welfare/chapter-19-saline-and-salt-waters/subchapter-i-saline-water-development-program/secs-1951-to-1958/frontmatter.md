@@ -1,6 +1,6 @@
 ### §§1951 to 1958. Repealed. Pub. L. 92–60, §11, July 29, 1971, 85 Stat. 163 ###
 
-Section 1951, acts July 3, 1952, ch. 568, §1, 66 Stat. 328; Sept. 22, 1961, Pub. L. 87–295, §1, 75 Stat. 628, stated Congressional policy on conversion of sea and saline waters and defined “saline water” and “United States”. See sections 1959 and 1959g(b) and (d) of this title.
+Section 1951, acts July 3, 1952, ch. 568, §1, 66 Stat. 328; Sept. 22, 1961, Pub. L. 87–295, §1, 75 Stat. 628, stated Congressional policy on conversion of sea and saline waters and defined "saline water" and "United States". See sections 1959 and 1959g(b) and (d) of this title.
 
 Section 1952, acts July 3, 1952, ch. 568, §2, 66 Stat. 328; June 29, 1955, ch. 227, §1(1), 69 Stat. 198; Sept. 22, 1961, Pub. L. 87–295, §1, 75 Stat. 628; Aug. 11, 1965, Pub. L. 89–118, §1(1), 79 Stat. 509; June 24, 1967, Pub. L. 90–30, §1(b)–(d), 81 Stat. 78, prescribed duties of Secretary of the Interior relating to (a) research and studies for development of processes and methods for converting saline water; (b) research and technical development work for developing processes and plant designs; reports to Congress; and treatment of demonstration projects as test beds; (c) recommendations to Congress for prototype plant; (d) methods for recovery and marketing of byproducts; and (e) economic studies and surveys on water production costs. See sections 1959a and 1959b(b) of this title.
 

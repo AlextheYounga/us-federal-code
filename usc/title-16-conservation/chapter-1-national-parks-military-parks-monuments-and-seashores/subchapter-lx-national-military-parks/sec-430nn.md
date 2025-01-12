@@ -6,8 +6,8 @@ The Secretary of the Interior is authorized, in his discretion, to acquire in be
 
 #### Codification ####
 
-“Section 3113 of title 40” substituted in text for “the Act of August 1, 1888 (25 Stat. 357)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Section 3113 of title 40" substituted in text for "the Act of August 1, 1888 (25 Stat. 357)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Antietam National Battlefield Site Redesignated as Antietam National Battlefield; Boundary Revision ####
 
-Pub. L. 95–625, title III, §319(b), Nov. 10, 1978, 92 Stat. 3488, as amended by Pub. L. 100–528, §1(c), Oct, 25, 1988, 102 Stat. 2649, provided that: “The Antietam National Battlefield Site established pursuant to such Act of April 22, 1960 [section 430oo of this title] is hereby redesignated the ‘Antietam National Battlefield’. The boundaries of such battlefield are hereby revised to include the area generally depicted on the map referenced in subsection (a) of this section [set out as a note under section 430oo of this title], which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.”
+Pub. L. 95–625, title III, §319(b), Nov. 10, 1978, 92 Stat. 3488, as amended by Pub. L. 100–528, §1(c), Oct, 25, 1988, 102 Stat. 2649, provided that: "The Antietam National Battlefield Site established pursuant to such Act of April 22, 1960 [section 430oo of this title] is hereby redesignated the 'Antietam National Battlefield'. The boundaries of such battlefield are hereby revised to include the area generally depicted on the map referenced in subsection (a) of this section [set out as a note under section 430oo of this title], which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior."

@@ -38,7 +38,7 @@ This section shall not apply to farms, except for those that produce milk.
 
 #### (e) Definition ####
 
-For purposes of this section, the term “farm” has the meaning given that term in section 1.227 of title 21, Code of Federal Regulations (or any successor regulation).
+For purposes of this section, the term "farm" has the meaning given that term in section 1.227 of title 21, Code of Federal Regulations (or any successor regulation).
 
 (June 25, 1938, ch. 675, §420, as added Pub. L. 111–353, title I, §106(a), Jan. 4, 2011, 124 Stat. 3905.)
 
@@ -50,18 +50,18 @@ Nothing in this section to be construed to apply to certain alcohol-related faci
 
 Pub. L. 111–353, title I, §106(b), Jan. 4, 2011, 124 Stat. 3906, provided that:
 
-“(1) In general.—Not later than 1 year after the date of enactment of this Act [Jan. 4, 2011], the Secretary of Health and Human Services, in consultation with the Secretary of Homeland Security and the Secretary of Agriculture, shall issue guidance documents related to protection against the intentional adulteration of food, including mitigation strategies or measures to guard against such adulteration as required under section 420 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 450i], as added by subsection (a).
+"(1) In general.—Not later than 1 year after the date of enactment of this Act [Jan. 4, 2011], the Secretary of Health and Human Services, in consultation with the Secretary of Homeland Security and the Secretary of Agriculture, shall issue guidance documents related to protection against the intentional adulteration of food, including mitigation strategies or measures to guard against such adulteration as required under section 420 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 450i], as added by subsection (a).
 
-“(2) Content.—The guidance documents issued under paragraph (1) shall—
+"(2) Content.—The guidance documents issued under paragraph (1) shall—
 
-“(A) include a model assessment for a person to use under subsection (b)(1) of section 420 of the Federal Food, Drug, and Cosmetic Act, as added by subsection (a);
+"(A) include a model assessment for a person to use under subsection (b)(1) of section 420 of the Federal Food, Drug, and Cosmetic Act, as added by subsection (a);
 
-“(B) include examples of mitigation strategies or measures described in subsection (b)(2) of such section; and
+"(B) include examples of mitigation strategies or measures described in subsection (b)(2) of such section; and
 
-“(C) specify situations in which the examples of mitigation strategies or measures described in subsection (b)(2) of such section are appropriate.
+"(C) specify situations in which the examples of mitigation strategies or measures described in subsection (b)(2) of such section are appropriate.
 
-“(3) Limited distribution.—In the interest of national security, the Secretary of Health and Human Services, in consultation with the Secretary of Homeland Security, may determine the time, manner, and form in which the guidance documents issued under paragraph (1) are made public, including by releasing such documents to targeted audiences.”
+"(3) Limited distribution.—In the interest of national security, the Secretary of Health and Human Services, in consultation with the Secretary of Homeland Security, may determine the time, manner, and form in which the guidance documents issued under paragraph (1) are made public, including by releasing such documents to targeted audiences."
 
 #### Periodic Review ####
 
-Pub. L. 111–353, title I, §106(c), Jan. 4, 2011, 124 Stat. 3906, provided that: “The Secretary of Health and Human Services shall periodically review and, as appropriate, update the regulations under section 420(b) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 450i(b)], as added by subsection (a), and the guidance documents under subsection (b) [section 106(b) of Pub. L. 111–353, set out above].”
+Pub. L. 111–353, title I, §106(c), Jan. 4, 2011, 124 Stat. 3906, provided that: "The Secretary of Health and Human Services shall periodically review and, as appropriate, update the regulations under section 420(b) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 450i(b)], as added by subsection (a), and the guidance documents under subsection (b) [section 106(b) of Pub. L. 111–353, set out above]."

@@ -4,7 +4,7 @@
 
 #### (1) In general ####
 
-If allotments for a crop year are allocated to processors under section 1359dd of this title, the Secretary shall obtain from the processors such assurances as the Secretary considers adequate that the allocation will be shared among producers served by the processor in a fair and equitable manner that adequately reflects producers’ production histories.
+If allotments for a crop year are allocated to processors under section 1359dd of this title, the Secretary shall obtain from the processors such assurances as the Secretary considers adequate that the allocation will be shared among producers served by the processor in a fair and equitable manner that adequately reflects producers' production histories.
 
 #### (2) Arbitration ####
 
@@ -44,11 +44,11 @@ The determinations of the Secretary on the issues raised by the petition shall b
 
 #### (A) In general ####
 
-In this subsection, the term “seed” means only those varieties of seed that are dedicated to the production of sugarcane from which is produced sugar for human consumption.
+In this subsection, the term "seed" means only those varieties of seed that are dedicated to the production of sugarcane from which is produced sugar for human consumption.
 
 #### (B) Exclusion ####
 
-The term “seed” does not include seed of a high-fiber cane variety dedicated to other uses, as determined by the Secretary.
+The term "seed" does not include seed of a high-fiber cane variety dedicated to other uses, as determined by the Secretary.
 
 #### (2) In general ####
 
@@ -122,7 +122,7 @@ A prior section 1359ff, act Feb. 16, 1938, ch. 30, title III, §359f, as added P
 
 **2014**—Subsec. (c)(1)(B). Pub. L. 113–79 inserted period at end.
 
-**2008**—Subsec. (c). Pub. L. 110–246, §1403(f), added par. (1), redesignated former pars. (1) to (7) as (2) to (8), respectively, in par. (3), substituted “paragraph (2)” for “paragraph (1)”, “quantity of sugar produced from sugarcane” for “quantity of sugarcane”, and “paragraph (8)” for “paragraph (7)”, in par. (6)(C), substituted “acreage of sugarcane for sugar” for “acreage of sugarcane”, in par. (8), substituted “the amount of sugar from sugarcane” for “the amount of sugarcane”, and struck out former par. (8) which related to petition to modify allocations to allow delivery to another sugarcane processing company if a processing facility was closed and the growers that had delivered sugarcane to the facility prior to closure had elected to deliver their sugarcane to another company.
+**2008**—Subsec. (c). Pub. L. 110–246, §1403(f), added par. (1), redesignated former pars. (1) to (7) as (2) to (8), respectively, in par. (3), substituted "paragraph (2)" for "paragraph (1)", "quantity of sugar produced from sugarcane" for "quantity of sugarcane", and "paragraph (8)" for "paragraph (7)", in par. (6)(C), substituted "acreage of sugarcane for sugar" for "acreage of sugarcane", in par. (8), substituted "the amount of sugar from sugarcane" for "the amount of sugarcane", and struck out former par. (8) which related to petition to modify allocations to allow delivery to another sugarcane processing company if a processing facility was closed and the growers that had delivered sugarcane to the facility prior to closure had elected to deliver their sugarcane to another company.
 
 #### Effective Date of 2008 Amendment ####
 

@@ -90,7 +90,7 @@ Sec.
 
 1474. Availability of receipts from administrative fees for program operations in Mining Law Administration.
 
-1474a. Emergency Department of the Interior Firefighting Fund; amounts considered “emergency requirements”.
+1474a. Emergency Department of the Interior Firefighting Fund; amounts considered "emergency requirements".
 
 1474b. Natural Resource Damage Assessment and Restoration Fund; availability of assessments.
 

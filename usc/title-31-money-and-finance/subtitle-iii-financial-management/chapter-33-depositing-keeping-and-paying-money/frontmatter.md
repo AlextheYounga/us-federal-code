@@ -58,11 +58,11 @@ Sec.
 
 #### Amendments ####
 
-**1994**—Pub. L. 103–356, title IV, §402(b), Oct. 13, 1994, 108 Stat. 3413, substituted “Required direct deposit” for “Checks payable to financial organizations designated by Government officers and employees” in item 3332.
+**1994**—Pub. L. 103–356, title IV, §402(b), Oct. 13, 1994, 108 Stat. 3413, substituted "Required direct deposit" for "Checks payable to financial organizations designated by Government officers and employees" in item 3332.
 
 Pub. L. 103–272, §4(f)(1)(G), July 5, 1994, 108 Stat. 1362, added item 3334.
 
-**1991**—Pub. L. 102–54, §13(l)(4)(B), June 13, 1991, 105 Stat. 277, substituted “Department of Veterans Affairs” for “Veterans’ Administration” in item 3330.
+**1991**—Pub. L. 102–54, §13(l)(4)(B), June 13, 1991, 105 Stat. 277, substituted "Department of Veterans Affairs" for "Veterans' Administration" in item 3330.
 
 **1990**—Pub. L. 101–453, §4(b), Oct. 24, 1990, 104 Stat. 1059, added item 3335.
 

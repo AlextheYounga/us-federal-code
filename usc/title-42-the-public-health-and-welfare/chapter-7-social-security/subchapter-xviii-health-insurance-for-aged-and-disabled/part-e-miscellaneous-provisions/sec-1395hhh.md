@@ -16,7 +16,7 @@ The Secretary shall establish criteria for selecting among qualifying hospitals 
 
 #### (2) Qualifying hospital defined ####
 
-For purposes of this section, the term “qualifying hospital” means a hospital or an entity described in paragraph (3) that—
+For purposes of this section, the term "qualifying hospital" means a hospital or an entity described in paragraph (3) that—
 
 (A) is engaged in research in the causes, prevention, and treatment of cancer; and
 
@@ -90,9 +90,9 @@ The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–32
 
 #### Amendments ####
 
-**2005**—Subsec. (c)(2). Pub. L. 109–13, §6045(a)(1)(A), inserted “or an entity described in paragraph (3)” after “means a hospital” in introductory provisions.
+**2005**—Subsec. (c)(2). Pub. L. 109–13, §6045(a)(1)(A), inserted "or an entity described in paragraph (3)" after "means a hospital" in introductory provisions.
 
-Subsec. (c)(2)(B). Pub. L. 109–13, §6045(a)(1)(B), inserted “legislature” after “designated by the State” and “and such designation by the State legislature occurred prior to December 8, 2003” before period at end.
+Subsec. (c)(2)(B). Pub. L. 109–13, §6045(a)(1)(B), inserted "legislature" after "designated by the State" and "and such designation by the State legislature occurred prior to December 8, 2003" before period at end.
 
 Subsec. (c)(3). Pub. L. 109–13, §6045(a)(2), added par. (3).
 
@@ -100,4 +100,4 @@ Subsec. (i). Pub. L. 109–13, §6045(b), added subsec. (i).
 
 #### Effective Date of 2005 Amendment ####
 
-Pub. L. 109–13, div. A, title VI, §6045(c), May 11, 2005, 119 Stat. 295, provided that: “The amendments made by this section [amending this section] shall take effect as if included in the enactment of section 1016 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173; 117 Stat. 2447).”
+Pub. L. 109–13, div. A, title VI, §6045(c), May 11, 2005, 119 Stat. 295, provided that: "The amendments made by this section [amending this section] shall take effect as if included in the enactment of section 1016 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173; 117 Stat. 2447)."

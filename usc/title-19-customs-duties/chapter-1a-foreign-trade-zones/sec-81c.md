@@ -40,7 +40,7 @@ At the time use of the merchandise in production begins, the merchandise shall b
 
 #### (4) Foreign trade zone ####
 
-For purposes of this subsection, the term “foreign trade zone” includes a subzone.
+For purposes of this subsection, the term "foreign trade zone" includes a subzone.
 
 (June 18, 1934, ch. 590, §3, 48 Stat. 999; June 17, 1950, ch. 296, §1, 64 Stat. 246; Pub. L. 91–271, title III, §309, June 2, 1970, 84 Stat. 292; Pub. L. 98–573, title II, §231(a)(2), Oct. 30, 1984, 98 Stat. 2990; Pub. L. 99–514, title XVIII, §1894, Oct. 22, 1986, 100 Stat. 2931; Pub. L. 100–418, title I, §1783(f), Aug. 23, 1988, 102 Stat. 1300; Pub. L. 100–449, title II, §204(c)(5), Sept. 28, 1988, 102 Stat. 1863; Pub. L. 100–647, title IX, §9002, Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–382, title III, §§481, 484F, Aug. 20, 1990, 104 Stat. 706, 710; Pub. L. 103–182, title II, §203(b)(5), Dec. 8, 1993, 107 Stat. 2091; Pub. L. 104–295, §31(a), Oct. 11, 1996, 110 Stat. 3536; Pub. L. 106–36, title I, §1001(b)(2), June 25, 1999, 113 Stat. 131; Pub. L. 108–77, title II, §203(b)(5), Sept. 3, 2003, 117 Stat. 929.)
 
@@ -77,21 +77,21 @@ Section 204 of the United States-Canada Free-Trade Agreement Implementation Act 
 
 #### Amendments ####
 
-**2003**—Subsec. (a). Pub. L. 108–77, §§107(c), 203(b)(5), temporarily inserted before period at end “*Provided further*, That no merchandise that consists of goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, that is manufactured or otherwise changed in condition shall be exported to Chile without an assessment of a duty on the merchandise in its condition and quantity, and at its weight, at the time of its exportation (or if the privilege in the first proviso to this subsection was requested, an assessment of a duty on the merchandise in its condition and quantity, and at its weight, at the time of its admission into the zone) and the payment of the assessed duty before the 61st day after the date of exportation of the article, except that the customs duty may be waived or reduced by (1) 100 percent during the 8-year period beginning on January 1, 2004; (2) 75 percent during the 1-year period beginning on January 1, 2012; (3) 50 percent during the 1-year period beginning on January 1, 2013; and (4) 25 percent during the 1-year period beginning on January 1, 2014”. See Effective and Termination Dates of 2003 Amendment note below.
+**2003**—Subsec. (a). Pub. L. 108–77, §§107(c), 203(b)(5), temporarily inserted before period at end "*Provided further*, That no merchandise that consists of goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, that is manufactured or otherwise changed in condition shall be exported to Chile without an assessment of a duty on the merchandise in its condition and quantity, and at its weight, at the time of its exportation (or if the privilege in the first proviso to this subsection was requested, an assessment of a duty on the merchandise in its condition and quantity, and at its weight, at the time of its admission into the zone) and the payment of the assessed duty before the 61st day after the date of exportation of the article, except that the customs duty may be waived or reduced by (1) 100 percent during the 8-year period beginning on January 1, 2004; (2) 75 percent during the 1-year period beginning on January 1, 2012; (3) 50 percent during the 1-year period beginning on January 1, 2013; and (4) 25 percent during the 1-year period beginning on January 1, 2014". See Effective and Termination Dates of 2003 Amendment note below.
 
 **1999**—Subsec. (a). Pub. L. 106–36 struck out second period at end of last sentence.
 
 **1996**—Subsec. (e). Pub. L. 104–295 added subsec. (e).
 
-**1993**—Subsec. (a). Pub. L. 103–182, in provisions following par. (2), inserted second proviso relating to goods subject to NAFTA drawback, and in last proviso inserted “, if Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates,” after “That” and substituted “during the period such Agreement is in operation” for “on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of such Act of 1988,”.
+**1993**—Subsec. (a). Pub. L. 103–182, in provisions following par. (2), inserted second proviso relating to goods subject to NAFTA drawback, and in last proviso inserted ", if Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates," after "That" and substituted "during the period such Agreement is in operation" for "on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of such Act of 1988,".
 
-**1990**—Subsec. (b). Pub. L. 101–382, §481, substituted “on or before December 31, 1992” for “before January 1, 1991”.
+**1990**—Subsec. (b). Pub. L. 101–382, §481, substituted "on or before December 31, 1992" for "before January 1, 1991".
 
-Subsec. (c). Pub. L. 101–382, §484F, designated existing provisions as par. (1), struck out “domestic” before “denatured distilled”, inserted provisions relating to withdrawal free of tax from a distilled spirits plant, and added par. (2).
+Subsec. (c). Pub. L. 101–382, §484F, designated existing provisions as par. (1), struck out "domestic" before "denatured distilled", inserted provisions relating to withdrawal free of tax from a distilled spirits plant, and added par. (2).
 
-**1988**—Subsec. (a). Pub. L. 100–449 temporarily inserted provision directing that, “with the exception of drawback eligible goods under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, no article manufactured or otherwise changed in condition (except a change by cleaning, testing or repacking) shall be exported to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of such Act of 1988, without the payment of a duty that shall be payable on the article in its condition and quantity, and at its weight, at the time of its exportation to Canada unless the privilege in the first proviso to this subsection was requested.” See Effective and Termination Dates of 1988 Amendment note below.
+**1988**—Subsec. (a). Pub. L. 100–449 temporarily inserted provision directing that, "with the exception of drawback eligible goods under section 204(a) of the United States-Canada Free-Trade Agreement Implementation Act of 1988, no article manufactured or otherwise changed in condition (except a change by cleaning, testing or repacking) shall be exported to Canada on or after January 1, 1994, or such later date as may be proclaimed by the President under section 204(b)(2)(B) of such Act of 1988, without the payment of a duty that shall be payable on the article in its condition and quantity, and at its weight, at the time of its exportation to Canada unless the privilege in the first proviso to this subsection was requested." See Effective and Termination Dates of 1988 Amendment note below.
 
-Subsec. (b). Pub. L. 100–418 substituted “January 1, 1991” for “June 30, 1986”.
+Subsec. (b). Pub. L. 100–418 substituted "January 1, 1991" for "June 30, 1986".
 
 Subsec. (d). Pub. L. 100–647 added subsec. (d).
 
@@ -109,7 +109,7 @@ Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free
 
 #### Effective Date of 1996 Amendment ####
 
-Pub. L. 104–295, §31(b), Oct. 11, 1996, 110 Stat. 3537, provided that: “The amendment made by this section [amending this section] shall apply with respect to merchandise admitted into a foreign trade zone after the date that is 15 days after the date of the enactment of this Act [Oct. 11, 1996].”
+Pub. L. 104–295, §31(b), Oct. 11, 1996, 110 Stat. 3537, provided that: "The amendment made by this section [amending this section] shall apply with respect to merchandise admitted into a foreign trade zone after the date that is 15 days after the date of the enactment of this Act [Oct. 11, 1996]."
 
 #### Effective Date of 1993 Amendment ####
 
@@ -117,7 +117,7 @@ Amendment by Pub. L. 103–182 applicable (1) with respect to exports from the U
 
 #### Effective Date of 1990 Amendment ####
 
-Pub. L. 101–382, title III, §485(a), Aug. 20, 1990, 104 Stat. 712, provided that: “Except as otherwise provided in this title, the amendments made by this title [amending this section and sections 1309, 1313, 1466, and 1553 of this title and enacting provisions set out as notes under sections 1309, 1466, and 1553 of this title], shall apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after October 1, 1990.”
+Pub. L. 101–382, title III, §485(a), Aug. 20, 1990, 104 Stat. 712, provided that: "Except as otherwise provided in this title, the amendments made by this title [amending this section and sections 1309, 1313, 1466, and 1553 of this title and enacting provisions set out as notes under sections 1309, 1466, and 1553 of this title], shall apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after October 1, 1990."
 
 #### Effective and Termination Dates of 1988 Amendment ####
 
@@ -127,7 +127,7 @@ Amendment by section 1783(f) of Pub. L. 100–418 applicable with respect to art
 
 #### Effective Date of 1984 Amendment ####
 
-Pub. L. 98–573, title II, §231(a)(3), Oct. 30, 1984, 98 Stat. 2990, provided that: “The amendments made by paragraph (2) [amending this section] shall take effect on the fifteenth day after the date of the enactment of this Act [Oct. 30, 1984].”
+Pub. L. 98–573, title II, §231(a)(3), Oct. 30, 1984, 98 Stat. 2990, provided that: "The amendments made by paragraph (2) [amending this section] shall take effect on the fifteenth day after the date of the enactment of this Act [Oct. 30, 1984]."
 
 #### Effective Date of 1970 Amendment ####
 

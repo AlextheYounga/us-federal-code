@@ -94,13 +94,13 @@ This section may not be construed as affecting the authorities of the Director o
 
 #### Amendments ####
 
-**2014**—Subsec. (a). Pub. L. 113–94, §3(b)(1)(B), which directed amendment of subsec. (a) by striking “For purposes of carrying out this subchapter” and inserting par. (1) designation, heading, and “For purposes of carrying out this subchapter”, was executed by striking “For the purpose of carrying out this subchapter” and making the insertions as directed, to reflect the probable intent of Congress.
+**2014**—Subsec. (a). Pub. L. 113–94, §3(b)(1)(B), which directed amendment of subsec. (a) by striking "For purposes of carrying out this subchapter" and inserting par. (1) designation, heading, and "For purposes of carrying out this subchapter", was executed by striking "For the purpose of carrying out this subchapter" and making the insertions as directed, to reflect the probable intent of Congress.
 
 Pub. L. 113–94, §3(b)(1)(A), redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, and realigned margins.
 
 Subsec. (a)(2). Pub. L. 113–94, §3(b)(1)(C), added par. (2).
 
-Subsecs. (c)(1)(B), (D), (d). Pub. L. 113–94, §3(b)(2), substituted “subsection (a)(1)” for “subsection (a)” wherever appearing.
+Subsecs. (c)(1)(B), (D), (d). Pub. L. 113–94, §3(b)(2), substituted "subsection (a)(1)" for "subsection (a)" wherever appearing.
 
 #### Effective Date ####
 
@@ -110,8 +110,8 @@ Section applicable only with respect to amounts appropriated for fiscal year 200
 
 Pub. L. 113–94, §3(c), Apr. 3, 2014, 128 Stat. 1087, provided that:
 
-“Funds appropriated pursuant to section 402A(a)(2) of the Public Health Service Act [42 U.S.C. 282a(a)(2)], as added by subsection (b)—
+"Funds appropriated pursuant to section 402A(a)(2) of the Public Health Service Act [42 U.S.C. 282a(a)(2)], as added by subsection (b)—
 
-“(1) shall be used to supplement, not supplant, the funds otherwise allocated by the National Institutes of Health for pediatric research; and
+"(1) shall be used to supplement, not supplant, the funds otherwise allocated by the National Institutes of Health for pediatric research; and
 
-“(2) notwithstanding any transfer authority in any appropriation Act, shall not be used for any purpose other than allocating funds for making grants as described in section 402(b)(7)(B)(ii) of the Public Health Service Act [42 U.S.C. 282(b)(7)(B)(ii)], as added by subsection (a).”
+"(2) notwithstanding any transfer authority in any appropriation Act, shall not be used for any purpose other than allocating funds for making grants as described in section 402(b)(7)(B)(ii) of the Public Health Service Act [42 U.S.C. 282(b)(7)(B)(ii)], as added by subsection (a)."

@@ -32,6 +32,6 @@ The Director may, as appropriate, provide for the coordination of information am
 
 Section was enacted as part of the Christopher and Dana Reeve Paralysis Act, and also as part of the Omnibus Public Land Management Act of 2009, and not as part of the Public Health Service Act which comprises this chapter.
 
-#### Definition of “Director” ####
+#### Definition of "Director" ####
 
-“Director” as meaning the Director of the National Institutes of Health, see section 284o(a) of this title.
+"Director" as meaning the Director of the National Institutes of Health, see section 284o(a) of this title.

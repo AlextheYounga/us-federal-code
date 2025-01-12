@@ -108,29 +108,29 @@ Section 16(b) of the Securities Exchange Act of 1934, referred to in subsec. (c)
 
 **2004**—Subsec. (c)(4). Pub. L. 108–357 added par. (4).
 
-**1990**—Subsec. (i). Pub. L. 101–508 struck out subsec. (i) “Transition rules” which read as follows: “This section shall apply to property transferred after June 30, 1969, except that this section shall not apply to property transferred—
+**1990**—Subsec. (i). Pub. L. 101–508 struck out subsec. (i) "Transition rules" which read as follows: "This section shall apply to property transferred after June 30, 1969, except that this section shall not apply to property transferred—
 
-“(1) pursuant to a binding written contract entered into before April 22, 1969,
+"(1) pursuant to a binding written contract entered into before April 22, 1969,
 
-“(2) upon the exercise of an option granted before April 22, 1969,
+"(2) upon the exercise of an option granted before April 22, 1969,
 
-“(3) before May 1, 1970, pursuant to a written plan adopted and approved before July 1, 1969,
+"(3) before May 1, 1970, pursuant to a written plan adopted and approved before July 1, 1969,
 
-“(4) before January 1, 1973, upon the exercise of an option granted pursuant to a binding written contract entered into before April 22, 1969, between a corporation and the transferor requiring the transferor to grant options to employees of such corporation (or a subsidiary of such corporation) to purchase a determinable number of shares of stock of such corporation, but only if the transferee was an employee of such corporation (or a subsidiary of such corporation) on or before April 22, 1969, or
+"(4) before January 1, 1973, upon the exercise of an option granted pursuant to a binding written contract entered into before April 22, 1969, between a corporation and the transferor requiring the transferor to grant options to employees of such corporation (or a subsidiary of such corporation) to purchase a determinable number of shares of stock of such corporation, but only if the transferee was an employee of such corporation (or a subsidiary of such corporation) on or before April 22, 1969, or
 
-“(5) in exchange for (or pursuant to the exercise of a conversion privilege contained in) property transferred before July 1, 1969, or for property to which this section does not apply (by reason of paragraphs (1), (2), (3), or (4)), if section 354, 355, 356, or 1036 (or so much of section 1031 as relates to section 1036) applies, or if gain or loss is not otherwise required to be recognized upon the exercise of such conversion privilege, and if the property received in such exchange is subject to restrictions and conditions substantially similar to those to which the property given in such exchange was subject.”
+"(5) in exchange for (or pursuant to the exercise of a conversion privilege contained in) property transferred before July 1, 1969, or for property to which this section does not apply (by reason of paragraphs (1), (2), (3), or (4)), if section 354, 355, 356, or 1036 (or so much of section 1031 as relates to section 1036) applies, or if gain or loss is not otherwise required to be recognized upon the exercise of such conversion privilege, and if the property received in such exchange is subject to restrictions and conditions substantially similar to those to which the property given in such exchange was subject."
 
-**1986**—Subsec. (e)(5). Pub. L. 99–514 struck out “the cost of” before “group-life insurance”.
+**1986**—Subsec. (e)(5). Pub. L. 99–514 struck out "the cost of" before "group-life insurance".
 
 **1984**—Subsec. (e)(5). Pub. L. 98–369 added par. (5).
 
-**1983**—Subsec. (c)(3). Pub. L. 97–448 substituted “Securities Exchange Act of 1934” for “Securities and Exchange Act of 1934” in heading and text.
+**1983**—Subsec. (c)(3). Pub. L. 97–448 substituted "Securities Exchange Act of 1934" for "Securities and Exchange Act of 1934" in heading and text.
 
 **1981**—Subsec. (c)(3). Pub. L. 97–34 added par. (3).
 
-**1976**—Subsec. (b)(2). Pub. L. 94–455, §1901(a)(15), struck out “(or, if later, 30 days after the date of the enactment of the Tax Reform Act of 1969)” after “after the date of such transfer”, and §1906(b)(13)(A), “or his delegate” after “Secretary” wherever appearing.
+**1976**—Subsec. (b)(2). Pub. L. 94–455, §1901(a)(15), struck out "(or, if later, 30 days after the date of the enactment of the Tax Reform Act of 1969)" after "after the date of such transfer", and §1906(b)(13)(A), "or his delegate" after "Secretary" wherever appearing.
 
-Subsec. (d)(1), (2)(B). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (d)(1), (2)(B). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 #### Effective Date of 2004 Amendment ####
 
@@ -150,7 +150,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1981 Amendment ####
 
-Pub. L. 97–34, title II, §252(c), Aug. 13, 1981, 95 Stat. 260, as amended by Pub. L. 97–448, title I, §102(k)(2), 96 Stat. 2374, provided that: “The amendment made by subsection (a) [amending this section] and the provisions of subsection (b) [set out below] shall apply to transfers after December 31, 1981.”
+Pub. L. 97–34, title II, §252(c), Aug. 13, 1981, 95 Stat. 260, as amended by Pub. L. 97–448, title I, §102(k)(2), 96 Stat. 2374, provided that: "The amendment made by subsection (a) [amending this section] and the provisions of subsection (b) [set out below] shall apply to transfers after December 31, 1981."
 
 #### Effective Date of 1976 Amendment ####
 
@@ -158,7 +158,7 @@ Amendment by section 1901(a)(15) of Pub. L. 94–455 applicable with respect to 
 
 #### Effective Date ####
 
-Pub. L. 91–172, title III, §321(d), Dec. 30, 1969, 83 Stat. 591, provided that: “The amendments made by subsections (a) and (c) [amending sections 402, 403, and 404 of this title] shall apply to taxable years ending after June 30, 1969. The amendments made by subsection (b) [enacting this section] shall apply with respect to contributions made and premiums paid after August 1, 1969.”
+Pub. L. 91–172, title III, §321(d), Dec. 30, 1969, 83 Stat. 591, provided that: "The amendments made by subsections (a) and (c) [amending sections 402, 403, and 404 of this title] shall apply to taxable years ending after June 30, 1969. The amendments made by subsection (b) [enacting this section] shall apply with respect to contributions made and premiums paid after August 1, 1969."
 
 #### Savings Provision ####
 
@@ -172,36 +172,36 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Pub. L. 99–514, title XVIII, §1879(p), Oct. 22, 1986, 100 Stat. 2911, as amended by Pub. L. 100–647, title I, §1018(q)(3), Nov. 10, 1988, 102 Stat. 3585, provided that:
 
-“(1) Notwithstanding subsection (c) of section 252 of the Economic Recovery Tax Act of 1981 [section 252(c) of Pub. L. 97–34, set out above], the amendment made by subsection (a) of such section 252 [amending this section] (and the provisions of subsection (b) of such section 252 [set out below]) shall apply to any transfer of stock to any person if—
+"(1) Notwithstanding subsection (c) of section 252 of the Economic Recovery Tax Act of 1981 [section 252(c) of Pub. L. 97–34, set out above], the amendment made by subsection (a) of such section 252 [amending this section] (and the provisions of subsection (b) of such section 252 [set out below]) shall apply to any transfer of stock to any person if—
 
-“(A) such transfer occurred in November or December of 1973 and was pursuant to the exercise of an option granted in November or December of 1971,
+"(A) such transfer occurred in November or December of 1973 and was pursuant to the exercise of an option granted in November or December of 1971,
 
-“(B) in December 1973 the corporation granting the option was acquired by another corporation in a transaction qualifying as a reorganization under section 368 of the Internal Revenue Code of 1954 [now 1986],
+"(B) in December 1973 the corporation granting the option was acquired by another corporation in a transaction qualifying as a reorganization under section 368 of the Internal Revenue Code of 1954 [now 1986],
 
-“(C) the fair market value (as of July 1, 1974) of the stock received by such person in the reorganization in exchange for the stock transferred to him pursuant to the exercise of such option was less than 50 percent of the fair market value of the stock so received (as of December 4, 1973),
+"(C) the fair market value (as of July 1, 1974) of the stock received by such person in the reorganization in exchange for the stock transferred to him pursuant to the exercise of such option was less than 50 percent of the fair market value of the stock so received (as of December 4, 1973),
 
-“(D) in 1975 or 1976 such person sold substantially all of the stock received in such reorganization, and
+"(D) in 1975 or 1976 such person sold substantially all of the stock received in such reorganization, and
 
-“(E) such person makes an election under this section at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe.
+"(E) such person makes an election under this section at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe.
 
-“(2) Limitation on amount of benefit.—Paragraph (1) shall not apply to transfers with respect to any employee to the extent that the application of paragraph (1) with respect to such employee would (but for this paragraph) result in a reduction in liability for income tax with respect to such employee for all taxable years in excess of $100,000 (determined without regard to any interest).
+"(2) Limitation on amount of benefit.—Paragraph (1) shall not apply to transfers with respect to any employee to the extent that the application of paragraph (1) with respect to such employee would (but for this paragraph) result in a reduction in liability for income tax with respect to such employee for all taxable years in excess of $100,000 (determined without regard to any interest).
 
-“(3) Statute of limitations.—
+"(3) Statute of limitations.—
 
-“(A) Overpayments.—If refund or credit of any overpayment of tax resulting from the application of paragraph (1) is prevented on the date of the enactment of this Act [Oct. 22, 1986] (or at any time within 6 months after such date of enactment) by the operation of any law or rule of law, refund or credit of such overpayment (to the extent attributable to the application of paragraph (1)) may, nevertheless, be made or allowed if claim therefor is filed before the close of such 6-month period.
+"(A) Overpayments.—If refund or credit of any overpayment of tax resulting from the application of paragraph (1) is prevented on the date of the enactment of this Act [Oct. 22, 1986] (or at any time within 6 months after such date of enactment) by the operation of any law or rule of law, refund or credit of such overpayment (to the extent attributable to the application of paragraph (1)) may, nevertheless, be made or allowed if claim therefor is filed before the close of such 6-month period.
 
-“(B) Deficiencies.—If the assessment of any deficiency of tax resulting from the application of paragraph (1) is prevented on the date of the enactment of this Act [Oct. 22, 1986] (or at any time within 6 months after such date of enactment) by the operation of any law or rule of law, assessment of such deficiency (to the extent attributable to the application of paragraph (1)) may, nevertheless, be made within such 6-month period.”
+"(B) Deficiencies.—If the assessment of any deficiency of tax resulting from the application of paragraph (1) is prevented on the date of the enactment of this Act [Oct. 22, 1986] (or at any time within 6 months after such date of enactment) by the operation of any law or rule of law, assessment of such deficiency (to the extent attributable to the application of paragraph (1)) may, nevertheless, be made within such 6-month period."
 
 #### Time for Making Certain Section 83(b) Elections ####
 
-Pub. L. 98–369, div. A, title V, §556, July 18, 1984, 98 Stat. 898, as amended by Pub. L. 99–514, §2, title XVIII, §1855(b), Oct. 22, 1986, 100 Stat. 2095, 2882, provided that: “In the case of any transfer of property in connection with the performance of services on or before November 18, 1982, the election permitted by section 83(b) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] may be made, notwithstanding paragraph (2) of such section 83(b), with the income tax return for any taxable year ending after July 18, 1984, and beginning before the date of the enactment of the Tax Reform Act of 1986 [Oct. 22, 1986 if—
+Pub. L. 98–369, div. A, title V, §556, July 18, 1984, 98 Stat. 898, as amended by Pub. L. 99–514, §2, title XVIII, §1855(b), Oct. 22, 1986, 100 Stat. 2095, 2882, provided that: "In the case of any transfer of property in connection with the performance of services on or before November 18, 1982, the election permitted by section 83(b) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] may be made, notwithstanding paragraph (2) of such section 83(b), with the income tax return for any taxable year ending after July 18, 1984, and beginning before the date of the enactment of the Tax Reform Act of 1986 [Oct. 22, 1986 if—
 
-“(1) the amount paid for such property was not less than its fair market value at the time of transfer (determined without regard to any restriction other than a restriction which by its terms will never lapse), and
+"(1) the amount paid for such property was not less than its fair market value at the time of transfer (determined without regard to any restriction other than a restriction which by its terms will never lapse), and
 
-“(2) the election is consented to by the person transferring such property.
+"(2) the election is consented to by the person transferring such property.
 
-The election shall contain that information required by the Secretary of the Treasury or his delegate for elections permitted by such section 83(b). The period for assessing any tax attributable to a transfer of property which is the subject of an election made pursuant to this section shall not expire before the date which is 3 years after the date such election was made.”
+The election shall contain that information required by the Secretary of the Treasury or his delegate for elections permitted by such section 83(b). The period for assessing any tax attributable to a transfer of property which is the subject of an election made pursuant to this section shall not expire before the date which is 3 years after the date such election was made."
 
-#### Property Subject to Transfer Restrictions To Comply With “Pooling-of-Interests Accounting” Rules ####
+#### Property Subject to Transfer Restrictions To Comply With "Pooling-of-Interests Accounting" Rules ####
 
-Pub. L. 97–34, title II, §252(b), Aug. 13, 1981, 95 Stat. 260, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided, effective with respect to taxable years ending after Dec. 31, 1981, that: “For purposes of section 83 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], property is subject to substantial risk of forfeiture and is not transferable so long as such property is subject to a restriction on transfer to comply with the “Pooling-of-Interests Accounting” rules set forth in Accounting Series Release Numbered 130 ((10/5/72) 37 FR 20937; 17 CFR 211.130) and Accounting Series Release Numbered 135 ((1/18/73) 38 FR 1734; 17 CFR 211.135).”
+Pub. L. 97–34, title II, §252(b), Aug. 13, 1981, 95 Stat. 260, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided, effective with respect to taxable years ending after Dec. 31, 1981, that: "For purposes of section 83 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], property is subject to substantial risk of forfeiture and is not transferable so long as such property is subject to a restriction on transfer to comply with the "Pooling-of-Interests Accounting" rules set forth in Accounting Series Release Numbered 130 ((10/5/72) 37 FR 20937; 17 CFR 211.130) and Accounting Series Release Numbered 135 ((1/18/73) 38 FR 1734; 17 CFR 211.135)."

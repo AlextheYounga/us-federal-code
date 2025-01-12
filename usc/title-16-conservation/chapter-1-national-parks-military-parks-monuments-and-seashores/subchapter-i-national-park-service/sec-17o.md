@@ -16,7 +16,7 @@ The purposes of this section are—
 
 #### (2) General authority ####
 
-To enhance the ability of the Secretary of the Interior (hereafter in this section referred to as “the Secretary”), acting through the Director of the National Park Service, to effectively manage units of the National Park System, the Secretary is authorized where necessary and justified to make available employee housing, on or off the lands under the administrative jurisdiction of the National Park Service, and to rent or lease such housing to field employees of the National Park Service at rates based on the reasonable value of the housing in accordance with requirements applicable under section 5911 of title 5.
+To enhance the ability of the Secretary of the Interior (hereafter in this section referred to as "the Secretary"), acting through the Director of the National Park Service, to effectively manage units of the National Park System, the Secretary is authorized where necessary and justified to make available employee housing, on or off the lands under the administrative jurisdiction of the National Park Service, and to rent or lease such housing to field employees of the National Park Service at rates based on the reasonable value of the housing in accordance with requirements applicable under section 5911 of title 5.
 
 #### (3) Review and revision of housing criteria ####
 
@@ -166,43 +166,43 @@ The proceeds from any lease under paragraph (7)(A) and any lease under paragraph
 
 For purposes of this section:
 
-(A) The term “field employee” means—
+(A) The term "field employee" means—
 
 (i) an employee of the National Park Service who is exclusively assigned by the National Park Service to perform duties at a field unit, and the members of their family; and
 
 (ii) other individuals who are authorized to occupy Government quarters under section 5911 of title 5, and for whom there is no feasible alternative to the provision of Government housing, and the members of their family.
 
-(B) The term “land management agency” means the National Park Service, Department of the Interior.
+(B) The term "land management agency" means the National Park Service, Department of the Interior.
 
-(C) The term “primary resource values” means resources which are specifically mentioned in the enabling legislation for that field unit or other resource value recognized under Federal statute.
+(C) The term "primary resource values" means resources which are specifically mentioned in the enabling legislation for that field unit or other resource value recognized under Federal statute.
 
-(D) The term “quarters” means quarters owned or leased by the Government.
+(D) The term "quarters" means quarters owned or leased by the Government.
 
-(E) The term “seasonal quarters” means quarters typically occupied by field employees who are hired on assignments of 6 months or less.
+(E) The term "seasonal quarters" means quarters typically occupied by field employees who are hired on assignments of 6 months or less.
 
 (Pub. L. 104–333, div. I, title VIII, §814(a), Nov. 12, 1996, 110 Stat. 4190; Pub. L. 106–176, title I, §120(a)(1), Mar. 10, 2000, 114 Stat. 28.)
 
 #### References in Text ####
 
-This section, referred to in pars. (1), (6), (13), and (17)(A), (C), means section 814 of title VIII of div. I of Pub. L. 104–333 which enacted this section and sections 1f and 346e of this title and made numerous amendments to this title. The reference probably should have been “this subsection” meaning subsec. (a) of section 814 which enacted this section.
+This section, referred to in pars. (1), (6), (13), and (17)(A), (C), means section 814 of title VIII of div. I of Pub. L. 104–333 which enacted this section and sections 1f and 346e of this title and made numerous amendments to this title. The reference probably should have been "this subsection" meaning subsec. (a) of section 814 which enacted this section.
 
 #### Codification ####
 
-“Section 1302 of title 40” substituted in par. (17)(C) for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b; 47 Stat. 412)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Section 1302 of title 40" substituted in par. (17)(C) for "section 321 of the Act of June 30, 1932 (40 U.S.C. 303b; 47 Stat. 412)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments ####
 
-**2000**—Par. (6). Pub. L. 106–176, §120(a)(1)(A), substituted “this section” for “this Act” before period at end.
+**2000**—Par. (6). Pub. L. 106–176, §120(a)(1)(A), substituted "this section" for "this Act" before period at end.
 
-Par. (7)(B). Pub. L. 106–176, §120(a)(1)(B), substituted “Competitive leasing” for “Comptetitive leasing” in subpar. heading.
+Par. (7)(B). Pub. L. 106–176, §120(a)(1)(B), substituted "Competitive leasing" for "Comptetitive leasing" in subpar. heading.
 
-Par. (9). Pub. L. 106–176, §120(a)(1)(C), substituted “granted by statute” for “granted by statue”.
+Par. (9). Pub. L. 106–176, §120(a)(1)(C), substituted "granted by statute" for "granted by statue".
 
-Par. (11)(B)(ii). Pub. L. 106–176, §120(a)(1)(D), substituted “more cost-effective” for “more cost effective”.
+Par. (11)(B)(ii). Pub. L. 106–176, §120(a)(1)(D), substituted "more cost-effective" for "more cost effective".
 
-Par. (13). Pub. L. 106–176, §120(a)(1)(E), substituted “paragraph (12),” for “paragraph (13),”.
+Par. (13). Pub. L. 106–176, §120(a)(1)(E), substituted "paragraph (12)," for "paragraph (13),".
 
-Par. (18). Pub. L. 106–176, §120(a)(1)(F), substituted “under paragraph (7)(A) and any lease under paragraph (11)” for “under paragraph (7)(A)(i)(I), any lease under paragraph (11)(B), and any lease of seasonal quarters under subsection (l),”.
+Par. (18). Pub. L. 106–176, §120(a)(1)(F), substituted "under paragraph (7)(A) and any lease under paragraph (11)" for "under paragraph (7)(A)(i)(I), any lease under paragraph (11)(B), and any lease of seasonal quarters under subsection (l),".
 
 #### Change of Name ####
 

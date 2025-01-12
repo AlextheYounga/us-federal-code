@@ -64,21 +64,21 @@ The Secretary may extend appropriate courtesies to official representatives of f
 
 #### Amendments ####
 
-**1994**—Subsecs. (a) to (c), (e) to (i), (k). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
+**1994**—Subsecs. (a) to (c), (e) to (i), (k). Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
 
-**1993**—Subsec. (b). Pub. L. 103–156, §9(1), struck out at end “The Administrator shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate at the end of every three-month period with respect to investigative action taken on complaints, during the immediately preceding three-month period.”
+**1993**—Subsec. (b). Pub. L. 103–156, §9(1), struck out at end "The Administrator shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate at the end of every three-month period with respect to investigative action taken on complaints, during the immediately preceding three-month period."
 
 Subsecs. (g) to (k). Pub. L. 103–156, §9(2), added subsecs. (g) to (k).
 
-**1991**—Subsec. (a). Pub. L. 102–237 substituted “Administrator” for “Administrtor” at end of second sentence.
+**1991**—Subsec. (a). Pub. L. 102–237 substituted "Administrator" for "Administrtor" at end of second sentence.
 
 **1977**—Subsec. (a). Pub. L. 95–113, §1604(k)(1), rearranged existing provisions and inserted references to the installation of handling and weighing equipment and to warehouses and other grain storage or handling facilities.
 
-Subsec. (b). Pub. L. 95–113, §1606(i), substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”.
+Subsec. (b). Pub. L. 95–113, §1606(i), substituted "Committee on Agriculture, Nutrition, and Forestry" for "Committee on Agriculture and Forestry".
 
-Subsec. (f). Pub. L. 95–113, §1604(k)(2), struck out “additional” before “inspection and weighing requirements”.
+Subsec. (f). Pub. L. 95–113, §1604(k)(2), struck out "additional" before "inspection and weighing requirements".
 
-**1976**—Subsec. (a). Pub. L. 94–582 substituted authorizations of “Administrator” for authorizations of “Secretary”, “official agency” for “official inspection agency”, and “other person” for “any person” respecting reporting requirement, required reports from State agencies delegated authority under this chapter and from licensees, inserted items (1) to (3) relating to conditions for official inspection, authorized issuance of instructions, and struck out reference to section 86 of this title, including proceedings for refusal of official inspection service not required by section 77 of this title, as not being subject to administrative procedure provisions.
+**1976**—Subsec. (a). Pub. L. 94–582 substituted authorizations of "Administrator" for authorizations of "Secretary", "official agency" for "official inspection agency", and "other person" for "any person" respecting reporting requirement, required reports from State agencies delegated authority under this chapter and from licensees, inserted items (1) to (3) relating to conditions for official inspection, authorized issuance of instructions, and struck out reference to section 86 of this title, including proceedings for refusal of official inspection service not required by section 77 of this title, as not being subject to administrative procedure provisions.
 
 Subsecs. (b) to (f). Pub. L. 94–582 added subsecs. (b) to (f).
 

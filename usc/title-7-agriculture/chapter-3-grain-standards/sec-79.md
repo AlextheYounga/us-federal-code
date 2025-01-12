@@ -104,33 +104,33 @@ The Secretary is authorized to cause official inspection under this chapter to b
 
 Section as originally enacted was composed of part of section 7 of part B of act Aug. 11, 1916. Other provisions of section 7 were classified to former sections 80 to 83 of this title.
 
-In subsec. (c), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 471 et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments ####
 
-**2005**—Subsec. (j)(4). Pub. L. 109–83 substituted “2015” for “2005”.
+**2005**—Subsec. (j)(4). Pub. L. 109–83 substituted "2015" for "2005".
 
-**2004**—Subsec. (e)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+**2004**—Subsec. (e)(3). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-**2000**—Subsec. (f)(2). Pub. L. 106–472, §102(a), added heading and text of par. (2) and struck out former par. (2) which read as follows: “Not more than one official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter shall be operative at one time for any geographic area as determined by the Secretary to effectuate the objectives stated in section 74 of this title, except that the Secretary may conduct pilot programs to allow more than 1 official agency to carry out inspections within a single geographical area without undermining the policy stated in section 74 of this title.”
+**2000**—Subsec. (f)(2). Pub. L. 106–472, §102(a), added heading and text of par. (2) and struck out former par. (2) which read as follows: "Not more than one official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter shall be operative at one time for any geographic area as determined by the Secretary to effectuate the objectives stated in section 74 of this title, except that the Secretary may conduct pilot programs to allow more than 1 official agency to carry out inspections within a single geographical area without undermining the policy stated in section 74 of this title."
 
-Subsec. (j)(4). Pub. L. 106–472, §103(a), substituted “2005” for “2000” in first sentence.
+Subsec. (j)(4). Pub. L. 106–472, §103(a), substituted "2005" for "2000" in first sentence.
 
-**1994**—Pub. L. 103–354 substituted “supervision by the Secretary of the Secretary's field office personnel” for “supervision of Service personnel of its field office personnel” in first sentence of subsec. (j)(2) and substituted “Secretary” for “Administrator” and “Service” wherever appearing.
+**1994**—Pub. L. 103–354 substituted "supervision by the Secretary of the Secretary's field office personnel" for "supervision of Service personnel of its field office personnel" in first sentence of subsec. (j)(2) and substituted "Secretary" for "Administrator" and "Service" wherever appearing.
 
-**1993**—Pub. L. 103–156, §12(d), which directed amendment of “Section 7”, without specifying the name of the Act being amended, was executed to this section, which is section 7 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+**1993**—Pub. L. 103–156, §12(d), which directed amendment of "Section 7", without specifying the name of the Act being amended, was executed to this section, which is section 7 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Subsec. (a). Pub. L. 103–156, §12(d)(1), substituted “regulations as the Administrator” for “regulations as he”.
+Subsec. (a). Pub. L. 103–156, §12(d)(1), substituted "regulations as the Administrator" for "regulations as he".
 
-Subsec. (b). Pub. L. 103–156, §12(d)(2), substituted “regulations as the Administrator” for “regulations as he” and “the judgment of the Administrator” for “his judgment”.
+Subsec. (b). Pub. L. 103–156, §12(d)(2), substituted "regulations as the Administrator" for "regulations as he" and "the judgment of the Administrator" for "his judgment".
 
-Subsec. (e)(2). Pub. L. 103–156, §12(d)(3), substituted “oversight as the Administrator” for “oversight as he” and “the discretion of the Administrator” for “his discretion”.
+Subsec. (e)(2). Pub. L. 103–156, §12(d)(3), substituted "oversight as the Administrator" for "oversight as he" and "the discretion of the Administrator" for "his discretion".
 
-Subsec. (f)(1)(A)(vi). Pub. L. 103–156, §4(a)(1), substituted “of the State” for “or other agricultural programs operated by the State”.
+Subsec. (f)(1)(A)(vi). Pub. L. 103–156, §4(a)(1), substituted "of the State" for "or other agricultural programs operated by the State".
 
-Subsec. (f)(2). Pub. L. 103–156, §5(a), inserted before period at end “, except that the Administrator may conduct pilot programs to allow more than 1 official agency to carry out inspections within a single geographical area without undermining the policy stated in section 74 of this title”.
+Subsec. (f)(2). Pub. L. 103–156, §5(a), inserted before period at end ", except that the Administrator may conduct pilot programs to allow more than 1 official agency to carry out inspections within a single geographical area without undermining the policy stated in section 74 of this title".
 
-Subsec. (i). Pub. L. 103–156, §4(a)(2), inserted before period at end “or as otherwise provided by agreement with the Canadian Government”.
+Subsec. (i). Pub. L. 103–156, §4(a)(2), inserted before period at end "or as otherwise provided by agreement with the Canadian Government".
 
 Subsec. (j)(4). Pub. L. 103–156, §14(a), added par. (4).
 
@@ -146,29 +146,29 @@ Subsec. (j). Pub. L. 97–35 temporarily designated existing provisions as par. 
 
 Subsec. (e). Pub. L. 95–113, §1604(d)(1), designated as par. (4) provisions, formerly forming a part of par. (2), authorizing the Administrator to provide that grain loaded at an interior point in the United States into a rail car, barge, or other container as the final carrier in which it is to be transported from the United States be inspected in the manner provided in this subsection or subsec. (f) of this section, as the Administrator determines best meets the objectives of this chapter.
 
-Subsec. (f)(2). Pub. L. 95–113, §1604(d)(2), substituted “official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter” for “official agency for carrying out the provisions of this chapter”, struck out “, but this paragraph shall not be applicable to prevent any inspection agency from operating in any area in which it was operative on August 15, 1968” after “section 74 of this title”, and redesignated other existing provisions as pars. (3) and (4).
+Subsec. (f)(2). Pub. L. 95–113, §1604(d)(2), substituted "official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter" for "official agency for carrying out the provisions of this chapter", struck out ", but this paragraph shall not be applicable to prevent any inspection agency from operating in any area in which it was operative on August 15, 1968" after "section 74 of this title", and redesignated other existing provisions as pars. (3) and (4).
 
-Subsec. (f)(3). Pub. L. 95–113, §1604(d)(2)(B), (C), redesignated a portion of existing par. (2) as (3) and substituted “Except as authorized by the Administrator, no” for “No”.
+Subsec. (f)(3). Pub. L. 95–113, §1604(d)(2)(B), (C), redesignated a portion of existing par. (2) as (3) and substituted "Except as authorized by the Administrator, no" for "No".
 
 Subsec. (f)(4). Pub. L. 95–113, §1604(d)(2)(D), redesignated a portion of existing par. (2) as (4).
 
-Subsec. (g)(1). Pub. L. 95–113, §1604(d)(3), substituted “prescribed in subsection (f)” for “prescribed in subsections (e) and (f)”.
+Subsec. (g)(1). Pub. L. 95–113, §1604(d)(3), substituted "prescribed in subsection (f)" for "prescribed in subsections (e) and (f)".
 
 Subsec. (i). Pub. L. 95–113, §1604(d)(4), inserted provision that all or specified functions of the inspections be performed by official inspection personnel employed by the Service or, except for appeals, by persons operating under a contract with the Service.
 
 Subsec. (j). Pub. L. 95–113, §1602(a), revised provisions relating to fees so as to remove requirement that field supervision of inspection be supported by fees.
 
-**1976**—Subsec. (a). Pub. L. 94–582, §8(1), formerly §8(a)(1), as renumbered by Pub. L. 106–472, §110(a)(1), substituted “Administrator” for “Secretary”.
+**1976**—Subsec. (a). Pub. L. 94–582, §8(1), formerly §8(a)(1), as renumbered by Pub. L. 106–472, §110(a)(1), substituted "Administrator" for "Secretary".
 
-Subsec. (b). Pub. L. 94–582, §8(1), (2), formerly §8(a)(1), (2), as renumbered by Pub. L. 106–472, §110(a)(1), substituted “Administrator” for “Secretary” in two places and struck out from first sentence “or with respect to United States grain in Canadian ports” after “within the United States”.
+Subsec. (b). Pub. L. 94–582, §8(1), (2), formerly §8(a)(1), (2), as renumbered by Pub. L. 106–472, §110(a)(1), substituted "Administrator" for "Secretary" in two places and struck out from first sentence "or with respect to United States grain in Canadian ports" after "within the United States".
 
-Subsec. (c). Pub. L. 94–582, §8(1), (3), formerly §8(a)(1), (3), as renumbered by Pub. L. 106–472, §110(a)(1), substituted “Administrator” for “Secretary” in two places; and substituted “Service” for “Department of Agriculture” and “cancellation and surrender” for “cancellation” and required regulation provision for use of standard forms for official certificates, respectively.
+Subsec. (c). Pub. L. 94–582, §8(1), (3), formerly §8(a)(1), (3), as renumbered by Pub. L. 106–472, §110(a)(1), substituted "Administrator" for "Secretary" in two places; and substituted "Service" for "Department of Agriculture" and "cancellation and surrender" for "cancellation" and required regulation provision for use of standard forms for official certificates, respectively.
 
-Subsec. (d). Pub. L. 94–582, §8(4), formerly §8(a)(4), as renumbered by Pub. L. 106–472, §110(a)(1), substituted “Official certificates setting out the results of official inspection” for “Certificates”.
+Subsec. (d). Pub. L. 94–582, §8(4), formerly §8(a)(4), as renumbered by Pub. L. 106–472, §110(a)(1), substituted "Official certificates setting out the results of official inspection" for "Certificates".
 
 Subsec. (e). Pub. L. 94–582, §8(5), formerly §8(a)(5), as renumbered by Pub. L. 106–472, §110(a)(1), added subsec. (e) and struck out former subsec. (e) which authorized charging and collection of reasonable fees to cover cost of official inspection and to cover costs of Department of Agriculture incident to performance of appeal and Canadian port inspection services for which fees are collected, including supervisory and administrative costs, and for deposit of fees and proceeds from sale of samples obtained for purposes of official inspection which become property of the United States into a fund to be available without fiscal year limitation for expenses of the Department of Agriculture incident to providing official inspection services. Fee provisions are now covered in subsec. (j)(2) of this section.
 
-Subsec. (f). Pub. L. 94–582, §8(5), formerly §8(a)(5), as renumbered by Pub. L. 106–472, §110(a)(1), added par. (1) and second and third sentences of par. (2), and designated existing provisions as par. (2), substituting “one official agency for carrying out the provisions of this chapter shall be operative at one time for any geographic area as determined by the Administrator to effectuate the objectives stated in section 74 of this title” for “one inspection agency for carrying out the provisions of this section shall be operative at one time for any one city, town, or other area”.
+Subsec. (f). Pub. L. 94–582, §8(5), formerly §8(a)(5), as renumbered by Pub. L. 106–472, §110(a)(1), added par. (1) and second and third sentences of par. (2), and designated existing provisions as par. (2), substituting "one official agency for carrying out the provisions of this chapter shall be operative at one time for any geographic area as determined by the Administrator to effectuate the objectives stated in section 74 of this title" for "one inspection agency for carrying out the provisions of this section shall be operative at one time for any one city, town, or other area".
 
 Subsecs. (g) to (j). Pub. L. 94–582, §8(5), formerly §8(a)(5), as renumbered by Pub. L. 106–472, §110(a)(1), added subsecs. (g) to (j).
 
@@ -176,11 +176,11 @@ Subsecs. (g) to (j). Pub. L. 94–582, §8(5), formerly §8(a)(5), as renumbered
 
 #### Effective Date of 2005 Amendment ####
 
-Pub. L. 109–83, §1(b), Sept. 30, 2005, 119 Stat. 2053, provided that: “The amendments made by subsection (a) [amending this section and sections 79a, 79d, 87h, and 87j of this title] take effect on September 30, 2005.”
+Pub. L. 109–83, §1(b), Sept. 30, 2005, 119 Stat. 2053, provided that: "The amendments made by subsection (a) [amending this section and sections 79a, 79d, 87h, and 87j of this title] take effect on September 30, 2005."
 
 #### Effective Date of 2000 Amendment ####
 
-Pub. L. 106–472, title I, §111, Nov. 9, 2000, 114 Stat. 2061, provided that: “The amendments made by sections 103, 105, 108, and 109 [amending this section and sections 79a, 79d, 87h, and 87j of this title] shall take effect as if enacted on September 30, 2000.”
+Pub. L. 106–472, title I, §111, Nov. 9, 2000, 114 Stat. 2061, provided that: "The amendments made by sections 103, 105, 108, and 109 [amending this section and sections 79a, 79d, 87h, and 87j of this title] shall take effect as if enacted on September 30, 2000."
 
 #### Effective and Termination Dates of 1988 Amendment ####
 
@@ -192,7 +192,7 @@ Pub. L. 98–469, §2, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment
 
 #### Effective and Termination Dates of 1981 Amendment ####
 
-Pub. L. 97–98, title XI, §1113(b), Dec. 22, 1981, 95 Stat. 1268, provided that: “The provisions of this section [amending this section] shall become effective one hundred and eighty days after enactment of this Act [Dec. 22, 1981].”
+Pub. L. 97–98, title XI, §1113(b), Dec. 22, 1981, 95 Stat. 1268, provided that: "The provisions of this section [amending this section] shall become effective one hundred and eighty days after enactment of this Act [Dec. 22, 1981]."
 
 Pub. L. 97–35, title I, §155, Aug. 13, 1981, 95 Stat. 371, as amended by Pub. L. 98–469, §1, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
 
@@ -212,4 +212,4 @@ For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90
 
 Pub. L. 94–582, §8(b), Oct. 21, 1976, 90 Stat. 2874, as amended by Pub. L. 95–113, title XVI, §§1605(a), 1607(a), Sept. 29, 1977, 91 Stat. 1029, 1031, which directed the Administrator of the Federal Grain Inspection Service, the Director of the Office of Investigation of the United States Department of Agriculture, and the Comptroller General of the United States to severally conduct investigations into and study grain inspection and weighing in the interior of the United States, and required the Administrator and Director to submit reports to Congress not later than 30 months after Oct. 21, 1976, and the Comptroller General to submit a report not later than three years after Oct. 21, 1976, was repealed by Pub. L. 106–472, title I, §110(a)(2), Nov. 9, 2000, 114 Stat. 2060.
 
-[<sup>1</sup> So in original. Probably should be “the Secretary's”.](#79_1)
+[<sup>1</sup> So in original. Probably should be "the Secretary's".](#79_1)

@@ -20,7 +20,7 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 #### Amendments ####
 
-**1975**—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” in two places.
+**1975**—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office" in two places.
 
 #### Effective Date of 1975 Amendment ####
 

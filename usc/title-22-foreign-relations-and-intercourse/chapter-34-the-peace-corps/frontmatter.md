@@ -58,7 +58,7 @@ Sec.
 
 2516. Use of foreign currencies.
 
-2517. Activities promoting Americans’ understanding of other peoples.
+2517. Activities promoting Americans' understanding of other peoples.
 
 2518. Seal and name.
 

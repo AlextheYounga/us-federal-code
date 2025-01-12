@@ -6,7 +6,7 @@ Sec.
 
 10502. Shipping articles agreements.
 
-10503. Exhibiting merchant mariners’ documents.
+10503. Exhibiting merchant mariners' documents.
 
 10504. Wages.
 
@@ -22,4 +22,4 @@ Sec.
 
 #### Amendments ####
 
-**1993**—Pub. L. 103–206, title IV, §415(b), Dec. 20, 1993, 107 Stat. 2438, struck out item 10507 “Duties of shipping commissioners”.
+**1993**—Pub. L. 103–206, title IV, §415(b), Dec. 20, 1993, 107 Stat. 2438, struck out item 10507 "Duties of shipping commissioners".

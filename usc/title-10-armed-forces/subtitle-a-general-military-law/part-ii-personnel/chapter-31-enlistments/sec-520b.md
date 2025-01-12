@@ -130,8 +130,8 @@ Feb. 12, 1925, ch. 225, title I, 43 Stat. 900.
 
 #### Amendments ####
 
-**1985**—Pub. L. 99–145 substituted “enlistment” for “enlistments”.
+**1985**—Pub. L. 99–145 substituted "enlistment" for "enlistments".
 
 #### Effective Date ####
 
-Pub. L. 98–525, title XIV, §1404, Oct. 19, 1984, 98 Stat. 2621, provided that: “The amendments made by sections 1401 [enacting this section and sections 956, 979 to 981, 1047 to 1050, 1074b [now 1074c], 1093, 1589, 2007 to 2009, 2484, 2638, and 2639 of this title, amending sections 1074, 1077, 1079, 2104, and 7204 of this title, and repealing section 7208 of this title], 1402 [enacting section 306a of Title 37, Pay and Allowances of the Uniformed Services, and amending sections 206 and 404 of Title 37], and 1403 [amending provisions set out as a note under section 138 of this title and repealing provisions set out as notes under sections 138 and 2102 of this title] take effect on October 1, 1985.”
+Pub. L. 98–525, title XIV, §1404, Oct. 19, 1984, 98 Stat. 2621, provided that: "The amendments made by sections 1401 [enacting this section and sections 956, 979 to 981, 1047 to 1050, 1074b [now 1074c], 1093, 1589, 2007 to 2009, 2484, 2638, and 2639 of this title, amending sections 1074, 1077, 1079, 2104, and 7204 of this title, and repealing section 7208 of this title], 1402 [enacting section 306a of Title 37, Pay and Allowances of the Uniformed Services, and amending sections 206 and 404 of Title 37], and 1403 [amending provisions set out as a note under section 138 of this title and repealing provisions set out as notes under sections 138 and 2102 of this title] take effect on October 1, 1985."

@@ -6,7 +6,7 @@
 
 #### (A) In general ####
 
-A credit rating agency that elects to be treated as a nationally recognized statistical rating organization for purposes of this chapter (in this section referred to as the “applicant”), shall furnish to the Commission an application for registration, in such form as the Commission shall require, by rule or regulation issued in accordance with subsection (n), and containing the information described in subparagraph (B).
+A credit rating agency that elects to be treated as a nationally recognized statistical rating organization for purposes of this chapter (in this section referred to as the "applicant"), shall furnish to the Commission an application for registration, in such form as the Commission shall require, by rule or regulation issued in accordance with subsection (n), and containing the information described in subparagraph (B).
 
 #### (B) Required information ####
 
@@ -386,7 +386,7 @@ On and after the effective date of this section—
 
 #### (3) Notice to other agencies ####
 
-Not later than 30 days after September 29, 2006, the Commission shall give notice of the actions undertaken pursuant to this section to each Federal agency which employs in its rules and regulations the term “nationally recognized statistical rating organization” (as that term is used under Commission rule 15c3–1 (17 C.F.R. 240.15c3–1), as in effect on September 29, 2006).
+Not later than 30 days after September 29, 2006, the Commission shall give notice of the actions undertaken pursuant to this section to each Federal agency which employs in its rules and regulations the term "nationally recognized statistical rating organization" (as that term is used under Commission rule 15c3–1 (17 C.F.R. 240.15c3–1), as in effect on September 29, 2006).
 
 #### (m) Accountability ####
 
@@ -412,7 +412,7 @@ Such rules and regulations as are required by this section or are otherwise nece
 
 Not later than 270 days after September 29, 2006, the Commission shall—
 
-(A) review its existing rules and regulations which employ the term “nationally recognized statistical rating organization” or “NRSRO”; and
+(A) review its existing rules and regulations which employ the term "nationally recognized statistical rating organization" or "NRSRO"; and
 
 (B) amend or revise such rules and regulations in accordance with the purposes of this section, as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
@@ -432,7 +432,7 @@ Nothing in this subsection prohibits the securities commission (or any agency or
 
 #### (A) Office established ####
 
-The Commission shall establish within the Commission an Office of Credit Ratings (referred to in this subsection as the “Office”) to administer the rules of the Commission—
+The Commission shall establish within the Commission an Office of Credit Ratings (referred to in this subsection as the "Office") to administer the rules of the Commission—
 
 (i) with respect to the practices of nationally recognized statistical rating organizations in determining ratings, for the protection of users of credit ratings and in the public interest;
 
@@ -712,31 +712,31 @@ In producing a credit rating, a nationally recognized statistical rating organiz
 
 #### References in Text ####
 
-This chapter, referred to in subsecs. (a)(1)(A), (B)(iii), (c), (e)(2), (f)(2), (3), (g), and (m)(1), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a)(1)(A), (B)(iii), (c), (e)(2), (f)(2), (3), (g), and (m)(1), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 The Securities Exchange Act of 1934, referred to in subsec. (f)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to this chapter (§78a et seq.). For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 #### Amendments ####
 
-**2010**—Subsec. (b)(1)(A). Pub. L. 111–203, §932(a)(1)(A), substituted “filed” for “furnished” and “filing” for “furnishing”.
+**2010**—Subsec. (b)(1)(A). Pub. L. 111–203, §932(a)(1)(A), substituted "filed" for "furnished" and "filing" for "furnishing".
 
-Subsec. (b)(1)(B). Pub. L. 111–203, §932(a)(1)(B), substituted “filing” for “furnishing”.
+Subsec. (b)(1)(B). Pub. L. 111–203, §932(a)(1)(B), substituted "filing" for "furnishing".
 
-Subsec. (b)(2). Pub. L. 111–203, §932(a)(1)(C), substituted “file with” for “furnish to” in introductory provisions.
+Subsec. (b)(2). Pub. L. 111–203, §932(a)(1)(C), substituted "file with" for "furnish to" in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 111–203, §932(a)(2)(A), inserted “any other provision of this section, or” after “Notwithstanding” and inserted at end “Nothing in this paragraph may be construed to afford a defense against any action or proceeding brought by the Commission to enforce the antifraud provisions of the securities laws.”
+Subsec. (c)(2). Pub. L. 111–203, §932(a)(2)(A), inserted "any other provision of this section, or" after "Notwithstanding" and inserted at end "Nothing in this paragraph may be construed to afford a defense against any action or proceeding brought by the Commission to enforce the antifraud provisions of the securities laws."
 
 Subsec. (c)(3). Pub. L. 111–203, §932(a)(2)(B), added par. (3).
 
-Subsec. (d). Pub. L. 111–203, §932(a)(3), designated existing provisions as par. (1), inserted heading, inserted “, or with respect to any person who is associated with, who is seeking to become associated with, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a nationally recognized statistical rating organization, the Commission, by order, shall censure, place limitations on the activities or functions of such person, suspend for a period not exceeding 1 year, or bar such person from being associated with a nationally recognized statistical rating organization,” before “if the Commission finds” and “bar” before “or revocation is necessary”, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of subpar. (B), in subpar. (B), substituted “filed with” for “furnished to” in introductory provisions, in subpar. (D), substituted “file” for “furnish”, and added subpar. (F) and par. (2).
+Subsec. (d). Pub. L. 111–203, §932(a)(3), designated existing provisions as par. (1), inserted heading, inserted ", or with respect to any person who is associated with, who is seeking to become associated with, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a nationally recognized statistical rating organization, the Commission, by order, shall censure, place limitations on the activities or functions of such person, suspend for a period not exceeding 1 year, or bar such person from being associated with a nationally recognized statistical rating organization," before "if the Commission finds" and "bar" before "or revocation is necessary", redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of subpar. (B), in subpar. (B), substituted "filed with" for "furnished to" in introductory provisions, in subpar. (D), substituted "file" for "furnish", and added subpar. (F) and par. (2).
 
 Subsec. (h)(3) to (5). Pub. L. 111–203, §932(a)(4), added pars. (3) to (5).
 
 Subsec. (j). Pub. L. 111–203, §932(a)(5), designated existing provisions as par. (1), inserted heading, and added pars. (2) to (5).
 
-Subsec. (k). Pub. L. 111–203, §932(a)(6), substituted “file with” for “furnish to”.
+Subsec. (k). Pub. L. 111–203, §932(a)(6), substituted "file with" for "furnish to".
 
-Subsec. (l)(2)(A)(i). Pub. L. 111–203, §932(a)(7), substituted “filed” for “furnished”.
+Subsec. (l)(2)(A)(i). Pub. L. 111–203, §932(a)(7), substituted "filed" for "furnished".
 
 Subsec. (m). Pub. L. 111–203, §933(a), amended subsec. (m) generally. Prior to amendment, subsec. (m) provided that registration did not constitute a waiver of rights, privileges, or defenses and that this section could not be construed as creating any private right of action.
 
@@ -752,15 +752,15 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 #### Regulations ####
 
-Pub. L. 111–203, title IX, §937, July 21, 2010, 124 Stat. 1885, provided that: “Unless otherwise specifically provided in this subtitle [subtitle C (§§931–939H) of title IX of Pub. L. 111–203, enacting sections 78o–8 and 78o–9 of this title, amending this section and sections 78c, 78u–4, and 80a–6 of this title, sections 24a, 1817, 1831e, and 4519 of Title 12, Banks and Banking, and section 286hh of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under this section, sections 78m and 78o–9 of this title, and section 24a of Title 12], the [Securities and Exchange] Commission shall issue final regulations, as required by this subtitle and the amendments made by this subtitle, not later than 1 year after the date of enactment of this Act [July 21, 2010].”
+Pub. L. 111–203, title IX, §937, July 21, 2010, 124 Stat. 1885, provided that: "Unless otherwise specifically provided in this subtitle [subtitle C (§§931–939H) of title IX of Pub. L. 111–203, enacting sections 78o–8 and 78o–9 of this title, amending this section and sections 78c, 78u–4, and 80a–6 of this title, sections 24a, 1817, 1831e, and 4519 of Title 12, Banks and Banking, and section 286hh of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under this section, sections 78m and 78o–9 of this title, and section 24a of Title 12], the [Securities and Exchange] Commission shall issue final regulations, as required by this subtitle and the amendments made by this subtitle, not later than 1 year after the date of enactment of this Act [July 21, 2010]."
 
 #### Qualification Standards for Credit Rating Analysts ####
 
-Pub. L. 111–203, title IX, §936, July 21, 2010, 124 Stat. 1884, provided that: “Not later than 1 year after the date of enactment of this Act [July 21, 2010], the Commission shall issue rules that are reasonably designed to ensure that any person employed by a nationally recognized statistical rating organization to perform credit ratings—
+Pub. L. 111–203, title IX, §936, July 21, 2010, 124 Stat. 1884, provided that: "Not later than 1 year after the date of enactment of this Act [July 21, 2010], the Commission shall issue rules that are reasonably designed to ensure that any person employed by a nationally recognized statistical rating organization to perform credit ratings—
 
-“(1) meets standards of training, experience, and competence necessary to produce accurate ratings for the categories of issuers whose securities the person rates; and
+"(1) meets standards of training, experience, and competence necessary to produce accurate ratings for the categories of issuers whose securities the person rates; and
 
-“(2) is tested for knowledge of the credit rating process.”
+"(2) is tested for knowledge of the credit rating process."
 
 [For definitions of terms used in section 936 of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.]
 
@@ -768,80 +768,80 @@ Pub. L. 111–203, title IX, §936, July 21, 2010, 124 Stat. 1884, provided that
 
 Pub. L. 111–203, title IX, §939A, July 21, 2010, 124 Stat. 1887, provided that:
 
-“(a) Agency Review.—Not later than 1 year after the date of the enactment of this subtitle [July 21, 2010], each Federal agency shall, to the extent applicable, review—
+"(a) Agency Review.—Not later than 1 year after the date of the enactment of this subtitle [July 21, 2010], each Federal agency shall, to the extent applicable, review—
 
-“(1) any regulation issued by such agency that requires the use of an assessment of the credit-worthiness of a security or money market instrument; and
+"(1) any regulation issued by such agency that requires the use of an assessment of the credit-worthiness of a security or money market instrument; and
 
-“(2) any references to or requirements in such regulations regarding credit ratings.
+"(2) any references to or requirements in such regulations regarding credit ratings.
 
-“(b) Modifications Required.—Each such agency shall modify any such regulations identified by the review conducted under subsection (a) to remove any reference to or requirement of reliance on credit ratings and to substitute in such regulations such standard of credit-worthiness as each respective agency shall determine as appropriate for such regulations. In making such determination, such agencies shall seek to establish, to the extent feasible, uniform standards of credit-worthiness for use by each such agency, taking into account the entities regulated by each such agency and the purposes for which such entities would rely on such standards of credit-worthiness.
+"(b) Modifications Required.—Each such agency shall modify any such regulations identified by the review conducted under subsection (a) to remove any reference to or requirement of reliance on credit ratings and to substitute in such regulations such standard of credit-worthiness as each respective agency shall determine as appropriate for such regulations. In making such determination, such agencies shall seek to establish, to the extent feasible, uniform standards of credit-worthiness for use by each such agency, taking into account the entities regulated by each such agency and the purposes for which such entities would rely on such standards of credit-worthiness.
 
-“(c) Report.—Upon conclusion of the review required under subsection (a), each Federal agency shall transmit a report to Congress containing a description of any modification of any regulation such agency made pursuant to subsection (b).”
+"(c) Report.—Upon conclusion of the review required under subsection (a), each Federal agency shall transmit a report to Congress containing a description of any modification of any regulation such agency made pursuant to subsection (b)."
 
-[For definition of “security” as used in section 939A of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.]
+[For definition of "security" as used in section 939A of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.]
 
 #### Representations and Warranties in Asset-backed Offerings ####
 
-Pub. L. 111–203, title IX, §943, July 21, 2010, 124 Stat. 1897, provided that: “Not later than 180 days after the date of enactment of this Act [July 21, 2010], the Securities and Exchange Commission shall prescribe regulations on the use of representations and warranties in the market for asset-backed securities (as that term is defined in section 3(a)(77) [now 3(a)(79)] of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(79)], as added by this subtitle) that—
+Pub. L. 111–203, title IX, §943, July 21, 2010, 124 Stat. 1897, provided that: "Not later than 180 days after the date of enactment of this Act [July 21, 2010], the Securities and Exchange Commission shall prescribe regulations on the use of representations and warranties in the market for asset-backed securities (as that term is defined in section 3(a)(77) [now 3(a)(79)] of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(79)], as added by this subtitle) that—
 
-“(1) require each national [sic] recognized statistical rating organization to include in any report accompanying a credit rating a description of—
+"(1) require each national [sic] recognized statistical rating organization to include in any report accompanying a credit rating a description of—
 
-“(A) the representations, warranties, and enforcement mechanisms available to investors; and
+"(A) the representations, warranties, and enforcement mechanisms available to investors; and
 
-“(B) how they differ from the representations, warranties, and enforcement mechanisms in issuances of similar securities; and
+"(B) how they differ from the representations, warranties, and enforcement mechanisms in issuances of similar securities; and
 
-“(2) require any securitizer (as that term is defined in section 15G(a) of the Securities Exchange Act of 1934 [15 U.S.C. 78o–11(a)], as added by this subtitle) to disclose fulfilled and unfulfilled repurchase requests across all trusts aggregated by the securitizer, so that investors may identify asset originators with clear underwriting deficiencies.”
+"(2) require any securitizer (as that term is defined in section 15G(a) of the Securities Exchange Act of 1934 [15 U.S.C. 78o–11(a)], as added by this subtitle) to disclose fulfilled and unfulfilled repurchase requests across all trusts aggregated by the securitizer, so that investors may identify asset originators with clear underwriting deficiencies."
 
 [For definitions of terms used in section 943 of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.]
 
 #### Findings ####
 
-Pub. L. 111–203, title IX, §931, July 21, 2010, 124 Stat. 1872, provided that: “Congress finds the following:
+Pub. L. 111–203, title IX, §931, July 21, 2010, 124 Stat. 1872, provided that: "Congress finds the following:
 
-“(1) Because of the systemic importance of credit ratings and the reliance placed on credit ratings by individual and institutional investors and financial regulators, the activities and performances of credit rating agencies, including nationally recognized statistical rating organizations, are matters of national public interest, as credit rating agencies are central to capital formation, investor confidence, and the efficient performance of the United States economy.
+"(1) Because of the systemic importance of credit ratings and the reliance placed on credit ratings by individual and institutional investors and financial regulators, the activities and performances of credit rating agencies, including nationally recognized statistical rating organizations, are matters of national public interest, as credit rating agencies are central to capital formation, investor confidence, and the efficient performance of the United States economy.
 
-“(2) Credit rating agencies, including nationally recognized statistical rating organizations, play a critical ‘gatekeeper’ role in the debt market that is functionally similar to that of securities analysts, who evaluate the quality of securities in the equity market, and auditors, who review the financial statements of firms. Such role justifies a similar level of public oversight and accountability.
+"(2) Credit rating agencies, including nationally recognized statistical rating organizations, play a critical 'gatekeeper' role in the debt market that is functionally similar to that of securities analysts, who evaluate the quality of securities in the equity market, and auditors, who review the financial statements of firms. Such role justifies a similar level of public oversight and accountability.
 
-“(3) Because credit rating agencies perform evaluative and analytical services on behalf of clients, much as other financial ‘gatekeepers’ do, the activities of credit rating agencies are fundamentally commercial in character and should be subject to the same standards of liability and oversight as apply to auditors, securities analysts, and investment bankers.
+"(3) Because credit rating agencies perform evaluative and analytical services on behalf of clients, much as other financial 'gatekeepers' do, the activities of credit rating agencies are fundamentally commercial in character and should be subject to the same standards of liability and oversight as apply to auditors, securities analysts, and investment bankers.
 
-“(4) In certain activities, particularly in advising arrangers of structured financial products on potential ratings of such products, credit rating agencies face conflicts of interest that need to be carefully monitored and that therefore should be addressed explicitly in legislation in order to give clearer authority to the Securities and Exchange Commission.
+"(4) In certain activities, particularly in advising arrangers of structured financial products on potential ratings of such products, credit rating agencies face conflicts of interest that need to be carefully monitored and that therefore should be addressed explicitly in legislation in order to give clearer authority to the Securities and Exchange Commission.
 
-“(5) In the recent financial crisis, the ratings on structured financial products have proven to be inaccurate. This inaccuracy contributed significantly to the mismanagement of risks by financial institutions and investors, which in turn adversely impacted the health of the economy in the United States and around the world. Such inaccuracy necessitates increased accountability on the part of credit rating agencies.”
+"(5) In the recent financial crisis, the ratings on structured financial products have proven to be inaccurate. This inaccuracy contributed significantly to the mismanagement of risks by financial institutions and investors, which in turn adversely impacted the health of the economy in the United States and around the world. Such inaccuracy necessitates increased accountability on the part of credit rating agencies."
 
 [For definitions of terms used in section 931 of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.]
 
-Pub. L. 109–291, §2, Sept. 29, 2006, 120 Stat. 1327, provided that: “Upon the basis of facts disclosed by the record and report of the Securities and Exchange Commission made pursuant to section 702 of the Sarbanes-Oxley Act of 2002 [Pub. L. 107–204] (116 Stat. 797), hearings before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives during the 108th and 109th Congresses, comment letters to the concept releases and proposed rules of the Commission, and facts otherwise disclosed and ascertained, Congress finds that credit rating agencies are of national importance, in that, among other things—
+Pub. L. 109–291, §2, Sept. 29, 2006, 120 Stat. 1327, provided that: "Upon the basis of facts disclosed by the record and report of the Securities and Exchange Commission made pursuant to section 702 of the Sarbanes-Oxley Act of 2002 [Pub. L. 107–204] (116 Stat. 797), hearings before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives during the 108th and 109th Congresses, comment letters to the concept releases and proposed rules of the Commission, and facts otherwise disclosed and ascertained, Congress finds that credit rating agencies are of national importance, in that, among other things—
 
-“(1) their ratings, publications, writings, analyses, and reports are furnished and distributed, and their contracts, subscription agreements, and other arrangements with clients are negotiated and performed, by the use of the mails and other means and instrumentalities of interstate commerce;
+"(1) their ratings, publications, writings, analyses, and reports are furnished and distributed, and their contracts, subscription agreements, and other arrangements with clients are negotiated and performed, by the use of the mails and other means and instrumentalities of interstate commerce;
 
-“(2) their ratings, publications, writings, analyses, and reports customarily relate to the purchase and sale of securities traded on securities exchanges and in interstate over-the-counter markets, securities issued by companies engaged in business in interstate commerce, and securities issued by national banks and member banks of the Federal Reserve System;
+"(2) their ratings, publications, writings, analyses, and reports customarily relate to the purchase and sale of securities traded on securities exchanges and in interstate over-the-counter markets, securities issued by companies engaged in business in interstate commerce, and securities issued by national banks and member banks of the Federal Reserve System;
 
-“(3) the foregoing transactions occur in such volume as substantially to affect interstate commerce, the securities markets, the national banking system, and the national economy;
+"(3) the foregoing transactions occur in such volume as substantially to affect interstate commerce, the securities markets, the national banking system, and the national economy;
 
-“(4) the oversight of such credit rating agencies serves the compelling interest of investor protection;
+"(4) the oversight of such credit rating agencies serves the compelling interest of investor protection;
 
-“(5) the 2 largest credit rating agencies serve the vast majority of the market, and additional competition is in the public interest; and
+"(5) the 2 largest credit rating agencies serve the vast majority of the market, and additional competition is in the public interest; and
 
-“(6) the Commission has indicated that it needs statutory authority to oversee the credit rating industry.”
+"(6) the Commission has indicated that it needs statutory authority to oversee the credit rating industry."
 
 #### Securities and Exchange Commission Annual Report ####
 
-Pub. L. 109–291, §6, Sept. 29, 2006, 120 Stat. 1338, provided that: “The Commission shall submit an annual report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that, with respect to the year to which the report relates—
+Pub. L. 109–291, §6, Sept. 29, 2006, 120 Stat. 1338, provided that: "The Commission shall submit an annual report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that, with respect to the year to which the report relates—
 
-“(1) identifies applicants for registration under section 15E of the Securities Exchange Act of 1934 [15 U.S.C. 78o–7], as added by this Act;
+"(1) identifies applicants for registration under section 15E of the Securities Exchange Act of 1934 [15 U.S.C. 78o–7], as added by this Act;
 
-“(2) specifies the number of and actions taken on such applications; and
+"(2) specifies the number of and actions taken on such applications; and
 
-“(3) specifies the views of the Commission on the state of competition, transparency, and conflicts of interest among nationally recognized statistical rating organizations.”
+"(3) specifies the views of the Commission on the state of competition, transparency, and conflicts of interest among nationally recognized statistical rating organizations."
 
 #### Definitions ####
 
-Pub. L. 109–291, §3(b), Sept. 29, 2006, 120 Stat. 1328, provided that: “As used in this Act [see Short Title of 2006 Amendment note set out under section 78a of this title]—
+Pub. L. 109–291, §3(b), Sept. 29, 2006, 120 Stat. 1328, provided that: "As used in this Act [see Short Title of 2006 Amendment note set out under section 78a of this title]—
 
-“(1) the term ‘Commission’ means the Securities and Exchange Commission; and
+"(1) the term 'Commission' means the Securities and Exchange Commission; and
 
-“(2) the term ‘nationally recognized statistical rating organization’ has the same meaning as in section 3(a)(62) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(62)], as added by this Act.”
+"(2) the term 'nationally recognized statistical rating organization' has the same meaning as in section 3(a)(62) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(62)], as added by this Act."
 
-[<sup>1</sup> So in original. The word “or” probably should appear.](#78o-7_1)
+[<sup>1</sup> So in original. The word "or" probably should appear.](#78o-7_1)
 
-[<sup>2</sup> So in original. The word “and” probably should appear.](#78o-7_2)
+[<sup>2</sup> So in original. The word "and" probably should appear.](#78o-7_2)

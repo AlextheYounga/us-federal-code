@@ -82,18 +82,18 @@ If the counterparty does not choose to require segregation of the funds or other
 
 #### (g) Bankruptcy ####
 
-A security-based swap, as defined in section 78c(a)(68) of this title shall be considered to be a security as such term is used in section 101(53A)(B) and subchapter III of title 11.<sup><a href="#78c-5_2_target" name="78c-5_2">2</a></sup> An account that holds a security-based swap, other than a portfolio margining account referred to in section 78o(c)(3)(C) of this title shall be considered to be a securities account, as that term is defined in section 741 of title 11. The definitions of the terms “purchase” and “sale” in section 78c(a)(13) and (14) of this title shall be applied to the terms “purchase” and “sale”, as used in section 741 of title 11. The term “customer”, as defined in section 741 of title 11, excludes any person, to the extent that such person has a claim based on any open repurchase agreement, open reverse repurchase agreement, stock borrowed agreement, non-cleared option, or non-cleared security-based swap except to the extent of any margin delivered to or by the customer with respect to which there is a customer protection requirement under section 78o(c)(3) of this title or a segregation requirement.
+A security-based swap, as defined in section 78c(a)(68) of this title shall be considered to be a security as such term is used in section 101(53A)(B) and subchapter III of title 11.<sup><a href="#78c-5_2_target" name="78c-5_2">2</a></sup> An account that holds a security-based swap, other than a portfolio margining account referred to in section 78o(c)(3)(C) of this title shall be considered to be a securities account, as that term is defined in section 741 of title 11. The definitions of the terms "purchase" and "sale" in section 78c(a)(13) and (14) of this title shall be applied to the terms "purchase" and "sale", as used in section 741 of title 11. The term "customer", as defined in section 741 of title 11, excludes any person, to the extent that such person has a claim based on any open repurchase agreement, open reverse repurchase agreement, stock borrowed agreement, non-cleared option, or non-cleared security-based swap except to the extent of any margin delivered to or by the customer with respect to which there is a customer protection requirement under section 78o(c)(3) of this title or a segregation requirement.
 
 (June 6, 1934, ch. 404, title I, §3E, as added Pub. L. 111–203, title VII, §763(d), July 21, 2010, 124 Stat. 1774.)
 
 #### References in Text ####
 
-This chapter, referred to in subsec. (a), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsec. (a), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 #### Effective Date ####
 
 Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 77b of this title.
 
-[<sup>1</sup> So in original. Probably should be “through”.](#78c-5_1)
+[<sup>1</sup> So in original. Probably should be "through".](#78c-5_1)
 
 [<sup>2</sup> So in original.](#78c-5_2)

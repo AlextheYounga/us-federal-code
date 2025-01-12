@@ -4,4 +4,4 @@ Section, Pub. L. 85–536, §2[33], as added Pub. L. 106–50, title II, §202(a
 
 #### Representation of Authorization ####
 
-Pub. L. 112–239, div. A, title XVI, §1699(b), Jan. 2, 2013, 126 Stat. 2092, provided that: “On and after the date of enactment of this Act [Jan. 2, 2013], the National Veterans Business Development Corporation and any successor thereto may not represent that the corporation is federally chartered or in any other manner authorized by the Federal Government.”
+Pub. L. 112–239, div. A, title XVI, §1699(b), Jan. 2, 2013, 126 Stat. 2092, provided that: "On and after the date of enactment of this Act [Jan. 2, 2013], the National Veterans Business Development Corporation and any successor thereto may not represent that the corporation is federally chartered or in any other manner authorized by the Federal Government."

@@ -18,4 +18,4 @@ No recommendations may be presented to the Secretary by the advisory council wit
 
 (Pub. L. 106–399, title I, §132, Oct. 30, 2000, 114 Stat. 1665.)
 
-[<sup>1</sup> So in original. Probably should be “advisory council”.](#460nnn-52_1)
+[<sup>1</sup> So in original. Probably should be "advisory council".](#460nnn-52_1)

@@ -89,14 +89,14 @@ Chap. Sec.
 
 #### Amendments ####
 
-**2009**—Pub. L. 111–84, div. A, title X, §1073(a)(33), Oct. 28, 2009, 123 Stat. 2474, substituted “Reserve Active-Status List” for “Reserve-Active Status List” in item for chapter 1409.
+**2009**—Pub. L. 111–84, div. A, title X, §1073(a)(33), Oct. 28, 2009, 123 Stat. 2474, substituted "Reserve Active-Status List" for "Reserve-Active Status List" in item for chapter 1409.
 
 **2004**—Pub. L. 108–375, div. A, title V, §527(c), Oct. 28, 2004, 118 Stat. 1894, added item for chapter 1607.
 
 **1999**—Pub. L. 106–65, div. A, title V, §551(a)(2), Oct. 5, 1999, 113 Stat. 614, added item for chapter 1611.
 
-**1997**—Pub. L. 105–85, div. A, title V, §515(b), Nov. 18, 1997, 111 Stat. 1733, substituted “12551” for “[No present sections]” in item for chapter 1215.
+**1997**—Pub. L. 105–85, div. A, title V, §515(b), Nov. 18, 1997, 111 Stat. 1733, substituted "12551" for "[No present sections]" in item for chapter 1215.
 
 **1996**—Pub. L. 104–201, div. A, title XII, §1211(a)(2), Sept. 23, 1996, 110 Stat. 2691, added item for chapter 1006.
 
-Pub. L. 104–106, div. A, title V, §512(a)(2), title XV, §1501(b)(1), Feb. 10, 1996, 110 Stat. 305, 495, added item for chapter 1214 and substituted “Repayment Programs” for “Repayments” in item for chapter 1609.
+Pub. L. 104–106, div. A, title V, §512(a)(2), title XV, §1501(b)(1), Feb. 10, 1996, 110 Stat. 305, 495, added item for chapter 1214 and substituted "Repayment Programs" for "Repayments" in item for chapter 1609.

@@ -2,15 +2,15 @@
 
 For purposes of this subchapter—
 
-(1) The term “direct loan” means a disbursement of funds by the Government to a non-Federal borrower under a contract that requires the repayment of such funds with or without interest. The term includes the purchase of, or participation in, a loan made by another lender and financing arrangements that defer payment for more than 90 days, including the sale of a government <sup><a href="#661a_1_target" name="661a_1">1</a></sup> asset on credit terms. The term does not include the acquisition of a federally guaranteed loan in satisfaction of default claims or the price support loans of the Commodity Credit Corporation.
+(1) The term "direct loan" means a disbursement of funds by the Government to a non-Federal borrower under a contract that requires the repayment of such funds with or without interest. The term includes the purchase of, or participation in, a loan made by another lender and financing arrangements that defer payment for more than 90 days, including the sale of a government <sup><a href="#661a_1_target" name="661a_1">1</a></sup> asset on credit terms. The term does not include the acquisition of a federally guaranteed loan in satisfaction of default claims or the price support loans of the Commodity Credit Corporation.
 
-(2) The term “direct loan obligation” means a binding agreement by a Federal agency to make a direct loan when specified conditions are fulfilled by the borrower.
+(2) The term "direct loan obligation" means a binding agreement by a Federal agency to make a direct loan when specified conditions are fulfilled by the borrower.
 
-(3) The term “loan guarantee” means any guarantee, insurance, or other pledge with respect to the payment of all or a part of the principal or interest on any debt obligation of a non-Federal borrower to a non-Federal lender, but does not include the insurance of deposits, shares, or other withdrawable accounts in financial institutions.
+(3) The term "loan guarantee" means any guarantee, insurance, or other pledge with respect to the payment of all or a part of the principal or interest on any debt obligation of a non-Federal borrower to a non-Federal lender, but does not include the insurance of deposits, shares, or other withdrawable accounts in financial institutions.
 
-(4) The term “loan guarantee commitment” means a binding agreement by a Federal agency to make a loan guarantee when specified conditions are fulfilled by the borrower, the lender, or any other party to the guarantee agreement.
+(4) The term "loan guarantee commitment" means a binding agreement by a Federal agency to make a loan guarantee when specified conditions are fulfilled by the borrower, the lender, or any other party to the guarantee agreement.
 
-(5)(A) The term “cost” means the estimated long-term cost to the Government of a direct loan or loan guarantee or modification thereof, calculated on a net present value basis, excluding administrative costs and any incidental effects on governmental receipts or outlays.
+(5)(A) The term "cost" means the estimated long-term cost to the Government of a direct loan or loan guarantee or modification thereof, calculated on a net present value basis, excluding administrative costs and any incidental effects on governmental receipts or outlays.
 
 (B) The cost of a direct loan shall be the net present value, at the time when the direct loan is disbursed, of the following estimated cash flows:
 
@@ -36,19 +36,19 @@ including the effects of changes in loan terms resulting from the exercise by th
 
 (F) When funds are obligated for a direct loan or loan guarantee, the estimated cost shall be based on the current assumptions, adjusted to incorporate the terms of the loan contract, for the fiscal year in which the funds are obligated.
 
-(6) The term “credit program account” means the budget account into which an appropriation to cover the cost of a direct loan or loan guarantee program is made and from which such cost is disbursed to the financing account.
+(6) The term "credit program account" means the budget account into which an appropriation to cover the cost of a direct loan or loan guarantee program is made and from which such cost is disbursed to the financing account.
 
-(7) The term “financing account” means the non-budget account or accounts associated with each credit program account which holds balances, receives the cost payment from the credit program account, and also includes all other cash flows to and from the Government resulting from direct loan obligations or loan guarantee commitments made on or after October 1, 1991.
+(7) The term "financing account" means the non-budget account or accounts associated with each credit program account which holds balances, receives the cost payment from the credit program account, and also includes all other cash flows to and from the Government resulting from direct loan obligations or loan guarantee commitments made on or after October 1, 1991.
 
-(8) The term “liquidating account” means the budget account that includes all cash flows to and from the Government resulting from direct loan obligations or loan guarantee commitments made prior to October 1, 1991.
+(8) The term "liquidating account" means the budget account that includes all cash flows to and from the Government resulting from direct loan obligations or loan guarantee commitments made prior to October 1, 1991.
 
 These accounts shall be shown in the budget on a cash basis.
 
-(9) The term “modification” means any Government action that alters the estimated cost of an outstanding direct loan (or direct loan obligation) or an outstanding loan guarantee (or loan guarantee commitment) from the current estimate of cash flows. This includes the sale of loan assets, with or without recourse, and the purchase of guaranteed loans. This also includes any action resulting from new legislation, or from the exercise of administrative discretion under existing law, that directly or indirectly alters the estimated cost of outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments) such as a change in collection procedures.
+(9) The term "modification" means any Government action that alters the estimated cost of an outstanding direct loan (or direct loan obligation) or an outstanding loan guarantee (or loan guarantee commitment) from the current estimate of cash flows. This includes the sale of loan assets, with or without recourse, and the purchase of guaranteed loans. This also includes any action resulting from new legislation, or from the exercise of administrative discretion under existing law, that directly or indirectly alters the estimated cost of outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments) such as a change in collection procedures.
 
-(10) The term “current” has the same meaning as in section 900(c)(9) of this title.
+(10) The term "current" has the same meaning as in section 900(c)(9) of this title.
 
-(11) The term “Director” means the Director of the Office of Management and Budget.
+(11) The term "Director" means the Director of the Office of Management and Budget.
 
 (Pub. L. 93–344, title V, §502, as added Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–610; amended Pub. L. 105–33, title X, §10117(a), Aug. 5, 1997, 111 Stat. 692.)
 
@@ -58,29 +58,29 @@ A prior section 502 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 321, w
 
 #### Amendments ####
 
-**1997**—Par. (1). Pub. L. 105–33, §10117(a)(1), inserted “and financing arrangements that defer payment for more than 90 days, including the sale of a government asset on credit terms” after “another lender”.
+**1997**—Par. (1). Pub. L. 105–33, §10117(a)(1), inserted "and financing arrangements that defer payment for more than 90 days, including the sale of a government asset on credit terms" after "another lender".
 
-Par. (5)(A). Pub. L. 105–33, §10117(a)(2), inserted “or modification thereof” after “or loan guarantee”.
+Par. (5)(A). Pub. L. 105–33, §10117(a)(2), inserted "or modification thereof" after "or loan guarantee".
 
 Par. (5)(B), (C). Pub. L. 105–33, §10117(a)(3), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
 
-“(B) The cost of a direct loan shall be the net present value, at the time when the direct loan is disbursed, of the following cash flows:
+"(B) The cost of a direct loan shall be the net present value, at the time when the direct loan is disbursed, of the following cash flows:
 
-“(i) loan disbursements;
+"(i) loan disbursements;
 
-“(ii) repayments of principal; and
+"(ii) repayments of principal; and
 
-“(iii) payments of interest and other payments by or to the Government over the life of the loan after adjusting for estimated defaults, prepayments, fees, penalties and other recoveries.
+"(iii) payments of interest and other payments by or to the Government over the life of the loan after adjusting for estimated defaults, prepayments, fees, penalties and other recoveries.
 
-“(C) The cost of a loan guarantee shall be the net present value when a guaranteed loan is disbursed of the cash flow from—
+"(C) The cost of a loan guarantee shall be the net present value when a guaranteed loan is disbursed of the cash flow from—
 
-“(i) estimated payments by the Government to cover defaults and delinquencies, interest subsidies, or other payments, and
+"(i) estimated payments by the Government to cover defaults and delinquencies, interest subsidies, or other payments, and
 
-“(ii) the estimated payments to the Government including origination and other fees, penalties and recoveries.”
+"(ii) the estimated payments to the Government including origination and other fees, penalties and recoveries."
 
-Par. (5)(D). Pub. L. 105–33, §10117(a)(4), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “Any Government action that alters the estimated net present value of an outstanding direct loan or loan guarantee (except modifications within the terms of existing contracts or through other existing authorities) shall be counted as a change in the cost of that direct loan or loan guarantee. The calculation of such changes shall be based on the estimated present value of the direct loan or loan guarantee at the time of modification.”
+Par. (5)(D). Pub. L. 105–33, §10117(a)(4), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "Any Government action that alters the estimated net present value of an outstanding direct loan or loan guarantee (except modifications within the terms of existing contracts or through other existing authorities) shall be counted as a change in the cost of that direct loan or loan guarantee. The calculation of such changes shall be based on the estimated present value of the direct loan or loan guarantee at the time of modification."
 
-Par. (5)(E). Pub. L. 105–33, §10117(a)(5), inserted “the cash flows of” after “similar maturity to”.
+Par. (5)(E). Pub. L. 105–33, §10117(a)(5), inserted "the cash flows of" after "similar maturity to".
 
 Par. (5)(F). Pub. L. 105–33, §10117(a)(6), added subpar. (F).
 

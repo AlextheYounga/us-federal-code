@@ -16,4 +16,4 @@ All provisions of sections 450c(d), 450d, 450f(c), 450i, 450j(f), 450m–1, and 
 
 #### Amendments ####
 
-**1998**—Subsec. (c). Pub. L. 105–277 inserted “450c(d),” after “sections”.
+**1998**—Subsec. (c). Pub. L. 105–277 inserted "450c(d)," after "sections".

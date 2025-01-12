@@ -44,45 +44,45 @@ No order shall be issued under this subsection pursuant to a finding under subpa
 
 (B) otherwise provide procedures or methods for terminating or modifying such order (including, if appropriate, the return of the transmission capacity when necessary to take into account an increase, after the issuance of such order, in the needs of the transmitting utility subject to such order for transmission capacity).
 
-#### (e) “Facilities” defined ####
+#### (e) "Facilities" defined ####
 
-As used in this section, the term “facilities” means only facilities used for the generation or transmission of electric energy.
+As used in this section, the term "facilities" means only facilities used for the generation or transmission of electric energy.
 
 (June 10, 1920, ch. 285, pt. II, §211, as added Pub. L. 95–617, title II, §203, Nov. 9, 1978, 92 Stat. 3136; amended Pub. L. 96–294, title VI, §643(a)(3), June 30, 1980, 94 Stat. 770; Pub. L. 99–495, §15, Oct. 16, 1986, 100 Stat. 1257; Pub. L. 102–486, title VII, §721, Oct. 24, 1992, 106 Stat. 2915; Pub. L. 109–58, title XII, §1295(c), Aug. 8, 2005, 119 Stat. 985.)
 
 #### Amendments ####
 
-**2005**—Subsec. (c). Pub. L. 109–58, §1295(c)(1), struck out par. (2) designation before introductory provisions, redesignated former subpars. (A) and (B) as pars. (1) and (2), respectively, and in par. (2) substituted “termination or modification” for “termination of modification”.
+**2005**—Subsec. (c). Pub. L. 109–58, §1295(c)(1), struck out par. (2) designation before introductory provisions, redesignated former subpars. (A) and (B) as pars. (1) and (2), respectively, and in par. (2) substituted "termination or modification" for "termination of modification".
 
-Subsec. (d)(1). Pub. L. 109–58, §1295(c)(2), substituted “if the transmitting utility providing” for “if the electric utility providing” in introductory provisions.
+Subsec. (d)(1). Pub. L. 109–58, §1295(c)(2), substituted "if the transmitting utility providing" for "if the electric utility providing" in introductory provisions.
 
-**1992**—Subsec. (a). Pub. L. 102–486, §721(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “Any electric utility, geothermal power producer (including a producer which is not an electric utility), or Federal power marketing agency may apply to the Commission for an order under this subsection requiring any other electric utility to provide transmission services to the applicant (including any enlargement of transmission capacity necessary to provide such services).”
+**1992**—Subsec. (a). Pub. L. 102–486, §721(1), amended first sentence generally. Prior to amendment, first sentence read as follows: "Any electric utility, geothermal power producer (including a producer which is not an electric utility), or Federal power marketing agency may apply to the Commission for an order under this subsection requiring any other electric utility to provide transmission services to the applicant (including any enlargement of transmission capacity necessary to provide such services)."
 
-Pub. L. 102–486, §721(2), in second sentence, substituted “the Commission may issue such order if it finds that such order meets the requirements of section 824k of this title, and would otherwise be in the public interest. No order may be issued under this subsection unless the applicant has made a request for transmission services to the transmitting utility that would be the subject of such order at least 60 days prior to its filing of an application for such order.” for “the Commission may issue such order if it finds that such order—
+Pub. L. 102–486, §721(2), in second sentence, substituted "the Commission may issue such order if it finds that such order meets the requirements of section 824k of this title, and would otherwise be in the public interest. No order may be issued under this subsection unless the applicant has made a request for transmission services to the transmitting utility that would be the subject of such order at least 60 days prior to its filing of an application for such order." for "the Commission may issue such order if it finds that such order—
 
-“(1) is in the public interest,
+"(1) is in the public interest,
 
-“(2) would—
+"(2) would—
 
-“(A) conserve a significant amount of energy,
+"(A) conserve a significant amount of energy,
 
-“(B) significantly promote the efficient use of facilities and resources, or
+"(B) significantly promote the efficient use of facilities and resources, or
 
-“(C) improve the reliability of any electric utility system to which the order applies, and
+"(C) improve the reliability of any electric utility system to which the order applies, and
 
-“(3) meets the requirements of section 824k of this title.”
+"(3) meets the requirements of section 824k of this title."
 
 Subsec. (b). Pub. L. 102–486, §721(3), amended subsec. (b) generally, substituting provisions relating to reliability of electric service for provisions which related to transmission service by sellers of electric energy for resale and notice, hearing, and determinations by Commission.
 
-Subsec. (c). Pub. L. 102–486, §721(4), struck out pars. (1), (3), and (4), and substituted “which requires the transmitting” for “which requires the electric” in introductory provisions of par. (2). Prior to amendment, pars. (1), (3), and (4) read as follows:
+Subsec. (c). Pub. L. 102–486, §721(4), struck out pars. (1), (3), and (4), and substituted "which requires the transmitting" for "which requires the electric" in introductory provisions of par. (2). Prior to amendment, pars. (1), (3), and (4) read as follows:
 
-“(1) No order may be issued under subsection (a) of this section unless the Commission determines that such order would reasonably preserve existing competitive relationships.
+"(1) No order may be issued under subsection (a) of this section unless the Commission determines that such order would reasonably preserve existing competitive relationships.
 
-“(3) No order may be issued under the authority of subsection (a) or (b) of this section which is inconsistent with any State law which governs the retail marketing areas of electric utilities.
+"(3) No order may be issued under the authority of subsection (a) or (b) of this section which is inconsistent with any State law which governs the retail marketing areas of electric utilities.
 
-“(4) No order may be issued under subsection (a) or (b) of this section which provides for the transmission of electric energy directly to an ultimate consumer.”
+"(4) No order may be issued under subsection (a) or (b) of this section which provides for the transmission of electric energy directly to an ultimate consumer."
 
-Subsec. (d). Pub. L. 102–486, §721(5), in first sentence substituted “transmitting” for “electric” before “utility” in two places, in second sentence inserted “each affected transmitting utility,” before “and each affected electric utility”, in par. (1) substituted “, or” for period at end of subpar. (B) and added subpar. (C), and in par. (3)(B) substituted “transmitting” for “electric” before “utility”.
+Subsec. (d). Pub. L. 102–486, §721(5), in first sentence substituted "transmitting" for "electric" before "utility" in two places, in second sentence inserted "each affected transmitting utility," before "and each affected electric utility", in par. (1) substituted ", or" for period at end of subpar. (B) and added subpar. (C), and in par. (3)(B) substituted "transmitting" for "electric" before "utility".
 
 **1986**—Subsec. (c)(2)(B). Pub. L. 99–495 inserted provisions that nothing in this subparagraph shall prevent an application for an order hereunder to be filed prior to termination or modification of an existing rate schedule, provided that such order shall not become effective until termination of such rate schedule or the modification becomes effective.
 
@@ -96,4 +96,4 @@ Amendment by Pub. L. 99–495 effective with respect to each license, permit, or
 
 Nothing in amendment by Pub. L. 102–486 to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under section 796 of this title.
 
-[<sup>1</sup> So in original. The word “or” probably should not appear.](#824j_1)
+[<sup>1</sup> So in original. The word "or" probably should not appear.](#824j_1)

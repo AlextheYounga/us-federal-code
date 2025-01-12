@@ -66,4 +66,4 @@ Sec.
 
 #### Amendments ####
 
-**2008**—Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(A), Jan. 28, 2008, 122 Stat. 598, inserted “or Administrator” after “Secretary” in items 53722 and 53723.
+**2008**—Pub. L. 110–181, div. C, title XXXV, §3522(a)(10)(A), Jan. 28, 2008, 122 Stat. 598, inserted "or Administrator" after "Secretary" in items 53722 and 53723.

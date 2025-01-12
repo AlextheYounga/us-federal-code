@@ -18,11 +18,11 @@ Subchapter XVII [§287m et seq.] of this chapter, referred to in subsec. (b)(2),
 
 #### Codification ####
 
-In subsec. (b)(1), “chapter 51 and subchapter III of chapter 53 of title 5” and “section 3109 of title 5” substituted for “the Classification Act of 1949” and “section 15 of Public Law 600, Seventy-ninth Congress [5 U.S.C. 55a]”, respectively, on authority of Pub. L. 89–554, §7(b) Sept. 6, 1966, 80 Stat. 631, which Act enacted Title 5, Government Organization and Employees.
+In subsec. (b)(1), "chapter 51 and subchapter III of chapter 53 of title 5" and "section 3109 of title 5" substituted for "the Classification Act of 1949" and "section 15 of Public Law 600, Seventy-ninth Congress [5 U.S.C. 55a]", respectively, on authority of Pub. L. 89–554, §7(b) Sept. 6, 1966, 80 Stat. 631, which Act enacted Title 5, Government Organization and Employees.
 
-In subsec. (b)(1), “section 501 of title 44” substituted for “section 11 of the Act of March 1, 1919 (44 U.S.C. 111)” on authority of Pub. L. 90–620, §2(b), Oct. 22, 1968, 82 Stat. 1305, which Act enacted Title 44, Public Printing and Documents.
+In subsec. (b)(1), "section 501 of title 44" substituted for "section 11 of the Act of March 1, 1919 (44 U.S.C. 111)" on authority of Pub. L. 90–620, §2(b), Oct. 22, 1968, 82 Stat. 1305, which Act enacted Title 44, Public Printing and Documents.
 
-In subsec. (b)(1), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes, as amended” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(1), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes, as amended" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments ####
 
@@ -32,7 +32,7 @@ In subsec. (b)(1), “section 6101 of title 41” substituted for “section 370
 
 Subsec. (b). Joint Res. Sept. 21, 1950, §1(e)(3), struck out limitation of $95,000 on the authorized annual appropriation for expenses.
 
-**1949**—Subsec. (b)(1). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+**1949**—Subsec. (b)(1). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
 #### Limitation of Contributions ####
 

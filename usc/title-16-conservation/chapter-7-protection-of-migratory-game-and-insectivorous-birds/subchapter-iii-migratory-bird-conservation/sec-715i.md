@@ -14,7 +14,7 @@ In administering such areas, the Secretary is authorized to manage timber, range
 
 **1978**—Subsec. (a). Pub. L. 95–616 provided for treaty obligations with Japan and the Union of Soviet Socialist Republics.
 
-**1973**—Subsec. (a). Pub. L. 93–205 substituted “listed pursuant to section 1533 of this title as endangered species or threatened species,” for “threatened with extinction,”.
+**1973**—Subsec. (a). Pub. L. 93–205 substituted "listed pursuant to section 1533 of this title as endangered species or threatened species," for "threatened with extinction,".
 
 **1966**—Subsecs. (a), (b). Pub. L. 89–669 added subsecs. (a) and (b). Former paragraph prohibited acts on acquired areas and is now covered by section 668dd(c) and (d)(1) of this title.
 

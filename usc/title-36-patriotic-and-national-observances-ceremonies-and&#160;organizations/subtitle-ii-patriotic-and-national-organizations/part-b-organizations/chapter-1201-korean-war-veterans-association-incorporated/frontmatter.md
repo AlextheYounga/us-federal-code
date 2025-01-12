@@ -28,4 +28,4 @@ Sec.
 
 #### Amendments ####
 
-**2008**—Pub. L. 110–254, §1(a), June 30, 2008, 122 Stat. 2419, substituted chapter heading and table of sections consisting of items 120101 to 120112 for “[RESERVED]”.
+**2008**—Pub. L. 110–254, §1(a), June 30, 2008, 122 Stat. 2419, substituted chapter heading and table of sections consisting of items 120101 to 120112 for "[RESERVED]".

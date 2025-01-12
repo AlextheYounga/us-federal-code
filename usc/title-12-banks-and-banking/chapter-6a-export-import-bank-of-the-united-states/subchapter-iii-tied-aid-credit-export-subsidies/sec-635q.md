@@ -28,34 +28,34 @@ Concessional financing or grants made available under section 635r(d) of this ti
 
 #### Amendments ####
 
-**1992**—Subsec. (a)(2), (3)(A). Pub. L. 102–549 substituted “Development Agency” for “Development Program”.
+**1992**—Subsec. (a)(2), (3)(A). Pub. L. 102–549 substituted "Development Agency" for "Development Program".
 
-**1988**—Subsec. (a)(2). Pub. L. 100–418, §2204(c)(1)(A)(i), substituted “Trade and Development Program” for “Agency for International Development”.
+**1988**—Subsec. (a)(2). Pub. L. 100–418, §2204(c)(1)(A)(i), substituted "Trade and Development Program" for "Agency for International Development".
 
-Subsec. (a)(3)(A). Pub. L. 100–418, §2204(c)(1)(A)(ii), substituted “made available under section 635r(d) of this title” for “offered by the Agency for International Development” and “Trade and Development Program” for “Agency for International Development”.
+Subsec. (a)(3)(A). Pub. L. 100–418, §2204(c)(1)(A)(ii), substituted "made available under section 635r(d) of this title" for "offered by the Agency for International Development" and "Trade and Development Program" for "Agency for International Development".
 
-Subsec. (d). Pub. L. 100–418, §2204(c)(1)(A)(iii), substituted “made available under section 635r(d) of this title” for “offered by the Agency for International Development” and “section 635r(c) of this title” for “subsections (c) and (d) of section 635r of this title”.
+Subsec. (d). Pub. L. 100–418, §2204(c)(1)(A)(iii), substituted "made available under section 635r(d) of this title" for "offered by the Agency for International Development" and "section 635r(c) of this title" for "subsections (c) and (d) of section 635r of this title".
 
 #### Transition Provisions ####
 
 Pub. L. 100–418, title II, §2204(d)(2), Aug. 23, 1988, 102 Stat. 1331, provided that:
 
-“(A) The Administrator of the Agency for International Development shall transfer to the Director of the Trade and Development Program [now Trade and Development Agency] all records, contracts, applications, and any other documents or information in connection with the functions transferred by virtue of the amendments made by subsection (c)(1) [amending sections 635q and 635r of this title].
+"(A) The Administrator of the Agency for International Development shall transfer to the Director of the Trade and Development Program [now Trade and Development Agency] all records, contracts, applications, and any other documents or information in connection with the functions transferred by virtue of the amendments made by subsection (c)(1) [amending sections 635q and 635r of this title].
 
-“(B) All determinations, regulations, and contracts—
+"(B) All determinations, regulations, and contracts—
 
-“(i) which have been issued, made, granted, or allowed to become effective by the President, the Agency for International Development, or by a court of competent jurisdiction, in the performance of the functions transferred by virtue of the amendments made by subsection (c)(1), and
+"(i) which have been issued, made, granted, or allowed to become effective by the President, the Agency for International Development, or by a court of competent jurisdiction, in the performance of the functions transferred by virtue of the amendments made by subsection (c)(1), and
 
-“(ii) which are in effect at the time this section takes effect,
+"(ii) which are in effect at the time this section takes effect,
 
 shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with the law by the President, the Director of the Trade and Development Program [now Trade and Development Agency], or other authorized official, by a court of competent jurisdiction, or by operation of law.
 
-“(C)(i) The amendments made by subsection (c)(1) shall not affect any proceedings, including notices of proposed rulemaking, or any application for any financial assistance, which is pending on the effective date of this section [Aug. 23, 1988] before the Agency for International Development in the exercise of functions transferred by virtue of the amendments made by subsection (c)(1). Such proceedings and applications, to the extent that they relate to functions so transferred, shall be continued.
+"(C)(i) The amendments made by subsection (c)(1) shall not affect any proceedings, including notices of proposed rulemaking, or any application for any financial assistance, which is pending on the effective date of this section [Aug. 23, 1988] before the Agency for International Development in the exercise of functions transferred by virtue of the amendments made by subsection (c)(1). Such proceedings and applications, to the extent that they relate to functions so transferred, shall be continued.
 
-“(ii) Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this section [amending sections 635q, 635r, and 635s of this title, section 5314 of Title 5, Government Organization and Employees, and section 2421 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as a note under section 2421 of Title 22] had not been enacted. Orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by the Director of the Trade and Development Program [now Trade and Development Agency] or other authorized official, by a court of competent jurisdiction, or by operation of law.
+"(ii) Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this section [amending sections 635q, 635r, and 635s of this title, section 5314 of Title 5, Government Organization and Employees, and section 2421 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as a note under section 2421 of Title 22] had not been enacted. Orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by the Director of the Trade and Development Program [now Trade and Development Agency] or other authorized official, by a court of competent jurisdiction, or by operation of law.
 
-“(iii) Nothing in this subparagraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this section had not been enacted.
+"(iii) Nothing in this subparagraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this section had not been enacted.
 
-“(iv) The Director of the Trade and Development Program [now Trade and Development Agency] is authorized to issue regulations providing for the orderly transfer to the Trade and Development Program of proceedings continued under this subparagraph.
+"(iv) The Director of the Trade and Development Program [now Trade and Development Agency] is authorized to issue regulations providing for the orderly transfer to the Trade and Development Program of proceedings continued under this subparagraph.
 
-“(D) With respect to any function transferred by virtue of the amendments made by subsection (c)(1) and exercised on or after the effective date of this section [Aug. 23, 1988], reference in any other Federal law to the Agency for International Development or any officer shall be deemed to refer to the Trade and Development Program [now Trade and Development Agency] or other official to which such function is so transferred.”
+"(D) With respect to any function transferred by virtue of the amendments made by subsection (c)(1) and exercised on or after the effective date of this section [Aug. 23, 1988], reference in any other Federal law to the Agency for International Development or any officer shall be deemed to refer to the Trade and Development Program [now Trade and Development Agency] or other official to which such function is so transferred."

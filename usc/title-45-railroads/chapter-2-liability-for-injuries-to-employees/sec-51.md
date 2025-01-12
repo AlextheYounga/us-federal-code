@@ -12,9 +12,9 @@ Any employee of a carrier, any part of whose duties as such employee shall be th
 
 #### Short Title ####
 
-The Act of Apr. 22, 1908, as amended, which comprises this chapter, is popularly known as the “Employers’ Liability Act”.
+The Act of Apr. 22, 1908, as amended, which comprises this chapter, is popularly known as the "Employers' Liability Act".
 
-The following are also popularly known as Employers’ Liability Acts:
+The following are also popularly known as Employers' Liability Acts:
 
 June 11, 1906, ch. 3073, 34 Stat. 232 [Unconstitutional].
 

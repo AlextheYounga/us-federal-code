@@ -8,4 +8,4 @@ Sections 15a to 15c, act Feb. 5, 1929, ch. 153, §§1–3, 45 Stat. 1151, approp
 
 Sections 15d to 15g, act May 21, 1934, ch. 324, §§1–4, 48 Stat. 792, provided for further development of vocational education in several States and Territories by authorizing additional appropriations for the fiscal years 1935–37.
 
-Act June 8, 1936, ch. 541, §7, 49 Stat. 1490, incorporated in section 15o of this title, provided that appropriations authorized by act June 8, 1936, incorporated in sections 15h to 15p of this title, “shall be in lieu thereof and not in addition to the appropriations authorized in” sections 1 and 2 of act May 21, 1934.
+Act June 8, 1936, ch. 541, §7, 49 Stat. 1490, incorporated in section 15o of this title, provided that appropriations authorized by act June 8, 1936, incorporated in sections 15h to 15p of this title, "shall be in lieu thereof and not in addition to the appropriations authorized in" sections 1 and 2 of act May 21, 1934.

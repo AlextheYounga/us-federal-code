@@ -4,15 +4,15 @@
 
 #### (1) Emergency uses ####
 
-Notwithstanding any provision of this chapter and section 351 of the Public Health Service Act [42 U.S.C. 262], and subject to the provisions of this section, the Secretary may authorize the introduction into interstate commerce, during the effective period of a declaration under subsection (b) of this section, of a drug, device, or biological product intended for use in an actual or potential emergency (referred to in this section as an “emergency use”).
+Notwithstanding any provision of this chapter and section 351 of the Public Health Service Act [42 U.S.C. 262], and subject to the provisions of this section, the Secretary may authorize the introduction into interstate commerce, during the effective period of a declaration under subsection (b) of this section, of a drug, device, or biological product intended for use in an actual or potential emergency (referred to in this section as an "emergency use").
 
 #### (2) Approval status of product ####
 
 An authorization under paragraph (1) may authorize an emergency use of a product that—
 
-(A) is not approved, licensed, or cleared for commercial distribution under section 355, 360(k), or 360e of this title or section 351 of the Public Health Service Act [42 U.S.C. 262] (referred to in this section as an “unapproved product”); or
+(A) is not approved, licensed, or cleared for commercial distribution under section 355, 360(k), or 360e of this title or section 351 of the Public Health Service Act [42 U.S.C. 262] (referred to in this section as an "unapproved product"); or
 
-(B) is approved, licensed, or cleared under such a provision, but which use is not under such provision an approved, licensed, or cleared use of the product (referred to in this section as an “unapproved use of an approved product”).
+(B) is approved, licensed, or cleared under such a provision, but which use is not under such provision an approved, licensed, or cleared use of the product (referred to in this section as an "unapproved use of an approved product").
 
 #### (3) Relation to other uses ####
 
@@ -22,15 +22,15 @@ An emergency use authorized under paragraph (1) for a product is in addition to 
 
 For purposes of this section:
 
-(A) The term “biological product” has the meaning given such term in section 351 of the Public Health Service Act [42 U.S.C. 262].
+(A) The term "biological product" has the meaning given such term in section 351 of the Public Health Service Act [42 U.S.C. 262].
 
-(B) The term “emergency use” has the meaning indicated for such term in paragraph (1).
+(B) The term "emergency use" has the meaning indicated for such term in paragraph (1).
 
-(C) The term “product” means a drug, device, or biological product.
+(C) The term "product" means a drug, device, or biological product.
 
-(D) The term “unapproved product” has the meaning indicated for such term in paragraph (2)(A).
+(D) The term "unapproved product" has the meaning indicated for such term in paragraph (2)(A).
 
-(E) The term “unapproved use of an approved product” has the meaning indicated for such term in paragraph (2)(B).
+(E) The term "unapproved use of an approved product" has the meaning indicated for such term in paragraph (2)(B).
 
 #### (b) Declaration of emergency or threat justifying emergency authorized use ####
 
@@ -266,55 +266,55 @@ The Public Health Service Act, referred to in subsec. (a)(3), is act July 1, 194
 
 #### Amendments ####
 
-**2013**—Subsec. (a)(1). Pub. L. 113–5, §302(a)(1)(A), substituted “any provision of this chapter” for “sections 355, 360(k), and 360e of this title”.
+**2013**—Subsec. (a)(1). Pub. L. 113–5, §302(a)(1)(A), substituted "any provision of this chapter" for "sections 355, 360(k), and 360e of this title".
 
-Subsec. (a)(2)(A). Pub. L. 113–5, §302(a)(1)(B), substituted “under section 355, 360(k), or 360e of this title or section 351 of the Public Health Service Act” for “under a provision of law referred to in such paragraph”.
+Subsec. (a)(2)(A). Pub. L. 113–5, §302(a)(1)(B), substituted "under section 355, 360(k), or 360e of this title or section 351 of the Public Health Service Act" for "under a provision of law referred to in such paragraph".
 
-Subsec. (a)(3). Pub. L. 113–5, §302(a)(1)(C), substituted “a section of this chapter or the Public Health Service Act referred to in paragraph (2)(A)” for “a provision of law referred to in such paragraph”.
+Subsec. (a)(3). Pub. L. 113–5, §302(a)(1)(C), substituted "a section of this chapter or the Public Health Service Act referred to in paragraph (2)(A)" for "a provision of law referred to in such paragraph".
 
-Subsec. (b). Pub. L. 113–5, §302(a)(2)(A), inserted “or threat justifying emergency authorized use” after “emergency” in heading.
+Subsec. (b). Pub. L. 113–5, §302(a)(2)(A), inserted "or threat justifying emergency authorized use" after "emergency" in heading.
 
-Subsec. (b)(1). Pub. L. 113–5, §302(a)(2)(B), substituted “may make a declaration that the circumstances exist” for “may declare an emergency” in introductory provisions, struck out “specified” before “biological” in subpars. (A) and (B), added subpar. (D), and amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “a determination by the Secretary of a public health emergency under section 319 of the Public Health Service Act that affects, or has a significant potential to affect, national security, and that involves a specified biological, chemical, radiological, or nuclear agent or agents, or a specified disease or condition that may be attributable to such agent or agents.”
+Subsec. (b)(1). Pub. L. 113–5, §302(a)(2)(B), substituted "may make a declaration that the circumstances exist" for "may declare an emergency" in introductory provisions, struck out "specified" before "biological" in subpars. (A) and (B), added subpar. (D), and amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "a determination by the Secretary of a public health emergency under section 319 of the Public Health Service Act that affects, or has a significant potential to affect, national security, and that involves a specified biological, chemical, radiological, or nuclear agent or agents, or a specified disease or condition that may be attributable to such agent or agents."
 
-Subsec. (b)(2)(A)(ii). Pub. L. 113–5, §302(a)(2)(C)(i), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the expiration of the one-year period beginning on the date on which the declaration is made.”
+Subsec. (b)(2)(A)(ii). Pub. L. 113–5, §302(a)(2)(C)(i), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "the expiration of the one-year period beginning on the date on which the declaration is made."
 
-Subsec. (b)(2)(B), (C). Pub. L. 113–5, §302(a)(2)(C)(ii), (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “Notwithstanding subparagraph (A), the Secretary may renew a declaration under this subsection, and this paragraph shall apply to any such renewal.”
+Subsec. (b)(2)(B), (C). Pub. L. 113–5, §302(a)(2)(C)(ii), (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "Notwithstanding subparagraph (A), the Secretary may renew a declaration under this subsection, and this paragraph shall apply to any such renewal."
 
-Subsec. (b)(4). Pub. L. 113–5, §302(a)(2)(D), substituted “, and advance notice of termination under this subsection” for “advance notice of termination, and renewal under this subsection”.
+Subsec. (b)(4). Pub. L. 113–5, §302(a)(2)(D), substituted ", and advance notice of termination under this subsection" for "advance notice of termination, and renewal under this subsection".
 
 Subsec. (b)(5). Pub. L. 113–5, §302(a)(2)(E), added par. (5).
 
-Subsec. (c). Pub. L. 113–5, §302(a)(3)(A), in introductory provisions, inserted “the Assistant Secretary for Preparedness and Response,” after “consultation with” and substituted “Director of the National Institutes of Health, and” for “Director of the National Institutes of Health and” and “applicable circumstances described in subsection (b)(1)” for “circumstances of the emergency involved”.
+Subsec. (c). Pub. L. 113–5, §302(a)(3)(A), in introductory provisions, inserted "the Assistant Secretary for Preparedness and Response," after "consultation with" and substituted "Director of the National Institutes of Health, and" for "Director of the National Institutes of Health and" and "applicable circumstances described in subsection (b)(1)" for "circumstances of the emergency involved".
 
-Subsec. (c)(1). Pub. L. 113–5, §302(a)(3)(B), substituted “referred to” for “specified”.
+Subsec. (c)(1). Pub. L. 113–5, §302(a)(3)(B), substituted "referred to" for "specified".
 
-Subsec. (c)(2)(B). Pub. L. 113–5, §302(a)(3)(C), inserted “, taking into consideration the material threat posed by the agent or agents identified in a declaration under subsection (b)(1)(D), if applicable” after “risks of the product”.
+Subsec. (c)(2)(B). Pub. L. 113–5, §302(a)(3)(C), inserted ", taking into consideration the material threat posed by the agent or agents identified in a declaration under subsection (b)(1)(D), if applicable" after "risks of the product".
 
-Subsec. (d)(3). Pub. L. 113–5, §302(a)(4), inserted “, to the extent practicable given the circumstances of the emergency,” after “including”.
+Subsec. (d)(3). Pub. L. 113–5, §302(a)(4), inserted ", to the extent practicable given the circumstances of the emergency," after "including".
 
-Subsec. (e)(1)(A). Pub. L. 113–5, §302(a)(5)(A), substituted “applicable circumstances described in subsection (b)(1)” for “circumstances of the emergency” in introductory provisions.
+Subsec. (e)(1)(A). Pub. L. 113–5, §302(a)(5)(A), substituted "applicable circumstances described in subsection (b)(1)" for "circumstances of the emergency" in introductory provisions.
 
-Subsec. (e)(1)(B)(iii). Pub. L. 113–5, §302(a)(5)(B), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “Appropriate conditions with respect to the collection and analysis of information, during the period when the authorization is in effect, concerning the safety and effectiveness of the product with respect to the emergency use of such product.”
+Subsec. (e)(1)(B)(iii). Pub. L. 113–5, §302(a)(5)(B), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "Appropriate conditions with respect to the collection and analysis of information, during the period when the authorization is in effect, concerning the safety and effectiveness of the product with respect to the emergency use of such product."
 
-Subsec. (e)(2)(A). Pub. L. 113–5, §302(a)(5)(C)(i), substituted “person” for “manufacturer of the product” and “applicable circumstances described in subsection (b)(1)” for “circumstances of the emergency” and inserted “or in paragraph (1)(B)” before period at end.
+Subsec. (e)(2)(A). Pub. L. 113–5, §302(a)(5)(C)(i), substituted "person" for "manufacturer of the product" and "applicable circumstances described in subsection (b)(1)" for "circumstances of the emergency" and inserted "or in paragraph (1)(B)" before period at end.
 
-Subsec. (e)(2)(B)(i). Pub. L. 113–5, §302(a)(5)(C)(ii), inserted “, except as provided in section 360bbb–3a of this title with respect to authorized changes to the product expiration date” before period at end.
+Subsec. (e)(2)(B)(i). Pub. L. 113–5, §302(a)(5)(C)(ii), inserted ", except as provided in section 360bbb–3a of this title with respect to authorized changes to the product expiration date" before period at end.
 
-Subsec. (e)(2)(C). Pub. L. 113–5, §302(a)(5)(C)(iii), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “The Secretary may establish with respect to the distribution and administration of the product for the unapproved use conditions no more restrictive than those established by the Secretary with respect to the distribution and administration of the product for the approved use.”
+Subsec. (e)(2)(C). Pub. L. 113–5, §302(a)(5)(C)(iii), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "The Secretary may establish with respect to the distribution and administration of the product for the unapproved use conditions no more restrictive than those established by the Secretary with respect to the distribution and administration of the product for the approved use."
 
-Subsec. (e)(3). Pub. L. 113–5, §302(a)(5)(D), amended par. (3) generally. Prior to amendment, text read as follows: “With respect to the emergency use of a product for which an authorization under this section is issued (whether an unapproved product or an unapproved use of an approved product), the Secretary may waive or limit, to the extent appropriate given the circumstances of the emergency, requirements regarding current good manufacturing practice otherwise applicable to the manufacture, processing, packing, or holding of products subject to regulation under this chapter, including such requirements established under section 351 of this title.”
+Subsec. (e)(3). Pub. L. 113–5, §302(a)(5)(D), amended par. (3) generally. Prior to amendment, text read as follows: "With respect to the emergency use of a product for which an authorization under this section is issued (whether an unapproved product or an unapproved use of an approved product), the Secretary may waive or limit, to the extent appropriate given the circumstances of the emergency, requirements regarding current good manufacturing practice otherwise applicable to the manufacture, processing, packing, or holding of products subject to regulation under this chapter, including such requirements established under section 351 of this title."
 
-Subsec. (g). Pub. L. 113–5, §302(a)(6)(A), substituted “Review and revocation” for “Revocation” in heading.
+Subsec. (g). Pub. L. 113–5, §302(a)(6)(A), substituted "Review and revocation" for "Revocation" in heading.
 
-Subsec. (g)(1). Pub. L. 113–5, §302(a)(6)(B), inserted at end “As part of such review, the Secretary shall regularly review the progress made with respect to the approval, licensure, or clearance of—
+Subsec. (g)(1). Pub. L. 113–5, §302(a)(6)(B), inserted at end "As part of such review, the Secretary shall regularly review the progress made with respect to the approval, licensure, or clearance of—
 
-“(A) an unapproved product for which an authorization was issued under this section; or
+"(A) an unapproved product for which an authorization was issued under this section; or
 
-“(B) an unapproved use of an approved product for which an authorization was issued under this section.”
+"(B) an unapproved use of an approved product for which an authorization was issued under this section."
 
-Subsec. (g)(2). Pub. L. 113–5, §302(a)(6)(C), amended par. (2) generally. Prior to amendment, text read as follows: “The Secretary may revoke an authorization under this section if the criteria under subsection (c) of this section for issuance of such authorization are no longer met or other circumstances make such revocation appropriate to protect the public health or safety.”
+Subsec. (g)(2). Pub. L. 113–5, §302(a)(6)(C), amended par. (2) generally. Prior to amendment, text read as follows: "The Secretary may revoke an authorization under this section if the criteria under subsection (c) of this section for issuance of such authorization are no longer met or other circumstances make such revocation appropriate to protect the public health or safety."
 
-Subsec. (h)(1). Pub. L. 113–5, §302(a)(7), inserted at end “The Secretary shall make any revisions to an authorization under this section available on the Internet Web site of the Food and Drug Administration.”
+Subsec. (h)(1). Pub. L. 113–5, §302(a)(7), inserted at end "The Secretary shall make any revisions to an authorization under this section available on the Internet Web site of the Food and Drug Administration."
 
 Subsec. (j)(4). Pub. L. 113–5, §302(a)(8), added par. (4).
 

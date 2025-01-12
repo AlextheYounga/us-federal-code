@@ -358,46 +358,46 @@ A prior section 306 of act June 25, 1938, was renumbered section 309 and is clas
 
 #### Amendments ####
 
-**2002**—Subsec. (a). Pub. L. 107–188, §304(b)(1), substituted “Mandatory debarment; certain drug applications” for “Mandatory debarment” in heading.
+**2002**—Subsec. (a). Pub. L. 107–188, §304(b)(1), substituted "Mandatory debarment; certain drug applications" for "Mandatory debarment" in heading.
 
-Subsec. (b). Pub. L. 107–188, §304(b)(2)(A), substituted “Permissive debarment; certain drug applications; food imports” for “Permissive debarment” in heading.
+Subsec. (b). Pub. L. 107–188, §304(b)(2)(A), substituted "Permissive debarment; certain drug applications; food imports" for "Permissive debarment" in heading.
 
 Subsec. (b)(1)(C). Pub. L. 107–188, §304(a)(1), added subpar. (C).
 
-Subsec. (b)(2). Pub. L. 107–188, §304(b)(2)(B), substituted “permissive debarment; certain drug applications” for “permissive debarment” in heading.
+Subsec. (b)(2). Pub. L. 107–188, §304(b)(2)(B), substituted "permissive debarment; certain drug applications" for "permissive debarment" in heading.
 
-Pub. L. 107–188, §304(a)(2)(A), inserted “subparagraph (A) or (B) of” before “paragraph (1)” in introductory provisions.
+Pub. L. 107–188, §304(a)(2)(A), inserted "subparagraph (A) or (B) of" before "paragraph (1)" in introductory provisions.
 
 Subsec. (b)(3), (4). Pub. L. 107–188, §304(a)(2)(B), (C), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (c)(2)(A)(iii). Pub. L. 107–188, §304(b)(3), substituted “paragraph (2) or (3) of subsection (b)” for “subsection (b)(2)”.
+Subsec. (c)(2)(A)(iii). Pub. L. 107–188, §304(b)(3), substituted "paragraph (2) or (3) of subsection (b)" for "subsection (b)(2)".
 
-Subsec. (d)(3)(A)(i). Pub. L. 107–188, §304(b)(4)(A), substituted “subsection (a)(1) of this section or paragraph (2)(A) or (3) of subsection (b)” for “subsection (a)(1) or (b)(2)(A)”.
+Subsec. (d)(3)(A)(i). Pub. L. 107–188, §304(b)(4)(A), substituted "subsection (a)(1) of this section or paragraph (2)(A) or (3) of subsection (b)" for "subsection (a)(1) or (b)(2)(A)".
 
-Subsec. (d)(3)(A)(ii)(II). Pub. L. 107–188, §304(b)(4)(B), inserted “in applicable cases,” before “sufficient audits”.
+Subsec. (d)(3)(A)(ii)(II). Pub. L. 107–188, §304(b)(4)(B), inserted "in applicable cases," before "sufficient audits".
 
-Subsec. (d)(3)(B)(i). Pub. L. 107–188, §304(b)(4)(C), inserted “or subsection (b)(3)” after “subsection (b)(2)(B)”.
+Subsec. (d)(3)(B)(i). Pub. L. 107–188, §304(b)(4)(C), inserted "or subsection (b)(3)" after "subsection (b)(2)(B)".
 
-Subsec. (d)(3)(B)(ii). Pub. L. 107–188, §304(b)(4)(C), (D), inserted “or subsection (b)(3)” after “subsection (b)(2)(B)” and “or the food importation process, as the case may be” before period.
+Subsec. (d)(3)(B)(ii). Pub. L. 107–188, §304(b)(4)(C), (D), inserted "or subsection (b)(3)" after "subsection (b)(2)(B)" and "or the food importation process, as the case may be" before period.
 
-Subsec. (l)(2). Pub. L. 107–188, §304(c), in first sentence struck out “and” after “subsection (b)(2) of this section,” and inserted “, and subsection (b)(3)(A) of this section” after “subsection (b)(2)(B) of this section” and in second sentence inserted “, subsection (b)(3)(B) of this section,” after “subsection (b)(2)(B) of this section”.
+Subsec. (l)(2). Pub. L. 107–188, §304(c), in first sentence struck out "and" after "subsection (b)(2) of this section," and inserted ", and subsection (b)(3)(A) of this section" after "subsection (b)(2)(B) of this section" and in second sentence inserted ", subsection (b)(3)(B) of this section," after "subsection (b)(2)(B) of this section".
 
 Subsec. (m). Pub. L. 107–250 added subsec. (m).
 
-**1997**—Subsec. (d)(4)(B)(ii). Pub. L. 105–115 struck out “or 357” after “355”.
+**1997**—Subsec. (d)(4)(B)(ii). Pub. L. 105–115 struck out "or 357" after "355".
 
 #### Construction ####
 
-Pub. L. 102–282, §7, May 13, 1992, 106 Stat. 162, provided that: “No amendment made by this Act [enacting this section and sections 335b and 335c of this title and amending sections 321, 336, 337, and 355 of this title] shall preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same action subject to any action or civil penalty under an amendment made by this Act.”
+Pub. L. 102–282, §7, May 13, 1992, 106 Stat. 162, provided that: "No amendment made by this Act [enacting this section and sections 335b and 335c of this title and amending sections 321, 336, 337, and 355 of this title] shall preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same action subject to any action or civil penalty under an amendment made by this Act."
 
 #### Congressional Findings ####
 
-Pub. L. 102–282, §1(c), May 13, 1992, 106 Stat. 149, provided that: “The Congress finds that—
+Pub. L. 102–282, §1(c), May 13, 1992, 106 Stat. 149, provided that: "The Congress finds that—
 
-“(1) there is substantial evidence that significant corruption occurred in the Food and Drug Administration's process of approving drugs under abbreviated drug applications,
+"(1) there is substantial evidence that significant corruption occurred in the Food and Drug Administration's process of approving drugs under abbreviated drug applications,
 
-“(2) there is a need to establish procedures designed to restore and to ensure the integrity of the abbreviated drug application approval process and to protect the public health, and
+"(2) there is a need to establish procedures designed to restore and to ensure the integrity of the abbreviated drug application approval process and to protect the public health, and
 
-“(3) there is a need to establish procedures to bar individuals who have been convicted of crimes pertaining to the regulation of drug products from working for companies that manufacture or distribute such products.”
+"(3) there is a need to establish procedures to bar individuals who have been convicted of crimes pertaining to the regulation of drug products from working for companies that manufacture or distribute such products."
 
-[<sup>1</sup> So in original. Probably should be “section”.](#335a_1)
+[<sup>1</sup> So in original. Probably should be "section".](#335a_1)

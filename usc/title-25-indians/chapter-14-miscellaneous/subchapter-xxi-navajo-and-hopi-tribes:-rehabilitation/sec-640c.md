@@ -20,13 +20,13 @@ Section was not enacted as part of act Apr. 19, 1950, ch. 92, 64 Stat. 44, which
 
 #### Amendments ####
 
-**2008**—Subsec. (a). Pub. L. 110–315, §946(c)(1)(B), which directed substitution of “Navajo Nation” for “Navajo Tribe” in second sentence, was executed by making the substitution for “Navajo tribe”, to reflect the probable intent of Congress.
+**2008**—Subsec. (a). Pub. L. 110–315, §946(c)(1)(B), which directed substitution of "Navajo Nation" for "Navajo Tribe" in second sentence, was executed by making the substitution for "Navajo tribe", to reflect the probable intent of Congress.
 
-Pub. L. 110–315, §946(c)(1)(A), in first sentence, substituted “Dine College” for “the Navajo Community College” and “October 31, 2010” for “August 1, 1979”.
+Pub. L. 110–315, §946(c)(1)(A), in first sentence, substituted "Dine College" for "the Navajo Community College" and "October 31, 2010" for "August 1, 1979".
 
-Subsec. (b). Pub. L. 110–315, §946(c)(2), substituted “October 1, 2007” for “October 17, 1978”.
+Subsec. (b). Pub. L. 110–315, §946(c)(2), substituted "October 1, 2007" for "October 17, 1978".
 
-Subsec. (c). Pub. L. 110–315, §946(c)(3), substituted “Diné College” for “the Navajo Community College” in first sentence.
+Subsec. (c). Pub. L. 110–315, §946(c)(3), substituted "Diné College" for "the Navajo Community College" in first sentence.
 
 **1990**—Subsec. (c). Pub. L. 101–477 added subsec. (c).
 
@@ -36,4 +36,4 @@ Subsec. (c). Pub. L. 110–315, §946(c)(3), substituted “Diné College” for
 
 The definitions in section 1801 of this title apply to this section.
 
-[<sup>1</sup> So in original. Probably should be “Diné”.](#640c_1)
+[<sup>1</sup> So in original. Probably should be "Diné".](#640c_1)

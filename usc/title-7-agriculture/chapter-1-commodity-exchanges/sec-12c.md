@@ -28,11 +28,11 @@ The Commission, in its discretion, may order a stay of any action taken pursuant
 
 #### Amendments ####
 
-**2000**—Subsec. (e). Pub. L. 106–554 substituted “registered entity” for “contract market” wherever appearing.
+**2000**—Subsec. (e). Pub. L. 106–554 substituted "registered entity" for "contract market" wherever appearing.
 
 **1992**—Pub. L. 102–546 redesignated pars. (1) to (4) as subsecs. (a) to (d), respectively, in subsec. (a) redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, in subsec. (c) substituted references to subsection (b) for references to paragraph (2), in subsec. (d) substituted reference to subsection (a) for reference to paragraph (1), and added subsec. (e).
 
-**1978**—Par. (1)(B). Pub. L. 95–405 substituted “An exchange shall make public its findings and the reasons for the exchange action in any such proceeding, including the action taken or the penalty imposed, but shall not disclose the evidence therefor, except to the person who is suspended, expelled, or disciplined or denied access, and to the Commission” for “Otherwise the notice and reasons shall be kept confidential”.
+**1978**—Par. (1)(B). Pub. L. 95–405 substituted "An exchange shall make public its findings and the reasons for the exchange action in any such proceeding, including the action taken or the penalty imposed, but shall not disclose the evidence therefor, except to the person who is suspended, expelled, or disciplined or denied access, and to the Commission" for "Otherwise the notice and reasons shall be kept confidential".
 
 #### Effective Date of 1978 Amendment ####
 

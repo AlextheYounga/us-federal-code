@@ -34,4 +34,4 @@ Sec.
 
 **1998**—Pub. L. 105–206, title III, §3401(b), July 22, 1998, 112 Stat. 749, added part heading.
 
-**1966**—Pub. L. 89–719, title I, §104(j), Nov. 2, 1966, 80 Stat. 1138, inserted “and return property” in item 6343.
+**1966**—Pub. L. 89–719, title I, §104(j), Nov. 2, 1966, 80 Stat. 1138, inserted "and return property" in item 6343.

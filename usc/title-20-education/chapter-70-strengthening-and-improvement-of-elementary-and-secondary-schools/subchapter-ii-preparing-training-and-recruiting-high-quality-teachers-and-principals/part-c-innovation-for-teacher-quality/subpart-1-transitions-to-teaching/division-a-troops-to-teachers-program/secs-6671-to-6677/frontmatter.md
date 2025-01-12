@@ -32,8 +32,8 @@ Responsibility and authority for operation and administration of the Troops-to-T
 
 #### Existing Agreements ####
 
-Pub. L. 112–239, div. A, title V, §541(d)(3), Jan. 2, 2013, 126 Stat. 1735, provided that: “The repeal of chapter A of subpart 1 of part C of title II of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6671 et seq.) by paragraph (1) shall not affect—
+Pub. L. 112–239, div. A, title V, §541(d)(3), Jan. 2, 2013, 126 Stat. 1735, provided that: "The repeal of chapter A of subpart 1 of part C of title II of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6671 et seq.) by paragraph (1) shall not affect—
 
-“(A) the validity or terms of any agreement entered into under such chapter, as in effect immediately before such repeal, before the effective date of the transfer of the Troops-to-Teachers Program under subsection (a) [set out as a note under section 1154 of Title 10, Armed Forces]; or
+"(A) the validity or terms of any agreement entered into under such chapter, as in effect immediately before such repeal, before the effective date of the transfer of the Troops-to-Teachers Program under subsection (a) [set out as a note under section 1154 of Title 10, Armed Forces]; or
 
-“(B) the authority to pay assistance, make grants, or obtain reimbursement in connection with such an agreement as in effect before the effective date of the transfer of the Troops-to-Teachers Program under subsection (a).”
+"(B) the authority to pay assistance, make grants, or obtain reimbursement in connection with such an agreement as in effect before the effective date of the transfer of the Troops-to-Teachers Program under subsection (a)."

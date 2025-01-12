@@ -2,13 +2,13 @@
 
 #### (a) Establishment ####
 
-There is established within the Office of the Commissioner, an office to be known as the Office of Women's Health (referred to in this section as the “Office”). The Office shall be headed by a director who shall be appointed by the Commissioner of Food and Drugs.
+There is established within the Office of the Commissioner, an office to be known as the Office of Women's Health (referred to in this section as the "Office"). The Office shall be headed by a director who shall be appointed by the Commissioner of Food and Drugs.
 
 #### (b) Purpose ####
 
 The Director of the Office shall—
 
-(1) report to the Commissioner of Food and Drugs on current Food and Drug Administration (referred to in this section as the “Administration”) levels of activity regarding women's participation in clinical trials and the analysis of data by sex in the testing of drugs, medical devices, and biological products across, where appropriate, age, biological, and sociocultural contexts;
+(1) report to the Commissioner of Food and Drugs on current Food and Drug Administration (referred to in this section as the "Administration") levels of activity regarding women's participation in clinical trials and the analysis of data by sex in the testing of drugs, medical devices, and biological products across, where appropriate, age, biological, and sociocultural contexts;
 
 (2) establish short-range and long-range goals and objectives within the Administration for issues of particular concern to women's health within the jurisdiction of the Administration, including, where relevant and appropriate, adequate inclusion of women and analysis of data by sex in Administration protocols and policies;
 

@@ -10,7 +10,7 @@ The Commission shall request each State to nominate a representative for the app
 
 #### (c) Powers ####
 
-The sole authority of each joint board convened under this section shall be to consider issues relevant to what constitutes “security constrained economic dispatch” and how such a mode of operating an electric energy system affects or enhances the reliability and affordability of service to customers in the region concerned and to make recommendations to the Commission regarding such issues.
+The sole authority of each joint board convened under this section shall be to consider issues relevant to what constitutes "security constrained economic dispatch" and how such a mode of operating an electric energy system affects or enhances the reliability and affordability of service to customers in the region concerned and to make recommendations to the Commission regarding such issues.
 
 #### (d) Report to the Congress ####
 

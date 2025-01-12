@@ -6,8 +6,8 @@ There is hereby authorized to be appropriated not to exceed $23,700,000 for the 
 
 #### References in Text ####
 
-Sections 251e to 251m of this title, referred to in text, was in the original “this title”, meaning title III of Pub. L. 94–578.
+Sections 251e to 251m of this title, referred to in text, was in the original "this title", meaning title III of Pub. L. 94–578.
 
 #### Amendments ####
 
-**1980**—Pub. L. 96–199 substituted “$23,700,000” for “$13,000,000”.
+**1980**—Pub. L. 96–199 substituted "$23,700,000" for "$13,000,000".

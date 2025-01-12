@@ -18,7 +18,7 @@
 
 (2) After July 1, 1985, the projected amounts to be charged for firm power for the combined general requirements of public body, cooperative and Federal agency customers, exclusive of amounts charged such customers under subsection (g) of this section for the costs of conservation, resource and conservation credits, experimental resources and uncontrollable events, may not exceed in total, as determined by the Administrator, during any year after July 1, 1985, plus the ensuing four years, an amount equal to the power costs for general requirements of such customers if, the Administrator assumes that—
 
-(A) the public body and cooperative customers’ general requirements had included during such five-year period the direct service industrial customer loads which are—
+(A) the public body and cooperative customers' general requirements had included during such five-year period the direct service industrial customer loads which are—
 
 (i) served by the Administrator, and
 
@@ -52,13 +52,13 @@ were not achieved.
 
 Any such revenue surplus or deficiency incurred shall be recovered from, or repaid to, customers over a reasonable period of time after July 1, 1985, through a supplemental rate charge or credit applied proportionately for all other power sold by the Administrator at rates established under other subsections of this section prior to July 1, 1985.
 
-(4) The term “general requirements” as used in this section means the public body, cooperative or Federal agency customer's electric power purchased from the Administrator under section 839c(b) of this title, exclusive of any new large single load.
+(4) The term "general requirements" as used in this section means the public body, cooperative or Federal agency customer's electric power purchased from the Administrator under section 839c(b) of this title, exclusive of any new large single load.
 
 #### (c) Rates applicable to direct service industrial customers ####
 
 (1) The rate or rates applicable to direct service industrial customers shall be established—
 
-(A) for the period prior to July 1, 1985, at a level which the Administrator estimates will be sufficient to recover the cost of resources the Administrator determines are required to serve such customers’ load and the net costs incurred by the Administrator pursuant to section 839c(c) of this title, based upon the Administrator's projected ability to make power available to such customers pursuant to their contracts, to the extent that such costs are not recovered through rates applicable to other customers; and
+(A) for the period prior to July 1, 1985, at a level which the Administrator estimates will be sufficient to recover the cost of resources the Administrator determines are required to serve such customers' load and the net costs incurred by the Administrator pursuant to section 839c(c) of this title, based upon the Administrator's projected ability to make power available to such customers pursuant to their contracts, to the extent that such costs are not recovered through rates applicable to other customers; and
 
 (B) for the period beginning July 1, 1985, at a level which the Administrator determines to be equitable in relation to the retail rates charged by the public body and cooperative customers to their industrial consumers in the region.
 

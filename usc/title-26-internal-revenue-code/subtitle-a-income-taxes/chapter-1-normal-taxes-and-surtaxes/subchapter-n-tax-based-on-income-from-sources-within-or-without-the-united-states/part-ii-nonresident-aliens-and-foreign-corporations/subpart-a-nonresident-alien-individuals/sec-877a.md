@@ -32,7 +32,7 @@ In the case of any taxable year beginning in a calendar year after 2008, the dol
 
 (I) such dollar amount, multiplied by
 
-(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting “calendar year 2007” for “calendar year 1992” in subparagraph (B) thereof.
+(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting "calendar year 2007" for "calendar year 1992" in subparagraph (B) thereof.
 
 #### (ii) Rounding ####
 
@@ -98,7 +98,7 @@ In the case of any eligible deferred compensation item, the payor shall deduct a
 
 #### (B) Taxable payment ####
 
-For purposes of subparagraph (A), the term “taxable payment” means with respect to a covered expatriate any payment to the extent it would be includible in the gross income of the covered expatriate if such expatriate continued to be subject to tax as a citizen or resident of the United States. A deferred compensation item shall be taken into account as a payment under the preceding sentence when such item would be so includible.
+For purposes of subparagraph (A), the term "taxable payment" means with respect to a covered expatriate any payment to the extent it would be includible in the gross income of the covered expatriate if such expatriate continued to be subject to tax as a citizen or resident of the United States. A deferred compensation item shall be taken into account as a payment under the preceding sentence when such item would be so includible.
 
 #### (2) Other deferred compensation items ####
 
@@ -114,7 +114,7 @@ In the case of any deferred compensation item which is not an eligible deferred 
 
 #### (3) Eligible deferred compensation items ####
 
-For purposes of this subsection, the term “eligible deferred compensation item” means any deferred compensation item with respect to which—
+For purposes of this subsection, the term "eligible deferred compensation item" means any deferred compensation item with respect to which—
 
 (A) the payor of such item is—
 
@@ -130,7 +130,7 @@ For purposes of this subsection, the term “eligible deferred compensation item
 
 #### (4) Deferred compensation item ####
 
-For purposes of this subsection, the term “deferred compensation item” means—
+For purposes of this subsection, the term "deferred compensation item" means—
 
 (A) any interest in a plan or arrangement described in section 219(g)(5),
 
@@ -172,7 +172,7 @@ In the case of any interest in a specified tax deferred account held by a covere
 
 #### (2) Specified tax deferred account ####
 
-For purposes of paragraph (1), the term “specified tax deferred account” means an individual retirement plan (as defined in section 7701(a)(37)) other than any arrangement described in subsection (k) or (p) of section 408, a qualified tuition program (as defined in section 529), a Coverdell education savings account (as defined in section 530), a health savings account (as defined in section 223), and an Archer MSA (as defined in section 220).
+For purposes of paragraph (1), the term "specified tax deferred account" means an individual retirement plan (as defined in section 7701(a)(37)) other than any arrangement described in subsection (k) or (p) of section 408, a qualified tuition program (as defined in section 529), a Coverdell education savings account (as defined in section 530), a health savings account (as defined in section 223), and an Archer MSA (as defined in section 220).
 
 #### (f) Special rules for nongrantor trusts ####
 
@@ -186,11 +186,11 @@ In the case of a distribution (directly or indirectly) of any property from a no
 
 #### (2) Taxable portion ####
 
-For purposes of this subsection, the term “taxable portion” means, with respect to any distribution, that portion of the distribution which would be includible in the gross income of the covered expatriate if such expatriate continued to be subject to tax as a citizen or resident of the United States.
+For purposes of this subsection, the term "taxable portion" means, with respect to any distribution, that portion of the distribution which would be includible in the gross income of the covered expatriate if such expatriate continued to be subject to tax as a citizen or resident of the United States.
 
 #### (3) Nongrantor trust ####
 
-For purposes of this subsection, the term “nongrantor trust” means the portion of any trust that the individual is not considered the owner of under subpart E of part I of subchapter J. The determination under the preceding sentence shall be made immediately before the expatriation date.
+For purposes of this subsection, the term "nongrantor trust" means the portion of any trust that the individual is not considered the owner of under subpart E of part I of subchapter J. The determination under the preceding sentence shall be made immediately before the expatriation date.
 
 #### (4) Special rules relating to withholding ####
 
@@ -212,7 +212,7 @@ For purposes of this section—
 
 #### (A) In general ####
 
-The term “covered expatriate” means an expatriate who meets the requirements of subparagraph (A), (B), or (C) of section 877(a)(2).
+The term "covered expatriate" means an expatriate who meets the requirements of subparagraph (A), (B), or (C) of section 877(a)(2).
 
 #### (B) Exceptions ####
 
@@ -234,7 +234,7 @@ In the case of any covered expatriate who is subject to tax as a citizen or resi
 
 #### (2) Expatriate ####
 
-The term “expatriate” means—
+The term "expatriate" means—
 
 (A) any United States citizen who relinquishes his citizenship, and
 
@@ -242,7 +242,7 @@ The term “expatriate” means—
 
 #### (3) Expatriation date ####
 
-The term “expatriation date” means—
+The term "expatriation date" means—
 
 (A) the date an individual relinquishes United States citizenship, or
 
@@ -264,11 +264,11 @@ Subparagraph (A) or (B) shall not apply to any individual unless the renunciatio
 
 #### (5) Long-term resident ####
 
-The term “long-term resident” has the meaning given to such term by section 877(e)(2).
+The term "long-term resident" has the meaning given to such term by section 877(e)(2).
 
 #### (6) Early distribution tax ####
 
-The term “early distribution tax” means any increase in tax imposed under section 72(t), 220(e)(4),<sup><a href="#877A_1_target" name="877A_1">1</a></sup> 223(f)(4), 409A(a)(1)(B), 529(c)(6), or 530(d)(4).
+The term "early distribution tax" means any increase in tax imposed under section 72(t), 220(e)(4),<sup><a href="#877A_1_target" name="877A_1">1</a></sup> 223(f)(4), 409A(a)(1)(B), 529(c)(6), or 530(d)(4).
 
 #### (h) Other rules ####
 

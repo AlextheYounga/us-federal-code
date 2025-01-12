@@ -46,7 +46,7 @@ Any communication described in paragraph (1) or (2) of subsection (a) of this se
 
 #### (2) Communications by others ####
 
-Any communication described in paragraph (3) of subsection (a) of this section which is transmitted through radio or television shall include, in addition to the requirements of that paragraph, in a clearly spoken manner, the following audio statement: “\_\_\_\_\_\_\_\_\_\_ is responsible for the content of this advertising.” (with the blank to be filled in with the name of the political committee or other person paying for the communication and the name of any connected organization of the payor). If transmitted through television, the statement shall be conveyed by an unobscured, full-screen view of a representative of the political committee or other person making the statement, or by a representative of such political committee or other person in voice-over, and shall also appear in a clearly readable manner with a reasonable degree of color contrast between the background and the printed statement, for a period of at least 4 seconds.
+Any communication described in paragraph (3) of subsection (a) of this section which is transmitted through radio or television shall include, in addition to the requirements of that paragraph, in a clearly spoken manner, the following audio statement: "\_\_\_\_\_\_\_\_\_\_ is responsible for the content of this advertising." (with the blank to be filled in with the name of the political committee or other person paying for the communication and the name of any connected organization of the payor). If transmitted through television, the statement shall be conveyed by an unobscured, full-screen view of a representative of the political committee or other person making the statement, or by a representative of such political committee or other person in voice-over, and shall also appear in a clearly readable manner with a reasonable degree of color contrast between the background and the printed statement, for a period of at least 4 seconds.
 
 (Pub. L. 92–225, title III, §318, formerly §323, as added Pub. L. 94–283, title I, §112(2), May 11, 1976, 90 Stat. 493; renumbered §318 and amended Pub. L. 96–187, title I, §§105(5), 111, Jan. 8, 1980, 93 Stat. 1354, 1365; Pub. L. 107–155, title III, §311, Mar. 27, 2002, 116 Stat. 105.)
 
@@ -58,11 +58,11 @@ Another prior section 318 of Pub. L. 92–225 was renumbered section 313, and is
 
 #### Amendments ####
 
-**2002**—Subsec. (a). Pub. L. 107–155, §311(1)(A)(iv), which directed insertion of “or makes a disbursement for an electioneering communication (as defined in section 434(f)(3) of this title)” after “public political advertising” in introductory provisions, was executed by making the insertion after those words the second time appearing, to reflect the probable intent of Congress.
+**2002**—Subsec. (a). Pub. L. 107–155, §311(1)(A)(iv), which directed insertion of "or makes a disbursement for an electioneering communication (as defined in section 434(f)(3) of this title)" after "public political advertising" in introductory provisions, was executed by making the insertion after those words the second time appearing, to reflect the probable intent of Congress.
 
-Pub. L. 107–155, §311(1)(A)(i)–(iii), in introductory provisions, substituted “Whenever a political committee makes a disbursement for the purpose of financing any communication through any broadcasting station, newspaper, magazine, outdoor advertising facility, mailing, or any other type of general public political advertising, or whenever any person makes a disbursement” for “Whenever any person makes an expenditure” and struck out “direct” before “mailing,” the second time appearing.
+Pub. L. 107–155, §311(1)(A)(i)–(iii), in introductory provisions, substituted "Whenever a political committee makes a disbursement for the purpose of financing any communication through any broadcasting station, newspaper, magazine, outdoor advertising facility, mailing, or any other type of general public political advertising, or whenever any person makes a disbursement" for "Whenever any person makes an expenditure" and struck out "direct" before "mailing," the second time appearing.
 
-Subsec. (a)(3). Pub. L. 107–155, §311(1)(B), inserted “and permanent street address, telephone number, or World Wide Web address” after “name”.
+Subsec. (a)(3). Pub. L. 107–155, §311(1)(B), inserted "and permanent street address, telephone number, or World Wide Web address" after "name".
 
 Subsecs. (c), (d). Pub. L. 107–155, §311(2), added subsecs. (c) and (d).
 
@@ -78,4 +78,4 @@ Amendment by Pub. L. 107–155 effective Nov. 6, 2002, but not applicable with r
 
 Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under section 431 of this title.
 
-[<sup>1</sup> So in original. The word “or” probably should appear at the end of par. (2).](#441d_1)
+[<sup>1</sup> So in original. The word "or" probably should appear at the end of par. (2).](#441d_1)

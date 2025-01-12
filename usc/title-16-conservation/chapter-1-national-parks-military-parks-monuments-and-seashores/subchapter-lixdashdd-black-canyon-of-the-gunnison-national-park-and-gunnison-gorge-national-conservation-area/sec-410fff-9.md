@@ -30,7 +30,7 @@ Not later than 3 years from October 21, 1999, the Secretary shall submit a repor
 
 #### (1) In general ####
 
-Prior to the completion of the study required by subsection (a) of this section, the Secretary may acquire certain private land or interests in land as depicted on the Map entitled “Proposed Additions to the Curecanti National Recreation Area”, dated 01/25/99, totaling approximately 1,065 acres and entitled “Hall and Fitti properties”.
+Prior to the completion of the study required by subsection (a) of this section, the Secretary may acquire certain private land or interests in land as depicted on the Map entitled "Proposed Additions to the Curecanti National Recreation Area", dated 01/25/99, totaling approximately 1,065 acres and entitled "Hall and Fitti properties".
 
 #### (2) Method of acquisition ####
 

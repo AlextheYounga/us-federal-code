@@ -32,19 +32,19 @@ Any Federal agency may provide the Council, with or without reimbursement as may
 
 #### Codification ####
 
-In subsec. (d), “chapter 51 and subchapter III of chapter 53 of title 5” was substituted for “the Classification Act of 1949” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (d), "chapter 51 and subchapter III of chapter 53 of title 5" was substituted for "the Classification Act of 1949" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments ####
 
-**2006**—Subsec. (f). Pub. L. 109–453 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Financial and administrative services (including those related to budgeting, accounting, financial reporting, personnel and procurement) shall be provided the Council by the Department of the Interior, for which payments shall be made in advance, or by reimbursement, from funds of the Council in such amounts as may be agreed upon by the Chairman of the Council and the Secretary of the Interior: *Provided*, That the regulations of the Department of the Interior for the collection of indebtedness of personnel resulting from erroneous payments (5 U.S.C. 46e) shall apply to the collection of erroneous payments made to or on behalf of a Council employee, and regulations of said Secretary for the administrative control of funds (31 U.S.C. 665(g)) shall apply to appropriations of the Council: *And provided further*, That the Council shall not be required to prescribe such regulations.”
+**2006**—Subsec. (f). Pub. L. 109–453 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "Financial and administrative services (including those related to budgeting, accounting, financial reporting, personnel and procurement) shall be provided the Council by the Department of the Interior, for which payments shall be made in advance, or by reimbursement, from funds of the Council in such amounts as may be agreed upon by the Chairman of the Council and the Secretary of the Interior: *Provided*, That the regulations of the Department of the Interior for the collection of indebtedness of personnel resulting from erroneous payments (5 U.S.C. 46e) shall apply to the collection of erroneous payments made to or on behalf of a Council employee, and regulations of said Secretary for the administrative control of funds (31 U.S.C. 665(g)) shall apply to appropriations of the Council: *And provided further*, That the Council shall not be required to prescribe such regulations."
 
-**2000**—Subsec. (g). Pub. L. 106–176 substituted “for that purpose.” for “for the purpose.”.
+**2000**—Subsec. (g). Pub. L. 106–176 substituted "for that purpose." for "for the purpose.".
 
-**1996**—Subsec. (g). Pub. L. 104–333 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The members of the Council specified in paragraphs (2) through (4) of section 470i(a) of this title shall provide the Council, with or without reimbursement as may be agreed upon by the Chairman and the members, with such funds, personnel, facilities, and services under their jurisdiction and control as may be needed by the Council to carry out its duties, to the extent that such funds, personnel, facilities, and services are requested by the Council and are otherwise available for that purpose. To the extent of available appropriations, the Council may obtain, by purchase, rental, donation, or otherwise, such additional property, facilities, and services as may be needed to carry out its duties and may also receive donations of moneys for such purpose, and the Executive Director is authorized, in his discretion, to accept, hold, use, expend, and administer the same for the purposes of this subchapter.”
+**1996**—Subsec. (g). Pub. L. 104–333 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "The members of the Council specified in paragraphs (2) through (4) of section 470i(a) of this title shall provide the Council, with or without reimbursement as may be agreed upon by the Chairman and the members, with such funds, personnel, facilities, and services under their jurisdiction and control as may be needed by the Council to carry out its duties, to the extent that such funds, personnel, facilities, and services are requested by the Council and are otherwise available for that purpose. To the extent of available appropriations, the Council may obtain, by purchase, rental, donation, or otherwise, such additional property, facilities, and services as may be needed to carry out its duties and may also receive donations of moneys for such purpose, and the Executive Director is authorized, in his discretion, to accept, hold, use, expend, and administer the same for the purposes of this subchapter."
 
-**1980**—Subsec. (b). Pub. L. 96–515, §301(i), inserted “, including enforcement of agreements with Federal agencies to which the Council is a party” after “wherever appropriate”.
+**1980**—Subsec. (b). Pub. L. 96–515, §301(i), inserted ", including enforcement of agreements with Federal agencies to which the Council is a party" after "wherever appropriate".
 
-Subsec. (g). Pub. L. 96–515, §301(j), substituted “paragraphs (2) through (4)” for “paragraphs (1) through (16)” and inserted provision authorizing the Council to accept donations of moneys and the Executive Director, in his discretion, to accept, hold, use, expend, and administer such moneys.
+Subsec. (g). Pub. L. 96–515, §301(j), substituted "paragraphs (2) through (4)" for "paragraphs (1) through (16)" and inserted provision authorizing the Council to accept donations of moneys and the Executive Director, in his discretion, to accept, hold, use, expend, and administer such moneys.
 
 **1976**—Subsec. (a). Pub. L. 94–422 substituted provisions authorizing appointment of the Executive Director by the Chairman and that the Executive Director shall report to the Council who shall prescribe his functions and duties for provisions designating the Director of the National Park Service or his designee as the Executive Director of the Council and incorporated provisions relating to furnishing of financial and administrative services by the Department of the Interior in subsec. (f).
 
@@ -60,7 +60,7 @@ Subsec. (f). Pub. L. 94–422 incorporated provisions of former subsec. (a).
 
 Subsec. (g). Pub. L. 94–422 added subsec. (g).
 
-**1970**—Subsec. (d). Pub. L. 91–243 substituted “(9)” for “(6)”.
+**1970**—Subsec. (d). Pub. L. 91–243 substituted "(9)" for "(6)".
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates ####
 

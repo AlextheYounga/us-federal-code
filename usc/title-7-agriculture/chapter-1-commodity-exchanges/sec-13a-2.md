@@ -10,7 +10,7 @@
 
 (5) For purposes of bringing any suit or action under this section, nothing in this chapter shall prevent the attorney general, the administrator of the State securities laws, or other duly authorized State officials from exercising the powers conferred on them by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
 
-(6) For purposes of this section, “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
+(6) For purposes of this section, "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
 
 (7) Nothing contained in this section shall prohibit an authorized State official from proceeding in State court on the basis of an alleged violation of any general civil or criminal antifraud statute of such State.
 
@@ -22,7 +22,7 @@
 
 #### Amendments ####
 
-**2000**—Par. (1). Pub. L. 106–554 inserted “derivatives transaction execution facility,” after “contract market,”.
+**2000**—Par. (1). Pub. L. 106–554 inserted "derivatives transaction execution facility," after "contract market,".
 
 **1992**—Pars. (1), (8)(A). Pub. L. 102–546 inserted reference to floor trader.
 

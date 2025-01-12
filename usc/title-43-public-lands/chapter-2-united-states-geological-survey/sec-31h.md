@@ -16,7 +16,7 @@ Of any amounts appropriated for any fiscal year in excess of the amount appropri
 
 #### References in Text ####
 
-Sections 31a to 31h of this title, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 102–285, known as the National Geologic Mapping Act of 1992, which is classified principally to sections 31a to 31h of this title. For complete classification of this Act to the Code, see Short Title note set out under section 31a of this title and Tables.
+Sections 31a to 31h of this title, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 102–285, known as the National Geologic Mapping Act of 1992, which is classified principally to sections 31a to 31h of this title. For complete classification of this Act to the Code, see Short Title note set out under section 31a of this title and Tables.
 
 #### Prior Provisions ####
 
@@ -26,8 +26,8 @@ A prior section 31h, Pub. L. 102–285, §9, May 18, 1992, 106 Stat. 171; Pub. L
 
 **2009**—Subsec. (a). Pub. L. 111–11, §11001(i)(1), added subsec. (a) and struck out former subsec. (a) which appropriated funds to carry out sections 31a to 31h of this title for fiscal years 1999 to 2005.
 
-Subsec. (b). Pub. L. 111–11, §11001(i)(2)(A), substituted “2005” for “2000” in introductory provisions.
+Subsec. (b). Pub. L. 111–11, §11001(i)(2)(A), substituted "2005" for "2000" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 111–11, §11001(i)(2)(B), substituted “50” for “48”.
+Subsec. (b)(1). Pub. L. 111–11, §11001(i)(2)(B), substituted "50" for "48".
 
-Subsec. (b)(2). Pub. L. 111–11, §11001(i)(2)(C), which directed amendment of par. (2) “by striking 2 and inserting ‘4’ ”, was executed by substituting “4” for “2”, to reflect the probable intent of Congress.
+Subsec. (b)(2). Pub. L. 111–11, §11001(i)(2)(C), which directed amendment of par. (2) "by striking 2 and inserting '4' ", was executed by substituting "4" for "2", to reflect the probable intent of Congress.

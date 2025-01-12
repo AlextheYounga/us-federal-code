@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Producer ####
 
-The term “producer” means any person engaged in the raising and caring for livestock or poultry for slaughter.
+The term "producer" means any person engaged in the raising and caring for livestock or poultry for slaughter.
 
 #### (2) Processor ####
 
-The term “processor” means any person engaged in the business of obtaining livestock or poultry for the purpose of slaughtering the livestock or poultry.
+The term "processor" means any person engaged in the business of obtaining livestock or poultry for the purpose of slaughtering the livestock or poultry.
 
 #### (b) No prohibition of discussion ####
 

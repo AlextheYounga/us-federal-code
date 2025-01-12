@@ -20,7 +20,7 @@ The second par. of this section is from act Apr. 5, 1910.
 
 #### Change of Name ####
 
-“District court” substituted in text for “circuit court” to conform to act Mar. 3, 1911, which transferred powers and duties of circuit courts to district courts.
+"District court" substituted in text for "circuit court" to conform to act Mar. 3, 1911, which transferred powers and duties of circuit courts to district courts.
 
 #### Effective Date of 1948 Amendment ####
 

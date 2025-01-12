@@ -6,8 +6,8 @@ In furtherance of the purposes of sections 428 to 428d and 428e to 428i of this 
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–367 substituted “Tennessee” for “Tennessee, but the total area commemorating the battle of Fort Donelson shall not exceed 600 acres”.
+**2004**—Pub. L. 108–367 substituted "Tennessee" for "Tennessee, but the total area commemorating the battle of Fort Donelson shall not exceed 600 acres".
 
 #### Change of Name ####
 
-“Fort Donelson National Battlefield” and “battlefield” substituted in text for “Fort Donelson National Military Park” and “park”, respectively, in view of redesignation of Fort Donelson National Military Park as Fort Donelson National Battlefield by Pub. L. 86–738, §4, set out as section 428n of this title.
+"Fort Donelson National Battlefield" and "battlefield" substituted in text for "Fort Donelson National Military Park" and "park", respectively, in view of redesignation of Fort Donelson National Military Park as Fort Donelson National Battlefield by Pub. L. 86–738, §4, set out as section 428n of this title.

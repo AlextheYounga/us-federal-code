@@ -6,29 +6,29 @@ In this section:
 
 #### (1) BARDA ####
 
-The term “BARDA” means the Biomedical Advanced Research and Development Authority.
+The term "BARDA" means the Biomedical Advanced Research and Development Authority.
 
 #### (2) Fund ####
 
-The term “Fund” means the Biodefense Medical Countermeasure Development Fund established under subsection (d).
+The term "Fund" means the Biodefense Medical Countermeasure Development Fund established under subsection (d).
 
 #### (3) Other transactions ####
 
-The term “other transactions” means transactions, other than procurement contracts, grants, and cooperative agreements, such as the Secretary of Defense may enter into under section 2371 of title 10.
+The term "other transactions" means transactions, other than procurement contracts, grants, and cooperative agreements, such as the Secretary of Defense may enter into under section 2371 of title 10.
 
 #### (4) Qualified countermeasure ####
 
-The term “qualified countermeasure” has the meaning given such term in section 247d–6a of this title.
+The term "qualified countermeasure" has the meaning given such term in section 247d–6a of this title.
 
 #### (5) Qualified pandemic or epidemic product ####
 
-The term “qualified pandemic or epidemic product” has the meaning given the term in section 247d–6d of this title.
+The term "qualified pandemic or epidemic product" has the meaning given the term in section 247d–6d of this title.
 
 #### (6) Advanced research and development ####
 
 #### (A) In general ####
 
-The term “advanced research and development” means, with respect to a product that is or may become a qualified countermeasure or a qualified pandemic or epidemic product, activities that predominantly—
+The term "advanced research and development" means, with respect to a product that is or may become a qualified countermeasure or a qualified pandemic or epidemic product, activities that predominantly—
 
 (i) are conducted after basic research and preclinical development of the product; and
 
@@ -50,19 +50,19 @@ The term under subparagraph (A) includes—
 
 #### (7) Security countermeasure ####
 
-The term “security countermeasure” has the meaning given such term in section 247d–6b of this title.
+The term "security countermeasure" has the meaning given such term in section 247d–6b of this title.
 
 #### (8) Research tool ####
 
-The term “research tool” means a device, technology, biological material (including a cell line or an antibody), reagent, animal model, computer system, computer software, or analytical technique that is developed to assist in the discovery, development, or manufacture of qualified countermeasures or qualified pandemic or epidemic products.
+The term "research tool" means a device, technology, biological material (including a cell line or an antibody), reagent, animal model, computer system, computer software, or analytical technique that is developed to assist in the discovery, development, or manufacture of qualified countermeasures or qualified pandemic or epidemic products.
 
 #### (9) Program manager ####
 
-The term “program manager” means an individual appointed to carry out functions under this section and authorized to provide project oversight and management of strategic initiatives.
+The term "program manager" means an individual appointed to carry out functions under this section and authorized to provide project oversight and management of strategic initiatives.
 
 #### (10) Person ####
 
-The term “person” includes an individual, partnership, corporation, association, entity, or public or private corporation, and a Federal, State, or local government agency or department.
+The term "person" includes an individual, partnership, corporation, association, entity, or public or private corporation, and a Federal, State, or local government agency or department.
 
 #### (b) Strategic plan for countermeasure research, development, and procurement ####
 
@@ -76,7 +76,7 @@ The strategic plan under paragraph (1) shall guide—
 
 (A) research and development, conducted or supported by the Department of Health and Human Services, of qualified countermeasures and qualified pandemic or epidemic products against possible biological, chemical, radiological, and nuclear agents and to emerging infectious diseases;
 
-(B) innovation in technologies that may assist advanced research and development of qualified countermeasures and qualified pandemic or epidemic products (such research and development referred to in this section as “countermeasure and product advanced research and development”); and
+(B) innovation in technologies that may assist advanced research and development of qualified countermeasures and qualified pandemic or epidemic products (such research and development referred to in this section as "countermeasure and product advanced research and development"); and
 
 (C) procurement of such qualified countermeasures and qualified pandemic or epidemic products by such Department.
 
@@ -100,7 +100,7 @@ Based upon the strategic plan described in subsection (b), the Secretary shall c
 
 #### (3) Director ####
 
-The BARDA shall be headed by a Director (referred to in this section as the “Director”) who shall be appointed by the Secretary and to whom the Secretary shall delegate such functions and authorities as necessary to implement this section.
+The BARDA shall be headed by a Director (referred to in this section as the "Director") who shall be appointed by the Secretary and to whom the Secretary shall delegate such functions and authorities as necessary to implement this section.
 
 #### (4) Duties ####
 
@@ -188,7 +188,7 @@ Provisions in such section 247d–6a of this title that apply to such authoritie
 
 #### (iii) Authority to limit competition ####
 
-For purposes of applying section 247d–6a(b)(1)(D) of this title to this paragraph, the phrase “BioShield Program under the Project BioShield Act of 2004” shall be deemed to mean the countermeasure and product advanced research and development program under this section.
+For purposes of applying section 247d–6a(b)(1)(D) of this title to this paragraph, the phrase "BioShield Program under the Project BioShield Act of 2004" shall be deemed to mean the countermeasure and product advanced research and development program under this section.
 
 #### (iv) Availability of data ####
 
@@ -236,7 +236,7 @@ The authority provided for in this subparagraph shall be exercised subject to th
 
 #### (iii) Term of appointment ####
 
-The term limitations described in section 9903(c) of title 5 shall apply to appointments under this subparagraph, except that the references to the “Secretary” and to the “Department of Defense's national security missions” shall be deemed to be to the Secretary of Health and Human Services and to the mission of the Department of Health and Human Services under this section.
+The term limitations described in section 9903(c) of title 5 shall apply to appointments under this subparagraph, except that the references to the "Secretary" and to the "Department of Defense's national security missions" shall be deemed to be to the Secretary of Health and Human Services and to the mission of the Department of Health and Human Services under this section.
 
 #### (B) Special consultants ####
 
@@ -318,26 +318,26 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e)(2),
 
 #### Codification ####
 
-In subsec. (c)(5)(A)(ii)(II), “section 1702(c) of title 41” substituted for “section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(5)(A)(ii)(II), "section 1702(c) of title 41" substituted for "section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(5)(C), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(5)(C), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(5)(F), “section 3304(a)(3) of title 41” substituted for “section 303(c)(3) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(3))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(5)(F), "section 3304(a)(3) of title 41" substituted for "section 303(c)(3) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(3))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments ####
 
-**2013**—Subsec. (c)(4)(B)(iii). Pub. L. 113–5, §402(a)(1), inserted “(which may include advanced research and development for purposes of fulfilling requirements under the Federal Food, Drug, and Cosmetic Act or section 262 of this title)” after “research and development”.
+**2013**—Subsec. (c)(4)(B)(iii). Pub. L. 113–5, §402(a)(1), inserted "(which may include advanced research and development for purposes of fulfilling requirements under the Federal Food, Drug, and Cosmetic Act or section 262 of this title)" after "research and development".
 
-Subsec. (c)(4)(D)(iii). Pub. L. 113–5, §402(a)(2), substituted “vaccine-manufacturing technologies, dose-sparing technologies, efficacy-increasing technologies, and platform technologies” for “and vaccine manufacturing technologies”.
+Subsec. (c)(4)(D)(iii). Pub. L. 113–5, §402(a)(2), substituted "vaccine-manufacturing technologies, dose-sparing technologies, efficacy-increasing technologies, and platform technologies" for "and vaccine manufacturing technologies".
 
 Subsec. (c)(5)(G). Pub. L. 113–5, §402(b), added subpar. (G).
 
-Subsec. (d)(2). Pub. L. 113–5, §402(c), amended par. (2) generally. Prior to amendment, text read as follows: “To carry out the purposes of this section, there are authorized to be appropriated to the Fund—
+Subsec. (d)(2). Pub. L. 113–5, §402(c), amended par. (2) generally. Prior to amendment, text read as follows: "To carry out the purposes of this section, there are authorized to be appropriated to the Fund—
 
-“(A) $1,070,000,000 for fiscal years 2006 through 2008, the amounts to remain available until expended; and
+"(A) $1,070,000,000 for fiscal years 2006 through 2008, the amounts to remain available until expended; and
 
-“(B) such sums as may be necessary for subsequent fiscal years, the amounts to remain available until expended.”
+"(B) such sums as may be necessary for subsequent fiscal years, the amounts to remain available until expended."
 
-Subsec. (e)(1)(C). Pub. L. 113–5, §402(d), substituted “12 years” for “7 years”.
+Subsec. (e)(1)(C). Pub. L. 113–5, §402(d), substituted "12 years" for "7 years".
 
 Subsec. (f). Pub. L. 113–5, §402(f), added subsec. (f).

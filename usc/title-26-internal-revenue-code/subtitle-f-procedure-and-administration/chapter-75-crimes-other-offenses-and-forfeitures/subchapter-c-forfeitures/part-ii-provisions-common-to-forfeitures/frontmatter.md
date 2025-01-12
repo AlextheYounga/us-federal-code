@@ -20,8 +20,8 @@ Sec.
 
 #### Amendments ####
 
-**1986**—Pub. L. 99–514, title XV, §1566(d), Oct. 22, 1986, 100 Stat. 2763, substituted “$100,000” for “$2,500” in item 7325.
+**1986**—Pub. L. 99–514, title XV, §1566(d), Oct. 22, 1986, 100 Stat. 2763, substituted "$100,000" for "$2,500" in item 7325.
 
-**1976**—Pub. L. 94–455, title XIX, §1904(b)(8)(H)(ii), Oct. 4, 1976, 90 Stat. 1816, struck out item 7328 “Confiscation of matches exported” and redesignated item 7329 as 7328.
+**1976**—Pub. L. 94–455, title XIX, §1904(b)(8)(H)(ii), Oct. 4, 1976, 90 Stat. 1816, struck out item 7328 "Confiscation of matches exported" and redesignated item 7329 as 7328.
 
-**1958**—Pub. L. 85–859, title II, §204(11), Sept. 2, 1958, 72 Stat. 1429, substituted “$2,500” for “$1,000” in item 7325.
+**1958**—Pub. L. 85–859, title II, §204(11), Sept. 2, 1958, 72 Stat. 1429, substituted "$2,500" for "$1,000" in item 7325.

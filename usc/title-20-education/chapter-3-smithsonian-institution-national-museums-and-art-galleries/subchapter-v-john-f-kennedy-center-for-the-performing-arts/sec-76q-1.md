@@ -6,31 +6,31 @@ In this section, the following definitions apply:
 
 #### (1) Air rights ####
 
-The term “air rights” means real property interests conveyed by deed, lease, or permit for the use of space between streets and alleys within the boundaries of the Project.
+The term "air rights" means real property interests conveyed by deed, lease, or permit for the use of space between streets and alleys within the boundaries of the Project.
 
 #### (2) Center ####
 
-The term “Center” means the John F. Kennedy Center for the Performing Arts.
+The term "Center" means the John F. Kennedy Center for the Performing Arts.
 
 #### (3) Green spaces ####
 
-The term “green spaces” means areas within the boundaries of the Project or affected by the Project that are covered by grass, trees, or other vegetation.
+The term "green spaces" means areas within the boundaries of the Project or affected by the Project that are covered by grass, trees, or other vegetation.
 
 #### (4) Plaza ####
 
-The term “Plaza” means improvements to the area surrounding the John F. Kennedy Center building carried out under the Project and comprised of transportation elements (including roadways, sidewalks, and bicycle lanes) and non-transportation elements (including landscaping, green space, open public space, water, sewer, and utility connections).
+The term "Plaza" means improvements to the area surrounding the John F. Kennedy Center building carried out under the Project and comprised of transportation elements (including roadways, sidewalks, and bicycle lanes) and non-transportation elements (including landscaping, green space, open public space, water, sewer, and utility connections).
 
 #### (5) Project ####
 
-The term “Project” means the Plaza project, as described in the TEA–21 report, providing for construction of a Plaza adjacent to the Center and for improved bicycle, pedestrian, and vehicular access to and around the Center. The term includes planning, design, engineering, and construction of the Plaza, buildings to be constructed on the Plaza, and related transportation improvements and may include any other elements of the Project identified in the TEA–21 report.
+The term "Project" means the Plaza project, as described in the TEA–21 report, providing for construction of a Plaza adjacent to the Center and for improved bicycle, pedestrian, and vehicular access to and around the Center. The term includes planning, design, engineering, and construction of the Plaza, buildings to be constructed on the Plaza, and related transportation improvements and may include any other elements of the Project identified in the TEA–21 report.
 
 #### (6) Secretary ####
 
-The term “Secretary” means the Secretary of Transportation.
+The term "Secretary" means the Secretary of Transportation.
 
 #### (7) TEA–21 report ####
 
-The term “TEA–21 report” means the report of the Secretary submitted to Congress under section 1214 of the Transportation Equity Act for the 21st Century (20 U.S.C. 76j note; 112 Stat. 204).
+The term "TEA–21 report" means the report of the Secretary submitted to Congress under section 1214 of the Transportation Equity Act for the 21st Century (20 U.S.C. 76j note; 112 Stat. 204).
 
 #### (b) Responsibilities of the Secretary ####
 
@@ -166,7 +166,7 @@ A prior section 12 of Pub. L. 85–874 was renumbered section 13 and is classifi
 
 **2004**—Subsec. (b)(6). Pub. L. 108–410, §3(a), added par. (6).
 
-Subsec. (c)(1), (3). Pub. L. 108–410, §3(b)(1), (2), inserted “, in consultation with the Project Team,” after “The Board”.
+Subsec. (c)(1), (3). Pub. L. 108–410, §3(b)(1), (2), inserted ", in consultation with the Project Team," after "The Board".
 
 Subsec. (c)(5). Pub. L. 108–410, §3(b)(3), added par. (5).
 

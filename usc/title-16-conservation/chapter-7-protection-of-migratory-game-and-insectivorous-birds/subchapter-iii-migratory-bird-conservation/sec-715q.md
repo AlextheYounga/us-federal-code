@@ -6,6 +6,6 @@ A sum sufficient to pay the necessary expenses of the commission and its members
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+**2004**—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-**1962**—Pub. L. 87–812 increased annual expenditures from not more than $5,000 to not more than $7,500 and corrected a misspelling of “commission”.
+**1962**—Pub. L. 87–812 increased annual expenditures from not more than $5,000 to not more than $7,500 and corrected a misspelling of "commission".

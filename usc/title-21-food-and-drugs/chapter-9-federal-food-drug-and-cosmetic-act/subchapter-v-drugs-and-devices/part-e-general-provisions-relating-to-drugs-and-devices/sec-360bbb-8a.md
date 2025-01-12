@@ -16,7 +16,7 @@ The Secretary shall—
 
 #### (b) Medical product ####
 
-In this section, the term “medical product” means a drug, as defined in subsection (g) of section 321 of this title, a device, as defined in subsection (h) of such section, or a biological product, as defined in section 262(i) of title 42.
+In this section, the term "medical product" means a drug, as defined in subsection (g) of section 321 of this title, a device, as defined in subsection (h) of such section, or a biological product, as defined in section 262(i) of title 42.
 
 #### (c) Savings clause ####
 

@@ -12,13 +12,13 @@ Such records or books, or copies thereof, so authenticated, shall have the same 
 
 Based on title 28, U.S.C., 1940 ed., §688 (R.S. §906).
 
-Words “Possession of the United States” were substituted for “or any country subject to the jurisdiction of the United States.”
+Words "Possession of the United States" were substituted for "or any country subject to the jurisdiction of the United States."
 
-Words “or copies thereof” were added in two places. Copies have always been used to prove records and books under section 688 of title 28, U.S.C., 1940 ed., and the addition of these words clarifies the former implied meaning of such section.
+Words "or copies thereof" were added in two places. Copies have always been used to prove records and books under section 688 of title 28, U.S.C., 1940 ed., and the addition of these words clarifies the former implied meaning of such section.
 
-In the first paragraph of the revised section words “a judge of a court of record” were substituted for words “the presiding justice of the court” and in the second paragraph “judge” was substituted for “presiding justice” for convenience and without change of substance.
+In the first paragraph of the revised section words "a judge of a court of record" were substituted for words "the presiding justice of the court" and in the second paragraph "judge" was substituted for "presiding justice" for convenience and without change of substance.
 
-Words “and its Territories and Possessions” were added after “United States”, near the end of the section, in view of provisions of section 688 of title 28, U.S.C., 1940 ed., for the admission of records and books in any court or office in any other State, Territory, or “in any such country.” (Changed to “Possession” in this section.)
+Words "and its Territories and Possessions" were added after "United States", near the end of the section, in view of provisions of section 688 of title 28, U.S.C., 1940 ed., for the admission of records and books in any court or office in any other State, Territory, or "in any such country." (Changed to "Possession" in this section.)
 
 See also Rule 44 of the Federal Rules of Civil Procedure.
 

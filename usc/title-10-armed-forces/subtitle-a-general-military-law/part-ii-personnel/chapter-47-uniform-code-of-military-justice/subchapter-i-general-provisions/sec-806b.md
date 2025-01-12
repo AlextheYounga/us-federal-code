@@ -34,7 +34,7 @@
 
 (8) The right to be treated with fairness and with respect for the dignity and privacy of the victim of an offense under this chapter.
 
-(b) Victim of an Offense Under This Chapter Defined.—In this section, the term “victim of an offense under this chapter” means a person who has suffered direct physical, emotional, or pecuniary harm as a result of the commission of an offense under this chapter (the Uniform Code of Military Justice).
+(b) Victim of an Offense Under This Chapter Defined.—In this section, the term "victim of an offense under this chapter" means a person who has suffered direct physical, emotional, or pecuniary harm as a result of the commission of an offense under this chapter (the Uniform Code of Military Justice).
 
 (c) Legal Guardian for Certain Victims.—In the case of a victim of an offense under this chapter who is under 18 years of age, incompetent, incapacitated, or deceased, the military judge shall designate a legal guardian from among the representatives of the estate of the victim, a family member, or other suitable person to assume the victim's rights under this section. However, in no event may the person so designated be the accused.
 
@@ -50,20 +50,20 @@
 
 Pub. L. 113–66, div. A, title XVII, §1701(b), Dec. 26, 2013, 127 Stat. 953, provided that:
 
-“(1) Issuance.—Not later than one year after the date of the enactment of this Act [Dec. 26, 2013]—
+"(1) Issuance.—Not later than one year after the date of the enactment of this Act [Dec. 26, 2013]—
 
-“(A) the Secretary of Defense shall recommend to the President changes to the Manual for Courts-Martial to implement section 806b of title 10, United States Code (article 6b of the Uniform Code of Military Justice), as added by subsection (a); and
+"(A) the Secretary of Defense shall recommend to the President changes to the Manual for Courts-Martial to implement section 806b of title 10, United States Code (article 6b of the Uniform Code of Military Justice), as added by subsection (a); and
 
-“(B) the Secretary of Defense and Secretary of Homeland Security (with respect to the Coast Guard when it is not operating as a service in the Navy) shall prescribe such regulations as each such Secretary considers appropriate to implement such section.
+"(B) the Secretary of Defense and Secretary of Homeland Security (with respect to the Coast Guard when it is not operating as a service in the Navy) shall prescribe such regulations as each such Secretary considers appropriate to implement such section.
 
-“(2) Mechanisms for affording rights.—The recommendations and regulations required by paragraph (1) shall include the following:
+"(2) Mechanisms for affording rights.—The recommendations and regulations required by paragraph (1) shall include the following:
 
-“(A) Mechanisms for ensuring that victims are notified of, and accorded, the rights specified in section 806b of title 10, United States Code (article 6b of the Uniform Code of Military Justice), as added by subsection (a).
+"(A) Mechanisms for ensuring that victims are notified of, and accorded, the rights specified in section 806b of title 10, United States Code (article 6b of the Uniform Code of Military Justice), as added by subsection (a).
 
-“(B) Mechanisms for ensuring that members of the Armed Forces and civilian personnel of the Department of Defense and the Coast Guard make their best efforts to ensure that victims are notified of, and accorded, the rights specified in such section.
+"(B) Mechanisms for ensuring that members of the Armed Forces and civilian personnel of the Department of Defense and the Coast Guard make their best efforts to ensure that victims are notified of, and accorded, the rights specified in such section.
 
-“(C) Mechanisms for the enforcement of such rights, including mechanisms for application for such rights and for consideration and disposition of applications for such rights.
+"(C) Mechanisms for the enforcement of such rights, including mechanisms for application for such rights and for consideration and disposition of applications for such rights.
 
-“(D) The designation of an authority within each Armed Force to receive and investigate complaints relating to the provision or violation of such rights.
+"(D) The designation of an authority within each Armed Force to receive and investigate complaints relating to the provision or violation of such rights.
 
-“(E) Disciplinary sanctions for members of the Armed Forces and other personnel of the Department of Defense and Coast Guard who willfully or wantonly fail to comply with requirements relating to such rights.”
+"(E) Disciplinary sanctions for members of the Armed Forces and other personnel of the Department of Defense and Coast Guard who willfully or wantonly fail to comply with requirements relating to such rights."

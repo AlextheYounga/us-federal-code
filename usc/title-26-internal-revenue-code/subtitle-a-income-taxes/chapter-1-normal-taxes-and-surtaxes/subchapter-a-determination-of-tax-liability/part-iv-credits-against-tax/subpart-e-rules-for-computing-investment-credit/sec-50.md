@@ -62,7 +62,7 @@ For purposes of this subsection, property shall not be treated as ceasing to be 
 
 #### (A) Investment credit property ####
 
-For purposes of this subsection, the term “investment credit property” means any property eligible for a credit determined under this subpart.
+For purposes of this subsection, the term "investment credit property" means any property eligible for a credit determined under this subpart.
 
 #### (B) Transfer between spouses or incident to divorce ####
 
@@ -140,7 +140,7 @@ For purposes of this subtitle, if a credit is determined under this subpart with
 
 #### (2) Certain dispositions ####
 
-If during any taxable year there is a recapture amount determined with respect to any property the basis of which was reduced under paragraph (1), the basis of such property (immediately before the event resulting in such recapture) shall be increased by an amount equal to such recapture amount. For purposes of the preceding sentence, the term “recapture amount” means any increase in tax (or adjustment in carrybacks or carryovers) determined under subsection (a).
+If during any taxable year there is a recapture amount determined with respect to any property the basis of which was reduced under paragraph (1), the basis of such property (immediately before the event resulting in such recapture) shall be increased by an amount equal to such recapture amount. For purposes of the preceding sentence, the term "recapture amount" means any increase in tax (or adjustment in carrybacks or carryovers) determined under subsection (a).
 
 #### (3) Special rule ####
 
@@ -202,15 +202,15 @@ A prior section 50, Pub. L. 92–178, title I, §101(a), Dec. 10, 1971, 85 Stat.
 
 #### Amendments ####
 
-**2005**—Subsec. (a)(2)(E). Pub. L. 109–135 substituted “section 48(b)” for “section 48(a)(5)”.
+**2005**—Subsec. (a)(2)(E). Pub. L. 109–135 substituted "section 48(b)" for "section 48(a)(5)".
 
-**2004**—Subsec. (c)(3). Pub. L. 108–357 struck out “or reforestation credit” after “energy credit” in introductory provisions.
+**2004**—Subsec. (c)(3). Pub. L. 108–357 struck out "or reforestation credit" after "energy credit" in introductory provisions.
 
-**1998**—Subsec. (a)(5)(C). Pub. L. 105–206 substituted “this chapter” for “subpart A, B, D, or G”.
+**1998**—Subsec. (a)(5)(C). Pub. L. 105–206 substituted "this chapter" for "subpart A, B, D, or G".
 
-**1996**—Subsec. (a)(2)(C). Pub. L. 104–188, §1704(t)(29), substituted “subsection (d)(5)” for “subsection (c)(4)”.
+**1996**—Subsec. (a)(2)(C). Pub. L. 104–188, §1704(t)(29), substituted "subsection (d)(5)" for "subsection (c)(4)".
 
-Subsec. (a)(2)(E). Pub. L. 104–188, §1702(h)(11), substituted “48(a)(5)” for “48(a)(5)(A)”.
+Subsec. (a)(2)(E). Pub. L. 104–188, §1702(h)(11), substituted "48(a)(5)" for "48(a)(5)(A)".
 
 Subsec. (d). Pub. L. 104–188, §1616(b)(1), inserted closing provisions.
 

@@ -6,7 +6,7 @@ Upon acquisition of the land known as Knob Creek Farm pursuant to subsection (b)
 
 #### (b) Acquisition of Knob Creek Farm ####
 
-The Secretary of the Interior may acquire, by donation only, the approximately 228 acres of land known as Knob Creek Farm in Larue County, Kentucky, as generally depicted on a map entitled “Knob Creek Farm Unit, Abraham Lincoln National Historic Site”, numbered 338/80,077, and dated October 1998. Such map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+The Secretary of the Interior may acquire, by donation only, the approximately 228 acres of land known as Knob Creek Farm in Larue County, Kentucky, as generally depicted on a map entitled "Knob Creek Farm Unit, Abraham Lincoln National Historic Site", numbered 338/80,077, and dated October 1998. Such map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
 #### (c) Study and report ####
 
@@ -32,4 +32,4 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### Change of Name ####
 
-“Abraham Lincoln Birthplace National Historical Park” substituted for “Abraham Lincoln Birthplace National Historic Site” in section catchline and in subsecs. (a) and (c)(3) pursuant to Pub. L. 111–11.
+"Abraham Lincoln Birthplace National Historical Park" substituted for "Abraham Lincoln Birthplace National Historic Site" in section catchline and in subsecs. (a) and (c)(3) pursuant to Pub. L. 111–11.

@@ -4,13 +4,13 @@
 
 For purposes of this section:
 
-(1) The term “alcohol beverage industry” means the brewers, vintners, distillers, importers, distributors, and retail or online outlets that sell or serve beer, wine, and distilled spirits.
+(1) The term "alcohol beverage industry" means the brewers, vintners, distillers, importers, distributors, and retail or online outlets that sell or serve beer, wine, and distilled spirits.
 
-(2) The term “school-based prevention” means programs, which are institutionalized, and run by staff members or school-designated persons or organizations in any grade of school, kindergarten through 12th grade.
+(2) The term "school-based prevention" means programs, which are institutionalized, and run by staff members or school-designated persons or organizations in any grade of school, kindergarten through 12th grade.
 
-(3) The term “youth” means persons under the age of 21.
+(3) The term "youth" means persons under the age of 21.
 
-(4) The term “IOM report” means the report released in September 2003 by the National Research Council, Institute of Medicine, and entitled “Reducing Underage Drinking: A Collective Responsibility”.
+(4) The term "IOM report" means the report released in September 2003 by the National Research Council, Institute of Medicine, and entitled "Reducing Underage Drinking: A Collective Responsibility".
 
 #### (b) Sense of Congress ####
 
@@ -44,7 +44,7 @@ It is the sense of the Congress that:
 
 #### (A) In general ####
 
-The Secretary, in collaboration with the Federal officials specified in subparagraph (B), shall formally establish and enhance the efforts of the interagency coordinating committee, that began operating in 2004, focusing on underage drinking (referred to in this subsection as the “Committee”).
+The Secretary, in collaboration with the Federal officials specified in subparagraph (B), shall formally establish and enhance the efforts of the interagency coordinating committee, that began operating in 2004, focusing on underage drinking (referred to in this subsection as the "Committee").
 
 #### (B) Other agencies ####
 
@@ -164,7 +164,7 @@ There are authorized to be appropriated to carry out this subsection, $1,000,000
 
 #### (A) Authorization of program ####
 
-The Administrator of the Substance Abuse and Mental Health Services Administration, in consultation with the Director of the Office of National Drug Control Policy, shall award, if the Administrator determines that the Department of Health and Human Services is not currently conducting activities that duplicate activities of the type described in this subsection, “enhancement grants” to eligible entities to design, test, evaluate and disseminate effective strategies to maximize the effectiveness of community-wide approaches to preventing and reducing underage drinking. This subsection is subject to the availability of appropriations.
+The Administrator of the Substance Abuse and Mental Health Services Administration, in consultation with the Director of the Office of National Drug Control Policy, shall award, if the Administrator determines that the Department of Health and Human Services is not currently conducting activities that duplicate activities of the type described in this subsection, "enhancement grants" to eligible entities to design, test, evaluate and disseminate effective strategies to maximize the effectiveness of community-wide approaches to preventing and reducing underage drinking. This subsection is subject to the availability of appropriations.
 
 #### (B) Purposes ####
 
@@ -204,7 +204,7 @@ Grants under this paragraph shall be subject to the same evaluation requirements
 
 #### (G) Definitions ####
 
-For purposes of this paragraph, the term “eligible entity” means an organization that is currently receiving or has received grant funds under the Drug-Free Communities Act of 1997 (21 U.S.C. 1521 et seq.).
+For purposes of this paragraph, the term "eligible entity" means an organization that is currently receiving or has received grant funds under the Drug-Free Communities Act of 1997 (21 U.S.C. 1521 et seq.).
 
 #### (H) Administrative expenses ####
 
@@ -272,23 +272,23 @@ For purposes of this paragraph:
 
 #### (i) Eligible entity ####
 
-The term “eligible entity” means a State, institution of higher education, or nonprofit entity.
+The term "eligible entity" means a State, institution of higher education, or nonprofit entity.
 
 #### (ii) Institution of higher education ####
 
-The term “institution of higher education” has the meaning given the term in section 1001(a) of title 20.
+The term "institution of higher education" has the meaning given the term in section 1001(a) of title 20.
 
 #### (iii) Secretary ####
 
-The term “Secretary” means the Secretary of Education.
+The term "Secretary" means the Secretary of Education.
 
 #### (iv) State ####
 
-The term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+The term "State" means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 #### (v) Statewide coalition ####
 
-The term “statewide coalition” means a coalition that—
+The term "statewide coalition" means a coalition that—
 
 (I) includes, but is not limited to—
 
@@ -300,7 +300,7 @@ The term “statewide coalition” means a coalition that—
 
 #### (vi) Surrounding community ####
 
-The term “surrounding community” means the community—
+The term "surrounding community" means the community—
 
 (I) that surrounds an institution of higher education participating in a statewide coalition;
 

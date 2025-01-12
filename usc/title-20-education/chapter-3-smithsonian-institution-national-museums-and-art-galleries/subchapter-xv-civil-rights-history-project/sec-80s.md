@@ -24,4 +24,4 @@ It is the purpose of this subchapter to create a new federally sponsored, author
 
 #### Short Title ####
 
-Pub. L. 111–19, §1, May 12, 2009, 123 Stat. 1612, provided that: “This Act [enacting this subchapter] may be cited as the ‘Civil Rights History Project Act of 2009’.”
+Pub. L. 111–19, §1, May 12, 2009, 123 Stat. 1612, provided that: "This Act [enacting this subchapter] may be cited as the 'Civil Rights History Project Act of 2009'."

@@ -10,6 +10,6 @@ A prior section 373 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, §1
 
 #### Amendments ####
 
-**1990**—Pub. L. 101–616 struck out “and bone marrow registry” after “Scientific registry” in section catchline and struck out subsec. (a) designation and subsec. (b) which directed establishment of bone marrow registry and authorized appropriations for fiscal years 1989 and 1990 for such purpose.
+**1990**—Pub. L. 101–616 struck out "and bone marrow registry" after "Scientific registry" in section catchline and struck out subsec. (a) designation and subsec. (b) which directed establishment of bone marrow registry and authorized appropriations for fiscal years 1989 and 1990 for such purpose.
 
-**1988**—Pub. L. 100–607 inserted “and bone marrow registry” in section catchline, designated existing text as subsec. (a), and added subsec. (b).
+**1988**—Pub. L. 100–607 inserted "and bone marrow registry" in section catchline, designated existing text as subsec. (a), and added subsec. (b).

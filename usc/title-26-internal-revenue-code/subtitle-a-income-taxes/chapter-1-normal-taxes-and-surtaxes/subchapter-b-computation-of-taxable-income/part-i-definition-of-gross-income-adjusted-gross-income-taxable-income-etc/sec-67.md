@@ -6,7 +6,7 @@ In the case of an individual, the miscellaneous itemized deductions for any taxa
 
 #### (b) Miscellaneous itemized deductions ####
 
-For purposes of this section, the term “miscellaneous itemized deductions” means the itemized deductions other than—
+For purposes of this section, the term "miscellaneous itemized deductions" means the itemized deductions other than—
 
 (1) the deduction under section 163 (relating to interest),
 
@@ -50,7 +50,7 @@ For purposes of this subsection—
 
 #### (i) In general ####
 
-The term “publicly offered regulated investment company” means a regulated investment company the shares of which are—
+The term "publicly offered regulated investment company" means a regulated investment company the shares of which are—
 
 (I) continuously offered pursuant to a public offering (within the meaning of section 4 of the Securities Act of 1933, as amended (15 U.S.C. 77a to 77aa)),
 
@@ -72,7 +72,7 @@ Paragraph (1) shall not apply—
 
 #### (d) Impairment-related work expenses ####
 
-For purposes of this section, the term “impairment-related work expenses” means expenses—
+For purposes of this section, the term "impairment-related work expenses" means expenses—
 
 (1) of a handicapped individual (as defined in section 190(b)(3)) for attendant care services at the individual's place of employment and other expenses in connection with such place of employment which are necessary for such individual to be able to work, and
 
@@ -100,31 +100,31 @@ Section 4 of the Securities Act of 1933, referred to in subsec. (c)(2)(B)(i)(I),
 
 #### Amendments ####
 
-**2000**—Subsec. (f). Pub. L. 106–554 substituted “the second sentence” for “the last sentence”.
+**2000**—Subsec. (f). Pub. L. 106–554 substituted "the second sentence" for "the last sentence".
 
-**1998**—Subsec. (b)(3). Pub. L. 105–277 substituted “for casualty or theft losses described in paragraph (2) or (3) of section 165(c) or for losses described in section 165(d)” for “for losses described in subsection (c)(3) or (d) of section 165”.
+**1998**—Subsec. (b)(3). Pub. L. 105–277 substituted "for casualty or theft losses described in paragraph (2) or (3) of section 165(c) or for losses described in section 165(d)" for "for losses described in subsection (c)(3) or (d) of section 165".
 
-**1993**—Subsec. (b)(6) to (13). Pub. L. 103–66 redesignated pars. (7) to (13) as (6) to (12), respectively, and struck out former par. (6) which read as follows: “the deduction under section 217 (relating to moving expenses),”.
+**1993**—Subsec. (b)(6) to (13). Pub. L. 103–66 redesignated pars. (7) to (13) as (6) to (12), respectively, and struck out former par. (6) which read as follows: "the deduction under section 217 (relating to moving expenses),".
 
-**1989**—Subsec. (c)(4). Pub. L. 101–239 struck out par. (4) which read as follows: “Termination.—This subsection shall not apply to any taxable year beginning after December 31, 1989.”
+**1989**—Subsec. (c)(4). Pub. L. 101–239 struck out par. (4) which read as follows: "Termination.—This subsection shall not apply to any taxable year beginning after December 31, 1989."
 
-**1988**—Subsec. (b)(4). Pub. L. 100–647, §1001(f)(2), substituted “deductions” for “deduction” and inserted before comma at end “and section 642(c) (relating to deduction for amounts paid or permanently set aside for a charitable purpose)”.
+**1988**—Subsec. (b)(4). Pub. L. 100–647, §1001(f)(2), substituted "deductions" for "deduction" and inserted before comma at end "and section 642(c) (relating to deduction for amounts paid or permanently set aside for a charitable purpose)".
 
-Subsec. (c). Pub. L. 100–647, §4011(a), amended subsec. (c) generally. Prior to amendment subsec. (c) read as follows: “The Secretary shall prescribe regulations which prohibit the indirect deduction through pass-thru entities of amounts which are not allowable as a deduction if paid or incurred directly by an individual and which contain such reporting requirements as may be necessary to carry out the purposes of this subsection. The preceding sentence shall not apply—
+Subsec. (c). Pub. L. 100–647, §4011(a), amended subsec. (c) generally. Prior to amendment subsec. (c) read as follows: "The Secretary shall prescribe regulations which prohibit the indirect deduction through pass-thru entities of amounts which are not allowable as a deduction if paid or incurred directly by an individual and which contain such reporting requirements as may be necessary to carry out the purposes of this subsection. The preceding sentence shall not apply—
 
-“(1) with respect to cooperatives and real estate investment trusts, and
+"(1) with respect to cooperatives and real estate investment trusts, and
 
-“(2) except as provided in regulations, with respect to estates and trusts.”
+"(2) except as provided in regulations, with respect to estates and trusts."
 
-Pub. L. 100–647, §1001(f)(4), amended last sentence generally. Prior to amendment, last sentence read as follows: “The preceding sentence shall not apply with respect to estates, trusts, cooperatives, and real estate investment trusts.”
+Pub. L. 100–647, §1001(f)(4), amended last sentence generally. Prior to amendment, last sentence read as follows: "The preceding sentence shall not apply with respect to estates, trusts, cooperatives, and real estate investment trusts."
 
-Subsec. (e). Pub. L. 100–647, §1001(f)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For purposes of this section, the adjusted gross income of an estate or trust shall be computed in the same manner as in the case of an individual, except that the deductions for costs which are paid or incurred in connection with the administration of the estate or trust and would not have been incurred if the property were not held in such trust or estate shall be treated as allowable in arriving at adjusted gross income.”
+Subsec. (e). Pub. L. 100–647, §1001(f)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "For purposes of this section, the adjusted gross income of an estate or trust shall be computed in the same manner as in the case of an individual, except that the deductions for costs which are paid or incurred in connection with the administration of the estate or trust and would not have been incurred if the property were not held in such trust or estate shall be treated as allowable in arriving at adjusted gross income."
 
 Subsec. (f). Pub. L. 100–647, §1001(f)(1), added subsec. (f).
 
 #### Effective Date of 1998 Amendment ####
 
-Pub. L. 105–277, div. J, title IV, §4004(c)(2), Oct. 21, 1998, 112 Stat. 2681–911, provided that: “The amendment made by subsection (b)(1) [amending this section] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 105–277, div. J, title IV, §4004(c)(2), Oct. 21, 1998, 112 Stat. 2681–911, provided that: "The amendment made by subsection (b)(1) [amending this section] shall apply to taxable years beginning after December 31, 1986."
 
 #### Effective Date of 1993 Amendment ####
 
@@ -138,7 +138,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 Amendment by section 1001(f) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title IV, §4011(b), Nov. 10, 1988, 102 Stat. 3656, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1987.”
+Pub. L. 100–647, title IV, §4011(b), Nov. 10, 1988, 102 Stat. 3656, provided that: "The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1987."
 
 #### Effective Date ####
 
@@ -148,16 +148,16 @@ Section applicable to taxable years beginning after Dec. 31, 1986, see section 1
 
 Pub. L. 100–203, title X, §10104(a), Dec. 22, 1987, 101 Stat. 1330–386, provided that:
 
-“(1) General rule.—Section 67(c) of the Internal Revenue Code of 1986 to the extent it relates to indirect deductions through a publicly offered regulated investment company shall apply only to taxable years beginning after December 31, 1987.
+"(1) General rule.—Section 67(c) of the Internal Revenue Code of 1986 to the extent it relates to indirect deductions through a publicly offered regulated investment company shall apply only to taxable years beginning after December 31, 1987.
 
-“(2) Publicly offered regulated investment company defined.—For purposes of this subsection—
+"(2) Publicly offered regulated investment company defined.—For purposes of this subsection—
 
-“(A) In general.—The term ‘publicly offered regulated investment company’ means a regulated investment company the shares of which are—
+"(A) In general.—The term 'publicly offered regulated investment company' means a regulated investment company the shares of which are—
 
-“(i) continuously offered pursuant to a public offering (within the meaning of section 4 of the Securities Act of 1933, as amended (15 U.S.C. 77a to 77aa) [15 U.S.C. 77d]),
+"(i) continuously offered pursuant to a public offering (within the meaning of section 4 of the Securities Act of 1933, as amended (15 U.S.C. 77a to 77aa) [15 U.S.C. 77d]),
 
-“(ii) regularly traded on an established securities market, or
+"(ii) regularly traded on an established securities market, or
 
-“(iii) held by or for no fewer than 500 persons at all times during the taxable year.
+"(iii) held by or for no fewer than 500 persons at all times during the taxable year.
 
-“(B) Secretary may reduce 500 person requirement.—The Secretary of the Treasury or his delegate may by regulation decrease the minimum shareholder requirement of subparagraph (A)(iii) in the case of regulated investment companies which experience a loss of shareholders through net redemptions of their shares.”
+"(B) Secretary may reduce 500 person requirement.—The Secretary of the Treasury or his delegate may by regulation decrease the minimum shareholder requirement of subparagraph (A)(iii) in the case of regulated investment companies which experience a loss of shareholders through net redemptions of their shares."

@@ -6,7 +6,7 @@ After the said peace memorial has been established as provided in section 433a o
 
 #### Codification ####
 
-“Section 3113 of title 40” substituted in text for “the Act of August 1, 1888” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Section 3113 of title 40" substituted in text for "the Act of August 1, 1888" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments ####
 
@@ -14,7 +14,7 @@ After the said peace memorial has been established as provided in section 433a o
 
 #### Change of Name ####
 
-“Peace memorial” substituted in text for “national monument” to conform to redesignation of Perry's Victory and International Peace Memorial National Monument as Perry's Victory and International Peace Memorial provided in section 1 of Pub. L. 92–568, classified to section 433f–1 of this title.
+"Peace memorial" substituted in text for "national monument" to conform to redesignation of Perry's Victory and International Peace Memorial National Monument as Perry's Victory and International Peace Memorial provided in section 1 of Pub. L. 92–568, classified to section 433f–1 of this title.
 
 #### Transfer of Functions ####
 
@@ -22,4 +22,4 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Authorization of Appropriations ####
 
-Pub. L. 92–568, §4, Oct. 26, 1972, 86 Stat. 1182, as amended by Pub. L. 95–625, title I, §101(21), Nov. 10, 1978, 92 Stat. 3472; Pub. L. 98–141, §7(a), Oct. 31, 1983, 97 Stat. 910; Pub. L. 98–181, title I, Nov. 30, 1983, 97 Stat. 1294, provided that: “There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act [enacting section 433f–1, amending sections 433a to 433c and 433e, and repealing section 433d of this title, and enacting provisions set out as a note hereunder], but not more than $370,000 shall be appropriated for the acquisition of lands and interests in lands and not more than $10,500,000 shall be appropriated for development. The sums authorized in this section shall be available for acquisition and development undertaken subsequent to the approval of this Act [such sections].”
+Pub. L. 92–568, §4, Oct. 26, 1972, 86 Stat. 1182, as amended by Pub. L. 95–625, title I, §101(21), Nov. 10, 1978, 92 Stat. 3472; Pub. L. 98–141, §7(a), Oct. 31, 1983, 97 Stat. 910; Pub. L. 98–181, title I, Nov. 30, 1983, 97 Stat. 1294, provided that: "There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act [enacting section 433f–1, amending sections 433a to 433c and 433e, and repealing section 433d of this title, and enacting provisions set out as a note hereunder], but not more than $370,000 shall be appropriated for the acquisition of lands and interests in lands and not more than $10,500,000 shall be appropriated for development. The sums authorized in this section shall be available for acquisition and development undertaken subsequent to the approval of this Act [such sections]."

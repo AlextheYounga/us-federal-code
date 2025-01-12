@@ -4,6 +4,6 @@ To the maximum extent practicable, the Secretary shall make use of private secto
 
 (Pub. L. 102–580, title II, §212, Oct. 31, 1992, 106 Stat. 4831.)
 
-#### “Secretary” Defined ####
+#### "Secretary" Defined ####
 
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under section 2201 of this title.

@@ -2,7 +2,7 @@
 
 #### (a) Establishment; membership ####
 
-There is established the Delta Region Preservation Commission (hereinafter referred to as the “Commission”), which shall consist of the following:
+There is established the Delta Region Preservation Commission (hereinafter referred to as the "Commission"), which shall consist of the following:
 
 (1) two members appointed by the Governor of the State of Louisiana;
 
@@ -42,18 +42,18 @@ The Directors of the Heritage Conservation and Recreation Service and the Nation
 
 #### Amendments ####
 
-**1988**—Subsec. (a)(6), (7). Pub. L. 100–355, §2(1), (2), which directed that in par. (6) “region;” be substituted for “region; and” and that in par. (7) “Arts; and” be substituted for “Arts.” could not be executed because of prior amendment by section 401(q)(3) of Pub. L. 96–87.
+**1988**—Subsec. (a)(6), (7). Pub. L. 100–355, §2(1), (2), which directed that in par. (6) "region;" be substituted for "region; and" and that in par. (7) "Arts; and" be substituted for "Arts." could not be executed because of prior amendment by section 401(q)(3) of Pub. L. 96–87.
 
 Subsec. (a)(8). Pub. L. 100–355, §2(3), added par. (8) relating to appointment of member with experience as folklorist familiar with cultures of Mississippi Delta Region.
 
-Subsec. (e). Pub. L. 100–250 substituted “twenty” for “ten”.
+Subsec. (e). Pub. L. 100–250 substituted "twenty" for "ten".
 
 **1979**—Subsec. (a)(8). Pub. L. 96–87, §401(q)(3), added par. (8).
 
 Subsec. (e). Pub. L. 96–87, §401(q)(4), provided that the Commission terminate ten years from November 10, 1978.
 
-#### “Secretary” Defined ####
+#### "Secretary" Defined ####
 
 Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.
 
-[<sup>1</sup> So in original. There are two pars. designated “(8)”.](#230f_1)
+[<sup>1</sup> So in original. There are two pars. designated "(8)".](#230f_1)

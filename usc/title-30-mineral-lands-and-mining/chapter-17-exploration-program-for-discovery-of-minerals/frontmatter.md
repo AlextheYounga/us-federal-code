@@ -6,7 +6,7 @@ Sec.
 
 642. Exploration contracts.
 
-643. “Exploration” defined.
+643. "Exploration" defined.
 
 644. Advice and assistance by Government departments and agencies; expenditure of funds.
 

@@ -60,13 +60,13 @@ Pub. L. 109–162, title XI, §1182(b), Jan. 5, 2006, 119 Stat. 3126, added item
 
 **1996**—Pub. L. 104–132, title VII, §708(c)(2), Apr. 24, 1996, 110 Stat. 1297, added item 3295.
 
-**1994**—Pub. L. 103–322, title XII, §120001(c), title XXXII, §320902(d)(2), title XXXIII, §330018(c), Sept. 13, 1994, 108 Stat. 2021, 2124, 2149, substituted “Child abuse offenses” for “Customs and slave trade violations” in item 3283 and added items 3286 and 3294.
+**1994**—Pub. L. 103–322, title XII, §120001(c), title XXXII, §320902(d)(2), title XXXIII, §330018(c), Sept. 13, 1994, 108 Stat. 2021, 2124, 2149, substituted "Child abuse offenses" for "Customs and slave trade violations" in item 3283 and added items 3286 and 3294.
 
-**1990**—Pub. L. 101–647, title XII, §1207(b), Nov. 29, 1990, 104 Stat. 4832, struck out item 3286 “Seduction on vessel of United States”.
+**1990**—Pub. L. 101–647, title XII, §1207(b), Nov. 29, 1990, 104 Stat. 4832, struck out item 3286 "Seduction on vessel of United States".
 
 **1989**—Pub. L. 101–73, title IX, §961(l)(2), Aug. 9, 1989, 103 Stat. 501, added item 3293.
 
-**1988**—Pub. L. 100–690, title VII, §7081(c), Nov. 18, 1988, 102 Stat. 4407, substituted “Indictments and information dismissed after period of limitations” for “Reindictment where defect found after period of limitations” in item 3288 and “Indictments and information dismissed before period of limitations” for “Reindictment where defect found before period of limitations” in item 3289.
+**1988**—Pub. L. 100–690, title VII, §7081(c), Nov. 18, 1988, 102 Stat. 4407, substituted "Indictments and information dismissed after period of limitations" for "Reindictment where defect found after period of limitations" in item 3288 and "Indictments and information dismissed before period of limitations" for "Reindictment where defect found before period of limitations" in item 3289.
 
 **1984**—Pub. L. 98–473, title II, §1218(b), Oct. 12, 1984, 98 Stat. 2167, added item 3292.
 

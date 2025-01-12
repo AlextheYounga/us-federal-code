@@ -16,13 +16,13 @@
 
 (iii) the availability to brokers, dealers, and investors of information with respect to quotations for and transactions in securities;
 
-(iv) the practicability of brokers executing investors’ orders in the best market; and
+(iv) the practicability of brokers executing investors' orders in the best market; and
 
-(v) an opportunity, consistent with the provisions of clauses (i) and (iv) of this subparagraph, for investors’ orders to be executed without the participation of a dealer.
+(v) an opportunity, consistent with the provisions of clauses (i) and (iv) of this subparagraph, for investors' orders to be executed without the participation of a dealer.
 
-(D) The linking of all markets for qualified securities through communication and data processing facilities will foster efficiency, enhance competition, increase the information available to brokers, dealers, and investors, facilitate the offsetting of investors’ orders, and contribute to best execution of such orders.
+(D) The linking of all markets for qualified securities through communication and data processing facilities will foster efficiency, enhance competition, increase the information available to brokers, dealers, and investors, facilitate the offsetting of investors' orders, and contribute to best execution of such orders.
 
-(2) The Commission is directed, therefore, having due regard for the public interest, the protection of investors, and the maintenance of fair and orderly markets, to use its authority under this chapter to facilitate the establishment of a national market system for securities (which may include subsystems for particular types of securities with unique trading characteristics) in accordance with the findings and to carry out the objectives set forth in paragraph (1) of this subsection. The Commission, by rule, shall designate the securities or classes of securities qualified for trading in the national market system from among securities other than exempted securities. (Securities or classes of securities so designated hereinafter <sup><a href="#78k-1_1_target" name="78k-1_1">1</a></sup> in this section referred to as “qualified securities”.)
+(2) The Commission is directed, therefore, having due regard for the public interest, the protection of investors, and the maintenance of fair and orderly markets, to use its authority under this chapter to facilitate the establishment of a national market system for securities (which may include subsystems for particular types of securities with unique trading characteristics) in accordance with the findings and to carry out the objectives set forth in paragraph (1) of this subsection. The Commission, by rule, shall designate the securities or classes of securities qualified for trading in the national market system from among securities other than exempted securities. (Securities or classes of securities so designated hereinafter <sup><a href="#78k-1_1_target" name="78k-1_1">1</a></sup> in this section referred to as "qualified securities".)
 
 (3) The Commission is authorized in furtherance of the directive in paragraph (2) of this subsection—
 
@@ -96,13 +96,13 @@ The Commission may conditionally or unconditionally exempt any security or trans
 
 #### (d) National Market Advisory Board ####
 
-(1) Not later than one hundred eighty days after June 4, 1975, the Commission shall establish a National Market Advisory Board (hereinafter in this section referred to as the “Advisory Board”) to be composed of fifteen members, not all of whom shall be from the same geographical area of the United States, appointed by the Commission for a term specified by the Commission of not less than two years or more than five years. The Advisory Board shall consist of persons associated with brokers and dealers (who shall be a majority) and persons not so associated who are representative of the public and, to the extent feasible, have knowledge of the securities markets of the United States.
+(1) Not later than one hundred eighty days after June 4, 1975, the Commission shall establish a National Market Advisory Board (hereinafter in this section referred to as the "Advisory Board") to be composed of fifteen members, not all of whom shall be from the same geographical area of the United States, appointed by the Commission for a term specified by the Commission of not less than two years or more than five years. The Advisory Board shall consist of persons associated with brokers and dealers (who shall be a majority) and persons not so associated who are representative of the public and, to the extent feasible, have knowledge of the securities markets of the United States.
 
 (2) It shall be the responsibility of the Advisory Board to formulate and furnish to the Commission its views on significant regulatory proposals made by the Commission or any self-regulatory organization concerning the establishment, operation, and regulation of the markets for securities in the United States.
 
 (3)(A) The Advisory Board shall study and make recommendations to the Commission as to the steps it finds appropriate to facilitate the establishment of a national market system. In so doing, the Advisory Board shall assume the responsibilities of any advisory committee appointed to advise the Commission with respect to the national market system which is in existence at the time of the establishment of the Advisory Board.
 
-(B) The Advisory Board shall study the possible need for modifications of the scheme of self-regulation provided for in this chapter so as to adapt it to a national market system, including the need for the establishment of a new self-regulatory organization (hereinafter in this section referred to as a “National Market Regulatory Board” or “Regulatory Board”) to administer the national market system. In the event the Advisory Board determines a National Market Regulatory Board should be established, it shall make recommendations as to:
+(B) The Advisory Board shall study the possible need for modifications of the scheme of self-regulation provided for in this chapter so as to adapt it to a national market system, including the need for the establishment of a new self-regulatory organization (hereinafter in this section referred to as a "National Market Regulatory Board" or "Regulatory Board") to administer the national market system. In the event the Advisory Board determines a National Market Regulatory Board should be established, it shall make recommendations as to:
 
 (i) the point in time at which a Regulatory Board should be established;
 
@@ -140,13 +140,13 @@ The Federal Advisory Committee Act, referred to in subsec. (a)(3)(A), is Pub. L.
 
 **2000**—Subsec. (e). Pub. L. 106–554 added subsec. (e).
 
-**1987**—Subsec. (b)(2). Pub. L. 100–181, §313(1), substituted “transactions” for “transaction”.
+**1987**—Subsec. (b)(2). Pub. L. 100–181, §313(1), substituted "transactions" for "transaction".
 
-Subsec. (c)(4). Pub. L. 100–181, §313(2), struck out “On or before the ninetieth day following June 4, 1975, the Commission shall (i) report to the Congress the results of its review, including the effects on competition of such rules, and (ii) commence a proceeding in accordance with the provisions of section 78s(c) of this title to amend any such rule imposing a burden on competition which does not appear to the Commission to be necessary or appropriate in furtherance of the purposes of this chapter. The Commission shall conclude any such proceeding within ninety days of the date of publication of notice of its commencement.”
+Subsec. (c)(4). Pub. L. 100–181, §313(2), struck out "On or before the ninetieth day following June 4, 1975, the Commission shall (i) report to the Congress the results of its review, including the effects on competition of such rules, and (ii) commence a proceeding in accordance with the provisions of section 78s(c) of this title to amend any such rule imposing a burden on competition which does not appear to the Commission to be necessary or appropriate in furtherance of the purposes of this chapter. The Commission shall conclude any such proceeding within ninety days of the date of publication of notice of its commencement."
 
-Subsec. (e). Pub. L. 100–181, §314, struck out subsec. (e) which read as follows: “The Commission is authorized and directed to make a study of the extent to which persons excluded from the definitions of ‘broker’ and ‘dealer’ maintain accounts on behalf of public customers for buying and selling securities registered under section 78l of this title and whether such exclusions are consistent with the protection of investors and the other purposes of this chapter. The Commission shall report to the Congress, on or before December 31, 1976, the results of its study together with such recommendations for legislation as it deems advisable.”
+Subsec. (e). Pub. L. 100–181, §314, struck out subsec. (e) which read as follows: "The Commission is authorized and directed to make a study of the extent to which persons excluded from the definitions of 'broker' and 'dealer' maintain accounts on behalf of public customers for buying and selling securities registered under section 78l of this title and whether such exclusions are consistent with the protection of investors and the other purposes of this chapter. The Commission shall report to the Congress, on or before December 31, 1976, the results of its study together with such recommendations for legislation as it deems advisable."
 
-**1984**—Subsec. (c)(4). Pub. L. 98–620 struck out designation “(A)” after “(4)”, and struck out subpar. (B) which provided that review pursuant to section 78y(b) of this title of any rule promulgated by the Commission in accordance with any proceeding commenced pursuant to this paragraph would, except as to causes the court considers of greater importance, take precedence on the docket over all other causes and had to be assigned for consideration at the earliest practicable date and expedited in every way.
+**1984**—Subsec. (c)(4). Pub. L. 98–620 struck out designation "(A)" after "(4)", and struck out subpar. (B) which provided that review pursuant to section 78y(b) of this title of any rule promulgated by the Commission in accordance with any proceeding commenced pursuant to this paragraph would, except as to causes the court considers of greater importance, take precedence on the docket over all other causes and had to be assigned for consideration at the earliest practicable date and expedited in every way.
 
 #### Effective Date of 1984 Amendment ####
 
@@ -160,4 +160,4 @@ Section effective June 4, 1975, except for subsec. (b) which is effective 180 da
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-[<sup>1</sup> So in original. Probably should be “are hereinafter”.](#78k-1_1)
+[<sup>1</sup> So in original. Probably should be "are hereinafter".](#78k-1_1)

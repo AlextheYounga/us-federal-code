@@ -6,7 +6,7 @@ The provisions of section 286b of this title, shall apply with respect to the As
 
 #### Amendments ####
 
-**1989**—Pub. L. 101–240 struck out at end “Reports with respect to the Association under paragraphs (5) and (6) of subsection (b) of section 286b of this title, shall be included in the first report made thereunder after the establishment of the Association and in each succeeding report.”
+**1989**—Pub. L. 101–240 struck out at end "Reports with respect to the Association under paragraphs (5) and (6) of subsection (b) of section 286b of this title, shall be included in the first report made thereunder after the establishment of the Association and in each succeeding report."
 
 #### Delegation of Functions ####
 

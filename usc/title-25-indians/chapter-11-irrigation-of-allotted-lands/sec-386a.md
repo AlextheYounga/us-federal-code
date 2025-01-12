@@ -6,8 +6,8 @@ The Secretary of the Interior is hereby authorized and directed to adjust or eli
 
 #### Amendments ####
 
-**1995**—Pub. L. 104–42 inserted before period at end “: *Provided further*, That the Secretary shall adjust or eliminate charges, defer collection of construction costs, and make no assessment on behalf of such charges for beneficiaries that hold leases on Hawaiian home lands, to the same extent as is permitted for individual Indians or tribes of Indians under this section”.
+**1995**—Pub. L. 104–42 inserted before period at end ": *Provided further*, That the Secretary shall adjust or eliminate charges, defer collection of construction costs, and make no assessment on behalf of such charges for beneficiaries that hold leases on Hawaiian home lands, to the same extent as is permitted for individual Indians or tribes of Indians under this section".
 
-**1982**—Pub. L. 97–375, §208(a)(1), substituted “That the Secretary shall report such adjustments and eliminations to the Congress not later than sixty calendar days following the end of the fiscal year in which they are made” for “That a report shall be made to Congress annually, on the first Monday in December, showing adjustments so made during the preceding fiscal year” in second proviso.
+**1982**—Pub. L. 97–375, §208(a)(1), substituted "That the Secretary shall report such adjustments and eliminations to the Congress not later than sixty calendar days following the end of the fiscal year in which they are made" for "That a report shall be made to Congress annually, on the first Monday in December, showing adjustments so made during the preceding fiscal year" in second proviso.
 
-Pub. L. 97–375, §208(a)(2), substituted “ninety calendar days” for “sixty legislative days” wherever appearing.
+Pub. L. 97–375, §208(a)(2), substituted "ninety calendar days" for "sixty legislative days" wherever appearing.

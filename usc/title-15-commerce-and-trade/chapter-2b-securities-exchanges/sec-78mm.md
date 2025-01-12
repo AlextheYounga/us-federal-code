@@ -26,7 +26,7 @@ Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII 
 
 #### References in Text ####
 
-This chapter, referred to in subsecs. (a)(1) and (c), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a)(1) and (c), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 The Wall Street Transparency and Accountability Act of 2010, referred to in subsec. (c), is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted chapter 109 (§8301 et seq.) of this title and enacted and amended numerous other sections and notes in the Code. Subtitle B of the Act enacted subchapter II (§8341 et seq.) of chapter 109 and sections 78c–3 to 78c–5, 78j–2, 78m–1, and 78o–10 of this title, amended sections 77b, 77b–1, 77e, 77q, 78c, 78c–1, 78f, 78i, 78j, 78m, 78o, 78p, 78q–1, 78t, 78u–1, 78u–2, 78bb, 78dd, 78mm, 80a–2, and 80b–2 of this title, enacted provisions set out as a note under section 77b of this title, and amended provisions set out as a note under section 78c of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
 

@@ -6,6 +6,6 @@ There is appropriated for expenses necessary during the fiscal year ending Septe
 
 #### Codification ####
 
-Section is based on paragraph under headings “Departmental Management” and “working capital fund” of Department of Labor Appropriations Act, 1994.
+Section is based on paragraph under headings "Departmental Management" and "working capital fund" of Department of Labor Appropriations Act, 1994.
 
-“Sections 1535 and 1536 of title 31” was substituted in text for “the Economy Act” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+"Sections 1535 and 1536 of title 31" was substituted in text for "the Economy Act" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.

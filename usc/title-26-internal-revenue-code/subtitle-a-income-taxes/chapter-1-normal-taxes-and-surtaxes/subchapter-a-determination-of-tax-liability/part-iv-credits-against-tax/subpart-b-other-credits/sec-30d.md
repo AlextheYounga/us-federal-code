@@ -34,7 +34,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “new qualified plug-in electric drive motor vehicle” means a motor vehicle—
+The term "new qualified plug-in electric drive motor vehicle" means a motor vehicle—
 
 (A) the original use of which commences with the taxpayer,
 
@@ -54,15 +54,15 @@ The term “new qualified plug-in electric drive motor vehicle” means a motor 
 
 #### (2) Motor vehicle ####
 
-The term “motor vehicle” means any vehicle which is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails) and which has at least 4 wheels.
+The term "motor vehicle" means any vehicle which is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails) and which has at least 4 wheels.
 
 #### (3) Manufacturer ####
 
-The term “manufacturer” has the meaning given such term in regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521 et seq.).
+The term "manufacturer" has the meaning given such term in regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521 et seq.).
 
 #### (4) Battery capacity ####
 
-The term “capacity” means, with respect to any battery, the quantity of electricity which the battery is capable of storing, expressed in kilowatt hours, as measured from a 100 percent state of charge to a 0 percent state of charge.
+The term "capacity" means, with respect to any battery, the quantity of electricity which the battery is capable of storing, expressed in kilowatt hours, as measured from a 100 percent state of charge to a 0 percent state of charge.
 
 #### (e) Limitation on number of new qualified plug-in electric drive motor vehicles eligible for credit ####
 
@@ -142,11 +142,11 @@ For purposes of paragraph (1), the applicable amount is an amount equal to the l
 
 #### (3) Qualified 2- or 3-wheeled plug-in electric vehicle ####
 
-The term “qualified 2- or 3-wheeled plug-in electric vehicle” means any vehicle which—
+The term "qualified 2- or 3-wheeled plug-in electric vehicle" means any vehicle which—
 
 (A) has 2 or 3 wheels,
 
-(B) meets the requirements of subparagraphs (A), (B), (C), (E), and (F) of subsection (d)(1) (determined by substituting “2.5 kilowatt hours” for “4 kilowatt hours” in subparagraph (F)(i)),
+(B) meets the requirements of subparagraphs (A), (B), (C), (E), and (F) of subsection (d)(1) (determined by substituting "2.5 kilowatt hours" for "4 kilowatt hours" in subparagraph (F)(i)),
 
 (C) is manufactured primarily for use on public streets, roads, and highways,
 
@@ -164,21 +164,21 @@ The Clean Air Act, referred to in subsecs. (d)(1)(D), (3), (f)(7)(A), is act Jul
 
 **2013**—Subsec. (c)(2). Pub. L. 112–240, §104(c)(2)(I), amended par. (2) generally. Prior to amendment, par. (2) related to personal credit with a limitation based on amount of tax.
 
-Subsec. (f)(2). Pub. L. 112–240, §403(b)(1), substituted “vehicle for which a credit is allowable under subsection (a)” for “new qualified plug-in electric drive motor vehicle” and “allowed under such subsection” for “allowed under subsection (a)”.
+Subsec. (f)(2). Pub. L. 112–240, §403(b)(1), substituted "vehicle for which a credit is allowable under subsection (a)" for "new qualified plug-in electric drive motor vehicle" and "allowed under such subsection" for "allowed under subsection (a)".
 
-Subsec. (f)(7). Pub. L. 112–240, §403(b)(2), substituted “A vehicle” for “A motor vehicle” in introductory provisions.
+Subsec. (f)(7). Pub. L. 112–240, §403(b)(2), substituted "A vehicle" for "A motor vehicle" in introductory provisions.
 
 Subsec. (g). Pub. L. 112–240, §403(a), added subsec. (g).
 
-**2010**—Subsec. (c)(2)(B)(ii). Pub. L. 111–148, §10909(b)(2)(H), (c), as amended by Pub. L. 111–312, temporarily substituted “section 25D” for “sections 23 and 25D”. See Effective and Termination Dates of 2010 Amendment note below.
+**2010**—Subsec. (c)(2)(B)(ii). Pub. L. 111–148, §10909(b)(2)(H), (c), as amended by Pub. L. 111–312, temporarily substituted "section 25D" for "sections 23 and 25D". See Effective and Termination Dates of 2010 Amendment note below.
 
-**2009**—Pub. L. 111–5 amended section generally. Prior to amendment, section provided credit with respect to each new qualified plug-in electric drive motor vehicle placed in service and set forth provisions defining “applicable amount” and “new qualified plug-in electric drive motor vehicle” and stating limitations based on vehicle weight, the number of vehicles eligible for credit, and amount of tax liability.
+**2009**—Pub. L. 111–5 amended section generally. Prior to amendment, section provided credit with respect to each new qualified plug-in electric drive motor vehicle placed in service and set forth provisions defining "applicable amount" and "new qualified plug-in electric drive motor vehicle" and stating limitations based on vehicle weight, the number of vehicles eligible for credit, and amount of tax liability.
 
 #### Effective Date of 2013 Amendment ####
 
 Amendment by section 104(c)(2)(I) of Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2011, see section 104(d) of Pub. L. 112–240, set out as a note under section 23 of this title.
 
-Pub. L. 112–240, title IV, §403(c), Jan. 2, 2013, 126 Stat. 2338, provided that: “The amendments made by this section [amending this section] shall apply to vehicles acquired after December 31, 2011.”
+Pub. L. 112–240, title IV, §403(c), Jan. 2, 2013, 126 Stat. 2338, provided that: "The amendments made by this section [amending this section] shall apply to vehicles acquired after December 31, 2011."
 
 #### Effective and Termination Dates of 2010 Amendment ####
 

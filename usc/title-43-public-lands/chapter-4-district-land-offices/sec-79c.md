@@ -10,13 +10,13 @@ This Act, referred to in text, is act Apr. 24, 1944, ch. 177, 58 Stat. 215, as a
 
 #### Repeals ####
 
-Act Apr. 24, 1944, ch. 177, §4, 58 Stat. 215, provided that: “Sections 2237 and 2240 of the Revised Statutes and the act of May 21, 1928 (45 Stat. 684; 43 U.S.C., sec. 80), as amended [sections 80 and 80a of this title], are hereby repealed, and all other provisions of law inconsistent with this Act [See References in Text note above] are repealed to the extent of such inconsistency.”
+Act Apr. 24, 1944, ch. 177, §4, 58 Stat. 215, provided that: "Sections 2237 and 2240 of the Revised Statutes and the act of May 21, 1928 (45 Stat. 684; 43 U.S.C., sec. 80), as amended [sections 80 and 80a of this title], are hereby repealed, and all other provisions of law inconsistent with this Act [See References in Text note above] are repealed to the extent of such inconsistency."
 
 #### Transfer of Functions ####
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
-Words “officials of district land offices” substituted for “registers” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
+Words "officials of district land offices" substituted for "registers" on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
 
 #### Extension to Alaska ####
 

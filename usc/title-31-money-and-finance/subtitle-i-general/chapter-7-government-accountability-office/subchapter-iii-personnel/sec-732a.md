@@ -18,9 +18,9 @@
 
 #### Amendments ####
 
-**2008**—Subsec. (b). Pub. L. 110–323 substituted “paragraph (1) or (2) of section 731(e)” for “section 731(d), (e)(1), or (e)(2)”.
+**2008**—Subsec. (b). Pub. L. 110–323 substituted "paragraph (1) or (2) of section 731(e)" for "section 731(d), (e)(1), or (e)(2)".
 
-**2004**—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
+**2004**—Subsec. (a). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in introductory provisions.
 
 #### Change of Name ####
 

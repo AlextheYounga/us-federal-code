@@ -4,7 +4,7 @@
 
 Sections 395 to 405, relating to the Territory of Alaska, were omitted in view of the admission of Alaska into the Union.
 
-Section 395, act June 25, 1910, ch. 422, §1, 36 Stat. 848, authorized a miners’ labor lien on output, and provided for its priority.
+Section 395, act June 25, 1910, ch. 422, §1, 36 Stat. 848, authorized a miners' labor lien on output, and provided for its priority.
 
 Section 396, act June 25, 1910, ch. 422, §2, 36 Stat. 848, required the filing of the claim of the lien, and prescribed the form of the claim.
 

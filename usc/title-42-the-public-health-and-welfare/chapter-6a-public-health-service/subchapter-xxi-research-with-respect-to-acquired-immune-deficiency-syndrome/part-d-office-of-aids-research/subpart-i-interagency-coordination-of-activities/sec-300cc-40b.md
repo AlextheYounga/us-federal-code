@@ -4,7 +4,7 @@
 
 #### (1) In general ####
 
-The Secretary shall establish an advisory council for the purpose of providing advice to the Director of the Office on carrying out this part. (Such council is referred to in this subsection as the “Advisory Council”.)
+The Secretary shall establish an advisory council for the purpose of providing advice to the Director of the Office on carrying out this part. (Such council is referred to in this subsection as the "Advisory Council".)
 
 #### (2) Composition, compensation, terms, chair, etc. ####
 
@@ -18,7 +18,7 @@ Subsections (b) through (g) of section 284a of this title apply to the Advisory 
 
 #### (1) In general ####
 
-The Director of the Office shall establish, for each research discipline in which any activity under the plan required in section 300cc–40c of this title is carried out, a committee for the purpose of providing advice to the Director of the Office on carrying out this part with respect to such discipline. (Each such committee is referred to in this subsection as a “coordinating committee”.)
+The Director of the Office shall establish, for each research discipline in which any activity under the plan required in section 300cc–40c of this title is carried out, a committee for the purpose of providing advice to the Director of the Office on carrying out this part with respect to such discipline. (Each such committee is referred to in this subsection as a "coordinating committee".)
 
 #### (2) Composition ####
 

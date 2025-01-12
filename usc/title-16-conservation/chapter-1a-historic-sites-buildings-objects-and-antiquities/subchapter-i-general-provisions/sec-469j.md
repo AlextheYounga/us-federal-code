@@ -6,7 +6,7 @@ Because the fabric of a society is strengthened by visible reminders of the hist
 
 #### (b) Establishment ####
 
-There is established a commission to be known as the Commission for the Preservation of America's Heritage Abroad (hereafter in this section referred to as the “Commission”).
+There is established a commission to be known as the Commission for the Preservation of America's Heritage Abroad (hereafter in this section referred to as the "Commission").
 
 #### (c) Duties ####
 
@@ -72,7 +72,7 @@ The General Schedule, referred to in subsec. (g)(2), is set out under section 53
 
 #### Amendments ####
 
-**1998**—Subsec. (e). Pub. L. 105–277 substituted “six” for “three”.
+**1998**—Subsec. (e). Pub. L. 105–277 substituted "six" for "three".
 
 #### Effective Date ####
 

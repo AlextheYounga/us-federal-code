@@ -92,7 +92,7 @@ Sec.
 
 **2013**—Pub. L. 113–27, §2(b), Aug. 9, 2013, 127 Stat. 504, which directed amendment of analysis for subchapter I of chapter 449 by adding item 44927 after item 44926, was executed by adding item 44927 to analysis for this chapter to reflect the probable intent of Congress.
 
-Pub. L. 112–271, §2(b), Jan. 14, 2013, 126 Stat. 2447, substituted “Disposition of unclaimed money and clothing” for “Disposition of unclaimed money” in item 44945.
+Pub. L. 112–271, §2(b), Jan. 14, 2013, 126 Stat. 2447, substituted "Disposition of unclaimed money and clothing" for "Disposition of unclaimed money" in item 44945.
 
 **2007**—Pub. L. 110–53, title XVI, §1606(b), Aug. 3, 2007, 121 Stat. 483, added item 44926.
 
@@ -106,7 +106,7 @@ Pub. L. 108–7, div. I, title III, §351(c), Feb. 20, 2003, 117 Stat. 420, adde
 
 **2002**—Pub. L. 107–296, title XIV, §1402(b)(1), Nov. 25, 2002, 116 Stat. 2305, added item 44921.
 
-**2001**—Pub. L. 107–71, title I, §§101(f)(6), 105(b), 107(b), 108(b), 113(b), 125(b), 131(b), Nov. 19, 2001, 115 Stat. 603, 607, 611, 613, 622, 632, 635, added items 44917 to 44920, 44939, 44941, and 44944 and struck out items 44931 “Director of Intelligence and Security” and 44932 “Assistant Administrator for Civil Aviation Security”.
+**2001**—Pub. L. 107–71, title I, §§101(f)(6), 105(b), 107(b), 108(b), 113(b), 125(b), 131(b), Nov. 19, 2001, 115 Stat. 603, 607, 611, 613, 622, 632, 635, added items 44917 to 44920, 44939, 44941, and 44944 and struck out items 44931 "Director of Intelligence and Security" and 44932 "Assistant Administrator for Civil Aviation Security".
 
 Pub. L. 107–71, title I, §118(b), Nov. 19, 2001, 115 Stat. 627, which directed addition of item 44940 to the analysis for chapter 449 without specifying the Code title to be amended, was executed by adding item 44940 to this analysis to reflect the probable intent of Congress.
 

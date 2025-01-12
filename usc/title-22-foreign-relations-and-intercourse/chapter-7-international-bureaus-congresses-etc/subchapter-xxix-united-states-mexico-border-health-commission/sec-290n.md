@@ -10,4 +10,4 @@ A prior section 290n, Pub. L. 103–400, §2, Oct. 22, 1994, 108 Stat. 4169, rel
 
 #### Short Title ####
 
-Pub. L. 103–400, §1, Oct. 22, 1994, 108 Stat. 4169, provided that: “This Act [enacting this subchapter] may be cited as the ‘United States-Mexico Border Health Commission Act’.”
+Pub. L. 103–400, §1, Oct. 22, 1994, 108 Stat. 4169, provided that: "This Act [enacting this subchapter] may be cited as the 'United States-Mexico Border Health Commission Act'."

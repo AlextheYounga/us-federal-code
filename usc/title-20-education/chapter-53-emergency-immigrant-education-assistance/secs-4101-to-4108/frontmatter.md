@@ -22,4 +22,4 @@ Repeal effective July 1, 1988, see section 6303 of Pub. L. 100–297, set out as
 
 #### Short Title ####
 
-Pub. L. 98–511, title VI, §601, Oct. 19, 1984, 98 Stat. 2401, provided that title VI of Pub. L. 98–511 was to be cited as the “Emergency Immigrant Education Act of 1984”, prior to repeal by Pub. L. 100–297, title I, §1003(c), Apr. 28, 1988, 102 Stat. 293.
+Pub. L. 98–511, title VI, §601, Oct. 19, 1984, 98 Stat. 2401, provided that title VI of Pub. L. 98–511 was to be cited as the "Emergency Immigrant Education Act of 1984", prior to repeal by Pub. L. 100–297, title I, §1003(c), Apr. 28, 1988, 102 Stat. 293.

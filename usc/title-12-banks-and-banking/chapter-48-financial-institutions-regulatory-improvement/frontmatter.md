@@ -20,4 +20,4 @@ Sec.
 
 4808. Revising regulatory requirements for transfers of all types of assets with recourse.
 
-4809. “Plain language” requirement for Federal banking agency rules.
+4809. "Plain language" requirement for Federal banking agency rules.

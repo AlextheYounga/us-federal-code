@@ -2,11 +2,11 @@
 
 #### (a) Establishment ####
 
-In order to enhance the recreational and scenic values of the Cow Mountain area in Lake and Mendocino Counties, California, while conserving the wildlife and other natural resource values of the area, there is hereby established the Cow Mountain Recreation Area (in this section referred to as the “recreation area”) consisting of approximately 51,513 acres of land in such counties, as generally depicted on the map entitled “Cow Mountain Recreation Area” and dated July 22, 2006, including the following:
+In order to enhance the recreational and scenic values of the Cow Mountain area in Lake and Mendocino Counties, California, while conserving the wildlife and other natural resource values of the area, there is hereby established the Cow Mountain Recreation Area (in this section referred to as the "recreation area") consisting of approximately 51,513 acres of land in such counties, as generally depicted on the map entitled "Cow Mountain Recreation Area" and dated July 22, 2006, including the following:
 
-(1) The “South Cow Mountain OHV Management Area”, as generally depicted on the map.
+(1) The "South Cow Mountain OHV Management Area", as generally depicted on the map.
 
-(2) The “North Cow Mountain Recreation Area”, as generally depicted on the map.
+(2) The "North Cow Mountain Recreation Area", as generally depicted on the map.
 
 #### (b) Legal descriptions; correction of errors ####
 
@@ -80,4 +80,4 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 #### Short Title ####
 
-Pub. L. 109–362, §1(a), Oct. 17, 2006, 120 Stat. 2064, provided that: “This Act [enacting this section, amending sections 460y–8 and 1274 of this title, and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title] may be cited as the ‘Northern California Coastal Wild Heritage Wilderness Act’.”
+Pub. L. 109–362, §1(a), Oct. 17, 2006, 120 Stat. 2064, provided that: "This Act [enacting this section, amending sections 460y–8 and 1274 of this title, and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title] may be cited as the 'Northern California Coastal Wild Heritage Wilderness Act'."

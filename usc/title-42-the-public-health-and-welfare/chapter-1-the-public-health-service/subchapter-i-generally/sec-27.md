@@ -1,6 +1,6 @@
 ### §27. Definitions ###
 
-The terms “State” and “States,” as used in this chapter, shall be held to include the District of Columbia.
+The terms "State" and "States," as used in this chapter, shall be held to include the District of Columbia.
 
 (July 9, 1918, ch. 143, ch. XV, §8, 40 Stat. 887.)
 

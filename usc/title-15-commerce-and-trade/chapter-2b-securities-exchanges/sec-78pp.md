@@ -4,7 +4,7 @@
 
 #### (1) Establishment ####
 
-There is established within the Commission the Investor Advisory Committee (referred to in this section as the “Committee”).
+There is established within the Commission the Investor Advisory Committee (referred to in this section as the "Committee").
 
 #### (2) Purpose ####
 

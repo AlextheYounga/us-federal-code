@@ -32,6 +32,6 @@ Act of August 5, 1954, referred to in subsec. (e), is act Aug. 5, 1954, ch. 658,
 
 #### Change of Name ####
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in text, pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in text, pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 [<sup>1</sup> So in original. Probably should be followed by a comma.](#903a_1)

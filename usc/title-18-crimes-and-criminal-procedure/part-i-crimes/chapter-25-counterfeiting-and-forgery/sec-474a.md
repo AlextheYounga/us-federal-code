@@ -6,9 +6,9 @@
 
 (c) As used in this section—
 
-(1) the term “distinctive paper” includes any distinctive medium of which currency is made, whether of wood pulp, rag, plastic substrate, or other natural or artificial fibers or materials; and
+(1) the term "distinctive paper" includes any distinctive medium of which currency is made, whether of wood pulp, rag, plastic substrate, or other natural or artificial fibers or materials; and
 
-(2) the term “distinctive counterfeit deterrent” includes any ink, watermark, seal, security thread, optically variable device, or other feature or device;
+(2) the term "distinctive counterfeit deterrent" includes any ink, watermark, seal, security thread, optically variable device, or other feature or device;
 
 (A) in which the United States has an exclusive property interest; or
 
@@ -18,7 +18,7 @@
 
 #### Amendments ####
 
-**1996**—Subsecs. (a), (b). Pub. L. 104–208, §§101(f) [title VI, §648(a)] and 2603(a), amended section identically, substituting “class B felony” for “class C felony”.
+**1996**—Subsecs. (a), (b). Pub. L. 104–208, §§101(f) [title VI, §648(a)] and 2603(a), amended section identically, substituting "class B felony" for "class C felony".
 
 #### Effective Date of 1996 Amendment ####
 

@@ -2,7 +2,7 @@
 
 #### (a) Deadline for closure, transfer, or financial self-sufficiency ####
 
-The Secretary of Health and Human Services (hereinafter in this subtitle referred to as the “Secretary”) shall, in accordance with this section and notwithstanding section 248a of this title, provide for the closure, transfer, or financial self-sufficiency of all hospitals and other stations of the Public Health Service (hereinafter in this subtitle referred to as the “Service”) not later than September 30, 1982.
+The Secretary of Health and Human Services (hereinafter in this subtitle referred to as the "Secretary") shall, in accordance with this section and notwithstanding section 248a of this title, provide for the closure, transfer, or financial self-sufficiency of all hospitals and other stations of the Public Health Service (hereinafter in this subtitle referred to as the "Service") not later than September 30, 1982.
 
 #### (b) Proposals for transfer or financial self-sufficiency ####
 
@@ -46,7 +46,7 @@ For purposes of this section, a hospital or station cannot be found to be financ
 
 This subtitle, referred to in subsec. (a), is subtitle J of title IX of Pub. L. 97–35, §§985 to 988, Aug. 13, 1981, 95 Stat. 602, which enacted this section, amended sections 201, 249, and 254e of this title, and enacted provisions set out as notes under this section and section 249 of this title. For complete classification of this subtitle to the Code, see Tables.
 
-Section 248a of this title, referred to in subsec. (a), was in the original “section 818 of Public Law 93–155”, meaning section 818 of Pub. L. 93–155, title VIII, Nov. 16, 1973, 87 Stat. 622, which enacted section 248a of this title and repealed section 3 of Pub. L. 92–585, Oct. 27, 1972, 86 Stat. 1292.
+Section 248a of this title, referred to in subsec. (a), was in the original "section 818 of Public Law 93–155", meaning section 818 of Pub. L. 93–155, title VIII, Nov. 16, 1973, 87 Stat. 622, which enacted section 248a of this title and repealed section 3 of Pub. L. 92–585, Oct. 27, 1972, 86 Stat. 1292.
 
 #### Codification ####
 
@@ -56,18 +56,18 @@ Section was enacted as part of the Omnibus Budget Reconciliation Act of 1981, an
 
 Pub. L. 97–35, title IX, §985, Aug. 13, 1981, 95 Stat. 602, provided that:
 
-“(a) Congress finds that—
+"(a) Congress finds that—
 
-“(1) because of national budgetary considerations, it has become necessary to terminate Federal appropriations for Public Health Service hospitals and clinics,
+"(1) because of national budgetary considerations, it has become necessary to terminate Federal appropriations for Public Health Service hospitals and clinics,
 
-“(2) with proper planning and coordination, some of these hospitals and clinics could be transferred to State, local, or private control or become financially self-sufficient and continue to provide effective and efficient health care to individuals in the areas in which they are located,
+"(2) with proper planning and coordination, some of these hospitals and clinics could be transferred to State, local, or private control or become financially self-sufficient and continue to provide effective and efficient health care to individuals in the areas in which they are located,
 
-“(3) a precipitous closure of these hospitals and clinics will preclude the possibility of such orderly transfer to entities which are willing and able to take over operations at such facilities and will cause unnecessary and costly hardships on the patients and staffs at such facilities and on the communities in which the facilities are located, and
+"(3) a precipitous closure of these hospitals and clinics will preclude the possibility of such orderly transfer to entities which are willing and able to take over operations at such facilities and will cause unnecessary and costly hardships on the patients and staffs at such facilities and on the communities in which the facilities are located, and
 
-“(4) it is in the national interest, consistent with sound budgetary considerations, to assist in the orderly and prompt transfer of such operations to State, local, or private operation or in the achievement of financial self-sufficiency where feasible.
+"(4) it is in the national interest, consistent with sound budgetary considerations, to assist in the orderly and prompt transfer of such operations to State, local, or private operation or in the achievement of financial self-sufficiency where feasible.
 
-“(b) The purposes of this subtitle [enacting this section, amending sections 201, 249, and 254e of this title, and enacting provisions set out as notes under section 249 of this title] are—
+"(b) The purposes of this subtitle [enacting this section, amending sections 201, 249, and 254e of this title, and enacting provisions set out as notes under section 249 of this title] are—
 
-“(1) to provide for the prompt and orderly closure by October 31, 1981, of Public Health Service hospitals and clinics which cannot reasonably be transferred to State, local, or private operation or become financially self-sufficient and for the transfer or achievement of financial self-sufficiency by September 30, 1982, of those hospitals and clinics which can be so transferred or which can achieve such financial self-sufficiency, and
+"(1) to provide for the prompt and orderly closure by October 31, 1981, of Public Health Service hospitals and clinics which cannot reasonably be transferred to State, local, or private operation or become financially self-sufficient and for the transfer or achievement of financial self-sufficiency by September 30, 1982, of those hospitals and clinics which can be so transferred or which can achieve such financial self-sufficiency, and
 
-“(2) to provide for transitional assistance for merchant seamen whose entitlement to receive free care through Public Health Service hospitals and clinics is repealed and who are hospitalized at the end of fiscal year 1981 and require continuing hospitalization.”
+"(2) to provide for transitional assistance for merchant seamen whose entitlement to receive free care through Public Health Service hospitals and clinics is repealed and who are hospitalized at the end of fiscal year 1981 and require continuing hospitalization."

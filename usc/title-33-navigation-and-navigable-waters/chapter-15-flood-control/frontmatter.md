@@ -8,7 +8,7 @@ Sec.
 
 701a. Declaration of policy of 1936 act.
 
-701a–1. “Flood control” defined; jurisdiction of Federal investigations.
+701a–1. "Flood control" defined; jurisdiction of Federal investigations.
 
 701b. Supervision of Secretary of the Army; reclamation projects unaffected.
 
@@ -38,9 +38,13 @@ Sec.
 
 701b–12. Floodplain management requirements.
 
-701b–13. Construction of flood control projects by non-Federal interests.
+701b–13. Repealed.
 
 701b–14. Structural integrity evaluations.
+
+701b–15. Non-Federal plans to provide additional flood risk reduction.
+
+701b–16. Management of flood risk reduction projects.
 
 701c. Rights-of-way, easements, etc.; acquisition by local authorities; maintenance and operation; protection of United States from liability for damages; requisites to run-off and water-flow retardation and soil erosion prevention assistance.
 
@@ -79,6 +83,8 @@ Sec.
 701m. Insufficient Congressional authorization; preparations for and modification of project.
 
 701n. Emergency response to natural disasters.
+
+701n–1. Biennial report to Congress.
 
 701 o. Omitted.
 
@@ -185,3 +191,5 @@ Sec.
 709a. Information on floods and flood damage.
 
 709b. Flood hazard information.
+
+709c. Emergency communication of risk.

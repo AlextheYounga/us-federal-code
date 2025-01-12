@@ -40,7 +40,7 @@ Sec.
 
 #### Historical and Revision Notes ####
 
-It was felt that further revision of this chapter should be considered at an opportune time for the same reasons stated with respect to chapter 81, “Piracy and Privateering”.
+It was felt that further revision of this chapter should be considered at an opportune time for the same reasons stated with respect to chapter 81, "Piracy and Privateering".
 
 #### Amendments ####
 
@@ -48,8 +48,8 @@ It was felt that further revision of this chapter should be considered at an opp
 
 **2008**—Pub. L. 110–457, title II, §§222(d)(2), 223(b), Dec. 23, 2008, 122 Stat. 5070, 5072, added items 1593A and 1596.
 
-**2003**—Pub. L. 108–193, §§4(a)(4)(B), 5(c)(1), Dec. 19, 2003, 117 Stat. 2878, 2879, substituted “PEONAGE, SLAVERY, AND TRAFFICKING IN PERSONS” for “PEONAGE AND SLAVERY” as chapter heading and added item 1595.
+**2003**—Pub. L. 108–193, §§4(a)(4)(B), 5(c)(1), Dec. 19, 2003, 117 Stat. 2878, 2879, substituted "PEONAGE, SLAVERY, AND TRAFFICKING IN PERSONS" for "PEONAGE AND SLAVERY" as chapter heading and added item 1595.
 
 **2000**—Pub. L. 106–386, div. A, §112(a)(3), Oct. 28, 2000, 114 Stat. 1489, added items 1589 to 1594.
 
-**1949**—Act May 24, 1949, ch. 139, §36, 63 Stat. 95, substituted a semicolon for comma after “Peonage” in item 1581.
+**1949**—Act May 24, 1949, ch. 139, §36, 63 Stat. 95, substituted a semicolon for comma after "Peonage" in item 1581.

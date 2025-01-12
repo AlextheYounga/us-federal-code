@@ -48,7 +48,7 @@ Another prior section 300y, act July 1, 1944, ch. 373, title XIX, §1921, as add
 
 Prior sections 300y–1 and 300y–2 were repealed by Pub. L. 100–690, title II, §2038(1), Nov. 18, 1988, 102 Stat. 4203.
 
-Section 300y–1, act July 1, 1944, ch. 373, title XIX, §1922, as added Oct. 27, 1986, Pub. L. 99–570, title IV, §4002, 100 Stat. 3207–106, related to transfer of funds to Administrator of Veterans’ Affairs.
+Section 300y–1, act July 1, 1944, ch. 373, title XIX, §1922, as added Oct. 27, 1986, Pub. L. 99–570, title IV, §4002, 100 Stat. 3207–106, related to transfer of funds to Administrator of Veterans' Affairs.
 
 Another prior section 300y–1, act July 1, 1944, ch. 373, title XIX, §1922, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 552, authorized appropriations, prior to repeal by Pub. L. 99–280, §5, Apr. 24, 1986, 100 Stat. 400.
 

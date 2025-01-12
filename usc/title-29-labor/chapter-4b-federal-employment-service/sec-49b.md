@@ -32,33 +32,33 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments ####
 
-**2008**—Subsec. (b). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(Q), which directed amendment of the “Wagner-Peysner Act” by substituting “supplemental nutrition assistance program” for “food stamp program” wherever appearing and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” wherever appearing, was executed by making the substitutions in subsec. (b) of this section, which is section 3 of the Wagner-Peyser Act, to reflect the probable intent of Congress.
+**2008**—Subsec. (b). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(Q), which directed amendment of the "Wagner-Peysner Act" by substituting "supplemental nutrition assistance program" for "food stamp program" wherever appearing and "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977" wherever appearing, was executed by making the substitutions in subsec. (b) of this section, which is section 3 of the Wagner-Peyser Act, to reflect the probable intent of Congress.
 
-**1998**—Subsec. (a). Pub. L. 105–220, §302(a)(1), substituted “Secretary” for “United States Employment Service”.
+**1998**—Subsec. (a). Pub. L. 105–220, §302(a)(1), substituted "Secretary" for "United States Employment Service".
 
-Subsec. (b). Pub. L. 105–220, §310, substituted “Secretary” for “Secretary of Labor”.
+Subsec. (b). Pub. L. 105–220, §310, substituted "Secretary" for "Secretary of Labor".
 
 Subsec. (c). Pub. L. 105–220, §302(a)(2), added subsec. (c).
 
-**1996**—Subsec. (b). Pub. L. 104–193 substituted “State program funded under part A of title IV” for “State plan approved under part A of title IV”.
+**1996**—Subsec. (b). Pub. L. 104–193 substituted "State program funded under part A of title IV" for "State plan approved under part A of title IV".
 
 **1985**—Subsec. (b). Pub. L. 99–198 inserted reference to a State agency charged with the administration of the food stamp program in a State under the Food Stamp Act.
 
-**1982**—Pub. L. 97–300, amended section generally, substituting provisions which set out functions of the Service and duties of the Secretary of Labor for provisions which had stated the purposes of the Service, including services to veterans and supplying of data for the administration of programs in aid of families with dependent children, and defined “State”.
+**1982**—Pub. L. 97–300, amended section generally, substituting provisions which set out functions of the Service and duties of the Secretary of Labor for provisions which had stated the purposes of the Service, including services to veterans and supplying of data for the administration of programs in aid of families with dependent children, and defined "State".
 
 **1976**—Subsec. (a). Pub. L. 94–566 provided that the bureau has a further duty to assure that the employment offices in each State, upon request of a public agency administering or supervising the administration of a State plan approved under part A of title IV of the Social Security Act or of a public agency charged with any duty or responsibility under any program or activity authorized or required under part D of title IV of such Act, furnish to such agency making the request, from any data contained in the files of any such employment office, information with respect to any individual specified in the request as to whether such individual is receiving, has received, or has made application for, unemployment compensation, and the amount of any such compensation being received by such individual, the current (or most recent) home address of such individual, and whether such individual has refused an offer of employment and, if so, a description of the employment so offered and terms, conditions, and rate of pay therefor.
 
 **1973**—Subsec. (a). Pub. L. 93–198, §204(c)(1), struck out function of maintaining a public employment service for the District of Columbia from the functions of the bureau.
 
-Subsec. (b). Pub. L. 93–198, §204(c)(2), included District of Columbia in definition of “State” or “States”.
+Subsec. (b). Pub. L. 93–198, §204(c)(2), included District of Columbia in definition of "State" or "States".
 
-**1960**—Subsec. (b). Pub. L. 86–624 struck out “Hawaii, Alaska,” before “Puerto Rico”.
+**1960**—Subsec. (b). Pub. L. 86–624 struck out "Hawaii, Alaska," before "Puerto Rico".
 
-**1956**—Subsec. (b). Act Aug. 1, 1956, inserted “Guam” after “Puerto Rico”.
+**1956**—Subsec. (b). Act Aug. 1, 1956, inserted "Guam" after "Puerto Rico".
 
 **1954**—Subsec. (a). Act Aug. 3, 1954, inserted provisions relating to employment counseling and placement services for handicapped persons.
 
-**1950**—Subsec. (b). Act Sept. 8, 1950, included Puerto Rico and Virgin Islands in definition of “State” or “States”.
+**1950**—Subsec. (b). Act Sept. 8, 1950, included Puerto Rico and Virgin Islands in definition of "State" or "States".
 
 #### Effective Date of 2008 Amendment ####
 
@@ -84,4 +84,4 @@ Pub. L. 93–198, title VII, §771(b), Dec. 24, 1973, 87 Stat. 836, provided in 
 
 #### Effective Date of 1954 Amendment ####
 
-Act Aug. 3, 1954, ch. 655, §8, 68 Stat. 665, provided that: “The amendments made by this Act [enacting section 107e–1 of Title 20, Education, and amending this section, sections 31 to 41, 42, and 49g of this title, sections 107, 107a, 107b, 107e, and 107f of Title 20, and section 155a of former Title 36, Patriotic Societies and Observances] shall become effective July 1, 1954.”
+Act Aug. 3, 1954, ch. 655, §8, 68 Stat. 665, provided that: "The amendments made by this Act [enacting section 107e–1 of Title 20, Education, and amending this section, sections 31 to 41, 42, and 49g of this title, sections 107, 107a, 107b, 107e, and 107f of Title 20, and section 155a of former Title 36, Patriotic Societies and Observances] shall become effective July 1, 1954."

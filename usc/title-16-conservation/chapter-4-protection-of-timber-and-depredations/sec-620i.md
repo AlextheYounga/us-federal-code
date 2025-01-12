@@ -16,4 +16,4 @@ Not later than April 1, 1993, the Secretary of Commerce shall submit to the Comm
 
 #### Amendments ####
 
-**1994**—Subsec. (b). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs”.
+**1994**—Subsec. (b). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs".

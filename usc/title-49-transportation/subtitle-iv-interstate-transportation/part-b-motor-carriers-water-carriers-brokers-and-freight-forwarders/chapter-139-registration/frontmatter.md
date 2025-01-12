@@ -24,6 +24,6 @@ Sec.
 
 **2012**—Pub. L. 112–141, div. C, title II, §32914(b)(2), July 6, 2012, 126 Stat. 820, added item 13909.
 
-**2005**—Pub. L. 109–59, title IV, §4303(d)(2), Aug. 10, 2005, 119 Stat. 1763, inserted “motor private carriers,” after “motor carriers,” in item 13906.
+**2005**—Pub. L. 109–59, title IV, §4303(d)(2), Aug. 10, 2005, 119 Stat. 1763, inserted "motor private carriers," after "motor carriers," in item 13906.
 
 [<sup>1</sup> So in original. Section catchline amended by Pub. L. 112–141 without corresponding amendment of chapter analysis.](#CHAPTER139_1)

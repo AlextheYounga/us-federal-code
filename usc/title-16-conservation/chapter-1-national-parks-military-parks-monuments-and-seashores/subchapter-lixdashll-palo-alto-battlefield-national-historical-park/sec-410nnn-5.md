@@ -16,7 +16,7 @@ Within 3 years after June 23, 1992, the Secretary shall develop and transmit to 
 
 #### Amendments ####
 
-**2009**—Pub. L. 111–11 substituted “historical park” for “historic site” in introductory provisions and in par. (3).
+**2009**—Pub. L. 111–11 substituted "historical park" for "historic site" in introductory provisions and in par. (3).
 
 #### Change of Name ####
 

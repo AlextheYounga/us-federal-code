@@ -2,7 +2,7 @@
 
 Sec.
 
-291. Stamping with words “United States assay”, etc., unlawful.
+291. Stamping with words "United States assay", etc., unlawful.
 
 292. Forfeiture.
 

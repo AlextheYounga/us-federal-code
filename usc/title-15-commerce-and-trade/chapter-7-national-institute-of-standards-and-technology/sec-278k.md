@@ -2,7 +2,7 @@
 
 #### (a) Creation and support of Centers; affiliations; merit review in determining awards; objectives ####
 
-The Secretary, through the Director and, if appropriate, through other officials, shall provide assistance for the creation and support of regional centers for the transfer of manufacturing technology (hereafter in this chapter referred to as the “Centers”). Such centers <sup><a href="#278k_1_target" name="278k_1">1</a></sup> shall be affiliated with any United States-based nonprofit institution or organization, or group thereof, that applies for and is awarded financial assistance under this section in accordance with the description published by the Secretary in the Federal Register under subsection (c)(2) of this section. Individual awards shall be decided on the basis of merit review. The objective of the Centers is to enhance productivity and technological performance in United States manufacturing through—
+The Secretary, through the Director and, if appropriate, through other officials, shall provide assistance for the creation and support of regional centers for the transfer of manufacturing technology (hereafter in this chapter referred to as the "Centers"). Such centers <sup><a href="#278k_1_target" name="278k_1">1</a></sup> shall be affiliated with any United States-based nonprofit institution or organization, or group thereof, that applies for and is awarded financial assistance under this section in accordance with the description published by the Secretary in the Federal Register under subsection (c)(2) of this section. Individual awards shall be decided on the basis of merit review. The objective of the Centers is to enhance productivity and technological performance in United States manufacturing through—
 
 (1) the transfer of manufacturing technology and techniques developed at the Institute to Centers and, through them, to manufacturing companies throughout the United States;
 
@@ -86,7 +86,7 @@ Funds accepted from the private sector under section 272(c)(7) of this title, if
 
 #### (1) Establishment ####
 
-There is established within the Institute a Manufacturing Extension Partnership Advisory Board (in this subsection referred to as the “MEP Advisory Board”).
+There is established within the Institute a Manufacturing Extension Partnership Advisory Board (in this subsection referred to as the "MEP Advisory Board").
 
 #### (2) Membership ####
 
@@ -234,15 +234,15 @@ In conducting the assessment, the Director shall use the criteria established pu
 
 #### (1) Hollings Manufacturing Extension Partnership ####
 
-The program under this section shall be known as the “Hollings Manufacturing Extension Partnership”.
+The program under this section shall be known as the "Hollings Manufacturing Extension Partnership".
 
 #### (2) Hollings Manufacturing Extension Centers ####
 
-The Regional Centers for the Transfer of Manufacturing Technology created and supported under subsection (a) shall be known as the “Hollings Manufacturing Extension Centers” (in this chapter referred to as the “Centers”).
+The Regional Centers for the Transfer of Manufacturing Technology created and supported under subsection (a) shall be known as the "Hollings Manufacturing Extension Centers" (in this chapter referred to as the "Centers").
 
 #### (j) Community college defined ####
 
-In this section, the term “community college” means an institution of higher education (as defined under section 1001(a) of title 20) at which the highest degree that is predominately awarded to students is an associate's degree.
+In this section, the term "community college" means an institution of higher education (as defined under section 1001(a) of title 20) at which the highest degree that is predominately awarded to students is an associate's degree.
 
 #### (k) Evaluation of obstacles unique to small manufacturers ####
 
@@ -262,25 +262,25 @@ The Federal Advisory Committee Act, referred to in subsec. (e)(4), is Pub. L. 92
 
 #### Amendments ####
 
-**2011**—Subsec. (a). Pub. L. 111–358, §404(f)(3)(A), substituted “regional centers for the transfer of manufacturing technology” for “Regional Centers for the Transfer of Manufacturing Technology” in introductory provisions.
+**2011**—Subsec. (a). Pub. L. 111–358, §404(f)(3)(A), substituted "regional centers for the transfer of manufacturing technology" for "Regional Centers for the Transfer of Manufacturing Technology" in introductory provisions.
 
 Subsec. (a)(6). Pub. L. 111–358, §404(a), added par. (6).
 
 Subsec. (c)(7), (8). Pub. L. 111–358, §404(d), added pars. (7) and (8).
 
-Subsec. (e)(4). Pub. L. 111–358, §404(e), amended par. (4) generally. Prior to amendment, text read as follows: “In discharging its duties under this subsection, the MEP Advisory Board shall function solely in an advisory capacity, in accordance with the Federal Advisory Committee Act.”
+Subsec. (e)(4). Pub. L. 111–358, §404(e), amended par. (4) generally. Prior to amendment, text read as follows: "In discharging its duties under this subsection, the MEP Advisory Board shall function solely in an advisory capacity, in accordance with the Federal Advisory Committee Act."
 
-Subsec. (f)(3). Pub. L. 111–358, §703(a), substituted “to add capabilities to the MEP program, including the development of” for “to develop” and “Centers may be reimbursed for costs incurred under the program. These themes—” for “These themes shall be related to projects associated with manufacturing extension activities, including supply chain integration and quality management, and including the transfer of technology based on the technological needs of manufacturers and available technologies from institutions of higher education, laboratories, and other technology producing entities, or extend beyond these traditional areas.” and added subpars. (A) to (C).
+Subsec. (f)(3). Pub. L. 111–358, §703(a), substituted "to add capabilities to the MEP program, including the development of" for "to develop" and "Centers may be reimbursed for costs incurred under the program. These themes—" for "These themes shall be related to projects associated with manufacturing extension activities, including supply chain integration and quality management, and including the transfer of technology based on the technological needs of manufacturers and available technologies from institutions of higher education, laboratories, and other technology producing entities, or extend beyond these traditional areas." and added subpars. (A) to (C).
 
-Pub. L. 111–358, §404(i), substituted “Director of the Hollings MEP program,” for “Director of the Centers program,”.
+Pub. L. 111–358, §404(i), substituted "Director of the Hollings MEP program," for "Director of the Centers program,".
 
-Subsec. (f)(5). Pub. L. 111–358, §703(b), amended par. (5) generally. Prior to amendment, text read as follows: “Awards under this subsection shall be peer reviewed and competitively awarded. The Director shall select proposals to receive awards—
+Subsec. (f)(5). Pub. L. 111–358, §703(b), amended par. (5) generally. Prior to amendment, text read as follows: "Awards under this subsection shall be peer reviewed and competitively awarded. The Director shall select proposals to receive awards—
 
-“(A) that utilize innovative or collaborative approaches to solving the problem described in the competition;
+"(A) that utilize innovative or collaborative approaches to solving the problem described in the competition;
 
-“(B) that will improve the competitiveness of industries in the region in which the Center or Centers are located; and
+"(B) that will improve the competitiveness of industries in the region in which the Center or Centers are located; and
 
-“(C) that will contribute to the long-term economic stability of that region.”
+"(C) that will contribute to the long-term economic stability of that region."
 
 Subsec. (f)(7). Pub. L. 111–358, §703(c), added par. (7) relating to duration.
 
@@ -298,21 +298,21 @@ Subsec. (k). Pub. L. 111–358, §404(h), added subsec. (k).
 
 **2010**—Subsec. (f)(7). Pub. L. 111–240 added par. (7) relating to global marketplace projects.
 
-**2007**—Subsec. (c)(3). Pub. L. 110–69, §3003(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Any nonprofit institution, or group thereof, or consortia of nonprofit institutions, including entities existing on August 23, 1988, may submit to the Secretary an application for financial support under this subsection, in accordance with the procedures established by the Secretary and published in the Federal Register under paragraph (2). In order to receive assistance under this section, an applicant shall provide adequate assurances that it will contribute 50 percent or more of the proposed Center's capital and annual operating and maintenance costs for the first three years and an increasing share for each of the last three years. Each applicant shall also submit a proposal for the allocation of the legal rights associated with any invention which may result from the proposed Center's activities.”
+**2007**—Subsec. (c)(3). Pub. L. 110–69, §3003(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Any nonprofit institution, or group thereof, or consortia of nonprofit institutions, including entities existing on August 23, 1988, may submit to the Secretary an application for financial support under this subsection, in accordance with the procedures established by the Secretary and published in the Federal Register under paragraph (2). In order to receive assistance under this section, an applicant shall provide adequate assurances that it will contribute 50 percent or more of the proposed Center's capital and annual operating and maintenance costs for the first three years and an increasing share for each of the last three years. Each applicant shall also submit a proposal for the allocation of the legal rights associated with any invention which may result from the proposed Center's activities."
 
-Subsec. (c)(5). Pub. L. 110–69, §3003(b), inserted “A Center that has not received a positive evaluation by the evaluation panel shall be notified by the panel of the deficiencies in its performance and shall be placed on probation for one year, after which time the panel shall reevaluate the Center. If the Center has not addressed the deficiencies identified by the panel, or shown a significant improvement in its performance, the Director shall conduct a new competition to select an operator for the Center or may close the Center.” after “at declining levels.”
+Subsec. (c)(5). Pub. L. 110–69, §3003(b), inserted "A Center that has not received a positive evaluation by the evaluation panel shall be notified by the panel of the deficiencies in its performance and shall be placed on probation for one year, after which time the panel shall reevaluate the Center. If the Center has not addressed the deficiencies identified by the panel, or shown a significant improvement in its performance, the Director shall conduct a new competition to select an operator for the Center or may close the Center." after "at declining levels."
 
-Subsec. (d). Pub. L. 110–69, §3003(c), added subsec. (d) and struck out former subsec. (d). Text of former subsec. (d) read as follows: “In addition to such sums as may be authorized and appropriated to the Secretary and Director to operate the Centers program, the Secretary and Director also may accept funds from other Federal departments and agencies for the purpose of providing Federal funds to support Centers. Any Center which is supported with funds which originally came from other Federal departments and agencies shall be selected and operated according to the provisions of this section.”
+Subsec. (d). Pub. L. 110–69, §3003(c), added subsec. (d) and struck out former subsec. (d). Text of former subsec. (d) read as follows: "In addition to such sums as may be authorized and appropriated to the Secretary and Director to operate the Centers program, the Secretary and Director also may accept funds from other Federal departments and agencies for the purpose of providing Federal funds to support Centers. Any Center which is supported with funds which originally came from other Federal departments and agencies shall be selected and operated according to the provisions of this section."
 
 Subsec. (e). Pub. L. 110–69, §3003(d), added subsec. (e).
 
 Subsec. (f). Pub. L. 110–69, §3003(e), added subsec. (f).
 
-**1998**—Subsec. (c)(5). Pub. L. 105–309 substituted “. After the sixth year, a Center may receive additional financial support under this section if it has received a positive evaluation through an independent review, under procedures established by the Institute. Such an independent review shall be required at least every two years after the sixth year of operation. Funding received for a fiscal year under this section after the sixth year of operation shall not exceed one third of the capital and annual operating and maintenance costs of the Center under the program.” for “, which are designed to ensure that the Center no longer needs financial support from the Institute by the seventh year. In no event shall funding for a Center be provided by the Department of Commerce after the sixth year of the operation of a Center.”
+**1998**—Subsec. (c)(5). Pub. L. 105–309 substituted ". After the sixth year, a Center may receive additional financial support under this section if it has received a positive evaluation through an independent review, under procedures established by the Institute. Such an independent review shall be required at least every two years after the sixth year of operation. Funding received for a fiscal year under this section after the sixth year of operation shall not exceed one third of the capital and annual operating and maintenance costs of the Center under the program." for ", which are designed to ensure that the Center no longer needs financial support from the Institute by the seventh year. In no event shall funding for a Center be provided by the Department of Commerce after the sixth year of the operation of a Center."
 
-**1992**—Subsec. (c)(6). Pub. L. 102–245, §105(e)(1), inserted before period at end “except for contracts for such specific technology extension or transfer services as may be specified by statute or by the Director”.
+**1992**—Subsec. (c)(6). Pub. L. 102–245, §105(e)(1), inserted before period at end "except for contracts for such specific technology extension or transfer services as may be specified by statute or by the Director".
 
-Subsec. (d). Pub. L. 102–245, §105(e)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated for the purposes of carrying out this section, a combined total of not to exceed $40,000,000 for fiscal years 1989 and 1990. Such sums shall remain available until expended.”
+Subsec. (d). Pub. L. 102–245, §105(e)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "There are authorized to be appropriated for the purposes of carrying out this section, a combined total of not to exceed $40,000,000 for fiscal years 1989 and 1990. Such sums shall remain available until expended."
 
 #### Change of Name ####
 
@@ -320,25 +320,25 @@ Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2879, which in part
 
 #### Findings ####
 
-Pub. L. 111–358, title VII, §702, Jan. 4, 2011, 124 Stat. 4041, provided that: “Congress finds the following:
+Pub. L. 111–358, title VII, §702, Jan. 4, 2011, 124 Stat. 4041, provided that: "Congress finds the following:
 
-“(1) Over its 20-year existence, the Hollings Manufacturing Extension Partnership has proven its value to manufacturers as demonstrated by the resulting impact on jobs and the economies of all 50 States and the Nation as a whole.
+"(1) Over its 20-year existence, the Hollings Manufacturing Extension Partnership has proven its value to manufacturers as demonstrated by the resulting impact on jobs and the economies of all 50 States and the Nation as a whole.
 
-“(2) The Hollings Manufacturing Extension Partnership has helped thousands of companies reinvest in themselves through process improvement and business growth initiatives leading to more sales, new markets, and the adoption of technology to deliver new products and services.
+"(2) The Hollings Manufacturing Extension Partnership has helped thousands of companies reinvest in themselves through process improvement and business growth initiatives leading to more sales, new markets, and the adoption of technology to deliver new products and services.
 
-“(3) Manufacturing is an increasingly important part of the construction sector as the industry moves to the use of more components and factory built sub-assemblies.
+"(3) Manufacturing is an increasingly important part of the construction sector as the industry moves to the use of more components and factory built sub-assemblies.
 
-“(4) Construction practices must become more efficient and precise if the United States is to construct and renovate its building stock to reduce related carbon emissions to levels that are consistent with combating global warming.
+"(4) Construction practices must become more efficient and precise if the United States is to construct and renovate its building stock to reduce related carbon emissions to levels that are consistent with combating global warming.
 
-“(5) Many companies involved in construction are small, without access to innovative manufacturing techniques, and could benefit from the type of training and business analysis activities that the Hollings Manufacturing Extension Partnership routinely provides to the Nation's manufacturers and their supply chains.
+"(5) Many companies involved in construction are small, without access to innovative manufacturing techniques, and could benefit from the type of training and business analysis activities that the Hollings Manufacturing Extension Partnership routinely provides to the Nation's manufacturers and their supply chains.
 
-“(6) Broadening the competitiveness grant program under section 25(f) of the National Institute of Standards and Technology Act (15 U.S.C. 278k(f)) could help develop and diffuse knowledge necessary to capture a large portion of the estimated $100 billion or more in energy savings if buildings in the United States met the level and quality of energy efficiency now found in buildings in certain other countries.
+"(6) Broadening the competitiveness grant program under section 25(f) of the National Institute of Standards and Technology Act (15 U.S.C. 278k(f)) could help develop and diffuse knowledge necessary to capture a large portion of the estimated $100 billion or more in energy savings if buildings in the United States met the level and quality of energy efficiency now found in buildings in certain other countries.
 
-“(7) It is therefore in the national interest to expand the capabilities of the Hollings Manufacturing Extension Partnership to be supportive of the construction and green energy industries.”
+"(7) It is therefore in the national interest to expand the capabilities of the Hollings Manufacturing Extension Partnership to be supportive of the construction and green energy industries."
 
 #### Agreements and Contributions for Collective Research and Development Initiatives ####
 
-Pub. L. 108–7, div. B, title II, Feb. 20, 2003, 117 Stat. 73, provided in part: “That hereafter the Secretary of Commerce is authorized to enter into agreements with one or more nonprofit organizations for the purpose of carrying out collective research and development initiatives pertaining to 15 U.S.C. 278k paragraph (a), and is authorized to seek and accept contributions from public and private sources to support these efforts as necessary.”
+Pub. L. 108–7, div. B, title II, Feb. 20, 2003, 117 Stat. 73, provided in part: "That hereafter the Secretary of Commerce is authorized to enter into agreements with one or more nonprofit organizations for the purpose of carrying out collective research and development initiatives pertaining to 15 U.S.C. 278k paragraph (a), and is authorized to seek and accept contributions from public and private sources to support these efforts as necessary."
 
 Similar provisions were contained in the following prior appropriation act:
 
@@ -356,7 +356,7 @@ Pub. L. 103–317, title II, Aug. 26, 1994, 108 Stat. 1741.
 
 #### Publication in Federal Register ####
 
-Pub. L. 100–519, title I, §102(d), Oct. 24, 1988, 102 Stat. 2590, provided that: “The requirement of section 25(c)(2) of the Act of March 3, 1901, [15 U.S.C. 278k(c)(2)], shall be considered to have been met by the publication made by the National Bureau of Standards on July 18, 1988 (53 Fed. Reg. 27060).”
+Pub. L. 100–519, title I, §102(d), Oct. 24, 1988, 102 Stat. 2590, provided that: "The requirement of section 25(c)(2) of the Act of March 3, 1901, [15 U.S.C. 278k(c)(2)], shall be considered to have been met by the publication made by the National Bureau of Standards on July 18, 1988 (53 Fed. Reg. 27060)."
 
 [<sup>1</sup> So in original. Probably should be capitalized.](#278k_1)
 

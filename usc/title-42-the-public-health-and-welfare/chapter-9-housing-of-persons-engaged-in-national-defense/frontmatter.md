@@ -72,7 +72,7 @@ Sec.
 
 1571 to 1576. Omitted or Repealed.
 
-#### SUBCHAPTER VII—DISPOSAL OF WAR AND VETERANS’ HOUSING ####
+#### SUBCHAPTER VII—DISPOSAL OF WAR AND VETERANS' HOUSING ####
 
 1581. Housing disposition.
 

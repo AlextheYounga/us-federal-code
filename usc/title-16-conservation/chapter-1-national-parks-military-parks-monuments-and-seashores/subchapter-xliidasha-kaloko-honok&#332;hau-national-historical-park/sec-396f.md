@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, the Secretary of the Interior is aut
 
 #### Codification ####
 
-In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In text, "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments ####
 
@@ -16,36 +16,36 @@ In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3
 
 Pub. L. 101–165, title IX, §9102, Nov. 21, 1989, 103 Stat. 1151, as amended by Pub. L. 101–511, title VIII, §8133(b), Nov. 5, 1990, 104 Stat. 1910; Pub. L. 103–204, §32(a), Dec. 17, 1993, 107 Stat. 2413, provided that:
 
-“(a) Availability of Amounts in Accounts.—
+"(a) Availability of Amounts in Accounts.—
 
-“(1) In general.—Notwithstanding any other law, in addition to the purposes for which they are now available, amounts in the accounts described in paragraph (2) shall, after December 22, 1987, be available for use in any fiscal year for all purposes (including use for purchase) involving any public sale of property by an agency of the United States. In conducting any such sale, such an agency shall accept, in the same manner as cash, any amount tendered from such an account, and the balance of the account shall be adjusted by the Secretary of the Treasury or the Administrator of General Services, as applicable, to reflect that transaction.
+"(1) In general.—Notwithstanding any other law, in addition to the purposes for which they are now available, amounts in the accounts described in paragraph (2) shall, after December 22, 1987, be available for use in any fiscal year for all purposes (including use for purchase) involving any public sale of property by an agency of the United States. In conducting any such sale, such an agency shall accept, in the same manner as cash, any amount tendered from such an account, and the balance of the account shall be adjusted by the Secretary of the Treasury or the Administrator of General Services, as applicable, to reflect that transaction.
 
-“(2) Accounts described.—The accounts referred to in subparagraph (B) are—
+"(2) Accounts described.—The accounts referred to in subparagraph (B) are—
 
-“(A) the account in the Treasury established by the Secretary of the Treasury pursuant to section 12(b) of Public Law 94–204 (43 U.S.C. 1611 note), referred to in that section as the ‘Cook Inlet Region, Incorporated property account’; and
+"(A) the account in the Treasury established by the Secretary of the Treasury pursuant to section 12(b) of Public Law 94–204 (43 U.S.C. 1611 note), referred to in that section as the 'Cook Inlet Region, Incorporated property account'; and
 
-“(B) the surplus property account established by the Administrator of General Services pursuant to section 317 of Public Law 98–146 (16 U.S.C. 396f).
+"(B) the surplus property account established by the Administrator of General Services pursuant to section 317 of Public Law 98–146 (16 U.S.C. 396f).
 
-“(b) Treatment of Amount Received by Agencies From Accounts.—In any case in which an agency of the United States that conducts a public sale of property is authorized by law to use the proceeds of such sale for a specific purpose, the Secretary of the Treasury shall, without restriction, treat as cash receipts any amount which is—
+"(b) Treatment of Amount Received by Agencies From Accounts.—In any case in which an agency of the United States that conducts a public sale of property is authorized by law to use the proceeds of such sale for a specific purpose, the Secretary of the Treasury shall, without restriction, treat as cash receipts any amount which is—
 
-“(1) tendered from an account described in subsection (a)(2);
+"(1) tendered from an account described in subsection (a)(2);
 
-“(2) received by the agency as proceeds of such a sale; and
+"(2) received by the agency as proceeds of such a sale; and
 
-“(3) used by the agency for that specific purpose.
+"(3) used by the agency for that specific purpose.
 
-“(c) Availability of Funds.—The Secretary of the Treasury shall hereafter use funds in the Treasury not otherwise appropriated to make any cash transfer that is necessary under subsection (b) to allow an agency to use the proceeds of a public sale of property.
+"(c) Availability of Funds.—The Secretary of the Treasury shall hereafter use funds in the Treasury not otherwise appropriated to make any cash transfer that is necessary under subsection (b) to allow an agency to use the proceeds of a public sale of property.
 
-“(d) Agency Defined.—In this section the term ‘agency’ includes—
+"(d) Agency Defined.—In this section the term 'agency' includes—
 
-“(1) any instrumentality of the United States, or
+"(1) any instrumentality of the United States, or
 
-“(2) any element of an agency, or
+"(2) any element of an agency, or
 
-“(3) any wholly owned or mixed-owned United States Government corporation identified in chapter 91 of title 31, United States Code.
+"(3) any wholly owned or mixed-owned United States Government corporation identified in chapter 91 of title 31, United States Code.
 
-“(e) Property Defined.—Notwithstanding the definition of ‘property’ found in the Federal Property and Administrative Services Act of 1949, as amended [now 40 U.S.C. 102(9)], in this section the term ‘property’ includes any property—real, personal (including intangible assets sold or offered by the Federal Deposit Insurance Corporation or the Resolution Trust Corporation, such as financial instruments, notes, loans, and bonds), or mixed—owned, held, or controlled by the United States (including that in a corporate capacity or as a receiver or conservator, or such other similar fiduciary relationship), and offered for sale by any agency or instrumentality of the United States, including but not limited to the General Services Administration, Department of Defense, Department of the Interior, Department of Agriculture, Department of Housing and Urban Development, the United States Courts and any Government corporation, agency or instrumentality subject to chapter 91 of title 31, United States Code; real property as used in this section means any land or interest in land or option to purchase land, any improvements on such lands, or rights to their use or exploitation.
+"(e) Property Defined.—Notwithstanding the definition of 'property' found in the Federal Property and Administrative Services Act of 1949, as amended [now 40 U.S.C. 102(9)], in this section the term 'property' includes any property—real, personal (including intangible assets sold or offered by the Federal Deposit Insurance Corporation or the Resolution Trust Corporation, such as financial instruments, notes, loans, and bonds), or mixed—owned, held, or controlled by the United States (including that in a corporate capacity or as a receiver or conservator, or such other similar fiduciary relationship), and offered for sale by any agency or instrumentality of the United States, including but not limited to the General Services Administration, Department of Defense, Department of the Interior, Department of Agriculture, Department of Housing and Urban Development, the United States Courts and any Government corporation, agency or instrumentality subject to chapter 91 of title 31, United States Code; real property as used in this section means any land or interest in land or option to purchase land, any improvements on such lands, or rights to their use or exploitation.
 
-“(f) The Secretary of the Treasury, in consultation with the Secretary of the Interior, shall establish procedures to permit the accounts described in subsection (a)(2) to receive deposits, to make deposits into escrow when an escrow is required for the sale of any property, and to reinstate to such accounts any unused escrow deposits if sales are not consummated.”
+"(f) The Secretary of the Treasury, in consultation with the Secretary of the Interior, shall establish procedures to permit the accounts described in subsection (a)(2) to receive deposits, to make deposits into escrow when an escrow is required for the sale of any property, and to reinstate to such accounts any unused escrow deposits if sales are not consummated."
 
-[<sup>1</sup> So in original. Probably should be “landowner”.](#396f_1)
+[<sup>1</sup> So in original. Probably should be "landowner".](#396f_1)

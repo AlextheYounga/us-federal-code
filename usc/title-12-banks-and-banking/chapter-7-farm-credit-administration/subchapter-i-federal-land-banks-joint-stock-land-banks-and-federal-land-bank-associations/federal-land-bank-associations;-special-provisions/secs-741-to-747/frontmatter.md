@@ -1,6 +1,6 @@
 ### §§741 to 747. Repealed. Pub. L. 92–181, title V, §5.26(a), Dec. 10, 1971, 85 Stat. 624 ###
 
-Section 741, acts July 17, 1916, ch. 245, title I, §9, 39 Stat. 368; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, covered members’ rights to loans. See section 2201 of this title.
+Section 741, acts July 17, 1916, ch. 245, title I, §9, 39 Stat. 368; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, covered members' rights to loans. See section 2201 of this title.
 
 Section 742, acts July 17, 1916, ch. 245, title I, §9, 39 Stat. 368; Aug. 18, 1959, Pub. L. 86–168, title I, §102(a), 73 Stat. 384, covered payments for stock from proceeds of member's mortgage loan. See section 2033 of this title.
 

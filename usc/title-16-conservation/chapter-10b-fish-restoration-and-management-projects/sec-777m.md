@@ -112,13 +112,13 @@ The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–
 
 **2010**—Subsec. (a)(1). Pub. L. 111–281 made technical correction to directory language of Pub. L. 109–241, §901(r)(2). See 2006 Amendment note below.
 
-**2006**—Subsec. (a)(1). Pub. L. 109–241, §901(r)(2), as amended by Pub. L. 111–281, substituted “Not more than” for “For each of fiscal years 2006 through 2009, not more than”.
+**2006**—Subsec. (a)(1). Pub. L. 109–241, §901(r)(2), as amended by Pub. L. 111–281, substituted "Not more than" for "For each of fiscal years 2006 through 2009, not more than".
 
-**2005**—Subsec. (a)(1). Pub. L. 109–59, §10118(1), reenacted subsec. (a) and par. (1) headings without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “Of the balance of each annual appropriation made under section 777b of this title remaining after the distribution and use under subsections (a), (b), and (c) of section 777c of this title in a fiscal year, not more than $3,000,000 shall be available to the Secretary of the Interior for making multistate conservation project grants in accordance with this section.”
+**2005**—Subsec. (a)(1). Pub. L. 109–59, §10118(1), reenacted subsec. (a) and par. (1) headings without change and amended text of par. (1) generally. Prior to amendment, text read as follows: "Of the balance of each annual appropriation made under section 777b of this title remaining after the distribution and use under subsections (a), (b), and (c) of section 777c of this title in a fiscal year, not more than $3,000,000 shall be available to the Secretary of the Interior for making multistate conservation project grants in accordance with this section."
 
-Subsec. (a)(2)(B). Pub. L. 109–59, §10118(2), substituted “section 777c(c)” for “section 777c(e)” in two places.
+Subsec. (a)(2)(B). Pub. L. 109–59, §10118(2), substituted "section 777c(c)" for "section 777c(e)" in two places.
 
-Subsec. (e). Pub. L. 109–59, §10118(3), added introductory provisions and struck out former introductory provisions which read as follows: “Of the balance of each annual appropriation made under section 777b of this title remaining after the distribution and use under subsections (a), (b), and (c) of section 777c of this title for each fiscal year and after deducting amounts used for grants under subsection (a) of this section—”.
+Subsec. (e). Pub. L. 109–59, §10118(3), added introductory provisions and struck out former introductory provisions which read as follows: "Of the balance of each annual appropriation made under section 777b of this title remaining after the distribution and use under subsections (a), (b), and (c) of section 777c of this title for each fiscal year and after deducting amounts used for grants under subsection (a) of this section—".
 
 #### Effective Date of 2010 Amendment ####
 

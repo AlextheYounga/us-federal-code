@@ -6,4 +6,4 @@ For the purpose of preserving certain historic properties associated with the Fo
 
 #### Change of Name ####
 
-“National Historic Site” and “historic site” substituted in text for “National Monument” and “monument”, respectively, in view of redesignation of Fort Vancouver National Monument as Fort Vancouver National Historic Site by Pub. L. 87–78, classified to section 450ff–6 of this title.
+"National Historic Site" and "historic site" substituted in text for "National Monument" and "monument", respectively, in view of redesignation of Fort Vancouver National Monument as Fort Vancouver National Historic Site by Pub. L. 87–78, classified to section 450ff–6 of this title.

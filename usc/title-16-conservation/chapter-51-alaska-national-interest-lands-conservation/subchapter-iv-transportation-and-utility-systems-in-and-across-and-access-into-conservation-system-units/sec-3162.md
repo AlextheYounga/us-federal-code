@@ -2,13 +2,13 @@
 
 For purposes of this subchapter—
 
-(1) The term “applicable law” means any law of general applicability (other than this subchapter) under which any Federal department or agency has jurisdiction to grant any authorization (including but not limited to, any right-of-way, permit, license, lease, or certificate) without which a transportation or utility system cannot, in whole or in part, be established or operated.
+(1) The term "applicable law" means any law of general applicability (other than this subchapter) under which any Federal department or agency has jurisdiction to grant any authorization (including but not limited to, any right-of-way, permit, license, lease, or certificate) without which a transportation or utility system cannot, in whole or in part, be established or operated.
 
-(2) The term “applicant” means any public or private person, including, but not limited to, any Federal department or agency.
+(2) The term "applicant" means any public or private person, including, but not limited to, any Federal department or agency.
 
-(3) The term “Federal agency” means any Federal department or agency that has any function or duty under applicable law.
+(3) The term "Federal agency" means any Federal department or agency that has any function or duty under applicable law.
 
-(4)(A) The term “transportation or utility system” means any type of system described in subparagraph (B) if any portion of the route of the system will be within any conservation system unit, national recreation area, or national conservation area in the State (and the system is not one that the department or agency having jurisdiction over the unit or area is establishing incident to its management of the unit or area).
+(4)(A) The term "transportation or utility system" means any type of system described in subparagraph (B) if any portion of the route of the system will be within any conservation system unit, national recreation area, or national conservation area in the State (and the system is not one that the department or agency having jurisdiction over the unit or area is establishing incident to its management of the unit or area).
 
 (B) The types of systems to which subparagraph (A) applies are as follows:
 

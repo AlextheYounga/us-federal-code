@@ -2,7 +2,7 @@
 
 #### (a) Definition ####
 
-In this section, the term “situational awareness” means information gathered from a variety of sources that, when communicated to emergency managers and decision makers, can form the basis for incident management decisionmaking.
+In this section, the term "situational awareness" means information gathered from a variety of sources that, when communicated to emergency managers and decision makers, can form the basis for incident management decisionmaking.
 
 #### (b) Establishment ####
 

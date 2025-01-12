@@ -156,7 +156,7 @@ The family net worth is calculated by adding—
 
 (B) the net value of investments and real estate, excluding the net value in the principal place of residence; and
 
-(C) the adjusted net worth of a business or farm, computed on the basis of the net worth of such business or farm (hereafter referred to as “NW”), determined in accordance with the following table (or a successor table prescribed by the Secretary under section 1087rr of this title), except as provided under section 1087vv(f) of this title:
+(C) the adjusted net worth of a business or farm, computed on the basis of the net worth of such business or farm (hereafter referred to as "NW"), determined in accordance with the following table (or a successor table prescribed by the Secretary under section 1087rr of this title), except as provided under section 1087vv(f) of this title:
 
 |If the net worth of a business or farm is—|       Then the adjusted net worth is—       |
 |------------------------------------------|---------------------------------------------|
@@ -224,7 +224,7 @@ The asset conversion rate is 7 percent.
 
 #### (d) Assessment schedule ####
 
-The adjusted available income (as determined under subsection (a)(1) of this section and hereafter referred to as “AAI”) is assessed according to the following table (or a successor table prescribed by the Secretary under section 1087rr of this title):
+The adjusted available income (as determined under subsection (a)(1) of this section and hereafter referred to as "AAI") is assessed according to the following table (or a successor table prescribed by the Secretary under section 1087rr of this title):
 
 |    If AAI is—    |    Then the assessment is—     |
 |------------------|--------------------------------|
@@ -248,13 +248,13 @@ In the case of a student who is divorced or separated, or whose spouse has died,
 
 **2007**—Subsec. (b)(4). Pub. L. 110–84 amended par. (4) generally. Prior to amendment, par. (4) consisted of a single table to be used to determine income protection allowances.
 
-**2006**—Subsec. (c)(4). Pub. L. 109–171 substituted “7” for “12”.
+**2006**—Subsec. (c)(4). Pub. L. 109–171 substituted "7" for "12".
 
 **1998**—Subsec. (a)(4). Pub. L. 105–244 added par. (4).
 
 **1997**—Subsec. (b)(1)(F). Pub. L. 105–78 added subpar. (F).
 
-**1993**—Subsec. (b)(4). Pub. L. 103–208, §2(g)(2), substituted “$9,510” for “9,510” in table.
+**1993**—Subsec. (b)(4). Pub. L. 103–208, §2(g)(2), substituted "$9,510" for "9,510" in table.
 
 Subsec. (e). Pub. L. 103–208, §2(g)(7), added subsec. (e).
 
@@ -262,15 +262,15 @@ Subsec. (e). Pub. L. 103–208, §2(g)(7), added subsec. (e).
 
 **1987**—Subsec. (a)(1)(C). Pub. L. 100–50, §14(18), added subpar. (C).
 
-Subsec. (b)(2). Pub. L. 100–50, §14(1), substituted “section 1087rr of this title” for “section 1087ss of this title”.
+Subsec. (b)(2). Pub. L. 100–50, §14(1), substituted "section 1087rr of this title" for "section 1087ss of this title".
 
-Subsec. (b)(5)(A). Pub. L. 100–50, §14(19), substituted “$2,100” for “$2,000”.
+Subsec. (b)(5)(A). Pub. L. 100–50, §14(19), substituted "$2,100" for "$2,000".
 
-Subsec. (b)(7). Pub. L. 100–50, §14(2), struck out “National” before “Center”.
+Subsec. (b)(7). Pub. L. 100–50, §14(2), struck out "National" before "Center".
 
-Subsec. (c)(2)(B). Pub. L. 100–50, §14(3), substituted “displaced homemaker” for “dislocated homemaker”.
+Subsec. (c)(2)(B). Pub. L. 100–50, §14(3), substituted "displaced homemaker" for "dislocated homemaker".
 
-Subsec. (c)(2)(C). Pub. L. 100–50, §14(1), (4), substituted “section 1087rr of this title” for “section 1087ss of this title” in text, added table, and struck out former table which read as follows:
+Subsec. (c)(2)(C). Pub. L. 100–50, §14(1), (4), substituted "section 1087rr of this title" for "section 1087ss of this title" in text, added table, and struck out former table which read as follows:
 
 |If the net worth of a business or farm is—|        Then the adjusted net worth is:        |
 |------------------------------------------|-----------------------------------------------|
@@ -278,13 +278,13 @@ Subsec. (c)(2)(C). Pub. L. 100–50, §14(1), (4), substituted “section 1087rr
 |                $1–$65,000                |               40 percent of NW                |
 |             $65,001–$195,000             |  $26,000 plus 50 percent of NW over $65,000   |
 |            $195,001–$325,000             |  $91,000 plus 60 percent of NW over $195,000  |
-|             $325,001 or more             |$169,000 plus 100 percent of NW over $325,000”.|
+|             $325,001 or more             |$169,000 plus 100 percent of NW over $325,000".|
 
-Subsec. (c)(4)(B). Pub. L. 100–50, §14(5), substituted “$15,999” for “$15,000”.
+Subsec. (c)(4)(B). Pub. L. 100–50, §14(5), substituted "$15,999" for "$15,000".
 
-Subsec. (c)(4)(C). Pub. L. 100–50, §14(6), substituted “$16,000” for “$15,000” in three places.
+Subsec. (c)(4)(C). Pub. L. 100–50, §14(6), substituted "$16,000" for "$15,000" in three places.
 
-Subsec. (d). Pub. L. 100–50, §14(1), (8), substituted “section 1087rr of this title” for “section 1087ss of this title” in text and inserted a minus sign before “$3,409” in two places in table.
+Subsec. (d). Pub. L. 100–50, §14(1), (8), substituted "section 1087rr of this title" for "section 1087ss of this title" in text and inserted a minus sign before "$3,409" in two places in table.
 
 #### Effective Date of 2009 Amendment ####
 
@@ -298,7 +298,7 @@ Amendment by Pub. L. 110–84 effective July 1, 2009, see section 601(e) of Pub.
 
 Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
-Pub. L. 109–171, title VIII, §8017(c)(2), Feb. 8, 2006, 120 Stat. 173, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to determinations of need for periods of enrollment beginning on or after July 1, 2007.”
+Pub. L. 109–171, title VIII, §8017(c)(2), Feb. 8, 2006, 120 Stat. 173, provided that: "The amendment made by paragraph (1) [amending this section] shall apply with respect to determinations of need for periods of enrollment beginning on or after July 1, 2007."
 
 #### Effective Date of 1998 Amendment ####
 

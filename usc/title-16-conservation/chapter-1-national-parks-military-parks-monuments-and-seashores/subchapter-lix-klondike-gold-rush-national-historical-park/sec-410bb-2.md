@@ -4,9 +4,9 @@
 
 The Secretary, in cooperation with the Secretary of State, is authorized to consult and cooperate with appropriate officials of the Government of Canada and Provincial or Territorial officials regarding planning and development of the park, and an international historical park. At such time as the Secretary shall advise the President of the United States that planning, development, and protection of the adjacent or related historic and scenic resources in Canada have been accomplished by the Government of Canada in a manner consistent with the purposes for which the park was established, and upon enactment of a provision similar to this section by the proper authority of the Canadian Government, the President is authorized to issue a proclamation designating and including the park as part of an international historical park to be known as Klondike Gold Rush International Historical Park.
 
-#### (b) Retention of “National” designation for purpose of authorization ####
+#### (b) Retention of "National" designation for purpose of authorization ####
 
-For purposes of administration, promotion, development, and support by appropriations, that part of the Klondike Gold Rush International Historical Park within the territory of the United States shall continue to be designated as the “Klondike Gold Rush National Historical Park”.
+For purposes of administration, promotion, development, and support by appropriations, that part of the Klondike Gold Rush International Historical Park within the territory of the United States shall continue to be designated as the "Klondike Gold Rush National Historical Park".
 
 (Pub. L. 94–323, §3, June 30, 1976, 90 Stat. 718.)
 
@@ -20,9 +20,9 @@ The United States and Canada have been engaged for 30 years in joint planning an
 
 It is the desire of the United States to join our Canadian neighbors in celebrating our shared history on the occasion of the centennial of the Klondike Gold Rush and to reaffirm the commitment of the United States to continuing the joint efforts of both nations to preserve our shared Klondike history.
 
-In 1996, Canadian Prime Minister Jean Chretien proclaimed that, “the governments of Canada and the United States and of Yukon and Alaska in a long-standing spirit of cooperation have agreed to establish the Klondike Gold Rush International Historic Park, incorporating the resources of the Chilkoot Trail National Historic Site in British Columbia and the Klondike Gold Rush National Historical Park in Alaska . . .”
+In 1996, Canadian Prime Minister Jean Chretien proclaimed that, "the governments of Canada and the United States and of Yukon and Alaska in a long-standing spirit of cooperation have agreed to establish the Klondike Gold Rush International Historic Park, incorporating the resources of the Chilkoot Trail National Historic Site in British Columbia and the Klondike Gold Rush National Historical Park in Alaska . . ."
 
-Section 3(a) of U.S. Public Law 94–323 [16 U.S.C. 410bb–2(a)] states, “At such time . . . that planning, development, and protection of the adjacent or related historic and scenic resources in Canada have been accomplished by the Government of Canada in a manner consistent with the purposes for which the park was established, and upon enactment of a provision similar to this section by the proper authority of the Canadian Government, the President is authorized to issue a proclamation designating and including the park as a part of an international historical park to be known as Klondike Gold Rush International Historical Park.”
+Section 3(a) of U.S. Public Law 94–323 [16 U.S.C. 410bb–2(a)] states, "At such time . . . that planning, development, and protection of the adjacent or related historic and scenic resources in Canada have been accomplished by the Government of Canada in a manner consistent with the purposes for which the park was established, and upon enactment of a provision similar to this section by the proper authority of the Canadian Government, the President is authorized to issue a proclamation designating and including the park as a part of an international historical park to be known as Klondike Gold Rush International Historical Park."
 
 NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America, by virtue of the authority vested in me by section 3(a) of Public Law 94–323 [16 U.S.C. 410bb–2(a)] of June 30, 1976, do proclaim that Klondike Gold Rush National Historical Park is designated and included as part of an international historical park to be known as Klondike Gold Rush International Historical Park.
 

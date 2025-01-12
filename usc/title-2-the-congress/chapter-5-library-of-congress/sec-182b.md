@@ -62,7 +62,7 @@ In the case of any amount in the revolving fund consisting of a payment received
 
 **2010**—Subsec. (e). Pub. L. 111–145 repealed Pub. L. 110–161, §1004(f)(1). See 2007 Amendment note below.
 
-**2008**—Subsec. (e). Pub. L. 110–178 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Amounts in the accounts of the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the programs and activities covered by such accounts.”
+**2008**—Subsec. (e). Pub. L. 110–178 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Amounts in the accounts of the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the programs and activities covered by such accounts."
 
 **2007**—Subsec. (e). Pub. L. 110–161, §1004(f)(1), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
 
@@ -74,7 +74,7 @@ Repeal of section 1004 of Pub. L. 110–161 by Pub. L. 111–145 effective as if
 
 #### Effective Date of 2008 Amendment ####
 
-Pub. L. 110–178, §6(c), Jan. 7, 2008, 121 Stat. 2554, provided that: “The amendments made by this section [amending this section] shall apply with respect to services provided by the United States Capitol Police on or after the date of the enactment of this Act [Jan. 7, 2008].”
+Pub. L. 110–178, §6(c), Jan. 7, 2008, 121 Stat. 2554, provided that: "The amendments made by this section [amending this section] shall apply with respect to services provided by the United States Capitol Police on or after the date of the enactment of this Act [Jan. 7, 2008]."
 
 #### Effective Date of 2007 Amendment ####
 
@@ -82,7 +82,7 @@ Pub. L. 110–161, div. H, title I, §1004(f)(3), Dec. 26, 2007, 121 Stat. 2236,
 
 #### Effective Date of 2001 Amendment ####
 
-Pub. L. 107–68, title II, §208(b), Nov. 12, 2001, 115 Stat. 587, provided that: “The amendment made by subsection (a) [amending this section] shall take effect upon the date on which the Committees on Appropriations of the House of Representatives and Senate approve a report submitted to the Committees by the Librarian of Congress which describes the guidelines and policies applicable to the hosting of special events and programs by the Librarian which are covered under section 102(a)(4) of the Library of Congress Fiscal Operations Improvement Act of 2000 [2 U.S.C. 182b(a)(4)] (as added by subsection (a)).”
+Pub. L. 107–68, title II, §208(b), Nov. 12, 2001, 115 Stat. 587, provided that: "The amendment made by subsection (a) [amending this section] shall take effect upon the date on which the Committees on Appropriations of the House of Representatives and Senate approve a report submitted to the Committees by the Librarian of Congress which describes the guidelines and policies applicable to the hosting of special events and programs by the Librarian which are covered under section 102(a)(4) of the Library of Congress Fiscal Operations Improvement Act of 2000 [2 U.S.C. 182b(a)(4)] (as added by subsection (a))."
 
 #### Effective Date ####
 

@@ -4,4 +4,4 @@ Nothing in sections 57, 58, and 60 to 65 of this title shall be construed as rep
 
 (June 2, 1920, ch. 218, §5, 41 Stat. 732.)
 
-[<sup>1</sup> So in original. Probably should be “plant”.](#64_1)
+[<sup>1</sup> So in original. Probably should be "plant".](#64_1)

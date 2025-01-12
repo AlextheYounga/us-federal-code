@@ -1,12 +1,12 @@
 ### §47. Impairment of rights or interests in certain mining property ###
 
-Nothing contained in sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52, 71 to 76 of this title and section 661 of title 43 shall be construed to impair in any way, rights or interests in mining property acquired under laws in force prior to July 9, 1870; nor to affect the provisions of the act entitled “An act granting to A. Sutro the right-of-way and other privileges to aid in the construction of a draining and exploring tunnel to the Comstock lode, in the State of Nevada”, approved July 25, 1866.
+Nothing contained in sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52, 71 to 76 of this title and section 661 of title 43 shall be construed to impair in any way, rights or interests in mining property acquired under laws in force prior to July 9, 1870; nor to affect the provisions of the act entitled "An act granting to A. Sutro the right-of-way and other privileges to aid in the construction of a draining and exploring tunnel to the Comstock lode, in the State of Nevada", approved July 25, 1866.
 
 (R.S. §2344.)
 
 #### References in Text ####
 
-Sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52, 71 to 76 of this title and section 661 of title 43, referred to in text, were in the original “this chapter”, meaning chapter 6 of title 32 of the Revised Statutes, consisting of R.S. §§2318 to 2352.
+Sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52, 71 to 76 of this title and section 661 of title 43, referred to in text, were in the original "this chapter", meaning chapter 6 of title 32 of the Revised Statutes, consisting of R.S. §§2318 to 2352.
 
 #### Codification ####
 

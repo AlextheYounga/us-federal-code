@@ -26,13 +26,13 @@ Nothing in this section shall limit in any respect the authority of the appropri
 
 #### (c) Definition ####
 
-For purposes of this section, the term “appropriate Federal banking agency” shall have the same meaning as given in section 1813 of title 12.
+For purposes of this section, the term "appropriate Federal banking agency" shall have the same meaning as given in section 1813 of title 12.
 
 (Aug. 22, 1940, ch. 686, title II, §210A, as added Pub. L. 106–102, title II, §220, Nov. 12, 1999, 113 Stat. 1400; Pub. L. 109–351, title IV, §401(b)(2), Oct. 13, 2006, 120 Stat. 1973.)
 
 #### Amendments ####
 
-**2006**—Subsecs. (a), (b). Pub. L. 109–351 substituted “bank holding company or savings and loan holding company” for “bank holding company” wherever appearing.
+**2006**—Subsecs. (a), (b). Pub. L. 109–351 substituted "bank holding company or savings and loan holding company" for "bank holding company" wherever appearing.
 
 #### Effective Date ####
 

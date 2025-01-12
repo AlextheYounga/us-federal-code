@@ -2,7 +2,7 @@
 
 #### (a) Approval by Congress ####
 
-The Colorado River compact signed at Santa Fe, New Mexico, November 24, 1922, pursuant to Act of Congress approved August 19, 1921, entitled “An Act to permit a compact or agreement between the States of Arizona, California, Colorado, Nevada, New Mexico, Utah, and Wyoming respecting the disposition and apportionment of the waters of the Colorado River, and for other purposes”, is approved by the Congress of the United States, and the provisions of the first paragraph of article 11 of the said Colorado River compact, making said compact binding and obligatory when it shall have been approved by the legislature of each of the signatory States, are waived, and this approval shall become effective when the State of California and at least five of the other States mentioned, shall have approved or may hereafter approve said compact as aforesaid and shall consent to such waiver, as herein provided.
+The Colorado River compact signed at Santa Fe, New Mexico, November 24, 1922, pursuant to Act of Congress approved August 19, 1921, entitled "An Act to permit a compact or agreement between the States of Arizona, California, Colorado, Nevada, New Mexico, Utah, and Wyoming respecting the disposition and apportionment of the waters of the Colorado River, and for other purposes", is approved by the Congress of the United States, and the provisions of the first paragraph of article 11 of the said Colorado River compact, making said compact binding and obligatory when it shall have been approved by the legislature of each of the signatory States, are waived, and this approval shall become effective when the State of California and at least five of the other States mentioned, shall have approved or may hereafter approve said compact as aforesaid and shall consent to such waiver, as herein provided.
 
 #### (b) Rights in waters of Colorado River and tributaries; Colorado River compact as controlling ####
 
@@ -22,7 +22,7 @@ The conditions and covenants referred to herein shall be deemed to run with the 
 
 Act of Congress approved August 19, 1921, referred to in subsec. (a), is act Aug. 19, 1921, ch. 72, 42 Stat. 171, which is not classified to the Code.
 
-The Federal Power Act, referred to in subsec. (c), which was in the original the “Federal Water Power Act”, is defined in section 617k of this title. For further details, see note set out under section 617k of this title.
+The Federal Power Act, referred to in subsec. (c), which was in the original the "Federal Water Power Act", is defined in section 617k of this title. For further details, see note set out under section 617k of this title.
 
 #### Upper Colorado River Basin Compact ####
 

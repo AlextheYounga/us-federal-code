@@ -22,7 +22,7 @@
 
 #### Amendment of Subsection (d)(1)(C) ####
 
-Pub. L. 113–66, div. A, title XVII, §1702(c)(3)(E), (d)(1), Dec. 26, 2013, 127 Stat. 958, provided that, effective one year after Dec. 26, 2013, and applicable with respect to offenses committed under chapter 47 of this title on or after that effective date, subsection (d)(1)(C) of this section is amended by striking “pretrial investigation” and inserting “preliminary hearing”. See 2013 Amendment note below.
+Pub. L. 113–66, div. A, title XVII, §1702(c)(3)(E), (d)(1), Dec. 26, 2013, 127 Stat. 958, provided that, effective one year after Dec. 26, 2013, and applicable with respect to offenses committed under chapter 47 of this title on or after that effective date, subsection (d)(1)(C) of this section is amended by striking "pretrial investigation" and inserting "preliminary hearing". See 2013 Amendment note below.
 
 #### Prior Provisions ####
 
@@ -30,7 +30,7 @@ A prior section 948b, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Sta
 
 #### Amendments ####
 
-**2013**—Subsec. (d)(1)(C). Pub. L. 113–66 substituted “preliminary hearing” for “pretrial investigation”.
+**2013**—Subsec. (d)(1)(C). Pub. L. 113–66 substituted "preliminary hearing" for "pretrial investigation".
 
 #### Effective Date of 2013 Amendment ####
 
@@ -46,9 +46,9 @@ Section 1. *Establishment of Military Commissions*. There are hereby established
 
 Sec. 2. *Definitions*. As used in this order:
 
-(a) “unlawful enemy combatant” has the meaning provided for that term in section 948a(1) of title 10; and
+(a) "unlawful enemy combatant" has the meaning provided for that term in section 948a(1) of title 10; and
 
-(b) “alien” means a person who is not a citizen of the United States.
+(b) "alien" means a person who is not a citizen of the United States.
 
 Sec. 3. *Supersedure*. This order supersedes any provision of the President's Military Order of November 13, 2001 (66 *Fed. Reg*. 57,833), that relates to trial by military commission, specifically including:
 

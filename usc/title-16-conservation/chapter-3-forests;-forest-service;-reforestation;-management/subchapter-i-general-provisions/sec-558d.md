@@ -10,4 +10,4 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### Effective Date of 1978 Amendment ####
 
-Pub. L. 95–289, §2, June 5, 1978, 92 Stat. 289, provided that: “The amendment made by this Act to the Volunteers in the National Forests Act of 1972 [amending this section] shall become effective October 1, 1978.”
+Pub. L. 95–289, §2, June 5, 1978, 92 Stat. 289, provided that: "The amendment made by this Act to the Volunteers in the National Forests Act of 1972 [amending this section] shall become effective October 1, 1978."

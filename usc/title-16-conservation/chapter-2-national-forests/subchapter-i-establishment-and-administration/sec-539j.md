@@ -2,9 +2,9 @@
 
 #### (a) Establishment ####
 
-(1) There is hereby established in the Arapaho National Forest, Colorado, the Bowen Gulch Protection Area (hereinafter in this Act referred to as the “protection area”).
+(1) There is hereby established in the Arapaho National Forest, Colorado, the Bowen Gulch Protection Area (hereinafter in this Act referred to as the "protection area").
 
-(2) The protection area shall consist of certain lands in the Arapaho National Forest, Colorado, which comprise approximately 11,600 acres, as generally depicted as “Area A” on a map entitled “Bowen Gulch Additions to Never Summer Wilderness Proposal”, dated January, 1993.
+(2) The protection area shall consist of certain lands in the Arapaho National Forest, Colorado, which comprise approximately 11,600 acres, as generally depicted as "Area A" on a map entitled "Bowen Gulch Additions to Never Summer Wilderness Proposal", dated January, 1993.
 
 #### (b) Administration ####
 
@@ -40,6 +40,6 @@ This Act, referred to in subsec. (a), is Pub. L. 103–77, Aug. 13, 1993, 107 St
 
 Pub. L. 103–77, §1(b), Aug. 13, 1993, 107 Stat. 756, provided that:
 
-“(1) As used in this Act [see Short Title note set out under section 539i of this title] with reference to lands in the National Forest System, the term ‘the Secretary’ means the Secretary of Agriculture.
+"(1) As used in this Act [see Short Title note set out under section 539i of this title] with reference to lands in the National Forest System, the term 'the Secretary' means the Secretary of Agriculture.
 
-“(2) As used in this Act with respect to lands not in the National Forest System, the term ‘the Secretary’ means the Secretary of the Interior.”
+"(2) As used in this Act with respect to lands not in the National Forest System, the term 'the Secretary' means the Secretary of the Interior."

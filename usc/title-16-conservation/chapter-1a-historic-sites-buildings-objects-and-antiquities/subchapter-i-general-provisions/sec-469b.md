@@ -12,9 +12,9 @@ In the administration of sections 469 to 469c–1 of this title, the Secretary m
 
 #### Amendments ####
 
-**1974**—Par. (2). Pub. L. 93–291 substituted “obtain the services of experts and consultants or organizations thereof in accordance with section 3109 of title 5” for “procure the temporary or intermittent services of experts or consultants or organizations thereof as provided in section 55a of title 5”.
+**1974**—Par. (2). Pub. L. 93–291 substituted "obtain the services of experts and consultants or organizations thereof in accordance with section 3109 of title 5" for "procure the temporary or intermittent services of experts or consultants or organizations thereof as provided in section 55a of title 5".
 
-Par. (3). Pub. L. 93–291 substituted “or corporation or transferred to him by any Federal agency” for “or corporations holding a license issued by an agency of the United States for the construction of a dam or other type of water or power control project”.
+Par. (3). Pub. L. 93–291 substituted "or corporation or transferred to him by any Federal agency" for "or corporations holding a license issued by an agency of the United States for the construction of a dam or other type of water or power control project".
 
 #### Transfer of Functions ####
 

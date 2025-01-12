@@ -26,7 +26,7 @@ Sec.
 
 1609. National Forest System.
 
-1610. Implementation of provisions by Secretary of Agriculture; utilization of information and data of other organizations; avoidance of duplication of planning, etc.; “renewable resources” defined.
+1610. Implementation of provisions by Secretary of Agriculture; utilization of information and data of other organizations; avoidance of duplication of planning, etc.; "renewable resources" defined.
 
 1611. Timber.
 

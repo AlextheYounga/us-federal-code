@@ -128,7 +128,7 @@ The process described in clause (i) shall ensure that the selection of represent
 
 #### (D) Multi-stakeholder group defined ####
 
-In this paragraph, the term “multi-stakeholder group” means, with respect to a quality and efficiency measure, a voluntary collaborative of organizations representing a broad group of stakeholders interested in or affected by the use of such quality and efficiency measure.
+In this paragraph, the term "multi-stakeholder group" means, with respect to a quality and efficiency measure, a voluntary collaborative of organizations representing a broad group of stakeholders interested in or affected by the use of such quality and efficiency measure.
 
 #### (8) Transmission of multi-stakeholder input ####
 
@@ -196,7 +196,7 @@ Section 12(d) of the National Technology Transfer and Advancement Act of 1995, r
 
 #### Codification ####
 
-In subsec. (a)(4), “section 132 of title 41” substituted for “section 4(5) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(5))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(4), "section 132 of title 41" substituted for "section 4(5) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(5))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions ####
 
@@ -206,23 +206,23 @@ A prior section 1395aaa, act Aug. 14, 1935, ch. 531, title XVIII, §1890, as add
 
 **2014**—Subsec. (d). Pub. L. 113–93 designated existing provisions as par. (1) and added par. (2).
 
-**2013**—Subsec. (b)(4). Pub. L. 112–240, §609(a)(2), struck out par. (4). Text read as follows: “The entity shall promote the development and use of electronic health records that contain the functionality for automated collection, aggregation, and transmission of performance measurement information.”
+**2013**—Subsec. (b)(4). Pub. L. 112–240, §609(a)(2), struck out par. (4). Text read as follows: "The entity shall promote the development and use of electronic health records that contain the functionality for automated collection, aggregation, and transmission of performance measurement information."
 
-Subsec. (d). Pub. L. 113–67 inserted at end “Amounts transferred under the preceding sentence shall remain available until expended.”
+Subsec. (d). Pub. L. 113–67 inserted at end "Amounts transferred under the preceding sentence shall remain available until expended."
 
-Pub. L. 112–240, §609(a)(1), substituted “fiscal years 2009 through 2013” for “fiscal years 2009 through 2012”.
+Pub. L. 112–240, §609(a)(1), substituted "fiscal years 2009 through 2013" for "fiscal years 2009 through 2012".
 
 **2010**—Subsec. (b)(5)(A)(iv) to (vi). Pub. L. 111–148, §3014(a)(2), added cls. (iv) to (vi).
 
 Subsec. (b)(6). Pub. L. 111–148, §3003(b), added par. (6).
 
-Subsec. (b)(7). Pub. L. 111–148, §10304, substituted “quality and efficiency” for “quality” wherever appearing in text.
+Subsec. (b)(7). Pub. L. 111–148, §10304, substituted "quality and efficiency" for "quality" wherever appearing in text.
 
 Pub. L. 111–148, §3014(a)(1), added par. (7).
 
-Subsec. (b)(7)(B). Pub. L. 111–148, §10304, which directed substitution of “quality and efficiency” for “quality” wherever appearing, was executed by substituting “Quality and efficiency” for “Quality” in subpar. heading to reflect the probable intent of Congress.
+Subsec. (b)(7)(B). Pub. L. 111–148, §10304, which directed substitution of "quality and efficiency" for "quality" wherever appearing, was executed by substituting "Quality and efficiency" for "Quality" in subpar. heading to reflect the probable intent of Congress.
 
-Subsec. (b)(7)(B)(i)(I). Pub. L. 111–148, §10322(b), inserted “1395ww(s)(4)(D),” after “1395ww(o)(2),”.
+Subsec. (b)(7)(B)(i)(I). Pub. L. 111–148, §10322(b), inserted "1395ww(s)(4)(D)," after "1395ww(o)(2),".
 
 Subsec. (b)(8). Pub. L. 111–148, §3014(a)(1), added par. (8).
 

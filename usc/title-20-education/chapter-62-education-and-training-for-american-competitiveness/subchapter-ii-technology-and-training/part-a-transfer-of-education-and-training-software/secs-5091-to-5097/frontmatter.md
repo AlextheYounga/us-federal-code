@@ -1,6 +1,6 @@
 ### §§5091 to 5097. Repealed. Pub. L. 103–382, title III, §391(i), Oct. 20, 1994, 108 Stat. 4023 ###
 
-Section 5091, Pub. L. 100–418, title VI, §6101, Aug. 23, 1988, 102 Stat. 1500, provided that this part could be cited as the “Training Technology Transfer Act of 1988”.
+Section 5091, Pub. L. 100–418, title VI, §6101, Aug. 23, 1988, 102 Stat. 1500, provided that this part could be cited as the "Training Technology Transfer Act of 1988".
 
 Section 5092, Pub. L. 100–418, title VI, §6102, Aug. 23, 1988, 102 Stat. 1500; Pub. L. 101–600, §6, Nov. 16, 1990, 104 Stat. 3046, stated findings of Congress and purposes of this part.
 

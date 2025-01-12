@@ -58,21 +58,21 @@ Sec.
 
 #### Amendments ####
 
-**2013**—Pub. L. 112–239, div. A, title X, §1076(g)(4), Jan. 2, 2013, 126 Stat. 1955, struck out item 2374b “Prizes for achievements in promoting science, mathematics, engineering, or technology education”.
+**2013**—Pub. L. 112–239, div. A, title X, §1076(g)(4), Jan. 2, 2013, 126 Stat. 1955, struck out item 2374b "Prizes for achievements in promoting science, mathematics, engineering, or technology education".
 
-**2011**—Pub. L. 112–81, div. A, title VIII, §801(e)(3), Dec. 31, 2011, 125 Stat. 1484, substituted “Major defense acquisition programs: certification required before Milestone A approval” for “Major defense acquisition programs: certification required before Milestone A or Key Decision Point A approval” in item 2366a and “Major defense acquisition programs: certification required before Milestone B approval” for “Major defense acquisition programs: certification required before Milestone B or Key Decision Point B approval” in item 2366b.
+**2011**—Pub. L. 112–81, div. A, title VIII, §801(e)(3), Dec. 31, 2011, 125 Stat. 1484, substituted "Major defense acquisition programs: certification required before Milestone A approval" for "Major defense acquisition programs: certification required before Milestone A or Key Decision Point A approval" in item 2366a and "Major defense acquisition programs: certification required before Milestone B approval" for "Major defense acquisition programs: certification required before Milestone B or Key Decision Point B approval" in item 2366b.
 
-Pub. L. 112–81, div. A, title II, §251(a)(2), (b), Dec. 31, 2011, 125 Stat. 1347, effective Oct. 1, 2013, struck out item 2359a “Technology Transition Initiative”.
+Pub. L. 112–81, div. A, title II, §251(a)(2), (b), Dec. 31, 2011, 125 Stat. 1347, effective Oct. 1, 2013, struck out item 2359a "Technology Transition Initiative".
 
 **2009**—Pub. L. 111–84, div. A, title II, §252(b), Oct. 28, 2009, 123 Stat. 2243, added item 2362.
 
-**2008**—Pub. L. 110–417, [div. A], title VIII, §813(c), Oct. 14, 2008, 122 Stat. 4527, added items 2366a and 2366b and struck out former items 2366a “Major defense acquisition programs: certification required before Milestone B approval or Key Decision Point B approval” and 2366b “Major defense acquisition programs: certification required before Milestone A or Key Decision Point A approval”.
+**2008**—Pub. L. 110–417, [div. A], title VIII, §813(c), Oct. 14, 2008, 122 Stat. 4527, added items 2366a and 2366b and struck out former items 2366a "Major defense acquisition programs: certification required before Milestone B approval or Key Decision Point B approval" and 2366b "Major defense acquisition programs: certification required before Milestone A or Key Decision Point A approval".
 
 Pub. L. 110–181, div. A, title IX, §943(a)(2), Jan. 28, 2008, 122 Stat. 289, added item 2366b.
 
 **2006**—Pub. L. 109–163, div. A, title VIII, §801(b), Jan. 6, 2006, 119 Stat. 3367, added item 2366a.
 
-**2004**—Pub. L. 108–375, div. A, title X, §1005(b), Oct. 28, 2004, 118 Stat. 2036, struck out item 2370a “Medical countermeasures against biowarfare threats: allocation of funding between near-term and other threats”.
+**2004**—Pub. L. 108–375, div. A, title X, §1005(b), Oct. 28, 2004, 118 Stat. 2036, struck out item 2370a "Medical countermeasures against biowarfare threats: allocation of funding between near-term and other threats".
 
 **2003**—Pub. L. 108–136, div. A, title II, §§231(b), 232(b), Nov. 24, 2003, 117 Stat. 1422, 1423, added items 2352 and 2365.
 
@@ -84,27 +84,27 @@ Pub. L. 110–181, div. A, title IX, §943(a)(2), Jan. 28, 2008, 122 Stat. 289, 
 
 **1996**—Pub. L. 104–201, div. A, title II, §267(c)(1)(C), Sept. 23, 1996, 110 Stat. 2468, added item 2371a.
 
-Pub. L. 104–106, div. A, title VIII, §802(b), title X, §§1061(j)(2), 1062(c)(2), Feb. 10, 1996, 110 Stat. 390, 443, 444, struck out items 2352 “Contracts: notice to Congress required for contracts performed over period exceeding 10 years”, 2356 “Contracts: delegations”, and 2370 “Biological Defense Research Program”.
+Pub. L. 104–106, div. A, title VIII, §802(b), title X, §§1061(j)(2), 1062(c)(2), Feb. 10, 1996, 110 Stat. 390, 443, 444, struck out items 2352 "Contracts: notice to Congress required for contracts performed over period exceeding 10 years", 2356 "Contracts: delegations", and 2370 "Biological Defense Research Program".
 
-**1994**—Pub. L. 103–355, title I, §1301(c), title II, §2002(b), title III, §3062(b), title VII, §7203(a)(3), Oct. 13, 1994, 108 Stat. 3287, 3303, 3337, 3380, added item 2374, substituted in item 2358 “Research and development projects” for “Research projects” and in item 2371 “Research projects: transactions other than contracts and grants” for “Advanced research projects: cooperative agreements and other transactions”, and struck out item 2355 “Contracts: vouchering procedures” and item 2369 “Product evaluation activity”.
+**1994**—Pub. L. 103–355, title I, §1301(c), title II, §2002(b), title III, §3062(b), title VII, §7203(a)(3), Oct. 13, 1994, 108 Stat. 3287, 3303, 3337, 3380, added item 2374, substituted in item 2358 "Research and development projects" for "Research projects" and in item 2371 "Research projects: transactions other than contracts and grants" for "Advanced research projects: cooperative agreements and other transactions", and struck out item 2355 "Contracts: vouchering procedures" and item 2369 "Product evaluation activity".
 
-**1993**—Pub. L. 103–160, div. A, title II, §214(b), title VIII, §828(a)(2), (c)(2), Nov. 30, 1993, 107 Stat. 1586, 1713, 1714, struck out item 2362 “Testing requirements: wheeled or tracked armored vehicles” and added items 2370a and 2373.
+**1993**—Pub. L. 103–160, div. A, title II, §214(b), title VIII, §828(a)(2), (c)(2), Nov. 30, 1993, 107 Stat. 1586, 1713, 1714, struck out item 2362 "Testing requirements: wheeled or tracked armored vehicles" and added items 2370a and 2373.
 
-**1992**—Pub. L. 102–484, div. A, title VIII, §821(c)(2), div. D, title XLII, §4271(b)(3), Oct. 23, 1992, 106 Stat. 2460, 2696, struck out items 2363 “Encouragement of technology transfer” and 2365 “Competitive prototype strategy requirement: major defense acquisition programs”.
+**1992**—Pub. L. 102–484, div. A, title VIII, §821(c)(2), div. D, title XLII, §4271(b)(3), Oct. 23, 1992, 106 Stat. 2460, 2696, struck out items 2363 "Encouragement of technology transfer" and 2365 "Competitive prototype strategy requirement: major defense acquisition programs".
 
-**1991**—Pub. L. 102–190, div. A, title VIII, §§802(a)(2), 803(a)(2), 821(c)(2), Dec. 5, 1991, 105 Stat. 1414, 1415, 1431, substituted item 2352 for former item 2352 “Contracts: limited to five-year terms”, struck out item 2368 “Critical technologies research”, and substituted item 2372 for former item 2372 “Independent research and development”.
+**1991**—Pub. L. 102–190, div. A, title VIII, §§802(a)(2), 803(a)(2), 821(c)(2), Dec. 5, 1991, 105 Stat. 1414, 1415, 1431, substituted item 2352 for former item 2352 "Contracts: limited to five-year terms", struck out item 2368 "Critical technologies research", and substituted item 2372 for former item 2372 "Independent research and development".
 
 Pub. L. 102–25, title VII, §701(e)(5), Apr. 6, 1991, 105 Stat. 114, inserted period at end of item 2366.
 
-**1990**—Pub. L. 101–510, div. A, title II, §241(b), title VIII, §824(a)(2), title XIII, §1331(5), Nov. 5, 1990, 104 Stat. 1517, 1604, 1673, struck out items 2357 “Contracts: reports to Congress” and 2359 “Salaries of officers of Federal contract research centers: reports to Congress” and added items 2370 and 2372.
+**1990**—Pub. L. 101–510, div. A, title II, §241(b), title VIII, §824(a)(2), title XIII, §1331(5), Nov. 5, 1990, 104 Stat. 1517, 1604, 1673, struck out items 2357 "Contracts: reports to Congress" and 2359 "Salaries of officers of Federal contract research centers: reports to Congress" and added items 2370 and 2372.
 
-**1989**—Pub. L. 101–189, div. A, title II, §251(a)(2), title VIII, §§802(c)(4)(B), 841(c)(2), Nov. 29, 1989, 103 Stat. 1404, 1486, 1514, substituted “testing and lethality testing required before full-scale production” for “and lethality testing; operational testing” in item 2366, substituted “research” for “plan” in item 2368, and added item 2371.
+**1989**—Pub. L. 101–189, div. A, title II, §251(a)(2), title VIII, §§802(c)(4)(B), 841(c)(2), Nov. 29, 1989, 103 Stat. 1404, 1486, 1514, substituted "testing and lethality testing required before full-scale production" for "and lethality testing; operational testing" in item 2366, substituted "research" for "plan" in item 2368, and added item 2371.
 
 **1988**—Pub. L. 100–456, div. A, title II, §220(b), title VIII, §§823(a)(2), 842(b), Sept. 29, 1988, 102 Stat. 1941, 2018, 2026, added items 2361, 2368, and 2369.
 
-Pub. L. 100–370, §1(g)(4), July 19, 1988, 102 Stat. 847, added item 2351, and struck out item 2361 “Availability of appropriations”.
+Pub. L. 100–370, §1(g)(4), July 19, 1988, 102 Stat. 847, added item 2351, and struck out item 2361 "Availability of appropriations".
 
-**1987**—Pub. L. 100–180, div. A, title XII, §1231(10)(C), (12), Dec. 4, 1987, 101 Stat. 1160, substituted “defense” for “Defense” in item 2364 and “federally” for “Federally” in item 2367.
+**1987**—Pub. L. 100–180, div. A, title XII, §1231(10)(C), (12), Dec. 4, 1987, 101 Stat. 1160, substituted "defense" for "Defense" in item 2364 and "federally" for "Federally" in item 2367.
 
 Pub. L. 100–26, §5(3)(B), Apr. 21, 1987, 101 Stat. 274, made technical amendment to directory language of section 909(a)(2) of Pub. L. 99–500, Pub. L. 99–591, and 99–661. See 1986 Amendment note below.
 
@@ -124,4 +124,4 @@ Pub. L. 99–500, §101(c) [title X, §§909(a)(2), 910(a)(2), 912(a)(2)], Oct. 
 
 **1962**—Pub. L. 87–651, title II, §208(b), Sept. 7, 1962, 76 Stat. 523, added item 2358.
 
-**1958**—Pub. L. 85–599, §3(d), Aug. 6, 1958, 72 Stat. 516, struck out item 2351 “Policy, plans, and coordination”.
+**1958**—Pub. L. 85–599, §3(d), Aug. 6, 1958, 72 Stat. 516, struck out item 2351 "Policy, plans, and coordination".

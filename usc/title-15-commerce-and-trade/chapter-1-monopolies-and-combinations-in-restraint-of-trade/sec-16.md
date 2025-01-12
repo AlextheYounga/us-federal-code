@@ -78,19 +78,19 @@ The antitrust laws, referred to in subsecs. (a), (b), and (g) to (i), are define
 
 #### Amendments ####
 
-**2004**—Subsec. (d). Pub. L. 108–237, §221(b)(1), inserted at end “Upon application by the United States, the district court may, for good cause (based on a finding that the expense of publication in the Federal Register exceeds the public interest benefits to be gained from such publication), authorize an alternative method of public dissemination of the public comments received and the response to those comments.”
+**2004**—Subsec. (d). Pub. L. 108–237, §221(b)(1), inserted at end "Upon application by the United States, the district court may, for good cause (based on a finding that the expense of publication in the Federal Register exceeds the public interest benefits to be gained from such publication), authorize an alternative method of public dissemination of the public comments received and the response to those comments."
 
-Subsec. (e). Pub. L. 108–237, §221(b)(2), designated introductory provisions as par. (1), substituted “court shall” for “court may”, added subpars. (A) and (B) and par. (2), and struck out former pars. (1) and (2) which read as follows:
+Subsec. (e). Pub. L. 108–237, §221(b)(2), designated introductory provisions as par. (1), substituted "court shall" for "court may", added subpars. (A) and (B) and par. (2), and struck out former pars. (1) and (2) which read as follows:
 
-“(1) the competitive impact of such judgment, including termination of alleged violations, provisions for enforcement and modification, duration or relief sought, anticipated effects of alternative remedies actually considered, and any other considerations bearing upon the adequacy of such judgment;
+"(1) the competitive impact of such judgment, including termination of alleged violations, provisions for enforcement and modification, duration or relief sought, anticipated effects of alternative remedies actually considered, and any other considerations bearing upon the adequacy of such judgment;
 
-“(2) the impact of entry of such judgment upon the public generally and individuals alleging specific injury from the violations set forth in the complaint including consideration of the public benefit, if any, to be derived from a determination of the issues at trial.”
+"(2) the impact of entry of such judgment upon the public generally and individuals alleging specific injury from the violations set forth in the complaint including consideration of the public benefit, if any, to be derived from a determination of the issues at trial."
 
-Subsec. (g). Pub. L. 108–237, §221(b)(3), inserted “by any officer, director, employee, or agent of such defendant” before “, or other person” in first sentence.
+Subsec. (g). Pub. L. 108–237, §221(b)(3), inserted "by any officer, director, employee, or agent of such defendant" before ", or other person" in first sentence.
 
-**1980**—Subsec. (a). Pub. L. 96–349 made collateral estoppel inapplicable in any action or proceeding brought under the antitrust laws to any finding made by the Commission under the antitrust laws or under section 45 of this title which could give rise to a claim for relief under the antitrust laws; struck out “or by the United States under section 15a of this title,” after “under said laws”; and deleted from proviso “or to judgments or decrees entered in actions under section 15a of this title” after “testimony has been taken”.
+**1980**—Subsec. (a). Pub. L. 96–349 made collateral estoppel inapplicable in any action or proceeding brought under the antitrust laws to any finding made by the Commission under the antitrust laws or under section 45 of this title which could give rise to a claim for relief under the antitrust laws; struck out "or by the United States under section 15a of this title," after "under said laws"; and deleted from proviso "or to judgments or decrees entered in actions under section 15a of this title" after "testimony has been taken".
 
-**1976**—Pub. L. 94–435 substituted “private or State right of action” for “private right of action” and “section 15 or 15c” for “section 15”.
+**1976**—Pub. L. 94–435 substituted "private or State right of action" for "private right of action" and "section 15 or 15c" for "section 15".
 
 **1974**—Subsecs. (b) to (i). Pub. L. 93–528 added subsecs. (b) to (h) and redesignated former subsec. (b) as (i).
 
@@ -98,7 +98,7 @@ Subsec. (g). Pub. L. 108–237, §221(b)(3), inserted “by any officer, directo
 
 #### Effective Date of 1980 Amendment ####
 
-Pub. L. 96–349, §5(b), Sept. 12, 1980, 94 Stat. 1157, provided that: “The amendments made by this section [amending this section] shall apply only with respect to actions commenced after the date of the enactment of this Act [Sept. 12, 1980].”
+Pub. L. 96–349, §5(b), Sept. 12, 1980, 94 Stat. 1157, provided that: "The amendments made by this section [amending this section] shall apply only with respect to actions commenced after the date of the enactment of this Act [Sept. 12, 1980]."
 
 #### Suspension of Limitation ####
 
@@ -108,10 +108,10 @@ Act Oct. 10, 1942, ch. 589, 56 Stat. 781, as amended June 30, 1945, ch. 213, 59 
 
 Pub. L. 108–237, title II, §221(a), June 22, 2004, 118 Stat. 668, provided that:
 
-“(1) Findings.—Congress finds that—
+"(1) Findings.—Congress finds that—
 
-“(A) the purpose of the Tunney Act [probably means section 2 of Pub. L. 93–528 which amended this section] was to ensure that the entry of antitrust consent judgments is in the public interest; and
+"(A) the purpose of the Tunney Act [probably means section 2 of Pub. L. 93–528 which amended this section] was to ensure that the entry of antitrust consent judgments is in the public interest; and
 
-“(B) it would misconstrue the meaning and Congressional intent in enacting the Tunney Act to limit the discretion of district courts to review antitrust consent judgments solely to determining whether entry of those consent judgments would make a ‘mockery of the judicial function’.
+"(B) it would misconstrue the meaning and Congressional intent in enacting the Tunney Act to limit the discretion of district courts to review antitrust consent judgments solely to determining whether entry of those consent judgments would make a 'mockery of the judicial function'.
 
-“(2) Purposes.—The purpose of this section [amending this section] is to effectuate the original Congressional intent in enacting the Tunney Act and to ensure that United States settlements of civil antitrust suits are in the public interest.”
+"(2) Purposes.—The purpose of this section [amending this section] is to effectuate the original Congressional intent in enacting the Tunney Act and to ensure that United States settlements of civil antitrust suits are in the public interest."

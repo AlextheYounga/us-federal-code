@@ -32,8 +32,8 @@ Sec.
 
 **2001**—Pub. L. 107–56, title II, §§223(c)(2), 224, Oct. 26, 2001, 115 Stat. 295, as amended by Pub. L. 107–273, div. B, title IV, §4005(b), Nov. 2, 2002, 116 Stat. 1812, temporarily added item 2712.
 
-Pub. L. 107–56, title II, §§212(a)(2), (b)(2), 224, Oct. 26, 2001, 115 Stat. 285, 295, temporarily substituted “Voluntary disclosure of customer communications or records” for “Disclosure of contents” in item 2702 and “Required disclosure of customer communications or records” for “Requirements for governmental access” in item 2703.
+Pub. L. 107–56, title II, §§212(a)(2), (b)(2), 224, Oct. 26, 2001, 115 Stat. 285, 295, temporarily substituted "Voluntary disclosure of customer communications or records" for "Disclosure of contents" in item 2702 and "Required disclosure of customer communications or records" for "Requirements for governmental access" in item 2703.
 
-**1988**—Pub. L. 100–690, title VII, §7067, Nov. 18, 1988, 102 Stat. 4405, which directed amendment of item 2710 by inserting “for chapter” after “Definitions” was executed by making the insertion in item 2711 to reflect the probable intent of Congress and the intervening redesignation of item 2710 as 2711 by Pub. L. 100–618, see below.
+**1988**—Pub. L. 100–690, title VII, §7067, Nov. 18, 1988, 102 Stat. 4405, which directed amendment of item 2710 by inserting "for chapter" after "Definitions" was executed by making the insertion in item 2711 to reflect the probable intent of Congress and the intervening redesignation of item 2710 as 2711 by Pub. L. 100–618, see below.
 
 Pub. L. 100–618, §2(b), Nov. 5, 1988, 102 Stat. 3197, added item 2710 and redesignated former item 2710 as 2711.

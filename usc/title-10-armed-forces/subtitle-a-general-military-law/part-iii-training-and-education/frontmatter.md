@@ -5,9 +5,9 @@ Chap. Sec.
 
 101. Training Generally 2001
 
-102. Junior Reserve Officers’ Training Corps 2031
+102. Junior Reserve Officers' Training Corps 2031
 
-103. Senior Reserve Officers’ Training Corps 2101
+103. Senior Reserve Officers' Training Corps 2101
 
 104. Uniformed Services University of the Health Sciences 2112
 
@@ -35,21 +35,21 @@ Chap. Sec.
 
 **2000**—Pub. L. 106–398, §1 [[div. A], title IX, §922(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–236, added item for chapter 112.
 
-**1991**—Pub. L. 102–25, title VII, §701(e)(2), Apr. 6, 1991, 105 Stat. 114, inserted “2161” in item for chapter 108.
+**1991**—Pub. L. 102–25, title VII, §701(e)(2), Apr. 6, 1991, 105 Stat. 114, inserted "2161" in item for chapter 108.
 
-**1990**—Pub. L. 101–510, div. A, title II, §247(a)(2)(B), title IX, §911(b)(3), Nov. 5, 1990, 104 Stat. 1523, 1626, substituted “Department of Defense Schools” for “Granting of Advanced Degrees at Department of Defense Schools” in item for chapter 108 and “Support of Science, Mathematics, and Engineering Education” for “National Defense Science and Engineering Graduate Fellowships” in item for chapter 111.
+**1990**—Pub. L. 101–510, div. A, title II, §247(a)(2)(B), title IX, §911(b)(3), Nov. 5, 1990, 104 Stat. 1523, 1626, substituted "Department of Defense Schools" for "Granting of Advanced Degrees at Department of Defense Schools" in item for chapter 108 and "Support of Science, Mathematics, and Engineering Education" for "National Defense Science and Engineering Graduate Fellowships" in item for chapter 111.
 
-**1989**—Pub. L. 101–189, div. A, title VIII, §843(d)(2), title XVI, §1622(d)(1), Nov. 29, 1989, 103 Stat. 1517, 1604, substituted “TRAINING AND EDUCATION” for “TRAINING” in heading for part III and added item for chapter 111.
+**1989**—Pub. L. 101–189, div. A, title VIII, §843(d)(2), title XVI, §1622(d)(1), Nov. 29, 1989, 103 Stat. 1517, 1604, substituted "TRAINING AND EDUCATION" for "TRAINING" in heading for part III and added item for chapter 111.
 
-**1987**—Pub. L. 100–180, div. A, title VII, §711(b), Dec. 4, 1987, 101 Stat. 1111, substituted “Financial Assistance Programs” for “Scholarship Program” in item for chapter 105.
+**1987**—Pub. L. 100–180, div. A, title VII, §711(b), Dec. 4, 1987, 101 Stat. 1111, substituted "Financial Assistance Programs" for "Scholarship Program" in item for chapter 105.
 
 **1986**—Pub. L. 99–399, title VIII, §806(d)(2), Aug. 27, 1986, 100 Stat. 888, added item for chapter 110.
 
 **1985**—Pub. L. 99–145, title VI, §671(a)(2), Nov. 8, 1985, 99 Stat. 663, added item for chapter 109.
 
-**1984**—Pub. L. 98–525, title VII, §705(a)(2), Oct. 19, 1984, 98 Stat. 2567, substituted “Members of the Selected Reserve” for “Enlisted Members of the Selected Reserve of the Ready Reserve” in item for chapter 106.
+**1984**—Pub. L. 98–525, title VII, §705(a)(2), Oct. 19, 1984, 98 Stat. 2567, substituted "Members of the Selected Reserve" for "Enlisted Members of the Selected Reserve of the Ready Reserve" in item for chapter 106.
 
-**1980**—Pub. L. 96–513, title V, §511(99), Dec. 12, 1980, 94 Stat. 2929, capitalized “Assistance”, “Persons”, “Enlisting”, “Active”, and “Duty” in item for chapter 107.
+**1980**—Pub. L. 96–513, title V, §511(99), Dec. 12, 1980, 94 Stat. 2929, capitalized "Assistance", "Persons", "Enlisting", "Active", and "Duty" in item for chapter 107.
 
 Pub. L. 96–450, title IV, §406(b), Oct. 14, 1980, 94 Stat. 1981, added item for chapter 108.
 

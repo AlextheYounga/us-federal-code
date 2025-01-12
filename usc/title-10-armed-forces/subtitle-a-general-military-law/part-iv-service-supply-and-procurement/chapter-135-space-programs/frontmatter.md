@@ -28,9 +28,9 @@ Sec.
 
 Pub. L. 112–239, div. A, title IX, §§911(b), 912(b), 913(c)(2), Jan. 2, 2013, 126 Stat. 1872, 1874, 1876, added items 2275 to 2277.
 
-**2009**—Pub. L. 111–84, div. A, title IX, §912(b), Oct. 28, 2009, 123 Stat. 2431, added item 2274 and struck out former item 2274 “Space surveillance network: pilot program for provision of satellite tracking support to entities outside United States Government”.
+**2009**—Pub. L. 111–84, div. A, title IX, §912(b), Oct. 28, 2009, 123 Stat. 2431, added item 2274 and struck out former item 2274 "Space surveillance network: pilot program for provision of satellite tracking support to entities outside United States Government".
 
-**2006**—Pub. L. 109–364, div. A, title IX, §913(b)(2), Oct. 17, 2006, 120 Stat. 2357, substituted “Operationally Responsive Space Program Office” for “Operationally responsive national security payloads and buses: separate program element required” in item 2273a.
+**2006**—Pub. L. 109–364, div. A, title IX, §913(b)(2), Oct. 17, 2006, 120 Stat. 2357, substituted "Operationally Responsive Space Program Office" for "Operationally responsive national security payloads and buses: separate program element required" in item 2273a.
 
 **2004**—Pub. L. 108–375, div. A, title IX, §913(a)(2), Oct. 28, 2004, 118 Stat. 2028, added item 2273a.
 

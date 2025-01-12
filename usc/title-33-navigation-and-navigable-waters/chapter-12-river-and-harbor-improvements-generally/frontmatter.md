@@ -108,7 +108,7 @@ Sec.
 
 569e. Use of private sector resources in surveying and mapping.
 
-569f. Debarment of persons convicted of fraudulent use of “Made in America” labels.
+569f. Debarment of persons convicted of fraudulent use of "Made in America" labels.
 
 570. Default in contract; disposition of amounts collected.
 
@@ -139,6 +139,10 @@ Sec.
 579. Repealed.
 
 579a. Project deauthorizations.
+
+579b. Deauthorization of inactive projects.
+
+579c. Backlog prevention.
 
 #### SUBCHAPTER II—PAY AND ALLOWANCES; TRAVELING EXPENSES AND SUBSISTENCE ####
 
@@ -185,6 +189,8 @@ Sec.
 604. Removal of snags, etc., from Mississippi River.
 
 605. Operation of snag boats on Upper Mississippi River.
+
+605a. Mississippi River forecasting improvements.
 
 606. Removal of snags, and so forth, from Ohio River.
 

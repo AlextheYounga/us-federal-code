@@ -20,6 +20,6 @@ Another section 6 of Pub. L. 103–340 was renumbered section 7 and enacted prov
 
 #### Amendments ####
 
-**2006**—Pub. L. 109–166 designated existing provisions as subsec. (a), inserted subsec. (a) heading, substituted “$350,000” for “$250,000” and “fiscal years 2006 through 2010” for “fiscal years 2001 through 2005”, and added subsec. (b).
+**2006**—Pub. L. 109–166 designated existing provisions as subsec. (a), inserted subsec. (a) heading, substituted "$350,000" for "$250,000" and "fiscal years 2006 through 2010" for "fiscal years 2001 through 2005", and added subsec. (b).
 
-**2000**—Pub. L. 106–316, §1, substituted “for each of the fiscal years 2001 through 2005” for “for each of the fiscal years 1995 through 2000”.
+**2000**—Pub. L. 106–316, §1, substituted "for each of the fiscal years 2001 through 2005" for "for each of the fiscal years 1995 through 2000".

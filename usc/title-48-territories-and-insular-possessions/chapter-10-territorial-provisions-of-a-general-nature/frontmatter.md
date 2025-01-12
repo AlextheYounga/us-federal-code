@@ -8,7 +8,7 @@ Sec.
 
 1453 to 1469–1. Repealed.
 
-1469a. Congressional declaration of policy respecting “Insular Areas”.
+1469a. Congressional declaration of policy respecting "Insular Areas".
 
 1469a–1. Full amounts to be covered into treasuries of Guam, Northern Mariana Islands, Puerto Rico, and Virgin Islands; reductions prohibited.
 
@@ -26,7 +26,7 @@ Sec.
 
 1490. Repealed.
 
-1491. License, permit, etc., for transportation for storage or storage of spent nuclear fuel or high-level radioactive waste; prerequisites; applicability; “territory or possession” defined.
+1491. License, permit, etc., for transportation for storage or storage of spent nuclear fuel or high-level radioactive waste; prerequisites; applicability; "territory or possession" defined.
 
 1492. Energy resources of Caribbean and Pacific insular areas.
 

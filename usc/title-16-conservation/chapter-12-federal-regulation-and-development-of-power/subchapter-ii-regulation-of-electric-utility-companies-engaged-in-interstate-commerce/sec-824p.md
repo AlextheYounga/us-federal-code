@@ -2,7 +2,7 @@
 
 #### (a) Designation of national interest electric transmission corridors ####
 
-(1) Not later than 1 year after August 8, 2005, and every 3 years thereafter, the Secretary of Energy (referred to in this section as the “Secretary”), in consultation with affected States, shall conduct a study of electric transmission congestion.
+(1) Not later than 1 year after August 8, 2005, and every 3 years thereafter, the Secretary of Energy (referred to in this section as the "Secretary"), in consultation with affected States, shall conduct a study of electric transmission congestion.
 
 (2) After considering alternatives and recommendations from interested parties (including an opportunity for comment from affected States), the Secretary shall issue a report, based on the study, which may designate any geographic area experiencing electric energy transmission capacity constraints or congestion that adversely affects consumers as a national interest electric transmission corridor.
 
@@ -90,9 +90,9 @@ Nothing in this section precludes any person from constructing or modifying any 
 
 (1) In this subsection:
 
-(A) The term “Federal authorization” means any authorization required under Federal law in order to site a transmission facility.
+(A) The term "Federal authorization" means any authorization required under Federal law in order to site a transmission facility.
 
-(B) The term “Federal authorization” includes such permits, special use authorizations, certifications, opinions, or other approvals as may be required under Federal law in order to site a transmission facility.
+(B) The term "Federal authorization" includes such permits, special use authorizations, certifications, opinions, or other approvals as may be required under Federal law in order to site a transmission facility.
 
 (2) The Department of Energy shall act as the lead agency for purposes of coordinating all applicable Federal authorizations and related environmental reviews of the facility.
 
@@ -202,4 +202,4 @@ The National Environmental Policy Act of 1969, referred to in subsecs. (h)(6)(D)
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (h)(6)(D)(v), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-[<sup>1</sup> So in original. Probably should be followed by “of 1976”.](#824p_1)
+[<sup>1</sup> So in original. Probably should be followed by "of 1976".](#824p_1)

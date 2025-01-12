@@ -22,11 +22,11 @@ If the Commission does not issue any order applied for under section 824i or 824
 
 (1) No provision of section 824i, 824j, 824m of this title, or this section shall be treated as requiring any person to utilize the authority of any such section in lieu of any other authority of law. Except as provided in section 824i, 824j, 824m of this title, or this section, such sections shall not be construed as limiting or impairing any authority of the Commission under any other provision of law.
 
-(2) Sections 824i, 824j, 824l, 824m of this title, and this section, shall not be construed to modify, impair, or supersede the antitrust laws. For purposes of this section, the term “antitrust laws” has the meaning given in subsection (a) of the first sentence of section 12 of title 15, except that such term includes section 45 of title 15 to the extent that such section relates to unfair methods of competition.
+(2) Sections 824i, 824j, 824l, 824m of this title, and this section, shall not be construed to modify, impair, or supersede the antitrust laws. For purposes of this section, the term "antitrust laws" has the meaning given in subsection (a) of the first sentence of section 12 of title 15, except that such term includes section 45 of title 15 to the extent that such section relates to unfair methods of competition.
 
 #### (f) Effective date of order; hearing; notice; review ####
 
-(1) No order under section 824i or 824j of this title requiring the Tennessee Valley Authority (hereinafter in this subsection referred to as the “TVA”) to take any action shall take effect for 60 days following the date of issuance of the order. Within 60 days following the issuance by the Commission of any order under section 824i or of section 824j of this title requiring the TVA to enter into any contract for the sale or delivery of power, the Commission may on its own motion initiate, or upon petition of any aggrieved person shall initiate, an evidentiary hearing to determine whether or not such sale or delivery would result in violation of the third sentence of section 15d(a) of the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831n–4), hereinafter in this subsection referred to as the TVA Act [16 U.S.C. 831 et seq.].
+(1) No order under section 824i or 824j of this title requiring the Tennessee Valley Authority (hereinafter in this subsection referred to as the "TVA") to take any action shall take effect for 60 days following the date of issuance of the order. Within 60 days following the issuance by the Commission of any order under section 824i or of section 824j of this title requiring the TVA to enter into any contract for the sale or delivery of power, the Commission may on its own motion initiate, or upon petition of any aggrieved person shall initiate, an evidentiary hearing to determine whether or not such sale or delivery would result in violation of the third sentence of section 15d(a) of the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831n–4), hereinafter in this subsection referred to as the TVA Act [16 U.S.C. 831 et seq.].
 
 (2) Upon initiation of any evidentiary hearing under paragraph (1), the Commission shall give notice thereof to any applicant who applied for and obtained the order from the Commission, to any electric utility or other entity subject to such order, and to the public, and shall promptly make the determination referred to in paragraph (1). Upon initiation of such hearing, the Commission shall stay the effectiveness of the order under section 824i or 824j of this title until whichever of the following dates is applicable—
 
@@ -98,9 +98,9 @@ Any order under section 824j of this title requiring provision of transmission s
 
 For purposes of this subsection—
 
-(A) the term “ERCOT” means the Electric Reliability Council of Texas; and
+(A) the term "ERCOT" means the Electric Reliability Council of Texas; and
 
-(B) the term “ERCOT utility” means a transmitting utility which is a member of ERCOT.
+(B) the term "ERCOT utility" means a transmitting utility which is a member of ERCOT.
 
 (June 10, 1920, ch. 285, pt. II, §212, as added Pub. L. 95–617, title II, §204(a), Nov. 9, 1978, 92 Stat. 3138; amended Pub. L. 102–486, title VII, §722, Oct. 24, 1992, 106 Stat. 2916.)
 

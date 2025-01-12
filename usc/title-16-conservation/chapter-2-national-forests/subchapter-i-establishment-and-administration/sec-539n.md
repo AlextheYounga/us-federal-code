@@ -4,7 +4,7 @@
 
 #### (A) In general ####
 
-On completion of the land exchange under section 1206(a)(2),<sup><a href="#539n_1_target" name="539n_1">1</a></sup> there shall be established a special resources management unit in the State consisting of certain Federal land managed by the Forest Service, as generally depicted on the map entitled “Crystal Springs Watershed Special Resources Management Unit”, dated June 2006 (referred to in this section as the “map”), to be known as the “Crystal Springs Watershed Special Resources Management Unit” (referred to in this section as the “Management Unit”).
+On completion of the land exchange under section 1206(a)(2),<sup><a href="#539n_1_target" name="539n_1">1</a></sup> there shall be established a special resources management unit in the State consisting of certain Federal land managed by the Forest Service, as generally depicted on the map entitled "Crystal Springs Watershed Special Resources Management Unit", dated June 2006 (referred to in this section as the "map"), to be known as the "Crystal Springs Watershed Special Resources Management Unit" (referred to in this section as the "Management Unit").
 
 #### (B) Exclusion of certain land ####
 
@@ -24,7 +24,7 @@ Subject to valid rights in existence on March 30, 2009, the Federal land designa
 
 #### (ii) Exception ####
 
-Clause (i)(I) does not apply to the parcel of land generally depicted as “HES 151” on the map.
+Clause (i)(I) does not apply to the parcel of land generally depicted as "HES 151" on the map.
 
 #### (2) Purposes ####
 
@@ -102,13 +102,13 @@ Except as provided in subparagraph (B), the Secretary may provide for the closur
 
 #### (B) Exception ####
 
-Nothing in this section requires the Secretary to close the road commonly known as “Cloud Cap Road”, which shall be administered in accordance with otherwise applicable law.
+Nothing in this section requires the Secretary to close the road commonly known as "Cloud Cap Road", which shall be administered in accordance with otherwise applicable law.
 
 #### (7) Private land ####
 
 #### (A) Effect ####
 
-Nothing in this section affects the use of, or access to, any private property within the area identified on the map as the “Crystal Springs Zone of Contribution” by—
+Nothing in this section affects the use of, or access to, any private property within the area identified on the map as the "Crystal Springs Zone of Contribution" by—
 
 (i) the owners of the private property; and
 
@@ -122,7 +122,7 @@ The Secretary is encouraged to work with private landowners who have agreed to c
 
 #### (A) In general ####
 
-The Secretary may acquire from willing landowners any land located within the area identified on the map as the “Crystal Springs Zone of Contribution”.
+The Secretary may acquire from willing landowners any land located within the area identified on the map as the "Crystal Springs Zone of Contribution".
 
 #### (B) Inclusion in Management Unit ####
 

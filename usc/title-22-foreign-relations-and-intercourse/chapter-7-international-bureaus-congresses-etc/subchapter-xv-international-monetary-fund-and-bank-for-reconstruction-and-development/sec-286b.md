@@ -2,7 +2,7 @@
 
 #### (a) Establishment and composition ####
 
-In order to coordinate the policies and operations of the representatives of the United States on the Fund and the Bank and of all agencies of the Government which make or participate in making foreign loans or which engage in foreign financial, exchange or monetary transactions, there is hereby established the National Advisory Council on International Monetary and Financial Problems (hereinafter referred to as the “Council”), consisting of the Secretary of the Treasury, as Chairman, the Secretary of State, the Secretary of Commerce, the Chairman of the Board of Governors of the Federal Reserve System, the President of the Export-Import Bank of the United States, and during such period as the Foreign Operations Administration shall continue to exist, the Director of the Foreign Operations Administration.
+In order to coordinate the policies and operations of the representatives of the United States on the Fund and the Bank and of all agencies of the Government which make or participate in making foreign loans or which engage in foreign financial, exchange or monetary transactions, there is hereby established the National Advisory Council on International Monetary and Financial Problems (hereinafter referred to as the "Council"), consisting of the Secretary of the Treasury, as Chairman, the Secretary of State, the Secretary of Commerce, the Chairman of the Board of Governors of the Federal Reserve System, the President of the Export-Import Bank of the United States, and during such period as the Foreign Operations Administration shall continue to exist, the Director of the Foreign Operations Administration.
 
 #### (b) Duties and functions; reports by Council ####
 
@@ -32,9 +32,9 @@ The representatives of the United States on the Fund and the Bank, and the Expor
 
 **1989**—Subsec. (b). Pub. L. 101–240 redesignated pars. (7) and (8) as (5) and (6), respectively, and struck out former pars. (5) and (6) which read as follows:
 
-“(5) The Council shall transmit to the President and to the Congress an annual report with respect to the participation of the United States in the Fund and Bank.
+"(5) The Council shall transmit to the President and to the Congress an annual report with respect to the participation of the United States in the Fund and Bank.
 
-“(6) Each such report shall contain such data concerning the operations and policies of the Fund and Bank, such recommendations concerning the Fund and Bank, and such other data and material as the Council may deem appropriate.”
+"(6) Each such report shall contain such data concerning the operations and policies of the Fund and Bank, such recommendations concerning the Fund and Bank, and such other data and material as the Council may deem appropriate."
 
 **1983**—Subsec. (b)(8). Pub. L. 98–181 added par. (8).
 
@@ -44,13 +44,13 @@ Subsec. (b)(6). Pub. L. 89–126 struck out provisions which required special re
 
 **1954**—Subsec. (a). Act Aug. 9, 1954, provided membership on Council for President of the Export-Import Bank of Washington.
 
-**1951**—Subsec. (a). Act Oct. 10, 1951, substituted “Mutual Security Agency” for “Economic Cooperation Administration”, and “Director for Mutual Security” for “Administrator for Economic Cooperation”.
+**1951**—Subsec. (a). Act Oct. 10, 1951, substituted "Mutual Security Agency" for "Economic Cooperation Administration", and "Director for Mutual Security" for "Administrator for Economic Cooperation".
 
 **1948**—Subsec. (a). Act Apr. 3, 1948, ch. 169, title I, §106, 62 Stat. 141, added Administrator for Economic Cooperation, during existence of the Administration, to membership of National Advisory Council.
 
 #### Change of Name ####
 
-“Export-Import Bank of Washington” changed in text to “Export-Import Bank of the United States” to conform to such change in name in the Export-Import Bank Act of 1945, section 635 et seq. of Title 12, Banks and Banking, provided for in section 1(a) of Pub. L. 90–267.
+"Export-Import Bank of Washington" changed in text to "Export-Import Bank of the United States" to conform to such change in name in the Export-Import Bank Act of 1945, section 635 et seq. of Title 12, Banks and Banking, provided for in section 1(a) of Pub. L. 90–267.
 
 #### Effective Date of 1954 Amendment ####
 
@@ -106,7 +106,7 @@ Sec. 4. *Information*. (a) All agencies and officers of the Government, includin
 
 (b) The Council shall from time to time transmit to all appropriate agencies and officers of the Government statements of the policies of the Council under this order and such other information relating to the above-mentioned transactions or to the functions of the Council hereunder as the Council shall deem desirable.
 
-Sec. 5. *Executive Order No. 10033*. Section 2(a) of Executive Order No. 10033 of February 8, 1949 [set out as a note under section 286f of this title], is hereby amended by substituting for the name “National Advisory Council on International Monetary and Financial Problems” the following: “National Advisory Council on International Monetary and Financial Policies.”
+Sec. 5. *Executive Order No. 10033*. Section 2(a) of Executive Order No. 10033 of February 8, 1949 [set out as a note under section 286f of this title], is hereby amended by substituting for the name "National Advisory Council on International Monetary and Financial Problems" the following: "National Advisory Council on International Monetary and Financial Policies."
 
 Sec. 6. *Effective date*. The provisions of this order shall be effective as of January 1, 1966.
 

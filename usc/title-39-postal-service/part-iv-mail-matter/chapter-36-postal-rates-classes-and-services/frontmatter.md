@@ -78,11 +78,11 @@ Sec.
 
 #### Amendments ####
 
-**2006**—Pub. L. 109–435, title II, §206, Dec. 20, 2006, 120 Stat. 3217, added chapter heading and analysis and struck out former chapter heading “POSTAL RATES, CLASSES, AND SERVICES” and analysis consisting of items for subchapters I to V and items 3601 to 3604, 3621 to 3629, 3641 and 3642, 3661 to 3663, and 3681 to 3685.
+**2006**—Pub. L. 109–435, title II, §206, Dec. 20, 2006, 120 Stat. 3217, added chapter heading and analysis and struck out former chapter heading "POSTAL RATES, CLASSES, AND SERVICES" and analysis consisting of items for subchapters I to V and items 3601 to 3604, 3621 to 3629, 3641 and 3642, 3661 to 3663, and 3681 to 3685.
 
 **1998**—Pub. L. 105–277, div. A, §101(h) [title VI, §648(b)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528, added item 3663.
 
-**1993**—Pub. L. 103–123, title VII, §704(a)(3)(B)(ii), Oct. 28, 1993, 107 Stat. 1270, substituted “free rates” for “free and reduced rates” in item 3627 and added item 3642.
+**1993**—Pub. L. 103–123, title VII, §704(a)(3)(B)(ii), Oct. 28, 1993, 107 Stat. 1270, substituted "free rates" for "free and reduced rates" in item 3627 and added item 3642.
 
 Pub. L. 103–31, §8(h)(4), May 20, 1993, 107 Stat. 86, added item 3629.
 

@@ -10,7 +10,7 @@ Sec.
 
 1513. Deployment, storage, and disposal; notification to host country and Congress; international law violations; reports to Congress and international organizations.
 
-1514. “United States” defined.
+1514. "United States" defined.
 
 1515. Suspension; Presidential authorization.
 

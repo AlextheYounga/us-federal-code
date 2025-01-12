@@ -54,20 +54,20 @@ The War Powers Resolution, referred to in subsec. (h), is Pub. L. 93–148, Nov.
 
 #### Amendments ####
 
-**2011**—Subsec. (a)(1)(A). Pub. L. 111–383, §1075(b)(2)(A), substituted “armed forces” for “Armed Forces”.
+**2011**—Subsec. (a)(1)(A). Pub. L. 111–383, §1075(b)(2)(A), substituted "armed forces" for "Armed Forces".
 
-Subsec. (a)(3), (4). Pub. L. 112–81 redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “Whenever an operation to which this section applies is commenced or subsequently becomes covered by this section, the Secretary of Defense shall designate and identify that operation for the purposes of this section and shall promptly notify Congress of that designation (and of the identification of the operation).”
+Subsec. (a)(3), (4). Pub. L. 112–81 redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "Whenever an operation to which this section applies is commenced or subsequently becomes covered by this section, the Secretary of Defense shall designate and identify that operation for the purposes of this section and shall promptly notify Congress of that designation (and of the identification of the operation)."
 
-Subsec. (b)(1). Pub. L. 111–383, §1075(b)(2)(B), substituted “armed forces” for “Armed Forces” in two places.
+Subsec. (b)(1). Pub. L. 111–383, §1075(b)(2)(B), substituted "armed forces" for "Armed Forces" in two places.
 
 **2003**—Subsec. (d). Pub. L. 108–136 struck out subsec. (d) which required Secretary of Defense, within 45 days after identifying an operation pursuant to subsec. (a)(2), to submit a report to Congress relating to the funding, objectives, duration, cost, and exit criteria of the operation.
 
-**1996**—Pub. L. 104–106 substituted “Operations for which funds are not provided in advance: funding mechanisms” for “Expenses for contingency operations” as section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to funding procedures for operations designated by the Secretary of Defense as National Contingency Operations.
+**1996**—Pub. L. 104–106 substituted "Operations for which funds are not provided in advance: funding mechanisms" for "Expenses for contingency operations" as section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to funding procedures for operations designated by the Secretary of Defense as National Contingency Operations.
 
 #### Effective Date of 1996 Amendment ####
 
-Pub. L. 104–106, div. A, title X, §1003(b), Feb. 10, 1996, 110 Stat. 417, provided that: “The amendment to section 127a of title 10, United States Code, made by subsection (a) shall take effect on the date of the enactment of this Act [Feb. 10, 1996] and shall apply to any operation of the Department of Defense that is in effect on or after that date, whether such operation is begun before, on, or after such date of enactment. In the case of an operation begun before such date, any reference in such section to the commencement of such operation shall be treated as referring to the effective date under the preceding sentence.”
+Pub. L. 104–106, div. A, title X, §1003(b), Feb. 10, 1996, 110 Stat. 417, provided that: "The amendment to section 127a of title 10, United States Code, made by subsection (a) shall take effect on the date of the enactment of this Act [Feb. 10, 1996] and shall apply to any operation of the Department of Defense that is in effect on or after that date, whether such operation is begun before, on, or after such date of enactment. In the case of an operation begun before such date, any reference in such section to the commencement of such operation shall be treated as referring to the effective date under the preceding sentence."
 
 #### Incremental Contingency Operations Cost Report ####
 
-Pub. L. 113–76, div. C, title VIII, §8092, Jan. 17, 2014, 128 Stat. 126, provided that: “The Department of Defense shall continue to report incremental contingency operations costs for Operation Enduring Freedom on a monthly basis and any other operation designated and identified by the Secretary of Defense for the purposes of section 127a of title 10, United States Code, on a semi-annual basis in the Cost of War Execution Report as prescribed in the Department of Defense Financial Management Regulation Department of Defense Instruction 7000.14, Volume 12, Chapter 23 ‘Contingency Operations’, Annex 1, dated September 2005.”
+Pub. L. 113–76, div. C, title VIII, §8092, Jan. 17, 2014, 128 Stat. 126, provided that: "The Department of Defense shall continue to report incremental contingency operations costs for Operation Enduring Freedom on a monthly basis and any other operation designated and identified by the Secretary of Defense for the purposes of section 127a of title 10, United States Code, on a semi-annual basis in the Cost of War Execution Report as prescribed in the Department of Defense Financial Management Regulation Department of Defense Instruction 7000.14, Volume 12, Chapter 23 'Contingency Operations', Annex 1, dated September 2005."

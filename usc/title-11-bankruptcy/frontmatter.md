@@ -25,9 +25,9 @@ Chap. Sec.
 
 #### Amendments ####
 
-**2005**—Pub. L. 109–8, title VIII, §801(b), title X, §1007(d), Apr. 20, 2005, 119 Stat. 145, 188, substituted “Adjustments of Debts of a Family Farmer or Family Fisherman with Regular Annual Income” for “Adjustment of Debts of Family Farmers with Regular Annual Income” in item for chapter 12 and added item for chapter 15.
+**2005**—Pub. L. 109–8, title VIII, §801(b), title X, §1007(d), Apr. 20, 2005, 119 Stat. 145, 188, substituted "Adjustments of Debts of a Family Farmer or Family Fisherman with Regular Annual Income" for "Adjustment of Debts of Family Farmers with Regular Annual Income" in item for chapter 12 and added item for chapter 15.
 
-**1994**—Pub. L. 103–394, title V, §501(d)(39), Oct. 22, 1994, 108 Stat. 4147, struck out item for chapter 15, “United States Trustees”.
+**1994**—Pub. L. 103–394, title V, §501(d)(39), Oct. 22, 1994, 108 Stat. 4147, struck out item for chapter 15, "United States Trustees".
 
 **1986**—Pub. L. 99–554, title II, §257(a), Oct. 27, 1986, 100 Stat. 3114, added item for chapter 12.
 
@@ -1113,25 +1113,25 @@ Chap. Sec.
 
 #### Enacting Clause ####
 
-Pub. L. 95–598, title I, §101, Nov. 6, 1978, 92 Stat. 2549, provided in part: “The law relating to bankruptcy is codified and enacted as title 11 of the United States Code, entitled ‘Bankruptcy’, and may be cited as 11 U.S.C. §—.”
+Pub. L. 95–598, title I, §101, Nov. 6, 1978, 92 Stat. 2549, provided in part: "The law relating to bankruptcy is codified and enacted as title 11 of the United States Code, entitled 'Bankruptcy', and may be cited as 11 U.S.C. §—."
 
 #### Repeals ####
 
-Pub. L. 95–598, title IV, §401(a), Nov. 6, 1978, 92 Stat. 2682, provided that: “The Bankruptcy Act [act July 1, 1898, ch. 541, 30 Stat. 544, as amended] is repealed.”
+Pub. L. 95–598, title IV, §401(a), Nov. 6, 1978, 92 Stat. 2682, provided that: "The Bankruptcy Act [act July 1, 1898, ch. 541, 30 Stat. 544, as amended] is repealed."
 
 #### Effective Date ####
 
 Pub. L. 95–598, title IV, §402, Nov. 6, 1978, 92 Stat. 2682, as amended by Pub. L. 98–249, §1(a), Mar. 31, 1984, 98 Stat. 116; Pub. L. 98–271, §1(a), Apr. 30, 1984, 98 Stat. 163; Pub. L. 98–299, §1(a), May 25, 1984, 98 Stat. 214; Pub. L. 98–325, §1(a), June 20, 1984, 98 Stat. 268; Pub. L. 98–353, title I, §§113, 121(a), July 10, 1984, 98 Stat. 343, 345; Pub. L. 98–454, title X, §1001, Oct. 5, 1984, 98 Stat. 1745, provided that:
 
-“(a) Except as otherwise provided in this title [sections 401 to 411], this Act [for classification to the Code, see Tables] shall take effect on October 1, 1979.
+"(a) Except as otherwise provided in this title [sections 401 to 411], this Act [for classification to the Code, see Tables] shall take effect on October 1, 1979.
 
-“(b) Except as provided in subsections (c) and (d) of this section, the amendments made by title II [sections 201 to 252] of this Act shall not be effective.
+"(b) Except as provided in subsections (c) and (d) of this section, the amendments made by title II [sections 201 to 252] of this Act shall not be effective.
 
-“(c) The amendments made by sections 210, 214, 219, 220, 222, 224, 225, 228, 229, 235, 244, 245, 246, 249, and 251 of this Act shall take effect on October 1, 1979.
+"(c) The amendments made by sections 210, 214, 219, 220, 222, 224, 225, 228, 229, 235, 244, 245, 246, 249, and 251 of this Act shall take effect on October 1, 1979.
 
-“(d) The amendments made by sections 217, 218, 230, 247, 302, 314(j), 317, 327, 328, 338, and 411 of this Act shall take effect on the date of enactment of this Act [Nov. 6, 1978].
+"(d) The amendments made by sections 217, 218, 230, 247, 302, 314(j), 317, 327, 328, 338, and 411 of this Act shall take effect on the date of enactment of this Act [Nov. 6, 1978].
 
-“(e) [Repealed. Pub. L. 98–454, title X, §1001, Oct. 5, 1984, 98 Stat. 1745].”
+"(e) [Repealed. Pub. L. 98–454, title X, §1001, Oct. 5, 1984, 98 Stat. 1745]."
 
 [Amendment of section 402(b) of Pub. L. 95–598, set out above, by section 113 of Pub. L. 98–353 effective June 27, 1984, see section 122(c) of Pub. L. 98–353, set out as an Effective Date note under section 151 of Title 28, Judiciary and Judicial Procedure.]
 
@@ -1139,29 +1139,29 @@ Pub. L. 95–598, title IV, §402, Nov. 6, 1978, 92 Stat. 2682, as amended by Pu
 
 Pub. L. 95–598, title IV, §403, Nov. 6, 1978, 92 Stat. 2683, as amended by Pub. L. 98–353, title III, §382, July 10, 1984, 98 Stat. 364, provided that:
 
-“(a) A case commenced under the Bankruptcy Act, [act July 1, 1898, ch. 541, 30 Stat. 544, as amended], and all matters and proceedings in or relating to any such case, shall be conducted and determined under such Act as if this Act had not been enacted, and the substantive rights of parties in connection with any such bankruptcy case, matter, or proceeding shall continue to be governed by the law applicable to such case, matter, or proceeding as if the [this] Act had not been enacted.
+"(a) A case commenced under the Bankruptcy Act, [act July 1, 1898, ch. 541, 30 Stat. 544, as amended], and all matters and proceedings in or relating to any such case, shall be conducted and determined under such Act as if this Act had not been enacted, and the substantive rights of parties in connection with any such bankruptcy case, matter, or proceeding shall continue to be governed by the law applicable to such case, matter, or proceeding as if the [this] Act had not been enacted.
 
-“(b) Notwithstanding subsection (a) of this section, sections 1165, 1167, 1168, 1169, and 1171 of title 11 of the United States Code, as enacted by section 101 of this Act, apply to cases pending under section 77 of the Bankruptcy Act ([former] 11 U.S.C. 205) on the date of enactment of this Act [Nov. 6, 1978] in which the trustee has not filed a plan of reorganization.
+"(b) Notwithstanding subsection (a) of this section, sections 1165, 1167, 1168, 1169, and 1171 of title 11 of the United States Code, as enacted by section 101 of this Act, apply to cases pending under section 77 of the Bankruptcy Act ([former] 11 U.S.C. 205) on the date of enactment of this Act [Nov. 6, 1978] in which the trustee has not filed a plan of reorganization.
 
-“(c) The repeal [of the Bankruptcy Act] made by section 401(a) of this Act does not affect any right of a referee in bankruptcy, United States bankruptcy judge, or survivor of a referee in bankruptcy or United States bankruptcy judge to receive any annuity or other payment under the civil service retirement laws.
+"(c) The repeal [of the Bankruptcy Act] made by section 401(a) of this Act does not affect any right of a referee in bankruptcy, United States bankruptcy judge, or survivor of a referee in bankruptcy or United States bankruptcy judge to receive any annuity or other payment under the civil service retirement laws.
 
-“(d) The amendments made by section 314 of this Act [for classification to the Code, see Tables] do not affect the application of chapter 9, chapter 96, section 2516, section 3057, or section 3284 of title 18 of the United States Code to any act of any person—
+"(d) The amendments made by section 314 of this Act [for classification to the Code, see Tables] do not affect the application of chapter 9, chapter 96, section 2516, section 3057, or section 3284 of title 18 of the United States Code to any act of any person—
 
-“(1) committed before October 1, 1979; or
+"(1) committed before October 1, 1979; or
 
-“(2) committed after October 1, 1979, in connection with a case commenced before such date.
+"(2) committed after October 1, 1979, in connection with a case commenced before such date.
 
-“(e) Notwithstanding subsection (a) of this section—
+"(e) Notwithstanding subsection (a) of this section—
 
-“(1) a fee may not be charged under section 40c(2)(a) of the Bankruptcy Act [former 11 U.S.C. 68(c)(2)(a)] in a case pending under such Act after September 30, 1979, to the extent that such fee exceeds $200,000;
+"(1) a fee may not be charged under section 40c(2)(a) of the Bankruptcy Act [former 11 U.S.C. 68(c)(2)(a)] in a case pending under such Act after September 30, 1979, to the extent that such fee exceeds $200,000;
 
-“(2) a fee may not be charged under section 40c(2)(b) of the Bankruptcy Act in a case in which the plan is confirmed after September 30, 1978, or in which the final determination as to the amount of such fee is made after September 30, 1979, notwithstanding an earlier confirmation date, to the extent that such fee exceeds $100,000;
+"(2) a fee may not be charged under section 40c(2)(b) of the Bankruptcy Act in a case in which the plan is confirmed after September 30, 1978, or in which the final determination as to the amount of such fee is made after September 30, 1979, notwithstanding an earlier confirmation date, to the extent that such fee exceeds $100,000;
 
-“(3) after September 30, 1979, all moneys collected for payment into the referees’ salary and expense fund in cases filed under the Bankruptcy Act shall be collected and paid into the general fund of the Treasury; and
+"(3) after September 30, 1979, all moneys collected for payment into the referees' salary and expense fund in cases filed under the Bankruptcy Act shall be collected and paid into the general fund of the Treasury; and
 
-“(4) any balance in the referees’ salary and expense fund in the Treasury on October 1, 1979, shall be transferred to the general fund of the Treasury and the referees’ salary and expense fund account shall be closed.”
+"(4) any balance in the referees' salary and expense fund in the Treasury on October 1, 1979, shall be transferred to the general fund of the Treasury and the referees' salary and expense fund account shall be closed."
 
-Pub. L. 98–353, title III, §381, July 10, 1984, 98 Stat. 364, provided that: “This subtitle [(§§381, 382) amending section 403(e) of Pub. L. 95–598, set out above] may be cited as the ‘Referees Salary and Expense Fund Act of 1984’.”
+Pub. L. 98–353, title III, §381, July 10, 1984, 98 Stat. 364, provided that: "This subtitle [(§§381, 382) amending section 403(e) of Pub. L. 95–598, set out above] may be cited as the 'Referees Salary and Expense Fund Act of 1984'."
 
 #### History of Bankruptcy Acts ####
 

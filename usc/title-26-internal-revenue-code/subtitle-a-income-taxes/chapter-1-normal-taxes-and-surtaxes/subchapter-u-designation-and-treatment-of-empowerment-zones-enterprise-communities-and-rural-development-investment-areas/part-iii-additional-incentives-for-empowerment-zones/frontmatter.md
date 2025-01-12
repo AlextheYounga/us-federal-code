@@ -12,4 +12,4 @@ D. General provisions.
 
 #### Amendments ####
 
-**2000**—Pub. L. 106–554, §1(a)(7) [title I, §116(b)(6)], Dec. 21, 2000, 114 Stat. 2763, 2763A–604, added items for subparts C and D and struck out former item for subpart C “General provisions”.
+**2000**—Pub. L. 106–554, §1(a)(7) [title I, §116(b)(6)], Dec. 21, 2000, 114 Stat. 2763, 2763A–604, added items for subparts C and D and struck out former item for subpart C "General provisions".

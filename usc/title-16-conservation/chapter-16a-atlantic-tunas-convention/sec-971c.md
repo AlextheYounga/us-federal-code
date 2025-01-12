@@ -14,7 +14,7 @@ The Secretary of State, in consultation with the Secretary and the Secretary of 
 
 **1998**—Subsec. (b). Pub. L. 105–384 directed amendment identical to amendment by Pub. L. 104–43. See 1995 Amendment note below.
 
-**1995**—Subsec. (b). Pub. L. 104–43 substituted “exclusive economic zone” for “fisheries zone” after “territorial seas or” in third sentence.
+**1995**—Subsec. (b). Pub. L. 104–43 substituted "exclusive economic zone" for "fisheries zone" after "territorial seas or" in third sentence.
 
 #### Transfer of Functions ####
 
@@ -22,4 +22,4 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Management of Atlantic Yellowfin Tuna ####
 
-Pub. L. 104–43, title III, §309(b), Nov. 3, 1995, 109 Stat. 387, as amended by Pub. L. 104–297, title IV, §406, Oct. 11, 1996, 110 Stat. 3621, provided that: “Not later than July 1, 1997, the Secretary of Commerce shall implement the recommendations of the International Commission for the Conservation of Atlantic Tunas regarding yellowfin tuna made pursuant to Article VIII of the International Convention for the Conservation of Atlantic Tunas and acted upon favorably by the Secretary of State under section 5(a) of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971c(a)).”
+Pub. L. 104–43, title III, §309(b), Nov. 3, 1995, 109 Stat. 387, as amended by Pub. L. 104–297, title IV, §406, Oct. 11, 1996, 110 Stat. 3621, provided that: "Not later than July 1, 1997, the Secretary of Commerce shall implement the recommendations of the International Commission for the Conservation of Atlantic Tunas regarding yellowfin tuna made pursuant to Article VIII of the International Convention for the Conservation of Atlantic Tunas and acted upon favorably by the Secretary of State under section 5(a) of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971c(a))."

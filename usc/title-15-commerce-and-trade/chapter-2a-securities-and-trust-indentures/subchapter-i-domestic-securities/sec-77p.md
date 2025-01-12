@@ -34,7 +34,7 @@ A covered class action is described in this subparagraph if it involves—
 
 (I) is made by or on behalf of the issuer or an affiliate of the issuer to holders of equity securities of the issuer; and
 
-(II) concerns decisions of those equity holders with respect to voting their securities, acting in response to a tender or exchange offer, or exercising dissenters’ or appraisal rights.
+(II) concerns decisions of those equity holders with respect to voting their securities, acting in response to a tender or exchange offer, or exercising dissenters' or appraisal rights.
 
 #### (2) State actions ####
 
@@ -42,9 +42,9 @@ A covered class action is described in this subparagraph if it involves—
 
 Notwithstanding any other provision of this section, nothing in this section may be construed to preclude a State or political subdivision thereof or a State pension plan from bringing an action involving a covered security on its own behalf, or as a member of a class comprised solely of other States, political subdivisions, or State pension plans that are named plaintiffs, and that have authorized participation, in such action.
 
-#### (B) “State pension plan” defined ####
+#### (B) "State pension plan" defined ####
 
-For purposes of this paragraph, the term “State pension plan” means a pension plan established and maintained for its employees by the government of the State or political subdivision thereof, or by any agency or instrumentality thereof.
+For purposes of this paragraph, the term "State pension plan" means a pension plan established and maintained for its employees by the government of the State or political subdivision thereof, or by any agency or instrumentality thereof.
 
 #### (3) Actions under contractual agreements between issuers and indenture trustees ####
 
@@ -64,13 +64,13 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Affiliate of the issuer ####
 
-The term “affiliate of the issuer” means a person that directly or indirectly, through one or more intermediaries, controls or is controlled by or is under common control with, the issuer.
+The term "affiliate of the issuer" means a person that directly or indirectly, through one or more intermediaries, controls or is controlled by or is under common control with, the issuer.
 
 #### (2) Covered class action ####
 
 #### (A) In general ####
 
-The term “covered class action” means—
+The term "covered class action" means—
 
 (i) any single lawsuit in which—
 
@@ -86,7 +86,7 @@ The term “covered class action” means—
 
 #### (B) Exception for derivative actions ####
 
-Notwithstanding subparagraph (A), the term “covered class action” does not include an exclusively derivative action brought by one or more shareholders on behalf of a corporation.
+Notwithstanding subparagraph (A), the term "covered class action" does not include an exclusively derivative action brought by one or more shareholders on behalf of a corporation.
 
 #### (C) Counting of certain class members ####
 
@@ -98,7 +98,7 @@ Nothing in this paragraph shall be construed to affect the discretion of a State
 
 #### (3) Covered security ####
 
-The term “covered security” means a security that satisfies the standards for a covered security specified in paragraph (1) or (2) of section 77r(b) of this title at the time during which it is alleged that the misrepresentation, omission, or manipulative or deceptive conduct occurred, except that such term shall not include any debt security that is exempt from registration under this subchapter pursuant to rules issued by the Commission under section 77d(2) <sup><a href="#77p_1_target" name="77p_1">1</a></sup> of this title.
+The term "covered security" means a security that satisfies the standards for a covered security specified in paragraph (1) or (2) of section 77r(b) of this title at the time during which it is alleged that the misrepresentation, omission, or manipulative or deceptive conduct occurred, except that such term shall not include any debt security that is exempt from registration under this subchapter pursuant to rules issued by the Commission under section 77d(2) <sup><a href="#77p_1_target" name="77p_1">1</a></sup> of this title.
 
 (May 27, 1933, ch. 38, title I, §16, 48 Stat. 84; Pub. L. 105–353, title I, §101(a)(1), Nov. 3, 1998, 112 Stat. 3227.)
 
@@ -108,10 +108,10 @@ Section 77d(2) of this title, referred to in subsec. (f)(3), was redesignated se
 
 #### Amendments ####
 
-**1998**—Pub. L. 105–353 amended section catchline and text generally. Prior to amendment, text read as follows: “The rights and remedies provided by this subchapter shall be in addition to any and all other rights and remedies that may exist at law or in equity.”
+**1998**—Pub. L. 105–353 amended section catchline and text generally. Prior to amendment, text read as follows: "The rights and remedies provided by this subchapter shall be in addition to any and all other rights and remedies that may exist at law or in equity."
 
 #### Effective Date of 1998 Amendment ####
 
-Pub. L. 105–353, title I, §101(c), Nov. 3, 1998, 112 Stat. 3233, provided that: “The amendments made by this section [amending this section and sections 77v, 77z–1, 78u–4, and 78bb of this title] shall not affect or apply to any action commenced before and pending on the date of enactment of this Act [Nov. 3, 1998].”
+Pub. L. 105–353, title I, §101(c), Nov. 3, 1998, 112 Stat. 3233, provided that: "The amendments made by this section [amending this section and sections 77v, 77z–1, 78u–4, and 78bb of this title] shall not affect or apply to any action commenced before and pending on the date of enactment of this Act [Nov. 3, 1998]."
 
 [<sup>1</sup> See References in Text note below.](#77p_1)

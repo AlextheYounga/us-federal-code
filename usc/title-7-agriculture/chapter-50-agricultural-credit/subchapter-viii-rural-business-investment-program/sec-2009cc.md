@@ -4,21 +4,21 @@ In this subchapter:
 
 #### (1) Articles ####
 
-The term “articles” means articles of incorporation for an incorporated body or the functional equivalent or other similar documents specified by the Secretary for other business entities.
+The term "articles" means articles of incorporation for an incorporated body or the functional equivalent or other similar documents specified by the Secretary for other business entities.
 
 #### (2) Developmental venture capital ####
 
-The term “developmental venture capital” means capital in the form of equity capital investments in rural business investment companies with an objective of fostering economic development in rural areas.
+The term "developmental venture capital" means capital in the form of equity capital investments in rural business investment companies with an objective of fostering economic development in rural areas.
 
 #### (3) Employee welfare benefit plan; pension plan ####
 
 #### (A) In general ####
 
-The terms “employee welfare benefit plan” and “pension plan” have the meanings given the terms in section 1002 of title 29.
+The terms "employee welfare benefit plan" and "pension plan" have the meanings given the terms in section 1002 of title 29.
 
 #### (B) Inclusions ####
 
-The terms “employee welfare benefit plan” and “pension plan” include—
+The terms "employee welfare benefit plan" and "pension plan" include—
 
 (i) public and private pension or retirement plans subject to this subchapter; and
 
@@ -26,11 +26,11 @@ The terms “employee welfare benefit plan” and “pension plan” include—
 
 #### (4) Equity capital ####
 
-The term “equity capital” means common or preferred stock or a similar instrument, including subordinated debt with equity features.
+The term "equity capital" means common or preferred stock or a similar instrument, including subordinated debt with equity features.
 
 #### (5) Leverage ####
 
-The term “leverage” includes—
+The term "leverage" includes—
 
 (A) debentures purchased or guaranteed by the Secretary;
 
@@ -40,29 +40,29 @@ The term “leverage” includes—
 
 #### (6) License ####
 
-The term “license” means a license issued by the Secretary as provided in section 2009cc–3(e) of this title.
+The term "license" means a license issued by the Secretary as provided in section 2009cc–3(e) of this title.
 
 #### (7) Limited liability company ####
 
-The term “limited liability company” means a business entity that is organized and operating in accordance with a State limited liability company law approved by the Secretary.
+The term "limited liability company" means a business entity that is organized and operating in accordance with a State limited liability company law approved by the Secretary.
 
 #### (8) Member ####
 
-The term “member” means, with respect to a rural business investment company that is a limited liability company, a holder of an ownership interest or a person otherwise admitted to membership in the limited liability company.
+The term "member" means, with respect to a rural business investment company that is a limited liability company, a holder of an ownership interest or a person otherwise admitted to membership in the limited liability company.
 
 #### (9) Operational assistance ####
 
-The term “operational assistance” means management, marketing, and other technical assistance that assists a rural business concern with business development.
+The term "operational assistance" means management, marketing, and other technical assistance that assists a rural business concern with business development.
 
 #### (10) Participation agreement ####
 
-The term “participation agreement” means an agreement, between the Secretary and a rural business investment company granted final approval under section 2009cc–3(e) of this title, that requires the rural business investment company to make investments in smaller enterprises in rural areas.
+The term "participation agreement" means an agreement, between the Secretary and a rural business investment company granted final approval under section 2009cc–3(e) of this title, that requires the rural business investment company to make investments in smaller enterprises in rural areas.
 
 #### (11) Private capital ####
 
 #### (A) In general ####
 
-The term “private capital” means the total of—
+The term "private capital" means the total of—
 
 (i)(I) the paid-in capital and paid-in surplus of a corporate rural business investment company;
 
@@ -78,7 +78,7 @@ The term “private capital” means the total of—
 
 #### (B) Exclusions ####
 
-The term “private capital” does not include—
+The term "private capital" does not include—
 
 (i) any funds borrowed by a rural business investment company from any source;
 
@@ -94,15 +94,15 @@ The term “private capital” does not include—
 
 #### (12) Qualified nonprivate funds ####
 
-The term “qualified nonprivate funds” means any—
+The term "qualified nonprivate funds" means any—
 
-(A) funds directly or indirectly invested in any applicant or rural business investment company on or before May 13, 2002, by any Federal agency, other than the Department of Agriculture, under a provision of law explicitly mandating the inclusion of those funds in the definition of the term “private capital”; and
+(A) funds directly or indirectly invested in any applicant or rural business investment company on or before May 13, 2002, by any Federal agency, other than the Department of Agriculture, under a provision of law explicitly mandating the inclusion of those funds in the definition of the term "private capital"; and
 
 (B) funds invested in any applicant or rural business investment company by 1 or more entities of any State (including by a political subdivision, agency, or instrumentality of the State and including any guarantee extended by those entities) in an aggregate amount that does not exceed 33 percent of the private capital of the applicant or rural business investment company.
 
 #### (13) Rural business concern ####
 
-The term “rural business concern” means—
+The term "rural business concern" means—
 
 (A) a public, private, or cooperative for-profit or nonprofit organization;
 
@@ -114,7 +114,7 @@ that primarily operates in a rural area, as determined by the Secretary.
 
 #### (14) Rural business investment company ####
 
-The term “rural business investment company” means a company that—
+The term "rural business investment company" means a company that—
 
 (A) has been granted final approval by the Secretary under section 2009cc–3(e) of this title; and
 
@@ -122,7 +122,7 @@ The term “rural business investment company” means a company that—
 
 #### (15) Smaller enterprise ####
 
-The term “smaller enterprise” means any rural business concern that, together with its affiliates—
+The term "smaller enterprise" means any rural business concern that, together with its affiliates—
 
 (A) has—
 

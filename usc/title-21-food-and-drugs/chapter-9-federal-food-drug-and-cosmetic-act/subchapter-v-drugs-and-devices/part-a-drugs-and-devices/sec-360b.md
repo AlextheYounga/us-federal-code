@@ -52,7 +52,7 @@ The use of an animal drug that results in residues exceeding a safe level establ
 
 (B) is in compliance with regulations promulgated by the Secretary that establish the conditions for the use or intended use of the drug in animals.
 
-(6) For purposes of section 342(a)(2)(D) <sup><a href="#360b_1_target" name="360b_1">1</a></sup> of this title, a use or intended use of a new animal drug shall not be deemed unsafe under this section if the Secretary establishes a tolerance for such drug and any edible portion of any animal imported into the United States does not contain residues exceeding such tolerance. In establishing such tolerance, the Secretary shall rely on data sufficient to demonstrate that a proposed tolerance is safe based on similar food safety criteria used by the Secretary to establish tolerances for applications for new animal drugs filed under subsection (b)(1) of this section. The Secretary may consider and rely on data submitted by the drug manufacturer, including data submitted to appropriate regulatory authorities in any country where the new animal drug is lawfully used or data available from a relevant international organization, to the extent such data are not inconsistent with the criteria used by the Secretary to establish a tolerance for applications for new animal drugs filed under subsection (b)(1) of this section. For purposes of this paragraph, “relevant international organization” means the Codex Alimenterius <sup><a href="#360b_2_target" name="360b_2">2</a></sup> Commission or other international organization deemed appropriate by the Secretary. The Secretary may, under procedures specified by regulation, revoke a tolerance established under this paragraph if information demonstrates that the use of the new animal drug under actual use conditions results in food being imported into the United States with residues exceeding the tolerance or if scientific evidence shows the tolerance to be unsafe.
+(6) For purposes of section 342(a)(2)(D) <sup><a href="#360b_1_target" name="360b_1">1</a></sup> of this title, a use or intended use of a new animal drug shall not be deemed unsafe under this section if the Secretary establishes a tolerance for such drug and any edible portion of any animal imported into the United States does not contain residues exceeding such tolerance. In establishing such tolerance, the Secretary shall rely on data sufficient to demonstrate that a proposed tolerance is safe based on similar food safety criteria used by the Secretary to establish tolerances for applications for new animal drugs filed under subsection (b)(1) of this section. The Secretary may consider and rely on data submitted by the drug manufacturer, including data submitted to appropriate regulatory authorities in any country where the new animal drug is lawfully used or data available from a relevant international organization, to the extent such data are not inconsistent with the criteria used by the Secretary to establish a tolerance for applications for new animal drugs filed under subsection (b)(1) of this section. For purposes of this paragraph, "relevant international organization" means the Codex Alimenterius <sup><a href="#360b_2_target" name="360b_2">2</a></sup> Commission or other international organization deemed appropriate by the Secretary. The Secretary may, under procedures specified by regulation, revoke a tolerance established under this paragraph if information demonstrates that the use of the new animal drug under actual use conditions results in food being imported into the United States with residues exceeding the tolerance or if scientific evidence shows the tolerance to be unsafe.
 
 #### (b) Filing application for uses of new animal drug; contents; patent information; abbreviated application; presubmission conference ####
 
@@ -140,7 +140,7 @@ whichever is earlier.
 
 (H) For purposes of this paragraph:
 
-(i) The term “bioequivalence” means the rate and extent to which the active ingredient or therapeutic ingredient is absorbed from a new animal drug and becomes available at the site of drug action.
+(i) The term "bioequivalence" means the rate and extent to which the active ingredient or therapeutic ingredient is absorbed from a new animal drug and becomes available at the site of drug action.
 
 (ii) A new animal drug shall be considered to be bioequivalent to the approved new animal drug referred to in its application under subsection (n) of this section if—
 
@@ -156,7 +156,7 @@ If the approved new animal drug referred to in the application for a new animal 
 
 (4) A drug manufactured in a pilot or other small facility may be used to demonstrate the safety and effectiveness of the drug and to obtain approval for the drug prior to manufacture of the drug in a larger facility, unless the Secretary makes a determination that a full scale production facility is necessary to ensure the safety or effectiveness of the drug.
 
-#### (d) Grounds for refusing application; approval of application; factors; “substantial evidence” defined; combination drugs ####
+#### (d) Grounds for refusing application; approval of application; factors; "substantial evidence" defined; combination drugs ####
 
 (1) If the Secretary finds, after due notice to the applicant in accordance with subsection (c) of this section and giving him an opportunity for a hearing, in accordance with said subsection, that—
 
@@ -182,7 +182,7 @@ he shall issue an order refusing to approve the application. If, after such noti
 
 (2) In determining whether such drug is safe for use under the conditions prescribed, recommended, or suggested in the proposed labeling thereof, the Secretary shall consider, among other relevant factors, (A) the probable consumption of such drug and of any substance formed in or on food because of the use of such drug, (B) the cumulative effect on man or animal of such drug, taking into account any chemically or pharmacologically related substance, (C) safety factors which in the opinion of experts, qualified by scientific training and experience to evaluate the safety of such drugs, are appropriate for the use of animal experimentation data, and (D) whether the conditions of use prescribed, recommended, or suggested in the proposed labeling are reasonably certain to be followed in practice. Any order issued under this subsection refusing to approve an application shall state the findings upon which it is based.
 
-(3) As used in this section, the term “substantial evidence” means evidence consisting of one or more adequate and well controlled investigations, such as—
+(3) As used in this section, the term "substantial evidence" means evidence consisting of one or more adequate and well controlled investigations, such as—
 
 (A) a study in a target species;
 
@@ -366,7 +366,7 @@ If the Secretary (or in the Secretary's absence the officer acting as the Secret
 
 (1) An abbreviated application for a new animal drug shall contain—
 
-(A)(i) except as provided in clause (ii), information to show that the conditions of use or similar limitations (whether in the labeling or published pursuant to subsection (i) of this section) prescribed, recommended, or suggested in the labeling proposed for the new animal drug have been previously approved for a new animal drug listed under paragraph (4) (hereinafter in this subsection referred to as an “approved new animal drug”), and
+(A)(i) except as provided in clause (ii), information to show that the conditions of use or similar limitations (whether in the labeling or published pursuant to subsection (i) of this section) prescribed, recommended, or suggested in the labeling proposed for the new animal drug have been previously approved for a new animal drug listed under paragraph (4) (hereinafter in this subsection referred to as an "approved new animal drug"), and
 
 (ii) information to show that the withdrawal period at which residues of the new animal drug will be consistent with the tolerances established for the approved new animal drug is the same as the withdrawal period previously established for the approved new animal drug or, if the withdrawal period is proposed to be different, information showing that the residues of the new animal drug at the proposed different withdrawal period will be consistent with the tolerances established for the approved new animal drug;
 
@@ -460,9 +460,9 @@ A notice of the removal shall be published in the Federal Register.
 
 such application shall be considered to be an application filed under subsection (b)(2) of this section.
 
-#### (o) “Patent” defined ####
+#### (o) "Patent" defined ####
 
-For purposes of this section, the term “patent” means a patent issued by the United States Patent and Trademark Office.
+For purposes of this section, the term "patent" means a patent issued by the United States Patent and Trademark Office.
 
 #### (p) Safety and effectiveness data ####
 
@@ -496,97 +496,97 @@ Section 342(a)(2) of this title, referred to in subsec. (a)(6), was amended by P
 
 **2004**—Subsec. (a)(1), (2). Pub. L. 108–282, §102(b)(5)(I), added pars. (1) and (2) and struck out former pars. (1) and (2) which deemed as unsafe new animal drugs and animal feed bearing or containing a new animal drug which did not have in effect certain approvals.
 
-Subsec. (b)(3). Pub. L. 108–282, §102(b)(5)(J), substituted “under paragraph (1), section 360ccc of this title, or a request for an investigational exemption under subsection (j)” for “under paragraph (1) or a request for an investigational exemption under subsection (j)”.
+Subsec. (b)(3). Pub. L. 108–282, §102(b)(5)(J), substituted "under paragraph (1), section 360ccc of this title, or a request for an investigational exemption under subsection (j)" for "under paragraph (1) or a request for an investigational exemption under subsection (j)".
 
-Subsec. (c)(2)(F)(ii), (iii), (v). Pub. L. 108–282, §102(b)(2), substituted “(other than bioequivalence studies or residue depletion studies, except residue depletion studies for minor uses or minor species)” for “(other than bioequivalence or residue studies)”.
+Subsec. (c)(2)(F)(ii), (iii), (v). Pub. L. 108–282, §102(b)(2), substituted "(other than bioequivalence studies or residue depletion studies, except residue depletion studies for minor uses or minor species)" for "(other than bioequivalence or residue studies)".
 
-Subsec. (d)(4). Pub. L. 108–282, §102(b)(5)(K), substituted “have previously been separately approved pursuant to an application submitted under subsection (b)(1) of this section” for “have previously been separately approved” in introductory provisions.
+Subsec. (d)(4). Pub. L. 108–282, §102(b)(5)(K), substituted "have previously been separately approved pursuant to an application submitted under subsection (b)(1) of this section" for "have previously been separately approved" in introductory provisions.
 
 Subsec. (d)(5). Pub. L. 108–282, §102(b)(3), added par. (5).
 
-Subsec. (f). Pub. L. 108–282, §102(b)(5)(L), substituted “subsection (d), (e), or (m) of this section, or section 360ccc(c), (d), or (e) of this title” for “subsection (d), (e), or (m) of this section”.
+Subsec. (f). Pub. L. 108–282, §102(b)(5)(L), substituted "subsection (d), (e), or (m) of this section, or section 360ccc(c), (d), or (e) of this title" for "subsection (d), (e), or (m) of this section".
 
-Subsec. (g). Pub. L. 108–282, §102(b)(5)(M), substituted “this section, or section 360ccc of this title” for “this section”.
+Subsec. (g). Pub. L. 108–282, §102(b)(5)(M), substituted "this section, or section 360ccc of this title" for "this section".
 
-Subsec. (i). Pub. L. 108–282, §102(b)(5)(N), substituted “subsection (b) of this section or section 360ccc of this title” for “subsection (b) of this section” and inserted “or upon failure to renew a conditional approval under section 360ccc of this title” after “or upon its suspension”.
+Subsec. (i). Pub. L. 108–282, §102(b)(5)(N), substituted "subsection (b) of this section or section 360ccc of this title" for "subsection (b) of this section" and inserted "or upon failure to renew a conditional approval under section 360ccc of this title" after "or upon its suspension".
 
-Subsec. (l)(1). Pub. L. 108–282, §102(b)(5)(O), substituted “subsection (b) of this section or section 360ccc of this title” for “subsection (b) of this section”.
+Subsec. (l)(1). Pub. L. 108–282, §102(b)(5)(O), substituted "subsection (b) of this section or section 360ccc of this title" for "subsection (b) of this section".
 
-Subsec. (m)(1)(C). Pub. L. 108–282, §102(b)(5)(P), substituted “applicable regulations published pursuant to subsection (i) of this section or for indexed new animal drugs in accordance with the index listing published pursuant to section 360ccc–1(e)(2) of this title and the labeling requirements set forth in section 360ccc–1(h) of this title” for “applicable regulations published pursuant to subsection (i) of this section”.
+Subsec. (m)(1)(C). Pub. L. 108–282, §102(b)(5)(P), substituted "applicable regulations published pursuant to subsection (i) of this section or for indexed new animal drugs in accordance with the index listing published pursuant to section 360ccc–1(e)(2) of this title and the labeling requirements set forth in section 360ccc–1(h) of this title" for "applicable regulations published pursuant to subsection (i) of this section".
 
-Subsec. (m)(3). Pub. L. 108–282, §102(b)(5)(Q), inserted “or an index listing pursuant to section 360ccc–1(e) of this title” after “subsection (i) of this section” in subpar. (C) and concluding provisions.
+Subsec. (m)(3). Pub. L. 108–282, §102(b)(5)(Q), inserted "or an index listing pursuant to section 360ccc–1(e) of this title" after "subsection (i) of this section" in subpar. (C) and concluding provisions.
 
-Subsec. (p)(1), (2)(A). Pub. L. 108–282, §102(b)(5)(R), (S), substituted “subsection (b)(1) of this section or section 360ccc(a) of this title” for “subsection (b)(1) of this section”.
+Subsec. (p)(1), (2)(A). Pub. L. 108–282, §102(b)(5)(R), (S), substituted "subsection (b)(1) of this section or section 360ccc(a) of this title" for "subsection (b)(1) of this section".
 
-**1999**—Subsec. (o). Pub. L. 106–113 substituted “United States Patent and Trademark Office” for “Patent and Trademark Office of the Department of Commerce”.
+**1999**—Subsec. (o). Pub. L. 106–113 substituted "United States Patent and Trademark Office" for "Patent and Trademark Office of the Department of Commerce".
 
-**1998**—Subsec. (d)(4)(D)(iii). Pub. L. 105–277 inserted before semicolon “, except that for purposes of this clause, antibacterial ingredient or animal drug does not include the ionophore or arsenical classes of animal drugs”.
+**1998**—Subsec. (d)(4)(D)(iii). Pub. L. 105–277 inserted before semicolon ", except that for purposes of this clause, antibacterial ingredient or animal drug does not include the ionophore or arsenical classes of animal drugs".
 
 **1997**—Subsec. (c)(4). Pub. L. 105–115 added par. (4).
 
-**1996**—Subsec. (a)(1). Pub. L. 104–250, §6(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “A new animal drug shall, with respect to any particular use or intended use of such drug, be deemed unsafe for the purposes of section 351(a)(5) and section 342(a)(2)(D) of this title unless—
+**1996**—Subsec. (a)(1). Pub. L. 104–250, §6(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "A new animal drug shall, with respect to any particular use or intended use of such drug, be deemed unsafe for the purposes of section 351(a)(5) and section 342(a)(2)(D) of this title unless—
 
-“(A) there is in effect an approval of an application filed pursuant to subsection (b) of this section with respect to such use or intended use of such drug, and
+"(A) there is in effect an approval of an application filed pursuant to subsection (b) of this section with respect to such use or intended use of such drug, and
 
-“(B) such drug, its labeling, and such use conform to such approved application.
+"(B) such drug, its labeling, and such use conform to such approved application.
 
 A new animal drug shall also be deemed unsafe for such purposes in the event of removal from the establishment of a manufacturer, packer, or distributor of such drug for use in the manufacture of animal feed in any State unless at the time of such removal such manufacturer, packer, or distributor has an unrevoked written statement from the consignee of such drug, or notice from the Secretary, to the effect that, with respect to the use of such drug in animal feed, such consignee—
 
-“(i) is the holder of an approved application under subsection (m) of this section; or
+"(i) is the holder of an approved application under subsection (m) of this section; or
 
-“(ii) will, if the consignee is not a user of the drug, ship such drug only to a holder of an approved application under subsection (m) of this section.”
+"(ii) will, if the consignee is not a user of the drug, ship such drug only to a holder of an approved application under subsection (m) of this section."
 
-Subsec. (a)(2). Pub. L. 104–250, §6(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “An animal feed bearing or containing a new animal drug shall, with respect to any particular use or intended use of such animal feed, be deemed unsafe for the purposes of section 351(a)(6) of this title unless—
+Subsec. (a)(2). Pub. L. 104–250, §6(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "An animal feed bearing or containing a new animal drug shall, with respect to any particular use or intended use of such animal feed, be deemed unsafe for the purposes of section 351(a)(6) of this title unless—
 
-“(A) there is in effect an approval of an application filed pursuant to subsection (b) of this section with respect to such drugs, as used in such animal feed,
+"(A) there is in effect an approval of an application filed pursuant to subsection (b) of this section with respect to such drugs, as used in such animal feed,
 
-“(B) there is in effect an approval of an application pursuant to subsection (m)(1) of this section with respect to such animal feed, and
+"(B) there is in effect an approval of an application pursuant to subsection (m)(1) of this section with respect to such animal feed, and
 
-“(C) such animal feed, its labeling, and such use conform to the conditions and indications of use published pursuant to subsection (i) of this section and to the application with respect thereto approved under subsection (m) of this section.”
+"(C) such animal feed, its labeling, and such use conform to the conditions and indications of use published pursuant to subsection (i) of this section and to the application with respect thereto approved under subsection (m) of this section."
 
 Subsec. (a)(6). Pub. L. 104–250, §4, added par. (6).
 
 Subsec. (b)(3). Pub. L. 104–250, §2(d), added par. (3).
 
-Subsec. (c)(2)(F)(ii), (iii). Pub. L. 104–250, §2(b)(1), substituted “substantial evidence of the effectiveness of the drug involved, any studies of animal safety, or,” for “reports of new clinical or field investigations (other than bioequivalence or residue studies) and,” and “required for the approval” for “essential to the approval”.
+Subsec. (c)(2)(F)(ii), (iii). Pub. L. 104–250, §2(b)(1), substituted "substantial evidence of the effectiveness of the drug involved, any studies of animal safety, or," for "reports of new clinical or field investigations (other than bioequivalence or residue studies) and," and "required for the approval" for "essential to the approval".
 
-Subsec. (c)(2)(F)(v). Pub. L. 104–250, §2(b)(2), substituted “clause (iv)” for “subparagraph (B)(iv)” in two places, “substantial evidence of the effectiveness of the drug involved, any studies of animal safety,” for “reports of clinical or field investigations” and “required for the new approval” for “essential to the new approval”.
+Subsec. (c)(2)(F)(v). Pub. L. 104–250, §2(b)(2), substituted "clause (iv)" for "subparagraph (B)(iv)" in two places, "substantial evidence of the effectiveness of the drug involved, any studies of animal safety," for "reports of clinical or field investigations" and "required for the new approval" for "essential to the new approval".
 
-Subsec. (d)(1)(F). Pub. L. 104–250, §3, amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “upon the basis of the information submitted to him as part of the application or any other information before him with respect to such drug, the tolerance limitation proposed, if any, exceeds that reasonably required to accomplish the physical or other technical effect for which the drug is intended;”.
+Subsec. (d)(1)(F). Pub. L. 104–250, §3, amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: "upon the basis of the information submitted to him as part of the application or any other information before him with respect to such drug, the tolerance limitation proposed, if any, exceeds that reasonably required to accomplish the physical or other technical effect for which the drug is intended;".
 
-Subsec. (d)(3). Pub. L. 104–250, §2(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “As used in this subsection and subsection (e) of this section, the term ‘substantial evidence’ means evidence consisting of adequate and well-controlled investigations, including field investigation, by experts qualified by scientific training and experience to evaluate the effectiveness of the drug involved, on the basis of which it could fairly and reasonably be concluded by such experts that the drug will have the effect it purports or is represented to have under the conditions of use prescribed, recommended, or suggested in the labeling or proposed labeling thereof.”
+Subsec. (d)(3). Pub. L. 104–250, §2(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "As used in this subsection and subsection (e) of this section, the term 'substantial evidence' means evidence consisting of adequate and well-controlled investigations, including field investigation, by experts qualified by scientific training and experience to evaluate the effectiveness of the drug involved, on the basis of which it could fairly and reasonably be concluded by such experts that the drug will have the effect it purports or is represented to have under the conditions of use prescribed, recommended, or suggested in the labeling or proposed labeling thereof."
 
 Subsec. (d)(4). Pub. L. 104–250, §2(c), added par. (4).
 
-Subsec. (i). Pub. L. 104–250, §5(c), inserted “and any requirement that an animal feed bearing or containing the new animal drug be limited to use under the professional supervision of a licensed veterinarian” after “(including special labeling requirements”.
+Subsec. (i). Pub. L. 104–250, §5(c), inserted "and any requirement that an animal feed bearing or containing the new animal drug be limited to use under the professional supervision of a licensed veterinarian" after "(including special labeling requirements".
 
 Subsec. (m). Pub. L. 104–250, §6(b), amended subsec. (m) generally, substituting provisions relating to application for feed mill licenses, including approval, refusal, revocation, and suspension of such licenses, and provisions for record and reporting requirements for, as well as exemption from, such licenses, for provisions relating to application for uses of animal feed containing new animal drug, including required contents, approval, refusal, and withdrawal of approval or suspension of such usage applications, and provisions for record and reporting requirements of such usage applications.
 
 **1994**—Subsec. (a)(4), (5). Pub. L. 103–396, §2(a), added pars. (4) and (5).
 
-Subsec. (e)(1)(A). Pub. L. 103–396, §2(b)(2), inserted before semicolon at end “or the condition of use authorized under subsection (a)(4)(A) of this section”.
+Subsec. (e)(1)(A). Pub. L. 103–396, §2(b)(2), inserted before semicolon at end "or the condition of use authorized under subsection (a)(4)(A) of this section".
 
-Subsec. (l)(1). Pub. L. 103–396, §2(b)(3), substituted “relating to experience, including experience with uses authorized under subsection (a)(4)(A) of this section,” for “relating to experience”.
+Subsec. (l)(1). Pub. L. 103–396, §2(b)(3), substituted "relating to experience, including experience with uses authorized under subsection (a)(4)(A) of this section," for "relating to experience".
 
-**1993**—Subsec. (c)(2)(A)(ii). Pub. L. 103–80, §3(r)(1), inserted “in” after “except as provided”.
+**1993**—Subsec. (c)(2)(A)(ii). Pub. L. 103–80, §3(r)(1), inserted "in" after "except as provided".
 
-Subsec. (c)(2)(F)(i). Pub. L. 103–80, §3(r)(2), substituted “subparagraph (D)(iii)” for “subparagraph (C)(iii)”.
+Subsec. (c)(2)(F)(i). Pub. L. 103–80, §3(r)(2), substituted "subparagraph (D)(iii)" for "subparagraph (C)(iii)".
 
-Subsec. (c)(2)(H)(ii). Pub. L. 103–80, §3(r)(3), substituted “subclauses” for “subclause” after “bioequivalency information described in” in concluding provisions.
+Subsec. (c)(2)(H)(ii). Pub. L. 103–80, §3(r)(3), substituted "subclauses" for "subclause" after "bioequivalency information described in" in concluding provisions.
 
-Subsec. (d)(1). Pub. L. 103–80, §3(r)(4), substituted “subparagraphs (A) through (I)” for “subparagraphs (A) through (G)” in concluding provisions.
+Subsec. (d)(1). Pub. L. 103–80, §3(r)(4), substituted "subparagraphs (A) through (I)" for "subparagraphs (A) through (G)" in concluding provisions.
 
-Subsec. (n)(1). Pub. L. 103–80, §3(r)(5), substituted “section 321(v) of this title” for “section 321(w) of this title” in subpars. (B)(ii)(II) and (C)(ii)(I) and substituted “through (I)” for “through (H)” in concluding provisions.
+Subsec. (n)(1). Pub. L. 103–80, §3(r)(5), substituted "section 321(v) of this title" for "section 321(w) of this title" in subpars. (B)(ii)(II) and (C)(ii)(I) and substituted "through (I)" for "through (H)" in concluding provisions.
 
-**1991**—Subsec. (e)(1)(B). Pub. L. 102–108 substituted “(I)” for “(H)”.
+**1991**—Subsec. (e)(1)(B). Pub. L. 102–108 substituted "(I)" for "(H)".
 
-**1988**—Subsec. (a)(1)(C). Pub. L. 100–670, §107(a)(2), struck out subpar. (C) which read as follows: “in the case of a new animal drug subject to subsection (n) of this section and not exempted therefrom by regulations it is from a batch with respect to which a certificate or release issued pursuant to subsection (n) of this section is in effect with respect to such drug.”
+**1988**—Subsec. (a)(1)(C). Pub. L. 100–670, §107(a)(2), struck out subpar. (C) which read as follows: "in the case of a new animal drug subject to subsection (n) of this section and not exempted therefrom by regulations it is from a batch with respect to which a certificate or release issued pursuant to subsection (n) of this section is in effect with respect to such drug."
 
 Subsec. (b). Pub. L. 100–670, §§101(a), 102(a), designated existing provisions as par. (1), redesignated cls. (1) to (8) as cls. (A) to (H), respectively, added par. (2), and inserted provisions at end of par. (1) which require applicant to file with application, patent number and expiration date of any patent which claims new animal drug, to amend application to include such information if patent which claims such drug or method of using such drug is issued after filing date but before approval of application, and to publish such information upon approval.
 
 Subsec. (c). Pub. L. 100–670, §§101(c), 102(b)(1), designated existing provisions as par. (1), redesignated cls. (1) and (2) as cls. (A) and (B), respectively, and added pars. (2) and (3).
 
-Subsec. (d)(1). Pub. L. 100–670, §102(b)(3), substituted “(G)” for “(H)” in last sentence.
+Subsec. (d)(1). Pub. L. 100–670, §102(b)(3), substituted "(G)" for "(H)" in last sentence.
 
 Subsec. (d)(1)(G) to (I). Pub. L. 100–670, §102(b)(2), added subpar. (G) and redesignated former subpars. (G) and (H) as (H) and (I), respectively.
 
@@ -604,72 +604,72 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 #### Effective Date of 1994 Amendment ####
 
-Pub. L. 103–396, §2(d), Oct. 22, 1994, 108 Stat. 4154, provided that: “The amendments made by this section [amending this section and section 331 of this title] shall take effect upon the adoption of the final regulations under subsection (c) [set out below].” [Final regulations were dated Oct. 22, 1996, filed Nov. 6, 1996, published Nov. 7, 1996, 61 F.R. 57732, and effective Dec. 9, 1996.]
+Pub. L. 103–396, §2(d), Oct. 22, 1994, 108 Stat. 4154, provided that: "The amendments made by this section [amending this section and section 331 of this title] shall take effect upon the adoption of the final regulations under subsection (c) [set out below]." [Final regulations were dated Oct. 22, 1996, filed Nov. 6, 1996, published Nov. 7, 1996, 61 F.R. 57732, and effective Dec. 9, 1996.]
 
 #### Effective Date of 1988 Amendment ####
 
-Pub. L. 100–670, title I, §108, Nov. 16, 1988, 102 Stat. 3984, provided that: “The Secretary of Health and Human Services may not make an approval of an application submitted under section 512(b)(2) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360b(b)(2)) effective before January 1, 1991.”
+Pub. L. 100–670, title I, §108, Nov. 16, 1988, 102 Stat. 3984, provided that: "The Secretary of Health and Human Services may not make an approval of an application submitted under section 512(b)(2) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360b(b)(2)) effective before January 1, 1991."
 
 #### Effective Date and Transitional Provisions ####
 
 Pub. L. 90–399, §108, July 13, 1968, 82 Stat. 353, as amended by Pub. L. 108–282, title I, §102(b)(5)(T), Aug. 2, 2004, 118 Stat. 905, provided that:
 
-“(a) Except as otherwise provided in this section, the amendments made by the foregoing sections [see Short Title of 1968 Amendment note set out under section 301 of this title] shall take effect on the first day of the thirteenth calendar month which begins after the date of enactment of this Act [July 13, 1968].
+"(a) Except as otherwise provided in this section, the amendments made by the foregoing sections [see Short Title of 1968 Amendment note set out under section 301 of this title] shall take effect on the first day of the thirteenth calendar month which begins after the date of enactment of this Act [July 13, 1968].
 
-“(b)(1) As used in this subsection, the term ‘effective date’ means the effective date specified in subsection (a) of this section; the term ‘basic Act’ means the Federal Food, Drug, and Cosmetic Act [this chapter]; and other terms used both in this section and the basic Act shall have the same meaning as they have, or had, at the time referred to in the context, under the basic Act.
+"(b)(1) As used in this subsection, the term 'effective date' means the effective date specified in subsection (a) of this section; the term 'basic Act' means the Federal Food, Drug, and Cosmetic Act [this chapter]; and other terms used both in this section and the basic Act shall have the same meaning as they have, or had, at the time referred to in the context, under the basic Act.
 
-“(2) Any approval, prior to the effective date, of a new animal drug or of an animal feed bearing or containing a new animal drug, whether granted by approval of a new-drug application, master file, antibiotic regulation, or food additive regulations, shall continue in effect, and shall be subject to change in accordance with the provisions of the basic Act as amended by this Act [see Short Title of 1968 Amendment note set out under section 301 of this title].
+"(2) Any approval, prior to the effective date, of a new animal drug or of an animal feed bearing or containing a new animal drug, whether granted by approval of a new-drug application, master file, antibiotic regulation, or food additive regulations, shall continue in effect, and shall be subject to change in accordance with the provisions of the basic Act as amended by this Act [see Short Title of 1968 Amendment note set out under section 301 of this title].
 
-“(3) In the case of any drug (other than a drug subject to section 512(n) of the basic Act as amended by this Act) [subsection (n) of this section] intended for use in animals other than man which, on October 9, 1962, (A) was commercially used or sold in the United States, (B) was not a new drug as defined by section 201(p) of the basic Act [section 321(p) of this title] as then in force, and (C) was not covered by an effective application under section 505 of that Act [section 355 of this title], the words ‘effectiveness’ and ‘effective’ contained in section 201(v) to the basic Act [sic] [section 321(v) of this title] shall not apply to such drug when intended solely for use under conditions prescribed, recommended, or suggested in labeling with respect to such drug on that day.
+"(3) In the case of any drug (other than a drug subject to section 512(n) of the basic Act as amended by this Act) [subsection (n) of this section] intended for use in animals other than man which, on October 9, 1962, (A) was commercially used or sold in the United States, (B) was not a new drug as defined by section 201(p) of the basic Act [section 321(p) of this title] as then in force, and (C) was not covered by an effective application under section 505 of that Act [section 355 of this title], the words 'effectiveness' and 'effective' contained in section 201(v) to the basic Act [sic] [section 321(v) of this title] shall not apply to such drug when intended solely for use under conditions prescribed, recommended, or suggested in labeling with respect to such drug on that day.
 
-“(4) Regulations providing for fees (and advance deposits to cover fees) which on the day preceding the effective date applicable under subsection (a) of this section were in effect pursuant to section 507 of the basic Act [section 357 of this title] shall, except as the Secretary may otherwise prescribe, be deemed to apply also under section 512(n) of the basic Act [subsection (n) of this section], and appropriations of fees (and of advance deposits to cover fees) available for the purposes specified in such section 507 [section 357 of this title] as in effect prior to the effective date shall also be available for the purposes specified in section 512(n) [subsection (n) of this section], including preparatory work or proceedings prior to that date.”
+"(4) Regulations providing for fees (and advance deposits to cover fees) which on the day preceding the effective date applicable under subsection (a) of this section were in effect pursuant to section 507 of the basic Act [section 357 of this title] shall, except as the Secretary may otherwise prescribe, be deemed to apply also under section 512(n) of the basic Act [subsection (n) of this section], and appropriations of fees (and of advance deposits to cover fees) available for the purposes specified in such section 507 [section 357 of this title] as in effect prior to the effective date shall also be available for the purposes specified in section 512(n) [subsection (n) of this section], including preparatory work or proceedings prior to that date."
 
 #### Regulations ####
 
 Pub. L. 104–250, §2(e), Oct. 9, 1996, 110 Stat. 3154, provided that:
 
-“(1) In general.—Not later than 6 months after the date of enactment of this Act [Oct. 9, 1996], the Secretary of Health and Human Services shall issue proposed regulations implementing the amendments made by this Act as described in paragraph (2)(A) of this subsection, and not later than 18 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing such amendments. Not later than 12 months after the date of enactment of this Act, the Secretary shall issue proposed regulations implementing the other amendments made by this Act as described in paragraphs (2)(B) and (2)(C) of this subsection, and not later than 24 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing such amendments.
+"(1) In general.—Not later than 6 months after the date of enactment of this Act [Oct. 9, 1996], the Secretary of Health and Human Services shall issue proposed regulations implementing the amendments made by this Act as described in paragraph (2)(A) of this subsection, and not later than 18 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing such amendments. Not later than 12 months after the date of enactment of this Act, the Secretary shall issue proposed regulations implementing the other amendments made by this Act as described in paragraphs (2)(B) and (2)(C) of this subsection, and not later than 24 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing such amendments.
 
-“(2) Contents.—In issuing regulations implementing the amendments made by this Act [see Short Title of 1996 Amendments note set out under section 301 of this title], and in taking an action to review an application for approval of a new animal drug under section 512 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360b), or a request for an investigational exemption for a new animal drug under subsection (j) of such section, that is pending or has been submitted prior to the effective date of the regulations, the Secretary shall—
+"(2) Contents.—In issuing regulations implementing the amendments made by this Act [see Short Title of 1996 Amendments note set out under section 301 of this title], and in taking an action to review an application for approval of a new animal drug under section 512 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360b), or a request for an investigational exemption for a new animal drug under subsection (j) of such section, that is pending or has been submitted prior to the effective date of the regulations, the Secretary shall—
 
-“(A) further define the term ‘adequate and well controlled’, as used in subsection (d)(3) of section 512 of such Act, to require that field investigations be designed and conducted in a scientifically sound manner, taking into account practical conditions in the field and differences between field conditions and laboratory conditions;
+"(A) further define the term 'adequate and well controlled', as used in subsection (d)(3) of section 512 of such Act, to require that field investigations be designed and conducted in a scientifically sound manner, taking into account practical conditions in the field and differences between field conditions and laboratory conditions;
 
-“(B) further define the term ‘substantial evidence’, as defined in subsection (d)(3) of such section, in a manner that encourages the submission of applications and supplemental applications; and
+"(B) further define the term 'substantial evidence', as defined in subsection (d)(3) of such section, in a manner that encourages the submission of applications and supplemental applications; and
 
-“(C) take into account the proposals contained in the citizen petition (FDA Docket No. 91P–0434/CP) jointly submitted by the American Veterinary Medical Association and the Animal Health Institute, dated October 21, 1991.
+"(C) take into account the proposals contained in the citizen petition (FDA Docket No. 91P–0434/CP) jointly submitted by the American Veterinary Medical Association and the Animal Health Institute, dated October 21, 1991.
 
-Until the regulations required by subparagraph (A) are issued, nothing in the regulations published at 21 C.F.R. 514.111(a)(5) (April 1, 1996) shall be construed to compel the Secretary of Health and Human Services to require a field investigation under section 512(d)(1)(E) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360b(d)(1)(E)) or to apply any of its provisions in a manner inconsistent with the considerations for scientifically sound field investigations set forth in subparagraph (A).”
+Until the regulations required by subparagraph (A) are issued, nothing in the regulations published at 21 C.F.R. 514.111(a)(5) (April 1, 1996) shall be construed to compel the Secretary of Health and Human Services to require a field investigation under section 512(d)(1)(E) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360b(d)(1)(E)) or to apply any of its provisions in a manner inconsistent with the considerations for scientifically sound field investigations set forth in subparagraph (A)."
 
-Pub. L. 103–396, §2(c), Oct. 22, 1994, 108 Stat. 4154, provided that: “Not later than 2 years after the date of the enactment of this Act [Oct. 22, 1994], the Secretary of Health and Human Services shall promulgate regulations to implement paragraphs (4)(A) and (5) of section 512(a) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360b(a)(4)(A), (5)] (as amended by subsection (a)).”
+Pub. L. 103–396, §2(c), Oct. 22, 1994, 108 Stat. 4154, provided that: "Not later than 2 years after the date of the enactment of this Act [Oct. 22, 1994], the Secretary of Health and Human Services shall promulgate regulations to implement paragraphs (4)(A) and (5) of section 512(a) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360b(a)(4)(A), (5)] (as amended by subsection (a))."
 
 Pub. L. 100–670, title I, §103, Nov. 16, 1988, 102 Stat. 3982, provided that:
 
-“(a) General Rule.—The Secretary of Health and Human Services shall promulgate, in accordance with the notice and comment requirements of section 553 of title 5, United States Code, such regulations as may be necessary for the administration of section 512 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360b], as amended by sections 101 through 103 of this title, within one year of the date of enactment of this Act [Nov. 16, 1988].
+"(a) General Rule.—The Secretary of Health and Human Services shall promulgate, in accordance with the notice and comment requirements of section 553 of title 5, United States Code, such regulations as may be necessary for the administration of section 512 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360b], as amended by sections 101 through 103 of this title, within one year of the date of enactment of this Act [Nov. 16, 1988].
 
-“(b) Transition.—During the period beginning 60 days after the date of enactment of this Act [Nov. 16, 1988] and ending on the date regulations promulgated under subsection (a) take effect, abbreviated new animal drug applications may be submitted in accordance with the provisions of section 314.55 and part 320 of title 21 of the Code of Federal Regulations and shall be considered as suitable for any drug which has been approved for safety and effectiveness under section 512(c) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360b(c)] before the date of enactment of this Act. If any such provision of section 314.55 or part 320 is inconsistent with the requirements of section 512 of the Federal Food, Drug, and Cosmetic Act (as amended by this title), the Secretary shall consider the application under the applicable requirements of section 512 (as so amended).”
+"(b) Transition.—During the period beginning 60 days after the date of enactment of this Act [Nov. 16, 1988] and ending on the date regulations promulgated under subsection (a) take effect, abbreviated new animal drug applications may be submitted in accordance with the provisions of section 314.55 and part 320 of title 21 of the Code of Federal Regulations and shall be considered as suitable for any drug which has been approved for safety and effectiveness under section 512(c) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360b(c)] before the date of enactment of this Act. If any such provision of section 314.55 or part 320 is inconsistent with the requirements of section 512 of the Federal Food, Drug, and Cosmetic Act (as amended by this title), the Secretary shall consider the application under the applicable requirements of section 512 (as so amended)."
 
 #### Antimicrobial Animal Drug Distribution Reports ####
 
 Pub. L. 110–316, title I, §105(b), (c), Aug. 14, 2008, 122 Stat. 3514, provided that:
 
-“(b) First Report.—For each new animal drug that is subject to the reporting requirement under section 512(l)(3) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360b(l)(3)], as added by subsection (a), and for which an approval of an application filed pursuant to section 512(b) or 571 of such Act [21 U.S.C. 360b(b), 360ccc] is in effect on the date of the enactment of this title [Aug. 14, 2008], the Secretary of Health and Human Services shall require the sponsor of the drug to submit the first report under such section 512(l)(3) for the drug not later than March 31, 2010.
+"(b) First Report.—For each new animal drug that is subject to the reporting requirement under section 512(l)(3) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360b(l)(3)], as added by subsection (a), and for which an approval of an application filed pursuant to section 512(b) or 571 of such Act [21 U.S.C. 360b(b), 360ccc] is in effect on the date of the enactment of this title [Aug. 14, 2008], the Secretary of Health and Human Services shall require the sponsor of the drug to submit the first report under such section 512(l)(3) for the drug not later than March 31, 2010.
 
-“(c) Separate Report.—The reports required under section 512(l)(3) of the Federal Food, Drug, and Cosmetic Act, as added by subsection (a), shall be separate from periodic drug experience reports that are required under section 514.80(b)(4) of title 21, Code of Federal Regulations (as in effect on the date of the enactment of this title).”
+"(c) Separate Report.—The reports required under section 512(l)(3) of the Federal Food, Drug, and Cosmetic Act, as added by subsection (a), shall be separate from periodic drug experience reports that are required under section 514.80(b)(4) of title 21, Code of Federal Regulations (as in effect on the date of the enactment of this title)."
 
 #### Drugs Intended for Minor Species and Minor Uses ####
 
-Pub. L. 104–250, §2(f), Oct. 9, 1996, 110 Stat. 3154, provided that: “The Secretary of Health and Human Services shall consider legislative and regulatory options for facilitating the approval under section 512 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360b] of animal drugs intended for minor species and for minor uses and, within 18 months after the date of enactment of this Act [Oct. 9, 1996], announce proposals for legislative or regulatory change to the approval process under such section for animal drugs intended for use in minor species or for minor uses.”
+Pub. L. 104–250, §2(f), Oct. 9, 1996, 110 Stat. 3154, provided that: "The Secretary of Health and Human Services shall consider legislative and regulatory options for facilitating the approval under section 512 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360b] of animal drugs intended for minor species and for minor uses and, within 18 months after the date of enactment of this Act [Oct. 9, 1996], announce proposals for legislative or regulatory change to the approval process under such section for animal drugs intended for use in minor species or for minor uses."
 
 #### Transitional Provision Regarding Implementation of Pub. L. 104–250; Approved Medicated Feed Application Deemed License ####
 
-Pub. L. 104–250, §6(c), Oct. 9, 1996, 110 Stat. 3160, provided that: “A person engaged in the manufacture of animal feeds bearing or containing new animal drugs who holds at least one approved medicated feed application for an animal feed bearing or containing new animal drugs, the manufacture of which was not otherwise exempt from the requirement for an approved medicated feed application on the date of the enactment of this Act [Oct. 9, 1996], shall be deemed to hold a license for the manufacturing site identified in the approved medicated feed application. The revocation of license provisions of section 512(m)(4) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360b(m)(4)], as amended by this Act, shall apply to such licenses. Such license shall expire within 18 months from the date of enactment of this Act unless the person submits to the Secretary a completed license application for the manufacturing site accompanied by a copy of an approved medicated feed application for such site, which license application shall be deemed to be approved upon receipt by the Secretary.”
+Pub. L. 104–250, §6(c), Oct. 9, 1996, 110 Stat. 3160, provided that: "A person engaged in the manufacture of animal feeds bearing or containing new animal drugs who holds at least one approved medicated feed application for an animal feed bearing or containing new animal drugs, the manufacture of which was not otherwise exempt from the requirement for an approved medicated feed application on the date of the enactment of this Act [Oct. 9, 1996], shall be deemed to hold a license for the manufacturing site identified in the approved medicated feed application. The revocation of license provisions of section 512(m)(4) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360b(m)(4)], as amended by this Act, shall apply to such licenses. Such license shall expire within 18 months from the date of enactment of this Act unless the person submits to the Secretary a completed license application for the manufacturing site accompanied by a copy of an approved medicated feed application for such site, which license application shall be deemed to be approved upon receipt by the Secretary."
 
 #### Drugs Primarily Manufactured Using Biotechnology ####
 
-Pub. L. 100–670, title I, §106, Nov. 16, 1988, 102 Stat. 3984, provided that: “Notwithstanding section 512(b)(2) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360b(b)(2)], the Secretary of Health and Human Services may not approve an abbreviated application submitted under such section for a new animal drug which is primarily manufactured using recombinant DNA, recombinant RNA, hybridoma technology, or other processes involving site specific genetic manipulation techniques.”
+Pub. L. 100–670, title I, §106, Nov. 16, 1988, 102 Stat. 3984, provided that: "Notwithstanding section 512(b)(2) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360b(b)(2)], the Secretary of Health and Human Services may not approve an abbreviated application submitted under such section for a new animal drug which is primarily manufactured using recombinant DNA, recombinant RNA, hybridoma technology, or other processes involving site specific genetic manipulation techniques."
 
 [<sup>1</sup> See References in Text note below.](#360b_1)
 
-[<sup>2</sup> So in original. Probably should be “Alimentarius”.](#360b_2)
+[<sup>2</sup> So in original. Probably should be "Alimentarius".](#360b_2)
 
-[<sup>3</sup> So in original. Probably should be “clause (iii)(III)”.](#360b_3)
+[<sup>3</sup> So in original. Probably should be "clause (iii)(III)".](#360b_3)

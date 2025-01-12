@@ -2,7 +2,7 @@
 
 #### (1) Issuance by Secretary ####
 
-The Secretary of Agriculture shall, subject to the provisions of this section, issue, and from time to time amend, orders applicable to processors, associations of producers, and others engaged in the handling of any agricultural commodity or product thereof specified in subsection (2) of this section. Such persons are referred to in this chapter as “handlers”. Such orders shall regulate, in the manner hereinafter in this section provided, only such handling of such agricultural commodity, or product thereof, as is in the current of interstate or foreign commerce, or which directly burdens, obstructs, or affects, interstate or foreign commerce in such commodity or product thereof. In carrying out this section, the Secretary shall complete all informal rulemaking actions necessary to respond to recommendations submitted by administrative committees for such orders as expeditiously as possible, but not more than 45 days (to the extent practicable) after submission of the committee recommendations. The Secretary is authorized to implement a producer allotment program and a handler withholding program under the cranberry marketing order in the same crop year through informal rulemaking based on a recommendation and supporting economic analysis submitted by the Cranberry Marketing Committee. Such recommendation and analysis shall be submitted by the Committee no later than March 1 of each year. The Secretary shall establish time frames for each office and agency within the Department of Agriculture to consider the committee recommendations.
+The Secretary of Agriculture shall, subject to the provisions of this section, issue, and from time to time amend, orders applicable to processors, associations of producers, and others engaged in the handling of any agricultural commodity or product thereof specified in subsection (2) of this section. Such persons are referred to in this chapter as "handlers". Such orders shall regulate, in the manner hereinafter in this section provided, only such handling of such agricultural commodity, or product thereof, as is in the current of interstate or foreign commerce, or which directly burdens, obstructs, or affects, interstate or foreign commerce in such commodity or product thereof. In carrying out this section, the Secretary shall complete all informal rulemaking actions necessary to respond to recommendations submitted by administrative committees for such orders as expeditiously as possible, but not more than 45 days (to the extent practicable) after submission of the committee recommendations. The Secretary is authorized to implement a producer allotment program and a handler withholding program under the cranberry marketing order in the same crop year through informal rulemaking based on a recommendation and supporting economic analysis submitted by the Cranberry Marketing Committee. Such recommendation and analysis shall be submitted by the Committee no later than March 1 of each year. The Secretary shall establish time frames for each office and agency within the Department of Agriculture to consider the committee recommendations.
 
 #### (2) Commodities to which applicable ####
 
@@ -232,7 +232,7 @@ subject, in either case, only to adjustments for (a) volume, market, and product
 
 (H) Omitted
 
-(I) Establishing or providing for the establishment of research and development projects, and advertising (excluding brand advertising), sales promotion, educational, and other programs designed to improve or promote the domestic marketing and consumption of milk and its products, to be financed by producers in a manner and at a rate specified in the order, on all producer milk under the order. Producer contributions under this subparagraph <sup><a href="#608c_4_target" name="608c_4">4</a></sup> may be deducted from funds due producers in computing total pool value or otherwise computing total funds due producers and such deductions shall be in addition to the adjustments authorized by paragraph (B) of this subsection. Provision may be made in the order to exempt, or allow suitable adjustments or credits in connection with, milk on which a mandatory checkoff for advertising or marketing research is required under the authority of any State law. Such funds shall be paid to an agency organized by milk producers and producers’ cooperative associations in such form and with such methods of operation as shall be specified in the order. Such agency may expend such funds for any of the purposes authorized by this subparagraph <sup><a href="#608c_4_target" name="608c_4">4</a></sup> and may designate, employ, and allocate funds to persons and organizations engaged in such programs which meet the standards and qualifications specified in the order. All funds collected under this subparagraph <sup><a href="#608c_4_target" name="608c_4">4</a></sup> shall be separately accounted for and shall be used only for the purposes for which they were collected. Programs authorized by this subparagraph <sup><a href="#608c_4_target" name="608c_4">4</a></sup> may be either local or national in scope, or both, as provided in the order, but shall not be international. Order provisions under this subparagraph <sup><a href="#608c_4_target" name="608c_4">4</a></sup> shall not become effective in any marketing order unless such provisions are approved by producers separately from other order provisions, in the same manner provided for the approval of marketing orders, and may be terminated separately whenever the Secretary makes a determination with respect to such provisions as is provided for the termination of an order in subsection (16)(B) of this section. Disapproval or termination of such order provisions shall not be considered disapproval of the order or of other terms of the order. Notwithstanding any other provision of this chapter, any producer against whose marketings any assessment is withheld or collected under the authority of this subparagraph,<sup><a href="#608c_4_target" name="608c_4">4</a></sup> and who is not in favor of supporting the research and promotion programs, as provided for herein, shall have the right to demand and receive a refund of such assessment pursuant to the terms and conditions specified in the order.
+(I) Establishing or providing for the establishment of research and development projects, and advertising (excluding brand advertising), sales promotion, educational, and other programs designed to improve or promote the domestic marketing and consumption of milk and its products, to be financed by producers in a manner and at a rate specified in the order, on all producer milk under the order. Producer contributions under this subparagraph <sup><a href="#608c_4_target" name="608c_4">4</a></sup> may be deducted from funds due producers in computing total pool value or otherwise computing total funds due producers and such deductions shall be in addition to the adjustments authorized by paragraph (B) of this subsection. Provision may be made in the order to exempt, or allow suitable adjustments or credits in connection with, milk on which a mandatory checkoff for advertising or marketing research is required under the authority of any State law. Such funds shall be paid to an agency organized by milk producers and producers' cooperative associations in such form and with such methods of operation as shall be specified in the order. Such agency may expend such funds for any of the purposes authorized by this subparagraph <sup><a href="#608c_4_target" name="608c_4">4</a></sup> and may designate, employ, and allocate funds to persons and organizations engaged in such programs which meet the standards and qualifications specified in the order. All funds collected under this subparagraph <sup><a href="#608c_4_target" name="608c_4">4</a></sup> shall be separately accounted for and shall be used only for the purposes for which they were collected. Programs authorized by this subparagraph <sup><a href="#608c_4_target" name="608c_4">4</a></sup> may be either local or national in scope, or both, as provided in the order, but shall not be international. Order provisions under this subparagraph <sup><a href="#608c_4_target" name="608c_4">4</a></sup> shall not become effective in any marketing order unless such provisions are approved by producers separately from other order provisions, in the same manner provided for the approval of marketing orders, and may be terminated separately whenever the Secretary makes a determination with respect to such provisions as is provided for the termination of an order in subsection (16)(B) of this section. Disapproval or termination of such order provisions shall not be considered disapproval of the order or of other terms of the order. Notwithstanding any other provision of this chapter, any producer against whose marketings any assessment is withheld or collected under the authority of this subparagraph,<sup><a href="#608c_4_target" name="608c_4">4</a></sup> and who is not in favor of supporting the research and promotion programs, as provided for herein, shall have the right to demand and receive a refund of such assessment pursuant to the terms and conditions specified in the order.
 
 (J) Providing for the payment, from the total sums payable by all handlers for milk (irrespective of the use classification of such milk) and before computing uniform prices under paragraph (A) and making adjustments in payments under paragraph (C), to handlers that are cooperative marketing associations described in paragraph (F) and to handlers with respect to which adjustments in payments are made under paragraph (C), for services of marketwide benefit, including but not limited to—
 
@@ -248,7 +248,7 @@ subject, in either case, only to adjustments for (a) volume, market, and product
 
 (II) financed by or with the use of bonds the interest on which is exempt from Federal income tax under section 103 of title 26;
 
-shall be treated as other-source milk, and shall be allocated as milk received from producer-handlers for the purposes of classifying producer milk, under the milk marketing program established under this chapter. For the purposes of this subparagraph,<sup><a href="#608c_4_target" name="608c_4">4</a></sup> the term “foreign person” has the meaning given such term under section 3508(3) of this title.
+shall be treated as other-source milk, and shall be allocated as milk received from producer-handlers for the purposes of classifying producer milk, under the milk marketing program established under this chapter. For the purposes of this subparagraph,<sup><a href="#608c_4_target" name="608c_4">4</a></sup> the term "foreign person" has the meaning given such term under section 3508(3) of this title.
 
 (ii) The Secretary of Agriculture shall prescribe regulations to carry out this subparagraph.<sup><a href="#608c_4_target" name="608c_4">4</a></sup>
 
@@ -512,51 +512,51 @@ Subsec. 5(B)(e), which permitted a provision for the accumulation and disburseme
 
 Subsec. (5)(H), which permitted marketing orders applicable to milk and its products to be limited in application to milk used for manufacturing, was omitted as terminated. See Termination of 1965 Amendment note set out below.
 
-Phrase “, with the approval of the President,” following “Secretary of Agriculture” in introductory provisions of subsec. (9) of this section, was omitted on the authority of section 102 of 1947 Reorg. Plan No. 1, set out in the Appendix to Title 5, Government Organization and Employees, which abolished the function of the President with respect to approving determinations of the Secretary of Agriculture in connection with agricultural marketing orders under this section.
+Phrase ", with the approval of the President," following "Secretary of Agriculture" in introductory provisions of subsec. (9) of this section, was omitted on the authority of section 102 of 1947 Reorg. Plan No. 1, set out in the Appendix to Title 5, Government Organization and Employees, which abolished the function of the President with respect to approving determinations of the Secretary of Agriculture in connection with agricultural marketing orders under this section.
 
-The words “(including the district court of the United States for the District of Columbia)” in subsec. (15)(B) following “The District Courts of the United States” have been deleted as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure which states that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district.”, and section 88 of said Title 28 which states in part that “The District of Columbia constitutes one judicial district.”
+The words "(including the district court of the United States for the District of Columbia)" in subsec. (15)(B) following "The District Courts of the United States" have been deleted as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure which states that "There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district.", and section 88 of said Title 28 which states in part that "The District of Columbia constitutes one judicial district."
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments ####
 
-**2008**—Subsec. (17). Pub. L. 110–246, §1504, added subsec. (17) and struck out former subsec. (17). Prior to amendment, text read as follows: “The provisions of this section, section 608d of this title, applicable to orders shall be applicable to amendments to orders: *Provided*, That notice of a hearing upon a proposed amendment to any order issued pursuant to this section, given not less than three days prior to the date fixed for such hearing, shall be deemed due notice thereof.”
+**2008**—Subsec. (17). Pub. L. 110–246, §1504, added subsec. (17) and struck out former subsec. (17). Prior to amendment, text read as follows: "The provisions of this section, section 608d of this title, applicable to orders shall be applicable to amendments to orders: *Provided*, That notice of a hearing upon a proposed amendment to any order issued pursuant to this section, given not less than three days prior to the date fixed for such hearing, shall be deemed due notice thereof."
 
 **2006**—Subsec. (5)(M) to (O). Pub. L. 109–215, §2(a), added pars. (M) to (O).
 
-Subsec. (11). Pub. L. 109–215, §2(b)(1), which directed striking out last sentence in subpar. (C), was executed by striking out concluding provisions “The price of milk paid by a handler at a plant operating in Clark County, Nevada shall not be subject to any order issued under this section.” which followed subpar. (C) to reflect the probable intent of Congress.
+Subsec. (11). Pub. L. 109–215, §2(b)(1), which directed striking out last sentence in subpar. (C), was executed by striking out concluding provisions "The price of milk paid by a handler at a plant operating in Clark County, Nevada shall not be subject to any order issued under this section." which followed subpar. (C) to reflect the probable intent of Congress.
 
 Subsec. (11)(D). Pub. L. 109–215, §2(b)(2), added par. (D).
 
-**2004**—Subsec. (7)(C). Pub. L. 108–379, in concluding provisions, struck out “or pears” after “grapefruit” and “: *Provided*, That in a marketing order applicable to pears for canning or freezing the representation of processors and producers on such agency shall be equal” before period at end.
+**2004**—Subsec. (7)(C). Pub. L. 108–379, in concluding provisions, struck out "or pears" after "grapefruit" and ": *Provided*, That in a marketing order applicable to pears for canning or freezing the representation of processors and producers on such agency shall be equal" before period at end.
 
-**2002**—Subsec. (2)(A). Pub. L. 107–171, §10601(a)(1), inserted “caneberries (including raspberries, blackberries, and loganberries),” after “other than pears, olives, grapefruit, cherries,”.
+**2002**—Subsec. (2)(A). Pub. L. 107–171, §10601(a)(1), inserted "caneberries (including raspberries, blackberries, and loganberries)," after "other than pears, olives, grapefruit, cherries,".
 
-Subsec. (6)(I). Pub. L. 107–171, §10601(a)(2), substituted “tomatoes, caneberries (including raspberries, blackberries, and loganberries),” for “tomatoes,,” in first proviso.
+Subsec. (6)(I). Pub. L. 107–171, §10601(a)(2), substituted "tomatoes, caneberries (including raspberries, blackberries, and loganberries)," for "tomatoes,," in first proviso.
 
-**2001**—Subsec. (1). Pub. L. 107–76, which directed insertion of “The Secretary is authorized to implement a producer allotment program and a handler withholding program under the cranberry marketing order in the same crop year through informal rulemaking based on a recommendation and supporting economic analysis submitted by the Cranberry Marketing Committee. Such recommendation and analysis shall be submitted by the Committee no later than March 1 of each year.” at end of penultimate sentence of section 8c(1) of the Agricultural Marketing Agreement Act of 1937, was executed to this section, which is section 8c(1) of the Agricultural Adjustment Act, to reflect the probable intent of Congress.
+**2001**—Subsec. (1). Pub. L. 107–76, which directed insertion of "The Secretary is authorized to implement a producer allotment program and a handler withholding program under the cranberry marketing order in the same crop year through informal rulemaking based on a recommendation and supporting economic analysis submitted by the Cranberry Marketing Committee. Such recommendation and analysis shall be submitted by the Committee no later than March 1 of each year." at end of penultimate sentence of section 8c(1) of the Agricultural Marketing Agreement Act of 1937, was executed to this section, which is section 8c(1) of the Agricultural Adjustment Act, to reflect the probable intent of Congress.
 
-**1999**—Subsec. (6)(I). Pub. L. 106–78, §757(a)(2), substituted “Florida Indian River grapefruit, and cranberries” for “and Florida Indian River grapefruit” in first proviso.
+**1999**—Subsec. (6)(I). Pub. L. 106–78, §757(a)(2), substituted "Florida Indian River grapefruit, and cranberries" for "and Florida Indian River grapefruit" in first proviso.
 
-Pub. L. 106–78, §757(a)(1), which directed substitution of “, Florida grown strawberries, or cranberries” for “or Florida grown strawberries” in first proviso, was executed by making the substitution for “or Florida-grown strawberries” to reflect the probable intent of Congress.
+Pub. L. 106–78, §757(a)(1), which directed substitution of ", Florida grown strawberries, or cranberries" for "or Florida grown strawberries" in first proviso, was executed by making the substitution for "or Florida-grown strawberries" to reflect the probable intent of Congress.
 
-Subsec. (11). Pub. L. 106–78, §760, inserted at end “The price of milk paid by a handler at a plant operating in Clark County, Nevada shall not be subject to any order issued under this section.”
+Subsec. (11). Pub. L. 106–78, §760, inserted at end "The price of milk paid by a handler at a plant operating in Clark County, Nevada shall not be subject to any order issued under this section."
 
-**1992**—Subsec. (1). Pub. L. 102–553 inserted at end “In carrying out this section, the Secretary shall complete all informal rulemaking actions necessary to respond to recommendations submitted by administrative committees for such orders as expeditiously as possible, but not more than 45 days (to the extent practicable) after submission of the committee recommendations. The Secretary shall establish time frames for each office and agency within the Department of Agriculture to consider the committee recommendations.”
+**1992**—Subsec. (1). Pub. L. 102–553 inserted at end "In carrying out this section, the Secretary shall complete all informal rulemaking actions necessary to respond to recommendations submitted by administrative committees for such orders as expeditiously as possible, but not more than 45 days (to the extent practicable) after submission of the committee recommendations. The Secretary shall establish time frames for each office and agency within the Department of Agriculture to consider the committee recommendations."
 
-**1991**—Subsec. (5)(B). Pub. L. 102–237 substituted “, and” for “and,” before cl. (f).
+**1991**—Subsec. (5)(B). Pub. L. 102–237 substituted ", and" for "and," before cl. (f).
 
 **1990**—Subsec. (5)(B)(f). Pub. L. 101–624, §112, added cl. (f).
 
 Subsec. (5)(L). Pub. L. 101–624, §113, added par. (L).
 
-Subsec. (14)(A). Pub. L. 101–624, §1306(1), struck out “(other than a provision calling for payment of a pro rata share of expenses)” before “shall, on conviction” and substituted “. If” for “: *Provided*, That if”.
+Subsec. (14)(A). Pub. L. 101–624, §1306(1), struck out "(other than a provision calling for payment of a pro rata share of expenses)" before "shall, on conviction" and substituted ". If" for ": *Provided*, That if".
 
-Subsec. (14)(B). Pub. L. 101–624, §1306(2), struck out “(other than a provision calling for payment of a pro rata share of expenses)” before “may be assessed”.
+Subsec. (14)(B). Pub. L. 101–624, §1306(2), struck out "(other than a provision calling for payment of a pro rata share of expenses)" before "may be assessed".
 
 **1988**—Subsec. (5)(K). Pub. L. 100–418, §4601, added par. (K).
 
-Subsec. (6)(I). Pub. L. 100–418, §4602, substituted “tomatoes, or Florida-grown strawberries,” for “or tomatoes” in first proviso.
+Subsec. (6)(I). Pub. L. 100–418, §4602, substituted "tomatoes, or Florida-grown strawberries," for "or tomatoes" in first proviso.
 
 **1987**—Subsec. (14). Pub. L. 100–203 designated existing provisions as par. (A) and added par. (B).
 
@@ -564,85 +564,85 @@ Subsec. (6)(I). Pub. L. 100–418, §4602, substituted “tomatoes, or Florida-g
 
 Subsec. (5)(J). Pub. L. 99–198, §133, added par. (J).
 
-Subsec. (14). Pub. L. 99–198, §1661(a), substituted “$5,000” for “$500”.
+Subsec. (14). Pub. L. 99–198, §1661(a), substituted "$5,000" for "$500".
 
-Subsec. (16)(A). Pub. L. 99–198, §1662(a)(1), designated existing provisions of par. (A) as cl. (i), substituted “Except as provided in clause (ii), the Secretary” for “The Secretary”, and added cl. (ii).
+Subsec. (16)(A). Pub. L. 99–198, §1662(a)(1), designated existing provisions of par. (A) as cl. (i), substituted "Except as provided in clause (ii), the Secretary" for "The Secretary", and added cl. (ii).
 
-Subsec. (16)(C). Pub. L. 99–198, §1662(a)(2), substituted “Except as otherwise provided in this subsection with respect to the termination of an order issued under this section, the termination” for “The termination”.
+Subsec. (16)(C). Pub. L. 99–198, §1662(a)(2), substituted "Except as otherwise provided in this subsection with respect to the termination of an order issued under this section, the termination" for "The termination".
 
-**1983**—Subsec. (2)(B). Pub. L. 98–180, §304(1), substituted “poultry (but not excepting turkeys and not excepting poultry which produce commercial eggs),” for “poultry (but not excepting turkeys), eggs (but not excepting turkey hatching eggs),”.
+**1983**—Subsec. (2)(B). Pub. L. 98–180, §304(1), substituted "poultry (but not excepting turkeys and not excepting poultry which produce commercial eggs)," for "poultry (but not excepting turkeys), eggs (but not excepting turkey hatching eggs),".
 
-Subsec. (6)(I). Pub. L. 98–180, §304(2), inserted “eggs,” after “pecans,” in first proviso.
+Subsec. (6)(I). Pub. L. 98–180, §304(2), inserted "eggs," after "pecans," in first proviso.
 
-Pub. L. 98–171 inserted, in first proviso, “filberts (otherwise known as hazelnuts),” after “almonds,” in two places.
+Pub. L. 98–171 inserted, in first proviso, "filberts (otherwise known as hazelnuts)," after "almonds," in two places.
 
-**1981**—Subsec. (5)(B). Pub. L. 97–98, §101(a)(1), temporarily added cls. (d) and (e) and struck out former cl. (d) which read as follows: “a further adjustment, equitably to apportion the total value of the milk purchased by any handler, or by all handlers, among producers and associations of producers, on the basis of their marketings of milk during a representative period of time.” See Effective and Termination Dates of 1981 Amendment note below.
+**1981**—Subsec. (5)(B). Pub. L. 97–98, §101(a)(1), temporarily added cls. (d) and (e) and struck out former cl. (d) which read as follows: "a further adjustment, equitably to apportion the total value of the milk purchased by any handler, or by all handlers, among producers and associations of producers, on the basis of their marketings of milk during a representative period of time." See Effective and Termination Dates of 1981 Amendment note below.
 
 Subsec. (17). Pub. L. 97–98, §101(a)(2), temporarily struck out period at end and added second proviso related to provisions governing procedures when one-third or more of producers apply in writing for a hearing on a proposed amendment of an order, prohibiting any construction of subsec. (12) in a way which might permit cooperatives to act for their members in applying for hearings, and excusing the Secretary from the requirement of having to call a hearing on proposed amendments to an order in response to an application for such a hearing when the application for such a hearing is received by the Secretary within ninety days after the date on which the Secretary has announced his decision on a previously proposed amendment to such order and the two proposed amendments are essentially the same. See Effective and Termination Dates of 1981 Amendment note below. A substantially identical amendment was temporarily made by Pub. L. 91–524, §201(f)(1), as added by Pub. L. 93–86, see 1970 Amendment note and Termination of 1970 Amendment note below.
 
-Subsec. (18). Pub. L. 97–98, §101(a)(3), temporarily inserted “to meet current needs and further to assure a level of farm income adequate to maintain productive capacity sufficient to meet anticipated future needs” after “pure and wholesome milk”. See Effective and Termination Dates of 1981 Amendment note below. An identical amendment was temporarily made by Pub. L. 91–524, §201(f)(2), as added by Pub. L. 93–86, see 1970 Amendment note and Termination of 1970 Amendment note below.
+Subsec. (18). Pub. L. 97–98, §101(a)(3), temporarily inserted "to meet current needs and further to assure a level of farm income adequate to maintain productive capacity sufficient to meet anticipated future needs" after "pure and wholesome milk". See Effective and Termination Dates of 1981 Amendment note below. An identical amendment was temporarily made by Pub. L. 91–524, §201(f)(2), as added by Pub. L. 93–86, see 1970 Amendment note and Termination of 1970 Amendment note below.
 
-**1980**—Subsec. (6)(I). Pub. L. 96–494 inserted, in first proviso, “walnuts,” before “or tomatoes” and “walnuts, olives,” before “and Florida Indian River grapefruit”.
+**1980**—Subsec. (6)(I). Pub. L. 96–494 inserted, in first proviso, "walnuts," before "or tomatoes" and "walnuts, olives," before "and Florida Indian River grapefruit".
 
-**1978**—Subsec. (6)(I). Pub. L. 95–279 inserted, in first proviso, “raisins,” after “apples,” and “, raisins,” after “with respect to almonds”.
+**1978**—Subsec. (6)(I). Pub. L. 95–279 inserted, in first proviso, "raisins," after "apples," and ", raisins," after "with respect to almonds".
 
-**1973**—Subsec. (6)(I). Pub. L. 93–230 inserted “and Florida Indian River grapefruit” after “with respect to almonds” in first proviso.
+**1973**—Subsec. (6)(I). Pub. L. 93–230 inserted "and Florida Indian River grapefruit" after "with respect to almonds" in first proviso.
 
 Subsec. (17). Pub. L. 93–86 added Pub. L. 91–524, §201(f)(1). See 1970 Amendment note below.
 
 Subsec. (18). Pub. L. 93–86 added Pub. L. 91–524, §201(f)(2). See 1970 Amendment note below.
 
-**1972**—Subsec. (2)(A). Pub. L. 92–466, §1(1), inserted “pears,” after “canned or frozen” the first time appearing and before “olives,”.
+**1972**—Subsec. (2)(A). Pub. L. 92–466, §1(1), inserted "pears," after "canned or frozen" the first time appearing and before "olives,".
 
-Pub. L. 92–233, §1(1), inserted “and not including potatoes for canning, freezing, or other processing” after “vegetables (not including vegetables, other than asparagus, for canning or freezing”. The amendment served to make permanent the temporary exemption first inserted by Pub. L. 91–196, §1(1). See 1970 Amendment note and Effective Date of 1970 Amendment note below.
+Pub. L. 92–233, §1(1), inserted "and not including potatoes for canning, freezing, or other processing" after "vegetables (not including vegetables, other than asparagus, for canning or freezing". The amendment served to make permanent the temporary exemption first inserted by Pub. L. 91–196, §1(1). See 1970 Amendment note and Effective Date of 1970 Amendment note below.
 
-Subsec. (2)(B). Pub. L. 92–233, §1(2), inserted “including potatoes for canning, freezing, or other processing” after “fruits and vegetables for canning or freezing,”. The amendment served to make permanent the temporary exemption first inserted by Pub. L. 91–196, §1(2). See 1970 Amendment note and Effective Date of 1970 Amendment note below.
+Subsec. (2)(B). Pub. L. 92–233, §1(2), inserted "including potatoes for canning, freezing, or other processing" after "fruits and vegetables for canning or freezing,". The amendment served to make permanent the temporary exemption first inserted by Pub. L. 91–196, §1(2). See 1970 Amendment note and Effective Date of 1970 Amendment note below.
 
-Subsec. (6)(I). Pub. L. 92–466, §1(2), in first proviso, struck out “fresh” before “pears” and inserted at end “and when the handling of any commodity for canning or freezing is regulated, then any such projects may also deal with the commodity or its products in canned or frozen form”.
+Subsec. (6)(I). Pub. L. 92–466, §1(2), in first proviso, struck out "fresh" before "pears" and inserted at end "and when the handling of any commodity for canning or freezing is regulated, then any such projects may also deal with the commodity or its products in canned or frozen form".
 
 Subsec. (6)(J). Pub. L. 92–466, §1(5), added par. (J).
 
-Subsec. (7)(C). Pub. L. 92–466, §1(3), inserted “or pears” after “a marketing order applicable to grapefruit”, struck out period at end, and inserted “: *Provided*, That in a marketing order applicable to pears for canning or freezing the representation of processors and producers on such agency shall be equal.”
+Subsec. (7)(C). Pub. L. 92–466, §1(3), inserted "or pears" after "a marketing order applicable to grapefruit", struck out period at end, and inserted ": *Provided*, That in a marketing order applicable to pears for canning or freezing the representation of processors and producers on such agency shall be equal."
 
 Subsec. (19). Pub. L. 92–466, §1(4), inserted provision respecting producer or processor referendum for approving order applicable to pears for canning or freezing.
 
 **1971**—Subsec. (5)(I). Pub. L. 91–670, §101, added par. (I).
 
-Subsec. (6)(I). Pub. L. 92–120 inserted “California-grown peaches,” after “applicable to almonds,” in first proviso.
+Subsec. (6)(I). Pub. L. 92–120 inserted "California-grown peaches," after "applicable to almonds," in first proviso.
 
-Pub. L. 91–670, §201, substituted “apples, or tomatoes” for “or apples” in first proviso.
+Pub. L. 91–670, §201, substituted "apples, or tomatoes" for "or apples" in first proviso.
 
-**1970**—Subsec. (2)(A). Pub. L. 91–341 substituted “Connecticut, Colorado, Utah, New Mexico, Illinois, and Ohio” for “and Connecticut”.
+**1970**—Subsec. (2)(A). Pub. L. 91–341 substituted "Connecticut, Colorado, Utah, New Mexico, Illinois, and Ohio" for "and Connecticut".
 
-Pub. L. 91–196, §1(1), temporarily inserted “and not including potatoes for canning, freezing, or other processing” after “vegetables (not including vegetables, other than asparagus, for canning or freezing”. See Effective Date of 1970 Amendment note below.
+Pub. L. 91–196, §1(1), temporarily inserted "and not including potatoes for canning, freezing, or other processing" after "vegetables (not including vegetables, other than asparagus, for canning or freezing". See Effective Date of 1970 Amendment note below.
 
-Subsec. (2)(B). Pub. L. 91–196, §1(2), temporarily inserted “including potatoes for canning, freezing, or other processing,” after “fruits and vegetables for canning or freezing,”. See Effective Date of 1970 Amendment note below.
+Subsec. (2)(B). Pub. L. 91–196, §1(2), temporarily inserted "including potatoes for canning, freezing, or other processing," after "fruits and vegetables for canning or freezing,". See Effective Date of 1970 Amendment note below.
 
 Subsec. (5)(B). Pub. L. 91–524, §201(a), temporarily added cls. (d) to (f) and struck out former cl. (d) and concluding provisions. See Termination of 1970 Amendment note below.
 
-Subsec. (6)(I). Pub. L. 91–522 inserted “almonds,” before “cherries” in first proviso, inserted at end of first proviso “and with respect to almonds may provide for crediting the pro rata expense assessment obligations of a handler with all or any portion of his direct expenditures for such marketing promotion including paid advertising as may be authorized by the order”, and amended second proviso generally.
+Subsec. (6)(I). Pub. L. 91–522 inserted "almonds," before "cherries" in first proviso, inserted at end of first proviso "and with respect to almonds may provide for crediting the pro rata expense assessment obligations of a handler with all or any portion of his direct expenditures for such marketing promotion including paid advertising as may be authorized by the order", and amended second proviso generally.
 
-Pub. L. 91–384 inserted “papayas,” after “applicable to cherries,” in first proviso.
+Pub. L. 91–384 inserted "papayas," after "applicable to cherries," in first proviso.
 
-Pub. L. 91–363 substituted “avocados, or apples” for “or avocados” in first proviso.
+Pub. L. 91–363 substituted "avocados, or apples" for "or avocados" in first proviso.
 
-Pub. L. 91–292 which directed the insertion of “production research,” after “Establishing or providing for the establishment of”, was executed by making the insertion after “establishing or providing for the establishment of” to reflect the probable intent of Congress, inserted “or efficient production” after “consumption”, and struck out period at end and inserted “: *Provided further*, That the inclusion in a Federal marketing order of provisions for research shall not be deemed to preclude, preempt or supersede research provisions in any State program covering the same commodity.”
+Pub. L. 91–292 which directed the insertion of "production research," after "Establishing or providing for the establishment of", was executed by making the insertion after "establishing or providing for the establishment of" to reflect the probable intent of Congress, inserted "or efficient production" after "consumption", and struck out period at end and inserted ": *Provided further*, That the inclusion in a Federal marketing order of provisions for research shall not be deemed to preclude, preempt or supersede research provisions in any State program covering the same commodity."
 
 Subsec. (17). Pub. L. 91–524, §201(f)(1), as added by Pub. L. 93–86, temporarily struck out period at end and added second proviso related to provisions governing procedures when one-third or more of producers apply in writing for a hearing on a proposed amendment of an order, prohibiting any construction of subsec. (12) in a way which might permit cooperatives to act for their members in applying for hearings, and excusing the Secretary from the requirement of having to call a hearing on proposed amendments to an order in response to an application for such a hearing when the application for such a hearing is received by the Secretary within ninety days after the date on which the Secretary has announced his decision on a previously proposed amendment to such order and the two proposed amendments are essentially the same. See Termination of 1970 Amendment note below.
 
-Subsec. (18). Pub. L. 91–524, §201(f)(2), as added by Pub. L. 93–86, temporarily inserted “to meet current needs and further to assure a level of farm income adequate to maintain productive capacity sufficient to meet anticipated future needs” after “pure and wholesome milk”. See Termination of 1970 Amendment note below.
+Subsec. (18). Pub. L. 91–524, §201(f)(2), as added by Pub. L. 93–86, temporarily inserted "to meet current needs and further to assure a level of farm income adequate to maintain productive capacity sufficient to meet anticipated future needs" after "pure and wholesome milk". See Termination of 1970 Amendment note below.
 
 **1965**—Subsec. (5)(B). Pub. L. 89–321, §101, temporarily added cl. (d) and concluding provisions and struck out former cl. (d). See Termination of 1965 Amendments note below.
 
 Subsec. (5)(H). Pub. L. 89–321, §102(a), temporarily added par. (H). See Termination of 1965 Amendments note below.
 
-Subsec. (6)(I). Pub. L. 89–330 inserted “, carrots, citrus fruits, onions, Tokay grapes, fresh pears, dates, plums, nectarines, celery, sweet corn, limes, olives, pecans, or avocados” after “applicable to cherries” in proviso.
+Subsec. (6)(I). Pub. L. 89–330 inserted ", carrots, citrus fruits, onions, Tokay grapes, fresh pears, dates, plums, nectarines, celery, sweet corn, limes, olives, pecans, or avocados" after "applicable to cherries" in proviso.
 
-Subsec. (18). Pub. L. 89–321, §102(b), temporarily inserted “or, in the case of orders applying only to manufacturing milk, the production area” after “marketing area” in two places. See Termination of 1965 Amendments note below.
+Subsec. (18). Pub. L. 89–321, §102(b), temporarily inserted "or, in the case of orders applying only to manufacturing milk, the production area" after "marketing area" in two places. See Termination of 1965 Amendments note below.
 
-**1962**—Subsec. (6)(I). Pub. L. 87–703 struck out period at end and inserted “: *Provided*, That with respect to orders applicable to cherries such projects may provide for any form of marketing promotion including paid advertising.”
+**1962**—Subsec. (6)(I). Pub. L. 87–703 struck out period at end and inserted ": *Provided*, That with respect to orders applicable to cherries such projects may provide for any form of marketing promotion including paid advertising."
 
-**1961**—Subsec. (2). Pub. L. 87–128, §141(3), designated provisions after “applicable only to” as par. (A), inserted “cherries, apples, or cranberries,” after “grapefruit,” the first time appearing, substituted “Idaho, New York, Michigan, Maryland, New Jersey, Indiana, California, Maine, Vermont, New Hampshire, Rhode Island, Massachusetts, and Connecticut, and not including fruits for canning or freezing other than olives, grapefruit, cherries, cranberries, and apples produced in the States named above except Washington, Oregon, and Idaho)” for “and Idaho, and not including fruits, other than olives and grapefruit, for canning or freezing)”, struck out “soybeans,” before “hops, honeybees”, and added par. (B).
+**1961**—Subsec. (2). Pub. L. 87–128, §141(3), designated provisions after "applicable only to" as par. (A), inserted "cherries, apples, or cranberries," after "grapefruit," the first time appearing, substituted "Idaho, New York, Michigan, Maryland, New Jersey, Indiana, California, Maine, Vermont, New Hampshire, Rhode Island, Massachusetts, and Connecticut, and not including fruits for canning or freezing other than olives, grapefruit, cherries, cranberries, and apples produced in the States named above except Washington, Oregon, and Idaho)" for "and Idaho, and not including fruits, other than olives and grapefruit, for canning or freezing)", struck out "soybeans," before "hops, honeybees", and added par. (B).
 
 Subsec. (19). Pub. L. 87–128, §141(4), amended text generally.
 
@@ -650,39 +650,39 @@ Subsec. (19). Pub. L. 87–128, §141(4), amended text generally.
 
 Subsec. (6). Act Aug. 28, 1954, §401(c), added introductory provisions and struck out former introductory provisions and added pars. (H) and (I).
 
-Subsec. (7)(C). Act Aug. 28, 1954, §401(d), inserted at end “There shall be included in the membership of any agency selected to administer a marketing order applicable to grapefruit for canning or freezing one or more representatives of processors of the commodity specified in such order.”
+Subsec. (7)(C). Act Aug. 28, 1954, §401(d), inserted at end "There shall be included in the membership of any agency selected to administer a marketing order applicable to grapefruit for canning or freezing one or more representatives of processors of the commodity specified in such order."
 
-**1949**—Subsecs. (2), (6). Act June 29, 1949, inserted “filberts, almonds,” before “pecans and walnuts” in subsec. (2) and in introductory provisions of subsec. (6).
+**1949**—Subsecs. (2), (6). Act June 29, 1949, inserted "filberts, almonds," before "pecans and walnuts" in subsec. (2) and in introductory provisions of subsec. (6).
 
-**1948**—Subsec. (17). Act July 3, 1948, §302(c), struck out “and section 608e of this title”.
+**1948**—Subsec. (17). Act July 3, 1948, §302(c), struck out "and section 608e of this title".
 
 Subsec. (18). Act July 3, 1948, §302(b), amended text generally.
 
-**1947**—Subsec. (2). Act Aug. 1, 1947, §4, inserted “or freezing” after “canning” in two places.
+**1947**—Subsec. (2). Act Aug. 1, 1947, §4, inserted "or freezing" after "canning" in two places.
 
 Subsec. (6). Act Aug. 1, 1947, §2, amended text generally.
 
-**1942**—Subsec. (6). Act Feb. 10, 1942, substituted “hops and their products,” for “hops,” in introductory provisions and added par. (F).
+**1942**—Subsec. (6). Act Feb. 10, 1942, substituted "hops and their products," for "hops," in introductory provisions and added par. (F).
 
-**1939**—Subsecs. (2), (6). Act May 31, 1939, made technical amendment to Act June 3, 1937, §2, by adding a subsection (m) designation at the end thereof and amended this section by inserting “, other than apples produced in the States of Washington, Oregon, and Idaho,” after “apples” in subsec. (2) and in introductory provisions of subsec. (6).
+**1939**—Subsecs. (2), (6). Act May 31, 1939, made technical amendment to Act June 3, 1937, §2, by adding a subsection (m) designation at the end thereof and amended this section by inserting ", other than apples produced in the States of Washington, Oregon, and Idaho," after "apples" in subsec. (2) and in introductory provisions of subsec. (6).
 
-**1938**—Subsec. (2). Act Apr. 13, 1938, §1, inserted “, hops,” after “soybeans”.
+**1938**—Subsec. (2). Act Apr. 13, 1938, §1, inserted ", hops," after "soybeans".
 
-Subsec. (6). Act Apr. 13, 1938, §2, inserted “, hops,” after “soybeans and their products” in introductory provisions.
+Subsec. (6). Act Apr. 13, 1938, §2, inserted ", hops," after "soybeans and their products" in introductory provisions.
 
 **1937**—Act June 3, 1937, §1, affirmed, validated, and reenacted provisions of section. See Validity of Section Affirmed note below.
 
-Subsec. (2). Act Aug. 5, 1937, amended act June 3, 1937, by adding thereto subsec. (k), which in turn directed the insertion of “and the products of honeybees” after “except the products of naval stores”, which was executed by making the insertion after “except products of naval stores”, to reflect the probable intent of Congress and inserted “, honeybees” after “soybeans”.
+Subsec. (2). Act Aug. 5, 1937, amended act June 3, 1937, by adding thereto subsec. (k), which in turn directed the insertion of "and the products of honeybees" after "except the products of naval stores", which was executed by making the insertion after "except products of naval stores", to reflect the probable intent of Congress and inserted ", honeybees" after "soybeans".
 
-Subsec. (5)(B)(d). Act June 3, 1937, §2(d), substituted “marketings of milk” for “production of milk”.
+Subsec. (5)(B)(d). Act June 3, 1937, §2(d), substituted "marketings of milk" for "production of milk".
 
-Subsec. (6). Act Aug. 5, 1937, amended act June 3, 1937, by adding subsec. (l), which in turn amended subsec. (6) by inserting “honeybees,” after “soybeans and their products,” in introductory provisions.
+Subsec. (6). Act Aug. 5, 1937, amended act June 3, 1937, by adding subsec. (l), which in turn amended subsec. (6) by inserting "honeybees," after "soybeans and their products," in introductory provisions.
 
-Subsec. (6)(B). Act June 3, 1937, §2(e), struck out “produced or” before “sold by such producers” and substituted “quantities available for sale by” for “production or sales of”.
+Subsec. (6)(B). Act June 3, 1937, §2(e), struck out "produced or" before "sold by such producers" and substituted "quantities available for sale by" for "production or sales of".
 
 Subsecs. (18), (19). Act June 3, 1937, §2(f), added subsecs. (18) and (19).
 
-**1936**—Subsec. (15)(B). Act June 25, 1936, provided that the Supreme Court of the District of Columbia should thereafter be known as the “district court of the United States for the District of Columbia”. See Codification note above.
+**1936**—Subsec. (15)(B). Act June 25, 1936, provided that the Supreme Court of the District of Columbia should thereafter be known as the "district court of the United States for the District of Columbia". See Codification note above.
 
 **1935**—Section added to the Agricultural Adjustment Act by act Aug. 24, 1935, which also struck out former section 608(3) of this title.
 
@@ -692,7 +692,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date of 2006 Amendment ####
 
-Pub. L. 109–215, §2(d), Apr. 11, 2006, 120 Stat. 330, provided that: “The amendments made by this section [amending this section] take effect on the first day of the first month beginning more than 15 days after the date of the enactment of this Act [Apr. 11, 2006]. To accomplish the expedited implementation of these amendments, effective on the date of the enactment of this Act, the Secretary of Agriculture shall include in the pool distributing plant provisions of each Federal milk marketing order issued under subparagraph (B) of section 8c(5) of the Agriculture Adjustment Act (7 U.S.C. 608c(5)), reenacted with amendments by the Agriculture [Agricultural] Marketing Agreement Act of 1937, a provision that a handler described in subparagraph (M) of such section, as added by subsection (a) of this section, will be fully regulated by the order in which the handler's distributing plant is located. These amendments shall not be subject to a referendum under section 8c(19) of such Act (7 U.S.C. 608c(19)).”
+Pub. L. 109–215, §2(d), Apr. 11, 2006, 120 Stat. 330, provided that: "The amendments made by this section [amending this section] take effect on the first day of the first month beginning more than 15 days after the date of the enactment of this Act [Apr. 11, 2006]. To accomplish the expedited implementation of these amendments, effective on the date of the enactment of this Act, the Secretary of Agriculture shall include in the pool distributing plant provisions of each Federal milk marketing order issued under subparagraph (B) of section 8c(5) of the Agriculture Adjustment Act (7 U.S.C. 608c(5)), reenacted with amendments by the Agriculture [Agricultural] Marketing Agreement Act of 1937, a provision that a handler described in subparagraph (M) of such section, as added by subsection (a) of this section, will be fully regulated by the order in which the handler's distributing plant is located. These amendments shall not be subject to a referendum under section 8c(19) of such Act (7 U.S.C. 608c(19))."
 
 #### Effective Date of 1999 Amendment ####
 
@@ -704,15 +704,15 @@ Amendments by sections 112 and 113 of Pub. L. 101–624 effective beginning with
 
 #### Effective Dates of 1985 Amendment ####
 
-Pub. L. 99–198, title I, §131(b), Dec. 23, 1985, 99 Stat. 1373, provided that: “The amendment made by this section [amending this section] shall take effect on the first day of the first month beginning more than 120 days after the date of the enactment of this Act [Dec. 23, 1985].”
+Pub. L. 99–198, title I, §131(b), Dec. 23, 1985, 99 Stat. 1373, provided that: "The amendment made by this section [amending this section] shall take effect on the first day of the first month beginning more than 120 days after the date of the enactment of this Act [Dec. 23, 1985]."
 
 Pub. L. 99–198, title I, §133, Dec. 23, 1985, 99 Stat. 1373, provided that the amendment made by that section is effective Jan. 1, 1986.
 
-Pub. L. 99–198, title XVI, §1661(b), Dec. 23, 1985, 99 Stat. 1630, provided that: “The amendment made by subsection (a) [amending this section] shall not apply with respect to any violation described in section 8c(14) of the Agricultural Adjustment Act [subsec. (14) of this section] occurring before the date of the enactment of this Act [Dec. 23, 1985].”
+Pub. L. 99–198, title XVI, §1661(b), Dec. 23, 1985, 99 Stat. 1630, provided that: "The amendment made by subsection (a) [amending this section] shall not apply with respect to any violation described in section 8c(14) of the Agricultural Adjustment Act [subsec. (14) of this section] occurring before the date of the enactment of this Act [Dec. 23, 1985]."
 
 #### Effective and Termination Dates of 1981 Amendment ####
 
-Pub. L. 97–98, title I, §101(b), Dec. 22, 1981, 95 Stat. 1219, as amended by Pub. L. 99–198, title I, §132, Dec. 23, 1985, 99 Stat. 1373; Pub. L. 101–624, title I, §108, Nov. 28, 1990, 104 Stat. 3380; Pub. L. 103–66, title I, §1105(b), Aug. 10, 1993, 107 Stat. 317, provided that: “The provisions of subsection (a) [amending this section] shall become effective January 1, 1982, and shall terminate December 31, 1996.”
+Pub. L. 97–98, title I, §101(b), Dec. 22, 1981, 95 Stat. 1219, as amended by Pub. L. 99–198, title I, §132, Dec. 23, 1985, 99 Stat. 1373; Pub. L. 101–624, title I, §108, Nov. 28, 1990, 104 Stat. 3380; Pub. L. 103–66, title I, §1105(b), Aug. 10, 1993, 107 Stat. 317, provided that: "The provisions of subsection (a) [amending this section] shall become effective January 1, 1982, and shall terminate December 31, 1996."
 
 #### Effective Date of 1978 Amendment ####
 
@@ -720,19 +720,19 @@ Pub. L. 95–279, title IV, §401(a), May 15, 1978, 92 Stat. 242, provided that 
 
 #### Effective Date of 1970 Amendment ####
 
-Pub. L. 91–196, §2, Feb. 20, 1970, 84 Stat. 14, provided that: “The amendments made by this Act [amending this section] shall be effective only during the period beginning with the date of enactment of this Act [Feb. 20, 1970] and ending two years after such date.” The limited effective period beginning Feb. 20, 1970, and ending two years after such date for the amendments made by Pub. L. 91–196 was removed as a result of the enactment of Pub. L. 92–233, Feb. 15, 1972, 86 Stat. 39, which made amendments to the section substantively identical to those made by Pub. L. 91–196 but without a time limit on such amendments of the type which had limited the duration of such earlier Pub. L. 91–196 amendments.
+Pub. L. 91–196, §2, Feb. 20, 1970, 84 Stat. 14, provided that: "The amendments made by this Act [amending this section] shall be effective only during the period beginning with the date of enactment of this Act [Feb. 20, 1970] and ending two years after such date." The limited effective period beginning Feb. 20, 1970, and ending two years after such date for the amendments made by Pub. L. 91–196 was removed as a result of the enactment of Pub. L. 92–233, Feb. 15, 1972, 86 Stat. 39, which made amendments to the section substantively identical to those made by Pub. L. 91–196 but without a time limit on such amendments of the type which had limited the duration of such earlier Pub. L. 91–196 amendments.
 
 #### Termination of 1970 Amendment; Savings Provision ####
 
-Pub. L. 91–524, title II, §201(e), Nov. 30, 1970, 84 Stat. 1361, as amended by Pub. L. 93–86, §1(2)(A), Aug. 10, 1973, 87 Stat. 222; Pub. L. 95–113, title II, §201, Sept. 29, 1977, 91 Stat. 919, provided that: “The provisions of this section [amending this section] shall not be effective after December 31, 1981, except with respect to orders providing for class I base plans issued prior to such date, but in no event shall any order so issued extend or be effective beyond December 31, 1984.”
+Pub. L. 91–524, title II, §201(e), Nov. 30, 1970, 84 Stat. 1361, as amended by Pub. L. 93–86, §1(2)(A), Aug. 10, 1973, 87 Stat. 222; Pub. L. 95–113, title II, §201, Sept. 29, 1977, 91 Stat. 919, provided that: "The provisions of this section [amending this section] shall not be effective after December 31, 1981, except with respect to orders providing for class I base plans issued prior to such date, but in no event shall any order so issued extend or be effective beyond December 31, 1984."
 
 #### Termination of 1965 Amendment; Reversion of Status of Producer Handlers of Milk to Pre-Amendment Status ####
 
 Pub. L. 89–321, title I, §§103, 104, Nov. 3, 1965, 79 Stat. 1188, as amended by Pub. L. 90–559, §1(3), Oct. 11, 1968, 82 Stat. 996, provided that:
 
-“Sec. 103. The provisions of this title [amending this section] shall not be effective after December 31, 1970.
+"Sec. 103. The provisions of this title [amending this section] shall not be effective after December 31, 1970.
 
-“Sec. 104. The legal status of producer handlers of milk under the provisions of the Agricultural Adjustment Act, as reenacted and amended by the Agricultural Marketing Agreement Act of 1937, as amended, shall be the same subsequent to the adoption of the amendments made by this title [amending this section] as it was prior thereto.”
+"Sec. 104. The legal status of producer handlers of milk under the provisions of the Agricultural Adjustment Act, as reenacted and amended by the Agricultural Marketing Agreement Act of 1937, as amended, shall be the same subsequent to the adoption of the amendments made by this title [amending this section] as it was prior thereto."
 
 #### Effective Date of 1948 Amendment ####
 
@@ -740,27 +740,27 @@ Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act Ju
 
 #### Short Title ####
 
-Pub. L. 89–321, §1, Nov. 3, 1965, 79 Stat. 1187, provided: “That this Act [enacting sections 1305, 1306, 1316, 1344b, 1379, 1446a–1, and 1838 of this title, amending this section and sections 1301, 1314b, 1332, 1333, 1334, 1335, 1339, 1339a, 1339c, 1340, 1346, 1348, 1350, 1353, 1374, 1379b, 1379c, 1379d, 1379e, 1379g, 1379i, 1423, 1427, 1428, 1444, 1445a, and 1782 of this title and section 590p of Title 16, Conservation, repealing sections 1801 to 1816, 1821 to 1824, 1831, and 1832 to 1837 of this title, enacting provisions set out as notes under this section and sections 1282, 1301, 1332, 1334, 1339, 1350, 1359, 1379b, 1379c, 1379d, 1379i, 1428, 1441, and 1445a of this title and section 590p of Title 16, and amending provisions set out as notes under sections 1339, 1379c, and 1427 of this title] may be cited as the ‘Food and Agriculture Act of 1965’.”
+Pub. L. 89–321, §1, Nov. 3, 1965, 79 Stat. 1187, provided: "That this Act [enacting sections 1305, 1306, 1316, 1344b, 1379, 1446a–1, and 1838 of this title, amending this section and sections 1301, 1314b, 1332, 1333, 1334, 1335, 1339, 1339a, 1339c, 1340, 1346, 1348, 1350, 1353, 1374, 1379b, 1379c, 1379d, 1379e, 1379g, 1379i, 1423, 1427, 1428, 1444, 1445a, and 1782 of this title and section 590p of Title 16, Conservation, repealing sections 1801 to 1816, 1821 to 1824, 1831, and 1832 to 1837 of this title, enacting provisions set out as notes under this section and sections 1282, 1301, 1332, 1334, 1339, 1350, 1359, 1379b, 1379c, 1379d, 1379i, 1428, 1441, and 1445a of this title and section 590p of Title 16, and amending provisions set out as notes under sections 1339, 1379c, and 1427 of this title] may be cited as the 'Food and Agriculture Act of 1965'."
 
 #### Expedited Marketing Order for Hass Avocados for Grades and Standards and Other Purposes ####
 
 Pub. L. 110–234, title X, §10108, May 22, 2008, 122 Stat. 1338, and Pub. L. 110–246, §4(a), title X, §10108, June 18, 2008, 122 Stat. 1664, 2099, provided that:
 
-“(a) In General.—The Secretary [of Agriculture] shall initiate procedures under the Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, to determine whether it would be appropriate to establish a Federal marketing order for Hass avocados relating to grades and standards and for other purposes under that Act.
+"(a) In General.—The Secretary [of Agriculture] shall initiate procedures under the Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, to determine whether it would be appropriate to establish a Federal marketing order for Hass avocados relating to grades and standards and for other purposes under that Act.
 
-“(b) Expedited Procedures.—
+"(b) Expedited Procedures.—
 
-“(1) Proposal for an order.—An organization of domestic avocado producers in existence on the date of enactment of this Act [June 18, 2008] may request the issuance of, and submit to the Secretary a proposal for, an order described in subsection (a).
+"(1) Proposal for an order.—An organization of domestic avocado producers in existence on the date of enactment of this Act [June 18, 2008] may request the issuance of, and submit to the Secretary a proposal for, an order described in subsection (a).
 
-“(2) Publication of proposal.—Not later than 60 days after the date on which the Secretary receives a proposed order under paragraph (1), the Secretary shall initiate procedures described in subsection (a) to determine whether the proposed order should proceed.
+"(2) Publication of proposal.—Not later than 60 days after the date on which the Secretary receives a proposed order under paragraph (1), the Secretary shall initiate procedures described in subsection (a) to determine whether the proposed order should proceed.
 
-“(c) Effective Date.—Any order issued under this section shall become effective not later than 15 months after the date on which the Secretary initiates procedures under the Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937.”
+"(c) Effective Date.—Any order issued under this section shall become effective not later than 15 months after the date on which the Secretary initiates procedures under the Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937."
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
 #### Records and Facility Requirements ####
 
-Pub. L. 109–215, §2(c), Apr. 11, 2006, 120 Stat. 330, provided that: “Notwithstanding any other provision of this section [amending this section and enacting provisions set out as notes under this section and section 601 of this title], or the amendments made by this section, a milk handler (including a producer-handler or a producer operating as a handler) that is subject to regulation under this section or an amendment made by this section shall comply with the requirements of section 1000.27 of title 7, Code of Federal Regulations, or a successor regulation, relating to handler responsibility for records or facilities.”
+Pub. L. 109–215, §2(c), Apr. 11, 2006, 120 Stat. 330, provided that: "Notwithstanding any other provision of this section [amending this section and enacting provisions set out as notes under this section and section 601 of this title], or the amendments made by this section, a milk handler (including a producer-handler or a producer operating as a handler) that is subject to regulation under this section or an amendment made by this section shall comply with the requirements of section 1000.27 of title 7, Code of Federal Regulations, or a successor regulation, relating to handler responsibility for records or facilities."
 
 #### Minnesota-Wisconsin Price Series Reform ####
 
@@ -772,7 +772,7 @@ Pub. L. 101–624, title I, §104, Nov. 28, 1990, 104 Stat. 3379, required the S
 
 #### Status of Producer Handlers ####
 
-Pub. L. 101–624, title I, §115, Nov. 28, 1990, 104 Stat. 3381, provided that: “The legal status of producer handlers of milk under the Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, shall be the same after the amendments made by this title [enacting section 1446e of this title and amending this section and sections 450l and 1446a of this title, section 713a–14 of Title 15, Commerce and Trade, and provisions set out as notes under this section and section 1731 of this title] take effect as it was before the effective date of the amendments [see Effective Date of 1990 Amendment note set out under section 1421 of this title].”
+Pub. L. 101–624, title I, §115, Nov. 28, 1990, 104 Stat. 3381, provided that: "The legal status of producer handlers of milk under the Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, shall be the same after the amendments made by this title [enacting section 1446e of this title and amending this section and sections 450l and 1446a of this title, section 713a–14 of Title 15, Commerce and Trade, and provisions set out as notes under this section and section 1731 of this title] take effect as it was before the effective date of the amendments [see Effective Date of 1990 Amendment note set out under section 1421 of this title]."
 
 #### Multiple Component Pricing Study ####
 
@@ -782,13 +782,13 @@ Pub. L. 101–624, title I, §116, Nov. 28, 1990, 104 Stat. 3381, required the S
 
 Pub. L. 99–260, §9, Mar. 20, 1986, 100 Stat. 51, provided that:
 
-“(a) Hearing.—Not later than 90 days after receipt of a proposal to amend a milk marketing order in accordance with section 8c(5)(J) of the Agricultural Adjustment Act, reenacted with amendments by the Agricultural Marketing Agreement Act of 1937 (7 U.S.C. 608c(5)(J)) (as added by section 133 of the Food Security Act of 1985), the Secretary of Agriculture shall conduct a hearing on the proposal.
+"(a) Hearing.—Not later than 90 days after receipt of a proposal to amend a milk marketing order in accordance with section 8c(5)(J) of the Agricultural Adjustment Act, reenacted with amendments by the Agricultural Marketing Agreement Act of 1937 (7 U.S.C. 608c(5)(J)) (as added by section 133 of the Food Security Act of 1985), the Secretary of Agriculture shall conduct a hearing on the proposal.
 
-“(b) Implementation.—Not later than 120 days after a hearing is conducted under subsection (a), the Secretary shall implement, in accordance with the Agricultural Adjustment Act [this chapter], a marketwide service payment program under section 8c(5)(J) of such Act that meets the requirements of such Act.”
+"(b) Implementation.—Not later than 120 days after a hearing is conducted under subsection (a), the Secretary shall implement, in accordance with the Agricultural Adjustment Act [this chapter], a marketwide service payment program under section 8c(5)(J) of such Act that meets the requirements of such Act."
 
 #### Termination of Marketing Orders ####
 
-Pub. L. 99–198, title XVI, §1662(b), Dec. 23, 1985, 99 Stat. 1631, provided that: “The Secretary of Agriculture may not terminate any marketing order under section 8c(16) of the of the [so in original] Agricultural Adjustment Act (7 U.S.C. 608c(16)), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, if such termination becomes effective before January 16, 1986.”
+Pub. L. 99–198, title XVI, §1662(b), Dec. 23, 1985, 99 Stat. 1631, provided that: "The Secretary of Agriculture may not terminate any marketing order under section 8c(16) of the of the [so in original] Agricultural Adjustment Act (7 U.S.C. 608c(16)), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, if such termination becomes effective before January 16, 1986."
 
 #### Report to Houses of Congress Regarding Implementation of Provisions Relating to Handling of Commodities ####
 
@@ -796,19 +796,19 @@ Pub. L. 95–279, title IV, §401(b), May 15, 1978, 92 Stat. 243, provided that,
 
 #### Retention of Status of Producer Handlers of Milk at Pre-1985 Amendment Status ####
 
-Pub. L. 99–198, title I, §134, Dec. 23, 1985, 99 Stat. 1373, provided that: “The legal status of producer handlers of milk under the Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, shall be the same after the amendments made by this title [probably means this subtitle, subtitle C (§§131–134) of title I of Pub. L. 99–198, amending subsec. (5) of this section and provisions set out as a note above] take effect as it was before the effective date of such amendments.”
+Pub. L. 99–198, title I, §134, Dec. 23, 1985, 99 Stat. 1373, provided that: "The legal status of producer handlers of milk under the Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, shall be the same after the amendments made by this title [probably means this subtitle, subtitle C (§§131–134) of title I of Pub. L. 99–198, amending subsec. (5) of this section and provisions set out as a note above] take effect as it was before the effective date of such amendments."
 
 #### Retention of Status of Producer Handlers of Milk at Pre-1981 Amendment Status ####
 
-Pub. L. 97–98, title I, §102, Dec. 22, 1981, 95 Stat. 1219, provided that: “The legal status of producer handlers of milk under the provisions of the Agricultural Adjustment Act, as reenacted and amended by the Agricultural Marketing Agreement Act of 1937 [this chapter] shall be the same subsequent to the adoption of the amendment made by the Agriculture and Food Act of 1981 [see Tables] as it was prior thereto.”
+Pub. L. 97–98, title I, §102, Dec. 22, 1981, 95 Stat. 1219, provided that: "The legal status of producer handlers of milk under the provisions of the Agricultural Adjustment Act, as reenacted and amended by the Agricultural Marketing Agreement Act of 1937 [this chapter] shall be the same subsequent to the adoption of the amendment made by the Agriculture and Food Act of 1981 [see Tables] as it was prior thereto."
 
 #### Retention of Status of Producer Handlers of Milk at Pre-1977 Amendment Status ####
 
-Pub. L. 95–113, title II, §202, Sept. 29, 1977, 91 Stat. 919, provided that: “The legal status of producer handlers of milk under the provisions of the Agricultural Adjustment Act [see Short Title note set out under section 601 of this title], as reenacted and amended by the Agricultural Marketing Agreement Act of 1937, as amended [act June 3, 1937, ch. 296, 50 Stat. 246, set out as a note under section 601 of this title] shall be the same subsequent to the adoption of the amendment made by the Food and Agriculture Act of 1977 [see Short Title of 1977 Amendment note set out under section 1281 of this title] as it was prior thereto.”
+Pub. L. 95–113, title II, §202, Sept. 29, 1977, 91 Stat. 919, provided that: "The legal status of producer handlers of milk under the provisions of the Agricultural Adjustment Act [see Short Title note set out under section 601 of this title], as reenacted and amended by the Agricultural Marketing Agreement Act of 1937, as amended [act June 3, 1937, ch. 296, 50 Stat. 246, set out as a note under section 601 of this title] shall be the same subsequent to the adoption of the amendment made by the Food and Agriculture Act of 1977 [see Short Title of 1977 Amendment note set out under section 1281 of this title] as it was prior thereto."
 
 #### Retention of Status of Producer Handlers of Milk at Pre-1973 Amendment Status ####
 
-Pub. L. 91–524, title II, §206, as added by Pub. L. 93–86, §1(6), Aug. 10, 1973, 87 Stat. 224; amended Pub. L. 93–125, §1(a)(iii), Oct. 18, 1973, 87 Stat. 450, provided that: “The legal status of producer handlers of milk under the provisions of the Agricultural Adjustment Act, as reenacted and amended by the Agricultural Marketing Agreement Act of 1937, as amended, shall be the same subsequent to the adoption of the amendments made by the Agriculture and Consumer Protection Act of 1973 [Pub. L. 93–86, amending this section and sections 450l, 1446, and 1446a of this title] as it was prior thereto.”
+Pub. L. 91–524, title II, §206, as added by Pub. L. 93–86, §1(6), Aug. 10, 1973, 87 Stat. 224; amended Pub. L. 93–125, §1(a)(iii), Oct. 18, 1973, 87 Stat. 450, provided that: "The legal status of producer handlers of milk under the provisions of the Agricultural Adjustment Act, as reenacted and amended by the Agricultural Marketing Agreement Act of 1937, as amended, shall be the same subsequent to the adoption of the amendments made by the Agriculture and Consumer Protection Act of 1973 [Pub. L. 93–86, amending this section and sections 450l, 1446, and 1446a of this title] as it was prior thereto."
 
 #### Retention of Status of Producer Handlers of Milk at Pre-1970 Amendment Status ####
 
@@ -832,12 +832,12 @@ Act June 3, 1937, ch. 296, §1, 50 Stat. 246, affirmed and validated, and reenac
 
 [<sup>3</sup> So in original. Probably should be followed by a period.](#608c_3)
 
-[<sup>4</sup> So in original. Probably should be “paragraph”.](#608c_4)
+[<sup>4</sup> So in original. Probably should be "paragraph".](#608c_4)
 
-[<sup>5</sup> So in original. Probably should be “clause”.](#608c_5)
+[<sup>5</sup> So in original. Probably should be "clause".](#608c_5)
 
 [<sup>6</sup> So in original. Probably should be capitalized.](#608c_6)
 
 [<sup>7</sup> So in original. Probably should be a period.](#608c_7)
 
-[<sup>8</sup> So in original. Probably should be “Florida-grown”.](#608c_8)
+[<sup>8</sup> So in original. Probably should be "Florida-grown".](#608c_8)

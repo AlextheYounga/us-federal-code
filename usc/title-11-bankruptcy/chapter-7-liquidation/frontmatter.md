@@ -12,7 +12,7 @@ Sec.
 
 704. Duties of trustee.
 
-705. Creditors’ committee.
+705. Creditors' committee.
 
 706. Conversion.
 
@@ -92,8 +92,8 @@ Sec.
 
 #### Amendments ####
 
-**2005**—Pub. L. 109–8, title I, §102(k), title VII, §719(b)(2), title IX, §907(p)(2), Apr. 20, 2005, 119 Stat. 35, 133, 182, added items 753 and 767, substituted “Dismissal of a case or conversion to a case under chapter 11 or 13” for “Dismissal” in item 707, and struck out item 728 “Special tax provisions”.
+**2005**—Pub. L. 109–8, title I, §102(k), title VII, §719(b)(2), title IX, §907(p)(2), Apr. 20, 2005, 119 Stat. 35, 133, 182, added items 753 and 767, substituted "Dismissal of a case or conversion to a case under chapter 11 or 13" for "Dismissal" in item 707, and struck out item 728 "Special tax provisions".
 
 **2000**—Pub. L. 106–554, §1(a)(5) [title I, §112(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–396, added subchapter V heading and items 781 to 784.
 
-**1984**—Pub. L. 98–353, title III, §471, July 10, 1984, 98 Stat. 380, substituted “Successor” for “Succesor” in item 703.
+**1984**—Pub. L. 98–353, title III, §471, July 10, 1984, 98 Stat. 380, substituted "Successor" for "Succesor" in item 703.

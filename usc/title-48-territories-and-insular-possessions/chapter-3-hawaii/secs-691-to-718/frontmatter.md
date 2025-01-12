@@ -4,9 +4,9 @@
 
 Sections 691 to 718, relating to Territory of Hawaii, were omitted in view of admission of Hawaii into the Union.
 
-Section 691, act July 9, 1921, ch. 42, title I, §1, 42 Stat. 108, cited sections 691–704 and 705–716 of this title, as the “Hawaiian Homes Commission Act, 1920”.
+Section 691, act July 9, 1921, ch. 42, title I, §1, 42 Stat. 108, cited sections 691–704 and 705–716 of this title, as the "Hawaiian Homes Commission Act, 1920".
 
-Section 692, acts July 9, 1921, ch. 42, title II, §201, 42 Stat. 108; June 18, 1954, ch. 321, §2, 68 Stat. 263, defined “Commission”, “public lands”, “fund”, “Territory”, “Hawaiian home lands”, “tract”, “native Hawaiian” and “irrigated pastoral land” as used in “Hawaiian Homes Commission Act, 1920”.
+Section 692, acts July 9, 1921, ch. 42, title II, §201, 42 Stat. 108; June 18, 1954, ch. 321, §2, 68 Stat. 263, defined "Commission", "public lands", "fund", "Territory", "Hawaiian home lands", "tract", "native Hawaiian" and "irrigated pastoral land" as used in "Hawaiian Homes Commission Act, 1920".
 
 Section 693, acts July 9, 1921, ch. 42, title II, §202, 42 Stat. 109; July 26, 1935, ch. 420, §1, 49 Stat. 504; May 31, 1944, ch. 216, §1, 58 Stat. 260; July 9, 1952, ch. 618, §§1, 3, 66 Stat. 515, 516, established Hawaiian Homes Commission.
 
@@ -16,7 +16,7 @@ Section 695, act July 9, 1921, ch. 42, title II, §222, 42 Stat. 115, required c
 
 Section 696, act July 9, 1921, ch. 42, title II, §222, 42 Stat. 115, directed that executive officer and secretary give bond for faithful performance of his duties.
 
-Section 697, acts July 9, 1921, ch. 42, title II, §203, 42 Stat. 109; May 16, 1934, ch. 290, §1, 48 Stat. 777; Aug. 29, 1935, ch. 810, §1, 49 Stat. 966; July 10, 1937, ch. 482, 50 Stat. 497; Nov. 26, 1941, ch. 544, §1, 55 Stat. 782; May 31, 1944, ch. 216, §2, 58 Stat. 260; June 3, 1948, ch. 384, 62 Stat. 295; June 3, 1948, ch. 397, 62 Stat. 303; July 9, 1952 ch. 614, §§1, 2, 66 Stat. 511, designated certain lands in Territory as “available land”.
+Section 697, acts July 9, 1921, ch. 42, title II, §203, 42 Stat. 109; May 16, 1934, ch. 290, §1, 48 Stat. 777; Aug. 29, 1935, ch. 810, §1, 49 Stat. 966; July 10, 1937, ch. 482, 50 Stat. 497; Nov. 26, 1941, ch. 544, §1, 55 Stat. 782; May 31, 1944, ch. 216, §2, 58 Stat. 260; June 3, 1948, ch. 384, 62 Stat. 295; June 3, 1948, ch. 397, 62 Stat. 303; July 9, 1952 ch. 614, §§1, 2, 66 Stat. 511, designated certain lands in Territory as "available land".
 
 Section 698, acts July 9, 1921, ch. 42, title II, §204, 42 Stat. 110; Mar. 7, 1928, ch. 142, §1, 45 Stat. 246; July 10, 1937, ch. 482, 50 Stat. 503; Feb. 20, 1954, ch. 10, §1, 68 Stat. 116; June 18, 1954, ch. 319, §1, 68 Stat. 262, provided that after July 9, 1921, all available lands would assume status of Hawaiian home lands and be under control of Commission.
 
@@ -56,7 +56,7 @@ Section 713, act July 9, 1921, ch. 42, title II, §219, 42 Stat. 114, authorized
 
 Section 714, acts July 9, 1921, ch. 42, title II, §220, 42 Stat. 114; July 10, 1937, ch. 482, 50 Stat. 507; Nov. 26, 1941, ch. 544, §6, 55 Stat. 786; June 14, 1948, ch. 464, §7, 62 Stat. 393; Aug. 1, 1956, ch. 855, §1, 70 Stat. 915, authorized Commission to undertake development projects.
 
-Section 715, acts July 9, 1921, ch. 42, title II, §221, 42 Stat. 114; Aug. 1, 1956, ch. 855, §§2, 3, 70 Stat. 915, defined “water license” and “surplus water”, subjected water licenses issued after July 9, 1921, to Commission and authorized Commission to use free of all charge, Government-owned water.
+Section 715, acts July 9, 1921, ch. 42, title II, §221, 42 Stat. 114; Aug. 1, 1956, ch. 855, §§2, 3, 70 Stat. 915, defined "water license" and "surplus water", subjected water licenses issued after July 9, 1921, to Commission and authorized Commission to use free of all charge, Government-owned water.
 
 Section 715a, act July 9, 1921, ch. 42 title II, §224, as added July 26, 1935, ch. 420, §2, 49 Stat. 505, authorized Secretary of the Interior to designate a sanitation and reclamation expert.
 

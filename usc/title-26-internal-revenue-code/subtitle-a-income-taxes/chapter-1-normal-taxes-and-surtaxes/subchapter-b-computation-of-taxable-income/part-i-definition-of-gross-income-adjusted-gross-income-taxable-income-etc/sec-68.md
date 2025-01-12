@@ -12,7 +12,7 @@ In the case of an individual whose adjusted gross income exceeds the applicable 
 
 #### (1) In general ####
 
-For purposes of this section, the term “applicable amount” means—
+For purposes of this section, the term "applicable amount" means—
 
 (A) $300,000 in the case of a joint return or a surviving spouse (as defined in section 2(a)),
 
@@ -30,13 +30,13 @@ In the case of any taxable year beginning in calendar years after 2013, each of 
 
 (A) such dollar amount, multiplied by
 
-(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, except that section 1(f)(3)(B) shall be applied by substituting “2012” for “1992”.
+(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, except that section 1(f)(3)(B) shall be applied by substituting "2012" for "1992".
 
 If any amount after adjustment under the preceding sentence is not a multiple of $50, such amount shall be rounded to the next lowest multiple of $50.
 
 #### (c) Exception for certain itemized deductions ####
 
-For purposes of this section, the term “itemized deductions” does not include—
+For purposes of this section, the term "itemized deductions" does not include—
 
 (1) the deduction under section 213 (relating to medical, etc. expenses),
 
@@ -62,23 +62,23 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 **2013**—Subsec. (b). Pub. L. 112–240, §101(b)(2)(A)(i), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows:
 
-“(1) In general.—For purposes of this section, the term ‘applicable amount’ means $100,000 ($50,000 in the case of a separate return by a married individual within the meaning of section 7703).
+"(1) In general.—For purposes of this section, the term 'applicable amount' means $100,000 ($50,000 in the case of a separate return by a married individual within the meaning of section 7703).
 
-“(2) Inflation adjustments.—In the case of any taxable year beginning in a calendar year after 1991, each dollar amount contained in paragraph (1) shall be increased by an amount equal to—
+"(2) Inflation adjustments.—In the case of any taxable year beginning in a calendar year after 1991, each dollar amount contained in paragraph (1) shall be increased by an amount equal to—
 
-“(A) such dollar amount, multiplied by
+"(A) such dollar amount, multiplied by
 
-“(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting ‘calendar year 1990’ for ‘calendar year 1992’ in subparagraph (B) thereof.”
+"(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting 'calendar year 1990' for 'calendar year 1992' in subparagraph (B) thereof."
 
 Subsecs. (f), (g). Pub. L. 112–240, §101(b)(2)(A)(ii), struck out subsecs. (f) and (g), which related to phaseout of limitation and termination of applicability of section, respectively.
 
 **2001**—Subsecs. (f), (g). Pub. L. 107—16 added subsecs. (f) and (g).
 
-**1998**—Subsec. (c)(3). Pub. L. 105–277 substituted “for casualty or theft losses described in paragraph (2) or (3) of section 165(c) or for losses described in section 165(d)” for “for losses described in subsection (c)(3) or (d) of section 165”.
+**1998**—Subsec. (c)(3). Pub. L. 105–277 substituted "for casualty or theft losses described in paragraph (2) or (3) of section 165(c) or for losses described in section 165(d)" for "for losses described in subsection (c)(3) or (d) of section 165".
 
-**1993**—Subsec. (b)(2)(B). Pub. L. 103–66, §13201(b)(3)(E), substituted “1992” for “1989”.
+**1993**—Subsec. (b)(2)(B). Pub. L. 103–66, §13201(b)(3)(E), substituted "1992" for "1989".
 
-Subsec. (f). Pub. L. 103–66, §13204, struck out heading and text of subsec. (f). Text read as follows: “This section shall not apply to any taxable year beginning after December 31, 1995.”
+Subsec. (f). Pub. L. 103–66, §13204, struck out heading and text of subsec. (f). Text read as follows: "This section shall not apply to any taxable year beginning after December 31, 1995."
 
 #### Effective Date of 2013 Amendment ####
 
@@ -86,11 +86,11 @@ Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2001 Amendment ####
 
-Pub. L. 107–16, title I, §103(b), June 7, 2001, 115 Stat. 45, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2005.”
+Pub. L. 107–16, title I, §103(b), June 7, 2001, 115 Stat. 45, provided that: "The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2005."
 
 #### Effective Date of 1998 Amendment ####
 
-Pub. L. 105–277, div. J, title IV, §4004(c)(3), Oct. 21, 1998, 112 Stat. 2681–911, provided that: “The amendment made by subsection (b)(2) [amending this section] shall apply to taxable years beginning after December 31, 1990.”
+Pub. L. 105–277, div. J, title IV, §4004(c)(3), Oct. 21, 1998, 112 Stat. 2681–911, provided that: "The amendment made by subsection (b)(2) [amending this section] shall apply to taxable years beginning after December 31, 1990."
 
 #### Effective Date of 1993 Amendment ####
 

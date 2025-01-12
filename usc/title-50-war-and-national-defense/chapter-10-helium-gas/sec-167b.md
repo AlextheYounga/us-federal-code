@@ -44,7 +44,7 @@ Any costs associated with the termination of contracts described in paragraph (1
 
 #### Codification ####
 
-In subsec. (c)(2), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(2), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions ####
 
@@ -52,6 +52,6 @@ A prior section 4 of act Mar. 3, 1925, related to exportation of helium gas and 
 
 #### Amendments ####
 
-**2013**—Subsecs. (c)(3), (4), (d)(2). Pub. L. 113–40 substituted “section 167d(e)” for “section 167d(f)”.
+**2013**—Subsecs. (c)(3), (4), (d)(2). Pub. L. 113–40 substituted "section 167d(e)" for "section 167d(f)".
 
 **1996**—Pub. L. 104–273 amended section generally. Prior to amendment, section consisted of single par. authorizing Secretary to maintain and operate helium production and purification plants and to conduct or contract for research as to helium production, purification, transportation, liquefaction, storage, and utilization.

@@ -14,4 +14,4 @@ The Smithsonian Institution shall include in its annual report of its operations
 
 **1966**—Subsec. (a). Pub. L. 89–509, §6, raised from three to six the number of board members required to constitute a quorum.
 
-Subsec. (b). Pub. L. 89–509, §7, substituted “national air and space museum” for “national air museum”.
+Subsec. (b). Pub. L. 89–509, §7, substituted "national air and space museum" for "national air museum".

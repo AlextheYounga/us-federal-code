@@ -2,7 +2,7 @@
 
 #### (a) Establishment; appointment of Director; statistical and epidemiological activities ####
 
-There is established in the Department of Health and Human Services the National Center for Health Statistics (hereinafter in this section referred to as the “Center”) which shall be under the direction of a Director who shall be appointed by the Secretary. The Secretary, acting through the Center, shall conduct and support statistical and epidemiological activities for the purpose of improving the effectiveness, efficiency, and quality of health services in the United States.
+There is established in the Department of Health and Human Services the National Center for Health Statistics (hereinafter in this section referred to as the "Center") which shall be under the direction of a Director who shall be appointed by the Secretary. The Secretary, acting through the Center, shall conduct and support statistical and epidemiological activities for the purpose of improving the effectiveness, efficiency, and quality of health services in the United States.
 
 #### (b) Duties ####
 
@@ -90,7 +90,7 @@ In carrying out the requirements of section 242b(c) of this title and paragraph 
 
 #### (k) National Committee on Vital and Health Statistics; establishment; membership; term of office; compensation; functions; consultations of Secretary with Committee and professional advisory groups ####
 
-(1) There is established in the Office of the Secretary a committee to be known as the National Committee on Vital and Health Statistics (hereinafter in this subsection referred to as the “Committee”) which shall consist of 18 members.
+(1) There is established in the Office of the Secretary a committee to be known as the National Committee on Vital and Health Statistics (hereinafter in this subsection referred to as the "Committee") which shall consist of 18 members.
 
 (2) The members of the Committee shall be appointed from among persons who have distinguished themselves in the fields of health statistics, electronic interchange of health care information, privacy and security of electronic information, population-based public health, purchasing or financing health care services, integrated computerized health information systems, health services research, consumer interests in health information, health data standards, epidemiology, and the provision of health services. Members of the Committee shall be appointed for terms of 4 years.
 
@@ -184,7 +184,7 @@ The Social Security Act, referred to in subsec. (k)(5)(A)(viii), (D), (7), is ac
 
 #### Codification ####
 
-In subsec. (f), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (f), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions ####
 
@@ -196,17 +196,17 @@ Provisions similar to those comprising subsec. (h) of this section were containe
 
 **1998**—Subsec. (m)(4). Pub. L. 105–392, §201(b)(1), added par. (4).
 
-Subsec. (n)(1). Pub. L. 105–340, §201(1), and Pub. L. 105–392, §201(b)(2), amended par. (1) identically, substituting “2003” for “1998”.
+Subsec. (n)(1). Pub. L. 105–340, §201(1), and Pub. L. 105–392, §201(b)(2), amended par. (1) identically, substituting "2003" for "1998".
 
-Subsec. (n)(2). Pub. L. 105–392, §201(b)(3)(A), in first sentence, substituted “paragraphs (1) through (3) of subsection (m)” for “subsection (m)” and substituted “such sums as may be necessary for each of the fiscal years 1999 through 2003.” for “$5,000,000 for fiscal year 1991, $7,500,000 for fiscal year 1992, $10,000,000 for fiscal year 1993, and $10,000,000 for each of the fiscal years 1994 through 2003.”
+Subsec. (n)(2). Pub. L. 105–392, §201(b)(3)(A), in first sentence, substituted "paragraphs (1) through (3) of subsection (m)" for "subsection (m)" and substituted "such sums as may be necessary for each of the fiscal years 1999 through 2003." for "$5,000,000 for fiscal year 1991, $7,500,000 for fiscal year 1992, $10,000,000 for fiscal year 1993, and $10,000,000 for each of the fiscal years 1994 through 2003."
 
-Pub. L. 105–340, §201(2), substituted “2003” for “1998”.
+Pub. L. 105–340, §201(2), substituted "2003" for "1998".
 
 Subsec. (n)(3). Pub. L. 105–392, §201(b)(3)(B), added par. (3).
 
-**1996**—Subsec. (k)(1). Pub. L. 104–191, §263(1), substituted “18” for “16”.
+**1996**—Subsec. (k)(1). Pub. L. 104–191, §263(1), substituted "18" for "16".
 
-Subsec. (k)(2). Pub. L. 104–191, §263(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The members of the Committee shall be appointed by the Secretary from among persons who have distinguished themselves in the fields of health statistics, health planning, epidemiology, and the provision of health services. Members of the Committee shall be appointed for terms of 4 years.”
+Subsec. (k)(2). Pub. L. 104–191, §263(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The members of the Committee shall be appointed by the Secretary from among persons who have distinguished themselves in the fields of health statistics, health planning, epidemiology, and the provision of health services. Members of the Committee shall be appointed for terms of 4 years."
 
 Subsec. (k)(3), (4). Pub. L. 104–191, §263(3), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
 
@@ -218,73 +218,73 @@ Subsec. (k)(6). Pub. L. 104–191, §263(3), redesignated par. (5) as (6).
 
 Subsec. (k)(7). Pub. L. 104–191, §263(5), added par. (7).
 
-**1993**—Subsec. (c). Pub. L. 103–183, §501(a)(1), substituted “Committee on Labor and Human Resources” for “Committee on Human Resources”.
+**1993**—Subsec. (c). Pub. L. 103–183, §501(a)(1), substituted "Committee on Labor and Human Resources" for "Committee on Human Resources".
 
-Subsec. (g). Pub. L. 103–183, §501(a)(2), substituted “data” for “data which shall be published as a part of the health reports published by the Secretary”.
+Subsec. (g). Pub. L. 103–183, §501(a)(2), substituted "data" for "data which shall be published as a part of the health reports published by the Secretary".
 
-Subsec. (i). Pub. L. 103–183, §501(a)(3), struck out “engaged in health planning activities” after “entities”.
+Subsec. (i). Pub. L. 103–183, §501(a)(3), struck out "engaged in health planning activities" after "entities".
 
-Subsec. (k)(2). Pub. L. 103–183, §501(a)(4), struck out subpar. (A) designation, substituted “Members” for “Except as provided in subparagraph (B), members”, and struck out subpar. (B) which related to extensions of membership terms of members of National Committee on Vital and Health Statistics whose terms were to expire in calendar years 1988, 1989, and 1990.
+Subsec. (k)(2). Pub. L. 103–183, §501(a)(4), struck out subpar. (A) designation, substituted "Members" for "Except as provided in subparagraph (B), members", and struck out subpar. (B) which related to extensions of membership terms of members of National Committee on Vital and Health Statistics whose terms were to expire in calendar years 1988, 1989, and 1990.
 
-Subsec. (l). Pub. L. 103–183, §501(a)(5)(A)–(C), redesignated subsec. (m) as (l), substituted “subsection (m)” for “subsection (n)”, and struck out former subsec. (l) which related to development of plan for collection and coordination of statistical and epidemiological data on effects of environment on health and establishment of guidelines for compilation, analysis, and distribution of statistics and information necessary for coordinated determination of effects of conditions of employment and indoor and outdoor environmental conditions on public health.
+Subsec. (l). Pub. L. 103–183, §501(a)(5)(A)–(C), redesignated subsec. (m) as (l), substituted "subsection (m)" for "subsection (n)", and struck out former subsec. (l) which related to development of plan for collection and coordination of statistical and epidemiological data on effects of environment on health and establishment of guidelines for compilation, analysis, and distribution of statistics and information necessary for coordinated determination of effects of conditions of employment and indoor and outdoor environmental conditions on public health.
 
 Subsec. (m). Pub. L. 103–183, §501(a)(5)(B), redesignated subsec. (n) as (m). Former subsec. (m) redesignated (l).
 
-Subsecs. (n), (o). Pub. L. 103–183, §501(a)(5)(B), (D), (d), redesignated subsec. (o) as (n), in par. (1) substituted “(l)” for “(m)” and “1998” for “1993”, and in par. (2) substituted “(m)” for “(n)”, struck out “and” after “1992,”, inserted “, and $10,000,000 for each of the fiscal years 1994 through 1998”, and substituted “(m)(2)” for “(n)(2)”. Former subsec. (n) redesignated (m).
+Subsecs. (n), (o). Pub. L. 103–183, §501(a)(5)(B), (D), (d), redesignated subsec. (o) as (n), in par. (1) substituted "(l)" for "(m)" and "1998" for "1993", and in par. (2) substituted "(m)" for "(n)", struck out "and" after "1992,", inserted ", and $10,000,000 for each of the fiscal years 1994 through 1998", and substituted "(m)(2)" for "(n)(2)". Former subsec. (n) redesignated (m).
 
-**1991**—Subsec. (k)(4)(C). Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+**1991**—Subsec. (k)(4)(C). Pub. L. 102–54 substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
-**1990**—Subsec. (h). Pub. L. 101–527, §7(a), designated existing text as par. (1), inserted after second sentence “The Secretary shall encourage States and registration areas to obtain detailed data on ethnic and racial populations, including subpopulations of Hispanics, Asian Americans, and Pacific Islanders with significant representation in the State or registration area.”, and added par. (2).
+**1990**—Subsec. (h). Pub. L. 101–527, §7(a), designated existing text as par. (1), inserted after second sentence "The Secretary shall encourage States and registration areas to obtain detailed data on ethnic and racial populations, including subpopulations of Hispanics, Asian Americans, and Pacific Islanders with significant representation in the State or registration area.", and added par. (2).
 
-Subsecs. (m) to (o). Pub. L. 101–527, §7(b)(1), (c), added subsecs. (m) and (n) and redesignated former subsec. (m) as (o) and amended it generally. Prior to amendment, subsec. (o) read as follows: “For health statistical and epidemiological activities undertaken or supported under this section, there are authorized to be appropriated $55,000,000 for fiscal year 1988 and such sums as may be necessary for each of the fiscal years 1989 and 1990.”
+Subsecs. (m) to (o). Pub. L. 101–527, §7(b)(1), (c), added subsecs. (m) and (n) and redesignated former subsec. (m) as (o) and amended it generally. Prior to amendment, subsec. (o) read as follows: "For health statistical and epidemiological activities undertaken or supported under this section, there are authorized to be appropriated $55,000,000 for fiscal year 1988 and such sums as may be necessary for each of the fiscal years 1989 and 1990."
 
-**1989**—Subsec. (a). Pub. L. 101–239, §6103(e)(2)(A), inserted at end “The Secretary, acting through the Center, shall conduct and support statistical and epidemiological activities for the purpose of improving the effectiveness, efficiency, and quality of health services in the United States.”
+**1989**—Subsec. (a). Pub. L. 101–239, §6103(e)(2)(A), inserted at end "The Secretary, acting through the Center, shall conduct and support statistical and epidemiological activities for the purpose of improving the effectiveness, efficiency, and quality of health services in the United States."
 
-Subsec. (b). Pub. L. 101–239, §6103(e)(2)(B), substituted “subsection (a) of this section” for “section 242b(a) of this title”.
+Subsec. (b). Pub. L. 101–239, §6103(e)(2)(B), substituted "subsection (a) of this section" for "section 242b(a) of this title".
 
 Subsec. (m). Pub. L. 101–239, §6103(e)(2)(C), added subsec. (m).
 
-**1987**—Subsec. (a). Pub. L. 100–177, §104, struck out “and supervised by the Assistant Secretary for Health (or such other officer of the Department as may be designated by the Secretary as the principal adviser to him for health programs)”.
+**1987**—Subsec. (a). Pub. L. 100–177, §104, struck out "and supervised by the Assistant Secretary for Health (or such other officer of the Department as may be designated by the Secretary as the principal adviser to him for health programs)".
 
-Subsec. (k)(1). Pub. L. 100–177, §105(a)(1), substituted “16 members” for “fifteen members”.
+Subsec. (k)(1). Pub. L. 100–177, §105(a)(1), substituted "16 members" for "fifteen members".
 
-Subsec. (k)(2)(A). Pub. L. 100–177, §105(a)(2), substituted “terms of 4 years” for “terms of three years”.
+Subsec. (k)(2)(A). Pub. L. 100–177, §105(a)(2), substituted "terms of 4 years" for "terms of three years".
 
-Subsec. (k)(2)(B). Pub. L. 100–177, §105(a)(3), added subpar. (B) and struck out former subpar. (B) which read as follows: “Of the members first appointed—
+Subsec. (k)(2)(B). Pub. L. 100–177, §105(a)(3), added subpar. (B) and struck out former subpar. (B) which read as follows: "Of the members first appointed—
 
-“(i) five shall be appointed for terms of one year,
+"(i) five shall be appointed for terms of one year,
 
-“(ii) five shall be appointed for terms of two years, and
+"(ii) five shall be appointed for terms of two years, and
 
-“(iii) five shall be appointed for terms of three years,
+"(iii) five shall be appointed for terms of three years,
 
-as designated by the Secretary at the time of appointment. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A member may serve after the expiration of his term until his successor has taken office.”
+as designated by the Secretary at the time of appointment. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A member may serve after the expiration of his term until his successor has taken office."
 
 **1983**—Subsec. (l)(2)(D). Pub. L. 97–414 redesignated subpar. (E) as (D) and struck out former subpar. (D) which provided that the Center would serve as a clearinghouse for statistics and information with respect to which guidelines had been established under subpar. (A).
 
 Subsec. (l)(2)(E) to (G). Pub. L. 97–414 redesignated subpars. (F) and (G) as (E) and (F), respectively. Former subpar. (E) redesignated (D).
 
-**1981**—Subsec. (a). Pub. L. 97–35, §920(d)(1), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+**1981**—Subsec. (a). Pub. L. 97–35, §920(d)(1), substituted "Health and Human Services" for "Health, Education, and Welfare".
 
-Subsec. (c). Pub. L. 97–35, §920(d)(2), substituted “Energy and” for “Interstate and Foreign”.
+Subsec. (c). Pub. L. 97–35, §920(d)(2), substituted "Energy and" for "Interstate and Foreign".
 
-Subsec. (e). Pub. L. 97–35, §920(a), (d)(1), in par. (3) inserted applicability to other activities, and in par. (4) substituted “Health and Human Services” for “Health, Education, and Welfare”.
+Subsec. (e). Pub. L. 97–35, §920(a), (d)(1), in par. (3) inserted applicability to other activities, and in par. (4) substituted "Health and Human Services" for "Health, Education, and Welfare".
 
-Subsecs. (j), (k)(4)(C), (D). Pub. L. 97–35, §920(d)(1), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+Subsecs. (j), (k)(4)(C), (D). Pub. L. 97–35, §920(d)(1), substituted "Health and Human Services" for "Health, Education, and Welfare".
 
-Subsec. (l)(2). Pub. L. 97–35, §920(b), (c), (d)(1), in subpar. (A) inserted reference to Office of Federal Statistical Policy and Standards, in subpar. (B)(v) substituted “Health and Human Services” for “Health, Education, and Welfare”, and in subpar. (D) struck out provisions relating to assistance to executive departments.
+Subsec. (l)(2). Pub. L. 97–35, §920(b), (c), (d)(1), in subpar. (A) inserted reference to Office of Federal Statistical Policy and Standards, in subpar. (B)(v) substituted "Health and Human Services" for "Health, Education, and Welfare", and in subpar. (D) struck out provisions relating to assistance to executive departments.
 
-**1978**—Subsec. (b). Pub. L. 95–623, §5(a), struck out “may” after “through the Center,”, substituted in pars. (1) and (2) “shall collect” and “shall undertake” for “collect” and “undertake”, respectively, and added pars. (3) and (4) and provision for availability of certain appropriated funds from par. (4) payments until expended.
+**1978**—Subsec. (b). Pub. L. 95–623, §5(a), struck out "may" after "through the Center,", substituted in pars. (1) and (2) "shall collect" and "shall undertake" for "collect" and "undertake", respectively, and added pars. (3) and (4) and provision for availability of certain appropriated funds from par. (4) payments until expended.
 
-Subsec. (c). Pub. L. 95–623, §5(b), substituted “statistical and epidemiological compilations” for “statistical compilations” in two places and “Committee on Human Resources” for “Committee on Labor and Public Welfare” of the Senate.
+Subsec. (c). Pub. L. 95–623, §5(b), substituted "statistical and epidemiological compilations" for "statistical compilations" in two places and "Committee on Human Resources" for "Committee on Labor and Public Welfare" of the Senate.
 
 Subsec. (e). Pub. L. 95–623, §5(c)(1), incorporated in introductory text prior cl. (1) provision requiring the Secretary to assist State and local health agencies and Federal agencies involved in health matters in the design and implementation of a cooperative system for producing comparable and uniform health information and statistics at the Federal, State, and local levels; enacted in pars. (1) and (2) provisions almost identical to prior cls. (2) and (3); enacted par. (3); struck out former cl. (4) provision for the Federal share of the data collection costs under the system; enacted in par. (4) provisions almost identical to former cl. (5); and required State designation of a State administrative agency to be responsible for the statistical activities within the State under the System and Federal guidelines for production of uniform and timely data and appropriate access to the data.
 
-Subsec. (f). Pub. L. 95–623, §5(d), substituted “the Secretary, acting through the Center, shall cooperate and consult” for “the Secretary shall cooperate and consult”.
+Subsec. (f). Pub. L. 95–623, §5(d), substituted "the Secretary, acting through the Center, shall cooperate and consult" for "the Secretary shall cooperate and consult".
 
 Subsecs. (i), (j). Pub. L. 95–623, §5(f), added subsecs. (i) and (j). Former subsec. (i) redesignated (k).
 
-Subsec. (k). Pub. L. 95–623, §5(c)(2), (e), (f), struck from par. (1) “United States” before “National Committee on Vital and Health Statistics”; authorized in par. (2)(A) the appointment of Committee members from distinguished persons in field of health planning; required the Committee to assist and advise the Secretary with respect to the Cooperative Health Statistics System and the standardized means for the collection of health information and statistics to be established by the Secretary; and redesignated such amended subsec. (i) as (k).
+Subsec. (k). Pub. L. 95–623, §5(c)(2), (e), (f), struck from par. (1) "United States" before "National Committee on Vital and Health Statistics"; authorized in par. (2)(A) the appointment of Committee members from distinguished persons in field of health planning; required the Committee to assist and advise the Secretary with respect to the Cooperative Health Statistics System and the standardized means for the collection of health information and statistics to be established by the Secretary; and redesignated such amended subsec. (i) as (k).
 
 Subsec. (l). Pub. L. 95–623, §8(a), added subsec. (l).
 
@@ -296,15 +296,15 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Effective Date of 1990 Amendment ####
 
-Pub. L. 101–527, §12, Nov. 6, 1990, 104 Stat. 2335, provided that: “This Act and the amendments made by this Act [enacting sections 254c–1, 254t, 256a, 294bb, 294cc, and 300u–6 of this title, amending this section and sections 242m, 254b, 254c, 294m, 294o, and 295g–2 of this title, enacting provisions set out as notes under sections 201 and 300u–6 of this title, and repealing provisions set out as a note under section 292h of this title] shall take effect October 1, 1990, or upon the date of the enactment of this Act [Nov. 6, 1990], whichever occurs later.”
+Pub. L. 101–527, §12, Nov. 6, 1990, 104 Stat. 2335, provided that: "This Act and the amendments made by this Act [enacting sections 254c–1, 254t, 256a, 294bb, 294cc, and 300u–6 of this title, amending this section and sections 242m, 254b, 254c, 294m, 294o, and 295g–2 of this title, enacting provisions set out as notes under sections 201 and 300u–6 of this title, and repealing provisions set out as a note under section 292h of this title] shall take effect October 1, 1990, or upon the date of the enactment of this Act [Nov. 6, 1990], whichever occurs later."
 
 #### Effective Date of 1987 Amendment ####
 
-Pub. L. 100–177, title I, §105(b), Dec. 1, 1987, 101 Stat. 988, provided that: “The amendments made by this section [amending this section] shall become effective on January 1, 1988.”
+Pub. L. 100–177, title I, §105(b), Dec. 1, 1987, 101 Stat. 988, provided that: "The amendments made by this section [amending this section] shall become effective on January 1, 1988."
 
 #### Money Received by Center From Reimbursements, Interagency Agreements, and Sale of Data Tapes To Remain Available Until Expended ####
 
-Pub. L. 103–333, title II, Sept. 30, 1994, 108 Stat. 2550, provided in part: “That for fiscal year 1995 and subsequent fiscal years amounts received by the National Center for Health Statistics from reimbursements and interagency agreements and the sale of data tapes may be credited to this appropriation and shall remain available until expended”.
+Pub. L. 103–333, title II, Sept. 30, 1994, 108 Stat. 2550, provided in part: "That for fiscal year 1995 and subsequent fiscal years amounts received by the National Center for Health Statistics from reimbursements and interagency agreements and the sale of data tapes may be credited to this appropriation and shall remain available until expended".
 
 [<sup>1</sup> So in original. Probably should be capitalized.](#242k_1)
 

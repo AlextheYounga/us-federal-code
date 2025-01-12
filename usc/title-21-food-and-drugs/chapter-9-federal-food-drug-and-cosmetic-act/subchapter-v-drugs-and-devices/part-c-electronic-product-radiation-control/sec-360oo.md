@@ -24,15 +24,15 @@ Section was classified to section 263j of Title 42, The Public Health and Welfar
 
 **1993**—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263j of Title 42, The Public Health and Welfare, as this section.
 
-**1990**—Subsec. (a)(1). Pub. L. 101–629, §19(a)(2)(F)(i), substituted “section 360kk” for “section 263f”.
+**1990**—Subsec. (a)(1). Pub. L. 101–629, §19(a)(2)(F)(i), substituted "section 360kk" for "section 263f".
 
-Subsec. (a)(2). Pub. L. 101–629, §19(a)(2)(F)(ii), (iii), substituted “section 360ll or 360nn” for “section 263g or 263i” and “section 360ll(f)” for “section 263g(f)”.
+Subsec. (a)(2). Pub. L. 101–629, §19(a)(2)(F)(ii), (iii), substituted "section 360ll or 360nn" for "section 263g or 263i" and "section 360ll(f)" for "section 263g(f)".
 
-Subsec. (a)(3). Pub. L. 101–629, §19(a)(1)(B), (2)(F)(iii), substituted “this part” for “this subpart” and “section 360nn” for “section 263i”.
+Subsec. (a)(3). Pub. L. 101–629, §19(a)(1)(B), (2)(F)(iii), substituted "this part" for "this subpart" and "section 360nn" for "section 263i".
 
-Subsec. (a)(4). Pub. L. 101–629, §19(a)(2)(F)(iii), substituted “section 360nn(b)” for “section 263i(b)” and “section 360nn(f)” for “section 263i(f)”.
+Subsec. (a)(4). Pub. L. 101–629, §19(a)(2)(F)(iii), substituted "section 360nn(b)" for "section 263i(b)" and "section 360nn(f)" for "section 263i(f)".
 
-Subsec. (a)(5). Pub. L. 101–629, §19(a)(2)(F)(i), substituted “section 360kk(h)” for “section 263f(h)” in two places.
+Subsec. (a)(5). Pub. L. 101–629, §19(a)(2)(F)(i), substituted "section 360kk(h)" for "section 263f(h)" in two places.
 
 #### Noninterference With Other Federal Agencies ####
 

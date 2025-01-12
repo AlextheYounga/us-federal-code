@@ -6,7 +6,7 @@ Sec.
 
 617. Colorado River Basin; protection and development; dam, reservoir, and incidental works; water, water power, and electrical energy; eminent domain.
 
-617a. “Colorado River Dam Fund”.
+617a. "Colorado River Dam Fund".
 
 617b. Authorization of appropriations.
 
@@ -80,7 +80,7 @@ Sec.
 
 618 l. Repealed.
 
-618m. Effect on existing laws and States’ rights.
+618m. Effect on existing laws and States' rights.
 
 618n. Wages of employees.
 
@@ -100,6 +100,6 @@ Sec.
 
 Act May 28, 1954, ch. 241, 68 Stat. 143, provided that:
 
-“For the purposes of effecting economies and increased efficiency in the construction, operation, and maintenance thereof and of accounting for the return of reimbursable costs, the Secretary of the Interior is authorized and directed to consolidate and administer as a single project to be known as the Parker-Davis project, Arizona-California-Nevada, the projects known as the Parker Dam power project, Arizona-California, and the Davis Dam project, Arizona-Nevada: *Provided*, That nothing in this Act shall be construed to alter or affect in any way the Boulder Canyon Project Act (45 Stat. 1057) [subchapter I of this chapter], the Boulder Canyon Project Adjustment Act (54 Stat. 774) [subchapter II of this chapter], or the treaty between the United States of America and the United Mexican States, signed at Washington on February 3, 1944, relating to the utilization of the waters of the Colorado and Tijuana Rivers and of the Rio Grande from Fort Quitman, Texas, to the Gulf of Mexico: *Provided further*, That nothing in this Act shall be construed to alter or affect in any way any right or obligation of the United States or any other party under contracts heretofore entered into by the United States.
+"For the purposes of effecting economies and increased efficiency in the construction, operation, and maintenance thereof and of accounting for the return of reimbursable costs, the Secretary of the Interior is authorized and directed to consolidate and administer as a single project to be known as the Parker-Davis project, Arizona-California-Nevada, the projects known as the Parker Dam power project, Arizona-California, and the Davis Dam project, Arizona-Nevada: *Provided*, That nothing in this Act shall be construed to alter or affect in any way the Boulder Canyon Project Act (45 Stat. 1057) [subchapter I of this chapter], the Boulder Canyon Project Adjustment Act (54 Stat. 774) [subchapter II of this chapter], or the treaty between the United States of America and the United Mexican States, signed at Washington on February 3, 1944, relating to the utilization of the waters of the Colorado and Tijuana Rivers and of the Rio Grande from Fort Quitman, Texas, to the Gulf of Mexico: *Provided further*, That nothing in this Act shall be construed to alter or affect in any way any right or obligation of the United States or any other party under contracts heretofore entered into by the United States.
 
-“Sec. 2. Funds heretofore appropriated for the Parker Dam power project, Arizona-California, and the Davis Dam project, Arizona-Nevada, shall be consolidated and shall be and remain available for the purposes for which they were appropriated.”
+"Sec. 2. Funds heretofore appropriated for the Parker Dam power project, Arizona-California, and the Davis Dam project, Arizona-Nevada, shall be consolidated and shall be and remain available for the purposes for which they were appropriated."

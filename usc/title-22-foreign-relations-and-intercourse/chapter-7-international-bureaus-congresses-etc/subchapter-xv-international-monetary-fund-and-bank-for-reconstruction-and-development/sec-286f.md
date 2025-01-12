@@ -12,9 +12,9 @@ In the event any person refuses to furnish such information when requested to do
 
 It shall be unlawful for any officer or employee of the Government, or for any advisor or consultant to the Government, to disclose, otherwise than in the course of official duty, any information obtained under this section, or to use any such information for his personal benefit. Whoever violates any of the provisions of this subsection shall, upon conviction, be fined not more than $5,000, or imprisoned for not more than five years, or both.
 
-#### (d) “Person” defined ####
+#### (d) "Person" defined ####
 
-The term “person” as used in this section means an individual, partnership, corporation or association.
+The term "person" as used in this section means an individual, partnership, corporation or association.
 
 (July 31, 1945, ch. 339, §8, 59 Stat. 515.)
 
@@ -60,7 +60,7 @@ United States Tariff Commission [now the United States International Trade Commi
 
 (d) The information collected or made available under section 2 of this order shall be submitted to the National Advisory Council for review and for presentation to the said Fund or Bank.
 
-(e) As used in this order, the word “person” means an individual, partnership, corporation, or association.
+(e) As used in this order, the word "person" means an individual, partnership, corporation, or association.
 
 Sec. 3. The Director's determination of any matter under section 1 or section 2(b) of this order shall be made after consulting appropriate Federal executive agencies and giving due consideration to any responsibility now exercised by any of them in relation to an intergovernmental organization.
 

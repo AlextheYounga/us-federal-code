@@ -8,7 +8,7 @@ The Director of NIH, acting through the Office of the Director of NIH or the Dir
 
 #### (2) Construction and cost of construction ####
 
-For purposes of this section, the terms “construction” and “cost of construction” include the construction of new buildings and the expansion, renovation, remodeling, and alteration of existing buildings, including architects’ fees, but do not include the cost of acquisition of land or off-site improvements.
+For purposes of this section, the terms "construction" and "cost of construction" include the construction of new buildings and the expansion, renovation, remodeling, and alteration of existing buildings, including architects' fees, but do not include the cost of acquisition of land or off-site improvements.
 
 #### (b) Scientific and technical review boards for merit-based review of proposals ####
 
@@ -16,7 +16,7 @@ For purposes of this section, the terms “construction” and “cost of constr
 
 #### (A) Establishment ####
 
-There is established a Scientific and Technical Review Board on Biomedical and Behavioral Research Facilities (referred to in this section as the “Board”).
+There is established a Scientific and Technical Review Board on Biomedical and Behavioral Research Facilities (referred to in this section as the "Board").
 
 #### (B) Requirement ####
 
@@ -26,7 +26,7 @@ The Director of NIH, acting through the Office of the Director of NIH, may appro
 
 #### (A) Advice ####
 
-The Board shall provide advice to the Director of NIH and the Council of Councils established under section 282(l) of this title (in this section referred to as the “Council”) in carrying out this section.
+The Board shall provide advice to the Director of NIH and the Council of Councils established under section 282(l) of this title (in this section referred to as the "Council") in carrying out this section.
 
 #### (B) Determination of merit ####
 
@@ -200,87 +200,87 @@ Section was formerly classified to section 287a–2 of this title.
 
 #### Amendments ####
 
-**2011**—Subsec. (a)(1). Pub. L. 112–74, §221(b)(1)(B)(i), substituted “acting through the Office of the Director of NIH or the Director of the National Institute of Allergy and Infectious Diseases” for “acting through the Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases”.
+**2011**—Subsec. (a)(1). Pub. L. 112–74, §221(b)(1)(B)(i), substituted "acting through the Office of the Director of NIH or the Director of the National Institute of Allergy and Infectious Diseases" for "acting through the Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases".
 
-Subsec. (b)(1)(A). Pub. L. 112–74, §221(b)(1)(B)(vi)(I), struck out “within the Center” after “established”.
+Subsec. (b)(1)(A). Pub. L. 112–74, §221(b)(1)(B)(vi)(I), struck out "within the Center" after "established".
 
-Subsec. (b)(1)(B). Pub. L. 112–74, §221(b)(1)(B)(v), substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the Center”.
+Subsec. (b)(1)(B). Pub. L. 112–74, §221(b)(1)(B)(v), substituted "Director of NIH, acting through the Office of the Director of NIH," for "Director of the Center".
 
-Subsec. (b)(2)(A). Pub. L. 112–74, §221(b)(1)(B)(vi)(II)(aa), substituted “and the Council of Councils established under section 282(l) of this title (in this section referred to as the ‘Council’)” for “and the advisory council established under section 287a of this title (in this section referred to as the ‘Advisory Council’)”.
+Subsec. (b)(2)(A). Pub. L. 112–74, §221(b)(1)(B)(vi)(II)(aa), substituted "and the Council of Councils established under section 282(l) of this title (in this section referred to as the 'Council')" for "and the advisory council established under section 287a of this title (in this section referred to as the 'Advisory Council')".
 
-Pub. L. 112–74, §221(b)(1)(B)(iii), substituted “Director of NIH” for “Director of the Center”.
+Pub. L. 112–74, §221(b)(1)(B)(iii), substituted "Director of NIH" for "Director of the Center".
 
-Subsec. (b)(2)(B). Pub. L. 112–74, §221(b)(1)(B)(vi)(II)(bb), struck out “Advisory” before “Council”.
+Subsec. (b)(2)(B). Pub. L. 112–74, §221(b)(1)(B)(vi)(II)(bb), struck out "Advisory" before "Council".
 
-Pub. L. 112–74, §221(b)(1)(B)(iii), substituted “Director of NIH” for “Director of the Center”.
+Pub. L. 112–74, §221(b)(1)(B)(iii), substituted "Director of NIH" for "Director of the Center".
 
-Subsec. (b)(2)(C). Pub. L. 112–74, §221(b)(1)(B)(vi)(II)(bb), struck out “Advisory” before “Council”.
+Subsec. (b)(2)(C). Pub. L. 112–74, §221(b)(1)(B)(vi)(II)(bb), struck out "Advisory" before "Council".
 
-Subsec. (b)(2)(D). Pub. L. 112–74, §221(b)(1)(B)(vi)(II)(bb), struck out “Advisory” before “Council”.
+Subsec. (b)(2)(D). Pub. L. 112–74, §221(b)(1)(B)(vi)(II)(bb), struck out "Advisory" before "Council".
 
-Pub. L. 112–74, §221(b)(1)(B)(iii), substituted “Director of NIH” for “Director of the Center” in introductory provisions and cl. (ii).
+Pub. L. 112–74, §221(b)(1)(B)(iii), substituted "Director of NIH" for "Director of the Center" in introductory provisions and cl. (ii).
 
-Subsec. (b)(3)(A). Pub. L. 112–74, §221(b)(1)(B)(v), substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the Center” in two places.
+Subsec. (b)(3)(A). Pub. L. 112–74, §221(b)(1)(B)(v), substituted "Director of NIH, acting through the Office of the Director of NIH," for "Director of the Center" in two places.
 
-Pub. L. 112–74, §221(b)(1)(B)(iv), struck out comma after “Director of the Center” the first place appearing.
+Pub. L. 112–74, §221(b)(1)(B)(iv), struck out comma after "Director of the Center" the first place appearing.
 
-Subsec. (b)(4). Pub. L. 112–74, §221(b)(1)(B)(v), substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the Center” in two places in introductory provisions.
+Subsec. (b)(4). Pub. L. 112–74, §221(b)(1)(B)(v), substituted "Director of NIH, acting through the Office of the Director of NIH," for "Director of the Center" in two places in introductory provisions.
 
-Subsec. (b)(6)(B). Pub. L. 112–74, §221(b)(1)(B)(v), substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the Center”.
+Subsec. (b)(6)(B). Pub. L. 112–74, §221(b)(1)(B)(v), substituted "Director of NIH, acting through the Office of the Director of NIH," for "Director of the Center".
 
-Subsec. (c)(1). Pub. L. 112–74, §221(b)(1)(B)(ii), substituted “Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases,” for “Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases” in introductory provisions.
+Subsec. (c)(1). Pub. L. 112–74, §221(b)(1)(B)(ii), substituted "Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases," for "Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases" in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 112–74, §221(b)(1)(B)(v), substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the Center” in two places in introductory provisions.
+Subsec. (c)(2). Pub. L. 112–74, §221(b)(1)(B)(v), substituted "Director of NIH, acting through the Office of the Director of NIH," for "Director of the Center" in two places in introductory provisions.
 
-Subsec. (d). Pub. L. 112–74, §221(b)(1)(B)(ii), substituted “Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases,” for “Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases”.
+Subsec. (d). Pub. L. 112–74, §221(b)(1)(B)(ii), substituted "Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases," for "Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases".
 
-Subsec. (e). Pub. L. 112–74, §221(b)(1)(B)(ii), substituted “Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases,” for “Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases” wherever appearing.
+Subsec. (e). Pub. L. 112–74, §221(b)(1)(B)(ii), substituted "Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases," for "Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases" wherever appearing.
 
-Subsec. (f)(1). Pub. L. 112–74, §221(b)(1)(B)(v), substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the Center”.
+Subsec. (f)(1). Pub. L. 112–74, §221(b)(1)(B)(v), substituted "Director of NIH, acting through the Office of the Director of NIH," for "Director of the Center".
 
-Pub. L. 112–74, §221(b)(1)(B)(iv), struck out comma after “Director of the Center”.
+Pub. L. 112–74, §221(b)(1)(B)(iv), struck out comma after "Director of the Center".
 
-Subsec. (f)(2). Pub. L. 112–74, §221(b)(1)(B)(ii), substituted “Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases,” for “Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases”.
+Subsec. (f)(2). Pub. L. 112–74, §221(b)(1)(B)(ii), substituted "Director of NIH, acting through the Office of the Director of NIH or the National Institute of Allergy and Infectious Diseases," for "Director of the Center or the Director of the National Institute of Allergy and Infectious Diseases".
 
-Subsec. (g). Pub. L. 112–74, §221(b)(1)(B)(vii), substituted “after consultation with the Council” for “after consultation with the Advisory Council”.
+Subsec. (g). Pub. L. 112–74, §221(b)(1)(B)(vii), substituted "after consultation with the Council" for "after consultation with the Advisory Council".
 
-Pub. L. 112–74, §221(b)(1)(B)(v), substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the Center”.
+Pub. L. 112–74, §221(b)(1)(B)(v), substituted "Director of NIH, acting through the Office of the Director of NIH," for "Director of the Center".
 
-Pub. L. 112–74, §221(b)(1)(B)(iv), struck out comma after “Director of the Center”.
+Pub. L. 112–74, §221(b)(1)(B)(iv), struck out comma after "Director of the Center".
 
-**2007**—Subsec. (c)(2). Pub. L. 109–482, §103(b)(40)(A), in introductory provisions, substituted “to carry out this section for a fiscal year up to” for “under subsection (i)(1) of this section for a fiscal year up to” and “to carry out this section for a fiscal year that” for “under such subsection for a fiscal year that”.
+**2007**—Subsec. (c)(2). Pub. L. 109–482, §103(b)(40)(A), in introductory provisions, substituted "to carry out this section for a fiscal year up to" for "under subsection (i)(1) of this section for a fiscal year up to" and "to carry out this section for a fiscal year that" for "under such subsection for a fiscal year that".
 
 Subsec. (h). Pub. L. 109–482, §104(b)(1)(M), struck out subsec. (h) which required biennial report concerning the status of biomedical and behavioral research facilities and the availability and condition of laboratory equipment.
 
 Subsec. (i). Pub. L. 109–482, §103(b)(40)(B), struck out subsec. (i) which authorized appropriations for the National Center for Research Resources and the National Institute of Allergy and Infectious Diseases.
 
-**2004**—Subsec. (a)(1). Pub. L. 108–276, §2(b)(1), inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center”.
+**2004**—Subsec. (a)(1). Pub. L. 108–276, §2(b)(1), inserted "or the Director of the National Institute of Allergy and Infectious Diseases" after "Director of the Center".
 
-Subsec. (c)(1). Pub. L. 108–276, §2(b)(2)(A), inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center”.
+Subsec. (c)(1). Pub. L. 108–276, §2(b)(2)(A), inserted "or the Director of the National Institute of Allergy and Infectious Diseases" after "Director of the Center".
 
-Subsec. (c)(2). Pub. L. 108–276, §2(b)(2)(B), substituted “subsection (i)(1)” for “subsection (i)” in introductory provisions.
+Subsec. (c)(2). Pub. L. 108–276, §2(b)(2)(B), substituted "subsection (i)(1)" for "subsection (i)" in introductory provisions.
 
-Subsec. (d). Pub. L. 108–276, §2(b)(3), inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center”.
+Subsec. (d). Pub. L. 108–276, §2(b)(3), inserted "or the Director of the National Institute of Allergy and Infectious Diseases" after "Director of the Center".
 
-Subsec. (e)(1). Pub. L. 108–276, §2(b)(4)(A)(i), inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center” in introductory provisions.
+Subsec. (e)(1). Pub. L. 108–276, §2(b)(4)(A)(i), inserted "or the Director of the National Institute of Allergy and Infectious Diseases" after "Director of the Center" in introductory provisions.
 
-Subsec. (e)(1)(A). Pub. L. 108–276, §2(b)(4)(A)(ii), inserted “(or, in the case of the Institute, 75 percent)” after “50 percent”.
+Subsec. (e)(1)(A). Pub. L. 108–276, §2(b)(4)(A)(ii), inserted "(or, in the case of the Institute, 75 percent)" after "50 percent".
 
-Subsec. (e)(1)(B). Pub. L. 108–276, §2(b)(4)(A)(iii), inserted “(or, in the case of the Institute, 75 percent)” after “40 percent”.
+Subsec. (e)(1)(B). Pub. L. 108–276, §2(b)(4)(A)(iii), inserted "(or, in the case of the Institute, 75 percent)" after "40 percent".
 
-Subsec. (e)(2). Pub. L. 108–276, §2(b)(4)(B), inserted “or the Director of the National Institute of Allergy and Infectious Diseases” after “Director of the Center”.
+Subsec. (e)(2). Pub. L. 108–276, §2(b)(4)(B), inserted "or the Director of the National Institute of Allergy and Infectious Diseases" after "Director of the Center".
 
-Subsec. (e)(4). Pub. L.108–276, §2(b)(4)(C), inserted “of the Center or the Director of the National Institute of Allergy and Infectious Diseases” after “Director”.
+Subsec. (e)(4). Pub. L.108–276, §2(b)(4)(C), inserted "of the Center or the Director of the National Institute of Allergy and Infectious Diseases" after "Director".
 
-Subsec. (f)(1). Pub. L. 108–276, §2(b)(5)(A), inserted “in the case of an award by the Director of the Center,” before “the applicant”.
+Subsec. (f)(1). Pub. L. 108–276, §2(b)(5)(A), inserted "in the case of an award by the Director of the Center," before "the applicant".
 
-Subsec. (f)(2). Pub. L. 108–276, §2(b)(5)(B), inserted “of the Center or the Director of the National Institute of Allergy and Infectious Diseases” after “Director”.
+Subsec. (f)(2). Pub. L. 108–276, §2(b)(5)(B), inserted "of the Center or the Director of the National Institute of Allergy and Infectious Diseases" after "Director".
 
-Subsec. (i). Pub. L. 108–276, §2(b)(6), designated existing provisions as par. (1), inserted heading, substituted “For the purpose of carrying out this section with respect to the Center,” for “For the purpose of carrying out this section,”, and added par. (2).
+Subsec. (i). Pub. L. 108–276, §2(b)(6), designated existing provisions as par. (1), inserted heading, substituted "For the purpose of carrying out this section with respect to the Center," for "For the purpose of carrying out this section,", and added par. (2).
 
 **2000**—Pub. L. 106–505 amended section generally, adding provisions requiring the Director to provide Congress with biennial status reports.
 
-**1998**—Subsec. (c)(3)(D)(i). Pub. L. 105–392 substituted “part B of subchapter V of this chapter” for “section 293c of this title”.
+**1998**—Subsec. (c)(3)(D)(i). Pub. L. 105–392 substituted "part B of subchapter V of this chapter" for "section 293c of this title".
 
 #### Effective Date of 2007 Amendment ####
 
@@ -288,26 +288,26 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 
 #### Findings ####
 
-Pub. L. 106–505, title III, §302, Nov. 13, 2000, 114 Stat. 2330, provided that: “Congress finds that—
+Pub. L. 106–505, title III, §302, Nov. 13, 2000, 114 Stat. 2330, provided that: "Congress finds that—
 
-“(1) the National Institutes of Health is the principal source of Federal funding for medical research at universities and other research institutions in the United States;
+"(1) the National Institutes of Health is the principal source of Federal funding for medical research at universities and other research institutions in the United States;
 
-“(2) the National Institutes of Health has received a substantial increase in research funding from Congress for the purpose of expanding the national investment of the United States in behavioral and biomedical research;
+"(2) the National Institutes of Health has received a substantial increase in research funding from Congress for the purpose of expanding the national investment of the United States in behavioral and biomedical research;
 
-“(3) the infrastructure of our research institutions is central to the continued leadership of the United States in medical research;
+"(3) the infrastructure of our research institutions is central to the continued leadership of the United States in medical research;
 
-“(4) as Congress increases the investment in cutting-edge basic and clinical research, it is critical that Congress also examine the current quality of the laboratories and buildings where research is being conducted, as well as the quality of laboratory equipment used in research;
+"(4) as Congress increases the investment in cutting-edge basic and clinical research, it is critical that Congress also examine the current quality of the laboratories and buildings where research is being conducted, as well as the quality of laboratory equipment used in research;
 
-“(5) many of the research facilities and laboratories in the United States are outdated and inadequate;
+"(5) many of the research facilities and laboratories in the United States are outdated and inadequate;
 
-“(6) the National Science Foundation found, in a 1998 report on the status of biomedical research facilities, that over 60 percent of research-performing institutions indicated that they had an inadequate amount of medical research space;
+"(6) the National Science Foundation found, in a 1998 report on the status of biomedical research facilities, that over 60 percent of research-performing institutions indicated that they had an inadequate amount of medical research space;
 
-“(7) the National Science Foundation reports that academic institutions have deferred nearly $11,000,000,000 in renovation and construction projects because of a lack of funds; and
+"(7) the National Science Foundation reports that academic institutions have deferred nearly $11,000,000,000 in renovation and construction projects because of a lack of funds; and
 
-“(8) future increases in Federal funding for the National Institutes of Health must include increased support for the renovation and construction of extramural research facilities in the United States and the purchase of state-of-the-art laboratory instrumentation.”
+"(8) future increases in Federal funding for the National Institutes of Health must include increased support for the renovation and construction of extramural research facilities in the United States and the purchase of state-of-the-art laboratory instrumentation."
 
 [<sup>1</sup> See References in Text note below.](#283k_1)
 
 [<sup>2</sup> So in original.](#283k_2)
 
-[<sup>3</sup> So in original. Probably should be “nonprofit”.](#283k_3)
+[<sup>3</sup> So in original. Probably should be "nonprofit".](#283k_3)

@@ -16,10 +16,10 @@ Act of June 7, 1974, referred to in par. (3), is Pub. L. 93–303, June 7, 1974,
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–307 substituted “Secretary” for “Secretary of the Interior” in introductory provisions.
+**2004**—Pub. L. 108–307 substituted "Secretary" for "Secretary of the Interior" in introductory provisions.
 
 **1974**—Par. (3). Pub. L. 93–466 added par. (3).
 
 #### Change of Name ####
 
-“Harpers Ferry National Historical Park” substituted in text for “Harpers Ferry National Monument” in view of redesignation of Harpers Ferry National Monument as Harpers Ferry National Historical Park by Pub. L. 88–33, classified to section 450bb–6 of this title.
+"Harpers Ferry National Historical Park" substituted in text for "Harpers Ferry National Monument" in view of redesignation of Harpers Ferry National Monument as Harpers Ferry National Historical Park by Pub. L. 88–33, classified to section 450bb–6 of this title.

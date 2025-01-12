@@ -8,17 +8,17 @@ The Director may require papers filed in the Patent and Trademark Office to be p
 
 Based on Title 35, U.S.C., 1946 ed., §12 (R.S. 488).
 
-Language is changed and “or typewritten” is added after “printed”.
+Language is changed and "or typewritten" is added after "printed".
 
 #### Amendments ####
 
 **2002**—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) [title IV, §4732(a)(10)(A)]. See 1999 Amendment note below.
 
-**1999**—Pub. L. 106–113, §1000(a)(9) [title IV, §4804(a)], substituted “printed, typewritten, or on an electronic medium” for “printed or typewritten”.
+**1999**—Pub. L. 106–113, §1000(a)(9) [title IV, §4804(a)], substituted "printed, typewritten, or on an electronic medium" for "printed or typewritten".
 
-Pub. L. 106–113, §1000(a)(9) [title IV, §4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+Pub. L. 106–113, §1000(a)(9) [title IV, §4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted "Director" for "Commissioner".
 
-**1975**—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+**1975**—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
 #### Effective Date of 1999 Amendment ####
 

@@ -10,4 +10,4 @@ The Federal Advisory Committee Act (86 Stat. 770), referred to in text, is Pub. 
 
 #### Codification ####
 
-“Subchapter II of chapter 5, and chapter 7 of title 5” substituted in text for “the Administrative Procedure Act (80 Stat. 381)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+"Subchapter II of chapter 5, and chapter 7 of title 5" substituted in text for "the Administrative Procedure Act (80 Stat. 381)" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.

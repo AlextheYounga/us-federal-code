@@ -124,17 +124,17 @@ Sec.
 
 **1994**—Pub. L. 103–329, title VI, §629(a)(2)(B), Sept. 30, 1994, 108 Stat. 2423, added item 6327.
 
-**1993**—Pub. L. 103–103, §5(a)(2), Oct. 8, 1993, 107 Stat. 1023, substituted “Authority to participate in both programs” for “Limitation on employee participation” in item 6373.
+**1993**—Pub. L. 103–103, §5(a)(2), Oct. 8, 1993, 107 Stat. 1023, substituted "Authority to participate in both programs" for "Limitation on employee participation" in item 6373.
 
 Pub. L. 103–3, title II, §201(a)(2), Feb. 5, 1993, 107 Stat. 23, added heading of subchapter V and items 6381 to 6387.
 
-**1990**—Pub. L. 101–508, title VII, §7202(i)(2), Nov. 5, 1990, 104 Stat. 1388–337, inserted “and nonappropriated fund” after “office” in item 6312.
+**1990**—Pub. L. 101–508, title VII, §7202(i)(2), Nov. 5, 1990, 104 Stat. 1388–337, inserted "and nonappropriated fund" after "office" in item 6312.
 
 **1988**—Pub. L. 100–566, §2(d)(1)(B), Oct. 31, 1988, 102 Stat. 2844, which provided that the table of sections for subchapters III and IV were to be repealed effective 5 years after Oct. 31, 1988, was repealed by Pub. L. 103–103, §2, Oct. 8, 1993, 107 Stat. 1022, effective Oct. 30, 1993.
 
 Pub. L. 100–566, §2(b), Oct. 31, 1988, 102 Stat. 2843, added heading of subchapter III and items 6331 to 6340 and heading of subchapter IV and items 6361 to 6373.
 
-**1975**—Pub. L. 94–183, §2(27), Dec. 31, 1975, 89 Stat. 1058, struck out item 6309 “Leave of absence; rural carriers”.
+**1975**—Pub. L. 94–183, §2(27), Dec. 31, 1975, 89 Stat. 1058, struck out item 6309 "Leave of absence; rural carriers".
 
 **1970**—Pub. L. 91–563, §1(b), Dec. 19, 1970, 84 Stat. 1476, included witness service and official duty status for certain witness service in item 6322.
 

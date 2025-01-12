@@ -16,7 +16,7 @@ The payment of any fee, or agreement to pay costs, to the Secretary shall not in
 
 #### Amendments ####
 
-**1988**—Subsec. (a). Pub. L. 100–427, §25(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of the Interior may permit tribal, student, and other non-Federal organizations to use facilities, lands, and equipment administered by the Bureau of Indian Affairs if such use does not interfere with the purpose for which the facilities, land, and equipment are administered by the Bureau. The Secretary of the Interior may charge the user for the actual or estimated additional cost of utilities or other expenses incurred because of the use and the amounts collected shall be credited to the appropriation or fund from which the expenses are paid.”
+**1988**—Subsec. (a). Pub. L. 100–427, §25(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary of the Interior may permit tribal, student, and other non-Federal organizations to use facilities, lands, and equipment administered by the Bureau of Indian Affairs if such use does not interfere with the purpose for which the facilities, land, and equipment are administered by the Bureau. The Secretary of the Interior may charge the user for the actual or estimated additional cost of utilities or other expenses incurred because of the use and the amounts collected shall be credited to the appropriation or fund from which the expenses are paid."
 
 Subsec. (c). Pub. L. 100–427, §25(b), added subsec. (c).
 

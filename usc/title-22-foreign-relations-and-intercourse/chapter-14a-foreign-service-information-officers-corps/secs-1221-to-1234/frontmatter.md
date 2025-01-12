@@ -26,7 +26,7 @@ Section 1232, Pub. L. 90–494, §12, Aug. 20, 1968, 82 Stat. 813; Pub. L. 95–
 
 Section 1233, Pub. L. 90–494, §13, Aug. 20, 1968, 82 Stat. 813, related to transfer of Agency Foreign Service officers to Foreign Service information officer status.
 
-Section 1234, Pub. L. 90–494, §14, Aug. 20, 1968, 82 Stat. 813, related to veterans’ preference. See section 3941 of this title.
+Section 1234, Pub. L. 90–494, §14, Aug. 20, 1968, 82 Stat. 813, related to veterans' preference. See section 3941 of this title.
 
 #### Effective Date of Repeal ####
 

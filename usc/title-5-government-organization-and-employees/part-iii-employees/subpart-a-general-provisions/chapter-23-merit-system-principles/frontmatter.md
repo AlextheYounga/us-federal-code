@@ -16,6 +16,6 @@ Sec.
 
 #### Amendments ####
 
-**2012**—Pub. L. 112–199, §109(b), Nov. 27, 2012, 126 Stat. 1471, added items 2304 to 2306 and struck out former items 2304 “Responsibility of the Government Accountability Office” and 2305 “Coordination with certain other provisions of law”.
+**2012**—Pub. L. 112–199, §109(b), Nov. 27, 2012, 126 Stat. 1471, added items 2304 to 2306 and struck out former items 2304 "Responsibility of the Government Accountability Office" and 2305 "Coordination with certain other provisions of law".
 
-**2004**—Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, substituted “Government Accountability Office” for “General Accounting Office” in item 2304.
+**2004**—Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, substituted "Government Accountability Office" for "General Accounting Office" in item 2304.

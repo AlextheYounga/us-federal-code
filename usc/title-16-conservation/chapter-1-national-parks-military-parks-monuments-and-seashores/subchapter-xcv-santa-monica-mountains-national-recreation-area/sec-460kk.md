@@ -12,13 +12,13 @@ The Congress finds that—
 
 #### (b) Establishment; management ####
 
-There is hereby established the Santa Monica Mountains National Recreation Area (hereinafter referred to as the “recreation area”). The Secretary shall manage the recreation area in a manner which will preserve and enhance its scenic, natural, and historical setting and its public health value as an airshed for the Southern California metropolitan area while providing for the recreational and educational need of the visiting public.
+There is hereby established the Santa Monica Mountains National Recreation Area (hereinafter referred to as the "recreation area"). The Secretary shall manage the recreation area in a manner which will preserve and enhance its scenic, natural, and historical setting and its public health value as an airshed for the Southern California metropolitan area while providing for the recreational and educational need of the visiting public.
 
 #### (c) Description; boundary revisions: notice to Congressional committees, publication in Federal Register; acquisition of property: manner, transfer from Federal agency to administrative jurisdiction of Secretary, exchange of lands with city of Los Angeles, development of municipal cultural resource management program; Nike Site transfer to Secretary ####
 
-(1) The recreation area shall consist of the lands and waters and interests generally depicted as the recreation area on the map entitled “Santa Monica Mountains National Recreation Area and Santa Monica Mountains Zone, California, Boundary Map”, numbered 80,047–C and dated August 2001, which shall be on file and available for inspection in the offices of the National Park Service, Department of the Interior, Washington, District of Columbia, and in the offices of the General Services Administration in the Federal Office Building in West Los Angeles, California, and in the main public library in Ventura, California. After advising the Committee on Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, in writing, the Secretary may make minor revisions of the boundaries of the recreation area when necessary by publication of a revised drawing or other boundary description in the Federal Register.
+(1) The recreation area shall consist of the lands and waters and interests generally depicted as the recreation area on the map entitled "Santa Monica Mountains National Recreation Area and Santa Monica Mountains Zone, California, Boundary Map", numbered 80,047–C and dated August 2001, which shall be on file and available for inspection in the offices of the National Park Service, Department of the Interior, Washington, District of Columbia, and in the offices of the General Services Administration in the Federal Office Building in West Los Angeles, California, and in the main public library in Ventura, California. After advising the Committee on Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, in writing, the Secretary may make minor revisions of the boundaries of the recreation area when necessary by publication of a revised drawing or other boundary description in the Federal Register.
 
-(2)(A) Not later than ninety days after November 10, 1978, the Secretary, after consultation with the Governor of the State of California, the California Coastal Commission, and the Santa Monica Mountains Comprehensive Planning Commission, shall commence acquisition of lands, improvements, waters, or interests therein within the recreation area. Such acquisition may be by donation, purchase with donated or appropriated funds, transfer from any Federal agency, exchange, or otherwise. Except as provided in subparagraph (B), any lands or interests therein owned by the State of California or any political subdivision thereof (including any park district or other public entity) may be acquired only by donation, except that such lands acquired after November 10, 1978, by the State of California or its political subdivisions may be acquired by purchase or exchange if the Secretary determines that the lands were acquired for purposes which further the national interest in protecting the area and that the purchase price or value on exchange does not exceed fair market value on the date that the State acquired the land or interest: *Provided, however*, That the value of any lands acquired by the Secretary under the exception in this sentence shall be deducted from the amount of moneys available for grants to the State under subsection (n) of this section. Lands within the “Wildlife Corridor Expansion Zone” identified on the boundary map referred to in paragraph (1) may be acquired only by donation or with donated funds. Notwithstanding any other provision of law, any Federal property located within the boundaries of the recreation area shall, with the concurrence of the head of the agency having custody thereof, be transferred without cost, to the administrative jurisdiction of the Secretary for the purposes of the recreation area.
+(2)(A) Not later than ninety days after November 10, 1978, the Secretary, after consultation with the Governor of the State of California, the California Coastal Commission, and the Santa Monica Mountains Comprehensive Planning Commission, shall commence acquisition of lands, improvements, waters, or interests therein within the recreation area. Such acquisition may be by donation, purchase with donated or appropriated funds, transfer from any Federal agency, exchange, or otherwise. Except as provided in subparagraph (B), any lands or interests therein owned by the State of California or any political subdivision thereof (including any park district or other public entity) may be acquired only by donation, except that such lands acquired after November 10, 1978, by the State of California or its political subdivisions may be acquired by purchase or exchange if the Secretary determines that the lands were acquired for purposes which further the national interest in protecting the area and that the purchase price or value on exchange does not exceed fair market value on the date that the State acquired the land or interest: *Provided, however*, That the value of any lands acquired by the Secretary under the exception in this sentence shall be deducted from the amount of moneys available for grants to the State under subsection (n) of this section. Lands within the "Wildlife Corridor Expansion Zone" identified on the boundary map referred to in paragraph (1) may be acquired only by donation or with donated funds. Notwithstanding any other provision of law, any Federal property located within the boundaries of the recreation area shall, with the concurrence of the head of the agency having custody thereof, be transferred without cost, to the administrative jurisdiction of the Secretary for the purposes of the recreation area.
 
 (B) The Secretary shall negotiate, and carry out, and exchange with the city of Los Angeles (acting through its department of water and power) certain federally owned lands managed by the Bureau of Land Management in the vicinity of the Haiwee Reservoir in Inyo County for certain lands owned by the city of Los Angeles which are associated with the Upper Franklin Reservoir in the city of Los Angeles. Lands acquired by the Secretary pursuant to such exchange shall be transferred without cost to the administrative jurisdiction of the National Park Service for inclusion within the recreation area. The Secretary shall include in such exchange a provision for an easement to be granted to the city of Los Angeles for the existing water pipeline associated with the Upper Franklin Reservoir and for the city of Los Angeles to provide for replacement water to maintain the water elevations of the Franklin Reservoir to the current levels. The values of lands exchanged under this provision shall be equal, or shall be equalized, in the same manner as provided in section 1716 of title 43.
 
@@ -44,15 +44,15 @@ There is hereby established the Santa Monica Mountains National Recreation Area 
 
 With respect to improved properties, as defined in this section, fee title shall not be acquired unless the Secretary finds that such lands are being used, or are threatened with uses, which are detrimental to the purposes of the recreation area, or unless each acquisition is necessary to fulfill the purposes of this section. The Secretary may acquire scenic easements to such improved property or such other interests as, in his judgment are necessary for the purposes of the recreation area.
 
-#### (f) “Improved property” defined ####
+#### (f) "Improved property" defined ####
 
-For the purposes of this section, the term “improved property” means—
+For the purposes of this section, the term "improved property" means—
 
-(1) a detached single-family dwelling, the construction of which was begun before January 1, 1978 (hereafter referred to as “dwelling”), together with so much of the land on which the dwelling is situated as is in the same ownership as the dwelling and as the Secretary designates to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures necessary to the dwelling which are situated on the land so designated, and
+(1) a detached single-family dwelling, the construction of which was begun before January 1, 1978 (hereafter referred to as "dwelling"), together with so much of the land on which the dwelling is situated as is in the same ownership as the dwelling and as the Secretary designates to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures necessary to the dwelling which are situated on the land so designated, and
 
 (2) property developed for agricultural uses, together with any structures accessory thereto as were used for agricultural purposes on or before January 1, 1978.
 
-In determining when and to what extent a property is to be treated as “improved property” for purposes of this section, the Secretary shall take into consideration the manner of use of such buildings and lands prior to January 1, 1978, and shall designate such lands as are reasonably necessary for the continued enjoyment of the property in the same manner and to the same extent as existed prior to such date.
+In determining when and to what extent a property is to be treated as "improved property" for purposes of this section, the Secretary shall take into consideration the manner of use of such buildings and lands prior to January 1, 1978, and shall designate such lands as are reasonably necessary for the continued enjoyment of the property in the same manner and to the same extent as existed prior to such date.
 
 #### (g) Owner's reservation of right of use and occupancy for fixed term of years or life; election of term; fair market value; termination; notification ####
 
@@ -130,7 +130,7 @@ No grant for acquisition of land may be made under subparagraph (A) unless the S
 
 #### (o) Comments on undertakings prior to expenditure of Federal funds or issuance of licenses or permits ####
 
-The head of any Federal agency having direct or indirect jurisdiction over a proposed Federal or federally assisted undertaking in the lands and waters within the Santa Monica Mountains Zone, generally depicted on the map referred to in subsection (c) of this section, and the head of any Federal agency having authority to license or permit any undertaking in such lands and waters shall, prior to the approval of the expenditure of any Federal funds on such undertaking or prior to the issuance of any license or permit, as the case may be, afford the Secretary a reasonable opportunity to comment with regard to such undertaking and shall give due consideration to any comments made by the Secretary and to the effect of such undertaking on the “findings” and purposes of this section.
+The head of any Federal agency having direct or indirect jurisdiction over a proposed Federal or federally assisted undertaking in the lands and waters within the Santa Monica Mountains Zone, generally depicted on the map referred to in subsection (c) of this section, and the head of any Federal agency having authority to license or permit any undertaking in such lands and waters shall, prior to the approval of the expenditure of any Federal funds on such undertaking or prior to the issuance of any license or permit, as the case may be, afford the Secretary a reasonable opportunity to comment with regard to such undertaking and shall give due consideration to any comments made by the Secretary and to the effect of such undertaking on the "findings" and purposes of this section.
 
 #### (p) State agency recommendations; consideration ####
 
@@ -138,7 +138,7 @@ The Secretary shall give full consideration to the recommendations of the Califo
 
 #### (q) Advisory Commission; establishment and termination; membership; term; meetings; notice, publication in newspapers; compensation and expenses; consultations of Secretary with Commission ####
 
-(1) There is hereby established the Santa Monica Mountains National Recreation Area Advisory Commission (hereinafter referred to as the “Advisory Commission”). The Advisory Commission shall terminate ten years after the date of establishment of the recreation area.
+(1) There is hereby established the Santa Monica Mountains National Recreation Area Advisory Commission (hereinafter referred to as the "Advisory Commission"). The Advisory Commission shall terminate ten years after the date of establishment of the recreation area.
 
 (2) The Advisory Commission shall be composed of the following members to serve for terms of five years as follows:
 
@@ -188,26 +188,26 @@ This Act, referred to in subsecs. (i) and (q)(4), means Pub. L. 95–625, Nov. 1
 
 #### Amendments ####
 
-**2002**—Subsec. (c)(1). Pub. L. 107–236, §§2(1), 3(1), substituted “ ‘Santa Monica Mountains National Recreation Area and Santa Monica Mountains Zone, California, Boundary Map’, numbered 80,047–C and dated August 2001” for “ ‘Boundary Map, Santa Monica Mountains National Recreation Area, California, and Santa Monica Mountains Zone’, numbered SMM–NRA 80,000, and dated May 1978” and “Committee on Resources” for “Committee on Natural Resources”.
+**2002**—Subsec. (c)(1). Pub. L. 107–236, §§2(1), 3(1), substituted " 'Santa Monica Mountains National Recreation Area and Santa Monica Mountains Zone, California, Boundary Map', numbered 80,047–C and dated August 2001" for " 'Boundary Map, Santa Monica Mountains National Recreation Area, California, and Santa Monica Mountains Zone', numbered SMM–NRA 80,000, and dated May 1978" and "Committee on Resources" for "Committee on Natural Resources".
 
-Subsec. (c)(2)(A). Pub. L. 107–236, §2(2), inserted after third sentence “Lands within the ‘Wildlife Corridor Expansion Zone’ identified on the boundary map referred to in paragraph (1) may be acquired only by donation or with donated funds.”
+Subsec. (c)(2)(A). Pub. L. 107–236, §2(2), inserted after third sentence "Lands within the 'Wildlife Corridor Expansion Zone' identified on the boundary map referred to in paragraph (1) may be acquired only by donation or with donated funds."
 
-Subsec. (c)(2)(B). Pub. L. 107–236, §3(2), substituted “certain federally owned” for “of certain federally owned” in first sentence.
+Subsec. (c)(2)(B). Pub. L. 107–236, §3(2), substituted "certain federally owned" for "of certain federally owned" in first sentence.
 
-Subsec. (n)(5). Pub. L. 107–236, §3(3), substituted “laws,” for “laws” in second sentence.
+Subsec. (n)(5). Pub. L. 107–236, §3(3), substituted "laws," for "laws" in second sentence.
 
-**1994**—Subsec. (c)(1). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+**1994**—Subsec. (c)(1). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
 
 **1984**—Subsec. (c)(2). Pub. L. 98–572 designated existing provisions as subpar. (A), inserted exception clause in third sentence, and added subpars. (B) and (C).
 
 **1980**—Subsec. (q)(2)(E). Pub. L. 96–199 increased from 5 to 9 the number of members appointed by the Secretary of the Interior.
 
-**1979**—Subsec. (f)(1). Pub. L. 96–87 substituted “construction of which was begun before January 1, 1978” for “construction of which was begun before January 1, 1976”.
+**1979**—Subsec. (f)(1). Pub. L. 96–87 substituted "construction of which was begun before January 1, 1978" for "construction of which was begun before January 1, 1976".
 
 #### Anthony C. Beilenson Visitor Center ####
 
-Pub. L. 105–277, div. A, §101(e) [title I, §145], Oct. 21, 1998, 112 Stat. 2681–231, 2681–267, provided that: “The principal visitor center for the Santa Monica Mountains National Recreation Area, regardless of location, shall be named for Anthony C. Beilenson and shall be referred to in any law, document or record of the United States as the ‘Anthony C. Beilenson Visitor Center’.”
+Pub. L. 105–277, div. A, §101(e) [title I, §145], Oct. 21, 1998, 112 Stat. 2681–231, 2681–267, provided that: "The principal visitor center for the Santa Monica Mountains National Recreation Area, regardless of location, shall be named for Anthony C. Beilenson and shall be referred to in any law, document or record of the United States as the 'Anthony C. Beilenson Visitor Center'."
 
-#### “Secretary” Defined ####
+#### "Secretary" Defined ####
 
 Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.

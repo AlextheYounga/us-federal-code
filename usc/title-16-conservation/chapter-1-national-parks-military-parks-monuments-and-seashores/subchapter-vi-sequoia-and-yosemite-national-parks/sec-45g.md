@@ -6,7 +6,7 @@ As soon as practicable after December 28, 2000, the Secretary of the Interior sh
 
 #### (b) Land acquired ####
 
-The land referred to in subsection (a) of this section is the land depicted on the map entitled “Dillonwood”, numbered 102/80,044, and dated September 1999.
+The land referred to in subsection (a) of this section is the land depicted on the map entitled "Dillonwood", numbered 102/80,044, and dated September 1999.
 
 #### (c) Addition to park ####
 

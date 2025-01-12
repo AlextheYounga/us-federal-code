@@ -2,7 +2,7 @@
 
 Section 114, act May 29, 1884, ch. 60, §3, 23 Stat. 32, related to regulations for suppression of diseases and cooperation of States and Territories.
 
-Section 114a, act May 29, 1884, ch. 60, §11, as added Sept. 21, 1944, ch. 412, title I, §101(a), 58 Stat. 734; amended Oct. 30, 1951, ch. 637, §1, 65 Stat. 693; Aug. 8, 1953, ch. 381, 67 Stat. 493; Aug. 3, 1956, ch. 950, §2, 70 Stat. 1032; Pub. L. 87–518, §7, July 2, 1962, 76 Stat. 131; Pub. L. 101–624, title XXV, §2509(c)(2), Nov. 28, 1990, 104 Stat. 4071, related to control and eradication of diseases, cooperation of States and farmers’ associations, purchase and destruction of diseased animals, and defined “State” for statutory purposes.
+Section 114a, act May 29, 1884, ch. 60, §11, as added Sept. 21, 1944, ch. 412, title I, §101(a), 58 Stat. 734; amended Oct. 30, 1951, ch. 637, §1, 65 Stat. 693; Aug. 8, 1953, ch. 381, 67 Stat. 493; Aug. 3, 1956, ch. 950, §2, 70 Stat. 1032; Pub. L. 87–518, §7, July 2, 1962, 76 Stat. 131; Pub. L. 101–624, title XXV, §2509(c)(2), Nov. 28, 1990, 104 Stat. 4071, related to control and eradication of diseases, cooperation of States and farmers' associations, purchase and destruction of diseased animals, and defined "State" for statutory purposes.
 
 A prior section 11 of act May 29, 1884, required annual reports to Congress concerning the suppression of contagious diseases among domestic animals, and was classified to section 560 of former Title 5, prior to repeal by act May 29, 1928, ch. 901, §1, 45 Stat. 993.
 
@@ -20,4 +20,4 @@ Section 114d–1, act Feb. 28, 1947, ch. 8, §5, as added Pub. L. 89–521, §2,
 
 #### Short Title ####
 
-Section 6 of act Feb. 28, 1947, ch. 8, as added by Pub. L. 101–255, §1(6), Mar. 15, 1990, 104 Stat. 114, provided that the act Feb. 28, 1947, ch. 8, which enacted sections 114b to 114d–1 of this title and provisions set out as a note under former section 114b of this title, could be referred to as the “Animal Disease Control Cooperation Act of 1947”.
+Section 6 of act Feb. 28, 1947, ch. 8, as added by Pub. L. 101–255, §1(6), Mar. 15, 1990, 104 Stat. 114, provided that the act Feb. 28, 1947, ch. 8, which enacted sections 114b to 114d–1 of this title and provisions set out as a note under former section 114b of this title, could be referred to as the "Animal Disease Control Cooperation Act of 1947".

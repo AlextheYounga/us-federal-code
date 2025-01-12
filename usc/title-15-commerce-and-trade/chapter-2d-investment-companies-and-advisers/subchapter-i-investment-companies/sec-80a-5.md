@@ -4,17 +4,17 @@
 
 For the purposes of this subchapter, management companies are divided into open-end and closed-end companies, defined as follows:
 
-(1) “Open-end company” means a management company which is offering for sale or has outstanding any redeemable security of which it is the issuer.
+(1) "Open-end company" means a management company which is offering for sale or has outstanding any redeemable security of which it is the issuer.
 
-(2) “Closed-end company” means any management company other than an open-end company.
+(2) "Closed-end company" means any management company other than an open-end company.
 
 #### (b) Diversified and non-diversified companies ####
 
 Management companies are further divided into diversified companies and non-diversified companies, defined as follows:
 
-(1) “Diversified company” means a management company which meets the following requirements: At least 75 per centum of the value of its total assets is represented by cash and cash items (including receivables), Government securities, securities of other investment companies, and other securities for the purposes of this calculation limited in respect of any one issuer to an amount not greater in value than 5 per centum of the value of the total assets of such management company and to not more than 10 per centum of the outstanding voting securities of such issuer.
+(1) "Diversified company" means a management company which meets the following requirements: At least 75 per centum of the value of its total assets is represented by cash and cash items (including receivables), Government securities, securities of other investment companies, and other securities for the purposes of this calculation limited in respect of any one issuer to an amount not greater in value than 5 per centum of the value of the total assets of such management company and to not more than 10 per centum of the outstanding voting securities of such issuer.
 
-(2) “Non-diversified company” means any management company other than a diversified company.
+(2) "Non-diversified company" means any management company other than a diversified company.
 
 #### (c) Loss of status as diversified company ####
 
@@ -24,7 +24,7 @@ A registered diversified company which at the time of its qualification as such 
 
 #### Amendments ####
 
-**1987**—Subsec. (a)(2). Pub. L. 100–181 substituted “Closed-end” for “Close-end”.
+**1987**—Subsec. (a)(2). Pub. L. 100–181 substituted "Closed-end" for "Close-end".
 
 #### Transfer of Functions ####
 

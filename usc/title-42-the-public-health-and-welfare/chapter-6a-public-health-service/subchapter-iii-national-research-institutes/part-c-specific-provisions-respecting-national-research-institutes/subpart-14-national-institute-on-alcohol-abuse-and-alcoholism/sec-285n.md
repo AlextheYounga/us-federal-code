@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-The general purpose of the National Institute on Alcohol Abuse and Alcoholism (hereafter in this subpart referred to as the “Institute”) is the conduct and support of biomedical and behavioral research, health services research, research training, and health information dissemination with respect to the prevention of alcohol abuse and the treatment of alcoholism.
+The general purpose of the National Institute on Alcohol Abuse and Alcoholism (hereafter in this subpart referred to as the "Institute") is the conduct and support of biomedical and behavioral research, health services research, research training, and health information dissemination with respect to the prevention of alcohol abuse and the treatment of alcoholism.
 
 #### (b) Research program ####
 
@@ -58,15 +58,15 @@ The Director of the Institute shall collaborate with the Administrator of the Su
 
 Section 290bb(b) of this title, which was transferred to subsec. (b) of this section and amended by Pub. L. 102–321, was based on act July 1, 1944, ch. 373, title V, §510, formerly Pub. L. 91–616, title V, §501(b), as added Pub. L. 94–371, §7, July 26, 1976, 90 Stat. 1038; amended Pub. L. 95–622, title II, §268(d), Nov. 9, 1978, 92 Stat. 3437; Pub. L. 96–180, §14(b), Jan. 2, 1980, 93 Stat. 1305; renumbered §510(b) of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(9), 97 Stat. 179; Oct. 19, 1984, Pub. L. 98–509, title II, §205(a)(1), 98 Stat. 2361.
 
-In subsec. (b)(9), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for “sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41 U.S.C. 5)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(9), "section 3324(a) and (b) of title 31 and section 6101 of title 41" substituted for "sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41 U.S.C. 5)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments ####
 
 **2007**—Subsec. (d). Pub. L. 109–482 struck out subsec. (d) which related to authorization of appropriations and allocation for health services research.
 
-**1992**—Subsec. (a). Pub. L. 102–352 substituted “Institute on Alcohol” for “Institute of Alcohol”.
+**1992**—Subsec. (a). Pub. L. 102–352 substituted "Institute on Alcohol" for "Institute of Alcohol".
 
-Subsec. (b). Pub. L. 102–321, §122(b)(1), (2)(A), transferred subsec. (b) of section 290bb of this title to subsec. (b) of this section, substituted “(b) Research Program.—The research program established under this subpart shall encompass the social, behavioral, and biomedical etiology, mental and physical health consequences, and social and economic consequences of alcohol abuse and alcoholism. In carrying out the program, the Director of the Institute is authorized” for “(b) In carrying out the program described in subsection (a) of this section, the Secretary, acting through the Institute, is authorized” in introductory provisions, and substituted a semicolon for period at end of par. (3)(H).
+Subsec. (b). Pub. L. 102–321, §122(b)(1), (2)(A), transferred subsec. (b) of section 290bb of this title to subsec. (b) of this section, substituted "(b) Research Program.—The research program established under this subpart shall encompass the social, behavioral, and biomedical etiology, mental and physical health consequences, and social and economic consequences of alcohol abuse and alcoholism. In carrying out the program, the Director of the Institute is authorized" for "(b) In carrying out the program described in subsection (a) of this section, the Secretary, acting through the Institute, is authorized" in introductory provisions, and substituted a semicolon for period at end of par. (3)(H).
 
 Subsecs. (c), (d). Pub. L. 102–321, §122(b)(2)(B), added subsecs. (c) and (d).
 
@@ -76,11 +76,11 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 
 #### Effective Date of 1992 Amendment ####
 
-Pub. L. 102–352, §3, Aug. 26, 1992, 106 Stat. 940, provided that: “The amendments made by—
+Pub. L. 102–352, §3, Aug. 26, 1992, 106 Stat. 940, provided that: "The amendments made by—
 
-“(1) subsection (a) of section 2 [amending this section and sections 285n–2, 285o, 285o–2, 285p, 290aa–1, 290aa–3, 300x–7, 300x–27, 300x–33, 300x–53, and 300y of this title], shall take effect immediately upon the effectuation of the amendments made by titles I and II of the ADAMHA Reorganization Act [Pub. L. 102–321, see Effective Date of 1992 Amendment note set out under section 236 of this title]; and
+"(1) subsection (a) of section 2 [amending this section and sections 285n–2, 285o, 285o–2, 285p, 290aa–1, 290aa–3, 300x–7, 300x–27, 300x–33, 300x–53, and 300y of this title], shall take effect immediately upon the effectuation of the amendments made by titles I and II of the ADAMHA Reorganization Act [Pub. L. 102–321, see Effective Date of 1992 Amendment note set out under section 236 of this title]; and
 
-“(2) subsections (b) and (c) of section 2 [amending sections 290cc–21, 290cc–28, and 290cc–30 of this title and provisions set out as notes under sections 290aa and 300x of this title], shall take effect on the date of enactment of this Act [Aug. 26, 1992].”
+"(2) subsections (b) and (c) of section 2 [amending sections 290cc–21, 290cc–28, and 290cc–30 of this title and provisions set out as notes under sections 290aa and 300x of this title], shall take effect on the date of enactment of this Act [Aug. 26, 1992]."
 
 #### Effective Date ####
 
@@ -88,7 +88,7 @@ Section effective Oct. 1, 1992, with provision for programs providing financial 
 
 #### Required Allocations for Health Services Research ####
 
-Pub. L. 103–43, title XX, §2016(b), June 10, 1993, 107 Stat. 218, provided that, with respect to the allocation for health services research required in former subsec. (d)(2) of this section and former sections 285o(d)(2) and 285p(f)(2) of this title, the term “15 percent” appearing in each of such provisions was deemed to be 12 percent in the case of allocations for fiscal year 1993.
+Pub. L. 103–43, title XX, §2016(b), June 10, 1993, 107 Stat. 218, provided that, with respect to the allocation for health services research required in former subsec. (d)(2) of this section and former sections 285o(d)(2) and 285p(f)(2) of this title, the term "15 percent" appearing in each of such provisions was deemed to be 12 percent in the case of allocations for fiscal year 1993.
 
 #### Study on Fetal Alcohol Effect and Fetal Alcohol Syndrome ####
 

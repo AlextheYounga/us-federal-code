@@ -24,25 +24,25 @@ A prior section 12 of act Aug. 11, 1916, ch. 313, pt. B, 39 Stat. 485, which app
 
 #### Amendments ####
 
-**1994**—Pub. L. 103–354 struck out “or Administrator” after “representative of the Secretary” in subsec. (c), struck out “or the Administrator” after “representative of the Secretary” in subsec. (d), and substituted “Secretary” for “Administrator” wherever appearing.
+**1994**—Pub. L. 103–354 struck out "or Administrator" after "representative of the Secretary" in subsec. (c), struck out "or the Administrator" after "representative of the Secretary" in subsec. (d), and substituted "Secretary" for "Administrator" wherever appearing.
 
-**1993**—Pub. L. 103–156, §12(k), which directed amendment of “Section 12”, without specifying the name of the Act being amended, was executed to this section, which is section 12 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+**1993**—Pub. L. 103–156, §12(k), which directed amendment of "Section 12", without specifying the name of the Act being amended, was executed to this section, which is section 12 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 103–156, §12(k)(1), substituted “the judgment of the Administrator” for “his judgment”.
+Subsec. (b). Pub. L. 103–156, §12(k)(1), substituted "the judgment of the Administrator" for "his judgment".
 
-Subsec. (c). Pub. L. 103–156, §12(k)(2), substituted “the Administrator” for “he”.
+Subsec. (c). Pub. L. 103–156, §12(k)(2), substituted "the Administrator" for "he".
 
-**1977**—Subsecs. (a), (b). Pub. L. 95–113, §1604(i)(1), inserted “, every State agency delegated authority under this chapter,” after “official agency”.
+**1977**—Subsecs. (a), (b). Pub. L. 95–113, §1604(i)(1), inserted ", every State agency delegated authority under this chapter," after "official agency".
 
-Subsec. (c). Pub. L. 95–113, §1604(i)(1), (2), inserted “, every State delegated authority under this chapter,” after “official agency” and corrected a typographical error in Pub. L. 94–582 under which “delegate authority of this chapter” had been erroneously used instead of “delegated authority under this chapter”.
+Subsec. (c). Pub. L. 95–113, §1604(i)(1), (2), inserted ", every State delegated authority under this chapter," after "official agency" and corrected a typographical error in Pub. L. 94–582 under which "delegate authority of this chapter" had been erroneously used instead of "delegated authority under this chapter".
 
-Subsec. (d). Pub. L. 95–113, §1601, substituted “shall maintain such complete and accurate records for such period of time as the Administrator may, by regulation, prescribe for the purpose of the administration and enforcement of this chapter” for “shall, within the five-year period thereafter, maintain complete and accurate records of purchases, sales, transportation, storage, weighing, handling, treating, cleaning, drying, blending, and other processing, and official inspection and official weighing of grain,”.
+Subsec. (d). Pub. L. 95–113, §1601, substituted "shall maintain such complete and accurate records for such period of time as the Administrator may, by regulation, prescribe for the purpose of the administration and enforcement of this chapter" for "shall, within the five-year period thereafter, maintain complete and accurate records of purchases, sales, transportation, storage, weighing, handling, treating, cleaning, drying, blending, and other processing, and official inspection and official weighing of grain,".
 
-**1976**—Subsec. (a). Pub. L. 94–582 substituted “official agency” for “official inspection agency” and “Administrator” for “Secretary” and inserted reference to licensed performance of official weighing or supervision of weighing function.
+**1976**—Subsec. (a). Pub. L. 94–582 substituted "official agency" for "official inspection agency" and "Administrator" for "Secretary" and inserted reference to licensed performance of official weighing or supervision of weighing function.
 
-Subsec. (b). Pub. L. 94–582 substituted “Every official agency and every person licensed to perform any official inspection or official weighing or supervision of weighing function under this chapter” for “Every official inspection agency” and “Administrator” for “Secretary” in two places, increased from two to five years the period of time for keeping the records, and inserted provision for keeping the records after the weighing.
+Subsec. (b). Pub. L. 94–582 substituted "Every official agency and every person licensed to perform any official inspection or official weighing or supervision of weighing function under this chapter" for "Every official inspection agency" and "Administrator" for "Secretary" in two places, increased from two to five years the period of time for keeping the records, and inserted provision for keeping the records after the weighing.
 
-Subsec. (c). Pub. L. 94–582 substituted “Every official agency and every person licensed to perform any official inspection or official weighing or supervision of weighing function under this chapter” for “Every official inspection agency”, provided for access to and the copying of records by any authorized representative of the Administrator or the Comptroller General, and required Administrator audits of official agencies and State agencies delegate authority.
+Subsec. (c). Pub. L. 94–582 substituted "Every official agency and every person licensed to perform any official inspection or official weighing or supervision of weighing function under this chapter" for "Every official inspection agency", provided for access to and the copying of records by any authorized representative of the Administrator or the Comptroller General, and required Administrator audits of official agencies and State agencies delegate authority.
 
 Subsec. (d). Pub. L. 94–582 added subsec. (d).
 
@@ -60,7 +60,7 @@ For effective date of section, see section 2 of Pub. L. 90–487, set out as an 
 
 #### Maintenance of Records Not Involving Official Inspection or Official Weighing ####
 
-Pub. L. 103–111, title I, Oct. 21, 1993, 107 Stat. 1055, provided in part: “That hereafter, none of the funds available to the Federal Grain Inspection Service may be used to pay the salaries of any person or persons who require, or who authorize payments from fee-supported funds to any person or persons who require nonexport, nonterminal interior elevators to maintain records not involving official inspection or official weighing in the United States under Public Law 94–582 [see Short Title of 1976 Amendment note set out under section 71 of this title] other than those necessary to fulfill the purposes of such Act.”
+Pub. L. 103–111, title I, Oct. 21, 1993, 107 Stat. 1055, provided in part: "That hereafter, none of the funds available to the Federal Grain Inspection Service may be used to pay the salaries of any person or persons who require, or who authorize payments from fee-supported funds to any person or persons who require nonexport, nonterminal interior elevators to maintain records not involving official inspection or official weighing in the United States under Public Law 94–582 [see Short Title of 1976 Amendment note set out under section 71 of this title] other than those necessary to fulfill the purposes of such Act."
 
 Similar provisions were contained in the following prior appropriation acts:
 

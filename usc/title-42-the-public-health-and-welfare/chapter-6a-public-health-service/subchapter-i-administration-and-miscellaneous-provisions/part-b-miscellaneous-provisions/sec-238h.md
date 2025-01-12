@@ -10,7 +10,7 @@ Section was formerly classified to section 300aaa–8 of this title prior to ren
 
 #### Amendments ####
 
-**1995**—Pub. L. 104–66 amended section catchline and text generally. Prior to amendment, text read as follows: “The Surgeon General shall transmit to the Secretary, for submission to the Congress at the beginning of each regular session, a full report of the administration of the functions of the Service under this chapter, including a detailed statement of receipts and disbursements.”
+**1995**—Pub. L. 104–66 amended section catchline and text generally. Prior to amendment, text read as follows: "The Surgeon General shall transmit to the Secretary, for submission to the Congress at the beginning of each regular session, a full report of the administration of the functions of the Service under this chapter, including a detailed statement of receipts and disbursements."
 
 #### Termination of Reporting Requirements ####
 

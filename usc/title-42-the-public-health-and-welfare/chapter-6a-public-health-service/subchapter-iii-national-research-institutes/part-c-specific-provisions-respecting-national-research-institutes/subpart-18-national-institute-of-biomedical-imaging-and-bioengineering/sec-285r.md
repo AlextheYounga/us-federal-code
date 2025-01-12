@@ -2,11 +2,11 @@
 
 #### (a) In general ####
 
-The general purpose of the National Institute of Biomedical Imaging and Bioengineering (in this section referred to as the “Institute”) is the conduct and support of research, training, the dissemination of health information, and other programs with respect to biomedical imaging, biomedical engineering, and associated technologies and modalities with biomedical applications (in this section referred to as “biomedical imaging and bioengineering”).
+The general purpose of the National Institute of Biomedical Imaging and Bioengineering (in this section referred to as the "Institute") is the conduct and support of research, training, the dissemination of health information, and other programs with respect to biomedical imaging, biomedical engineering, and associated technologies and modalities with biomedical applications (in this section referred to as "biomedical imaging and bioengineering").
 
 #### (b) National Biomedical Imaging and Bioengineering Program ####
 
-(1) The Director of the Institute, with the advice of the Institute's advisory council, shall establish a National Biomedical Imaging and Bioengineering Program (in this section referred to as the “Program”).
+(1) The Director of the Institute, with the advice of the Institute's advisory council, shall establish a National Biomedical Imaging and Bioengineering Program (in this section referred to as the "Program").
 
 (2) Activities under the Program shall include the following with respect to biomedical imaging and bioengineering:
 
@@ -60,40 +60,40 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 
 #### Effective Date ####
 
-Pub. L. 106–580, §4, Dec. 29, 2000, 114 Stat. 3092, provided that: “This Act [enacting this subpart, amending section 281 of this title, and enacting provisions set out as notes under this section and section 201 of this title] takes effect October 1, 2000, or upon the date of the enactment of this Act [Dec. 29, 2000], whichever occurs later.”
+Pub. L. 106–580, §4, Dec. 29, 2000, 114 Stat. 3092, provided that: "This Act [enacting this subpart, amending section 281 of this title, and enacting provisions set out as notes under this section and section 201 of this title] takes effect October 1, 2000, or upon the date of the enactment of this Act [Dec. 29, 2000], whichever occurs later."
 
 #### Findings ####
 
-Pub. L. 106–580, §2, Dec. 29, 2000, 114 Stat. 3088, provided that: “The Congress makes the following findings:
+Pub. L. 106–580, §2, Dec. 29, 2000, 114 Stat. 3088, provided that: "The Congress makes the following findings:
 
-“(1) Basic research in imaging, bioengineering, computer science, informatics, and related fields is critical to improving health care but is fundamentally different from the research in molecular biology on which the current national research institutes at the National Institutes of Health (‘NIH’) are based. To ensure the development of new techniques and technologies for the 21st century, these disciplines therefore require an identity and research home at the NIH that is independent of the existing institute structure.
+"(1) Basic research in imaging, bioengineering, computer science, informatics, and related fields is critical to improving health care but is fundamentally different from the research in molecular biology on which the current national research institutes at the National Institutes of Health ('NIH') are based. To ensure the development of new techniques and technologies for the 21st century, these disciplines therefore require an identity and research home at the NIH that is independent of the existing institute structure.
 
-“(2) Advances based on medical research promise new, more effective treatments for a wide variety of diseases, but the development of new, noninvasive imaging techniques for earlier detection and diagnosis of disease is essential to take full advantage of such new treatments and to promote the general improvement of health care.
+"(2) Advances based on medical research promise new, more effective treatments for a wide variety of diseases, but the development of new, noninvasive imaging techniques for earlier detection and diagnosis of disease is essential to take full advantage of such new treatments and to promote the general improvement of health care.
 
-“(3) The development of advanced genetic and molecular imaging techniques is necessary to continue the current rapid pace of discovery in molecular biology.
+"(3) The development of advanced genetic and molecular imaging techniques is necessary to continue the current rapid pace of discovery in molecular biology.
 
-“(4) Advances in telemedicine, and teleradiology in particular, are increasingly important in the delivery of high quality, reliable medical care to rural citizens and other underserved populations. To fulfill the promise of telemedicine and related technologies fully, a structure is needed at the NIH to support basic research focused on the acquisition, transmission, processing, and optimal display of images.
+"(4) Advances in telemedicine, and teleradiology in particular, are increasingly important in the delivery of high quality, reliable medical care to rural citizens and other underserved populations. To fulfill the promise of telemedicine and related technologies fully, a structure is needed at the NIH to support basic research focused on the acquisition, transmission, processing, and optimal display of images.
 
-“(5) A number of Federal departments and agencies support imaging and engineering research with potential medical applications, but a central coordinating body, preferably housed at the NIH, is needed to coordinate these disparate efforts and facilitate the transfer of technologies with medical applications.
+"(5) A number of Federal departments and agencies support imaging and engineering research with potential medical applications, but a central coordinating body, preferably housed at the NIH, is needed to coordinate these disparate efforts and facilitate the transfer of technologies with medical applications.
 
-“(6) Several breakthrough imaging technologies, including magnetic resonance imaging (‘MRI’) and computed tomography (‘CT’), have been developed primarily abroad, in large part because of the absence of a home at the NIH for basic research in imaging and related fields. The establishment of a central focus for imaging and bioengineering research at the NIH would promote both scientific advance and United States economic development.
+"(6) Several breakthrough imaging technologies, including magnetic resonance imaging ('MRI') and computed tomography ('CT'), have been developed primarily abroad, in large part because of the absence of a home at the NIH for basic research in imaging and related fields. The establishment of a central focus for imaging and bioengineering research at the NIH would promote both scientific advance and United States economic development.
 
-“(7) At a time when a consensus exists to add significant resources to the NIH in coming years, it is appropriate to modernize the structure of the NIH to ensure that research dollars are expended more effectively and efficiently and that the fields of medical science that have contributed the most to the detection, diagnosis, and treatment of disease in recent years receive appropriate emphasis.
+"(7) At a time when a consensus exists to add significant resources to the NIH in coming years, it is appropriate to modernize the structure of the NIH to ensure that research dollars are expended more effectively and efficiently and that the fields of medical science that have contributed the most to the detection, diagnosis, and treatment of disease in recent years receive appropriate emphasis.
 
-“(8) The establishment of a National Institute of Biomedical Imaging and Bioengineering at the NIH would accelerate the development of new technologies with clinical and research applications, improve coordination and efficiency at the NIH and throughout the Federal Government, reduce duplication and waste, lay the foundation for a new medical information age, promote economic development, and provide a structure to train the young researchers who will make the pathbreaking discoveries of the next century.”
+"(8) The establishment of a National Institute of Biomedical Imaging and Bioengineering at the NIH would accelerate the development of new technologies with clinical and research applications, improve coordination and efficiency at the NIH and throughout the Federal Government, reduce duplication and waste, lay the foundation for a new medical information age, promote economic development, and provide a structure to train the young researchers who will make the pathbreaking discoveries of the next century."
 
 #### Establishment of Institute and Advisory Council ####
 
 Pub. L. 106–580, §3(b)–(d), Dec. 29, 2000, 114 Stat. 3091, provided that:
 
-“(b) Use of Existing Resources.—In providing for the establishment of the National Institute of Biomedical Imaging and Bioengineering pursuant to the amendment made by subsection (a) [enacting this subpart], the Director of the National Institutes of Health (referred to in this subsection as ‘NIH’)—
+"(b) Use of Existing Resources.—In providing for the establishment of the National Institute of Biomedical Imaging and Bioengineering pursuant to the amendment made by subsection (a) [enacting this subpart], the Director of the National Institutes of Health (referred to in this subsection as 'NIH')—
 
-“(1) may transfer to the National Institute of Biomedical Imaging and Bioengineering such personnel of NIH as the Director determines to be appropriate;
+"(1) may transfer to the National Institute of Biomedical Imaging and Bioengineering such personnel of NIH as the Director determines to be appropriate;
 
-“(2) may, for quarters for such Institute, utilize such facilities of NIH as the Director determines to be appropriate; and
+"(2) may, for quarters for such Institute, utilize such facilities of NIH as the Director determines to be appropriate; and
 
-“(3) may obtain administrative support for the Institute from the other agencies of NIH, including the other national research institutes.
+"(3) may obtain administrative support for the Institute from the other agencies of NIH, including the other national research institutes.
 
-“(c) Construction of Facilities.—None of the provisions of this Act [enacting this subpart, amending section 281 of this title, and enacting provisions set out as notes under this section and section 201 of this title] or the amendments made by the Act may be construed as authorizing the construction of facilities, or the acquisition of land, for purposes of the establishment or operation of the National Institute of Biomedical Imaging and Bioengineering.
+"(c) Construction of Facilities.—None of the provisions of this Act [enacting this subpart, amending section 281 of this title, and enacting provisions set out as notes under this section and section 201 of this title] or the amendments made by the Act may be construed as authorizing the construction of facilities, or the acquisition of land, for purposes of the establishment or operation of the National Institute of Biomedical Imaging and Bioengineering.
 
-“(d) Date Certain for Establishment of Advisory Council.—Not later than 90 days after the effective date of this Act [Dec. 29, 2000] under section 4 [set out above], the Secretary of Health and Human Services shall complete the establishment of an advisory council for the National Institute of Biomedical Imaging and Bioengineering in accordance with section 406 of the Public Health Service Act [42 U.S.C. 284a] and in accordance with section 464z of such Act (as added by subsection (a) of this section) [42 U.S.C. 285r].”
+"(d) Date Certain for Establishment of Advisory Council.—Not later than 90 days after the effective date of this Act [Dec. 29, 2000] under section 4 [set out above], the Secretary of Health and Human Services shall complete the establishment of an advisory council for the National Institute of Biomedical Imaging and Bioengineering in accordance with section 406 of the Public Health Service Act [42 U.S.C. 284a] and in accordance with section 464z of such Act (as added by subsection (a) of this section) [42 U.S.C. 285r]."

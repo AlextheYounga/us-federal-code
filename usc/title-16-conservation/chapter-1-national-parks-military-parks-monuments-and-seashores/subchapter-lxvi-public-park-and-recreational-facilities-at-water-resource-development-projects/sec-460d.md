@@ -6,23 +6,23 @@ The Chief of Engineers, under the supervision of the Secretary of the Army, is a
 
 #### Amendments ####
 
-**2007**—Pub. L. 110–114 inserted “federally recognized Indian tribes and” before “Federal” and “Indian tribes or” after “considerations, to such” in second proviso and “federally recognized Indian tribe” after “That in any such lease or license to a” in third proviso.
+**2007**—Pub. L. 110–114 inserted "federally recognized Indian tribes and" before "Federal" and "Indian tribes or" after "considerations, to such" in second proviso and "federally recognized Indian tribe" after "That in any such lease or license to a" in third proviso.
 
 **1970**—Pub. L. 91–611 provided that the rules and regulations should include but not be limited to prohibitions of dumping and unauthorized disposal of refuse, garbage, rubbish, trash, debris, or litter of any kind at water resource development projects, prescribed penalty for violation of the rules and regulations, provided for trial and sentence in accordance with section 3401 of title 18, authorized issuance of citation for violation of the regulations, provided for issuance of process for arrest of any violators, and recognized the authority of Federal officer without process of arrest any person taken in act of violating the regulations.
 
-**1964**—Pub. L. 88–578 struck out “, without charge,” after “The water areas of all such projects shall be open to public use generally”.
+**1964**—Pub. L. 88–578 struck out ", without charge," after "The water areas of all such projects shall be open to public use generally".
 
 **1962**—Pub. L. 87–874 substituted references to water resource development projects for references to reservoir areas wherever appearing, and authorized the Chief of Engineers to permit the construction, maintenance, and operation of facilities by local interests.
 
-**1954**—Act Sept. 3, 1954, amended section generally, and, among other changes, inserted “for park or recreational purposes” in first proviso, inserted “or leases where appropriate” in second proviso, and inserted third proviso permitting lessees and licensees to cut timber and harvest crop in certain cases and containing provisions with respect to the collection, utilization, and disposition of the proceeds from the sale of timber and crops.
+**1954**—Act Sept. 3, 1954, amended section generally, and, among other changes, inserted "for park or recreational purposes" in first proviso, inserted "or leases where appropriate" in second proviso, and inserted third proviso permitting lessees and licensees to cut timber and harvest crop in certain cases and containing provisions with respect to the collection, utilization, and disposition of the proceeds from the sale of timber and crops.
 
 **1946**—Act July 24, 1946, inserted first proviso dealing with leases to nonprofit organizations.
 
 #### Change of Name ####
 
-“United States magistrate judge” substituted for “United States magistrate” wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+"United States magistrate judge" substituted for "United States magistrate" wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of Act July 26, 1947, was repealed by section 53 of Act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of Act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of Act July 26, 1947, was repealed by section 53 of Act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of Act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
 
 #### Effective Date of 1964 Amendment ####
 
@@ -32,31 +32,31 @@ Amendment by Pub. L. 88–578 effective Jan. 1, 1965, see section 1(a) of Pub. L
 
 Pub. L. 104–303, title II, §208(a), Oct. 12, 1996, 110 Stat. 3680, provided that:
 
-“(1) In general.—The Secretary shall provide increased emphasis on, and opportunities for recreation at, water resources projects operated, maintained, or constructed by the Corps of Engineers.
+"(1) In general.—The Secretary shall provide increased emphasis on, and opportunities for recreation at, water resources projects operated, maintained, or constructed by the Corps of Engineers.
 
-“(2) Report.—Not later than 2 years after the date of the enactment of this Act [Oct. 12, 1996], the Secretary shall transmit to Congress a report on specific measures taken to implement this subsection.”
+"(2) Report.—Not later than 2 years after the date of the enactment of this Act [Oct. 12, 1996], the Secretary shall transmit to Congress a report on specific measures taken to implement this subsection."
 
 #### Cabin Site Leases ####
 
 Pub. L. 99–662, title XI, §1134(a)–(c), Nov. 17, 1986, 100 Stat. 4250, provided that:
 
-“(a) On and after December 31, 1989, the Secretary shall continue in effect any lease or assignment thereof to which this section applies, until such time as such lease is terminated by the leaseholder, any successors or assigns of the leaseholder, or by the Secretary under subsection (b) of this section. Any such continuation beyond the date of expiration of such lease as in effect on December 31, 1989, shall be at fair market rentals and on such other reasonable terms and conditions not inconsistent with this section as the Secretary deems necessary. No continuation shall be made beyond such date unless the leaseholder agrees (1) to hold the United States harmless from any claim for damages or injury to persons or property arising from occupancy of or through the use of the property subject to such lease, and (2) to not unreasonably expand existing improvements.
+"(a) On and after December 31, 1989, the Secretary shall continue in effect any lease or assignment thereof to which this section applies, until such time as such lease is terminated by the leaseholder, any successors or assigns of the leaseholder, or by the Secretary under subsection (b) of this section. Any such continuation beyond the date of expiration of such lease as in effect on December 31, 1989, shall be at fair market rentals and on such other reasonable terms and conditions not inconsistent with this section as the Secretary deems necessary. No continuation shall be made beyond such date unless the leaseholder agrees (1) to hold the United States harmless from any claim for damages or injury to persons or property arising from occupancy of or through the use of the property subject to such lease, and (2) to not unreasonably expand existing improvements.
 
-“(b)(1) On and after December 31, 1989, the Secretary and any other officer or employee of the United States shall not terminate a lease to which this section applies, except as provided in paragraph (2) of this subsection.
+"(b)(1) On and after December 31, 1989, the Secretary and any other officer or employee of the United States shall not terminate a lease to which this section applies, except as provided in paragraph (2) of this subsection.
 
-“(2) On and after December 31, 1989, the Secretary may terminate a lease to which this section applies only if—
+"(2) On and after December 31, 1989, the Secretary may terminate a lease to which this section applies only if—
 
-“(A) the property covered by the lease is needed for immediate use for public park purposes or other higher public use or for a navigation or flood control project; or
+"(A) the property covered by the lease is needed for immediate use for public park purposes or other higher public use or for a navigation or flood control project; or
 
-“(B) the leaseholder substantially violates a provision of such lease.
+"(B) the leaseholder substantially violates a provision of such lease.
 
-“(c) Subsections (a) and (b) of this section apply to (1) any cottage site lease of property, which lease was entered into by the Secretary of the Army pursuant to section 4 of the Act entitled ‘An Act authorizing the construction of certain public works on rivers and harbors for flood control, and for other purposes’, approved December 22, 1944 (58 Stat. 889; 16 U.S.C. 460d), and is in effect on December 31, 1989, and (2) any assignment of such a lease.”
+"(c) Subsections (a) and (b) of this section apply to (1) any cottage site lease of property, which lease was entered into by the Secretary of the Army pursuant to section 4 of the Act entitled 'An Act authorizing the construction of certain public works on rivers and harbors for flood control, and for other purposes', approved December 22, 1944 (58 Stat. 889; 16 U.S.C. 460d), and is in effect on December 31, 1989, and (2) any assignment of such a lease."
 
 #### Prohibition on Orders To Remove Houseboats, etc., From Reservoirs or Projects Administered by Secretary of the Army ####
 
-Pub. L. 99–662, title XI, §1134(d), Nov. 17, 1986, 100 Stat. 4251, as amended by Pub. L. 101–640, title III, §320, Nov. 28, 1990, 104 Stat. 4643, provided that: “On and after December 31, 1989, no houseboat, boathouse, floating cabin, sleeping facilities at marinas, or lawfully installed dock or cabin or trailer and appurtenant structures shall be required to be removed from any Federal water resources reservoir or lake project administered by the Secretary on which it was located on the date of enactment of this Act [Nov. 17, 1986], if (1) such property is maintained in usable and safe condition, (2) such property does not occasion a threat to life or property, and (3) the holder of the lease, permit, or license is in substantial compliance with the existing lease or license, except where necessary for immediate use for public purposes or other higher public use or for a navigation or flood control project.”
+Pub. L. 99–662, title XI, §1134(d), Nov. 17, 1986, 100 Stat. 4251, as amended by Pub. L. 101–640, title III, §320, Nov. 28, 1990, 104 Stat. 4643, provided that: "On and after December 31, 1989, no houseboat, boathouse, floating cabin, sleeping facilities at marinas, or lawfully installed dock or cabin or trailer and appurtenant structures shall be required to be removed from any Federal water resources reservoir or lake project administered by the Secretary on which it was located on the date of enactment of this Act [Nov. 17, 1986], if (1) such property is maintained in usable and safe condition, (2) such property does not occasion a threat to life or property, and (3) the holder of the lease, permit, or license is in substantial compliance with the existing lease or license, except where necessary for immediate use for public purposes or other higher public use or for a navigation or flood control project."
 
-Pub. L. 97–140, §6, Dec. 29, 1981, 95 Stat. 1718, provided that: “Notwithstanding any other provision of law, no houseboat, floating cabin, marina (including any with sleeping facilities), or lawfully installed dock or cabin and appurtenant structures shall be required to be removed before December 31, 1989, from any Federal water resources reservoir or lake project administered by the Secretary of the Army, acting through the Chief of Engineers, on which it was located on the date of enactment of this Act [Dec. 29, 1981], if such property is maintained in usable condition, and, in the judgment of the Chief of Engineers, does not occasion a threat to life or property.”
+Pub. L. 97–140, §6, Dec. 29, 1981, 95 Stat. 1718, provided that: "Notwithstanding any other provision of law, no houseboat, floating cabin, marina (including any with sleeping facilities), or lawfully installed dock or cabin and appurtenant structures shall be required to be removed before December 31, 1989, from any Federal water resources reservoir or lake project administered by the Secretary of the Army, acting through the Chief of Engineers, on which it was located on the date of enactment of this Act [Dec. 29, 1981], if such property is maintained in usable condition, and, in the judgment of the Chief of Engineers, does not occasion a threat to life or property."
 
 Similar provisions were contained in Pub. L. 97–128, §8, Dec. 29, 1981, 95 Stat. 1685.
 

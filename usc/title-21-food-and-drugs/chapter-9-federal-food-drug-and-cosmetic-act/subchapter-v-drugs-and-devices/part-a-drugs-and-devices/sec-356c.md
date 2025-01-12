@@ -70,15 +70,15 @@ If, based on notifications described in subsection (a) or any other relevant inf
 
 For purposes of this section—
 
-(1) the term “drug”—
+(1) the term "drug"—
 
 (A) means a drug (as defined in section 321(g) of this title) that is intended for human use and that is subject to section 353(b)(1) of this title; and
 
 (B) does not include biological products (as defined in section 262 of title 42), unless otherwise provided by the Secretary in the regulations promulgated under subsection (i);
 
-(2) the term “drug shortage” or “shortage”, with respect to a drug, means a period of time when the demand or projected demand for the drug within the United States exceeds the supply of the drug; and
+(2) the term "drug shortage" or "shortage", with respect to a drug, means a period of time when the demand or projected demand for the drug within the United States exceeds the supply of the drug; and
 
-(3) the term “meaningful disruption”—
+(3) the term "meaningful disruption"—
 
 (A) means a change in production that is reasonably likely to lead to a reduction in the supply of a drug by a manufacturer that is more than negligible and affects the ability of the manufacturer to fill orders or meet expected demand for its product; and
 
@@ -92,7 +92,7 @@ Not later than 18 months after July 9, 2012, the Secretary shall adopt a final r
 
 #### (2) Contents ####
 
-Such regulation shall define, for purposes of this section, the terms “life-supporting”, “life-sustaining”, and “intended for use in the prevention or treatment of a debilitating disease or condition”.
+Such regulation shall define, for purposes of this section, the terms "life-supporting", "life-sustaining", and "intended for use in the prevention or treatment of a debilitating disease or condition".
 
 #### (3) Inclusion of biological products ####
 
@@ -134,11 +134,11 @@ Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see
 
 #### Effect of Notification ####
 
-Pub. L. 112–144, title X, §1001(b), July 9, 2012, 126 Stat. 1101, provided that: “The submission of a notification to the Secretary of Health and Human Services (referred to in this title [see Tables for classification] as the ‘Secretary’) for purposes of complying with the requirement in section 506C(a) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 356c(a)] (as amended by subsection (a)) shall not be construed—
+Pub. L. 112–144, title X, §1001(b), July 9, 2012, 126 Stat. 1101, provided that: "The submission of a notification to the Secretary of Health and Human Services (referred to in this title [see Tables for classification] as the 'Secretary') for purposes of complying with the requirement in section 506C(a) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 356c(a)] (as amended by subsection (a)) shall not be construed—
 
-“(1) as an admission that any product that is the subject of such notification violates any provision of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.); or
+"(1) as an admission that any product that is the subject of such notification violates any provision of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.); or
 
-“(2) as evidence of an intention to promote or market the product for an indication or use for which the product has not been approved by the Secretary.”
+"(2) as evidence of an intention to promote or market the product for an indication or use for which the product has not been approved by the Secretary."
 
 #### Ex. Ord. No. 13588. Reducing Prescription Drug Shortages ####
 

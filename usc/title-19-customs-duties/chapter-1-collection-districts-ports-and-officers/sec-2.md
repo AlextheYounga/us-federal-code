@@ -8,7 +8,7 @@ The President is authorized from time to time, as the exigencies of the service 
 
 **1970**—Pub. L. 91–271 struck out provisions limiting the number of customs-collection districts and ports of entry to those established and authorized as of Aug. 1, 1914, except as thereafter provided by law, and provisions requiring the collector of customs of each customs-collection district to be officially designated by the number of the district for which appointed.
 
-**1928**—Act May 29, 1928, provided for discontinuance of the statement or report as required by a proviso at end of section which read as follows: “That the President shall, at the beginning of each regular session, submit to Congress a statement of all acts, if any, done under the provisions of this section and the reasons therefor.”
+**1928**—Act May 29, 1928, provided for discontinuance of the statement or report as required by a proviso at end of section which read as follows: "That the President shall, at the beginning of each regular session, submit to Congress a statement of all acts, if any, done under the provisions of this section and the reasons therefor."
 
 #### Effective Date of 1970 Amendment ####
 
@@ -32,7 +32,7 @@ For list of international airports of entry, see section 6.13 of Part 6 of Chapt
 
 #### Virginia Inland Port; Withdrawal of Designation as Customs Service Port of Entry Prohibited ####
 
-Pub. L. 104–52, title V, §512, Nov. 19, 1995, 109 Stat. 492, provided that: “Notwithstanding any provision of this or any other Act, during the fiscal year ending September 30, 1996, and thereafter, no funds may be obligated or expended in any way to withdraw the designation of the Virginia Inland Port at Front Royal, Virginia, as a United States Customs Service port of entry.”
+Pub. L. 104–52, title V, §512, Nov. 19, 1995, 109 Stat. 492, provided that: "Notwithstanding any provision of this or any other Act, during the fiscal year ending September 30, 1996, and thereafter, no funds may be obligated or expended in any way to withdraw the designation of the Virginia Inland Port at Front Royal, Virginia, as a United States Customs Service port of entry."
 
 [For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.]
 

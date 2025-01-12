@@ -6,6 +6,6 @@ Privileges, leases, and permits granted by the Secretary of the Interior for the
 
 #### Codification ####
 
-“Section 1302 of title 40” substituted in text for “section 321 of the Act of June 30, 1932 (47 Stat. 412; 40 U.S.C. 303b)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Section 1302 of title 40" substituted in text for "section 321 of the Act of June 30, 1932 (47 Stat. 412; 40 U.S.C. 303b)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 Section was classified to section 303c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.

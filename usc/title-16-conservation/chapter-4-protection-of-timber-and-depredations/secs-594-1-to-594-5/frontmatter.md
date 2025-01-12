@@ -16,7 +16,7 @@ Repeal effective Oct. 1, 1978, see section 17 of Pub. L. 95–313, set out as an
 
 #### Short Title ####
 
-Act June 25, 1947, ch. 141, §7, 61 Stat. 177, providing that sections 594–1 to 594–5 of this title be known as the “Forest Pest Control Act”, was repealed by Pub. L. 95–313, §16(a)(3), formerly §13(a)(3), July 1, 1978, 92 Stat. 374, renumbered §16(a)(3), Pub. L. 101–624, title XII, §1215(1), Nov. 28, 1990, 104 Stat. 3525.
+Act June 25, 1947, ch. 141, §7, 61 Stat. 177, providing that sections 594–1 to 594–5 of this title be known as the "Forest Pest Control Act", was repealed by Pub. L. 95–313, §16(a)(3), formerly §13(a)(3), July 1, 1978, 92 Stat. 374, renumbered §16(a)(3), Pub. L. 101–624, title XII, §1215(1), Nov. 28, 1990, 104 Stat. 3525.
 
 #### Construction ####
 

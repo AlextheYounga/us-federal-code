@@ -64,7 +64,7 @@ Sec.
 
 #### Amendments ####
 
-**2010**—Pub. L. 111–203, title V, §502(c), July 21, 2010, 124 Stat. 1588, added items 312 to 315 and struck out item 312 “Continuing in office”.
+**2010**—Pub. L. 111–203, title V, §502(c), July 21, 2010, 124 Stat. 1588, added items 312 to 315 and struck out item 312 "Continuing in office".
 
 **2003**—Pub. L. 108–177, title I, §105(a)(2), Dec. 13, 2003, 117 Stat. 2603, added item 311 and redesignated former item 311 as 312.
 

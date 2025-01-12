@@ -8,8 +8,8 @@ The Secretary of the Army may cause proceedings to be instituted for the acquire
 
 #### Amendments ####
 
-**1945**—Act Nov. 30, 1945, substituted second sentence of second par. for a sentence which read “In all such proceedings the court, for the purpose of ascertaining the value of the property and assessing the compensation to be paid, shall appoint three commissioners, whose award, when confirmed by the court, shall be final.”
+**1945**—Act Nov. 30, 1945, substituted second sentence of second par. for a sentence which read "In all such proceedings the court, for the purpose of ascertaining the value of the property and assessing the compensation to be paid, shall appoint three commissioners, whose award, when confirmed by the court, shall be final."
 
 #### Change of Name ####
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.

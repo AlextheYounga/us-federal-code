@@ -8,4 +8,4 @@ Repeal effective as if included in the provisions of Pub. L. 109–280 to which 
 
 #### Construction of Amendment by Pub. L. 109–280 ####
 
-Pub. L. 110–458, title I, §108(l), Dec. 23, 2008, 122 Stat. 5110, provided that: “Section 856 of the 2006 Act [Pub. L. 109–280, enacting this section], and the amendments made by such section, are hereby repealed, and the Internal Revenue Code of 1986 shall be applied and administered as if such sections and amendments had not been enacted.”
+Pub. L. 110–458, title I, §108(l), Dec. 23, 2008, 122 Stat. 5110, provided that: "Section 856 of the 2006 Act [Pub. L. 109–280, enacting this section], and the amendments made by such section, are hereby repealed, and the Internal Revenue Code of 1986 shall be applied and administered as if such sections and amendments had not been enacted."

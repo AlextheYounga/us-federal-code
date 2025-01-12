@@ -12,4 +12,4 @@ A prior part I, act Aug. 16, 1964, ch. 736, 68A Stat. 721, and amended thereafte
 
 #### Amendments ####
 
-**1987**—Pub. L. 100–203, title X, §10512(g)(2), Dec. 22, 1987, 101 Stat. 1330–450, substituted “Imposition of tax” for “Tax” in item 5801.
+**1987**—Pub. L. 100–203, title X, §10512(g)(2), Dec. 22, 1987, 101 Stat. 1330–450, substituted "Imposition of tax" for "Tax" in item 5801.

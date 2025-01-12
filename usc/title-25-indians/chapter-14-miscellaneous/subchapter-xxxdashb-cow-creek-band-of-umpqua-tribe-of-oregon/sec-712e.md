@@ -10,4 +10,4 @@ The Indian Gaming Regulatory Act, referred to in text, is Pub. L. 100–497, Oct
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–204 inserted “, and shall be treated as on-reservation land for the purpose of processing acquisitions of real property into trust” after “part of the Tribe's reservation”.
+**2004**—Pub. L. 108–204 inserted ", and shall be treated as on-reservation land for the purpose of processing acquisitions of real property into trust" after "part of the Tribe's reservation".

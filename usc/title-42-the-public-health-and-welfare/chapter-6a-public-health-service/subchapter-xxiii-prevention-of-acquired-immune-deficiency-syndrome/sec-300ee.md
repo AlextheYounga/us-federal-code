@@ -20,7 +20,7 @@ Subsection (c) of this section may not be construed to restrict the ability of a
 
 #### Amendments ####
 
-**1988**—Subsec. (a). Pub. L. 100–690 substituted “this subchapter” for “this part”.
+**1988**—Subsec. (a). Pub. L. 100–690 substituted "this subchapter" for "this part".
 
 #### Effective Date of 1988 Amendment ####
 

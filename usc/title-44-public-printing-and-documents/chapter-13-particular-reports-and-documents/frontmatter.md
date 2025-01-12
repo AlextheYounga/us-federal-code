@@ -42,7 +42,7 @@ Sec.
 
 1320. Geological Survey: distribution of publications to public libraries.
 
-1320A. Historical societies’ publications.
+1320A. Historical societies' publications.
 
 1321. Hydrographic Surveys; foreign surveys.
 
@@ -66,7 +66,7 @@ Sec.
 
 1331. National Academy of Sciences: report.
 
-1332. National encampments of Veterans’ organizations; proceedings printed annually for Congress.
+1332. National encampments of Veterans' organizations; proceedings printed annually for Congress.
 
 1333. National high school and college debate topics.
 
@@ -92,17 +92,17 @@ Sec.
 
 #### Amendments ####
 
-**2008**—Pub. L. 110–417, [div. A], title IX, §931(a)(2), Oct. 14, 2008, 122 Stat. 4575, substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in item 1336.
+**2008**—Pub. L. 110–417, [div. A], title IX, §931(a)(2), Oct. 14, 2008, 122 Stat. 4575, substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" in item 1336.
 
-**2000**—Pub. L. 106–181, title VI, §606(d), Apr. 5, 2000, 114 Stat. 154, struck out “and aeronautical” after “nautical” in item 1307.
+**2000**—Pub. L. 106–181, title VI, §606(d), Apr. 5, 2000, 114 Stat. 154, struck out "and aeronautical" after "nautical" in item 1307.
 
-**1999**—Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(b)(25)], Nov. 29, 1999, 113 Stat. 1536, 1501A–585, struck out items 1337 “Patent Office: publications authorized to be printed” and 1338 “Patent Office: limitations and conditions concerning printing and lithographing”.
+**1999**—Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(b)(25)], Nov. 29, 1999, 113 Stat. 1536, 1501A–585, struck out items 1337 "Patent Office: publications authorized to be printed" and 1338 "Patent Office: limitations and conditions concerning printing and lithographing".
 
-**1996**—Pub. L. 104–316, title I, §123(b)(2), Oct. 19, 1996, 110 Stat. 3839, struck out item 1311 “Comptroller General: decisions”.
+**1996**—Pub. L. 104–316, title I, §123(b)(2), Oct. 19, 1996, 110 Stat. 3839, struck out item 1311 "Comptroller General: decisions".
 
-Pub. L. 104–201, div. A, title XI, §1123(b)(2), Sept. 23, 1996, 110 Stat. 2688, substituted “National Imagery and Mapping Agency” for “Naval Oceanographic Office” in item 1336.
+Pub. L. 104–201, div. A, title XI, §1123(b)(2), Sept. 23, 1996, 110 Stat. 2688, substituted "National Imagery and Mapping Agency" for "Naval Oceanographic Office" in item 1336.
 
-**1986**—Pub. L. 99–272, title VI, §6011(b), Apr. 7, 1986, 100 Stat. 122, substituted “National Oceanic and Atmospheric Administration: nautical and aeronautical products, sale and distribution” for “Environmental Science Service Administration: charts; sale and distribution” in item 1307.
+**1986**—Pub. L. 99–272, title VI, §6011(b), Apr. 7, 1986, 100 Stat. 122, substituted "National Oceanic and Atmospheric Administration: nautical and aeronautical products, sale and distribution" for "Environmental Science Service Administration: charts; sale and distribution" in item 1307.
 
 **1980**—Pub. L. 96–536, §101(c), Dec. 16, 1980, 94 Stat. 3167, added item 1320A.
 

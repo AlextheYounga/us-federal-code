@@ -26,7 +26,7 @@ Pub. L. 110–161, div. H, title I, §1004(d)(1)(B), (2)(B), and Pub. L. 110–1
 
 Repeal of section 1004 of Pub. L. 110–161 by Pub. L. 111–145 effective as if included in the enactment of Pub. L. 110–161 and to have no effect on the enactment or implementation of any provision of Pub. L. 110–178, see section 6(d) of Pub. L. 111–145, set out as an Effective Date of 2010 Amendment note under section 1901 of this title.
 
-Pub. L. 110–178, §4(d), Jan. 7, 2008, 121 Stat. 2552, provided that: “The amendments made by this section [amending sections 167i, 167j, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, and repealing sections 167 to 167h of this title] shall take effect October 1, 2009.”
+Pub. L. 110–178, §4(d), Jan. 7, 2008, 121 Stat. 2552, provided that: "The amendments made by this section [amending sections 167i, 167j, 185, and 1961 of this title and sections 5101, 5102, and 5104 of Title 40, Public Buildings, Property, and Works, and repealing sections 167 to 167h of this title] shall take effect October 1, 2009."
 
 Pub. L. 110–161, div. H, title I, §1004(d)(1)(B), Dec. 26, 2007, 121 Stat. 2233, and Pub. L. 110–178, §4(a)(2), Jan. 7, 2008, 121 Stat. 2551, provided that section 167 of this title was repealed on Oct. 1, 2009. Pub. L. 110–161, §1004, was repealed by Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54.
 

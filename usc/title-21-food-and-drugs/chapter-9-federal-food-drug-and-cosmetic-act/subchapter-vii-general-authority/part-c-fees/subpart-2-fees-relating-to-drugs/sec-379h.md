@@ -76,7 +76,7 @@ Each person who is named as the applicant in an application described in clause 
 
 #### (iii) Definition ####
 
-For purposes of this subparagraph, the term “positron emission tomography drug” has the meaning given to the term “compounded positron emission tomography drug” in section 321(ii) of this title, except that paragraph (1)(B) of such section shall not apply.
+For purposes of this subparagraph, the term "positron emission tomography drug" has the meaning given to the term "compounded positron emission tomography drug" in section 321(ii) of this title, except that paragraph (1)(B) of such section shall not apply.
 
 #### (3) Prescription drug product fee ####
 
@@ -206,9 +206,9 @@ In making the finding in paragraph (1)(C), the Secretary may use standard costs.
 
 #### (4) Rules relating to small businesses ####
 
-#### (A) “Small business” defined ####
+#### (A) "Small business" defined ####
 
-In paragraph (1)(D), the term “small business” means an entity that has fewer than 500 employees, including employees of affiliates, and that does not have a drug product that has been approved under a human drug application and introduced or delivered for introduction into interstate commerce.
+In paragraph (1)(D), the term "small business" means an entity that has fewer than 500 employees, including employees of affiliates, and that does not have a drug product that has been approved under a human drug application and introduced or delivered for introduction into interstate commerce.
 
 #### (B) Waiver of application fee ####
 
@@ -310,205 +310,205 @@ The Drug Price Competition and Patent Term Restoration Act of 1984, referred to 
 
 #### Amendments ####
 
-**2012**—Subsec. (a). Pub. L. 112–144, §103(1)(A), substituted “fiscal year 2013” for “fiscal year 2008” in introductory provisions.
+**2012**—Subsec. (a). Pub. L. 112–144, §103(1)(A), substituted "fiscal year 2013" for "fiscal year 2008" in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 112–144, §103(1)(B), substituted “(c)(4)” for “(c)(5)” in cls. (i) and (ii).
+Subsec. (a)(1)(A). Pub. L. 112–144, §103(1)(B), substituted "(c)(4)" for "(c)(5)" in cls. (i) and (ii).
 
-Subsec. (a)(2)(A). Pub. L. 112–144, §103(1)(C), substituted “(c)(4)” for “(c)(5)” and “due on the later of the first business day on or after October 1 of each fiscal year or the first business day after the enactment of an appropriations Act providing for the collection and obligation of fees for such fiscal year under this section” for “payable on or before October 1 of each year” in concluding provisions.
+Subsec. (a)(2)(A). Pub. L. 112–144, §103(1)(C), substituted "(c)(4)" for "(c)(5)" and "due on the later of the first business day on or after October 1 of each fiscal year or the first business day after the enactment of an appropriations Act providing for the collection and obligation of fees for such fiscal year under this section" for "payable on or before October 1 of each year" in concluding provisions.
 
-Subsec. (a)(3)(A). Pub. L. 112–144, §103(1)(D)(i), substituted “subsection (c)(4)” for “subsection (c)(5)” and “due on the later of the first business day on or after October 1 of each fiscal year or the first business day after the enactment of an appropriations Act providing for the collection and obligation of fees for such fiscal year under this section.” for “payable on or before October 1 of each year.”
+Subsec. (a)(3)(A). Pub. L. 112–144, §103(1)(D)(i), substituted "subsection (c)(4)" for "subsection (c)(5)" and "due on the later of the first business day on or after October 1 of each fiscal year or the first business day after the enactment of an appropriations Act providing for the collection and obligation of fees for such fiscal year under this section." for "payable on or before October 1 of each year."
 
-Subsec. (a)(3)(B). Pub. L. 112–144, §103(1)(D)(ii), amended subpar. (B) generally. Prior to amendment, text read as follows: “A prescription drug product shall not be assessed a fee under subparagraph (A) if such product is identified on the list compiled under section 355(j)(7)(A) of this title with a potency described in terms of per 100 mL, or if such product is the same product as another product approved under an application filed under section 355(b) or 355(j) of this title, under an abbreviated application filed under section 357 of this title (as in effect on the day before November 21, 1997), or under an abbreviated new drug application pursuant to regulations in effect prior to the implementation of the Drug Price Competition and Patent Term Restoration Act of 1984.”
+Subsec. (a)(3)(B). Pub. L. 112–144, §103(1)(D)(ii), amended subpar. (B) generally. Prior to amendment, text read as follows: "A prescription drug product shall not be assessed a fee under subparagraph (A) if such product is identified on the list compiled under section 355(j)(7)(A) of this title with a potency described in terms of per 100 mL, or if such product is the same product as another product approved under an application filed under section 355(b) or 355(j) of this title, under an abbreviated application filed under section 357 of this title (as in effect on the day before November 21, 1997), or under an abbreviated new drug application pursuant to regulations in effect prior to the implementation of the Drug Price Competition and Patent Term Restoration Act of 1984."
 
-Subsec. (b)(1). Pub. L. 112–144, §103(2)(A)(i), substituted “fiscal years 2013 through 2017” for “fiscal years 2008 through 2012” in introductory provisions.
+Subsec. (b)(1). Pub. L. 112–144, §103(2)(A)(i), substituted "fiscal years 2013 through 2017" for "fiscal years 2008 through 2012" in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 112–144, §103(2)(A)(ii), substituted “$693,099,000;” for “$392,783,000; and”.
+Subsec. (b)(1)(A). Pub. L. 112–144, §103(2)(A)(ii), substituted "$693,099,000;" for "$392,783,000; and".
 
-Subsec. (b)(1)(B), (C). Pub. L. 112–144, §103(2)(A)(iii), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “an amount equal to the modified workload adjustment factor for fiscal year 2007 (as determined under paragraph (3)).”
+Subsec. (b)(1)(B), (C). Pub. L. 112–144, §103(2)(A)(iii), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: "an amount equal to the modified workload adjustment factor for fiscal year 2007 (as determined under paragraph (3))."
 
 Subsec. (b)(3), (4). Pub. L. 112–144, §103(2)(B), added par. (3) and struck out former pars. (3) and (4) which related to the modified workload adjustment factor for fiscal year 2007 and additional fee revenues for drug safety for fiscal years 2008 through 2012, respectively.
 
 Subsec. (c). Pub. L. 112–144, §103(3), added subsec. (c) and struck out former subsec. (c) which related to inflation adjustment for fiscal year 2009 and subsequent fiscal years, workload adjustment for fiscal year 2009 and subsequent fiscal years, rent and rent-related cost adjustment for fiscal year 2010 and each subsequent fiscal year, final year adjustment for fiscal year 2012, annual fee setting for each fiscal year that began after Sept. 30, 2007, and the limit on the total amount of fees charged for a fiscal year.
 
-Subsec. (g)(1). Pub. L. 112–144, §103(4)(A), substituted “Subject to paragraph (2)(C), fees authorized” for “Fees authorized”.
+Subsec. (g)(1). Pub. L. 112–144, §103(4)(A), substituted "Subject to paragraph (2)(C), fees authorized" for "Fees authorized".
 
-Subsec. (g)(2)(A)(i). Pub. L. 112–144, §103(4)(B)(i), substituted “subject to subparagraph (C), shall be collected and available” for “shall be retained”.
+Subsec. (g)(2)(A)(i). Pub. L. 112–144, §103(4)(B)(i), substituted "subject to subparagraph (C), shall be collected and available" for "shall be retained".
 
-Subsec. (g)(2)(A)(ii). Pub. L. 112–144, §103(4)(B)(ii), substituted “shall be available” for “shall only be collected and available”.
+Subsec. (g)(2)(A)(ii). Pub. L. 112–144, §103(4)(B)(ii), substituted "shall be available" for "shall only be collected and available".
 
 Subsec. (g)(2)(C). Pub. L. 112–144, §103(4)(B)(iii), added subpar. (C).
 
-Subsec. (g)(3). Pub. L. 112–144, §103(4)(C), substituted “fiscal years 2013 through 2017” for “fiscal years 2008 through 2012”.
+Subsec. (g)(3). Pub. L. 112–144, §103(4)(C), substituted "fiscal years 2013 through 2017" for "fiscal years 2008 through 2012".
 
-Subsec. (g)(4). Pub. L. 112–144, §103(4)(D), substituted “fiscal years 2013 through 2015” for “fiscal years 2008 through 2010”, “fiscal year 2016” for “fiscal year 2011”, “fiscal years 2013 through 2016” for “fiscal years 2008 through 2011”, and “fiscal year 2017” for “fiscal year 2012”.
+Subsec. (g)(4). Pub. L. 112–144, §103(4)(D), substituted "fiscal years 2013 through 2015" for "fiscal years 2008 through 2010", "fiscal year 2016" for "fiscal year 2011", "fiscal years 2013 through 2016" for "fiscal years 2008 through 2011", and "fiscal year 2017" for "fiscal year 2012".
 
-**2007**—Subsec. (a). Pub. L. 110–85, §103(a)(1), substituted “2008” for “2003” in introductory provisions.
+**2007**—Subsec. (a). Pub. L. 110–85, §103(a)(1), substituted "2008" for "2003" in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 110–85, §103(g), substituted “(c)(5)” for “(c)(4)” in cls. (i) and (ii).
+Subsec. (a)(1)(A). Pub. L. 110–85, §103(g), substituted "(c)(5)" for "(c)(4)" in cls. (i) and (ii).
 
-Subsec. (a)(1)(D). Pub. L. 110–85, §103(a)(2)(A), inserted “or withdrawn before filing” after “refused for filing” in heading and “or withdrawn without a waiver before filing” before period at end of text.
+Subsec. (a)(1)(D). Pub. L. 110–85, §103(a)(2)(A), inserted "or withdrawn before filing" after "refused for filing" in heading and "or withdrawn without a waiver before filing" before period at end of text.
 
 Subsec. (a)(1)(E) to (G). Pub. L. 110–85, §103(a)(2)(B), (C), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
 
-Subsec. (a)(2)(A). Pub. L. 110–85, §103(a)(3)(A), (g), substituted “subparagraphs (B) and (C)” for “subparagraph (B)” in introductory provisions and “(c)(5)” for “(c)(4)” in concluding provisions.
+Subsec. (a)(2)(A). Pub. L. 110–85, §103(a)(3)(A), (g), substituted "subparagraphs (B) and (C)" for "subparagraph (B)" in introductory provisions and "(c)(5)" for "(c)(4)" in concluding provisions.
 
 Subsec. (a)(2)(C). Pub. L. 110–85, §103(a)(3)(B), added subpar. (C).
 
-Subsec. (a)(3)(A). Pub. L. 110–85, §103(g), substituted “(c)(5)” for “(c)(4)”.
+Subsec. (a)(3)(A). Pub. L. 110–85, §103(g), substituted "(c)(5)" for "(c)(4)".
 
 Subsec. (b). Pub. L. 110–85, §103(b), amended subsec. (b) generally, substituting provisions contained in pars. (1) to (4) relating to fee revenue amounts for fiscal years 2008 through 2012 for undesignated provisions relating to fee schedules for fiscal years 2003 to 2007.
 
-Subsec. (c)(1). Pub. L. 110–85, §103(c)(1), amended par. (1) by substituting “For fiscal year 2009 and subsequent fiscal years, the revenues established in subsection (b)” for “The revenues established in subsection (b)” in introductory provisions, adding subpar. (C), and substituting “fiscal year 2008” for “fiscal year 2003” in concluding provisions.
+Subsec. (c)(1). Pub. L. 110–85, §103(c)(1), amended par. (1) by substituting "For fiscal year 2009 and subsequent fiscal years, the revenues established in subsection (b)" for "The revenues established in subsection (b)" in introductory provisions, adding subpar. (C), and substituting "fiscal year 2008" for "fiscal year 2003" in concluding provisions.
 
-Subsec. (c)(2). Pub. L. 110–85, §103(c)(2)(A), substituted “For fiscal year 2009 and subsequent fiscal years,” for “Beginning with fiscal year 2004,” in introductory provisions.
+Subsec. (c)(2). Pub. L. 110–85, §103(c)(2)(A), substituted "For fiscal year 2009 and subsequent fiscal years," for "Beginning with fiscal year 2004," in introductory provisions.
 
-Subsec. (c)(2)(A). Pub. L. 110–85, §103(c)(2)(B), substituted “human drug applications (adjusted for changes in review activities, as described in the notice that the Secretary is required to publish in the Federal Register under this subparagraph), efficacy supplements, and manufacturing supplements submitted to the Secretary, and the change in the total number of active commercial investigational new drug applications (adjusted for changes in review activities, as so described) during the most recent 12-month period for which data on such submissions is available.” for “human drug applications, commercial investigational new drug applications, efficacy supplements, and manufacturing supplements submitted to the Secretary.” in first sentence.
+Subsec. (c)(2)(A). Pub. L. 110–85, §103(c)(2)(B), substituted "human drug applications (adjusted for changes in review activities, as described in the notice that the Secretary is required to publish in the Federal Register under this subparagraph), efficacy supplements, and manufacturing supplements submitted to the Secretary, and the change in the total number of active commercial investigational new drug applications (adjusted for changes in review activities, as so described) during the most recent 12-month period for which data on such submissions is available." for "human drug applications, commercial investigational new drug applications, efficacy supplements, and manufacturing supplements submitted to the Secretary." in first sentence.
 
-Subsec. (c)(2)(B). Pub. L. 110–85, §103(c)(2)(C), inserted at end “Any adjustment for changes in review activities made in setting fees and revenue amounts for fiscal year 2009 may not result in the total workload adjustment being more than 2 percentage points higher than it would have been in the absence of the adjustment for changes in review activities.”
+Subsec. (c)(2)(B). Pub. L. 110–85, §103(c)(2)(C), inserted at end "Any adjustment for changes in review activities made in setting fees and revenue amounts for fiscal year 2009 may not result in the total workload adjustment being more than 2 percentage points higher than it would have been in the absence of the adjustment for changes in review activities."
 
 Subsec. (c)(2)(C). Pub. L. 110–85, §103(c)(2)(D), added subpar. (C).
 
 Subsec. (c)(3). Pub. L. 110–85, §103(c)(3), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (c)(4). Pub. L. 110–85, §103(c)(3)(A), (4), redesignated par. (3) as (4) and amended it generally. Prior to amendment, text read as follows: “For fiscal year 2007, the Secretary may, in addition to adjustments under paragraphs (1) and (2), further increase the fee revenues and fees established in subsection (b) of this section if such an adjustment is necessary to provide for not more than three months of operating reserves of carryover user fees for the process for the review of human drug applications for the first three months of fiscal year 2008. If such an adjustment is necessary, the rationale for the amount of the increase shall be contained in the annual notice establishing fee revenues and fees for fiscal year 2007. If the Secretary has carryover balances for such process in excess of three months of such operating reserves, the adjustment under this paragraph shall not be made.” Former par. (4) redesignated (5).
+Subsec. (c)(4). Pub. L. 110–85, §103(c)(3)(A), (4), redesignated par. (3) as (4) and amended it generally. Prior to amendment, text read as follows: "For fiscal year 2007, the Secretary may, in addition to adjustments under paragraphs (1) and (2), further increase the fee revenues and fees established in subsection (b) of this section if such an adjustment is necessary to provide for not more than three months of operating reserves of carryover user fees for the process for the review of human drug applications for the first three months of fiscal year 2008. If such an adjustment is necessary, the rationale for the amount of the increase shall be contained in the annual notice establishing fee revenues and fees for fiscal year 2007. If the Secretary has carryover balances for such process in excess of three months of such operating reserves, the adjustment under this paragraph shall not be made." Former par. (4) redesignated (5).
 
-Subsec. (c)(5). Pub. L. 110–85, §103(c)(3)(A), (5), redesignated par. (4) as (5) and substituted “2007” for “2002”. Former par. (5) redesignated (6).
+Subsec. (c)(5). Pub. L. 110–85, §103(c)(3)(A), (5), redesignated par. (4) as (5) and substituted "2007" for "2002". Former par. (5) redesignated (6).
 
 Subsec. (c)(6). Pub. L. 110–85, §103(c)(3)(A), redesignated par. (5) as (6).
 
-Subsec. (d)(1). Pub. L. 110–85, §103(d)(1), inserted “to a person who is named as the applicant in a human drug application” after “The Secretary shall grant” and “to that person” after “one or more fees assessed” in introductory provisions.
+Subsec. (d)(1). Pub. L. 110–85, §103(d)(1), inserted "to a person who is named as the applicant in a human drug application" after "The Secretary shall grant" and "to that person" after "one or more fees assessed" in introductory provisions.
 
 Subsec. (d)(2), (3). Pub. L. 110–85, §103(d)(2), (3), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
 
 Subsec. (d)(4). Pub. L. 110–85, §103(d)(2), redesignated par. (3) as (4).
 
-Subsec. (d)(4)(A). Pub. L. 110–85, §103(d)(4), inserted before period at end “, and that does not have a drug product that has been approved under a human drug application and introduced or delivered for introduction into interstate commerce”.
+Subsec. (d)(4)(A). Pub. L. 110–85, §103(d)(4), inserted before period at end ", and that does not have a drug product that has been approved under a human drug application and introduced or delivered for introduction into interstate commerce".
 
-Subsec. (g)(1). Pub. L. 110–85, §103(h)(1), substituted “Fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended.” for “Fees collected for a fiscal year pursuant to subsection (a) of this section shall be credited to the appropriation account for salaries and expenses of the Food and Drug Administration and shall be available in accordance with appropriation Acts until expended without fiscal year limitation.”
+Subsec. (g)(1). Pub. L. 110–85, §103(h)(1), substituted "Fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended." for "Fees collected for a fiscal year pursuant to subsection (a) of this section shall be credited to the appropriation account for salaries and expenses of the Food and Drug Administration and shall be available in accordance with appropriation Acts until expended without fiscal year limitation."
 
 Subsec. (g)(3). Pub. L. 110–85, §103(e)(1), amended par. (3) generally. Prior to amendment, par. (3) authorized appropriations for fiscal years 2003 to 2007.
 
-Subsec. (g)(4). Pub. L. 110–85, §103(e)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriation Acts for such fiscal year shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year.”
+Subsec. (g)(4). Pub. L. 110–85, §103(e)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriation Acts for such fiscal year shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year."
 
 Subsec. (k). Pub. L. 110–85, §103(f), added subsec. (k).
 
-**2002**—Subsec. (a). Pub. L. 107–188, §504(a)(1), substituted “fiscal year 2003” for “fiscal year 1998” in introductory provisions.
+**2002**—Subsec. (a). Pub. L. 107–188, §504(a)(1), substituted "fiscal year 2003" for "fiscal year 1998" in introductory provisions.
 
-Subsec. (a)(1)(A)(i). Pub. L. 107–188, §504(a)(2)(A), substituted “under subsection (c)(4)” for “in subsection (b)”.
+Subsec. (a)(1)(A)(i). Pub. L. 107–188, §504(a)(2)(A), substituted "under subsection (c)(4)" for "in subsection (b)".
 
-Subsec. (a)(1)(A)(ii). Pub. L. 107–188, §504(a)(2), substituted “under subsection (c)(4)” for “in subsection (b)” and inserted “Such fee shall be half of the amount of the fee established under clause (i).” at end.
+Subsec. (a)(1)(A)(ii). Pub. L. 107–188, §504(a)(2), substituted "under subsection (c)(4)" for "in subsection (b)" and inserted "Such fee shall be half of the amount of the fee established under clause (i)." at end.
 
-Subsec. (a)(1)(F), (G). Pub. L. 107–109 redesignated subpar. (G) as (F) and struck out heading and text of former subpar. (F). Text read as follows: “A supplement to a human drug application proposing to include a new indication for use in pediatric populations shall not be assessed a fee under subparagraph (A).”
+Subsec. (a)(1)(F), (G). Pub. L. 107–109 redesignated subpar. (G) as (F) and struck out heading and text of former subpar. (F). Text read as follows: "A supplement to a human drug application proposing to include a new indication for use in pediatric populations shall not be assessed a fee under subparagraph (A)."
 
-Subsec. (a)(2)(A). Pub. L. 107–188, §504(a)(3), in concluding provisions, substituted “under subsection (c)(4)” for “in subsection (b)” and “payable on or before October 1” for “payable on or before January 31”.
+Subsec. (a)(2)(A). Pub. L. 107–188, §504(a)(3), in concluding provisions, substituted "under subsection (c)(4)" for "in subsection (b)" and "payable on or before October 1" for "payable on or before January 31".
 
-Subsec. (a)(3)(A). Pub. L. 107–188, §504(a)(4)(A), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “Except as provided in subparagraph (B), each person—
+Subsec. (a)(3)(A). Pub. L. 107–188, §504(a)(4)(A), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: "Except as provided in subparagraph (B), each person—
 
-“(i) who is named as the applicant in a human drug application for a prescription drug product which has been submitted for listing under section 360 of this title, and
+"(i) who is named as the applicant in a human drug application for a prescription drug product which has been submitted for listing under section 360 of this title, and
 
-“(ii) who, after September 1, 1992, had pending before the Secretary a human drug application or supplement,
+"(ii) who, after September 1, 1992, had pending before the Secretary a human drug application or supplement,
 
-shall pay for each such prescription drug product the annual fee established in subsection (b) of this section. Such fee shall be payable for the fiscal year in which the product is first submitted for listing under section 360 of this title, or is submitted for relisting under section 360 of this title if the product has been withdrawn from listing and relisted. After such fee is paid for that fiscal year, such fee shall be payable on or before January 31 of each year. Such fee shall be paid only once for each product for a fiscal year in which the fee is payable.”
+shall pay for each such prescription drug product the annual fee established in subsection (b) of this section. Such fee shall be payable for the fiscal year in which the product is first submitted for listing under section 360 of this title, or is submitted for relisting under section 360 of this title if the product has been withdrawn from listing and relisted. After such fee is paid for that fiscal year, such fee shall be payable on or before January 31 of each year. Such fee shall be paid only once for each product for a fiscal year in which the fee is payable."
 
-Subsec. (a)(3)(B). Pub. L. 107–188, §504(a)(4)(B), substituted “A prescription drug product shall not be assessed a fee under subparagraph (A) if such product is identified on the list compiled under section 355(j)(7)(A) of this title with a potency described in terms of per 100 mL, or if such product is the same product as another product approved under an application filed under section 355(b)” for “The listing of a prescription drug product under section 360 of this title shall not require the person who listed such product to pay the fee prescribed by subparagraph (A) if such product is the same product as a product approved under an application filed under section 355(b)(2)”.
+Subsec. (a)(3)(B). Pub. L. 107–188, §504(a)(4)(B), substituted "A prescription drug product shall not be assessed a fee under subparagraph (A) if such product is identified on the list compiled under section 355(j)(7)(A) of this title with a potency described in terms of per 100 mL, or if such product is the same product as another product approved under an application filed under section 355(b)" for "The listing of a prescription drug product under section 360 of this title shall not require the person who listed such product to pay the fee prescribed by subparagraph (A) if such product is the same product as a product approved under an application filed under section 355(b)(2)".
 
-Subsec. (b). Pub. L. 107–188, §504(b), amended heading and text of subsec. (b) generally, substituting “Fee revenue amounts” for “Fee amounts” in heading and substituting fee schedules for fiscal years 2003 to 2007 for fee provisions relating to fiscal years 1998 to 2002.
+Subsec. (b). Pub. L. 107–188, §504(b), amended heading and text of subsec. (b) generally, substituting "Fee revenue amounts" for "Fee amounts" in heading and substituting fee schedules for fiscal years 2003 to 2007 for fee provisions relating to fiscal years 1998 to 2002.
 
-Subsec. (c)(1). Pub. L. 107–188, §504(c)(1)(A), (D), substituted “revenues” for “fees and total fee revenues” in introductory provisions and “fiscal year 2003” for “fiscal year 1997” in concluding provisions.
+Subsec. (c)(1). Pub. L. 107–188, §504(c)(1)(A), (D), substituted "revenues" for "fees and total fee revenues" in introductory provisions and "fiscal year 2003" for "fiscal year 1997" in concluding provisions.
 
-Subsec. (c)(1)(A). Pub. L. 107–188, §504(c)(1)(B), struck out “during the preceding fiscal year” before “in the Consumer Price Index” and substituted “for the 12 month period ending June 30 preceding the fiscal year for which fees are being established, or” for “, or”.
+Subsec. (c)(1)(A). Pub. L. 107–188, §504(c)(1)(B), struck out "during the preceding fiscal year" before "in the Consumer Price Index" and substituted "for the 12 month period ending June 30 preceding the fiscal year for which fees are being established, or" for ", or".
 
-Subsec. (c)(1)(B). Pub. L. 107–188, §504(c)(1)(C), substituted “for the previous fiscal year” for “for such fiscal year”.
+Subsec. (c)(1)(B). Pub. L. 107–188, §504(c)(1)(C), substituted "for the previous fiscal year" for "for such fiscal year".
 
-Subsec. (c)(2) to (5). Pub. L. 107–188, §504(c)(2)–(4), added pars. (2) and (3), redesignated former pars. (2) and (3) as (4) and (5), respectively, and amended heading and text of par. (4) generally. Prior to amendment, text of par. (4) read as follows: “Subject to the amount appropriated for a fiscal year under subsection (g) of this section, the Secretary shall, within 60 days after the end of each fiscal year beginning after September 30, 1997, adjust the establishment and product fees described in subsection (b) of this section for the fiscal year in which the adjustment occurs so that the revenues collected from each of the categories of fees described in paragraphs (2) and (3) of subsection (b) of this section shall be set to be equal to the revenues collected from the category of application and supplement fees described in paragraph (1) of subsection (b) of this section.”
+Subsec. (c)(2) to (5). Pub. L. 107–188, §504(c)(2)–(4), added pars. (2) and (3), redesignated former pars. (2) and (3) as (4) and (5), respectively, and amended heading and text of par. (4) generally. Prior to amendment, text of par. (4) read as follows: "Subject to the amount appropriated for a fiscal year under subsection (g) of this section, the Secretary shall, within 60 days after the end of each fiscal year beginning after September 30, 1997, adjust the establishment and product fees described in subsection (b) of this section for the fiscal year in which the adjustment occurs so that the revenues collected from each of the categories of fees described in paragraphs (2) and (3) of subsection (b) of this section shall be set to be equal to the revenues collected from the category of application and supplement fees described in paragraph (1) of subsection (b) of this section."
 
-Subsec. (d)(1)(C) to (E). Pub. L. 107–188, §504(d)(1), inserted “or” at end of subpar. (C), redesignated subpar. (E) as (D), and struck out former subpar. (D) which read as follows: “assessment of the fee for an application or a supplement filed under section 355(b)(1) of this title pertaining to a drug containing an active ingredient would be inequitable because an application for a product containing the same active ingredient filed by another person under section 355(b)(2) of this title could not be assessed fees under subsection (a)(1) of this section, or”.
+Subsec. (d)(1)(C) to (E). Pub. L. 107–188, §504(d)(1), inserted "or" at end of subpar. (C), redesignated subpar. (E) as (D), and struck out former subpar. (D) which read as follows: "assessment of the fee for an application or a supplement filed under section 355(b)(1) of this title pertaining to a drug containing an active ingredient would be inequitable because an application for a product containing the same active ingredient filed by another person under section 355(b)(2) of this title could not be assessed fees under subsection (a)(1) of this section, or".
 
-Subsec. (d)(3)(A), (B). Pub. L. 107–188, §504(d)(2), substituted “paragraph (1)(D)” for “paragraph (1)(E)”.
+Subsec. (d)(3)(A), (B). Pub. L. 107–188, §504(d)(2), substituted "paragraph (1)(D)" for "paragraph (1)(E)".
 
-Subsec. (f). Pub. L. 107–188, §504(e)(1), substituted “Limitations” for “Assessment of fees” in heading.
+Subsec. (f). Pub. L. 107–188, §504(e)(1), substituted "Limitations" for "Assessment of fees" in heading.
 
-Subsec. (f)(1). Pub. L. 107–188, §504(e)(2), substituted “In general” for “Limitation” in heading and “Fees under subsection (a) of this section shall be refunded for a fiscal year beginning” for “Fees may not be assessed under subsection (a) of this section for a fiscal year beginning” in text.
+Subsec. (f)(1). Pub. L. 107–188, §504(e)(2), substituted "In general" for "Limitation" in heading and "Fees under subsection (a) of this section shall be refunded for a fiscal year beginning" for "Fees may not be assessed under subsection (a) of this section for a fiscal year beginning" in text.
 
-Subsec. (g)(1). Pub. L. 107–188, §504(f)(1), which directed the amendment of par. (1) by striking “Fees collected for a fiscal year” and all that follows through “fiscal year limitation.” and inserting “Fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended.”, was not executed because the phrase “fiscal year limitation.” appeared in two places and because of the corrective amendment by Pub. L. 110–85, §103(h)(1), which is effective as if included in Pub. L. 107–188, §504. See 2007 Amendment note above and Effective Date of 2007 Amendment note below.
+Subsec. (g)(1). Pub. L. 107–188, §504(f)(1), which directed the amendment of par. (1) by striking "Fees collected for a fiscal year" and all that follows through "fiscal year limitation." and inserting "Fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended.", was not executed because the phrase "fiscal year limitation." appeared in two places and because of the corrective amendment by Pub. L. 110–85, §103(h)(1), which is effective as if included in Pub. L. 107–188, §504. See 2007 Amendment note above and Effective Date of 2007 Amendment note below.
 
-Subsec. (g)(2). Pub. L. 107–188, §504(f)(2), amended par. (2) by designating existing provisions as subpar. (A), inserting subpar. (A) heading, adding subpar. (B), redesignating former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), substituting “shall be retained in each fiscal year in an amount not to exceed the amount specified” for “shall be collected in each fiscal year in an amount equal to the amount specified” in cl. (i), and realigning margin of cl. (ii).
+Subsec. (g)(2). Pub. L. 107–188, §504(f)(2), amended par. (2) by designating existing provisions as subpar. (A), inserting subpar. (A) heading, adding subpar. (B), redesignating former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), substituting "shall be retained in each fiscal year in an amount not to exceed the amount specified" for "shall be collected in each fiscal year in an amount equal to the amount specified" in cl. (i), and realigning margin of cl. (ii).
 
 Subsec. (g)(3)(A) to (E). Pub. L. 107–188, §504(f)(3), added subpars. (A) to (E) and struck out former subpars. (A) to (E) which read as follows:
 
-“(A) $106,800,000 for fiscal year 1998;
+"(A) $106,800,000 for fiscal year 1998;
 
-“(B) $109,200,000 for fiscal year 1999;
+"(B) $109,200,000 for fiscal year 1999;
 
-“(C) $109,200,000 for fiscal year 2000;
+"(C) $109,200,000 for fiscal year 2000;
 
-“(D) $114,000,000 for fiscal year 2001; and
+"(D) $114,000,000 for fiscal year 2001; and
 
-“(E) $110,100,000 for fiscal year 2002,”.
+"(E) $110,100,000 for fiscal year 2002,".
 
-**1997**—Subsec. (a). Pub. L. 105–115, §103(a)(1), substituted “Beginning in fiscal year 1998” for “Beginning in fiscal year 1993” in introductory provisions.
+**1997**—Subsec. (a). Pub. L. 105–115, §103(a)(1), substituted "Beginning in fiscal year 1998" for "Beginning in fiscal year 1993" in introductory provisions.
 
 Subsec. (a)(1)(B). Pub. L. 105–115, §103(a)(2)(A), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows:
 
-“(i) First payment.—50 percent of the fee required by subparagraph (A) shall be due upon submission of the application or supplement.
+"(i) First payment.—50 percent of the fee required by subparagraph (A) shall be due upon submission of the application or supplement.
 
-“(ii) Final payment.—The remaining 50 percent of the fee required by subparagraph (A) shall be due upon—
+"(ii) Final payment.—The remaining 50 percent of the fee required by subparagraph (A) shall be due upon—
 
-“(I) the expiration of 30 days from the date the Secretary sends to the applicant a letter designated by the Secretary as an action letter described in section 379g(6)(B) of this title, or
+"(I) the expiration of 30 days from the date the Secretary sends to the applicant a letter designated by the Secretary as an action letter described in section 379g(6)(B) of this title, or
 
-“(II) the withdrawal of the application or supplement after it is filed unless the Secretary waives the fee or a portion of the fee because no substantial work was performed on such application or supplement after it was filed.
+"(II) the withdrawal of the application or supplement after it is filed unless the Secretary waives the fee or a portion of the fee because no substantial work was performed on such application or supplement after it was filed.
 
-The designation under subclause (I) or the waiver under subclause (II) shall be solely in the discretion of the Secretary and shall not be reviewable.”
+The designation under subclause (I) or the waiver under subclause (II) shall be solely in the discretion of the Secretary and shall not be reviewable."
 
-Subsec. (a)(1)(D). Pub. L. 105–115, §103(a)(2)(B), substituted “refused” for “not accepted” in heading and “75 percent” for “50 percent”, “subparagraph (B)” for “subparagraph (B)(i)”, and “refused” for “not accepted” in text.
+Subsec. (a)(1)(D). Pub. L. 105–115, §103(a)(2)(B), substituted "refused" for "not accepted" in heading and "75 percent" for "50 percent", "subparagraph (B)" for "subparagraph (B)(i)", and "refused" for "not accepted" in text.
 
 Subsec. (a)(1)(E) to (G). Pub. L. 105–115, §103(a)(2)(C), added subpars. (E) to (G).
 
-Subsec. (a)(2). Pub. L. 105–115, §103(a)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Each person that—
+Subsec. (a)(2). Pub. L. 105–115, §103(a)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Each person that—
 
-“(A) owns a prescription drug establishment, at which is manufactured at least 1 prescription drug product which is not the, or not the same as a, product approved under an application filed under section 355(b)(2) or 355(j) of this title, and
+"(A) owns a prescription drug establishment, at which is manufactured at least 1 prescription drug product which is not the, or not the same as a, product approved under an application filed under section 355(b)(2) or 355(j) of this title, and
 
-“(B) after September 1, 1992, had pending before the Secretary a human drug application or supplement,
+"(B) after September 1, 1992, had pending before the Secretary a human drug application or supplement,
 
-shall be subject to the annual fee established in subsection (b) of this section for each such establishment, payable on or before January 31 of each year.”
+shall be subject to the annual fee established in subsection (b) of this section for each such establishment, payable on or before January 31 of each year."
 
-Subsec. (a)(3)(A). Pub. L. 105–115, §103(a)(4)(A), substituted, in cl. (i), “has been submitted for listing” for “is listed” and, in closing provisions, “Such fee shall be payable for the fiscal year in which the product is first submitted for listing under section 360 of this title, or is submitted for relisting under section 360 of this title if the product has been withdrawn from listing and relisted. After such fee is paid for that fiscal year, such fee shall be payable on or before January 31 of each year. Such fee shall be paid only once for each product for a fiscal year in which the fee is payable.” for “Such fee shall be payable at the time of the first such listing of such product in each calendar year. Such fee shall be paid only once each year for each listed prescription drug product irrespective of the number of times such product is listed under section 360 of this title.”
+Subsec. (a)(3)(A). Pub. L. 105–115, §103(a)(4)(A), substituted, in cl. (i), "has been submitted for listing" for "is listed" and, in closing provisions, "Such fee shall be payable for the fiscal year in which the product is first submitted for listing under section 360 of this title, or is submitted for relisting under section 360 of this title if the product has been withdrawn from listing and relisted. After such fee is paid for that fiscal year, such fee shall be payable on or before January 31 of each year. Such fee shall be paid only once for each product for a fiscal year in which the fee is payable." for "Such fee shall be payable at the time of the first such listing of such product in each calendar year. Such fee shall be paid only once each year for each listed prescription drug product irrespective of the number of times such product is listed under section 360 of this title."
 
-Subsec. (a)(3)(B). Pub. L. 105–115, §103(a)(4)(B), substituted “355(j) of this title, under an abbreviated application filed under section 357 of this title (as in effect on the day before November 21, 1997), or under an abbreviated new drug application pursuant to regulations in effect prior to the implementation of the Drug Price Competition and Patent Term Restoration Act of 1984.” for “355(j) of this title.”.
+Subsec. (a)(3)(B). Pub. L. 105–115, §103(a)(4)(B), substituted "355(j) of this title, under an abbreviated application filed under section 357 of this title (as in effect on the day before November 21, 1997), or under an abbreviated new drug application pursuant to regulations in effect prior to the implementation of the Drug Price Competition and Patent Term Restoration Act of 1984." for "355(j) of this title.".
 
 Subsec. (b). Pub. L. 105–115, §103(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to fee amounts, including a schedule of fees in par. (1) and fee exceptions for certain small businesses in par. (2).
 
-Subsec. (c). Pub. L. 105–115, §103(c)(1), substituted “Adjustments” for “Increases and adjustments” in heading.
+Subsec. (c). Pub. L. 105–115, §103(c)(1), substituted "Adjustments" for "Increases and adjustments" in heading.
 
-Subsec. (c)(1). Pub. L. 105–115, §103(c)(2), substituted “Inflation adjustment” for “Revenue increase” in heading, “The fees and total fee revenues established in subsection (b) of this section shall be adjusted by the Secretary” for “The total fee revenues established by the schedule in subsection (b)(1) of this section shall be increased by the Secretary” in introductory provisions, and “change” for “increase” after “total percentage” in subpars. (A) and (B), and inserted at end “The adjustment made each fiscal year by this subsection will be added on a compounded basis to the sum of all adjustments made each fiscal year after fiscal year 1997 under this subsection.”
+Subsec. (c)(1). Pub. L. 105–115, §103(c)(2), substituted "Inflation adjustment" for "Revenue increase" in heading, "The fees and total fee revenues established in subsection (b) of this section shall be adjusted by the Secretary" for "The total fee revenues established by the schedule in subsection (b)(1) of this section shall be increased by the Secretary" in introductory provisions, and "change" for "increase" after "total percentage" in subpars. (A) and (B), and inserted at end "The adjustment made each fiscal year by this subsection will be added on a compounded basis to the sum of all adjustments made each fiscal year after fiscal year 1997 under this subsection."
 
-Subsec. (c)(2). Pub. L. 105–115, §103(c)(3), substituted “September 30, 1997, adjust the establishment and product fees described in subsection (b) of this section for the fiscal year in which the adjustment occurs so that the revenues collected from each of the categories of fees described in paragraphs (2) and (3) of subsection (b) of this section shall be set to be equal to the revenues collected from the category of application and supplement fees described in paragraph (1) of subsection (b) of this section.” for “October 1, 1992, adjust the fees established by the schedule in subsection (b)(1) of this section for the following fiscal year to achieve the total fee revenues, as may be increased under paragraph (1). Such fees shall be adjusted under this paragraph to maintain the proportions established in such schedule.”
+Subsec. (c)(2). Pub. L. 105–115, §103(c)(3), substituted "September 30, 1997, adjust the establishment and product fees described in subsection (b) of this section for the fiscal year in which the adjustment occurs so that the revenues collected from each of the categories of fees described in paragraphs (2) and (3) of subsection (b) of this section shall be set to be equal to the revenues collected from the category of application and supplement fees described in paragraph (1) of subsection (b) of this section." for "October 1, 1992, adjust the fees established by the schedule in subsection (b)(1) of this section for the following fiscal year to achieve the total fee revenues, as may be increased under paragraph (1). Such fees shall be adjusted under this paragraph to maintain the proportions established in such schedule."
 
-Subsec. (c)(3). Pub. L. 105–115, §103(c)(4), substituted “this subsection” for “paragraph (2)”.
+Subsec. (c)(3). Pub. L. 105–115, §103(c)(4), substituted "this subsection" for "paragraph (2)".
 
-Subsec. (d). Pub. L. 105–115, §103(d), struck out introductory provisions which read “The Secretary shall grant a waiver from or a reduction of 1 or more fees under subsection (a) of this section where the Secretary finds that—” and closing provisions which read “In making the finding in paragraph (3), the Secretary may use standard costs.”, inserted designation, heading, and introductory provisions of par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added pars. (1)(E), (2), and (3).
+Subsec. (d). Pub. L. 105–115, §103(d), struck out introductory provisions which read "The Secretary shall grant a waiver from or a reduction of 1 or more fees under subsection (a) of this section where the Secretary finds that—" and closing provisions which read "In making the finding in paragraph (3), the Secretary may use standard costs.", inserted designation, heading, and introductory provisions of par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added pars. (1)(E), (2), and (3).
 
-Subsec. (f)(1). Pub. L. 105–115, §103(e), substituted “fiscal year 1997” for “fiscal year 1993” and “fiscal year 1997 (excluding the amount of fees appropriated for such fiscal year)” for “fiscal year 1992”.
+Subsec. (f)(1). Pub. L. 105–115, §103(e), substituted "fiscal year 1997" for "fiscal year 1993" and "fiscal year 1997 (excluding the amount of fees appropriated for such fiscal year)" for "fiscal year 1992".
 
-Subsec. (g)(1). Pub. L. 105–115, §103(f)(1), inserted at end “Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of human drug applications.”
+Subsec. (g)(1). Pub. L. 105–115, §103(f)(1), inserted at end "Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of human drug applications."
 
-Subsec. (g)(2)(A). Pub. L. 105–115, §103(f)(2)(A), substituted “Acts, or otherwise made available for obligation,” for “Acts”.
+Subsec. (g)(2)(A). Pub. L. 105–115, §103(f)(2)(A), substituted "Acts, or otherwise made available for obligation," for "Acts".
 
-Subsec. (g)(2)(B). Pub. L. 105–115, §103(f)(2)(B), substituted “over such costs, excluding costs paid from fees collected under this section, for fiscal year 1997” for “over such costs for fiscal year 1992”.
+Subsec. (g)(2)(B). Pub. L. 105–115, §103(f)(2)(B), substituted "over such costs, excluding costs paid from fees collected under this section, for fiscal year 1997" for "over such costs for fiscal year 1992".
 
-Subsec. (g)(3), (4). Pub. L. 105–115, §103(f)(3), added pars. (3) and (4) and struck out heading and text of former par. (3). Text read as follows: “There are authorized to be appropriated for fees under this section—
+Subsec. (g)(3), (4). Pub. L. 105–115, §103(f)(3), added pars. (3) and (4) and struck out heading and text of former par. (3). Text read as follows: "There are authorized to be appropriated for fees under this section—
 
-“(A) $36,000,000 for fiscal year 1993,
+"(A) $36,000,000 for fiscal year 1993,
 
-“(B) $54,000,000 for fiscal year 1994,
+"(B) $54,000,000 for fiscal year 1994,
 
-“(C) $75,000,000 for fiscal year 1995,
+"(C) $75,000,000 for fiscal year 1995,
 
-“(D) $78,000,000 for fiscal year 1996, and
+"(D) $78,000,000 for fiscal year 1996, and
 
-“(E) $84,000,000 for fiscal year 1997,
+"(E) $84,000,000 for fiscal year 1997,
 
-as adjusted to reflect increases in the total fee revenues made under subsection (c)(1) of this section.”
+as adjusted to reflect increases in the total fee revenues made under subsection (c)(1) of this section."
 
 Subsecs. (i), (j). Pub. L. 105–115, §103(g), added subsec. (i) and redesignated former subsec. (i) as (j).
 
@@ -518,7 +518,7 @@ Amendment by Pub. L. 112–144 effective Oct. 1, 2012, with fees under this subp
 
 #### Effective Date of 2007 Amendment ####
 
-Pub. L. 110–85, title I, §103(h)(2), Sept. 27, 2007, 121 Stat. 832, provided that: “Paragraph (1) [amending this section] shall take effect as if included in section 504 of the Prescription Drug User Fee Amendments of 2002 (Public Law 107–188; 116 Stat. 687) [amending this section].”
+Pub. L. 110–85, title I, §103(h)(2), Sept. 27, 2007, 121 Stat. 832, provided that: "Paragraph (1) [amending this section] shall take effect as if included in section 504 of the Prescription Drug User Fee Amendments of 2002 (Public Law 107–188; 116 Stat. 687) [amending this section]."
 
 Amendment by Pub. L. 110–85 effective Oct. 1, 2007, with fees under this subpart to be assessed for all human drug applications received on or after Oct. 1, 2007, see section 107 of Pub. L. 110–85, set out as an Effective and Termination Dates of 2007 Amendment note under section 379g of this title.
 
@@ -536,4 +536,4 @@ Section to terminate Oct. 1, 2017, see section 105(a) of Pub. L. 112–144, set 
 
 #### Special Rule for Waivers and Refunds ####
 
-Pub. L. 105–115, title I, §103(h), Nov. 21, 1997, 111 Stat. 2304, provided that: “Any requests for waivers or refunds for fees assessed under section 736 of the Federal Food, Drug, and Cosmetic Act (42 U.S.C. 379h) prior to the date of enactment of this Act [Nov. 21, 1997] shall be submitted in writing to the Secretary of Health and Human Services within 1 year after the date of enactment of this Act. Any requests for waivers or refunds pertaining to a fee for a human drug application or supplement accepted for filing prior to October 1, 1997 or to a product or establishment fee required by such Act for a fiscal year prior to fiscal year 1998, shall be evaluated according to the terms of the Prescription Drug User Fee Act of 1992 [see section 101(a) of Pub. L. 102–571, set out as a Short Title of 1992 Amendment note under section 301 of this title] (as in effect on September 30, 1997) and part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 379g et seq.] (as in effect on September 30, 1997). The term “person” in such Acts shall continue to include an affiliate thereof.”
+Pub. L. 105–115, title I, §103(h), Nov. 21, 1997, 111 Stat. 2304, provided that: "Any requests for waivers or refunds for fees assessed under section 736 of the Federal Food, Drug, and Cosmetic Act (42 U.S.C. 379h) prior to the date of enactment of this Act [Nov. 21, 1997] shall be submitted in writing to the Secretary of Health and Human Services within 1 year after the date of enactment of this Act. Any requests for waivers or refunds pertaining to a fee for a human drug application or supplement accepted for filing prior to October 1, 1997 or to a product or establishment fee required by such Act for a fiscal year prior to fiscal year 1998, shall be evaluated according to the terms of the Prescription Drug User Fee Act of 1992 [see section 101(a) of Pub. L. 102–571, set out as a Short Title of 1992 Amendment note under section 301 of this title] (as in effect on September 30, 1997) and part 2 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 379g et seq.] (as in effect on September 30, 1997). The term "person" in such Acts shall continue to include an affiliate thereof."

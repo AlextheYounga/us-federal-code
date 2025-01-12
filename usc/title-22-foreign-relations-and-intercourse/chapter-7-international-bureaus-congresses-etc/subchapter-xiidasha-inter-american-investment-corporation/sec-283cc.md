@@ -10,4 +10,4 @@ Section is based on section 204 of title II of S. 2416, Ninety-eighth Congress, 
 
 #### Amendments ####
 
-**1989**—Pub. L. 101–240 struck out at end “Reports with respect to the Corporation under paragraphs (5) and (6) of subsection (b) of section 286b of this title shall be included in the first and subsequent reports made thereunder after the United States accepts membership in the Corporation.”
+**1989**—Pub. L. 101–240 struck out at end "Reports with respect to the Corporation under paragraphs (5) and (6) of subsection (b) of section 286b of this title shall be included in the first and subsequent reports made thereunder after the United States accepts membership in the Corporation."

@@ -26,10 +26,10 @@ A prior section 375 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, §1
 
 #### Amendments ####
 
-**1990**—Pub. L. 101–616, §204(a), struck out “, during fiscal years 1985 through 1990,” after “The Secretary shall”.
+**1990**—Pub. L. 101–616, §204(a), struck out ", during fiscal years 1985 through 1990," after "The Secretary shall".
 
-Par. (3). Pub. L. 101–616, §204(b)(1), struck out “receiving funds under section 273 of this title” after “organ procurement organizations”.
+Par. (3). Pub. L. 101–616, §204(b)(1), struck out "receiving funds under section 273 of this title" after "organ procurement organizations".
 
-Par. (4). Pub. L. 101–616, §204(b)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “not later than April 1 of each of the years 1989 and 1990, submit to the Congress a report on the status of organ donation and coordination services and include in the report an analysis of the efficiency and effectiveness of the procurement and allocation of organs and a description of problems encountered in the procurement and allocation of organs.”
+Par. (4). Pub. L. 101–616, §204(b)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "not later than April 1 of each of the years 1989 and 1990, submit to the Congress a report on the status of organ donation and coordination services and include in the report an analysis of the efficiency and effectiveness of the procurement and allocation of organs and a description of problems encountered in the procurement and allocation of organs."
 
-**1988**—Pub. L. 100–607, in introductory provisions, substituted “1985 through 1990” for “1985, 1986, 1987, and 1988” and, in par. (4), substituted “not later than April 1 of each of the years 1989 and 1990, submit to the Congress a report” for “one year after the date on which the Task Force on Organ Transplantation transmits its final report under section 104(c) of the National Organ Transplant Act, and annually thereafter through fiscal year 1988, submit to Congress an annual report”.
+**1988**—Pub. L. 100–607, in introductory provisions, substituted "1985 through 1990" for "1985, 1986, 1987, and 1988" and, in par. (4), substituted "not later than April 1 of each of the years 1989 and 1990, submit to the Congress a report" for "one year after the date on which the Task Force on Organ Transplantation transmits its final report under section 104(c) of the National Organ Transplant Act, and annually thereafter through fiscal year 1988, submit to Congress an annual report".

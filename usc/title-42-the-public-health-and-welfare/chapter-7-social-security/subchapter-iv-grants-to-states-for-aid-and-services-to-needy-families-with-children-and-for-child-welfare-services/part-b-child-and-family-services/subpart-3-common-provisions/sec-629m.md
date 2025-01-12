@@ -48,4 +48,4 @@ A prior section 440 of act Aug. 14, 1935, was classified to section 640 of this 
 
 #### Effective Date ####
 
-Pub. L. 112–34, title I, §105(b), Sept. 30, 2011, 125 Stat. 377, provided that: “The amendment made by subsection (a) [enacting this section] shall take effect on October 1, 2012, and shall apply with respect to information required to be reported on or after such date.”
+Pub. L. 112–34, title I, §105(b), Sept. 30, 2011, 125 Stat. 377, provided that: "The amendment made by subsection (a) [enacting this section] shall take effect on October 1, 2012, and shall apply with respect to information required to be reported on or after such date."

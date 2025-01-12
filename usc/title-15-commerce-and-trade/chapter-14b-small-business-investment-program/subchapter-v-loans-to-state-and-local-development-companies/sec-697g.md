@@ -188,8 +188,8 @@ Committee on Small Business of Senate changed to Committee on Small Business and
 
 Pub. L. 106–554, §1(a)(9) [title III, §307(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–689, provided that:
 
-“(1) In general.—Not later than 150 days after the date of the enactment of this Act [Dec. 21, 2000], the Administrator shall issue such regulations as may be necessary to carry out section 510 of the Small Business Investment Act of 1958 [15 U.S.C. 697g], as added by subsection (a) of this section.
+"(1) In general.—Not later than 150 days after the date of the enactment of this Act [Dec. 21, 2000], the Administrator shall issue such regulations as may be necessary to carry out section 510 of the Small Business Investment Act of 1958 [15 U.S.C. 697g], as added by subsection (a) of this section.
 
-“(2) Termination of pilot program.—Beginning on the date on which final regulations are issued under paragraph (1), section 204 of the Small Business Programs Improvement Act of 1996 [Pub. L. 104–208, div. D] (15 U.S.C. 695 note) shall cease to have effect.”
+"(2) Termination of pilot program.—Beginning on the date on which final regulations are issued under paragraph (1), section 204 of the Small Business Programs Improvement Act of 1996 [Pub. L. 104–208, div. D] (15 U.S.C. 695 note) shall cease to have effect."
 
-[<sup>1</sup> So in original. Probably should be “subsection”.](#697g_1)
+[<sup>1</sup> So in original. Probably should be "subsection".](#697g_1)

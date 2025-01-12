@@ -68,9 +68,9 @@
 
 (i) <sup><a href="#530C_1_target" name="530C_1">1</a></sup> For purposes of this subparagraph—
 
-(I) the term “mass killings” means 3 or more killings in a single incident; and
+(I) the term "mass killings" means 3 or more killings in a single incident; and
 
-(II) the term “place of public use” has the meaning given that term under section 2332f(e)(6) of title 18, United States Code.
+(II) the term "place of public use" has the meaning given that term under section 2332f(e)(6) of title 18, United States Code.
 
 (2) Specific permitted uses.—
 
@@ -126,7 +126,7 @@ except that no funds may be used to distribute or make available to a prisoner a
 
 (d) Foreign Reimbursements.—Whenever the Department of Justice or any component participates in a cooperative project to improve law enforcement or national security operations or services with a friendly foreign country on a cost-sharing basis, any reimbursements or contributions received from that foreign country to meet its share of the project may be credited to appropriate current appropriations accounts of the Department of Justice or any component. The amount of a reimbursement or contribution credited shall be available only for payment of the share of the project expenses allocated to the participating foreign country.
 
-(e) Railroad Police Training Fees.—The Attorney General is authorized to establish and collect a fee to defray the costs of railroad police officers participating in a Federal Bureau of Investigation law enforcement training program authorized by Public Law 106–110, and to credit such fees to the appropriation account “Federal Bureau of Investigation, Salaries and Expenses”, to be available until expended for salaries and expenses incurred in providing such services.
+(e) Railroad Police Training Fees.—The Attorney General is authorized to establish and collect a fee to defray the costs of railroad police officers participating in a Federal Bureau of Investigation law enforcement training program authorized by Public Law 106–110, and to credit such fees to the appropriation account "Federal Bureau of Investigation, Salaries and Expenses", to be available until expended for salaries and expenses incurred in providing such services.
 
 (f) Warranty Work.—In instances where the Attorney General determines that law enforcement-, security-, or mission-related considerations mitigate against obtaining maintenance or repair services from private sector entities for equipment under warranty, the Attorney General is authorized to seek reimbursement from such entities for warranty work performed at Department of Justice facilities, and to credit any payment made for such work to any appropriation charged therefor.
 
@@ -142,11 +142,11 @@ Public Law 106–110, referred to in subsec. (e), is Pub. L. 106–110, Nov. 24,
 
 #### Amendments ####
 
-**2013**—Subsec. (b)(1)(L)(i). Pub. L. 112–265, §2(a)(1), substituted “$3,000,000” for “$2,000,000” in introductory provisions.
+**2013**—Subsec. (b)(1)(L)(i). Pub. L. 112–265, §2(a)(1), substituted "$3,000,000" for "$2,000,000" in introductory provisions.
 
 Subsec. (b)(1)(M). Pub. L. 112–265, §2(a)(2), added subpar. (M).
 
-**2004**—Subsec. (b)(2)(A), (B). Pub. L. 108–199 inserted “for the Bureau of Alcohol, Tobacco, Firearms and Explosives,” after “Marshals Service,”.
+**2004**—Subsec. (b)(2)(A), (B). Pub. L. 108–199 inserted "for the Bureau of Alcohol, Tobacco, Firearms and Explosives," after "Marshals Service,".
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions ####
 
@@ -156,8 +156,8 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
  Pub. L. 109–162, title XI, §1173, Jan. 5, 2006, 119 Stat. 3124, as amended by Pub. L. 109–271, §8(d), Aug. 12, 2006, 120 Stat. 766, provided that:
 
-“(a) Federal Training Facilities.—Unless authorized in writing by the Attorney General, or the Assistant Attorney General for Administration, if so delegated by the Attorney General, the Department of Justice (and each entity within it) shall use for any predominantly internal training or conference meeting only a facility that does not require a payment to a private entity for use of the facility or for meals, lodging, or other expenses related to such internal training or conference meeting.
+"(a) Federal Training Facilities.—Unless authorized in writing by the Attorney General, or the Assistant Attorney General for Administration, if so delegated by the Attorney General, the Department of Justice (and each entity within it) shall use for any predominantly internal training or conference meeting only a facility that does not require a payment to a private entity for use of the facility or for meals, lodging, or other expenses related to such internal training or conference meeting.
 
-“(b) Annual Report.—The Attorney General shall prepare an annual report to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives that details each training and conference meeting authorized under subsection (a). The report shall include an explanation of why the facility was chosen, and a breakdown of any expenditures incurred in excess of the cost of conducting the training or meeting at a facility that did not require such authorization.”
+"(b) Annual Report.—The Attorney General shall prepare an annual report to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives that details each training and conference meeting authorized under subsection (a). The report shall include an explanation of why the facility was chosen, and a breakdown of any expenditures incurred in excess of the cost of conducting the training or meeting at a facility that did not require such authorization."
 
-[<sup>1</sup> So in original. Probably should be “(ii)”.](#530C_1)
+[<sup>1</sup> So in original. Probably should be "(ii)".](#530C_1)

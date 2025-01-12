@@ -6,9 +6,9 @@
 
 The Secretary, acting through the Director of the Center for Mental Health Services, shall make grants to public entities for the purpose of providing comprehensive community mental health services to children with a serious emotional disturbance.
 
-#### (2) “Public entity” defined ####
+#### (2) "Public entity" defined ####
 
-For purposes of this part, the term “public entity” means any State, any political subdivision of a State, and any Indian tribe or tribal organization (as defined in section 450b(b) and section 450b(c) <sup><a href="#290ff_1_target" name="290ff_1">1</a></sup> of title 25).
+For purposes of this part, the term "public entity" means any State, any political subdivision of a State, and any Indian tribe or tribal organization (as defined in section 450b(b) and section 450b(c) <sup><a href="#290ff_1_target" name="290ff_1">1</a></sup> of title 25).
 
 #### (b) Considerations in making grants ####
 
@@ -72,7 +72,7 @@ A funding agreement for a grant under subsection (a) of this section is that the
 
 #### References in Text ####
 
-Subsections (b) and (c) of section 450b of title 25, referred to in subsec. (a)(2), do not contain definitions of the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in section 450b of Title 25, Indians.
+Subsections (b) and (c) of section 450b of title 25, referred to in subsec. (a)(2), do not contain definitions of the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in section 450b of Title 25, Indians.
 
 The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
@@ -82,11 +82,11 @@ A prior section 290ff, act July 1, 1944, ch. 373, title V, §561, as added Nov. 
 
 #### Amendments ####
 
-**2000**—Subsec. (c)(1)(D). Pub. L. 106–310 substituted “fifth and sixth such fiscal year” for “fifth such fiscal year”.
+**2000**—Subsec. (c)(1)(D). Pub. L. 106–310 substituted "fifth and sixth such fiscal year" for "fifth such fiscal year".
 
-**1993**—Subsec. (a)(2). Pub. L. 103–43, §2017(1)(A), substituted “this part” for “this subpart”.
+**1993**—Subsec. (a)(2). Pub. L. 103–43, §2017(1)(A), substituted "this part" for "this subpart".
 
-Subsec. (b)(1)(B), (C). Pub. L. 103–43, §2017(1)(B), substituted “is such a grantee” for “is receiving such payments”.
+Subsec. (b)(1)(B), (C). Pub. L. 103–43, §2017(1)(B), substituted "is such a grantee" for "is receiving such payments".
 
 #### Effective Date ####
 
@@ -96,10 +96,10 @@ Part effective Oct. 1, 1992, with provision for programs providing financial ass
 
 Pub. L. 106–310, div. B, title XXXI, §3105(e), Oct. 17, 2000, 114 Stat. 1175, provided that:
 
-“(1) In general.—Entities with active grants under section 561 of the Public Health Service Act (42 U.S.C. 290ff) on the date of the enactment of this Act [Oct. 17, 2000] shall be eligible to receive a sixth year of funding under the grant in an amount not to exceed the amount that such grantee received in the fifth year of funding under such grant. Such sixth year may be funded without requiring peer and Advisory Council review as required under section 504 of such Act (42 U.S.C. 290aa–3).
+"(1) In general.—Entities with active grants under section 561 of the Public Health Service Act (42 U.S.C. 290ff) on the date of the enactment of this Act [Oct. 17, 2000] shall be eligible to receive a sixth year of funding under the grant in an amount not to exceed the amount that such grantee received in the fifth year of funding under such grant. Such sixth year may be funded without requiring peer and Advisory Council review as required under section 504 of such Act (42 U.S.C. 290aa–3).
 
-“(2) Limitation.—Paragraph (1) shall apply with respect to a grantee only if the grantee agrees to comply with the provisions of section 561 as amended by subsection (a).”
+"(2) Limitation.—Paragraph (1) shall apply with respect to a grantee only if the grantee agrees to comply with the provisions of section 561 as amended by subsection (a)."
 
 [<sup>1</sup> See References in Text note below.](#290ff_1)
 
-[<sup>2</sup> So in original. Probably should be “years,”.](#290ff_2)
+[<sup>2</sup> So in original. Probably should be "years,".](#290ff_2)

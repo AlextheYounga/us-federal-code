@@ -24,7 +24,7 @@ Unless proxies, consents, or authorizations in respect of a security registered 
 
 (1) It shall be unlawful for any person, directly or indirectly, by use of the mails or by any means or instrumentality of interstate commerce or of any facility of a national securities exchange or otherwise, to make a tender offer for, or a request or invitation for tenders of, any class of any equity security which is registered pursuant to section 78l of this title, or any equity security of an insurance company which would have been required to be so registered except for the exemption contained in section 78l(g)(2)(G) of this title, or any equity security issued by a a closed-end investment company registered under the Investment Company Act of 1940 [15 U.S.C. 80a–1 et seq.], if, after consummation thereof, such person would, directly or indirectly, be the beneficial owner of more than 5 per centum of such class, unless at the time copies of the offer or request or invitation are first published or sent or given to security holders such person has filed with the Commission a statement containing such of the information specified in section 78m(d) of this title, and such additional information as the Commission may by rules and regulations prescribe as necessary or appropriate in the public interest or for the protection of investors. All requests or invitations for tenders or advertisements making a tender offer or requesting or inviting tenders of such a security shall be filed as a part of such statement and shall contain such of the information contained in such statement as the Commission may by rules and regulations prescribe. Copies of any additional material soliciting or requesting such tender offers subsequent to the initial solicitation or request shall contain such information as the Commission may by rules and regulations prescribe as necessary or appropriate in the public interest or for the protection of investors, and shall be filed with the Commission not later than the time copies of such material are first published or sent or given to security holders. Copies of all statements, in the form in which such material is furnished to security holders and the Commission, shall be sent to the issuer not later than the date such material is first published or sent or given to any security holders.
 
-(2) When two or more persons act as a partnership, limited partnership, syndicate, or other group for the purpose of acquiring, holding, or disposing of securities of an issuer, such syndicate or group shall be deemed a “person” for purposes of this subsection.
+(2) When two or more persons act as a partnership, limited partnership, syndicate, or other group for the purpose of acquiring, holding, or disposing of securities of an issuer, such syndicate or group shall be deemed a "person" for purposes of this subsection.
 
 (3) In determining, for purposes of this subsection, any percentage of a class of any security, such class shall be deemed to consist of the amount of the outstanding securities of such class, exclusive of any securities of such class held by or for the account of the issuer or a subsidiary of the issuer.
 
@@ -142,13 +142,13 @@ The Commission may, consistent with the public interest, the protection of inves
 
 Nothing in this subsection limits the authority of the Commission under subsection (a) or (d) of this section or any other provision of this chapter or precludes the Commission from imposing, under subsection (a) or (d) of this section or any other provision of this chapter, a remedy or procedure required to be imposed under this subsection.
 
-#### (4) “Limited partnership rollup transaction” defined ####
+#### (4) "Limited partnership rollup transaction" defined ####
 
-Except as provided in paragraph (5), as used in this subsection, the term “limited partnership rollup transaction” means a transaction involving the combination or reorganization of one or more limited partnerships, directly or indirectly, in which—
+Except as provided in paragraph (5), as used in this subsection, the term "limited partnership rollup transaction" means a transaction involving the combination or reorganization of one or more limited partnerships, directly or indirectly, in which—
 
 (A) some or all of the investors in any of such limited partnerships will receive new securities, or securities in another entity, that will be reported under a transaction reporting plan declared effective before December 17, 1993, by the Commission under section 78k–1 of this title;
 
-(B) any of the investors’ limited partnership securities are not, as of the date of filing, reported under a transaction reporting plan declared effective before December 17, 1993, by the Commission under section 78k–1 of this title;
+(B) any of the investors' limited partnership securities are not, as of the date of filing, reported under a transaction reporting plan declared effective before December 17, 1993, by the Commission under section 78k–1 of this title;
 
 (C) investors in any of the limited partnerships involved in the transaction are subject to a significant adverse change with respect to voting rights, the term of existence of the entity, management compensation, or investment objectives; and
 
@@ -156,7 +156,7 @@ Except as provided in paragraph (5), as used in this subsection, the term “lim
 
 #### (5) Exclusions from definition ####
 
-Notwithstanding paragraph (4), the term “limited partnership rollup transaction” does not include—
+Notwithstanding paragraph (4), the term "limited partnership rollup transaction" does not include—
 
 (A) a transaction that involves only a limited partnership or partnerships having an operating policy or practice of retaining cash available for distribution and reinvesting proceeds from the sale, financing, or refinancing of assets in accordance with such criteria as the Commission determines appropriate;
 
@@ -194,7 +194,7 @@ The Commission shall, by rule, require each issuer to disclose in any proxy or c
 
 #### References in Text ####
 
-This chapter, referred to in subsecs. (b) and (h)(1)(A), (2), (3), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (b) and (h)(1)(A), (2), (3), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 The Investment Company Act of 1940, referred to in subsecs. (b)(1), (c), (d)(1), and (g)(1)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
@@ -202,13 +202,13 @@ The Securities Act of 1933, referred to in subsec. (h)(5)(C), is act May 27, 193
 
 #### Amendments ####
 
-**2012**—Subsec. (i). Pub. L. 112–106 inserted “, for any issuer other than an emerging growth company,” after “including”.
+**2012**—Subsec. (i). Pub. L. 112–106 inserted ", for any issuer other than an emerging growth company," after "including".
 
 **2010**—Subsec. (a). Pub. L. 111–203, §971(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (g)(1)(A). Pub. L. 111–203, §991(b)(3)(A), substituted “paragraph (4)” for “paragraphs (5) and (6)” in cls. (i) and (ii).
+Subsec. (g)(1)(A). Pub. L. 111–203, §991(b)(3)(A), substituted "paragraph (4)" for "paragraphs (5) and (6)" in cls. (i) and (ii).
 
-Subsec. (g)(3). Pub. L. 111–203, §991(b)(3)(B), substituted “paragraph (4)” for “paragraphs (5) and (6)”.
+Subsec. (g)(3). Pub. L. 111–203, §991(b)(3)(B), substituted "paragraph (4)" for "paragraphs (5) and (6)".
 
 Subsec. (g)(4) to (6). Pub. L. 111–203, §991(b)(3)(C), (D), added pars. (4) to (6) and struck out former pars. (4) to (6) which related to deposit and crediting of fees as offsetting collections, annual adjustment of rates, and final rate adjustment, respectively.
 
@@ -218,23 +218,23 @@ Subsec. (i). Pub. L. 111–203, §953(a), added subsec. (i).
 
 Subsec. (j). Pub. L. 111–203, §955, added subsec. (j).
 
-**2002**—Subsec. (g)(1)(A)(i), (ii), (3). Pub. L. 107–123, §6(1), substituted “a fee at a rate that, subject to paragraphs (5) and (6), is equal to $92 per $1,000,000 of” for “a fee of 1/50 of 1 per centum of”.
+**2002**—Subsec. (g)(1)(A)(i), (ii), (3). Pub. L. 107–123, §6(1), substituted "a fee at a rate that, subject to paragraphs (5) and (6), is equal to $92 per $1,000,000 of" for "a fee of 1/50 of 1 per centum of".
 
 Subsec. (g)(4) to (11). Pub. L. 107–123, §6(2), (3), added pars. (4) to (10) and redesignated former par. (4) as (11).
 
-**1998**—Subsec. (g)(4). Pub. L. 105–353 substituted “consolidation, sale,” for “consolidation sale,”.
+**1998**—Subsec. (g)(4). Pub. L. 105–353 substituted "consolidation, sale," for "consolidation sale,".
 
 **1993**—Subsec. (h). Pub. L. 103–202 added subsec. (h).
 
-**1990**—Subsec. (b)(1). Pub. L. 101–550, §302(a), substituted “section 78l of this title, or any security issued by an investment company registered under the Investment Company Act of 1940,” for “section 78l of this title” and “authorization, or information statement” for “or authorization”.
+**1990**—Subsec. (b)(1). Pub. L. 101–550, §302(a), substituted "section 78l of this title, or any security issued by an investment company registered under the Investment Company Act of 1940," for "section 78l of this title" and "authorization, or information statement" for "or authorization".
 
-Subsec. (c). Pub. L. 101–550, §302(b), substituted “title, or a security issued by an investment company registered under the Investment Company Act of 1940,” for “title”.
+Subsec. (c). Pub. L. 101–550, §302(b), substituted "title, or a security issued by an investment company registered under the Investment Company Act of 1940," for "title".
 
-**1985**—Subsec. (b). Pub. L. 99–222 designated existing provision as par. (1), inserted “or any bank, association, or other entity that exercises fiduciary powers,” after “under this chapter,”, and added par. (2).
+**1985**—Subsec. (b). Pub. L. 99–222 designated existing provision as par. (1), inserted "or any bank, association, or other entity that exercises fiduciary powers," after "under this chapter,", and added par. (2).
 
 **1983**—Subsec. (g). Pub. L. 98–38 added subsec. (g).
 
-**1970**—Subsec. (d)(1). Pub. L. 91–567, §3, included equity securities of an insurance company which would have been required to be registered except for the exemption contained in section 78l(g)(2)(G) of this title, and substituted “5 per centum” for “10 per centum”.
+**1970**—Subsec. (d)(1). Pub. L. 91–567, §3, included equity securities of an insurance company which would have been required to be registered except for the exemption contained in section 78l(g)(2)(G) of this title, and substituted "5 per centum" for "10 per centum".
 
 Subsec. (d)(8). Pub. L. 91–567, §4, struck out cl. (A) which excluded offers for, or invitations for tenders of, securities proposed to be made by means of a registration statement under the Securities Act of 1933, and redesignated cls. (B) to (D) as (A) to (C), respectively.
 
@@ -260,11 +260,11 @@ Amendment by Pub. L. 107–123 effective Oct. 1, 2001, except that authorities p
 
 #### Effective Date of 1990 Amendment ####
 
-Pub. L. 101–550, title III, §303, Nov. 15, 1990, 104 Stat. 2721, provided that: “The amendments made by section 302 of this title [amending this section] shall take effect upon the expiration of 180 days after the date of enactment of this Act [Nov. 15, 1990].”
+Pub. L. 101–550, title III, §303, Nov. 15, 1990, 104 Stat. 2721, provided that: "The amendments made by section 302 of this title [amending this section] shall take effect upon the expiration of 180 days after the date of enactment of this Act [Nov. 15, 1990]."
 
 #### Effective Date of 1985 Amendment ####
 
-Pub. L. 99–222, §3, Dec. 28, 1985, 99 Stat. 1737, provided that: “The amendments made by this Act [amending this section] shall become effective one year after the date of enactment of this Act [Dec. 28, 1985].”
+Pub. L. 99–222, §3, Dec. 28, 1985, 99 Stat. 1737, provided that: "The amendments made by this Act [amending this section] shall become effective one year after the date of enactment of this Act [Dec. 28, 1985]."
 
 #### Effective Date of 1964 Amendment ####
 
@@ -274,13 +274,13 @@ Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L.
 
 Pub. L. 111–203, title IX, §971(b), (c), July 21, 2010, 124 Stat. 1915, provided that:
 
-“(b) Regulations.—The Commission may issue rules permitting the use by a shareholder of proxy solicitation materials supplied by an issuer of securities for the purpose of nominating individuals to membership on the board of directors of the issuer, under such terms and conditions as the Commission determines are in the interests of shareholders and for the protection of investors.
+"(b) Regulations.—The Commission may issue rules permitting the use by a shareholder of proxy solicitation materials supplied by an issuer of securities for the purpose of nominating individuals to membership on the board of directors of the issuer, under such terms and conditions as the Commission determines are in the interests of shareholders and for the protection of investors.
 
-“(c) Exemptions.—The Commission may, by rule or order, exempt an issuer or class of issuers from the requirement made by this section [amending this section] or an amendment made by this section. In determining whether to make an exemption under this subsection, the Commission shall take into account, among other considerations, whether the requirement in the amendment made by subsection (a) disproportionately burdens small issuers.”
+"(c) Exemptions.—The Commission may, by rule or order, exempt an issuer or class of issuers from the requirement made by this section [amending this section] or an amendment made by this section. In determining whether to make an exemption under this subsection, the Commission shall take into account, among other considerations, whether the requirement in the amendment made by subsection (a) disproportionately burdens small issuers."
 
 [For definitions of terms used in section 971(b), (c) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.]
 
-Pub. L. 103–202, title III, §302(b), Dec. 17, 1993, 107 Stat. 2363, provided that: “The Securities and Exchange Commission shall conduct rulemaking proceedings and prescribe final regulations under the Securities Act of 1933 [15 U.S.C. 77a et seq.] and the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.] to implement the requirements of section 14(h) of the Securities Exchange Act of 1934 [15 U.S.C. 78n(h)], as amended by subsection (a), and such regulations shall become effective not later than 12 months after the date of enactment of this Act [Dec. 17, 1993].”
+Pub. L. 103–202, title III, §302(b), Dec. 17, 1993, 107 Stat. 2363, provided that: "The Securities and Exchange Commission shall conduct rulemaking proceedings and prescribe final regulations under the Securities Act of 1933 [15 U.S.C. 77a et seq.] and the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.] to implement the requirements of section 14(h) of the Securities Exchange Act of 1934 [15 U.S.C. 78n(h)], as amended by subsection (a), and such regulations shall become effective not later than 12 months after the date of enactment of this Act [Dec. 17, 1993]."
 
 #### Construction of 1993 Amendment ####
 
@@ -294,30 +294,30 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 Pub. L. 104–290, title V, §510(b), Oct. 11, 1996, 110 Stat. 3450, provided that:
 
-“(1) Study.—The Commission shall conduct a study of—
+"(1) Study.—The Commission shall conduct a study of—
 
-“(A) whether shareholder access to proxy statements pursuant to section 14 of the Securities Exchange Act of 1934 [15 U.S.C. 78n] has been impaired by recent statutory, judicial, or regulatory changes; and
+"(A) whether shareholder access to proxy statements pursuant to section 14 of the Securities Exchange Act of 1934 [15 U.S.C. 78n] has been impaired by recent statutory, judicial, or regulatory changes; and
 
-“(B) the ability of shareholders to have proposals relating to corporate practices and social issues included as part of proxy statements.
+"(B) the ability of shareholders to have proposals relating to corporate practices and social issues included as part of proxy statements.
 
-“(2) Report.—Not later than 1 year after the date of enactment of this Act [Oct. 11, 1996], the Commission shall submit a report to the Congress on the results of the study conducted under paragraph (1), together with any recommendations for regulatory or legislative changes that it considers necessary to improve shareholder access to proxy statements.”
+"(2) Report.—Not later than 1 year after the date of enactment of this Act [Oct. 11, 1996], the Commission shall submit a report to the Congress on the results of the study conducted under paragraph (1), together with any recommendations for regulatory or legislative changes that it considers necessary to improve shareholder access to proxy statements."
 
 #### Evaluation of Fairness Opinion Preparation, Disclosure, and Use ####
 
 Pub. L. 103–202, title III, §302(c), Dec. 17, 1993, 107 Stat. 2363, provided that:
 
-“(1) Evaluation required.—The Comptroller General of the United States shall, within 18 months after the date of enactment of this Act [Dec. 17, 1993], conduct a study of—
+"(1) Evaluation required.—The Comptroller General of the United States shall, within 18 months after the date of enactment of this Act [Dec. 17, 1993], conduct a study of—
 
-“(A) the use of fairness opinions in limited partnership rollup transactions;
+"(A) the use of fairness opinions in limited partnership rollup transactions;
 
-“(B) the standards which preparers use in making determinations of fairness;
+"(B) the standards which preparers use in making determinations of fairness;
 
-“(C) the scope of review, quality of analysis, qualifications and methods of selection of preparers, costs of preparation, and any limitations imposed by issuers on such preparers;
+"(C) the scope of review, quality of analysis, qualifications and methods of selection of preparers, costs of preparation, and any limitations imposed by issuers on such preparers;
 
-“(D) the nature and quality of disclosures provided with respect to such opinions;
+"(D) the nature and quality of disclosures provided with respect to such opinions;
 
-“(E) any conflicts of interest with respect to the preparation of such opinions; and
+"(E) any conflicts of interest with respect to the preparation of such opinions; and
 
-“(F) the usefulness of such opinions to limited partners.
+"(F) the usefulness of such opinions to limited partners.
 
-“(2) Report required.—Not later than the end of the 18-month period referred to in paragraph (1), the Comptroller General of the United States shall submit to the Congress a report on the evaluation required by paragraph (1).”
+"(2) Report required.—Not later than the end of the 18-month period referred to in paragraph (1), the Comptroller General of the United States shall submit to the Congress a report on the evaluation required by paragraph (1)."

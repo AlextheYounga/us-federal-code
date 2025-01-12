@@ -2,7 +2,7 @@
 
 #### (a) Establishment; membership; Chairman and Vice Chairman; quorum; terms of office; vacancies; per diem and expense reimbursement; meetings ####
 
-(1) There is established a commission to be known as the National Commission on Social Security (hereinafter referred to as the “Commission”).
+(1) There is established a commission to be known as the National Commission on Social Security (hereinafter referred to as the "Commission").
 
 (2)(A) The Commission shall consist of—
 
@@ -96,10 +96,10 @@ Section was enacted as part of the Social Security Amendments of 1977, and not a
 
 **1984**—Subsec. (i). Pub. L. 98–369 struck out subsec. (i) which provided for notice of and attendance at meetings of the Health Insurance Benefits Advisory Council.
 
-**1980**—Subsec. (a)(2)(F). Pub. L. 96–265, §502(a), substituted “a term which shall end on April 1, 1981” for “a term of two years”.
+**1980**—Subsec. (a)(2)(F). Pub. L. 96–265, §502(a), substituted "a term which shall end on April 1, 1981" for "a term of two years".
 
-Subsec. (c)(2). Pub. L. 96–265, §502(b), substituted “and the Commission shall cease to exist on April 1, 1981” for “and upon the submission of such final report the Commission shall cease to exist”.
+Subsec. (c)(2). Pub. L. 96–265, §502(b), substituted "and the Commission shall cease to exist on April 1, 1981" for "and upon the submission of such final report the Commission shall cease to exist".
 
 #### Effective Date of 1984 Amendment ####
 
-Pub. L. 98–369, div. B, title III, §2349(c), July 18, 1984, 98 Stat. 1097, provided that: “The amendments made by this section [amending this section and section 1395z of this title and section 231f of Title 45, Railroads, and repealing section 1395dd of this title] shall become effective on the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. B, title III, §2349(c), July 18, 1984, 98 Stat. 1097, provided that: "The amendments made by this section [amending this section and section 1395z of this title and section 231f of Title 45, Railroads, and repealing section 1395dd of this title] shall become effective on the date of the enactment of this Act [July 18, 1984]."

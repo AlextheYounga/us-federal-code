@@ -8,4 +8,4 @@ Repeal effective Oct. 1, 1998, see section 3(d) of Pub. L. 105–113, set out as
 
 #### 1997 Census of Agriculture ####
 
-Pub. L. 105–86, title I, Nov. 18, 1997, 111 Stat. 2083, provided in part: “That, notwithstanding any other provision of law, the Secretary of Agriculture shall conduct the 1997 Census of Agriculture, to the extent practicable, pursuant to the provisions of title 13, United States Code.”
+Pub. L. 105–86, title I, Nov. 18, 1997, 111 Stat. 2083, provided in part: "That, notwithstanding any other provision of law, the Secretary of Agriculture shall conduct the 1997 Census of Agriculture, to the extent practicable, pursuant to the provisions of title 13, United States Code."

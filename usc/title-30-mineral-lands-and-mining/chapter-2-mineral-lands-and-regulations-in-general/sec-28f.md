@@ -26,7 +26,7 @@ This section shall not apply to any oil shale claims for which a fee is required
 
 (B) have performed assessment work required under the Mining Law of 1872 (30 U.S.C. 28–28e) <sup><a href="#28f_1_target" name="28f_1">1</a></sup> to maintain the mining claims held by the claimant and such related parties for the assessment year ending on noon of September 1 of the calendar year in which payment of the claim maintenance fee was due.
 
-(2) For purposes of paragraph (1), with respect to any claimant, the term “related party” means—
+(2) For purposes of paragraph (1), with respect to any claimant, the term "related party" means—
 
 (A) the spouse and dependent children (as defined in section 152 of title 26), of the claimant; and
 
@@ -46,9 +46,9 @@ The Mining Law of 1872 (30 U.S.C. 28–28e), referred to in subsecs. (a) and (d)
 
 Pub. L. 111–88, which directed the amendment of section 28f of title 30, United States Code, was executed by making the amendment to section 10101 of Pub. L. 103–66, which is classified to this section, to reflect the probable intent of Congress. See 2009 Amendment note below.
 
-Pub. L. 110–161, which directed the amendment of section 28 of title 30, United States Code, “in section 28f(a),” was executed by making the amendment to section 10101 of Pub. L. 103–66, which is classified to this section, to reflect the probable intent of Congress. See 2007 Amendment note below.
+Pub. L. 110–161, which directed the amendment of section 28 of title 30, United States Code, "in section 28f(a)," was executed by making the amendment to section 10101 of Pub. L. 103–66, which is classified to this section, to reflect the probable intent of Congress. See 2007 Amendment note below.
 
-Pub. L. 108–108, which directed the amendment of section 28 of title 30, United States Code, “in section 28f(a),” was executed by making the amendment to section 10101 of Pub. L. 103–66, which is classified to this section, to reflect the probable intent of Congress. See 2003 Amendment note below.
+Pub. L. 108–108, which directed the amendment of section 28 of title 30, United States Code, "in section 28f(a)," was executed by making the amendment to section 10101 of Pub. L. 103–66, which is classified to this section, to reflect the probable intent of Congress. See 2003 Amendment note below.
 
 Pub. L. 107–63, which directed the amendment of section 28f of title 30, United States Code, was executed by making the amendment to section 10101 of Pub. L. 103–66, which is classified to this section, to reflect the probable intent of Congress. See 2001 Amendment note below.
 
@@ -58,29 +58,29 @@ Pub. L. 105–240, which directed the amendment of section 28f of title 30, Unit
 
 #### Amendments ####
 
-**2013**—Subsec. (a)(1). Pub. L. 113–6, §1403(1), substituted “before, on, or after August 10, 1993” for “on or after August 10, 1993”.
+**2013**—Subsec. (a)(1). Pub. L. 113–6, §1403(1), substituted "before, on, or after August 10, 1993" for "on or after August 10, 1993".
 
-Subsec. (a)(2). Pub. L. 113–6, §1403(2), struck out “located” after “United States”, substituted “subsection (a)(1)” for “subsection (a)”, and inserted at end “Such claim maintenance fee shall be in lieu of the assessment work requirement contained in the Mining Law of 1872 (30 U.S.C. 28 to 28e) and the related filing requirements contained in section 1744(a) and (c) of title 43.”
+Subsec. (a)(2). Pub. L. 113–6, §1403(2), struck out "located" after "United States", substituted "subsection (a)(1)" for "subsection (a)", and inserted at end "Such claim maintenance fee shall be in lieu of the assessment work requirement contained in the Mining Law of 1872 (30 U.S.C. 28 to 28e) and the related filing requirements contained in section 1744(a) and (c) of title 43."
 
-**2011**—Subsec. (a)(1). Pub. L. 112–74, §430(1)(A), designated existing provisions as par. (1) and substituted “The holder of each unpatented lode mining claim, mill site, or tunnel site, located pursuant to the mining laws of the United States on or after August 10, 1993, shall pay to the Secretary of the Interior, on or before September 1 of each year, to the extent provided in advance in appropriations Acts, a claim maintenance fee of $100 per claim or site, respectively.” for “The holder of each unpatented mining claim, mill, or tunnel site, located pursuant to the mining laws of the United States, whether located before, on or after August 10, 1993, shall pay to the Secretary of the Interior, on or before September 1 of each year, to the extent provided in advance in Appropriations Acts, a claim maintenance fee of $100 per claim or site”.
+**2011**—Subsec. (a)(1). Pub. L. 112–74, §430(1)(A), designated existing provisions as par. (1) and substituted "The holder of each unpatented lode mining claim, mill site, or tunnel site, located pursuant to the mining laws of the United States on or after August 10, 1993, shall pay to the Secretary of the Interior, on or before September 1 of each year, to the extent provided in advance in appropriations Acts, a claim maintenance fee of $100 per claim or site, respectively." for "The holder of each unpatented mining claim, mill, or tunnel site, located pursuant to the mining laws of the United States, whether located before, on or after August 10, 1993, shall pay to the Secretary of the Interior, on or before September 1 of each year, to the extent provided in advance in Appropriations Acts, a claim maintenance fee of $100 per claim or site".
 
 Subsec. (a)(2). Pub. L. 112–74, §430(1)(B), added par. (2).
 
-Subsec. (b). Pub. L. 112–74, §430(2), substituted “The claim main tenance fee under subsection (a) shall be paid for the year in which the location is made, at the time the location notice is recorded with the Bureau of Land Management.” for “The claim maintenance fee payable pursuant to subsection (a) of this section for any assessment year shall be paid before the commencement of the assessment year, except that for the initial assessment year in which the location is made, the locator shall pay the claim maintenance fee at the time the location notice is recorded with the Bureau of Land Management.”
+Subsec. (b). Pub. L. 112–74, §430(2), substituted "The claim main tenance fee under subsection (a) shall be paid for the year in which the location is made, at the time the location notice is recorded with the Bureau of Land Management." for "The claim maintenance fee payable pursuant to subsection (a) of this section for any assessment year shall be paid before the commencement of the assessment year, except that for the initial assessment year in which the location is made, the locator shall pay the claim maintenance fee at the time the location notice is recorded with the Bureau of Land Management."
 
-**2009**—Subsec. (a). Pub. L. 111–88 substituted “, to the extent provided in advance in Appropriations Acts,” for “for years 2004 through 2008,”. See Codification note above.
+**2009**—Subsec. (a). Pub. L. 111–88 substituted ", to the extent provided in advance in Appropriations Acts," for "for years 2004 through 2008,". See Codification note above.
 
-Pub. L. 111–8, which directed the removal of the modifications made by Pub. L. 110–161, was executed by inserting “for years 2004 through 2008” after “before September 1 of each year”. See 2007 Amendment note below.
+Pub. L. 111–8, which directed the removal of the modifications made by Pub. L. 110–161, was executed by inserting "for years 2004 through 2008" after "before September 1 of each year". See 2007 Amendment note below.
 
-**2007**—Subsec. (a). Pub. L. 110–161 struck out “for years 2004 through 2008” after “before September 1 of each year”. See Codification note above.
+**2007**—Subsec. (a). Pub. L. 110–161 struck out "for years 2004 through 2008" after "before September 1 of each year". See Codification note above.
 
-**2003**—Subsec. (a). Pub. L. 108–108 substituted “for years 2004 through 2008” for “for years 2002 through 2003”. See Codification note above.
+**2003**—Subsec. (a). Pub. L. 108–108 substituted "for years 2004 through 2008" for "for years 2002 through 2003". See Codification note above.
 
-**2001**—Subsec. (a). Pub. L. 107–63 substituted “The holder of each unpatented mining claim, mill, or tunnel site, located pursuant to the mining laws of the United States, whether located before, on or after August 10, 1993, shall pay to the Secretary of the Interior, on or before September 1 of each year for years 2002 through 2003, a claim maintenance fee of $100 per claim or site” for “The holder of each unpatented mining claim, mill, or tunnel site, located pursuant to the mining laws of the United States, whether located before or after August 10, 1993, shall pay to the Secretary of the Interior, on or before September 1 of each year for years 1999 through 2001, a claim maintenance fee of $100 per claim or site.” See Codification note above.
+**2001**—Subsec. (a). Pub. L. 107–63 substituted "The holder of each unpatented mining claim, mill, or tunnel site, located pursuant to the mining laws of the United States, whether located before, on or after August 10, 1993, shall pay to the Secretary of the Interior, on or before September 1 of each year for years 2002 through 2003, a claim maintenance fee of $100 per claim or site" for "The holder of each unpatented mining claim, mill, or tunnel site, located pursuant to the mining laws of the United States, whether located before or after August 10, 1993, shall pay to the Secretary of the Interior, on or before September 1 of each year for years 1999 through 2001, a claim maintenance fee of $100 per claim or site." See Codification note above.
 
-**1998**—Subsec. (a). Pub. L. 105–277 added first sentence and struck out former first sentence which read as follows: “The holder of each unpatented mining claim, mill, or tunnel site located pursuant to the mining laws of the United States before October 1, 1998 shall pay the Secretary of the Interior, on or before September 1, 1999 a claim maintenance fee of $100 per claim site.” See Codification note above.
+**1998**—Subsec. (a). Pub. L. 105–277 added first sentence and struck out former first sentence which read as follows: "The holder of each unpatented mining claim, mill, or tunnel site located pursuant to the mining laws of the United States before October 1, 1998 shall pay the Secretary of the Interior, on or before September 1, 1999 a claim maintenance fee of $100 per claim site." See Codification note above.
 
-Pub. L. 105–240 substituted “The holder of each unpatented mining claim, mill, or tunnel site located pursuant to the mining laws of the United States before October 1, 1998 shall pay the Secretary of the Interior, on or before September 1, 1999 a claim maintenance fee of $100 per claim site.” for “The holder of each unpatented mining claim, mill or tunnel site located pursuant to the Mining Laws of the United States, whether located before or after August 10, 1993, shall pay to the Secretary of the Interior, on or before August 31 of each year, for years 1994 through 1998, a claim maintenance fee of $100 per claim.” See Codification note above.
+Pub. L. 105–240 substituted "The holder of each unpatented mining claim, mill, or tunnel site located pursuant to the mining laws of the United States before October 1, 1998 shall pay the Secretary of the Interior, on or before September 1, 1999 a claim maintenance fee of $100 per claim site." for "The holder of each unpatented mining claim, mill or tunnel site located pursuant to the Mining Laws of the United States, whether located before or after August 10, 1993, shall pay to the Secretary of the Interior, on or before August 31 of each year, for years 1994 through 1998, a claim maintenance fee of $100 per claim." See Codification note above.
 
 Subsec. (d)(3). Pub. L. 105–277 added par. (3). See Codification note above.
 
@@ -90,4 +90,4 @@ Similar provisions were contained in Pub. L. 102–381, title I, Oct. 5, 1992, 1
 
 [<sup>1</sup> See References in Text note below.](#28f_1)
 
-[<sup>2</sup> So in original. Probably should be “maintenance”.](#28f_2)
+[<sup>2</sup> So in original. Probably should be "maintenance".](#28f_2)

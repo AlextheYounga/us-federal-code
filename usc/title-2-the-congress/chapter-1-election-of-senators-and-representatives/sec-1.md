@@ -6,11 +6,11 @@ At the regular election held in any State next preceding the expiration of the t
 
 #### Amendments ####
 
-**1934**—Act June 5, 1934, substituted “3d day of January” for “fourth day of March”.
+**1934**—Act June 5, 1934, substituted "3d day of January" for "fourth day of March".
 
 #### Constitutional Provisions ####
 
-The first section of Amendment XX to the Constitution provides in part: “\* \* \* the terms of Senators and Representatives [shall end] at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.”
+The first section of Amendment XX to the Constitution provides in part: "\* \* \* the terms of Senators and Representatives [shall end] at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin."
 
 Time for election of Senators, see Const. Art. I, §4, cl. 1.
 

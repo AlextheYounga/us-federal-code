@@ -64,7 +64,7 @@ For purposes of subparagraph (A)(vi)—
 
 #### (I) In general ####
 
-The term “unforeseeable emergency” means a severe financial hardship to the participant resulting from an illness or accident of the participant, the participant's spouse, or a dependent (as defined in section 152(a)) of the participant, loss of the participant's property due to casualty, or other similar extraordinary and unforeseeable circumstances arising as a result of events beyond the control of the participant.
+The term "unforeseeable emergency" means a severe financial hardship to the participant resulting from an illness or accident of the participant, the participant's spouse, or a dependent (as defined in section 152(a)) of the participant, loss of the participant's property due to casualty, or other similar extraordinary and unforeseeable circumstances arising as a result of events beyond the control of the participant.
 
 #### (II) Limitation on distributions ####
 
@@ -148,7 +148,7 @@ such assets shall, for purposes of section 83, be treated as property transferre
 
 #### (B) Restricted period ####
 
-For purposes of this section, the term “restricted period” means, with respect to any plan described in subparagraph (A)—
+For purposes of this section, the term "restricted period" means, with respect to any plan described in subparagraph (A)—
 
 (i) any period during which the plan is in at-risk status (as defined in section 430(i)); <sup><a href="#409A_1_target" name="409A_1">1</a></sup>
 
@@ -172,7 +172,7 @@ For purposes of this section—
 
 #### (i) Applicable covered employee ####
 
-The term “applicable covered employee” means any—
+The term "applicable covered employee" means any—
 
 (I) covered employee of a plan sponsor,
 
@@ -182,7 +182,7 @@ The term “applicable covered employee” means any—
 
 #### (ii) Covered employee ####
 
-The term “covered employee” means an individual described in section 162(m)(3) or an individual subject to the requirements of section 16(a) of the Securities Exchange Act of 1934.
+The term "covered employee" means an individual described in section 162(m)(3) or an individual subject to the requirements of section 16(a) of the Securities Exchange Act of 1934.
 
 #### (4) Income inclusion for offshore trusts and employer's financial health ####
 
@@ -212,7 +212,7 @@ For purposes of this section:
 
 #### (1) Nonqualified deferred compensation plan ####
 
-The term “nonqualified deferred compensation plan” means any plan that provides for the deferral of compensation, other than—
+The term "nonqualified deferred compensation plan" means any plan that provides for the deferral of compensation, other than—
 
 (A) a qualified employer plan, and
 
@@ -220,7 +220,7 @@ The term “nonqualified deferred compensation plan” means any plan that provi
 
 #### (2) Qualified employer plan ####
 
-The term “qualified employer plan” means—
+The term "qualified employer plan" means—
 
 (A) any plan, contract, pension, account, or trust described in subparagraph (A) or (B) of section 219(g)(5) (without regard to subparagraph (A)(iii)),
 
@@ -230,7 +230,7 @@ The term “qualified employer plan” means—
 
 #### (3) Plan includes arrangements, etc. ####
 
-The term “plan” includes any agreement or arrangement, including an agreement or arrangement that includes one person.
+The term "plan" includes any agreement or arrangement, including an agreement or arrangement that includes one person.
 
 #### (4) Substantial risk of forfeiture ####
 
@@ -272,13 +272,13 @@ A prior section 409A was renumbered section 409 of this title.
 
 #### Amendments ####
 
-**2008**—Subsec. (b)(3)(A)(ii). Pub. L. 110–458 inserted “to an applicable covered employee” after “under the plan”.
+**2008**—Subsec. (b)(3)(A)(ii). Pub. L. 110–458 inserted "to an applicable covered employee" after "under the plan".
 
 **2006**—Subsec. (b)(3). Pub. L. 109–280, §116(a), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (b)(4), (5). Pub. L. 109–280 redesignated pars. (3) and (4) as (4) and (5), respectively, and substituted “paragraph (1), (2), or (3)” for “paragraph (1) or (2)” wherever appearing.
+Subsec. (b)(4), (5). Pub. L. 109–280 redesignated pars. (3) and (4) as (4) and (5), respectively, and substituted "paragraph (1), (2), or (3)" for "paragraph (1) or (2)" wherever appearing.
 
-**2005**—Subsec. (a)(4)(C)(ii). Pub. L. 109–135 struck out “first” after “requires that the”.
+**2005**—Subsec. (a)(4)(C)(ii). Pub. L. 109–135 struck out "first" after "requires that the".
 
 #### Effective Date of 2008 Amendment ####
 
@@ -286,7 +286,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective Date of 2006 Amendment ####
 
-Pub. L. 109–280, title I, §116(c), Aug. 17, 2006, 120 Stat. 858, provided that: “The amendments made by this section [amending this section] shall apply to transfers or other reservation of assets after the date of the enactment of this Act [Aug. 17, 2006].”
+Pub. L. 109–280, title I, §116(c), Aug. 17, 2006, 120 Stat. 858, provided that: "The amendments made by this section [amending this section] shall apply to transfers or other reservation of assets after the date of the enactment of this Act [Aug. 17, 2006]."
 
 #### Effective Date of 2005 Amendment ####
 
@@ -294,27 +294,27 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 #### Effective Date ####
 
-Pub. L. 109–135, title IV, §403(hh)(3)(A), Dec. 21, 2005, 119 Stat. 2631, provided that: “Notwithstanding section 885(d)(1) of the American Jobs Creation Act of 2004 [Pub. L. 108–357, set out below], subsection (b) of section 409A of the Internal Revenue Code of 1986 shall take effect on January 1, 2005.”
+Pub. L. 109–135, title IV, §403(hh)(3)(A), Dec. 21, 2005, 119 Stat. 2631, provided that: "Notwithstanding section 885(d)(1) of the American Jobs Creation Act of 2004 [Pub. L. 108–357, set out below], subsection (b) of section 409A of the Internal Revenue Code of 1986 shall take effect on January 1, 2005."
 
 Pub. L. 108–357, title VIII, §885(d), Oct. 22, 2004, 118 Stat. 1640, provided that:
 
-“(1) In general.—The amendments made by this section [enacting this section and amending sections 3401, 6041, and 6051 of this title] shall apply to amounts deferred after December 31, 2004.
+"(1) In general.—The amendments made by this section [enacting this section and amending sections 3401, 6041, and 6051 of this title] shall apply to amounts deferred after December 31, 2004.
 
-“(2) Special rules.—
+"(2) Special rules.—
 
-“(A) Earnings.—The amendments made by this section shall apply to earnings on deferred compensation only to the extent that such amendments apply to such compensation.
+"(A) Earnings.—The amendments made by this section shall apply to earnings on deferred compensation only to the extent that such amendments apply to such compensation.
 
-“(B) Material modifications.—For purposes of this subsection, amounts deferred in taxable years beginning before January 1, 2005, shall be treated as amounts deferred in a taxable year beginning on or after such date if the plan under which the deferral is made is materially modified after October 3, 2004, unless such modification is pursuant to the guidance issued under subsection (f) [set out as a note below].
+"(B) Material modifications.—For purposes of this subsection, amounts deferred in taxable years beginning before January 1, 2005, shall be treated as amounts deferred in a taxable year beginning on or after such date if the plan under which the deferral is made is materially modified after October 3, 2004, unless such modification is pursuant to the guidance issued under subsection (f) [set out as a note below].
 
-“(3) Exception for nonelective deferred compensation.—The amendments made by this section shall not apply to any nonelective deferred compensation to which section 457 of the Internal Revenue Code of 1986 does not apply by reason of section 457(e)(12) of such Code, but only if such compensation is provided under a nonqualified deferred compensation plan—
+"(3) Exception for nonelective deferred compensation.—The amendments made by this section shall not apply to any nonelective deferred compensation to which section 457 of the Internal Revenue Code of 1986 does not apply by reason of section 457(e)(12) of such Code, but only if such compensation is provided under a nonqualified deferred compensation plan—
 
-“(A) which was in existence on May 1, 2004,
+"(A) which was in existence on May 1, 2004,
 
-“(B) which was providing nonelective deferred compensation described in such section 457(e)(12) on such date, and
+"(B) which was providing nonelective deferred compensation described in such section 457(e)(12) on such date, and
 
-“(C) which is established or maintained by an organization incorporated on July 2, 1974.
+"(C) which is established or maintained by an organization incorporated on July 2, 1974.
 
-If, after May 1, 2004, a plan described in the preceding sentence adopts a plan amendment which provides a material change in the classes of individuals eligible to participate in the plan, this paragraph shall not apply to any nonelective deferred compensation provided under the plan on or after the date of the adoption of the amendment.”
+If, after May 1, 2004, a plan described in the preceding sentence adopts a plan amendment which provides a material change in the classes of individuals eligible to participate in the plan, this paragraph shall not apply to any nonelective deferred compensation provided under the plan on or after the date of the adoption of the amendment."
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280 ####
 
@@ -322,18 +322,18 @@ For special rules on applicability of amendments by subtitles A (§§101–108) 
 
 #### Guidance Relating to Conformance With Funding Rules ####
 
-Pub. L. 109–135, title IV, §403(hh)(3)(B), Dec. 21, 2005, 119 Stat. 2631, provided that: “Not later than 90 days after the date of the enactment of this Act [Dec. 21, 2005], the Secretary of the Treasury shall issue guidance under which a nonqualified deferred compensation plan which is in violation of the requirements of section 409A(b) of such Code shall be treated as not having violated such requirements if such plan comes into conformance with such requirements during such limited period as the Secretary may specify in such guidance.”
+Pub. L. 109–135, title IV, §403(hh)(3)(B), Dec. 21, 2005, 119 Stat. 2631, provided that: "Not later than 90 days after the date of the enactment of this Act [Dec. 21, 2005], the Secretary of the Treasury shall issue guidance under which a nonqualified deferred compensation plan which is in violation of the requirements of section 409A(b) of such Code shall be treated as not having violated such requirements if such plan comes into conformance with such requirements during such limited period as the Secretary may specify in such guidance."
 
 #### Guidance Relating to Change of Ownership or Control ####
 
-Pub. L. 108–357, title VIII, §885(e), Oct. 22, 2004, 118 Stat. 1640, provided that: “Not later than 90 days after the date of the enactment of this Act [Oct. 22, 2004], the Secretary of the Treasury shall issue guidance on what constitutes a change in ownership or effective control for purposes of section 409A of the Internal Revenue Code of 1986, as added by this section.”
+Pub. L. 108–357, title VIII, §885(e), Oct. 22, 2004, 118 Stat. 1640, provided that: "Not later than 90 days after the date of the enactment of this Act [Oct. 22, 2004], the Secretary of the Treasury shall issue guidance on what constitutes a change in ownership or effective control for purposes of section 409A of the Internal Revenue Code of 1986, as added by this section."
 
 #### Guidance Relating to Termination of Certain Existing Arrangements ####
 
-Pub. L. 108–357, title VIII, §885(f), Oct. 22, 2004, 118 Stat. 1641, as amended by Pub. L. 109–135, title IV, §403(hh)(4), Dec. 21, 2005, 119 Stat. 2632, provided that: “Not later than 60 days after the date of the enactment of this Act [Oct. 22, 2004], the Secretary of the Treasury shall issue guidance providing a limited period during which a nonqualified deferred compensation plan adopted before January 1, 2005, may, without violating the requirements of paragraphs (2), (3), and (4) of section 409A(a) of the Internal Revenue Code of 1986 (as added by this section), be amended—
+Pub. L. 108–357, title VIII, §885(f), Oct. 22, 2004, 118 Stat. 1641, as amended by Pub. L. 109–135, title IV, §403(hh)(4), Dec. 21, 2005, 119 Stat. 2632, provided that: "Not later than 60 days after the date of the enactment of this Act [Oct. 22, 2004], the Secretary of the Treasury shall issue guidance providing a limited period during which a nonqualified deferred compensation plan adopted before January 1, 2005, may, without violating the requirements of paragraphs (2), (3), and (4) of section 409A(a) of the Internal Revenue Code of 1986 (as added by this section), be amended—
 
-“(1) to provide that a participant may terminate participation in the plan, or cancel an outstanding deferral election with regard to amounts deferred after December 31, 2004, but only if amounts subject to the termination or cancellation are includible in income of the participant as earned (or, if later, when no longer subject to substantial risk of forfeiture), and
+"(1) to provide that a participant may terminate participation in the plan, or cancel an outstanding deferral election with regard to amounts deferred after December 31, 2004, but only if amounts subject to the termination or cancellation are includible in income of the participant as earned (or, if later, when no longer subject to substantial risk of forfeiture), and
 
-“(2) to conform to the requirements of such section 409A with regard to amounts deferred after December 31, 2004.”
+"(2) to conform to the requirements of such section 409A with regard to amounts deferred after December 31, 2004."
 
 [<sup>1</sup> So in original. The semicolon probably should be a comma.](#409A_1)

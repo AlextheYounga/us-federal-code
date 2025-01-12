@@ -2,7 +2,7 @@
 
 #### (a) Authority to conduct survey ####
 
-The Secretary of the Interior (hereinafter referred to as the “Secretary”) is authorized to conduct a survey of sites which he deems exhibit qualities most appropriate for the commemoration of each former President of the United States. The survey may include sites associated with the deeds, leadership, or lifework of a former President, and it may identify sites or structures historically unrelated to a former President but which may be suitable as a memorial to honor such President.
+The Secretary of the Interior (hereinafter referred to as the "Secretary") is authorized to conduct a survey of sites which he deems exhibit qualities most appropriate for the commemoration of each former President of the United States. The survey may include sites associated with the deeds, leadership, or lifework of a former President, and it may identify sites or structures historically unrelated to a former President but which may be suitable as a memorial to honor such President.
 
 #### (b) Preparation and transmittal to Congressional committees of reports on individual sites and structures ####
 
@@ -20,4 +20,4 @@ There is authorized to be appropriated such sums as may be necessary to carry ou
 
 #### Amendments ####
 
-**1994**—Subsec. (b). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+**1994**—Subsec. (b). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".

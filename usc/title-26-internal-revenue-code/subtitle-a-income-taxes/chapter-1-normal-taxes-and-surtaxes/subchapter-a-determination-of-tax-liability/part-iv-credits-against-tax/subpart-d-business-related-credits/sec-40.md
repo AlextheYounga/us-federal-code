@@ -24,7 +24,7 @@ The alcohol mixture credit of any taxpayer for any taxable year is 60 cents for 
 
 #### (B) Qualified mixture ####
 
-The term “qualified mixture” means a mixture of alcohol and gasoline or of alcohol and a special fuel which—
+The term "qualified mixture" means a mixture of alcohol and gasoline or of alcohol and a special fuel which—
 
 (i) is sold by the taxpayer producing such mixture to any person for use as a fuel, or
 
@@ -58,7 +58,7 @@ No credit shall be allowed under subparagraph (A)(i) with respect to any alcohol
 
 #### (3) Smaller credit for lower proof alcohol ####
 
-In the case of any alcohol with a proof which is at least 150 but less than 190, paragraphs (1)(A) and (2)(A) shall be applied by substituting “45 cents” for “60 cents”.
+In the case of any alcohol with a proof which is at least 150 but less than 190, paragraphs (1)(A) and (2)(A) shall be applied by substituting "45 cents" for "60 cents".
 
 #### (4) Small ethanol producer credit ####
 
@@ -68,7 +68,7 @@ The small ethanol producer credit of any eligible small ethanol producer for any
 
 #### (B) Qualified ethanol fuel production ####
 
-For purposes of this paragraph, the term “qualified ethanol fuel production” means any alcohol which is ethanol which is produced by an eligible small ethanol producer, and which during the taxable year—
+For purposes of this paragraph, the term "qualified ethanol fuel production" means any alcohol which is ethanol which is produced by an eligible small ethanol producer, and which during the taxable year—
 
 (i) is sold by such producer to another person—
 
@@ -108,7 +108,7 @@ For purposes of subparagraph (A), the applicable amount means $1.01, except that
 
 #### (C) Qualified second generation biofuel production ####
 
-For purposes of this section, the term “qualified second generation biofuel production” means any second generation biofuel which is produced by the taxpayer, and which during the taxable year—
+For purposes of this section, the term "qualified second generation biofuel production" means any second generation biofuel which is produced by the taxpayer, and which during the taxable year—
 
 (i) is sold by the taxpayer to another person—
 
@@ -124,7 +124,7 @@ The qualified second generation biofuel production of any taxpayer for any taxab
 
 #### (D) Qualified second generation biofuel mixture ####
 
-For purposes of this paragraph, the term “qualified second generation biofuel mixture” means a mixture of second generation biofuel and gasoline or of second generation biofuel and a special fuel which—
+For purposes of this paragraph, the term "qualified second generation biofuel mixture" means a mixture of second generation biofuel and gasoline or of second generation biofuel and a special fuel which—
 
 (i) is sold by the person producing such mixture to any person for use as a fuel, or
 
@@ -136,7 +136,7 @@ For purposes of this paragraph—
 
 #### (i) In general ####
 
-The term “second generation biofuel” means any liquid fuel which—
+The term "second generation biofuel" means any liquid fuel which—
 
 (I) is derived by, or from, qualified feedstocks, and
 
@@ -144,11 +144,11 @@ The term “second generation biofuel” means any liquid fuel which—
 
 #### (ii) Exclusion of low-proof alcohol ####
 
-The term “second generation biofuel” shall not include any alcohol with a proof of less than 150. The determination of the proof of any alcohol shall be made without regard to any added denaturants.
+The term "second generation biofuel" shall not include any alcohol with a proof of less than 150. The determination of the proof of any alcohol shall be made without regard to any added denaturants.
 
 #### (iii) Exclusion of certain fuels ####
 
-The term “second generation biofuel” shall not include any fuel if—
+The term "second generation biofuel" shall not include any fuel if—
 
 (I) more than 4 percent of such fuel (determined by weight) is any combination of water and sediment,
 
@@ -158,7 +158,7 @@ The term “second generation biofuel” shall not include any fuel if—
 
 #### (F) Qualified feedstock ####
 
-For purposes of this paragraph, the term “qualified feedstock” means—
+For purposes of this paragraph, the term "qualified feedstock" means—
 
 (i) any lignocellulosic or hemicellulosic matter that is available on a renewable or recurring basis, and
 
@@ -204,7 +204,7 @@ For purposes of this section—
 
 #### (A) In general ####
 
-The term “alcohol” includes methanol and ethanol but does not include—
+The term "alcohol" includes methanol and ethanol but does not include—
 
 (i) alcohol produced from petroleum, natural gas, or coal (including peat), or
 
@@ -216,7 +216,7 @@ The determination of the proof of any alcohol shall be made without regard to an
 
 #### (2) Special fuel defined ####
 
-The term “special fuel” includes any liquid fuel (other than gasoline) which is suitable for use in an internal combustion engine.
+The term "special fuel" includes any liquid fuel (other than gasoline) which is suitable for use in an internal combustion engine.
 
 #### (3) Mixture or alcohol not used as a fuel, etc. ####
 
@@ -278,11 +278,11 @@ Under regulations prescribed by the Secretary, rules similar to the rules of sub
 
 #### (6) Special rule for second generation biofuel producer credit ####
 
-No second generation biofuel producer credit shall be determined under subsection (a) with respect to any second generation biofuel unless such second generation biofuel is produced in the United States and used as a fuel in the United States. For purposes of this subsection, the term “United States” includes any possession of the United States.
+No second generation biofuel producer credit shall be determined under subsection (a) with respect to any second generation biofuel unless such second generation biofuel is produced in the United States and used as a fuel in the United States. For purposes of this subsection, the term "United States" includes any possession of the United States.
 
 #### (7) Limitation to alcohol with connection to the United States ####
 
-No credit shall be determined under this section with respect to any alcohol which is produced outside the United States for use as a fuel outside the United States. For purposes of this paragraph, the term “United States” includes any possession of the United States.
+No credit shall be determined under this section with respect to any alcohol which is produced outside the United States for use as a fuel outside the United States. For purposes of this paragraph, the term "United States" includes any possession of the United States.
 
 #### (e) Termination ####
 
@@ -322,7 +322,7 @@ For purposes of this section—
 
 #### (1) Eligible small ethanol producer ####
 
-The term “eligible small ethanol producer” means a person who, at all times during the taxable year, has a productive capacity for alcohol (as defined in subsection (d)(1)(A) without regard to clauses (i) and (ii)) not in excess of 60,000,000 gallons.
+The term "eligible small ethanol producer" means a person who, at all times during the taxable year, has a productive capacity for alcohol (as defined in subsection (d)(1)(A) without regard to clauses (i) and (ii)) not in excess of 60,000,000 gallons.
 
 #### (2) Aggregration <sup><a href="#40_1_target" name="40_1">1</a></sup> rule ####
 
@@ -382,11 +382,11 @@ If the amount of the credit of the organization determined under such subsection
 
 In the case of any alcohol mixture credit or alcohol credit with respect to any sale or use of alcohol which is ethanol during calendar years 2001 through 2011—
 
-(A) subsections (b)(1)(A) and (b)(2)(A) shall be applied by substituting “the blender amount” for “60 cents”,
+(A) subsections (b)(1)(A) and (b)(2)(A) shall be applied by substituting "the blender amount" for "60 cents",
 
-(B) subsection (b)(3) shall be applied by substituting “the low-proof blender amount” for “45 cents” and “the blender amount” for “60 cents”, and
+(B) subsection (b)(3) shall be applied by substituting "the low-proof blender amount" for "45 cents" and "the blender amount" for "60 cents", and
 
-(C) subparagraphs (A) and (B) of subsection (d)(3) shall be applied by substituting “the blender amount” for “60 cents” and “the low-proof blender amount” for “45 cents”.
+(C) subparagraphs (A) and (B) of subsection (d)(3) shall be applied by substituting "the blender amount" for "60 cents" and "the low-proof blender amount" for "45 cents".
 
 #### (2) Amounts ####
 
@@ -403,7 +403,7 @@ For purposes of paragraph (1), the blender amount and the low-proof blender amou
 
 #### (A) In general ####
 
-In the case of any calendar year beginning after 2008, if the Secretary makes a determination described in subparagraph (B) with respect to all preceding calendar years beginning after 2007, the last row in the table in paragraph (2) shall be applied by substituting “51 cents” for “45 cents”.
+In the case of any calendar year beginning after 2008, if the Secretary makes a determination described in subparagraph (B) with respect to all preceding calendar years beginning after 2007, the last row in the table in paragraph (2) shall be applied by substituting "51 cents" for "45 cents".
 
 #### (B) Determination ####
 
@@ -423,119 +423,119 @@ Another prior section 40 was renumbered section 37 of this title.
 
 #### Amendments ####
 
-**2013**—Pub. L. 112–240, §404(b)(3)(A)(i), substituted “second generation biofuel” for “cellulosic biofuel” wherever appearing in text in subsecs. (a)(4), (b)(4)(C), (6), and (d)(3)(D), (6).
+**2013**—Pub. L. 112–240, §404(b)(3)(A)(i), substituted "second generation biofuel" for "cellulosic biofuel" wherever appearing in text in subsecs. (a)(4), (b)(4)(C), (6), and (d)(3)(D), (6).
 
-Subsec. (b)(6). Pub. L. 112–240, §404(b)(3)(A)(ii), substituted “Second generation” for “Cellulosic” in heading.
+Subsec. (b)(6). Pub. L. 112–240, §404(b)(3)(A)(ii), substituted "Second generation" for "Cellulosic" in heading.
 
-Subsec. (b)(6)(C), (D). Pub. L. 112–240, §404(b)(3)(A)(iii), substituted “second generation” for “cellulosic” in heading.
+Subsec. (b)(6)(C), (D). Pub. L. 112–240, §404(b)(3)(A)(iii), substituted "second generation" for "cellulosic" in heading.
 
-Subsec. (b)(6)(E). Pub. L. 112–240, §404(b)(3)(A)(ii), substituted “Second generation” for “Cellulosic” in heading.
+Subsec. (b)(6)(E). Pub. L. 112–240, §404(b)(3)(A)(ii), substituted "Second generation" for "Cellulosic" in heading.
 
-Subsec. (b)(6)(E)(i)(I). Pub. L. 112–240, §404(b)(1), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “is produced from any lignocellulosic or hemicellulosic matter that is available on a renewable or recurring basis, and”.
+Subsec. (b)(6)(E)(i)(I). Pub. L. 112–240, §404(b)(1), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: "is produced from any lignocellulosic or hemicellulosic matter that is available on a renewable or recurring basis, and".
 
-Subsec. (b)(6)(E)(ii). Pub. L. 112–240, §404(b)(3)(B), substituted “The term ‘second generation biofuel’ shall not” for “Such term shall not”.
+Subsec. (b)(6)(E)(ii). Pub. L. 112–240, §404(b)(3)(B), substituted "The term 'second generation biofuel' shall not" for "Such term shall not".
 
 Subsec. (b)(6)(F), (G). Pub. L. 112–240, §404(b)(2), added subpars. (F) and (G). Former subpars. (F) and (G) redesignated as (H) and (I), respectively.
 
-Subsec. (b)(6)(H). Pub. L. 112–240, §404(b)(3)(A)(iii), substituted “second generation” for “cellulosic” in heading.
+Subsec. (b)(6)(H). Pub. L. 112–240, §404(b)(3)(A)(iii), substituted "second generation" for "cellulosic" in heading.
 
 Pub. L. 112–240, §404(b)(2), redesignated subpar. (F) as (H). Former subpar. (H) redesignated (J).
 
-Pub. L. 112–240, §404(a)(1), amended subpar. (H) generally. Prior to amendment, text read as follows: “This paragraph shall apply with respect to qualified cellulosic biofuel production after December 31, 2008, and before January 1, 2013.”
+Pub. L. 112–240, §404(a)(1), amended subpar. (H) generally. Prior to amendment, text read as follows: "This paragraph shall apply with respect to qualified cellulosic biofuel production after December 31, 2008, and before January 1, 2013."
 
 Subsec. (b)(6)(I), (J). Pub. L. 112–240, §404(b)(2), redesignated subpars. (G) and (H) as (I) and (J), respectively.
 
-Subsec. (d)(3)(D). Pub. L. 112–240, §404(b)(3)(A)(ii), substituted “Second generation” for “Cellulosic” in heading.
+Subsec. (d)(3)(D). Pub. L. 112–240, §404(b)(3)(A)(ii), substituted "Second generation" for "Cellulosic" in heading.
 
-Subsec. (d)(6). Pub. L. 112–240, §404(b)(3)(A)(iii), substituted “second generation” for “cellulosic” in heading.
+Subsec. (d)(6). Pub. L. 112–240, §404(b)(3)(A)(iii), substituted "second generation" for "cellulosic" in heading.
 
-Subsec. (e)(2). Pub. L. 112–240, §404(a)(2), struck out “or subsection (b)(6)(H)” after “paragraph (1)”.
+Subsec. (e)(2). Pub. L. 112–240, §404(a)(2), struck out "or subsection (b)(6)(H)" after "paragraph (1)".
 
-Subsec. (e)(3). Pub. L. 112–240, §404(b)(3)(A)(iii), substituted “second generation” for “cellulosic” in heading.
+Subsec. (e)(3). Pub. L. 112–240, §404(b)(3)(A)(iii), substituted "second generation" for "cellulosic" in heading.
 
-**2010**—Subsec. (b)(6)(E)(iii). Pub. L. 111–240, §2121(a)(4), substituted “certain” for “unprocessed” in heading.
+**2010**—Subsec. (b)(6)(E)(iii). Pub. L. 111–240, §2121(a)(4), substituted "certain" for "unprocessed" in heading.
 
 Pub. L. 111–152 added cl. (iii).
 
 Subsec. (b)(6)(E)(iii)(III). Pub. L. 111–240, §2121(a)(1)–(3), added subcl. (III).
 
-Subsec. (e)(1)(A). Pub. L. 111–312, §708(a)(1)(A), substituted “December 31, 2011” for “December 31, 2010”.
+Subsec. (e)(1)(A). Pub. L. 111–312, §708(a)(1)(A), substituted "December 31, 2011" for "December 31, 2010".
 
-Subsec. (e)(1)(B). Pub. L. 111–312, §708(a)(1)(B), substituted “January 1, 2012” for “January 1, 2011”.
+Subsec. (e)(1)(B). Pub. L. 111–312, §708(a)(1)(B), substituted "January 1, 2012" for "January 1, 2011".
 
-Subsec. (h)(1), (2). Pub. L. 111–312, §708(a)(2), substituted “2011” for “2010”.
+Subsec. (h)(1), (2). Pub. L. 111–312, §708(a)(2), substituted "2011" for "2010".
 
-**2008**—Pub. L. 110–246, §15321(b)(3)(B), inserted “, etc.,” after “Alcohol” in section catchline.
+**2008**—Pub. L. 110–246, §15321(b)(3)(B), inserted ", etc.," after "Alcohol" in section catchline.
 
 Subsec. (a)(4). Pub. L. 110–246, §15321(a), added par. (4).
 
-Subsec. (b)(4)(C). Pub. L. 110–246, §15321(e), inserted “(determined without regard to any qualified cellulosic biofuel production)” after “15,000,000 gallons”.
+Subsec. (b)(4)(C). Pub. L. 110–246, §15321(e), inserted "(determined without regard to any qualified cellulosic biofuel production)" after "15,000,000 gallons".
 
 Subsec. (b)(6). Pub. L. 110–246, §15321(b)(1), added par. (6).
 
-Subsec. (d)(3)(C). Pub. L. 110–246, §15321(c)(2)(A), substituted “Small ethanol producer” for “Producer” in heading.
+Subsec. (d)(3)(C). Pub. L. 110–246, §15321(c)(2)(A), substituted "Small ethanol producer" for "Producer" in heading.
 
 Subsec. (d)(3)(D). Pub. L. 110–246, §15321(c)(1), added subpar. (D). Former subpar. (D) redesignated (E).
 
-Subsec. (d)(3)(E). Pub. L. 110–246, §15321(c)(2)(B), substituted “(C), or (D)” for “or (C)”.
+Subsec. (d)(3)(E). Pub. L. 110–246, §15321(c)(2)(B), substituted "(C), or (D)" for "or (C)".
 
 Pub. L. 110–246, §15321(c)(1), redesignated subpar. (D) as (E).
 
-Subsec. (d)(4). Pub. L. 110–246, §15332(a), substituted “2 percent” for “5 percent”.
+Subsec. (d)(4). Pub. L. 110–246, §15332(a), substituted "2 percent" for "5 percent".
 
 Subsec. (d)(6). Pub. L. 110–246, §15321(d), added par. (6).
 
 Subsec. (d)(7). Pub. L. 110–343 added par. (7).
 
-Subsec. (e)(2). Pub. L. 110–246, §15321(b)(2)(A), inserted “or subsection (b)(6)(H)” after “by reason of paragraph (1)”.
+Subsec. (e)(2). Pub. L. 110–246, §15321(b)(2)(A), inserted "or subsection (b)(6)(H)" after "by reason of paragraph (1)".
 
 Subsec. (e)(3). Pub. L. 110–246, §15321(b)(2)(B), added par. (3).
 
-Subsec. (h)(2). Pub. L. 110–246, §15331(a)(1), in table, substituted “2005, 2006, 2007, or 2008” for “2005 through 2010”, struck out period after “37.78 cents”, and inserted last row reading “2009 through 2010”, “45 cents”, and “33.33 cents.”
+Subsec. (h)(2). Pub. L. 110–246, §15331(a)(1), in table, substituted "2005, 2006, 2007, or 2008" for "2005 through 2010", struck out period after "37.78 cents", and inserted last row reading "2009 through 2010", "45 cents", and "33.33 cents."
 
 Subsec. (h)(3). Pub. L. 110–246, §15331(a)(2), added par. (3).
 
-**2005**—Subsec. (g)(1), (2), (5)(A). Pub. L. 109–58, §1347(a), substituted “60,000,000” for “30,000,000”.
+**2005**—Subsec. (g)(1), (2), (5)(A). Pub. L. 109–58, §1347(a), substituted "60,000,000" for "30,000,000".
 
-Subsec. (g)(6)(A)(ii). Pub. L. 109–58, §1347(b), inserted at end “Such election shall not take effect unless the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section 1382(d).”
+Subsec. (g)(6)(A)(ii). Pub. L. 109–58, §1347(b), inserted at end "Such election shall not take effect unless the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section 1382(d)."
 
-**2004**—Subsec. (c). Pub. L. 108–357, §301(c)(1), substituted “section 4041(b)(2), section 6426, or section 6427(e)” for “subsection (b)(2), (k), or (m) of section 4041, section 4081(c), or section 4091(c)”.
+**2004**—Subsec. (c). Pub. L. 108–357, §301(c)(1), substituted "section 4041(b)(2), section 6426, or section 6427(e)" for "subsection (b)(2), (k), or (m) of section 4041, section 4081(c), or section 4091(c)".
 
 Subsec. (d)(4). Pub. L. 108–357, §301(c)(2), reenacted heading without change and amended text of par. (4) generally, substituting provisions relating to determination of the number of gallons of alcohol with respect to which a credit is allowable under subsec. (a) for provisions relating to determination of the number of gallons of alcohol with respect to which a credit is allowable under subsec. (a) or the percentage of any mixture which consists of alcohol under section 4041(k) or 4081(c).
 
-Subsec. (e)(1)(A). Pub. L. 108–357, §301(c)(3)(A), substituted “2010” for “2007”.
+Subsec. (e)(1)(A). Pub. L. 108–357, §301(c)(3)(A), substituted "2010" for "2007".
 
-Subsec. (e)(1)(B). Pub. L. 108–357, §301(c)(3)(B), substituted “2011” for “2008”.
+Subsec. (e)(1)(B). Pub. L. 108–357, §301(c)(3)(B), substituted "2011" for "2008".
 
 Subsec. (g)(6). Pub. L. 108–357, §313(a), added par. (6).
 
-Subsec. (h)(1). Pub. L. 108–357, §301(c)(4)(A), substituted “2010” for “2007” in introductory provisions.
+Subsec. (h)(1). Pub. L. 108–357, §301(c)(4)(A), substituted "2010" for "2007" in introductory provisions.
 
-Subsec. (h)(2). Pub. L. 108–357, §301(c)(4)(B), substituted “through 2010” for “, 2006, or 2007” in table.
+Subsec. (h)(2). Pub. L. 108–357, §301(c)(4)(B), substituted "through 2010" for ", 2006, or 2007" in table.
 
-**1998**—Subsec. (e)(1). Pub. L. 105–178, §9003(a)(3), substituted “December 31, 2007” for “December 31, 2000” in subpar. (A) and “January 1, 2008” for “January 1, 2001” in subpar. (B).
+**1998**—Subsec. (e)(1). Pub. L. 105–178, §9003(a)(3), substituted "December 31, 2007" for "December 31, 2000" in subpar. (A) and "January 1, 2008" for "January 1, 2001" in subpar. (B).
 
-Subsec. (h). Pub. L. 105–178, §9003(b)(1), reenacted heading without change and amended text of subsec. (h) generally. Prior to amendment, text read as follows: “In the case of any alcohol mixture credit or alcohol credit with respect to any alcohol which is ethanol—
+Subsec. (h). Pub. L. 105–178, §9003(b)(1), reenacted heading without change and amended text of subsec. (h) generally. Prior to amendment, text read as follows: "In the case of any alcohol mixture credit or alcohol credit with respect to any alcohol which is ethanol—
 
-“(1) subsections (b)(1)(A) and (b)(2)(A) shall be applied by substituting ‘54 cents’ for ‘60 cents’;
+"(1) subsections (b)(1)(A) and (b)(2)(A) shall be applied by substituting '54 cents' for '60 cents';
 
-“(2) subsection (b)(3) shall be applied by substituting ‘40 cents’ for ‘45 cents’ and ‘54 cents’ for ‘60 cents’; and
+"(2) subsection (b)(3) shall be applied by substituting '40 cents' for '45 cents' and '54 cents' for '60 cents'; and
 
-“(3) subparagraphs (A) and (B) of subsection (d)(3) shall be applied by substituting ‘54 cents’ for ‘60 cents’ and ‘40 cents’ for ‘45 cents’.”
+"(3) subparagraphs (A) and (B) of subsection (d)(3) shall be applied by substituting '54 cents' for '60 cents' and '40 cents' for '45 cents'."
 
-**1996**—Subsec. (e)(1)(B). Pub. L. 104–188 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “for any period before January 1, 2001, during which the Highway Trust Fund financing rate under section 4081(a)(2) is not in effect.”
+**1996**—Subsec. (e)(1)(B). Pub. L. 104–188 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "for any period before January 1, 2001, during which the Highway Trust Fund financing rate under section 4081(a)(2) is not in effect."
 
-**1990**—Subsec. (a)(2). Pub. L. 101–508, §11502(a)(1), substituted “, plus” for period at end.
+**1990**—Subsec. (a)(2). Pub. L. 101–508, §11502(a)(1), substituted ", plus" for period at end.
 
 Subsec. (a)(3). Pub. L. 101–508, §11502(a)(2), added par. (3).
 
-Subsec. (b). Pub. L. 101–508, §11502(e)(2), which directed the insertion of “, and except as provided in subsection (h)” in introductory provisions without specifying the location of such insertion, was executed after “section” to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 101–508, §11502(e)(2), which directed the insertion of ", and except as provided in subsection (h)" in introductory provisions without specifying the location of such insertion, was executed after "section" to reflect the probable intent of Congress.
 
-Pub. L. 101–508, §11502(b)(3), substituted “, alcohol credit, and small ethanol producer credit” for “and alcohol credit” in heading.
+Pub. L. 101–508, §11502(b)(3), substituted ", alcohol credit, and small ethanol producer credit" for "and alcohol credit" in heading.
 
 Subsec. (b)(4), (5). Pub. L. 101–508, §11502(b)(1), (2), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (d)(3)(C), (D). Pub. L. 101–508, §11502(d)(1), (2), added subpar. (C), redesignated former subpar. (C) as (D), and substituted “subparagraph (A), (B), or (C)” for “subparagraph (A) or (B)”.
+Subsec. (d)(3)(C), (D). Pub. L. 101–508, §11502(d)(1), (2), added subpar. (C), redesignated former subpar. (C) as (D), and substituted "subparagraph (A), (B), or (C)" for "subparagraph (A) or (B)".
 
 Subsec. (e). Pub. L. 101–508, §11502(f), amended subsec. (e) generally, substituting present provisions for provisions prohibiting the applicability of this section to any sale or use after Dec. 31, 1992, and prohibiting carryovers to any taxable year beginning after Dec. 31, 1994.
 
@@ -543,101 +543,101 @@ Subsec. (g). Pub. L. 101–508, §11502(c), added subsec. (g).
 
 Subsec. (h). Pub. L. 101–508, §11502(e)(1), added subsec. (h).
 
-**1987**—Subsec. (c). Pub. L. 100–203 substituted “, section 4081(c), or section 4091(c)” for “or section 4081(c)”.
+**1987**—Subsec. (c). Pub. L. 100–203 substituted ", section 4081(c), or section 4091(c)" for "or section 4081(c)".
 
 **1984**—Pub. L. 98–369, §471(c), renumbered section 44E of this title as this section.
 
-Subsec. (a). Pub. L. 98–369, §474(k)(1), substituted “For purposes of section 38, the alcohol fuels credit determined under this section for the taxable year is an amount equal to the sum of” for “There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of” in introductory provisions.
+Subsec. (a). Pub. L. 98–369, §474(k)(1), substituted "For purposes of section 38, the alcohol fuels credit determined under this section for the taxable year is an amount equal to the sum of" for "There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of" in introductory provisions.
 
-Subsec. (b)(1)(A), (2)(A). Pub. L. 98–369, §912(c)(1), substituted “60 cents” for “50 cents”.
+Subsec. (b)(1)(A), (2)(A). Pub. L. 98–369, §912(c)(1), substituted "60 cents" for "50 cents".
 
-Subsec. (b)(3). Pub. L. 98–369, §912(c), substituted “45 cents” for “37.5 cents” and “60 cents” for “50 cents”.
+Subsec. (b)(3). Pub. L. 98–369, §912(c), substituted "45 cents" for "37.5 cents" and "60 cents" for "50 cents".
 
-Subsec. (c). Pub. L. 98–369, §913(b), substituted “(b)(2), (k), or (m)” for “(b)(2) or (k)”.
+Subsec. (c). Pub. L. 98–369, §913(b), substituted "(b)(2), (k), or (m)" for "(b)(2) or (k)".
 
-Pub. L. 98–369, §474(k)(2), substituted “the credit determined under this section” for “the credit allowable under this section”.
+Pub. L. 98–369, §474(k)(2), substituted "the credit determined under this section" for "the credit allowable under this section".
 
-Subsec. (d)(1)(A)(i). Pub. L. 98–369, §912(f), substituted “coal (including peat)” for “coal”.
+Subsec. (d)(1)(A)(i). Pub. L. 98–369, §912(f), substituted "coal (including peat)" for "coal".
 
-Subsec. (d)(3)(A). Pub. L. 98–369, §912(c), substituted “60 cents” for “50 cents” and “45 cents” for “37.5 cents”.
+Subsec. (d)(3)(A). Pub. L. 98–369, §912(c), substituted "60 cents" for "50 cents" and "45 cents" for "37.5 cents".
 
-Subsec. (d)(3)(A)(i). Pub. L. 98–369, §474(k)(3), substituted “credit was determined” for “credit was allowable”.
+Subsec. (d)(3)(A)(i). Pub. L. 98–369, §474(k)(3), substituted "credit was determined" for "credit was allowable".
 
-Subsec. (d)(3)(B). Pub. L. 98–369, §912(c), substituted “60 cents” for “50 cents” and “45 cents” for “37.5 cents”.
+Subsec. (d)(3)(B). Pub. L. 98–369, §912(c), substituted "60 cents" for "50 cents" and "45 cents" for "37.5 cents".
 
-Subsec. (d)(3)(B)(i). Pub. L. 98–369, §474(k)(3), substituted “credit was determined” for “credit was allowable”.
+Subsec. (d)(3)(B)(i). Pub. L. 98–369, §474(k)(3), substituted "credit was determined" for "credit was allowable".
 
 Subsec. (e). Pub. L. 98–369, §474(k)(4), redesignated subsec. (f) as (e). Former subsec. (e), which had placed a limitation based on the amount of tax, was struck out.
 
-Subsec. (e)(2). Pub. L. 98–369, §474(k)(5), substituted “section 39 by reason of this section (treating the amount allowed by reason of this section as the first amount allowed by this subpart)” for “subsection (e)(2)”.
+Subsec. (e)(2). Pub. L. 98–369, §474(k)(5), substituted "section 39 by reason of this section (treating the amount allowed by reason of this section as the first amount allowed by this subpart)" for "subsection (e)(2)".
 
 Subsec. (f). Pub. L. 98–369, §474(k)(6), added subsec. (f). Former subsec. (f) redesignated (e).
 
-**1983**—Subsec. (b)(1)(A), (2)(A). Pub. L. 97–424, §511(d)(3)(A), substituted “50 cents” for “40 cents”.
+**1983**—Subsec. (b)(1)(A), (2)(A). Pub. L. 97–424, §511(d)(3)(A), substituted "50 cents" for "40 cents".
 
-Subsec. (b)(3). Pub. L. 97–424, §511(d)(3), substituted “50 cents” for “40 cents” and “37.5 cents” for “30 cents”.
+Subsec. (b)(3). Pub. L. 97–424, §511(d)(3), substituted "50 cents" for "40 cents" and "37.5 cents" for "30 cents".
 
-Subsec. (c). Pub. L. 97–424, §511(b)(2), substituted “subsection (b)(2) or (k) of section 4041 or section 4081(c)” for “section 4041(k) or 4081(c)” after “reason of the application of”.
+Subsec. (c). Pub. L. 97–424, §511(b)(2), substituted "subsection (b)(2) or (k) of section 4041 or section 4081(c)" for "section 4041(k) or 4081(c)" after "reason of the application of".
 
-Subsec. (d)(3)(A), (B). Pub. L. 97–424, §511(d)(3), substituted “50 cents” for “40 cents” and “37.5 cents” for “30 cents”.
+Subsec. (d)(3)(A), (B). Pub. L. 97–424, §511(d)(3), substituted "50 cents" for "40 cents" and "37.5 cents" for "30 cents".
 
-**1982**—Subsec. (d)(5). Pub. L. 97–354 substituted “Pass-thru in the case of estates and trusts” for “Pass-through in the case of subchapter S corporations, etc.” in par. heading, and substituted provisions relating to the applicability of rules similar to rules of subsec. (d) of section 52 for provisions relating to the applicability of rules similar to rules of subsecs. (d) and (e) of section 52.
+**1982**—Subsec. (d)(5). Pub. L. 97–354 substituted "Pass-thru in the case of estates and trusts" for "Pass-through in the case of subchapter S corporations, etc." in par. heading, and substituted provisions relating to the applicability of rules similar to rules of subsec. (d) of section 52 for provisions relating to the applicability of rules similar to rules of subsecs. (d) and (e) of section 52.
 
-**1981**—Subsec. (e)(2)(A). Pub. L. 97–34 substituted “15” for “7” in two places, and “14” for “6” in one place.
+**1981**—Subsec. (e)(2)(A). Pub. L. 97–34 substituted "15" for "7" in two places, and "14" for "6" in one place.
 
 #### Effective Date of 2013 Amendment ####
 
-Pub. L. 112–240, title IV, §404(a)(3), Jan. 2, 2013, 126 Stat. 2338, provided that: “The amendments made by this subsection [amending this section] shall take effect as if included in section 15321(b) of the Heartland, Habitat, and Horticulture Act of 2008 [probably should be Heartland, Habitat, Harvest, and Horticulture Act of 2008, title XV of Pub. L. 110–246].”
+Pub. L. 112–240, title IV, §404(a)(3), Jan. 2, 2013, 126 Stat. 2338, provided that: "The amendments made by this subsection [amending this section] shall take effect as if included in section 15321(b) of the Heartland, Habitat, and Horticulture Act of 2008 [probably should be Heartland, Habitat, Harvest, and Horticulture Act of 2008, title XV of Pub. L. 110–246]."
 
-Pub. L. 112–240, title IV, §404(b)(4), Jan. 2, 2013, 126 Stat. 2339, provided that: “The amendments made by this subsection [amending this section and section 4101 of this title] shall apply to fuels sold or used after the date of the enactment of this Act [Jan. 2, 2013].”
+Pub. L. 112–240, title IV, §404(b)(4), Jan. 2, 2013, 126 Stat. 2339, provided that: "The amendments made by this subsection [amending this section and section 4101 of this title] shall apply to fuels sold or used after the date of the enactment of this Act [Jan. 2, 2013]."
 
 #### Effective Date of 2010 Amendment ####
 
-Pub. L. 111–312, title VII, §708(a)(3), Dec. 17, 2010, 124 Stat. 3312, provided that: “The amendments made by this subsection [amending this section] shall apply to periods after December 31, 2010.”
+Pub. L. 111–312, title VII, §708(a)(3), Dec. 17, 2010, 124 Stat. 3312, provided that: "The amendments made by this subsection [amending this section] shall apply to periods after December 31, 2010."
 
-Pub. L. 111–240, title II, §2121(b), Sept. 27, 2010, 124 Stat. 2567, provided that: “The amendments made by this section [amending this section] shall apply to fuels sold or used on or after January 1, 2010.”
+Pub. L. 111–240, title II, §2121(b), Sept. 27, 2010, 124 Stat. 2567, provided that: "The amendments made by this section [amending this section] shall apply to fuels sold or used on or after January 1, 2010."
 
-Pub. L. 111–152, title I, §1408(b), Mar. 30, 2010, 124 Stat. 1067, provided that: “The amendment made by this section [amending this section] shall apply to fuels sold or used on or after January 1, 2010.”
+Pub. L. 111–152, title I, §1408(b), Mar. 30, 2010, 124 Stat. 1067, provided that: "The amendment made by this section [amending this section] shall apply to fuels sold or used on or after January 1, 2010."
 
 #### Effective Date of 2008 Amendment ####
 
-Pub. L. 110–343, div. B, title II, §203(d), Oct. 3, 2008, 122 Stat. 3834, provided that: “The amendments made by this section [amending this section and sections 40A, 6426, and 6427 of this title] shall apply to claims for credit or payment made on or after May 15, 2008.”
+Pub. L. 110–343, div. B, title II, §203(d), Oct. 3, 2008, 122 Stat. 3834, provided that: "The amendments made by this section [amending this section and sections 40A, 6426, and 6427 of this title] shall apply to claims for credit or payment made on or after May 15, 2008."
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title XV, §15321(g), May 22, 2008, 122 Stat. 1514, and Pub. L. 110–246, §4(a), title XV, §15321(g), June 18, 2008, 122 Stat. 1664, 2276, provided that: “The amendments made by this section [amending this section and sections 40A and 4101 of this title] shall apply to fuel produced after December 31, 2008.”
+Pub. L. 110–234, title XV, §15321(g), May 22, 2008, 122 Stat. 1514, and Pub. L. 110–246, §4(a), title XV, §15321(g), June 18, 2008, 122 Stat. 1664, 2276, provided that: "The amendments made by this section [amending this section and sections 40A and 4101 of this title] shall apply to fuel produced after December 31, 2008."
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
-Pub. L. 110–234, title XV, §15331(c), May 22, 2008, 122 Stat. 1516, and Pub. L. 110–246, §4(a), title XV, §15331(c), June 18, 2008, 122 Stat. 1664, 2278, provided that: “The amendments made by this section [amending this section and section 6426 of this title] shall take effect on the date of the enactment of this Act [June 18, 2008].”
+Pub. L. 110–234, title XV, §15331(c), May 22, 2008, 122 Stat. 1516, and Pub. L. 110–246, §4(a), title XV, §15331(c), June 18, 2008, 122 Stat. 1664, 2278, provided that: "The amendments made by this section [amending this section and section 6426 of this title] shall take effect on the date of the enactment of this Act [June 18, 2008]."
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
-Pub. L. 110–234, title XV, §15332(c), May 22, 2008, 122 Stat. 1516, and Pub. L. 110–246, §4(a), title XV, §15332(c), June 18, 2008, 122 Stat. 1664, 2278, provided that: “The amendments made by this section [amending this section and section 6426 of this title] shall apply to fuel sold or used after December 31, 2008.”
+Pub. L. 110–234, title XV, §15332(c), May 22, 2008, 122 Stat. 1516, and Pub. L. 110–246, §4(a), title XV, §15332(c), June 18, 2008, 122 Stat. 1664, 2278, provided that: "The amendments made by this section [amending this section and section 6426 of this title] shall apply to fuel sold or used after December 31, 2008."
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
 #### Effective Date of 2005 Amendment ####
 
-Pub. L. 109–58, title XIII, §1347(c), Aug. 8, 2005, 119 Stat. 1056, provided that: “The amendments made by this section [amending this section] shall apply to taxable years ending after the date of the enactment of this Act [Aug. 8, 2005].”
+Pub. L. 109–58, title XIII, §1347(c), Aug. 8, 2005, 119 Stat. 1056, provided that: "The amendments made by this section [amending this section] shall apply to taxable years ending after the date of the enactment of this Act [Aug. 8, 2005]."
 
 #### Effective Date of 2004 Amendment ####
 
 Pub. L. 108–357, title III, §301(d), Oct. 22, 2004, 118 Stat. 1463, provided that:
 
-“(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [enacting section 6426 of this title and amending this section and sections 4041, 4081, 4083, 4101, 6427, and 9503 of this title] shall apply to fuel sold or used after December 31, 2004.
+"(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [enacting section 6426 of this title and amending this section and sections 4041, 4081, 4083, 4101, 6427, and 9503 of this title] shall apply to fuel sold or used after December 31, 2004.
 
-“(2) Registration requirement.—The amendment made by subsection (b) [amending section 4101 of this title] shall take effect on April 1, 2005.
+"(2) Registration requirement.—The amendment made by subsection (b) [amending section 4101 of this title] shall take effect on April 1, 2005.
 
-“(3) Extension of alcohol fuels credit.—The amendments made by paragraphs (3), (4), and (14) of subsection (c) [amending this section] shall take effect on the date of the enactment of this Act [Oct. 22, 2004].
+"(3) Extension of alcohol fuels credit.—The amendments made by paragraphs (3), (4), and (14) of subsection (c) [amending this section] shall take effect on the date of the enactment of this Act [Oct. 22, 2004].
 
-“(4) Repeal of general fund retention of certain alcohol fuels taxes.—The amendments made by subsection (c)(12) [amending section 9503 of this title] shall apply to fuel sold or used after September 30, 2004.”
+"(4) Repeal of general fund retention of certain alcohol fuels taxes.—The amendments made by subsection (c)(12) [amending section 9503 of this title] shall apply to fuel sold or used after September 30, 2004."
 
-Pub. L. 108–357, title III, §313(b), Oct. 22, 2004, 118 Stat. 1468, provided that: “The amendment made by this section [amending this section] shall apply to taxable years ending after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title III, §313(b), Oct. 22, 2004, 118 Stat. 1468, provided that: "The amendment made by this section [amending this section] shall apply to taxable years ending after the date of the enactment of this Act [Oct. 22, 2004]."
 
 #### Effective Date of 1998 Amendment ####
 
-Pub. L. 105–178, title IX, §9003(b)(3), June 9, 1998, 112 Stat. 503, provided that: “The amendments made by this subsection [amending this section and sections 4041, 4081, and 4091 of this title] shall take effect on January 1, 2001.”
+Pub. L. 105–178, title IX, §9003(b)(3), June 9, 1998, 112 Stat. 503, provided that: "The amendments made by this subsection [amending this section and sections 4041, 4081, and 4091 of this title] shall take effect on January 1, 2001."
 
 #### Effective Date of 1996 Amendment ####
 
@@ -647,19 +647,19 @@ Amendment by Pub. L. 104–188 effective as if included in the provision of the 
 
 Pub. L. 101–508, title XI, §11502(h), Nov. 5, 1990, 104 Stat. 1388–482, provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply to alcohol produced, and sold or used, in taxable years beginning after December 31, 1990.
+"(1) Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply to alcohol produced, and sold or used, in taxable years beginning after December 31, 1990.
 
-“(2) The amendments made by subsection (g) [amending provisions not classified to the Code] shall apply to articles entered or withdrawn from warehouse on or after January 1, 1991.”
+"(2) The amendments made by subsection (g) [amending provisions not classified to the Code] shall apply to articles entered or withdrawn from warehouse on or after January 1, 1991."
 
 #### Effective Date of 1987 Amendment ####
 
-Pub. L. 100–203, title X, §10502(e), Dec. 22, 1987, 101 Stat. 1330–445, provided that: “The amendments made by this section [enacting sections 4091 to 4093 of this title, amending this section and sections 4041, 4081, 4101, 4221, 6206, 6416, 6421, 6427, 6652, 9502, 9503, and 9508 of this title, and enacting provisions set out as notes under sections 4091 and 9502 of this title] shall apply to sales after March 31, 1988.”
+Pub. L. 100–203, title X, §10502(e), Dec. 22, 1987, 101 Stat. 1330–445, provided that: "The amendments made by this section [enacting sections 4091 to 4093 of this title, amending this section and sections 4041, 4081, 4101, 4221, 6206, 6416, 6421, 6427, 6652, 9502, 9503, and 9508 of this title, and enacting provisions set out as notes under sections 4091 and 9502 of this title] shall apply to sales after March 31, 1988."
 
 #### Effective Date of 1984 Amendment ####
 
 Amendment by section 474(k) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
-Pub. L. 98–369, div. A, title IX, §912(g), July 18, 1984, 98 Stat. 1008, provided that: “The amendments made by this section [amending this section and sections 4041, 4081, and 6427 of this title] shall take effect on January 1, 1985.”
+Pub. L. 98–369, div. A, title IX, §912(g), July 18, 1984, 98 Stat. 1008, provided that: "The amendments made by this section [amending this section and sections 4041, 4081, and 6427 of this title] shall take effect on January 1, 1985."
 
 Amendment by section 913(b) of Pub. L. 98–369 effective Aug. 1, 1984, see section 913(c) of Pub. L. 98–369, set out as a note under section 4041 of this title.
 
@@ -679,8 +679,8 @@ Amendment by Pub. L. 97–34 applicable to unused credit years ending after Sept
 
 Pub. L. 96–223, title II, §232(h)(1), (4), Apr. 2, 1980, 94 Stat. 281, as amended by Pub. L. 97–448, title II, §202(e), Jan. 12, 1983, 96 Stat. 2396, provided that:
 
-“(1) The amendments made by subsections (b) and (c) [enacting sections 44E [now 40] and 86 of this title and amending sections 55, 381, 383, 4081, and 6096 of this title] shall apply to sales or uses after September 30, 1980, in taxable years ending after such date.
+"(1) The amendments made by subsections (b) and (c) [enacting sections 44E [now 40] and 86 of this title and amending sections 55, 381, 383, 4081, and 6096 of this title] shall apply to sales or uses after September 30, 1980, in taxable years ending after such date.
 
-“(4) Notwithstanding paragraph (1), the provisions of section 44E(d)(4)(B) [now 40(d)(4)(B)] of such Code, as added by this section, shall take effect on April 2, 1980.”
+"(4) Notwithstanding paragraph (1), the provisions of section 44E(d)(4)(B) [now 40(d)(4)(B)] of such Code, as added by this section, shall take effect on April 2, 1980."
 
-[<sup>1</sup> So in original. Probably should be “Aggregation”.](#40_1)
+[<sup>1</sup> So in original. Probably should be "Aggregation".](#40_1)

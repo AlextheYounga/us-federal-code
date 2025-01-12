@@ -70,12 +70,12 @@ Subsec. (b)(4). Pub. L. 96–462, §3(a)(2), struck out references to Fremont an
 
 Amendment by Pub. L. 96–462 effective Oct. 1, 1981, but not to affect the composition or preclude the service of any grand or petit juror summoned, empaneled, or actually serving in any judicial district on Oct. 1, 1981, see section 7 of Pub. L. 96–462, set out as a note under section 84 of this title.
 
-Pub. L. 96–462, §3(b), Oct. 15, 1980, 94 Stat. 2053, provided that: “The amendments made by subsection (a) [amending this section] shall not apply to any action commenced before the effective date of such amendments [Oct. 1, 1981] and pending in the United States District Court for the Southern District of Iowa on such date.”
+Pub. L. 96–462, §3(b), Oct. 15, 1980, 94 Stat. 2053, provided that: "The amendments made by subsection (a) [amending this section] shall not apply to any action commenced before the effective date of such amendments [Oct. 1, 1981] and pending in the United States District Court for the Southern District of Iowa on such date."
 
 #### Holding Court for the Southern District of Iowa ####
 
-Pub. L. 107–273, div. C, title I, §11029, Nov. 2, 2002, 116 Stat. 1836, as amended by Pub. L. 108–455, §1, Dec. 10, 2004, 118 Stat. 3628, provided that: “Notwithstanding any other provision of law, during the period beginning on January 1, 2003, through July 1, 2006, the United States District Court for the Southern District of Iowa may—
+Pub. L. 107–273, div. C, title I, §11029, Nov. 2, 2002, 116 Stat. 1836, as amended by Pub. L. 108–455, §1, Dec. 10, 2004, 118 Stat. 3628, provided that: "Notwithstanding any other provision of law, during the period beginning on January 1, 2003, through July 1, 2006, the United States District Court for the Southern District of Iowa may—
 
-“(1) with the consent of the parties in any case filed in the Eastern Division or the Davenport Division of the Southern District of Iowa, hold court on that case in Rock Island, Illinois; and
+"(1) with the consent of the parties in any case filed in the Eastern Division or the Davenport Division of the Southern District of Iowa, hold court on that case in Rock Island, Illinois; and
 
-“(2) summon jurors from the Southern District of Iowa to serve in any case described under paragraph (1).”
+"(2) summon jurors from the Southern District of Iowa to serve in any case described under paragraph (1)."

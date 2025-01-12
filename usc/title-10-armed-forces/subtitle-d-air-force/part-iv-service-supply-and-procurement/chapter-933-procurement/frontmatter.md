@@ -18,6 +18,6 @@ Sec.
 
 #### Amendments ####
 
-**1993**—Pub. L. 103–160, div. A, title VIII, §828(a)(9), Nov. 30, 1993, 107 Stat. 1713, struck out items 9531, “Authorization”, 9534, “Subsistence supplies: contract stipulations; place of delivery on inspection”, 9535, “Exceptional subsistence supplies: purchases without advertising”, 9537, “Military surveys and maps: assistance of United States mapping agencies”, 9538, “Unserviceable ammunition: exchange and reclamation”, and 9541, “Gratuitous services of officers of the Air Force Reserve”.
+**1993**—Pub. L. 103–160, div. A, title VIII, §828(a)(9), Nov. 30, 1993, 107 Stat. 1713, struck out items 9531, "Authorization", 9534, "Subsistence supplies: contract stipulations; place of delivery on inspection", 9535, "Exceptional subsistence supplies: purchases without advertising", 9537, "Military surveys and maps: assistance of United States mapping agencies", 9538, "Unserviceable ammunition: exchange and reclamation", and 9541, "Gratuitous services of officers of the Air Force Reserve".
 
 **1982**—Pub. L. 97–258, §2(b)(13)(A), Sept. 13, 1982, 96 Stat. 1058, added item 9541.

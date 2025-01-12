@@ -14,7 +14,7 @@ It is therefore the declared policy of the United States—
 
 #### Amendments ####
 
-**1988**—Pub. L. 100–418 amended section generally. Prior to amendment, section read as follows: “It is therefore declared that the policy of the United States shall be to coordinate and plan the increasing use of the metric system in the United States and to establish a United States Metric Board to coordinate the voluntary conversion to the metric system.”
+**1988**—Pub. L. 100–418 amended section generally. Prior to amendment, section read as follows: "It is therefore declared that the policy of the United States shall be to coordinate and plan the increasing use of the metric system in the United States and to establish a United States Metric Board to coordinate the voluntary conversion to the metric system."
 
 #### Implementation of Metric Usage in Federal Government ####
 

@@ -36,13 +36,13 @@ A prior section 395 of act July 1, 1944, ch. 373, title III, formerly §397, as 
 
 #### Amendments ####
 
-**1991**—Subsec. (a)(1). Pub. L. 102–108 inserted “skilled medical services,” after “if”.
+**1991**—Subsec. (a)(1). Pub. L. 102–108 inserted "skilled medical services," after "if".
 
-**1990**—Subsec. (a). Pub. L. 101–557, §101(a), substituted “shall make not less than 5, and not more than 20, grants” for “shall make not less than 3, and not more than 5, grants”.
+**1990**—Subsec. (a). Pub. L. 101–557, §101(a), substituted "shall make not less than 5, and not more than 20, grants" for "shall make not less than 3, and not more than 5, grants".
 
-Subsec. (a)(1). Pub. L. 101–557, §101(b), substituted “skilled nursing care services, homemaker or home health aide services, or personal care services are provided in the homes of the individuals” for “skilled medical services or related health services (or both) are provided in the homes of the individuals”.
+Subsec. (a)(1). Pub. L. 101–557, §101(b), substituted "skilled nursing care services, homemaker or home health aide services, or personal care services are provided in the homes of the individuals" for "skilled medical services or related health services (or both) are provided in the homes of the individuals".
 
-Subsec. (b). Pub. L. 101–557, §101(c), substituted “to ensure that—” and pars. (1) and (2) for “to ensure that not less than 25 percent of individuals receiving services pursuant to subsection (a) of this section are individuals who are not less than 65 years of age”.
+Subsec. (b). Pub. L. 101–557, §101(c), substituted "to ensure that—" and pars. (1) and (2) for "to ensure that not less than 25 percent of individuals receiving services pursuant to subsection (a) of this section are individuals who are not less than 65 years of age".
 
 #### Effective Date ####
 
@@ -50,4 +50,4 @@ Part effective Oct. 1, 1987, see section 701(a) of Pub. L. 100–175, set out as
 
 #### Short Title ####
 
-For short title of title VI of Pub. L. 100–175, which enacted this part as the “Health Care Services in the Home Act of 1987”, see section 601 of Pub. L. 100–175, set out as a Short Title of 1987 Amendments note under section 201 of this title.
+For short title of title VI of Pub. L. 100–175, which enacted this part as the "Health Care Services in the Home Act of 1987", see section 601 of Pub. L. 100–175, set out as a Short Title of 1987 Amendments note under section 201 of this title.

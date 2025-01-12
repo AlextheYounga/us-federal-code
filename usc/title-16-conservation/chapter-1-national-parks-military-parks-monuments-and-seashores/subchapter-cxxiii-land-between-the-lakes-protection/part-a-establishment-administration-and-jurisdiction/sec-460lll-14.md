@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-For purposes of section 204 <sup><a href="#460lll-14_1_target" name="460lll-14_1">1</a></sup> of title 23, the road known as “The Trace” and every other paved road within the Recreation Area (including any road constructed to secondary standards) shall be considered to be a forest highway.
+For purposes of section 204 <sup><a href="#460lll-14_1_target" name="460lll-14_1">1</a></sup> of title 23, the road known as "The Trace" and every other paved road within the Recreation Area (including any road constructed to secondary standards) shall be considered to be a forest highway.
 
 #### (b) State responsibility ####
 

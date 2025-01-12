@@ -6,7 +6,7 @@ Section 45a, act Jan. 12, 1938, ch. 2, §2, 52 Stat. 3, related to photographing
 
 Section 45b, act Jan. 12, 1938, ch. 2, §3, 52 Stat. 3, related to reproducing, publishing, selling uncensored copies. See section 797 of Title 18.
 
-Section 45c, act Jan. 12, 1938, ch. 2, §4, 52 Stat. 4, related to definitions of “aircraft”, “post”, “camp”, and “station”. See sections 795 and 796 of Title 18.
+Section 45c, act Jan. 12, 1938, ch. 2, §4, 52 Stat. 4, related to definitions of "aircraft", "post", "camp", and "station". See sections 795 and 796 of Title 18.
 
 Section 45d, act Jan. 12, 1938, ch. 2, §5, 52 Stat. 4, related to geographical application of law.
 

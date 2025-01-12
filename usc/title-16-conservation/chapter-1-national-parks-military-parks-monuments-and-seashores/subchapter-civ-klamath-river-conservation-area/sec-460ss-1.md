@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-The Secretary shall designate the anadromous fish habitats and resources of the Klamath River basin as the Klamath River Basin Conservation Area (hereafter in this subchapter referred to as the “Area”).
+The Secretary shall designate the anadromous fish habitats and resources of the Klamath River basin as the Klamath River Basin Conservation Area (hereafter in this subchapter referred to as the "Area").
 
 #### (b) Restoration program ####
 

@@ -8,13 +8,13 @@ Section 613, Pub. L. 85–926, §3, Sept. 6, 1958, 72 Stat. 1777; Pub. L. 88–1
 
 Section 614, Pub. L. 85–926, §4, Sept. 6, 1958, 72 Stat. 1777, required submission of report to Commissioner, including financial statement.
 
-Section 615, Pub. L. 85–926, §5, Sept. 6, 1958, 72 Stat. 1777; Pub. L. 89–105, §7, Aug. 4, 1965, 79 Stat. 430, defined terms “nonprofit institution”, “State educational agency” and “State”.
+Section 615, Pub. L. 85–926, §5, Sept. 6, 1958, 72 Stat. 1777; Pub. L. 89–105, §7, Aug. 4, 1965, 79 Stat. 430, defined terms "nonprofit institution", "State educational agency" and "State".
 
 Section 616, Pub. L. 85–926, §6, Sept. 6, 1958, 72 Stat. 1777, authorized delegation of functions.
 
 Section 617, Pub. L. 85–926, §7, Sept. 6, 1958, 72 Stat. 1777; Pub. L. 88–164, title III, §301(a)(4), Oct. 31, 1963, 77 Stat. 294; Pub. L. 89–105, §8, Aug. 4, 1965, 79 Stat. 430; Pub. L. 90–170, §6, Dec. 4, 1967, 81 Stat. 530, authorized appropriations of $19,500,000; $29,500,000; $34,000,000; $37,500,000; and $55,000,000 for fiscal years ending June 30, 1966, 1967, 1968, 1969, and 1970, respectively.
 
-Section 618, Pub. L. 88–164, title III, §302, Oct. 31, 1963, 77 Stat. 295; Pub. L. 89–105, §§4, 5, Aug. 4, 1965, 79 Stat. 429, 430; Pub. L. 90–247, title I, §156, Jan. 2, 1968, 81 Stat. 805, related to research and demonstration projects: authorization of appropriations, installments, advances, or reimbursements, and conditions; advisory committees; panel or experts; compensation and travel expenses; delegation of functions; construction, equipping and operation of facilities; wages of laborers and authority and functions of Secretary of Labor; definition of “construction” and “cost of construction”; and definition of “research and related purposes”.
+Section 618, Pub. L. 88–164, title III, §302, Oct. 31, 1963, 77 Stat. 295; Pub. L. 89–105, §§4, 5, Aug. 4, 1965, 79 Stat. 429, 430; Pub. L. 90–247, title I, §156, Jan. 2, 1968, 81 Stat. 805, related to research and demonstration projects: authorization of appropriations, installments, advances, or reimbursements, and conditions; advisory committees; panel or experts; compensation and travel expenses; delegation of functions; construction, equipping and operation of facilities; wages of laborers and authority and functions of Secretary of Labor; definition of "construction" and "cost of construction"; and definition of "research and related purposes".
 
 #### Effective Date of Repeal ####
 

@@ -46,7 +46,7 @@ Sec.
 
 610. Administration.
 
-611. “Basic agricultural commodity” defined; exclusion of commodities.
+611. "Basic agricultural commodity" defined; exclusion of commodities.
 
 612. Appropriation; use of revenues; administrative expenses.
 

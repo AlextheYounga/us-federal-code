@@ -20,12 +20,12 @@
 |--------------------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 |            6             |      36:174.       |June 22, 1942, ch. 435, §2, 56 Stat. 378; Dec. 22, 1942, ch. 806, §2, 56 Stat. 1074; July 7, 1976, Pub. L. 94–344, (2)–(5), 90 Stat. 810.|
 
-In subsection (d), the words “Veterans Day” are substituted for “Armistice Day” because of the Act of June 1, 1954 (ch. 250, 68 Stat. 168).
+In subsection (d), the words "Veterans Day" are substituted for "Armistice Day" because of the Act of June 1, 1954 (ch. 250, 68 Stat. 168).
 
 #### Amendments ####
 
-**2009**—Subsec. (d). Pub. L. 111–41 inserted “National Korean War Veterans Armistice Day, July 27;” after “July 4;”.
+**2009**—Subsec. (d). Pub. L. 111–41 inserted "National Korean War Veterans Armistice Day, July 27;" after "July 4;".
 
-**2008**—Subsec. (d). Pub. L. 110–239 inserted “Father's Day, third Sunday in June;” after “Flag Day, June 14;”.
+**2008**—Subsec. (d). Pub. L. 110–239 inserted "Father's Day, third Sunday in June;" after "Flag Day, June 14;".
 
-**1999**—Subsec. (d). Pub. L. 106–80 inserted “Martin Luther King Jr.'s birthday, third Monday in January;” after “January 20;”.
+**1999**—Subsec. (d). Pub. L. 106–80 inserted "Martin Luther King Jr.'s birthday, third Monday in January;" after "January 20;".

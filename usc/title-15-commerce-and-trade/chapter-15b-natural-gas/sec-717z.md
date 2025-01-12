@@ -52,11 +52,11 @@ The President shall exempt any electric powerplant or major fuel-burning install
 
 For purposes of this section—
 
-(1) The terms “electric powerplant”, “powerplant”, “major fuel-burning installation”, and “installation” shall have the same meanings as such terms have under section 8302 of title 42.
+(1) The terms "electric powerplant", "powerplant", "major fuel-burning installation", and "installation" shall have the same meanings as such terms have under section 8302 of title 42.
 
-(2) The term “petroleum products” means crude oil, or any product derived from crude oil other than propane.
+(2) The term "petroleum products" means crude oil, or any product derived from crude oil other than propane.
 
-(3) The term “high priority use” means any—
+(3) The term "high priority use" means any—
 
 (A) use of natural gas in a residence;
 
@@ -64,11 +64,11 @@ For purposes of this section—
 
 (C) any use of natural gas the curtailment of which the President determines would endanger life, health, or maintenance of physical property.
 
-(4) The term “Mcf”, when used with respect to natural gas, means 1,000 cubic feet of natural gas measured at a pressure of 14.73 pounds per square inch (absolute) and a temperature of 60 degrees Fahrenheit.
+(4) The term "Mcf", when used with respect to natural gas, means 1,000 cubic feet of natural gas measured at a pressure of 14.73 pounds per square inch (absolute) and a temperature of 60 degrees Fahrenheit.
 
 #### (i) Use of general terms ####
 
-In applying the provisions of this section in the case of natural gas subject to a prohibition order issued under this section, the term “petroleum products” (as defined in subsection (h)(2) of this section) shall be substituted for the term “heavy petroleum fuel oil” (as defined in section 717y(e)(7) of this title) if the person subject to any order under this section demonstrates to the Commission that the acquisition and use of heavy petroleum fuel oil is not technically or economically feasible.
+In applying the provisions of this section in the case of natural gas subject to a prohibition order issued under this section, the term "petroleum products" (as defined in subsection (h)(2) of this section) shall be substituted for the term "heavy petroleum fuel oil" (as defined in section 717y(e)(7) of this title) if the person subject to any order under this section demonstrates to the Commission that the acquisition and use of heavy petroleum fuel oil is not technically or economically feasible.
 
 (Pub. L. 95–617, title VI, §607, Nov. 9, 1978, 92 Stat. 3171.)
 

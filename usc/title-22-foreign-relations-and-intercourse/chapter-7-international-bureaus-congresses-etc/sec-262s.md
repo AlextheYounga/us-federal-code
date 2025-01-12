@@ -12,11 +12,11 @@ The Secretary of the Treasury shall designate, within the Office of Internationa
 
 #### (2) Function ####
 
-The officer shall act as the liaison between the Department of the Treasury, the Department of Commerce, and the United States Executive Directors’ offices in the multilateral development banks, in carrying out this section. The officer shall cooperate with the Department of Commerce in efforts to improve opportunities for multilateral development bank procurement by United States companies.
+The officer shall act as the liaison between the Department of the Treasury, the Department of Commerce, and the United States Executive Directors' offices in the multilateral development banks, in carrying out this section. The officer shall cooperate with the Department of Commerce in efforts to improve opportunities for multilateral development bank procurement by United States companies.
 
-#### (b) <sup><a href="#262s_1_target" name="262s_1">1</a></sup> “Multilateral development bank” defined ####
+#### (b) <sup><a href="#262s_1_target" name="262s_1">1</a></sup> "Multilateral development bank" defined ####
 
-As used in this section, the term “multilateral development bank” includes the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the InterAmerican Investment Corporation, the Asian Development Bank, the African Development Bank, and the African Development Fund.
+As used in this section, the term "multilateral development bank" includes the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the InterAmerican Investment Corporation, the Asian Development Bank, the African Development Bank, and the African Development Fund.
 
 (Pub. L. 95–118, title XVIII, §1801, formerly Pub. L. 100–418, title III, §3202, Aug. 23, 1988, 102 Stat. 1382; renumbered §1801 of Pub. L. 95–118, Pub. L. 101–240, title V, §541(b)(1), Dec. 19, 1989, 103 Stat. 2517.)
 
@@ -26,7 +26,7 @@ Section was formerly classified to section 262q of this title prior to renumberi
 
 #### Short Title ####
 
-Pub. L. 100–418, title III, §3201, Aug. 23, 1988, 102 Stat. 1382, provided that: “This subtitle [subtitle C (§§3201, 3202) of title III of Pub. L. 100–418, enacting former section 262q of this title] may be cited as the ‘Multilateral Development Banks Procurement Act of 1988’.”
+Pub. L. 100–418, title III, §3201, Aug. 23, 1988, 102 Stat. 1382, provided that: "This subtitle [subtitle C (§§3201, 3202) of title III of Pub. L. 100–418, enacting former section 262q of this title] may be cited as the 'Multilateral Development Banks Procurement Act of 1988'."
 
 #### Definitions ####
 

@@ -24,7 +24,7 @@ Section 4223(h) of the Employee Retirement Income Security Act of 1974, referred
 
 #### Effective Date of 1983 Amendment ####
 
-Pub. L. 97–448, title III, §311(c)(2), Jan. 12, 1983, 96 Stat. 2411, provided that: “The amendments made by subsection (b) of section 305 [redesignating section 194 of this title, relating to contributions to employer liability trusts, as this section] shall take effect on October 14, 1980.”
+Pub. L. 97–448, title III, §311(c)(2), Jan. 12, 1983, 96 Stat. 2411, provided that: "The amendments made by subsection (b) of section 305 [redesignating section 194 of this title, relating to contributions to employer liability trusts, as this section] shall take effect on October 14, 1980."
 
 #### Effective Date ####
 

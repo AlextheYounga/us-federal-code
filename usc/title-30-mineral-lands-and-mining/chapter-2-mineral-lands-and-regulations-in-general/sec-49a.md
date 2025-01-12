@@ -14,7 +14,7 @@ Section was formerly classified to section 381 of Title 48, Territories and Insu
 
 #### Amendments ####
 
-**1958**—Pub. L. 85–662 substituted “fish and game” for “fisheries” in three places, and inserted provisions permitting mining for all metals in Chilkat River, and its tributaries, within two and three-tenths miles of United States survey numbered 991.
+**1958**—Pub. L. 85–662 substituted "fish and game" for "fisheries" in three places, and inserted provisions permitting mining for all metals in Chilkat River, and its tributaries, within two and three-tenths miles of United States survey numbered 991.
 
 **1947**—Act Aug. 8, 1947, permitted exploration for and mining of gold and other precious metals in beds of navigable streams.
 
@@ -26,6 +26,6 @@ Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of
 
 #### Non-Impairment of Valid Claims and Rights ####
 
-Act Aug. 8, 1947, ch. 514, §2, 61 Stat. 916, provided: “Nothing in this Act [amending this section] shall be deemed to affect or impair any valid claims, rights or privileges, including possessory claims under the first proviso of section 8 of the Act of May 17, 1884 (23 Stat. 26) [25 U.S.C. 280a], arising under any other provision of law.”
+Act Aug. 8, 1947, ch. 514, §2, 61 Stat. 916, provided: "Nothing in this Act [amending this section] shall be deemed to affect or impair any valid claims, rights or privileges, including possessory claims under the first proviso of section 8 of the Act of May 17, 1884 (23 Stat. 26) [25 U.S.C. 280a], arising under any other provision of law."
 
 [<sup>1</sup> See References in Text note below.](#49a_1)

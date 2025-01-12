@@ -10,13 +10,13 @@ The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oc
 
 #### Amendments ####
 
-**1986**—Pub. L. 99–272 inserted “late payment penalties, and interest earned from the investment of such funds,” in ninth sentence, substituted “The fees and charges authorized in this section shall be assessed” for “Such fees and charges shall be assessed”, and inserted provision relating to the investment of any funds realized from collection of fees or charges in insured or fully collateralized, interest-bearing accounts or in United States Government debt instruments, the income therefrom to be used to pay expenses incident to providing services under this chapter or reinvested.
+**1986**—Pub. L. 99–272 inserted "late payment penalties, and interest earned from the investment of such funds," in ninth sentence, substituted "The fees and charges authorized in this section shall be assessed" for "Such fees and charges shall be assessed", and inserted provision relating to the investment of any funds realized from collection of fees or charges in insured or fully collateralized, interest-bearing accounts or in United States Government debt instruments, the income therefrom to be used to pay expenses incident to providing services under this chapter or reinvested.
 
 **1981**—Pub. L. 97–35 substituted provisions requiring the Secretary to fix and collect fees and charges for inspection, certification, establishment of standards, and other services at designated auction markets, for provisions prohibiting imposition or collection of fees or charges for inspection or certification at markets.
 
 #### Effective Date of 1981 Amendment ####
 
-Pub. L. 97–35, title I, §157(b), Aug. 13, 1981, 95 Stat. 375, provided that: “The provisions of this section [amending this section and section 511e of this title] shall become effective October 1, 1981.”
+Pub. L. 97–35, title I, §157(b), Aug. 13, 1981, 95 Stat. 375, provided that: "The provisions of this section [amending this section and section 511e of this title] shall become effective October 1, 1981."
 
 #### Abolition of Offices and Transfer of Functions ####
 

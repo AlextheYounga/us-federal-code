@@ -48,23 +48,23 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments ####
 
-**2010**—Subsec. (a)(2). Pub. L. 111–203, §741(b)(1)(A), substituted “or swap,” for “or other agreement, contract, or transaction subject to paragraphs (1) and (2) of section 7a(g) of this title,”.
+**2010**—Subsec. (a)(2). Pub. L. 111–203, §741(b)(1)(A), substituted "or swap," for "or other agreement, contract, or transaction subject to paragraphs (1) and (2) of section 7a(g) of this title,".
 
-Subsec. (b). Pub. L. 111–203, §741(b)(1)(B), substituted “or swap,” for “or other agreement, contract or transaction subject to paragraphs (1) and (2) of section 7a(g) of this title,”.
+Subsec. (b). Pub. L. 111–203, §741(b)(1)(B), substituted "or swap," for "or other agreement, contract or transaction subject to paragraphs (1) and (2) of section 7a(g) of this title,".
 
 Subsec. (e). Pub. L. 111–203, §741(b)(1)(C), added subsec. (e).
 
 **2008**—Pub. L. 110–246, §13102, inserted section catchline, added subsecs. (a) and (b), redesignated former subsecs. (b) and (c) as (c) and (d), respectively, and struck out former subsec. (a) which related to contracts designed to defraud or mislead and bucketing orders.
 
-**2000**—Subsec. (a)(1). Pub. L. 106–554 substituted “registered entity” for “contract market” in two places.
+**2000**—Subsec. (a)(1). Pub. L. 106–554 substituted "registered entity" for "contract market" in two places.
 
 **1992**—Pub. L. 102–546 designated first par. as subsec. (a), redesignated cls. (a) to (c) as subpars. (A) to (C), respectively, and subpars. (A) to (D) as cls. (i) to (iv), respectively, and designated second and third undesignated pars. as subsecs. (b) and (c), respectively.
 
-**1986**—Pub. L. 99–641 struck out “on or subject to the rules of any contract market,” after “to be made” in cl. (2) of first par. and added concluding paragraph that this section not apply to activity on board of trade, exchange, market, or clearinghouse located outside United States involving contract of sale of commodity for future delivery.
+**1986**—Pub. L. 99–641 struck out "on or subject to the rules of any contract market," after "to be made" in cl. (2) of first par. and added concluding paragraph that this section not apply to activity on board of trade, exchange, market, or clearinghouse located outside United States involving contract of sale of commodity for future delivery.
 
-**1974**—Pub. L. 93–463 substituted “a commodity” for “cotton” in provisions following subpar. (D) and inserted requirement that execution of buying and selling orders for commodities held simultaneously by the same merchant or broker be carried out in accordance with such rules and regulations as the Commission may promulgate regarding the manner of the execution of such transactions.
+**1974**—Pub. L. 93–463 substituted "a commodity" for "cotton" in provisions following subpar. (D) and inserted requirement that execution of buying and selling orders for commodities held simultaneously by the same merchant or broker be carried out in accordance with such rules and regulations as the Commission may promulgate regarding the manner of the execution of such transactions.
 
-**1968**—Pub. L. 90–258 relocated cl. (1) designation in first par. to follow “unlawful” rather than to precede “any contract of sale”, provided in such cl. (1) for orders to make or making of contracts of sale “made, or to be made on or subject to the rules of any contract market, for or on behalf of any other person” and in cl. (2) “for any person, in or in connection with any order to make, or the making of,” any contract of sale of any commodity for future delivery for or on behalf of any “other” person; and inserted “other” before “person” in subpar. (A) and in subpars. (B) and (C) where appearing for first time, respectively.
+**1968**—Pub. L. 90–258 relocated cl. (1) designation in first par. to follow "unlawful" rather than to precede "any contract of sale", provided in such cl. (1) for orders to make or making of contracts of sale "made, or to be made on or subject to the rules of any contract market, for or on behalf of any other person" and in cl. (2) "for any person, in or in connection with any order to make, or the making of," any contract of sale of any commodity for future delivery for or on behalf of any "other" person; and inserted "other" before "person" in subpar. (A) and in subpars. (B) and (C) where appearing for first time, respectively.
 
 #### Effective Date of 2010 Amendment ####
 

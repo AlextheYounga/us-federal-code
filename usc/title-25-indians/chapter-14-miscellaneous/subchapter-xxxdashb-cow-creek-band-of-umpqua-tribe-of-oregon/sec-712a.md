@@ -24,4 +24,4 @@ Act approved August 13, 1954, referred to in subsecs. (a) and (b), is act Aug. 1
 
 #### Amendments ####
 
-**1987**—Subsec. (a). Pub. L. 100–139 substituted “Umpqua Tribe of Indians” for “Umpqua Tribe of Oregon”.
+**1987**—Subsec. (a). Pub. L. 100–139 substituted "Umpqua Tribe of Indians" for "Umpqua Tribe of Oregon".

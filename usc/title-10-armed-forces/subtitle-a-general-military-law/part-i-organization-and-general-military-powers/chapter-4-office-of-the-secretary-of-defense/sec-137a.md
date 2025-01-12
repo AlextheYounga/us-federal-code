@@ -22,25 +22,25 @@
 
 #### Amendments ####
 
-**2011**—Pub. L. 111–383, §901(k)(1)(A), substituted “Principal Deputy Under Secretaries of Defense” for “Deputy Under Secretaries of Defense” in section catchline.
+**2011**—Pub. L. 111–383, §901(k)(1)(A), substituted "Principal Deputy Under Secretaries of Defense" for "Deputy Under Secretaries of Defense" in section catchline.
 
-Subsec. (a)(1). Pub. L. 111–383, §901(b)(3)(A), substituted “Principal Deputy Under” for “Deputy Under”.
+Subsec. (a)(1). Pub. L. 111–383, §901(b)(3)(A), substituted "Principal Deputy Under" for "Deputy Under".
 
-Subsec. (a)(2). Pub. L. 111–383, §901(b)(3)(B), struck out subpar. (A) and subpar. (B) designation and substituted “The Principal Deputy Under Secretaries of Defense” for “The Deputy Under Secretaries of Defense referred to in paragraphs (4) and (5) of subsection (c)”. Prior to amendment, subpar. (A) read as follows: “The Deputy Under Secretaries of Defense referred to in paragraphs (1) through (3) of subsection (c) shall be appointed as provided in the applicable paragraph.”
+Subsec. (a)(2). Pub. L. 111–383, §901(b)(3)(B), struck out subpar. (A) and subpar. (B) designation and substituted "The Principal Deputy Under Secretaries of Defense" for "The Deputy Under Secretaries of Defense referred to in paragraphs (4) and (5) of subsection (c)". Prior to amendment, subpar. (A) read as follows: "The Deputy Under Secretaries of Defense referred to in paragraphs (1) through (3) of subsection (c) shall be appointed as provided in the applicable paragraph."
 
-Subsec. (b). Pub. L. 111–383, §901(b)(3)(A), substituted “Principal Deputy Under” for “Deputy Under”.
+Subsec. (b). Pub. L. 111–383, §901(b)(3)(A), substituted "Principal Deputy Under" for "Deputy Under".
 
-Subsec. (c)(1). Pub. L. 111–383, §901(b)(3)(C)(i), (ii), substituted “One of the Principal Deputy” for “One of the Deputy” and struck out “appointed pursuant to section 133a of this title” after “Logistics”.
+Subsec. (c)(1). Pub. L. 111–383, §901(b)(3)(C)(i), (ii), substituted "One of the Principal Deputy" for "One of the Deputy" and struck out "appointed pursuant to section 133a of this title" after "Logistics".
 
-Subsec. (c)(2). Pub. L. 111–383, §901(b)(3)(C)(i), (ii), substituted “One of the Principal Deputy” for “One of the Deputy” and struck out “appointed pursuant to section 134a of this title” after “Policy”.
+Subsec. (c)(2). Pub. L. 111–383, §901(b)(3)(C)(i), (ii), substituted "One of the Principal Deputy" for "One of the Deputy" and struck out "appointed pursuant to section 134a of this title" after "Policy".
 
-Subsec. (c)(3). Pub. L. 111–383, §901(b)(3)(C)(i), (ii), substituted “One of the Principal Deputy” for “One of the Deputy” and struck out “appointed pursuant to section 136a of this title” after “Readiness”.
+Subsec. (c)(3). Pub. L. 111–383, §901(b)(3)(C)(i), (ii), substituted "One of the Principal Deputy" for "One of the Deputy" and struck out "appointed pursuant to section 136a of this title" after "Readiness".
 
-Subsec. (c)(4). Pub. L. 111–383, §901(b)(3)(C)(i), (iii), substituted “One of the Principal Deputy Under Secretaries is” for “One of the Deputy Under Secretaries shall be”.
+Subsec. (c)(4). Pub. L. 111–383, §901(b)(3)(C)(i), (iii), substituted "One of the Principal Deputy Under Secretaries is" for "One of the Deputy Under Secretaries shall be".
 
-Subsec. (c)(5). Pub. L. 111–383, §901(b)(3)(C)(i), (iii), (iv), substituted “One of the Principal Deputy Under Secretaries is” for “One of the Deputy Under Secretaries shall be” and inserted before period at end “, who shall be appointed from among persons who have extensive expertise in intelligence matters”.
+Subsec. (c)(5). Pub. L. 111–383, §901(b)(3)(C)(i), (iii), (iv), substituted "One of the Principal Deputy Under Secretaries is" for "One of the Deputy Under Secretaries shall be" and inserted before period at end ", who shall be appointed from among persons who have extensive expertise in intelligence matters".
 
-Subsec. (d). Pub. L. 111–383, §901(b)(3)(A), (D), substituted “Principal Deputy Under” for “Deputy Under” and inserted at end “The Principal Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.”
+Subsec. (d). Pub. L. 111–383, §901(b)(3)(A), (D), substituted "Principal Deputy Under" for "Deputy Under" and inserted at end "The Principal Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense."
 
 #### Effective Date of 2011 Amendment ####
 
@@ -50,18 +50,18 @@ Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub
 
 Pub. L. 111–84, div. A, title IX, §906(e), Oct. 28, 2009, 123 Stat. 2428, provided that:
 
-“(1) In general.—Notwithstanding the amendments made by this section [enacting this section and amending sections 133a, 134a, 136a, 138, and 138a of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees], the individual serving in a position specified in paragraph (2) on the day before the date of the enactment of this Act [Oct. 28, 2009] may continue to serve in such position without the requirement for appointment by the President, by and with the advice and consent of the Senate, for a period of up to four years after the date of the enactment of this Act.
+"(1) In general.—Notwithstanding the amendments made by this section [enacting this section and amending sections 133a, 134a, 136a, 138, and 138a of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees], the individual serving in a position specified in paragraph (2) on the day before the date of the enactment of this Act [Oct. 28, 2009] may continue to serve in such position without the requirement for appointment by the President, by and with the advice and consent of the Senate, for a period of up to four years after the date of the enactment of this Act.
 
-“(2) Covered positions.—The positions specified in this paragraph are the following:
+"(2) Covered positions.—The positions specified in this paragraph are the following:
 
-“(A) The Principal Deputy Under Secretary of Defense (Comptroller).
+"(A) The Principal Deputy Under Secretary of Defense (Comptroller).
 
-“(B) The Principal Deputy Under Secretary of Defense for Intelligence.”
+"(B) The Principal Deputy Under Secretary of Defense for Intelligence."
 
 #### Temporary Authority for Additional DUSDS ####
 
-Pub. L. 111–383, div. A, title IX, §901(i)(2), Jan. 7, 2011, 124 Stat. 4323, provided that: “During the period beginning on the date of the enactment of this Act [Jan. 7, 2011] and ending on January 1, 2015, the Secretary of Defense may, in the Secretary's discretion, appoint not more than five Deputy Under Secretaries of Defense in addition to the five Principal Deputy Under Secretaries of Defense authorized by section 137a of title 10, United States Code (as amended by subsection (b)(3)).”
+Pub. L. 111–383, div. A, title IX, §901(i)(2), Jan. 7, 2011, 124 Stat. 4323, provided that: "During the period beginning on the date of the enactment of this Act [Jan. 7, 2011] and ending on January 1, 2015, the Secretary of Defense may, in the Secretary's discretion, appoint not more than five Deputy Under Secretaries of Defense in addition to the five Principal Deputy Under Secretaries of Defense authorized by section 137a of title 10, United States Code (as amended by subsection (b)(3))."
 
 #### Delayed Limitation on Number of Deputy Under Secretaries of Defense ####
 
-Pub. L. 111–84, div. A, title IX, §906(a)(2), Oct. 28, 2009, 123 Stat. 2426, as amended by Pub. L. 111–383, div. A, title IX, §901(i)(1), Jan. 7, 2011, 124 Stat. 4323, provided that: “Effective as of January 1, 2015, the five Deputy Under Secretaries of Defense authorized by section 137a of title 10, United States Code (as added by paragraph (1)), shall be the only Deputy Under Secretaries of Defense.”
+Pub. L. 111–84, div. A, title IX, §906(a)(2), Oct. 28, 2009, 123 Stat. 2426, as amended by Pub. L. 111–383, div. A, title IX, §901(i)(1), Jan. 7, 2011, 124 Stat. 4323, provided that: "Effective as of January 1, 2015, the five Deputy Under Secretaries of Defense authorized by section 137a of title 10, United States Code (as added by paragraph (1)), shall be the only Deputy Under Secretaries of Defense."

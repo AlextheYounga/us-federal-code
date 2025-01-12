@@ -56,6 +56,6 @@ Section was not enacted as part of the Social Security Act which comprises this 
 
 #### Amendments ####
 
-**1968**—Subsec. (a)(2)(B). Pub. L. 90–248, §139, substituted “1966” for “1965”.
+**1968**—Subsec. (a)(2)(B). Pub. L. 90–248, §139, substituted "1966" for "1965".
 
-Subsec. (b)(3)(A), (C). Pub. L. 90–248, §403(h)(1), (2), substituted “chapter 89 of title 5” and “such chapter” for “the Federal Employees Health Benefits Act of 1959” and “such Act” in subpars. (A) and (C), respectively.
+Subsec. (b)(3)(A), (C). Pub. L. 90–248, §403(h)(1), (2), substituted "chapter 89 of title 5" and "such chapter" for "the Federal Employees Health Benefits Act of 1959" and "such Act" in subpars. (A) and (C), respectively.

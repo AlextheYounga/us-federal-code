@@ -10,7 +10,7 @@
 
 (b) Witnesses.—Each witness before a military commission under this chapter shall be examined on oath.
 
-(c) Oath Defined.—In this section, the term “oath” includes an affirmation.
+(c) Oath Defined.—In this section, the term "oath" includes an affirmation.
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2587.)
 

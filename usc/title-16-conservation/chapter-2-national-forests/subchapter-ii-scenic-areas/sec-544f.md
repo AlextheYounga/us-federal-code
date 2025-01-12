@@ -96,11 +96,11 @@ This subsection shall not apply to any land offered to the Secretary for acquisi
 
 #### Amendments ####
 
-**2000**—Subsec. (o). Pub. L. 106–291 designated existing provisions as par. (1), inserted par. heading, substituted “section 544g(e) of this title.” for “the Uniform Appraisal Standards for Federal Land Acquisitions (Interagency Land Acquisition Conference, 1973).” in first sentence, and added par. (2).
+**2000**—Subsec. (o). Pub. L. 106–291 designated existing provisions as par. (1), inserted par. heading, substituted "section 544g(e) of this title." for "the Uniform Appraisal Standards for Federal Land Acquisitions (Interagency Land Acquisition Conference, 1973)." in first sentence, and added par. (2).
 
 #### Administration, Operation, and Maintenance of Pierce National Wildlife Refuge and Little White Salmon National Fish Hatchery ####
 
-Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 418, provided in part that: “Notwithstanding the provisions of Public Law 99–663 [enacting sections 544 to 544p of this title and amending sections 1274 and 1276 of this title], which established the Columbia River Gorge National Scenic Area, the Pierce National Wildlife Refuge and the Little White Salmon National Fish Hatchery shall continue to be administered, operated and maintained in accordance with the provisions of the National Wildlife Refuge System Administration Act [16 U.S.C. 668dd, 668ee], Fish and Wildlife Coordination Act [16 U.S.C. 661 et seq.], and Fish and Wildlife Act of 1956 [16 U.S.C. 742a et seq.] by the U.S. Fish and Wildlife Service.”
+Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 418, provided in part that: "Notwithstanding the provisions of Public Law 99–663 [enacting sections 544 to 544p of this title and amending sections 1274 and 1276 of this title], which established the Columbia River Gorge National Scenic Area, the Pierce National Wildlife Refuge and the Little White Salmon National Fish Hatchery shall continue to be administered, operated and maintained in accordance with the provisions of the National Wildlife Refuge System Administration Act [16 U.S.C. 668dd, 668ee], Fish and Wildlife Coordination Act [16 U.S.C. 661 et seq.], and Fish and Wildlife Act of 1956 [16 U.S.C. 742a et seq.] by the U.S. Fish and Wildlife Service."
 
 [<sup>1</sup> So in original. No par. (2) has been enacted.](#544f_1)
 

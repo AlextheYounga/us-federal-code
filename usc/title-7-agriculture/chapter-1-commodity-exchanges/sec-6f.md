@@ -60,9 +60,9 @@ Notwithstanding any other provisions of this chapter, no person desiring to regi
 
 (1) As used in this subsection:
 
-(i) The term “affiliated person” means any person directly or indirectly controlling, controlled by, or under common control with a futures commission merchant, as the Commission, by rule or regulation, may determine will effectuate the purposes of this subsection.
+(i) The term "affiliated person" means any person directly or indirectly controlling, controlled by, or under common control with a futures commission merchant, as the Commission, by rule or regulation, may determine will effectuate the purposes of this subsection.
 
-(ii) The term “Federal banking agency” shall have the same meaning as the term “appropriate Federal banking agency” in section 1813(q) of title 12.
+(ii) The term "Federal banking agency" shall have the same meaning as the term "appropriate Federal banking agency" in section 1813(q) of title 12.
 
 (2)(A) Each registered futures commission merchant shall obtain such information and make and keep such records as the Commission, by rule or regulation, prescribes concerning the registered futures commission merchant's policies, procedures, or systems for monitoring and controlling financial and operational risks to it resulting from the activities of any of its affiliated persons, other than a natural person.
 
@@ -120,31 +120,31 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments ####
 
-**2008**—Subsec. (c)(4)(B)(i). Pub. L. 110–246, §13105(b), substituted “complied” for “compiled”.
+**2008**—Subsec. (c)(4)(B)(i). Pub. L. 110–246, §13105(b), substituted "complied" for "compiled".
 
 **2000**—Subsec. (a). Pub. L. 106–554, §1(a)(5) [title II, §252(b)], designated existing provisions as par. (1) and added pars. (2) and (3).
 
 Subsec. (a)(4). Pub. L. 106–554, §1(a)(5) [title II, §252(c)], added par. (4).
 
-Subsecs. (b), (c)(3)(B). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(6)], inserted “or derivatives transaction execution facility” after “contract market” wherever appearing.
+Subsecs. (b), (c)(3)(B). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(6)], inserted "or derivatives transaction execution facility" after "contract market" wherever appearing.
 
-**1992**—Subsec. (a). Pub. L. 102–546, §§207(b)(1), 229(1), redesignated par. (1) as subsec. (a) and substituted “floor broker, or floor trader” for “or floor broker”.
+**1992**—Subsec. (a). Pub. L. 102–546, §§207(b)(1), 229(1), redesignated par. (1) as subsec. (a) and substituted "floor broker, or floor trader" for "or floor broker".
 
-Subsec. (b). Pub. L. 102–546, §229(1), (2), redesignated par. (2) as subsec. (b) and substituted “this subsection” for “this paragraph (2)”.
+Subsec. (b). Pub. L. 102–546, §229(1), (2), redesignated par. (2) as subsec. (b) and substituted "this subsection" for "this paragraph (2)".
 
 Subsec. (c). Pub. L. 102–546, §229(3), added subsec. (c).
 
-**1983**—Par. (1). Pub. L. 97–444, §208(1), made grammatical changes, made registration provisions applicable to introducing brokers, and substituted “revoked pursuant to the provisions of this chapter” for “revoked after notice and hearing as prescribed in this chapter”.
+**1983**—Par. (1). Pub. L. 97–444, §208(1), made grammatical changes, made registration provisions applicable to introducing brokers, and substituted "revoked pursuant to the provisions of this chapter" for "revoked after notice and hearing as prescribed in this chapter".
 
 Par. (2). Pub. L. 97–444, §208(2), made financial requirements applicable to introducing brokers.
 
-**1978**—Par. (1). Pub. L. 95–405 substituted “Each registration shall expire on December 31 of the year for which issued or at such other time, not less than one year from the date of issuance, as the Commission may by rule, regulation, or order prescribe” for “All registrations shall expire on the 31st day of December of the year for which issued”.
+**1978**—Par. (1). Pub. L. 95–405 substituted "Each registration shall expire on December 31 of the year for which issued or at such other time, not less than one year from the date of issuance, as the Commission may by rule, regulation, or order prescribe" for "All registrations shall expire on the 31st day of December of the year for which issued".
 
-**1974**—Pub. L. 93–463 substituted “Commission” for “Secretary of Agriculture”.
+**1974**—Pub. L. 93–463 substituted "Commission" for "Secretary of Agriculture".
 
-**1968**—Par. (1). Pub. L. 90–258, §7(a), substituted “this chapter” for “section 6g of this title”.
+**1968**—Par. (1). Pub. L. 90–258, §7(a), substituted "this chapter" for "section 6g of this title".
 
-Par. (2). Pub. L. 90–258, §7(b), substituted provisions that prescribed financial requirements for registration as futures commission merchant be met and continued at all times and that such requirements will be considered met by membership in a contract market and compliance with its minimum financial standards and related reporting requirements for former provisions for display of futures commission merchants’ registration certificates.
+Par. (2). Pub. L. 90–258, §7(b), substituted provisions that prescribed financial requirements for registration as futures commission merchant be met and continued at all times and that such requirements will be considered met by membership in a contract market and compliance with its minimum financial standards and related reporting requirements for former provisions for display of futures commission merchants' registration certificates.
 
 #### Effective Date of 2008 Amendment ####
 

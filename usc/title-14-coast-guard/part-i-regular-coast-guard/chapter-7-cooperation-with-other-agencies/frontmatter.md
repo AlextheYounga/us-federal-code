@@ -38,14 +38,14 @@ In connection with its maritime police, promoting safety of life and property at
 
 **2010**—Pub. L. 111–281, title II, §201(b), title IX, §903(b)(1), Oct. 15, 2010, 124 Stat. 2909, 3011, inserted period at end of item 149 and added item 153.
 
-**2006**—Pub. L. 109–241, title II, §202(b), July 11, 2006, 120 Stat. 520, substituted “Assistance to foreign governments and maritime authorities” for “Detail of members to assist foreign governments.” in item 149.
+**2006**—Pub. L. 109–241, title II, §202(b), July 11, 2006, 120 Stat. 520, substituted "Assistance to foreign governments and maritime authorities" for "Detail of members to assist foreign governments." in item 149.
 
 **2004**—Pub. L. 108–293, title II, §202(b), Aug. 9, 2004, 118 Stat. 1032, added item 152.
 
-**1996**—Pub. L. 104–324, title IV, §405(b), Oct. 19, 1996, 110 Stat. 3924, substituted “Cooperation with other agencies, States, territories, and political subdivisions” for “General” in item 141.
+**1996**—Pub. L. 104–324, title IV, §405(b), Oct. 19, 1996, 110 Stat. 3924, substituted "Cooperation with other agencies, States, territories, and political subdivisions" for "General" in item 141.
 
-**1984**—Pub. L. 98–557, §15(a)(4)(A)(ii), Oct. 30, 1984, 98 Stat. 2865, substituted “members” for “officers and men” in item 149.
+**1984**—Pub. L. 98–557, §15(a)(4)(A)(ii), Oct. 30, 1984, 98 Stat. 2865, substituted "members" for "officers and men" in item 149.
 
 **1982**—Pub. L. 97–295, §2(6)(B), Oct. 12, 1982, 96 Stat. 1301, added item 147a.
 
-**1976**—Pub. L. 94–546, §1(12), Oct. 18, 1976, 90 Stat. 2519, substituted “United States Postal Service” for “Post Office Department” in item 146.
+**1976**—Pub. L. 94–546, §1(12), Oct. 18, 1976, 90 Stat. 2519, substituted "United States Postal Service" for "Post Office Department" in item 146.

@@ -2,11 +2,11 @@
 
 #### (a) In general ####
 
-In order to conserve, protect, and enhance the riparian and associated areas described in subsection (b) of this section and the aquatic, wildlife, archeological, paleontological, scientific, cultural, recreational, educational, scenic, and other resources and values of such areas, there is hereby established the Gila Box Riparian National Conservation Area (hereafter in this subchapter referred to as the “conservation area”).
+In order to conserve, protect, and enhance the riparian and associated areas described in subsection (b) of this section and the aquatic, wildlife, archeological, paleontological, scientific, cultural, recreational, educational, scenic, and other resources and values of such areas, there is hereby established the Gila Box Riparian National Conservation Area (hereafter in this subchapter referred to as the "conservation area").
 
 #### (b) Areas included ####
 
-The conservation area shall consist of the public lands generally depicted on a map entitled “Gila Box Riparian National Conservation Area” dated February 1990, and comprising approximately 20,900 acres.
+The conservation area shall consist of the public lands generally depicted on a map entitled "Gila Box Riparian National Conservation Area" dated February 1990, and comprising approximately 20,900 acres.
 
 #### (c) Map ####
 
@@ -36,9 +36,9 @@ Subject to valid existing rights, all Federal lands within the conservation area
 
 #### (g) Management plan ####
 
-(1) No later than two years after November 28, 1990, the Secretary shall develop a comprehensive plan for the long-term management of the conservation area (hereinafter in this subchapter referred to as the “management plan”) in order to fulfill the purposes for which the conservation area is established. The management plan shall be developed with full public participation and shall include provisions designed to assure protection of the resources and values (including the resources and values specified in subsection (a) of this section) of the conservation area.
+(1) No later than two years after November 28, 1990, the Secretary shall develop a comprehensive plan for the long-term management of the conservation area (hereinafter in this subchapter referred to as the "management plan") in order to fulfill the purposes for which the conservation area is established. The management plan shall be developed with full public participation and shall include provisions designed to assure protection of the resources and values (including the resources and values specified in subsection (a) of this section) of the conservation area.
 
-(2) The management plan shall include a discussion of the desirability of the inclusion in the conservation area of additional lands, including the lands not in Federal ownership that are contiguous to the boundary of the conservation area (as depicted on the map referenced in subsection (b) of this section or as hereafter adjusted pursuant to subsection (h) of this section) and within the area extending two miles on either side of the centerline of Eagle Creek from the point where Eagle Creek crosses the southern boundary of the Apache National Forest to the confluence of Eagle Creek with the Gila River (this area is hereafter referred to in this subchapter as the “Eagle Creek riparian area”).
+(2) The management plan shall include a discussion of the desirability of the inclusion in the conservation area of additional lands, including the lands not in Federal ownership that are contiguous to the boundary of the conservation area (as depicted on the map referenced in subsection (b) of this section or as hereafter adjusted pursuant to subsection (h) of this section) and within the area extending two miles on either side of the centerline of Eagle Creek from the point where Eagle Creek crosses the southern boundary of the Apache National Forest to the confluence of Eagle Creek with the Gila River (this area is hereafter referred to in this subchapter as the "Eagle Creek riparian area").
 
 (3) In order to better implement the management plan, the Secretary may enter into cooperative agreements with appropriate State and local agencies pursuant to section 307(b) of the Federal Land Policy and Management Act of 1976 [43 U.S.C. 1737(b)].
 
@@ -82,11 +82,11 @@ The Sentencing Reform Act of 1984, referred to in subsec. (l), is chapter II (§
 
 #### Amendments ####
 
-**1994**—Subsecs. (c), (k). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+**1994**—Subsecs. (c), (k). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
 
 #### Short Title ####
 
-Pub. L. 101–628, §1, Nov. 28, 1990, 104 Stat. 4469, provided that: “Titles I through III of this Act [enacting this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title] may be cited as the ‘Arizona Desert Wilderness Act of 1990’.”
+Pub. L. 101–628, §1, Nov. 28, 1990, 104 Stat. 4469, provided that: "Titles I through III of this Act [enacting this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title] may be cited as the 'Arizona Desert Wilderness Act of 1990'."
 
 #### Termination of Advisory Committees ####
 

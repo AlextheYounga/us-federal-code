@@ -10,4 +10,4 @@ Section 135, act June 7, 1924, ch. 295, §2, 43 Stat. 534, enumerated persons en
 
 #### Effective Date of Repeal ####
 
-Repeal effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans’ Benefits.
+Repeal effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans' Benefits.

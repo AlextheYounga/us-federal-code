@@ -52,13 +52,13 @@ It shall be unlawful for any broker, dealer, or member of a national securities 
 
 It shall be unlawful for any person, directly or indirectly, by the use of the mails or any means or instrumentality of interstate commerce, or of any facility of any national securities exchange, or for any member of a national securities exchange to effect, alone or with one or more other persons, a manipulative short sale of any security. The Commission shall issue such other rules as are necessary or appropriate to ensure that the appropriate enforcement options and remedies are available for violations of this subsection in the public interest or for the protection of investors.
 
-#### (e) Registered warrant, right, or convertible security not included in “put”, “call”, “straddle”, or “option” ####
+#### (e) Registered warrant, right, or convertible security not included in "put", "call", "straddle", or "option" ####
 
-The terms “put”, “call”, “straddle”, “option”, or “privilege” as used in this section shall not include any registered warrant, right, or convertible security.
+The terms "put", "call", "straddle", "option", or "privilege" as used in this section shall not include any registered warrant, right, or convertible security.
 
 #### (f) Persons liable; suits at law or in equity ####
 
-Any person who willfully participates in any act or transaction in violation of subsections (a), (b), or (c) of this section, shall be liable to any person who shall purchase or sell any security at a price which was affected by such act or transaction, and the person so injured may sue in law or in equity in any court of competent jurisdiction to recover the damages sustained as a result of any such act or transaction. In any such suit the court may, in its discretion, require an undertaking for the payment of the costs of such suit, and assess reasonable costs, including reasonable attorneys’ fees, against either party litigant. Every person who becomes liable to make any payment under this subsection may recover contribution as in cases of contract from any person who, if joined in the original suit, would have been liable to make the same payment. No action shall be maintained to enforce any liability created under this section, unless brought within one year after the discovery of the facts constituting the violation and within three years after such violation.
+Any person who willfully participates in any act or transaction in violation of subsections (a), (b), or (c) of this section, shall be liable to any person who shall purchase or sell any security at a price which was affected by such act or transaction, and the person so injured may sue in law or in equity in any court of competent jurisdiction to recover the damages sustained as a result of any such act or transaction. In any such suit the court may, in its discretion, require an undertaking for the payment of the costs of such suit, and assess reasonable costs, including reasonable attorneys' fees, against either party litigant. Every person who becomes liable to make any payment under this subsection may recover contribution as in cases of contract from any person who, if joined in the original suit, would have been liable to make the same payment. No action shall be maintained to enforce any liability created under this section, unless brought within one year after the discovery of the facts constituting the violation and within three years after such violation.
 
 #### (g) Subsection (a) not applicable to exempted securities ####
 
@@ -100,23 +100,23 @@ The Commodity Exchange Act, referred to in subsec. (h)(2), is act Sept. 21, 1922
 
 #### Amendments ####
 
-**2010**—Subsec. (a). Pub. L. 111–203, §929L(1)(A), substituted “other than a government security” for “registered on a national securities exchange” wherever appearing.
+**2010**—Subsec. (a). Pub. L. 111–203, §929L(1)(A), substituted "other than a government security" for "registered on a national securities exchange" wherever appearing.
 
 Subsec. (a)(2) to (5). Pub. L. 111–203, §762(d)(2)(A), added pars. (2) to (5) and struck out former pars. (2) to (5) which prohibited certain actions in the purchase or sale of a security or a security-based swap agreement, such as making false or misleading statements or creating conditions to raise or depress the price of such security.
 
-Subsec. (b). Pub. L. 111–203, §929L(1)(B), struck out “by use of any facility of a national securities exchange,” after “effect,” in introductory provisions.
+Subsec. (b). Pub. L. 111–203, §929L(1)(B), struck out "by use of any facility of a national securities exchange," after "effect," in introductory provisions.
 
 Subsec. (b)(1) to (3). Pub. L. 111–203, §763(f), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
 
-“(1) any transaction in connection with any security whereby any party to such transaction acquires (A) any put, call, straddle, or other option or privilege of buying the security from or selling the security to another without being bound to do so; or (B) any security futures product on the security; or
+"(1) any transaction in connection with any security whereby any party to such transaction acquires (A) any put, call, straddle, or other option or privilege of buying the security from or selling the security to another without being bound to do so; or (B) any security futures product on the security; or
 
-“(2) any transaction in connection with any security with relation to which he has, directly or indirectly, any interest in any (A) such put, call, straddle, option, or privilege; or (B) such security futures product; or
+"(2) any transaction in connection with any security with relation to which he has, directly or indirectly, any interest in any (A) such put, call, straddle, option, or privilege; or (B) such security futures product; or
 
-“(3) any transaction in any security for the account of any person who he has reason to believe has, and who actually has, directly or indirectly, any interest in any (A) such put, call, straddle, option, or privilege; or (B) such security futures product with relation to such security.”
+"(3) any transaction in any security for the account of any person who he has reason to believe has, and who actually has, directly or indirectly, any interest in any (A) such put, call, straddle, option, or privilege; or (B) such security futures product with relation to such security."
 
-Subsec. (c). Pub. L. 111–203, §929L(1)(C), inserted “broker, dealer, or” after “unlawful for any”.
+Subsec. (c). Pub. L. 111–203, §929L(1)(C), inserted "broker, dealer, or" after "unlawful for any".
 
-Pub. L. 111–203, §929L(1)(A), substituted “other than a government security” for “registered on a national securities exchange”.
+Pub. L. 111–203, §929L(1)(A), substituted "other than a government security" for "registered on a national securities exchange".
 
 Subsecs. (d) to (i). Pub. L. 111–203, §929X(b), added subsec. (d) and redesignated former subsecs. (d) to (h) as (e) to (i), respectively. Former subsec. (i), relating to limitation on Commission authority, redesignated (j).
 
@@ -124,31 +124,31 @@ Subsec. (j). Pub. L. 111–203, §929X(b)(1), redesignated subsec. (i), relating
 
 Pub. L. 111–203, §763(g), added subsec. (j) relating to regulations relating to security-based swaps.
 
-Pub. L. 111–203, §762(d)(2)(B), which directed amendment of subsec. (i) by striking out “(as defined in section 206B of the Gramm-Leach-Bliley Act)”, was executed by making the strike out after “security-based swap agreements” in subsec. (j) relating to limitation on Commission authority, to reflect the probable intent of Congress and the redesignation of subsec. (i) as (j) by Pub. L. 111–203, §929X(b)(1). See above and Effective Date of 2010 Amendment notes below.
+Pub. L. 111–203, §762(d)(2)(B), which directed amendment of subsec. (i) by striking out "(as defined in section 206B of the Gramm-Leach-Bliley Act)", was executed by making the strike out after "security-based swap agreements" in subsec. (j) relating to limitation on Commission authority, to reflect the probable intent of Congress and the redesignation of subsec. (i) as (j) by Pub. L. 111–203, §929X(b)(1). See above and Effective Date of 2010 Amendment notes below.
 
 **2000**—Subsec. (a)(2) to (5). Pub. L. 106–554, §1(a)(5) [title III, §303(b)], amended pars. (2) to (5) generally. Prior to amendment, pars. (2) to (5) read as follows:
 
-“(2) To effect, alone or with one or more other persons, a series of transactions in any security registered on a national securities exchange creating actual or apparent active trading in such security or raising or depressing the price of such security, for the purpose of inducing the purchase or sale of such security by others.
+"(2) To effect, alone or with one or more other persons, a series of transactions in any security registered on a national securities exchange creating actual or apparent active trading in such security or raising or depressing the price of such security, for the purpose of inducing the purchase or sale of such security by others.
 
-“(3) If a dealer or broker, or other person selling or offering for sale or purchasing or offering to purchase the security, to induce the purchase or sale of any security registered on a national securities exchange by the circulation or dissemination in the ordinary course of business of information to the effect that the price of any such security will or is likely to rise or fall because of market operations of any one or more persons conducted for the purpose of raising or depressing the prices of such security.
+"(3) If a dealer or broker, or other person selling or offering for sale or purchasing or offering to purchase the security, to induce the purchase or sale of any security registered on a national securities exchange by the circulation or dissemination in the ordinary course of business of information to the effect that the price of any such security will or is likely to rise or fall because of market operations of any one or more persons conducted for the purpose of raising or depressing the prices of such security.
 
-“(4) If a dealer or broker, or other person selling or offering for sale or purchasing or offering to purchase the security, to make, regarding any security registered on a national securities exchange, for the purpose of inducing the purchase or sale of such security, any statement which was at the time and in the light of the circumstances under which it was made, false or misleading with respect to any material fact, and which he knew or had reasonable ground to believe was so false or misleading.
+"(4) If a dealer or broker, or other person selling or offering for sale or purchasing or offering to purchase the security, to make, regarding any security registered on a national securities exchange, for the purpose of inducing the purchase or sale of such security, any statement which was at the time and in the light of the circumstances under which it was made, false or misleading with respect to any material fact, and which he knew or had reasonable ground to believe was so false or misleading.
 
-“(5) For a consideration, received directly or indirectly from a dealer or broker, or other person selling or offering for sale or purchasing or offering to purchase the security, to induce the purchase or sale of any security registered on a national securities exchange by the circulation or dissemination of information to the effect that the price of any such security will or is likely to rise or fall because of the market operations of any one or more persons conducted for the purpose of raising or depressing the price of such security.”
+"(5) For a consideration, received directly or indirectly from a dealer or broker, or other person selling or offering for sale or purchasing or offering to purchase the security, to induce the purchase or sale of any security registered on a national securities exchange by the circulation or dissemination of information to the effect that the price of any such security will or is likely to rise or fall because of the market operations of any one or more persons conducted for the purpose of raising or depressing the price of such security."
 
-Subsec. (b)(1). Pub. L. 106–554, §1(a)(5) [title II, §205(a)(1)(A)], inserted “(A)” after “acquires” and substituted “; or (B) any security futures product on the security; or” for “; or”.
+Subsec. (b)(1). Pub. L. 106–554, §1(a)(5) [title II, §205(a)(1)(A)], inserted "(A)" after "acquires" and substituted "; or (B) any security futures product on the security; or" for "; or".
 
-Subsec. (b)(2). Pub. L. 106–554, §1(a)(5) [title II, §205(a)(1)(B)], inserted “(A)” after “interest in any” and substituted “; or (B) such security futures product; or” for “; or”.
+Subsec. (b)(2). Pub. L. 106–554, §1(a)(5) [title II, §205(a)(1)(B)], inserted "(A)" after "interest in any" and substituted "; or (B) such security futures product; or" for "; or".
 
-Subsec. (b)(3). Pub. L. 106–554, §1(a)(5) [title II, §205(a)(1)(C)], inserted “(A)” after “interest in any” and “; or (B) such security futures product” after “privilege”.
+Subsec. (b)(3). Pub. L. 106–554, §1(a)(5) [title II, §205(a)(1)(C)], inserted "(A)" after "interest in any" and "; or (B) such security futures product" after "privilege".
 
-Subsec. (g). Pub. L. 106–554, §1(a)(5) [title II, §205(a)(2)], designated existing provisions as par. (1), inserted “other than a security futures product” after “future delivery”, and added par. (2).
+Subsec. (g). Pub. L. 106–554, §1(a)(5) [title II, §205(a)(2)], designated existing provisions as par. (1), inserted "other than a security futures product" after "future delivery", and added par. (2).
 
 Subsec. (i). Pub. L. 106–554, §1(a)(5) [title III, §303(c)], added subsec. (i).
 
 **1990**—Subsec. (h). Pub. L. 101–432 added subsec. (h).
 
-**1982**—Subsec. (f). Pub. L. 97–303, §3(1), substituted “The provisions of subsection (a) of this section shall not apply” for “The provisions of this section shall not apply”.
+**1982**—Subsec. (f). Pub. L. 97–303, §3(1), substituted "The provisions of subsection (a) of this section shall not apply" for "The provisions of this section shall not apply".
 
 Subsec. (g). Pub. L. 97–303, §3(2), added subsec. (g).
 

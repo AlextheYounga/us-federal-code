@@ -16,7 +16,7 @@ Section 207, act June 7, 1897, ch. 4, §1, 30 Stat. 101, related to situation wh
 
 Section 208, act June 7, 1897, ch. 4, §1, 30 Stat. 101, related to duty of steam vessels to slacken speed.
 
-Section 209, act June 7, 1897, ch. 4, §1, 30 Stat. 101, provided that an overtaking vessel keep out of the way and defined the term “overtaking vessel”.
+Section 209, act June 7, 1897, ch. 4, §1, 30 Stat. 101, provided that an overtaking vessel keep out of the way and defined the term "overtaking vessel".
 
 Section 210, acts June 7, 1897, ch. 4, §1, 30 Stat. 101; Nov. 5, 1966, Pub. L. 89–764, §2, 80 Stat. 1313, related to operation of steam vessels in a narrow channel.
 

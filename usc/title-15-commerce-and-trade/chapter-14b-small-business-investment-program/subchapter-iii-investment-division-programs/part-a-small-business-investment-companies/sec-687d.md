@@ -6,14 +6,14 @@ For the purpose of controlling conflicts of interest which may be detrimental to
 
 #### References in Text ####
 
-For definition of “this chapter”, referred to in text, see References in Text note set out under section 661 of this title.
+For definition of "this chapter", referred to in text, see References in Text note set out under section 661 of this title.
 
 #### Amendments ####
 
-**2001**—Pub. L. 107–100 struck out “(including disclosure in the locality most directly affected by the transaction)” after “public disclosure”.
+**2001**—Pub. L. 107–100 struck out "(including disclosure in the locality most directly affected by the transaction)" after "public disclosure".
 
-**1996**—Pub. L. 104–208, §208(h)(1)(D), substituted “shareholders, partners, or members” for “shareholders or partners” and substituted “shareholder, partner, or member” for “shareholder, or partner” in two places.
+**1996**—Pub. L. 104–208, §208(h)(1)(D), substituted "shareholders, partners, or members" for "shareholders or partners" and substituted "shareholder, partner, or member" for "shareholder, or partner" in two places.
 
-**1976**—Pub. L. 94–305, §106(f)(2), which directed the substitution of “shareholder, or partner” for “or shareholders” wherever appearing, was executed by making the substitution for “or shareholder” in two places to reflect the probable intent of Congress.
+**1976**—Pub. L. 94–305, §106(f)(2), which directed the substitution of "shareholder, or partner" for "or shareholders" wherever appearing, was executed by making the substitution for "or shareholder" in two places to reflect the probable intent of Congress.
 
-Pub. L. 94–305, §106(f)(1), inserted “or partners” after “to the shareholders”.
+Pub. L. 94–305, §106(f)(1), inserted "or partners" after "to the shareholders".

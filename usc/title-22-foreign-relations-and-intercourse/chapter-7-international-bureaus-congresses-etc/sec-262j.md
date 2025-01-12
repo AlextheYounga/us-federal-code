@@ -18,9 +18,9 @@ The United States Government, in connection with its voice and vote in the Inter
 
 (7) to coordinate with the Agency for International Development and other aid organizations in supporting effective rural energy programs.
 
-#### (b) “Renewable resource” defined ####
+#### (b) "Renewable resource" defined ####
 
-For purposes of this section, the term “renewable resource” means any energy resource which—
+For purposes of this section, the term "renewable resource" means any energy resource which—
 
 (1) meets the needs of rural communities;
 
@@ -40,18 +40,18 @@ For purposes of this section, the term “renewable resource” means any energy
 
 #### Congressional Statement of Findings Respecting Use of Renewable Resources for Energy Production in Poor and Developing Countries and Role of International Financial Institutions ####
 
-Pub. L. 96–259, title VI, §601, June 3, 1980, 94 Stat. 432, provided that: “The Congress finds that—
+Pub. L. 96–259, title VI, §601, June 3, 1980, 94 Stat. 432, provided that: "The Congress finds that—
 
-“(1) without an adequate supply of energy at affordable prices the world's poor will continue to be deprived of jobs, food, water, shelter, and clothing, and poor countries will continue to be economically and politically unstable;
+"(1) without an adequate supply of energy at affordable prices the world's poor will continue to be deprived of jobs, food, water, shelter, and clothing, and poor countries will continue to be economically and politically unstable;
 
-“(2) dependence on increasingly expensive fossil fuel resources consumes too much of the capital available to poor countries with the result that funds are not available to meet the basic needs of poor people;
+"(2) dependence on increasingly expensive fossil fuel resources consumes too much of the capital available to poor countries with the result that funds are not available to meet the basic needs of poor people;
 
-“(3) in many developing countries the cost of large central generators and long distance electrical distribution makes it unlikely that rural energy by means of a national grid will contribute to meeting the needs of poor people;
+"(3) in many developing countries the cost of large central generators and long distance electrical distribution makes it unlikely that rural energy by means of a national grid will contribute to meeting the needs of poor people;
 
-“(4) only one of eight rural inhabitants lives in an area which has access to electricity and even fewer rural inhabitants actually have or can afford electricity;
+"(4) only one of eight rural inhabitants lives in an area which has access to electricity and even fewer rural inhabitants actually have or can afford electricity;
 
-“(5) wood, animal and agricultural waste, and other ‘noncommercial’ fuels still supply about half the total energy in developing countries and all but a seventh in rural sectors;
+"(5) wood, animal and agricultural waste, and other 'noncommercial' fuels still supply about half the total energy in developing countries and all but a seventh in rural sectors;
 
-“(6) growing dependence of the world's poor on wood for heating and cooking has forced the overcutting of forests and as a consequence erosion and loss of available agricultural land; and
+"(6) growing dependence of the world's poor on wood for heating and cooking has forced the overcutting of forests and as a consequence erosion and loss of available agricultural land; and
 
-“(7) recent initiatives by the international financial institutions to develop and utilize decentralized solar, hydro, biomass, geothermal, and wind energy should be significantly expanded to make renewable energy resources increasingly available to the world's poor on a wide scale.”
+"(7) recent initiatives by the international financial institutions to develop and utilize decentralized solar, hydro, biomass, geothermal, and wind energy should be significantly expanded to make renewable energy resources increasingly available to the world's poor on a wide scale."

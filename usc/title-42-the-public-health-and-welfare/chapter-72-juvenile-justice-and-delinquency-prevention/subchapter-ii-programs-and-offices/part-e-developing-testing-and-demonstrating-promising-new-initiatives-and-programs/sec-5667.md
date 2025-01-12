@@ -20,11 +20,11 @@ Another prior section 5667a, Pub. L. 93–415, title II, §282, as added Pub. L.
 
 Section 5667a–1, Pub. L. 93–415, title II, §282A, as added Pub. L. 102–586, §2(i), Nov. 4, 1992, 106 Stat. 5005, related to application approval.
 
-Section 5667b, Pub. L. 93–415, title II, §283, as added Pub. L. 102–586, §2(i), Nov. 4, 1992, 106 Stat. 5006, defined “juvenile”.
+Section 5667b, Pub. L. 93–415, title II, §283, as added Pub. L. 102–586, §2(i), Nov. 4, 1992, 106 Stat. 5006, defined "juvenile".
 
 Section 5667c, Pub. L. 93–415, title II, §285, as added Pub. L. 102–586, §2(i)(1)(C), Nov. 4, 1992, 106 Stat. 5006, related to establishment of program of State challenge activities.
 
-Section 5667d, Pub. L. 93–415, title II, §287, as added Pub. L. 102–586, §2(i)(1)(C), Nov. 4, 1992, 106 Stat. 5008, defined “juvenile”.
+Section 5667d, Pub. L. 93–415, title II, §287, as added Pub. L. 102–586, §2(i)(1)(C), Nov. 4, 1992, 106 Stat. 5008, defined "juvenile".
 
 Section 5667d–1, Pub. L. 93–415, title II, §287A, as added Pub. L. 102–586, §2(i)(1)(C), Nov. 4, 1992, 106 Stat. 5008, related to grant authority.
 
@@ -34,7 +34,7 @@ Section 5667d–3, Pub. L. 93–415, title II, §287C, as added Pub. L. 102–58
 
 Section 5667e, Pub. L. 93–415, title II, §288, as added Pub. L. 102–586, §2(i)(1)(C), Nov. 4, 1992, 106 Stat. 5009, related to purposes of mentoring programs.
 
-Section 5667e–1, Pub. L. 93–415, title II, §288A, as added Pub. L. 102–586, §2(i)(1)(C), Nov. 4, 1992, 106 Stat. 5009, defined “at-risk youth” and “mentor”.
+Section 5667e–1, Pub. L. 93–415, title II, §288A, as added Pub. L. 102–586, §2(i)(1)(C), Nov. 4, 1992, 106 Stat. 5009, defined "at-risk youth" and "mentor".
 
 Section 5667e–2, Pub. L. 93–415, title II, §288B, as added Pub. L. 102–586, §2(i)(1)(C), Nov. 4, 1992, 106 Stat. 5010, related to grants for local educational agencies for mentoring programs.
 

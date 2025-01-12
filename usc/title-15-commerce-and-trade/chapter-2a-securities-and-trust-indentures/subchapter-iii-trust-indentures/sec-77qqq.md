@@ -12,11 +12,11 @@
 
 #### Amendments ####
 
-**2010**—Subsec. (a)(1). Pub. L. 111–203 substituted “(1) in the” for “(1) , in the”.
+**2010**—Subsec. (a)(1). Pub. L. 111–203 substituted "(1) in the" for "(1) , in the".
 
-**1990**—Subsec. (a). Pub. L. 101–550, §416(1)–(3), in introductory provisions, substituted “trustee shall be authorized” for “to be qualified shall contain provisions”, in par. (1) struck out “authorizing the indenture trustee” after the paragraph designation, and in par. (2) struck out “authorizing such trustee” after the paragraph designation.
+**1990**—Subsec. (a). Pub. L. 101–550, §416(1)–(3), in introductory provisions, substituted "trustee shall be authorized" for "to be qualified shall contain provisions", in par. (1) struck out "authorizing the indenture trustee" after the paragraph designation, and in par. (2) struck out "authorizing such trustee" after the paragraph designation.
 
-Subsec. (b). Pub. L. 101–550, §416(4), substituted “Each” for “The indenture to be qualified shall provide that each”.
+Subsec. (b). Pub. L. 101–550, §416(4), substituted "Each" for "The indenture to be qualified shall provide that each".
 
 #### Effective Date of 2010 Amendment ####
 

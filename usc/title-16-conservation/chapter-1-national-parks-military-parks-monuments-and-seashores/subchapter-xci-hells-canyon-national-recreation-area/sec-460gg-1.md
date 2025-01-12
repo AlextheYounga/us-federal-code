@@ -2,7 +2,7 @@
 
 #### (a) Map designation ####
 
-The lands depicted as the “Hells Canyon Wilderness” on the map referred to in section 460gg(b) of this title are hereby designated as wilderness.
+The lands depicted as the "Hells Canyon Wilderness" on the map referred to in section 460gg(b) of this title are hereby designated as wilderness.
 
 #### (b) Application of Wilderness Act ####
 
@@ -12,7 +12,7 @@ The wilderness designated by this subchapter shall be administered by the Secret
 
 #### References in Text ####
 
-This subchapter, referred to in subsec. (b), was in the original “this Act”, which is Pub. L. 94–199, Dec. 31, 1975, 89 Stat. 1117, which enacted sections 460gg to 460gg–13 of this title, amended sections 1274 and 1276 of this title, and enacted provisions set out as notes under sections 460gg and 1274 of this title.
+This subchapter, referred to in subsec. (b), was in the original "this Act", which is Pub. L. 94–199, Dec. 31, 1975, 89 Stat. 1117, which enacted sections 460gg to 460gg–13 of this title, amended sections 1274 and 1276 of this title, and enacted provisions set out as notes under sections 460gg and 1274 of this title.
 
 The Wilderness Act, referred to in subsec. (b), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 

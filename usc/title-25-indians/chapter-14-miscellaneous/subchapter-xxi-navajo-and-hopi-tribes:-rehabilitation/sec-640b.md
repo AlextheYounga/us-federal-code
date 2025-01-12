@@ -10,4 +10,4 @@ Section was not enacted as part of act Apr. 19, 1950, ch. 92, 64 Stat. 44, which
 
 #### Amendments ####
 
-**2008**—Pub. L. 110–315, in first sentence, inserted “the” before “Interior” and substituted “Navajo Nation” for “Navajo Tribe of Indians” and “Diné College” for “the Navajo Community College”, and, in second sentence, substituted “Navajo Nation” for “Navajo Tribe” and “Navajo people” for “Navajo Indians”.
+**2008**—Pub. L. 110–315, in first sentence, inserted "the" before "Interior" and substituted "Navajo Nation" for "Navajo Tribe of Indians" and "Diné College" for "the Navajo Community College", and, in second sentence, substituted "Navajo Nation" for "Navajo Tribe" and "Navajo people" for "Navajo Indians".

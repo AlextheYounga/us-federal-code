@@ -14,13 +14,13 @@ The grade of the Commandant is fixed as vice admiral rather than that prescribed
 
 #### Amendments ####
 
-**1972**—Pub. L. 92–451 substituted “above the grade of captain” for “in the grade of captain or above” in second sentence.
+**1972**—Pub. L. 92–451 substituted "above the grade of captain" for "in the grade of captain or above" in second sentence.
 
 **1966**—Pub. L. 89–444 struck out provision that the position of an officer appointed Commandant be filled by promotion according to law.
 
-**1963**—Pub. L. 88–130 substituted “officers on the active duty promotion list serving in the grade of” for “active list of officers who hold a permanent commission as”, required qualifying period of 10 years commissioned service to be “active” service, and struck out “, pay, and allowances” before “of admiral”.
+**1963**—Pub. L. 88–130 substituted "officers on the active duty promotion list serving in the grade of" for "active list of officers who hold a permanent commission as", required qualifying period of 10 years commissioned service to be "active" service, and struck out ", pay, and allowances" before "of admiral".
 
-**1960**—Pub. L. 86–474 substituted “active list of officers” for “active list of line officers”, “captain or above” for “commander or above”, and “allowances of admiral” for “allowances of vice admiral”.
+**1960**—Pub. L. 86–474 substituted "active list of officers" for "active list of line officers", "captain or above" for "commander or above", and "allowances of admiral" for "allowances of vice admiral".
 
 #### Effective Date of 1972 Amendment ####
 
@@ -28,8 +28,8 @@ Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation b
 
 #### Effective Date of Higher Grade and Increased Pay and Allowances ####
 
-Pub. L. 86–474, §2, May 14, 1960, 74 Stat. 146, provided that: “The increased grade of admiral for the Commandant and vice admiral for the Assistant Commandant [now Vice Commandant], including the pay and allowances applicable to such grades, shall be effective on the first day of the month following enactment of this Act [May 14, 1960].”
+Pub. L. 86–474, §2, May 14, 1960, 74 Stat. 146, provided that: "The increased grade of admiral for the Commandant and vice admiral for the Assistant Commandant [now Vice Commandant], including the pay and allowances applicable to such grades, shall be effective on the first day of the month following enactment of this Act [May 14, 1960]."
 
 #### Savings Provision ####
 
-Pub. L. 86–474, §3, May 14, 1960, 74 Stat. 146, provided that: “Except as provided by section 2 [set out as a note under this section], the amendments by section 1 [amending sections 41, 42, 44, 46, 47, 186 to 191, 222, 247(c), 365, and 462 of this title, and repealing sections 45, 48, and 49 of this title] shall not operate to change or deprive the present incumbents serving as Commandant, Assistant Commandant [now Vice Commandant], and Engineer in Chief of any rights, benefits and privileges appertaining to such offices on the day preceding the date of enactment of this Act [May 14, 1960], nor to divest them of their offices for the terms appointed.”
+Pub. L. 86–474, §3, May 14, 1960, 74 Stat. 146, provided that: "Except as provided by section 2 [set out as a note under this section], the amendments by section 1 [amending sections 41, 42, 44, 46, 47, 186 to 191, 222, 247(c), 365, and 462 of this title, and repealing sections 45, 48, and 49 of this title] shall not operate to change or deprive the present incumbents serving as Commandant, Assistant Commandant [now Vice Commandant], and Engineer in Chief of any rights, benefits and privileges appertaining to such offices on the day preceding the date of enactment of this Act [May 14, 1960], nor to divest them of their offices for the terms appointed."

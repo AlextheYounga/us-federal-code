@@ -16,4 +16,4 @@ Sec.
 
 #### Amendments ####
 
-**2006**—Pub. L. 109–177, title I, §121(g)(3), (4)(A), Mar. 9, 2006, 120 Stat. 224, substituted “TRAFFICKING IN CONTRABAND CIGARETTES AND SMOKELESS TOBACCO” for “TRAFFICKING IN CONTRABAND CIGARETTES” in chapter heading, added items 2343 and 2345, and struck out former items 2343 “Recordkeeping and inspection” and 2345 “Effect on State law”.
+**2006**—Pub. L. 109–177, title I, §121(g)(3), (4)(A), Mar. 9, 2006, 120 Stat. 224, substituted "TRAFFICKING IN CONTRABAND CIGARETTES AND SMOKELESS TOBACCO" for "TRAFFICKING IN CONTRABAND CIGARETTES" in chapter heading, added items 2343 and 2345, and struck out former items 2343 "Recordkeeping and inspection" and 2345 "Effect on State law".

@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “eligible employer” has the meaning given such term by section 408(p)(2)(C)(i).
+The term "eligible employer" has the meaning given such term by section 408(p)(2)(C)(i).
 
 #### (2) Requirement for new qualified employer plans ####
 
@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (A) In general ####
 
-The term “qualified startup costs” means any ordinary and necessary expenses of an eligible employer which are paid or incurred in connection with—
+The term "qualified startup costs" means any ordinary and necessary expenses of an eligible employer which are paid or incurred in connection with—
 
 (i) the establishment or administration of an eligible employer plan, or
 
@@ -44,11 +44,11 @@ Such term shall not include any expense in connection with a plan that does not 
 
 #### (2) Eligible employer plan ####
 
-The term “eligible employer plan” means a qualified employer plan within the meaning of section 4972(d).
+The term "eligible employer plan" means a qualified employer plan within the meaning of section 4972(d).
 
 #### (3) First credit year ####
 
-The term “first credit year” means—
+The term "first credit year" means—
 
 (A) the taxable year which includes the date that the eligible employer plan to which such costs relate becomes effective, or
 
@@ -74,7 +74,7 @@ This section shall not apply to a taxpayer for any taxable year if such taxpayer
 
 #### Amendments ####
 
-**2002**—Subsec. (e)(1). Pub. L. 107–147 substituted “subsection (m)” for “subsection (n)”.
+**2002**—Subsec. (e)(1). Pub. L. 107–147 substituted "subsection (m)" for "subsection (n)".
 
 #### Effective Date of 2002 Amendment ####
 

@@ -6,4 +6,4 @@ No electric transmission lines or related facilities shall be constructed by any
 
 #### Transfer of Functions ####
 
-“Secretary of Energy” substituted for “Secretary of the Interior” in the proviso in text pursuant to Pub. L. 95–91, §302(a), which is classified to section 7152(a) of Title 42, The Public Health and Welfare.
+"Secretary of Energy" substituted for "Secretary of the Interior" in the proviso in text pursuant to Pub. L. 95–91, §302(a), which is classified to section 7152(a) of Title 42, The Public Health and Welfare.

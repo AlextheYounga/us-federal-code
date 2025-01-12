@@ -46,6 +46,6 @@ Sec.
 
 **1985**—Pub. L. 99–87, §1(a)(2), Aug. 9, 1985, 99 Stat. 290, added item 3220.
 
-**1981**—Pub. L. 97–69, §6(c)(2), Oct. 26, 1981, 95 Stat. 1043, substituted “survivors” for “surviving spouses” in item 3218.
+**1981**—Pub. L. 97–69, §6(c)(2), Oct. 26, 1981, 95 Stat. 1043, substituted "survivors" for "surviving spouses" in item 3218.
 
-**1973**—Pub. L. 93–191, §§1(b), 4(b), 12(b), Dec. 18, 1973, 87 Stat. 741, 742, 746, substituted “Franked mail transmitted by the Vice President, Members of Congress, and congressional officials” for “Official correspondence of Vice President and Members of Congress” in item 3210, substituted “President, surviving spouse of former President” for “Presidents” in item 3214, and added item 3219.
+**1973**—Pub. L. 93–191, §§1(b), 4(b), 12(b), Dec. 18, 1973, 87 Stat. 741, 742, 746, substituted "Franked mail transmitted by the Vice President, Members of Congress, and congressional officials" for "Official correspondence of Vice President and Members of Congress" in item 3210, substituted "President, surviving spouse of former President" for "Presidents" in item 3214, and added item 3219.

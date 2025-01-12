@@ -60,7 +60,7 @@ A prior section 254g, act July 1, 1944, ch. 373, title III, §334, as added Pub.
 
 #### Amendments ####
 
-**2003**—Subsec. (b)(1)(B). Pub. L. 108–163 inserted “the payment of” after “applied to”.
+**2003**—Subsec. (b)(1)(B). Pub. L. 108–163 inserted "the payment of" after "applied to".
 
 #### Effective Date of 2003 Amendment ####
 

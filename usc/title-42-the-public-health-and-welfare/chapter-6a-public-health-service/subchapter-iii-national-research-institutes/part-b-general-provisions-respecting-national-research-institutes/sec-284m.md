@@ -128,37 +128,37 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(10), (11), 
 
 #### Amendments ####
 
-**2013**—Subsec. (a)(2). Pub. L. 113–5, §307(b)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “In developing and prioritizing the list under paragraph (1), the Secretary shall consider—
+**2013**—Subsec. (a)(2). Pub. L. 113–5, §307(b)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "In developing and prioritizing the list under paragraph (1), the Secretary shall consider—
 
-“(A) therapeutic gaps in pediatrics that may include developmental pharmacology, pharmacogenetic determinants of drug response, metabolism of drugs and biologics in children, and pediatric clinical trials;
+"(A) therapeutic gaps in pediatrics that may include developmental pharmacology, pharmacogenetic determinants of drug response, metabolism of drugs and biologics in children, and pediatric clinical trials;
 
-“(B) particular pediatric diseases, disorders or conditions where more complete knowledge and testing of therapeutics, including drugs and biologics, may be beneficial in pediatric populations; and
+"(B) particular pediatric diseases, disorders or conditions where more complete knowledge and testing of therapeutics, including drugs and biologics, may be beneficial in pediatric populations; and
 
-“(C) the adequacy of necessary infrastructure to conduct pediatric pharmacological research, including research networks and trained pediatric investigators.”
+"(C) the adequacy of necessary infrastructure to conduct pediatric pharmacological research, including research networks and trained pediatric investigators."
 
-Subsec. (b). Pub. L. 113–5, §307(b)(2), substituted “paragraphs (1) and (2)(A) of subsection (a)” for “subsection (a)”.
+Subsec. (b). Pub. L. 113–5, §307(b)(2), substituted "paragraphs (1) and (2)(A) of subsection (a)" for "subsection (a)".
 
-**2012**—Subsec. (c)(1). Pub. L. 112–144, §509(d)(1)(A), inserted “or section 262(m) of this title,” after “Cosmetic Act,”.
+**2012**—Subsec. (c)(1). Pub. L. 112–144, §509(d)(1)(A), inserted "or section 262(m) of this title," after "Cosmetic Act,".
 
-Subsec. (c)(1)(A)(i). Pub. L. 112–144, §509(d)(1)(B), inserted “or section 262(k) of this title” after “Cosmetic Act”.
+Subsec. (c)(1)(A)(i). Pub. L. 112–144, §509(d)(1)(B), inserted "or section 262(k) of this title" after "Cosmetic Act".
 
-Subsec. (c)(1)(B). Pub. L. 112–144, §509(d)(1)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “there is no patent protection or market exclusivity protection for at least one form of the drug under the Federal Food, Drug, and Cosmetic Act; and”.
+Subsec. (c)(1)(B). Pub. L. 112–144, §509(d)(1)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "there is no patent protection or market exclusivity protection for at least one form of the drug under the Federal Food, Drug, and Cosmetic Act; and".
 
-Subsec. (c)(2). Pub. L. 112–144, §509(d)(2), struck out “for drugs lacking exclusivity” after “applications” in heading, and in text struck out “under section 505 of the Federal Food, Drug, and Cosmetic Act” after “for the drug” and substituted “505A of the Federal Food, Drug, and Cosmetic Act or section 262(m) of this title” for “505A of such Act”.
+Subsec. (c)(2). Pub. L. 112–144, §509(d)(2), struck out "for drugs lacking exclusivity" after "applications" in heading, and in text struck out "under section 505 of the Federal Food, Drug, and Cosmetic Act" after "for the drug" and substituted "505A of the Federal Food, Drug, and Cosmetic Act or section 262(m) of this title" for "505A of such Act".
 
-Subsec. (e)(1). Pub. L. 112–144, §507(d), substituted “to carry out this section, $25,000,000 for each of fiscal years 2013 through 2017.” for “to carry out this section—
+Subsec. (e)(1). Pub. L. 112–144, §507(d), substituted "to carry out this section, $25,000,000 for each of fiscal years 2013 through 2017." for "to carry out this section—
 
-“(A) $200,000,000 for fiscal year 2008; and
+"(A) $200,000,000 for fiscal year 2008; and
 
-“(B) such sums as are necessary for each of the four succeeding fiscal years.”
+"(B) such sums as are necessary for each of the four succeeding fiscal years."
 
-**2010**—Subsec. (a)(1). Pub. L. 111–148 inserted “, biological products,” after “including drugs”.
+**2010**—Subsec. (a)(1). Pub. L. 111–148 inserted ", biological products," after "including drugs".
 
 **2007**—Pub. L. 110–85 amended section generally. Prior to amendment, section related to development of list of drugs for which pediatric studies are needed, award of contracts for pediatric studies, process for requesting contract proposals to conduct certain pediatric studies, reporting of completed studies, requests for labeling changes and dispute resolution, and recommendation by the Secretary for formulation changes.
 
 Subsec. (d). Pub. L. 109–482 struck out subsec. (d) which related to authorization and availability of appropriations.
 
-**2003**—Subsec. (c)(8), (9), (11). Pub. L. 108–155 struck out “Advisory Subcommittee of the Anti-Infective Drugs” before “Advisory Committee” wherever appearing.
+**2003**—Subsec. (c)(8), (9), (11). Pub. L. 108–155 struck out "Advisory Subcommittee of the Anti-Infective Drugs" before "Advisory Committee" wherever appearing.
 
 #### Effective Date of 2007 Amendment ####
 

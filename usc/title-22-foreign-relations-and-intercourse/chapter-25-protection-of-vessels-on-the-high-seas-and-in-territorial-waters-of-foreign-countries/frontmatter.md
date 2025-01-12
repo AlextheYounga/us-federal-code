@@ -2,7 +2,7 @@
 
 Sec.
 
-1971. “Vessel of the United States” defined.
+1971. "Vessel of the United States" defined.
 
 1972. Action by Secretary of State upon seizure of vessel by foreign country; preconditions.
 

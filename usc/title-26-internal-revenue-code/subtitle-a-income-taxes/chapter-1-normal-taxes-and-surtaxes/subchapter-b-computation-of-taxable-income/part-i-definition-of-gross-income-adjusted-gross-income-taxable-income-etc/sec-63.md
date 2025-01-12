@@ -2,11 +2,11 @@
 
 #### (a) In general ####
 
-Except as provided in subsection (b), for purposes of this subtitle, the term “taxable income” means gross income minus the deductions allowed by this chapter (other than the standard deduction).
+Except as provided in subsection (b), for purposes of this subtitle, the term "taxable income" means gross income minus the deductions allowed by this chapter (other than the standard deduction).
 
 #### (b) Individuals who do not itemize their deductions ####
 
-In the case of an individual who does not elect to itemize his deductions for the taxable year, for purposes of this subtitle, the term “taxable income” means adjusted gross income, minus—
+In the case of an individual who does not elect to itemize his deductions for the taxable year, for purposes of this subtitle, the term "taxable income" means adjusted gross income, minus—
 
 (1) the standard deduction, and
 
@@ -18,7 +18,7 @@ For purposes of this subtitle—
 
 #### (1) In general ####
 
-Except as otherwise provided in this subsection, the term “standard deduction” means the sum of—
+Except as otherwise provided in this subsection, the term "standard deduction" means the sum of—
 
 (A) the basic standard deduction,
 
@@ -54,11 +54,11 @@ In the case of any taxable year beginning in a calendar year after 1988, each do
 
 (A) such dollar amount, multiplied by
 
-(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting for “calendar year 1992” in subparagraph (B) thereof—
+(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting for "calendar year 1992" in subparagraph (B) thereof—
 
-(i) “calendar year 1987” in the case of the dollar amounts contained in paragraph (2)(B), (2)(C), or (5)(A) or subsection (f), and
+(i) "calendar year 1987" in the case of the dollar amounts contained in paragraph (2)(B), (2)(C), or (5)(A) or subsection (f), and
 
-(ii) “calendar year 1997” in the case of the dollar amount contained in paragraph (5)(B).
+(ii) "calendar year 1997" in the case of the dollar amount contained in paragraph (5)(B).
 
 #### (5) Limitation on basic standard deduction in the case of certain dependents ####
 
@@ -94,15 +94,15 @@ Any taxes taken into account under section 62(a) shall not be taken into account
 
 #### (8) Disaster loss deduction ####
 
-For the purposes of paragraph (1), the term “disaster loss deduction” means the net disaster loss (as defined in section 165(h)(3)(B)).
+For the purposes of paragraph (1), the term "disaster loss deduction" means the net disaster loss (as defined in section 165(h)(3)(B)).
 
 #### (9) Motor vehicle sales tax deduction ####
 
-For purposes of paragraph (1), the term “motor vehicle sales tax deduction” means the amount allowable as a deduction under section 164(a)(6). Such term shall not include any amount taken into account under section 62(a).
+For purposes of paragraph (1), the term "motor vehicle sales tax deduction" means the amount allowable as a deduction under section 164(a)(6). Such term shall not include any amount taken into account under section 62(a).
 
 #### (d) Itemized deductions ####
 
-For purposes of this subtitle, the term “itemized deductions” means the deductions allowable under this chapter other than—
+For purposes of this subtitle, the term "itemized deductions" means the deductions allowable under this chapter other than—
 
 (1) the deductions allowable in arriving at adjusted gross income, and
 
@@ -150,7 +150,7 @@ For purposes of subparagraph (B), if the spouse dies during the taxable year the
 
 #### (3) Higher amount for certain unmarried individuals ####
 
-In the case of an individual who is not married and is not a surviving spouse, paragraphs (1) and (2) shall be applied by substituting “$750” for “$600”.
+In the case of an individual who is not married and is not a surviving spouse, paragraphs (1) and (2) shall be applied by substituting "$750" for "$600".
 
 #### (4) Blindness defined ####
 
@@ -172,7 +172,7 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 Subsec. (c)(9). Pub. L. 111–5, §1008(c)(2), added par. (9).
 
-**2008**—Subsec. (c)(1)(C). Pub. L. 110–343, §204(a), inserted “or 2009” after “2008”.
+**2008**—Subsec. (c)(1)(C). Pub. L. 110–343, §204(a), inserted "or 2009" after "2008".
 
 Pub. L. 110–289, §3012(a), added subpar. (C).
 
@@ -184,137 +184,137 @@ Subsec. (c)(8). Pub. L. 110–343, §706(b)(2), added par. (8).
 
 **2004**—Subsec. (c)(2). Pub. L. 108–311, §101(b)(1), reenacted heading without change and amended text generally, substituting provisions relating to a specific percentage for provisions relating to applicable percentage in subpar. (A), redesignating subpar. (D) as (C), and deleting former subpar. (C) relating to married individuals filing separately.
 
-Subsec. (c)(4). Pub. L. 108–311, §101(b)(2)(A), substituted “(2)(C)” for “(2)(D)” in introductory provisions and in subpar. (B)(i).
+Subsec. (c)(4). Pub. L. 108–311, §101(b)(2)(A), substituted "(2)(C)" for "(2)(D)" in introductory provisions and in subpar. (B)(i).
 
 Subsec. (c)(7). Pub. L. 108–311, §101(b)(2)(B), struck out par. (7) which related to applicable percentage for purposes of par. (2).
 
 **2003**—Subsec. (c)(7). Pub. L. 108–27 inserted table item relating to years 2003 and 2004.
 
-**2002**—Subsec. (c)(2). Pub. L. 107–147, §411(e)(1)(E), inserted “If any amount determined under subparagraph (A) is not a multiple of $50, such amount shall be rounded to the next lowest multiple of $50.” at end.
+**2002**—Subsec. (c)(2). Pub. L. 107–147, §411(e)(1)(E), inserted "If any amount determined under subparagraph (A) is not a multiple of $50, such amount shall be rounded to the next lowest multiple of $50." at end.
 
-Subsec. (c)(2)(A). Pub. L. 107–147, §411(e)(1)(A), substituted “subparagraph (D)” for “subparagraph (C)”.
+Subsec. (c)(2)(A). Pub. L. 107–147, §411(e)(1)(A), substituted "subparagraph (D)" for "subparagraph (C)".
 
-Subsec. (c)(2)(B). Pub. L. 107–147, §411(e)(1)(B), struck out “or” at end.
+Subsec. (c)(2)(B). Pub. L. 107–147, §411(e)(1)(B), struck out "or" at end.
 
 Subsec. (c)(2)(C), (D). Pub. L. 107–147, §411(e)(1)(C), (D), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-Subsec. (c)(4). Pub. L. 107–147, §411(e)(2)(C), which directed amendment by striking out the flush sentence at the end added by section 301(c)(2) of Public Law 107–17, was executed by striking out “The preceding sentence shall not apply to the amount referred to in paragraph (2)(A).”, which was inserted by section 301(c)(2) of Pub. L. 107–16, to reflect the probable intent of Congress. See 2001 Amendment note below.
+Subsec. (c)(4). Pub. L. 107–147, §411(e)(2)(C), which directed amendment by striking out the flush sentence at the end added by section 301(c)(2) of Public Law 107–17, was executed by striking out "The preceding sentence shall not apply to the amount referred to in paragraph (2)(A).", which was inserted by section 301(c)(2) of Pub. L. 107–16, to reflect the probable intent of Congress. See 2001 Amendment note below.
 
-Pub. L. 107–147, §411(e)(2)(A), substituted “paragraph (2)(B), (2)(D), or (5)” for “paragraph (2) or (5)” in introductory provisions.
+Pub. L. 107–147, §411(e)(2)(A), substituted "paragraph (2)(B), (2)(D), or (5)" for "paragraph (2) or (5)" in introductory provisions.
 
-Subsec. (c)(4)(B)(i). Pub. L. 107–147, §411(e)(2)(B), substituted “paragraph (2)(B), (2)(D),” for “paragraph (2)”.
+Subsec. (c)(4)(B)(i). Pub. L. 107–147, §411(e)(2)(B), substituted "paragraph (2)(B), (2)(D)," for "paragraph (2)".
 
-**2001**—Subsec. (c)(2)(A). Pub. L. 107–16, §301(a)(1), substituted “the applicable percentage of the dollar amount in effect under subparagraph (C) for the taxable year” for “$5,000”.
+**2001**—Subsec. (c)(2)(A). Pub. L. 107–16, §301(a)(1), substituted "the applicable percentage of the dollar amount in effect under subparagraph (C) for the taxable year" for "$5,000".
 
-Subsec. (c)(2)(B). Pub. L. 107–16, §301(a)(2), inserted “or” at end.
+Subsec. (c)(2)(B). Pub. L. 107–16, §301(a)(2), inserted "or" at end.
 
-Subsec. (c)(2)(C). Pub. L. 107–16, §301(a)(3), substituted “in any other case.” for “in the case of an individual who is not married and who is not a surviving spouse or head of household, or”.
+Subsec. (c)(2)(C). Pub. L. 107–16, §301(a)(3), substituted "in any other case." for "in the case of an individual who is not married and who is not a surviving spouse or head of household, or".
 
-Subsec. (c)(2)(D). Pub. L. 107–16, §301(a)(4), struck out subpar. (D) which read as follows: “$2,500 in the case of a married individual filing a separate return.”
+Subsec. (c)(2)(D). Pub. L. 107–16, §301(a)(4), struck out subpar. (D) which read as follows: "$2,500 in the case of a married individual filing a separate return."
 
-Subsec. (c)(4). Pub. L. 107–16, §301(c)(2), inserted at end “The preceding sentence shall not apply to the amount referred to in paragraph (2)(A).”
+Subsec. (c)(4). Pub. L. 107–16, §301(c)(2), inserted at end "The preceding sentence shall not apply to the amount referred to in paragraph (2)(A)."
 
 Subsec. (c)(7). Pub. L. 107–16, §301(b), added par. (7).
 
-**1997**—Subsec. (c)(4). Pub. L. 105–34, §1201(a)(2), in introductory provisions, substituted “(5)” for “(5)(A)” and, in subpar. (B), substituted “by substituting for ‘calendar year 1992’ in subparagraph (B) thereof—” for “by substituting ‘calendar year 1987’ for ‘calendar year 1992’ in subparagraph (B) thereof” and added cls. (i) and (ii).
+**1997**—Subsec. (c)(4). Pub. L. 105–34, §1201(a)(2), in introductory provisions, substituted "(5)" for "(5)(A)" and, in subpar. (B), substituted "by substituting for 'calendar year 1992' in subparagraph (B) thereof—" for "by substituting 'calendar year 1987' for 'calendar year 1992' in subparagraph (B) thereof" and added cls. (i) and (ii).
 
-Subsec. (c)(5)(B). Pub. L. 105–34, §1201(a)(1), substituted “the sum of $250 and such individual's earned income” for “such individual's earned income”.
+Subsec. (c)(5)(B). Pub. L. 105–34, §1201(a)(1), substituted "the sum of $250 and such individual's earned income" for "such individual's earned income".
 
-**1993**—Subsec. (c)(4)(B). Pub. L. 103–66 substituted “1992” for “1989”.
+**1993**—Subsec. (c)(4)(B). Pub. L. 103–66 substituted "1992" for "1989".
 
-**1990**—Subsec. (c)(4)(B). Pub. L. 101–508, §11101(d)(1)(D), inserted before period at end “, by substituting ‘calendar year 1987’ for ‘calendar year 1989’ in subparagraph (B) thereof”.
+**1990**—Subsec. (c)(4)(B). Pub. L. 101–508, §11101(d)(1)(D), inserted before period at end ", by substituting 'calendar year 1987' for 'calendar year 1989' in subparagraph (B) thereof".
 
-Subsec. (h). Pub. L. 101–508, §11801(a)(4), struck out subsec. (h) “Transitional rule for taxable years beginning in 1987” which read as follows: “In the case of any taxable year beginning in 1987, paragraph (2) of subsection (c) shall be applied—
+Subsec. (h). Pub. L. 101–508, §11801(a)(4), struck out subsec. (h) "Transitional rule for taxable years beginning in 1987" which read as follows: "In the case of any taxable year beginning in 1987, paragraph (2) of subsection (c) shall be applied—
 
-“(1) by substituting ‘$3,760’ for ‘$5,000’,
+"(1) by substituting '$3,760' for '$5,000',
 
-“(2) by substituting ‘$2,540’ for ‘$4,400’,
+"(2) by substituting '$2,540' for '$4,400',
 
-“(3) by substituting ‘$2,540’ for ‘$3,000’, and
+"(3) by substituting '$2,540' for '$3,000', and
 
-“(4) by substituting ‘$1,880’ for ‘$2,500’.
+"(4) by substituting '$1,880' for '$2,500'.
 
-The preceding sentence shall not apply if the taxpayer is entitled to an additional amount determined under subsection (f) (relating to additional amount for aged and blind) for the taxable year.”
+The preceding sentence shall not apply if the taxpayer is entitled to an additional amount determined under subsection (f) (relating to additional amount for aged and blind) for the taxable year."
 
-**1988**—Subsec. (c)(5). Pub. L. 100–647 substituted “basic standard deduction” for “standard deduction” in heading and text.
+**1988**—Subsec. (c)(5). Pub. L. 100–647 substituted "basic standard deduction" for "standard deduction" in heading and text.
 
-**1986**—Subsec. (a). Pub. L. 99–514, §102(a), substituted “In general” for “Corporations” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of this subtitle, in the case of a corporation, the term ‘taxable income’ means gross income minus the deductions allowed by this chapter.”
+**1986**—Subsec. (a). Pub. L. 99–514, §102(a), substituted "In general" for "Corporations" in heading and amended text generally. Prior to amendment, text read as follows: "For purposes of this subtitle, in the case of a corporation, the term 'taxable income' means gross income minus the deductions allowed by this chapter."
 
-Subsec. (b). Pub. L. 99–514, §102(a), substituted “Individuals who do not itemize their deductions” for “Individuals” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of this subtitle, in the case of an individual, the term ‘taxable income’ means adjusted gross income—
+Subsec. (b). Pub. L. 99–514, §102(a), substituted "Individuals who do not itemize their deductions" for "Individuals" in heading and amended text generally. Prior to amendment, text read as follows: "For purposes of this subtitle, in the case of an individual, the term 'taxable income' means adjusted gross income—
 
-“(1) reduced by the sum of—
+"(1) reduced by the sum of—
 
-“(A) the excess itemized deductions,
+"(A) the excess itemized deductions,
 
-“(B) the deductions for personal exemptions provided by section 151, and
+"(B) the deductions for personal exemptions provided by section 151, and
 
-“(C) the direct charitable deduction, and
+"(C) the direct charitable deduction, and
 
-“(2) increased (in the case of an individual for whom an unused zero bracket amount computation is provided by subsection (e)) by the unused zero bracket amount (if any).”
+"(2) increased (in the case of an individual for whom an unused zero bracket amount computation is provided by subsection (e)) by the unused zero bracket amount (if any)."
 
-Subsec. (c). Pub. L. 99–514, §102(a), substituted “Standard deduction” for “Excess itemized deductions” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of this subtitle, the term ‘excess itemized deductions’ means the excess (if any) of—
+Subsec. (c). Pub. L. 99–514, §102(a), substituted "Standard deduction" for "Excess itemized deductions" in heading and amended text generally. Prior to amendment, text read as follows: "For purposes of this subtitle, the term 'excess itemized deductions' means the excess (if any) of—
 
-“(1) the itemized deductions, over
+"(1) the itemized deductions, over
 
-“(2) the zero bracket amount.”
+"(2) the zero bracket amount."
 
-Subsec. (c)(6)(C) to (E). Pub. L. 99–514, §1272(d)(6), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: “a citizen of the United States entitled to the benefits of section 931 (relating to income from sources within possessions of the United States),”.
+Subsec. (c)(6)(C) to (E). Pub. L. 99–514, §1272(d)(6), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: "a citizen of the United States entitled to the benefits of section 931 (relating to income from sources within possessions of the United States),".
 
-Subsec. (d). Pub. L. 99–514, §102(a), substituted “Itemized deductions” for “Zero bracket amount” in heading and amended text generally. Prior to amendment, subsec. (d) read as follows: “For purposes of this subtitle, the term ‘zero bracket amount’ means—
+Subsec. (d). Pub. L. 99–514, §102(a), substituted "Itemized deductions" for "Zero bracket amount" in heading and amended text generally. Prior to amendment, subsec. (d) read as follows: "For purposes of this subtitle, the term 'zero bracket amount' means—
 
-“(1) in the case of an individual to whom subsection (a), (b), (c), or (d) of section 1 applies, the maximum amount of taxable income on which no tax is imposed by the applicable subsection of section 1, or
+"(1) in the case of an individual to whom subsection (a), (b), (c), or (d) of section 1 applies, the maximum amount of taxable income on which no tax is imposed by the applicable subsection of section 1, or
 
-“(2) zero in any other case.”
+"(2) zero in any other case."
 
-Subsec. (e). Pub. L. 99–514, §102(a), substituted “Election to itemize” for “Unused zero bracket amount” in heading.
+Subsec. (e). Pub. L. 99–514, §102(a), substituted "Election to itemize" for "Unused zero bracket amount" in heading.
 
-Subsec. (e)(1). Pub. L. 99–514, §102(a), substituted “In general” for “Individuals for whom computation must be made” in heading and amended text generally. Prior to amendment, text read as follows: “A computation for the taxable year shall be made under this subsection for the following individuals:
+Subsec. (e)(1). Pub. L. 99–514, §102(a), substituted "In general" for "Individuals for whom computation must be made" in heading and amended text generally. Prior to amendment, text read as follows: "A computation for the taxable year shall be made under this subsection for the following individuals:
 
-“(A) a married individual filing a separate return where either spouse itemized deductions,
+"(A) a married individual filing a separate return where either spouse itemized deductions,
 
-“(B) a nonresident alien individual,
+"(B) a nonresident alien individual,
 
-“(C) a citizen of the United States entitled to the benefits of section 931 (relating to income from sources within possessions of the United States), and
+"(C) a citizen of the United States entitled to the benefits of section 931 (relating to income from sources within possessions of the United States), and
 
-“(D) an individual with respect to whom a deduction under section 151(e) is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual's taxable year begins.”
+"(D) an individual with respect to whom a deduction under section 151(e) is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual's taxable year begins."
 
-Subsec. (e)(2). Pub. L. 99–514, §102(a), substituted “Time and manner of election” for “Computation” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of this subtitle, an individual's unused zero bracket amount for the taxable year is an amount equal to the excess (if any) of—
+Subsec. (e)(2). Pub. L. 99–514, §102(a), substituted "Time and manner of election" for "Computation" in heading and amended text generally. Prior to amendment, text read as follows: "For purposes of this subtitle, an individual's unused zero bracket amount for the taxable year is an amount equal to the excess (if any) of—
 
-“(A) the zero bracket amount, over
+"(A) the zero bracket amount, over
 
-“(B) the itemized deductions.
+"(B) the itemized deductions.
 
-In the case of an individual referred to in paragraph (1)(D), if such individual's earned income (as defined in section 911(d)(2)) exceeds the itemized deductions, such earned income shall be substituted for the itemized deductions in subparagraph (B).”
+In the case of an individual referred to in paragraph (1)(D), if such individual's earned income (as defined in section 911(d)(2)) exceeds the itemized deductions, such earned income shall be substituted for the itemized deductions in subparagraph (B)."
 
 Subsec. (e)(3). Pub. L. 99–514, §102(a), in amending subsec. (e) generally, added par. (3).
 
-Subsec. (f). Pub. L. 99–514, §102(a), substituted “Aged or blind additional amounts” for “Itemized deductions” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of this subtitle, the term ‘itemized deductions’ means the deductions allowable by this chapter other than—
+Subsec. (f). Pub. L. 99–514, §102(a), substituted "Aged or blind additional amounts" for "Itemized deductions" in heading and amended text generally. Prior to amendment, text read as follows: "For purposes of this subtitle, the term 'itemized deductions' means the deductions allowable by this chapter other than—
 
-“(1) the deductions allowable in arriving at adjusted gross income,
+"(1) the deductions allowable in arriving at adjusted gross income,
 
-“(2) the deductions for personal exemptions provided by section 151, and
+"(2) the deductions for personal exemptions provided by section 151, and
 
-“(3) the direct charitable deduction.”
+"(3) the direct charitable deduction."
 
 Subsec. (g). Pub. L. 99–514, §102(a), amended subsec. (g) generally, substituting provision that marital status be determined under section 7703 for provisions relating to election to itemize. See subsec. (e).
 
-Subsec. (h). Pub. L. 99–514, §102(a), substituted “Transitional rule for taxable years beginning in 1987” for “Marital status” in heading and amended text generally. Prior to amendment, text read as follows: “For purposes of this section, marital status shall be determined under section 143.”
+Subsec. (h). Pub. L. 99–514, §102(a), substituted "Transitional rule for taxable years beginning in 1987" for "Marital status" in heading and amended text generally. Prior to amendment, text read as follows: "For purposes of this section, marital status shall be determined under section 143."
 
-Subsec. (i). Pub. L. 99–514, §102(a), in amending section generally, struck out subsec. (i), “Direct charitable deduction”, which read as follows: “For purposes of this section, the term ‘direct charitable deduction’ means that portion of the amount allowable under section 170(a) which is taken as a direct charitable deduction for the taxable year under section 170(i).”
+Subsec. (i). Pub. L. 99–514, §102(a), in amending section generally, struck out subsec. (i), "Direct charitable deduction", which read as follows: "For purposes of this section, the term 'direct charitable deduction' means that portion of the amount allowable under section 170(a) which is taken as a direct charitable deduction for the taxable year under section 170(i)."
 
 **1981**—Subsec. (b)(1)(C). Pub. L. 97–34, §121(b)(1), added subpar. (C).
 
 Subsec. (d). Pub. L. 97–34, §104(b), substituted a blanket reference to individuals to whom subsection (a), (b), (c), or (d) of section 1 applies and the maximum amount of taxable income on which no tax is imposed by the applicable subsection of section 1 for provisions specifically referring to amounts of $3,400 in the case of (A) a joint return under section 6013, or (B) a surviving spouse (as defined in section 2(a)), $2,300 in the case of an individual who is not married and who is not a surviving spouse (as so defined), and $1,700 in the case of a married individual filing a separate return.
 
-Subsec. (e)(2). Pub. L. 97–34, §111(b)(4), substituted “section 911(d)(2)” for “section 911(b)” in provisions following subpar. (B).
+Subsec. (e)(2). Pub. L. 97–34, §111(b)(4), substituted "section 911(d)(2)" for "section 911(b)" in provisions following subpar. (B).
 
 Subsec. (f)(3). Pub. L. 97–34, §121(c)(2), added par. (3).
 
 Subsec. (i). Pub. L. 97–34, §121(b)(2), added subsec. (i).
 
-**1978**—Pub. L. 95–600 substituted “$3,400” for “$3,200” in par. (1), “$2,300” for “$2,200” in par. (2), and “$1,700” for “$1,600” in par. (3).
+**1978**—Pub. L. 95–600 substituted "$3,400" for "$3,200" in par. (1), "$2,300" for "$2,200" in par. (2), and "$1,700" for "$1,600" in par. (3).
 
-**1977**—Pub. L. 95–30 completely revised definition of taxable income from one using the concept of a standard deduction and consisting of subsecs. (a) and (b) entitled, respectively, “General rule” and “Individuals electing standard deduction” to definition using the concepts of zero bracket amounts and excess itemized deductions and consisting of subsecs. (a) to (h) entitled, respectively, “Corporations”, “Individuals”, “Excess itemized deductions”, “Zero bracket amount”, “Unused zero bracket amount”, “Itemized deductions”, “Election to itemize”, and “Marital status”.
+**1977**—Pub. L. 95–30 completely revised definition of taxable income from one using the concept of a standard deduction and consisting of subsecs. (a) and (b) entitled, respectively, "General rule" and "Individuals electing standard deduction" to definition using the concepts of zero bracket amounts and excess itemized deductions and consisting of subsecs. (a) to (h) entitled, respectively, "Corporations", "Individuals", "Excess itemized deductions", "Zero bracket amount", "Unused zero bracket amount", "Itemized deductions", "Election to itemize", and "Marital status".
 
 #### Effective Date of 2009 Amendment ####
 
@@ -322,11 +322,11 @@ Amendment by Pub. L. 111–5 applicable to purchases on or after Feb. 17, 2009, 
 
 #### Effective Date of 2008 Amendment ####
 
-Pub. L. 110–343, div. C, title II, §204(b), Oct. 3, 2008, 122 Stat. 3865, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2008.”
+Pub. L. 110–343, div. C, title II, §204(b), Oct. 3, 2008, 122 Stat. 3865, provided that: "The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2008."
 
 Amendment by section 706(b)(1), (2) of Pub. L. 110–343 applicable to disasters declared in taxable years beginning after Dec. 31, 2007, see section 706(d)(1) of Pub. L. 110–343, set out as a note under section 56 of this title.
 
-Pub. L. 110–289, div. C, title I, §3012(c), July 30, 2008, 122 Stat. 2892, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2007.”
+Pub. L. 110–289, div. C, title I, §3012(c), July 30, 2008, 122 Stat. 2892, provided that: "The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2007."
 
 #### Effective and Termination Dates of 2004 Amendment ####
 
@@ -336,7 +336,7 @@ Amendment by Pub. L. 108–311 subject to title IX of the Economic Growth and Ta
 
 #### Effective and Termination Dates of 2003 Amendment ####
 
-Pub. L. 108–27, title I, §103(c), May 28, 2003, 117 Stat. 754, provided that: “The amendments made by this section [amending this section and provisions set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title] shall apply to taxable years beginning after December 31, 2002.”
+Pub. L. 108–27, title I, §103(c), May 28, 2003, 117 Stat. 754, provided that: "The amendments made by this section [amending this section and provisions set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title] shall apply to taxable years beginning after December 31, 2002."
 
 Amendments by title I of Pub. L. 108–27 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, to the same extent and in the same manner as the provisions of such Act to which such amendments relate, see section 107 of Pub. L. 108–27, set out as a note under section 1 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
 

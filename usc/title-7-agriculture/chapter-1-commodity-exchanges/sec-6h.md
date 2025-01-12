@@ -6,7 +6,7 @@ It shall be unlawful for any person falsely to represent such person to be a mem
 
 #### Amendments ####
 
-**2000**—Pub. L. 106–554 substituted “registered entity” for “contract market” in two places.
+**2000**—Pub. L. 106–554 substituted "registered entity" for "contract market" in two places.
 
 **1983**—Pub. L. 97–444 struck out provisions formerly designated as par. (1) relating to conduct of offices or places of business anywhere in the United States or its territories that were used for dealing in commodities for future delivery unless such dealings were executed or consummated by or through a member of a contract market, which provisions were transferred to section 6(a) of this title, and broadened remaining provisions, formerly designated as par. (2), to prohibit false representations that a person is registered with the Commission in any capacity, and not only as a futures commission merchant, as previously provided.
 

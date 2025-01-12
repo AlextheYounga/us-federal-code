@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Adult with a special need ####
 
-The term “adult with a special need” means a person 18 years of age or older who requires care or supervision to—
+The term "adult with a special need" means a person 18 years of age or older who requires care or supervision to—
 
 (A) meet the person's basic needs;
 
@@ -14,7 +14,7 @@ The term “adult with a special need” means a person 18 years of age or older
 
 #### (2) Aging and disability resource center ####
 
-The term “aging and disability resource center” means an entity administering a program established by the State, as part of the State's system of long-term care, to provide a coordinated system for providing—
+The term "aging and disability resource center" means an entity administering a program established by the State, as part of the State's system of long-term care, to provide a coordinated system for providing—
 
 (A) comprehensive information on available public and private long-term care programs, options, and resources;
 
@@ -24,7 +24,7 @@ The term “aging and disability resource center” means an entity administerin
 
 #### (3) Child with a special need ####
 
-The term “child with a special need” means an individual less than 18 years of age who requires care or supervision beyond that required of children generally to—
+The term "child with a special need" means an individual less than 18 years of age who requires care or supervision beyond that required of children generally to—
 
 (A) meet the child's basic needs; or
 
@@ -32,7 +32,7 @@ The term “child with a special need” means an individual less than 18 years 
 
 #### (4) Eligible State agency ####
 
-The term “eligible State agency” means a State agency that—
+The term "eligible State agency" means a State agency that—
 
 (A) administers the State's program under the Older Americans Act of 1965 [42 U.S.C. 3001 et seq.], administers the State's program under title XIX of the Social Security Act [42 U.S.C. 1396 et seq.], or is designated by the Governor of such State to administer the State's programs under this subchapter;
 
@@ -50,19 +50,19 @@ The term “eligible State agency” means a State agency that—
 
 #### (5) Family caregiver ####
 
-The term “family caregiver” means an unpaid family member, a foster parent, or another unpaid adult, who provides in-home monitoring, management, supervision, or treatment of a child or adult with a special need.
+The term "family caregiver" means an unpaid family member, a foster parent, or another unpaid adult, who provides in-home monitoring, management, supervision, or treatment of a child or adult with a special need.
 
 #### (6) Lifespan respite care ####
 
-The term “lifespan respite care” means a coordinated system of accessible, community-based respite care services for family caregivers of children or adults with special needs.
+The term "lifespan respite care" means a coordinated system of accessible, community-based respite care services for family caregivers of children or adults with special needs.
 
 #### (7) Respite care ####
 
-The term “respite care” means planned or emergency care provided to a child or adult with a special need in order to provide temporary relief to the family caregiver of that child or adult.
+The term "respite care" means planned or emergency care provided to a child or adult with a special need in order to provide temporary relief to the family caregiver of that child or adult.
 
 #### (8) State ####
 
-The term “State” means any of the several States, the District of Columbia, the Virgin Islands of the United States, the Commonwealth of Puerto Rico, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+The term "State" means any of the several States, the District of Columbia, the Virgin Islands of the United States, the Commonwealth of Puerto Rico, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 (July 1, 1944, ch. 373, title XXIX, §2901, as added Pub. L. 109–442, §2, Dec. 21, 2006, 120 Stat. 3291.)
 

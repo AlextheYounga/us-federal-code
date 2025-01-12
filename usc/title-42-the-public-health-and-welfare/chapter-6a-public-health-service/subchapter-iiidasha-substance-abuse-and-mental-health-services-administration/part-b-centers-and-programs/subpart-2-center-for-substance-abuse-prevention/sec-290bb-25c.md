@@ -76,6 +76,6 @@ Of the amounts appropriated under paragraph (1) for a fiscal year, not less than
 
 #### Amendments ####
 
-**2007**—Subsec. (g)(2). Pub. L. 110–154, which directed substitution of “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”, was executed by making the substitution for “National Institute on Child Health and Human Development” to reflect the probable intent of Congress.
+**2007**—Subsec. (g)(2). Pub. L. 110–154, which directed substitution of "Eunice Kennedy Shriver National Institute of Child Health and Human Development" for "National Institute of Child Health and Human Development", was executed by making the substitution for "National Institute on Child Health and Human Development" to reflect the probable intent of Congress.
 
-[<sup>1</sup> So in original. Probably should be preceded by “provide”.](#290bb-25c_1)
+[<sup>1</sup> So in original. Probably should be preceded by "provide".](#290bb-25c_1)

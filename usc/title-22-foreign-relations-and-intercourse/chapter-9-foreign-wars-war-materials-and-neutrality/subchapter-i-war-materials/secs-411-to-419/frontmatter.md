@@ -4,7 +4,7 @@
 
 Sections 411, 412, and 413 to 419, popularly known as the Lend-Lease Act, terminated not later than June 30, 1946, pursuant to section 412 of this title.
 
-Section 411, act Mar. 11, 1941, ch. 11, §2, 55 Stat. 31, defined “defense article” and “defense information” for purpose of lease, loan, etc., of war materials in interest of United States defense.
+Section 411, act Mar. 11, 1941, ch. 11, §2, 55 Stat. 31, defined "defense article" and "defense information" for purpose of lease, loan, etc., of war materials in interest of United States defense.
 
 Section 412, acts Mar. 11, 1941, ch. 11, §3, 55 Stat. 31; Mar. 11, 1943, ch. 15, 57 Stat. 20; May 17, 1944, ch. 198, §§1, 2, 58 Stat. 222, 223; Apr. 16, 1945, ch. 61, §§1, 2, 59 Stat. 52, provided for procurement for and transfer of defense articles to other countries, repairs, limitation on amount, termination of powers after June 30, 1946, or after passage of concurrent resolution by both Houses before June 30, 1946, whichever is the earlier, naval convoys, and combat area navigation.
 
@@ -38,4 +38,4 @@ The value of defense articles was reduced to $800,000,000 by act Dec. 17, 1941, 
 
 #### Definitions ####
 
-Act Mar. 5, 1942, ch. 141, title III, §303, 56 Stat. 131, provided that the term “defense article” shall be deemed to include defense information and services, and the expenses in connection with the procurement or supplying of defense articles, information, and services.
+Act Mar. 5, 1942, ch. 141, title III, §303, 56 Stat. 131, provided that the term "defense article" shall be deemed to include defense information and services, and the expenses in connection with the procurement or supplying of defense articles, information, and services.

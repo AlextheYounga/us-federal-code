@@ -2,7 +2,7 @@
 
 #### (a) Register ####
 
-(1) The Railroad Retirement Board (hereafter in this section referred to as the “Board”) shall prepare and maintain a register of persons separated from railroad employment after at least one year of completed service with a railroad who have declared their current availability for employment in the railroad industry. The register shall be subdivided by class and craft of prior employment and shall be updated periodically to reflect current availability.
+(1) The Railroad Retirement Board (hereafter in this section referred to as the "Board") shall prepare and maintain a register of persons separated from railroad employment after at least one year of completed service with a railroad who have declared their current availability for employment in the railroad industry. The register shall be subdivided by class and craft of prior employment and shall be updated periodically to reflect current availability.
 
 (2) Each entry in the register shall include, or provide access to, basic information concerning the individual's experience and qualifications.
 
@@ -48,12 +48,12 @@ Any dispute, grievance, or claim arising under this section, section 797b of thi
 
 **1986**—Subsec. (c). Pub. L. 99–272, §4011(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (f). Pub. L. 99–272, §4011(b), substituted “6-year” for “4-year”.
+Subsec. (f). Pub. L. 99–272, §4011(b), substituted "6-year" for "4-year".
 
-**1983**—Subsec. (f). Pub. L. 97–468, §235(a), substituted “4-year” for “3-year”.
+**1983**—Subsec. (f). Pub. L. 97–468, §235(a), substituted "4-year" for "3-year".
 
-Subsec. (g). Pub. L. 97–468, §235(b), substituted “this section, section 797b of this title, section 907 of this title, or section 1004 of this title” for “this section or section 797b of this title” wherever appearing.
+Subsec. (g). Pub. L. 97–468, §235(b), substituted "this section, section 797b of this title, section 907 of this title, or section 1004 of this title" for "this section or section 797b of this title" wherever appearing.
 
 #### Effective Date of 1986 Amendment ####
 
-Pub. L. 99–272, title IV, §4011(d), Apr. 7, 1986, 100 Stat. 109, provided that: “The amendments made by subsections (a) and (c) [amending this section and enacting provisions set out as a note under section 797b of this title] shall take effect on the date of enactment of this Act [Apr. 7, 1986], and the amendment made by subsection (b) [amending this section] shall be effective as of August 1, 1985.”
+Pub. L. 99–272, title IV, §4011(d), Apr. 7, 1986, 100 Stat. 109, provided that: "The amendments made by subsections (a) and (c) [amending this section and enacting provisions set out as a note under section 797b of this title] shall take effect on the date of enactment of this Act [Apr. 7, 1986], and the amendment made by subsection (b) [amending this section] shall be effective as of August 1, 1985."

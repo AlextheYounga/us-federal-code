@@ -14,9 +14,9 @@
 
 #### Amendments ####
 
-**1994**—Subsec. (b). Pub. L. 103–437 in introductory provisions substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the United States Congress”.
+**1994**—Subsec. (b). Pub. L. 103–437 in introductory provisions substituted "Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives" for "Committees on Interior and Insular Affairs of the United States Congress".
 
-**1980**—Subsec. (a). Pub. L. 96–287 substituted “$13,895,000” for “$8,622,000”.
+**1980**—Subsec. (a). Pub. L. 96–287 substituted "$13,895,000" for "$8,622,000".
 
 #### Authorizations Effective October 1, 1980 ####
 

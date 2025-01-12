@@ -16,22 +16,22 @@ Subsection (a) of this section shall not apply to—
 
 #### Amendments ####
 
-**1989**—Subsec. (b). Pub. L. 101–239 struck out at end “Under regulations, rules similar to the rules of subsections (a) and (b) of section 52 of title 26 (relating to employers under common control) shall apply for purposes of paragraph (1).”
+**1989**—Subsec. (b). Pub. L. 101–239 struck out at end "Under regulations, rules similar to the rules of subsections (a) and (b) of section 52 of title 26 (relating to employers under common control) shall apply for purposes of paragraph (1)."
 
 #### Effective Date of 1989 Amendment ####
 
-Pub. L. 101–239, title VI, §6801(a)(2), Dec. 19, 1989, 103 Stat. 2297, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to years beginning after December 31, 1986.”
+Pub. L. 101–239, title VI, §6801(a)(2), Dec. 19, 1989, 103 Stat. 2297, provided that: "The amendment made by paragraph (1) [amending this section] shall apply to years beginning after December 31, 1986."
 
 #### Effective Date ####
 
 Pub. L. 99–272, title X, §10003(b), Apr. 7, 1986, 100 Stat. 236, provided that:
 
-“(1) General rule.—The amendments made by this section [enacting this subchapter] shall apply to plan years beginning on or after July 1, 1986.
+"(1) General rule.—The amendments made by this section [enacting this subchapter] shall apply to plan years beginning on or after July 1, 1986.
 
-“(2) Special rule for collective bargaining agreements.—In the case of a group health plan maintained pursuant to one or more collective bargaining agreements between employee representatives and one or more employers ratified before the date of the enactment of this Act [Apr. 7, 1986], the amendments made by this section shall not apply to plan years beginning before the later of—
+"(2) Special rule for collective bargaining agreements.—In the case of a group health plan maintained pursuant to one or more collective bargaining agreements between employee representatives and one or more employers ratified before the date of the enactment of this Act [Apr. 7, 1986], the amendments made by this section shall not apply to plan years beginning before the later of—
 
-“(A) the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act), or
+"(A) the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act), or
 
-“(B) January 1, 1987.
+"(B) January 1, 1987.
 
-For purposes of subparagraph (A), any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement added by this section shall not be treated as a termination of such collective bargaining agreement.”
+For purposes of subparagraph (A), any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement added by this section shall not be treated as a termination of such collective bargaining agreement."

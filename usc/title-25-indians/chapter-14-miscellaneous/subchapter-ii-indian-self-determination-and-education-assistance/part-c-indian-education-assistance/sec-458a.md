@@ -6,4 +6,4 @@ No funds from any grant or contract pursuant to this part shall be made availabl
 
 #### References in Text ####
 
-This part, referred to in text, was in the original “this title”, meaning title II of Pub. L. 93–638, known as the Indian Education Assistance Act, which is classified principally to this part (§458 et seq.). For complete classification of title II to the Code, see Short Title note set out under section 450 of this title and Tables.
+This part, referred to in text, was in the original "this title", meaning title II of Pub. L. 93–638, known as the Indian Education Assistance Act, which is classified principally to this part (§458 et seq.). For complete classification of title II to the Code, see Short Title note set out under section 450 of this title and Tables.

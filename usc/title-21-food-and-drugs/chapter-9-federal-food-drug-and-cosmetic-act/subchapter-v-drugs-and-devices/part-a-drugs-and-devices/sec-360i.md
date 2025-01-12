@@ -22,7 +22,7 @@ Every person who is a manufacturer or importer of a device intended for human us
 
 (iii) shall, if the device is imported into the United States and for which part 803 of title 21, Code of Federal Regulations (or successor regulations) requires an importer to submit a report to the manufacturer, be submitted by the importer to the manufacturer in accordance with part 803 of title 21, Code of Federal Regulations (or successor regulations) <sup><a href="#360i_1_target" name="360i_1">1</a></sup>
 
-(2) shall define the term “serious injury” to mean an injury that—
+(2) shall define the term "serious injury" to mean an injury that—
 
 (A) is life threatening,
 
@@ -112,9 +112,9 @@ shall be admissible into evidence or otherwise used in any civil action involvin
 
 (6) For purposes of this subsection:
 
-(A) The term “device user facility” means a hospital, ambulatory surgical facility, nursing home, or outpatient treatment facility which is not a physician's office. The Secretary may by regulation include an outpatient diagnostic facility which is not a physician's office in such term.
+(A) The term "device user facility" means a hospital, ambulatory surgical facility, nursing home, or outpatient treatment facility which is not a physician's office. The Secretary may by regulation include an outpatient diagnostic facility which is not a physician's office in such term.
 
-(B) The terms “serious illness” and “serious injury” mean illness or injury, respectively, that—
+(B) The terms "serious illness" and "serious injury" mean illness or injury, respectively, that—
 
 (i) is life threatening,
 
@@ -164,7 +164,7 @@ A manufacturer or importer of a device who undertakes a correction or removal of
 
 (2) No report of the corrective action or removal of a device may be required under paragraph (1) if a report of the corrective action or removal is required and has been submitted under subsection (a) of this section.
 
-(3) For purposes of paragraphs (1) and (2), the terms “correction” and “removal” do not include routine servicing.
+(3) For purposes of paragraphs (1) and (2), the terms "correction" and "removal" do not include routine servicing.
 
 #### (h) Inclusion of devices in the postmarket risk identification and analysis system ####
 
@@ -198,59 +198,59 @@ Chapter 35 of title 44 shall not apply to the collection of voluntary informatio
 
 #### Amendments ####
 
-**2012**—Subsec. (f). Pub. L. 112–144, §614, substituted “Not later than December 31, 2012, the Secretary shall issue proposed” for “The Secretary shall promulgate” and inserted at end “The Secretary shall finalize the proposed regulations not later than 6 months after the close of the comment period and shall implement the final regulations with respect to devices that are implantable, life-saving, and life sustaining not later than 2 years after the regulations are finalized, taking into account patient access to medical devices and therapies.”
+**2012**—Subsec. (f). Pub. L. 112–144, §614, substituted "Not later than December 31, 2012, the Secretary shall issue proposed" for "The Secretary shall promulgate" and inserted at end "The Secretary shall finalize the proposed regulations not later than 6 months after the close of the comment period and shall implement the final regulations with respect to devices that are implantable, life-saving, and life sustaining not later than 2 years after the regulations are finalized, taking into account patient access to medical devices and therapies."
 
 Subsec. (h). Pub. L. 112–144, §615, added subsec. (h).
 
-**2007**—Subsec. (a)(1)(B). Pub. L. 110–85, §227, substituted “were to recur, which report under this subparagraph—” for “were to recur;” and added cls. (i) to (iii).
+**2007**—Subsec. (a)(1)(B). Pub. L. 110–85, §227, substituted "were to recur, which report under this subparagraph—" for "were to recur;" and added cls. (i) to (iii).
 
 Subsecs. (f), (g). Pub. L. 110–85, §226(a), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-**1997**—Subsec. (a). Pub. L. 105–115, §213(a)(1)(A), (F), in introductory provisions, substituted “manufacturer or importer” for “manufacturer, importer, or distributor” and, in closing provisions, inserted at end “The Secretary shall by regulation require distributors to keep records and make such records available to the Secretary upon request. Paragraphs (4) and (8) apply to distributors to the same extent and in the same manner as such paragraphs apply to manufacturers and importers.”
+**1997**—Subsec. (a). Pub. L. 105–115, §213(a)(1)(A), (F), in introductory provisions, substituted "manufacturer or importer" for "manufacturer, importer, or distributor" and, in closing provisions, inserted at end "The Secretary shall by regulation require distributors to keep records and make such records available to the Secretary upon request. Paragraphs (4) and (8) apply to distributors to the same extent and in the same manner as such paragraphs apply to manufacturers and importers."
 
-Subsec. (a)(4). Pub. L. 105–115, §213(a)(1)(B), substituted “manufacturer or importer” for “manufacturer, importer, or distributor”.
+Subsec. (a)(4). Pub. L. 105–115, §213(a)(1)(B), substituted "manufacturer or importer" for "manufacturer, importer, or distributor".
 
-Subsec. (a)(7). Pub. L. 105–115, §213(a)(1)(C), inserted “and” after semicolon at end.
+Subsec. (a)(7). Pub. L. 105–115, §213(a)(1)(C), inserted "and" after semicolon at end.
 
-Subsec. (a)(8). Pub. L. 105–115, §213(a)(1)(D), substituted “manufacturer or importer” for “manufacturer, importer, or distributor” wherever appearing and substituted period for semicolon after “misbranded”.
+Subsec. (a)(8). Pub. L. 105–115, §213(a)(1)(D), substituted "manufacturer or importer" for "manufacturer, importer, or distributor" wherever appearing and substituted period for semicolon after "misbranded".
 
-Subsec. (a)(9). Pub. L. 105–115, §213(a)(1)(E), struck out par. (9) which read as follows: “shall require distributors who submit such reports to submit copies of the reports to the manufacturer of the device for which the report was made.”
+Subsec. (a)(9). Pub. L. 105–115, §213(a)(1)(E), struck out par. (9) which read as follows: "shall require distributors who submit such reports to submit copies of the reports to the manufacturer of the device for which the report was made."
 
-Subsec. (b)(1)(C). Pub. L. 105–115, §213(c)(1)(A), in introductory provisions, substituted “on an annual basis” for “on a semi-annual basis” and struck out “and July 1” after “January 1” and struck out closing provisions which read as follows: “The Secretary may by regulation alter the frequency and timing of reports required by this subparagraph.”
+Subsec. (b)(1)(C). Pub. L. 105–115, §213(c)(1)(A), in introductory provisions, substituted "on an annual basis" for "on a semi-annual basis" and struck out "and July 1" after "January 1" and struck out closing provisions which read as follows: "The Secretary may by regulation alter the frequency and timing of reports required by this subparagraph."
 
-Subsec. (b)(2)(A). Pub. L. 105–115, §213(c)(1)(B)(i), inserted “or” after comma at end.
+Subsec. (b)(2)(A). Pub. L. 105–115, §213(c)(1)(B)(i), inserted "or" after comma at end.
 
-Subsec. (b)(2)(B). Pub. L. 105–115, §213(c)(1)(B)(ii), substituted period for “, or” at end.
+Subsec. (b)(2)(B). Pub. L. 105–115, §213(c)(1)(B)(ii), substituted period for ", or" at end.
 
-Subsec. (b)(2)(C). Pub. L. 105–115, §213(c)(1)(B)(iii), struck out subpar. (C) which read as follows: “a disclosure required under subsection (a) of this section.”
+Subsec. (b)(2)(C). Pub. L. 105–115, §213(c)(1)(B)(iii), struck out subpar. (C) which read as follows: "a disclosure required under subsection (a) of this section."
 
 Subsec. (b)(5), (6). Pub. L. 105–115, §213(c)(2), added par. (5) and redesignated former par. (5) as (6).
 
-Subsec. (d). Pub. L. 105–115, §213(a)(2), struck out heading and text of subsec. (d). Text read as follows: “Each manufacturer, importer, and distributor required to make reports under subsection (a) of this section shall submit to the Secretary annually a statement certifying that—
+Subsec. (d). Pub. L. 105–115, §213(a)(2), struck out heading and text of subsec. (d). Text read as follows: "Each manufacturer, importer, and distributor required to make reports under subsection (a) of this section shall submit to the Secretary annually a statement certifying that—
 
-“(1) the manufacturer, importer, or distributor did file a certain number of such reports, or
+"(1) the manufacturer, importer, or distributor did file a certain number of such reports, or
 
-“(2) the manufacturer, importer, or distributor did not file any report under subsection (a) of this section.”
+"(2) the manufacturer, importer, or distributor did not file any report under subsection (a) of this section."
 
-Subsec. (e). Pub. L. 105–115, §211, amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “Every person who registers under section 360 of this title and is engaged in the manufacture of—
+Subsec. (e). Pub. L. 105–115, §211, amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "Every person who registers under section 360 of this title and is engaged in the manufacture of—
 
-“(1) a device the failure of which would be reasonably likely to have serious adverse health consequences and which is (A) a permanently implantable device, or (B) a life sustaining or life supporting device used outside a device user facility, or
+"(1) a device the failure of which would be reasonably likely to have serious adverse health consequences and which is (A) a permanently implantable device, or (B) a life sustaining or life supporting device used outside a device user facility, or
 
-“(2) any other device which the Secretary may designate,
+"(2) any other device which the Secretary may designate,
 
-shall adopt a method of device tracking.”
+shall adopt a method of device tracking."
 
-Subsec. (f)(1). Pub. L. 105–115, §213(a)(3), substituted “or importer” for “, importer, or distributor” wherever appearing.
+Subsec. (f)(1). Pub. L. 105–115, §213(a)(3), substituted "or importer" for ", importer, or distributor" wherever appearing.
 
-**1993**—Subsec. (a). Pub. L. 103–80 substituted “paragraph (7)” for “paragraph (4)” in last sentence.
+**1993**—Subsec. (a). Pub. L. 103–80 substituted "paragraph (7)" for "paragraph (4)" in last sentence.
 
 **1992**—Subsec. (a). Pub. L. 102–300, §5(a)(1), added pars. (1) to (3) and redesignated former pars. (1) to (6) as (4) to (9), respectively.
 
-Subsec. (b)(1)(A). Pub. L. 102–300, §5(a)(2)(A), substituted “a device has or may have” for “there is a probability that a device has”.
+Subsec. (b)(1)(A). Pub. L. 102–300, §5(a)(2)(A), substituted "a device has or may have" for "there is a probability that a device has".
 
-Subsec. (b)(1)(B). Pub. L. 102–300, §5(a)(2)(A), (B), substituted “a device has or may have” for “there is a probability that a device has”, designated existing provisions as cl. (i), and added cl. (ii).
+Subsec. (b)(1)(B). Pub. L. 102–300, §5(a)(2)(A), (B), substituted "a device has or may have" for "there is a probability that a device has", designated existing provisions as cl. (i), and added cl. (ii).
 
-Subsec. (b)(5)(B)(iii). Pub. L. 102–300, §5(a)(2)(C), struck out “immediate” before “medical”.
+Subsec. (b)(5)(B)(iii). Pub. L. 102–300, §5(a)(2)(C), struck out "immediate" before "medical".
 
 **1990**—Subsec. (a)(6). Pub. L. 101–629, §3(a)(1), added par. (6).
 
@@ -272,59 +272,59 @@ Amendment by section 213(a), (c) of Pub. L. 105–115 effective 90 days after No
 
 #### Effective Date of 1992 Amendment ####
 
-Pub. L. 102–300, §2(b), June 16, 1992, 106 Stat. 238, provided that: “The amendments made by subsection (a) [amending sections 3(b)(3) and 3(c) of Pub. L. 101–629, set out as notes below] shall take effect as of May 27, 1992 and any rule to implement section 519(e) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360i(e)] proposed under section 3(c)(2) of the Safe Medical Devices Act of 1990 [Pub. L. 101–629, set out as a note below] shall revert to its proposed status as of such date.”
+Pub. L. 102–300, §2(b), June 16, 1992, 106 Stat. 238, provided that: "The amendments made by subsection (a) [amending sections 3(b)(3) and 3(c) of Pub. L. 101–629, set out as notes below] shall take effect as of May 27, 1992 and any rule to implement section 519(e) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360i(e)] proposed under section 3(c)(2) of the Safe Medical Devices Act of 1990 [Pub. L. 101–629, set out as a note below] shall revert to its proposed status as of such date."
 
-Pub. L. 102–300, §5(b), June 16, 1992, 106 Stat. 240, provided that: “The amendments made by subsection (a) [amending this section] shall take effect—
+Pub. L. 102–300, §5(b), June 16, 1992, 106 Stat. 240, provided that: "The amendments made by subsection (a) [amending this section] shall take effect—
 
-“(1) 1 year after the date of the enactment of this Act [June 16, 1992]; or
+"(1) 1 year after the date of the enactment of this Act [June 16, 1992]; or
 
-“(2) on the effective date of regulations of the Secretary to implement such amendments,
+"(2) on the effective date of regulations of the Secretary to implement such amendments,
 
-whichever occurs first.”
+whichever occurs first."
 
 #### Effective Date of 1990 Amendment ####
 
-Pub. L. 101–629, §2(c), Nov. 28, 1990, 104 Stat. 4513, provided that: “Section 519(b) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360i(b)], as added by the amendment made by subsection (a), shall take effect—
+Pub. L. 101–629, §2(c), Nov. 28, 1990, 104 Stat. 4513, provided that: "Section 519(b) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360i(b)], as added by the amendment made by subsection (a), shall take effect—
 
-“(1) upon the effective date of regulations promulgated under subsection (b) [set out below], or
+"(1) upon the effective date of regulations promulgated under subsection (b) [set out below], or
 
-“(2) upon the expiration of 12 months from the date of the enactment of this Act [Nov. 28, 1990],
+"(2) upon the expiration of 12 months from the date of the enactment of this Act [Nov. 28, 1990],
 
-whichever occurs first.”
+whichever occurs first."
 
-Pub. L. 101–629, §3(a)(2), Nov. 28, 1990, 104 Stat. 4514, provided that: “Section 519(a)(6) [21 U.S.C. 360i(a)(6)], as added by the amendment made by paragraph (1), shall take effect upon the effective date of final regulations under subsection (c) [set out below].”
+Pub. L. 101–629, §3(a)(2), Nov. 28, 1990, 104 Stat. 4514, provided that: "Section 519(a)(6) [21 U.S.C. 360i(a)(6)], as added by the amendment made by paragraph (1), shall take effect upon the effective date of final regulations under subsection (c) [set out below]."
 
-Pub. L. 101–629, §3(b)(3), Nov. 28, 1990, 104 Stat. 4514, as amended by Pub. L. 102–300, §2(a)(1), June 16, 1992, 106 Stat. 238, provided that: “Section 519(e) [21 U.S.C. 360i(e)], as added by the amendment made by paragraph (1), shall take effect upon the expiration of 9 months after the issuance of final regulations under subsection (c) [set out below].”
+Pub. L. 101–629, §3(b)(3), Nov. 28, 1990, 104 Stat. 4514, as amended by Pub. L. 102–300, §2(a)(1), June 16, 1992, 106 Stat. 238, provided that: "Section 519(e) [21 U.S.C. 360i(e)], as added by the amendment made by paragraph (1), shall take effect upon the expiration of 9 months after the issuance of final regulations under subsection (c) [set out below]."
 
 [For effective date of amendment by Pub. L. 102–300, see section 2(b) of Pub. L. 102–300, set out above as an Effective Date of 1992 Amendment note.]
 
 #### Regulations ####
 
-Pub. L. 101–629, §2(b), Nov. 28, 1990, 104 Stat. 4512, provided that: “The Secretary of Health and Human Services shall promulgate regulations to implement section 519(b) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360i(b)], as added by the amendment made by subsection (a) (including a definition of the summary required by paragraph (1)(C) of such section) not later than 12 months after the date of enactment of this Act [Nov. 28, 1990]. In promulgating the regulations, the Secretary shall minimize the administrative burdens on device user facilities consistent with the need to assure adequate information.”
+Pub. L. 101–629, §2(b), Nov. 28, 1990, 104 Stat. 4512, provided that: "The Secretary of Health and Human Services shall promulgate regulations to implement section 519(b) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360i(b)], as added by the amendment made by subsection (a) (including a definition of the summary required by paragraph (1)(C) of such section) not later than 12 months after the date of enactment of this Act [Nov. 28, 1990]. In promulgating the regulations, the Secretary shall minimize the administrative burdens on device user facilities consistent with the need to assure adequate information."
 
 Pub. L. 101–629, §3(c), Nov. 28, 1990, 104 Stat. 4514, as amended by Pub. L. 102–300, §2(a)(2), (3), June 16, 1992, 106 Stat. 238, provided that:
 
-“(1)(A) Not later than 9 months after the date of the enactment of this Act [Nov. 28, 1990], the Secretary of Health and Human Services shall issue proposed regulations—
+"(1)(A) Not later than 9 months after the date of the enactment of this Act [Nov. 28, 1990], the Secretary of Health and Human Services shall issue proposed regulations—
 
-“(i) to require distributors of devices to establish and maintain records and to make reports (including reports required by part 803 of title 21 of the Code of Federal Regulations) under section 519(a)(6) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360i(a)(6)], and
+"(i) to require distributors of devices to establish and maintain records and to make reports (including reports required by part 803 of title 21 of the Code of Federal Regulations) under section 519(a)(6) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360i(a)(6)], and
 
-“(ii) to implement section 519(e) of such Act.
+"(ii) to implement section 519(e) of such Act.
 
 The Secretary may exempt from regulations described in clause (i) classes of distributors of class I and class II devices from whom reports are not necessary for the protection of the public health.
 
-“(B) Regulations under subparagraph (A) shall—
+"(B) Regulations under subparagraph (A) shall—
 
-“(i) require appropriate methods for maintenance of records to ensure that patients who receive devices can be provided the notification required by such Act [this chapter],
+"(i) require appropriate methods for maintenance of records to ensure that patients who receive devices can be provided the notification required by such Act [this chapter],
 
-“(ii) require that manufacturers adopt effective methods of tracking devices,
+"(ii) require that manufacturers adopt effective methods of tracking devices,
 
-“(iii) take into account the position of distributors in the device distribution process, and
+"(iii) take into account the position of distributors in the device distribution process, and
 
-“(iv) include such other requirements as the Secretary deems necessary for the adoption of an effective user tracking program under section 519(e) of such Act.
+"(iv) include such other requirements as the Secretary deems necessary for the adoption of an effective user tracking program under section 519(e) of such Act.
 
-“(2) Not later than 18 months after the date of the enactment of this Act, the Secretary shall issue final regulations to implement sections [sic] 519(a)(6) of the Federal Food, Drug, and Cosmetic Act. If the Secretary does not promulgate such final regulations upon the expiration of such 18 months, the Congress finds that there is good cause for the proposed regulations to be considered as the final regulations without response to comment because the implementation of sections [sic] 519(a)(6) of such Act is essential to protect the health of patients who use such devices. Consequently, in such event, the proposed regulations issued under paragraph (1) shall become final regulations as of the expiration of such 18 months. There shall be promptly published in the Federal Register notice of the new status of the proposed regulations.
+"(2) Not later than 18 months after the date of the enactment of this Act, the Secretary shall issue final regulations to implement sections [sic] 519(a)(6) of the Federal Food, Drug, and Cosmetic Act. If the Secretary does not promulgate such final regulations upon the expiration of such 18 months, the Congress finds that there is good cause for the proposed regulations to be considered as the final regulations without response to comment because the implementation of sections [sic] 519(a)(6) of such Act is essential to protect the health of patients who use such devices. Consequently, in such event, the proposed regulations issued under paragraph (1) shall become final regulations as of the expiration of such 18 months. There shall be promptly published in the Federal Register notice of the new status of the proposed regulations.
 
-“(3) Not later than November 28, 1992, the Secretary shall issue final regulations to implement section 519(e) of the Federal Food, Drug, and Cosmetic Act. If the Secretary does not promulgate such final regulations by November 28, 1992, the Congress finds that there is good cause for the proposed regulations to be considered as the final regulations without response to comment because the implementation of section 519(e) of such Act is essential to protect the health of patients who use devices. In such event, the proposed regulations issued under paragraph (1) shall become the issued final regulations on November 29, 1992. There shall be promptly published in the Federal Register notice of the new status of the proposed regulations.”
+"(3) Not later than November 28, 1992, the Secretary shall issue final regulations to implement section 519(e) of the Federal Food, Drug, and Cosmetic Act. If the Secretary does not promulgate such final regulations by November 28, 1992, the Congress finds that there is good cause for the proposed regulations to be considered as the final regulations without response to comment because the implementation of section 519(e) of such Act is essential to protect the health of patients who use devices. In such event, the proposed regulations issued under paragraph (1) shall become the issued final regulations on November 29, 1992. There shall be promptly published in the Federal Register notice of the new status of the proposed regulations."
 
 [For effective date of amendment by Pub. L. 102–300, see section 2(b) of Pub. L. 102–300, set out above as an Effective Date of 1992 Amendment note.]
 
@@ -342,4 +342,4 @@ Pub. L. 101–629, §2(f), Nov. 28, 1990, 104 Stat. 4513, directed Secretary of 
 
 [<sup>1</sup> So in original. Probably should be followed by a semicolon.](#360i_1)
 
-[<sup>2</sup> So in original. The word “and” probably should not appear.](#360i_2)
+[<sup>2</sup> So in original. The word "and" probably should not appear.](#360i_2)

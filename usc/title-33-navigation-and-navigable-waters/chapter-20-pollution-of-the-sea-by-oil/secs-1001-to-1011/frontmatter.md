@@ -30,9 +30,9 @@ Repeal effective Oct. 2, 1983, see section 14(a) of Pub. L. 96–478, set out as
 
 #### Short Title ####
 
-Pub. L. 87–167, §1, Aug. 30, 1961, 75 Stat. 402, as amended by Pub. L. 89–551, §1(1), Sept. 1, 1966, 80 Stat. 372, which provided that Pub. L. 87–167 could be cited as the “Oil Pollution Act, 1961, as amended”, was repealed by Pub. L. 96–478, §12, Oct. 21, 1980, 94 Stat. 2303.
+Pub. L. 87–167, §1, Aug. 30, 1961, 75 Stat. 402, as amended by Pub. L. 89–551, §1(1), Sept. 1, 1966, 80 Stat. 372, which provided that Pub. L. 87–167 could be cited as the "Oil Pollution Act, 1961, as amended", was repealed by Pub. L. 96–478, §12, Oct. 21, 1980, 94 Stat. 2303.
 
-Pub. L. 93–119, §1, Oct. 4, 1973, 87 Stat. 424, which provided that Pub. L. 93–119 could be cited as the “Oil Pollution Act Amendments of 1973” was repealed by Pub. L. 96–478, §12, Oct. 21, 1980, 94 Stat. 2303.
+Pub. L. 93–119, §1, Oct. 4, 1973, 87 Stat. 424, which provided that Pub. L. 93–119 could be cited as the "Oil Pollution Act Amendments of 1973" was repealed by Pub. L. 96–478, §12, Oct. 21, 1980, 94 Stat. 2303.
 
 #### Savings Provision ####
 

@@ -6,7 +6,7 @@ Section 277, act July 1, 1944, ch. 373, title III, §383, formerly §373, as add
 
 Section 278, act July 1, 1944, ch. 373, title III, §384, formerly §374, as added Aug. 3, 1956, ch. 907, §1, 70 Stat. 961; renumbered §384 and amended Mar. 13, 1970, Pub. L. 91–212, §10(a)(3), (d)(1), 84 Stat. 66, 67; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Apr. 26, 1983, Pub. L. 98–24, §2(a)(2), 97 Stat. 176, related to acceptance and administration of gifts and establishment of memorials to donors.
 
-Section 279, act July 1, 1944, ch. 373, title III, §385, formerly §375, as added Aug. 3, 1956, ch. 907 §1, 70 Stat. 962; renumbered §385 and amended Mar. 13, 1970, Pub. L. 91–212, §10(a)(3), (b)(2), 84 Stat. 66, defined “medicine” and “medical”.
+Section 279, act July 1, 1944, ch. 373, title III, §385, formerly §375, as added Aug. 3, 1956, ch. 907 §1, 70 Stat. 962; renumbered §385 and amended Mar. 13, 1970, Pub. L. 91–212, §10(a)(3), (b)(2), 84 Stat. 66, defined "medicine" and "medical".
 
 Section 280, act July 1, 1944, ch. 373, title III, §386, formerly §376, as added Aug. 3, 1956, ch. 907, §1, 70 Stat. 962; renumbered §386 and amended Mar. 13, 1970, Pub. L. 91–212, §10(a)(3), (d)(1), 84 Stat. 66, 67; Nov. 18, 1971, Pub. L. 92–157, title III, §301(d)(3), 85 Stat. 464, authorized appropriations for erection and equipment of Library.
 

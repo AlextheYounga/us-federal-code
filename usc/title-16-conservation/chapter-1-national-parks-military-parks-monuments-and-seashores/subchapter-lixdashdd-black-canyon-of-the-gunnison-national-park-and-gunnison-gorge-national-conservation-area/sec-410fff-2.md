@@ -4,7 +4,7 @@
 
 (1) There is hereby established the Black Canyon of the Gunnison National Park in the State of Colorado as generally depicted on the map identified in section 410fff–1 of this title. The Black Canyon of the Gunnison National Monument is hereby abolished as such, the lands and interests therein are incorporated within and made part of the new Black Canyon of the Gunnison National Park, and any funds available for purposes of the monument shall be available for purposes of the park.<sup><a href="#410fff-2_1_target" name="410fff-2_1">1</a></sup>
 
-(2) The boundary of the Park is revised to include the addition of approximately 2,530 acres, as generally depicted on the map entitled “Black Canyon of the Gunnison National Park and Gunnison Gorge NCA Boundary Modifications” and dated April 2, 2003.
+(2) The boundary of the Park is revised to include the addition of approximately 2,530 acres, as generally depicted on the map entitled "Black Canyon of the Gunnison National Park and Gunnison Gorge NCA Boundary Modifications" and dated April 2, 2003.
 
 #### (b) Administration ####
 
@@ -44,13 +44,13 @@ Subject to valid existing rights, all Federal lands within the park <sup><a hre
 
 #### References in Text ####
 
-Upon enactment of this subchapter, referred to in subsec. (b), was in the original “upon enactment of this title”, which was translated as reading “upon enactment of this act”, meaning upon enactment of Pub. L. 106–76, which was approved Oct. 21, 1999, to reflect the probable intent of Congress.
+Upon enactment of this subchapter, referred to in subsec. (b), was in the original "upon enactment of this title", which was translated as reading "upon enactment of this act", meaning upon enactment of Pub. L. 106–76, which was approved Oct. 21, 1999, to reflect the probable intent of Congress.
 
 The Wilderness Act, referred to in subsec. (e)(2), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
 #### Codification ####
 
-Section 4 of Pub. L. 108–128, which directed the amendment of section 4 of the “Black Canyon of the Gunnison National Park and Gunnison Gorge National Area Act of 1999”, was executed to this section, which is section 4 of the Black Canyon of the Gunnison National Park and Gunnison Gorge National Conservation Area Act of 1999, to reflect the probable intent of Congress. See 2003 Amendment notes below.
+Section 4 of Pub. L. 108–128, which directed the amendment of section 4 of the "Black Canyon of the Gunnison National Park and Gunnison Gorge National Area Act of 1999", was executed to this section, which is section 4 of the Black Canyon of the Gunnison National Park and Gunnison Gorge National Conservation Area Act of 1999, to reflect the probable intent of Congress. See 2003 Amendment notes below.
 
 #### Amendments ####
 
@@ -58,7 +58,7 @@ Section 4 of Pub. L. 108–128, which directed the amendment of section 4 of the
 
 Subsec. (e)(1)(D). Pub. L. 108–128, §4(a), added subpar. (D). See Codification note above.
 
-Subsec. (e)(3). Pub. L. 108–128, §4(b), added subpars. (B) and (C), redesignated former subpar. (B) as (D), and, in subpar. (D), substituted “corporation or” for “partnership, corporation, or” in three places and “subparagraphs (A), (B), or (C)” for “subparagraph (A)”. See Codification note above.
+Subsec. (e)(3). Pub. L. 108–128, §4(b), added subpars. (B) and (C), redesignated former subpar. (B) as (D), and, in subpar. (D), substituted "corporation or" for "partnership, corporation, or" in three places and "subparagraphs (A), (B), or (C)" for "subparagraph (A)". See Codification note above.
 
 #### Change of Name ####
 
@@ -66,10 +66,10 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 #### Transfer of Administrative Jurisdiction ####
 
-Pub. L. 108–128, §2(b), Nov. 17, 2003, 117 Stat. 1355, provided that: “On the date of enactment of this Act [Nov. 17, 2003], the Secretary shall transfer the land under the jurisdiction of the Bureau of Land Management identified as ‘Tract C’ on the map described in subsection (a)(2) [amending this section] to the administrative jurisdiction of the National Park Service for inclusion in the Black Canyon of the Gunnison National Park.”
+Pub. L. 108–128, §2(b), Nov. 17, 2003, 117 Stat. 1355, provided that: "On the date of enactment of this Act [Nov. 17, 2003], the Secretary shall transfer the land under the jurisdiction of the Bureau of Land Management identified as 'Tract C' on the map described in subsection (a)(2) [amending this section] to the administrative jurisdiction of the National Park Service for inclusion in the Black Canyon of the Gunnison National Park."
 
 #### Access to Water Delivery Facilities ####
 
-Pub. L. 108–128, §5, Nov. 17, 2003, 117 Stat. 1357, provided that: “The Commissioner of Reclamation shall retain administrative jurisdiction over the Crystal Dam Access Road and land, facilities, and roads of the Bureau of Reclamation in the East Portal area, including the Gunnison Tunnel, and the Crystal Dam area, as depicted on the map entitled ‘Black Canyon of the Gunnison National Park and Gunnison Gorge NCA Boundary Modifications’, and dated April 2, 2003, for the maintenance, repair, construction, replacement, and operation of any facilities relating to the delivery of water and power under the jurisdiction of the Bureau of Reclamation.”
+Pub. L. 108–128, §5, Nov. 17, 2003, 117 Stat. 1357, provided that: "The Commissioner of Reclamation shall retain administrative jurisdiction over the Crystal Dam Access Road and land, facilities, and roads of the Bureau of Reclamation in the East Portal area, including the Gunnison Tunnel, and the Crystal Dam area, as depicted on the map entitled 'Black Canyon of the Gunnison National Park and Gunnison Gorge NCA Boundary Modifications', and dated April 2, 2003, for the maintenance, repair, construction, replacement, and operation of any facilities relating to the delivery of water and power under the jurisdiction of the Bureau of Reclamation."
 
-[<sup>1</sup> So in original. The word “park” probably should be capitalized.](#410fff-2_1)
+[<sup>1</sup> So in original. The word "park" probably should be capitalized.](#410fff-2_1)

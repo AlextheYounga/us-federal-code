@@ -132,7 +132,7 @@ The Tribe, in consultation with the Secretary, shall have the authority to trans
 
 (B) Prior to distributing principal from any Trust Fund, the investment management firm shall notify the Secretary of the proposed distribution and the Tribe's proposed use of such funds, following procedures to be agreed upon by the investment management firm, the Secretary, and the Tribe. The Secretary shall have 15 days within which to object in writing to any such invasion of principal. Failure to object will be deemed approval of the distribution.
 
-(C) All Trust Funds held and managed by any investment management firm shall be audited annually by a certified public accounting firm approved by the Secretary, and a copy of the annual audit shall be submitted to the Tribe and to the Secretary within four months following the close of the Trust Funds’ fiscal year.
+(C) All Trust Funds held and managed by any investment management firm shall be audited annually by a certified public accounting firm approved by the Secretary, and a copy of the annual audit shall be submitted to the Tribe and to the Secretary within four months following the close of the Trust Funds' fiscal year.
 
 #### (l) Replacement of investment management firm and modification of investment management plan ####
 

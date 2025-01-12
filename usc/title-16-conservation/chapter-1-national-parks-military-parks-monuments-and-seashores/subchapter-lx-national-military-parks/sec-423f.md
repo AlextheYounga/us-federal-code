@@ -6,9 +6,9 @@ If any person shall, except by permission of the Secretary of the Interior, dest
 
 #### Change of Name ####
 
-“Battlefield” substituted for “park” wherever appearing in text, in view of redesignation of Petersburg National Military Park as Petersburg National Battlefield by Pub. L. 87–603. See section 423h–1 of this title.
+"Battlefield" substituted for "park" wherever appearing in text, in view of redesignation of Petersburg National Military Park as Petersburg National Battlefield by Pub. L. 87–603. See section 423h–1 of this title.
 
-“United States magistrate judge” substituted for “United States magistrate” wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrate” substituted for “United States commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
+"United States magistrate judge" substituted for "United States magistrate" wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, "United States magistrate" substituted for "United States commissioner" pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
 
 #### Transfer of Functions ####
 

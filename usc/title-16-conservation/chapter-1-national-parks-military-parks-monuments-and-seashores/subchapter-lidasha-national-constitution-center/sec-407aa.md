@@ -28,4 +28,4 @@ It is therefore the policy of the Congress to provide each of the following:
 
 #### Short Title ####
 
-Pub. L. 100–433, §1, Sept. 16, 1988, 102 Stat. 1640, provided that: “This Act [enacting this subchapter] may be cited as the ‘Constitution Heritage Act of 1988’.”
+Pub. L. 100–433, §1, Sept. 16, 1988, 102 Stat. 1640, provided that: "This Act [enacting this subchapter] may be cited as the 'Constitution Heritage Act of 1988'."

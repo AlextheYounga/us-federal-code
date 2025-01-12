@@ -6,7 +6,7 @@
 
 (2) To achieve such purposes and facilitate cooperation among the States of Idaho, Montana, Oregon, and Washington, and with the Bonneville Power Administration, the consent of Congress is given for an agreement described in this paragraph and not in conflict with this chapter, pursuant to which—
 
-(A) there shall be established a regional agency known as the “Pacific Northwest Electric Power and Conservation Planning Council” which (i) shall have its offices in the Pacific Northwest, (ii) shall carry out its functions and responsibilities in accordance with the provisions of this chapter, (iii) shall continue in force and effect in accordance with the provisions of this chapter, and (iv) except as otherwise provided in this chapter, shall not be considered an agency or instrumentality of the United States for the purpose of any Federal law; and
+(A) there shall be established a regional agency known as the "Pacific Northwest Electric Power and Conservation Planning Council" which (i) shall have its offices in the Pacific Northwest, (ii) shall carry out its functions and responsibilities in accordance with the provisions of this chapter, (iii) shall continue in force and effect in accordance with the provisions of this chapter, and (iv) except as otherwise provided in this chapter, shall not be considered an agency or instrumentality of the United States for the purpose of any Federal law; and
 
 (B) two persons from each State may be appointed, subject to the applicable laws of each such State, to undertake the functions and duties of members of the Council.
 
@@ -256,21 +256,21 @@ The Federal Advisory Committee Act, referred to in subsec. (h)(10)(D)(iii), is P
 
 #### Codification ####
 
-September 30, 1996, referred to in subsec. (h)(10)(D)(i), (ii), was in the original “the date of this enactment”, which was translated as meaning the date of enactment of Pub. L. 104–206, which enacted subsec. (h)(10)(D), to reflect the probable intent of Congress.
+September 30, 1996, referred to in subsec. (h)(10)(D)(i), (ii), was in the original "the date of this enactment", which was translated as meaning the date of enactment of Pub. L. 104–206, which enacted subsec. (h)(10)(D), to reflect the probable intent of Congress.
 
 #### Amendments ####
 
-**2011**—Subsec. (h)(10)(B). Pub. L. 112–74, which directed amendment of “section 839b(h)(10)(B) of title 16, United States Code” by substituting “$2,500,000” for “$1,000,000”, was executed by making the substitution in subsec. (h)(10)(B) of this section, which is section 4 of the Pacific Northwest Electric Power Planning and Conservation Act, to reflect the probable intent of Congress.
+**2011**—Subsec. (h)(10)(B). Pub. L. 112–74, which directed amendment of "section 839b(h)(10)(B) of title 16, United States Code" by substituting "$2,500,000" for "$1,000,000", was executed by making the substitution in subsec. (h)(10)(B) of this section, which is section 4 of the Pacific Northwest Electric Power Planning and Conservation Act, to reflect the probable intent of Congress.
 
 **1999**—Subsec. (h)(10)(D)(vii), (viii). Pub. L. 106–60 added cl. (vii) and struck out former cls. (vii) and (viii) which read as follows:
 
-“(vii) Cost Limitation.—The cost of this provision shall not exceed $2,000,000 in 1997 dollars.
+"(vii) Cost Limitation.—The cost of this provision shall not exceed $2,000,000 in 1997 dollars.
 
-“(viii) Expiration.—This paragraph shall expire on September 30, 2000.”
+"(viii) Expiration.—This paragraph shall expire on September 30, 2000."
 
 **1996**—Subsec. (h)(10)(D). Pub. L. 104–206, which directed that subpar. (D) be inserted after subsec. (h)(10)(C) of the Northwest Power Planning and Conservation Act, was executed by adding subsec. (h)(10)(D) to this section, which is from the Pacific Northwest Electric Power Planning and Conservation Act, to reflect the probable intent of Congress.
 
-**1994**—Subsec. (h)(12)(A). Pub. L. 103–437 substituted “Committees on Energy and Commerce and on Natural Resources” for “Committees on Interstate and Foreign Commerce and on Interior and Insular Affairs”.
+**1994**—Subsec. (h)(12)(A). Pub. L. 103–437 substituted "Committees on Energy and Commerce and on Natural Resources" for "Committees on Interstate and Foreign Commerce and on Interior and Insular Affairs".
 
 #### Change of Name ####
 
@@ -288,6 +288,6 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Operation and Maintenance of Fish Passage Facilities Within the Yakima River Basin; Funding ####
 
-Pub. L. 98–381, title I, §109, Aug. 17, 1984, 98 Stat. 1340, provided that: “The Secretary of the Interior, acting pursuant to Federal reclamation law (Act of June 17, 1902, 32 Stat. 388 [see Short Title note under section 371 of Title 43, Public Lands], and Acts amendatory thereof and supplementary thereto) and in accordance with the Pacific Northwest Electric Power Planning and Conservation Act (94 Stat. 2697) [16 U.S.C. 839 et seq.] is authorized to design, construct, operate, and maintain fish passage facilities within the Yakima River Basin, and to accept funds from any entity, public or private, to design, construct, operate, and maintain such facilities.”
+Pub. L. 98–381, title I, §109, Aug. 17, 1984, 98 Stat. 1340, provided that: "The Secretary of the Interior, acting pursuant to Federal reclamation law (Act of June 17, 1902, 32 Stat. 388 [see Short Title note under section 371 of Title 43, Public Lands], and Acts amendatory thereof and supplementary thereto) and in accordance with the Pacific Northwest Electric Power Planning and Conservation Act (94 Stat. 2697) [16 U.S.C. 839 et seq.] is authorized to design, construct, operate, and maintain fish passage facilities within the Yakima River Basin, and to accept funds from any entity, public or private, to design, construct, operate, and maintain such facilities."
 
 [<sup>1</sup> See References in Text note below.](#839b_1)

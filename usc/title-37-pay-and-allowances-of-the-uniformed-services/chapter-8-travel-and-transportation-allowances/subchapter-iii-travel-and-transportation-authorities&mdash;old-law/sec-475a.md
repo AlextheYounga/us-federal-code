@@ -1,6 +1,6 @@
 ### §475a. Travel and transportation allowances: departure allowances ###
 
-(a) Under regulations prescribed by the Secretaries concerned, when dependents of members of the uniformed services are authorized or ordered to depart by competent authority, they may be authorized such allowances as the Secretary concerned determines necessary to offset the expenses incident to the departure. Allowances authorized by this section are in addition to those authorized by any other section of this title. Such allowances may be paid in advance. For the purposes of this section, a dependent “authorized or ordered to depart by competent authority” includes—
+(a) Under regulations prescribed by the Secretaries concerned, when dependents of members of the uniformed services are authorized or ordered to depart by competent authority, they may be authorized such allowances as the Secretary concerned determines necessary to offset the expenses incident to the departure. Allowances authorized by this section are in addition to those authorized by any other section of this title. Such allowances may be paid in advance. For the purposes of this section, a dependent "authorized or ordered to depart by competent authority" includes—
 
 (1) a dependent who is present at or in the vicinity of the member's duty station when the departure of dependents is authorized or ordered by competent authority and who actually moved to an authorized safe haven designated by that authority, whether such safe haven is at or in the vicinity of the member's duty station or elsewhere;
 
@@ -26,19 +26,19 @@ Subsec. (c). Pub. L. 112–81, §631(e)(5), added subsec. (c).
 
 **1998**—Subsec. (b). Pub. L. 105–261 designated existing provisions as par. (1) and added par. (2).
 
-**1996**—Subsec. (a). Pub. L. 104–106 substituted “authorized or ordered” for “ordered” wherever appearing.
+**1996**—Subsec. (a). Pub. L. 104–106 substituted "authorized or ordered" for "ordered" wherever appearing.
 
 **1992**—Subsec. (a)(2) to (4). Pub. L. 102–484 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-**1991**—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+**1991**—Subsec. (b). Pub. L. 102–25 struck out "of this section" after "subsection (a)".
 
-**1986**—Pub. L. 99–661 substituted “departure” for “evacuation” in section catchline.
+**1986**—Pub. L. 99–661 substituted "departure" for "evacuation" in section catchline.
 
 **1981**—Subsec. (a). Pub. L. 97–60, §123, inserted provision authorizing the payment of allowances in advance.
 
-Subsec. (b). Pub. L. 97–60, §121(c), substituted “that is owned by the member (or a dependent of the member) and is for the personal use of the member or his dependents” for “owned by him and for his personal use, or the use of the dependents,”.
+Subsec. (b). Pub. L. 97–60, §121(c), substituted "that is owned by the member (or a dependent of the member) and is for the personal use of the member or his dependents" for "owned by him and for his personal use, or the use of the dependents,".
 
-**1980**—Subsec. (a). Pub. L. 96–465 substituted “to depart” and “departure” for “evacuated” and “evacuation”, respectively, wherever appearing.
+**1980**—Subsec. (a). Pub. L. 96–465 substituted "to depart" and "departure" for "evacuated" and "evacuation", respectively, wherever appearing.
 
 **1966**—Subsec. (a). Pub. L. 89–608 struck out provision requiring that to qualify for allowances the evacuated dependents have been evacuated from places outside the United States to places inside the United States.
 
@@ -48,11 +48,11 @@ For provisions relating to the applicability of amendment by Pub. L. 105–261, 
 
 #### Effective Date of 1996 Amendment ####
 
-Pub. L. 104–106, div. A, title VI, §622(b), Feb. 10, 1996, 110 Stat. 363, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to persons authorized or ordered to depart as described in section 475a(a) of title 37, United States Code, on or after October 1, 1995.”
+Pub. L. 104–106, div. A, title VI, §622(b), Feb. 10, 1996, 110 Stat. 363, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: "The amendment made by subsection (a) [amending this section] shall apply with respect to persons authorized or ordered to depart as described in section 475a(a) of title 37, United States Code, on or after October 1, 1995."
 
 #### Effective Date of 1992 Amendment ####
 
-Pub. L. 102–484, div. A, title VI, §625(b)(2), Oct. 23, 1992, 106 Stat. 2424, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect as of August 23, 1992, and shall apply with respect to any evacuation ordered by competent military authority on or after that date.”
+Pub. L. 102–484, div. A, title VI, §625(b)(2), Oct. 23, 1992, 106 Stat. 2424, provided that: "The amendments made by paragraph (1) [amending this section] shall take effect as of August 23, 1992, and shall apply with respect to any evacuation ordered by competent military authority on or after that date."
 
 #### Effective Date of 1981 Amendment ####
 
@@ -64,4 +64,4 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Effective Date ####
 
-Pub. L. 89–26, §2, May 22, 1965, 79 Stat. 117, as amended by Pub. L. 89–608, §1, Sept. 30, 1966, 80 Stat. 851; Pub. L. 92–176, Dec. 2, 1971, 85 Stat. 494, provided that: “This Act [enacting this section and amending sections 407, 411, and 1006 of this title] becomes effective on February 1, 1965.”
+Pub. L. 89–26, §2, May 22, 1965, 79 Stat. 117, as amended by Pub. L. 89–608, §1, Sept. 30, 1966, 80 Stat. 851; Pub. L. 92–176, Dec. 2, 1971, 85 Stat. 494, provided that: "This Act [enacting this section and amending sections 407, 411, and 1006 of this title] becomes effective on February 1, 1965."

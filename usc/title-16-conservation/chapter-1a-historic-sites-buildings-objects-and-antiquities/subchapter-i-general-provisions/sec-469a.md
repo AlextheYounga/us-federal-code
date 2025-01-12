@@ -6,7 +6,7 @@ Before any agency of the United States shall undertake the construction of a dam
 
 #### Amendments ####
 
-**1974**—Pub. L. 93–291 struck out designation “(a)” before and, in the resulting unlettered provisions, inserted “(hereafter referred to as the Secretary)” after “Secretary of the Interior”. Subsecs. (b) to (e) were disposed of as follows: subsec. (b) was transferred and amended, and as so transferred and amended, is set out as sections 469a–1 and 469a–2 of this title, subsecs. (c) and (e) were redesignated as subsecs. (a) and (b), respectively, of section 469a–3 of this title, and subsec. (d) was struck out.
+**1974**—Pub. L. 93–291 struck out designation "(a)" before and, in the resulting unlettered provisions, inserted "(hereafter referred to as the Secretary)" after "Secretary of the Interior". Subsecs. (b) to (e) were disposed of as follows: subsec. (b) was transferred and amended, and as so transferred and amended, is set out as sections 469a–1 and 469a–2 of this title, subsecs. (c) and (e) were redesignated as subsecs. (a) and (b), respectively, of section 469a–3 of this title, and subsec. (d) was struck out.
 
 #### Transfer of Functions ####
 

@@ -10,7 +10,7 @@ Act June 7, 1956, ch. 374, §306(2), 70 Stat. 254, repealed this section except 
 
 #### Amendments ####
 
-**1986**—Pub. L. 99–251 amended second sentence generally. Prior to amendment, second sentence read as follows: “Dental treatment shall be administered only as an adjunct to inpatient hospital care and shall not include dental prosthesis or orthodontia.”
+**1986**—Pub. L. 99–251 amended second sentence generally. Prior to amendment, second sentence read as follows: "Dental treatment shall be administered only as an adjunct to inpatient hospital care and shall not include dental prosthesis or orthodontia."
 
 #### Effective Date of Partial Repeal ####
 

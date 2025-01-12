@@ -6,4 +6,4 @@ Sec.
 
 3502. Price fixing agreements, horizontal restraints of trade, or group boycotts.
 
-3503. “Antitrust law” defined.
+3503. "Antitrust law" defined.

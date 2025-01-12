@@ -8,4 +8,4 @@ Section 1023, acts Aug. 12, 1954, ch. 669, §4, 68 Stat. 698; Oct. 9, 1972, Pub.
 
 #### Short Title ####
 
-Act Aug. 12, 1954, ch. 669, §1, 68 Stat. 698, which provided that such Act was to be cited as the “North Pacific Fisheries Act of 1954”, was repealed by Pub. L. 102–567, title VIII, §814, Oct. 29, 1992, 106 Stat. 4316, and Pub. L. 102–587, title VIII, §8014, Nov. 4, 1992, 106 Stat. 5106.
+Act Aug. 12, 1954, ch. 669, §1, 68 Stat. 698, which provided that such Act was to be cited as the "North Pacific Fisheries Act of 1954", was repealed by Pub. L. 102–567, title VIII, §814, Oct. 29, 1992, 106 Stat. 4316, and Pub. L. 102–587, title VIII, §8014, Nov. 4, 1992, 106 Stat. 5106.

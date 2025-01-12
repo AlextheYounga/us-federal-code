@@ -14,7 +14,7 @@ Except as otherwise provided in this paragraph, the credit allowed under subsect
 
 #### (B) Married individuals filing separately ####
 
-In the case of a married individual filing a separate return, subparagraph (A) shall be applied by substituting “$4,000” for “$8,000”.
+In the case of a married individual filing a separate return, subparagraph (A) shall be applied by substituting "$4,000" for "$8,000".
 
 #### (C) Other individuals ####
 
@@ -22,7 +22,7 @@ If two or more individuals who are not married purchase a principal residence, t
 
 #### (D) Special rule for long-time residents of same principal residence ####
 
-In the case of a taxpayer to whom a credit under subsection (a) is allowed by reason of subsection (c)(6), subparagraphs (A), (B), and (C) shall be applied by substituting “$6,500” for “$8,000” and “$3,250” for “$4,000”.
+In the case of a taxpayer to whom a credit under subsection (a) is allowed by reason of subsection (c)(6), subparagraphs (A), (B), and (C) shall be applied by substituting "$6,500" for "$8,000" and "$3,250" for "$4,000".
 
 #### (2) Limitation based on modified adjusted gross income ####
 
@@ -40,7 +40,7 @@ The amount allowable as a credit under subsection (a) (determined without regard
 
 #### (B) Modified adjusted gross income ####
 
-For purposes of subparagraph (A), the term “modified adjusted gross income” means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
+For purposes of subparagraph (A), the term "modified adjusted gross income" means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
 
 #### (3) Limitation based on purchase price ####
 
@@ -56,17 +56,17 @@ For purposes of this section—
 
 #### (1) First-time homebuyer ####
 
-The term “first-time homebuyer” means any individual if such individual (and if married, such individual's spouse) had no present ownership interest in a principal residence during the 3-year period ending on the date of the purchase of the principal residence to which this section applies.
+The term "first-time homebuyer" means any individual if such individual (and if married, such individual's spouse) had no present ownership interest in a principal residence during the 3-year period ending on the date of the purchase of the principal residence to which this section applies.
 
 #### (2) Principal residence ####
 
-The term “principal residence” has the same meaning as when used in section 121.
+The term "principal residence" has the same meaning as when used in section 121.
 
 #### (3) Purchase ####
 
 #### (A) In general ####
 
-The term “purchase” means any acquisition, but only if—
+The term "purchase" means any acquisition, but only if—
 
 (i) the property is not acquired from a person related to the person acquiring such property (or, if married, such individual's spouse), and
 
@@ -82,7 +82,7 @@ A residence which is constructed by the taxpayer shall be treated as purchased b
 
 #### (4) Purchase price ####
 
-The term “purchase price” means the adjusted basis of the principal residence on the date such residence is purchased.
+The term "purchase price" means the adjusted basis of the principal residence on the date such residence is purchased.
 
 #### (5) Related persons ####
 
@@ -164,7 +164,7 @@ In the case of the disposition of a principal residence by an individual (or a c
 
 #### (ii) Qualified official extended duty service ####
 
-For purposes of this section, the term “qualified official extended duty service” means service on qualified official extended duty as—
+For purposes of this section, the term "qualified official extended duty service" means service on qualified official extended duty as—
 
 (I) a member of the uniformed services,
 
@@ -186,7 +186,7 @@ If the tax imposed by this chapter for the taxable year is increased under this 
 
 #### (7) Recapture period ####
 
-For purposes of this subsection, the term “recapture period” means the 15 taxable years beginning with the second taxable year following the taxable year in which the purchase of the principal residence for which a credit is allowed under subsection (a) was made.
+For purposes of this subsection, the term "recapture period" means the 15 taxable years beginning with the second taxable year following the taxable year in which the purchase of the principal residence for which a credit is allowed under subsection (a) was made.
 
 #### (g) Election to treat purchase in prior year ####
 
@@ -200,15 +200,15 @@ This section shall only apply to a principal residence purchased by the taxpayer
 
 #### (2) Exception in case of binding contract ####
 
-In the case of any taxpayer who enters into a written binding contract before May 1, 2010, to close on the purchase of a principal residence before July 1, 2010, and who purchases such residence before October 1, 2010, paragraph (1) shall be applied by substituting “October 1, 2010” for “May 1, 2010”.
+In the case of any taxpayer who enters into a written binding contract before May 1, 2010, to close on the purchase of a principal residence before July 1, 2010, and who purchases such residence before October 1, 2010, paragraph (1) shall be applied by substituting "October 1, 2010" for "May 1, 2010".
 
 #### (3) Special rule for individuals on qualified official extended duty outside the United States ####
 
 In the case of any individual who serves on qualified official extended duty service (as defined in section 121(d)(9)(C)(i)) outside the United States for at least 90 days during the period beginning after December 31, 2008, and ending before May 1, 2010, and, if married, such individual's spouse—
 
-(A) paragraphs (1) and (2) shall each be applied by substituting “May 1, 2011” for “May 1, 2010”, and
+(A) paragraphs (1) and (2) shall each be applied by substituting "May 1, 2011" for "May 1, 2010", and
 
-(B) paragraph (2) shall be applied by substituting “July 1, 2011” for “July 1, 2010”, and for “October 1, 2010”.
+(B) paragraph (2) shall be applied by substituting "July 1, 2011" for "July 1, 2010", and for "October 1, 2010".
 
 (Added Pub. L. 110–289, div. C, title I, §3011(a), July 30, 2008, 122 Stat. 2888; amended Pub. L. 111–5, div. B, title I, §1006(a)–(c), (d)(2), (e), Feb. 17, 2009, 123 Stat. 316, 317; Pub. L. 111–92, §§11(a)–(g), 12(a)–(c), Nov. 6, 2009, 123 Stat. 2989–2992; Pub. L. 111–198, §2(a), (b), July 2, 2010, 124 Stat. 1356.)
 
@@ -220,79 +220,79 @@ Another prior section 36, acts Aug. 16, 1954, ch. 736, 68A Stat. 15; Oct. 4, 197
 
 #### Amendments ####
 
-**2010**—Subsec. (h)(2). Pub. L. 111–198, §2(a), substituted “and who purchases such residence before October 1, 2010, paragraph (1) shall be applied by substituting ‘October 1, 2010’ ” for “paragraph (1) shall be applied by substituting ‘July 1, 2010’ ”.
+**2010**—Subsec. (h)(2). Pub. L. 111–198, §2(a), substituted "and who purchases such residence before October 1, 2010, paragraph (1) shall be applied by substituting 'October 1, 2010' " for "paragraph (1) shall be applied by substituting 'July 1, 2010' ".
 
-Subsec. (h)(3)(B). Pub. L. 111–198, §2(b), inserted “, and for ‘October 1, 2010’ ” after “for ‘July 1, 2010’ ”.
+Subsec. (h)(3)(B). Pub. L. 111–198, §2(b), inserted ", and for 'October 1, 2010' " after "for 'July 1, 2010' ".
 
-**2009**—Subsec. (b)(1)(A). Pub. L. 111–5, §1006(b)(1), substituted “$8,000” for “$7,500”.
+**2009**—Subsec. (b)(1)(A). Pub. L. 111–5, §1006(b)(1), substituted "$8,000" for "$7,500".
 
-Subsec. (b)(1)(B). Pub. L. 111–5, §1006(b), substituted “$4,000” for “$3,750” and “$8,000” for “$7,500”.
+Subsec. (b)(1)(B). Pub. L. 111–5, §1006(b), substituted "$4,000" for "$3,750" and "$8,000" for "$7,500".
 
-Subsec. (b)(1)(C). Pub. L. 111–5, §1006(b)(1), substituted “$8,000” for “$7,500”.
+Subsec. (b)(1)(C). Pub. L. 111–5, §1006(b)(1), substituted "$8,000" for "$7,500".
 
 Subsec. (b)(1)(D). Pub. L. 111–92, §11(c)(1), added subpar. (D).
 
-Subsec. (b)(2)(A)(i)(II). Pub. L. 111–92, §11(c)(2), substituted “$125,000 ($225,000” for “$75,000 ($150,000”.
+Subsec. (b)(2)(A)(i)(II). Pub. L. 111–92, §11(c)(2), substituted "$125,000 ($225,000" for "$75,000 ($150,000".
 
 Subsec. (b)(3). Pub. L. 111–92, §11(d), added par. (3).
 
 Subsec. (b)(4). Pub. L. 111–92, §12(a)(1), added par. (4).
 
-Subsec. (c)(3)(A)(i). Pub. L. 111–92, §12(c), inserted “(or, if married, such individual's spouse)” after “person acquiring such property”.
+Subsec. (c)(3)(A)(i). Pub. L. 111–92, §12(c), inserted "(or, if married, such individual's spouse)" after "person acquiring such property".
 
 Subsec. (c)(6). Pub. L. 111–92, §11(b), added par. (6).
 
 Subsec. (d). Pub. L. 111–5, §1006(d)(2), (e), redesignated pars. (3) and (4) as (1) and (2), respectively, and struck out former pars. (1) and (2) which read as follows:
 
-“(1) a credit under section 1400C (relating to first-time homebuyer in the District of Columbia) is allowable to the taxpayer (or the taxpayer's spouse) for such taxable year or any prior taxable year,
+"(1) a credit under section 1400C (relating to first-time homebuyer in the District of Columbia) is allowable to the taxpayer (or the taxpayer's spouse) for such taxable year or any prior taxable year,
 
-“(2) the residence is financed by the proceeds of a qualified mortgage issue the interest on which is exempt from tax under section 103,”.
+"(2) the residence is financed by the proceeds of a qualified mortgage issue the interest on which is exempt from tax under section 103,".
 
 Subsec. (d)(3). Pub. L. 111–92, §11(g), added par. (3).
 
 Subsec. (d)(4). Pub. L. 111–92, §12(b), added par. (4).
 
-Subsec. (f)(4)(D). Pub. L. 111–92, §11(a)(2), inserted “and 2010” after “2009” in heading and struck out “, and before December 1, 2009” after “December 31, 2008” in introductory provisions.
+Subsec. (f)(4)(D). Pub. L. 111–92, §11(a)(2), inserted "and 2010" after "2009" in heading and struck out ", and before December 1, 2009" after "December 31, 2008" in introductory provisions.
 
 Pub. L. 111–5, §1006(c)(1), added subpar. (D).
 
 Subsec. (f)(4)(E). Pub. L. 111–92, §11(e), added subpar. (E).
 
-Subsec. (g). Pub. L. 111–92, §12(a)(2), inserted “(b)(4),” before “(c)”.
+Subsec. (g). Pub. L. 111–92, §12(a)(2), inserted "(b)(4)," before "(c)".
 
-Pub. L. 111–92, §11(a)(3), amended subsec. (g) generally. Prior to amendment, text read as follows: “In the case of a purchase of a principal residence after December 31, 2008, and before December 1, 2009, a taxpayer may elect to treat such purchase as made on December 31, 2008, for purposes of this section (other than subsections (c) and (f)(4)(D)).”
+Pub. L. 111–92, §11(a)(3), amended subsec. (g) generally. Prior to amendment, text read as follows: "In the case of a purchase of a principal residence after December 31, 2008, and before December 1, 2009, a taxpayer may elect to treat such purchase as made on December 31, 2008, for purposes of this section (other than subsections (c) and (f)(4)(D))."
 
-Pub. L. 111–5, §1006(a)(2), (c)(2), substituted “December 1, 2009” for “July 1, 2009” and “subsections (c) and (f)(4)(D)” for “subsection (c)”.
+Pub. L. 111–5, §1006(a)(2), (c)(2), substituted "December 1, 2009" for "July 1, 2009" and "subsections (c) and (f)(4)(D)" for "subsection (c)".
 
-Subsec. (h). Pub. L. 111–92, §11(a)(1), substituted “May 1, 2010” for “December 1, 2009”, designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (h). Pub. L. 111–92, §11(a)(1), substituted "May 1, 2010" for "December 1, 2009", designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Pub. L. 111–5, §1006(a)(1), substituted “December 1, 2009” for “July 1, 2009”.
+Pub. L. 111–5, §1006(a)(1), substituted "December 1, 2009" for "July 1, 2009".
 
 Subsec. (h)(3). Pub. L. 111–92, §11(f), added par. (3).
 
 #### Effective Date of 2010 Amendment ####
 
-Pub. L. 111–198, §2(c), July 2, 2010, 124 Stat. 1356, provided that: “The amendments made by this section [amending this section] shall apply to residences purchased after June 30, 2010.”
+Pub. L. 111–198, §2(c), July 2, 2010, 124 Stat. 1356, provided that: "The amendments made by this section [amending this section] shall apply to residences purchased after June 30, 2010."
 
 #### Effective Date of 2009 Amendment ####
 
 Pub. L. 111–92, §11(j)(1)–(3), Nov. 6, 2009, 123 Stat. 2991, provided that:
 
-“(1) In general.—The amendments made by subsections (b), (c), (d), and (g) [amending this section] shall apply to residences purchased after the date of the enactment of this Act [Nov. 6, 2009].
+"(1) In general.—The amendments made by subsections (b), (c), (d), and (g) [amending this section] shall apply to residences purchased after the date of the enactment of this Act [Nov. 6, 2009].
 
-“(2) Extensions.—The amendments made by subsections (a) [amending this section], (f) [amending this section], and (i) [amending section 1400C of this title] shall apply to residences purchased after November 30, 2009.
+"(2) Extensions.—The amendments made by subsections (a) [amending this section], (f) [amending this section], and (i) [amending section 1400C of this title] shall apply to residences purchased after November 30, 2009.
 
-“(3) Waiver of recapture.—The amendment made by subsection (e) [amending this section] shall apply to dispositions and cessations after December 31, 2008.”
+"(3) Waiver of recapture.—The amendment made by subsection (e) [amending this section] shall apply to dispositions and cessations after December 31, 2008."
 
 Pub. L. 111–92, §12(e), Nov. 6, 2009, 123 Stat. 2992, provided that:
 
-“(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [amending this section and section 6213 of this title] shall apply to purchases after the date of the enactment of this Act [Nov. 6, 2009].
+"(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [amending this section and section 6213 of this title] shall apply to purchases after the date of the enactment of this Act [Nov. 6, 2009].
 
-“(2) Documentation requirement.—The amendments made by subsection (b) [amending this section] shall apply to returns for taxable years ending after the date of the enactment of this Act [Nov. 6, 2009].
+"(2) Documentation requirement.—The amendments made by subsection (b) [amending this section] shall apply to returns for taxable years ending after the date of the enactment of this Act [Nov. 6, 2009].
 
-“(3) Treatment as mathematical and clerical errors.—The amendments made by subsection (d) [amending section 6213 of this title] shall apply to returns for taxable years ending on or after April 9, 2008.”
+"(3) Treatment as mathematical and clerical errors.—The amendments made by subsection (d) [amending section 6213 of this title] shall apply to returns for taxable years ending on or after April 9, 2008."
 
-Pub. L. 111–5, div. B, title I, §1006(f), Feb. 17, 2009, 123 Stat. 317, provided that: “The amendments made by this section [amending this section and section 1400C of this title] shall apply to residences purchased after December 31, 2008.”
+Pub. L. 111–5, div. B, title I, §1006(f), Feb. 17, 2009, 123 Stat. 317, provided that: "The amendments made by this section [amending this section and section 1400C of this title] shall apply to residences purchased after December 31, 2008."
 
 #### Effective Date ####
 

@@ -6,7 +6,7 @@ All funds available for carrying out this chapter shall be available for allotme
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–127, at end of first sentence, substituted “performance” for “performance: *Provided further*, That the transfer of funds for services of technicians in formulating and carrying out agricultural conservation programs, from allotments for agricultural conservation payments within a State, shall be subject to such limitations and conditions as may be provided in appropriation or other law”.
+**1996**—Pub. L. 104–127, at end of first sentence, substituted "performance" for "performance: *Provided further*, That the transfer of funds for services of technicians in formulating and carrying out agricultural conservation programs, from allotments for agricultural conservation payments within a State, shall be subject to such limitations and conditions as may be provided in appropriation or other law".
 
 **1956**—Act Aug. 3, 1956, authorized transfer of funds to local public agencies and provided that transfer of funds for services of technicians in formulating and carrying out agricultural programs from allotments for agricultural conservation payments within the State shall be subject to such limitations and conditions as may be provided in the appropriation or other law, and that funds so transferred may be placed in a single account for each State.
 

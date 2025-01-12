@@ -18,6 +18,6 @@ Sec.
 
 #### Amendments ####
 
-**2002**—Pub. L. 107–228, div. B, title XIV, §1404(f)(2), Sept. 30, 2002, 116 Stat. 1456, added item 305 and struck out former item 305 “Violations, penalties”.
+**2002**—Pub. L. 107–228, div. B, title XIV, §1404(f)(2), Sept. 30, 2002, 116 Stat. 1456, added item 305 and struck out former item 305 "Violations, penalties".
 
 [<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER9_1)

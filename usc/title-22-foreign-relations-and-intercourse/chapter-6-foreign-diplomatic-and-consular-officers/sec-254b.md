@@ -6,7 +6,7 @@ With respect to a nonparty to the Vienna Convention, the mission, the members of
 
 #### Amendments ####
 
-**1982**—Pub. L. 97–241 substituted “With respect to a nonparty to the Vienna Convention, the mission, the members of the mission, their families, and diplomatic couriers” for “Members of the mission of a sending state which has not ratified the Vienna Convention, their families, and the diplomatic couriers of such state,”.
+**1982**—Pub. L. 97–241 substituted "With respect to a nonparty to the Vienna Convention, the mission, the members of the mission, their families, and diplomatic couriers" for "Members of the mission of a sending state which has not ratified the Vienna Convention, their families, and the diplomatic couriers of such state,".
 
 #### Effective Date of 1982 Amendment ####
 

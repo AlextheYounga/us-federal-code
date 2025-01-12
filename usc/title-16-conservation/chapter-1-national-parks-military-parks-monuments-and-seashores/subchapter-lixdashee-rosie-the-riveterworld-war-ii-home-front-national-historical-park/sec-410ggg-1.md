@@ -4,7 +4,7 @@
 
 #### (1) General administration ####
 
-The Secretary of the Interior (in this subchapter referred to as the “Secretary”) shall administer the park in accordance with this subchapter and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+The Secretary of the Interior (in this subchapter referred to as the "Secretary") shall administer the park in accordance with this subchapter and the provisions of law generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
 
 #### (2) Specific authorities ####
 
@@ -96,9 +96,9 @@ The general management plan shall include a determination of whether there are a
 
 **2004**—Subsec. (a)(1). Pub. L. 108–352, §6(2)(A), made technical amendment to reference in original act which appears in text as reference to sections 1, 2, 3, and 4 of this title.
 
-Subsec. (b)(1). Pub. L. 108–352, §6(2)(B), substituted “the Child Development Field Centers (Ruth C. Powers) (Maritime), Atchison Housing, the Kaiser-Permanente Field Hospital, and Richmond Fire Station 67A” for “the World War II Child Development Centers, the World War II worker housing, the Kaiser-Permanente Field Hospital, and Fire Station 67A”.
+Subsec. (b)(1). Pub. L. 108–352, §6(2)(B), substituted "the Child Development Field Centers (Ruth C. Powers) (Maritime), Atchison Housing, the Kaiser-Permanente Field Hospital, and Richmond Fire Station 67A" for "the World War II Child Development Centers, the World War II worker housing, the Kaiser-Permanente Field Hospital, and Fire Station 67A".
 
-Subsec. (e)(2). Pub. L. 108–352, §6(2)(C), substituted “the Child Development Field Centers (Ruth C. Powers) (Maritime), Atchison Housing, the Kaiser-Permanente Field Hospital, and Richmond Fire Station 67A,” for “the World War II day care centers, the World War II worker housing, the Kaiser-Permanente Field Hospital, and Fire Station 67,”.
+Subsec. (e)(2). Pub. L. 108–352, §6(2)(C), substituted "the Child Development Field Centers (Ruth C. Powers) (Maritime), Atchison Housing, the Kaiser-Permanente Field Hospital, and Richmond Fire Station 67A," for "the World War II day care centers, the World War II worker housing, the Kaiser-Permanente Field Hospital, and Fire Station 67,".
 
 #### Change of Name ####
 

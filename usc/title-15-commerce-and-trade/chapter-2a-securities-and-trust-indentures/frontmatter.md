@@ -76,7 +76,7 @@ Sec.
 
 #### SUBCHAPTER II—FOREIGN SECURITIES ####
 
-77bb. “Corporation of Foreign Security Holders”; creation; principal office; branch offices.
+77bb. "Corporation of Foreign Security Holders"; creation; principal office; branch offices.
 
 77cc. Directors of Corporation; appointment, term of office, and removal.
 
@@ -124,7 +124,7 @@ Sec.
 
 77kkk. Preferential collection of claims against obligor.
 
-77 lll. Bondholders’ lists.
+77 lll. Bondholders' lists.
 
 77mmm. Reports by indenture trustee.
 

@@ -2,9 +2,9 @@
 
 Sec.
 
-701. Authorization to convey; acreage limitations; qualified applicants; payment; “qualified officer of the United States” defined.
+701. Authorization to convey; acreage limitations; qualified applicants; payment; "qualified officer of the United States" defined.
 
-702. “Qualified applicant” defined.
+702. "Qualified applicant" defined.
 
 703. Withdrawal of lands in aid of a governmental unit.
 

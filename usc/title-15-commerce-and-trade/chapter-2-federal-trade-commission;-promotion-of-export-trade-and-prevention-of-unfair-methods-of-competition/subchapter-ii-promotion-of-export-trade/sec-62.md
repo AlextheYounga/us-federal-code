@@ -6,4 +6,4 @@ Nothing contained in the Sherman Act [15 U.S.C. 1 et seq.] shall be construed as
 
 #### Codification ####
 
-“Sherman Act [15 U.S.C. 1 et seq.]” substituted in text for “Act entitled ‘An Act to protect trade and commerce against unlawful restraints and monopolies,’ approved July second, eighteen hundred and ninety” on authority of the enacting clause of that Act set out as a Short Title note under section 1 of this title.
+"Sherman Act [15 U.S.C. 1 et seq.]" substituted in text for "Act entitled 'An Act to protect trade and commerce against unlawful restraints and monopolies,' approved July second, eighteen hundred and ninety" on authority of the enacting clause of that Act set out as a Short Title note under section 1 of this title.

@@ -40,19 +40,19 @@ Sec.
 
 #### Amendments ####
 
-**2011**—Pub. L. 111–350, §5(m)(1), Jan. 4, 2011, 124 Stat. 3853, substituted “subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “the Federal Property and Administrative Services Act” in item 311.
+**2011**—Pub. L. 111–350, §5(m)(1), Jan. 4, 2011, 124 Stat. 3853, substituted "subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "the Federal Property and Administrative Services Act" in item 311.
 
 **2003**—Pub. L. 108–83, title I, §1302(b), Sept. 30, 2003, 117 Stat. 1034, added item 318.
 
-**1999**—Pub. L. 106–57, title II, §210(c), Sept. 29, 1999, 113 Stat. 425, inserted “; small purchase threshold” after “authority” in item 311.
+**1999**—Pub. L. 106–57, title II, §210(c), Sept. 29, 1999, 113 Stat. 425, inserted "; small purchase threshold" after "authority" in item 311.
 
-**1985**—Pub. L. 99–151, title III, §305(b)(2), Nov. 13, 1985, 99 Stat. 808, inserted “; contract negotiation authority” in item 311.
+**1985**—Pub. L. 99–151, title III, §305(b)(2), Nov. 13, 1985, 99 Stat. 808, inserted "; contract negotiation authority" in item 311.
 
-**1975**—Pub. L. 94–82, title II, §204(c)(2), Aug. 9, 1975, 89 Stat. 421, substituted “pay” for “compensation” in item 303.
+**1975**—Pub. L. 94–82, title II, §204(c)(2), Aug. 9, 1975, 89 Stat. 421, substituted "pay" for "compensation" in item 303.
 
-**1974**—Pub. L. 93–459, §1(b), Oct. 20, 1974, 88 Stat. 1385, substituted “Disbursing officer; deputy disbursing officer; certifying officers and employees.” for “Disbursing officer: continuation and settlement of accounts during vacancy in office; responsibility for accounts; disbursements for Superintendent of Documents.” in item 308.
+**1974**—Pub. L. 93–459, §1(b), Oct. 20, 1974, 88 Stat. 1385, substituted "Disbursing officer; deputy disbursing officer; certifying officers and employees." for "Disbursing officer: continuation and settlement of accounts during vacancy in office; responsibility for accounts; disbursements for Superintendent of Documents." in item 308.
 
-**1972**—Pub. L. 92–310, title II, §210(a)(3), June 6, 1972, 86 Stat. 204, struck out “; bond” in item 301.
+**1972**—Pub. L. 92–310, title II, §210(a)(3), June 6, 1972, 86 Stat. 204, struck out "; bond" in item 301.
 
 **1970**—Pub. L. 91–359, §1(b), July 31, 1970, 84 Stat. 668, added item 317.
 

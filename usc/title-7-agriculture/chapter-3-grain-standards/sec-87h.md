@@ -6,19 +6,19 @@ There are hereby authorized to be appropriated such sums as are necessary for st
 
 #### Amendments ####
 
-**2005**—Pub. L. 109–83 substituted “2015” for “2005”.
+**2005**—Pub. L. 109–83 substituted "2015" for "2005".
 
-**2000**—Pub. L. 106–472 substituted “2005” for “2000”.
+**2000**—Pub. L. 106–472 substituted "2005" for "2000".
 
-**1993**—Pub. L. 103–156 substituted “1988 through 2000” for “during the period beginning October 1, 1988, and ending September 30, 1993” and inserted references to sections 79b and 87e of this title.
+**1993**—Pub. L. 103–156 substituted "1988 through 2000" for "during the period beginning October 1, 1988, and ending September 30, 1993" and inserted references to sections 79b and 87e of this title.
 
-**1988**—Pub. L. 100–518 amended section generally, substituting “1988” for “1981” and “1993” for “1984”.
+**1988**—Pub. L. 100–518 amended section generally, substituting "1988" for "1981" and "1993" for "1984".
 
-**1984**—Pub. L. 98–469 temporarily substituted “September 30, 1988” for “September 30, 1984”. See Effective and Termination Dates of 1984 Amendment note below.
+**1984**—Pub. L. 98–469 temporarily substituted "September 30, 1988" for "September 30, 1984". See Effective and Termination Dates of 1984 Amendment note below.
 
 **1981**—Pub. L. 97–35 temporarily amended section, substantially revising enumerated activities for which appropriations are authorized and limiting such authorization for each of the fiscal years during the period beginning Oct. 1, 1981, and ending Sept. 30, 1984. See Effective and Termination Dates of 1981 Amendment note below.
 
-**1977**—Pub. L. 95–113 substituted “Federal administrative and supervisory costs related to the official inspection or the provision of weighing services for grain” for “those Federal administrative and supervisory costs incurred within the Service's Washington office or not directly related to the official inspection or the provision of weighing services for grain” and renumbered this section as section 19 of the United States Grain Standards Act, thereby correcting an error in the 1976 amendment of this section by Pub. L. 94–582 under which this section had inadvertently been renumbered from section 19 of the United States Grain Standards Act to section 21 thereof.
+**1977**—Pub. L. 95–113 substituted "Federal administrative and supervisory costs related to the official inspection or the provision of weighing services for grain" for "those Federal administrative and supervisory costs incurred within the Service's Washington office or not directly related to the official inspection or the provision of weighing services for grain" and renumbered this section as section 19 of the United States Grain Standards Act, thereby correcting an error in the 1976 amendment of this section by Pub. L. 94–582 under which this section had inadvertently been renumbered from section 19 of the United States Grain Standards Act to section 21 thereof.
 
 **1976**—Pub. L. 94–582 enumerated specific items for which appropriations are authorized and provided for financing obtained from fees and sales of samples as provided in sections 79a and 87f–1 of this title.
 

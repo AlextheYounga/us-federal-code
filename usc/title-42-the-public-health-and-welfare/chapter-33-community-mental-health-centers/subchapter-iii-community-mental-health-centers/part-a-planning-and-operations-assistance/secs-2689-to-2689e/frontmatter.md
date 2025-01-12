@@ -30,4 +30,4 @@ Repeal effective Oct. 1, 1981, see section 902(h) of Pub. L. 97–35, set out as
 
 #### Short Title ####
 
-Section 245 of title II of Pub. L. 88–164, as added by section 303 of Pub. L. 94–63, title III, July 29, 1975, 89 Stat. 333, which provided that title II of Pub. L. 88–164 [this subchapter] was to be cited as the “Community Mental Health Centers Act”, was repealed by section 902(e)(2)(B) of Pub. L. 97–35.
+Section 245 of title II of Pub. L. 88–164, as added by section 303 of Pub. L. 94–63, title III, July 29, 1975, 89 Stat. 333, which provided that title II of Pub. L. 88–164 [this subchapter] was to be cited as the "Community Mental Health Centers Act", was repealed by section 902(e)(2)(B) of Pub. L. 97–35.

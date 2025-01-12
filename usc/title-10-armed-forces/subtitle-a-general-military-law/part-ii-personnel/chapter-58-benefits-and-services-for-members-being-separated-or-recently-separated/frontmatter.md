@@ -38,9 +38,9 @@ Sec.
 
 **2006**—Pub. L. 109–364, div. A, title V, §561(b), Oct. 17, 2006, 120 Stat. 2220, added item 1151.
 
-**1999**—Pub. L. 106–65, div. A, title XVII, §1707(a)(2), Oct. 5, 1999, 113 Stat. 823, struck out item 1151 “Assistance to separated members to obtain certification and employment as teachers or employment as teachers’ aides”.
+**1999**—Pub. L. 106–65, div. A, title XVII, §1707(a)(2), Oct. 5, 1999, 113 Stat. 823, struck out item 1151 "Assistance to separated members to obtain certification and employment as teachers or employment as teachers' aides".
 
-**1994**—Pub. L. 103–337, div. A, title V, §542(a)(10), title XI, §1132(a)(2), Oct. 5, 1994, 108 Stat. 2768, 2873, struck out “: Department of Defense” after “assistance” in item 1143 and after “service” in item 1143a and substituted “eligible members and former members” for “separated members” in item 1152.
+**1994**—Pub. L. 103–337, div. A, title V, §542(a)(10), title XI, §1132(a)(2), Oct. 5, 1994, 108 Stat. 2768, 2873, struck out ": Department of Defense" after "assistance" in item 1143 and after "service" in item 1143a and substituted "eligible members and former members" for "separated members" in item 1152.
 
 **1993**—Pub. L. 103–160, div. A, title XIII, §1332(e), Nov. 30, 1993, 107 Stat. 1797, added items 1152 and 1153.
 

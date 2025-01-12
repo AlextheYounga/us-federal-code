@@ -14,4 +14,4 @@ Section 256, act Aug. 31, 1916, ch. 426, §6, 39 Stat. 674, covered guaranty giv
 
 #### Effective Date of Repeal ####
 
-Pub. L. 90–628, §3, Oct. 22, 1968, 82 Stat. 1320, provided that: “This Act [repealing sections 251 to 257i of this title and amending section 1459 of this title] shall become effective 60 days after enactment [Oct. 22, 1968].”
+Pub. L. 90–628, §3, Oct. 22, 1968, 82 Stat. 1320, provided that: "This Act [repealing sections 251 to 257i of this title and amending section 1459 of this title] shall become effective 60 days after enactment [Oct. 22, 1968]."

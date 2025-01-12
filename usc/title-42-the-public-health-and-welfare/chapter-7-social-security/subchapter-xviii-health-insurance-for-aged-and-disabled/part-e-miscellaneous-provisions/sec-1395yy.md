@@ -36,7 +36,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 (C) The per diem amounts determined under subparagraph (B) shall not exceed the limit on routine service costs determined under subsection (a) of this section with respect to the facility, adjusted to take into account average capital-related costs with respect to the type and location of the facility.
 
-(3) For purposes of this subsection, urban and rural areas shall be determined in the same manner as for purposes of subsection (a) of this section, and the term “region” shall have the same meaning as under section 1395ww(d)(2)(D) of this title.
+(3) For purposes of this subsection, urban and rural areas shall be determined in the same manner as for purposes of subsection (a) of this section, and the term "region" shall have the same meaning as under section 1395ww(d)(2)(D) of this title.
 
 (4) The Secretary shall establish the prospective payment amounts for cost reporting periods beginning in a fiscal year at least 90 days prior to the beginning of such fiscal year, on the basis of the most recent data available for a 12-month period. A skilled nursing facility must notify the Secretary of its intention to be paid pursuant to this subsection for a cost reporting period no later than 30 days before the beginning of that period.
 
@@ -68,7 +68,7 @@ For purposes of this subsection:
 
 #### (i) In general ####
 
-The term “covered skilled nursing facility services”—
+The term "covered skilled nursing facility services"—
 
 (I) means post-hospital extended care services as defined in section 1395x(i) of this title for which benefits are provided under part A of this subchapter; and
 
@@ -76,7 +76,7 @@ The term “covered skilled nursing facility services”—
 
 #### (ii) Services excluded ####
 
-Services described in this clause are physicians’ services, services described by clauses (i) and (ii) of section 1395x(s)(2)(K) of this title, certified nurse-midwife services, qualified psychologist services, services of a certified registered nurse anesthetist, items and services described in subparagraphs (F) and (O) of section 1395x(s)(2) of this title, telehealth services furnished under section 1395m(m)(4)(C)(ii)(VII) of this title, and, only with respect to services furnished during 1998, the transportation costs of electrocardiogram equipment for electrocardiogram test services (HCPCS Code R0076). Services described in this clause do not include any physical, occupational, or speech-language therapy services regardless of whether or not the services are furnished by, or under the supervision of, a physician or other health care professional.
+Services described in this clause are physicians' services, services described by clauses (i) and (ii) of section 1395x(s)(2)(K) of this title, certified nurse-midwife services, qualified psychologist services, services of a certified registered nurse anesthetist, items and services described in subparagraphs (F) and (O) of section 1395x(s)(2) of this title, telehealth services furnished under section 1395m(m)(4)(C)(ii)(VII) of this title, and, only with respect to services furnished during 1998, the transportation costs of electrocardiogram equipment for electrocardiogram test services (HCPCS Code R0076). Services described in this clause do not include any physical, occupational, or speech-language therapy services regardless of whether or not the services are furnished by, or under the supervision of, a physician or other health care professional.
 
 #### (iii) Exclusion of certain additional items and services ####
 
@@ -104,27 +104,27 @@ Services described in this clause are—
 
 #### (B) All costs ####
 
-The term “all costs” means routine service costs, ancillary costs, and capital-related costs of covered skilled nursing facility services, but does not include costs associated with approved educational activities.
+The term "all costs" means routine service costs, ancillary costs, and capital-related costs of covered skilled nursing facility services, but does not include costs associated with approved educational activities.
 
 #### (C) Non-Federal percentage; Federal percentage ####
 
 For—
 
-(i) the first cost reporting period (as defined in subparagraph (D)) of a facility, the “non-Federal percentage” is 75 percent and the “Federal percentage” is 25 percent;
+(i) the first cost reporting period (as defined in subparagraph (D)) of a facility, the "non-Federal percentage" is 75 percent and the "Federal percentage" is 25 percent;
 
-(ii) the next cost reporting period of such facility, the “non-Federal percentage” is 50 percent and the “Federal percentage” is 50 percent; and
+(ii) the next cost reporting period of such facility, the "non-Federal percentage" is 50 percent and the "Federal percentage" is 50 percent; and
 
-(iii) the subsequent cost reporting period of such facility, the “non-Federal percentage” is 25 percent and the “Federal percentage” is 75 percent.
+(iii) the subsequent cost reporting period of such facility, the "non-Federal percentage" is 25 percent and the "Federal percentage" is 75 percent.
 
 #### (D) First cost reporting period ####
 
-The term “first cost reporting period” means, with respect to a skilled nursing facility, the first cost reporting period of the facility beginning on or after July 1, 1998.
+The term "first cost reporting period" means, with respect to a skilled nursing facility, the first cost reporting period of the facility beginning on or after July 1, 1998.
 
 #### (E) Transition period ####
 
 #### (i) In general ####
 
-The term “transition period” means, with respect to a skilled nursing facility, the 3 cost reporting periods of the facility beginning with the first cost reporting period.
+The term "transition period" means, with respect to a skilled nursing facility, the 3 cost reporting periods of the facility beginning with the first cost reporting period.
 
 #### (ii) Treatment of new skilled nursing facilities ####
 
@@ -154,7 +154,7 @@ The Secretary shall update the amount determined under subparagraph (B) for each
 
 #### (D) Facility-specific update factor ####
 
-For purposes of this paragraph, the “facility-specific update factor” for cost reporting periods beginning during—
+For purposes of this paragraph, the "facility-specific update factor" for cost reporting periods beginning during—
 
 (i) during each of fiscal years 1998 and 1999, is equal to the skilled nursing facility market basket percentage increase for such fiscal year minus 1 percentage point, and
 
@@ -256,7 +256,7 @@ The Secretary shall establish a skilled nursing facility market basket index tha
 
 #### (i) In general ####
 
-Subject to clause (ii), the term “skilled nursing facility market basket percentage” means, for a fiscal year or other annual period and as calculated by the Secretary, the percentage change in the skilled nursing facility market basket index (established under subparagraph (A)) from the midpoint of the prior fiscal year (or period) to the midpoint of the fiscal year (or other period) involved.
+Subject to clause (ii), the term "skilled nursing facility market basket percentage" means, for a fiscal year or other annual period and as calculated by the Secretary, the percentage change in the skilled nursing facility market basket index (established under subparagraph (A)) from the midpoint of the prior fiscal year (or period) to the midpoint of the fiscal year (or other period) involved.
 
 #### (ii) Adjustment ####
 
@@ -376,7 +376,7 @@ Such procedures shall provide that the information described in subparagraph (A)
 
 #### (7) Non-application of Paperwork Reduction Act ####
 
-Chapter 35 of title 44 (commonly referred to as the “Paperwork Reduction Act of 1995”) shall not apply to this subsection.
+Chapter 35 of title 44 (commonly referred to as the "Paperwork Reduction Act of 1995") shall not apply to this subsection.
 
 #### (h) Skilled nursing facility value-based purchasing program ####
 
@@ -384,7 +384,7 @@ Chapter 35 of title 44 (commonly referred to as the “Paperwork Reduction Act o
 
 #### (A) In general ####
 
-Subject to the succeeding provisions of this subsection, the Secretary shall establish a skilled nursing facility value-based purchasing program (in this subsection referred to as the “SNF VBP Program”) under which value-based incentive payments are made in a fiscal year to skilled nursing facilities.
+Subject to the succeeding provisions of this subsection, the Secretary shall establish a skilled nursing facility value-based purchasing program (in this subsection referred to as the "SNF VBP Program") under which value-based incentive payments are made in a fiscal year to skilled nursing facilities.
 
 #### (B) Program to begin in fiscal year 2019 ####
 
@@ -418,7 +418,7 @@ The Secretary shall establish and announce the performance standards established
 
 #### (A) In general ####
 
-The Secretary shall develop a methodology for assessing the total performance of each skilled nursing facility based on performance standards established under paragraph (3) with respect to the measure applied under paragraph (2). Using such methodology, the Secretary shall provide for an assessment (in this subsection referred to as the “SNF performance score”) for each skilled nursing facility for each such performance period.
+The Secretary shall develop a methodology for assessing the total performance of each skilled nursing facility based on performance standards established under paragraph (3) with respect to the measure applied under paragraph (2). Using such methodology, the Secretary shall provide for an assessment (in this subsection referred to as the "SNF performance score") for each skilled nursing facility for each such performance period.
 
 #### (B) Ranking of SNF performance scores ####
 
@@ -468,7 +468,7 @@ The Secretary shall reduce the adjusted Federal per diem rate determined under s
 
 #### (B) Applicable percent ####
 
-For purposes of subparagraph (A), the term “applicable percent” means, with respect to fiscal year 2019 and succeeding fiscal years, 2 percent.
+For purposes of subparagraph (A), the term "applicable percent" means, with respect to fiscal year 2019 and succeeding fiscal years, 2 percent.
 
 #### (7) Announcement of net result of adjustments ####
 
@@ -534,13 +534,13 @@ Section 314(a) of Medicare, Medicaid, and SCHIP Benefits Improvement and Protect
 
 Subsec. (h). Pub. L. 113–93, §215(b), added subsec. (h).
 
-**2010**—Subsec. (e)(5)(B). Pub. L. 111–148, §3401(b), designated existing provisions as cl. (i), inserted heading, substituted “Subject to clause (ii), the term” for “The term”, and added cl. (ii).
+**2010**—Subsec. (e)(5)(B). Pub. L. 111–148, §3401(b), designated existing provisions as cl. (i), inserted heading, substituted "Subject to clause (ii), the term" for "The term", and added cl. (ii).
 
 Subsec. (f). Pub. L. 111–148, §6104, added subsec. (f).
 
-**2008**—Subsec. (e)(2)(A)(ii). Pub. L. 110–275 inserted “telehealth services furnished under section 1395m(m)(4)(C)(ii)(VII) of this title,” after “section 1395x(s)(2)(K) of this title,”.
+**2008**—Subsec. (e)(2)(A)(ii). Pub. L. 110–275 inserted "telehealth services furnished under section 1395m(m)(4)(C)(ii)(VII) of this title," after "section 1395x(s)(2)(K) of this title,".
 
-**2003**—Subsec. (e)(2)(A)(i)(II). Pub. L. 108–173, §410(a)(1), substituted “clauses (ii), (iii), and (iv)” for “clauses (ii) and (iii)”.
+**2003**—Subsec. (e)(2)(A)(i)(II). Pub. L. 108–173, §410(a)(1), substituted "clauses (ii), (iii), and (iv)" for "clauses (ii) and (iii)".
 
 Subsec. (e)(2)(A)(iv). Pub. L. 108–173, §410(a)(2), added cl. (iv).
 
@@ -548,81 +548,81 @@ Subsec. (e)(12). Pub. L. 108–173, §511(a), amended heading and text of par. (
 
 **2000**—Subsec. (e)(4)(E)(ii)(II). Pub. L. 106–554, §1(a)(6) [title III, §311(a)(3)], added subcl. (II). Former subcl. (II) redesignated (III).
 
-Subsec. (e)(4)(E)(ii)(III). Pub. L. 106–554, §1(a)(6) [title III, §311(a)(1), (2)], redesignated subcl. (II) as (III) and substituted “each of fiscal years 2002 and 2003” for “each of fiscal years 2001 and 2002” and “minus 0.5 percentage points” for “minus 1 percentage point”. Former subcl. (III) redesignated (IV).
+Subsec. (e)(4)(E)(ii)(III). Pub. L. 106–554, §1(a)(6) [title III, §311(a)(1), (2)], redesignated subcl. (II) as (III) and substituted "each of fiscal years 2002 and 2003" for "each of fiscal years 2001 and 2002" and "minus 0.5 percentage points" for "minus 1 percentage point". Former subcl. (III) redesignated (IV).
 
 Subsec. (e)(4)(E)(ii)(IV). Pub. L. 106–554, §1(a)(6) [title III, §311(a)(1)], redesignated subcl. (III) as (IV).
 
-Subsec. (e)(7). Pub. L. 106–554, §1(a)(6) [title II, §203(a)(1)], substituted “Treatment of” for “Transition for” in heading.
+Subsec. (e)(7). Pub. L. 106–554, §1(a)(6) [title II, §203(a)(1)], substituted "Treatment of" for "Transition for" in heading.
 
-Subsec. (e)(7)(A). Pub. L. 106–554, §1(a)(6) [title II, §203(a)(2), (3)], in heading substituted “Transition” for “In general” and in text substituted “Subject to subparagraph (C), the” for “The” and inserted “(other than critical access hospitals)” after “facilities described in subparagraph (B)”.
+Subsec. (e)(7)(A). Pub. L. 106–554, §1(a)(6) [title II, §203(a)(2), (3)], in heading substituted "Transition" for "In general" and in text substituted "Subject to subparagraph (C), the" for "The" and inserted "(other than critical access hospitals)" after "facilities described in subparagraph (B)".
 
-Subsec. (e)(7)(B). Pub. L. 106–554, §1(a)(6) [title II, §203(a)(4)], struck out “, for which payment is made for the furnishing of extended care services on a reasonable cost basis under section 1395f(l) of this title (as in effect on and after such date)” before period at end.
+Subsec. (e)(7)(B). Pub. L. 106–554, §1(a)(6) [title II, §203(a)(4)], struck out ", for which payment is made for the furnishing of extended care services on a reasonable cost basis under section 1395f(l) of this title (as in effect on and after such date)" before period at end.
 
 Subsec. (e)(7)(C). Pub. L. 106–554, §1(a)(6) [title II, §203(a)(5)], added subpar. (C).
 
-**1999**—Subsec. (e)(1). Pub. L. 106–113, §1000(a)(6) [title I, §105(a)(1)], substituted “subject to paragraphs (7), (11), and (12)” for “subject to paragraphs (7) and (11)” in introductory provisions.
+**1999**—Subsec. (e)(1). Pub. L. 106–113, §1000(a)(6) [title I, §105(a)(1)], substituted "subject to paragraphs (7), (11), and (12)" for "subject to paragraphs (7) and (11)" in introductory provisions.
 
-Pub. L. 106–113, §1000(a)(6) [title I, §102(a)(1)], substituted “paragraphs (7) and (11)” for “paragraph (7)” in introductory provisions.
+Pub. L. 106–113, §1000(a)(6) [title I, §102(a)(1)], substituted "paragraphs (7) and (11)" for "paragraph (7)" in introductory provisions.
 
-Subsec. (e)(2)(A)(i)(II). Pub. L. 106–113, §1000(a)(6) [title I, §103(a)(1)], substituted “items and services described in clauses (ii) and (iii)” for “services described in clause (ii)”.
+Subsec. (e)(2)(A)(i)(II). Pub. L. 106–113, §1000(a)(6) [title I, §103(a)(1)], substituted "items and services described in clauses (ii) and (iii)" for "services described in clause (ii)".
 
 Subsec. (e)(2)(A)(iii). Pub. L. 106–113, §1000(a)(6) [title I, §103(a)(2)], added cl. (iii).
 
-Subsec. (e)(3)(A)(i). Pub. L. 106–113, §1000(a)(6) [title I, §104(a)(1)(A)], inserted “or, in the case of a facility participating in the Nursing Home Case-Mix and Quality Demonstration (RUGS–III), the RUGS–III rate received by the facility during the cost reporting period beginning in 1997” after “to non-settled cost reports”.
+Subsec. (e)(3)(A)(i). Pub. L. 106–113, §1000(a)(6) [title I, §104(a)(1)(A)], inserted "or, in the case of a facility participating in the Nursing Home Case-Mix and Quality Demonstration (RUGS–III), the RUGS–III rate received by the facility during the cost reporting period beginning in 1997" after "to non-settled cost reports".
 
-Subsec. (e)(3)(A)(ii). Pub. L. 106–113, §1000(a)(6) [title I, §104(a)(1)(B)], substituted “furnished during the applicable cost reporting period described in clause (i)” for “furnished during such period”.
+Subsec. (e)(3)(A)(ii). Pub. L. 106–113, §1000(a)(6) [title I, §104(a)(1)(B)], substituted "furnished during the applicable cost reporting period described in clause (i)" for "furnished during such period".
 
 Subsec. (e)(3)(B). Pub. L. 106–113, §1000(a)(6) [title I, §104(a)(2)], added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows:
 
-“(i) In general.—Subject to clause (ii), the Secretary shall update the amount determined under subparagraph (A), for each cost reporting period after the cost reporting period described in subparagraph (A)(i) and up to the first cost reporting period by a factor equal to the skilled nursing facility market basket percentage increase minus 1 percentage point.
+"(i) In general.—Subject to clause (ii), the Secretary shall update the amount determined under subparagraph (A), for each cost reporting period after the cost reporting period described in subparagraph (A)(i) and up to the first cost reporting period by a factor equal to the skilled nursing facility market basket percentage increase minus 1 percentage point.
 
-“(ii) Certain demonstration projects.—In the case of a facility participating in the Nursing Home Case-Mix and Quality Demonstration (RUGS–III), there shall be substituted for the amount described in clause (i) the RUGS–III rate received by the facility for 1997.”
+"(ii) Certain demonstration projects.—In the case of a facility participating in the Nursing Home Case-Mix and Quality Demonstration (RUGS–III), there shall be substituted for the amount described in clause (i) the RUGS–III rate received by the facility for 1997."
 
-Subsec. (e)(4)(E)(i). Pub. L. 106–113, §1000(a)(6) [title III, §321(k)(18)(A)], substituted “Federal” for “federal”.
+Subsec. (e)(4)(E)(i). Pub. L. 106–113, §1000(a)(6) [title III, §321(k)(18)(A)], substituted "Federal" for "federal".
 
-Subsec. (e)(4)(E)(ii). Pub. L. 106–113, §1000(a)(6) [title III, §321(k)(18)(B)], substituted “Federal” for “federal” in two places in introductory provisions.
+Subsec. (e)(4)(E)(ii). Pub. L. 106–113, §1000(a)(6) [title III, §321(k)(18)(B)], substituted "Federal" for "federal" in two places in introductory provisions.
 
 Subsec. (e)(4)(G)(iii). Pub. L. 106–113, §1000(a)(6) [title I, §103(b)(1)], added cl. (iii).
 
-Subsec. (e)(8)(A). Pub. L. 106–113, §1000(a)(6) [title I, §103(b)(2)], substituted “adjustments for variations in labor-related costs under paragraph (4)(G)(ii), and adjustments under paragraph (4)(G)(iii)” for “and adjustments for variations in labor-related costs under paragraph (4)(G)(ii)”.
+Subsec. (e)(8)(A). Pub. L. 106–113, §1000(a)(6) [title I, §103(b)(2)], substituted "adjustments for variations in labor-related costs under paragraph (4)(G)(ii), and adjustments under paragraph (4)(G)(iii)" for "and adjustments for variations in labor-related costs under paragraph (4)(G)(ii)".
 
-Subsec. (e)(8)(B). Pub. L. 106–113, §1000(a)(6) [title III, §321(g)(1)], substituted “July 1, 1999” for “January 1, 1999,”.
+Subsec. (e)(8)(B). Pub. L. 106–113, §1000(a)(6) [title III, §321(g)(1)], substituted "July 1, 1999" for "January 1, 1999,".
 
-Subsec. (e)(9). Pub. L. 106–113, §1000(a)(6) [title I, §103(a)(3)], inserted at end “In the case of an item or service described in clause (iii) of paragraph (2)(A) that would be payable under part A of this subchapter but for the exclusion of such item or service under such clause, payment shall be made for the item or service, in an amount otherwise determined under part B of this subchapter for such item or service, from the Federal Hospital Insurance Trust Fund under section 1395i of this title (rather than from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title).”
+Subsec. (e)(9). Pub. L. 106–113, §1000(a)(6) [title I, §103(a)(3)], inserted at end "In the case of an item or service described in clause (iii) of paragraph (2)(A) that would be payable under part A of this subchapter but for the exclusion of such item or service under such clause, payment shall be made for the item or service, in an amount otherwise determined under part B of this subchapter for such item or service, from the Federal Hospital Insurance Trust Fund under section 1395i of this title (rather than from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title)."
 
 Subsec. (e)(11). Pub. L. 106–113, §1000(a)(6) [title I, §102(a)(2)], added par. (11).
 
 Subsec. (e)(12). Pub. L. 106–113, §1000(a)(6) [title I, §105(a)(2), (b)], temporarily added par. (12).
 
-**1997**—Subsec. (a). Pub. L. 105–33, §4431, substituted “described in this subsection, except that the limits effective for cost reporting periods beginning on or after October 1, 1997, shall be based on the limits effective for cost reporting periods beginning on or after October 1, 1996.” for “described in this subsection” at end.
+**1997**—Subsec. (a). Pub. L. 105–33, §4431, substituted "described in this subsection, except that the limits effective for cost reporting periods beginning on or after October 1, 1997, shall be based on the limits effective for cost reporting periods beginning on or after October 1, 1996." for "described in this subsection" at end.
 
-Subsec. (d)(1). Pub. L. 105–33, §4432(b)(5)(H), substituted “Subject to subsection (e) of this section, any skilled nursing facility” for “Any skilled nursing facility”.
+Subsec. (d)(1). Pub. L. 105–33, §4432(b)(5)(H), substituted "Subject to subsection (e) of this section, any skilled nursing facility" for "Any skilled nursing facility".
 
 Subsec. (e). Pub. L. 105–33, §4432(a), added subsec. (e).
 
-Subsec. (e)(2)(A)(ii). Pub. L. 105–33, §4511(a)(2)(E), substituted “and (ii)” for “through (iii)”.
+Subsec. (e)(2)(A)(ii). Pub. L. 105–33, §4511(a)(2)(E), substituted "and (ii)" for "through (iii)".
 
 Subsec. (e)(9), (10). Pub. L. 105–33, §4432(b)(3), added pars. (9) and (10).
 
-**1993**—Subsec. (a). Pub. L. 103–66, §13503(a)(2), inserted “, on or after October 1, 1995,” after “October 1, 1992” in concluding provisions.
+**1993**—Subsec. (a). Pub. L. 103–66, §13503(a)(2), inserted ", on or after October 1, 1995," after "October 1, 1992" in concluding provisions.
 
-Subsec. (b). Pub. L. 103–66, §13503(a)(3)(A), substituted “Secretary may not recognize” for “Secretary shall recognize” and a period for “(as determined by the Secretary) resulting from the reimbursement principles under this subchapter, notwithstanding the limits set forth in paragraph (3) or (4) of subsection (a) of this section.”
+Subsec. (b). Pub. L. 103–66, §13503(a)(3)(A), substituted "Secretary may not recognize" for "Secretary shall recognize" and a period for "(as determined by the Secretary) resulting from the reimbursement principles under this subchapter, notwithstanding the limits set forth in paragraph (3) or (4) of subsection (a) of this section."
 
-**1990**—Subsec. (a). Pub. L. 101–508, §4008(e)(2), struck out period at end and inserted “, and shall, for cost reporting periods beginning on or after October 1, 1992 and every 2 years thereafter, provide for an update to the per diem cost limits described in this subsection”.
+**1990**—Subsec. (a). Pub. L. 101–508, §4008(e)(2), struck out period at end and inserted ", and shall, for cost reporting periods beginning on or after October 1, 1992 and every 2 years thereafter, provide for an update to the per diem cost limits described in this subsection".
 
-Subsec. (d)(1). Pub. L. 101–508, §4008(h)(2)(A)(ii), substituted “(including the costs of services required to attain or maintain the highest practicable physical, mental, and psychosocial well-being of each resident eligible for benefits under this subchapter) and capital-related costs” for “(and capital-related costs)”.
+Subsec. (d)(1). Pub. L. 101–508, §4008(h)(2)(A)(ii), substituted "(including the costs of services required to attain or maintain the highest practicable physical, mental, and psychosocial well-being of each resident eligible for benefits under this subchapter) and capital-related costs" for "(and capital-related costs)".
 
 **1987**—Subsec. (d)(7). Pub. L. 100–203 added par. (7).
 
-**1986**—Subsec. (b). Pub. L. 99–272, §9219(b)(1)(C), substituted “notwithstanding” for “nothwithstanding”.
+**1986**—Subsec. (b). Pub. L. 99–272, §9219(b)(1)(C), substituted "notwithstanding" for "nothwithstanding".
 
 Subsec. (c). Pub. L. 99–272, §9126(b), inserted provision requiring the Secretary to publish data and criteria to be used for purposes of this subsection on an annual basis.
 
 Subsec. (d). Pub. L. 99–272, §9126(a), added subsec. (d).
 
-Subsec. (d)(1). Pub. L. 99–514, §1895(b)(7)(A), substituted “cost reporting period” for “fiscal year” in five places.
+Subsec. (d)(1). Pub. L. 99–514, §1895(b)(7)(A), substituted "cost reporting period" for "fiscal year" in five places.
 
-Subsec. (d)(4). Pub. L. 99–514, §1895(b)(7)(B), substituted “cost reporting periods beginning in a fiscal year” for “each fiscal year” and “cost reporting period no later than 30 days before the beginning of that period” for “fiscal year within 60 days after the Secretary establishes the final prospective payment amounts for such fiscal year”.
+Subsec. (d)(4). Pub. L. 99–514, §1895(b)(7)(B), substituted "cost reporting periods beginning in a fiscal year" for "each fiscal year" and "cost reporting period no later than 30 days before the beginning of that period" for "fiscal year within 60 days after the Secretary establishes the final prospective payment amounts for such fiscal year".
 
 #### Effective Date of 2008 Amendment ####
 
@@ -630,9 +630,9 @@ Amendment by Pub. L. 110–275 applicable to services furnished on or after Jan.
 
 #### Effective Date of 2003 Amendment ####
 
-Pub. L. 108–173, title IV, §410(b), Dec. 8, 2003, 117 Stat. 2271, provided that: “The amendments made by subsection (a) [amending this section] shall apply to services furnished on or after January 1, 2005.”
+Pub. L. 108–173, title IV, §410(b), Dec. 8, 2003, 117 Stat. 2271, provided that: "The amendments made by subsection (a) [amending this section] shall apply to services furnished on or after January 1, 2005."
 
-Pub. L. 108–173, title V, §511(b), Dec. 8, 2003, 117 Stat. 2299, provided that: “The amendment made by paragraph (1) [probably should be “subsection (a)”, amending this section] shall apply to services furnished on or after October 1, 2004.”
+Pub. L. 108–173, title V, §511(b), Dec. 8, 2003, 117 Stat. 2299, provided that: "The amendment made by paragraph (1) [probably should be "subsection (a)", amending this section] shall apply to services furnished on or after October 1, 2004."
 
 #### Effective Date of 2000 Amendment ####
 
@@ -640,13 +640,13 @@ Amendment by section 1(a)(6) [title II, §203(a)] of Pub. L. 106–554 applicabl
 
 #### Effective Date of 1999 Amendment ####
 
-Pub. L. 106–113, div. B, §1000(a)(6) [title I, §102(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–325, provided that: “The amendments made by subsection (a) [amending this section] shall apply to elections made on or after December 15, 1999, except that no election shall be effective under such amendments for a cost reporting period beginning before January 1, 2000.”
+Pub. L. 106–113, div. B, §1000(a)(6) [title I, §102(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–325, provided that: "The amendments made by subsection (a) [amending this section] shall apply to elections made on or after December 15, 1999, except that no election shall be effective under such amendments for a cost reporting period beginning before January 1, 2000."
 
-Pub. L. 106–113, div. B, §1000(a)(6) [title I, §103(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–326, provided that: “The amendments made by subsection (a) [amending this section] shall apply to payments made for items and services furnished on or after April 1, 2000.”
+Pub. L. 106–113, div. B, §1000(a)(6) [title I, §103(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–326, provided that: "The amendments made by subsection (a) [amending this section] shall apply to payments made for items and services furnished on or after April 1, 2000."
 
-Pub. L. 106–113, div. B, §1000(a)(6) [title I, §104(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–327, provided that: “The amendments made by subsection (a) [amending this section] shall be effective as if included in the enactment of section 4432(a) of BBA [the Balanced Budget Act of 1997, Pub. L. 105–33].
+Pub. L. 106–113, div. B, §1000(a)(6) [title I, §104(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–327, provided that: "The amendments made by subsection (a) [amending this section] shall be effective as if included in the enactment of section 4432(a) of BBA [the Balanced Budget Act of 1997, Pub. L. 105–33].
 
-Pub. L. 106–113, div. B, §1000(a)(6) [title I, §105(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–328, provided that: “The amendments made by subsection (a) [amending this section] shall apply for the period beginning on the date on which the first cost reporting period of the facility begins after the date of the enactment of this Act [Nov. 29, 1999] and ending on September 30, 2001, and applies to skilled nursing facilities furnishing covered skilled nursing facility services on the date of the enactment of this Act for which payment is made under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.].”
+Pub. L. 106–113, div. B, §1000(a)(6) [title I, §105(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–328, provided that: "The amendments made by subsection (a) [amending this section] shall apply for the period beginning on the date on which the first cost reporting period of the facility begins after the date of the enactment of this Act [Nov. 29, 1999] and ending on September 30, 2001, and applies to skilled nursing facilities furnishing covered skilled nursing facility services on the date of the enactment of this Act for which payment is made under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.]."
 
 Amendment by section 1000(a)(6) [title III, §321(g)(1), (k)(18)] of Pub. L. 106–113 effective as if included in the enactment of the Balanced Budget Act of 1997, Pub. L. 105–33, except as otherwise provided, see section 1000(a)(6) [title III, §321(m)] of Pub. L. 106–113, set out as a note under section 1395d of this title.
 
@@ -658,11 +658,11 @@ Amendment by section 4511(a)(2)(E) of Pub. L. 105–33 applicable with respect t
 
 #### Effective Date of 1993 Amendment ####
 
-Pub. L. 103–66, title XIII, §13503(a)(3)(B), Aug. 10, 1993, 107 Stat. 578, provided that: “The amendments made by subparagraph (A) [amending this section] shall apply to cost reporting periods beginning on or after October 1, 1993.”
+Pub. L. 103–66, title XIII, §13503(a)(3)(B), Aug. 10, 1993, 107 Stat. 578, provided that: "The amendments made by subparagraph (A) [amending this section] shall apply to cost reporting periods beginning on or after October 1, 1993."
 
 #### Effective Date of 1990 Amendment ####
 
-Pub. L. 101–508, title IV, §4008(e)(3), Nov. 5, 1990, 104 Stat. 1388–45, provided that: “The amendments made by paragraphs (1) and (2) [amending this section and provisions set out as a note below] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1989 [Pub. L. 101–239].”
+Pub. L. 101–508, title IV, §4008(e)(3), Nov. 5, 1990, 104 Stat. 1388–45, provided that: "The amendments made by paragraphs (1) and (2) [amending this section and provisions set out as a note below] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1989 [Pub. L. 101–239]."
 
 Amendment by section 4008(h)(2)(A)(ii) of Pub. L. 101–508 effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, see section 4008(h)(2)(P) of Pub. L. 101–508, set out as a note under section 1395i–3 of this title.
 
@@ -672,19 +672,19 @@ Amendment by Pub. L. 100–203 applicable to services furnished on or after Oct.
 
 #### Effective Date of 1986 Amendment ####
 
-Pub. L. 99–514, title XVIII, §1895(b)(7)(D), Oct. 22, 1986, 100 Stat. 2933, provided that: “The amendments made by subparagraphs (A) and (B) [amending this section] apply to cost reporting periods beginning on or after October 1, 1986.”
+Pub. L. 99–514, title XVIII, §1895(b)(7)(D), Oct. 22, 1986, 100 Stat. 2933, provided that: "The amendments made by subparagraphs (A) and (B) [amending this section] apply to cost reporting periods beginning on or after October 1, 1986."
 
 Amendment by section 9219(b)(1)(C) of Pub. L. 99–272 effective as if originally included in the Deficit Reduction Act of 1984, Pub. L. 98–369, see section 9219(b)(1)(D) of Pub. L. 99–272, set out as a note under section 1395u of this title.
 
 Pub. L. 99–272, title IX, §9126(d), Apr. 7, 1986, 100 Stat. 170, as amended by Pub. L. 99–514, title XVIII, §1895(b)(7)(C), Oct. 22, 1986, 100 Stat. 2933, provided that:
 
-“(1) The amendment made by subsection (a) [amending this section] shall apply to cost reporting periods beginning on or after October 1, 1986.
+"(1) The amendment made by subsection (a) [amending this section] shall apply to cost reporting periods beginning on or after October 1, 1986.
 
-“(2) The amendment made by subsection (b) [amending this section] shall become effective on the date of the enactment of this Act [Apr. 7, 1986].”
+"(2) The amendment made by subsection (b) [amending this section] shall become effective on the date of the enactment of this Act [Apr. 7, 1986]."
 
 #### Effective Date ####
 
-Pub. L. 98–369, div. B, title III, §2319(c), July 18, 1984, 98 Stat. 1083, provided that: “The amendments made by subsections (a) [amending section 1395x of this title] and (b) [enacting this section] shall apply to cost reporting periods beginning on or after July 1, 1984.”
+Pub. L. 98–369, div. B, title III, §2319(c), July 18, 1984, 98 Stat. 1083, provided that: "The amendments made by subsections (a) [amending section 1395x of this title] and (b) [enacting this section] shall apply to cost reporting periods beginning on or after July 1, 1984."
 
 #### Study on Portable Diagnostic Ultrasound Services for Beneficiaries in Skilled Nursing Facilities ####
 
@@ -692,90 +692,90 @@ Pub. L. 108–173, title V, §513, Dec. 8, 2003, 117 Stat. 2300, directed the Co
 
 #### Special Rule for Payment for Fiscal Year 2001 ####
 
-Pub. L. 106–554, §1(a)(6) [title III, §311(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–497, provided that: “Notwithstanding the amendments made by subsection (a) [amending this section], for purposes of making payments for covered skilled nursing facility services under section 1888(e) of the Social Security Act (42 U.S.C. 1395yy(e)) for fiscal year 2001, the Federal per diem rate referred to in paragraph (4)(E)(ii) of such section—
+Pub. L. 106–554, §1(a)(6) [title III, §311(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–497, provided that: "Notwithstanding the amendments made by subsection (a) [amending this section], for purposes of making payments for covered skilled nursing facility services under section 1888(e) of the Social Security Act (42 U.S.C. 1395yy(e)) for fiscal year 2001, the Federal per diem rate referred to in paragraph (4)(E)(ii) of such section—
 
-“(1) for the period beginning on October 1, 2000, and ending on March 31, 2001, shall be the rate determined in accordance with the law as in effect on the day before the date of the enactment of this Act [Dec. 21, 2000]; and
+"(1) for the period beginning on October 1, 2000, and ending on March 31, 2001, shall be the rate determined in accordance with the law as in effect on the day before the date of the enactment of this Act [Dec. 21, 2000]; and
 
-“(2) for the period beginning on April 1, 2001, and ending on September 30, 2001, shall be the rate that would have been determined under such section if ‘plus 1 percentage point’ had been substituted for ‘minus 1 percentage point’ under subclause (II) of such paragraph (as in effect on the day before the date of the enactment of this Act).”
+"(2) for the period beginning on April 1, 2001, and ending on September 30, 2001, shall be the rate that would have been determined under such section if 'plus 1 percentage point' had been substituted for 'minus 1 percentage point' under subclause (II) of such paragraph (as in effect on the day before the date of the enactment of this Act)."
 
-Pub. L. 106–554, §1(a)(6) [title V, §547(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–553, provided that: “The payment increase provided under section 311(b)(2) [set out as a note above] (relating to covered skilled nursing facility services) shall not apply to services furnished after fiscal year 2001 and shall not be taken into account in calculating the payment amounts applicable for services furnished after such fiscal year.”
+Pub. L. 106–554, §1(a)(6) [title V, §547(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–553, provided that: "The payment increase provided under section 311(b)(2) [set out as a note above] (relating to covered skilled nursing facility services) shall not apply to services furnished after fiscal year 2001 and shall not be taken into account in calculating the payment amounts applicable for services furnished after such fiscal year."
 
 #### GAO Report on Adequacy of SNF Payment Rates ####
 
-Pub. L. 106–554, §1(a)(6) [title III, §311(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–498, provided that: “Not later than July 1, 2002, the Comptroller General of the United States shall submit to Congress a report on the adequacy of medicare payment rates to skilled nursing facilities and the extent to which medicare contributes to the financial viability of such facilities. Such report shall take into account the role of private payors, medicaid, and case mix on the financial performance of these facilities, and shall include an analysis (by specific RUG classification) of the number and characteristics of such facilities.”
+Pub. L. 106–554, §1(a)(6) [title III, §311(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–498, provided that: "Not later than July 1, 2002, the Comptroller General of the United States shall submit to Congress a report on the adequacy of medicare payment rates to skilled nursing facilities and the extent to which medicare contributes to the financial viability of such facilities. Such report shall take into account the role of private payors, medicaid, and case mix on the financial performance of these facilities, and shall include an analysis (by specific RUG classification) of the number and characteristics of such facilities."
 
 #### HCFA Study of Classification Systems for SNF Residents ####
 
 Pub. L. 106–554, §1(a)(6) [title III, §311(e)], Dec. 21, 2000, 114 Stat. 2763, 2763A–498, provided that:
 
-“(1) Study.—The Secretary of Health and Human Services shall conduct a study of the different systems for categorizing patients in medicare skilled nursing facilities in a manner that accounts for the relative resource utilization of different patient types.
+"(1) Study.—The Secretary of Health and Human Services shall conduct a study of the different systems for categorizing patients in medicare skilled nursing facilities in a manner that accounts for the relative resource utilization of different patient types.
 
-“(2) Report.—Not later than January 1, 2005, the Secretary shall submit to Congress a report on the study conducted under subsection (a). Such report shall include such recommendations regarding changes in law as may be appropriate.”
+"(2) Report.—Not later than January 1, 2005, the Secretary shall submit to Congress a report on the study conducted under subsection (a). Such report shall include such recommendations regarding changes in law as may be appropriate."
 
 #### GAO Audit of Nursing Staff Ratios ####
 
 Pub. L. 106–554, §1(a)(6) [title III, §312(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–498, provided that:
 
-“(1) Audit.—The Comptroller General of the United States shall conduct an audit of nursing staffing ratios in a representative sample of medicare skilled nursing facilities. Such sample shall cover selected States and shall include broad representation with respect to size, ownership, location, and medicare volume. Such audit shall include an examination of payroll records and medicaid cost reports of individual facilities.
+"(1) Audit.—The Comptroller General of the United States shall conduct an audit of nursing staffing ratios in a representative sample of medicare skilled nursing facilities. Such sample shall cover selected States and shall include broad representation with respect to size, ownership, location, and medicare volume. Such audit shall include an examination of payroll records and medicaid cost reports of individual facilities.
 
-“(2) Report.—Not later than August 1, 2002, the Comptroller General shall submit to Congress a report on the audits conducted under paragraph (1). Such report shall include an assessment of the impact of the increased payments under this subtitle [subtitle B, §§311–315, of title III of §1(a)(6) of Pub. L. 106–554, amending this section and sections 1395u, 1395y, and 1395cc of this title and enacting provisions set out as notes under this section and section 1395u of this title] on increased nursing staff ratios and shall make recommendations as to whether increased payments under subsection (a) [114 Stat. 2763A–498] should be continued.”
+"(2) Report.—Not later than August 1, 2002, the Comptroller General shall submit to Congress a report on the audits conducted under paragraph (1). Such report shall include an assessment of the impact of the increased payments under this subtitle [subtitle B, §§311–315, of title III of §1(a)(6) of Pub. L. 106–554, amending this section and sections 1395u, 1395y, and 1395cc of this title and enacting provisions set out as notes under this section and section 1395u of this title] on increased nursing staff ratios and shall make recommendations as to whether increased payments under subsection (a) [114 Stat. 2763A–498] should be continued."
 
 #### Oversight ####
 
-Pub. L. 106–554, §1(a)(6) [title III, §313(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–499, provided that: “The Secretary of Health and Human Services, through the Office of the Inspector General in the Department of Health and Human Services or otherwise, shall monitor payments made under part B of the title XVIII of the Social Security Act [42 U.S.C. 1395j et seq.] for items and services furnished to residents of skilled nursing facilities during a time in which the residents are not being provided medicare covered post-hospital extended care services to ensure that there is not duplicate billing for services or excessive services provided.”
+Pub. L. 106–554, §1(a)(6) [title III, §313(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–499, provided that: "The Secretary of Health and Human Services, through the Office of the Inspector General in the Department of Health and Human Services or otherwise, shall monitor payments made under part B of the title XVIII of the Social Security Act [42 U.S.C. 1395j et seq.] for items and services furnished to residents of skilled nursing facilities during a time in which the residents are not being provided medicare covered post-hospital extended care services to ensure that there is not duplicate billing for services or excessive services provided."
 
 #### Establishment of Process for Geographic Reclassification ####
 
 Pub. L. 106–554, §1(a)(6) [title III, §315], Dec. 21, 2000, 114 Stat. 2763, 2763A–500, provided that:
 
-“(a) In General.—The Secretary of Health and Human Services may establish a procedure for the geographic reclassification of a skilled nursing facility for purposes of payment for covered skilled nursing facility services under the prospective payment system established under section 1888(e) of the Social Security Act (42 U.S.C. 1395yy(e)). Such procedure may be based upon the method for geographic reclassifications for inpatient hospitals established under section 1886(d)(10) of the Social Security Act (42 U.S.C. 1395ww(d)(10)).
+"(a) In General.—The Secretary of Health and Human Services may establish a procedure for the geographic reclassification of a skilled nursing facility for purposes of payment for covered skilled nursing facility services under the prospective payment system established under section 1888(e) of the Social Security Act (42 U.S.C. 1395yy(e)). Such procedure may be based upon the method for geographic reclassifications for inpatient hospitals established under section 1886(d)(10) of the Social Security Act (42 U.S.C. 1395ww(d)(10)).
 
-“(b) Requirement for Skilled Nursing Facility Wage Data.—In no case may the Secretary implement the procedure under subsection (a) before such time as the Secretary has collected data necessary to establish an area wage index for skilled nursing facilities based on wage data from such facilities.”
+"(b) Requirement for Skilled Nursing Facility Wage Data.—In no case may the Secretary implement the procedure under subsection (a) before such time as the Secretary has collected data necessary to establish an area wage index for skilled nursing facilities based on wage data from such facilities."
 
 #### Report to Congress ####
 
-Pub. L. 106–113, div. B, §1000(a)(6) [title I, §105(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–328, provided that: “Not later than March 1, 2001, the Secretary of Health and Human Services shall assess the resource use of patients of skilled nursing facilities furnishing services under the medicare program who are immuno-compromised secondary to an infectious disease, with specific diagnoses as specified by the Secretary (under paragraph (12)(C), as added by subsection (a), of section 1888(e) of the Social Security Act (42 U.S.C. 1395yy(e))) to determine whether any permanent adjustments are needed to the RUGs to take into account the resource uses and costs of these patients.”
+Pub. L. 106–113, div. B, §1000(a)(6) [title I, §105(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–328, provided that: "Not later than March 1, 2001, the Secretary of Health and Human Services shall assess the resource use of patients of skilled nursing facilities furnishing services under the medicare program who are immuno-compromised secondary to an infectious disease, with specific diagnoses as specified by the Secretary (under paragraph (12)(C), as added by subsection (a), of section 1888(e) of the Social Security Act (42 U.S.C. 1395yy(e))) to determine whether any permanent adjustments are needed to the RUGs to take into account the resource uses and costs of these patients."
 
 #### Medical Review Process ####
 
-Pub. L. 105–33, title IV, §4432(c), Aug. 5, 1997, 111 Stat. 422, provided that: “In order to ensure that medicare beneficiaries are furnished appropriate services in skilled nursing facilities, the Secretary of Health and Human Services shall establish and implement a thorough medical review process to examine the effects of the amendments made by this section [amending this section and sections 1395i–3, 1395k, 1395l, 1395u, 1395x, 1395y, 1395cc, and 1395tt of this title] on the quality of covered skilled nursing facility services furnished to medicare beneficiaries. In developing such a medical review process, the Secretary shall place a particular emphasis on the quality of non-routine covered services and physicians’ services for which payment is made under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.].”
+Pub. L. 105–33, title IV, §4432(c), Aug. 5, 1997, 111 Stat. 422, provided that: "In order to ensure that medicare beneficiaries are furnished appropriate services in skilled nursing facilities, the Secretary of Health and Human Services shall establish and implement a thorough medical review process to examine the effects of the amendments made by this section [amending this section and sections 1395i–3, 1395k, 1395l, 1395u, 1395x, 1395y, 1395cc, and 1395tt of this title] on the quality of covered skilled nursing facility services furnished to medicare beneficiaries. In developing such a medical review process, the Secretary shall place a particular emphasis on the quality of non-routine covered services and physicians' services for which payment is made under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.]."
 
 #### Construction of Wage Index for Skilled Nursing Facilities ####
 
-Pub. L. 103–432, title I, §106(a), Oct. 31, 1994, 108 Stat. 4405, provided that: “Not later than 1 year after the date of the enactment of this Act [Oct. 31, 1994], the Secretary of Health and Human Services shall begin to collect data on employee compensation and paid hours of employment in skilled nursing facilities for the purpose of constructing a skilled nursing facility wage index adjustment to the routine service cost limits required under section 1888(a)(4) of the Social Security Act [42 U.S.C. 1395yy(a)(4)].”
+Pub. L. 103–432, title I, §106(a), Oct. 31, 1994, 108 Stat. 4405, provided that: "Not later than 1 year after the date of the enactment of this Act [Oct. 31, 1994], the Secretary of Health and Human Services shall begin to collect data on employee compensation and paid hours of employment in skilled nursing facilities for the purpose of constructing a skilled nursing facility wage index adjustment to the routine service cost limits required under section 1888(a)(4) of the Social Security Act [42 U.S.C. 1395yy(a)(4)]."
 
 #### No Change in Limits on Per Diem Service Costs for Extended Care Services for Fiscal Years 1994 and 1995 ####
 
-Pub. L. 103–66, title XIII, §13503(a)(1), Aug. 10, 1993, 107 Stat. 578, provided that: “The Secretary of Health and Human Services may not provide for any change in the limits on per diem routine service costs for extended care services under section 1888 of the Social Security Act [42 U.S.C. 1395yy] for cost reporting periods beginning during fiscal years 1994 and 1995, except as may be necessary to take into account the amendments made by paragraph (3)(A) [amending this section]. The effect of the preceding sentence shall not be considered by the Secretary in making adjustments pursuant to section 1888(c) of such Act to the payment limits for such services during such fiscal years.”
+Pub. L. 103–66, title XIII, §13503(a)(1), Aug. 10, 1993, 107 Stat. 578, provided that: "The Secretary of Health and Human Services may not provide for any change in the limits on per diem routine service costs for extended care services under section 1888 of the Social Security Act [42 U.S.C. 1395yy] for cost reporting periods beginning during fiscal years 1994 and 1995, except as may be necessary to take into account the amendments made by paragraph (3)(A) [amending this section]. The effect of the preceding sentence shall not be considered by the Secretary in making adjustments pursuant to section 1888(c) of such Act to the payment limits for such services during such fiscal years."
 
 #### No Change in Prospective Payments for Services Furnished During Fiscal Years 1994 and 1995 ####
 
-Pub. L. 103–66, title XIII, §13503(b), Aug. 10, 1993, 107 Stat. 578, provided that: “The Secretary of Health and Human Services may not change the amount of any prospective payment paid to a skilled nursing facility under section 1888(d) of the Social Security Act [42 U.S.C. 1395yy(d)] for services furnished during cost reporting periods beginning during fiscal years 1994 and 1995, except as may be necessary to take into account the amendment made by subsection (c)(1)(A) [amending section 1395x of this title].”
+Pub. L. 103–66, title XIII, §13503(b), Aug. 10, 1993, 107 Stat. 578, provided that: "The Secretary of Health and Human Services may not change the amount of any prospective payment paid to a skilled nursing facility under section 1888(d) of the Social Security Act [42 U.S.C. 1395yy(d)] for services furnished during cost reporting periods beginning during fiscal years 1994 and 1995, except as may be necessary to take into account the amendment made by subsection (c)(1)(A) [amending section 1395x of this title]."
 
 #### Prospective Payment System for Skilled Nursing Facility Services ####
 
 Pub. L. 101–508, title IV, §4008(k), Nov. 5, 1990, 104 Stat. 1388–52, provided that:
 
-“(1) Development of proposal.—The Secretary of Health and Human Services shall develop a proposal to modify the current system under which skilled nursing facilities receive payment for extended care services under part A [42 U.S.C. 1395c et seq.] of the medicare program or a proposal to replace such system with a system under which such payments would be made on the basis of prospectively determined rates. In developing any proposal under this paragraph to replace the current system with a prospective payment system, the Secretary shall—
+"(1) Development of proposal.—The Secretary of Health and Human Services shall develop a proposal to modify the current system under which skilled nursing facilities receive payment for extended care services under part A [42 U.S.C. 1395c et seq.] of the medicare program or a proposal to replace such system with a system under which such payments would be made on the basis of prospectively determined rates. In developing any proposal under this paragraph to replace the current system with a prospective payment system, the Secretary shall—
 
-“(A) take into consideration the need to provide for appropriate limits on increases in expenditures under the medicare program without jeopardizing access to extended care services for individuals unable to care for themselves;
+"(A) take into consideration the need to provide for appropriate limits on increases in expenditures under the medicare program without jeopardizing access to extended care services for individuals unable to care for themselves;
 
-“(B) provide for adjustments to prospectively determined rates to account for changes in a facility's case mix, volume of cases, and the development of new technologies and standards of medical practice;
+"(B) provide for adjustments to prospectively determined rates to account for changes in a facility's case mix, volume of cases, and the development of new technologies and standards of medical practice;
 
-“(C) take into consideration the need to increase the payment otherwise made under such system in the case of services provided to patients whose length of stay or costs of treatment greatly exceed the length of stay or cost of treatment provided for under the applicable prospectively determined payment rate;
+"(C) take into consideration the need to increase the payment otherwise made under such system in the case of services provided to patients whose length of stay or costs of treatment greatly exceed the length of stay or cost of treatment provided for under the applicable prospectively determined payment rate;
 
-“(D) take into consideration the need to adjust payments under the system to take into account factors such as a disproportionate share of low-income patients, differences in wages and wage-related costs among facilities located in various geographic areas, and other factors the Secretary considers appropriate; and
+"(D) take into consideration the need to adjust payments under the system to take into account factors such as a disproportionate share of low-income patients, differences in wages and wage-related costs among facilities located in various geographic areas, and other factors the Secretary considers appropriate; and
 
-“(E) take into consideration the appropriateness of classifying patients and payments upon functional disability, cognitive impairment, and other patient characteristics.
+"(E) take into consideration the appropriateness of classifying patients and payments upon functional disability, cognitive impairment, and other patient characteristics.
 
-“(2) Reports.—(A) By not later than April 1, 1991, the Secretary (acting through the Administrator of the Health Care Financing Administration) shall submit any research studies to be used in developing the proposal under paragraph (1) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.
+"(2) Reports.—(A) By not later than April 1, 1991, the Secretary (acting through the Administrator of the Health Care Financing Administration) shall submit any research studies to be used in developing the proposal under paragraph (1) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.
 
-“(B) By not later than September 1, 1991, the Secretary shall submit the proposal developed under paragraph (1) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.
+"(B) By not later than September 1, 1991, the Secretary shall submit the proposal developed under paragraph (1) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.
 
-“(C) By not later than March 1, 1992, the Prospective Payment Assessment Commission shall submit an analysis of and comments on the proposal developed under paragraph (1) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.”
+"(C) By not later than March 1, 1992, the Prospective Payment Assessment Commission shall submit an analysis of and comments on the proposal developed under paragraph (1) to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives."
 
 #### Use of More Recent Data Regarding Routine Service Costs of Skilled Nursing Facilities ####
 
-Pub. L. 101–239, title VI, §6024, Dec. 19, 1989, 103 Stat. 2167, as amended by Pub. L. 101–508, title IV, §4008(e)(1), Nov. 5, 1990, 104 Stat. 1388–45, provided that: “The Secretary of Health and Human Services shall determine mean per diem routine service costs for freestanding and hospital based skilled nursing facilities under section 1888(a) of the Social Security Act [42 U.S.C. 1395yy(a)] for cost reporting periods beginning on or after October 1, 1989, in accordance with regulations published by the Secretary that require the use of cost reports submitted by skilled nursing facilities for cost reporting periods beginning not earlier than October 1, 1985. The Secretary shall update such costs under such section for cost reporting periods beginning on or after October 1, 1989, by using cost reports submitted by skilled nursing facilities for cost reporting periods ending not earlier than January 31, 1988, and not later than December 31, 1988.”
+Pub. L. 101–239, title VI, §6024, Dec. 19, 1989, 103 Stat. 2167, as amended by Pub. L. 101–508, title IV, §4008(e)(1), Nov. 5, 1990, 104 Stat. 1388–45, provided that: "The Secretary of Health and Human Services shall determine mean per diem routine service costs for freestanding and hospital based skilled nursing facilities under section 1888(a) of the Social Security Act [42 U.S.C. 1395yy(a)] for cost reporting periods beginning on or after October 1, 1989, in accordance with regulations published by the Secretary that require the use of cost reports submitted by skilled nursing facilities for cost reporting periods beginning not earlier than October 1, 1985. The Secretary shall update such costs under such section for cost reporting periods beginning on or after October 1, 1989, by using cost reports submitted by skilled nursing facilities for cost reporting periods ending not earlier than January 31, 1988, and not later than December 31, 1988."
 
-[<sup>1</sup> So in original. Probably should be preceded by “subsection”.](#1395yy_1)
+[<sup>1</sup> So in original. Probably should be preceded by "subsection".](#1395yy_1)

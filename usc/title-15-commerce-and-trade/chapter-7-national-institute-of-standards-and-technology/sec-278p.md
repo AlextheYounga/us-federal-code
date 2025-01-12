@@ -10,9 +10,9 @@ If any funds authorized for carrying out this chapter are subject to a reprogram
 
 The Secretary shall provide notice to the Committees on Science and Appropriations of the House of Representatives, and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, not later than 15 days before any major reorganization of any program, project, or activity of the Institute.
 
-#### (2) “Major reorganization” defined ####
+#### (2) "Major reorganization" defined ####
 
-For purposes of this subsection, the term “major reorganization” means any reorganization of the Institute that involves the reassignment of more than 25 percent of the employees of the Institute.
+For purposes of this subsection, the term "major reorganization" means any reorganization of the Institute that involves the reassignment of more than 25 percent of the employees of the Institute.
 
 (Mar. 3, 1901, ch. 872, §31, as added Pub. L. 105–309, §4(b), Oct. 30, 1998, 112 Stat. 2935.)
 

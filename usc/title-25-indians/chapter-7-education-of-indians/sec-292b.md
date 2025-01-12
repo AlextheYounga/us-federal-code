@@ -6,9 +6,9 @@ The Bureau of Indian Affairs shall not expend any other funds for the operation 
 
 #### References in Text ####
 
-Other funds, referred to in text, means funds other than the appropriation of $22,000,000 made available to the Bureau of Indian Affairs for transfer to the State of Alaska for the benefit of Alaska Native secondary students under the headings “Bureau of Indian Affairs” and “Operation of Indian Programs” of Pub. L. 98–63, title VII, July 30, 1983, 97 Stat. 326.
+Other funds, referred to in text, means funds other than the appropriation of $22,000,000 made available to the Bureau of Indian Affairs for transfer to the State of Alaska for the benefit of Alaska Native secondary students under the headings "Bureau of Indian Affairs" and "Operation of Indian Programs" of Pub. L. 98–63, title VII, July 30, 1983, 97 Stat. 326.
 
-$9,350,000 of such amount, referred to in text, means $9,350,000 of the $53,150,000 appropriated as an additional amount for the operation of Indian programs by the Bureau of Indian Affairs under the headings “Bureau of Indian Affairs” and “Operation of Indian Programs” of Pub. L. 98–63, title VII, July 30, 1983, 97 Stat. 326.
+$9,350,000 of such amount, referred to in text, means $9,350,000 of the $53,150,000 appropriated as an additional amount for the operation of Indian programs by the Bureau of Indian Affairs under the headings "Bureau of Indian Affairs" and "Operation of Indian Programs" of Pub. L. 98–63, title VII, July 30, 1983, 97 Stat. 326.
 
 Public Law 97–394, referred to in text, is Pub. L. 97–394, Dec. 30, 1982, 96 Stat. 1966. Provisions of that act relating to an appropriation of $9,350,000 available to the State of Alaska (96 Stat. 1974) are not classified to the Code.
 

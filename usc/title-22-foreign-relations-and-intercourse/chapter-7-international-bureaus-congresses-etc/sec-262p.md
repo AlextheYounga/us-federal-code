@@ -38,9 +38,9 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 (B) ensure the participation of the poor in the economic benefits resulting from adjustment lending and the activities in support of which such lending is made.
 
-#### (d) “Adjustment lending” defined ####
+#### (d) "Adjustment lending" defined ####
 
-For purposes of this section and section 262m–1 of this title, the term “adjustment lending” means nonproject lending in support of structural macroeconomic reforms or sectoral economic reform.
+For purposes of this section and section 262m–1 of this title, the term "adjustment lending" means nonproject lending in support of structural macroeconomic reforms or sectoral economic reform.
 
 (Pub. L. 95–118, title XVI, §1601, as added Pub. L. 100–202, §101(e) [title I], Dec. 22, 1987, 101 Stat. 1329–131, 1329–134.)
 

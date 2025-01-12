@@ -8,11 +8,11 @@ The Women's Bureau shall be in charge of a director, a woman, to be appointed by
 
 Part of section 2 of act June 5, 1920, constitutes section 13 of this title.
 
-Words “who shall receive an annual compensation of $5,000” were omitted in view of the Classification Acts. See sections 5101 et seq. and 5331 et seq. of Title 5, Government Organization and Employees.
+Words "who shall receive an annual compensation of $5,000" were omitted in view of the Classification Acts. See sections 5101 et seq. and 5331 et seq. of Title 5, Government Organization and Employees.
 
 #### Amendments ####
 
-**2012**—Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end.
+**2012**—Pub. L. 112–166 struck out ", by and with the advice and consent of the Senate" before period at end.
 
 #### Effective Date of 2012 Amendment ####
 

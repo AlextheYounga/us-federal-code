@@ -14,4 +14,4 @@ Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, know
 
 #### Amendments ####
 
-**1956**—Act Aug. 10, 1956, repealed the portion of this section after “thereto” which authorized the Secretary of the Navy, with the consent of the President, to enter into agreements such as those provided for in section 236e of this title, which agreements, should not, unless expressed therein, operate to extend the term of any lease affected thereby.
+**1956**—Act Aug. 10, 1956, repealed the portion of this section after "thereto" which authorized the Secretary of the Navy, with the consent of the President, to enter into agreements such as those provided for in section 236e of this title, which agreements, should not, unless expressed therein, operate to extend the term of any lease affected thereby.

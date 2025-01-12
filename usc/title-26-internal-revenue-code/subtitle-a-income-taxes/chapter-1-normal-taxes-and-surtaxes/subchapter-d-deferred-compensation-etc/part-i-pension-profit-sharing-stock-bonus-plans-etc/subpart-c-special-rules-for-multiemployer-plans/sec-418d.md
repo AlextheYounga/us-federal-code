@@ -82,7 +82,7 @@ A plan is not required to make retroactive benefit payments with respect to that
 
 #### (e) Inactive participant ####
 
-For purposes of this section, the term “inactive participant” means a person not in covered service under the plan who is in pay status under the plan or who has a nonforfeitable benefit under the plan.
+For purposes of this section, the term "inactive participant" means a person not in covered service under the plan who is in pay status under the plan or who has a nonforfeitable benefit under the plan.
 
 #### (f) Regulations ####
 

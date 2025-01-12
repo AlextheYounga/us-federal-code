@@ -10,7 +10,7 @@ All expenditures by the parent or the child attributable to amounts which are in
 
 #### (c) Parent defined ####
 
-For purposes of this section, the term “parent” includes an individual who is entitled to the services of a child by reason of having parental rights and duties in respect of the child.
+For purposes of this section, the term "parent" includes an individual who is entitled to the services of a child by reason of having parental rights and duties in respect of the child.
 
 #### (d) Cross reference ####
 

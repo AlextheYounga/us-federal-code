@@ -14,9 +14,9 @@ The Civil Rights Act of 1964, referred to in subsec. (a)(2), is Pub. L. 88–352
 
 #### Amendments ####
 
-**2009**—Subsec. (a)(1). Pub. L. 111–2, §5(c)(1)(A), inserted “(and the application of section 706(e)(3) (42 U.S.C. 2000e–5(e)(3)) to claims of discrimination in compensation)” after “(42 U.S.C. 2000e–5(f) through (k))”.
+**2009**—Subsec. (a)(1). Pub. L. 111–2, §5(c)(1)(A), inserted "(and the application of section 706(e)(3) (42 U.S.C. 2000e–5(e)(3)) to claims of discrimination in compensation)" after "(42 U.S.C. 2000e–5(f) through (k))".
 
-Subsec. (a)(2). Pub. L. 111–2, §5(c)(1)(B), inserted “(42 U.S.C. 2000d et seq.) (and in subsection (e)(3) of section 706 of such Act (42 U.S.C. 2000e–5), applied to claims of discrimination in compensation)” after “1964”.
+Subsec. (a)(2). Pub. L. 111–2, §5(c)(1)(B), inserted "(42 U.S.C. 2000d et seq.) (and in subsection (e)(3) of section 706 of such Act (42 U.S.C. 2000e–5), applied to claims of discrimination in compensation)" after "1964".
 
 #### Effective Date of 2009 Amendment ####
 

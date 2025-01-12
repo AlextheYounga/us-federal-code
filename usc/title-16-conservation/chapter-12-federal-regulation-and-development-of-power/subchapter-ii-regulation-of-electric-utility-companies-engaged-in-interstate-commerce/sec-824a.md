@@ -52,7 +52,7 @@ In order to insure continuity of service to customers of public utilities, the C
 
 #### Effective Date of 1978 Amendment ####
 
-Pub. L. 95–617, title II, §206(b), Nov. 9, 1978, 92 Stat. 3142, provided that: “The amendment made by subsection (a) [adding subsec. (g) of this section] shall not affect any proceeding of the Commission [Federal Energy Regulatory Commission] pending on the date of the enactment of this Act [Nov. 9, 1978] or any case pending on such date respecting a proceeding of the Commission.”
+Pub. L. 95–617, title II, §206(b), Nov. 9, 1978, 92 Stat. 3142, provided that: "The amendment made by subsection (a) [adding subsec. (g) of this section] shall not affect any proceeding of the Commission [Federal Energy Regulatory Commission] pending on the date of the enactment of this Act [Nov. 9, 1978] or any case pending on such date respecting a proceeding of the Commission."
 
 #### Delegation of Functions ####
 

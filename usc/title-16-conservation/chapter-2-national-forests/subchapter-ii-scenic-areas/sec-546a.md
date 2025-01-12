@@ -16,6 +16,6 @@ Solely for purposes of payments to local governments pursuant to section 6902 of
 
 #### References in Text ####
 
-Section 460l–9 of this title, referred to in subsec. (b), was in the original “section 8 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–9)” which was translated as if it referred to section 7 of the Land and Water Conservation Fund Act of 1965, to reflect the probable intent of Congress. Section 8 of the Act is classified to section 460l–10 of this title and does not relate to boundaries of National Forests in existence as of January 1, 1965.
+Section 460l–9 of this title, referred to in subsec. (b), was in the original "section 8 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–9)" which was translated as if it referred to section 7 of the Land and Water Conservation Fund Act of 1965, to reflect the probable intent of Congress. Section 8 of the Act is classified to section 460l–10 of this title and does not relate to boundaries of National Forests in existence as of January 1, 1965.
 
 [<sup>1</sup> See References in Text note below.](#546a_1)

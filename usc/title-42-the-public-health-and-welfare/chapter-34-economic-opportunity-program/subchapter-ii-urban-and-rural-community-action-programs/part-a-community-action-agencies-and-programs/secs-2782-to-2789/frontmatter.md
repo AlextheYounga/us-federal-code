@@ -4,9 +4,9 @@
 
 Sections were omitted in the general amendment of part A of this subchapter by Pub. L. 90–222, title I, §104, Dec. 23, 1967, 81 Stat. 691.
 
-Section 2782, Pub. L. 88–452, title II, §202, Aug. 20, 1964, 78 Stat. 516; Pub. L. 89–253, §11, Oct. 9, 1965, 79 Stat. 974; Pub. L. 89–794, title II, §§201–203, Nov. 8, 1966, 80 Stat. 1456, 1457, defined “community action program”, authorized promulgation of additional criteria, provided for the residence of board members in geographical areas represented, neighborhood participation, and procedures for adequate representation of groups of the poor.
+Section 2782, Pub. L. 88–452, title II, §202, Aug. 20, 1964, 78 Stat. 516; Pub. L. 89–253, §11, Oct. 9, 1965, 79 Stat. 974; Pub. L. 89–794, title II, §§201–203, Nov. 8, 1966, 80 Stat. 1456, 1457, defined "community action program", authorized promulgation of additional criteria, provided for the residence of board members in geographical areas represented, neighborhood participation, and procedures for adequate representation of groups of the poor.
 
-Section 2783, Pub. L. 88–452, title II, §203, Aug. 20, 1964, 78 Stat. 517; Pub. L. 89–794, title II, §204, Nov. 8, 1966, 80 Stat. 1458, covered allotment of appropriated funds to States, reservation of appropriations, limitation on allotments to Territories and possessions, manner of allotment and reallotment, and definition of “State”.
+Section 2783, Pub. L. 88–452, title II, §203, Aug. 20, 1964, 78 Stat. 517; Pub. L. 89–794, title II, §204, Nov. 8, 1966, 80 Stat. 1458, covered allotment of appropriated funds to States, reservation of appropriations, limitation on allotments to Territories and possessions, manner of allotment and reallotment, and definition of "State".
 
 Section 2784, Pub. L. 88–452, title II, §204, Aug. 20, 1964, 78 Stat. 517, authorized grants and contracts for development of community action programs.
 

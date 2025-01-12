@@ -10,11 +10,11 @@ Section 1860D–22 of the Social Security Act, referred to in text, is classifie
 
 #### Amendments ####
 
-**2010**—Pub. L. 111–148 struck out second sentence which read as follows: “This section shall not be taken into account for purposes of determining whether any deduction is allowable with respect to any cost taken into account in determining such payment.”
+**2010**—Pub. L. 111–148 struck out second sentence which read as follows: "This section shall not be taken into account for purposes of determining whether any deduction is allowable with respect to any cost taken into account in determining such payment."
 
 #### Effective Date of 2010 Amendment ####
 
-Pub. L. 111–148, title IX, §9012(b), Mar. 23, 2010, 124 Stat. 868, as amended by Pub. L. 111–152, title I, §1407, Mar. 30, 2010, 124 Stat. 1067, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2012.”
+Pub. L. 111–148, title IX, §9012(b), Mar. 23, 2010, 124 Stat. 868, as amended by Pub. L. 111–152, title I, §1407, Mar. 30, 2010, 124 Stat. 1067, provided that: "The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2012."
 
 #### Effective Date ####
 

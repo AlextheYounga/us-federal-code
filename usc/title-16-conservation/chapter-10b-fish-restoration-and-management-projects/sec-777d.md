@@ -6,7 +6,7 @@ For each fiscal year beginning with the fiscal year ending June 30, 1951, the Se
 
 #### Amendments ####
 
-**2000**—Pub. L. 106–408 inserted “, at the time at which a deduction or apportionment is made,” after “certify” and struck out “and executing” after “administering”.
+**2000**—Pub. L. 106–408 inserted ", at the time at which a deduction or apportionment is made," after "certify" and struck out "and executing" after "administering".
 
 **1984**—Pub. L. 98–369 struck out provisions relating to notice by the State to the Secretary of intention to accept, and use of funds where the State fails to accept.
 

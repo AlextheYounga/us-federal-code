@@ -10,7 +10,7 @@ Appropriations for carrying out this chapter allocated for the production or pro
 
 #### (1) In general ####
 
-There is established in the Treasury of the United States a fund to be known as the “Conservation Technical Assistance Fund” (referred to in this subsection as the “Fund”), to be administered by the Secretary of Agriculture.
+There is established in the Treasury of the United States a fund to be known as the "Conservation Technical Assistance Fund" (referred to in this subsection as the "Fund"), to be administered by the Secretary of Agriculture.
 
 #### (2) Deposits ####
 
@@ -30,6 +30,6 @@ Amounts in the Fund shall—
 
 #### Amendments ####
 
-**2013**—Pub. L. 113–67 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “There is authorized” for “There are hereby authorized”, and added subsec. (b).
+**2013**—Pub. L. 113–67 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted "There is authorized" for "There are hereby authorized", and added subsec. (b).
 
 **1944**—Act Sept. 21, 1944, inserted second par.

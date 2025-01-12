@@ -22,7 +22,7 @@ Insofar as a medicare contractor conducts education and training activities, it 
 
 #### (2) Small provider of services or supplier ####
 
-In this subsection, the term “small provider of services or supplier” means—
+In this subsection, the term "small provider of services or supplier" means—
 
 (A) a provider of services with fewer than 25 full-time-equivalent employees; or
 
@@ -52,7 +52,7 @@ Nothing in this section or section 1395ddd(g) of this title shall be construed a
 
 #### (g) Definitions ####
 
-For purposes of this section, the term “medicare contractor” includes the following:
+For purposes of this section, the term "medicare contractor" includes the following:
 
 (1) A medicare administrative contractor with a contract under section 1395kk–1 of this title, including a fiscal intermediary with a contract under section 1395h of this title and a carrier with a contract under section 1395u of this title.
 
@@ -78,42 +78,42 @@ Subsecs. (e) to (g). Pub. L. 108–173, §921(f)(1), added subsecs. (e) to (g).
 
 #### Effective Date of 2003 Amendment ####
 
-Pub. L. 108–173, title IX, §921(d)(2), Dec. 8, 2003, 117 Stat. 2391, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on October 1, 2004.”
+Pub. L. 108–173, title IX, §921(d)(2), Dec. 8, 2003, 117 Stat. 2391, provided that: "The amendment made by paragraph (1) [amending this section] shall take effect on October 1, 2004."
 
-Pub. L. 108–173, title IX, §921(e)(2), Dec. 8, 2003, 117 Stat. 2391, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on October 1, 2004.”
+Pub. L. 108–173, title IX, §921(e)(2), Dec. 8, 2003, 117 Stat. 2391, provided that: "The amendment made by paragraph (1) [amending this section] shall take effect on October 1, 2004."
 
-Pub. L. 108–173, title IX, §921(f)(2), Dec. 8, 2003, 117 Stat. 2392, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 8, 2003].”
+Pub. L. 108–173, title IX, §921(f)(2), Dec. 8, 2003, 117 Stat. 2392, provided that: "The amendment made by paragraph (1) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 8, 2003]."
 
 #### Effective Date ####
 
-Pub. L. 108–173, title IX, §921(a)(2), Dec. 8, 2003, 117 Stat. 2388, provided that: “The amendment made by paragraph (1) [enacting this section] shall take effect on the date of the enactment of this Act [Dec. 8, 2003].”
+Pub. L. 108–173, title IX, §921(a)(2), Dec. 8, 2003, 117 Stat. 2388, provided that: "The amendment made by paragraph (1) [enacting this section] shall take effect on the date of the enactment of this Act [Dec. 8, 2003]."
 
 #### Small Provider Technical Assistance Demonstration Program ####
 
 Pub. L. 108–173, title IX, §922, Dec. 8, 2003, 117 Stat. 2392, provided that:
 
-“(a) Establishment.—
+"(a) Establishment.—
 
-“(1) In general.—The Secretary [of Health and Human Services] shall establish a demonstration program (in this section referred to as the ‘demonstration program’) under which technical assistance described in paragraph (2) is made available, upon request and on a voluntary basis, to small providers of services or suppliers in order to improve compliance with the applicable requirements of the programs under medicare program under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] (including provisions of title XI of such Act [42 U.S.C. 1301 et seq.] insofar as they relate to such title and are not administered by the Office of the Inspector General of the Department of Health and Human Services).
+"(1) In general.—The Secretary [of Health and Human Services] shall establish a demonstration program (in this section referred to as the 'demonstration program') under which technical assistance described in paragraph (2) is made available, upon request and on a voluntary basis, to small providers of services or suppliers in order to improve compliance with the applicable requirements of the programs under medicare program under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] (including provisions of title XI of such Act [42 U.S.C. 1301 et seq.] insofar as they relate to such title and are not administered by the Office of the Inspector General of the Department of Health and Human Services).
 
-“(2) Forms of technical assistance.—The technical assistance described in this paragraph is—
+"(2) Forms of technical assistance.—The technical assistance described in this paragraph is—
 
-“(A) evaluation and recommendations regarding billing and related systems; and
+"(A) evaluation and recommendations regarding billing and related systems; and
 
-“(B) information and assistance regarding policies and procedures under the medicare program, including coding and reimbursement.
+"(B) information and assistance regarding policies and procedures under the medicare program, including coding and reimbursement.
 
-“(3) Small providers of services or suppliers.—In this section, the term ‘small providers of services or suppliers’ means—
+"(3) Small providers of services or suppliers.—In this section, the term 'small providers of services or suppliers' means—
 
-“(A) a provider of services with fewer than 25 full-time-equivalent employees; or
+"(A) a provider of services with fewer than 25 full-time-equivalent employees; or
 
-“(B) a supplier with fewer than 10 full-time-equivalent employees.
+"(B) a supplier with fewer than 10 full-time-equivalent employees.
 
-“(b) Qualification of Contractors.—In conducting the demonstration program, the Secretary shall enter into contracts with qualified organizations (such as peer review [now “quality improvement”] organizations or entities described in section 1889(g)(2) of the Social Security Act [42 U.S.C. 1395zz(g)(2)], as inserted by section 921(f)(1)) with appropriate expertise with billing systems of the full range of providers of services and suppliers to provide the technical assistance. In awarding such contracts, the Secretary shall consider any prior investigations of the entity's work by the Inspector General of Department of Health and Human Services or the Comptroller General of the United States.
+"(b) Qualification of Contractors.—In conducting the demonstration program, the Secretary shall enter into contracts with qualified organizations (such as peer review [now "quality improvement"] organizations or entities described in section 1889(g)(2) of the Social Security Act [42 U.S.C. 1395zz(g)(2)], as inserted by section 921(f)(1)) with appropriate expertise with billing systems of the full range of providers of services and suppliers to provide the technical assistance. In awarding such contracts, the Secretary shall consider any prior investigations of the entity's work by the Inspector General of Department of Health and Human Services or the Comptroller General of the United States.
 
-“(c) Description of Technical Assistance.—The technical assistance provided under the demonstration program shall include a direct and in-person examination of billing systems and internal controls of small providers of services or suppliers to determine program compliance and to suggest more efficient or effective means of achieving such compliance.
+"(c) Description of Technical Assistance.—The technical assistance provided under the demonstration program shall include a direct and in-person examination of billing systems and internal controls of small providers of services or suppliers to determine program compliance and to suggest more efficient or effective means of achieving such compliance.
 
-“(d) GAO Evaluation.—Not later than 2 years after the date the demonstration program is first implemented, the Comptroller General, in consultation with the Inspector General of ‘the Department of Health and Human Services, shall conduct an evaluation of the demonstration program. The evaluation shall include a determination of whether claims error rates are reduced for small providers of services or suppliers who participated in the program and the extent of improper payments made as a result of the demonstration program. The Comptroller General shall submit a report to the Secretary and the Congress on such evaluation and shall include in such report recommendations regarding the continuation or extension of the demonstration program.
+"(d) GAO Evaluation.—Not later than 2 years after the date the demonstration program is first implemented, the Comptroller General, in consultation with the Inspector General of 'the Department of Health and Human Services, shall conduct an evaluation of the demonstration program. The evaluation shall include a determination of whether claims error rates are reduced for small providers of services or suppliers who participated in the program and the extent of improper payments made as a result of the demonstration program. The Comptroller General shall submit a report to the Secretary and the Congress on such evaluation and shall include in such report recommendations regarding the continuation or extension of the demonstration program.
 
-“(e) Financial Participation by Providers.—The provision of technical assistance to a small provider of services or supplier under the demonstration program is conditioned upon the small provider of services or supplier paying an amount estimated (and disclosed in advance of a provider's or supplier's participation in the program) to be equal to 25 percent of the cost of the technical assistance.
+"(e) Financial Participation by Providers.—The provision of technical assistance to a small provider of services or supplier under the demonstration program is conditioned upon the small provider of services or supplier paying an amount estimated (and disclosed in advance of a provider's or supplier's participation in the program) to be equal to 25 percent of the cost of the technical assistance.
 
-“(f) Authorization of Appropriations.—There are authorized to be appropriated, from amounts not otherwise appropriated in the Treasury, such sums as may be necessary to carry out this section.”
+"(f) Authorization of Appropriations.—There are authorized to be appropriated, from amounts not otherwise appropriated in the Treasury, such sums as may be necessary to carry out this section."

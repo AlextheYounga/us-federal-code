@@ -14,7 +14,7 @@ IV. Real estate mortgage investment conduits.
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–357, title VIII, §835(b)(12), Oct. 22, 2004, 118 Stat. 1594, struck out item for part V “Financial asset securitization investment trusts”.
+**2004**—Pub. L. 108–357, title VIII, §835(b)(12), Oct. 22, 2004, 118 Stat. 1594, struck out item for part V "Financial asset securitization investment trusts".
 
 **1996**—Pub. L. 104–188, title I, §1621(c), Aug. 20, 1996, 110 Stat. 1867, added item for part V.
 

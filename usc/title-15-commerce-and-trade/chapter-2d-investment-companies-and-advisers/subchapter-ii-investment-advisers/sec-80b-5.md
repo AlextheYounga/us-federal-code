@@ -34,9 +34,9 @@ if the contract provides for compensation based on the asset value of the compan
 
 For purposes of paragraph (2) of subsection (b) of this section, the point from which increases and decreases in compensation are measured shall be the fee which is paid or earned when the investment performance of such company or fund is equivalent to that of the index or other measure of performance, and an index of securities prices shall be deemed appropriate unless the Commission by order shall determine otherwise.
 
-#### (d) “Investment advisory contract” defined ####
+#### (d) "Investment advisory contract" defined ####
 
-As used in paragraphs (2) and (3) of subsection (a) of this section, “investment advisory contract” means any contract or agreement whereby a person agrees to act as investment adviser to or to manage any investment or trading account of another person other than an investment company registered under subchapter I of this chapter.
+As used in paragraphs (2) and (3) of subsection (a) of this section, "investment advisory contract" means any contract or agreement whereby a person agrees to act as investment adviser to or to manage any investment or trading account of another person other than an investment company registered under subchapter I of this chapter.
 
 #### (e) Exempt persons and transactions ####
 
@@ -50,9 +50,9 @@ The Commission, by rule, may prohibit, or impose conditions or limitations on th
 
 #### Amendments ####
 
-**2010**—Subsec. (a). Pub. L. 111–203, §928, in introductory provisions, substituted “registered or required to be registered with the Commission” for “, unless exempt from registration pursuant to section 80b–3(b) of this title,” and struck out “make use of the mails or any means or instrumentality of interstate commerce, directly or indirectly, to” after “shall” and “to” after “in any way”.
+**2010**—Subsec. (a). Pub. L. 111–203, §928, in introductory provisions, substituted "registered or required to be registered with the Commission" for ", unless exempt from registration pursuant to section 80b–3(b) of this title," and struck out "make use of the mails or any means or instrumentality of interstate commerce, directly or indirectly, to" after "shall" and "to" after "in any way".
 
-Subsec. (e). Pub. L. 111–203, §418, inserted at end “With respect to any factor used in any rule or regulation by the Commission in making a determination under this subsection, if the Commission uses a dollar amount test in connection with such factor, such as a net asset threshold, the Commission shall, by order, not later than 1 year after July 21, 2010, and every 5 years thereafter, adjust for the effects of inflation on such test. Any such adjustment that is not a multiple of $100,000 shall be rounded to the nearest multiple of $100,000.”
+Subsec. (e). Pub. L. 111–203, §418, inserted at end "With respect to any factor used in any rule or regulation by the Commission in making a determination under this subsection, if the Commission uses a dollar amount test in connection with such factor, such as a net asset threshold, the Commission shall, by order, not later than 1 year after July 21, 2010, and every 5 years thereafter, adjust for the effects of inflation on such test. Any such adjustment that is not a multiple of $100,000 shall be rounded to the nearest multiple of $100,000."
 
 Subsec. (f). Pub. L. 111–203, §921(b), added subsec. (f).
 
@@ -64,9 +64,9 @@ Subsec. (e). Pub. L. 104–290, §210(2), added subsec. (e).
 
 **1980**—Pub. L. 96–477 provided that par. (1) of this section was not to apply with respect to any investment advisory contract between an investment adviser and a business development company so long as the compensation provided for in such contract did not exceed 20 per cent of the realized capital gains upon the funds of the business development company and such business development company did not have outstanding any option, warrant, or right issued pursuant to section 80a–60(a)(3)(B) of this title and did not have a profit-sharing plan.
 
-**1970**—Pub. L. 91–547 substituted reference to section “80b–3(b)” for “80b–3” of this title in first sentence, redesignated as second sentence former third sentence, designating existing provisions as cl. (A) and adding cl. (B) and items (i) and (ii) and provision respecting compensation based on asset value of company or fund under management averaged over a specified period in relation to investment record of an index of securities or such other measure of investment performance specified by Commission rules, regulations, or orders, inserted third sentence provision respecting point from which compensation is to be measured, substituted in fourth, formerly third, sentence “paragraphs (2) and (3) of this section” for “this section” and in definition of “investment advisory contract” the words “account of another person other than an investment company registered under subchapter I of this chapter” for “account for a person other than an investment company”.
+**1970**—Pub. L. 91–547 substituted reference to section "80b–3(b)" for "80b–3" of this title in first sentence, redesignated as second sentence former third sentence, designating existing provisions as cl. (A) and adding cl. (B) and items (i) and (ii) and provision respecting compensation based on asset value of company or fund under management averaged over a specified period in relation to investment record of an index of securities or such other measure of investment performance specified by Commission rules, regulations, or orders, inserted third sentence provision respecting point from which compensation is to be measured, substituted in fourth, formerly third, sentence "paragraphs (2) and (3) of this section" for "this section" and in definition of "investment advisory contract" the words "account of another person other than an investment company registered under subchapter I of this chapter" for "account for a person other than an investment company".
 
-**1960**—Pub. L. 86–750 substituted “unless exempt from registration pursuant to” for “registered under”.
+**1960**—Pub. L. 86–750 substituted "unless exempt from registration pursuant to" for "registered under".
 
 #### Effective Date of 2010 Amendment ####
 

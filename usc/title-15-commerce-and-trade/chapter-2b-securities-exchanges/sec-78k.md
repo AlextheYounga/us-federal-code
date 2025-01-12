@@ -54,15 +54,15 @@ It shall be unlawful for a member of a national securities exchange who is both 
 
 #### Amendments ####
 
-**1994**—Subsec. (d)(1)(ii). Pub. L. 103–325 inserted “or any small business related security” after “mortgage related security”.
+**1994**—Subsec. (d)(1)(ii). Pub. L. 103–325 inserted "or any small business related security" after "mortgage related security".
 
-**1993**—Subsec. (a)(1)(E). Pub. L. 103–68, §1(1), struck out “(other than an investment company)” after “trust”.
+**1993**—Subsec. (a)(1)(E). Pub. L. 103–68, §1(1), struck out "(other than an investment company)" after "trust".
 
 Subsec. (a)(1)(H), (I). Pub. L. 103–68, §1(2)–(4), added subpar. (H) and redesignated former subpar. (H) as (I).
 
 **1984**—Subsec. (d)(1). Pub. L. 98–440 designated existing provisions of par. (1) as cl. (i) and added cl. (ii).
 
-**1978**—Subsec. (a)(3). Pub. L. 95–283 substituted “February 1, 1978” for “May 1, 1975”, and “February 1, 1979” for “May 1, 1978” in two places.
+**1978**—Subsec. (a)(3). Pub. L. 95–283 substituted "February 1, 1978" for "May 1, 1975", and "February 1, 1979" for "May 1, 1978" in two places.
 
 **1975**—Subsec. (a). Pub. L. 94–29, §6(2), prohibited stock exchange members from effecting any transaction on the exchange for its own account, the account of an associated person, or an account with respect to which the member or an associated person exercises investment discretion, exempted from that prohibition 8 types of transactions, and authorized the Commission, as it deems necessary or appropriate in the public interest or for the protection of investors, to regulate or prohibit the specifically exempted transactions, certain transactions otherwise that on a national securities exchange, and transactions on a national securities exchange effected by a broker or dealer not a member thereof for the account of such broker or dealer, the account of an associated person, or an account with respect to which such broker, dealer, or associated person exercises investment discretion.
 
@@ -74,7 +74,7 @@ Subsec. (e). Pub. L. 94–29, §6(3), struck out subsec. (e) which directed the 
 
 #### Effective Date of 1978 Amendment ####
 
-Pub. L. 95–283, §18(b), May 21, 1978, 92 Stat. 275, provided that: “The amendment made by subsection (a) of this section [amending this section] shall be effective as of May 1, 1978.”
+Pub. L. 95–283, §18(b), May 21, 1978, 92 Stat. 275, provided that: "The amendment made by subsection (a) of this section [amending this section] shall be effective as of May 1, 1978."
 
 #### Effective Date of 1975 Amendment ####
 

@@ -14,6 +14,6 @@ Sec.
 
 1686. Interpretation with respect to living facilities.
 
-1687. Interpretation of “program or activity”.
+1687. Interpretation of "program or activity".
 
 1688. Neutrality with respect to abortion.

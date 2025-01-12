@@ -38,7 +38,7 @@ The Administration shall not collect a fee for any guarantee under this section:
 
 #### References in Text ####
 
-For definition of “this chapter”, referred to in subsecs. (a) and (f)(2), see References in Text note set out under section 661 of this title.
+For definition of "this chapter", referred to in subsecs. (a) and (f)(2), see References in Text note set out under section 661 of this title.
 
 #### Prior Provisions ####
 
@@ -46,33 +46,33 @@ A prior section 319 of Pub. L. 85–699, which amended section 80a–18 of this 
 
 #### Amendments ####
 
-**1996**—Subsec. (a). Pub. L. 104–208, §208(h)(1)(F)(i), struck out “, including companies operating under the authority of section 681(d) of this title,” after “investment companies”.
+**1996**—Subsec. (a). Pub. L. 104–208, §208(h)(1)(F)(i), struck out ", including companies operating under the authority of section 681(d) of this title," after "investment companies".
 
-Subsec. (f)(1). Pub. L. 104–208, §205(b)(1), struck out at end “Such central registration shall include with respect to each sale—
+Subsec. (f)(1). Pub. L. 104–208, §205(b)(1), struck out at end "Such central registration shall include with respect to each sale—
 
-“(A) identification of each small business investment company;
+"(A) identification of each small business investment company;
 
-“(B) the interest rate or prioritized payment rate paid by the small business investment company;
+"(B) the interest rate or prioritized payment rate paid by the small business investment company;
 
-“(C) commissions, fees, or discounts paid to brokers and dealers in trust certificates;
+"(C) commissions, fees, or discounts paid to brokers and dealers in trust certificates;
 
-“(D) identification of each purchaser of the trust certificate;
+"(D) identification of each purchaser of the trust certificate;
 
-“(E) the price paid by the purchaser for the trust certificate;
+"(E) the price paid by the purchaser for the trust certificate;
 
-“(F) the interest rate on the trust certificate;
+"(F) the interest rate on the trust certificate;
 
-“(G) the fee of any agent for carrying out the functions described in paragraph (2); and
+"(G) the fee of any agent for carrying out the functions described in paragraph (2); and
 
-“(H) such other information as the Administration deems appropriate.”
+"(H) such other information as the Administration deems appropriate."
 
-Subsec. (f)(2). Pub. L. 104–208, §208(h)(1)(F)(ii), inserted “or investments in obligations of the United States” after “accounts”.
+Subsec. (f)(2). Pub. L. 104–208, §208(h)(1)(F)(ii), inserted "or investments in obligations of the United States" after "accounts".
 
 Subsec. (f)(5). Pub. L. 104–208, §205(b)(2), added par. (5).
 
 **1992**—Pub. L. 102–366 amended section generally, in subsec. (a) authorizing issuance of trust certificates representing ownership of participating securities, in subsec. (b) inserting provisions authorizing Administration to guarantee payment of redemption price of and priority payments on participating securities, in subsec. (e)(2) including participating securities within prohibition against preclusion or limitation of Administration's ownership rights, and in subsec. (f) in par. (1) substituting provisions relating to small business investment company for provisions relating to development company and requiring prioritized payment rate to be included in central registration requirements, and in par. (2) inserting provisions relating to participating securities, contracts to carry out pooling, and maintenance of commercial bank accounts.
 
-**1989**—Subsec. (a). Pub. L. 101–162 inserted “, including companies operating under the authority of section 681(d) of this title,” after “investment companies”.
+**1989**—Subsec. (a). Pub. L. 101–162 inserted ", including companies operating under the authority of section 681(d) of this title," after "investment companies".
 
 #### Effective Date of 1996 Amendment ####
 
@@ -84,9 +84,9 @@ Amendment by section 208 of Pub. L. 104–208 effective Sept. 30, 1996, see sect
 
 Pub. L. 99–272, title XVIII, §18005(b), Apr. 7, 1986, 100 Stat. 365, provided that:
 
-“(1) Notwithstanding any law, rule, or regulation, within 60 days after the date of the enactment of this Act [Apr. 7, 1986], the Small Business Administration shall develop and promulgate final rules and regulations to implement the central registration provisions provided for in section 321(f)(1) of the Small Business Investment Act [15 U.S.C. 687l(f)(1)], and shall contract with an agent for an initial period of not to exceed two years to carry out the functions provided for in sections 321(f)(2) and 321(f)(3) of such Act.
+"(1) Notwithstanding any law, rule, or regulation, within 60 days after the date of the enactment of this Act [Apr. 7, 1986], the Small Business Administration shall develop and promulgate final rules and regulations to implement the central registration provisions provided for in section 321(f)(1) of the Small Business Investment Act [15 U.S.C. 687l(f)(1)], and shall contract with an agent for an initial period of not to exceed two years to carry out the functions provided for in sections 321(f)(2) and 321(f)(3) of such Act.
 
-“(2) Notwithstanding any law, rule, or regulation, within 60 days after the date of the enactment of this Act [Apr. 7, 1986], the Small Business Administration also shall consult with representatives of appropriate Federal and State agencies and officials, the securities industry, financial institutions and lenders, and small business persons, and shall develop and promulgate final rules and regulations to implement sections 504 and 505 [section 321; 15 U.S.C. 687l] of the Small Business Investment Act.”
+"(2) Notwithstanding any law, rule, or regulation, within 60 days after the date of the enactment of this Act [Apr. 7, 1986], the Small Business Administration also shall consult with representatives of appropriate Federal and State agencies and officials, the securities industry, financial institutions and lenders, and small business persons, and shall develop and promulgate final rules and regulations to implement sections 504 and 505 [section 321; 15 U.S.C. 687l] of the Small Business Investment Act."
 
 #### Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws ####
 

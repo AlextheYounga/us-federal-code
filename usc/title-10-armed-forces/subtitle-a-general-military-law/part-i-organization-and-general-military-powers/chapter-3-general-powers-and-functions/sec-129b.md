@@ -38,8 +38,8 @@ Provisions similar to those in this section were contained in Pub. L. 101–165,
 
 #### Amendments ####
 
-**2003**—Pub. L. 108–136, §841(b)(1), substituted “Authority to procure personal services” for “Experts and consultants: authority to procure services of” in section catchline.
+**2003**—Pub. L. 108–136, §841(b)(1), substituted "Authority to procure personal services" for "Experts and consultants: authority to procure services of" in section catchline.
 
 Subsec. (d). Pub. L. 108–136, §841(a), added subsec. (d).
 
-**1991**—Pub. L. 102–190 inserted “of” after “services” in section catchline.
+**1991**—Pub. L. 102–190 inserted "of" after "services" in section catchline.

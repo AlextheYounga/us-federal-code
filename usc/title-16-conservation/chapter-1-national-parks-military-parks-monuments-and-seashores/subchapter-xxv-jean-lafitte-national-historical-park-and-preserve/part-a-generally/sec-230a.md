@@ -12,7 +12,7 @@ The Secretary may acquire any land, water, and interests in land and water withi
 
 #### (i) In general ####
 
-Any non-Federal land depicted on the map described in section 230 of this title as “Lands Proposed for Addition” may be acquired by the Secretary only with the consent of the owner of the land.
+Any non-Federal land depicted on the map described in section 230 of this title as "Lands Proposed for Addition" may be acquired by the Secretary only with the consent of the owner of the land.
 
 #### (ii) Boundary adjustment ####
 
@@ -24,7 +24,7 @@ To ensure adequate hurricane protection of the communities located in the area, 
 
 #### (C) Transfer of administration jurisdiction ####
 
-Effective on March 30, 2009, administrative jurisdiction over any Federal land within the areas depicted on the map described in section 230 of this title as “Lands Proposed for Addition” is transferred, without consideration, to the administrative jurisdiction of the National Park Service, to be administered as part of the Barataria Preserve Unit.
+Effective on March 30, 2009, administrative jurisdiction over any Federal land within the areas depicted on the map described in section 230 of this title as "Lands Proposed for Addition" is transferred, without consideration, to the administrative jurisdiction of the National Park Service, to be administered as part of the Barataria Preserve Unit.
 
 #### (2) French Quarter ####
 
@@ -66,26 +66,26 @@ The Secretary is authorized to acquire lands or interests in lands by donation, 
 
 #### Amendments ####
 
-**2009**—Subsec. (a). Pub. L. 111–11, §7105(b)(1), inserted heading, inserted par. (1) designation and heading and substituted text of par. (1) for “Within the Barataria Marsh Unit the Secretary is authorized to acquire not to exceed eight thousand six hundred acres of lands, waters, and interests therein (hereinafter referred to as the ‘core area’), as depicted on the map referred to in section 230 of this title, by donation, purchase with donated or appropriated funds, or exchange.”, inserted par. (2) designation and heading and substituted “The Secretary may acquire by any of the methods referred to in paragraph (1)(A)” for “The Secretary may also acquire by any of the foregoing methods”, inserted par. (3) designation and heading and substituted “Land, water, and interests in land and water” for “Lands, waters, and interests therein”, and inserted par. (4) designation and heading.
+**2009**—Subsec. (a). Pub. L. 111–11, §7105(b)(1), inserted heading, inserted par. (1) designation and heading and substituted text of par. (1) for "Within the Barataria Marsh Unit the Secretary is authorized to acquire not to exceed eight thousand six hundred acres of lands, waters, and interests therein (hereinafter referred to as the 'core area'), as depicted on the map referred to in section 230 of this title, by donation, purchase with donated or appropriated funds, or exchange.", inserted par. (2) designation and heading and substituted "The Secretary may acquire by any of the methods referred to in paragraph (1)(A)" for "The Secretary may also acquire by any of the foregoing methods", inserted par. (3) designation and heading and substituted "Land, water, and interests in land and water" for "Lands, waters, and interests therein", and inserted par. (4) designation and heading.
 
 Subsecs. (b), (c). Pub. L. 111–11, §7105(b)(2), added subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which related to guidelines or criteria applicable to the use and development of properties within a park protection zone, and preservation and protection of certain values, respectively.
 
-Subsec. (d). Pub. L. 111–11, §7105(b)(3), (f)(2)(B), redesignated subsec. (g) as (d) and substituted “Jean Lafitte National Historical Park and Preserve” for “Jean Lafitte National Historical Park”.
+Subsec. (d). Pub. L. 111–11, §7105(b)(3), (f)(2)(B), redesignated subsec. (g) as (d) and substituted "Jean Lafitte National Historical Park and Preserve" for "Jean Lafitte National Historical Park".
 
-Pub. L. 111–11, §7105(b)(2), struck out subsec. (d). Prior to amendment, text read as follows: “Where the State or local units of government deem it appropriate, they may cede to the Secretary, and the Secretary is authorized to accept, the power and authority to confect and enforce a program or set of rules pursuant to the guidelines established under subsection (b) of this section for the purpose of protecting the values described in subsection (c) of this section.”
+Pub. L. 111–11, §7105(b)(2), struck out subsec. (d). Prior to amendment, text read as follows: "Where the State or local units of government deem it appropriate, they may cede to the Secretary, and the Secretary is authorized to accept, the power and authority to confect and enforce a program or set of rules pursuant to the guidelines established under subsection (b) of this section for the purpose of protecting the values described in subsection (c) of this section."
 
 Subsecs. (e), (f). Pub. L. 111–11, §7105(b)(2), struck out subsecs. (e) and (f) which read as follows:
 
-“(e) The Secretary, upon the failure of the State or local units of government to enact rules pursuant to subsection (b) of this section or enforce such rules so as to protect the values enumerated in subsection (c) of this section, may acquire such lands, servitudes, or interests in lands within the park protection zone as he deems necessary to protect the values enumerated in subsection (c) of this section.
+"(e) The Secretary, upon the failure of the State or local units of government to enact rules pursuant to subsection (b) of this section or enforce such rules so as to protect the values enumerated in subsection (c) of this section, may acquire such lands, servitudes, or interests in lands within the park protection zone as he deems necessary to protect the values enumerated in subsection (c) of this section.
 
-“(f) The Secretary may revise the boundaries of the park protection zone, notwithstanding any other provision of law, to include or exclude properties, but only with the consent of Jefferson Parish.”
+"(f) The Secretary may revise the boundaries of the park protection zone, notwithstanding any other provision of law, to include or exclude properties, but only with the consent of Jefferson Parish."
 
 Subsec. (g). Pub. L. 111–11, §7105(b)(3), redesignated subsec. (g) as (d).
 
 **1988**—Subsec. (g). Pub. L. 100–250 added subsec. (g).
 
-**1979**—Subsec. (a). Pub. L. 96–87 substituted “eight thousand six hundred acres” for “eight thousand acres”.
+**1979**—Subsec. (a). Pub. L. 96–87 substituted "eight thousand six hundred acres" for "eight thousand acres".
 
-#### “Secretary” Defined ####
+#### "Secretary" Defined ####
 
 Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.

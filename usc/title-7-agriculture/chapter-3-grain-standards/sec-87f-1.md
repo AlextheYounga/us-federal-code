@@ -30,7 +30,7 @@ The Secretary shall provide, by regulation, for the registration of all persons 
 
 Persons required to register under this section shall also submit to the Secretary the information specified in clauses (A) through (F) of this paragraph with respect to any business engaged in the business of buying grain for sale in interstate commerce, and in the business of handling, weighing, or transporting of grain for sale in interstate commerce, if, with respect to such business, the person otherwise required to register under this section is in a control relationship.
 
-(2) For the purposes of this section, a person shall be deemed to be in a “control relationship” with respect to a business required to register under subsection (a) of this section and with respect to applicable interstate businesses if—
+(2) For the purposes of this section, a person shall be deemed to be in a "control relationship" with respect to a business required to register under subsection (a) of this section and with respect to applicable interstate businesses if—
 
 (A) such person has an ownership interest of 10 per centum or more in such business, or
 
@@ -54,15 +54,15 @@ The Secretary shall charge and collect fees from any person registered under thi
 
 #### Amendments ####
 
-**1994**—Subsecs. (a), (b)(1), (c) to (e). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
+**1994**—Subsecs. (a), (b)(1), (c) to (e). Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
 
-**1993**—Pub. L. 103–156, §12(p), which directed amendment of “Section 17A”, without specifying the name of the Act being amended, was executed to this section, which is section 17A of the United States Grain Standards Act, to reflect the probable intent of Congress.
+**1993**—Pub. L. 103–156, §12(p), which directed amendment of "Section 17A", without specifying the name of the Act being amended, was executed to this section, which is section 17A of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Subsec. (a)(2). Pub. L. 103–156, §12(p)(1), substituted “the producer” for “he”.
+Subsec. (a)(2). Pub. L. 103–156, §12(p)(1), substituted "the producer" for "he".
 
-Subsec. (c). Pub. L. 103–156, §12(p)(2), substituted “the person” for “he” in last sentence.
+Subsec. (c). Pub. L. 103–156, §12(p)(2), substituted "the person" for "he" in last sentence.
 
-**1977**—Subsec. (b)(1). Pub. L. 95–113 substituted “All persons required to register” for “All persons registered” in provisions preceding subpar. (A).
+**1977**—Subsec. (b)(1). Pub. L. 95–113 substituted "All persons required to register" for "All persons registered" in provisions preceding subpar. (A).
 
 #### Effective Date of 1977 Amendment ####
 

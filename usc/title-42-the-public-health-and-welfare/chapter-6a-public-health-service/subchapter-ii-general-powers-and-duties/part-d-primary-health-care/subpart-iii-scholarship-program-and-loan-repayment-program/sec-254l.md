@@ -80,7 +80,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 (iv) if pursuing a degree from a school of medicine or osteopathic medicine, to complete a residency in a specialty that the Secretary determines is consistent with the needs of the Corps; and
 
-(v) to serve for a time period (hereinafter in the subpart referred to as the “period of obligated service”) equal to—
+(v) to serve for a time period (hereinafter in the subpart referred to as the "period of obligated service") equal to—
 
 (I) one year for each school year for which the individual was provided a scholarship under the Scholarship Program, or
 
@@ -126,7 +126,7 @@ The General Schedule, referred to in subsec. (g)(3), is set out under section 53
 
 #### Codification ####
 
-In subsec. (g)(2), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31 U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (g)(2), "section 3324(a) and (b) of title 31" substituted for "section 3648 of the Revised Statutes (31 U.S.C. 529)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section was formerly classified to section 294t of this title prior to its renumbering by Pub. L. 97–35.
 
@@ -134,9 +134,9 @@ Section was formerly classified to section 294t of this title prior to its renum
 
 **2003**—Subsec. (d)(1)(B). Pub. L. 108–163 realigned margin.
 
-**2002**—Subsec. (a)(1). Pub. L. 107–251, §309(1), inserted “behavioral and mental health professionals,” after “dentists,”.
+**2002**—Subsec. (a)(1). Pub. L. 107–251, §309(1), inserted "behavioral and mental health professionals," after "dentists,".
 
-Subsec. (b)(1)(B). Pub. L. 107–251, §309(2), inserted “, or an appropriate degree from a graduate program of behavioral and mental health” after “other health profession”.
+Subsec. (b)(1)(B). Pub. L. 107–251, §309(2), inserted ", or an appropriate degree from a graduate program of behavioral and mental health" after "other health profession".
 
 Subsec. (c)(1). Pub. L. 107–251, §309(3), made technical amendment to references in original act which appear in subpar. (A) as reference to section 254o of this title and in subpar. (B) as reference to section 254n of this title.
 
@@ -148,57 +148,57 @@ Subsec. (f)(3). Pub. L. 107–251, §309(5)(B), made technical amendment to refe
 
 Subsec. (i). Pub. L. 107–251, §309(6), struck out subsec. (i), which required an annual report to Congress on the Scholarship Program.
 
-**1990**—Subsec. (a). Pub. L. 101–597, §201(a)(1), substituted “Corps Scholarship Program to assure, with respect to the provision of primary health services pursuant to section 254d(a)(2) of this title—” and pars. (1) and (2) for “Corps Scholarship Program (hereinafter in this subpart referred to as the ‘Scholarship Program’) to assure an adequate supply of trained physicians, dentists, and nurses for the National Health Service Corps (hereinafter in this subpart referred to as the ‘Corps’) and, if needed by the Corps, podiatrists, optometrists, pharmacists, clinical psychologists, graduates of schools of veterinary medicine, graduates of schools of public health, graduates of programs in health administration, graduates of programs for the training of physician assistants, expanded function dental auxiliaries, and nurse practitioners (as defined in section 296m of this title), and other health professionals.”
+**1990**—Subsec. (a). Pub. L. 101–597, §201(a)(1), substituted "Corps Scholarship Program to assure, with respect to the provision of primary health services pursuant to section 254d(a)(2) of this title—" and pars. (1) and (2) for "Corps Scholarship Program (hereinafter in this subpart referred to as the 'Scholarship Program') to assure an adequate supply of trained physicians, dentists, and nurses for the National Health Service Corps (hereinafter in this subpart referred to as the 'Corps') and, if needed by the Corps, podiatrists, optometrists, pharmacists, clinical psychologists, graduates of schools of veterinary medicine, graduates of schools of public health, graduates of programs in health administration, graduates of programs for the training of physician assistants, expanded function dental auxiliaries, and nurse practitioners (as defined in section 296m of this title), and other health professionals."
 
 Subsec. (b)(4). Pub. L. 101–597, §401(b)[(a)], substituted reference to health professional shortage area for reference to health manpower shortage area.
 
 Subsec. (c). Pub. L. 101–597, §401(b)[(a)], substituted reference to health professional shortage area for reference to health manpower shortage area in par. (3)(B), (C).
 
-Pub. L. 101–597, §201(b), inserted par. (1) designation, redesignated former pars. (1) and (2) as subpars. (A) and (B), inserted before period at end of subpar. (B) “, including a statement of all factors considered in approving applications for participation in the Program and in making assignments for participants in the Program”, inserted par. (2) designation, and added par. (3).
+Pub. L. 101–597, §201(b), inserted par. (1) designation, redesignated former pars. (1) and (2) as subpars. (A) and (B), inserted before period at end of subpar. (B) ", including a statement of all factors considered in approving applications for participation in the Program and in making assignments for participants in the Program", inserted par. (2) designation, and added par. (3).
 
 Subsec. (d). Pub. L. 101–597, §401(b)[(a)], substituted reference to health professional shortage area for reference to health manpower shortage area in par. (2)(B).
 
-Pub. L. 101–597, §201(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In determining which applications under the Scholarship Program to approve (and which contracts to accept), the Secretary shall give priority—
+Pub. L. 101–597, §201(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "In determining which applications under the Scholarship Program to approve (and which contracts to accept), the Secretary shall give priority—
 
-“(1) first, to applications made (and contracts submitted) by individuals who have previously received scholarships under the Scholarship Program or under section 294z of this title; and
+"(1) first, to applications made (and contracts submitted) by individuals who have previously received scholarships under the Scholarship Program or under section 294z of this title; and
 
-“(2) second, to applications made (and contracts submitted)—
+"(2) second, to applications made (and contracts submitted)—
 
-“(A) for the school year beginning in calendar year 1978, by individuals who are entering their first, second, or third year of study in a course of study or program described in subsection (b)(1)(B) of this section in such school year;
+"(A) for the school year beginning in calendar year 1978, by individuals who are entering their first, second, or third year of study in a course of study or program described in subsection (b)(1)(B) of this section in such school year;
 
-“(B) for the school year beginning in calendar year 1979, by individuals who are entering their first or second year of study in a course of study or program described in subsection (b)(1)(B) of this section in such school year; and
+"(B) for the school year beginning in calendar year 1979, by individuals who are entering their first or second year of study in a course of study or program described in subsection (b)(1)(B) of this section in such school year; and
 
-“(C) for each school year thereafter, by individuals who are entering their first year of study in a course of study or program described in subsection (b)(1)(B) of this section in such school year.”
+"(C) for each school year thereafter, by individuals who are entering their first year of study in a course of study or program described in subsection (b)(1)(B) of this section in such school year."
 
 Subsec. (f)(1)(B)(iv). Pub. L. 101–597, §401(b)[(a)], substituted reference to health professional shortage area for reference to health manpower shortage area in closing provisions.
 
-Pub. L. 101–597, §201(a)(2), substituted “as a provider of primary health services” after “whichever is greater,”.
+Pub. L. 101–597, §201(a)(2), substituted "as a provider of primary health services" after "whichever is greater,".
 
-Subsec. (g)(3). Pub. L. 101–509 substituted “(under section 5303 of title 5)” for “(as set forth in the report transmitted to the Congress under section 5305 of title 5)”.
+Subsec. (g)(3). Pub. L. 101–509 substituted "(under section 5303 of title 5)" for "(as set forth in the report transmitted to the Congress under section 5305 of title 5)".
 
-Subsec. (i). Pub. L. 101–597, §201(d)(1), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The Secretary shall report to Congress on March 1 of each year—”.
+Subsec. (i). Pub. L. 101–597, §201(d)(1), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "The Secretary shall report to Congress on March 1 of each year—".
 
-Subsec. (i)(4), (5). Pub. L. 101–597, §201(d)(2), added pars. (4) and (5) and struck out former par. (4) which read as follows: “the amount of tuition paid in the aggregate and at each educational institution for the school year beginning in such year and for prior school years.”
+Subsec. (i)(4), (5). Pub. L. 101–597, §201(d)(2), added pars. (4) and (5) and struck out former par. (4) which read as follows: "the amount of tuition paid in the aggregate and at each educational institution for the school year beginning in such year and for prior school years."
 
 Subsec. (i)(6). Pub. L. 101–597, §401(b)[(a)], substituted reference to health professional shortage area for reference to health manpower shortage area.
 
 Pub. L. 101–597, §201(d)(2)(C), added par. (6).
 
-**1988**—Subsec. (b)(1). Pub. L. 100–607 substituted “osteopathic medicine” for “osteopathy”.
+**1988**—Subsec. (b)(1). Pub. L. 100–607 substituted "osteopathic medicine" for "osteopathy".
 
-**1985**—Subsec. (g)(1). Pub. L. 99–129 struck out “or under section 294z of this title (relating to scholarships for first-year students of exceptional financial need),” after “Scholarship Program”.
+**1985**—Subsec. (g)(1). Pub. L. 99–129 struck out "or under section 294z of this title (relating to scholarships for first-year students of exceptional financial need)," after "Scholarship Program".
 
 **1981**—Subsec. (a). Pub. L. 97–35, §2709(b)(1), inserted reference to clinical psychologists.
 
-Subsec. (c). Pub. L. 97–35, §2709(b)(2), (3), substituted “254o” for “294w” in par. (1), and inserted provisions relating to information concerning meeting the service obligation in par. (2).
+Subsec. (c). Pub. L. 97–35, §2709(b)(2), (3), substituted "254o" for "294w" in par. (1), and inserted provisions relating to information concerning meeting the service obligation in par. (2).
 
-Subsec. (f). Pub. L. 97–35, §2709(b)(4)–(6), in par. (1) substituted reference to sections 254d to 254h and 254j of this title, for reference to subpart II of part D of subchapter II of this chapter, in par. (2) substituted reference to sections 254d to 254h, 254j and 254k of this title, for reference to subpart II of part D of subchapter II of this chapter, and in par. (3) substituted “254o” for “294w”.
+Subsec. (f). Pub. L. 97–35, §2709(b)(4)–(6), in par. (1) substituted reference to sections 254d to 254h and 254j of this title, for reference to subpart II of part D of subchapter II of this chapter, in par. (2) substituted reference to sections 254d to 254h, 254j and 254k of this title, for reference to subpart II of part D of subchapter II of this chapter, and in par. (3) substituted "254o" for "294w".
 
 Subsec. (j). Pub. L. 97–35, §2709(b)(7), struck out subsec. (j) which related to consultation and participation of schools.
 
-**1979**—Subsec. (g)(3). Pub. L. 96–32 substituted “section 5305 of title 5” for “section 5303 of title 5”.
+**1979**—Subsec. (g)(3). Pub. L. 96–32 substituted "section 5305 of title 5" for "section 5303 of title 5".
 
-**1978**—Subsec. (f). Pub. L. 95–626 substituted “subpart II of part D” for “subpart II of part C” in pars. (1)(A) and (2).
+**1978**—Subsec. (f). Pub. L. 95–626 substituted "subpart II of part D" for "subpart II of part C" in pars. (1)(A) and (2).
 
 Subsec. (i). Pub. L. 95–623 substituted March 1 for December 1 as the date for Secretary's annual report to Congress.
 
@@ -216,19 +216,19 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 Section 228 of Pub. L. 99–129 provided that:
 
-“(a) Except as provided in subsection (b), this Act and the amendments and repeals made by this Act [enacting sections 294q–1 to 294q–3 of this title, amending this section and sections 292a, 292b, 292h, 292j, 293c, 294a, 294b, 294d, 294e, 294g, 294j, 294m to 294p, 294z, 295f to 295f–2, 295g, 295g–1, 295g–3, 295g–4, 295g–6 to 295g–8, 295g–8b, 295h, 295h–1a to 295h–1c, 296k, 296l, 296m, 297a, 298b–5, and 300aa–14 of this title, repealing sections 292c, 295 to 295e–5, 295g–2, 295g–5, 295g–8a, and 295g–9 of this title, enacting provisions set out as notes under sections 201, 292h, 293c, 294d, 294n, and 300aa–14 of this title and section 462 of the Appendix to Title 50, War and National Defense, and amending provisions set out as a note under section 298b–5 of this title] shall take effect on the date of enactment of this Act [Oct. 22, 1985].
+"(a) Except as provided in subsection (b), this Act and the amendments and repeals made by this Act [enacting sections 294q–1 to 294q–3 of this title, amending this section and sections 292a, 292b, 292h, 292j, 293c, 294a, 294b, 294d, 294e, 294g, 294j, 294m to 294p, 294z, 295f to 295f–2, 295g, 295g–1, 295g–3, 295g–4, 295g–6 to 295g–8, 295g–8b, 295h, 295h–1a to 295h–1c, 296k, 296l, 296m, 297a, 298b–5, and 300aa–14 of this title, repealing sections 292c, 295 to 295e–5, 295g–2, 295g–5, 295g–8a, and 295g–9 of this title, enacting provisions set out as notes under sections 201, 292h, 293c, 294d, 294n, and 300aa–14 of this title and section 462 of the Appendix to Title 50, War and National Defense, and amending provisions set out as a note under section 298b–5 of this title] shall take effect on the date of enactment of this Act [Oct. 22, 1985].
 
-“(b)(1) The amendments made by section 101(a) of this Act [amending section 294a of this title] shall take effect as of October 1, 1985.
+"(b)(1) The amendments made by section 101(a) of this Act [amending section 294a of this title] shall take effect as of October 1, 1985.
 
-“(2) The amendments made by section 208(e) of this Act [amending section 294e of this title] shall take effect nine months after the date of enactment of this Act [Oct. 22, 1985].
+"(2) The amendments made by section 208(e) of this Act [amending section 294e of this title] shall take effect nine months after the date of enactment of this Act [Oct. 22, 1985].
 
-“(3) The amendment made by section 208(h) of this Act [amending section 294a of this title] shall take effect as of October 1, 1983.
+"(3) The amendment made by section 208(h) of this Act [amending section 294a of this title] shall take effect as of October 1, 1983.
 
-“(4) The provisions of section 746 of the Public Health Service Act (as added by the amendment made by section 209(h)(2) of this Act) [former 42 U.S.C. 294q–2] shall take effect as of June 30, 1984.
+"(4) The provisions of section 746 of the Public Health Service Act (as added by the amendment made by section 209(h)(2) of this Act) [former 42 U.S.C. 294q–2] shall take effect as of June 30, 1984.
 
-“(5) The amendments made by section 209(j) of this Act [amending sections 294m and 297a of this title] shall take effect as of June 30, 1984.
+"(5) The amendments made by section 209(j) of this Act [amending sections 294m and 297a of this title] shall take effect as of June 30, 1984.
 
-“(6) The amendments made by section 213(a) of this Act [amending section 295g–1 of this title] shall take effect as of October 1, 1985.”
+"(6) The amendments made by section 213(a) of this Act [amending section 295g–1 of this title] shall take effect as of October 1, 1985."
 
 #### Effective Date of 1977 Amendment ####
 
@@ -242,15 +242,15 @@ Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2281, provided 
 
 Pub. L. 94–484, title IV, §408(b)(2), Oct. 12, 1976, 90 Stat. 2288, as amended, eff. Oct. 12, 1976, by Pub. L. 95–83, title III, §307(p), Aug. 1, 1977, 91 Stat. 394, provided that:
 
-“(A) Except as provided in subparagraphs (B) and (C), the amendment made by paragraph (1) of this subsection [enacting this section and sections 254l–1 to 254r of this title and repealing section 234 of this title] shall apply with respect to scholarships awarded under the National Health Service Corps Scholarship Program from appropriations for such Program for fiscal years beginning after September 30, 1977.
+"(A) Except as provided in subparagraphs (B) and (C), the amendment made by paragraph (1) of this subsection [enacting this section and sections 254l–1 to 254r of this title and repealing section 234 of this title] shall apply with respect to scholarships awarded under the National Health Service Corps Scholarship Program from appropriations for such Program for fiscal years beginning after September 30, 1977.
 
-“(B) The provisions of section 225(f)(1) of the Public Health Service Act (as in effect on September 30, 1977) [former 42 U.S.C. 234(f)(1)] prescribing the financial obligation of a participant in the Public Health and National Health Service Corps Scholarship Program who fails to complete an active duty service obligation incurred under that Program shall apply to any individual who received a scholarship under such Program from appropriations for such Program for any fiscal year ending before October 1, 1977.
+"(B) The provisions of section 225(f)(1) of the Public Health Service Act (as in effect on September 30, 1977) [former 42 U.S.C. 234(f)(1)] prescribing the financial obligation of a participant in the Public Health and National Health Service Corps Scholarship Program who fails to complete an active duty service obligation incurred under that Program shall apply to any individual who received a scholarship under such Program from appropriations for such Program for any fiscal year ending before October 1, 1977.
 
-“(C) If an individual received a scholarship under the Public Health and National Health Service Corps Scholarship Program for any school year beginning before the date of the enactment of this Act [Oct. 12, 1976], periods of internship or residency served by such individual in a facility of the National Health Service Corps or other facility of the Public Health Service shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship or for any scholarship received under the National Health Service Corps Scholarship Program for any subsequent school year. If an individual received a scholarship under the Public Health and National Health Service Corps Program for the first time from appropriations for such Program for the fiscal year ending September 30, 1977, periods of internship or residency served by such individual in such a facility shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship.”
+"(C) If an individual received a scholarship under the Public Health and National Health Service Corps Scholarship Program for any school year beginning before the date of the enactment of this Act [Oct. 12, 1976], periods of internship or residency served by such individual in a facility of the National Health Service Corps or other facility of the Public Health Service shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship or for any scholarship received under the National Health Service Corps Scholarship Program for any subsequent school year. If an individual received a scholarship under the Public Health and National Health Service Corps Program for the first time from appropriations for such Program for the fiscal year ending September 30, 1977, periods of internship or residency served by such individual in such a facility shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship."
 
 #### Scholarship and Loan Repayment Programs ####
 
-Pub. L. 107–251, title III, §302(c), Oct. 26, 2002, 116 Stat. 1644, provided that: “The Secretary of Health and Human Services, in consultation with organizations representing individuals in the dental field and organizations representing publicly funded health care providers, shall develop and implement a plan for increasing the participation of dentists and dental hygienists in the National Health Service Corps Scholarship Program under section 338A of the Public Health Service Act (42 U.S.C. 254l) and the Loan Repayment Program under section 338B of such Act (42 U.S.C. 254l–1).”
+Pub. L. 107–251, title III, §302(c), Oct. 26, 2002, 116 Stat. 1644, provided that: "The Secretary of Health and Human Services, in consultation with organizations representing individuals in the dental field and organizations representing publicly funded health care providers, shall develop and implement a plan for increasing the participation of dentists and dental hygienists in the National Health Service Corps Scholarship Program under section 338A of the Public Health Service Act (42 U.S.C. 254l) and the Loan Repayment Program under section 338B of such Act (42 U.S.C. 254l–1)."
 
 [<sup>1</sup> So in original.](#254l_1)
 

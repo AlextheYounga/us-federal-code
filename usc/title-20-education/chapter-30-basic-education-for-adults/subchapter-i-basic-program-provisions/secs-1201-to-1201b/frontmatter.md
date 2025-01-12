@@ -12,15 +12,15 @@ A prior section 1202, Pub. L. 89–750, title III, §303, Nov. 3, 1966, 80 Stat.
 
 #### Short Title of 1991 Amendment ####
 
-Pub. L. 102–73, §1, July 25, 1991, 105 Stat. 333, provided that Pub. L. 102–73 was to be cited as the “National Literacy Act of 1991”, prior to repeal by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079.
+Pub. L. 102–73, §1, July 25, 1991, 105 Stat. 333, provided that Pub. L. 102–73 was to be cited as the "National Literacy Act of 1991", prior to repeal by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079.
 
 #### Short Title of 1988 Amendment ####
 
-Pub. L. 100–297, title II, §2101, Apr. 28, 1988, 102 Stat. 302, provided that part B (§§2101, 2102) of title II of Pub. L. 100–297, enacting this chapter, was to be cited as the “Adult Education Amendments of 1988”.
+Pub. L. 100–297, title II, §2101, Apr. 28, 1988, 102 Stat. 302, provided that part B (§§2101, 2102) of title II of Pub. L. 100–297, enacting this chapter, was to be cited as the "Adult Education Amendments of 1988".
 
 #### Short Title ####
 
-Pub. L. 89–750, title III, §301, as added by Pub. L. 100–297, title II, §2102, Apr. 28, 1988, 102 Stat. 302, provided that title III of Pub. L. 89–750, enacting this chapter, was to be cited as the “Adult Education Act”, prior to repeal by Pub. L. 105–220, title II, §251(a)(1), Aug. 7, 1998, 112 Stat. 1079.
+Pub. L. 89–750, title III, §301, as added by Pub. L. 100–297, title II, §2102, Apr. 28, 1988, 102 Stat. 302, provided that title III of Pub. L. 89–750, enacting this chapter, was to be cited as the "Adult Education Act", prior to repeal by Pub. L. 105–220, title II, §251(a)(1), Aug. 7, 1998, 112 Stat. 1079.
 
 #### Congressional Findings Regarding National Literacy Act of 1991 ####
 
@@ -28,4 +28,4 @@ Pub. L. 102–73, §2, July 25, 1991, 105 Stat. 333, stated findings of Congress
 
 #### Definitions ####
 
-Pub. L. 102–73, §3, July 25, 1991, 105 Stat. 334, defined the term “literacy” for purposes of Pub. L. 102–73, prior to repeal by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079.
+Pub. L. 102–73, §3, July 25, 1991, 105 Stat. 334, defined the term "literacy" for purposes of Pub. L. 102–73, prior to repeal by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079.

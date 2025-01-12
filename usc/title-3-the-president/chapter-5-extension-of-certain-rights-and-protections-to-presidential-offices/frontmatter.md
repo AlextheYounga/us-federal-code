@@ -22,7 +22,7 @@ Sec.
 
 415. Rights and protections under the Worker Adjustment and Retraining Notification Act.
 
-416. Rights and protections relating to veterans’ employment and reemployment.
+416. Rights and protections relating to veterans' employment and reemployment.
 
 417. Prohibition of intimidation or reprisal.
 

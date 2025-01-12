@@ -42,13 +42,13 @@ Sec.
 
 #### Amendments ####
 
-**2013**—Pub. L. 113–66, div. B, title XXVIII, §2802(a)(2), Dec. 26, 2013, 127 Stat. 1006, struck out item 2837 “Limited partnerships with private developers of housing”.
+**2013**—Pub. L. 113–66, div. B, title XXVIII, §2802(a)(2), Dec. 26, 2013, 127 Stat. 1006, struck out item 2837 "Limited partnerships with private developers of housing".
 
 **2008**—Pub. L. 110–417, div. B, title XXVIII, §§2803(b), 2804(b), Oct. 14, 2008, 122 Stat. 4720, 4721, added items 2835a and 2838.
 
-**2006**—Pub. L. 109–364, div. B, title XXVIII, §2803(b), Oct. 17, 2006, 120 Stat. 2467, struck out item 2823 “Determination of availability of suitable alternative housing for acquisition in lieu of construction of new family housing”.
+**2006**—Pub. L. 109–364, div. B, title XXVIII, §2803(b), Oct. 17, 2006, 120 Stat. 2467, struck out item 2823 "Determination of availability of suitable alternative housing for acquisition in lieu of construction of new family housing".
 
-**2000**—Pub. L. 106–398, §1 [div. B, title XXVIII, §2803(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–413, substituted “Military family housing: local comparability of room patterns and floor areas” for “Limitations on space by pay grade” in item 2826.
+**2000**—Pub. L. 106–398, §1 [div. B, title XXVIII, §2803(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–413, substituted "Military family housing: local comparability of room patterns and floor areas" for "Limitations on space by pay grade" in item 2826.
 
 **1994**—Pub. L. 103–337, div. B, title XXVIII, §2803(b), Oct. 5, 1994, 108 Stat. 3053, added item 2837.
 

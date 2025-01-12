@@ -666,15 +666,15 @@ V. Immunity of Witnesses 6001
 
 #### Positive Law; Citation ####
 
-Act June 25, 1948, ch. 645, §1, 62 Stat. 683, provided in part that: “Title 18 of the United States Code, entitled ‘Crimes and Criminal Procedure’, is hereby revised, codified and enacted into positive law, and may be cited as ‘Title 18, U.S.C., §—.’ ”
+Act June 25, 1948, ch. 645, §1, 62 Stat. 683, provided in part that: "Title 18 of the United States Code, entitled 'Crimes and Criminal Procedure', is hereby revised, codified and enacted into positive law, and may be cited as 'Title 18, U.S.C., §—.' "
 
 #### Legislative Construction ####
 
-Act June 25, 1948, ch. 645, §19, 62 Stat. 862, provided that: “No inference of a legislative construction is to be drawn by reason of the chapter in Title 18, Crimes and Criminal Procedure, as set out in section 1 of this Act, in which any particular section is placed, nor by reason of the catchlines used in such title.”
+Act June 25, 1948, ch. 645, §19, 62 Stat. 862, provided that: "No inference of a legislative construction is to be drawn by reason of the chapter in Title 18, Crimes and Criminal Procedure, as set out in section 1 of this Act, in which any particular section is placed, nor by reason of the catchlines used in such title."
 
 #### Separability ####
 
-Act June 25, 1948, ch. 645, §18, 62 Stat. 862, provided that: “If any part of Title 18, Crimes and Criminal Procedure, as set out in section 1 of this Act, shall be held invalid the remainder shall not be affected thereby.”
+Act June 25, 1948, ch. 645, §18, 62 Stat. 862, provided that: "If any part of Title 18, Crimes and Criminal Procedure, as set out in section 1 of this Act, shall be held invalid the remainder shall not be affected thereby."
 
 #### Effective Date ####
 

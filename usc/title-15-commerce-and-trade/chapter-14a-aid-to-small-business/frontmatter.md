@@ -32,7 +32,7 @@ Sec.
 
 634g. Budgetary line item and authorization of appropriations.
 
-635. Deposit of moneys; depositaries, custodians, and fiscal agents; contributions to employees’ compensation funds.
+635. Deposit of moneys; depositaries, custodians, and fiscal agents; contributions to employees' compensation funds.
 
 636. Additional powers.
 

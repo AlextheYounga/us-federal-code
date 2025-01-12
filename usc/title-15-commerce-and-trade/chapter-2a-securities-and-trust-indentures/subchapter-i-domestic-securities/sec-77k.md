@@ -44,7 +44,7 @@ The suit authorized under subsection (a) of this section may be to recover such 
 
 (2)(A) The liability of an outside director under subsection (e) of this section shall be determined in accordance with section 78u–4(f) of this title.
 
-(B) For purposes of this paragraph, the term “outside director” shall have the meaning given such term by rule or regulation of the Commission.
+(B) For purposes of this paragraph, the term "outside director" shall have the meaning given such term by rule or regulation of the Commission.
 
 #### (g) Offering price to public as maximum amount recoverable ####
 
@@ -56,7 +56,7 @@ In no case shall the amount recoverable under this section exceed the price at w
 
 **1998**—Subsec. (f)(2)(A). Pub. L. 105–353 made technical amendment to reference in original act which appears in text as reference to section 78u–4(f) of this title.
 
-**1995**—Subsec. (f). Pub. L. 104–67 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), all” for “All”, and added par. (2).
+**1995**—Subsec. (f). Pub. L. 104–67 designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), all" for "All", and added par. (2).
 
 **1934**—Subsec. (a). Act June 6, 1934, inserted last par.
 
@@ -64,7 +64,7 @@ Subsecs. (b)(3), (c) to (e). Act June 6, 1934, amended subsecs. (b)(3) and (c) t
 
 #### Effective Date of 1995 Amendment ####
 
-Pub. L. 104–67, title II, §202, Dec. 22, 1995, 109 Stat. 762, provided that: “The amendments made by this title [amending this section and section 78u–4 of this title] shall not affect or apply to any private action arising under the securities laws commenced before and pending on the date of enactment of this Act [Dec. 22, 1995].”
+Pub. L. 104–67, title II, §202, Dec. 22, 1995, 109 Stat. 762, provided that: "The amendments made by this title [amending this section and section 78u–4 of this title] shall not affect or apply to any private action arising under the securities laws commenced before and pending on the date of enactment of this Act [Dec. 22, 1995]."
 
 #### Construction of 1995 Amendment ####
 

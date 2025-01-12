@@ -2,7 +2,7 @@
 
 #### (a) Establishment; duties ####
 
-There is established a Commission for the Museum of African Art (hereinafter the “Commission”) which shall provide advice and assistance to the Board concerning the operation and development of the Museum, its collections and programs.
+There is established a Commission for the Museum of African Art (hereinafter the "Commission") which shall provide advice and assistance to the Board concerning the operation and development of the Museum, its collections and programs.
 
 #### (b) Membership ####
 

@@ -6,7 +6,7 @@ The affairs of the Petersburg National Battlefield shall, subject to the supervi
 
 #### Change of Name ####
 
-“Petersburg National Battlefield” substituted in text for “Petersburg National Military Park” pursuant to Pub. L. 87–603. See section 423h–1 of this title.
+"Petersburg National Battlefield" substituted in text for "Petersburg National Military Park" pursuant to Pub. L. 87–603. See section 423h–1 of this title.
 
 #### Transfer of Functions ####
 

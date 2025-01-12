@@ -2,7 +2,7 @@
 
 #### (a) Establishment and meetings ####
 
-Not to exceed 24 Members of Congress shall be appointed to meet annually and when the Congress is not in session (except that this restriction shall not apply to meetings held in the United States), with representatives of the House of Commons and the House of Lords of the Parliament of Great Britain for discussion of common problems in the interest of relations between the United States and Great Britain. The Members of Congress so appointed shall be referred to as the “United States group” of the United States Interparliamentary Group.
+Not to exceed 24 Members of Congress shall be appointed to meet annually and when the Congress is not in session (except that this restriction shall not apply to meetings held in the United States), with representatives of the House of Commons and the House of Lords of the Parliament of Great Britain for discussion of common problems in the interest of relations between the United States and Great Britain. The Members of Congress so appointed shall be referred to as the "United States group" of the United States Interparliamentary Group.
 
 #### (b) Appointment of Members ####
 
@@ -40,8 +40,8 @@ Section is comprised of section 168 of Pub. L. 102–138. Subsec. (g) of section
 
 Pub. L. 98–164, title I, §109(b), (c), Nov. 22, 1983, 97 Stat. 1019, as amended by Pub. L. 99–415, §7(b), Sept. 19, 1986, 100 Stat. 949; Pub. L. 100–459, title III, §303(b), Oct. 1, 1988, 102 Stat. 2207; Pub. L. 101–515, title III, §304(b), Nov. 5, 1990, 104 Stat. 2128; Pub. L. 106–113, div. B, §1000(a)(7) [div. A, title VII, §701(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–459; Pub. L. 107–77, title IV, §408(b)(4), Nov. 28, 2001, 115 Stat. 791; Pub. L. 110–161, div. J, title VI, §634(s), Dec. 26, 2007, 121 Stat. 2331, provided that:
 
-“(b) There are authorized to be appropriated each fiscal year $100,000, to be equally divided between delegations of the Senate and the House of Representatives, to assist in meeting the expenses of the United States Group of the British-American Parliamentary Group. Amounts appropriated under this section [amending section 1928e of this title and enacting this note] are authorized to remain available until expended.
+"(b) There are authorized to be appropriated each fiscal year $100,000, to be equally divided between delegations of the Senate and the House of Representatives, to assist in meeting the expenses of the United States Group of the British-American Parliamentary Group. Amounts appropriated under this section [amending section 1928e of this title and enacting this note] are authorized to remain available until expended.
 
-“(c) There are authorized to be appropriated for each fiscal year $100,000 for expenses of United States participation in the Transatlantic Legislators’ Dialogue (United States-European Union Interparliamentary Group).”
+"(c) There are authorized to be appropriated for each fiscal year $100,000 for expenses of United States participation in the Transatlantic Legislators' Dialogue (United States-European Union Interparliamentary Group)."
 
 [A permanent appropriation to carry out section 109(b) and (c) of Pub. L. 98–164, set out above, is contained in section 101(a) [title III, §303] of Pub. L. 100–202, set out as a Permanent Appropriation for Delegation Expenses note under section 276e of this title.]

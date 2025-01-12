@@ -6,11 +6,11 @@ If title II of the Social Security Act [42 U.S.C. 401 et seq.] is amended at any
 
 #### (b) Additional eligible beneficiaries ####
 
-If title II of the Social Security Act [42 U.S.C. 401 et seq.] is amended at any time after December 31, 1974, to provide monthly insurance benefits under that Act to a class of beneficiaries not entitled to such benefits thereunder prior to January 1, 1975, every person who is a member of such class of beneficiaries shall be entitled to annuities under section 231a of this title, in accordance with regulations prescribed by the Board, in an amount equal to the amount of the monthly insurance benefit to which such person would have been entitled under the Social Security Act [42 U.S.C. 301 et seq.] if service as an employee after December 31, 1936, had been included in the term “employment” as defined in that Act.
+If title II of the Social Security Act [42 U.S.C. 401 et seq.] is amended at any time after December 31, 1974, to provide monthly insurance benefits under that Act to a class of beneficiaries not entitled to such benefits thereunder prior to January 1, 1975, every person who is a member of such class of beneficiaries shall be entitled to annuities under section 231a of this title, in accordance with regulations prescribed by the Board, in an amount equal to the amount of the monthly insurance benefit to which such person would have been entitled under the Social Security Act [42 U.S.C. 301 et seq.] if service as an employee after December 31, 1936, had been included in the term "employment" as defined in that Act.
 
 #### (c) Reduced conditions of entitlement; expanded benefits ####
 
-If section 226 [42 U.S.C. 426] or title XVIII [42 U.S.C. 1395 et seq.] of the Social Security Act is amended at any time after December 31, 1974, to reduce the conditions of entitlement to, or to expand the nature of, the benefits payable thereunder, or if health care benefits in addition to, or in lieu of, the benefits payable under such section 226 or such title XVIII are provided by any provision of law which becomes effective at any time after December 31, 1974, such reductions in the conditions of entitlement to benefits, such expanded benefits, or such additional, or substituted, health care benefits shall be available to every employee (as defined in this subchapter), and those deriving from him, in the same manner, and to the same extent, as if his service as an employee after December 31, 1936, had been included in the term “employment” as defined in the Social Security Act [42 U.S.C. 301 et seq.]. The Board shall have the same authority, in accordance with regulations prescribed by it, to determine the rights of employees who will have completed ten years of service (or five or more years of service, all of which accrues after December 31, 1995), and of those deriving from such employees, to benefits provided by reason of the provisions of this subsection as the Secretary of Health and Human Services has with respect to individuals insured under the Social Security Act.
+If section 226 [42 U.S.C. 426] or title XVIII [42 U.S.C. 1395 et seq.] of the Social Security Act is amended at any time after December 31, 1974, to reduce the conditions of entitlement to, or to expand the nature of, the benefits payable thereunder, or if health care benefits in addition to, or in lieu of, the benefits payable under such section 226 or such title XVIII are provided by any provision of law which becomes effective at any time after December 31, 1974, such reductions in the conditions of entitlement to benefits, such expanded benefits, or such additional, or substituted, health care benefits shall be available to every employee (as defined in this subchapter), and those deriving from him, in the same manner, and to the same extent, as if his service as an employee after December 31, 1936, had been included in the term "employment" as defined in the Social Security Act [42 U.S.C. 301 et seq.]. The Board shall have the same authority, in accordance with regulations prescribed by it, to determine the rights of employees who will have completed ten years of service (or five or more years of service, all of which accrues after December 31, 1995), and of those deriving from such employees, to benefits provided by reason of the provisions of this subsection as the Secretary of Health and Human Services has with respect to individuals insured under the Social Security Act.
 
 #### (d) Limitations ####
 
@@ -34,13 +34,13 @@ Sections 204(a)(3), 204(a)(4), 206(3), 207(3) of title II of this Act, referred 
 
 #### Amendments ####
 
-**2001**—Subsec. (c). Pub. L. 107–90, §103(h)(1), inserted “(or five or more years of service, all of which accrues after December 31, 1995)” after “ten years of service”.
+**2001**—Subsec. (c). Pub. L. 107–90, §103(h)(1), inserted "(or five or more years of service, all of which accrues after December 31, 1995)" after "ten years of service".
 
-Subsec. (d)(2). Pub. L. 107–90, §103(h)(2), inserted “(or five or more years of service, all of which accrues after December 31, 1995)” after “ten years of service”.
+Subsec. (d)(2). Pub. L. 107–90, §103(h)(2), inserted "(or five or more years of service, all of which accrues after December 31, 1995)" after "ten years of service".
 
 #### Change of Name ####
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (c) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (c) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 2001 Amendment ####
 

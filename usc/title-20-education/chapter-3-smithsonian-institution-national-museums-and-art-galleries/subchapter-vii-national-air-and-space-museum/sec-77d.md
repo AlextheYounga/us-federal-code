@@ -10,8 +10,8 @@ Section consists of subsec. (a) of section 5 of act Aug. 12, 1946. Subsec. (b) o
 
 #### Amendments ####
 
-**1966**—Pub. L. 89–509 inserted “and independent agencies” after “departments”, “and space” after “national air”, “spacecraft,” after “aircraft,”, “and spacecraft” after “aircraft” in phrase “aircraft parts”, and “and space flight” after “aeronautical”.
+**1966**—Pub. L. 89–509 inserted "and independent agencies" after "departments", "and space" after "national air", "spacecraft," after "aircraft,", "and spacecraft" after "aircraft" in phrase "aircraft parts", and "and space flight" after "aeronautical".
 
 #### Acceptance of Statue of General Mitchell ####
 
-Act Aug. 12, 1946, ch. 955, §5(b), 60 Stat. 998, as amended by Pub. L. 89–509, pt. I, §9, July 19, 1966, 80 Stat. 311, provided that: “The Secretary of the Smithsonian Institution, with the advice of the Commission of Fine Arts, is authorized (1) to accept as a gift to the Smithsonian Institution from George H. Stephenson, of Philadelphia, Pennsylvania, a statue of Brigadier General William L. Mitchell of such character as may be deemed appropriate, and (2) without expense to the United States, to cause such statue to be erected at a suitable location on the grounds of the national air and space museum.”
+Act Aug. 12, 1946, ch. 955, §5(b), 60 Stat. 998, as amended by Pub. L. 89–509, pt. I, §9, July 19, 1966, 80 Stat. 311, provided that: "The Secretary of the Smithsonian Institution, with the advice of the Commission of Fine Arts, is authorized (1) to accept as a gift to the Smithsonian Institution from George H. Stephenson, of Philadelphia, Pennsylvania, a statue of Brigadier General William L. Mitchell of such character as may be deemed appropriate, and (2) without expense to the United States, to cause such statue to be erected at a suitable location on the grounds of the national air and space museum."

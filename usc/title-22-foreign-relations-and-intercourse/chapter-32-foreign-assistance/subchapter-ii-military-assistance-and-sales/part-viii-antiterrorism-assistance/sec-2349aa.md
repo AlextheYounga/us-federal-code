@@ -10,11 +10,11 @@ Section 571 of Pub. L. 87–195 is based on section 201 of title II of H.R. 2992
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–164 substituted “Notwithstanding any other provision of law that restricts assistance to foreign countries (other than sections 2304 and 2371 of this title)” for “Subject to the provisions of this part”.
+**1996**—Pub. L. 104–164 substituted "Notwithstanding any other provision of law that restricts assistance to foreign countries (other than sections 2304 and 2371 of this title)" for "Subject to the provisions of this part".
 
 #### Effective Date ####
 
-Section 203 of title II of H.R. 2992, as enacted into permanent law by Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972, provided that: “This title [enacting this part and amending sections 2304 and 2403 of this title] shall take effect on the date of enactment of this Act [Nov. 14, 1983].”
+Section 203 of title II of H.R. 2992, as enacted into permanent law by Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972, provided that: "This title [enacting this part and amending sections 2304 and 2403 of this title] shall take effect on the date of enactment of this Act [Nov. 14, 1983]."
 
 #### Delegation of Functions ####
 

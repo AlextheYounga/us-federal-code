@@ -36,7 +36,7 @@ Sell at fair market value without regard to the requirements of chapters 1 to 11
 
 (1) to the extent determined necessary, to acquire and preposition necessary and adequate emergency response equipment to prevent harm or the threat of harm to aquatic park resources from permittees; and
 
-(2) to conduct investigations to quantify any effect of permittees’ activity on wildlife and other natural resource values of Glacier Bay National Park. The investigations provided for in this subsection shall be designed to provide information of value to the Secretary, in determining any appropriate limitations on permittees’ activity in Glacier Bay. The Secretary may not impose any additional permittee operating conditions in the areas of air, water, and oil pollution beyond those determined and enforced by other appropriate agencies. When competitively awarding permits to enter Glacier Bay, the Secretary may take into account the relative impact particular permittees will have on park values and resources, provided that no operating conditions or limitations relating to noise abatement shall be imposed unless the Secretary determines, based on the weight of the evidence from all available studies including verifiable scientific information from the investigations provided for in this subsection, that such limitations or conditions are necessary to protect park values and resources. Fees paid by certain permittees for the privilege of entering into Glacier Bay shall not exceed $5 per passenger. For the purposes of this subsection, “certain permittee” shall mean a permittee which provides overnight accommodations for at least 500 passengers for an itinerary of at least 3 nights, and “permittee” shall mean a concessionaire providing visitor services within Glacier Bay. Nothing in this subsection authorizes the Secretary to require additional categories of permits in, or otherwise increase the number of permits to enter Glacier Bay National Park.
+(2) to conduct investigations to quantify any effect of permittees' activity on wildlife and other natural resource values of Glacier Bay National Park. The investigations provided for in this subsection shall be designed to provide information of value to the Secretary, in determining any appropriate limitations on permittees' activity in Glacier Bay. The Secretary may not impose any additional permittee operating conditions in the areas of air, water, and oil pollution beyond those determined and enforced by other appropriate agencies. When competitively awarding permits to enter Glacier Bay, the Secretary may take into account the relative impact particular permittees will have on park values and resources, provided that no operating conditions or limitations relating to noise abatement shall be imposed unless the Secretary determines, based on the weight of the evidence from all available studies including verifiable scientific information from the investigations provided for in this subsection, that such limitations or conditions are necessary to protect park values and resources. Fees paid by certain permittees for the privilege of entering into Glacier Bay shall not exceed $5 per passenger. For the purposes of this subsection, "certain permittee" shall mean a permittee which provides overnight accommodations for at least 500 passengers for an itinerary of at least 3 nights, and "permittee" shall mean a concessionaire providing visitor services within Glacier Bay. Nothing in this subsection authorizes the Secretary to require additional categories of permits in, or otherwise increase the number of permits to enter Glacier Bay National Park.
 
 #### (h) Regulations; promulgation and enforcement ####
 
@@ -128,31 +128,31 @@ An assignment arranged by the Secretary under section 3372 of title 5 of a Feder
 
 #### References in Text ####
 
-This Act, referred to in subsec. (k)(5)(C), means Pub. L. 91–383, Aug. 18, 1970, 84 Stat. 825, as amended, known as the “National Park System General Authorities Act”. As originally enacted, Pub. L. 91–383 contained sections 1 to 4, the first 3 of which enacted sections 1a–1 and 1a–2 and amended sections 1b and 1c of this title. Pub. L. 94–458 amended Pub. L. 91–383 by adding sections 5 to 12, which enacted sections 1a–3 to 1a–7, amended sections 17j, 460n–5, 463, 470a, and 559, and repealed sections 10, 10a, 17b–1, and 415 of this title. Pub. L. 103–322 amended Pub. L. 91–383 by adding section 13, which enacted section 1a–7a of this title. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under section 1 of this title and Tables.
+This Act, referred to in subsec. (k)(5)(C), means Pub. L. 91–383, Aug. 18, 1970, 84 Stat. 825, as amended, known as the "National Park System General Authorities Act". As originally enacted, Pub. L. 91–383 contained sections 1 to 4, the first 3 of which enacted sections 1a–1 and 1a–2 and amended sections 1b and 1c of this title. Pub. L. 94–458 amended Pub. L. 91–383 by adding sections 5 to 12, which enacted sections 1a–3 to 1a–7, amended sections 17j, 460n–5, 463, 470a, and 559, and repealed sections 10, 10a, 17b–1, and 415 of this title. Pub. L. 103–322 amended Pub. L. 91–383 by adding section 13, which enacted section 1a–7a of this title. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under section 1 of this title and Tables.
 
 #### Codification ####
 
-In subsec. (c), “section 5703 of title 5” substituted for “section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 5703)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (c), "section 5703 of title 5" substituted for "section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 5703)" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-In subsec. (g), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended,” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (g), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949, as amended," on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-“Section 1302 of title 40” substituted in subsec. (k)(4)(A)(ii) for “section 321 of the Act of June 30, 1932 (47 Stat. 412, chapter 314; 40 U.S.C. 303b)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Section 1302 of title 40" substituted in subsec. (k)(4)(A)(ii) for "section 321 of the Act of June 30, 1932 (47 Stat. 412, chapter 314; 40 U.S.C. 303b)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments ####
 
 **2000**—Subsecs. (a) to (f). Pub. L. 106–176, §118(2), (3), capitalized the first letter of the first word and substituted a period for the semicolon at end.
 
-Subsec. (g). Pub. L. 106–176, §118(1), (2), in introductory provisions, capitalized the first letter of the first word and substituted a period for the semicolon after “such exhibits and demonstrations”.
+Subsec. (g). Pub. L. 106–176, §118(1), (2), in introductory provisions, capitalized the first letter of the first word and substituted a period for the semicolon after "such exhibits and demonstrations".
 
 Subsec. (h). Pub. L. 106–176, §118(2), (3), capitalized the first letter of the first word and substituted a period for the semicolon at end.
 
-Subsec. (i). Pub. L. 106–176, §118(2), (4), capitalized the first letter of the first word and substituted a period for “; and” at end.
+Subsec. (i). Pub. L. 106–176, §118(2), (4), capitalized the first letter of the first word and substituted a period for "; and" at end.
 
 Subsec. (j). Pub. L. 106–176, §118(5), realigned margins.
 
 **1998**—Subsecs. (k), (l). Pub. L. 105–391 added subsecs. (k) and (l).
 
-**1996**—Subsec. (g). Pub. L. 104–333, §703, inserted provisions relating to Glacier Bay and substituted “interpretive demonstrations” for “interpretive demonstrations and park programs”.
+**1996**—Subsec. (g). Pub. L. 104–333, §703, inserted provisions relating to Glacier Bay and substituted "interpretive demonstrations" for "interpretive demonstrations and park programs".
 
 Subsec. (j). Pub. L. 104–333, §818, added subsec. (j).
 

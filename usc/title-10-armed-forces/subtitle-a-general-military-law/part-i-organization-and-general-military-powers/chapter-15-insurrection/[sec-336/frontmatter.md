@@ -1,6 +1,6 @@
 ### [§336. Repealed. Pub. L. 96–513, title V, §511(11)(B), Dec. 12, 1980, 94 Stat. 2921] ###
 
-Section, added Pub. L. 90–496, §12, Aug. 23, 1968, 82 Stat. 841, included Virgin Islands within “State”. See section 335 of this title.
+Section, added Pub. L. 90–496, §12, Aug. 23, 1968, 82 Stat. 841, included Virgin Islands within "State". See section 335 of this title.
 
 #### Effective Date of Repeal ####
 

@@ -4,7 +4,7 @@
 
 #### (1) Appointment ####
 
-The Board of Directors of the Corporation (referred to in this chapter as the “Board”) shall be composed of 9 members appointed by the President by and with the advice and consent of the Senate, at least 7 of whom shall be a legal resident of the service area of the Corporation.
+The Board of Directors of the Corporation (referred to in this chapter as the "Board") shall be composed of 9 members appointed by the President by and with the advice and consent of the Senate, at least 7 of whom shall be a legal resident of the service area of the Corporation.
 
 #### (2) Chairman ####
 
@@ -182,39 +182,39 @@ A prior section, act May 18, 1933, ch. 32, §2, 48 Stat. 59, related to the Dire
 
 #### Amendments ####
 
-**2007**—Subsec. (f)(2). Pub. L. 110–161 substituted “stipends under paragraph (1)(A)” for “stipend under paragraph (1)(A)(i)”.
+**2007**—Subsec. (f)(2). Pub. L. 110–161 substituted "stipends under paragraph (1)(A)" for "stipend under paragraph (1)(A)(i)".
 
 #### Appointments; Effective Date; Transition ####
 
 Pub. L. 108–447, div. C, title VI, §604, Dec. 8, 2004, 118 Stat. 2967, provided that:
 
-“(a) Appointments.—
+"(a) Appointments.—
 
-“(1) In general.—As soon as practicable after the date of enactment of this Act [Dec. 8, 2004], the President shall submit to the Senate nominations of six persons to serve as members of the Board of Directors of the Tennessee Valley Authority in addition to the members serving on the date of enactment of this Act.
+"(1) In general.—As soon as practicable after the date of enactment of this Act [Dec. 8, 2004], the President shall submit to the Senate nominations of six persons to serve as members of the Board of Directors of the Tennessee Valley Authority in addition to the members serving on the date of enactment of this Act.
 
-“(2) Initial terms.—Notwithstanding section 2(d) of the Tennessee Valley Authority Act of 1933 [16 U.S.C. 831a(d)] (as amended by this title), in making the appointments under paragraph (1), the President shall appoint—
+"(2) Initial terms.—Notwithstanding section 2(d) of the Tennessee Valley Authority Act of 1933 [16 U.S.C. 831a(d)] (as amended by this title), in making the appointments under paragraph (1), the President shall appoint—
 
-“(A) two members for a term to expire on May 18, 2007;
+"(A) two members for a term to expire on May 18, 2007;
 
-“(B) two members for a term to expire on May 18, 2009; and
+"(B) two members for a term to expire on May 18, 2009; and
 
-“(C) two members for a term to expire on May 18, 2011.
+"(C) two members for a term to expire on May 18, 2011.
 
-“(b) Effective Date.—The amendments made by this title [enacting this section, amending sections 831, 831b, 831c, 831c–3, 831d, 831e, 831g, 831h, 831k, 831l, 831n, 831o, 831q, and 831w of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees, and repealing prior section 831a of this title] take effect on the later of—
+"(b) Effective Date.—The amendments made by this title [enacting this section, amending sections 831, 831b, 831c, 831c–3, 831d, 831e, 831g, 831h, 831k, 831l, 831n, 831o, 831q, and 831w of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees, and repealing prior section 831a of this title] take effect on the later of—
 
-“(1) the date on which at least three persons nominated under subsection (a) take office; or
+"(1) the date on which at least three persons nominated under subsection (a) take office; or
 
-“(2) May 18, 2005.
+"(2) May 18, 2005.
 
-“(c) Selection of Chairman.—The Board of Directors of the Tennessee Valley Authority shall select one of the members to act as chairman of the Board not later than 30 days after the effective date specified in subsection (b).
+"(c) Selection of Chairman.—The Board of Directors of the Tennessee Valley Authority shall select one of the members to act as chairman of the Board not later than 30 days after the effective date specified in subsection (b).
 
-“(d) Conflict-of-Interest Policy.—The Board of Directors of the Tennessee Valley Authority shall adopt and submit to Congress a conflict-of-interest policy, as required by section 2(g)(1)(E) of the Tennessee Valley Authority Act of 1933 [16 U.S.C. 831a(g)(1)(E)] (as amended by this title), as soon as practicable after the effective date specified in subsection (b).
+"(d) Conflict-of-Interest Policy.—The Board of Directors of the Tennessee Valley Authority shall adopt and submit to Congress a conflict-of-interest policy, as required by section 2(g)(1)(E) of the Tennessee Valley Authority Act of 1933 [16 U.S.C. 831a(g)(1)(E)] (as amended by this title), as soon as practicable after the effective date specified in subsection (b).
 
-“(e) Transition.—A person who is serving as a member of the board of directors of the Tennessee Valley Authority on the date of enactment of this Act [Dec. 8, 2004]—
+"(e) Transition.—A person who is serving as a member of the board of directors of the Tennessee Valley Authority on the date of enactment of this Act [Dec. 8, 2004]—
 
-“(1) shall continue to serve until the end of the current term of the member; but
+"(1) shall continue to serve until the end of the current term of the member; but
 
-“(2) after the effective date specified in subsection (b), shall serve under the terms of the Tennessee Valley Authority Act of 1933 [16 U.S.C. 831 et seq.] (as amended by this title).”
+"(2) after the effective date specified in subsection (b), shall serve under the terms of the Tennessee Valley Authority Act of 1933 [16 U.S.C. 831 et seq.] (as amended by this title)."
 
 #### Emergency Preparedness Functions ####
 

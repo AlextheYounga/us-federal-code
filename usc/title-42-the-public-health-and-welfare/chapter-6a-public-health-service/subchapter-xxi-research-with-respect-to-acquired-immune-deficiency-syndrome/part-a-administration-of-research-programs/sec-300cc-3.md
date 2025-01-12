@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-After consultation with the Commissioner of Food and Drugs, the Secretary, acting through the Director of the National Institute of Allergy and Infectious Diseases, shall establish within such Institute an advisory committee to be known as the AIDS Research Advisory Committee (hereafter in this section referred to as the “Committee”).
+After consultation with the Commissioner of Food and Drugs, the Secretary, acting through the Director of the National Institute of Allergy and Infectious Diseases, shall establish within such Institute an advisory committee to be known as the AIDS Research Advisory Committee (hereafter in this section referred to as the "Committee").
 
 #### (b) Composition ####
 
@@ -42,11 +42,11 @@ Prior sections 300cc–5 to 300cc–10, act July 1, 1944, §§2306 to 2311, resp
 
 #### Amendments ####
 
-**1993**—Pub. L. 103–43, §2008(d)(1)(A), substituted “Research Advisory Committee” for “Clinical Research Review Committee” in section catchline.
+**1993**—Pub. L. 103–43, §2008(d)(1)(A), substituted "Research Advisory Committee" for "Clinical Research Review Committee" in section catchline.
 
-Subsec. (a). Pub. L. 103–43, §2008(d)(1)(B), substituted “AIDS Research Advisory Committee” for “AIDS Clinical Research Review Committee”.
+Subsec. (a). Pub. L. 103–43, §2008(d)(1)(B), substituted "AIDS Research Advisory Committee" for "AIDS Clinical Research Review Committee".
 
-Subsec. (c)(1). Pub. L. 103–43, §1811(1), in introductory provisions inserted “(and may provide advice to the Directors of other agencies of the National Institutes of Health, as appropriate)” after “Director of such Institute” and in subpar. (A) inserted before semicolon at end “, including recommendations on the projects of research with respect to diagnosing immune deficiency and with respect to predicting, diagnosing, preventing, and treating opportunistic cancers and infectious diseases”.
+Subsec. (c)(1). Pub. L. 103–43, §1811(1), in introductory provisions inserted "(and may provide advice to the Directors of other agencies of the National Institutes of Health, as appropriate)" after "Director of such Institute" and in subpar. (A) inserted before semicolon at end ", including recommendations on the projects of research with respect to diagnosing immune deficiency and with respect to predicting, diagnosing, preventing, and treating opportunistic cancers and infectious diseases".
 
 **1988**—Subsec. (c)(2)(B). Pub. L. 100–690 substituted semicolon for period.
 

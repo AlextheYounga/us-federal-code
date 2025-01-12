@@ -40,7 +40,7 @@ Section 562l, act July 15, 1947, ch. 250, 61 Stat. 326, authorized and empowered
 
 Section 562m, act Oct. 26, 1949, ch. 754, §§1–3, 63 Stat. 926, authorized and empowered Territory to issue public improvement bonds during 1949–1955, and provided for their maturity and issuance without presidential approval.
 
-Section 562n, acts Aug. 24, 1954, ch. 889, §§1–3, 68 Stat. 782; July 14, 1956, ch. 606, §1, 70 Stat. 552; Aug. 20, 1958, Pub. L. 85–691, §1, 72 Stat. 685, empowered legislature to authorize issuance of general obligation bonds for veterans’ mortgages and provided for their limitation, maturity, and ratification.
+Section 562n, acts Aug. 24, 1954, ch. 889, §§1–3, 68 Stat. 782; July 14, 1956, ch. 606, §1, 70 Stat. 552; Aug. 20, 1958, Pub. L. 85–691, §1, 72 Stat. 685, empowered legislature to authorize issuance of general obligation bonds for veterans' mortgages and provided for their limitation, maturity, and ratification.
 
 Section 562o, acts Aug. 24, 1954, ch. 892, §§1, 3, 4, 68 Stat. 785; July 14, 1956, ch. 606, §2, 70 Stat. 552; Aug. 20, 1958, Pub. L. 85–691, §2, 72 Stat. 685, ratified and confirmed issuance of public improvement bonds issued during 1954 to 1959 and limited maturity date of such bonds.
 
@@ -56,9 +56,9 @@ Section 562t, act July 14, 1956, ch. 602, §2, 70 Stat. 545, set out certain req
 
 Section 562u, act July 14, 1956, ch. 602, §3, 70 Stat. 545, allowed application of federal-aid highway funds to aid in retirement of highway bonds.
 
-Section 562v, act July 14, 1956, ch. 602, §4, 70 Stat. 545, defined “highway fuel taxes” as used in sections 562s–562v.
+Section 562v, act July 14, 1956, ch. 602, §4, 70 Stat. 545, defined "highway fuel taxes" as used in sections 562s–562v.
 
-Section 562w, Pub. L. 85–534, §2, July 18, 1958, 72 Stat. 379, authorized Territory to issue aviation revenue bonds, set out requirements and limitations thereof, allowed for retirement thereof with Federal funds, and defined “aviation fuel taxes”.
+Section 562w, Pub. L. 85–534, §2, July 18, 1958, 72 Stat. 379, authorized Territory to issue aviation revenue bonds, set out requirements and limitations thereof, allowed for retirement thereof with Federal funds, and defined "aviation fuel taxes".
 
 Section 563, acts Apr. 30, 1900, ch. 339, §56, 31 Stat. 151; Mar. 3, 1905, ch. 1465, §1, 33 Stat. 1035, empowered legislature to create town and city municipalities and provide for government thereof.
 

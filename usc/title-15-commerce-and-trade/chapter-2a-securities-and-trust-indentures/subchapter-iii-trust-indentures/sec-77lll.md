@@ -1,4 +1,4 @@
-### §77*lll*. Bondholders’ lists ###
+### §77*lll*. Bondholders' lists ###
 
 #### (a) Periodic filing of information by obligor with trustee ####
 
@@ -22,9 +22,9 @@ The disclosure of any such information as to the names and addresses of the inde
 
 #### Amendments ####
 
-**1990**—Subsec. (a). Pub. L. 101–550, §410(1), (2), substituted “Each obligor” for “The indenture to be qualified shall contain provisions requiring each obligor” and “indenture securities shall” for “indenture securities to”.
+**1990**—Subsec. (a). Pub. L. 101–550, §410(1), (2), substituted "Each obligor" for "The indenture to be qualified shall contain provisions requiring each obligor" and "indenture securities shall" for "indenture securities to".
 
-Subsec. (b). Pub. L. 101–550, §410(3), substituted “Within” for “The indenture to be qualified shall also contain provisions requiring that, within”.
+Subsec. (b). Pub. L. 101–550, §410(3), substituted "Within" for "The indenture to be qualified shall also contain provisions requiring that, within".
 
 #### Transfer of Functions ####
 

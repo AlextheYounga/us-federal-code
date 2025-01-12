@@ -22,8 +22,8 @@ The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pu
 
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-#### “Secretary” Defined ####
+#### "Secretary" Defined ####
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under section 2201 of this title.
 
-[<sup>1</sup> So in original. Probably should be “permitted”.](#59bb_1)
+[<sup>1</sup> So in original. Probably should be "permitted".](#59bb_1)

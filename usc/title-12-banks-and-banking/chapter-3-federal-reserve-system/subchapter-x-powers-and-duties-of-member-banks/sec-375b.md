@@ -40,7 +40,7 @@ A member bank may extend credit to any executive officer, director, or principal
 
 #### (A) In general ####
 
-A member bank may extend credit to any executive officer, director, or principal shareholder, or to any related interest of such a person, if the extension of credit is in an amount that, when aggregated with the amount of all outstanding extensions of credit by that bank to its executive officers, directors, principal shareholders, and those persons’ related interests would not exceed the bank's unimpaired capital and unimpaired surplus.
+A member bank may extend credit to any executive officer, director, or principal shareholder, or to any related interest of such a person, if the extension of credit is in an amount that, when aggregated with the amount of all outstanding extensions of credit by that bank to its executive officers, directors, principal shareholders, and those persons' related interests would not exceed the bank's unimpaired capital and unimpaired surplus.
 
 #### (B) More stringent limit authorized ####
 
@@ -48,7 +48,7 @@ The Board may, by regulation, prescribe a limit that is more stringent than that
 
 #### (C) Board may make exceptions for certain banks ####
 
-The Board may, by regulation, make exceptions to subparagraph (A) for member banks with less than $100,000,000 in deposits if the Board determines that the exceptions are important to avoid constricting the availability of credit in small communities or to attract directors to such banks. In no case may the aggregate amount of all outstanding extensions of credit to a bank's executive officers, directors, principal shareholders, and those persons’ related interests be more than 2 times the bank's unimpaired capital and unimpaired surplus.
+The Board may, by regulation, make exceptions to subparagraph (A) for member banks with less than $100,000,000 in deposits if the Board determines that the exceptions are important to avoid constricting the availability of credit in small communities or to attract directors to such banks. In no case may the aggregate amount of all outstanding extensions of credit to a bank's executive officers, directors, principal shareholders, and those persons' related interests be more than 2 times the bank's unimpaired capital and unimpaired surplus.
 
 #### (6) Overdrafts by executive officers and directors prohibited ####
 
@@ -90,11 +90,11 @@ For purposes of this section:
 
 #### (i) In general ####
 
-Except as provided in clause (ii), the term “company” means any corporation, partnership, business or other trust, association, joint venture, pool syndicate, sole proprietorship, unincorporated organization, or other business entity.
+Except as provided in clause (ii), the term "company" means any corporation, partnership, business or other trust, association, joint venture, pool syndicate, sole proprietorship, unincorporated organization, or other business entity.
 
 #### (ii) Exceptions ####
 
-The term “company” does not include—
+The term "company" does not include—
 
 (I) an insured depository institution (as defined in section 1813 of this title); or
 
@@ -112,7 +112,7 @@ A person controls a company or bank if that person, directly or indirectly, or a
 
 #### (C) Executive officer ####
 
-A person is an “executive officer” of a company or bank if that person participates or has authority to participate (other than as a director) in major policymaking functions of the company or bank.
+A person is an "executive officer" of a company or bank if that person participates or has authority to participate (other than as a director) in major policymaking functions of the company or bank.
 
 #### (D) Extension of credit ####
 
@@ -130,11 +130,11 @@ The Board may, by regulation, make exceptions to clause (i) for transactions tha
 
 #### (E) Member bank ####
 
-The term “member bank” includes any subsidiary of a member bank.
+The term "member bank" includes any subsidiary of a member bank.
 
 #### (F) Principal shareholder ####
 
-The term “principal shareholder”—
+The term "principal shareholder"—
 
 (i) means any person that directly or indirectly, or acting through or in concert with one or more persons, owns, controls, or has the power to vote more than 10 percent of any class of voting securities of a member bank or company; and
 
@@ -142,7 +142,7 @@ The term “principal shareholder”—
 
 #### (G) Related interest ####
 
-A “related interest” of a person is—
+A "related interest" of a person is—
 
 (i) any company controlled by that person; and
 
@@ -150,7 +150,7 @@ A “related interest” of a person is—
 
 #### (H) Subsidiary ####
 
-The term “subsidiary” has the same meaning as in section 1841 of this title.
+The term "subsidiary" has the same meaning as in section 1841 of this title.
 
 #### (10) Board's rulemaking authority ####
 
@@ -164,7 +164,7 @@ A prior section 22(h) of act Dec. 23, 1913, ch. 6, as added June 19, 1934, ch. 6
 
 #### Amendments ####
 
-**2010**—Subsec. (9)(D)(i). Pub. L. 111–203 substituted “extends credit to a person by—” for “extends credit by making”, inserted “(I) making” before “or renewing”, substituted “which the person” for “which a person” and “the bank; or” for “the bank.”, and added subcl. (II).
+**2010**—Subsec. (9)(D)(i). Pub. L. 111–203 substituted "extends credit to a person by—" for "extends credit by making", inserted "(I) making" before "or renewing", substituted "which the person" for "which a person" and "the bank; or" for "the bank.", and added subcl. (II).
 
 **1996**—Par. (2)(A). Pub. L. 104–208, §2211(a)(1), (2), designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and adjusted margins.
 
@@ -172,43 +172,43 @@ Par. (2)(B). Pub. L. 104–208, §2211(a)(3), added subpar. (B). Former subpar. 
 
 Par. (2)(C). Pub. L. 104–208, §2211(a)(1), redesignated subpar. (C) as cl. (iii) of subpar. (A).
 
-Par. (8)(B). Pub. L. 104–208, §2211(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The Board may, by regulation, make exceptions to subparagraph (A), except as that subparagraph makes applicable paragraph (2), for an executive officer or director of a subsidiary of a company that controls the member bank, if that executive officer or director does not have authority to participate, and does not participate, in major policymaking functions of the member bank.”
+Par. (8)(B). Pub. L. 104–208, §2211(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: "The Board may, by regulation, make exceptions to subparagraph (A), except as that subparagraph makes applicable paragraph (2), for an executive officer or director of a subsidiary of a company that controls the member bank, if that executive officer or director does not have authority to participate, and does not participate, in major policymaking functions of the member bank."
 
 **1994**—Par. (8). Pub. L. 103–325 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-**1992**—Par. (6)(B)(i). Pub. L. 102–550, §1605(a)(10), substituted “or” for “and” at end.
+**1992**—Par. (6)(B)(i). Pub. L. 102–550, §1605(a)(10), substituted "or" for "and" at end.
 
 Par. (9)(D). Pub. L. 102–550, §955(a), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
-Par. (9)(F). Pub. L. 102–550, §955(b), designated portion of existing provisions as cl. (i), realigned margin, substituted “; and” for period at end, and added cl. (ii).
+Par. (9)(F). Pub. L. 102–550, §955(b), designated portion of existing provisions as cl. (i), realigned margin, substituted "; and" for period at end, and added cl. (ii).
 
 **1991**—Pub. L. 102–242, §306(a), amended section generally, substituting provisions relating to extensions of credit to executive officers, directors, and principal shareholders of member banks for provisions relating to prohibitions respecting loans and extensions of credit to executive officers and directors of banks, political or campaign committees, etc.
 
-Par. (1). Pub. L. 102–242, §306(d)(2), inserted “(5),” after “(4),”.
+Par. (1). Pub. L. 102–242, §306(d)(2), inserted "(5)," after "(4),".
 
 Par. (2)(C). Pub. L. 102–242, §306(b), added subpar. (C).
 
-Par. (4). Pub. L. 102–242, §306(c), inserted “, director,” after “executive officer” in heading and text.
+Par. (4). Pub. L. 102–242, §306(c), inserted ", director," after "executive officer" in heading and text.
 
 Par. (5). Pub. L. 102–242, §306(d)(1), added par. (5).
 
 Par. (7). Pub. L. 102–242, §306(e), added par. (7).
 
-Par. (8). Pub. L. 102–242, §306(f), struck out “bank holding” before “company of which the member”.
+Par. (8). Pub. L. 102–242, §306(f), struck out "bank holding" before "company of which the member".
 
 Par. (9)(E). Pub. L. 102–242, §306(g), added subpar. (E).
 
-Par. (9)(F). Pub. L. 102–242, §306(h), struck out last sentence of subpar. (F) which read as follows: “For purposes of paragraph (4), if a member bank has its main banking office in a city, town, or village with a population of less than 30,000, the preceding sentence shall apply with ‘18 percent’ substituted for ‘10 percent’.”
+Par. (9)(F). Pub. L. 102–242, §306(h), struck out last sentence of subpar. (F) which read as follows: "For purposes of paragraph (4), if a member bank has its main banking office in a city, town, or village with a population of less than 30,000, the preceding sentence shall apply with '18 percent' substituted for '10 percent'."
 
-**1982**—Par. (2). Pub. L. 97–320, §422, substituted “an amount prescribed in a regulation of the appropriate Federal banking agency” for “$25,000”.
+**1982**—Par. (2). Pub. L. 97–320, §422, substituted "an amount prescribed in a regulation of the appropriate Federal banking agency" for "$25,000".
 
-Par. (6)(C) to (F). Pub. L. 97–320, §410(e), redesignated subpars. (D) to (G) as (C) to (F), respectively. Former subpar. (C), relating to definition of term “extension of credit”, was struck out.
+Par. (6)(C) to (F). Pub. L. 97–320, §410(e), redesignated subpars. (D) to (G) as (C) to (F), respectively. Former subpar. (C), relating to definition of term "extension of credit", was struck out.
 
 #### Effective Date of 2010 Amendment ####
 
-Pub. L. 111–203, title VI, §614(b), July 21, 2010, 124 Stat. 1614, provided that: “The amendments made by this section [amending this section] shall take effect 1 year after the transfer date.”
+Pub. L. 111–203, title VI, §614(b), July 21, 2010, 124 Stat. 1614, provided that: "The amendments made by this section [amending this section] shall take effect 1 year after the transfer date."
 
-[For definition of “transfer date” as used in section 614(b) of Pub. L. 111–203, set out above, see section 5301 of this title.]
+[For definition of "transfer date" as used in section 614(b) of Pub. L. 111–203, set out above, see section 5301 of this title.]
 
 #### Effective Date of 1992 Amendment ####
 
@@ -216,28 +216,28 @@ Amendment by section 1605(a)(10) of Pub. L. 102–550 effective as if included i
 
 #### Effective Date of 1991 Amendment ####
 
-Pub. L. 102–242, title III, §306(l), Dec. 19, 1991, 105 Stat. 2360, provided that: “The amendments made by this section [amending this section and sections 1468, 1828, and 1972 of this title] shall become effective upon the earlier of—
+Pub. L. 102–242, title III, §306(l), Dec. 19, 1991, 105 Stat. 2360, provided that: "The amendments made by this section [amending this section and sections 1468, 1828, and 1972 of this title] shall become effective upon the earlier of—
 
-“(1) the date on which final regulations under subsection (m)(1) [set out below] become effective [May 18, 1992, see 57 F.R. 22417]; or
+"(1) the date on which final regulations under subsection (m)(1) [set out below] become effective [May 18, 1992, see 57 F.R. 22417]; or
 
-“(2) 150 days after the date of enactment of this Act [Dec. 19, 1991].”
+"(2) 150 days after the date of enactment of this Act [Dec. 19, 1991]."
 
 #### Effective Date ####
 
-Pub. L. 95–630, title XXI, §2101, Nov. 10, 1978, 92 Stat. 3741, provided that: “Except as otherwise provided herein, this Act [see Short Title of 1978 Amendment note set out under section 226 of this title] shall take effect upon the expiration of one hundred and twenty days after the date of its enactment [Nov. 10, 1978].”
+Pub. L. 95–630, title XXI, §2101, Nov. 10, 1978, 92 Stat. 3741, provided that: "Except as otherwise provided herein, this Act [see Short Title of 1978 Amendment note set out under section 226 of this title] shall take effect upon the expiration of one hundred and twenty days after the date of its enactment [Nov. 10, 1978]."
 
 #### Regulations ####
 
 Pub. L. 102–242, title III, §306(m), Dec. 19, 1991, 105 Stat. 2360, provided that:
 
-“(1) In general.—The Board of Governors of the Federal Reserve System shall, not later than 120 days after the date of enactment of this Act [Dec. 19, 1991], promulgate final regulations to implement the amendments made by this section [amending this section and sections 1468, 1828, and 1972 of this title], other than the amendments made by subsections (i) and (k) [amending sections 1468 and 1828 of this title].
+"(1) In general.—The Board of Governors of the Federal Reserve System shall, not later than 120 days after the date of enactment of this Act [Dec. 19, 1991], promulgate final regulations to implement the amendments made by this section [amending this section and sections 1468, 1828, and 1972 of this title], other than the amendments made by subsections (i) and (k) [amending sections 1468 and 1828 of this title].
 
-“(2) Limiting extensions of credit to executive officers.—The Federal Deposit Insurance Corporation and Director of the Office of Thrift Supervision shall each, not later than 120 days after the date of enactment of this Act, promulgate final regulations prescribing the maximum amount that a nonmember insured bank or insured savings association (as the case may be) may lend under section 22(g)(4) of the Federal Reserve Act [12 U.S.C. 375a(4)], as made applicable to those institutions by subsections (k) and (i), respectively.”
+"(2) Limiting extensions of credit to executive officers.—The Federal Deposit Insurance Corporation and Director of the Office of Thrift Supervision shall each, not later than 120 days after the date of enactment of this Act, promulgate final regulations prescribing the maximum amount that a nonmember insured bank or insured savings association (as the case may be) may lend under section 22(g)(4) of the Federal Reserve Act [12 U.S.C. 375a(4)], as made applicable to those institutions by subsections (k) and (i), respectively."
 
 #### Existing Transactions Not Affected by 1991 Amendments ####
 
-Pub. L. 102–242, title III, §306(n), Dec. 19, 1991, 105 Stat. 2360, provided that: “The amendments made by this section [amending this section and sections 1468, 1828, and 1972 of this title] do not affect the validity of any extension of credit or other transaction lawfully entered into on or before the effective date of those amendments [see Effective Date of 1991 Amendment note above].”
+Pub. L. 102–242, title III, §306(n), Dec. 19, 1991, 105 Stat. 2360, provided that: "The amendments made by this section [amending this section and sections 1468, 1828, and 1972 of this title] do not affect the validity of any extension of credit or other transaction lawfully entered into on or before the effective date of those amendments [see Effective Date of 1991 Amendment note above]."
 
 #### Reporting of Credit by Executive Officers and Directors ####
 
-Pub. L. 102–242, title III, §306(o), Dec. 19, 1991, 105 Stat. 2360, provided that: “An executive officer or director of an insured depository institution, a bank holding company, or a savings and loan holding company, the shares of which are not publicly traded, shall report annually to the board of directors of the institution or holding company the outstanding amount of any credit that was extended to such executive officer or director and that is secured by shares of the institution or holding company.”
+Pub. L. 102–242, title III, §306(o), Dec. 19, 1991, 105 Stat. 2360, provided that: "An executive officer or director of an insured depository institution, a bank holding company, or a savings and loan holding company, the shares of which are not publicly traded, shall report annually to the board of directors of the institution or holding company the outstanding amount of any credit that was extended to such executive officer or director and that is secured by shares of the institution or holding company."

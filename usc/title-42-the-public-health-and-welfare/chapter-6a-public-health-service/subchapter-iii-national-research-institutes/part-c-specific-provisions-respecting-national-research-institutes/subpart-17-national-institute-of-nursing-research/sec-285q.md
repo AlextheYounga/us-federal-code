@@ -1,6 +1,6 @@
 ### §285q. Purpose of Institute ###
 
-The general purpose of the National Institute of Nursing Research (in this subpart referred to as the “Institute”) is the conduct and support of, and dissemination of information respecting, basic and clinical nursing research, training, and other programs in patient care research.
+The general purpose of the National Institute of Nursing Research (in this subpart referred to as the "Institute") is the conduct and support of, and dissemination of information respecting, basic and clinical nursing research, training, and other programs in patient care research.
 
 (July 1, 1944, ch. 373, title IV, §464V, formerly §483, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 867; renumbered §464V and amended Pub. L. 103–43, title XV, §1511(a)(1), (b)(2), June 10, 1993, 107 Stat. 178, 179.)
 
@@ -10,7 +10,7 @@ Section was formerly classified to section 287c of this title prior to renumberi
 
 #### Amendments ####
 
-**1993**—Pub. L. 103–43, §1511(a)(1) substituted “Institute” for “Center” in section catchline and “National Institute of Nursing Research (in this subpart referred to as the ‘Institute’)” for “National Center for Nursing Research (hereafter in this subpart referred to as the ‘Center’)” in text.
+**1993**—Pub. L. 103–43, §1511(a)(1) substituted "Institute" for "Center" in section catchline and "National Institute of Nursing Research (in this subpart referred to as the 'Institute')" for "National Center for Nursing Research (hereafter in this subpart referred to as the 'Center')" in text.
 
 #### Study on Adequacy of Number of Nurses ####
 

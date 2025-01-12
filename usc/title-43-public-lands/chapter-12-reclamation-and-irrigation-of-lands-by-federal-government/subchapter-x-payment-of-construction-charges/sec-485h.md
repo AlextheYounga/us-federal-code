@@ -42,15 +42,15 @@ In connection with any new project, new division of a project, or supplemental w
 
 (9) In this subsection:
 
-(A) Conduit.—The term “conduit” means any Bureau of Reclamation tunnel, canal, pipeline, aqueduct, flume, ditch, or similar manmade water conveyance that is operated for the distribution of water for agricultural, municipal, or industrial consumption and not primarily for the generation of electricity.
+(A) Conduit.—The term "conduit" means any Bureau of Reclamation tunnel, canal, pipeline, aqueduct, flume, ditch, or similar manmade water conveyance that is operated for the distribution of water for agricultural, municipal, or industrial consumption and not primarily for the generation of electricity.
 
-(B) Irrigation district.—The term “irrigation district” means any irrigation, water conservation or conservancy, multicounty water conservation or conservancy district, or any separate public entity composed of two or more such districts and jointly exercising powers of its member districts.
+(B) Irrigation district.—The term "irrigation district" means any irrigation, water conservation or conservancy, multicounty water conservation or conservancy district, or any separate public entity composed of two or more such districts and jointly exercising powers of its member districts.
 
-(C) Reserved conduit.—The term “reserved conduit” means any conduit that is included in project works the care, operation, and maintenance of which has been reserved by the Secretary, through the Commissioner of the Bureau of Reclamation.
+(C) Reserved conduit.—The term "reserved conduit" means any conduit that is included in project works the care, operation, and maintenance of which has been reserved by the Secretary, through the Commissioner of the Bureau of Reclamation.
 
-(D) Transferred conduit.—The term “transferred conduit” means any conduit that is included in project works the care, operation, and maintenance of which has been transferred to a legally organized water users association or irrigation district.
+(D) Transferred conduit.—The term "transferred conduit" means any conduit that is included in project works the care, operation, and maintenance of which has been transferred to a legally organized water users association or irrigation district.
 
-(E) Small conduit hydropower.—The term “small conduit hydropower” means a facility capable of producing 5 megawatts or less of electric capacity.
+(E) Small conduit hydropower.—The term "small conduit hydropower" means a facility capable of producing 5 megawatts or less of electric capacity.
 
 #### (d) Delivery of water for irrigation; repayment contract prerequisites ####
 
@@ -90,7 +90,7 @@ Act of September 21, 1959, referred to in subsec. (d)(1), is Pub. L. 86–308, S
 
 #### Amendments ####
 
-**2013**—Subsec. (c). Pub. L. 113–24 designated existing provisions as par. (1) and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), substituted “respecting the sales of electric power and leases of power privileges shall be an authorization in addition to and alternative to any authority in existing laws related to particular projects, including small conduit hydropower development” for “respecting the terms of sales of electric power and leases of power privileges shall be in addition and alternative to any authority in existing laws relating to particular projects”, and added pars. (2) to (9).
+**2013**—Subsec. (c). Pub. L. 113–24 designated existing provisions as par. (1) and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), substituted "respecting the sales of electric power and leases of power privileges shall be an authorization in addition to and alternative to any authority in existing laws related to particular projects, including small conduit hydropower development" for "respecting the terms of sales of electric power and leases of power privileges shall be in addition and alternative to any authority in existing laws relating to particular projects", and added pars. (2) to (9).
 
 **1982**—Subsec. (f). Pub. L. 97–293 added subsec. (f).
 
@@ -102,24 +102,24 @@ Subsec. (d)(5). Pub. L. 85–611, §3, struck out provisions which required repa
 
 #### Change of Name ####
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
 #### Construction With Section 101–1 of Title 33 ####
 
 Section as amended and modified by act Dec. 22, 1944, ch. 665, §1(c), 58 Stat. 665, see section 701–1(c) of Title 33, Navigation and Navigable Waters.
 
-#### Municipal, Domestic, and Industrial Water Supply Contracts; Renewals; Conforming Amendments to Existing Contracts; “Long-Term Contract” Defined ####
+#### Municipal, Domestic, and Industrial Water Supply Contracts; Renewals; Conforming Amendments to Existing Contracts; "Long-Term Contract" Defined ####
 
-Pub. L. 88–44, June 21, 1963, 77 Stat. 68, provided: “That the Secretary of the Interior shall, upon request of the other party to any long-term contract for municipal, domestic, or industrial water supply hereafter entered into under clause (2) in the proviso to the first sentence of section 9, subsection (c), of the Reclamation Project Act of 1939 (53 Stat. 1195, 43 U.S.C. 485h), include provision for renewal thereof subject to renegotiation of (1) the charges set forth in the contract in the light of circumstances prevailing at the time of renewal and (2) any other matters with respect to which the right to renegotiate is reserved in the contract. Any right of renewal shall be exercised within such reasonable time prior to the expiration of the contract as the parties shall have agreed upon and set forth therein.
+Pub. L. 88–44, June 21, 1963, 77 Stat. 68, provided: "That the Secretary of the Interior shall, upon request of the other party to any long-term contract for municipal, domestic, or industrial water supply hereafter entered into under clause (2) in the proviso to the first sentence of section 9, subsection (c), of the Reclamation Project Act of 1939 (53 Stat. 1195, 43 U.S.C. 485h), include provision for renewal thereof subject to renegotiation of (1) the charges set forth in the contract in the light of circumstances prevailing at the time of renewal and (2) any other matters with respect to which the right to renegotiate is reserved in the contract. Any right of renewal shall be exercised within such reasonable time prior to the expiration of the contract as the parties shall have agreed upon and set forth therein.
 
-“Sec. 2. The Secretary shall also, upon like request, provide in any such long-term contract or in any contract entered into under clause (1) of the proviso aforesaid that the other party to the contract shall, during the term of the contract and of any renewal thereof and subject to fulfillment of all obligations thereunder, have a first right for the purposes stated in the contract (to which right the holders of any other type of contract for municipal, domestic, or industrial water supply shall be subordinate) to a stated share or quantity of the project's water supply available for municipal, domestic, or industrial use.
+"Sec. 2. The Secretary shall also, upon like request, provide in any such long-term contract or in any contract entered into under clause (1) of the proviso aforesaid that the other party to the contract shall, during the term of the contract and of any renewal thereof and subject to fulfillment of all obligations thereunder, have a first right for the purposes stated in the contract (to which right the holders of any other type of contract for municipal, domestic, or industrial water supply shall be subordinate) to a stated share or quantity of the project's water supply available for municipal, domestic, or industrial use.
 
-“Sec. 3. The Secretary is hereby authorized, upon request by the other party, to negotiate amendments to existing contracts entered into pursuant to the first sentence of section 9, subsection (c), of the Reclamation Project Act of 1939 [subsec. (c) of this section] to conform said contracts to the provisions of this Act.
+"Sec. 3. The Secretary is hereby authorized, upon request by the other party, to negotiate amendments to existing contracts entered into pursuant to the first sentence of section 9, subsection (c), of the Reclamation Project Act of 1939 [subsec. (c) of this section] to conform said contracts to the provisions of this Act.
 
-“Sec. 4. As used in this Act, the term ‘long-term contract’ means any contract the term of which is more than ten years.”
+"Sec. 4. As used in this Act, the term 'long-term contract' means any contract the term of which is more than ten years."
 
 #### Extension of Variable Payment Plan to Other Organizations ####
 
-Pub. L. 85–611, §2, Aug. 8, 1958, 72 Stat. 542, provided that: “The benefits of a variable payment plan as provided in the amendment to paragraph (3) of section 9, subsection (d), of the Reclamation Project Act of 1939 [subsec. (d)(3) of this section] contained in section 1 of this Act may be extended by the Secretary to any organization with which he contracts or has contracted for the repayment of construction costs allocated to irrigation on any project undertaken by the United States, including contracts under the Act of August 11, 1939 (53 Stat. 1418), as amended [section 590y et seq. of Title 16, Conservation], and contracts for the storage of water or for the use of stored water under section 8 of the Act of December 22, 1944 (58 Stat. 887, 891) [section 390 of this title]. In the case of any project for which a maximum repayment period longer than that prescribed in said paragraph (3) has been or is allowed by Act of Congress, the period so allowed may be used by the Secretary in lieu of the forty-year period provided in said amendment to paragraph (3).”
+Pub. L. 85–611, §2, Aug. 8, 1958, 72 Stat. 542, provided that: "The benefits of a variable payment plan as provided in the amendment to paragraph (3) of section 9, subsection (d), of the Reclamation Project Act of 1939 [subsec. (d)(3) of this section] contained in section 1 of this Act may be extended by the Secretary to any organization with which he contracts or has contracted for the repayment of construction costs allocated to irrigation on any project undertaken by the United States, including contracts under the Act of August 11, 1939 (53 Stat. 1418), as amended [section 590y et seq. of Title 16, Conservation], and contracts for the storage of water or for the use of stored water under section 8 of the Act of December 22, 1944 (58 Stat. 887, 891) [section 390 of this title]. In the case of any project for which a maximum repayment period longer than that prescribed in said paragraph (3) has been or is allowed by Act of Congress, the period so allowed may be used by the Secretary in lieu of the forty-year period provided in said amendment to paragraph (3)."
 
-[<sup>1</sup> So in original. Probably should be preceded by “to”.](#485h_1)
+[<sup>1</sup> So in original. Probably should be preceded by "to".](#485h_1)

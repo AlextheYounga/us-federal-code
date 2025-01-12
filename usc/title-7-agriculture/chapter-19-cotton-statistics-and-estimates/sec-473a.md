@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-The Secretary of Agriculture (referred to in this section as the “Secretary”) shall—
+The Secretary of Agriculture (referred to in this section as the "Secretary") shall—
 
 (1) make cotton classification services available to producers of cotton; and
 
@@ -66,19 +66,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **2008**—Pub. L. 110–246, §14201, inserted section catchline and amended text generally, substituting provisions consisting of subsecs. (a) to (g) for former undesignated provisions which related to cotton classification services in fiscal years 1992 through 2007.
 
-**2002**—Pub. L. 107–171 substituted “2007” for “2002” in first sentence.
+**2002**—Pub. L. 107–171 substituted "2007" for "2002" in first sentence.
 
-**1996**—Pub. L. 104–127 substituted “2002” for “1996” in first sentence.
+**1996**—Pub. L. 104–127 substituted "2002" for "1996" in first sentence.
 
-**1991**—Pub. L. 102–237, §120(c), amended third sentence generally. Prior to amendment, third sentence read as follows: “Special classification services provided at the request of the producer shall not be subject to the restrictions specified in clauses (1), (2), and (3) of the preceding sentence.”
+**1991**—Pub. L. 102–237, §120(c), amended third sentence generally. Prior to amendment, third sentence read as follows: "Special classification services provided at the request of the producer shall not be subject to the restrictions specified in clauses (1), (2), and (3) of the preceding sentence."
 
-Pub. L. 102–237, §120(b)(2), added cl. (7) and struck out former cl. (7). Text read as follows: “the Secretary shall announce the uniform classification fee and any surcharge for the crop not later than June 1 of the year in which the fee applies, except that for fiscal year 1987, such announcement shall be made as soon as practicable following enactment of this proviso.”
+Pub. L. 102–237, §120(b)(2), added cl. (7) and struck out former cl. (7). Text read as follows: "the Secretary shall announce the uniform classification fee and any surcharge for the crop not later than June 1 of the year in which the fee applies, except that for fiscal year 1987, such announcement shall be made as soon as practicable following enactment of this proviso."
 
-Pub. L. 102–237, §120(b)(1), added cls. (1) and (2) and struck out former cls. (1) and (2). Text read as follows: “(1) the uniform per bale classification fee to be collected from producers, or their agents, for such classification service in any year shall be the uniform fee collected in the previous year, exclusive of adjustments to such fee made in the previous year under clauses (2), (3), and (4) of this proviso, and as may be adjusted by the percentage change in the Implicit Price Deflator for Gross National Product as indexed during the most recent twelve-month period for which statistics are available; (2) the fee calculated in accordance with clause (1) for a crop year may be increased by an amount not to exceed 1 per centum for every 100,000 running bales, or portion thereof, that the Secretary estimates will be produced in such crop year below the level of 12,500,000 running bales, or decreased by an amount not to exceed 1 per centum for every 100,000 running bales, or portion thereof, that the Secretary estimates will be produced in such crop year above the level of 12,500,000 running bales;”.
+Pub. L. 102–237, §120(b)(1), added cls. (1) and (2) and struck out former cls. (1) and (2). Text read as follows: "(1) the uniform per bale classification fee to be collected from producers, or their agents, for such classification service in any year shall be the uniform fee collected in the previous year, exclusive of adjustments to such fee made in the previous year under clauses (2), (3), and (4) of this proviso, and as may be adjusted by the percentage change in the Implicit Price Deflator for Gross National Product as indexed during the most recent twelve-month period for which statistics are available; (2) the fee calculated in accordance with clause (1) for a crop year may be increased by an amount not to exceed 1 per centum for every 100,000 running bales, or portion thereof, that the Secretary estimates will be produced in such crop year below the level of 12,500,000 running bales, or decreased by an amount not to exceed 1 per centum for every 100,000 running bales, or portion thereof, that the Secretary estimates will be produced in such crop year above the level of 12,500,000 running bales;".
 
-Pub. L. 102–237, §120(a), amended first sentence generally. Prior to amendment, first sentence read as follows: “Effective for the fiscal years ending September 30, 1987, September 30, 1988, September 30, 1989, September 30, 1990, September 30, 1991, and September 30, 1992, the Secretary of Agriculture shall make cotton classification services available to producers of cotton and shall provide for the collection of classification fees from participating producers, or agents who voluntarily agree to collect and remit the fees on behalf of producers.”
+Pub. L. 102–237, §120(a), amended first sentence generally. Prior to amendment, first sentence read as follows: "Effective for the fiscal years ending September 30, 1987, September 30, 1988, September 30, 1989, September 30, 1990, September 30, 1991, and September 30, 1992, the Secretary of Agriculture shall make cotton classification services available to producers of cotton and shall provide for the collection of classification fees from participating producers, or agents who voluntarily agree to collect and remit the fees on behalf of producers."
 
-**1987**—Pub. L. 100–108 amended first sentence generally, substituting “September 30, 1987, September 30, 1988, September 30, 1989, September 30, 1990, September 30, 1991, and September 30, 1992” for “September 30, 1985, September 30, 1986, September 30, 1987, and September 30, 1988” and striking out “from” before “agents who voluntarily agree”, in second sentence inserted first proviso and struck out former first proviso which read as follows: “That (1) the uniform per bale classification fee to be collected from producers, or their agents, for such classification service in any year shall not exceed the uniform fee collected in the previous year by more than the percentage increase in the Implicit Price Deflator for Gross National Product as indexed during the most recent twelve-month period for which official statistics are available, and (2) the uniform per bale classification fee shall not be increased for any year if the accumulated reserve exceeds 20 per centum of the cost of the classification program in the previous year”, and in third sentence substituted “clauses (1), (2), and (3)” for “clauses (1) and (2)”.
+**1987**—Pub. L. 100–108 amended first sentence generally, substituting "September 30, 1987, September 30, 1988, September 30, 1989, September 30, 1990, September 30, 1991, and September 30, 1992" for "September 30, 1985, September 30, 1986, September 30, 1987, and September 30, 1988" and striking out "from" before "agents who voluntarily agree", in second sentence inserted first proviso and struck out former first proviso which read as follows: "That (1) the uniform per bale classification fee to be collected from producers, or their agents, for such classification service in any year shall not exceed the uniform fee collected in the previous year by more than the percentage increase in the Implicit Price Deflator for Gross National Product as indexed during the most recent twelve-month period for which official statistics are available, and (2) the uniform per bale classification fee shall not be increased for any year if the accumulated reserve exceeds 20 per centum of the cost of the classification program in the previous year", and in third sentence substituted "clauses (1), (2), and (3)" for "clauses (1) and (2)".
 
 **1984**—Pub. L. 98–403 substituted provisions requiring the Secretary to make classification service available to producers and to set and collect fees for provisions establishing similar requirements effective for fiscal years ending Sept. 30, 1982, 1983, and 1984.
 
@@ -108,7 +108,7 @@ Pub. L. 97–35, title I, §156(b), Aug. 13, 1981, 95 Stat. 373, provided that t
 
 #### Short Title ####
 
-Act Apr. 13, 1937, which enacted sections 473a to 473c of this title, is popularly known as the “Cotton Classification Act”.
+Act Apr. 13, 1937, which enacted sections 473a to 473c of this title, is popularly known as the "Cotton Classification Act".
 
 #### Study on Processing Certain Cotton Grades ####
 

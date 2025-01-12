@@ -20,6 +20,6 @@ Sec.
 
 #### Amendments ####
 
-**1998**—Pub. L. 105–362, title XIII, §1302(b)(2)(A), Nov. 10, 1998, 112 Stat. 3293, struck out item 1308 “Annual reports”.
+**1998**—Pub. L. 105–362, title XIII, §1302(b)(2)(A), Nov. 10, 1998, 112 Stat. 3293, struck out item 1308 "Annual reports".
 
-**1978**—Pub. L. 95–251, §2(c)(1), Mar. 27, 1978, 92 Stat. 183, substituted “Administrative law judges” for “Hearing examiners” in item 1305.
+**1978**—Pub. L. 95–251, §2(c)(1), Mar. 27, 1978, 92 Stat. 183, substituted "Administrative law judges" for "Hearing examiners" in item 1305.

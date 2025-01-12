@@ -32,19 +32,19 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(6), is Pub. L. 92
 
 #### Amendments ####
 
-**1998**—Subsecs. (a)(2), (b)(5). Pub. L. 105–384 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+**1998**—Subsecs. (a)(2), (b)(5). Pub. L. 105–384 substituted "Magnuson-Stevens Fishery" for "Magnuson Fishery".
 
 **1995**—Pub. L. 104–43 designated existing provisions as subsec. (a) and added subsec. (b).
 
-**1990**—Pub. L. 101–627 amended last sentence generally. Prior to amendment, last sentence read as follows: “On approval by the United States Commissioners—
+**1990**—Pub. L. 101–627 amended last sentence generally. Prior to amendment, last sentence read as follows: "On approval by the United States Commissioners—
 
-“(A) if not more than three members of the advisory committee are designated by the committee to attend any meeting of the Commission, Council, or advisory committee, or of any Panel, each of such members shall be paid for his actual transportation expenses and per diem incident to his attendance; and
+"(A) if not more than three members of the advisory committee are designated by the committee to attend any meeting of the Commission, Council, or advisory committee, or of any Panel, each of such members shall be paid for his actual transportation expenses and per diem incident to his attendance; and
 
-“(B) in any case in which more than three members are designated by the advisory committee to attend any such meeting, each such member to whom subparagraph (A) does not apply may be paid for his actual transportation expenses and per diem incident to his attendance.”
+"(B) in any case in which more than three members are designated by the advisory committee to attend any such meeting, each such member to whom subparagraph (A) does not apply may be paid for his actual transportation expenses and per diem incident to his attendance."
 
-**1980**—Pub. L. 96–339 incorporated existing provision in par. designated (1), added par. (2), redesignated as subpars. (A) and (B) former pars. (1) and (2), substituted in subpar. (B) reference to “subparagraph (A)” for “paragraph (1)”, and made specific reference to appointment of committee member under paragraph (1).
+**1980**—Pub. L. 96–339 incorporated existing provision in par. designated (1), added par. (2), redesignated as subpars. (A) and (B) former pars. (1) and (2), substituted in subpar. (B) reference to "subparagraph (A)" for "paragraph (1)", and made specific reference to appointment of committee member under paragraph (1).
 
-Par. (2). Pub. L. 96–561 substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
+Par. (2). Pub. L. 96–561 substituted "Magnuson Fishery Conservation and Management Act" for "Fishery Conservation and Management Act of 1976".
 
 #### Effective Date of 1980 Amendment ####
 

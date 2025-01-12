@@ -106,7 +106,7 @@ Nothing in this section shall be construed to supersede section 2406(i) of title
 
 #### (g) Presidential authority ####
 
-The President is authorized, after suitable notice and a public comment period of not less than 120 days, to suspend the provisions of this section if a panel of experts has reported to the Dispute Settlement Body of the World Trade Organization (as the term “World Trade Organization” is defined in section 3501(8) of title 19), or a ruling issued under the formal dispute settlement proceeding provided under any other trade agreement finds, that the provisions of this section are in violation of, or inconsistent with, United States obligations under that trade agreement.
+The President is authorized, after suitable notice and a public comment period of not less than 120 days, to suspend the provisions of this section if a panel of experts has reported to the Dispute Settlement Body of the World Trade Organization (as the term "World Trade Organization" is defined in section 3501(8) of title 19), or a ruling issued under the formal dispute settlement proceeding provided under any other trade agreement finds, that the provisions of this section are in violation of, or inconsistent with, United States obligations under that trade agreement.
 
 #### (h) Removal or modifications of State restrictions ####
 
@@ -132,29 +132,29 @@ Nothing in sections 620 to 620j of this title shall be construed to limit the au
 
 #### Amendments ####
 
-**1999**—Subsec. (g). Pub. L. 106–36 substituted “Dispute Settlement Body of the World Trade Organization (as the term ‘World Trade Organization’ is defined in section 3501(8) of title 19)” for “Contracting Parties to the General Agreement on Tariffs and Trade”.
+**1999**—Subsec. (g). Pub. L. 106–36 substituted "Dispute Settlement Body of the World Trade Organization (as the term 'World Trade Organization' is defined in section 3501(8) of title 19)" for "Contracting Parties to the General Agreement on Tariffs and Trade".
 
-**1997**—Subsec. (b)(2). Pub. L. 105–83 struck out “the following shall apply:” in introductory provisions, substituted “the Secretary” for “(A) The Secretary” and “as of November 14, 1997” for “during the period beginning on June 1, 1993, and ending on December 31, 1995”, and struck out subpar. (B) which read as follows: “For all periods on or after January 1, 1996, the Secretary of Commerce shall issue an order referred to in subsection (a) of this section not later than September 30, 1995. Such order shall prohibit the export of the lesser of 400,000,000 board feet or the annual sales volume in that State of unprocessed timber originating from public lands.”
+**1997**—Subsec. (b)(2). Pub. L. 105–83 struck out "the following shall apply:" in introductory provisions, substituted "the Secretary" for "(A) The Secretary" and "as of November 14, 1997" for "during the period beginning on June 1, 1993, and ending on December 31, 1995", and struck out subpar. (B) which read as follows: "For all periods on or after January 1, 1996, the Secretary of Commerce shall issue an order referred to in subsection (a) of this section not later than September 30, 1995. Such order shall prohibit the export of the lesser of 400,000,000 board feet or the annual sales volume in that State of unprocessed timber originating from public lands."
 
-**1993**—Subsec. (a). Pub. L. 103–45, §2(1), substituted “(g)” for “(e)” and “as provided” for “in the amounts specified”.
+**1993**—Subsec. (a). Pub. L. 103–45, §2(1), substituted "(g)" for "(e)" and "as provided" for "in the amounts specified".
 
-Subsec. (b)(1). Pub. L. 103–45, §2(2)(A), inserted “, notwithstanding any other provision of law,” after “prohibit” and substituted “, effective June 1, 1993” for “not later than 21 days after August 20, 1990”.
+Subsec. (b)(1). Pub. L. 103–45, §2(2)(A), inserted ", notwithstanding any other provision of law," after "prohibit" and substituted ", effective June 1, 1993" for "not later than 21 days after August 20, 1990".
 
-Subsec. (b)(2). Pub. L. 103–45, §2(2)(B), added subpar. (A) and struck out former subpar. (A), redesignated subpar. (D) as (B) and substituted “annual sales volume in that State of unprocessed timber originating from public lands” for “total annual sales volume” at end, and struck out former subpars. (B) and (C). Prior to amendment, former subpars. (A) to (C) read as follows:
+Subsec. (b)(2). Pub. L. 103–45, §2(2)(B), added subpar. (A) and struck out former subpar. (A), redesignated subpar. (D) as (B) and substituted "annual sales volume in that State of unprocessed timber originating from public lands" for "total annual sales volume" at end, and struck out former subpars. (B) and (C). Prior to amendment, former subpars. (A) to (C) read as follows:
 
-“(A) The Secretary of Commerce shall issue an order referred to in subsection (a) of this section not later than 21 days after August 20, 1990. Such order shall cover a period beginning 120 days after the issuance of such an order, or January 1, 1991, whichever is earlier, and shall extend to December 31, 1991. Such order shall prohibit the export of 75 percent of the annual sales volume in such State of unprocessed timber from public lands.
+"(A) The Secretary of Commerce shall issue an order referred to in subsection (a) of this section not later than 21 days after August 20, 1990. Such order shall cover a period beginning 120 days after the issuance of such an order, or January 1, 1991, whichever is earlier, and shall extend to December 31, 1991. Such order shall prohibit the export of 75 percent of the annual sales volume in such State of unprocessed timber from public lands.
 
-“(B) For the period beginning on January 1, 1992, and ending on December 31, 1993, the Secretary of Commerce shall, after notice and an opportunity for a hearing, issue an order referred to in subsection (a) of this section not later than September 30, 1991. Such order shall prohibit the export of at least 75 percent of such State's annual sales volume for this 2-year period.
+"(B) For the period beginning on January 1, 1992, and ending on December 31, 1993, the Secretary of Commerce shall, after notice and an opportunity for a hearing, issue an order referred to in subsection (a) of this section not later than September 30, 1991. Such order shall prohibit the export of at least 75 percent of such State's annual sales volume for this 2-year period.
 
-“(C) For the period beginning on January 1, 1994, and ending on December 31, 1995, the Secretary of Commerce shall, after notice and an opportunity for a hearing, issue an order referred to in subsection (a) of this section not later than September 30, 1993. Such order shall prohibit the export of at least 75 percent of such State's annual sales volume for this 2-year period.”
+"(C) For the period beginning on January 1, 1994, and ending on December 31, 1995, the Secretary of Commerce shall, after notice and an opportunity for a hearing, issue an order referred to in subsection (a) of this section not later than September 30, 1993. Such order shall prohibit the export of at least 75 percent of such State's annual sales volume for this 2-year period."
 
-Subsec. (b)(3), (4). Pub. L. 103–45, §2(2)(C), (D), added par. (3), redesignated former par. (3) as (4), and substituted “the Secretary of Commerce pursuant to sections 620 to 620j of this title and the effectiveness of State programs authorized under subsection (d) of this section” for “States pursuant to sections 620 to 620j of this title”.
+Subsec. (b)(3), (4). Pub. L. 103–45, §2(2)(C), (D), added par. (3), redesignated former par. (3) as (4), and substituted "the Secretary of Commerce pursuant to sections 620 to 620j of this title and the effectiveness of State programs authorized under subsection (d) of this section" for "States pursuant to sections 620 to 620j of this title".
 
 Subsecs. (c) to (l). Pub. L. 103–45, §2(3), (4), added subsecs. (c) to (f), struck out former subsecs. (c) and (d) which related to basis for increase in volume prohibited from export and administrative provisions, respectively, and redesignated former subsecs. (e) to (j) as (g) to (l), respectively.
 
 #### Severability of Provisions ####
 
-Pub. L. 103–45, §4, July 1, 1993, 107 Stat. 228, provided that: “If any provision of this Act [amending this section and section 620d of this title and enacting provisions set out as a note under section 620 of this title], or the amendments made by this Act, or the application thereof to any person or circumstance is held invalid, the remainder of this Act and such amendments and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected by such invalidation.”
+Pub. L. 103–45, §4, July 1, 1993, 107 Stat. 228, provided that: "If any provision of this Act [amending this section and section 620d of this title and enacting provisions set out as a note under section 620 of this title], or the amendments made by this Act, or the application thereof to any person or circumstance is held invalid, the remainder of this Act and such amendments and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected by such invalidation."
 
 #### Extension and Issuance of Order Under Subsection (b)(2) ####
 

@@ -60,11 +60,11 @@ Except as provided in subsection (d) of this section, nothing in this section sh
 
 #### (f) Definitions ####
 
-As used in this section, the term “illegal act” means an act or omission that violates any law, or any rule or regulation having the force of law. As used in this section, the term “issuer” means an issuer (as defined in section 78c of this title), the securities of which are registered under section 78l of this title, or that is required to file reports pursuant to section 78o(d) of this title, or that files or has filed a registration statement that has not yet become effective under the Securities Act of 1933 (15 U.S.C. 77a et seq.), and that it has not withdrawn.
+As used in this section, the term "illegal act" means an act or omission that violates any law, or any rule or regulation having the force of law. As used in this section, the term "issuer" means an issuer (as defined in section 78c of this title), the securities of which are registered under section 78l of this title, or that is required to file reports pursuant to section 78o(d) of this title, or that files or has filed a registration statement that has not yet become effective under the Securities Act of 1933 (15 U.S.C. 77a et seq.), and that it has not withdrawn.
 
 #### (g) Prohibited activities ####
 
-Except as provided in subsection (h) of this section, it shall be unlawful for a registered public accounting firm (and any associated person of that firm, to the extent determined appropriate by the Commission) that performs for any issuer any audit required by this chapter or the rules of the Commission under this chapter or, beginning 180 days after the date of commencement of the operations of the Public Company Accounting Oversight Board established under section 7211 of this title (in this section referred to as the “Board”), the rules of the Board, to provide to that issuer, contemporaneously with the audit, any non-audit service, including—
+Except as provided in subsection (h) of this section, it shall be unlawful for a registered public accounting firm (and any associated person of that firm, to the extent determined appropriate by the Commission) that performs for any issuer any audit required by this chapter or the rules of the Commission under this chapter or, beginning 180 days after the date of commencement of the operations of the Public Company Accounting Oversight Board established under section 7211 of this title (in this section referred to as the "Board"), the rules of the Board, to provide to that issuer, contemporaneously with the audit, any non-audit service, including—
 
 (1) bookkeeping or other services related to the accounting records or financial statements of the audit client;
 
@@ -194,31 +194,31 @@ Each issuer shall provide for appropriate funding, as determined by the audit co
 
 #### References in Text ####
 
-This chapter, referred to in subsecs. (a), (b)(1), (e), (g), (k), and (l), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a), (b)(1), (e), (g), (k), and (l), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 The Securities Act of 1933, referred to in subsec. (f), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 #### Amendments ####
 
-**2010**—Subsec. (i)(1)(B). Pub. L. 111–203 substituted “minimis” for “minimus” in heading and “the non-audit” for “the nonaudit” in cl. (i).
+**2010**—Subsec. (i)(1)(B). Pub. L. 111–203 substituted "minimis" for "minimus" in heading and "the non-audit" for "the nonaudit" in cl. (i).
 
-**2002**—Subsec. (a). Pub. L. 107–204, §205(b)(1), substituted “a registered public accounting firm” for “an independent public accountant” in introductory provisions.
+**2002**—Subsec. (a). Pub. L. 107–204, §205(b)(1), substituted "a registered public accounting firm" for "an independent public accountant" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 107–204, §205(b)(2), (4)(A), in introductory provisions, substituted “the registered public accounting firm” for “the independent public accountant” and “the firm” for “the accountant”.
+Subsec. (b)(1). Pub. L. 107–204, §205(b)(2), (4)(A), in introductory provisions, substituted "the registered public accounting firm" for "the independent public accountant" and "the firm" for "the accountant".
 
-Subsec. (b)(1)(B). Pub. L. 107–204, §205(b)(4)(B), substituted “such firm” for “such accountant”.
+Subsec. (b)(1)(B). Pub. L. 107–204, §205(b)(4)(B), substituted "such firm" for "such accountant".
 
-Subsec. (b)(2). Pub. L. 107–204, §205(b)(2), (4)(A), (B), in introductory provisions, substituted “the firm” for “the accountant”, “such firm” for “such accountant”, and “the registered public accounting firm” for “the independent public accountant” and, in concluding provisions, substituted “the registered public accounting firm” for “the independent public accountant”.
+Subsec. (b)(2). Pub. L. 107–204, §205(b)(2), (4)(A), (B), in introductory provisions, substituted "the firm" for "the accountant", "such firm" for "such accountant", and "the registered public accounting firm" for "the independent public accountant" and, in concluding provisions, substituted "the registered public accounting firm" for "the independent public accountant".
 
-Subsec. (b)(3). Pub. L. 107–204, §205(b)(2), substituted “the registered public accounting firm” for “the independent public accountant” wherever appearing in introductory provisions.
+Subsec. (b)(3). Pub. L. 107–204, §205(b)(2), substituted "the registered public accounting firm" for "the independent public accountant" wherever appearing in introductory provisions.
 
-Subsec. (b)(4). Pub. L. 107–204, §205(b)(1), (4)(A), (C), substituted “a registered public accounting firm” for “an independent public accountant”, “the firm” for “the accountant”, and “the report of the firm” for “the accountant's report”.
+Subsec. (b)(4). Pub. L. 107–204, §205(b)(1), (4)(A), (C), substituted "a registered public accounting firm" for "an independent public accountant", "the firm" for "the accountant", and "the report of the firm" for "the accountant's report".
 
-Subsec. (c). Pub. L. 107–204, §205(b)(3), substituted “No registered public accounting firm” for “No independent public accountant”.
+Subsec. (c). Pub. L. 107–204, §205(b)(3), substituted "No registered public accounting firm" for "No independent public accountant".
 
-Subsec. (d). Pub. L. 107–204, §205(b)(1), (2), substituted “a registered public accounting firm” for “an independent public accountant” and “the registered public accounting firm” for “the independent public accountant”.
+Subsec. (d). Pub. L. 107–204, §205(b)(1), (2), substituted "a registered public accounting firm" for "an independent public accountant" and "the registered public accounting firm" for "the independent public accountant".
 
-Subsec. (f). Pub. L. 107–204, §205(d), substituted “Definitions” for “Definition” in heading and inserted at end “As used in this section, the term ‘issuer’ means an issuer (as defined in section 78c of this title), the securities of which are registered under section 78l of this title, or that is required to file reports pursuant to section 78o(d) of this title, or that files or has filed a registration statement that has not yet become effective under the Securities Act of 1933 (15 U.S.C. 77a et seq.), and that it has not withdrawn.”
+Subsec. (f). Pub. L. 107–204, §205(d), substituted "Definitions" for "Definition" in heading and inserted at end "As used in this section, the term 'issuer' means an issuer (as defined in section 78c of this title), the securities of which are registered under section 78l of this title, or that is required to file reports pursuant to section 78o(d) of this title, or that files or has filed a registration statement that has not yet become effective under the Securities Act of 1933 (15 U.S.C. 77a et seq.), and that it has not withdrawn."
 
 Subsecs. (g), (h). Pub. L. 107–204, §201(a), added subsecs. (g) and (h).
 
@@ -238,12 +238,12 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 #### Effective Date ####
 
-Pub. L. 104–67, title III, §301(b), Dec. 22, 1995, 109 Stat. 764, provided that: “The amendment made by subsection (a) [enacting this section] shall apply to each annual report—
+Pub. L. 104–67, title III, §301(b), Dec. 22, 1995, 109 Stat. 764, provided that: "The amendment made by subsection (a) [enacting this section] shall apply to each annual report—
 
-“(1) for any period beginning on or after January 1, 1996, with respect to any registrant that is required to file selected quarterly financial data pursuant to the rules or regulations of the Securities and Exchange Commission; and
+"(1) for any period beginning on or after January 1, 1996, with respect to any registrant that is required to file selected quarterly financial data pursuant to the rules or regulations of the Securities and Exchange Commission; and
 
-“(2) for any period beginning on or after January 1, 1997, with respect to any other registrant.”
+"(2) for any period beginning on or after January 1, 1997, with respect to any other registrant."
 
 #### Construction ####
 
-Pub. L. 104–67, title II, §203, Dec. 22, 1995, 109 Stat. 762, provided that: “Nothing in this Act [see Short Title of 1995 Amendment note set out under section 78a of this title] or the amendments made by this Act shall be deemed to create or ratify any implied private right of action, or to prevent the Commission, by rule or regulation, from restricting or otherwise regulating private actions under the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.].”
+Pub. L. 104–67, title II, §203, Dec. 22, 1995, 109 Stat. 762, provided that: "Nothing in this Act [see Short Title of 1995 Amendment note set out under section 78a of this title] or the amendments made by this Act shall be deemed to create or ratify any implied private right of action, or to prevent the Commission, by rule or regulation, from restricting or otherwise regulating private actions under the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.]."

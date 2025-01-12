@@ -12,9 +12,9 @@ Based on title 18, U.S.C., 1940 ed., §550 (Mar. 4, 1909, ch. 321, §332, 35 Sta
 
 Section 2(a) comprises section 550 of title 18, U.S.C., 1940 ed., without change except in minor matters of phraseology.
 
-Section 2(b) is added to permit the deletion from many sections throughout the revision of such phrases as “causes or procures”.
+Section 2(b) is added to permit the deletion from many sections throughout the revision of such phrases as "causes or procures".
 
-The section as revised makes clear the legislative intent to punish as a principal not only one who directly commits an offense and one who “aids, abets, counsels, commands, induces or procures” another to commit an offense, but also anyone who causes the doing of an act which if done by him directly would render him guilty of an offense against the United States.
+The section as revised makes clear the legislative intent to punish as a principal not only one who directly commits an offense and one who "aids, abets, counsels, commands, induces or procures" another to commit an offense, but also anyone who causes the doing of an act which if done by him directly would render him guilty of an offense against the United States.
 
 It removes all doubt that one who puts in motion or assists in the illegal enterprise but causes the commission of an indispensable element of the offense by an innocent agent or instrumentality, is guilty as a principal even though he intentionally refrained from the direct act constituting the completed offense.
 
@@ -22,6 +22,6 @@ This accords with the following decisions: *Rothenburg v. United States*, 1918, 
 
 #### Amendments ####
 
-**1951**—Subsec. (a). Act Oct. 31, 1951, inserted “punishable as”.
+**1951**—Subsec. (a). Act Oct. 31, 1951, inserted "punishable as".
 
-Subsec. (b). Act Oct. 31, 1951, inserted “willfully” before “causes”, and “or another” after “him”, and substituted “is punishable as a principal” for “is also a principal and punishable as such”.
+Subsec. (b). Act Oct. 31, 1951, inserted "willfully" before "causes", and "or another" after "him", and substituted "is punishable as a principal" for "is also a principal and punishable as such".

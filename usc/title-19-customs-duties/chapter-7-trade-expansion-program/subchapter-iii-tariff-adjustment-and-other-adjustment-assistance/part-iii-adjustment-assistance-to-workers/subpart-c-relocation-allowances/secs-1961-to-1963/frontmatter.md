@@ -4,7 +4,7 @@ Section 1961, Pub. L. 87–794, title III, §328, Oct. 11, 1962, 76 Stat. 895, p
 
 Section 1962, Pub. L. 87–794, title III, §329, Oct. 11, 1962, 76 Stat. 895, set out qualifying requirements for training. See sections 2297 and 2298 of this title.
 
-Section 1963, Pub. L. 87–794, title III, §330, Oct. 11, 1962, 76 Stat. 896, defined “relocation allowance”. See sections 2297 and 2298 of this title.
+Section 1963, Pub. L. 87–794, title III, §330, Oct. 11, 1962, 76 Stat. 896, defined "relocation allowance". See sections 2297 and 2298 of this title.
 
 #### Effective Date of Repeal ####
 

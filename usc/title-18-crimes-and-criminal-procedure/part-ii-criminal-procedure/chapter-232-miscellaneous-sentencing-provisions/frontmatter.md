@@ -32,9 +32,9 @@ Sec.
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–132, title II, §§204(b), 206(b), Apr. 24, 1996, 110 Stat. 1229, 1236, added item 3663A and substituted “issuance and enforcement of order of restitution” for “issuing order of restitution” in item 3664.
+**1996**—Pub. L. 104–132, title II, §§204(b), 206(b), Apr. 24, 1996, 110 Stat. 1229, 1236, added item 3663A and substituted "issuance and enforcement of order of restitution" for "issuing order of restitution" in item 3664.
 
-**1990**—Pub. L. 101–647, title XXXV, §3594, Nov. 29, 1990, 104 Stat. 4931, substituted “Conveyances” for “Conveyance” in item 3669.
+**1990**—Pub. L. 101–647, title XXXV, §3594, Nov. 29, 1990, 104 Stat. 4931, substituted "Conveyances" for "Conveyance" in item 3669.
 
 **1984**—Pub. L. 98–473, title II, §§212(a)(5), 235(a)(1), Oct. 12, 1984, 98 Stat. 2010, 2031, as amended, added chapter heading and analysis of sections for chapter 232 consisting of items 3661 to 3673, effective Nov. 1, 1987.
 

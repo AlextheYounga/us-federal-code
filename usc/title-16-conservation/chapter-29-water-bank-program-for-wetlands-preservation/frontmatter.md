@@ -4,7 +4,7 @@ Sec.
 
 1301. Congressional declaration of policy; authority of Secretary.
 
-1302. Conservation agreements to effectuate water bank program; duration and renewal; adjustment of payment rate for renewal period; “wetlands” defined; duration of ownership or control of land as determining eligibility for agreements; protection of and compensation for tenants and sharecroppers; participation by owner or operator in other Federal or State programs.
+1302. Conservation agreements to effectuate water bank program; duration and renewal; adjustment of payment rate for renewal period; "wetlands" defined; duration of ownership or control of land as determining eligibility for agreements; protection of and compensation for tenants and sharecroppers; participation by owner or operator in other Federal or State programs.
 
 1303. Terms of agreement; required provisions.
 

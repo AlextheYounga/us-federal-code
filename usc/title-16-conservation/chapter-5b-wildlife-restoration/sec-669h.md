@@ -82,11 +82,11 @@ The Inspector General of the Department of the Interior shall promptly submit to
 
 #### Codification ####
 
-In subsec. (d)(2)(A), “section 132 of title 41” substituted for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (d)(2)(A), "section 132 of title 41" substituted for "section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments ####
 
-**2000**—Pub. L. 106–408 amended section generally. Prior to amendment, section read as follows: “Out of the deductions set aside for administering and executing this chapter and the Migratory Bird Conservation Act, the Secretary of the Interior is authorized to employ such assistants, clerks, and other persons in the city of Washington and elsewhere, to be taken from the eligible lists of the Civil Service; to rent or construct buildings outside of the city of Washington; to purchase such supplies, materials, equipment, office fixtures, and apparatus; and to incur such travel and other expenses, including purchase, maintenance, and hire of passenger-carrying motor vehicles, as he may deem necessary for carrying out the purposes of this chapter.”
+**2000**—Pub. L. 106–408 amended section generally. Prior to amendment, section read as follows: "Out of the deductions set aside for administering and executing this chapter and the Migratory Bird Conservation Act, the Secretary of the Interior is authorized to employ such assistants, clerks, and other persons in the city of Washington and elsewhere, to be taken from the eligible lists of the Civil Service; to rent or construct buildings outside of the city of Washington; to purchase such supplies, materials, equipment, office fixtures, and apparatus; and to incur such travel and other expenses, including purchase, maintenance, and hire of passenger-carrying motor vehicles, as he may deem necessary for carrying out the purposes of this chapter."
 
 #### Change of Name ####
 

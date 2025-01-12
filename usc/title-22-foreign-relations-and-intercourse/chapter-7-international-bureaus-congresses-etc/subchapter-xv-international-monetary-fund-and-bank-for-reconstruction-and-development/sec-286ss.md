@@ -6,8 +6,8 @@ The United States Governor of the Fund may agree to and accept the amendment to 
 
 #### Amendments ####
 
-**2009**—Pub. L. 111–117 substituted “resolution numbered 52–4” for “resolution numbered 54–4”.
+**2009**—Pub. L. 111–117 substituted "resolution numbered 52–4" for "resolution numbered 54–4".
 
 #### Effective Date of 2009 Amendment ####
 
-Pub. L. 111–117, div. F, title VII, §7034(q)(1)(B), Dec. 16, 2009, 123 Stat. 3363, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect as if included in the enactment of section 1402 of Public Law 111–32.”
+Pub. L. 111–117, div. F, title VII, §7034(q)(1)(B), Dec. 16, 2009, 123 Stat. 3363, provided that: "The amendment made by subparagraph (A) [amending this section] shall take effect as if included in the enactment of section 1402 of Public Law 111–32."

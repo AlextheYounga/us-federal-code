@@ -38,15 +38,15 @@ A prior section 9 of act June 25, 1947, was classified to section 135g of this t
 
 #### Amendments ####
 
-**1991**—Subsec. (a)(2). Pub. L. 102–237, §1006(b)(3)(H), substituted “the officer or employee” for “he” before “shall” in fourth sentence.
+**1991**—Subsec. (a)(2). Pub. L. 102–237, §1006(b)(3)(H), substituted "the officer or employee" for "he" before "shall" in fourth sentence.
 
-Subsec. (c)(1). Pub. L. 102–237, §1006(b)(3)(I), substituted “the person's” for “his” in third sentence.
+Subsec. (c)(1). Pub. L. 102–237, §1006(b)(3)(I), substituted "the person's" for "his" in third sentence.
 
-Subsec. (c)(3). Pub. L. 102–237, §1006(b)(1), substituted “the Administrator” for “he” before “believes”.
+Subsec. (c)(3). Pub. L. 102–237, §1006(b)(1), substituted "the Administrator" for "he" before "believes".
 
-**1988**—Subsec. (a). Pub. L. 100–532, §302(a), substituted “(1) For purposes of” for “For purposes of”, inserted “of the Environmental Protection Agency or of any State”, substituted “at reasonable times (A)” for “at reasonable times,”, added cl. (B), and substituted “(2) Before” for “Before”.
+**1988**—Subsec. (a). Pub. L. 100–532, §302(a), substituted "(1) For purposes of" for "For purposes of", inserted "of the Environmental Protection Agency or of any State", substituted "at reasonable times (A)" for "at reasonable times,", added cl. (B), and substituted "(2) Before" for "Before".
 
-Subsec. (b)(1). Pub. L. 100–532, §302(b), amended par. (1) generally, substituting “entry, inspection, and copying of records for purposes of this section or section 136f of this title” for “entry for the purpose of this section”.
+Subsec. (b)(1). Pub. L. 100–532, §302(b), amended par. (1) generally, substituting "entry, inspection, and copying of records for purposes of this section or section 136f of this title" for "entry for the purpose of this section".
 
 #### Effective Date of 1988 Amendment ####
 

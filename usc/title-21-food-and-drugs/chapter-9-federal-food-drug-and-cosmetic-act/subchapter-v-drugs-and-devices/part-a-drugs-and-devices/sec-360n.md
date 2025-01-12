@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Priority review ####
 
-The term “priority review”, with respect to a human drug application as defined in section 379g(1) of this title, means review and action by the Secretary on such application not later than 6 months after receipt by the Secretary of such application, as described in the Manual of Policies and Procedures of the Food and Drug Administration and goals identified in the letters described in section 101(c) of the Food and Drug Administration Amendments Act of 2007.
+The term "priority review", with respect to a human drug application as defined in section 379g(1) of this title, means review and action by the Secretary on such application not later than 6 months after receipt by the Secretary of such application, as described in the Manual of Policies and Procedures of the Food and Drug Administration and goals identified in the letters described in section 101(c) of the Food and Drug Administration Amendments Act of 2007.
 
 #### (2) Priority review voucher ####
 
-The term “priority review voucher” means a voucher issued by the Secretary to the sponsor of a tropical disease product application that entitles the holder of such voucher to priority review of a single human drug application submitted under section 355(b)(1) of this title or section 262 of title 42 after the date of approval of the tropical disease product application.
+The term "priority review voucher" means a voucher issued by the Secretary to the sponsor of a tropical disease product application that entitles the holder of such voucher to priority review of a single human drug application submitted under section 355(b)(1) of this title or section 262 of title 42 after the date of approval of the tropical disease product application.
 
 #### (3) Tropical disease ####
 
-The term “tropical disease” means any of the following:
+The term "tropical disease" means any of the following:
 
 (A) Tuberculosis.
 
@@ -52,7 +52,7 @@ The term “tropical disease” means any of the following:
 
 #### (4) Tropical disease product application ####
 
-The term “tropical disease product application” means an application that—
+The term "tropical disease product application" means an application that—
 
 (A) is a human drug application as defined in section 379g(1) of this title—
 

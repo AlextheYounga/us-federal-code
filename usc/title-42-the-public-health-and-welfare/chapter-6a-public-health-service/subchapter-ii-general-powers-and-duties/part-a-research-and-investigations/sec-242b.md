@@ -30,53 +30,53 @@ Sections 242c and 242n of this title, referred to in subsec. (b)(3), were repeal
 
 #### Codification ####
 
-In subsec. (b)(4), “section 8141 of title 40” substituted for “the Act of March 3, 1877 (40 U.S.C. 34)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (b)(4), "section 8141 of title 40" substituted for "the Act of March 3, 1877 (40 U.S.C. 34)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments ####
 
-**2002**—Subsec. (a). Pub. L. 107–206 substituted “Ruth L. Kirschstein National Research Service Awards” for “National Research Service Awards”.
+**2002**—Subsec. (a). Pub. L. 107–206 substituted "Ruth L. Kirschstein National Research Service Awards" for "National Research Service Awards".
 
-**1999**—Subsecs. (a), (c). Pub. L. 106–129 substituted “Agency for Healthcare Research and Quality” for “Agency for Health Care Policy and Research” wherever appearing.
+**1999**—Subsecs. (a), (c). Pub. L. 106–129 substituted "Agency for Healthcare Research and Quality" for "Agency for Health Care Policy and Research" wherever appearing.
 
 **1993**—Subsec. (d). Pub. L. 103–183 struck out subsec. (d) which directed Secretary to conduct an ongoing study of present and projected future health costs of pollution and other environmental conditions resulting from human activity and to submit to Congress reports on the study.
 
-**1989**—Subsec. (a). Pub. L. 101–239, §6103(e)(1)(B), substituted “the Agency for Health Care Policy and Research” for “the National Center for Health Services Research and Health Care Technology Assessment” and “in section 242k of this title and in subchapter VII of this chapter” for “in sections 242c, 242k, and 242n of this title”.
+**1989**—Subsec. (a). Pub. L. 101–239, §6103(e)(1)(B), substituted "the Agency for Health Care Policy and Research" for "the National Center for Health Services Research and Health Care Technology Assessment" and "in section 242k of this title and in subchapter VII of this chapter" for "in sections 242c, 242k, and 242n of this title".
 
 Pub. L. 101–239, §6103(e)(1)(A), redesignated par. (3) as entire subsec. (a) and struck out pars. (1) and (2) which required Secretary to conduct and support research, demonstrations, evaluations, and statistical and epidemiological activities for purpose of improving health services in the United States, and which specified types of activities Secretary was to emphasize in carrying out par. (1).
 
-Subsec. (b). Pub. L. 101–239, §6103(e)(1)(C), substituted “subsection (a) of this section and section 242k of this title” for “subsection (a) of this section”.
+Subsec. (b). Pub. L. 101–239, §6103(e)(1)(C), substituted "subsection (a) of this section and section 242k of this title" for "subsection (a) of this section".
 
-Subsec. (c)(1), (2). Pub. L. 101–239, §6103(e)(1)(D), substituted “the Agency for Health Care Policy and Research” for “the National Center for Health Services Research and Health Care Technology Assessment”.
+Subsec. (c)(1), (2). Pub. L. 101–239, §6103(e)(1)(D), substituted "the Agency for Health Care Policy and Research" for "the National Center for Health Services Research and Health Care Technology Assessment".
 
-**1984**—Subsec. (a)(1). Pub. L. 98–551, §5(c)(1), (2), substituted “the National Center for Health Services Research and Health Care Technology Assessment and the National Center for Health Statistics” for “the National Center for Health Services Research, the National Center for Health Statistics, and the National Center for Health Care Technology”.
+**1984**—Subsec. (a)(1). Pub. L. 98–551, §5(c)(1), (2), substituted "the National Center for Health Services Research and Health Care Technology Assessment and the National Center for Health Statistics" for "the National Center for Health Services Research, the National Center for Health Statistics, and the National Center for Health Care Technology".
 
-Subsec. (a)(3). Pub. L. 98–551, §5(c)(1), (3), substituted “the National Center for Health Services Research and Health Care Technology Assessment or the National Center for Health Statistics” for “the National Center for Health Services Research, the National Center for Health Statistics, or the National Center for Health Care Technology”.
+Subsec. (a)(3). Pub. L. 98–551, §5(c)(1), (3), substituted "the National Center for Health Services Research and Health Care Technology Assessment or the National Center for Health Statistics" for "the National Center for Health Services Research, the National Center for Health Statistics, or the National Center for Health Care Technology".
 
-Subsec. (c)(1), (2). Pub. L. 98–551, §5(c)(1), (2), substituted “the National Center for Health Services Research and Health Care Technology Assessment and the National Center for Health Statistics” for “the National Center for Health Services Research, the National Center for Health Statistics, and the National Center for Health Care Technology”.
+Subsec. (c)(1), (2). Pub. L. 98–551, §5(c)(1), (2), substituted "the National Center for Health Services Research and Health Care Technology Assessment and the National Center for Health Statistics" for "the National Center for Health Services Research, the National Center for Health Statistics, and the National Center for Health Care Technology".
 
-**1981**—Subsec. (a)(3). Pub. L. 97–35, §918(a), substituted “may” for “shall”, “or the” for “and the”, “or using” for “and using”, and “or other” for “and other”.
+**1981**—Subsec. (a)(3). Pub. L. 97–35, §918(a), substituted "may" for "shall", "or the" for "and the", "or using" for "and using", and "or other" for "and other".
 
-Subsecs. (b)(1), (c)(1). Pub. L. 97–35, §918(d)(1), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+Subsecs. (b)(1), (c)(1). Pub. L. 97–35, §918(d)(1), substituted "Health and Human Services" for "Health, Education, and Welfare".
 
-Subsec. (d)(1). Pub. L. 97–35, §918(b)(1), (2), substituted provisions relating to advice and assistance of the National Academy of Sciences, for provisions relating to joint authority of the National Academy of Sciences, and struck out definition of “Academy” as meaning the National Academy of Sciences.
+Subsec. (d)(1). Pub. L. 97–35, §918(b)(1), (2), substituted provisions relating to advice and assistance of the National Academy of Sciences, for provisions relating to joint authority of the National Academy of Sciences, and struck out definition of "Academy" as meaning the National Academy of Sciences.
 
-Subsec. (d)(3). Pub. L. 97–35, §918(b)(3), (c), (d)(2), substituted “every three years” for “every two years”, and “Energy and” for “Interstate and Foreign”, and struck out references to the Academy.
+Subsec. (d)(3). Pub. L. 97–35, §918(b)(3), (c), (d)(2), substituted "every three years" for "every two years", and "Energy and" for "Interstate and Foreign", and struck out references to the Academy.
 
 **1979**—Subsec. (b)(1), (3). Pub. L. 96–32, §5(a), (b), amended directory language of Pub. L. 95–623, §3(b), (d), and required no change in text. See 1978 Amendment note below.
 
-Subsec. (d). Pub. L. 96–32, §5(c), substituted “(d)” for “(e)” as designation of subsection added by Pub. L. 95–623, §7, thereby correcting the subsection designation.
+Subsec. (d). Pub. L. 96–32, §5(c), substituted "(d)" for "(e)" as designation of subsection added by Pub. L. 95–623, §7, thereby correcting the subsection designation.
 
-**1978**—Subsec. (a)(1). Pub. L. 95–623, §3(a), substituted provision for the Secretary acting through the National Center for Health Care Technology for such action through other units of the Department of Health, Education, and Welfare and “conduct” for “undertake”, included epidemiological activities, and declared as an objective the improvement of the effectiveness, efficiency, and quality of Federal health services.
+**1978**—Subsec. (a)(1). Pub. L. 95–623, §3(a), substituted provision for the Secretary acting through the National Center for Health Care Technology for such action through other units of the Department of Health, Education, and Welfare and "conduct" for "undertake", included epidemiological activities, and declared as an objective the improvement of the effectiveness, efficiency, and quality of Federal health services.
 
-Subsec. (a)(2). Pub. L. 95–623, §3(a), provided for emphasis to demonstrations, evaluations, and epidemiological activities; redesignated as subpar. (A) former subpar. (C); struck out “technology” and “quality” after “organization,” and “utilization,”, respectively, and end clause “including systems for the delivery of preventive, personal, and mental health care” and former subpar. (A) activities respecting “the determination of an individual's health”; added subpars. (B) through (D); struck out former subpar. (D) activities respecting “individual and community knowledge of individual health and the systems for the delivery of health care”; added subpars. (E) through (I); and redesignated as subpar. (J) former subpar. (B).
+Subsec. (a)(2). Pub. L. 95–623, §3(a), provided for emphasis to demonstrations, evaluations, and epidemiological activities; redesignated as subpar. (A) former subpar. (C); struck out "technology" and "quality" after "organization," and "utilization,", respectively, and end clause "including systems for the delivery of preventive, personal, and mental health care" and former subpar. (A) activities respecting "the determination of an individual's health"; added subpars. (B) through (D); struck out former subpar. (D) activities respecting "individual and community knowledge of individual health and the systems for the delivery of health care"; added subpars. (E) through (I); and redesignated as subpar. (J) former subpar. (B).
 
 Subsec. (a)(3). Pub. L. 95–623, §3(a), added par. (3).
 
-Subsec. (b)(1). Pub. L. 95–623, §3(b), as amended by Pub. L. 96–32, §5(a), substituted “, when appropriate, enter into contracts with public and private entities and individuals” for “enter into contracts with public and private entities and individuals, for (A) health services research, evaluation, and demonstrations, and (B) health services research and health statistics training, and (C) health statistical activities”.
+Subsec. (b)(1). Pub. L. 95–623, §3(b), as amended by Pub. L. 96–32, §5(a), substituted ", when appropriate, enter into contracts with public and private entities and individuals" for "enter into contracts with public and private entities and individuals, for (A) health services research, evaluation, and demonstrations, and (B) health services research and health statistics training, and (C) health statistical activities".
 
-Subsec. (b)(3). Pub. L. 95–623, §3(d), as amended by Pub. L. 96–32, §5(b), substituted “advisable but in accordance with section 3109 of title 5” for “advisable”, struck out “experts and” before “consultants”, and authorized the Secretary to obtain for the centers the services of experts with appropriate scientific or professional qualifications.
+Subsec. (b)(3). Pub. L. 95–623, §3(d), as amended by Pub. L. 96–32, §5(b), substituted "advisable but in accordance with section 3109 of title 5" for "advisable", struck out "experts and" before "consultants", and authorized the Secretary to obtain for the centers the services of experts with appropriate scientific or professional qualifications.
 
-Subsec. (c). Pub. L. 95–623, §3(c), designated existing text as par. (1), substituted “evaluations, and demonstrations, all health statistical and epidemiological activities, and all research, evaluations, and demonstrations respecting the assessment of health care technology” for “evaluation, demonstration, and health statistical activities” before “undertaken and supported”, required coordination of activities to also be carried out through the National Center for Health Care Technology, and added par. (2).
+Subsec. (c). Pub. L. 95–623, §3(c), designated existing text as par. (1), substituted "evaluations, and demonstrations, all health statistical and epidemiological activities, and all research, evaluations, and demonstrations respecting the assessment of health care technology" for "evaluation, demonstration, and health statistical activities" before "undertaken and supported", required coordination of activities to also be carried out through the National Center for Health Care Technology, and added par. (2).
 
 Subsec. (d). Pub. L. 95–623, §7, as amended by Pub. L. 96–32, §5(c), added subsec. (d).
 
@@ -84,11 +84,11 @@ Subsec. (d). Pub. L. 95–623, §7, as amended by Pub. L. 96–32, §5(c), added
 
 **1973**—Subsec. (c)(1). Pub. L. 93–45 authorized appropriations of $42,617,000 for fiscal year ending June 30, 1974.
 
-**1970**—Subsec. (a)(1). Pub. L. 91–515, §§201(a)(1), 203, redesignated subsec. (a) as (a)(1), substituted “(A)” and “(B)” for “(1)” and “(2)”, and “(i) to (iii)” for “(A) to (C)”, and added cls. (iv) and (v).
+**1970**—Subsec. (a)(1). Pub. L. 91–515, §§201(a)(1), 203, redesignated subsec. (a) as (a)(1), substituted "(A)" and "(B)" for "(1)" and "(2)", and "(i) to (iii)" for "(A) to (C)", and added cls. (iv) and (v).
 
-Subsec. (a)(2). Pub. L. 91–515, §201(a)(2), redesignated subsec. (b) as (a)(2), and substituted “subsection” for “section” wherever appearing.
+Subsec. (a)(2). Pub. L. 91–515, §201(a)(2), redesignated subsec. (b) as (a)(2), and substituted "subsection" for "section" wherever appearing.
 
-Subsec. (a)(3). Pub. L. 91–515, §§201(a)(3), 202, redesignated subsec. (c) as (a)(3)(A), substituted “subsection” for “section” wherever appearing, and added subsec. (a)(3)(B).
+Subsec. (a)(3). Pub. L. 91–515, §§201(a)(3), 202, redesignated subsec. (c) as (a)(3)(A), substituted "subsection" for "section" wherever appearing, and added subsec. (a)(3)(B).
 
 Subsec. (b). Pub. L. 91–515, §201(a)(2)(A), (b), added subsec. (b). Former subsec. (b) redesignated (a)(2).
 
@@ -96,13 +96,13 @@ Subsecs. (c), (d). Pub. L. 91–515, §§201(a)(3)(A), (c), 202(1), redesignated
 
 Pub. L. 91–296 struck out provisions authorizing use of appropriated funds for evaluation of program authorized by this section. See section 229b of this title.
 
-**1967**—Pub. L. 90–174 substituted provisions of subsecs. (a) to (d) for research and demonstrations relating to health facilities (incorporated from former section 291n of this title) for provisions of former subsecs. (a) to (d) for mental health study including grants for special projects, conditions thereof, and definition of “organization”, authorization of appropriations, terms of grant, availability of amounts otherwise appropriated and noninterference with research and study programs of the National Institute of Mental Health, and acceptance of additional financial support.
+**1967**—Pub. L. 90–174 substituted provisions of subsecs. (a) to (d) for research and demonstrations relating to health facilities (incorporated from former section 291n of this title) for provisions of former subsecs. (a) to (d) for mental health study including grants for special projects, conditions thereof, and definition of "organization", authorization of appropriations, terms of grant, availability of amounts otherwise appropriated and noninterference with research and study programs of the National Institute of Mental Health, and acceptance of additional financial support.
 
-**1956**—Act Aug. 2, 1956, changed heading of section 304 of act July 1, 1944 from “Grants for special projects in mental health” to “Mental health study grants”. Section heading has been changed for purposes of codification.
+**1956**—Act Aug. 2, 1956, changed heading of section 304 of act July 1, 1944 from "Grants for special projects in mental health" to "Mental health study grants". Section heading has been changed for purposes of codification.
 
 #### Effective Date of 1970 Amendments ####
 
-Pub. L. 91–515, title II, §201(d), Oct. 30, 1970, 84 Stat. 1303, provided that: “The amendments made by subsection (c) of this section [amending this section] shall be effective only with respect to fiscal years ending after June 30, 1970.”
+Pub. L. 91–515, title II, §201(d), Oct. 30, 1970, 84 Stat. 1303, provided that: "The amendments made by subsection (c) of this section [amending this section] shall be effective only with respect to fiscal years ending after June 30, 1970."
 
 Pub. L. 91–296, title IV, §401(b)(1), June 30, 1970, 84 Stat. 352, provided that the amendment made by that section is effective with respect to appropriations for fiscal years beginning after June 30, 1970.
 
@@ -116,7 +116,7 @@ Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, e
 
 #### Commission on Systemic Interoperability ####
 
-Pub. L. 108–173, title X, §1012, Dec. 8, 2003, 117 Stat. 2435, directed the Secretary of Health and Human Services to establish a commission to be known as the “Commission on Systemic Interoperability”, which would develop a comprehensive strategy for the adoption and implementation of health care information technology standards, and which would terminate 30 days after submitting a report, not later than Oct. 31, 2005, to the Secretary and to Congress, describing the strategy developed.
+Pub. L. 108–173, title X, §1012, Dec. 8, 2003, 117 Stat. 2435, directed the Secretary of Health and Human Services to establish a commission to be known as the "Commission on Systemic Interoperability", which would develop a comprehensive strategy for the adoption and implementation of health care information technology standards, and which would terminate 30 days after submitting a report, not later than Oct. 31, 2005, to the Secretary and to Congress, describing the strategy developed.
 
 #### Model Standards With Respect to Preventive Health Services in Communities ####
 
@@ -132,6 +132,6 @@ Joint Res. July 28, 1955, ch. 417, §2, 69 Stat. 382, provided a Congressional s
 
 #### Children's Emotional Illness Study; Program Grants; Conditions; Definitions; Appropriations; Terms of Grant ####
 
-Pub. L. 89–97, title II, §231, July 30, 1965, 79 Stat. 360, as amended by Pub. L. 90–248, title III, §305, Jan. 2, 1968, 81 Stat. 929, authorized the Secretary of Health, Education, and Welfare upon the recommendation of the National Advisory Mental Health Council and after securing the advice of experts in pediatrics and child welfare, to make grants to organizations on certain conditions for carrying out a program of research into and study of resources, methods, and practices for diagnosing or preventing emotional illness in children and of treating, caring for, and rehabilitating children with emotional illnesses, defined “organization”, and authorized appropriations for the making of such grants for fiscal years ending June 30, 1966, and June 30, 1967, with such research and study to be completed not later than three years from the date it was inaugurated.
+Pub. L. 89–97, title II, §231, July 30, 1965, 79 Stat. 360, as amended by Pub. L. 90–248, title III, §305, Jan. 2, 1968, 81 Stat. 929, authorized the Secretary of Health, Education, and Welfare upon the recommendation of the National Advisory Mental Health Council and after securing the advice of experts in pediatrics and child welfare, to make grants to organizations on certain conditions for carrying out a program of research into and study of resources, methods, and practices for diagnosing or preventing emotional illness in children and of treating, caring for, and rehabilitating children with emotional illnesses, defined "organization", and authorized appropriations for the making of such grants for fiscal years ending June 30, 1966, and June 30, 1967, with such research and study to be completed not later than three years from the date it was inaugurated.
 
 [<sup>1</sup> See References in Text note below.](#242b_1)

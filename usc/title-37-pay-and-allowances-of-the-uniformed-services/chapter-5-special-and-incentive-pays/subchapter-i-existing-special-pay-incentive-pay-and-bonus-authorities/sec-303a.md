@@ -26,7 +26,7 @@
 
 (ii) may grant an exception to the requirement to terminate the payment of any unpaid amounts of a bonus, incentive pay, or similar benefit if the Secretary concerned determines that termination of the payment of the unpaid amounts would be contrary to a personnel policy or management objective, would be against equity and good conscience, or would be contrary to the best interests of the United States.
 
-(B) In this paragraph, the term “sole survivorship discharge” means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of a member who is the only surviving child in a family in which—
+(B) In this paragraph, the term "sole survivorship discharge" means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of a member who is the only surviving child in a family in which—
 
 (i) the father or mother or one or more siblings—
 
@@ -48,7 +48,7 @@
 
 (D) Amounts to be paid to a member or the member's estate under subparagraph (A)(ii) shall be paid in a lump sum not later than 90 days after the date of the death, retirement, or separation of the member, whichever applies.
 
-(E) In this paragraph, the term “combat-related disability” has the meaning given that term in section 1413a(e) of title 10.
+(E) In this paragraph, the term "combat-related disability" has the meaning given that term in section 1413a(e) of title 10.
 
 (4) An obligation to repay the United States under this subsection is, for all purposes, a debt owed the United States. A discharge in bankruptcy under title 11 does not discharge a person from such debt if the discharge order is entered less than five years after—
 
@@ -58,9 +58,9 @@
 
 (5) In this subsection:
 
-(A) The term “bonus or similar benefit” means a bonus, incentive pay, special pay, or similar payment, or an educational benefit or stipend, paid to a member of the uniformed services under a provision of law that refers to the repayment requirements of this subsection.
+(A) The term "bonus or similar benefit" means a bonus, incentive pay, special pay, or similar payment, or an educational benefit or stipend, paid to a member of the uniformed services under a provision of law that refers to the repayment requirements of this subsection.
 
-(B) The term “service”, as used in paragraph (4)(B), refers to an obligation willingly undertaken by a member of the uniformed services, in exchange for a bonus or similar benefit offered by the Secretary of Defense or the Secretary concerned—
+(B) The term "service", as used in paragraph (4)(B), refers to an obligation willingly undertaken by a member of the uniformed services, in exchange for a bonus or similar benefit offered by the Secretary of Defense or the Secretary concerned—
 
 (i) to remain on active duty or in an active status in a reserve component;
 
@@ -80,21 +80,21 @@ Section 752 of the Public Health Service Act, as that section was in effect betw
 
 #### Amendments ####
 
-**2011**—Subsec. (e)(3)(B). Pub. L. 111–383 inserted “of” after “result”.
+**2011**—Subsec. (e)(3)(B). Pub. L. 111–383 inserted "of" after "result".
 
-**2009**—Subsec. (e)(1)(A). Pub. L. 111–84, §617(a)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+**2009**—Subsec. (e)(1)(A). Pub. L. 111–84, §617(a)(1), substituted "paragraphs (2) and (3)" for "paragraph (2)".
 
 Subsec. (e)(1)(B), (2). Pub. L. 111–84, §617(a)(5), redesignated subpar. (B), relating to sole survivorship discharge, as par. (2). Former par. (2) redesignated (3).
 
-Subsec. (e)(3) to (5). Pub. L. 111–84, §617(a)(2)–(4), redesignated pars. (2) to (4) as (3) to (5), respectively, and, in par. (5)(B), substituted “paragraph (4)(B)” for “paragraph (3)(B)” in introductory provisions.
+Subsec. (e)(3) to (5). Pub. L. 111–84, §617(a)(2)–(4), redesignated pars. (2) to (4) as (3) to (5), respectively, and, in par. (5)(B), substituted "paragraph (4)(B)" for "paragraph (3)(B)" in introductory provisions.
 
-**2008**—Subsec. (e). Pub. L. 110–417, §651(a)(1), inserted “; Termination of Entitlement to Unpaid Amounts” after “Met” in heading.
+**2008**—Subsec. (e). Pub. L. 110–417, §651(a)(1), inserted "; Termination of Entitlement to Unpaid Amounts" after "Met" in heading.
 
-Subsec. (e)(1). Pub. L. 110–417, §651(a)(2)(A), which directed substitution of “(A) Except as provided in paragraph (2), a member” for “A member”, could not be executed because of prior amendment by 110–317. See below.
+Subsec. (e)(1). Pub. L. 110–417, §651(a)(2)(A), which directed substitution of "(A) Except as provided in paragraph (2), a member" for "A member", could not be executed because of prior amendment by 110–317. See below.
 
-Pub. L. 110–317, §2(a)(1), substituted “(A) Except as provided in paragraph (2), a member” for “A member”.
+Pub. L. 110–317, §2(a)(1), substituted "(A) Except as provided in paragraph (2), a member" for "A member".
 
-Subsec. (e)(1)(A). Pub. L. 110–417, §651(a)(2)(B), substituted “the eligibility requirements and may not receive any unpaid amounts of the bonus or similar benefit after the member fails to satisfy the requirements, unless the Secretary concerned determines that the imposition of the repayment requirement and termination of the payment of unpaid amounts of the bonus or similar benefit with regard to the member would be contrary to a personnel policy or management objective, would be against equity and good conscience, or would be contrary to the best interests of the United States” for “the requirements, except in certain circumstances authorized by the Secretary concerned”.
+Subsec. (e)(1)(A). Pub. L. 110–417, §651(a)(2)(B), substituted "the eligibility requirements and may not receive any unpaid amounts of the bonus or similar benefit after the member fails to satisfy the requirements, unless the Secretary concerned determines that the imposition of the repayment requirement and termination of the payment of unpaid amounts of the bonus or similar benefit with regard to the member would be contrary to a personnel policy or management objective, would be against equity and good conscience, or would be contrary to the best interests of the United States" for "the requirements, except in certain circumstances authorized by the Secretary concerned".
 
 Subsec. (e)(1)(B). Pub. L. 110–417, §651(a)(3), redesignated par. (2) as subpar. (B) of par. (1) relating to sole survivorship discharge.
 
@@ -104,29 +104,29 @@ Subsec. (e)(2). Pub. L. 110–417, §651(b), added par. (2). Former par. (2) red
 
 Pub. L. 110–317, §2(a)(3), added par. (2). Former par. (2) redesignated as subpar. (B) of par. (1) relating to the Secretary establishing procedures for determining the amount of the repayment required under subsec. (e).
 
-**2006**—Pub. L. 109–163, §687(e)(1), substituted “Special pay: general provisions” for “Special pay: health professionals; general provisions” in section catchline.
+**2006**—Pub. L. 109–163, §687(e)(1), substituted "Special pay: general provisions" for "Special pay: health professionals; general provisions" in section catchline.
 
 Subsec. (e). Pub. L. 109–163, §687(a)(1), added subsec. (e).
 
-**2000**—Pub. L. 106–398, §1 [[div. A], title VI, §628(b)], substituted “302j” for “302h” wherever appearing.
+**2000**—Pub. L. 106–398, §1 [[div. A], title VI, §628(b)], substituted "302j" for "302h" wherever appearing.
 
 Subsecs. (b) to (d). Pub. L. 106–398, §1 [[div. A], title VI, §634(a)], added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-**1996**—Pub. L. 104–201 substituted “302h” for “302g” wherever appearing.
+**1996**—Pub. L. 104–201 substituted "302h" for "302g" wherever appearing.
 
-Pub. L. 104–106 substituted “302 through 302g,” for “302, 302a, 302b, 302c, 302d, 302e,” wherever appearing.
+Pub. L. 104–106 substituted "302 through 302g," for "302, 302a, 302b, 302c, 302d, 302e," wherever appearing.
 
-**1992**—Subsec. (b). Pub. L. 102–484 struck out “301d,” after “such sections”.
+**1992**—Subsec. (b). Pub. L. 102–484 struck out "301d," after "such sections".
 
-**1990**—Subsec. (a). Pub. L. 101–510, §§611(d), 1484(c)(1), inserted “301d,” after “sections” and substituted “and 303” for “303, and 311”.
+**1990**—Subsec. (a). Pub. L. 101–510, §§611(d), 1484(c)(1), inserted "301d," after "sections" and substituted "and 303" for "303, and 311".
 
-Subsec. (b). Pub. L. 101–510, §611(d), inserted “301d,” after “sections” wherever appearing.
+Subsec. (b). Pub. L. 101–510, §611(d), inserted "301d," after "sections" wherever appearing.
 
-Subsec. (c). Pub. L. 101–510, §§611(d), 1322(c)(2), 1484(c)(1), inserted “301d,” after “sections”, substituted “and 303” for “303, and 311”, and struck out at end “A report shall be submitted to the Congress not later than September 30, 1982, of the results of the first such review, and a report shall be submitted to the Congress not later than September 30 of each second year thereafter on the results of the review for the preceding two-year period.”
+Subsec. (c). Pub. L. 101–510, §§611(d), 1322(c)(2), 1484(c)(1), inserted "301d," after "sections", substituted "and 303" for "303, and 311", and struck out at end "A report shall be submitted to the Congress not later than September 30, 1982, of the results of the first such review, and a report shall be submitted to the Congress not later than September 30 of each second year thereafter on the results of the review for the preceding two-year period."
 
-**1989**—Pub. L. 101–189 inserted “302d, 302e,” after “302c,” wherever appearing.
+**1989**—Pub. L. 101–189 inserted "302d, 302e," after "302c," wherever appearing.
 
-**1987**—Pub. L. 100–140 inserted “302c,” after “302b,” wherever appearing.
+**1987**—Pub. L. 100–140 inserted "302c," after "302b," wherever appearing.
 
 **1980**—Subsec. (a). Pub. L. 96–513, §506(6)(A), struck out reference to sections 302c and 313 of this title.
 
@@ -138,7 +138,7 @@ Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship 
 
 #### Effective Date of 2006 Amendment ####
 
-Pub. L. 109–163, div. A, title VI, §687(a)(2), Jan. 6, 2006, 119 Stat. 3327, as amended by Pub. L. 109–364, div. A, title X, §1071(e)(6), Oct. 17, 2006, 120 Stat. 2401, provided that: “In the case of a provision of law amended by subsection (b), (c), or (d) of this section [amending sections 301b, 301d, 301e, 302, 302a, 302b, 302d to 302h, 302j, 307a, 308, 308b, 308c, 308g to 308i, 309, 312, 312b, 314 to 319, and 321 to 327 of this title, sections 510, 2005, 2007, 2105, 2123, 2130a, 2173, 2200a, 4348, 6959, 9348, 16135, 16203, 16303, and 16401 of Title 10, Armed Forces, and section 182 of Title 14, Coast Guard], paragraph (3) of subsection (e) of section 303a of title 37, United States Code, as added by this subsection, shall apply to any case commenced under title 11, United States Code, after March 30, 2006.”
+Pub. L. 109–163, div. A, title VI, §687(a)(2), Jan. 6, 2006, 119 Stat. 3327, as amended by Pub. L. 109–364, div. A, title X, §1071(e)(6), Oct. 17, 2006, 120 Stat. 2401, provided that: "In the case of a provision of law amended by subsection (b), (c), or (d) of this section [amending sections 301b, 301d, 301e, 302, 302a, 302b, 302d to 302h, 302j, 307a, 308, 308b, 308c, 308g to 308i, 309, 312, 312b, 314 to 319, and 321 to 327 of this title, sections 510, 2005, 2007, 2105, 2123, 2130a, 2173, 2200a, 4348, 6959, 9348, 16135, 16203, 16303, and 16401 of Title 10, Armed Forces, and section 182 of Title 14, Coast Guard], paragraph (3) of subsection (e) of section 303a of title 37, United States Code, as added by this subsection, shall apply to any case commenced under title 11, United States Code, after March 30, 2006."
 
 #### Effective Date of 1987 Amendment ####
 

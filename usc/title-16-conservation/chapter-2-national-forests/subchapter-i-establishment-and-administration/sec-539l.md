@@ -18,7 +18,7 @@ The purpose of this section is to provide for management of certain lands in the
 
 #### (b) Designation ####
 
-The approximately 16,000 acres of land in the Arapaho/Roosevelt National Forest generally depicted on the map entitled “Proposed James Peak Protection Area”, dated September 2001, are hereby designated as the James Peak Protection Area (hereafter in this Act referred to as the “Protection Area”).
+The approximately 16,000 acres of land in the Arapaho/Roosevelt National Forest generally depicted on the map entitled "Proposed James Peak Protection Area", dated September 2001, are hereby designated as the James Peak Protection Area (hereafter in this Act referred to as the "Protection Area").
 
 #### (c) Map and boundary description ####
 
@@ -122,8 +122,8 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 #### Short Title ####
 
-Pub. L. 107–216, §1, Aug. 21, 2002, 116 Stat. 1055, provided that: “This Act [enacting this section and sections 539l–1 to 539l–5 of this title and enacting and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title] may be cited as the ‘James Peak Wilderness and Protection Area Act’.”
+Pub. L. 107–216, §1, Aug. 21, 2002, 116 Stat. 1055, provided that: "This Act [enacting this section and sections 539l–1 to 539l–5 of this title and enacting and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title] may be cited as the 'James Peak Wilderness and Protection Area Act'."
 
-#### “Secretary” Defined ####
+#### "Secretary" Defined ####
 
-Pub. L. 107–216, §2(c), Aug. 21, 2002, 116 Stat. 1056, provided in part that in sections 539l to 539l–5 of this title “Secretary” means the Secretary of Agriculture.
+Pub. L. 107–216, §2(c), Aug. 21, 2002, 116 Stat. 1056, provided in part that in sections 539l to 539l–5 of this title "Secretary" means the Secretary of Agriculture.

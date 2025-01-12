@@ -32,15 +32,15 @@ The prohibitions of this subsection do not apply in any political subdivision th
 
 As used in this section—
 
-(A) the term “voting materials” means registration or voting notices, forms, instructions, assistance, or other materials or information relating to the electoral process, including ballots;
+(A) the term "voting materials" means registration or voting notices, forms, instructions, assistance, or other materials or information relating to the electoral process, including ballots;
 
-(B) the term “limited-English proficient” means unable to speak or understand English adequately enough to participate in the electoral process;
+(B) the term "limited-English proficient" means unable to speak or understand English adequately enough to participate in the electoral process;
 
-(C) the term “Indian reservation” means any area that is an American Indian or Alaska Native area, as defined by the Census Bureau for the purposes of the 1990 decennial census;
+(C) the term "Indian reservation" means any area that is an American Indian or Alaska Native area, as defined by the Census Bureau for the purposes of the 1990 decennial census;
 
-(D) the term “citizens” means citizens of the United States; and
+(D) the term "citizens" means citizens of the United States; and
 
-(E) the term “illiteracy” means the failure to complete the 5th primary grade.
+(E) the term "illiteracy" means the failure to complete the 5th primary grade.
 
 #### (4) Special rule ####
 
@@ -56,21 +56,21 @@ Any State or political subdivision subject to the prohibition of subsection (b) 
 
 #### (e) Definitions ####
 
-For purposes of this section, the term “language minorities” or “language minority group” means persons who are American Indian, Asian American, Alaskan Natives, or of Spanish heritage.
+For purposes of this section, the term "language minorities" or "language minority group" means persons who are American Indian, Asian American, Alaskan Natives, or of Spanish heritage.
 
 (Pub. L. 89–110, title II, §203, as added Pub. L. 94–73, title III, §301, Aug. 6, 1975, 89 Stat. 402; amended Pub. L. 97–205, §§2(d), 4, June 29, 1982, 96 Stat. 134; Pub. L. 102–344, §2, Aug. 26, 1992, 106 Stat. 921; Pub. L. 109–246, §§7, 8, July 27, 2006, 120 Stat. 581.)
 
 #### Amendments ####
 
-**2006**—Subsec. (b)(1). Pub. L. 109–246, §7, substituted “2032” for “2007”.
+**2006**—Subsec. (b)(1). Pub. L. 109–246, §7, substituted "2032" for "2007".
 
-Subsec. (b)(2)(A). Pub. L. 109–246, §8, substituted “the 2010 American Community Survey census data and subsequent American Community Survey data in 5-year increments, or comparable census data” for “census data” in introductory provisions.
+Subsec. (b)(2)(A). Pub. L. 109–246, §8, substituted "the 2010 American Community Survey census data and subsequent American Community Survey data in 5-year increments, or comparable census data" for "census data" in introductory provisions.
 
-**1992**—Subsec. (b). Pub. L. 102–344 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Prior to August 6, 1992, no State or political subdivision shall provide registration or voting notices, forms, instructions, assistance, or other materials or information relating to the electoral process, including ballots, only in the English language if the Director of the Census determines (i) that more than 5 percent of the citizens of voting age of such State or political subdivision are members of a single language minority and (ii) that the illiteracy rate of such persons as a group is higher than the national illiteracy rate: *Provided*, That the prohibitions of this subsection shall not apply in any political subdivision which has less than five percent voting age citizens of each language minority which comprises over five percent of the statewide population of voting age citizens. For purposes of this subsection, illiteracy means the failure to complete the fifth primary grade. The determinations of the Director of the Census under this subsection shall be effective upon publication in the Federal Register and shall not be subject to review in any court.”
+**1992**—Subsec. (b). Pub. L. 102–344 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Prior to August 6, 1992, no State or political subdivision shall provide registration or voting notices, forms, instructions, assistance, or other materials or information relating to the electoral process, including ballots, only in the English language if the Director of the Census determines (i) that more than 5 percent of the citizens of voting age of such State or political subdivision are members of a single language minority and (ii) that the illiteracy rate of such persons as a group is higher than the national illiteracy rate: *Provided*, That the prohibitions of this subsection shall not apply in any political subdivision which has less than five percent voting age citizens of each language minority which comprises over five percent of the statewide population of voting age citizens. For purposes of this subsection, illiteracy means the failure to complete the fifth primary grade. The determinations of the Director of the Census under this subsection shall be effective upon publication in the Federal Register and shall not be subject to review in any court."
 
-**1982**—Subsec. (b). Pub. L. 97–205, §4, substituted “Prior to August 6, 1992” for “Prior to August 6, 1985”.
+**1982**—Subsec. (b). Pub. L. 97–205, §4, substituted "Prior to August 6, 1992" for "Prior to August 6, 1985".
 
-Subsec. (c). Pub. L. 97–205, §2(d), inserted “and American Indians” after “Alaskan natives”.
+Subsec. (c). Pub. L. 97–205, §2(d), inserted "and American Indians" after "Alaskan natives".
 
 #### Effective Date of 1982 Amendment ####
 
@@ -78,4 +78,4 @@ Amendment by Pub. L. 97–205 effective June 29, 1982, see section 6 of Pub. L. 
 
 #### Extension to August 6, 1992, of Prohibition on Use of Voting Instructions, Assistance, or Other Materials or Information in English Only; Limitations Based on 1980 Census and Subsequent Census Data ####
 
-Pub. L. 97–205, §4, June 29, 1982, 96 Stat. 134, provided in part that: “[T]he extension made by this section [amending subsec. (b) of this section] shall apply only to determinations made by the Director of the Census under clause (i) of section 203(b) [subsec. (b)(i) of this section] for members of a single language minority who do not speak or understand English adequately enough to participate in the electoral process when such a determination can be made by the Director of the Census based on the 1980 and subsequent census data.”
+Pub. L. 97–205, §4, June 29, 1982, 96 Stat. 134, provided in part that: "[T]he extension made by this section [amending subsec. (b) of this section] shall apply only to determinations made by the Director of the Census under clause (i) of section 203(b) [subsec. (b)(i) of this section] for members of a single language minority who do not speak or understand English adequately enough to participate in the electoral process when such a determination can be made by the Director of the Census based on the 1980 and subsequent census data."

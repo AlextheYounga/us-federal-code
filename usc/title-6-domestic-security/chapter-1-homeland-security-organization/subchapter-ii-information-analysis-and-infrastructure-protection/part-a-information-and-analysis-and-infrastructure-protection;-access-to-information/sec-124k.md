@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-To improve the sharing of information within the scope of the information sharing environment established under section 485 of this title with State, local, tribal, and private sector officials, the Director of National Intelligence, through the program manager for the information sharing environment, in coordination with the Secretary, shall coordinate and oversee the creation of an Interagency Threat Assessment and Coordination Group (referred to in this section as the “ITACG”).
+To improve the sharing of information within the scope of the information sharing environment established under section 485 of this title with State, local, tribal, and private sector officials, the Director of National Intelligence, through the program manager for the information sharing environment, in coordination with the Secretary, shall coordinate and oversee the creation of an Interagency Threat Assessment and Coordination Group (referred to in this section as the "ITACG").
 
 #### (b) Composition of ITACG ####
 
@@ -130,7 +130,7 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 
 #### Amendments ####
 
-**2010**—Subsec. (c). Pub. L. 111–258, §5(c)(1), struck out “, in consultation with the Information Sharing Council,” after “program manager” in introductory provisions.
+**2010**—Subsec. (c). Pub. L. 111–258, §5(c)(1), struck out ", in consultation with the Information Sharing Council," after "program manager" in introductory provisions.
 
 Subsec. (c)(3). Pub. L. 111–258, §5(c)(2)–(4), added par. (3).
 
@@ -138,4 +138,4 @@ Subsec. (d)(5)(E), (F). Pub. L. 111–258, §5(b)(2)(A), added subpar. (E) and r
 
 Subsec. (d)(8), (9). Pub. L. 111–258, §5(b)(2)(B)–(D), added pars. (8) and (9).
 
-[<sup>1</sup> So in original. Probably should be section “3056(f)(1)(E)”.](#124k_1)
+[<sup>1</sup> So in original. Probably should be section "3056(f)(1)(E)".](#124k_1)

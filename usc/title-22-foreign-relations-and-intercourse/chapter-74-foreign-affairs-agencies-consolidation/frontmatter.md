@@ -72,7 +72,7 @@ Sec.
 
 #### Part B—Authorities of Secretary of State ####
 
-6591. “United States assistance” defined.
+6591. "United States assistance" defined.
 
 6592. Administrator of AID reporting to Secretary of State.
 

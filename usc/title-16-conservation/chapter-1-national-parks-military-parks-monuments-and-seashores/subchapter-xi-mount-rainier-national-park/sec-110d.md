@@ -2,7 +2,7 @@
 
 #### (a) Boundary adjustment ####
 
-The boundary of Mount Rainier National Park is modified to include the area within the boundary generally depicted on the map entitled “Mount Rainier National Park, Carbon River Boundary Adjustment”, numbered 105/92,002B, and dated June 2003. The Secretary of the Interior shall keep the map on file in the appropriate offices of the National Park Service.
+The boundary of Mount Rainier National Park is modified to include the area within the boundary generally depicted on the map entitled "Mount Rainier National Park, Carbon River Boundary Adjustment", numbered 105/92,002B, and dated June 2003. The Secretary of the Interior shall keep the map on file in the appropriate offices of the National Park Service.
 
 #### (b) Land acquisition ####
 
@@ -24,12 +24,12 @@ For short title of Pub. L. 108–312, which enacted this section, as the Mount R
 
 #### Findings ####
 
-Pub. L. 108–312, §2, Oct. 5, 2004, 118 Stat. 1194, provided that: “The Congress finds the following:
+Pub. L. 108–312, §2, Oct. 5, 2004, 118 Stat. 1194, provided that: "The Congress finds the following:
 
-“(1) The Carbon River watershed within Pierce County in the State of Washington has unique qualities of ecological, economic, and educational importance, including clean water, productive salmon streams, important wildlife habitat, active geologic processes, outdoor recreational opportunities, scenic beauty, educational opportunities, and diverse economic opportunities.
+"(1) The Carbon River watershed within Pierce County in the State of Washington has unique qualities of ecological, economic, and educational importance, including clean water, productive salmon streams, important wildlife habitat, active geologic processes, outdoor recreational opportunities, scenic beauty, educational opportunities, and diverse economic opportunities.
 
-“(2) Mount Rainier National Park is one of the premier attractions in the State of Washington, providing recreational, educational, and economic opportunities that will be enhanced by the construction of new campgrounds and visitor contact facilities in the Carbon River valley outside old-growth forest habitats and above the flood plain.
+"(2) Mount Rainier National Park is one of the premier attractions in the State of Washington, providing recreational, educational, and economic opportunities that will be enhanced by the construction of new campgrounds and visitor contact facilities in the Carbon River valley outside old-growth forest habitats and above the flood plain.
 
-“(3) Coordination of management across national forest and national park lands in this corridor will enhance the conservation of the forest ecosystem and public enjoyment of these public lands.
+"(3) Coordination of management across national forest and national park lands in this corridor will enhance the conservation of the forest ecosystem and public enjoyment of these public lands.
 
-“(4) Protection and development of historic and recreational facilities in the Carbon River valley, such as trails and visitor centers, can be facilitated by the National Park Service.”
+"(4) Protection and development of historic and recreational facilities in the Carbon River valley, such as trails and visitor centers, can be facilitated by the National Park Service."

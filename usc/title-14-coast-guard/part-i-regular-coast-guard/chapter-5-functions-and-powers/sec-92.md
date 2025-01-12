@@ -48,13 +48,13 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments ####
 
-**2011**—Subsec. (d). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
+**2011**—Subsec. (d). Pub. L. 111–350 substituted "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)".
 
-**2002**—Subsec. (d). Pub. L. 107–217 inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
+**2002**—Subsec. (d). Pub. L. 107–217 inserted "subtitle I of title 40 and title III of" before "the Federal Property and Administrative Services Act of 1949" and substituted "(41 U.S.C. 251 et seq.)" for "(40 U.S.C. 471 et seq.)".
 
 **1984**—Subsec. (b). Pub. L. 98–557 substituted reference to members for reference to officers and enlisted men.
 
-**1982**—Subsec. (d). Pub. L. 97–295 substituted “(40 U.S.C. 471 et seq.)” for “, as amended,” after “Act of 1949”.
+**1982**—Subsec. (d). Pub. L. 97–295 substituted "(40 U.S.C. 471 et seq.)" for ", as amended," after "Act of 1949".
 
 **1951**—Subsec. (c). Act Oct. 31, 1951, §3(3), struck out provision relating to sale or other disposition of unsuitable or unserviceable shore establishments, and disposition of the net monies received therefrom.
 
@@ -70,177 +70,177 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Pub. L. 111–281, title III, §307, Oct. 15, 2010, 124 Stat. 2927, provided that:
 
-“(a) Purpose.—The purpose of this section is to ensure safe and secure maritime shipping in the Arctic including the availability of aids to navigation, vessel escorts, spill response capability, and maritime search and rescue in the Arctic.
+"(a) Purpose.—The purpose of this section is to ensure safe and secure maritime shipping in the Arctic including the availability of aids to navigation, vessel escorts, spill response capability, and maritime search and rescue in the Arctic.
 
-“(b) International Maritime Organization Agreements.—To carry out the purpose of this section, the Secretary of the department in which the Coast Guard is operating is encouraged to enter into negotiations through the International Maritime Organization to conclude and execute agreements to promote coordinated action among the United States, Russia, Canada, Iceland, Norway, and Denmark and other seafaring and Arctic nations to ensure, in the Arctic—
+"(b) International Maritime Organization Agreements.—To carry out the purpose of this section, the Secretary of the department in which the Coast Guard is operating is encouraged to enter into negotiations through the International Maritime Organization to conclude and execute agreements to promote coordinated action among the United States, Russia, Canada, Iceland, Norway, and Denmark and other seafaring and Arctic nations to ensure, in the Arctic—
 
-“(1) placement and maintenance of aids to navigation;
+"(1) placement and maintenance of aids to navigation;
 
-“(2) appropriate marine safety, tug, and salvage capabilities;
+"(2) appropriate marine safety, tug, and salvage capabilities;
 
-“(3) oil spill prevention and response capability;
+"(3) oil spill prevention and response capability;
 
-“(4) maritime domain awareness, including long-range vessel tracking; and
+"(4) maritime domain awareness, including long-range vessel tracking; and
 
-“(5) search and rescue.
+"(5) search and rescue.
 
-“(c) Coordination by Committee on the Maritime Transportation System.—The Committee on the Maritime Transportation System established under a directive of the President in the Ocean Action Plan, issued December 17, 2004, shall coordinate the establishment of domestic transportation policies in the Arctic necessary to carry out the purpose of this section.
+"(c) Coordination by Committee on the Maritime Transportation System.—The Committee on the Maritime Transportation System established under a directive of the President in the Ocean Action Plan, issued December 17, 2004, shall coordinate the establishment of domestic transportation policies in the Arctic necessary to carry out the purpose of this section.
 
-“(d) Agreements and Contracts.—The Secretary of the department in which the Coast Guard is operating may, subject to the availability of appropriations, enter into cooperative agreements, contracts, or other agreements with, or make grants to individuals and governments to carry out the purpose of this section or any agreements established under subsection (b).
+"(d) Agreements and Contracts.—The Secretary of the department in which the Coast Guard is operating may, subject to the availability of appropriations, enter into cooperative agreements, contracts, or other agreements with, or make grants to individuals and governments to carry out the purpose of this section or any agreements established under subsection (b).
 
-“(e) Icebreaking.—The Secretary of the department in which the Coast Guard is operating shall promote safe maritime navigation by means of icebreaking where necessary, feasible, and effective to carry out the purposes of this section.
+"(e) Icebreaking.—The Secretary of the department in which the Coast Guard is operating shall promote safe maritime navigation by means of icebreaking where necessary, feasible, and effective to carry out the purposes of this section.
 
-“(f) Independent Ice Breaker Analyses.—
+"(f) Independent Ice Breaker Analyses.—
 
-“(1) In general.—Not later than 90 days after the date of enactment of this Act [Oct. 15, 2010], the Secretary of the department in which the Coast Guard is operating shall require a nongovernmental, independent third party (other than the National Academy of Sciences) that has extensive experience in the analysis of military procurements, to—
+"(1) In general.—Not later than 90 days after the date of enactment of this Act [Oct. 15, 2010], the Secretary of the department in which the Coast Guard is operating shall require a nongovernmental, independent third party (other than the National Academy of Sciences) that has extensive experience in the analysis of military procurements, to—
 
-“(A) conduct a comparative cost-benefit analysis, taking into account future Coast Guard budget projections (which assume Coast Guard budget growth of no more than inflation) and other recapitalization needs, of—
+"(A) conduct a comparative cost-benefit analysis, taking into account future Coast Guard budget projections (which assume Coast Guard budget growth of no more than inflation) and other recapitalization needs, of—
 
-“(i) rebuilding, renovating, or improving the existing fleet of polar icebreakers for operation by the Coast Guard;
+"(i) rebuilding, renovating, or improving the existing fleet of polar icebreakers for operation by the Coast Guard;
 
-“(ii) constructing new polar icebreakers for operation by the Coast Guard;
+"(ii) constructing new polar icebreakers for operation by the Coast Guard;
 
-“(iii) construction of new polar icebreakers by the National Science Foundation for operation by the Foundation;
+"(iii) construction of new polar icebreakers by the National Science Foundation for operation by the Foundation;
 
-“(iv) rebuilding, renovating, or improving the existing fleet of polar icebreakers by the National Science Foundation for operation by the Foundation; and
+"(iv) rebuilding, renovating, or improving the existing fleet of polar icebreakers by the National Science Foundation for operation by the Foundation; and
 
-“(v) any combination of the activities described in clause (i), (ii), (iii), or (iv) to carry out the missions of the Coast Guard and the National Science Foundation; and
+"(v) any combination of the activities described in clause (i), (ii), (iii), or (iv) to carry out the missions of the Coast Guard and the National Science Foundation; and
 
-“(B) conduct a comprehensive analysis of the impact on all Coast Guard activities, including operations, maintenance, procurements, and end strength, of the acquisition of polar icebreakers described in subparagraph (A) by the Coast Guard or the National Science Foundation assuming that total Coast Guard funding will not increase more than the annual rate of inflation.
+"(B) conduct a comprehensive analysis of the impact on all Coast Guard activities, including operations, maintenance, procurements, and end strength, of the acquisition of polar icebreakers described in subparagraph (A) by the Coast Guard or the National Science Foundation assuming that total Coast Guard funding will not increase more than the annual rate of inflation.
 
-“(2) Report.—Not later than 1 year after the date of enactment of this Act, the Secretary of the department in which the Coast Guard is operating shall submit a report containing the results of the analyses required under paragraph (1), together with recommendations the Commandant considers appropriate under section 93(a)(24) of title 14, United States Code, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+"(2) Report.—Not later than 1 year after the date of enactment of this Act, the Secretary of the department in which the Coast Guard is operating shall submit a report containing the results of the analyses required under paragraph (1), together with recommendations the Commandant considers appropriate under section 93(a)(24) of title 14, United States Code, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-“(g) High-Latitude Study.—Not later than 90 days after the date of enactment of this Act [Oct. 15, 2010] or the date of completion of the ongoing High-Latitude Study to assess polar icebreaking mission requirements for all Coast Guard missions including search and rescue, marine pollution response and prevention, fisheries enforcement, and maritime commerce, whichever occurs later, the Commandant of the Coast Guard shall submit a report containing the results of the study, together with recommendations the Commandant considers appropriate under section 93(a)(24) of title 14, United States Code, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+"(g) High-Latitude Study.—Not later than 90 days after the date of enactment of this Act [Oct. 15, 2010] or the date of completion of the ongoing High-Latitude Study to assess polar icebreaking mission requirements for all Coast Guard missions including search and rescue, marine pollution response and prevention, fisheries enforcement, and maritime commerce, whichever occurs later, the Commandant of the Coast Guard shall submit a report containing the results of the study, together with recommendations the Commandant considers appropriate under section 93(a)(24) of title 14, United States Code, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-“(h) Arctic Definition.—In this section the term ‘Arctic’ has the same meaning as in section 112 of the Arctic Research and Policy Act of 1984 (15 U.S.C. 4111).”
+"(h) Arctic Definition.—In this section the term 'Arctic' has the same meaning as in section 112 of the Arctic Research and Policy Act of 1984 (15 U.S.C. 4111)."
 
 #### Conveyance of Coast Guard Vessels for Public Purposes ####
 
 Pub. L. 111–281, title IX, §914, Oct. 15, 2010, 124 Stat. 3018, provided that:
 
-“(a) In General.—Whenever the transfer of ownership of a Coast Guard vessel or aircraft to an eligible entity for use for educational, cultural, historical, charitable, recreational, or other public purposes is authorized by law or declared excess by the Commandant, the Coast Guard shall transfer the vessel or aircraft to the General Services Administration for conveyance to the eligible entity.
+"(a) In General.—Whenever the transfer of ownership of a Coast Guard vessel or aircraft to an eligible entity for use for educational, cultural, historical, charitable, recreational, or other public purposes is authorized by law or declared excess by the Commandant, the Coast Guard shall transfer the vessel or aircraft to the General Services Administration for conveyance to the eligible entity.
 
-“(b) Conditions of Conveyance.—The General Services Administration may not convey a vessel or aircraft to an eligible entity as authorized by law unless the eligible entity agrees—
+"(b) Conditions of Conveyance.—The General Services Administration may not convey a vessel or aircraft to an eligible entity as authorized by law unless the eligible entity agrees—
 
-“(1) to provide the documentation needed by the General Services Administration to process a request for aircraft or vessels under section 102.37.225 of title 41, Code of Federal Regulations;
+"(1) to provide the documentation needed by the General Services Administration to process a request for aircraft or vessels under section 102.37.225 of title 41, Code of Federal Regulations;
 
-“(2) to comply with the special terms, conditions, and restrictions imposed on aircraft and vessels under section 102.37.460 of such title;
+"(2) to comply with the special terms, conditions, and restrictions imposed on aircraft and vessels under section 102.37.460 of such title;
 
-“(3) to make the vessel available to the United States Government if it is needed for use by the Commandant of the Coast Guard in time of war or a national emergency; and
+"(3) to make the vessel available to the United States Government if it is needed for use by the Commandant of the Coast Guard in time of war or a national emergency; and
 
-“(4) to hold the United States Government harmless for any claims arising from exposure to hazardous materials, including asbestos and polychlorinated biphenyls, that occurs after conveyance of the vessel, except for claims arising from use of the vessel by the United States Government under paragraph (3).
+"(4) to hold the United States Government harmless for any claims arising from exposure to hazardous materials, including asbestos and polychlorinated biphenyls, that occurs after conveyance of the vessel, except for claims arising from use of the vessel by the United States Government under paragraph (3).
 
-“(c) Other Obligations Unaffected.—Nothing in this section amends or affects any obligation of the Coast Guard or any other person under the Toxic Substances Control Act (15 U.S.C. 2601 et seq.) or any other law regarding use or disposal of hazardous materials including asbestos and polychlorinated biphenyls.
+"(c) Other Obligations Unaffected.—Nothing in this section amends or affects any obligation of the Coast Guard or any other person under the Toxic Substances Control Act (15 U.S.C. 2601 et seq.) or any other law regarding use or disposal of hazardous materials including asbestos and polychlorinated biphenyls.
 
-“(d) Eligible Entity Defined.—In this section, the term ‘eligible entity’ means a State or local government, nonprofit corporation, educational agency, community development organization, or other entity that agrees to comply with the conditions established under this section.”
+"(d) Eligible Entity Defined.—In this section, the term 'eligible entity' means a State or local government, nonprofit corporation, educational agency, community development organization, or other entity that agrees to comply with the conditions established under this section."
 
 #### Implementation of International Agreements ####
 
-Pub. L. 109–241, title VIII, §801, July 11, 2006, 120 Stat. 562, provided that: “In consultation with appropriate Federal agencies, the Secretary of the department in which the Coast Guard is operating shall work with the responsible officials and agencies of other nations to accelerate efforts at the International Maritime Organization to enhance oversight and enforcement of security, environmental, and other agreements adopted within the International Maritime Organization by flag States on whom such agreements are binding, including implementation of—
+Pub. L. 109–241, title VIII, §801, July 11, 2006, 120 Stat. 562, provided that: "In consultation with appropriate Federal agencies, the Secretary of the department in which the Coast Guard is operating shall work with the responsible officials and agencies of other nations to accelerate efforts at the International Maritime Organization to enhance oversight and enforcement of security, environmental, and other agreements adopted within the International Maritime Organization by flag States on whom such agreements are binding, including implementation of—
 
-“(1) a code outlining flag State responsibilities and obligations;
+"(1) a code outlining flag State responsibilities and obligations;
 
-“(2) an audit regime for evaluating flag State performance;
+"(2) an audit regime for evaluating flag State performance;
 
-“(3) measures to ensure that responsible organizations, acting on behalf of flag States, meet established performance standards; and
+"(3) measures to ensure that responsible organizations, acting on behalf of flag States, meet established performance standards; and
 
-“(4) cooperative arrangements to improve enforcement on a bilateral, regional, or international basis.”
+"(4) cooperative arrangements to improve enforcement on a bilateral, regional, or international basis."
 
 #### Voluntary Measures for Reducing Pollution From Recreational Boats ####
 
-Pub. L. 109–241, title VIII, §802, July 11, 2006, 120 Stat. 563, provided that: “In consultation with appropriate Federal, State, and local government agencies, the Secretary of the department in which the Coast Guard is operating shall undertake outreach programs for educating the owners and operators of boats using two-stroke engines about the pollution associated with such engines and support voluntary programs that reduce such pollution and encourage the early replacement of older two-stroke engines.”
+Pub. L. 109–241, title VIII, §802, July 11, 2006, 120 Stat. 563, provided that: "In consultation with appropriate Federal, State, and local government agencies, the Secretary of the department in which the Coast Guard is operating shall undertake outreach programs for educating the owners and operators of boats using two-stroke engines about the pollution associated with such engines and support voluntary programs that reduce such pollution and encourage the early replacement of older two-stroke engines."
 
 #### Great Lakes Lighthouses ####
 
 Pub. L. 107–295, title III, §345, Nov. 25, 2002, 116 Stat. 2106, provided that:
 
-“(a) Findings.—The Congress finds the following:
+"(a) Findings.—The Congress finds the following:
 
-“(1) The Great Lakes are home to more than 400 lighthouses. One hundred and twenty of these maritime landmarks are in the State of Michigan.
+"(1) The Great Lakes are home to more than 400 lighthouses. One hundred and twenty of these maritime landmarks are in the State of Michigan.
 
-“(2) Lighthouses are an important part of Great Lakes culture and stand as a testament to the importance of shipping in the region's political, economic, and social history.
+"(2) Lighthouses are an important part of Great Lakes culture and stand as a testament to the importance of shipping in the region's political, economic, and social history.
 
-“(3) Advances in navigation technology have made many Great Lakes lighthouses obsolete. In Michigan alone, approximately 70 lighthouses will be designated as excess property of the Federal Government and will be transferred to the General Services Administration for disposal.
+"(3) Advances in navigation technology have made many Great Lakes lighthouses obsolete. In Michigan alone, approximately 70 lighthouses will be designated as excess property of the Federal Government and will be transferred to the General Services Administration for disposal.
 
-“(4) Unfortunately, the Federal property disposal process is confusing, complicated, and not well-suited to disposal of historic lighthouses or to facilitate transfers to nonprofit organizations. This is especially troubling because, in many cases, local nonprofit historical organizations have dedicated tremendous resources to preserving and maintaining Great Lakes lighthouses.
+"(4) Unfortunately, the Federal property disposal process is confusing, complicated, and not well-suited to disposal of historic lighthouses or to facilitate transfers to nonprofit organizations. This is especially troubling because, in many cases, local nonprofit historical organizations have dedicated tremendous resources to preserving and maintaining Great Lakes lighthouses.
 
-“(5) If Great Lakes lighthouses disappear, the public will be unaware of an important chapter in Great Lakes history.
+"(5) If Great Lakes lighthouses disappear, the public will be unaware of an important chapter in Great Lakes history.
 
-“(6) The National Trust for Historic Preservation has placed Michigan lighthouses on their list of Most Endangered Historic Places.
+"(6) The National Trust for Historic Preservation has placed Michigan lighthouses on their list of Most Endangered Historic Places.
 
-“(b) Assistance for Great Lakes Lighthouse Preservation Efforts.—The Secretary of the department in which the Coast Guard is operating, may—
+"(b) Assistance for Great Lakes Lighthouse Preservation Efforts.—The Secretary of the department in which the Coast Guard is operating, may—
 
-“(1) continue to offer advice and technical assistance to organizations in the Great Lakes region that are dedicated to lighthouse stewardship; and
+"(1) continue to offer advice and technical assistance to organizations in the Great Lakes region that are dedicated to lighthouse stewardship; and
 
-“(2) promptly release information regarding the timing of designations of Coast Guard lighthouses on the Great Lakes as excess to the needs of the Coast Guard, to enable those organizations to mobilize and be prepared to take appropriate action with respect to the disposal of those properties.”
+"(2) promptly release information regarding the timing of designations of Coast Guard lighthouses on the Great Lakes as excess to the needs of the Coast Guard, to enable those organizations to mobilize and be prepared to take appropriate action with respect to the disposal of those properties."
 
 #### VHF Communications Services ####
 
 Pub. L. 107–295, title IV, §406, Nov. 25, 2002, 116 Stat. 2116, provided that:
 
-“(a) The Secretary of the department in which the Coast Guard is operating may authorize a person providing commercial VHF communications services to place commercial VHF communications equipment on real property under the administrative control of the Coast Guard (including towers) subject to any terms agreed to by the parties. The Secretary and that commercial VHF communications service provider also may enter into an agreement providing for VHF communications services to the Coast Guard (including digital selective calling and radio direction finding services) at a discounted rate or price based on providing such access to real property under the administrative control of the Coast Guard.
+"(a) The Secretary of the department in which the Coast Guard is operating may authorize a person providing commercial VHF communications services to place commercial VHF communications equipment on real property under the administrative control of the Coast Guard (including towers) subject to any terms agreed to by the parties. The Secretary and that commercial VHF communications service provider also may enter into an agreement providing for VHF communications services to the Coast Guard (including digital selective calling and radio direction finding services) at a discounted rate or price based on providing such access to real property under the administrative control of the Coast Guard.
 
-“(b) Commercial VHF communication equipment placed on real property under the administrative control of the Coast Guard under this section shall not interfere in any manner with any current or future Coast Guard communication equipment.
+"(b) Commercial VHF communication equipment placed on real property under the administrative control of the Coast Guard under this section shall not interfere in any manner with any current or future Coast Guard communication equipment.
 
-“(c) Nothing in this section shall affect the rights or obligations of the United States under section 704(c) of the Telecommunications Act of 1996 [Pub. L. 104–104] (47 U.S.C. 332 note) with respect to the availability of property or under section 359(d) of the Communications Act of 1934 (47 U.S.C. 357(d)) with respect to charges for transmission of distress messages.”
+"(c) Nothing in this section shall affect the rights or obligations of the United States under section 704(c) of the Telecommunications Act of 1996 [Pub. L. 104–104] (47 U.S.C. 332 note) with respect to the availability of property or under section 359(d) of the Communications Act of 1934 (47 U.S.C. 357(d)) with respect to charges for transmission of distress messages."
 
 #### Purchase of American-Made Equipment and Products; Notice to Recipients of Assistance ####
 
 Pub. L. 104–324, title XI, §1127, Oct. 19, 1996, 110 Stat. 3983, provided that:
 
-“(a) Purchase of American-Made Equipment and Products.—It is the sense of the Congress that, to the greatest extent practicable, all equipment and products purchased with funds made available under this Act [see Tables for classification] should be American-made.
+"(a) Purchase of American-Made Equipment and Products.—It is the sense of the Congress that, to the greatest extent practicable, all equipment and products purchased with funds made available under this Act [see Tables for classification] should be American-made.
 
-“(b) Notice to Recipients of Assistance.—In providing financial assistance under this Act, the official responsible for providing the assistance, to the greatest extent practicable, shall provide to each recipient of the assistance a notice describing the statement made in subsection (a) by the Congress.”
+"(b) Notice to Recipients of Assistance.—In providing financial assistance under this Act, the official responsible for providing the assistance, to the greatest extent practicable, shall provide to each recipient of the assistance a notice describing the statement made in subsection (a) by the Congress."
 
 #### Coast Guard Vessel Design ####
 
-Pub. L. 101–380, title IV, §4203, Aug. 18, 1990, 104 Stat. 532, provided that: “The Secretary shall ensure that vessels designed and constructed to replace Coast Guard buoy tenders are equipped with oil skimming systems that are readily available and operable, and that complement the primary mission of servicing aids to navigation.”
+Pub. L. 101–380, title IV, §4203, Aug. 18, 1990, 104 Stat. 532, provided that: "The Secretary shall ensure that vessels designed and constructed to replace Coast Guard buoy tenders are equipped with oil skimming systems that are readily available and operable, and that complement the primary mission of servicing aids to navigation."
 
 #### Authorization of Junior Reserve Officers Training Program Pilot Program ####
 
 Pub. L. 101–225, title II, §204, Dec. 12, 1989, 103 Stat. 1911, provided that:
 
-“(a) In General.—The Secretary of the department in which the Coast Guard is operating (hereinafter in this section referred to as the ‘Secretary’) may carry out a pilot program to establish and maintain a junior reserve officers training program in cooperation with the Dade County Public School System of Dade County, Florida, as part of the Maritime and Science Technology Academy established by that school system (hereinafter in this section referred to as the ‘Academy’).
+"(a) In General.—The Secretary of the department in which the Coast Guard is operating (hereinafter in this section referred to as the 'Secretary') may carry out a pilot program to establish and maintain a junior reserve officers training program in cooperation with the Dade County Public School System of Dade County, Florida, as part of the Maritime and Science Technology Academy established by that school system (hereinafter in this section referred to as the 'Academy').
 
-“(b) Program Requirements.—A pilot program carried out by the Secretary under this section—
+"(b) Program Requirements.—A pilot program carried out by the Secretary under this section—
 
-“(1) shall be known as the ‘Claude Pepper Junior Reserve Officers Training Program’, and
+"(1) shall be known as the 'Claude Pepper Junior Reserve Officers Training Program', and
 
-“(2) shall provide to students at the Academy—
+"(2) shall provide to students at the Academy—
 
-“(A) instruction in subject areas relating to operations of the Coast Guard; and
+"(A) instruction in subject areas relating to operations of the Coast Guard; and
 
-“(B) training in skills which are useful and appropriate for a career in the Coast Guard.
+"(B) training in skills which are useful and appropriate for a career in the Coast Guard.
 
-“(c) Provision of Additional Support.—To carry out a pilot program under this section, the Secretary may provide to the Academy—
+"(c) Provision of Additional Support.—To carry out a pilot program under this section, the Secretary may provide to the Academy—
 
-“(1) assistance in course development, instruction, and other support activities;
+"(1) assistance in course development, instruction, and other support activities;
 
-“(2) commissioned, warrant, and petty officers of the Coast Guard to serve as administrators and instructors; and
+"(2) commissioned, warrant, and petty officers of the Coast Guard to serve as administrators and instructors; and
 
-“(3) necessary and appropriate course materials, equipment, and uniforms.
+"(3) necessary and appropriate course materials, equipment, and uniforms.
 
-“(d) Employment of Retired Coast Guard Personnel.—
+"(d) Employment of Retired Coast Guard Personnel.—
 
-“(1) In general.—Subject to paragraph (2) of this subsection, the Secretary may authorize the Academy to employ as administrators and instructors for the pilot program retired Coast Guard and Coast Guard Reserve commissioned, warrant, and petty officers who request that employment and who are approved by the Secretary and the Academy.
+"(1) In general.—Subject to paragraph (2) of this subsection, the Secretary may authorize the Academy to employ as administrators and instructors for the pilot program retired Coast Guard and Coast Guard Reserve commissioned, warrant, and petty officers who request that employment and who are approved by the Secretary and the Academy.
 
-“(2) Authorized pay.—(A) Retired members employed under paragraph (1) of this subsection are entitled to receive their retired or retainer pay and an additional amount of not more than the difference between—
+"(2) Authorized pay.—(A) Retired members employed under paragraph (1) of this subsection are entitled to receive their retired or retainer pay and an additional amount of not more than the difference between—
 
-“(i) the amount the individual would be paid as pay and allowance if they were considered to have been ordered to active duty during that period of employment; and
+"(i) the amount the individual would be paid as pay and allowance if they were considered to have been ordered to active duty during that period of employment; and
 
-“(ii) the amount of retired pay the individual is entitled to receive during that period.
+"(ii) the amount of retired pay the individual is entitled to receive during that period.
 
-“(B) The Secretary shall pay to the Academy an amount equal to one half of the amount described in subparagraph (A) of this paragraph, from funds appropriated for that purpose.
+"(B) The Secretary shall pay to the Academy an amount equal to one half of the amount described in subparagraph (A) of this paragraph, from funds appropriated for that purpose.
 
-“(C) Notwithstanding any other law, while employed under this subsection, an individual is not considered to be on active duty or inactive duty training.”
+"(C) Notwithstanding any other law, while employed under this subsection, an individual is not considered to be on active duty or inactive duty training."
 
 #### Consideration of Maritime Administration Vessels ####
 
-Pub. L. 101–225, title II, §213, Dec. 12, 1989, 103 Stat. 1914, provided that: “Before acquiring a vessel for use by the Coast Guard, the Secretary of Transportation or the Commandant of the Coast Guard, as appropriate, shall review the inventory of vessels acquired by the Secretary or the Secretary of Commerce as the result of a default under title XI of the Merchant Marine Act, 1936 ([former] 46 App. U.S.C. 1271–1279c) [see 46 U.S.C. 53701 et seq.], to determine whether any of those vessels are suitable for use by the Coast Guard.”
+Pub. L. 101–225, title II, §213, Dec. 12, 1989, 103 Stat. 1914, provided that: "Before acquiring a vessel for use by the Coast Guard, the Secretary of Transportation or the Commandant of the Coast Guard, as appropriate, shall review the inventory of vessels acquired by the Secretary or the Secretary of Commerce as the result of a default under title XI of the Merchant Marine Act, 1936 ([former] 46 App. U.S.C. 1271–1279c) [see 46 U.S.C. 53701 et seq.], to determine whether any of those vessels are suitable for use by the Coast Guard."
 
 #### Lifesaving Equipment on Passenger Ferries ####
 
-Pub. L. 98–557, §10, Oct. 30, 1984, 98 Stat. 2863, provided that: “The Secretary of the department in which the Coast Guard is operating shall proceed vigorously with efforts to develop improved lifesaving equipment for use on passenger ferries.”
+Pub. L. 98–557, §10, Oct. 30, 1984, 98 Stat. 2863, provided that: "The Secretary of the department in which the Coast Guard is operating shall proceed vigorously with efforts to develop improved lifesaving equipment for use on passenger ferries."
 
 #### Leasing of Existing Housing for Assignment as Public Quarters to Military Personnel and Dependents ####
 

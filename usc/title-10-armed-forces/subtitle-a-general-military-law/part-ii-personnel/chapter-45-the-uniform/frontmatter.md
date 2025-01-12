@@ -36,47 +36,47 @@ Sec.
 
 Pub. L. 113–66, div. A, title III, §352(a)–(f), Dec. 26, 2013, 127 Stat. 742, 743, provided that:
 
-“(a) Establishment of Policy.—It is the policy of the United States that the Secretary of Defense shall eliminate the development and fielding of Armed Force-specific combat and camouflage utility uniforms and families of uniforms in order to adopt and field a common combat and camouflage utility uniform or family of uniforms for specific combat environments to be used by all members of the Armed Forces.
+"(a) Establishment of Policy.—It is the policy of the United States that the Secretary of Defense shall eliminate the development and fielding of Armed Force-specific combat and camouflage utility uniforms and families of uniforms in order to adopt and field a common combat and camouflage utility uniform or family of uniforms for specific combat environments to be used by all members of the Armed Forces.
 
-“(b) Prohibition.—Except as provided in subsection (c), after the date of the enactment of this Act [Dec. 26, 2013], the Secretary of a military department may not adopt any new camouflage pattern design or uniform fabric for any combat or camouflage utility uniform or family of uniforms for use by an Armed Force, unless—
+"(b) Prohibition.—Except as provided in subsection (c), after the date of the enactment of this Act [Dec. 26, 2013], the Secretary of a military department may not adopt any new camouflage pattern design or uniform fabric for any combat or camouflage utility uniform or family of uniforms for use by an Armed Force, unless—
 
-“(1) the new design or fabric is a combat or camouflage utility uniform or family of uniforms that will be adopted by all Armed Forces;
+"(1) the new design or fabric is a combat or camouflage utility uniform or family of uniforms that will be adopted by all Armed Forces;
 
-“(2) the Secretary adopts a uniform already in use by another Armed Force; or
+"(2) the Secretary adopts a uniform already in use by another Armed Force; or
 
-“(3) the Secretary of Defense grants an exception based on unique circumstances or operational requirements.
+"(3) the Secretary of Defense grants an exception based on unique circumstances or operational requirements.
 
-“(c) Exceptions.—Nothing in subsection (b) shall be construed as—
+"(c) Exceptions.—Nothing in subsection (b) shall be construed as—
 
-“(1) prohibiting the development of combat and camouflage utility uniforms and families of uniforms for use by personnel assigned to or operating in support of the unified combatant command for special operations forces described in section 167 of title 10, United States Code;
+"(1) prohibiting the development of combat and camouflage utility uniforms and families of uniforms for use by personnel assigned to or operating in support of the unified combatant command for special operations forces described in section 167 of title 10, United States Code;
 
-“(2) prohibiting engineering modifications to existing uniforms that improve the performance of combat and camouflage utility uniforms, including power harnessing or generating textiles, fire resistant fabrics, and anti-vector, anti-microbial, and anti-bacterial treatments;
+"(2) prohibiting engineering modifications to existing uniforms that improve the performance of combat and camouflage utility uniforms, including power harnessing or generating textiles, fire resistant fabrics, and anti-vector, anti-microbial, and anti-bacterial treatments;
 
-“(3) prohibiting the Secretary of a military department from fielding ancillary uniform items, including headwear, footwear, body armor, and any other such items as determined by the Secretary;
+"(3) prohibiting the Secretary of a military department from fielding ancillary uniform items, including headwear, footwear, body armor, and any other such items as determined by the Secretary;
 
-“(4) prohibiting the Secretary of a military department from issuing vehicle crew uniforms;
+"(4) prohibiting the Secretary of a military department from issuing vehicle crew uniforms;
 
-“(5) prohibiting cosmetic service-specific uniform modifications to include insignia, pocket orientation, closure devices, inserts, and undergarments; or
+"(5) prohibiting cosmetic service-specific uniform modifications to include insignia, pocket orientation, closure devices, inserts, and undergarments; or
 
-“(6) prohibiting the continued fielding or use of pre-existing service-specific or operation-specific combat uniforms as long as the uniforms continue to meet operational requirements.
+"(6) prohibiting the continued fielding or use of pre-existing service-specific or operation-specific combat uniforms as long as the uniforms continue to meet operational requirements.
 
-“(d) Registration Required.—The Secretary of a military department shall formally register with the Joint Clothing and Textiles Governance Board all uniforms in use by an Armed Force under the jurisdiction of the Secretary and all such uniforms planned for use by such an Armed Force.
+"(d) Registration Required.—The Secretary of a military department shall formally register with the Joint Clothing and Textiles Governance Board all uniforms in use by an Armed Force under the jurisdiction of the Secretary and all such uniforms planned for use by such an Armed Force.
 
-“(e) Limitation on Restriction.—The Secretary of a military department may not prevent the Secretary of another military department from authorizing the use of any combat or camouflage utility uniform or family of uniforms.
+"(e) Limitation on Restriction.—The Secretary of a military department may not prevent the Secretary of another military department from authorizing the use of any combat or camouflage utility uniform or family of uniforms.
 
-“(f) Guidance Required.—
+"(f) Guidance Required.—
 
-“(1) In general.—Not later than 60 days after the date of the enactment of this Act [Dec. 26, 2013], the Secretary of Defense shall issue guidance to implement this section.
+"(1) In general.—Not later than 60 days after the date of the enactment of this Act [Dec. 26, 2013], the Secretary of Defense shall issue guidance to implement this section.
 
-“(2) Content.—At a minimum, the guidance required by paragraph (1) shall require the Secretary of each of the military departments—
+"(2) Content.—At a minimum, the guidance required by paragraph (1) shall require the Secretary of each of the military departments—
 
-“(A) in cooperation with the commanders of the combatant commands, including the unified combatant command for special operations forces, to establish, by not later than 180 days after the date of the enactment of this Act, joint criteria for combat and camouflage utility uniforms and families of uniforms, which shall be included in all new requirements documents for such uniforms;
+"(A) in cooperation with the commanders of the combatant commands, including the unified combatant command for special operations forces, to establish, by not later than 180 days after the date of the enactment of this Act, joint criteria for combat and camouflage utility uniforms and families of uniforms, which shall be included in all new requirements documents for such uniforms;
 
-“(B) to continually work together to assess and develop new technologies that could be incorporated into future combat and camouflage utility uniforms and families of uniforms to improve war fighter survivability;
+"(B) to continually work together to assess and develop new technologies that could be incorporated into future combat and camouflage utility uniforms and families of uniforms to improve war fighter survivability;
 
-“(C) to ensure that new combat and camouflage utility uniforms and families of uniforms meet the geographic and operational requirements of the commanders of the combatant commands; and
+"(C) to ensure that new combat and camouflage utility uniforms and families of uniforms meet the geographic and operational requirements of the commanders of the combatant commands; and
 
-“(D) to ensure that all new combat and camouflage utility uniforms and families of uniforms achieve interoperability with all components of individual war fighter systems, including body armor, organizational clothing and individual equipment, and other individual protective systems.”
+"(D) to ensure that all new combat and camouflage utility uniforms and families of uniforms achieve interoperability with all components of individual war fighter systems, including body armor, organizational clothing and individual equipment, and other individual protective systems."
 
 #### Policy on Ground Combat and Camouflage Utility Uniforms ####
 

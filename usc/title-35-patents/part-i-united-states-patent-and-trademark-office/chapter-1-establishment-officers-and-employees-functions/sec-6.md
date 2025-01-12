@@ -30,23 +30,23 @@ A prior section 6, acts July 19, 1952, ch. 950, 66 Stat. 793; Pub. L. 92–132, 
 
 **2011**—Pub. L. 112–29 amended section generally. Prior to amendment, section related to the establishment, composition, and function of the Board of Patent Appeals and Interferences and to the appointment of administrative patent judges.
 
-**2008**—Subsec. (a). Pub. L. 110–313, §1(a)(1)(A), (B), substituted “Deputy Director” for “Deputy Commissioner” in second sentence and “Secretary of Commerce, in consultation with the Director” for “Director” in last sentence.
+**2008**—Subsec. (a). Pub. L. 110–313, §1(a)(1)(A), (B), substituted "Deputy Director" for "Deputy Commissioner" in second sentence and "Secretary of Commerce, in consultation with the Director" for "Director" in last sentence.
 
 Subsecs. (c), (d). Pub. L. 110–313, §1(a)(1)(C), which directed addition of subsecs. (c) and (d) at end of subsec. (a), was executed by adding subsecs. (c) and (d) at end of section to reflect the probable intent of Congress.
 
-**2002**—Subsec. (a). Pub. L. 107–273, which directed amendment of subsec. (a) by inserting “the Deputy Commissioner,” after “Commissioner,”, was executed by making the insertion after “The Director,” to reflect the probable intent of Congress.
+**2002**—Subsec. (a). Pub. L. 107–273, which directed amendment of subsec. (a) by inserting "the Deputy Commissioner," after "Commissioner,", was executed by making the insertion after "The Director," to reflect the probable intent of Congress.
 
 #### Effective Date of 2011 Amendment ####
 
-Pub. L. 112–29, §7(e), Sept. 16, 2011, 125 Stat. 315, provided that: “The amendments made by this section [amending this section, sections 134, 141, and 143 of this title, section 1295 of Title 28, Judiciary and Judicial Procedure, section 2182 of Title 42, The Public Health and Welfare, and section 20135 of Title 51, National and Commercial Space Programs] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to proceedings commenced on or after that effective date, except that—
+Pub. L. 112–29, §7(e), Sept. 16, 2011, 125 Stat. 315, provided that: "The amendments made by this section [amending this section, sections 134, 141, and 143 of this title, section 1295 of Title 28, Judiciary and Judicial Procedure, section 2182 of Title 42, The Public Health and Welfare, and section 20135 of Title 51, National and Commercial Space Programs] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to proceedings commenced on or after that effective date, except that—
 
-“(1) the extension of jurisdiction to the United States Court of Appeals for the Federal Circuit to entertain appeals of decisions of the Patent Trial and Appeal Board in reexaminations under the amendment made by subsection (c)(2) [amending section 1295 of Title 28] shall be deemed to take effect on the date of the enactment of this Act and shall extend to any decision of the Board of Patent Appeals and Interferences with respect to a reexamination that is entered before, on, or after the date of the enactment of this Act;
+"(1) the extension of jurisdiction to the United States Court of Appeals for the Federal Circuit to entertain appeals of decisions of the Patent Trial and Appeal Board in reexaminations under the amendment made by subsection (c)(2) [amending section 1295 of Title 28] shall be deemed to take effect on the date of the enactment of this Act and shall extend to any decision of the Board of Patent Appeals and Interferences with respect to a reexamination that is entered before, on, or after the date of the enactment of this Act;
 
-“(2) the provisions of sections 6, 134, and 141 of title 35, United States Code, as in effect on the day before the effective date of the amendments made by this section shall continue to apply to inter partes reexaminations that are requested under section 311 of such title before such effective date;
+"(2) the provisions of sections 6, 134, and 141 of title 35, United States Code, as in effect on the day before the effective date of the amendments made by this section shall continue to apply to inter partes reexaminations that are requested under section 311 of such title before such effective date;
 
-“(3) the Patent Trial and Appeal Board may be deemed to be the Board of Patent Appeals and Interferences for purposes of appeals of inter partes reexaminations that are requested under section 311 of title 35, United States Code, before the effective date of the amendments made by this section; and
+"(3) the Patent Trial and Appeal Board may be deemed to be the Board of Patent Appeals and Interferences for purposes of appeals of inter partes reexaminations that are requested under section 311 of title 35, United States Code, before the effective date of the amendments made by this section; and
 
-“(4) the Director's [Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office] right under the fourth sentence of section 143 of title 35, United States Code, as amended by subsection (c)(3) of this section, to intervene in an appeal from a decision entered by the Patent Trial and Appeal Board shall be deemed to extend to inter partes reexaminations that are requested under section 311 of such title before the effective date of the amendments made by this section.”
+"(4) the Director's [Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office] right under the fourth sentence of section 143 of title 35, United States Code, as amended by subsection (c)(3) of this section, to intervene in an appeal from a decision entered by the Patent Trial and Appeal Board shall be deemed to extend to inter partes reexaminations that are requested under section 311 of such title before the effective date of the amendments made by this section."
 
 #### Effective Date ####
 

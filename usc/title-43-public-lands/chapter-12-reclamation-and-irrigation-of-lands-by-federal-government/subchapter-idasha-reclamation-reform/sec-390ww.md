@@ -38,9 +38,9 @@ When the Secretary finds that any individual or legal entity subject to reclamat
 
 The Federal reclamation law, referred to in subsecs. (a) to (c), is defined in section 390aa of this title.
 
-This subchapter, referred to in subsecs. (a) to (c) and (e), was in the original “this title”, meaning title II (§§201–230) of Pub. L. 97–293, Oct. 12, 1982, 96 Stat. 1263, known as the Reclamation Reform Act of 1982, which enacted this subchapter, amended sections 373a, 422e, 425b, and 485h of this title, and repealed section 383 of Title 25, Indians. For complete classification of title II to the Code, see Tables.
+This subchapter, referred to in subsecs. (a) to (c) and (e), was in the original "this title", meaning title II (§§201–230) of Pub. L. 97–293, Oct. 12, 1982, 96 Stat. 1263, known as the Reclamation Reform Act of 1982, which enacted this subchapter, amended sections 373a, 422e, 425b, and 485h of this title, and repealed section 383 of Title 25, Indians. For complete classification of title II to the Code, see Tables.
 
-This subchapter, referred to in subsecs. (g) and (i), was in the original “this Act” and was translated as reading “this title”. See note above.
+This subchapter, referred to in subsecs. (g) and (i), was in the original "this Act" and was translated as reading "this title". See note above.
 
 #### Codification ####
 
@@ -48,8 +48,8 @@ Section is comprised of section 224 of Pub. L. 97–293. Subsec. (d) of section 
 
 #### Amendments ####
 
-**1995**—Subsec. (g). Pub. L. 104–66 struck out at end “The Secretary shall submit an annual written report to the Senate Committee on Energy and Natural Resources and the House Committee on Natural Resources. Such report shall summarize the legal entities and individuals audited, the results of such audits, and the actions taken by the Secretary to correct any instances of noncompliance with the reclamation law.”
+**1995**—Subsec. (g). Pub. L. 104–66 struck out at end "The Secretary shall submit an annual written report to the Senate Committee on Energy and Natural Resources and the House Committee on Natural Resources. Such report shall summarize the legal entities and individuals audited, the results of such audits, and the actions taken by the Secretary to correct any instances of noncompliance with the reclamation law."
 
-**1994**—Subsec. (g). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “House Committee on”.
+**1994**—Subsec. (g). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "House Committee on".
 
 **1987**—Subsecs. (g) to (i). Pub. L. 100–203 added subsecs. (g) to (i).

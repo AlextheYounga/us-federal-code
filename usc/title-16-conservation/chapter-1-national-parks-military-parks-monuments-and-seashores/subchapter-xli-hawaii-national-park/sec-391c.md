@@ -8,7 +8,7 @@ Beginning at a place called Na Puu O na Elemakule located at the southeastern co
 
 #### Codification ####
 
-“Air Force” substituted in text for “War” on authority of section 207(a), (f) of act July 26, 1947, ch. 343, title II, 61 Stat. 502, 503, which established a separate Department of the Air Force. Section 207(a), (f) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces”, which in sections 8011 to 8013 continued military Department of the Air Force under administrative supervision of Secretary of the Air Force.
+"Air Force" substituted in text for "War" on authority of section 207(a), (f) of act July 26, 1947, ch. 343, title II, 61 Stat. 502, 503, which established a separate Department of the Air Force. Section 207(a), (f) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces", which in sections 8011 to 8013 continued military Department of the Air Force under administrative supervision of Secretary of the Air Force.
 
 For transfer of certain real property functions to Secretary of the Air Force from Secretary of the Army, see Secretary of Defense Transfer Order Nos. 14, eff. July 1, 1948, and 40, [App. B(65)], July 22, 1949.
 

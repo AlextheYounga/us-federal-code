@@ -8,7 +8,7 @@ Sec.
 
 2242. Authority to use appropriated funds for certain investigations and security services.
 
-2243. Authority to use appropriated funds to support student meal programs in overseas dependents’ schools.
+2243. Authority to use appropriated funds to support student meal programs in overseas dependents' schools.
 
 2244. Security investigations.
 
@@ -32,21 +32,21 @@ Sec.
 
 #### Amendments ####
 
-**2013**—Pub. L. 112–239, div. A, title V, §588(b)(2), Jan. 2, 2013, 126 Stat. 1769, substituted “Display of State, District of Columbia, commonwealth, and territorial flags by the armed forces.” for “Display of State flags: prohibition on use of funds to arbitrarily exclude flag; position and manner of display.” in item 2249b.
+**2013**—Pub. L. 112–239, div. A, title V, §588(b)(2), Jan. 2, 2013, 126 Stat. 1769, substituted "Display of State, District of Columbia, commonwealth, and territorial flags by the armed forces." for "Display of State flags: prohibition on use of funds to arbitrarily exclude flag; position and manner of display." in item 2249b.
 
-**2011**—Pub. L. 111–383, div. A, title X, §1075(b)(30), Jan. 7, 2011, 124 Stat. 4370, transferred item 2241a “Prohibition on use of funds for publicity or propaganda purposes within the United States” to appear after item 2241.
+**2011**—Pub. L. 111–383, div. A, title X, §1075(b)(30), Jan. 7, 2011, 124 Stat. 4370, transferred item 2241a "Prohibition on use of funds for publicity or propaganda purposes within the United States" to appear after item 2241.
 
 **2009**—Pub. L. 111–84, div. A, title X, §1031(a)(2), Oct. 28, 2009, 123 Stat. 2448, added item 2241a at the end.
 
 **2008**—Pub. L. 110–417, [div. A], title XII, §1205(a)(2), Oct. 14, 2008, 122 Stat. 4624, added item 2249d.
 
-**2006**—Pub. L. 109–364, div. A, title XII, §1204(d)(3), Oct. 17, 2006, 120 Stat. 2416, substituted “Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials” for “Authority to use appropriated funds for costs of attendance of foreign visitors under Regional Defense Counterterrorism Fellowship Program” in item 2249c.
+**2006**—Pub. L. 109–364, div. A, title XII, §1204(d)(3), Oct. 17, 2006, 120 Stat. 2416, substituted "Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials" for "Authority to use appropriated funds for costs of attendance of foreign visitors under Regional Defense Counterterrorism Fellowship Program" in item 2249c.
 
 Pub. L. 109–163, div. A, title III, §§372(b), 373(b), Jan. 6, 2006, 119 Stat. 3210, 3211, added items 2244a and 2245a.
 
-**2004**—Pub. L. 108–375, div. A, title VI, §651(f)(3), Oct. 28, 2004, 118 Stat. 1972, struck out items 2246 “Department of Defense golf courses: limitation on use of appropriated funds” and 2247 “Use of appropriated funds for operation of Armed Forces Recreation Center, Europe: limitation”.
+**2004**—Pub. L. 108–375, div. A, title VI, §651(f)(3), Oct. 28, 2004, 118 Stat. 1972, struck out items 2246 "Department of Defense golf courses: limitation on use of appropriated funds" and 2247 "Use of appropriated funds for operation of Armed Forces Recreation Center, Europe: limitation".
 
-**2003**—Pub. L. 108–136, div. A, title X, §1045(a)(5)(B), title XII, §1221(a)(2), Nov. 24, 2003, 117 Stat. 1612, 1651, struck out item 2248 “Purchase of surety bonds: prohibition” and added item 2249c.
+**2003**—Pub. L. 108–136, div. A, title X, §1045(a)(5)(B), title XII, §1221(a)(2), Nov. 24, 2003, 117 Stat. 1612, 1651, struck out item 2248 "Purchase of surety bonds: prohibition" and added item 2249c.
 
 **1996**—Pub. L. 104–201, div. A, title X, §1071(b), Sept. 23, 1996, 110 Stat. 2657, added item 2249b.
 

@@ -12,15 +12,15 @@ Such Acts, records and judicial proceedings or copies thereof, so authenticated,
 
 Based on title 28, U.S.C., 1940 ed., §687 (R.S. §905).
 
-Words “Possession of the United States” were substituted for “of any country subject to the jurisdiction of the United States”.
+Words "Possession of the United States" were substituted for "of any country subject to the jurisdiction of the United States".
 
-Words “or copies thereof” were added in three places. Copies have always been used to prove statutes and judicial proceedings under section 687 of title 28, U.S.C., 1940 ed. The added words will cover expressly such use.
+Words "or copies thereof" were added in three places. Copies have always been used to prove statutes and judicial proceedings under section 687 of title 28, U.S.C., 1940 ed. The added words will cover expressly such use.
 
-Words “and its Territories and Possessions” were added in two places so as to make this section and section 1739 of this title uniform, the basic section of the latter having provided that nonjudicial records or books of any State, Territory, or “country subject to the jurisdiction of the United States” should be admitted in any court or office in any other State, Territory, or “such country.”
+Words "and its Territories and Possessions" were added in two places so as to make this section and section 1739 of this title uniform, the basic section of the latter having provided that nonjudicial records or books of any State, Territory, or "country subject to the jurisdiction of the United States" should be admitted in any court or office in any other State, Territory, or "such country."
 
-Words “a judge of the court” were substituted for “the judge, chief justice or presiding magistrate” without change of substance.
+Words "a judge of the court" were substituted for "the judge, chief justice or presiding magistrate" without change of substance.
 
-At the beginning of the last paragraph, words “Such Acts” were substituted for “And the said”. This follows the language of Article IV, section 1 of the Constitution.
+At the beginning of the last paragraph, words "Such Acts" were substituted for "And the said". This follows the language of Article IV, section 1 of the Constitution.
 
 For additional provisions as to authentication, see Rule 44 of the Federal Rules of Civil Procedure.
 

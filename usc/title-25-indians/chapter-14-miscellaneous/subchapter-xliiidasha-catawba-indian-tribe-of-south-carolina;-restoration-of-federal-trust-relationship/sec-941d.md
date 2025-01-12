@@ -22,13 +22,13 @@ By virtue of the approval and ratification of any transfer of land or natural re
 
 The United States is hereby barred from asserting by or on behalf of the Tribe or any of its Members, or anyone purporting to be a Member, any claim arising before the effective date of this subchapter from the transfer of any land or natural resources by deed or other grant, or by treaty, compact, or act of law, on the grounds that such transfer was not made in accordance with the laws of South Carolina or the Constitution or laws of the United States.
 
-#### (f) No derogation of fee simple in Existing Reservation, or effect on Members’ fee interests ####
+#### (f) No derogation of fee simple in Existing Reservation, or effect on Members' fee interests ####
 
 Nothing in this subchapter shall be construed to diminish or derogate from the Tribe's estate in the Existing Reservation; or to divest or disturb title in any land conveyed to any person or entity as a result of the Termination Act and the liquidation and partition of tribal lands; or to divest or disturb the right, title and interest of any Member in any fee simple, leasehold or remainder estate or any equitable or beneficial right or interest any such Member may own individually and not as a Member of the Tribe.
 
-#### (g) Costs and attorneys’ fees ####
+#### (g) Costs and attorneys' fees ####
 
-The parties to the Suits shall bear their own costs and attorneys’ fees. As provided by section 6.4 of the Settlement Agreement, the Secretary shall pay to the Tribe's attorneys in the Suits attorneys’ fees and expenses from, and not to exceed 10 percent of, the $50,000,000 obligated for payment to the Tribe by Federal, State, local, and private parties pursuant to section 5 of the Settlement Agreement.
+The parties to the Suits shall bear their own costs and attorneys' fees. As provided by section 6.4 of the Settlement Agreement, the Secretary shall pay to the Tribe's attorneys in the Suits attorneys' fees and expenses from, and not to exceed 10 percent of, the $50,000,000 obligated for payment to the Tribe by Federal, State, local, and private parties pursuant to section 5 of the Settlement Agreement.
 
 #### (h) Personal claims not affected ####
 

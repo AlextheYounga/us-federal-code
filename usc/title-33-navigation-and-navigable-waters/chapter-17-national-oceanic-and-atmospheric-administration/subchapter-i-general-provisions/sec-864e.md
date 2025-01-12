@@ -4,4 +4,4 @@ Section, acts June 6, 1942, ch. 383, 56 Stat. 328; Aug. 4, 1949, ch. 393, §15, 
 
 #### Effective Date of Repeal ####
 
-Pub. L. 86–465, §2, May 13, 1960, 74 Stat. 130, provided that: “This Act [repealing this section] becomes effective on November 1, 1959.”
+Pub. L. 86–465, §2, May 13, 1960, 74 Stat. 130, provided that: "This Act [repealing this section] becomes effective on November 1, 1959."

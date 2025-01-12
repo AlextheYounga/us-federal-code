@@ -4,9 +4,9 @@
 
 For purposes of this section—
 
-(1) the term “specialized health resources” means health care resources (whether equipment, space, or personnel) which, because of cost, limited availability, or unusual nature, are either unique in the health care community or are subject to maximum utilization only through mutual use;
+(1) the term "specialized health resources" means health care resources (whether equipment, space, or personnel) which, because of cost, limited availability, or unusual nature, are either unique in the health care community or are subject to maximum utilization only through mutual use;
 
-(2) the term “hospital”, unless otherwise specified, includes (in addition to other hospitals) any Federal hospital.
+(2) the term "hospital", unless otherwise specified, includes (in addition to other hospitals) any Federal hospital.
 
 #### (b) Statement of purpose; agreements or arrangements; reciprocity; reimbursement; credits ####
 
@@ -22,11 +22,11 @@ Any reimbursement pursuant to any such agreement or arrangement shall be based o
 
 #### Amendments ####
 
-**1988**—Subsec. (b)(1). Pub. L. 100–607 inserted “schools of osteopathic medicine,” after “schools of medicine,” and “professions” after “health”.
+**1988**—Subsec. (b)(1). Pub. L. 100–607 inserted "schools of osteopathic medicine," after "schools of medicine," and "professions" after "health".
 
 #### Availability of Appropriations for Expenses of Sharing Medical Care Facilities and Resources ####
 
-Pub. L. 102–394, title II, §204, Oct. 6, 1992, 106 Stat. 1811, provided that: “Funds advanced to the National Institutes of Health Management Fund from appropriations in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts shall be available for the expenses of sharing medical care facilities and resources pursuant to section 327A of the Public Health Service Act [42 U.S.C. 254a].”
+Pub. L. 102–394, title II, §204, Oct. 6, 1992, 106 Stat. 1811, provided that: "Funds advanced to the National Institutes of Health Management Fund from appropriations in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts shall be available for the expenses of sharing medical care facilities and resources pursuant to section 327A of the Public Health Service Act [42 U.S.C. 254a]."
 
 Similar provisions were contained in the following prior appropriation acts:
 

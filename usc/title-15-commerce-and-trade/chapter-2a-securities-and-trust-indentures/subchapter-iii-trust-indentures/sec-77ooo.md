@@ -36,12 +36,12 @@ The indenture to be qualified shall automatically be deemed (unless it is expres
 
 #### Amendments ####
 
-**1990**—Subsec. (a). Pub. L. 101–550, §414(1), (2), substituted “The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “The indenture to be qualified may” and “the indenture trustee shall examine” for “such indenture shall contain provisions requiring the indenture trustee to examine”.
+**1990**—Subsec. (a). Pub. L. 101–550, §414(1), (2), substituted "The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to" for "The indenture to be qualified may" and "the indenture trustee shall examine" for "such indenture shall contain provisions requiring the indenture trustee to examine".
 
-Subsec. (b). Pub. L. 101–550, §414(3), (4), substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to” and “That such indenture shall automatically be deemed (unless it is expressly provided therein that such provision is excluded) to” for “That such indenture may”.
+Subsec. (b). Pub. L. 101–550, §414(3), (4), substituted "The indenture trustee shall" for "The indenture to be qualified shall contain provisions requiring the indenture trustee to" and "That such indenture shall automatically be deemed (unless it is expressly provided therein that such provision is excluded) to" for "That such indenture may".
 
-Subsec. (c). Pub. L. 101–550, §414(3), substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to”.
+Subsec. (c). Pub. L. 101–550, §414(3), substituted "The indenture trustee shall" for "The indenture to be qualified shall contain provisions requiring the indenture trustee to".
 
-Subsec. (d)(1) to (3). Pub. L. 101–550, §414(5), substituted “such indenture shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “such indenture may”.
+Subsec. (d)(1) to (3). Pub. L. 101–550, §414(5), substituted "such indenture shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to" for "such indenture may".
 
-Subsec. (e). Pub. L. 101–550, §414(1), substituted “The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “The indenture to be qualified may”.
+Subsec. (e). Pub. L. 101–550, §414(1), substituted "The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to" for "The indenture to be qualified may".

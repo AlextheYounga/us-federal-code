@@ -6,9 +6,9 @@ Section, added Pub. L. 100–360, title I, §111(a), July 1, 1988, 102 Stat. 690
 
 Pub. L. 101–234, title I, §102(d), Dec. 13, 1989, 103 Stat. 1981, provided that:
 
-“(1) In general.—Except as provided in this subsection, the provisions of this section [repealing section 1395i–1a of Title 42, The Public Health and Welfare, enacting provisions set out as notes under section 6050F of this title and section 1395t of Title 42, and repealing provisions set out as a note under section 1395i–1a of Title 42] shall take effect January 1, 1990.
+"(1) In general.—Except as provided in this subsection, the provisions of this section [repealing section 1395i–1a of Title 42, The Public Health and Welfare, enacting provisions set out as notes under section 6050F of this title and section 1395t of Title 42, and repealing provisions set out as a note under section 1395i–1a of Title 42] shall take effect January 1, 1990.
 
-“(2) Repeal of supplemental medicare premium.—The repeal of section 111 of MCCA [Pub. L. 100–360, which enacted this section, amended section 6050F of this title, and enacted provisions set out as notes below] shall apply to taxable years beginning after December 31, 1988.”
+"(2) Repeal of supplemental medicare premium.—The repeal of section 111 of MCCA [Pub. L. 100–360, which enacted this section, amended section 6050F of this title, and enacted provisions set out as notes below] shall apply to taxable years beginning after December 31, 1988."
 
 #### Effective Date ####
 

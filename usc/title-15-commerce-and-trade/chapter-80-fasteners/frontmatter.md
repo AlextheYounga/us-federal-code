@@ -10,7 +10,7 @@ Sec.
 
 5404 to 5406. Repealed.
 
-5407. Manufacturers’ insignias.
+5407. Manufacturers' insignias.
 
 5408. Remedies and penalties.
 

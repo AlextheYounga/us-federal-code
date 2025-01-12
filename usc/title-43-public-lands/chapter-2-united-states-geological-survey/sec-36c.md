@@ -10,4 +10,4 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Change of Name ####
 
-“United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of this title.
+"United States Geological Survey" substituted in text for "Geological Survey" pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of this title.

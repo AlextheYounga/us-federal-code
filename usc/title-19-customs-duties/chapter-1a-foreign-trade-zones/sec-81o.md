@@ -28,4 +28,4 @@ Tangible personal property imported from outside the United States and held in a
 
 #### Effective Date of 1984 Amendment ####
 
-Pub. L. 98–573, title II, §231(b)(2), Oct. 30, 1984, 98 Stat. 2991, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on January 1, 1983.”
+Pub. L. 98–573, title II, §231(b)(2), Oct. 30, 1984, 98 Stat. 2991, provided that: "The amendment made by paragraph (1) [amending this section] shall take effect on January 1, 1983."

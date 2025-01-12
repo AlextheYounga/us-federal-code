@@ -20,4 +20,4 @@ Section 19gg, Pub. L. 97–433, §8, Jan. 8, 1983, 96 Stat. 2279, provided that 
 
 #### Short Title ####
 
-Section 1 of Pub. L. 97–433 provided that this subchapter be cited as the “National Park System Visitor Facilities Fund Act”.
+Section 1 of Pub. L. 97–433 provided that this subchapter be cited as the "National Park System Visitor Facilities Fund Act".

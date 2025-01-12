@@ -126,24 +126,24 @@ The continued availability of funds under subparagraph (A) with respect to an en
 
 #### Amendments ####
 
-**2013**—Subsec. (a). Pub. L. 113–5, §203(c)(1), inserted “, including, as appropriate, capacity and preparedness to address the needs of children and other at-risk individuals” before period at end.
+**2013**—Subsec. (a). Pub. L. 113–5, §203(c)(1), inserted ", including, as appropriate, capacity and preparedness to address the needs of children and other at-risk individuals" before period at end.
 
-Subsec. (b)(1)(A)(ii). Pub. L. 113–5, §203(c)(2), substituted “centers, community health centers, primary” for “centers, primary”.
+Subsec. (b)(1)(A)(ii). Pub. L. 113–5, §203(c)(2), substituted "centers, community health centers, primary" for "centers, primary".
 
-Subsec. (c). Pub. L. 113–5, §203(c)(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “An award under subsection (a) shall be expended for activities to achieve the preparedness goals described under paragraphs (1), (3), (4), (5), and (6) of section 300hh–1(b) of this title.”
+Subsec. (c). Pub. L. 113–5, §203(c)(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "An award under subsection (a) shall be expended for activities to achieve the preparedness goals described under paragraphs (1), (3), (4), (5), and (6) of section 300hh–1(b) of this title."
 
-Subsec. (g). Pub. L. 113–5, §203(c)(4), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “An eligible entity shall, to the extent practicable, ensure that activities carried out under an award under subsection (a) are coordinated with activities of relevant local Metropolitan Medical Response Systems, local Medical Reserve Corps, the Cities Readiness Initiative, and local emergency plans.”
+Subsec. (g). Pub. L. 113–5, §203(c)(4), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: "An eligible entity shall, to the extent practicable, ensure that activities carried out under an award under subsection (a) are coordinated with activities of relevant local Metropolitan Medical Response Systems, local Medical Reserve Corps, the Cities Readiness Initiative, and local emergency plans."
 
 Subsec. (i). Pub. L. 113–5, §203(c)(5), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Pub. L. 113–5, §202(c)(2)(A), substituted “(i), and (j)” for “(j), and (k)”.
+Pub. L. 113–5, §202(c)(2)(A), substituted "(i), and (j)" for "(j), and (k)".
 
-Subsec. (j)(1). Pub. L. 113–5, §203(c)(6)(A), amended par. (1) generally. Prior to amendment, text read as follows: “For the purpose of carrying out this section, there is authorized to be appropriated $474,000,000 for fiscal year 2007, and such sums as may be necessary for each of fiscal years 2008 through 2011.”
+Subsec. (j)(1). Pub. L. 113–5, §203(c)(6)(A), amended par. (1) generally. Prior to amendment, text read as follows: "For the purpose of carrying out this section, there is authorized to be appropriated $474,000,000 for fiscal year 2007, and such sums as may be necessary for each of fiscal years 2008 through 2011."
 
-Subsec. (j)(3)(B). Pub. L. 113–5, §202(c)(2)(B), substituted “247d–3a(h)” for “247d–3a(i)”.
+Subsec. (j)(3)(B). Pub. L. 113–5, §202(c)(2)(B), substituted "247d–3a(h)" for "247d–3a(i)".
 
 Subsec. (j)(4). Pub. L. 113–5, §203(c)(6)(B), added par. (4).
 
-**2007**—Subsec. (j)(3)(B). Pub. L. 110–85 substituted “section 247d–3a(i)” for “section 247d–3a(h)”.
+**2007**—Subsec. (j)(3)(B). Pub. L. 110–85 substituted "section 247d–3a(i)" for "section 247d–3a(h)".
 
 **2006**—Pub. L. 109–417 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (i) relating to partnerships for community and hospital preparedness.

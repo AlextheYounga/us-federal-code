@@ -6,7 +6,7 @@ Any person who willfully violates any provision of this subchapter or any rule, 
 
 #### Amendments ####
 
-**1975**—Pub. L. 94–29 substituted “$10,000” for “$5,000”.
+**1975**—Pub. L. 94–29 substituted "$10,000" for "$5,000".
 
 #### Effective Date of 1975 Amendment ####
 

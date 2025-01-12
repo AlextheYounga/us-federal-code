@@ -44,19 +44,19 @@ Court for the New Albany Division shall be held at New Albany.
 
 Based on title 28, U.S.C., 1940 ed., §153 (Mar. 3, 1911, ch. 231, §80, 36 Stat. 1110; Apr. 21, 1928, ch. 393, 45 Stat. 437).
 
-Words “when the time fixed as above for the sitting of a court shall fall on a legal holiday the terms shall begin on the next day following,” were omitted as within the discretion of the court and coverable by rule of court.
+Words "when the time fixed as above for the sitting of a court shall fall on a legal holiday the terms shall begin on the next day following," were omitted as within the discretion of the court and coverable by rule of court.
 
 A provision that terms should not be limited to any particular number of days, and that a term about to commence in another division might be adjourned until the business of the court in session was concluded, was omitted as covered by section 140 of this title.
 
 A provision authorizing indictments for offenses committed in divisions other than that wherein a grand jury is sitting was omitted as covered by Federal Rules of Criminal Procedure, Rules 6, 7.
 
-Provisions as to maintenance of clerks’ offices were omitted as covered by sections 452 and 751 of this title.
+Provisions as to maintenance of clerks' offices were omitted as covered by sections 452 and 751 of this title.
 
 The following provisions were omitted as either executed or covered by section 501 [now 541] et seq. and section 541 [now 561] et seq. of this title, containing similar provisions as to United States attorneys and marshals:
 
-“A. The senior district judge for the district of Indiana in office immediately prior to April 21, 1928, shall be the district judge for the southern district as constituted by this section; the junior district judge for the district of Indiana immediately prior to April 21, 1928, shall be the district judge for the northern district as constituted by this section; and the district attorney and marshal for the district of Indiana in office immediately prior to April 21, 1928, shall be during the remainder of their present terms of office the district attorney and marshal for the southern district as constituted by this section.
+"A. The senior district judge for the district of Indiana in office immediately prior to April 21, 1928, shall be the district judge for the southern district as constituted by this section; the junior district judge for the district of Indiana immediately prior to April 21, 1928, shall be the district judge for the northern district as constituted by this section; and the district attorney and marshal for the district of Indiana in office immediately prior to April 21, 1928, shall be during the remainder of their present terms of office the district attorney and marshal for the southern district as constituted by this section.
 
-“B. The President is authorized and directed to appoint, by and with the advice and consent of the Senate, a district attorney and a marshal for the United States District Court for the Northern District of Indiana.”
+"B. The President is authorized and directed to appoint, by and with the advice and consent of the Senate, a district attorney and a marshal for the United States District Court for the Northern District of Indiana."
 
 Changes in arrangement and phraseology were made.
 

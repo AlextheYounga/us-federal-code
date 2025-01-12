@@ -2,7 +2,7 @@
 
 #### (a) Expeditious acquisition of Florida lands ####
 
-In recognition of the efforts of the State of Florida in the preservation of the area, through the enactment of chapter 73–131 of the Florida statutes, “The Big Cypress Conservation Act of 1973”, the Secretary is directed to proceed as expeditiously as possible to acquire the lands and interests in lands necessary to achieve the purposes of sections 698f to 698m–4 of this title.
+In recognition of the efforts of the State of Florida in the preservation of the area, through the enactment of chapter 73–131 of the Florida statutes, "The Big Cypress Conservation Act of 1973", the Secretary is directed to proceed as expeditiously as possible to acquire the lands and interests in lands necessary to achieve the purposes of sections 698f to 698m–4 of this title.
 
 #### (b) Submission of plan to Congressional committees; time; contents ####
 
@@ -22,8 +22,8 @@ It is the express intent of the Congress that the Secretary should substantially
 
 #### Change of Name ####
 
-Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
+Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977.
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
-[<sup>1</sup> So in original. Probably should be “Committees”.](#698g_1)
+[<sup>1</sup> So in original. Probably should be "Committees".](#698g_1)

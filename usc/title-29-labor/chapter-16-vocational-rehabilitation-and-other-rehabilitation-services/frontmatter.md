@@ -216,13 +216,13 @@ Sec.
 
 796f–4. Standards and assurances for centers for independent living.
 
-796f–5. “Eligible agency” defined.
+796f–5. "Eligible agency" defined.
 
 796f–6. Authorization of appropriations.
 
 #### Part B—Independent Living Services for Older Individuals Who Are Blind ####
 
-796j. “Older individual who is blind” defined.
+796j. "Older individual who is blind" defined.
 
 796k. Program of grants.
 

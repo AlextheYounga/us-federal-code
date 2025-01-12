@@ -10,10 +10,10 @@ Section was not enacted as part of the Federal Power Act which generally compris
 
 #### Amendments ####
 
-**1959**—Pub. L. 86–124 struck out “except that the provisions of sections 797(b) and 807 of this title shall continue to be applicable to any license issued for a hydroelectric development in the International Rapids section of the Saint Lawrence River” in first sentence.
+**1959**—Pub. L. 86–124 struck out "except that the provisions of sections 797(b) and 807 of this title shall continue to be applicable to any license issued for a hydroelectric development in the International Rapids section of the Saint Lawrence River" in first sentence.
 
 #### Transfer of Functions ####
 
-“Secretary of Energy” and “Secretary” substituted in text for “Federal Power Commission” and “Commission”, respectively, pursuant to Pub. L. 95–91, §301(b), which is classified to section 7151(b) of Title 42, The Public Health and Welfare.
+"Secretary of Energy" and "Secretary" substituted in text for "Federal Power Commission" and "Commission", respectively, pursuant to Pub. L. 95–91, §301(b), which is classified to section 7151(b) of Title 42, The Public Health and Welfare.
 
 Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.

@@ -18,27 +18,27 @@
 
 #### Amendments ####
 
-**2013**—Subsec. (a). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+**2013**—Subsec. (a). Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-**2011**—Subsec. (a). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+**2011**—Subsec. (a). Pub. L. 112–81 substituted "December 31, 2012" for "December 31, 2011".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
-**2009**—Subsec. (a). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+**2009**—Subsec. (a). Pub. L. 111–84 substituted "December 31, 2010" for "December 31, 2009".
 
-**2008**—Subsec. (a). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+**2008**—Subsec. (a). Pub. L. 110–417 substituted "December 31, 2009" for "December 31, 2008".
 
-Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
+Pub. L. 110–181 substituted "December 31, 2008" for "December 31, 2007".
 
-**2006**—Subsec. (a). Pub. L. 109–364 substituted “December 31, 2007” for “December 31, 2006”.
+**2006**—Subsec. (a). Pub. L. 109–364 substituted "December 31, 2007" for "December 31, 2006".
 
-Pub. L. 109–163, §622(g), substituted “December 31, 2006” for “December 31, 2005”.
+Pub. L. 109–163, §622(g), substituted "December 31, 2006" for "December 31, 2005".
 
 Subsec. (e). Pub. L. 109–163, §687(b)(12), amended heading and text of subsec. (e) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when officer fails to become and remain licensed as pharmacist or fails to complete total period of active duty.
 
-**2004**—Subsec. (a). Pub. L. 108–375 substituted “October 30, 2000, and ending on December 31, 2005” for “the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 and ending on September 30, 2004”.
+**2004**—Subsec. (a). Pub. L. 108–375 substituted "October 30, 2000, and ending on December 31, 2005" for "the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 and ending on September 30, 2004".
 
-**2002**—Subsec. (a). Pub. L. 107–314 substituted “subsection (d)” for “subsection (c)”.
+**2002**—Subsec. (a). Pub. L. 107–314 substituted "subsection (d)" for "subsection (c)".
 
 #### Effective Date of 2008 Amendment ####
 

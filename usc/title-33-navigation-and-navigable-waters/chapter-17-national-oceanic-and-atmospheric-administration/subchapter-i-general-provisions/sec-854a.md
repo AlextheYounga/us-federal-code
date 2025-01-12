@@ -18,4 +18,4 @@ Provisions similar to this section are contained in section 3032 of this title.
 
 #### Effective Date of 1949 Amendment ####
 
-Section 533(a) of act Oct. 12, 1949, provided that: “Except as provided in subsections (b) and (c) of this section, this Act [see Tables for classification] shall become effective on October 1, 1949, and no pay, allowances, or benefits provided herein shall accrue to any person for any period prior thereto.”
+Section 533(a) of act Oct. 12, 1949, provided that: "Except as provided in subsections (b) and (c) of this section, this Act [see Tables for classification] shall become effective on October 1, 1949, and no pay, allowances, or benefits provided herein shall accrue to any person for any period prior thereto."

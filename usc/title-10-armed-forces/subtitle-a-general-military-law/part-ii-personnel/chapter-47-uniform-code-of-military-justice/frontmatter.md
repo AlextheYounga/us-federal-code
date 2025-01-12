@@ -17,10 +17,10 @@
 
 #### Amendments ####
 
-**1994**—Pub. L. 103–337, div. A, title IX, §924(c)(3)(B), Oct. 5, 1994, 108 Stat. 2832, substituted “United States Court of Appeals for the Armed Forces” for “Court of Military Appeals” in item for subchapter XII.
+**1994**—Pub. L. 103–337, div. A, title IX, §924(c)(3)(B), Oct. 5, 1994, 108 Stat. 2832, substituted "United States Court of Appeals for the Armed Forces" for "Court of Military Appeals" in item for subchapter XII.
 
 **1989**—Pub. L. 101–189, div. A, title XIII, §1304(a)(1), Nov. 29, 1989, 103 Stat. 1576, added item for subchapter XII.
 
-**1983**—Pub. L. 98–209, §5(h)(1), Dec. 6, 1983, 97 Stat. 1400, substituted “IX. Post-Trial Procedure and Review of Courts-Martial” for “IX. Review of Courts-Martial”.
+**1983**—Pub. L. 98–209, §5(h)(1), Dec. 6, 1983, 97 Stat. 1400, substituted "IX. Post-Trial Procedure and Review of Courts-Martial" for "IX. Review of Courts-Martial".
 
 **1958**—Pub. L. 85–861, §33(a)(6), Sept. 2, 1958, 72 Stat. 1564, substituted 801, 807, 815, 816, 822, 830, 836, 855, 859, 877 and 935 for 1901, 1913, 1929, 1931, 1943, 1959, 1971, 2009, 2017, 2053 and 2169, respectively.

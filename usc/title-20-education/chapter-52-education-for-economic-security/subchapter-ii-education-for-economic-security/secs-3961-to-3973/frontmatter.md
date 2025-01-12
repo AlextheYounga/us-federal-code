@@ -2,7 +2,7 @@
 
 Section 3961, Pub. L. 98–377, title II, §201, Aug. 11, 1984, 98 Stat. 1273, related to purpose of subchapter.
 
-Section 3962, Pub. L. 98–377, title II, §202, Aug. 11, 1984, 98 Stat. 1274, defined “junior or community college”.
+Section 3962, Pub. L. 98–377, title II, §202, Aug. 11, 1984, 98 Stat. 1274, defined "junior or community college".
 
 Section 3963, Pub. L. 98–377, title II, §203, Aug. 11, 1984, 98 Stat. 1274; Pub. L. 99–159, title II, §222(a), Nov. 22, 1985, 99 Stat. 897; Pub. L. 100–418, title VI, §6005, Aug. 23, 1988, 102 Stat. 1471, related to program authorized.
 

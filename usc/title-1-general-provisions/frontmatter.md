@@ -13,7 +13,7 @@ Chap. Sec.
 
 #### Positive Law; Citation ####
 
-This title has been made positive law by section 1 of act July 30, 1947, ch. 388, 61 Stat. 633, which provided in part that: “Title 1 of the United States Code entitled ‘General Provisions’, is codified and enacted into positive law and may be cited as ‘1 U. S. C., §——.’ ”
+This title has been made positive law by section 1 of act July 30, 1947, ch. 388, 61 Stat. 633, which provided in part that: "Title 1 of the United States Code entitled 'General Provisions', is codified and enacted into positive law and may be cited as '1 U. S. C., §——.' "
 
 #### Repeals ####
 
@@ -21,7 +21,7 @@ Section 2 of act July 30, 1947, provided that the sections or parts thereof of t
 
 #### Writs of Error ####
 
-Section 23 of act June 25, 1948, ch. 646, 62 Stat. 990, provided that: “All Acts of Congress referring to writs of error shall be construed as amended to the extent necessary to substitute appeal for writ of error.”
+Section 23 of act June 25, 1948, ch. 646, 62 Stat. 990, provided that: "All Acts of Congress referring to writs of error shall be construed as amended to the extent necessary to substitute appeal for writ of error."
 
 |*Title 1 Former Sections*|*Revised Statutes<br/><br/>Statutes at Large*|*Title 1 New Sections*|
 |-------------------------|---------------------------------------------|----------------------|

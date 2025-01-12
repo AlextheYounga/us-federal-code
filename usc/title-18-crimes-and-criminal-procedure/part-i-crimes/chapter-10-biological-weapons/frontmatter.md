@@ -20,7 +20,7 @@ Sec.
 
 **2004**—Pub. L. 108–458, title VI, §6911(b), Dec. 17, 2004, 118 Stat. 3775, added item 175c.
 
-**2002**—Pub. L. 107–188, title II, §231(b)(2), June 12, 2002, 116 Stat. 661, substituted “Select agents; certain other agents” for “Possession by restricted persons” in item 175b.
+**2002**—Pub. L. 107–188, title II, §231(b)(2), June 12, 2002, 116 Stat. 661, substituted "Select agents; certain other agents" for "Possession by restricted persons" in item 175b.
 
 **2001**—Pub. L. 107–56, title VIII, §817(3), Oct. 26, 2001, 115 Stat. 386, added item 175b.
 

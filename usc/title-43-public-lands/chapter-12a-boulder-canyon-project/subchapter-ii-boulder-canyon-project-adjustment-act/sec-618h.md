@@ -10,6 +10,6 @@ The Project Act, referred to in text, is defined in section 618k of this title.
 
 #### Change of Name ####
 
-“United States District Court for the District of Columbia” substituted in text for “the district court of the United States for the District of Columbia” on authority of act June 25, 1948, as amended by act May 24, 1949.
+"United States District Court for the District of Columbia" substituted in text for "the district court of the United States for the District of Columbia" on authority of act June 25, 1948, as amended by act May 24, 1949.
 
-“Hoover Power Plant” substituted for “Boulder Power Plant” on authority of act Apr. 30, 1947, which changed name of Boulder Dam to Hoover Dam.
+"Hoover Power Plant" substituted for "Boulder Power Plant" on authority of act Apr. 30, 1947, which changed name of Boulder Dam to Hoover Dam.

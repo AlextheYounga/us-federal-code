@@ -72,7 +72,7 @@ For each fiscal year that grants are awarded under this section, the Secretary s
 
 #### (g) Definition ####
 
-In this section, the term “institution of higher education” has the meaning given such term in section 1001 of title 20.
+In this section, the term "institution of higher education" has the meaning given such term in section 1001 of title 20.
 
 #### (h) Authorization of appropriations ####
 

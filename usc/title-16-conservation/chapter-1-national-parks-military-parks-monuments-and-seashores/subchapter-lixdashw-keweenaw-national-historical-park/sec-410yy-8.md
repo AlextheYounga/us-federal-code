@@ -106,7 +106,7 @@ The Commission may, for the purpose of carrying out this subchapter, hold such h
 
 #### Amendments ####
 
-**1999**—Subsec. (c)(1)(A) to (D). Pub. L. 106–134 substituted “after consideration of nominees” for “from nominees”.
+**1999**—Subsec. (c)(1)(A) to (D). Pub. L. 106–134 substituted "after consideration of nominees" for "from nominees".
 
 #### Termination of Advisory Commissions ####
 
@@ -114,4 +114,4 @@ Advisory commissions established after Jan. 5, 1973, to terminate not later than
 
 [<sup>1</sup> So in original. The comma probably should not appear.](#410yy-8_1)
 
-[<sup>2</sup> So in original. Probably should be “paragraph (1),”.](#410yy-8_2)
+[<sup>2</sup> So in original. Probably should be "paragraph (1),".](#410yy-8_2)

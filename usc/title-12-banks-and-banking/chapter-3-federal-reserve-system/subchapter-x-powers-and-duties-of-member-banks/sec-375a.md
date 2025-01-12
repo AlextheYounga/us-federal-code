@@ -54,19 +54,19 @@ Proviso which permitted renewal or extension of loans made to executive officers
 
 **2006**—Pars. (6) to (10). Pub. L. 109–351 redesignated pars. (7), (8), and (10) as (6), (7), and (8), respectively, and struck out former pars. (6) and (9) which related to report of date and amount of credit extensions, security, and uses of proceeds upon excessive extension of credit and report of loan activity since previous report of condition, respectively.
 
-**1994**—Par. (2). Pub. L. 103–325 in introductory provisions substituted “A member” for “With the specific prior approval of its board of directors, a member”.
+**1994**—Par. (2). Pub. L. 103–325 in introductory provisions substituted "A member" for "With the specific prior approval of its board of directors, a member".
 
-**1982**—Par. (2). Pub. L. 97–320, §421(a), struck out “not exceeding $60,000” after “may make a loan”.
+**1982**—Par. (2). Pub. L. 97–320, §421(a), struck out "not exceeding $60,000" after "may make a loan".
 
-Par. (3). Pub. L. 97–320, §421(a), struck out “, not exceeding the aggregate amount of $20,000 outstanding at any one time,” after “officer of the bank”.
+Par. (3). Pub. L. 97–320, §421(a), struck out ", not exceeding the aggregate amount of $20,000 outstanding at any one time," after "officer of the bank".
 
-Par. (4). Pub. L. 97–320, §421(b), substituted “in an amount prescribed in a regulation of the member bank's appropriate Federal banking agency” for “not exceeding the aggregate amount of $10,000 outstanding at any one time”.
+Par. (4). Pub. L. 97–320, §421(b), substituted "in an amount prescribed in a regulation of the member bank's appropriate Federal banking agency" for "not exceeding the aggregate amount of $10,000 outstanding at any one time".
 
-**1978**—Par. (2). Pub. L. 95–630 substituted “$60,000” for “$30,000”.
+**1978**—Par. (2). Pub. L. 95–630 substituted "$60,000" for "$30,000".
 
-Par. (3). Pub. L. 95–630 substituted “$20,000” for “$10,000”.
+Par. (3). Pub. L. 95–630 substituted "$20,000" for "$10,000".
 
-Par. (4). Pub. L. 95–630 substituted “$10,000” for “$5,000”.
+Par. (4). Pub. L. 95–630 substituted "$10,000" for "$5,000".
 
 **1967**—Par. (1). Pub. L. 90–44 rewrote in first sentence of provisions designated as par. (1) the prohibition of former first sentence against any executive officer borrowing or otherwise becoming indebted to a member bank of which he is an officer and against any member bank making any loan or extending credit in any other manner to any of its own executive officers, authorized member banks to extend credit to such executive officers and to report such extensions to the board of directors, and provided in subpars. (A) to (D) conditions for such extension of credit.
 
@@ -74,7 +74,7 @@ Pars. (2), (3). Pub. L. 90–44 inserted provisions, designated as pars. (2) and
 
 Par. (4). Pub. L. 90–44 incorporated proviso of first sentence in provisions designated as par. (4), increased amount of available credit from $2,500 to $5,000, and struck out requirement of prior approval of credit by majority of entire board of directors.
 
-Par. (5). Pub. L. 90–44 substituted provisions, designated as par. (5), for extension of credit to partnerships for former provisions of third sentence that “Borrowing by, or loaning to, a partnership in which one or more executive officers of a member bank are partners having either individually or together a majority interest in said partnership, shall be considered within the prohibition of this section”.
+Par. (5). Pub. L. 90–44 substituted provisions, designated as par. (5), for extension of credit to partnerships for former provisions of third sentence that "Borrowing by, or loaning to, a partnership in which one or more executive officers of a member bank are partners having either individually or together a majority interest in said partnership, shall be considered within the prohibition of this section".
 
 Par. (6). Pub. L. 90–44 incorporated reporting requirement of second sentence in provisions designated as par. (6) but limited it to extensions of credit from other banks to the executive officers as exceeded amounts available to such officers from their member banks under pars. (2) to (4) of this section.
 
@@ -84,13 +84,13 @@ Par. (8). Pub. L. 90–44 designated proviso of sixth sentence as par. (8) and i
 
 Par. (9). Pub. L. 90–44 added requirement, designated as par. (9), that member banks report all loans made under authority of this section since previous report of condition.
 
-Par. (10). Pub. L. 90–44 designated provisions of fifth sentence as par. (10) and substituted general authorization for definition of terms for former specific authorization for definition of “executive officer” and for determination what shall be deemed to be a borrowing, indebtedness, loan, or extension of credit.
+Par. (10). Pub. L. 90–44 designated provisions of fifth sentence as par. (10) and substituted general authorization for definition of terms for former specific authorization for definition of "executive officer" and for determination what shall be deemed to be a borrowing, indebtedness, loan, or extension of credit.
 
 Pub. L. 90–44 struck out former sixth sentence, less proviso, which provided for removal from office in manner prescribed in former section 77 of this title of any executive officer of member bank accepting a loan or extension of credit in violation of this section.
 
-**1939**—Act June 20, 1939, substituted “June 16, 1939,” for “from such date”, in first sentence.
+**1939**—Act June 20, 1939, substituted "June 16, 1939," for "from such date", in first sentence.
 
-**1938**—Par. (1). Act Apr. 25, 1938, substituted “six” for “five” in first sentence.
+**1938**—Par. (1). Act Apr. 25, 1938, substituted "six" for "five" in first sentence.
 
 **1935**—Act Aug. 23, 1935, added last two provisos.
 

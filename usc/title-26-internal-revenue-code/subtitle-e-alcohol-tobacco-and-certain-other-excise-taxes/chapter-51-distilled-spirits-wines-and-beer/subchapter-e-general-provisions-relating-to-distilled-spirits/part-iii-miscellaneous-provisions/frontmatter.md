@@ -14,4 +14,4 @@ Sec.
 
 #### Amendments ####
 
-**1976**—Pub. L. 94–455, title XIX, §1905(b)(4), Oct. 4, 1976, 90 Stat. 1822, struck out item 5315 “Status of certain distilled spirits on July 1, 1959”.
+**1976**—Pub. L. 94–455, title XIX, §1905(b)(4), Oct. 4, 1976, 90 Stat. 1822, struck out item 5315 "Status of certain distilled spirits on July 1, 1959".

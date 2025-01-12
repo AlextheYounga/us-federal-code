@@ -12,7 +12,7 @@ Sec.
 
 2705. Emergency mortgage relief payments.
 
-2706. Emergency Homeowners’ Relief Fund.
+2706. Emergency Homeowners' Relief Fund.
 
 2707. Authority of Secretary.
 

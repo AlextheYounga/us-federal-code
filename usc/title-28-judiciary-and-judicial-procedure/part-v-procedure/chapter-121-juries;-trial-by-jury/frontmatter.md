@@ -30,7 +30,7 @@ Sec.
 
 1874. Actions on bonds and specialties.
 
-1875. Protection of jurors’ employment.
+1875. Protection of jurors' employment.
 
 1876. Trial by jury in the Court of International Trade.
 
@@ -40,7 +40,7 @@ Sec.
 
 #### Amendments ####
 
-**1992**—Pub. L. 102–572, title IV, §403(b), Oct. 29, 1992, 106 Stat. 4512, substituted “Optional” for “Experimental” in item 1878.
+**1992**—Pub. L. 102–572, title IV, §403(b), Oct. 29, 1992, 106 Stat. 4512, substituted "Optional" for "Experimental" in item 1878.
 
 **1988**—Pub. L. 100–702, title VIII, §805(b), Nov. 19, 1988, 102 Stat. 4659, added item 1878.
 
@@ -50,4 +50,4 @@ Sec.
 
 **1978**—Pub. L. 95–572, §6(a)(2), Nov. 2, 1978, 92 Stat. 2456, added item 1875.
 
-**1968**—Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 53, substituted “Declaration of policy” for “Qualifications” as item 1861, “Discrimination prohibited” for “Exemptions” as item 1862, “Plan for random jury selection” for “Exclusion or excuse from service” as item 1863, “Drawing of names from the master jury wheel; completion of juror qualification form” for “Manner of drawing; jury commissioners and their compensation” as item 1864, “Qualifications for jury service” for “Apportionment within district; additional jury commissioners” as item 1865, “Selection and summoning of jury panels” for “Special petit juries; talesmen from bystanders” as item 1866, “Challenging compliance with selection procedures” for “Summoning jurors” as item 1867, “Maintenance and inspection of records” for “Disqualification of marshal or deputy” as item 1868, “Definitions” for “Frequency of service” as item 1869, and reenacted items 1870–1874 without change.
+**1968**—Pub. L. 90–274, §101, Mar. 27, 1968, 82 Stat. 53, substituted "Declaration of policy" for "Qualifications" as item 1861, "Discrimination prohibited" for "Exemptions" as item 1862, "Plan for random jury selection" for "Exclusion or excuse from service" as item 1863, "Drawing of names from the master jury wheel; completion of juror qualification form" for "Manner of drawing; jury commissioners and their compensation" as item 1864, "Qualifications for jury service" for "Apportionment within district; additional jury commissioners" as item 1865, "Selection and summoning of jury panels" for "Special petit juries; talesmen from bystanders" as item 1866, "Challenging compliance with selection procedures" for "Summoning jurors" as item 1867, "Maintenance and inspection of records" for "Disqualification of marshal or deputy" as item 1868, "Definitions" for "Frequency of service" as item 1869, and reenacted items 1870–1874 without change.

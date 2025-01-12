@@ -16,7 +16,7 @@ It shall be unlawful for any person to offer to enter into, enter into, or confi
 
 A transaction referred to in paragraph (1) is a transaction that—
 
-(A)(i) is, of the character of, or is commonly known to the trade as, a “wash sale” or “accommodation trade”; or
+(A)(i) is, of the character of, or is commonly known to the trade as, a "wash sale" or "accommodation trade"; or
 
 (ii) is a fictitious sale; or
 
@@ -72,7 +72,7 @@ It shall be unlawful for any person to engage in any trading, practice, or condu
 
 (B) demonstrates intentional or reckless disregard for the orderly execution of transactions during the closing period; or
 
-(C) is, is of the character of, or is commonly known to the trade as, “spoofing” (bidding or offering with the intent to cancel the bid or offer before execution).
+(C) is, is of the character of, or is commonly known to the trade as, "spoofing" (bidding or offering with the intent to cancel the bid or offer before execution).
 
 #### (6) Rulemaking authority ####
 
@@ -84,7 +84,7 @@ It shall be unlawful for any person to enter into a swap knowing, or acting in r
 
 #### (b) Regulated option trading ####
 
-No person shall offer to enter into, enter into or confirm the execution of, any transaction involving any commodity regulated under this chapter which is of the character of, or is commonly known to the trade as, an “option”, “privilege”, “indemnity”, “bid”, “offer”, “put”, “call”, “advance guaranty”, or “decline guaranty”, contrary to any rule, regulation, or order of the Commission prohibiting any such transaction or allowing any such transaction under such terms and conditions as the Commission shall prescribe. Any such order, rule, or regulation may be made only after notice and opportunity for hearing, and the Commission may set different terms and conditions for different markets.
+No person shall offer to enter into, enter into or confirm the execution of, any transaction involving any commodity regulated under this chapter which is of the character of, or is commonly known to the trade as, an "option", "privilege", "indemnity", "bid", "offer", "put", "call", "advance guaranty", or "decline guaranty", contrary to any rule, regulation, or order of the Commission prohibiting any such transaction or allowing any such transaction under such terms and conditions as the Commission shall prescribe. Any such order, rule, or regulation may be made only after notice and opportunity for hearing, and the Commission may set different terms and conditions for different markets.
 
 #### (c) Regulations for elimination of pilot status of commodity option transactions; terms and conditions of options trading ####
 
@@ -110,7 +110,7 @@ Notwithstanding the provisions of subsection (c) of this section—
 
 (iii) notifies the Commission and every futures commission merchant offering the grantor's option if the grantor knows or has reason to believe that the grantor's net worth has fallen below $5,000,000;
 
-(iv) segregates daily, exclusively for the benefit of purchasers, money, exempted securities (within the meaning of section 78c(a)(12) of title 15), commercial paper, bankers’ acceptances, commercial bills, or unencumbered warehouse receipts, equal to an amount by which the value of each transaction exceeds the amount received or to be received by the grantor for such transaction;
+(iv) segregates daily, exclusively for the benefit of purchasers, money, exempted securities (within the meaning of section 78c(a)(12) of title 15), commercial paper, bankers' acceptances, commercial bills, or unencumbered warehouse receipts, equal to an amount by which the value of each transaction exceeds the amount received or to be received by the grantor for such transaction;
 
 (v) provides an identification number for each transaction; and
 
@@ -150,17 +150,17 @@ Section 2 of the STOCK Act, referred to in subsec. (a)(3), is section 2 of Pub. 
 
 #### Amendments ####
 
-**2012**—Subsec. (a)(3). Pub. L. 112–105, §5(1), inserted in introductory provisions “or any Member of Congress or employee of Congress (as such terms are defined under section 2 of the STOCK Act) or any judicial officer or judicial employee (as such terms are defined, respectively, under section 2 of the STOCK Act)” after “any department or agency of the Federal Government”, “Member, officer,” after “position of the”, and “or by Congress or by the judiciary” after “creating the information”.
+**2012**—Subsec. (a)(3). Pub. L. 112–105, §5(1), inserted in introductory provisions "or any Member of Congress or employee of Congress (as such terms are defined under section 2 of the STOCK Act) or any judicial officer or judicial employee (as such terms are defined, respectively, under section 2 of the STOCK Act)" after "any department or agency of the Federal Government", "Member, officer," after "position of the", and "or by Congress or by the judiciary" after "creating the information".
 
-Subsec. (a)(4)(A). Pub. L. 112–105, §5(2)(A), inserted in introductory provisions “or any Member of Congress or employee of Congress or any judicial officer or judicial employee” after “any department or agency of the Federal Government”, “Member, officer,” after “position of the”, and “or by Congress or by the judiciary” after “creating the information”.
+Subsec. (a)(4)(A). Pub. L. 112–105, §5(2)(A), inserted in introductory provisions "or any Member of Congress or employee of Congress or any judicial officer or judicial employee" after "any department or agency of the Federal Government", "Member, officer," after "position of the", and "or by Congress or by the judiciary" after "creating the information".
 
-Subsec. (a)(4)(B). Pub. L. 112–105, §5(2)(B), inserted “or any Member of Congress or employee of Congress or any judicial officer or judicial employee” after “Federal Government” in introductory provisions.
+Subsec. (a)(4)(B). Pub. L. 112–105, §5(2)(B), inserted "or any Member of Congress or employee of Congress or any judicial officer or judicial employee" after "Federal Government" in introductory provisions.
 
-Subsec. (a)(4)(C). Pub. L. 112–105, §5(2)(C)(i), inserted “or by Congress or by the judiciary” in two places in introductory provisions.
+Subsec. (a)(4)(C). Pub. L. 112–105, §5(2)(C)(i), inserted "or by Congress or by the judiciary" in two places in introductory provisions.
 
-Subsec. (a)(4)(C)(iii). Pub. L. 112–105, §5(2)(C)(ii), inserted “to Congress, any Member of Congress, any employee of Congress, any judicial officer, or any judicial employee,” after “Federal Government,”.
+Subsec. (a)(4)(C)(iii). Pub. L. 112–105, §5(2)(C)(ii), inserted "to Congress, any Member of Congress, any employee of Congress, any judicial officer, or any judicial employee," after "Federal Government,".
 
-**2010**—Subsec. (a)(1). Pub. L. 111–203, §741(b)(2), inserted “or swap” before “if the transaction is used or may be used”.
+**2010**—Subsec. (a)(1). Pub. L. 111–203, §741(b)(2), inserted "or swap" before "if the transaction is used or may be used".
 
 Subsec. (a)(3), (4). Pub. L. 111–203, §746, added pars. (3) and (4).
 
@@ -168,15 +168,15 @@ Subsec. (a)(5) to (7). Pub. L. 111–203, §747, added pars. (5) to (7).
 
 **2000**—Pub. L. 106–554, §1(a)(5) [title I, §109], inserted section catchline.
 
-Subsec. (a). Pub. L. 106–554, §1(a)(5) [title I, §109], added subsec. (a) and struck out former subsec. (a) which read as follows: “It shall be unlawful for any person to offer to enter into, enter into, or confirm the execution of, any transaction involving any commodity, which is or may be used for (1) hedging any transaction in interstate commerce in such commodity or the products or byproducts thereof, or (2) determining the price basis of any such transaction in interstate commerce in such commodity, or (3) delivering any such commodity sold, shipped, or received in interstate commerce for the fulfillment thereof—
+Subsec. (a). Pub. L. 106–554, §1(a)(5) [title I, §109], added subsec. (a) and struck out former subsec. (a) which read as follows: "It shall be unlawful for any person to offer to enter into, enter into, or confirm the execution of, any transaction involving any commodity, which is or may be used for (1) hedging any transaction in interstate commerce in such commodity or the products or byproducts thereof, or (2) determining the price basis of any such transaction in interstate commerce in such commodity, or (3) delivering any such commodity sold, shipped, or received in interstate commerce for the fulfillment thereof—
 
-“(A) if such transaction is, is of the character of, or is commonly known to the trade as, a ‘wash sale,’ ‘cross trade,’ or ‘accommodation trade,’ or is a fictitious sale; or
+"(A) if such transaction is, is of the character of, or is commonly known to the trade as, a 'wash sale,' 'cross trade,' or 'accommodation trade,' or is a fictitious sale; or
 
-“(B) if such transaction is used to cause any price to be reported, registered, or recorded which is not a true and bona fide price.
+"(B) if such transaction is used to cause any price to be reported, registered, or recorded which is not a true and bona fide price.
 
-Nothing in this section shall be construed to prevent the exchange of futures in connection with cash commodity transactions or of futures for cash commodities, or of transfer trades or office trades if made in accordance with board of trade rules applying to such transactions and such rules shall have been approved by the Commission.”
+Nothing in this section shall be construed to prevent the exchange of futures in connection with cash commodity transactions or of futures for cash commodities, or of transfer trades or office trades if made in accordance with board of trade rules applying to such transactions and such rules shall have been approved by the Commission."
 
-Subsec. (g). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(6)], inserted “or derivatives transaction execution facility” after “contract market” in two places.
+Subsec. (g). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(6)], inserted "or derivatives transaction execution facility" after "contract market" in two places.
 
 **1992**—Subsec. (d)(2). Pub. L. 102–546, §402(4), made technical amendments to references to section 78c(a)(12) of title 15 in subpar. (A)(iv) and to section 2(a) of this title in concluding provisions.
 
@@ -184,27 +184,27 @@ Subsec. (g). Pub. L. 102–546, §203(a), added subsec. (g).
 
 **1986**—Subsec. (c). Pub. L. 99–641, amended subsec. (c) generally, substituting provisions relating to regulations to eliminate pilot status of program for commodity option transactions for provisions relating to commodity option transactions, pilot program and permanent authorization, conditions ending prohibition, and excepted persons.
 
-**1983**—Subsec. (a)(B), (C). Pub. L. 97–444, §206(1), redesignated par. (C) as (B). Former par. (B), relating to transactions involving any commodity specifically set forth in section 2(a) of this title, prior to October 23, 1974, if such transactions were of the character of, or were commonly known to the trade as, an “option”, “privilege”, “indemnity”, “bid”, “offer”, “put”, “call”, “advance guaranty”, or “decline guaranty”, was struck out.
+**1983**—Subsec. (a)(B), (C). Pub. L. 97–444, §206(1), redesignated par. (C) as (B). Former par. (B), relating to transactions involving any commodity specifically set forth in section 2(a) of this title, prior to October 23, 1974, if such transactions were of the character of, or were commonly known to the trade as, an "option", "privilege", "indemnity", "bid", "offer", "put", "call", "advance guaranty", or "decline guaranty", was struck out.
 
-Subsec. (b). Pub. L. 97–444, §206(2), in revising section generally, struck out references to any transaction subject to provisions of subsection (a) of this section and to any commodity not specifically set forth in section 2(a) of this title, prior to October 23, 1974, and struck out “within one year after the effective date of the Commodity Futures Trading Commission Act of 1974 unless the Commission determines and notifies the Senate Committee on Agriculture, Nutrition, and Forestry and the House Committee on Agriculture that it is unable to prescribe such terms and conditions within such period of time:” after “such terms and conditions as the Commission shall prescribe”.
+Subsec. (b). Pub. L. 97–444, §206(2), in revising section generally, struck out references to any transaction subject to provisions of subsection (a) of this section and to any commodity not specifically set forth in section 2(a) of this title, prior to October 23, 1974, and struck out "within one year after the effective date of the Commodity Futures Trading Commission Act of 1974 unless the Commission determines and notifies the Senate Committee on Agriculture, Nutrition, and Forestry and the House Committee on Agriculture that it is unable to prescribe such terms and conditions within such period of time:" after "such terms and conditions as the Commission shall prescribe".
 
-Subsec. (c). Pub. L. 97–444, §206(3), inserted “With respect to any commodity regulated under this chapter and specifically set forth in section 2(a) of this title prior to October 23, 1974, the Commission may, pursuant to the procedures set forth in this subsection, establish a pilot program for a period not to exceed three years to permit such commodity option transactions. The Commission may authorize commodity option transactions during the pilot program in as many commodities as will provide an adequate test of the trading of such option transactions. After completion of the pilot program, the Commission may authorize commodity option transactions without regard to the restrictions in the pilot program after the Commission transmits to the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry the documentation required under clause (1) of the first sentence of this subsection and the expiration of thirty calendar days of continuous session of Congress after the date of such transmittal.”
+Subsec. (c). Pub. L. 97–444, §206(3), inserted "With respect to any commodity regulated under this chapter and specifically set forth in section 2(a) of this title prior to October 23, 1974, the Commission may, pursuant to the procedures set forth in this subsection, establish a pilot program for a period not to exceed three years to permit such commodity option transactions. The Commission may authorize commodity option transactions during the pilot program in as many commodities as will provide an adequate test of the trading of such option transactions. After completion of the pilot program, the Commission may authorize commodity option transactions without regard to the restrictions in the pilot program after the Commission transmits to the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry the documentation required under clause (1) of the first sentence of this subsection and the expiration of thirty calendar days of continuous session of Congress after the date of such transmittal."
 
-Subsec. (d)(1). Pub. L. 97–444, §206(4)(A), inserted “, other than a commodity specifically set forth in section 2(a) of this title prior to October 23, 1974,” after “physical commodity”.
+Subsec. (d)(1). Pub. L. 97–444, §206(4)(A), inserted ", other than a commodity specifically set forth in section 2(a) of this title prior to October 23, 1974," after "physical commodity".
 
-Subsec. (d)(2). Pub. L. 97–444, §206(4)(B), inserted “, other than a commodity specifically set forth in section 2(a) of this title prior to October 23, 1974,” after “subsection (b) of this section” in provisions preceding subpar. (A).
+Subsec. (d)(2). Pub. L. 97–444, §206(4)(B), inserted ", other than a commodity specifically set forth in section 2(a) of this title prior to October 23, 1974," after "subsection (b) of this section" in provisions preceding subpar. (A).
 
-Pub. L. 97–444, §206(4)(C), inserted “, other than options on a commodity specifically set forth in section 2(a) of this title prior to October 23, 1974,” after “The Commission may permit persons not domiciled in the United States to grant options under this subsection” in provisions following par. (2).
+Pub. L. 97–444, §206(4)(C), inserted ", other than options on a commodity specifically set forth in section 2(a) of this title prior to October 23, 1974," after "The Commission may permit persons not domiciled in the United States to grant options under this subsection" in provisions following par. (2).
 
 Subsec. (f). Pub. L. 97–444, §102, added subsec. (f).
 
-**1978**—Subsec. (a). Pub. L. 95–405, §3(1), in provisions following par. (C) substituted “have been approved” for “not have been disapproved”.
+**1978**—Subsec. (a). Pub. L. 95–405, §3(1), in provisions following par. (C) substituted "have been approved" for "not have been disapproved".
 
-Subsec. (b). Pub. L. 95–405, §3(2), substituted “Senate Committee on Agriculture, Nutrition, and Forestry” for “Senate Committee on Agriculture and Forestry”.
+Subsec. (b). Pub. L. 95–405, §3(2), substituted "Senate Committee on Agriculture, Nutrition, and Forestry" for "Senate Committee on Agriculture and Forestry".
 
 Subsecs. (c) to (e). Pub. L. 95–405, §3(3), added subsecs. (c) to (e).
 
-**1974**—Subsec. (a). Pub. L. 93–463, §§103(a), 402(a), (b), (d), designated existing provisions as subsec. (a), in par. (B) of subsec. (a) as so designated inserted “if such transaction involves any commodity specifically set forth in section 2(a) of this title, prior to the enactment of the Commodity Futures Trading Commission Act of 1974, and” and “option”, and in provisions following par. (C), struck out provisions prohibiting a construction of this section or section 6b of this title which would impair any State law applicable to any transaction enumerated or described in this section or section 6b of this title and substituted “Commission” for “Secretary of Agriculture”.
+**1974**—Subsec. (a). Pub. L. 93–463, §§103(a), 402(a), (b), (d), designated existing provisions as subsec. (a), in par. (B) of subsec. (a) as so designated inserted "if such transaction involves any commodity specifically set forth in section 2(a) of this title, prior to the enactment of the Commodity Futures Trading Commission Act of 1974, and" and "option", and in provisions following par. (C), struck out provisions prohibiting a construction of this section or section 6b of this title which would impair any State law applicable to any transaction enumerated or described in this section or section 6b of this title and substituted "Commission" for "Secretary of Agriculture".
 
 Subsec. (b). Pub. L. 93–463, §402(c), added subsec. (b).
 
@@ -214,7 +214,7 @@ Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21,
 
 #### Effective Date of 1992 Amendment ####
 
-Pub. L. 102–546, title II, §203(b), Oct. 28, 1992, 106 Stat. 3600, provided that: “The Commission shall adopt the rules required by the amendment made under subsection (a) [amending this section] within two hundred and seventy days after the date of enactment of this Act [Oct. 28, 1992].”
+Pub. L. 102–546, title II, §203(b), Oct. 28, 1992, 106 Stat. 3600, provided that: "The Commission shall adopt the rules required by the amendment made under subsection (a) [amending this section] within two hundred and seventy days after the date of enactment of this Act [Oct. 28, 1992]."
 
 #### Effective Date of 1983 Amendment ####
 
@@ -232,4 +232,4 @@ For effective date of amendment by Pub. L. 93–463, see section 418 of Pub. L. 
 
 For effective date of section, see section 13 of act June 15, 1936, set out as an Effective Date of 1936 Amendment note under section 1 of this title.
 
-[<sup>1</sup> So in original. Probably should be “clause”.](#6c_1)
+[<sup>1</sup> So in original. Probably should be "clause".](#6c_1)

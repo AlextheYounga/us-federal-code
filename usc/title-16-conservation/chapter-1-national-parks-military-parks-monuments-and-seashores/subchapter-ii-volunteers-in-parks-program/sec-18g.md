@@ -10,4 +10,4 @@ The Secretary of the Interior (hereinafter referred to as the Secretary) is auth
 
 #### Short Title ####
 
-Pub. L. 91–357, §5, July 29, 1970, 84 Stat. 472, provided that: “This Act [enacting this subchapter] may be cited as the ‘Volunteers in the Parks Act of 1969’.”
+Pub. L. 91–357, §5, July 29, 1970, 84 Stat. 472, provided that: "This Act [enacting this subchapter] may be cited as the 'Volunteers in the Parks Act of 1969'."

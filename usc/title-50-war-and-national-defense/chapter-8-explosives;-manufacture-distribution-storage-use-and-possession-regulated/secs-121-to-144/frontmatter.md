@@ -1,6 +1,6 @@
 ### §§121 to 144. Repealed. Pub. L. 91–452, title XI, §1106(a), Oct. 15, 1970, 84 Stat. 960 ###
 
-Section 121, acts Oct. 6, 1917, ch. 83, §1, 40 Stat. 385; Dec. 26, 1941, ch. 633, §2, 55 Stat. 863, defined “explosive”, “explosives”, “ingredients”, “person”, and “Director”. See section 841 of Title 18, Crimes and Criminal Procedure.
+Section 121, acts Oct. 6, 1917, ch. 83, §1, 40 Stat. 385; Dec. 26, 1941, ch. 633, §2, 55 Stat. 863, defined "explosive", "explosives", "ingredients", "person", and "Director". See section 841 of Title 18, Crimes and Criminal Procedure.
 
 Section 122, acts Oct. 6, 1917, ch. 83, §2, 40 Stat. 385; Dec. 26, 1941, ch. 633, §2, 55 Stat. 864, related to unauthorized manufacture, distribution, possession, acquisition, etc., of explosives or ingredients. See section 842 of Title 18.
 

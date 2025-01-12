@@ -48,7 +48,7 @@
 
 (e)(1) In each such report, the Secretary shall also include recommendations for the end-strength levels for medical personnel for each component of the armed forces as of the end of the next fiscal year.
 
-(2) For purposes of this subsection, the term “medical personnel” includes—
+(2) For purposes of this subsection, the term "medical personnel" includes—
 
 (A) in the case of the Army, members of the Medical Corps, Dental Corps, Nurse Corps, Medical Service Corps, Veterinary Corps, and Army Medical Specialist Corps;
 
@@ -106,61 +106,61 @@ Provisions similar to those in this section were contained in section 115(b)(1)(
 
 **2013**—Subsec. (g). Pub. L. 112–239 added subsec. (g).
 
-**2011**—Subsec. (a)(2), (3). Pub. L. 112–81 added pars. (2) and (3) and struck out former par. (2) which read as follows: “the annual civilian personnel end-strength level for each component of the Department of Defense for the next fiscal year.”
+**2011**—Subsec. (a)(2), (3). Pub. L. 112–81 added pars. (2) and (3) and struck out former par. (2) which read as follows: "the annual civilian personnel end-strength level for each component of the Department of Defense for the next fiscal year."
 
-**2009**—Pub. L. 111–84, §1109(b)(2)(B)(i), inserted “defense” before “manpower” in section catchline.
+**2009**—Pub. L. 111–84, §1109(b)(2)(B)(i), inserted "defense" before "manpower" in section catchline.
 
-Subsec. (a). Pub. L. 111–84, §1109(b)(2)(A), inserted “defense” before “manpower requirements report” in introductory provisions.
+Subsec. (a). Pub. L. 111–84, §1109(b)(2)(A), inserted "defense" before "manpower requirements report" in introductory provisions.
 
 Subsec. (f). Pub. L. 111–84, §1109(b)(1), added subsec. (f).
 
-**1998**—Subsec. (a). Pub. L. 105–261, in introductory provisions, struck out “, not later than February 15 of each fiscal year,” after “submit to Congress” and substituted “The report, which shall be in writing, shall be submitted each year not later than 45 days after the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31. The report” for “The report shall be in writing and”.
+**1998**—Subsec. (a). Pub. L. 105–261, in introductory provisions, struck out ", not later than February 15 of each fiscal year," after "submit to Congress" and substituted "The report, which shall be in writing, shall be submitted each year not later than 45 days after the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31. The report" for "The report shall be in writing and".
 
-**1997**—Subsec. (h). Pub. L. 105–85, §522(i)(2)(A), inserted “(displayed in the aggregate and separately for military technicians (dual status) and non-dual status military technicians)” after “of the following” in introductory provisions.
+**1997**—Subsec. (h). Pub. L. 105–85, §522(i)(2)(A), inserted "(displayed in the aggregate and separately for military technicians (dual status) and non-dual status military technicians)" after "of the following" in introductory provisions.
 
-Subsec. (h)(3). Pub. L. 105–85, §522(i)(2)(B), struck out par. (3) which read as follows: “Within each of the numbers under paragraph (1), the numbers of military technicians who are not themselves members of a reserve component (so-called ‘single-status’ technicians), with a further display of such numbers as specified in paragraph (2).”
+Subsec. (h)(3). Pub. L. 105–85, §522(i)(2)(B), struck out par. (3) which read as follows: "Within each of the numbers under paragraph (1), the numbers of military technicians who are not themselves members of a reserve component (so-called 'single-status' technicians), with a further display of such numbers as specified in paragraph (2)."
 
-**1996**—Subsec. (b)(2)(C). Pub. L. 104–106, §1061(d)(1), struck out subpar. (C) which read as follows: “Area of deployment and illustrative areas of potential deployment, including a description of any United States commitment to defend such areas.”
+**1996**—Subsec. (b)(2)(C). Pub. L. 104–106, §1061(d)(1), struck out subpar. (C) which read as follows: "Area of deployment and illustrative areas of potential deployment, including a description of any United States commitment to defend such areas."
 
 Subsec. (d). Pub. L. 104–106, §1061(d)(3), redesignated subsec. (e) as (d) and struck out pars. (4) and (5) which read as follows:
 
-“(4) An analysis of the distribution of each of the following categories of officers serving on active duty on the last day of the preceding fiscal year by grade in which serving and years of active commissioned service:
+"(4) An analysis of the distribution of each of the following categories of officers serving on active duty on the last day of the preceding fiscal year by grade in which serving and years of active commissioned service:
 
-“(A) Regular officers.
+"(A) Regular officers.
 
-“(B) Reserve officers on the active-duty list.
+"(B) Reserve officers on the active-duty list.
 
-“(C) Reserve officers described in clauses (B) and (C) of section 523(b)(1) of this title.
+"(C) Reserve officers described in clauses (B) and (C) of section 523(b)(1) of this title.
 
-“(D) Officers other than those specified in subparagraphs (A), (B), and (C) serving in a temporary grade.
+"(D) Officers other than those specified in subparagraphs (A), (B), and (C) serving in a temporary grade.
 
-“(5) An analysis of the number of officers and enlisted members serving on active duty for training as of the last day of the preceding fiscal year under orders specifying an aggregate period in excess of 180 days and an estimate for the current fiscal year of the number that will be ordered to such duty, tabulated by—
+"(5) An analysis of the number of officers and enlisted members serving on active duty for training as of the last day of the preceding fiscal year under orders specifying an aggregate period in excess of 180 days and an estimate for the current fiscal year of the number that will be ordered to such duty, tabulated by—
 
-“(A) recruit and specialized training;
+"(A) recruit and specialized training;
 
-“(B) flight training;
+"(B) flight training;
 
-“(C) professional training in military and civilian institutions; and
+"(C) professional training in military and civilian institutions; and
 
-“(D) officer acquisition training.”
+"(D) officer acquisition training."
 
-Pub. L. 104–106, §1061(d)(2), struck out subsec. (d) which read as follows: “In each such report, the Secretary shall also—
+Pub. L. 104–106, §1061(d)(2), struck out subsec. (d) which read as follows: "In each such report, the Secretary shall also—
 
-“(1) identify, define, and group by mission and by region the types of military bases, installations, and facilities;
+"(1) identify, define, and group by mission and by region the types of military bases, installations, and facilities;
 
-“(2) provide an explanation and justification of the relationship between this base structure and the proposed military force structure; and
+"(2) provide an explanation and justification of the relationship between this base structure and the proposed military force structure; and
 
-“(3) provide a comprehensive identification of base operating support costs and an evaluation of possible alternatives to reduce those costs.”
+"(3) provide a comprehensive identification of base operating support costs and an evaluation of possible alternatives to reduce those costs."
 
 Subsec. (e). Pub. L. 104–106, §1061(d)(5), redesignated subsec. (g) as (e). Former subsec. (e) redesignated (d).
 
-Subsec. (f). Pub. L. 104–106, §1061(d)(4), struck out subsec. (f) which read as follows: “In each such report, the Secretary shall also include recommendations for the average student load for each category of training for each component of the armed forces for the next three fiscal years. The Secretary shall include in the report justification for, and explanation of, the average student loads recommended.”
+Subsec. (f). Pub. L. 104–106, §1061(d)(4), struck out subsec. (f) which read as follows: "In each such report, the Secretary shall also include recommendations for the average student load for each category of training for each component of the armed forces for the next three fiscal years. The Secretary shall include in the report justification for, and explanation of, the average student loads recommended."
 
 Subsec. (g). Pub. L. 104–106, §1061(d)(5), redesignated subsec. (g) as (e).
 
 Subsec. (h). Pub. L. 104–106, §513(e), added subsec. (h).
 
-**1991**—Subsec. (d)(3). Pub. L. 102–190 inserted “provide” before “a comprehensive”.
+**1991**—Subsec. (d)(3). Pub. L. 102–190 inserted "provide" before "a comprehensive".
 
 #### Assessment of Structure and Mix of Active and Reserve Forces ####
 

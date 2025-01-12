@@ -12,4 +12,4 @@ The Federal Highway Act, referred to in text, is act Nov. 9, 1921, ch. 119, 42 S
 
 Act June 29, 1948, ch. 732, §4(c), 62 Stat. 1105, authorized the appropriation of $6,000,000 for fiscal years 1950 and 1951, respectively, for the carrying out of the provisions of this section.
 
-[<sup>1</sup> So in original. Probably should be “Secretary”.](#318a_1)
+[<sup>1</sup> So in original. Probably should be "Secretary".](#318a_1)

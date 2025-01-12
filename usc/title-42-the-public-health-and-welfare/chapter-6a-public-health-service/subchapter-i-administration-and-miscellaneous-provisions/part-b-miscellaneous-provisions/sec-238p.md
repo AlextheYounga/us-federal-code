@@ -34,36 +34,36 @@ The Secretary shall comply with this section not later than 180 days after Novem
 
 For purposes of this section:
 
-(1) The term “automated external defibrillator device” has the meaning given such term in section 238q of this title.
+(1) The term "automated external defibrillator device" has the meaning given such term in section 238q of this title.
 
-(2) The term “Federal building” includes a building or portion of a building leased or rented by a Federal agency, and includes buildings on military installations of the United States.
+(2) The term "Federal building" includes a building or portion of a building leased or rented by a Federal agency, and includes buildings on military installations of the United States.
 
 (July 1, 1944, ch. 373, title II, §247, as added Pub. L. 106–505, title IV, §403, Nov. 13, 2000, 114 Stat. 2337.)
 
 #### Findings ####
 
-Pub. L. 106–505, title IV, §402, Nov. 13, 2000, 114 Stat. 2336, provided that: “Congress makes the following findings:
+Pub. L. 106–505, title IV, §402, Nov. 13, 2000, 114 Stat. 2336, provided that: "Congress makes the following findings:
 
-“(1) Over 700 lives are lost every day to sudden cardiac arrest in the United States alone.
+"(1) Over 700 lives are lost every day to sudden cardiac arrest in the United States alone.
 
-“(2) Two out of every three sudden cardiac deaths occur before a victim can reach a hospital.
+"(2) Two out of every three sudden cardiac deaths occur before a victim can reach a hospital.
 
-“(3) More than 95 percent of these cardiac arrest victims will die, many because of lack of readily available life saving medical equipment.
+"(3) More than 95 percent of these cardiac arrest victims will die, many because of lack of readily available life saving medical equipment.
 
-“(4) With current medical technology, up to 30 percent of cardiac arrest victims could be saved if victims had access to immediate medical response, including defibrillation and cardiopulmonary resuscitation.
+"(4) With current medical technology, up to 30 percent of cardiac arrest victims could be saved if victims had access to immediate medical response, including defibrillation and cardiopulmonary resuscitation.
 
-“(5) Once a victim has suffered a cardiac arrest, every minute that passes before returning the heart to a normal rhythm decreases the chance of survival by 10 percent.
+"(5) Once a victim has suffered a cardiac arrest, every minute that passes before returning the heart to a normal rhythm decreases the chance of survival by 10 percent.
 
-“(6) Most cardiac arrests are caused by abnormal heart rhythms called ventricular fibrillation. Ventricular fibrillation occurs when the heart's electrical system malfunctions, causing a chaotic rhythm that prevents the heart from pumping oxygen to the victim's brain and body.
+"(6) Most cardiac arrests are caused by abnormal heart rhythms called ventricular fibrillation. Ventricular fibrillation occurs when the heart's electrical system malfunctions, causing a chaotic rhythm that prevents the heart from pumping oxygen to the victim's brain and body.
 
-“(7) Communities that have implemented programs ensuring widespread public access to defibrillators, combined with appropriate training, maintenance, and coordination with local emergency medical systems, have dramatically improved the survival rates from cardiac arrest.
+"(7) Communities that have implemented programs ensuring widespread public access to defibrillators, combined with appropriate training, maintenance, and coordination with local emergency medical systems, have dramatically improved the survival rates from cardiac arrest.
 
-“(8) Automated external defibrillator devices have been demonstrated to be safe and effective, even when used by lay people, since the devices are designed not to allow a user to administer a shock until after the device has analyzed a victim's heart rhythm and determined that an electric shock is required.
+"(8) Automated external defibrillator devices have been demonstrated to be safe and effective, even when used by lay people, since the devices are designed not to allow a user to administer a shock until after the device has analyzed a victim's heart rhythm and determined that an electric shock is required.
 
-“(9) Increasing public awareness regarding automated external defibrillator devices and encouraging their use in Federal buildings will greatly facilitate their adoption.
+"(9) Increasing public awareness regarding automated external defibrillator devices and encouraging their use in Federal buildings will greatly facilitate their adoption.
 
-“(10) Limiting the liability of Good Samaritans and acquirers of automated external defibrillator devices in emergency situations may encourage the use of automated external defibrillator devices, and result in saved lives.”
+"(10) Limiting the liability of Good Samaritans and acquirers of automated external defibrillator devices in emergency situations may encourage the use of automated external defibrillator devices, and result in saved lives."
 
 #### Certain Technologies and Practices Regarding Survival Rates for Cardiac Arrest ####
 
-Pub. L. 106–129, §7, Dec. 6, 1999, 113 Stat. 1676, provided that: “The Secretary of Health and Human Services shall, in consultation with the Administrator of the General Services Administration and other appropriate public and private entities, develop recommendations regarding the placement of automatic external defibrillators in Federal buildings as a means of improving the survival rates of individuals who experience cardiac arrest in such buildings, including recommendations on training, maintenance, and medical oversight, and on coordinating with the system for emergency medical services.”
+Pub. L. 106–129, §7, Dec. 6, 1999, 113 Stat. 1676, provided that: "The Secretary of Health and Human Services shall, in consultation with the Administrator of the General Services Administration and other appropriate public and private entities, develop recommendations regarding the placement of automatic external defibrillators in Federal buildings as a means of improving the survival rates of individuals who experience cardiac arrest in such buildings, including recommendations on training, maintenance, and medical oversight, and on coordinating with the system for emergency medical services."

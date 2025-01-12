@@ -18,7 +18,7 @@ For remainder of sections 111, 123, 204, 216, and 251 of title 13, U.S.C., 1952 
 
 #### Amendments ####
 
-**1976**—Pub. L. 94–521 substituted “Questionnaires” for “Schedules” in section catchline and in text.
+**1976**—Pub. L. 94–521 substituted "Questionnaires" for "Schedules" in section catchline and in text.
 
 #### Effective Date of 1976 Amendment ####
 
@@ -26,7 +26,7 @@ Amendment by Pub. L. 94–521 effective Oct. 17, 1976, see section 17 of Pub. L.
 
 #### Restriction on Collection of Census Data on Race ####
 
-Pub. L. 111–117, div. B, title I, Dec. 16, 2009, 123 Stat. 3115, provided in part: “That none of the funds provided in this or any other Act for any fiscal year may be used for the collection of census data on race identification that does not include ‘some other race’ as a category”.
+Pub. L. 111–117, div. B, title I, Dec. 16, 2009, 123 Stat. 3115, provided in part: "That none of the funds provided in this or any other Act for any fiscal year may be used for the collection of census data on race identification that does not include 'some other race' as a category".
 
 Similar provisions were contained in the following prior appropriation acts:
 

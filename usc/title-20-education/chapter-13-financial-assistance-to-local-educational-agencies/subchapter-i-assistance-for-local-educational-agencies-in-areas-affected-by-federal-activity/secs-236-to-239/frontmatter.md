@@ -10,4 +10,4 @@ Section 239, acts Sept. 30, 1950, ch. 1124, title I, §4, formerly §4, 64 Stat.
 
 #### Effective Date of Repeal ####
 
-Pub. L. 103–382, §3(a)(3)(B), Oct. 20, 1994, 108 Stat. 3519, provided that: “Part C [§331, repealing sections 236 to 239, 240 to 241–1, 242 to 244, and 631 to 647 of this title] of title III of this Act and the amendments made by such part shall take effect on October 1, 1994.”
+Pub. L. 103–382, §3(a)(3)(B), Oct. 20, 1994, 108 Stat. 3519, provided that: "Part C [§331, repealing sections 236 to 239, 240 to 241–1, 242 to 244, and 631 to 647 of this title] of title III of this Act and the amendments made by such part shall take effect on October 1, 1994."

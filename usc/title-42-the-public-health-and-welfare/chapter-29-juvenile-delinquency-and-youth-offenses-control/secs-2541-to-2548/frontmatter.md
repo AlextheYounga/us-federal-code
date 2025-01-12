@@ -2,7 +2,7 @@
 
 #### Codification ####
 
-Section 2541, Pub. L. 87–274, §2, Sept. 22, 1961, 75 Stat. 572, which set out the Congressional findings and declaration of policy underlying the passage of the “Juvenile Delinquency and Youth Offenses Control Act of 1961”, Pub. L. 87–274, Sept. 22, 1961, 75 Stat. 572, expired June 30, 1967, pursuant to section 2545 of this title. For the Congressional findings and declaration of purpose underlying the passage of the “Juvenile Delinquency Prevention and Control Act of 1968, Pub. L. 90–445, July 31, 1968, 82 Stat. 462, the successor provision, see section 3801 of this title.
+Section 2541, Pub. L. 87–274, §2, Sept. 22, 1961, 75 Stat. 572, which set out the Congressional findings and declaration of policy underlying the passage of the "Juvenile Delinquency and Youth Offenses Control Act of 1961", Pub. L. 87–274, Sept. 22, 1961, 75 Stat. 572, expired June 30, 1967, pursuant to section 2545 of this title. For the Congressional findings and declaration of purpose underlying the passage of the "Juvenile Delinquency Prevention and Control Act of 1968, Pub. L. 90–445, July 31, 1968, 82 Stat. 462, the successor provision, see section 3801 of this title.
 
 Section 2542, Pub. L. 87–274, §3, Sept. 22, 1961, 75 Stat. 572; Pub. L. 88–368, §1, July 9, 1964, 78 Stat. 309, which provided for demonstration and evaluation projects, expired June 30, 1967, pursuant to section 2545 of this title. See sections 3812, 3822, 3832, 3861, and 3871 of this title.
 

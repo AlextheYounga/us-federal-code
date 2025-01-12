@@ -136,7 +136,7 @@ Sec.
 
 1986. Conflicts of interests.
 
-1987. Debt adjustment and credit counseling; “summary period” defined; loan summary statements.
+1987. Debt adjustment and credit counseling; "summary period" defined; loan summary statements.
 
 1988. Appropriations.
 

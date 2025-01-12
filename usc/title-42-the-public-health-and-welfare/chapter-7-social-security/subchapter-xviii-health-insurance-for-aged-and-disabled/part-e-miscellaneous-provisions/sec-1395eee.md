@@ -14,9 +14,9 @@ In accordance with this section, in the case of an individual who is entitled to
 
 (ii) the PACE provider is entitled to payment under and in accordance with this section and such agreement for provision of such benefits.
 
-#### (2) “PACE program” defined ####
+#### (2) "PACE program" defined ####
 
-For purposes of this section, the term “PACE program” means a program of all-inclusive care for the elderly that meets the following requirements:
+For purposes of this section, the term "PACE program" means a program of all-inclusive care for the elderly that meets the following requirements:
 
 #### (A) Operation ####
 
@@ -30,11 +30,11 @@ The program provides comprehensive health care services to PACE program eligible
 
 In the case of an individual who is enrolled under the program under this section and whose enrollment ceases for any reason (including that the individual no longer qualifies as a PACE program eligible individual, the termination of a PACE program agreement, or otherwise), the program provides assistance to the individual in obtaining necessary transitional care through appropriate referrals and making the individual's medical records available to new providers.
 
-#### (3) “PACE provider” defined ####
+#### (3) "PACE provider" defined ####
 
 #### (A) In general ####
 
-For purposes of this section, the term “PACE provider” means an entity that—
+For purposes of this section, the term "PACE provider" means an entity that—
 
 (i) subject to subparagraph (B), is (or is a distinct part of) a public entity or a private, nonprofit entity organized for charitable purposes under section 501(c)(3) of the Internal Revenue Code of 1986; and
 
@@ -48,13 +48,13 @@ Clause (i) of subparagraph (A) shall not apply—
 
 (ii) after the date the report under section 4804(b) of the Balanced Budget Act of 1997 is submitted, unless the Secretary determines that any of the findings described in subparagraph (A), (B), (C), or (D) of paragraph (2) of such section are true.
 
-#### (4) “PACE program agreement” defined ####
+#### (4) "PACE program agreement" defined ####
 
-For purposes of this section, the term “PACE program agreement” means, with respect to a PACE provider, an agreement, consistent with this section, section 1396u–4 of this title (if applicable), and regulations promulgated to carry out such sections, between the PACE provider and the Secretary, or an agreement between the PACE provider and a State administering agency for the operation of a PACE program by the provider under such sections.
+For purposes of this section, the term "PACE program agreement" means, with respect to a PACE provider, an agreement, consistent with this section, section 1396u–4 of this title (if applicable), and regulations promulgated to carry out such sections, between the PACE provider and the Secretary, or an agreement between the PACE provider and a State administering agency for the operation of a PACE program by the provider under such sections.
 
-#### (5) “PACE program eligible individual” defined ####
+#### (5) "PACE program eligible individual" defined ####
 
-For purposes of this section, the term “PACE program eligible individual” means, with respect to a PACE program, an individual who—
+For purposes of this section, the term "PACE program eligible individual" means, with respect to a PACE program, an individual who—
 
 (A) is 55 years of age or older;
 
@@ -64,35 +64,35 @@ For purposes of this section, the term “PACE program eligible individual” me
 
 (D) meets such other eligibility conditions as may be imposed under the PACE program agreement for the program under subsection (e)(2)(A)(ii) of this section.
 
-#### (6) “PACE protocol” defined ####
+#### (6) "PACE protocol" defined ####
 
-For purposes of this section, the term “PACE protocol” means the Protocol for the Program of All-inclusive Care for the Elderly (PACE), as published by On Lok, Inc., as of April 14, 1995, or any successor protocol that may be agreed upon between the Secretary and On Lok, Inc.
+For purposes of this section, the term "PACE protocol" means the Protocol for the Program of All-inclusive Care for the Elderly (PACE), as published by On Lok, Inc., as of April 14, 1995, or any successor protocol that may be agreed upon between the Secretary and On Lok, Inc.
 
-#### (7) “PACE demonstration waiver program” defined ####
+#### (7) "PACE demonstration waiver program" defined ####
 
-For purposes of this section, the term “PACE demonstration waiver program” means a demonstration program under either of the following sections (as in effect before the date of their repeal):
+For purposes of this section, the term "PACE demonstration waiver program" means a demonstration program under either of the following sections (as in effect before the date of their repeal):
 
 (A) Section 603(c) of the Social Security Amendments of 1983 (Public Law 98–21), as extended by section 9220 of the Consolidated Omnibus Budget Reconciliation Act of 1985 (Public Law 99–272).
 
 (B) Section 9412(b) of the Omnibus Budget Reconciliation Act of 1986 (Public Law 99–509).
 
-#### (8) “State administering agency” defined ####
+#### (8) "State administering agency" defined ####
 
-For purposes of this section, the term “State administering agency” means, with respect to the operation of a PACE program in a State, the agency of that State (which may be the single agency responsible for administration of the State plan under subchapter XIX of this chapter in the State) responsible for administering PACE program agreements under this section and section 1396u–4 of this title in the State.
+For purposes of this section, the term "State administering agency" means, with respect to the operation of a PACE program in a State, the agency of that State (which may be the single agency responsible for administration of the State plan under subchapter XIX of this chapter in the State) responsible for administering PACE program agreements under this section and section 1396u–4 of this title in the State.
 
-#### (9) “Trial period” defined ####
+#### (9) "Trial period" defined ####
 
 #### (A) In general ####
 
-For purposes of this section, the term “trial period” means, with respect to a PACE program operated by a PACE provider under a PACE program agreement, the first 3 contract years under such agreement with respect to such program.
+For purposes of this section, the term "trial period" means, with respect to a PACE program operated by a PACE provider under a PACE program agreement, the first 3 contract years under such agreement with respect to such program.
 
 #### (B) Treatment of entities previously operating PACE demonstration waiver programs ####
 
 Each contract year (including a year occurring before the effective date of this section) during which an entity has operated a PACE demonstration waiver program shall be counted under subparagraph (A) as a contract year during which the entity operated a PACE program as a PACE provider under a PACE program agreement.
 
-#### (10) “Regulations” defined ####
+#### (10) "Regulations" defined ####
 
-For purposes of this section, the term “regulations” refers to interim final or final regulations promulgated under subsection (f) of this section to carry out this section and section 1396u–4 of this title.
+For purposes of this section, the term "regulations" refers to interim final or final regulations promulgated under subsection (f) of this section to carry out this section and section 1396u–4 of this title.
 
 #### (b) Scope of benefits; beneficiary safeguards ####
 
@@ -180,7 +180,7 @@ Regulations promulgated by the Secretary under this section and section 1396u–
 
 #### (ii) No disenrollment for noncompliant behavior ####
 
-Except as allowed under regulations promulgated to carry out clause (i)(II), a PACE program may not disenroll a PACE program eligible individual on the ground that the individual has engaged in noncompliant behavior if such behavior is related to a mental or physical condition of the individual. For purposes of the preceding sentence, the term “noncompliant behavior” includes repeated noncompliance with medical advice and repeated failure to appear for appointments.
+Except as allowed under regulations promulgated to carry out clause (i)(II), a PACE program may not disenroll a PACE program eligible individual on the ground that the individual has engaged in noncompliant behavior if such behavior is related to a mental or physical condition of the individual. For purposes of the preceding sentence, the term "noncompliant behavior" includes repeated noncompliance with medical advice and repeated failure to appear for appointments.
 
 #### (iii) Timely review of proposed nonvoluntary disenrollment ####
 
@@ -448,17 +448,17 @@ For the effective date of this section, referred to in subsec. (a)(9)(B), see se
 
 **2010**—Subsecs. (h) to (j). Pub. L. 111–148, §3201(i)(1), which directed addition of subsec. (h) and the redesignation of former subsecs. (h) and (i) as (i) and (j), respectively, was repealed by Pub. L. 111–152, §1102(a). Prior to repeal, text of subsec. (h) read as follows:
 
-“With respect to a PACE program under this section, the following provisions (and regulations relating to such provisions) shall not apply:
+"With respect to a PACE program under this section, the following provisions (and regulations relating to such provisions) shall not apply:
 
-“(1) Section 1395w–23(j)(1)(A)(i) of this title, relating to MA area-specific non-drug monthly benchmark amount being based on competitive bids.
+"(1) Section 1395w–23(j)(1)(A)(i) of this title, relating to MA area-specific non-drug monthly benchmark amount being based on competitive bids.
 
-“(2) Section 1395w–23(d)(5) of this title, relating to the establishment of MA local plan service areas.
+"(2) Section 1395w–23(d)(5) of this title, relating to the establishment of MA local plan service areas.
 
-“(3) Section 1395w–23(n) of this title, relating to the payment of performance bonuses.
+"(3) Section 1395w–23(n) of this title, relating to the payment of performance bonuses.
 
-“(4) Section 1395w–23(o) of this title, relating to grandfathering supplemental benefits for current enrollees after implementation of competitive bidding.
+"(4) Section 1395w–23(o) of this title, relating to grandfathering supplemental benefits for current enrollees after implementation of competitive bidding.
 
-“(5) Section 1395w–23(p) of this title, relating to transitional extra benefits.”
+"(5) Section 1395w–23(p) of this title, relating to transitional extra benefits."
 
 See Effective Date of 2010 Amendment note below.
 
@@ -482,202 +482,202 @@ Amendment by Pub. L. 108–173 applicable to services furnished on or after Jan.
 
 #### Effective Date of 2000 Amendment ####
 
-Pub. L. 106–554, §1(a)(6) [title IX, §902(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–583, provided that: “The amendments made by this section [amending this section and section 1396u–4 of this title] shall be effective as [if] included in the enactment of BBA [Pub. L. 105–33].”
+Pub. L. 106–554, §1(a)(6) [title IX, §902(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–583, provided that: "The amendments made by this section [amending this section and section 1396u–4 of this title] shall be effective as [if] included in the enactment of BBA [Pub. L. 105–33]."
 
 #### Rural PACE Provider Grant Program ####
 
 Pub. L. 109–171, title V, §5302, Feb. 8, 2006, 120 Stat. 51, as amended by Pub. L. 109–432, div. B, title II, §205(a), Dec. 20, 2006, 120 Stat. 2989, provided that:
 
-“(a) Definitions.—In this section:
+"(a) Definitions.—In this section:
 
-“(1) CMS.—The term ‘CMS’ means the Centers for Medicare & Medicaid Services.
+"(1) CMS.—The term 'CMS' means the Centers for Medicare & Medicaid Services.
 
-“(2) PACE program.—The term ‘PACE program’ has the meaning given that term in sections 1894(a)(2) and 1934(a)(2) of the Social Security Act (42 U.S.C. 1395eee(a)(2); 1396u–4(a)(2)).
+"(2) PACE program.—The term 'PACE program' has the meaning given that term in sections 1894(a)(2) and 1934(a)(2) of the Social Security Act (42 U.S.C. 1395eee(a)(2); 1396u–4(a)(2)).
 
-“(3) PACE provider.—The term ‘PACE provider’ has the meaning given that term in section 1894(a)(3) or 1934(a)(3) of the Social Security Act (42 U.S.C. 1395eee(a)(3); 1396u–4(a)(3)).
+"(3) PACE provider.—The term 'PACE provider' has the meaning given that term in section 1894(a)(3) or 1934(a)(3) of the Social Security Act (42 U.S.C. 1395eee(a)(3); 1396u–4(a)(3)).
 
-“(4) Rural area.—The term ‘rural area’ has the meaning given that term in section 1886(d)(2)(D) of the Social Security Act (42 U.S.C. 1395ww(d)(2)(D)).
+"(4) Rural area.—The term 'rural area' has the meaning given that term in section 1886(d)(2)(D) of the Social Security Act (42 U.S.C. 1395ww(d)(2)(D)).
 
-“(5) Rural pace pilot site.—The term ‘rural PACE pilot site’ means a PACE provider that has been approved to provide services in a geographic service area that is, in whole or in part, a rural area, and that has received a site development grant under this section.
+"(5) Rural pace pilot site.—The term 'rural PACE pilot site' means a PACE provider that has been approved to provide services in a geographic service area that is, in whole or in part, a rural area, and that has received a site development grant under this section.
 
-“(6) Secretary.—The term ‘Secretary’ means the Secretary of Health and Human Services.
+"(6) Secretary.—The term 'Secretary' means the Secretary of Health and Human Services.
 
-“(b) Site Development Grants and Technical Assistance Program.—
+"(b) Site Development Grants and Technical Assistance Program.—
 
-“(1) Site development grants.—
+"(1) Site development grants.—
 
-“(A) In general.—The Secretary shall establish a process and criteria to award site development grants to qualified PACE providers that have been approved to serve a rural area.
+"(A) In general.—The Secretary shall establish a process and criteria to award site development grants to qualified PACE providers that have been approved to serve a rural area.
 
-“(B) Amount per award.—A site development grant awarded under subparagraph (A) to any individual rural PACE pilot site shall not exceed $750,000.
+"(B) Amount per award.—A site development grant awarded under subparagraph (A) to any individual rural PACE pilot site shall not exceed $750,000.
 
-“(C) Number of awards.—Not more than 15 rural PACE pilot sites shall be awarded a site development grant under subparagraph (A).
+"(C) Number of awards.—Not more than 15 rural PACE pilot sites shall be awarded a site development grant under subparagraph (A).
 
-“(D) Use of funds.—Funds made available under a site development grant awarded under subparagraph (A) may be used for the following expenses only to the extent such expenses are incurred in relation to establishing or delivering PACE program services in a rural area:
+"(D) Use of funds.—Funds made available under a site development grant awarded under subparagraph (A) may be used for the following expenses only to the extent such expenses are incurred in relation to establishing or delivering PACE program services in a rural area:
 
-“(i) Feasibility analysis and planning.
+"(i) Feasibility analysis and planning.
 
-“(ii) Interdisciplinary team development.
+"(ii) Interdisciplinary team development.
 
-“(iii) Development of a provider network, including contract development.
+"(iii) Development of a provider network, including contract development.
 
-“(iv) Development or adaptation of claims processing systems.
+"(iv) Development or adaptation of claims processing systems.
 
-“(v) Preparation of special education and outreach efforts required for the PACE program.
+"(v) Preparation of special education and outreach efforts required for the PACE program.
 
-“(vi) Development of expense reporting required for calculation of outlier payments or reconciliation processes.
+"(vi) Development of expense reporting required for calculation of outlier payments or reconciliation processes.
 
-“(vii) Development of any special quality of care or patient satisfaction data collection efforts.
+"(vii) Development of any special quality of care or patient satisfaction data collection efforts.
 
-“(viii) Establishment of a working capital fund to sustain fixed administrative, facility, or other fixed costs until the provider reaches sufficient enrollment size.
+"(viii) Establishment of a working capital fund to sustain fixed administrative, facility, or other fixed costs until the provider reaches sufficient enrollment size.
 
-“(ix) Startup and development costs incurred prior to the approval of the rural PACE pilot site's PACE provider application by CMS.
+"(ix) Startup and development costs incurred prior to the approval of the rural PACE pilot site's PACE provider application by CMS.
 
-“(x) Any other efforts determined by the rural PACE pilot site to be critical to its successful startup, as approved by the Secretary.
+"(x) Any other efforts determined by the rural PACE pilot site to be critical to its successful startup, as approved by the Secretary.
 
-“(E) Appropriation.—
+"(E) Appropriation.—
 
-“(i) In general.—Out of funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary to carry out this subsection for fiscal year 2006, $7,500,000.
+"(i) In general.—Out of funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary to carry out this subsection for fiscal year 2006, $7,500,000.
 
-“(ii) Availability.—Funds appropriated under clause (i) shall remain available for expenditure through fiscal year 2008.
+"(ii) Availability.—Funds appropriated under clause (i) shall remain available for expenditure through fiscal year 2008.
 
-“(2) Technical assistance program.—The Secretary shall establish a technical assistance program to provide—
+"(2) Technical assistance program.—The Secretary shall establish a technical assistance program to provide—
 
-“(A) outreach and education to State agencies and provider organizations interested in establishing PACE programs in rural areas; and
+"(A) outreach and education to State agencies and provider organizations interested in establishing PACE programs in rural areas; and
 
-“(B) technical assistance necessary to support rural PACE pilot sites.
+"(B) technical assistance necessary to support rural PACE pilot sites.
 
-“(c) Cost Outlier Protection for Rural PACE Pilot Sites.—
+"(c) Cost Outlier Protection for Rural PACE Pilot Sites.—
 
-“(1) Establishment of fund for reimbursement of outlier costs.—Notwithstanding any other provision of law, the Secretary shall establish an outlier fund to reimburse rural PACE pilot sites for recognized outlier costs (as defined in paragraph (3)) incurred for eligible outlier participants (as defined in paragraph (2)) in an amount, subject to paragraph (4), equal to 80 percent of the amount by which the recognized outlier costs exceeds $50,000.
+"(1) Establishment of fund for reimbursement of outlier costs.—Notwithstanding any other provision of law, the Secretary shall establish an outlier fund to reimburse rural PACE pilot sites for recognized outlier costs (as defined in paragraph (3)) incurred for eligible outlier participants (as defined in paragraph (2)) in an amount, subject to paragraph (4), equal to 80 percent of the amount by which the recognized outlier costs exceeds $50,000.
 
-“(2) Eligible outlier participant.—For purposes of this subsection, the term ‘eligible outlier participant’ means a PACE program eligible individual (as defined in sections 1894(a)(5) and 1934(a)(5) of the Social Security Act (42 U.S.C. 1395eee(a)(5); 1396u–4(a)(5))) who resides in a rural area and with respect to whom the rural PACE pilot site incurs more than $50,000 in recognized costs in a 12-month period.
+"(2) Eligible outlier participant.—For purposes of this subsection, the term 'eligible outlier participant' means a PACE program eligible individual (as defined in sections 1894(a)(5) and 1934(a)(5) of the Social Security Act (42 U.S.C. 1395eee(a)(5); 1396u–4(a)(5))) who resides in a rural area and with respect to whom the rural PACE pilot site incurs more than $50,000 in recognized costs in a 12-month period.
 
-“(3) Recognized outlier costs defined.—
+"(3) Recognized outlier costs defined.—
 
-“(A) In general.—For purposes of this subsection, the term ‘recognized outlier costs’ means, with respect to services furnished to an eligible outlier participant by a rural PACE pilot site, the least of the following (as documented by the site to the satisfaction of the Secretary) for the provision of inpatient and related physician and ancillary services for the eligible outlier participant in a given 12-month period:
+"(A) In general.—For purposes of this subsection, the term 'recognized outlier costs' means, with respect to services furnished to an eligible outlier participant by a rural PACE pilot site, the least of the following (as documented by the site to the satisfaction of the Secretary) for the provision of inpatient and related physician and ancillary services for the eligible outlier participant in a given 12-month period:
 
-“(i) If the services are provided under a contract between the pilot site and the provider, the payment rate specified under the contract.
+"(i) If the services are provided under a contract between the pilot site and the provider, the payment rate specified under the contract.
 
-“(ii) The payment rate established under the original Medicare fee-for-service program for such service.
+"(ii) The payment rate established under the original Medicare fee-for-service program for such service.
 
-“(iii) The amount actually paid for the services by the pilot site.
+"(iii) The amount actually paid for the services by the pilot site.
 
-“(B) Inclusion in only one period.—Recognized outlier costs may not be included in more than one 12-month period.
+"(B) Inclusion in only one period.—Recognized outlier costs may not be included in more than one 12-month period.
 
-“(3)[two pars. (3) have been enacted] Outlier expense payment.—
+"(3)[two pars. (3) have been enacted] Outlier expense payment.—
 
-“(A)[no subpar. (B) has been enacted] Payment for outlier costs.—Subject to subparagraph (B), in the case of a rural PACE pilot site that has incurred outlier costs for an eligible outlier participant, the rural PACE pilot site shall receive an outlier expense payment equal to 80 percent of such costs that exceed $50,000.
+"(A)[no subpar. (B) has been enacted] Payment for outlier costs.—Subject to subparagraph (B), in the case of a rural PACE pilot site that has incurred outlier costs for an eligible outlier participant, the rural PACE pilot site shall receive an outlier expense payment equal to 80 percent of such costs that exceed $50,000.
 
-“(4) Limitations.—
+"(4) Limitations.—
 
-“(A) Costs incurred per eligible outlier participant.—The total amount of outlier expense payments made under this subsection to a rural PACE pilot site with respect to an eligible outlier participant for any 12-month period shall not exceed $100,000 for the 12-month period used to calculate the payment.
+"(A) Costs incurred per eligible outlier participant.—The total amount of outlier expense payments made under this subsection to a rural PACE pilot site with respect to an eligible outlier participant for any 12-month period shall not exceed $100,000 for the 12-month period used to calculate the payment.
 
-“(B) Costs incurred per provider.—No rural PACE pilot site may receive more than $500,000 in total outlier expense payments in a 12-month period.
+"(B) Costs incurred per provider.—No rural PACE pilot site may receive more than $500,000 in total outlier expense payments in a 12-month period.
 
-“(C) Limitation of outlier cost reimbursement period.—A rural PACE pilot site shall only receive outlier expense payments under this subsection with respect to costs incurred during the first 3 years of the site's operation.
+"(C) Limitation of outlier cost reimbursement period.—A rural PACE pilot site shall only receive outlier expense payments under this subsection with respect to costs incurred during the first 3 years of the site's operation.
 
-“(5) Requirement to access risk reserves prior to payment.—A rural PACE pilot site shall access and exhaust any risk reserves held or arranged for the provider (other than revenue or reserves maintained to satisfy the requirements of section 460.80(c) of title 42, Code of Federal Regulations) and any working capital established through a site development grant awarded under subsection (b)(1), prior to receiving any payment from the outlier fund.
+"(5) Requirement to access risk reserves prior to payment.—A rural PACE pilot site shall access and exhaust any risk reserves held or arranged for the provider (other than revenue or reserves maintained to satisfy the requirements of section 460.80(c) of title 42, Code of Federal Regulations) and any working capital established through a site development grant awarded under subsection (b)(1), prior to receiving any payment from the outlier fund.
 
-“(6) Application.—In order to receive an outlier expense payment under this subsection with respect to an eligible outlier participant, a rural PACE pilot site shall submit an application containing—
+"(6) Application.—In order to receive an outlier expense payment under this subsection with respect to an eligible outlier participant, a rural PACE pilot site shall submit an application containing—
 
-“(A) documentation of the costs incurred with respect to the participant;
+"(A) documentation of the costs incurred with respect to the participant;
 
-“(B) a certification that the site has complied with the requirements under paragraph (4); and
+"(B) a certification that the site has complied with the requirements under paragraph (4); and
 
-“(C) such additional information as the Secretary may require.
+"(C) such additional information as the Secretary may require.
 
-“(7) Appropriation.—
+"(7) Appropriation.—
 
-“(A) In general.—Out of funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary $10,000,000 to carry out this subsection for the period of fiscal years 2006 through 2010.
+"(A) In general.—Out of funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary $10,000,000 to carry out this subsection for the period of fiscal years 2006 through 2010.
 
-“(B) Availability.—Funds appropriated under subparagraph (A) shall remain available for obligation through fiscal year 2010.
+"(B) Availability.—Funds appropriated under subparagraph (A) shall remain available for obligation through fiscal year 2010.
 
-“(d) Evaluation of PACE Providers Serving Rural Service Areas.—Not later than 60 months after the date of enactment of this Act [Feb. 8, 2006], the Secretary shall submit a report to Congress containing an evaluation of the experience of rural PACE pilot sites.
+"(d) Evaluation of PACE Providers Serving Rural Service Areas.—Not later than 60 months after the date of enactment of this Act [Feb. 8, 2006], the Secretary shall submit a report to Congress containing an evaluation of the experience of rural PACE pilot sites.
 
-“(e) Amounts in Addition to Payments Under Social Security Act.—Any amounts paid under the authority of this section to a PACE provider shall be in addition to payments made to the provider under section 1894 or 1934 of the Social Security Act (42 U.S.C. 1395eee; 1396u–4).”
+"(e) Amounts in Addition to Payments Under Social Security Act.—Any amounts paid under the authority of this section to a PACE provider shall be in addition to payments made to the provider under section 1894 or 1934 of the Social Security Act (42 U.S.C. 1395eee; 1396u–4)."
 
 #### Flexibility in Exercising Waiver Authority ####
 
-Pub. L. 106–554, §1(a)(6) [title IX, §903], Dec. 21, 2000, 114 Stat. 2763, 2763A–583, provided that: “In applying sections 1894(f)(2)(B) and 1934(f)(2)(B) of the Social Security Act (42 U.S.C. 1395eee(f)(2)(B), 1396u–4(f)(2)(B)), the Secretary of Health and Human Services—
+Pub. L. 106–554, §1(a)(6) [title IX, §903], Dec. 21, 2000, 114 Stat. 2763, 2763A–583, provided that: "In applying sections 1894(f)(2)(B) and 1934(f)(2)(B) of the Social Security Act (42 U.S.C. 1395eee(f)(2)(B), 1396u–4(f)(2)(B)), the Secretary of Health and Human Services—
 
-“(1) shall approve or deny a request for a modification or a waiver of provisions of the PACE protocol not later than 90 days after the date the Secretary receives the request; and
+"(1) shall approve or deny a request for a modification or a waiver of provisions of the PACE protocol not later than 90 days after the date the Secretary receives the request; and
 
-“(2) may exercise authority to modify or waive such provisions in a manner that responds promptly to the needs of PACE programs relating to areas of employment and the use of community-based primary care physicians.”
+"(2) may exercise authority to modify or waive such provisions in a manner that responds promptly to the needs of PACE programs relating to areas of employment and the use of community-based primary care physicians."
 
 #### Transition; Regulations ####
 
 Pub. L. 105–33, title IV, §4803, Aug. 5, 1997, 111 Stat. 549, as amended by Pub. L. 106–554, §1(a)(6) [title IX, §901], Dec. 21, 2000, 114 Stat. 2763, 2763A–582, provided that:
 
-“(a) Timely Issuance of Regulations; Effective Date.—The Secretary of Health and Human Services shall promulgate regulations to carry out this subtitle [subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title, amending sections 1396b, 1396d, 1396r–5, and 1396v of this title, and enacting provisions set out as notes under this section and section 1395b–6 of this title] in a timely manner. Such regulations shall be designed so that entities may establish and operate PACE programs under sections 1894 and 1934 of the Social Security Act [42 U.S.C. 1395eee, 1396u–4] (as added by sections 4801 and 4802 of this subtitle) for periods beginning not later than 1 year after the date of the enactment of this Act [Aug. 5, 1997].
+"(a) Timely Issuance of Regulations; Effective Date.—The Secretary of Health and Human Services shall promulgate regulations to carry out this subtitle [subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title, amending sections 1396b, 1396d, 1396r–5, and 1396v of this title, and enacting provisions set out as notes under this section and section 1395b–6 of this title] in a timely manner. Such regulations shall be designed so that entities may establish and operate PACE programs under sections 1894 and 1934 of the Social Security Act [42 U.S.C. 1395eee, 1396u–4] (as added by sections 4801 and 4802 of this subtitle) for periods beginning not later than 1 year after the date of the enactment of this Act [Aug. 5, 1997].
 
-“(b) Expansion and Transition for PACE Demonstration Project Waivers.—
+"(b) Expansion and Transition for PACE Demonstration Project Waivers.—
 
-“(1) Expansion in current number and extension of demonstration projects.—Section 9412(b) of the Omnibus Budget Reconciliation Act of 1986 [see subsec. (d) below], as amended by section 4118(g) of the Omnibus Budget Reconciliation Act of 1987, is amended—
+"(1) Expansion in current number and extension of demonstration projects.—Section 9412(b) of the Omnibus Budget Reconciliation Act of 1986 [see subsec. (d) below], as amended by section 4118(g) of the Omnibus Budget Reconciliation Act of 1987, is amended—
 
-“(A) in paragraph (1), by inserting before the period at the end the following: ‘, except that the Secretary shall grant waivers of such requirements to up to the applicable numerical limitation specified in sections 1894(e)(1)(B) and 1934(e)(1)(B) of the Social Security Act’ [42 U.S.C. 1395eee(e)(1)(B), 1396u–4(e)(1)(B)]; and
+"(A) in paragraph (1), by inserting before the period at the end the following: ', except that the Secretary shall grant waivers of such requirements to up to the applicable numerical limitation specified in sections 1894(e)(1)(B) and 1934(e)(1)(B) of the Social Security Act' [42 U.S.C. 1395eee(e)(1)(B), 1396u–4(e)(1)(B)]; and
 
-“(B) in paragraph (2)—
+"(B) in paragraph (2)—
 
-“(i) in subparagraph (A), by striking ‘, including permitting the organization to assume progressively (over the initial 3-year period of the waiver) the full financial risk’; and
+"(i) in subparagraph (A), by striking ', including permitting the organization to assume progressively (over the initial 3-year period of the waiver) the full financial risk'; and
 
-“(ii) in subparagraph (C), by adding at the end the following: ‘In granting further extensions, an organization shall not be required to provide for reporting of information which is only required because of the demonstration nature of the project.’
+"(ii) in subparagraph (C), by adding at the end the following: 'In granting further extensions, an organization shall not be required to provide for reporting of information which is only required because of the demonstration nature of the project.'
 
-“(2) Elimination of replication requirement.—Section 9412(b)(2)(B) of such Act, as so amended, shall not apply to waivers granted under such section after the date of the enactment of this Act [Aug. 5, 1997].
+"(2) Elimination of replication requirement.—Section 9412(b)(2)(B) of such Act, as so amended, shall not apply to waivers granted under such section after the date of the enactment of this Act [Aug. 5, 1997].
 
-“(3) Timely consideration of applications.—In considering an application for waivers under such section before the effective date of the repeals under subsection (d), subject to the numerical limitation under the amendment made by paragraph (1), the application shall be deemed approved unless the Secretary of Health and Human Services, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the applicant in writing with respect to any additional information which is needed in order to make a final determination with respect to the application. After the date the Secretary receives such additional information, the application shall be deemed approved unless the Secretary, within 90 days of such date, denies such request.
+"(3) Timely consideration of applications.—In considering an application for waivers under such section before the effective date of the repeals under subsection (d), subject to the numerical limitation under the amendment made by paragraph (1), the application shall be deemed approved unless the Secretary of Health and Human Services, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the applicant in writing with respect to any additional information which is needed in order to make a final determination with respect to the application. After the date the Secretary receives such additional information, the application shall be deemed approved unless the Secretary, within 90 days of such date, denies such request.
 
-“(c) Priority and Special Consideration in Application.—During the 3-year period beginning on the date of the enactment of this Act [Aug. 5, 1997]:
+"(c) Priority and Special Consideration in Application.—During the 3-year period beginning on the date of the enactment of this Act [Aug. 5, 1997]:
 
-“(1) Provider status.—The Secretary of Health and Human Services shall give priority in processing applications of entities to qualify as PACE programs under section 1894 or 1934 of the Social Security Act [42 U.S.C. 1395eee, 1396u–4]—
+"(1) Provider status.—The Secretary of Health and Human Services shall give priority in processing applications of entities to qualify as PACE programs under section 1894 or 1934 of the Social Security Act [42 U.S.C. 1395eee, 1396u–4]—
 
-“(A) first, to entities that are operating a PACE demonstration waiver program (as defined in sections 1894(a)(7) and 1934(a)(7) of such Act [42 U.S.C. 1395eee(a)(7), 1396u–4(a)(7)]); and
+"(A) first, to entities that are operating a PACE demonstration waiver program (as defined in sections 1894(a)(7) and 1934(a)(7) of such Act [42 U.S.C. 1395eee(a)(7), 1396u–4(a)(7)]); and
 
-“(B) then to entities that have applied to operate such a program as of May 1, 1997.
+"(B) then to entities that have applied to operate such a program as of May 1, 1997.
 
-“(2) New waivers.—The Secretary shall give priority, in the awarding of additional waivers under section 9412(b) of the Omnibus Budget Reconciliation Act of 1986 [see subsec. (d) below]—
+"(2) New waivers.—The Secretary shall give priority, in the awarding of additional waivers under section 9412(b) of the Omnibus Budget Reconciliation Act of 1986 [see subsec. (d) below]—
 
-“(A) to any entities that have applied for such waivers under such section as of May 1, 1997; and
+"(A) to any entities that have applied for such waivers under such section as of May 1, 1997; and
 
-“(B) to any entity that, as of May 1, 1997, has formally contracted with a State to provide services for which payment is made on a capitated basis with an understanding that the entity was seeking to become a PACE provider.
+"(B) to any entity that, as of May 1, 1997, has formally contracted with a State to provide services for which payment is made on a capitated basis with an understanding that the entity was seeking to become a PACE provider.
 
-“(3) Special consideration.—The Secretary shall give special consideration, in the processing of applications described in paragraph (1) and the awarding of waivers described in paragraph (2), to an entity which as of May 1, 1997, through formal activities (such as entering into contracts for feasibility studies) has indicated a specific intent to become a PACE provider.
+"(3) Special consideration.—The Secretary shall give special consideration, in the processing of applications described in paragraph (1) and the awarding of waivers described in paragraph (2), to an entity which as of May 1, 1997, through formal activities (such as entering into contracts for feasibility studies) has indicated a specific intent to become a PACE provider.
 
-“(d) Repeal of Current PACE Demonstration Project Waiver Authority.—
+"(d) Repeal of Current PACE Demonstration Project Waiver Authority.—
 
-“(1) In general.—Subject to paragraph (2), the following provisions of law are repealed:
+"(1) In general.—Subject to paragraph (2), the following provisions of law are repealed:
 
-“(A) Section 603(c) of the Social Security Amendments of 1983 (Public Law 98–21) [97 Stat. 168].
+"(A) Section 603(c) of the Social Security Amendments of 1983 (Public Law 98–21) [97 Stat. 168].
 
-“(B) Section 9220 of the Consolidated Omnibus Budget Reconciliation Act of 1985 (Public Law 99–272) [100 Stat. 183].
+"(B) Section 9220 of the Consolidated Omnibus Budget Reconciliation Act of 1985 (Public Law 99–272) [100 Stat. 183].
 
-“(C) Section 9412(b) of the Omnibus Budget Reconciliation Act of 1986 (Public Law 99–509) [100 Stat. 2062].
+"(C) Section 9412(b) of the Omnibus Budget Reconciliation Act of 1986 (Public Law 99–509) [100 Stat. 2062].
 
-“(2) Delay in application to current waivers.—
+"(2) Delay in application to current waivers.—
 
-“(A) In general.—Subject to subparagraph (B), in the case of waivers granted with respect to a PACE program before July 1, 2000, the repeals made by paragraph (1) shall not apply until the end of a transition period (of up to 36 months) that begins on the initial effective date of such regulations, and that allows sufficient time for an orderly transition from demonstration project authority to general authority provided under the amendments made by this subtitle [subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title and amending sections 1396b, 1396d, 1396r–5, and 1396v of this title].
+"(A) In general.—Subject to subparagraph (B), in the case of waivers granted with respect to a PACE program before July 1, 2000, the repeals made by paragraph (1) shall not apply until the end of a transition period (of up to 36 months) that begins on the initial effective date of such regulations, and that allows sufficient time for an orderly transition from demonstration project authority to general authority provided under the amendments made by this subtitle [subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title and amending sections 1396b, 1396d, 1396r–5, and 1396v of this title].
 
-“(B) State option to seek extension of current period.—A State may elect to maintain the PACE programs which (as of the date of the enactment of this Act [Aug. 5, 1997]) were operating in the State under the authority described in paragraph (1) until a date (specified by the State) that is not later than 4 years after the initial effective date of regulations described in subsection (a). If a State makes such an election, the repeals made by paragraph (1) shall not apply to the programs until the date so specified, but only so long as such programs continue to operate under the same terms and conditions as apply to such programs as of the date of the enactment of this Act, and subparagraph (A) shall not apply to such programs.”
+"(B) State option to seek extension of current period.—A State may elect to maintain the PACE programs which (as of the date of the enactment of this Act [Aug. 5, 1997]) were operating in the State under the authority described in paragraph (1) until a date (specified by the State) that is not later than 4 years after the initial effective date of regulations described in subsection (a). If a State makes such an election, the repeals made by paragraph (1) shall not apply to the programs until the date so specified, but only so long as such programs continue to operate under the same terms and conditions as apply to such programs as of the date of the enactment of this Act, and subparagraph (A) shall not apply to such programs."
 
 #### PACE Programs; Study and Reports ####
 
 Pub. L. 105–33, title IV, §4804(a), (b), Aug. 5, 1997, 111 Stat. 551, provided that:
 
-“(a) Study.—
+"(a) Study.—
 
-“(1) In general.—The Secretary of Health and Human Services (in close consultation with State administering agencies, as defined in sections 1894(a)(8) and 1934(a)(8) of the Social Security Act [42 U.S.C. 1395eee(a)(8), 1396u–4(a)(8)]) shall conduct a study of the quality and cost of providing PACE program services under the medicare and medicaid programs under the amendments made by this subtitle [subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title and amending sections 1396b, 1396d, 1396r–5, and 1396v of this title].
+"(1) In general.—The Secretary of Health and Human Services (in close consultation with State administering agencies, as defined in sections 1894(a)(8) and 1934(a)(8) of the Social Security Act [42 U.S.C. 1395eee(a)(8), 1396u–4(a)(8)]) shall conduct a study of the quality and cost of providing PACE program services under the medicare and medicaid programs under the amendments made by this subtitle [subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title and amending sections 1396b, 1396d, 1396r–5, and 1396v of this title].
 
-“(2) Study of private, for-profit providers.—Such study shall specifically compare the costs, quality, and access to services by entities that are private, for-profit entities operating under demonstration projects waivers granted under sections 1894(h) and 1934(h) of the Social Security Act [42 U.S.C. 1395eee(h), 1396u–4(h)] with the costs, quality, and access to services of other PACE providers.
+"(2) Study of private, for-profit providers.—Such study shall specifically compare the costs, quality, and access to services by entities that are private, for-profit entities operating under demonstration projects waivers granted under sections 1894(h) and 1934(h) of the Social Security Act [42 U.S.C. 1395eee(h), 1396u–4(h)] with the costs, quality, and access to services of other PACE providers.
 
-“(b) Report.—
+"(b) Report.—
 
-“(1) In general.—Not later than 4 years after the date of the enactment of this Act [Aug. 5, 1997], the Secretary shall provide for a report to Congress on the impact of such amendments on quality and cost of services. The Secretary shall include in such report such recommendations for changes in the operation of such amendments as the Secretary deems appropriate.
+"(1) In general.—Not later than 4 years after the date of the enactment of this Act [Aug. 5, 1997], the Secretary shall provide for a report to Congress on the impact of such amendments on quality and cost of services. The Secretary shall include in such report such recommendations for changes in the operation of such amendments as the Secretary deems appropriate.
 
-“(2) Treatment of private, for-profit providers.—The report shall include specific findings on whether any of the following findings is true:
+"(2) Treatment of private, for-profit providers.—The report shall include specific findings on whether any of the following findings is true:
 
-“(A) The number of covered lives enrolled with entities operating under demonstration project waivers under sections 1894(h) and 1934(h) of the Social Security Act is fewer than 800 (or such lesser number as the Secretary may find statistically sufficient to make determinations respecting findings described in the succeeding subparagraphs).
+"(A) The number of covered lives enrolled with entities operating under demonstration project waivers under sections 1894(h) and 1934(h) of the Social Security Act is fewer than 800 (or such lesser number as the Secretary may find statistically sufficient to make determinations respecting findings described in the succeeding subparagraphs).
 
-“(B) The population enrolled with such entities is less frail than the population enrolled with other PACE providers.
+"(B) The population enrolled with such entities is less frail than the population enrolled with other PACE providers.
 
-“(C) Access to or quality of care for individuals enrolled with such entities is lower than such access or quality for individuals enrolled with other PACE providers.
+"(C) Access to or quality of care for individuals enrolled with such entities is lower than such access or quality for individuals enrolled with other PACE providers.
 
-“(D) The application of such section has resulted in an increase in expenditures under the medicare or medicaid programs above the expenditures that would have been made if such section did not apply.”
+"(D) The application of such section has resulted in an increase in expenditures under the medicare or medicaid programs above the expenditures that would have been made if such section did not apply."

@@ -6,7 +6,7 @@ The administration, protection, and development of the aforesaid national histor
 
 #### Change of Name ####
 
-“Historic site” substituted in text for “monument” on authority of Pub. L. 88–197 which redesignated Andrew Johnson National Monument as Andrew Johnson National Historic Site.
+"Historic site" substituted in text for "monument" on authority of Pub. L. 88–197 which redesignated Andrew Johnson National Monument as Andrew Johnson National Historic Site.
 
 #### Transfer of Functions ####
 

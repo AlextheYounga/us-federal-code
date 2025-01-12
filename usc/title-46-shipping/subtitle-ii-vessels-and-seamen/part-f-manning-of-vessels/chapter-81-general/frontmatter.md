@@ -26,8 +26,8 @@ Chapter 81 provides for the composition, citizenship, working hours, and other l
 
 **2006**—Pub. L. 109–241, title III, §312(d), July 11, 2006, 120 Stat. 534, added item 8106.
 
-Pub. L. 109–163, div. A, title V, §515(f)(3)(C), Jan. 6, 2006, 119 Stat. 3236, substituted “Citizenship and Navy Reserve requirements” for “Citizenship and Naval Reserve requirements” in item 8103.
+Pub. L. 109–163, div. A, title V, §515(f)(3)(C), Jan. 6, 2006, 119 Stat. 3236, substituted "Citizenship and Navy Reserve requirements" for "Citizenship and Naval Reserve requirements" in item 8103.
 
 **1996**—Pub. L. 104–324, title XI, §1146(b), Oct. 19, 1996, 110 Stat. 3993, added item 8105.
 
-**1990**—Pub. L. 101–595, title VI, §603(7)(B), Nov. 16, 1990, 104 Stat. 2993, struck out item 8105 “Regulations”.
+**1990**—Pub. L. 101–595, title VI, §603(7)(B), Nov. 16, 1990, 104 Stat. 2993, struck out item 8105 "Regulations".

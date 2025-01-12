@@ -92,9 +92,9 @@ With respect to any determination of the financial need of a student for a loan 
 
 For purposes of this section:
 
-(1) The term “active duty” has the meaning given such term in section 101(18) of title 37, except that such term does not include active duty for training.
+(1) The term "active duty" has the meaning given such term in section 101(18) of title 37, except that such term does not include active duty for training.
 
-(2) The term “Persian Gulf conflict” means the period beginning on August 2, 1990, and ending on the date thereafter prescribed by Presidential proclamation or by law.
+(2) The term "Persian Gulf conflict" means the period beginning on August 2, 1990, and ending on the date thereafter prescribed by Presidential proclamation or by law.
 
 (July 1, 1944, ch. 373, title VII, §705, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1996; amended Pub. L. 103–43, title XX, §2014(a)(1), June 10, 1993, 107 Stat. 215; Pub. L. 105–244, title I, §102(a)(13)(A), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–392, title I, §141(a)(1), (2), Nov. 13, 1998, 112 Stat. 3578.)
 
@@ -114,15 +114,15 @@ A prior section 705 of act July 1, 1944, was classified to section 292e of this 
 
 #### Amendments ####
 
-**1998**—Subsec. (a)(2)(C). Pub. L. 105–392 added cl. (x), redesignated former cl. (x) as (xi) and substituted “(x)” for “(ix)”, and substituted “(xi)” for “(x)” in concluding provisions.
+**1998**—Subsec. (a)(2)(C). Pub. L. 105–392 added cl. (x), redesignated former cl. (x) as (xi) and substituted "(x)" for "(ix)", and substituted "(xi)" for "(x)" in concluding provisions.
 
-Pub. L. 105–244 substituted “section 1002(a)” for “section 1088(a)” in cl. (i).
+Pub. L. 105–244 substituted "section 1002(a)" for "section 1088(a)" in cl. (i).
 
-**1993**—Subsec. (a)(2)(H), (I). Pub. L. 103–43 redesignated subpar. (I) as (H) and struck out former subpar. (H) which read as follows: “notwithstanding the provisions of the Fair Debt Collection Practices Act, authorizes an institution or postgraduate training program attended by the borrower to assist in the collection of any loan that becomes delinquent, including providing information concerning the borrower to the Secretary and to past and present lenders and holders of the borrower's loans; and”.
+**1993**—Subsec. (a)(2)(H), (I). Pub. L. 103–43 redesignated subpar. (I) as (H) and struck out former subpar. (H) which read as follows: "notwithstanding the provisions of the Fair Debt Collection Practices Act, authorizes an institution or postgraduate training program attended by the borrower to assist in the collection of any loan that becomes delinquent, including providing information concerning the borrower to the Secretary and to past and present lenders and holders of the borrower's loans; and".
 
 #### Effective Date of 1998 Amendments ####
 
-Pub. L. 105–392, title I, §141(a)(3), Nov. 13, 1998, 112 Stat. 3578, provided that: “The amendments made by this subsection [amending this section] shall apply with respect to services provided on or after the first day of the third month that begins after the date of the enactment of this Act [Nov. 13, 1998].”
+Pub. L. 105–392, title I, §141(a)(3), Nov. 13, 1998, 112 Stat. 3578, provided that: "The amendments made by this subsection [amending this section] shall apply with respect to services provided on or after the first day of the third month that begins after the date of the enactment of this Act [Nov. 13, 1998]."
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 

@@ -6,6 +6,6 @@ Commencing July 1, 1936, the proceeds for each fiscal year derived by the Board 
 
 #### Amendments ####
 
-**1976**—Pub. L. 94–273 substituted “on March 31 of each year” for “at the end of each calendar year”.
+**1976**—Pub. L. 94–273 substituted "on March 31 of each year" for "at the end of each calendar year".
 
 **1935**—Act Aug. 31, 1935, amended section generally.

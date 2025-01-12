@@ -52,7 +52,7 @@ This section shall not apply to an investigation or proceeding related to the ad
 
 #### (g) Adverse result defined ####
 
-For purposes of this section the term “adverse result” means—
+For purposes of this section the term "adverse result" means—
 
 (1) endangering the life or physical safety of an individual;
 

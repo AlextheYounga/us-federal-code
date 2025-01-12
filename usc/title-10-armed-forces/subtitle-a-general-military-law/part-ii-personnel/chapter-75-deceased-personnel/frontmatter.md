@@ -8,4 +8,4 @@ II. Death Benefits 1475
 
 #### Amendments ####
 
-**1999**—Pub. L. 106–65, div. A, title VII, §721(a), Oct. 5, 1999, 113 Stat. 692, substituted “DECEASED PERSONNEL” for “DEATH BENEFITS” as chapter heading and added subchapter analysis.
+**1999**—Pub. L. 106–65, div. A, title VII, §721(a), Oct. 5, 1999, 113 Stat. 692, substituted "DECEASED PERSONNEL" for "DEATH BENEFITS" as chapter heading and added subchapter analysis.

@@ -6,7 +6,7 @@ In order to place the Board upon a fair basis for making such contracts and for 
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–447 substituted “Board” for “board” wherever appearing.
+**2004**—Pub. L. 108–447 substituted "Board" for "board" wherever appearing.
 
 #### Effective Date of 2004 Amendment ####
 

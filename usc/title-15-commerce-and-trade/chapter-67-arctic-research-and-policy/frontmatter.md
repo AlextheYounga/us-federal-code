@@ -22,4 +22,4 @@ Sec.
 
 4110. Authorization of appropriations; new spending authority.
 
-4111. “Arctic” defined.
+4111. "Arctic" defined.

@@ -40,11 +40,11 @@ Sec.
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–375, div. A, title X, §1084(d)(30), Oct. 28, 2004, 118 Stat. 2063, renumbered item 6257 “Korea Defense Service Medal” as 6258.
+**2004**—Pub. L. 108–375, div. A, title X, §1084(d)(30), Oct. 28, 2004, 118 Stat. 2063, renumbered item 6257 "Korea Defense Service Medal" as 6258.
 
-**2002**—Pub. L. 107–314, div. A, title V, §543(c)(2), Dec. 2, 2002, 116 Stat. 2550, added item 6257 “Korea Defense Service Medal”.
+**2002**—Pub. L. 107–314, div. A, title V, §543(c)(2), Dec. 2, 2002, 116 Stat. 2550, added item 6257 "Korea Defense Service Medal".
 
-Pub. L. 107–248, title VIII, §8143(c)(2)(B), Oct. 23, 2002, 116 Stat. 1570, added item 6257 “Medal of honor: presentation of Medal of Honor Flag”.
+Pub. L. 107–248, title VIII, §8143(c)(2)(B), Oct. 23, 2002, 116 Stat. 1570, added item 6257 "Medal of honor: presentation of Medal of Honor Flag".
 
 **2001**—Pub. L. 107–107, div. A, title V, §553(b)(1)(B), Dec. 28, 2001, 115 Stat. 1116, added item 6256.
 

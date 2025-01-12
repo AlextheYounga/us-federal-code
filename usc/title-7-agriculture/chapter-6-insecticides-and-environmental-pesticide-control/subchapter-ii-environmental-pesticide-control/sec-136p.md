@@ -6,9 +6,9 @@ The Administrator may, at the Administrator's discretion, exempt any Federal or 
 
 #### Amendments ####
 
-**1991**—Pub. L. 102–237 substituted “the Administrator” for “he” before “determines” and “the Administrator's” for “his”.
+**1991**—Pub. L. 102–237 substituted "the Administrator" for "he" before "determines" and "the Administrator's" for "his".
 
-**1988**—Pub. L. 100–532 substituted “and” for “or“ in section catchline, and directed that sentence beginning “The Administrator, in” be run in after first sentence beginning “The Administrator may”.
+**1988**—Pub. L. 100–532 substituted "and" for "or" in section catchline, and directed that sentence beginning "The Administrator, in" be run in after first sentence beginning "The Administrator may".
 
 **1975**—Pub. L. 94–140 inserted provision requiring Administrator to consult with Secretary of Agriculture and Governor of State concerned in determining whether an emergency situation exists.
 

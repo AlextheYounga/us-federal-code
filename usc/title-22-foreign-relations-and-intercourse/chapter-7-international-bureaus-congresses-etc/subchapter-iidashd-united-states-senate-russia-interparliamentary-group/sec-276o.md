@@ -2,7 +2,7 @@
 
 #### (a) Establishment and meetings ####
 
-Not to exceed 12 Senators shall be appointed to meet annually with representatives of the Federation Council of Russia for discussion of common problems in the interest of relations between the United States and Russia. The Senators so appointed shall be referred to as the “United States group” of the United States Senate-Russia Interparliamentary Group.
+Not to exceed 12 Senators shall be appointed to meet annually with representatives of the Federation Council of Russia for discussion of common problems in the interest of relations between the United States and Russia. The Senators so appointed shall be referred to as the "United States group" of the United States Senate-Russia Interparliamentary Group.
 
 #### (b) Appointment of Members ####
 
@@ -18,7 +18,7 @@ The certificate of the Chair of the United States group shall be final and concl
 
 #### (e) Fiscal year 2004 funding ####
 
-There is authorized within the contingent fund of the Senate under the appropriation account “miscellaneous items” $75,000 for fiscal year 2004 to assist in meeting the official expenses of the United States Senate-Russia Interparliamentary Group including conference room expenses, hospitality expenses, and food and food-related expenses. Expenses shall be paid on vouchers to be approved by the Chair of the United States group. The Secretary of the Senate is authorized to advance such sums as necessary to carry out this subsection.
+There is authorized within the contingent fund of the Senate under the appropriation account "miscellaneous items" $75,000 for fiscal year 2004 to assist in meeting the official expenses of the United States Senate-Russia Interparliamentary Group including conference room expenses, hospitality expenses, and food and food-related expenses. Expenses shall be paid on vouchers to be approved by the Chair of the United States group. The Secretary of the Senate is authorized to advance such sums as necessary to carry out this subsection.
 
 #### (f) Appropriations ####
 

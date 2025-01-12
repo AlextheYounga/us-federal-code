@@ -36,12 +36,12 @@ The Congress finds that—
 
 #### Short Title of 2013 Amendment ####
 
-Pub. L. 113–70, §1, Dec. 26, 2013, 127 Stat. 1208, provided that: “This Act [amending provisions set out as a note under section 80q–5 of this title] may be cited as the ‘Native American Veterans’ Memorial Amendments Act of 2013’.”
+Pub. L. 113–70, §1, Dec. 26, 2013, 127 Stat. 1208, provided that: "This Act [amending provisions set out as a note under section 80q–5 of this title] may be cited as the 'Native American Veterans' Memorial Amendments Act of 2013'."
 
 #### Short Title of 1996 Amendment ####
 
-Pub. L. 104–278, §1(a), Oct. 9, 1996, 110 Stat. 3355, provided that: “This Act [enacting section 80q–9a of this title and amending sections 80q–3, 80q–9, and 80q–10 of this title] may be cited as the ‘National Museum of the American Indian Act Amendments of 1996’.”
+Pub. L. 104–278, §1(a), Oct. 9, 1996, 110 Stat. 3355, provided that: "This Act [enacting section 80q–9a of this title and amending sections 80q–3, 80q–9, and 80q–10 of this title] may be cited as the 'National Museum of the American Indian Act Amendments of 1996'."
 
 #### Short Title ####
 
-Pub. L. 101–185, §1, Nov. 28, 1989, 103 Stat. 1336, provided that: “This Act [enacting this subchapter] may be cited as the ‘National Museum of the American Indian Act’.”
+Pub. L. 101–185, §1, Nov. 28, 1989, 103 Stat. 1336, provided that: "This Act [enacting this subchapter] may be cited as the 'National Museum of the American Indian Act'."

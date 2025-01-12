@@ -34,10 +34,10 @@ Sec.
 
 #### Amendments ####
 
-**2007**—Pub. L. 110–161, div. E, title V, §553(a)(2), Dec. 26, 2007, 121 Stat. 2082, added item 555 and struck out item 554 “Border tunnels and passages”.
+**2007**—Pub. L. 110–161, div. E, title V, §553(a)(2), Dec. 26, 2007, 121 Stat. 2082, added item 555 and struck out item 554 "Border tunnels and passages".
 
-**2006**—Pub. L. 109–295, title V, §551(b), Oct. 4, 2006, 120 Stat. 1390, added item 554 “Border tunnels and passages”.
+**2006**—Pub. L. 109–295, title V, §551(b), Oct. 4, 2006, 120 Stat. 1390, added item 554 "Border tunnels and passages".
 
-Pub. L. 109–177, title III, §311(b), Mar. 9, 2006, 120 Stat. 242, added item 554 “Smuggling goods from the United States”.
+Pub. L. 109–177, title III, §311(b), Mar. 9, 2006, 120 Stat. 242, added item 554 "Smuggling goods from the United States".
 
 **1984**—Pub. L. 98–547, title III, §301(b), Oct. 25, 1984, 98 Stat. 2771, added item 553.

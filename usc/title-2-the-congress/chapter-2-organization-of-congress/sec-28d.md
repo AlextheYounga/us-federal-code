@@ -18,6 +18,6 @@
 
 (8) to the office of the Official Reporter of Debates of the Senate, three sets.
 
-(b) Each set of Precedents distributed by the Public Printer under subsection (a) of this section shall be for official use. Each such set shall be legibly stamped on the front cover “Property of the United States Government.” Each such set, upon delivery, shall become and remain the property of the United States, and may not be removed from the building in which is located the designated library or office, as the case may be.
+(b) Each set of Precedents distributed by the Public Printer under subsection (a) of this section shall be for official use. Each such set shall be legibly stamped on the front cover "Property of the United States Government." Each such set, upon delivery, shall become and remain the property of the United States, and may not be removed from the building in which is located the designated library or office, as the case may be.
 
 (Pub. L. 94–551, §3, Oct. 18, 1976, 90 Stat. 2538.)

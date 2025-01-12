@@ -22,7 +22,7 @@ Nothing in this section shall be construed to create a legal right for a consult
 
 #### (e) Financial interest ####
 
-In this section, the term “financial interest” means a financial interest under section 208(a) of title 18.
+In this section, the term "financial interest" means a financial interest under section 208(a) of title 18.
 
 (June 25, 1938, ch. 675, §569C, as added Pub. L. 112–144, title XI, §1137, July 9, 2012, 126 Stat. 1124.)
 

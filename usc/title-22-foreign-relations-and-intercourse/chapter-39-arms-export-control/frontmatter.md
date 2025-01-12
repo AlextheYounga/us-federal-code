@@ -146,4 +146,4 @@ Sec.
 
 2799aa–1. Nuclear reprocessing transfers, illegal exports for nuclear explosive devices, transfers of nuclear explosive devices, and nuclear detonations.
 
-2799aa–2. “Nuclear explosive device” defined.
+2799aa–2. "Nuclear explosive device" defined.

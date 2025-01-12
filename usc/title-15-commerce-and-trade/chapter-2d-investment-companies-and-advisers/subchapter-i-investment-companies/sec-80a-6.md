@@ -6,7 +6,7 @@ The following investment companies are exempt from the provisions of this subcha
 
 (1) Any company organized or otherwise created under the laws of and having its principal office and place of business in Puerto Rico, the Virgin Islands, or any other possession of the United States; but such exemption shall terminate if any security of which such company is the issuer is offered for sale or sold after the effective date of this subchapter, by such company or an underwriter therefor, to a resident of any State other than the State in which such company is organized.
 
-(2) Any company which since the effective date of this subchapter or within five years prior to such date has been reorganized under the supervision of a court of competent jurisdiction, if (A) such company was not an investment company at the commencement of such reorganization proceedings, (B) at the conclusion of such proceedings all outstanding securities of such company were owned by creditors of such company or by persons to whom such securities were issued on account of creditors’ claims, and (C) more than 50 per centum of the voting securities of such company, and securities representing more than 50 per centum of the net asset value of such company, are currently owned beneficially by not more than twenty-five persons; but such exemption shall terminate if any security of which such company is the issuer is offered for sale or sold to the public after the conclusion of such proceedings by the issuer or by or through any underwriter. For the purposes of this paragraph, any new company organized as part of the reorganization shall be deemed the same company as its predecessor; and beneficial ownership shall be determined in the manner provided in section 80a–3(c)(1) of this title.
+(2) Any company which since the effective date of this subchapter or within five years prior to such date has been reorganized under the supervision of a court of competent jurisdiction, if (A) such company was not an investment company at the commencement of such reorganization proceedings, (B) at the conclusion of such proceedings all outstanding securities of such company were owned by creditors of such company or by persons to whom such securities were issued on account of creditors' claims, and (C) more than 50 per centum of the voting securities of such company, and securities representing more than 50 per centum of the net asset value of such company, are currently owned beneficially by not more than twenty-five persons; but such exemption shall terminate if any security of which such company is the issuer is offered for sale or sold to the public after the conclusion of such proceedings by the issuer or by or through any underwriter. For the purposes of this paragraph, any new company organized as part of the reorganization shall be deemed the same company as its predecessor; and beneficial ownership shall be determined in the manner provided in section 80a–3(c)(1) of this title.
 
 (3) Any issuer as to which there is outstanding a writing filed with the Commission by the Federal Savings and Loan Insurance Corporation stating that exemption of such issuer from the provisions of this subchapter is consistent with the public interest and the protection of investors and is necessary or appropriate by reason of the fact that such issuer holds or proposes to acquire any assets or any product of any assets which have been segregated (A) from assets of any company which at the filing of such writing is an insured institution within the meaning of section 1724(a) <sup><a href="#80a-6_1_target" name="80a-6_1">1</a></sup> of title 12, or (B) as a part of or in connection with any plan for or condition to the insurance of accounts of any company by said corporation or the conversion of any company into a Federal savings and loan association. Any such writing shall expire when canceled by a writing similarly filed or at the expiration of two years after the date of its filing, whichever first occurs; but said corporation may, nevertheless, before, at, or after the expiration of any such writing file another writing or writings with respect to such issuer.
 
@@ -20,7 +20,7 @@ The following investment companies are exempt from the provisions of this subcha
 
 (iii) the securities of the company are sold, or proposed to be sold, by the company or by any underwriter for the company, solely to accredited investors, as that term is defined in section 77b(a)(15) of this title, or to such other persons that the Commission, as necessary or appropriate in the public interest and consistent with the protection of investors, may permit by rule, regulation, or order; and
 
-(iv) the company does not purchase any security issued by an investment company or by any company that would be an investment company except for the exclusions from the definition of the term “investment company” under paragraph (1) or (7) of section 80a–3(c) of this title, other than—
+(iv) the company does not purchase any security issued by an investment company or by any company that would be an investment company except for the exclusions from the definition of the term "investment company" under paragraph (1) or (7) of section 80a–3(c) of this title, other than—
 
 (I) any debt security that meets such standards of credit-worthiness as the Commission shall adopt; or
 
@@ -34,9 +34,9 @@ The following investment companies are exempt from the provisions of this subcha
 
 (E) The exemption provided by this paragraph may be subject to such additional terms and conditions as the Commission may by rule, regulation, or order determine are necessary or appropriate in the public interest or for the protection of investors.
 
-#### (b) Exemption of employees’ security company upon application; matters considered ####
+#### (b) Exemption of employees' security company upon application; matters considered ####
 
-Upon application by any employees’ security company, the Commission shall by order exempt such company from the provisions of this subchapter and of the rules and regulations hereunder, if and to the extent that such exemption is consistent with the protection of investors. In determining the provisions to which such an order of exemption shall apply, the Commission shall give due weight, among other things, to the form of organization and the capital structure of such company, the persons by whom its voting securities, evidences of indebtedness, and other securities are owned and controlled, the prices at which securities issued by such company are sold and the sales load thereon, the disposition of the proceeds of such sales, the character of the securities in which such proceeds are invested, and any relationship between such company and the issuer of any such security.
+Upon application by any employees' security company, the Commission shall by order exempt such company from the provisions of this subchapter and of the rules and regulations hereunder, if and to the extent that such exemption is consistent with the protection of investors. In determining the provisions to which such an order of exemption shall apply, the Commission shall give due weight, among other things, to the form of organization and the capital structure of such company, the persons by whom its voting securities, evidences of indebtedness, and other securities are owned and controlled, the prices at which securities issued by such company are sold and the sales load thereon, the disposition of the proceeds of such sales, the character of the securities in which such proceeds are invested, and any relationship between such company and the issuer of any such security.
 
 #### (c) Exemption of persons, securities or any class or classes of persons as necessary and appropriate in public interest ####
 
@@ -76,23 +76,23 @@ Section 1724 of title 12, referred to in subsec. (a)(3), was repealed by Pub. L.
 
 #### Codification ####
 
-Words “Philippine Islands” deleted from subsec. (a)(1) after “Puerto Rico” under the authority of Proc. No. 2695, granting independence to the Philippine Islands, which was issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse, and is set out as a note under that section.
+Words "Philippine Islands" deleted from subsec. (a)(1) after "Puerto Rico" under the authority of Proc. No. 2695, granting independence to the Philippine Islands, which was issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse, and is set out as a note under that section.
 
 #### Amendments ####
 
-**2010**—Subsec. (a)(5)(A)(iv)(I). Pub. L. 111–203 substituted “meets such standards of credit-worthiness as the Commission shall adopt” for “is rated investment grade by not less than 1 nationally recognized statistical rating organization”.
+**2010**—Subsec. (a)(5)(A)(iv)(I). Pub. L. 111–203 substituted "meets such standards of credit-worthiness as the Commission shall adopt" for "is rated investment grade by not less than 1 nationally recognized statistical rating organization".
 
 **1996**—Subsec. (a)(5). Pub. L. 104–290, §501, added par. (5).
 
-Subsec. (d)(1). Pub. L. 104–290, §502, substituted “$10,000,000, or such other amount as the Commission may set by rule, regulation, or order” for “$100,000”.
+Subsec. (d)(1). Pub. L. 104–290, §502, substituted "$10,000,000, or such other amount as the Commission may set by rule, regulation, or order" for "$100,000".
 
 **1987**—Subsec. (a)(1). Pub. L. 100–181, §608(1), struck out reference to Canal Zone.
 
-Subsec. (a)(2) to (5). Pub. L. 100–181, §608(2), redesignated former pars. (3) to (5) as (2) to (4), and struck out former par. (2) which read as follows: “Any company for which, in a proceeding in any court of the United States or of a State, a receiver, trustee in a case under title 11, or similar officer had been appointed or elected prior to the effective date of this subchapter, and every such officer so appointed or elected prior to the effective date of this subchapter; but such exemption shall continue only so long as (A) the conduct of such company's business remains subject to the supervision of such court or officer thereof, and (B) such company does not sell exclusively for cash any security of which it is the issuer, except short-term paper and ordinary receiver's or trustee's certificates.”
+Subsec. (a)(2) to (5). Pub. L. 100–181, §608(2), redesignated former pars. (3) to (5) as (2) to (4), and struck out former par. (2) which read as follows: "Any company for which, in a proceeding in any court of the United States or of a State, a receiver, trustee in a case under title 11, or similar officer had been appointed or elected prior to the effective date of this subchapter, and every such officer so appointed or elected prior to the effective date of this subchapter; but such exemption shall continue only so long as (A) the conduct of such company's business remains subject to the supervision of such court or officer thereof, and (B) such company does not sell exclusively for cash any security of which it is the issuer, except short-term paper and ordinary receiver's or trustee's certificates."
 
 **1980**—Subsec. (f). Pub. L. 96–477 added subsec. (f).
 
-**1978**—Subsec. (a)(2). Pub. L. 95–598 substituted “a case under title 11” for “bankruptcy”.
+**1978**—Subsec. (a)(2). Pub. L. 95–598 substituted "a case under title 11" for "bankruptcy".
 
 **1960**—Subsec. (a)(1). Pub. L. 86–624 struck out reference to Hawaii.
 

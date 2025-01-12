@@ -66,19 +66,19 @@ For the purposes of this subsection, an indenture trustee shall be deemed to hav
 
 (10) except under the circumstances described in paragraphs <sup><a href="#77jjj_3_target" name="77jjj_3">3</a></sup> (1), (3), (4), (5) or (6) of section 77kkk(b) of this title, the trustee shall be or shall become a creditor of the obligor.
 
-For purposes of paragraph (1) of this subsection, and of section 77ppp(a) of this title, the term “series of securities” or “series” means a series, class or group of securities issuable under an indenture pursuant to whose terms holders of one such series may vote to direct the indenture trustee, or otherwise take action pursuant to a vote of such holders, separately from holders of another such series: *Provided*, That “series of securities” or “series” shall not include any series of securities issuable under an indenture if all such series rank equally and are wholly unsecured.
+For purposes of paragraph (1) of this subsection, and of section 77ppp(a) of this title, the term "series of securities" or "series" means a series, class or group of securities issuable under an indenture pursuant to whose terms holders of one such series may vote to direct the indenture trustee, or otherwise take action pursuant to a vote of such holders, separately from holders of another such series: *Provided*, That "series of securities" or "series" shall not include any series of securities issuable under an indenture if all such series rank equally and are wholly unsecured.
 
 The specification of percentages in paragraphs (5) to (9), inclusive, of this subsection shall not be construed as indicating that the ownership of such percentages of the securities of a person is or is not necessary or sufficient to constitute direct or indirect control for the purposes of paragraph (3) or (7) of this subsection.
 
 For the purposes of paragraphs (6), (7), (8), and (9) of this subsection—
 
-(A) the terms “security” and “securities” shall include only such securities as are generally known as corporate securities, but shall not include any note or other evidence of indebtedness issued to evidence an obligation to repay moneys lent to a person by one or more banks, trust companies, or banking firms, or any certificate of interest or participation in any such note or evidence of indebtedness;
+(A) the terms "security" and "securities" shall include only such securities as are generally known as corporate securities, but shall not include any note or other evidence of indebtedness issued to evidence an obligation to repay moneys lent to a person by one or more banks, trust companies, or banking firms, or any certificate of interest or participation in any such note or evidence of indebtedness;
 
 (B) an obligation shall be deemed to be in default when a default in payment of principal shall have continued for thirty days or more, and shall not have been cured; and
 
 (C) the indenture trustee shall not be deemed the owner or holder of (i) any security which it holds as collateral security (as trustee or otherwise) for any obligation which is not in default as above defined, or (ii) any security which it holds as collateral security under the indenture to be qualified, irrespective of any default thereunder, or (iii) any security which it holds as agent for collection, or as custodian, escrow agent or depositary, or in any similar representative capacity.
 
-For the purposes of this subsection, the term “underwriter” when used with reference to an obligor upon the indenture securities means every person who, within one year prior to the time as of which the determination is made, was an underwriter of any security of such obligor outstanding at the time of the determination.
+For the purposes of this subsection, the term "underwriter" when used with reference to an obligor upon the indenture securities means every person who, within one year prior to the time as of which the determination is made, was an underwriter of any security of such obligor outstanding at the time of the determination.
 
 Except in the case of a default in the payment of the principal of or interest on any indenture security, or in the payment of any sinking or purchase fund installment, the indenture trustee shall not be required to resign as provided by this subsection if such trustee shall have sustained the burden of proving, on application to the Commission and after opportunity for hearing thereon, that—
 
@@ -92,15 +92,15 @@ Any resignation of an indenture trustee shall become effective only upon the app
 
 #### Amendments ####
 
-**2010**—Subsec. (c). Pub. L. 111–203 struck out subsec. (c). Text read as follows: “The Public Utility Holding Company Act of 1935 shall not be held to establish or authorize the establishment of any standards regarding the eligibility and qualifications of any trustee or prospective trustee under an indenture to be qualified under this subchapter, or regarding the provisions to be included in any such indenture with respect to the eligibility and qualifications of the trustee thereunder, other than those established by the provisions of this section.”
+**2010**—Subsec. (c). Pub. L. 111–203 struck out subsec. (c). Text read as follows: "The Public Utility Holding Company Act of 1935 shall not be held to establish or authorize the establishment of any standards regarding the eligibility and qualifications of any trustee or prospective trustee under an indenture to be qualified under this subchapter, or regarding the provisions to be included in any such indenture with respect to the eligibility and qualifications of the trustee thereunder, other than those established by the provisions of this section."
 
-**1990**—Subsec. (a)(1). Pub. L. 101–550, §406(1)–(4), substituted “There shall” for “The indenture to be qualified shall require that there shall”, and “under every indenture qualified or to be qualified pursuant to this subchapter” for “thereunder”, inserted “or a corporation or other person permitted to act as trustee by the Commission” before “(referred to”, and inserted at end “The Commission may, pursuant to such rules and regulations as it may prescribe, or by order on application, permit a corporation or other person organized and doing business under the laws of a foreign government to act as sole trustee under an indenture qualified or to be qualified pursuant to this subchapter, if such corporation or other person (i) is authorized under such laws to exercise corporate trust powers, and (ii) is subject to supervision or examination by authority of such foreign government or a political subdivision thereof substantially equivalent to supervision or examination applicable to United States institutional trustees. In prescribing such rules and regulations or making such order, the Commission shall consider whether under such laws, a United States institutional trustee is eligible to act as sole trustee under an indenture relating to securities sold within the jurisdiction of such foreign government.”
+**1990**—Subsec. (a)(1). Pub. L. 101–550, §406(1)–(4), substituted "There shall" for "The indenture to be qualified shall require that there shall", and "under every indenture qualified or to be qualified pursuant to this subchapter" for "thereunder", inserted "or a corporation or other person permitted to act as trustee by the Commission" before "(referred to", and inserted at end "The Commission may, pursuant to such rules and regulations as it may prescribe, or by order on application, permit a corporation or other person organized and doing business under the laws of a foreign government to act as sole trustee under an indenture qualified or to be qualified pursuant to this subchapter, if such corporation or other person (i) is authorized under such laws to exercise corporate trust powers, and (ii) is subject to supervision or examination by authority of such foreign government or a political subdivision thereof substantially equivalent to supervision or examination applicable to United States institutional trustees. In prescribing such rules and regulations or making such order, the Commission shall consider whether under such laws, a United States institutional trustee is eligible to act as sole trustee under an indenture relating to securities sold within the jurisdiction of such foreign government."
 
-Subsec. (a)(2). Pub. L. 101–550, §406(5), which directed the substitution of “Such institution” for “The indenture to be qualified shall require that such institution”, was executed by making the substitution for “The indenture to be qualified shall require that such institutional”, as the probable intent of Congress.
+Subsec. (a)(2). Pub. L. 101–550, §406(5), which directed the substitution of "Such institution" for "The indenture to be qualified shall require that such institution", was executed by making the substitution for "The indenture to be qualified shall require that such institutional", as the probable intent of Congress.
 
-Subsec. (a)(3). Pub. L. 101–550, §406(6), struck out “such indenture shall provide that” before “the rights”.
+Subsec. (a)(3). Pub. L. 101–550, §406(6), struck out "such indenture shall provide that" before "the rights".
 
-Subsec. (a)(4). Pub. L. 101–550, §406(7), (8), struck out “the indenture to be qualified shall require that” before “the indenture” and inserted “shall” after “trustee or trustees”.
+Subsec. (a)(4). Pub. L. 101–550, §406(7), (8), struck out "the indenture to be qualified shall require that" before "the indenture" and inserted "shall" after "trustee or trustees".
 
 Subsec. (a)(5). Pub. L. 101–550, §407, added par. (5).
 
@@ -114,8 +114,8 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-[<sup>1</sup> So in original. Probably should be “institutional”.](#77jjj_1)
+[<sup>1</sup> So in original. Probably should be "institutional".](#77jjj_1)
 
-[<sup>2</sup> So in original. Probably should be “indenture”.](#77jjj_2)
+[<sup>2</sup> So in original. Probably should be "indenture".](#77jjj_2)
 
-[<sup>3</sup> So in original. Probably should be “paragraph”.](#77jjj_3)
+[<sup>3</sup> So in original. Probably should be "paragraph".](#77jjj_3)

@@ -2,13 +2,13 @@
 
 As used in this subchapter—
 
-(1) the term “licensee” has the meaning provided in section 153(c) <sup><a href="#1465ff_1_target" name="1465ff_1">1</a></sup> of title 47;
+(1) the term "licensee" has the meaning provided in section 153(c) <sup><a href="#1465ff_1_target" name="1465ff_1">1</a></sup> of title 47;
 
-(2) the term “incumbent domestic licensee” means a licensee as provided in section 153(c) <sup><a href="#1465ff_1_target" name="1465ff_1">1</a></sup> of title 47 that was broadcasting a television signal as of January 1, 1989;
+(2) the term "incumbent domestic licensee" means a licensee as provided in section 153(c) <sup><a href="#1465ff_1_target" name="1465ff_1">1</a></sup> of title 47 that was broadcasting a television signal as of January 1, 1989;
 
-(3) the term “objectionable interference” shall be applied in the same manner as such term is applied under regulations of the Federal Communications Commission to other domestic broadcasters; and
+(3) the term "objectionable interference" shall be applied in the same manner as such term is applied under regulations of the Federal Communications Commission to other domestic broadcasters; and
 
-(4) the term “appropriate committees of Congress” includes the Committee on Foreign Affairs and the Committee on Energy and Commerce of the House of Representatives and the Committee on Foreign Relations of the Senate.
+(4) the term "appropriate committees of Congress" includes the Committee on Foreign Affairs and the Committee on Energy and Commerce of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
 (Pub. L. 101–246, title II, §248, Feb. 16, 1990, 104 Stat. 62.)
 
@@ -18,7 +18,7 @@ Section repealed upon transmittal of determination by President under section 60
 
 #### References in Text ####
 
-Section 153 of title 47, referred to in pars. (1) and (2), was subsequently amended, and section 153(c) no longer defines “licensee”. However, such term is defined elsewhere in that section.
+Section 153 of title 47, referred to in pars. (1) and (2), was subsequently amended, and section 153(c) no longer defines "licensee". However, such term is defined elsewhere in that section.
 
 #### Codification ####
 

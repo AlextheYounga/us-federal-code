@@ -12,4 +12,4 @@ Section was formerly classified to section 443a–1 of this title.
 
 #### Change of Name ####
 
-Act June 5, 1936, ch. 525, §2, 49 Stat. 1483, provided: “That the area now within the Colonial National Monument, together with such additions as may hereafter be made thereto, pursuant to section 1 hereof, shall be known as the ‘Colonial National Historical Park’, under which name the aforesaid national park shall be entitled to receive and to use all moneys heretofore or hereafter appropriated for the Colonial National Monument.”
+Act June 5, 1936, ch. 525, §2, 49 Stat. 1483, provided: "That the area now within the Colonial National Monument, together with such additions as may hereafter be made thereto, pursuant to section 1 hereof, shall be known as the 'Colonial National Historical Park', under which name the aforesaid national park shall be entitled to receive and to use all moneys heretofore or hereafter appropriated for the Colonial National Monument."

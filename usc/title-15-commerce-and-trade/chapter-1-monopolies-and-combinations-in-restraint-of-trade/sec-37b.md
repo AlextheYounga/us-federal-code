@@ -6,11 +6,11 @@
 
 Congress makes the following findings:
 
-(A) For over 50 years, most United States medical school seniors and the large majority of graduate medical education programs (popularly known as “residency programs”) have chosen to use a matching program to match medical students with residency programs to which they have applied. These matching programs have been an integral part of an educational system that has produced the finest physicians and medical researchers in the world.
+(A) For over 50 years, most United States medical school seniors and the large majority of graduate medical education programs (popularly known as "residency programs") have chosen to use a matching program to match medical students with residency programs to which they have applied. These matching programs have been an integral part of an educational system that has produced the finest physicians and medical researchers in the world.
 
-(B) Before such matching programs were instituted, medical students often felt pressure, at an unreasonably early stage of their medical education, to seek admission to, and accept offers from, residency programs. As a result, medical students often made binding commitments before they were in a position to make an informed decision about a medical specialty or a residency program and before residency programs could make an informed assessment of students’ qualifications. This situation was inefficient, chaotic, and unfair and it often led to placements that did not serve the interests of either medical students or residency programs.
+(B) Before such matching programs were instituted, medical students often felt pressure, at an unreasonably early stage of their medical education, to seek admission to, and accept offers from, residency programs. As a result, medical students often made binding commitments before they were in a position to make an informed decision about a medical specialty or a residency program and before residency programs could make an informed assessment of students' qualifications. This situation was inefficient, chaotic, and unfair and it often led to placements that did not serve the interests of either medical students or residency programs.
 
-(C) The original matching program, now operated by the independent non-profit National Resident Matching Program and popularly known as “the Match”, was developed and implemented more than 50 years ago in response to widespread student complaints about the prior process. This Program includes on its board of directors individuals nominated by medical student organizations as well as by major medical education and hospital associations.
+(C) The original matching program, now operated by the independent non-profit National Resident Matching Program and popularly known as "the Match", was developed and implemented more than 50 years ago in response to widespread student complaints about the prior process. This Program includes on its board of directors individuals nominated by medical student organizations as well as by major medical education and hospital associations.
 
 (D) The Match uses a computerized mathematical algorithm, as students had recommended, to analyze the preferences of students and residency programs and match students with their highest preferences from among the available positions in residency programs that listed them. Students thus obtain a residency position in the most highly ranked program on their list that has ranked them sufficiently high among its preferences. Each year, about 85 percent of participating United States medical students secure a place in one of their top 3 residency program choices.
 
@@ -32,7 +32,7 @@ In this subsection:
 
 #### (A) Antitrust laws ####
 
-The term “antitrust laws”—
+The term "antitrust laws"—
 
 (i) has the meaning given such term in subsection (a) of section 12 of this title, except that such term includes section 45 of this title to the extent such section 45 applies to unfair methods of competition; and
 
@@ -40,7 +40,7 @@ The term “antitrust laws”—
 
 #### (B) Graduate medical education program ####
 
-The term “graduate medical education program” means—
+The term "graduate medical education program" means—
 
 (i) a residency program for the medical education and training of individuals following graduation from medical school;
 
@@ -50,11 +50,11 @@ The term “graduate medical education program” means—
 
 #### (C) Graduate medical education residency matching program ####
 
-The term “graduate medical education residency matching program” means a program (such as those conducted by the National Resident Matching Program) that, in connection with the admission of students to graduate medical education programs, uses an algorithm and matching rules to match students in accordance with the preferences of students and the preferences of graduate medical education programs.
+The term "graduate medical education residency matching program" means a program (such as those conducted by the National Resident Matching Program) that, in connection with the admission of students to graduate medical education programs, uses an algorithm and matching rules to match students in accordance with the preferences of students and the preferences of graduate medical education programs.
 
 #### (D) Student ####
 
-The term “student” means any individual who seeks to be admitted to a graduate medical education program.
+The term "student" means any individual who seeks to be admitted to a graduate medical education program.
 
 #### (2) Confirmation of antitrust status ####
 

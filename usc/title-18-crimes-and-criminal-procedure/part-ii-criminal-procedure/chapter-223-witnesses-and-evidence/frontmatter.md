@@ -60,7 +60,7 @@ Sec.
 
 3508. Custody and return of foreign witnesses.
 
-3509. Child victims’ and child witnesses’ rights.
+3509. Child victims' and child witnesses' rights.
 
 3510. Rights of victims to attend and observe trial.
 
@@ -74,15 +74,15 @@ Sec.
 
 **2006**—Pub. L. 109–177, title I, §115(1), Mar. 9, 2006, 120 Stat. 211, added item 3511.
 
-**2002**—Pub. L. 107–273, div. B, title IV, §4002(c)(3)(B), Nov. 2, 2002, 116 Stat. 1809, struck out item 3503 “Depositions to preserve testimony”.
+**2002**—Pub. L. 107–273, div. B, title IV, §4002(c)(3)(B), Nov. 2, 2002, 116 Stat. 1809, struck out item 3503 "Depositions to preserve testimony".
 
-**2000**—Pub. L. 106–544, §5(b)(2), (3), Dec. 19, 2000, 114 Stat. 2718, struck out “in Federal health care investigations” after “subpoenas” in item 3486 and struck out item 3486A “Administrative subpoenas in cases involving child abuse and child sexual exploitation”.
+**2000**—Pub. L. 106–544, §5(b)(2), (3), Dec. 19, 2000, 114 Stat. 2718, struck out "in Federal health care investigations" after "subpoenas" in item 3486 and struck out item 3486A "Administrative subpoenas in cases involving child abuse and child sexual exploitation".
 
-**1998**—Pub. L. 105–314, title VI, §606(b), Oct. 30, 1998, 112 Stat. 2985, added items 3486 and 3486A and struck out former item 3486 “Authorized investigative demand procedures”.
+**1998**—Pub. L. 105–314, title VI, §606(b), Oct. 30, 1998, 112 Stat. 2985, added items 3486 and 3486A and struck out former item 3486 "Authorized investigative demand procedures".
 
 **1997**—Pub. L. 105–6, §2(b), Mar. 19, 1997, 111 Stat. 12, added item 3510.
 
-**1996**—Pub. L. 104–294, title VI, §604(a)(4), Oct. 11, 1996, 110 Stat. 3506, substituted “victims’ ” for “Victims’ ” in item 3509.
+**1996**—Pub. L. 104–294, title VI, §604(a)(4), Oct. 11, 1996, 110 Stat. 3506, substituted "victims' " for "Victims' " in item 3509.
 
 Pub. L. 104–191, title II, §248(b), Aug. 21, 1996, 110 Stat. 2019, added item 3486.
 
@@ -92,7 +92,7 @@ Pub. L. 104–191, title II, §248(b), Aug. 21, 1996, 110 Stat. 2019, added item
 
 **1984**—Pub. L. 98–473, title II, §1217(b), Oct. 12, 1984, 98 Stat. 2166, added items 3505, 3506, and 3507.
 
-**1970**—Pub. L. 91–452, title II, §228(b), title VI, §601(b), title VII, §702(b), Oct. 15, 1970, 84 Stat. 930, 935, 936, added items 3503 and 3504, and struck out item 3486 “Compelled testimony tending to incriminate witnesses; immunity”.
+**1970**—Pub. L. 91–452, title II, §228(b), title VI, §601(b), title VII, §702(b), Oct. 15, 1970, 84 Stat. 930, 935, 936, added items 3503 and 3504, and struck out item 3486 "Compelled testimony tending to incriminate witnesses; immunity".
 
 **1968**—Pub. L. 90–351, title II, §701(b), June 19, 1968, 82 Stat. 211, added items 3501 and 3502.
 

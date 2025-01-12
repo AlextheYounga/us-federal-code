@@ -20,7 +20,7 @@ Sec.
 
 **2006**—Pub. L. 109–163, div. A, title V, §522(b)(2), Jan. 6, 2006, 119 Stat. 3241, added item 4417.
 
-**2000**—Pub. L. 106–398, §1 [[div. A], title IX, §911(c)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–228, struck out item 4415 “United States Army School of the Americas”.
+**2000**—Pub. L. 106–398, §1 [[div. A], title IX, §911(c)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–228, struck out item 4415 "United States Army School of the Americas".
 
 **1997**—Pub. L. 105–85, div. A, title VII, §741(a)(2), Nov. 18, 1997, 111 Stat. 1817, added item 4416.
 

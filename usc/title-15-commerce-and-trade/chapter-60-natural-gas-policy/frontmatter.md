@@ -40,7 +40,7 @@ Sec.
 
 3391. Natural gas for essential agricultural uses.
 
-3391a. “Essential agricultural use” defined.
+3391a. "Essential agricultural use" defined.
 
 3392. Natural gas for essential industrial process and feedstock uses.
 

@@ -1,6 +1,6 @@
 ### §§251 to 262. Repealed. Pub. L. 96–591, §8(b), Dec. 24, 1980, 94 Stat. 3435 ###
 
-Section 251, acts Feb. 8, 1895, ch. 64, §1, 28 Stat. 645; May 17, 1928, ch. 600, 45 Stat. 592, related to time for lights and exclusivity of prescribed lights, and defined “visible”.
+Section 251, acts Feb. 8, 1895, ch. 64, §1, 28 Stat. 645; May 17, 1928, ch. 600, 45 Stat. 592, related to time for lights and exclusivity of prescribed lights, and defined "visible".
 
 Section 252, acts Feb. 8, 1895, ch. 64, §1, 28 Stat. 645; May 17, 1928, ch. 600, 45 Stat. 592; Feb. 28, 1929, ch. 370, 45 Stat. 1405; May 9, 1932, ch. 175, §1, 47 Stat. 152; Mar. 18, 1948, ch. 138, §§1–3, 62 Stat. 82, related to lights of steam vessels under way.
 

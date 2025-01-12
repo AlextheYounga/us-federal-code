@@ -146,19 +146,19 @@ Not later than January 10, 2007, the Secretary shall conduct a study based on th
 
 **2012**—Subsec. (b)(2)(E). Pub. L. 112–144, §611(a), added subpar. (E).
 
-Subsec. (c). Pub. L. 112–144, §611(b), substituted “October 1, 2017” for “October 1, 2012”.
+Subsec. (c). Pub. L. 112–144, §611(b), substituted "October 1, 2017" for "October 1, 2012".
 
 **2009**—Subsec. (b)(2)(D). Pub. L. 111–31 made technical amendment to reference in original act which appears in text as reference to section 393(g) of this title.
 
-**2007**—Subsec. (c). Pub. L. 110–85 substituted “2012” for “2007”.
+**2007**—Subsec. (c). Pub. L. 110–85 substituted "2012" for "2007".
 
-**2002**—Subsec. (c). Pub. L. 107–250, §202(1), substituted “The authority provided by this section terminates October 1, 2007.” for “The authority provided by this section terminates—
+**2002**—Subsec. (c). Pub. L. 107–250, §202(1), substituted "The authority provided by this section terminates October 1, 2007." for "The authority provided by this section terminates—
 
-“(1) 5 years after the date on which the Secretary notifies Congress that at least 2 persons accredited under subsection (b) of this section are available to review at least 60 percent of the submissions under section 360(k) of this title, or
+"(1) 5 years after the date on which the Secretary notifies Congress that at least 2 persons accredited under subsection (b) of this section are available to review at least 60 percent of the submissions under section 360(k) of this title, or
 
-“(2) 4 years after the date on which the Secretary notifies Congress that the Secretary has made a determination described in paragraph (2)(B) of subsection (a) of this section for at least 35 percent of the devices that are subject to review under paragraph (1) of such subsection,
+"(2) 4 years after the date on which the Secretary notifies Congress that the Secretary has made a determination described in paragraph (2)(B) of subsection (a) of this section for at least 35 percent of the devices that are subject to review under paragraph (1) of such subsection,
 
-whichever occurs first.”
+whichever occurs first."
 
 Subsec. (d). Pub. L. 107–250, §202(2), added subsec. (d).
 
@@ -170,10 +170,10 @@ Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see
 
 Pub. L. 105–115, title II, §210(d), Nov. 21, 1997, 111 Stat. 2345, provided that:
 
-“(1) Comptroller general.—
+"(1) Comptroller general.—
 
-“(A) Implementation of program.—Not later than 5 years after the date of the enactment of this Act [Nov. 21, 1997], the Comptroller General of the United States shall submit to the Committee on Commerce [now Committee on Energy and Commerce] of the House of Representatives and the Committee on Labor and Human Resources [now Committee on Health, Education, Labor, and Pensions] of the Senate a report describing the extent to which the program of accreditation required by the amendment made by subsection (a) [enacting this section] has been implemented.
+"(A) Implementation of program.—Not later than 5 years after the date of the enactment of this Act [Nov. 21, 1997], the Comptroller General of the United States shall submit to the Committee on Commerce [now Committee on Energy and Commerce] of the House of Representatives and the Committee on Labor and Human Resources [now Committee on Health, Education, Labor, and Pensions] of the Senate a report describing the extent to which the program of accreditation required by the amendment made by subsection (a) [enacting this section] has been implemented.
 
-“(B) Evaluation of program.—Not later than 6 months prior to the date on which, pursuant to subsection (c) of section 523 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360m(c)] (as added by subsection (a)), the authority provided under subsection (a) of such section will terminate, the Comptroller General shall submit to the Committee on Commerce [now Committee on Energy and Commerce] of the House of Representatives and the Committee on Labor and Human Resources [now Committee on Health, Education, Labor, and Pensions] of the Senate a report describing the use of accredited persons under such section 523, including an evaluation of the extent to which such use assisted the Secretary in carrying out the duties of the Secretary under such Act [21 U.S.C. 301 et seq.] with respect to devices, and the extent to which such use promoted actions which are contrary to the purposes of such Act.
+"(B) Evaluation of program.—Not later than 6 months prior to the date on which, pursuant to subsection (c) of section 523 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360m(c)] (as added by subsection (a)), the authority provided under subsection (a) of such section will terminate, the Comptroller General shall submit to the Committee on Commerce [now Committee on Energy and Commerce] of the House of Representatives and the Committee on Labor and Human Resources [now Committee on Health, Education, Labor, and Pensions] of the Senate a report describing the use of accredited persons under such section 523, including an evaluation of the extent to which such use assisted the Secretary in carrying out the duties of the Secretary under such Act [21 U.S.C. 301 et seq.] with respect to devices, and the extent to which such use promoted actions which are contrary to the purposes of such Act.
 
-“(2) Inclusion of certain devices within program.—Not later than 3 years after the date of the enactment of this Act [Nov. 21, 1997], the Secretary of Health and Human Services shall submit to the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources [now Committee on Health, Education, Labor, and Pensions] of the Senate a report providing a determination by the Secretary of whether, in the program of accreditation established pursuant to the amendment made by subsection (a), the limitation established in clause (iii) of section 523(a)(3)(A) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360m(a)(3)(A)] (relating to class II devices for which clinical data are required in reports under section 510(k) [21 U.S.C. 360(k)]) should be removed.”
+"(2) Inclusion of certain devices within program.—Not later than 3 years after the date of the enactment of this Act [Nov. 21, 1997], the Secretary of Health and Human Services shall submit to the Committee on Commerce of the House of Representatives and the Committee on Labor and Human Resources [now Committee on Health, Education, Labor, and Pensions] of the Senate a report providing a determination by the Secretary of whether, in the program of accreditation established pursuant to the amendment made by subsection (a), the limitation established in clause (iii) of section 523(a)(3)(A) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360m(a)(3)(A)] (relating to class II devices for which clinical data are required in reports under section 510(k) [21 U.S.C. 360(k)]) should be removed."

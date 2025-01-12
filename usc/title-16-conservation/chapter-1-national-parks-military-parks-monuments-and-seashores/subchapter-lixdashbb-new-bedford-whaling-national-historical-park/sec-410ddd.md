@@ -30,9 +30,9 @@ The purposes of this section are—
 
 For the purposes of this section—
 
-(1) the term “park” means the New Bedford Whaling National Historical Park established by subsection (c) of this section; and
+(1) the term "park" means the New Bedford Whaling National Historical Park established by subsection (c) of this section; and
 
-(2) the term “Secretary” means the Secretary of the Interior.
+(2) the term "Secretary" means the Secretary of the Interior.
 
 #### (c) New Bedford Whaling National Historical Park ####
 
@@ -126,26 +126,26 @@ In carrying out this section—
 
 #### Amendments ####
 
-**2003**—Subsec. (g)(2)(A). Pub. L. 108–7 substituted “$5,000,000” for “$2,000,000”.
+**2003**—Subsec. (g)(2)(A). Pub. L. 108–7 substituted "$5,000,000" for "$2,000,000".
 
-**2000**—Pub. L. 106–176, §111(a)(1), substituted “Whaling National Historical Park” for “National Historic Landmark District” in section catchline.
+**2000**—Pub. L. 106–176, §111(a)(1), substituted "Whaling National Historical Park" for "National Historic Landmark District" in section catchline.
 
-Subsec. (c)(1). Pub. L. 106–176, §111(a)(2)(A), substituted “certain districts, structures, and relics” for “certain districts structures, and relics”.
+Subsec. (c)(1). Pub. L. 106–176, §111(a)(2)(A), substituted "certain districts, structures, and relics" for "certain districts structures, and relics".
 
-Subsec. (c)(2)(A)(i). Pub. L. 106–176, §111(a)(2)(B), substituted “The area included within the New Bedford Historic District (a National Landmark District), also known as the” for “The area included with the New Bedford National Historic Landmark District, known as the”.
+Subsec. (c)(2)(A)(i). Pub. L. 106–176, §111(a)(2)(B), substituted "The area included within the New Bedford Historic District (a National Landmark District), also known as the" for "The area included with the New Bedford National Historic Landmark District, known as the".
 
-Subsec. (d)(2). Pub. L. 106–176, §111(a)(3), struck out “to provide” before “appropriate assistance”.
+Subsec. (d)(2). Pub. L. 106–176, §111(a)(3), struck out "to provide" before "appropriate assistance".
 
 Subsecs. (e), (f). Pub. L. 106–176, §111(a)(4), redesignated subsec. (e), relating to general management plan, as (f). Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 106–176, §111(a)(4), redesignated subsec. (f) as (g).
 
-Subsec. (g)(1). Pub. L. 106–176, §111(a)(5)(A), substituted “subsection (d) of this section.” for “section 3(D).”
+Subsec. (g)(1). Pub. L. 106–176, §111(a)(5)(A), substituted "subsection (d) of this section." for "section 3(D)."
 
-Subsec. (g)(2)(C). Pub. L. 106–176, §111(a)(5)(B), substituted “cooperative agreements under subsection (e)(2) of this section” for “cooperative grants under subsection (d)(2) of this section”.
+Subsec. (g)(2)(C). Pub. L. 106–176, §111(a)(5)(B), substituted "cooperative agreements under subsection (e)(2) of this section" for "cooperative grants under subsection (d)(2) of this section".
 
 #### Change of Name ####
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-[<sup>1</sup> So in original. The word “and” probably should not appear.](#410ddd_1)
+[<sup>1</sup> So in original. The word "and" probably should not appear.](#410ddd_1)

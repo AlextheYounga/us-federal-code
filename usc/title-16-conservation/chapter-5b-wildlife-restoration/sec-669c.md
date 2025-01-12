@@ -102,27 +102,27 @@ One-half of the revenues accruing to the fund under this chapter each fiscal yea
 
 (B) Not more than 10 percent of the amounts apportioned to each State under this section for a State's wildlife conservation and restoration program may be used for wildlife-associated recreation.
 
-(5) For purposes of this subsection, the term “State” shall include the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+(5) For purposes of this subsection, the term "State" shall include the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 (Sept. 2, 1937, ch. 899, §4, 50 Stat. 918; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 24, 1946, ch. 605, §1, 60 Stat. 656; Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1098; Pub. L. 92–558, title I, §101(b), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 94–273, §4(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 99–396, §8(b), Aug. 27, 1986, 100 Stat. 839; Pub. L. 101–233, §7(a)(2), Dec. 13, 1989, 103 Stat. 1975; Pub. L. 106–408, title I, §111(a), Nov. 1, 2000, 114 Stat. 1763; Pub. L. 106–553, §1(a)(2) [title IX, §902(e)], Dec. 21, 2000, 114 Stat. 2762, 2762A–121.)
 
 #### Amendments ####
 
-**2000**—Pub. L. 106–408 inserted section catchline, substituted subsec. (a) for “(a) So much, not to exceed 8 per centum, of the revenues (excluding interest accruing under section 669b(b) of this title) covered into said fund in each fiscal year as the Secretary of the Interior may estimate to be necessary for his expenses in the administration and execution of this chapter and the Migratory Bird Conservation Act shall be deducted for that purpose, and such sum is authorized to be made available therefor until the expiration of the next succeeding fiscal year, and within sixty days after the close of such fiscal year the Secretary of the Interior shall apportion such part thereof as remains unexpended by him, if any, and make certificate thereof to the Secretary of the Treasury and to the State fish and game departments on the same basis and in the same manner as is provided as to other amounts authorized by this chapter to be apportioned among the States for such current fiscal year.”, inserted subsec. (b) designation and heading, substituted “after deducting the available amount under subsection (a) of this section, the amount apportioned under subsection (c) of this section, any amount apportioned under section 669g–1 of this title, and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion” for “after making the aforesaid deduction, shall apportion, except as provided in subsection (b) of this section,”, redesignated former subsec. (b) as (c), and inserted “Puerto Rico,” after “American Samoa,”.
+**2000**—Pub. L. 106–408 inserted section catchline, substituted subsec. (a) for "(a) So much, not to exceed 8 per centum, of the revenues (excluding interest accruing under section 669b(b) of this title) covered into said fund in each fiscal year as the Secretary of the Interior may estimate to be necessary for his expenses in the administration and execution of this chapter and the Migratory Bird Conservation Act shall be deducted for that purpose, and such sum is authorized to be made available therefor until the expiration of the next succeeding fiscal year, and within sixty days after the close of such fiscal year the Secretary of the Interior shall apportion such part thereof as remains unexpended by him, if any, and make certificate thereof to the Secretary of the Treasury and to the State fish and game departments on the same basis and in the same manner as is provided as to other amounts authorized by this chapter to be apportioned among the States for such current fiscal year.", inserted subsec. (b) designation and heading, substituted "after deducting the available amount under subsection (a) of this section, the amount apportioned under subsection (c) of this section, any amount apportioned under section 669g–1 of this title, and amounts provided as grants under sections 669h–1 and 669h–2 of this title, shall apportion" for "after making the aforesaid deduction, shall apportion, except as provided in subsection (b) of this section,", redesignated former subsec. (b) as (c), and inserted "Puerto Rico," after "American Samoa,".
 
 Subsec. (c). Pub. L. 106–553 added subsec. (c) relating to apportionment of Wildlife Conservation and Restoration Account.
 
 Subsec. (d). Pub. L. 106–553 added subsec. (d).
 
-**1989**—Subsec. (a). Pub. L. 101–233 inserted “(excluding interest accruing under section 669b(b) of this title)” after “revenues” in first sentence.
+**1989**—Subsec. (a). Pub. L. 101–233 inserted "(excluding interest accruing under section 669b(b) of this title)" after "revenues" in first sentence.
 
-**1986**—Subsec. (b). Pub. L. 99–396 inserted “and Guam, the Virgin Islands, American Samoa, and the Northern Mariana Islands shall each be apportioned one-sixth of 1 per centum of such revenues”.
+**1986**—Subsec. (b). Pub. L. 99–396 inserted "and Guam, the Virgin Islands, American Samoa, and the Northern Mariana Islands shall each be apportioned one-sixth of 1 per centum of such revenues".
 
-**1976**—Subsec. (a). Pub. L. 94–273 substituted “September” for “June”, and “October” for “July”.
+**1976**—Subsec. (a). Pub. L. 94–273 substituted "September" for "June", and "October" for "July".
 
-**1972**—Subsec. (b). Pub. L. 92–558 substituted “(beginning with the fiscal year 1975)” for “(beginning with the fiscal year 1971)” and “pistols, revolvers, bows, and arrows” for “pistols and revolvers”.
+**1972**—Subsec. (b). Pub. L. 92–558 substituted "(beginning with the fiscal year 1975)" for "(beginning with the fiscal year 1971)" and "pistols, revolvers, bows, and arrows" for "pistols and revolvers".
 
-**1970**—Pub. L. 91–503 designated existing provisions as subsec. (a), substituted “second fiscal year preceding” for “preceding fiscal year” in provision dealing with the apportionment by the Secretary of the Interior, defined “fiscal year”, and struck out provisions dealing with the maximum and minimum apportionments “to all the States”, and added subsec. (b).
+**1970**—Pub. L. 91–503 designated existing provisions as subsec. (a), substituted "second fiscal year preceding" for "preceding fiscal year" in provision dealing with the apportionment by the Secretary of the Interior, defined "fiscal year", and struck out provisions dealing with the maximum and minimum apportionments "to all the States", and added subsec. (b).
 
 **1946**—Act July 24, 1946, substituted proviso making apportionment upon a percentage basis for provisos providing for certain definite sums to be apportioned to each State.
 

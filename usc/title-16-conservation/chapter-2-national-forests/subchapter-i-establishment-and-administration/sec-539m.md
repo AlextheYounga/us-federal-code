@@ -22,16 +22,16 @@ The purposes of sections 539m to 539m–12 of this title are—
 
 #### References in Text ####
 
-Sections 539m to 539m–12 of this title, referred to in subsec. (b), was in the original “this title”, meaning title IV of div. F of Pub. L. 108–7, Feb. 20, 2003, 117 Stat. 279, which is classified generally to sections 539m to 539m–12 of this title. For complete classification of title IV to the Code, see Short Title note set out below and Tables.
+Sections 539m to 539m–12 of this title, referred to in subsec. (b), was in the original "this title", meaning title IV of div. F of Pub. L. 108–7, Feb. 20, 2003, 117 Stat. 279, which is classified generally to sections 539m to 539m–12 of this title. For complete classification of title IV to the Code, see Short Title note set out below and Tables.
 
 #### Effective Date ####
 
-Pub. L. 108–7, div. F, title IV, §415, Feb. 20, 2003, 117 Stat. 294, provided that: “The provisions of this title [see Short Title note below] shall take effect immediately on enactment of this Act [Feb. 20, 2003].”
+Pub. L. 108–7, div. F, title IV, §415, Feb. 20, 2003, 117 Stat. 294, provided that: "The provisions of this title [see Short Title note below] shall take effect immediately on enactment of this Act [Feb. 20, 2003]."
 
 #### Short Title of 2014 Amendment ####
 
-Pub. L. 113–119, §1, June 9, 2014, 128 Stat. 1185, provided that: “This Act [amending section 539m–11 of this title] may be cited as the ‘Sandia Pueblo Settlement Technical Amendment Act’.”
+Pub. L. 113–119, §1, June 9, 2014, 128 Stat. 1185, provided that: "This Act [amending section 539m–11 of this title] may be cited as the 'Sandia Pueblo Settlement Technical Amendment Act'."
 
 #### Short Title ####
 
-Pub. L. 108–7, div. F, title IV, §401, Feb. 20, 2003, 117 Stat. 279, provided that: “This title [enacting this section and sections 539m–1 to 539m–12 of this title, amending section 1746 of Title 43, Public Lands, and enacting provisions set out as a note above] may be cited as the ‘T'uf Shur Bien Preservation Trust Area Act’.”
+Pub. L. 108–7, div. F, title IV, §401, Feb. 20, 2003, 117 Stat. 279, provided that: "This title [enacting this section and sections 539m–1 to 539m–12 of this title, amending section 1746 of Title 43, Public Lands, and enacting provisions set out as a note above] may be cited as the 'T'uf Shur Bien Preservation Trust Area Act'."

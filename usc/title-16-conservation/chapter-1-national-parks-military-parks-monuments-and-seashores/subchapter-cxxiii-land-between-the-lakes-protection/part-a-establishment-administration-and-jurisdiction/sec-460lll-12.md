@@ -6,7 +6,7 @@ The Secretary, acting through the Chief of the Forest Service, shall administer 
 
 #### (b) Status ####
 
-Land within the Recreation Area shall have the status of land acquired under the Act of March 1, 1911 (commonly known as the “Weeks Act”) (16 U.S.C. 515 et seq.).
+Land within the Recreation Area shall have the status of land acquired under the Act of March 1, 1911 (commonly known as the "Weeks Act") (16 U.S.C. 515 et seq.).
 
 #### (c) Law enforcement ####
 

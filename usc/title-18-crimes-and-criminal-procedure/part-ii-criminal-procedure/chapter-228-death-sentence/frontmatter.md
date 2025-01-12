@@ -26,4 +26,4 @@ A prior chapter 228 (§§3591 to 3599) relating to imposition, payment, and coll
 
 #### Amendments ####
 
-**2006**—Pub. L. 109–177, title II, §222(b), Mar. 9, 2006, 120 Stat. 232, which directed amendment of the “table of sections of the bill” by adding item 3599 after item 3598, was executed by adding item 3599 to the table of sections for this chapter to reflect the probable intent of Congress.
+**2006**—Pub. L. 109–177, title II, §222(b), Mar. 9, 2006, 120 Stat. 232, which directed amendment of the "table of sections of the bill" by adding item 3599 after item 3598, was executed by adding item 3599 to the table of sections for this chapter to reflect the probable intent of Congress.

@@ -22,10 +22,10 @@ A prior section 950g, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Sta
 
 #### Amendments ####
 
-**2011**—Subsec. (a). Pub. L. 112–81, §1034(d)(1), inserted “as affirmed or set aside as incorrect in law by” after “where applicable,”.
+**2011**—Subsec. (a). Pub. L. 112–81, §1034(d)(1), inserted "as affirmed or set aside as incorrect in law by" after "where applicable,".
 
-Subsec. (c). Pub. L. 112–81, §1034(d)(2)(A), substituted “in the Court of Appeals—” for “by the accused in the Court of Appeals not later than 20 days after the date on which—” in introductory provisions.
+Subsec. (c). Pub. L. 112–81, §1034(d)(2)(A), substituted "in the Court of Appeals—" for "by the accused in the Court of Appeals not later than 20 days after the date on which—" in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 112–81, §1034(d)(2)(B), inserted “not later than 20 days after the date on which” before “written notice” and substituted “on the parties” for “on the accused or on defense counsel”.
+Subsec. (c)(1). Pub. L. 112–81, §1034(d)(2)(B), inserted "not later than 20 days after the date on which" before "written notice" and substituted "on the parties" for "on the accused or on defense counsel".
 
-Subsec. (c)(2). Pub. L. 112–81, §1034(d)(2)(C), inserted “if” before “the accused submits” and inserted before period at end “, not later than 20 days after the date on which such notice is submitted”.
+Subsec. (c)(2). Pub. L. 112–81, §1034(d)(2)(C), inserted "if" before "the accused submits" and inserted before period at end ", not later than 20 days after the date on which such notice is submitted".

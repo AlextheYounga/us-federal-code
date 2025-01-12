@@ -24,32 +24,32 @@
 
 Based on title 13, U.S.C., 1952 ed., §2 (Mar. 6, 1902, ch. 139, §3, 32 Stat. 51; June 18, 1929, ch. 28, §21, 46 Stat. 26). The provision of section 2 of title 13, U.S.C., 1952 ed., which imposed upon the Director the duty to superintend and direct the taking of censuses of the United States was omitted in view of 1950 Reorganization Plan No. 5, effective May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, which transferred all functions of all officers, employees, bureaus, and agencies of the Department of Commerce to the Secretary of Commerce, and this title, as revised, vests such duty in the Secretary. However, under section 4 of this title, he may delegate his functions hereunder.
 
-“Bureau” was substituted for “permanent Census Office”. See Revision Note to section 2 of this title.
+"Bureau" was substituted for "permanent Census Office". See Revision Note to section 2 of this title.
 
-At the end of this section, references to regulations, and to orders of the Secretary, were added after “law” in view of the changes effected by 1950 Reorganization Plan No. 5, referred to above.
+At the end of this section, references to regulations, and to orders of the Secretary, were added after "law" in view of the changes effected by 1950 Reorganization Plan No. 5, referred to above.
 
 Changes were made in phraseology.
 
 #### Amendments ####
 
-**2012**—Pub. L. 112–166 amended section generally. Prior to amendment, text read as follows: “The Bureau shall be headed by a Director of the Census, appointed by the President, by and with the advice and consent of the Senate. The Director shall perform such duties as may be imposed upon him by law, regulations, or orders of the Secretary.”
+**2012**—Pub. L. 112–166 amended section generally. Prior to amendment, text read as follows: "The Bureau shall be headed by a Director of the Census, appointed by the President, by and with the advice and consent of the Senate. The Director shall perform such duties as may be imposed upon him by law, regulations, or orders of the Secretary."
 
 #### Effective Date of 2012 Amendment ####
 
-Pub. L. 112–166, §6(b), Aug. 10, 2012, 126 Stat. 1295, provided that: “The provisions of sections 3 and 4 [amending this section and enacting provisions set out as notes under this section] (including any amendments made by those sections) shall take effect on the date of enactment of this Act [Aug. 10, 2012].”
+Pub. L. 112–166, §6(b), Aug. 10, 2012, 126 Stat. 1295, provided that: "The provisions of sections 3 and 4 [amending this section and enacting provisions set out as notes under this section] (including any amendments made by those sections) shall take effect on the date of enactment of this Act [Aug. 10, 2012]."
 
 #### Transition Rules ####
 
 Pub. L. 112–166, §3(b), Aug. 10, 2012, 126 Stat. 1291, provided that:
 
-“(1) Appointment of initial director.—The initial Director of the Bureau of the Census shall be appointed in accordance with the provisions of section 21(a) of title 13, United States Code, as amended by subsection (a).
+"(1) Appointment of initial director.—The initial Director of the Bureau of the Census shall be appointed in accordance with the provisions of section 21(a) of title 13, United States Code, as amended by subsection (a).
 
-“(2) Interim role of current director of the census after date of enactment.—If, as of January 1, 2012, the initial Director of the Bureau of the Census has not taken office, the officer serving on December 31, 2011, as Director of the Census (or Acting Director of the Census, if applicable) in the Department of Commerce—
+"(2) Interim role of current director of the census after date of enactment.—If, as of January 1, 2012, the initial Director of the Bureau of the Census has not taken office, the officer serving on December 31, 2011, as Director of the Census (or Acting Director of the Census, if applicable) in the Department of Commerce—
 
-“(A) shall serve as the Director of the Bureau of the Census; and
+"(A) shall serve as the Director of the Bureau of the Census; and
 
-“(B) shall assume the powers and duties of such Director for one term beginning January 1, 2012, as described in section 21(b) of such title, as so amended.”
+"(B) shall assume the powers and duties of such Director for one term beginning January 1, 2012, as described in section 21(b) of such title, as so amended."
 
 #### Technical and Conforming Amendments ####
 
-Pub. L. 112–166, §3(c), Aug. 10, 2012, 126 Stat. 1291, provided that: “Not later than January 1, 2012, [sic] the Secretary of Commerce, in consultation with the Director of the Census, shall submit to each House of the Congress draft legislation containing any technical and conforming amendments to title 13, United States Code, and any other provisions which may be necessary to carry out the purposes of this section [amending this section and enacting provisions set out as notes under this section].”
+Pub. L. 112–166, §3(c), Aug. 10, 2012, 126 Stat. 1291, provided that: "Not later than January 1, 2012, [sic] the Secretary of Commerce, in consultation with the Director of the Census, shall submit to each House of the Congress draft legislation containing any technical and conforming amendments to title 13, United States Code, and any other provisions which may be necessary to carry out the purposes of this section [amending this section and enacting provisions set out as notes under this section]."

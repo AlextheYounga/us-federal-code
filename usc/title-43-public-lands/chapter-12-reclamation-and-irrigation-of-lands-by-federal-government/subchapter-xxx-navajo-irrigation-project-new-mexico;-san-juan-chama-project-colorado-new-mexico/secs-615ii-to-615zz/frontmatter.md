@@ -34,7 +34,7 @@ Section 615vv, Pub. L. 87–483, §14, June 13, 1962, 76 Stat. 101, required com
 
 Section 615ww, Pub. L. 87–483, §15, June 13, 1962, 76 Stat. 102, related to studies of quality of water of Colorado River system and reports to Congress on results of these studies.
 
-Section 615xx, Pub. L. 87–483, §16, June 13, 1962, 76 Stat. 102, related to compact obligations of “States of the upper division” concerning flow depletion at Lee Ferry and the Mexican treaty obligation.
+Section 615xx, Pub. L. 87–483, §16, June 13, 1962, 76 Stat. 102, related to compact obligations of "States of the upper division" concerning flow depletion at Lee Ferry and the Mexican treaty obligation.
 
 Section 615yy, Pub. L. 87–483, §17, June 13, 1962, 76 Stat. 102, related to determination of appropriations.
 

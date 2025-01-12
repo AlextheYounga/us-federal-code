@@ -12,9 +12,9 @@
 
 (C) All appeals from the decisions of the Chair relating to the application of the rules of the Senate to the procedure relating to the resolution shall be decided without debate.
 
-#### (b) “Committee” defined ####
+#### (b) "Committee" defined ####
 
-For purposes of this chapter, other than section 288b of this title, the term “committee” includes standing, select, and special committees of the Senate established by law or resolution.
+For purposes of this chapter, other than section 288b of this title, the term "committee" includes standing, select, and special committees of the Senate established by law or resolution.
 
 #### (c) Rules of the Senate ####
 
@@ -28,4 +28,4 @@ The provisions of this section are enacted—
 
 #### References in Text ####
 
-This chapter, referred to in subsec. (b), was in the original “this title”, meaning title VII of Pub. L. 95–521, which enacted this chapter, section 5504 of this title, and section 1364 of Title 28, Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
+This chapter, referred to in subsec. (b), was in the original "this title", meaning title VII of Pub. L. 95–521, which enacted this chapter, section 5504 of this title, and section 1364 of Title 28, Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.

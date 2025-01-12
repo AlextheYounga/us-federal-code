@@ -6,4 +6,4 @@ A general management plan for the park shall be prepared and periodically revise
 
 #### Amendments ####
 
-**1994**—Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+**1994**—Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".

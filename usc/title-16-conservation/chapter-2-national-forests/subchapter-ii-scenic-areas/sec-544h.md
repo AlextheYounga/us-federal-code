@@ -20,6 +20,6 @@ Prior to the effective date of a land use ordinance for each county pursuant to 
 
 #### Codification ####
 
-November 17, 1986, referred to in subsec. (b)(1), was in the original “the effective date of this Act”, which was translated as being the date of enactment of Pub. L. 99–663.
+November 17, 1986, referred to in subsec. (b)(1), was in the original "the effective date of this Act", which was translated as being the date of enactment of Pub. L. 99–663.
 
 [<sup>1</sup> So in original. No par. (2) has been enacted.](#544h_1)

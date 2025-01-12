@@ -10,7 +10,7 @@ It shall be unlawful for any of the following persons to serve or act in the cap
 
 (3) a company any affiliated person of which is ineligible, by reason of paragraph (1) or (2) of this subsection, to serve or act in the foregoing capacities.
 
-For the purposes of paragraphs (1) to (3) of this subsection, the term “investment adviser” shall include an investment adviser as defined in subchapter II of this chapter.
+For the purposes of paragraphs (1) to (3) of this subsection, the term "investment adviser" shall include an investment adviser as defined in subchapter II of this chapter.
 
 #### (b) Certain persons serving investment companies; administrative action of Commission ####
 
@@ -152,7 +152,7 @@ In any cease-and-desist proceeding under subsection (f)(1) of this section, the 
 
 #### (g) Corporate or other trustees performing functions of investment advisers ####
 
-For the purposes of this section, the term “investment adviser” includes a corporate or other trustee performing the functions of an investment adviser.
+For the purposes of this section, the term "investment adviser" includes a corporate or other trustee performing the functions of an investment adviser.
 
 (Aug. 22, 1940, ch. 686, title I, §9, 54 Stat. 805; Pub. L. 91–547, §4, Dec. 14, 1970, 84 Stat. 1415; Pub. L. 94–29, §28(6), June 4, 1975, 89 Stat. 166; Pub. L. 99–571, title I, §102(l), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 100–181, title VI, §609, Dec. 4, 1987, 101 Stat. 1261; Pub. L. 101–429, title III, §301, Oct. 15, 1990, 104 Stat. 941; Pub. L. 101–550, title II, §205(a), Nov. 15, 1990, 104 Stat. 2718; Pub. L. 106–102, title II, §222, Nov. 12, 1999, 113 Stat. 1401; Pub. L. 109–291, §4(b)(2)(B), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title IX, §§929P(a)(3), 985(d)(2), July 21, 2010, 124 Stat. 1863, 1934.)
 
@@ -166,39 +166,39 @@ The Securities Exchange Act of 1934, referred to in subsecs. (b)(2), (3) and (d)
 
 #### Amendments ####
 
-**2010**—Subsec. (b)(4)(B). Pub. L. 111–203, §985(d)(2), inserted “or” at end.
+**2010**—Subsec. (b)(4)(B). Pub. L. 111–203, §985(d)(2), inserted "or" at end.
 
-Subsec. (d)(1). Pub. L. 111–203, §929P(a)(3), designated existing provisions as subpar. (A) and inserted heading, inserted “that such penalty is in the public interest, and” after “opportunity for hearing,” in introductory provisions, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and realigned margins, struck out concluding provisions which read “and that such penalty is in the public interest.”, and added subpar. (B).
+Subsec. (d)(1). Pub. L. 111–203, §929P(a)(3), designated existing provisions as subpar. (A) and inserted heading, inserted "that such penalty is in the public interest, and" after "opportunity for hearing," in introductory provisions, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and realigned margins, struck out concluding provisions which read "and that such penalty is in the public interest.", and added subpar. (B).
 
-**2006**—Subsec. (a). Pub. L. 109–291 inserted “credit rating agency,” after “transfer agent,” in pars. (1) and (2).
+**2006**—Subsec. (a). Pub. L. 109–291 inserted "credit rating agency," after "transfer agent," in pars. (1) and (2).
 
-**1999**—Subsec. (a)(1), (2). Pub. L. 106–102 substituted “securities dealer, bank, transfer agent,” for “securities dealer, transfer agent,”.
+**1999**—Subsec. (a)(1), (2). Pub. L. 106–102 substituted "securities dealer, bank, transfer agent," for "securities dealer, transfer agent,".
 
 **1990**—Subsec. (b)(4) to (6). Pub. L. 101–550 added pars. (4) to (6).
 
 Subsecs. (d) to (f). Pub. L. 101–429, §301(1), (2), added subsecs. (d) to (f) and redesignated former subsec. (d) as (g).
 
-Subsec. (g). Pub. L. 101–429, §301(3), which directed the striking out of “subsections (a) through (c) of” after “the purposes of”, was executed by striking out “subsection (a) through (c) of” as the probable intent of Congress.
+Subsec. (g). Pub. L. 101–429, §301(3), which directed the striking out of "subsections (a) through (c) of" after "the purposes of", was executed by striking out "subsection (a) through (c) of" as the probable intent of Congress.
 
 Pub. L. 101–429, §301(1), redesignated subsec. (d) as (g).
 
 **1987**—Subsec. (a)(1), (2). Pub. L. 100–181 amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 
-“(1) any person who within 10 years has been convicted of any felony or misdemeanor involving the purchase or sale of any security or arising out of such person's conduct as an underwriter, broker, dealer, investment adviser, municipal securities dealer, government securities broker, government securities dealer, or entity or person required to be registered under the Commodity Exchange Act, or as an affiliated person, salesman, or employee of any investment company, bank, insurance company, or entity or person required to be registered under the Commodity Exchange Act;
+"(1) any person who within 10 years has been convicted of any felony or misdemeanor involving the purchase or sale of any security or arising out of such person's conduct as an underwriter, broker, dealer, investment adviser, municipal securities dealer, government securities broker, government securities dealer, or entity or person required to be registered under the Commodity Exchange Act, or as an affiliated person, salesman, or employee of any investment company, bank, insurance company, or entity or person required to be registered under the Commodity Exchange Act;
 
-“(2) any person who, by reason of any misconduct, is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction from acting as an underwriter, broker, dealer, investment adviser, municipal securities dealer, government securities broker, government securities dealer, or entity or person required to be registered under the Commodity Exchange Act, or as an affiliated person, salesman, or employee of any investment company, bank, insurance company, or entity or person required to be registered under the Commodity Exchange Act, or from engaging in or continuing any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security; or”.
+"(2) any person who, by reason of any misconduct, is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction from acting as an underwriter, broker, dealer, investment adviser, municipal securities dealer, government securities broker, government securities dealer, or entity or person required to be registered under the Commodity Exchange Act, or as an affiliated person, salesman, or employee of any investment company, bank, insurance company, or entity or person required to be registered under the Commodity Exchange Act, or from engaging in or continuing any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security; or".
 
 **1986**—Subsec. (a)(1), (2). Pub. L. 99–571, §102(l)(1), inserted pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
-“(1) any person who within ten years has been convicted of any felony or misdemeanor involving the purchase or sale of any security or arising out of such person's conduct as an underwriter, broker, dealer, or investment adviser, or as an affiliated person, salesman, or employee of any investment company, bank, or insurance company;
+"(1) any person who within ten years has been convicted of any felony or misdemeanor involving the purchase or sale of any security or arising out of such person's conduct as an underwriter, broker, dealer, or investment adviser, or as an affiliated person, salesman, or employee of any investment company, bank, or insurance company;
 
-“(2) any person who, by reason of any misconduct, is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction from acting as an underwriter, broker, dealer, or investment adviser, or as an affiliated person, salesman, or employee of any investment company, bank, or insurance company, or from engaging in or continuing any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security; or”.
+"(2) any person who, by reason of any misconduct, is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction from acting as an underwriter, broker, dealer, or investment adviser, or as an affiliated person, salesman, or employee of any investment company, bank, or insurance company, or from engaging in or continuing any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security; or".
 
 Subsec. (b)(2), (3). Pub. L. 99–571, §102(l)(2), (3), inserted reference to Commodity Exchange Act.
 
 **1975**—Subsec. (d). Pub. L. 94–29 added subsec. (d).
 
-**1970**—Subsec. (a). Pub. L. 91–547, §4(a), inserted “employee,” before “officer” in introductory text.
+**1970**—Subsec. (a). Pub. L. 91–547, §4(a), inserted "employee," before "officer" in introductory text.
 
 Subsecs. (b), (c). Pub. L. 91–547, §4(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 

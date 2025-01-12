@@ -34,7 +34,7 @@ Sec.
 
 1614. Repealed.
 
-1615. Prohibition on use of “Rule of 78's” in connection with mortgage refinancings and other consumer loans.
+1615. Prohibition on use of "Rule of 78's" in connection with mortgage refinancings and other consumer loans.
 
 1616. Board review of consumer credit plans and regulations.
 

@@ -2,7 +2,7 @@
 
 For purposes of this subchapter:
 
-(1) The term “primary drinking water regulation” means a regulation which—
+(1) The term "primary drinking water regulation" means a regulation which—
 
 (A) applies to public water systems;
 
@@ -18,13 +18,13 @@ For purposes of this subchapter:
 
 At any time after promulgation of a regulation referred to in this paragraph, the Administrator may add equally effective quality control and testing procedures by guidance published in the Federal Register. Such procedures shall be treated as an alternative for public water systems to the quality control and testing procedures listed in the regulation.
 
-(2) The term “secondary drinking water regulation” means a regulation which applies to public water systems and which specifies the maximum contaminant levels which, in the judgment of the Administrator, are requisite to protect the public welfare. Such regulations may apply to any contaminant in drinking water (A) which may adversely affect the odor or appearance of such water and consequently may cause a substantial number of the persons served by the public water system providing such water to discontinue its use, or (B) which may otherwise adversely affect the public welfare. Such regulations may vary according to geographic and other circumstances.
+(2) The term "secondary drinking water regulation" means a regulation which applies to public water systems and which specifies the maximum contaminant levels which, in the judgment of the Administrator, are requisite to protect the public welfare. Such regulations may apply to any contaminant in drinking water (A) which may adversely affect the odor or appearance of such water and consequently may cause a substantial number of the persons served by the public water system providing such water to discontinue its use, or (B) which may otherwise adversely affect the public welfare. Such regulations may vary according to geographic and other circumstances.
 
-(3) The term “maximum contaminant level” means the maximum permissible level of a contaminant in water which is delivered to any user of a public water system.
+(3) The term "maximum contaminant level" means the maximum permissible level of a contaminant in water which is delivered to any user of a public water system.
 
 (4) Public water system.—
 
-(A) In general.—The term “public water system” means a system for the provision to the public of water for human consumption through pipes or other constructed conveyances, if such system has at least fifteen service connections or regularly serves at least twenty-five individuals. Such term includes (i) any collection, treatment, storage, and distribution facilities under control of the operator of such system and used primarily in connection with such system, and (ii) any collection or pretreatment storage facilities not under such control which are used primarily in connection with such system.
+(A) In general.—The term "public water system" means a system for the provision to the public of water for human consumption through pipes or other constructed conveyances, if such system has at least fifteen service connections or regularly serves at least twenty-five individuals. Such term includes (i) any collection, treatment, storage, and distribution facilities under control of the operator of such system and used primarily in connection with such system, and (ii) any collection or pretreatment storage facilities not under such control which are used primarily in connection with such system.
 
 (B) Connections.—
 
@@ -40,35 +40,35 @@ At any time after promulgation of a regulation referred to in this paragraph, th
 
 (C) Transition period.—A water supplier that would be a public water system only as a result of modifications made to this paragraph by the Safe Drinking Water Act Amendments of 1996 shall not be considered a public water system for purposes of the Act until the date that is two years after August 6, 1996. If a water supplier does not serve 15 service connections (as defined in subparagraphs (A) and (B)) or 25 people at any time after the conclusion of the 2-year period, the water supplier shall not be considered a public water system.
 
-(5) The term “supplier of water” means any person who owns or operates a public water system.
+(5) The term "supplier of water" means any person who owns or operates a public water system.
 
-(6) The term “contaminant” means any physical, chemical, biological, or radiological substance or matter in water.
+(6) The term "contaminant" means any physical, chemical, biological, or radiological substance or matter in water.
 
-(7) The term “Administrator” means the Administrator of the Environmental Protection Agency.
+(7) The term "Administrator" means the Administrator of the Environmental Protection Agency.
 
-(8) The term “Agency” means the Environmental Protection Agency.
+(8) The term "Agency" means the Environmental Protection Agency.
 
-(9) The term “Council” means the National Drinking Water Advisory Council established under section 300j–5 of this title.
+(9) The term "Council" means the National Drinking Water Advisory Council established under section 300j–5 of this title.
 
-(10) The term “municipality” means a city, town, or other public body created by or pursuant to State law, or an Indian Tribe.
+(10) The term "municipality" means a city, town, or other public body created by or pursuant to State law, or an Indian Tribe.
 
-(11) The term “Federal agency” means any department, agency, or instrumentality of the United States.
+(11) The term "Federal agency" means any department, agency, or instrumentality of the United States.
 
-(12) The term “person” means an individual, corporation, company, association, partnership, State, municipality, or Federal agency (and includes officers, employees, and agents of any corporation, company, association, State, municipality, or Federal agency).
+(12) The term "person" means an individual, corporation, company, association, partnership, State, municipality, or Federal agency (and includes officers, employees, and agents of any corporation, company, association, State, municipality, or Federal agency).
 
-(13)(A) Except as provided in subparagraph (B), the term “State” includes, in addition to the several States, only the District of Columbia, Guam, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands.
+(13)(A) Except as provided in subparagraph (B), the term "State" includes, in addition to the several States, only the District of Columbia, Guam, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands.
 
-(B) For purposes of section 300j–12 of this title, the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+(B) For purposes of section 300j–12 of this title, the term "State" means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(14) The term “Indian Tribe” means any Indian tribe having a Federally recognized governing body carrying out substantial governmental duties and powers over any area. For purposes of section 300j–12 of this title, the term includes any Native village (as defined in section 1602(c) of title 43).
+(14) The term "Indian Tribe" means any Indian tribe having a Federally recognized governing body carrying out substantial governmental duties and powers over any area. For purposes of section 300j–12 of this title, the term includes any Native village (as defined in section 1602(c) of title 43).
 
-(15) Community water system.—The term “community water system” means a public water system that—
+(15) Community water system.—The term "community water system" means a public water system that—
 
 (A) serves at least 15 service connections used by year-round residents of the area served by the system; or
 
 (B) regularly serves at least 25 year-round residents.
 
-(16) Noncommunity water system.—The term “noncommunity water system” means a public water system that is not a community water system.
+(16) Noncommunity water system.—The term "noncommunity water system" means a public water system that is not a community water system.
 
 (July 1, 1944, ch. 373, title XIV, §1401, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1660; amended Pub. L. 94–317, title III, §301(b)(2), June 23, 1976, 90 Stat. 707; Pub. L. 94–484, title IX, §905(b)(1), Oct. 12, 1976, 90 Stat. 2325; Pub. L. 95–190, §8(b), Nov. 16, 1977, 91 Stat. 1397; Pub. L. 99–339, title III, §302(b), June 19, 1986, 100 Stat. 666; Pub. L. 104–182, title I, §101(a), (b)(1), Aug. 6, 1996, 110 Stat. 1615, 1616.)
 
@@ -78,35 +78,35 @@ The Safe Drinking Water Act Amendments of 1996, referred to in par. (4)(C), is P
 
 #### Amendments ####
 
-**1996**—Par. (1). Pub. L. 104–182, §101(a)(1)(B), inserted at end “At any time after promulgation of a regulation referred to in this paragraph, the Administrator may add equally effective quality control and testing procedures by guidance published in the Federal Register. Such procedures shall be treated as an alternative for public water systems to the quality control and testing procedures listed in the regulation.”
+**1996**—Par. (1). Pub. L. 104–182, §101(a)(1)(B), inserted at end "At any time after promulgation of a regulation referred to in this paragraph, the Administrator may add equally effective quality control and testing procedures by guidance published in the Federal Register. Such procedures shall be treated as an alternative for public water systems to the quality control and testing procedures listed in the regulation."
 
-Par. (1)(D). Pub. L. 104–182, §101(a)(1)(A), inserted “accepted methods for” before “quality control”.
+Par. (1)(D). Pub. L. 104–182, §101(a)(1)(A), inserted "accepted methods for" before "quality control".
 
-Par. (4). Pub. L. 104–182, §101(b)(1), designated existing provisions as subpar. (A), inserted par. and subpar. headings, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, substituted “water for human consumption through pipes or other constructed conveyances” for “piped water for human consumption” in first sentence, and added subpars. (B) and (C).
+Par. (4). Pub. L. 104–182, §101(b)(1), designated existing provisions as subpar. (A), inserted par. and subpar. headings, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, substituted "water for human consumption through pipes or other constructed conveyances" for "piped water for human consumption" in first sentence, and added subpars. (B) and (C).
 
-Par. (13). Pub. L. 104–182, §101(a)(2), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the term” for “The term”, and added subpar. (B).
+Par. (13). Pub. L. 104–182, §101(a)(2), designated existing provisions as subpar. (A), substituted "Except as provided in subparagraph (B), the term" for "The term", and added subpar. (B).
 
-Par. (14). Pub. L. 104–182, §101(a)(3), inserted at end “For purposes of section 300j–12 of this title, the term includes any Native village (as defined in section 1602(c) of title 43).”
+Par. (14). Pub. L. 104–182, §101(a)(3), inserted at end "For purposes of section 300j–12 of this title, the term includes any Native village (as defined in section 1602(c) of title 43)."
 
 Pars. (15), (16). Pub. L. 104–182, §101(a)(4), added pars. (15) and (16).
 
-**1986**—Par. (10). Pub. L. 99–339, §302(b)(2), substituted “Indian Tribe” for “Indian tribal organization authorized by law”.
+**1986**—Par. (10). Pub. L. 99–339, §302(b)(2), substituted "Indian Tribe" for "Indian tribal organization authorized by law".
 
 Par. (14). Pub. L. 99–339, §302(b)(1), added par. (14).
 
-**1977**—Par. (12). Pub. L. 95–190 expanded definition of “person” to include Federal agency, and officers, employees, and agents of any corporation, company, etc.
+**1977**—Par. (12). Pub. L. 95–190 expanded definition of "person" to include Federal agency, and officers, employees, and agents of any corporation, company, etc.
 
-**1976**—Par. (13). Pub. L. 94–484 defined “State” to include Northern Mariana Islands.
+**1976**—Par. (13). Pub. L. 94–484 defined "State" to include Northern Mariana Islands.
 
 Pub. L. 94–317 added par. (13).
 
 #### Effective Date of 1996 Amendment ####
 
-Pub. L. 104–182, §2(b), Aug. 6, 1996, 110 Stat. 1614, provided that: “Except as otherwise specified in this Act [enacting sections 300g–7 to 300g–9, 300h–8, 300j–3c, and 300j–12 to 300j–18 of this title and section 1263a of Title 33, Navigation and Navigable Waters, amending this section, sections 300g–1 to 300g–6, 300h, 300h–5 to 300h–7, 300i, 300i–1, 300j to 300j–2, 300j–4 to 300j–8, 300j–11, and 300j–21 to 300j–25 of this title, sections 4701 and 4721 of Title 16, Conservation, and section 349 of Title 21, Food and Drugs, repealing section 13551 of this title, enacting provisions set out as notes under this section, sections 201, 300g–1, 300j–1, and 300j–12 of this title, section 1281 of Title 33, and section 45 of former Title 40, Public Buildings, Property, and Works, and amending provisions set out as a note under section 201 of this title] or in the amendments made by this Act, this Act and the amendments made by this Act shall take effect on the date of enactment of this Act [Aug. 6, 1996].”
+Pub. L. 104–182, §2(b), Aug. 6, 1996, 110 Stat. 1614, provided that: "Except as otherwise specified in this Act [enacting sections 300g–7 to 300g–9, 300h–8, 300j–3c, and 300j–12 to 300j–18 of this title and section 1263a of Title 33, Navigation and Navigable Waters, amending this section, sections 300g–1 to 300g–6, 300h, 300h–5 to 300h–7, 300i, 300i–1, 300j to 300j–2, 300j–4 to 300j–8, 300j–11, and 300j–21 to 300j–25 of this title, sections 4701 and 4721 of Title 16, Conservation, and section 349 of Title 21, Food and Drugs, repealing section 13551 of this title, enacting provisions set out as notes under this section, sections 201, 300g–1, 300j–1, and 300j–12 of this title, section 1281 of Title 33, and section 45 of former Title 40, Public Buildings, Property, and Works, and amending provisions set out as a note under section 201 of this title] or in the amendments made by this Act, this Act and the amendments made by this Act shall take effect on the date of enactment of this Act [Aug. 6, 1996]."
 
 #### Short Title ####
 
-This subchapter is known as the “Safe Drinking Water Act”, see note set out under section 201 of this title.
+This subchapter is known as the "Safe Drinking Water Act", see note set out under section 201 of this title.
 
 #### Termination of Trust Territory of the Pacific Islands ####
 
@@ -114,65 +114,65 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Effect of Public Law 104–182 on Federal Water Pollution Control Act ####
 
-Pub. L. 104–182, §2(c), Aug. 6, 1996, 110 Stat. 1614, provided that: “Except for the provisions of section 302 [42 U.S.C. 300j–12 note] (relating to transfers of funds), nothing in this Act [see Effective Date of 1996 Amendment note above] or in any amendments made by this Act to title XIV of the Public Health Service Act [42 U.S.C. 300f et seq.] (commonly known as the ‘Safe Drinking Water Act’) or any other law shall be construed by the Administrator of the Environmental Protection Agency or the courts as affecting, modifying, expanding, changing, or altering—
+Pub. L. 104–182, §2(c), Aug. 6, 1996, 110 Stat. 1614, provided that: "Except for the provisions of section 302 [42 U.S.C. 300j–12 note] (relating to transfers of funds), nothing in this Act [see Effective Date of 1996 Amendment note above] or in any amendments made by this Act to title XIV of the Public Health Service Act [42 U.S.C. 300f et seq.] (commonly known as the 'Safe Drinking Water Act') or any other law shall be construed by the Administrator of the Environmental Protection Agency or the courts as affecting, modifying, expanding, changing, or altering—
 
-“(1) the provisions of the Federal Water Pollution Control Act [33 U.S.C. 1251 et seq.];
+"(1) the provisions of the Federal Water Pollution Control Act [33 U.S.C. 1251 et seq.];
 
-“(2) the duties and responsibilities of the Administrator under that Act; or
+"(2) the duties and responsibilities of the Administrator under that Act; or
 
-“(3) the regulation or control of point or nonpoint sources of pollution discharged into waters covered by that Act.
+"(3) the regulation or control of point or nonpoint sources of pollution discharged into waters covered by that Act.
 
-The Administrator shall identify in the agency's annual budget all funding and full-time equivalents administering such title XIV separately from funding and staffing for the Federal Water Pollution Control Act.”
+The Administrator shall identify in the agency's annual budget all funding and full-time equivalents administering such title XIV separately from funding and staffing for the Federal Water Pollution Control Act."
 
 #### Congressional Findings ####
 
-Pub. L. 104–182, §3, Aug. 6, 1996, 110 Stat. 1614, provided that: “The Congress finds that—
+Pub. L. 104–182, §3, Aug. 6, 1996, 110 Stat. 1614, provided that: "The Congress finds that—
 
-“(1) safe drinking water is essential to the protection of public health;
+"(1) safe drinking water is essential to the protection of public health;
 
-“(2) because the requirements of the Safe Drinking Water Act (42 U.S.C. 300f et seq.) now exceed the financial and technical capacity of some public water systems, especially many small public water systems, the Federal Government needs to provide assistance to communities to help the communities meet Federal drinking water requirements;
+"(2) because the requirements of the Safe Drinking Water Act (42 U.S.C. 300f et seq.) now exceed the financial and technical capacity of some public water systems, especially many small public water systems, the Federal Government needs to provide assistance to communities to help the communities meet Federal drinking water requirements;
 
-“(3) the Federal Government commits to maintaining and improving its partnership with the States in the administration and implementation of the Safe Drinking Water Act;
+"(3) the Federal Government commits to maintaining and improving its partnership with the States in the administration and implementation of the Safe Drinking Water Act;
 
-“(4) States play a central role in the implementation of safe drinking water programs, and States need increased financial resources and appropriate flexibility to ensure the prompt and effective development and implementation of drinking water programs;
+"(4) States play a central role in the implementation of safe drinking water programs, and States need increased financial resources and appropriate flexibility to ensure the prompt and effective development and implementation of drinking water programs;
 
-“(5) the existing process for the assessment and selection of additional drinking water contaminants needs to be revised and improved to ensure that there is a sound scientific basis for setting priorities in establishing drinking water regulations;
+"(5) the existing process for the assessment and selection of additional drinking water contaminants needs to be revised and improved to ensure that there is a sound scientific basis for setting priorities in establishing drinking water regulations;
 
-“(6) procedures for assessing the health effects of contaminants establishing drinking water standards should be revised to provide greater opportunity for public education and participation;
+"(6) procedures for assessing the health effects of contaminants establishing drinking water standards should be revised to provide greater opportunity for public education and participation;
 
-“(7) in considering the appropriate level of regulation for contaminants in drinking water, risk assessment, based on sound and objective science, and benefit-cost analysis are important analytical tools for improving the efficiency and effectiveness of drinking water regulations to protect human health;
+"(7) in considering the appropriate level of regulation for contaminants in drinking water, risk assessment, based on sound and objective science, and benefit-cost analysis are important analytical tools for improving the efficiency and effectiveness of drinking water regulations to protect human health;
 
-“(8) more effective protection of public health requires—
+"(8) more effective protection of public health requires—
 
-“(A) a Federal commitment to set priorities that will allow scarce Federal, State, and local resources to be targeted toward the drinking water problems of greatest public health concern;
+"(A) a Federal commitment to set priorities that will allow scarce Federal, State, and local resources to be targeted toward the drinking water problems of greatest public health concern;
 
-“(B) maximizing the value of the different and complementary strengths and responsibilities of the Federal and State governments in those States that have primary enforcement responsibility for the Safe Drinking Water Act; and
+"(B) maximizing the value of the different and complementary strengths and responsibilities of the Federal and State governments in those States that have primary enforcement responsibility for the Safe Drinking Water Act; and
 
-“(C) prevention of drinking water contamination through well-trained system operators, water systems with adequate managerial, technical, and financial capacity, and enhanced protection of source waters of public water systems;
+"(C) prevention of drinking water contamination through well-trained system operators, water systems with adequate managerial, technical, and financial capacity, and enhanced protection of source waters of public water systems;
 
-“(9) compliance with the requirements of the Safe Drinking Water Act continues to be a concern at public water systems experiencing technical and financial limitations, and Federal, State, and local governments need more resources and more effective authority to attain the objectives of the Safe Drinking Water Act; and
+"(9) compliance with the requirements of the Safe Drinking Water Act continues to be a concern at public water systems experiencing technical and financial limitations, and Federal, State, and local governments need more resources and more effective authority to attain the objectives of the Safe Drinking Water Act; and
 
-“(10) consumers served by public water systems should be provided with information on the source of the water they are drinking and its quality and safety, as well as prompt notification of any violation of drinking water regulations.”
+"(10) consumers served by public water systems should be provided with information on the source of the water they are drinking and its quality and safety, as well as prompt notification of any violation of drinking water regulations."
 
 #### GAO Study ####
 
-Pub. L. 104–182, title I, §101(b)(2), Aug. 6, 1996, 110 Stat. 1617, provided that: “The Comptroller General of the United States shall undertake a study to—
+Pub. L. 104–182, title I, §101(b)(2), Aug. 6, 1996, 110 Stat. 1617, provided that: "The Comptroller General of the United States shall undertake a study to—
 
-“(A) ascertain the numbers and locations of individuals and households relying for their residential water needs, including drinking, bathing, and cooking (or other similar uses) on irrigation water systems, mining water systems, industrial water systems, or other water systems covered by section 1401(4)(B) of the Safe Drinking Water Act [42 U.S.C. 300f(4)(B)] that are not public water systems subject to the Safe Drinking Water Act [42 U.S.C. 300f et seq.];
+"(A) ascertain the numbers and locations of individuals and households relying for their residential water needs, including drinking, bathing, and cooking (or other similar uses) on irrigation water systems, mining water systems, industrial water systems, or other water systems covered by section 1401(4)(B) of the Safe Drinking Water Act [42 U.S.C. 300f(4)(B)] that are not public water systems subject to the Safe Drinking Water Act [42 U.S.C. 300f et seq.];
 
-“(B) determine the sources and costs and affordability (to users and systems) of water used by such populations for their residential water needs; and
+"(B) determine the sources and costs and affordability (to users and systems) of water used by such populations for their residential water needs; and
 
-“(C) review State and water system compliance with the exclusion provisions of section 1401(4)(B) of such Act.
+"(C) review State and water system compliance with the exclusion provisions of section 1401(4)(B) of such Act.
 
-The Comptroller General shall submit a report to the Congress within 3 years after the date of enactment of this Act [Aug. 6, 1996] containing the results of such study.”
+The Comptroller General shall submit a report to the Congress within 3 years after the date of enactment of this Act [Aug. 6, 1996] containing the results of such study."
 
 #### Safe Drinking Water Amendments of 1977 Restrictions on Appropriations for Research ####
 
-Pub. L. 95–190, §2(e), Nov. 16, 1977, 91 Stat. 1393, provided that: “Nothing in this Act [see Short Title of 1977 Amendment note set out under section 201 of this title] shall be construed to authorize the appropriation of any amount for research under title XIV of the Public Health Service Act [42 U.S.C. 300f et seq.] (relating to safe drinking water).”
+Pub. L. 95–190, §2(e), Nov. 16, 1977, 91 Stat. 1393, provided that: "Nothing in this Act [see Short Title of 1977 Amendment note set out under section 201 of this title] shall be construed to authorize the appropriation of any amount for research under title XIV of the Public Health Service Act [42 U.S.C. 300f et seq.] (relating to safe drinking water)."
 
 #### Safe Drinking Water Amendments of 1977 as Not Affecting Authority of Administrator With Respect to Contaminants ####
 
-Pub. L. 95–190, §3(e)(2), Nov. 16, 1977, 91 Stat. 1394, provided that: “Nothing in this Act [see Short Title of 1977 Amendment note set out under section 201 of this title] shall be construed to alter or affect the Administrator's authority or duty under title 14 of the Public Health Service Act [42 U.S.C. 300f et seq.] to promulgate regulations or take other action with respect to any contaminant.”
+Pub. L. 95–190, §3(e)(2), Nov. 16, 1977, 91 Stat. 1394, provided that: "Nothing in this Act [see Short Title of 1977 Amendment note set out under section 201 of this title] shall be construed to alter or affect the Administrator's authority or duty under title 14 of the Public Health Service Act [42 U.S.C. 300f et seq.] to promulgate regulations or take other action with respect to any contaminant."
 
 #### Rural Water Survey; Report to President and Congress; Authorization of Appropriations ####
 

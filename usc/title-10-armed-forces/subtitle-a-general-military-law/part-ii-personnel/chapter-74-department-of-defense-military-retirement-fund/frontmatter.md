@@ -18,4 +18,4 @@ Sec.
 
 #### Amendments ####
 
-**2008**—Pub. L. 110–181, div. A, title IX, §906(b)(1)(B), Jan. 28, 2008, 122 Stat. 277, struck out item 1464 “Board of Actuaries”.
+**2008**—Pub. L. 110–181, div. A, title IX, §906(b)(1)(B), Jan. 28, 2008, 122 Stat. 277, struck out item 1464 "Board of Actuaries".

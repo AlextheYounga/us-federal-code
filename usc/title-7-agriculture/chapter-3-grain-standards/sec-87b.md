@@ -96,55 +96,55 @@
 
 #### Amendments ####
 
-**2000**—Subsec. (e)(1). Pub. L. 106–472 inserted “, or prohibit disguising the quality of grain,” after “sound and pure grain” in introductory provisions.
+**2000**—Subsec. (e)(1). Pub. L. 106–472 inserted ", or prohibit disguising the quality of grain," after "sound and pure grain" in introductory provisions.
 
-**1994**—Subsecs. (a)(2), (13), (d)(2)(D), (E)(iii), (e)(1), (3) to (5). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
+**1994**—Subsecs. (a)(2), (13), (d)(2)(D), (E)(iii), (e)(1), (3) to (5). Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
 
-**1993**—Pub. L. 103–156, §12(l), which directed amendment of “Section 13”, without specifying the name of the Act being amended, was executed to this section, which is section 13 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+**1993**—Pub. L. 103–156, §12(l), which directed amendment of "Section 13", without specifying the name of the Act being amended, was executed to this section, which is section 13 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Subsec. (a)(2). Pub. L. 103–156, §12(l)(1), substituted “the representative of the Administrator” for “his representative”.
+Subsec. (a)(2). Pub. L. 103–156, §12(l)(1), substituted "the representative of the Administrator" for "his representative".
 
-Subsec. (a)(7), (8). Pub. L. 103–156, §12(l)(2), substituted “the duties of the officer, employee, or other person” for “his duties”.
+Subsec. (a)(7), (8). Pub. L. 103–156, §12(l)(2), substituted "the duties of the officer, employee, or other person" for "his duties".
 
-Subsec. (a)(9). Pub. L. 103–156, §12(l)(3), substituted “the person” for “he”.
+Subsec. (a)(9). Pub. L. 103–156, §12(l)(3), substituted "the person" for "he".
 
-Subsec. (a)(11). Pub. L. 103–156, §7, amended par. (11) generally. Prior to amendment, par. (11) read as follows: “violate any provision of section 77; 78; 79(f)(2), (3), or (4); 79a; 79b(c); 84; 87; 87a; or 87f–1 of this title;”.
+Subsec. (a)(11). Pub. L. 103–156, §7, amended par. (11) generally. Prior to amendment, par. (11) read as follows: "violate any provision of section 77; 78; 79(f)(2), (3), or (4); 79a; 79b(c); 84; 87; 87a; or 87f–1 of this title;".
 
 **1990**—Subsec. (e). Pub. L. 101–624 added subsec. (e).
 
 **1986**—Subsec. (d). Pub. L. 99–641 added subsec. (d).
 
-**1977**—Subsec. (a)(6). Pub. L. 95–113, §§1604(j)(1), 1606(h), substituted “or condition” for “condition, or quantity” and inserted “, or that any weighing service under this chapter has been performed with respect to grain” after “official inspection under this chapter”.
+**1977**—Subsec. (a)(6). Pub. L. 95–113, §§1604(j)(1), 1606(h), substituted "or condition" for "condition, or quantity" and inserted ", or that any weighing service under this chapter has been performed with respect to grain" after "official inspection under this chapter".
 
 Subsec. (a)(11). Pub. L. 95–113, §1604(j)(2), inserted references to sections 79(f)(3) and (4) and 87f–1 of this title.
 
-Subsec. (a)(12). Pub. L. 95–113, §1604(j)(3), substituted “weighing equipment” for “testing equipment”.
+Subsec. (a)(12). Pub. L. 95–113, §1604(j)(3), substituted "weighing equipment" for "testing equipment".
 
-Subsec. (a)(13). Pub. L. 95–113, §1604(j)(4), substituted “financial interest in grain” for “financial interest in the grain” and “loading of the grain” for “loading of grain”.
+Subsec. (a)(13). Pub. L. 95–113, §1604(j)(4), substituted "financial interest in grain" for "financial interest in the grain" and "loading of the grain" for "loading of grain".
 
-**1976**—Subsec. (a)(1). Pub. L. 94–582, §15(a)(1), substituted “official mark” for “official inspection mark”.
+**1976**—Subsec. (a)(1). Pub. L. 94–582, §15(a)(1), substituted "official mark" for "official inspection mark".
 
-Subsec. (a)(2). Pub. L. 94–582, §15(a)(2), substituted “official mark” for “official inspection mark” in three places, “official certificate” for “official inspection certificate” and “Administrator” for “Secretary”.
+Subsec. (a)(2). Pub. L. 94–582, §15(a)(2), substituted "official mark" for "official inspection mark" in three places, "official certificate" for "official inspection certificate" and "Administrator" for "Secretary".
 
 Subsec. (a)(3). Pub. L. 94–582, §15(a)(2), prohibited deceptive weighing of grain or submitting grain for official weighing or supervision of weighing knowing it has been deceptively weighed without disclosure before official weighing or supervision of weighing.
 
-Subsec. (a)(5). Pub. L. 94–582, §15(a)(3), substituted “official mark” for “official inspection mark” and inserted “or officially weighed, respectively,” after “such container”.
+Subsec. (a)(5). Pub. L. 94–582, §15(a)(3), substituted "official mark" for "official inspection mark" and inserted "or officially weighed, respectively," after "such container".
 
-Subsecs. (a)(7), (8). Pub. L. 94–582, §15(a)(4), inserted “or personnel of agencies delegated authority or of agencies or other persons designated under this chapter” after “personnel”.
+Subsecs. (a)(7), (8). Pub. L. 94–582, §15(a)(4), inserted "or personnel of agencies delegated authority or of agencies or other persons designated under this chapter" after "personnel".
 
-Subsec. (a)(9). Pub. L. 94–582, §15(a)(5), inserted “or official weighing or supervision of weighing” after “official inspection”.
+Subsec. (a)(9). Pub. L. 94–582, §15(a)(5), inserted "or official weighing or supervision of weighing" after "official inspection".
 
-Subsec. (a)(10). Pub. L. 94–582, §15(a)(5), (6), inserted “or official weighing or supervision of weighing” after “official inspection” and struck out “or” at end.
+Subsec. (a)(10). Pub. L. 94–582, §15(a)(5), (6), inserted "or official weighing or supervision of weighing" after "official inspection" and struck out "or" at end.
 
-Subsec. (a)(11). Pub. L. 94–582, §15(a)(5), inserted after “sections 77, 78,” references to “79(f)(2), 79a, 79b(c)”.
+Subsec. (a)(11). Pub. L. 94–582, §15(a)(5), inserted after "sections 77, 78," references to "79(f)(2), 79a, 79b(c)".
 
 Subsecs. (a)(12), (13). Pub. L. 94–582, §15(a)(6), added pars. (12) and (13).
 
-Subsec. (b)(2). Pub. L. 94–582, §15(b), substituted “inspection or weighing function” for “inspection function”.
+Subsec. (b)(2). Pub. L. 94–582, §15(b), substituted "inspection or weighing function" for "inspection function".
 
 #### Effective Date of 1986 Amendment ####
 
-Pub. L. 99–641, title III, §303(b), Nov. 10, 1986, 100 Stat. 3565, provided that: “The amendments made by this section [amending this section] shall become effective on May 1, 1987.”
+Pub. L. 99–641, title III, §303(b), Nov. 10, 1986, 100 Stat. 3565, provided that: "The amendments made by this section [amending this section] shall become effective on May 1, 1987."
 
 #### Effective Date of 1977 Amendment ####
 

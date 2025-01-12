@@ -14,7 +14,7 @@ In the case of any taxable year beginning after December 31, 2001, the aggregate
 
 #### (2) Qualified domestic corporation ####
 
-For purposes of paragraph (1), the term “qualified domestic corporation” means a domestic corporation—
+For purposes of paragraph (1), the term "qualified domestic corporation" means a domestic corporation—
 
 (A) which is an existing credit claimant with respect to Puerto Rico, and
 
@@ -102,11 +102,11 @@ This section shall apply to taxable years beginning after December 31, 1995, and
 
 **2000**—Subsecs. (f) to (h). Pub. L. 106–554 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-**1997**—Pub. L. 105–34 substituted “Puerto Rico” for “Puerto Rican” in section catchline.
+**1997**—Pub. L. 105–34 substituted "Puerto Rico" for "Puerto Rican" in section catchline.
 
 #### Effective Date of 2000 Amendment ####
 
-Pub. L. 106–554, §1(a)(7) [title III, §311(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–640, provided that: “Subsection (c) [not classified to the Code] and the amendments made by this section [amending this section and sections 280C and 857 of this title] shall take effect as if included in the provisions of the Ticket to Work and Work Incentives Improvement Act of 1999 [Pub. L. 106–170, see Tables for classification] to which they relate.”
+Pub. L. 106–554, §1(a)(7) [title III, §311(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–640, provided that: "Subsection (c) [not classified to the Code] and the amendments made by this section [amending this section and sections 280C and 857 of this title] shall take effect as if included in the provisions of the Ticket to Work and Work Incentives Improvement Act of 1999 [Pub. L. 106–170, see Tables for classification] to which they relate."
 
 #### Effective Date of 1997 Amendment ####
 
@@ -116,46 +116,46 @@ Amendment by Pub. L. 105–34 effective as if included in the provisions of the 
 
 Pub. L. 104–188, title I, §1601(c), Aug. 20, 1996, 110 Stat. 1833, provided that:
 
-“(1) In general.—Except as provided in paragraph (2), the amendments made by this section [enacting this section and amending sections 55, 56, 59, and 936 of this title] shall apply to taxable years beginning after December 31, 1995.
+"(1) In general.—Except as provided in paragraph (2), the amendments made by this section [enacting this section and amending sections 55, 56, 59, and 936 of this title] shall apply to taxable years beginning after December 31, 1995.
 
-“(2) Special rule for qualified possession source investment income.—The amendments made by this section shall not apply to qualified possession source investment income received or accrued before July 1, 1996, without regard to the taxable year in which received or accrued.
+"(2) Special rule for qualified possession source investment income.—The amendments made by this section shall not apply to qualified possession source investment income received or accrued before July 1, 1996, without regard to the taxable year in which received or accrued.
 
-“(3) Special transition rule for payment of estimated tax installment.—In determining the amount of any installment due under section 6655 of the Internal Revenue Code of 1986 after the date of the enactment of this Act [Aug. 20, 1996] and before October 1, 1996, only ½ of any increase in tax (for the taxable year for which such installment is made) by reason of the amendments made by subsections (a) and (b) [enacting this section and amending sections 55, 56, 59, and 936 of this title] shall be taken into account. Any reduction in such installment by reason of the preceding sentence shall be recaptured by increasing the next required installment for such year by the amount of such reduction.”
+"(3) Special transition rule for payment of estimated tax installment.—In determining the amount of any installment due under section 6655 of the Internal Revenue Code of 1986 after the date of the enactment of this Act [Aug. 20, 1996] and before October 1, 1996, only ½ of any increase in tax (for the taxable year for which such installment is made) by reason of the amendments made by subsections (a) and (b) [enacting this section and amending sections 55, 56, 59, and 936 of this title] shall be taken into account. Any reduction in such installment by reason of the preceding sentence shall be recaptured by increasing the next required installment for such year by the amount of such reduction."
 
 #### American Samoa Economic Development Credit ####
 
 Pub. L. 109–432, div. A, title I, §119, Dec. 20, 2006, 120 Stat. 2942, as amended by Pub. L. 110–343, div. C, title III, §309(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §756(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, §330(a), (b), Jan. 2, 2013, 126 Stat. 2335, provided that:
 
-“(a) In General.—For purposes of section 30A of the Internal Revenue Code of 1986, a domestic corporation shall be treated as a qualified domestic corporation to which such section applies if—
+"(a) In General.—For purposes of section 30A of the Internal Revenue Code of 1986, a domestic corporation shall be treated as a qualified domestic corporation to which such section applies if—
 
-“(1) in the case of a taxable year beginning before January 1, 2012, such corporation—
+"(1) in the case of a taxable year beginning before January 1, 2012, such corporation—
 
-“(A) is an existing credit claimant with respect to American Samoa, and
+"(A) is an existing credit claimant with respect to American Samoa, and
 
-“(B) elected the application of section 936 of the Internal Revenue Code of 1986 for its last taxable year beginning before January 1, 2006, and
+"(B) elected the application of section 936 of the Internal Revenue Code of 1986 for its last taxable year beginning before January 1, 2006, and
 
-“(2) in the case of a taxable year beginning after December 31, 2011, such corporation meets the requirements of subsection (e).
+"(2) in the case of a taxable year beginning after December 31, 2011, such corporation meets the requirements of subsection (e).
 
-“(b) Special Rules for Application of Section.—The following rules shall apply in applying section 30A of the Internal Revenue Code of 1986 for purposes of this section:
+"(b) Special Rules for Application of Section.—The following rules shall apply in applying section 30A of the Internal Revenue Code of 1986 for purposes of this section:
 
-“(1) Amount of credit.—Notwithstanding section 30A(a)(1) of such Code, the amount of the credit determined under section 30A(a)(1) of such Code for any taxable year shall be the amount determined under section 30A(d) of such Code, except that section 30A(d) shall be applied without regard to paragraph (3) thereof.
+"(1) Amount of credit.—Notwithstanding section 30A(a)(1) of such Code, the amount of the credit determined under section 30A(a)(1) of such Code for any taxable year shall be the amount determined under section 30A(d) of such Code, except that section 30A(d) shall be applied without regard to paragraph (3) thereof.
 
-“(2) Separate application.—In applying section 30A(a)(3) of such Code in the case of a corporation treated as a qualified domestic corporation by reason of this section, section 30A of such Code (and so much of section 936 of such Code as relates to such section 30A) shall be applied separately with respect to American Samoa.
+"(2) Separate application.—In applying section 30A(a)(3) of such Code in the case of a corporation treated as a qualified domestic corporation by reason of this section, section 30A of such Code (and so much of section 936 of such Code as relates to such section 30A) shall be applied separately with respect to American Samoa.
 
-“(3) Foreign tax credit allowed.—Notwithstanding section 30A(e) of such Code, the provisions of section 936(c) of such Code shall not apply with respect to the credit allowed by reason of this section.
+"(3) Foreign tax credit allowed.—Notwithstanding section 30A(e) of such Code, the provisions of section 936(c) of such Code shall not apply with respect to the credit allowed by reason of this section.
 
-“(c) Definitions.—For purposes of this section, any term which is used in this section which is also used in section 30A or 936 of such Code shall have the same meaning given such term by such section 30A or 936.
+"(c) Definitions.—For purposes of this section, any term which is used in this section which is also used in section 30A or 936 of such Code shall have the same meaning given such term by such section 30A or 936.
 
-“(d) Application of Section.—Notwithstanding section 30A(h) or section 936(j) of such Code, this section (and so much of section 30A and section 936 of such Code as relates to this section) shall apply—
+"(d) Application of Section.—Notwithstanding section 30A(h) or section 936(j) of such Code, this section (and so much of section 30A and section 936 of such Code as relates to this section) shall apply—
 
-“(1) in the case of a corporation that meets the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 8 taxable years of such corporation which begin after December 31, 2006, and before January 1, 2014, and
+"(1) in the case of a corporation that meets the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 8 taxable years of such corporation which begin after December 31, 2006, and before January 1, 2014, and
 
-“(2) in the case of a corporation that does not meet the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 2 taxable years of such corporation which begin after December 31, 2011, and before January 1, 2014.
+"(2) in the case of a corporation that does not meet the requirements of subparagraphs (A) and (B) of subsection (a)(1), to the first 2 taxable years of such corporation which begin after December 31, 2011, and before January 1, 2014.
 
-“(e) Qualified Production Activities Income Requirement.—A corporation meets the requirement of this subsection if such corporation has qualified production activities income, as defined in subsection (c) of section 199 of the Internal Revenue Code of 1986, determined by substituting ‘American Samoa’ for ‘the United States’ each place it appears in paragraphs (3), (4), and (6) of such subsection (c), for the taxable year.”
+"(e) Qualified Production Activities Income Requirement.—A corporation meets the requirement of this subsection if such corporation has qualified production activities income, as defined in subsection (c) of section 199 of the Internal Revenue Code of 1986, determined by substituting 'American Samoa' for 'the United States' each place it appears in paragraphs (3), (4), and (6) of such subsection (c), for the taxable year."
 
-[Pub. L. 112–240, title III, §330(c), Jan. 2, 2013, 126 Stat. 2335, provided that: “The amendments made by this section [amending section 119 of Pub. L. 109–432, set out above] shall apply to taxable years beginning after December 31, 2011.”]
+[Pub. L. 112–240, title III, §330(c), Jan. 2, 2013, 126 Stat. 2335, provided that: "The amendments made by this section [amending section 119 of Pub. L. 109–432, set out above] shall apply to taxable years beginning after December 31, 2011."]
 
-[Pub. L. 111–312, title VII, §756(b), Dec. 17, 2010, 124 Stat. 3322, provided that: “The amendments made by this section [amending section 119 of Pub. L. 109–432, set out above] shall apply to taxable years beginning after December 31, 2009.”]
+[Pub. L. 111–312, title VII, §756(b), Dec. 17, 2010, 124 Stat. 3322, provided that: "The amendments made by this section [amending section 119 of Pub. L. 109–432, set out above] shall apply to taxable years beginning after December 31, 2009."]
 
-[Pub. L. 110–343, div. C, title III, §309(b), Oct. 3, 2008, 122 Stat. 3869, provided that: “The amendments made by this section [amending section 119 of Pub. L. 109–432, set out above] shall apply to taxable years beginning after December 31, 2007.”]
+[Pub. L. 110–343, div. C, title III, §309(b), Oct. 3, 2008, 122 Stat. 3869, provided that: "The amendments made by this section [amending section 119 of Pub. L. 109–432, set out above] shall apply to taxable years beginning after December 31, 2007."]

@@ -92,7 +92,7 @@ With respect to a redetermination insofar as it results in a denial of a claim f
 
 #### (A) Reconsideration of initial determination ####
 
-Subject to subparagraph (D), any individual dissatisfied with any initial determination under subsection (a)(1) of this section shall be entitled to reconsideration of the determination, and, subject to subparagraphs (D) and (E), a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title and, subject to paragraph (2), to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title. For purposes of the preceding sentence, any reference to the “Commissioner of Social Security” or the “Social Security Administration” in subsection (g) or (l) of section 405 of this title shall be considered a reference to the “Secretary” or the “Department of Health and Human Services”, respectively.
+Subject to subparagraph (D), any individual dissatisfied with any initial determination under subsection (a)(1) of this section shall be entitled to reconsideration of the determination, and, subject to subparagraphs (D) and (E), a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title and, subject to paragraph (2), to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title. For purposes of the preceding sentence, any reference to the "Commissioner of Social Security" or the "Social Security Administration" in subsection (g) or (l) of section 405 of this title shall be considered a reference to the "Secretary" or the "Department of Health and Human Services", respectively.
 
 #### (B) Representation by provider or supplier ####
 
@@ -204,7 +204,7 @@ Where a provider of services or supplier is granted judicial review pursuant to 
 
 #### (D) Review entity defined ####
 
-For purposes of this subsection, the term “review entity” means an entity of up to three reviewers who are administrative law judges or members of the Departmental Appeals Board selected for purposes of making determinations under this paragraph.
+For purposes of this subsection, the term "review entity" means an entity of up to three reviewers who are administrative law judges or members of the Departmental Appeals Board selected for purposes of making determinations under this paragraph.
 
 #### (3) Requiring full and early presentation of evidence by providers ####
 
@@ -218,7 +218,7 @@ The Secretary shall enter into contracts with qualified independent contractors 
 
 #### (2) Qualified independent contractor ####
 
-For purposes of this subsection, the term “qualified independent contractor” means an entity or organization that is independent of any organization under contract with the Secretary that makes initial determinations under subsection (a)(1) of this section, and that meets the requirements established by the Secretary consistent with paragraph (3).
+For purposes of this subsection, the term "qualified independent contractor" means an entity or organization that is independent of any organization under contract with the Secretary that makes initial determinations under subsection (a)(1) of this section, and that meets the requirements established by the Secretary consistent with paragraph (3).
 
 #### (3) Requirements ####
 
@@ -444,7 +444,7 @@ Review of any national coverage determination shall be subject to the following 
 
 #### (B) Definition of national coverage determination ####
 
-For purposes of this section, the term “national coverage determination” means a determination by the Secretary with respect to whether or not a particular item or service is covered nationally under this subchapter, but does not include a determination of what code, if any, is assigned to a particular item or service covered under this subchapter or a determination with respect to the amount of payment made for a particular item or service so covered.
+For purposes of this section, the term "national coverage determination" means a determination by the Secretary with respect to whether or not a particular item or service is covered nationally under this subchapter, but does not include a determination of what code, if any, is assigned to a particular item or service covered under this subchapter or a determination with respect to the amount of payment made for a particular item or service so covered.
 
 #### (2) Local coverage determination ####
 
@@ -468,7 +468,7 @@ Review of any local coverage determination shall be subject to the following lim
 
 #### (B) Definition of local coverage determination ####
 
-For purposes of this section, the term “local coverage determination” means a determination by a fiscal intermediary or a carrier under part A of this subchapter or part B of this subchapter, as applicable, respecting whether or not a particular item or service is covered on an intermediary- or carrier-wide basis under such parts, in accordance with section 1395y(a)(1)(A) of this title.
+For purposes of this section, the term "local coverage determination" means a determination by a fiscal intermediary or a carrier under part A of this subchapter or part B of this subchapter, as applicable, respecting whether or not a particular item or service is covered on an intermediary- or carrier-wide basis under such parts, in accordance with section 1395y(a)(1)(A) of this title.
 
 #### (C) Local coverage determinations for clinical diagnostic laboratory tests ####
 
@@ -538,7 +538,7 @@ In reviewing determinations under this section, a qualified independent contract
 
 (B) compensation provided by the contractor to each such reviewer is consistent with paragraph (3); and
 
-(C) in the case of a review by a panel described in subsection (c)(3)(B) of this section composed of physicians or other health care professionals (each in this subsection referred to as a “reviewing professional”), a reviewing professional meets the qualifications described in paragraph (4) and, where a claim is regarding the furnishing of treatment by a physician (allopathic or osteopathic) or the provision of items or services by a physician (allopathic or osteopathic), a reviewing professional shall be a physician (allopathic or osteopathic).
+(C) in the case of a review by a panel described in subsection (c)(3)(B) of this section composed of physicians or other health care professionals (each in this subsection referred to as a "reviewing professional"), a reviewing professional meets the qualifications described in paragraph (4) and, where a claim is regarding the furnishing of treatment by a physician (allopathic or osteopathic) or the provision of items or services by a physician (allopathic or osteopathic), a reviewing professional shall be a physician (allopathic or osteopathic).
 
 #### (2) Independence ####
 
@@ -568,7 +568,7 @@ Nothing in subparagraph (A) shall be construed to—
 
 (iii) prohibit receipt of compensation by a reviewing professional from a contractor if the compensation is provided consistent with paragraph (3).
 
-For purposes of this paragraph, the term “participation agreement” means an agreement relating to the provision of health care services by the individual and does not include the provision of services as a reviewer under this subsection.
+For purposes of this paragraph, the term "participation agreement" means an agreement relating to the provision of health care services by the individual and does not include the provision of services as a reviewer under this subsection.
 
 #### (3) Limitations on reviewer compensation ####
 
@@ -584,7 +584,7 @@ Each reviewing professional shall be—
 
 #### (5) Related party defined ####
 
-For purposes of this section, the term “related party” means, with respect to a case under this subchapter involving a specific individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, any of the following:
+For purposes of this section, the term "related party" means, with respect to a case under this subchapter involving a specific individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, any of the following:
 
 (A) The Secretary, the medicare administrative contractor involved, or any fiduciary, officer, director, or employee of the Department of Health and Human Services, or of such contractor.
 
@@ -604,29 +604,29 @@ For purposes of this section, the term “related party” means, with respect t
 
 #### (A) In general ####
 
-With respect to a medicare administrative contractor that has a contract under section 1395kk–1 of this title that provides for making payments under this subchapter with respect to physicians’ services (as defined in section 1395w–4(j)(3) of this title), the Secretary shall establish a prior determination process that meets the requirements of this subsection and that shall be applied by such contractor in the case of eligible requesters.
+With respect to a medicare administrative contractor that has a contract under section 1395kk–1 of this title that provides for making payments under this subchapter with respect to physicians' services (as defined in section 1395w–4(j)(3) of this title), the Secretary shall establish a prior determination process that meets the requirements of this subsection and that shall be applied by such contractor in the case of eligible requesters.
 
 #### (B) Eligible requester ####
 
 For purposes of this subsection, each of the following shall be an eligible requester:
 
-(i) A participating physician, but only with respect to physicians’ services to be furnished to an individual who is entitled to benefits under this subchapter and who has consented to the physician making the request under this subsection for those physicians’ services.
+(i) A participating physician, but only with respect to physicians' services to be furnished to an individual who is entitled to benefits under this subchapter and who has consented to the physician making the request under this subsection for those physicians' services.
 
-(ii) An individual entitled to benefits under this subchapter, but only with respect to a physicians’ service for which the individual receives, from a physician, an advance beneficiary notice under section 1395pp(a) of this title.
+(ii) An individual entitled to benefits under this subchapter, but only with respect to a physicians' service for which the individual receives, from a physician, an advance beneficiary notice under section 1395pp(a) of this title.
 
 #### (2) Secretarial flexibility ####
 
-The Secretary shall establish by regulation reasonable limits on the physicians’ services for which a prior determination of coverage may be requested under this subsection. In establishing such limits, the Secretary may consider the dollar amount involved with respect to the physicians’ service, administrative costs and burdens, and other relevant factors.
+The Secretary shall establish by regulation reasonable limits on the physicians' services for which a prior determination of coverage may be requested under this subsection. In establishing such limits, the Secretary may consider the dollar amount involved with respect to the physicians' service, administrative costs and burdens, and other relevant factors.
 
 #### (3) Request for prior determination ####
 
 #### (A) In general ####
 
-Subject to paragraph (2), under the process established under this subsection an eligible requester may submit to the contractor a request for a determination, before the furnishing of a physicians’ service, as to whether the physicians’ service is covered under this subchapter consistent with the applicable requirements of section 1395y(a)(1)(A) of this title (relating to medical necessity).
+Subject to paragraph (2), under the process established under this subsection an eligible requester may submit to the contractor a request for a determination, before the furnishing of a physicians' service, as to whether the physicians' service is covered under this subchapter consistent with the applicable requirements of section 1395y(a)(1)(A) of this title (relating to medical necessity).
 
 #### (B) Accompanying documentation ####
 
-The Secretary may require that the request be accompanied by a description of the physicians’ service, supporting documentation relating to the medical necessity for the physicians’ service, and any other appropriate documentation. In the case of a request submitted by an eligible requester who is described in paragraph (1)(B)(ii), the Secretary may require that the request also be accompanied by a copy of the advance beneficiary notice involved.
+The Secretary may require that the request be accompanied by a description of the physicians' service, supporting documentation relating to the medical necessity for the physicians' service, and any other appropriate documentation. In the case of a request submitted by an eligible requester who is described in paragraph (1)(B)(ii), the Secretary may require that the request also be accompanied by a copy of the advance beneficiary notice involved.
 
 #### (4) Response to request ####
 
@@ -634,11 +634,11 @@ The Secretary may require that the request be accompanied by a description of th
 
 Under such process, the contractor shall provide the eligible requester with written notice of a determination as to whether—
 
-(i) the physicians’ service is so covered;
+(i) the physicians' service is so covered;
 
-(ii) the physicians’ service is not so covered; or
+(ii) the physicians' service is not so covered; or
 
-(iii) the contractor lacks sufficient information to make a coverage determination with respect to the physicians’ service.
+(iii) the contractor lacks sufficient information to make a coverage determination with respect to the physicians' service.
 
 #### (B) Contents of notice for certain determinations ####
 
@@ -656,7 +656,7 @@ Such notice shall be provided within the same time period as the time period app
 
 #### (D) Informing beneficiary in case of physician request ####
 
-In the case of a request by a participating physician under paragraph (1)(B)(i), the process shall provide that the individual to whom the physicians’ service is proposed to be furnished shall be informed of any determination described in subparagraph (A)(ii) (relating to a determination of non-coverage) and the right (referred to in paragraph (6)(B)) to obtain the physicians’ service and have a claim submitted for the physicians’ service.
+In the case of a request by a participating physician under paragraph (1)(B)(i), the process shall provide that the individual to whom the physicians' service is proposed to be furnished shall be informed of any determination described in subparagraph (A)(ii) (relating to a determination of non-coverage) and the right (referred to in paragraph (6)(B)) to obtain the physicians' service and have a claim submitted for the physicians' service.
 
 #### (5) Binding nature of positive determination ####
 
@@ -672,15 +672,15 @@ Contractor determinations described in paragraph (4)(A)(ii) or (4)(A)(iii) (rela
 
 Nothing in this subsection shall be construed as affecting the right of an individual who—
 
-(i) decides not to seek a prior determination under this subsection with respect to physicians’ services; or
+(i) decides not to seek a prior determination under this subsection with respect to physicians' services; or
 
 (ii) seeks such a determination and has received a determination described in paragraph (4)(A)(ii),
 
-from receiving (and submitting a claim for) such physicians’ services and from obtaining administrative or judicial review respecting such claim under the other applicable provisions of this section. Failure to seek a prior determination under this subsection with respect to physicians’ service shall not be taken into account in such administrative or judicial review.
+from receiving (and submitting a claim for) such physicians' services and from obtaining administrative or judicial review respecting such claim under the other applicable provisions of this section. Failure to seek a prior determination under this subsection with respect to physicians' service shall not be taken into account in such administrative or judicial review.
 
 #### (C) No prior determination after receipt of services ####
 
-Once an individual is provided physicians’ services, there shall be no prior determination under this subsection with respect to such physicians’ services.
+Once an individual is provided physicians' services, there shall be no prior determination under this subsection with respect to such physicians' services.
 
 #### (i) Mediation process for local coverage determinations ####
 
@@ -698,55 +698,55 @@ Under the process established in paragraph (1), such a mediator shall mediate in
 
 **2014**—Subsec. (f)(2)(C). Pub. L. 113–93 added subpar. (C).
 
-**2011**—Subsec. (a)(1)(C). Pub. L. 112–40, §261(a)(3)(A), substituted “quality improvement” for “utilization and quality control peer review”.
+**2011**—Subsec. (a)(1)(C). Pub. L. 112–40, §261(a)(3)(A), substituted "quality improvement" for "utilization and quality control peer review".
 
-Subsec. (c)(3)(G). Pub. L. 112–40, §261(a)(3)(F), substituted “quality improvement organizations” for “peer review organizations”.
+Subsec. (c)(3)(G). Pub. L. 112–40, §261(a)(3)(F), substituted "quality improvement organizations" for "peer review organizations".
 
-**2003**—Subsec. (a)(3)(C)(ii). Pub. L. 108–173, §940(a)(1), substituted “60-day period” for “30-day period” in two places.
+**2003**—Subsec. (a)(3)(C)(ii). Pub. L. 108–173, §940(a)(1), substituted "60-day period" for "30-day period" in two places.
 
 Subsec. (a)(4), (5). Pub. L. 108–173, §933(c)(1), added pars. (4) and (5).
 
-Subsec. (b)(1)(A). Pub. L. 108–173, §932(a)(1)(A), inserted “, subject to paragraph (2),” before “to judicial review of the Secretary's final decision”.
+Subsec. (b)(1)(A). Pub. L. 108–173, §932(a)(1)(A), inserted ", subject to paragraph (2)," before "to judicial review of the Secretary's final decision".
 
 Subsec. (b)(1)(E)(iii). Pub. L. 108–173, §940(b)(1), added cl. (iii).
 
-Subsec. (b)(1)(F)(ii). Pub. L. 108–173, §932(a)(2), amended heading and text of cl. (ii) generally. Prior to amendment, text read as follows: “In a hearing by the Secretary under this section, in which the moving party alleges that no material issues of fact are in dispute, the Secretary shall make an expedited determination as to whether any such facts are in dispute and, if not, shall render a decision expeditiously.”
+Subsec. (b)(1)(F)(ii). Pub. L. 108–173, §932(a)(2), amended heading and text of cl. (ii) generally. Prior to amendment, text read as follows: "In a hearing by the Secretary under this section, in which the moving party alleges that no material issues of fact are in dispute, the Secretary shall make an expedited determination as to whether any such facts are in dispute and, if not, shall render a decision expeditiously."
 
 Subsec. (b)(2). Pub. L. 108–173, §932(a)(1)(B), added par. (2).
 
 Subsec. (b)(3). Pub. L. 108–173, §933(a)(1), added par. (3).
 
-Subsec. (c)(3)(A). Pub. L. 108–173, §933(d)(1)(A), substituted “sufficient medical, legal, and other expertise (including knowledge of the program under this subchapter) and sufficient staffing” for “sufficient training and expertise in medical science and legal matters”.
+Subsec. (c)(3)(A). Pub. L. 108–173, §933(d)(1)(A), substituted "sufficient medical, legal, and other expertise (including knowledge of the program under this subchapter) and sufficient staffing" for "sufficient training and expertise in medical science and legal matters".
 
-Subsec. (c)(3)(B)(i). Pub. L. 108–173, §933(b), inserted “(including the medical records of the individual involved)” after “clinical experience”.
+Subsec. (c)(3)(B)(i). Pub. L. 108–173, §933(b), inserted "(including the medical records of the individual involved)" after "clinical experience".
 
-Subsec. (c)(3)(C)(i). Pub. L. 108–173, §940(a)(2), substituted “60-day period” for “30-day period”.
+Subsec. (c)(3)(C)(i). Pub. L. 108–173, §940(a)(2), substituted "60-day period" for "30-day period".
 
 Subsec. (c)(3)(D). Pub. L. 108–173, §933(d)(2)(A), amended heading and text of subpar. (D) generally, substituting provisions directing that subsec. (g) requirements be met for provisions prohibiting a physician or health care professional from reviewing a determination where such physician or health care professional had been directly responsible for furnishing services or had had a significant financial interest in the institution, organization, or agency which provided the services.
 
-Subsec. (c)(3)(E). Pub. L. 108–173, §933(c)(2), inserted “be written in a manner calculated to be understood by the individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, and shall include (to the extent appropriate)” after “in writing,” and “and a notification of the right to appeal such determination and instructions on how to initiate such appeal under this section” after “such decision,”.
+Subsec. (c)(3)(E). Pub. L. 108–173, §933(c)(2), inserted "be written in a manner calculated to be understood by the individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, and shall include (to the extent appropriate)" after "in writing," and "and a notification of the right to appeal such determination and instructions on how to initiate such appeal under this section" after "such decision,".
 
-Subsec. (c)(3)(I)(ii)(III). Pub. L. 108–173, §948(b)(1)(A), substituted “determination” for “policy”.
+Subsec. (c)(3)(I)(ii)(III). Pub. L. 108–173, §948(b)(1)(A), substituted "determination" for "policy".
 
-Subsec. (c)(3)(I)(ii)(IV). Pub. L. 108–173, §948(b)(1)(B), substituted “coverage determinations” for “medical review policies”.
+Subsec. (c)(3)(I)(ii)(IV). Pub. L. 108–173, §948(b)(1)(B), substituted "coverage determinations" for "medical review policies".
 
-Subsec. (c)(3)(J)(i). Pub. L. 108–173, §933(c)(4), substituted “submit” for “prepare” and struck out “with respect to a reconsideration to the Secretary for a hearing, including as necessary, explanations of issues involved in the decision and relevant policies” after “decision of the contractor”.
+Subsec. (c)(3)(J)(i). Pub. L. 108–173, §933(c)(4), substituted "submit" for "prepare" and struck out "with respect to a reconsideration to the Secretary for a hearing, including as necessary, explanations of issues involved in the decision and relevant policies" after "decision of the contractor".
 
 Subsec. (c)(3)(K). Pub. L. 108–173, §933(d)(1)(B), added subpar. (K).
 
-Subsec. (c)(4). Pub. L. 108–173, §933(d)(3), substituted “a sufficient number of qualified independent contractors (but not fewer than 4 such contractors) to conduct reconsiderations consistent with the timeframes applicable under this subsection” for “not fewer than 12 qualified independent contractors under this subsection”.
+Subsec. (c)(4). Pub. L. 108–173, §933(d)(3), substituted "a sufficient number of qualified independent contractors (but not fewer than 4 such contractors) to conduct reconsiderations consistent with the timeframes applicable under this subsection" for "not fewer than 12 qualified independent contractors under this subsection".
 
-Subsec. (d). Pub. L. 108–173, §933(c)(3)(A), inserted “; notice” after “Secretary” in heading.
+Subsec. (d). Pub. L. 108–173, §933(c)(3)(A), inserted "; notice" after "Secretary" in heading.
 
 Subsec. (d)(4). Pub. L. 108–173, §933(c)(3)(B), added par. (4).
 
-Subsec. (f)(2)(A)(i). Pub. L. 108–173, §931(d), struck out “of the Social Security Administration” after “an administrative law judge” in introductory provisions.
+Subsec. (f)(2)(A)(i). Pub. L. 108–173, §931(d), struck out "of the Social Security Administration" after "an administrative law judge" in introductory provisions.
 
-Subsec. (f)(4)(A)(iv). Pub. L. 108–173, §948(c)(1), substituted “clause (i), (ii), or (iii)” for “subclause (I), (II), or (III)”.
+Subsec. (f)(4)(A)(iv). Pub. L. 108–173, §948(c)(1), substituted "clause (i), (ii), or (iii)" for "subclause (I), (II), or (III)".
 
-Subsec. (f)(4)(B). Pub. L. 108–173, §948(c)(2), substituted “subparagraph (A)(iv)” for “clause (i)(IV)” and “subparagraph (A)(iii)” for “clause (i)(III)”.
+Subsec. (f)(4)(B). Pub. L. 108–173, §948(c)(2), substituted "subparagraph (A)(iv)" for "clause (i)(IV)" and "subparagraph (A)(iii)" for "clause (i)(III)".
 
-Subsec. (f)(4)(C). Pub. L. 108–173, §948(c)(3), substituted “subparagraph (A)” for “clause (i)” in two places, “clause (iv)” for “subclause (IV)”, and “paragraph (1)(A)” for “subparagraph (A)”.
+Subsec. (f)(4)(C). Pub. L. 108–173, §948(c)(3), substituted "subparagraph (A)" for "clause (i)" in two places, "clause (iv)" for "subclause (IV)", and "paragraph (1)(A)" for "subparagraph (A)".
 
 Subsec. (g). Pub. L. 108–173, §933(d)(2)(B), added subsec. (g).
 
@@ -758,35 +758,35 @@ Subsec. (i). Pub. L. 108–173, §940A(a), added subsec. (i).
 
 Subsec. (f). Pub. L. 106–554, §1(a)(6) [title V, §522(a)], added subsec. (f).
 
-**1997**—Subsec. (b)(2)(B). Pub. L. 105–33 inserted “(or $100 in the case of home health services)” after “$500”.
+**1997**—Subsec. (b)(2)(B). Pub. L. 105–33 inserted "(or $100 in the case of home health services)" after "$500".
 
-**1994**—Subsec. (b)(1). Pub. L. 103–296 inserted “, except that, in so applying such sections and in applying section 405(l) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively” after “section 405(g) of this title” in closing provisions.
+**1994**—Subsec. (b)(1). Pub. L. 103–296 inserted ", except that, in so applying such sections and in applying section 405(l) of this title thereto, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively" after "section 405(g) of this title" in closing provisions.
 
-**1987**—Subsec. (a). Pub. L. 100–203, §4085(i)(18), inserted “or a claim for benefits with respect to home health services under part B of this subchapter” before “shall”.
+**1987**—Subsec. (a). Pub. L. 100–203, §4085(i)(18), inserted "or a claim for benefits with respect to home health services under part B of this subchapter" before "shall".
 
-Subsec. (b)(2). Pub. L. 100–203, §4085(i)(19), inserted “and (1)(D)” after “paragraph (1)(C)” in two places.
+Subsec. (b)(2). Pub. L. 100–203, §4085(i)(19), inserted "and (1)(D)" after "paragraph (1)(C)" in two places.
 
-Subsec. (b)(3)(B). Pub. L. 100–203, §4082(a), substituted “section 553” for “chapter 5”.
+Subsec. (b)(3)(B). Pub. L. 100–203, §4082(a), substituted "section 553" for "chapter 5".
 
 Subsec. (b)(5). Pub. L. 100–203, §4082(b), added par. (5).
 
-Subsec. (c). Pub. L. 100–93 struck out subsec. (c) which read as follows: “Any institution or agency dissatisfied with any determination by the Secretary that it is not a provider of services, or with any determination described in section 1395cc(b)(2) of this title, shall be entitled to a hearing thereon by the Secretary (after reasonable notice and opportunity for hearing) to the same extent as is provided in section 405(b) of this title, and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title.”
+Subsec. (c). Pub. L. 100–93 struck out subsec. (c) which read as follows: "Any institution or agency dissatisfied with any determination by the Secretary that it is not a provider of services, or with any determination described in section 1395cc(b)(2) of this title, shall be entitled to a hearing thereon by the Secretary (after reasonable notice and opportunity for hearing) to the same extent as is provided in section 405(b) of this title, and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title."
 
-**1986**—Subsec. (a). Pub. L. 99–509, §9341(a)(1)(A), inserted “or part B” after “amount of benefits under part A”.
+**1986**—Subsec. (a). Pub. L. 99–509, §9341(a)(1)(A), inserted "or part B" after "amount of benefits under part A".
 
-Pub. L. 99–509, §9313(b)(1)(A), inserted “and any other determination with respect to a claim for benefits under part A of this subchapter” before “shall”.
+Pub. L. 99–509, §9313(b)(1)(A), inserted "and any other determination with respect to a claim for benefits under part A of this subchapter" before "shall".
 
-Subsec. (b)(1). Pub. L. 99–509, §9313(a)(1), in concluding provisions, inserted at end “Sections 406(a), 1302, and 1395hh of this title shall not be construed as authorizing the Secretary to prohibit an individual from being represented under this subsection by a person that furnishes or supplies the individual, directly or indirectly, with services or items solely on the basis that the person furnishes or supplies the individual with such a service or item. Any person that furnishes services or items to an individual may not represent an individual under this subsection with respect to the issue described in section 1395pp(a)(2) of this title unless the person has waived any rights for payment from the beneficiary with respect to the services or items involved in the appeal. If a person furnishes services or items to an individual and represents the individual under this subsection, the person may not impose any financial liability on such individual in connection with such representation.”
+Subsec. (b)(1). Pub. L. 99–509, §9313(a)(1), in concluding provisions, inserted at end "Sections 406(a), 1302, and 1395hh of this title shall not be construed as authorizing the Secretary to prohibit an individual from being represented under this subsection by a person that furnishes or supplies the individual, directly or indirectly, with services or items solely on the basis that the person furnishes or supplies the individual with such a service or item. Any person that furnishes services or items to an individual may not represent an individual under this subsection with respect to the issue described in section 1395pp(a)(2) of this title unless the person has waived any rights for payment from the beneficiary with respect to the services or items involved in the appeal. If a person furnishes services or items to an individual and represents the individual under this subsection, the person may not impose any financial liability on such individual in connection with such representation."
 
-Subsec. (b)(1)(C). Pub. L. 99–509, §9341(a)(1)(B), inserted “or part B”.
+Subsec. (b)(1)(C). Pub. L. 99–509, §9341(a)(1)(B), inserted "or part B".
 
 Subsec. (b)(1)(D). Pub. L. 99–509, §9313(b)(1)(B), added subpar. (D).
 
-Subsec. (b)(2). Pub. L. 99–509, §9341(a)(1)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Notwithstanding the provisions of subparagraph (C) of paragraph (1) of this subsection, a hearing shall not be available to an individual by reason of such subparagraph (C) if the amount in controversy is less than $100; nor shall judicial review be available to an individual by reason of such subparagraph (C) if the amount in controversy is less than $1,000.”
+Subsec. (b)(2). Pub. L. 99–509, §9341(a)(1)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Notwithstanding the provisions of subparagraph (C) of paragraph (1) of this subsection, a hearing shall not be available to an individual by reason of such subparagraph (C) if the amount in controversy is less than $100; nor shall judicial review be available to an individual by reason of such subparagraph (C) if the amount in controversy is less than $1,000."
 
 Subsec. (b)(3), (4). Pub. L. 99–509, §9341(a)(1)(D), added pars. (3) and (4).
 
-**1984**—Subsec. (b)(1)(B). Pub. L. 98–369 struck out the comma before “or section 1395i–2” and struck out “, or section 1819” after “section 1395i–2 of this title”.
+**1984**—Subsec. (b)(1)(B). Pub. L. 98–369 struck out the comma before "or section 1395i–2" and struck out ", or section 1819" after "section 1395i–2 of this title".
 
 **1972**—Subsec. (b). Pub. L. 92–603 redesignated existing provisions as par. (1), generally amended conditions under which a dissatisfied individual shall be entitled to a hearing by Secretary and to judicial review of final decision of Secretary after such hearing, and added par. (2).
 
@@ -802,19 +802,19 @@ Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on
 
 Amendment by section 932(a) of Pub. L. 108–173 applicable to appeals filed on or after Oct. 1, 2004, see section 932(d) of Pub. L. 108–173, set out as a note under section 1395i–3 of this title.
 
-Pub. L. 108–173, title IX, §933(a)(2), Dec. 8, 2003, 117 Stat. 2402, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on October 1, 2004.”
+Pub. L. 108–173, title IX, §933(a)(2), Dec. 8, 2003, 117 Stat. 2402, provided that: "The amendment made by paragraph (1) [amending this section] shall take effect on October 1, 2004."
 
-Pub. L. 108–173, title IX, §933(d)(4), Dec. 8, 2003, 117 Stat. 2406, provided that: “The amendments made by paragraphs (1) and (2) [amending this section] shall be effective as if included in the enactment of the respective provisions of subtitle C of title V of BIPA [the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, H.R. 5661, as enacted by section 1(a)(6) of Public Law 106–554] (114 Stat. 2763A–534).”
+Pub. L. 108–173, title IX, §933(d)(4), Dec. 8, 2003, 117 Stat. 2406, provided that: "The amendments made by paragraphs (1) and (2) [amending this section] shall be effective as if included in the enactment of the respective provisions of subtitle C of title V of BIPA [the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, H.R. 5661, as enacted by section 1(a)(6) of Public Law 106–554] (114 Stat. 2763A–534)."
 
 Pub. L. 108–173, title IX, §938(b), Dec. 8, 2003, 117 Stat. 2415, provided that:
 
-“(1) Effective date.—The Secretary [of Health and Human Services] shall establish the prior determination process under the amendment made by subsection (a) [amending this section] in such a manner as to provide for the acceptance of requests for determinations under such process filed not later than 18 months after the date of the enactment of this Act [Dec. 8, 2003].
+"(1) Effective date.—The Secretary [of Health and Human Services] shall establish the prior determination process under the amendment made by subsection (a) [amending this section] in such a manner as to provide for the acceptance of requests for determinations under such process filed not later than 18 months after the date of the enactment of this Act [Dec. 8, 2003].
 
-“(2) Sunset.—Such prior determination process shall not apply to requests filed after the end of the 5-year period beginning on the first date on which requests for determinations under such process are accepted.
+"(2) Sunset.—Such prior determination process shall not apply to requests filed after the end of the 5-year period beginning on the first date on which requests for determinations under such process are accepted.
 
-“(3) Transition.—During the period in which the amendment made by subsection (a) [amending this section] has become effective but contracts are not provided under section 1874A of the Social Security Act [42 U.S.C. 1395kk–1] with medicare administrative contractors, any reference in section 1869(g) [probably should be 1869(h)] of such Act [42 U.S.C. 1395ff(h)] (as added by such amendment) to such a contractor is deemed a reference to a fiscal intermediary or carrier with an agreement under section 1816, or contract under section 1842, respectively, of such Act [42 U.S.C. 1395h, 1395u].
+"(3) Transition.—During the period in which the amendment made by subsection (a) [amending this section] has become effective but contracts are not provided under section 1874A of the Social Security Act [42 U.S.C. 1395kk–1] with medicare administrative contractors, any reference in section 1869(g) [probably should be 1869(h)] of such Act [42 U.S.C. 1395ff(h)] (as added by such amendment) to such a contractor is deemed a reference to a fiscal intermediary or carrier with an agreement under section 1816, or contract under section 1842, respectively, of such Act [42 U.S.C. 1395h, 1395u].
 
-“(4) Limitation on application to sgr.—For purposes of applying section 1848(f)(2)(D) of the Social Security Act (42 U.S.C. 1395w–4(f)(2)(D)), the amendment made by subsection (a) [amending this section] shall not be considered to be a change in law or regulation.”
+"(4) Limitation on application to sgr.—For purposes of applying section 1848(f)(2)(D) of the Social Security Act (42 U.S.C. 1395w–4(f)(2)(D)), the amendment made by subsection (a) [amending this section] shall not be considered to be a change in law or regulation."
 
 Amendment by section 948(b)(1), (c) of Pub. L. 108–173 effective, except as otherwise provided, as if included in the enactment of BIPA [the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, H.R. 5661, as enacted by section 1(a)(6) of Public Law 106–554], see section 948(e) of Pub. L. 108–173, set out as a note under section 1314 of this title.
 
@@ -836,17 +836,17 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 Pub. L. 100–203, title IV, §4082(e)(1), (2), Dec. 22, 1987, 101 Stat. 1330–128, provided that:
 
-“(1) The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 22, 1987].
+"(1) The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 22, 1987].
 
-“(2) The amendment made by subsection (b) [amending this section] shall apply to requests for hearings filed after the end of the 60-day period beginning on the date of the enactment of this Act.”
+"(2) The amendment made by subsection (b) [amending this section] shall apply to requests for hearings filed after the end of the 60-day period beginning on the date of the enactment of this Act."
 
 Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period, see section 15(a) of Pub. L. 100–93, set out as a note under section 1320a–7 of this title.
 
 #### Effective Date of 1986 Amendment ####
 
-Pub. L. 99–509, title IX, §9313(b)(2), Oct. 21, 1986, 100 Stat. 2003, provided that: “The amendments made by this subsection [amending this section] take effect on the date of the enactment of this Act [Oct. 21, 1986].”
+Pub. L. 99–509, title IX, §9313(b)(2), Oct. 21, 1986, 100 Stat. 2003, provided that: "The amendments made by this subsection [amending this section] take effect on the date of the enactment of this Act [Oct. 21, 1986]."
 
-Pub. L. 99–509, title IX, §9341(b), Oct. 21, 1986, 100 Stat. 2038, provided that: “The amendments made by subsection (a) [amending this section and sections 1395u and 1395pp of this title] shall apply to items and services furnished on or after January 1, 1987.”
+Pub. L. 99–509, title IX, §9341(b), Oct. 21, 1986, 100 Stat. 2038, provided that: "The amendments made by subsection (a) [amending this section and sections 1395u and 1395pp of this title] shall apply to items and services furnished on or after January 1, 1987."
 
 #### Effective Date of 1984 Amendment ####
 
@@ -856,93 +856,93 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 Pub. L. 92–603, title II, §299O(b), Oct. 30, 1972, 86 Stat. 1465, provided that:
 
-“(1) The provisions of subparagraphs (A) and (B) of section 1869(b)(1) of the Social Security Act [42 U.S.C. 1395ff(b)(1)(A), (B)], as amended by subsection (a) of this section, shall be effective on the date of enactment of this Act [Oct. 30, 1972].
+"(1) The provisions of subparagraphs (A) and (B) of section 1869(b)(1) of the Social Security Act [42 U.S.C. 1395ff(b)(1)(A), (B)], as amended by subsection (a) of this section, shall be effective on the date of enactment of this Act [Oct. 30, 1972].
 
-“(2) The provisions of paragraph (2) and subparagraph (C) of paragraph (1) of section 1869(b) of the Social Security Act [42 U.S.C. 1395ff(b)(2), (b)(1)(C)], as amended by subsection (a) of this section, shall be effective with respect to any claims under part A of title XVIII of such Act [42 U.S.C. 1395c et seq.], filed—
+"(2) The provisions of paragraph (2) and subparagraph (C) of paragraph (1) of section 1869(b) of the Social Security Act [42 U.S.C. 1395ff(b)(2), (b)(1)(C)], as amended by subsection (a) of this section, shall be effective with respect to any claims under part A of title XVIII of such Act [42 U.S.C. 1395c et seq.], filed—
 
-“(A) in or after the month in which this Act is enacted [Oct. 1972], or
+"(A) in or after the month in which this Act is enacted [Oct. 1972], or
 
-“(B) before the month in which this Act is enacted [Oct. 1972], but only if a civil action with respect to a final decision of the Secretary of Health, Education, and Welfare on such claim has not been commenced under such section 1869(b) [42 U.S.C. 1395ff(b)] before such month.”
+"(B) before the month in which this Act is enacted [Oct. 1972], but only if a civil action with respect to a final decision of the Secretary of Health, Education, and Welfare on such claim has not been commenced under such section 1869(b) [42 U.S.C. 1395ff(b)] before such month."
 
 #### Transfer of Responsibility for Medicare Appeals ####
 
 Pub. L. 108–173, title IX, §931(a)–(c), Dec. 8, 2003, 117 Stat. 2396–2398, provided that:
 
-“(a) Transition Plan.—
+"(a) Transition Plan.—
 
-“(1) In general.—Not later than April 1, 2004, the Commissioner of Social Security and the Secretary [of Health and Human Services] shall develop and transmit to Congress and the Comptroller General of the United States a plan under which the functions of administrative law judges responsible for hearing cases under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] (and related provisions in title XI of such Act [42 U.S.C. 1301 et seq.]) are transferred from the responsibility of the Commissioner and the Social Security Administration to the Secretary and the Department of Health and Human Services.
+"(1) In general.—Not later than April 1, 2004, the Commissioner of Social Security and the Secretary [of Health and Human Services] shall develop and transmit to Congress and the Comptroller General of the United States a plan under which the functions of administrative law judges responsible for hearing cases under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] (and related provisions in title XI of such Act [42 U.S.C. 1301 et seq.]) are transferred from the responsibility of the Commissioner and the Social Security Administration to the Secretary and the Department of Health and Human Services.
 
-“(2) Contents.—The plan shall include information on the following:
+"(2) Contents.—The plan shall include information on the following:
 
-“(A) Workload.—The number of such administrative law judges and support staff required now and in the future to hear and decide such cases in a timely manner, taking into account the current and anticipated claims volume, appeals, number of beneficiaries, and statutory changes.
+"(A) Workload.—The number of such administrative law judges and support staff required now and in the future to hear and decide such cases in a timely manner, taking into account the current and anticipated claims volume, appeals, number of beneficiaries, and statutory changes.
 
-“(B) Cost projections and financing.—Funding levels required for fiscal year 2005 and subsequent fiscal years to carry out the functions transferred under the plan.
+"(B) Cost projections and financing.—Funding levels required for fiscal year 2005 and subsequent fiscal years to carry out the functions transferred under the plan.
 
-“(C) Transition timetable.—A timetable for the transition.
+"(C) Transition timetable.—A timetable for the transition.
 
-“(D) Regulations.—The establishment of specific regulations to govern the appeals process.
+"(D) Regulations.—The establishment of specific regulations to govern the appeals process.
 
-“(E) Case tracking.—The development of a unified case tracking system that will facilitate the maintenance and transfer of case specific data across both the fee-for-service and managed care components of the medicare program.
+"(E) Case tracking.—The development of a unified case tracking system that will facilitate the maintenance and transfer of case specific data across both the fee-for-service and managed care components of the medicare program.
 
-“(F) Feasibility of precedential authority.—The feasibility of developing a process to give decisions of the Departmental Appeals Board in the Department of Health and Human Services addressing broad legal issues binding, precedential authority.
+"(F) Feasibility of precedential authority.—The feasibility of developing a process to give decisions of the Departmental Appeals Board in the Department of Health and Human Services addressing broad legal issues binding, precedential authority.
 
-“(G) Access to administrative law judges.—The feasibility of—
+"(G) Access to administrative law judges.—The feasibility of—
 
-“(i) filing appeals with administrative law judges electronically; and
+"(i) filing appeals with administrative law judges electronically; and
 
-“(ii) conducting hearings using tele- or video-conference technologies.
+"(ii) conducting hearings using tele- or video-conference technologies.
 
-“(H) Independence of administrative law judges.—The steps that should be taken to ensure the independence of administrative law judges consistent with the requirements of subsection (b)(2).
+"(H) Independence of administrative law judges.—The steps that should be taken to ensure the independence of administrative law judges consistent with the requirements of subsection (b)(2).
 
-“(I) Geographic distribution.—The steps that should be taken to provide for an appropriate geographic distribution of administrative law judges throughout the United States to carry out subsection (b)(3).
+"(I) Geographic distribution.—The steps that should be taken to provide for an appropriate geographic distribution of administrative law judges throughout the United States to carry out subsection (b)(3).
 
-“(J) Hiring.—The steps that should be taken to hire administrative law judges (and support staff) to carry out subsection (b)(4).
+"(J) Hiring.—The steps that should be taken to hire administrative law judges (and support staff) to carry out subsection (b)(4).
 
-“(K) Performance standards.—The appropriateness of establishing performance standards for administrative law judges with respect to timelines for decisions in cases under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] taking into account requirements under subsection (b)(2) for the independence of such judges and consistent with the applicable provisions of title 5, United States Code[,] relating to impartiality.
+"(K) Performance standards.—The appropriateness of establishing performance standards for administrative law judges with respect to timelines for decisions in cases under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] taking into account requirements under subsection (b)(2) for the independence of such judges and consistent with the applicable provisions of title 5, United States Code[,] relating to impartiality.
 
-“(L) Shared resources.—The steps that should be taken to carry out subsection (b)(6) (relating to the arrangements with the Commissioner of Social Security to share office space, support staff, and other resources, with appropriate reimbursement).
+"(L) Shared resources.—The steps that should be taken to carry out subsection (b)(6) (relating to the arrangements with the Commissioner of Social Security to share office space, support staff, and other resources, with appropriate reimbursement).
 
-“(M) Training.—The training that should be provided to administrative law judges with respect to laws and regulations under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.].
+"(M) Training.—The training that should be provided to administrative law judges with respect to laws and regulations under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.].
 
-“(3) Additional information.—The plan may also include recommendations for further congressional action, including modifications to the requirements and deadlines established under section 1869 of the Social Security Act (42 U.S.C. 1395ff) (as amended by this Act).
+"(3) Additional information.—The plan may also include recommendations for further congressional action, including modifications to the requirements and deadlines established under section 1869 of the Social Security Act (42 U.S.C. 1395ff) (as amended by this Act).
 
-“(4) GAO evaluation.—The Comptroller General of the United States shall evaluate the plan and, not later than the date that is 6 months after the date on which the plan is received by the Comptroller General, shall submit to Congress a report on such evaluation.
+"(4) GAO evaluation.—The Comptroller General of the United States shall evaluate the plan and, not later than the date that is 6 months after the date on which the plan is received by the Comptroller General, shall submit to Congress a report on such evaluation.
 
-“(b) Transfer of Adjudication Authority.—
+"(b) Transfer of Adjudication Authority.—
 
-“(1) In general.—Not earlier than July 1, 2005, and not later than October 1, 2005, the Commissioner of Social Security and the Secretary shall implement the transition plan under subsection (a) and transfer the administrative law judge functions described in such subsection from the Social Security Administration to the Secretary.
+"(1) In general.—Not earlier than July 1, 2005, and not later than October 1, 2005, the Commissioner of Social Security and the Secretary shall implement the transition plan under subsection (a) and transfer the administrative law judge functions described in such subsection from the Social Security Administration to the Secretary.
 
-“(2) Assuring independence of judges.—The Secretary shall assure the independence of administrative law judges performing the administrative law judge functions transferred under paragraph (1) from the Centers for Medicare & Medicaid Services and its contractors. In order to assure such independence, the Secretary shall place such judges in an administrative office that is organizationally and functionally separate from such Centers. Such judges shall report to, and be under the general supervision of, the Secretary, but shall not report to, or be subject to supervision by, another officer of the Department of Health and Human Services.
+"(2) Assuring independence of judges.—The Secretary shall assure the independence of administrative law judges performing the administrative law judge functions transferred under paragraph (1) from the Centers for Medicare & Medicaid Services and its contractors. In order to assure such independence, the Secretary shall place such judges in an administrative office that is organizationally and functionally separate from such Centers. Such judges shall report to, and be under the general supervision of, the Secretary, but shall not report to, or be subject to supervision by, another officer of the Department of Health and Human Services.
 
-“(3) Geographic distribution.—The Secretary shall provide for an appropriate geographic distribution of administrative law judges performing the administrative law judge functions transferred under paragraph (1) throughout the United States to ensure timely access to such judges.
+"(3) Geographic distribution.—The Secretary shall provide for an appropriate geographic distribution of administrative law judges performing the administrative law judge functions transferred under paragraph (1) throughout the United States to ensure timely access to such judges.
 
-“(4) Hiring authority.—Subject to the amounts provided in advance in appropriations Acts, the Secretary shall have authority to hire administrative law judges to hear such cases, taking into consideration those judges with expertise in handling medicare appeals and in a manner consistent with paragraph (3), and to hire support staff for such judges.
+"(4) Hiring authority.—Subject to the amounts provided in advance in appropriations Acts, the Secretary shall have authority to hire administrative law judges to hear such cases, taking into consideration those judges with expertise in handling medicare appeals and in a manner consistent with paragraph (3), and to hire support staff for such judges.
 
-“(5) Financing.—Amounts payable under law to the Commissioner for administrative law judges performing the administrative law judge functions transferred under paragraph (1) from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund shall become payable to the Secretary for the functions so transferred.
+"(5) Financing.—Amounts payable under law to the Commissioner for administrative law judges performing the administrative law judge functions transferred under paragraph (1) from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund shall become payable to the Secretary for the functions so transferred.
 
-“(6) Shared resources.—The Secretary shall enter into such arrangements with the Commissioner as may be appropriate with respect to transferred functions of administrative law judges to share office space, support staff, and other resources, with appropriate reimbursement from the Trust Funds described in paragraph (5).
+"(6) Shared resources.—The Secretary shall enter into such arrangements with the Commissioner as may be appropriate with respect to transferred functions of administrative law judges to share office space, support staff, and other resources, with appropriate reimbursement from the Trust Funds described in paragraph (5).
 
-“(c) Increased Financial Support.—In addition to any amounts otherwise appropriated, to ensure timely action on appeals before administrative law judges and the Departmental Appeals Board consistent with section 1869 of the Social Security Act (42 U.S.C. 1395ff) (as amended by this Act), there are authorized to be appropriated (in appropriate part from the Federal Hospital Insurance Trust Fund, established under section 1817 of the Social Security Act (42 U.S.C. 1395i), and the Federal Supplementary Medical Insurance Trust Fund, established under section 1841 of such Act (42 U.S.C. 1395t)) to the Secretary such sums as are necessary for fiscal year 2005 and each subsequent fiscal year to—
+"(c) Increased Financial Support.—In addition to any amounts otherwise appropriated, to ensure timely action on appeals before administrative law judges and the Departmental Appeals Board consistent with section 1869 of the Social Security Act (42 U.S.C. 1395ff) (as amended by this Act), there are authorized to be appropriated (in appropriate part from the Federal Hospital Insurance Trust Fund, established under section 1817 of the Social Security Act (42 U.S.C. 1395i), and the Federal Supplementary Medical Insurance Trust Fund, established under section 1841 of such Act (42 U.S.C. 1395t)) to the Secretary such sums as are necessary for fiscal year 2005 and each subsequent fiscal year to—
 
-“(1) increase the number of administrative law judges (and their staffs) under subsection (b)(4);
+"(1) increase the number of administrative law judges (and their staffs) under subsection (b)(4);
 
-“(2) improve education and training opportunities for administrative law judges (and their staffs); and
+"(2) improve education and training opportunities for administrative law judges (and their staffs); and
 
-“(3) increase the staff of the Departmental Appeals Board.”
+"(3) increase the staff of the Departmental Appeals Board."
 
 #### Transition ####
 
-Pub. L. 108–173, title IX, §933(d)(5), Dec. 8, 2003, 117 Stat. 2406, provided that: “In applying section 1869(g) of the Social Security Act [42 U.S.C. 1395ff(g)] (as added by paragraph (2)), any reference to a medicare administrative contractor shall be deemed to include a reference to a fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and a carrier under section 1842 of such Act (42 U.S.C. 1395u).”
+Pub. L. 108–173, title IX, §933(d)(5), Dec. 8, 2003, 117 Stat. 2406, provided that: "In applying section 1869(g) of the Social Security Act [42 U.S.C. 1395ff(g)] (as added by paragraph (2)), any reference to a medicare administrative contractor shall be deemed to include a reference to a fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and a carrier under section 1842 of such Act (42 U.S.C. 1395u)."
 
 #### Process for Correction of Minor Errors and Omissions Without Pursuing Appeals Process ####
 
 Pub. L. 108–173, title IX, §937, Dec. 8, 2003, 117 Stat. 2412, provided that:
 
-“(a) Claims.—The Secretary [of Health and Human Services] shall develop, in consultation with appropriate medicare contractors (as defined in section 1889(g) of the Social Security Act [42 U.S.C. 1395zz(g)], as inserted by section 301(a)(1) [probably should be 921(f)(1)]) and representatives of providers of services and suppliers, a process whereby, in the case of minor errors or omissions (as defined by the Secretary) that are detected in the submission of claims under the programs under title XVIII of such Act [42 U.S.C. 1395 et seq.], a provider of services or supplier is given an opportunity to correct such an error or omission without the need to initiate an appeal. Such process shall include the ability to resubmit corrected claims.
+"(a) Claims.—The Secretary [of Health and Human Services] shall develop, in consultation with appropriate medicare contractors (as defined in section 1889(g) of the Social Security Act [42 U.S.C. 1395zz(g)], as inserted by section 301(a)(1) [probably should be 921(f)(1)]) and representatives of providers of services and suppliers, a process whereby, in the case of minor errors or omissions (as defined by the Secretary) that are detected in the submission of claims under the programs under title XVIII of such Act [42 U.S.C. 1395 et seq.], a provider of services or supplier is given an opportunity to correct such an error or omission without the need to initiate an appeal. Such process shall include the ability to resubmit corrected claims.
 
-“(b) Deadline.—Not later than 1 year after the date of the enactment of this Act [Dec. 8, 2003], the Secretary shall first develop the process under subsection (a).”
+"(b) Deadline.—Not later than 1 year after the date of the enactment of this Act [Dec. 8, 2003], the Secretary shall first develop the process under subsection (a)."
 
-#### Study of Aggregation Rule for Claims for Similar Physicians’ Services ####
+#### Study of Aggregation Rule for Claims for Similar Physicians' Services ####
 
 Pub. L. 101–508, title IV, §4113, Nov. 5, 1990, 104 Stat. 1388–64, directed Secretary of Health and Human Services to carry out a study of the effects of permitting the aggregation of claims that involve common issues of law and fact furnished in the same carrier area to two or more individuals by two or more physicians within the same 12-month period for purposes of appeals provided for under subsec. (b)(2) of this section, and to report on the results of such study and any recommendations to Congress by Dec. 31, 1992.
 
@@ -950,17 +950,17 @@ Pub. L. 101–508, title IV, §4113, Nov. 5, 1990, 104 Stat. 1388–64, directed
 
 Pub. L. 100–203, title IV, §4037, Dec. 22, 1987, 101 Stat. 1330–80, provided that:
 
-“(a) Maintaining Current System for Hearings and Appeals.—Any hearing conducted under section 1869(b)(1) of the Social Security Act [42 U.S.C. 1395ff(b)(1)] prior to the earliest of the date on which the Secretary of Health and Human Services submits the report required to be submitted by the Secretary under subsection (b)(1) or September 1 shall be conducted by Administrative Law Judges of the Office of Hearings and Appeals of the Social Security Administration in the same manner as are hearings conducted under section 205(b)(1) of such Act [42 U.S.C. 405(b)(1)].
+"(a) Maintaining Current System for Hearings and Appeals.—Any hearing conducted under section 1869(b)(1) of the Social Security Act [42 U.S.C. 1395ff(b)(1)] prior to the earliest of the date on which the Secretary of Health and Human Services submits the report required to be submitted by the Secretary under subsection (b)(1) or September 1 shall be conducted by Administrative Law Judges of the Office of Hearings and Appeals of the Social Security Administration in the same manner as are hearings conducted under section 205(b)(1) of such Act [42 U.S.C. 405(b)(1)].
 
-“(b) Study and Report on Use of Telephone Hearings.—
+"(b) Study and Report on Use of Telephone Hearings.—
 
-“(1) The Secretary of Health and Human Services and the Comptroller General of the United States shall each conduct a study on holding hearings under section 1869(b)(1) of the Social Security Act [42 U.S.C. 1395ff(b)(1)] by telephone and shall each report the results of the study not later than 6 months after the date of enactment of this Act [Dec. 22, 1987].
+"(1) The Secretary of Health and Human Services and the Comptroller General of the United States shall each conduct a study on holding hearings under section 1869(b)(1) of the Social Security Act [42 U.S.C. 1395ff(b)(1)] by telephone and shall each report the results of the study not later than 6 months after the date of enactment of this Act [Dec. 22, 1987].
 
-“(2) The studies under paragraph (1) shall focus on whether telephone hearings allow for a full and fair evidentiary hearing, in general, or with respect to any particular category of claims and shall examine the possible improvements to the hearing process (such as cost-effectiveness, convenience to the claimant, and reduction in time under the process) resulting from the use of such hearings as compared to the adoption of other changes to the process (such as expansions in staff and resources).”
+"(2) The studies under paragraph (1) shall focus on whether telephone hearings allow for a full and fair evidentiary hearing, in general, or with respect to any particular category of claims and shall examine the possible improvements to the hearing process (such as cost-effectiveness, convenience to the claimant, and reduction in time under the process) resulting from the use of such hearings as compared to the adoption of other changes to the process (such as expansions in staff and resources)."
 
 [<sup>1</sup> So in original.](#1395ff_1)
 
-[<sup>2</sup> So in original. The word “and” probably should not appear.](#1395ff_2)
+[<sup>2</sup> So in original. The word "and" probably should not appear.](#1395ff_2)
 
 [<sup>3</sup> So in original. A comma probably should appear.](#1395ff_3)
 

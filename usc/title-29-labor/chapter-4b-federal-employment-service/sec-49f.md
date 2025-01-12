@@ -44,7 +44,7 @@ Ten percent of the sums allotted to each State pursuant to section 49e of this t
 
 (D) such funds would be used to supplement, and not supplant, funds provided from non-Federal sources.
 
-(2) For purposes of this subsection, the term “applicable program” means any workforce investment activity carried out under the Workforce Investment Act of 1998.
+(2) For purposes of this subsection, the term "applicable program" means any workforce investment activity carried out under the Workforce Investment Act of 1998.
 
 #### (d) Performance of services and activities under contract ####
 
@@ -66,17 +66,17 @@ A prior section 49f, act June 6, 1933, ch. 49, §7, 48 Stat. 115, related to asc
 
 #### Amendments ####
 
-**1998**—Subsec. (b)(2). Pub. L. 105–220, §305(1), substituted “local workforce investment board” for “private industry council”.
+**1998**—Subsec. (b)(2). Pub. L. 105–220, §305(1), substituted "local workforce investment board" for "private industry council".
 
-Subsec. (c)(2). Pub. L. 105–220, §305(2), substituted “any workforce investment activity carried out under the Workforce Investment Act of 1998.” for “any program under any of the following provisions of law:
+Subsec. (c)(2). Pub. L. 105–220, §305(2), substituted "any workforce investment activity carried out under the Workforce Investment Act of 1998." for "any program under any of the following provisions of law:
 
-“(A) The Carl D. Perkins Vocational and Applied Technology Education Act.
+"(A) The Carl D. Perkins Vocational and Applied Technology Education Act.
 
-“(B) Section 123, title II, and title III of the Job Training Partnership Act.”
+"(B) Section 123, title II, and title III of the Job Training Partnership Act."
 
-Subsec. (d). Pub. L. 105–220, §310, substituted “Secretary or with” for “Secretary of Labor or with”.
+Subsec. (d). Pub. L. 105–220, §310, substituted "Secretary or with" for "Secretary of Labor or with".
 
-Pub. L. 105–220, §305(3), substituted “Secretary or any State” for “United States Employment Service or any State” and “Workforce Investment Act of 1998” for “Job Training Partnership Act”.
+Pub. L. 105–220, §305(3), substituted "Secretary or any State" for "United States Employment Service or any State" and "Workforce Investment Act of 1998" for "Job Training Partnership Act".
 
 Subsec. (e). Pub. L. 105–220, §305(4), added subsec. (e).
 

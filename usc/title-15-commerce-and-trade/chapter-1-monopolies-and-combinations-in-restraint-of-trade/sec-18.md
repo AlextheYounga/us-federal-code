@@ -20,13 +20,13 @@ Section 79j of this title, referred to in text, was repealed by Pub. L. 109–58
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–104, in sixth par., struck out “Federal Communications Commission,” after “Secretary of Transportation,”.
+**1996**—Pub. L. 104–104, in sixth par., struck out "Federal Communications Commission," after "Secretary of Transportation,".
 
-**1995**—Pub. L. 104–88, in sixth par., substituted “Surface Transportation Board” for “Interstate Commerce Commission” and inserted “, Board,” after “vesting such power in such Commission”.
+**1995**—Pub. L. 104–88, in sixth par., substituted "Surface Transportation Board" for "Interstate Commerce Commission" and inserted ", Board," after "vesting such power in such Commission".
 
-**1984**—Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board” and “Commission or Secretary” for “Commission, Secretary, or Board” in sixth par.
+**1984**—Pub. L. 98–443 substituted "Secretary of Transportation" for "Civil Aeronautics Board" and "Commission or Secretary" for "Commission, Secretary, or Board" in sixth par.
 
-**1980**—Pub. L. 96–349, substituted “person” for “corporation” wherever appearing in first and second pars.; substituted “persons” for “corporations” in second par. and first sentence of third par.; and inserted “or in any activity affecting commerce” after “commerce” wherever appearing in first, second, and third pars.
+**1980**—Pub. L. 96–349, substituted "person" for "corporation" wherever appearing in first and second pars.; substituted "persons" for "corporations" in second par. and first sentence of third par.; and inserted "or in any activity affecting commerce" after "commerce" wherever appearing in first, second, and third pars.
 
 **1950**—Act Dec. 29, 1950, amended section generally so as to prohibit the acquisition of the whole or any part of the assets of another corporation when the effect of the acquisition may substantially lessen competition or tend to create a monopoly.
 
@@ -40,7 +40,7 @@ Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L
 
 #### Effective Date of 1980 Amendment ####
 
-Pub. L. 96–349, §6(b), Sept. 12, 1980, 94 Stat. 1158, provided that: “The amendments made by this section [amending this section] shall apply only with respect to acquisitions made after the date of the enactment of this Act [Sept. 12, 1980].”
+Pub. L. 96–349, §6(b), Sept. 12, 1980, 94 Stat. 1158, provided that: "The amendments made by this section [amending this section] shall apply only with respect to acquisitions made after the date of the enactment of this Act [Sept. 12, 1980]."
 
 #### Transfer of Functions ####
 

@@ -94,51 +94,51 @@ Subsection (e) of this section, referred to in subsec. (b)(2)(B), was redesignat
 
 #### Amendments ####
 
-**2012**—Subsec. (a). Pub. L. 112–141, §34002(1), substituted “fiscal year through 2014,” for “of fiscal years 2006 through 2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012,” in introductory provisions.
+**2012**—Subsec. (a). Pub. L. 112–141, §34002(1), substituted "fiscal year through 2014," for "of fiscal years 2006 through 2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012," in introductory provisions.
 
-Pub. L. 112–140, §§1(c), 203(b)(1), temporarily substituted “ending on July 6, 2012,” for “ending on June 30, 2012,” in introductory provisions. See Termination Date of 2012 Amendment note below.
+Pub. L. 112–140, §§1(c), 203(b)(1), temporarily substituted "ending on July 6, 2012," for "ending on June 30, 2012," in introductory provisions. See Termination Date of 2012 Amendment note below.
 
-Pub. L. 112–102, §203(b)(1), substituted “2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012,” in introductory provisions.
+Pub. L. 112–102, §203(b)(1), substituted "2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012," for "2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012," in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 112–141, §34002(2), which directed substitution of “fiscal year through 2014,” for “of fiscal years 2006 through 2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012,”, was executed by making the substitution for “of fiscal years 2006 through 2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012,” to reflect the probable intent of Congress and amendment by Pub. L. 112–102, §203(b)(2). See below.
+Subsec. (b)(1)(A). Pub. L. 112–141, §34002(2), which directed substitution of "fiscal year through 2014," for "of fiscal years 2006 through 2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012,", was executed by making the substitution for "of fiscal years 2006 through 2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012," to reflect the probable intent of Congress and amendment by Pub. L. 112–102, §203(b)(2). See below.
 
-Pub. L. 112–140, §§1(c), 203(b)(2), temporarily substituted “ending on July 6, 2012,” for “ending on June 30, 2012,”. See Termination Date of 2012 Amendment note below.
+Pub. L. 112–140, §§1(c), 203(b)(2), temporarily substituted "ending on July 6, 2012," for "ending on June 30, 2012,". See Termination Date of 2012 Amendment note below.
 
-Pub. L. 112–102, §203(b)(2), substituted “2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+Pub. L. 112–102, §203(b)(2), substituted "2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012," for "2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012,".
 
-**2011**—Subsec. (a). Pub. L. 112–30, §123(b)(1), substituted “2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “2011,” in introductory provisions.
+**2011**—Subsec. (a). Pub. L. 112–30, §123(b)(1), substituted "2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012," for "2011," in introductory provisions.
 
-Pub. L. 112–5, §203(b)(1), substituted “through 2011,” for “through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011,” in introductory provisions.
+Pub. L. 112–5, §203(b)(1), substituted "through 2011," for "through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011," in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 112–30, §123(b)(2), substituted “2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “2011,”.
+Subsec. (b)(1)(A). Pub. L. 112–30, §123(b)(2), substituted "2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012," for "2011,".
 
-Pub. L. 112–5, §203(b)(2), substituted “through 2011,” for “through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011,”.
+Pub. L. 112–5, §203(b)(2), substituted "through 2011," for "through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011,".
 
-**2010**—Subsec. (a). Pub. L. 111–322, §2203(b), substituted “For each of fiscal years 2006 through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011, the balance of each annual appropriation made in accordance with the provisions of section 777b of this title remaining after the distributions for administrative expenses and other purposes under subsection (b) and for multistate conservation grants under section 777m of this title shall be distributed as follows:” for introductory provisions which read as follows: “For each of fiscal years 2006 through 2010 and for the period beginning on October 1, 2010, and ending on December 31, 2010, and the period from October 1, 2009, through the date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law, the balance of each annual appropriation made in accordance with the provisions of section 777b of this title remaining after the distributions for administrative expenses and other purposes under subsection (b) of this section and for multistate conservation grants under section 777m of this title shall be distributed as follows:”.
+**2010**—Subsec. (a). Pub. L. 111–322, §2203(b), substituted "For each of fiscal years 2006 through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011, the balance of each annual appropriation made in accordance with the provisions of section 777b of this title remaining after the distributions for administrative expenses and other purposes under subsection (b) and for multistate conservation grants under section 777m of this title shall be distributed as follows:" for introductory provisions which read as follows: "For each of fiscal years 2006 through 2010 and for the period beginning on October 1, 2010, and ending on December 31, 2010, and the period from October 1, 2009, through the date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law, the balance of each annual appropriation made in accordance with the provisions of section 777b of this title remaining after the distributions for administrative expenses and other purposes under subsection (b) of this section and for multistate conservation grants under section 777m of this title shall be distributed as follows:".
 
-Pub. L. 111–147, §423(b)(1), which directed substitution of “2010 and for the period beginning on October 1, 2010, and ending on December 31, 2010,” for “2009,” in introductory provisions, was executed by making the substitution for “2009,” the first place it appeared.
+Pub. L. 111–147, §423(b)(1), which directed substitution of "2010 and for the period beginning on October 1, 2010, and ending on December 31, 2010," for "2009," in introductory provisions, was executed by making the substitution for "2009," the first place it appeared.
 
-Subsec. (b)(1)(A). Pub. L. 111–322, §2203(b)(2), substituted “From the annual appropriation made in accordance with section 777b of this title, for each of fiscal years 2006 through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and section 777h of this title.” for “From the annual appropriation made in accordance with section 777b of this title, for each of fiscal years 2006 through 2009 and the period from October 1, 2009, through the date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law,, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and section 777h of this title.”
+Subsec. (b)(1)(A). Pub. L. 111–322, §2203(b)(2), substituted "From the annual appropriation made in accordance with section 777b of this title, for each of fiscal years 2006 through 2010, and for the period beginning on October 1, 2010, and ending on March 4, 2011, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and section 777h of this title." for "From the annual appropriation made in accordance with section 777b of this title, for each of fiscal years 2006 through 2009 and the period from October 1, 2009, through the date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law,, the Secretary of the Interior may use no more than the amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in the implementation of this chapter, in accordance with this section and section 777h of this title."
 
-Pub. L. 111–147, §423(b)(2), which directed substitution of “and for the period beginning on October 1, 2010, and ending on December 31, 2010,” for “2010,”, could not be executed because “2010,” did not appear.
+Pub. L. 111–147, §423(b)(2), which directed substitution of "and for the period beginning on October 1, 2010, and ending on December 31, 2010," for "2010,", could not be executed because "2010," did not appear.
 
-**2009**—Subsec. (a). Pub. L. 111–68, §160(1), inserted “and the period from October 1, 2009, through the date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law,” after “2009,” in introductory provisions.
+**2009**—Subsec. (a). Pub. L. 111–68, §160(1), inserted "and the period from October 1, 2009, through the date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law," after "2009," in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 111–68, §160(2), inserted “and the period from October 1, 2009, through the date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law,” after “2009”.
+Subsec. (b)(1)(A). Pub. L. 111–68, §160(2), inserted "and the period from October 1, 2009, through the date specified in section 106(3) of the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law," after "2009".
 
-**2006**—Subsec. (a)(2). Pub. L. 109–304 substituted “13107” for “13106”.
+**2006**—Subsec. (a)(2). Pub. L. 109–304 substituted "13107" for "13106".
 
-Subsec. (c). Pub. L. 109–241 struck out “, for each of fiscal years 2006 through 2009,” after “The Secretary”.
+Subsec. (c). Pub. L. 109–241 struck out ", for each of fiscal years 2006 through 2009," after "The Secretary".
 
-Subsec. (f). Pub. L. 109–304 substituted “13107(a)” for “13106(a)”.
+Subsec. (f). Pub. L. 109–304 substituted "13107(a)" for "13106(a)".
 
-**2005**—Subsec. (a). Pub. L. 109–59, §10113(1), (2), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of the Interior shall distribute 18 per centum of each annual appropriation made in accordance with the provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection, and Restoration Act (title III, Public Law 101–646). Notwithstanding the provisions of section 777b of this title, such sums shall remain available to carry out such Act through fiscal year 2019.”
+**2005**—Subsec. (a). Pub. L. 109–59, §10113(1), (2), added subsec. (a) and struck out former subsec. (a) which read as follows: "The Secretary of the Interior shall distribute 18 per centum of each annual appropriation made in accordance with the provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection, and Restoration Act (title III, Public Law 101–646). Notwithstanding the provisions of section 777b of this title, such sums shall remain available to carry out such Act through fiscal year 2019."
 
 Subsec. (b). Pub. L. 109–59, §10113(1), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to use of the balance of each annual appropriation remaining after making the distribution under subsec. (a) in fiscal years 1998 through 2005.
 
-Subsec. (b)(1)(A). Pub. L. 109–59, §10113(3), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “For fiscal year 2001 and each fiscal year thereafter, of the balance of each such annual appropriation remaining after the distribution and use under subsections (a), (b), and (c) of this section and section 777m of this title, the Secretary of the Interior may use not more than the available amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in implementation of this chapter, in accordance with this subsection and section 777h of this title.”
+Subsec. (b)(1)(A). Pub. L. 109–59, §10113(3), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: "For fiscal year 2001 and each fiscal year thereafter, of the balance of each such annual appropriation remaining after the distribution and use under subsections (a), (b), and (c) of this section and section 777m of this title, the Secretary of the Interior may use not more than the available amount specified in subparagraph (B) for the fiscal year for expenses for administration incurred in implementation of this chapter, in accordance with this subsection and section 777h of this title."
 
-Subsec. (b)(4). Pub. L. 109–74, §202, substituted “Fiscal” for “First 303 days of fiscal” in heading, “September 30, 2005” for “July 30, 2005” and “$82,000,000” for “$68,071,233” in introductory provisions, “$10,000,000” for “$8,301,370” in subpar. (A), and “$8,000,000” for “$6,641,096” in subpar. (B).
+Subsec. (b)(4). Pub. L. 109–74, §202, substituted "Fiscal" for "First 303 days of fiscal" in heading, "September 30, 2005" for "July 30, 2005" and "$82,000,000" for "$68,071,233" in introductory provisions, "$10,000,000" for "$8,301,370" in subpar. (A), and "$8,000,000" for "$6,641,096" in subpar. (B).
 
 Pub. L. 109–40, §8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 303 days of fiscal year 2005 for similar provisions relating to use of funds for first 300 days of fiscal year 2005.
 
@@ -150,53 +150,53 @@ Pub. L. 109–20, §8(b), amended heading and text of par. (4) generally, substi
 
 Pub. L. 109–14, §8(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 9 months of fiscal year 2005 for similar provisions relating to use of funds for fiscal year 2004.
 
-Subsec. (c). Pub. L. 109–59, §10113(4), (5), substituted “Secretary, for each of fiscal years 2006 through 2009, after the distribution, transfer, use and deduction under subsection (b) of this section, and after deducting amounts used for grants under section 777m of this title, shall apportion 57 percent of the balance” for “Secretary of the Interior, after the distribution, transfer, use, and deduction under subsections (a), (b), (c), and (d) of this section, respectively, and after deducting amounts used for grants under section 777m of this title, shall apportion the remainder” and “percent” for “per centum” after “40”, “60”, “1”, and “5”.
+Subsec. (c). Pub. L. 109–59, §10113(4), (5), substituted "Secretary, for each of fiscal years 2006 through 2009, after the distribution, transfer, use and deduction under subsection (b) of this section, and after deducting amounts used for grants under section 777m of this title, shall apportion 57 percent of the balance" for "Secretary of the Interior, after the distribution, transfer, use, and deduction under subsections (a), (b), (c), and (d) of this section, respectively, and after deducting amounts used for grants under section 777m of this title, shall apportion the remainder" and "percent" for "per centum" after "40", "60", "1", and "5".
 
 Pub. L. 109–59, §10113(1), redesignated subsec. (e) as (c) and struck out former subsec. (c) which obligated amounts for the National Outreach and Communications Program for fiscal years 1999 through 2005.
 
-Subsec. (c)(7). Pub. L. 109–74, §201, amended par. (7) generally, substituting “$10,000,000 for fiscal year 2005;” for “$8,301,370 for the period of October 1, 2004, through July 30, 2005;”.
+Subsec. (c)(7). Pub. L. 109–74, §201, amended par. (7) generally, substituting "$10,000,000 for fiscal year 2005;" for "$8,301,370 for the period of October 1, 2004, through July 30, 2005;".
 
-Pub. L. 109–40, §8(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$8,219,180 for the period of October 1, 2004, through July 27, 2005;”.
+Pub. L. 109–40, §8(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "$8,219,180 for the period of October 1, 2004, through July 27, 2005;".
 
-Pub. L. 109–37, §8(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$8,099,997 for the period of October 1, 2004, through July 21, 2005;”.
+Pub. L. 109–37, §8(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "$8,099,997 for the period of October 1, 2004, through July 21, 2005;".
 
-Pub. L. 109–35, §8(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$8,000,000 for the period of October 1, 2004, through July 19, 2005;”.
+Pub. L. 109–35, §8(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "$8,000,000 for the period of October 1, 2004, through July 19, 2005;".
 
-Pub. L. 109–20, §8(a), substituted “(7) $8,000,000 for the period of October 1, 2004, through July 19, 2005;” for “(6) $7,499,997 for the period of October 1, 2004, through June 30, 2005;”.
+Pub. L. 109–20, §8(a), substituted "(7) $8,000,000 for the period of October 1, 2004, through July 19, 2005;" for "(6) $7,499,997 for the period of October 1, 2004, through June 30, 2005;".
 
-Pub. L. 109–14, §8(a), directed amendment of par. (7) generally by substituting “(6) $7,499,997 for the period of October 1, 2004, through June 30, 2005;” for “(7) $6,666,664 for the period of October 1, 2004, through May 31, 2005;”. See above.
+Pub. L. 109–14, §8(a), directed amendment of par. (7) generally by substituting "(6) $7,499,997 for the period of October 1, 2004, through June 30, 2005;" for "(7) $6,666,664 for the period of October 1, 2004, through May 31, 2005;". See above.
 
 Subsec. (d). Pub. L. 109–59, §10113(1), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (b).
 
 Subsec. (e). Pub. L. 109–59, §10113(1), redesignated subsec. (g) as (e). Former subsec. (e) redesignated (c).
 
-Subsec. (e)(1). Pub. L. 109–59, §10113(6), substituted “paragraphs (1), (3), (4), and (5) of subsection (a)” for “subsections (a), (b)(3)(A), (b)(3)(B), and (c)”.
+Subsec. (e)(1). Pub. L. 109–59, §10113(6), substituted "paragraphs (1), (3), (4), and (5) of subsection (a)" for "subsections (a), (b)(3)(A), (b)(3)(B), and (c)".
 
 Subsec. (f). Pub. L. 109–59, §10113(7), added subsec. (f). Former subsec. (f) redesignated (d).
 
 Subsec. (g). Pub. L. 109–59, §10113(1), redesignated subsec. (g) as (e).
 
-**2004**—Subsec. (a). Pub. L. 108–447 substituted “2019” for “2009”.
+**2004**—Subsec. (a). Pub. L. 108–447 substituted "2019" for "2009".
 
-Subsec. (b)(4). Pub. L. 108–310, §9(b)(1), inserted heading and struck out former heading which read “First 10 months of fiscal year 2004”.
+Subsec. (b)(4). Pub. L. 108–310, §9(b)(1), inserted heading and struck out former heading which read "First 10 months of fiscal year 2004".
 
-Pub. L. 108–280, §6(b), substituted “fiscal year 2004” for “the period of October 1, 2003, through July 31, 2004” and “$82,000,000” for “$68,333,332” in introductory provisions, “$10,000,000” for “$8,333,332” in subpar. (A), and “$8,000,000” for “$6,666,668” in subpar. (B) and directed amendment of heading by striking “First 9 months of”, which could not be executed.
+Pub. L. 108–280, §6(b), substituted "fiscal year 2004" for "the period of October 1, 2003, through July 31, 2004" and "$82,000,000" for "$68,333,332" in introductory provisions, "$10,000,000" for "$8,333,332" in subpar. (A), and "$8,000,000" for "$6,666,668" in subpar. (B) and directed amendment of heading by striking "First 9 months of", which could not be executed.
 
-Pub. L. 108–263, §6(b), substituted “10 months” for “9 months” in heading, “July 31” for “April 30” and “$68,333,332” for “$61,499,999” in introductory provisions, “$8,333,332” for “$7,499,999” in subpar. (A), and “$6,666,668” for “$6,000,001” in subpar. (B).
+Pub. L. 108–263, §6(b), substituted "10 months" for "9 months" in heading, "July 31" for "April 30" and "$68,333,332" for "$61,499,999" in introductory provisions, "$8,333,332" for "$7,499,999" in subpar. (A), and "$6,666,668" for "$6,000,001" in subpar. (B).
 
-Pub. L. 108–224, §6(b), substituted “9 months” for “7 months” in heading, “$61,499,999” for “$47,833,333” in introductory provisions, “$7,499,999” for “$5,833,333” in subpar. (A), and “$6,000,001” for “$4,666,667” in subpar. (B).
+Pub. L. 108–224, §6(b), substituted "9 months" for "7 months" in heading, "$61,499,999" for "$47,833,333" in introductory provisions, "$7,499,999" for "$5,833,333" in subpar. (A), and "$6,000,001" for "$4,666,667" in subpar. (B).
 
 Pub. L. 108–202, §7(b), amended heading and text of par. (4) generally, substituting provisions relating to use of funds for first 7 months of fiscal year 2004 for similar provisions relating to use of funds for first 5 months of fiscal year 2004.
 
 Subsec. (b)(5), (6). Pub. L. 108–310, §9(b)(2), (3), added par. (5) and redesignated former par. (5) as (6).
 
-Subsec. (c)(6). Pub. L. 108–280, §6(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “$8,333,332 for the period of October 1, 2003, through July 31, 2004;”.
+Subsec. (c)(6). Pub. L. 108–280, §6(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "$8,333,332 for the period of October 1, 2003, through July 31, 2004;".
 
-Pub. L. 108–263, §6(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “$7,499,999 for the period of October 1, 2003, through June 30, 2004;”.
+Pub. L. 108–263, §6(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "$7,499,999 for the period of October 1, 2003, through June 30, 2004;".
 
-Pub. L. 108–224, §6(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “$5,833,333 for the period of October 1, 2003, through April 30, 2004;”.
+Pub. L. 108–224, §6(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "$5,833,333 for the period of October 1, 2003, through April 30, 2004;".
 
-Pub. L. 108–202, §7(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “$4,166,667 for the period of October 1, 2003, through February 29, 2004;”.
+Pub. L. 108–202, §7(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "$4,166,667 for the period of October 1, 2003, through February 29, 2004;".
 
 Subsec. (c)(7). Pub. L. 108–310, §9(a), added par. (7).
 
@@ -204,17 +204,17 @@ Subsec. (c)(7). Pub. L. 108–310, §9(a), added par. (7).
 
 Subsec. (c)(6). Pub. L. 108–88, §9(a), added par. (6).
 
-**2000**—Subsec. (a). Pub. L. 106–377 and Pub. L. 106–408, §123, amended subsec. (a) identically, substituting “fiscal year 2009” for “fiscal year 2000”.
+**2000**—Subsec. (a). Pub. L. 106–377 and Pub. L. 106–408, §123, amended subsec. (a) identically, substituting "fiscal year 2009" for "fiscal year 2000".
 
-Subsec. (d). Pub. L. 106–408, §121(a), added subsec. (d) and struck out former subsec. (d) which read as follows: “Of the balance of each such annual appropriation remaining after the distribution and use under subsections (a), (b), and (c) of this section, respectively, so much, not to exceed 6 per centum of such balance, as the Secretary of the Interior may estimate to be necessary for his or her expenses in the conduct of necessary investigations, administration, and the execution of this chapter, for an outreach and communications program and for aiding in the formulation, adoption, or administration of any compact between two or more States for the conservation and management of migratory fishes in marine or freshwaters, shall be deducted for that purpose, and such sum is authorized to be made available until the expiration of the next succeeding fiscal year. Of the sum available to the Secretary of the Interior under this subsection for any fiscal year, up to $2,500,000 may be used for the National Outreach and Communications Program under section 777g(d) of this title in addition to the amount available for that program under subsection (c) of this section. No funds available to the Secretary under this subsection may be used to replace funding traditionally provided through general appropriations, nor for any purposes except those purposes authorized by this chapter. The Secretary shall publish a detailed accounting of the projects, programs, and activities funded under this subsection annually in the Federal Register.”
+Subsec. (d). Pub. L. 106–408, §121(a), added subsec. (d) and struck out former subsec. (d) which read as follows: "Of the balance of each such annual appropriation remaining after the distribution and use under subsections (a), (b), and (c) of this section, respectively, so much, not to exceed 6 per centum of such balance, as the Secretary of the Interior may estimate to be necessary for his or her expenses in the conduct of necessary investigations, administration, and the execution of this chapter, for an outreach and communications program and for aiding in the formulation, adoption, or administration of any compact between two or more States for the conservation and management of migratory fishes in marine or freshwaters, shall be deducted for that purpose, and such sum is authorized to be made available until the expiration of the next succeeding fiscal year. Of the sum available to the Secretary of the Interior under this subsection for any fiscal year, up to $2,500,000 may be used for the National Outreach and Communications Program under section 777g(d) of this title in addition to the amount available for that program under subsection (c) of this section. No funds available to the Secretary under this subsection may be used to replace funding traditionally provided through general appropriations, nor for any purposes except those purposes authorized by this chapter. The Secretary shall publish a detailed accounting of the projects, programs, and activities funded under this subsection annually in the Federal Register."
 
-Subsec. (e). Pub. L. 106–408, §122(b), inserted “and after deducting amounts used for grants under section 777m of this title,” after “respectively,” in first sentence.
+Subsec. (e). Pub. L. 106–408, §122(b), inserted "and after deducting amounts used for grants under section 777m of this title," after "respectively," in first sentence.
 
-Subsec. (f). Pub. L. 106–408, §124, struck out before period at end of first sentence “, and if unexpended or unobligated at the end of such year, such sum is hereby authorized to be made available for expenditure by the Secretary of the Interior in carrying on the research program of the Fish and Wildlife Service in respect to fish of material value for sport or recreation”.
+Subsec. (f). Pub. L. 106–408, §124, struck out before period at end of first sentence ", and if unexpended or unobligated at the end of such year, such sum is hereby authorized to be made available for expenditure by the Secretary of the Interior in carrying on the research program of the Fish and Wildlife Service in respect to fish of material value for sport or recreation".
 
 Subsec. (g). Pub. L. 106–408, §121(c), added subsec. (g).
 
-**1999**—Subsec. (a). Pub. L. 106–74 substituted “fiscal year 2000” for “fiscal year 1999” in second sentence.
+**1999**—Subsec. (a). Pub. L. 106–74 substituted "fiscal year 2000" for "fiscal year 1999" in second sentence.
 
 **1998**—Subsec. (b). Pub. L. 105–178, §7403(a), as amended by Pub. L. 105–206, §9012(b)(1), inserted heading and amended text generally, substituting provisions relating to fiscal years 1998 to 2003 for provisions relating to fiscal years 1993 to 1998.
 
@@ -222,25 +222,25 @@ Subsec. (b)(3)(B). Pub. L. 105–178, §7403(b), as added by Pub. L. 105–206, 
 
 Subsec. (c). Pub. L. 105–178, §7402(b)(1), (2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 105–178, §7402(b)(3)–(5), substituted “subsections (a), (b), and (c) of this section,” for “subsections (a) and (b) of this section,”, inserted “, for an outreach and communications program” after “chapter”, and inserted at end “Of the sum available to the Secretary of the Interior under this subsection for any fiscal year, up to $2,500,000 may be used for the National Outreach and Communications Program under section 777g(d) of this title in addition to the amount available for that program under subsection (c) of this section. No funds available to the Secretary under this subsection may be used to replace funding traditionally provided through general appropriations, nor for any purposes except those purposes authorized by this chapter. The Secretary shall publish a detailed accounting of the projects, programs, and activities funded under this subsection annually in the Federal Register.”
+Subsec. (d). Pub. L. 105–178, §7402(b)(3)–(5), substituted "subsections (a), (b), and (c) of this section," for "subsections (a) and (b) of this section,", inserted ", for an outreach and communications program" after "chapter", and inserted at end "Of the sum available to the Secretary of the Interior under this subsection for any fiscal year, up to $2,500,000 may be used for the National Outreach and Communications Program under section 777g(d) of this title in addition to the amount available for that program under subsection (c) of this section. No funds available to the Secretary under this subsection may be used to replace funding traditionally provided through general appropriations, nor for any purposes except those purposes authorized by this chapter. The Secretary shall publish a detailed accounting of the projects, programs, and activities funded under this subsection annually in the Federal Register."
 
 Pub. L. 105–178, §7402(b)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 105–178, §7402(b)(6), substituted “subsections (a), (b), (c), and (d) of this section” for “subsections (a), (b), and (c) of this section”.
+Subsec. (e). Pub. L. 105–178, §7402(b)(6), substituted "subsections (a), (b), (c), and (d) of this section" for "subsections (a), (b), and (c) of this section".
 
 Pub. L. 105–178, §7402(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 105–178, §7402(b)(1), redesignated subsec. (e) as (f).
 
-**1992**—Pub. L. 102–587 added subsecs. (a) to (c), inserted subsec. (d) designation and substituted “The Secretary of the Interior, after the distribution, transfer, use, and deduction under subsections (a), (b), and (c) of this section, respectively, shall apportion the remainder of each such annual appropriation among the several States” for “So much, not to exceed 6 per centum, of each annual appropriation made in accordance with the provisions of section 777b of this title as the Secretary of the Interior may estimate to be necessary for his expenses in the conduct of necessary investigations, administration, and the execution of this chapter and for aiding in the formulation, adoption, or administration of any compact between two or more States for the conservation and management of migratory fishes in marine or freshwaters shall be deducted for that purpose, and such sum is authorized to be made available therefor until the expiration of the next succeeding fiscal year. The Secretary shall distribute 18 per centum of each annual appropriation made in accordance with the provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection and Restoration Act: *Provided*, That, notwithstanding the provisions of section 777b of this title, such sums shall remain available to carry out such Act through fiscal year 1999. The Secretary of the Interior, after making the aforesaid deduction, shall apportion the remainder of the appropriation for each fiscal year among the several States”, and inserted subsec. (e) designation.
+**1992**—Pub. L. 102–587 added subsecs. (a) to (c), inserted subsec. (d) designation and substituted "The Secretary of the Interior, after the distribution, transfer, use, and deduction under subsections (a), (b), and (c) of this section, respectively, shall apportion the remainder of each such annual appropriation among the several States" for "So much, not to exceed 6 per centum, of each annual appropriation made in accordance with the provisions of section 777b of this title as the Secretary of the Interior may estimate to be necessary for his expenses in the conduct of necessary investigations, administration, and the execution of this chapter and for aiding in the formulation, adoption, or administration of any compact between two or more States for the conservation and management of migratory fishes in marine or freshwaters shall be deducted for that purpose, and such sum is authorized to be made available therefor until the expiration of the next succeeding fiscal year. The Secretary shall distribute 18 per centum of each annual appropriation made in accordance with the provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection and Restoration Act: *Provided*, That, notwithstanding the provisions of section 777b of this title, such sums shall remain available to carry out such Act through fiscal year 1999. The Secretary of the Interior, after making the aforesaid deduction, shall apportion the remainder of the appropriation for each fiscal year among the several States", and inserted subsec. (e) designation.
 
-**1990**—Pub. L. 101–646 inserted after first sentence “The Secretary shall distribute 18 per centum of each annual appropriation made in accordance with the provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection and Restoration Act: *Provided*, That, notwithstanding the provisions of section 777b of this title, such sums shall remain available to carry out such Act through fiscal year 1999.”
+**1990**—Pub. L. 101–646 inserted after first sentence "The Secretary shall distribute 18 per centum of each annual appropriation made in accordance with the provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection and Restoration Act: *Provided*, That, notwithstanding the provisions of section 777b of this title, such sums shall remain available to carry out such Act through fiscal year 1999."
 
 **1984**—Pub. L. 98–369 revised deductible amount from not to exceed 8 per centum to not to exceed 6 per centum.
 
-**1976**—Pub. L. 94–273 substituted “September” for “June”, and “October” for “July”.
+**1976**—Pub. L. 94–273 substituted "September" for "June", and "October" for "July".
 
-**1970**—Pub. L. 91–503 changed method of apportionment of funds by striking out reference to “to all the States” and inserted definition of “fiscal year”.
+**1970**—Pub. L. 91–503 changed method of apportionment of funds by striking out reference to "to all the States" and inserted definition of "fiscal year".
 
 #### Termination Date of 2012 Amendment ####
 
@@ -270,4 +270,4 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior by
 
 [<sup>3</sup> So in original. Probably should be followed by a comma.](#777c_3)
 
-[<sup>4</sup> So in original. Probably should be “paragraphs,”.](#777c_4)
+[<sup>4</sup> So in original. Probably should be "paragraphs,".](#777c_4)

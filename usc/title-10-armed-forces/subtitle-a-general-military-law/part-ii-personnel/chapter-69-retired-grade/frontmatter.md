@@ -18,7 +18,7 @@ Sec.
 
 #### Amendments ####
 
-**1994**—Pub. L. 103–337, div. A, title XVI, §1671(b)(11), Oct. 5, 1994, 108 Stat. 3013, struck out item 1374 “Reserve commissioned officers: grade on retirement or transfer to Retired Reserve” and substituted “Temporary disability retired lists” for “Retired lists” in item 1376.
+**1994**—Pub. L. 103–337, div. A, title XVI, §1671(b)(11), Oct. 5, 1994, 108 Stat. 3013, struck out item 1374 "Reserve commissioned officers: grade on retirement or transfer to Retired Reserve" and substituted "Temporary disability retired lists" for "Retired lists" in item 1376.
 
 **1980**—Pub. L. 96–513, title V, §501(20), Dec. 12, 1980, 94 Stat. 2908, added item 1370.
 

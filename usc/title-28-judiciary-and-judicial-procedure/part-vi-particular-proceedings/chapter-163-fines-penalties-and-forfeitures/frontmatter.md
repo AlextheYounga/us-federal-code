@@ -18,4 +18,4 @@ Sec.
 
 #### Amendments ####
 
-**2000**—Pub. L. 106–185, §§4(b), 14(b), 15(b), Apr. 25, 2000, 114 Stat. 213, 219, 221, substituted “Return of property to claimant; liability for wrongful seizure; attorney fees, costs, and interest” for “Return of property to claimant; certificate of reasonable cause; liability for wrongful seizure” in item 2465 and added items 2466 and 2467.
+**2000**—Pub. L. 106–185, §§4(b), 14(b), 15(b), Apr. 25, 2000, 114 Stat. 213, 219, 221, substituted "Return of property to claimant; liability for wrongful seizure; attorney fees, costs, and interest" for "Return of property to claimant; certificate of reasonable cause; liability for wrongful seizure" in item 2465 and added items 2466 and 2467.

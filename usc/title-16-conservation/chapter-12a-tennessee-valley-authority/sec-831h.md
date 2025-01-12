@@ -20,23 +20,23 @@ The Corporation shall determine its own system of administrative accounts and th
 
 #### Codification ####
 
-In subsec. (c), “sections 3526(a) and 3702(a) of title 31” substituted for “section 236, Revised Statutes, as amended by section 305 of the Budget and Accounting Act, 1921 (42 Stat. 24 [31 U.S.C. 71])” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c), "sections 3526(a) and 3702(a) of title 31" substituted for "section 236, Revised Statutes, as amended by section 305 of the Budget and Accounting Act, 1921 (42 Stat. 24 [31 U.S.C. 71])" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments ####
 
-**2004**—Subsec. (a). Pub. L. 108–447, §603(a)(2), substituted “Board” for “board”.
+**2004**—Subsec. (a). Pub. L. 108–447, §603(a)(2), substituted "Board" for "board".
 
 Subsec. (b). Pub. L. 108–447, §603(b), designated second and third pars. as subsecs. (c) and (d), respectively.
 
-Pub. L. 108–271, in second par., substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
+Pub. L. 108–271, in second par., substituted "Government Accountability Office" for "General Accounting Office" wherever appearing.
 
 Subsecs. (c), (d). Pub. L. 108–447, §603(b), designated second and third pars. of subsec. (b) as subsecs. (c) and (d), respectively, and inserted headings.
 
-**1983**—Subsec. (b)(3). Pub. L. 98–191 substituted “$25,000” for “$10,000”.
+**1983**—Subsec. (b)(3). Pub. L. 98–191 substituted "$25,000" for "$10,000".
 
-**1976**—Subsec. (a). Pub. L. 94–273 substituted “March” for “December”.
+**1976**—Subsec. (a). Pub. L. 94–273 substituted "March" for "December".
 
-**1974**—Subsec. (b)(3). Pub. L. 93–356 substituted “$10,000” for “$500”.
+**1974**—Subsec. (b)(3). Pub. L. 93–356 substituted "$10,000" for "$500".
 
 **1954**—Subsec. (b). Act Aug. 30, 1954, in second paragraph, repealed a sentence requiring the Comptroller General to make special reports of any transactions or conditions found to be in conflict with the powers or duties entrusted to the Tennessee Valley Authority by law, such provision now being covered by section 9101 et seq. of Title 31, Money and Finance.
 

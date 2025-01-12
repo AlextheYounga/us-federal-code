@@ -10,13 +10,13 @@ In the performance of his functions and duties under the provisions of sections 
 
 #### Codification ####
 
-Provisions of par. (b) authorizing the Secretary of the Interior to employ “without regard to the civil-service laws” were omitted as such employment is subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to the Act of Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5, Government Organization and employees.
+Provisions of par. (b) authorizing the Secretary of the Interior to employ "without regard to the civil-service laws" were omitted as such employment is subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to the Act of Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5, Government Organization and employees.
 
-“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in par. (b) for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
+"Chapter 51 and subchapter III of chapter 53 of title 5" substituted in par. (b) for "the Classification Act of 1949, as amended" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
 #### Amendments ####
 
-**1949**—Par. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+**1949**—Par. (b). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
 #### Repeals ####
 

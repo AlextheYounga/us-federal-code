@@ -4,7 +4,7 @@
 
 #### (1) Establishment ####
 
-The Secretary of Labor (in this section referred to as the “Secretary”) shall make grants to the Alaska Workforce Investment Board—
+The Secretary of Labor (in this section referred to as the "Secretary") shall make grants to the Alaska Workforce Investment Board—
 
 (A) to recruit and train adult and dislocated workers in Alaska, including Alaska Natives, in the skills required to construct and operate an Alaska gas pipeline system; and
 

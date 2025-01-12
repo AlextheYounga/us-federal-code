@@ -162,11 +162,11 @@ If the assignment of the allocation under clause (i) to the buyer for the 1 or m
 
 #### (I) In general ####
 
-In this subparagraph, the term “new entrant” means an individual, corporation, or other entity that—
+In this subparagraph, the term "new entrant" means an individual, corporation, or other entity that—
 
 (aa) does not have an allocation of the beet sugar allotment under this subpart;
 
-(bb) is not affiliated with any other individual, corporation, or entity that has an allocation of beet sugar under this subpart (referred to in this clause as a “third party”); and
+(bb) is not affiliated with any other individual, corporation, or entity that has an allocation of beet sugar under this subpart (referred to in this clause as a "third party"); and
 
 (cc) will process sugar beets produced by sugar beet growers under contract with the new entrant for the production of sugar at the new or re-opened factory that is the basis for the new entrant allocation.
 
@@ -218,7 +218,7 @@ A prior section 1359dd, act Feb. 16, 1938, ch. 30, title III, §359d, as added P
 
 #### Amendments ####
 
-**2008**—Subsec. (b)(1)(F). Pub. L. 110–246, §1403(d)(1), substituted “If” for “Except as otherwise provided in section 1359ff(c)(8) of this title, if”.
+**2008**—Subsec. (b)(1)(F). Pub. L. 110–246, §1403(d)(1), substituted "If" for "Except as otherwise provided in section 1359ff(c)(8) of this title, if".
 
 Subsec. (b)(2)(G) to (I). Pub. L. 110–246, §1403(d)(2), added subpars. (G) and (H) and struck out former subpars. (G) to (I) which related to sale of factories of a processor to another processor, new entrants starting production or reopening factories after May 13, 2002, and new entrants acquiring ongoing factories with production history during the period of the 1998 through 2000 crop years.
 

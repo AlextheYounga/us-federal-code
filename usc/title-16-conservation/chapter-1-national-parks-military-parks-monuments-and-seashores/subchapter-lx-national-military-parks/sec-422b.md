@@ -6,7 +6,7 @@ The affairs of the Moores Creek National Battlefield shall be subject to the sup
 
 #### Change of Name ####
 
-“Battlefield” and “battlefield” substituted in text for “Military Park” and “park”, respectively, on authority of Pub. L. 96–344, §12, Sept. 8, 1980, 94 Stat. 1136, which redesignated Moores Creek National Military Park as Moores Creek National Battlefield.
+"Battlefield" and "battlefield" substituted in text for "Military Park" and "park", respectively, on authority of Pub. L. 96–344, §12, Sept. 8, 1980, 94 Stat. 1136, which redesignated Moores Creek National Military Park as Moores Creek National Battlefield.
 
 #### Transfer of Functions ####
 

@@ -4,7 +4,7 @@ Sec.
 
 4501. Findings and declarations.
 
-4502. “Institution of higher education” and “Advisory Committee” defined.
+4502. "Institution of higher education" and "Advisory Committee" defined.
 
 4503. Establishment of Advisory Committee.
 

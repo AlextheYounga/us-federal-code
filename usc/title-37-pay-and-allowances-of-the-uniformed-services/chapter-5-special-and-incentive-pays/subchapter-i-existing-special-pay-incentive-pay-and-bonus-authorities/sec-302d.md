@@ -18,57 +18,57 @@
 
 #### Amendments ####
 
-**2013**—Subsec. (a)(1). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+**2013**—Subsec. (a)(1). Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-**2011**—Subsec. (a)(1). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+**2011**—Subsec. (a)(1). Pub. L. 112–81 substituted "December 31, 2012" for "December 31, 2011".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
-**2009**—Subsec. (a)(1). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+**2009**—Subsec. (a)(1). Pub. L. 111–84 substituted "December 31, 2010" for "December 31, 2009".
 
-**2008**—Subsec. (a)(1). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+**2008**—Subsec. (a)(1). Pub. L. 110–417 substituted "December 31, 2009" for "December 31, 2008".
 
-Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
+Pub. L. 110–181 substituted "December 31, 2008" for "December 31, 2007".
 
-**2006**—Subsec. (a)(1). Pub. L. 109–364 substituted “December 31, 2007” for “December 31, 2006”.
+**2006**—Subsec. (a)(1). Pub. L. 109–364 substituted "December 31, 2007" for "December 31, 2006".
 
-Pub. L. 109–163, §622(c), substituted “December 31, 2006” for “December 31, 2005”.
+Pub. L. 109–163, §622(c), substituted "December 31, 2006" for "December 31, 2005".
 
 Subsec. (d). Pub. L. 109–163, §687(b)(7), amended heading and text of subsec. (d) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when officer fails to become and remain licensed as a registered nurse or fails to complete total period of active duty.
 
-**2004**—Subsec. (a)(1). Pub. L. 108–375, §616(a), substituted “three years” for “four years”.
+**2004**—Subsec. (a)(1). Pub. L. 108–375, §616(a), substituted "three years" for "four years".
 
-Pub. L. 108–375, §612(c), substituted “December 31, 2005” for “December 31, 2004”.
+Pub. L. 108–375, §612(c), substituted "December 31, 2005" for "December 31, 2004".
 
-**2003**—Subsec. (a)(1). Pub. L. 108–136 substituted “December 31, 2004” for “December 31, 2003”.
+**2003**—Subsec. (a)(1). Pub. L. 108–136 substituted "December 31, 2004" for "December 31, 2003".
 
-**2002**—Subsec. (a)(1). Pub. L. 107–314, §612(c), substituted “December 31, 2003” for “December 31, 2002”.
+**2002**—Subsec. (a)(1). Pub. L. 107–314, §612(c), substituted "December 31, 2003" for "December 31, 2002".
 
-Subsec. (a)(2). Pub. L. 107–314, §615(e), substituted “$30,000” for “$5,000”.
+Subsec. (a)(2). Pub. L. 107–314, §615(e), substituted "$30,000" for "$5,000".
 
-**2001**—Subsec. (a)(1). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
+**2001**—Subsec. (a)(1). Pub. L. 107–107 substituted "December 31, 2002" for "December 31, 2001".
 
-**2000**—Subsec. (a)(1). Pub. L. 106–398 substituted “December 31, 2001” for “December 31, 2000”.
+**2000**—Subsec. (a)(1). Pub. L. 106–398 substituted "December 31, 2001" for "December 31, 2000".
 
-**1999**—Subsec. (a)(1). Pub. L. 106–65 substituted “December 31, 2000” for “December 31, 1999”.
+**1999**—Subsec. (a)(1). Pub. L. 106–65 substituted "December 31, 2000" for "December 31, 1999".
 
-**1998**—Subsec. (a)(1). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
+**1998**—Subsec. (a)(1). Pub. L. 105–261 substituted "December 31, 1999" for "September 30, 1999".
 
-**1997**—Subsec. (a)(1). Pub. L. 105–85 substituted “September 30, 1999” for “September 30, 1998”.
+**1997**—Subsec. (a)(1). Pub. L. 105–85 substituted "September 30, 1999" for "September 30, 1998".
 
-**1996**—Subsec. (a)(1). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
+**1996**—Subsec. (a)(1). Pub. L. 104–201 substituted "September 30, 1998" for "September 30, 1997".
 
-Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996”.
+Pub. L. 104–106 substituted "September 30, 1997" for "September 30, 1996".
 
-**1994**—Subsec. (a)(1). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
+**1994**—Subsec. (a)(1). Pub. L. 103–337 substituted "September 30, 1996" for "September 30, 1995".
 
-**1993**—Subsec. (a)(1). Pub. L. 103–160 substituted “September 30, 1995” for “September 30, 1993”.
+**1993**—Subsec. (a)(1). Pub. L. 103–160 substituted "September 30, 1995" for "September 30, 1993".
 
-**1992**—Subsec. (a). Pub. L. 102–484 substituted “September 30, 1993” for “September 30, 1992”.
+**1992**—Subsec. (a). Pub. L. 102–484 substituted "September 30, 1993" for "September 30, 1992".
 
-**1990**—Subsec. (a)(1). Pub. L. 101–510, §§613(a), 1484(d)(2)(A), substituted “November 29, 1989,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Years 1990 and 1991” and “September 30, 1992” for “September 30, 1991”.
+**1990**—Subsec. (a)(1). Pub. L. 101–510, §§613(a), 1484(d)(2)(A), substituted "November 29, 1989," for "the date of the enactment of the National Defense Authorization Act for Fiscal Years 1990 and 1991" and "September 30, 1992" for "September 30, 1991".
 
-Subsec. (d)(4). Pub. L. 101–510, §1484(d)(2)(B), substituted “November 29, 1989” for “the date of the enactment of the National Defense Authorization Act for Fiscal Years 1990 and 1991”.
+Subsec. (d)(4). Pub. L. 101–510, §1484(d)(2)(B), substituted "November 29, 1989" for "the date of the enactment of the National Defense Authorization Act for Fiscal Years 1990 and 1991".
 
 #### Effective Date of 2008 Amendment ####
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 110–181 effective as of Dec. 31, 2007, and subject to var
 
 #### Effective Date of 2004 Amendment ####
 
-Pub. L. 108–375, div. A, title VI, §616(b), Oct. 28, 2004, 118 Stat. 1948, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to agreements entered into under section 302d of title 37, United States Code, on or after the date of the enactment of this Act [Oct. 28, 2004].”
+Pub. L. 108–375, div. A, title VI, §616(b), Oct. 28, 2004, 118 Stat. 1948, provided that: "The amendment made by subsection (a) [amending this section] shall apply with respect to agreements entered into under section 302d of title 37, United States Code, on or after the date of the enactment of this Act [Oct. 28, 2004]."
 
 #### Savings Provision ####
 

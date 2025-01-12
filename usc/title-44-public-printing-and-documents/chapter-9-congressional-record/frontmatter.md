@@ -24,7 +24,7 @@ Sec.
 
 #### Amendments ####
 
-**1974**—Pub. L. 93–314, §1(c), June 8, 1974, 88 Stat. 239, struck out “; subscription” in item 906, and substituted “subscriptions; sale of current, individual numbers and bound sets; postage rate” for “sale of current numbers and bound sets” in item 910.
+**1974**—Pub. L. 93–314, §1(c), June 8, 1974, 88 Stat. 239, struck out "; subscription" in item 906, and substituted "subscriptions; sale of current, individual numbers and bound sets; postage rate" for "sale of current numbers and bound sets" in item 910.
 
 #### Federal Records Management Provisions Without Effect on Chapter ####
 

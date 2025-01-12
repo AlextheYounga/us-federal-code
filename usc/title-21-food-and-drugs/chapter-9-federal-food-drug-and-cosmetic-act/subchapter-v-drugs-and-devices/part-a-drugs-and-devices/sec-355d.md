@@ -6,4 +6,4 @@ The Secretary shall establish an internal committee within the Food and Drug Adm
 
 #### Amendments ####
 
-**2012**—Pub. L. 112–144 inserted “deferral extensions,” after “deferrals,” in section catchline and “neonatology,” after “pediatric ethics,” in text.
+**2012**—Pub. L. 112–144 inserted "deferral extensions," after "deferrals," in section catchline and "neonatology," after "pediatric ethics," in text.

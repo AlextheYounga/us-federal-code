@@ -8,6 +8,10 @@ Sec.
 
 3303. Inventory and inspection of levees.
 
+3303a. Levee safety initiative.
+
+3303b. Reports.
+
 3304. Limitations on statutory construction.
 
 3305. Authorization of appropriations.

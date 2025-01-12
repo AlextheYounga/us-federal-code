@@ -4,7 +4,7 @@
 
 #### (1) In general ####
 
-For purposes of section 1, the term “surviving spouse” means a taxpayer—
+For purposes of section 1, the term "surviving spouse" means a taxpayer—
 
 (A) whose spouse died during either of his two taxable years immediately preceding the taxable year, and
 
@@ -86,41 +86,41 @@ In the case of a nonresident alien individual, the taxes imposed by sections 1 a
 
 #### Amendments ####
 
-**2005**—Subsec. (b)(2)(C). Pub. L. 109–135 substituted “subparagraph (B)” for “subparagraph (C)”.
+**2005**—Subsec. (b)(2)(C). Pub. L. 109–135 substituted "subparagraph (B)" for "subparagraph (C)".
 
-**2004**—Subsec. (a)(1)(B)(i). Pub. L. 108–311, §207(1), inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
+**2004**—Subsec. (a)(1)(B)(i). Pub. L. 108–311, §207(1), inserted ", determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof" after "section 152".
 
-Subsec. (b)(1)(A)(i). Pub. L. 108–311, §202(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “a son, stepson, daughter, or stepdaughter of the taxpayer, or a descendant of a son or daughter of the taxpayer, but if such son, stepson, daughter, stepdaughter, or descendant is married at the close of the taxpayer's taxable year, only if the taxpayer is entitled to a deduction for the taxable year for such person under section 151 (or would be so entitled but for paragraph (2) or (4) of section 152(e)), or”.
+Subsec. (b)(1)(A)(i). Pub. L. 108–311, §202(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "a son, stepson, daughter, or stepdaughter of the taxpayer, or a descendant of a son or daughter of the taxpayer, but if such son, stepson, daughter, stepdaughter, or descendant is married at the close of the taxpayer's taxable year, only if the taxpayer is entitled to a deduction for the taxable year for such person under section 151 (or would be so entitled but for paragraph (2) or (4) of section 152(e)), or".
 
-Subsec. (b)(2). Pub. L. 108–311, §202(b)(1), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “a legally adopted child of a person shall be considered a child of such person by blood;”.
+Subsec. (b)(2). Pub. L. 108–311, §202(b)(1), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: "a legally adopted child of a person shall be considered a child of such person by blood;".
 
 Subsec. (b)(3)(B)(i), (ii). Pub. L. 108–311, §202(b)(2), amended cls. (i) and (ii) generally. Prior to amendment, cls. (i) and (ii) read as follows:
 
-“(i) paragraph (9) of section 152(a), or
+"(i) paragraph (9) of section 152(a), or
 
-“(ii) subsection (c) of section 152.”
+"(ii) subsection (c) of section 152."
 
-**1988**—Subsec. (d). Pub. L. 100–647 substituted “the taxes imposed by sections 1 and 55” for “the tax imposed by section 1”.
+**1988**—Subsec. (d). Pub. L. 100–647 substituted "the taxes imposed by sections 1 and 55" for "the tax imposed by section 1".
 
-**1986**—Subsec. (a)(3)(B). Pub. L. 99–514, §1708(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the date which is—
+**1986**—Subsec. (a)(3)(B). Pub. L. 99–514, §1708(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "the date which is—
 
-“(i) December 31, 1982, in the case of service in the combat zone designated for purposes of the Vietnam conflict, or
+"(i) December 31, 1982, in the case of service in the combat zone designated for purposes of the Vietnam conflict, or
 
-“(ii) 2 years after the date designated under section 112 as the date of termination of combatant activities in that zone, in the case of any combat zone other than that referred to in clause (i).”
+"(ii) 2 years after the date designated under section 112 as the date of termination of combatant activities in that zone, in the case of any combat zone other than that referred to in clause (i)."
 
-Subsec. (c). Pub. L. 99–514, §1301(j)(10), substituted “section 7703(b)” for “section 143(b)”.
+Subsec. (c). Pub. L. 99–514, §1301(j)(10), substituted "section 7703(b)" for "section 143(b)".
 
-**1984**—Subsec. (b)(1)(A). Pub. L. 98–369, §423(c)(2)(A), substituted “which constitutes for more than one-half of such taxable year” for “which constitutes for such taxable year”.
+**1984**—Subsec. (b)(1)(A). Pub. L. 98–369, §423(c)(2)(A), substituted "which constitutes for more than one-half of such taxable year" for "which constitutes for such taxable year".
 
-Subsec. (b)(1)(A)(i). Pub. L. 98–369, §423(c)(2)(B), inserted “(or would be so entitled but for paragraph (2) or (4) of section 152(e))”.
+Subsec. (b)(1)(A)(i). Pub. L. 98–369, §423(c)(2)(B), inserted "(or would be so entitled but for paragraph (2) or (4) of section 152(e))".
 
-**1983**—Subsec. (a)(3)(B)(i). Pub. L. 97–448 substituted “December 31, 1982” for “January 2, 1978”.
+**1983**—Subsec. (a)(3)(B)(i). Pub. L. 97–448 substituted "December 31, 1982" for "January 2, 1978".
 
-**1976**—Subsec. (a)(3)(B). Pub. L. 94–569 substituted “the date which is” for “the date which is 2 years after” in provisions preceding cl. (i), substituted “January 2, 1978” for “the date of the enactment of this paragraph” in cl. (i), and substituted “2 years after the date” for “the date” in cl. (ii).
+**1976**—Subsec. (a)(3)(B). Pub. L. 94–569 substituted "the date which is" for "the date which is 2 years after" in provisions preceding cl. (i), substituted "January 2, 1978" for "the date of the enactment of this paragraph" in cl. (i), and substituted "2 years after the date" for "the date" in cl. (ii).
 
 Subsec. (b)(3)(B)(ii). Pub. L. 94–455, §1901(b)(9), redesignated cl. (iii) as (ii) and struck out former cl. (ii) which provided that an individual who was a dependent solely by reason of par. (10) of section 152(a) would not be considered as a head of a household.
 
-Subsec. (c). Pub. L. 94–455, §1901(a)(1), substituted “shall be treated as not married at the close of the taxable year” for “shall not be considered as married”.
+Subsec. (c). Pub. L. 94–455, §1901(a)(1), substituted "shall be treated as not married at the close of the taxable year" for "shall not be considered as married".
 
 **1975**—Subsec. (a)(3). Pub. L. 93–597 added par. (3).
 
@@ -138,7 +138,7 @@ Subsec. (e). Pub. L. 91–172 redesignated as subsec. (e) provisions of former s
 
 #### Effective Date of 2004 Amendment ####
 
-Pub. L. 108–311, title II, §208, Oct. 4, 2004, 118 Stat. 1178, provided that: “The amendments made by this title [amending this section and sections 21, 24, 25B, 32, 42, 51, 72, 105, 120, 125, 129, 132, 151 to 153, 170, 213, 220, 221, 529, 2032A, 2057, 7701, 7702B, and 7703 of this title] shall apply to taxable years beginning after December 31, 2004.”
+Pub. L. 108–311, title II, §208, Oct. 4, 2004, 118 Stat. 1178, provided that: "The amendments made by this title [amending this section and sections 21, 24, 25B, 32, 42, 51, 72, 105, 120, 125, 129, 132, 151 to 153, 170, 213, 220, 221, 529, 2032A, 2057, 7701, 7702B, and 7703 of this title] shall apply to taxable years beginning after December 31, 2004."
 
 #### Effective Date of 1988 Amendment ####
 
@@ -148,15 +148,15 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 1301(j)(10) of Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
-Pub. L. 99–514, title XVII, §1708(b), Oct. 22, 1986, 100 Stat. 2783, provided that: “The amendments made by this section [amending this section and sections 692, 6013, and 7508 of this title] shall apply to taxable years beginning after December 31, 1982.”
+Pub. L. 99–514, title XVII, §1708(b), Oct. 22, 1986, 100 Stat. 2783, provided that: "The amendments made by this section [amending this section and sections 692, 6013, and 7508 of this title] shall apply to taxable years beginning after December 31, 1982."
 
 #### Effective Date of 1984 Amendment ####
 
-Pub. L. 98–369, div. A, title IV, §423(d), July 18, 1984, 98 Stat. 801, provided that: “The amendments made by this section [amending this section and sections 43, 44A, 105, 143, 152, and 213 of this title] shall apply to taxable years beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title IV, §423(d), July 18, 1984, 98 Stat. 801, provided that: "The amendments made by this section [amending this section and sections 43, 44A, 105, 143, 152, and 213 of this title] shall apply to taxable years beginning after December 31, 1984."
 
 #### Effective Date of 1976 Amendment ####
 
-Pub. L. 94–455, title XIX, §1901(d), Oct. 4, 1976, 90 Stat. 1803, provided that: “Except as otherwise expressly provided in this section, the amendments made by this section [see Tables for classification] shall apply with respect to taxable years beginning after December 31, 1976. The amendments made by subsections (a)(29) and (b)(10) shall apply with respect to taxable years ending after the date of the enactment of this Act [Oct. 4, 1976].”
+Pub. L. 94–455, title XIX, §1901(d), Oct. 4, 1976, 90 Stat. 1803, provided that: "Except as otherwise expressly provided in this section, the amendments made by this section [see Tables for classification] shall apply with respect to taxable years beginning after December 31, 1976. The amendments made by subsections (a)(29) and (b)(10) shall apply with respect to taxable years ending after the date of the enactment of this Act [Oct. 4, 1976]."
 
 #### Effective Date of 1975 Amendment ####
 

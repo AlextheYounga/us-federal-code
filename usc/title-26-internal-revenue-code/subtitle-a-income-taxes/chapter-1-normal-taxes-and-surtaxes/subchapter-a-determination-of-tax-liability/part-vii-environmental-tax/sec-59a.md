@@ -10,7 +10,7 @@ In the case of a corporation, there is hereby imposed (in addition to any other 
 
 #### (b) Modified alternative minimum taxable income ####
 
-For purposes of this section, the term “modified alternative minimum taxable income” means alternative minimum taxable income (as defined in section 55(b)(2)) but determined without regard to—
+For purposes of this section, the term "modified alternative minimum taxable income" means alternative minimum taxable income (as defined in section 55(b)(2)) but determined without regard to—
 
 (1) the alternative tax net operating loss deduction (as defined in section 56(d)), and
 
@@ -52,15 +52,15 @@ The tax imposed by this section shall not apply to taxable years—
 
 #### Amendments ####
 
-**1992**—Subsec. (b)(1). Pub. L. 102–486 struck out “or the alternative tax energy preference deduction under section 56(h)” after “section 56(d))”.
+**1992**—Subsec. (b)(1). Pub. L. 102–486 struck out "or the alternative tax energy preference deduction under section 56(h)" after "section 56(d))".
 
-**1990**—Subsec. (b)(1). Pub. L. 101–508, §11531(b)(3), inserted before comma “or the alternative tax energy preference deduction under section 56(h)”.
+**1990**—Subsec. (b)(1). Pub. L. 101–508, §11531(b)(3), inserted before comma "or the alternative tax energy preference deduction under section 56(h)".
 
-Subsec. (b)(2). Pub. L. 101–508, §11801(c)(2)(E), struck out “(and the last sentence of section 56(f)(2)(B))” after “section 164(a)(5)”.
+Subsec. (b)(2). Pub. L. 101–508, §11801(c)(2)(E), struck out "(and the last sentence of section 56(f)(2)(B))" after "section 164(a)(5)".
 
-Subsec. (e)(1). Pub. L. 101–508, §11231(a)(1)(A), substituted “January 1, 1996” for “January 1, 1992”.
+Subsec. (e)(1). Pub. L. 101–508, §11231(a)(1)(A), substituted "January 1, 1996" for "January 1, 1992".
 
-**1988**—Subsec. (b)(2). Pub. L. 100–647, §2001(c)(3)(B), inserted “(and the last sentence of section 56(f)(2)(B))” before period at end.
+**1988**—Subsec. (b)(2). Pub. L. 100–647, §2001(c)(3)(B), inserted "(and the last sentence of section 56(f)(2)(B))" before period at end.
 
 Subsecs. (c) to (e). Pub. L. 100–647, §2001(c)(1), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 

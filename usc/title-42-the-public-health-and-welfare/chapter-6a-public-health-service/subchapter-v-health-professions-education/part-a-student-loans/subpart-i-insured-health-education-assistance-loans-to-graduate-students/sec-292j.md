@@ -26,7 +26,7 @@ The Secretary shall, with respect to the financial operations arising by reason 
 
 #### Codification ####
 
-In subsec. (b)(1), “chapter 91 of title 31” was substituted for “the Government Corporation Control Act” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b)(1), "chapter 91 of title 31" was substituted for "the Government Corporation Control Act" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Prior Provisions ####
 
@@ -34,4 +34,4 @@ A prior section 292j, act July 1, 1944, ch. 373, title VII, §709, formerly §71
 
 Another prior section 292j, act July 1, 1944, ch. 373, title VII, §711, as added Sept. 24, 1963, Pub. L. 88–129, §3(b), 77 Stat. 173; amended Nov. 18, 1971, Pub. L. 92–157, title I, §102(k)(2)(A), 85 Stat. 437, provided for technical assistance in connection with grants for construction of health research facilities, prior to repeal by Pub. L. 94–484, title II, §201(a), Oct. 12, 1976, 90 Stat. 2246.
 
-[<sup>1</sup> So in original. Probably should be “of”.](#292j_1)
+[<sup>1</sup> So in original. Probably should be "of".](#292j_1)

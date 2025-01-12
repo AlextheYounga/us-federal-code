@@ -52,10 +52,10 @@ Sec.
 
 Pub. L. 100–238, title I, §108(a)(3)(B), Jan. 8, 1988, 101 Stat. 1748, added item 8914.
 
-**1985**—Pub. L. 99–53, §§1(b)(2), 3(a)(2)(B), June 17, 1985, 99 Stat. 94, 95, added item 8903a and inserted “or disability” after “and survivor” in item 8908.
+**1985**—Pub. L. 99–53, §§1(b)(2), 3(a)(2)(B), June 17, 1985, 99 Stat. 94, 95, added item 8903a and inserted "or disability" after "and survivor" in item 8908.
 
-**1984**—Pub. L. 98–615, §3(8), Nov. 8, 1984, 98 Stat. 3204, substituted “Information to individuals eligible to enroll” for “Information to employees” in item 8907.
+**1984**—Pub. L. 98–615, §3(8), Nov. 8, 1984, 98 Stat. 3204, substituted "Information to individuals eligible to enroll" for "Information to employees" in item 8907.
 
-**1976**—Pub. L. 94–342, §1(b), July 6, 1976, 90 Stat. 808, substituted “employees and survivor annuitants” for “employee” in item 8908.
+**1976**—Pub. L. 94–342, §1(b), July 6, 1976, 90 Stat. 808, substituted "employees and survivor annuitants" for "employee" in item 8908.
 
 [<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER89_1)

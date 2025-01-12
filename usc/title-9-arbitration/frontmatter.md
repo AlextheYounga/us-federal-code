@@ -41,7 +41,7 @@ Showing where former sections of Title 9 and the laws from which such former sec
 
 #### Positive Law; Citation ####
 
-This title has been made positive law by section 1 of act July 30, 1947, ch. 392, 61 Stat. 669, which provided in part that: “title 9 of the United States Code, entitled ‘Arbitration’, is codified and enacted into positive law and may be cited as ‘9 U.S.C., §—’ ”.
+This title has been made positive law by section 1 of act July 30, 1947, ch. 392, 61 Stat. 669, which provided in part that: "title 9 of the United States Code, entitled 'Arbitration', is codified and enacted into positive law and may be cited as '9 U.S.C., §—' ".
 
 #### Repeals ####
 

@@ -4,15 +4,15 @@ In this chapter:
 
 #### (1) Construct ####
 
-The term “construct” means to construct, acquire, install, improve, or extend a facility or system.
+The term "construct" means to construct, acquire, install, improve, or extend a facility or system.
 
 #### (2) Cost of money loan ####
 
-The term “cost of money loan” means a loan made under this chapter bearing interest at a rate equal to the then current cost to the Federal Government of loans of similar maturity.
+The term "cost of money loan" means a loan made under this chapter bearing interest at a rate equal to the then current cost to the Federal Government of loans of similar maturity.
 
 #### (3) Secretary ####
 
-The term “Secretary” means the Secretary of Agriculture.
+The term "Secretary" means the Secretary of Agriculture.
 
 (Pub. L. 101–624, title XXIII, §2332, as added Pub. L. 104–127, title VII, §704, Apr. 4, 1996, 110 Stat. 1108.)
 

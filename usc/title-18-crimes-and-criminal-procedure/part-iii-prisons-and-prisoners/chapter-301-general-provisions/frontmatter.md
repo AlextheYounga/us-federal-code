@@ -38,6 +38,6 @@ Sec.
 
 **1984**—Pub. L. 98–473, title II, §1109(e), Oct. 12, 1984, 98 Stat. 2148, added item 4012.
 
-**1971**—Pub. L. 92–128, §1(c), Sept. 25, 1971, 85 Stat. 347, substituted “Limitation on detention; control of prisons” for “Control by Attorney General” in item 4001.
+**1971**—Pub. L. 92–128, §1(c), Sept. 25, 1971, 85 Stat. 347, substituted "Limitation on detention; control of prisons" for "Control by Attorney General" in item 4001.
 
 **1966**—Pub. L. 89–554, §3(e), Sept. 6, 1966, 80 Stat. 610, added items 4010 and 4011.

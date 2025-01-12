@@ -2151,29 +2151,29 @@ E. Reserve Components 10001
 
 #### Positive Law; Citation ####
 
-This title has been enacted into positive law by section 1 of act Aug. 10, 1956, ch. 1041, 70A Stat. 1, which provided in part that: “Title 10 of the United States Code, entitled ‘Armed Forces’, is revised, codified, and enacted into law, and may be cited as ‘Title 10, United States Code, §—.’ ”
+This title has been enacted into positive law by section 1 of act Aug. 10, 1956, ch. 1041, 70A Stat. 1, which provided in part that: "Title 10 of the United States Code, entitled 'Armed Forces', is revised, codified, and enacted into law, and may be cited as 'Title 10, United States Code, §—.' "
 
 #### Repeals ####
 
-Act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641, repealed the sections or parts of sections of the Revised Statutes or Statutes at large covering provisions codified in this act, “except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before the effective date of this act [Aug. 10, 1956] and except as provided in section 49.”
+Act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641, repealed the sections or parts of sections of the Revised Statutes or Statutes at large covering provisions codified in this act, "except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before the effective date of this act [Aug. 10, 1956] and except as provided in section 49."
 
 #### Savings Provision and Separability ####
 
 Act Aug. 10, 1956, ch. 1041, §49, 70A Stat. 640, provided that:
 
-“(a) In sections 1–48 of this Act [see Tables for classification], it is the legislative purpose to restate, without substantive change, the law replaced by those sections on the effective date of this Act [Aug. 10, 1956]. However, laws effective after March 31, 1955, that are inconsistent with this Act shall be considered as superseding it to the extent of the inconsistency.
+"(a) In sections 1–48 of this Act [see Tables for classification], it is the legislative purpose to restate, without substantive change, the law replaced by those sections on the effective date of this Act [Aug. 10, 1956]. However, laws effective after March 31, 1955, that are inconsistent with this Act shall be considered as superseding it to the extent of the inconsistency.
 
-“(b) References that other laws, regulations, and orders make to the replaced law shall be considered to be made to the corresponding provisions of sections 1–48.
+"(b) References that other laws, regulations, and orders make to the replaced law shall be considered to be made to the corresponding provisions of sections 1–48.
 
-“(c) Actions taken and offenses committed under the replaced law shall be considered to have been taken or committed under the corresponding provisions of sections 1–48.
+"(c) Actions taken and offenses committed under the replaced law shall be considered to have been taken or committed under the corresponding provisions of sections 1–48.
 
-“(d) If a part of this Act is invalid, all valid parts that are severable from the invalid part remain in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications.
+"(d) If a part of this Act is invalid, all valid parts that are severable from the invalid part remain in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications.
 
-“(e) In chapter 47 of title 10, United States Code, enacted by section 1 of this Act, no inference of a legislative construction is to be drawn from the part in which any article is placed nor from the catchlines of the part or the article as set out in that chapter.
+"(e) In chapter 47 of title 10, United States Code, enacted by section 1 of this Act, no inference of a legislative construction is to be drawn from the part in which any article is placed nor from the catchlines of the part or the article as set out in that chapter.
 
-“(f) The enactment of this Act does not increase or decrease the pay or allowances, including retired pay and retainer pay, of any person.
+"(f) The enactment of this Act does not increase or decrease the pay or allowances, including retired pay and retainer pay, of any person.
 
-“(g) The enactment of this Act does not affect the status of persons who, on the effective date of this Act [Aug. 10, 1956], have the status of warrant officers of the Army Mine Planter Service.”
+"(g) The enactment of this Act does not affect the status of persons who, on the effective date of this Act [Aug. 10, 1956], have the status of warrant officers of the Army Mine Planter Service."
 
 #### Effective Date of Uniform Code of Military Justice ####
 
@@ -2181,23 +2181,23 @@ Act Aug. 10, 1956, ch. 1041, §51, 70A Stat. 640, provided that chapter 47 of th
 
 #### Restatement of Suspended or Temporarily Superseded Provisions ####
 
-Act Aug. 10, 1956, ch. 1041, §50, 70A Stat. 640, provided that: “If on the effective date of this Act [Aug. 10, 1956] a provision of law that is restated in this Act and repealed by section 53 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status.”
+Act Aug. 10, 1956, ch. 1041, §50, 70A Stat. 640, provided that: "If on the effective date of this Act [Aug. 10, 1956] a provision of law that is restated in this Act and repealed by section 53 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status."
 
 #### Improvement of United States Code by Pub. L. 85–861; Legislative Purpose; Repeal of Inconsistent Provisions; Corresponding Provisions; Savings Provision and Separability; Status; Repeals ####
 
 Pub. L. 85–861, §34, Sept. 2, 1958, 72 Stat. 1568, provided that:
 
-“(a) In sections 1–32 of this Act [see Tables for classification], it is the legislative purpose to restate, without substantive change, the law replaced by those sections on the effective date of this Act [Sept. 2, 1958]. However, laws effective after December 31, 1957, that are inconsistent with this Act shall be considered as superseding it to the extent of the inconsistency.
+"(a) In sections 1–32 of this Act [see Tables for classification], it is the legislative purpose to restate, without substantive change, the law replaced by those sections on the effective date of this Act [Sept. 2, 1958]. However, laws effective after December 31, 1957, that are inconsistent with this Act shall be considered as superseding it to the extent of the inconsistency.
 
-“(b) References that other laws, regulations, and orders make to the replaced law shall be considered to be made to the corresponding provisions of sections 1–32.
+"(b) References that other laws, regulations, and orders make to the replaced law shall be considered to be made to the corresponding provisions of sections 1–32.
 
-“(c) Actions taken under the replaced law shall be considered to have been taken under the corresponding provisions of sections 1–32.
+"(c) Actions taken under the replaced law shall be considered to have been taken under the corresponding provisions of sections 1–32.
 
-“(d) If a part of this Act is invalid, all valid parts that are severable from the invalid part remain in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications.
+"(d) If a part of this Act is invalid, all valid parts that are severable from the invalid part remain in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications.
 
-“(e) The enactment of this Act does not increase or decrease the pay or allowances, including retired and retainer pay, of any person.”
+"(e) The enactment of this Act does not increase or decrease the pay or allowances, including retired and retainer pay, of any person."
 
-Pub. L. 85–861, §35, Sept. 2, 1958, 72 Stat. 1568, provided that: “If on the effective date of this Act [Sept. 2, 1958] a provision of law that is restated in this Act and repealed by section 36 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status.”
+Pub. L. 85–861, §35, Sept. 2, 1958, 72 Stat. 1568, provided that: "If on the effective date of this Act [Sept. 2, 1958] a provision of law that is restated in this Act and repealed by section 36 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status."
 
 Pub. L. 85–861, §36, Sept. 2, 1958, 72 Stat. 1568, repealed certain laws except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before Sept. 2, 1958.
 
@@ -2205,41 +2205,41 @@ Pub. L. 85–861, §36, Sept. 2, 1958, 72 Stat. 1568, repealed certain laws exce
 
 Pub. L. 87–651, title III, §306, Sept. 7, 1962, 76 Stat. 526, provided that:
 
-“(a) Laws becoming effective after January 9, 1962, that are inconsistent with this Act [see Tables for classification] shall be considered as superseding it to the extent of the inconsistency.
+"(a) Laws becoming effective after January 9, 1962, that are inconsistent with this Act [see Tables for classification] shall be considered as superseding it to the extent of the inconsistency.
 
-“(b) References made by other laws, regulations and orders to the laws shall be considered to be made to the corresponding provisions of this Act.
+"(b) References made by other laws, regulations and orders to the laws shall be considered to be made to the corresponding provisions of this Act.
 
-“(c) Actions taken under the replaced law shall be considered to have been taken under the corresponding provisions of this Act.
+"(c) Actions taken under the replaced law shall be considered to have been taken under the corresponding provisions of this Act.
 
-“(d) The enactment of this Act, except section 108 [amending section 1334 [now 12734] of this title], does not increase or decrease the pay or allowances, including retired and retainer pay, of any person.”
+"(d) The enactment of this Act, except section 108 [amending section 1334 [now 12734] of this title], does not increase or decrease the pay or allowances, including retired and retainer pay, of any person."
 
 #### Improvement of United States Code by Pub. L. 89–718; Inconsistent Provisions Superseded; Corresponding Provisions ####
 
 Pub. L. 89–718, §74, Nov. 2, 1966, 80 Stat. 1124, provided that:
 
-“(a) Laws becoming effective after June 1, 1965, that are inconsistent with this Act shall be considered as superseding it to the extent of the inconsistency.
+"(a) Laws becoming effective after June 1, 1965, that are inconsistent with this Act shall be considered as superseding it to the extent of the inconsistency.
 
-“(b) References made by other laws, regulations, and orders to the laws restated by this Act shall be considered to be made to the corresponding provisions of this Act.
+"(b) References made by other laws, regulations, and orders to the laws restated by this Act shall be considered to be made to the corresponding provisions of this Act.
 
-“(c) Actions taken under the laws restated by this Act shall be considered to have been taken under the corresponding provisions of this Act.”
+"(c) Actions taken under the laws restated by this Act shall be considered to have been taken under the corresponding provisions of this Act."
 
 #### Improvement of United States Code by Pub. L. 97–295; Legislative Purpose; Repeal of Inconsistent Provisions; Corresponding Provisions; Savings Provision and Separability ####
 
 Pub. L. 97–295, §5, Oct. 12, 1982, 96 Stat. 1313, provided that:
 
-“(a) Sections 1–4 of this Act [see Tables for classification] restate, without substantive change, laws enacted before December 2, 1981, that were replaced by those sections. Those sections may not be construed as making a substantive change in the laws replaced. Laws enacted after December 1, 1981, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
+"(a) Sections 1–4 of this Act [see Tables for classification] restate, without substantive change, laws enacted before December 2, 1981, that were replaced by those sections. Those sections may not be construed as making a substantive change in the laws replaced. Laws enacted after December 1, 1981, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
 
-“(b) A reference to a law replaced by sections 1–4 of this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.
+"(b) A reference to a law replaced by sections 1–4 of this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.
 
-“(c) An order, rule, or regulation in effect under a law replaced by sections 1–4 of this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
+"(c) An order, rule, or regulation in effect under a law replaced by sections 1–4 of this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
 
-“(d) An action taken or an offense committed under a law replaced by sections 1–4 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.
+"(d) An action taken or an offense committed under a law replaced by sections 1–4 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.
 
-“(e) An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of the caption or catchline of the provision.
+"(e) An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of the caption or catchline of the provision.
 
-“(f) If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
+"(f) If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications."
 
-Pub. L. 97–295, §6(a), Oct. 12, 1982, 96 Stat. 1314, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 97–295, §6(a), Oct. 12, 1982, 96 Stat. 1314, provided that: "The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal."
 
 Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314, repealed certain sections or parts of sections of the Statutes at Large, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 12, 1982.
 
@@ -2247,28 +2247,28 @@ Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314, repealed certain section
 
 Pub. L. 100–370, §4, July 19, 1988, 102 Stat. 856, provided that:
 
-“(a) References to Replaced Laws.—A reference to a law replaced by the provisions of title 10, United States Code, enacted by this Act [see Tables for classification] (including a reference in a regulation, order, or other law) shall be treated as referring to the corresponding provision enacted by this Act.
+"(a) References to Replaced Laws.—A reference to a law replaced by the provisions of title 10, United States Code, enacted by this Act [see Tables for classification] (including a reference in a regulation, order, or other law) shall be treated as referring to the corresponding provision enacted by this Act.
 
-“(b) Savings Provision for Regulations.—A regulation, rule, or order in effect under a law replaced by the provisions of title 10, United States Code, enacted by this Act shall continue in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
+"(b) Savings Provision for Regulations.—A regulation, rule, or order in effect under a law replaced by the provisions of title 10, United States Code, enacted by this Act shall continue in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
 
-“(c) General Savings Provision.—An action taken or an offense committed under a law replaced by the provisions of title 10, United States Code, enacted by this Act shall be treated as having been taken or committed under the corresponding provision enacted by this Act.”
+"(c) General Savings Provision.—An action taken or an offense committed under a law replaced by the provisions of title 10, United States Code, enacted by this Act shall be treated as having been taken or committed under the corresponding provision enacted by this Act."
 
 #### Improvement of United States Code by Pub. L. 101–510; Corresponding Provisions; Savings Provision ####
 
 Pub. L. 101–510, div. A, title XIV, §1481(k), Nov. 5, 1990, 104 Stat. 1709, provided that:
 
-“(1) A reference to a law replaced by the provisions of title 10, United States Code, enacted by this section [enacting sections 129b, 1056, 2245, 2549, 2550, 2678, and 2732 of this title, amending sections 114, 1584, 1593, 2701, 2734, 2734a, and 2734b of this title, enacting provisions set out as a note under section 1056 of this title, and repealing provisions set out as notes under sections 113, 114, 1584, 1593, 2241, and 2701 of this title] (including a reference in a regulation, order, or other law) shall be treated as referring to the corresponding provision enacted by this section.
+"(1) A reference to a law replaced by the provisions of title 10, United States Code, enacted by this section [enacting sections 129b, 1056, 2245, 2549, 2550, 2678, and 2732 of this title, amending sections 114, 1584, 1593, 2701, 2734, 2734a, and 2734b of this title, enacting provisions set out as a note under section 1056 of this title, and repealing provisions set out as notes under sections 113, 114, 1584, 1593, 2241, and 2701 of this title] (including a reference in a regulation, order, or other law) shall be treated as referring to the corresponding provision enacted by this section.
 
-“(2) A regulation, rule, or order in effect under a law replaced by the provisions of title 10, United States Code, enacted by this section shall continue in effect under the corresponding provision enacted by this title until repealed, amended, or superseded.
+"(2) A regulation, rule, or order in effect under a law replaced by the provisions of title 10, United States Code, enacted by this section shall continue in effect under the corresponding provision enacted by this title until repealed, amended, or superseded.
 
-“(3) An action taken or an offense committed under a law replaced by the provisions of title 10, United States Code, enacted by this section shall be treated as having been taken or committed under the corresponding provision enacted by this title.”
+"(3) An action taken or an offense committed under a law replaced by the provisions of title 10, United States Code, enacted by this section shall be treated as having been taken or committed under the corresponding provision enacted by this title."
 
 #### Improvement of United States Code by Pub. L. 103–337; Corresponding Provisions; Savings Provision ####
 
 Pub. L. 103–337, div. A, title XVI, §1665, Oct. 5, 1994, 108 Stat. 3012, provided that:
 
-“(a) References to Transferred or Replaced Provisions.—A reference to a provision of title 10, United States Code, transferred or replaced by the provisions of sections 1661 through 1664 [see Tables for classification] (including a reference in a regulation, order, or other law) shall be treated as referring to that provision as transferred or to the corresponding provision as so enacted by this subtitle [subtitle C (§§1661–1665) of title XVI of div. A of Pub. L. 103–337].
+"(a) References to Transferred or Replaced Provisions.—A reference to a provision of title 10, United States Code, transferred or replaced by the provisions of sections 1661 through 1664 [see Tables for classification] (including a reference in a regulation, order, or other law) shall be treated as referring to that provision as transferred or to the corresponding provision as so enacted by this subtitle [subtitle C (§§1661–1665) of title XVI of div. A of Pub. L. 103–337].
 
-“(b) Savings Provision for Regulations.—A regulation, rule, or order in effect under a provision of title 10, United States Code, replaced by a provision of that title enacted by sections 1661 through 1664 shall continue in effect under the corresponding provision so enacted until repealed, amended, or superseded.
+"(b) Savings Provision for Regulations.—A regulation, rule, or order in effect under a provision of title 10, United States Code, replaced by a provision of that title enacted by sections 1661 through 1664 shall continue in effect under the corresponding provision so enacted until repealed, amended, or superseded.
 
-“(c) General Savings Provision.—An action taken, or a right that matured, under a provision of title 10, United States Code, replaced by a provision of that title enacted by sections 1661 through 1664 shall be treated as having been taken, or having matured, under the corresponding provision so enacted.”
+"(c) General Savings Provision.—An action taken, or a right that matured, under a provision of title 10, United States Code, replaced by a provision of that title enacted by sections 1661 through 1664 shall be treated as having been taken, or having matured, under the corresponding provision so enacted."

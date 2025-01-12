@@ -18,13 +18,13 @@ The Secretary may make one loan to any entity with an approved application under
 
 Upon the expiration of the assignment of all Corps members to a health professional shortage area, the Secretary may (notwithstanding any other provision of law) sell, to any appropriate local entity, equipment and other property of the United States utilized by such members in providing health services. Sales made under this subsection shall be made at the fair market value (as determined by the Secretary) of the equipment or such other property; except that the Secretary may make such sales for a lesser value to an appropriate local entity, if he determines that the entity is financially unable to pay the full market value.
 
-#### (e) Admitting privileges denied to Corps member by hospital; notice and hearing; denial of Federal funds for violation; “hospital” defined ####
+#### (e) Admitting privileges denied to Corps member by hospital; notice and hearing; denial of Federal funds for violation; "hospital" defined ####
 
 (1)(A) It shall be unlawful for any hospital to deny an authorized Corps member admitting privileges when such Corps member otherwise meets the professional qualifications established by the hospital for granting such privileges and agrees to abide by the published bylaws of the hospital and the published bylaws, rules, and regulations of its medical staff.
 
 (B) Any hospital which is found by the Secretary, after notice and an opportunity for a hearing on the record, to have violated this subsection shall upon such finding cease, for a period to be determined by the Secretary, to receive and to be eligible to receive any Federal funds under this chapter or under titles XVIII, XIX, or XXI of the Social Security Act [42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.].
 
-(2) For purposes of this subsection, the term “hospital” includes a State or local public hospital, a private profit hospital, a private nonprofit hospital, a general or special hospital, and any other type of hospital (excluding a hospital owned or operated by an agency of the Federal Government), and any related facilities.
+(2) For purposes of this subsection, the term "hospital" includes a State or local public hospital, a private profit hospital, a private nonprofit hospital, a general or special hospital, and any other type of hospital (excluding a hospital owned or operated by an agency of the Federal Government), and any related facilities.
 
 (July 1, 1944, ch. 373, title III, §335, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2275; amended Pub. L. 97–35, title XXVII, §2705, Aug. 13, 1981, 95 Stat. 907; Pub. L. 101–597, title I, §106, title IV, §401(b)[(a)], Nov. 16, 1990, 104 Stat. 3018, 3035; Pub. L. 107–251, title III, §306, Oct. 26, 2002, 116 Stat. 1648.)
 
@@ -34,11 +34,11 @@ The Social Security Act, referred to in subsec. (e)(1)(B), is act Aug. 14, 1935,
 
 #### Amendments ####
 
-**2002**—Subsec. (e)(1)(B). Pub. L. 107–251 substituted “titles XVIII, XIX, or XXI of the Social Security Act” for “titles XVIII or XIX of the Social Security Act”.
+**2002**—Subsec. (e)(1)(B). Pub. L. 107–251 substituted "titles XVIII, XIX, or XXI of the Social Security Act" for "titles XVIII or XIX of the Social Security Act".
 
 **1990**—Subsecs. (a), (b)(1)(A), (2), (d). Pub. L. 101–597, §401(b)[(a)], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing.
 
-Subsec. (e)(1)(A). Pub. L. 101–597, §106, substituted “authorized Corps member admitting privileges” for “authorized physician or dentist member of the Corps admitting privileges”.
+Subsec. (e)(1)(A). Pub. L. 101–597, §106, substituted "authorized Corps member admitting privileges" for "authorized physician or dentist member of the Corps admitting privileges".
 
 **1981**—Subsec. (a)(2). Pub. L. 97–35, §2705(a), substituted provisions respecting cooperation with other health care providers, for provisions respecting direct health services programs.
 

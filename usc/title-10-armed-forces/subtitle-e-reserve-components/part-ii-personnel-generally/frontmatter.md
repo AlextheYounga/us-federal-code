@@ -33,6 +33,6 @@ Chap. Sec.
 
 #### Amendments ####
 
-**1997**—Pub. L. 105–85, div. A, title V, §515(b), Nov. 18, 1997, 111 Stat. 1733, substituted “12551” for “[No present sections]” in item for chapter 1215.
+**1997**—Pub. L. 105–85, div. A, title V, §515(b), Nov. 18, 1997, 111 Stat. 1733, substituted "12551" for "[No present sections]" in item for chapter 1215.
 
 **1996**—Pub. L. 104–106, div. A, title V, §512(a)(2), Feb. 10, 1996, 110 Stat. 305, added item for chapter 1214.

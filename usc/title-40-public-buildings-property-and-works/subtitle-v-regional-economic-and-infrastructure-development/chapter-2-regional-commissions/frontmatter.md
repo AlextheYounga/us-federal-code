@@ -18,4 +18,4 @@ Sec.
 
 15308. Annual report.
 
-[<sup>1</sup> So in original. Probably should be “153”.](#CHAPTER2_1)
+[<sup>1</sup> So in original. Probably should be "153".](#CHAPTER2_1)

@@ -1,6 +1,6 @@
 ### §§281 to 282. Repealed. Pub. L. 93–43, §7(a)(6), (8), (10)–(12), (60), June 18, 1973, 87 Stat. 82, 88 ###
 
-Section 281, acts May 14, 1948, ch. 289, §1, 62 Stat. 234; Sept. 14, 1959, Pub. L. 86–260, 73 Stat. 547, enumerated classes of persons eligible for burial in national cemeteries and provided for removal of remains. See section 2402 of Title 38, Veterans’ Benefits.
+Section 281, acts May 14, 1948, ch. 289, §1, 62 Stat. 234; Sept. 14, 1959, Pub. L. 86–260, 73 Stat. 547, enumerated classes of persons eligible for burial in national cemeteries and provided for removal of remains. See section 2402 of Title 38, Veterans' Benefits.
 
 Section 281a, act Aug. 4, 1947, ch. 467, §1, 61 Stat. 742, provided for utilization of surplus military real property for cemeteries.
 
@@ -20,7 +20,7 @@ Section 282, act Aug. 24, 1912, ch. 355, §1, 37 Stat. 440, provided for burial 
 
 #### Effective Date of Repeal ####
 
-Repeal effective Sept. 1, 1973, or such earlier date as the President may prescribe and publish in the Federal Register, see section 10(c) of Pub. L. 93–43, set out as a note under section 2306 of Title 38, Veterans’ Benefits.
+Repeal effective Sept. 1, 1973, or such earlier date as the President may prescribe and publish in the Federal Register, see section 10(c) of Pub. L. 93–43, set out as a note under section 2306 of Title 38, Veterans' Benefits.
 
 #### Matured Rights and Duties, Incurred Penalties, Liabilities, and Forfeitures, and Commenced Proceedings Excepted in Repeal of National Cemeteries Provisions ####
 

@@ -50,7 +50,7 @@ When any holder of a certificate of public convenience and necessity cannot acqu
 
 **1978**—Subsec. (c). Pub. L. 95–617, §608(a), (b)(1), designated existing first paragraph as par. (1)(A) and existing second paragraph as par. (1)(B) and added par. (2).
 
-Subsec. (e). Pub. L. 95–617, §608(b)(2), substituted “subsection (c)(1)” for “subsection (c)”.
+Subsec. (e). Pub. L. 95–617, §608(b)(2), substituted "subsection (c)(1)" for "subsection (c)".
 
 **1947**—Subsec. (h). Act July 25, 1947, added subsec. (h).
 
@@ -58,7 +58,7 @@ Subsec. (e). Pub. L. 95–617, §608(b)(2), substituted “subsection (c)(1)” 
 
 #### Effective Date of 1988 Amendment ####
 
-Pub. L. 100–474, §3, Oct. 6, 1988, 102 Stat. 2302, provided that: “The provisions of this Act [amending this section and enacting provisions set out as a note under section 717w of this title] shall become effective one hundred and twenty days after the date of enactment [Oct. 6, 1988].”
+Pub. L. 100–474, §3, Oct. 6, 1988, 102 Stat. 2302, provided that: "The provisions of this Act [amending this section and enacting provisions set out as a note under section 717w of this title] shall become effective one hundred and twenty days after the date of enactment [Oct. 6, 1988]."
 
 #### Transfer of Functions ####
 

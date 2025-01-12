@@ -82,7 +82,7 @@ Tenants renting a unit in a project transferred under this subchapter shall have
 
 The National Housing Act, referred to in subsec. (e)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
-This subchapter, referred to in subsec. (e)(3), was in the original “this subtitle”, and was translated as reading “this title”, meaning title III of act Sept. 1, 1937, ch. 896, as added by Pub. L. 101–625, to reflect the probable intent of Congress, because title III of act Sept. 1, 1937, does not contain subtitles.
+This subchapter, referred to in subsec. (e)(3), was in the original "this subtitle", and was translated as reading "this title", meaning title III of act Sept. 1, 1937, ch. 896, as added by Pub. L. 101–625, to reflect the probable intent of Congress, because title III of act Sept. 1, 1937, does not contain subtitles.
 
 #### Amendments ####
 
@@ -90,7 +90,7 @@ This subchapter, referred to in subsec. (e)(3), was in the original “this subt
 
 **1995**—Subsec. (g). Pub. L. 104–19 struck out subsec. (g) which prohibited transfer of projects without plan for replacement housing.
 
-**1992**—Subsec. (d). Pub. L. 102–550 struck out “(not including scattered site single family housing of a public housing agency)” after “housing project”.
+**1992**—Subsec. (d). Pub. L. 102–550 struck out "(not including scattered site single family housing of a public housing agency)" after "housing project".
 
 #### Effective Date of 1998 Amendment ####
 
@@ -104,6 +104,6 @@ Amendment by Pub. L. 104–19 effective for applications for demolition, disposi
 
 Pub. L. 105–276, title V, §531(b), Oct. 21, 1998, 112 Stat. 2573, provided that:
 
-“(1) In general.—Notwithstanding subsections (b) and (c) of section 1002 of the Emergency Supplemental Appropriations for Additional Disaster Assistance, for Anti-terrorism Initiatives, for Assistance in the Recovery from the Tragedy that Occurred At Oklahoma City, and Rescissions Act, 1995 [amending this section and enacting provision set out as a note under section 1437c of this title] (Public Law 104–19; 109 Stat. 236), subsection (g) of section 304 of the United States Housing Act of 1937 (42 U.S.C. 1437aaa–3(g)) is repealed.
+"(1) In general.—Notwithstanding subsections (b) and (c) of section 1002 of the Emergency Supplemental Appropriations for Additional Disaster Assistance, for Anti-terrorism Initiatives, for Assistance in the Recovery from the Tragedy that Occurred At Oklahoma City, and Rescissions Act, 1995 [amending this section and enacting provision set out as a note under section 1437c of this title] (Public Law 104–19; 109 Stat. 236), subsection (g) of section 304 of the United States Housing Act of 1937 (42 U.S.C. 1437aaa–3(g)) is repealed.
 
-“(2) Effective date.—The amendment made by paragraph (1) shall be effective with respect to any plan for the demolition, disposition, or conversion to homeownership of public housing that is approved by the Secretary after September 30, 1995.”
+"(2) Effective date.—The amendment made by paragraph (1) shall be effective with respect to any plan for the demolition, disposition, or conversion to homeownership of public housing that is approved by the Secretary after September 30, 1995."

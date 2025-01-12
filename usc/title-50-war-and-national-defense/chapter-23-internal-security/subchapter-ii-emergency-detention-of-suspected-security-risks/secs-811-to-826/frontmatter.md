@@ -2,7 +2,7 @@
 
 Section 811, act Sept. 23, 1950, ch. 1024, title II, §101, 64 Stat. 1019, related to Congressional finding of necessity.
 
-Section 812, act Sept. 23, 1950, ch. 1024, title II, §102, 64 Stat. 1021, related to declaration of “internal security emergency” by the President, events warranting the declaration, and period of existence.
+Section 812, act Sept. 23, 1950, ch. 1024, title II, §102, 64 Stat. 1021, related to declaration of "internal security emergency" by the President, events warranting the declaration, and period of existence.
 
 Section 813, act Sept. 23, 1950, ch. 1024, title II, §103, 64 Stat. 1021, related to detention during emergency and to release.
 

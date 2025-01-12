@@ -66,24 +66,24 @@ Another prior section 505 of act July 1, 1944, which was classified to section 2
 
 #### Amendments ####
 
-**1993**—Pub. L. 103–43, §2010(b)(7), which directed the substitution of “section 238 of this title” for “section 300aaa of this title” in section 505(a)(2) of act July 1, 1944 (this section), could not be executed because the language did not appear. Amendment was probably intended for prior section 505 which was renumbered section 502 and amended generally by Pub. L. 102–321, §102, which is classified to section 290aa–1 of this title.
+**1993**—Pub. L. 103–43, §2010(b)(7), which directed the substitution of "section 238 of this title" for "section 300aaa of this title" in section 505(a)(2) of act July 1, 1944 (this section), could not be executed because the language did not appear. Amendment was probably intended for prior section 505 which was renumbered section 502 and amended generally by Pub. L. 102–321, §102, which is classified to section 290aa–1 of this title.
 
-**1989**—Subsec. (c)(1)(A). Pub. L. 101–93, §3(b)(1), substituted “alcohol or” for “alcohol and”.
+**1989**—Subsec. (c)(1)(A). Pub. L. 101–93, §3(b)(1), substituted "alcohol or" for "alcohol and".
 
-Subsec. (c)(2). Pub. L. 101–93, §3(b)(2), substituted “this subsection” for “this section”.
+Subsec. (c)(2). Pub. L. 101–93, §3(b)(2), substituted "this subsection" for "this section".
 
 #### National Survey on Drug Use and Health ####
 
 Pub. L. 108–358, §5, Oct. 22, 2004, 118 Stat. 1664, provided that:
 
-“(a) In General.—The Secretary of Health and Human Services shall ensure that the National Survey on Drug Use and Health includes questions concerning the use of anabolic steroids.
+"(a) In General.—The Secretary of Health and Human Services shall ensure that the National Survey on Drug Use and Health includes questions concerning the use of anabolic steroids.
 
-“(b) Authorization of Appropriations.—There is authorized to be appropriated to carry out this section, $1,000,000 for each of fiscal years 2005 through 2010.”
+"(b) Authorization of Appropriations.—There is authorized to be appropriated to carry out this section, $1,000,000 for each of fiscal years 2005 through 2010."
 
 #### Reports on Consumption of Methamphetamine and Other Illicit Drugs ####
 
-Pub. L. 106–310, div. B, title XXXVI, §3641, Oct. 17, 2000, 114 Stat. 1237, provided that: “The Secretary of Health and Human Services shall include in each National Household Survey on Drug Abuse appropriate prevalence data and information on the consumption of methamphetamine and other illicit drugs in rural areas, metropolitan areas, and consolidated metropolitan areas.”
+Pub. L. 106–310, div. B, title XXXVI, §3641, Oct. 17, 2000, 114 Stat. 1237, provided that: "The Secretary of Health and Human Services shall include in each National Household Survey on Drug Abuse appropriate prevalence data and information on the consumption of methamphetamine and other illicit drugs in rural areas, metropolitan areas, and consolidated metropolitan areas."
 
 #### Public Health Monitoring of Methamphetamine Abuse ####
 
-Pub. L. 104–237, title V, §502, Oct. 3, 1996, 110 Stat. 3112, provided that: “The Secretary of Health and Human Services shall develop a public health monitoring program to monitor methamphetamine abuse in the United States. The program shall include the collection and dissemination of data related to methamphetamine abuse which can be used by public health officials in policy development.”
+Pub. L. 104–237, title V, §502, Oct. 3, 1996, 110 Stat. 3112, provided that: "The Secretary of Health and Human Services shall develop a public health monitoring program to monitor methamphetamine abuse in the United States. The program shall include the collection and dissemination of data related to methamphetamine abuse which can be used by public health officials in policy development."

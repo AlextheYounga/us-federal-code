@@ -30,23 +30,23 @@ The advisory committee shall—
 
 #### Amendments ####
 
-**2009**—Subsec. (a)(1). Pub. L. 111–11, §11001(f)(3), substituted “11-member” for “10-member”.
+**2009**—Subsec. (a)(1). Pub. L. 111–11, §11001(f)(3), substituted "11-member" for "10-member".
 
-Subsec. (a)(2). Pub. L. 111–11, §11001(f)(1)(A), inserted “the Secretary of the Interior or a designee from a land management agency of the Department of the Interior,” after “Administrator of the Environmental Protection Agency or a designee,”, inserted “and” after “Energy or a designee,”, and struck out “, and the Assistant to the President for Science and Technology or a designee” before period at end.
+Subsec. (a)(2). Pub. L. 111–11, §11001(f)(1)(A), inserted "the Secretary of the Interior or a designee from a land management agency of the Department of the Interior," after "Administrator of the Environmental Protection Agency or a designee,", inserted "and" after "Energy or a designee,", and struck out ", and the Assistant to the President for Science and Technology or a designee" before period at end.
 
-Subsec. (a)(3). Pub. L. 111–11, §11001(f)(1)(B), substituted “In consultation” for “Not later than 1 year after December 9, 1999, in consultation”, “Associate Director for Geology, as Chair” for “Chief Geologist, as Chairman”, and “2 representatives from the private sector” for “one representative from the private sector”.
+Subsec. (a)(3). Pub. L. 111–11, §11001(f)(1)(B), substituted "In consultation" for "Not later than 1 year after December 9, 1999, in consultation", "Associate Director for Geology, as Chair" for "Chief Geologist, as Chairman", and "2 representatives from the private sector" for "one representative from the private sector".
 
 Subsec. (b)(3), (4). Pub. L. 111–11, §11001(f)(2), added par. (3) and redesignated former par. (3) as (4).
 
-**1999**—Subsec. (a)(3). Pub. L. 106–148, §5(1), substituted “1 year after December 9, 1999,” for “90 days after August 5, 1997,”.
+**1999**—Subsec. (a)(3). Pub. L. 106–148, §5(1), substituted "1 year after December 9, 1999," for "90 days after August 5, 1997,".
 
-Subsec. (b)(1). Pub. L. 106–148, §5(2)(A), substituted “update the 5-year plan” for “critique the draft implementation plan”.
+Subsec. (b)(1). Pub. L. 106–148, §5(2)(A), substituted "update the 5-year plan" for "critique the draft implementation plan".
 
-Subsec. (b)(3). Pub. L. 106–148, §5(2)(B), substituted “sections 31c through 31f of this title” for “sections 31a to 31h of this title”.
+Subsec. (b)(3). Pub. L. 106–148, §5(2)(B), substituted "sections 31c through 31f of this title" for "sections 31a to 31h of this title".
 
-**1997**—Subsec. (a). Pub. L. 105–36, §3(c)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There shall be established a sixteen member geologic mapping advisory committee to advise the Director on planning and implementation of the geologic mapping program. The President shall appoint one representative each from the Environmental Protection Agency, the Department of Energy, the Department of Agriculture, and the Office of Science and Technology Policy. Within 90 days and with the advice and consultation of the State Geological Surveys, the Secretary shall appoint to the advisory committee 2 representatives from the Survey (including the Chief Geologist, as Chairman), 4 representatives from the State geological surveys, 3 representatives from academia, and 3 representatives from the private sector.”
+**1997**—Subsec. (a). Pub. L. 105–36, §3(c)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "There shall be established a sixteen member geologic mapping advisory committee to advise the Director on planning and implementation of the geologic mapping program. The President shall appoint one representative each from the Environmental Protection Agency, the Department of Energy, the Department of Agriculture, and the Office of Science and Technology Policy. Within 90 days and with the advice and consultation of the State Geological Surveys, the Secretary shall appoint to the advisory committee 2 representatives from the Survey (including the Chief Geologist, as Chairman), 4 representatives from the State geological surveys, 3 representatives from academia, and 3 representatives from the private sector."
 
-Subsec. (b)(3). Pub. L. 105–36, §3(c)(2), substituted “Federal, State, and university mapping activities” for “Federal and State mapping activities”.
+Subsec. (b)(3). Pub. L. 105–36, §3(c)(2), substituted "Federal, State, and university mapping activities" for "Federal and State mapping activities".
 
 #### Termination of Advisory Committees ####
 

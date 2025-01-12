@@ -4,7 +4,7 @@ Section 101, acts Mar. 14, 1900, ch. 41, §12, 31 Stat. 49; Oct. 5, 1917, ch. 74
 
 Section 101a, R.S. §5159; Dec. 23, 1913, ch. 6, §17, 38 Stat. 268; June 21, 1917, ch. 32, §9, 40 Stat. 239, related to deposit of bonds to secure circulating notes.
 
-Section 102, R.S. §5158, construed term “United States bonds” as including registered bonds.
+Section 102, R.S. §5158, construed term "United States bonds" as including registered bonds.
 
 Section 103, act Oct. 5, 1917, ch. 74, §3, 40 Stat. 342, related to denominations of notes and limitation on amount of $1 and $2 notes.
 

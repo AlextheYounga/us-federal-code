@@ -2,11 +2,11 @@
 
 #### Codification ####
 
-Sections 35, 35 note, and 35a to 35n, which were enacted by Part A of Pub. L. 88–210, §§1–10, 12–17, Dec. 18, 1963, 77 Stat. 403 to 415, to be known as the “Vocational Education Act of 1963” were omitted in the general reorganization of Pub. L. 88–210 by Pub. L. 90–576, title I, §101, Oct. 16, 1968, 82 Stat. 1064, which redesignated such Part A as title I of Pub. L. 88–210 and, as so redesignated, completely reorganized such title I and authorized its citation as the “Vocational Education Act of 1963”. Such act, as redesignated and reorganized, was classified to section 1241 et seq. of this title.
+Sections 35, 35 note, and 35a to 35n, which were enacted by Part A of Pub. L. 88–210, §§1–10, 12–17, Dec. 18, 1963, 77 Stat. 403 to 415, to be known as the "Vocational Education Act of 1963" were omitted in the general reorganization of Pub. L. 88–210 by Pub. L. 90–576, title I, §101, Oct. 16, 1968, 82 Stat. 1064, which redesignated such Part A as title I of Pub. L. 88–210 and, as so redesignated, completely reorganized such title I and authorized its citation as the "Vocational Education Act of 1963". Such act, as redesignated and reorganized, was classified to section 1241 et seq. of this title.
 
 Section 35, Pub. L. 88–210, §1, Dec. 18, 1963, 77 Stat. 403, set out declaration of policy as to sections 35 to 35n of this title.
 
-Section 35 note, Pub. L. 88–210, §17, Dec. 18, 1963, 77 Stat. 415, named sections 1–17 of Pub. L. 88–210 the “Vocational Education Act of 1963”. See Codification note set out preceding section 2301 of this title.
+Section 35 note, Pub. L. 88–210, §17, Dec. 18, 1963, 77 Stat. 415, named sections 1–17 of Pub. L. 88–210 the "Vocational Education Act of 1963". See Codification note set out preceding section 2301 of this title.
 
 Section 35a, Pub. L. 88–210, §2, Dec. 18, 1963, 77 Stat. 403, authorized annual appropriations.
 

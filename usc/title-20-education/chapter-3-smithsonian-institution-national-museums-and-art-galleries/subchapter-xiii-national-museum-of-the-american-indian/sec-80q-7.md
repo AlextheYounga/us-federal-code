@@ -16,7 +16,7 @@ Any charge by the Board of Regents for activities pursuant to agreements under p
 
 #### (c) Definition ####
 
-As used in this section, the terms “qualified successor to the Heye Foundation at Audubon Terrace”, “qualified successor”, and,<sup><a href="#80q-7_1_target" name="80q-7_1">1</a></sup> “successor” mean an organization described in section 501(c)(3) of title 26, and exempt from tax under section 501(a) of title 26, that, as determined by the Board of Regents—
+As used in this section, the terms "qualified successor to the Heye Foundation at Audubon Terrace", "qualified successor", and,<sup><a href="#80q-7_1_target" name="80q-7_1">1</a></sup> "successor" mean an organization described in section 501(c)(3) of title 26, and exempt from tax under section 501(a) of title 26, that, as determined by the Board of Regents—
 
 (1) is a successor occupant to the Heye Foundation at Audubon Terrace, 3753 Broadway, New York, New York;
 

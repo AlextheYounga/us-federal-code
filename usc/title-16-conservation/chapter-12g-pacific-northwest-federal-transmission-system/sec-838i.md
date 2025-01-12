@@ -2,13 +2,13 @@
 
 #### (a) Establishment; composition; availability of transferred funds for expenditures ####
 
-There is hereby established in the Treasury of the United States a Bonneville Power Administration fund (hereinafter referred to as the “fund”). The fund shall consist of (1) all receipts, collections, and recoveries of the Administrator in cash from all sources, including trust funds, (2) all proceeds derived from the sale of bonds by the Administrator, (3) any appropriations made by the Congress for the fund, and (4) the following funds which are hereby transferred to the Administrator: (i) all moneys in the special account in the Treasury established pursuant to Executive Order Numbered 8526 dated August 26, 1940, (ii) the unexpended balances in the continuing fund established by the provisions of section 832j of this title, and (iii) the unexpended balances of funds appropriated or otherwise made available for the Bonneville Power Administration. All funds transferred hereunder shall be available for expenditure by the Secretary of Energy, acting by and through the Administrator, as authorized in this chapter and any other Act relating to the Federal Columbia River transmission system, subject to such limitations as may be prescribed by any applicable appropriation act effective during such period as may elapse between their transfer and the approval by the Congress of the first subsequent annual budget program of the Administrator.
+There is hereby established in the Treasury of the United States a Bonneville Power Administration fund (hereinafter referred to as the "fund"). The fund shall consist of (1) all receipts, collections, and recoveries of the Administrator in cash from all sources, including trust funds, (2) all proceeds derived from the sale of bonds by the Administrator, (3) any appropriations made by the Congress for the fund, and (4) the following funds which are hereby transferred to the Administrator: (i) all moneys in the special account in the Treasury established pursuant to Executive Order Numbered 8526 dated August 26, 1940, (ii) the unexpended balances in the continuing fund established by the provisions of section 832j of this title, and (iii) the unexpended balances of funds appropriated or otherwise made available for the Bonneville Power Administration. All funds transferred hereunder shall be available for expenditure by the Secretary of Energy, acting by and through the Administrator, as authorized in this chapter and any other Act relating to the Federal Columbia River transmission system, subject to such limitations as may be prescribed by any applicable appropriation act effective during such period as may elapse between their transfer and the approval by the Congress of the first subsequent annual budget program of the Administrator.
 
 #### (b) Authorized purposes of expenditures ####
 
 The Administrator may make expenditures from the fund, which shall have been included in his annual budget submitted to Congress, without further appropriation and without fiscal year limitation, but within such specific directives or limitations as may be included in appropriation acts, for any purpose necessary or appropriate to carry out the duties imposed upon the Administrator pursuant to law, including but not limited to—
 
-(1) construction, acquisition, and replacement of (i) the transmission system, including facilities and structures appurtenant thereto, and (ii) additions, improvements, and betterments thereto (hereinafter in this chapter referred to as “transmission system”);
+(1) construction, acquisition, and replacement of (i) the transmission system, including facilities and structures appurtenant thereto, and (ii) additions, improvements, and betterments thereto (hereinafter in this chapter referred to as "transmission system");
 
 (2) operation, maintenance, repair, and relocation, to the extent such relocation is not provided for under subsection (1) above, of the transmission system;
 
@@ -52,9 +52,9 @@ Section 9105 of title 31, referred to in subsec. (c), was amended generally by P
 
 #### Codification ####
 
-In subsec. (c), “chapter 91 of title 31”, “section 9101 of title 31”, and “section 9105(d) of title 31” substituted for “the Government Corporation Control Act (31 U.S.C. 841 et seq.)”, “section 101 of such Act (31 U.S.C. 846)”, and “the proviso in section 850 of title 31, United States Code,”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c), "chapter 91 of title 31", "section 9101 of title 31", and "section 9105(d) of title 31" substituted for "the Government Corporation Control Act (31 U.S.C. 841 et seq.)", "section 101 of such Act (31 U.S.C. 846)", and "the proviso in section 850 of title 31, United States Code,", respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-In subsec. (d), “sections 9105 and 9106 of title 31” substituted for “sections 105 and 106 of the Government Corporation Control Act [31 U.S.C. 850, 851]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31.
+In subsec. (d), "sections 9105 and 9106 of title 31" substituted for "sections 105 and 106 of the Government Corporation Control Act [31 U.S.C. 850, 851]" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31.
 
 #### Amendments ####
 
@@ -68,14 +68,14 @@ Amendment by Pub. L. 96–501 effective Dec. 5, 1980, see section 11 of Pub. L. 
 
 #### Transfer of Functions ####
 
-“Secretary of Energy” substituted for “Secretary of the Interior” in subsec. (a) and “Department of Energy” substituted for “Department of Interior” in subsec. (b)(11) pursuant to Pub. L. 95–91, §302(a)(1)(D), which is classified to section 7152(a)(1)(D) of Title 42, The Public Health and Welfare.
+"Secretary of Energy" substituted for "Secretary of the Interior" in subsec. (a) and "Department of Energy" substituted for "Department of Interior" in subsec. (b)(11) pursuant to Pub. L. 95–91, §302(a)(1)(D), which is classified to section 7152(a)(1)(D) of Title 42, The Public Health and Welfare.
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
 #### Authority To Incur Obligations in Excess of Borrowing Authority and Cash in Fund ####
 
-Pub. L. 100–371, title III, July 19, 1988, 102 Stat. 869, provided that: “Without fiscal year limitation, the Bonneville Power Administration continues to be authorized to incur obligations for authorized purposes and may do so in excess of borrowing authority and cash in the Bonneville Power Administration Fund.”
+Pub. L. 100–371, title III, July 19, 1988, 102 Stat. 869, provided that: "Without fiscal year limitation, the Bonneville Power Administration continues to be authorized to incur obligations for authorized purposes and may do so in excess of borrowing authority and cash in the Bonneville Power Administration Fund."
 
-[<sup>1</sup> So in original. The word “or” probably should not appear.](#838i_1)
+[<sup>1</sup> So in original. The word "or" probably should not appear.](#838i_1)
 
 [<sup>2</sup> See References in Text note below.](#838i_2)

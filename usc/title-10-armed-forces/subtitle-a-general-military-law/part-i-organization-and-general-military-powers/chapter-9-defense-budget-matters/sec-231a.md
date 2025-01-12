@@ -92,9 +92,9 @@
 
 (f) Definitions.—In this section:
 
-(1) The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
+(1) The term "budget", with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
 
-(2) The term “Quadrennial Defense Review” means the review of the defense programs and policies of the United States that is carried out every 4 years under section 118 of this title.
+(2) The term "Quadrennial Defense Review" means the review of the defense programs and policies of the United States that is carried out every 4 years under section 118 of this title.
 
 (Added Pub. L. 110–417, [div. A], title I, §141(a), Oct. 14, 2008, 122 Stat. 4379; amended Pub. L. 112–81, div. A, title X, §1069(a), (b), Dec. 31, 2011, 125 Stat. 1589, 1591; Pub. L. 113–66, div. A, title X, §1091(a)(5), Dec. 26, 2013, 127 Stat. 875.)
 
@@ -104,36 +104,36 @@ The National Security Act of 1947, referred to in subsec. (c)(1), is act July 26
 
 #### Amendments ####
 
-**2013**—Subsec. (a). Pub. L. 113–66 substituted “fiscal year, the Secretary of Defense” for “fiscal year of Defense” in introductory provisions.
+**2013**—Subsec. (a). Pub. L. 113–66 substituted "fiscal year, the Secretary of Defense" for "fiscal year of Defense" in introductory provisions.
 
-**2011**—Pub. L. 112–81, §1069(b), amended section catchline generally, substituting “Budgeting for life-cycle cost of aircraft for the Navy, Army, and Air Force: annual plan and certification” for “Budgeting for procurement of aircraft for the Navy and Air Force: annual plan and certification”.
+**2011**—Pub. L. 112–81, §1069(b), amended section catchline generally, substituting "Budgeting for life-cycle cost of aircraft for the Navy, Army, and Air Force: annual plan and certification" for "Budgeting for procurement of aircraft for the Navy and Air Force: annual plan and certification".
 
-Subsec. (a). Pub. L. 112–81, §1069(a)(1)(A), substituted “Not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year” for “The Secretary” and “submit to the congressional defense committees” for “include with the defense budget materials for each fiscal year” in introductory provisions.
+Subsec. (a). Pub. L. 112–81, §1069(a)(1)(A), substituted "Not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year" for "The Secretary" and "submit to the congressional defense committees" for "include with the defense budget materials for each fiscal year" in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 112–81, §1069(a)(1)(B), inserted “, the Department of the Army,” after “Navy”.
+Subsec. (a)(1). Pub. L. 112–81, §1069(a)(1)(B), inserted ", the Department of the Army," after "Navy".
 
-Subsec. (b)(4). Pub. L. 112–81, §1069(a)(2)(A), substituted “Intertheater” for “Strategic”.
+Subsec. (b)(4). Pub. L. 112–81, §1069(a)(2)(A), substituted "Intertheater" for "Strategic".
 
 Subsec. (b)(8) to (11). Pub. L. 112–81, §1069(a)(2)(B), (C), added pars. (8) to (10) and redesignated former par. (8) as (11).
 
-Subsec. (c)(1). Pub. L. 112–81, §1069(a)(3)(A), substituted “national military strategy of the United States” for “national security strategy of the United States”.
+Subsec. (c)(1). Pub. L. 112–81, §1069(a)(3)(A), substituted "national military strategy of the United States" for "national security strategy of the United States".
 
-Subsec. (c)(2)(A). Pub. L. 112–81, §1069(a)(3)(B)(i), inserted “, the Department of the Army,” after “Navy”.
+Subsec. (c)(2)(A). Pub. L. 112–81, §1069(a)(3)(B)(i), inserted ", the Department of the Army," after "Navy".
 
-Subsec. (c)(2)(B). Pub. L. 112–81, §1069(a)(3)(B)(ii), substituted “national military strategy of the United States” for “national security strategy of the United States”.
+Subsec. (c)(2)(B). Pub. L. 112–81, §1069(a)(3)(B)(ii), substituted "national military strategy of the United States" for "national security strategy of the United States".
 
-Subsec. (c)(2)(C). Pub. L. 112–81, §1069(a)(3)(B)(iii)(II), (III), substituted “each aircraft program” for “the program” and inserted before period at end “, set forth in aggregate for the Department of Defense and in aggregate for each military department”.
+Subsec. (c)(2)(C). Pub. L. 112–81, §1069(a)(3)(B)(iii)(II), (III), substituted "each aircraft program" for "the program" and inserted before period at end ", set forth in aggregate for the Department of Defense and in aggregate for each military department".
 
-Pub. L. 112–81, §1069(a)(3)(B)(iii)(I), which directed the insertion of “investment” before “funding”, was executed by inserting “investment” before “funding” both places it appeared, to reflect the probable intent of Congress.
+Pub. L. 112–81, §1069(a)(3)(B)(iii)(I), which directed the insertion of "investment" before "funding", was executed by inserting "investment" before "funding" both places it appeared, to reflect the probable intent of Congress.
 
-Subsec. (c)(2)(D) to (F). Pub. L. 112–81, §1069(a)(3)(B)(iv)–(vi), added subpars. (D) and (E), redesignated former subpar. (D) as (F), and, in subpar. (F), inserted “, the Department of the Army,” after “Navy”.
+Subsec. (c)(2)(D) to (F). Pub. L. 112–81, §1069(a)(3)(B)(iv)–(vi), added subpars. (D) and (E), redesignated former subpar. (D) as (F), and, in subpar. (F), inserted ", the Department of the Army," after "Navy".
 
 Subsec. (c)(3), (4). Pub. L. 112–81, §1069(a)(3)(C), added pars. (3) and (4).
 
-Subsec. (d). Pub. L. 112–81, §1069(a)(4), inserted “, the Department of the Army,” after “Navy”.
+Subsec. (d). Pub. L. 112–81, §1069(a)(4), inserted ", the Department of the Army," after "Navy".
 
 Subsec. (e). Pub. L. 112–81, §1069(a)(6), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 112–81, §1069(a)(5), (7), redesignated subsec. (e) as (f), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “The term ‘defense budget materials’, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.”
+Subsec. (f). Pub. L. 112–81, §1069(a)(5), (7), redesignated subsec. (e) as (f), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: "The term 'defense budget materials', with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year."
 
 [<sup>1</sup> See References in Text note below.](#231a_1)

@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-In order to focus and expand the collection, storage, retrieval, and dissemination of the results of biotechnology research by information systems, and to support and enhance the development of new information technologies to aid in the understanding of the molecular processes that control health and disease, there is established the National Center for Biotechnology Information (hereinafter in this section referred to as the “Center”) in the National Library of Medicine.
+In order to focus and expand the collection, storage, retrieval, and dissemination of the results of biotechnology research by information systems, and to support and enhance the development of new information technologies to aid in the understanding of the molecular processes that control health and disease, there is established the National Center for Biotechnology Information (hereinafter in this section referred to as the "Center") in the National Library of Medicine.
 
 #### (b) Functions ####
 
@@ -20,4 +20,4 @@ The Secretary, through the Center and subject to section 286(d) of this title, s
 
 #### Amendments ####
 
-**1993**—Subsec. (c). Pub. L. 103–43 struck out subsec. (c) which read as follows: “For the purpose of performing the duties specified in subsection (b) of this section, there are authorized to be appropriated $8,000,000 for fiscal year 1989 and such sums as may be necessary for fiscal year 1990. Funds appropriated under this subsection shall remain available until expended.”
+**1993**—Subsec. (c). Pub. L. 103–43 struck out subsec. (c) which read as follows: "For the purpose of performing the duties specified in subsection (b) of this section, there are authorized to be appropriated $8,000,000 for fiscal year 1989 and such sums as may be necessary for fiscal year 1990. Funds appropriated under this subsection shall remain available until expended."

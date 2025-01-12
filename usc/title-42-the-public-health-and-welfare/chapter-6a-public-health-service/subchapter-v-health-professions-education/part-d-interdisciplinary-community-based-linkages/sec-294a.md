@@ -10,7 +10,7 @@ The Secretary shall make awards to eligible entities to enable such entities to 
 
 #### (2) Point of service maintenance and enhancement award ####
 
-The Secretary shall make awards to eligible entities to maintain and improve the effectiveness and capabilities of an existing area health education center program, and make other modifications to the program that are appropriate due to changes in demographics, needs of the populations served, or other similar issues affecting the area health education center program. For the purposes of this section, the term “Program” refers to the area health education center program.
+The Secretary shall make awards to eligible entities to maintain and improve the effectiveness and capabilities of an existing area health education center program, and make other modifications to the program that are appropriate due to changes in demographics, needs of the populations served, or other similar issues affecting the area health education center program. For the purposes of this section, the term "Program" refers to the area health education center program.
 
 #### (b) Eligible entities; application ####
 
@@ -18,11 +18,11 @@ The Secretary shall make awards to eligible entities to maintain and improve the
 
 #### (A) Infrastructure development ####
 
-For purposes of subsection (a)(1), the term “eligible entity” means a school of medicine or osteopathic medicine, an incorporated consortium of such schools, or the parent institutions of such a school. With respect to a State in which no area health education center program is in operation, the Secretary may award a grant or contract under subsection (a)(1) to a school of nursing.
+For purposes of subsection (a)(1), the term "eligible entity" means a school of medicine or osteopathic medicine, an incorporated consortium of such schools, or the parent institutions of such a school. With respect to a State in which no area health education center program is in operation, the Secretary may award a grant or contract under subsection (a)(1) to a school of nursing.
 
 #### (B) Point of service maintenance and enhancement ####
 
-For purposes of subsection (a)(2), the term “eligible entity” means an entity that has received funds under this section, is operating an area health education center program, including an area health education center or centers, and has a center or centers that are no longer eligible to receive financial assistance under subsection (a)(1).
+For purposes of subsection (a)(2), the term "eligible entity" means an entity that has received funds under this section, is operating an area health education center program, including an area health education center or centers, and has a center or centers that are no longer eligible to receive financial assistance under subsection (a)(1).
 
 #### (2) Application ####
 
@@ -168,4 +168,4 @@ Another prior section 751 of act July 1, 1944, was classified to section 294t of
 
 #### Waiver of Requirements ####
 
-Pub. L. 113–76, div. H, title II, Jan. 17, 2014, 128 Stat. 363, provided in part: “That for any program operating under section 751 of the PHS [Public Health Service] Act [42 U.S.C. 294a] on or before January 1, 2009, the Secretary may hereafter waive any of the requirements contained in sections 751(d)(2)(A) and 751(d)(2)(B) of such Act for the full project period of a grant under such section”.
+Pub. L. 113–76, div. H, title II, Jan. 17, 2014, 128 Stat. 363, provided in part: "That for any program operating under section 751 of the PHS [Public Health Service] Act [42 U.S.C. 294a] on or before January 1, 2009, the Secretary may hereafter waive any of the requirements contained in sections 751(d)(2)(A) and 751(d)(2)(B) of such Act for the full project period of a grant under such section".

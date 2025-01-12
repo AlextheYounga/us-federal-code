@@ -28,7 +28,7 @@ First and second paragraphs of this section are from sections 1 and 2, respectiv
 
 #### Effective Date ####
 
-Act July 8, 1940, ch. 555, §3, 54 Stat. 746, provided that: “This Act shall become effective six months after the date of its approval [July 8, 1940].”
+Act July 8, 1940, ch. 555, §3, 54 Stat. 746, provided that: "This Act shall become effective six months after the date of its approval [July 8, 1940]."
 
 #### Transfer of Functions ####
 

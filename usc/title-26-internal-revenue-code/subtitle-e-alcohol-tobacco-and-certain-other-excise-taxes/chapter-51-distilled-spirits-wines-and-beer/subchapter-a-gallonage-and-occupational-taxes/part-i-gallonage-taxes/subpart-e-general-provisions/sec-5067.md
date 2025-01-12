@@ -14,9 +14,9 @@ Another prior section 5081, added Pub. L. 85–859, title II, §201, Sept. 2, 19
 
 Another prior section 5081, act Aug. 16, 1954, ch. 736, 68A Stat. 615, imposed a tax on rectifiers of distilled spirits or wines, prior to the general revision of this chapter by Pub. L. 85–859.
 
-A prior section 5082, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1338, defined “rectifier”, prior to repeal by Pub. L. 96–39, title VIII, §§803(b), 810, July 26, 1979, 93 Stat. 274, 292, effective Jan. 1, 1980.
+A prior section 5082, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1338, defined "rectifier", prior to repeal by Pub. L. 96–39, title VIII, §§803(b), 810, July 26, 1979, 93 Stat. 274, 292, effective Jan. 1, 1980.
 
-Another prior section 5082, act Aug. 16, 1954, ch. 736, 68A Stat. 616, defined “rectifier”, prior to the general revision of this chapter by Pub. L. 85–859.
+Another prior section 5082, act Aug. 16, 1954, ch. 736, 68A Stat. 616, defined "rectifier", prior to the general revision of this chapter by Pub. L. 85–859.
 
 A prior section 5083, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1338; amended Pub. L. 89–44, title VIII, §805(f)(7), June 21, 1965, 79 Stat. 161, enumerated source authority for certain exemptions from tax under sections 5021 and 5081 of this title, prior to repeal by Pub. L. 96–39, title VIII, §§803(b), 810, July 26, 1979, 93 Stat. 274, 292, effective Jan. 1, 1980.
 
@@ -30,9 +30,9 @@ A prior section 5091, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72
 
 Another prior section 5091, act Aug. 16, 1954, ch. 736, 68A Stat. 616, related to imposition of tax on brewers, prior to the general revision of this chapter by Pub. L. 85–859.
 
-A prior section 5092, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1339; amended Pub. L. 95–458, §2(b)(3), Oct. 14, 1978, 92 Stat. 1256, defined “brewer”, prior to repeal by Pub. L. 109–59, title XI, §11125(a)(1)(B), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior section 5092, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1339; amended Pub. L. 95–458, §2(b)(3), Oct. 14, 1978, 92 Stat. 1256, defined "brewer", prior to repeal by Pub. L. 109–59, title XI, §11125(a)(1)(B), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
-Another prior section 5092, act Aug. 16, 1954, ch. 736, 68A Stat. 617, defined “brewer”, prior to the general revision of this chapter by Pub. L. 85–859.
+Another prior section 5092, act Aug. 16, 1954, ch. 736, 68A Stat. 617, defined "brewer", prior to the general revision of this chapter by Pub. L. 85–859.
 
 A prior section 5093, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1339, set out cross references, prior to repeal by Pub. L. 109–59, title XI, §11125(a)(1)(B), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 

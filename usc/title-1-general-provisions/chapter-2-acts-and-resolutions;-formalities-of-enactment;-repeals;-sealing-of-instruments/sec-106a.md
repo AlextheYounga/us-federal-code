@@ -6,7 +6,7 @@ Whenever a bill, order, resolution, or vote of the Senate and House of Represent
 
 #### Amendments ####
 
-**1984**—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services” in two places.
+**1984**—Pub. L. 98–497 substituted "Archivist of the United States" for "Administrator of General Services" in two places.
 
 #### Effective Date of 1984 Amendment ####
 

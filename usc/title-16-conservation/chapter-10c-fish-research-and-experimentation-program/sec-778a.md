@@ -6,4 +6,4 @@ For the purpose of carrying out the provisions of this chapter, the Secretary of
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–127 substituted “the Secretary of Agriculture is authorized” for “the Secretary of the Interior is authorized”.
+**1996**—Pub. L. 104–127 substituted "the Secretary of Agriculture is authorized" for "the Secretary of the Interior is authorized".

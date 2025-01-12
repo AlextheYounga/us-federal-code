@@ -102,7 +102,7 @@ Sec.
 
 1445–3. Purchase of inventory stock.
 
-1445a. Wheat price support levels; “cooperator” defined.
+1445a. Wheat price support levels; "cooperator" defined.
 
 1445b to 1445c–3. Repealed, Transferred, or Omitted.
 

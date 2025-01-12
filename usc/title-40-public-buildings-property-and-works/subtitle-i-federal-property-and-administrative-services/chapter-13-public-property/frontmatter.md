@@ -34,4 +34,4 @@ Sec.
 
 #### Amendments ####
 
-**2002**—Pub. L. 107–296, title XVII, §1706(b)(3), Nov. 25, 2002, 116 Stat. 2318, added item 1315 and struck out former item 1315 “Special police”.
+**2002**—Pub. L. 107–296, title XVII, §1706(b)(3), Nov. 25, 2002, 116 Stat. 2318, added item 1315 and struck out former item 1315 "Special police".

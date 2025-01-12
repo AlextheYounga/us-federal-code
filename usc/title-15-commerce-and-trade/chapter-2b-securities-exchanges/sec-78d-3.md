@@ -12,7 +12,7 @@ The Commission may censure any person, or deny, temporarily or permanently, to a
 
 #### (b) Definition ####
 
-With respect to any registered public accounting firm or associated person, for purposes of this section, the term “improper professional conduct” means—
+With respect to any registered public accounting firm or associated person, for purposes of this section, the term "improper professional conduct" means—
 
 (1) intentional or knowing conduct, including reckless conduct, that results in a violation of applicable professional standards; and
 

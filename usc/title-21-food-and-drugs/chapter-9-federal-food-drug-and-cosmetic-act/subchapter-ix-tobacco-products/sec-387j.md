@@ -4,7 +4,7 @@
 
 #### (1) New tobacco product defined ####
 
-For purposes of this section the term “new tobacco product” means—
+For purposes of this section the term "new tobacco product" means—
 
 (A) any tobacco product (including those products in test markets) that was not commercially marketed in the United States as of February 15, 2007; or
 
@@ -38,7 +38,7 @@ except that subparagraph (A) shall apply to the tobacco product if the Secretary
 
 #### (A) In general ####
 
-In this section and section 387e(j) of this title, the term “substantially equivalent” or “substantial equivalence” means, with respect to the tobacco product being compared to the predicate tobacco product, that the Secretary by order has found that the tobacco product—
+In this section and section 387e(j) of this title, the term "substantially equivalent" or "substantial equivalence" means, with respect to the tobacco product being compared to the predicate tobacco product, that the Secretary by order has found that the tobacco product—
 
 (i) has the same characteristics as the predicate tobacco product; or
 
@@ -46,7 +46,7 @@ In this section and section 387e(j) of this title, the term “substantially equ
 
 #### (B) Characteristics ####
 
-In subparagraph (A), the term “characteristics” means the materials, ingredients, design, composition, heating source, or other features of a tobacco product.
+In subparagraph (A), the term "characteristics" means the materials, ingredients, design, composition, heating source, or other features of a tobacco product.
 
 #### (C) Limitation ####
 

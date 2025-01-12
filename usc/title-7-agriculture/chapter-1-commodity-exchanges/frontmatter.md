@@ -6,7 +6,7 @@ Sec.
 
 1a. Definitions.
 
-1b. Requirements of Secretary of the Treasury regarding exemption of foreign exchange swaps and foreign exchange forwards from definition of the term “swap”.
+1b. Requirements of Secretary of the Treasury regarding exemption of foreign exchange swaps and foreign exchange forwards from definition of the term "swap".
 
 2. Jurisdiction of Commission; liability of principal for act of agent; Commodity Futures Trading Commission; transaction in interstate commerce.
 
@@ -92,7 +92,7 @@ Sec.
 
 10a. Cooperative associations and corporations, exclusion from board of trade; rules of board inapplicable to payment of compensation by association.
 
-11. Vacation on request of designation or registration as “registered entity”; redesignation or reregistration.
+11. Vacation on request of designation or registration as "registered entity"; redesignation or reregistration.
 
 12. Public disclosure.
 

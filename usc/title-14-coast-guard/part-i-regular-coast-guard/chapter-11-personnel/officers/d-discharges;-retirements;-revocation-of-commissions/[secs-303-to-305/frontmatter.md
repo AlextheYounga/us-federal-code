@@ -2,9 +2,9 @@
 
 Section 303, act Aug. 4, 1949, ch. 393, 63 Stat. 518, required compulsory retirement of warrant officers reaching age of sixty-two years, with retired pay of grade with which retired.
 
-Section 304, act Aug. 4, 1949, ch. 393, 63 Stat. 518, provided for voluntary retirement of warrant officers after thirty years’ service, with retired pay of grade with which retired.
+Section 304, act Aug. 4, 1949, ch. 393, 63 Stat. 518, provided for voluntary retirement of warrant officers after thirty years' service, with retired pay of grade with which retired.
 
-Section 305, act Aug. 4, 1949, ch. 393, 63 Stat. 518, provided for voluntary retirement after twenty years’ service, with retired pay of grade with which retired.
+Section 305, act Aug. 4, 1949, ch. 393, 63 Stat. 518, provided for voluntary retirement after twenty years' service, with retired pay of grade with which retired.
 
 #### Additional Repeal ####
 

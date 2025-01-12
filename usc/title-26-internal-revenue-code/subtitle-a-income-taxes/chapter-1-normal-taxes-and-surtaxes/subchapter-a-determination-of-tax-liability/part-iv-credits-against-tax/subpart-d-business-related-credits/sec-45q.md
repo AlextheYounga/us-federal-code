@@ -24,7 +24,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “qualified carbon dioxide” means carbon dioxide captured from an industrial source which—
+The term "qualified carbon dioxide" means carbon dioxide captured from an industrial source which—
 
 (A) would otherwise be released into the atmosphere as industrial emission of greenhouse gas, and
 
@@ -32,11 +32,11 @@ The term “qualified carbon dioxide” means carbon dioxide captured from an in
 
 #### (2) Recycled carbon dioxide ####
 
-The term “qualified carbon dioxide” includes the initial deposit of captured carbon dioxide used as a tertiary injectant. Such term does not include carbon dioxide that is re-captured, recycled, and re-injected as part of the enhanced oil and natural gas recovery process.
+The term "qualified carbon dioxide" includes the initial deposit of captured carbon dioxide used as a tertiary injectant. Such term does not include carbon dioxide that is re-captured, recycled, and re-injected as part of the enhanced oil and natural gas recovery process.
 
 #### (c) Qualified facility ####
 
-For purposes of this section, the term “qualified facility” means any industrial facility—
+For purposes of this section, the term "qualified facility" means any industrial facility—
 
 (1) which is owned by the taxpayer,
 
@@ -62,11 +62,11 @@ The Secretary, in consultation with the Administrator of the Environmental Prote
 
 #### (3) Tertiary injectant ####
 
-The term “tertiary injectant” has the same meaning as when used within section 193(b)(1).
+The term "tertiary injectant" has the same meaning as when used within section 193(b)(1).
 
 #### (4) Qualified enhanced oil or natural gas recovery project ####
 
-The term “qualified enhanced oil or natural gas recovery project” has the meaning given the term “qualified enhanced oil recovery project” by section 43(c)(2), by substituting “crude oil or natural gas” for “crude oil” in subparagraph (A)(i) thereof.
+The term "qualified enhanced oil or natural gas recovery project" has the meaning given the term "qualified enhanced oil recovery project" by section 43(c)(2), by substituting "crude oil or natural gas" for "crude oil" in subparagraph (A)(i) thereof.
 
 #### (5) Credit attributable to taxpayer ####
 
@@ -82,7 +82,7 @@ In the case of any taxable year beginning in a calendar year after 2009, there s
 
 (A) such dollar amount, multiplied by
 
-(B) the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting “2008” for “1990”.
+(B) the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting "2008" for "1990".
 
 #### (e) Application of section ####
 
@@ -96,17 +96,17 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 
 #### Amendments ####
 
-**2009**—Subsec. (a)(1)(B). Pub. L. 111–5, §1131(b)(2), inserted “and not used by the taxpayer as described in paragraph (2)(B)” after “storage”.
+**2009**—Subsec. (a)(1)(B). Pub. L. 111–5, §1131(b)(2), inserted "and not used by the taxpayer as described in paragraph (2)(B)" after "storage".
 
 Subsec. (a)(2)(C). Pub. L. 111–5, §1131(a), added subpar. (C).
 
-Subsec. (d)(2). Pub. L. 111–5, §1131(b)(1), inserted “the Secretary of Energy, and the Secretary of the Interior,” after “Environmental Protection Agency” and substituted “paragraph (1)(B) or (2)(C) of subsection (a)” for “subsection (a)(1)(B)” and “, oil and gas reservoirs, and unminable coal seams” for “and unminable coal seems”.
+Subsec. (d)(2). Pub. L. 111–5, §1131(b)(1), inserted "the Secretary of Energy, and the Secretary of the Interior," after "Environmental Protection Agency" and substituted "paragraph (1)(B) or (2)(C) of subsection (a)" for "subsection (a)(1)(B)" and ", oil and gas reservoirs, and unminable coal seams" for "and unminable coal seems".
 
-Subsec. (e). Pub. L. 111–5, §1131(b)(3), substituted “taken into account in accordance with subsection (a)” for “captured and disposed of or used as a tertiary injectant”.
+Subsec. (e). Pub. L. 111–5, §1131(b)(3), substituted "taken into account in accordance with subsection (a)" for "captured and disposed of or used as a tertiary injectant".
 
 #### Effective Date of 2009 Amendment ####
 
-Pub. L. 111–5, div. B, title I, §1131(c), Feb. 17, 2009, 123 Stat. 325, provided that: “The amendments made by this section [amending this section] shall apply to carbon dioxide captured after the date of the enactment of this Act [Feb. 17, 2009].”
+Pub. L. 111–5, div. B, title I, §1131(c), Feb. 17, 2009, 123 Stat. 325, provided that: "The amendments made by this section [amending this section] shall apply to carbon dioxide captured after the date of the enactment of this Act [Feb. 17, 2009]."
 
 #### Effective Date ####
 

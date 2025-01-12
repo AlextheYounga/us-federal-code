@@ -28,9 +28,9 @@ Form of section was simplified.
 
 The District of Columbia was added as a separate circuit. This is in accord with the decision of the Supreme Court of the United States which held the Court of Appeals for the District of Columbia to be a circuit court of appeals within the Transfer Act of Sept. 14, 1922, ch. 305, 42 Stat. 837, incorporated in the Judicial Code as §238(a), but repealed by act Feb. 13, 1925, ch. 229, §13, 43 Stat. 942. (See *Swift and Co. v. U.S*., 1928, 48 S.Ct. 311, 276 U.S. 311, 72 L.Ed. 587.)
 
-In recognizing the District of Columbia as a separate circuit, the Supreme Court recently used this language: “\* \* \* the eleven circuits forming the single federal judicature \* \* \*”. *Comm'r. v. Bedford's Estate*, 65 S.Ct. 1157, at page 1160, 325 U.S. 283, 89 L.Ed. 611.
+In recognizing the District of Columbia as a separate circuit, the Supreme Court recently used this language: "\* \* \* the eleven circuits forming the single federal judicature \* \* \*". *Comm'r. v. Bedford's Estate*, 65 S.Ct. 1157, at page 1160, 325 U.S. 283, 89 L.Ed. 611.
 
-See section 17 of title 28, U.S.C., 1940 ed., providing, “For the purposes of sections 17–23 of this title, the District of Columbia shall be deemed to be a judicial circuit \* \* \*”, and act Dec. 23, 1944, ch. 724, 58 Stat. 925, which amended section 215 of title 28, U.S.C., 1940 ed., incorporated in section 42 of this title. Such amendment provided that for the purposes of said section 215 “the District of Columbia shall be deemed to be a judicial circuit.”
+See section 17 of title 28, U.S.C., 1940 ed., providing, "For the purposes of sections 17–23 of this title, the District of Columbia shall be deemed to be a judicial circuit \* \* \*", and act Dec. 23, 1944, ch. 724, 58 Stat. 925, which amended section 215 of title 28, U.S.C., 1940 ed., incorporated in section 42 of this title. Such amendment provided that for the purposes of said section 215 "the District of Columbia shall be deemed to be a judicial circuit."
 
 Many other acts of Congress have recognized the District of Columbia as a separate circuit. (See the following acts; Aug. 24, 1937, ch. 754, 50 Stat. 751; Feb. 11, 1938, ch. 25, 52 Stat. 28; Aug. 5, 1939, ch. 433, 53 Stat. 1204; Aug. 7, 1939, ch. 501, 53 Stat. 1223; Dec. 29, 1942, ch. 835, 56 Stat. 1094; May 11, 1944, ch. 192, 58 Stat. 218; Dec. 23, 1944, ch. 724, 58 Stat. 925.)
 
@@ -46,7 +46,7 @@ Some of the provisions of section 864 of title 48, U.S.C., 1940 ed., have been r
 
 **1982**—Pub. L. 97–164 increased number of judicial circuits from twelve to thirteen through addition of Federal circuit composed of all Federal judicial districts.
 
-**1980**—Pub. L. 96–452 substituted “twelve” for “eleven” in text preceding table, substituted “District of the Canal Zone” for “Alabama, Canal Zone, Florida, Georgia” in item relating to fifth circuit, and added new item relating to eleventh circuit.
+**1980**—Pub. L. 96–452 substituted "twelve" for "eleven" in text preceding table, substituted "District of the Canal Zone" for "Alabama, Canal Zone, Florida, Georgia" in item relating to fifth circuit, and added new item relating to eleventh circuit.
 
 **1951**—Act Oct. 31, 1951, inserted reference to Guam in that part relating to composition of Ninth judicial circuit.
 
@@ -56,11 +56,11 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1980 Amendment ####
 
-Pub. L. 96–452, §12, Oct. 14, 1980, 94 Stat. 1996, provided that: “This Act and the amendments made by this Act [amending this section and sections 44 and 48 of this title, and enacting provisions set out as notes under this section] shall take effect on October 1, 1981.”
+Pub. L. 96–452, §12, Oct. 14, 1980, 94 Stat. 1996, provided that: "This Act and the amendments made by this Act [amending this section and sections 44 and 48 of this title, and enacting provisions set out as notes under this section] shall take effect on October 1, 1981."
 
 #### Termination of United States District Court for the District of the Canal Zone ####
 
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Commission on Structural Alternatives for the Federal Courts of Appeals ####
 
@@ -70,47 +70,47 @@ Pub. L. 105–119, title III, §305, Nov. 26, 1997, 111 Stat. 2491, established 
 
 Sections 5 to 10 of Pub. L. 96–452 provided that:
 
-“Sec. 5. Each circuit judge in regular active service of the former fifth circuit whose official station on the day before the effective date of this Act [Oct. 1, 1981]—
+"Sec. 5. Each circuit judge in regular active service of the former fifth circuit whose official station on the day before the effective date of this Act [Oct. 1, 1981]—
 
-“(1) is in Louisiana, Mississippi, or Texas is assigned as a circuit judge of the new fifth circuit; and
+"(1) is in Louisiana, Mississippi, or Texas is assigned as a circuit judge of the new fifth circuit; and
 
-“(2) is in Alabama, Florida, or Georgia is assigned as a circuit judge of the eleventh circuit.
+"(2) is in Alabama, Florida, or Georgia is assigned as a circuit judge of the eleventh circuit.
 
-“Sec. 6. Each judge who is a senior judge of the former fifth circuit on the day before the effective date of this Act [Oct. 1, 1981] may elect to be assigned to the new fifth circuit or to the eleventh circuit and shall notify the Director of the Administrative Office of the United States Courts of such election.
+"Sec. 6. Each judge who is a senior judge of the former fifth circuit on the day before the effective date of this Act [Oct. 1, 1981] may elect to be assigned to the new fifth circuit or to the eleventh circuit and shall notify the Director of the Administrative Office of the United States Courts of such election.
 
-“Sec. 7. The seniority of each judge—
+"Sec. 7. The seniority of each judge—
 
-“(1) who is assigned under section 5 of this Act; or
+"(1) who is assigned under section 5 of this Act; or
 
-“(2) who elects to be assigned under section 6 of this Act;
+"(2) who elects to be assigned under section 6 of this Act;
 
 shall run from the date of commission of such judge as a judge of the former fifth circuit.
 
-“Sec. 8. The eleventh circuit is authorized to hold terms or sessions of court at New Orleans, Louisiana, until such time as adequate facilities for such court are provided in Atlanta, Georgia.
+"Sec. 8. The eleventh circuit is authorized to hold terms or sessions of court at New Orleans, Louisiana, until such time as adequate facilities for such court are provided in Atlanta, Georgia.
 
-“Sec. 9. The provisions of the following paragraphs of this section apply to any case in which, on the day before the effective date of this Act [Oct. 1, 1981], an appeal or other proceeding has been filed with the former fifth circuit:
+"Sec. 9. The provisions of the following paragraphs of this section apply to any case in which, on the day before the effective date of this Act [Oct. 1, 1981], an appeal or other proceeding has been filed with the former fifth circuit:
 
-“(1) If the matter has been submitted for decision, further proceedings in respect of the matter shall be had in the same manner and with the same effect as if this Act [amending sections 41, 44, and 48 of this title, and enacting provisions set out as notes under this section] had not been enacted.
+"(1) If the matter has been submitted for decision, further proceedings in respect of the matter shall be had in the same manner and with the same effect as if this Act [amending sections 41, 44, and 48 of this title, and enacting provisions set out as notes under this section] had not been enacted.
 
-“(2) If the matter has not been submitted for decision, the appeal or proceeding, together with the original papers, printed records, and record entries duly certified, shall, by appropriate orders, be transferred to the court to which it would have gone had this Act been in full force and effect at the time such appeal was taken or other proceeding commenced, and further proceedings in respect of the case shall be had in the same manner and with the same effect as if the appeal or other proceeding had been filed in such court.
+"(2) If the matter has not been submitted for decision, the appeal or proceeding, together with the original papers, printed records, and record entries duly certified, shall, by appropriate orders, be transferred to the court to which it would have gone had this Act been in full force and effect at the time such appeal was taken or other proceeding commenced, and further proceedings in respect of the case shall be had in the same manner and with the same effect as if the appeal or other proceeding had been filed in such court.
 
-“(3) A petition for rehearing or a petition for rehearing en banc in a matter decided before the effective date of this Act [Oct. 1, 1981], or submitted before the effective date of this Act and decided on or after the effective date as provided in paragraph (1) of this section, shall be treated in the same manner and with the same effect as though this Act had not been enacted. If a petition for rehearing en banc is granted, the matter shall be reheard by a court comprised as though this Act had not been enacted.
+"(3) A petition for rehearing or a petition for rehearing en banc in a matter decided before the effective date of this Act [Oct. 1, 1981], or submitted before the effective date of this Act and decided on or after the effective date as provided in paragraph (1) of this section, shall be treated in the same manner and with the same effect as though this Act had not been enacted. If a petition for rehearing en banc is granted, the matter shall be reheard by a court comprised as though this Act had not been enacted.
 
-“Sec. 10. As used in sections 5, 6, 7, 8, and 9 of this Act, the term—
+"Sec. 10. As used in sections 5, 6, 7, 8, and 9 of this Act, the term—
 
-“(1) ‘former fifth circuit’ means the fifth judicial circuit of the United States as in existence on the day before the effective date of this Act [Oct. 1, 1981];
+"(1) 'former fifth circuit' means the fifth judicial circuit of the United States as in existence on the day before the effective date of this Act [Oct. 1, 1981];
 
-“(2) the term ‘new fifth circuit’ means the fifth judicial circuit of the United States established by the amendment made by section 2(2) of this Act [amending item relating to the fifth circuit in this section]; and
+"(2) the term 'new fifth circuit' means the fifth judicial circuit of the United States established by the amendment made by section 2(2) of this Act [amending item relating to the fifth circuit in this section]; and
 
-“(3) the term ‘eleventh circuit’ means the eleventh judicial circuit of the United States established by the amendment made by section 2(3) of this Act [adding item relating to the eleventh circuit in this section].”
+"(3) the term 'eleventh circuit' means the eleventh judicial circuit of the United States established by the amendment made by section 2(3) of this Act [adding item relating to the eleventh circuit in this section]."
 
 #### Administrative Action by Fifth Circuit Court of Appeals; Termination of Court ####
 
-Pub. L. 96–452, §11, Oct. 14, 1980, 94 Stat. 1996, provided that: “The court of appeals for the fifth circuit as constituted on the day before the effective date of this Act [Oct. 1, 1981] may take such administrative action as may be required to carry out this Act [amending sections 41, 44, and 48 of this title, and enacting provisions set out as notes under this section]. Such court shall cease to exist for administrative purposes on July 1, 1984.”
+Pub. L. 96–452, §11, Oct. 14, 1980, 94 Stat. 1996, provided that: "The court of appeals for the fifth circuit as constituted on the day before the effective date of this Act [Oct. 1, 1981] may take such administrative action as may be required to carry out this Act [amending sections 41, 44, and 48 of this title, and enacting provisions set out as notes under this section]. Such court shall cease to exist for administrative purposes on July 1, 1984."
 
 #### Appeals Court Administrative Units ####
 
-Pub. L. 95–486, §6, Oct. 20, 1978, 92 Stat. 1633, provided that: “Any court of appeals having more than 15 active judges may constitute itself into administrative units complete with such facilities and staff as may be prescribed by the Administrative Office of the United States Courts, and may perform its en banc function by such number of members of its en banc courts as may be prescribed by rule of the court of appeals.”
+Pub. L. 95–486, §6, Oct. 20, 1978, 92 Stat. 1633, provided that: "Any court of appeals having more than 15 active judges may constitute itself into administrative units complete with such facilities and staff as may be prescribed by the Administrative Office of the United States Courts, and may perform its en banc function by such number of members of its en banc courts as may be prescribed by rule of the court of appeals."
 
 #### Northern Mariana Islands ####
 

@@ -10,4 +10,4 @@ Repeal effective Oct. 1, 1982, and applicable to military construction projects,
 
 #### Savings Provision ####
 
-Pub. L. 97–214, §9(b), July 12, 1982, 96 Stat. 174, provided that: “The Secretary of Defense may continue in effect any agreement guaranteeing rental returns to builders or other sponsors of family housing in foreign countries that was made under section 507 of the Military Construction Authorization Act, 1964 (42 U.S.C. 1594k), before the effective date of this Act [Oct. 1, 1982] and may exercise any option of the United States in any such agreement that has not been exercised before such date.”
+Pub. L. 97–214, §9(b), July 12, 1982, 96 Stat. 174, provided that: "The Secretary of Defense may continue in effect any agreement guaranteeing rental returns to builders or other sponsors of family housing in foreign countries that was made under section 507 of the Military Construction Authorization Act, 1964 (42 U.S.C. 1594k), before the effective date of this Act [Oct. 1, 1982] and may exercise any option of the United States in any such agreement that has not been exercised before such date."

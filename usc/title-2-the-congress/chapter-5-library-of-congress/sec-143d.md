@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-Available balances of expired Library of Congress appropriations shall be available to the Library of Congress to make the deposit to the credit of the Employees’ Compensation Fund required by subsection 8147(b) of title 5.
+Available balances of expired Library of Congress appropriations shall be available to the Library of Congress to make the deposit to the credit of the Employees' Compensation Fund required by subsection 8147(b) of title 5.
 
 #### (b) Effective date ####
 

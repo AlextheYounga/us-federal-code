@@ -105,24 +105,24 @@ Chap. Sec.
 
 **2003**—Pub. L. 108–136, div. A, title V, §576(c)(2), Nov. 24, 2003, 117 Stat. 1488, added item for chapter 875.
 
-**1999**—Pub. L. 106–65, div. A, title VII, §721(c)(8), Oct. 5, 1999, 113 Stat. 695, substituted “Disposition” for “Inquests; Disposition” and “9712” for “9711” in item for chapter 945.
+**1999**—Pub. L. 106–65, div. A, title VII, §721(c)(8), Oct. 5, 1999, 113 Stat. 695, substituted "Disposition" for "Inquests; Disposition" and "9712" for "9711" in item for chapter 945.
 
-**1996**—Pub. L. 104–106, div. A, title XV, §1503(b)(6), Feb. 10, 1996, 110 Stat. 513, inserted comma after “SUPPLY” in heading for part IV.
+**1996**—Pub. L. 104–106, div. A, title XV, §1503(b)(6), Feb. 10, 1996, 110 Stat. 513, inserted comma after "SUPPLY" in heading for part IV.
 
-**1994**—Pub. L. 103–337, div. A, title XVI, §1674(a), Oct. 5, 1994, 108 Stat. 3016, struck out items for chapters 837 “Appointments as Reserve Officers” and 863 “Separation or Transfer to Retired Reserve”.
+**1994**—Pub. L. 103–337, div. A, title XVI, §1674(a), Oct. 5, 1994, 108 Stat. 3016, struck out items for chapters 837 "Appointments as Reserve Officers" and 863 "Separation or Transfer to Retired Reserve".
 
-**1993**—Pub. L. 103–160, div. A, title VIII, §828(c)(8)(B), title XI, §1178(c), Nov. 30, 1993, 107 Stat. 1715, 1769, added item for chapter 905 and substituted “Civil Reserve Air Fleet” for “Industrial Mobilization, Research, and Development” and “9511” for “9501” in item for chapter 931.
+**1993**—Pub. L. 103–160, div. A, title VIII, §828(c)(8)(B), title XI, §1178(c), Nov. 30, 1993, 107 Stat. 1715, 1769, added item for chapter 905 and substituted "Civil Reserve Air Fleet" for "Industrial Mobilization, Research, and Development" and "9511" for "9501" in item for chapter 931.
 
-**1987**—Pub. L. 100–26, §7(j)(10)(B), Apr. 21, 1987, 101 Stat. 283, substituted “8011” for “8010” in item for chapter 803.
+**1987**—Pub. L. 100–26, §7(j)(10)(B), Apr. 21, 1987, 101 Stat. 283, substituted "8011" for "8010" in item for chapter 803.
 
-**1980**—Pub. L. 96–513, title V, §§504(1), 514(1), Dec. 12, 1980, 94 Stat. 2915, 2935, substituted “8010” for “8011” in item for chapter 803 and struck out items for chapters 859 “Separation from Regular Air Force for Substandard Performance of Duty”, 860 “Separation from Regular Air Force for Moral or Professional Dereliction or in Interests of National Security”, and 865 “Retirement for Age”.
+**1980**—Pub. L. 96–513, title V, §§504(1), 514(1), Dec. 12, 1980, 94 Stat. 2915, 2935, substituted "8010" for "8011" in item for chapter 803 and struck out items for chapters 859 "Separation from Regular Air Force for Substandard Performance of Duty", 860 "Separation from Regular Air Force for Moral or Professional Dereliction or in Interests of National Security", and 865 "Retirement for Age".
 
-**1968**—Pub. L. 90–377, §5, July 5, 1968, 82 Stat. 288, struck out item for chapter 851 “United States Disciplinary Barracks”.
+**1968**—Pub. L. 90–377, §5, July 5, 1968, 82 Stat. 288, struck out item for chapter 851 "United States Disciplinary Barracks".
 
-Pub. L. 90–235, §8(6), Jan. 2, 1968, 81 Stat. 764, struck out item for chapter 847 “The Uniform”.
+Pub. L. 90–235, §8(6), Jan. 2, 1968, 81 Stat. 764, struck out item for chapter 847 "The Uniform".
 
-**1964**—Pub. L. 88–647, title III, §301(27), Oct. 13, 1964, 78 Stat. 1073, struck out item for chapter 905 “Air Force Reserve Officers’ Training Corps”.
+**1964**—Pub. L. 88–647, title III, §301(27), Oct. 13, 1964, 78 Stat. 1073, struck out item for chapter 905 "Air Force Reserve Officers' Training Corps".
 
-**1960**—Pub. L. 86–616, §§7(b), 8(b), July 12, 1960, 74 Stat. 393, 395, substituted “Substandard Performance of Duty” for “Failure to Meet Standards” in item for chapter 859 and added item for chapter 860.
+**1960**—Pub. L. 86–616, §§7(b), 8(b), July 12, 1960, 74 Stat. 393, 395, substituted "Substandard Performance of Duty" for "Failure to Meet Standards" in item for chapter 859 and added item for chapter 860.
 
-**1958**—Pub. L. 85–861, §1(193), Sept. 2, 1958, 72 Stat. 1538, substituted “8841” for “[No present sections]” in item for chapter 863.
+**1958**—Pub. L. 85–861, §1(193), Sept. 2, 1958, 72 Stat. 1538, substituted "8841" for "[No present sections]" in item for chapter 863.

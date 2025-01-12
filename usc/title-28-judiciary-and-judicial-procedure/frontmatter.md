@@ -19,7 +19,7 @@ VI. Particular Proceedings 2201
 
 #### Amendments ####
 
-**1966**—Pub. L. 89–554, §4(a), Sept. 6, 1966, 80 Stat. 611, substituted “Department of Justice” for “United States Attorneys and Marshals” in item for part II.
+**1966**—Pub. L. 89–554, §4(a), Sept. 6, 1966, 80 Stat. 611, substituted "Department of Justice" for "United States Attorneys and Marshals" in item for part II.
 
 |*Title 28<br/><br/>Former Sections*|                 *Title 28<br/><br/>New Sections*                  |
 |-----------------------------------|-------------------------------------------------------------------|
@@ -724,30 +724,30 @@ VI. Particular Proceedings 2201
 
 #### Enactment Into Law; Citation ####
 
-Section 1 of act June 25, 1948, ch. 646, 62 Stat. 869, provided in part: “That title 28 of the United States Code, entitled ‘Judicial Code and Judiciary’ is hereby revised, codified, and enacted into law, and may be cited as ‘Title 28, United States Code, section \_\_\_\_\_\_.’ ”
+Section 1 of act June 25, 1948, ch. 646, 62 Stat. 869, provided in part: "That title 28 of the United States Code, entitled 'Judicial Code and Judiciary' is hereby revised, codified, and enacted into law, and may be cited as 'Title 28, United States Code, section \_\_\_\_\_\_.' "
 
 #### Legislative Construction ####
 
-Section 33 of act June 25, 1948, ch. 646, 62 Stat. 991, provided that: “No inference of a legislative construction is to be drawn by reason of the chapter in Title 28, Judiciary and Judicial Procedure, as set out in section 1 of this Act, in which any section is placed, nor by reason of the catchlines used in such title.”
+Section 33 of act June 25, 1948, ch. 646, 62 Stat. 991, provided that: "No inference of a legislative construction is to be drawn by reason of the chapter in Title 28, Judiciary and Judicial Procedure, as set out in section 1 of this Act, in which any section is placed, nor by reason of the catchlines used in such title."
 
 #### Separability ####
 
-Section 34 of act June 25, 1948, ch. 646, 62 Stat. 991, provided that: “If any part of Title 28, Judiciary and Judicial Procedure, as set out in section 1 of this Act, shall be held invalid, the remainder shall not be affected thereby.”
+Section 34 of act June 25, 1948, ch. 646, 62 Stat. 991, provided that: "If any part of Title 28, Judiciary and Judicial Procedure, as set out in section 1 of this Act, shall be held invalid, the remainder shall not be affected thereby."
 
 #### Effective Date ####
 
-Section 38 of act June 25, 1948, ch. 646, 62 Stat. 992, provided that: “The provisions of this Act shall take effect on September 1, 1948.”
+Section 38 of act June 25, 1948, ch. 646, 62 Stat. 992, provided that: "The provisions of this Act shall take effect on September 1, 1948."
 
 #### Repeals; Rights and Liabilities Saved ####
 
 Act June 25, 1948, ch. 646, §39, 62 Stat. 992, repealed the sections or parts thereof of the Revised Statutes of the United States, Statutes at Large, or the Revised Statutes of the District of Columbia covering provisions codified in this title, but saved any rights or liabilities then existing under said sections or parts thereof.
 
-R.S. §1012 as affected by act Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167 [section 880 of former Title 28, Judicial Code and Judiciary], provided that appeals from district courts shall be subject to the same rules, regulations, and restrictions as are or may be prescribed in law in cases of writs of error. This provision was repealed by act June 25, 1948, ch. 646, §39, 62 Stat. 992. Section 2 of act Jan. 31, 1928, ch. 14, 45 Stat. 54, as amended Apr. 26, 1928, ch. 440, 45 Stat. 466; June 25, 1948, ch. 646, §23, 62 Stat. 990 [section 861b of former Title 28, Judicial Code and Judiciary], provided that: “All Acts of Congress referring to writs of error shall be construed as amended to the extent necessary to substitute appeal for writ of error.”
+R.S. §1012 as affected by act Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167 [section 880 of former Title 28, Judicial Code and Judiciary], provided that appeals from district courts shall be subject to the same rules, regulations, and restrictions as are or may be prescribed in law in cases of writs of error. This provision was repealed by act June 25, 1948, ch. 646, §39, 62 Stat. 992. Section 2 of act Jan. 31, 1928, ch. 14, 45 Stat. 54, as amended Apr. 26, 1928, ch. 440, 45 Stat. 466; June 25, 1948, ch. 646, §23, 62 Stat. 990 [section 861b of former Title 28, Judicial Code and Judiciary], provided that: "All Acts of Congress referring to writs of error shall be construed as amended to the extent necessary to substitute appeal for writ of error."
 
 #### Writs of Error ####
 
-Act Jan. 31, 1928, ch. 14, §1, 45 Stat. 54 [section 861a of former Title 28, Judicial Code and Judiciary], provided that: “The writ of error in cases, civil and criminal, is abolished. All relief which heretofore [Jan. 31, 1928] could be obtained by writ of error shall hereafter be obtainable by appeal.” This provision was omitted from the 1948 Revised Judicial Code as obsolete, and repealed by act June 25, 1948, ch. 646, §39, 62 Stat. 992.
+Act Jan. 31, 1928, ch. 14, §1, 45 Stat. 54 [section 861a of former Title 28, Judicial Code and Judiciary], provided that: "The writ of error in cases, civil and criminal, is abolished. All relief which heretofore [Jan. 31, 1928] could be obtained by writ of error shall hereafter be obtainable by appeal." This provision was omitted from the 1948 Revised Judicial Code as obsolete, and repealed by act June 25, 1948, ch. 646, §39, 62 Stat. 992.
 
 #### Title 28 as Continuation of Existing Law; Change of Name of Circuit Courts of Appeals ####
 
-Act June 25, 1948, ch. 646, §2(b), 62 Stat. 985, provided that: “The provisions of Title 28, Judiciary and Judicial Procedure, of the United States Code, set out in section 1 of this Act, with respect to the organization of each of the several courts therein provided for and of the Administrative Office of the United States Courts, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees thereof and of the United States attorneys and marshals and their deputies and assistants, in office on the effective date of this Act [Sept. 1, 1948], shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of title 28, as set out in section 1 of this Act, pursuant to his prior appointment: *Provided, however*, That each circuit court of appeals shall, as in said title 28 set out, hereafter be known as a United States court of appeals. No loss of rights, interruption of jurisdiction, or prejudice to matters pending in any of such courts on the effective date of this Act shall result from its enactment.”
+Act June 25, 1948, ch. 646, §2(b), 62 Stat. 985, provided that: "The provisions of Title 28, Judiciary and Judicial Procedure, of the United States Code, set out in section 1 of this Act, with respect to the organization of each of the several courts therein provided for and of the Administrative Office of the United States Courts, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees thereof and of the United States attorneys and marshals and their deputies and assistants, in office on the effective date of this Act [Sept. 1, 1948], shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of title 28, as set out in section 1 of this Act, pursuant to his prior appointment: *Provided, however*, That each circuit court of appeals shall, as in said title 28 set out, hereafter be known as a United States court of appeals. No loss of rights, interruption of jurisdiction, or prejudice to matters pending in any of such courts on the effective date of this Act shall result from its enactment."

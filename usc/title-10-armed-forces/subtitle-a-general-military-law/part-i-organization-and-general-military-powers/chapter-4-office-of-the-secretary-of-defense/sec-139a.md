@@ -58,8 +58,8 @@ Amendment by section 901(f) of Pub. L. 111–383 effective Jan. 1, 2011, see sec
 
 Pub. L. 111–23, title I, §101(c), May 22, 2009, 123 Stat. 1709, provided that:
 
-“(1) Transfer of functions.—The functions of the Office of Program Analysis and Evaluation of the Department of Defense, including the functions of the Cost Analysis Improvement Group, are hereby transferred to the Office of the Director of Cost Assessment and Program Evaluation.
+"(1) Transfer of functions.—The functions of the Office of Program Analysis and Evaluation of the Department of Defense, including the functions of the Cost Analysis Improvement Group, are hereby transferred to the Office of the Director of Cost Assessment and Program Evaluation.
 
-“(2) Transfer of personnel to deputy director for independent cost assessment.—The personnel of the Cost Analysis Improvement Group are hereby transferred to the Deputy Director for Cost Assessment in the Office of the Director of Cost Assessment and Program Evaluation.
+"(2) Transfer of personnel to deputy director for independent cost assessment.—The personnel of the Cost Analysis Improvement Group are hereby transferred to the Deputy Director for Cost Assessment in the Office of the Director of Cost Assessment and Program Evaluation.
 
-“(3) Transfer of personnel to deputy director for program analysis and evaluation.—The personnel (other than the personnel transferred under paragraph (2)) of the Office of Program Analysis and Evaluation are hereby transferred to the Deputy Director for Program Evaluation in the Office of the Director of Cost Assessment and Program Evaluation.”
+"(3) Transfer of personnel to deputy director for program analysis and evaluation.—The personnel (other than the personnel transferred under paragraph (2)) of the Office of Program Analysis and Evaluation are hereby transferred to the Deputy Director for Program Evaluation in the Office of the Director of Cost Assessment and Program Evaluation."

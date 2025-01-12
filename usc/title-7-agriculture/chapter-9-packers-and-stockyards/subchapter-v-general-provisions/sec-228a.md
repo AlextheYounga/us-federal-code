@@ -14,7 +14,7 @@ A prior section 408 of act Aug. 15, 1921, was renumbered section 417 and is clas
 
 #### Amendments ####
 
-**1987**—Pub. L. 100–173 inserted “or live poultry, or has failed to pay any poultry grower what is due on account of poultry obtained under a poultry growing arrangement,” after “unmanufactured form,”.
+**1987**—Pub. L. 100–173 inserted "or live poultry, or has failed to pay any poultry grower what is due on account of poultry obtained under a poultry growing arrangement," after "unmanufactured form,".
 
 #### Effective Date of 1987 Amendment ####
 

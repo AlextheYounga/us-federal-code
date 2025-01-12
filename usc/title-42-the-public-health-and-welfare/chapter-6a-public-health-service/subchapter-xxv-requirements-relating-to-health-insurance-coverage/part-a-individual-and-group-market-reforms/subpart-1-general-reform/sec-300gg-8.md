@@ -38,7 +38,7 @@ Notwithstanding paragraph (3), paragraph (1) shall apply to a qualified individu
 
 #### (b) Qualified individual defined ####
 
-For purposes of subsection (a), the term “qualified individual” means an individual who is a participant or beneficiary in a health plan or with coverage described in subsection (a)(1) and who meets the following conditions:
+For purposes of subsection (a), the term "qualified individual" means an individual who is a participant or beneficiary in a health plan or with coverage described in subsection (a)(1) and who meets the following conditions:
 
 (1) The individual is eligible to participate in an approved clinical trial according to the trial protocol with respect to treatment of cancer or other life-threatening disease or condition.
 
@@ -56,7 +56,7 @@ This section shall not be construed to require a group health plan, or a health 
 
 #### (1) In general ####
 
-In this section, the term “approved clinical trial” means a phase I, phase II, phase III, or phase IV clinical trial that is conducted in relation to the prevention, detection, or treatment of cancer or other life-threatening disease or condition and is described in any of the following subparagraphs:
+In this section, the term "approved clinical trial" means a phase I, phase II, phase III, or phase IV clinical trial that is conducted in relation to the prevention, detection, or treatment of cancer or other life-threatening disease or condition and is described in any of the following subparagraphs:
 
 (A) Federally funded trials.—The study or investigation is approved or funded (which may include funding through in-kind contributions) by one or more of the following:
 
@@ -94,7 +94,7 @@ The conditions described in this paragraph, for a study or investigation conduct
 
 #### (e) Life-threatening condition defined ####
 
-In this section, the term “life-threatening condition” means any disease or condition from which the likelihood of death is probable unless the course of the disease or condition is interrupted.
+In this section, the term "life-threatening condition" means any disease or condition from which the likelihood of death is probable unless the course of the disease or condition is interrupted.
 
 #### (f) Construction ####
 
@@ -118,4 +118,4 @@ Another section 2709 of act July 1, 1944, is classified to section 300gg–9 of 
 
 A prior section 2709 of act July 1, 1944, was successively renumbered by subsequent acts and transferred, see section 238h of this title.
 
-[<sup>1</sup> So in original. Probably should be preceded by “A”.](#300gg-8_1)
+[<sup>1</sup> So in original. Probably should be preceded by "A".](#300gg-8_1)

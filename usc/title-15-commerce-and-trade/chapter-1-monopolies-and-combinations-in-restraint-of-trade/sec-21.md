@@ -48,9 +48,9 @@ If the order of the commission, board, or Secretary is modified or set aside by 
 
 If the Supreme Court orders a rehearing; or if the case is remanded by the court of appeals to the commission, board, or Secretary for a rehearing, and if (1) the time allowed for filing a petition for certiorari has expired, and no such petition has been duly filed, or (2) the petition for certiorari has been denied, or (3) the decision of the court has been affirmed by the Supreme Court, then the order of the commission, board, or Secretary rendered upon such rehearing shall become final in the same manner as though no prior order of the commission, board, or Secretary had been rendered.
 
-#### (k) “Mandate” defined ####
+#### (k) "Mandate" defined ####
 
-As used in this section the term “mandate”, in case a mandate has been recalled prior to the expiration of thirty days from the date of issuance thereof, means the final mandate.
+As used in this section the term "mandate", in case a mandate has been recalled prior to the expiration of thirty days from the date of issuance thereof, means the final mandate.
 
 #### (l) Penalties ####
 
@@ -64,37 +64,37 @@ The antitrust laws, referred to in subsec. (e), are defined in section 12 of thi
 
 #### Codification ####
 
-In subsec. (a), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 [49 App. U.S.C. 1301 et seq.]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
+In subsec. (a), "part A of subtitle VII of title 49" substituted for "the Federal Aviation Act of 1958 [49 App. U.S.C. 1301 et seq.]" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
 
 #### Amendments ####
 
-**1995**—Subsec. (a). Pub. L. 104–88 substituted “Surface Transportation Board where applicable to common carriers subject to jurisdiction under subtitle IV of title 49” for “Interstate Commerce Commission where applicable to common carriers subject to the Interstate Commerce Act, as amended”.
+**1995**—Subsec. (a). Pub. L. 104–88 substituted "Surface Transportation Board where applicable to common carriers subject to jurisdiction under subtitle IV of title 49" for "Interstate Commerce Commission where applicable to common carriers subject to the Interstate Commerce Act, as amended".
 
-**1984**—Subsec. (a). Pub. L. 98–443, §9(m)(1), substituted “Secretary of Transportation where applicable to air carriers and foreign air carriers subject to the Federal Aviation Act of 1958” for “Civil Aeronautics Board where applicable to air carriers and foreign air carriers subject to the Civil Aeronautics Act of 1938”.
+**1984**—Subsec. (a). Pub. L. 98–443, §9(m)(1), substituted "Secretary of Transportation where applicable to air carriers and foreign air carriers subject to the Federal Aviation Act of 1958" for "Civil Aeronautics Board where applicable to air carriers and foreign air carriers subject to the Civil Aeronautics Act of 1938".
 
-Subsec. (b). Pub. L. 98–443, §9(m)(2), substituted “Commission, Board, or Secretary” for “Commission or Board” wherever appearing.
+Subsec. (b). Pub. L. 98–443, §9(m)(2), substituted "Commission, Board, or Secretary" for "Commission or Board" wherever appearing.
 
-Subsecs. (c), (d). Pub. L. 98–443, §9(m)(3), substituted “commission, board, or Secretary” for “commission or board” wherever appearing.
+Subsecs. (c), (d). Pub. L. 98–443, §9(m)(3), substituted "commission, board, or Secretary" for "commission or board" wherever appearing.
 
 Subsec. (e). Pub. L. 98–620 struck out provision that such proceedings in the court of appeals had to be given precedence over other cases pending therein, and had to be in every way expedited.
 
-Pub. L. 98–443, §9(m)(3), substituted “commission, board, or Secretary” for “commission or board”.
+Pub. L. 98–443, §9(m)(3), substituted "commission, board, or Secretary" for "commission or board".
 
-Subsecs. (f) to (j), (l). Pub. L. 98–443, §9(m)(3), substituted “commission, board, or Secretary” for “commission or board” wherever appearing.
+Subsecs. (f) to (j), (l). Pub. L. 98–443, §9(m)(3), substituted "commission, board, or Secretary" for "commission or board" wherever appearing.
 
 **1959**—Pub. L. 86–107 amended section generally, and among other changes, authorized the Commission or Board, upon notice and opportunity for hearing, in cases where a petition for review has not been filed within the time allowed, to reopen and alter, modify, or set aside, in whole or in part, any report or order, whenever conditions of fact or law have so changed as to require such action or if the public interest so requires, and added subsecs. (g) to (k), providing for finality of orders, and subsec. (l), prescribing the civil penalty for violation of orders.
 
-**1958**—Pub. L. 85–791, §4(a), struck out “a transcript of” after “Until” in last sentence of second par.
+**1958**—Pub. L. 85–791, §4(a), struck out "a transcript of" after "Until" in last sentence of second par.
 
-Pub. L. 85–791, §4(b), substituted in first sentence of third par., “file the record in the proceeding, as provided in section 2112 of title 28” for “certify and file with its application a transcript of the entire record in the proceeding, including all the testimony taken and the report and order of the Commission or Board”, and in second sentence of third par., struck out “and transcript” after “application”, inserted “concurrently with the Commission or Board until the filing of the record”, and struck out “upon the pleadings, testimony, and proceedings set forth in such transcript” after “make and enter”.
+Pub. L. 85–791, §4(b), substituted in first sentence of third par., "file the record in the proceeding, as provided in section 2112 of title 28" for "certify and file with its application a transcript of the entire record in the proceeding, including all the testimony taken and the report and order of the Commission or Board", and in second sentence of third par., struck out "and transcript" after "application", inserted "concurrently with the Commission or Board until the filing of the record", and struck out "upon the pleadings, testimony, and proceedings set forth in such transcript" after "make and enter".
 
-Pub. L. 85–791, §4(c), substituted in second sentence of fourth par., “transmitted by the clerk of the court to” for “served upon” and “shall file in the court the record in the proceeding, as provided in section 2112 of title 28” for “forthwith shall certify and file in the court a transcript of the record in the proceeding, as hereinbefore provided”, and in third sentence of fourth paragraph substituted “such petition” for “the transcript” and inserted “determined as provided in section 1009(e) of title 5,”.
+Pub. L. 85–791, §4(c), substituted in second sentence of fourth par., "transmitted by the clerk of the court to" for "served upon" and "shall file in the court the record in the proceeding, as provided in section 2112 of title 28" for "forthwith shall certify and file in the court a transcript of the record in the proceeding, as hereinbefore provided", and in third sentence of fourth paragraph substituted "such petition" for "the transcript" and inserted "determined as provided in section 1009(e) of title 5,".
 
-Pub. L. 85–791, §4(d), substituted in fifth par., “Upon the filing of the record with it the” for “The”.
+Pub. L. 85–791, §4(d), substituted in fifth par., "Upon the filing of the record with it the" for "The".
 
 **1950**—Act Dec. 29, 1950, amended section generally to allow the Attorney General to intervene and appear in any proceeding brought by any Commission or Board to enforce sections 13, 14, 18, and 19 of this title, but the amendment in nowise affects the jurisdiction of the Department of Justice to enforce these sections in the courts.
 
-**1938**—Act June 23, 1938, inserted “in the Civil Aeronautics Authority where applicable to air carriers and foreign air carriers subject to the Civil Aeronautics Act of 1938”, and “authority” after “commission” wherever appearing.
+**1938**—Act June 23, 1938, inserted "in the Civil Aeronautics Authority where applicable to air carriers and foreign air carriers subject to the Civil Aeronautics Act of 1938", and "authority" after "commission" wherever appearing.
 
 **1935**—Act Aug. 23, 1935, changed the name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
@@ -102,7 +102,7 @@ Pub. L. 85–791, §4(d), substituted in fifth par., “Upon the filing of the r
 
 #### Change of Name ####
 
-Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted “court of appeals” for “circuit court of appeals”.
+Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted "court of appeals" for "circuit court of appeals".
 
 #### Effective Date of 1995 Amendment ####
 
@@ -116,7 +116,7 @@ Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L
 
 #### Effective Date of 1959 Amendment ####
 
-Section 2 of Pub. L. 86–107 provided that: “The amendments made by section 1 [amending this section] shall have no application to any proceeding initiated before the date of enactment of this Act [July 23, 1959] under the third or fourth paragraph of section 11 of the Act entitled ‘An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes’, approved October 15, 1914 (38 Stat. 734, as amended; 15 U.S.C. 21) [this section]. Each such proceeding shall be governed by the provisions of such section as they existed on the day preceding the date of enactment of this Act.”
+Section 2 of Pub. L. 86–107 provided that: "The amendments made by section 1 [amending this section] shall have no application to any proceeding initiated before the date of enactment of this Act [July 23, 1959] under the third or fourth paragraph of section 11 of the Act entitled 'An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes', approved October 15, 1914 (38 Stat. 734, as amended; 15 U.S.C. 21) [this section]. Each such proceeding shall be governed by the provisions of such section as they existed on the day preceding the date of enactment of this Act."
 
 #### Transfer of Functions ####
 

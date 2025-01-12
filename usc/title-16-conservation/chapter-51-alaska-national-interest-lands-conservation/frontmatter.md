@@ -192,7 +192,7 @@ Sec. 3. *Membership*. (a) The Deputy Secretary of the Interior shall serve as Ch
 
 (vii) the Office of the Federal Coordinator for Alaska Natural Gas Transportation Projects.
 
-(b) The Domestic Policy Council shall work closely with the Chair of the Working Group and assist in the interagency coordination functions described in section 4 of this order. To maximize coordination with National Security Policy Directive-66 (NSPD-66), “Arctic Region Policy;” Executive Order 13547 of July 19, 2010 (“Stewardship of the Ocean, Our Coasts, and the Great Lakes”); the National Response Framework; the National Oil and Hazardous Substances Pollution Contingency Plan (National Contingency Plan); and other relevant Federal policy initiatives, the Working Group shall also include deputy-level representatives or officials at the equivalent level, designated by the head of the respective agency or office, from:
+(b) The Domestic Policy Council shall work closely with the Chair of the Working Group and assist in the interagency coordination functions described in section 4 of this order. To maximize coordination with National Security Policy Directive-66 (NSPD-66), "Arctic Region Policy;" Executive Order 13547 of July 19, 2010 ("Stewardship of the Ocean, Our Coasts, and the Great Lakes"); the National Response Framework; the National Oil and Hazardous Substances Pollution Contingency Plan (National Contingency Plan); and other relevant Federal policy initiatives, the Working Group shall also include deputy-level representatives or officials at the equivalent level, designated by the head of the respective agency or office, from:
 
 (i) the Council on Environmental Quality;
 

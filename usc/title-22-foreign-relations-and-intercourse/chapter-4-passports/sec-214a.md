@@ -6,4 +6,4 @@ Whenever a fee is erroneously charged and paid for the issue of a passport to a 
 
 #### Certain Appropriation Accounts Abolished ####
 
-Effective July 1, 1935, enumerated appropriation accounts appearing on the books of the Government were abolished and in lieu thereof there was established an account to be designated “Refund of Moneys Erroneously Received and Covered.” See section 1322 of Title 31, Money and Finance.
+Effective July 1, 1935, enumerated appropriation accounts appearing on the books of the Government were abolished and in lieu thereof there was established an account to be designated "Refund of Moneys Erroneously Received and Covered." See section 1322 of Title 31, Money and Finance.

@@ -138,4 +138,4 @@ A prior section 906 of act June 25, 1938, was renumbered section 1006 and is cla
 
 With respect to any time periods specified in an amendment by div. A of Pub. L. 111–31 that begin on June 22, 2009, within which the Secretary of Health and Human Services is required to carry out and complete specified activities, with certain limitations, the calculation of such time periods shall commence on the first day of the first fiscal quarter following the initial 2 consecutive fiscal quarters of fiscal year 2010 for which the Secretary has collected fees under section 387s of this title, and the Secretary may extend or reduce the duration of one or more such time periods, except that no such period shall be extended for more than 90 days, see section 6 of Pub. L. 111–31, set out as a note under section 387 of this title.
 
-[<sup>1</sup> So in original. Probably should be “are”.](#387f_1)
+[<sup>1</sup> So in original. Probably should be "are".](#387f_1)

@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Biological product ####
 
-The term “biological product” has the meaning given such term in section 262 of this title.
+The term "biological product" has the meaning given such term in section 262 of this title.
 
 #### (2) Drug; device ####
 
-The terms “drug” and “device” have the meanings given such terms in section 321 of title 21.
+The terms "drug" and "device" have the meanings given such terms in section 321 of title 21.
 
 #### (3) High need cure ####
 
-The term “high need cure” means a drug (as that term is defined by section 321(g)(1) of title 21,<sup><a href="#287a_1_target" name="287a_1">1</a></sup> biological product (as that term is defined by section 262(i) <sup><a href="#287a_2_target" name="287a_2">2</a></sup> of this title), or device (as that term is defined by section 321(h) of title 21) that, in the determination of the Director of the Center—
+The term "high need cure" means a drug (as that term is defined by section 321(g)(1) of title 21,<sup><a href="#287a_1_target" name="287a_1">1</a></sup> biological product (as that term is defined by section 262(i) <sup><a href="#287a_2_target" name="287a_2">2</a></sup> of this title), or device (as that term is defined by section 321(h) of title 21) that, in the determination of the Director of the Center—
 
 (A) is a priority to diagnose, mitigate, prevent, or treat harm from any disease or condition; and
 
@@ -22,13 +22,13 @@ The term “high need cure” means a drug (as that term is defined by section 3
 
 #### (4) Medical product ####
 
-The term “medical product” means a drug, device, biological product, or product that is a combination of drugs, devices, and biological products.
+The term "medical product" means a drug, device, biological product, or product that is a combination of drugs, devices, and biological products.
 
 #### (b) Establishment of the Cures Acceleration Network ####
 
-Subject to the appropriation of funds as described in subsection (g), there is established within the Center a program to be known as the Cures Acceleration Network (referred to in this section as “CAN”), which shall—
+Subject to the appropriation of funds as described in subsection (g), there is established within the Center a program to be known as the Cures Acceleration Network (referred to in this section as "CAN"), which shall—
 
-(1) be under the direction of the Director of the Center, taking into account the recommendations of a CAN Review Board (referred to in this section as the “Board”), described in subsection (d); and
+(1) be under the direction of the Director of the Center, taking into account the recommendations of a CAN Review Board (referred to in this section as the "Board"), described in subsection (d); and
 
 (2) award grants and contracts to eligible entities, as described in subsection (e), to accelerate the development of high need cures, including through the development of medical products and behavioral therapies.
 
@@ -56,7 +56,7 @@ The functions of the CAN are to—
 
 #### (1) Establishment ####
 
-There is established a Cures Acceleration Network Review Board (referred to in this section as the “Board”), which shall advise the Director of the Center on the conduct of the activities of the Cures Acceleration Network.
+There is established a Cures Acceleration Network Review Board (referred to in this section as the "Board"), which shall advise the Director of the Center on the conduct of the activities of the Cures Acceleration Network.
 
 #### (2) Membership ####
 
@@ -68,7 +68,7 @@ The Board shall be comprised of 24 members who are appointed by the Secretary an
 
 #### (ii) Chairperson and Vice Chairperson ####
 
-The Secretary shall designate, from among the 24 members appointed under clause (i), one Chairperson of the Board (referred to in this section as the “Chairperson”) and one Vice Chairperson.
+The Secretary shall designate, from among the 24 members appointed under clause (i), one Chairperson of the Board (referred to in this section as the "Chairperson") and one Vice Chairperson.
 
 #### (B) Terms ####
 
@@ -284,7 +284,7 @@ No funds appropriated under this chapter, other than funds appropriated under pa
 
 #### References in Text ####
 
-Section 262(i) of this title, referred to in subsec. (a)(3), was in the original “section 262(i)”, and was translated as meaning section 351(i) of act July 1, 1944, ch. 373, to reflect the probable intent of Congress.
+Section 262(i) of this title, referred to in subsec. (a)(3), was in the original "section 262(i)", and was translated as meaning section 351(i) of act July 1, 1944, ch. 373, to reflect the probable intent of Congress.
 
 #### Codification ####
 
@@ -296,13 +296,13 @@ A prior section 287a, July 1, 1944, ch. 373, title IV, §480, as added Pub. L. 9
 
 #### Amendments ####
 
-**2011**—Pub. L. 112–74, §221(c)(1)(C), substituted “Director of the Center” for “Director of NIH” wherever appearing.
+**2011**—Pub. L. 112–74, §221(c)(1)(C), substituted "Director of the Center" for "Director of NIH" wherever appearing.
 
-Subsec. (b). Pub. L. 112–74, §221(c)(1)(B), substituted “within the Center” for “within the Office of the Director of NIH” in introductory provisions.
+Subsec. (b). Pub. L. 112–74, §221(c)(1)(B), substituted "within the Center" for "within the Office of the Director of NIH" in introductory provisions.
 
-Subsec. (d)(4). Pub. L. 112–74, §221(c)(1)(D), substituted “Director of the Center” for “Director of NIH” in heading.
+Subsec. (d)(4). Pub. L. 112–74, §221(c)(1)(D), substituted "Director of the Center" for "Director of NIH" in heading.
 
-Subsec. (d)(4)(B). Pub. L. 112–74, §221(c)(1)(D), substituted “Director of the Center” for “Director of NIH” in heading.
+Subsec. (d)(4)(B). Pub. L. 112–74, §221(c)(1)(D), substituted "Director of the Center" for "Director of NIH" in heading.
 
 [<sup>1</sup> So in original. A closing parenthesis probably should precede the comma.](#287a_1)
 

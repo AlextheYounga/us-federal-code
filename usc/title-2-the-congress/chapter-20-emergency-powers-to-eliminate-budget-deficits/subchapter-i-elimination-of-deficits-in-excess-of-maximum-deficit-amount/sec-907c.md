@@ -24,9 +24,9 @@ Within 5 calendar days of session after the President submits a report to Congre
 
 #### (e) Form and title of joint resolution ####
 
-(1) The matter after the resolving clause in any joint resolution introduced pursuant to subsection (d) of this section shall be as follows: “That the report of the President as submitted on [Insert Date] under section 258B is hereby approved.”
+(1) The matter after the resolving clause in any joint resolution introduced pursuant to subsection (d) of this section shall be as follows: "That the report of the President as submitted on [Insert Date] under section 258B is hereby approved."
 
-(2) The title of the joint resolution shall be “Joint resolution approving the report of the President submitted under section 258B of the Balanced Budget and Emergency Deficit Control Act of 1985.”
+(2) The title of the joint resolution shall be "Joint resolution approving the report of the President submitted under section 258B of the Balanced Budget and Emergency Deficit Control Act of 1985."
 
 (3) Such joint resolution shall not contain any preamble.
 
@@ -92,4 +92,4 @@ Section 258B, referred to in subsec. (e)(1), (2), means section 258B of Pub. L. 
 
 The Congressional Budget Act of 1974, referred to in subsec. (k), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Titles III and IV of the Act are classified generally to subchapters I (§631 et seq.) and II (§651 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
-[<sup>1</sup> So in original. Probably should be “section”.](#907c_1)
+[<sup>1</sup> So in original. Probably should be "section".](#907c_1)

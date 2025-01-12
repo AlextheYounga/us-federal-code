@@ -22,8 +22,8 @@ The obligor upon any indenture qualified under this subchapter may set a record 
 
 #### Amendments ####
 
-**1990**—Subsec. (a). Pub. L. 101–550, §415(1)–(3), in introductory provisions struck out “may contain provisions” after “qualified”, in par. (1) inserted “shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to contain provisions” before “authorizing the holders” and “or if expressly specified in such indenture, of any series of securities” after “principal amount of the indenture securities”, and in par. (2) inserted “may contain provisions” before “authorizing the holders” and “or if expressly specified in such indenture, of any series of securities” after “principal amount of the indenture securities”.
+**1990**—Subsec. (a). Pub. L. 101–550, §415(1)–(3), in introductory provisions struck out "may contain provisions" after "qualified", in par. (1) inserted "shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to contain provisions" before "authorizing the holders" and "or if expressly specified in such indenture, of any series of securities" after "principal amount of the indenture securities", and in par. (2) inserted "may contain provisions" before "authorizing the holders" and "or if expressly specified in such indenture, of any series of securities" after "principal amount of the indenture securities".
 
-Subsec. (b). Pub. L. 101–550, §415(5), which directed the substitution of “of the indenture to be qualified” for “thereof”, was executed by making the substitution for “thereof” the first time appearing, as the probable intent of Congress.
+Subsec. (b). Pub. L. 101–550, §415(5), which directed the substitution of "of the indenture to be qualified" for "thereof", was executed by making the substitution for "thereof" the first time appearing, as the probable intent of Congress.
 
 Subsec. (c). Pub. L. 101–550, §415(6), added subsec. (c).

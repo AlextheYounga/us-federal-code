@@ -4,7 +4,7 @@
 
 Sec.
 
-6301. Senators’ salaries.
+6301. Senators' salaries.
 
 6302. Salaries of Senators.
 
@@ -14,7 +14,7 @@ Sec.
 
 6312. Clerks to Senators-elect.
 
-6313. Senators’ Official Personnel and Office Expense Account.
+6313. Senators' Official Personnel and Office Expense Account.
 
 6314. Mail, telegraph, telephone, stationery, office supplies, and home State office and travel expenses for Senators.
 

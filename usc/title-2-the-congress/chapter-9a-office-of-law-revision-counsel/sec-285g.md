@@ -10,4 +10,4 @@ Section is based on section 205(h) of House Resolution No. 988, Ninety-third Con
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–186 substituted “applicable accounts of the House of Representatives” for “contingent fund of the House”.
+**1996**—Pub. L. 104–186 substituted "applicable accounts of the House of Representatives" for "contingent fund of the House".

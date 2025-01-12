@@ -6,7 +6,7 @@ The Librarian of Congress shall accept for deposit, preserve, maintain, and make
 
 #### (b) Definition of oral history ####
 
-In this section, the term “oral history” means a story or history consisting of personal recollection as recorded by any one or more of the following means:
+In this section, the term "oral history" means a story or history consisting of personal recollection as recorded by any one or more of the following means:
 
 (1) Interviews.
 

@@ -134,65 +134,65 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Pub. L. 111–148, §1401(b), added subsec. (g) relating to credit for health insurance premiums.
 
-Subsec. (h). Pub. L. 111–148, §10105(e)(3), substituted “2010, 2011” for “2011”.
+Subsec. (h). Pub. L. 111–148, §10105(e)(3), substituted "2010, 2011" for "2011".
 
 Pub. L. 111–148, §1421(d)(1), added subsec. (h).
 
-**2008**—Subsec. (a). Pub. L. 110–245 inserted “45P(a),” after “45A(a),”.
+**2008**—Subsec. (a). Pub. L. 110–245 inserted "45P(a)," after "45A(a),".
 
 Subsec. (f). Pub. L. 110–246, §15343(c), added subsec. (f).
 
-**2007**—Subsec. (d). Pub. L. 110–172 amended heading and text generally. Prior to amendment, text read as follows: “No deduction shall be allowed for that portion of the expenses otherwise allowable as a deduction for the taxable year which is equal to the amount of the credit determined for the taxable year under section 45H(a).”
+**2007**—Subsec. (d). Pub. L. 110–172 amended heading and text generally. Prior to amendment, text read as follows: "No deduction shall be allowed for that portion of the expenses otherwise allowable as a deduction for the taxable year which is equal to the amount of the credit determined for the taxable year under section 45H(a)."
 
 **2006**—Subsec. (e). Pub. L. 109–432 added subsec. (e).
 
-**2005**—Subsec. (a). Pub. L. 109–135, §201(b)(2), substituted “1400P(b), and 1400R” for “and 1400P(b)”.
+**2005**—Subsec. (a). Pub. L. 109–135, §201(b)(2), substituted "1400P(b), and 1400R" for "and 1400P(b)".
 
-Pub. L. 109–135, §103(b)(2), substituted “1396(a), and 1400P(b)” for “and 1396(a)”.
+Pub. L. 109–135, §103(b)(2), substituted "1396(a), and 1400P(b)" for "and 1396(a)".
 
 **2004**—Subsec. (d). Pub. L. 108–357 added subsec. (d).
 
-**2000**—Subsec. (c)(1). Pub. L. 106–554 struck out “or credit” after “deduction” in two places.
+**2000**—Subsec. (c)(1). Pub. L. 106–554 struck out "or credit" after "deduction" in two places.
 
-**1999**—Subsec. (c)(1). Pub. L. 106–170 inserted “or credit” after “deduction” in two places.
+**1999**—Subsec. (c)(1). Pub. L. 106–170 inserted "or credit" after "deduction" in two places.
 
-**1996**—Subsec. (b)(1). Pub. L. 104–188, §1205(d)(7), substituted “section 45C(b)” for “section 28(b)”, “section 45C” for “section 28”, and “section 38(c)” for “subsection (d)(2) thereof”.
+**1996**—Subsec. (b)(1). Pub. L. 104–188, §1205(d)(7), substituted "section 45C(b)" for "section 28(b)", "section 45C" for "section 28", and "section 38(c)" for "subsection (d)(2) thereof".
 
-Subsec. (b)(2)(A). Pub. L. 104–188, §1205(d)(7)(B), (C), substituted “section 45C” for “section 28” and “section 38(c)” for “subsection (d)(2) thereof”.
+Subsec. (b)(2)(A). Pub. L. 104–188, §1205(d)(7)(B), (C), substituted "section 45C" for "section 28" and "section 38(c)" for "subsection (d)(2) thereof".
 
-**1993**—Subsec. (a). Pub. L. 103–66, §13322(c)(1), substituted “45A(a), 51(a), and” for “51(a)”.
+**1993**—Subsec. (a). Pub. L. 103–66, §13322(c)(1), substituted "45A(a), 51(a), and" for "51(a)".
 
-Pub. L. 103–66, §13302(b)(1), substituted “Rule for employment credits” for “Rule for targeted jobs credit” in heading and “the sum of the credits determined for the taxable year under sections 51(a) and 1396(a)” for “the amount of the credit determined for the taxable year under section 51(a)” in text.
+Pub. L. 103–66, §13302(b)(1), substituted "Rule for employment credits" for "Rule for targeted jobs credit" in heading and "the sum of the credits determined for the taxable year under sections 51(a) and 1396(a)" for "the amount of the credit determined for the taxable year under section 51(a)" in text.
 
-**1989**—Subsec. (c)(1), (2)(A). Pub. L. 101–239, §7110(c)(1), struck out “50 percent of” before “the amount of the credit”.
+**1989**—Subsec. (c)(1), (2)(A). Pub. L. 101–239, §7110(c)(1), struck out "50 percent of" before "the amount of the credit".
 
 Subsec. (c)(3). Pub. L. 101–239, §7814(e)(2)(A), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (c)(3)(B)(ii)(I). Pub. L. 101–239, §7110(c)(1), struck out “50 percent of” before “the amount described”.
+Subsec. (c)(3)(B)(ii)(I). Pub. L. 101–239, §7110(c)(1), struck out "50 percent of" before "the amount described".
 
 Subsec. (c)(4). Pub. L. 101–239, §7814(e)(2)(A), redesignated par. (3) as (4).
 
 **1988**—Subsec. (c). Pub. L. 100–647 added subsec. (c).
 
-**1986**—Subsec. (b)(1), (2)(A). Pub. L. 99–514, §1847(b)(8), substituted “section 28(b)” for “section 29(b)” in par. (1) and “section 28” for “section 29” in pars. (1) and (2)(A).
+**1986**—Subsec. (b)(1), (2)(A). Pub. L. 99–514, §1847(b)(8), substituted "section 28(b)" for "section 29(b)" in par. (1) and "section 28" for "section 29" in pars. (1) and (2)(A).
 
-Subsec. (b)(3). Pub. L. 99–514, §231(d)(3)(E), substituted “section 41(f)(5)”, “section 41(f)(1)(B)”, and “section 41(f)(1)” for “section 30(f)(5)”, “section 30(f)(1)(B)”, and “section 30(f)(1)”, respectively.
+Subsec. (b)(3). Pub. L. 99–514, §231(d)(3)(E), substituted "section 41(f)(5)", "section 41(f)(1)(B)", and "section 41(f)(1)" for "section 30(f)(5)", "section 30(f)(1)(B)", and "section 30(f)(1)", respectively.
 
-**1984**—Subsec. (a). Pub. L. 98–369, §474(r)(10)(A), (B), redesignated subsec. (b) as (a), in heading substituted “targeted jobs credit” for “section 44B credit”, and in text substituted “No deduction shall be allowed for that portion of the wages or salaries paid or incurred for the taxable year which is equal to the amount of the credit determined for the taxable year under section 51(a)” for “No deduction shall be allowed for that portion of the wage or salaries paid or incurred for the taxable year which is equal to the amount of the credit allowable for the taxable year under section 44B (relating to credit for employment of certain new employees) determined without regard to the provisions of section 53 (relating to limitation based on amount of tax)”. Former subsec. (a), which had provided that no deduction would be allowed for that portion of the work incentive program expenses paid or incurred for the taxable year which was equal to the amount of the credit allowable for the taxable year under section 40 (relating to credit for expenses of work incentive programs) determined without regard to the provisions of section 50A(a)(2) (relating to limitation based on amount of tax), and that in the case of a corporation which was a member of a controlled group of corporations (within the meaning of section 50B(g)(1) or a trade or business which was treated as being under common control with other trades or businesses within the meaning of section 50B(g)(2), this subsection would be applied under rules prescribed by the Secretary similar to the rules applicable under paragraphs (1) and (2) of section 50B(g), was struck out.
+**1984**—Subsec. (a). Pub. L. 98–369, §474(r)(10)(A), (B), redesignated subsec. (b) as (a), in heading substituted "targeted jobs credit" for "section 44B credit", and in text substituted "No deduction shall be allowed for that portion of the wages or salaries paid or incurred for the taxable year which is equal to the amount of the credit determined for the taxable year under section 51(a)" for "No deduction shall be allowed for that portion of the wage or salaries paid or incurred for the taxable year which is equal to the amount of the credit allowable for the taxable year under section 44B (relating to credit for employment of certain new employees) determined without regard to the provisions of section 53 (relating to limitation based on amount of tax)". Former subsec. (a), which had provided that no deduction would be allowed for that portion of the work incentive program expenses paid or incurred for the taxable year which was equal to the amount of the credit allowable for the taxable year under section 40 (relating to credit for expenses of work incentive programs) determined without regard to the provisions of section 50A(a)(2) (relating to limitation based on amount of tax), and that in the case of a corporation which was a member of a controlled group of corporations (within the meaning of section 50B(g)(1) or a trade or business which was treated as being under common control with other trades or businesses within the meaning of section 50B(g)(2), this subsection would be applied under rules prescribed by the Secretary similar to the rules applicable under paragraphs (1) and (2) of section 50B(g), was struck out.
 
 Subsec. (b). Pub. L. 98–369, §474(r)(10)(A), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
-Subsec. (b)(1), (2)(A). Pub. L. 98–369, §474(r)(10)(C), substituted “29” for “44H”.
+Subsec. (b)(1), (2)(A). Pub. L. 98–369, §474(r)(10)(C), substituted "29" for "44H".
 
-Subsec. (b)(3). Pub. L. 98–369, §474(r)(10)(D), substituted “section 30(f)(5)” for “section 44F(f)(5)”, “section 30(f)(1)(B)” for “section 44F(f)(1)(B)”, and “section 30(f)(1)” for “section 44F(f)(1)”.
+Subsec. (b)(3). Pub. L. 98–369, §474(r)(10)(D), substituted "section 30(f)(5)" for "section 44F(f)(5)", "section 30(f)(1)(B)" for "section 44F(f)(1)(B)", and "section 30(f)(1)" for "section 44F(f)(1)".
 
 Subsec. (c). Pub. L. 98–369, §474(r)(10)(A), redesignated subsec. (c) as (b).
 
-**1983**—Pub. L. 97–414, §4(b)(2)(A), substituted “Certain expenses for which credits are allowable” for “Portion of wages for which credit is claimed under section 40 or 44B” in section catchline.
+**1983**—Pub. L. 97–414, §4(b)(2)(A), substituted "Certain expenses for which credits are allowable" for "Portion of wages for which credit is claimed under section 40 or 44B" in section catchline.
 
 Subsec. (c). Pub. L. 97–414, §4(b)(1), added subsec. (c).
 
-**1978**—Pub. L. 95–600, as amended by Pub. L. 96–178 and Pub. L. 96–222, substituted “section 40 or 44B” for “section 44B” in section catchline, and in text designated existing provisions as subsec. (b) and added subsec. (a).
+**1978**—Pub. L. 95–600, as amended by Pub. L. 96–178 and Pub. L. 96–222, substituted "section 40 or 44B" for "section 44B" in section catchline, and in text designated existing provisions as subsec. (b) and added subsec. (a).
 
 #### Effective Date of 2010 Amendment ####
 
@@ -268,15 +268,15 @@ Amendment by Pub. L. 97–414 applicable to amounts paid or incurred after Decem
 
 Pub. L. 95–600, title III, §322(e), Nov. 6, 1978, 92 Stat. 2839, as amended by Pub. L. 96–178, §6(a), (b), Jan. 2, 1980, 93 Stat. 1297; Pub. L. 96–222, title I, §103(a)(7)(A), (B), Apr. 1, 1980, 94 Stat. 211; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [amending this section and sections 50A and 50B of this title] shall apply to work incentive program expenses paid or incurred after December 31, 1978, in taxable years ending after such date; except that so much of the amendment made by subsection (a) as affects section 50A(a)(2) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] shall apply to taxable years beginning after December 31, 1978. For purposes of applying section 50A(a)(2) of the Internal Revenue Code of 1986 with respect to a taxable year beginning before January 1, 1979, the rules of sections 50A(a)(4), 50A(a)(5), and 50B(e)(3) of such Code (as in effect on the day before the date of the enactment of this Act [Nov. 6, 1978] shall apply.
+"(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [amending this section and sections 50A and 50B of this title] shall apply to work incentive program expenses paid or incurred after December 31, 1978, in taxable years ending after such date; except that so much of the amendment made by subsection (a) as affects section 50A(a)(2) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] shall apply to taxable years beginning after December 31, 1978. For purposes of applying section 50A(a)(2) of the Internal Revenue Code of 1986 with respect to a taxable year beginning before January 1, 1979, the rules of sections 50A(a)(4), 50A(a)(5), and 50B(e)(3) of such Code (as in effect on the day before the date of the enactment of this Act [Nov. 6, 1978] shall apply.
 
-“(2) Special rules for certain eligible employees.—
+"(2) Special rules for certain eligible employees.—
 
-“(A) Eligible employees hired before september 27, 1978.—In the case of any eligible employee (as defined in section 50B(h)) hired before September 27, 1978, no credit shall be allowed under section 40 with respect to second-year work incentive program expenses (as defined in section 50B(a)) attributable to service performed by such employee.
+"(A) Eligible employees hired before september 27, 1978.—In the case of any eligible employee (as defined in section 50B(h)) hired before September 27, 1978, no credit shall be allowed under section 40 with respect to second-year work incentive program expenses (as defined in section 50B(a)) attributable to service performed by such employee.
 
-“(B) Eligible employees hired after september 26, 1978.—In the case of any eligible employee (as defined in section 50B(h)) hired after September 26, 1978, for purposes of applying the amendments made by this section, such individual shall be treated for purposes of the credit allowed by section 40 as having first begun work for the taxpayer not earlier than January 1, 1979, and any wages paid or incurred after December 31, 1978, with respect to such individual shall be considered to be attributable to services rendered after that date.”
+"(B) Eligible employees hired after september 26, 1978.—In the case of any eligible employee (as defined in section 50B(h)) hired after September 26, 1978, for purposes of applying the amendments made by this section, such individual shall be treated for purposes of the credit allowed by section 40 as having first begun work for the taxpayer not earlier than January 1, 1979, and any wages paid or incurred after December 31, 1978, with respect to such individual shall be considered to be attributable to services rendered after that date."
 
-[Pub. L. 96–178, §6(d), Jan. 2, 1980, 93 Stat. 1298, provided that: “Any amendment made by this section to the Revenue Act of 1978 [amending section 322(e)(1) and (2) of Pub. L. 95–600, set out above] shall take effect as if it had been included in the provision of the Revenue Act of 1978 [Pub. L. 95–600] to which such amendment relates.”]
+[Pub. L. 96–178, §6(d), Jan. 2, 1980, 93 Stat. 1298, provided that: "Any amendment made by this section to the Revenue Act of 1978 [amending section 322(e)(1) and (2) of Pub. L. 95–600, set out above] shall take effect as if it had been included in the provision of the Revenue Act of 1978 [Pub. L. 95–600] to which such amendment relates."]
 
 #### Effective Date ####
 
@@ -284,17 +284,17 @@ Section applicable to taxable years beginning after Dec. 31, 1976, and to credit
 
 #### Time and Form of Certain Elections Under Subsection (c)(3) ####
 
-Pub. L. 101–239, title VII, §7814(e)(2)(B), Dec. 19, 1989, 103 Stat. 2413, provided that: “In the case of a taxable year for which the last date for making the election under section 280C(c)(3) of the Internal Revenue Code of 1986 (as added by subparagraph (A)) is on or before the date which is 75 days after the date of the enactment of this Act [Dec. 19, 1989], such an election for such year may be made—
+Pub. L. 101–239, title VII, §7814(e)(2)(B), Dec. 19, 1989, 103 Stat. 2413, provided that: "In the case of a taxable year for which the last date for making the election under section 280C(c)(3) of the Internal Revenue Code of 1986 (as added by subparagraph (A)) is on or before the date which is 75 days after the date of the enactment of this Act [Dec. 19, 1989], such an election for such year may be made—
 
-“(i) at any time before the date which is 75 days after such date of enactment, and
+"(i) at any time before the date which is 75 days after such date of enactment, and
 
-“(ii) in such form and manner as the Secretary of the Treasury or his delegate may prescribe.”
+"(ii) in such form and manner as the Secretary of the Treasury or his delegate may prescribe."
 
 #### Plan Amendments Not Required Until January 1, 1989 ####
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§1101–1147 and 1171–1177] or title XVIII [§§1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-[<sup>1</sup> So in original. The word “and” probably should not appear.](#280C_1)
+[<sup>1</sup> So in original. The word "and" probably should not appear.](#280C_1)
 
 [<sup>2</sup> Another subsec. (g) is set out after subsec. (h).](#280C_2)
 

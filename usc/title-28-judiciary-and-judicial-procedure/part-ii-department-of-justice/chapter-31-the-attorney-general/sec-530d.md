@@ -20,7 +20,7 @@
 
 (i) against the United States (including any agency or instrumentality thereof) for a sum that exceeds, or is likely to exceed, $2,000,000, excluding prejudgment interest; or
 
-(ii) by the United States (including any agency or instrumentality thereof) pursuant to an agreement, consent decree, or order (or pursuant to any modification of an agreement, consent decree, or order) that provides injunctive or other nonmonetary relief that exceeds, or is likely to exceed, 3 years in duration: *Provided*, That for purposes of this clause, the term “injunctive or other nonmonetary relief” shall not be understood to include the following, where the same are a matter of public record—
+(ii) by the United States (including any agency or instrumentality thereof) pursuant to an agreement, consent decree, or order (or pursuant to any modification of an agreement, consent decree, or order) that provides injunctive or other nonmonetary relief that exceeds, or is likely to exceed, 3 years in duration: *Provided*, That for purposes of this clause, the term "injunctive or other nonmonetary relief" shall not be understood to include the following, where the same are a matter of public record—
 
 (I) debarments, suspensions, or other exclusions from Government contracts or grants;
 
@@ -84,12 +84,12 @@ Section 6103 of the Internal Revenue Code of 1986, referred to in subsec. (c)(2)
 
 Pub. L. 107–273, div. A, title II, §202(b)(3), (4), Nov. 2, 2002, 116 Stat. 1774, provided that:
 
-“(3) Not later than 30 days after the date of the enactment of this Act [Nov. 2, 2002], the President shall advise the head of each executive agency or military department (as defined, respectively, in sections 105 and 102 of title 5, United States Code) of the enactment of this section [enacting this section and amending sections 130f and 288k of Title 2, The Congress].
+"(3) Not later than 30 days after the date of the enactment of this Act [Nov. 2, 2002], the President shall advise the head of each executive agency or military department (as defined, respectively, in sections 105 and 102 of title 5, United States Code) of the enactment of this section [enacting this section and amending sections 130f and 288k of Title 2, The Congress].
 
-“(4)(A) Not later than 90 days after the date of the enactment of this Act [Nov. 2, 2002], the Attorney General (and, as applicable, the President, and the head of any executive agency or military department described in subsection (e) of section 530D of title 28, United States Code, as added by subsection (a)) shall submit to Congress a report (in accordance with subsections (a), (c), and (e) of such section) on—
+"(4)(A) Not later than 90 days after the date of the enactment of this Act [Nov. 2, 2002], the Attorney General (and, as applicable, the President, and the head of any executive agency or military department described in subsection (e) of section 530D of title 28, United States Code, as added by subsection (a)) shall submit to Congress a report (in accordance with subsections (a), (c), and (e) of such section) on—
 
-“(i) all policies of which the Attorney General and applicable official are aware described in subsection (a)(1)(A) of such section that were established or implemented before the date of the enactment of this Act and were in effect on such date; and
+"(i) all policies of which the Attorney General and applicable official are aware described in subsection (a)(1)(A) of such section that were established or implemented before the date of the enactment of this Act and were in effect on such date; and
 
-“(ii) all determinations of which the Attorney General and applicable official are aware described in subsection (a)(1)(B) of such section that were made before the date of the enactment of this Act and were in effect on such date.
+"(ii) all determinations of which the Attorney General and applicable official are aware described in subsection (a)(1)(B) of such section that were made before the date of the enactment of this Act and were in effect on such date.
 
-“(B) If a determination described in subparagraph (A)(ii) relates to any judicial, administrative, or other proceeding that is pending in the 90-day period beginning on the date of the enactment of this Act [Nov. 2, 2002], with respect to any such determination, then the report required by this paragraph shall be submitted within such time as will reasonably enable the House of Representatives and the Senate to take action, separately or jointly, to intervene in timely fashion in the proceeding, but not later than 30 days after the date of the enactment of this Act.”
+"(B) If a determination described in subparagraph (A)(ii) relates to any judicial, administrative, or other proceeding that is pending in the 90-day period beginning on the date of the enactment of this Act [Nov. 2, 2002], with respect to any such determination, then the report required by this paragraph shall be submitted within such time as will reasonably enable the House of Representatives and the Senate to take action, separately or jointly, to intervene in timely fashion in the proceeding, but not later than 30 days after the date of the enactment of this Act."

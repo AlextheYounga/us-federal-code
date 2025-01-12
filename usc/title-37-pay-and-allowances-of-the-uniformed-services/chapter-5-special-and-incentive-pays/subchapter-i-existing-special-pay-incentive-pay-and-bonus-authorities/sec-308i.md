@@ -44,87 +44,87 @@
 
 #### Amendments ####
 
-**2013**—Subsec. (f). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+**2013**—Subsec. (f). Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-**2011**—Subsec. (f). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+**2011**—Subsec. (f). Pub. L. 112–81 substituted "December 31, 2012" for "December 31, 2011".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
-**2009**—Subsec. (f). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+**2009**—Subsec. (f). Pub. L. 111–84 substituted "December 31, 2010" for "December 31, 2009".
 
-**2008**—Subsec. (f). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+**2008**—Subsec. (f). Pub. L. 110–417 substituted "December 31, 2009" for "December 31, 2008".
 
-Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
+Pub. L. 110–181 substituted "December 31, 2008" for "December 31, 2007".
 
-**2006**—Subsec. (a)(2)(A). Pub. L. 109–163, §633(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “The person has completed a military service obligation, but has not more than 16 years of total military service, and received an honorable discharge at the conclusion of that military service obligation.”
+**2006**—Subsec. (a)(2)(A). Pub. L. 109–163, §633(1), added subpar. (A) and struck out former subpar. (A) which read as follows: "The person has completed a military service obligation, but has not more than 16 years of total military service, and received an honorable discharge at the conclusion of that military service obligation."
 
-Subsec. (a)(2)(D). Pub. L. 109–163, §633(2), struck out subpar. (D) which read as follows: “The person has not previously been paid a bonus (except under this section) for enlistment, reenlistment, or extension of enlistment in a reserve component.”
+Subsec. (a)(2)(D). Pub. L. 109–163, §633(2), struck out subpar. (D) which read as follows: "The person has not previously been paid a bonus (except under this section) for enlistment, reenlistment, or extension of enlistment in a reserve component."
 
 Subsec. (d). Pub. L. 109–163, §687(b)(19), amended heading and text of subsec. (d) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when person fails to serve satisfactorily in element of Selected Reserve of Ready Reserve for which bonus was paid.
 
-Subsec. (f). Pub. L. 109–364 substituted “December 31, 2007” for “December 31, 2006”.
+Subsec. (f). Pub. L. 109–364 substituted "December 31, 2007" for "December 31, 2006".
 
-Pub. L. 109–163, §621(e), substituted “December 31, 2006” for “December 31, 2005”.
+Pub. L. 109–163, §621(e), substituted "December 31, 2006" for "December 31, 2005".
 
-**2004**—Subsec. (a)(2)(A). Pub. L. 108–375, §618(f)(1), substituted “not more than 16 years” for “less than 14 years”.
+**2004**—Subsec. (a)(2)(A). Pub. L. 108–375, §618(f)(1), substituted "not more than 16 years" for "less than 14 years".
 
-Subsec. (b)(1)(A). Pub. L. 108–375, §618(f)(2)(A), substituted “$15,000” for “$8,000”.
+Subsec. (b)(1)(A). Pub. L. 108–375, §618(f)(2)(A), substituted "$15,000" for "$8,000".
 
-Subsec. (b)(1)(B). Pub. L. 108–375, §618(f)(2)(B), substituted “$7,500” for “$4,000”.
+Subsec. (b)(1)(B). Pub. L. 108–375, §618(f)(2)(B), substituted "$7,500" for "$4,000".
 
-Subsec. (b)(1)(C). Pub. L. 108–375, §618(f)(2)(C), substituted “$6,000” for “$3,500”.
+Subsec. (b)(1)(C). Pub. L. 108–375, §618(f)(2)(C), substituted "$6,000" for "$3,500".
 
 Subsec. (b)(3). Pub. L. 108–375, §618(f)(3), added par. (3).
 
-Subsec. (f). Pub. L. 108–375, §611(f), substituted “December 31, 2005” for “December 31, 2004”.
+Subsec. (f). Pub. L. 108–375, §611(f), substituted "December 31, 2005" for "December 31, 2004".
 
-**2003**—Subsec. (f). Pub. L. 108–136 substituted “December 31, 2004” for “December 31, 2003”.
+**2003**—Subsec. (f). Pub. L. 108–136 substituted "December 31, 2004" for "December 31, 2003".
 
-**2002**—Subsec. (b)(1). Pub. L. 107–314, §617, substituted “$8,000” for “$5,000” in subpar. (A), “$4,000” for “$2,500” in subpar. (B), and “$3,500” for “$2,000” in subpar. (C).
+**2002**—Subsec. (b)(1). Pub. L. 107–314, §617, substituted "$8,000" for "$5,000" in subpar. (A), "$4,000" for "$2,500" in subpar. (B), and "$3,500" for "$2,000" in subpar. (C).
 
-Subsec. (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+Subsec. (e). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-Subsec. (f). Pub. L. 107–314, §611(f), substituted “December 31, 2003” for “December 31, 2002”.
+Subsec. (f). Pub. L. 107–314, §611(f), substituted "December 31, 2003" for "December 31, 2002".
 
-**2001**—Subsec. (f). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
+**2001**—Subsec. (f). Pub. L. 107–107 substituted "December 31, 2002" for "December 31, 2001".
 
-**2000**—Subsec. (f). Pub. L. 106–398 substituted “December 31, 2001” for “December 31, 2000”.
+**2000**—Subsec. (f). Pub. L. 106–398 substituted "December 31, 2001" for "December 31, 2000".
 
 **1999**—Subsec. (a)(2). Pub. L. 106–65, §623(a), added par. (2) and struck out former par. (2) which set forth requirements for payment of a bonus under this section.
 
-Subsec. (f). Pub. L. 106–65, §611(g), substituted “December 31, 2000” for “December 31, 1999”.
+Subsec. (f). Pub. L. 106–65, §611(g), substituted "December 31, 2000" for "December 31, 1999".
 
-**1998**—Subsec. (f). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
+**1998**—Subsec. (f). Pub. L. 105–261 substituted "December 31, 1999" for "September 30, 1999".
 
 **1997**—Subsec. (a). Pub. L. 105–85, §622(e)(1), inserted heading.
 
-Subsec. (a)(2)(A). Pub. L. 105–85, §622(a)(1), substituted “14 years” for “10 years”.
+Subsec. (a)(2)(A). Pub. L. 105–85, §622(a)(1), substituted "14 years" for "10 years".
 
-Subsec. (a)(2)(C). Pub. L. 105–85, §622(a)(2), struck out “and” at end.
+Subsec. (a)(2)(C). Pub. L. 105–85, §622(a)(2), struck out "and" at end.
 
 Subsec. (a)(2)(D). Pub. L. 105–85, §622(a)(5), added subpar. (D). Former subpar. (D) redesignated (E).
 
-Subsec. (a)(2)(E). Pub. L. 105–85, §622(a)(3), (4), redesignated subpar. (D) as (E) and inserted “(except under this section)” after “bonus”.
+Subsec. (a)(2)(E). Pub. L. 105–85, §622(a)(3), (4), redesignated subpar. (D) as (E) and inserted "(except under this section)" after "bonus".
 
-Subsec. (b). Pub. L. 105–85, §622(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The bonus to be paid under subsection (a) shall be—
+Subsec. (b). Pub. L. 105–85, §622(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The bonus to be paid under subsection (a) shall be—
 
-“(1) an initial payment of—
+"(1) an initial payment of—
 
-“(A) an amount not to exceed $1,250, in the case of a member who enlists for a period of three years; or
+"(A) an amount not to exceed $1,250, in the case of a member who enlists for a period of three years; or
 
-“(B) an amount not to exceed $2,500, in the case of a member who enlists for a period of six years; and
+"(B) an amount not to exceed $2,500, in the case of a member who enlists for a period of six years; and
 
-“(2) a subsequent payment of an amount not to exceed $416.66 upon the completion of each year of the period of such reenlistment or extension of enlistment during which such member has satisfactorily participated in unit training.”
+"(2) a subsequent payment of an amount not to exceed $416.66 upon the completion of each year of the period of such reenlistment or extension of enlistment during which such member has satisfactorily participated in unit training."
 
-Subsec. (c). Pub. L. 105–85, §622(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A member may not be paid more than one bonus under this section and may not be paid a bonus under this section unless the specialty associated with the position the member is projected to occupy is a specialty in which the member successfully served while on active duty and attained a level of qualification commensurate with the member's grade and years of service.”
+Subsec. (c). Pub. L. 105–85, §622(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "A member may not be paid more than one bonus under this section and may not be paid a bonus under this section unless the specialty associated with the position the member is projected to occupy is a specialty in which the member successfully served while on active duty and attained a level of qualification commensurate with the member's grade and years of service."
 
 Subsec. (d). Pub. L. 105–85, §622(d)(1), (e)(2)(A), inserted heading, designated existing provisions as par. (1), and redesignated subsecs. (e), (f), and (g) as pars. (2), (3), and (4), respectively, of subsec. (d).
 
-Subsec. (d)(2). Pub. L. 105–85, §622(e)(2)(B), substituted “paragraph (1)” for “subsection (d)”.
+Subsec. (d)(2). Pub. L. 105–85, §622(e)(2)(B), substituted "paragraph (1)" for "subsection (d)".
 
-Subsec. (d)(3). Pub. L. 105–85, §622(e)(2)(C), substituted “subsection (e)” for “subsection (h)” and “paragraph (1)” for “subsection (d)”.
+Subsec. (d)(3). Pub. L. 105–85, §622(e)(2)(C), substituted "subsection (e)" for "subsection (h)" and "paragraph (1)" for "subsection (d)".
 
-Subsec. (d)(4). Pub. L. 105–85, §622(e)(2)(B), substituted “paragraph (1)” for “subsection (d)”.
+Subsec. (d)(4). Pub. L. 105–85, §622(e)(2)(B), substituted "paragraph (1)" for "subsection (d)".
 
 Subsec. (e). Pub. L. 105–85, §622(e)(3), inserted heading.
 
@@ -134,31 +134,31 @@ Subsec. (f). Pub. L. 105–85, §622(e)(4), inserted heading.
 
 Pub. L. 105–85, §622(d)(2), redesignated subsec. (i) as (f). Former subsec. (f) redesignated subsec. (d)(3).
 
-Pub. L. 105–85, §611(g), amended subsec. (f), as redesignated by Pub. L. 105–85, §622(d)(2), by substituting “September 30, 1999” for “September 30, 1998”.
+Pub. L. 105–85, §611(g), amended subsec. (f), as redesignated by Pub. L. 105–85, §622(d)(2), by substituting "September 30, 1999" for "September 30, 1998".
 
 Subsec. (g). Pub. L. 105–85, §622(d)(2), redesignated subsec. (g) as subsec. (d)(4).
 
 Subsecs. (h), (i). Pub. L. 105–85, §622(d)(2), redesignated subsecs. (h) and (i) as (e) and (f), respectively.
 
-**1996**—Subsec. (i). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
+**1996**—Subsec. (i). Pub. L. 104–201 substituted "September 30, 1998" for "September 30, 1997".
 
-Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996”.
+Pub. L. 104–106 substituted "September 30, 1997" for "September 30, 1996".
 
-**1994**—Subsec. (i). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
+**1994**—Subsec. (i). Pub. L. 103–337 substituted "September 30, 1996" for "September 30, 1995".
 
-**1993**—Subsec. (i). Pub. L. 103–160 substituted “September 30, 1995” for “September 30, 1993”.
+**1993**—Subsec. (i). Pub. L. 103–160 substituted "September 30, 1995" for "September 30, 1993".
 
-**1992**—Subsec. (c). Pub. L. 102–484, §1136, inserted before period at end “and may not be paid a bonus under this section unless the specialty associated with the position the member is projected to occupy is a specialty in which the member successfully served while on active duty and attained a level of qualification commensurate with the member's grade and years of service”.
+**1992**—Subsec. (c). Pub. L. 102–484, §1136, inserted before period at end "and may not be paid a bonus under this section unless the specialty associated with the position the member is projected to occupy is a specialty in which the member successfully served while on active duty and attained a level of qualification commensurate with the member's grade and years of service".
 
-Subsec. (i). Pub. L. 102–484, §612(d), substituted “September 30, 1993” for “September 30, 1992”.
+Subsec. (i). Pub. L. 102–484, §612(d), substituted "September 30, 1993" for "September 30, 1992".
 
-**1991**—Subsecs. (e) to (g). Pub. L. 102–25 struck out “of this section” wherever appearing.
+**1991**—Subsecs. (e) to (g). Pub. L. 102–25 struck out "of this section" wherever appearing.
 
-**1989**—Subsec. (i). Pub. L. 101–189 substituted “September 30, 1992” for “September 30, 1990”.
+**1989**—Subsec. (i). Pub. L. 101–189 substituted "September 30, 1992" for "September 30, 1990".
 
-**1987**—Subsec. (b)(1)(B). Pub. L. 100–26 inserted a comma after “$2,500”.
+**1987**—Subsec. (b)(1)(B). Pub. L. 100–26 inserted a comma after "$2,500".
 
-Subsec. (i). Pub. L. 100–180 substituted “September 30, 1990” for “September 30, 1987”.
+Subsec. (i). Pub. L. 100–180 substituted "September 30, 1990" for "September 30, 1987".
 
 #### Effective Date of 2008 Amendment ####
 
@@ -170,7 +170,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1999 Amendment ####
 
-Pub. L. 106–65, div. A, title VI, §623(b), Oct. 5, 1999, 113 Stat. 654, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1999, and shall apply to enlistments beginning on or after that date.”
+Pub. L. 106–65, div. A, title VI, §623(b), Oct. 5, 1999, 113 Stat. 654, provided that: "The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1999, and shall apply to enlistments beginning on or after that date."
 
 #### Effective Date of 1993 Amendment ####
 
@@ -178,7 +178,7 @@ Amendment by Pub. L. 103–160 effective as of Sept. 30, 1993, and applicable wi
 
 #### Effective Date ####
 
-Pub. L. 99–145, title VI, §644(b), Nov. 8, 1985, 99 Stat. 653, provided that: “The amendments made by subsection (a) [enacting this section] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title VI, §644(b), Nov. 8, 1985, 99 Stat. 653, provided that: "The amendments made by subsection (a) [enacting this section] shall take effect on October 1, 1985."
 
 #### Savings Provision ####
 

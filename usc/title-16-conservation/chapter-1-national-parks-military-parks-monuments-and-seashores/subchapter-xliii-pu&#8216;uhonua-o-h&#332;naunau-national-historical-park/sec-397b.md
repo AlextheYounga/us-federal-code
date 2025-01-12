@@ -6,6 +6,6 @@ The Secretary of the Interior is authorized to procure, by donation or purchase,
 
 #### Amendments ####
 
-**2000**—Pub. L. 106–510 substituted “Pu‘uhonua o Hōnaunau National Historical Park” for “Puuhonua o Honaunau National Historical Park”.
+**2000**—Pub. L. 106–510 substituted "Pu‘uhonua o Hōnaunau National Historical Park" for "Puuhonua o Honaunau National Historical Park".
 
-**1978**—Pub. L. 95–625 redesignated as “Puuhonua o Honaunau National Historical Park” the park previously designated “City of Refuge National Historical Park”.
+**1978**—Pub. L. 95–625 redesignated as "Puuhonua o Honaunau National Historical Park" the park previously designated "City of Refuge National Historical Park".

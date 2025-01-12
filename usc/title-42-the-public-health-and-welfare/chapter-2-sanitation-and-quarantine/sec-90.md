@@ -8,7 +8,7 @@ Whenever the cargo of a vessel is unladen at some other place than the port of e
 
 R.S. §4795 derived from act Feb. 23, 1799, ch. 12, §2, 1 Stat. 619.
 
-Omission of words “or delivery” after “port of entry”, see Codification note set out under section 88 of this title.
+Omission of words "or delivery" after "port of entry", see Codification note set out under section 88 of this title.
 
 #### Transfer of Functions ####
 

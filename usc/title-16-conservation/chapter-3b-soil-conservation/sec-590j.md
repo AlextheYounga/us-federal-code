@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) Agricultural commodity ####
 
-The term “agricultural commodity” means—
+The term "agricultural commodity" means—
 
 (A) an agricultural commodity; and
 
@@ -14,11 +14,11 @@ The term “agricultural commodity” means—
 
 #### (A) In general ####
 
-The term “technical assistance” means technical expertise, information, and tools necessary for the conservation of natural resources on land active in agricultural, forestry, or related uses.
+The term "technical assistance" means technical expertise, information, and tools necessary for the conservation of natural resources on land active in agricultural, forestry, or related uses.
 
 #### (B) Inclusions ####
 
-The term “technical assistance” includes—
+The term "technical assistance" includes—
 
 (i) technical services provided directly to farmers, ranchers, and other eligible entities, such as conservation planning, technical consultation, and assistance with design and implementation of conservation practices; and
 
@@ -32,7 +32,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments ####
 
-**2008**—Pub. L. 110–246, §2802(b), amended section generally. Prior to amendment, text read as follows: “The term ‘agricultural commodity’ as used in this chapter means any such commodity and any regional or market classification, type, or grade thereof.”
+**2008**—Pub. L. 110–246, §2802(b), amended section generally. Prior to amendment, text read as follows: "The term 'agricultural commodity' as used in this chapter means any such commodity and any regional or market classification, type, or grade thereof."
 
 #### Effective Date of 2008 Amendment ####
 

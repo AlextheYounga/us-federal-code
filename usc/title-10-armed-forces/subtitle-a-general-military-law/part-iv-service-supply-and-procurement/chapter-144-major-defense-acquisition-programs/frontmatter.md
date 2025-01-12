@@ -40,15 +40,15 @@ Sec.
 
 **2003**—Pub. L. 108–136, div. A, title VIII, §822(a)(2), Nov. 24, 2003, 117 Stat. 1547, added item 2436.
 
-**1994**—Pub. L. 103–355, title III, §§3005(b), 3006(b), 3007(b), Oct. 13, 1994, 108 Stat. 3331, substituted “Baseline description” for “Enhanced program stability” in item 2435 and struck out items 2438 “Major programs: competitive phototyping” and 2439 “Major programs: competitive alternative sources”.
+**1994**—Pub. L. 103–355, title III, §§3005(b), 3006(b), 3007(b), Oct. 13, 1994, 108 Stat. 3331, substituted "Baseline description" for "Enhanced program stability" in item 2435 and struck out items 2438 "Major programs: competitive phototyping" and 2439 "Major programs: competitive alternative sources".
 
-**1993**—Pub. L. 103–160, div. A, title VIII, §828(a)(4), Nov. 30, 1993, 107 Stat. 1713, struck out items 2436 “Defense enterprise programs” and 2437 “Defense enterprise programs: milestone authorization”.
+**1993**—Pub. L. 103–160, div. A, title VIII, §828(a)(4), Nov. 30, 1993, 107 Stat. 1713, struck out items 2436 "Defense enterprise programs" and 2437 "Defense enterprise programs: milestone authorization".
 
 **1992**—Pub. L. 102–484, div. A, title VIII, §821(a)(2), div. D, title XLII, §4216(b)(2), Oct. 23, 1992, 106 Stat. 2460, 2670, added items 2438 and 2440 and redesignated former item 2438 as 2439.
 
-**1987**—Pub. L. 100–26, §7(b)(1), (2)(B), (9)(B), Apr. 21, 1987, 100 Stat. 279, 280, substituted “Major Defense Acquisition Programs” for “Oversight of Cost Growth in Major Programs” in chapter heading, added item 2430, and transferred former item 2305a from chapter 137 and redesignated it as item 2438.
+**1987**—Pub. L. 100–26, §7(b)(1), (2)(B), (9)(B), Apr. 21, 1987, 100 Stat. 279, 280, substituted "Major Defense Acquisition Programs" for "Oversight of Cost Growth in Major Programs" in chapter heading, added item 2430, and transferred former item 2305a from chapter 137 and redesignated it as item 2438.
 
-**1986**—Pub. L. 99–661, div. A, title XII, §1208(c)(2), Nov. 14, 1986, 100 Stat. 3976, inserted “; operational manpower requirements” in item 2434.
+**1986**—Pub. L. 99–661, div. A, title XII, §1208(c)(2), Nov. 14, 1986, 100 Stat. 3976, inserted "; operational manpower requirements" in item 2434.
 
 Pub. L. 99–500, §101(c) [title X, §§904(a)(2), 905(a)(2), 906(a)(2)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–134, 1783–135, 1783–137, and Pub. L. 99–591, §101(c) [title X, §§904(a)(2), 905(a)(2), 906(a)(2)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–134, 3341–135, 3341–137; Pub. L. 99–661, div. A, title IX, formerly title IV, §§904(a)(2), 905(a)(2), 906(a)(2), Nov. 14, 1986, 100 Stat. 3914–3916, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, added items 2435 to 2437.
 

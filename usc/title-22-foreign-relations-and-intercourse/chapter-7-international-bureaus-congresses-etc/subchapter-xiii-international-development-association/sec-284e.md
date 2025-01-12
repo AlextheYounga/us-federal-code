@@ -20,8 +20,8 @@ Any payment made to the United States by the Association as a distribution of ne
 
 #### Codification ####
 
-In subsec. (c), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c), "chapter 31 of title 31" and "that chapter" substituted for "the Second Liberty Bond Act, as amended" and "that Act", respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments ####
 
-**1964**—Subsecs. (b) to (d). Pub. L. 88–310 added subsec. (b), redesignated former subsec. (b) as (c) and struck out “, after paying the requisite part of the subscription of the United States in the Association required to be made under the articles.” after “Secretary of the Treasury” in first sentence and “of the subscription of the United States” after “amount” in third sentence, respectively, and redesignated former subsec. (c) as (d).
+**1964**—Subsecs. (b) to (d). Pub. L. 88–310 added subsec. (b), redesignated former subsec. (b) as (c) and struck out ", after paying the requisite part of the subscription of the United States in the Association required to be made under the articles." after "Secretary of the Treasury" in first sentence and "of the subscription of the United States" after "amount" in third sentence, respectively, and redesignated former subsec. (c) as (d).

@@ -56,7 +56,7 @@ The purpose of this subsection is to authorize the Secretary to make competitive
 
 #### (A) In general ####
 
-In this subsection, the term “regional partnership” means a collaborative agreement (which may be established on an interstate or intrastate basis) entered into by at least 2 of the following:
+In this subsection, the term "regional partnership" means a collaborative agreement (which may be established on an interstate or intrastate basis) entered into by at least 2 of the following:
 
 (i) The State child welfare agency that is responsible for the administration of the State plan under this part and part E.
 
@@ -262,43 +262,43 @@ A prior section 437 of act Aug. 14, 1935, was classified to section 637 of this 
 
 #### Amendments ####
 
-**2011**—Subsec. (a). Pub. L. 112–34, §102(a)(2), substituted “2012 through 2016” for “2007 through 2011”.
+**2011**—Subsec. (a). Pub. L. 112–34, §102(a)(2), substituted "2012 through 2016" for "2007 through 2011".
 
-Subsec. (f). Pub. L. 112–34, §103(c)(2)(A), struck out “methamphetamine or other” before “substance abuse” in heading.
+Subsec. (f). Pub. L. 112–34, §103(c)(2)(A), struck out "methamphetamine or other" before "substance abuse" in heading.
 
-Subsec. (f)(1). Pub. L. 112–34, §103(c)(2)(B), struck out “methamphetamine or other” before “substance abuse”.
+Subsec. (f)(1). Pub. L. 112–34, §103(c)(2)(B), struck out "methamphetamine or other" before "substance abuse".
 
-Subsec. (f)(3)(A). Pub. L. 112–34, §103(c)(1), substituted “2012 through 2016” for “2007 through 2011”.
+Subsec. (f)(3)(A). Pub. L. 112–34, §103(c)(1), substituted "2012 through 2016" for "2007 through 2011".
 
-Subsec. (f)(3)(B), (C). Pub. L. 112–34, §103(c)(2)(C), added subpars. (B) and (C) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “A grant shall be awarded under this subsection for a period of not less than 2, and not more than 5, fiscal years.”
+Subsec. (f)(3)(B), (C). Pub. L. 112–34, §103(c)(2)(C), added subpars. (B) and (C) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "A grant shall be awarded under this subsection for a period of not less than 2, and not more than 5, fiscal years."
 
-Subsec. (f)(4)(A). Pub. L. 112–34, §103(c)(2)(B), struck out “methamphetamine or other” before “substance abuse”.
+Subsec. (f)(4)(A). Pub. L. 112–34, §103(c)(2)(B), struck out "methamphetamine or other" before "substance abuse".
 
 Subsec. (f)(6)(A)(iv), (v). Pub. L. 112–34, §103(c)(2)(D), added cls. (iv) and (v).
 
-Subsec. (f)(7). Pub. L. 112–34, §103(c)(2)(E), substituted “shall” for “shall—”, struck out subpar. (A) designation before “take”, substituted period for “; and” at end of cl. (iv), redesignated cls. (i) to (iv) of former subpar. (A) as subpars. (A) to (D), respectively, of par. (7) and realigned margins, and struck out subpar. (B) which read as follows: “after taking such factors into consideration, give greater weight to awarding grants to regional partnerships that propose to address methamphetamine abuse and addiction in the partnership region (alone or in combination with other drug abuse and addiction) and which demonstrate that methamphetamine abuse and addiction (alone or in combination with other drug abuse and addiction) is adversely affecting child welfare in the partnership region.”
+Subsec. (f)(7). Pub. L. 112–34, §103(c)(2)(E), substituted "shall" for "shall—", struck out subpar. (A) designation before "take", substituted period for "; and" at end of cl. (iv), redesignated cls. (i) to (iv) of former subpar. (A) as subpars. (A) to (D), respectively, of par. (7) and realigned margins, and struck out subpar. (B) which read as follows: "after taking such factors into consideration, give greater weight to awarding grants to regional partnerships that propose to address methamphetamine abuse and addiction in the partnership region (alone or in combination with other drug abuse and addiction) and which demonstrate that methamphetamine abuse and addiction (alone or in combination with other drug abuse and addiction) is adversely affecting child welfare in the partnership region."
 
-Subsec. (f)(7)(A)(i). Pub. L. 112–34, §103(c)(2)(B), struck out “methamphetamine or other” before “substance abuse”.
+Subsec. (f)(7)(A)(i). Pub. L. 112–34, §103(c)(2)(B), struck out "methamphetamine or other" before "substance abuse".
 
-Subsec. (f)(9)(B)(iii). Pub. L. 112–34, §103(c)(2)(B), struck out “methamphetamine or other” before “substance abuse”.
+Subsec. (f)(9)(B)(iii). Pub. L. 112–34, §103(c)(2)(B), struck out "methamphetamine or other" before "substance abuse".
 
 Subsec. (f)(10). Pub. L. 112–34, §103(c)(2)(F), added par. (10).
 
-**2008**—Subsec. (c)(3). Pub. L. 110–246, §4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
+**2008**—Subsec. (c)(3). Pub. L. 110–246, §4002(b)(1)(D), (2)(V), substituted "supplemental nutrition assistance program benefits" for "food stamp".
 
-**2006**—Pub. L. 109–288, §4(b)(2)(B)(i), inserted “and targeted” after “Discretionary” in section catchline.
+**2006**—Pub. L. 109–288, §4(b)(2)(B)(i), inserted "and targeted" after "Discretionary" in section catchline.
 
-Subsec. (a). Pub. L. 109–288, §3(b), substituted “2007 through 2011” for “2002 through 2006”.
+Subsec. (a). Pub. L. 109–288, §3(b), substituted "2007 through 2011" for "2002 through 2006".
 
-Subsec. (b)(3). Pub. L. 109–288, §5(b)(2)(A), inserted “or tribal consortia” after “Indian tribes” in heading and text.
+Subsec. (b)(3). Pub. L. 109–288, §5(b)(2)(A), inserted "or tribal consortia" after "Indian tribes" in heading and text.
 
-Pub. L. 109–288, §5(a)(2), substituted “3 percent” for “2 percent”.
+Pub. L. 109–288, §5(a)(2), substituted "3 percent" for "2 percent".
 
-Subsec. (c)(1). Pub. L. 109–288, §5(b)(2)(B), inserted “or tribal consortia” after “tribes” in heading and inserted at end “If a consortium of Indian tribes applies and is approved for a grant under this section, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.”
+Subsec. (c)(1). Pub. L. 109–288, §5(b)(2)(B), inserted "or tribal consortia" after "tribes" in heading and inserted at end "If a consortium of Indian tribes applies and is approved for a grant under this section, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium."
 
-Subsec. (c)(2). Pub. L. 109–288, §6(f)(5), substituted “section 623” for “section 621”.
+Subsec. (c)(2). Pub. L. 109–288, §6(f)(5), substituted "section 623" for "section 621".
 
-Subsec. (e). Pub. L. 109–288, §4(b)(2)(B)(ii), substituted “subsection (a)” for “this section”.
+Subsec. (e). Pub. L. 109–288, §4(b)(2)(B)(ii), substituted "subsection (a)" for "this section".
 
 Subsec. (f). Pub. L. 109–288, §4(b)(2)(A), added subsec. (f).
 
@@ -320,4 +320,4 @@ Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payment
 
 Section effective Jan. 17, 2002, with delay permitted if State legislation is required, see section 301 of Pub. L. 107–133, set out as an Effective Date of 2002 Amendment note under section 629 of this title.
 
-[<sup>1</sup> So in original. Probably should be “subsection”.](#629g_1)
+[<sup>1</sup> So in original. Probably should be "subsection".](#629g_1)

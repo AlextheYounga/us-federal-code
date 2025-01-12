@@ -24,27 +24,27 @@ In this section:
 
 #### (1) Collection ####
 
-The term “collection” means a collection of intellectual and cultural artifacts, including documents, sculpture, and works of art.
+The term "collection" means a collection of intellectual and cultural artifacts, including documents, sculpture, and works of art.
 
 #### (2) Eligible entity ####
 
-The term “eligible entity” means a Federal entity, State, local, or tribal government, educational institution, or nonprofit organization.
+The term "eligible entity" means a Federal entity, State, local, or tribal government, educational institution, or nonprofit organization.
 
 #### (3) Historic property ####
 
-The term “historic property” has the meaning given the term in section 470w of this title.
+The term "historic property" has the meaning given the term in section 470w of this title.
 
 #### (4) Nationally significant ####
 
-The term “nationally significant” means a collection or historic property that meets the applicable criteria for national significance, in accordance with regulations promulgated by the Secretary pursuant to section 470a(a)(2) of this title.
+The term "nationally significant" means a collection or historic property that meets the applicable criteria for national significance, in accordance with regulations promulgated by the Secretary pursuant to section 470a(a)(2) of this title.
 
 #### (5) Program ####
 
-The term “program” means the Save America's Treasures Program established under subsection (c)(1).
+The term "program" means the Save America's Treasures Program established under subsection (c)(1).
 
 #### (6) Secretary ####
 
-The term “Secretary” means the Secretary of the Interior, acting through the Director of the National Park Service.
+The term "Secretary" means the Secretary of the Interior, acting through the Director of the National Park Service.
 
 #### (c) Establishment ####
 

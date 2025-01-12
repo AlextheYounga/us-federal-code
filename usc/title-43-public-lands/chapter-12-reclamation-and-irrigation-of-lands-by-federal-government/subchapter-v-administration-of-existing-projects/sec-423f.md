@@ -6,4 +6,4 @@ The purpose of sections 423 to 423g and 610 of this title is the rehabilitation 
 
 #### References in Text ####
 
-Sections 423 to 423g and 610 of this title, referred to in text, was in the original “this Act”, meaning act of May 25, 1926, ch. 383, 44 Stat. 636, as amended, which enacted sections 423 to 423g and 610 of this title. Section 610 of this title has been omitted from the Code. For complete classification of this Act to the Code, see Tables.
+Sections 423 to 423g and 610 of this title, referred to in text, was in the original "this Act", meaning act of May 25, 1926, ch. 383, 44 Stat. 636, as amended, which enacted sections 423 to 423g and 610 of this title. Section 610 of this title has been omitted from the Code. For complete classification of this Act to the Code, see Tables.

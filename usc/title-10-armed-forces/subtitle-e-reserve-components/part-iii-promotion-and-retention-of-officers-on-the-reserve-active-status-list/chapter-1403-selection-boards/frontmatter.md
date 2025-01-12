@@ -28,6 +28,6 @@ Sec.
 
 #### Amendments ####
 
-**2006**—Pub. L. 109–364, div. A, title V, §547(d)(2), Oct. 17, 2006, 120 Stat. 2216, substituted “Nondisclosure” for “Confidentiality” in item 14104.
+**2006**—Pub. L. 109–364, div. A, title V, §547(d)(2), Oct. 17, 2006, 120 Stat. 2216, substituted "Nondisclosure" for "Confidentiality" in item 14104.
 
-**1996**—Pub. L. 104–106, div. A, title XV, §1501(b)(23), Feb. 10, 1996, 110 Stat. 497, substituted “promotion” for “selection” in item 14105.
+**1996**—Pub. L. 104–106, div. A, title XV, §1501(b)(23), Feb. 10, 1996, 110 Stat. 497, substituted "promotion" for "selection" in item 14105.

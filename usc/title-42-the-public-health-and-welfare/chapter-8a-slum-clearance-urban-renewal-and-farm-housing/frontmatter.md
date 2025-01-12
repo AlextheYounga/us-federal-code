@@ -80,7 +80,7 @@ Sec.
 
 1489. Transfer of excess funds out of Rural Housing Insurance Fund.
 
-1490. “Rural” and “rural area” defined.
+1490. "Rural" and "rural area" defined.
 
 1490a. Loans to provide occupant owned, rental, and cooperative housing for low and moderate income, elderly or handicapped persons or families.
 

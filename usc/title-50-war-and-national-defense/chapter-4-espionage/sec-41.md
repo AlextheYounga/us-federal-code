@@ -1,6 +1,6 @@
 ### §41. Repealed. June 25, 1948, ch. 645, §21, 62 Stat. 862 ###
 
-Section, act June 15, 1917, ch. 30, title VIII, §4, 40 Stat. 226, defined “Foreign government”. See section 11 of Title 18, Crimes and Criminal Procedure.
+Section, act June 15, 1917, ch. 30, title VIII, §4, 40 Stat. 226, defined "Foreign government". See section 11 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of Repeal ####
 

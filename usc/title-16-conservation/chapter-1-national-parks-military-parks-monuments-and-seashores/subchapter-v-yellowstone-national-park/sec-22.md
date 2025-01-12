@@ -8,10 +8,10 @@ The Yellowstone National Park shall be under the exclusive control of the Secret
 
 R.S. §2475 derived from act Mar. 1, 1872, ch. 24, §2, 17 Stat. 33.
 
-The words “whose duty it shall be, as soon as practicable, to make and publish such regulations as he may deem necessary or proper for the care and management of the same” were omitted from the end of the first sentence as executed legislation.
+The words "whose duty it shall be, as soon as practicable, to make and publish such regulations as he may deem necessary or proper for the care and management of the same" were omitted from the end of the first sentence as executed legislation.
 
-The words “In addition to the powers and duties enumerated in section 3 of this title not inconsistent with this section” were added to relate this section to later law, defining the duties of the Secretary of the Interior as to national parks.
+The words "In addition to the powers and duties enumerated in section 3 of this title not inconsistent with this section" were added to relate this section to later law, defining the duties of the Secretary of the Interior as to national parks.
 
-“Thirty years” was substituted for “ten years” in view of section 3 of act Aug. 25, 1916, and act May 29, 1958, which authorized the Secretary to grant privileges, leases, and permits in the various parks for periods not exceeding thirty years. See section 3 of this title.
+"Thirty years" was substituted for "ten years" in view of section 3 of act Aug. 25, 1916, and act May 29, 1958, which authorized the Secretary to grant privileges, leases, and permits in the various parks for periods not exceeding thirty years. See section 3 of this title.
 
-As originally enacted, this section also contained a provision that “all of the proceeds of such leases, and all other revenues that may be derived from any source connected with the park, to be expended under his [Secretary of the Interior] direction in the management of the same, and the construction of roads and bridlepaths therein.” This provision was superseded by section 452 of this title providing for the disposition of all revenues from national parks.
+As originally enacted, this section also contained a provision that "all of the proceeds of such leases, and all other revenues that may be derived from any source connected with the park, to be expended under his [Secretary of the Interior] direction in the management of the same, and the construction of roads and bridlepaths therein." This provision was superseded by section 452 of this title providing for the disposition of all revenues from national parks.

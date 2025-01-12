@@ -10,7 +10,7 @@ Sec.
 
 11112. Standards for professional review actions.
 
-11113. Payment of reasonable attorneys’ fees and costs in defense of suit.
+11113. Payment of reasonable attorneys' fees and costs in defense of suit.
 
 11114. Guidelines of Secretary.
 

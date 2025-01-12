@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, within the boundaries of the park as
 
 #### References in Text ####
 
-Sections 251e to 251m of this title, the first three times appearing in text, was in the original “this Act” and, where last appearing, was in the original “this title”, meaning Pub. L. 94–578 and title III of Pub. L. 94–578, respectively.
+Sections 251e to 251m of this title, the first three times appearing in text, was in the original "this Act" and, where last appearing, was in the original "this title", meaning Pub. L. 94–578 and title III of Pub. L. 94–578, respectively.
 
 Act of October 9, 1965, referred to in text, is Pub. L. 89–249, Oct. 9, 1965, 79 Stat. 969, known as the National Park System Concessions Policy Act, which was classified generally to subchapter IV (§20 et seq.) of this chapter, prior to repeal by Pub. L. 105–391, title IV, §415(a), Nov. 13, 1998, 112 Stat. 3515.
 

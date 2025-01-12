@@ -8,7 +8,7 @@ The Secretary may award grants to eligible entities to support community-based c
 
 #### (1) Description ####
 
-A community-based collaborative care network (referred to in this section as a “network”) shall be a consortium of health care providers with a joint governance structure (including providers within a single entity) that provides comprehensive coordinated and integrated health care services (as defined by the Secretary) for low-income populations.
+A community-based collaborative care network (referred to in this section as a "network") shall be a consortium of health care providers with a joint governance structure (including providers within a single entity) that provides comprehensive coordinated and integrated health care services (as defined by the Secretary) for low-income populations.
 
 #### (2) Required inclusion ####
 

@@ -14,6 +14,6 @@
 
 #### Codification ####
 
-This subchapter, the first time it appears in subsec. (b), was in the original “this Act” which was translated as reading “this title”, meaning title II of Pub. L. 98–480, Oct. 17, 1984, 98 Stat. 2236, as the probable intent of Congress.
+This subchapter, the first time it appears in subsec. (b), was in the original "this Act" which was translated as reading "this title", meaning title II of Pub. L. 98–480, Oct. 17, 1984, 98 Stat. 2236, as the probable intent of Congress.
 
 [<sup>1</sup> See Codification note below.](#130aa-4_1)

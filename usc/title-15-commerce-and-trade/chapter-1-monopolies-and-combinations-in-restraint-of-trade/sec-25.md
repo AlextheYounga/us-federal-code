@@ -10,4 +10,4 @@ This Act, referred to in text, is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as a
 
 #### Change of Name ####
 
-Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys” for “district attorneys of the United States”. See section 541 et seq. of Title 28, Judiciary and Judicial Procedure.
+Act June 25, 1948, eff. Sept. 1, 1948, substituted "United States attorneys" for "district attorneys of the United States". See section 541 et seq. of Title 28, Judiciary and Judicial Procedure.

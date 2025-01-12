@@ -6,4 +6,4 @@ Sec.
 
 52. Statutory restriction of injunctive relief.
 
-53. “Person” or “persons” defined.
+53. "Person" or "persons" defined.

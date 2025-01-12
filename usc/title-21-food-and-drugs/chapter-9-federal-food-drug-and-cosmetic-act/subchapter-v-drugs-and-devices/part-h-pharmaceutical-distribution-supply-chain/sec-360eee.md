@@ -4,7 +4,7 @@ In this part:
 
 #### (1) Affiliate ####
 
-The term “affiliate” means a business entity that has a relationship with a second business entity if, directly or indirectly—
+The term "affiliate" means a business entity that has a relationship with a second business entity if, directly or indirectly—
 
 (A) one business entity controls, or has the power to control, the other business entity; or
 
@@ -12,7 +12,7 @@ The term “affiliate” means a business entity that has a relationship with a 
 
 #### (2) Authorized ####
 
-The term “authorized” means—
+The term "authorized" means—
 
 (A) in the case of a manufacturer or repackager, having a valid registration in accordance with section 360 of this title;
 
@@ -24,7 +24,7 @@ The term “authorized” means—
 
 #### (3) Dispenser ####
 
-The term “dispenser”—
+The term "dispenser"—
 
 (A) means a retail pharmacy, hospital pharmacy, a group of chain pharmacies under common ownership and control that do not act as a wholesale distributor, or any other person authorized by law to dispense or administer prescription drugs, and the affiliated warehouses or distribution centers of such entities under common ownership and control that do not act as a wholesale distributor; and
 
@@ -32,23 +32,23 @@ The term “dispenser”—
 
 #### (4) Disposition ####
 
-The term “disposition”, with respect to a product within the possession or control of an entity, means the removal of such product from the pharmaceutical distribution supply chain, which may include disposal or return of the product for disposal or other appropriate handling and other actions, such as retaining a sample of the product for further additional physical examination or laboratory analysis of the product by a manufacturer or regulatory or law enforcement agency.
+The term "disposition", with respect to a product within the possession or control of an entity, means the removal of such product from the pharmaceutical distribution supply chain, which may include disposal or return of the product for disposal or other appropriate handling and other actions, such as retaining a sample of the product for further additional physical examination or laboratory analysis of the product by a manufacturer or regulatory or law enforcement agency.
 
 #### (5) Distribute or distribution ####
 
-The term “distribute” or “distribution” means the sale, purchase, trade, delivery, handling, storage, or receipt of a product, and does not include the dispensing of a product pursuant to a prescription executed in accordance with section 353(b)(1) of this title or the dispensing of a product approved under section 360b(b) of this title.
+The term "distribute" or "distribution" means the sale, purchase, trade, delivery, handling, storage, or receipt of a product, and does not include the dispensing of a product pursuant to a prescription executed in accordance with section 353(b)(1) of this title or the dispensing of a product approved under section 360b(b) of this title.
 
 #### (6) Exclusive distributor ####
 
-The term “exclusive distributor” means the wholesale distributor that directly purchased the product from the manufacturer and is the sole distributor of that manufacturer's product to a subsequent repackager, wholesale distributor, or dispenser.
+The term "exclusive distributor" means the wholesale distributor that directly purchased the product from the manufacturer and is the sole distributor of that manufacturer's product to a subsequent repackager, wholesale distributor, or dispenser.
 
 #### (7) Homogeneous case ####
 
-The term “homogeneous case” means a sealed case containing only product that has a single National Drug Code number belonging to a single lot.
+The term "homogeneous case" means a sealed case containing only product that has a single National Drug Code number belonging to a single lot.
 
 #### (8) Illegitimate product ####
 
-The term “illegitimate product” means a product for which credible evidence shows that the product—
+The term "illegitimate product" means a product for which credible evidence shows that the product—
 
 (A) is counterfeit, diverted, or stolen;
 
@@ -60,7 +60,7 @@ The term “illegitimate product” means a product for which credible evidence 
 
 #### (9) Licensed ####
 
-The term “licensed” means—
+The term "licensed" means—
 
 (A) in the case of a wholesale distributor, having a valid license in accordance with section 353(e) of this title or section 360eee–1(a)(6) of this title, as applicable;
 
@@ -70,7 +70,7 @@ The term “licensed” means—
 
 #### (10) Manufacturer ####
 
-The term “manufacturer” means, with respect to a product—
+The term "manufacturer" means, with respect to a product—
 
 (A) a person that holds an application approved under section 355 of this title or a license issued under section 262 of title 42 for such product, or if such product is not the subject of an approved application or license, the person who manufactured the product;
 
@@ -82,31 +82,31 @@ The term “manufacturer” means, with respect to a product—
 
 #### (A) In general ####
 
-The term “package” means the smallest individual saleable unit of product for distribution by a manufacturer or repackager that is intended by the manufacturer for ultimate sale to the dispenser of such product.
+The term "package" means the smallest individual saleable unit of product for distribution by a manufacturer or repackager that is intended by the manufacturer for ultimate sale to the dispenser of such product.
 
 #### (B) Individual saleable unit ####
 
-For purposes of this paragraph, an “individual saleable unit” is the smallest container of product introduced into commerce by the manufacturer or repackager that is intended by the manufacturer or repackager for individual sale to a dispenser.
+For purposes of this paragraph, an "individual saleable unit" is the smallest container of product introduced into commerce by the manufacturer or repackager that is intended by the manufacturer or repackager for individual sale to a dispenser.
 
 #### (12) Prescription drug ####
 
-The term “prescription drug” means a drug for human use subject to section 353(b)(1) of this title.
+The term "prescription drug" means a drug for human use subject to section 353(b)(1) of this title.
 
 #### (13) Product ####
 
-The term “product” means a prescription drug in a finished dosage form for administration to a patient without substantial further manufacturing (such as capsules, tablets, and lyophilized products before reconstitution), but for purposes of section 360eee–1 of this title, does not include blood or blood components intended for transfusion, radioactive drugs or radioactive biological products (as defined in section 600.3(ee) of title 21, Code of Federal Regulations) that are regulated by the Nuclear Regulatory Commission or by a State pursuant to an agreement with such Commission under section 2021 of title 42, imaging drugs, an intravenous product described in clause (xiv), (xv), or (xvi) of paragraph (24)(B), any medical gas (as defined in section 360ddd of this title), homeopathic drugs marketed in accordance with applicable guidance under this chapter, or a drug compounded in compliance with section 353a or 353b of this title.
+The term "product" means a prescription drug in a finished dosage form for administration to a patient without substantial further manufacturing (such as capsules, tablets, and lyophilized products before reconstitution), but for purposes of section 360eee–1 of this title, does not include blood or blood components intended for transfusion, radioactive drugs or radioactive biological products (as defined in section 600.3(ee) of title 21, Code of Federal Regulations) that are regulated by the Nuclear Regulatory Commission or by a State pursuant to an agreement with such Commission under section 2021 of title 42, imaging drugs, an intravenous product described in clause (xiv), (xv), or (xvi) of paragraph (24)(B), any medical gas (as defined in section 360ddd of this title), homeopathic drugs marketed in accordance with applicable guidance under this chapter, or a drug compounded in compliance with section 353a or 353b of this title.
 
 #### (14) Product identifier ####
 
-The term “product identifier” means a standardized graphic that includes, in both human-readable form and on a machine-readable data carrier that conforms to the standards developed by a widely recognized international standards development organization, the standardized numerical identifier, lot number, and expiration date of the product.
+The term "product identifier" means a standardized graphic that includes, in both human-readable form and on a machine-readable data carrier that conforms to the standards developed by a widely recognized international standards development organization, the standardized numerical identifier, lot number, and expiration date of the product.
 
 #### (15) Quarantine ####
 
-The term “quarantine” means the storage or identification of a product, to prevent distribution or transfer of the product, in a physically separate area clearly identified for such use or through other procedures.
+The term "quarantine" means the storage or identification of a product, to prevent distribution or transfer of the product, in a physically separate area clearly identified for such use or through other procedures.
 
 #### (16) Repackager ####
 
-The term “repackager” means a person who owns or operates an establishment that repacks and relabels a product or package for—
+The term "repackager" means a person who owns or operates an establishment that repacks and relabels a product or package for—
 
 (A) further sale; or
 
@@ -114,23 +114,23 @@ The term “repackager” means a person who owns or operates an establishment t
 
 #### (17) Return ####
 
-The term “return” means providing product to the authorized immediate trading partner from which such product was purchased or received, or to a returns processor or reverse logistics provider for handling of such product.
+The term "return" means providing product to the authorized immediate trading partner from which such product was purchased or received, or to a returns processor or reverse logistics provider for handling of such product.
 
 #### (18) Returns processor or reverse logistics provider ####
 
-The term “returns processor” or “reverse logistics provider” means a person who owns or operates an establishment that dispositions or otherwise processes saleable or nonsaleable product received from an authorized trading partner such that the product may be processed for credit to the purchaser, manufacturer, or seller or disposed of for no further distribution.
+The term "returns processor" or "reverse logistics provider" means a person who owns or operates an establishment that dispositions or otherwise processes saleable or nonsaleable product received from an authorized trading partner such that the product may be processed for credit to the purchaser, manufacturer, or seller or disposed of for no further distribution.
 
 #### (19) Specific patient need ####
 
-The term “specific patient need” refers to the transfer of a product from one pharmacy to another to fill a prescription for an identified patient. Such term does not include the transfer of a product from one pharmacy to another for the purpose of increasing or replenishing stock in anticipation of a potential need.
+The term "specific patient need" refers to the transfer of a product from one pharmacy to another to fill a prescription for an identified patient. Such term does not include the transfer of a product from one pharmacy to another for the purpose of increasing or replenishing stock in anticipation of a potential need.
 
 #### (20) Standardized numerical identifier ####
 
-The term “standardized numerical identifier” means a set of numbers or characters used to uniquely identify each package or homogenous case that is composed of the National Drug Code that corresponds to the specific product (including the particular package configuration) combined with a unique alphanumeric serial number of up to 20 characters.
+The term "standardized numerical identifier" means a set of numbers or characters used to uniquely identify each package or homogenous case that is composed of the National Drug Code that corresponds to the specific product (including the particular package configuration) combined with a unique alphanumeric serial number of up to 20 characters.
 
 #### (21) Suspect product ####
 
-The term “suspect product” means a product for which there is reason to believe that such product—
+The term "suspect product" means a product for which there is reason to believe that such product—
 
 (A) is potentially counterfeit, diverted, or stolen;
 
@@ -142,11 +142,11 @@ The term “suspect product” means a product for which there is reason to beli
 
 #### (22) Third-party logistics provider ####
 
-The term “third-party logistics provider” means an entity that provides or coordinates warehousing, or other logistics services of a product in interstate commerce on behalf of a manufacturer, wholesale distributor, or dispenser of a product, but does not take ownership of the product, nor have responsibility to direct the sale or disposition of the product.
+The term "third-party logistics provider" means an entity that provides or coordinates warehousing, or other logistics services of a product in interstate commerce on behalf of a manufacturer, wholesale distributor, or dispenser of a product, but does not take ownership of the product, nor have responsibility to direct the sale or disposition of the product.
 
 #### (23) Trading partner ####
 
-The term “trading partner” means—
+The term "trading partner" means—
 
 (A) a manufacturer, repackager, wholesale distributor, or dispenser from whom a manufacturer, repackager, wholesale distributor, or dispenser accepts direct ownership of a product or to whom a manufacturer, repackager, wholesale distributor, or dispenser transfers direct ownership of a product; or
 
@@ -156,11 +156,11 @@ The term “trading partner” means—
 
 #### (A) In general ####
 
-The term “transaction” means the transfer of product between persons in which a change of ownership occurs.
+The term "transaction" means the transfer of product between persons in which a change of ownership occurs.
 
 #### (B) Exemptions ####
 
-The term “transaction” does not include—
+The term "transaction" does not include—
 
 (i) intracompany distribution of any product between members of an affiliate or within a manufacturer;
 
@@ -190,9 +190,9 @@ The term “transaction” does not include—
 
 (II) 2 or more separate products packaged together in a single package or as a unit and comprised of a drug and device or device and biological product; or
 
-(III) 2 or more finished medical devices plus one or more drug or biological products that are packaged together in what is referred to as a “medical convenience kit” as described in clause (xiii);
+(III) 2 or more finished medical devices plus one or more drug or biological products that are packaged together in what is referred to as a "medical convenience kit" as described in clause (xiii);
 
-(xiii) the distribution of a collection of finished medical devices, which may include a product or biological product, assembled in kit form strictly for the convenience of the purchaser or user (referred to in this clause as a “medical convenience kit”) if—
+(xiii) the distribution of a collection of finished medical devices, which may include a product or biological product, assembled in kit form strictly for the convenience of the purchaser or user (referred to in this clause as a "medical convenience kit") if—
 
 (I) the medical convenience kit is assembled in an establishment that is registered with the Food and Drug Administration as a device manufacturer in accordance with section 360(b)(2) of this title;
 
@@ -232,11 +232,11 @@ The term “transaction” does not include—
 
 #### (25) Transaction history ####
 
-The term “transaction history” means a statement in paper or electronic form, including the transaction information for each prior transaction going back to the manufacturer of the product.
+The term "transaction history" means a statement in paper or electronic form, including the transaction information for each prior transaction going back to the manufacturer of the product.
 
 #### (26) Transaction information ####
 
-The term“transaction information” means—
+The term"transaction information" means—
 
 (A) the proprietary or established name or names of the product;
 
@@ -260,7 +260,7 @@ The term“transaction information” means—
 
 #### (27) Transaction statement ####
 
-The “transaction statement” is a statement, in paper or electronic form, that the entity transferring ownership in a transaction—
+The "transaction statement" is a statement, in paper or electronic form, that the entity transferring ownership in a transaction—
 
 (A) is authorized as required under the Drug Supply Chain Security Act;
 
@@ -278,11 +278,11 @@ The “transaction statement” is a statement, in paper or electronic form, tha
 
 #### (28) Verification or verify ####
 
-The term “verification” or “verify” means determining whether the product identifier affixed to, or imprinted upon, a package or homogeneous case corresponds to the standardized numerical identifier or lot number and expiration date assigned to the product by the manufacturer or the repackager, as applicable in accordance with section 360eee–1 of this title.
+The term "verification" or "verify" means determining whether the product identifier affixed to, or imprinted upon, a package or homogeneous case corresponds to the standardized numerical identifier or lot number and expiration date assigned to the product by the manufacturer or the repackager, as applicable in accordance with section 360eee–1 of this title.
 
 #### (29) Wholesale distributor ####
 
-The term “wholesale distributor” means a person (other than a manufacturer, a manufacturer's co-licensed partner, a third-party logistics provider, or repackager) engaged in wholesale distribution (as defined in section 353(e)(4) of this title).
+The term "wholesale distributor" means a person (other than a manufacturer, a manufacturer's co-licensed partner, a third-party logistics provider, or repackager) engaged in wholesale distribution (as defined in section 353(e)(4) of this title).
 
 (June 25, 1938, ch. 675, §581, as added Pub. L. 113–54, title II, §202, Nov. 27, 2013, 127 Stat. 599.)
 

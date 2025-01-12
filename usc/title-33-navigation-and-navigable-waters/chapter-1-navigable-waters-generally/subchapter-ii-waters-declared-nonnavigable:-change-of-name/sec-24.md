@@ -8,4 +8,4 @@ The right to alter, amend, or repeal this section is expressly reserved.
 
 #### Codification ####
 
-The first sentence hereof is section 1 and the last sentence section 2 of act Feb. 15, 1910, entitled “An Act to declare Big Tarkio River, in Holt and Atchison counties, Missouri, nonnavigable”.
+The first sentence hereof is section 1 and the last sentence section 2 of act Feb. 15, 1910, entitled "An Act to declare Big Tarkio River, in Holt and Atchison counties, Missouri, nonnavigable".

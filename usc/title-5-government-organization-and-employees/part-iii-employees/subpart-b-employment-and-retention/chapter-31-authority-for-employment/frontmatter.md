@@ -62,7 +62,7 @@ Sec.
 
 **2011**—Pub. L. 112–81, div. A, title XI, §1109(b), Dec. 31, 2011, 125 Stat. 1615, added item 3111a.
 
-**2010**—Pub. L. 111–203, title IX, §929G(b), July 21, 2010, 124 Stat. 1856, added item 3114 and struck out former item 3114 “Appointment of accountants, economists, and examiners by the Securities and Exchange Commission”.
+**2010**—Pub. L. 111–203, title IX, §929G(b), July 21, 2010, 124 Stat. 1856, added item 3114 and struck out former item 3114 "Appointment of accountants, economists, and examiners by the Securities and Exchange Commission".
 
 **2003**—Pub. L. 108–44, §2(b), July 3, 2003, 117 Stat. 843, added item 3114.
 
@@ -70,15 +70,15 @@ Sec.
 
 **1997**—Pub. L. 105–61, title VI, §638(b), Oct. 10, 1997, 111 Stat. 1317, added item 3113.
 
-**1995**—Pub. L. 104–66, title II, §2181(a)(2), Dec. 21, 1995, 109 Stat. 732, struck out item 3135 “Biennial report”.
+**1995**—Pub. L. 104–66, title II, §2181(a)(2), Dec. 21, 1995, 109 Stat. 732, struck out item 3135 "Biennial report".
 
 **1988**—Pub. L. 100–325, §1(b), May 30, 1988, 102 Stat. 581, added subchapter III heading and items 3151 and 3152.
 
-**1980**—Pub. L. 96–523, §1(b), Dec. 12, 1980, 94 Stat. 3040, substituted “personal assistants for handicapped employees, including blind and” for “reading assistants for blind employees and interpreting assistants for” in item 3102.
+**1980**—Pub. L. 96–523, §1(b), Dec. 12, 1980, 94 Stat. 3040, substituted "personal assistants for handicapped employees, including blind and" for "reading assistants for blind employees and interpreting assistants for" in item 3102.
 
-**1978**—Pub. L. 95–454, title III, §§301(b), 302(b)(1), 307(b)(3), title IV, §402(c), Oct. 13, 1978, 92 Stat. 1145, 1146, 1148, 1160, added heading for subchapter I, substituted “reading assistants for blind employees and interpreting assistants for deaf employees” for “readers for blind employees” in item 3102, and added items 3111, 3112, heading for subchapter II, and items 3131 to 3136.
+**1978**—Pub. L. 95–454, title III, §§301(b), 302(b)(1), 307(b)(3), title IV, §402(c), Oct. 13, 1978, 92 Stat. 1145, 1146, 1148, 1160, added heading for subchapter I, substituted "reading assistants for blind employees and interpreting assistants for deaf employees" for "readers for blind employees" in item 3102, and added items 3111, 3112, heading for subchapter II, and items 3131 to 3136.
 
-Pub. L. 95–251, §2(c)(2), Mar. 27, 1978, 92 Stat. 184, substituted “administrative law judges” for “hearing examiners” in item 3105.
+Pub. L. 95–251, §2(c)(2), Mar. 27, 1978, 92 Stat. 184, substituted "administrative law judges" for "hearing examiners" in item 3105.
 
 **1967**—Pub. L. 90–206, title II, §221(b), Dec. 16, 1967, 81 Stat. 640, added item 3110.
 

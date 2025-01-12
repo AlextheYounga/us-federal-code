@@ -22,6 +22,6 @@ Section 2522, Pub. L. 87–27, §25, May 1, 1961, 75 Stat. 63, stated that each 
 
 Section 2523, Pub. L. 87–27, §27, May 1, 1961, 75 Stat. 63, provided that Secretary shall establish and conduct a continuing program of study and research and shall include in his annual report to Congress his findings resulting therefrom and his recommendations for legislative and other action.
 
-Section 2524, Pub. L. 87–27, §28, May 1, 1961, 75 Stat. 63, defined “State”, “States”, and “United States” as used in this chapter.
+Section 2524, Pub. L. 87–27, §28, May 1, 1961, 75 Stat. 63, defined "State", "States", and "United States" as used in this chapter.
 
 Section 2525, Pub. L. 87–27, §29, May 1, 1961, 75 Stat. 63; Pub. L. 89–55, June 30, 1965, 79 Stat. 195, stated that termination date of this chapter and all authority conferred thereunder shall be Aug. 31, 1965, and that Secretary of the Treasury shall be responsible for liquidation of affairs and functions conducted under this chapter.

@@ -10,11 +10,11 @@ Section is from act June 13, 1888. Act June 13, 1888, also contained other provi
 
 Act Aug. 23, 1912, transferred the duty of former Commissioner of Labor to ascertain the cost of producing, in leading countries, articles dutiable in the United States, the profits of the manufacturers and producers of such articles, the comparative cost of such articles, comparative cost of living in such countries, what articles are controlled by trusts and the effect they have on prices and production, to the Bureau of Foreign and Domestic Commerce. Text of said act is set out as section 172 of Title 15, Commerce and Trade.
 
-Act Mar. 4, 1913, authorized the substitution of “Commissioner of Labor Statistics” for “Commissioner of Labor”.
+Act Mar. 4, 1913, authorized the substitution of "Commissioner of Labor Statistics" for "Commissioner of Labor".
 
 #### Amendments ####
 
-**1928**—Act May 29, 1928, repealed provisions requiring reports to Congress on investigations required by this section, and is authority for omission of “and report as to” after “ascertain” in first sentence and “and report thereon to Congress” at end of third sentence relating to information from foreign nations, and convict made goods.
+**1928**—Act May 29, 1928, repealed provisions requiring reports to Congress on investigations required by this section, and is authority for omission of "and report as to" after "ascertain" in first sentence and "and report thereon to Congress" at end of third sentence relating to information from foreign nations, and convict made goods.
 
 #### Transfer of Functions ####
 

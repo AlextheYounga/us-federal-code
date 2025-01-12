@@ -6,7 +6,7 @@ The park shall be administered in accordance with this subchapter and with the p
 
 #### (b) Cooperative agreements ####
 
-The Secretary, after consulting with the Salt River Bay National Historical Park and Ecological Preserve at St. Croix, Virgin Islands, Commission (hereafter in this subchapter referred to as the “Commission”) established by section 410tt–4 of this title, is authorized to enter into cooperative agreements with the United States Virgin Islands, or any political subdivision thereof, for the management of the park and for other purposes.
+The Secretary, after consulting with the Salt River Bay National Historical Park and Ecological Preserve at St. Croix, Virgin Islands, Commission (hereafter in this subchapter referred to as the "Commission") established by section 410tt–4 of this title, is authorized to enter into cooperative agreements with the United States Virgin Islands, or any political subdivision thereof, for the management of the park and for other purposes.
 
 #### (c) General management plan ####
 
@@ -32,7 +32,7 @@ During the 10-year period beginning on February 24, 1992, the Secretary shall, s
 
 #### References in Text ####
 
-This subchapter, referred to in subsec. (a) after “the provisions of” in two places and in subsec. (b), was in the original “this Act” and was translated as reading “this title”, meaning title I of Pub. L. 102–247, known as the Salt River Bay National Historical Park and Ecological Preserve at St. Croix, Virgin Islands, Act of 1992, to reflect the probable intent of Congress.
+This subchapter, referred to in subsec. (a) after "the provisions of" in two places and in subsec. (b), was in the original "this Act" and was translated as reading "this title", meaning title I of Pub. L. 102–247, known as the Salt River Bay National Historical Park and Ecological Preserve at St. Croix, Virgin Islands, Act of 1992, to reflect the probable intent of Congress.
 
 The Archaeological Resources Protection Act of 1979, referred to in subsec. (c)(2)(C), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, as amended, which is classified generally to chapter 1B (§470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables.
 
@@ -40,8 +40,8 @@ The National Historic Preservation Act, referred to in subsec. (c)(2)(C), is Pub
 
 #### Amendments ####
 
-**1994**—Subsec. (c)(1). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+**1994**—Subsec. (c)(1). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
 
-[<sup>1</sup> So in original. Probably should be “Archaeological”.](#410tt-3_1)
+[<sup>1</sup> So in original. Probably should be "Archaeological".](#410tt-3_1)
 
-[<sup>2</sup> So in original. Probably should be subsection “(d)”.](#410tt-3_2)
+[<sup>2</sup> So in original. Probably should be subsection "(d)".](#410tt-3_2)

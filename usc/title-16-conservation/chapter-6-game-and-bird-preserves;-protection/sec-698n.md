@@ -4,13 +4,13 @@
 
 #### (1) In general ####
 
-There is established in the St. Johns River Valley, Florida, where the Timucuan Indians lived in prehistoric and historic times, the Timucuan Ecological and Historic Preserve (hereafter in sections 698n to 698p of this title referred to as the “Preserve”). The Preserve shall comprise the lands, waters, and interests therein within the boundaries generally depicted on a map of Duval County, Florida, entitled “Timucuan Ecological and Historic Preserve” numbered NA–TEHP 80,003–A and dated July 1987. The map shall be on file and available for public inspection in the Office of the National Park Service, Department of the Interior. The Secretary of the Interior may make minor revisions in the boundary of the Preserve in accordance with section 460l–9(c) of this title. The Preserve shall also include within its boundaries all that land consisting of approximately 500 acres adjacent to Fort Caroline National Memorial and known as the Theodore Roosevelt Preserve, being land formerly owned by one Willie Brown and donated by him to The Nature Conservancy.
+There is established in the St. Johns River Valley, Florida, where the Timucuan Indians lived in prehistoric and historic times, the Timucuan Ecological and Historic Preserve (hereafter in sections 698n to 698p of this title referred to as the "Preserve"). The Preserve shall comprise the lands, waters, and interests therein within the boundaries generally depicted on a map of Duval County, Florida, entitled "Timucuan Ecological and Historic Preserve" numbered NA–TEHP 80,003–A and dated July 1987. The map shall be on file and available for public inspection in the Office of the National Park Service, Department of the Interior. The Secretary of the Interior may make minor revisions in the boundary of the Preserve in accordance with section 460l–9(c) of this title. The Preserve shall also include within its boundaries all that land consisting of approximately 500 acres adjacent to Fort Caroline National Memorial and known as the Theodore Roosevelt Preserve, being land formerly owned by one Willie Brown and donated by him to The Nature Conservancy.
 
 #### (2) Modification of boundary ####
 
 #### (A) In general ####
 
-In addition to the land described in paragraph (1), the Preserve shall include approximately 8.5 acres of land located in Nassau County, Florida, as generally depicted on the map entitled “Timucuan Ecological and Historic Preserve American Beach Adjustment”, numbered 006/80012 and dated June 2003.
+In addition to the land described in paragraph (1), the Preserve shall include approximately 8.5 acres of land located in Nassau County, Florida, as generally depicted on the map entitled "Timucuan Ecological and Historic Preserve American Beach Adjustment", numbered 006/80012 and dated June 2003.
 
 #### (B) Duties of Secretary ####
 
@@ -22,7 +22,7 @@ The Secretary of the Interior shall—
 
 #### (b) Land acquisition ####
 
-The Secretary of the Interior (hereinafter in sections 698n to 698p of this title referred to as the “Secretary”) is authorized to acquire lands and interests therein within the Preserve by donation, purchase with donated or appropriated funds, or exchange, but no lands other than wetlands or interests therein may be acquired without the consent of the owner. For purposes of this subsection, the term “wetlands” has the same meaning as provided by section 3902 of this title. Lands, interests in lands, and improvements thereon within the boundaries of the Preserve which are owned by the State of Florida or any political subdivision thereof may be acquired only by donation or exchange. On lands acquired for inclusion within the Preserve, the Secretary shall not impair any legal riparian right of access nor shall he preclude the continued use of any legal right of way.
+The Secretary of the Interior (hereinafter in sections 698n to 698p of this title referred to as the "Secretary") is authorized to acquire lands and interests therein within the Preserve by donation, purchase with donated or appropriated funds, or exchange, but no lands other than wetlands or interests therein may be acquired without the consent of the owner. For purposes of this subsection, the term "wetlands" has the same meaning as provided by section 3902 of this title. Lands, interests in lands, and improvements thereon within the boundaries of the Preserve which are owned by the State of Florida or any political subdivision thereof may be acquired only by donation or exchange. On lands acquired for inclusion within the Preserve, the Secretary shall not impair any legal riparian right of access nor shall he preclude the continued use of any legal right of way.
 
 #### (c) Administration ####
 
@@ -36,8 +36,8 @@ Nothing in sections 698n to 698p of this title shall affect development of a mul
 
 #### Amendments ####
 
-**2004**—Subsec. (a). Pub. L. 108–321 designated existing provisions as par. (1), inserted heading, substituted “There is” for “There is hereby”, and added par. (2).
+**2004**—Subsec. (a). Pub. L. 108–321 designated existing provisions as par. (1), inserted heading, substituted "There is" for "There is hereby", and added par. (2).
 
 #### Short Title of 2004 Amendment ####
 
-Pub. L. 108–321, §1, Oct. 5, 2004, 118 Stat. 1214, provided that: “This Act [amending this section] may be cited as the ‘Timucuan Ecological and Historic Preserve Boundary Revision Act of 2004’.”
+Pub. L. 108–321, §1, Oct. 5, 2004, 118 Stat. 1214, provided that: "This Act [amending this section] may be cited as the 'Timucuan Ecological and Historic Preserve Boundary Revision Act of 2004'."

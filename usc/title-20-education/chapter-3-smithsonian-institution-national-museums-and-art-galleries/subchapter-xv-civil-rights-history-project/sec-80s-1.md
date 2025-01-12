@@ -4,7 +4,7 @@
 
 #### (1) In general ####
 
-Within the limits of available funds, the Librarian of Congress (hereafter referred to as the “Librarian”) and the Secretary of the Smithsonian Institution (hereafter referred to as the “Secretary)”,<sup><a href="#80s-1_1_target" name="80s-1_1">1</a></sup> acting jointly, shall establish an oral history project—
+Within the limits of available funds, the Librarian of Congress (hereafter referred to as the "Librarian") and the Secretary of the Smithsonian Institution (hereafter referred to as the "Secretary)",<sup><a href="#80s-1_1_target" name="80s-1_1">1</a></sup> acting jointly, shall establish an oral history project—
 
 (A) to survey, during the initial phase of the project, collections of audio and video recordings of the reminiscences of participants in the Civil Rights movement that are housed in archives, libraries, museums, and other educational institutions, as well as ongoing documentary work, in order to augment and complement these endeavors and avoid duplication of effort;
 
@@ -42,7 +42,7 @@ As soon as practicable after May 12, 2009, the Librarian and the Secretary shall
 
 #### (e) Definition ####
 
-In this subchapter, the term “Civil Rights movement” means the movement to secure racial equality in the United States for African Americans that, focusing on the period 1954 through 1968, challenged the practice of racial segregation in the Nation and achieved equal rights legislation for all American citizens.
+In this subchapter, the term "Civil Rights movement" means the movement to secure racial equality in the United States for African Americans that, focusing on the period 1954 through 1968, challenged the practice of racial segregation in the Nation and achieved equal rights legislation for all American citizens.
 
 (Pub. L. 111–19, §3, May 12, 2009, 123 Stat. 1613.)
 

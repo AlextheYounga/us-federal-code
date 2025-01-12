@@ -54,9 +54,9 @@ On or before January 31 of each calendar year, each public utility shall publish
 
 (3) For purposes of this subsection—
 
-(A) The term “public utility” includes any company which is a part of a holding company system which includes a registered holding company, unless no company in such system is an electric utility.
+(A) The term "public utility" includes any company which is a part of a holding company system which includes a registered holding company, unless no company in such system is an electric utility.
 
-(B) The terms “holding company”, “registered holding company”, and “holding company system” have the same meaning as when used in the Public Utility Holding Company Act of 1935.<sup><a href="#825d_1_target" name="825d_1">1</a></sup>
+(B) The terms "holding company", "registered holding company", and "holding company system" have the same meaning as when used in the Public Utility Holding Company Act of 1935.<sup><a href="#825d_1_target" name="825d_1">1</a></sup>
 
 (June 10, 1920, ch. 285, pt. III, §305, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 856; amended Pub. L. 95–617, title II, §211(a), Nov. 9, 1978, 92 Stat. 3147; Pub. L. 106–102, title VII, §737, Nov. 12, 1999, 113 Stat. 1479.)
 
@@ -66,12 +66,12 @@ The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(3)(B)
 
 #### Amendments ####
 
-**1999**—Subsec. (b). Pub. L. 106–102 inserted subsec. heading, designated existing provisions as par. (1), inserted heading, and substituted “After 6” for “After six”, and added par. (2).
+**1999**—Subsec. (b). Pub. L. 106–102 inserted subsec. heading, designated existing provisions as par. (1), inserted heading, and substituted "After 6" for "After six", and added par. (2).
 
 **1978**—Subsec. (c). Pub. L. 95–617 added subsec. (c).
 
 #### Effective Date of 1978 Amendment ####
 
-Pub. L. 95–617, title II, §211(b), Nov. 9, 1978, 92 Stat. 3147, provided that: “No person shall be required to file a statement under section 305(c)(1) of the Federal Power Act [subsec. (c)(1) of this section] before April 30 of the second calendar year which begins after the date of the enactment of this Act [Nov. 9, 1978] and no public utility shall be required to publish a list under section 305(c)(2) of such Act [subsec. (c)(2) of this section] before January 31 of such second calendar year.”
+Pub. L. 95–617, title II, §211(b), Nov. 9, 1978, 92 Stat. 3147, provided that: "No person shall be required to file a statement under section 305(c)(1) of the Federal Power Act [subsec. (c)(1) of this section] before April 30 of the second calendar year which begins after the date of the enactment of this Act [Nov. 9, 1978] and no public utility shall be required to publish a list under section 305(c)(2) of such Act [subsec. (c)(2) of this section] before January 31 of such second calendar year."
 
 [<sup>1</sup> See References in Text note below.](#825d_1)

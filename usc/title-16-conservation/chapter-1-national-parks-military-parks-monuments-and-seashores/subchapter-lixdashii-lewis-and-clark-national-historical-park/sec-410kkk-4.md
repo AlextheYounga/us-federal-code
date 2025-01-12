@@ -20,4 +20,4 @@ Nothing in this subchapter shall be construed to modify any authority of Federal
 
 #### References in Text ####
 
-This subchapter, referred to in subsecs. (a) and (c), was in the original “this title”, meaning title I of Pub. L. 108–387, Oct. 30, 2004, 118 Stat. 2234, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 410kkk of this title and Tables.
+This subchapter, referred to in subsecs. (a) and (c), was in the original "this title", meaning title I of Pub. L. 108–387, Oct. 30, 2004, 118 Stat. 2234, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 410kkk of this title and Tables.

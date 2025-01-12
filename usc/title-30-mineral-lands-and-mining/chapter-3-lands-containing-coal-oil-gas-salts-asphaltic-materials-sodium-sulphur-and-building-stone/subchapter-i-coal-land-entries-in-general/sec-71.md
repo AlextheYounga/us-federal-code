@@ -10,7 +10,7 @@ R.S. §2347 derived from act Mar. 3, 1873, ch. 279, §1, 17 Stat. 607.
 
 #### Amendments ####
 
-**1925**—Act Mar. 3, 1925, affected words which now read “upon payment to the register of not less than.” Such words originally read “upon payment to the receiver of not less than.” Such act consolidated the offices of receiver and register.
+**1925**—Act Mar. 3, 1925, affected words which now read "upon payment to the register of not less than." Such words originally read "upon payment to the receiver of not less than." Such act consolidated the offices of receiver and register.
 
 #### Transfer of Functions ####
 
@@ -22,4 +22,4 @@ See also note set out under section 1 of this title.
 
 Commenting on this section and sections 72 to 76 of this title the Department of the Interior says:
 
-“While there may be some Indian lands still subject to coal entry by virtue of the provisions of law opening such lands to entry, the coal land laws generally were superseded by the leasing Act of Feb. 25, 1920, 41 Stat. 437 [section 181 et seq. of this title], and it is at least questionable whether the coal land laws should be carried into the Code.”
+"While there may be some Indian lands still subject to coal entry by virtue of the provisions of law opening such lands to entry, the coal land laws generally were superseded by the leasing Act of Feb. 25, 1920, 41 Stat. 437 [section 181 et seq. of this title], and it is at least questionable whether the coal land laws should be carried into the Code."

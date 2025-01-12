@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-The Secretary shall establish an advisory council to be known as the “Great Sand Dunes National Park Advisory Council”.
+The Secretary shall establish an advisory council to be known as the "Great Sand Dunes National Park Advisory Council".
 
 #### (b) Duties ####
 

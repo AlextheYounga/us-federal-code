@@ -6,4 +6,4 @@ A prior subchapter XXV (§300aaa et seq.), comprised of title XXVII of the Publi
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–204, title VI, §604(a)(1), Sept. 26, 1996, 110 Stat. 2938, substituted “REQUIREMENTS RELATING TO HEALTH INSURANCE COVERAGE” for “ASSURING PORTABILITY, AVAILABILITY, AND RENEWABILITY OF HEALTH INSURANCE COVERAGE” as subchapter heading.
+**1996**—Pub. L. 104–204, title VI, §604(a)(1), Sept. 26, 1996, 110 Stat. 2938, substituted "REQUIREMENTS RELATING TO HEALTH INSURANCE COVERAGE" for "ASSURING PORTABILITY, AVAILABILITY, AND RENEWABILITY OF HEALTH INSURANCE COVERAGE" as subchapter heading.

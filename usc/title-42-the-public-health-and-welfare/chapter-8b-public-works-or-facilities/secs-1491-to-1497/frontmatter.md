@@ -14,6 +14,6 @@ Section 1494, acts Aug. 11, 1955, ch. 783, title II, §204, 69 Stat. 644; May 25
 
 Section 1495, act Aug. 11, 1955, ch. 783, title II, §205, 69 Stat. 644, prohibited making of loans under section 459 of former Title 40, Public Buildings, Property, and Works, after Aug. 11, 1955, except pursuant to an application for such loan filed prior to such date.
 
-Section 1496, act Aug. 11, 1955, ch. 783, title II, §206, as added Aug. 7, 1956, ch. 1029, title VI, §603, 70 Stat. 1114; amended Dec. 24, 1969, Pub. L. 91–152, title IV, §403(b), 83 Stat. 395, defined “States” for purposes of this chapter.
+Section 1496, act Aug. 11, 1955, ch. 783, title II, §206, as added Aug. 7, 1956, ch. 1029, title VI, §603, 70 Stat. 1114; amended Dec. 24, 1969, Pub. L. 91–152, title IV, §403(b), 83 Stat. 395, defined "States" for purposes of this chapter.
 
 Section 1497, act Aug. 11, 1955, ch. 783, title II, §207, as added June 30, 1961, Pub. L. 87–70, title V, §501(i), 75 Stat. 175; amended Oct. 15, 1962, Pub. L. 87–808, §3, 76 Stat. 920; May 25, 1967, Pub. L. 90–19, §12(b), 81 Stat. 23, related to technical advisory services in budgeting, financing, planning, and construction of community facilities, and appropriations.

@@ -10,11 +10,11 @@ In this section:
 
 #### (1) Management plan ####
 
-The term “management plan” means the management plan for the National Conservation Area developed by the Secretary under subsection (d)(1).
+The term "management plan" means the management plan for the National Conservation Area developed by the Secretary under subsection (d)(1).
 
 #### (2) National Conservation Area ####
 
-The term “National Conservation Area” means the Beaver Dam Wash National Conservation Area that—
+The term "National Conservation Area" means the Beaver Dam Wash National Conservation Area that—
 
 (A) consists of approximately 68,083 acres of public land in the County, as generally depicted on the Beaver Dam Wash National Conservation Area Map; and
 
@@ -70,7 +70,7 @@ Except in cases in which motorized vehicles are needed for administrative purpos
 
 #### (B) Additional requirement relating to certain areas located in the National Conservation Area ####
 
-In addition to the requirement described in subparagraph (A), with respect to the areas designated on the Beaver Dam Wash National Conservation Area Map as “Designated Road Areas”, motorized vehicles shall be permitted only on the roads identified on such map.
+In addition to the requirement described in subparagraph (A), with respect to the areas designated on the Beaver Dam Wash National Conservation Area Map as "Designated Road Areas", motorized vehicles shall be permitted only on the roads identified on such map.
 
 #### (4) Grazing ####
 

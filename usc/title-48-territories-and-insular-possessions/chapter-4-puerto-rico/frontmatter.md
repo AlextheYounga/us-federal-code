@@ -58,7 +58,7 @@ Sec.
 
 746. Public lands and buildings; reservations; rights prior to July 1, 1902.
 
-747. Public property transferred; “control” defined.
+747. Public property transferred; "control" defined.
 
 748. Conveyance by President to people of lands, buildings, etc.
 

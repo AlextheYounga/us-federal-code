@@ -74,7 +74,7 @@ Sec.
 
 37. Nodaway River, Missouri.
 
-38. Oklawaha River, Florida; Kyle and Young Canal and “Morrison Landing extension” substituted.
+38. Oklawaha River, Florida; Kyle and Young Canal and "Morrison Landing extension" substituted.
 
 39. Ollala Slough, Oregon.
 

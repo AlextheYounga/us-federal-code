@@ -8,7 +8,7 @@ The Director shall maintain a library of scientific and other works and periodic
 
 Based on Title 35, U.S.C., 1946 ed., §10 (R.S. 486).
 
-Some change in language has been made. “Purchased” is changed to “maintained” to include the existing library and keeping it up by additions. The phrase “and other” is added to include legal works. The last phrase of the corresponding section of the existing statute is omitted as unnecessary.
+Some change in language has been made. "Purchased" is changed to "maintained" to include the existing library and keeping it up by additions. The phrase "and other" is added to include legal works. The last phrase of the corresponding section of the existing statute is omitted as unnecessary.
 
 #### Prior Provisions ####
 
@@ -18,11 +18,11 @@ A prior section 7, acts July 19, 1952, ch. 950, 66 Stat. 793; Pub. L. 85–933, 
 
 **2002**—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) [title IV, §4732(a)(10)(A)]. See 1999 Amendment note below.
 
-**1999**—Pub. L. 106–113, §1000(a)(9) [title IV, §4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+**1999**—Pub. L. 106–113, §1000(a)(9) [title IV, §4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted "Director" for "Commissioner".
 
 Pub. L. 106–113, §1000(a)(9) [title IV, §4717(1)], renumbered section 8 of this title as this section.
 
-**1975**—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+**1975**—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
 #### Effective Date of 1999 Amendment ####
 

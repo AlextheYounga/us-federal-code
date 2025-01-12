@@ -16,4 +16,4 @@ The Federal Food, Drug, and Cosmetic Act, referred to in text, is act June 25, 1
 
 #### Change of Name ####
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in par. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in par. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.

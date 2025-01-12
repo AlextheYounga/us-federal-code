@@ -14,4 +14,4 @@ R.S. §31 constitutes first sentence; R.S. §32 constitutes second sentence; and
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–186 struck out third sentence which read as follows: “In case of vacancies in the offices of both the Clerk and the Sergeant at Arms, or of the absence or inability of both to act, the duties of the Clerk relative to the preparation of the roll of the House of Representatives or the organization of the House shall be performed by the Doorkeeper of the next preceding House of Representatives.” See Codification note above.
+**1996**—Pub. L. 104–186 struck out third sentence which read as follows: "In case of vacancies in the offices of both the Clerk and the Sergeant at Arms, or of the absence or inability of both to act, the duties of the Clerk relative to the preparation of the roll of the House of Representatives or the organization of the House shall be performed by the Doorkeeper of the next preceding House of Representatives." See Codification note above.

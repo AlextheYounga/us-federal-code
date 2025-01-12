@@ -28,7 +28,7 @@ Section 2766, Pub. L. 89–10, title I, §1108, formerly §1106, as added Pub. L
 
 Section 2767, Pub. L. 89–10, title I, §1109, formerly §1107, as added Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 176; renumbered §1109, Pub. L. 101–600, §3(e)(1), Nov. 16, 1990, 104 Stat. 3045, related to evaluation of programs.
 
-Section 2767a, Pub. L. 89–10, title I, §1110, as added Pub. L. 101–600, §3(h), Nov. 16, 1990, 104 Stat. 3046, related to definition of “secondary school completion rate”.
+Section 2767a, Pub. L. 89–10, title I, §1110, as added Pub. L. 101–600, §3(h), Nov. 16, 1990, 104 Stat. 3046, related to definition of "secondary school completion rate".
 
 Section 2768, Pub. L. 89–10, title I, §1111, formerly §1108, as added Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 176; renumbered §1111, Pub. L. 101–600, §3(e)(1), Nov. 16, 1990, 104 Stat. 3045, authorized appropriations.
 

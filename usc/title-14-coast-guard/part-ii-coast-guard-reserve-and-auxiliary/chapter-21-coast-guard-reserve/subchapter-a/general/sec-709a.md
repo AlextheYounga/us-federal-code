@@ -48,6 +48,6 @@
 
 (3) A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of a written agreement entered into under subsection (b) does not discharge the individual signing the agreement from a debt arising under such agreement or under paragraph (1).
 
-(h) As used in this section, the term “institution of higher education” has the meaning given that term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+(h) As used in this section, the term "institution of higher education" has the meaning given that term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
 
 (Added Pub. L. 107–295, title IV, §413(a), Nov. 25, 2002, 116 Stat. 2119.)

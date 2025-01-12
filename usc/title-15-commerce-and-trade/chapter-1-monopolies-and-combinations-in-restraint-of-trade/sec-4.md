@@ -6,8 +6,8 @@ The several district courts of the United States are invested with jurisdiction 
 
 #### Codification ####
 
-Act Mar. 3, 1911, vested jurisdiction in “district” courts, instead of “circuit” courts.
+Act Mar. 3, 1911, vested jurisdiction in "district" courts, instead of "circuit" courts.
 
 #### Change of Name ####
 
-Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys” for “district attorneys of the United States”. See section 541 et seq. of Title 28, Judiciary and Judicial Procedure.
+Act June 25, 1948, eff. Sept. 1, 1948, substituted "United States attorneys" for "district attorneys of the United States". See section 541 et seq. of Title 28, Judiciary and Judicial Procedure.

@@ -18,7 +18,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments ####
 
-**2008**—Pub. L. 110–246, §2802(a)(1), inserted section catchline and substituted “to preserve soil, water, and related resources, promote soil and water quality,” for “and thereby to preserve natural resources,” in introductory provisions.
+**2008**—Pub. L. 110–246, §2802(a)(1), inserted section catchline and substituted "to preserve soil, water, and related resources, promote soil and water quality," for "and thereby to preserve natural resources," in introductory provisions.
 
 #### Effective Date of 2008 Amendment ####
 

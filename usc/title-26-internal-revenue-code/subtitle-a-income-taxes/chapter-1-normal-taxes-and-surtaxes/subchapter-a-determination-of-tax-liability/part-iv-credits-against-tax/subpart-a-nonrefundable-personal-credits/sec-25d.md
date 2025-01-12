@@ -34,29 +34,29 @@ For purposes of this section—
 
 #### (1) Qualified solar water heating property expenditure ####
 
-The term “qualified solar water heating property expenditure” means an expenditure for property to heat water for use in a dwelling unit located in the United States and used as a residence by the taxpayer if at least half of the energy used by such property for such purpose is derived from the sun.
+The term "qualified solar water heating property expenditure" means an expenditure for property to heat water for use in a dwelling unit located in the United States and used as a residence by the taxpayer if at least half of the energy used by such property for such purpose is derived from the sun.
 
 #### (2) Qualified solar electric property expenditure ####
 
-The term “qualified solar electric property expenditure” means an expenditure for property which uses solar energy to generate electricity for use in a dwelling unit located in the United States and used as a residence by the taxpayer.
+The term "qualified solar electric property expenditure" means an expenditure for property which uses solar energy to generate electricity for use in a dwelling unit located in the United States and used as a residence by the taxpayer.
 
 #### (3) Qualified fuel cell property expenditure ####
 
-The term “qualified fuel cell property expenditure” means an expenditure for qualified fuel cell property (as defined in section 48(c)(1)) installed on or in connection with a dwelling unit located in the United States and used as a principal residence (within the meaning of section 121) by the taxpayer.
+The term "qualified fuel cell property expenditure" means an expenditure for qualified fuel cell property (as defined in section 48(c)(1)) installed on or in connection with a dwelling unit located in the United States and used as a principal residence (within the meaning of section 121) by the taxpayer.
 
 #### (4) Qualified small wind energy property expenditure ####
 
-The term “qualified small wind energy property expenditure” means an expenditure for property which uses a wind turbine to generate electricity for use in connection with a dwelling unit located in the United States and used as a residence by the taxpayer.
+The term "qualified small wind energy property expenditure" means an expenditure for property which uses a wind turbine to generate electricity for use in connection with a dwelling unit located in the United States and used as a residence by the taxpayer.
 
 #### (5) Qualified geothermal heat pump property expenditure ####
 
 #### (A) In general ####
 
-The term “qualified geothermal heat pump property expenditure” means an expenditure for qualified geothermal heat pump property installed on or in connection with a dwelling unit located in the United States and used as a residence by the taxpayer.
+The term "qualified geothermal heat pump property expenditure" means an expenditure for qualified geothermal heat pump property installed on or in connection with a dwelling unit located in the United States and used as a residence by the taxpayer.
 
 #### (B) Qualified geothermal heat pump property ####
 
-The term “qualified geothermal heat pump property” means any equipment which—
+The term "qualified geothermal heat pump property" means any equipment which—
 
 (i) uses the ground or ground water as a thermal energy source to heat the dwelling unit referred to in subparagraph (A) or as a thermal energy sink to cool such dwelling unit, and
 
@@ -110,7 +110,7 @@ In the case of an individual who is a member of a condominium management associa
 
 #### (B) Condominium management association ####
 
-For purposes of this paragraph, the term “condominium management association” means an organization which meets the requirements of paragraph (1) of section 528(c) (other than subparagraph (E) thereof) with respect to a condominium project substantially all of the units of which are used as residences.
+For purposes of this paragraph, the term "condominium management association" means an organization which meets the requirements of paragraph (1) of section 528(c) (other than subparagraph (E) thereof) with respect to a condominium project substantially all of the units of which are used as residences.
 
 #### (7) Allocation in certain cases ####
 
@@ -142,19 +142,19 @@ The credit allowed under this section shall not apply to property placed in serv
 
 **2009**—Subsec. (b)(1). Pub. L. 111–5, §1122(a)(1), amended par. (1) generally. Prior to amendment, par. (1) related to maximum credit with respect to qualified solar water heating property expenditures, qualified fuel cell property, qualified small wind energy property expenditures, and qualified geothermal heat pump property expenditures.
 
-Subsec. (e)(4). Pub. L. 111–5, §1122(a)(2)(A), added par. heading and introductory provisions and struck out former heading and introductory provisions. Former introductory provisions read as follows: “In the case of any dwelling unit which is jointly occupied and used during any calendar year as a residence by two or more individuals the following rules shall apply:”.
+Subsec. (e)(4). Pub. L. 111–5, §1122(a)(2)(A), added par. heading and introductory provisions and struck out former heading and introductory provisions. Former introductory provisions read as follows: "In the case of any dwelling unit which is jointly occupied and used during any calendar year as a residence by two or more individuals the following rules shall apply:".
 
 Subsec. (e)(4)(A). Pub. L. 111–5, §1122(a)(2)(A), added subpar. (A) and struck out former subpar. (A) which related to maximum amount of expenditures allowed for credit in jointly occupied dwelling units with respect to qualified solar water heating property expenditures, qualified fuel cell property, qualified small wind energy property expenditures, and qualified geothermal heat pump property expenditures.
 
-Subsec. (e)(4)(C). Pub. L. 111–5, §1122(a)(2)(B), struck out subpar. (C) which read as follows: “Subparagraphs (A) and (B) shall be applied separately with respect to expenditures described in paragraphs (1), (2), and (3) of subsection (d).”
+Subsec. (e)(4)(C). Pub. L. 111–5, §1122(a)(2)(B), struck out subpar. (C) which read as follows: "Subparagraphs (A) and (B) shall be applied separately with respect to expenditures described in paragraphs (1), (2), and (3) of subsection (d)."
 
-Subsec. (e)(9). Pub. L. 111–5, §1103(b)(2)(B), struck out par. (9). Text read as follows: “For purposes of determining the amount of expenditures made by any individual with respect to any dwelling unit, there shall not be taken into account expenditures which are made from subsidized energy financing (as defined in section 48(a)(4)(C)).”
+Subsec. (e)(9). Pub. L. 111–5, §1103(b)(2)(B), struck out par. (9). Text read as follows: "For purposes of determining the amount of expenditures made by any individual with respect to any dwelling unit, there shall not be taken into account expenditures which are made from subsidized energy financing (as defined in section 48(a)(4)(C))."
 
 **2008**—Subsec. (a)(4). Pub. L. 110–343, §106(c)(1), added par. (4).
 
 Subsec. (a)(5). Pub. L. 110–343, §106(d)(1), added par. (5).
 
-Subsec. (b)(1). Pub. L. 110–343, §106(b)(1), amended par. (1) as amended by Pub. L. 110–343, §106(c)(2) and (d)(2), by redesignating subpars. (B) to (E) as (A) to (D), respectively, and striking out former subpar. (A) which read as follows: “$2,000 with respect to any qualified solar electric property expenditures,”.
+Subsec. (b)(1). Pub. L. 110–343, §106(b)(1), amended par. (1) as amended by Pub. L. 110–343, §106(c)(2) and (d)(2), by redesignating subpars. (B) to (E) as (A) to (D), respectively, and striking out former subpar. (A) which read as follows: "$2,000 with respect to any qualified solar electric property expenditures,".
 
 Subsec. (b)(1)(D). Pub. L. 110–343, §106(c)(2), added subpar. (D).
 
@@ -166,31 +166,31 @@ Subsec. (d)(4). Pub. L. 110–343, §106(c)(3)(A), added par. (4).
 
 Subsec. (d)(5). Pub. L. 110–343, §106(d)(3), added par. (5).
 
-Subsec. (e)(4)(A). Pub. L. 110–343, §106(b)(2), amended subpar. (A) as amended by Pub. L. 110–343, §106(c)(4) and (d)(4), by redesignating cls. (ii) to (v) as (i) to (iv), respectively, and striking out former cl. (i) which read as follows: “$6,667 in the case of any qualified solar electric property expenditures,”.
+Subsec. (e)(4)(A). Pub. L. 110–343, §106(b)(2), amended subpar. (A) as amended by Pub. L. 110–343, §106(c)(4) and (d)(4), by redesignating cls. (ii) to (v) as (i) to (iv), respectively, and striking out former cl. (i) which read as follows: "$6,667 in the case of any qualified solar electric property expenditures,".
 
 Subsec. (e)(4)(A)(iv). Pub. L. 110–343, §106(c)(4), added cl. (iv).
 
 Subsec. (e)(4)(A)(v). Pub. L. 110–343, §106(d)(4), added cl. (v).
 
-Subsec. (g). Pub. L. 110–343, §106(a), substituted “December 31, 2016” for “December 31, 2008”.
+Subsec. (g). Pub. L. 110–343, §106(a), substituted "December 31, 2016" for "December 31, 2008".
 
-**2006**—Subsecs. (a)(1), (b)(1)(A). Pub. L. 109–432, §206(b)(1), substituted “solar electric property expenditures” for “photovoltaic property expenditures”.
+**2006**—Subsecs. (a)(1), (b)(1)(A). Pub. L. 109–432, §206(b)(1), substituted "solar electric property expenditures" for "photovoltaic property expenditures".
 
-Subsec. (d)(2). Pub. L. 109–432, §206(b)(2), substituted “solar electric property expenditure” for “photovoltaic property expenditure” in heading and text.
+Subsec. (d)(2). Pub. L. 109–432, §206(b)(2), substituted "solar electric property expenditure" for "photovoltaic property expenditure" in heading and text.
 
-Subsec. (e)(4)(A)(i). Pub. L. 109–432, §206(b)(1), substituted “solar electric property expenditures” for “photovoltaic property expenditures”.
+Subsec. (e)(4)(A)(i). Pub. L. 109–432, §206(b)(1), substituted "solar electric property expenditures" for "photovoltaic property expenditures".
 
-Subsec. (g). Pub. L. 109–432, §206(a), substituted “2008” for “2007”.
+Subsec. (g). Pub. L. 109–432, §206(a), substituted "2008" for "2007".
 
-**2005**—Subsec. (b)(1). Pub. L. 109–135, §402(i)(1), inserted “(determined without regard to subsection (c))” after “subsection (a)” in introductory provisions.
+**2005**—Subsec. (b)(1). Pub. L. 109–135, §402(i)(1), inserted "(determined without regard to subsection (c))" after "subsection (a)" in introductory provisions.
 
-Subsec. (c). Pub. L. 109–135, §402(i)(3)(E), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year.”
+Subsec. (c). Pub. L. 109–135, §402(i)(3)(E), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "If the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such succeeding taxable year."
 
 Subsec. (e)(4)(A), (B). Pub. L. 109–135, §402(i)(2), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 
-“(A) The amount of the credit allowable, under subsection (a) by reason of expenditures (as the case may be) made during such calendar year by any of such individuals with respect to such dwelling unit shall be determined by treating all of such individuals as 1 taxpayer whose taxable year is such calendar year.
+"(A) The amount of the credit allowable, under subsection (a) by reason of expenditures (as the case may be) made during such calendar year by any of such individuals with respect to such dwelling unit shall be determined by treating all of such individuals as 1 taxpayer whose taxable year is such calendar year.
 
-“(B) There shall be allowable, with respect to such expenditures to each of such individuals, a credit under subsection (a) for the taxable year in which such calendar year ends in an amount which bears the same ratio to the amount determined under subparagraph (A) as the amount of such expenditures made by such individual during such calendar year bears to the aggregate of such expenditures made by all of such individuals during such calendar year.”
+"(B) There shall be allowable, with respect to such expenditures to each of such individuals, a credit under subsection (a) for the taxable year in which such calendar year ends in an amount which bears the same ratio to the amount determined under subparagraph (A) as the amount of such expenditures made by such individual during such calendar year bears to the aggregate of such expenditures made by all of such individuals during such calendar year."
 
 #### Effective Date of 2013 Amendment ####
 
@@ -200,7 +200,7 @@ Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 
 
 Amendment by section 1103(b)(2)(B) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1103(c)(2) of Pub. L. 111–5, set out as a note under section 25C of this title.
 
-Pub. L. 111–5, div. B, title I, §1122(b), Feb. 17, 2009, 123 Stat. 324, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2008.”
+Pub. L. 111–5, div. B, title I, §1122(b), Feb. 17, 2009, 123 Stat. 324, provided that: "The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2008."
 
 #### Effective Date of 2008 Amendment ####
 

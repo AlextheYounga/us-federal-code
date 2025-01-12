@@ -2,11 +2,11 @@
 
 #### (a) Statement of purposes ####
 
-In order to commemorate the bravery and sacrifice of those participating in the campaigns of the Pacific theater of World War II and to conserve and interpret outstanding natural, scenic, and historic values and objects on the island of Guam for the benefit and enjoyment of present and future generations, the War in the Pacific National Historical Park (hereinafter in this section referred to as the “park”) is hereby established.
+In order to commemorate the bravery and sacrifice of those participating in the campaigns of the Pacific theater of World War II and to conserve and interpret outstanding natural, scenic, and historic values and objects on the island of Guam for the benefit and enjoyment of present and future generations, the War in the Pacific National Historical Park (hereinafter in this section referred to as the "park") is hereby established.
 
 #### (b) Boundaries; revisions of boundary; publication in Federal Register ####
 
-The boundaries of the park shall be as generally depicted on the drawing entitled “Boundary Map, War in the Pacific National Historical Park, Guam” numbered P–24–80,000–B and dated March 1978, which shall be on file and available for inspection in the offices of the National Park Service, Department of the Interior. Following ninety days notice to the Committee on Natural Resources of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate, the Secretary may make minor revisions of the boundary of the park by publication of a revised map in the Federal Register.
+The boundaries of the park shall be as generally depicted on the drawing entitled "Boundary Map, War in the Pacific National Historical Park, Guam" numbered P–24–80,000–B and dated March 1978, which shall be on file and available for inspection in the offices of the National Park Service, Department of the Interior. Following ninety days notice to the Committee on Natural Resources of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate, the Secretary may make minor revisions of the boundary of the park by publication of a revised map in the Federal Register.
 
 #### (c) Acquisition of lands and interests therein; manner of acquisition ####
 
@@ -62,48 +62,48 @@ The Secretary may take such steps as may be necessary to preserve and protect va
 
 #### Amendments ####
 
-**1994**—Subsec. (b). Pub. L. 103–437, §6(i)(1), substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+**1994**—Subsec. (b). Pub. L. 103–437, §6(i)(1), substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
 
 Subsec. (h). Pub. L. 103–437, §6(i)(2), struck out subsec. (h) which directed Secretary, within two years from Aug. 18, 1978, to develop and transmit to Congressional committees, a general management plan for War in the Pacific National Historic Park, and to transmit within 5 years of Aug. 18, 1978, a study of additional sites associated with Pacific Campaign of World War II.
 
-**1993**—Subsec. (k). Pub. L. 103–197, §3(a), substituted “$8,000,000” for “$500,000”.
+**1993**—Subsec. (k). Pub. L. 103–197, §3(a), substituted "$8,000,000" for "$500,000".
 
 Subsecs. (l) to (o). Pub. L. 103–197, §3(b), added subsecs. (l) to (o).
 
 #### Congressional Findings ####
 
-Pub. L. 103–197, §1, Dec. 17, 1993, 107 Stat. 2301, provided that: “Congress finds that—
+Pub. L. 103–197, §1, Dec. 17, 1993, 107 Stat. 2301, provided that: "Congress finds that—
 
-“(1) June 15 through August 10, 1994, marks the 50th anniversary of the Mariana campaign of World War II in which American forces captured the islands of Saipan and Tinian in the Northern Marianas and liberated the United States Territory of Guam from Japanese occupation;
+"(1) June 15 through August 10, 1994, marks the 50th anniversary of the Mariana campaign of World War II in which American forces captured the islands of Saipan and Tinian in the Northern Marianas and liberated the United States Territory of Guam from Japanese occupation;
 
-“(2) an attack during this campaign by the Japanese Imperial fleet, aimed at countering the American forces that had landed on Saipan, led to the battle of the Philippine Sea, which resulted in a crushing defeat for the Japanese by United States naval forces and the destruction of the effectiveness of the Japanese carrier-based airpower;
+"(2) an attack during this campaign by the Japanese Imperial fleet, aimed at countering the American forces that had landed on Saipan, led to the battle of the Philippine Sea, which resulted in a crushing defeat for the Japanese by United States naval forces and the destruction of the effectiveness of the Japanese carrier-based airpower;
 
-“(3) the recapture of Guam liberated one of the few pieces of United States territory that was occupied for two and one-half years by the enemy during World War II and restored freedom to the indigenous Chamorros on Guam who suffered as a result of the Japanese occupation;
+"(3) the recapture of Guam liberated one of the few pieces of United States territory that was occupied for two and one-half years by the enemy during World War II and restored freedom to the indigenous Chamorros on Guam who suffered as a result of the Japanese occupation;
 
-“(4) Army, Navy, Marine Corps, and Coast Guard units distinguished themselves with their heroic bravery and sacrifice;
+"(4) Army, Navy, Marine Corps, and Coast Guard units distinguished themselves with their heroic bravery and sacrifice;
 
-“(5) the Guam Insular Force Guard, the Guam militia, and the people of Guam earned the highest respect for their defense of the island during the Japanese invasion and their resistance during the occupation; their assistance to the American forces as scouts for the American invasion was invaluable; and their role, as members of the Guam Combat Patrol, was instrumental in seeking out the remaining Japanese forces and restoring peace to the island;
+"(5) the Guam Insular Force Guard, the Guam militia, and the people of Guam earned the highest respect for their defense of the island during the Japanese invasion and their resistance during the occupation; their assistance to the American forces as scouts for the American invasion was invaluable; and their role, as members of the Guam Combat Patrol, was instrumental in seeking out the remaining Japanese forces and restoring peace to the island;
 
-“(6) during the occupation, the people of Guam—
+"(6) during the occupation, the people of Guam—
 
-“(A) were forcibly removed from their homes;
+"(A) were forcibly removed from their homes;
 
-“(B) were relocated to remote sections of the island;
+"(B) were relocated to remote sections of the island;
 
-“(C) were required to perform forced labor and faced other harsh treatment, injustices, and death; and
+"(C) were required to perform forced labor and faced other harsh treatment, injustices, and death; and
 
-“(D) were placed in concentration camps when the American invasion became imminent and were brutalized by their occupiers when the liberation of Guam became apparent to the Japanese;
+"(D) were placed in concentration camps when the American invasion became imminent and were brutalized by their occupiers when the liberation of Guam became apparent to the Japanese;
 
-“(7) the liberation of the Mariana Islands marked a pivotal point in the Pacific war and led to the American victories at Iwo Jima, Okinawa, the Philippines, Taiwan, and the south China coast, and ultimately against the Japanese home islands;
+"(7) the liberation of the Mariana Islands marked a pivotal point in the Pacific war and led to the American victories at Iwo Jima, Okinawa, the Philippines, Taiwan, and the south China coast, and ultimately against the Japanese home islands;
 
-“(8) the Mariana Islands of Guam, Saipan, and Tinian provided, for the first time during the war, air bases which allowed land-based American bombers to reach strategic targets in Japan; and
+"(8) the Mariana Islands of Guam, Saipan, and Tinian provided, for the first time during the war, air bases which allowed land-based American bombers to reach strategic targets in Japan; and
 
-“(9) the air offensive conducted from the Marianas against the Japanese war-making capability helped shorten the war and ultimately reduced the toll of lives to secure peace in the Pacific.”
+"(9) the air offensive conducted from the Marianas against the Japanese war-making capability helped shorten the war and ultimately reduced the toll of lives to secure peace in the Pacific."
 
 #### Transfer of Excess Land to National Park Service ####
 
-Pub. L. 100–202, §101(g) [title I], Dec. 22, 1987, 101 Stat. 1329–213, 1329–222, provided in part: “That any Federally-owned land in War in the Pacific National Historical Park that hereafter becomes excess to the needs of the administering agency shall be transferred to the jurisdiction of the National Park Service, without reimbursement, for purposes of the park.”
+Pub. L. 100–202, §101(g) [title I], Dec. 22, 1987, 101 Stat. 1329–213, 1329–222, provided in part: "That any Federally-owned land in War in the Pacific National Historical Park that hereafter becomes excess to the needs of the administering agency shall be transferred to the jurisdiction of the National Park Service, without reimbursement, for purposes of the park."
 
-[<sup>1</sup> So in original. Probably should be “heroism”.](#410dd_1)
+[<sup>1</sup> So in original. Probably should be "heroism".](#410dd_1)
 
-[<sup>2</sup> So in original. Probably should be “subsection”.](#410dd_2)
+[<sup>2</sup> So in original. Probably should be "subsection".](#410dd_2)

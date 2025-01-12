@@ -42,13 +42,13 @@ The effective date of this subsection, referred to in subsec. (e), is Oct. 1, 20
 
 #### Amendments ####
 
-**2012**—Subsec. (e). Pub. L. 112–144 substituted “section 356(c)(2)(A) of this title” for “section 356(b)(2)(A) of this title” in two places.
+**2012**—Subsec. (e). Pub. L. 112–144 substituted "section 356(c)(2)(A) of this title" for "section 356(b)(2)(A) of this title" in two places.
 
 **2002**—Subsecs. (d), (e). Pub. L. 107–188 added subsecs. (d) and (e).
 
 #### Effective Date of 2002 Amendment ####
 
-Pub. L. 107–188, title V, §508, June 12, 2002, 116 Stat. 694, provided that: “The amendments made by this subtitle [subtitle A (§§501–509) of title V of Pub. L. 107–188, amending this section and sections 379g and 379h of this title] shall take effect October 1, 2002.”
+Pub. L. 107–188, title V, §508, June 12, 2002, 116 Stat. 694, provided that: "The amendments made by this subtitle [subtitle A (§§501–509) of title V of Pub. L. 107–188, amending this section and sections 379g and 379h of this title] shall take effect October 1, 2002."
 
 #### Effective Date ####
 

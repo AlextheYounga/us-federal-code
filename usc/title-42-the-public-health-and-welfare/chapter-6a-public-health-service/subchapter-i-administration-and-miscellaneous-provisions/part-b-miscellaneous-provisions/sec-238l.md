@@ -48,27 +48,27 @@ Section was classified to section 300aaa–12 of this title prior to renumbering
 
 #### Amendments ####
 
-**1991**—Subsec. (d). Pub. L. 102–229 and Pub. L. 102–239 amended subsec. (d) identically, substituting “subsection (a)” for “subsection (a)(2)”.
+**1991**—Subsec. (d). Pub. L. 102–229 and Pub. L. 102–239 amended subsec. (d) identically, substituting "subsection (a)" for "subsection (a)(2)".
 
-**1985**—Pub. L. 99–129 amended section generally. Prior to amendment, section read as follows: “If any facility of a community mental health center acquired, remodeled, constructed, or expanded with funds provided under the Community Mental Health Centers Act is, at any time within twenty years after the completion of such remodeling, construction, or expansion or after the date of its acquisition with such funds—
+**1985**—Pub. L. 99–129 amended section generally. Prior to amendment, section read as follows: "If any facility of a community mental health center acquired, remodeled, constructed, or expanded with funds provided under the Community Mental Health Centers Act is, at any time within twenty years after the completion of such remodeling, construction, or expansion or after the date of its acquisition with such funds—
 
-“(1) sold or transferred to any person or entity (A) which is not qualified to file an application under section 222 of the Community Mental Health Centers Act, or (B) which is not approved as a transferee by the State agency of the State in which such facility is located, or its successor; or
+"(1) sold or transferred to any person or entity (A) which is not qualified to file an application under section 222 of the Community Mental Health Centers Act, or (B) which is not approved as a transferee by the State agency of the State in which such facility is located, or its successor; or
 
-“(2) not used by a community mental health center in the provision of comprehensive mental health services, and the Secretary has not determined that there is good cause for termination of such use,
+"(2) not used by a community mental health center in the provision of comprehensive mental health services, and the Secretary has not determined that there is good cause for termination of such use,
 
-the United States shall be entitled to recover from either the transferor or the transferee in the case of a sale or transfer or from the owner in the case of termination of use an amount bearing the same ratio to the then value (as determined by the agreement of the parties or by action brought in the United States district court for the district in which the center is situated) of so much of such facility or center as constituted an approved project or projects, as the amount of the Federal participation bore to the acquisition, remodeling, construction, or expansion cost of such project or projects. Such right of recovery shall not constitute a lien upon such facility or center prior to judgment.”
+the United States shall be entitled to recover from either the transferor or the transferee in the case of a sale or transfer or from the owner in the case of termination of use an amount bearing the same ratio to the then value (as determined by the agreement of the parties or by action brought in the United States district court for the district in which the center is situated) of so much of such facility or center as constituted an approved project or projects, as the amount of the Federal participation bore to the acquisition, remodeling, construction, or expansion cost of such project or projects. Such right of recovery shall not constitute a lien upon such facility or center prior to judgment."
 
-**1981**—Pub. L. 97–35 substituted “the Community Mental Health Centers Act” for “this subchapter” and “section 222 of the Community Mental Health Centers Act” for “section 2689j of this title”.
+**1981**—Pub. L. 97–35 substituted "the Community Mental Health Centers Act" for "this subchapter" and "section 222 of the Community Mental Health Centers Act" for "section 2689j of this title".
 
-**1978**—Pub. L. 95–622 substituted “this subchapter” for “this part”.
+**1978**—Pub. L. 95–622 substituted "this subchapter" for "this part".
 
 #### Effective Date of 1985 Amendment ####
 
-Pub. L. 99–129, title II, §226(b), Oct. 22, 1985, 99 Stat. 547, provided that: “In the case of any facility that was or is constructed, remodeled, expanded, or acquired on or before the date of enactment of this Act [Oct. 22, 1985] or within 180 days after the date of enactment of this Act, the period described in clause (i) or (ii), as the case may be, of section 2115(c)(2)(B) [now 243(c)(2)(B)] of the Public Health Service Act [42 U.S.C. 238l(c)(2)(B)(i), (ii)] (as amended by subsection (a) of this section) shall begin no earlier than 181 days after the date of enactment of this Act.”
+Pub. L. 99–129, title II, §226(b), Oct. 22, 1985, 99 Stat. 547, provided that: "In the case of any facility that was or is constructed, remodeled, expanded, or acquired on or before the date of enactment of this Act [Oct. 22, 1985] or within 180 days after the date of enactment of this Act, the period described in clause (i) or (ii), as the case may be, of section 2115(c)(2)(B) [now 243(c)(2)(B)] of the Public Health Service Act [42 U.S.C. 238l(c)(2)(B)(i), (ii)] (as amended by subsection (a) of this section) shall begin no earlier than 181 days after the date of enactment of this Act."
 
 #### Effective Date of 1981 Amendment ####
 
-Pub. L. 97–35, title IX, §902(h), Aug. 13, 1981, 95 Stat. 561, provided that: “The amendments made by this section [amending this section and sections 201, 225a [now 238d], 229b [now 238j], 243, 246, 289k–1, 300d–4, 300d–6, 300l–2, 300m, 300m–3, 9412, and 9511 of this title, repealing sections 247b–1, 247b–2, 255, 300d to 300d–3, 300d–5, 300d–7 to 300d–9, 300d–21, 2689 to 2689l, 2689n to 2689p, 2689r to 2689aa, 9411, 9421 to 9423, 9431 to 9438, 9451, 9452, 9461 to 9465, 9471 to 9473, 9481, 9491 to 9493, 9502, 9512, 9521, and 9523 of this title, repealing provisions set out as notes under sections 246 and 2689 of this title, and transferring section 2689m to section 229d [now 238l] of this title] shall take effect October 1, 1981.”
+Pub. L. 97–35, title IX, §902(h), Aug. 13, 1981, 95 Stat. 561, provided that: "The amendments made by this section [amending this section and sections 201, 225a [now 238d], 229b [now 238j], 243, 246, 289k–1, 300d–4, 300d–6, 300l–2, 300m, 300m–3, 9412, and 9511 of this title, repealing sections 247b–1, 247b–2, 255, 300d to 300d–3, 300d–5, 300d–7 to 300d–9, 300d–21, 2689 to 2689l, 2689n to 2689p, 2689r to 2689aa, 9411, 9421 to 9423, 9431 to 9438, 9451, 9452, 9461 to 9465, 9471 to 9473, 9481, 9491 to 9493, 9502, 9512, 9521, and 9523 of this title, repealing provisions set out as notes under sections 246 and 2689 of this title, and transferring section 2689m to section 229d [now 238l] of this title] shall take effect October 1, 1981."
 
 #### Effective Date of 1978 Amendment ####
 
@@ -80,4 +80,4 @@ Section effective July 1, 1975, see section 608 of Pub. L. 94–63, set out as a
 
 #### Other Legal Rights of United States Not Adversely Affected by 1985 Amendment ####
 
-Pub. L. 99–129, title II, §226(c), Oct. 22, 1985, 99 Stat. 547, provided that: “The amendments made by subsection (a) of this section [amending this section] shall not adversely affect other legal rights of the United States.”
+Pub. L. 99–129, title II, §226(c), Oct. 22, 1985, 99 Stat. 547, provided that: "The amendments made by subsection (a) of this section [amending this section] shall not adversely affect other legal rights of the United States."

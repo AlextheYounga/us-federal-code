@@ -22,50 +22,50 @@ The Congress finds that—
 
 #### Amendments ####
 
-**2010**—Par. (4). Pub. L. 111–320, §401(a)(1), substituted “including those with HIV/AIDS” for “including those who are infected with the human immunodeficiency virus (commonly known as ‘HIV’), those who have acquired immune deficiency syndrome (commonly known as ‘AIDS’)”.
+**2010**—Par. (4). Pub. L. 111–320, §401(a)(1), substituted "including those with HIV/AIDS" for "including those who are infected with the human immunodeficiency virus (commonly known as 'HIV'), those who have acquired immune deficiency syndrome (commonly known as 'AIDS')".
 
-Par. (5). Pub. L. 111–320, §401(a)(2), substituted “HIV/AIDS” for “acquired immune deficiency syndrome”.
+Par. (5). Pub. L. 111–320, §401(a)(2), substituted "HIV/AIDS" for "acquired immune deficiency syndrome".
 
-**2003**—Par. (1). Pub. L. 108–36, §301(1), (8), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “throughout the Nation, the number of infants and young children who have been exposed to drugs taken by their mothers during pregnancy has increased dramatically;”.
+**2003**—Par. (1). Pub. L. 108–36, §301(1), (8), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: "throughout the Nation, the number of infants and young children who have been exposed to drugs taken by their mothers during pregnancy has increased dramatically;".
 
 Par. (2). Pub. L. 108–36, §301(8), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
-Pub. L. 108–36, §301(2), substituted “studies indicate that a number of factors contribute to the inability of some parents to provide adequate care for their infants” for “the inability of parents who abuse drugs to provide adequate care for such infants”.
+Pub. L. 108–36, §301(2), substituted "studies indicate that a number of factors contribute to the inability of some parents to provide adequate care for their infants" for "the inability of parents who abuse drugs to provide adequate care for such infants".
 
 Pars. (3), (4). Pub. L. 108–36, §301(8), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
 
 Par. (5). Pub. L. 108–36, §301(8), redesignated par. (8) as (5). Former par. (5) redesignated (4).
 
-Pub. L. 108–36, §301(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “training is inadequate for foster care personnel working with medically fragile infants and young children and infants and young children exposed to drugs;”.
+Pub. L. 108–36, §301(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "training is inadequate for foster care personnel working with medically fragile infants and young children and infants and young children exposed to drugs;".
 
 Pars. (6), (7). Pub. L. 108–36, §301(4), (8), redesignated pars. (9) and (10) as (6) and (7), respectively, and struck out former pars. (6) and (7) which read as follows:
 
-“(6) a particularly devastating development is the increase in the number of infants and young children who are infected with the human immunodeficiency virus (which is believed to cause acquired immune deficiency syndrome and which is commonly known as HIV) or who have been perinatally exposed to the virus or to a dangerous drug;
+"(6) a particularly devastating development is the increase in the number of infants and young children who are infected with the human immunodeficiency virus (which is believed to cause acquired immune deficiency syndrome and which is commonly known as HIV) or who have been perinatally exposed to the virus or to a dangerous drug;
 
-“(7) many such infants and young children have at least one parent who is an intravenous drug abuser;”.
+"(7) many such infants and young children have at least one parent who is an intravenous drug abuser;".
 
 Par. (8). Pub. L. 108–36, §301(9), added par. (8). Former par. (8) redesignated (5).
 
-Pub. L. 108–36, §301(5), substituted “infants and young children who are abandoned in hospitals” for “such infants and young children” and inserted “by parents abusing drugs,” after “deficiency syndrome,”.
+Pub. L. 108–36, §301(5), substituted "infants and young children who are abandoned in hospitals" for "such infants and young children" and inserted "by parents abusing drugs," after "deficiency syndrome,".
 
 Par. (9). Pub. L. 108–36, §301(8), redesignated par. (9) as (6).
 
-Pub. L. 108–36, §301(6), substituted “comprehensive support services for such infants and young children and their families and services to prevent the abandonment of such infants and young children, including foster care services, case management services, family support services, respite and crisis intervention services, counseling services, and group residential home services;” for “comprehensive services for such infants and young children, including foster family care services, case management services, family support services, respite and crisis intervention services, counseling services, and group residential home services;”.
+Pub. L. 108–36, §301(6), substituted "comprehensive support services for such infants and young children and their families and services to prevent the abandonment of such infants and young children, including foster care services, case management services, family support services, respite and crisis intervention services, counseling services, and group residential home services;" for "comprehensive services for such infants and young children, including foster family care services, case management services, family support services, respite and crisis intervention services, counseling services, and group residential home services;".
 
 Par. (10). Pub. L. 108–36, §301(8), redesignated par. (10) as (7).
 
-Par. (11). Pub. L. 108–36, §301(7), struck out par. (11) which read as follows: “there is a need for the development of funding strategies that coordinate and make the optimal use of all private resources, and Federal, State, and local resources, to establish and maintain such services.”
+Par. (11). Pub. L. 108–36, §301(7), struck out par. (11) which read as follows: "there is a need for the development of funding strategies that coordinate and make the optimal use of all private resources, and Federal, State, and local resources, to establish and maintain such services."
 
-**1991**—Par. (3). Pub. L. 102–236, §2(1), substituted “an unacceptable number” for “the vast majority”.
+**1991**—Par. (3). Pub. L. 102–236, §2(1), substituted "an unacceptable number" for "the vast majority".
 
-Par. (6). Pub. L. 102–236, §2(2), substituted “the number of infants and young children who are infected with the human immunodeficiency virus (which is believed to cause acquired immune deficiency syndrome and which is commonly known as HIV) or who have been perinatally exposed to the virus or to a dangerous drug;” for “the number of cases of acquired immune deficiency syndrome in infants and young children, and the number of such cases has doubled within the last 13 months;”.
+Par. (6). Pub. L. 102–236, §2(2), substituted "the number of infants and young children who are infected with the human immunodeficiency virus (which is believed to cause acquired immune deficiency syndrome and which is commonly known as HIV) or who have been perinatally exposed to the virus or to a dangerous drug;" for "the number of cases of acquired immune deficiency syndrome in infants and young children, and the number of such cases has doubled within the last 13 months;".
 
-Par. (7). Pub. L. 102–236, §2(3), substituted “many such” for “more than 80 percent of” and struck out “with acquired immune deficiency syndrome” after “young children”.
+Par. (7). Pub. L. 102–236, §2(3), substituted "many such" for "more than 80 percent of" and struck out "with acquired immune deficiency syndrome" after "young children".
 
-Par. (8). Pub. L. 102–236, §2(4), substituted “such infants and young children” for “infants and young children with acquired immune deficiency syndrome”.
+Par. (8). Pub. L. 102–236, §2(4), substituted "such infants and young children" for "infants and young children with acquired immune deficiency syndrome".
 
 Pars. (10), (11). Pub. L. 102–236, §2(5), added par. (10) and redesignated former par. (10) as (11).
 
 #### Short Title ####
 
-For short title of this subchapter as the “Abandoned Infants Assistance Act of 1988”, see section 1 of Pub. L. 100–505, set out as a note under section 5101 of this title.
+For short title of this subchapter as the "Abandoned Infants Assistance Act of 1988", see section 1 of Pub. L. 100–505, set out as a note under section 5101 of this title.

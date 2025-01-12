@@ -6,7 +6,7 @@ The administration, protection, and development of the aforesaid national histor
 
 #### Change of Name ####
 
-Words “national historic site” substituted in text for “national monument” in view of redesignation of Fort Vancouver National Monument as Fort Vancouver National Historic Site by Pub. L. 87–78, classified to section 450ff–6 of this title.
+Words "national historic site" substituted in text for "national monument" in view of redesignation of Fort Vancouver National Monument as Fort Vancouver National Historic Site by Pub. L. 87–78, classified to section 450ff–6 of this title.
 
 #### Transfer of Functions ####
 

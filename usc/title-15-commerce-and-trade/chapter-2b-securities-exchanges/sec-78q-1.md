@@ -94,7 +94,7 @@ in accordance with the findings and to carry out the objectives set forth in par
 
 (1) No registered clearing agency or registered transfer agent shall, directly or indirectly, engage in any activity as clearing agency or transfer agent in contravention of such rules and regulations (A) as the Commission may prescribe as necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this chapter, or (B) as the appropriate regulatory agency for such clearing agency or transfer agent may prescribe as necessary or appropriate for the safeguarding of securities and funds.
 
-(2) With respect to any clearing agency or transfer agent for which the Commission is not the appropriate regulatory agency, the appropriate regulatory agency for such clearing agency or transfer agent may, in accordance with section 1818 of title 12, enforce compliance by such clearing agency or transfer agent with the provisions of this section, sections 78q and 78s of this title, and the rules and regulations thereunder. For purposes of the preceding sentence, any violation of any such provision shall constitute adequate basis for the issuance of an order under section 1818(b) or 1818(c) of title 12, and the participants in any such clearing agency and the persons doing business with any such transfer agent shall be deemed to be “depositors” as that term is used in section 1818(c) of title 12.
+(2) With respect to any clearing agency or transfer agent for which the Commission is not the appropriate regulatory agency, the appropriate regulatory agency for such clearing agency or transfer agent may, in accordance with section 1818 of title 12, enforce compliance by such clearing agency or transfer agent with the provisions of this section, sections 78q and 78s of this title, and the rules and regulations thereunder. For purposes of the preceding sentence, any violation of any such provision shall constitute adequate basis for the issuance of an order under section 1818(b) or 1818(c) of title 12, and the participants in any such clearing agency and the persons doing business with any such transfer agent shall be deemed to be "depositors" as that term is used in section 1818(c) of title 12.
 
 (3)(A) With respect to any clearing agency or transfer agent for which the Commission is not the appropriate regulatory agency, the Commission and the appropriate regulatory agency for such clearing agency or transfer agent shall consult and cooperate with each other, and, as may be appropriate, with State banking authorities having supervision over such clearing agency or transfer agent toward the end that, to the maximum extent practicable, their respective regulatory responsibilities may be fulfilled and the rules and regulations applicable to such clearing agency or transfer agent may be in accord with both sound banking practices and a national system for the prompt and accurate clearance and settlement of securities transactions. In accordance with this objective—
 
@@ -156,9 +156,9 @@ The Commission shall revise its regulations in section 240.17Ad–17 of title 17
 
 (D) For purposes of such revised regulations—
 
-(i) a security holder shall be considered a “missing security holder” if a check is sent to the security holder and the check is not negotiated before the earlier of the paying agent sending the next regularly scheduled check or the elapsing of 6 months after the sending of the not yet negotiated check; and
+(i) a security holder shall be considered a "missing security holder" if a check is sent to the security holder and the check is not negotiated before the earlier of the paying agent sending the next regularly scheduled check or the elapsing of 6 months after the sending of the not yet negotiated check; and
 
-(ii) the term “paying agent” includes any issuer, transfer agent, broker, dealer, investment adviser, indenture trustee, custodian, or any other person that accepts payments from the issuer of a security and distributes the payments to the holders of the security.
+(ii) the term "paying agent" includes any issuer, transfer agent, broker, dealer, investment adviser, indenture trustee, custodian, or any other person that accepts payments from the issuer of a security and distributes the payments to the holders of the security.
 
 #### (2) Rulemaking ####
 
@@ -214,7 +214,7 @@ Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII 
 
 #### References in Text ####
 
-This chapter, referred to in subsecs. (a)(2), (b)(3)(A), (F), (I), (8), (d)(1), (3)(B), (4), (5), (e), and (h) to (j), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a)(2), (b)(3)(A), (F), (I), (8), (d)(1), (3)(B), (4), (5), (e), and (h) to (j), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 The Commodity Exchange Act, referred to in subsecs. (b)(8) and (l)(1), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
@@ -222,7 +222,7 @@ The Federal Advisory Committee Act, referred to in subsec. (f)(4), is Pub. L. 92
 
 #### Amendments ####
 
-**2010**—Subsec. (c)(4)(C). Pub. L. 111–203, §925(a)(3), substituted “12 months or bar any such person from being associated with any transfer agent, broker, dealer, investment adviser, municipal securities dealer, municipal advisor, or nationally recognized statistical rating organization,” for “twelve months or bar any such person from being associated with the transfer agent,”.
+**2010**—Subsec. (c)(4)(C). Pub. L. 111–203, §925(a)(3), substituted "12 months or bar any such person from being associated with any transfer agent, broker, dealer, investment adviser, municipal securities dealer, municipal advisor, or nationally recognized statistical rating organization," for "twelve months or bar any such person from being associated with the transfer agent,".
 
 Subsec. (g). Pub. L. 111–203, §929W, added subsec. (g) relating to due diligence for the delivery of dividends, interest, and other valuable property rights.
 
@@ -230,31 +230,31 @@ Pub. L. 111–203, §763(b), added subsec. (g) relating to registration requirem
 
 Subsecs. (h) to (m). Pub. L. 111–203, §763(b), added subsecs. (h) to (m).
 
-**2002**—Subsec. (c)(3)(A), (4)(C). Pub. L. 107–204 inserted “, or is subject to an order or finding,” before “enumerated” and substituted “(H), or (G)” for “or (G)”.
+**2002**—Subsec. (c)(3)(A), (4)(C). Pub. L. 107–204 inserted ", or is subject to an order or finding," before "enumerated" and substituted "(H), or (G)" for "or (G)".
 
-**2000**—Subsec. (b)(3)(A). Pub. L. 106–554, §1(a)(5) [title II, §207(1)], inserted “and derivative agreements, contracts, and transactions” after “prompt and accurate clearance and settlement of securities transactions”.
+**2000**—Subsec. (b)(3)(A). Pub. L. 106–554, §1(a)(5) [title II, §207(1)], inserted "and derivative agreements, contracts, and transactions" after "prompt and accurate clearance and settlement of securities transactions".
 
-Subsec. (b)(3)(F). Pub. L. 106–554, §1(a)(5) [title II, §207(2)], inserted “and, to the extent applicable, derivative agreements, contracts, and transactions” after “designed to promote the prompt and accurate clearance and settlement of securities transactions”.
+Subsec. (b)(3)(F). Pub. L. 106–554, §1(a)(5) [title II, §207(2)], inserted "and, to the extent applicable, derivative agreements, contracts, and transactions" after "designed to promote the prompt and accurate clearance and settlement of securities transactions".
 
 Subsec. (b)(7). Pub. L. 106–554, §1(a)(5) [title II, §206(d)], added par. (7).
 
 Subsec. (b)(8). Pub. L. 106–554, §1(a)(5) [title II, §207(3)], added par. (8).
 
-**1990**—Subsec. (a)(2). Pub. L. 101–432, §5(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Commission is directed, therefore, having due regard for the public interest, the protection of investors, the safeguarding of securities and funds, and maintenance of fair competition among brokers and dealers, clearing agencies, and transfer agents, to use its authority under this chapter to facilitate the establishment of a national system for the prompt and accurate clearance and settlement of transactions in securities (other than exempted securities) in accordance with the findings and to carry out the objectives set forth in paragraph (1) of this subsection. The Commission shall use its authority under this chapter to assure equal regulation under this chapter of registered clearing agencies and registered transfer agents.”
+**1990**—Subsec. (a)(2). Pub. L. 101–432, §5(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Commission is directed, therefore, having due regard for the public interest, the protection of investors, the safeguarding of securities and funds, and maintenance of fair competition among brokers and dealers, clearing agencies, and transfer agents, to use its authority under this chapter to facilitate the establishment of a national system for the prompt and accurate clearance and settlement of transactions in securities (other than exempted securities) in accordance with the findings and to carry out the objectives set forth in paragraph (1) of this subsection. The Commission shall use its authority under this chapter to assure equal regulation under this chapter of registered clearing agencies and registered transfer agents."
 
-Subsec. (c)(3)(A), (4)(C). Pub. L. 101–550 substituted “(A), (D), (E), or (G)” for “(A), (D), or (E)”.
+Subsec. (c)(3)(A), (4)(C). Pub. L. 101–550 substituted "(A), (D), (E), or (G)" for "(A), (D), or (E)".
 
 Subsec. (d)(5). Pub. L. 101–429 added par. (5).
 
 Subsec. (f). Pub. L. 101–432, §5(b), added subsec. (f).
 
-**1987**—Subsec. (c)(2). Pub. L. 100–181, §322(1), (2), inserted “and any persons associated with the transfer agent” in first sentence and substituted “45” for “thirty” in second sentence.
+**1987**—Subsec. (c)(2). Pub. L. 100–181, §322(1), (2), inserted "and any persons associated with the transfer agent" in first sentence and substituted "45" for "thirty" in second sentence.
 
-Subsec. (c)(3), (4). Pub. L. 100–181, §322(3)–(5), added par. (3), struck out former par. (3)(A) which read as follows: “The appropriate regulatory agency for a transfer agent, by order, shall deny registration to, censure, place limitations on the activities, functions, or operations of, suspend for a period not exceeding twelve months, or revoke the registration of such transfer agent, if such appropriate regulatory agency finds, on the record after notice and opportunity for hearing, that such denial, censure, placing of limitations, suspension, or revocation is in the public interest and that such transfer agent has willfully violated or is unable to comply with any provision of this section or section 78q of this title or the rules or regulations thereunder.”, redesignated subpars. (B) and (C) of former par. (3) as subpars. (A) and (B), respectively, of new par. (4), and added subpar. (C) to such par. (4).
+Subsec. (c)(3), (4). Pub. L. 100–181, §322(3)–(5), added par. (3), struck out former par. (3)(A) which read as follows: "The appropriate regulatory agency for a transfer agent, by order, shall deny registration to, censure, place limitations on the activities, functions, or operations of, suspend for a period not exceeding twelve months, or revoke the registration of such transfer agent, if such appropriate regulatory agency finds, on the record after notice and opportunity for hearing, that such denial, censure, placing of limitations, suspension, or revocation is in the public interest and that such transfer agent has willfully violated or is unable to comply with any provision of this section or section 78q of this title or the rules or regulations thereunder.", redesignated subpars. (B) and (C) of former par. (3) as subpars. (A) and (B), respectively, of new par. (4), and added subpar. (C) to such par. (4).
 
-Subsec. (d)(3)(B). Pub. L. 100–181, §322(6), substituted “clearing agency, transfer agent, or person associated with a transfer agent” for “clearing agency or transfer agent”.
+Subsec. (d)(3)(B). Pub. L. 100–181, §322(6), substituted "clearing agency, transfer agent, or person associated with a transfer agent" for "clearing agency or transfer agent".
 
-Subsec. (d)(4). Pub. L. 100–181, §322(7), substituted “, transfer agent, or person associated with a transfer agent,” for “or transfer agent”.
+Subsec. (d)(4). Pub. L. 100–181, §322(7), substituted ", transfer agent, or person associated with a transfer agent," for "or transfer agent".
 
 #### Effective Date of 2010 Amendment ####
 
@@ -274,8 +274,8 @@ Section effective June 4, 1975, except for subsecs. (b) and (c) which are effect
 
 Section 8(b) of Pub. L. 101–432 directed Securities and Exchange Commission, in consultation with Commodity Futures Trading Commission, Board of Governors of the Federal Reserve System, and other relevant regulatory authorities, to examine progress toward establishing linked or coordinated facilities for clearance and settlement of transactions in securities, securities options, contracts of sale for future delivery and options thereon, and commodity options, and to submit to Congress, not later than 2 years from Oct. 16, 1990, a report detailing and evaluating such progress.
 
-[<sup>1</sup> So in original. Probably should be “section 78f(h)(7)(C)”.](#78q-1_1)
+[<sup>1</sup> So in original. Probably should be "section 78f(h)(7)(C)".](#78q-1_1)
 
-[<sup>2</sup> So in original. Probably should be “of”.](#78q-1_2)
+[<sup>2</sup> So in original. Probably should be "of".](#78q-1_2)
 
 [<sup>3</sup> So in original. Two subsecs. (g) have been enacted.](#78q-1_3)

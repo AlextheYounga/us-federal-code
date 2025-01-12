@@ -32,7 +32,7 @@ A prior section 209 of act July 1, 1944, was renumbered section 208 and is class
 
 #### Amendments ####
 
-**1979**—Subsec. (c). Pub. L. 96–76 substituted “warrant officer (W–1)” for “assistant”.
+**1979**—Subsec. (c). Pub. L. 96–76 substituted "warrant officer (W–1)" for "assistant".
 
 #### Effective Date of 1979 Amendment ####
 

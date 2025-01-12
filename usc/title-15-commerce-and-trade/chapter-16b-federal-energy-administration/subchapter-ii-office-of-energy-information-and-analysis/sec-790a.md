@@ -1,6 +1,6 @@
 ### §790a. National Energy Information System; information required to be maintained ###
 
-(a) It shall be the duty of the Director to establish a National Energy Information System (hereinafter referred to in this chapter as the “System”), which shall be operated and maintained by the Office. The System shall contain such information as is required to provide a description of and facilitate analysis of energy supply and consumption within and affecting the United States on the basis of such geographic areas and economic sectors as may be appropriate to meet adequately the needs of—
+(a) It shall be the duty of the Director to establish a National Energy Information System (hereinafter referred to in this chapter as the "System"), which shall be operated and maintained by the Office. The System shall contain such information as is required to provide a description of and facilitate analysis of energy supply and consumption within and affecting the United States on the basis of such geographic areas and economic sectors as may be appropriate to meet adequately the needs of—
 
 (1) the Federal Energy Administration in carrying out its lawful functions;
 

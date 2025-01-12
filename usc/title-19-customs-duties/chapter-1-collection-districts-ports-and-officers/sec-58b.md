@@ -38,25 +38,25 @@ For purposes of this section, customs services provided in connection with, or w
 
 #### Amendments ####
 
-**1989**—Pub. L. 101–207, §3(f)(1)(C), inserted “and other facilities” after “airports” in section catchline.
+**1989**—Pub. L. 101–207, §3(f)(1)(C), inserted "and other facilities" after "airports" in section catchline.
 
-Subsecs. (a)(3), (b). Pub. L. 101–207, §3(f)(1)(A), inserted “, seaport, or other facility” after “airport” wherever appearing.
+Subsecs. (a)(3), (b). Pub. L. 101–207, §3(f)(1)(A), inserted ", seaport, or other facility" after "airport" wherever appearing.
 
-Subsec. (c). Pub. L. 101–207, §3(f)(1)(A), (B), inserted “, seaports, and other facilities” after “airports” in introductory provisions and “, seaport, or other facility” after “airport” wherever appearing.
+Subsec. (c). Pub. L. 101–207, §3(f)(1)(A), (B), inserted ", seaports, and other facilities" after "airports" in introductory provisions and ", seaport, or other facility" after "airport" wherever appearing.
 
-Subsec. (e). Pub. L. 101–207, §3(f)(1)(A), inserted “, seaport, or other facility” after “airport” wherever appearing.
+Subsec. (e). Pub. L. 101–207, §3(f)(1)(A), inserted ", seaport, or other facility" after "airport" wherever appearing.
 
-Subsec. (f). Pub. L. 101–207, §3(c)(2), (f)(1)(A), added subsec. (f) and inserted “, seaport, or other facility” after “airport” in two places.
+Subsec. (f). Pub. L. 101–207, §3(c)(2), (f)(1)(A), added subsec. (f) and inserted ", seaport, or other facility" after "airport" in two places.
 
 **1988**—Subsec. (a)(2), (3). Pub. L. 100–418, §1905(1)–(3), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (c). Pub. L. 100–418, §1905(4), struck out “20” before “airports”.
+Subsec. (c). Pub. L. 100–418, §1905(4), struck out "20" before "airports".
 
-**1986**—Subsec. (c). Pub. L. 99–272, §13032(1), made amendment identical to Pub. L. 99–190, substituting “20 airports” for “4 airports”.
+**1986**—Subsec. (c). Pub. L. 99–272, §13032(1), made amendment identical to Pub. L. 99–190, substituting "20 airports" for "4 airports".
 
-Subsec. (e). Pub. L. 99–272, §13032(2), substituted last two sentences for former last sentence which read as follows: “The funds in such account shall only be available, as provided by appropriation Acts, for expenditures relating to the provision of customs services at such airport (including expenditures for the salaries and expenses of individuals employed to provide such services).”
+Subsec. (e). Pub. L. 99–272, §13032(2), substituted last two sentences for former last sentence which read as follows: "The funds in such account shall only be available, as provided by appropriation Acts, for expenditures relating to the provision of customs services at such airport (including expenditures for the salaries and expenses of individuals employed to provide such services)."
 
-**1985**—Subsec. (c). Pub. L. 99–190 substituted “20 airports” for “4 airports”.
+**1985**—Subsec. (c). Pub. L. 99–190 substituted "20 airports" for "4 airports".
 
 #### Effective Date ####
 

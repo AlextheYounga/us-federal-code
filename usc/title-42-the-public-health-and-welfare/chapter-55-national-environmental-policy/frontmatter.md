@@ -28,7 +28,7 @@ Sec.
 
 4344. Duties and functions.
 
-4345. Consultation with Citizens’ Advisory Committee on Environmental Quality and other representatives.
+4345. Consultation with Citizens' Advisory Committee on Environmental Quality and other representatives.
 
 4346. Tenure and compensation of members.
 
@@ -42,7 +42,7 @@ Sec.
 
 4361, 4361a. Repealed.
 
-4361b. Implementation by Administrator of Environmental Protection Agency of recommendations of “CHESS” Investigative Report; waiver; inclusion of status of implementation requirements in annual revisions of plan for research, development, and demonstration.
+4361b. Implementation by Administrator of Environmental Protection Agency of recommendations of "CHESS" Investigative Report; waiver; inclusion of status of implementation requirements in annual revisions of plan for research, development, and demonstration.
 
 4361c. Staff management.
 

@@ -36,7 +36,7 @@ Subject to paragraph (4), the Secretary shall make available to qualified entiti
 
 #### (2) Qualified entities ####
 
-For purposes of this subsection, the term “qualified entity” means a public or private entity that—
+For purposes of this subsection, the term "qualified entity" means a public or private entity that—
 
 (A) is qualified (as determined by the Secretary) to use claims data to evaluate the performance of providers of services and suppliers on measures of quality, efficiency, effectiveness, and resource use; and
 
@@ -94,7 +94,7 @@ The Railroad Retirement Act of 1974, referred to in subsec. (a), is act Aug. 29,
 
 The Internal Revenue Code of 1986, referred to in subsec. (d)(1), is classified generally to Title 26, Internal Revenue Code.
 
-July 15, 2008, referred to in subsec. (d)(1)(A) and (B), was in the original “the date of the enactment of this section” and “such date”, which were translated as meaning the date of enactment of Pub. L. 110–275, which enacted subsec. (d), to reflect the probable intent of Congress.
+July 15, 2008, referred to in subsec. (d)(1)(A) and (B), was in the original "the date of the enactment of this section" and "such date", which were translated as meaning the date of enactment of Pub. L. 110–275, which enacted subsec. (d), to reflect the probable intent of Congress.
 
 #### Amendments ####
 
@@ -102,7 +102,7 @@ July 15, 2008, referred to in subsec. (d)(1)(A) and (B), was in the original “
 
 **2008**—Subsec. (d). Pub. L. 110–275 added subsec. (d).
 
-**1974**—Subsec. (a). Pub. L. 93–445 substituted “Railroad Retirement Act of 1974” for “Railroad Retirement Act of 1937”.
+**1974**—Subsec. (a). Pub. L. 93–445 substituted "Railroad Retirement Act of 1974" for "Railroad Retirement Act of 1937".
 
 **1972**—Subsec. (c). Pub. L. 92–603 added subsec. (c).
 
@@ -110,7 +110,7 @@ July 15, 2008, referred to in subsec. (d)(1)(A) and (B), was in the original “
 
 #### Effective Date of 2010 Amendment ####
 
-Pub. L. 111–148, title X, §10332(b), Mar. 23, 2010, 124 Stat. 970, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2012.”
+Pub. L. 111–148, title X, §10332(b), Mar. 23, 2010, 124 Stat. 970, provided that: "The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2012."
 
 #### Effective Date of 2008 Amendment ####
 

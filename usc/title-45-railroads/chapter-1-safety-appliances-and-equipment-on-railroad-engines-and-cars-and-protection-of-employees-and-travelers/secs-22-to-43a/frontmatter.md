@@ -1,6 +1,6 @@
 ### §§22 to 43a. Repealed. Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379 ###
 
-Section 22, acts Feb. 17, 1911, ch. 103, §1, 36 Stat. 913; June 7, 1924, ch. 355, §1, 43 Stat. 659; June 22, 1988, Pub. L. 100–342, §14(1), 102 Stat. 632, defined “railroad” as used in sections 22 to 29 and 31 to 34 of this title. See section 20102 of Title 49, Transportation.
+Section 22, acts Feb. 17, 1911, ch. 103, §1, 36 Stat. 913; June 7, 1924, ch. 355, §1, 43 Stat. 659; June 22, 1988, Pub. L. 100–342, §14(1), 102 Stat. 632, defined "railroad" as used in sections 22 to 29 and 31 to 34 of this title. See section 20102 of Title 49, Transportation.
 
 Section 23, acts Feb. 17, 1911, ch. 103, §2, 36 Stat. 913; Mar. 4, 1915, ch. 169, §1, 38 Stat. 1192; June 7, 1924, ch. 355, §2, 43 Stat. 659; June 22, 1988, Pub. L. 100–342, §14(2), 102 Stat. 632, made it unlawful for railroads to use locomotives and appurtenances unless they were safe and inspected in accordance with provisions of sections 22 to 29 and 31 to 34 of this title and tested as prescribed by rules and regulations. See section 20701 of Title 49.
 
@@ -32,7 +32,7 @@ Section 36, acts May 27, 1908, ch. 200, §1, 35 Stat. 325; Oct. 15, 1966, Pub. L
 
 Section 37, acts May 27, 1908, ch. 200, §1, 35 Stat. 325; Mar. 4, 1909, ch. 299, §1, 35 Stat. 965; Aug. 12, 1970, Pub. L. 91–375, §4(a), 84 Stat. 773, related to inspection of mail cars. See section 20305 of Title 49.
 
-Section 38, acts May 6, 1910, ch. 208, §1, 36 Stat. 350; Sept. 13, 1960, Pub. L. 86–762, §1, 74 Stat. 903; Oct. 15, 1966, Pub. L. 89–670, §6(e)(1)(K), 80 Stat. 939; June 22, 1988, Pub. L. 100–342, §15(1), 102 Stat. 633, related to duty of railroad to make monthly reports of railroad accidents to Secretary of Transportation and defined “railroad” for purposes of sections 38 to 43 of this title. See sections 20102 and 20901 of Title 49.
+Section 38, acts May 6, 1910, ch. 208, §1, 36 Stat. 350; Sept. 13, 1960, Pub. L. 86–762, §1, 74 Stat. 903; Oct. 15, 1966, Pub. L. 89–670, §6(e)(1)(K), 80 Stat. 939; June 22, 1988, Pub. L. 100–342, §15(1), 102 Stat. 633, related to duty of railroad to make monthly reports of railroad accidents to Secretary of Transportation and defined "railroad" for purposes of sections 38 to 43 of this title. See sections 20102 and 20901 of Title 49.
 
 Section 39, acts May 6, 1910, ch. 208, §2, 36 Stat. 351; Jan. 3, 1975, Pub. L. 93–633, title II, §204(b), 88 Stat. 2166; June 22, 1988, Pub. L. 100–342, §15(2), 102 Stat. 634; Sept. 3, 1992, Pub. L. 102–365, §4(a)(3), 106 Stat. 973, related to penalty for failure of railroad to make report provided for in section 38 of this title. See sections 20901 and 21311 of Title 49.
 
@@ -48,4 +48,4 @@ Section 43a, Pub. L. 100–342, §24, June 22, 1988, 102 Stat. 639, related to a
 
 #### Short Title ####
 
-Act May 6, 1910, ch. 208, 36 Stat. 350, as amended, popularly known as the “Accident Reports Act”, was classified to sections 38 to 43 of this title prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
+Act May 6, 1910, ch. 208, 36 Stat. 350, as amended, popularly known as the "Accident Reports Act", was classified to sections 38 to 43 of this title prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.

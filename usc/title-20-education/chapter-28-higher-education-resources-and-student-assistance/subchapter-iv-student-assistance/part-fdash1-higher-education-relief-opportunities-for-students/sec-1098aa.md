@@ -2,7 +2,7 @@
 
 #### (a) Short title ####
 
-This part may be cited as the “Higher Education Relief Opportunities for Students Act of 2003”.
+This part may be cited as the "Higher Education Relief Opportunities for Students Act of 2003".
 
 #### (b) Findings ####
 
@@ -22,7 +22,7 @@ The Congress finds the following:
 
 #### (c) Reference ####
 
-References in this part to “the Act” are references to the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.).
+References in this part to "the Act" are references to the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.).
 
 (Pub. L. 108–76, §1, Aug. 18, 2003, 117 Stat. 904.)
 
@@ -38,8 +38,8 @@ Section was enacted as part of the Higher Education Relief Opportunities for Stu
 
 #### Sense of Congress ####
 
-Pub. L. 110–93, §1, Sept. 30, 2007, 121 Stat. 999, provided that: “It is the sense of Congress that—
+Pub. L. 110–93, §1, Sept. 30, 2007, 121 Stat. 999, provided that: "It is the sense of Congress that—
 
-“(1) the Higher Education Relief Opportunities for Students Act of 2003 [this part] addresses the unique situations that active duty military personnel and other affected individuals may face in connection with their enrollment in postsecondary institutions and their Federal student loans; and
+"(1) the Higher Education Relief Opportunities for Students Act of 2003 [this part] addresses the unique situations that active duty military personnel and other affected individuals may face in connection with their enrollment in postsecondary institutions and their Federal student loans; and
 
-“(2) the provisions authorized by such Act should be made permanent, thereby allowing the Secretary of Education to continue providing assistance to active duty service members and other affected individuals and their families.”
+"(2) the provisions authorized by such Act should be made permanent, thereby allowing the Secretary of Education to continue providing assistance to active duty service members and other affected individuals and their families."

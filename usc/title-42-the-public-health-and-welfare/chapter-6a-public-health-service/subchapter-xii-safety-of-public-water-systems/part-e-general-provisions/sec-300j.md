@@ -2,7 +2,7 @@
 
 #### (a) Certification of need application ####
 
-If any person who uses chlorine, activated carbon, lime, ammonia, soda ash, potassium permanganate, caustic soda, or other chemical or substance for the purpose of treating water in any public water system or in any public treatment works determines that the amount of such chemical or substance necessary to effectively treat such water is not reasonably available to him or will not be so available to him when required for the effective treatment of such water, such person may apply to the Administrator for a certification (hereinafter in this section referred to as a “certification of need”) that the amount of such chemical or substance which such person requires to effectively treat such water is not reasonably available to him or will not be so available when required for the effective treatment of such water.
+If any person who uses chlorine, activated carbon, lime, ammonia, soda ash, potassium permanganate, caustic soda, or other chemical or substance for the purpose of treating water in any public water system or in any public treatment works determines that the amount of such chemical or substance necessary to effectively treat such water is not reasonably available to him or will not be so available to him when required for the effective treatment of such water, such person may apply to the Administrator for a certification (hereinafter in this section referred to as a "certification of need") that the amount of such chemical or substance which such person requires to effectively treat such water is not reasonably available to him or will not be so available when required for the effective treatment of such water.
 
 #### (b) Application requirements; publication in Federal Register; waiver; certification, issuance or denial ####
 
@@ -52,13 +52,13 @@ No certification of need or order issued under this section may remain in effect
 
 #### Amendments ####
 
-**1996**—Subsec. (f). Pub. L. 104–182 inserted a period after “year”.
+**1996**—Subsec. (f). Pub. L. 104–182 inserted a period after "year".
 
-**1986**—Subsec. (f). Pub. L. 99–339 substituted “in effect for more than one year” for “in effect— (1) for more than one year, or (2) September 30, 1982, whichever occurs first.”
+**1986**—Subsec. (f). Pub. L. 99–339 substituted "in effect for more than one year" for "in effect— (1) for more than one year, or (2) September 30, 1982, whichever occurs first."
 
-**1979**—Subsec. (f)(2). Pub. L. 96–63 substituted “September 30, 1982” for “September 30, 1979”.
+**1979**—Subsec. (f)(2). Pub. L. 96–63 substituted "September 30, 1982" for "September 30, 1979".
 
-**1977**—Subsec. (f). Pub. L. 95–190 substituted “September 30, 1979” for “June 30, 1977”.
+**1977**—Subsec. (f). Pub. L. 95–190 substituted "September 30, 1979" for "June 30, 1977".
 
 #### Ex. Ord. No. 11879. Delegation of Functions to Secretary of Commerce Relating to Orders for Provision of Chemicals or Substances Necessary for Treatment of Water ####
 

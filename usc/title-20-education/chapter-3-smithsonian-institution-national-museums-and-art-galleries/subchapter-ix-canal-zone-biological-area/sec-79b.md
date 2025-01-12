@@ -14,6 +14,6 @@ Section was formerly classified to section 1384 of Title 48, Territories and Ins
 
 #### Transfer of Functions ####
 
-“Smithsonian Institution” substituted in text for “Board of Directors of the Canal Zone Biological Area” and former clause (a) which provided for annual meetings of Board was superseded by Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5, Government Organization and Employees.
+"Smithsonian Institution" substituted in text for "Board of Directors of the Canal Zone Biological Area" and former clause (a) which provided for annual meetings of Board was superseded by Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5, Government Organization and Employees.
 
-[<sup>1</sup> So in original. Probably should be “fix”.](#79b_1)
+[<sup>1</sup> So in original. Probably should be "fix".](#79b_1)

@@ -58,7 +58,7 @@ The Secretary shall assign Corps members to entities in health professional shor
 
 the Secretary will assign under this section members of the Corps in accordance with the program.
 
-(B) For purposes of subparagraph (A), the term “qualified entity” means a State, political subdivision of a State, an agency of a State or political subdivision, or other public or private entity operating solely within one State, which the Secretary determines is able—
+(B) For purposes of subparagraph (A), the term "qualified entity" means a State, political subdivision of a State, an agency of a State or political subdivision, or other public or private entity operating solely within one State, which the Secretary determines is able—
 
 (i) to analyze the potential use of health professions personnel in defined health services delivery areas by the residents of such areas;
 
@@ -86,23 +86,23 @@ Notwithstanding any other law, any member of the Corps licensed to practice medi
 
 **2003**—Subsec. (a)(1)(C). Pub. L. 108–163 realigned margin.
 
-**2002**—Subsec. (a)(1). Pub. L. 107–251, §303(1)(A)(i), struck out “(specified in the agreement described in section 254g of this title)” after “assignment period” in introductory provisions.
+**2002**—Subsec. (a)(1). Pub. L. 107–251, §303(1)(A)(i), struck out "(specified in the agreement described in section 254g of this title)" after "assignment period" in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 107–251, §303(1)(A)(ii), struck out “nonprofit” before “private entity”.
+Subsec. (a)(1)(A). Pub. L. 107–251, §303(1)(A)(ii), struck out "nonprofit" before "private entity".
 
-Subsec. (a)(1)(C). Pub. L. 107–251, §303(1)(A)(iii), added subpar. (C) and struck out former subpar. (C) which read as follows: “an agreement has been entered into between the entity which has applied and the Secretary, in accordance with section 254g of this title; and”.
+Subsec. (a)(1)(C). Pub. L. 107–251, §303(1)(A)(iii), added subpar. (C) and struck out former subpar. (C) which read as follows: "an agreement has been entered into between the entity which has applied and the Secretary, in accordance with section 254g of this title; and".
 
-Subsec. (a)(3). Pub. L. 107–251, §303(1)(B), inserted at end “In approving such applications, the Secretary shall give preference to applications in which a nonprofit entity or public entity shall provide a site to which Corps members may be assigned.”
+Subsec. (a)(3). Pub. L. 107–251, §303(1)(B), inserted at end "In approving such applications, the Secretary shall give preference to applications in which a nonprofit entity or public entity shall provide a site to which Corps members may be assigned."
 
-Subsec. (d)(1). Pub. L. 107–251, §303(2), struck out “nonprofit” before “private entity” in first sentence, added cl. (E), and inserted at end “The Secretary shall encourage entities that receive technical assistance under this paragraph to communicate with other communities, State Offices of Rural Health, State Primary Care Associations and Offices, and other entities concerned with site development and community needs assessment.”
+Subsec. (d)(1). Pub. L. 107–251, §303(2), struck out "nonprofit" before "private entity" in first sentence, added cl. (E), and inserted at end "The Secretary shall encourage entities that receive technical assistance under this paragraph to communicate with other communities, State Offices of Rural Health, State Primary Care Associations and Offices, and other entities concerned with site development and community needs assessment."
 
-Subsec. (d)(2). Pub. L. 107–251, §303(2)(A), struck out “nonprofit” before “private entities”.
+Subsec. (d)(2). Pub. L. 107–251, §303(2)(A), struck out "nonprofit" before "private entities".
 
-Subsec. (d)(4). Pub. L. 107–251, §303(2)(A), struck out “nonprofit” before “private entities” in introductory provisions of subpar. (A) and before “private entity” in introductory provisions of subpar. (B).
+Subsec. (d)(4). Pub. L. 107–251, §303(2)(A), struck out "nonprofit" before "private entities" in introductory provisions of subpar. (A) and before "private entity" in introductory provisions of subpar. (B).
 
 **1990**—Subsec. (a)(1). Pub. L. 101–597, §401(b)[(a)], substituted reference to health professional shortage area for reference to health manpower shortage area in introductory and closing provisions.
 
-Subsec. (a)(1)(D)(ii)(II). Pub. L. 101–597, §103(a), substituted “has been” and “any Corps” for “will be” and “Corps”, respectively.
+Subsec. (a)(1)(D)(ii)(II). Pub. L. 101–597, §103(a), substituted "has been" and "any Corps" for "will be" and "Corps", respectively.
 
 Subsec. (b). Pub. L. 101–597, §103(b), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to approval of application for assignment of Corps personnel subject to review and comment on application by health service agencies in designated area.
 
@@ -126,7 +126,7 @@ Subsec. (i). Pub. L. 101–597, §103(b)(2), redesignated subsec. (i) as (e).
 
 Subsecs. (j), (k). Pub. L. 101–597, §103(b)(1), struck out subsecs. (j) and (k) which provided for placement of physicians in medically underserved areas and assignment of family physicians, respectively.
 
-**1988**—Subsec. (i). Pub. L. 100–607 substituted “osteopathic medicine” for “osteopathy”.
+**1988**—Subsec. (i). Pub. L. 100–607 substituted "osteopathic medicine" for "osteopathy".
 
 **1987**—Subsec. (j). Pub. L. 100–177, §303, added subsec. (j).
 
@@ -138,9 +138,9 @@ Subsec. (c). Pub. L. 97–35, §2703(c), struck out par. (2) which related to sp
 
 Subsecs. (d) to (f). Pub. L. 97–35, §2703(d), added subsec. (d) and redesignated former subsecs. (d), (e), and (f) as (e), (f), and (g), respectively.
 
-Subsec. (g). Pub. L. 97–35, §2703(d), (e), redesignated former subsec. (f) as (g) and substituted “may” for “shall” in pars. (1) to (3), inserted provisions respecting health professions personnel in par. (1), added par. (4), and struck out requirement respecting demonstrated interest in pars. (1) and (2). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 97–35, §2703(d), (e), redesignated former subsec. (f) as (g) and substituted "may" for "shall" in pars. (1) to (3), inserted provisions respecting health professions personnel in par. (1), added par. (4), and struck out requirement respecting demonstrated interest in pars. (1) and (2). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 97–35, §2703(d), (f), redesignated former subsec. (g) as (h) and directed that “may” be substituted for “shall” which was executed by substituting “may” for “shall” in two places preceding par. (1). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 97–35, §2703(d), (f), redesignated former subsec. (g) as (h) and directed that "may" be substituted for "shall" which was executed by substituting "may" for "shall" in two places preceding par. (1). Former subsec. (h) redesignated (i).
 
 Subsec. (i). Pub. L. 97–35, §2703(d), (g), redesignated former subsec. (h) as (i) and inserted reference to other health profession.
 

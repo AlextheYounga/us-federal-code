@@ -12,7 +12,7 @@ For purposes of this part—
 
 #### (A) In general ####
 
-The term “preexisting condition exclusion” means, with respect to coverage, a limitation or exclusion of benefits relating to a condition based on the fact that the condition was present before the date of enrollment for such coverage, whether or not any medical advice, diagnosis, care, or treatment was recommended or received before such date.
+The term "preexisting condition exclusion" means, with respect to coverage, a limitation or exclusion of benefits relating to a condition based on the fact that the condition was present before the date of enrollment for such coverage, whether or not any medical advice, diagnosis, care, or treatment was recommended or received before such date.
 
 #### (B) Treatment of genetic information ####
 
@@ -20,11 +20,11 @@ Genetic information shall not be treated as a condition described in subsection 
 
 #### (2) Enrollment date ####
 
-The term “enrollment date” means, with respect to an individual covered under a group health plan or health insurance coverage, the date of enrollment of the individual in the plan or coverage or, if earlier, the first day of the waiting period for such enrollment.
+The term "enrollment date" means, with respect to an individual covered under a group health plan or health insurance coverage, the date of enrollment of the individual in the plan or coverage or, if earlier, the first day of the waiting period for such enrollment.
 
 #### (3) Late enrollee ####
 
-The term “late enrollee” means, with respect to coverage under a group health plan, a participant or beneficiary who enrolls under the plan other than during—
+The term "late enrollee" means, with respect to coverage under a group health plan, a participant or beneficiary who enrolls under the plan other than during—
 
 (A) the first period in which the individual is eligible to enroll under the plan, or
 
@@ -32,13 +32,13 @@ The term “late enrollee” means, with respect to coverage under a group healt
 
 #### (4) Waiting period ####
 
-The term “waiting period” means, with respect to a group health plan and an individual who is a potential participant or beneficiary in the plan, the period that must pass with respect to the individual before the individual is eligible to be covered for benefits under the terms of the plan.
+The term "waiting period" means, with respect to a group health plan and an individual who is a potential participant or beneficiary in the plan, the period that must pass with respect to the individual before the individual is eligible to be covered for benefits under the terms of the plan.
 
 #### (c) Rules relating to crediting previous coverage ####
 
-#### (1) “Creditable coverage” defined ####
+#### (1) "Creditable coverage" defined ####
 
-For purposes of this subchapter, the term “creditable coverage” means, with respect to an individual, coverage of the individual under any of the following:
+For purposes of this subchapter, the term "creditable coverage" means, with respect to an individual, coverage of the individual under any of the following:
 
 (A) A group health plan.
 
@@ -82,7 +82,7 @@ In the case of a TAA-eligible individual, the period beginning on the date the i
 
 #### (ii) Definitions ####
 
-The terms “TAA-eligible individual” and “TAA-related loss of coverage” have the meanings given such terms in section 300bb–5(b)(4) of this title.
+The terms "TAA-eligible individual" and "TAA-related loss of coverage" have the meanings given such terms in section 300bb–5(b)(4) of this title.
 
 #### (3) Method of crediting coverage ####
 
@@ -264,9 +264,9 @@ A health maintenance organization which offers health insurance coverage in conn
 
 #### (2) Affiliation period ####
 
-#### (A) “Affiliation period” defined ####
+#### (A) "Affiliation period" defined ####
 
-For purposes of this subchapter, the term “affiliation period” means a period which, under the terms of the health insurance coverage offered by the health maintenance organization, must expire before the health insurance coverage becomes effective. The organization is not required to provide health care services or benefits during such period and no premium shall be charged to the participant or beneficiary for any coverage during the period.
+For purposes of this subchapter, the term "affiliation period" means a period which, under the terms of the health insurance coverage offered by the health maintenance organization, must expire before the health insurance coverage becomes effective. The organization is not required to provide health care services or benefits during such period and no premium shall be charged to the participant or beneficiary for any coverage during the period.
 
 #### (B) Beginning ####
 
@@ -294,7 +294,7 @@ Section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization 
 
 Section was classified to section 300gg of this title prior to amendment and renumbering by Pub. L. 111–148.
 
-Section 242(a)(3) of Pub. L. 112–40 amended section 2701 of act July 1, 1944, “as in effect for plan years beginning before January 1, 2014”, which was classified to section 300gg of this title prior to amendment and renumbering by Pub. L. 111–148. Section 242(a)(4) of Pub. L. 112–40 made identical amendment to section 2704 of act July 1, 1944, “as in effect for plan years beginning on or after January 1, 2014”, which is set out as this section. See 2011 Amendment note below. For effective date of renumbering by section 1201(2) of Pub. L. 111–148, see Effective Date of 2010 Amendment note below.
+Section 242(a)(3) of Pub. L. 112–40 amended section 2701 of act July 1, 1944, "as in effect for plan years beginning before January 1, 2014", which was classified to section 300gg of this title prior to amendment and renumbering by Pub. L. 111–148. Section 242(a)(4) of Pub. L. 112–40 made identical amendment to section 2704 of act July 1, 1944, "as in effect for plan years beginning on or after January 1, 2014", which is set out as this section. See 2011 Amendment note below. For effective date of renumbering by section 1201(2) of Pub. L. 111–148, see Effective Date of 2010 Amendment note below.
 
 #### Prior Provisions ####
 
@@ -304,21 +304,21 @@ Another prior section 2704 of act July 1, 1944, was successively renumbered by s
 
 #### Amendments ####
 
-**2011**—Subsec. (c)(2)(C). Pub. L. 112–40 substituted “January 1, 2014” for “February 13, 2011” in introductory provisions. See Codification note above.
+**2011**—Subsec. (c)(2)(C). Pub. L. 112–40 substituted "January 1, 2014" for "February 13, 2011" in introductory provisions. See Codification note above.
 
-**2010**—Pub. L. 111–148, §1201(2)(A), substituted “Prohibition of preexisting condition exclusions or other discrimination based on health status” for “Increased portability through limitation on preexisting condition exclusions” in section catchline, added subsec. (a), and struck out former subsec. (a) which related to limitation on preexisting condition exclusion period.
+**2010**—Pub. L. 111–148, §1201(2)(A), substituted "Prohibition of preexisting condition exclusions or other discrimination based on health status" for "Increased portability through limitation on preexisting condition exclusions" in section catchline, added subsec. (a), and struck out former subsec. (a) which related to limitation on preexisting condition exclusion period.
 
-Subsec. (c)(2)(A), (B). Pub. L. 111–148, §1563(c)(1)(A)(i), formerly §1562(c)(1)(A)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “group or individual health plan” for “group health plan”.
+Subsec. (c)(2)(A), (B). Pub. L. 111–148, §1563(c)(1)(A)(i), formerly §1562(c)(1)(A)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "group or individual health plan" for "group health plan".
 
-Subsec. (c)(2)(C). Pub. L. 111–344 substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
+Subsec. (c)(2)(C). Pub. L. 111–344 substituted "February 13, 2011" for "January 1, 2011" in introductory provisions.
 
-Subsec. (c)(3)(A), (B). Pub. L. 111–148, §1563(c)(1)(A)(ii)(I), formerly §1562(c)(1)(A)(ii)(I), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “group or individual health insurance” for “group health insurance”.
+Subsec. (c)(3)(A), (B). Pub. L. 111–148, §1563(c)(1)(A)(ii)(I), formerly §1562(c)(1)(A)(ii)(I), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "group or individual health insurance" for "group health insurance".
 
-Subsec. (c)(3)(D). Pub. L. 111–148, §1563(c)(1)(A)(ii)(II), formerly §1562(c)(1)(A)(ii)(II), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “individual or group” for “small or large” in introductory provisions.
+Subsec. (c)(3)(D). Pub. L. 111–148, §1563(c)(1)(A)(ii)(II), formerly §1562(c)(1)(A)(ii)(II), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "individual or group" for "small or large" in introductory provisions.
 
-Subsec. (d)(1) to (3). Pub. L. 111–148, §1563(c)(1)(B), formerly §1562(c)(1)(B), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “group or individual health insurance” for “group health insurance”.
+Subsec. (d)(1) to (3). Pub. L. 111–148, §1563(c)(1)(B), formerly §1562(c)(1)(B), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "group or individual health insurance" for "group health insurance".
 
-Subsec. (e)(1)(A). Pub. L. 111–148, §1563(c)(1)(C), formerly §1562(c)(1)(C), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “group or individual health insurance” for “group health insurance” in introductory provisions.
+Subsec. (e)(1)(A). Pub. L. 111–148, §1563(c)(1)(C), formerly §1562(c)(1)(C), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "group or individual health insurance" for "group health insurance" in introductory provisions.
 
 **2009**—Subsec. (c)(2)(C). Pub. L. 111–5 added subpar. (C).
 
@@ -346,4 +346,4 @@ Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child hea
 
 [<sup>2</sup> So in original.](#300gg-3_2)
 
-[<sup>3</sup> So in original. Probably should be followed by the word “Program”.](#300gg-3_3)
+[<sup>3</sup> So in original. Probably should be followed by the word "Program".](#300gg-3_3)

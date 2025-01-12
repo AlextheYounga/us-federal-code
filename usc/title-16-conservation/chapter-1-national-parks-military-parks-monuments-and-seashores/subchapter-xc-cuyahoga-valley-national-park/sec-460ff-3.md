@@ -38,12 +38,12 @@ Assistance under this subsection may include payments for technical aid.
 
 #### Amendments ####
 
-**2000**—Pub. L. 106–291 substituted “park” for “recreation area” wherever appearing.
+**2000**—Pub. L. 106–291 substituted "park" for "recreation area" wherever appearing.
 
 **1986**—Subsec. (c). Pub. L. 99–658 designated existing provision as par. (1) and added par. (2).
 
-**1978**—Subsec. (f). Pub. L. 95–625 inserted in introductory text “(or intergovernmental organization)” after “local government” in two places, and last sentence providing that assistance may include payments for technical aid.
+**1978**—Subsec. (f). Pub. L. 95–625 inserted in introductory text "(or intergovernmental organization)" after "local government" in two places, and last sentence providing that assistance may include payments for technical aid.
 
 #### Appropriations for Roads ####
 
-Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 996, as amended by Pub. L. 106–291, title I, §149(b), Oct. 11, 2000, 114 Stat. 956, provided in part that: “appropriations for maintenance and improvement of roads within the boundary of the Cuyahoga Valley National Park shall be available for such purposes without regard to whether title to such road rights-of-way is in the United States”.
+Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 996, as amended by Pub. L. 106–291, title I, §149(b), Oct. 11, 2000, 114 Stat. 956, provided in part that: "appropriations for maintenance and improvement of roads within the boundary of the Cuyahoga Valley National Park shall be available for such purposes without regard to whether title to such road rights-of-way is in the United States".

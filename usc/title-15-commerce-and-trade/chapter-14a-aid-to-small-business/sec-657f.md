@@ -28,15 +28,15 @@ Rules similar to the rules of paragraphs (5) and (6) of section 637(m) of this t
 
 #### (e) Contracting officer ####
 
-For purposes of this section, the term “contracting officer” has the meaning given such term in section 2101(1) of title 41.
+For purposes of this section, the term "contracting officer" has the meaning given such term in section 2101(1) of title 41.
 
 (Pub. L. 85–536, §2[36], as added Pub. L. 108–183, title III, §308, Dec. 16, 2003, 117 Stat. 2662.)
 
 #### Codification ####
 
-In subsec. (c), “chapter 85 of title 41” substituted for “the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c), "chapter 85 of title 41" substituted for "the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (e), “section 2101(1) of title 41” substituted for “section 27(f)(5) of the Office of Federal Procurement Policy Act (41 U.S.C. 423(f)(5))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (e), "section 2101(1) of title 41" substituted for "section 27(f)(5) of the Office of Federal Procurement Policy Act (41 U.S.C. 423(f)(5))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions ####
 

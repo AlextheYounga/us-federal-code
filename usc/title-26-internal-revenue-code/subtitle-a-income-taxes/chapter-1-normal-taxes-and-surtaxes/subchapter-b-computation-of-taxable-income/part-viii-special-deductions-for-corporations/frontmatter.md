@@ -26,11 +26,11 @@ Sec.
 
 #### Amendments ####
 
-**1990**—Pub. L. 101–508, title XI, §11801(b)(4), Nov. 5, 1990, 104 Stat. 1388–522, struck out item 250 “Certain payments to the National Railroad Passenger Corporation”.
+**1990**—Pub. L. 101–508, title XI, §11801(b)(4), Nov. 5, 1990, 104 Stat. 1388–522, struck out item 250 "Certain payments to the National Railroad Passenger Corporation".
 
 **1984**—Pub. L. 98–369, div. A, title I, §51(b), July 18, 1984, 98 Stat. 564, added item 246A.
 
-**1976**—Pub. L. 94–455, title XIX, §1901(b)(1)(AA), Oct. 4, 1976, 90 Stat. 1792, struck out item 242 “Partially tax-exempt interest”.
+**1976**—Pub. L. 94–455, title XIX, §1901(b)(1)(AA), Oct. 4, 1976, 90 Stat. 1792, struck out item 242 "Partially tax-exempt interest".
 
 **1970**—Pub. L. 91–518, title IX, §901(b), Oct. 30, 1970, 84 Stat. 1342, added item 250.
 

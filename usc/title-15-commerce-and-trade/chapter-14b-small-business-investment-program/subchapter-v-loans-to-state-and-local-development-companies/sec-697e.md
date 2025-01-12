@@ -122,7 +122,7 @@ If a qualified high loss reserve PCL fails to meet the requirement of subparagra
 
 #### (F) Qualified high loss reserve PCL ####
 
-The term “qualified high loss reserve PCL” means, with respect to any calendar year, any premier certified lender designated by the Administrator as a qualified high loss reserve PCL for such year. The Administrator shall not designate a company under the preceding sentence unless the Administrator determines that—
+The term "qualified high loss reserve PCL" means, with respect to any calendar year, any premier certified lender designated by the Administrator as a qualified high loss reserve PCL for such year. The Administrator shall not designate a company under the preceding sentence unless the Administrator determines that—
 
 (i) the amount of the loss reserve of the company is not less than $100,000;
 
@@ -132,7 +132,7 @@ The term “qualified high loss reserve PCL” means, with respect to any calend
 
 #### (G) Specified risk management benchmarks ####
 
-For purposes of this paragraph, the term “specified risk management benchmarks” means the following rates, as determined by the Administrator:
+For purposes of this paragraph, the term "specified risk management benchmarks" means the following rates, as determined by the Administrator:
 
 (i) Currency rate.
 
@@ -146,7 +146,7 @@ For purposes of this paragraph, the term “specified risk management benchmarks
 
 #### (H) Qualified independent auditor ####
 
-For purposes of this paragraph, the term “qualified independent auditor” means any auditor who—
+For purposes of this paragraph, the term "qualified independent auditor" means any auditor who—
 
 (i) is compensated by the qualified high loss reserve PCL;
 
@@ -156,11 +156,11 @@ For purposes of this paragraph, the term “qualified independent auditor” mea
 
 #### (I) PCLP loan ####
 
-For purposes of this paragraph, the term “PCLP loan” means any loan guaranteed under this section.
+For purposes of this paragraph, the term "PCLP loan" means any loan guaranteed under this section.
 
 #### (J) Eligible calendar quarter ####
 
-For purposes of this paragraph, the term “eligible calendar quarter” means—
+For purposes of this paragraph, the term "eligible calendar quarter" means—
 
 (i) the first calendar quarter that begins after the end of the 90-day period beginning with May 28, 2004; and
 
@@ -168,7 +168,7 @@ For purposes of this paragraph, the term “eligible calendar quarter” means�
 
 #### (K) Calendar quarter ####
 
-For purposes of this paragraph, the term “calendar quarter” means—
+For purposes of this paragraph, the term "calendar quarter" means—
 
 (i) the period which begins on January 1 and ends on March 31 of each year;
 
@@ -268,17 +268,17 @@ Not later than 1 year after October 22, 1994, and annually thereafter, the Admin
 
 #### Codification ####
 
-May 28, 2004, referred to in subsec. (c)(8)(C), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 108–232, which enacted subsec. (c)(8), to reflect the probable intent of Congress.
+May 28, 2004, referred to in subsec. (c)(8)(C), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 108–232, which enacted subsec. (c)(8), to reflect the probable intent of Congress.
 
-October 22, 1994, referred to in subsec. (j), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 103–403, which enacted this section, to reflect the probable intent of Congress.
+October 22, 1994, referred to in subsec. (j), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 103–403, which enacted this section, to reflect the probable intent of Congress.
 
 #### Amendments ####
 
-**2004**—Subsec. (b)(2)(C). Pub. L. 108–232, §3(b), inserted “(15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) of this section for such company)” before “; and”.
+**2004**—Subsec. (b)(2)(C). Pub. L. 108–232, §3(b), inserted "(15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) of this section for such company)" before "; and".
 
-Subsec. (b)(2)(D). Pub. L. 108–232, §3(c)(1), substituted “subsection (c)” for “subsection (c)(2)”.
+Subsec. (b)(2)(D). Pub. L. 108–232, §3(c)(1), substituted "subsection (c)" for "subsection (c)(2)".
 
-Subsec. (c)(5). Pub. L. 108–232, §3(c)(2), struck out “10 percent” after “the premier company's”.
+Subsec. (c)(5). Pub. L. 108–232, §3(c)(2), struck out "10 percent" after "the premier company's".
 
 Subsec. (c)(6). Pub. L. 108–232, §2, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
@@ -286,29 +286,29 @@ Subsec. (c)(7), (8). Pub. L. 108–232, §3(a), added pars. (7) and (8).
 
 **2000**—Pub. L. 106–554, §1(a)(9) [title III, §305], repealed Pub. L. 103–403, §217(b). See 1994 Amendment note below.
 
-Subsec. (a). Pub. L. 106–554, §1(a)(9) [title III, §306(1)], substituted “The” for “On a pilot program basis, the”.
+Subsec. (a). Pub. L. 106–554, §1(a)(9) [title III, §306(1)], substituted "The" for "On a pilot program basis, the".
 
 Subsecs. (d), (e). Pub. L. 106–554, §1(a)(9) [title III, §306(2), (5)], added heading and text of subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 106–554, §1(a)(9) [title III, §306(2), (3)], redesignated subsec. (e) as (f) and substituted “subsection (g)” for “subsection (f)”. Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 106–554, §1(a)(9) [title III, §306(2), (3)], redesignated subsec. (e) as (f) and substituted "subsection (g)" for "subsection (f)". Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 106–554, §1(a)(9) [title III, §306(2)], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 106–554, §1(a)(9) [title III, §306(2), (4)], redesignated subsec. (g) as (h) and substituted “subsection (g)” for “subsection (f)”. Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 106–554, §1(a)(9) [title III, §306(2), (4)], redesignated subsec. (g) as (h) and substituted "subsection (g)" for "subsection (f)". Former subsec. (h) redesignated (i).
 
 Subsecs. (i), (j). Pub. L. 106–554, §1(a)(9) [title III, §306(2)], redesignated subsecs. (h) and (i) as (i) and (j), respectively.
 
-**1997**—Subsec. (a). Pub. L. 105–135, §223(a)(1), struck out “not more than 15” before “certified development companies”.
+**1997**—Subsec. (a). Pub. L. 105–135, §223(a)(1), struck out "not more than 15" before "certified development companies".
 
-Subsec. (b)(2). Pub. L. 105–135, §223(a)(2)(A)(i), struck out “if such company” after “premier certified lender” in introductory provisions.
+Subsec. (b)(2). Pub. L. 105–135, §223(a)(2)(A)(i), struck out "if such company" after "premier certified lender" in introductory provisions.
 
 Subsec. (b)(2)(A), (B). Pub. L. 105–135, §223(a)(2)(A)(ii), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
-“(A) has been an active participant in the accredited lenders program during the 12-month period preceding the date on which the company submits an application under paragraph (1), except that, prior to January 1, 1996, the Administration may waive this requirement if the company is qualified to participate in the accredited lenders program;
+"(A) has been an active participant in the accredited lenders program during the 12-month period preceding the date on which the company submits an application under paragraph (1), except that, prior to January 1, 1996, the Administration may waive this requirement if the company is qualified to participate in the accredited lenders program;
 
-“(B) has a history of submitting to the Administration adequately analyzed debenture guarantee application packages; and”.
+"(B) has a history of submitting to the Administration adequately analyzed debenture guarantee application packages; and".
 
-Subsec. (b)(2)(C). Pub. L. 105–135, §223(a)(2)(A)(iii), inserted “if the company” before “agrees to assume” and substituted “; and” for period at end.
+Subsec. (b)(2)(C). Pub. L. 105–135, §223(a)(2)(A)(iii), inserted "if the company" before "agrees to assume" and substituted "; and" for period at end.
 
 Subsec. (b)(2)(D). Pub. L. 105–135, §223(a)(2)(A)(iv), added subpar. (D).
 
@@ -316,33 +316,33 @@ Subsec. (b)(3). Pub. L. 105–135, §223(a)(2)(B), added par. (3).
 
 Subsec. (c). Pub. L. 105–135, §223(a)(3), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows:
 
-“(1) Establishment.—A company designated as a premier certified lender shall establish a loss reserve for financings approved pursuant to this section.
+"(1) Establishment.—A company designated as a premier certified lender shall establish a loss reserve for financings approved pursuant to this section.
 
-“(2) Amount.—The amount of the loss reserve shall be based upon the greater of—
+"(2) Amount.—The amount of the loss reserve shall be based upon the greater of—
 
-“(A) the historic loss rate on debentures issued by such company; or
+"(A) the historic loss rate on debentures issued by such company; or
 
-“(B) 10 percent of the amount of the company's exposure as determined under subsection (b)(2)(C) of this section.
+"(B) 10 percent of the amount of the company's exposure as determined under subsection (b)(2)(C) of this section.
 
-“(3) Assets.—The loss reserve shall be comprised of segregated assets of the company which shall be securitized in favor of the Administration.
+"(3) Assets.—The loss reserve shall be comprised of segregated assets of the company which shall be securitized in favor of the Administration.
 
-“(4) Contributions.—The company shall make contributions to the loss reserve in the following amounts and at the following intervals:
+"(4) Contributions.—The company shall make contributions to the loss reserve in the following amounts and at the following intervals:
 
-“(A) 50 percent when a debenture is closed.
+"(A) 50 percent when a debenture is closed.
 
-“(B) 25 percent not later than 1 year after a debenture is closed.
+"(B) 25 percent not later than 1 year after a debenture is closed.
 
-“(C) 25 percent not later than 2 years after a debenture is closed.”
+"(C) 25 percent not later than 2 years after a debenture is closed."
 
-Subsec. (d)(1). Pub. L. 105–135, §223(a)(4), substituted “to approve, authorize, close, service, foreclose, litigate (except that the Administration may monitor the conduct of any such litigation to which a premier certified lender is a party), and liquidate loans” for “to approve loans”.
+Subsec. (d)(1). Pub. L. 105–135, §223(a)(4), substituted "to approve, authorize, close, service, foreclose, litigate (except that the Administration may monitor the conduct of any such litigation to which a premier certified lender is a party), and liquidate loans" for "to approve loans".
 
-Subsec. (f). Pub. L. 105–135, §223(a)(5), substituted “certified development company” for “State or local development company” in introductory provisions.
+Subsec. (f). Pub. L. 105–135, §223(a)(5), substituted "certified development company" for "State or local development company" in introductory provisions.
 
-Subsec. (g). Pub. L. 105–135, §223(a)(6), substituted “revocation” for “designation” in heading.
+Subsec. (g). Pub. L. 105–135, §223(a)(6), substituted "revocation" for "designation" in heading.
 
-Subsec. (h). Pub. L. 105–135, §223(a)(7), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “Not later than 180 days after October 22, 1994, the Administration shall promulgate regulations to carry out this section.”
+Subsec. (h). Pub. L. 105–135, §223(a)(7), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: "Not later than 180 days after October 22, 1994, the Administration shall promulgate regulations to carry out this section."
 
-Subsec. (i)(3). Pub. L. 105–135, §223(a)(8), substituted “other lenders, specifically comparing default rates and recovery rates on liquidations” for “other lenders”.
+Subsec. (i)(3). Pub. L. 105–135, §223(a)(8), substituted "other lenders, specifically comparing default rates and recovery rates on liquidations" for "other lenders".
 
 **1994**—Pub. L. 103–403, §217(b), which directed repeal of this section effective Oct. 1, 2000, and was repealed by section 1(a)(9) [title III, §305] of Pub. L. 106–554, was not executed to reflect the probable intent of Congress and the amendments to this section by section 1(a)(9) [title III, §306] of Pub. L. 106–554. See Termination Date note below.
 
@@ -360,10 +360,10 @@ Section 217(b) of Pub. L. 103–403, as amended by Pub. L. 105–135, title II, 
 
 #### Regulations ####
 
-Pub. L. 105–135, title II, §223(b), Dec. 2, 1997, 111 Stat. 2606, provided that: “The Administrator shall—
+Pub. L. 105–135, title II, §223(b), Dec. 2, 1997, 111 Stat. 2606, provided that: "The Administrator shall—
 
-“(1) not later than 150 days after the date of enactment of this Act [Dec. 2, 1997], promulgate regulations to carry out the amendments made by subsection (a) [amending this section]; and
+"(1) not later than 150 days after the date of enactment of this Act [Dec. 2, 1997], promulgate regulations to carry out the amendments made by subsection (a) [amending this section]; and
 
-“(2) not later than 180 days after the date of enactment of this Act, issue program guidelines and fully implement the amendments made by subsection (a).”
+"(2) not later than 180 days after the date of enactment of this Act, issue program guidelines and fully implement the amendments made by subsection (a)."
 
-[<sup>1</sup> So in original. Probably should be preceded by “if”.](#697e_1)
+[<sup>1</sup> So in original. Probably should be preceded by "if".](#697e_1)

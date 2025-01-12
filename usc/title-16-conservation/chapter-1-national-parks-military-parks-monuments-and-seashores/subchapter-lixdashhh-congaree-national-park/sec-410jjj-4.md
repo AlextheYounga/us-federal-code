@@ -32,8 +32,8 @@ Subsec. (c). Pub. L. 100–524, §6(b), added subsec. (c).
 
 #### Change of Name ####
 
-In subsecs. (b) and (c), “park” substituted for “monument” pursuant to Pub. L. 108–108, §135, which is set out as a note under section 410jjj of this title and which redesignated the Congaree Swamp National Monument as the Congaree National Park.
+In subsecs. (b) and (c), "park" substituted for "monument" pursuant to Pub. L. 108–108, §135, which is set out as a note under section 410jjj of this title and which redesignated the Congaree Swamp National Monument as the Congaree National Park.
 
-Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
+Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977.
 
 Committee on Interior and Insular Affairs of House of Representatives changed to Committee on Natural Resources of House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.

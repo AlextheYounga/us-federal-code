@@ -6,7 +6,7 @@ There is hereby authorized to be appropriated, out of any money in the Treasury 
 
 #### Amendments ####
 
-**1960**—Pub. L. 86–624 substituted “State of Hawaii” for “Hawaiian Islands” and for “Territory of Hawaii”.
+**1960**—Pub. L. 86–624 substituted "State of Hawaii" for "Hawaiian Islands" and for "Territory of Hawaii".
 
 #### Transfer of Functions ####
 

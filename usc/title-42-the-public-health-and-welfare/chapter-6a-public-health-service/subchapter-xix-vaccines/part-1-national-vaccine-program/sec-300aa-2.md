@@ -50,31 +50,31 @@ A prior section 2102 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments ####
 
-**2003**—Subsec. (a)(7). Pub. L. 108–173 substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration”.
+**2003**—Subsec. (a)(7). Pub. L. 108–173 substituted "Centers for Medicare & Medicaid Services" for "Health Care Financing Administration".
 
-**1992**—Subsec. (a)(1), (3), (6), (7). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+**1992**—Subsec. (a)(1), (3), (6), (7). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 
 #### Grants for Research on Vaccine Against Valley Fever ####
 
 Pub. L. 109–432, div. B, title IV, §402, Dec. 20, 2006, 120 Stat. 2994, provided that:
 
-“(a) In General.—In supporting research on the development of vaccines against human diseases, the Secretary of Health and Human Services shall make grants for the purpose of conducting research toward the development of a vaccine against coccidioidomycosis (commonly known as Valley Fever).
+"(a) In General.—In supporting research on the development of vaccines against human diseases, the Secretary of Health and Human Services shall make grants for the purpose of conducting research toward the development of a vaccine against coccidioidomycosis (commonly known as Valley Fever).
 
-“(b) Sunset.—No grant may be made under subsection (a) on or after October 1, 2012. The preceding sentence does not have any legal effect on payments under grants for which amounts appropriated under subsection (c) were obligated prior to such date.
+"(b) Sunset.—No grant may be made under subsection (a) on or after October 1, 2012. The preceding sentence does not have any legal effect on payments under grants for which amounts appropriated under subsection (c) were obligated prior to such date.
 
-“(c) Authorization of Appropriations.—For the purpose of making grants under subsection (a), there are authorized to be appropriated $40,000,000 for the period of fiscal years 2007 through 2012.”
+"(c) Authorization of Appropriations.—For the purpose of making grants under subsection (a), there are authorized to be appropriated $40,000,000 for the period of fiscal years 2007 through 2012."
 
 #### Demonstration Projects for Outreach Programs ####
 
 Pub. L. 101–502, §2(b), Nov. 3, 1990, 104 Stat. 1285, provided that:
 
-“(1) In general.—The Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control, may make grants to public and nonprofit private entities for the purpose of carrying out demonstration projects—
+"(1) In general.—The Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control, may make grants to public and nonprofit private entities for the purpose of carrying out demonstration projects—
 
-“(A) to provide, without charge, immunizations against vaccine-preventable diseases to children not more than 2 years of age who reside in communities whose population includes a significant number of low-income individuals; and
+"(A) to provide, without charge, immunizations against vaccine-preventable diseases to children not more than 2 years of age who reside in communities whose population includes a significant number of low-income individuals; and
 
-“(B) to provide outreach services to identify such children and to inform the parents (or other guardians) of the children of the availability from the entities of the immunizations specified in subparagraph (A).
+"(B) to provide outreach services to identify such children and to inform the parents (or other guardians) of the children of the availability from the entities of the immunizations specified in subparagraph (A).
 
-“(2) Authorization of appropriations.—For the purpose of carrying out paragraph (1), there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1991 through 1993.”
+"(2) Authorization of appropriations.—For the purpose of carrying out paragraph (1), there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1991 through 1993."
 
 [Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.]
 
@@ -82,16 +82,16 @@ Pub. L. 101–502, §2(b), Nov. 3, 1990, 104 Stat. 1285, provided that:
 
 Pub. L. 101–502, §3, Nov. 3, 1990, 104 Stat. 1285, provided that:
 
-“(a) In General.—The Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control, shall acquire and maintain a supply of vaccines sufficient to provide vaccinations throughout a 6-month period. Any proceeds received by the Secretary from the sale of vaccines from such supply shall be available to the Secretary for the purpose of purchasing vaccines for the supply. Such proceeds shall remain available for such purpose until expended.
+"(a) In General.—The Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control, shall acquire and maintain a supply of vaccines sufficient to provide vaccinations throughout a 6-month period. Any proceeds received by the Secretary from the sale of vaccines from such supply shall be available to the Secretary for the purpose of purchasing vaccines for the supply. Such proceeds shall remain available for such purpose until expended.
 
-“(b) Authorization of Appropriations.—For the purpose of carrying out subsection (a), there are authorized to be appropriated $5,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995.”
+"(b) Authorization of Appropriations.—For the purpose of carrying out subsection (a), there are authorized to be appropriated $5,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 through 1995."
 
 [Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.]
 
 Pub. L. 100–177, title I, §110(b), Dec. 1, 1987, 101 Stat. 991, provided that:
 
-“(1) In general.—The Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control, shall acquire and maintain a supply of vaccines sufficient to provide vaccinations throughout a 6-month period.
+"(1) In general.—The Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control, shall acquire and maintain a supply of vaccines sufficient to provide vaccinations throughout a 6-month period.
 
-“(2) Authorization of Appropriations.—There are authorized to be appropriated to carry out paragraph (1) $5,000,000 for fiscal year 1988, and such sums as may be necessary for each of the fiscal years 1989 and 1990.”
+"(2) Authorization of Appropriations.—There are authorized to be appropriated to carry out paragraph (1) $5,000,000 for fiscal year 1988, and such sums as may be necessary for each of the fiscal years 1989 and 1990."
 
 [Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.]

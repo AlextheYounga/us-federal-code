@@ -2,9 +2,9 @@
 
 #### (a) In general ####
 
-(1) In order to provide a center for the preservation, interpretation, and perpetuation of traditional native Hawaiian activities and culture, and to demonstrate historic land use patterns as well as to provide a needed resource for the education, enjoyment, and appreciation of such traditional native Hawaiian activities and culture by local residents and visitors, there is established the Kaloko-Honokōhau National Historical Park (hereinafter in this section referred to as the “park”) in Hawaii comprising approximately one thousand three hundred acres as generally depicted on the map entitled “Kaloko-Honokōhau National Historical Park,” numbered KHN–80,000, and dated May 1978.
+(1) In order to provide a center for the preservation, interpretation, and perpetuation of traditional native Hawaiian activities and culture, and to demonstrate historic land use patterns as well as to provide a needed resource for the education, enjoyment, and appreciation of such traditional native Hawaiian activities and culture by local residents and visitors, there is established the Kaloko-Honokōhau National Historical Park (hereinafter in this section referred to as the "park") in Hawaii comprising approximately one thousand three hundred acres as generally depicted on the map entitled "Kaloko-Honokōhau National Historical Park," numbered KHN–80,000, and dated May 1978.
 
-(2) The boundaries of the park are modified to include lands and interests therein comprised of Parcels 1 and 2 totaling 2.14 acres, identified as “Tract A” on the map entitled “Kaloko-Honokōhau National Historical Park Proposed Boundary Adjustment”, numbered PWR (PISO) 466/82,043 and dated April 2002.
+(2) The boundaries of the park are modified to include lands and interests therein comprised of Parcels 1 and 2 totaling 2.14 acres, identified as "Tract A" on the map entitled "Kaloko-Honokōhau National Historical Park Proposed Boundary Adjustment", numbered PWR (PISO) 466/82,043 and dated April 2002.
 
 (3) The maps referred to in this subsection shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
@@ -14,7 +14,7 @@ Except for any lands owned by the State of Hawaii or its subdivisions, which may
 
 #### (c) Administration; applicable provisions ####
 
-The Secretary shall administer the park in accordance with this section and the provisions of law generally applicable to units of the national park system, including sections 1, 2, 3, 4, and 461 to 467 of this title, and generally in accordance with the guidelines provided in the study report entitled “Kaloko-Honokōhau” prepared by the Honokohau Study Advisory Commission and the National Park Service, May 1974, GPO 690–514.
+The Secretary shall administer the park in accordance with this section and the provisions of law generally applicable to units of the national park system, including sections 1, 2, 3, 4, and 461 to 467 of this title, and generally in accordance with the guidelines provided in the study report entitled "Kaloko-Honokōhau" prepared by the Honokohau Study Advisory Commission and the National Park Service, May 1974, GPO 690–514.
 
 #### (d) Activities and agreements; native accommodations; cooperative marine management agreement; fishing, shoreline food gathering and small boat harbor activities: regulation; land and water management agreements ####
 
@@ -54,34 +54,34 @@ There are hereby authorized to be appropriated not to exceed $25,000,000 for acq
 
 #### References in Text ####
 
-Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c), was in the original a reference to the act “approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 461–467)”. Act Aug. 25, 1916, known as the “National Park Service Organic Act”, is classified to sections 1, 2, 3, and 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
+Sections 1, 2, 3, and 4 of this title, referred to in subsec. (c), was in the original a reference to the act "approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 461–467)". Act Aug. 25, 1916, known as the "National Park Service Organic Act", is classified to sections 1, 2, 3, and 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
 
 #### Amendments ####
 
-**2009**—Subsec. (f)(7). Pub. L. 111–11, which directed substitution of “on December 31, 2018” for “ten years after the date of enactment of the Na Hoa Pili O Kaloko-Honokohau Re-establishment Act of 1996”, was executed by making the substitution for “ten years after the date of enactment of the Na Hoa Pili Kaloko-Honokōhau Re-establishment Act of 1996”, to reflect the probable intent of Congress.
+**2009**—Subsec. (f)(7). Pub. L. 111–11, which directed substitution of "on December 31, 2018" for "ten years after the date of enactment of the Na Hoa Pili O Kaloko-Honokohau Re-establishment Act of 1996", was executed by making the substitution for "ten years after the date of enactment of the Na Hoa Pili Kaloko-Honokōhau Re-establishment Act of 1996", to reflect the probable intent of Congress.
 
-**2003**—Subsec. (a). Pub. L. 108–142 designated existing provisions as par. (1), substituted “1978.” for “1978, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.”, and added pars. (2) and (3).
+**2003**—Subsec. (a). Pub. L. 108–142 designated existing provisions as par. (1), substituted "1978." for "1978, which shall be on file and available for public inspection in the appropriate offices of the National Park Service, Department of the Interior.", and added pars. (2) and (3).
 
 **2000**—Pub. L. 106–510, §3(c)(1)(A), amended section catchline.
 
-Subsecs. (a), (c), (f)(1), (7). Pub. L. 106–510, §3(c)(1)(B), substituted “Kaloko-Honokōhau” for “Kaloko-Honokohau” wherever appearing.
+Subsecs. (a), (c), (f)(1), (7). Pub. L. 106–510, §3(c)(1)(B), substituted "Kaloko-Honokōhau" for "Kaloko-Honokohau" wherever appearing.
 
-**1996**—Subsec. (f)(7). Pub. L. 104–333 substituted “the date of enactment of the Na Hoa Pili Kaloko-Honokohau Re-establishment Act of 1996” for “the date of enactment of this Act”.
+**1996**—Subsec. (f)(7). Pub. L. 104–333 substituted "the date of enactment of the Na Hoa Pili Kaloko-Honokohau Re-establishment Act of 1996" for "the date of enactment of this Act".
 
-**1979**—Subsec. (f)(1). Pub. L. 96–87 substituted “Na Hoa Pili O Kaloko-Honokohau” for “Kaloko-Honokohau Na Hoa Pili O Kaloko-Honokohau”.
+**1979**—Subsec. (f)(1). Pub. L. 96–87 substituted "Na Hoa Pili O Kaloko-Honokohau" for "Kaloko-Honokohau Na Hoa Pili O Kaloko-Honokohau".
 
 #### Change of Name ####
 
-Pub. L. 106–510, §3(c)(2), Nov. 13, 2000, 114 Stat. 2364, provided that: “Any reference in any law (other than this Act [see Short Title of 2000 Amendments note set out under section 1 of this title]), regulation, document, record, map, or other paper of the United States to ‘Kaloko-Honokohau National Historical Park’ shall be considered a reference to ‘Kaloko-Honokōhau National Historical Park’.”
+Pub. L. 106–510, §3(c)(2), Nov. 13, 2000, 114 Stat. 2364, provided that: "Any reference in any law (other than this Act [see Short Title of 2000 Amendments note set out under section 1 of this title]), regulation, document, record, map, or other paper of the United States to 'Kaloko-Honokohau National Historical Park' shall be considered a reference to 'Kaloko-Honokōhau National Historical Park'."
 
 #### Short Title of 2003 Amendment ####
 
-Pub. L. 108–142, §1, Dec. 2, 2003, 117 Stat. 1875, provided that: “This Act [amending this section] may be cited as the ‘Kaloko-Honokōhau National Historical Park Addition Act of 2003’.”
+Pub. L. 108–142, §1, Dec. 2, 2003, 117 Stat. 1875, provided that: "This Act [amending this section] may be cited as the 'Kaloko-Honokōhau National Historical Park Addition Act of 2003'."
 
 #### Extension of Kaloko-Honokōhau Advisory Commission ####
 
-Section 503(a) of title V of div. I of Pub. L. 104–333, as amended by Pub. L. 106–510, §3(c)(2), Nov. 13, 2000, 114 Stat. 2364, provided that: “Notwithstanding section 505(f)(7) of Public Law 95–625 (16 U.S.C. 396d(f)(7)), the Na Hoa Pili O Kaloko-Honokōhau, the Advisory Commission for Kaloko-Honokōhau National Historical Park, is hereby re-established in accordance with section 505(f), as amended by paragraph (2) of this subsection [probably should be ‘subsection (b) of this section’, amending this section].”
+Section 503(a) of title V of div. I of Pub. L. 104–333, as amended by Pub. L. 106–510, §3(c)(2), Nov. 13, 2000, 114 Stat. 2364, provided that: "Notwithstanding section 505(f)(7) of Public Law 95–625 (16 U.S.C. 396d(f)(7)), the Na Hoa Pili O Kaloko-Honokōhau, the Advisory Commission for Kaloko-Honokōhau National Historical Park, is hereby re-established in accordance with section 505(f), as amended by paragraph (2) of this subsection [probably should be 'subsection (b) of this section', amending this section]."
 
-#### “Secretary” Defined ####
+#### "Secretary" Defined ####
 
 Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.

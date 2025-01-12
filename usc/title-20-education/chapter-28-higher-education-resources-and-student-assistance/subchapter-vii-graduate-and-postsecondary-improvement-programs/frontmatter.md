@@ -32,7 +32,7 @@ Section 1132a–6, Pub. L. 89–329, title VII, §707, as added Pub. L. 92–318
 
 Section 1132a–7, Pub. L. 89–329, title VII, §708, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 293, related to the disapproval of State plans and to judicial review.
 
-A prior section 1132b, Pub. L. 89–329, title VII, §711, as added Pub. L. 102–325, title VII, §703, July 23, 1992, 106 Stat. 738, provided that former part A of this subchapter could be cited as the “Higher Education Facilities Act of 1992”, prior to the general amendment of this subchapter by Pub. L. 105–244.
+A prior section 1132b, Pub. L. 89–329, title VII, §711, as added Pub. L. 102–325, title VII, §703, July 23, 1992, 106 Stat. 738, provided that former part A of this subchapter could be cited as the "Higher Education Facilities Act of 1992", prior to the general amendment of this subchapter by Pub. L. 105–244.
 
 Another prior section 1132b, Pub. L. 89–329, title VII, §711, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1522, related to State plans for construction, reconstruction, and renovation of undergraduate academic facilities, prior to the general amendment of part A of this subchapter by Pub. L. 102–325.
 
@@ -132,7 +132,7 @@ Another prior section 1132d–4, Pub. L. 89–329, title VII, §765, as added Pu
 
 Prior sections 1132d–5 and 1132d–11 were omitted in the general amendment of this subchapter by Pub. L. 96–374.
 
-Section 1132d–5, Pub. L. 89–329, title VII, §766, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 300, defined “major disaster” and “public institution of higher education”.
+Section 1132d–5, Pub. L. 89–329, title VII, §766, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 300, defined "major disaster" and "public institution of higher education".
 
 Section 1132d–11, Pub. L. 89–329, title VII, §771, as added Pub. L. 94–482, title I, §162(i), Oct. 12, 1976, 90 Stat. 2157; amended Pub. L. 95–43, §1(a)(43), June 15, 1977, 91 Stat. 217, provided for a program of grants or loans for reconstruction or renovation of academic facilities.
 
@@ -148,7 +148,7 @@ Another prior section 1132e–1, Pub. L. 89–329, title VII, §782, as added Pu
 
 Prior sections 1132f to 1132f–9 were repealed by Pub. L. 104–208, div. A, title I, §101(e) [title VI, §603(d)], Sept. 30, 1996, 110 Stat. 3009–233, 3009–293.
 
-Section 1132f, Pub. L. 89–329, title VII, §751, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1528, related to congressional declaration of purpose of this part to authorize participation of United States Government and Student Loan Marketing Association in private, for profit corporation known as College Construction Loan Insurance Association, and defined “education facilities purpose”.
+Section 1132f, Pub. L. 89–329, title VII, §751, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1528, related to congressional declaration of purpose of this part to authorize participation of United States Government and Student Loan Marketing Association in private, for profit corporation known as College Construction Loan Insurance Association, and defined "education facilities purpose".
 
 Section 1132f–1, Pub. L. 89–329, title VII, §752, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1529; amended Pub. L. 102–325, title VII, §707(b), July 23, 1992, 106 Stat. 753, related to criteria used by Corporation for providing guarantees and insurance on obligations issued for education facilities purposes.
 

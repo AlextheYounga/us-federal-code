@@ -20,15 +20,15 @@ Whoever conspires with another to accomplish any of the acts made unlawful by th
 
 All the general penal statutes relating to crimes and offenses against the United States shall apply with respect to the Corporation, its property, money, contracts and agreements, employees, and operations: *Provided*, That such general penal statutes shall not apply to the extent that they relate to crimes and offenses punishable under subsections (a), (b), (c), and (d) of this section: *Provided further*, That sections 431 and 432 of title 18 shall not apply to contracts or agreements of a kind which the Corporation may enter into with farmers participating in a program of the Corporation.
 
-#### (f) Use of words “Commodity Credit Corporation” ####
+#### (f) Use of words "Commodity Credit Corporation" ####
 
-No individual, association, partnership, or corporation shall use the words “Commodity Credit Corporation” or any combination of the same, as the name or a part thereof under which he or it shall do or purport to do business. Every individual, partnership, association, or corporation violating this prohibition shall be guilty of a misdemeanor and shall be punished by a fine of not more than $1,000 or by imprisonment for not more than one year, or both.
+No individual, association, partnership, or corporation shall use the words "Commodity Credit Corporation" or any combination of the same, as the name or a part thereof under which he or it shall do or purport to do business. Every individual, partnership, association, or corporation violating this prohibition shall be guilty of a misdemeanor and shall be punished by a fine of not more than $1,000 or by imprisonment for not more than one year, or both.
 
 (June 29, 1948, ch. 704, §15, 62 Stat. 1074; June 7, 1949, ch. 175, §6, 63 Stat. 157; Aug. 1, 1956, ch. 815, §2, 70 Stat. 783.)
 
 #### Codification ####
 
-In subsec. (e), “sections 431 and 432 of title 18” substituted for “sections 114 and 115 of the Act of March 4, 1909, as amended (18 U.S.C., 1940 edition, 204, 205)” on authority of act June 25, 1948, ch. 645, 62 Stat. 683, the first section of which enacted Title 18, Crimes and Criminal Procedure.
+In subsec. (e), "sections 431 and 432 of title 18" substituted for "sections 114 and 115 of the Act of March 4, 1909, as amended (18 U.S.C., 1940 edition, 204, 205)" on authority of act June 25, 1948, ch. 645, 62 Stat. 683, the first section of which enacted Title 18, Crimes and Criminal Procedure.
 
 #### Amendments ####
 

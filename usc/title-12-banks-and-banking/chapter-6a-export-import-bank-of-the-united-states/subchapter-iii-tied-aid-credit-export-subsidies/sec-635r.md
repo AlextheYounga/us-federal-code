@@ -28,22 +28,22 @@ Funds available to carry out chapter 4 of part II of the Foreign Assistance Act 
 
 The Foreign Assistance Act of 1961, referred to in subsec. (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified generally to part IV (§2346 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
-This subchapter, referred to in subsec. (d), was in the original “this Act” and was translated as meaning the Trade and Development Enhancement Act of 1983, part C (§§641–647, 650) of title VI of Pub. L. 98–181, title I, Nov. 30, 1983, 97 Stat. 1263, which enacted this subchapter and section 1671g of Title 19, Customs Duties, and amended sections 1671a and 1671b of Title 19. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This subchapter, referred to in subsec. (d), was in the original "this Act" and was translated as meaning the Trade and Development Enhancement Act of 1983, part C (§§641–647, 650) of title VI of Pub. L. 98–181, title I, Nov. 30, 1983, 97 Stat. 1263, which enacted this subchapter and section 1671g of Title 19, Customs Duties, and amended sections 1671a and 1671b of Title 19. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Amendments ####
 
-**1992**—Pub. L. 102–549 substituted “Development Agency” for “Development Program” in section catchline and wherever appearing in subsecs. (a), (c), and (d).
+**1992**—Pub. L. 102–549 substituted "Development Agency" for "Development Program" in section catchline and wherever appearing in subsecs. (a), (c), and (d).
 
 **1988**—Pub. L. 100–418, §2204(c)(1)(B)(i), in section catchline, substituted reference to program administered by Trade and Development Program for reference to program in Agency for International Development.
 
-Subsec. (a). Pub. L. 100–418, §2204(c)(1)(B)(ii)(I), substituted “Director of the Trade and Development Program shall carry out” for “Administrator of the Agency for International Development shall establish within the Agency”.
+Subsec. (a). Pub. L. 100–418, §2204(c)(1)(B)(ii)(I), substituted "Director of the Trade and Development Program shall carry out" for "Administrator of the Agency for International Development shall establish within the Agency".
 
-Subsec. (a)(1). Pub. L. 100–418, §2204(c)(1)(B)(ii)(II), (III), substituted “made available under subsection (d) of this section” for “offered by the Agency for International Development” and “Trade and Development Program” for “Agency for International Development”.
+Subsec. (a)(1). Pub. L. 100–418, §2204(c)(1)(B)(ii)(II), (III), substituted "made available under subsection (d) of this section" for "offered by the Agency for International Development" and "Trade and Development Program" for "Agency for International Development".
 
-Subsec. (a)(2). Pub. L. 100–418, §2204(c)(1)(B)(ii)(IV), (V), substituted “made available under subsection (d) of this section” for “offered by the Agency for International Development” and “Trade and Development Program” for “Agency for International Development”.
+Subsec. (a)(2). Pub. L. 100–418, §2204(c)(1)(B)(ii)(IV), (V), substituted "made available under subsection (d) of this section" for "offered by the Agency for International Development" and "Trade and Development Program" for "Agency for International Development".
 
-Subsec. (c)(1). Pub. L. 100–418, §2204(c)(1)(B)(iii)(I), which directed that par. (1) be amended by striking out “of the Agency for International Development” after “Funds”, was executed by striking out “of the agency for International Development”, to reflect the probable intent of Congress.
+Subsec. (c)(1). Pub. L. 100–418, §2204(c)(1)(B)(iii)(I), which directed that par. (1) be amended by striking out "of the Agency for International Development" after "Funds", was executed by striking out "of the agency for International Development", to reflect the probable intent of Congress.
 
-Subsec. (c)(2). Pub. L. 100–418, §2204(c)(1)(B)(iii)(II), substituted “Director of the Trade and Development Program” for “Administrator of the Agency for International Development”.
+Subsec. (c)(2). Pub. L. 100–418, §2204(c)(1)(B)(iii)(II), substituted "Director of the Trade and Development Program" for "Administrator of the Agency for International Development".
 
-Subsec. (d). Pub. L. 100–418, §2204(c)(1)(B)(iv), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Administrator of the Agency for International Development may draw on Economic Support Funds allocated for Commodity Import Programs to finance a tied aid credit activity.”
+Subsec. (d). Pub. L. 100–418, §2204(c)(1)(B)(iv), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "The Administrator of the Agency for International Development may draw on Economic Support Funds allocated for Commodity Import Programs to finance a tied aid credit activity."

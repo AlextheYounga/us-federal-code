@@ -2,7 +2,7 @@
 
 #### (a) Definition of electric utility or person ####
 
-In this section, the term “electric utility or person” means an electric utility or person that—
+In this section, the term "electric utility or person" means an electric utility or person that—
 
 (1) as of August 8, 2005, holds firm transmission rights pursuant to contract or by reason of ownership of transmission facilities; and
 

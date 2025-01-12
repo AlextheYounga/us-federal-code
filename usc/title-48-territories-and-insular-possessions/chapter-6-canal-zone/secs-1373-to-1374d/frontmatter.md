@@ -22,7 +22,7 @@ Section 1374, acts July 24, 1947, ch. 308, §1, 61 Stat. 415; Sept. 26, 1950, ch
 
 Section 1374a, acts July 24, 1947, ch. 308, §2, 61 Stat. 415; Sept. 26, 1950, ch. 1049, §2(a)(2), 64 Stat. 1038, related to transfer of pension fund assets of Panama Canal Railroad Company.
 
-Section 1374b, acts July 24, 1947, ch. 308, §3, 61 Stat. 416; Sept. 26, 1950, ch. 1049, §2(a)(2), 64 Stat. 1038, related to Panama Canal Railroad Company employees’ accounts in civil service fund.
+Section 1374b, acts July 24, 1947, ch. 308, §3, 61 Stat. 416; Sept. 26, 1950, ch. 1049, §2(a)(2), 64 Stat. 1038, related to Panama Canal Railroad Company employees' accounts in civil service fund.
 
 Section 1374c, acts July 24, 1947, ch. 308, §4, 61 Stat. 416; Sept. 26, 1950, ch. 1049, §2(a)(2), 64 Stat. 1038, related to redeposit of Panama Canal Railroad Company contribution funds.
 

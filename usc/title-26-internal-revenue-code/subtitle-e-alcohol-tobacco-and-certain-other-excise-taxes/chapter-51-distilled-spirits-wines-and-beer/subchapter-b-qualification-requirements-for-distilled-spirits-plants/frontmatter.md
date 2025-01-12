@@ -34,6 +34,6 @@ A prior subchapter B, Distilleries, consisted of part I, Establishment, part II,
 
 **1980**—Pub. L. 96–223, title II, §232(e)(2)(F), Apr. 2, 1980, 94 Stat. 280, added item 5181 and redesignated former item 5181 as 5182.
 
-**1979**—Pub. L. 96–39, title VIII, §807(b)(4), July 26, 1979, 93 Stat. 290, substituted “Bonds” for “Qualification bonds” in item 5173, struck out item 5174 “Withdrawal bonds”, and substituted “Distilled spirits plants” for “Premises of distilled spirits plants” in item 5178.
+**1979**—Pub. L. 96–39, title VIII, §807(b)(4), July 26, 1979, 93 Stat. 290, substituted "Bonds" for "Qualification bonds" in item 5173, struck out item 5174 "Withdrawal bonds", and substituted "Distilled spirits plants" for "Premises of distilled spirits plants" in item 5178.
 
 [<sup>1</sup> So in original. Does not conform to section catchline.](#SubchapterB_1)

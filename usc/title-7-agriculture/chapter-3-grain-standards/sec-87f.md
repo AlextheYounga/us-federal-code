@@ -32,17 +32,17 @@ The United States district courts, the District Court of Guam, the District Cour
 
 #### Amendments ####
 
-**1994**—Subsecs. (a) to (e). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
+**1994**—Subsecs. (a) to (e). Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
 
-**1993**—Subsec. (e). Pub. L. 103–156, §12(o), which directed amendment of “Section 17(e)” by substituting “the power of the person” for “his power”, without specifying the name of the Act being amended, was executed to this section, which is section 17 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+**1993**—Subsec. (e). Pub. L. 103–156, §12(o), which directed amendment of "Section 17(e)" by substituting "the power of the person" for "his power", without specifying the name of the Act being amended, was executed to this section, which is section 17 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Pub. L. 103–156, §10, substituted “imprisonment for not more than 1 year or a fine of not more than $10,000 or both the imprisonment and fine” for “the penalties set forth in subsection (a) of section 87c of this title”.
+Pub. L. 103–156, §10, substituted "imprisonment for not more than 1 year or a fine of not more than $10,000 or both the imprisonment and fine" for "the penalties set forth in subsection (a) of section 87c of this title".
 
-**1976**—Subsec. (a). Pub. L. 94–582, §19(a), (b), substituted “Administrator” for “Secretary” in two places and inserted “by the Administrator” after “under investigation”, respectively.
+**1976**—Subsec. (a). Pub. L. 94–582, §19(a), (b), substituted "Administrator" for "Secretary" in two places and inserted "by the Administrator" after "under investigation", respectively.
 
-Subsecs. (b) to (d). Pub. L. 94–582, §19(a), substituted “Administrator” for “Secretary” in subsecs. (b) to (d).
+Subsecs. (b) to (d). Pub. L. 94–582, §19(a), substituted "Administrator" for "Secretary" in subsecs. (b) to (d).
 
-Subsec. (e). Pub. L. 94–582, §19(a), (c), substituted “Administrator” for “Secretary” and inserted “subsection (a) of” before “section 87c of this title”.
+Subsec. (e). Pub. L. 94–582, §19(a), (c), substituted "Administrator" for "Secretary" and inserted "subsection (a) of" before "section 87c of this title".
 
 Subsec. (g). Pub. L. 94–582, §19(d), struck out subsec. (g) which made unlawful disclosure of information by an officer or employee of the Department of Agriculture a misdemeanor, subject to the penalties set forth in section 87c of this title.
 

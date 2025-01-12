@@ -10,7 +10,7 @@ Section 322 of the Act of June 30, 1932 (47 Stat. 412), referred to in text, was
 
 #### Amendments ####
 
-**2003**—Pub. L. 108–178 struck out “; 40 U.S.C. 278a” after “47 Stat. 412”.
+**2003**—Pub. L. 108–178 struck out "; 40 U.S.C. 278a" after "47 Stat. 412".
 
 #### Effective Date of 2003 Amendment ####
 

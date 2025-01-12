@@ -160,7 +160,7 @@ Sec.
 
 #### SUBCHAPTER VI—PREVENTION OF UNFAIR METHODS OF COMPETITION ####
 
-71. “Person” defined.
+71. "Person" defined.
 
 72. Repealed.
 

@@ -16,7 +16,7 @@ It is the purpose of this section to establish a National Health Care Workforce 
 
 #### (b) Establishment ####
 
-There is hereby established the National Health Care Workforce Commission (in this section referred to as the “Commission”).
+There is hereby established the National Health Care Workforce Commission (in this section referred to as the "Commission").
 
 #### (c) Membership ####
 
@@ -260,11 +260,11 @@ In this section:
 
 #### (1) Health care workforce ####
 
-The term “health care workforce” includes all health care providers with direct patient care and support responsibilities, such as physicians, nurses, nurse practitioners, primary care providers, preventive medicine physicians, optometrists, ophthalmologists, physician assistants, pharmacists, dentists, dental hygienists, and other oral healthcare professionals, allied health professionals, doctors of chiropractic, community health workers, health care paraprofessionals, direct care workers, psychologists and other behavioral and mental health professionals (including substance abuse prevention and treatment providers), social workers, physical and occupational therapists, certified nurse midwives, podiatrists, the EMS workforce (including professional and volunteer ambulance personnel and firefighters who perform emergency medical services), licensed complementary and alternative medicine providers, integrative health practitioners, public health professionals, and any other health professional that the Comptroller General of the United States determines appropriate.
+The term "health care workforce" includes all health care providers with direct patient care and support responsibilities, such as physicians, nurses, nurse practitioners, primary care providers, preventive medicine physicians, optometrists, ophthalmologists, physician assistants, pharmacists, dentists, dental hygienists, and other oral healthcare professionals, allied health professionals, doctors of chiropractic, community health workers, health care paraprofessionals, direct care workers, psychologists and other behavioral and mental health professionals (including substance abuse prevention and treatment providers), social workers, physical and occupational therapists, certified nurse midwives, podiatrists, the EMS workforce (including professional and volunteer ambulance personnel and firefighters who perform emergency medical services), licensed complementary and alternative medicine providers, integrative health practitioners, public health professionals, and any other health professional that the Comptroller General of the United States determines appropriate.
 
 #### (2) Health professionals ####
 
-The term “health professionals” includes—
+The term "health professionals" includes—
 
 (A) dentists, dental hygienists, primary care providers, specialty physicians, nurses, nurse practitioners, physician assistants, psychologists and other behavioral and mental health professionals (including substance abuse prevention and treatment providers), social workers, physical and occupational therapists, optometrists, ophthalmologists,<sup><a href="#294q_4_target" name="294q_4">4</a></sup> public health professionals, clinical pharmacists, allied health professionals, doctors of chiropractic, community health workers, school nurses, certified nurse midwives, podiatrists, licensed complementary and alternative medicine providers, the EMS workforce (including professional and volunteer ambulance personnel and firefighters who perform emergency medical services), and integrative health practitioners;
 
@@ -298,7 +298,7 @@ Level V of the Executive Schedule, referred to in subsec. (f)(1), is set out in 
 
 #### Codification ####
 
-In subsec. (f)(3), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (f)(3), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.
 
@@ -312,73 +312,73 @@ Section 294q–1, act July 1, 1944, ch. 373, title VII, §745, as added Oct. 22,
 
 Section 294q–2, act July 1, 1944, ch. 373, title VII, §746, as added Oct. 22, 1985, Pub. L. 99–129, title II, §209(h)(2), 99 Stat. 536, related to procedures for appeal of terminations of agreements with schools. See section 292w of this title.
 
-Section 294q–3, act July 1, 1944, ch. 373, title VII, §747, formerly §745, as added and renumbered §747, Oct. 22, 1985, Pub. L. 99–129, title II, §209(a)(4), (h)(1), 99 Stat. 532, 535, defined “school of pharmacy”.
+Section 294q–3, act July 1, 1944, ch. 373, title VII, §747, formerly §745, as added and renumbered §747, Oct. 22, 1985, Pub. L. 99–129, title II, §209(a)(4), (h)(1), 99 Stat. 532, 535, defined "school of pharmacy".
 
 #### Amendments ####
 
-**2010**—Subsec. (c)(2)(B)(i)(II). Pub. L. 111–148, §10501(a)(1), inserted “, including representatives of small business and self-employed individuals” after “employers”.
+**2010**—Subsec. (c)(2)(B)(i)(II). Pub. L. 111–148, §10501(a)(1), inserted ", including representatives of small business and self-employed individuals" after "employers".
 
 Subsec. (d)(4)(A)(iv), (v). Pub. L. 111–148, §10501(a)(2), added cl. (iv) and redesignated former cl. (iv) as (v).
 
-Subsec. (i)(2)(A), (C). Pub. L. 111–148, §10501(a)(3), which directed insertion of “optometrists, ophthalmologists,” after “occupational therapists,” in subpar. (B) of subsec. (i)(2), was executed by making the insertion in subpars. (A) and (C). The words “occupational therapists,” do not appear in subpar. (B).
+Subsec. (i)(2)(A), (C). Pub. L. 111–148, §10501(a)(3), which directed insertion of "optometrists, ophthalmologists," after "occupational therapists," in subpar. (B) of subsec. (i)(2), was executed by making the insertion in subpars. (A) and (C). The words "occupational therapists," do not appear in subpar. (B).
 
 #### Purpose ####
 
-Pub. L. 111–148, title V, §5001, Mar. 23, 2010, 124 Stat. 588, provided that: “The purpose of this title [see Tables for classification] is to improve access to and the delivery of health care services for all individuals, particularly low income, underserved, uninsured, minority, health disparity, and rural populations by—
+Pub. L. 111–148, title V, §5001, Mar. 23, 2010, 124 Stat. 588, provided that: "The purpose of this title [see Tables for classification] is to improve access to and the delivery of health care services for all individuals, particularly low income, underserved, uninsured, minority, health disparity, and rural populations by—
 
-“(1) gathering and assessing comprehensive data in order for the health care workforce to meet the health care needs of individuals, including research on the supply, demand, distribution, diversity, and skills needs of the health care workforce;
+"(1) gathering and assessing comprehensive data in order for the health care workforce to meet the health care needs of individuals, including research on the supply, demand, distribution, diversity, and skills needs of the health care workforce;
 
-“(2) increasing the supply of a qualified health care workforce to improve access to and the delivery of health care services for all individuals;
+"(2) increasing the supply of a qualified health care workforce to improve access to and the delivery of health care services for all individuals;
 
-“(3) enhancing health care workforce education and training to improve access to and the delivery of health care services for all individuals; and
+"(3) enhancing health care workforce education and training to improve access to and the delivery of health care services for all individuals; and
 
-“(4) providing support to the existing health care workforce to improve access to and the delivery of health care services for all individuals.”
+"(4) providing support to the existing health care workforce to improve access to and the delivery of health care services for all individuals."
 
 #### Definitions ####
 
-Pub. L. 111–148, title V, §5002(a), Mar. 23, 2010, 124 Stat. 588, provided that: “In this title [see Tables for classification]:
+Pub. L. 111–148, title V, §5002(a), Mar. 23, 2010, 124 Stat. 588, provided that: "In this title [see Tables for classification]:
 
-“(1) Allied health professional.—The term ‘allied health professional’ means an allied health professional as defined in section 799B(5) of the Public Heath Service Act (42 U.S.C. 295p(5)) who—
+"(1) Allied health professional.—The term 'allied health professional' means an allied health professional as defined in section 799B(5) of the Public Heath Service Act (42 U.S.C. 295p(5)) who—
 
-“(A) has graduated and received an allied health professions degree or certificate from an institution of higher education; and
+"(A) has graduated and received an allied health professions degree or certificate from an institution of higher education; and
 
-“(B) is employed with a Federal, State, local or tribal public health agency, or in a setting where patients might require health care services, including acute care facilities, ambulatory care facilities, personal residences, and other settings located in health professional shortage areas, medically underserved areas, or medically underserved populations, as recognized by the Secretary of Health and Human Services.
+"(B) is employed with a Federal, State, local or tribal public health agency, or in a setting where patients might require health care services, including acute care facilities, ambulatory care facilities, personal residences, and other settings located in health professional shortage areas, medically underserved areas, or medically underserved populations, as recognized by the Secretary of Health and Human Services.
 
-“(2) Health care career pathway.—The term ‘healthcare career pathway’ means a rigorous, engaging, and high quality set of courses and services that—
+"(2) Health care career pathway.—The term 'healthcare career pathway' means a rigorous, engaging, and high quality set of courses and services that—
 
-“(A) includes an articulated sequence of academic and career courses, including 21st century skills;
+"(A) includes an articulated sequence of academic and career courses, including 21st century skills;
 
-“(B) is aligned with the needs of healthcare industries in a region or State;
+"(B) is aligned with the needs of healthcare industries in a region or State;
 
-“(C) prepares students for entry into the full range of postsecondary education options, including registered apprenticeships, and careers;
+"(C) prepares students for entry into the full range of postsecondary education options, including registered apprenticeships, and careers;
 
-“(D) provides academic and career counseling in student-to-counselor ratios that allow students to make informed decisions about academic and career options;
+"(D) provides academic and career counseling in student-to-counselor ratios that allow students to make informed decisions about academic and career options;
 
-“(E) meets State academic standards, State requirements for secondary school graduation and is aligned with requirements for entry into postsecondary education, and applicable industry standards; and
+"(E) meets State academic standards, State requirements for secondary school graduation and is aligned with requirements for entry into postsecondary education, and applicable industry standards; and
 
-“(F) leads to 2 or more credentials, including—
+"(F) leads to 2 or more credentials, including—
 
-“(i) a secondary school diploma; and
+"(i) a secondary school diploma; and
 
-“(ii) a postsecondary degree, an apprenticeship or other occupational certification, a certificate, or a license.
+"(ii) a postsecondary degree, an apprenticeship or other occupational certification, a certificate, or a license.
 
-“(3) Institution of higher education.—The term ‘institution of higher education’ has the meaning given the term in sections 101 and 102 of the Higher Education Act of 1965 (20 U.S.C. 1001 and 1002).
+"(3) Institution of higher education.—The term 'institution of higher education' has the meaning given the term in sections 101 and 102 of the Higher Education Act of 1965 (20 U.S.C. 1001 and 1002).
 
-“(4) Low income individual, state workforce investment board, and local workforce investment board.—
+"(4) Low income individual, state workforce investment board, and local workforce investment board.—
 
-“(A) Low-income individual.—The term ‘low-income individual’ has the meaning given that term in section 101 of the Workforce investment [sic] Act of 1998 (29 U.S.C. 2801).
+"(A) Low-income individual.—The term 'low-income individual' has the meaning given that term in section 101 of the Workforce investment [sic] Act of 1998 (29 U.S.C. 2801).
 
-“(B) State workforce investment board; local workforce investment board.—The terms ‘State workforce investment board’ and ‘local workforce investment board’, [sic] refer to a State workforce investment board established under section 111 of the Workforce Investment Act of 1998 (29 U.S.C. 2821) and a local workforce investment board established under section 117 of such Act (29 U.S.C. 2832), respectively.
+"(B) State workforce investment board; local workforce investment board.—The terms 'State workforce investment board' and 'local workforce investment board', [sic] refer to a State workforce investment board established under section 111 of the Workforce Investment Act of 1998 (29 U.S.C. 2821) and a local workforce investment board established under section 117 of such Act (29 U.S.C. 2832), respectively.
 
-“(5) Postsecondary education.—The term ‘postsecondary education’ means—
+"(5) Postsecondary education.—The term 'postsecondary education' means—
 
-“(A) a 4-year program of instruction, or not less than a 1-year program of instruction that is acceptable for credit toward an associate or a baccalaureate degree, offered by an institution of higher education; or
+"(A) a 4-year program of instruction, or not less than a 1-year program of instruction that is acceptable for credit toward an associate or a baccalaureate degree, offered by an institution of higher education; or
 
-“(B) a certificate or registered apprenticeship program at the postsecondary level offered by an institution of higher education or a non-profit educational institution.
+"(B) a certificate or registered apprenticeship program at the postsecondary level offered by an institution of higher education or a non-profit educational institution.
 
-“(6) Registered apprenticeship program.—The term ‘registered apprenticeship program’ means an industry skills training program at the postsecondary level that combines technical and theoretical training through structure on the job learning with related instruction (in a classroom or through distance learning) while an individual is employed, working under the direction of qualified personnel or a mentor, and earning incremental wage increases aligned to enhance job proficiency, resulting in the acquisition of a nationally recognized and portable certificate, under a plan approved by the Office of Apprenticeship or a State agency recognized by the Department of Labor.”
+"(6) Registered apprenticeship program.—The term 'registered apprenticeship program' means an industry skills training program at the postsecondary level that combines technical and theoretical training through structure on the job learning with related instruction (in a classroom or through distance learning) while an individual is employed, working under the direction of qualified personnel or a mentor, and earning incremental wage increases aligned to enhance job proficiency, resulting in the acquisition of a nationally recognized and portable certificate, under a plan approved by the Office of Apprenticeship or a State agency recognized by the Department of Labor."
 
-[<sup>1</sup> So in original. Probably should be “title”.](#294q_1)
+[<sup>1</sup> So in original. Probably should be "title".](#294q_1)
 
 [<sup>2</sup> So in original.](#294q_2)
 

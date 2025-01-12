@@ -64,7 +64,7 @@ Sec.
 
 #### Amendments ####
 
-**2012**—Pub. L. 112–95, title I, §111(c)(3), title VIII, §802(b), Feb. 14, 2012, 126 Stat. 18, 119, substituted “Passenger facility charges” for “Passenger facility fees” in item 40117 and added item 40130.
+**2012**—Pub. L. 112–95, title I, §111(c)(3), title VIII, §802(b), Feb. 14, 2012, 126 Stat. 18, 119, substituted "Passenger facility charges" for "Passenger facility fees" in item 40117 and added item 40130.
 
 **2003**—Pub. L. 108–176, title IV, §423(b), Dec. 12, 2003, 117 Stat. 2554, added item 40129.
 
@@ -74,4 +74,4 @@ Sec.
 
 **1996**—Pub. L. 104–287, §5(69)(B), Oct. 11, 1996, 110 Stat. 3396, as amended by Pub. L. 105–102, §3(d)(1)(B), Nov. 20, 1997, 111 Stat. 2215, added item 40124.
 
-Pub. L. 104–264, title II, §254, title IV, §§401(b)(2), 402(b), Oct. 9, 1996, 110 Stat. 3238, 3255, 3256, inserted “safety of” before “air commerce” in item 40104 and added item 40121 “Air traffic control modernization reviews” and items 40122 and 40123.
+Pub. L. 104–264, title II, §254, title IV, §§401(b)(2), 402(b), Oct. 9, 1996, 110 Stat. 3238, 3255, 3256, inserted "safety of" before "air commerce" in item 40104 and added item 40121 "Air traffic control modernization reviews" and items 40122 and 40123.

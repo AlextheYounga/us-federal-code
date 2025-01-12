@@ -14,10 +14,10 @@ Section was not enacted as part of the Social Security Act which comprises this 
 
 #### Change of Name ####
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in text pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in text pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Time for Making Social Security Contributions With Respect to Covered State and Local Employees ####
 
-Pub. L. 96–265, title V, §503(c), June 9, 1980, 94 Stat. 471, provided that: “The provisions of section 7 of Public Law 94–202 [42 U.S.C. 405a] shall not be applicable to any regulation which becomes effective on or after July 1, 1980, and which is designed to carry out the purposes of subsection (a) of this section [amending section 418 of this title].”
+Pub. L. 96–265, title V, §503(c), June 9, 1980, 94 Stat. 471, provided that: "The provisions of section 7 of Public Law 94–202 [42 U.S.C. 405a] shall not be applicable to any regulation which becomes effective on or after July 1, 1980, and which is designed to carry out the purposes of subsection (a) of this section [amending section 418 of this title]."
 
 [<sup>1</sup> See References in Text note below.](#405a_1)

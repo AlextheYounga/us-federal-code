@@ -34,11 +34,11 @@ The applicable reference price for a taxable year is the reference price of the 
 
 #### (B) Inflation adjustment ####
 
-In the case of any taxable year beginning in a calendar year after 2005, each of the dollar amounts contained in subparagraph (A) shall be increased to an amount equal to such dollar amount multiplied by the inflation adjustment factor for such calendar year (determined under section 43(b)(3)(B) by substituting “2004” for “1990”).
+In the case of any taxable year beginning in a calendar year after 2005, each of the dollar amounts contained in subparagraph (A) shall be increased to an amount equal to such dollar amount multiplied by the inflation adjustment factor for such calendar year (determined under section 43(b)(3)(B) by substituting "2004" for "1990").
 
 #### (C) Reference price ####
 
-For purposes of this paragraph, the term “reference price” means, with respect to any calendar year—
+For purposes of this paragraph, the term "reference price" means, with respect to any calendar year—
 
 (i) in the case of qualified crude oil production, the reference price determined under section 45K(d)(2)(C), and
 
@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The terms “qualified crude oil production” and “qualified natural gas production” mean domestic crude oil or natural gas which is produced from a qualified marginal well.
+The terms "qualified crude oil production" and "qualified natural gas production" mean domestic crude oil or natural gas which is produced from a qualified marginal well.
 
 #### (2) Limitation on amount of production which may qualify ####
 
@@ -72,7 +72,7 @@ In the case of a well which is not capable of production during each day of a ta
 
 #### (A) Qualified marginal well ####
 
-The term “qualified marginal well” means a domestic well—
+The term "qualified marginal well" means a domestic well—
 
 (i) the production from which during the taxable year is treated as marginal production under section 613A(c)(6), or
 
@@ -84,7 +84,7 @@ The term “qualified marginal well” means a domestic well—
 
 #### (B) Crude oil, etc. ####
 
-The terms “crude oil”, “natural gas”, “domestic”, and “barrel” have the meanings given such terms by section 613A(e).
+The terms "crude oil", "natural gas", "domestic", and "barrel" have the meanings given such terms by section 613A(e).
 
 #### (d) Other rules ####
 
@@ -104,13 +104,13 @@ In the case of production from a qualified marginal well which is eligible for t
 
 #### Amendments ####
 
-**2005**—Subsec. (a)(2). Pub. L. 109–135 substituted “qualified crude oil production” for “qualified credit oil production”.
+**2005**—Subsec. (a)(2). Pub. L. 109–135 substituted "qualified crude oil production" for "qualified credit oil production".
 
-Subsec. (b)(2)(C)(i). Pub. L. 109–58, §1322(a)(3)(B), substituted “section 45K(d)(2)(C)” for “section 29(d)(2)(C)”.
+Subsec. (b)(2)(C)(i). Pub. L. 109–58, §1322(a)(3)(B), substituted "section 45K(d)(2)(C)" for "section 29(d)(2)(C)".
 
-Subsec. (c)(2)(A). Pub. L. 109–58, §1322(a)(3)(D)(i), substituted “section 45K(d)(5))” for “section 29(d)(5))”.
+Subsec. (c)(2)(A). Pub. L. 109–58, §1322(a)(3)(D)(i), substituted "section 45K(d)(5))" for "section 29(d)(5))".
 
-Subsec. (d)(3). Pub. L. 109–58, §1322(a)(3)(D)(ii), substituted “section 45K” for “section 29” in two places.
+Subsec. (d)(3). Pub. L. 109–58, §1322(a)(3)(D)(ii), substituted "section 45K" for "section 29" in two places.
 
 #### Effective Date of 2005 Amendment ####
 

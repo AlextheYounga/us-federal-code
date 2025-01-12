@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-The Secretary shall establish an advisory committee to be known as the Advisory Committee on Interdisciplinary, Community-Based Linkages (in this section referred to as the “Advisory Committee”).
+The Secretary shall establish an advisory committee to be known as the Advisory Committee on Interdisciplinary, Community-Based Linkages (in this section referred to as the "Advisory Committee").
 
 #### (b) Composition ####
 
@@ -88,7 +88,7 @@ The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–
 
 Pub. L. 111–148, title V, §5306(a)(2), Mar. 23, 2010, 124 Stat. 626, which directed the amendment of part D of title VII by redesignating section 756 as section 757, without specifying the act to be amended, was executed by redesignating section 756 of act July 1, 1944, as section 757 of the Act, to reflect the probable intent of Congress.
 
-November 13, 1998, referred to in subsec. (b)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 105–392, which amended this part generally, to reflect the probable intent of Congress.
+November 13, 1998, referred to in subsec. (b)(2), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 105–392, which amended this part generally, to reflect the probable intent of Congress.
 
 #### Prior Provisions ####
 
@@ -100,7 +100,7 @@ A prior section 757 of act July 1, 1944, was classified to section 294g of this 
 
 #### Amendments ####
 
-**2010**—Subsec. (b)(2). Pub. L. 111–148, §5306(b), substituted “294a(b)(1)(A), 294c(b), and 294e(b)” for “294a(a)(1)(A), 294a(a)(1)(B), 294c(b), 294d(3)(A), and 294e(b)”.
+**2010**—Subsec. (b)(2). Pub. L. 111–148, §5306(b), substituted "294a(b)(1)(A), 294c(b), and 294e(b)" for "294a(a)(1)(A), 294a(a)(1)(B), 294c(b), 294d(3)(A), and 294e(b)".
 
 Subsec. (d)(3) to (5). Pub. L. 111–148, §5103(d)(2), added pars. (3) to (5).
 
@@ -114,4 +114,4 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
-[<sup>1</sup> So in original. Probably should be “Committee”.](#294f_1)
+[<sup>1</sup> So in original. Probably should be "Committee".](#294f_1)

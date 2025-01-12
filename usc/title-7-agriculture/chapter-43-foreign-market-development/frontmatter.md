@@ -50,4 +50,4 @@ Sec.
 
 1768. Foreign Operations Administration unaffected.
 
-1769. “Agricultural commodity” defined.
+1769. "Agricultural commodity" defined.

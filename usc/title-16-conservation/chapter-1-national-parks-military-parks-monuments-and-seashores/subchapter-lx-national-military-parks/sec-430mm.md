@@ -8,6 +8,6 @@ For development of the Wilson's Creek National Battlefield, there are authorized
 
 **2004**—Pub. L. 108–394 inserted last sentence.
 
-**1978**—Pub. L. 95–625 substituted “$5,640,000.” for “$2,285,000 (March 1969 prices), plus or minus such amounts, if any, as may be justified by reason of ordinary fluctuations in construction cost indices applicable to the types of construction involved herein.”
+**1978**—Pub. L. 95–625 substituted "$5,640,000." for "$2,285,000 (March 1969 prices), plus or minus such amounts, if any, as may be justified by reason of ordinary fluctuations in construction cost indices applicable to the types of construction involved herein."
 
 **1970**—Pub. L. 91–554 increased authorization of appropriations from not more than $120,000 to not more than $2,285,000 (March 1969 prices), plus or minus such amounts, if any, as may be justified by reason of ordinary fluctuations in construction costs as indicated by engineering cost indices.

@@ -28,15 +28,15 @@ This section contains a codification of functions. It sets forth in general lang
 
 **2012**—Pub. L. 112–213 amended section generally. Prior to amendment, section related to primary duties of the Coast Guard.
 
-**1988**—Pub. L. 100–690 substituted “United States; shall engage in maritime air surveillance or interdiction to enforce or assist in the enforcement of the laws of the United States; shall administer” for first reference to “United States;”.
+**1988**—Pub. L. 100–690 substituted "United States; shall engage in maritime air surveillance or interdiction to enforce or assist in the enforcement of the laws of the United States; shall administer" for first reference to "United States;".
 
-Pub. L. 100–448 substituted “Federal laws on, under, and over” for “Federal laws on and under”.
+Pub. L. 100–448 substituted "Federal laws on, under, and over" for "Federal laws on and under".
 
-**1986**—Pub. L. 99–640 inserted “, including the fulfillment of Maritime Defense Zone command responsibilities.”
+**1986**—Pub. L. 99–640 inserted ", including the fulfillment of Maritime Defense Zone command responsibilities."
 
 **1974**—Pub. L. 93–519 inserted provision requiring Coast Guard to develop, establish, maintain and operate, pursuant to international agreements, icebreaking facilities in waters other than those subject to the jurisdiction of the United States.
 
-**1970**—Pub. L. 91–278 improved and clarified text, substituting “on and under” for “upon” in clause preceding first semicolon; inserting “and under” after “life and property on” and striking out “on” after “the high seas and” in clause preceding second semicolon; and substituting “icebreaking” for “ice-breaking” and inserting “, under,” after “promotion of safety on” in clause preceding third semicolon, respectively.
+**1970**—Pub. L. 91–278 improved and clarified text, substituting "on and under" for "upon" in clause preceding first semicolon; inserting "and under" after "life and property on" and striking out "on" after "the high seas and" in clause preceding second semicolon; and substituting "icebreaking" for "ice-breaking" and inserting ", under," after "promotion of safety on" in clause preceding third semicolon, respectively.
 
 **1961**—Pub. L. 87–396 required Coast Guard to engage in oceanographic research on high seas and in waters subject to jurisdiction of the United States.
 
@@ -46,4 +46,4 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Annual Report on Coast Guard Capabilities and Readiness to Fulfill National Defense Responsibilities ####
 
-Pub. L. 107–295, title IV, §426, Nov. 25, 2002, 116 Stat. 2126, provided that: “Not later than February 15 each year, the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report, prepared in conjunction with the Commandant of the Coast Guard, setting forth the capabilities and readiness of the Coast Guard to fulfill its national defense responsibilities.”
+Pub. L. 107–295, title IV, §426, Nov. 25, 2002, 116 Stat. 2126, provided that: "Not later than February 15 each year, the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report, prepared in conjunction with the Commandant of the Coast Guard, setting forth the capabilities and readiness of the Coast Guard to fulfill its national defense responsibilities."

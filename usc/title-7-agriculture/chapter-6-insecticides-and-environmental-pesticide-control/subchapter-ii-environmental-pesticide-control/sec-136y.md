@@ -16,7 +16,7 @@ Another section 1768 of Pub. L. 99–198 enacted sections 154a and 159 and amend
 
 #### Amendments ####
 
-**1988**—Pub. L. 100–532 amended section generally. Prior to amendment, section read as follows: “There is authorized to be appropriated to carry out this subchapter for the period beginning October 1, 1985, and ending September 30, 1986, $68,604,200 of which not more than $11,993,100 shall be available for research under this subchapter.”
+**1988**—Pub. L. 100–532 amended section generally. Prior to amendment, section read as follows: "There is authorized to be appropriated to carry out this subchapter for the period beginning October 1, 1985, and ending September 30, 1986, $68,604,200 of which not more than $11,993,100 shall be available for research under this subchapter."
 
 **1985**—Pub. L. 99–198 substituted provisions authorizing appropriations of $68,604,200 for fiscal year 1986 of which not more than $11,993,100 shall be available for research for former provisions which had authorized appropriations for fiscal years 1973 through 1984.
 

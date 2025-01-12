@@ -56,15 +56,15 @@ The National Environmental Policy Act of 1969, referred to in subsec. (e)(2), is
 
 #### Amendments ####
 
-**1999**—Subsec. (a). Pub. L. 106–53, §585(1), inserted “all or any part of” after “absolute title to” in first sentence.
+**1999**—Subsec. (a). Pub. L. 106–53, §585(1), inserted "all or any part of" after "absolute title to" in first sentence.
 
-Subsec. (b). Pub. L. 106–53, §585(2), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Upon receipt of compensation from the City of Galveston, the Secretary shall convey the parcel as described in subsection (a) of this section. Such compensation shall include—
+Subsec. (b). Pub. L. 106–53, §585(2), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "Upon receipt of compensation from the City of Galveston, the Secretary shall convey the parcel as described in subsection (a) of this section. Such compensation shall include—
 
-“(1) conveyance to the Department of the Army of fee simple absolute title to a parcel of land containing approximately 564 acres on Pelican Island, Texas, in the Eneas Smith Survey, A–190, Pelican Island, City of Galveston, Galveston County, Texas, adjacent to property currently owned by the United States. The fair market value of such parcel will be determined in accordance with the provision of subsection (d) of this section; and
+"(1) conveyance to the Department of the Army of fee simple absolute title to a parcel of land containing approximately 564 acres on Pelican Island, Texas, in the Eneas Smith Survey, A–190, Pelican Island, City of Galveston, Galveston County, Texas, adjacent to property currently owned by the United States. The fair market value of such parcel will be determined in accordance with the provision of subsection (d) of this section; and
 
-“(2) payment to the United States of an amount equal to the difference of the fair market value of the parcel to be conveyed pursuant to subsection (a) of this section and the fair market value of the parcel to be conveyed pursuant to paragraph (1) of this subsection.”
+"(2) payment to the United States of an amount equal to the difference of the fair market value of the parcel to be conveyed pursuant to subsection (a) of this section and the fair market value of the parcel to be conveyed pursuant to paragraph (1) of this subsection."
 
-Subsec. (c). Pub. L. 106–53, §585(3), in second sentence, inserted “, or any part of the parcel,” after “parcel” and “, if any,” after “LCA”.
+Subsec. (c). Pub. L. 106–53, §585(3), in second sentence, inserted ", or any part of the parcel," after "parcel" and ", if any," after "LCA".
 
 [<sup>1</sup> So in original. Probably should not be capitalized.](#59hh_1)
 

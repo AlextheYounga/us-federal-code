@@ -2,11 +2,11 @@
 
 #### (a) In general ####
 
-In order to conserve, protect, and manage, in a substantially undeveloped condition, certain National Forest System lands in the State of Oregon having unique geographic, topographic, biological, ecological features and possessing significant scenic, wildlife, dispersed recreation, and watershed values, there is hereby established, within the Umpqua, Willamette, Winema and Deschutes National Forests, the Oregon Cascades Recreation Area (hereinafter referred to in this subchapter as the “recreation area”).
+In order to conserve, protect, and manage, in a substantially undeveloped condition, certain National Forest System lands in the State of Oregon having unique geographic, topographic, biological, ecological features and possessing significant scenic, wildlife, dispersed recreation, and watershed values, there is hereby established, within the Umpqua, Willamette, Winema and Deschutes National Forests, the Oregon Cascades Recreation Area (hereinafter referred to in this subchapter as the "recreation area").
 
 #### (b) Administration ####
 
-The recreation area shall comprise approximately one hundred fifty-six thousand nine hundred acres as generally depicted on a map entitled “Oregon Cascades Recreation Area” dated March 1984. Except as otherwise provided in this section, the Secretary of Agriculture (hereinafter referred to as the “Secretary”) shall administer and manage the recreation area in accordance with the laws and regulations applicable to the National Forest System so as to enhance scenic and watershed values, wildlife habitat, and dispersed recreation.
+The recreation area shall comprise approximately one hundred fifty-six thousand nine hundred acres as generally depicted on a map entitled "Oregon Cascades Recreation Area" dated March 1984. Except as otherwise provided in this section, the Secretary of Agriculture (hereinafter referred to as the "Secretary") shall administer and manage the recreation area in accordance with the laws and regulations applicable to the National Forest System so as to enhance scenic and watershed values, wildlife habitat, and dispersed recreation.
 
 #### (c) Management plan ####
 
@@ -44,7 +44,7 @@ Within the recreation area, the Secretary may permit, under appropriate regulati
 
 #### (f) Wilderness lands ####
 
-The following lands within the recreation area are hereby designated as wilderness and therefore as components of the National Wilderness Preservation System, and shall, notwithstanding any other provisions of this section, be administered by the Secretary in accordance with the applicable provisions of the Wilderness Act [16 U.S.C. 1131 et seq.]: Certain lands in the Umpqua, Willamette, and Winema National Forests which comprise approximately fifty-five thousand one hundred acres, are generally depicted on a map dated March 1984, entitled “Mount Thielsen Wilderness—Proposed”, and which shall be known as the Mount Thielsen Wilderness; and certain lands in the Willamette and Deschutes National Forests, which comprise approximately fifteen thousand seven hundred acres, are generally depicted on a map dated March 1984, entitled “Diamond Peak Wilderness Additions—Proposed”, and which are hereby incorporated in, and which shall be deemed to be a part of, the Diamond Peak Wilderness as designated in Public Law 88–577.
+The following lands within the recreation area are hereby designated as wilderness and therefore as components of the National Wilderness Preservation System, and shall, notwithstanding any other provisions of this section, be administered by the Secretary in accordance with the applicable provisions of the Wilderness Act [16 U.S.C. 1131 et seq.]: Certain lands in the Umpqua, Willamette, and Winema National Forests which comprise approximately fifty-five thousand one hundred acres, are generally depicted on a map dated March 1984, entitled "Mount Thielsen Wilderness—Proposed", and which shall be known as the Mount Thielsen Wilderness; and certain lands in the Willamette and Deschutes National Forests, which comprise approximately fifteen thousand seven hundred acres, are generally depicted on a map dated March 1984, entitled "Diamond Peak Wilderness Additions—Proposed", and which are hereby incorporated in, and which shall be deemed to be a part of, the Diamond Peak Wilderness as designated in Public Law 88–577.
 
 #### (g) Forest plans; integrated management plans ####
 
@@ -54,7 +54,7 @@ Management direction for the recreation area shall be developed in either the fo
 
 #### References in Text ####
 
-This subchapter, referred to in subsec. (a), was in the original “the Act”, meaning Pub. L. 98–328, June 26, 1984, 98 Stat. 272, known as the Oregon Wilderness Act of 1984, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
+This subchapter, referred to in subsec. (a), was in the original "the Act", meaning Pub. L. 98–328, June 26, 1984, 98 Stat. 272, known as the Oregon Wilderness Act of 1984, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Wilderness Act and Public Law 88–577, referred to in subsec. (f), are Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 

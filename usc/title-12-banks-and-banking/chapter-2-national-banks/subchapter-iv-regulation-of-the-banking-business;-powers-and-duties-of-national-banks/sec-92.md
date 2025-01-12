@@ -12,7 +12,7 @@ For decision by U.S. Supreme Court that, despite faulty placement of quotation m
 
 #### Amendments ####
 
-**1982**—Pub. L. 97–320 struck out “; and may also act as the broker or agent for others in making or procuring loans on real estate located within one hundred miles of the place in which said bank may be located, receiving for such services a reasonable fee or commission” after “may act as agent” and “guarantee either the principal or interest of any such loans or” after “shall in any case”.
+**1982**—Pub. L. 97–320 struck out "; and may also act as the broker or agent for others in making or procuring loans on real estate located within one hundred miles of the place in which said bank may be located, receiving for such services a reasonable fee or commission" after "may act as agent" and "guarantee either the principal or interest of any such loans or" after "shall in any case".
 
 #### Effective Date of 1982 Amendment ####
 

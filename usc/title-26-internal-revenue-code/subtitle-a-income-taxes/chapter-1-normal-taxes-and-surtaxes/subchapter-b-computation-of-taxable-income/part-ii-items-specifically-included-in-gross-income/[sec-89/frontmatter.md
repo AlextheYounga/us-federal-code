@@ -4,11 +4,11 @@ Section, added Pub. L. 99–514, title XI, §1151(a), Oct. 22, 1986, 100 Stat. 2
 
 #### Effective Date of Repeal ####
 
-Pub. L. 101–140, title II, §202(c), Nov. 8, 1989, 103 Stat. 830, provided that: “The amendments made by this section [repealing this section] shall take effect as if included in section 1151 of the Tax Reform Act of 1986 [Pub. L. 99–514, see section 1151(k) set out as a note under section 79 of this title].”
+Pub. L. 101–140, title II, §202(c), Nov. 8, 1989, 103 Stat. 830, provided that: "The amendments made by this section [repealing this section] shall take effect as if included in section 1151 of the Tax Reform Act of 1986 [Pub. L. 99–514, see section 1151(k) set out as a note under section 79 of this title]."
 
 #### Nonenforcement of Section for Fiscal Year 1990 ####
 
-Pub. L. 101–136, title V, §528, Nov. 3, 1989, 103 Stat. 816, provided that: “No monies appropriated by this Act [see Tables for classification] may be used to implement or enforce section 1151 of the Tax Reform Act of 1986 or the amendments made by such section [section 1151 of Pub. L. 99–514, which enacted section 89 of this title, amended sections 79, 105, 106, 117, 120, 125, 127, 129, 132, 414, 505, 3121, 3306, 6039D, and 6652 of this title and section 409 of Title 42, The Public Health and Welfare, and enacted provisions set out as a note under section 89 of this title].”
+Pub. L. 101–136, title V, §528, Nov. 3, 1989, 103 Stat. 816, provided that: "No monies appropriated by this Act [see Tables for classification] may be used to implement or enforce section 1151 of the Tax Reform Act of 1986 or the amendments made by such section [section 1151 of Pub. L. 99–514, which enacted section 89 of this title, amended sections 79, 105, 106, 117, 120, 125, 127, 129, 132, 414, 505, 3121, 3306, 6039D, and 6652 of this title and section 409 of Title 42, The Public Health and Welfare, and enacted provisions set out as a note under section 89 of this title]."
 
 #### Transitional Provisions ####
 

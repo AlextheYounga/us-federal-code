@@ -80,6 +80,6 @@ In providing the notice required by clause (ii), the Secretary may use the assis
 
 #### Amendments ####
 
-**1992**—Subsec. (b)(1)(A)(ii). Pub. L. 102–300 substituted “or” for “and” after “properly designed” and “time of its design”.
+**1992**—Subsec. (b)(1)(A)(ii). Pub. L. 102–300 substituted "or" for "and" after "properly designed" and "time of its design".
 
 **1990**—Subsec. (e). Pub. L. 101–629 added subsec. (e).

@@ -4,7 +4,7 @@ Sec.
 
 21. Mineral lands reserved.
 
-21a. National mining and minerals policy; “minerals” defined; execution of policy under other authorized programs.
+21a. National mining and minerals policy; "minerals" defined; execution of policy under other authorized programs.
 
 22. Lands open to purchase by citizens.
 
@@ -14,7 +14,7 @@ Sec.
 
 25. Affidavit of citizenship.
 
-26. Locators’ rights of possession and enjoyment.
+26. Locators' rights of possession and enjoyment.
 
 27. Mining tunnels; right to possession of veins on line with; abandonment of right.
 
@@ -50,7 +50,7 @@ Sec.
 
 29. Patents; procurement procedure; filing: application under oath, plat and field notes, notices, and affidavits; posting plat and notice on claim; publication and posting notice in office; certificate; adverse claims; payment per acre; objections; nonresident claimant's agent for execution of application and affidavits.
 
-30. Adverse claims; oath of claimants; requisites; waiver; stay of land office proceedings; judicial determination of right of possession; successful claimants’ filing of judgment roll, certificate of labor, and description of claim in land office, and acreage and fee payments; issuance of patents for entire or partial claims upon certification of land office proceedings and judgment roll; alienation of patent title.
+30. Adverse claims; oath of claimants; requisites; waiver; stay of land office proceedings; judicial determination of right of possession; successful claimants' filing of judgment roll, certificate of labor, and description of claim in land office, and acreage and fee payments; issuance of patents for entire or partial claims upon certification of land office proceedings and judgment roll; alienation of patent title.
 
 31. Oath: agent or attorney in fact, beyond district of claim.
 
@@ -94,7 +94,7 @@ Sec.
 
 49c. Recording notices of location of Alaskan mining claims.
 
-49d. Miners’ regulations for recording notices in Alaska; certain records legalized.
+49d. Miners' regulations for recording notices in Alaska; certain records legalized.
 
 49e. Annual labor or improvements on Alaskan mining claims; affidavits; burden of proof; forfeitures; location anew of claims; perjury.
 
@@ -102,7 +102,7 @@ Sec.
 
 50. Grants to States or corporations not to include mineral lands.
 
-51. Water users’ vested and accrued rights; enumeration of uses; protection of interest; rights-of-way for canals and ditches; liability for injury or damage to settlers’ possession.
+51. Water users' vested and accrued rights; enumeration of uses; protection of interest; rights-of-way for canals and ditches; liability for injury or damage to settlers' possession.
 
 52. Patents or homesteads subject to vested and accrued water rights.
 

@@ -10,4 +10,4 @@ Section 3524, Pub. L. 96–221, title VIII, §805, Mar. 31, 1980, 94 Stat. 192, 
 
 #### Effective Date of Repeal ####
 
-Pub. L. 96–221, title VIII, §806, Mar. 31, 1980, 94 Stat. 192, provided that: “This title [enacting this subchapter] is hereby repealed five years after the date of enactment of this title [Mar. 31, 1980].”
+Pub. L. 96–221, title VIII, §806, Mar. 31, 1980, 94 Stat. 192, provided that: "This title [enacting this subchapter] is hereby repealed five years after the date of enactment of this title [Mar. 31, 1980]."

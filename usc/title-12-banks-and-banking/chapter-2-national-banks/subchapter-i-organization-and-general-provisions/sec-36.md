@@ -18,7 +18,7 @@ A national banking association may retain and operate such branch or branches as
 
 The Comptroller of the Currency may not grant approval under clause (C) of this paragraph if a State bank (in a situation identical to that of the national bank) resulting from the conversion of a national bank would be prohibited by the law of such State from retaining and operating as a branch an identically situated office which was a branch of the national bank immediately prior to conversion.
 
-(2) A national bank (referred to in this paragraph as the “resulting bank”), resulting from the consolidation of a national bank (referred to in this paragraph as the “national bank”) under whose charter the consolidation is effected with another bank or banks, may retain and operate as a branch any office which, immediately prior to such consolidation, was in operation as—
+(2) A national bank (referred to in this paragraph as the "resulting bank"), resulting from the consolidation of a national bank (referred to in this paragraph as the "national bank") under whose charter the consolidation is effected with another bank or banks, may retain and operate as a branch any office which, immediately prior to such consolidation, was in operation as—
 
 (A) a main office or branch office of any bank (other than the national bank) participating in the consolidation if, under subsection (c) of this section, it might be established as a new branch of the resulting bank, and if the Comptroller of the Currency approves of its continued operation after the consolidation;
 
@@ -28,7 +28,7 @@ The Comptroller of the Currency may not grant approval under clause (C) of this 
 
 The Comptroller of the Currency may not grant approval under clause (C) of this paragraph if a State bank (in a situation identical to that of the resulting national bank) resulting from the consolidation into a State bank of another bank or banks would be prohibited by the law of such State from retaining and operating as a branch an identically situated office which was a branch of the State bank immediately prior to consolidation.
 
-(3) As used in this subsection, the term “consolidation” includes a merger.
+(3) As used in this subsection, the term "consolidation" includes a merger.
 
 #### (c) New branches ####
 
@@ -84,7 +84,7 @@ All laws of a host State, other than the laws regarding community reinvestment, 
 
 No provision of this subsection may be construed as affecting the legal standards for preemption of the application of State law to national banks.
 
-#### (g) State “opt-in” election to permit interstate branching through de novo branches ####
+#### (g) State "opt-in" election to permit interstate branching through de novo branches ####
 
 #### (1) In general ####
 
@@ -110,7 +110,7 @@ The following definitions shall apply for purposes of this section:
 
 #### (A) De novo branch ####
 
-The term “de novo branch” means a branch of a national bank which—
+The term "de novo branch" means a branch of a national bank which—
 
 (i) is originally established by the national bank as a branch; and
 
@@ -122,11 +122,11 @@ The term “de novo branch” means a branch of a national bank which—
 
 #### (B) Home State ####
 
-The term “home State” means the State in which the main office of a national bank is located.
+The term "home State" means the State in which the main office of a national bank is located.
 
 #### (C) Host State ####
 
-The term “host State” means, with respect to a bank, a State, other than the home State of the bank, in which the bank maintains, or seeks to establish and maintain, a branch.
+The term "host State" means, with respect to a bank, a State, other than the home State of the bank, in which the bank maintains, or seeks to establish and maintain, a branch.
 
 #### (h) Repealed. Pub. L. 104–208, div. A, title II, §2204, Sept. 30, 1996, 110 Stat. 3009–405 ####
 
@@ -134,23 +134,23 @@ The term “host State” means, with respect to a bank, a State, other than the
 
 No branch of any national banking association shall be established or moved from one location to another without first obtaining the consent and approval of the Comptroller of the Currency.
 
-#### (j) “Branch” defined ####
+#### (j) "Branch" defined ####
 
-The term “branch” as used in this section shall be held to include any branch bank, branch office, branch agency, additional office, or any branch place of business located in any State or Territory of the United States or in the District of Columbia at which deposits are received, or checks paid, or money lent. The term “branch”, as used in this section, does not include an automated teller machine or a remote service unit.
+The term "branch" as used in this section shall be held to include any branch bank, branch office, branch agency, additional office, or any branch place of business located in any State or Territory of the United States or in the District of Columbia at which deposits are received, or checks paid, or money lent. The term "branch", as used in this section, does not include an automated teller machine or a remote service unit.
 
 #### (k) Branches in foreign countries, dependencies, or insular possessions ####
 
 This section shall not be construed to amend or repeal section 25 of the Federal Reserve Act, as amended [12 U.S.C. 601 et seq.], authorizing the establishment by national banking associations of branches in foreign countries, or dependencies, or insular possessions of the United States.
 
-#### (l) “State bank” and “bank” defined ####
+#### (l) "State bank" and "bank" defined ####
 
-The words “State bank,” “State banks,” “bank,” or “banks,” as used in this section, shall be held to include trust companies, savings banks, or other such corporations or institutions carrying on the banking business under the authority of State laws.
+The words "State bank," "State banks," "bank," or "banks," as used in this section, shall be held to include trust companies, savings banks, or other such corporations or institutions carrying on the banking business under the authority of State laws.
 
 (R.S. §5155; Feb. 25, 1927, ch. 191, §7, 44 Stat. 1228; June 16, 1933, ch. 89, §23, 48 Stat. 189; Aug. 23, 1935, ch. 614, title III, §305, 49 Stat. 708; July 15, 1952, ch. 753, §2(b), 66 Stat. 633; Pub. L. 87–721, Sept. 28, 1962, 76 Stat. 667; Pub. L. 103–328, title I, §§102(b)(1), 103(a), Sept. 29, 1994, 108 Stat. 2349, 2352; Pub. L. 104–208, div. A, title II, §§2204, 2205(a), Sept. 30, 1996, 110 Stat. 3009–405; Pub. L. 105–24, §2(b), July 3, 1997, 111 Stat. 239; Pub. L. 111–203, title VI, §613(a), July 21, 2010, 124 Stat. 1614.)
 
 #### References in Text ####
 
-Section 1831u of this title, referred to in subsec. (d), was subsequently amended, and subsec. (f)(6) of section 1831u no longer defines the term “interstate merger transaction”. However, such term is defined elsewhere in that section.
+Section 1831u of this title, referred to in subsec. (d), was subsequently amended, and subsec. (f)(6) of section 1831u no longer defines the term "interstate merger transaction". However, such term is defined elsewhere in that section.
 
 Section 25 of the Federal Reserve Act, as amended, referred to in subsec. (k), is classified to subchapter I (§601 et seq.) of chapter 6 of this title.
 
@@ -160,17 +160,17 @@ R.S. §5155 derived from act Mar. 3, 1865, ch. 78, §7, 13 Stat. 484.
 
 #### Amendments ####
 
-**2010**—Subsec. (g)(1)(A). Pub. L. 111–203 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “there is in effect in the host State a law that—
+**2010**—Subsec. (g)(1)(A). Pub. L. 111–203 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "there is in effect in the host State a law that—
 
-“(i) applies equally to all banks; and
+"(i) applies equally to all banks; and
 
-“(ii) expressly permits all out-of-State banks to establish de novo branches in such State; and”.
+"(ii) expressly permits all out-of-State banks to establish de novo branches in such State; and".
 
 **1997**—Subsec. (f)(1)(C). Pub. L. 105–24 added subpar. (C).
 
-**1996**—Subsec. (h). Pub. L. 104–208, §2204, struck out subsec. (h) which read as follows: “The aggregate capital of every national banking association and its branches shall at no time be less than the aggregate minimum capital required by law for the establishment of an equal number of national banking associations situated in the various places where such association and its branches are situated.”
+**1996**—Subsec. (h). Pub. L. 104–208, §2204, struck out subsec. (h) which read as follows: "The aggregate capital of every national banking association and its branches shall at no time be less than the aggregate minimum capital required by law for the establishment of an equal number of national banking associations situated in the various places where such association and its branches are situated."
 
-Subsec. (j). Pub. L. 104–208, §2205(a), inserted at end “The term ‘branch’, as used in this section, does not include an automated teller machine or a remote service unit.”
+Subsec. (j). Pub. L. 104–208, §2205(a), inserted at end "The term 'branch', as used in this section, does not include an automated teller machine or a remote service unit."
 
 **1994**—Subsecs. (d) to (f). Pub. L. 103–328, §102(b)(1)(B), added subsecs. (d) to (f). Former subsecs. (d) to (f) redesignated (h) to (j), respectively.
 
@@ -184,7 +184,7 @@ Subsecs. (h) to (l). Pub. L. 103–328, §102(b)(1)(A), redesignated subsecs. (d
 
 **1952**—Subsec. (c). Act July 15, 1952, struck out the minimum capital requirement for the establishment of branches by national banks.
 
-**1935**—Subsec. (c). Act Aug. 23, 1935, inserted second sentence and substituted “Except as provided in the immediately preceding sentence, no” for “No” in last sentence.
+**1935**—Subsec. (c). Act Aug. 23, 1935, inserted second sentence and substituted "Except as provided in the immediately preceding sentence, no" for "No" in last sentence.
 
 **1933**—Subsecs. (c), (d). Act June 16, 1933, amended subsecs. (c) and (d).
 

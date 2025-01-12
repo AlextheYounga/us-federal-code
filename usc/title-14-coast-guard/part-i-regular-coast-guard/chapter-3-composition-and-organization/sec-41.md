@@ -22,19 +22,19 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments ####
 
-**1994**—Pub. L. 103–337 substituted “chief warrant officers; cadets; warrant officers;” for “chief warrant officers, W–4; chief warrant officers, W–3; chief warrant officers, W–2; cadets; warrant officers, W–1;”.
+**1994**—Pub. L. 103–337 substituted "chief warrant officers; cadets; warrant officers;" for "chief warrant officers, W–4; chief warrant officers, W–3; chief warrant officers, W–2; cadets; warrant officers, W–1;".
 
-**1985**—Pub. L. 99–145 substituted “rear admirals (lower half)” for “commodores”.
+**1985**—Pub. L. 99–145 substituted "rear admirals (lower half)" for "commodores".
 
-**1984**—Pub. L. 98–557 substituted “members” for “men” in two places.
+**1984**—Pub. L. 98–557 substituted "members" for "men" in two places.
 
-**1983**—Pub. L. 97–417 inserted “commodores;” after “rear admirals;”.
+**1983**—Pub. L. 97–417 inserted "commodores;" after "rear admirals;".
 
-**1972**—Pub. L. 92–451 substituted “vice admirals” for “a vice admiral”.
+**1972**—Pub. L. 92–451 substituted "vice admirals" for "a vice admiral".
 
 **1960**—Pub. L. 86–474 inserted the grade of admiral.
 
-**1956**—Act Aug. 10, 1956, repealed and reenacted section by general amendment thereby substituting “chief warrant officers, W–4; chief warrant officers, W–3; chief warrant officers, W–2” for “commissioned warrant officers”, and “warrant officers, W–1” for “warrant officers”.
+**1956**—Act Aug. 10, 1956, repealed and reenacted section by general amendment thereby substituting "chief warrant officers, W–4; chief warrant officers, W–3; chief warrant officers, W–2" for "commissioned warrant officers", and "warrant officers, W–1" for "warrant officers".
 
 #### Effective Date of 1994 Amendment ####
 

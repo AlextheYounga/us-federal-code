@@ -28,8 +28,8 @@ There is authorized to be appropriated $3,000,000 to carry out this subsection.
 
 **2000**—Pub. L. 106–176, §127(b), made technical correction to directory language of Pub. L. 104–333. See 1996 Amendment note below.
 
-Subsec. (b)(1). Pub. L. 106–176, §127(a), substituted “and visitor center” for “and visitors’ center”.
+Subsec. (b)(1). Pub. L. 106–176, §127(a), substituted "and visitor center" for "and visitors' center".
 
 **1996**—Pub. L. 104–333, as amended by Pub. L. 106–176, §127(b), which directed amendment of section 3 of Act of October 8, 1988, by designating existing provisions as subsec. (a), inserting heading, and adding subsec. (b), was executed by making the amendment to this section to reflect the probable intent of Congress.
 
-**1990**—Pub. L. 101–399 substituted “referred to in paragraph (1), (2), or (3)” for “referred to in paragraph (1) or (2)” and inserted at end “The Secretary may not acquire the property referred to in paragraph (3) of section 410oo–1(b) of this title except by donation.”
+**1990**—Pub. L. 101–399 substituted "referred to in paragraph (1), (2), or (3)" for "referred to in paragraph (1) or (2)" and inserted at end "The Secretary may not acquire the property referred to in paragraph (3) of section 410oo–1(b) of this title except by donation."

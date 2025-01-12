@@ -38,7 +38,7 @@ Sec.
 
 1723. Rewards.
 
-1724. Secretarial and delegated States’ actions and limitation periods.
+1724. Secretarial and delegated States' actions and limitation periods.
 
 1725. Assessments.
 

@@ -1,6 +1,6 @@
 ### §98. Short title ###
 
-This subchapter may be cited as the “Strategic and Critical Materials Stock Piling Act”.
+This subchapter may be cited as the "Strategic and Critical Materials Stock Piling Act".
 
 (June 7, 1939, ch. 190, §1, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 319.)
 
@@ -10,19 +10,19 @@ A prior section 98, acts June 7, 1939, ch. 190, §1, 53 Stat. 811; July 23, 1946
 
 #### Short Title of 1987 Amendment ####
 
-Pub. L. 100–180, div. C, title II, §3201, Dec. 4, 1987, 101 Stat. 1245, provided that: “This title [enacting section 98h–5 of this title, amending sections 98a, 98b, 98d, 98e–1, 98h, 98h–2, and 98h–4 of this title, enacting provisions set out as a note under section 98e–1 of this title, and repealing provisions set out as a note under this section] may be cited as the ‘National Defense Stockpile Amendments of 1987’.”
+Pub. L. 100–180, div. C, title II, §3201, Dec. 4, 1987, 101 Stat. 1245, provided that: "This title [enacting section 98h–5 of this title, amending sections 98a, 98b, 98d, 98e–1, 98h, 98h–2, and 98h–4 of this title, enacting provisions set out as a note under section 98e–1 of this title, and repealing provisions set out as a note under this section] may be cited as the 'National Defense Stockpile Amendments of 1987'."
 
 #### Short Title of 1979 Amendment ####
 
-Pub. L. 96–41, §1, July 30, 1979, 93 Stat. 319, provided: “That this Act [enacting this section and sections 98a to 98h–3 of this title, redesignating former section 98h–1 of this title as 98h–4 of this title, amending section 2093 of the Appendix to this title, sections 1743 and 1745 of Title 7, Agriculture, section 741b of Title 15, Commerce and Trade, and section 485 of former Title 40, Public Buildings, Property, and Works, enacting a provision set out as a note under this section, and repealing a provision set out as a note under this section] may be cited as the ‘Strategic and Critical Materials Stock Piling Revision Act of 1979’.”
+Pub. L. 96–41, §1, July 30, 1979, 93 Stat. 319, provided: "That this Act [enacting this section and sections 98a to 98h–3 of this title, redesignating former section 98h–1 of this title as 98h–4 of this title, amending section 2093 of the Appendix to this title, sections 1743 and 1745 of Title 7, Agriculture, section 741b of Title 15, Commerce and Trade, and section 485 of former Title 40, Public Buildings, Property, and Works, enacting a provision set out as a note under this section, and repealing a provision set out as a note under this section] may be cited as the 'Strategic and Critical Materials Stock Piling Revision Act of 1979'."
 
 #### Short Title ####
 
-Act June 7, 1939, ch. 190, §11, formerly §10, as added by act July 23, 1946, ch. 590, 60 Stat. 596; renumbered §11, Pub. L. 92–156, title V, §503(1), Nov. 17, 1971, 85 Stat. 427, provided that this Act, which enacted this subchapter, be cited as the “Strategic and Critical Materials Stock Piling Act”, prior to repeal by Pub. L. 96–41, §2(b)(2), July 30, 1979, 93 Stat. 324.
+Act June 7, 1939, ch. 190, §11, formerly §10, as added by act July 23, 1946, ch. 590, 60 Stat. 596; renumbered §11, Pub. L. 92–156, title V, §503(1), Nov. 17, 1971, 85 Stat. 427, provided that this Act, which enacted this subchapter, be cited as the "Strategic and Critical Materials Stock Piling Act", prior to repeal by Pub. L. 96–41, §2(b)(2), July 30, 1979, 93 Stat. 324.
 
 #### New Budget Authority ####
 
-Pub. L. 96–41, §4, July 30, 1979, 93 Stat. 320, provided that: “Any provision authorizing the enactment of new budget authority contained in the amendments made by this Act [see Short Title of 1979 Amendment note above] shall be effective on October 1, 1979.”
+Pub. L. 96–41, §4, July 30, 1979, 93 Stat. 320, provided that: "Any provision authorizing the enactment of new budget authority contained in the amendments made by this Act [see Short Title of 1979 Amendment note above] shall be effective on October 1, 1979."
 
 #### Executive Order No. 12155 ####
 

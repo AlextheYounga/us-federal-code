@@ -22,11 +22,11 @@ A prior section 1087gg, Pub. L. 89–329, title IV, §467, as added Pub. L. 96�
 
 #### Amendments ####
 
-**2009**—Subsec. (b). Pub. L. 111–39 substituted “paragraph (4) or (5)” for “paragraph (5)(A), (5)(B)(i), or (6)”.
+**2009**—Subsec. (b). Pub. L. 111–39 substituted "paragraph (4) or (5)" for "paragraph (5)(A), (5)(B)(i), or (6)".
 
 **1998**—Subsec. (c). Pub. L. 105–244 struck out heading and text of subsec. (c) which established the Perkins Loan Revolving Fund and provided for deposits into and payments from the Fund.
 
-**1992**—Pub. L. 102–325 amended section catchline generally, inserting “: Perkins Loan Revolving Fund” after “loans” and added subsec. (c).
+**1992**—Pub. L. 102–325 amended section catchline generally, inserting ": Perkins Loan Revolving Fund" after "loans" and added subsec. (c).
 
 #### Effective Date of 2009 Amendment ####
 
@@ -42,4 +42,4 @@ Amendment by Pub. L. 102–325 to this section, relating to creation of Perkins 
 
 #### Transfer of Balance ####
 
-Pub. L. 105–244, title IV, §467(b), Oct. 7, 1998, 112 Stat. 1728, provided that: “Any funds in the Perkins Loan Revolving Fund on the date of enactment of this Act [Oct. 7, 1998] shall be transferred to and deposited in the Treasury.”
+Pub. L. 105–244, title IV, §467(b), Oct. 7, 1998, 112 Stat. 1728, provided that: "Any funds in the Perkins Loan Revolving Fund on the date of enactment of this Act [Oct. 7, 1998] shall be transferred to and deposited in the Treasury."

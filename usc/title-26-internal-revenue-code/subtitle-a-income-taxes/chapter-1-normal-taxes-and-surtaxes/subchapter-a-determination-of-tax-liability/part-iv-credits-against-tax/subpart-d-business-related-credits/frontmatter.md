@@ -68,13 +68,13 @@ Sec.
 
 Pub. L. 110–245, title I, §111(d), June 17, 2008, 122 Stat. 1635, added item 45P.
 
-Pub. L. 110–234, title XV, §§15321(b)(3)(B), 15343(d), May 22, 2008, 122 Stat. 1513, 1520, and Pub. L. 110–246, title XV, §§15321(b)(3)(B), 15343(d), June 18, 2008, 122 Stat. 2275, 2282, made identical amendments, inserting “, etc.,” after “Alcohol” in item 40 and adding item 45O. The amendments by Pub. L. 110–234 were repealed by Pub. L. 110–246, §4(a), June 18, 2008, 122 Stat. 1664.
+Pub. L. 110–234, title XV, §§15321(b)(3)(B), 15343(d), May 22, 2008, 122 Stat. 1513, 1520, and Pub. L. 110–246, title XV, §§15321(b)(3)(B), 15343(d), June 18, 2008, 122 Stat. 2275, 2282, made identical amendments, inserting ", etc.," after "Alcohol" in item 40 and adding item 45O. The amendments by Pub. L. 110–234 were repealed by Pub. L. 110–246, §4(a), June 18, 2008, 122 Stat. 1664.
 
 **2006**—Pub. L. 109–432, div. A, title IV, §405(d), Dec. 20, 2006, 120 Stat. 2958, added item 45N.
 
-**2005**—Pub. L. 109–58, title XIII, §§1306(c), 1322(a)(3)(L), 1332(e), 1334(c), 1346(b)(2), Aug. 8, 2005, 119 Stat. 999, 1012, 1026, 1033, 1055, inserted “and renewable diesel” after “Biodiesel” in item 40A and added items 45J to 45M.
+**2005**—Pub. L. 109–58, title XIII, §§1306(c), 1322(a)(3)(L), 1332(e), 1334(c), 1346(b)(2), Aug. 8, 2005, 119 Stat. 999, 1012, 1026, 1033, 1055, inserted "and renewable diesel" after "Biodiesel" in item 40A and added items 45J to 45M.
 
-**2004**—Pub. L. 108–357, title II, §245(d), title III, §§302(c)(3), 339(e), 341(d), title VII, §710(b)(3)(B), Oct. 22, 2004, 118 Stat. 1448, 1466, 1484, 1487, 1556, added items 40A and 45G to 45I and inserted “, etc” after “resources” in item 45.
+**2004**—Pub. L. 108–357, title II, §245(d), title III, §§302(c)(3), 339(e), 341(d), title VII, §710(b)(3)(B), Oct. 22, 2004, 118 Stat. 1448, 1466, 1484, 1487, 1556, added items 40A and 45G to 45I and inserted ", etc" after "resources" in item 45.
 
 Pub. L. 108–311, title IV, §408(b)(7), Oct. 4, 2004, 118 Stat. 1193, amended directory language of Pub. L. 107–16, §619(c)(3). See 2001 Amendment note below.
 

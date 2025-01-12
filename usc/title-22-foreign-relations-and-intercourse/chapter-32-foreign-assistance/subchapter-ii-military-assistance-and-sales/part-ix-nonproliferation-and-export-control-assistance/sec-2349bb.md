@@ -16,16 +16,16 @@ The purposes of assistance under this part are to halt the proliferation of nucl
 
 Pub. L. 107–228, div. B, title XIII, §1302, Sept. 30, 2002, 116 Stat. 1435, provided that:
 
-“(a) In General.—For the purpose of enhancing the nonproliferation and export control capabilities of friendly countries, of the amount authorized to be appropriated for fiscal year 2003 by section 585 [586] of the Foreign Assistance Act of 1961 (22 U.S.C. 2349bb et seq.) [22 U.S.C. 2349bb–4], the Secretary is authorized to make available—
+"(a) In General.—For the purpose of enhancing the nonproliferation and export control capabilities of friendly countries, of the amount authorized to be appropriated for fiscal year 2003 by section 585 [586] of the Foreign Assistance Act of 1961 (22 U.S.C. 2349bb et seq.) [22 U.S.C. 2349bb–4], the Secretary is authorized to make available—
 
-“(1) $5,000,000 for the procurement and provision of nuclear, chemical, and biological detection systems, including spectroscopic and pulse echo technologies; and
+"(1) $5,000,000 for the procurement and provision of nuclear, chemical, and biological detection systems, including spectroscopic and pulse echo technologies; and
 
-“(2) $10,000,000 for the procurement and provision of x-ray systems capable of imaging sea-cargo containers.
+"(2) $10,000,000 for the procurement and provision of x-ray systems capable of imaging sea-cargo containers.
 
-“(b) Reports on Training Program.—
+"(b) Reports on Training Program.—
 
-“(1) Initial report.—Not later than March 31, 2003, the Secretary shall submit a report to the appropriate congressional committees setting forth his plans and budget for a multiyear training program to train foreign personnel in the utilization of the systems described in subsection (a).
+"(1) Initial report.—Not later than March 31, 2003, the Secretary shall submit a report to the appropriate congressional committees setting forth his plans and budget for a multiyear training program to train foreign personnel in the utilization of the systems described in subsection (a).
 
-“(2) Subsequent reports.—Not later than March 31, 2004, and annually thereafter for the next three years, the Secretary shall submit a report to the appropriate congressional committees describing the progress, current status, and budget of that training program and of the provision of those systems.”
+"(2) Subsequent reports.—Not later than March 31, 2004, and annually thereafter for the next three years, the Secretary shall submit a report to the appropriate congressional committees describing the progress, current status, and budget of that training program and of the provision of those systems."
 
-[For definitions of “Secretary” and “appropriate congressional committees” as used in section 1302 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.]
+[For definitions of "Secretary" and "appropriate congressional committees" as used in section 1302 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.]

@@ -46,7 +46,7 @@
 
 (c) Rule of Construction.—Nothing in subsection (b)(9) may be construed to limit the authority or modify the policies of the Committee on Foreign Investment in the United States established under section 721(k) of the Defense Production Act of 1950 (50 U.S.C. App. 2170(k)).
 
-(d) Materials Critical to National Security Defined.—In this section, the term “materials critical to national security” has the meaning given that term in section 187(e)(1) of this title.
+(d) Materials Critical to National Security Defined.—In this section, the term "materials critical to national security" has the meaning given that term in section 187(e)(1) of this title.
 
 (Added §139e and renumbered §139c, Pub. L. 111–383, div. A, title VII, §896(a), title IX, §901(f), Jan. 7, 2011, 124 Stat. 4314, 4322; amended Pub. L. 112–81, div. A, title VIII, §855, Dec. 31, 2011, 125 Stat. 1521; Pub. L. 112–239, div. A, title IX, §901(a), (b), title X, §1076(a)(13), (b)(3), Jan. 2, 2013, 126 Stat. 1863, 1864, 1948, 1949.)
 
@@ -68,15 +68,15 @@ Another prior section 139c was renumbered section 2434 of this title.
 
 Subsec. (b)(1) to (4). Pub. L. 112–239, §901(a)(1), added pars. (1) to (4) and struck out former pars. (1) to (4) which read as follows:
 
-“(1) Providing input on industrial base matters to strategy reviews, including quadrennial defense reviews conducted pursuant to section 118 of this title.
+"(1) Providing input on industrial base matters to strategy reviews, including quadrennial defense reviews conducted pursuant to section 118 of this title.
 
-“(2) Establishing policies of the Department of Defense for maintenance of the defense industrial base of the United States.
+"(2) Establishing policies of the Department of Defense for maintenance of the defense industrial base of the United States.
 
-“(3) Providing recommendations to the Under Secretary on budget matters pertaining to the industrial base.
+"(3) Providing recommendations to the Under Secretary on budget matters pertaining to the industrial base.
 
-“(4) Providing recommendations to the Under Secretary on supply chain management and supply chain vulnerability.”
+"(4) Providing recommendations to the Under Secretary on supply chain management and supply chain vulnerability."
 
-Subsec. (b)(5) to (9). Pub. L. 112–239, §901(a)(2), redesignated pars. (6) to (10) as (5) to (9), respectively, and struck out former par. (5) which read as follows: “Providing input on industrial base matters to defense acquisition policy guidance.”
+Subsec. (b)(5) to (9). Pub. L. 112–239, §901(a)(2), redesignated pars. (6) to (10) as (5) to (9), respectively, and struck out former par. (5) which read as follows: "Providing input on industrial base matters to defense acquisition policy guidance."
 
 Subsec. (b)(10). Pub. L. 112–239, §901(a)(3), added par. (10). Former par. (10) redesignated (9).
 
@@ -88,7 +88,7 @@ Subsec. (d). Pub. L. 112–239, §901(b), added subsec. (d).
 
 **2011**—Pub. L. 111–383, §901(f), renumbered section 139e of this title as this section.
 
-Subsec. (b)(12). Pub. L. 112–81, as amended by Pub. L. 112–239, §1076(a)(13), substituted “titles I and III” for “titles I and II”.
+Subsec. (b)(12). Pub. L. 112–81, as amended by Pub. L. 112–239, §1076(a)(13), substituted "titles I and III" for "titles I and II".
 
 #### Effective Date of 2013 Amendment ####
 

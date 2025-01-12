@@ -20,9 +20,9 @@ For purposes of subsection (a)—
 
 For purposes of subsections (a) and (b)—
 
-(1) if the rate changes for taxable years “beginning after” or “ending after” a certain date, the following day shall be considered the effective date of the change; and
+(1) if the rate changes for taxable years "beginning after" or "ending after" a certain date, the following day shall be considered the effective date of the change; and
 
-(2) if a rate changes for taxable years “beginning on or after” a certain date, that date shall be considered the effective date of the change.
+(2) if a rate changes for taxable years "beginning on or after" a certain date, that date shall be considered the effective date of the change.
 
 #### (d) Section not to apply to inflation adjustments ####
 
@@ -44,7 +44,7 @@ This section shall not apply to any change in rates under subsection (i) of sect
 
 **1988**—Subsec. (e). Pub. L. 100–647 added subsec. (e).
 
-**1986**—Subsec. (d). Pub. L. 99–514 amended subsec. (d) generally, substituting “apply to inflation adjustments” for “apply to section 1 rate changes made by Economic Recovery Tax Act of 1981” in heading and struck out “section 1 attributable to the amendments made by section 101 of the Economic Tax Act of 1981 or” before “subsection (f)” in text.
+**1986**—Subsec. (d). Pub. L. 99–514 amended subsec. (d) generally, substituting "apply to inflation adjustments" for "apply to section 1 rate changes made by Economic Recovery Tax Act of 1981" in heading and struck out "section 1 attributable to the amendments made by section 101 of the Economic Tax Act of 1981 or" before "subsection (f)" in text.
 
 **1984**—Pub. L. 98–369 renumbered section 21 of this title as this section.
 
@@ -60,7 +60,7 @@ Subsec. (e). Pub. L. 95–30, §101(d)(2)(A), (C), added subsec. (e). Former sub
 
 Subsec. (f). Pub. L. 95–30, §101(d)(2)(B), redesignated subsec. (f) as (d).
 
-**1976**—Subsec. (f). Pub. L. 94–455 substituted “in the surtax exemption and any change under section 11(d) in the surtax exemption” for “and the change made by section 3(c) of the Revenue Adjustment Act of 1975 in section 11(d) (relating to corporate surtax exemption)”.
+**1976**—Subsec. (f). Pub. L. 94–455 substituted "in the surtax exemption and any change under section 11(d) in the surtax exemption" for "and the change made by section 3(c) of the Revenue Adjustment Act of 1975 in section 11(d) (relating to corporate surtax exemption)".
 
 **1975**—Subsec. (f). Pub. L. 94–164 inserted reference to change made by section 3(c) of the Revenue Adjustment Act of 1975.
 
@@ -106,24 +106,24 @@ Pub. L. 88–272, title I, §132, Feb. 26, 1964, 78 Stat. 30, provided that the 
 
 #### Coordination of 1997 Amendment With Section 15 ####
 
-Pub. L. 105–34, title I, §1(c), Aug. 5, 1997, 111 Stat. 788, provided that: “No amendment made by this Act [see Tables for classification] shall be treated as a change in a rate of tax for purposes of section 15 of the Internal Revenue Code of 1986.”
+Pub. L. 105–34, title I, §1(c), Aug. 5, 1997, 111 Stat. 788, provided that: "No amendment made by this Act [see Tables for classification] shall be treated as a change in a rate of tax for purposes of section 15 of the Internal Revenue Code of 1986."
 
 #### Coordination of 1993 Amendment With Section 15 ####
 
-Pub. L. 103–66, title XIII, §13001(c), Aug. 10, 1993, 107 Stat. 416, provided that: “Except in the case of the amendments made by section 13221 [amending sections 11, 852, 1201, and 1445 of this title] (relating to corporate rate increase), no amendment made by this chapter [chapter 1 (§§13001–13444) of title XIII of Pub. L. 103–66, see Tables for classification] shall be treated as a change in a rate of tax for purposes of section 15 of the Internal Revenue Code of 1986.”
+Pub. L. 103–66, title XIII, §13001(c), Aug. 10, 1993, 107 Stat. 416, provided that: "Except in the case of the amendments made by section 13221 [amending sections 11, 852, 1201, and 1445 of this title] (relating to corporate rate increase), no amendment made by this chapter [chapter 1 (§§13001–13444) of title XIII of Pub. L. 103–66, see Tables for classification] shall be treated as a change in a rate of tax for purposes of section 15 of the Internal Revenue Code of 1986."
 
 #### Coordination of 1990 Amendment With Section 15 ####
 
-Pub. L. 101–508, title XI, §11001(c), Nov. 5, 1990, 104 Stat. 1388–400, provided that: “Except as otherwise expressly provided in this title, no amendment made by this title [see Tables for classification] shall be treated as a change in a rate of tax for purposes of section 15 of the Internal Revenue Code of 1986.”
+Pub. L. 101–508, title XI, §11001(c), Nov. 5, 1990, 104 Stat. 1388–400, provided that: "Except as otherwise expressly provided in this title, no amendment made by this title [see Tables for classification] shall be treated as a change in a rate of tax for purposes of section 15 of the Internal Revenue Code of 1986."
 
 #### Coordination of 1987 Amendment With Section 15 ####
 
-Pub. L. 100–203, title X, §10000(c), Dec. 22, 1987, 101 Stat. 1330–382, provided that: “No amendment made by this title [see Tables for classification] shall be treated as a change in a rate of tax for purposes [of] section 15 of the Internal Revenue Code of 1986.”
+Pub. L. 100–203, title X, §10000(c), Dec. 22, 1987, 101 Stat. 1330–382, provided that: "No amendment made by this title [see Tables for classification] shall be treated as a change in a rate of tax for purposes [of] section 15 of the Internal Revenue Code of 1986."
 
 #### Coordination of 1986 Amendment With Section 15 ####
 
 Pub. L. 99–514, §3(b), Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1) In general.—Except as provided in paragraph (2), for purposes of section 15 of the Internal Revenue Code of 1986, no amendment or repeal made by this Act [see Tables for classification] shall be treated as a change in the rate of a tax imposed by chapter 1 of such Code.
+"(1) In general.—Except as provided in paragraph (2), for purposes of section 15 of the Internal Revenue Code of 1986, no amendment or repeal made by this Act [see Tables for classification] shall be treated as a change in the rate of a tax imposed by chapter 1 of such Code.
 
-“(2) Exception.—Paragraph (1) shall not apply to the amendment made by section 601 [amending section 11 of this title] (relating to corporate rate reductions).”
+"(2) Exception.—Paragraph (1) shall not apply to the amendment made by section 601 [amending section 11 of this title] (relating to corporate rate reductions)."

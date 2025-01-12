@@ -14,17 +14,17 @@ Sec.
 
 Pub. L. 111–358, title II, §203, Jan. 4, 2011, 124 Stat. 3994, provided that:
 
-“(a) Assessment.—The Administrator [of NASA] shall enter into an arrangement for an independent assessment of any impediments to space science and engineering workforce development for minority and underrepresented groups at NASA [National Aeronautics and Space Administration], including recommendations on—
+"(a) Assessment.—The Administrator [of NASA] shall enter into an arrangement for an independent assessment of any impediments to space science and engineering workforce development for minority and underrepresented groups at NASA [National Aeronautics and Space Administration], including recommendations on—
 
-“(1) measures to address such impediments;
+"(1) measures to address such impediments;
 
-“(2) opportunities for augmenting the impact of space science and engineering workforce development activities and for expanding proven, effective programs; and
+"(2) opportunities for augmenting the impact of space science and engineering workforce development activities and for expanding proven, effective programs; and
 
-“(3) best practices and lessons learned, as identified through the assessment, to help maximize the effectiveness of existing and future programs to increase the participation of minority and underrepresented groups in the space science and engineering workforce at NASA.
+"(3) best practices and lessons learned, as identified through the assessment, to help maximize the effectiveness of existing and future programs to increase the participation of minority and underrepresented groups in the space science and engineering workforce at NASA.
 
-“(b) Report.—A report on the assessment carried out under subsection (a) shall be transmitted to the House of Representatives Committee on Science and Technology [now Committee on Science, Space, and Technology] and the Senate Committee on Commerce, Science, and Transportation not later than 15 months after the date of enactment of this Act [Jan. 4, 2011].
+"(b) Report.—A report on the assessment carried out under subsection (a) shall be transmitted to the House of Representatives Committee on Science and Technology [now Committee on Science, Space, and Technology] and the Senate Committee on Commerce, Science, and Transportation not later than 15 months after the date of enactment of this Act [Jan. 4, 2011].
 
-“(c) Implementation.—To the extent practicable, the Administrator shall take all necessary steps to address any impediments identified in the assessment.”
+"(c) Implementation.—To the extent practicable, the Administrator shall take all necessary steps to address any impediments identified in the assessment."
 
 #### Ex Ord. No. 11374. Abolition of Missile Sites Labor Commission ####
 
@@ -54,7 +54,7 @@ Memorandum for the Secretary of Defense[,] the Secretary of Commerce[,] the Secr
 
 My Administration is committed to implementing a bold, new approach to human spaceflight. Supported by a $6 billion increase to the National Aeronautics and Space Administration's (NASA) budget over the next 5 years, this strategy will foster the development of path-breaking technologies, increase the reach and reduce the cost of human and robotic exploration of space, and help create thousands of new jobs.
 
-NASA's budget also includes $429 million next year, and $1.9 billion over the next 5 years, to modernize the Kennedy Space Center and other nearby space launch facilities in Florida. This modernization effort will help spur new commercial business and innovation and provide additional good jobs to the region. While all of the new aspects of my Administration's plan together will create thousands of new jobs in Florida, past decisions to end the Space Shuttle program will still affect families and communities along Florida's “Space Coast.”
+NASA's budget also includes $429 million next year, and $1.9 billion over the next 5 years, to modernize the Kennedy Space Center and other nearby space launch facilities in Florida. This modernization effort will help spur new commercial business and innovation and provide additional good jobs to the region. While all of the new aspects of my Administration's plan together will create thousands of new jobs in Florida, past decisions to end the Space Shuttle program will still affect families and communities along Florida's "Space Coast."
 
 Building on this significant new investment at the Kennedy Space Center and my increased budget for NASA overall, I am committed to taking additional steps to help local economies like Florida's Space Coast adapt and thrive in the years ahead. The men and women who work in Florida's aerospace industry are some of the most talented and highly trained in the Nation. It is critical that their skills are tapped as we transform and expand the country's space exploration efforts. That is why I am launching a $40 million, multi-agency initiative to help the Space Coast transform their economies and prepare their workers for the opportunities of tomorrow. This effort will build on and complement ongoing local and Federal economic and workforce-development efforts through a Task Force composed of senior-level Administration officials from relevant agencies that will construct an economic development action plan by August 15, 2010.
 

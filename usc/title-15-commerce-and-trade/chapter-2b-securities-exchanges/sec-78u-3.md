@@ -90,17 +90,17 @@ In any cease-and-desist proceeding under subsection (a) of this section, the Com
 
 #### References in Text ####
 
-This chapter, referred to in subsec. (a), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsec. (a), was in the original "this title". See References in Text note set out under section 78a of this title.
 
-Section 7201 of this title, referred to in subsec. (c)(2), was in the original “section 2 of the Sarbanes-Oxley Act of 2002”, Pub. L. 107–204, which enacted section 7201 of this title and amended section 78c of this title.
+Section 7201 of this title, referred to in subsec. (c)(2), was in the original "section 2 of the Sarbanes-Oxley Act of 2002", Pub. L. 107–204, which enacted section 7201 of this title and amended section 78c of this title.
 
 #### Amendments ####
 
-**2010**—Subsec. (c)(2). Pub. L. 111–203 substituted “Paragraph (1)” for “paragraph (1) subsection”.
+**2010**—Subsec. (c)(2). Pub. L. 111–203 substituted "Paragraph (1)" for "paragraph (1) subsection".
 
-**2002**—Subsec. (c)(2). Pub. L. 107–204, §1103(b), substituted “paragraph (1)” for “This”.
+**2002**—Subsec. (c)(2). Pub. L. 107–204, §1103(b), substituted "paragraph (1)" for "This".
 
-Pub. L. 107–204, §3(b)(3), inserted “registered public accounting firm (as defined in section 7201 of this title),” after “government securities dealer,”.
+Pub. L. 107–204, §3(b)(3), inserted "registered public accounting firm (as defined in section 7201 of this title)," after "government securities dealer,".
 
 Subsec. (c)(3). Pub. L. 107–204, §1103(a), added par. (3).
 

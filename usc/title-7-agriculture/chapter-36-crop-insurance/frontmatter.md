@@ -48,7 +48,7 @@ Sec.
 
 1517. Separability.
 
-1518. “Agricultural commodity” defined.
+1518. "Agricultural commodity" defined.
 
 1519. Repealed.
 

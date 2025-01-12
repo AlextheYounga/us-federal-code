@@ -8,4 +8,4 @@ The Secretary of <sup><a href="#450aa-2_1_target" name="450aa-2_1">1</a></sup> 
 
 (July 14, 1943, ch. 238, §3, 57 Stat. 564.)
 
-[<sup>1</sup> So in original. Probably should be “of the”.](#450aa-2_1)
+[<sup>1</sup> So in original. Probably should be "of the".](#450aa-2_1)

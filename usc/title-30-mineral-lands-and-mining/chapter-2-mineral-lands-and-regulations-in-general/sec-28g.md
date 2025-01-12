@@ -8,9 +8,9 @@ Notwithstanding any other provision of law, for every unpatented mining claim, m
 
 Pub. L. 111–88, which directed the amendment of section 28g of title 30, United States Code, was executed by making the amendment to section 10102 of Pub. L. 103–66, which is classified to this section, to reflect the probable intent of Congress. See 2009 Amendment note below.
 
-Pub. L. 110–161, which directed the amendment of section 28 of title 30, United States Code, “in section 28g”, was executed by making the amendment to section 10102 of Pub. L. 103–66, which is classified to this section, to reflect the probable intent of Congress. See 2007 Amendment note below.
+Pub. L. 110–161, which directed the amendment of section 28 of title 30, United States Code, "in section 28g", was executed by making the amendment to section 10102 of Pub. L. 103–66, which is classified to this section, to reflect the probable intent of Congress. See 2007 Amendment note below.
 
-Pub. L. 108–108, which directed the amendment of section 28 of title 30, United States Code, “in section 28g”, was executed by making the amendment to section 10102 of Pub. L. 103–66, which is classified to this section, to reflect the probable intent of Congress. See 2003 Amendment note below.
+Pub. L. 108–108, which directed the amendment of section 28 of title 30, United States Code, "in section 28g", was executed by making the amendment to section 10102 of Pub. L. 103–66, which is classified to this section, to reflect the probable intent of Congress. See 2003 Amendment note below.
 
 Pub. L. 107–63, which directed the amendment of section 28f(a) of title 30, United States Code, in section 28g, was executed by making the amendment to section 10102 of Pub. L. 103–66, which is classified to this section, to reflect the probable intent of Congress. See 2001 Amendment note below.
 
@@ -18,17 +18,17 @@ Pub. L. 105–277, which directed the amendment of section 28g of title 30, Unit
 
 #### Amendments ####
 
-**2009**—Pub. L. 111–88 substituted “, to the extent provided in advance in Appropriations Acts,” for “and before September 30, 2008,”. See Codification note above.
+**2009**—Pub. L. 111–88 substituted ", to the extent provided in advance in Appropriations Acts," for "and before September 30, 2008,". See Codification note above.
 
-Pub. L. 111–8, which directed the removal of the modifications made by Pub. L. 110–161, was executed by inserting “and before September 30, 2008,” before “pursuant to”. See 2007 Amendment note below.
+Pub. L. 111–8, which directed the removal of the modifications made by Pub. L. 110–161, was executed by inserting "and before September 30, 2008," before "pursuant to". See 2007 Amendment note below.
 
-**2007**—Pub. L. 110–161 struck out “and before September 30, 2008,” before “pursuant to”. See Codification note above.
+**2007**—Pub. L. 110–161 struck out "and before September 30, 2008," before "pursuant to". See Codification note above.
 
-**2003**—Pub. L. 108–108 substituted “2008” for “2003”. See Codification note above.
+**2003**—Pub. L. 108–108 substituted "2008" for "2003". See Codification note above.
 
-**2001**—Pub. L. 107–63 substituted “2003” for “2001”. See Codification note above.
+**2001**—Pub. L. 107–63 substituted "2003" for "2001". See Codification note above.
 
-**1998**—Pub. L. 105–277 substituted “2001” for “1998”. See Codification note above.
+**1998**—Pub. L. 105–277 substituted "2001" for "1998". See Codification note above.
 
 #### Similar Provisions ####
 

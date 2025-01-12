@@ -16,21 +16,21 @@ The district courts of the United States and the United States courts of any Ter
 
 #### References in Text ####
 
-This chapter, referred to in text, was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in text, was in the original "this title". See References in Text note set out under section 78a of this title.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Codification ####
 
-As originally enacted section contained references to the Supreme Court of the District of Columbia. Act June 25, 1936, substituted “the district court of the United States for the District of Columbia” for “the Supreme Court of the District of Columbia”, and act June 25, 1948, as amended by act May 24, 1949, substituted “United States District Court for the District of Columbia” for “district court of the United States for the District of Columbia”. Pub. L. 100–181 struck out reference to the United States District Court for the District of Columbia. Previously, such words had been editorially eliminated as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which provides that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district”, and section 88 of Title 28 which provides that “the District of Columbia constitutes one judicial district”.
+As originally enacted section contained references to the Supreme Court of the District of Columbia. Act June 25, 1936, substituted "the district court of the United States for the District of Columbia" for "the Supreme Court of the District of Columbia", and act June 25, 1948, as amended by act May 24, 1949, substituted "United States District Court for the District of Columbia" for "district court of the United States for the District of Columbia". Pub. L. 100–181 struck out reference to the United States District Court for the District of Columbia. Previously, such words had been editorially eliminated as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which provides that "There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district", and section 88 of Title 28 which provides that "the District of Columbia constitutes one judicial district".
 
 #### Amendments ####
 
 **2010**—Pub. L. 111–203, §929P(b)(2), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-Pub. L. 111–203, §929E(b), inserted “In any action or proceeding instituted by the Commission under this chapter in a United States district court for any judicial district, a subpoena issued to compel the attendance of a witness or the production of documents or tangible things (or both) at a hearing or trial may be served at any place within the United States. Rule 45(c)(3)(A)(ii) of the Federal Rules of Civil Procedure shall not apply to a subpoena issued under the preceding sentence.” after “defendant may be found.”
+Pub. L. 111–203, §929E(b), inserted "In any action or proceeding instituted by the Commission under this chapter in a United States district court for any judicial district, a subpoena issued to compel the attendance of a witness or the production of documents or tangible things (or both) at a hearing or trial may be served at any place within the United States. Rule 45(c)(3)(A)(ii) of the Federal Rules of Civil Procedure shall not apply to a subpoena issued under the preceding sentence." after "defendant may be found."
 
-**1987**—Pub. L. 100–181 struck out “, the United States District Court for the District of Columbia,” after “district courts of the United States” and substituted “sections 1254, 1291, 1292, and 1294 of title 28” for “sections 128 and 240 of the Judicial Code, as amended (U.S.C., title 28, secs. 225 and 347)”. See Codification note above.
+**1987**—Pub. L. 100–181 struck out ", the United States District Court for the District of Columbia," after "district courts of the United States" and substituted "sections 1254, 1291, 1292, and 1294 of title 28" for "sections 128 and 240 of the Judicial Code, as amended (U.S.C., title 28, secs. 225 and 347)". See Codification note above.
 
 #### Effective Date of 2010 Amendment ####
 

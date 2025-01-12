@@ -6,4 +6,4 @@ There is authorized to be appropriated $6,000,000 for acquisition of lands and i
 
 #### Amendments ####
 
-**2009**—Pub. L. 111–11 substituted “National Historical Park” for “National Historic Site”.
+**2009**—Pub. L. 111–11 substituted "National Historical Park" for "National Historic Site".

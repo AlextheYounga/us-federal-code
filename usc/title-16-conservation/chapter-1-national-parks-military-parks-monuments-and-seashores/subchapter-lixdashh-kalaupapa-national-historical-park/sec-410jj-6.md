@@ -1,6 +1,6 @@
 ### §410jj–6. Additional needs of leprosy patients and Native Hawaiians for employment and training; specific provisions ###
 
-The following provisions are made with respect to additional needs of the leprosy patients and Native Hawaiians for employment and training. (The term “Native Hawaiian” as used in this subchapter, means a descendant of not less than one-half part of the blood of the races inhabiting the Hawaiian Islands previous to the year 1778.)—
+The following provisions are made with respect to additional needs of the leprosy patients and Native Hawaiians for employment and training. (The term "Native Hawaiian" as used in this subchapter, means a descendant of not less than one-half part of the blood of the races inhabiting the Hawaiian Islands previous to the year 1778.)—
 
 (1) Notwithstanding any other provision of law, the Secretary shall give first preference to qualified patients and Native Hawaiians in making appointments to positions established for the administration of the park, and the appointment of patients and Native Hawaiians shall be without regard to any provision of the Federal civil service laws giving an employment preference to any other class of applicant and without regard to any numerical limitation on personnel otherwise applicable.
 

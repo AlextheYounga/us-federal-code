@@ -6,12 +6,12 @@
 
 (c) As used in subsection (a) of this section—
 
-(1) The term “aircraft” means any contrivance used for flight in the air; and
+(1) The term "aircraft" means any contrivance used for flight in the air; and
 
-(2) The term “motor vehicle” includes an automobile, automobile truck, automobile wagon, motorcycle, or any other self-propelled vehicle designed for running on land.
+(2) The term "motor vehicle" includes an automobile, automobile truck, automobile wagon, motorcycle, or any other self-propelled vehicle designed for running on land.
 
 (Added Pub. L. 86–234, §1(a), Sept. 8, 1959, 73 Stat. 470; amended Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Amendments ####
 
-**1994**—Subsecs. (a), (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
+**1994**—Subsecs. (a), (b). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $500".

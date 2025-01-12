@@ -4,7 +4,7 @@ Section, added Pub. L. 92–606, §1(a), Oct. 31, 1972, 86 Stat. 1494; amended P
 
 #### Amendment Subsequent to Repeal ####
 
-Pub. L. 108–357, title IX, §908(c)(4), (d), Oct. 22, 2004, 118 Stat. 1656, 1657, applicable to taxable years ending after Oct. 22, 2004, amended section, as in effect before the effective date of its repeal, in introductory provisions of subsec. (a), by substituting “who, during the entire taxable year” for “for the taxable year who”, in subsecs. (a)(1) and (b)(1)(B), by inserting “bona fide” before “resident”, in subsec. (b)(1)(A), by inserting “(other a bona fide resident of Guam during the entire taxable year)” after “United States”, and, in subsection (b)(2), by striking out “residence and” before “citizenship”.
+Pub. L. 108–357, title IX, §908(c)(4), (d), Oct. 22, 2004, 118 Stat. 1656, 1657, applicable to taxable years ending after Oct. 22, 2004, amended section, as in effect before the effective date of its repeal, in introductory provisions of subsec. (a), by substituting "who, during the entire taxable year" for "for the taxable year who", in subsecs. (a)(1) and (b)(1)(B), by inserting "bona fide" before "resident", in subsec. (b)(1)(A), by inserting "(other a bona fide resident of Guam during the entire taxable year)" after "United States", and, in subsection (b)(2), by striking out "residence and" before "citizenship".
 
 #### Effective Date of Repeal ####
 

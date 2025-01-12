@@ -4,19 +4,19 @@ Sec.
 
 1. Words denoting number, gender, etc. 1
 
-2. “County” as including “parish”, etc. 1
+2. "County" as including "parish", etc. 1
 
-3. “Vessel” as including all means of water transportation.
+3. "Vessel" as including all means of water transportation.
 
-4. “Vehicle” as including all means of land transportation.
+4. "Vehicle" as including all means of land transportation.
 
-5. “Company” or “association” as including successors and assigns.
+5. "Company" or "association" as including successors and assigns.
 
-6. Limitation of term “products of American fisheries.”
+6. Limitation of term "products of American fisheries."
 
-7. Definition of “marriage” and “spouse”.
+7. Definition of "marriage" and "spouse".
 
-8. “Person”, “human being”, “child”, and “individual” as including born-alive infant.
+8. "Person", "human being", "child", and "individual" as including born-alive infant.
 
 #### Amendments ####
 

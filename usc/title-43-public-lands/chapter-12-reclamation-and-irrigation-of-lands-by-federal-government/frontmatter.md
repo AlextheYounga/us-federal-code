@@ -22,6 +22,8 @@ Sec.
 
 373e. Bureau of Reclamation site security.
 
+373f. Partnerships, grants, and cooperative agreements with local joint powers authorities.
+
 374. Sale of lands acquired in connection with irrigation project.
 
 375. Sale of land improved at expense of reclamation fund.
@@ -75,6 +77,8 @@ Sec.
 390a. Repealed.
 
 390b. Development of water supplies for domestic, municipal, industrial, and other purposes.
+
+390b–1. Improving planning and administration of water supply storage.
 
 390c. Water reservoirs; interests of States and local agencies in storage space.
 
@@ -274,7 +278,7 @@ Sec.
 
 #### SUBCHAPTER II—RECLAMATION FUND GENERALLY ####
 
-391. Establishment of “reclamation fund”.
+391. Establishment of "reclamation fund".
 
 391a. Advances to reclamation fund.
 
@@ -344,7 +348,7 @@ Sec.
 
 421a. Construction of distribution and drainage systems by irrigation districts or public agencies.
 
-421b. Loans for construction of distribution and drainage systems; repayment contract; time period for repayment of loan; “irrigation district or other public agency” defined.
+421b. Loans for construction of distribution and drainage systems; repayment contract; time period for repayment of loan; "irrigation district or other public agency" defined.
 
 421c. Conditions of loan for distribution and drainage systems; reconveyance by Secretary of lands, interests in lands, and distribution works heretofore conveyed to the United States; conditions of reconveyance; rights of way.
 
@@ -486,7 +490,7 @@ Sec.
 
 451h. Establishment of farm units; size; contiguous or noncontiguous.
 
-451i. “Federal irrigation project” defined.
+451i. "Federal irrigation project" defined.
 
 451j. Rules and regulations.
 
@@ -572,7 +576,7 @@ Sec.
 
 485h–2. Amendments to existing contracts.
 
-485h–3. “Long-term contract” defined.
+485h–3. "Long-term contract" defined.
 
 485h–4. Application of State laws.
 
@@ -620,7 +624,7 @@ Sec.
 
 502. Emergency fund to assure continuous operation of projects and project facilities governed by Federal reclamation law.
 
-503. “Unusual or emergency conditions” defined.
+503. "Unusual or emergency conditions" defined.
 
 504. Rehabilitation and betterment of Federal reclamation projects, including small reclamation projects; return of costs; interest; definitions; performance of work.
 
@@ -748,7 +752,7 @@ Sec.
 
 597b. Compensation for easements.
 
-597c. Reservation of Indians’ right to use lands.
+597c. Reservation of Indians' right to use lands.
 
 597d. Regulations.
 

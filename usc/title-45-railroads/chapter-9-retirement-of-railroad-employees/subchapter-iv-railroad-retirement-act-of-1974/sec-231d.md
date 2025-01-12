@@ -58,31 +58,31 @@ The Social Security Act, referred to in subsecs. (a) and (b), is act Aug. 14, 19
 
 #### Amendments ####
 
-**2008**—Subsec. (d). Pub. L. 110–458, which directed repeal of subsec. (d) of section 5 of the Railroad Retirement Act, was executed by striking out subsec. (d) of this section, which is section 5 of the Railroad Retirement Act of 1974, to reflect the probable intent of Congress. Text read as follows: “Notwithstanding any other provision of law, the payment of any portion of an annuity computed under section 231b(b) of this title to a surviving former spouse in accordance with a court decree of divorce, annulment, or legal separation or the terms of any court-approved property settlement incident to any such court decree shall not be terminated upon the death of the individual who performed the service with respect to which such annuity is so computed unless such termination is otherwise required by the terms of such court decree.”
+**2008**—Subsec. (d). Pub. L. 110–458, which directed repeal of subsec. (d) of section 5 of the Railroad Retirement Act, was executed by striking out subsec. (d) of this section, which is section 5 of the Railroad Retirement Act of 1974, to reflect the probable intent of Congress. Text read as follows: "Notwithstanding any other provision of law, the payment of any portion of an annuity computed under section 231b(b) of this title to a surviving former spouse in accordance with a court decree of divorce, annulment, or legal separation or the terms of any court-approved property settlement incident to any such court decree shall not be terminated upon the death of the individual who performed the service with respect to which such annuity is so computed unless such termination is otherwise required by the terms of such court decree."
 
 **2006**—Subsec. (d). Pub. L. 109–280 added subsec. (d).
 
-**2001**—Subsec. (b). Pub. L. 107–90 inserted second and third sentences and struck out former second sentence which read as follows: “An application filed with the Board for an annuity under this subchapter shall, unless the applicant specifies otherwise, be deemed to be an application for any benefit to which such applicant may be entitled under this subchapter or title II of the Social Security Act.”
+**2001**—Subsec. (b). Pub. L. 107–90 inserted second and third sentences and struck out former second sentence which read as follows: "An application filed with the Board for an annuity under this subchapter shall, unless the applicant specifies otherwise, be deemed to be an application for any benefit to which such applicant may be entitled under this subchapter or title II of the Social Security Act."
 
-**1983**—Subsec. (a). Pub. L. 98–76, §103(a)(1), substituted “Subject to the limitations set forth below, an annuity” for “An annuity” in provisions preceding cl. (i).
+**1983**—Subsec. (a). Pub. L. 98–76, §103(a)(1), substituted "Subject to the limitations set forth below, an annuity" for "An annuity" in provisions preceding cl. (i).
 
 Pub. L. 98–76, §103(a)(3), inserted provision following cl. (vii) that for purpose of determining annuity amounts provided under sections 231b(a), 231c(a), and 231c(f) of this title, provisions with respect to beginning dates of annuities set forth in this subsection shall be deemed to govern beginning dates of monthly benefits provided under Social Security Act.
 
-Subsec. (a)(ii). Pub. L. 98–76, §103(a)(2), amended cl. (ii) generally, substituting “in the case of an applicant otherwise entitled to an annuity under paragraph (iv) or (v) of section 231a(a)(1) of this title or under section 231a(d)(1)(i) of this title on the basis of disability, not earlier than the later of (A) the first day of the sixth month following the onset date of the disability for which such annuity is awarded or (B) the first day of the twelfth month before the month in which the application therefor was filed” for “not earlier than the first day of the twelfth month before the month in which the application therefor was filed”.
+Subsec. (a)(ii). Pub. L. 98–76, §103(a)(2), amended cl. (ii) generally, substituting "in the case of an applicant otherwise entitled to an annuity under paragraph (iv) or (v) of section 231a(a)(1) of this title or under section 231a(d)(1)(i) of this title on the basis of disability, not earlier than the later of (A) the first day of the sixth month following the onset date of the disability for which such annuity is awarded or (B) the first day of the twelfth month before the month in which the application therefor was filed" for "not earlier than the first day of the twelfth month before the month in which the application therefor was filed".
 
-Subsec. (a)(iii). Pub. L. 98–76, §103(a)(2), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “in the case of an applicant otherwise eligible for an annuity under section 231a(a)(1) or 231a(c) of this title not earlier than the date following the last day of compensated service of the applicant; and”.
+Subsec. (a)(iii). Pub. L. 98–76, §103(a)(2), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "in the case of an applicant otherwise eligible for an annuity under section 231a(a)(1) or 231a(c) of this title not earlier than the date following the last day of compensated service of the applicant; and".
 
-Subsec. (b). Pub. L. 98–76, §106(i), substituted “retirement age (as defined in section 216(l) of the Social Security Act)” for “the age of 65” and “age 65”.
+Subsec. (b). Pub. L. 98–76, §106(i), substituted "retirement age (as defined in section 216(l) of the Social Security Act)" for "the age of 65" and "age 65".
 
-Subsec. (c)(2). Pub. L. 98–76, §106(j), substituted “retirement age (as defined in section 216(l) of the Social Security Act)” for “age 65”.
+Subsec. (c)(2). Pub. L. 98–76, §106(j), substituted "retirement age (as defined in section 216(l) of the Social Security Act)" for "age 65".
 
-Subsec. (c)(7)(D)(i). Pub. L. 98–76, §104(c)(1), substituted “full-time elementary or secondary school student” for “full-time student”.
+Subsec. (c)(7)(D)(i). Pub. L. 98–76, §104(c)(1), substituted "full-time elementary or secondary school student" for "full-time student".
 
-Subsec. (c)(7)(D)(ii). Pub. L. 98–76, §104(c)(2), substituted “19” for “22”.
+Subsec. (c)(7)(D)(ii). Pub. L. 98–76, §104(c)(2), substituted "19" for "22".
 
 **1981**—Subsec. (a)(iv) to (vii). Pub. L. 97–35, §1120(a), added pars. (iv) to (vii).
 
-Subsec. (b). Pub. L. 97–35, §1120(b), substituted “title II of the Social Security Act” for “the Social Security Act”.
+Subsec. (b). Pub. L. 97–35, §1120(b), substituted "title II of the Social Security Act" for "the Social Security Act".
 
 Subsec. (c)(3). Pub. L. 97–35, §1120(c), inserted provision that entitlement of the divorced wife of an individual to an annuity under section 231a(c) shall end on the last day of the month preceding the month in which (A) the divorced wife or the individual dies or (B) the divorced wife remarries.
 
@@ -90,11 +90,11 @@ Subsec. (c)(9). Pub. L. 97–35, §1120(d), added subdiv. (9).
 
 #### Effective Date of 2008 Amendment ####
 
-Pub. L. 110–458, title I, §110(b)(2), Dec. 23, 2008, 122 Stat. 5112, provided that: “The amendment made by subsection (a)(2) [amending this section] shall take effect upon the date of the enactment of this Act [Dec. 23, 2008].”
+Pub. L. 110–458, title I, §110(b)(2), Dec. 23, 2008, 122 Stat. 5112, provided that: "The amendment made by subsection (a)(2) [amending this section] shall take effect upon the date of the enactment of this Act [Dec. 23, 2008]."
 
 #### Effective Date of 2006 Amendment ####
 
-Pub. L. 109–280, title X, §1003(b), Aug. 17, 2006, 120 Stat. 1053, provided that: “The amendment made by this section [amending this section] shall take effect 1 year after the date of the enactment of this Act [Aug. 17, 2006].”
+Pub. L. 109–280, title X, §1003(b), Aug. 17, 2006, 120 Stat. 1053, provided that: "The amendment made by this section [amending this section] shall take effect 1 year after the date of the enactment of this Act [Aug. 17, 2006]."
 
 #### Effective Date of 2001 Amendment ####
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 107–90 effective Jan. 1, 2002, see section 103(j) of Pub.
 
 #### Effective Date of 1983 Amendment ####
 
-Pub. L. 98–76, title I, §103(b), Aug. 12, 1983, 97 Stat. 416, provided that: “The amendments made by this section [amending this section] shall become effective on the first day of the first month beginning after the date of the enactment of this Act [Aug. 12, 1983], and shall apply only with respect to annuities awarded on the basis of applications filed on or after that day.”
+Pub. L. 98–76, title I, §103(b), Aug. 12, 1983, 97 Stat. 416, provided that: "The amendments made by this section [amending this section] shall become effective on the first day of the first month beginning after the date of the enactment of this Act [Aug. 12, 1983], and shall apply only with respect to annuities awarded on the basis of applications filed on or after that day."
 
 Amendment by section 104(c) of Pub. L. 98–76 effective with respect to annuities accruing for months after Aug. 1983, with certain exceptions, see section 104(d) of Pub. L. 98–76, set out as a note under section 231a of this title.
 
@@ -114,4 +114,4 @@ Amendment by section 1120(a), (d) of Pub. L. 97–35 effective Jan. 1, 1975, ame
 
 [<sup>1</sup> So in original. The period probably should be a semicolon.](#231d_1)
 
-[<sup>2</sup> So in original. Probably should be “therefor,”.](#231d_2)
+[<sup>2</sup> So in original. Probably should be "therefor,".](#231d_2)

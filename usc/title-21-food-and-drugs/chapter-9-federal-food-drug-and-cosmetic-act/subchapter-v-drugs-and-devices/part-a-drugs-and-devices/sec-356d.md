@@ -20,19 +20,19 @@ The strategic plan described in subparagraph (A) shall include—
 
 (iv) plans for considering the impact of drug shortages on research and clinical trials; and
 
-(v) an examination of whether to establish a “qualified manufacturing partner program”, as described in subparagraph (C).
+(v) an examination of whether to establish a "qualified manufacturing partner program", as described in subparagraph (C).
 
 #### (C) Description of program ####
 
-In conducting the examination of a “qualified manufacturing partner program” under subparagraph (B)(v), the Secretary—
+In conducting the examination of a "qualified manufacturing partner program" under subparagraph (B)(v), the Secretary—
 
 (i) shall take into account that—
 
-(I) a “qualified manufacturer”, for purposes of such program, would need to have the capability and capacity to supply products determined or anticipated to be in shortage; and
+(I) a "qualified manufacturer", for purposes of such program, would need to have the capability and capacity to supply products determined or anticipated to be in shortage; and
 
-(II) in examining the capability and capacity to supply products in shortage, the “qualified manufacturer” could have a site that manufactures a drug listed under section 356e of this title or have the capacity to produce drugs in response to a shortage within a rapid timeframe; and
+(II) in examining the capability and capacity to supply products in shortage, the "qualified manufacturer" could have a site that manufactures a drug listed under section 356e of this title or have the capacity to produce drugs in response to a shortage within a rapid timeframe; and
 
-(ii) shall examine whether incentives are necessary to encourage the participation of “qualified manufacturers” in such a program.
+(ii) shall examine whether incentives are necessary to encourage the participation of "qualified manufacturers" in such a program.
 
 #### (D) Consultation ####
 

@@ -6,9 +6,9 @@ When no certificate of vote and list mentioned in sections 9 and 11 of this titl
 
 #### Amendments ####
 
-**1984**—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services” in section catchline and two places in text.
+**1984**—Pub. L. 98–497 substituted "Archivist of the United States" for "Administrator of General Services" in section catchline and two places in text.
 
-**1951**—Act Oct. 31, 1951, substituted “Administrator of General Services” for “Secretary of State” in section catchline and two places in text.
+**1951**—Act Oct. 31, 1951, substituted "Administrator of General Services" for "Secretary of State" in section catchline and two places in text.
 
 #### Effective Date of 1984 Amendment ####
 

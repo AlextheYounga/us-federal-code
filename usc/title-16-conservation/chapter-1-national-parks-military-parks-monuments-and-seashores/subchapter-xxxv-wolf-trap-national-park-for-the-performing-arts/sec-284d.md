@@ -32,7 +32,7 @@ The cooperative agreement shall contain such other terms and conditions as the S
 
 **1990**—Subsec. (c)(4). Pub. L. 101–636 added par. (4).
 
-**1986**—Subsec. (b)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+**1986**—Subsec. (b)(2). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 #### Effective Date of 1990 Amendment ####
 

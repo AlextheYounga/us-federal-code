@@ -16,7 +16,7 @@ The Secretary of the Treasury shall direct the United States Executive Directors
 
 (3) encourage the banks to assist such countries in reducing and restructuring private debt through the use of a portion of a project or policy based environmental loan in ways which will enable such countries to buy back private debt at a rate of discount available for such debt, at auction in the secondary market or through negotiations with creditors holding such debt;
 
-(4) seek to ensure that staff of each bank facilitate debtor countries’ collaboration with local and international non-governmental or private organizations in implementing debt-for-nature exchanges; and
+(4) seek to ensure that staff of each bank facilitate debtor countries' collaboration with local and international non-governmental or private organizations in implementing debt-for-nature exchanges; and
 
 (5) seek to ensure that each bank adopts policy guidelines which to the maximum extent possible provide for—
 
@@ -24,7 +24,7 @@ The Secretary of the Treasury shall direct the United States Executive Directors
 
 (B) the adoption of economic programs to foster sound environmental policies; and
 
-(C) the provision of debtor countries’ policy changes or significant increases in financial resources for use in at least 1 of the following—
+(C) the provision of debtor countries' policy changes or significant increases in financial resources for use in at least 1 of the following—
 
 (i) restoration, protection, or sustainable use of the world's oceans and atmosphere;
 
@@ -48,7 +48,7 @@ The Secretary of the Treasury shall direct the United States Executive Directors
 
 The United States Executive Directors of the multilateral development banks shall seek to negotiate with the other executive directors to provide guidelines for restoration, protection, or sustainable use policies. Pending the outcome of such negotiations, the United States Executive Directors shall consider restoration, protection, or sustainable use policies to be those which—
 
-(1) support development that maintains and restores the renewable natural resource base so that present and future needs of debtor countries’ populations can be met, while not impairing critical ecosystems and not exacerbating global environmental problems;
+(1) support development that maintains and restores the renewable natural resource base so that present and future needs of debtor countries' populations can be met, while not impairing critical ecosystems and not exacerbating global environmental problems;
 
 (2) are environmentally sustainable in that resources are conserved and managed in an effort to remove pressure on the natural resource base and to make judicious use of the land so as to sustain growth and the availability of all natural resources;
 

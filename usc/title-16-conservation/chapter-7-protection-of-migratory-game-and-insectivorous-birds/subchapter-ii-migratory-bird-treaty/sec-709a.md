@@ -16,4 +16,4 @@ Transfer of functions of Secretary of Agriculture to Secretary of the Interior b
 
 #### Availability of Funds ####
 
-Act June 20, 1936, ch. 634, §6, 49 Stat. 1557, provided: “That all moneys now or hereafter available for administration and enforcement of said Act approved July 3, 1918 [this subchapter], shall be equally available for the administration and enforcement of said Act as hereby amended.”
+Act June 20, 1936, ch. 634, §6, 49 Stat. 1557, provided: "That all moneys now or hereafter available for administration and enforcement of said Act approved July 3, 1918 [this subchapter], shall be equally available for the administration and enforcement of said Act as hereby amended."

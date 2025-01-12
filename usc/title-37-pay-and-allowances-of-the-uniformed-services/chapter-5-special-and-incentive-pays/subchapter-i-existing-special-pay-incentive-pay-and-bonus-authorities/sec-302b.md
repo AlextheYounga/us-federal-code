@@ -80,99 +80,99 @@ is entitled to special pay in accordance with this subsection.
 
 #### Amendments ####
 
-**2008**—Subsec. (a)(4). Pub. L. 110–181, §616(a)(1), substituted “at a rate determined by the Secretary concerned, which rate may not exceed the following” for “at the following rates” in introductory provisions.
+**2008**—Subsec. (a)(4). Pub. L. 110–181, §616(a)(1), substituted "at a rate determined by the Secretary concerned, which rate may not exceed the following" for "at the following rates" in introductory provisions.
 
-Subsec. (a)(4)(A). Pub. L. 110–181, §616(a)(2), substituted “$10,000” for “$4,000”.
+Subsec. (a)(4)(A). Pub. L. 110–181, §616(a)(2), substituted "$10,000" for "$4,000".
 
-Subsec. (a)(4)(B). Pub. L. 110–181, §616(a)(3), substituted “$12,000” for “$6,000”.
+Subsec. (a)(4)(B). Pub. L. 110–181, §616(a)(3), substituted "$12,000" for "$6,000".
 
-**2006**—Subsec. (a). Pub. L. 109–163, §625(a)(1), substituted “Board Certification, and Incentive” for “and Board Certification” in heading.
+**2006**—Subsec. (a). Pub. L. 109–163, §625(a)(1), substituted "Board Certification, and Incentive" for "and Board Certification" in heading.
 
-Subsec. (a)(4). Pub. L. 109–364 in introductory provisions substituted “An officer who is entitled to variable special pay under paragraph (2) or (3) is also entitled to additional special pay for any 12-month period during which an agreement executed under subsection (b) is in effect with respect to the officer” for “Subject to subsection (b), an officer entitled to variable special pay under paragraph (2) or (3) also is entitled to additional special pay for any 12-month period during which the officer is not undergoing dental internship or initial residency training”.
+Subsec. (a)(4). Pub. L. 109–364 in introductory provisions substituted "An officer who is entitled to variable special pay under paragraph (2) or (3) is also entitled to additional special pay for any 12-month period during which an agreement executed under subsection (b) is in effect with respect to the officer" for "Subject to subsection (b), an officer entitled to variable special pay under paragraph (2) or (3) also is entitled to additional special pay for any 12-month period during which the officer is not undergoing dental internship or initial residency training".
 
-Pub. L. 109–163, §626, inserted “also” before “is entitled” and “initial” before “residency” in introductory provisions.
+Pub. L. 109–163, §626, inserted "also" before "is entitled" and "initial" before "residency" in introductory provisions.
 
 Subsec. (a)(6). Pub. L. 109–163, §625(a)(2), added par. (6).
 
-Subsec. (b). Pub. L. 109–163, §625(b), substituted “paragraph (4) or (6) of subsection (a)” for “subsection (a)(4)” in two places.
+Subsec. (b). Pub. L. 109–163, §625(b), substituted "paragraph (4) or (6) of subsection (a)" for "subsection (a)(4)" in two places.
 
-Subsec. (b)(2). Pub. L. 109–163, §687(b)(6)(A), added second sentence and struck out former second sentence which read as follows: “If such entitlement is terminated, the officer concerned is entitled to be paid such special pay only for the part of the period on active duty that the officer served, and the officer may be required to refund any amount in excess of that entitlement.”
+Subsec. (b)(2). Pub. L. 109–163, §687(b)(6)(A), added second sentence and struck out former second sentence which read as follows: "If such entitlement is terminated, the officer concerned is entitled to be paid such special pay only for the part of the period on active duty that the officer served, and the officer may be required to refund any amount in excess of that entitlement."
 
-Subsec. (d). Pub. L. 109–163, §625(b), substituted “paragraph (4) or (6) of subsection (a)” for “subsection (a)(4)”.
+Subsec. (d). Pub. L. 109–163, §625(b), substituted "paragraph (4) or (6) of subsection (a)" for "subsection (a)(4)".
 
-Subsec. (e). Pub. L. 109–163, §687(b)(6)(B), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “An officer who voluntarily terminates service on active duty before the end of the period for which a payment was made to such officer under subsection (a)(4) shall refund to the United States an amount which bears the same ratio to the amount paid to such officer as the unserved part of such period bears to the total period for which the payment was made.”
+Subsec. (e). Pub. L. 109–163, §687(b)(6)(B), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: "An officer who voluntarily terminates service on active duty before the end of the period for which a payment was made to such officer under subsection (a)(4) shall refund to the United States an amount which bears the same ratio to the amount paid to such officer as the unserved part of such period bears to the total period for which the payment was made."
 
-Subsecs. (f) to (h). Pub. L. 109–163, §687(b)(6)(C), (D), redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out heading and text of former subsec. (f). Text read as follows: “A discharge in bankruptcy under title 11 shall not release a person from an obligation to reimburse the United States required under the terms of an agreement described in subsection (b) if the final decree of the discharge in bankruptcy was issued within a period of five years after the last day of a period which such person had agreed to serve on active duty. This subsection applies to a discharge in bankruptcy in any proceeding which begins after September 30, 1985.”
+Subsecs. (f) to (h). Pub. L. 109–163, §687(b)(6)(C), (D), redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out heading and text of former subsec. (f). Text read as follows: "A discharge in bankruptcy under title 11 shall not release a person from an obligation to reimburse the United States required under the terms of an agreement described in subsection (b) if the final decree of the discharge in bankruptcy was issued within a period of five years after the last day of a period which such person had agreed to serve on active duty. This subsection applies to a discharge in bankruptcy in any proceeding which begins after September 30, 1985."
 
 **1997**—Subsec. (a)(2)(C) to (G). Pub. L. 105–85, §618(a), added subpars. (C) to (G) and struck out former subpars. (C) to (F) which read as follows:
 
-“(C) $7,000 per year, if the officer has at least six but less than 10 years of creditable service.
+"(C) $7,000 per year, if the officer has at least six but less than 10 years of creditable service.
 
-“(D) $6,000 per year, if the officer has at least 10 but less than 14 years of creditable service.
+"(D) $6,000 per year, if the officer has at least 10 but less than 14 years of creditable service.
 
-“(E) $4,000 per year, if the officer has at least 14 but less than 18 years of creditable service.
+"(E) $4,000 per year, if the officer has at least 14 but less than 18 years of creditable service.
 
-“(F) $3,000 per year, if the officer has 18 or more years of creditable service.”
+"(F) $3,000 per year, if the officer has 18 or more years of creditable service."
 
-Subsec. (a)(3). Pub. L. 105–85, §618(b), substituted “$7,000” for “$1,000”.
+Subsec. (a)(3). Pub. L. 105–85, §618(b), substituted "$7,000" for "$1,000".
 
 Subsec. (a)(4)(B) to (D). Pub. L. 105–85, §618(c), added subpars. (B) and (C) and struck out former subpars. (B) to (D) which read as follows:
 
-“(B) $6,000 per year, if the officer has at least three but less than 14 years of creditable service.
+"(B) $6,000 per year, if the officer has at least three but less than 14 years of creditable service.
 
-“(C) $8,000 per year, if the officer has at least 14 but less than 18 years of creditable service.
+"(C) $8,000 per year, if the officer has at least 14 but less than 18 years of creditable service.
 
-“(D) $10,000 per year, if the officer has at least 18 or more years of creditable service.”
+"(D) $10,000 per year, if the officer has at least 18 or more years of creditable service."
 
 **1996**—Subsec. (a). Pub. L. 104–201, §615(e)(1), inserted heading.
 
-Subsec. (a)(2). Pub. L. 104–201, §615(a)(1), substituted “$3,000” for “$1,200” in subpar. (A), “$7,000” for “$2,000” in subpar. (B), and “$7,000” for “$4,000” in subpar. (C).
+Subsec. (a)(2). Pub. L. 104–201, §615(a)(1), substituted "$3,000" for "$1,200" in subpar. (A), "$7,000" for "$2,000" in subpar. (B), and "$7,000" for "$4,000" in subpar. (C).
 
 Subsec. (a)(4). Pub. L. 104–201, §615(a)(2), added subpars. (A) to (D) and struck out former subpars. (A) to (C) which read as follows:
 
-“(A) $6,000 per year, if the officer has at least three but less than 14 years of creditable service.
+"(A) $6,000 per year, if the officer has at least three but less than 14 years of creditable service.
 
-“(B) $8,000 per year, if the officer has at least 14 but less than 18 years of creditable service.
+"(B) $8,000 per year, if the officer has at least 14 but less than 18 years of creditable service.
 
-“(C) $10,000 per year, if the officer has 18 or more years of creditable service.”
+"(C) $10,000 per year, if the officer has 18 or more years of creditable service."
 
 Subsec. (a)(5). Pub. L. 104–201, §615(a)(3), added subpars. (A) to (E) and struck out former subpars. (A) to (C) which read as follows:
 
-“(A) $2,000 per year, if the officer has less than 12 years of creditable service.
+"(A) $2,000 per year, if the officer has less than 12 years of creditable service.
 
-“(B) $3,000 per year, if the officer has at least 12 but less than 14 years of creditable service.
+"(B) $3,000 per year, if the officer has at least 12 but less than 14 years of creditable service.
 
-“(C) $4,000 per year, if the officer has 14 or more years of creditable service.”
+"(C) $4,000 per year, if the officer has 14 or more years of creditable service."
 
 Subsecs. (b) to (g). Pub. L. 104–201, §615(e)(2)–(7), inserted headings.
 
 Subsec. (h). Pub. L. 104–201, §615(b), added subsec. (h).
 
-**1991**—Pub. L. 102–25 struck out “of this section” wherever appearing, except in subsec. (g), and struck out “of this subsection” wherever appearing.
+**1991**—Pub. L. 102–25 struck out "of this section" wherever appearing, except in subsec. (g), and struck out "of this subsection" wherever appearing.
 
-**1985**—Pub. L. 99–145 amended section generally, substituting “Special pay: dental officers of the armed forces” for “Special pay: dentists” in section catchline and new text for former text which read as follows: “An officer of the Army or Navy in the Dental Corps, an officer of the Air Force who is designated as a dental officer, or a dental officer of the Public Health Service, who is on active duty for a period of at least one year is entitled to special pay at the following rates—
+**1985**—Pub. L. 99–145 amended section generally, substituting "Special pay: dental officers of the armed forces" for "Special pay: dentists" in section catchline and new text for former text which read as follows: "An officer of the Army or Navy in the Dental Corps, an officer of the Air Force who is designated as a dental officer, or a dental officer of the Public Health Service, who is on active duty for a period of at least one year is entitled to special pay at the following rates—
 
-“(1) $100 a month for each month of active duty if he has not completed two years of active duty in the Dental Corps or as a dental officer;
+"(1) $100 a month for each month of active duty if he has not completed two years of active duty in the Dental Corps or as a dental officer;
 
-“(2) $150 a month for each month of active duty if he has completed at least two years of active duty in the Dental Corps or as a dental officer;
+"(2) $150 a month for each month of active duty if he has completed at least two years of active duty in the Dental Corps or as a dental officer;
 
-“(3) $250 a month for each month of active duty if he has completed at least six years of active duty in the Dental Corps or as a dental officer; or
+"(3) $250 a month for each month of active duty if he has completed at least six years of active duty in the Dental Corps or as a dental officer; or
 
-“(4) $350 a month for each month of active duty if he has completed at least ten years of active duty in the Dental Corps or as a dental officer.”
+"(4) $350 a month for each month of active duty if he has completed at least ten years of active duty in the Dental Corps or as a dental officer."
 
-**1980**—Pub. L. 96–284 struck out “, in addition to any other pay or allowances to which he is entitled,” after “entitled” and last sentence containing prohibition against inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay.
+**1980**—Pub. L. 96–284 struck out ", in addition to any other pay or allowances to which he is entitled," after "entitled" and last sentence containing prohibition against inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay.
 
 #### Effective Date of 2008 Amendment ####
 
-Pub. L. 110–181, div. A, title VI, §616(b), Jan. 28, 2008, 122 Stat. 150, provided that: “The amendments made by this section [amending this section] shall apply with respect to agreements entered into under section 302b(b) of title 37, United States Code, on or after the date of the enactment of this Act [Jan. 28, 2008].”
+Pub. L. 110–181, div. A, title VI, §616(b), Jan. 28, 2008, 122 Stat. 150, provided that: "The amendments made by this section [amending this section] shall apply with respect to agreements entered into under section 302b(b) of title 37, United States Code, on or after the date of the enactment of this Act [Jan. 28, 2008]."
 
 #### Effective Date of 2006 Amendment ####
 
-Pub. L. 109–364, div. A, title VI, §615(b), Oct. 17, 2006, 120 Stat. 2249, provided that: “The amendment made by this section [amending this section] shall take effect on October 1, 2006.”
+Pub. L. 109–364, div. A, title VI, §615(b), Oct. 17, 2006, 120 Stat. 2249, provided that: "The amendment made by this section [amending this section] shall take effect on October 1, 2006."
 
 #### Effective Date of 1985 Amendment ####
 
-Pub. L. 99–145, title VI, §639(f), Nov. 8, 1985, 99 Stat. 651, provided that: “The amendments made by this section [amending this section, repealing section 311 of this title, and enacting provisions set out as notes under this section] take effect on October 1, 1985.”
+Pub. L. 99–145, title VI, §639(f), Nov. 8, 1985, 99 Stat. 651, provided that: "The amendments made by this section [amending this section, repealing section 311 of this title, and enacting provisions set out as notes under this section] take effect on October 1, 1985."
 
 #### Effective Date ####
 
@@ -186,28 +186,28 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 Pub. L. 99–145, title VI, §639(c), Nov. 8, 1985, 99 Stat. 651, provided that:
 
-“(1) Subject to paragraphs (2) and (3), a dental officer who on October 1, 1985, is performing obligated service under an agreement under section 311 of title 37, United States Code, that—
+"(1) Subject to paragraphs (2) and (3), a dental officer who on October 1, 1985, is performing obligated service under an agreement under section 311 of title 37, United States Code, that—
 
-“(A) was executed after June 29, 1985; and
+"(A) was executed after June 29, 1985; and
 
-“(B) is affected by the limitation in section 8091 of the Department of Defense Appropriations Act, 1985 (as contained in section 101(h) of Public Law 98–473),
+"(B) is affected by the limitation in section 8091 of the Department of Defense Appropriations Act, 1985 (as contained in section 101(h) of Public Law 98–473),
 
 may execute a new agreement under section 302b of such title (as amended by subsection (a)).
 
-“(2) A dental officer may not execute a new agreement under paragraph (1) unless the amount that may be paid such officer under an agreement under section 302b of title 37, United States Code (as amended by subsection (a)), is greater than the amount to be paid the officer under the existing agreement of the officer under section 311 of such title.
+"(2) A dental officer may not execute a new agreement under paragraph (1) unless the amount that may be paid such officer under an agreement under section 302b of title 37, United States Code (as amended by subsection (a)), is greater than the amount to be paid the officer under the existing agreement of the officer under section 311 of such title.
 
-“(3) In executing a written agreement under paragraph (1), the officer shall agree to remain on active duty for an additional length of time equal to or exceeding the length of time originally required by the existing agreement, beginning on the date the officer accepts the award of special pay under the new agreement.
+"(3) In executing a written agreement under paragraph (1), the officer shall agree to remain on active duty for an additional length of time equal to or exceeding the length of time originally required by the existing agreement, beginning on the date the officer accepts the award of special pay under the new agreement.
 
-“(4) If a new agreement is executed under this subsection, the existing agreement of the officer shall be canceled.
+"(4) If a new agreement is executed under this subsection, the existing agreement of the officer shall be canceled.
 
-“(5) For the purposes of this section, the term ‘dental officer’ has the meaning given that term in section 101 of title 10, United States Code.”
+"(5) For the purposes of this section, the term 'dental officer' has the meaning given that term in section 101 of title 10, United States Code."
 
 #### Minimum Special Pay ####
 
 Pub. L. 99–145, title VI, §639(d), Nov. 8, 1985, 99 Stat. 651, as amended by Pub. L. 99–661, div. A, title XIII, §1342(c), Nov. 14, 1986, 100 Stat. 3991, provided that:
 
-“(1) An officer described in paragraph (2) who, after September 30, 1985, is entitled to special pay under section 302b of title 37, United States Code (as amended by subsection (a)), may (notwithstanding the provisions of such section and in the discretion of the Secretary concerned) be paid such pay, in order to prevent inequities, in an annual amount equal to the total annual amount of dental continuation pay under section 311 of title 37, United States Code, and special pay for dental officers under section 302b of that title to which that officer would have been entitled on September 30, 1985, in accordance with the status of the officer (as determined by the Secretary concerned) during the period for which the pay is paid. Notwithstanding the preceding sentence, an officer may not be paid special pay by reason of this paragraph in an amount greater than the amount of special pay to which the officer was entitled under such sections on September 30, 1985.
+"(1) An officer described in paragraph (2) who, after September 30, 1985, is entitled to special pay under section 302b of title 37, United States Code (as amended by subsection (a)), may (notwithstanding the provisions of such section and in the discretion of the Secretary concerned) be paid such pay, in order to prevent inequities, in an annual amount equal to the total annual amount of dental continuation pay under section 311 of title 37, United States Code, and special pay for dental officers under section 302b of that title to which that officer would have been entitled on September 30, 1985, in accordance with the status of the officer (as determined by the Secretary concerned) during the period for which the pay is paid. Notwithstanding the preceding sentence, an officer may not be paid special pay by reason of this paragraph in an amount greater than the amount of special pay to which the officer was entitled under such sections on September 30, 1985.
 
-“(2) Paragraph (1) applies to an officer who on September 30, 1985, is entitled to dental continuation pay under section 311 of title 37, United States Code; or to special pay for dental officers under section 302b of that title.”
+"(2) Paragraph (1) applies to an officer who on September 30, 1985, is entitled to dental continuation pay under section 311 of title 37, United States Code; or to special pay for dental officers under section 302b of that title."
 
 [Amendment of this note by Pub. L. 99–661 effective Nov. 14, 1986, see section 1342(h)(1) of Pub. L. 99–661, set out as an Effective Date of 1986 Amendment note under section 301 of this title.]

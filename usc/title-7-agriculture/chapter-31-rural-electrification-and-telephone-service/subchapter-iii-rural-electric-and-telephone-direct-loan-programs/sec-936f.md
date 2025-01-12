@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Eligible program ####
 
-The term “eligible program” means a program administered by the Rural Utilities Service and authorized in—
+The term "eligible program" means a program administered by the Rural Utilities Service and authorized in—
 
 (A) this chapter; or
 
@@ -14,7 +14,7 @@ The term “eligible program” means a program administered by the Rural Utilit
 
 #### (2) Substantially underserved trust area ####
 
-The term “substantially underserved trust area” means a community in “trust land” (as defined in section 3765 of title 38) with respect to which the Secretary determines has a high need for the benefits of an eligible program.
+The term "substantially underserved trust area" means a community in "trust land" (as defined in section 3765 of title 38) with respect to which the Secretary determines has a high need for the benefits of an eligible program.
 
 #### (b) Initiative ####
 

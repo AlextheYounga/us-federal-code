@@ -8,9 +8,9 @@
 
 #### Amendments ####
 
-**1977**—Subsec. (a). Pub. L. 95–113 substituted “criteria” for “factor information”.
+**1977**—Subsec. (a). Pub. L. 95–113 substituted "criteria" for "factor information".
 
-**1976**—Subsec. (a). Pub. L. 94–582 substituted “standards relating to kind, class, quality, or condition of grain” for “standards”.
+**1976**—Subsec. (a). Pub. L. 94–582 substituted "standards relating to kind, class, quality, or condition of grain" for "standards".
 
 **1968**—Pub. L. 90–487 substituted provisions requiring the use of official grade designations and prohibiting the use of false or misleading description of grain shipped out of the United States, for provisions allowing the appeal to the Secretary from official grading, authorizing the payment of additional fees for employees required in making appeal inspections, and making the findings prima facie evidence of the grain's true grade.
 
@@ -26,4 +26,4 @@ Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section
 
 #### Effective Date of 1968 Amendment ####
 
-Pub. L. 90–487, §2, Aug. 15, 1968, 82 Stat. 770, provided that: “This Act [amending this section and sections 71, 74, 75, 76, 77, 79, 84, 85, 86, and 87 of this title and enacting sections 87a to 87h of this title] shall become effective one hundred and eighty days after enactment hereof [Aug. 15, 1968], except that the repeal of the mandatory inspection provisions with respect to grain shipped or delivered for shipment in interstate commerce shall become effective thirty days after enactment hereof, and the provisions of sections 6(a) and 13(a)(5) of the United States Grain Standards Act, as amended by this Act [subsec. (a) of this section and section 87b(a)(5) of this title] shall then become effective with respect to such grain.”
+Pub. L. 90–487, §2, Aug. 15, 1968, 82 Stat. 770, provided that: "This Act [amending this section and sections 71, 74, 75, 76, 77, 79, 84, 85, 86, and 87 of this title and enacting sections 87a to 87h of this title] shall become effective one hundred and eighty days after enactment hereof [Aug. 15, 1968], except that the repeal of the mandatory inspection provisions with respect to grain shipped or delivered for shipment in interstate commerce shall become effective thirty days after enactment hereof, and the provisions of sections 6(a) and 13(a)(5) of the United States Grain Standards Act, as amended by this Act [subsec. (a) of this section and section 87b(a)(5) of this title] shall then become effective with respect to such grain."

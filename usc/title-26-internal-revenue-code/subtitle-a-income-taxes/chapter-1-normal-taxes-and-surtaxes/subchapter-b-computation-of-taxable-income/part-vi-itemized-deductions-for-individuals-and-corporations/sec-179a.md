@@ -62,7 +62,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “qualified clean-fuel vehicle property” means property which is acquired for use by the taxpayer and not for resale, the original use of which commences with the taxpayer, with respect to which the environmental standards of paragraph (2) are met, and which is described in either of the following subparagraphs:
+The term "qualified clean-fuel vehicle property" means property which is acquired for use by the taxpayer and not for resale, the original use of which commences with the taxpayer, with respect to which the environmental standards of paragraph (2) are met, and which is described in either of the following subparagraphs:
 
 #### (A) Retrofit parts and components ####
 
@@ -86,11 +86,11 @@ Property shall not be treated as qualified clean-fuel vehicle property unless—
 
 #### (3) Exception for qualified electric vehicles ####
 
-The term “qualified clean-fuel vehicle property” does not include any qualified electric vehicle (as defined in section 30(c)).<sup><a href="#179A_1_target" name="179A_1">1</a></sup>
+The term "qualified clean-fuel vehicle property" does not include any qualified electric vehicle (as defined in section 30(c)).<sup><a href="#179A_1_target" name="179A_1">1</a></sup>
 
 #### (d) Qualified clean-fuel vehicle refueling property defined ####
 
-For purposes of this section, the term “qualified clean-fuel vehicle refueling property” means any property (not including a building and its structural components) if—
+For purposes of this section, the term "qualified clean-fuel vehicle refueling property" means any property (not including a building and its structural components) if—
 
 (1) such property is of a character subject to the allowance for depreciation,
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (1) Clean-burning fuel ####
 
-The term “clean-burning fuel” means—
+The term "clean-burning fuel" means—
 
 (A) natural gas,
 
@@ -124,7 +124,7 @@ The term “clean-burning fuel” means—
 
 #### (2) Motor vehicle ####
 
-The term “motor vehicle” means any vehicle which is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails) and which has at least 4 wheels.
+The term "motor vehicle" means any vehicle which is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails) and which has at least 4 wheels.
 
 #### (3) Cost of retrofit parts includes cost of installation ####
 
@@ -156,39 +156,39 @@ This section shall not apply to any property placed in service after December 31
 
 #### References in Text ####
 
-Section 30, referred to in subsec. (c)(3), was amended generally by Pub. L. 111–5, div. B, title I, §1142(a), Feb. 17, 2009, 123 Stat. 328, and as so amended no longer defines “qualified electric vehicle”.
+Section 30, referred to in subsec. (c)(3), was amended generally by Pub. L. 111–5, div. B, title I, §1142(a), Feb. 17, 2009, 123 Stat. 328, and as so amended no longer defines "qualified electric vehicle".
 
 #### Amendments ####
 
-**2005**—Subsec. (f). Pub. L. 109–58 substituted “December 31, 2005” for “December 31, 2006”.
+**2005**—Subsec. (f). Pub. L. 109–58 substituted "December 31, 2005" for "December 31, 2006".
 
-**2004**—Subsec. (b)(1)(B). Pub. L. 108–311 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “In the case of any qualified clean-fuel vehicle property placed in service after December 31, 2003, the limit otherwise applicable under subparagraph (A) shall be reduced by—
+**2004**—Subsec. (b)(1)(B). Pub. L. 108–311 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "In the case of any qualified clean-fuel vehicle property placed in service after December 31, 2003, the limit otherwise applicable under subparagraph (A) shall be reduced by—
 
-“(i) 25 percent in the case of property placed in service in calendar year 2004,
+"(i) 25 percent in the case of property placed in service in calendar year 2004,
 
-“(ii) 50 percent in the case of property placed in service in calendar year 2005, and
+"(ii) 50 percent in the case of property placed in service in calendar year 2005, and
 
-“(iii) 75 percent in the case of property placed in service in calendar year 2006.”
+"(iii) 75 percent in the case of property placed in service in calendar year 2006."
 
-**2002**—Subsec. (b)(1)(B). Pub. L. 107–147, §606(a)(1)(A), substituted “December 31, 2003,” for “December 31, 2001,” in introductory provisions.
+**2002**—Subsec. (b)(1)(B). Pub. L. 107–147, §606(a)(1)(A), substituted "December 31, 2003," for "December 31, 2001," in introductory provisions.
 
-Subsec. (b)(1)(B)(i). Pub. L. 107–147, §606(a)(1)(B), substituted “2004” for “2002”
+Subsec. (b)(1)(B)(i). Pub. L. 107–147, §606(a)(1)(B), substituted "2004" for "2002"
 
-Subsec. (b)(1)(B)(ii). Pub. L. 107–147, §606(a)(1)(B), substituted “2005” for “2003”.
+Subsec. (b)(1)(B)(ii). Pub. L. 107–147, §606(a)(1)(B), substituted "2005" for "2003".
 
-Subsec. (b)(1)(B)(iii). Pub. L. 107–147, §606(a)(1)(B), substituted “2006” for “2004”.
+Subsec. (b)(1)(B)(iii). Pub. L. 107–147, §606(a)(1)(B), substituted "2006" for "2004".
 
-Subsec. (f). Pub. L. 107–147, §606(a)(2), substituted “December 31, 2006” for “December 31, 2004”.
+Subsec. (f). Pub. L. 107–147, §606(a)(2), substituted "December 31, 2006" for "December 31, 2004".
 
 **1996**—Subsecs. (f), (g). Pub. L. 104–188 redesignated subsec. (g) as (f).
 
 #### Effective Date of 2004 Amendment ####
 
-Pub. L. 108–311, title III, §319(b), Oct. 4, 2004, 118 Stat. 1182, provided that: “The amendment made by subsection (a) [amending this section] shall apply to property placed in service after December 31, 2003.”
+Pub. L. 108–311, title III, §319(b), Oct. 4, 2004, 118 Stat. 1182, provided that: "The amendment made by subsection (a) [amending this section] shall apply to property placed in service after December 31, 2003."
 
 #### Effective Date of 2002 Amendment ####
 
-Pub. L. 107–147, title VI, §606(b), Mar. 9, 2002, 116 Stat. 60, provided that: “The amendments made by subsection (a) [amending this section] shall apply to property placed in service after December 31, 2001.”
+Pub. L. 107–147, title VI, §606(b), Mar. 9, 2002, 116 Stat. 60, provided that: "The amendments made by subsection (a) [amending this section] shall apply to property placed in service after December 31, 2001."
 
 #### Effective Date ####
 

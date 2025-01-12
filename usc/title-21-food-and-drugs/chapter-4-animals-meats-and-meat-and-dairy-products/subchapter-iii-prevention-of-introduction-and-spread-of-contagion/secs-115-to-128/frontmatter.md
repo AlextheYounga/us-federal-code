@@ -30,4 +30,4 @@ Section 128, act June 30, 1914, ch. 131, 38 Stat. 419; Pub. L. 87–518, §9, Ju
 
 #### Short Title ####
 
-Act Mar. 3, 1905, ch. 1496, 33 Stat. 1264, which enacted sections 123 to 127 of this title, was popularly known as the “Cattle Contagious Diseases Act of 1905”.
+Act Mar. 3, 1905, ch. 1496, 33 Stat. 1264, which enacted sections 123 to 127 of this title, was popularly known as the "Cattle Contagious Diseases Act of 1905".

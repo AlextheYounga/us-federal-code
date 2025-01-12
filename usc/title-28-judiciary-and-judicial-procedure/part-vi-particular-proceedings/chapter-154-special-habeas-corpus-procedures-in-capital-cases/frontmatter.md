@@ -16,4 +16,4 @@ Sec.
 
 #### Amendments ####
 
-Pub. L. 109–177, title V, §507(c)(2), Mar. 9, 2006, 120 Stat. 251, substituted “Certification and judicial review” for “Application to State unitary review procedure” in item 2265.
+Pub. L. 109–177, title V, §507(c)(2), Mar. 9, 2006, 120 Stat. 251, substituted "Certification and judicial review" for "Application to State unitary review procedure" in item 2265.

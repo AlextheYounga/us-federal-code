@@ -36,17 +36,17 @@ Section was formerly classified to section 554 of this title.
 
 #### Amendments ####
 
-**1995**—Subsec. (a). Pub. L. 104–48, §§4(c), 5(b), substituted “the anniversary date of the license at the end of the annual or multiyear period covered by the license fee unless the licensee submits the required renewal application and pays the applicable renewal fee (if such fee is required)” for “any anniversary date thereof unless the annual fee has been paid” in provisions before first proviso, “the necessity of renewing the license and of paying the renewal fee (if such fee is required)” for “the necessity of paying the annual fee” in first proviso and “renewal fee (if required)” for “annual fee” and “plus $50” for “plus $5” in second proviso.
+**1995**—Subsec. (a). Pub. L. 104–48, §§4(c), 5(b), substituted "the anniversary date of the license at the end of the annual or multiyear period covered by the license fee unless the licensee submits the required renewal application and pays the applicable renewal fee (if such fee is required)" for "any anniversary date thereof unless the annual fee has been paid" in provisions before first proviso, "the necessity of renewing the license and of paying the renewal fee (if such fee is required)" for "the necessity of paying the annual fee" in first proviso and "renewal fee (if required)" for "annual fee" and "plus $50" for "plus $5" in second proviso.
 
-Subsec. (b). Pub. L. 104–48, §12(c)(1), inserted “is prohibited from employment with a licensee under section 499h(b) of this title or” after “with the applicant,” in introductory provisions.
+Subsec. (b). Pub. L. 104–48, §12(c)(1), inserted "is prohibited from employment with a licensee under section 499h(b) of this title or" after "with the applicant," in introductory provisions.
 
-Subsec. (c). Pub. L. 104–48, §12(c)(2), inserted at end “The Secretary may not issue a license to an applicant under this subsection if the applicant or any person responsibly connected with the applicant is prohibited from employment with a licensee under section 499h(b) of this title.”
+Subsec. (c). Pub. L. 104–48, §12(c)(2), inserted at end "The Secretary may not issue a license to an applicant under this subsection if the applicant or any person responsibly connected with the applicant is prohibited from employment with a licensee under section 499h(b) of this title."
 
-**1991**—Subsec. (a). Pub. L. 102–237 substituted “annual” for “anual” before “fee has been paid”.
+**1991**—Subsec. (a). Pub. L. 102–237 substituted "annual" for "anual" before "fee has been paid".
 
-**1978**—Subsec. (a). Pub. L. 95–598, §303(a), inserted “, unless the Secretary finds upon examination of the circumstances of such bankruptcy, which he shall examine if requested to do so by said licensee, that such circumstances do not warrant such termination”.
+**1978**—Subsec. (a). Pub. L. 95–598, §303(a), inserted ", unless the Secretary finds upon examination of the circumstances of such bankruptcy, which he shall examine if requested to do so by said licensee, that such circumstances do not warrant such termination".
 
-Subsec. (e). Pub. L. 95–598, §303(b), inserted “and if he finds that the circumstances of such bankruptcy warrant such a refusal,”.
+Subsec. (e). Pub. L. 95–598, §303(b), inserted "and if he finds that the circumstances of such bankruptcy warrant such a refusal,".
 
 **1962**—Subsec. (a). Pub. L. 87–725, §5, inserted proviso that the license of any licensee shall terminate, if he, or in case the licensee is a partnership, any partner, is discharged as a bankrupt.
 
@@ -54,9 +54,9 @@ Subsec. (b). Pub. L. 87–725, §6, amended subsection generally, and among othe
 
 Subsec. (c). Pub. L. 87–725, §7, substituted provisions which permit a license to be issued to an applicant ineligible under subsec. (b) of this section, upon expiration of the two year period applicable to him, if he furnishes a surety bond as assurance that his business will be conducted in accordance with this chapter and that he will pay all reparation orders issued against him in connection with transactions occurring within four years following issuance of license, subject to appeal under section 499g(c) of this title, or if no bond is given, permit issuance of the license after three years from the applicable order, or decision of the court on appeal, and which provide that if a bond is terminated without the Secretary's approval, the license is automatically canceled and cannot be re-issued during the four year period without a new bond, that the Secretary may order an increase or a reduction in the bond, and that a licensee notified to increase the bond must do so in a reasonable time or his license will be suspended until such bond is provided, for provisions which required the Secretary to refuse a license to an applicant, or if the applicant was a partnership, or an association or a corporation, to a partner or officer or any person holding a responsible position therein, respectively, found within two years of being guilty of violating sections 491 to 497 or 499n(b) of this title.
 
-**1956**—Subsec. (a). Act July 30, 1956, §2(b), substituted “the fee provided in section 499c(b) of this title, plus $5” for “a fee of $20”.
+**1956**—Subsec. (a). Act July 30, 1956, §2(b), substituted "the fee provided in section 499c(b) of this title, plus $5" for "a fee of $20".
 
-Subsec. (d). Act July 30, 1956, §3, included within term “applicant” any general partner of a partnership, and officers or holders of more than 10 per centum of the stock of a corporation, and permitted the Secretary to refuse to issue a license to an applicant who was convicted of a felony in any State or Federal court.
+Subsec. (d). Act July 30, 1956, §3, included within term "applicant" any general partner of a partnership, and officers or holders of more than 10 per centum of the stock of a corporation, and permitted the Secretary to refuse to issue a license to an applicant who was convicted of a felony in any State or Federal court.
 
 Subsec. (e). Act July 30, 1956, §4, added subsec. (e).
 
@@ -64,11 +64,11 @@ Subsec. (e). Act July 30, 1956, §4, added subsec. (e).
 
 **1937**—Subsec. (a). Act Aug. 20, 1937, inserted first and second provisos.
 
-Subsec. (b). Act Aug. 20, 1937, among other changes, inserted “Such bond shall be in an amount sufficient in the judgment of the Secretary of Agriculture to insure payment of such reparation orders” at the end.
+Subsec. (b). Act Aug. 20, 1937, among other changes, inserted "Such bond shall be in an amount sufficient in the judgment of the Secretary of Agriculture to insure payment of such reparation orders" at the end.
 
 Subsecs. (c), (d). Act Aug. 20, 1937, amended subsecs. (c) and (d) generally.
 
-**1936**—Subsec. (b). Act June 19, 1936, among other changes, inserted “if he finds” after “or (3)” and “or (5)” after “section 499b”.
+**1936**—Subsec. (b). Act June 19, 1936, among other changes, inserted "if he finds" after "or (3)" and "or (5)" after "section 499b".
 
 **1934**—Subsec. (b). Act Apr. 13, 1934, §4, among other changes, added cls. (3) and (4).
 

@@ -4,9 +4,9 @@
 
 The Secretary of the Treasury shall instruct the United States executive director of each international financial institution to use the voice and vote of the United States to oppose any loan or other use of the funds of the respective institution to or for a country for which the Secretary of State has made a determination under section 2405(j) of title 50, Appendix, or section 2371 of this title.
 
-#### (b) “International financial institution” defined ####
+#### (b) "International financial institution" defined ####
 
-For purposes of this section, the term “international financial institution” includes—
+For purposes of this section, the term "international financial institution" includes—
 
 (1) the International Bank for Reconstruction and Development, the International Development Association, and the International Monetary Fund;
 

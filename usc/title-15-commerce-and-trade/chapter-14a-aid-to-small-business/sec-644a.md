@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-There is hereby established an interagency council to be known as the “Small Business Procurement Advisory Council” (hereinafter in this section referred to as the “Council”).
+There is hereby established an interagency council to be known as the "Small Business Procurement Advisory Council" (hereinafter in this section referred to as the "Council").
 
 #### (b) Duties ####
 
@@ -58,6 +58,6 @@ Section was enacted as part of the Federal Acquisition Streamlining Act of 1994,
 
 **2013**—Subsec. (b)(3) to (5). Pub. L. 112–239, §1692(a), added pars. (3) to (5).
 
-Subsec. (c)(3). Pub. L. 112–239, §1692(b), struck out “(established under section 644(k) of this title)” after “Utilization”.
+Subsec. (c)(3). Pub. L. 112–239, §1692(b), struck out "(established under section 644(k) of this title)" after "Utilization".
 
-Subsec. (d). Pub. L. 112–239, §1692(c), inserted “(or the designee of the Administrator)” after “Small Business Administration”.
+Subsec. (d). Pub. L. 112–239, §1692(c), inserted "(or the designee of the Administrator)" after "Small Business Administration".

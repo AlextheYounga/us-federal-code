@@ -56,11 +56,11 @@ Section was enacted as part of the Secondary Mortgage Market Enhancement Act of 
 
 #### Amendments ####
 
-**1994**—Subsec. (a)(1)(B) to (D). Pub. L. 103–325, §207(a), struck out “or” at end of subpar. (B), added subpar. (C), and redesignated former subpar. (C) as (D).
+**1994**—Subsec. (a)(1)(B) to (D). Pub. L. 103–325, §207(a), struck out "or" at end of subpar. (B), added subpar. (C), and redesignated former subpar. (C) as (D).
 
-Subsec. (a)(2)(B) to (D). Pub. L. 103–325, §207(b), struck out “or” at end of subpar. (B), added subpar. (C), and redesignated former subpar. (C) as (D).
+Subsec. (a)(2)(B) to (D). Pub. L. 103–325, §207(b), struck out "or" at end of subpar. (B), added subpar. (C), and redesignated former subpar. (C) as (D).
 
-Subsec. (c). Pub. L. 103–325, §207(c), in first sentence substituted “, that” for “or that” before “are mortgage related securities” and inserted “, or that are small business related securities (as defined in section 78c(a)(53) of this title)” before “shall be exempt”.
+Subsec. (c). Pub. L. 103–325, §207(c), in first sentence substituted ", that" for "or that" before "are mortgage related securities" and inserted ", or that are small business related securities (as defined in section 78c(a)(53) of this title)" before "shall be exempt".
 
 Subsec. (d). Pub. L. 103–325, §207(d), added subsec. (d).
 

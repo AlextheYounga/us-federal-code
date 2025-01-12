@@ -2,7 +2,7 @@
 
 #### (a) Definition of packer ####
 
-In this section, the term “packer” has the meaning given the term in section 191 of this title.
+In this section, the term "packer" has the meaning given the term in section 191 of this title.
 
 #### (b) Report ####
 

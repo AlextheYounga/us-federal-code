@@ -18,11 +18,11 @@ Another prior section 310 of Pub. L. 92–225 was classified to section 440 of t
 
 #### Amendments ####
 
-**1988**—Pub. L. 100–352 struck out “(a)” before “The Commission” and struck out subsec. (b) which read as follows: “Notwithstanding any other provision of law, any decision on a matter certified under subsection (a) of this section shall be reviewable by appeal directly to the Supreme Court of the United States. Such appeal shall be brought no later than 20 days after the decision of the court of appeals.”
+**1988**—Pub. L. 100–352 struck out "(a)" before "The Commission" and struck out subsec. (b) which read as follows: "Notwithstanding any other provision of law, any decision on a matter certified under subsection (a) of this section shall be reviewable by appeal directly to the Supreme Court of the United States. Such appeal shall be brought no later than 20 days after the decision of the court of appeals."
 
 **1984**—Subsec. (c). Pub. L. 98–620 struck out subsec. (c) which provided for advancement on appellate docket and expedited disposition of any matter certified under subsec. (a) of this section.
 
-**1980**—Subsec. (a). Pub. L. 96–187, §112(c), struck out “of the United States” after “office of President”.
+**1980**—Subsec. (a). Pub. L. 96–187, §112(c), struck out "of the United States" after "office of President".
 
 **1976**—Subsec. (a). Pub. L. 94–283, §115(e), struck out references to sections 608, 610, 611, 613, 614, 615, 616, and 617 of title 18.
 
@@ -46,22 +46,22 @@ Section effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out 
 
 Pub. L. 107–155, title IV, §403, Mar. 27, 2002, 116 Stat. 113, provided that:
 
-“(a) Special Rules for Actions Brought on Constitutional Grounds.—If any action is brought for declaratory or injunctive relief to challenge the constitutionality of any provision of this Act [see Short Title of 2002 Amendment note set out under section 431 of this title] or any amendment made by this Act, the following rules shall apply:
+"(a) Special Rules for Actions Brought on Constitutional Grounds.—If any action is brought for declaratory or injunctive relief to challenge the constitutionality of any provision of this Act [see Short Title of 2002 Amendment note set out under section 431 of this title] or any amendment made by this Act, the following rules shall apply:
 
-“(1) The action shall be filed in the United States District Court for the District of Columbia and shall be heard by a 3-judge court convened pursuant to section 2284 of title 28, United States Code.
+"(1) The action shall be filed in the United States District Court for the District of Columbia and shall be heard by a 3-judge court convened pursuant to section 2284 of title 28, United States Code.
 
-“(2) A copy of the complaint shall be delivered promptly to the Clerk of the House of Representatives and the Secretary of the Senate.
+"(2) A copy of the complaint shall be delivered promptly to the Clerk of the House of Representatives and the Secretary of the Senate.
 
-“(3) A final decision in the action shall be reviewable only by appeal directly to the Supreme Court of the United States. Such appeal shall be taken by the filing of a notice of appeal within 10 days, and the filing of a jurisdictional statement within 30 days, of the entry of the final decision.
+"(3) A final decision in the action shall be reviewable only by appeal directly to the Supreme Court of the United States. Such appeal shall be taken by the filing of a notice of appeal within 10 days, and the filing of a jurisdictional statement within 30 days, of the entry of the final decision.
 
-“(4) It shall be the duty of the United States District Court for the District of Columbia and the Supreme Court of the United States to advance on the docket and to expedite to the greatest possible extent the disposition of the action and appeal.
+"(4) It shall be the duty of the United States District Court for the District of Columbia and the Supreme Court of the United States to advance on the docket and to expedite to the greatest possible extent the disposition of the action and appeal.
 
-“(b) Intervention by Members of Congress.—In any action in which the constitutionality of any provision of this Act or any amendment made by this Act is raised (including but not limited to an action described in subsection (a)), any member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress) or Senate shall have the right to intervene either in support of or opposition to the position of a party to the case regarding the constitutionality of the provision or amendment. To avoid duplication of efforts and reduce the burdens placed on the parties to the action, the court in any such action may make such orders as it considers necessary, including orders to require intervenors taking similar positions to file joint papers or to be represented by a single attorney at oral argument.
+"(b) Intervention by Members of Congress.—In any action in which the constitutionality of any provision of this Act or any amendment made by this Act is raised (including but not limited to an action described in subsection (a)), any member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress) or Senate shall have the right to intervene either in support of or opposition to the position of a party to the case regarding the constitutionality of the provision or amendment. To avoid duplication of efforts and reduce the burdens placed on the parties to the action, the court in any such action may make such orders as it considers necessary, including orders to require intervenors taking similar positions to file joint papers or to be represented by a single attorney at oral argument.
 
-“(c) Challenge by Members of Congress.—Any Member of Congress may bring an action, subject to the special rules described in subsection (a), for declaratory or injunctive relief to challenge the constitutionality of any provision of this Act or any amendment made by this Act.
+"(c) Challenge by Members of Congress.—Any Member of Congress may bring an action, subject to the special rules described in subsection (a), for declaratory or injunctive relief to challenge the constitutionality of any provision of this Act or any amendment made by this Act.
 
-“(d) Applicability.—
+"(d) Applicability.—
 
-“(1) Initial claims.—With respect to any action initially filed on or before December 31, 2006, the provisions of subsection (a) shall apply with respect to each action described in such section.
+"(1) Initial claims.—With respect to any action initially filed on or before December 31, 2006, the provisions of subsection (a) shall apply with respect to each action described in such section.
 
-“(2) Subsequent actions.—With respect to any action initially filed after December 31, 2006, the provisions of subsection (a) shall not apply to any action described in such section unless the person filing such action elects such provisions to apply to the action.”
+"(2) Subsequent actions.—With respect to any action initially filed after December 31, 2006, the provisions of subsection (a) shall not apply to any action described in such section unless the person filing such action elects such provisions to apply to the action."

@@ -13,7 +13,7 @@ III. Employees 2101
 
 #### Amendments ####
 
-**1979**—Pub. L. 96–54, §2(a)(1), Aug. 14, 1979, 93 Stat. 381, substituted “Civil Service Functions and Responsibilities” for “The United States Civil Service Commission” in item for part II.
+**1979**—Pub. L. 96–54, §2(a)(1), Aug. 14, 1979, 93 Stat. 381, substituted "Civil Service Functions and Responsibilities" for "The United States Civil Service Commission" in item for part II.
 
 |                                                                                                *Title 5<br/><br/>Former Sections*                                                                                                |                             *Title 5<br/><br/>New Sections*                             |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
@@ -1408,164 +1408,164 @@ III. Employees 2101
 
 #### Enacting Clause ####
 
-Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378, provided in part: “That the laws relating to the organization of the Government of the United States and to its civilian officers and employees, generally, are revised, codified, and enacted as title 5 of the United States Code, entitled ‘Government Organization and Employees’, and may be cited as ‘5 U.S.C., § ’.”
+Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378, provided in part: "That the laws relating to the organization of the Government of the United States and to its civilian officers and employees, generally, are revised, codified, and enacted as title 5 of the United States Code, entitled 'Government Organization and Employees', and may be cited as '5 U.S.C., § '."
 
 #### Legislative Purpose: Inconsistent Provisions ####
 
-Pub. L. 89–554, §7(a), Sept. 6, 1966, 80 Stat. 631, provided that: “The legislative purpose in enacting sections 1–6 of this Act is to restate, without substantive change, the laws replaced by those sections on the effective date of this Act [Sept. 6, 1966]. Laws effective after June 30, 1965, that are inconsistent with this Act are considered as superseding it to the extent of the inconsistency.”
+Pub. L. 89–554, §7(a), Sept. 6, 1966, 80 Stat. 631, provided that: "The legislative purpose in enacting sections 1–6 of this Act is to restate, without substantive change, the laws replaced by those sections on the effective date of this Act [Sept. 6, 1966]. Laws effective after June 30, 1965, that are inconsistent with this Act are considered as superseding it to the extent of the inconsistency."
 
 #### References to Other Laws ####
 
-Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, provided that: “A reference to a law replaced by sections 1–6 of this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.”
+Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, provided that: "A reference to a law replaced by sections 1–6 of this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act."
 
 #### Outstanding Orders, Rules and Regulations ####
 
-Pub. L. 89–554, §7(c), Sept. 6, 1966, 80 Stat. 631, provided that: “An order, rule, or regulation in effect under a law replaced by sections 1–6 of this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.”
+Pub. L. 89–554, §7(c), Sept. 6, 1966, 80 Stat. 631, provided that: "An order, rule, or regulation in effect under a law replaced by sections 1–6 of this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded."
 
 #### Savings Provision ####
 
-Pub. L. 89–554, §7(d), Sept. 6, 1966, 80 Stat. 631, provided that: “An action taken or an offense committed under a law replaced by sections 1–6 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.”
+Pub. L. 89–554, §7(d), Sept. 6, 1966, 80 Stat. 631, provided that: "An action taken or an offense committed under a law replaced by sections 1–6 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act."
 
 #### Legislative Construction ####
 
-Pub. L. 89–554, §7(e), Sept. 6, 1966, 80 Stat. 631, provided that: “An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of the caption or catchline thereof.”
+Pub. L. 89–554, §7(e), Sept. 6, 1966, 80 Stat. 631, provided that: "An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of the caption or catchline thereof."
 
 #### Pay, Allowances, Compensation, or Annuity ####
 
-Pub. L. 89–554, §7(f), Sept. 6, 1966, 80 Stat. 631, provided that: “The enactment of this Act does not increase or decrease the pay, allowances, compensation, or annuity of any person.”
+Pub. L. 89–554, §7(f), Sept. 6, 1966, 80 Stat. 631, provided that: "The enactment of this Act does not increase or decrease the pay, allowances, compensation, or annuity of any person."
 
 #### Separability ####
 
-Pub. L. 89–554, §7(g), Sept. 6, 1966, 80 Stat. 631, provided that: “If a provision enacted by this Act is held invalid, all valid provisions that are separable from the invalid provision remain in effect. If a provision of this Act is held invalid in one or more of its applications, the provision remains in effect in all valid applications that are severable from the invalid application or applications.”
+Pub. L. 89–554, §7(g), Sept. 6, 1966, 80 Stat. 631, provided that: "If a provision enacted by this Act is held invalid, all valid provisions that are separable from the invalid provision remain in effect. If a provision of this Act is held invalid in one or more of its applications, the provision remains in effect in all valid applications that are severable from the invalid application or applications."
 
 #### Applicability to Commissioned Officers of Public Health Service and Coast and Geodetic Survey ####
 
-Pub. L. 89–554, §7(h), Sept. 6, 1966, 80 Stat. 632, provided that: “Sections 1–6 of this Act shall be construed to apply to commissioned officers of the Public Health Service and commissioned officers of the Coast and Geodetic Survey [now the National Oceanic and Atmospheric Administration] to the same extent that the laws replaced by those sections applied to these officers immediately before the date of enactment of this Act [Sept. 6, 1966].”
+Pub. L. 89–554, §7(h), Sept. 6, 1966, 80 Stat. 632, provided that: "Sections 1–6 of this Act shall be construed to apply to commissioned officers of the Public Health Service and commissioned officers of the Coast and Geodetic Survey [now the National Oceanic and Atmospheric Administration] to the same extent that the laws replaced by those sections applied to these officers immediately before the date of enactment of this Act [Sept. 6, 1966]."
 
 #### Repeals ####
 
 Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, repealed the sections or parts thereof of the Revised Statutes or Statutes at Large codified in this title, except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before Sept. 6, 1966, and except as provided by section 7 of Pub. L. 89–554.
 
-Pub. L. 89–554, §8(c), Sept. 6, 1966, 80 Stat. 632, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 89–554, §8(c), Sept. 6, 1966, 80 Stat. 632, provided that: "The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal."
 
 #### Continuation of Right to Deferred Annuity ####
 
-Pub. L. 89–554, §8(b), Sept. 6, 1966, 80 Stat. 632, provided that: “The right to a deferred annuity on satisfaction of the conditions attached thereto is continued notwithstanding the repeal of the law conferring the right.”
+Pub. L. 89–554, §8(b), Sept. 6, 1966, 80 Stat. 632, provided that: "The right to a deferred annuity on satisfaction of the conditions attached thereto is continued notwithstanding the repeal of the law conferring the right."
 
 #### Interagency Personnel Rotations ####
 
 Pub. L. 112–239, div. A, title XI, §1107, Jan. 2, 2013, 126 Stat. 1974, provided that:
 
-“(a) Finding and Purpose.—
+"(a) Finding and Purpose.—
 
-“(1) Finding.—Congress finds that the national security and homeland security challenges of the 21st century require that executive branch personnel use a whole-of-Government approach in order for the United States Government to operate in the most effective and efficient manner.
+"(1) Finding.—Congress finds that the national security and homeland security challenges of the 21st century require that executive branch personnel use a whole-of-Government approach in order for the United States Government to operate in the most effective and efficient manner.
 
-“(2) Purpose.—The purpose of this section is to increase the efficiency and effectiveness of the Government by fostering greater interagency experience among executive branch personnel on national security and homeland security matters involving more than 1 agency.
+"(2) Purpose.—The purpose of this section is to increase the efficiency and effectiveness of the Government by fostering greater interagency experience among executive branch personnel on national security and homeland security matters involving more than 1 agency.
 
-“(b) Committee on National Security Personnel.—
+"(b) Committee on National Security Personnel.—
 
-“(1) Establishment.—There is established a Committee on National Security Personnel within the Executive Office of the President.
+"(1) Establishment.—There is established a Committee on National Security Personnel within the Executive Office of the President.
 
-“(2) Membership.—The members of the Committee shall include—
+"(2) Membership.—The members of the Committee shall include—
 
-“(A) designees of the Director of the Office of Management and Budget, the Director of the Office of Personnel Management, the Assistant to the President for National Security Affairs, the Secretary of Defense, the Secretary of State, and the Secretary of Homeland Security (1 member to be designated by each); and
+"(A) designees of the Director of the Office of Management and Budget, the Director of the Office of Personnel Management, the Assistant to the President for National Security Affairs, the Secretary of Defense, the Secretary of State, and the Secretary of Homeland Security (1 member to be designated by each); and
 
-“(B) such other members as the President shall designate.
+"(B) such other members as the President shall designate.
 
-“(c) Program Established.—
+"(c) Program Established.—
 
-“(1) Not later than 270 days after the date of the enactment of this Act [Jan. 2, 2013], the Committee on National Security Personnel, in consultation with representatives of such other agencies as the Committee determines to be appropriate, shall develop and issue a National Security Human Capital Strategy providing policies, processes, and procedures for a program for the interagency rotation of personnel among positions within National Security Interagency Communities of Interest.
+"(1) Not later than 270 days after the date of the enactment of this Act [Jan. 2, 2013], the Committee on National Security Personnel, in consultation with representatives of such other agencies as the Committee determines to be appropriate, shall develop and issue a National Security Human Capital Strategy providing policies, processes, and procedures for a program for the interagency rotation of personnel among positions within National Security Interagency Communities of Interest.
 
-“(2) The strategy required by paragraph (1) shall, at a minimum—
+"(2) The strategy required by paragraph (1) shall, at a minimum—
 
-“(A) identify specific Interagency Communities of Interest for the purpose of carrying out the program;
+"(A) identify specific Interagency Communities of Interest for the purpose of carrying out the program;
 
-“(B) designate agencies to be included or excluded from the program;
+"(B) designate agencies to be included or excluded from the program;
 
-“(C) define categories of positions to be covered by the program;
+"(C) define categories of positions to be covered by the program;
 
-“(D) establish processes by which the heads of relevant agencies may identify—
+"(D) establish processes by which the heads of relevant agencies may identify—
 
-“(i) positions in Interagency Communities of Interest that are available for rotation under the program; and
+"(i) positions in Interagency Communities of Interest that are available for rotation under the program; and
 
-“(ii) individual employees who are available to participate in rotational assignments under the program; and
+"(ii) individual employees who are available to participate in rotational assignments under the program; and
 
-“(E) promulgate procedures for the program, including—
+"(E) promulgate procedures for the program, including—
 
-“(i) any minimum or maximum periods of service for participation in the program;
+"(i) any minimum or maximum periods of service for participation in the program;
 
-“(ii) any training and education requirements associated with participation in the program;
+"(ii) any training and education requirements associated with participation in the program;
 
-“(iii) any prerequisites or requirements for participation in the program; and
+"(iii) any prerequisites or requirements for participation in the program; and
 
-“(iv) appropriate performance measures, reporting requirements, and other accountability devices for the evaluation of the program.
+"(iv) appropriate performance measures, reporting requirements, and other accountability devices for the evaluation of the program.
 
-“(d) Program Requirements.—The policies, processes, and procedures established pursuant to subsection (c) shall, at a minimum, provide that—
+"(d) Program Requirements.—The policies, processes, and procedures established pursuant to subsection (c) shall, at a minimum, provide that—
 
-“(1) during each of the first 4 fiscal years after the fiscal year in which this Act is enacted—
+"(1) during each of the first 4 fiscal years after the fiscal year in which this Act is enacted—
 
-“(A) the interagency rotation program shall be carried out in at least 2 Interagency Communities of Interest, of which 1 shall be an Interagency Community of Interest for emergency management and 1 shall be an Interagency Community of Interest for stabilization and reconstruction; and
+"(A) the interagency rotation program shall be carried out in at least 2 Interagency Communities of Interest, of which 1 shall be an Interagency Community of Interest for emergency management and 1 shall be an Interagency Community of Interest for stabilization and reconstruction; and
 
-“(B) not fewer than 20 employees in the executive branch of the Government shall be assigned to participate in the interagency personnel rotation program;
+"(B) not fewer than 20 employees in the executive branch of the Government shall be assigned to participate in the interagency personnel rotation program;
 
-“(2) an employee's participation in the interagency rotation program shall require the consent of the head of the agency and shall be voluntary on the part of the employee;
+"(2) an employee's participation in the interagency rotation program shall require the consent of the head of the agency and shall be voluntary on the part of the employee;
 
-“(3) employees selected to perform interagency rotational service are selected in a fully open and competitive manner that is consistent with the merit system principles set forth in paragraphs (1) and (2) of section 2301(b) of title 5, United States Code, unless the Interagency Community of Interest position is otherwise exempt under another provision of law;
+"(3) employees selected to perform interagency rotational service are selected in a fully open and competitive manner that is consistent with the merit system principles set forth in paragraphs (1) and (2) of section 2301(b) of title 5, United States Code, unless the Interagency Community of Interest position is otherwise exempt under another provision of law;
 
-“(4) an employee performing service in a position in another agency pursuant to the program established under this section shall be entitled to return, within a reasonable period of time after the end of the period of service, to the position held by the employee, or a corresponding or higher position, in his or her employing agency;
+"(4) an employee performing service in a position in another agency pursuant to the program established under this section shall be entitled to return, within a reasonable period of time after the end of the period of service, to the position held by the employee, or a corresponding or higher position, in his or her employing agency;
 
-“(5) an employee performing interagency rotational service shall have all the rights that would be available to the employee if the employee were detailed or assigned under a provision of law other than this section from the agency employing the employee to the agency in which the position in which the employee is serving is located; and
+"(5) an employee performing interagency rotational service shall have all the rights that would be available to the employee if the employee were detailed or assigned under a provision of law other than this section from the agency employing the employee to the agency in which the position in which the employee is serving is located; and
 
-“(6) an employee participating in the program shall receive performance evaluations from officials in his or her employing agency that are based on input from the supervisors of the employee during his or her service in the program that are based primarily on the contribution of the employee to the work of the agency in which the employee performed such service, and these performance evaluations shall be provided the same weight in the receipt of promotions and other rewards by the employee from the employing agency as performance evaluations for service in the employing agency.
+"(6) an employee participating in the program shall receive performance evaluations from officials in his or her employing agency that are based on input from the supervisors of the employee during his or her service in the program that are based primarily on the contribution of the employee to the work of the agency in which the employee performed such service, and these performance evaluations shall be provided the same weight in the receipt of promotions and other rewards by the employee from the employing agency as performance evaluations for service in the employing agency.
 
-“(e) Selection of Individuals to Fill Senior Positions.—The head of each agency participating in the program established pursuant to subsection (c) shall ensure that, in selecting individuals to fill senior positions within an Interagency Community of Interest, the agency gives a strong preference to individuals who have performed interagency rotational service within the Interagency Community of Interest pursuant to such program.
+"(e) Selection of Individuals to Fill Senior Positions.—The head of each agency participating in the program established pursuant to subsection (c) shall ensure that, in selecting individuals to fill senior positions within an Interagency Community of Interest, the agency gives a strong preference to individuals who have performed interagency rotational service within the Interagency Community of Interest pursuant to such program.
 
-“(f) Interagency Community of Interest Defined.—As used in this section, the term ‘National Security Interagency Community of Interest’ or ‘Interagency Community of Interest’ means the positions in the executive branch of the Government that, as determined by the Committee on National Security Personnel—
+"(f) Interagency Community of Interest Defined.—As used in this section, the term 'National Security Interagency Community of Interest' or 'Interagency Community of Interest' means the positions in the executive branch of the Government that, as determined by the Committee on National Security Personnel—
 
-“(1) as a group are positions within multiple agencies of the executive branch of the Government; and
+"(1) as a group are positions within multiple agencies of the executive branch of the Government; and
 
-“(2) have significant responsibility for the same substantive, functional, or regional subject area related to national security or homeland security that requires integration of the positions and activities in that area across multiple agencies to ensure that the executive branch of the Government operates as a single, cohesive enterprise to maximize mission success and minimize cost.
+"(2) have significant responsibility for the same substantive, functional, or regional subject area related to national security or homeland security that requires integration of the positions and activities in that area across multiple agencies to ensure that the executive branch of the Government operates as a single, cohesive enterprise to maximize mission success and minimize cost.
 
-“(g) Report on Performance Measures.—Not later than the end of the 2nd fiscal year after the fiscal year in which this Act is enacted, the Committee on National Security Personnel shall assess the performance measures described in subsection (c)(2)(E)(iv) and issue a report to Congress on the assessment of those performance measures.
+"(g) Report on Performance Measures.—Not later than the end of the 2nd fiscal year after the fiscal year in which this Act is enacted, the Committee on National Security Personnel shall assess the performance measures described in subsection (c)(2)(E)(iv) and issue a report to Congress on the assessment of those performance measures.
 
-“(h) GAO Review.—Not later than the end of the 2nd fiscal year after the fiscal year in which this Act is enacted, the Comptroller General of the United States shall submit to Congress a report assessing the implementation and effectiveness of the interagency rotation program established pursuant to this section. The report required by this section shall address, at a minimum—
+"(h) GAO Review.—Not later than the end of the 2nd fiscal year after the fiscal year in which this Act is enacted, the Comptroller General of the United States shall submit to Congress a report assessing the implementation and effectiveness of the interagency rotation program established pursuant to this section. The report required by this section shall address, at a minimum—
 
-“(1) the extent to which the requirements of this section have been implemented by the Committee on National Security Personnel and by national security agencies;
+"(1) the extent to which the requirements of this section have been implemented by the Committee on National Security Personnel and by national security agencies;
 
-“(2) the extent to which national security agencies have participated in the program established pursuant to this section, including whether the heads of such agencies have—
+"(2) the extent to which national security agencies have participated in the program established pursuant to this section, including whether the heads of such agencies have—
 
-“(A) identified positions within the agencies that are National Security Interagency Communities of Interest and had employees from other agencies serve in rotational assignments in such positions; and
+"(A) identified positions within the agencies that are National Security Interagency Communities of Interest and had employees from other agencies serve in rotational assignments in such positions; and
 
-“(B) identified employees who are eligible for rotational assignments in National Security Interagency Communities of Interest and had such employees serve in rotational assignments in other agencies;
+"(B) identified employees who are eligible for rotational assignments in National Security Interagency Communities of Interest and had such employees serve in rotational assignments in other agencies;
 
-“(3) the extent to which employees serving in rotational assignments under the program established pursuant to this section have benefitted from such assignments, including an assessment of—
+"(3) the extent to which employees serving in rotational assignments under the program established pursuant to this section have benefitted from such assignments, including an assessment of—
 
-“(A) the period of service;
+"(A) the period of service;
 
-“(B) the duties performed by the employees during such service;
+"(B) the duties performed by the employees during such service;
 
-“(C) the value of the training and experience gained by participating employees through such service; and
+"(C) the value of the training and experience gained by participating employees through such service; and
 
-“(D) the positions (including grade level) held by employees before and after completing interagency rotational service under this section; and
+"(D) the positions (including grade level) held by employees before and after completing interagency rotational service under this section; and
 
-“(4) the extent to which interagency rotational service under this section has improved or is expected to improve interagency integration and coordination within National Security Interagency Communities of Interest.
+"(4) the extent to which interagency rotational service under this section has improved or is expected to improve interagency integration and coordination within National Security Interagency Communities of Interest.
 
-“(i) Exclusion.—This section shall not apply to any element of the intelligence community, as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).”
+"(i) Exclusion.—This section shall not apply to any element of the intelligence community, as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4))."
 
 #### Improvement of United States Code by Pub. L. 90–83; Legislative Purpose; Inconsistent Provisions; Corresponding Provisions; Savings and Separability of Provisions ####
 
 Pub. L. 90–83, §9(a)–(g), Sept. 11, 1967, 81 Stat. 222, provided that:
 
-“(a) The legislative purpose in enacting sections 1–8 of this Act is to restate, without substantive change, the laws replaced by those sections on the effective date of this Act. Laws effective after February 21, 1967, that are inconsistent with this Act are considered as superseding it to the extent of the inconsistency.
+"(a) The legislative purpose in enacting sections 1–8 of this Act is to restate, without substantive change, the laws replaced by those sections on the effective date of this Act. Laws effective after February 21, 1967, that are inconsistent with this Act are considered as superseding it to the extent of the inconsistency.
 
-“(b) A reference to a law replaced by sections 1–8 of this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.
+"(b) A reference to a law replaced by sections 1–8 of this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.
 
-“(c) An order, rule, or regulation in effect under a law replaced by sections 1–8 of this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
+"(c) An order, rule, or regulation in effect under a law replaced by sections 1–8 of this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
 
-“(d) An action taken or an offense committed under a law replaced by sections 1–8 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.
+"(d) An action taken or an offense committed under a law replaced by sections 1–8 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.
 
-“(e) An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of the caption or catchline thereof.
+"(e) An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of the caption or catchline thereof.
 
-“(f) The enactment of this Act does not increase or decrease the pay, allowances, compensation, or annuity of any person.
+"(f) The enactment of this Act does not increase or decrease the pay, allowances, compensation, or annuity of any person.
 
-“(g) If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in one or more of its applications, the provision remains in effect in all valid applications that are severable from the invalid application or applications.”
+"(g) If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in one or more of its applications, the provision remains in effect in all valid applications that are severable from the invalid application or applications."

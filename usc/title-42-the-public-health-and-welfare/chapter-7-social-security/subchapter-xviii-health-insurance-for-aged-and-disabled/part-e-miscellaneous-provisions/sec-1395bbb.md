@@ -68,13 +68,13 @@ For purposes of clause (i), an individual is not considered to have completed a 
 
 (iv) Such standards shall permit a determination that an individual who has completed (before July 1, 1989) a training and competency evaluation program or a competency evaluation program shall be deemed for purposes of subparagraph (A) to have completed a program that is approved by the Secretary under the standards established under this subparagraph if the Secretary determines that, at the time the program was offered, the program met such standards.
 
-(E) In this paragraph, the term “home health aide” means any individual who provides the items and services described in section 1395x(m) of this title, but does not include an individual—
+(E) In this paragraph, the term "home health aide" means any individual who provides the items and services described in section 1395x(m) of this title, but does not include an individual—
 
 (i) who is a licensed health professional (as defined in subparagraph (F)), or
 
 (ii) who volunteers to provide such services without monetary compensation.
 
-(F) In this paragraph, the term “licensed health professional” means a physician, physician assistant, nurse practitioner, physical, speech, or occupational therapist, physical or occupational therapy assistant, registered professional nurse, licensed practical nurse, or licensed or certified social worker.
+(F) In this paragraph, the term "licensed health professional" means a physician, physician assistant, nurse practitioner, physical, speech, or occupational therapist, physical or occupational therapy assistant, registered professional nurse, licensed practical nurse, or licensed or certified social worker.
 
 (4) The agency includes an individual's plan of care required under section 1395x(m) of this title as part of the clinical records described in section 1395x(o)(3) of this title.
 
@@ -186,33 +186,33 @@ A home health agency shall submit claims for payment for home health services un
 
 #### Amendments ####
 
-**2003**—Subsec. (d)(1). Pub. L. 108–173 substituted “subsection (c)(2)(C)(i)(I)” for “subsection (c)(2)(C)(I)”.
+**2003**—Subsec. (d)(1). Pub. L. 108–173 substituted "subsection (c)(2)(C)(i)(I)" for "subsection (c)(2)(C)(I)".
 
 **1997**—Subsec. (g). Pub. L. 105–33 added subsec. (g).
 
-**1996**—Subsec. (c)(2)(A). Pub. L. 104–134 substituted “36 months” for “15 months” in first sentence and amended last sentence generally. Prior to amendment, last sentence read as follows: “The statewide average interval between standard surveys of any home health agency shall not exceed 12 months.”
+**1996**—Subsec. (c)(2)(A). Pub. L. 104–134 substituted "36 months" for "15 months" in first sentence and amended last sentence generally. Prior to amendment, last sentence read as follows: "The statewide average interval between standard surveys of any home health agency shall not exceed 12 months."
 
-**1990**—Subsec. (a)(3)(D)(iii). Pub. L. 101–508, §4207(i)(1), formerly §4027(i)(1), as renumbered by Pub. L. 103–432, substituted “which, within the previous 2 years—” and subcls. (I) to (IV) for “which has been determined to be out of compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) of this section within the previous 2 years.”
+**1990**—Subsec. (a)(3)(D)(iii). Pub. L. 101–508, §4207(i)(1), formerly §4027(i)(1), as renumbered by Pub. L. 103–432, substituted "which, within the previous 2 years—" and subcls. (I) to (IV) for "which has been determined to be out of compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) of this section within the previous 2 years."
 
 Subsec. (a)(6). Pub. L. 101–508, §4206(d)(2), added par. (6).
 
-**1988**—Subsec. (a)(3)(A). Pub. L. 100–360, §411(d)(1)(A)(i), struck out “who is not a licensed health care professional (as defined in subparagraph (F))” after “any individual” in introductory provisions.
+**1988**—Subsec. (a)(3)(A). Pub. L. 100–360, §411(d)(1)(A)(i), struck out "who is not a licensed health care professional (as defined in subparagraph (F))" after "any individual" in introductory provisions.
 
-Subsec. (a)(3)(F). Pub. L. 100–360, §411(d)(1)(A)(ii), inserted “physical or occupational therapy assistant,” after “occupational therapist”.
+Subsec. (a)(3)(F). Pub. L. 100–360, §411(d)(1)(A)(ii), inserted "physical or occupational therapy assistant," after "occupational therapist".
 
-Subsec. (a)(4) to (6). Pub. L. 100–360, §411(d)(1)(A)(iii), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: “With respect to durable medical equipment furnished to individuals for whom the agency provides items and services, suppliers of such equipment do not use (on a full-time, temporary, per diem, or other basis) any individual who does not meet minimum training standards (established by the Secretary by October 1, 1988) for the demonstration and use of any such equipment furnished to individuals with respect to whom payments may be made under this subchapter.”
+Subsec. (a)(4) to (6). Pub. L. 100–360, §411(d)(1)(A)(iii), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which read as follows: "With respect to durable medical equipment furnished to individuals for whom the agency provides items and services, suppliers of such equipment do not use (on a full-time, temporary, per diem, or other basis) any individual who does not meet minimum training standards (established by the Secretary by October 1, 1988) for the demonstration and use of any such equipment furnished to individuals with respect to whom payments may be made under this subchapter."
 
-Subsec. (c)(1). Pub. L. 100–360, §411(d)(2)(A), as amended by Pub. L. 100–485, §608(d)(20)(A), amended third sentence generally. Prior to amendment, third sentence read as follows: “The Secretary shall provide for imposition of civil money penalties under this clause in a manner similar to that for the imposition of civil money penalties under section 1320a–7a of this title.”
+Subsec. (c)(1). Pub. L. 100–360, §411(d)(2)(A), as amended by Pub. L. 100–485, §608(d)(20)(A), amended third sentence generally. Prior to amendment, third sentence read as follows: "The Secretary shall provide for imposition of civil money penalties under this clause in a manner similar to that for the imposition of civil money penalties under section 1320a–7a of this title."
 
-Subsec. (d)(2)(A). Pub. L. 100–360, §411(d)(2)(B), substituted “1992” for “1991” in introductory provisions.
+Subsec. (d)(2)(A). Pub. L. 100–360, §411(d)(2)(B), substituted "1992" for "1991" in introductory provisions.
 
 Subsecs. (e), (f). Pub. L. 100–360, §411(d)(3)(A), made technical amendment to Pub. L. 100–203, §4023(a), see 1987 Amendment note below.
 
-Subsec. (f)(2)(A). Pub. L. 100–360, §411(d)(3)(B)(iii), inserted before last sentence “The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under clause (i) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.”
+Subsec. (f)(2)(A). Pub. L. 100–360, §411(d)(3)(B)(iii), inserted before last sentence "The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under clause (i) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title."
 
 Pub. L. 100–360, §411(d)(3)(B)(i), realigned the margins of cls. (i) to (iii) and concluding provisions.
 
-Subsec. (f)(2)(A)(i). Pub. L. 100–360, §411(d)(3)(B)(ii), substituted “in an amount not to exceed $10,000 for each day of noncompliance” for “for each day of noncompliance”.
+Subsec. (f)(2)(A)(i). Pub. L. 100–360, §411(d)(3)(B)(ii), substituted "in an amount not to exceed $10,000 for each day of noncompliance" for "for each day of noncompliance".
 
 **1987**—Subsecs. (c), (d). Pub. L. 100–203, §4022(a), added subsecs. (c) and (d).
 
@@ -228,17 +228,17 @@ Amendment by section 4206(d)(2) of Pub. L. 101–508 applicable with respect to 
 
 Pub. L. 101–508, title IV, §4207(i)(1), formerly §4027(i)(1), Nov. 5, 1990, 104 Stat. 1388–123, as renumbered by Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that the amendment made by that section is effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203.
 
-Pub. L. 101–508, title IV, §4207(i)(2), formerly §4027(i)(2), Nov. 5, 1990, 104 Stat. 1388–124, as renumbered and amended by Pub. L. 103–432, title I, §160(d)(4), (11), Oct. 31, 1994, 108 Stat. 4444, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987 [Pub. L. 100–203], except that the Secretary may not permit approval of a training and competency evaluation program or a competency evaluation program offered by or in a home health agency which, pursuant to any Federal or State law within the 2-year period beginning on October 1, 1988—
+Pub. L. 101–508, title IV, §4207(i)(2), formerly §4027(i)(2), Nov. 5, 1990, 104 Stat. 1388–124, as renumbered and amended by Pub. L. 103–432, title I, §160(d)(4), (11), Oct. 31, 1994, 108 Stat. 4444, provided that: "The amendments made by paragraph (1) [amending this section] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987 [Pub. L. 100–203], except that the Secretary may not permit approval of a training and competency evaluation program or a competency evaluation program offered by or in a home health agency which, pursuant to any Federal or State law within the 2-year period beginning on October 1, 1988—
 
-“(i) had its participation terminated under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.];
+"(i) had its participation terminated under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.];
 
-“(ii) was assessed a civil money penalty not less than $5,000 for deficiencies in applicable quality standards for home health agencies;
+"(ii) was assessed a civil money penalty not less than $5,000 for deficiencies in applicable quality standards for home health agencies;
 
-“(iii) was subject to suspension by the Secretary of all or part of the payments to which it would otherwise be entitled under such title;
+"(iii) was subject to suspension by the Secretary of all or part of the payments to which it would otherwise be entitled under such title;
 
-“(iv) operated under a temporary management appointed to oversee the operation of the agency and to ensure the health and safety of the agency's patients; or
+"(iv) operated under a temporary management appointed to oversee the operation of the agency and to ensure the health and safety of the agency's patients; or
 
-“(v) pursuant to State action, was closed or had its patients transferred.”
+"(v) pursuant to State action, was closed or had its patients transferred."
 
 #### Effective Date of 1988 Amendment ####
 
@@ -248,9 +248,9 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment ####
 
-Pub. L. 100–203, title IV, §4022(b), Dec. 22, 1987, 101 Stat. 1330–71, provided that: “Except as otherwise specifically provided in section 1891(d) of the Social Security Act [42 U.S.C. 1395bbb(d)] (as added by subsection (a)), the amendment made by subsection (a) [amending this section] shall become effective on the first day of the 18th calendar month to begin after the date of the enactment of this Act [Dec. 22, 1987].”
+Pub. L. 100–203, title IV, §4022(b), Dec. 22, 1987, 101 Stat. 1330–71, provided that: "Except as otherwise specifically provided in section 1891(d) of the Social Security Act [42 U.S.C. 1395bbb(d)] (as added by subsection (a)), the amendment made by subsection (a) [amending this section] shall become effective on the first day of the 18th calendar month to begin after the date of the enactment of this Act [Dec. 22, 1987]."
 
-Pub. L. 100–203, title IV, §4023(b), Dec. 22, 1987, 101 Stat. 1330–73, as amended by Pub. L. 100–360, title IV, §411(d)(3)(C), July 1, 1988, 102 Stat. 774, provided that: “Except as otherwise specifically provided in subsections (e) and (f) of section 1891 of the Social Security Act [42 U.S.C. 1395bbb(e), (f)] (as added by subsection (a)), the amendment made by subsection (a) [amending this section] shall become effective on the first day of the 18th calendar month to begin after the date of the enactment of this Act [Dec. 22, 1987], and no intermediate sanction described in section 1891(f)(2)(A) of such Act [42 U.S.C. 1395bbb(f)(2)(A)] shall be imposed for violations occurring before such effective date.”
+Pub. L. 100–203, title IV, §4023(b), Dec. 22, 1987, 101 Stat. 1330–73, as amended by Pub. L. 100–360, title IV, §411(d)(3)(C), July 1, 1988, 102 Stat. 774, provided that: "Except as otherwise specifically provided in subsections (e) and (f) of section 1891 of the Social Security Act [42 U.S.C. 1395bbb(e), (f)] (as added by subsection (a)), the amendment made by subsection (a) [amending this section] shall become effective on the first day of the 18th calendar month to begin after the date of the enactment of this Act [Dec. 22, 1987], and no intermediate sanction described in section 1891(f)(2)(A) of such Act [42 U.S.C. 1395bbb(f)(2)(A)] shall be imposed for violations occurring before such effective date."
 
 #### Effective Date ####
 
@@ -260,14 +260,14 @@ Section applicable to home health agencies as of the first day of the 18th calen
 
 Pub. L. 106–554, §1(a)(6) [title V, §506], Dec. 21, 2000, 114 Stat. 2763, 2763A–531, provided that:
 
-“(a) Treatment of Branch Offices.—
+"(a) Treatment of Branch Offices.—
 
-“(1) In general.—Notwithstanding any other provision of law, in determining for purposes of title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] whether an office of a home health agency constitutes a branch office or a separate home health agency, neither the time nor distance between a parent office of the home health agency and a branch office shall be the sole determinant of a home health agency's branch office status.
+"(1) In general.—Notwithstanding any other provision of law, in determining for purposes of title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] whether an office of a home health agency constitutes a branch office or a separate home health agency, neither the time nor distance between a parent office of the home health agency and a branch office shall be the sole determinant of a home health agency's branch office status.
 
-“(2) Consideration of forms of technology in definition of supervision.—The Secretary of Health and Human Services may include forms of technology in determining what constitutes ‘supervision’ for purposes of determining a home heath [sic] agency's branch office status under paragraph (1).
+"(2) Consideration of forms of technology in definition of supervision.—The Secretary of Health and Human Services may include forms of technology in determining what constitutes 'supervision' for purposes of determining a home heath [sic] agency's branch office status under paragraph (1).
 
-“(b) GAO Study.—
+"(b) GAO Study.—
 
-“(1) Study.—The Comptroller General of the United States shall conduct a study of the provision of adequate supervision to maintain quality of home health services delivered under the medicare program under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] in isolated rural areas. The study shall evaluate the methods that home health agency branches and subunits use to maintain adequate supervision in the delivery of services to clients residing in those areas, how these methods of supervision compare to requirements that subunits independently meet medicare conditions of participation, and the resources utilized by subunits to meet such conditions.
+"(1) Study.—The Comptroller General of the United States shall conduct a study of the provision of adequate supervision to maintain quality of home health services delivered under the medicare program under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] in isolated rural areas. The study shall evaluate the methods that home health agency branches and subunits use to maintain adequate supervision in the delivery of services to clients residing in those areas, how these methods of supervision compare to requirements that subunits independently meet medicare conditions of participation, and the resources utilized by subunits to meet such conditions.
 
-“(2) Report.—Not later than January 1, 2002, the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1). The report shall include recommendations on whether exceptions are needed for subunits and branches of home health agencies under the medicare program to maintain access to the home health benefit or whether alternative policies should be developed to assure adequate supervision and access and recommendations on whether a national standard for supervision is appropriate.”
+"(2) Report.—Not later than January 1, 2002, the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1). The report shall include recommendations on whether exceptions are needed for subunits and branches of home health agencies under the medicare program to maintain access to the home health benefit or whether alternative policies should be developed to assure adequate supervision and access and recommendations on whether a national standard for supervision is appropriate."

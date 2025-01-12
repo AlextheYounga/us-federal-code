@@ -18,6 +18,6 @@ Section 1005 of this Act, referred to in par. (1), means section 1005 of Pub. L.
 
 Section was enacted as part of the Food and Drug Administration Safety and Innovation Act, and not as part of the Controlled Substances Act which comprises this subchapter.
 
-#### Definition of “Secretary” ####
+#### Definition of "Secretary" ####
 
-The term “Secretary” as meaning the Secretary of Health and Human Services, see section 1001(b) of Pub. L. 112–144, set out as an Effect of Notification note under section 356c of this title.
+The term "Secretary" as meaning the Secretary of Health and Human Services, see section 1001(b) of Pub. L. 112–144, set out as an Effect of Notification note under section 356c of this title.

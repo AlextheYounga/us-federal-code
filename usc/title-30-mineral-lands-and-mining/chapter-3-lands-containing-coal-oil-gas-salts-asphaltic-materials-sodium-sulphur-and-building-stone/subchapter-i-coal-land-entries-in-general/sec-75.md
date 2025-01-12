@@ -10,7 +10,7 @@ R.S. §2351 derived from act Mar. 3, 1873, ch. 279, §5, 17 Stat. 608.
 
 #### Transfer of Functions ####
 
-“Director of the Bureau of Land Management” substituted in text for “Commissioner of the General Land Office” on authority of Reorg. Plan No. 3 of 1946, §403, set out in the Appendix to Title 5, Government Organization and Employees.
+"Director of the Bureau of Land Management" substituted in text for "Commissioner of the General Land Office" on authority of Reorg. Plan No. 3 of 1946, §403, set out in the Appendix to Title 5, Government Organization and Employees.
 
 See also note set out under section 1 of this title.
 

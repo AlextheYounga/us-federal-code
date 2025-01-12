@@ -16,9 +16,9 @@ The purposes of this section are—
 
 For the purposes of this section—
 
-(1) the term “recreation area” means the Boston Harbor Islands National Recreation Area established by subsection (c) of this section; and
+(1) the term "recreation area" means the Boston Harbor Islands National Recreation Area established by subsection (c) of this section; and
 
-(2) the term “Secretary” means the Secretary of the Interior.
+(2) the term "Secretary" means the Secretary of the Interior.
 
 #### (c) Boston Harbor Islands National Recreation Area ####
 
@@ -28,7 +28,7 @@ In order to preserve for the benefit and inspiration of the people of the United
 
 #### (2) Boundaries ####
 
-(A) The recreation area shall be comprised of the lands, waters, and submerged lands generally depicted on the map entitled “Proposed Boston Harbor Islands NRA”, numbered BOHA 80,002, and dated September 1996. Such map shall be on file and available for public inspection in the appropriate offices of the National Park Service. After advising the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, in writing, the Secretary may make minor revisions of the boundaries of the recreation area when necessary by publication of a revised drawing or other boundary description in the Federal Register.
+(A) The recreation area shall be comprised of the lands, waters, and submerged lands generally depicted on the map entitled "Proposed Boston Harbor Islands NRA", numbered BOHA 80,002, and dated September 1996. Such map shall be on file and available for public inspection in the appropriate offices of the National Park Service. After advising the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, in writing, the Secretary may make minor revisions of the boundaries of the recreation area when necessary by publication of a revised drawing or other boundary description in the Federal Register.
 
 (B) The recreation area shall include the following:
 
@@ -54,7 +54,7 @@ Nothing in this section shall be construed to diminish, enlarge, or modify any r
 
 #### (A) Definition of eligible entity ####
 
-In this paragraph, the term “eligible entity” means—
+In this paragraph, the term "eligible entity" means—
 
 (i) the Commonwealth of Massachusetts;
 
@@ -278,29 +278,29 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (g)(4),
 
 **2010**—Subsec. (e)(2)(B). Pub. L. 111–281 made technical amendment to directory language of Pub. L. 109–241, §902(h)(1). See 2006 Amendment note below.
 
-**2009**—Subsec. (d)(3). Pub. L. 111–11, §7109(a), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Secretary may consult and enter into cooperative agreements with the Commonwealth of Massachusetts or its political subdivisions to acquire from and provide to the Commonwealth or its political subdivisions goods and services to be used in the cooperative management of lands within the recreation area, if the Secretary determines that appropriations for that purpose are available and the agreement is in the best interest of the United States.”
+**2009**—Subsec. (d)(3). Pub. L. 111–11, §7109(a), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "The Secretary may consult and enter into cooperative agreements with the Commonwealth of Massachusetts or its political subdivisions to acquire from and provide to the Commonwealth or its political subdivisions goods and services to be used in the cooperative management of lands within the recreation area, if the Secretary determines that appropriations for that purpose are available and the agreement is in the best interest of the United States."
 
-Subsec. (e)(2)(B). Pub. L. 111–11, §7109(b)(1), substituted “Coast Guard.” for “Coast Guard”.
+Subsec. (e)(2)(B). Pub. L. 111–11, §7109(b)(1), substituted "Coast Guard." for "Coast Guard".
 
-Subsec. (e)(11). Pub. L. 111–11, §7109(b)(2), substituted “Notwithstanding” for “Nothwithstanding”.
+Subsec. (e)(11). Pub. L. 111–11, §7109(b)(2), substituted "Notwithstanding" for "Nothwithstanding".
 
-**2006**—Subsec. (e)(2)(B). Pub. L. 109–241, §902(h)(1), as amended by Pub. L. 111–281, §903(a)(8), substituted “Commandant of the Coast Guard.” for “Secretary of Transportation, to represent the United States Coast Guard.”
+**2006**—Subsec. (e)(2)(B). Pub. L. 109–241, §902(h)(1), as amended by Pub. L. 111–281, §903(a)(8), substituted "Commandant of the Coast Guard." for "Secretary of Transportation, to represent the United States Coast Guard."
 
-**2004**—Subsec. (c)(2)(B)(i). Pub. L. 108–352, §12(1), substituted “referenced” for “reference”.
+**2004**—Subsec. (c)(2)(B)(i). Pub. L. 108–352, §12(1), substituted "referenced" for "reference".
 
-Subsec. (d)(4). Pub. L. 108–352, §12(2), inserted period after “plans”.
+Subsec. (d)(4). Pub. L. 108–352, §12(2), inserted period after "plans".
 
-**2000**—Pub. L. 106–176, §126(1), substituted “National Recreation Area” for “Recreation Area” in section catchline.
+**2000**—Pub. L. 106–176, §126(1), substituted "National Recreation Area" for "Recreation Area" in section catchline.
 
-Subsec. (b)(1). Pub. L. 106–176, §126(2), inserted quotation marks around “recreation area”.
+Subsec. (b)(1). Pub. L. 106–176, §126(2), inserted quotation marks around "recreation area".
 
-Subsec. (e)(3)(B). Pub. L. 106–176, §126(3), which directed substitution of “subparagraphs (C), (D), (E), (F), (G), (H), (I), and (J) of paragraph (2).” for “subsections (b)(3), (4), (5), (6), (7), (8), (9), and (10) of this section..”, was executed by making the substitution for text that did not include the phrase “of this section..”
+Subsec. (e)(3)(B). Pub. L. 106–176, §126(3), which directed substitution of "subparagraphs (C), (D), (E), (F), (G), (H), (I), and (J) of paragraph (2)." for "subsections (b)(3), (4), (5), (6), (7), (8), (9), and (10) of this section..", was executed by making the substitution for text that did not include the phrase "of this section.."
 
-Subsec. (f)(2)(A)(i). Pub. L. 106–176, §126(4), substituted “private-sector roles” for “profit sector roles”.
+Subsec. (f)(2)(A)(i). Pub. L. 106–176, §126(4), substituted "private-sector roles" for "profit sector roles".
 
-Subsec. (g)(1). Pub. L. 106–176, §126(5), substituted “and revenue-raising activities.” for “and revenue raising activities.”.
+Subsec. (g)(1). Pub. L. 106–176, §126(5), substituted "and revenue-raising activities." for "and revenue raising activities.".
 
-Subsec. (h)(2). Pub. L. 106–176, §126(6), substituted “ratio” for “ration”.
+Subsec. (h)(2). Pub. L. 106–176, §126(6), substituted "ratio" for "ration".
 
 **1998**—Subsec. (c)(3). Pub. L. 105–355 added par. (3).
 

@@ -2,11 +2,11 @@
 
 #### (a) Establishment ####
 
-There is established a competitive health care workforce development grant program (referred to in this section as the “program”) for the purpose of enabling State partnerships to complete comprehensive planning and to carry out activities leading to coherent and comprehensive health care workforce development strategies at the State and local levels.
+There is established a competitive health care workforce development grant program (referred to in this section as the "program") for the purpose of enabling State partnerships to complete comprehensive planning and to carry out activities leading to coherent and comprehensive health care workforce development strategies at the State and local levels.
 
 #### (b) Fiscal and administrative agent ####
 
-The Health Resources and Services Administration of the Department of Health and Human Services (referred to in this section as the “Administration”) shall be the fiscal and administrative agent for the grants awarded under this section. The Administration is authorized to carry out the program, in consultation with the National Health Care Workforce Commission (referred to in this section as the “Commission”), which shall review reports on the development, implementation, and evaluation activities of the grant program, including—
+The Health Resources and Services Administration of the Department of Health and Human Services (referred to in this section as the "Administration") shall be the fiscal and administrative agent for the grants awarded under this section. The Administration is authorized to carry out the program, in consultation with the National Health Care Workforce Commission (referred to in this section as the "Commission"), which shall review reports on the development, implementation, and evaluation activities of the grant program, including—
 
 (1) administering the grants;
 
@@ -208,6 +208,6 @@ Section 294cc, act July 1, 1944, ch. 373, title VII, §761, as added Nov. 6, 199
 
 For definitions of terms used in this section, see section 5002(a) of Pub. L. 111–148, set out as a note under section 294q of this title.
 
-[<sup>1</sup> So in original. Probably should be “reasonably”.](#294r_1)
+[<sup>1</sup> So in original. Probably should be "reasonably".](#294r_1)
 
-[<sup>2</sup> So in original. Probably should be “develop”.](#294r_2)
+[<sup>2</sup> So in original. Probably should be "develop".](#294r_2)

@@ -14,6 +14,6 @@ There is authorized to be appropriated to carry out this section $2,000,000.
 
 #### (d) Short title ####
 
-This section may be cited as the “Lake Ontario Protection Act of 1976.”
+This section may be cited as the "Lake Ontario Protection Act of 1976."
 
 (Pub. L. 94–587, §180, Oct. 22, 1976, 90 Stat. 2939.)

@@ -4,9 +4,9 @@
 
 The Secretaries of Agriculture and the Interior shall annually offer training programs to certify volunteers for suppressing forest fires on National Forest System lands, National Park System lands and Bureau of Land Management public lands in the event that the appropriate Secretary determines that such volunteers are needed. In carrying out this subsection, the Secretaries should utilize existing authorities to train volunteer firefighters for use in fire emergencies. The Secretaries should assess the capabilities of educational institutions and other public and private organizations to provide such training programs.
 
-#### (b) “Educational institutions” defined ####
+#### (b) "Educational institutions" defined ####
 
-For the purposes of this section, the term “educational institutions” shall include institutions established pursuant to the Act of July 2, 1862 (7 U.S.C. 301 et seq., commonly known as the “Morrill Act”), or the Act of August 30, 1890 (7 U.S.C. 321 et seq., commonly known as the “Second Morrill Act”).
+For the purposes of this section, the term "educational institutions" shall include institutions established pursuant to the Act of July 2, 1862 (7 U.S.C. 301 et seq., commonly known as the "Morrill Act"), or the Act of August 30, 1890 (7 U.S.C. 321 et seq., commonly known as the "Second Morrill Act").
 
 #### (c) Mobilization of local equipment ####
 
@@ -34,26 +34,26 @@ Act of August 30, 1890, referred to in subsec. (b), is act Aug. 30, 1890, ch. 84
 
 Pub. L. 113–79, title VIII, §8305, Feb. 7, 2014, 128 Stat. 925, provided that:
 
-“(a) In General.—Subject to the availability of appropriations, the Secretary [of Agriculture], acting through the Chief of the Forest Service, may establish a large airtanker and aerial asset lease program in accordance with this section.
+"(a) In General.—Subject to the availability of appropriations, the Secretary [of Agriculture], acting through the Chief of the Forest Service, may establish a large airtanker and aerial asset lease program in accordance with this section.
 
-“(b) Aircraft Requirements.—In carrying out the program described in subsection (a), the Secretary may enter into a multiyear lease contract for up to 5 aircraft that meet the criteria—
+"(b) Aircraft Requirements.—In carrying out the program described in subsection (a), the Secretary may enter into a multiyear lease contract for up to 5 aircraft that meet the criteria—
 
-“(1) described in the Forest Service document entitled ‘Large Airtanker Modernization Strategy’ and dated February 10, 2012, for large airtankers; and
+"(1) described in the Forest Service document entitled 'Large Airtanker Modernization Strategy' and dated February 10, 2012, for large airtankers; and
 
-“(2) determined by the Secretary, for other aerial assets.
+"(2) determined by the Secretary, for other aerial assets.
 
-“(c) Lease Terms.—The term of any individual lease agreement into which the Secretary enters under this section shall be—
+"(c) Lease Terms.—The term of any individual lease agreement into which the Secretary enters under this section shall be—
 
-“(1) up to 5 years, inclusive of any options to renew or extend the initial lease term; and
+"(1) up to 5 years, inclusive of any options to renew or extend the initial lease term; and
 
-“(2) in accordance with section 3903 of title 41, United States Code.
+"(2) in accordance with section 3903 of title 41, United States Code.
 
-“(d) Prohibition.—No lease entered into under this section shall provide for the purchase of the aircraft by, or the transfer of ownership to, the Forest Service.”
+"(d) Prohibition.—No lease entered into under this section shall provide for the purchase of the aircraft by, or the transfer of ownership to, the Forest Service."
 
 #### Forest Firefighting Planning and Cooperation; Findings ####
 
-Pub. L. 101–286, title II, §201, May 9, 1990, 104 Stat. 174, provided that: “The Congress finds that—
+Pub. L. 101–286, title II, §201, May 9, 1990, 104 Stat. 174, provided that: "The Congress finds that—
 
-“(1) it is in the best interest of the Nation to take swift action to rehabilitate burned forests, and an assessment of the situation is necessary to accomplish this; and
+"(1) it is in the best interest of the Nation to take swift action to rehabilitate burned forests, and an assessment of the situation is necessary to accomplish this; and
 
-“(2) volunteers should be trained to assist where possible.”
+"(2) volunteers should be trained to assist where possible."

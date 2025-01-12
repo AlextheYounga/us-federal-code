@@ -2,11 +2,11 @@
 
 #### (a) Authorization of appropriations ####
 
-For the procurement of security countermeasures under section 247d–6b(c) of title 42 (referred to in this section as the “security countermeasures program”), there is authorized to be appropriated up to $5,593,000,000 for the fiscal years 2004 through 2013. Of the amounts appropriated under the preceding sentence, not to exceed $3,418,000,000 may be obligated during the fiscal years 2004 through 2008, of which not to exceed $890,000,000 may be obligated during fiscal year 2004. None of the funds made available under this subsection shall be used to procure countermeasures to diagnose, mitigate, prevent, or treat harm resulting from any naturally occurring infectious disease or other public health threat that are not security countermeasures under section 247d–6b(c)(1)(B) of title 42.<sup><a href="#321j_1_target" name="321j_1">1</a></sup>
+For the procurement of security countermeasures under section 247d–6b(c) of title 42 (referred to in this section as the "security countermeasures program"), there is authorized to be appropriated up to $5,593,000,000 for the fiscal years 2004 through 2013. Of the amounts appropriated under the preceding sentence, not to exceed $3,418,000,000 may be obligated during the fiscal years 2004 through 2008, of which not to exceed $890,000,000 may be obligated during fiscal year 2004. None of the funds made available under this subsection shall be used to procure countermeasures to diagnose, mitigate, prevent, or treat harm resulting from any naturally occurring infectious disease or other public health threat that are not security countermeasures under section 247d–6b(c)(1)(B) of title 42.<sup><a href="#321j_1_target" name="321j_1">1</a></sup>
 
 #### (b) Special reserve fund ####
 
-For purposes of the security countermeasures program, the term “special reserve fund” means the “Biodefense Countermeasures” appropriations account or any other appropriation made under subsection (a).
+For purposes of the security countermeasures program, the term "special reserve fund" means the "Biodefense Countermeasures" appropriations account or any other appropriation made under subsection (a).
 
 #### (c) Availability ####
 
@@ -26,11 +26,11 @@ For the purpose of carrying out the acquisition and deployment of secure facilit
 
 #### References in Text ####
 
-Section 247d–6b(c)(1)(B) of title 42, referred to in subsec. (a), was in the original “section 319F–2(c)(1)(B)”, which was translated as meaning section 319F–2(c)(1)(B) of the Public Health Service Act, to reflect the probable intent of Congress.
+Section 247d–6b(c)(1)(B) of title 42, referred to in subsec. (a), was in the original "section 319F–2(c)(1)(B)", which was translated as meaning section 319F–2(c)(1)(B) of the Public Health Service Act, to reflect the probable intent of Congress.
 
 Section 403–4 of title 50, referred to in subsec. (d)(1), was repealed and a new section 403–4 enacted by Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3660, and subsequently editorially reclassified to section 3035 of Title 50; as so enacted, section 3035 no longer relates to promulgation of standards and qualifications for the performance of intelligence activities.
 
-Part A of subchapter II of this chapter, referred to in subsec. (d)(2), was in the original “subtitle A of title II”, meaning subtitle A of title II of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2145, which is classified generally to part A (§121 et seq.) of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
+Part A of subchapter II of this chapter, referred to in subsec. (d)(2), was in the original "subtitle A of title II", meaning subtitle A of title II of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2145, which is classified generally to part A (§121 et seq.) of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
 
 #### Codification ####
 
@@ -38,9 +38,9 @@ Section was formerly classified to section 320 of this title prior to renumberin
 
 #### Amendments ####
 
-**2007**—Subsec. (d)(1). Pub. L. 110–53, §531(b)(1)(D)(i), substituted “Office of Intelligence and Analysis” for “Directorate for Information Analysis and Infrastructure Protection”.
+**2007**—Subsec. (d)(1). Pub. L. 110–53, §531(b)(1)(D)(i), substituted "Office of Intelligence and Analysis" for "Directorate for Information Analysis and Infrastructure Protection".
 
-Subsec. (d)(2). Pub. L. 110–53, §531(b)(1)(D)(ii), substituted “Under Secretary for Intelligence and Analysis” for “Under Secretary for Information Analysis and Infrastructure Protection”.
+Subsec. (d)(2). Pub. L. 110–53, §531(b)(1)(D)(ii), substituted "Under Secretary for Intelligence and Analysis" for "Under Secretary for Information Analysis and Infrastructure Protection".
 
 **2006**—Subsec. (a). Pub. L. 109–417, which directed amendment of section 510(a) of the Homeland Security Act of 2002, Pub. L. 107–296, by inserting a new last sentence, was executed to subsec. (a) of this section to reflect the probable intent of Congress and the redesignation of section 510(a) as 521(a) by Pub. L. 109–295, §611(7).
 

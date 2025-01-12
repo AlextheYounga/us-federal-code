@@ -2,7 +2,7 @@
 
 #### (a) Boundaries; inspection of map ####
 
-The park shall comprise the area generally depicted on the map entitled “Valley Forge National Historical Park”, dated June 1979, and numbered VF–91,001, which shall be on file and available for inspection in the offices of the National Park Service, Department of the Interior, Washington, District of Columbia, and in the offices of the superintendent of the park. After advising the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives, in writing, the Secretary may make minor revisions of the boundaries of the park when necessary by publication of a revised map or other boundary description in the Federal Register.
+The park shall comprise the area generally depicted on the map entitled "Valley Forge National Historical Park", dated June 1979, and numbered VF–91,001, which shall be on file and available for inspection in the offices of the National Park Service, Department of the Interior, Washington, District of Columbia, and in the offices of the superintendent of the park. After advising the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives, in writing, the Secretary may make minor revisions of the boundaries of the park when necessary by publication of a revised map or other boundary description in the Federal Register.
 
 #### (b) Acquisition of lands ####
 
@@ -16,14 +16,14 @@ Except for property deemed by the Secretary to be essential for visitor faciliti
 
 The Secretary may terminate a right of use and occupancy retained pursuant to this section upon his determination that such use and occupancy is being exercised in a manner not consistent with the purposes of this subchapter, and upon tender to the holder of the right of an amount equal to the fair market value of that portion of the right which remains unexpired on the date of termination.
 
-#### (e) “Improved property” defined ####
+#### (e) "Improved property" defined ####
 
-The term “improved property”, as used in this section shall mean a detached, noncommercial residential dwelling, the construction of which was begun before January 1, 1975 (hereafter referred to as “dwelling”), together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
+The term "improved property", as used in this section shall mean a detached, noncommercial residential dwelling, the construction of which was begun before January 1, 1975 (hereafter referred to as "dwelling"), together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
 (Pub. L. 94–337, §2, July 4, 1976, 90 Stat. 796; Pub. L. 96–287, title III, §301(1), June 28, 1980, 94 Stat. 601; Pub. L. 103–437, §6(a)(3), Nov. 2, 1994, 108 Stat. 4583.)
 
 #### Amendments ####
 
-**1994**—Subsec. (a). Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the United States Congress”.
+**1994**—Subsec. (a). Pub. L. 103–437 substituted "Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives" for "Committees on Interior and Insular Affairs of the United States Congress".
 
-**1980**—Subsec. (a). Pub. L. 96–287 substituted reference to park area as depicted on map “dated June 1979, and numbered VF–91,001” for prior depiction on map “dated February 1976, and numbered VF–91,000”.
+**1980**—Subsec. (a). Pub. L. 96–287 substituted reference to park area as depicted on map "dated June 1979, and numbered VF–91,001" for prior depiction on map "dated February 1976, and numbered VF–91,000".

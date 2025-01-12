@@ -2,7 +2,7 @@
 
 Sec.
 
-1601. Congressional statement of findings; “materials” defined.
+1601. Congressional statement of findings; "materials" defined.
 
 1602. Congressional declaration of policies.
 

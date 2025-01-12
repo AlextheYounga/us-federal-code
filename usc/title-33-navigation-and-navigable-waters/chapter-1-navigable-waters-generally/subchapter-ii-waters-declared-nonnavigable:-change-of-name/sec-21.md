@@ -8,4 +8,4 @@ The right to alter, amend, or repeal this section is expressly reserved.
 
 #### Codification ####
 
-The first sentence hereof is section 1 and the second sentence section 2 of act Feb. 25, 1921, entitled “An Act to declare Bayou Cocodrie nonnavigable from its source to its junction with Bayou Chicot”.
+The first sentence hereof is section 1 and the second sentence section 2 of act Feb. 25, 1921, entitled "An Act to declare Bayou Cocodrie nonnavigable from its source to its junction with Bayou Chicot".

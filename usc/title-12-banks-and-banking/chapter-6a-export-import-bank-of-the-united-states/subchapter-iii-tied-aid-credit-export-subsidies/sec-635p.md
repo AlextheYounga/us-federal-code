@@ -2,7 +2,7 @@
 
 The President shall vigorously pursue negotiations to limit and set rules for the use of tied aid for exports. The negotiating objectives of the United States should include reaching agreements—
 
-(1) to define the various forms of tied aid credit, particularly mixed credits under the Arrangement on Guidelines for Officially Supported Export Credits established through the Organization for Economic Cooperation and Development (hereinafter in this subchapter referred to as the “Arrangement”);
+(1) to define the various forms of tied aid credit, particularly mixed credits under the Arrangement on Guidelines for Officially Supported Export Credits established through the Organization for Economic Cooperation and Development (hereinafter in this subchapter referred to as the "Arrangement");
 
 (2) to phase out the use of government-mixed credits by a date certain;
 

@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-There is hereby established the Cane River National Heritage Area (hereinafter in this part referred to as the “heritage area”).
+There is hereby established the Cane River National Heritage Area (hereinafter in this part referred to as the "heritage area").
 
 #### (b) Purpose ####
 

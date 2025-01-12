@@ -36,6 +36,6 @@ Title III, referred to in subsec. (a), means title III of Pub. L. 93–638, as a
 
 #### Amendments ####
 
-**1996**—Subsec. (b)(1). Pub. L. 104–208 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In addition to those Indian tribes participating in Self-Governance under subsection (a) of this section, the Secretary, acting through the Director of the Office of Self-Governance, may select up to 20 new tribes per year from the applicant pool described in subsection (c) of this section to participate in Self-Governance.”
+**1996**—Subsec. (b)(1). Pub. L. 104–208 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In addition to those Indian tribes participating in Self-Governance under subsection (a) of this section, the Secretary, acting through the Director of the Office of Self-Governance, may select up to 20 new tribes per year from the applicant pool described in subsection (c) of this section to participate in Self-Governance."
 
 [<sup>1</sup> See References in Text note below.](#458bb_1)

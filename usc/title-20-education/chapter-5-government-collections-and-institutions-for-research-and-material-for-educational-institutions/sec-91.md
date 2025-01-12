@@ -38,11 +38,11 @@ Section is from a resolution adopted Apr. 12, 1892, the Deficiencies Appropriati
 
 #### Amendments ####
 
-**1999**—Pub. L. 106–113 substituted “United States Patent and Trademark Office” for “Patent Office” in par. Three.
+**1999**—Pub. L. 106–113 substituted "United States Patent and Trademark Office" for "Patent Office" in par. Three.
 
 #### Change of Name ####
 
-“United States Geological Survey” substituted for “Geological Survey” in par. Eleven pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
+"United States Geological Survey" substituted for "Geological Survey" in par. Eleven pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
 
 Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Environmental Science Services Administration abolished in 1970 and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic and Atmospheric Administration, 35 F.R. 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. See notes set out under section 311 of Title 15, Commerce and Trade.
 
@@ -62,14 +62,14 @@ Bureau of Fisheries consolidated with Bureau of Biological Survey into Fish and 
 
 For transfer of certain personal property and functions, insofar as they pertain to the Air Force, from Secretary of the Army and Department of the Army, to Secretary of the Air Force and Department of the Air Force, see Secretary of Defense Transfer Order Nos. 6, eff. Jan. 15, 1948; 39, May 18, 1949; 40 [App. B(69)], July 22, 1949.
 
-“Department of Education” substituted in text for “Office of Education” pursuant to sections 301(b)(2) and 507 of Pub. L. 96–88, which are classified to sections 3441(b)(2) and 3507 of this title and which transferred Office of Education to Department of Education.
+"Department of Education" substituted in text for "Office of Education" pursuant to sections 301(b)(2) and 507 of Pub. L. 96–88, which are classified to sections 3441(b)(2) and 3507 of this title and which transferred Office of Education to Department of Education.
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
 Office of Education transferred to Federal Security Agency by Reorg. Plan No. I of 1939, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424, set out in the Appendix to Title 5.
 
-Office of Education created and placed in Department of the Interior by act of July 20, 1868, ch. 176, 15 Stat. 106, which abolished Department of Education. In appropriation act of July 12, 1870, ch. 251, 16 Stat. 242, the Office was designated Bureau of Education. This designation was retained until the act of May 14, 1930, ch. 273, 46 Stat. 281, 319, which made appropriations for “Office of Education”.
+Office of Education created and placed in Department of the Interior by act of July 20, 1868, ch. 176, 15 Stat. 106, which abolished Department of Education. In appropriation act of July 12, 1870, ch. 251, 16 Stat. 242, the Office was designated Bureau of Education. This designation was retained until the act of May 14, 1930, ch. 273, 46 Stat. 281, 319, which made appropriations for "Office of Education".
 
 #### National Museum ####
 
-National Museum was not created by any express statutory provision for that purpose. It was first mentioned in an appropriation for postage for “the National Museum in the Smithsonian Institution,” contained in act June 20, 1874, ch. 328, §1, 18 Stat. 103. An appropriation for a building for the use of the National Museum was made by act Mar. 3, 1879, ch. 182, §1, 20 Stat. 397, and annual appropriations have continuously been made for expenses of heating, etc., such building.
+National Museum was not created by any express statutory provision for that purpose. It was first mentioned in an appropriation for postage for "the National Museum in the Smithsonian Institution," contained in act June 20, 1874, ch. 328, §1, 18 Stat. 103. An appropriation for a building for the use of the National Museum was made by act Mar. 3, 1879, ch. 182, §1, 20 Stat. 397, and annual appropriations have continuously been made for expenses of heating, etc., such building.

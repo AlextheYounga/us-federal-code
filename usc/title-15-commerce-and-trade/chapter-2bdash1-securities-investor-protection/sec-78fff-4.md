@@ -50,7 +50,7 @@ A prior section 10 of Pub. L. 91–598 was renumbered section 14 and is classifi
 
 #### Amendments ####
 
-**1978**—Subsec. (e). Pub. L. 95–598 substituted in heading “Bankruptcy Courts” for “District Courts” and in text “courts of the United States having jurisdiction over cases under title 11” for “district courts of the United States” and struck out “, without regard to the citizenship of the parties or the amount in controversy” after “adjudication of such claim”.
+**1978**—Subsec. (e). Pub. L. 95–598 substituted in heading "Bankruptcy Courts" for "District Courts" and in text "courts of the United States having jurisdiction over cases under title 11" for "district courts of the United States" and struck out ", without regard to the citizenship of the parties or the amount in controversy" after "adjudication of such claim".
 
 #### Effective Date of 1978 Amendment ####
 

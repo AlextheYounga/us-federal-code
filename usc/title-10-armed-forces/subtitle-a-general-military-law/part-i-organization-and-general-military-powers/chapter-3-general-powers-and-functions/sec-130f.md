@@ -8,7 +8,7 @@
 
 (c) Briefing Requirement.—The Secretary of Defense shall periodically brief the congressional defense committees on Department of Defense personnel and equipment assigned to sensitive military operations.
 
-(d) Sensitive Military Operation Defined.—The term “sensitive military operation” means a lethal operation or capture operation conducted by the armed forces outside the United States and outside a theater of major hostilities pursuant to—
+(d) Sensitive Military Operation Defined.—The term "sensitive military operation" means a lethal operation or capture operation conducted by the armed forces outside the United States and outside a theater of major hostilities pursuant to—
 
 (1) the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note); or
 
@@ -34,8 +34,8 @@ The War Powers Resolution, referred to in subsec. (f), is Pub. L. 93–148, Nov.
 
 #### Effective Date ####
 
-Pub. L. 113–66, div. A, title X, §1041(b), Dec. 26, 2013, 127 Stat. 857, provided that: “Section 130f of title 10, United States Code, as added by subsection (a), shall apply with respect to any sensitive military operation (as defined in subsection (d) of such section) executed on or after the date of the enactment of this Act [Dec. 26, 2013].”
+Pub. L. 113–66, div. A, title X, §1041(b), Dec. 26, 2013, 127 Stat. 857, provided that: "Section 130f of title 10, United States Code, as added by subsection (a), shall apply with respect to any sensitive military operation (as defined in subsection (d) of such section) executed on or after the date of the enactment of this Act [Dec. 26, 2013]."
 
 #### Deadline for Submittal of Procedures ####
 
-Pub. L. 113–66, div. A, title X, §1041(c), Dec. 26, 2013, 127 Stat. 857, provided that: “The Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] the procedures required under section 130f(b) of title 10, United States Code, as added by subsection (a), by not later than 60 days after the date of the enactment of this Act [Dec. 26, 2013].”
+Pub. L. 113–66, div. A, title X, §1041(c), Dec. 26, 2013, 127 Stat. 857, provided that: "The Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] the procedures required under section 130f(b) of title 10, United States Code, as added by subsection (a), by not later than 60 days after the date of the enactment of this Act [Dec. 26, 2013]."

@@ -6,7 +6,7 @@ Unless Congress by law authorizes such action, neither the President nor any per
 
 #### Amendments ####
 
-**1999**—Pub. L. 106–113, which directed substitution of “approve any disposition of Fund gold, unless the Secretary certifies to the Congress that such disposition is necessary for the Fund to restitute gold to its members, or for the Fund to provide liquidity that will enable the Fund to meet member country claims on the Fund or to meet threats to the systemic stability of the international financial system.” for “approve either the disposition of more than 25 million ounces of Fund gold for the benefit of the Trust Fund established by the Fund on May 6, 1976, or the establishment of any additional trust fund whereby resources of the International Monetary Fund would be used for the special benefit of a single member, or of a particular segment of the membership, of the Fund.” in cl. (g) of first sentence, was executed by making the substitution for text which ended with “the fund.” rather than “the Fund.”, to reflect the probable intent of Congress.
+**1999**—Pub. L. 106–113, which directed substitution of "approve any disposition of Fund gold, unless the Secretary certifies to the Congress that such disposition is necessary for the Fund to restitute gold to its members, or for the Fund to provide liquidity that will enable the Fund to meet member country claims on the Fund or to meet threats to the systemic stability of the international financial system." for "approve either the disposition of more than 25 million ounces of Fund gold for the benefit of the Trust Fund established by the Fund on May 6, 1976, or the establishment of any additional trust fund whereby resources of the International Monetary Fund would be used for the special benefit of a single member, or of a particular segment of the membership, of the Fund." in cl. (g) of first sentence, was executed by making the substitution for text which ended with "the fund." rather than "the Fund.", to reflect the probable intent of Congress.
 
 **1983**—Pub. L. 98–181 inserted provision prohibiting the President or any person or agency from consenting to a borrowing of funds denominated in dollars unless notice of such borrowing is transmitted to Congress at least 60 days prior to such borrowing.
 
@@ -14,7 +14,7 @@ Unless Congress by law authorizes such action, neither the President nor any per
 
 **1976**—Pub. L. 94–564 amended cls. (a) to (g) generally.
 
-**1965**—Pub. L. 89–126 inserted “if such increase involves an increased subscription on the part of the United States”.
+**1965**—Pub. L. 89–126 inserted "if such increase involves an increased subscription on the part of the United States".
 
 #### Effective Date of 1976 Amendment ####
 

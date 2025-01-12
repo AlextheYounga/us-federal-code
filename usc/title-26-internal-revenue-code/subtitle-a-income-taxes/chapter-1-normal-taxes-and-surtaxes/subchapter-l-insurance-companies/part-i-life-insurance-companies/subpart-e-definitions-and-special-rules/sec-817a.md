@@ -22,7 +22,7 @@ Proper adjustment shall be made in the amount of any gain or loss subsequently r
 
 #### (2) Segregated asset ####
 
-For purposes of paragraph (1), the term “segregated asset” means any asset held as part of a segregated account referred to in subsection (d)(1) under a modified guaranteed contract.
+For purposes of paragraph (1), the term "segregated asset" means any asset held as part of a segregated account referred to in subsection (d)(1) under a modified guaranteed contract.
 
 #### (c) Special rule in computing life insurance reserves ####
 
@@ -30,7 +30,7 @@ For purposes of applying section 816(b)(1)(A) to any modified guaranteed contrac
 
 #### (d) Modified guaranteed contract defined ####
 
-For purposes of this section, the term “modified guaranteed contract” means a contract not described in section 817—
+For purposes of this section, the term "modified guaranteed contract" means a contract not described in section 817—
 
 (1) all or part of the amounts received under which are allocated to an account which, pursuant to State law or regulation, is segregated from the general asset accounts of the company and is valued from time to time with reference to market values,
 
@@ -68,38 +68,38 @@ The Secretary may prescribe regulations—
 
 Pub. L. 104–188, title I, §1612(c), Aug. 20, 1996, 110 Stat. 1847, provided that:
 
-“(1) In general.—The amendments made by this section [enacting this section] shall apply to taxable years beginning after December 31, 1995.
+"(1) In general.—The amendments made by this section [enacting this section] shall apply to taxable years beginning after December 31, 1995.
 
-“(2) Treatment of net adjustments.—Except as provided in paragraph (3), in the case of any taxpayer required by the amendments made by this section to change its calculation of reserves to take into account market value adjustments and to mark segregated assets to market for any taxable year—
+"(2) Treatment of net adjustments.—Except as provided in paragraph (3), in the case of any taxpayer required by the amendments made by this section to change its calculation of reserves to take into account market value adjustments and to mark segregated assets to market for any taxable year—
 
-“(A) such changes shall be treated as a change in method of accounting initiated by the taxpayer,
+"(A) such changes shall be treated as a change in method of accounting initiated by the taxpayer,
 
-“(B) such changes shall be treated as made with the consent of the Secretary, and
+"(B) such changes shall be treated as made with the consent of the Secretary, and
 
-“(C) the adjustments required by reason of section 481 of the Internal Revenue Code of 1986, shall be taken into account as ordinary income by the taxpayer for the taxpayer's first taxable year beginning after December 31, 1995.
+"(C) the adjustments required by reason of section 481 of the Internal Revenue Code of 1986, shall be taken into account as ordinary income by the taxpayer for the taxpayer's first taxable year beginning after December 31, 1995.
 
-“(3) Limitation on loss recognition and on deduction for reserve increases.—
+"(3) Limitation on loss recognition and on deduction for reserve increases.—
 
-“(A) Limitation on loss recognition.—
+"(A) Limitation on loss recognition.—
 
-“(i) In general.—The aggregate loss recognized by reason of the application of section 481 of the Internal Revenue Code of 1986 with respect to section 817A(b) of such Code (as added by this section) for the first taxable year of the taxpayer beginning after December 31, 1995, shall not exceed the amount included in the taxpayer's gross income for such year by reason of the excess (if any) of—
+"(i) In general.—The aggregate loss recognized by reason of the application of section 481 of the Internal Revenue Code of 1986 with respect to section 817A(b) of such Code (as added by this section) for the first taxable year of the taxpayer beginning after December 31, 1995, shall not exceed the amount included in the taxpayer's gross income for such year by reason of the excess (if any) of—
 
-“(I) the amount of life insurance reserves as of the close of the prior taxable year, over
+"(I) the amount of life insurance reserves as of the close of the prior taxable year, over
 
-“(II) the amount of such reserves as of the beginning of such first taxable year,
+"(II) the amount of such reserves as of the beginning of such first taxable year,
 
  to the extent such excess is attributable to subsection (a) of such section 817A. Notwithstanding the preceding sentence, the adjusted basis of each segregated asset shall be determined as if all such losses were recognized.
 
-“(ii) Disallowed loss allowed over period.—The amount of the loss which is not allowed under clause (i) shall be allowed ratably over the period of 7 taxable years beginning with the taxpayer's first taxable year beginning after December 31, 1995.
+"(ii) Disallowed loss allowed over period.—The amount of the loss which is not allowed under clause (i) shall be allowed ratably over the period of 7 taxable years beginning with the taxpayer's first taxable year beginning after December 31, 1995.
 
-“(B) Limitation on deduction for increase in reserves.—
+"(B) Limitation on deduction for increase in reserves.—
 
-“(i) In general.—The deduction allowed for the first taxable year of the taxpayer beginning after December 31, 1995, by reason of the application of section 481 of such Code with respect to section 817A(a) of such Code (as added by this section) shall not exceed the aggregate built-in gain recognized by reason of the application of such section 481 with respect to section 817A(b) of such Code (as added by this section) for such first taxable year.
+"(i) In general.—The deduction allowed for the first taxable year of the taxpayer beginning after December 31, 1995, by reason of the application of section 481 of such Code with respect to section 817A(a) of such Code (as added by this section) shall not exceed the aggregate built-in gain recognized by reason of the application of such section 481 with respect to section 817A(b) of such Code (as added by this section) for such first taxable year.
 
-“(ii) Disallowed deduction allowed over period.—The amount of the deduction which is disallowed under clause (i) shall be allowed ratably over the period of 7 taxable years beginning with the taxpayer's first taxable year beginning after December 31, 1995.
+"(ii) Disallowed deduction allowed over period.—The amount of the deduction which is disallowed under clause (i) shall be allowed ratably over the period of 7 taxable years beginning with the taxpayer's first taxable year beginning after December 31, 1995.
 
-“(iii) Built-in gain.—For purposes of this subparagraph, the built-in gain on an asset is the amount equal to the excess of—
+"(iii) Built-in gain.—For purposes of this subparagraph, the built-in gain on an asset is the amount equal to the excess of—
 
-“(I) the fair market value of the asset as of the beginning of the first taxable year of the taxpayer beginning after December 31, 1995, over
+"(I) the fair market value of the asset as of the beginning of the first taxable year of the taxpayer beginning after December 31, 1995, over
 
-“(II) the adjusted basis of such asset as of such time.”
+"(II) the adjusted basis of such asset as of such time."

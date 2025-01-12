@@ -42,7 +42,7 @@ Sec.
 
 3517. Inspector General for Agency.
 
-3518. Special annuity computation rules for certain employees’ service abroad.
+3518. Special annuity computation rules for certain employees' service abroad.
 
 3518a. Portability of overseas service retirement benefit.
 

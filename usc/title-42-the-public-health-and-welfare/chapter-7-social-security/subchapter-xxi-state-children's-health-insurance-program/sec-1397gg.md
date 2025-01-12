@@ -120,7 +120,7 @@ Amendment by section 501(d)(2) of Pub. L. 111–3 executed after amendment by se
 
 #### Amendments ####
 
-**2010**—Subsec. (e)(1)(D). Pub. L. 111–309, §205(f)(2)(A), substituted “(kk)” for “(ii)”.
+**2010**—Subsec. (e)(1)(D). Pub. L. 111–309, §205(f)(2)(A), substituted "(kk)" for "(ii)".
 
 Pub. L. 111–148, §6401(c)(2), added subpar. (D). Former subpar. (D) redesignated (E).
 
@@ -128,7 +128,7 @@ Subsec. (e)(1)(E). Pub. L. 111–148, §6401(c)(1), redesignated subpar. (D) as 
 
 Pub. L. 111–148, §2101(d)(2)(B), added subpar. (E). Former subpar. (E) redesignated (F).
 
-Subsec. (e)(1)(F). Pub. L. 111–152, which directed the substitution of “modified adjusted gross income” for “modified gross income” in subpar. (E), as added by section 2101(d)(2) of Pub. L. 111–148, was executed to subpar. (F) to reflect the probable intent of Congress and the redesignation of subpar. (E) as (F) by Pub. L. 111–148, §6401(c)(1). See below.
+Subsec. (e)(1)(F). Pub. L. 111–152, which directed the substitution of "modified adjusted gross income" for "modified gross income" in subpar. (E), as added by section 2101(d)(2) of Pub. L. 111–148, was executed to subpar. (F) to reflect the probable intent of Congress and the redesignation of subpar. (E) as (F) by Pub. L. 111–148, §6401(c)(1). See below.
 
 Pub. L. 111–148, §6401(c)(1), redesignated subpar. (E) as (F). Former subpar. (F) redesignated (G).
 
@@ -226,9 +226,9 @@ Pub. L. 111–5, §5006(d)(2)(A), redesignated subpar. (J) as (K).
 
 Subsec. (e)(1)(L). Pub. L. 111–5, §5006(e)(2)(B)(i), redesignated subpar. (K) as (L).
 
-Subsec. (f). Pub. L. 111–3, §112(a)(2)(A)(i), substituted “section 1315(a) of this title:” for “section 1315(a) of this title, the Secretary” and inserted par. (1) designation and “The Secretary” before “may not approve a waiver,”.
+Subsec. (f). Pub. L. 111–3, §112(a)(2)(A)(i), substituted "section 1315(a) of this title:" for "section 1315(a) of this title, the Secretary" and inserted par. (1) designation and "The Secretary" before "may not approve a waiver,".
 
-Subsec. (f)(1). Pub. L. 111–3, §112(a)(2)(A)(ii), (iii), inserted “or a parent (as defined in section 1397kk(c)(2)(A) of this title), who is not pregnant, of a targeted low-income child” after “nonpregnant childless adult” and struck out last sentence which read as follows: “For purposes of the preceding sentence, a caretaker relative (as such term is defined for purposes of carrying out section 1396u–1 of this title) shall not be considered a childless adult.”
+Subsec. (f)(1). Pub. L. 111–3, §112(a)(2)(A)(ii), (iii), inserted "or a parent (as defined in section 1397kk(c)(2)(A) of this title), who is not pregnant, of a targeted low-income child" after "nonpregnant childless adult" and struck out last sentence which read as follows: "For purposes of the preceding sentence, a caretaker relative (as such term is defined for purposes of carrying out section 1396u–1 of this title) shall not be considered a childless adult."
 
 Subsec. (f)(2). Pub. L. 111–3, §112(a)(2)(A)(iv), added par. (2).
 
@@ -246,18 +246,18 @@ Amendment by section 203(a)(2), (d)(2) of Pub. L. 111–3 effective Feb. 4, 2009
 
 Amendment by section 501(d)(2) of Pub. L. 111–3 effective Jan. 1, 2009, see section 501(d)(3) of Pub. L. 111–3, set out as a note under section 1396a of this title.
 
-Pub. L. 111–3, title V, §503(a)(2), Feb. 4, 2009, 123 Stat. 89, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to services provided on or after October 1, 2009.”
+Pub. L. 111–3, title V, §503(a)(2), Feb. 4, 2009, 123 Stat. 89, provided that: "The amendment made by paragraph (1) [amending this section] shall apply to services provided on or after October 1, 2009."
 
 #### Effective Date of 2006 Amendment ####
 
-Pub. L. 109–171, title VI, §6102(d), Feb. 8, 2006, 120 Stat. 132, provided that: “This section [amending this section and section 1397ee of this title and enacting provisions set out as a note below] and the amendments made by this section shall take effect as if enacted on October 1, 2005, and shall apply to any waiver, experimental, pilot, or demonstration project that is approved on or after that date.”
+Pub. L. 109–171, title VI, §6102(d), Feb. 8, 2006, 120 Stat. 132, provided that: "This section [amending this section and section 1397ee of this title and enacting provisions set out as a note below] and the amendments made by this section shall take effect as if enacted on October 1, 2005, and shall apply to any waiver, experimental, pilot, or demonstration project that is approved on or after that date."
 
 #### Rule of Construction ####
 
-Pub. L. 109–171, title VI, §6102(c), Feb. 8, 2006, 120 Stat. 131, as amended by Pub. L. 111–3, title I, §112(a)(2)(B), Feb. 4, 2009, 123 Stat. 33, provided that: “Subject to section 2111 of the Social Security Act [42 U.S.C. 1397kk], as added by section 112 of the Children's Health Insurance Program Reauthorization Act of 2009 [Pub. L. 111–3], nothing in this section [amending this section and section 1397ee of this title and enacting provisions set out as a note above] or the amendments made by this section shall be construed to—
+Pub. L. 109–171, title VI, §6102(c), Feb. 8, 2006, 120 Stat. 131, as amended by Pub. L. 111–3, title I, §112(a)(2)(B), Feb. 4, 2009, 123 Stat. 33, provided that: "Subject to section 2111 of the Social Security Act [42 U.S.C. 1397kk], as added by section 112 of the Children's Health Insurance Program Reauthorization Act of 2009 [Pub. L. 111–3], nothing in this section [amending this section and section 1397ee of this title and enacting provisions set out as a note above] or the amendments made by this section shall be construed to—
 
-“(1) authorize the waiver of any provision of title XIX or XXI of the Social Security Act (42 U.S.C. 1396 et seq., 1397aa et seq.) that is not otherwise authorized to be waived under such titles or under title XI of such Act (42 U.S.C. 1301 et seq.) as of the date of enactment of this Act [Feb. 8, 2006];
+"(1) authorize the waiver of any provision of title XIX or XXI of the Social Security Act (42 U.S.C. 1396 et seq., 1397aa et seq.) that is not otherwise authorized to be waived under such titles or under title XI of such Act (42 U.S.C. 1301 et seq.) as of the date of enactment of this Act [Feb. 8, 2006];
 
-“(2) imply congressional approval of any waiver, experimental, pilot, or demonstration project affecting funds made available under the State children's health insurance program under title XXI of the Social Security Act (42 U.S.C. 1397aa et. seq.) or any amendment to such a waiver or project that has been approved as of such date of enactment; or
+"(2) imply congressional approval of any waiver, experimental, pilot, or demonstration project affecting funds made available under the State children's health insurance program under title XXI of the Social Security Act (42 U.S.C. 1397aa et. seq.) or any amendment to such a waiver or project that has been approved as of such date of enactment; or
 
-“(3) apply to any waiver, experimental, pilot, or demonstration project that would allow funds made available under title XXI of the Social Security Act (42 U.S.C. 1397aa et seq.) to be used to provide child health assistance or other health benefits coverage to a nonpregnant childless adult that is approved before the date of enactment of this Act or to any extension, renewal, or amendment of such a waiver or project that is approved on or after such date of enactment.”
+"(3) apply to any waiver, experimental, pilot, or demonstration project that would allow funds made available under title XXI of the Social Security Act (42 U.S.C. 1397aa et seq.) to be used to provide child health assistance or other health benefits coverage to a nonpregnant childless adult that is approved before the date of enactment of this Act or to any extension, renewal, or amendment of such a waiver or project that is approved on or after such date of enactment."

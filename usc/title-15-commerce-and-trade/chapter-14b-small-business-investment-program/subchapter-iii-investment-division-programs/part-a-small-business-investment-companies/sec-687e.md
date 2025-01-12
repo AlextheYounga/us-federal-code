@@ -1,8 +1,8 @@
 ### §687e. Removal or suspension of management officials ###
 
-#### (a) Definition of “management official” ####
+#### (a) Definition of "management official" ####
 
-In this section, the term “management official” means an officer, director, general partner, manager, employee, agent, or other participant in the management or conduct of the affairs of a licensee.
+In this section, the term "management official" means an officer, director, general partner, manager, employee, agent, or other participant in the management or conduct of the affairs of a licensee.
 
 #### (b) Removal of management officials ####
 
@@ -154,7 +154,7 @@ The commencement of proceedings for judicial review under this paragraph shall n
 
 #### References in Text ####
 
-For definition of “this chapter”, referred to in subsec. (b)(1)(A)(i)(I), (II), see References in Text note set out under section 661 of this title.
+For definition of "this chapter", referred to in subsec. (b)(1)(A)(i)(I), (II), see References in Text note set out under section 661 of this title.
 
 #### Amendments ####
 

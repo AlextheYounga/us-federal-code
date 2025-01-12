@@ -20,7 +20,7 @@ Subsection (a) shall not apply to any item to the extent such item is allocable 
 
 (C) in the case of a separate structure which is not attached to the dwelling unit, in connection with the taxpayer's trade or business.
 
-In the case of an employee, the preceding sentence shall apply only if the exclusive use referred to in the preceding sentence is for the convenience of his employer. For purposes of subparagraph (A), the term “principal place of business” includes a place of business which is used by the taxpayer for the administrative or management activities of any trade or business of the taxpayer if there is no other fixed location of such trade or business where the taxpayer conducts substantial administrative or management activities of such trade or business.
+In the case of an employee, the preceding sentence shall apply only if the exclusive use referred to in the preceding sentence is for the convenience of his employer. For purposes of subparagraph (A), the term "principal place of business" includes a place of business which is used by the taxpayer for the administrative or management activities of any trade or business of the taxpayer if there is no other fixed location of such trade or business where the taxpayer conducts substantial administrative or management activities of such trade or business.
 
 #### (2) Certain storage use ####
 
@@ -112,7 +112,7 @@ In the case of a rental pursuant to a shared equity financing agreement, fair re
 
 #### (C) Shared equity financing agreement ####
 
-For purposes of this paragraph, the term “shared equity financing agreement” means an agreement under which—
+For purposes of this paragraph, the term "shared equity financing agreement" means an agreement under which—
 
 (i) 2 or more persons acquire qualified ownership interests in a dwelling unit, and
 
@@ -124,7 +124,7 @@ For purposes of this paragraph, the term “shared equity financing agreement”
 
 #### (D) Qualified ownership interest ####
 
-For purposes of this paragraph, the term “qualified ownership interest” means an undivided interest for more than 50 years in the entire dwelling unit and appurtenant land being acquired in the transaction to which the shared equity financing agreement relates.
+For purposes of this paragraph, the term "qualified ownership interest" means an undivided interest for more than 50 years in the entire dwelling unit and appurtenant land being acquired in the transaction to which the shared equity financing agreement relates.
 
 #### (4) Rental of principal residence ####
 
@@ -134,7 +134,7 @@ For purposes of applying subsection (c)(5) to deductions allocable to a qualifie
 
 #### (B) Qualified rental period ####
 
-For purposes of subparagraph (A), the term “qualified rental period” means a consecutive period of—
+For purposes of subparagraph (A), the term "qualified rental period" means a consecutive period of—
 
 (i) 12 or more months which begins or ends in such taxable year, or
 
@@ -160,15 +160,15 @@ For purposes of this section—
 
 #### (A) In general ####
 
-The term “dwelling unit” includes a house, apartment, condominium, mobile home, boat, or similar property, and all structures or other property appurtenant to such dwelling unit.
+The term "dwelling unit" includes a house, apartment, condominium, mobile home, boat, or similar property, and all structures or other property appurtenant to such dwelling unit.
 
 #### (B) Exception ####
 
-The term “dwelling unit” does not include that portion of a unit which is used exclusively as a hotel, motel, inn, or similar establishment.
+The term "dwelling unit" does not include that portion of a unit which is used exclusively as a hotel, motel, inn, or similar establishment.
 
 #### (2) Personal use by shareholders of S corporation ####
 
-In the case of an S corporation, subparagraphs (A) and (B) of subsection (d)(2) shall be applied by substituting “any shareholder of the S corporation” for “the taxpayer” each place it appears.
+In the case of an S corporation, subparagraphs (A) and (B) of subsection (d)(2) shall be applied by substituting "any shareholder of the S corporation" for "the taxpayer" each place it appears.
 
 #### (3) Coordination with section 183 ####
 
@@ -198,47 +198,47 @@ The date of enactment of the Tax Reduction and Simplification Act of 1977, refer
 
 #### Amendments ####
 
-**1997**—Subsec. (c)(1). Pub. L. 105–34, §932(a), inserted at end “For purposes of subparagraph (A), the term ‘principal place of business’ includes a place of business which is used by the taxpayer for the administrative or management activities of any trade or business of the taxpayer if there is no other fixed location of such trade or business where the taxpayer conducts substantial administrative or management activities of such trade or business.”
+**1997**—Subsec. (c)(1). Pub. L. 105–34, §932(a), inserted at end "For purposes of subparagraph (A), the term 'principal place of business' includes a place of business which is used by the taxpayer for the administrative or management activities of any trade or business of the taxpayer if there is no other fixed location of such trade or business where the taxpayer conducts substantial administrative or management activities of such trade or business."
 
-Subsec. (d)(4)(A). Pub. L. 105–34, §312(d)(1), substituted “section 121” for “section 1034”.
+Subsec. (d)(4)(A). Pub. L. 105–34, §312(d)(1), substituted "section 121" for "section 1034".
 
-**1996**—Subsec. (c)(1)(A). Pub. L. 104–188, §1704(t)(39), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the principal place of business for any trade or business of the taxpayer.”
+**1996**—Subsec. (c)(1)(A). Pub. L. 104–188, §1704(t)(39), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the principal place of business for any trade or business of the taxpayer."
 
-Subsec. (c)(2). Pub. L. 104–188, §1113(a), substituted “inventory or product samples” for “inventory”.
+Subsec. (c)(2). Pub. L. 104–188, §1113(a), substituted "inventory or product samples" for "inventory".
 
-**1988**—Subsec. (c)(5). Pub. L. 100–647 inserted “(or rental activity)” after “trade or business” in subpar. (B)(ii) and inserted at end “Any amount taken into account for any taxable year under the preceding sentence shall be subject to the limitation of the 1st sentence of this paragraph whether or not the dwelling unit is used as a residence during such taxable year.”
+**1988**—Subsec. (c)(5). Pub. L. 100–647 inserted "(or rental activity)" after "trade or business" in subpar. (B)(ii) and inserted at end "Any amount taken into account for any taxable year under the preceding sentence shall be subject to the limitation of the 1st sentence of this paragraph whether or not the dwelling unit is used as a residence during such taxable year."
 
-**1986**—Subsec. (c)(5)(B). Pub. L. 99–514, §143(c), added subpar. (B) and struck out former subpar. (B) which read as follows: “the deductions allocable to such use which are allowable under this chapter for the taxable year whether or not such unit (or portion thereof) was so used.”
+**1986**—Subsec. (c)(5)(B). Pub. L. 99–514, §143(c), added subpar. (B) and struck out former subpar. (B) which read as follows: "the deductions allocable to such use which are allowable under this chapter for the taxable year whether or not such unit (or portion thereof) was so used."
 
 Subsec. (c)(6). Pub. L. 99–514, §143(b), added par. (6).
 
-**1982**—Subsecs. (a), (e)(1). Pub. L. 97–354, §5(a)(26)(A), (B), substituted “an S corporation” for “an electing small business corporation”.
+**1982**—Subsecs. (a), (e)(1). Pub. L. 97–354, §5(a)(26)(A), (B), substituted "an S corporation" for "an electing small business corporation".
 
-Subsec. (f)(2). Pub. L. 97–354, §5(a)(26)(C), substituted “shareholders of S corporation” for “electing small business corporation” in subsec. heading, substituted “an S corporation” for “an electing small business corporation” and “any shareholder of the S corporation” for “any shareholder of the electing small business corporation”.
+Subsec. (f)(2). Pub. L. 97–354, §5(a)(26)(C), substituted "shareholders of S corporation" for "electing small business corporation" in subsec. heading, substituted "an S corporation" for "an electing small business corporation" and "any shareholder of the S corporation" for "any shareholder of the electing small business corporation".
 
-Subsec. (f)(4). Pub. L. 97–216 struck out “, etc.” after “section 162(a)(2)” in heading, struck out “(A) In general.—” before “Nothing in this section”, and struck out subpar. (B) which directed the Secretary to prescribe amounts deductible (without substantiation) pursuant to last sentence of section 162(a) and that no other provisions of this title could permit such a deduction for any taxable year of amounts in excess of the amounts determined to be appropriate under the circumstances.
+Subsec. (f)(4). Pub. L. 97–216 struck out ", etc." after "section 162(a)(2)" in heading, struck out "(A) In general.—" before "Nothing in this section", and struck out subpar. (B) which directed the Secretary to prescribe amounts deductible (without substantiation) pursuant to last sentence of section 162(a) and that no other provisions of this title could permit such a deduction for any taxable year of amounts in excess of the amounts determined to be appropriate under the circumstances.
 
-**1981**—Subsec. (c)(1)(A). Pub. L. 97–119, §113(c), substituted “the principal place of business for any trade or business of the taxpayer” for “as the taxpayer's principal place of business”.
+**1981**—Subsec. (c)(1)(A). Pub. L. 97–119, §113(c), substituted "the principal place of business for any trade or business of the taxpayer" for "as the taxpayer's principal place of business".
 
-Subsec. (d)(2). Pub. L. 97–119, §113(d), inserted in provision following subpar. (C) “, except that if the taxpayer is engaged in repair and maintenance on a substantially full time basis for any day, such authority shall not allow the Secretary to treat a dwelling unit as being used for personal use by the taxpayer on such day merely because other individuals who are on the premises on such day are not so engaged”.
+Subsec. (d)(2). Pub. L. 97–119, §113(d), inserted in provision following subpar. (C) ", except that if the taxpayer is engaged in repair and maintenance on a substantially full time basis for any day, such authority shall not allow the Secretary to treat a dwelling unit as being used for personal use by the taxpayer on such day merely because other individuals who are on the premises on such day are not so engaged".
 
-Subsec. (d)(3), (4). Pub. L. 97–119, §113(a), added par. (3), redesignated former par. (3) as (4) and struck out “to a person other than a member of the family (as defined in section 267(c)(4)) of the taxpayer” after “such unit is rented” in subpar. (B).
+Subsec. (d)(3), (4). Pub. L. 97–119, §113(a), added par. (3), redesignated former par. (3) as (4) and struck out "to a person other than a member of the family (as defined in section 267(c)(4)) of the taxpayer" after "such unit is rented" in subpar. (B).
 
 Subsec. (f)(4). Pub. L. 97–119, §113(b)(1), added par. (4).
 
 **1978**—Subsec. (d)(3). Pub. L. 95–600 added par. (3).
 
-**1977**—Subsec. (c)(4), (5). Pub. L. 95–30 added par. (4), redesignated former par. (4) as (5) and substituted “paragraph (1), (2), or (4)” for “paragraph (1) or (2)” in introductory provisions.
+**1977**—Subsec. (c)(4), (5). Pub. L. 95–30 added par. (4), redesignated former par. (4) as (5) and substituted "paragraph (1), (2), or (4)" for "paragraph (1) or (2)" in introductory provisions.
 
 #### Effective Date of 1997 Amendment ####
 
 Amendment by section 312(d)(1) of Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
 
-Pub. L. 105–34, title IX, §932(b), Aug. 5, 1997, 111 Stat. 881, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1998.”
+Pub. L. 105–34, title IX, §932(b), Aug. 5, 1997, 111 Stat. 881, provided that: "The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1998."
 
 #### Effective Date of 1996 Amendment ####
 
-Pub. L. 104–188, title I, §1113(b), Aug. 20, 1996, 110 Stat. 1759, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1995.”
+Pub. L. 104–188, title I, §1113(b), Aug. 20, 1996, 110 Stat. 1759, provided that: "The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1995."
 
 #### Effective Date of 1988 Amendment ####
 
@@ -256,16 +256,16 @@ Amendment by Pub. L. 97–216 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1981 Amendment ####
 
-Pub. L. 97–119, title I, §113(e), Dec. 29, 1981, 95 Stat. 1642, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 1975, except that in the case of taxable years beginning after December 31, 1975, and before January 1, 1980, the amendment made by this section shall apply only to taxable years for which, on the date of the enactment of this Act [Dec. 29, 1981], the making of a refund, or the assessment of a deficiency, was not barred by law or any rule of law.”
+Pub. L. 97–119, title I, §113(e), Dec. 29, 1981, 95 Stat. 1642, provided that: "The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 1975, except that in the case of taxable years beginning after December 31, 1975, and before January 1, 1980, the amendment made by this section shall apply only to taxable years for which, on the date of the enactment of this Act [Dec. 29, 1981], the making of a refund, or the assessment of a deficiency, was not barred by law or any rule of law."
 
 #### Effective Date of 1978 Amendment ####
 
-Pub. L. 95–600, title VII, §701(h)(2), Nov. 6, 1978, 92 Stat. 2904, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in section 280A of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], as such provision was added to such Code by section 601(a) of the Tax Reform Act of 1976 [Pub. L. 94–455, title VI, §601(a), Oct. 4, 1976, 90 Stat. 1569].”
+Pub. L. 95–600, title VII, §701(h)(2), Nov. 6, 1978, 92 Stat. 2904, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by paragraph (1) [amending this section] shall take effect as if included in section 280A of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], as such provision was added to such Code by section 601(a) of the Tax Reform Act of 1976 [Pub. L. 94–455, title VI, §601(a), Oct. 4, 1976, 90 Stat. 1569]."
 
 #### Effective Date of 1977 Amendment ####
 
-Pub. L. 95–30, title III, §306(c), May 23, 1977, 91 Stat. 153, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 1975.”
+Pub. L. 95–30, title III, §306(c), May 23, 1977, 91 Stat. 153, provided that: "The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 1975."
 
 #### Effective Date ####
 
-Pub. L. 94–455, title VI, §601(c), Oct. 4, 1976, 90 Stat. 1572, provided that: “The amendments made by this section [enacting this section and amending the analysis of sections preceding section 261 of this title] shall apply to taxable years beginning after December 31, 1975.”
+Pub. L. 94–455, title VI, §601(c), Oct. 4, 1976, 90 Stat. 1572, provided that: "The amendments made by this section [enacting this section and amending the analysis of sections preceding section 261 of this title] shall apply to taxable years beginning after December 31, 1975."

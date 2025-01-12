@@ -38,7 +38,7 @@ Sec.
 
 408. Penalties.
 
-409. “Wages” defined.
+409. "Wages" defined.
 
 410. Definitions relating to employment.
 
@@ -450,7 +450,7 @@ Sec.
 
 1205. Omitted.
 
-1206. “Aid to the blind” defined.
+1206. "Aid to the blind" defined.
 
 #### SUBCHAPTER XI—GENERAL PROVISIONS, PEER REVIEW, AND ADMINISTRATIVE SIMPLIFICATION ####
 
@@ -526,7 +526,7 @@ Sec.
 
 1320a–4. Issuance of subpenas by Comptroller General.
 
-1320a–5. Disclosure by institutions, organizations, and agencies of owners, officers, etc., convicted of offenses related to programs; notification requirements; “managing employee” defined.
+1320a–5. Disclosure by institutions, organizations, and agencies of owners, officers, etc., convicted of offenses related to programs; notification requirements; "managing employee" defined.
 
 1320a–6. Adjustments in SSI benefits on account of retroactive benefits under subchapter II.
 
@@ -574,7 +574,7 @@ Sec.
 
 1320b–2. Period within which certain claims must be filed.
 
-1320b–3. Applicants or recipients under public assistance programs not to be required to make election respecting certain veterans’ benefits.
+1320b–3. Applicants or recipients under public assistance programs not to be required to make election respecting certain veterans' benefits.
 
 1320b–4. Nonprofit hospital or critical access hospital philanthropy.
 
@@ -692,7 +692,7 @@ Sec.
 
 1323. Repayable advances to Federal unemployment account.
 
-1324. “Governor” defined.
+1324. "Governor" defined.
 
 #### SUBCHAPTER XIII—RECONVERSION UNEMPLOYMENT BENEFITS FOR SEAMEN ####
 
@@ -878,7 +878,7 @@ Sec.
 
 1395w–3b. Competitive acquisition of outpatient drugs and biologicals.
 
-1395w–4. Payment for physicians’ services.
+1395w–4. Payment for physicians' services.
 
 1395w–5. Public reporting of performance information.
 

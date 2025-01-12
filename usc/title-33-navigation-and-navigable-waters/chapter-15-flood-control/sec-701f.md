@@ -6,7 +6,7 @@ The sum of $310,000,000 is authorized to be appropriated for carrying out the im
 
 #### References in Text ####
 
-“Herein”, and “this Act”, referred to in text, means act June 22, 1936, ch. 688, 49 Stat. 1570, as amended, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables. Portions of section 5 of act June 22, 1936, enumerating certain improvements with regard to flood control, and sections 6 and 7 of that act, relating to examinations and surveys, were not classified to the Code.
+"Herein", and "this Act", referred to in text, means act June 22, 1936, ch. 688, 49 Stat. 1570, as amended, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables. Portions of section 5 of act June 22, 1936, enumerating certain improvements with regard to flood control, and sections 6 and 7 of that act, relating to examinations and surveys, were not classified to the Code.
 
 #### Codification ####
 
@@ -14,7 +14,7 @@ The first proviso, relating to a limitation upon the amount of expenditure durin
 
 #### Change of Name ####
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
 #### Adoption of Improvements ####
 

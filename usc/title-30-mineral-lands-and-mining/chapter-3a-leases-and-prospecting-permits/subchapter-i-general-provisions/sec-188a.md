@@ -10,4 +10,4 @@ Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, know
 
 #### Transfer of Functions ####
 
-“Bureau of Land Management” substituted in text for “General Land Office” on authority of Reorg. Plan No. 3 of 1946, §403, set out in the Appendix to Title 5, Government Organization and Employees.
+"Bureau of Land Management" substituted in text for "General Land Office" on authority of Reorg. Plan No. 3 of 1946, §403, set out in the Appendix to Title 5, Government Organization and Employees.

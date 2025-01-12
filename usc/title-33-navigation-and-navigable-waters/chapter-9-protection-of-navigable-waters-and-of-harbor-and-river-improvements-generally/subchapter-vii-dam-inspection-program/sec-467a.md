@@ -8,11 +8,11 @@ As soon as practicable, the Secretary of the Army, acting through the Chief of E
 
 On request of a State dam safety agency, with respect to any dam the failure of which would affect the State, the head of a Federal agency shall—
 
-(1) provide information to the State dam safety agency on the construction, operation, or maintenance of the dam; or
+(1) provide information to the State dam safety agency on the construction, operation, maintenance, condition, or provisions for emergency operations of the dam; or
 
 (2) allow any official of the State dam safety agency to participate in the Federal inspection of the dam.
 
-(Pub. L. 92–367, §3, formerly §2, Aug. 8, 1972, 86 Stat. 506; Pub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583; renumbered §3 and amended Pub. L. 104–303, title II, §215(c)(3), (5), Oct. 12, 1996, 110 Stat. 3685, 3687.)
+(Pub. L. 92–367, §3, formerly §2, Aug. 8, 1972, 86 Stat. 506; Pub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583; renumbered §3 and amended Pub. L. 104–303, title II, §215(c)(3), (5), Oct. 12, 1996, 110 Stat. 3685, 3687; Pub. L. 113–121, title III, §3001(b), June 10, 2014, 128 Stat. 1282.)
 
 #### References in Text ####
 
@@ -24,8 +24,10 @@ A prior section 3 of Pub. L. 92–367 was renumbered section 4 and is classified
 
 #### Amendments ####
 
+**2014**—Subsec. (b)(1). Pub. L. 113–121 substituted "maintenance, condition, or provisions for emergency operations" for "or maintenance".
+
 **1996**—Pub. L. 104–303 inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 
 #### Transfer of Functions ####
 
-“Federal Energy Regulatory Commission” substituted in text for “Federal Power Commission” on authority of Pub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583, which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
+"Federal Energy Regulatory Commission" substituted in text for "Federal Power Commission" on authority of Pub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583, which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.

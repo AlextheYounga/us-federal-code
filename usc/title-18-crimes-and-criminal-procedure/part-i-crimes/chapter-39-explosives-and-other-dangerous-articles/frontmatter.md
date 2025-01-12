@@ -16,11 +16,11 @@ Sec.
 
 **2004**—Pub. L. 108–458, title VI, §6803(c)(1), Dec. 17, 2004, 118 Stat. 3768, added item 832.
 
-**1982**—Pub. L. 97–351, §2(b), Oct. 18, 1982, 96 Stat. 1666, substituted “Prohibited transactions involving nuclear materials” for “Definitions” in item 831 and struck out items 832 “Transportation of explosives, radioactive materials, etiologic agents, and other dangerous articles”, 833 “Marking packages containing explosives and other dangerous articles”, 834 “Regulation by Interstate Commerce Commission”, and 835 “Administration”.
+**1982**—Pub. L. 97–351, §2(b), Oct. 18, 1982, 96 Stat. 1666, substituted "Prohibited transactions involving nuclear materials" for "Definitions" in item 831 and struck out items 832 "Transportation of explosives, radioactive materials, etiologic agents, and other dangerous articles", 833 "Marking packages containing explosives and other dangerous articles", 834 "Regulation by Interstate Commerce Commission", and 835 "Administration".
 
 **1970**—Pub. L. 91–452, title XI, §1106(b)(2), Oct. 15, 1970, 84 Stat. 960, struck out item 837.
 
-**1960**—Pub. L. 86–710, Sept. 6, 1960, 74 Stat. 808, substituted “OTHER DANGEROUS ARTICLES” for “COMBUSTIBLES” in chapter heading, “explosives, radioactive materials, etiologic agents, and other dangerous articles” for “dynamite, powder and fuses” in item 832, “Marking packages containing explosives and other dangerous articles” for “Transportation of nitroglycerin” in item 833, “Regulation by Interstate Commerce Commission” for “Marking packages containing explosives” in item 834, and “Administration” for “Regulations by Interstate Commerce Commission” in item 835.
+**1960**—Pub. L. 86–710, Sept. 6, 1960, 74 Stat. 808, substituted "OTHER DANGEROUS ARTICLES" for "COMBUSTIBLES" in chapter heading, "explosives, radioactive materials, etiologic agents, and other dangerous articles" for "dynamite, powder and fuses" in item 832, "Marking packages containing explosives and other dangerous articles" for "Transportation of nitroglycerin" in item 833, "Regulation by Interstate Commerce Commission" for "Marking packages containing explosives" in item 834, and "Administration" for "Regulations by Interstate Commerce Commission" in item 835.
 
 Pub. L. 86–449, title II, §204, May 6, 1960, 74 Stat. 88, added item 837.
 

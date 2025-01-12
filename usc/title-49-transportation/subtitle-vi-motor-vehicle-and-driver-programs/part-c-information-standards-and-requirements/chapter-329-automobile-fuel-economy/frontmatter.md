@@ -42,4 +42,4 @@ Sec.
 
 #### Amendments ####
 
-**1994**—Pub. L. 103–429, §6(43)(C), Oct. 31, 1994, 108 Stat. 4383, added items 32918 and 32919 and struck out former item 32918 “Preemption”.
+**1994**—Pub. L. 103–429, §6(43)(C), Oct. 31, 1994, 108 Stat. 4383, added items 32918 and 32919 and struck out former item 32918 "Preemption".

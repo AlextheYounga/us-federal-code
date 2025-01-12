@@ -20,37 +20,37 @@ The Secretary of Defense and the Secretary of the Interior may each use any auth
 
 #### Amendments ####
 
-**2013**—Subsecs. (b), (c). Pub. L. 113–66, §313, substituted “fiscal years 2014 through 2019” for “fiscal years 2009 through 2014”.
+**2013**—Subsecs. (b), (c). Pub. L. 113–66, §313, substituted "fiscal years 2014 through 2019" for "fiscal years 2009 through 2014".
 
 Subsec. (d). Pub. L. 113–66, §1091(c)(1), made technical amendment to directory language of Pub. L. 112–81, §312(b)(6)(F). See 2011 Amendment note below.
 
 **2011**—Pub. L. 112–81, §312(b)(6), as amended by Pub. L. 113–66, §1091(c)(1), inserted section catchline and headings for subsecs. (a) to (d).
 
-**2009**—Subsec. (b). Pub. L. 111–84, §312(a), (b)(1), substituted “Of the amounts authorized to be appropriated to the Department of Defense, there are authorized” for “There are authorized” and “fiscal years 2009 through 2014” for “fiscal years 2004 through 2008”.
+**2009**—Subsec. (b). Pub. L. 111–84, §312(a), (b)(1), substituted "Of the amounts authorized to be appropriated to the Department of Defense, there are authorized" for "There are authorized" and "fiscal years 2009 through 2014" for "fiscal years 2004 through 2008".
 
-Subsec. (c). Pub. L. 111–84, §312(a), (b)(2), substituted “Of the amounts authorized to be appropriated to the Department of the Interior, there are authorized” for “There are authorized” and “fiscal years 2009 through 2014” for “fiscal years 2004 through 2008”.
+Subsec. (c). Pub. L. 111–84, §312(a), (b)(2), substituted "Of the amounts authorized to be appropriated to the Department of the Interior, there are authorized" for "There are authorized" and "fiscal years 2009 through 2014" for "fiscal years 2004 through 2008".
 
-**2003**—Subsecs. (b), (c). Pub. L. 108–136 substituted “fiscal years 2004 through 2008” for “fiscal years 1998 through 2003”.
+**2003**—Subsecs. (b), (c). Pub. L. 108–136 substituted "fiscal years 2004 through 2008" for "fiscal years 1998 through 2003".
 
-**1997**—Subsec. (a). Pub. L. 105–85, §2904(b)(7), substituted “integrated natural resources management plans” for “cooperative plans”.
+**1997**—Subsec. (a). Pub. L. 105–85, §2904(b)(7), substituted "integrated natural resources management plans" for "cooperative plans".
 
-Subsec. (b). Pub. L. 105–85, §2914(a), substituted “1998 through 2003,” for “1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, and 1993,”.
+Subsec. (b). Pub. L. 105–85, §2914(a), substituted "1998 through 2003," for "1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, and 1993,".
 
-Subsec. (c). Pub. L. 105–85, §2914(a), substituted “1998 through 2003,” for “1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, and 1993,”.
+Subsec. (c). Pub. L. 105–85, §2914(a), substituted "1998 through 2003," for "1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, and 1993,".
 
-Pub. L. 105–85, §2904(b)(8), substituted “integrated natural resources management plans” for “cooperative plans”.
+Pub. L. 105–85, §2904(b)(8), substituted "integrated natural resources management plans" for "cooperative plans".
 
-**1989**—Subsec. (a). Pub. L. 101–189, §2845(b)(1), inserted “and cooperative agreements agreed to under section 670c–1 of this title” after “sections 670a and 670b of this title”.
+**1989**—Subsec. (a). Pub. L. 101–189, §2845(b)(1), inserted "and cooperative agreements agreed to under section 670c–1 of this title" after "sections 670a and 670b of this title".
 
-Subsec. (b). Pub. L. 101–189, §2845(b)(2), inserted “, and to carry out such functions and responsibilities as the Secretary may have under cooperative agreements entered into under section 670c–1 of this title” before period at end of first sentence.
+Subsec. (b). Pub. L. 101–189, §2845(b)(2), inserted ", and to carry out such functions and responsibilities as the Secretary may have under cooperative agreements entered into under section 670c–1 of this title" before period at end of first sentence.
 
-**1988**—Subsecs. (b), (c). Pub. L. 100–653 substituted “1988, 1989, 1990, 1991, 1992, and 1993” for “and 1988”.
+**1988**—Subsecs. (b), (c). Pub. L. 100–653 substituted "1988, 1989, 1990, 1991, 1992, and 1993" for "and 1988".
 
 **1986**—Subsec. (a). Pub. L. 99–561, §3(b), inserted provision that all funds collected remain available until expended.
 
-Subsecs. (b), (c). Pub. L. 99–561, §1(a), substituted “1985, 1986, 1987, and 1988” for “and 1985”.
+Subsecs. (b), (c). Pub. L. 99–561, §1(a), substituted "1985, 1986, 1987, and 1988" for "and 1985".
 
-**1982**—Subsecs. (b), (c). Pub. L. 97–396, §2(1), substituted “1983, 1984, and 1985,” for “ending September 30, 1979, September 30, 1980, and September 30, 1981,” wherever appearing.
+**1982**—Subsecs. (b), (c). Pub. L. 97–396, §2(1), substituted "1983, 1984, and 1985," for "ending September 30, 1979, September 30, 1980, and September 30, 1981," wherever appearing.
 
 Subsec. (d). Pub. L. 97–396, §2(2), added subsec. (d).
 
@@ -58,9 +58,9 @@ Subsec. (d). Pub. L. 97–396, §2(2), added subsec. (d).
 
 Subsec. (c). Pub. L. 95–420 added subsec. (c).
 
-**1974**—Subsec. (a). Pub. L. 93–452, §3(5), substituted “sections 101 and 102” for “sections 1 and 2” which for purposes of codification was translated as “sections 670a and 670b”, therefore requiring no change in text because of redesignation of former sections 1 and 2 of Pub. L. 86–797 by section 3(1) of Pub. L. 93–452.
+**1974**—Subsec. (a). Pub. L. 93–452, §3(5), substituted "sections 101 and 102" for "sections 1 and 2" which for purposes of codification was translated as "sections 670a and 670b", therefore requiring no change in text because of redesignation of former sections 1 and 2 of Pub. L. 86–797 by section 3(1) of Pub. L. 93–452.
 
-Subsec. (b). Pub. L. 93–452, §§1(2), 3(4), inserted provisions authorizing appropriations of not to exceed $1,500,000 for the fiscal year beginning July 1, 1972, and for each of the next five fiscal years thereafter, and authorizing appropriations to the Secretary of the Interior not to exceed $2,000,000 for the fiscal year beginning July 1, 1973, and for each of the next four fiscal years thereafter, and substituted “title” for “Act” wherever appearing, which for purposes of codification was translated as “subchapter”.
+Subsec. (b). Pub. L. 93–452, §§1(2), 3(4), inserted provisions authorizing appropriations of not to exceed $1,500,000 for the fiscal year beginning July 1, 1972, and for each of the next five fiscal years thereafter, and authorizing appropriations to the Secretary of the Interior not to exceed $2,000,000 for the fiscal year beginning July 1, 1973, and for each of the next four fiscal years thereafter, and substituted "title" for "Act" wherever appearing, which for purposes of codification was translated as "subchapter".
 
 #### Effective Date of 2013 Amendment ####
 

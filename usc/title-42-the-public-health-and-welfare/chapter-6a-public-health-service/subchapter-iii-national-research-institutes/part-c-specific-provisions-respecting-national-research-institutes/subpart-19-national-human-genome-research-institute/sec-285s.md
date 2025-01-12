@@ -2,7 +2,7 @@
 
 #### (a) General purpose ####
 
-The general purpose of the National Human Genome Research Institute (in this subpart referred to as the “Institute”) is to characterize the structure and function of the human genome, including the mapping and sequencing of individual genes. Such purpose includes—
+The general purpose of the National Human Genome Research Institute (in this subpart referred to as the "Institute") is to characterize the structure and function of the human genome, including the mapping and sequencing of individual genes. Such purpose includes—
 
 (1) planning and coordinating the research goal of the genome project;
 
@@ -38,9 +38,9 @@ Section was formerly classified to section 287c of this title prior to renumberi
 
 #### Amendments ####
 
-**2007**—Pub. L. 109–482, §101(c)(4)(C), substituted “Institute” for “Center” wherever appearing in section catchline and text.
+**2007**—Pub. L. 109–482, §101(c)(4)(C), substituted "Institute" for "Center" wherever appearing in section catchline and text.
 
-Subsec. (a). Pub. L. 109–482, §101(c)(4)(B), substituted “National Human Genome Research Institute” for “National Center for Human Genome Research” in introductory provisions.
+Subsec. (a). Pub. L. 109–482, §101(c)(4)(B), substituted "National Human Genome Research Institute" for "National Center for Human Genome Research" in introductory provisions.
 
 #### Change of Name ####
 

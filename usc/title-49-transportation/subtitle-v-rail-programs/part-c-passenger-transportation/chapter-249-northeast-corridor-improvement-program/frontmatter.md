@@ -24,6 +24,6 @@ Sec.
 
 #### Amendments ####
 
-**2008**—Pub. L. 110–432, div. B, title II, §212(b)(1), title III, §306(b), Oct. 16, 2008, 122 Stat. 4924, 4953, amended item 24905 generally, substituting “Northeast Corridor Infrastructure and Operations Advisory Commission; Safety Committee” for “Coordination board and safety committee”, and added item 24910.
+**2008**—Pub. L. 110–432, div. B, title II, §212(b)(1), title III, §306(b), Oct. 16, 2008, 122 Stat. 4924, 4953, amended item 24905 generally, substituting "Northeast Corridor Infrastructure and Operations Advisory Commission; Safety Committee" for "Coordination board and safety committee", and added item 24910.
 
-**1997**—Pub. L. 105–134, title IV, §405(a), Dec. 2, 1997, 111 Stat. 2586, struck out item 24903 “Program master plan for Boston-New York main line”.
+**1997**—Pub. L. 105–134, title IV, §405(a), Dec. 2, 1997, 111 Stat. 2586, struck out item 24903 "Program master plan for Boston-New York main line".

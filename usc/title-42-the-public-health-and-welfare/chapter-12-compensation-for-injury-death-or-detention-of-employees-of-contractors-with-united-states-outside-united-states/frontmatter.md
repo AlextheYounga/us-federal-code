@@ -6,9 +6,9 @@ Sec.
 
 1701. Compensation for injury or death resulting from war-risk hazard.
 
-1702. Application of Longshore and Harbor Workers’ Compensation Act.
+1702. Application of Longshore and Harbor Workers' Compensation Act.
 
-1703. “Contractor with the United States” defined.
+1703. "Contractor with the United States" defined.
 
 1704. Reimbursement.
 

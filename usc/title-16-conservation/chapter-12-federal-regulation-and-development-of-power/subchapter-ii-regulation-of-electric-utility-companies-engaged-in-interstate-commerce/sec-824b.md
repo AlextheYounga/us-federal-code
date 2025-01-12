@@ -24,7 +24,7 @@
 
 (5) The Commission shall, by rule, adopt procedures for the expeditious consideration of applications for the approval of dispositions, consolidations, or acquisitions, under this section. Such rules shall identify classes of transactions, or specify criteria for transactions, that normally meet the standards established in paragraph (4). The Commission shall provide expedited review for such transactions. The Commission shall grant or deny any other application for approval of a transaction not later than 180 days after the application is filed. If the Commission does not act within 180 days, such application shall be deemed granted unless the Commission finds, based on good cause, that further consideration is required to determine whether the proposed transaction meets the standards of paragraph (4) and issues an order tolling the time for acting on the application for not more than 180 days, at the end of which additional period the Commission shall grant or deny the application.
 
-(6) For purposes of this subsection, the terms “associate company”, “holding company”, and “holding company system” have the meaning given those terms in the Public Utility Holding Company Act of 2005 [42 U.S.C. 16451 et seq.].
+(6) For purposes of this subsection, the terms "associate company", "holding company", and "holding company system" have the meaning given those terms in the Public Utility Holding Company Act of 2005 [42 U.S.C. 16451 et seq.].
 
 #### (b) Orders of Commission ####
 
@@ -38,12 +38,12 @@ The Public Utility Holding Company Act of 2005, referred to in subsec. (a)(6), i
 
 #### Amendments ####
 
-**2005**—Subsec. (a). Pub. L. 109–58 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “No public utility shall sell, lease, or otherwise dispose of the whole of its facilities subject to the jurisdiction of the Commission, or any part thereof of a value in excess of $50,000, or by any means whatsoever, directly or indirectly, merge or consolidate such facilities or any part thereof with those of any other person, or purchase, acquire, or take any security of any other public utility, without first having secured an order of the Commission authorizing it to do so. Upon application for such approval the Commission shall give reasonable notice in writing to the Governor and State commission of each of the States in which the physical property affected, or any part thereof, is situated, and to such other persons as it may deem advisable. After notice and opportunity for hearing, if the Commission finds that the proposed disposition, consolidation, acquisition, or control will be consistent with the public interest, it shall approve the same.”
+**2005**—Subsec. (a). Pub. L. 109–58 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "No public utility shall sell, lease, or otherwise dispose of the whole of its facilities subject to the jurisdiction of the Commission, or any part thereof of a value in excess of $50,000, or by any means whatsoever, directly or indirectly, merge or consolidate such facilities or any part thereof with those of any other person, or purchase, acquire, or take any security of any other public utility, without first having secured an order of the Commission authorizing it to do so. Upon application for such approval the Commission shall give reasonable notice in writing to the Governor and State commission of each of the States in which the physical property affected, or any part thereof, is situated, and to such other persons as it may deem advisable. After notice and opportunity for hearing, if the Commission finds that the proposed disposition, consolidation, acquisition, or control will be consistent with the public interest, it shall approve the same."
 
 #### Effective Date of 2005 Amendment ####
 
 Pub. L. 109–58, title XII, §1289(b), (c), Aug. 8, 2005, 119 Stat. 983, provided that:
 
-“(b) Effective Date.—The amendments made by this section [amending this section] shall take effect 6 months after the date of enactment of this Act [Aug. 8, 2005].
+"(b) Effective Date.—The amendments made by this section [amending this section] shall take effect 6 months after the date of enactment of this Act [Aug. 8, 2005].
 
-“(c) Transition Provision.—The amendments made by subsection (a) [amending this section] shall not apply to any application under section 203 of the Federal Power Act (16 U.S.C. 824b) that was filed on or before the date of enactment of this Act [Aug. 8, 2005].”
+"(c) Transition Provision.—The amendments made by subsection (a) [amending this section] shall not apply to any application under section 203 of the Federal Power Act (16 U.S.C. 824b) that was filed on or before the date of enactment of this Act [Aug. 8, 2005]."

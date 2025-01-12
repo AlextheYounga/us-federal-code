@@ -24,7 +24,7 @@ Sec.
 
 **1986**—Pub. L. 99–509, title IX, §9002(a)(2), Oct. 21, 1986, 100 Stat. 1971, added item 3126 and redesignated former item 3126 as 3127.
 
-Pub. L. 99–272, title XIII, §13205(a)(2)(A)(iii), Apr. 7, 1986, 100 Stat. 315, inserted “States,” in item 3125.
+Pub. L. 99–272, title XIII, §13205(a)(2)(A)(iii), Apr. 7, 1986, 100 Stat. 315, inserted "States," in item 3125.
 
 **1965**—Pub. L. 89–97, title III, §317(c)(3), July 30, 1965, 79 Stat. 389, inserted reference to the District of Columbia in item 3125.
 

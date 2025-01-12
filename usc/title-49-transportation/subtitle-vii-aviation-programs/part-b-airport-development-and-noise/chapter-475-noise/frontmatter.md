@@ -56,7 +56,7 @@ Sec.
 
 #### Amendments ####
 
-**2012**—Pub. L. 112–95, title V, §506(b)(3), Feb. 14, 2012, 126 Stat. 106, which directed amendment of the analysis for subchapter II of this chapter by substituting “Penalties” for “Penalties for violating sections 47528–47530” in item 47531 and by adding item 47534, was executed to the analysis for this chapter to reflect the probable intent of Congress.
+**2012**—Pub. L. 112–95, title V, §506(b)(3), Feb. 14, 2012, 126 Stat. 106, which directed amendment of the analysis for subchapter II of this chapter by substituting "Penalties" for "Penalties for violating sections 47528–47530" in item 47531 and by adding item 47534, was executed to the analysis for this chapter to reflect the probable intent of Congress.
 
 **1994**—Pub. L. 103–429, §6(72)(B), Oct. 31, 1994, 108 Stat. 4388, added item 47510.
 

@@ -10,7 +10,7 @@ Section was not enacted as part of the Submarine Cable Act which comprises this 
 
 #### Amendments ####
 
-**1934**—Act June 19, 1934, substituted “of the Federal Communications Commission” for “heretofore granted the Interstate Commerce Commission”.
+**1934**—Act June 19, 1934, substituted "of the Federal Communications Commission" for "heretofore granted the Interstate Commerce Commission".
 
 #### Delegation of Functions ####
 

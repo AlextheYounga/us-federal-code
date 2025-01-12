@@ -1,6 +1,6 @@
 ### §§101 to 108. Repealed. Aug. 27, 1935, ch. 740, title I, §1, 49 Stat. 872 ###
 
-Section 101, act May 27, 1930, ch. 342, §1, 46 Stat. 427, provided that this chapter may be cited as the “Prohibition Reorganization Act of 1930”.
+Section 101, act May 27, 1930, ch. 342, §1, 46 Stat. 427, provided that this chapter may be cited as the "Prohibition Reorganization Act of 1930".
 
 Section 102, act May 27, 1930, ch. 342, §2, 46 Stat. 427, established a Bureau of Prohibition in Department of Justice and authorized appointment of a Director and Assistant Director of Prohibition and designation of officers and employees.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-In order to provide for the benefit, inspiration, and education of the American people, there is hereby established the Natchez National Historical Park (hereinafter in this subchapter referred to as the “park”) in the State of Mississippi.
+In order to provide for the benefit, inspiration, and education of the American people, there is hereby established the Natchez National Historical Park (hereinafter in this subchapter referred to as the "park") in the State of Mississippi.
 
 #### (b) Area included ####
 
@@ -14,7 +14,7 @@ The park shall consist of the historic districts established under this subchapt
 
 (3) The lands and structures known as the William Johnson House, together with all personal property located on such lands, and the building adjacent thereto which bears a common wall.
 
-The property referred to in paragraph (2) shall be included within the park only if the Secretary of the Interior (hereinafter in this subchapter referred to as the “Secretary”) determines that the historic resources of Fort Rosalie are of sufficient national significance and integrity to warrant inclusion in the National Park System. The Secretary shall make such determination after receiving from the Governor of the State of Mississippi and the mayor of the city of Natchez, in consultation with the State Historic Preservation Officer, a recommendation based on scholarly research as to the national significance and integrity of such historic resources.
+The property referred to in paragraph (2) shall be included within the park only if the Secretary of the Interior (hereinafter in this subchapter referred to as the "Secretary") determines that the historic resources of Fort Rosalie are of sufficient national significance and integrity to warrant inclusion in the National Park System. The Secretary shall make such determination after receiving from the Governor of the State of Mississippi and the mayor of the city of Natchez, in consultation with the State Historic Preservation Officer, a recommendation based on scholarly research as to the national significance and integrity of such historic resources.
 
 #### (c) Boundaries; map ####
 

@@ -16,16 +16,16 @@
 
 #### Amendments ####
 
-**1997**—Subsec. (a)(1). Pub. L. 105–85 substituted “forfeiture of pay, or of pay and allowances, due that member” for “forfeiture of pay and (if adjudged by a general court-martial) allowances due that member” in first sentence.
+**1997**—Subsec. (a)(1). Pub. L. 105–85 substituted "forfeiture of pay, or of pay and allowances, due that member" for "forfeiture of pay and (if adjudged by a general court-martial) allowances due that member" in first sentence.
 
-**1996**—Subsec. (a)(1). Pub. L. 104–201, §1068(a)(1)(B), substituted “two-thirds of all pay” for “two-thirds of all pay and allowances” in third sentence.
+**1996**—Subsec. (a)(1). Pub. L. 104–201, §1068(a)(1)(B), substituted "two-thirds of all pay" for "two-thirds of all pay and allowances" in third sentence.
 
-Pub. L. 104–201, §1068(a)(1)(A), which directed amendment of first sentence by inserting “(if adjudged by a general court-martial)” after “all pay and”, was executed by making the insertion after “of pay and” in first sentence to reflect the probable intent of Congress.
+Pub. L. 104–201, §1068(a)(1)(A), which directed amendment of first sentence by inserting "(if adjudged by a general court-martial)" after "all pay and", was executed by making the insertion after "of pay and" in first sentence to reflect the probable intent of Congress.
 
 #### Effective Date of 1996 Amendment ####
 
-Pub. L. 104–201, div. A, title X, §1068(a)(2), Sept. 23, 1996, 110 Stat. 2655, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect as of April 1, 1996, and shall apply to any case in which a sentence is adjudged by a court-martial on or after that date.”
+Pub. L. 104–201, div. A, title X, §1068(a)(2), Sept. 23, 1996, 110 Stat. 2655, provided that: "The amendments made by paragraph (1) [amending this section] shall take effect as of April 1, 1996, and shall apply to any case in which a sentence is adjudged by a court-martial on or after that date."
 
 #### Effective Date ####
 
-Pub. L. 104–106, div. A, title XI, §1122(b), Feb. 10, 1996, 110 Stat. 463, provided that: “The section (article) added by the amendment made by subsection (a)(1) [this section] shall apply to a case in which a sentence is adjudged by a court-martial on or after the first day of the first month that begins at least 30 days after the date of the enactment of this Act [Feb. 10, 1996].”
+Pub. L. 104–106, div. A, title XI, §1122(b), Feb. 10, 1996, 110 Stat. 463, provided that: "The section (article) added by the amendment made by subsection (a)(1) [this section] shall apply to a case in which a sentence is adjudged by a court-martial on or after the first day of the first month that begins at least 30 days after the date of the enactment of this Act [Feb. 10, 1996]."

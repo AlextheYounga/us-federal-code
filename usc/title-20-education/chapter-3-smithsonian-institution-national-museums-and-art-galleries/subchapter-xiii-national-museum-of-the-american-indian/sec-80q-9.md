@@ -10,7 +10,7 @@
 
 (2) The inventory made by the Secretary of the Smithsonian Institution under paragraph (1) shall be completed not later than June 1, 1998.
 
-(3) For purposes of this subsection, the term “inventory” means a simple, itemized list that, to the extent practicable, identifies, based upon available information held by the Smithsonian Institution, the geographic and cultural affiliation of the remains and objects referred to in paragraph (1).
+(3) For purposes of this subsection, the term "inventory" means a simple, itemized list that, to the extent practicable, identifies, based upon available information held by the Smithsonian Institution, the geographic and cultural affiliation of the remains and objects referred to in paragraph (1).
 
 #### (b) Notice in case of identification of tribal origin ####
 
@@ -42,4 +42,4 @@ There is authorized to be appropriated $1,000,000 for fiscal year 1991 and such 
 
 **1996**—Subsec. (a). Pub. L. 104–278, §3(a), designated existing provisions as par. (1), added pars. (2) and (3), and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1).
 
-Subsec. (f). Pub. L. 104–278, §3(b), inserted “and section 80q–9a of this title” after “to carry out this section”.
+Subsec. (f). Pub. L. 104–278, §3(b), inserted "and section 80q–9a of this title" after "to carry out this section".

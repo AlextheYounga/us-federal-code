@@ -180,4 +180,4 @@ Sec.
 
 1738q. Notification to congressional committees.
 
-1738r. “Qualified debt” defined.
+1738r. "Qualified debt" defined.

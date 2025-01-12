@@ -6,9 +6,9 @@ Section 615aa, Pub. L. 86–529, §1, June 27, 1960, 74 Stat. 225, authorized co
 
 Section 615bb, Pub. L. 86–529, §2, June 27, 1960, 74 Stat. 225, related to allocation of costs for this project.
 
-Section 615cc, Pub. L. 86–529, §3, June 27, 1960, 74 Stat. 226, related to contracts with water users’ organization.
+Section 615cc, Pub. L. 86–529, §3, June 27, 1960, 74 Stat. 226, related to contracts with water users' organization.
 
-Section 615dd, Pub. L. 86–529, §4, June 27, 1960, 74 Stat. 226, related to transfer of care, operation, and maintenance of this project to water users’ organization.
+Section 615dd, Pub. L. 86–529, §4, June 27, 1960, 74 Stat. 226, related to transfer of care, operation, and maintenance of this project to water users' organization.
 
 Section 615ee, Pub. L. 86–529, §5, June 27, 1960, 74 Stat. 226, related to construction of the project in units or stages.
 

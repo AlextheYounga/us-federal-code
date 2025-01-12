@@ -48,21 +48,21 @@ Amounts received under subsection (b) of this section—
 
 #### Amendments ####
 
-**2006**—Subsec. (c). Pub. L. 109–166 amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “Amounts received under subsection (b) of this section—
+**2006**—Subsec. (c). Pub. L. 109–166 amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "Amounts received under subsection (b) of this section—
 
-“(1) shall be available to the Secretary until expended, without further appropriations, solely for—
+"(1) shall be available to the Secretary until expended, without further appropriations, solely for—
 
-“(A) awards and scholarships to individuals who submit designs in competitions under subsection (a) of this section, that are—
+"(A) awards and scholarships to individuals who submit designs in competitions under subsection (a) of this section, that are—
 
-“(i) selected in such a competition as winning designs; or
+"(i) selected in such a competition as winning designs; or
 
-“(ii) otherwise determined in such a competition to be superior;
+"(ii) otherwise determined in such a competition to be superior;
 
-“(B) awards to schools and other participants to further education activities related to the conservation education goals of the Program; and
+"(B) awards to schools and other participants to further education activities related to the conservation education goals of the Program; and
 
-“(C) expenses for licensing and marketing under subsection (b) of this section; and
+"(C) expenses for licensing and marketing under subsection (b) of this section; and
 
-“(2) may not be used for administrative expenses of the Program.”
+"(2) may not be used for administrative expenses of the Program."
 
 [<sup>1</sup> So in original. Subsec. (c), as amended by Pub. L. 109–166, does not contain a par. (2).](#719a_1)
 

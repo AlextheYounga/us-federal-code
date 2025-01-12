@@ -30,37 +30,37 @@ Section effective Oct. 3, 1977, see section 1001 of Pub. L. 95–118, set out as
 
 #### Future United States Contributions to the International Financial Institutions ####
 
-Pub. L. 96–536, §101(b) [H.J. Res. 637, §101(b); H.R. 4473, title I], Dec. 16, 1980, 94 Stat. 3167, provided in part that: “It is the sense of the Congress that the United States share of contributions to future replenishments of the International Financial Institutions should not exceed the percentages enumerated below for each of the respective accounts within these institutions:
+Pub. L. 96–536, §101(b) [H.J. Res. 637, §101(b); H.R. 4473, title I], Dec. 16, 1980, 94 Stat. 3167, provided in part that: "It is the sense of the Congress that the United States share of contributions to future replenishments of the International Financial Institutions should not exceed the percentages enumerated below for each of the respective accounts within these institutions:
 
-“Asian Development Bank:
+"Asian Development Bank:
 
-“Paid-in capital, 16.3 percent;
+"Paid-in capital, 16.3 percent;
 
-“Callable capital, 16.3 percent;
+"Callable capital, 16.3 percent;
 
-“Asian Development Fund, 22.2 percent;
+"Asian Development Fund, 22.2 percent;
 
-“African Development Bank:
+"African Development Bank:
 
-“Special Fund, 18 percent;
+"Special Fund, 18 percent;
 
-“Inter-American Development Bank:
+"Inter-American Development Bank:
 
-“Paid-in capital, 34.5 percent;
+"Paid-in capital, 34.5 percent;
 
-“Callable capital, 34.5 percent;
+"Callable capital, 34.5 percent;
 
-“Fund for Special Operations, 40 percent;
+"Fund for Special Operations, 40 percent;
 
-“International Bank for Reconstruction and Development:
+"International Bank for Reconstruction and Development:
 
-“Paid-in capital, 24 percent;
+"Paid-in capital, 24 percent;
 
-“Callable capital, 24 percent;
+"Callable capital, 24 percent;
 
-“International Development Association, 25 percent;
+"International Development Association, 25 percent;
 
-“International Finance Corporation, 23 percent.”
+"International Finance Corporation, 23 percent."
 
 Similar provisions were contained in the following appropriation acts:
 
@@ -74,6 +74,6 @@ Pub. L. 95–148, title III, Oct. 31, 1977, 91 Stat. 1238.
 
 Pub. L. 95–118, title VII, §703, Oct. 3, 1977, 91 Stat. 1070, provided that:
 
-“(a) The Secretary of State and the Secretary of the Treasury shall initiate a wide consultation designed to develop a viable standard for the meeting of basic human needs and the protection of human rights and a mechanism for acting together to insure that the rewards of international economic cooperation are especially available to those who subscribe to such standards and are seen to be moving toward making them effective in their own systems of governance.
+"(a) The Secretary of State and the Secretary of the Treasury shall initiate a wide consultation designed to develop a viable standard for the meeting of basic human needs and the protection of human rights and a mechanism for acting together to insure that the rewards of international economic cooperation are especially available to those who subscribe to such standards and are seen to be moving toward making them effective in their own systems of governance.
 
-“(b) Not later than one year after the date of enactment of this Act [Oct. 3, 1977], the Secretary of State and the Secretary of the Treasury shall report to the President of the Senate and the Speaker of the House of Representatives on the progress made in carrying out this section.”
+"(b) Not later than one year after the date of enactment of this Act [Oct. 3, 1977], the Secretary of State and the Secretary of the Treasury shall report to the President of the Senate and the Speaker of the House of Representatives on the progress made in carrying out this section."

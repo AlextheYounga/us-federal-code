@@ -32,8 +32,8 @@ Sec.
 
 **1982**—Pub. L. 97–295, §3(6)(B), Oct. 12, 1982, 96 Stat. 1304, added item 908.
 
-**1980**—Pub. L. 96–513, title V, §506(8), Dec. 12, 1980, 94 Stat. 2919, struck out item 904 “Officers of Navy or Marine Corps promoted under chapter 545 of title 10: effective date of beginning of pay and allowances” and substituted “Reserve officers of the Navy or Marine Corps not on the active-duty list: effective date of pay and allowances” for “Officers of Navy or Marine Corps not covered by section 904 of this title: effective date of beginning of pay and allowances” in item 905.
+**1980**—Pub. L. 96–513, title V, §506(8), Dec. 12, 1980, 94 Stat. 2919, struck out item 904 "Officers of Navy or Marine Corps promoted under chapter 545 of title 10: effective date of beginning of pay and allowances" and substituted "Reserve officers of the Navy or Marine Corps not on the active-duty list: effective date of pay and allowances" for "Officers of Navy or Marine Corps not covered by section 904 of this title: effective date of beginning of pay and allowances" in item 905.
 
-Pub. L. 96–343, §6(a)(2), Sept. 8, 1980, 94 Stat. 1127, substituted “and warrant officers appointed as officers:” for “appointed as officers;” in item 907.
+Pub. L. 96–343, §6(a)(2), Sept. 8, 1980, 94 Stat. 1127, substituted "and warrant officers appointed as officers:" for "appointed as officers;" in item 907.
 
 **1970**—Pub. L. 91–484, §1(2), Oct. 21, 1970, 84 Stat. 1084, added item 907.

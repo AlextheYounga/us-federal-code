@@ -16,8 +16,8 @@ The purposes of this subchapter are—
 
 #### Amendments ####
 
-**1998**—Pars. (4), (5). Pub. L. 105–277 substituted “Marsh-Billings-Rockefeller” for “Marsh-Billings”.
+**1998**—Pars. (4), (5). Pub. L. 105–277 substituted "Marsh-Billings-Rockefeller" for "Marsh-Billings".
 
 #### Short Title ####
 
-Pub. L. 102–350, §1, Aug. 26, 1992, 106 Stat. 934, as amended by Pub. L. 105–277, div. A, §101(e) [title I, §143], Oct. 21, 1998, 112 Stat. 2681–231, 2681–267, provided that: “This Act [enacting this subchapter] may be cited as the ‘Marsh-Billings-Rockefeller National Historical Park Establishment Act’.”
+Pub. L. 102–350, §1, Aug. 26, 1992, 106 Stat. 934, as amended by Pub. L. 105–277, div. A, §101(e) [title I, §143], Oct. 21, 1998, 112 Stat. 2681–231, 2681–267, provided that: "This Act [enacting this subchapter] may be cited as the 'Marsh-Billings-Rockefeller National Historical Park Establishment Act'."

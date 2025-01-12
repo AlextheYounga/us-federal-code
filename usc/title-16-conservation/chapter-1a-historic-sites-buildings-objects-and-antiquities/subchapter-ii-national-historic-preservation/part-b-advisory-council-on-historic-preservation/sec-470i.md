@@ -50,23 +50,23 @@ The President shall designate a Vice Chairman, from the members appointed under 
 
 #### Amendments ####
 
-**2006**—Subsec. (a)(4). Pub. L. 109–453, §1(d)(1), substituted “seven” for “four”.
+**2006**—Subsec. (a)(4). Pub. L. 109–453, §1(d)(1), substituted "seven" for "four".
 
-Subsec. (b). Pub. L. 109–453, §1(d)(2), struck out “(5) and” before “(6)”.
+Subsec. (b). Pub. L. 109–453, §1(d)(2), struck out "(5) and" before "(6)".
 
-Subsec. (f). Pub. L. 109–453, §1(d)(3), substituted “12” for “Nine”.
+Subsec. (f). Pub. L. 109–453, §1(d)(3), substituted "12" for "Nine".
 
-**1996**—Subsec. (a)(4). Pub. L. 104–333, §509(c)(1), substituted “designated by the President” for “appointed by the President”.
+**1996**—Subsec. (a)(4). Pub. L. 104–333, §509(c)(1), substituted "designated by the President" for "appointed by the President".
 
-Subsec. (c). Pub. L. 104–333, §509(c)(2), which directed substitution of “through (11)” for “and 10”, was executed by making the substitution for “and (10)” to reflect the probable intent of Congress.
+Subsec. (c). Pub. L. 104–333, §509(c)(2), which directed substitution of "through (11)" for "and 10", was executed by making the substitution for "and (10)" to reflect the probable intent of Congress.
 
-**1992**—Subsec. (a). Pub. L. 102–575, §4019(b), which directed amendment of subsec. (a) by striking “(hereafter referred to as the ‘Council’)”, was executed by striking “(hereinafter referred to as the ‘Council’)” after “Historic Preservation” in introductory provisions to reflect the probable intent of Congress.
+**1992**—Subsec. (a). Pub. L. 102–575, §4019(b), which directed amendment of subsec. (a) by striking "(hereafter referred to as the 'Council')", was executed by striking "(hereinafter referred to as the 'Council')" after "Historic Preservation" in introductory provisions to reflect the probable intent of Congress.
 
 Subsec. (a)(11). Pub. L. 102–575, §4016, added par. (11).
 
 **1980**—Subsec. (a). Pub. L. 96–515, §301(a), revised the composition of the Council by reducing the membership from twenty-nine to eighteen members, provided flexibility for Federal agencies who will be represented, ensured that appropriate expertise will be available, and provided representation for State and local governments.
 
-Subsec. (b). Pub. L. 96–515, §301(b), substituted “(2) through (8) (other than (5) and (6))” and “(1) through (17)” and inserted “, except that, in the case of paragraphs (2) and (4), no such officer other than an Assistant Secretary or an officer having major department-wide or agency-wide responsibilities may be so designated” following “in his stead”.
+Subsec. (b). Pub. L. 96–515, §301(b), substituted "(2) through (8) (other than (5) and (6))" and "(1) through (17)" and inserted ", except that, in the case of paragraphs (2) and (4), no such officer other than an Assistant Secretary or an officer having major department-wide or agency-wide responsibilities may be so designated" following "in his stead".
 
 Subsec. (c). Pub. L. 96–515, §301(c), substituted provision that the Chairman appointed by the President from the general public, each of the four experts appointed by the President, and each of the three at-large members appointed by the President from the general public serve a term of four years from the expiration of his predecessor's term, except that the members first appointed serve terms of one to four years in such a manner as to insure that the terms of not more than two of them expire in any one year, the one Governor and the one mayor appointed by the President serve for the term of their elected office but not in excess of four years, an appointed member not serve for more than two terms, and an appointed member whose term expired serve until his successor has been appointed for provision that each of the twelve members appointed by the President from outside the Federal Government serve for a term of five years from expiration of his predecessor's term, except that the members first appointed serve for terms of one to five years in such a manner as to insure that the terms of not less than one nor more than two of them expire in any one year.
 
@@ -74,19 +74,19 @@ Subsec. (d). Pub. L. 96–515, §301(d), inserted provision that a vacancy be fi
 
 Subsec. (e). Pub. L. 96–515, §301(e), substituted provision authorizing the President to designate a Vice Chairman from among specified members of the Council for provision authorizing the President to designate a Chairman and Vice Chairman.
 
-Subsec. (f). Pub. L. 96–515, §301(f), substituted “Nine” for “Fifteen”.
+Subsec. (f). Pub. L. 96–515, §301(f), substituted "Nine" for "Fifteen".
 
-**1976**—Subsec. (a)(9) to (18). Pub. L. 94–422 added pars. (9) to (14) and (17), and redesignated former pars. (9), (10), and (11) as (15), (16), and (18), respectively, and in par. (18), as so redesignated, substituted “twelve” for “ten”.
+**1976**—Subsec. (a)(9) to (18). Pub. L. 94–422 added pars. (9) to (14) and (17), and redesignated former pars. (9), (10), and (11) as (15), (16), and (18), respectively, and in par. (18), as so redesignated, substituted "twelve" for "ten".
 
-Subsec. (b). Pub. L. 94–422 substituted “(17)” for “(10)”.
+Subsec. (b). Pub. L. 94–422 substituted "(17)" for "(10)".
 
-Subsec. (c). Pub. L. 94–422 substituted “(18)” for “(11)”.
+Subsec. (c). Pub. L. 94–422 substituted "(18)" for "(11)".
 
 Subsec. (d). Pub. L. 94–422 reenacted subsec. (d) without change.
 
 Subsec. (e). Pub. L. 94–422 enlarged Presidential authority to include designation of Vice Chairman, who shall act in place of Chairman during the absence or disability of Chairman or when the office is vacant.
 
-Subsec. (f). Pub. L. 94–422 substituted “Fifteen” for “Eleven”.
+Subsec. (f). Pub. L. 94–422 substituted "Fifteen" for "Eleven".
 
 Subsec. (g). Pub. L. 94–422 struck out subsec. (g) which provided that the Council shall continue in existence until Dec. 31, 1985.
 
@@ -94,8 +94,8 @@ Subsec. (g). Pub. L. 94–422 struck out subsec. (g) which provided that the Cou
 
 **1970**—Subsec. (a). Pub. L. 91–243, §1(b), enlarged the Council from seventeen to twenty members, added pars. (7) to (9), and redesignated former pars. (7) and (8) as (10) and (11), respectively.
 
-Subsec. (b). Pub. L. 91–243, §1(c), substituted “(10)” for “(6)”.
+Subsec. (b). Pub. L. 91–243, §1(c), substituted "(10)" for "(6)".
 
-Subsec. (c). Pub. L. 91–243, §1(d), substituted “(11)” for “(8)”.
+Subsec. (c). Pub. L. 91–243, §1(d), substituted "(11)" for "(8)".
 
-Subsec. (f). Pub. L. 91–243, §1(e), substituted “Eleven” for “Eight”.
+Subsec. (f). Pub. L. 91–243, §1(e), substituted "Eleven" for "Eight".

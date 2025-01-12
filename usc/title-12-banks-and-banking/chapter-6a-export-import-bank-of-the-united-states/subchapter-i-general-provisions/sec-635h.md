@@ -10,6 +10,6 @@ A prior section 9 of act July 31, 1945, ch. 341, was renumbered section 8 and is
 
 #### Amendments ####
 
-**1968**—Pub. L. 90–267 changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
+**1968**—Pub. L. 90–267 changed name of "Export-Import Bank of Washington" to "Export-Import Bank of the United States".
 
-**1954**—Act Sept. 3, 1954, substituted “section 955 of title 18” for “section 804a of title 31”.
+**1954**—Act Sept. 3, 1954, substituted "section 955 of title 18" for "section 804a of title 31".

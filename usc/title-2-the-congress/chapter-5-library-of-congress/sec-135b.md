@@ -8,4 +8,4 @@
 
 #### Amendments ####
 
-**1966**—Pub. L. 89–522 extended Librarian's authority to arrange for local and regional centers by authorizing him to contract with public or other nonprofit libraries, agencies, or organizations, extended field to include recordings, reproducers, musical scores, instructional texts, and other materials, substituted “Armed Forces of the United States” for “United States military or naval service”, and extended veteran preference to include other physically handicapped individuals in addition to blind persons.
+**1966**—Pub. L. 89–522 extended Librarian's authority to arrange for local and regional centers by authorizing him to contract with public or other nonprofit libraries, agencies, or organizations, extended field to include recordings, reproducers, musical scores, instructional texts, and other materials, substituted "Armed Forces of the United States" for "United States military or naval service", and extended veteran preference to include other physically handicapped individuals in addition to blind persons.

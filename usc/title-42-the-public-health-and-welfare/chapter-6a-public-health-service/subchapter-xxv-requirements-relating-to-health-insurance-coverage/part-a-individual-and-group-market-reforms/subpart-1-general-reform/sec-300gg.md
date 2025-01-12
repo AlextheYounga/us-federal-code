@@ -50,69 +50,69 @@ Another prior section 2701 of act July 1, 1944, was successively renumbered by s
 
 #### Amendments ####
 
-**2010**—Subsec. (a)(5). Pub. L. 111–148, §10103(a), inserted “(other than self-insured group health plans offered in such market)” after “such market”.
+**2010**—Subsec. (a)(5). Pub. L. 111–148, §10103(a), inserted "(other than self-insured group health plans offered in such market)" after "such market".
 
 #### Effective Date ####
 
-Pub. L. 111–148, title I, §1255, formerly §1253, title X, §10103(e), (f)(1), Mar. 23, 2010, 124 Stat. 162, 895, provided that: “This subtitle [subtitle C (§§1201–1255) of title I of Pub. L. 111–148, enacting subchapter II of chapter 157 of this title and sections 300gg to 300gg–2 and 300gg–4 to 300gg–7 of this title, and amending sections 300gg–1 and 300gg–4 of this title and transferring former section 300gg of this title to section 300gg–3 of this title] (and the amendments made by this subtitle) shall become effective for plan years beginning on or after January 1, 2014, except that—
+Pub. L. 111–148, title I, §1255, formerly §1253, title X, §10103(e), (f)(1), Mar. 23, 2010, 124 Stat. 162, 895, provided that: "This subtitle [subtitle C (§§1201–1255) of title I of Pub. L. 111–148, enacting subchapter II of chapter 157 of this title and sections 300gg to 300gg–2 and 300gg–4 to 300gg–7 of this title, and amending sections 300gg–1 and 300gg–4 of this title and transferring former section 300gg of this title to section 300gg–3 of this title] (and the amendments made by this subtitle) shall become effective for plan years beginning on or after January 1, 2014, except that—
 
-“(1) section 1251 [enacting section 18011 of this title] shall take effect on the date of enactment of this Act [Mar. 23, 2010]; and
+"(1) section 1251 [enacting section 18011 of this title] shall take effect on the date of enactment of this Act [Mar. 23, 2010]; and
 
-“(2) the provisions of section 2704 of the Public Health Service Act [42 U.S.C. 300gg–3] (as amended by section 1201), as they apply to enrollees who are under 19 years of age, shall become effective for plan years beginning on or after the date that is 6 months after the date of enactment of this Act [Mar. 23, 2010].. [sic]”
+"(2) the provisions of section 2704 of the Public Health Service Act [42 U.S.C. 300gg–3] (as amended by section 1201), as they apply to enrollees who are under 19 years of age, shall become effective for plan years beginning on or after the date that is 6 months after the date of enactment of this Act [Mar. 23, 2010].. [sic]"
 
 Pub. L. 104–191, title I, §102(c), Aug. 21, 1996, 110 Stat. 1976, provided that:
 
-“(1) In general.—Except as provided in this subsection, part A of title XXVII of the Public Health Service Act [42 U.S.C. 300gg et seq.] (as added by subsection (a)) shall apply with respect to group health plans, and health insurance coverage offered in connection with group health plans, for plan years beginning after June 30, 1997.
+"(1) In general.—Except as provided in this subsection, part A of title XXVII of the Public Health Service Act [42 U.S.C. 300gg et seq.] (as added by subsection (a)) shall apply with respect to group health plans, and health insurance coverage offered in connection with group health plans, for plan years beginning after June 30, 1997.
 
-“(2) Determination of creditable coverage.—
+"(2) Determination of creditable coverage.—
 
-“(A) Period of coverage.—
+"(A) Period of coverage.—
 
-“(i) In general.—Subject to clause (ii), no period before July 1, 1996, shall be taken into account under part A of title XXVII of the Public Health Service Act [42 U.S.C. 300gg et seq.] (as added by this section) in determining creditable coverage.
+"(i) In general.—Subject to clause (ii), no period before July 1, 1996, shall be taken into account under part A of title XXVII of the Public Health Service Act [42 U.S.C. 300gg et seq.] (as added by this section) in determining creditable coverage.
 
-“(ii) Special rule for certain periods.—The Secretary of Health and Human Services, consistent with section 104 [42 U.S.C. 300gg–92 note], shall provide for a process whereby individuals who need to establish creditable coverage for periods before July 1, 1996, and who would have such coverage credited but for clause (i) may be given credit for creditable coverage for such periods through the presentation of documents or other means.
+"(ii) Special rule for certain periods.—The Secretary of Health and Human Services, consistent with section 104 [42 U.S.C. 300gg–92 note], shall provide for a process whereby individuals who need to establish creditable coverage for periods before July 1, 1996, and who would have such coverage credited but for clause (i) may be given credit for creditable coverage for such periods through the presentation of documents or other means.
 
-“(B) Certifications, etc.—
+"(B) Certifications, etc.—
 
-“(i) In general.—Subject to clauses (ii) and (iii), subsection (e) of section 2701 [now 2704] of the Public Health Service Act [42 U.S.C. 300gg–3(e)] (as added by this section) shall apply to events occurring after June 30, 1996.
+"(i) In general.—Subject to clauses (ii) and (iii), subsection (e) of section 2701 [now 2704] of the Public Health Service Act [42 U.S.C. 300gg–3(e)] (as added by this section) shall apply to events occurring after June 30, 1996.
 
-“(ii) No certification required to be provided before june 1, 1997.—In no case is a certification required to be provided under such subsection before June 1, 1997.
+"(ii) No certification required to be provided before june 1, 1997.—In no case is a certification required to be provided under such subsection before June 1, 1997.
 
-“(iii) Certification only on written request for events occurring before october 1, 1996.—In the case of an event occurring after June 30, 1996, and before October 1, 1996, a certification is not required to be provided under such subsection unless an individual (with respect to whom the certification is otherwise required to be made) requests such certification in writing.
+"(iii) Certification only on written request for events occurring before october 1, 1996.—In the case of an event occurring after June 30, 1996, and before October 1, 1996, a certification is not required to be provided under such subsection unless an individual (with respect to whom the certification is otherwise required to be made) requests such certification in writing.
 
-“(C) Transitional rule.—In the case of an individual who seeks to establish creditable coverage for any period for which certification is not required because it relates to an event occurring before June 30, 1996—
+"(C) Transitional rule.—In the case of an individual who seeks to establish creditable coverage for any period for which certification is not required because it relates to an event occurring before June 30, 1996—
 
-“(i) the individual may present other credible evidence of such coverage in order to establish the period of creditable coverage; and
+"(i) the individual may present other credible evidence of such coverage in order to establish the period of creditable coverage; and
 
-“(ii) a group health plan and a health insurance issuer shall not be subject to any penalty or enforcement action with respect to the plan's or issuer's crediting (or not crediting) such coverage if the plan or issuer has sought to comply in good faith with the applicable requirements under the amendments made by this section [enacting this section and sections 300gg–1, 300gg–11 to 300gg–13, 300gg–21 to 300gg–23, 300gg–91, and 300gg–92 of this title and amending sections 300e and 300bb–8 of this title].
+"(ii) a group health plan and a health insurance issuer shall not be subject to any penalty or enforcement action with respect to the plan's or issuer's crediting (or not crediting) such coverage if the plan or issuer has sought to comply in good faith with the applicable requirements under the amendments made by this section [enacting this section and sections 300gg–1, 300gg–11 to 300gg–13, 300gg–21 to 300gg–23, 300gg–91, and 300gg–92 of this title and amending sections 300e and 300bb–8 of this title].
 
-“(3) Special rule for collective bargaining agreements.—Except as provided in paragraph (2)(B), in the case of a group health plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and one or more employers ratified before the date of the enactment of this Act [Aug. 21, 1996], part A of title XXVII of the Public Health Service Act [42 U.S.C. 300gg et seq.] (other than section 2701(e) [now 2704(e)] thereof [42 U.S.C. 300gg–3(e)]) shall not apply to plan years beginning before the later of—
+"(3) Special rule for collective bargaining agreements.—Except as provided in paragraph (2)(B), in the case of a group health plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and one or more employers ratified before the date of the enactment of this Act [Aug. 21, 1996], part A of title XXVII of the Public Health Service Act [42 U.S.C. 300gg et seq.] (other than section 2701(e) [now 2704(e)] thereof [42 U.S.C. 300gg–3(e)]) shall not apply to plan years beginning before the later of—
 
-“(A) the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act), or
+"(A) the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act), or
 
-“(B) July 1, 1997.
+"(B) July 1, 1997.
 
 For purposes of subparagraph (A), any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement of such part shall not be treated as a termination of such collective bargaining agreement.
 
-“(4) Timely regulations.—The Secretary of Health and Human Services, consistent with section 104 [42 U.S.C. 300gg–92 note], shall first issue by not later than April 1, 1997, such regulations as may be necessary to carry out the amendments made by this section [enacting this section and sections 300gg–1, 300gg–11 to 300gg–13, 300gg–21 to 300gg–23, 300gg–91, and 300gg–92 of this title and amending sections 300e and 300bb–8 of this title] and section 111 [enacting sections 300gg–41 to 300gg–44 and 300gg–61 to 300gg–63 of this title].
+"(4) Timely regulations.—The Secretary of Health and Human Services, consistent with section 104 [42 U.S.C. 300gg–92 note], shall first issue by not later than April 1, 1997, such regulations as may be necessary to carry out the amendments made by this section [enacting this section and sections 300gg–1, 300gg–11 to 300gg–13, 300gg–21 to 300gg–23, 300gg–91, and 300gg–92 of this title and amending sections 300e and 300bb–8 of this title] and section 111 [enacting sections 300gg–41 to 300gg–44 and 300gg–61 to 300gg–63 of this title].
 
-“(5) Limitation on actions.—No enforcement action shall be taken, pursuant to the amendments made by this section, against a group health plan or health insurance issuer with respect to a violation of a requirement imposed by such amendments before January 1, 1998, or, if later, the date of issuance of regulations referred to in paragraph (4), if the plan or issuer has sought to comply in good faith with such requirements.”
+"(5) Limitation on actions.—No enforcement action shall be taken, pursuant to the amendments made by this section, against a group health plan or health insurance issuer with respect to a violation of a requirement imposed by such amendments before January 1, 1998, or, if later, the date of issuance of regulations referred to in paragraph (4), if the plan or issuer has sought to comply in good faith with such requirements."
 
 #### Congressional Findings Relating to Exercise of Commerce Clause Authority; Severability ####
 
 Pub. L. 104–191, title I, §195, Aug. 21, 1996, 110 Stat. 1991, provided that:
 
-“(a) Findings Relating to Exercise of Commerce Clause Authority.—Congress finds the following in relation to the provisions of this title [enacting this subchapter and sections 1181 to 1183 and 1191 to 1191c of Title 29, Labor, amending sections 233, 300e, and 300bb–8 of this title and sections 1003, 1021, 1022, 1024, 1132, 1136, and 1144 of Title 29, and enacting provisions set out as notes under this section, section 300gg–92 of this title, and section 1181 of Title 29]:
+"(a) Findings Relating to Exercise of Commerce Clause Authority.—Congress finds the following in relation to the provisions of this title [enacting this subchapter and sections 1181 to 1183 and 1191 to 1191c of Title 29, Labor, amending sections 233, 300e, and 300bb–8 of this title and sections 1003, 1021, 1022, 1024, 1132, 1136, and 1144 of Title 29, and enacting provisions set out as notes under this section, section 300gg–92 of this title, and section 1181 of Title 29]:
 
-“(1) Provisions in group health plans and health insurance coverage that impose certain preexisting condition exclusions impact the ability of employees to seek employment in interstate commerce, thereby impeding such commerce.
+"(1) Provisions in group health plans and health insurance coverage that impose certain preexisting condition exclusions impact the ability of employees to seek employment in interstate commerce, thereby impeding such commerce.
 
-“(2) Health insurance coverage is commercial in nature and is in and affects interstate commerce.
+"(2) Health insurance coverage is commercial in nature and is in and affects interstate commerce.
 
-“(3) It is a necessary and proper exercise of Congressional authority to impose requirements under this title on group health plans and health insurance coverage (including coverage offered to individuals previously covered under group health plans) in order to promote commerce among the States.
+"(3) It is a necessary and proper exercise of Congressional authority to impose requirements under this title on group health plans and health insurance coverage (including coverage offered to individuals previously covered under group health plans) in order to promote commerce among the States.
 
-“(4) Congress, however, intends to defer to States, to the maximum extent practicable, in carrying out such requirements with respect to insurers and health maintenance organizations that are subject to State regulation, consistent with the provisions of the Employee Retirement Income Security Act of 1974 [29 U.S.C. 1001 et seq.].
+"(4) Congress, however, intends to defer to States, to the maximum extent practicable, in carrying out such requirements with respect to insurers and health maintenance organizations that are subject to State regulation, consistent with the provisions of the Employee Retirement Income Security Act of 1974 [29 U.S.C. 1001 et seq.].
 
-“(b) Severability.—If any provision of this title or the application of such provision to any person or circumstance is held to be unconstitutional, the remainder of this title and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
+"(b) Severability.—If any provision of this title or the application of such provision to any person or circumstance is held to be unconstitutional, the remainder of this title and the application of the provisions of such to any person or circumstance shall not be affected thereby."
 
 #### Health Coverage Availability Studies ####
 

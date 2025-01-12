@@ -78,7 +78,7 @@ Within 1 year after October 17, 2000, the Secretary shall, directly or by grant 
 
 #### (m) Definitions ####
 
-In this section, the terms “early intervention”, “educational institution”, “institution of higher education”, “prevention”, “school”, and “youth” have the meanings given to those terms in section 290bb–36 of this title.
+In this section, the terms "early intervention", "educational institution", "institution of higher education", "prevention", "school", and "youth" have the meanings given to those terms in section 290bb–36 of this title.
 
 #### (n) Authorization of appropriation ####
 
@@ -92,57 +92,57 @@ Section was formerly classified to section 290bb–36 of this title prior to ren
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–355, §3(b)(1)(A), substituted “youth” for “children and adolescents” in section catchline.
+**2004**—Pub. L. 108–355, §3(b)(1)(A), substituted "youth" for "children and adolescents" in section catchline.
 
-Subsec. (a). Pub. L. 108–355, §3(b)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary shall award grants, contracts, or cooperative agreements to States, political subdivisions of States, Indian tribes, tribal organizations, public organizations, or private nonprofit organizations to establish programs to reduce suicide deaths in the United States among children and adolescents.”
+Subsec. (a). Pub. L. 108–355, §3(b)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "The Secretary shall award grants, contracts, or cooperative agreements to States, political subdivisions of States, Indian tribes, tribal organizations, public organizations, or private nonprofit organizations to establish programs to reduce suicide deaths in the United States among children and adolescents."
 
-Subsec. (b). Pub. L. 108–355, §3(b)(1)(C), substituted “with the relevant Department of Health and Human Services agencies and suicide working groups.” for “among the Substance Abuse and Mental Health Services Administration, the relevant institutes at the National Institutes of Health, the Centers for Disease Control and Prevention, the Health Resources and Services Administration, and the Administration on Children and Families.”
+Subsec. (b). Pub. L. 108–355, §3(b)(1)(C), substituted "with the relevant Department of Health and Human Services agencies and suicide working groups." for "among the Substance Abuse and Mental Health Services Administration, the relevant institutes at the National Institutes of Health, the Centers for Disease Control and Prevention, the Health Resources and Services Administration, and the Administration on Children and Families."
 
-Subsec. (c). Pub. L. 108–355, §3(b)(1)(D)(i), substituted “A public organization, private nonprofit organization, political subdivision, consortium of political subdivisions, consortium of States, or federally recognized Indian tribe or tribal organization desiring” for “A State, political subdivision of a State, Indian tribe, tribal organization, public organization, or private nonprofit organization desiring” in introductory provisions.
+Subsec. (c). Pub. L. 108–355, §3(b)(1)(D)(i), substituted "A public organization, private nonprofit organization, political subdivision, consortium of political subdivisions, consortium of States, or federally recognized Indian tribe or tribal organization desiring" for "A State, political subdivision of a State, Indian tribe, tribal organization, public organization, or private nonprofit organization desiring" in introductory provisions.
 
 Subsec. (c)(1). Pub. L. 108–355, §3(b)(1)(D)(iii), added par. (1). Former par. (1) redesignated (2).
 
-Subsec. (c)(2). Pub. L. 108–355, §3(b)(1)(D)(ii), (iv), redesignated par. (1) as (2) and substituted “youth” for “children and adolescents”. Former par. (2) redesignated (3).
+Subsec. (c)(2). Pub. L. 108–355, §3(b)(1)(D)(ii), (iv), redesignated par. (1) as (2) and substituted "youth" for "children and adolescents". Former par. (2) redesignated (3).
 
-Subsec. (c)(3). Pub. L. 108–355, §3(b)(1)(D)(ii), (v), redesignated par. (2) as (3) and struck out “best evidence-based,” after “based on”. Former par. (3) redesignated (4).
+Subsec. (c)(3). Pub. L. 108–355, §3(b)(1)(D)(ii), (v), redesignated par. (2) as (3) and struck out "best evidence-based," after "based on". Former par. (3) redesignated (4).
 
-Subsec. (c)(4). Pub. L. 108–355, §3(b)(1)(D)(ii), (vi), redesignated par. (3) as (4) and substituted “general, mental, and behavioral health services, and substance abuse services;” for “primary health care, mental health services, and substance abuse services;”. Former par. (4) redesignated (5).
+Subsec. (c)(4). Pub. L. 108–355, §3(b)(1)(D)(ii), (vi), redesignated par. (3) as (4) and substituted "general, mental, and behavioral health services, and substance abuse services;" for "primary health care, mental health services, and substance abuse services;". Former par. (4) redesignated (5).
 
-Subsec. (c)(5). Pub. L. 108–355, §3(b)(1)(D)(ii), (vii), redesignated par. (4) as (5) and substituted “youth including the school systems, educational institutions, juvenile justice system, substance abuse programs, mental health programs, foster care systems, and community child and youth support organizations;” for “children and adolescents including the educational system, juvenile justice system, welfare and child protection systems, and community youth support organizations;”. Former par. (5) redesignated (6).
+Subsec. (c)(5). Pub. L. 108–355, §3(b)(1)(D)(ii), (vii), redesignated par. (4) as (5) and substituted "youth including the school systems, educational institutions, juvenile justice system, substance abuse programs, mental health programs, foster care systems, and community child and youth support organizations;" for "children and adolescents including the educational system, juvenile justice system, welfare and child protection systems, and community youth support organizations;". Former par. (5) redesignated (6).
 
 Subsec. (c)(6), (7). Pub. L. 108–355, §3(b)(1)(D)(ii), redesignated pars. (5) and (6) as (6) and (7), respectively. Former par. (7) redesignated (8).
 
-Subsec. (c)(8). Pub. L. 108–355, §3(b)(1)(D)(viii), added par. (8) and struck out former par. (8) which read as follows: “provide linguistically appropriate and culturally competent services, as needed;”.
+Subsec. (c)(8). Pub. L. 108–355, §3(b)(1)(D)(viii), added par. (8) and struck out former par. (8) which read as follows: "provide linguistically appropriate and culturally competent services, as needed;".
 
 Pub. L. 108–355, §3(b)(1)(D)(ii), redesignated par. (7) as (8). Former par. (8) redesignated (9).
 
-Subsec. (c)(9). Pub. L. 108–355, §3(b)(1)(D)(ix), added par. (9) and struck out former par. (9) which read as follows: “provide a plan for the evaluation of outcomes and activities at the local level, according to standards established by the Secretary, and agree to participate in a national evaluation; and”.
+Subsec. (c)(9). Pub. L. 108–355, §3(b)(1)(D)(ix), added par. (9) and struck out former par. (9) which read as follows: "provide a plan for the evaluation of outcomes and activities at the local level, according to standards established by the Secretary, and agree to participate in a national evaluation; and".
 
 Pub. L. 108–355, §3(b)(1)(D)(ii), redesignated par. (8) as (9). Former par. (9) redesignated (10).
 
 Subsec. (c)(10). Pub. L. 108–355, §3(b)(1)(D)(ii), redesignated par. (9) as (10).
 
-Subsec. (d). Pub. L. 108–355, §3(b)(1)(E), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Amounts provided under grants, contracts, or cooperative agreements under subsection (a) of this section shall be used to supplement and not supplant other Federal, State, and local public funds that are expended to provide services for eligible individuals.”
+Subsec. (d). Pub. L. 108–355, §3(b)(1)(E), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: "Amounts provided under grants, contracts, or cooperative agreements under subsection (a) of this section shall be used to supplement and not supplant other Federal, State, and local public funds that are expended to provide services for eligible individuals."
 
-Subsec. (e). Pub. L. 108–355, §3(b)(1)(F), struck out “, contract,” after “grant” and inserted “application complies with the State-sponsored statewide early intervention and prevention strategy as developed under section 290bb–36 of this title and the” after “Secretary that the”.
+Subsec. (e). Pub. L. 108–355, §3(b)(1)(F), struck out ", contract," after "grant" and inserted "application complies with the State-sponsored statewide early intervention and prevention strategy as developed under section 290bb–36 of this title and the" after "Secretary that the".
 
-Subsec. (f). Pub. L. 108–355, §3(b)(1)(G), struck out “, contracts,” after “grants”.
+Subsec. (f). Pub. L. 108–355, §3(b)(1)(G), struck out ", contracts," after "grants".
 
-Subsec. (g). Pub. L. 108–355, §3(b)(1)(H), substituted “A public organization, private nonprofit organization, political subdivision, consortium of political subdivisions, consortium of States, or Federally recognized Indian tribe or tribal organization receiving” for “A State, political subdivision of a State, Indian tribe, tribal organization, public organization, or private nonprofit organization receiving” and struck out “, contract,” after “grant” in two places.
+Subsec. (g). Pub. L. 108–355, §3(b)(1)(H), substituted "A public organization, private nonprofit organization, political subdivision, consortium of political subdivisions, consortium of States, or Federally recognized Indian tribe or tribal organization receiving" for "A State, political subdivision of a State, Indian tribe, tribal organization, public organization, or private nonprofit organization receiving" and struck out ", contract," after "grant" in two places.
 
-Subsec. (h). Pub. L. 108–355, §3(b)(1)(I), struck out “, contracts,” after “grants”.
+Subsec. (h). Pub. L. 108–355, §3(b)(1)(I), struck out ", contracts," after "grants".
 
-Subsec. (i). Pub. L. 108–355, §3(b)(1)(J), substituted “A public organization, private nonprofit organization, political subdivision, consortium of political subdivisions, consortium of States, or Federally recognized Indian tribe or tribal organization receiving” for “A State, political subdivision of a State, Indian tribe, tribal organization, public organization, or private nonprofit organization receiving” and struck out “, contract,” after “grant”.
+Subsec. (i). Pub. L. 108–355, §3(b)(1)(J), substituted "A public organization, private nonprofit organization, political subdivision, consortium of political subdivisions, consortium of States, or Federally recognized Indian tribe or tribal organization receiving" for "A State, political subdivision of a State, Indian tribe, tribal organization, public organization, or private nonprofit organization receiving" and struck out ", contract," after "grant".
 
-Subsec. (k). Pub. L. 108–355, §3(b)(1)(K), substituted “3 years” for “5 years”.
+Subsec. (k). Pub. L. 108–355, §3(b)(1)(K), substituted "3 years" for "5 years".
 
-Subsec. (l)(2). Pub. L. 108–355, §3(b)(1)(L)(i), substituted “24” for “21”.
+Subsec. (l)(2). Pub. L. 108–355, §3(b)(1)(L)(i), substituted "24" for "21".
 
-Subsec. (l)(3). Pub. L. 108–355, §3(b)(1)(L)(ii), struck out “which might have been” after “profile of services”.
+Subsec. (l)(3). Pub. L. 108–355, §3(b)(1)(L)(ii), struck out "which might have been" after "profile of services".
 
 Subsec. (m). Pub. L. 108–355, §3(b)(1)(O), added subsec. (m). Former subsec. (m) redesignated (n).
 
-Pub. L. 108–355, §3(b)(1)(M), struck out par. (1) designation and heading and struck out heading and text of par. (2). Text read as follows: “In carrying out this section, the Secretary shall use 1 percent of the amount appropriated under paragraph (1) for each fiscal year for managing programs under this section.”
+Pub. L. 108–355, §3(b)(1)(M), struck out par. (1) designation and heading and struck out heading and text of par. (2). Text read as follows: "In carrying out this section, the Secretary shall use 1 percent of the amount appropriated under paragraph (1) for each fiscal year for managing programs under this section."
 
 Subsec. (n). Pub. L. 108–355, §3(b)(1)(N), redesignated subsec. (m) as (n).
 
@@ -150,54 +150,54 @@ Subsec. (n). Pub. L. 108–355, §3(b)(1)(N), redesignated subsec. (m) as (n).
 
 Pub. L. 106–386, div. B, title VI, §1602, Oct. 28, 2000, 114 Stat. 1538, provided that:
 
-“(a) Short Title.—This section may be cited as the ‘Teen Suicide Prevention Act of 2000’.
+"(a) Short Title.—This section may be cited as the 'Teen Suicide Prevention Act of 2000'.
 
-“(b) Findings.—Congress finds that—
+"(b) Findings.—Congress finds that—
 
-“(1) measures that increase public awareness of suicide as a preventable public health problem, and target parents and youth so that suicide risks and warning signs can be recognized, will help to eliminate the ignorance and stigma of suicide as barriers to youth and families seeking preventive care;
+"(1) measures that increase public awareness of suicide as a preventable public health problem, and target parents and youth so that suicide risks and warning signs can be recognized, will help to eliminate the ignorance and stigma of suicide as barriers to youth and families seeking preventive care;
 
-“(2) suicide prevention efforts in the year 2000 should—
+"(2) suicide prevention efforts in the year 2000 should—
 
-“(A) target at-risk youth, particularly youth with mental health problems, substance abuse problems, or contact with the juvenile justice system;
+"(A) target at-risk youth, particularly youth with mental health problems, substance abuse problems, or contact with the juvenile justice system;
 
-“(B) involve—
+"(B) involve—
 
-“(i) the identification of the characteristics of the at-risk youth and other youth who are contemplating suicide, and barriers to treatment of the youth; and
+"(i) the identification of the characteristics of the at-risk youth and other youth who are contemplating suicide, and barriers to treatment of the youth; and
 
-“(ii) the development of model treatment programs for the youth;
+"(ii) the development of model treatment programs for the youth;
 
-“(C) include a pilot study of the outcomes of treatment for juvenile delinquents with mental health or substance abuse problems;
+"(C) include a pilot study of the outcomes of treatment for juvenile delinquents with mental health or substance abuse problems;
 
-“(D) include a public education approach to combat the negative effects of the stigma of, and discrimination against individuals with, mental health and substance abuse problems; and
+"(D) include a public education approach to combat the negative effects of the stigma of, and discrimination against individuals with, mental health and substance abuse problems; and
 
-“(E) include a nationwide effort to develop, implement, and evaluate a mental health awareness program for schools, communities, and families;
+"(E) include a nationwide effort to develop, implement, and evaluate a mental health awareness program for schools, communities, and families;
 
-“(3) although numerous symptoms, diagnoses, traits, characteristics, and psychosocial stressors of suicide have been investigated, no single factor or set of factors has ever come close to predicting suicide with accuracy;
+"(3) although numerous symptoms, diagnoses, traits, characteristics, and psychosocial stressors of suicide have been investigated, no single factor or set of factors has ever come close to predicting suicide with accuracy;
 
-“(4) research of United States youth, such as a 1994 study by Lewinsohn, Rohde, and Seeley, has shown predictors of suicide, such as a history of suicide attempts, current suicidal ideation and depression, a recent attempt or completed suicide by a friend, and low self-esteem; and
+"(4) research of United States youth, such as a 1994 study by Lewinsohn, Rohde, and Seeley, has shown predictors of suicide, such as a history of suicide attempts, current suicidal ideation and depression, a recent attempt or completed suicide by a friend, and low self-esteem; and
 
-“(5) epidemiological data illustrate—
+"(5) epidemiological data illustrate—
 
-“(A) the trend of suicide at younger ages as well as increases in suicidal ideation among youth in the United States; and
+"(A) the trend of suicide at younger ages as well as increases in suicidal ideation among youth in the United States; and
 
-“(B) distinct differences in approaches to suicide by gender, with—
+"(B) distinct differences in approaches to suicide by gender, with—
 
-“(i) 3 to 5 times as many females as males attempting suicide; and
+"(i) 3 to 5 times as many females as males attempting suicide; and
 
-“(ii) 3 to 5 times as many males as females completing suicide.
+"(ii) 3 to 5 times as many males as females completing suicide.
 
-“(c) Purpose.—The purpose of this section is to provide for a study of predictors of suicide among at-risk and other youth, and barriers that prevent the youth from receiving treatment, to facilitate the development of model treatment programs and public education and awareness efforts.
+"(c) Purpose.—The purpose of this section is to provide for a study of predictors of suicide among at-risk and other youth, and barriers that prevent the youth from receiving treatment, to facilitate the development of model treatment programs and public education and awareness efforts.
 
-“(d) Study.—Not later than 1 year after the date of the enactment of this Act [Oct. 28, 2000], the Secretary of Health and Human Services shall carry out, directly or by grant or contract, a study that is designed to identify—
+"(d) Study.—Not later than 1 year after the date of the enactment of this Act [Oct. 28, 2000], the Secretary of Health and Human Services shall carry out, directly or by grant or contract, a study that is designed to identify—
 
-“(1) the characteristics of at-risk and other youth age 13 through 21 who are contemplating suicide;
+"(1) the characteristics of at-risk and other youth age 13 through 21 who are contemplating suicide;
 
-“(2) the characteristics of at-risk and other youth who are younger than age 13 and are contemplating suicide; and
+"(2) the characteristics of at-risk and other youth who are younger than age 13 and are contemplating suicide; and
 
-“(3) the barriers that prevent youth described in paragraphs (1) and (2) from receiving treatment.
+"(3) the barriers that prevent youth described in paragraphs (1) and (2) from receiving treatment.
 
-“(e) Authorization of Appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary.”
+"(e) Authorization of Appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary."
 
-[For definition of “youth” as used in section 1602 of Pub. L. 106–386, set out above, see section 1002 of Pub. L. 106–386, set out as a note under section 3796gg–2 of this title.]
+[For definition of "youth" as used in section 1602 of Pub. L. 106–386, set out above, see section 1002 of Pub. L. 106–386, set out as a note under section 3796gg–2 of this title.]
 
-[<sup>1</sup> So in original. Probably should be followed by “and”.](#290bb-36a_1)
+[<sup>1</sup> So in original. Probably should be followed by "and".](#290bb-36a_1)

@@ -4,9 +4,9 @@
 
 For purposes of this section:
 
-(1) The term “material” means documentary material, tangible things, written reports or answers to questions, and transcripts of oral testimony.
+(1) The term "material" means documentary material, tangible things, written reports or answers to questions, and transcripts of oral testimony.
 
-(2) The term “Federal agency” has the meaning given it in section 552(e) <sup><a href="#57b-2_1_target" name="57b-2_1">1</a></sup> of title 5.
+(2) The term "Federal agency" has the meaning given it in section 552(e) <sup><a href="#57b-2_1_target" name="57b-2_1">1</a></sup> of title 5.
 
 #### (b) Procedures respecting documents, tangible things, or transcripts of oral testimony received pursuant to compulsory process or investigation ####
 
@@ -132,23 +132,23 @@ A prior section 21 of act Sept. 26, 1914, ch. 311, was renumbered section 28 and
 
 **2012**—Pub. L. 112–203, §1, amended Pub. L. 109–455, §13. See 2006 Amendment notes below.
 
-**2006**—Subsec. (b)(6). Pub. L. 109–455, §6(a), which inserted at end “The custodian may make such material available to any foreign law enforcement agency upon the prior certification of an appropriate official of any such foreign law enforcement agency, either by a prior agreement or memorandum of understanding with the Commission or by other written certification, that such material will be maintained in confidence and will be used only for official law enforcement purposes, if—”, added subpars. (A) to (D) setting forth conditions for making materials available to foreign law enforcement agencies, and inserted concluding provisions restricting disclosure of certain antitrust materials, was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. See Termination Date of 2006 Amendment note below.
+**2006**—Subsec. (b)(6). Pub. L. 109–455, §6(a), which inserted at end "The custodian may make such material available to any foreign law enforcement agency upon the prior certification of an appropriate official of any such foreign law enforcement agency, either by a prior agreement or memorandum of understanding with the Commission or by other written certification, that such material will be maintained in confidence and will be used only for official law enforcement purposes, if—", added subpars. (A) to (D) setting forth conditions for making materials available to foreign law enforcement agencies, and inserted concluding provisions restricting disclosure of certain antitrust materials, was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. See Termination Date of 2006 Amendment note below.
 
-Subsec. (f). Pub. L. 109–455, §6(b), which inserted heading “Exemption from public disclosure” and amended text of subsec. (f) generally, was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. Prior to amendment by section 6(b), text read as follows: “Any material which is received by the Commission in any investigation, a purpose of which is to determine whether any person may have violated any provision of the laws administered by the Commission, and which is provided pursuant to any compulsory process under this subchapter or which is provided voluntarily in place of such compulsory process shall be exempt from disclosure under section 552 of title 5.” See Termination Date of 2006 Amendment note below.
+Subsec. (f). Pub. L. 109–455, §6(b), which inserted heading "Exemption from public disclosure" and amended text of subsec. (f) generally, was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. Prior to amendment by section 6(b), text read as follows: "Any material which is received by the Commission in any investigation, a purpose of which is to determine whether any person may have violated any provision of the laws administered by the Commission, and which is provided pursuant to any compulsory process under this subchapter or which is provided voluntarily in place of such compulsory process shall be exempt from disclosure under section 552 of title 5." See Termination Date of 2006 Amendment note below.
 
-**1994**—Subsec. (a)(1). Pub. L. 103–312, §8(1), inserted “tangible things,” after “documentary material,”.
+**1994**—Subsec. (a)(1). Pub. L. 103–312, §8(1), inserted "tangible things," after "documentary material,".
 
-Subsec. (b)(1). Pub. L. 103–312, §8(2), inserted “, tangible thing,” after “document”.
+Subsec. (b)(1). Pub. L. 103–312, §8(2), inserted ", tangible thing," after "document".
 
-Subsec. (b)(2)(A). Pub. L. 103–312, §8(3), inserted “tangible things,” after “documentary material,”.
+Subsec. (b)(2)(A). Pub. L. 103–312, §8(3), inserted "tangible things," after "documentary material,".
 
-Subsec. (b)(3). Pub. L. 103–312, §8(4), in subpar. (A), inserted “tangible things,” after “documentary material,”, in subpar. (B), inserted “, and may make tangible things available,” after “transcripts of oral testimony” and “, things,” after “such material”, in subpar. (C), inserted “tangible things,” after “documentary material,” and “, things,” after “material”, and in subpar. (D)(i), inserted “, tangible things,” after “documentary material”.
+Subsec. (b)(3). Pub. L. 103–312, §8(4), in subpar. (A), inserted "tangible things," after "documentary material,", in subpar. (B), inserted ", and may make tangible things available," after "transcripts of oral testimony" and ", things," after "such material", in subpar. (C), inserted "tangible things," after "documentary material," and ", things," after "material", and in subpar. (D)(i), inserted ", tangible things," after "documentary material".
 
-Subsec. (b)(4), (5). Pub. L. 103–312, §8(5), (6), inserted “tangible things,” after “documentary material,”.
+Subsec. (b)(4), (5). Pub. L. 103–312, §8(5), (6), inserted "tangible things," after "documentary material,".
 
-Subsec. (b)(6). Pub. L. 103–312, §8(7), inserted “The custodian of any tangible things may make such things available for inspection to such persons on the same basis.” after first sentence, and “results of inspections of tangible things,” after “Such documentary material,”.
+Subsec. (b)(6). Pub. L. 103–312, §8(7), inserted "The custodian of any tangible things may make such things available for inspection to such persons on the same basis." after first sentence, and "results of inspections of tangible things," after "Such documentary material,".
 
-Subsec. (b)(7). Pub. L. 103–312, §8(8), inserted “tangible things,” after “documentary material,”.
+Subsec. (b)(7). Pub. L. 103–312, §8(8), inserted "tangible things," after "documentary material,".
 
 #### Termination Date of 2006 Amendment ####
 

@@ -22,7 +22,7 @@ In this section:
 
 #### (1) Restraints ####
 
-The term “restraints” means—
+The term "restraints" means—
 
 (A) any physical restraint that is a mechanical or personal restriction that immobilizes or reduces the ability of an individual to move his or her arms, legs, or head freely, not including devices, such as orthopedically prescribed devices, surgical dressings or bandages, protective helmets, or any other methods that involves the physical holding of a resident for the purpose of conducting routine physical examinations or tests or to protect the resident from falling out of bed or to permit the resident to participate in activities without the risk of physical harm to the resident (such term does not include a physical escort); and
 
@@ -30,14 +30,14 @@ The term “restraints” means—
 
 #### (2) Seclusion ####
 
-The term “seclusion” means a behavior control technique involving locked isolation. Such term does not include a time out.
+The term "seclusion" means a behavior control technique involving locked isolation. Such term does not include a time out.
 
 #### (3) Physical escort ####
 
-The term “physical escort” means the temporary touching or holding of the hand, wrist, arm, shoulder or back for the purpose of inducing a resident who is acting out to walk to a safe location.
+The term "physical escort" means the temporary touching or holding of the hand, wrist, arm, shoulder or back for the purpose of inducing a resident who is acting out to walk to a safe location.
 
 #### (4) Time out ####
 
-The term “time out” means a behavior management technique that is part of an approved treatment program and may involve the separation of the resident from the group, in a non-locked setting, for the purpose of calming. Time out is not seclusion.
+The term "time out" means a behavior management technique that is part of an approved treatment program and may involve the separation of the resident from the group, in a non-locked setting, for the purpose of calming. Time out is not seclusion.
 
 (July 1, 1944, ch. 373, title V, §591, as added Pub. L. 106–310, div. B, title XXXII, §3207, Oct. 17, 2000, 114 Stat. 1195.)

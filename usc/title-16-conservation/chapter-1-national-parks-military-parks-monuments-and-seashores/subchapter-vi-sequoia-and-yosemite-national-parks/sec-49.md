@@ -6,4 +6,4 @@ None of the lands patented and in private ownership in the area included under s
 
 #### Codification ####
 
-“Sierra National Forest” and “national forests” substituted in text for “Sierra Forest Reserve” and for “forest reserves” and “forest reservations”, respectively, on authority of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
+"Sierra National Forest" and "national forests" substituted in text for "Sierra Forest Reserve" and for "forest reserves" and "forest reservations", respectively, on authority of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.

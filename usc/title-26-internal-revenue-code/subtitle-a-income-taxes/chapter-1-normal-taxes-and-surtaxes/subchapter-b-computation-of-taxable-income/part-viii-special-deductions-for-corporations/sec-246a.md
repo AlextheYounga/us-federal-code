@@ -22,11 +22,11 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “debt financed portfolio stock” means any portfolio stock if at some time during the base period there is portfolio indebtedness with respect to such stock.
+The term "debt financed portfolio stock" means any portfolio stock if at some time during the base period there is portfolio indebtedness with respect to such stock.
 
 #### (2) Portfolio stock ####
 
-The term “portfolio stock” means any stock of a corporation unless—
+The term "portfolio stock" means any stock of a corporation unless—
 
 (A) as of the beginning of the ex-dividend date, the taxpayer owns stock of such corporation—
 
@@ -36,7 +36,7 @@ The term “portfolio stock” means any stock of a corporation unless—
 
 (B) as of the beginning of the ex-dividend date—
 
-(i) the taxpayer owns stock of such corporation which would meet the requirements of subparagraph (A) if “20 percent” were substituted for “50 percent” each place it appears in such subparagraph, and
+(i) the taxpayer owns stock of such corporation which would meet the requirements of subparagraph (A) if "20 percent" were substituted for "50 percent" each place it appears in such subparagraph, and
 
 (ii) stock meeting the requirements of subparagraph (A) is owned by 5 or fewer corporate shareholders.
 
@@ -52,11 +52,11 @@ For purposes of subparagraph (A)—
 
 #### (i) Bank ####
 
-The term “bank” has the meaning given such term by section 581.
+The term "bank" has the meaning given such term by section 581.
 
 #### (ii) Bank holding company ####
 
-The term “bank holding company” means a bank holding company (within the meaning of section 2(a) of the Bank Holding Company Act of 1956).
+The term "bank holding company" means a bank holding company (within the meaning of section 2(a) of the Bank Holding Company Act of 1956).
 
 #### (4) Treatment of certain preferred stock ####
 
@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-Except as provided in paragraph (2), the term “average indebtedness percentage” means the percentage obtained by dividing—
+Except as provided in paragraph (2), the term "average indebtedness percentage" means the percentage obtained by dividing—
 
 (A) the average amount (determined under regulations prescribed by the Secretary) of the portfolio indebtedness with respect to the stock during the base period, by
 
@@ -82,7 +82,7 @@ In the case of any stock which was not held by the taxpayer throughout the base 
 
 #### (A) In general ####
 
-The term “portfolio indebtedness” means any indebtedness directly attributable to investment in the portfolio stock.
+The term "portfolio indebtedness" means any indebtedness directly attributable to investment in the portfolio stock.
 
 #### (B) Certain amounts received from short sale treated as indebtedness ####
 
@@ -90,7 +90,7 @@ For purposes of subparagraph (A), any amount received from a short sale shall be
 
 #### (4) Base period ####
 
-The term “base period” means, with respect to any dividend, the shorter of—
+The term "base period" means, with respect to any dividend, the shorter of—
 
 (A) the period beginning on the ex-dividend date for the most recent previous dividend on the stock and ending on the day before the ex-dividend date for the dividend involved, or
 
@@ -114,15 +114,15 @@ Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (c)
 
 #### Amendments ####
 
-**2004**—Subsec. (b)(1). Pub. L. 108–311 substituted “section 243(d)(4)” for “section 243(c)(4)”.
+**2004**—Subsec. (b)(1). Pub. L. 108–311 substituted "section 243(d)(4)" for "section 243(c)(4)".
 
-**1988**—Subsec. (a). Pub. L. 100–647 struck out at end “The preceding sentence shall be applied before any determination of a ratio under paragraph (1) or (2) of section 245(a).”
+**1988**—Subsec. (a). Pub. L. 100–647 struck out at end "The preceding sentence shall be applied before any determination of a ratio under paragraph (1) or (2) of section 245(a)."
 
-**1987**—Subsec. (a)(1). Pub. L. 100–203 substituted “70 percent (80 percent in the case of any dividend from a 20-percent owned corporation as defined in section 243(c)(2))” for “80 percent”.
+**1987**—Subsec. (a)(1). Pub. L. 100–203 substituted "70 percent (80 percent in the case of any dividend from a 20-percent owned corporation as defined in section 243(c)(2))" for "80 percent".
 
-**1986**—Subsec. (a). Pub. L. 99–514, §1804(a), substituted “or 245(a)” for “or 245” and inserted “The preceding sentence shall be applied before any determination of a ratio under paragraph (1) or (2) of section 245(a).”
+**1986**—Subsec. (a). Pub. L. 99–514, §1804(a), substituted "or 245(a)" for "or 245" and inserted "The preceding sentence shall be applied before any determination of a ratio under paragraph (1) or (2) of section 245(a)."
 
-Subsec. (a)(1). Pub. L. 99–514, §611(a)(4), substituted “80 percent” for “85 percent”.
+Subsec. (a)(1). Pub. L. 99–514, §611(a)(4), substituted "80 percent" for "85 percent".
 
 #### Effective Date of 1988 Amendment ####
 
@@ -140,7 +140,7 @@ Amendment by section 1804(a) of Pub. L. 99–514 effective, except as otherwise 
 
 #### Effective Date ####
 
-Pub. L. 98–369, div. A, title I, §51(c), July 18, 1984, 98 Stat. 564, provided that: “The amendments made by this section [enacting this section] shall apply with respect to stock the holding period for which begins after the date of the enactment of this Act [July 18, 1984] in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, §51(c), July 18, 1984, 98 Stat. 564, provided that: "The amendments made by this section [enacting this section] shall apply with respect to stock the holding period for which begins after the date of the enactment of this Act [July 18, 1984] in taxable years ending after such date."
 
 #### Plan Amendments Not Required Until January 1, 1989 ####
 

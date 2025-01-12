@@ -14,19 +14,19 @@ The first paragraph is new. It is based upon authority of *Skelly v. United Stat
 
 one who knowing a felony to have been committed by another, receives, relieves, comforts, or assists the felon in order to hinder the felon's apprehension, trial, or punishment—
 
-and cited Jones’ Blackstone, books 3 and 4, page 2204; *U.S. v. Hartwell* (Fed. Cas. No. 15,318); *Albritton v. State* (32 Fla. 358, 13 So. 955); *State v. Davis* (14 R. I. 281); *Schleeter v. Commonwealth* (218 Ky. 72, 290 S. W. 1075). (See also *State v. Potter*, 1942, 221 N. C. 153, 19 S. E. 2d 257; *Hunter v. State*, 1935, 128 Tex. Cr. R. 191, 79 S. W. 2d 855; *State v. Wells*, 1940, 195 La. 754, 197 So. 419.)
+and cited Jones' Blackstone, books 3 and 4, page 2204; *U.S. v. Hartwell* (Fed. Cas. No. 15,318); *Albritton v. State* (32 Fla. 358, 13 So. 955); *State v. Davis* (14 R. I. 281); *Schleeter v. Commonwealth* (218 Ky. 72, 290 S. W. 1075). (See also *State v. Potter*, 1942, 221 N. C. 153, 19 S. E. 2d 257; *Hunter v. State*, 1935, 128 Tex. Cr. R. 191, 79 S. W. 2d 855; *State v. Wells*, 1940, 195 La. 754, 197 So. 419.)
 
 The second paragraph is from section 551 of title 18, U.S.C., 1940 ed. Here only slight changes were made in phraseology.
 
 #### Amendments ####
 
-**1994**—Pub. L. 103–322, §330016(2)(A), inserted “(notwithstanding section 3571)” before “fined not more than one-half” in second par.
+**1994**—Pub. L. 103–322, §330016(2)(A), inserted "(notwithstanding section 3571)" before "fined not more than one-half" in second par.
 
 Pub. L. 103–322, §330011(h), amended directory language of Pub. L. 101–647, §3502. See 1990 Amendment note below.
 
-**1990**—Pub. L. 101–647, as amended by Pub. L. 103–322, §330011(h), substituted “15 years” for “ten years” in second par.
+**1990**—Pub. L. 101–647, as amended by Pub. L. 103–322, §330011(h), substituted "15 years" for "ten years" in second par.
 
-**1986**—Pub. L. 99–646 inserted “life imprisonment or” in second par.
+**1986**—Pub. L. 99–646 inserted "life imprisonment or" in second par.
 
 #### Effective Date of 1994 Amendment ####
 

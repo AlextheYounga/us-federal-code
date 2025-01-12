@@ -2,7 +2,7 @@
 
 #### (a) Indian Reorganization Act ####
 
-If the Tribe so elects, it may organize under the Act of June 18, 1934 (25 U.S.C. 461 et seq.; commonly referred to as the “Indian Reorganization Act”). The Tribe shall be subject to such Act except to the extent such sections are inconsistent with this subchapter.
+If the Tribe so elects, it may organize under the Act of June 18, 1934 (25 U.S.C. 461 et seq.; commonly referred to as the "Indian Reorganization Act"). The Tribe shall be subject to such Act except to the extent such sections are inconsistent with this subchapter.
 
 #### (b) Adoption of new tribal constitution ####
 

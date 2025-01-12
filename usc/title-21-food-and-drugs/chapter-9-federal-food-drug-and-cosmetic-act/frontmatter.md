@@ -10,11 +10,11 @@ Sec.
 
 321. Definitions; generally.
 
-321a. “Butter” defined.
+321a. "Butter" defined.
 
-321b. “Package” defined.
+321b. "Package" defined.
 
-321c. Nonfat dry milk; “milk” defined.
+321c. Nonfat dry milk; "milk" defined.
 
 321d. Market names for catfish and ginseng.
 

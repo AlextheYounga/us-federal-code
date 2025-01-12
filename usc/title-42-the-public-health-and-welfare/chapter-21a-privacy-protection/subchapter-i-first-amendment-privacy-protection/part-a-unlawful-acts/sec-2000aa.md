@@ -32,14 +32,14 @@ In the event a search warrant is sought pursuant to paragraph (4)(B) of subsecti
 
 #### Amendments ####
 
-**1996**—Subsec. (a)(1). Pub. L. 104–208, §101(a) [title I, §121[6(1)]], inserted “, or if the offense involves the production, possession, receipt, mailing, sale, distribution, shipment, or transportation of child pornography, the sexual exploitation of children, or the sale or purchase of children under section 2251, 2251A, 2252, or 2252A of title 18” before parenthesis at end.
+**1996**—Subsec. (a)(1). Pub. L. 104–208, §101(a) [title I, §121[6(1)]], inserted ", or if the offense involves the production, possession, receipt, mailing, sale, distribution, shipment, or transportation of child pornography, the sexual exploitation of children, or the sale or purchase of children under section 2251, 2251A, 2252, or 2252A of title 18" before parenthesis at end.
 
-Subsec. (b)(1). Pub. L. 104–208, §101(a) [title I, §121[6(2)]], inserted “, or if the offense involves the production, possession, receipt, mailing, sale, distribution, shipment, or transportation of child pornography, the sexual exploitation of children, or the sale or purchase of children under section 2251, 2251A, 2252, or 2252A of title 18” before parenthesis at end.
+Subsec. (b)(1). Pub. L. 104–208, §101(a) [title I, §121[6(2)]], inserted ", or if the offense involves the production, possession, receipt, mailing, sale, distribution, shipment, or transportation of child pornography, the sexual exploitation of children, or the sale or purchase of children under section 2251, 2251A, 2252, or 2252A of title 18" before parenthesis at end.
 
 #### Effective Date ####
 
-Pub. L. 96–440, title I, §108, Oct. 13, 1980, 94 Stat. 1882, provided that: “The provisions of this title [enacting this subchapter] shall become effective on January 1, 1981, except that insofar as such provisions are applicable to a State or any governmental unit other than the United States, the provisions of this title shall become effective one year from the date of enactment of this Act [Oct. 13, 1980].”
+Pub. L. 96–440, title I, §108, Oct. 13, 1980, 94 Stat. 1882, provided that: "The provisions of this title [enacting this subchapter] shall become effective on January 1, 1981, except that insofar as such provisions are applicable to a State or any governmental unit other than the United States, the provisions of this title shall become effective one year from the date of enactment of this Act [Oct. 13, 1980]."
 
 #### Short Title ####
 
-Pub. L. 96–440, §1, Oct. 13, 1980, 94 Stat. 1879, provided: “That this Act [enacting this chapter and provisions set out as notes under this section] may be cited as the ‘Privacy Protection Act of 1980’.”
+Pub. L. 96–440, §1, Oct. 13, 1980, 94 Stat. 1879, provided: "That this Act [enacting this chapter and provisions set out as notes under this section] may be cited as the 'Privacy Protection Act of 1980'."

@@ -12,7 +12,7 @@ Provisions of this section which prescribed the annual basic compensation of the
 
 #### Amendments ####
 
-**1935**—Act Aug. 23, 1935, struck out “on the recommendation of the Secretary of the Treasury” after “President”, where first appearing, and changed the salary from “$5,000 a year” to “$15,000 a year”.
+**1935**—Act Aug. 23, 1935, struck out "on the recommendation of the Secretary of the Treasury" after "President", where first appearing, and changed the salary from "$5,000 a year" to "$15,000 a year".
 
 #### Repeals ####
 

@@ -26,4 +26,4 @@ A prior section 300cc–40a, act July 1, 1944, ch. 373, title XXIII, §2352, as 
 
 #### Sense of Congress ####
 
-Pub. L. 110–293, title II, §203(a), July 30, 2008, 122 Stat. 2940, provided that: “Congress recognizes the need and urgency to expand the range of interventions for preventing the transmission of human immunodeficiency virus (HIV), including nonvaccine prevention methods that can be controlled by women.”
+Pub. L. 110–293, title II, §203(a), July 30, 2008, 122 Stat. 2940, provided that: "Congress recognizes the need and urgency to expand the range of interventions for preventing the transmission of human immunodeficiency virus (HIV), including nonvaccine prevention methods that can be controlled by women."

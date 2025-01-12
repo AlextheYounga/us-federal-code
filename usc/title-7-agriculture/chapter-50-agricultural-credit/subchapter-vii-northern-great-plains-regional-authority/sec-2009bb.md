@@ -4,11 +4,11 @@ In this subchapter:
 
 #### (1) Authority ####
 
-The term “Authority” means the Northern Great Plains Regional Authority established by section 2009bb–1 of this title.
+The term "Authority" means the Northern Great Plains Regional Authority established by section 2009bb–1 of this title.
 
 #### (2) Federal grant program ####
 
-The term “Federal grant program” means a Federal grant program to provide assistance in—
+The term "Federal grant program" means a Federal grant program to provide assistance in—
 
 (A) implementing the recommendations of the Northern Great Plains Rural Development Commission established by the Northern Great Plains Rural Development Act (7 U.S.C. 2661 note; Public Law 103–318);
 
@@ -22,11 +22,11 @@ The term “Federal grant program” means a Federal grant program to provide as
 
 #### (3) Indian tribe ####
 
-The term “Indian tribe” has the meaning given the term in section 450b of title 25.
+The term "Indian tribe" has the meaning given the term in section 450b of title 25.
 
 #### (4) Region ####
 
-The term “region” means the States of Iowa, Minnesota, Missouri (other than counties included in the Delta Regional Authority), Nebraska, North Dakota, and South Dakota.
+The term "region" means the States of Iowa, Minnesota, Missouri (other than counties included in the Delta Regional Authority), Nebraska, North Dakota, and South Dakota.
 
 (Pub. L. 87–128, title III, §383A, as added Pub. L. 107–171, title VI, §6028, May 13, 2002, 116 Stat. 375; amended Pub. L. 110–234, title VI, §6026(a), May 22, 2008, 122 Stat. 1177; Pub. L. 110–246, §4(a), title VI, §6026(a), June 18, 2008, 122 Stat. 1664, 1939.)
 
@@ -36,7 +36,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments ####
 
-**2008**—Par. (4). Pub. L. 110–246, §6026(a), inserted “Missouri (other than counties included in the Delta Regional Authority),” after “Minnesota,”.
+**2008**—Par. (4). Pub. L. 110–246, §6026(a), inserted "Missouri (other than counties included in the Delta Regional Authority)," after "Minnesota,".
 
 #### Effective Date of 2008 Amendment ####
 

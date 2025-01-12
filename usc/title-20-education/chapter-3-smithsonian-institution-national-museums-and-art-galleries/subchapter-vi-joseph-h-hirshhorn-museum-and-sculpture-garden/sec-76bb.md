@@ -14,4 +14,4 @@ The Joseph H. Hirshhorn Museum and Sculpture Garden shall be the permanent home 
 
 (Pub. L. 89–788, §2, Nov. 7, 1966, 80 Stat. 1403.)
 
-[<sup>1</sup> So in original. Probably should be followed by “the”.](#76bb_1)
+[<sup>1</sup> So in original. Probably should be followed by "the".](#76bb_1)

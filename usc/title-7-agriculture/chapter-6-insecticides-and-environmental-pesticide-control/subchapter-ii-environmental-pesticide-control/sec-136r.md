@@ -16,9 +16,9 @@ The Administrator shall undertake such monitoring activities, including, but not
 
 #### Amendments ####
 
-**1991**—Subsec. (a). Pub. L. 102–237 substituted “ensure” for “insure” and “the Administrator” for “he” before “shall conduct”.
+**1991**—Subsec. (a). Pub. L. 102–237 substituted "ensure" for "insure" and "the Administrator" for "he" before "shall conduct".
 
-**1978**—Subsec. (a). Pub. L. 95–396, §20(1), substituted in first sentence “shall conduct research into integrated pest management in coordination with the Secretary of Agriculture” for “shall give priority to research to develop biologically integrated alternatives for pest control”.
+**1978**—Subsec. (a). Pub. L. 95–396, §20(1), substituted in first sentence "shall conduct research into integrated pest management in coordination with the Secretary of Agriculture" for "shall give priority to research to develop biologically integrated alternatives for pest control".
 
 Subsec. (c). Pub. L. 95–396, §20(2), inserted provision requiring establishment of monitoring procedures and the carrying out of the activities in cooperation with other Federal, State, and local agencies.
 
@@ -28,6 +28,6 @@ For effective date of section, see section 4 of Pub. L. 92–516, set out as a n
 
 #### Availability of Grants ####
 
-Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1081, provided in part: “That notwithstanding 7 U.S.C. 136r and 15 U.S.C. 2609, beginning in fiscal year 2000 and thereafter, grants awarded under section 20 of the Federal Insecticide, Fungicide, and Rodenticide Act [7 U.S.C. 136r], as amended, and section 10 of the Toxic Substances Control Act [15 U.S.C. 2609], as amended, shall be available for research, development, monitoring, public education, training, demonstrations, and studies”.
+Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1081, provided in part: "That notwithstanding 7 U.S.C. 136r and 15 U.S.C. 2609, beginning in fiscal year 2000 and thereafter, grants awarded under section 20 of the Federal Insecticide, Fungicide, and Rodenticide Act [7 U.S.C. 136r], as amended, and section 10 of the Toxic Substances Control Act [15 U.S.C. 2609], as amended, shall be available for research, development, monitoring, public education, training, demonstrations, and studies".
 
-[<sup>1</sup> So in original. Probably should be “incidental”.](#136r_1)
+[<sup>1</sup> So in original. Probably should be "incidental".](#136r_1)

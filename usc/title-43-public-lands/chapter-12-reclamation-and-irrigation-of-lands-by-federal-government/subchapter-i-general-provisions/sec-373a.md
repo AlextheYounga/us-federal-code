@@ -22,7 +22,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Use of Private Sector ####
 
-Pub. L. 108–7, div. D, title II, §208, Feb. 20, 2003, 117 Stat. 146, provided that: “The Commissioner of the Bureau of Reclamation is directed to increase the use of the private sector in performing planning, engineering and design work for Bureau of Reclamation projects to 10 percent in fiscal year 2003, and in each subsequent year until the level of work is at least 40 percent for the planning, engineering and design work conducted by the Bureau of Reclamation.”
+Pub. L. 108–7, div. D, title II, §208, Feb. 20, 2003, 117 Stat. 146, provided that: "The Commissioner of the Bureau of Reclamation is directed to increase the use of the private sector in performing planning, engineering and design work for Bureau of Reclamation projects to 10 percent in fiscal year 2003, and in each subsequent year until the level of work is at least 40 percent for the planning, engineering and design work conducted by the Bureau of Reclamation."
 
 #### Compensation of Commissioner ####
 

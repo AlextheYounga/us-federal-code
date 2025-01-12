@@ -6,10 +6,10 @@ Transcripts of the records in the district land offices, when made and duly cert
 
 #### Codification ####
 
-The words “and receivers” which followed “registers” in the original text were omitted as superseded by acts Oct. 28, 1921, and Mar. 3, 1925, providing for consolidation of the two offices. See, also, Transfer of Functions note below.
+The words "and receivers" which followed "registers" in the original text were omitted as superseded by acts Oct. 28, 1921, and Mar. 3, 1925, providing for consolidation of the two offices. See, also, Transfer of Functions note below.
 
 #### Transfer of Functions ####
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
-Words “district land offices” substituted for “offices of registers” and “the Secretary of the Interior or such officers as he may designate” substituted for “them” on authority of section 403 of 1946 Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
+Words "district land offices" substituted for "offices of registers" and "the Secretary of the Interior or such officers as he may designate" substituted for "them" on authority of section 403 of 1946 Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.

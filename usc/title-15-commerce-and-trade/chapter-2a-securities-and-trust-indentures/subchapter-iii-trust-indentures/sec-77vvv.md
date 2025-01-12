@@ -16,7 +16,7 @@ Such Act, referred to in subsec. (a), means the Securities Act of 1933, approved
 
 #### Amendments ####
 
-**1990**—Subsec. (b). Pub. L. 101–550 inserted “or duty” after “any liability”.
+**1990**—Subsec. (b). Pub. L. 101–550 inserted "or duty" after "any liability".
 
 #### Transfer of Functions ####
 

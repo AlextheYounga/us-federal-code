@@ -30,13 +30,13 @@ Such appropriations may be expended by contract if deemed necessary, without reg
 
 #### Codification ####
 
-In subsec. (a), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments ####
 
-**1993**—Subsec. (a). Pub. L. 103–43 substituted “Appropriations to carry out the purposes of this subchapter” for “Such appropriations”.
+**1993**—Subsec. (a). Pub. L. 103–43 substituted "Appropriations to carry out the purposes of this subchapter" for "Such appropriations".
 
-**1989**—Subsec. (a). Pub. L. 101–190 designated existing provisions as subsec. (a), struck out first sentence which read as follows: “Appropriations to carry out the purposes of this subchapter shall be available for the acquisition of land or the erection of buildings only if so specified.”, and added subsec. (b).
+**1989**—Subsec. (a). Pub. L. 101–190 designated existing provisions as subsec. (a), struck out first sentence which read as follows: "Appropriations to carry out the purposes of this subchapter shall be available for the acquisition of land or the erection of buildings only if so specified.", and added subsec. (b).
 
 #### Construction of Biomedical Facilities for Development and Breeding of Specialized Strains of Mice ####
 

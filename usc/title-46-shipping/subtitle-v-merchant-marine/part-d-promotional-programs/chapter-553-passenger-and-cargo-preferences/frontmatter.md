@@ -46,4 +46,4 @@ Sec.
 
 #### Amendments ####
 
-**2013**—Pub. L. 113–67, div. A, title VI, §602(b), Dec. 26, 2013, 127 Stat. 1188, struck out items 55316 “Financing the transportation of agricultural commodities” and 55317 “Termination of subchapter”.
+**2013**—Pub. L. 113–67, div. A, title VI, §602(b), Dec. 26, 2013, 127 Stat. 1188, struck out items 55316 "Financing the transportation of agricultural commodities" and 55317 "Termination of subchapter".

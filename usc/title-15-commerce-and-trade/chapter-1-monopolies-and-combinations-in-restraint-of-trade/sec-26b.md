@@ -10,11 +10,11 @@ No court shall rely on the enactment of this section as a basis for changing the
 
 (1) any conduct, acts, practices, or agreements of persons engaging in, conducting or participating in the business of organized professional baseball relating to or affecting employment to play baseball at the minor league level, any organized professional baseball amateur or first-year player draft, or any reserve clause as applied to minor league players;
 
-(2) the agreement between organized professional major league baseball teams and the teams of the National Association of Professional Baseball Leagues, commonly known as the “Professional Baseball Agreement”, the relationship between organized professional major league baseball and organized professional minor league baseball, or any other matter relating to organized professional baseball's minor leagues;
+(2) the agreement between organized professional major league baseball teams and the teams of the National Association of Professional Baseball Leagues, commonly known as the "Professional Baseball Agreement", the relationship between organized professional major league baseball and organized professional minor league baseball, or any other matter relating to organized professional baseball's minor leagues;
 
 (3) any conduct, acts, practices, or agreements of persons engaging in, conducting or participating in the business of organized professional baseball relating to or affecting franchise expansion, location or relocation, franchise ownership issues, including ownership transfers, the relationship between the Office of the Commissioner and franchise owners, the marketing or sales of the entertainment product of organized professional baseball and the licensing of intellectual property rights owned or held by organized professional baseball teams individually or collectively;
 
-(4) any conduct, acts, practices, or agreements protected by Public Law 87–331 (15 U.S.C. § 1291 et seq.) (commonly known as the “Sports Broadcasting Act of 1961”);
+(4) any conduct, acts, practices, or agreements protected by Public Law 87–331 (15 U.S.C. § 1291 et seq.) (commonly known as the "Sports Broadcasting Act of 1961");
 
 (5) the relationship between persons in the business of organized professional baseball and umpires or other individuals who are employed in the business of organized professional baseball by such persons; or
 
@@ -34,11 +34,11 @@ Only a major league baseball player has standing to sue under this section. For 
 
 #### (d) Conduct, acts, practices, or agreements subject to antitrust laws ####
 
-(1) As used in this section, “person” means any entity, including an individual, partnership, corporation, trust or unincorporated association or any combination or association thereof. As used in this section, the National Association of Professional Baseball Leagues, its member leagues and the clubs of those leagues, are not “in the business of organized professional major league baseball”.
+(1) As used in this section, "person" means any entity, including an individual, partnership, corporation, trust or unincorporated association or any combination or association thereof. As used in this section, the National Association of Professional Baseball Leagues, its member leagues and the clubs of those leagues, are not "in the business of organized professional major league baseball".
 
 (2) In cases involving conduct, acts, practices, or agreements that directly relate to or affect both employment of major league baseball players to play baseball at the major league level and also relate to or affect any other aspect of organized professional baseball, including but not limited to employment to play baseball at the minor league level and the other areas set forth in subsection (b) of this section, only those components, portions or aspects of such conduct, acts, practices, or agreements that directly relate to or affect employment of major league players to play baseball at the major league level may be challenged under subsection (a) of this section and then only to the extent that they directly relate to or affect employment of major league baseball players to play baseball at the major league level.
 
-(3) As used in subsection (a) of this section, interpretation of the term “directly” shall not be governed by any interpretation of section 151 et seq. of title 29, United States Code (as amended).
+(3) As used in subsection (a) of this section, interpretation of the term "directly" shall not be governed by any interpretation of section 151 et seq. of title 29, United States Code (as amended).
 
 (4) Nothing in this section shall be construed to affect the application to organized professional baseball of the nonstatutory labor exemption from the antitrust laws.
 
@@ -58,4 +58,4 @@ Another section 27 of act Oct. 15, 1914, ch. 323, was renumbered section 28 and 
 
 #### Purpose ####
 
-Pub. L. 105–297, §2, Oct. 27, 1998, 112 Stat. 2824, provided that: “It is the purpose of this legislation to state that major league baseball players are covered under the antitrust laws (i.e., that major league baseball players will have the same rights under the antitrust laws as do other professional athletes, e.g., football and basketball players), along with a provision that makes it clear that the passage of this Act [enacting this section and provisions set out as a note under section 1 of this title] does not change the application of the antitrust laws in any other context or with respect to any other person or entity.”
+Pub. L. 105–297, §2, Oct. 27, 1998, 112 Stat. 2824, provided that: "It is the purpose of this legislation to state that major league baseball players are covered under the antitrust laws (i.e., that major league baseball players will have the same rights under the antitrust laws as do other professional athletes, e.g., football and basketball players), along with a provision that makes it clear that the passage of this Act [enacting this section and provisions set out as a note under section 1 of this title] does not change the application of the antitrust laws in any other context or with respect to any other person or entity."

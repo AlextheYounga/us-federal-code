@@ -26,4 +26,4 @@ The Historic Sites Act of 1935, referred to in text, which is also known as the 
 
 #### Amendments ####
 
-**2002**—Pub. L. 89–671, §14(c), as added by Pub. L. 107–219, which provided that any reference to “Wolf Trap Farm Park” shall be considered to be a reference to “Wolf Trap National Park for the Performing Arts”, was executed by substituting “Wolf Trap National Park for the Performing Arts” for “Wolf Trap Farm Park for the Performing Arts” in concluding provisions to reflect the probable intent of Congress.
+**2002**—Pub. L. 89–671, §14(c), as added by Pub. L. 107–219, which provided that any reference to "Wolf Trap Farm Park" shall be considered to be a reference to "Wolf Trap National Park for the Performing Arts", was executed by substituting "Wolf Trap National Park for the Performing Arts" for "Wolf Trap Farm Park for the Performing Arts" in concluding provisions to reflect the probable intent of Congress.

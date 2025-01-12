@@ -20,17 +20,17 @@ If such detailed plans are in conformity with the provisions of this chapter and
 
 #### Amendments ####
 
-**1998**—Subsec. (a). Pub. L. 105–220, §306(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any State desiring to receive the benefits of this chapter shall, by the agency designated to cooperate with the United States Employment Service, submit to the Secretary of Labor detailed plans for carrying out the provisions of this chapter within such State.”
+**1998**—Subsec. (a). Pub. L. 105–220, §306(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Any State desiring to receive the benefits of this chapter shall, by the agency designated to cooperate with the United States Employment Service, submit to the Secretary of Labor detailed plans for carrying out the provisions of this chapter within such State."
 
 Subsec. (b). Pub. L. 105–220, §306(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which contained certain requirements for plan preparation at State and national levels.
 
-Subsec. (c). Pub. L. 105–220, §306(2), (4), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Governor of the State shall be afforded the opportunity to review and transmit to the Secretary proposed modifications of such plans submitted.”
+Subsec. (c). Pub. L. 105–220, §306(2), (4), added subsec. (c) and struck out former subsec. (c) which read as follows: "The Governor of the State shall be afforded the opportunity to review and transmit to the Secretary proposed modifications of such plans submitted."
 
-Subsec. (d). Pub. L. 105–220, §306(5), (6), redesignated subsec. (e) as (d) and substituted “such detailed plans” for “such plans”. Former subsec. (d) redesignated (b).
+Subsec. (d). Pub. L. 105–220, §306(5), (6), redesignated subsec. (e) as (d) and substituted "such detailed plans" for "such plans". Former subsec. (d) redesignated (b).
 
 Subsec. (e). Pub. L. 105–220, §306(5), redesignated subsec. (e) as (d).
 
-**1982**—Pub. L. 97–300, §601(d)(1), substituted “Secretary of Labor” for “Director” wherever appearing.
+**1982**—Pub. L. 97–300, §601(d)(1), substituted "Secretary of Labor" for "Director" wherever appearing.
 
 Subsec. (a). Pub. L. 97–300, §601(d)(2), designated provisions relating to the submission of a plan to the Secretary by any State desiring to receive benefits under certain sections of this chapter as subsec. (a).
 

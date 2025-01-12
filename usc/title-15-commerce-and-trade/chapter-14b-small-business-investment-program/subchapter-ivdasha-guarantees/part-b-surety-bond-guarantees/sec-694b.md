@@ -96,61 +96,61 @@ For bonds made or executed with the prior approval of the Administration, the Ad
 
 #### Amendments ####
 
-**2013**—Subsec. (a)(1). Pub. L. 112–239, §1695(a), designated existing provisions as subpar. (A), substituted “does not exceed $6,500,000, as adjusted for inflation in accordance with section 1908 of title 41.” for “does not exceed $2,000,000.”, and added subpar. (B).
+**2013**—Subsec. (a)(1). Pub. L. 112–239, §1695(a), designated existing provisions as subpar. (A), substituted "does not exceed $6,500,000, as adjusted for inflation in accordance with section 1908 of title 41." for "does not exceed $2,000,000.", and added subpar. (B).
 
-Subsec. (e). Pub. L. 112–239, §1695(b)(1), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “Pursuant to any such guarantee or agreement, the Administration shall reimburse the surety, as provided in subsection (c) of this section, except that the Administration shall be relieved of all liability if—
+Subsec. (e). Pub. L. 112–239, §1695(b)(1), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: "Pursuant to any such guarantee or agreement, the Administration shall reimburse the surety, as provided in subsection (c) of this section, except that the Administration shall be relieved of all liability if—
 
-“(1) the surety obtained such guarantee or agreement, or applied for such reimbursement, by fraud or material misrepresentation,
+"(1) the surety obtained such guarantee or agreement, or applied for such reimbursement, by fraud or material misrepresentation,
 
-“(2) the total contract amount at the time of execution of the bond or bonds exceeds $2,000,000,
+"(2) the total contract amount at the time of execution of the bond or bonds exceeds $2,000,000,
 
-“(3) the surety has breached a material term or condition of such guarantee agreement, or
+"(3) the surety has breached a material term or condition of such guarantee agreement, or
 
-“(4) the surety has substantially violated the regulations promulgated by the Administration pursuant to subsection (d) of this section.”
+"(4) the surety has substantially violated the regulations promulgated by the Administration pursuant to subsection (d) of this section."
 
 Subsec. (j). Pub. L. 112–239, §1695(b)(2), added subsec. (j).
 
-**2009**—Subsec. (a)(1). Pub. L. 111–5, §508(a), (f), temporarily amended par. (1) by designating existing provisions as subpar. (A), substituting “$5,000,000” for “$2,000,000”, and adding subpar. (B) which read as follows: “The Administrator may guarantee a surety under subparagraph (A) for a total work order or contract amount that does not exceed $10,000,000, if a contracting officer of a Federal agency certifies that such a guarantee is necessary.” See Termination Date of 2009 Amendment note below.
+**2009**—Subsec. (a)(1). Pub. L. 111–5, §508(a), (f), temporarily amended par. (1) by designating existing provisions as subpar. (A), substituting "$5,000,000" for "$2,000,000", and adding subpar. (B) which read as follows: "The Administrator may guarantee a surety under subparagraph (A) for a total work order or contract amount that does not exceed $10,000,000, if a contracting officer of a Federal agency certifies that such a guarantee is necessary." See Termination Date of 2009 Amendment note below.
 
 Subsec. (e). Pub. L. 111–5, §508(b)(1), (f), temporarily added subsec. (e), the text of which read as follows:
 
-“Pursuant to any such guarantee or agreement, the Administration shall reimburse the surety, as provided in subsection (c) of this section, except that the Administration shall be relieved of liability (in whole or in part within the discretion of the Administration) if—
+"Pursuant to any such guarantee or agreement, the Administration shall reimburse the surety, as provided in subsection (c) of this section, except that the Administration shall be relieved of liability (in whole or in part within the discretion of the Administration) if—
 
-“(1) the surety obtained such guarantee or agreement, or applied for such reinbursement, by fraud or material misrepresentation,
+"(1) the surety obtained such guarantee or agreement, or applied for such reinbursement, by fraud or material misrepresentation,
 
-“(2) the total contract amount at the time of execution of the bond or bonds exceeds $5,000,000,
+"(2) the total contract amount at the time of execution of the bond or bonds exceeds $5,000,000,
 
-“(3) the surety has breached a material term or condition of such guarantee agreement, or
+"(3) the surety has breached a material term or condition of such guarantee agreement, or
 
-“(4) the surety has substantially violated the regulations promulgated by the Administration pursuant to subsection (d).”
+"(4) the surety has substantially violated the regulations promulgated by the Administration pursuant to subsection (d)."
 
 See Termination Date of 2009 Amendment note below.
 
-Subsec. (k). Pub. L. 111–5, §508(b)(2), (f), temporarily added subsec. (k) which read as follows: “For bonds made or executed with the prior approval of the Administration, the Administration shall not deny liability to a surety based upon material information that was provided as part of the guaranty application.” See Termination Date of 2009 Amendment note below.
+Subsec. (k). Pub. L. 111–5, §508(b)(2), (f), temporarily added subsec. (k) which read as follows: "For bonds made or executed with the prior approval of the Administration, the Administration shall not deny liability to a surety based upon material information that was provided as part of the guaranty application." See Termination Date of 2009 Amendment note below.
 
-**2004**—Subsec. (a)(1). Pub. L. 108–447, §203(a), substituted “total work order or contract amount at the time of bond execution that does not exceed” for “contract up to”.
+**2004**—Subsec. (a)(1). Pub. L. 108–447, §203(a), substituted "total work order or contract amount at the time of bond execution that does not exceed" for "contract up to".
 
-Subsec. (g)(3). Pub. L. 108–447, §203(b), substituted “every three years” for “each year”.
+Subsec. (g)(3). Pub. L. 108–447, §203(b), substituted "every three years" for "each year".
 
-**2000**—Subsecs. (a)(1), (e)(2). Pub. L. 106–554 substituted “$2,000,000” for “$1,250,000”.
+**2000**—Subsecs. (a)(1), (e)(2). Pub. L. 106–554 substituted "$2,000,000" for "$1,250,000".
 
-**1997**—Subsec. (c)(3)(B). Pub. L. 105–135 inserted “, or to a qualified HUBZone small business concern (as defined in section 632(p) of this title)” before semicolon.
+**1997**—Subsec. (c)(3)(B). Pub. L. 105–135 inserted ", or to a qualified HUBZone small business concern (as defined in section 632(p) of this title)" before semicolon.
 
 **1996**—Subsec. (a)(5). Pub. L. 104–208 added par. (5).
 
 **1988**—Subsec. (a). Pub. L. 100–590, §202, amended subsec. (a) generally, substituting pars. (1) to (4) for former pars. (1) to (6).
 
-Subsec. (b). Pub. L. 100–590, §203(c), added par. (2), redesignated former par. (2) as (3), struck out former par. (3) which prohibited the making subsequent to two years after Oct. 24, 1978, of new agreements to indemnify, and inserted concluding provision: “In no event shall the Administration pay a surety pursuant to this subsection an amount exceeding the guaranteed share of the bond available to such surety pursuant to subsection (a) of this section.”
+Subsec. (b). Pub. L. 100–590, §203(c), added par. (2), redesignated former par. (2) as (3), struck out former par. (3) which prohibited the making subsequent to two years after Oct. 24, 1978, of new agreements to indemnify, and inserted concluding provision: "In no event shall the Administration pay a surety pursuant to this subsection an amount exceeding the guaranteed share of the bond available to such surety pursuant to subsection (a) of this section."
 
-Subsec. (c). Pub. L. 100–590, §203(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Any guarantee or agreement to indemnify under this section shall obligate the Administration to pay to the surety a sum not to exceed (1) in the case of a breach of contract, 90 percent of the loss incurred and paid by the surety as the result of the breach; or (2) in a case in which subsection (b) of this section applies, the amount determined under subsection (b) of this section.”
+Subsec. (c). Pub. L. 100–590, §203(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Any guarantee or agreement to indemnify under this section shall obligate the Administration to pay to the surety a sum not to exceed (1) in the case of a breach of contract, 90 percent of the loss incurred and paid by the surety as the result of the breach; or (2) in a case in which subsection (b) of this section applies, the amount determined under subsection (b) of this section."
 
 Subsec. (e)(3), (4). Pub. L. 100–590, §203(c), added pars. (3) and (4).
 
-Subsec. (g). Pub. L. 100–590, §204, amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The Administration may at all reasonable times audit in the offices of a participating surety all documents, files, books, records, and other material relevant to the Administration's guarantee, commitments to guarantee, or agreements to indemnify any surety pursuant to this section.”
+Subsec. (g). Pub. L. 100–590, §204, amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "The Administration may at all reasonable times audit in the offices of a participating surety all documents, files, books, records, and other material relevant to the Administration's guarantee, commitments to guarantee, or agreements to indemnify any surety pursuant to this section."
 
-**1986**—Subsecs. (a), (e)(2). Pub. L. 99–272 substituted “$1,250,000” for “$1,000,000”.
+**1986**—Subsecs. (a), (e)(2). Pub. L. 99–272 substituted "$1,250,000" for "$1,000,000".
 
-**1980**—Subsec. (c). Pub. L. 96–302 struck out “to or on behalf of the obligee, or to labor and materialmen, in fulfilling the terms of the contract” after “paid by the surety” in cl. (1).
+**1980**—Subsec. (c). Pub. L. 96–302 struck out "to or on behalf of the obligee, or to labor and materialmen, in fulfilling the terms of the contract" after "paid by the surety" in cl. (1).
 
 **1978**—Subsec. (a). Pub. L. 95–507 amended subsec. (a) generally, striking out requirement that the Administration consult with the Secretary of Housing and Urban Development, and inserting authority to vary the terms and conditions of guarantees on the basis of experience with a particular surety and authority to guarantee bonds ancillary and conterminous with the other named bonds.
 
@@ -162,7 +162,7 @@ Subsec. (d). Pub. L. 95–507 substituted provisions relating to regulations for
 
 Subsecs. (e) to (i). Pub. L. 95–507 added subsecs. (e) to (i).
 
-**1974**—Subsec. (a). Pub. L. 93–386, §6(a)(3), substituted “$1,000,000” for “$500,000”.
+**1974**—Subsec. (a). Pub. L. 93–386, §6(a)(3), substituted "$1,000,000" for "$500,000".
 
 Subsec. (c). Pub. L. 93–386, §11, inserted provisions relating to the administration of the program on a prudent and economically justifiable basis and provisions requiring the Administration to publish the cost of the program to the Administration, to conduct a study of the program in order to determine what must be done to make the program economically sound, and to transmit a report to Congress of the findings, conclusions, and recommendations of the study.
 
@@ -176,13 +176,13 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 #### Effective Date of 1996 Amendment ####
 
-Pub. L. 104–208, div. D, title II, §206(b), Sept. 30, 1996, 110 Stat. 3009–739, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to applications received (or pending substantive evaluation) on or after October 1, 1995.”
+Pub. L. 104–208, div. D, title II, §206(b), Sept. 30, 1996, 110 Stat. 3009–739, provided that: "The amendments made by subsection (a) [amending this section] shall apply with respect to applications received (or pending substantive evaluation) on or after October 1, 1995."
 
 #### Effective and Termination Dates of 1988 Amendment ####
 
 Pub. L. 100–590, title II, §207, Nov. 3, 1988, 102 Stat. 3009, as amended by Pub. L. 101–574, title II, §216(a), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 103–403, title III, §302, Oct. 22, 1994, 108 Stat. 4188; Pub. L. 104–36, §7, Oct. 12, 1995, 109 Stat. 297; Pub. L. 105–135, title V, §503, Dec. 2, 1997, 111 Stat. 2624; Pub. L. 106–554, §1(a)(9) [title VIII, §805(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–706, which provided that the provisions contained in section 694b(a)(3) of this title would cease to be effective after Sept. 30, 2003, was repealed by Pub. L. 108–447, div. K, title II, §203(c), Dec. 8, 2004, 118 Stat. 3466.
 
-Pub. L. 100–590, title II, §209, Nov. 3, 1988, 102 Stat. 3010, provided that: “Except as otherwise provided in this title, the provisions of this title [amending this section and section 694c of this title and enacting provisions set out as notes under this section], shall become effective upon expiration of one hundred and eighty days after the date of its enactment [Nov. 3, 1988].”
+Pub. L. 100–590, title II, §209, Nov. 3, 1988, 102 Stat. 3010, provided that: "Except as otherwise provided in this title, the provisions of this title [amending this section and section 694c of this title and enacting provisions set out as notes under this section], shall become effective upon expiration of one hundred and eighty days after the date of its enactment [Nov. 3, 1988]."
 
 #### Effective Date of 1980 Amendment ####
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 96–302 effective Oct. 1, 1980, see section 507 of Pub. L.
 
 #### Regulations ####
 
-Pub. L. 100–590, title II, §205, Nov. 3, 1988, 102 Stat. 3009, provided that: “The Administration shall promulgate final regulations to implement the amendments made by this title [amending this section and section 694c of this title] not later than one hundred and eighty days after the date of the enactment of this Act [Nov. 3, 1988].”
+Pub. L. 100–590, title II, §205, Nov. 3, 1988, 102 Stat. 3009, provided that: "The Administration shall promulgate final regulations to implement the amendments made by this title [amending this section and section 694c of this title] not later than one hundred and eighty days after the date of the enactment of this Act [Nov. 3, 1988]."
 
 #### Small Business Access to Surety Bonding Survey ####
 

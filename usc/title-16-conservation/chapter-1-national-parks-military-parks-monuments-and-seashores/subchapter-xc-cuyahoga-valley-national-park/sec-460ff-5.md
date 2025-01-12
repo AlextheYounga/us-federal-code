@@ -26,22 +26,22 @@ A prior section 5 of Pub. L. 93–555 was classified to section 460ff–4 of thi
 
 #### Amendments ####
 
-**2000**—Subsec. (b). Pub. L. 106–291, §149(c)(2), substituted “park” for “recreation area” wherever appearing in introductory provisions.
+**2000**—Subsec. (b). Pub. L. 106–291, §149(c)(2), substituted "park" for "recreation area" wherever appearing in introductory provisions.
 
 **1986**—Subsec. (c). Pub. L. 99–658 added subsec. (c).
 
 **1978**—Subsec. (a). Pub. L. 95–625, §315(b), increased appropriations authorization to $70,100,000 from $41,100,000.
 
-Subsec. (b). Pub. L. 95–625, §315(c), substituted “For the development of the recreation area, including improvements of properties acquired for purposes of this subchapter, there is authorized to be appropriated not more than $13,000,000” for “For the development of essential public facilities there are authorized to be appropriated not more than $500,000”.
+Subsec. (b). Pub. L. 95–625, §315(c), substituted "For the development of the recreation area, including improvements of properties acquired for purposes of this subchapter, there is authorized to be appropriated not more than $13,000,000" for "For the development of essential public facilities there are authorized to be appropriated not more than $500,000".
 
-**1976**—Subsec. (a). Pub. L. 94–578 substituted “$41,100,000” for “$34,500,000”.
+**1976**—Subsec. (a). Pub. L. 94–578 substituted "$41,100,000" for "$34,500,000".
 
 #### Change of Name ####
 
-Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
+Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977.
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
 #### Expenditure of Funds To Commence October 1, 1977 ####
 
-Pub. L. 94–578, title III, §323(c), Oct. 21, 1976, 90 Stat. 2742, provided that: “No funds authorized by this section [amending sections 460ff–1(a) and 460ff–5 of this title] in excess of those sums previously authorized by the Act of December 27, 1974, [this section as originally enacted], shall be available for expenditure before October 1, 1977.”
+Pub. L. 94–578, title III, §323(c), Oct. 21, 1976, 90 Stat. 2742, provided that: "No funds authorized by this section [amending sections 460ff–1(a) and 460ff–5 of this title] in excess of those sums previously authorized by the Act of December 27, 1974, [this section as originally enacted], shall be available for expenditure before October 1, 1977."

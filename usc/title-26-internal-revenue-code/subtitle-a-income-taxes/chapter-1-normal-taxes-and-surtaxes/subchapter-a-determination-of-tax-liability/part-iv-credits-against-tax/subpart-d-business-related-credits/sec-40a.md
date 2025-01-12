@@ -22,7 +22,7 @@ The biodiesel mixture credit of any taxpayer for any taxable year is $1.00 for e
 
 #### (B) Qualified biodiesel mixture ####
 
-The term “qualified biodiesel mixture” means a mixture of biodiesel and diesel fuel (as defined in section 4083(a)(3)), determined without regard to any use of kerosene, which—
+The term "qualified biodiesel mixture" means a mixture of biodiesel and diesel fuel (as defined in section 4083(a)(3)), determined without regard to any use of kerosene, which—
 
 (i) is sold by the taxpayer producing such mixture to any person for use as a fuel, or
 
@@ -66,7 +66,7 @@ The small agri-biodiesel producer credit of any eligible small agri-biodiesel pr
 
 #### (B) Qualified agri-biodiesel production ####
 
-For purposes of this paragraph, the term “qualified agri-biodiesel production” means any agri-biodiesel which is produced by an eligible small agri-biodiesel producer, and which during the taxable year—
+For purposes of this paragraph, the term "qualified agri-biodiesel production" means any agri-biodiesel which is produced by an eligible small agri-biodiesel producer, and which during the taxable year—
 
 (i) is sold by such producer to another person—
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### (1) Biodiesel ####
 
-The term “biodiesel” means the monoalkyl esters of long chain fatty acids derived from plant or animal matter which meet—
+The term "biodiesel" means the monoalkyl esters of long chain fatty acids derived from plant or animal matter which meet—
 
 (A) the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 211 of the Clean Air Act (42 U.S.C. 7545), and
 
@@ -102,7 +102,7 @@ Such term shall not include any liquid with respect to which a credit may be det
 
 #### (2) Agri-biodiesel ####
 
-The term “agri-biodiesel” means biodiesel derived solely from virgin oils, including esters derived from virgin vegetable oils from corn, soybeans, sunflower seeds, cottonseeds, canola, crambe, rapeseeds, safflowers, flaxseeds, rice bran, mustard seeds, and camelina, and from animal fats.
+The term "agri-biodiesel" means biodiesel derived solely from virgin oils, including esters derived from virgin vegetable oils from corn, soybeans, sunflower seeds, cottonseeds, canola, crambe, rapeseeds, safflowers, flaxseeds, rice bran, mustard seeds, and camelina, and from animal fats.
 
 #### (3) Mixture or biodiesel not used as a fuel, etc. ####
 
@@ -150,7 +150,7 @@ Under regulations prescribed by the Secretary, rules similar to the rules of sub
 
 #### (5) Limitation to biodiesel with connection to the United States ####
 
-No credit shall be determined under this section with respect to any biodiesel which is produced outside the United States for use as a fuel outside the United States. For purposes of this paragraph, the term “United States” includes any possession of the United States.
+No credit shall be determined under this section with respect to any biodiesel which is produced outside the United States for use as a fuel outside the United States. For purposes of this paragraph, the term "United States" includes any possession of the United States.
 
 #### (e) Definitions and special rules for small agri-biodiesel producer credit ####
 
@@ -158,7 +158,7 @@ For purposes of this section—
 
 #### (1) Eligible small agri-biodiesel producer ####
 
-The term “eligible small agri-biodiesel producer” means a person who, at all times during the taxable year, has a productive capacity for agri-biodiesel not in excess of 60,000,000 gallons.
+The term "eligible small agri-biodiesel producer" means a person who, at all times during the taxable year, has a productive capacity for agri-biodiesel not in excess of 60,000,000 gallons.
 
 #### (2) Aggregation rule ####
 
@@ -226,19 +226,19 @@ Subsection (b)(4) shall not apply with respect to renewable diesel.
 
 #### (3) Renewable diesel defined ####
 
-The term “renewable diesel” means liquid fuel derived from biomass which meets—
+The term "renewable diesel" means liquid fuel derived from biomass which meets—
 
 (A) the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 211 of the Clean Air Act (42 U.S.C. 7545), and
 
 (B) the requirements of the American Society of Testing and Materials D975 or D396, or other equivalent standard approved by the Secretary.
 
-Such term shall not include any liquid with respect to which a credit may be determined under section 40. Such term does not include any fuel derived from coprocessing biomass with a feedstock which is not biomass. For purposes of this paragraph, the term “biomass” has the meaning given such term by section 45K(c)(3).
+Such term shall not include any liquid with respect to which a credit may be determined under section 40. Such term does not include any fuel derived from coprocessing biomass with a feedstock which is not biomass. For purposes of this paragraph, the term "biomass" has the meaning given such term by section 45K(c)(3).
 
 #### (4) Certain aviation fuel ####
 
 #### (A) In general ####
 
-Except as provided in the last 3 sentences of paragraph (3), the term “renewable diesel” shall include fuel derived from biomass which meets the requirements of a Department of Defense specification for military jet fuel or an American Society of Testing and Materials specification for aviation turbine fuel.
+Except as provided in the last 3 sentences of paragraph (3), the term "renewable diesel" shall include fuel derived from biomass which meets the requirements of a Department of Defense specification for military jet fuel or an American Society of Testing and Materials specification for aviation turbine fuel.
 
 #### (B) Application of mixture credits ####
 
@@ -256,63 +256,63 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments ####
 
-**2013**—Subsec. (g). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”.
+**2013**—Subsec. (g). Pub. L. 112–240 substituted "December 31, 2013" for "December 31, 2011".
 
-**2010**—Subsec. (g). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
+**2010**—Subsec. (g). Pub. L. 111–312 substituted "December 31, 2011" for "December 31, 2009".
 
-**2008**—Subsec. (b)(1)(A), (2)(A). Pub. L. 110–343, §202(b)(1), substituted “$1.00” for “50 cents”.
+**2008**—Subsec. (b)(1)(A), (2)(A). Pub. L. 110–343, §202(b)(1), substituted "$1.00" for "50 cents".
 
-Subsec. (b)(3) to (5). Pub. L. 110–343, §202(b)(3)(A), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out heading and text of former par. (3). Text read as follows: “In the case of any biodiesel which is agri-biodiesel, paragraphs (1)(A) and (2)(A) shall be applied by substituting ‘$1.00’ for ‘50 cents’.”
+Subsec. (b)(3) to (5). Pub. L. 110–343, §202(b)(3)(A), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out heading and text of former par. (3). Text read as follows: "In the case of any biodiesel which is agri-biodiesel, paragraphs (1)(A) and (2)(A) shall be applied by substituting '$1.00' for '50 cents'."
 
 Subsec. (d)(1). Pub. L. 110–246, §15321(f)(1), inserted concluding provisions.
 
-Subsec. (d)(2). Pub. L. 110–343, §202(f), substituted “mustard seeds, and camelina” for “and mustard seeds”.
+Subsec. (d)(2). Pub. L. 110–343, §202(f), substituted "mustard seeds, and camelina" for "and mustard seeds".
 
-Subsec. (d)(3)(C)(ii). Pub. L. 110–343, §202(b)(3)(D), substituted “subsection (b)(4)(B)” for “subsection (b)(5)(B)”.
+Subsec. (d)(3)(C)(ii). Pub. L. 110–343, §202(b)(3)(D), substituted "subsection (b)(4)(B)" for "subsection (b)(5)(B)".
 
 Subsec. (d)(5). Pub. L. 110–343, §203(b), added par. (5).
 
-Subsec. (e)(2), (3). Pub. L. 110–343, §202(b)(3)(C), substituted “subsection (b)(4)(C)” for “subsection (b)(5)(C)”.
+Subsec. (e)(2), (3). Pub. L. 110–343, §202(b)(3)(C), substituted "subsection (b)(4)(C)" for "subsection (b)(5)(C)".
 
 Subsec. (f)(2). Pub. L. 110–343, §202(b)(3)(B), amended heading and text of par. (2) generally. Prior to amendment, text read as follows:
 
-“(A) Rate of credit.—Subsections (b)(1)(A) and (b)(2)(A) shall be applied with respect to renewable diesel by substituting ‘$1.00’ for ‘50 cents’.
+"(A) Rate of credit.—Subsections (b)(1)(A) and (b)(2)(A) shall be applied with respect to renewable diesel by substituting '$1.00' for '50 cents'.
 
-“(B) Nonapplication of certain credits.—Subsections (b)(3) and (b)(5) shall not apply with respect to renewable diesel.”
+"(B) Nonapplication of certain credits.—Subsections (b)(3) and (b)(5) shall not apply with respect to renewable diesel."
 
-Subsec. (f)(3). Pub. L. 110–343, §202(d), in introductory provisions, struck out “(as defined in section 45K(c)(3))” after “derived from biomass” and, in concluding provisions, inserted at end “Such term does not include any fuel derived from coprocessing biomass with a feedstock which is not biomass. For purposes of this paragraph, the term ‘biomass’ has the meaning given such term by section 45K(c)(3).”
+Subsec. (f)(3). Pub. L. 110–343, §202(d), in introductory provisions, struck out "(as defined in section 45K(c)(3))" after "derived from biomass" and, in concluding provisions, inserted at end "Such term does not include any fuel derived from coprocessing biomass with a feedstock which is not biomass. For purposes of this paragraph, the term 'biomass' has the meaning given such term by section 45K(c)(3)."
 
-Pub. L. 110–343, §202(c)(1), (2), in introductory provisions, substituted “liquid fuel” for “diesel fuel” and struck out “using a thermal depolymerization process” before “which meets—”.
+Pub. L. 110–343, §202(c)(1), (2), in introductory provisions, substituted "liquid fuel" for "diesel fuel" and struck out "using a thermal depolymerization process" before "which meets—".
 
 Pub. L. 110–246, §15321(f)(2), inserted concluding provisions.
 
-Subsec. (f)(3)(B). Pub. L. 110–343, §202(c)(3), inserted “, or other equivalent standard approved by the Secretary” before period at end.
+Subsec. (f)(3)(B). Pub. L. 110–343, §202(c)(3), inserted ", or other equivalent standard approved by the Secretary" before period at end.
 
 Subsec. (f)(4). Pub. L. 110–343, §202(e), added par. (4).
 
-Subsec. (g). Pub. L. 110–343, §202(a), substituted “December 31, 2009” for “December 31, 2008”.
+Subsec. (g). Pub. L. 110–343, §202(a), substituted "December 31, 2009" for "December 31, 2008".
 
-**2005**—Pub. L. 109–58, §1346(b)(1), inserted “and renewable diesel” after “Biodiesel” in section catchline.
+**2005**—Pub. L. 109–58, §1346(b)(1), inserted "and renewable diesel" after "Biodiesel" in section catchline.
 
-Subsec. (a). Pub. L. 109–58, §1345(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “For purposes of section 38, the biodiesel fuels credit determined under this section for the taxable year is an amount equal to the sum of—
+Subsec. (a). Pub. L. 109–58, §1345(a), reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: "For purposes of section 38, the biodiesel fuels credit determined under this section for the taxable year is an amount equal to the sum of—
 
-“(1) the biodiesel mixture credit, plus
+"(1) the biodiesel mixture credit, plus
 
-“(2) the biodiesel credit.”
+"(2) the biodiesel credit."
 
-Subsec. (b). Pub. L. 109–58, §1345(d)(2), substituted “, biodiesel credit, and small agri-biodiesel producer credit” for “and biodiesel credit” in heading.
+Subsec. (b). Pub. L. 109–58, §1345(d)(2), substituted ", biodiesel credit, and small agri-biodiesel producer credit" for "and biodiesel credit" in heading.
 
-Subsec. (b)(4). Pub. L. 109–58, §1345(d)(1), substituted “paragraph (1) or (2) of subsection (a)” for “this section”.
+Subsec. (b)(4). Pub. L. 109–58, §1345(d)(1), substituted "paragraph (1) or (2) of subsection (a)" for "this section".
 
 Subsec. (b)(5). Pub. L. 109–58, §1345(b), added par. (5).
 
-Subsec. (b)(5)(B). Pub. L. 109–135 struck out “(determined without regard to the last sentence of subsection (d)(2))” after “any agri-biodiesel” in introductory provisions.
+Subsec. (b)(5)(B). Pub. L. 109–135 struck out "(determined without regard to the last sentence of subsection (d)(2))" after "any agri-biodiesel" in introductory provisions.
 
-Subsec. (d)(3)(C), (D). Pub. L. 109–58, §1345(d)(3), added subpar. (C) and redesignated former subpar. (C) as (D). The words following “subsection (b)(5)(B),” in subpar. (C) are shown as a flush provision notwithstanding directory language showing them as part of cl. (ii), to reflect the probable intent of Congress.
+Subsec. (d)(3)(C), (D). Pub. L. 109–58, §1345(d)(3), added subpar. (C) and redesignated former subpar. (C) as (D). The words following "subsection (b)(5)(B)," in subpar. (C) are shown as a flush provision notwithstanding directory language showing them as part of cl. (ii), to reflect the probable intent of Congress.
 
-Subsec. (e). Pub. L. 109–58, §1345(c), added subsec. (e). The words following “subparagraph (A) for the taxable year,” in subsec. (e)(6)(B)(iii) are shown as a flush provision notwithstanding directory language showing them as part of subcl. (II), to reflect the probable intent of Congress. Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 109–58, §1345(c), added subsec. (e). The words following "subparagraph (A) for the taxable year," in subsec. (e)(6)(B)(iii) are shown as a flush provision notwithstanding directory language showing them as part of subcl. (II), to reflect the probable intent of Congress. Former subsec. (e) redesignated (f).
 
-Pub. L. 109–58, §1344(a), substituted “2008” for “2006”.
+Pub. L. 109–58, §1344(a), substituted "2008" for "2006".
 
 Subsec. (f). Pub. L. 109–58, §1346(a), added subsec. (f). Former subsec. (f) redesignated (g).
 
@@ -322,19 +322,19 @@ Subsec. (g). Pub. L. 109–58, §1346(a), redesignated subsec. (f) as (g).
 
 #### Effective Date of 2013 Amendment ####
 
-Pub. L. 112–240, title IV, §405(c), Jan. 2, 2013, 126 Stat. 2340, provided that: “The amendments made by this section [amending this section and sections 6426 and 6427 of this title] shall apply to fuel sold or used after December 31, 2011.”
+Pub. L. 112–240, title IV, §405(c), Jan. 2, 2013, 126 Stat. 2340, provided that: "The amendments made by this section [amending this section and sections 6426 and 6427 of this title] shall apply to fuel sold or used after December 31, 2011."
 
 #### Effective Date of 2010 Amendment ####
 
-Pub. L. 111–312, title VII, §701(d), Dec. 17, 2010, 124 Stat. 3310, provided that: “The amendments made by this section [amending this section and sections 6426 and 6427 of this title] shall apply to fuel sold or used after December 31, 2009.”
+Pub. L. 111–312, title VII, §701(d), Dec. 17, 2010, 124 Stat. 3310, provided that: "The amendments made by this section [amending this section and sections 6426 and 6427 of this title] shall apply to fuel sold or used after December 31, 2009."
 
 #### Effective Date of 2008 Amendment ####
 
 Pub. L. 110–343, div. B, title II, §202(g), Oct. 3, 2008, 122 Stat. 3833, provided that:
 
-“(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [amending this section and sections 6426 and 6427 of this title] shall apply to fuel produced, and sold or used, after December 31, 2008.
+"(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [amending this section and sections 6426 and 6427 of this title] shall apply to fuel produced, and sold or used, after December 31, 2008.
 
-“(2) Coproduction of renewable diesel with petroleum feedstock.—The amendment made by subsection (d) [amending this section] shall apply to fuel produced, and sold or used, after the date of the enactment of this Act [Oct. 3, 2008].”
+"(2) Coproduction of renewable diesel with petroleum feedstock.—The amendment made by subsection (d) [amending this section] shall apply to fuel produced, and sold or used, after the date of the enactment of this Act [Oct. 3, 2008]."
 
 Amendment by section 203(b) of Pub. L. 110–343 applicable to claims for credit or payment made on or after May 15, 2008, see section 203(d) of Pub. L. 110–343, set out as a note under section 40 of this title.
 
@@ -344,11 +344,11 @@ Amendment by section 15321(f) of Pub. L. 110–246 applicable to fuel produced a
 
 #### Effective Date of 2005 Amendment ####
 
-Pub. L. 109–58, title XIII, §1344(b), Aug. 8, 2005, 119 Stat. 1052, provided that: “The amendments made by this section [amending this section and sections 6426 and 6427 of this title] shall take effect on the date of the enactment of this Act [Aug. 8, 2005].”
+Pub. L. 109–58, title XIII, §1344(b), Aug. 8, 2005, 119 Stat. 1052, provided that: "The amendments made by this section [amending this section and sections 6426 and 6427 of this title] shall take effect on the date of the enactment of this Act [Aug. 8, 2005]."
 
-Pub. L. 109–58, title XIII, §1345(e), Aug. 8, 2005, 119 Stat. 1055, provided that: “The amendments made by this section [amending this section] shall apply to taxable years ending after the date of the enactment of this Act [Aug. 8, 2005].”
+Pub. L. 109–58, title XIII, §1345(e), Aug. 8, 2005, 119 Stat. 1055, provided that: "The amendments made by this section [amending this section] shall apply to taxable years ending after the date of the enactment of this Act [Aug. 8, 2005]."
 
-Pub. L. 109–58, title XIII, §1346(c), Aug. 8, 2005, 119 Stat. 1056, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fuel sold or used after December 31, 2005.”
+Pub. L. 109–58, title XIII, §1346(c), Aug. 8, 2005, 119 Stat. 1056, provided that: "The amendment made by subsection (a) [amending this section] shall apply with respect to fuel sold or used after December 31, 2005."
 
 #### Effective Date ####
 

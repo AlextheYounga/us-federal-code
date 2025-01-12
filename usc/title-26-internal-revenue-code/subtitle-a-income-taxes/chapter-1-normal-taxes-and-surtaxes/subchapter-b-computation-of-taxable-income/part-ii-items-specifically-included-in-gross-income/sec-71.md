@@ -10,7 +10,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “alimony or separate maintenance payment” means any payment in cash if—
+The term "alimony or separate maintenance payment" means any payment in cash if—
 
 (A) such payment is received by (or on behalf of) a spouse under a divorce or separation instrument,
 
@@ -22,7 +22,7 @@ The term “alimony or separate maintenance payment” means any payment in cash
 
 #### (2) Divorce or separation instrument ####
 
-The term “divorce or separation instrument” means—
+The term "divorce or separation instrument" means—
 
 (A) a decree of divorce or separate maintenance or a written instrument incident to such a decree,
 
@@ -52,7 +52,7 @@ For purposes of this subsection, if any payment is less than the amount specifie
 
 #### (d) Spouse ####
 
-For purposes of this section, the term “spouse” includes a former spouse.
+For purposes of this section, the term "spouse" includes a former spouse.
 
 #### (e) Exception for joint returns ####
 
@@ -70,7 +70,7 @@ If there are excess alimony payments—
 
 #### (2) Excess alimony payments ####
 
-For purposes of this subsection, the term “excess alimony payments” mean the sum of—
+For purposes of this subsection, the term "excess alimony payments" mean the sum of—
 
 (A) the excess payments for the 1st post-separation year, and
 
@@ -116,15 +116,15 @@ Paragraph (1) shall not apply if—
 
 #### (B) Support payments ####
 
-For purposes of this subsection, the term “alimony or separate maintenance payment” shall not include any payment received under a decree described in subsection (b)(2)(C).
+For purposes of this subsection, the term "alimony or separate maintenance payment" shall not include any payment received under a decree described in subsection (b)(2)(C).
 
 #### (C) Fluctuating payments not within control of payor spouse ####
 
-For purposes of this subsection, the term “alimony or separate maintenance payment” shall not include any payment to the extent it is made pursuant to a continuing liability (over a period of not less than 3 years) to pay a fixed portion or portions of the income from a business or property or from compensation for employment or self-employment.
+For purposes of this subsection, the term "alimony or separate maintenance payment" shall not include any payment to the extent it is made pursuant to a continuing liability (over a period of not less than 3 years) to pay a fixed portion or portions of the income from a business or property or from compensation for employment or self-employment.
 
 #### (6) Post-separation years ####
 
-For purposes of this subsection, the term “1st post-separation years” means the 1st calendar year in which the payor spouse paid to the payee spouse alimony or separate maintenance payments to which this section applies. The 2nd and 3rd post-separation years shall be the 1st and 2nd succeeding calendar years, respectively.
+For purposes of this subsection, the term "1st post-separation years" means the 1st calendar year in which the payor spouse paid to the payee spouse alimony or separate maintenance payments to which this section applies. The 2nd and 3rd post-separation years shall be the 1st and 2nd succeeding calendar years, respectively.
 
 #### (g) Cross references ####
 
@@ -136,9 +136,9 @@ For purposes of this subsection, the term “1st post-separation years” means 
 
 #### Amendments ####
 
-**1986**—Subsec. (b)(1)(D). Pub. L. 99–514, §1843(b), struck out “(and the divorce or separation instrument states that there is no such liability)” after “for such payments after the death of the payee spouse”.
+**1986**—Subsec. (b)(1)(D). Pub. L. 99–514, §1843(b), struck out "(and the divorce or separation instrument states that there is no such liability)" after "for such payments after the death of the payee spouse".
 
-Subsec. (c)(2)(B). Pub. L. 99–514, §1843(d), substituted “specified in subparagraph (A)” for “specified in paragraph (1)”.
+Subsec. (c)(2)(B). Pub. L. 99–514, §1843(d), substituted "specified in subparagraph (A)" for "specified in paragraph (1)".
 
 Subsec. (f). Pub. L. 99–514, §1843(c)(1), amended subsec. (f) generally, substituting provisions for the recomputation of liability where there has been excess front-loading of alimony payments for provisions setting forth special rules to prevent excess front-loading of alimony payments.
 
@@ -150,23 +150,23 @@ Subsec. (g). Pub. L. 99–514, §1843(a), added subsec. (g).
 
 Pub. L. 99–514, title XVIII, §1843(c)(2), (3), Oct. 22, 1986, 100 Stat. 2854, 2855, provided that:
 
-“(2) Effective dates.—
+"(2) Effective dates.—
 
-“(A) In general.—The amendment made by paragraph (1) [amending this section] shall apply with respect to divorce or separation instruments (as defined in section 71(b)(2)) of the Internal Revenue Code of 1986 executed after December 31, 1986.
+"(A) In general.—The amendment made by paragraph (1) [amending this section] shall apply with respect to divorce or separation instruments (as defined in section 71(b)(2)) of the Internal Revenue Code of 1986 executed after December 31, 1986.
 
-“(B) Modifications of instruments executed before january 1, 1987.—The amendments made by paragraph (1) [amending this section] shall also apply to any divorce or separation instrument (as so defined) executed before January 1, 1987, but modified on or after such date if the modification expressly provides that the amendments made by paragraph (1) shall apply to such modification.
+"(B) Modifications of instruments executed before january 1, 1987.—The amendments made by paragraph (1) [amending this section] shall also apply to any divorce or separation instrument (as so defined) executed before January 1, 1987, but modified on or after such date if the modification expressly provides that the amendments made by paragraph (1) shall apply to such modification.
 
-“(3) Transitional rule.—In the case of any instrument to which the amendment made by paragraph (1) [amending this section] does not apply, paragraph (2) of section 71(f) of the Internal Revenue Code of 1954 [now 1986] (as in effect on the day before the date of the enactment of this Act [Oct. 22, 1986]) shall apply only with respect to the first 3 post-separation years.”
+"(3) Transitional rule.—In the case of any instrument to which the amendment made by paragraph (1) [amending this section] does not apply, paragraph (2) of section 71(f) of the Internal Revenue Code of 1954 [now 1986] (as in effect on the day before the date of the enactment of this Act [Oct. 22, 1986]) shall apply only with respect to the first 3 post-separation years."
 
 #### Effective Date of 1984 Amendment ####
 
 Pub. L. 98–369, div. A, title IV, §422(e), July 18, 1984, 98 Stat. 798, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [amending this section and sections 215, 219, 682, 6676, and 7701 of this title] shall apply with respect to divorce or separation instruments (as defined in section 71(b)(2) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], as amended by this section) executed after December 31, 1984.
+"(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [amending this section and sections 215, 219, 682, 6676, and 7701 of this title] shall apply with respect to divorce or separation instruments (as defined in section 71(b)(2) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], as amended by this section) executed after December 31, 1984.
 
-“(2) Modifications of instruments executed before january 1, 1985.—The amendments made by this section shall also apply to any divorce or separation instrument (as so defined) executed before January 1, 1985, but modified on or after such date if the modification expressly provides that the amendments made by this section shall apply to such modification.
+"(2) Modifications of instruments executed before january 1, 1985.—The amendments made by this section shall also apply to any divorce or separation instrument (as so defined) executed before January 1, 1985, but modified on or after such date if the modification expressly provides that the amendments made by this section shall apply to such modification.
 
-“(3) Requirement of identification number.—Section 215(c) of the Internal Revenue Code of 1986 (as amended by subsection (b)) and the amendments made by subsection (c) [amending section 6676 of this title] shall apply to payments made after December 31, 1984.”
+"(3) Requirement of identification number.—Section 215(c) of the Internal Revenue Code of 1986 (as amended by subsection (b)) and the amendments made by subsection (c) [amending section 6676 of this title] shall apply to payments made after December 31, 1984."
 
 #### Plan Amendments Not Required Until January 1, 1989 ####
 

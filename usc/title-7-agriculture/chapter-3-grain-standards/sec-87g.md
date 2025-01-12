@@ -8,7 +8,7 @@
 
 #### Amendments ####
 
-**1976**—Subsec. (a). Pub. L. 94–582 substituted in first sentence “official inspection or weighing function” for “official inspection function”.
+**1976**—Subsec. (a). Pub. L. 94–582 substituted in first sentence "official inspection or weighing function" for "official inspection function".
 
 #### Effective Date of 1976 Amendment ####
 

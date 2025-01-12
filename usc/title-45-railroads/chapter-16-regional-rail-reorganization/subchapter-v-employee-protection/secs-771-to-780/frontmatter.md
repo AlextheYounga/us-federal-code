@@ -24,15 +24,15 @@ Section 780, Pub. L. 93–236, title V, §510, as added Pub. L. 96–448, title 
 
 Pub. L. 97–35, title XI, §1144(a)(2)–(4), Aug. 13, 1981, 95 Stat. 669, provided that:
 
-“(2) Notwithstanding the repeal made by paragraph (1) of this subsection [repealing this subchapter]—
+"(2) Notwithstanding the repeal made by paragraph (1) of this subsection [repealing this subchapter]—
 
-“(A) benefits accrued as of the effective date of this subsection as a result of events that occurred wholly prior to October 1, 1981, shall be disbursed except as provided in paragraph (3); and
+"(A) benefits accrued as of the effective date of this subsection as a result of events that occurred wholly prior to October 1, 1981, shall be disbursed except as provided in paragraph (3); and
 
-“(B) any dispute or controversy regarding such benefits shall be determined under the terms of the law in effect on the date the claim arose.
+"(B) any dispute or controversy regarding such benefits shall be determined under the terms of the law in effect on the date the claim arose.
 
-“(3) Benefits shall not be disbursed under paragraph (2)(A) unless the employee has filed a claim for such benefits within 90 days after the date of repeal; except that, with respect to a claim which is the subject of or is based upon any arbitration decision issued after the date of repeal, such 90-day period shall not commence until such arbitration decision is issued to the employee and the employee's representative; and no benefits shall be disbursed unless appropriations for such purposes are or become available.
+"(3) Benefits shall not be disbursed under paragraph (2)(A) unless the employee has filed a claim for such benefits within 90 days after the date of repeal; except that, with respect to a claim which is the subject of or is based upon any arbitration decision issued after the date of repeal, such 90-day period shall not commence until such arbitration decision is issued to the employee and the employee's representative; and no benefits shall be disbursed unless appropriations for such purposes are or become available.
 
-“(4) The provisions of this subsection shall take effect on the first day of the first month beginning after the date of enactment of this subtitle [Aug. 13, 1981].”
+"(4) The provisions of this subsection shall take effect on the first day of the first month beginning after the date of enactment of this subtitle [Aug. 13, 1981]."
 
 #### Employee Protection Payments Under Former Provisions; Reimbursement ####
 

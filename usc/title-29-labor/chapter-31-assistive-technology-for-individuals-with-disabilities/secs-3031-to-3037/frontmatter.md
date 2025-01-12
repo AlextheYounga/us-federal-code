@@ -2,7 +2,7 @@
 
 #### Codification ####
 
-Sections, comprising subchapter II of this chapter, “National Activities”, were omitted in the general amendment of this chapter by Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1707.
+Sections, comprising subchapter II of this chapter, "National Activities", were omitted in the general amendment of this chapter by Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1707.
 
 Section 3031, Pub. L. 105–394, title II, §211, Nov. 13, 1998, 112 Stat. 3654, related to small business incentives.
 

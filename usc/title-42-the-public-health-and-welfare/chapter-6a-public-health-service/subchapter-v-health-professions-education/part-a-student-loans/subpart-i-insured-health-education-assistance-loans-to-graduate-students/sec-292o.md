@@ -2,15 +2,15 @@
 
 For purposes of this subpart:
 
-(1) The term “eligible institution” means, with respect to a fiscal year, a school of medicine, osteopathic medicine, dentistry, veterinary medicine, optometry, podiatric medicine, pharmacy, public health, allied health, or chiropractic, or a graduate program in health administration or behavioral and mental health practice, including clinical psychology.
+(1) The term "eligible institution" means, with respect to a fiscal year, a school of medicine, osteopathic medicine, dentistry, veterinary medicine, optometry, podiatric medicine, pharmacy, public health, allied health, or chiropractic, or a graduate program in health administration or behavioral and mental health practice, including clinical psychology.
 
-(2) The term “eligible lender” means an eligible institution that became a lender under this subpart prior to September 15, 1992, an agency or instrumentality of a State, a financial or credit institution (including an insurance company) which is subject to examination and supervision by an agency of the United States or of any State, a pension fund approved by the Secretary for this purpose, or a nonprofit private entity designated by the State, regulated by the State, and approved by the Secretary.
+(2) The term "eligible lender" means an eligible institution that became a lender under this subpart prior to September 15, 1992, an agency or instrumentality of a State, a financial or credit institution (including an insurance company) which is subject to examination and supervision by an agency of the United States or of any State, a pension fund approved by the Secretary for this purpose, or a nonprofit private entity designated by the State, regulated by the State, and approved by the Secretary.
 
-(3) The term “line of credit” means an arrangement or agreement between the lender and the borrower whereby a loan is paid out by the lender to the borrower in annual installments, or whereby the lender agrees to make, in addition to the initial loan, additional loans in subsequent years.
+(3) The term "line of credit" means an arrangement or agreement between the lender and the borrower whereby a loan is paid out by the lender to the borrower in annual installments, or whereby the lender agrees to make, in addition to the initial loan, additional loans in subsequent years.
 
-(4) The term “school of allied health” means a program in a school of allied health (as defined in section 295p of this title) which leads to a masters’ degree or a doctoral degree.
+(4) The term "school of allied health" means a program in a school of allied health (as defined in section 295p of this title) which leads to a masters' degree or a doctoral degree.
 
-(5)(A) The term “default rate”, in the case of an eligible entity, means the percentage constituted by the ratio of—
+(5)(A) The term "default rate", in the case of an eligible entity, means the percentage constituted by the ratio of—
 
 (i) the principal amount of loans insured under this subpart—
 
@@ -22,7 +22,7 @@ For purposes of this subpart:
 
 (B) For purposes of subparagraph (A), a loan insured under this subpart shall be considered to have entered repayment status if the applicable period described in subparagraph (B) of section 292d(a)(2) of this title regarding the loan has expired (without regard to whether any period described in subparagraph (C) of such section is applicable regarding the loan).
 
-(C) For purposes of subparagraph (A), the term “eligible entity” means an eligible institution, an eligible lender, or a holder, as the case may be.
+(C) For purposes of subparagraph (A), the term "eligible entity" means an eligible institution, an eligible lender, or a holder, as the case may be.
 
 (D) For purposes of subparagraph (A), a loan is made with respect to an eligible entity if—
 
@@ -32,7 +32,7 @@ For purposes of this subpart:
 
 (iii) in the case of a holder, the loan was purchased by the holder.
 
-(6) The term “Secretary” means the Secretary of Education.
+(6) The term "Secretary" means the Secretary of Education.
 
 (July 1, 1944, ch. 373, title VII, §719, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2009; amended Pub. L. 105–392, title I, §141(c)(2), Nov. 13, 1998, 112 Stat. 3579; Pub. L. 113–76, div. H, title V, §525(e), Jan. 17, 2014, 128 Stat. 413.)
 
@@ -40,7 +40,7 @@ For purposes of this subpart:
 
 **2014**—Par. (6). Pub. L. 113–76 added par. (6).
 
-**1998**—Par. (1). Pub. L. 105–392 substituted “or behavioral and mental health practice, including clinical psychology” for “or clinical psychology”.
+**1998**—Par. (1). Pub. L. 105–392 substituted "or behavioral and mental health practice, including clinical psychology" for "or clinical psychology".
 
 #### Effective Date of 2014 Amendment ####
 

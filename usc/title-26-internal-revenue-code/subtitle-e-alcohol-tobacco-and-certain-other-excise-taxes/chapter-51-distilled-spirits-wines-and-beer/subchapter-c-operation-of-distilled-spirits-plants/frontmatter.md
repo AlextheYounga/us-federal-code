@@ -14,4 +14,4 @@ A prior subchapter C, Internal Revenue Bonded Warehouses, consisted of part I, E
 
 #### Amendments ####
 
-**1979**—Pub. L. 96–39, title VIII, §807(b)(5), July 26, 1979, 93 Stat. 290, struck out item relating to Part III “Operations on bottling premises” in table of parts comprising subchapter C.
+**1979**—Pub. L. 96–39, title VIII, §807(b)(5), July 26, 1979, 93 Stat. 290, struck out item relating to Part III "Operations on bottling premises" in table of parts comprising subchapter C.

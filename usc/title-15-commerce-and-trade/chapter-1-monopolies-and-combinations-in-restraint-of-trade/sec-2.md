@@ -6,10 +6,10 @@ Every person who shall monopolize, or attempt to monopolize, or combine or consp
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–237 substituted “$100,000,000” for “$10,000,000”, “$1,000,000” for “$350,000”, and “10” for “three”.
+**2004**—Pub. L. 108–237 substituted "$100,000,000" for "$10,000,000", "$1,000,000" for "$350,000", and "10" for "three".
 
-**1990**—Pub. L. 101–588 substituted “$10,000,000” for “one million dollars” and “$350,000” for “one hundred thousand dollars”.
+**1990**—Pub. L. 101–588 substituted "$10,000,000" for "one million dollars" and "$350,000" for "one hundred thousand dollars".
 
-**1974**—Pub. L. 93–528 substituted “a felony, and, on conviction thereof, shall be punished by fine not exceeding one million dollars if a corporation, or, if any other person, one hundred thousand dollars, or by imprisonment not exceeding three years” for “a misdemeanor, and, on conviction thereof, shall be punished by fine not exceeding fifty thousand dollars, or by imprisonment not exceeding one year”.
+**1974**—Pub. L. 93–528 substituted "a felony, and, on conviction thereof, shall be punished by fine not exceeding one million dollars if a corporation, or, if any other person, one hundred thousand dollars, or by imprisonment not exceeding three years" for "a misdemeanor, and, on conviction thereof, shall be punished by fine not exceeding fifty thousand dollars, or by imprisonment not exceeding one year".
 
-**1955**—Act July 7, 1955, substituted “fifty thousand dollars” for “five thousand dollars”.
+**1955**—Act July 7, 1955, substituted "fifty thousand dollars" for "five thousand dollars".

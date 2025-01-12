@@ -48,27 +48,27 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **2008**—Subsec. (d). Pub. L. 110–246, §13105(k), designated existing provisions as par. (1) and added par. (2).
 
-**2000**—Subsec. (a)(1)(B). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(23)(A)], substituted “registered entity” for “ contract market”.
+**2000**—Subsec. (a)(1)(B). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(23)(A)], substituted "registered entity" for " contract market".
 
-Subsec. (f). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(23)(B)], substituted “registered entities” for “ contract markets”.
+Subsec. (f). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(23)(B)], substituted "registered entities" for " contract markets".
 
-Subsec. (g). Pub. L. 106–554, §1(a)(5) [title I, §118], added subsec. (g) and struck out former subsec. (g) which read as follows: “The provisions of this section shall not become effective until fifteen months after October 23, 1974: *Provided*, That claims which arise within one year immediately prior to the effective date of this section may be heard by the Commission after such 15-month period.”
+Subsec. (g). Pub. L. 106–554, §1(a)(5) [title I, §118], added subsec. (g) and struck out former subsec. (g) which read as follows: "The provisions of this section shall not become effective until fifteen months after October 23, 1974: *Provided*, That claims which arise within one year immediately prior to the effective date of this section may be heard by the Commission after such 15-month period."
 
 **1992**—Subsec. (a). Pub. L. 102–546, §224, designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
-Pub. L. 102–546, §222(b), substituted “awarding—” and pars. (1) and (2) for “awarding actual damages proximately caused by such violation.”
+Pub. L. 102–546, §222(b), substituted "awarding—" and pars. (1) and (2) for "awarding actual damages proximately caused by such violation."
 
 Subsec. (e). Pub. L. 102–546, §209(b)(7), made technical amendment to reference to sections 9 and 15 of this title to reflect change in reference to corresponding section of original act.
 
-Subsec. (g). Pub. L. 102–546, §402(11), substituted “15-month” for second reference to “fifteen months”.
+Subsec. (g). Pub. L. 102–546, §402(11), substituted "15-month" for second reference to "fifteen months".
 
-**1983**—Subsec. (a). Pub. L. 97–444, §231(1), substituted provisions relating to complaints against violations by persons “registered under this chapter” for provisions relating to complaints against persons “registered or required to be registered under section 6d, 6e, 6j, or 6m of this title”, and substituted provisions for application to Commission for an award of actual damages caused by such violation, for provisions authorizing application to Commission by petition, and forwarding of complaint, if warranted, to respondent for satisfaction or answer.
+**1983**—Subsec. (a). Pub. L. 97–444, §231(1), substituted provisions relating to complaints against violations by persons "registered under this chapter" for provisions relating to complaints against persons "registered or required to be registered under section 6d, 6e, 6j, or 6m of this title", and substituted provisions for application to Commission for an award of actual damages caused by such violation, for provisions authorizing application to Commission by petition, and forwarding of complaint, if warranted, to respondent for satisfaction or answer.
 
 Subsec. (b). Pub. L. 97–444, §231(2), substituted provisions relating to promulgation by Commission of rules, regulations, and orders necessary or appropriate for administration of this section, including rules of practice and procedure governing proceedings before the Commission, for provisions relating to investigation and service of complaint by Commission, and hearing thereon before an Administrative Law Judge, except that where amount claimed as damages did not exceed $5,000, hearing need not be held, and proofs could be supplied by deposition or verified statements of fact.
 
 Subsec. (c). Pub. L. 97–444, §231(3), (4), redesignated subsec. (d) as (c). Former subsec. (c), which provided that after opportunity for hearing on complaints where the damages claimed exceeded the sum of $5,000 had been provided or waived and on complaints where damages claimed did not exceed the sum of $5,000 not requiring hearing as provided herein, Commission would determine whether or not the respondent had violated any provision of this chapter or any rule, regulation, or order thereunder, was struck out.
 
-Subsec. (d). Pub. L. 97–444, §231(4), (5), redesignated subsec. (f) as (d) and substituted “subsection (e)” for “subsection (g)”. Former subsec. (d) was redesignated (c).
+Subsec. (d). Pub. L. 97–444, §231(4), (5), redesignated subsec. (f) as (d) and substituted "subsection (e)" for "subsection (g)". Former subsec. (d) was redesignated (c).
 
 Subsec. (e). Pub. L. 97–444, §231(3), (4), redesignated subsec. (g) as (e). Former subsec. (e), which provided that if, after a hearing on a complaint made by any person under subsection (a) of this section, or without hearing as provided in subsections (b) and (c) of this section, or upon failure of the party complained against to answer a complaint duly served within the time prescribed, or to appear at a hearing after being duly notified, the Commission determined that the respondent had violated any provision of this chapter, or any rule, regulation, or order thereunder, the Commission would unless the offender had already made reparation to the person complaining, determine the amount of damage, if any, to which such person was entitled as a result of such violation and would make an order directing the offender to pay to such person complaining such amount on or before the date fixed in the order, and that if, after the respondent had filed his answer to the complaint, it appeared therein that the respondent had admitted liability for a portion of the amount claimed in the complaint as damages, the Commission under such rules and regulations as it would prescribe, unless the respondent had already made reparation to the person complaining, could issue an order directing the respondent to pay to the complainant the undisputed amount on or before the date fixed in the order, leaving the respondent's liability for the disputed amount for subsequent determination, with the remaining disputed amount to be determined in the same manner and under the same procedure as it would have been determined if no order had been issued by the Commission with respect to the undisputed sum, was struck out.
 
@@ -76,11 +76,11 @@ Subsec. (f). Pub. L. 97–444, §231(4), (6), redesignated subsec. (h) as (f), m
 
 Subsecs. (g) to (i). Pub. L. 97–444, §231(4), redesignated subsecs. (g), (h), and (i), as (e), (f), and (g), respectively.
 
-**1978**—Subsec. (a). Pub. L. 95–405, §21(1), substituted “who is registered or required to be registered” for “registered”.
+**1978**—Subsec. (a). Pub. L. 95–405, §21(1), substituted "who is registered or required to be registered" for "registered".
 
-Subsecs. (b), (c). Pub. L. 95–405, §21(2), (3), substituted “$5,000” for “$2,500” wherever appearing.
+Subsecs. (b), (c). Pub. L. 95–405, §21(2), (3), substituted "$5,000" for "$2,500" wherever appearing.
 
-**1975**—Subsec. (i). Pub. L. 94–16 substituted “fifteen months” for “one year” in two places, and “one year” for “nine months”.
+**1975**—Subsec. (i). Pub. L. 94–16 substituted "fifteen months" for "one year" in two places, and "one year" for "nine months".
 
 #### Effective Date of 2008 Amendment ####
 

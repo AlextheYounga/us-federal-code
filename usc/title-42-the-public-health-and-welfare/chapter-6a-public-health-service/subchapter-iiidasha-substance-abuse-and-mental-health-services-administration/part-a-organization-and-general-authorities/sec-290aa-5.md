@@ -58,7 +58,7 @@ Subsec. (a). Pub. L. 106–400 made technical amendment to reference in original
 
 **1992**—Pub. L. 102–321 amended section generally, substituting provisions relating to grants for benefit of homeless individuals for provisions relating to alcohol abuse and alcoholism demonstration projects.
 
-**1987**—Subsecs. (c), (d). Pub. L. 100–77 added subsec. (c), redesignated former subsec. (c) as (d), and substituted “subsection (a) or (c)” for “subsection (a)”.
+**1987**—Subsecs. (c), (d). Pub. L. 100–77 added subsec. (c), redesignated former subsec. (c) as (d), and substituted "subsection (a) or (c)" for "subsection (a)".
 
 #### Change of Name ####
 

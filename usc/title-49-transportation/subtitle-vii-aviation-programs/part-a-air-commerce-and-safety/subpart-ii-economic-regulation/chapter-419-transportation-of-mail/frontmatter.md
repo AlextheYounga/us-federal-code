@@ -28,9 +28,9 @@ Sec.
 
 #### Amendments ####
 
-**2008**—Pub. L. 110–405, §2(b)(8), Oct. 13, 2008, 122 Stat. 4289, redesignated items 41906, 41909, and 41910 as 41905 “Emergency mail transportation”, 41906, and 41907 “Weighing mail”, respectively.
+**2008**—Pub. L. 110–405, §2(b)(8), Oct. 13, 2008, 122 Stat. 4289, redesignated items 41906, 41909, and 41910 as 41905 "Emergency mail transportation", 41906, and 41907 "Weighing mail", respectively.
 
-Pub. L. 110–405, §2(b)(8), Oct. 13, 2008, 122 Stat. 4289, which directed redesignation of item 49112 as 41908, was executed by redesignating item 41912 as 41908 “Effect of foreign postal arrangements” to reflect the probable intent of Congress.
+Pub. L. 110–405, §2(b)(8), Oct. 13, 2008, 122 Stat. 4289, which directed redesignation of item 49112 as 41908, was executed by redesignating item 41912 as 41908 "Effect of foreign postal arrangements" to reflect the probable intent of Congress.
 
 [<sup>1</sup> Section catchline amended by Pub. L. 110–405 without corresponding amendment of chapter analysis.](#CHAPTER419_1)
 

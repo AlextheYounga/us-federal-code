@@ -8,11 +8,11 @@ II. Other Cooperative Agreements 2350a
 
 #### Amendments ####
 
-**1990**—Pub. L. 101–510, div. A, title XIV, §1484(i)(7), Nov. 5, 1990, 104 Stat. 1718, inserted “Sec.” above “2341”.
+**1990**—Pub. L. 101–510, div. A, title XIV, §1484(i)(7), Nov. 5, 1990, 104 Stat. 1718, inserted "Sec." above "2341".
 
-**1989**—Pub. L. 101–189, div. A, title IX, §931(a)(1), Nov. 29, 1989, 103 Stat. 1531, substituted “COOPERATIVE AGREEMENTS WITH NATO ALLIES AND OTHER COUNTRIES” for “ACQUISITION AND CROSS-SERVICING AGREEMENTS WITH NATO ALLIES AND OTHER COUNTRIES” in chapter heading, and added subchapter analysis, consisting of subchapters I and II.
+**1989**—Pub. L. 101–189, div. A, title IX, §931(a)(1), Nov. 29, 1989, 103 Stat. 1531, substituted "COOPERATIVE AGREEMENTS WITH NATO ALLIES AND OTHER COUNTRIES" for "ACQUISITION AND CROSS-SERVICING AGREEMENTS WITH NATO ALLIES AND OTHER COUNTRIES" in chapter heading, and added subchapter analysis, consisting of subchapters I and II.
 
-**1987**—Pub. L. 100–26, §7(a)(8), Apr. 21, 1987, 101 Stat. 278, substituted “ACQUISITION AND CROSS-SERVICING AGREEMENTS WITH NATO ALLIES AND OTHER COUNTRIES” for “NORTH ATLANTIC TREATY ORGANIZATION ACQUISITION AND CROSS-SERVICING AGREEMENTS” in chapter heading.
+**1987**—Pub. L. 100–26, §7(a)(8), Apr. 21, 1987, 101 Stat. 278, substituted "ACQUISITION AND CROSS-SERVICING AGREEMENTS WITH NATO ALLIES AND OTHER COUNTRIES" for "NORTH ATLANTIC TREATY ORGANIZATION ACQUISITION AND CROSS-SERVICING AGREEMENTS" in chapter heading.
 
 #### Prior Provisions ####
 

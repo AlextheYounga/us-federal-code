@@ -4,4 +4,4 @@ Section, added Pub. L. 88–563, §6(a), Sept. 2, 1964, 78 Stat. 845; amended Pu
 
 #### Effective Date of Repeal ####
 
-Pub. L. 94–455, title XIX, §1904(b)(10)(D)(iii), Oct. 4, 1976, 90 Stat. 1817, provided that: “The amendments made by this subparagraph [repealing this section] shall apply with respect to actions occurring after June 30, 1974.”
+Pub. L. 94–455, title XIX, §1904(b)(10)(D)(iii), Oct. 4, 1976, 90 Stat. 1817, provided that: "The amendments made by this subparagraph [repealing this section] shall apply with respect to actions occurring after June 30, 1974."

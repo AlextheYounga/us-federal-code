@@ -12,7 +12,7 @@ Section 164, acts May 27, 1921, ch. 14, §205, 42 Stat. 13; Aug. 14, 1958, Pub. 
 
 Section 165, acts May 27, 1921, ch. 14, §206, 42 Stat. 213; Aug. 14, 1958, Pub. L. 85–630, §4(a), 72 Stat. 584, related to constructed value of merchandise for purposes of sections 160 to 171 of this title. See section 1673 et seq. of this title.
 
-Section 166, act May 27, 1921, ch. 14, §207, 42 Stat. 14, defined “exporter” as used in sections 160 to 171 of this title. See section 1677(13) of this title.
+Section 166, act May 27, 1921, ch. 14, §207, 42 Stat. 14, defined "exporter" as used in sections 160 to 171 of this title. See section 1677(13) of this title.
 
 Section 167, acts May 27, 1921, ch. 14, §208, 42 Stat. 14; June 2, 1970, Pub. L. 91–271, title III, §312, 84 Stat. 292, related to oaths and bonds given in case of imported merchandise. See section 1673 et seq. of this title.
 
@@ -24,7 +24,7 @@ Section 170, act May 27, 1921, ch. 14, §211, 42 Stat. 15, related to treatment 
 
 Section 170a, act May 27, 1921, ch. 14, §212, as added Aug. 14, 1958, Pub. L. 85–630, §5, 72 Stat. 585; amended Jan. 3, 1975, Pub. L. 93–618, title III, §321(e), 88 Stat. 2048, defined terms used in sections 160 to 171 of this title. See section 1677 of this title.
 
-Section 171, act May 27, 1921, ch. 14, §213, formerly §212, 42 Stat. 15, renumbered Aug. 14, 1958, Pub. L. 85–630, §5, 72 Stat. 585, authorized citation of sections 160 to 171 of this title as the “Antidumping Act, 1921”.
+Section 171, act May 27, 1921, ch. 14, §213, formerly §212, 42 Stat. 15, renumbered Aug. 14, 1958, Pub. L. 85–630, §5, 72 Stat. 585, authorized citation of sections 160 to 171 of this title as the "Antidumping Act, 1921".
 
 #### Effective Date of Repeal ####
 

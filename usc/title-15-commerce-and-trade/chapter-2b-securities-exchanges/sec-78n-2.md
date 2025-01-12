@@ -10,7 +10,7 @@ Not later than 180 days after July 21, 2010, the Commission shall issue rules th
 
 #### Codification ####
 
-July 21, 2010, referred to in text, was in the original “the date of enactment of this subsection”, and was translated as meaning the date of enactment of Pub. L. 111–203, which enacted this section, to reflect the probable intent of Congress.
+July 21, 2010, referred to in text, was in the original "the date of enactment of this subsection", and was translated as meaning the date of enactment of Pub. L. 111–203, which enacted this section, to reflect the probable intent of Congress.
 
 #### Effective Date ####
 

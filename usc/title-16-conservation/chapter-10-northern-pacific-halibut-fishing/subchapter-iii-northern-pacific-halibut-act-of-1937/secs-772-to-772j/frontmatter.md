@@ -1,8 +1,8 @@
 ### §§772 to 772j. Repealed. Pub. L. 97–176, §14, May 17, 1982, 96 Stat. 84 ###
 
-Section 772, act June 28, ch. 392, §1, 50 Stat. 325, provided that this subchapter may be cited as the “Northern Pacific Halibut Act of 1937”. See section 1 of Pub. L. 97–176, set out as a Short Title note under section 773 of this title, for the short title of the successor Northern Pacific Halibut Act of 1982.
+Section 772, act June 28, ch. 392, §1, 50 Stat. 325, provided that this subchapter may be cited as the "Northern Pacific Halibut Act of 1937". See section 1 of Pub. L. 97–176, set out as a Short Title note under section 773 of this title, for the short title of the successor Northern Pacific Halibut Act of 1982.
 
-Section 772a, acts June 28, 1937, ch. 392, §2, 50 Stat. 325; Aug. 8, 1953, ch. 382, 67 Stat. 494, defined “Convention”, “Commission”, “person”, “Territorial waters of the United States”, “Territorial waters of Canada”, “Convention waters”, “halibut”, and “vessel”. See section 773 of this title.
+Section 772a, acts June 28, 1937, ch. 392, §2, 50 Stat. 325; Aug. 8, 1953, ch. 382, 67 Stat. 494, defined "Convention", "Commission", "person", "Territorial waters of the United States", "Territorial waters of Canada", "Convention waters", "halibut", and "vessel". See section 773 of this title.
 
 Section 772b, act June 28, 1937, ch. 392, §3, 50 Stat. 326, enumerated the unlawful acts under the terms of the Northern Pacific Halibut Act of 1937. See section 773e of this title.
 

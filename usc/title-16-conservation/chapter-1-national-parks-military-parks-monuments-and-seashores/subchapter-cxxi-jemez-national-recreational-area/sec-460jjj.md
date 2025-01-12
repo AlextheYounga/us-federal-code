@@ -2,11 +2,11 @@
 
 #### (a) In general ####
 
-In order to conserve, protect, and restore the recreational, ecological, cultural, religious, and wildlife resource values of the Jemez Mountains, there is hereby established the Jemez National Recreational Area (hereinafter in this subchapter referred to as the “recreation area”), to be administered by the Secretary of Agriculture (hereinafter in this subchapter referred to as the “Secretary”).
+In order to conserve, protect, and restore the recreational, ecological, cultural, religious, and wildlife resource values of the Jemez Mountains, there is hereby established the Jemez National Recreational Area (hereinafter in this subchapter referred to as the "recreation area"), to be administered by the Secretary of Agriculture (hereinafter in this subchapter referred to as the "Secretary").
 
 #### (b) Area included ####
 
-The recreation area shall be comprised of approximately 57,000 acres of lands and interests in lands within the Santa Fe National Forest as generally depicted on the map entitled “Jemez National Recreation Area—Proposed” and dated September 1992. The map shall be on file and available for public inspection in the offices of the Chief of the Forest Service, Department of Agriculture, Washington, District of Columbia. The Secretary may from time to time, in consultation with local tribal leaders, make minor revisions in the boundary of the recreation area to promote management effectiveness and efficiency in furtherance of the purposes of this subchapter.
+The recreation area shall be comprised of approximately 57,000 acres of lands and interests in lands within the Santa Fe National Forest as generally depicted on the map entitled "Jemez National Recreation Area—Proposed" and dated September 1992. The map shall be on file and available for public inspection in the offices of the Chief of the Forest Service, Department of Agriculture, Washington, District of Columbia. The Secretary may from time to time, in consultation with local tribal leaders, make minor revisions in the boundary of the recreation area to promote management effectiveness and efficiency in furtherance of the purposes of this subchapter.
 
 #### (c) Map and description ####
 
@@ -20,4 +20,4 @@ No lands or interests therein outside of the boundaries of the recreation area m
 
 #### Amendments ####
 
-**1994**—Subsec. (c). Pub. L. 103–437 in first sentence struck out “Select” before “Committee on Indian Affairs”.
+**1994**—Subsec. (c). Pub. L. 103–437 in first sentence struck out "Select" before "Committee on Indian Affairs".

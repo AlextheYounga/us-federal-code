@@ -6,8 +6,8 @@ The Secretary of Agriculture shall on and after November 14, 1997, phase in, ove
 
 #### Limitation on Increases in Recreation Residence Fees ####
 
-Pub. L. 106–113, div. B, §1000(a)(3) [title III, §342], Nov. 29, 1999, 113 Stat. 1535, 1501A–202, provided that: “Notwithstanding section 343 of Public Law 105–83 [16 U.S.C. 497d], increases in recreation residence fees shall be implemented in fiscal year 2000 only to the extent that the fiscal year 2000 fees do not exceed the fiscal year 1999 fee by more than $2,000.”
+Pub. L. 106–113, div. B, §1000(a)(3) [title III, §342], Nov. 29, 1999, 113 Stat. 1535, 1501A–202, provided that: "Notwithstanding section 343 of Public Law 105–83 [16 U.S.C. 497d], increases in recreation residence fees shall be implemented in fiscal year 2000 only to the extent that the fiscal year 2000 fees do not exceed the fiscal year 1999 fee by more than $2,000."
 
 #### Limitation on Recreation Residence Fee Increases on Sawtooth National Forest ####
 
-Pub. L. 105–277, div. A, §101(e) [title III, §345], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298, provided that: “Notwithstanding section 343 of Public Law 105–83 [16 U.S.C. 497d], increases in recreation residence fees on the Sawtooth National Forest shall be implemented in fiscal year 1999 only to the extent that such fee increases do not exceed 25 percent.”
+Pub. L. 105–277, div. A, §101(e) [title III, §345], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298, provided that: "Notwithstanding section 343 of Public Law 105–83 [16 U.S.C. 497d], increases in recreation residence fees on the Sawtooth National Forest shall be implemented in fiscal year 1999 only to the extent that such fee increases do not exceed 25 percent."

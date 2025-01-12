@@ -30,12 +30,12 @@ Should the provisions of Schedule D of the Articles of Agreement of the Fund app
 
 Subsec. (d). Pub. L. 94–564, §2(2), added subsec. (d).
 
-**1973**—Subsec. (b). Pub. L. 93–94 substituted “and an alternate for the governor of the Bank” for “who shall also serve as alternate for the governor of the Bank”.
+**1973**—Subsec. (b). Pub. L. 93–94 substituted "and an alternate for the governor of the Bank" for "who shall also serve as alternate for the governor of the Bank".
 
 #### Effective Date of 1976 Amendment ####
 
-Pub. L. 94–564, §9, Oct. 19, 1976, 90 Stat. 2661, provided that: “The amendments made by sections 2, 3, 4, 5, 6, and 7 of this Act [amending this section, sections 286c, 286e–2, 286o, 286q, and 286r of this title, and section 822a of former Title 31, Money and Finance] shall become effective upon the entry into force of the amendments to the Articles of Agreement of the International Monetary Fund approved in Resolution Numbered 31–4 of the Board of Governors of the Fund.” Such amendments entered into force Apr. 1, 1978.
+Pub. L. 94–564, §9, Oct. 19, 1976, 90 Stat. 2661, provided that: "The amendments made by sections 2, 3, 4, 5, 6, and 7 of this Act [amending this section, sections 286c, 286e–2, 286o, 286q, and 286r of this title, and section 822a of former Title 31, Money and Finance] shall become effective upon the entry into force of the amendments to the Articles of Agreement of the International Monetary Fund approved in Resolution Numbered 31–4 of the Board of Governors of the Fund." Such amendments entered into force Apr. 1, 1978.
 
 #### Levels of Fund Salaries and Minimization of Travel Costs ####
 
-Pub. L. 96–389, §9, Oct. 7, 1980, 94 Stat. 1554, provided that: “The United States Executive Director to the Fund shall seek to insure (a) that Fund salaries do not exceed those levels endorsed by the Fund Bank Joint Committee on Staff Compensation Issues; and (b) that travel costs are minimized by limiting first class and supersonic travel to instances where no reasonable alternative exists.”
+Pub. L. 96–389, §9, Oct. 7, 1980, 94 Stat. 1554, provided that: "The United States Executive Director to the Fund shall seek to insure (a) that Fund salaries do not exceed those levels endorsed by the Fund Bank Joint Committee on Staff Compensation Issues; and (b) that travel costs are minimized by limiting first class and supersonic travel to instances where no reasonable alternative exists."

@@ -8,4 +8,4 @@
 
 #### Amendments ####
 
-**1994**—Subsec. (a). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in two places.
+**1994**—Subsec. (a). Pub. L. 103–337 substituted "Court of Appeals for the Armed Forces" for "Court of Military Appeals" in two places.

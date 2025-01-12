@@ -24,9 +24,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments ####
 
-**2014**—Pub. L. 113–79 designated existing provisions as subsec. (a), inserted heading, substituted “subsection (a)(1),” for “subsection (a),”, and added subsecs. (b) and (c).
+**2014**—Pub. L. 113–79 designated existing provisions as subsec. (a), inserted heading, substituted "subsection (a)(1)," for "subsection (a),", and added subsecs. (b) and (c).
 
-**2008**—Pub. L. 110–246, §14207(b), substituted “5 years” for “3 years”.
+**2008**—Pub. L. 110–246, §14207(b), substituted "5 years" for "3 years".
 
 #### Effective Date of 2008 Amendment ####
 

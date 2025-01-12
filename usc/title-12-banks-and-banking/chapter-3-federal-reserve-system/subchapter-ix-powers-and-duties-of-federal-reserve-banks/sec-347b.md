@@ -80,19 +80,19 @@ A Federal Reserve bank shall have no obligation to make, increase, renew, or ext
 
 #### (A) Appropriate Federal banking agency ####
 
-The term “appropriate Federal banking agency” has the same meaning as in section 1813 of this title.
+The term "appropriate Federal banking agency" has the same meaning as in section 1813 of this title.
 
 #### (B) Critically undercapitalized ####
 
-The term “critically undercapitalized” has the same meaning as in section 1831o of this title.
+The term "critically undercapitalized" has the same meaning as in section 1831o of this title.
 
 #### (C) Depository institution ####
 
-The term “depository institution” has the same meaning as in section 1813 of this title.
+The term "depository institution" has the same meaning as in section 1813 of this title.
 
 #### (D) Undercapitalized depository institution ####
 
-The term “undercapitalized depository institution” means any depository institution which—
+The term "undercapitalized depository institution" means any depository institution which—
 
 (i) is undercapitalized, as defined in section 1831o of this title; or
 
@@ -100,7 +100,7 @@ The term “undercapitalized depository institution” means any depository inst
 
 #### (E) Viable ####
 
-A depository institution is “viable” if the Board or the appropriate Federal banking agency determines, giving due regard to the economic conditions and circumstances in the market in which the institution operates, that the institution—
+A depository institution is "viable" if the Board or the appropriate Federal banking agency determines, giving due regard to the economic conditions and circumstances in the market in which the institution operates, that the institution—
 
 (i) is not critically undercapitalized;
 
@@ -112,15 +112,15 @@ A depository institution is “viable” if the Board or the appropriate Federal
 
 #### References in Text ####
 
-This chapter, referred to in subsec. (b)(4), was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+This chapter, referred to in subsec. (b)(4), was in the original "this Act", meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
 #### Amendments ####
 
-**2006**—Subsec. (b)(3)(A)(ii). Pub. L. 109–173 substituted “the Deposit Insurance Fund of” for “any deposit insurance fund in”.
+**2006**—Subsec. (b)(3)(A)(ii). Pub. L. 109–173 substituted "the Deposit Insurance Fund of" for "any deposit insurance fund in".
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(9). See 1996 Amendment note below.
 
-**1996**—Subsec. (b)(3)(A)(ii). Pub. L. 104—208, §2704(d)(9), which directed the amendment of cl. (ii) by substituting “the Deposit Insurance Fund of” for “any deposit insurance fund in”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+**1996**—Subsec. (b)(3)(A)(ii). Pub. L. 104—208, §2704(d)(9), which directed the amendment of cl. (ii) by substituting "the Deposit Insurance Fund of" for "any deposit insurance fund in", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 **1991**—Pub. L. 102–242, §142(b), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -132,7 +132,7 @@ Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(9). See 1996 Amendment n
 
 **1933**—Act Mar. 9, 1933, struck out proviso which extended applicability to member banks regardless of their capital, and empowered President to extend termination date one year beyond March 3, 1934.
 
-Act Feb. 3, 1933, extended termination date from “March 3, 1933” to “March 3, 1934”.
+Act Feb. 3, 1933, extended termination date from "March 3, 1933" to "March 3, 1934".
 
 #### Effective Date of 2006 Amendment ####
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
 #### Effective Date of 1991 Amendment ####
 
-Pub. L. 102–242, title I, §142(d), Dec. 19, 1991, 105 Stat. 2281, provided that: “The amendment made by subsection (b) [amending this section] shall take effect at the end of the 2-year period beginning on the date of enactment of this Act [Dec. 19, 1991].”
+Pub. L. 102–242, title I, §142(d), Dec. 19, 1991, 105 Stat. 2281, provided that: "The amendment made by subsection (b) [amending this section] shall take effect at the end of the 2-year period beginning on the date of enactment of this Act [Dec. 19, 1991]."
 
 #### Effective Date of 1980 Amendment ####
 

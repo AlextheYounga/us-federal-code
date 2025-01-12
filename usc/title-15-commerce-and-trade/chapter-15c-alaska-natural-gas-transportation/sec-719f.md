@@ -16,7 +16,7 @@ For purposes of this section—
 
 (2) the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of the 60-day calendar period.
 
-#### (d) Rules under rulemaking powers of Congress; change of rules; “resolution” defined; referral to Congressional committees; debate limitation; motion for consideration of resolution; debate on resolution; nondebatable motions and appeals from procedural decisions ####
+#### (d) Rules under rulemaking powers of Congress; change of rules; "resolution" defined; referral to Congressional committees; debate limitation; motion for consideration of resolution; debate on resolution; nondebatable motions and appeals from procedural decisions ####
 
 (1) This subsection is enacted by Congress—
 
@@ -24,7 +24,7 @@ For purposes of this section—
 
 (B) with full recognition of the constitutional right of either House to change the rules (so far as those rules relate to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of such House.
 
-(2) For purposes of this chapter, the term “resolution” means (A) a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and Senate approve the Presidential decision on an Alaska natural gas transportation system submitted to the Congress on \_\_\_\_\_\_\_\_\_\_, 19 , and find that any environmental impact statements prepared relative to such system and submitted with the President's decision are in compliance with the Natural <sup><a href="#719f_1_target" name="719f_1">1</a></sup> Environmental Policy Act of 1969.”; the blank space therein shall be filled with the date on which the President submits his decision to the House of Representatives and the Senate; or (B) a joint resolution described in subsection (g) of this section.
+(2) For purposes of this chapter, the term "resolution" means (A) a joint resolution, the resolving clause of which is as follows: "That the House of Representatives and Senate approve the Presidential decision on an Alaska natural gas transportation system submitted to the Congress on \_\_\_\_\_\_\_\_\_\_, 19 , and find that any environmental impact statements prepared relative to such system and submitted with the President's decision are in compliance with the Natural <sup><a href="#719f_1_target" name="719f_1">1</a></sup> Environmental Policy Act of 1969."; the blank space therein shall be filled with the date on which the President submits his decision to the House of Representatives and the Senate; or (B) a joint resolution described in subsection (g) of this section.
 
 (3) A resolution once introduced with respect to a Presidential decision on an Alaska natural gas transportation system shall be referred to one or more committees (and all resolutions with respect to the same Presidential decision on an Alaska natural gas transportation system shall be referred to the same committee or committees) by the President of the Senate or the Speaker of the House of Representatives, as the case may be.
 
@@ -56,9 +56,9 @@ Within 20 days of the transmittal of the President's decision to the Congress un
 
 (2) Such provision shall be waived with respect to actions to be taken under subsection (a) or (c) of section 719g of this title upon enactment of a joint resolution pursuant to the procedures specified in subsections (c) and (d) of this section (other than subsection (d)(2) thereof) within the first period of 60 calendar days of continuous session of Congress beginning on the date after the date of receipt by the Senate and House of Representatives of such proposal.
 
-(3) The resolving clause of the joint resolution referred to in this subsection is as follows: “That the House of Representatives and Senate approve the waiver of the provision of law ( ) as proposed by the President, submitted to the Congress on , 19 .” The first blank space therein being filled with the citation to the provision of law and the second blank space therein being filled with the date on which the President submits his decision to the House of Representatives and the Senate.
+(3) The resolving clause of the joint resolution referred to in this subsection is as follows: "That the House of Representatives and Senate approve the waiver of the provision of law ( ) as proposed by the President, submitted to the Congress on , 19 ." The first blank space therein being filled with the citation to the provision of law and the second blank space therein being filled with the date on which the President submits his decision to the House of Representatives and the Senate.
 
-(4) In the case of action with respect to a joint resolution described in this subsection, the phrase “a waiver of a provision of law” shall be substituted in subsection (d) of this section for the phrase “the Alaska natural gas transportation system.”.
+(4) In the case of action with respect to a joint resolution described in this subsection, the phrase "a waiver of a provision of law" shall be substituted in subsection (d) of this section for the phrase "the Alaska natural gas transportation system.".
 
 (Pub. L. 94–586, §8, Oct. 22, 1976, 90 Stat. 2909.)
 
@@ -74,10 +74,10 @@ Federal Power Commission terminated and functions, personnel, property, funds, e
 
 #### Congressional Approval of Presidential Recommendations for Waiver of Law To Permit Expeditious Construction and Initial Operation of System ####
 
-Pub. L. 97–93, Dec. 15, 1981, 95 Stat. 1204, provided: “That the House of Representatives and Senate approve the waiver of the provision of law (Public Law 95–158 [set out as a note below], Public Law numbered 688, Seventy-fifth Congress, second session [section 717 et seq. of this title], and Public Law 94–163 [42 U.S.C. 6201 et seq.]) as proposed by the President, submitted to the Congress on October 15, 1981.” [The Message of the President, dated Oct. 15, 1981, submitting the findings and proposed waiver of law, is set out in 17 Weekly Compilation of Presidential Documents 1135, Oct. 19, 1981.]
+Pub. L. 97–93, Dec. 15, 1981, 95 Stat. 1204, provided: "That the House of Representatives and Senate approve the waiver of the provision of law (Public Law 95–158 [set out as a note below], Public Law numbered 688, Seventy-fifth Congress, second session [section 717 et seq. of this title], and Public Law 94–163 [42 U.S.C. 6201 et seq.]) as proposed by the President, submitted to the Congress on October 15, 1981." [The Message of the President, dated Oct. 15, 1981, submitting the findings and proposed waiver of law, is set out in 17 Weekly Compilation of Presidential Documents 1135, Oct. 19, 1981.]
 
 #### Congressional Approval of Presidential Decision on Alaska Natural Gas Transportation System ####
 
-Pub. L. 95–158, Nov. 8, 1977, 91 Stat. 1268, provided: “That the House of Representatives and Senate approve the Presidential decision on an Alaska natural gas transportation system submitted to the Congress on September 22, 1977, and find that any environmental impact statements prepared relative to such system and submitted with the President's decision are in compliance with the Natural [National] Environmental Policy Act of 1969 [section 4321 et seq. of Title 42, The Public Health and Welfare].”
+Pub. L. 95–158, Nov. 8, 1977, 91 Stat. 1268, provided: "That the House of Representatives and Senate approve the Presidential decision on an Alaska natural gas transportation system submitted to the Congress on September 22, 1977, and find that any environmental impact statements prepared relative to such system and submitted with the President's decision are in compliance with the Natural [National] Environmental Policy Act of 1969 [section 4321 et seq. of Title 42, The Public Health and Welfare]."
 
-[<sup>1</sup> So in original. Probably should be “National”.](#719f_1)
+[<sup>1</sup> So in original. Probably should be "National".](#719f_1)

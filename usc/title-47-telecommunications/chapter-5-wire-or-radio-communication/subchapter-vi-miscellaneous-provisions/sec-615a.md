@@ -24,10 +24,10 @@ Section was enacted as part of the Wireless Communications and Public Safety Act
 
 #### Amendments ####
 
-**2008**—Pub. L. 110–283, §201(a)(1), substituted “Service provider parity of protection” for “Parity of protection for provision or use of wireless service” in section catchline.
+**2008**—Pub. L. 110–283, §201(a)(1), substituted "Service provider parity of protection" for "Parity of protection for provision or use of wireless service" in section catchline.
 
-Subsec. (a). Pub. L. 110–283, §201(a)(2), substituted “wireless carrier, IP-enabled voice service provider, or other emergency communications provider, and their officers” for “wireless carrier, and its officers” and “emergency calls, emergency services, or other emergency communications services” for “emergency calls or emergency services”.
+Subsec. (a). Pub. L. 110–283, §201(a)(2), substituted "wireless carrier, IP-enabled voice service provider, or other emergency communications provider, and their officers" for "wireless carrier, and its officers" and "emergency calls, emergency services, or other emergency communications services" for "emergency calls or emergency services".
 
-Subsec. (b). Pub. L. 110–283, §201(a)(3), substituted “using wireless 9–1–1 service, or making 9–1–1 communications via IP-enabled voice service or other emergency communications service, shall” for “using wireless 9–1–1 service shall” and “that is not via wireless 9–1–1 service, IP-enabled voice service, or other emergency communications service” for “that is not wireless”.
+Subsec. (b). Pub. L. 110–283, §201(a)(3), substituted "using wireless 9–1–1 service, or making 9–1–1 communications via IP-enabled voice service or other emergency communications service, shall" for "using wireless 9–1–1 service shall" and "that is not via wireless 9–1–1 service, IP-enabled voice service, or other emergency communications service" for "that is not wireless".
 
-Subsec. (c). Pub. L. 110–283, §201(a)(4), substituted “9–1–1 communications via wireless 9–1–1 service, IP-enabled voice service, or other emergency communications service, a PSAP” for “wireless 9–1–1 communications, a PSAP” and “that are not via wireless 9–1–1 service, IP-enabled voice service, or other emergency communications service” for “that are not wireless”.
+Subsec. (c). Pub. L. 110–283, §201(a)(4), substituted "9–1–1 communications via wireless 9–1–1 service, IP-enabled voice service, or other emergency communications service, a PSAP" for "wireless 9–1–1 communications, a PSAP" and "that are not via wireless 9–1–1 service, IP-enabled voice service, or other emergency communications service" for "that are not wireless".

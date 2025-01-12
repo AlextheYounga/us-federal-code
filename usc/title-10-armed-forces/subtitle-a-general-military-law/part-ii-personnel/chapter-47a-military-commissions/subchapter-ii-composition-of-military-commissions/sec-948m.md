@@ -30,12 +30,12 @@ A prior section 948m, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Sta
 
 #### Amendments ####
 
-**2013**—Subsec. (a)(1). Pub. L. 113–66, §1031(a)(1)(A), substituted “at least five primary members and as many alternate members as the convening authority shall detail” for “at least five members” and inserted at end “Alternate members shall be designated in the order in which they will replace an excused primary member.”
+**2013**—Subsec. (a)(1). Pub. L. 113–66, §1031(a)(1)(A), substituted "at least five primary members and as many alternate members as the convening authority shall detail" for "at least five members" and inserted at end "Alternate members shall be designated in the order in which they will replace an excused primary member."
 
-Subsec. (a)(2). Pub. L. 113–66, §1031(a)(1)(B), inserted “primary” before “members”.
+Subsec. (a)(2). Pub. L. 113–66, §1031(a)(1)(B), inserted "primary" before "members".
 
 Subsecs. (b), (c). Pub. L. 113–66, §1031(a)(2)(B), added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated (d) and (e), respectively.
 
-Subsec. (d). Pub. L. 113–66, §1031(a)(2)(A), (3), redesignated subsec. (b) as (d), inserted “primary or alternate” before “member” in introductory provisions, and added par. (4).
+Subsec. (d). Pub. L. 113–66, §1031(a)(2)(A), (3), redesignated subsec. (b) as (d), inserted "primary or alternate" before "member" in introductory provisions, and added par. (4).
 
-Subsec. (e). Pub. L. 113–66, §1031(a)(2)(A), (4), redesignated subsec. (c) as (e), substituted “Whenever the number of primary members of a military commission under this chapter is reduced below the number of primary members required by subsection (a) and there are no remaining alternate members to replace the excused primary members” for “Whenever a military commission under this chapter is reduced below the number of members required by subsection (a)”, and inserted at end “An alternate member who was present for the introduction of all evidence shall not be considered to be a new or additional member.”
+Subsec. (e). Pub. L. 113–66, §1031(a)(2)(A), (4), redesignated subsec. (c) as (e), substituted "Whenever the number of primary members of a military commission under this chapter is reduced below the number of primary members required by subsection (a) and there are no remaining alternate members to replace the excused primary members" for "Whenever a military commission under this chapter is reduced below the number of members required by subsection (a)", and inserted at end "An alternate member who was present for the introduction of all evidence shall not be considered to be a new or additional member."

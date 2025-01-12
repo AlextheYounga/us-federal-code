@@ -14,11 +14,11 @@
 
 **2011**—Pub. L. 112–81, §631(d)(2), renumbered section 411e of this title as this section.
 
-Subsec. (a). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404”.
+Subsec. (a). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "474" for "404".
 
 Subsec. (c). Pub. L. 112–81, §631(e)(19), added subsec. (c).
 
-**1988**—Subsec. (a). Pub. L. 100–456 substituted “incident to a personal emergency of the member” for “incident to the serious illness or injury or the death of a dependent of the member”.
+**1988**—Subsec. (a). Pub. L. 100–456 substituted "incident to a personal emergency of the member" for "incident to the serious illness or injury or the death of a dependent of the member".
 
 #### Effective Date of 2013 Amendment ####
 
@@ -26,4 +26,4 @@ Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, pro
 
 #### Effective Date of 1988 Amendment ####
 
-Pub. L. 100–456, div. A, title VI, §623(b), Sept. 29, 1988, 102 Stat. 1984, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to travel performed after September 30, 1988.”
+Pub. L. 100–456, div. A, title VI, §623(b), Sept. 29, 1988, 102 Stat. 1984, provided that: "The amendment made by subsection (a) [amending this section] shall apply with respect to travel performed after September 30, 1988."

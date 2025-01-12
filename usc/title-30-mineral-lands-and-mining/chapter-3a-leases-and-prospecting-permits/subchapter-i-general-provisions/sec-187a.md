@@ -14,7 +14,7 @@ Requests for approval of assignment or sublease shall be processed promptly by t
 
 #### Amendments ####
 
-**1987**—Pub. L. 100–203 substituted third to fifth sentences for former third sentence which read as follows: “The Secretary shall disapprove the assignment or sublease only for lack of qualification of the assignee or sublessee or for lack of sufficient bond: *Provided, however*, That the Secretary may, in his discretion, disapprove an assignment of a separate zone or deposit under any lease, or of a part of a legal subdivision.”
+**1987**—Pub. L. 100–203 substituted third to fifth sentences for former third sentence which read as follows: "The Secretary shall disapprove the assignment or sublease only for lack of qualification of the assignee or sublessee or for lack of sufficient bond: *Provided, however*, That the Secretary may, in his discretion, disapprove an assignment of a separate zone or deposit under any lease, or of a part of a legal subdivision."
 
 **1960**—Pub. L. 86–705 amended last sentence to restrict automatic extensions after Sept. 2, 1960.
 
@@ -26,4 +26,4 @@ See note set out under section 181 of this title.
 
 #### Leases Issued Prior to September 2, 1960 ####
 
-Pub. L. 86–705, §6, Sept. 2, 1960, 74 Stat. 790, provided in part that: “The provisions of this section 6 [amending this section] shall not be applicable to any lease issued prior to the effective date of this Act [Sept. 2, 1960].”
+Pub. L. 86–705, §6, Sept. 2, 1960, 74 Stat. 790, provided in part that: "The provisions of this section 6 [amending this section] shall not be applicable to any lease issued prior to the effective date of this Act [Sept. 2, 1960]."

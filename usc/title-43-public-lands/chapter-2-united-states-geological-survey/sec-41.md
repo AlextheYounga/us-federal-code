@@ -6,9 +6,9 @@ Except as otherwise provided in section 1318 of title 44, the publications of th
 
 #### Codification ####
 
-“Section 1318 of title 44” substituted in text for “section 260 of title 44” on authority of Pub. L. 90–620, §2(b), Oct. 22, 1968, 82 Stat. 1238, the first section of which enacted Title 44, Public Printing and Documents.
+"Section 1318 of title 44" substituted in text for "section 260 of title 44" on authority of Pub. L. 90–620, §2(b), Oct. 22, 1968, 82 Stat. 1238, the first section of which enacted Title 44, Public Printing and Documents.
 
-The words “Except as otherwise provided in section 260 of title 44” were originally inserted in text to avoid conflict with the provisions of such section 260 of title 44, as set out prior to the general revision of title 44 by Pub. L. 90–620, derived from Joint Res. May 16, 1902, No. 22.
+The words "Except as otherwise provided in section 260 of title 44" were originally inserted in text to avoid conflict with the provisions of such section 260 of title 44, as set out prior to the general revision of title 44 by Pub. L. 90–620, derived from Joint Res. May 16, 1902, No. 22.
 
 #### Amendments ####
 
@@ -16,7 +16,7 @@ The words “Except as otherwise provided in section 260 of title 44” were ori
 
 #### Change of Name ####
 
-“United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of this title.
+"United States Geological Survey" substituted in text for "Geological Survey" pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of this title.
 
 #### Transfer of Functions ####
 

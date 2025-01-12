@@ -6,7 +6,7 @@ Sections 1305 to 1314a were omitted as not of general application, and as covere
 
 Section 1305, acts Aug. 24, 1912, ch. 390, §4, 37 Stat. 561; June 19, 1934, ch. 667, §1, 48 Stat. 1122; July 9, 1937, ch. 470, §3, 50 Stat. 487; Oct. 15, 1949, ch. 695, §5(a), 63 Stat. 880; Sept. 26, 1950, ch. 1049, §§1, 2(a), 64 Stat. 1038, related to establishment, administration, and functions of Canal Zone Government.
 
-Section 1305–1, act Sept. 26, 1950, ch. 1049, §2(a), (b), 64 Stat. 1038, related to changes in names of terms “the Panama Canal”, “the Canal”, and “the Canal authorities” to “the Canal Zone Government” and “the Panama Railroad Company” to “the Panama Canal Company”.
+Section 1305–1, act Sept. 26, 1950, ch. 1049, §2(a), (b), 64 Stat. 1038, related to changes in names of terms "the Panama Canal", "the Canal", and "the Canal authorities" to "the Canal Zone Government" and "the Panama Railroad Company" to "the Panama Canal Company".
 
 Section 1305a, acts Aug. 24, 1912, ch. 390, §4, 37 Stat. 561; Mar. 12, 1928, ch. 213, 45 Stat. 310; June 19, 1934, ch. 667, §1, 48 Stat. 1122; Sept. 26, 1950, ch. 1049, §4, 64 Stat. 1040, related to compensation of persons in military, naval, or public health service.
 

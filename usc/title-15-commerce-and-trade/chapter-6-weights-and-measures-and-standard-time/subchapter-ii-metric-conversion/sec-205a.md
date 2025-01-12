@@ -28,33 +28,33 @@ Act of July 28, 1866; 14 Stat. 339, referred to in par. (2), is predecessor of R
 
 #### Short Title of 1996 Amendment ####
 
-Pub. L. 104–289, §1, Oct. 11, 1996, 110 Stat. 3411, provided that: “This Act [enacting section 205l of this title, amending sections 205c and 205l of this title, and enacting provisions set out as notes under this section and section 205c of this title] may be cited as the ‘Savings in Construction Act of 1996’.”
+Pub. L. 104–289, §1, Oct. 11, 1996, 110 Stat. 3411, provided that: "This Act [enacting section 205l of this title, amending sections 205c and 205l of this title, and enacting provisions set out as notes under this section and section 205c of this title] may be cited as the 'Savings in Construction Act of 1996'."
 
 #### Short Title ####
 
-Pub. L. 94–168, §1, Dec. 23, 1975, 89 Stat. 1007, provided: “That this Act [enacting this subchapter] may be cited as the ‘Metric Conversion Act of 1975’.”
+Pub. L. 94–168, §1, Dec. 23, 1975, 89 Stat. 1007, provided: "That this Act [enacting this subchapter] may be cited as the 'Metric Conversion Act of 1975'."
 
 #### Congressional Statement of Findings; Metric Conversion in Federal Construction Projects ####
 
-Pub. L. 104–289, §2, Oct. 11, 1996, 110 Stat. 3411, provided that: “The Congress finds the following:
+Pub. L. 104–289, §2, Oct. 11, 1996, 110 Stat. 3411, provided that: "The Congress finds the following:
 
-“(1) The Metric Conversion Act of 1975 [15 U.S.C. 205a et seq.] was enacted in order to set forth the policy of the United States to convert to the metric system. Section 3 of that Act [15 U.S.C. 205b] requires that each Federal agency use the metric system of measurements in its procurement, grants, and other business-related activities, unless that use is likely to cause significant cost or loss of markets to United States firms, such as when foreign competitors are producing competing products in non-metric units.
+"(1) The Metric Conversion Act of 1975 [15 U.S.C. 205a et seq.] was enacted in order to set forth the policy of the United States to convert to the metric system. Section 3 of that Act [15 U.S.C. 205b] requires that each Federal agency use the metric system of measurements in its procurement, grants, and other business-related activities, unless that use is likely to cause significant cost or loss of markets to United States firms, such as when foreign competitors are producing competing products in non-metric units.
 
-“(2) In accordance with that Act and Executive Order 12770, of July 25, 1991 [set out below], Federal agencies increasingly construct new Federal buildings in round metric dimensions. As a result, companies that wish to bid on Federal construction projects increasingly are asked to supply materials or products in round metric dimensions.
+"(2) In accordance with that Act and Executive Order 12770, of July 25, 1991 [set out below], Federal agencies increasingly construct new Federal buildings in round metric dimensions. As a result, companies that wish to bid on Federal construction projects increasingly are asked to supply materials or products in round metric dimensions.
 
-“(3) While the Metric Conversion Act of 1975 currently provides an exemption to metric usage when impractical or when such usage will cause economic inefficiencies, amendments are warranted to ensure that the use of specific metric components in metric construction projects do not increase the cost of Federal buildings to the taxpayers.”
+"(3) While the Metric Conversion Act of 1975 currently provides an exemption to metric usage when impractical or when such usage will cause economic inefficiencies, amendments are warranted to ensure that the use of specific metric components in metric construction projects do not increase the cost of Federal buildings to the taxpayers."
 
 #### Ex. Ord. No. 12770. Metric Usage in Federal Government Programs ####
 
 Ex. Ord. No. 12770, July 25, 1991, 56 F.R. 35801, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Metric Conversion Act of 1975, Public Law 94–168 (15 U.S.C. 205a *et seq*.) (“the Metric Conversion Act”), as amended by section 5164 of the Omnibus Trade and Competitiveness Act of 1988, Public Law 100–418 (“the Trade and Competitiveness Act”), and in order to implement the congressional designation of the metric system of measurement as the preferred system of weights and measures for United States trade and commerce, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Metric Conversion Act of 1975, Public Law 94–168 (15 U.S.C. 205a *et seq*.) ("the Metric Conversion Act"), as amended by section 5164 of the Omnibus Trade and Competitiveness Act of 1988, Public Law 100–418 ("the Trade and Competitiveness Act"), and in order to implement the congressional designation of the metric system of measurement as the preferred system of weights and measures for United States trade and commerce, it is hereby ordered as follows:
 
-Section 1. *Coordination by the Department of Commerce*. (a) The Secretary of Commerce (“Secretary”) is designated to direct and coordinate efforts by Federal departments and agencies to implement Government metric usage in accordance with section 3 of the Metric Conversion Act (15 U.S.C. 205b), as amended by section 5164(b) of the Trade and Competitiveness Act.
+Section 1. *Coordination by the Department of Commerce*. (a) The Secretary of Commerce ("Secretary") is designated to direct and coordinate efforts by Federal departments and agencies to implement Government metric usage in accordance with section 3 of the Metric Conversion Act (15 U.S.C. 205b), as amended by section 5164(b) of the Trade and Competitiveness Act.
 
 (b) In furtherance of his duties under this order, the Secretary is authorized:
 
-(1) to charter an Interagency Council on Metric Policy (“ICMP”), which will assist the Secretary in coordinating Federal Government-wide implementation of this order. Conflicts and questions regarding implementation of this order shall be resolved by the ICMP. The Secretary may establish such subcommittees and subchairs within this Council as may be necessary to carry out the purposes of this order.[;]
+(1) to charter an Interagency Council on Metric Policy ("ICMP"), which will assist the Secretary in coordinating Federal Government-wide implementation of this order. Conflicts and questions regarding implementation of this order shall be resolved by the ICMP. The Secretary may establish such subcommittees and subchairs within this Council as may be necessary to carry out the purposes of this order.[;]
 
 (2) to form such advisory committees representing other interests, including State and local governments and the business community, as may be necessary to achieve the maximum beneficial effects of this order; and
 

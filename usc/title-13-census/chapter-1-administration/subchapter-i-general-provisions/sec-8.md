@@ -16,19 +16,19 @@ Based on title 13, U.S.C., 1952 ed., §218, and section 1442 of title 42, U.S.C.
 
 Section consolidates section 218 of title 13, U.S.C., 1952 ed., with that part of subsection (b) of section 1442 of title 42, U.S.C., 1952 ed., which made such section 218 applicable to the censuses of housing. For remainder of such section 1442 of title 42 (which has been transferred in its entirety to this revised title), see Distribution Table.
 
-References to the Secretary, meaning the Secretary of Commerce, were substituted for references to the Director of the Census, to conform with 1950 Reorganization Plan No. 5, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title. For the same reason, a reference in section 218 of title 13, U.S.C., 1952 ed., to the Bureau of the Census was changed, in subsection (e) of this revised section to “Department of Commerce or any bureau or agency thereof”.
+References to the Secretary, meaning the Secretary of Commerce, were substituted for references to the Director of the Census, to conform with 1950 Reorganization Plan No. 5, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title. For the same reason, a reference in section 218 of title 13, U.S.C., 1952 ed., to the Bureau of the Census was changed, in subsection (e) of this revised section to "Department of Commerce or any bureau or agency thereof".
 
 Changes were made in phraseology and arrangement.
 
 #### Amendments ####
 
-**1976**—Pub. L. 94–521 substituted “Authenticated transcripts or copies” for “Certified copies” in section catchline.
+**1976**—Pub. L. 94–521 substituted "Authenticated transcripts or copies" for "Certified copies" in section catchline.
 
 Subsec. (a). Pub. L. 94–521 substituted provision that the Secretary may furnish to any respondent, or the successor or authorized agent of such respondent, transcripts or copies of reports containing information furnished in connection with the surveys and census, upon payment of the necessary costs, for provision that authorized the Secretary, in his discretion, to furnish the Governors of States and Territories, courts of record, and individuals, data for genealogical and other proper purposes, from the population, agriculture, and housing schedules prepared under the authority of subchapter II of chapter 5 of this title, upon payment of the necessary costs, plus one dollar for supplying a certificate.
 
-Subsec. (b). Pub. L. 94–521 inserted provision subjecting the Secretary to the limitations contained in sections 6(c) and 9 of this title, when furnishing statistical materials under this section, substituted “copies of tabulations and other statistical materials” for “transcripts or copies of tables and other census records”, inserted provision that materials furnished under this section may not disclose information reported by, or on behalf of, a particular respondent, and substituted a provision enumerating the public and private establishments and individuals, on behalf of whom, special statistical compilations may be conducted for provision that such compilations may be conducted on behalf of State or local officials, private concerns, or individuals.
+Subsec. (b). Pub. L. 94–521 inserted provision subjecting the Secretary to the limitations contained in sections 6(c) and 9 of this title, when furnishing statistical materials under this section, substituted "copies of tabulations and other statistical materials" for "transcripts or copies of tables and other census records", inserted provision that materials furnished under this section may not disclose information reported by, or on behalf of, a particular respondent, and substituted a provision enumerating the public and private establishments and individuals, on behalf of whom, special statistical compilations may be conducted for provision that such compilations may be conducted on behalf of State or local officials, private concerns, or individuals.
 
-Subsec. (c). Pub. L. 94–521 struck out “the authority of” after “furnished under”, substituted “any respondent or other person” for “the persons”, and inserted “except in the prosecution of alleged violations of this title” after “relates,”.
+Subsec. (c). Pub. L. 94–521 struck out "the authority of" after "furnished under", substituted "any respondent or other person" for "the persons", and inserted "except in the prosecution of alleged violations of this title" after "relates,".
 
 **1957**—Subsec. (b). Pub. L. 85–207, §4(a), inserted sentence at end respecting engagement in joint statistical projects.
 

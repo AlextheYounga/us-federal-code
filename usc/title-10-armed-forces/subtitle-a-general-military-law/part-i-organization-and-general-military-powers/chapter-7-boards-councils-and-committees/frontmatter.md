@@ -52,11 +52,11 @@ Pub. L. 112–239, div. A, title X, §1040(b), Jan. 2, 2013, 126 Stat. 1930, add
 
 Pub. L. 110–181, div. A, title IX, §906(a)(2), Jan. 28, 2008, 122 Stat. 277, added item 183.
 
-**2006**—Pub. L. 109–364, div. A, title VIII, §843(b), title IX, §904(a)(2), Oct. 17, 2006, 120 Stat. 2339, 2353, substituted “Regional Centers for Security Studies” for “Department of Defense regional centers for security studies” in item 184 and added item 187.
+**2006**—Pub. L. 109–364, div. A, title VIII, §843(b), title IX, §904(a)(2), Oct. 17, 2006, 120 Stat. 2339, 2353, substituted "Regional Centers for Security Studies" for "Department of Defense regional centers for security studies" in item 184 and added item 187.
 
 **2004**—Pub. L. 108–375, div. A, title III, §332(b)(2), Oct. 28, 2004, 118 Stat. 1855, added item 186.
 
-**2002**—Pub. L. 107–314, div. A, title X, §1041(a)(1)(B), Dec. 2, 2002, 116 Stat. 2645, struck out item 183 “Advisory committees: annual justification required”.
+**2002**—Pub. L. 107–314, div. A, title X, §1041(a)(1)(B), Dec. 2, 2002, 116 Stat. 2645, struck out item 183 "Advisory committees: annual justification required".
 
 **2001**—Pub. L. 107–107, div. A, title X, §1009(a)(2), Dec. 28, 2001, 115 Stat. 1208, added item 185.
 
@@ -70,7 +70,7 @@ Pub. L. 110–181, div. A, title IX, §906(a)(2), Jan. 28, 2008, 122 Stat. 277, 
 
 **1986**—Pub. L. 99–661, div. C, title I, §3137(a)(2), Nov. 14, 1986, 100 Stat. 4066, added item 179.
 
-**1983**—Pub. L. 98–132, §2(a)(2), Oct. 17, 1983, 97 Stat. 849, inserted “The Henry M. Jackson” before “Foundation” in item 178.
+**1983**—Pub. L. 98–132, §2(a)(2), Oct. 17, 1983, 97 Stat. 849, inserted "The Henry M. Jackson" before "Foundation" in item 178.
 
 Pub. L. 98–36, §2(b), May 27, 1983, 97 Stat. 201, added item 178.
 

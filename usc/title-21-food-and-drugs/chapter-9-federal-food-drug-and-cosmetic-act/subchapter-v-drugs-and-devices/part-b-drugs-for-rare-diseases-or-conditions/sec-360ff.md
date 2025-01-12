@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Priority review ####
 
-The term “priority review”, with respect to a human drug application as defined in section 379g(1) of this title, means review and action by the Secretary on such application not later than 6 months after receipt by the Secretary of such application, as described in the Manual of Policies and Procedures of the Food and Drug Administration and goals identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2012.
+The term "priority review", with respect to a human drug application as defined in section 379g(1) of this title, means review and action by the Secretary on such application not later than 6 months after receipt by the Secretary of such application, as described in the Manual of Policies and Procedures of the Food and Drug Administration and goals identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2012.
 
 #### (2) Priority review voucher ####
 
-The term “priority review voucher” means a voucher issued by the Secretary to the sponsor of a rare pediatric disease product application that entitles the holder of such voucher to priority review of a single human drug application submitted under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act [42 U.S.C. 262(a)] after the date of approval of the rare pediatric disease product application.
+The term "priority review voucher" means a voucher issued by the Secretary to the sponsor of a rare pediatric disease product application that entitles the holder of such voucher to priority review of a single human drug application submitted under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act [42 U.S.C. 262(a)] after the date of approval of the rare pediatric disease product application.
 
 #### (3) Rare pediatric disease ####
 
-The term “rare pediatric disease” means a disease that meets each of the following criteria:
+The term "rare pediatric disease" means a disease that meets each of the following criteria:
 
 (A) The disease primarily affects individuals aged from birth to 18 years, including age groups often called neonates, infants, children, and adolescents.
 
@@ -22,7 +22,7 @@ The term “rare pediatric disease” means a disease that meets each of the fol
 
 #### (4) Rare pediatric disease product application ####
 
-The term “rare pediatric disease product application” means a human drug application, as defined in section 379g(1) of this title, that—
+The term "rare pediatric disease product application" means a human drug application, as defined in section 379g(1) of this title, that—
 
 (A) is for a drug or biological product—
 
@@ -212,4 +212,4 @@ Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to
 
 The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-[<sup>1</sup> So in original. The word “that” probably should not appear.](#360ff_1)
+[<sup>1</sup> So in original. The word "that" probably should not appear.](#360ff_1)

@@ -30,4 +30,4 @@ Sec.
 
 #### Amendments ####
 
-**2007**—Pub. L. 110–26, §11(b), May 11, 2007, 121 Stat. 110, added items 300111 to 300113 and struck out former item 300111 “Reservation of right to amend or repeal”.
+**2007**—Pub. L. 110–26, §11(b), May 11, 2007, 121 Stat. 110, added items 300111 to 300113 and struck out former item 300111 "Reservation of right to amend or repeal".

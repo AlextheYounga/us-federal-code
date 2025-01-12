@@ -20,7 +20,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Amendments ####
 
-**2014**—Subsec. (a). Pub. L. 113–79 substituted “2018” for “2012”.
+**2014**—Subsec. (a). Pub. L. 113–79 substituted "2018" for "2012".
 
 #### Effective Date ####
 

@@ -84,35 +84,35 @@ A prior section 12 of act June 25, 1947, was classified to section 135j of this 
 
 #### Amendments ####
 
-**1991**—Subsec. (a)(2)(C). Pub. L. 102–237, §1006(b)(3)(L), substituted “the person's” for “his” and “the person” for “he” before “received”.
+**1991**—Subsec. (a)(2)(C). Pub. L. 102–237, §1006(b)(3)(L), substituted "the person's" for "his" and "the person" for "he" before "received".
 
-Subsec. (a)(2)(D). Pub. L. 102–237, §1006(b)(3)(M), substituted “the person's” for “his”.
+Subsec. (a)(2)(D). Pub. L. 102–237, §1006(b)(3)(M), substituted "the person's" for "his".
 
-Subsec. (a)(2)(F). Pub. L. 102–237, §1006(a)(7)(A), substituted “thereunder, except that it” for “thereunder. It”.
+Subsec. (a)(2)(F). Pub. L. 102–237, §1006(a)(7)(A), substituted "thereunder, except that it" for "thereunder. It".
 
-Subsec. (a)(2)(O). Pub. L. 102–237, §1006(a)(7)(B), struck out “or” after semicolon at end.
+Subsec. (a)(2)(O). Pub. L. 102–237, §1006(a)(7)(B), struck out "or" after semicolon at end.
 
 Subsec. (a)(2)(P). Pub. L. 102–237, §1006(a)(7)(C), substituted a semicolon for period at end.
 
-Subsec. (b)(1). Pub. L. 102–237, §1006(b)(3)(N), substituted “the person” for “he” after “from whom” and for “him” after “delivery to”.
+Subsec. (b)(1). Pub. L. 102–237, §1006(b)(3)(N), substituted "the person" for "he" after "from whom" and for "him" after "delivery to".
 
-Subsec. (b)(3). Pub. L. 102–237, §1006(b)(3)(O), substituted “the official duties of the public official” for “his official duties”.
+Subsec. (b)(3). Pub. L. 102–237, §1006(b)(3)(O), substituted "the official duties of the public official" for "his official duties".
 
-**1988**—Subsec. (a)(1). Pub. L. 100–532, §601(b)(2)(A), in introductory provisions, substituted “distribute or sell to any person” for “distribute, sell, offer for sale, hold for sale, ship, deliver for shipment, or receive and (having so received) deliver or offer to deliver, to any person”.
+**1988**—Subsec. (a)(1). Pub. L. 100–532, §601(b)(2)(A), in introductory provisions, substituted "distribute or sell to any person" for "distribute, sell, offer for sale, hold for sale, ship, deliver for shipment, or receive and (having so received) deliver or offer to deliver, to any person".
 
-Subsec. (a)(1)(A). Pub. L. 100–532, §603(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “any pesticide which is not registered under section 136a of this title, except as provided by section 136d(a)(1) of this title;”.
+Subsec. (a)(1)(A). Pub. L. 100–532, §603(1), added subpar. (A) and struck out former subpar. (A) which read as follows: "any pesticide which is not registered under section 136a of this title, except as provided by section 136d(a)(1) of this title;".
 
-Subsec. (a)(2)(B). Pub. L. 100–532, §603(2)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “to refuse to keep any records required pursuant to section 136f of this title, or to refuse to allow inspection of any records or establishment pursuant to section 136f or 136g of this title, or to refuse to allow an officer or employee of the Environmental Protection Agency to take a sample of any pesticide pursuant to section 136g of this title;”.
+Subsec. (a)(2)(B). Pub. L. 100–532, §603(2)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: "to refuse to keep any records required pursuant to section 136f of this title, or to refuse to allow inspection of any records or establishment pursuant to section 136f or 136g of this title, or to refuse to allow an officer or employee of the Environmental Protection Agency to take a sample of any pesticide pursuant to section 136g of this title;".
 
-Subsec. (a)(2)(F). Pub. L. 100–532, §§601(b)(2)(B), 801(g), substituted “to distribute or sell, or to make” for “to make” and “thereunder, It” for “thereunder: *Provided*, That it”.
+Subsec. (a)(2)(F). Pub. L. 100–532, §§601(b)(2)(B), 801(g), substituted "to distribute or sell, or to make" for "to make" and "thereunder, It" for "thereunder: *Provided*, That it".
 
 Subsec. (a)(2)(J). Pub. L. 100–532, §801(q)(2)(B), made a technical amendment to the reference to section 136a–1 of this title to reflect the renumbering of the corresponding section of the original act.
 
-Pub. L. 100–532, §603(2)(B), added subpar. (J) and struck out former subpar. (J) which read as follows: “to violate any suspension order issued under section 136d of this title;”.
+Pub. L. 100–532, §603(2)(B), added subpar. (J) and struck out former subpar. (J) which read as follows: "to violate any suspension order issued under section 136d of this title;".
 
-Subsec. (a)(2)(K). Pub. L. 100–532, §603(2)(B), added subpar. (K) and struck out former subpar. (K) which read as follows: “to violate any cancellation of registration of a pesticide under section 136d of this title, except as provided by section 136d(a)(1) of this title;”.
+Subsec. (a)(2)(K). Pub. L. 100–532, §603(2)(B), added subpar. (K) and struck out former subpar. (K) which read as follows: "to violate any cancellation of registration of a pesticide under section 136d of this title, except as provided by section 136d(a)(1) of this title;".
 
-Subsec. (a)(2)(M). Pub. L. 100–532, §603(2)(C), substituted “this subchapter” for “section 136f of this title”.
+Subsec. (a)(2)(M). Pub. L. 100–532, §603(2)(C), substituted "this subchapter" for "section 136f of this title".
 
 Subsec. (a)(2)(Q), (R), (S). Pub. L. 100–532, §603(2)(D), added subpars. (Q), (R), and (S).
 

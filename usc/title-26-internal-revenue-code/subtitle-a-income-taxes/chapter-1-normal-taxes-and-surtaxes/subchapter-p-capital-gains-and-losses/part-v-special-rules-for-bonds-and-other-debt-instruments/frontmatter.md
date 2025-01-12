@@ -12,4 +12,4 @@ D. Miscellaneous provisions.
 
 #### Amendments ####
 
-**1986**—Pub. L. 99–514, title XVIII, §1899A(72), Oct. 22, 1986, 100 Stat. 2963, inserted “on bonds” after “discount” in item for subpart B.
+**1986**—Pub. L. 99–514, title XVIII, §1899A(72), Oct. 22, 1986, 100 Stat. 2963, inserted "on bonds" after "discount" in item for subpart B.

@@ -1,6 +1,6 @@
 ### §285e. Purpose of Institute ###
 
-The general purpose of the National Institute on Aging (hereafter in this subpart referred to as the “Institute”) is the conduct and support of biomedical, social, and behavioral research, training, health information dissemination, and other programs with respect to the aging process and the diseases and other special problems and needs of the aged.
+The general purpose of the National Institute on Aging (hereafter in this subpart referred to as the "Institute") is the conduct and support of biomedical, social, and behavioral research, training, health information dissemination, and other programs with respect to the aging process and the diseases and other special problems and needs of the aged.
 
 (July 1, 1944, ch. 373, title IV, §443, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 854.)
 

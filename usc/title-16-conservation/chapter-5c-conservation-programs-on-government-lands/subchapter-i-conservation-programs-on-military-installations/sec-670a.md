@@ -112,9 +112,9 @@ Not later than March 1 of each year, the Secretary of Defense shall review the e
 
 Not later than March 1 of each year and in consultation with the heads of State fish and wildlife agencies, the Secretary of the Interior shall submit a report to the committees on the amounts expended by the Department of the Interior and the State fish and wildlife agencies in the year covered by the report on conservation activities conducted pursuant to integrated natural resources management plans.
 
-#### (3) “Committees” defined ####
+#### (3) "Committees" defined ####
 
-In this subsection, the term “committees” means—
+In this subsection, the term "committees" means—
 
 (A) the Committee on Resources and the Committee on Armed Services of the House of Representatives; and
 
@@ -142,77 +142,77 @@ The Secretary of Defense shall carry out this subsection in consultation with th
 
 Subsec. (a)(1)(B). Pub. L. 112–81, §312(a)(2)(A), designated existing provisions as cl. (i) and added cl. (ii).
 
-Subsec. (a)(2). Pub. L. 112–81, §312(a)(2)(B), inserted “or State-owned National Guard installation” after “military installation” in two places.
+Subsec. (a)(2). Pub. L. 112–81, §312(a)(2)(B), inserted "or State-owned National Guard installation" after "military installation" in two places.
 
-Subsec. (a)(3)(A). Pub. L. 112–81, §312(a)(2)(C)(i)–(v), designated introductory provisions as subpar. (A), redesignated former subpars. (A), (B), and (C) as cls. (i), (ii), and (iii), respectively, inserted “and State-owned National Guard installations” after “Consistent with the use of military installations”, substituted “such installations” for “military installations” in cl. (i), and inserted “on such installations” after “resources” in cl. (ii).
+Subsec. (a)(3)(A). Pub. L. 112–81, §312(a)(2)(C)(i)–(v), designated introductory provisions as subpar. (A), redesignated former subpars. (A), (B), and (C) as cls. (i), (ii), and (iii), respectively, inserted "and State-owned National Guard installations" after "Consistent with the use of military installations", substituted "such installations" for "military installations" in cl. (i), and inserted "on such installations" after "resources" in cl. (ii).
 
 Subsec. (a)(3)(B). Pub. L. 112–81, §312(a)(2)(C)(vi), added subpar. (B).
 
-Subsec. (b). Pub. L. 112–81, §312(a)(2)(D), inserted “and State-owned National Guard installations” after “military installations” in introductory provisions.
+Subsec. (b). Pub. L. 112–81, §312(a)(2)(D), inserted "and State-owned National Guard installations" after "military installations" in introductory provisions.
 
-Subsec. (b)(1)(G), (I). Pub. L. 112–81, §312(a)(2)(E), substituted “installation” for “military installation”.
+Subsec. (b)(1)(G), (I). Pub. L. 112–81, §312(a)(2)(E), substituted "installation" for "military installation".
 
-Subsec. (b)(3). Pub. L. 112–81, §312(a)(2)(F), inserted “, in the case of a military installation,” after “(3) may”.
+Subsec. (b)(3). Pub. L. 112–81, §312(a)(2)(F), inserted ", in the case of a military installation," after "(3) may".
 
 Subsec. (c). Pub. L. 112–81, §312(b)(1)(C), inserted heading.
 
 Subsec. (d). Pub. L. 112–81, §312(b)(1)(D), inserted heading.
 
-Subsec. (e). Pub. L. 112–81, §312(b)(1)(E)(ii), which directed insertion of a comma after “Code”, could not be executed because the word “Code” did not appear.
+Subsec. (e). Pub. L. 112–81, §312(b)(1)(E)(ii), which directed insertion of a comma after "Code", could not be executed because the word "Code" did not appear.
 
 Pub. L. 112–81, §312(b)(1)(E)(i), inserted heading.
 
-**2009**—Subsec. (g)(1). Pub. L. 111–84 substituted “fiscal years 2009 through 2014” for “fiscal years 2004 through 2008” in introductory provisions.
+**2009**—Subsec. (g)(1). Pub. L. 111–84 substituted "fiscal years 2009 through 2014" for "fiscal years 2004 through 2008" in introductory provisions.
 
 **2003**—Subsec. (g). Pub. L. 108–136 added subsec. (g).
 
-**1999**—Subsec. (f)(3)(A). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+**1999**—Subsec. (f)(3)(A). Pub. L. 106–65 substituted "Committee on Armed Services" for "Committee on National Security".
 
-**1997**—Subsec. (a). Pub. L. 105–85, §2904(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of Defense is authorized to carry out a program of planning for, and the development, maintenance, and coordination of, wildlife, fish, and game conservation and rehabilitation in each military reservation in accordance with a cooperative plan mutually agreed upon by the Secretary of Defense, the Secretary of the Interior, and the appropriate State agency designated by the State in which the reservation is located.”
+**1997**—Subsec. (a). Pub. L. 105–85, §2904(a), added subsec. (a) and struck out former subsec. (a) which read as follows: "The Secretary of Defense is authorized to carry out a program of planning for, and the development, maintenance, and coordination of, wildlife, fish, and game conservation and rehabilitation in each military reservation in accordance with a cooperative plan mutually agreed upon by the Secretary of Defense, the Secretary of the Interior, and the appropriate State agency designated by the State in which the reservation is located."
 
-Subsec. (b). Pub. L. 105–85, §2904(c)(1), inserted heading and substituted, in introductory provisions, “Consistent with the use of military installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a) of this section—” for “Each cooperative plan entered into under subsection (a) of this section—”.
+Subsec. (b). Pub. L. 105–85, §2904(c)(1), inserted heading and substituted, in introductory provisions, "Consistent with the use of military installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a) of this section—" for "Each cooperative plan entered into under subsection (a) of this section—".
 
-Subsec. (b)(1). Pub. L. 105–85, §2904(c)(1), added par. (1) and struck out former par. (1) which read as follows: “shall provide for—
+Subsec. (b)(1). Pub. L. 105–85, §2904(c)(1), added par. (1) and struck out former par. (1) which read as follows: "shall provide for—
 
-“(A) fish and wildlife habitat improvements or modifications,
+"(A) fish and wildlife habitat improvements or modifications,
 
-“(B) range rehabilitation where necessary for support of wildlife,
+"(B) range rehabilitation where necessary for support of wildlife,
 
-“(C) control of off-road vehicle traffic, and
+"(C) control of off-road vehicle traffic, and
 
-“(D) specific habitat improvement projects and related activities and adequate protection for species of fish, wildlife, and plants considered threatened or endangered;”.
+"(D) specific habitat improvement projects and related activities and adequate protection for species of fish, wildlife, and plants considered threatened or endangered;".
 
-Subsec. (b)(2). Pub. L. 105–85, §2904(c)(2), inserted “and” at end.
+Subsec. (b)(2). Pub. L. 105–85, §2904(c)(2), inserted "and" at end.
 
-Subsec. (b)(3). Pub. L. 105–85, §2904(c)(3), (4), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “shall, if a multiuse natural resources management plan is applicable to the military reservation, be treated as the exclusive component of that management plan with respect to wildlife, fish, and game conservation and rehabilitation; and”.
+Subsec. (b)(3). Pub. L. 105–85, §2904(c)(3), (4), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "shall, if a multiuse natural resources management plan is applicable to the military reservation, be treated as the exclusive component of that management plan with respect to wildlife, fish, and game conservation and rehabilitation; and".
 
-Subsec. (b)(3)(A). Pub. L. 105–85, §2913(2)(A), substituted “the installation” for “the reservation”.
+Subsec. (b)(3)(A). Pub. L. 105–85, §2913(2)(A), substituted "the installation" for "the reservation".
 
-Pub. L. 105–85, §2904(c)(5), substituted “collect, spend, administer, and account for fees for the permits,” for “collect the fees therefor,”.
+Pub. L. 105–85, §2904(c)(5), substituted "collect, spend, administer, and account for fees for the permits," for "collect the fees therefor,".
 
-Subsec. (b)(3)(B). Pub. L. 105–85, §2912(2)(B), substituted “the military installation on” for “the military reservation on”.
+Subsec. (b)(3)(B). Pub. L. 105–85, §2912(2)(B), substituted "the military installation on" for "the military reservation on".
 
-Pub. L. 105–85, §2906, inserted before period at end “, unless the military installation is subsequently closed, in which case the fees may be transferred to another military installation to be used for the same purposes”.
+Pub. L. 105–85, §2906, inserted before period at end ", unless the military installation is subsequently closed, in which case the fees may be transferred to another military installation to be used for the same purposes".
 
 Subsec. (b)(4). Pub. L. 105–85, §2904(c)(4), redesignated par. (4) as (3).
 
-Pub. L. 105–85, §2904(b)(1), substituted “integrated natural resources management plan” for “cooperative plan” in introductory provisions and in subpar. (A).
+Pub. L. 105–85, §2904(b)(1), substituted "integrated natural resources management plan" for "cooperative plan" in introductory provisions and in subpar. (A).
 
-Subsec. (c). Pub. L. 105–85, §2904(b)(2), substituted “an integrated natural resources management plan” for “a cooperative plan” in introductory provisions.
+Subsec. (c). Pub. L. 105–85, §2904(b)(2), substituted "an integrated natural resources management plan" for "a cooperative plan" in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 105–85, §2913(3)(A), substituted “a military installation” for “a military reservation”.
+Subsec. (c)(1). Pub. L. 105–85, §2913(3)(A), substituted "a military installation" for "a military reservation".
 
-Subsec. (c)(2). Pub. L. 105–85, §2913(3)(B), substituted “the installation” for “the reservation”.
+Subsec. (c)(2). Pub. L. 105–85, §2913(3)(B), substituted "the installation" for "the reservation".
 
-Subsec. (d). Pub. L. 105–85, §2904(b)(3), substituted “integrated natural resources management plans” for “cooperative plans” in introductory provisions.
+Subsec. (d). Pub. L. 105–85, §2904(b)(3), substituted "integrated natural resources management plans" for "cooperative plans" in introductory provisions.
 
-Subsec. (e). Pub. L. 105–85, §2913(4), substituted “chapter 63 of title 31” for “the Federal Grant and Cooperative Agreement Act of 1977 (41 U.S.C. 501 et seq.)”.
+Subsec. (e). Pub. L. 105–85, §2913(4), substituted "chapter 63 of title 31" for "the Federal Grant and Cooperative Agreement Act of 1977 (41 U.S.C. 501 et seq.)".
 
-Pub. L. 105–85, §2904(b)(4), substituted “Integrated natural resources management plans” for “Cooperative plans”.
+Pub. L. 105–85, §2904(b)(4), substituted "Integrated natural resources management plans" for "Cooperative plans".
 
 Subsec. (f). Pub. L. 105–85, §2907, added subsec. (f).
 
-**1986**—Pub. L. 99–561 amended section generally. Prior to amendment, section read as follows: “The Secretary of Defense is hereby authorized to carry out a program of planning, development, maintenance and coordination of wildlife, fish and game conservation and rehabilitation in military reservations in accordance with a cooperative plan mutually agreed upon by the Secretary of Defense, the Secretary of Interior and the appropriate State agency designated by the State in which the reservation is located. Such cooperative plan shall provide for (1) fish and wildlife habitat improvements or modifications, (2) range rehabilitation where necessary for support of wildlife, (3) control of off-road vehicle traffic, and (4) specific habitat improvement projects and related activities and adequate protection for species of fish, wildlife, and plants considered threatened or endangered. Such cooperative plan may stipulate the issuance of special State hunting and fishing permits to individuals and require this payment of a nominal fee therefor, which fees shall be utilized for the protection, conservation and management of fish and wildlife, including habitat improvement and related activities in accordance with the cooperative plan: *Provided*, That the Commanding Officer of the reservation or persons designated by him are authorized to enforce such special hunting and fishing permits and to collect the fees therefor, acting as agent or agents for the State if the cooperative plan so provides. Cooperative plans agreed to under the authority of this section and section 670b of this title shall not be deemed to be, nor treated as, cooperative agreements to which chapter 63 of title 31 applies.”
+**1986**—Pub. L. 99–561 amended section generally. Prior to amendment, section read as follows: "The Secretary of Defense is hereby authorized to carry out a program of planning, development, maintenance and coordination of wildlife, fish and game conservation and rehabilitation in military reservations in accordance with a cooperative plan mutually agreed upon by the Secretary of Defense, the Secretary of Interior and the appropriate State agency designated by the State in which the reservation is located. Such cooperative plan shall provide for (1) fish and wildlife habitat improvements or modifications, (2) range rehabilitation where necessary for support of wildlife, (3) control of off-road vehicle traffic, and (4) specific habitat improvement projects and related activities and adequate protection for species of fish, wildlife, and plants considered threatened or endangered. Such cooperative plan may stipulate the issuance of special State hunting and fishing permits to individuals and require this payment of a nominal fee therefor, which fees shall be utilized for the protection, conservation and management of fish and wildlife, including habitat improvement and related activities in accordance with the cooperative plan: *Provided*, That the Commanding Officer of the reservation or persons designated by him are authorized to enforce such special hunting and fishing permits and to collect the fees therefor, acting as agent or agents for the State if the cooperative plan so provides. Cooperative plans agreed to under the authority of this section and section 670b of this title shall not be deemed to be, nor treated as, cooperative agreements to which chapter 63 of title 31 applies."
 
 **1982**—Pub. L. 97–396, §1(1), added cl. (4).
 
@@ -226,44 +226,44 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 #### Effective Date of 2003 Amendment ####
 
-Pub. L. 108–136, div. A, title III, §311(c)(2), Nov. 24, 2003, 117 Stat. 1429, provided that: “Section 101(g) of the Sikes Act, as added by paragraph (1), [subsec. (g) of this section] shall apply—
+Pub. L. 108–136, div. A, title III, §311(c)(2), Nov. 24, 2003, 117 Stat. 1429, provided that: "Section 101(g) of the Sikes Act, as added by paragraph (1), [subsec. (g) of this section] shall apply—
 
-“(A) to any integrated natural resources management plan prepared for a military installation in Guam under section 101(a)(1) of such Act on or after the date of the enactment of this Act [Nov. 24, 2003]; and
+"(A) to any integrated natural resources management plan prepared for a military installation in Guam under section 101(a)(1) of such Act on or after the date of the enactment of this Act [Nov. 24, 2003]; and
 
-“(B) effective March 1, 2004, to any integrated natural resources management plan prepared for a military installation in Guam under such section before the date of the enactment of this Act.”
+"(B) effective March 1, 2004, to any integrated natural resources management plan prepared for a military installation in Guam under such section before the date of the enactment of this Act."
 
 #### Review for Preparation of Integrated Natural Resources Management Plans ####
 
 Pub. L. 105–85, div. B, title XXIX, §2905, Nov. 18, 1997, 111 Stat. 2019, provided that:
 
-“(a) Definitions.—In this section, the terms ‘military installation’ and ‘United States’ have the meanings provided in section 100 of the Sikes Act [16 U.S.C. 670] (as added by section 2911).
+"(a) Definitions.—In this section, the terms 'military installation' and 'United States' have the meanings provided in section 100 of the Sikes Act [16 U.S.C. 670] (as added by section 2911).
 
-“(b) Review of Military Installations.—
+"(b) Review of Military Installations.—
 
-“(1) Review.—Not later than 270 days after the date of enactment of this Act [Nov. 18, 1997], the Secretary of each military department shall—
+"(1) Review.—Not later than 270 days after the date of enactment of this Act [Nov. 18, 1997], the Secretary of each military department shall—
 
-“(A) review each military installation in the United States that is under the jurisdiction of that Secretary to determine the military installations for which the preparation of an integrated natural resources management plan under section 101 of the Sikes Act [16 U.S.C. 670a] (as amended by this title) is appropriate; and
+"(A) review each military installation in the United States that is under the jurisdiction of that Secretary to determine the military installations for which the preparation of an integrated natural resources management plan under section 101 of the Sikes Act [16 U.S.C. 670a] (as amended by this title) is appropriate; and
 
-“(B) submit to the Secretary of Defense a report on the determinations.
+"(B) submit to the Secretary of Defense a report on the determinations.
 
-“(2) Report to congress.—Not later than one year after the date of enactment of this Act, the Secretary of Defense shall submit to Congress a report on the reviews conducted under paragraph (1). The report shall include—
+"(2) Report to congress.—Not later than one year after the date of enactment of this Act, the Secretary of Defense shall submit to Congress a report on the reviews conducted under paragraph (1). The report shall include—
 
-“(A) a list of the military installations reviewed under paragraph (1) for which the Secretary of the appropriate military department determines that the preparation of an integrated natural resources management plan is not appropriate; and
+"(A) a list of the military installations reviewed under paragraph (1) for which the Secretary of the appropriate military department determines that the preparation of an integrated natural resources management plan is not appropriate; and
 
-“(B) for each of the military installations listed under subparagraph (A), an explanation of each reason such a plan is not appropriate.
+"(B) for each of the military installations listed under subparagraph (A), an explanation of each reason such a plan is not appropriate.
 
-“(c) Deadline for Integrated Natural Resources Management Plans.—Not later than three years after the date of the submission of the report required under subsection (b)(2), the Secretary of each military department shall, for each military installation with respect to which the Secretary has not determined under subsection (b)(2)(A) that preparation of an integrated natural resources management plan is not appropriate—
+"(c) Deadline for Integrated Natural Resources Management Plans.—Not later than three years after the date of the submission of the report required under subsection (b)(2), the Secretary of each military department shall, for each military installation with respect to which the Secretary has not determined under subsection (b)(2)(A) that preparation of an integrated natural resources management plan is not appropriate—
 
-“(1) prepare and begin implementing such a plan in accordance with section 101(a) of the Sikes Act [16 U.S.C. 670a(a)] (as amended by this title); or
+"(1) prepare and begin implementing such a plan in accordance with section 101(a) of the Sikes Act [16 U.S.C. 670a(a)] (as amended by this title); or
 
-“(2) in the case of a military installation for which there is in effect a cooperative plan under section 101(a) of the Sikes Act on the day before the date of enactment of this Act [Nov. 18, 1997], complete negotiations with the Secretary of the Interior and the heads of the appropriate State agencies regarding changes to the plan that are necessary for the plan to constitute an integrated natural resources management plan that complies with that section, as amended by this title.
+"(2) in the case of a military installation for which there is in effect a cooperative plan under section 101(a) of the Sikes Act on the day before the date of enactment of this Act [Nov. 18, 1997], complete negotiations with the Secretary of the Interior and the heads of the appropriate State agencies regarding changes to the plan that are necessary for the plan to constitute an integrated natural resources management plan that complies with that section, as amended by this title.
 
-“(d) Public Comment.—The Secretary of each military department shall provide an opportunity for the submission of public comments on—
+"(d) Public Comment.—The Secretary of each military department shall provide an opportunity for the submission of public comments on—
 
-“(1) integrated natural resources management plans proposed under subsection (c)(1); and
+"(1) integrated natural resources management plans proposed under subsection (c)(1); and
 
-“(2) changes to cooperative plans proposed under subsection (c)(2).”
+"(2) changes to cooperative plans proposed under subsection (c)(2)."
 
 #### Applicability of 1986 Amendments to Existing Contracts ####
 
-Pub. L. 99–561, §3(a)(2), Oct. 27, 1986, 100 Stat. 3151, provided that: “Subsection (d)(1) of such section 101 (as added by paragraph (1) [16 U.S.C. 670a(d)(1)]) shall not affect any contract entered into before the date of the enactment of this Act [October 27, 1986] for the provision of services to implement or enforce a cooperative plan under this Act [enacting section 670a–1 of this title and amending this section and sections 670f and 670o of this title and section 2665 of Title 10, Armed Forces] on any military installation; but shall apply to the renewal, after such date of enactment, of any such contract.”
+Pub. L. 99–561, §3(a)(2), Oct. 27, 1986, 100 Stat. 3151, provided that: "Subsection (d)(1) of such section 101 (as added by paragraph (1) [16 U.S.C. 670a(d)(1)]) shall not affect any contract entered into before the date of the enactment of this Act [October 27, 1986] for the provision of services to implement or enforce a cooperative plan under this Act [enacting section 670a–1 of this title and amending this section and sections 670f and 670o of this title and section 2665 of Title 10, Armed Forces] on any military installation; but shall apply to the renewal, after such date of enactment, of any such contract."

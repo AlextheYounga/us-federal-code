@@ -18,7 +18,7 @@ The Secretary may approve such employment at any time following nonpayment of a 
 
 #### (c) Fraud in procurement ####
 
-If, after a license shall have been issued to an applicant, the Secretary believes that the license was obtained through a false or misleading statement in the application therefor or through a misrepresentation, concealment, or withholding of facts respecting any violation of this chapter by any officer, agent, or employee, he may, after thirty days’ notice and an opportunity for a hearing, revoke said license, whereupon no license shall be issued to said applicant or any applicant in which the person responsible for such false or misleading statement or misrepresentation, concealment, or withholding of facts is financially interested, except under the conditions set forth in section 499d(b) of this title.
+If, after a license shall have been issued to an applicant, the Secretary believes that the license was obtained through a false or misleading statement in the application therefor or through a misrepresentation, concealment, or withholding of facts respecting any violation of this chapter by any officer, agent, or employee, he may, after thirty days' notice and an opportunity for a hearing, revoke said license, whereupon no license shall be issued to said applicant or any applicant in which the person responsible for such false or misleading statement or misrepresentation, concealment, or withholding of facts is financially interested, except under the conditions set forth in section 499d(b) of this title.
 
 #### (d) Injunction ####
 
@@ -36,7 +36,7 @@ Section was formerly classified to section 558 of this title.
 
 #### Amendments ####
 
-**1995**—Subsec. (b). Pub. L. 104–48, §12(b), inserted at end “The Secretary may extend the period of employment sanction as to a responsibly connected person for an additional one-year period upon the determination that the person has been unlawfully employed as provided in this subsection.”
+**1995**—Subsec. (b). Pub. L. 104–48, §12(b), inserted at end "The Secretary may extend the period of employment sanction as to a responsibly connected person for an additional one-year period upon the determination that the person has been unlawfully employed as provided in this subsection."
 
 Subsec. (e). Pub. L. 104–48, §11, added subsec. (e).
 
@@ -46,7 +46,7 @@ Subsec. (e). Pub. L. 104–48, §11, added subsec. (e).
 
 **1956**—Subsec. (b). Act July 30, 1956, provided for suspension of licenses, and restricted authority to permit employment to those cases where licenses have been revoked or suspended for failure to pay a reparation award.
 
-**1937**—Subsec. (a). Act Aug. 20, 1937, among other changes, inserted cl. (a) designation and inserted “or (b) any commission merchant, dealer, or broker has been found guilty in a Federal court of having violated section 499n(b) of this title” after “section 499b of this title”.
+**1937**—Subsec. (a). Act Aug. 20, 1937, among other changes, inserted cl. (a) designation and inserted "or (b) any commission merchant, dealer, or broker has been found guilty in a Federal court of having violated section 499n(b) of this title" after "section 499b of this title".
 
 Subsec. (b). Act Aug. 20, 1937, amended subsec. (b) generally.
 

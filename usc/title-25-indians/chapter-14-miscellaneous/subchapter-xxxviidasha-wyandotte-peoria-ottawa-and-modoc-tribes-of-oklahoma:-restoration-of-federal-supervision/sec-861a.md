@@ -26,4 +26,4 @@ Act of August 13, 1954, referred to in subsec. (a)(2), is act Aug. 13, 1954, ch.
 
 Act of March 9, 1909, referred to in subsec. (a)(3), probably means the act of Mar. 3, 1909, ch. 253, 35 Stat. 751, which was not classified to the Code.
 
-This subchapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 95–281, May 15, 1978, 92 Stat. 246, which enacted this subchapter and repealed subchapter XXXV (§791 et seq.), subchapter XXXVI (§821 et seq.), and subchapter XXXVII (§841 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.
+This subchapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 95–281, May 15, 1978, 92 Stat. 246, which enacted this subchapter and repealed subchapter XXXV (§791 et seq.), subchapter XXXVI (§821 et seq.), and subchapter XXXVII (§841 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.

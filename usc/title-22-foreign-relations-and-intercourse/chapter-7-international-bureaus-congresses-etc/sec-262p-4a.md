@@ -14,7 +14,7 @@ The Congress finds that—
 
 (5) efforts to address the illicit narcotics epidemic through production control are doomed to failure unless greater effort is applied to curb use of and demand for illicit narcotics; and
 
-(6) the appropriate role for the multilateral development banks in the “War Against Drugs” is through coordinating and financing alternative economic opportunities in producer and trafficking countries.
+(6) the appropriate role for the multilateral development banks in the "War Against Drugs" is through coordinating and financing alternative economic opportunities in producer and trafficking countries.
 
 #### (b) Loan programs to reduce economic dependence on illicit narcotics ####
 

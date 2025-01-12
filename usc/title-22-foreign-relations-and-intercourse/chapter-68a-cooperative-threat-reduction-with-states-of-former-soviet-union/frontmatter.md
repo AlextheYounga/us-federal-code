@@ -14,7 +14,7 @@ Sec.
 
 5956. Repealed.
 
-5957. “Appropriate congressional committees” defined.
+5957. "Appropriate congressional committees" defined.
 
 5958. Authorization for additional fiscal year 1993 assistance to independent states of the former Soviet Union.
 

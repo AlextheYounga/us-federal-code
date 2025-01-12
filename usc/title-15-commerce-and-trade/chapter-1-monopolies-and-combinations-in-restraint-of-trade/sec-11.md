@@ -6,4 +6,4 @@ Any property owned under any contract or by any combination, or pursuant to any 
 
 #### Amendments ####
 
-**1913**—Act Feb. 12, 1913, substituted “imported into and being within the United States or” for “and”.
+**1913**—Act Feb. 12, 1913, substituted "imported into and being within the United States or" for "and".

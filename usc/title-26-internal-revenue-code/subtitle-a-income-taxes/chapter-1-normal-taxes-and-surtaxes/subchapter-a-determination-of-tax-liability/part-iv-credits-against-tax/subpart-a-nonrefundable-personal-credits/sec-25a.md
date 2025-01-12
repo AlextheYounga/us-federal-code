@@ -38,7 +38,7 @@ The Hope Scholarship Credit under subsection (a)(1) shall not be allowed for qua
 
 #### (3) Eligible student ####
 
-For purposes of this subsection, the term “eligible student” means, with respect to any academic period, a student who—
+For purposes of this subsection, the term "eligible student" means, with respect to any academic period, a student who—
 
 (A) meets the requirements of section 484(a)(1) of the Higher Education Act of 1965 (20 U.S.C. 1091(a)(1)), as in effect on the date of the enactment of this section, and
 
@@ -84,7 +84,7 @@ The amount determined under this paragraph is the amount which bears the same ra
 
 #### (3) Modified adjusted gross income ####
 
-The term “modified adjusted gross income” means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
+The term "modified adjusted gross income" means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
 
 #### (e) Election not to have section apply ####
 
@@ -98,7 +98,7 @@ For purposes of this section—
 
 #### (A) In general ####
 
-The term “qualified tuition and related expenses” means tuition and fees required for the enrollment or attendance of—
+The term "qualified tuition and related expenses" means tuition and fees required for the enrollment or attendance of—
 
 (i) the taxpayer,
 
@@ -118,7 +118,7 @@ Such term does not include student activity fees, athletic fees, insurance expen
 
 #### (2) Eligible educational institution ####
 
-The term “eligible educational institution” means an institution—
+The term "eligible educational institution" means an institution—
 
 (A) which is described in section 481 of the Higher Education Act of 1965 (20 U.S.C. 1088), as in effect on the date of the enactment of this section, and
 
@@ -174,7 +174,7 @@ In the case of a taxable year beginning after 2001, each of the $1,000 amounts u
 
 (i) such dollar amount, multiplied by
 
-(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2000” for “calendar year 1992” in subparagraph (B) thereof.
+(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2000" for "calendar year 1992" in subparagraph (B) thereof.
 
 #### (B) Rounding ####
 
@@ -188,7 +188,7 @@ In the case of a taxable year beginning after 2001, the $40,000 and $80,000 amou
 
 (i) such dollar amount, multiplied by
 
-(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2000” for “calendar year 1992” in subparagraph (B) thereof.
+(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2000" for "calendar year 1992" in subparagraph (B) thereof.
 
 #### (B) Rounding ####
 
@@ -208,11 +208,11 @@ The Hope Scholarship Credit shall be an amount equal to the sum of—
 
 #### (2) Credit allowed for first 4 years of post-secondary education ####
 
-Subparagraphs (A) and (C) of subsection (b)(2) shall be applied by substituting “4” for “2”.
+Subparagraphs (A) and (C) of subsection (b)(2) shall be applied by substituting "4" for "2".
 
 #### (3) Qualified tuition and related expenses to include required course materials ####
 
-Subsection (f)(1)(A) shall be applied by substituting “tuition, fees, and course materials” for “tuition and fees”.
+Subsection (f)(1)(A) shall be applied by substituting "tuition, fees, and course materials" for "tuition and fees".
 
 #### (4) Increase in AGI limits for Hope Scholarship Credit ####
 
@@ -254,21 +254,21 @@ Section 702(a)(1)(B) of the Heartland Disaster Tax Relief Act of 2008, referred 
 
 #### Amendments ####
 
-**2013**—Subsec. (i). Pub. L. 112–240, §103(a)(1), substituted “after 2008 and before 2018” for “in 2009, 2010, 2011, or 2012” in introductory provisions.
+**2013**—Subsec. (i). Pub. L. 112–240, §103(a)(1), substituted "after 2008 and before 2018" for "in 2009, 2010, 2011, or 2012" in introductory provisions.
 
-Subsec. (i)(5) to (7). Pub. L. 112–240, §104(c)(2)(D), redesignated pars. (6) and (7) as (5) and (6), respectively, substituted “section 26(a)” for “section 26(a)(2) or paragraph (5), as the case may be” in par. (5), and struck out former par. (5) which related to credit allowed against alternative minimum tax.
+Subsec. (i)(5) to (7). Pub. L. 112–240, §104(c)(2)(D), redesignated pars. (6) and (7) as (5) and (6), respectively, substituted "section 26(a)" for "section 26(a)(2) or paragraph (5), as the case may be" in par. (5), and struck out former par. (5) which related to credit allowed against alternative minimum tax.
 
-**2010**—Subsec. (i). Pub. L. 111–312, §103(a)(1), substituted “, 2010, 2011, or 2012” for “or 2010” in introductory provisions.
+**2010**—Subsec. (i). Pub. L. 111–312, §103(a)(1), substituted ", 2010, 2011, or 2012" for "or 2010" in introductory provisions.
 
-Subsec. (i)(5)(B). Pub. L. 111–148, §10909(b)(2)(C), (c), as amended by Pub. L. 111–312, §101(b)(1), temporarily substituted “25D” for “23, 25D,”. See Effective and Termination Dates of 2010 Amendment note below.
+Subsec. (i)(5)(B). Pub. L. 111–148, §10909(b)(2)(C), (c), as amended by Pub. L. 111–312, §101(b)(1), temporarily substituted "25D" for "23, 25D,". See Effective and Termination Dates of 2010 Amendment note below.
 
 **2009**—Subsecs. (i), (j). Pub. L. 111–5 added subsec. (i) and redesignated former subsec. (i) as (j).
 
 **2001**—Subsec. (e). Pub. L. 107–16, §401(g)(2)(A), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
 
-“(1) In general.—No credit shall be allowed under subsection (a) for a taxable year with respect to the qualified tuition and related expenses of an individual unless the taxpayer elects to have this section apply with respect to such individual for such year.
+"(1) In general.—No credit shall be allowed under subsection (a) for a taxable year with respect to the qualified tuition and related expenses of an individual unless the taxpayer elects to have this section apply with respect to such individual for such year.
 
-“(2) Coordination with exclusions.—An election under this subsection shall not take effect with respect to an individual for any taxable year if any portion of any distribution during such taxable year from an education individual retirement account is excluded from gross income under section 530(d)(2).”
+"(2) Coordination with exclusions.—An election under this subsection shall not take effect with respect to an individual for any taxable year if any portion of any distribution during such taxable year from an education individual retirement account is excluded from gross income under section 530(d)(2)."
 
 #### Effective Date of 2013 Amendment ####
 
@@ -290,32 +290,32 @@ Amendment by Pub. L. 111–5 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 2001 Amendment ####
 
-Pub. L. 107–16, title IV, §401(h), June 7, 2001, 115 Stat. 60, provided that: “The amendments made by this section [amending this section and sections 135, 530, and 4973 of this title] shall apply to taxable years beginning after December 31, 2001.”
+Pub. L. 107–16, title IV, §401(h), June 7, 2001, 115 Stat. 60, provided that: "The amendments made by this section [amending this section and sections 135, 530, and 4973 of this title] shall apply to taxable years beginning after December 31, 2001."
 
 #### Effective Date ####
 
 Pub. L. 105–34, title II, §201(f), Aug. 5, 1997, 111 Stat. 806, provided that:
 
-“(1) In general.—The amendments made by this section [enacting this section and section 6050S of this title and amending sections 135, 6213, and 6724 of this title] shall apply to expenses paid after December 31, 1997 (in taxable years ending after such date), for education furnished in academic periods beginning after such date.
+"(1) In general.—The amendments made by this section [enacting this section and section 6050S of this title and amending sections 135, 6213, and 6724 of this title] shall apply to expenses paid after December 31, 1997 (in taxable years ending after such date), for education furnished in academic periods beginning after such date.
 
-“(2) Lifetime learning credit.—Section 25A(a)(2) of the Internal Revenue Code of 1986 shall apply to expenses paid after June 30, 1998 (in taxable years ending after such date), for education furnished in academic periods beginning after such dates.”
+"(2) Lifetime learning credit.—Section 25A(a)(2) of the Internal Revenue Code of 1986 shall apply to expenses paid after June 30, 1998 (in taxable years ending after such date), for education furnished in academic periods beginning after such dates."
 
 #### Treatment of Possessions ####
 
 Pub. L. 111–5, div. B, title I, §1004(c), Feb. 17, 2009, 123 Stat. 314, as amended by Pub. L. 111–312, title I, §103(a)(2), Dec. 17, 2010, 124 Stat. 3299; Pub. L. 112–240, title I, §103(a)(2), Jan. 2, 2013, 126 Stat. 2319, provided that:
 
-“(1) Payments to possessions.—
+"(1) Payments to possessions.—
 
-“(A) Mirror code possession.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the application of section 25A(i)(6) [now 25A(i)(5)] of the Internal Revenue Code of 1986 (as added by this section) with respect to taxable years beginning after 2008 and before 2018. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
+"(A) Mirror code possession.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the application of section 25A(i)(6) [now 25A(i)(5)] of the Internal Revenue Code of 1986 (as added by this section) with respect to taxable years beginning after 2008 and before 2018. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
 
-“(B) Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the application of section 25A(i)(6) [now 25A(i)(5)] of such Code (as so added) for taxable years beginning after 2008 and before 2018 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to the residents of such possession.
+"(B) Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the application of section 25A(i)(6) [now 25A(i)(5)] of such Code (as so added) for taxable years beginning after 2008 and before 2018 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to the residents of such possession.
 
-“(2) Coordination with credit allowed against united states income taxes.—Section 25A(i)(6) [now 25A(i)(5)] of such Code (as added by this section) shall not apply to a bona fide resident of any possession of the United States.
+"(2) Coordination with credit allowed against united states income taxes.—Section 25A(i)(6) [now 25A(i)(5)] of such Code (as added by this section) shall not apply to a bona fide resident of any possession of the United States.
 
-“(3) Definitions and special rules.—
+"(3) Definitions and special rules.—
 
-“(A) Possession of the united states.—For purposes of this subsection, the term ‘possession of the United States’ includes the Commonwealth of Puerto Rico and the Commonwealth of the Northern Mariana Islands.
+"(A) Possession of the united states.—For purposes of this subsection, the term 'possession of the United States' includes the Commonwealth of Puerto Rico and the Commonwealth of the Northern Mariana Islands.
 
-“(B) Mirror code tax system.—For purposes of this subsection, the term ‘mirror code tax system’ means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
+"(B) Mirror code tax system.—For purposes of this subsection, the term 'mirror code tax system' means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
 
-“(C) Treatment of payments.—For purposes of section 1324(b)(2) of title 31, United States Code, the payments under this subsection shall be treated in the same manner as a refund due from the credit allowed under section 25A of the Internal Revenue Code of 1986 by reason of subsection (i)(6) [now (i)(5)] of such section (as added by this section).”
+"(C) Treatment of payments.—For purposes of section 1324(b)(2) of title 31, United States Code, the payments under this subsection shall be treated in the same manner as a refund due from the credit allowed under section 25A of the Internal Revenue Code of 1986 by reason of subsection (i)(6) [now (i)(5)] of such section (as added by this section)."

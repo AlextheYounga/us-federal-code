@@ -6,11 +6,11 @@ In order to ensure the conservation and protection of certain natural, scenic, h
 
 #### (b) Area included ####
 
-The Winding Stair Mountain National Recreation Area (hereafter in this subchapter referred to as the “recreation area”) shall comprise approximately 26,445 acres as generally depicted on the map entitled “Winding Stair Mountain National Recreation Area—Proposed”, dated March 1988, which shall be on file and available for public inspection in the Office of the Chief, Forest Service, Department of Agriculture.
+The Winding Stair Mountain National Recreation Area (hereafter in this subchapter referred to as the "recreation area") shall comprise approximately 26,445 acres as generally depicted on the map entitled "Winding Stair Mountain National Recreation Area—Proposed", dated March 1988, which shall be on file and available for public inspection in the Office of the Chief, Forest Service, Department of Agriculture.
 
 #### (c) Maps and description ####
 
-The Secretary of Agriculture (hereinafter in this section referred to as the “Secretary”) shall, as soon as practicable after October 18, 1988, file a map and a legal description of the recreation area with the Committee on Interior and Insular Affairs and the Committee on Agriculture of the United States House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the United States Senate and each such map and legal description shall have the same force and effect as if included in this subchapter; except that correction of clerical and typographical errors in such legal description and map may be made. The map and legal description shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture.
+The Secretary of Agriculture (hereinafter in this section referred to as the "Secretary") shall, as soon as practicable after October 18, 1988, file a map and a legal description of the recreation area with the Committee on Interior and Insular Affairs and the Committee on Agriculture of the United States House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the United States Senate and each such map and legal description shall have the same force and effect as if included in this subchapter; except that correction of clerical and typographical errors in such legal description and map may be made. The map and legal description shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Department of Agriculture.
 
 #### (d) Administration ####
 

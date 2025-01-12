@@ -2,7 +2,7 @@
 
 (a) Under Secretary and Director.—
 
-(1) In general.—The powers and duties of the United States Patent and Trademark Office shall be vested in an Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (in this title referred to as the “Director”), who shall be a citizen of the United States and who shall be appointed by the President, by and with the advice and consent of the Senate. The Director shall be a person who has a professional background and experience in patent or trademark law.
+(1) In general.—The powers and duties of the United States Patent and Trademark Office shall be vested in an Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (in this title referred to as the "Director"), who shall be a citizen of the United States and who shall be appointed by the President, by and with the advice and consent of the Senate. The Director shall be a person who has a professional background and experience in patent or trademark law.
 
 (2) Duties.—
 
@@ -22,7 +22,7 @@
 
 (A) Appointment and duties.—The Secretary of Commerce shall appoint a Commissioner for Patents and a Commissioner for Trademarks, without regard to chapter 33, 51, or 53 of title 5. The Commissioner for Patents shall be a citizen of the United States with demonstrated management ability and professional background and experience in patent law and serve for a term of 5 years. The Commissioner for Trademarks shall be a citizen of the United States with demonstrated management ability and professional background and experience in trademark law and serve for a term of 5 years. The Commissioner for Patents and the Commissioner for Trademarks shall serve as the chief operating officers for the operations of the Office relating to patents and trademarks, respectively, and shall be responsible for the management and direction of all aspects of the activities of the Office that affect the administration of patent and trademark operations, respectively. The Secretary may reappoint a Commissioner to subsequent terms of 5 years as long as the performance of the Commissioner as set forth in the performance agreement in subparagraph (B) is satisfactory.
 
-(B) Salary and performance agreement.—The Commissioners shall be paid an annual rate of basic pay not to exceed the maximum rate of basic pay for the Senior Executive Service established under section 5382 of title 5, including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(C) of title 5. The compensation of the Commissioners shall be considered, for purposes of section 207(c)(2)(A) of title 18, to be the equivalent of that described under clause (ii) of section 207(c)(2)(A) of title 18. In addition, the Commissioners may receive a bonus in an amount of up to, but not in excess of, 50 percent of the Commissioners’ annual rate of basic pay, based upon an evaluation by the Secretary of Commerce, acting through the Director, of the Commissioners’ performance as defined in an annual performance agreement between the Commissioners and the Secretary. The annual performance agreements shall incorporate measurable organization and individual goals in key operational areas as delineated in an annual performance plan agreed to by the Commissioners and the Secretary. Payment of a bonus under this subparagraph may be made to the Commissioners only to the extent that such payment does not cause the Commissioners’ total aggregate compensation in a calendar year to equal or exceed the amount of the salary of the Vice President under section 104 of title 3.
+(B) Salary and performance agreement.—The Commissioners shall be paid an annual rate of basic pay not to exceed the maximum rate of basic pay for the Senior Executive Service established under section 5382 of title 5, including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(C) of title 5. The compensation of the Commissioners shall be considered, for purposes of section 207(c)(2)(A) of title 18, to be the equivalent of that described under clause (ii) of section 207(c)(2)(A) of title 18. In addition, the Commissioners may receive a bonus in an amount of up to, but not in excess of, 50 percent of the Commissioners' annual rate of basic pay, based upon an evaluation by the Secretary of Commerce, acting through the Director, of the Commissioners' performance as defined in an annual performance agreement between the Commissioners and the Secretary. The annual performance agreements shall incorporate measurable organization and individual goals in key operational areas as delineated in an annual performance plan agreed to by the Commissioners and the Secretary. Payment of a bonus under this subparagraph may be made to the Commissioners only to the extent that such payment does not cause the Commissioners' total aggregate compensation in a calendar year to equal or exceed the amount of the salary of the Vice President under section 104 of title 3.
 
 (C) Removal.—The Commissioners may be removed from office by the Secretary for misconduct or nonsatisfactory performance under the performance agreement described in subparagraph (B), without regard to the provisions of title 5. The Secretary shall provide notification of any such removal to both Houses of Congress.
 
@@ -74,7 +74,7 @@ Based on Title 35, U.S.C., 1946 ed., §2 (R.S. 476, amended (1) Feb. 15, 1916, c
 
 The temporary designation of the assistant commissioner as Commissioner in case of a vacancy in office is added. This will eliminate complications since present applicable general statutes (5 U.S.C., 1946 ed., §7) permit a vacancy to be temporarily filled only for not more than 30 days.
 
-Changes in language are made. “Assistant commissioners” is used in the second sentence (and elsewhere in the bill) as referring to all three assistants.
+Changes in language are made. "Assistant commissioners" is used in the second sentence (and elsewhere in the bill) as referring to all three assistants.
 
 This entire title is subject to Reorganization Plan No. 5 of 1950 (64 Stat. 1263) which vests all functions of the Patent Office in the Secretary of Commerce and authorizes delegation by him. It has been found impractical to so word the various sections of the title, and a general provision has been inserted as the second paragraph of this section of the bill, leaving the wording of various sections of the title in terms of officers previously specified and to whom the functions presently stand delegated.
 
@@ -86,41 +86,41 @@ The Patent and Trademark Office Efficiency Act, referred to in subsecs. (d) to (
 
 **2011**—Subsec. (b)(6). Pub. L. 112–29, §21(b), added par. (6).
 
-Subsec. (e)(2). Pub. L. 112–29, §20(i)(1), substituted “that Act,” for “this Act,” in introductory provisions.
+Subsec. (e)(2). Pub. L. 112–29, §20(i)(1), substituted "that Act," for "this Act," in introductory provisions.
 
-**2002**—Subsec. (a)(2)(B). Pub. L. 107–273, §13206(a)(2)(A), struck out “United States Code,” after “title 5,”.
+**2002**—Subsec. (a)(2)(B). Pub. L. 107–273, §13206(a)(2)(A), struck out "United States Code," after "title 5,".
 
-Subsec. (b)(2)(A). Pub. L. 107–273, §13206(a)(2)(B)(i), struck out “, United States Code” after “title 5”.
+Subsec. (b)(2)(A). Pub. L. 107–273, §13206(a)(2)(B)(i), struck out ", United States Code" after "title 5".
 
-Subsec. (b)(2)(B). Pub. L. 107–273, §13206(a)(2)(B)(ii)–(iv), in first sentence, struck out “United States Code,” after “section 5382 of title 5,” and “, United States Code” after “section 5304(h)(2)(C) of title 5”, in second sentence, struck out “United States Code,” after “for purposes of section 207(c)(2)(A) of title 18,” and “, United States Code” after “clause (ii) of section 207(c)(2)(A) of title 18”, and in last sentence, struck out “, United States Code” after “title 3”.
+Subsec. (b)(2)(B). Pub. L. 107–273, §13206(a)(2)(B)(ii)–(iv), in first sentence, struck out "United States Code," after "section 5382 of title 5," and ", United States Code" after "section 5304(h)(2)(C) of title 5", in second sentence, struck out "United States Code," after "for purposes of section 207(c)(2)(A) of title 18," and ", United States Code" after "clause (ii) of section 207(c)(2)(A) of title 18", and in last sentence, struck out ", United States Code" after "title 3".
 
-Subsec. (b)(2)(C). Pub. L. 107–273, §13206(a)(2)(B)(v), struck out “, United States Code” after “title 5”.
+Subsec. (b)(2)(C). Pub. L. 107–273, §13206(a)(2)(B)(v), struck out ", United States Code" after "title 5".
 
-Subsec. (c). Pub. L. 107–273, §13206(a)(2)(C), in heading, struck out “, United States Code” before period at end, and in text, struck out “United States Code,” after “title 5,”.
+Subsec. (c). Pub. L. 107–273, §13206(a)(2)(C), in heading, struck out ", United States Code" before period at end, and in text, struck out "United States Code," after "title 5,".
 
 **1999**—Pub. L. 106–113 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
-“(a) There shall be in the Patent and Trademark Office a Commissioner of Patents and Trademarks, a Deputy Commissioner, two Assistant Commissioners, and examiners-in-chief appointed under section 7 of this title. The Deputy Commissioner, or, in the event of a vacancy in that office, the Assistant Commissioner senior in date of appointment shall fill the office of Commissioner during a vacancy in that office until the Commissioner is appointed and takes office. The Commissioner of Patents and Trademarks, the Deputy Commissioner, and the Assistant Commissioners shall be appointed by the President, by and with the advice and consent of the Senate. The Secretary of Commerce, upon the nomination of the Commissioner, in accordance with law shall appoint all other officers and employees.
+"(a) There shall be in the Patent and Trademark Office a Commissioner of Patents and Trademarks, a Deputy Commissioner, two Assistant Commissioners, and examiners-in-chief appointed under section 7 of this title. The Deputy Commissioner, or, in the event of a vacancy in that office, the Assistant Commissioner senior in date of appointment shall fill the office of Commissioner during a vacancy in that office until the Commissioner is appointed and takes office. The Commissioner of Patents and Trademarks, the Deputy Commissioner, and the Assistant Commissioners shall be appointed by the President, by and with the advice and consent of the Senate. The Secretary of Commerce, upon the nomination of the Commissioner, in accordance with law shall appoint all other officers and employees.
 
-“(b) The Secretary of Commerce may vest in himself the functions of the Patent and Trademark Office and its officers and employees specified in this title and may from time to time authorize their performance by any other officer or employee.
+"(b) The Secretary of Commerce may vest in himself the functions of the Patent and Trademark Office and its officers and employees specified in this title and may from time to time authorize their performance by any other officer or employee.
 
-“(c) The Secretary of Commerce is authorized to fix the per annum rate of basic compensation of each examiner-in-chief in the Patent and Trademark Office at not in excess of the maximum scheduled rate provided for positions in grade 17 of the General Schedule of the Classification Act of 1949, as amended.
+"(c) The Secretary of Commerce is authorized to fix the per annum rate of basic compensation of each examiner-in-chief in the Patent and Trademark Office at not in excess of the maximum scheduled rate provided for positions in grade 17 of the General Schedule of the Classification Act of 1949, as amended.
 
-“(d) The Commissioner of Patents and Trademarks shall be an Assistant Secretary of Commerce and shall receive compensation at the rate in effect for level III of the Executive Schedule under section 5314 of title 5, United States Code.
+"(d) The Commissioner of Patents and Trademarks shall be an Assistant Secretary of Commerce and shall receive compensation at the rate in effect for level III of the Executive Schedule under section 5314 of title 5, United States Code.
 
-“(e) The members of the Trademark Trial and Appeal Board of the Patent and Trademark Office shall each be paid at a rate not to exceed the maximum rate of basic pay payable for GS–16 of the General Schedule under section 5332 of title 5.”
+"(e) The members of the Trademark Trial and Appeal Board of the Patent and Trademark Office shall each be paid at a rate not to exceed the maximum rate of basic pay payable for GS–16 of the General Schedule under section 5332 of title 5."
 
-Subsec. (d). Pub. L. 106–44 struck out “, United States Code” after “title 5”.
+Subsec. (d). Pub. L. 106–44 struck out ", United States Code" after "title 5".
 
-**1998**—Subsec. (d). Pub. L. 105–304 substituted “in effect for level III of the Executive Schedule under section 5314 of title 5, United States Code” for “prescribed by law for Assistant Secretaries of Commerce”.
+**1998**—Subsec. (d). Pub. L. 105–304 substituted "in effect for level III of the Executive Schedule under section 5314 of title 5, United States Code" for "prescribed by law for Assistant Secretaries of Commerce".
 
 **1984**—Subsec. (e). Pub. L. 98–622 added subsec. (e).
 
-**1982**—Subsec. (a). Pub. L. 97–247 struck out “not more than fifteen” after “two Assistant Commissioners, and”, and inserted “appointed under section 7 of this title” after “examiners-in-chief”.
+**1982**—Subsec. (a). Pub. L. 97–247 struck out "not more than fifteen" after "two Assistant Commissioners, and", and inserted "appointed under section 7 of this title" after "examiners-in-chief".
 
 Subsec. (d). Pub. L. 97–366 added subsec. (d).
 
-**1975**—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”, and “Commissioner of Patents and Trademarks” for “Commissioner of Patents”, wherever appearing.
+**1975**—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office", and "Commissioner of Patents and Trademarks" for "Commissioner of Patents", wherever appearing.
 
 Subsec. (a). Pub. L. 93–601 designated first par. as subsec. (a), redesignated first assistant commissioner as a Deputy Commissioner, granted authority for appointment of not more than fifteen examiners-in-chief to Secretary of Commerce instead of the President, and struck out provision relating to performance by assistant commissioners of duties assigned by Commissioner.
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 #### Effective Date of 1984 Amendment ####
 
-Pub. L. 98–622, title IV, §406(b), Nov. 8, 1984, 98 Stat. 3393, provided that: “The amendments made by sections 401, 402, and 405 of this Act [amending this section and sections 361, 366, 371, 372, and 376 of this title] shall take effect six months after the date of the enactment of this Act [Nov. 8, 1984].”
+Pub. L. 98–622, title IV, §406(b), Nov. 8, 1984, 98 Stat. 3393, provided that: "The amendments made by sections 401, 402, and 405 of this Act [amending this section and sections 361, 366, 371, 372, and 376 of this title] shall take effect six months after the date of the enactment of this Act [Nov. 8, 1984]."
 
 #### Effective Date of 1982 Amendment ####
 
@@ -152,7 +152,7 @@ Amendment by Pub. L. 97–247 effective Aug. 27, 1982, see section 17(a) of Pub.
 
 #### Effective Date of 1975 Amendment ####
 
-Pub. L. 93–601, §4(b), Jan. 2, 1975, 88 Stat. 1957, provided that: “This Act [amending this section and sections 7 and 151 of this title and enacting provisions set out as a note under section 151 of this title] shall be effective upon enactment [Jan. 2, 1975]. Examiners-in-chief in office on the date of enactment shall continue in office under and in accordance with their then existing appointments.”
+Pub. L. 93–601, §4(b), Jan. 2, 1975, 88 Stat. 1957, provided that: "This Act [amending this section and sections 7 and 151 of this title and enacting provisions set out as a note under section 151 of this title] shall be effective upon enactment [Jan. 2, 1975]. Examiners-in-chief in office on the date of enactment shall continue in office under and in accordance with their then existing appointments."
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
@@ -162,14 +162,14 @@ Amendment by Pub. L. 88–426 effective on first day of first pay period which b
 
 #### Effective Date of 1959 Amendment ####
 
-Pub. L. 86–370, §7(b), Sept. 23, 1959, 73 Stat. 653, provided that: “Sections 1 [amending this section, section 7 of this title, and provisions set out as a note below], 3 [amending sections 2205 and 2208 of former Title 5, Executive Departments and Government Officers and Employees], and 6 [amending section 1082 of former Title 5 and section 903 of Title 20, Education] of this Act shall become effective on the first day of the first pay period which begins after the date of enactment of this Act [Sept. 23, 1959].” Such section 7(b) was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660.
+Pub. L. 86–370, §7(b), Sept. 23, 1959, 73 Stat. 653, provided that: "Sections 1 [amending this section, section 7 of this title, and provisions set out as a note below], 3 [amending sections 2205 and 2208 of former Title 5, Executive Departments and Government Officers and Employees], and 6 [amending section 1082 of former Title 5 and section 903 of Title 20, Education] of this Act shall become effective on the first day of the first pay period which begins after the date of enactment of this Act [Sept. 23, 1959]." Such section 7(b) was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660.
 
 #### Existing Positions, Compensation, and Appointments Unaffected by Pub. L. 86–370 Until Action Taken Under Amendments ####
 
-Pub. L. 86–370, §1(c), Sept. 23, 1959, 73 Stat. 650, provided that: “The amendments made by this section [amending sections 1 and 7 of this title] shall not affect—
+Pub. L. 86–370, §1(c), Sept. 23, 1959, 73 Stat. 650, provided that: "The amendments made by this section [amending sections 1 and 7 of this title] shall not affect—
 
-“(1) any position of examiner-in-chief or designated examiner-in-chief existing immediately prior to the effective date of this section [see Effective Date of 1959 Amendment note set out above], or
+"(1) any position of examiner-in-chief or designated examiner-in-chief existing immediately prior to the effective date of this section [see Effective Date of 1959 Amendment note set out above], or
 
-“(2) any incumbent of any such position, his appointment thereto, his rate of compensation, or his right to receive such compensation,
+"(2) any incumbent of any such position, his appointment thereto, his rate of compensation, or his right to receive such compensation,
 
-until appropriate action is taken under authority of such amendments.”
+until appropriate action is taken under authority of such amendments."

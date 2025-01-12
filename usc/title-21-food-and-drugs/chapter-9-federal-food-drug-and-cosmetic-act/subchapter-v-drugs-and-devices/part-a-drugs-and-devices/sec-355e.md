@@ -50,6 +50,6 @@ The Secretary shall undertake enhanced and joint enforcement activities with oth
 
 #### (d) Definition ####
 
-In this section, the term “prescription drug” means a drug subject to section 353(b)(1) of this title.
+In this section, the term "prescription drug" means a drug subject to section 353(b)(1) of this title.
 
 (June 25, 1938, ch. 675, §505D, as added Pub. L. 110–85, title IX, §913, Sept. 27, 2007, 121 Stat. 952.)

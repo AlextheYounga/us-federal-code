@@ -18,9 +18,9 @@ Subsection (a) shall take effect with respect to employers in a State beginning 
 
 #### Amendments ####
 
-**2011**—Subsec. (a)(3). Pub. L. 112–10 struck out “and the employer does not offer a free choice voucher” after “Exchange”.
+**2011**—Subsec. (a)(3). Pub. L. 112–10 struck out "and the employer does not offer a free choice voucher" after "Exchange".
 
-**2010**—Subsec. (a)(3). Pub. L. 111–148, §10108(i)(2), inserted “and the employer does not offer a free choice voucher” after “Exchange” and substituted “may lose” for “will lose”.
+**2010**—Subsec. (a)(3). Pub. L. 111–148, §10108(i)(2), inserted "and the employer does not offer a free choice voucher" after "Exchange" and substituted "may lose" for "will lose".
 
 #### Effective Date of 2011 Amendment ####
 

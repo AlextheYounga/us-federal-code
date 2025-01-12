@@ -2,7 +2,7 @@
 
 Section 300a–21, Pub. L. 95–626, title VI, §601, Nov. 10, 1978, 92 Stat. 3595, set forth Congressional findings and declaration of purpose with respect to grant program.
 
-Section 300a–22, Pub. L. 95–626, title VI, §602, Nov. 10, 1978, 92 Stat. 3595; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, defined terms “Secretary”, “eligible person”, “eligible grant recipient”, “core services”, “supplemental services”, “adolescent parent”.
+Section 300a–22, Pub. L. 95–626, title VI, §602, Nov. 10, 1978, 92 Stat. 3595; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, defined terms "Secretary", "eligible person", "eligible grant recipient", "core services", "supplemental services", "adolescent parent".
 
 Section 300a–23, Pub. L. 95–626, title VI, §603, Nov. 10, 1978, 92 Stat. 3596, set forth authority to make grants.
 

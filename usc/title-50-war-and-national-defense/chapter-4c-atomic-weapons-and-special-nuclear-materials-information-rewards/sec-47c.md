@@ -10,7 +10,7 @@ The Immigration and Nationality Act, referred to in text, is act June 27, 1952, 
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–208 substituted “admission” for “entry”.
+**1996**—Pub. L. 104–208 substituted "admission" for "entry".
 
 #### Change of Name ####
 

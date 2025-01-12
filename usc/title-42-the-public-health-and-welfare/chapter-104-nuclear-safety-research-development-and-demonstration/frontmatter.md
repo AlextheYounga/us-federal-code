@@ -10,7 +10,7 @@ Sec.
 
 9704. National reactor engineering simulator feasibility study.
 
-9705. Federal Nuclear Operations Corps’ study.
+9705. Federal Nuclear Operations Corps' study.
 
 9706. Dissemination of information.
 

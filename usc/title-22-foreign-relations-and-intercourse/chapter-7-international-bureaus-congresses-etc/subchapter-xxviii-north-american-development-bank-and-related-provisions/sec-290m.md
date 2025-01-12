@@ -2,7 +2,7 @@
 
 #### (a) Acceptance of membership ####
 
-The President is hereby authorized to accept membership for the United States in the North American Development Bank (hereafter in this subchapter referred to as the “Bank”) provided for in Chapter II of the Border Environment Cooperation Agreement (hereafter in this subchapter referred to as the “Cooperation Agreement”).
+The President is hereby authorized to accept membership for the United States in the North American Development Bank (hereafter in this subchapter referred to as the "Bank") provided for in Chapter II of the Border Environment Cooperation Agreement (hereafter in this subchapter referred to as the "Cooperation Agreement").
 
 #### (b) Subscription of stock ####
 
@@ -76,7 +76,7 @@ The Securities and Exchange Commission, acting in consultation with the National
 
 #### References in Text ####
 
-This subchapter, referred to in subsec. (a), was in the original “this part” meaning part 2 of subtitle D of title V of Pub. L. 103–182, which enacted this subchapter and amended section 24 of Title 12, Banks and Banking. For complete classification of part 2 to the Code, see Tables.
+This subchapter, referred to in subsec. (a), was in the original "this part" meaning part 2 of subtitle D of title V of Pub. L. 103–182, which enacted this subchapter and amended section 24 of Title 12, Banks and Banking. For complete classification of part 2 to the Code, see Tables.
 
 #### Codification ####
 

@@ -6,9 +6,9 @@ In carrying out the provisions of this subchapter, the Secretaries and the Joint
 
 #### Amendments ####
 
-**1991**—Pub. L. 102–237 substituted “ensure” for “insure” in two places.
+**1991**—Pub. L. 102–237 substituted "ensure" for "insure" in two places.
 
-**1984**—Pub. L. 98–284 substituted “shall cooperate with each other in the conduct of their activities under this subchapter, and shall insure that their activities under this subchapter are closely coordinated with the activities of other Federal agencies” for “shall insure that their activities are closely coordinated with the activities of other Federal agencies” and “Federal Emergency Management Agency, and others,” for “Federal Preparedness Agency, and others”, and inserted “Department of State,”.
+**1984**—Pub. L. 98–284 substituted "shall cooperate with each other in the conduct of their activities under this subchapter, and shall insure that their activities under this subchapter are closely coordinated with the activities of other Federal agencies" for "shall insure that their activities are closely coordinated with the activities of other Federal agencies" and "Federal Emergency Management Agency, and others," for "Federal Preparedness Agency, and others", and inserted "Department of State,".
 
 #### Transfer of Functions ####
 

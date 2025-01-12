@@ -22,7 +22,7 @@ The Congress finds the following:
 
 #### Short Title ####
 
-Pub. L. 106–554, §1(a)(4) [div. B, title I, §125 [§1]], Dec. 21, 2000, 114 Stat. 2763, 2763A–229, 2763A–353, provided that: “This Act [S. 2273, as enacted by section 1(a)(4)[div. B, title I, §125] of Pub. L. 106–554, enacting this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title] may be cited as the ‘Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area Act of 2000’.”
+Pub. L. 106–554, §1(a)(4) [div. B, title I, §125 [§1]], Dec. 21, 2000, 114 Stat. 2763, 2763A–229, 2763A–353, provided that: "This Act [S. 2273, as enacted by section 1(a)(4)[div. B, title I, §125] of Pub. L. 106–554, enacting this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title] may be cited as the 'Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area Act of 2000'."
 
 [<sup>1</sup> So in original. Probably should not be capitalized.](#460ppp_1)
 

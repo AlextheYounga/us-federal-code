@@ -20,8 +20,8 @@ The Secretary of Agriculture may expend amounts appropriated or otherwise made a
 
 #### Amendments ####
 
-**2003**—Subsec. (c). Pub. L. 108–108 amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “Until September 30, 2004, the Secretary of Agriculture may expend amounts appropriated or otherwise made available to carry out this subchapter in a manner consistent with the authorities exercised by the Tennessee Valley Authority, before the transfer of the Recreation Area to the administrative jurisdiction of the Secretary, regarding procurement of property, services, supplies, and equipment.”
+**2003**—Subsec. (c). Pub. L. 108–108 amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "Until September 30, 2004, the Secretary of Agriculture may expend amounts appropriated or otherwise made available to carry out this subchapter in a manner consistent with the authorities exercised by the Tennessee Valley Authority, before the transfer of the Recreation Area to the administrative jurisdiction of the Secretary, regarding procurement of property, services, supplies, and equipment."
 
-**2001**—Subsec. (c). Pub. L. 107–63 substituted “2004” for “2002”.
+**2001**—Subsec. (c). Pub. L. 107–63 substituted "2004" for "2002".
 
 **2000**—Subsec. (c). Pub. L. 106–291 added subsec. (c).

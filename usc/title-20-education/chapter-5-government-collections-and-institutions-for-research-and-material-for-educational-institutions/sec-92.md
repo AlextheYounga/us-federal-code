@@ -12,7 +12,7 @@ Section consists of section 2 of act Mar. 1, 1911. Section 1 thereof authorizing
 
 Bureau of Fisheries in Department of Commerce which administered marine biological station referred to in text under supervision of Secretary of Commerce transferred to Department of the Interior under direction of Secretary of the Interior by Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, and by Reorg. Plan No. III of 1940, set out in the Appendix to Title 5. Bureau of Fisheries consolidated with Bureau of Biological Survey into Fish and Wildlife Service in Department of the Interior and under supervision of Secretary of the Interior, which was succeeded by United States Fish and Wildlife Service, see section 742b of Title 16, Conservation.
 
-“Secretary of Commerce” substituted in text for “Secretary of Commerce and Labor” pursuant to act Mar. 4, 1913, which changed name of Department of Commerce and Labor to Department of Commerce.
+"Secretary of Commerce" substituted in text for "Secretary of Commerce and Labor" pursuant to act Mar. 4, 1913, which changed name of Department of Commerce and Labor to Department of Commerce.
 
 #### Station at Sarasota, Florida ####
 

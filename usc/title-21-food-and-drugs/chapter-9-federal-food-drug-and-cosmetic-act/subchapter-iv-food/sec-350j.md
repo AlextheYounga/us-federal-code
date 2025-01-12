@@ -106,7 +106,7 @@ The Secretary shall improve coordination and cooperation with the Secretary of A
 
 #### (e) Facility ####
 
-For purposes of this section, the term “facility” means a domestic facility or a foreign facility that is required to register under section 350d of this title.
+For purposes of this section, the term "facility" means a domestic facility or a foreign facility that is required to register under section 350d of this title.
 
 (June 25, 1938, ch. 675, §421, as added Pub. L. 111–353, title II, §201(a), Jan. 4, 2011, 124 Stat. 3923.)
 
@@ -120,4 +120,4 @@ Nothing in this section to be construed to apply to certain alcohol-related faci
 
 #### Advisory Committee Consultation ####
 
-Pub. L. 111–353, title II, §201(c), Jan. 4, 2011, 124 Stat. 3926, provided that: “In allocating inspection resources as described in section 421 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 450j] (as added by subsection (a)), the Secretary may, as appropriate, consult with any relevant advisory committee within the Department of Health and Human Services.”
+Pub. L. 111–353, title II, §201(c), Jan. 4, 2011, 124 Stat. 3926, provided that: "In allocating inspection resources as described in section 421 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 450j] (as added by subsection (a)), the Secretary may, as appropriate, consult with any relevant advisory committee within the Department of Health and Human Services."

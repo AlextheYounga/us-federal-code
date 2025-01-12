@@ -12,4 +12,4 @@ Sec.
 
 #### Amendments ####
 
-**1990**—Pub. L. 101–595, title VI, §603(12)(B), Nov. 16, 1990, 104 Stat. 2993, struck out item 14102 “Regulations”.
+**1990**—Pub. L. 101–595, title VI, §603(12)(B), Nov. 16, 1990, 104 Stat. 2993, struck out item 14102 "Regulations".

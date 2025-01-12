@@ -26,7 +26,7 @@
 
 (iii) Any person against whom an adverse determination is made under this subparagraph may obtain a review of such determination in the district court of the United States for the district in which the person resides, or transacts business, by filing in such court (prior to the expiration of the 30-day period which begins on the date the person receives notification of the determination) a written petition requesting that the determination be modified or set aside.
 
-(iv) In this subparagraph, the term “qualified disclosure requirement” means any requirement of—
+(iv) In this subparagraph, the term "qualified disclosure requirement" means any requirement of—
 
 (I) subsections (a), (c), (e), (f), (g), or (i) of section 434 of this title; or
 
@@ -126,33 +126,33 @@ Another prior section 309 of Pub. L. 92–225 was renumbered section 312, and is
 
 #### Amendments ####
 
-**2013**—Subsec. (a)(4)(C)(i). Pub. L. 113–72, §2(a), substituted “a qualified disclosure requirement” for “any requirement of section 434(a) of this title” in introductory provisions.
+**2013**—Subsec. (a)(4)(C)(i). Pub. L. 113–72, §2(a), substituted "a qualified disclosure requirement" for "any requirement of section 434(a) of this title" in introductory provisions.
 
-Subsec. (a)(4)(C)(i)(II). Pub. L. 113–72, §2(b), inserted “, for violations of each qualified disclosure requirement,” before “under a schedule of penalties”.
+Subsec. (a)(4)(C)(i)(II). Pub. L. 113–72, §2(b), inserted ", for violations of each qualified disclosure requirement," before "under a schedule of penalties".
 
 Subsec. (a)(4)(C)(iv). Pub. L. 113–72, §2(c)(2), added cl. (iv). Former cl. (iv) redesignated (v).
 
-Pub. L. 113–72, §1, substituted “December 31, 2018” for “December 31, 2013”.
+Pub. L. 113–72, §1, substituted "December 31, 2018" for "December 31, 2013".
 
 Subsec. (a)(4)(C)(v). Pub. L. 113–72, §2(c)(1), redesignated cl. (iv) as (v).
 
 **2008**—Subsec. (a)(4)(C)(iv). Pub. L. 110–433 added cl. (iv).
 
-**2002**—Subsec. (a)(5)(B). Pub. L. 107–155, §315(a)(1), inserted before period at end “(or, in the case of a violation of section 441f of this title, which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation)”.
+**2002**—Subsec. (a)(5)(B). Pub. L. 107–155, §315(a)(1), inserted before period at end "(or, in the case of a violation of section 441f of this title, which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation)".
 
-Subsec. (a)(6)(C). Pub. L. 107–155, §315(a)(2), inserted before period at end “(or, in the case of a violation of section 441f of this title, which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation)”.
+Subsec. (a)(6)(C). Pub. L. 107–155, §315(a)(2), inserted before period at end "(or, in the case of a violation of section 441f of this title, which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation)".
 
-Subsec. (d)(1)(A). Pub. L. 107–155, §312(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Any person who knowingly and willfully commits a violation of any provision of this Act which involves the making, receiving, or reporting of any contribution or expenditure aggregating $2,000 or more during a calendar year shall be fined, or imprisoned for not more than one year, or both. The amount of this fine shall not exceed the greater of $25,000 or 300 percent of any contribution or expenditure involved in such violation.”
+Subsec. (d)(1)(A). Pub. L. 107–155, §312(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Any person who knowingly and willfully commits a violation of any provision of this Act which involves the making, receiving, or reporting of any contribution or expenditure aggregating $2,000 or more during a calendar year shall be fined, or imprisoned for not more than one year, or both. The amount of this fine shall not exceed the greater of $25,000 or 300 percent of any contribution or expenditure involved in such violation."
 
 Subsec. (d)(1)(D). Pub. L. 107–155, §315(b), added subpar. (D).
 
-**1999**—Subsec. (a)(4)(A)(i). Pub. L. 106–58, §640(a)(1), substituted “clauses (ii) and subparagraph (C)” for “clause (ii)”.
+**1999**—Subsec. (a)(4)(A)(i). Pub. L. 106–58, §640(a)(1), substituted "clauses (ii) and subparagraph (C)" for "clause (ii)".
 
 Subsec. (a)(4)(C). Pub. L. 106–58, §640(a)(2), added subpar. (C).
 
-Subsec. (a)(6)(A). Pub. L. 106–58, §640(b), substituted “paragraph (4)” for “paragraph (4)(A)”.
+Subsec. (a)(6)(A). Pub. L. 106–58, §640(b), substituted "paragraph (4)" for "paragraph (4)(A)".
 
-**1986**—Subsecs. (a)(1), (2), (4)(A)(i), (B)(ii), (5)(A) to (C), (6), (d)(2), (3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+**1986**—Subsecs. (a)(1), (2), (4)(A)(i), (B)(ii), (5)(A) to (C), (6), (d)(2), (3). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 **1984**—Subsec. (a)(10). Pub. L. 98–620 struck out par. (10) which provided that any action brought under subsec. (a) be advanced on the docket of the court in which filed and put ahead of all other actions (other than other actions brought under this subsec. or under section 437h of this title).
 
@@ -164,21 +164,21 @@ Subsecs. (b), (c). Pub. L. 94–283, §109, reenacted subsec. (b) without change
 
 #### Effective Date of 2013 Amendment ####
 
-Pub. L. 113–72, §3, Dec. 26, 2013, 127 Stat. 1211, provided that: “The amendments made by this Act [amending this section] shall take effect on the earlier of—
+Pub. L. 113–72, §3, Dec. 26, 2013, 127 Stat. 1211, provided that: "The amendments made by this Act [amending this section] shall take effect on the earlier of—
 
-“(1) December 31, 2013; or
+"(1) December 31, 2013; or
 
-“(2) the date of the enactment of this Act [Dec. 26, 2013].”
+"(2) the date of the enactment of this Act [Dec. 26, 2013]."
 
 #### Effective Date of 2008 Amendment ####
 
-Pub. L. 110–433, §1(c), Oct. 16, 2008, 122 Stat. 4971, provided that: “The amendments made by this section [amending this section and repealing provisions set out as a note below] shall take effect as if included in the enactment of the Treasury and General Government Appropriations Act, 2000 [Pub. L. 106–58].”
+Pub. L. 110–433, §1(c), Oct. 16, 2008, 122 Stat. 4971, provided that: "The amendments made by this section [amending this section and repealing provisions set out as a note below] shall take effect as if included in the enactment of the Treasury and General Government Appropriations Act, 2000 [Pub. L. 106–58]."
 
 #### Effective Date of 2002 Amendment ####
 
-Pub. L. 107–155, title III, §312(b), Mar. 27, 2002, 116 Stat. 106, provided that: “The amendment made by this section [amending this section] shall apply to violations occurring on or after the effective date of this Act [for general effective date of Pub. L. 107–155, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of this title].”
+Pub. L. 107–155, title III, §312(b), Mar. 27, 2002, 116 Stat. 106, provided that: "The amendment made by this section [amending this section] shall apply to violations occurring on or after the effective date of this Act [for general effective date of Pub. L. 107–155, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of this title]."
 
-Pub. L. 107–155, title III, §315(c), Mar. 27, 2002, 116 Stat. 108, provided that: “The amendments made by this section [amending this section] shall apply with respect to violations occurring on or after the effective date of this Act [for general effective date of Pub. L. 107–155, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of this title].”
+Pub. L. 107–155, title III, §315(c), Mar. 27, 2002, 116 Stat. 108, provided that: "The amendments made by this section [amending this section] shall apply with respect to violations occurring on or after the effective date of this Act [for general effective date of Pub. L. 107–155, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of this title]."
 
 #### Effective Date of 1999 Amendment ####
 
@@ -196,4 +196,4 @@ Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub.
 
 Section effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 431 of this title.
 
-[<sup>1</sup> So in original. Probably should be “clause”.](#437g_1)
+[<sup>1</sup> So in original. Probably should be "clause".](#437g_1)

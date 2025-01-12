@@ -34,7 +34,7 @@ Sec.
 
 554b. Medical care for employees engaged in hazardous work; notification and transportation of employees.
 
-554c. Care of employees’ graves.
+554c. Care of employees' graves.
 
 554d. Recreation facilities for employees of Forest Service and their immediate families.
 
@@ -232,11 +232,11 @@ Sec.
 
 580 o. Forest Service appropriations.
 
-580p. “Woodsy Owl” and “Smokey Bear” characters and names; definitions.
+580p. "Woodsy Owl" and "Smokey Bear" characters and names; definitions.
 
 580p–1. Property of the United States.
 
-580p–2. Deposit of fees collected under regulations relating to “Smokey Bear”; availability.
+580p–2. Deposit of fees collected under regulations relating to "Smokey Bear"; availability.
 
 580p–3. Use of royalty fees; special account.
 
@@ -272,7 +272,7 @@ Sec.
 
 582a–6. Scope of forestry research.
 
-582a–7. “State” defined.
+582a–7. "State" defined.
 
 582a–8. Competitive forestry, natural resources, and environmental grants program.
 
@@ -288,9 +288,9 @@ Sec.
 
 583d. Notice; registered mail and publication; costs; contents; request for hearing; time; determination and record available for inspection.
 
-583e. Remedies against private owners; jurisdiction; final orders; “owner” defined.
+583e. Remedies against private owners; jurisdiction; final orders; "owner" defined.
 
-583f. “Federally owned or administered forest land” defined.
+583f. "Federally owned or administered forest land" defined.
 
 583g. Rules and regulations; delegation of powers and duties.
 

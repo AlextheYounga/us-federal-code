@@ -6,6 +6,6 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 #### Amendments ####
 
-**1980**—Pub. L. 96–607 substituted “such sums as may be necessary to carry out the provisions of sections 410kk to 410kk–2 of this title, but not more than $4,100,000 for development and not more than $1,400,000 for the acquisition of lands and interests therein for” for “not more than $680,000 to provide for the development of” and “National Historical Park” for “National Historic Site”.
+**1980**—Pub. L. 96–607 substituted "such sums as may be necessary to carry out the provisions of sections 410kk to 410kk–2 of this title, but not more than $4,100,000 for development and not more than $1,400,000 for the acquisition of lands and interests therein for" for "not more than $680,000 to provide for the development of" and "National Historical Park" for "National Historic Site".
 
 Pub. L. 96–87 increased appropriation authorization from $180,000 to $680,000.

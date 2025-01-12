@@ -12,15 +12,15 @@ Based on title 28, U.S.C., 1940 ed., §212 (Mar. 3, 1911, ch. 231, §117, 36 Sta
 
 The provision in section 212 of title 28, U.S.C., 1940 ed., for a three-judge court of appeals was permissive and did not limit the power of the court to sit in banc. Thus, subsection (b) reflects present status of law, namely, that court is composed of not only circuit judges of the circuit in active service, of whom there may be more than three, but the circuit justice or justices and judges who may be assigned or designated to the court. (See *Textile Mills Securities Corporation v. Commissioner of Internal Revenue*, 1942, 62 S.Ct. 272, 314 U.S. 326, 86 L.Ed. 249 and Reviser's Notes under section 46 of this title.)
 
-Words “with appellate jurisdiction, as hereinafter limited and established” were omitted as covered by section 1291 et seq. of this title, conferring appellate jurisdiction on the courts of appeals.
+Words "with appellate jurisdiction, as hereinafter limited and established" were omitted as covered by section 1291 et seq. of this title, conferring appellate jurisdiction on the courts of appeals.
 
-The term “court of appeals” was substituted in this section and throughout this title for the term “circuit court of appeals.”
+The term "court of appeals" was substituted in this section and throughout this title for the term "circuit court of appeals."
 
 Provision for a quorum of the court is now covered by section 46(d) of this title.
 
 #### Amendments ####
 
-**1963**—Subsec. (b). Pub. L. 88–176 inserted “regular” before “active service”.
+**1963**—Subsec. (b). Pub. L. 88–176 inserted "regular" before "active service".
 
 #### Change of Name of Court ####
 

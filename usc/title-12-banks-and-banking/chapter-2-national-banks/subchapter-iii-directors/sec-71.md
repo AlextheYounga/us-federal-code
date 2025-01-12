@@ -10,9 +10,9 @@ R.S. §5145 derived from act June 3, 1864, ch. 106, §§9, 10, 13 Stat. 102, whi
 
 #### Amendments ####
 
-**2000**—Pub. L. 106–569 substituted “for a period of not more than 3 years” for “for one year” and inserted at end “In accordance with regulations issued by the Comptroller of the Currency, a national bank may adopt bylaws that provide for staggering the terms of its directors.”
+**2000**—Pub. L. 106–569 substituted "for a period of not more than 3 years" for "for one year" and inserted at end "In accordance with regulations issued by the Comptroller of the Currency, a national bank may adopt bylaws that provide for staggering the terms of its directors."
 
-**1963**—Pub. L. 88–232 substituted “on such day of each year as is specified therefor in the bylaws” for “on such day in January of each year as is specified therefor in the articles of association”.
+**1963**—Pub. L. 88–232 substituted "on such day of each year as is specified therefor in the bylaws" for "on such day in January of each year as is specified therefor in the articles of association".
 
 #### Exception as to Transfer of Functions ####
 

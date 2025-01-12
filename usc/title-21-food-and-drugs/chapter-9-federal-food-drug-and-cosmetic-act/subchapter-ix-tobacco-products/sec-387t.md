@@ -4,7 +4,7 @@
 
 #### (1) Requirement ####
 
-Beginning 1 year after June 22, 2009, the label, packaging, and shipping containers of tobacco products other than cigarettes for introduction or delivery for introduction into interstate commerce in the United States shall bear the statement “sale only allowed in the United States”. Beginning 15 months after the issuance of the regulations required by section 1333(d) of title 15, as amended by section 201 of Family <sup><a href="#387t_1_target" name="387t_1">1</a></sup> Smoking Prevention and Tobacco Control Act, the label, packaging, and shipping containers of cigarettes for introduction or delivery for introduction into interstate commerce in the United States shall bear the statement “Sale only allowed in the United States”.
+Beginning 1 year after June 22, 2009, the label, packaging, and shipping containers of tobacco products other than cigarettes for introduction or delivery for introduction into interstate commerce in the United States shall bear the statement "sale only allowed in the United States". Beginning 15 months after the issuance of the regulations required by section 1333(d) of title 15, as amended by section 201 of Family <sup><a href="#387t_1_target" name="387t_1">1</a></sup> Smoking Prevention and Tobacco Control Act, the label, packaging, and shipping containers of cigarettes for introduction or delivery for introduction into interstate commerce in the United States shall bear the statement "Sale only allowed in the United States".
 
 #### (2) Effective date ####
 
@@ -50,7 +50,7 @@ the manufacturer or distributor shall promptly notify the Attorney General and t
 
 #### (2) Knowledge defined ####
 
-For purposes of this subsection, the term “knowledge” as applied to a manufacturer or distributor means—
+For purposes of this subsection, the term "knowledge" as applied to a manufacturer or distributor means—
 
 (A) the actual knowledge that the manufacturer or distributor had; or
 
@@ -66,4 +66,4 @@ In carrying out this section, the Secretary shall consult with the Attorney Gene
 
 Section 201 of the Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (a)(1), is section 201 of div. A of Pub. L. 111–31.
 
-[<sup>1</sup> So in original. Probably should be “the Family”.](#387t_1)
+[<sup>1</sup> So in original. Probably should be "the Family".](#387t_1)

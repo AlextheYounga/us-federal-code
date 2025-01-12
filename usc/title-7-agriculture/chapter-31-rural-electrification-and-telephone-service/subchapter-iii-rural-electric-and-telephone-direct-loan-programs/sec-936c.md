@@ -112,12 +112,12 @@ The Rural Electrification Loan Restructuring Act of 1993, referred to in subsec.
 
 #### Amendments ####
 
-**1994**—Subsecs. (b)(3)(A)(ii), (d)(4). Pub. L. 103–354 substituted “Secretary” for “Administrator”.
+**1994**—Subsecs. (b)(3)(A)(ii), (d)(4). Pub. L. 103–354 substituted "Secretary" for "Administrator".
 
-**1993**—Subsec. (c)(2). Pub. L. 103–129, §2(c)(10)(A), inserted before period at end “, except that such rate shall not be greater than 7 percent per year, subject to subsection (d) of this section”.
+**1993**—Subsec. (c)(2). Pub. L. 103–129, §2(c)(10)(A), inserted before period at end ", except that such rate shall not be greater than 7 percent per year, subject to subsection (d) of this section".
 
 Subsec. (d). Pub. L. 103–129, §2(c)(10)(B), added subsec. (d).
 
 #### Regulations ####
 
-Pub. L. 103–66, title I, §1201(b), Aug. 10, 1993, 107 Stat. 330, provided that: “Not later than 45 days after the date of enactment of this section [Aug. 10, 1993], the Administrator of the Rural Electrification Administration shall issue interim final regulations to carry out the amendment made by subsection (a) [enacting this section].”
+Pub. L. 103–66, title I, §1201(b), Aug. 10, 1993, 107 Stat. 330, provided that: "Not later than 45 days after the date of enactment of this section [Aug. 10, 1993], the Administrator of the Rural Electrification Administration shall issue interim final regulations to carry out the amendment made by subsection (a) [enacting this section]."

@@ -96,17 +96,17 @@ Sec.
 
 **2002**—Pub. L. 107–295, title IV, §413(b), Nov. 25, 2002, 116 Stat. 2120, added item 709a.
 
-**2000**—Pub. L. 106–398, §1 [[div. A], title V, §502(b)(2)(B)], Oct. 30, 2000, 114 Stat. 1654, 1654A–100, substituted “Establishment of promotion zones under running mate system” for “Placement in promotion zone; consideration for promotion” in item 731.
+**2000**—Pub. L. 106–398, §1 [[div. A], title V, §502(b)(2)(B)], Oct. 30, 2000, 114 Stat. 1654, 1654A–100, substituted "Establishment of promotion zones under running mate system" for "Placement in promotion zone; consideration for promotion" in item 731.
 
-**1985**—Pub. L. 99–145, title V, §514(c)(3)(B), Nov. 8, 1985, 99 Stat. 629, substituted “rear admiral (lower half)” for “commodore” in item 743.
+**1985**—Pub. L. 99–145, title V, §514(c)(3)(B), Nov. 8, 1985, 99 Stat. 629, substituted "rear admiral (lower half)" for "commodore" in item 743.
 
-**1983**—Pub. L. 97–417, §2(17)(B), Jan. 4, 1983, 96 Stat. 2087, inserted “and commodore” after “Rear admiral” in item 743.
+**1983**—Pub. L. 97–417, §2(17)(B), Jan. 4, 1983, 96 Stat. 2087, inserted "and commodore" after "Rear admiral" in item 743.
 
-**1982**—Pub. L. 97–295, §2(22), Oct. 12, 1982, 96 Stat. 1303, inserted “previously removed from an active status” in item 733.
+**1982**—Pub. L. 97–295, §2(22), Oct. 12, 1982, 96 Stat. 1303, inserted "previously removed from an active status" in item 733.
 
-**1981**—Pub. L. 97–136, §6(c)(3), Dec. 29, 1981, 95 Stat. 1706, substituted “Exclusiveness of service” for “Exemption from military training and draft; exclusiveness of service” in item 711.
+**1981**—Pub. L. 97–136, §6(c)(3), Dec. 29, 1981, 95 Stat. 1706, substituted "Exclusiveness of service" for "Exemption from military training and draft; exclusiveness of service" in item 711.
 
-**1980**—Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1002, revised analysis generally by adding items 701 to 713 and 720 to 746, and by omitting items 751 to 765, undesignated center heading “Commissioned Officers” following item 765, and items 770 to 798.
+**1980**—Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1002, revised analysis generally by adding items 701 to 713 and 720 to 746, and by omitting items 751 to 765, undesignated center heading "Commissioned Officers" following item 765, and items 770 to 798.
 
 **1974**—Pub. L. 93–283, §1(14), May 14, 1974, 88 Stat. 141, added items 765 and 796 to 798.
 
@@ -114,11 +114,11 @@ Sec.
 
 **1962**—Pub. L. 87–704, §1(b), Sept. 27, 1962, 76 Stat. 633, added item 763.
 
-Pub. L. 87–649, §7(d), Sept. 7, 1962, 76 Stat. 495, substituted “Benefits” for “Pay, allowances, and other benefits” in item 755.
+Pub. L. 87–649, §7(d), Sept. 7, 1962, 76 Stat. 495, substituted "Benefits" for "Pay, allowances, and other benefits" in item 755.
 
 **1960**—Pub. L. 86–559, §2(4), June 30, 1960, 74 Stat. 281, added item 787a.
 
-**1958**—Pub. L. 85–861, §5(3), Sept. 2, 1958, 72 Stat. 1555, added heading “Commissioned Officers” and items 770 to 795.
+**1958**—Pub. L. 85–861, §5(3), Sept. 2, 1958, 72 Stat. 1555, added heading "Commissioned Officers" and items 770 to 795.
 
 **1956**—Act Aug. 10, 1956, ch. 1041, §§15(b), 16(b), 70A Stat. 625, 626, added items 751a, 752a, 753a, 758a, and 759a.
 

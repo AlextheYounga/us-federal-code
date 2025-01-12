@@ -20,7 +20,7 @@ Within 1 year after October 5, 1992, the Commission, in consultation with repres
 
 #### (2) Scrambling and encryption ####
 
-In issuing the regulations referred to in paragraph (1), the Commission shall determine whether and, if so, under what circumstances to permit cable systems to scramble or encrypt signals or to restrict cable systems in the manner in which they encrypt or scramble signals, except that the Commission shall not limit the use of scrambling or encryption technology where the use of such technology does not interfere with the functions of subscribers’ television receivers or video cassette recorders.
+In issuing the regulations referred to in paragraph (1), the Commission shall determine whether and, if so, under what circumstances to permit cable systems to scramble or encrypt signals or to restrict cable systems in the manner in which they encrypt or scramble signals, except that the Commission shall not limit the use of scrambling or encryption technology where the use of such technology does not interfere with the functions of subscribers' television receivers or video cassette recorders.
 
 #### (c) Rulemaking requirements ####
 
@@ -30,7 +30,7 @@ In prescribing the regulations required by this section, the Commission shall co
 
 (A) the need to maximize open competition in the market for all features, functions, protocols, and other product and service options of converter boxes and other cable converters unrelated to the descrambling or decryption of cable television signals;
 
-(B) the costs and benefits to consumers of imposing compatibility requirements on cable operators and television manufacturers in a manner that, while providing effective protection against theft or unauthorized reception of cable service, will minimize interference with or nullification of the special functions of subscribers’ television receivers or video cassette recorders, including functions that permit the subscriber—
+(B) the costs and benefits to consumers of imposing compatibility requirements on cable operators and television manufacturers in a manner that, while providing effective protection against theft or unauthorized reception of cable service, will minimize interference with or nullification of the special functions of subscribers' television receivers or video cassette recorders, including functions that permit the subscriber—
 
 (i) to watch a program on one channel while simultaneously using a video cassette recorder to tape a program on another channel;
 
@@ -44,7 +44,7 @@ In prescribing the regulations required by this section, the Commission shall co
 
 The regulations prescribed by the Commission under this section shall include such regulations as are necessary—
 
-(A) to specify the technical requirements with which a television receiver or video cassette recorder must comply in order to be sold as “cable compatible” or “cable ready”;
+(A) to specify the technical requirements with which a television receiver or video cassette recorder must comply in order to be sold as "cable compatible" or "cable ready";
 
 (B) to require cable operators offering channels whose reception requires a converter box—
 
@@ -56,7 +56,7 @@ The regulations prescribed by the Commission under this section shall include su
 
 (III) to use advanced television picture generation and display features; and
 
-(ii) to the extent technically and economically feasible, to offer subscribers the option of having all other channels delivered directly to the subscribers’ television receivers or video cassette recorders without passing through the converter box;
+(ii) to the extent technically and economically feasible, to offer subscribers the option of having all other channels delivered directly to the subscribers' television receivers or video cassette recorders without passing through the converter box;
 
 (C) to promote the commercial availability, from cable operators and retail vendors that are not affiliated with cable systems, of converter boxes and of remote control devices compatible with converter boxes;
 

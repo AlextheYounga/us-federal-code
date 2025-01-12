@@ -42,4 +42,4 @@ This Act, referred to in subsec. (a), is Pub. L. 101–628, Nov. 28, 1990, 104 S
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
-[<sup>1</sup> So in original. Closing parenthesis probably should follow “1219”.](#460fff-1_1)
+[<sup>1</sup> So in original. Closing parenthesis probably should follow "1219".](#460fff-1_1)

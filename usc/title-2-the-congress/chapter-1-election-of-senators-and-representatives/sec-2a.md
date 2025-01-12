@@ -10,7 +10,7 @@
 
 #### Amendments ####
 
-**1996**—Subsec. (b). Pub. L. 104–186 struck out at end “; and in case of vacancies in the offices of both the Clerk and the Sergeant at Arms, or the absence or inability of both to act, such duty shall devolve upon the Doorkeeper of the House of Representatives”.
+**1996**—Subsec. (b). Pub. L. 104–186 struck out at end "; and in case of vacancies in the offices of both the Clerk and the Sergeant at Arms, or the absence or inability of both to act, such duty shall devolve upon the Doorkeeper of the House of Representatives".
 
 **1941**—Act Nov. 15, 1941, provided for reapportionment based on seventeenth and subsequent decennial censuses.
 

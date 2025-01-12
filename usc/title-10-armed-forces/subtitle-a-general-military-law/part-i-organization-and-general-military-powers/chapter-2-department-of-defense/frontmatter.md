@@ -34,9 +34,9 @@ Sec.
 
 #### Amendments ####
 
-**2011**—Pub. L. 112–81, div. A, title IX, §935(a)(2), Dec. 31, 2011, 125 Stat. 1545, substituted “Biennial strategic workforce plan” for “Annual strategic workforce plan” in item 115b.
+**2011**—Pub. L. 112–81, div. A, title IX, §935(a)(2), Dec. 31, 2011, 125 Stat. 1545, substituted "Biennial strategic workforce plan" for "Annual strategic workforce plan" in item 115b.
 
-**2009**—Pub. L. 111–84, div. A, title XI, §§1108(a)(2), 1109(b)(2)(B)(ii), Oct. 28, 2009, 123 Stat. 2491, 2493, amended item 115a generally, substituting “Annual defense manpower requirements report” for “Annual manpower requirements report”, and added item 115b.
+**2009**—Pub. L. 111–84, div. A, title XI, §§1108(a)(2), 1109(b)(2)(B)(ii), Oct. 28, 2009, 123 Stat. 2491, 2493, amended item 115a generally, substituting "Annual defense manpower requirements report" for "Annual manpower requirements report", and added item 115b.
 
 **2008**—Pub. L. 110–417, [div. A], title X, §1061(a)(1), Oct. 14, 2008, 122 Stat. 4612, added item 118b.
 
@@ -46,13 +46,13 @@ Sec.
 
 **1998**—Pub. L. 105–261, div. A, title III, §373(a)(2), Oct. 17, 1998, 112 Stat. 1992, added item 117.
 
-**1994**—Pub. L. 103–337, div. A, title XVI, §1671(b)(1), Oct. 5, 1994, 108 Stat. 3013, struck out item 115b “Annual report on National Guard and reserve component equipment”.
+**1994**—Pub. L. 103–337, div. A, title XVI, §1671(b)(1), Oct. 5, 1994, 108 Stat. 3013, struck out item 115b "Annual report on National Guard and reserve component equipment".
 
-**1992**—Pub. L. 102–484, div. A, title X, §1002(d)(1), Oct. 23, 1992, 106 Stat. 2480, struck out item 114a “Multiyear Defense Program: submission to Congress; consistency in budgeting”.
+**1992**—Pub. L. 102–484, div. A, title X, §1002(d)(1), Oct. 23, 1992, 106 Stat. 2480, struck out item 114a "Multiyear Defense Program: submission to Congress; consistency in budgeting".
 
-**1990**—Pub. L. 101–510, div. A, title XIV, §1402(a)(3)(B), Nov. 5, 1990, 104 Stat. 1674, which directed amendment of item 114a by substituting “Multiyear” for “Five-year”, was executed by substituting “Multiyear” for “Five-Year” as the probable intent of Congress.
+**1990**—Pub. L. 101–510, div. A, title XIV, §1402(a)(3)(B), Nov. 5, 1990, 104 Stat. 1674, which directed amendment of item 114a by substituting "Multiyear" for "Five-year", was executed by substituting "Multiyear" for "Five-Year" as the probable intent of Congress.
 
-Pub. L. 101–510, div. A, title XIII, §1331(1), title XIV, §1483(c)(1), Nov. 5, 1990, 104 Stat. 1673, 1715, substituted “Personnel strengths: requirement for annual authorization” for “Annual authorization of personnel strengths; annual manpower requirements report” in item 115, added items 115a and 115b, and struck out items 117 “Annual report on North Atlantic Treaty Organization readiness” and 118 “Sale or transfer of defense articles: reports to Congress”.
+Pub. L. 101–510, div. A, title XIII, §1331(1), title XIV, §1483(c)(1), Nov. 5, 1990, 104 Stat. 1673, 1715, substituted "Personnel strengths: requirement for annual authorization" for "Annual authorization of personnel strengths; annual manpower requirements report" in item 115, added items 115a and 115b, and struck out items 117 "Annual report on North Atlantic Treaty Organization readiness" and 118 "Sale or transfer of defense articles: reports to Congress".
 
 **1989**—Pub. L. 101–189, div. A, title XVI, §1602(a)(2), Nov. 29, 1989, 103 Stat. 1597, added item 114a.
 

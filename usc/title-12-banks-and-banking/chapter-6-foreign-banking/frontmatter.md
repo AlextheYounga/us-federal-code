@@ -48,7 +48,7 @@ Sec.
 
 624. Appointment of receiver or conservator.
 
-625. Stockholders’ meetings; books and records; reports; examination.
+625. Stockholders' meetings; books and records; reports; examination.
 
 626. Dividends; surplus fund.
 

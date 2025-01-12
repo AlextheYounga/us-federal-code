@@ -74,7 +74,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “qualified fuels” means—
+The term "qualified fuels" means—
 
 (A) oil produced from shale and tar sands,
 
@@ -94,7 +94,7 @@ Except as provided in subparagraph (B), the determination of whether any gas is 
 
 #### (B) Special rules for gas from tight formations ####
 
-The term “gas produced from a tight formation” shall only include gas from a tight formation—
+The term "gas produced from a tight formation" shall only include gas from a tight formation—
 
 (i) which, as of April 20, 1977, was committed or dedicated to interstate commerce (as defined in section 2(18) of the Natural Gas Policy Act of 1978, as in effect on the date of the enactment of this clause), or
 
@@ -102,7 +102,7 @@ The term “gas produced from a tight formation” shall only include gas from a
 
 #### (3) Biomass ####
 
-The term “biomass” means any organic material other than—
+The term "biomass" means any organic material other than—
 
 (A) oil and natural gas (or any product thereof), and
 
@@ -128,11 +128,11 @@ The Secretary shall, not later than April 1 of each calendar year, determine and
 
 #### (B) Inflation adjustment factor ####
 
-The term “inflation adjustment factor” means, with respect to a calendar year, a fraction the numerator of which is the GNP implicit price deflator for the calendar year and the denominator of which is the GNP implicit price deflator for calendar year 1979. The term “GNP implicit price deflator” means the first revision of the implicit price deflator for the gross national product as computed and published by the Department of Commerce.
+The term "inflation adjustment factor" means, with respect to a calendar year, a fraction the numerator of which is the GNP implicit price deflator for the calendar year and the denominator of which is the GNP implicit price deflator for calendar year 1979. The term "GNP implicit price deflator" means the first revision of the implicit price deflator for the gross national product as computed and published by the Department of Commerce.
 
 #### (C) Reference price ####
 
-The term “reference price” means with respect to a calendar year the Secretary's estimate of the annual average wellhead price per barrel for all domestic crude oil the price of which is not subject to regulation by the United States.
+The term "reference price" means with respect to a calendar year the Secretary's estimate of the annual average wellhead price per barrel for all domestic crude oil the price of which is not subject to regulation by the United States.
 
 #### (3) Production attributable to the taxpayer ####
 
@@ -144,11 +144,11 @@ The amount of the credit allowable under subsection (a) shall be determined with
 
 #### (5) Barrel-of-oil equivalent ####
 
-The term “barrel-of-oil equivalent” with respect to any fuel means that amount of such fuel which has a Btu content of 5.8 million; except that in the case of qualified fuels described in subparagraph (C) of subsection (c)(1), the Btu content shall be determined without regard to any material from a source not described in such subparagraph.
+The term "barrel-of-oil equivalent" with respect to any fuel means that amount of such fuel which has a Btu content of 5.8 million; except that in the case of qualified fuels described in subparagraph (C) of subsection (c)(1), the Btu content shall be determined without regard to any material from a source not described in such subparagraph.
 
 #### (6) Barrel defined ####
 
-The term “barrel” means 42 United States gallons.
+The term "barrel" means 42 United States gallons.
 
 #### (7) Related persons ####
 
@@ -178,7 +178,7 @@ In the case of a facility for producing qualified fuels described in subparagrap
 
 (A) for purposes of subsection (e)(1)(B), such facility shall be treated as being placed in service before January 1, 1993, if such facility is placed in service before July 1, 1998, pursuant to a binding written contract in effect before January 1, 1997, and
 
-(B) if such facility is originally placed in service after December 31, 1992, paragraph (2) of subsection (e) shall be applied with respect to such facility by substituting “January 1, 2008” for “January 1, 2003”.
+(B) if such facility is originally placed in service after December 31, 1992, paragraph (2) of subsection (e) shall be applied with respect to such facility by substituting "January 1, 2008" for "January 1, 2003".
 
 #### (2) Special rule ####
 
@@ -206,7 +206,7 @@ The amount of qualified fuels sold during any taxable year which may be taken in
 
 #### (B) Extension period to commence with unadjusted credit amount ####
 
-For purposes of applying subsection (b)(2) to the $3 amount in subsection (a), in the case of fuels sold after 2005, subsection (d)(2)(B) shall be applied by substituting “2004” for “1979”.
+For purposes of applying subsection (b)(2) to the $3 amount in subsection (a), in the case of fuels sold after 2005, subsection (d)(2)(B) shall be applied by substituting "2004" for "1979".
 
 #### (C) Denial of double benefit ####
 
@@ -238,115 +238,115 @@ The date of the enactment of this clause, and such date of enactment, referred t
 
 **2008**—Subsec. (g)(2)(E). Pub. L. 110–343 added subpar. (E).
 
-**2006**—Subsec. (g)(1). Pub. L. 109–432, §211(b), inserted “(other than from petroleum based products)” after “producing coke or coke gas” in introductory provisions.
+**2006**—Subsec. (g)(1). Pub. L. 109–432, §211(b), inserted "(other than from petroleum based products)" after "producing coke or coke gas" in introductory provisions.
 
 Subsec. (g)(2)(D). Pub. L. 109–432, §211(a), added subpar. (D).
 
 **2005**—Pub. L. 109–58, §1322(a)(1), renumbered section 29 of this title as this section.
 
-Subsec. (a). Pub. L. 109–135, §402(g), struck out “if the taxpayer elects to have this section apply,” after “For purposes of section 38,” in introductory provisions.
+Subsec. (a). Pub. L. 109–135, §402(g), struck out "if the taxpayer elects to have this section apply," after "For purposes of section 38," in introductory provisions.
 
-Pub. L. 109–58, §1322(a)(3)(E), substituted “For purposes of section 38, if the taxpayer elects to have this section apply, the nonconventional source production credit determined under this section for the taxable year is” for “There shall be allowed as a credit against the tax imposed by this chapter for the taxable year” in introductory provisions.
+Pub. L. 109–58, §1322(a)(3)(E), substituted "For purposes of section 38, if the taxpayer elects to have this section apply, the nonconventional source production credit determined under this section for the taxable year is" for "There shall be allowed as a credit against the tax imposed by this chapter for the taxable year" in introductory provisions.
 
-Subsec. (b)(6). Pub. L. 109–58, §1322(a)(3)(F), struck out heading and text of par. (6). Text read as follows: “The credit allowed by subsection (a) for any taxable year shall not exceed the excess (if any) of—
+Subsec. (b)(6). Pub. L. 109–58, §1322(a)(3)(F), struck out heading and text of par. (6). Text read as follows: "The credit allowed by subsection (a) for any taxable year shall not exceed the excess (if any) of—
 
-“(A) the regular tax for the taxable year reduced by the sum of the credits allowable under subpart A and section 27, over
+"(A) the regular tax for the taxable year reduced by the sum of the credits allowable under subpart A and section 27, over
 
-“(B) the tentative minimum tax for the taxable year.”
+"(B) the tentative minimum tax for the taxable year."
 
-Subsec. (c)(2)(A). Pub. L. 109–58, §1322(b)(1)(A), inserted “(as in effect before the repeal of such section)” after “1978”.
+Subsec. (c)(2)(A). Pub. L. 109–58, §1322(b)(1)(A), inserted "(as in effect before the repeal of such section)" after "1978".
 
 Subsecs. (e), (f). Pub. L. 109–58, §1322(b)(1)(B), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e), which related to application of section with the Natural Gas Policy Act of 1978.
 
-Subsec. (g). Pub. L. 109–135, §412(l)(1), substituted “subsection (e)” for “subsection (f)” in introductory provisions.
+Subsec. (g). Pub. L. 109–135, §412(l)(1), substituted "subsection (e)" for "subsection (f)" in introductory provisions.
 
 Pub. L. 109–58, §1322(b)(1)(B), redesignated subsec. (h) as (g).
 
-Subsec. (g)(1)(A). Pub. L. 109–58, §1322(b)(2)(A), substituted “subsection (e)(1)(B)” for “subsection (f)(1)(B)”.
+Subsec. (g)(1)(A). Pub. L. 109–58, §1322(b)(2)(A), substituted "subsection (e)(1)(B)" for "subsection (f)(1)(B)".
 
-Subsec. (g)(1)(B). Pub. L. 109–58, §1322(b)(2)(B), substituted “subsection (e)” for “subsection (f)”.
+Subsec. (g)(1)(B). Pub. L. 109–58, §1322(b)(2)(B), substituted "subsection (e)" for "subsection (f)".
 
-Subsec. (g)(2)(C). Pub. L. 109–135, §412(l)(2), substituted “subsection (f)” for “subsection (g)”.
+Subsec. (g)(2)(C). Pub. L. 109–135, §412(l)(2), substituted "subsection (f)" for "subsection (g)".
 
 Subsec. (h). Pub. L. 109–58, §1322(b)(1)(B), redesignated subsec. (h) as (g).
 
 Pub. L. 109–58, §1321(a), added subsec. (h).
 
-**1996**—Subsec. (b)(6)(A). Pub. L. 104–188, §1205(d)(3), substituted “section 27” for “sections 27 and 28”.
+**1996**—Subsec. (b)(6)(A). Pub. L. 104–188, §1205(d)(3), substituted "section 27" for "sections 27 and 28".
 
-Subsec. (g)(1)(A). Pub. L. 104–188, §1207(a), substituted “July 1, 1998” for “January 1, 1997” and “January 1, 1997” for “January 1, 1996”.
+Subsec. (g)(1)(A). Pub. L. 104–188, §1207(a), substituted "July 1, 1998" for "January 1, 1997" and "January 1, 1997" for "January 1, 1996".
 
 **1992**—Subsec. (g). Pub. L. 102–486 added subsec. (g).
 
-**1990**—Subsec. (b)(3)(A)(i)(III). Pub. L. 101–508, §11813(b)(1)(A), substituted “section 48(a)(4)(C)” for “section 48(l)(11)(C)”.
+**1990**—Subsec. (b)(3)(A)(i)(III). Pub. L. 101–508, §11813(b)(1)(A), substituted "section 48(a)(4)(C)" for "section 48(l)(11)(C)".
 
-Subsec. (b)(4). Pub. L. 101–508, §11813(b)(1)(B), substituted “section 49(b) or 50(a)” for “section 47” in two places.
+Subsec. (b)(4). Pub. L. 101–508, §11813(b)(1)(B), substituted "section 49(b) or 50(a)" for "section 47" in two places.
 
 Subsec. (b)(5), (6). Pub. L. 101–508, §11501(c)(1), added par. (5) and redesignated former par. (5) as (6).
 
-Subsec. (c)(1)(B) to (E). Pub. L. 101–508, §11816(a), inserted “and” at end of subpar. (B), substituted a period for a comma at end of subpar. (C), and struck out subpar. (D) which related to qualifying processed wood fuels, and subpar. (E) which related to steam produced from solid agricultural byproducts (not including timber byproducts).
+Subsec. (c)(1)(B) to (E). Pub. L. 101–508, §11816(a), inserted "and" at end of subpar. (B), substituted a period for a comma at end of subpar. (C), and struck out subpar. (D) which related to qualifying processed wood fuels, and subpar. (E) which related to steam produced from solid agricultural byproducts (not including timber byproducts).
 
-Subsec. (c)(2)(B). Pub. L. 101–508, §11501(b)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘gas produced from a tight formation’ shall only include—
+Subsec. (c)(2)(B). Pub. L. 101–508, §11501(b)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "The term 'gas produced from a tight formation' shall only include—
 
-“(i) gas the price of which is regulated by the United States, and
+"(i) gas the price of which is regulated by the United States, and
 
-“(ii) gas for which the maximum lawful price applicable under the Natural Gas Policy Act of 1978 is at least 150 percent of the then applicable price under section 103 of such Act.”
+"(ii) gas for which the maximum lawful price applicable under the Natural Gas Policy Act of 1978 is at least 150 percent of the then applicable price under section 103 of such Act."
 
-Subsec. (c)(3). Pub. L. 101–508, §11813(b)(1)(C), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘biomass’ means any organic material which is an alternate substance (as defined in section 48(l)(3)(B)) other than coal (including lignite) or any product of such coal.”
+Subsec. (c)(3). Pub. L. 101–508, §11813(b)(1)(C), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The term 'biomass' means any organic material which is an alternate substance (as defined in section 48(l)(3)(B)) other than coal (including lignite) or any product of such coal."
 
-Subsec. (c)(4). Pub. L. 101–508, §11816(b)(1), struck out par. (4) “Qualifying processed wood fuel” which read as follows:
+Subsec. (c)(4). Pub. L. 101–508, §11816(b)(1), struck out par. (4) "Qualifying processed wood fuel" which read as follows:
 
-“(A) In general.—The term ‘qualifying processed wood fuel’ means any processed solid wood fuel (other than charcoal, fireplace products, or a product used for ornamental or recreational purposes) which has a Btu content per unit of volume or weight, determined without regard to any nonwood elements, which is at least 40 percent greater per unit of volume or weight than the Btu content of the wood from which it is produced (determined immediately before the processing).
+"(A) In general.—The term 'qualifying processed wood fuel' means any processed solid wood fuel (other than charcoal, fireplace products, or a product used for ornamental or recreational purposes) which has a Btu content per unit of volume or weight, determined without regard to any nonwood elements, which is at least 40 percent greater per unit of volume or weight than the Btu content of the wood from which it is produced (determined immediately before the processing).
 
-“(B) Election.—A taxpayer shall elect, at such time and in such manner as the Secretary by regulations may prescribe, as to whether Btu content per unit shall be determined for purposes of this paragraph on a volume or weight basis. Any such election—
+"(B) Election.—A taxpayer shall elect, at such time and in such manner as the Secretary by regulations may prescribe, as to whether Btu content per unit shall be determined for purposes of this paragraph on a volume or weight basis. Any such election—
 
-“(i) shall apply to all production from a facility; and
+"(i) shall apply to all production from a facility; and
 
-“(ii) shall be effective for the taxable year with respect to which it is made and for all subsequent taxable years and, once made, may be revoked only with the consent of the Secretary.”
+"(ii) shall be effective for the taxable year with respect to which it is made and for all subsequent taxable years and, once made, may be revoked only with the consent of the Secretary."
 
-Subsec. (c)(5). Pub. L. 101–508, §11816(b)(1), struck out par. (5) “Agricultural byproduct steam” which read as follows: “Steam produced from solid agricultural byproducts which is used by the taxpayer in his trade or business shall be treated as having been sold by the taxpayer to an unrelated person on the date on which it is used.”
+Subsec. (c)(5). Pub. L. 101–508, §11816(b)(1), struck out par. (5) "Agricultural byproduct steam" which read as follows: "Steam produced from solid agricultural byproducts which is used by the taxpayer in his trade or business shall be treated as having been sold by the taxpayer to an unrelated person on the date on which it is used."
 
-Subsec. (d)(4). Pub. L. 101–508, §11816(b)(2), amended par. (4) generally, striking out “Special rules applicable to” before “Gas” in heading, redesignating former subpar. (A) as par. (4), striking out subpar. (B) which related to the reference price and application of phaseout for Devonian shale, and making minor changes in phraseology.
+Subsec. (d)(4). Pub. L. 101–508, §11816(b)(2), amended par. (4) generally, striking out "Special rules applicable to" before "Gas" in heading, redesignating former subpar. (A) as par. (4), striking out subpar. (B) which related to the reference price and application of phaseout for Devonian shale, and making minor changes in phraseology.
 
-Subsec. (d)(5), (6). Pub. L. 101–508, §11816(b)(3), (4), redesignated par. (6) as (5), substituted “subparagraph (C)” for “subparagraph (C), (D), or (E)”, and struck out former par. (5) which read as follows: “In the case of a facility for the production of—
+Subsec. (d)(5), (6). Pub. L. 101–508, §11816(b)(3), (4), redesignated par. (6) as (5), substituted "subparagraph (C)" for "subparagraph (C), (D), or (E)", and struck out former par. (5) which read as follows: "In the case of a facility for the production of—
 
-“(A) qualifying processed wood fuel,
+"(A) qualifying processed wood fuel,
 
 or
 
-“(B) steam from solid agricultural byproducts,
+"(B) steam from solid agricultural byproducts,
 
-paragraph (1) of subsection (b) shall not apply with respect to the amount of the credit allowable under subsection (a) for fuels sold during the 3-year period beginning on the date the facility is placed in service.”
+paragraph (1) of subsection (b) shall not apply with respect to the amount of the credit allowable under subsection (a) for fuels sold during the 3-year period beginning on the date the facility is placed in service."
 
 Subsec. (d)(7) to (9). Pub. L. 101–508, §11816(b)(3), redesignated pars. (7) to (9) as (6) to (8), respectively.
 
-Subsec. (f). Pub. L. 101–508, §11816(b)(5), amended subsec. (f) generally, redesignating former par. (1) as subsec. (f), making minor changes in phraseology, substituting par. (2) for former par. (1)(B) which read as follows: “which are sold after December 31, 1979, and before January 1, 2003.”, and striking out former par. (2) which related to special rules applicable to qualified processed wood and solid agricultural byproduct steam.
+Subsec. (f). Pub. L. 101–508, §11816(b)(5), amended subsec. (f) generally, redesignating former par. (1) as subsec. (f), making minor changes in phraseology, substituting par. (2) for former par. (1)(B) which read as follows: "which are sold after December 31, 1979, and before January 1, 2003.", and striking out former par. (2) which related to special rules applicable to qualified processed wood and solid agricultural byproduct steam.
 
-Subsec. (f)(1)(A)(i), (ii). Pub. L. 101–508, §11501(a)(1), substituted “1993” for “1991”.
+Subsec. (f)(1)(A)(i), (ii). Pub. L. 101–508, §11501(a)(1), substituted "1993" for "1991".
 
-Subsec. (f)(1)(B). Pub. L. 101–508, §11501(a)(2), substituted “2003” for “2001”.
+Subsec. (f)(1)(B). Pub. L. 101–508, §11501(a)(2), substituted "2003" for "2001".
 
-**1988**—Subsec. (f)(1)(A)(i), (ii). Pub. L. 100–647 substituted “1991” for “1990”.
+**1988**—Subsec. (f)(1)(A)(i), (ii). Pub. L. 100–647 substituted "1991" for "1990".
 
-**1986**—Subsec. (b)(5). Pub. L. 99–514, §701(c)(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The credit allowed by subsection (a) for a taxable year shall not exceed the taxpayer's tax liability for the taxable year (as defined in section 26(b)), reduced by the sum of the credits allowable under subpart A and sections 27 and 28.”
+**1986**—Subsec. (b)(5). Pub. L. 99–514, §701(c)(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "The credit allowed by subsection (a) for a taxable year shall not exceed the taxpayer's tax liability for the taxable year (as defined in section 26(b)), reduced by the sum of the credits allowable under subpart A and sections 27 and 28."
 
 Subsec. (d)(8). Pub. L. 99–514, §1879(c)(1), inserted provision directing that a corporation which is a member of an affiliated group of corporations filing a consolidated return shall be treated as selling qualified fuels to an unrelated person if such fuels are sold to such person by another member of such group.
 
 **1984**—Pub. L. 98–369, §471(c), renumbered section 44D of this title as this section.
 
-Subsec. (b)(1)(A). Pub. L. 98–369, §722(d)(1), substituted “in which the sale occurs” for “in which the taxable year begins”.
+Subsec. (b)(1)(A). Pub. L. 98–369, §722(d)(1), substituted "in which the sale occurs" for "in which the taxable year begins".
 
-Subsec. (b)(2). Pub. L. 98–369, §722(d)(2), substituted “in which the sale occurs” for “in which a taxable year begins”.
+Subsec. (b)(2). Pub. L. 98–369, §722(d)(2), substituted "in which the sale occurs" for "in which a taxable year begins".
 
-Subsec. (b)(5). Pub. L. 98–369, §612(e)(1), substituted “section 26(b)” for “section 25(b)”.
+Subsec. (b)(5). Pub. L. 98–369, §612(e)(1), substituted "section 26(b)" for "section 25(b)".
 
-Pub. L. 98–369, §474(h), amended par. (5) generally, substituting “shall not exceed the taxpayer's tax liability for the taxable year (as defined in section 25(b)), reduced by the sum of the credits allowable under subpart A and sections 27 and 28” for “shall not exceed the tax imposed by this chapter for such taxable year, reduced by the sum of the credits allowable under a section of this subpart having a lower number or letter designation than this section, other than the credits allowable by sections 31, 39, and 43. For purposes of the preceding sentence, the term ‘tax imposed by this chapter’ shall not include any tax treated as not imposed by this chapter under the last sentence of section 53(a)”.
+Pub. L. 98–369, §474(h), amended par. (5) generally, substituting "shall not exceed the taxpayer's tax liability for the taxable year (as defined in section 25(b)), reduced by the sum of the credits allowable under subpart A and sections 27 and 28" for "shall not exceed the tax imposed by this chapter for such taxable year, reduced by the sum of the credits allowable under a section of this subpart having a lower number or letter designation than this section, other than the credits allowable by sections 31, 39, and 43. For purposes of the preceding sentence, the term 'tax imposed by this chapter' shall not include any tax treated as not imposed by this chapter under the last sentence of section 53(a)".
 
-**1983**—Subsec. (f)(1)(B), (2)(A)(i). Pub. L. 97–448 substituted “December 31, 1979” for “December 3, 1979”.
+**1983**—Subsec. (f)(1)(B), (2)(A)(i). Pub. L. 97–448 substituted "December 31, 1979" for "December 3, 1979".
 
-**1982**—Subsec. (d)(9). Pub. L. 97–354 substituted “Pass-thru in the case of estates and trusts” for “Pass-through in the case of subchapter S corporations, etc.” in par. heading, and substituted provisions relating to the applicability of rules similar to rules of subsec. (d) of section 52 for provisions relating to the applicability of rules similar to rules of subsecs. (d) and (e) of section 52.
+**1982**—Subsec. (d)(9). Pub. L. 97–354 substituted "Pass-thru in the case of estates and trusts" for "Pass-through in the case of subchapter S corporations, etc." in par. heading, and substituted provisions relating to the applicability of rules similar to rules of subsec. (d) of section 52 for provisions relating to the applicability of rules similar to rules of subsecs. (d) and (e) of section 52.
 
-**1981**—Subsec. (e). Pub. L. 97–34 substituted provisions respecting application with the Natural Gas Policy Act of 1978 for prior provision reading “If the taxpayer makes an election under section 107(d) of the Natural Gas Policy Act of 1978 to have subsections (a) and (b) of section 107 of that Act, and subtitle B of title I of that Act, apply with respect to gas described in subsection (c)(1)(B)(i) produced from any well on a property, then the credit allowable by subsection (a) shall not be allowed with respect to any gas produced on that property.”
+**1981**—Subsec. (e). Pub. L. 97–34 substituted provisions respecting application with the Natural Gas Policy Act of 1978 for prior provision reading "If the taxpayer makes an election under section 107(d) of the Natural Gas Policy Act of 1978 to have subsections (a) and (b) of section 107 of that Act, and subtitle B of title I of that Act, apply with respect to gas described in subsection (c)(1)(B)(i) produced from any well on a property, then the credit allowable by subsection (a) shall not be allowed with respect to any gas produced on that property."
 
 #### Effective Date of 2008 Amendment ####
 
@@ -354,51 +354,51 @@ Amendment by Pub. L. 110–343 applicable to fuel produced and sold after Sept. 
 
 #### Effective Date of 2006 Amendment ####
 
-Pub. L. 109–432, div. A, title II, §211(c), Dec. 20, 2006, 120 Stat. 2948, provided that: “The amendments made by this section [amending this section] shall take effect as if included in section 1321 of the Energy Policy Act of 2005 [Pub. L. 109–58].”
+Pub. L. 109–432, div. A, title II, §211(c), Dec. 20, 2006, 120 Stat. 2948, provided that: "The amendments made by this section [amending this section] shall take effect as if included in section 1321 of the Energy Policy Act of 2005 [Pub. L. 109–58]."
 
 #### Effective Date of 2005 Amendments ####
 
 Amendment by section 402(g) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
 
-Pub. L. 109–58, title XIII, §1321(b), Aug. 8, 2005, 119 Stat. 1011, provided that: “The amendment made by this section [amending this section] shall apply to fuel produced and sold after December 31, 2005, in taxable years ending after such date.”
+Pub. L. 109–58, title XIII, §1321(b), Aug. 8, 2005, 119 Stat. 1011, provided that: "The amendment made by this section [amending this section] shall apply to fuel produced and sold after December 31, 2005, in taxable years ending after such date."
 
 Pub. L. 109–58, title XIII, §1322(c), Aug. 8, 2005, 119 Stat. 1012, provided that:
 
-“(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section and sections 30, 38, 43, 45, 45I, 53, 55, 613A, and 772 of this title and renumbering section 29 of this title as this section] shall apply to credits determined under the Internal Revenue Code of 1986 for taxable years ending after December 31, 2005.
+"(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section and sections 30, 38, 43, 45, 45I, 53, 55, 613A, and 772 of this title and renumbering section 29 of this title as this section] shall apply to credits determined under the Internal Revenue Code of 1986 for taxable years ending after December 31, 2005.
 
-“(2) Subsection (b).—The amendments made by subsection (b) [amending this section] shall take effect on the date of the enactment of this Act [Aug. 8, 2005].”
+"(2) Subsection (b).—The amendments made by subsection (b) [amending this section] shall take effect on the date of the enactment of this Act [Aug. 8, 2005]."
 
 #### Effective Date of 1996 Amendment ####
 
-Pub. L. 104–188, title I, §1205(e), Aug. 20, 1996, 110 Stat. 1776, provided that: “The amendments made by this section [amending this section and sections 30, 38, 39, 45C, 53, 55, and 280C of this title] shall apply to amounts paid or incurred in taxable years ending after June 30, 1996.”
+Pub. L. 104–188, title I, §1205(e), Aug. 20, 1996, 110 Stat. 1776, provided that: "The amendments made by this section [amending this section and sections 30, 38, 39, 45C, 53, 55, and 280C of this title] shall apply to amounts paid or incurred in taxable years ending after June 30, 1996."
 
-Pub. L. 104–188, title I, §1207(b), Aug. 20, 1996, 110 Stat. 1776, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 20, 1996].”
+Pub. L. 104–188, title I, §1207(b), Aug. 20, 1996, 110 Stat. 1776, provided that: "The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 20, 1996]."
 
 #### Effective Date of 1990 Amendment ####
 
-Pub. L. 101–508, title XI, §11501(b)(2), Nov. 5, 1990, 104 Stat. 1388–479, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to gas produced after December 31, 1990.”
+Pub. L. 101–508, title XI, §11501(b)(2), Nov. 5, 1990, 104 Stat. 1388–479, provided that: "The amendment made by paragraph (1) [amending this section] shall apply to gas produced after December 31, 1990."
 
-Pub. L. 101–508, title XI, §11501(c)(2), Nov. 5, 1990, 104 Stat. 1388–480, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to taxable years beginning after December 31, 1990.”
+Pub. L. 101–508, title XI, §11501(c)(2), Nov. 5, 1990, 104 Stat. 1388–480, provided that: "The amendment made by paragraph (1) [amending this section] shall apply to taxable years beginning after December 31, 1990."
 
 Pub. L. 101–508, title XI, §11813(c), Nov. 5, 1990, 104 Stat. 1388–555, provided that:
 
-“(1) In general.—Except as provided in paragraph (2), the amendments made by this section [enacting section 50 of this title and amending this section and sections 38, 42, 46 to 49, 52, 55, 108, 145, 147, 168, 170, 179, 196, 280F, 312, 465, 469, 861, 865, 1016, 1033, 1245, 1274A, 1371, 1388 and 1503 of this title] shall apply to property placed in service after December 31, 1990.
+"(1) In general.—Except as provided in paragraph (2), the amendments made by this section [enacting section 50 of this title and amending this section and sections 38, 42, 46 to 49, 52, 55, 108, 145, 147, 168, 170, 179, 196, 280F, 312, 465, 469, 861, 865, 1016, 1033, 1245, 1274A, 1371, 1388 and 1503 of this title] shall apply to property placed in service after December 31, 1990.
 
-“(2) Exceptions.—The amendments made by this section shall not apply to—
+"(2) Exceptions.—The amendments made by this section shall not apply to—
 
-“(A) any transition property (as defined in section 49(e) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act [Nov. 5, 1990]),
+"(A) any transition property (as defined in section 49(e) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act [Nov. 5, 1990]),
 
-“(B) any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of such Code (as so in effect), and
+"(B) any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of such Code (as so in effect), and
 
-“(C) any property described in section 46(b)(2)(C) of such Code (as so in effect).”
+"(C) any property described in section 46(b)(2)(C) of such Code (as so in effect)."
 
-Pub. L. 101–508, title XI, §11821(a), Nov. 5, 1990, 104 Stat. 1388–558, provided that: “Except as otherwise provided in this part, the amendments made by this part [part I (§§11801–11821) of subtitle H of title XI of Pub. L. 101–508, see Tables for classification] shall take effect on the date of the enactment of this Act [Nov. 5, 1990].”
+Pub. L. 101–508, title XI, §11821(a), Nov. 5, 1990, 104 Stat. 1388–558, provided that: "Except as otherwise provided in this part, the amendments made by this part [part I (§§11801–11821) of subtitle H of title XI of Pub. L. 101–508, see Tables for classification] shall take effect on the date of the enactment of this Act [Nov. 5, 1990]."
 
 #### Effective Date of 1986 Amendment ####
 
 Amendment by section 701(c)(3) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 701(f) of Pub. L. 99–514, set out as an Effective Date note under section 55 of this title.
 
-Pub. L. 99–514, title XVIII, §1879(c)(2), Oct. 22, 1986, 100 Stat. 2906, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in the amendments made by section 231 of Public Law 96–223 [see Effective Date note below].”
+Pub. L. 99–514, title XVIII, §1879(c)(2), Oct. 22, 1986, 100 Stat. 2906, provided that: "The amendment made by paragraph (1) [amending this section] shall take effect as if included in the amendments made by section 231 of Public Law 96–223 [see Effective Date note below]."
 
 #### Effective Date of 1984 Amendment ####
 
@@ -406,7 +406,7 @@ Amendment by section 474(h) of Pub. L. 98–369 applicable to taxable years begi
 
 Amendment by section 612(e)(1) of Pub. L. 98–369 applicable to interest paid or accrued after Dec. 31, 1984, on indebtedness incurred after Dec. 31, 1984, see section 612(g) of Pub. L. 98–369, set out as an Effective Date note under section 25 of this title.
 
-Pub. L. 98–369, title VII, §722(d)(3), July 18, 1984, 98 Stat. 974, provided that: “The amendments made by this subsection [amending this section] shall apply to taxable years ending after December 31, 1979.”
+Pub. L. 98–369, title VII, §722(d)(3), July 18, 1984, 98 Stat. 974, provided that: "The amendments made by this subsection [amending this section] shall apply to taxable years ending after December 31, 1979."
 
 #### Effective Date of 1983 Amendment ####
 
@@ -418,27 +418,27 @@ Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1981 Amendment ####
 
-Pub. L. 97–34, title VI, §611(b), Aug. 13, 1981, 95 Stat. 339, provided that: “The amendment made by this section [amending this section] shall apply to taxable years ending after December 31, 1979.”
+Pub. L. 97–34, title VI, §611(b), Aug. 13, 1981, 95 Stat. 339, provided that: "The amendment made by this section [amending this section] shall apply to taxable years ending after December 31, 1979."
 
 #### Effective Date ####
 
-Pub. L. 96–223, title II, §231(c), Apr. 2, 1980, 94 Stat. 272, provided that: “The amendments made by this section [enacting this section and amending section 6096 of this title] shall apply to taxable years ending after December 31, 1979.”
+Pub. L. 96–223, title II, §231(c), Apr. 2, 1980, 94 Stat. 272, provided that: "The amendments made by this section [enacting this section and amending section 6096 of this title] shall apply to taxable years ending after December 31, 1979."
 
 #### Savings Provision ####
 
-Pub. L. 101–508, title XI, §11821(b), Nov. 5, 1990, 104 Stat. 1388–558, provided that: “If—
+Pub. L. 101–508, title XI, §11821(b), Nov. 5, 1990, 104 Stat. 1388–558, provided that: "If—
 
-“(1) any provision amended or repealed by this part [part I (§§11801–11821) of subtitle H of title XI of Pub. L. 101–508, see Tables for classification] applied to—
+"(1) any provision amended or repealed by this part [part I (§§11801–11821) of subtitle H of title XI of Pub. L. 101–508, see Tables for classification] applied to—
 
-“(A) any transaction occurring before the date of the enactment of this Act [Nov. 5, 1990],
+"(A) any transaction occurring before the date of the enactment of this Act [Nov. 5, 1990],
 
-“(B) any property acquired before such date of enactment, or
+"(B) any property acquired before such date of enactment, or
 
-“(C) any item of income, loss, deduction, or credit taken into account before such date of enactment, and
+"(C) any item of income, loss, deduction, or credit taken into account before such date of enactment, and
 
-“(2) the treatment of such transaction, property, or item under such provision would (without regard to the amendments made by this part) affect liability for tax for periods ending after such date of enactment,
+"(2) the treatment of such transaction, property, or item under such provision would (without regard to the amendments made by this part) affect liability for tax for periods ending after such date of enactment,
 
-nothing in the amendments made by this part shall be construed to affect the treatment of such transaction, property, or item for purposes of determining liability for tax for periods ending after such date of enactment.”
+nothing in the amendments made by this part shall be construed to affect the treatment of such transaction, property, or item for purposes of determining liability for tax for periods ending after such date of enactment."
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States ####
 

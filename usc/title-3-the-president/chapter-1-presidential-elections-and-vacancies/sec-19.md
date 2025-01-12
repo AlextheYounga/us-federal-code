@@ -26,15 +26,15 @@
 
 #### Amendments ####
 
-**2006**—Subsec. (d)(1). Pub. L. 109–177 inserted “, Secretary of Homeland Security” after “Secretary of Veterans Affairs”.
+**2006**—Subsec. (d)(1). Pub. L. 109–177 inserted ", Secretary of Homeland Security" after "Secretary of Veterans Affairs".
 
 **1988**—Subsec. (d)(1). Pub. L. 100–527 inserted reference to Secretary of Veterans Affairs.
 
-**1979**—Subsec. (d)(1). Pub. L. 96–88 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare” and inserted reference to Secretary of Education.
+**1979**—Subsec. (d)(1). Pub. L. 96–88 substituted "Secretary of Health and Human Services" for "Secretary of Health, Education, and Welfare" and inserted reference to Secretary of Education.
 
 **1977**—Subsec. (d)(1). Pub. L. 95–91 inserted reference to Secretary of Energy.
 
-**1970**—Subsec. (d)(1). Pub. L. 91–375 struck out “Postmaster General,” after “Attorney General,”.
+**1970**—Subsec. (d)(1). Pub. L. 91–375 struck out "Postmaster General," after "Attorney General,".
 
 **1966**—Subsec. (d)(1). Pub. L. 89–670 inserted reference to Secretary of Transportation.
 
@@ -42,7 +42,7 @@
 
 #### Effective Date of 1988 Amendment ####
 
-Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
+Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans' Benefits.
 
 #### Effective Date of 1979 Amendment ####
 

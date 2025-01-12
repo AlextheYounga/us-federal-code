@@ -102,7 +102,7 @@ Sec.
 
 2679a. Procurement contracts.
 
-2679b. Prohibition against fraudulent use of “Made in America” labels.
+2679b. Prohibition against fraudulent use of "Made in America" labels.
 
 2679c. Prohibition on discriminatory contracts.
 
@@ -196,7 +196,7 @@ Sec.
 
 2715. Procedures regarding major disasters and incidents abroad affecting United States citizens.
 
-2715a. Provision of information on certain violent crimes abroad to victims and victims’ families.
+2715a. Provision of information on certain violent crimes abroad to victims and victims' families.
 
 2715b. Notification of next of kin; reports of death.
 
@@ -236,7 +236,7 @@ Sec.
 
 2732. Public diplomacy responsibilities of the Department of State.
 
-2733. Reemployment of annuitants under the Civil Service Retirement System and Federal Employees’ Retirement System.
+2733. Reemployment of annuitants under the Civil Service Retirement System and Federal Employees' Retirement System.
 
 2734. Reconstruction and stabilization.
 

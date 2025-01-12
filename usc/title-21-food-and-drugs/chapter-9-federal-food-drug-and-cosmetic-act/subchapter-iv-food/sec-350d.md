@@ -12,7 +12,7 @@ The Secretary shall by regulation require that any facility engaged in manufactu
 
 #### (2) Registration ####
 
-An entity (referred to in this section as the “registrant”) shall submit a registration under paragraph (1) to the Secretary containing information necessary to notify the Secretary of the name and address of each facility at which, and all trade names under which, the registrant conducts business, the e-mail address for the contact person of the facility or, in the case of a foreign facility, the United States agent for the facility, and, when determined necessary by the Secretary through guidance, the general food category (as identified under section 170.3 of title 21, Code of Federal Regulations, or any other food categories as determined appropriate by the Secretary, including by guidance) of any food manufactured, processed, packed, or held at such facility. The registration shall contain an assurance that the Secretary will be permitted to inspect such facility at the times and in the manner permitted by this chapter. The registrant shall notify the Secretary in a timely manner of changes to such information.
+An entity (referred to in this section as the "registrant") shall submit a registration under paragraph (1) to the Secretary containing information necessary to notify the Secretary of the name and address of each facility at which, and all trade names under which, the registrant conducts business, the e-mail address for the contact person of the facility or, in the case of a foreign facility, the United States agent for the facility, and, when determined necessary by the Secretary through guidance, the general food category (as identified under section 170.3 of title 21, Code of Federal Regulations, or any other food categories as determined appropriate by the Secretary, including by guidance) of any food manufactured, processed, packed, or held at such facility. The registration shall contain an assurance that the Secretary will be permitted to inspect such facility at the times and in the manner permitted by this chapter. The registrant shall notify the Secretary in a timely manner of changes to such information.
 
 #### (3) Biennial registration renewal ####
 
@@ -82,11 +82,11 @@ The authority conferred by this subsection to issue an order to suspend a regist
 
 For purposes of this section:
 
-(1) The term “facility” includes any factory, warehouse, or establishment (including a factory, warehouse, or establishment of an importer) that manufactures, processes, packs, or holds food. Such term does not include farms; restaurants; other retail food establishments; nonprofit food establishments in which food is prepared for or served directly to the consumer; or fishing vessels (except such vessels engaged in processing as defined in section 123.3(k) of title 21, Code of Federal Regulations).
+(1) The term "facility" includes any factory, warehouse, or establishment (including a factory, warehouse, or establishment of an importer) that manufactures, processes, packs, or holds food. Such term does not include farms; restaurants; other retail food establishments; nonprofit food establishments in which food is prepared for or served directly to the consumer; or fishing vessels (except such vessels engaged in processing as defined in section 123.3(k) of title 21, Code of Federal Regulations).
 
-(2) The term “domestic facility” means a facility located in any of the States or Territories.
+(2) The term "domestic facility" means a facility located in any of the States or Territories.
 
-(3)(A) The term “foreign facility” means a facility that manufacturers, processes, packs, or holds food, but only if food from such facility is exported to the United States without further processing or packaging outside the United States.
+(3)(A) The term "foreign facility" means a facility that manufacturers, processes, packs, or holds food, but only if food from such facility is exported to the United States without further processing or packaging outside the United States.
 
 (B) A food may not be considered to have undergone further processing or packaging for purposes of subparagraph (A) solely on the basis that labeling was added or that any similar activity of a de minimis nature was carried out with respect to the food.
 
@@ -98,69 +98,69 @@ Nothing in this section shall be construed to authorize the Secretary to require
 
 #### Amendments ####
 
-**2011**—Subsec. (a)(2). Pub. L. 111–353, §102(a)(1), (b)(1)(A), substituted “conducts business, the e-mail address for the contact person of the facility or, in the case of a foreign facility, the United States agent for the facility, and” for “conducts business and”, inserted “, or any other food categories as determined appropriate by the Secretary, including by guidance” after “Code of Federal Regulations”, and inserted after first sentence “The registration shall contain an assurance that the Secretary will be permitted to inspect such facility at the times and in the manner permitted by this chapter.”
+**2011**—Subsec. (a)(2). Pub. L. 111–353, §102(a)(1), (b)(1)(A), substituted "conducts business, the e-mail address for the contact person of the facility or, in the case of a foreign facility, the United States agent for the facility, and" for "conducts business and", inserted ", or any other food categories as determined appropriate by the Secretary, including by guidance" after "Code of Federal Regulations", and inserted after first sentence "The registration shall contain an assurance that the Secretary will be permitted to inspect such facility at the times and in the manner permitted by this chapter."
 
 Subsec. (a)(3) to (5). Pub. L. 111–353, §102(a)(2), (3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
 Subsecs. (b), (c). Pub. L. 111–353, §102(b)(1)(B), (C), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 111–353, §102(b)(1)(B), (d)(2), redesignated subsec. (c) as (d) and inserted “for a facility to be registered, except with respect to the reinstatement of a registration that is suspended under subsection (b)” before period at end.
+Subsec. (d). Pub. L. 111–353, §102(b)(1)(B), (d)(2), redesignated subsec. (c) as (d) and inserted "for a facility to be registered, except with respect to the reinstatement of a registration that is suspended under subsection (b)" before period at end.
 
 #### Regulations ####
 
 Pub. L. 111–353, title I, §102(c), Jan. 4, 2011, 124 Stat. 3889, provided that:
 
-“(1) Retail food establishment.—The Secretary shall amend the definition of the term ‘retail food establishment’ in section in [sic] 1.227(b)(11) of title 21, Code of Federal Regulations[,] to clarify that, in determining the primary function of an establishment or a retail food establishment under such section, the sale of food products directly to consumers by such establishment and the sale of food directly to consumers by such retail food establishment include—
+"(1) Retail food establishment.—The Secretary shall amend the definition of the term 'retail food establishment' in section in [sic] 1.227(b)(11) of title 21, Code of Federal Regulations[,] to clarify that, in determining the primary function of an establishment or a retail food establishment under such section, the sale of food products directly to consumers by such establishment and the sale of food directly to consumers by such retail food establishment include—
 
-“(A) the sale of such food products or food directly to consumers by such establishment at a roadside stand or farmers’ market where such stand or market is located other than where the food was manufactured or processed;
+"(A) the sale of such food products or food directly to consumers by such establishment at a roadside stand or farmers' market where such stand or market is located other than where the food was manufactured or processed;
 
-“(B) the sale and distribution of such food through a community supported agriculture program; and
+"(B) the sale and distribution of such food through a community supported agriculture program; and
 
-“(C) the sale and distribution of such food at any other such direct sales platform as determined by the Secretary.
+"(C) the sale and distribution of such food at any other such direct sales platform as determined by the Secretary.
 
-“(2) Definitions.—For purposes of paragraph (1)—
+"(2) Definitions.—For purposes of paragraph (1)—
 
-“(A) the term ‘community supported agriculture program’ has the same meaning given the term ‘community supported agriculture (CSA) program’ in section 249.2 of title 7, Code of Federal Regulations (or any successor regulation); and
+"(A) the term 'community supported agriculture program' has the same meaning given the term 'community supported agriculture (CSA) program' in section 249.2 of title 7, Code of Federal Regulations (or any successor regulation); and
 
-“(B) the term ‘consumer’ does not include a business.”
+"(B) the term 'consumer' does not include a business."
 
 Pub. L. 111–353, title I, §103(c), Jan. 4, 2011, 124 Stat. 3896, provided that:
 
-“(1) Proposed rulemaking.—
+"(1) Proposed rulemaking.—
 
-“(A) In general.—Not later than 9 months after the date of enactment of this Act [Jan. 4, 2011], the Secretary of Health and Human Services (referred to in this subsection as the ‘Secretary’) shall publish a notice of proposed rulemaking in the Federal Register to promulgate regulations with respect to—
+"(A) In general.—Not later than 9 months after the date of enactment of this Act [Jan. 4, 2011], the Secretary of Health and Human Services (referred to in this subsection as the 'Secretary') shall publish a notice of proposed rulemaking in the Federal Register to promulgate regulations with respect to—
 
-“(i) activities that constitute on-farm packing or holding of food that is not grown, raised, or consumed on such farm or another farm under the same ownership for purposes of section 415 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 350d), as amended by this Act; and
+"(i) activities that constitute on-farm packing or holding of food that is not grown, raised, or consumed on such farm or another farm under the same ownership for purposes of section 415 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 350d), as amended by this Act; and
 
-“(ii) activities that constitute on-farm manufacturing or processing of food that is not consumed on that farm or on another farm under common ownership for purposes of such section 415.
+"(ii) activities that constitute on-farm manufacturing or processing of food that is not consumed on that farm or on another farm under common ownership for purposes of such section 415.
 
-“(B) Clarification.—The rulemaking described under subparagraph (A) shall enhance the implementation of such section 415 and clarify the activities that are included as part of the definition of the term ‘facility’ under such section 415. Nothing in this Act [see Short Title note set out under section 2201 of this title] authorizes the Secretary to modify the definition of the term ‘facility’ under such section.
+"(B) Clarification.—The rulemaking described under subparagraph (A) shall enhance the implementation of such section 415 and clarify the activities that are included as part of the definition of the term 'facility' under such section 415. Nothing in this Act [see Short Title note set out under section 2201 of this title] authorizes the Secretary to modify the definition of the term 'facility' under such section.
 
-“(C) Science-based risk analysis.—In promulgating regulations under subparagraph (A), the Secretary shall conduct a science-based risk analysis of—
+"(C) Science-based risk analysis.—In promulgating regulations under subparagraph (A), the Secretary shall conduct a science-based risk analysis of—
 
-“(i) specific types of on-farm packing or holding of food that is not grown, raised, or consumed on such farm or another farm under the same ownership, as such packing and holding relates to specific foods; and
+"(i) specific types of on-farm packing or holding of food that is not grown, raised, or consumed on such farm or another farm under the same ownership, as such packing and holding relates to specific foods; and
 
-“(ii) specific on-farm manufacturing and processing activities as such activities relate to specific foods that are not consumed on that farm or on another farm under common ownership.
+"(ii) specific on-farm manufacturing and processing activities as such activities relate to specific foods that are not consumed on that farm or on another farm under common ownership.
 
-“(D) Authority with respect to certain facilities.—
+"(D) Authority with respect to certain facilities.—
 
-“(i) In general.—In promulgating the regulations under subparagraph (A), the Secretary shall consider the results of the science-based risk analysis conducted under subparagraph (C), and shall exempt certain facilities from the requirements in section 418 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350g] (as added by this section), including hazard analysis and preventive controls, and the mandatory inspection frequency in section 421 of such Act [21 U.S.C. 350j] (as added by section 201), or modify the requirements in such sections 418 or 421, as the Secretary determines appropriate, if such facilities are engaged only in specific types of on-farm manufacturing, processing, packing, or holding activities that the Secretary determines to be low risk involving specific foods the Secretary determines to be low risk.
+"(i) In general.—In promulgating the regulations under subparagraph (A), the Secretary shall consider the results of the science-based risk analysis conducted under subparagraph (C), and shall exempt certain facilities from the requirements in section 418 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350g] (as added by this section), including hazard analysis and preventive controls, and the mandatory inspection frequency in section 421 of such Act [21 U.S.C. 350j] (as added by section 201), or modify the requirements in such sections 418 or 421, as the Secretary determines appropriate, if such facilities are engaged only in specific types of on-farm manufacturing, processing, packing, or holding activities that the Secretary determines to be low risk involving specific foods the Secretary determines to be low risk.
 
-“(ii) Limitation.—The exemptions or modifications under clause (i) shall not include an exemption from the requirement to register under section 415 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 350d), as amended by this Act, if applicable, and shall apply only to small businesses and very small businesses, as defined in the regulation promulgated under section 418(n) of the Federal Food, Drug, and Cosmetic Act (as added under subsection (a)).
+"(ii) Limitation.—The exemptions or modifications under clause (i) shall not include an exemption from the requirement to register under section 415 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 350d), as amended by this Act, if applicable, and shall apply only to small businesses and very small businesses, as defined in the regulation promulgated under section 418(n) of the Federal Food, Drug, and Cosmetic Act (as added under subsection (a)).
 
-“(2) Final regulations.—Not later than 9 months after the close of the comment period for the proposed rulemaking under paragraph (1), the Secretary shall adopt final rules with respect to—
+"(2) Final regulations.—Not later than 9 months after the close of the comment period for the proposed rulemaking under paragraph (1), the Secretary shall adopt final rules with respect to—
 
-“(A) activities that constitute on-farm packing or holding of food that is not grown, raised, or consumed on such farm or another farm under the same ownership for purposes of section 415 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 350d), as amended by this Act;
+"(A) activities that constitute on-farm packing or holding of food that is not grown, raised, or consumed on such farm or another farm under the same ownership for purposes of section 415 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 350d), as amended by this Act;
 
-“(B) activities that constitute on-farm manufacturing or processing of food that is not consumed on that farm or on another farm under common ownership for purposes of such section 415; and
+"(B) activities that constitute on-farm manufacturing or processing of food that is not consumed on that farm or on another farm under common ownership for purposes of such section 415; and
 
-“(C) the requirements under sections 418 and 421 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350g, 350j], as added by this Act, from which the Secretary may issue exemptions or modifications of the requirements for certain types of facilities.”
+"(C) the requirements under sections 418 and 421 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350g, 350j], as added by this Act, from which the Secretary may issue exemptions or modifications of the requirements for certain types of facilities."
 
-Pub. L. 107–188, title III, §305(e), June 12, 2002, 116 Stat. 669, provided that: “Not later than 18 months after the date of the enactment of this Act [June 12, 2002], the Secretary of Health and Human Services shall promulgate proposed and final regulations for the requirement of registration under section 415 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350d] (as added by subsection (a) of this section). Such requirement of registration takes effect—
+Pub. L. 107–188, title III, §305(e), June 12, 2002, 116 Stat. 669, provided that: "Not later than 18 months after the date of the enactment of this Act [June 12, 2002], the Secretary of Health and Human Services shall promulgate proposed and final regulations for the requirement of registration under section 415 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350d] (as added by subsection (a) of this section). Such requirement of registration takes effect—
 
-“(1) upon the effective date of such final regulations; or
+"(1) upon the effective date of such final regulations; or
 
-“(2) upon the expiration of such 18-month period if the final regulations have not been made effective as of the expiration of such period, subject to compliance with the final regulations when the final regulations are made effective.”
+"(2) upon the expiration of such 18-month period if the final regulations have not been made effective as of the expiration of such period, subject to compliance with the final regulations when the final regulations are made effective."
 
 #### Construction of 2011 Amendment ####
 
@@ -168,8 +168,8 @@ Nothing in amendments by Pub. L. 111–353 to be construed to alter jurisdiction
 
 #### Small Entity Compliance Policy Guide ####
 
-Pub. L. 111–353, title I, §102(b)(2), Jan. 4, 2011, 124 Stat. 3888, provided that: “Not later than 180 days after the issuance of the regulations promulgated under section 415(b)(5) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350d(b)(5)] (as added by this section), the Secretary shall issue a small entity compliance policy guide setting forth in plain language the requirements of such regulations to assist small entities in complying with registration requirements and other activities required under such section.”
+Pub. L. 111–353, title I, §102(b)(2), Jan. 4, 2011, 124 Stat. 3888, provided that: "Not later than 180 days after the issuance of the regulations promulgated under section 415(b)(5) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350d(b)(5)] (as added by this section), the Secretary shall issue a small entity compliance policy guide setting forth in plain language the requirements of such regulations to assist small entities in complying with registration requirements and other activities required under such section."
 
 #### Electronic Filing ####
 
-Pub. L. 107–188, title III, §305(d), June 12, 2002, 116 Stat. 668, provided that: “For the purpose of reducing paperwork and reporting burdens, the Secretary of Health and Human Services may provide for, and encourage the use of, electronic methods of submitting to the Secretary registrations required pursuant to this section [enacting this section, amending sections 331 and 381 of this title, and enacting provisions set out as a note under this section]. In providing for the electronic submission of such registrations, the Secretary shall ensure adequate authentication protocols are used to enable identification of the registrant and validation of the data as appropriate.”
+Pub. L. 107–188, title III, §305(d), June 12, 2002, 116 Stat. 668, provided that: "For the purpose of reducing paperwork and reporting burdens, the Secretary of Health and Human Services may provide for, and encourage the use of, electronic methods of submitting to the Secretary registrations required pursuant to this section [enacting this section, amending sections 331 and 381 of this title, and enacting provisions set out as a note under this section]. In providing for the electronic submission of such registrations, the Secretary shall ensure adequate authentication protocols are used to enable identification of the registrant and validation of the data as appropriate."

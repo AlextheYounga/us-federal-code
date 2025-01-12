@@ -6,8 +6,8 @@ Every combination, conspiracy, trust, agreement, or contract is declared to be c
 
 #### Amendments ####
 
-**1913**—Act Feb. 12, 1913, inserted “as agent or principal”.
+**1913**—Act Feb. 12, 1913, inserted "as agent or principal".
 
 #### Short Title ####
 
-Section 77, formerly §78, of act Aug. 27, 1894, as added by Pub. L. 94–435, title III, §305(d), Sept. 30, 1976, 90 Stat. 1397; renumbered §77 and amended Pub. L. 107–273, div. C, title IV, §14102(c)(1)(B), Nov. 2, 2002, 116 Stat. 1921, provided that: “Sections 73, 74, 75, and 76 of this Act [enacting sections 8 to 11 of this title] may be cited as the ‘Wilson Tariff Act’.”
+Section 77, formerly §78, of act Aug. 27, 1894, as added by Pub. L. 94–435, title III, §305(d), Sept. 30, 1976, 90 Stat. 1397; renumbered §77 and amended Pub. L. 107–273, div. C, title IV, §14102(c)(1)(B), Nov. 2, 2002, 116 Stat. 1921, provided that: "Sections 73, 74, 75, and 76 of this Act [enacting sections 8 to 11 of this title] may be cited as the 'Wilson Tariff Act'."

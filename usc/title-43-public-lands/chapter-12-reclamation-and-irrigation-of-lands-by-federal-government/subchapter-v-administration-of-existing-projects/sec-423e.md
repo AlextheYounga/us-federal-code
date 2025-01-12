@@ -10,14 +10,14 @@ No water shall be delivered upon the completion of any new project or new divisi
 
 #### Imperial Irrigation District of California; Nonapplicability of Federal Reclamation Laws ####
 
-Pub. L. 96–570, §4, Dec. 22, 1980, 94 Stat. 3340, provided that: “The following provisions of the Federal reclamation laws shall not apply to lands within the Imperial Irrigation District of California after the date of enactment of this Act [Dec. 22, 1980]:
+Pub. L. 96–570, §4, Dec. 22, 1980, 94 Stat. 3340, provided that: "The following provisions of the Federal reclamation laws shall not apply to lands within the Imperial Irrigation District of California after the date of enactment of this Act [Dec. 22, 1980]:
 
-“(a) section 5 of the Act entitled ‘An Act appropriating the receipts from the sale and disposal of public lands in certain States and Territories to the construction of irrigation works for the reclamation of arid lands’, approved June 17, 1902 (43 U.S.C. 431);
+"(a) section 5 of the Act entitled 'An Act appropriating the receipts from the sale and disposal of public lands in certain States and Territories to the construction of irrigation works for the reclamation of arid lands', approved June 17, 1902 (43 U.S.C. 431);
 
-“(b) section 46 of the Act entitled ‘An Act to adjust water-right charges, to grant certain other relief on the Federal irrigation projects, and for other purposes’, approved May 25, 1926 (42 U.S.C. 423e) [this section]; and
+"(b) section 46 of the Act entitled 'An Act to adjust water-right charges, to grant certain other relief on the Federal irrigation projects, and for other purposes', approved May 25, 1926 (42 U.S.C. 423e) [this section]; and
 
-“(c) any other provision of law amendatory or supplementary to either of such sections.”
+"(c) any other provision of law amendatory or supplementary to either of such sections."
 
 #### Amendment of Existing Contracts ####
 
-Act July 11, 1956, ch. 563, §3, 70 Stat. 524, provided that: “The Secretary of the Interior is authorized, upon request of any holder of an existing contract under the Federal reclamation laws (Act of June 17, 1902, 32 Stat. 388, and Acts amendatory thereof or supplementary thereto), to amend the contract to conform to the provisions of sections 1 and 2 of this Act [amending sections 423e and 544 of this title].”
+Act July 11, 1956, ch. 563, §3, 70 Stat. 524, provided that: "The Secretary of the Interior is authorized, upon request of any holder of an existing contract under the Federal reclamation laws (Act of June 17, 1902, 32 Stat. 388, and Acts amendatory thereof or supplementary thereto), to amend the contract to conform to the provisions of sections 1 and 2 of this Act [amending sections 423e and 544 of this title]."

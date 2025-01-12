@@ -42,4 +42,4 @@ Sec.
 
 #### SUBCHAPTER III—CONSTRUCTION ####
 
-10851. Construction of subchapters I and II; “individual with mental illness” defined.
+10851. Construction of subchapters I and II; "individual with mental illness" defined.

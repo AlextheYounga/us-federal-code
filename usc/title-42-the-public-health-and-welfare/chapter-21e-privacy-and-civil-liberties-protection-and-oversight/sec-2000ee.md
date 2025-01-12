@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-There is established as an independent agency within the executive branch a Privacy and Civil Liberties Oversight Board (referred to in this section as the “Board”).
+There is established as an independent agency within the executive branch a Privacy and Civil Liberties Oversight Board (referred to in this section as the "Board").
 
 #### (b) Findings ####
 
@@ -12,7 +12,7 @@ Consistent with the report of the National Commission on Terrorist Attacks Upon 
 
 (2) This shift of power and authority to the Government calls for an enhanced system of checks and balances to protect the precious liberties that are vital to our way of life and to ensure that the Government uses its powers for the purposes for which the powers were given.
 
-(3) The National Commission on Terrorist Attacks Upon the United States correctly concluded that “The choice between security and liberty is a false choice, as nothing is more likely to endanger America's liberties than the success of a terrorist attack at home. Our history has shown us that insecurity threatens liberty. Yet, if our liberties are curtailed, we lose the values that we are struggling to defend.”.
+(3) The National Commission on Terrorist Attacks Upon the United States correctly concluded that "The choice between security and liberty is a false choice, as nothing is more likely to endanger America's liberties than the success of a terrorist attack at home. Our history has shown us that insecurity threatens liberty. Yet, if our liberties are curtailed, we lose the values that we are struggling to defend.".
 
 #### (c) Purpose ####
 
@@ -260,31 +260,31 @@ Section was formerly set out as a note under section 601 of Title 5, Government 
 
 Pub. L. 110–53, title VIII, §801(d), Aug. 3, 2007, 121 Stat. 358, provided that:
 
-“(1) In general.—The amendments made by subsection (a) and subsection (b) [amending this section] shall take effect 180 days after the date of enactment of this Act [Aug. 3, 2007].
+"(1) In general.—The amendments made by subsection (a) and subsection (b) [amending this section] shall take effect 180 days after the date of enactment of this Act [Aug. 3, 2007].
 
-“(2) Transition provisions.—Subsection (c) [enacting provisions set out as a note under this section] shall take effect on the date of enactment of this Act.”
+"(2) Transition provisions.—Subsection (c) [enacting provisions set out as a note under this section] shall take effect on the date of enactment of this Act."
 
 #### Security Rules and Procedures ####
 
-Pub. L. 110–53, title VIII, §801(b), Aug. 3, 2007, 121 Stat. 357, provided that: “The Privacy and Civil Liberties Oversight Board shall promptly adopt the security rules and procedures required under section 1061(k)(2) of the National Security Intelligence Reform Act of 2004 [42 U.S.C. 2000ee(k)(2)] (as added by subsection (a) of this section).”
+Pub. L. 110–53, title VIII, §801(b), Aug. 3, 2007, 121 Stat. 357, provided that: "The Privacy and Civil Liberties Oversight Board shall promptly adopt the security rules and procedures required under section 1061(k)(2) of the National Security Intelligence Reform Act of 2004 [42 U.S.C. 2000ee(k)(2)] (as added by subsection (a) of this section)."
 
 #### Transition Provisions ####
 
 Pub. L. 110–53, title VIII, §801(c), Aug. 3, 2007, 121 Stat. 357, provided that:
 
-“(1) Treatment of incumbent members of the privacy and civil liberties oversight board.—
+"(1) Treatment of incumbent members of the privacy and civil liberties oversight board.—
 
-“(A) Continuation of service.—Any individual who is a member of the Privacy and Civil Liberties Oversight Board on the date of enactment of this Act [Aug. 3, 2007] may continue to serve on the Board until 180 days after the date of enactment of this Act.
+"(A) Continuation of service.—Any individual who is a member of the Privacy and Civil Liberties Oversight Board on the date of enactment of this Act [Aug. 3, 2007] may continue to serve on the Board until 180 days after the date of enactment of this Act.
 
-“(B) Termination of terms.—The term of any individual who is a member of the Privacy and Civil Liberties Oversight Board on the date of enactment of this Act shall terminate 180 days after the date of enactment of this Act.
+"(B) Termination of terms.—The term of any individual who is a member of the Privacy and Civil Liberties Oversight Board on the date of enactment of this Act shall terminate 180 days after the date of enactment of this Act.
 
-“(2) Appointments.—
+"(2) Appointments.—
 
-“(A) In general.—The President and the Senate shall take such actions as necessary for the President, by and with the advice and consent of the Senate, to appoint members to the Privacy and Civil Liberties Oversight Board as constituted under the amendments made by subsection (a) [amending this section] in a timely manner to provide for the continuing operation of the Board and orderly implementation of this section [amending this section and enacting provisions set out as notes under this section].
+"(A) In general.—The President and the Senate shall take such actions as necessary for the President, by and with the advice and consent of the Senate, to appoint members to the Privacy and Civil Liberties Oversight Board as constituted under the amendments made by subsection (a) [amending this section] in a timely manner to provide for the continuing operation of the Board and orderly implementation of this section [amending this section and enacting provisions set out as notes under this section].
 
-“(B) Designations.—In making the appointments described under subparagraph (A) of the first members of the Privacy and Civil Liberties Oversight Board as constituted under the amendments made by subsection (a), the President shall provide for the members to serve terms of 2, 3, 4, 5, and 6 years beginning on the effective date described under subsection (d)(1) [set out above], with the term of each such member to be designated by the President.”
+"(B) Designations.—In making the appointments described under subparagraph (A) of the first members of the Privacy and Civil Liberties Oversight Board as constituted under the amendments made by subsection (a), the President shall provide for the members to serve terms of 2, 3, 4, 5, and 6 years beginning on the effective date described under subsection (d)(1) [set out above], with the term of each such member to be designated by the President."
 
-#### Ex. Ord. No. 13353. Establishing the President's Board on Safeguarding Americans’ Civil Liberties ####
+#### Ex. Ord. No. 13353. Establishing the President's Board on Safeguarding Americans' Civil Liberties ####
 
 Ex. Ord. No. 13353, Aug. 27, 2004, 69 F.R. 53585, provided:
 
@@ -292,7 +292,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. *Policy*. The United States Government has a solemn obligation, and shall continue fully, to protect the legal rights of all Americans, including freedoms, civil liberties, and information privacy guaranteed by Federal law, in the effective performance of national security and homeland security functions.
 
-Sec. 2. *Establishment of Board*. To advance the policy set forth in section 1 of this order (Policy), there is hereby established the President's Board on Safeguarding Americans’ Civil Liberties (Board). The Board shall be part of the Department of Justice for administrative purposes.
+Sec. 2. *Establishment of Board*. To advance the policy set forth in section 1 of this order (Policy), there is hereby established the President's Board on Safeguarding Americans' Civil Liberties (Board). The Board shall be part of the Department of Justice for administrative purposes.
 
 Sec. 3. *Functions*. The Board shall:
 

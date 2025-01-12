@@ -12,7 +12,7 @@
 
 (D) Parental arrest and confinement lead to stress, trauma, stigmatization, and separation problems for children. These problems are coupled with existing problems that include poverty, violence, parental substance abuse, high-crime environments, intrafamilial abuse, child abuse and neglect, multiple care givers, and/or prior separations. As a result, these children often exhibit a broad variety of behavioral, emotional, health, and educational problems that are often compounded by the pain of separation.
 
-(E) Empirical research demonstrates that mentoring is a potent force for improving children's behavior across all risk behaviors affecting health. Quality, one-on-one relationships that provide young people with caring role models for future success have profound, life-changing potential. Done right, mentoring markedly advances youths’ life prospects. A widely cited 1995 study by Public/Private Ventures measured the impact of one Big Brothers Big Sisters program and found significant effects in the lives of youth—cutting first-time drug use by almost half and first-time alcohol use by about a third, reducing school absenteeism by half, cutting assaultive behavior by a third, improving parental and peer relationships, giving youth greater confidence in their school work, and improving academic performance.
+(E) Empirical research demonstrates that mentoring is a potent force for improving children's behavior across all risk behaviors affecting health. Quality, one-on-one relationships that provide young people with caring role models for future success have profound, life-changing potential. Done right, mentoring markedly advances youths' life prospects. A widely cited 1995 study by Public/Private Ventures measured the impact of one Big Brothers Big Sisters program and found significant effects in the lives of youth—cutting first-time drug use by almost half and first-time alcohol use by about a third, reducing school absenteeism by half, cutting assaultive behavior by a third, improving parental and peer relationships, giving youth greater confidence in their school work, and improving academic performance.
 
 #### (2) Purposes ####
 
@@ -28,15 +28,15 @@ In this section:
 
 #### (1) Children of prisoners ####
 
-The term “children of prisoners” means children one or both of whose parents are incarcerated in a Federal, State, or local correctional facility. The term is deemed to include children who are in an ongoing mentoring relationship in a program under this section at the time of their parents’ release from prison, for purposes of continued participation in the program.
+The term "children of prisoners" means children one or both of whose parents are incarcerated in a Federal, State, or local correctional facility. The term is deemed to include children who are in an ongoing mentoring relationship in a program under this section at the time of their parents' release from prison, for purposes of continued participation in the program.
 
 #### (2) Mentoring ####
 
-The term “mentoring” means a structured, managed program in which children are appropriately matched with screened and trained adult volunteers for one-on-one relationships, involving meetings and activities on a regular basis, intended to meet, in part, the child's need for involvement with a caring and supportive adult who provides a positive role model.
+The term "mentoring" means a structured, managed program in which children are appropriately matched with screened and trained adult volunteers for one-on-one relationships, involving meetings and activities on a regular basis, intended to meet, in part, the child's need for involvement with a caring and supportive adult who provides a positive role model.
 
 #### (3) Mentoring services ####
 
-The term “mentoring services” means those services and activities that support a structured, managed program of mentoring, including the management by trained personnel of outreach to, and screening of, eligible children; outreach to, education and training of, and liaison with sponsoring local organizations; screening and training of adult volunteers; matching of children with suitable adult volunteer mentors; support and oversight of the mentoring relationship; and establishment of goals and evaluation of outcomes for mentored children.
+The term "mentoring services" means those services and activities that support a structured, managed program of mentoring, including the management by trained personnel of outreach to, and screening of, eligible children; outreach to, education and training of, and liaison with sponsoring local organizations; screening and training of adult volunteers; matching of children with suitable adult volunteer mentors; support and oversight of the mentoring relationship; and establishment of goals and evaluation of outcomes for mentored children.
 
 #### (c) Program authorized ####
 
@@ -334,7 +334,7 @@ With respect to any fiscal year, no funds may be awarded for a cooperative agree
 
 #### Codification ####
 
-September 28, 2006, referred to in subsec. (h)(2), was in the original “the date of enactment of this subsection” and “that date of enactment”, which were translated as meaning the date of enactment of Pub. L. 109–288, which amended subsec. (h) of this section generally, to reflect the probable intent of Congress.
+September 28, 2006, referred to in subsec. (h)(2), was in the original "the date of enactment of this subsection" and "that date of enactment", which were translated as meaning the date of enactment of Pub. L. 109–288, which amended subsec. (h) of this section generally, to reflect the probable intent of Congress.
 
 #### Prior Provisions ####
 
@@ -342,29 +342,29 @@ A prior section 439 of act Aug. 14, 1935, was classified to section 639 of this 
 
 #### Amendments ####
 
-**2006**—Subsec. (a). Pub. L. 109–288, §8(b)(2)(A)(i), substituted “purposes” for “purpose” in heading.
+**2006**—Subsec. (a). Pub. L. 109–288, §8(b)(2)(A)(i), substituted "purposes" for "purpose" in heading.
 
-Subsec. (a)(2). Pub. L. 109–288, §8(b)(2)(A)(ii)–(iv), substituted “Purposes” for “Purpose” in heading, substituted “The purposes of this section are to authorize the Secretary—” for “The purpose of this section is to authorize the Secretary”, designated the remaining provisions as subpar. (A), and added subpar. (B).
+Subsec. (a)(2). Pub. L. 109–288, §8(b)(2)(A)(ii)–(iv), substituted "Purposes" for "Purpose" in heading, substituted "The purposes of this section are to authorize the Secretary—" for "The purpose of this section is to authorize the Secretary", designated the remaining provisions as subpar. (A), and added subpar. (B).
 
-Subsec. (c). Pub. L. 109–288, §8(b)(2)(B), substituted “(i)” for “(h)” and “(i)(2)” for “(h)(2)”.
+Subsec. (c). Pub. L. 109–288, §8(b)(2)(B), substituted "(i)" for "(h)" and "(i)(2)" for "(h)(2)".
 
-Pub. L. 109–288, §8(a)(1), substituted “2007 through 2011” for “2002 through 2006”.
+Pub. L. 109–288, §8(a)(1), substituted "2007 through 2011" for "2002 through 2006".
 
 Subsec. (g). Pub. L. 109–288, §8(b)(1)(B), added subsec. (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 109–288, §8(b)(2)(C), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “The Secretary shall conduct an evaluation of the programs conducted pursuant to this section, and submit to the Congress not later than April 15, 2005, a report on the findings of the evaluation.”
+Subsec. (h). Pub. L. 109–288, §8(b)(2)(C), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: "The Secretary shall conduct an evaluation of the programs conducted pursuant to this section, and submit to the Congress not later than April 15, 2005, a report on the findings of the evaluation."
 
 Pub. L. 109–288, §8(b)(1)(A), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-Subsec. (h)(1). Pub. L. 109–288, §8(a)(2)(A), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “There are authorized to be appropriated to carry out this section $67,000,000 for each of fiscal years 2002 and 2003, and such sums as may be necessary for each succeeding fiscal year.”
+Subsec. (h)(1). Pub. L. 109–288, §8(a)(2)(A), added par. (1) and struck out heading and text of former par. (1). Text read as follows: "There are authorized to be appropriated to carry out this section $67,000,000 for each of fiscal years 2002 and 2003, and such sums as may be necessary for each succeeding fiscal year."
 
-Subsec. (h)(2). Pub. L. 109–288, §8(a)(2)(B), substituted “4 percent” for “2.5 percent”.
+Subsec. (h)(2). Pub. L. 109–288, §8(a)(2)(B), substituted "4 percent" for "2.5 percent".
 
-Subsec. (i). Pub. L. 109–288, §8(b)(2)(D)(i), substituted “reservations” for “reservation” in heading.
+Subsec. (i). Pub. L. 109–288, §8(b)(2)(D)(i), substituted "reservations" for "reservation" in heading.
 
 Pub. L. 109–288, §8(b)(1)(A), redesignated subsec. (h) as (i).
 
-Subsec. (i)(2). Pub. L. 109–288, §8(b)(2)(D)(ii), substituted “Reservations” for “Reservation” in heading, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+Subsec. (i)(2). Pub. L. 109–288, §8(b)(2)(D)(ii), substituted "Reservations" for "Reservation" in heading, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
 #### Effective Date of 2006 Amendment ####
 
@@ -374,4 +374,4 @@ Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payment
 
 Section effective Jan. 17, 2002, with delay permitted if State legislation is required, see section 301 of Pub. L. 107–133, set out as an Effective Date of 2002 Amendment note under section 629 of this title.
 
-[<sup>1</sup> So in original. Probably should be “parent”.](#629i_1)
+[<sup>1</sup> So in original. Probably should be "parent".](#629i_1)

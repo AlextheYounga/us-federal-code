@@ -24,21 +24,21 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
 
 #### Codification ####
 
-As originally enacted subsec. (a) contained references to the Supreme Court of the District of Columbia. Act June 25, 1936, substituted “the district court of the United States for the District of Columbia” for “the Supreme Court of the District of Columbia”, and act June 25, 1948, as amended by act May 24, 1949, substituted “United States District Court for the District of Columbia” for “district court of the United States for the District of Columbia”. Pub. L. 100–181 struck out reference to the United States District Court for the District of Columbia. Previously, such reference had been editorially eliminated as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which provides that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district”, and section 88 of Title 28 which provides that “the District of Columbia constitutes one judicial district”.
+As originally enacted subsec. (a) contained references to the Supreme Court of the District of Columbia. Act June 25, 1936, substituted "the district court of the United States for the District of Columbia" for "the Supreme Court of the District of Columbia", and act June 25, 1948, as amended by act May 24, 1949, substituted "United States District Court for the District of Columbia" for "district court of the United States for the District of Columbia". Pub. L. 100–181 struck out reference to the United States District Court for the District of Columbia. Previously, such reference had been editorially eliminated as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which provides that "There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district", and section 88 of Title 28 which provides that "the District of Columbia constitutes one judicial district".
 
 #### Amendments ####
 
-**2010**—Subsec. (a). Pub. L. 111–203, §929E(a), inserted after second sentence “In any action or proceeding instituted by the Commission under this subchapter in a United States district court for any judicial district, a subpoena issued to compel the attendance of a witness or the production of documents or tangible things (or both) at a hearing or trial may be served at any place within the United States. Rule 45(c)(3)(A)(ii) of the Federal Rules of Civil Procedure shall not apply to a subpoena issued under the preceding sentence.”
+**2010**—Subsec. (a). Pub. L. 111–203, §929E(a), inserted after second sentence "In any action or proceeding instituted by the Commission under this subchapter in a United States district court for any judicial district, a subpoena issued to compel the attendance of a witness or the production of documents or tangible things (or both) at a hearing or trial may be served at any place within the United States. Rule 45(c)(3)(A)(ii) of the Federal Rules of Civil Procedure shall not apply to a subpoena issued under the preceding sentence."
 
 Subsec. (c). Pub. L. 111–203, §929P(b)(1), added subsec. (c).
 
-**1998**—Subsec. (a). Pub. L. 105–353 inserted “except as provided in section 77p of this title with respect to covered class actions,” after “Territorial courts,” in first sentence and substituted “Except as provided in section 77p(c) of this title, no case” for “No case” in penultimate sentence.
+**1998**—Subsec. (a). Pub. L. 105–353 inserted "except as provided in section 77p of this title with respect to covered class actions," after "Territorial courts," in first sentence and substituted "Except as provided in section 77p(c) of this title, no case" for "No case" in penultimate sentence.
 
-**1987**—Subsec. (a). Pub. L. 100–181 substituted “United States and” for “United States, the”, struck out “, and the United States District Court for the District of Columbia” after “Territory”, and substituted “sections 1254, 1291, 1292, and 1294 of title 28” for “sections 128 and 240 of the Judicial Code, as amended (U.S.C., title 28, secs. 225 and 347)”. See Codification note above.
+**1987**—Subsec. (a). Pub. L. 100–181 substituted "United States and" for "United States, the", struck out ", and the United States District Court for the District of Columbia" after "Territory", and substituted "sections 1254, 1291, 1292, and 1294 of title 28" for "sections 128 and 240 of the Judicial Code, as amended (U.S.C., title 28, secs. 225 and 347)". See Codification note above.
 
 **1970**—Subsec. (c). Pub. L. 91–452 struck out subsec. (c) which related to immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
 
-**1954**—Subsec. (a). Act Aug. 10, 1954, inserted “offer or” before “sale” in second sentence.
+**1954**—Subsec. (a). Act Aug. 10, 1954, inserted "offer or" before "sale" in second sentence.
 
 #### Effective Date of 2010 Amendment ####
 

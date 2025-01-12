@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-The Secretary shall provide for the establishment and operation in accordance with this section of a system to provide for the lifetime care of chimpanzees that have been used, or were bred or purchased for use, in research conducted or supported by the National Institutes of Health, the Food and Drug Administration, or other agencies of the Federal Government, and with respect to which it has been determined by the Secretary that the chimpanzees are not needed for such research (in this section referred to as “surplus chimpanzees”).
+The Secretary shall provide for the establishment and operation in accordance with this section of a system to provide for the lifetime care of chimpanzees that have been used, or were bred or purchased for use, in research conducted or supported by the National Institutes of Health, the Food and Drug Administration, or other agencies of the Federal Government, and with respect to which it has been determined by the Secretary that the chimpanzees are not needed for such research (in this section referred to as "surplus chimpanzees").
 
 #### (b) Administration of sanctuary system ####
 
@@ -16,7 +16,7 @@ All surplus chimpanzees owned by the Federal Government shall be accepted into t
 
 #### (1) In general ####
 
-Not later than 180 days after December 20, 2000, the Secretary shall by regulation establish standards for operating the sanctuary system to provide for the permanent retirement of surplus chimpanzees. In establishing the standards, the Secretary shall consider the recommendations of the board of directors of the nonprofit private entity that receives the contract under subsection (e) of this section, and shall consider the recommendations of the National Research Council applicable to surplus chimpanzees that are made in the report published in 1997 and entitled “Chimpanzees in Research—Strategies for Their Ethical Care, Management, and Use”.
+Not later than 180 days after December 20, 2000, the Secretary shall by regulation establish standards for operating the sanctuary system to provide for the permanent retirement of surplus chimpanzees. In establishing the standards, the Secretary shall consider the recommendations of the board of directors of the nonprofit private entity that receives the contract under subsection (e) of this section, and shall consider the recommendations of the National Research Council applicable to surplus chimpanzees that are made in the report published in 1997 and entitled "Chimpanzees in Research—Strategies for Their Ethical Care, Management, and Use".
 
 #### (2) Chimpanzees accepted into system ####
 
@@ -156,19 +156,19 @@ For purposes of this section:
 
 #### (1) Permanent retirement ####
 
-The term “permanent retirement”, with respect to a chimpanzee that has been accepted into the sanctuary system, means that under subsection (a) of this section the system provides for the lifetime care of the chimpanzee, that under subsection (d)(2) of this section the system does not permit the chimpanzee to be used in research (except as authorized under subsection (d)(3) of this section) or to be euthanized (except as provided in subsection (d)(2)(I) of this section), that under subsection (d)(2) of this section the system will not discharge the chimpanzee from the system, and that under such subsection the system otherwise cares for the chimpanzee.
+The term "permanent retirement", with respect to a chimpanzee that has been accepted into the sanctuary system, means that under subsection (a) of this section the system provides for the lifetime care of the chimpanzee, that under subsection (d)(2) of this section the system does not permit the chimpanzee to be used in research (except as authorized under subsection (d)(3) of this section) or to be euthanized (except as provided in subsection (d)(2)(I) of this section), that under subsection (d)(2) of this section the system will not discharge the chimpanzee from the system, and that under such subsection the system otherwise cares for the chimpanzee.
 
 #### (2) Sanctuary system ####
 
-The term “sanctuary system” means the system described in subsection (a) of this section.
+The term "sanctuary system" means the system described in subsection (a) of this section.
 
 #### (3) Secretary ####
 
-The term “Secretary” means the Secretary of Health and Human Services.
+The term "Secretary" means the Secretary of Health and Human Services.
 
 #### (4) Surplus chimpanzees ####
 
-The term “surplus chimpanzees” has the meaning given that term in subsection (a) of this section.
+The term "surplus chimpanzees" has the meaning given that term in subsection (a) of this section.
 
 #### (g) Funding ####
 
@@ -212,31 +212,31 @@ Section 3 of the Chimpanzee Health Improvement, Maintenance, and Protection Act,
 
 Section was formerly classified to section 287a–3a of this title.
 
-November 27, 2013, referred to in subsec. (g)(3), was in the original “the date enactment of this Act” (sic), which was translated as meaning the date of enactment of Pub. L. 113–55, which enacted par. (3), to reflect the probable intent of Congress.
+November 27, 2013, referred to in subsec. (g)(3), was in the original "the date enactment of this Act" (sic), which was translated as meaning the date of enactment of Pub. L. 113–55, which enacted par. (3), to reflect the probable intent of Congress.
 
 #### Amendments ####
 
-**2013**—Subsec. (g)(1). Pub. L. 113–55, §302(a)(1), amended par. (1) generally. Prior to amendment, text read as follows: “Of the amount appropriated under this chapter for fiscal year 2001 and each subsequent fiscal year, the Secretary, subject to paragraph (2), shall reserve a portion for purposes of the operation (and establishment, as applicable) of the sanctuary system and for purposes of paragraph (3), except that the Secretary may not for such purposes reserve any further funds from such amount after the aggregate total of the funds so reserved for such fiscal years reaches $30,000,000. The purposes for which funds reserved under the preceding sentence may be expended include the construction and renovation of facilities for the sanctuary system.”
+**2013**—Subsec. (g)(1). Pub. L. 113–55, §302(a)(1), amended par. (1) generally. Prior to amendment, text read as follows: "Of the amount appropriated under this chapter for fiscal year 2001 and each subsequent fiscal year, the Secretary, subject to paragraph (2), shall reserve a portion for purposes of the operation (and establishment, as applicable) of the sanctuary system and for purposes of paragraph (3), except that the Secretary may not for such purposes reserve any further funds from such amount after the aggregate total of the funds so reserved for such fiscal years reaches $30,000,000. The purposes for which funds reserved under the preceding sentence may be expended include the construction and renovation of facilities for the sanctuary system."
 
-Subsec. (g)(2). Pub. L. 113–55, §302(a)(4), substituted “With respect to amounts authorized to be appropriated by paragraph (1)” for “With respect to amounts reserved under paragraph (1)” and “Secretary in consultation with the board of directors” for “board of directors”.
+Subsec. (g)(2). Pub. L. 113–55, §302(a)(4), substituted "With respect to amounts authorized to be appropriated by paragraph (1)" for "With respect to amounts reserved under paragraph (1)" and "Secretary in consultation with the board of directors" for "board of directors".
 
-Pub. L. 113–55, §302(a)(2), (3), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “Funds may not be reserved for a fiscal year under paragraph (1) unless the amount appropriated under this chapter for such year equals or exceeds the amount appropriated under this chapter for fiscal year 1999.”
+Pub. L. 113–55, §302(a)(2), (3), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "Funds may not be reserved for a fiscal year under paragraph (1) unless the amount appropriated under this chapter for such year equals or exceeds the amount appropriated under this chapter for fiscal year 1999."
 
 Subsec. (g)(3). Pub. L. 113–55, §302(c), added par. (3). Former par. (3) redesignated (2).
 
 Pub. L. 113–55, §302(a)(3), redesignated par. (3) as (2).
 
-**2011**—Subsec. (d)(4)(A)(ii). Pub. L. 112–74, §221(b)(3)(B), substituted “that is carried out by the Director of NIH, acting through the Office of the Director of NIH,” for “that is carried out by the National Center for Research Resources”.
+**2011**—Subsec. (d)(4)(A)(ii). Pub. L. 112–74, §221(b)(3)(B), substituted "that is carried out by the Director of NIH, acting through the Office of the Director of NIH," for "that is carried out by the National Center for Research Resources".
 
-**2007**—Subsec. (d)(2)(J). Pub. L. 110–170, §2(a)(1), struck out at end “If any chimpanzee is removed from a sanctuary facility for purposes of research authorized under paragraph (3)(A)(ii), the chimpanzee shall be returned immediately upon the completion of that research. All costs associated with the removal of the chimpanzee from the facility, with the care of the chimpanzee during such absence from the facility, and with the return of the chimpanzee to the facility shall be the responsibility of the entity that obtains approval under such paragraph regarding use of the chimpanzee and removes the chimpanzee from the sanctuary facility.”
+**2007**—Subsec. (d)(2)(J). Pub. L. 110–170, §2(a)(1), struck out at end "If any chimpanzee is removed from a sanctuary facility for purposes of research authorized under paragraph (3)(A)(ii), the chimpanzee shall be returned immediately upon the completion of that research. All costs associated with the removal of the chimpanzee from the facility, with the care of the chimpanzee during such absence from the facility, and with the return of the chimpanzee to the facility shall be the responsibility of the entity that obtains approval under such paragraph regarding use of the chimpanzee and removes the chimpanzee from the sanctuary facility."
 
-Subsec. (d)(3)(A). Pub. L. 110–170, §2(a)(2)(A), substituted “except that the chimpanzee may be used for noninvasive behavioral studies” for “except as provided in clause (i) or (ii), as follows:
+Subsec. (d)(3)(A). Pub. L. 110–170, §2(a)(2)(A), substituted "except that the chimpanzee may be used for noninvasive behavioral studies" for "except as provided in clause (i) or (ii), as follows:
 
-“(i) The chimpanzee may be used for noninvasive behavioral studies”
+"(i) The chimpanzee may be used for noninvasive behavioral studies"
 
 and struck out cl. (ii) which related to findings necessary before a chimpanzee may be used in research.
 
-Subsec. (d)(3)(B), (C). Pub. L. 110–170, §2(a)(2)(B)–(D), redesignated subpar. (C) as (B), substituted “under subparagraph (A)” for “under subparagraphs (A) and (B)”, and struck out former subpar. (B) which related to approval of research design.
+Subsec. (d)(3)(B), (C). Pub. L. 110–170, §2(a)(2)(B)–(D), redesignated subpar. (C) as (B), substituted "under subparagraph (A)" for "under subparagraphs (A) and (B)", and struck out former subpar. (B) which related to approval of research design.
 
 #### Report to Congress Regarding Number of Chimpanzees and Funding for Care of Chimpanzees ####
 

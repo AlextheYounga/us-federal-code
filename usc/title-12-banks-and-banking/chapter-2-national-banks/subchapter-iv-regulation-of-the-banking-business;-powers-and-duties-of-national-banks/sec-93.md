@@ -70,9 +70,9 @@ The association or other person against whom any penalty is assessed under this 
 
 All penalties collected under authority of this subsection shall be deposited into the Treasury.
 
-#### (8) “Violate” defined ####
+#### (8) "Violate" defined ####
 
-For purposes of this section, the term “violate” includes any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
+For purposes of this section, the term "violate" includes any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
 
 #### (12) <sup><a href="#93_4_target" name="93_4">4</a></sup> Regulations ####
 
@@ -122,9 +122,9 @@ In determining whether a franchise shall be forfeited under paragraph (1), the C
 
 This subsection shall not apply to a successor to the interests of, or a person who acquires, a bank, a Federal branch, or a Federal agency that violated a provision of law described in paragraph (1), if the successor succeeds to the interests of the violator, or the acquisition is made, in good faith and not for purposes of evading this subsection or regulations prescribed under this subsection.
 
-#### (4) “Senior executive officer” defined ####
+#### (4) "Senior executive officer" defined ####
 
-The term “senior executive officer” has the same meaning as in regulations prescribed under section 1831i(f) of this title.
+The term "senior executive officer" has the same meaning as in regulations prescribed under section 1831i(f) of this title.
 
 #### (d) <sup><a href="#93_5_target" name="93_5">5</a></sup> Authority ####
 
@@ -134,7 +134,7 @@ The Comptroller of the Currency may act in the Comptroller's own name and throug
 
 #### References in Text ####
 
-Title 62 of the Revised Statutes, referred to in subsecs. (a), (b)(1), and (d), was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
+Title 62 of the Revised Statutes, referred to in subsecs. (a), (b)(1), and (d), was in the original "this Title" meaning title LXII of the Revised Statutes, consisting of R.S. §§5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
 
 #### Codification ####
 
@@ -150,7 +150,7 @@ Subsec. (d). Pub. L. 103–322, §330017(b)(2), and Pub. L. 103–325, §413(b)(
 
 Pub. L. 103–325, §331(b)(3), added subsec. (d) relating to authority.
 
-Subsec. (d)(1)(B). Pub. L. 103–325, §411(c)(2)(C), substituted “section 5322 or 5324 of title 31” for “section 5322 of title 31”.
+Subsec. (d)(1)(B). Pub. L. 103–325, §411(c)(2)(C), substituted "section 5322 or 5324 of title 31" for "section 5322 of title 31".
 
 **1992**—Subsec. (c). Pub. L. 102–550 added subsec. (c) relating to forfeiture of franchise for money laundering.
 
@@ -158,32 +158,32 @@ Subsec. (d)(1)(B). Pub. L. 103–325, §411(c)(2)(C), substituted “section 532
 
 Subsec. (c). Pub. L. 101–73, §905(e), added subsec. (c) relating to notice after separation from service.
 
-**1982**—Subsec. (b)(1). Pub. L. 97–320, as amended by Pub. L. 97–457, inserted “or any of the provisions of section 92a of this title”, and substituted “may be assessed” for “shall be assessed” and “title” for “chapter”.
+**1982**—Subsec. (b)(1). Pub. L. 97–320, as amended by Pub. L. 97–457, inserted "or any of the provisions of section 92a of this title", and substituted "may be assessed" for "shall be assessed" and "title" for "chapter".
 
 **1978**—Pub. L. 95–630 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1989 Amendment ####
 
-Pub. L. 101–73, title IX, §907(l), Aug. 9, 1989, 103 Stat. 476, provided that: “The amendments made by this section [amending this section and sections 481, 504, 505, 1467a, 1786, 1817, 1818, 1828, 1847, and 1972 of this title] shall apply with respect to conduct engaged in by any person after the date of the enactment of this Act [Aug. 9, 1989], except that the increased maximum civil penalties of $5,000 and $25,000 per violation or per day may apply to such conduct engaged in before such date if such conduct—
+Pub. L. 101–73, title IX, §907(l), Aug. 9, 1989, 103 Stat. 476, provided that: "The amendments made by this section [amending this section and sections 481, 504, 505, 1467a, 1786, 1817, 1818, 1828, 1847, and 1972 of this title] shall apply with respect to conduct engaged in by any person after the date of the enactment of this Act [Aug. 9, 1989], except that the increased maximum civil penalties of $5,000 and $25,000 per violation or per day may apply to such conduct engaged in before such date if such conduct—
 
-“(1) is not already subject to a notice (initiating an administrative proceeding) issued by the appropriate Federal banking agency (as defined in section 3(q) of the Federal Deposit Insurance Act [12 U.S.C. 1813(q)]) or the National Credit Union Administration Board; and
+"(1) is not already subject to a notice (initiating an administrative proceeding) issued by the appropriate Federal banking agency (as defined in section 3(q) of the Federal Deposit Insurance Act [12 U.S.C. 1813(q)]) or the National Credit Union Administration Board; and
 
-“(2) occurred after the completion of the last report of examination of the institution involved by the appropriate Federal banking agency (as so defined) occurring before the date of the enactment of this Act.”
+"(2) occurred after the completion of the last report of examination of the institution involved by the appropriate Federal banking agency (as so defined) occurring before the date of the enactment of this Act."
 
 #### Effective Date of 1978 Amendment ####
 
-Pub. L. 95–630, title I, §109, Nov. 10, 1978, 92 Stat. 3665, provided that: “Any amendment made by this title which provides for the imposition of civil penalties [enacting sections 504 and 505 of this title and amending this section and sections 1464, 1730, 1730a, 1786, 1818, 1828, and 1847 of this title] shall apply only to violations occurring or continuing after the date of its enactment [Nov. 10, 1978].”
+Pub. L. 95–630, title I, §109, Nov. 10, 1978, 92 Stat. 3665, provided that: "Any amendment made by this title which provides for the imposition of civil penalties [enacting sections 504 and 505 of this title and amending this section and sections 1464, 1730, 1730a, 1786, 1818, 1828, and 1847 of this title] shall apply only to violations occurring or continuing after the date of its enactment [Nov. 10, 1978]."
 
 #### Exception as to Transfer of Functions ####
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-[<sup>1</sup> So in original. The words “, commits any violation described in paragraph (1) which” probably should not appear.](#93_1)
+[<sup>1</sup> So in original. The words ", commits any violation described in paragraph (1) which" probably should not appear.](#93_1)
 
-[<sup>2</sup> So in original. The word “any” probably should not appear.](#93_2)
+[<sup>2</sup> So in original. The word "any" probably should not appear.](#93_2)
 
-[<sup>3</sup> So in original. Probably should be “not to”.](#93_3)
+[<sup>3</sup> So in original. Probably should be "not to".](#93_3)
 
 [<sup>4</sup> So in original. No pars. (9) to (11) have been enacted.](#93_4)
 
-[<sup>5</sup> So in original. Probably should be “(e)”.](#93_5)
+[<sup>5</sup> So in original. Probably should be "(e)".](#93_5)

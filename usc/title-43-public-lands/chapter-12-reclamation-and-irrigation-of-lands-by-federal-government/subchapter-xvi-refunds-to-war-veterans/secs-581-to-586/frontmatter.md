@@ -2,7 +2,7 @@
 
 #### Codification ####
 
-Section 581, act Feb. 21, 1925, ch. 277, §1, 43 Stat. 956, defined “veteran”.
+Section 581, act Feb. 21, 1925, ch. 277, §1, 43 Stat. 956, defined "veteran".
 
 Section 582, act Feb. 21, 1925, ch. 277, §2, 43 Stat. 956, related to authorization for refund to World War veterans.
 

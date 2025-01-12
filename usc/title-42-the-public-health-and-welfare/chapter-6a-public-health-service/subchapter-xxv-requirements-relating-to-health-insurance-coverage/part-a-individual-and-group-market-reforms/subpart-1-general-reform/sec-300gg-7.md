@@ -12,7 +12,7 @@ A prior section 2708 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments ####
 
-**2010**—Pub. L. 111–148, §10103(b), struck out “or individual” after “offering group”.
+**2010**—Pub. L. 111–148, §10103(b), struck out "or individual" after "offering group".
 
 #### Effective Date ####
 

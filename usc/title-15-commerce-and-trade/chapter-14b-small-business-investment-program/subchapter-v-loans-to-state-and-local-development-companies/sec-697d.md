@@ -38,16 +38,16 @@ The designation of a qualified State or local development company as an accredit
 
 A suspension or revocation under paragraph (1) shall not affect any outstanding debenture guarantee.
 
-#### (e) “Qualified State or local development company” defined ####
+#### (e) "Qualified State or local development company" defined ####
 
-For purposes of this section, the term “qualified State or local development company” has the same meaning as in section 697(e) of this title.
+For purposes of this section, the term "qualified State or local development company" has the same meaning as in section 697(e) of this title.
 
 (Pub. L. 85–699, title V, §507, as added Pub. L. 103–403, title II, §212(a), Oct. 22, 1994, 108 Stat. 4183.)
 
 #### Regulations ####
 
-Pub. L. 103–403, title II, §212(b), Oct. 22, 1994, 108 Stat. 4184, provided that: “Not later than 120 days after the date of enactment of this Act [Oct. 22, 1994], the Administration shall promulgate final regulations to carry out this section [enacting this section and provisions set out below].”
+Pub. L. 103–403, title II, §212(b), Oct. 22, 1994, 108 Stat. 4184, provided that: "Not later than 120 days after the date of enactment of this Act [Oct. 22, 1994], the Administration shall promulgate final regulations to carry out this section [enacting this section and provisions set out below]."
 
 #### Report on Implementation of Program ####
 
-Pub. L. 103–403, title II, §212(c), Oct. 22, 1994, 108 Stat. 4184, provided that: “Not later than 1 year after the effective date of regulations promulgated under subsection (b) [set out above], and biennially thereafter, the Administration shall report to the Committees on Small Business of the Senate and the House of Representatives [Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate] on the implementation of this section [enacting this section and provisions set out above]. Such report shall include data on the number of development companies designated as accredited lenders, their debenture guarantee volume, their loss rates, the average processing time on their guarantee applications, and such other information as the Administration deems appropriate.”
+Pub. L. 103–403, title II, §212(c), Oct. 22, 1994, 108 Stat. 4184, provided that: "Not later than 1 year after the effective date of regulations promulgated under subsection (b) [set out above], and biennially thereafter, the Administration shall report to the Committees on Small Business of the Senate and the House of Representatives [Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate] on the implementation of this section [enacting this section and provisions set out above]. Such report shall include data on the number of development companies designated as accredited lenders, their debenture guarantee volume, their loss rates, the average processing time on their guarantee applications, and such other information as the Administration deems appropriate."

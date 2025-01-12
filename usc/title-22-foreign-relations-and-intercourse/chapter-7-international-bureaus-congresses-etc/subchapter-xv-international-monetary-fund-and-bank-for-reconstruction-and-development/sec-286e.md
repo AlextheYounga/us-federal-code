@@ -14,7 +14,7 @@ Subsection (a), referred to in the first par., means section 7(a) of act July 31
 
 #### Codification ####
 
-In first and second pars., “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In first and second pars., "chapter 31 of title 31" and "that chapter" substituted for "the Second Liberty Bond Act, as amended" and "that Act", respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section is based on subsecs. (b) to (d) of section 7 of act July 31, 1945. Subsec. (a) of section 7 amended section 822a of former Title 31. See References in Text note above.
 
@@ -22,16 +22,16 @@ Section is based on subsecs. (b) to (d) of section 7 of act July 31, 1945. Subse
 
 **1962**—Pub. L. 87–490 included in the limitation of face amount of special notes issued to the Fund the dollar equivalent of currencies and gold which the United States shall have purchased from the Fund in accordance with the Articles of Agreement.
 
-**1959**—Pub. L. 86–48 struck out “of $950,000,000” after “is authorized to pay the balance”, and substituted “$8,675,000,000” for “not to exceed $4,125,000,000”.
+**1959**—Pub. L. 86–48 struck out "of $950,000,000" after "is authorized to pay the balance", and substituted "$8,675,000,000" for "not to exceed $4,125,000,000".
 
 #### Increase in Quota of United States; Appropriation Requirements; Transfers and Credits; Restrictions ####
 
-Pub. L. 96–544, Dec. 17, 1980, 94 Stat. 3213, provided that: “For an increase in the United States quota in the International Monetary Fund, the dollar equivalent of 4,202.5 million Special Drawing Rights (approximately $5,537,839,000), to remain available until expended, and balances equivalent to the current SDR value of the United States quota in the Fund shall be merged with this appropriation. Amounts equivalent to the United States reserve position in the Fund shall be credited to this appropriation. Amounts available in this account may be transferred to the Fund by the Secretary of the Treasury to meet United States obligations in the Fund in an amount not to exceed at any time the United States quota in the Fund. The amounts provided for valuation adjustments of Fund holdings of United States dollars shall continue to be available for this purpose and shall be available for transfers to this appropriation account for the purpose of such adjustments. In the administration of these funds it shall be the policy of the United States:
+Pub. L. 96–544, Dec. 17, 1980, 94 Stat. 3213, provided that: "For an increase in the United States quota in the International Monetary Fund, the dollar equivalent of 4,202.5 million Special Drawing Rights (approximately $5,537,839,000), to remain available until expended, and balances equivalent to the current SDR value of the United States quota in the Fund shall be merged with this appropriation. Amounts equivalent to the United States reserve position in the Fund shall be credited to this appropriation. Amounts available in this account may be transferred to the Fund by the Secretary of the Treasury to meet United States obligations in the Fund in an amount not to exceed at any time the United States quota in the Fund. The amounts provided for valuation adjustments of Fund holdings of United States dollars shall continue to be available for this purpose and shall be available for transfers to this appropriation account for the purpose of such adjustments. In the administration of these funds it shall be the policy of the United States:
 
-“(1) that the Palestine Liberation Organization should not be given membership in the Fund or be given observer status or any other official status at any meeting sponsored by or associated with the Fund;
+"(1) that the Palestine Liberation Organization should not be given membership in the Fund or be given observer status or any other official status at any meeting sponsored by or associated with the Fund;
 
-“(2) that the United States Executive Director of the Fund shall promptly notify the Fund of such policy;
+"(2) that the United States Executive Director of the Fund shall promptly notify the Fund of such policy;
 
-“(3) that in the event that the Fund provides either membership, observer status, or any other official status to the Palestine Liberation Organization, such action would result in a serious diminution of United States support; and
+"(3) that in the event that the Fund provides either membership, observer status, or any other official status to the Palestine Liberation Organization, such action would result in a serious diminution of United States support; and
 
-“(4) that upon review of such action, the President would be required to report his recommendations to the Congress with regard to any further United States participation in the Fund.”
+"(4) that upon review of such action, the President would be required to report his recommendations to the Congress with regard to any further United States participation in the Fund."

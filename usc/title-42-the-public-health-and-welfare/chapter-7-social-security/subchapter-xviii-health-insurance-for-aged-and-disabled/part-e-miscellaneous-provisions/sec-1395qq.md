@@ -44,13 +44,13 @@ Section 1645 of title 25, referred to in subsec. (f), was amended generally by s
 
 #### Codification ####
 
-Pub. L. 111–148, §10221(a), enacted into law S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, “[e]xcept as provided in” section 10221(b) of Pub. L. 111–148. Section 201(a) of S. 1790 would have amended this section but was stricken out by section 10221(b)(4) of Pub. L. 111–148.
+Pub. L. 111–148, §10221(a), enacted into law S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, "[e]xcept as provided in" section 10221(b) of Pub. L. 111–148. Section 201(a) of S. 1790 would have amended this section but was stricken out by section 10221(b)(4) of Pub. L. 111–148.
 
 #### Amendments ####
 
-**2010**—Subsec. (e)(1)(A). Pub. L. 111–148, §2902(a), substituted “on or after” for “during the 5-year period beginning on”.
+**2010**—Subsec. (e)(1)(A). Pub. L. 111–148, §2902(a), substituted "on or after" for "during the 5-year period beginning on".
 
-**2003**—Subsec. (e)(1)(A). Pub. L. 108–173 inserted “(and for items and services furnished during the 5-year period beginning on January 1, 2005, all items and services for which payment may be made under part B of this subchapter)” after “for services described in paragraph (2)”.
+**2003**—Subsec. (e)(1)(A). Pub. L. 108–173 inserted "(and for items and services furnished during the 5-year period beginning on January 1, 2005, all items and services for which payment may be made under part B of this subchapter)" after "for services described in paragraph (2)".
 
 **2000**—Subsec. (e). Pub. L. 106–554, §1(a)(6) [title IV, §432(a)(2)], added subsec. (e). Former subsec. (e) redesignated (f).
 
@@ -62,7 +62,7 @@ Subsec. (f). Pub. L. 106–554, §1(a)(6) [title IV, §432(a)(1)], redesignated 
 
 #### Effective Date of 2010 Amendment ####
 
-Pub. L. 111–148, title II, §2902(b), Mar. 23, 2010, 124 Stat. 333, provided that: “The amendments made by this section [amending this section] shall apply to items or services furnished on or after January 1, 2010.”
+Pub. L. 111–148, title II, §2902(b), Mar. 23, 2010, 124 Stat. 333, provided that: "The amendments made by this section [amending this section] shall apply to items or services furnished on or after January 1, 2010."
 
 #### Effective Date of 2000 Amendment ####
 

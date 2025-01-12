@@ -46,10 +46,10 @@ Sec.
 
 #### Amendments ####
 
-**1984**—Pub. L. 98–497, title I, §107(e)(3), Oct. 19, 1984, 98 Stat. 2292, substituted “Archivist of the United States” for “Administrator of General Services” in items 6 and 12.
+**1984**—Pub. L. 98–497, title I, §107(e)(3), Oct. 19, 1984, 98 Stat. 2292, substituted "Archivist of the United States" for "Administrator of General Services" in items 6 and 12.
 
 **1961**—Pub. L. 87–389, §2(b), Oct. 4, 1961, 75 Stat. 820, added item 21.
 
-**1951**—Act Oct. 31, 1951, ch. 655, §5, 65 Stat. 711, substituted “Administrator of General Services” for “Secretary of State” in items 6 and 12.
+**1951**—Act Oct. 31, 1951, ch. 655, §5, 65 Stat. 711, substituted "Administrator of General Services" for "Secretary of State" in items 6 and 12.
 
 [<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER1_1)

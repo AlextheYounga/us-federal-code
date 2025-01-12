@@ -102,7 +102,7 @@ Sec.
 
 **2006**—Pub. L. 109–347, title VIII, §802(b), Oct. 13, 2006, 120 Stat. 1961, added subchapter IV heading and items 5361 to 5367.
 
-**2004**—Pub. L. 108–458, title VI, §6203(i), Dec. 17, 2004, 118 Stat. 3747, substituted item 5318A for former item 5318A “Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern”.
+**2004**—Pub. L. 108–458, title VI, §6203(i), Dec. 17, 2004, 118 Stat. 3747, substituted item 5318A for former item 5318A "Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern".
 
 Pub. L. 108–458, title VI, §6202(n)(1), (o), Dec. 17, 2004, 118 Stat. 3746, amended Pub. L. 107–56, §365. See 2001 Amendment note below.
 
@@ -112,7 +112,7 @@ Pub. L. 107–56, title III, §§311(b), 371(c), Oct. 26, 2001, 115 Stat. 304, 3
 
 **1998**—Pub. L. 105–310, §2(b), Oct. 30, 1998, 112 Stat. 2948, added subchapter III heading, parts 1 and 2 headings, and items 5340 to 5355.
 
-**1996**—Pub. L. 104–208, div. A, title II, §2223(2), Sept. 30, 1996, 110 Stat. 3009–415, struck out item 5327 “Identification of financial institutions”.
+**1996**—Pub. L. 104–208, div. A, title II, §2223(2), Sept. 30, 1996, 110 Stat. 3009–415, struck out item 5327 "Identification of financial institutions".
 
 **1994**—Pub. L. 103–325, title III, §311(b), title IV, §408(d), Sept. 23, 1994, 108 Stat. 2221, 2252, added items 5329 and 5330.
 
@@ -120,6 +120,6 @@ Pub. L. 107–56, title III, §§311(b), 371(c), Oct. 26, 2001, 115 Stat. 304, 3
 
 **1988**—Pub. L. 100–690, title VI, §6185(f), Nov. 18, 1988, 102 Stat. 4357, added items 5325 and 5326.
 
-**1986**—Pub. L. 99–570, title I, §§1354(b), 1356(d), Oct. 27, 1986, 100 Stat. 3207–22, 3207–25, substituted “Compliance, exemptions, and summons authority” for “Compliance and exemptions” in item 5318 and added item 5324.
+**1986**—Pub. L. 99–570, title I, §§1354(b), 1356(d), Oct. 27, 1986, 100 Stat. 3207–22, 3207–25, substituted "Compliance, exemptions, and summons authority" for "Compliance and exemptions" in item 5318 and added item 5324.
 
 **1984**—Pub. L. 98–473, title II, §901(f), Oct. 12, 1984, 98 Stat. 2136, added item 5323.

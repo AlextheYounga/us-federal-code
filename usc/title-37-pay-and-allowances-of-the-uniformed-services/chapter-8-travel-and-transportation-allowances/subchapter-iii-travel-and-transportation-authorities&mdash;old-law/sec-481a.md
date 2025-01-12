@@ -14,7 +14,7 @@
 
 **2011**—Pub. L. 112–81, §631(d)(2), renumbered section 411a of this title as this section.
 
-Subsec. (b). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404”.
+Subsec. (b). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "474" for "404".
 
 Subsec. (c). Pub. L. 112–81, §631(e)(15), added subsec. (c).
 

@@ -61,15 +61,15 @@ Chap. Sec.
 
 **1988**—Pub. L. 100–504, title II, §204, Oct. 18, 1988, 102 Stat. 2531, added item 39.
 
-**1984**—Pub. L. 98–497, title I, §§102(c)(2), 107(b)(18)(B), Oct. 19, 1984, 98 Stat. 2283, 2290, substituted “National Archives and Records Administration” for “Archival Administration” in item 21, and inserted “the Archivist of the United States and by the” in item 29.
+**1984**—Pub. L. 98–497, title I, §§102(c)(2), 107(b)(18)(B), Oct. 19, 1984, 98 Stat. 2283, 2290, substituted "National Archives and Records Administration" for "Archival Administration" in item 21, and inserted "the Archivist of the United States and by the" in item 29.
 
-**1980**—Pub. L. 96–511, §2(b), Dec. 11, 1980, 94 Stat. 2825, substituted “Information Policy” for “Reporting Services” in item 35.
+**1980**—Pub. L. 96–511, §2(b), Dec. 11, 1980, 94 Stat. 2825, substituted "Information Policy" for "Reporting Services" in item 35.
 
 **1978**—Pub. L. 95–591, §2(b)(1), Nov. 4, 1978, 92 Stat. 2528, added item 22.
 
-Pub. L. 95–378, §2(b), Sept. 22, 1978, 92 Stat. 723, struck out item 27 “Federal Records Council”.
+Pub. L. 95–378, §2(b), Sept. 22, 1978, 92 Stat. 723, struck out item 27 "Federal Records Council".
 
-**1974**—Pub. L. 93–536, §2, Dec. 22, 1974, 88 Stat. 1735, substituted “National Historical Publications and Records Commission” for “National Historical Publications Commission” in item 25.
+**1974**—Pub. L. 93–536, §2, Dec. 22, 1974, 88 Stat. 1735, substituted "National Historical Publications and Records Commission" for "National Historical Publications Commission" in item 25.
 
 |*Title 44<br/><br/>Former Sections*|*Title 44<br/><br/>New Sections*|
 |-----------------------------------|--------------------------------|
@@ -414,31 +414,31 @@ Pub. L. 95–378, §2(b), Sept. 22, 1978, 92 Stat. 723, struck out item 27 “Fe
 
 #### Enacting Clause ####
 
-Section 1 of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238, provided in part: “That the general and permanent laws relating to public printing and documents are revised, codified, and enacted as title 44, United States Code, ‘Public Printing and Documents’, and may be cited as ‘44 U.S.C. §\_\_\_\_’ ”.
+Section 1 of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238, provided in part: "That the general and permanent laws relating to public printing and documents are revised, codified, and enacted as title 44, United States Code, 'Public Printing and Documents', and may be cited as '44 U.S.C. §\_\_\_\_' ".
 
 #### Legislative Purpose; Inconsistent Provisions ####
 
-Section 2(a) of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1305, provided that: “The legislative purpose in enacting section 1 of this Act is to restate, without substantive change, the laws replaced by those sections on the effective date of this Act. Laws effective after January 14, 1968, that are inconsistent with this Act are considered as superseding it to the extent of the inconsistency.”
+Section 2(a) of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1305, provided that: "The legislative purpose in enacting section 1 of this Act is to restate, without substantive change, the laws replaced by those sections on the effective date of this Act. Laws effective after January 14, 1968, that are inconsistent with this Act are considered as superseding it to the extent of the inconsistency."
 
 #### References to Other Laws ####
 
-Section 2(b) of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1305, provided that: “A reference to a law replaced by section 1 of this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.”
+Section 2(b) of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1305, provided that: "A reference to a law replaced by section 1 of this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act."
 
 #### Outstanding Orders, Rules, and Regulations ####
 
-Section 2(c) of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1305, provided that: “An order, rule, or regulation in effect under a law replaced by section 1 of this Act shall continue in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.”
+Section 2(c) of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1305, provided that: "An order, rule, or regulation in effect under a law replaced by section 1 of this Act shall continue in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded."
 
 #### Savings Provision ####
 
-Section 2(d) of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1305, provided that: “An action taken or an offense committed under a law replaced by section 1 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.”
+Section 2(d) of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1305, provided that: "An action taken or an offense committed under a law replaced by section 1 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act."
 
 #### Legislative Construction ####
 
-Section 2(e) of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1306, provided that: “An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of its caption or catchline.”
+Section 2(e) of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1306, provided that: "An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of its caption or catchline."
 
 #### Separability ####
 
-Section 2(f) of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1306, provided that: “If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in one or more of its applications, the provision remains in effect in all valid applications that are severable from the invalid application or applications.”
+Section 2(f) of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1306, provided that: "If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in one or more of its applications, the provision remains in effect in all valid applications that are severable from the invalid application or applications."
 
 #### Repeals ####
 

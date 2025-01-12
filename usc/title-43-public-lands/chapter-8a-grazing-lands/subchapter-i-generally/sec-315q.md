@@ -10,11 +10,11 @@ Section was not enacted as a part of act June 28, 1934, known as the Taylor Graz
 
 #### Amendments ####
 
-**1948**—Act May 28, 1948, inserted “or national defense” between “war” and “purposes” wherever appearing.
+**1948**—Act May 28, 1948, inserted "or national defense" between "war" and "purposes" wherever appearing.
 
 #### Effective Date of 1948 Amendment ####
 
-Act May 28, 1948, ch. 353, §2, 62 Stat. 277, provided that: “This amendment [amending this section] is to take effect as of July 25, 1947.”
+Act May 28, 1948, ch. 353, §2, 62 Stat. 277, provided that: "This amendment [amending this section] is to take effect as of July 25, 1947."
 
 #### Termination of War and Emergencies ####
 

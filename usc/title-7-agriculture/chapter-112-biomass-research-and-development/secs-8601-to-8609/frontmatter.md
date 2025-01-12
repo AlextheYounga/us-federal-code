@@ -30,6 +30,6 @@ Repeal of this chapter and repeal of Pub. L. 110–234 by Pub. L. 110–246 effe
 
 #### Short Title ####
 
-Pub. L. 106–224, title III, §301, June 20, 2000, 114 Stat. 428, which provided that this chapter could be cited as the “Biomass Research and Development Act of 2000”, was repealed by Pub. L. 110–234, title IX, §9001(b), May 22, 2008, 122 Stat. 1333, and Pub. L. 110–246, §4(a), title IX, §9001(b), June 18, 2008, 122 Stat. 1664, 2095.
+Pub. L. 106–224, title III, §301, June 20, 2000, 114 Stat. 428, which provided that this chapter could be cited as the "Biomass Research and Development Act of 2000", was repealed by Pub. L. 110–234, title IX, §9001(b), May 22, 2008, 122 Stat. 1333, and Pub. L. 110–246, §4(a), title IX, §9001(b), June 18, 2008, 122 Stat. 1664, 2095.
 
 [Pub. L. 110–234 and Pub. L. 110–246 repealed Pub. L. 106–224, §301, formerly set out above. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]

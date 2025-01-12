@@ -38,7 +38,7 @@ It is the sense of the Congress that the United States Commissioners should seek
 
 **2007**—Subsec. (e). Pub. L. 109–479 added subsec. (e).
 
-**2000**—Subsec. (a)(1). Pub. L. 106–562 inserted before last sentence “Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.”
+**2000**—Subsec. (a)(1). Pub. L. 106–562 inserted before last sentence "Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28."
 
 **1990**—Subsec. (a). Pub. L. 101–627, §201(a), designated existing provisions as par. (1) and added pars. (2) and (3).
 
@@ -48,10 +48,10 @@ Subsec. (d). Pub. L. 101–627, §203, added subsec. (d).
 
 Pub. L. 101–627, title II, §201(b), Nov. 28, 1990, 104 Stat. 4460, provided that:
 
-“(1) Paragraph (2) of section 3(a) of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971a(a)), as added by this section, shall not apply to reappointment of an individual as a United States Commissioner of the International Commission for the Conservation of Atlantic Tunas (hereinafter in this title [enacting section 971b–1 of this title, amending this section and sections 971b, 971d, and 971h of this title, and enacting provisions set out as a note below] referred to as a ‘Commissioner’) if that individual is serving in that position on the date of enactment of this Act [Nov. 28, 1990].
+"(1) Paragraph (2) of section 3(a) of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971a(a)), as added by this section, shall not apply to reappointment of an individual as a United States Commissioner of the International Commission for the Conservation of Atlantic Tunas (hereinafter in this title [enacting section 971b–1 of this title, amending this section and sections 971b, 971d, and 971h of this title, and enacting provisions set out as a note below] referred to as a 'Commissioner') if that individual is serving in that position on the date of enactment of this Act [Nov. 28, 1990].
 
-“(2) An individual serving a term as a Commissioner on the date of enactment of this Act shall not, by reason of that term of service, be ineligible under paragraph (3)(B) of section 3(a) of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971a(a)), as added by this section, for reappointment as a Commissioner.”
+"(2) An individual serving a term as a Commissioner on the date of enactment of this Act shall not, by reason of that term of service, be ineligible under paragraph (3)(B) of section 3(a) of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971a(a)), as added by this section, for reappointment as a Commissioner."
 
 #### Termination of Current Terms and Completion of Pending Appointments ####
 
-Pub. L. 101–627, title II, §202, Nov. 28, 1990, 104 Stat. 4460, provided that: “The term as Commissioner of each individual serving in that position on the date of enactment of this Act [Nov. 28, 1990] shall terminate March 1, 1991. Not later than that date, the President shall complete appointment (or reappointment) of individuals to serve as Commissioners on and after that date.”
+Pub. L. 101–627, title II, §202, Nov. 28, 1990, 104 Stat. 4460, provided that: "The term as Commissioner of each individual serving in that position on the date of enactment of this Act [Nov. 28, 1990] shall terminate March 1, 1991. Not later than that date, the President shall complete appointment (or reappointment) of individuals to serve as Commissioners on and after that date."

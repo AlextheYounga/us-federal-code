@@ -14,11 +14,11 @@ It shall be unlawful for—
 
 (2) a person to solicit, accept, or receive a contribution or donation described in subparagraph (A) or (B) of paragraph (1) from a foreign national.
 
-#### (b) “Foreign national” defined ####
+#### (b) "Foreign national" defined ####
 
-As used in this section, the term “foreign national” means—
+As used in this section, the term "foreign national" means—
 
-(1) a foreign principal, as such term is defined by section 611(b) of title 22, except that the term “foreign national” shall not include any individual who is a citizen of the United States; or
+(1) a foreign principal, as such term is defined by section 611(b) of title 22, except that the term "foreign national" shall not include any individual who is a citizen of the United States; or
 
 (2) an individual who is not a citizen of the United States or a national of the United States (as defined in section 1101(a)(22) of title 8) and who is not lawfully admitted for permanent residence, as defined by section 1101(a)(20) of title 8.
 
@@ -32,11 +32,11 @@ Another prior section 319 of Pub. L. 92–225 was renumbered section 318, and wa
 
 #### Amendments ####
 
-**2002**—Pub. L. 107–155, §303(1), substituted “Contributions and donations by foreign nationals” for “Contributions by foreign nationals” in section catchline.
+**2002**—Pub. L. 107–155, §303(1), substituted "Contributions and donations by foreign nationals" for "Contributions by foreign nationals" in section catchline.
 
-Subsec. (a). Pub. L. 107–155, §303(2), added subsec. (a) and struck out former subsec. (a) which read as follows: “ It shall be unlawful for a foreign national directly or through any other person to make any contribution of money or other thing of value, or to promise expressly or impliedly to make any such contribution, in connection with an election to any political office or in connection with any primary election, convention, or caucus held to select candidates for any political office; or for any person to solicit, accept, or receive any such contribution from a foreign national.”
+Subsec. (a). Pub. L. 107–155, §303(2), added subsec. (a) and struck out former subsec. (a) which read as follows: " It shall be unlawful for a foreign national directly or through any other person to make any contribution of money or other thing of value, or to promise expressly or impliedly to make any such contribution, in connection with an election to any political office or in connection with any primary election, convention, or caucus held to select candidates for any political office; or for any person to solicit, accept, or receive any such contribution from a foreign national."
 
-Subsec. (b)(2). Pub. L. 107–155, §317, inserted “or a national of the United States (as defined in section 1101(a)(22) of title 8)” after “United States”.
+Subsec. (b)(2). Pub. L. 107–155, §317, inserted "or a national of the United States (as defined in section 1101(a)(22) of title 8)" after "United States".
 
 #### Effective Date of 2002 Amendment ####
 

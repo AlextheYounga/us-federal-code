@@ -12,9 +12,9 @@ The Secretary is further authorized to acquire by purchase with donated or appro
 
 Any land or interest in land owned by the State of Oregon or any of its political subdivisions may be acquired only by donation. Any land or interest in land owned by the State of Idaho or any of its political subdivisions may be acquired only by donation or exchange.
 
-#### (d) “Scenic easement” defined ####
+#### (d) "Scenic easement" defined ####
 
-As used in this subchapter the term “scenic easement” means the right to control the use of land in order to protect esthetic values for the purposes of this subchapter, but shall not preclude the continuation of any farming or pastoral use exercised by the owner as of December 31, 1975.
+As used in this subchapter the term "scenic easement" means the right to control the use of land in order to protect esthetic values for the purposes of this subchapter, but shall not preclude the continuation of any farming or pastoral use exercised by the owner as of December 31, 1975.
 
 #### (e) Offers to sell land; hardship from delay ####
 

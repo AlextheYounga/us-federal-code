@@ -14,7 +14,7 @@ Under such rules and regulations as the Commission may prescribe, every natural-
 
 #### (d) Changes in rates and charges; notice to Commission ####
 
-Unless the Commission otherwise orders, no change shall be made by any natural-gas company in any such rate, charge, classification, or service, or in any rule, regulation, or contract relating thereto, except after thirty days’ notice to the Commission and to the public. Such notice shall be given by filing with the Commission and keeping open for public inspection new schedules stating plainly the change or changes to be made in the schedule or schedules then in force and the time when the change or changes will go into effect. The Commission, for good cause shown, may allow changes to take effect without requiring the thirty days’ notice herein provided for by an order specifying the changes so to be made and the time when they shall take effect and the manner in which they shall be filed and published.
+Unless the Commission otherwise orders, no change shall be made by any natural-gas company in any such rate, charge, classification, or service, or in any rule, regulation, or contract relating thereto, except after thirty days' notice to the Commission and to the public. Such notice shall be given by filing with the Commission and keeping open for public inspection new schedules stating plainly the change or changes to be made in the schedule or schedules then in force and the time when the change or changes will go into effect. The Commission, for good cause shown, may allow changes to take effect without requiring the thirty days' notice herein provided for by an order specifying the changes so to be made and the time when they shall take effect and the manner in which they shall be filed and published.
 
 #### (e) Authority of Commission to hold hearings concerning new schedule of rates ####
 
@@ -42,7 +42,7 @@ The Natural Gas Policy Act of 1978, referred to in subsec. (f)(1), is Pub. L. 95
 
 **2005**—Subsec. (f). Pub. L. 109–58 added subsec. (f).
 
-**1962**—Subsec. (e). Pub. L. 87–454 inserted “or gas distributing company” after “State commission”, and struck out proviso which denied authority to the Commission to suspend the rate, charge, classification, or service for the sale of natural gas for resale for industrial use only.
+**1962**—Subsec. (e). Pub. L. 87–454 inserted "or gas distributing company" after "State commission", and struck out proviso which denied authority to the Commission to suspend the rate, charge, classification, or service for the sale of natural gas for resale for industrial use only.
 
 #### Advance Recovery of Expenses Incurred by Natural Gas Companies for Natural Gas Research, Development, and Demonstration Projects ####
 

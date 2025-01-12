@@ -132,7 +132,7 @@ register such security by filing with the Commission a registration statement (a
 
 (D) any security of an issuer organized and operated exclusively for religious, educational, benevolent, fraternal, charitable, or reformatory purposes and not for pecuniary profit, and no part of the net earnings of which inures to the benefit of any private shareholder or individual; or any security of a fund that is excluded from the definition of an investment company under section 80a–3(c)(10)(B) of this title.
 
-(E) any security of an issuer which is a “cooperative association” as defined in the Agricultural Marketing Act, approved June 15, 1929, as amended [12 U.S.C. 1141 et seq.], or a federation of such cooperative associations, if such federation possesses no greater powers or purposes than cooperative associations so defined.
+(E) any security of an issuer which is a "cooperative association" as defined in the Agricultural Marketing Act, approved June 15, 1929, as amended [12 U.S.C. 1141 et seq.], or a federation of such cooperative associations, if such federation possesses no greater powers or purposes than cooperative associations so defined.
 
 (F) any security issued by a mutual or cooperative organization which supplies a commodity or service primarily for the benefit of its members and operates not for pecuniary profit, but only if the security is part of a class issuable only to persons who purchase commodities or services from the issuer, the security is transferable only to a successor in interest or occupancy of premises serviced or to be served by the issuer, and no dividends are payable to the holder of the security.
 
@@ -150,7 +150,7 @@ register such security by filing with the Commission a registration statement (a
 
 (4) Registration of any class of security pursuant to this subsection shall be terminated ninety days, or such shorter period as the Commission may determine, after the issuer files a certification with the Commission that the number of holders of record of such class of security is reduced to less than 300 persons, or, in the case of a bank or a bank holding company, as such term is defined in section 1841 of title 12, 1,200 persons persons.<sup><a href="#78l_1_target" name="78l_1">1</a></sup> The Commission shall after notice and opportunity for hearing deny termination of registration if it finds that the certification is untrue. Termination of registration shall be deferred pending final determination on the question of denial.
 
-(5) For the purposes of this subsection the term “class” shall include all securities of an issuer which are of substantially similar character and the holders of which enjoy substantially similar rights and privileges. The Commission may for the purpose of this subsection define by rules and regulations the terms “total assets” and “held of record” as it deems necessary or appropriate in the public interest or for the protection of investors in order to prevent circumvention of the provisions of this subsection. For purposes of this subsection, a security futures product shall not be considered a class of equity security of the issuer of the securities underlying the security futures product. For purposes of determining whether an issuer is required to register a security with the Commission pursuant to paragraph (1), the definition of “held of record” shall not include securities held by persons who received the securities pursuant to an employee compensation plan in transactions exempted from the registration requirements of section 5 of the Securities Act of 1933 [15 U.S.C. 77e].
+(5) For the purposes of this subsection the term "class" shall include all securities of an issuer which are of substantially similar character and the holders of which enjoy substantially similar rights and privileges. The Commission may for the purpose of this subsection define by rules and regulations the terms "total assets" and "held of record" as it deems necessary or appropriate in the public interest or for the protection of investors in order to prevent circumvention of the provisions of this subsection. For purposes of this subsection, a security futures product shall not be considered a class of equity security of the issuer of the securities underlying the security futures product. For purposes of determining whether an issuer is required to register a security with the Commission pursuant to paragraph (1), the definition of "held of record" shall not include securities held by persons who received the securities pursuant to an employee compensation plan in transactions exempted from the registration requirements of section 5 of the Securities Act of 1933 [15 U.S.C. 77e].
 
 (6) Exclusion for persons holding certain securities.—The Commission shall, by rule, exempt, conditionally or unconditionally, securities acquired pursuant to an offering made under section 4(6) <sup><a href="#78l_2_target" name="78l_2">2</a></sup> of the Securities Act of 1933 [15 U.S.C. 77d(a)(6)] from the provisions of this subsection.
 
@@ -232,7 +232,7 @@ Prior to taking any action described in paragraph (1)(B), the Commission shall c
 
 #### (7) Definition ####
 
-For purposes of this subsection, the term “emergency” means—
+For purposes of this subsection, the term "emergency" means—
 
 (A) a major market disturbance characterized by or constituting—
 
@@ -254,7 +254,7 @@ It shall be unlawful for an issuer, any class of whose securities is registered 
 
 #### References in Text ####
 
-This chapter, referred to in subsecs. (a), (f), and (j), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a), (f), and (j), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 The Securities Act of 1933, referred to in subsec. (f)(1)(G)(i)(I), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
@@ -268,69 +268,69 @@ The Federal Deposit Insurance Act, referred to in subsec. (i), is act Sept. 21, 
 
 #### Amendments ####
 
-**2012**—Subsec. (g)(1)(A). Pub. L. 112–106, §501, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “within one hundred and twenty days after the last day of its first fiscal year ended after July 1, 1964, on which the issuer has total assets exceeding $1,000,000 and a class of equity security (other than an exempted security) held of record by seven hundred and fifty or more persons; and”.
+**2012**—Subsec. (g)(1)(A). Pub. L. 112–106, §501, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "within one hundred and twenty days after the last day of its first fiscal year ended after July 1, 1964, on which the issuer has total assets exceeding $1,000,000 and a class of equity security (other than an exempted security) held of record by seven hundred and fifty or more persons; and".
 
-Subsec. (g)(1)(B). Pub. L. 112–106, §601(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “within one hundred and twenty days after the last day of its first fiscal year ended after two years from July 1, 1964, on which the issuer has total assets exceeding $1,000,000 and a class of equity security (other than an exempted security) held of record by five hundred or more but less than seven hundred and fifty persons,”.
+Subsec. (g)(1)(B). Pub. L. 112–106, §601(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "within one hundred and twenty days after the last day of its first fiscal year ended after two years from July 1, 1964, on which the issuer has total assets exceeding $1,000,000 and a class of equity security (other than an exempted security) held of record by five hundred or more but less than seven hundred and fifty persons,".
 
-Subsec. (g)(4). Pub. L. 112–106, §601(a)(2), substituted “300 persons, or, in the case of a bank or a bank holding company, as such term is defined in section 1841 of title 12, 1,200 persons” for “three hundred”.
+Subsec. (g)(4). Pub. L. 112–106, §601(a)(2), substituted "300 persons, or, in the case of a bank or a bank holding company, as such term is defined in section 1841 of title 12, 1,200 persons" for "three hundred".
 
-Subsec. (g)(5). Pub. L. 112–106, §502, which directed that subsec. (g)(5) “as amended by section 302” of Pub. L. 112–106 be amended “in subparagraph (A)” by inserting at end “For purposes of determining whether an issuer is required to register a security with the Commission pursuant to paragraph (1), the definition of ‘held of record’ shall not include securities held by persons who received the securities pursuant to an employee compensation plan in transactions exempted from the registration requirements of section 5 of the Securities Act of 1933.”, was executed by making the insertion at end of par. (5) to reflect the probable intent of Congress. Section 302 of Pub. L. 112–106 did not amend this section, and subsec. (g)(5) does not contain subpars.
+Subsec. (g)(5). Pub. L. 112–106, §502, which directed that subsec. (g)(5) "as amended by section 302" of Pub. L. 112–106 be amended "in subparagraph (A)" by inserting at end "For purposes of determining whether an issuer is required to register a security with the Commission pursuant to paragraph (1), the definition of 'held of record' shall not include securities held by persons who received the securities pursuant to an employee compensation plan in transactions exempted from the registration requirements of section 5 of the Securities Act of 1933.", was executed by making the insertion at end of par. (5) to reflect the probable intent of Congress. Section 302 of Pub. L. 112–106 did not amend this section, and subsec. (g)(5) does not contain subpars.
 
 Subsec. (g)(6). Pub. L. 112–106, §303(a), added par. (6).
 
-**2010**—Subsec. (i). Pub. L. 111–203, §376(2)(C), substituted “and the Federal Deposit Insurance Corporation” for “the Federal Deposit Insurance Corporation, and the Office of Thrift Supervision” in second sentence.
+**2010**—Subsec. (i). Pub. L. 111–203, §376(2)(C), substituted "and the Federal Deposit Insurance Corporation" for "the Federal Deposit Insurance Corporation, and the Office of Thrift Supervision" in second sentence.
 
-Subsec. (i)(1). Pub. L. 111–203, §376(2)(A), inserted “and Federal savings associations, the accounts of which are insured by the Federal Deposit Insurance Corporation” after “national banks”.
+Subsec. (i)(1). Pub. L. 111–203, §376(2)(A), inserted "and Federal savings associations, the accounts of which are insured by the Federal Deposit Insurance Corporation" after "national banks".
 
-Subsec. (i)(3), (4). Pub. L. 111–203, §376(2)(B), substituted “and (3) with respect to all other insured banks and State savings associations, the accounts of which are insured by the Federal Deposit Insurance Corporation, are vested in the Federal Deposit Insurance Corporation” for “(3) with respect to all other insured banks are vested in the Federal Deposit Insurance Corporation, and (4) with respect to savings associations the accounts of which are insured by the Federal Deposit Insurance Corporation are vested in the Office of Thrift Supervision”.
+Subsec. (i)(3), (4). Pub. L. 111–203, §376(2)(B), substituted "and (3) with respect to all other insured banks and State savings associations, the accounts of which are insured by the Federal Deposit Insurance Corporation, are vested in the Federal Deposit Insurance Corporation" for "(3) with respect to all other insured banks are vested in the Federal Deposit Insurance Corporation, and (4) with respect to savings associations the accounts of which are insured by the Federal Deposit Insurance Corporation are vested in the Office of Thrift Supervision".
 
-Subsec. (k)(7). Pub. L. 111–203, §986(a)(2), amended par. (7) generally. Prior to amendment, par. (7) contained similar provisions defining the term “emergency” and provided that, notwithstanding section 78c(a)(47) of this title, the term “securities laws” did not include the Public Utility Holding Company Act of 1935.
+Subsec. (k)(7). Pub. L. 111–203, §986(a)(2), amended par. (7) generally. Prior to amendment, par. (7) contained similar provisions defining the term "emergency" and provided that, notwithstanding section 78c(a)(47) of this title, the term "securities laws" did not include the Public Utility Holding Company Act of 1935.
 
 **2004**—Subsec. (g)(2)(H)(iii). Pub. L. 108–359 added cl. (iii).
 
-Subsec. (i)(1). Pub. L. 108–386 struck out “and banks operating under the Code of Law for the District of Columbia” after “national banks”.
+Subsec. (i)(1). Pub. L. 108–386 struck out "and banks operating under the Code of Law for the District of Columbia" after "national banks".
 
 Subsec. (k)(2). Pub. L. 108–458, §7803(b)(1), amended par. (2) generally. Prior to amendment, par. (2) provided Commission authority to make emergency orders.
 
-Subsec. (k)(6), (7). Pub. L. 108–458, §7803(c), added pars. (6) and (7) and struck out heading and text of former par. (6). Text read as follows: “For purposes of this subsection, the term ‘emergency’ means a major market disturbance characterized by or constituting—
+Subsec. (k)(6), (7). Pub. L. 108–458, §7803(c), added pars. (6) and (7) and struck out heading and text of former par. (6). Text read as follows: "For purposes of this subsection, the term 'emergency' means a major market disturbance characterized by or constituting—
 
-“(A) sudden and excessive fluctuations of securities prices generally, or a substantial threat thereof, that threaten fair and orderly markets, or
+"(A) sudden and excessive fluctuations of securities prices generally, or a substantial threat thereof, that threaten fair and orderly markets, or
 
-“(B) a substantial disruption of the safe or efficient operation of the national system for clearance and settlement of securities, or a substantial threat thereof.”
+"(B) a substantial disruption of the safe or efficient operation of the national system for clearance and settlement of securities, or a substantial threat thereof."
 
-**2002**—Subsec. (b)(1)(J), (K). Pub. L. 107–204, §205(c)(1), substituted “a registered public accounting firm” for “independent public accountants”.
+**2002**—Subsec. (b)(1)(J), (K). Pub. L. 107–204, §205(c)(1), substituted "a registered public accounting firm" for "independent public accountants".
 
-Subsec. (i). Pub. L. 107–204, §3(b)(4)(B), substituted “and 78p of this title, and sections 7241, 7242, 7243, 7244, 7261(b), 7262, 7264, and 7265 of this title,” for “and 78p of this title,” in two places.
+Subsec. (i). Pub. L. 107–204, §3(b)(4)(B), substituted "and 78p of this title, and sections 7241, 7242, 7243, 7244, 7261(b), 7262, 7264, and 7265 of this title," for "and 78p of this title," in two places.
 
-Pub. L. 107–204, §3(b)(4)(A), substituted “this section and sections 78j–1(m), 78m” for “this section and sections 78m” in two places.
+Pub. L. 107–204, §3(b)(4)(A), substituted "this section and sections 78j–1(m), 78m" for "this section and sections 78m" in two places.
 
-**2000**—Subsec. (a). Pub. L. 106–554, §1(a)(5) [title II, §208(b)(1)], inserted at end “The provisions of this subsection shall not apply in respect of a security futures product traded on a national securities exchange.”
+**2000**—Subsec. (a). Pub. L. 106–554, §1(a)(5) [title II, §208(b)(1)], inserted at end "The provisions of this subsection shall not apply in respect of a security futures product traded on a national securities exchange."
 
-Subsec. (g)(5). Pub. L. 106–554, §1(a)(5) [title II, §208(b)(2)], inserted at end “For purposes of this subsection, a security futures product shall not be considered a class of equity security of the issuer of the securities underlying the security futures product.”
+Subsec. (g)(5). Pub. L. 106–554, §1(a)(5) [title II, §208(b)(2)], inserted at end "For purposes of this subsection, a security futures product shall not be considered a class of equity security of the issuer of the securities underlying the security futures product."
 
-Subsec. (k)(1). Pub. L. 106–554, §1(a)(5) [title II, §206(e)(1)], inserted at end “If the actions described in subparagraph (A) or (B) involve a security futures product, the Commission shall consult with and consider the views of the Commodity Futures Trading Commission.”
+Subsec. (k)(1). Pub. L. 106–554, §1(a)(5) [title II, §206(e)(1)], inserted at end "If the actions described in subparagraph (A) or (B) involve a security futures product, the Commission shall consult with and consider the views of the Commodity Futures Trading Commission."
 
-Subsec. (k)(2)(B). Pub. L. 106–554, §1(a)(5) [title II, §206(e)(2)], inserted after first sentence “If the actions described in subparagraph (A) involve a security futures product, the Commission shall consult with and consider the views of the Commodity Futures Trading Commission.”
+Subsec. (k)(2)(B). Pub. L. 106–554, §1(a)(5) [title II, §206(e)(2)], inserted after first sentence "If the actions described in subparagraph (A) involve a security futures product, the Commission shall consult with and consider the views of the Commodity Futures Trading Commission."
 
-**1995**—Subsec. (g)(2)(D). Pub. L. 104–62 inserted before period at end “; or any security of a fund that is excluded from the definition of an investment company under section 80a–3(c)(10)(B) of this title”.
+**1995**—Subsec. (g)(2)(D). Pub. L. 104–62 inserted before period at end "; or any security of a fund that is excluded from the definition of an investment company under section 80a–3(c)(10)(B) of this title".
 
 **1994**—Subsec. (f)(1), (2). Pub. L. 103–389, §2(a), added pars. (1) and (2) and struck out former pars. (1) and (2) which related to extension of unlisted trading privileges for securities originally listed on another national exchange and approval process for application for extension of such privileges, respectively.
 
-Subsec. (f)(3). Pub. L. 103–389, §2(b), substituted “Notwithstanding paragraph (2), the Commission” for “The Commission”.
+Subsec. (f)(3). Pub. L. 103–389, §2(b), substituted "Notwithstanding paragraph (2), the Commission" for "The Commission".
 
-**1990**—Subsec. (k). Pub. L. 101–432 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “If in its opinion the public interest and the protection of investors so require, the Commission is authorized summarily to suspend trading in any security (other than an exempted security) for a period not exceeding ten days, or with the approval of the President, summarily to suspend all trading on any national securities exchange or otherwise, in securities other than exempted securities, for a period not exceeding ninety days. No member of a national securities exchange, broker, or dealer shall make use of the mails or any means or instrumentality of interstate commerce to effect any transaction in, or to induce the purchase or sale of, any security in which trading is so suspended.”
+**1990**—Subsec. (k). Pub. L. 101–432 amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: "If in its opinion the public interest and the protection of investors so require, the Commission is authorized summarily to suspend trading in any security (other than an exempted security) for a period not exceeding ten days, or with the approval of the President, summarily to suspend all trading on any national securities exchange or otherwise, in securities other than exempted securities, for a period not exceeding ninety days. No member of a national securities exchange, broker, or dealer shall make use of the mails or any means or instrumentality of interstate commerce to effect any transaction in, or to induce the purchase or sale of, any security in which trading is so suspended."
 
-**1989**—Subsec. (i). Pub. L. 101–73, in first sentence, inserted “and savings associations” after “securities issued by banks”, struck out “or institutions the accounts of which are insured by the Federal Savings and Loan Insurance Corporation” before “, the powers, functions, and duties”, inserted new cl. (4) and struck out former cl. (4) which read “with respect to institutions the accounts of which are insured by the Federal Savings and Loan Insurance Corporation are vested in the Federal Home Loan Bank Board”, and, in second sentence, substituted “Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
+**1989**—Subsec. (i). Pub. L. 101–73, in first sentence, inserted "and savings associations" after "securities issued by banks", struck out "or institutions the accounts of which are insured by the Federal Savings and Loan Insurance Corporation" before ", the powers, functions, and duties", inserted new cl. (4) and struck out former cl. (4) which read "with respect to institutions the accounts of which are insured by the Federal Savings and Loan Insurance Corporation are vested in the Federal Home Loan Bank Board", and, in second sentence, substituted "Office of Thrift Supervision" for "Federal Home Loan Bank Board".
 
-**1987**—Subsec. (m). Pub. L. 100–181 struck out subsec. (m) which read as follows: “The Commission is authorized and directed to make a study and investigation of the practice of recording the ownership of securities in the records of the issuer in other than the name of the beneficial owner of such securities to determine (1) whether such practice is consistent with the purposes of this chapter, with particular reference to subsection (g) of this section and sections 78m, 78n, 78o(d), 78p, and 78q–1 of this title, and (2) whether steps can be taken to facilitate communications between issuers and the beneficial owners of their securities while at the same time retaining the benefits of such practice. The Commission shall report to the Congress its preliminary findings within six months after June 4, 1975, and its final conclusions and recommendations within one year of such date.”
+**1987**—Subsec. (m). Pub. L. 100–181 struck out subsec. (m) which read as follows: "The Commission is authorized and directed to make a study and investigation of the practice of recording the ownership of securities in the records of the issuer in other than the name of the beneficial owner of such securities to determine (1) whether such practice is consistent with the purposes of this chapter, with particular reference to subsection (g) of this section and sections 78m, 78n, 78o(d), 78p, and 78q–1 of this title, and (2) whether steps can be taken to facilitate communications between issuers and the beneficial owners of their securities while at the same time retaining the benefits of such practice. The Commission shall report to the Congress its preliminary findings within six months after June 4, 1975, and its final conclusions and recommendations within one year of such date."
 
-**1986**—Subsec. (g)(2)(H). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+**1986**—Subsec. (g)(2)(H). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-**1975**—Subsec. (f)(1). Pub. L. 94–29, §8(1), added subpar. (C) and in provisions following subpar. (C), substituted “is based” for “was originally based” and “remains listed and registered on a national securities exchange” for “shall remain listed and registered on any other national securities exchange”.
+**1975**—Subsec. (f)(1). Pub. L. 94–29, §8(1), added subpar. (C) and in provisions following subpar. (C), substituted "is based" for "was originally based" and "remains listed and registered on a national securities exchange" for "shall remain listed and registered on any other national securities exchange".
 
-Subsec. (f)(2). Pub. L. 94–29, §8(1), substituted “after notice and opportunity for hearing” for “after appropriate notice and opportunity for hearing” and “consistent with the maintenance of fair and orderly markets and the protection of investors” for “necessary or appropriate in the public interest or for the protection of investors” in existing provisions and added the enumeration of matters to be taken into account by the Commission in considering an application for the extension of unlisted trading privileges to a security not listed and registered on a national securities exchange.
+Subsec. (f)(2). Pub. L. 94–29, §8(1), substituted "after notice and opportunity for hearing" for "after appropriate notice and opportunity for hearing" and "consistent with the maintenance of fair and orderly markets and the protection of investors" for "necessary or appropriate in the public interest or for the protection of investors" in existing provisions and added the enumeration of matters to be taken into account by the Commission in considering an application for the extension of unlisted trading privileges to a security not listed and registered on a national securities exchange.
 
-Subsec. (f)(6). Pub. L. 94–29, §8(2), substituted “this chapter” for “section 78s(b) of this title”.
+Subsec. (f)(6). Pub. L. 94–29, §8(2), substituted "this chapter" for "section 78s(b) of this title".
 
 Subsecs. (j) to (m). Pub. L. 94–29, §9, added subsecs. (j) to (m).
 
@@ -338,19 +338,19 @@ Subsecs. (j) to (m). Pub. L. 94–29, §9, added subsecs. (j) to (m).
 
 **1970**—Subsec. (g)(2)(H). Pub. L. 91–547 added subpar. (H).
 
-**1968**—Subsec. (i). Pub. L. 90–439 inserted “78n(d), 78n(f),” after “78n(c)”.
+**1968**—Subsec. (i). Pub. L. 90–439 inserted "78n(d), 78n(f)," after "78n(c)".
 
 **1964**—Subsec. (b)(1)(I) to (L). Pub. L. 88–467, §3(a)(1), (2), added subpar. (I) and redesignated former subpars. (I) to (K) as (J) to (L), respectively.
 
 Subsec. (b)(3). Pub. L. 88–467, §3(a)(3), added par. (3).
 
-Subsec. (f)(1). Pub. L. 88–467, §3(b), designated first par. as (1), redesignated cl. (1) as cl. (A) and substituted therein “July 1, 1964” for “March 1, 1934”, redesignated cl. (2) as cl. (B) and struck out the provision for continuation of unlisted trading privileges, which is now incorporated in concluding sentence, and struck out cl. (3) which permitted a national security exchange to extend unlisted trading privileges to any security in respect to which there was available information substantially equivalent to that available in respect to a security duly listed and registered on a national securities exchange, so long as the registration statement was effective and the reports and data continued to be filed.
+Subsec. (f)(1). Pub. L. 88–467, §3(b), designated first par. as (1), redesignated cl. (1) as cl. (A) and substituted therein "July 1, 1964" for "March 1, 1934", redesignated cl. (2) as cl. (B) and struck out the provision for continuation of unlisted trading privileges, which is now incorporated in concluding sentence, and struck out cl. (3) which permitted a national security exchange to extend unlisted trading privileges to any security in respect to which there was available information substantially equivalent to that available in respect to a security duly listed and registered on a national securities exchange, so long as the registration statement was effective and the reports and data continued to be filed.
 
-Subsec. (f)(2). Pub. L. 88–467, §3(b), designated first sentence of second par. as (2) and substituted therein “finds, after appropriate notice and opportunity for hearing, that the extension” for “finds that the continuation or extension”, and struck out second through sixth sentences of such second par. which related as follows: the second sentence, to notice and opportunity for hearing, now incorporated in par. (2); the third sentence, to conditions (respecting sufficiently widespread public distribution and sufficient public trading activity) for approval of application to extend unlisted trading privileges to any security pursuant to former clauses (2) and (3) of subsec. (f); the fourth sentence, to terms and conditions (subjecting issuer, officers, and directors of issuer, and beneficial owners of more than 10 per centum of the securities to duties equivalent to duties if the securities were registered on a national security exchange) for approval of application to extend unlisted trading privileges to any security pursuant to former clause (3) of subsec. (f); the fifth sentence, to requirement for differentiation by national security exchanges between quotations or transactions in listed securities and in securities with unlisted trading privileges, now covered by section 78s(b) of this title; the sixth sentence, to grouping under separate headings of quotations or transactions in listed securities and in securities with unlisted trading privileges, in the publication of quotations or transactions.
+Subsec. (f)(2). Pub. L. 88–467, §3(b), designated first sentence of second par. as (2) and substituted therein "finds, after appropriate notice and opportunity for hearing, that the extension" for "finds that the continuation or extension", and struck out second through sixth sentences of such second par. which related as follows: the second sentence, to notice and opportunity for hearing, now incorporated in par. (2); the third sentence, to conditions (respecting sufficiently widespread public distribution and sufficient public trading activity) for approval of application to extend unlisted trading privileges to any security pursuant to former clauses (2) and (3) of subsec. (f); the fourth sentence, to terms and conditions (subjecting issuer, officers, and directors of issuer, and beneficial owners of more than 10 per centum of the securities to duties equivalent to duties if the securities were registered on a national security exchange) for approval of application to extend unlisted trading privileges to any security pursuant to former clause (3) of subsec. (f); the fifth sentence, to requirement for differentiation by national security exchanges between quotations or transactions in listed securities and in securities with unlisted trading privileges, now covered by section 78s(b) of this title; the sixth sentence, to grouping under separate headings of quotations or transactions in listed securities and in securities with unlisted trading privileges, in the publication of quotations or transactions.
 
 Subsec. (f)(3). Pub. L. 88–467, §3(b), designated third par. as (3).
 
-Subsec. (f)(4). Pub. L. 88–467, §3(b), designated second sentence of fourth par. as (4), struck out “by reason of inadequate public distribution of such security in the vicinity of said exchange, or by reason of inadequate public trading activity or of the character of trading therein on said exchange,” before “such termination or suspension is necessary”, and struck out first sentence of fourth par. which provided for the termination under certain conditions of unlisted trading privileges continued for any security pursuant to former cl. (1) of subsec. (f), now incorporated in par. (1)(A) of subsec. (f).
+Subsec. (f)(4). Pub. L. 88–467, §3(b), designated second sentence of fourth par. as (4), struck out "by reason of inadequate public distribution of such security in the vicinity of said exchange, or by reason of inadequate public trading activity or of the character of trading therein on said exchange," before "such termination or suspension is necessary", and struck out first sentence of fourth par. which provided for the termination under certain conditions of unlisted trading privileges continued for any security pursuant to former cl. (1) of subsec. (f), now incorporated in par. (1)(A) of subsec. (f).
 
 Subsec. (f)(5), (6). Pub. L. 88–467, §3(b), designated fifth and sixth pars. as (5) and (6).
 
@@ -396,27 +396,27 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Rulemaking ####
 
-Pub. L. 112–106, title III, §303(b), Apr. 5, 2012, 126 Stat. 321, provided that: “The [Securities and Exchange] Commission shall issue a rule to carry out section 12(g)(6) of the Securities Exchange Act of 1934 (15 U.S.C. 78c) [probably should be 15 U.S.C. 78l(g)(6)], as added by this section, not later than 270 days after the date of enactment of this Act [Apr. 5, 2012].”
+Pub. L. 112–106, title III, §303(b), Apr. 5, 2012, 126 Stat. 321, provided that: "The [Securities and Exchange] Commission shall issue a rule to carry out section 12(g)(6) of the Securities Exchange Act of 1934 (15 U.S.C. 78c) [probably should be 15 U.S.C. 78l(g)(6)], as added by this section, not later than 270 days after the date of enactment of this Act [Apr. 5, 2012]."
 
-Pub. L. 112–106, title V, §503, Apr. 5, 2012, 126 Stat. 326, provided that: “The Securities and Exchange Commission shall revise the definition of ‘held of record’ pursuant to section 12(g)(5) of the Securities Exchange Act of 1934 (15 U.S.C. 78l(g)(5)) to implement the amendment made by section 502 [amending this section]. The Commission shall also adopt safe harbor provisions that issuers can follow when determining whether holders of their securities received the securities pursuant to an employee compensation plan in transactions that were exempt from the registration requirements of section 5 of the Securities Act of 1933 [15 U.S.C. 77e].”
+Pub. L. 112–106, title V, §503, Apr. 5, 2012, 126 Stat. 326, provided that: "The Securities and Exchange Commission shall revise the definition of 'held of record' pursuant to section 12(g)(5) of the Securities Exchange Act of 1934 (15 U.S.C. 78l(g)(5)) to implement the amendment made by section 502 [amending this section]. The Commission shall also adopt safe harbor provisions that issuers can follow when determining whether holders of their securities received the securities pursuant to an employee compensation plan in transactions that were exempt from the registration requirements of section 5 of the Securities Act of 1933 [15 U.S.C. 77e]."
 
-Pub. L. 112–106, title VI, §602, Apr. 5, 2012, 126 Stat. 327, provided that: “Not later than 1 year after the date of enactment of this Act [Apr. 5, 2012], the Securities and Exchange Commission shall issue final regulations to implement this title [amending this section and section 78o of this title] and the amendments made by this title.”
+Pub. L. 112–106, title VI, §602, Apr. 5, 2012, 126 Stat. 327, provided that: "Not later than 1 year after the date of enactment of this Act [Apr. 5, 2012], the Securities and Exchange Commission shall issue final regulations to implement this title [amending this section and section 78o of this title] and the amendments made by this title."
 
 #### Additional Disclosure Requirements ####
 
 Pub. L. 111–203, title IX, §953(b), July 21, 2010, 124 Stat. 1904, as amended by Pub. L. 112–106, title I, §102(a)(3), Apr. 5, 2012, 126 Stat. 309, provided that:
 
-“(1) In general.—The Commission shall amend section 229.402 of title 17, Code of Federal Regulations, to require each issuer, other than an emerging growth company, as that term is defined in section 3(a) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)], to disclose in any filing of the issuer described in section 229.10(a) of title 17, Code of Federal Regulations (or any successor thereto)—
+"(1) In general.—The Commission shall amend section 229.402 of title 17, Code of Federal Regulations, to require each issuer, other than an emerging growth company, as that term is defined in section 3(a) of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)], to disclose in any filing of the issuer described in section 229.10(a) of title 17, Code of Federal Regulations (or any successor thereto)—
 
-“(A) the median of the annual total compensation of all employees of the issuer, except the chief executive officer (or any equivalent position) of the issuer;
+"(A) the median of the annual total compensation of all employees of the issuer, except the chief executive officer (or any equivalent position) of the issuer;
 
-“(B) the annual total compensation of the chief executive officer (or any equivalent position) of the issuer; and
+"(B) the annual total compensation of the chief executive officer (or any equivalent position) of the issuer; and
 
-“(C) the ratio of the amount described in subparagraph (A) to the amount described in subparagraph (B).
+"(C) the ratio of the amount described in subparagraph (A) to the amount described in subparagraph (B).
 
-“(2) Total compensation.—For purposes of this subsection, the total compensation of an employee of an issuer shall be determined in accordance with section 229.402(c)(2)(x) of title 17, Code of Federal Regulations, as in effect on the day before the date of enactment of this Act [July 21, 2010].”
+"(2) Total compensation.—For purposes of this subsection, the total compensation of an employee of an issuer shall be determined in accordance with section 229.402(c)(2)(x) of title 17, Code of Federal Regulations, as in effect on the day before the date of enactment of this Act [July 21, 2010]."
 
-[For definitions of “Commission” and “issuer” as used in section 953(b) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.]
+[For definitions of "Commission" and "issuer" as used in section 953(b) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.]
 
 [<sup>1</sup> So in original.](#78l_1)
 

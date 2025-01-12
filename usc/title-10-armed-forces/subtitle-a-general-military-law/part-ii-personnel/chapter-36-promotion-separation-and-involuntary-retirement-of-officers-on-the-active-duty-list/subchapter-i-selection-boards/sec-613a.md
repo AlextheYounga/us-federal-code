@@ -16,12 +16,12 @@
 
 #### Amendments ####
 
-**2011**—Subsec. (a). Pub. L. 111–383, §503(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The proceedings of a selection board convened under section 611 this title may not be disclosed to any person not a member of the board.”
+**2011**—Subsec. (a). Pub. L. 111–383, §503(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The proceedings of a selection board convened under section 611 this title may not be disclosed to any person not a member of the board."
 
-Subsec. (b). Pub. L. 111–383, §503(a)(2), substituted “Notes, and Records” for “and Records” in heading.
+Subsec. (b). Pub. L. 111–383, §503(a)(2), substituted "Notes, and Records" for "and Records" in heading.
 
 Subsec. (c). Pub. L. 111–383, §503(a)(3), added subsec. (c).
 
 #### Effective Date ####
 
-Pub. L. 109–364, div. A, title V, §547(c), Oct. 17, 2006, 120 Stat. 2216, provided that: “Section 613a of title 10, United States Code, as added by subsection (a), shall apply with respect to the proceedings of all selection boards convened under section 611 of that title, including selection boards convened before the date of the enactment of this Act [Oct. 17, 2006]. Section 14104 of such title, as amended by subsection (b), shall apply with respect to the proceedings of all selection boards convened under section 14101 of that title, including selection boards convened before the date of the enactment of this Act.”
+Pub. L. 109–364, div. A, title V, §547(c), Oct. 17, 2006, 120 Stat. 2216, provided that: "Section 613a of title 10, United States Code, as added by subsection (a), shall apply with respect to the proceedings of all selection boards convened under section 611 of that title, including selection boards convened before the date of the enactment of this Act [Oct. 17, 2006]. Section 14104 of such title, as amended by subsection (b), shall apply with respect to the proceedings of all selection boards convened under section 14101 of that title, including selection boards convened before the date of the enactment of this Act."

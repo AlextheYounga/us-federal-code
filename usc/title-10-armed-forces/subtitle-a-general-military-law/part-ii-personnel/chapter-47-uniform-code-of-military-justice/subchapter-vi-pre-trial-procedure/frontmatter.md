@@ -21,4 +21,4 @@ See 2013 Amendment note below.
 
 #### Amendments ####
 
-**2013**—Pub. L. 113–66, div. A, title XVII, §1702(a)(2), Dec. 26, 2013, 127 Stat. 955, substituted “Preliminary hearing” for “Investigation” in item 832.
+**2013**—Pub. L. 113–66, div. A, title XVII, §1702(a)(2), Dec. 26, 2013, 127 Stat. 955, substituted "Preliminary hearing" for "Investigation" in item 832.

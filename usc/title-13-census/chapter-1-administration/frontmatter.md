@@ -44,7 +44,7 @@ Sec.
 
 23. Additional officers and employees.
 
-24. Special agents, supervisors, supervisors’ clerks, enumerators, and interpreters; compensation; details. 3
+24. Special agents, supervisors, supervisors' clerks, enumerators, and interpreters; compensation; details. 3
 
 25. Duties of supervisors, enumerators, and other employees.
 
@@ -56,13 +56,13 @@ Sec.
 
 **1979**—Pub. L. 96–52, §1(b), Aug. 13, 1979, 93 Stat. 358, added item 15.
 
-**1976**—Pub. L. 94–521, §§3(b), 4(b), 5(b), 6(b), Oct. 17, 1976, 90 Stat. 2459–2461, inserted reference to “regulations” in item 4, substituted “Questionnaires” for “Schedules” in item 5, substituted “Information from other Federal departments and agencies; acquisition of reports from other governmental and private sources” for “Requests to other departments and offices for information, acquisition of reports from governmental and other sources” in item 6, and substituted “Authenticated transcripts or copies” for “Certified copies” in item 8, respectively.
+**1976**—Pub. L. 94–521, §§3(b), 4(b), 5(b), 6(b), Oct. 17, 1976, 90 Stat. 2459–2461, inserted reference to "regulations" in item 4, substituted "Questionnaires" for "Schedules" in item 5, substituted "Information from other Federal departments and agencies; acquisition of reports from other governmental and private sources" for "Requests to other departments and offices for information, acquisition of reports from governmental and other sources" in item 6, and substituted "Authenticated transcripts or copies" for "Certified copies" in item 8, respectively.
 
-**1966**—Pub. L. 89–473, §2(b), June 29, 1966, 80 Stat. 221, struck out item 14 “Reimbursement between appropriations”. Pub. L. 89–473 was subsequently repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 92 Stat. 1068.
+**1966**—Pub. L. 89–473, §2(b), June 29, 1966, 80 Stat. 221, struck out item 14 "Reimbursement between appropriations". Pub. L. 89–473 was subsequently repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 92 Stat. 1068.
 
 **1962**—Pub. L. 87–489, §1(b), June 19, 1962, 76 Stat. 104, added item 14.
 
-**1957**—Pub. L. 85–207, §1, Aug. 28, 1957, 71 Stat. 481, inserted “, acquisition of reports from governmental and other sources” in item 6, and added items 12, 13 and 26.
+**1957**—Pub. L. 85–207, §1, Aug. 28, 1957, 71 Stat. 481, inserted ", acquisition of reports from governmental and other sources" in item 6, and added items 12, 13 and 26.
 
 [<sup>1</sup> Section repealed by Pub. L. 86–682 without corresponding amendment of chapter analysis.](#CHAPTER1_1)
 

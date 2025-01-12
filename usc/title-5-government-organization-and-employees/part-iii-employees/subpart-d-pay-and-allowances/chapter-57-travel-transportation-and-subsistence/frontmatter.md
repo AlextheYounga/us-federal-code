@@ -128,11 +128,11 @@ Pub. L. 111–178, §2(c), June 9, 2010, 124 Stat. 1263, added item 5724d.
 
 **2004**—Pub. L. 108–447, div. B, title I, §113(b), Dec. 8, 2004, 118 Stat. 2869, added item 5759.
 
-Pub. L. 108–411, title I, §101(a)(2), Oct. 30, 2004, 118 Stat. 2309, substituted “Retention bonuses” for “Retention allowances” in item 5754.
+Pub. L. 108–411, title I, §101(a)(2), Oct. 30, 2004, 118 Stat. 2309, substituted "Retention bonuses" for "Retention allowances" in item 5754.
 
-**2002**—Pub. L. 107–273, div. A, title II, §207(a)(2), Nov. 2, 2002, 116 Stat. 1780, added item 5757 “Extended assignment incentive”.
+**2002**—Pub. L. 107–273, div. A, title II, §207(a)(2), Nov. 2, 2002, 116 Stat. 1780, added item 5757 "Extended assignment incentive".
 
-**2001**—Pub. L. 107–107, div. A, title XI, §1112(b), Dec. 28, 2001, 115 Stat. 1239, added item 5757 “Payment of expenses to obtain professional credentials”.
+**2001**—Pub. L. 107–107, div. A, title XI, §1112(b), Dec. 28, 2001, 115 Stat. 1239, added item 5757 "Payment of expenses to obtain professional credentials".
 
 **1998**—Pub. L. 105–264, §§4(b), 5(c), Oct. 19, 1998, 112 Stat. 2354, 2355, added items 5706c, 5710, and 5739.
 
@@ -140,7 +140,7 @@ Pub. L. 108–411, title I, §101(a)(2), Oct. 30, 2004, 118 Stat. 2309, substitu
 
 **1994**—Pub. L. 103–337, div. A, title III, §345(a)(2), Oct. 5, 1994, 108 Stat. 2724, added item 5735.
 
-**1992**—Pub. L. 102–378, §2(46), Oct. 2, 1992, 106 Stat. 1353, struck out “; manpower shortage positions” after “trainees” in item 5723 and added item 5755.
+**1992**—Pub. L. 102–378, §2(46), Oct. 2, 1992, 106 Stat. 1353, struck out "; manpower shortage positions" after "trainees" in item 5723 and added item 5755.
 
 **1990**—Pub. L. 101–509, title V, §529 [title II, §§206(a)(2), 208(b)], Nov. 5, 1990, 104 Stat. 1427, 1457, 1460, added items 5706b, 5753, and 5754.
 
@@ -152,7 +152,7 @@ Pub. L. 101–391, §4(b), Sept. 25, 1990, 104 Stat. 750, added item 5707a.
 
 **1978**—Pub. L. 95–454, title IV, §409(c), Oct. 13, 1978, 92 Stat. 1173, added item 5752.
 
-**1975**—Pub. L. 94–22, §7, May 19, 1975, 89 Stat. 86, inserted “and reports” after “Regulations” in item 5707.
+**1975**—Pub. L. 94–22, §7, May 19, 1975, 89 Stat. 86, inserted "and reports" after "Regulations" in item 5707.
 
 **1970**—Pub. L. 91–563, §4(b), Dec. 19, 1970, 84 Stat. 1477, added heading of Subchapter IV and item 5751.
 

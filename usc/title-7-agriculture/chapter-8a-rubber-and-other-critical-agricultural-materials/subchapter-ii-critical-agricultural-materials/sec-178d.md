@@ -20,6 +20,6 @@ The Secretary of Commerce is authorized and directed to initiate and carry out r
 
 #### Amendments ####
 
-**1984**—Pub. L. 98–284, §6(1), (2), inserted in provisions preceding cl. (a) reference to the manufacture and commercialization of other critical agricultural materials from native agricultural crops having strategic and industrial importance, and struck out “may be carried out through the Regional Commissions or otherwise and” after “Such research”.
+**1984**—Pub. L. 98–284, §6(1), (2), inserted in provisions preceding cl. (a) reference to the manufacture and commercialization of other critical agricultural materials from native agricultural crops having strategic and industrial importance, and struck out "may be carried out through the Regional Commissions or otherwise and" after "Such research".
 
 Cl. (g). Pub. L. 98–284, §6(5), added cl. (g).

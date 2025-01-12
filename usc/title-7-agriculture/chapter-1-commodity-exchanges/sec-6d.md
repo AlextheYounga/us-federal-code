@@ -88,11 +88,11 @@ Notwithstanding subsection (a)(2) or the rules and regulations thereunder, and p
 
 #### Amendments ####
 
-**2010**—Subsec. (a). Pub. L. 111–203, §749(a)(1)(A), in introductory provisions, substituted “be a” for “engage as” and struck out “or introducing broker in soliciting orders or accepting orders for the purchase or sale of any commodity for future delivery, or involving any contracts of sale of any commodity for future delivery, on or subject to the rules of any contract market or derivatives transaction execution facility” after “merchant”.
+**2010**—Subsec. (a). Pub. L. 111–203, §749(a)(1)(A), in introductory provisions, substituted "be a" for "engage as" and struck out "or introducing broker in soliciting orders or accepting orders for the purchase or sale of any commodity for future delivery, or involving any contracts of sale of any commodity for future delivery, on or subject to the rules of any contract market or derivatives transaction execution facility" after "merchant".
 
-Subsec. (a)(1). Pub. L. 111–203, §749(a)(1)(B), struck out “or introducing broker” after “merchant”.
+Subsec. (a)(1). Pub. L. 111–203, §749(a)(1)(B), struck out "or introducing broker" after "merchant".
 
-Subsec. (a)(2). Pub. L. 111–203, §749(a)(1)(C), struck out “if a futures commission merchant,” after “such person shall,”.
+Subsec. (a)(2). Pub. L. 111–203, §749(a)(1)(C), struck out "if a futures commission merchant," after "such person shall,".
 
 Subsecs. (c) to (e). Pub. L. 111–203, §732, added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
@@ -104,17 +104,17 @@ Subsec. (h). Pub. L. 111–203, §713(b), added subsec. (h).
 
 **2000**—Pub. L. 106–554, §1(a)(5) [title II, §251(f)], designated first undesignated par. as subsec. (a), designated second undesignated par. as subsec. (b), and added subsec. (c).
 
-Pub. L. 106–554, §1(a)(5) [title I, §123(a)(6)], inserted “or derivatives transaction execution facility” after “contract market” wherever appearing.
+Pub. L. 106–554, §1(a)(5) [title I, §123(a)(6)], inserted "or derivatives transaction execution facility" after "contract market" wherever appearing.
 
 **1983**—Pub. L. 97–444, §207(1), inserted reference to introducing brokers in provisions preceding par. (1).
 
-Par. (1). Pub. L. 97–444, §207(2), inserted “or introducing broker” after “futures commission merchant”.
+Par. (1). Pub. L. 97–444, §207(2), inserted "or introducing broker" after "futures commission merchant".
 
-Par. (2). Pub. L. 97–444, §207(3), inserted “if a futures commission merchant,” after “such person shall,”.
+Par. (2). Pub. L. 97–444, §207(3), inserted "if a futures commission merchant," after "such person shall,".
 
 **1978**—Pub. L. 95–405 in par. (2) inserted provisions authorizing Commission to prescribe terms and conditions under which funds and property commingled and deposited as permitted by par. (2) may be commingled and deposited with other funds and property received by a futures commission merchant and required by Commission to be separately accounted for and treated as belonging to its customers.
 
-**1974**—Pub. L. 93–463 substituted “Commission” for “Secretary of Agriculture” in pars. (1) and (2).
+**1974**—Pub. L. 93–463 substituted "Commission" for "Secretary of Agriculture" in pars. (1) and (2).
 
 **1968**—Pub. L. 90–258 struck out from second proviso of first par. authorization for investment of customer funds in investment securities of the kind national banking associations may buy or in loans secured by negotiable warehouse receipts conveying or securing title to readily marketable commodities to the extent of the current loan value of such receipts and added second par., making it unlawful for any person, including a clearing agency of a contract market or any depository, to treat customer funds as belonging to any person other than the customer, respectively.
 

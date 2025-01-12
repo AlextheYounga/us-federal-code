@@ -6,39 +6,39 @@ In this section and section 657e of this title, the following definitions apply:
 
 #### (1) Applicant ####
 
-The term “applicant” means an entity, organization, or individual that submits a proposal for an award or a cooperative agreement under this section.
+The term "applicant" means an entity, organization, or individual that submits a proposal for an award or a cooperative agreement under this section.
 
 #### (2) Business advice and counseling ####
 
-The term “business advice and counseling” means providing advice and assistance on matters described in section 657e(c)(2)(B) of this title to small business concerns to guide them through the SBIR and STTR program process, from application to award and successful completion of each phase of the program.
+The term "business advice and counseling" means providing advice and assistance on matters described in section 657e(c)(2)(B) of this title to small business concerns to guide them through the SBIR and STTR program process, from application to award and successful completion of each phase of the program.
 
 #### (3) FAST program ####
 
-The term “FAST program” means the Federal and State Technology Partnership Program established under this section.
+The term "FAST program" means the Federal and State Technology Partnership Program established under this section.
 
 #### (4) Mentor ####
 
-The term “mentor” means an individual described in section 657e(c)(2) of this title.
+The term "mentor" means an individual described in section 657e(c)(2) of this title.
 
 #### (5) Mentoring Network ####
 
-The term “Mentoring Network” means an association, organization, coalition, or other entity (including an individual) that meets the requirements of section 657e(c) of this title.
+The term "Mentoring Network" means an association, organization, coalition, or other entity (including an individual) that meets the requirements of section 657e(c) of this title.
 
 #### (6) Recipient ####
 
-The term “recipient” means a person that receives an award or becomes party to a cooperative agreement under this section.
+The term "recipient" means a person that receives an award or becomes party to a cooperative agreement under this section.
 
 #### (7) SBIR program ####
 
-The term “SBIR program” has the same meaning as in section 638(e)(4) of this title.
+The term "SBIR program" has the same meaning as in section 638(e)(4) of this title.
 
 #### (8) State ####
 
-The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
+The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
 
 #### (9) STTR program ####
 
-The term “STTR program” has the same meaning as in section 638(e)(6) of this title.
+The term "STTR program" has the same meaning as in section 638(e)(6) of this title.
 
 #### (b) Establishment of Program ####
 
@@ -230,7 +230,7 @@ A prior section 2[34] of Pub. L. 85–536 was renumbered section 2[47] and is se
 
 **2001**—Subsec. (c)(2)(B)(vi). Pub. L. 107–50, §8(a), added cl. (vi).
 
-Subsec. (c)(4). Pub. L. 107–50, §8(b), inserted at end “The Administrator shall promulgate regulations establishing standards for the consideration of proposals under paragraph (2), including standards regarding each of the considerations identified in paragraph (2)(B).”
+Subsec. (c)(4). Pub. L. 107–50, §8(b), inserted at end "The Administrator shall promulgate regulations establishing standards for the consideration of proposals under paragraph (2), including standards regarding each of the considerations identified in paragraph (2)(B)."
 
 #### Change of Name ####
 
@@ -240,12 +240,12 @@ Committee on Science of House of Representatives changed to Committee on Science
 
 #### Findings ####
 
-Pub. L. 106–554, §1(a)(9) [title I, §111(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–674, provided that: “Congress finds that—
+Pub. L. 106–554, §1(a)(9) [title I, §111(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–674, provided that: "Congress finds that—
 
-“(1) programs to foster economic development among small high-technology firms vary widely among the States;
+"(1) programs to foster economic development among small high-technology firms vary widely among the States;
 
-“(2) States that do not aggressively support the development of small high-technology firms, including participation by small business concerns in the SBIR program, are at a competitive disadvantage in establishing a business climate that is conducive to technology development; and
+"(2) States that do not aggressively support the development of small high-technology firms, including participation by small business concerns in the SBIR program, are at a competitive disadvantage in establishing a business climate that is conducive to technology development; and
 
-“(3) building stronger national, State, and local support for science and technology research in these disadvantaged States will expand economic opportunities in the United States, create jobs, and increase the competitiveness of the United States in the world market.”
+"(3) building stronger national, State, and local support for science and technology research in these disadvantaged States will expand economic opportunities in the United States, create jobs, and increase the competitiveness of the United States in the world market."
 
 [<sup>1</sup> See References in Text note below.](#657d_1)

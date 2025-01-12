@@ -10,7 +10,7 @@ Section 636a of this title, referred to in text, was repealed by Pub. L. 97–35
 
 Section 4452 of title 42, referred to in text, was repealed by Pub. L. 93–24, §7, Apr. 20, 1973, 87 Stat. 25.
 
-Section 233 of Public Law 91–606, referred to in text, amended section 1820(a)(2), (f) [now 3720(a)(2), (f)] of Title 38, Veterans’ Benefits.
+Section 233 of Public Law 91–606, referred to in text, amended section 1820(a)(2), (f) [now 3720(a)(2), (f)] of Title 38, Veterans' Benefits.
 
 #### Codification ####
 

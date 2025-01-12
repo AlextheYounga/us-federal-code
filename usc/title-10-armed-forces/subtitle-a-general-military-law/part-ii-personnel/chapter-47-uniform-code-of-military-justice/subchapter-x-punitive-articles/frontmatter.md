@@ -70,21 +70,21 @@
 
 #### Amendments ####
 
-**2013**—Pub. L. 113–66, div. A, title XVII, §1707(b), Dec. 26, 2013, 127 Stat. 961, substituted “Forcible sodomy; bestiality” for “Sodomy” in item 925.
+**2013**—Pub. L. 113–66, div. A, title XVII, §1707(b), Dec. 26, 2013, 127 Stat. 961, substituted "Forcible sodomy; bestiality" for "Sodomy" in item 925.
 
-**2011**—Pub. L. 112–81, div. A, title V, §541(e), Dec. 31, 2011, 125 Stat. 1410, substituted “Rape and sexual assault generally” for “Rape, sexual assault, and other sexual misconduct” in item 920 and added items 920b and 920c.
+**2011**—Pub. L. 112–81, div. A, title V, §541(e), Dec. 31, 2011, 125 Stat. 1410, substituted "Rape and sexual assault generally" for "Rape, sexual assault, and other sexual misconduct" in item 920 and added items 920b and 920c.
 
-**2006**—Pub. L. 109–163, div. A, title V, §552(a)(2), Jan. 6, 2006, 119 Stat. 3262, substituted “Rape, sexual assault, and other sexual misconduct” for “Rape and carnal knowledge” in item 920.
+**2006**—Pub. L. 109–163, div. A, title V, §552(a)(2), Jan. 6, 2006, 119 Stat. 3262, substituted "Rape, sexual assault, and other sexual misconduct" for "Rape and carnal knowledge" in item 920.
 
 Pub. L. 109–163, div. A, title V, §551(a)(2), Jan. 6, 2006, 119 Stat. 3256, added item 920a.
 
 **2004**—Pub. L. 108–212, §3(b), Apr. 1, 2004, 118 Stat. 570, added item 919a.
 
-**1997**—Pub. L. 105–85, div. A, title X, §1073(a)(10), Nov. 18, 1997, 111 Stat. 1900, struck out “Art.” before “95” in item 895.
+**1997**—Pub. L. 105–85, div. A, title X, §1073(a)(10), Nov. 18, 1997, 111 Stat. 1900, struck out "Art." before "95" in item 895.
 
-**1996**—Pub. L. 104–106, div. A, title XI, §1112(b), Feb. 10, 1996, 110 Stat. 461, inserted “flight,” after “Resistance,” in item 895.
+**1996**—Pub. L. 104–106, div. A, title XI, §1112(b), Feb. 10, 1996, 110 Stat. 461, inserted "flight," after "Resistance," in item 895.
 
-**1992**—Pub. L. 102–484, div. A, title X, §1066(a)(2), Oct. 23, 1992, 106 Stat. 2506, substituted “operation of a vehicle, aircraft, or vessel” for “driving” in item 911.
+**1992**—Pub. L. 102–484, div. A, title X, §1066(a)(2), Oct. 23, 1992, 106 Stat. 2506, substituted "operation of a vehicle, aircraft, or vessel" for "driving" in item 911.
 
 **1985**—Pub. L. 99–145, title V, §534(b), Nov. 8, 1985, 99 Stat. 635, added item 906a.
 

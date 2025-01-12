@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-The Secretary shall establish an advisory council to be known as the National Advisory Council on Nurse Education and Practice (in this section referred to as the “Advisory Council”).
+The Secretary shall establish an advisory council to be known as the National Advisory Council on Nurse Education and Practice (in this section referred to as the "Advisory Council").
 
 #### (b) Composition ####
 
@@ -86,7 +86,7 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 
 #### Codification ####
 
-November 13, 1998, referred to in subsec. (b)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 105–392, which enacted this part, to reflect the probable intent of Congress.
+November 13, 1998, referred to in subsec. (b)(2), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 105–392, which enacted this part, to reflect the probable intent of Congress.
 
 #### Prior Provisions ####
 

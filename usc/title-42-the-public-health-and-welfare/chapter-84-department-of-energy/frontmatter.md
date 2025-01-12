@@ -308,7 +308,7 @@ Sec.
 
 7371. Statement of purpose.
 
-7372. “Secretary” and “renewable energy resource” defined.
+7372. "Secretary" and "renewable energy resource" defined.
 
 7373. Coordinated dissemination of information on renewable energy resources and conservation.
 
@@ -462,7 +462,7 @@ Sec.
 
 7385j–2. Recovery and waiver of overpayments.
 
-#### Part D—Assistance in State Workers’ Compensation Proceedings ####
+#### Part D—Assistance in State Workers' Compensation Proceedings ####
 
 7385 o. Repealed.
 

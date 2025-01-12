@@ -14,4 +14,4 @@ A prior section 3232, Pub. L. 89–10, title VII, §722, as added Pub. L. 95–5
 
 Section 3233, Pub. L. 89–10, title V, §5193, as added Pub. L. 101–647, title XV, §1508, Nov. 29, 1990, 104 Stat. 4841, related to identification of federally assisted programs.
 
-A prior section 3233, Pub. L. 89–10, title VII, §723, as added Pub. L. 95–561, title VII, §701, Nov. 1, 1978, 92 Stat. 2276; amended S. Res. 30, Mar. 7, 1979; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692, covered training provisions and defined “eligible applicants”, prior to the general revision of this subchapter by Pub. L. 98–511.
+A prior section 3233, Pub. L. 89–10, title VII, §723, as added Pub. L. 95–561, title VII, §701, Nov. 1, 1978, 92 Stat. 2276; amended S. Res. 30, Mar. 7, 1979; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692, covered training provisions and defined "eligible applicants", prior to the general revision of this subchapter by Pub. L. 98–511.

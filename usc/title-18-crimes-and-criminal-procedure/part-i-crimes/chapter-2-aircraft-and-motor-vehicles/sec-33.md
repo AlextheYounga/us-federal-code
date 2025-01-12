@@ -16,11 +16,11 @@ shall be fined under this title or imprisoned not more than twenty years, or bot
 
 #### Amendments ####
 
-**2006**—Subsec. (a). Pub. L. 109–177 inserted “or conspires” before “to do any of the aforesaid acts” in fourth par.
+**2006**—Subsec. (a). Pub. L. 109–177 inserted "or conspires" before "to do any of the aforesaid acts" in fourth par.
 
 **1995**—Pub. L. 104–88 designated existing provisions as subsec. (a) and added subsec. (b).
 
-**1994**—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+**1994**—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".
 
 #### Effective Date of 1995 Amendment ####
 

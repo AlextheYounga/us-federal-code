@@ -12,7 +12,7 @@ In this section:
 
 #### (A) Qualified countermeasure ####
 
-The term “qualified countermeasure” means a drug (as that term is defined by section 321(g)(1) of title 21), biological product (as that term is defined by section 262(i) of this title), or device (as that term is defined by section 321(h) of title 21), that the Secretary determines to be a priority (consistent with sections 182(2) and 184(a) of title 6)—
+The term "qualified countermeasure" means a drug (as that term is defined by section 321(g)(1) of title 21), biological product (as that term is defined by section 262(i) of this title), or device (as that term is defined by section 321(h) of title 21), that the Secretary determines to be a priority (consistent with sections 182(2) and 184(a) of title 6)—
 
 (i) to diagnose, mitigate, prevent, or treat harm from any biological agent (including organisms that cause an infectious disease) or toxin, chemical, radiological, or nuclear agent that may cause a public health emergency affecting national security;
 
@@ -22,7 +22,7 @@ The term “qualified countermeasure” means a drug (as that term is defined by
 
 #### (B) Infectious disease ####
 
-The term “infectious disease” means a disease potentially caused by a pathogenic organism (including a bacteria, virus, fungus, or parasite) that is acquired by a person and that reproduces in that person.
+The term "infectious disease" means a disease potentially caused by a pathogenic organism (including a bacteria, virus, fungus, or parasite) that is acquired by a person and that reproduces in that person.
 
 #### (3) Interagency cooperation ####
 
@@ -84,7 +84,7 @@ In conducting a procurement under this paragraph, the Secretary may not use the 
 
 #### (A) In general ####
 
-In using the authority provided in section 3304(a)(1) of title 41 to use procedures other than competitive procedures in the case of a procurement described in paragraph (1) of this subsection, the phrase “available from only one responsible source” in such section 3304(a)(1) shall be deemed to mean “available from only one responsible source or only from a limited number of responsible sources”.
+In using the authority provided in section 3304(a)(1) of title 41 to use procedures other than competitive procedures in the case of a procurement described in paragraph (1) of this subsection, the phrase "available from only one responsible source" in such section 3304(a)(1) shall be deemed to mean "available from only one responsible source or only from a limited number of responsible sources".
 
 #### (B) Relation to other authorities ####
 
@@ -218,154 +218,154 @@ The Federal Tort Claims Act, referred to in subsec. (d)(2), is title IV of act A
 
 #### Codification ####
 
-In subsec. (b)(1)(A), “section 134 of title 41” substituted for “section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))” and “section 3101(b)(1)(A) of title 41” substituted for “section 302A(a) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252a(a))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(1)(A), "section 134 of title 41" substituted for "section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))" and "section 3101(b)(1)(A) of title 41" substituted for "section 302A(a) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252a(a))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(1)(A)(i), “section 3305(a)(1) of title 41” substituted for “section 303(g)(1)(A) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)(A))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(1)(A)(i), "section 3305(a)(1) of title 41" substituted for "section 303(g)(1)(A) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)(A))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(1)(A)(ii), “section 3101(b)(1)(B) of title 41” substituted for “section 302A(b) of such Act (41 U.S.C. 252a(b))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(1)(A)(ii), "section 3101(b)(1)(B) of title 41" substituted for "section 302A(b) of such Act (41 U.S.C. 252a(b))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(1)(B)(ii), “Section 8703(a) of title 41” substituted for “Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 (41 U.S.C. 57(a) and (b))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(1)(B)(ii), "Section 8703(a) of title 41" substituted for "Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 (41 U.S.C. 57(a) and (b))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(1)(B)(iii), “Section 4706 of title 41” substituted for “Section 304C of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254d)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(1)(B)(iii), "Section 4706 of title 41" substituted for "Section 304C of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254d)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(1)(B)(v), “Section 3901 of title 41” substituted for “Subsection (a) of section 304 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254(a))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(1)(B)(v), "Section 3901 of title 41" substituted for "Subsection (a) of section 304 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254(a))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(2)(A), “section 3304(a)(1) of title 41” substituted for “section 303(c)(1) of title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(1))” and “such section 3304(a)(1)” substituted for “such section 303(c)(1)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(2)(A), "section 3304(a)(1) of title 41" substituted for "section 303(c)(1) of title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(1))" and "such section 3304(a)(1)" substituted for "such section 303(c)(1)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(2)(C), “such section 3304(a)(1)” substituted for “such section 303(c)(1)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(2)(C), "such section 3304(a)(1)" substituted for "such section 303(c)(1)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(3)(A), “subsections (a), (d), and (e) of section 1902 of title 41” substituted for “subsections (c), (d), and (f) of section 32 of the Office of Federal Procurement Policy Act (41 U.S.C. 428)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(3)(A), "subsections (a), (d), and (e) of section 1902 of title 41" substituted for "subsections (c), (d), and (f) of section 32 of the Office of Federal Procurement Policy Act (41 U.S.C. 428)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments ####
 
-**2013**—Subsec. (a)(2)(A). Pub. L. 113–5 struck out “to” before dash at end of introductory provisions, inserted “to” before “diagnose” in cls. (i) and (ii), and added cl. (iii).
+**2013**—Subsec. (a)(2)(A). Pub. L. 113–5 struck out "to" before dash at end of introductory provisions, inserted "to" before "diagnose" in cls. (i) and (ii), and added cl. (iii).
 
-**2006**—Subsec. (a)(2). Pub. L. 109–417 added par. (2) and struck out heading and text of former par. (2). Text read as follows: “For purposes of this section, the term ‘qualified countermeasure’ means a drug (as that term is defined by section 321(g)(1) of title 21), biological product (as that term is defined by section 262(i) of this title), or device (as that term is defined by section 321(h) of title 21) that the Secretary determines to be a priority (consistent with sections 182(2) and 184(a) of title 6) to—
+**2006**—Subsec. (a)(2). Pub. L. 109–417 added par. (2) and struck out heading and text of former par. (2). Text read as follows: "For purposes of this section, the term 'qualified countermeasure' means a drug (as that term is defined by section 321(g)(1) of title 21), biological product (as that term is defined by section 262(i) of this title), or device (as that term is defined by section 321(h) of title 21) that the Secretary determines to be a priority (consistent with sections 182(2) and 184(a) of title 6) to—
 
-“(A) treat, identify, or prevent harm from any biological, chemical, radiological, or nuclear agent that may cause a public health emergency affecting national security; or
+"(A) treat, identify, or prevent harm from any biological, chemical, radiological, or nuclear agent that may cause a public health emergency affecting national security; or
 
-“(B) treat, identify, or prevent harm from a condition that may result in adverse health consequences or death and may be caused by administering a drug, biological product, or device that is used as described in subparagraph (A).”
+"(B) treat, identify, or prevent harm from a condition that may result in adverse health consequences or death and may be caused by administering a drug, biological product, or device that is used as described in subparagraph (A)."
 
 #### Rule of Construction ####
 
-Pub. L. 108–276, §2(e), July 21, 2004, 118 Stat. 842, provided that: “Nothing in this section [enacting this section and amending sections 247d–6, 287a–2, and 300aa–6 of this title] has any legal effect on sections 302(2), 302(4), 304(a), or 304(b) of the Homeland Security Act of 2002 [6 U.S.C. 182(2), (4), 184(a), (b)].”
+Pub. L. 108–276, §2(e), July 21, 2004, 118 Stat. 842, provided that: "Nothing in this section [enacting this section and amending sections 247d–6, 287a–2, and 300aa–6 of this title] has any legal effect on sections 302(2), 302(4), 304(a), or 304(b) of the Homeland Security Act of 2002 [6 U.S.C. 182(2), (4), 184(a), (b)]."
 
 #### Collaboration and Coordination ####
 
 Pub. L. 109–417, title IV, §405, Dec. 19, 2006, 120 Stat. 2875, as amended by Pub. L. 113–5, §402(e)(1), Mar. 13, 2013, 127 Stat. 195, provided that:
 
-“(a) Limited Antitrust Exemption.—
+"(a) Limited Antitrust Exemption.—
 
-“(1) Meetings and consultations to discuss security countermeasures, qualified countermeasures, or qualified pandemic or epidemic product development.—
+"(1) Meetings and consultations to discuss security countermeasures, qualified countermeasures, or qualified pandemic or epidemic product development.—
 
-“(A) Authority to conduct meetings and consultations.—The Secretary of Health and Human Services (referred to in this subsection as the ‘Secretary’), in coordination with the Attorney General and the Secretary of Homeland Security, may conduct meetings and consultations with persons engaged in the development of a security countermeasure (as defined in section 319F–2 of the Public Health Service Act (42 U.S.C. 247d–6b)) (as amended by this Act), a qualified countermeasure (as defined in section 319F–1 of the Public Health Service Act (42 U.S.C. 247d–6a)) (as amended by this Act), or a qualified pandemic or epidemic product (as defined in section 319F–3 of the Public Health Service Act (42 U.S.C. 247d–6d)) for the purpose of the development, manufacture, distribution, purchase, or storage of a countermeasure or product. The Secretary may convene such meeting or consultation at the request of the Secretary of Homeland Security, the Attorney General, the Chairman of the Federal Trade Commission (referred to in this section as the ‘Chairman’), or any interested person, or upon initiation by the Secretary. The Secretary shall give prior notice of any such meeting or consultation, and the topics to be discussed, to the Attorney General, the Chairman, and the Secretary of Homeland Security.
+"(A) Authority to conduct meetings and consultations.—The Secretary of Health and Human Services (referred to in this subsection as the 'Secretary'), in coordination with the Attorney General and the Secretary of Homeland Security, may conduct meetings and consultations with persons engaged in the development of a security countermeasure (as defined in section 319F–2 of the Public Health Service Act (42 U.S.C. 247d–6b)) (as amended by this Act), a qualified countermeasure (as defined in section 319F–1 of the Public Health Service Act (42 U.S.C. 247d–6a)) (as amended by this Act), or a qualified pandemic or epidemic product (as defined in section 319F–3 of the Public Health Service Act (42 U.S.C. 247d–6d)) for the purpose of the development, manufacture, distribution, purchase, or storage of a countermeasure or product. The Secretary may convene such meeting or consultation at the request of the Secretary of Homeland Security, the Attorney General, the Chairman of the Federal Trade Commission (referred to in this section as the 'Chairman'), or any interested person, or upon initiation by the Secretary. The Secretary shall give prior notice of any such meeting or consultation, and the topics to be discussed, to the Attorney General, the Chairman, and the Secretary of Homeland Security.
 
-“(B) Meeting and consultation conditions.—A meeting or consultation conducted under subparagraph (A) shall—
+"(B) Meeting and consultation conditions.—A meeting or consultation conducted under subparagraph (A) shall—
 
-“(i) be chaired or, in the case of a consultation, facilitated by the Secretary;
+"(i) be chaired or, in the case of a consultation, facilitated by the Secretary;
 
-“(ii) be open to persons involved in the development, manufacture, distribution, purchase, or storage of a countermeasure or product, as determined by the Secretary;
+"(ii) be open to persons involved in the development, manufacture, distribution, purchase, or storage of a countermeasure or product, as determined by the Secretary;
 
-“(iii) be open to the Attorney General, the Secretary of Homeland Security, and the Chairman;
+"(iii) be open to the Attorney General, the Secretary of Homeland Security, and the Chairman;
 
-“(iv) be limited to discussions involving covered activities; and
+"(iv) be limited to discussions involving covered activities; and
 
-“(v) be conducted in such manner as to ensure that no national security, confidential commercial, or proprietary information is disclosed outside the meeting or consultation.
+"(v) be conducted in such manner as to ensure that no national security, confidential commercial, or proprietary information is disclosed outside the meeting or consultation.
 
-“(C) Limitation.—The Secretary may not require participants to disclose confidential commercial or proprietary information.
+"(C) Limitation.—The Secretary may not require participants to disclose confidential commercial or proprietary information.
 
-“(D) Transcript.—The Secretary shall maintain a complete verbatim transcript of each meeting or consultation conducted under this subsection. Such transcript (or a portion thereof) shall not be disclosed under section 552 of title 5, United States Code, to the extent that the Secretary, in consultation with the Attorney General and the Secretary of Homeland Security, determines that disclosure of such transcript (or portion thereof) would pose a threat to national security. The transcript (or portion thereof) with respect to which the Secretary has made such a determination shall be deemed to be information described in subsection (b)(3) of such section 552.
+"(D) Transcript.—The Secretary shall maintain a complete verbatim transcript of each meeting or consultation conducted under this subsection. Such transcript (or a portion thereof) shall not be disclosed under section 552 of title 5, United States Code, to the extent that the Secretary, in consultation with the Attorney General and the Secretary of Homeland Security, determines that disclosure of such transcript (or portion thereof) would pose a threat to national security. The transcript (or portion thereof) with respect to which the Secretary has made such a determination shall be deemed to be information described in subsection (b)(3) of such section 552.
 
-“(E) Exemption.—
+"(E) Exemption.—
 
-“(i) In general.—Subject to clause (ii), it shall not be a violation of the antitrust laws for any person to participate in a meeting or consultation conducted in accordance with this paragraph.
+"(i) In general.—Subject to clause (ii), it shall not be a violation of the antitrust laws for any person to participate in a meeting or consultation conducted in accordance with this paragraph.
 
-“(ii) Limitation.—Clause (i) shall not apply to any agreement or conduct that results from a meeting or consultation and that is not covered by an exemption granted under paragraph (4).
+"(ii) Limitation.—Clause (i) shall not apply to any agreement or conduct that results from a meeting or consultation and that is not covered by an exemption granted under paragraph (4).
 
-“(2) Submission of written agreements.—The Secretary shall submit each written agreement regarding covered activities that is made pursuant to meetings or consultations conducted under paragraph (1) to the Attorney General and the Chairman for consideration. In addition to the proposed agreement itself, any submission shall include—
+"(2) Submission of written agreements.—The Secretary shall submit each written agreement regarding covered activities that is made pursuant to meetings or consultations conducted under paragraph (1) to the Attorney General and the Chairman for consideration. In addition to the proposed agreement itself, any submission shall include—
 
-“(A) an explanation of the intended purpose of the agreement;
+"(A) an explanation of the intended purpose of the agreement;
 
-“(B) a specific statement of the substance of the agreement;
+"(B) a specific statement of the substance of the agreement;
 
-“(C) a description of the methods that will be utilized to achieve the objectives of the agreement;
+"(C) a description of the methods that will be utilized to achieve the objectives of the agreement;
 
-“(D) an explanation of the necessity for a cooperative effort among the particular participating persons to achieve the objectives of the agreement; and
+"(D) an explanation of the necessity for a cooperative effort among the particular participating persons to achieve the objectives of the agreement; and
 
-“(E) any other relevant information determined necessary by the Attorney General, in consultation with the Chairman and the Secretary.
+"(E) any other relevant information determined necessary by the Attorney General, in consultation with the Chairman and the Secretary.
 
-“(3) Exemption for conduct under approved agreement.—It shall not be a violation of the antitrust laws for a person to engage in conduct in accordance with a written agreement to the extent that such agreement has been granted an exemption under paragraph (4), during the period for which the exemption is in effect.
+"(3) Exemption for conduct under approved agreement.—It shall not be a violation of the antitrust laws for a person to engage in conduct in accordance with a written agreement to the extent that such agreement has been granted an exemption under paragraph (4), during the period for which the exemption is in effect.
 
-“(4) Action on written agreements.—
+"(4) Action on written agreements.—
 
-“(A) In general.—The Attorney General, in consultation with the Chairman, shall grant, deny, grant in part and deny in part, or propose modifications to an exemption request regarding a written agreement submitted under paragraph (2), in a written statement to the Secretary, within 15 business days of the receipt of such request. An exemption granted under this paragraph shall take effect immediately.
+"(A) In general.—The Attorney General, in consultation with the Chairman, shall grant, deny, grant in part and deny in part, or propose modifications to an exemption request regarding a written agreement submitted under paragraph (2), in a written statement to the Secretary, within 15 business days of the receipt of such request. An exemption granted under this paragraph shall take effect immediately.
 
-“(B) Extension.—The Attorney General may extend the 15-day period referred to in subparagraph (A) for an additional period of not to exceed 10 business days.
+"(B) Extension.—The Attorney General may extend the 15-day period referred to in subparagraph (A) for an additional period of not to exceed 10 business days.
 
-“(C) Determination.—An exemption shall be granted regarding a written agreement submitted in accordance with paragraph (2) only to the extent that the Attorney General, in consultation with the Chairman and the Secretary, finds that the conduct that will be exempted will not have any substantial anticompetitive effect that is not reasonably necessary for ensuring the availability of the countermeasure or product involved.
+"(C) Determination.—An exemption shall be granted regarding a written agreement submitted in accordance with paragraph (2) only to the extent that the Attorney General, in consultation with the Chairman and the Secretary, finds that the conduct that will be exempted will not have any substantial anticompetitive effect that is not reasonably necessary for ensuring the availability of the countermeasure or product involved.
 
-“(5) Limitation on and renewal of exemptions.—An exemption granted under paragraph (4) shall be limited to covered activities, and such exemption shall be renewed (with modifications, as appropriate, consistent with the finding described in paragraph (4)(C)), on the date that is 3 years after the date on which the exemption is granted unless the Attorney General in consultation with the Chairman determines that the exemption should not be renewed (with modifications, as appropriate) considering the factors described in paragraph (4).
+"(5) Limitation on and renewal of exemptions.—An exemption granted under paragraph (4) shall be limited to covered activities, and such exemption shall be renewed (with modifications, as appropriate, consistent with the finding described in paragraph (4)(C)), on the date that is 3 years after the date on which the exemption is granted unless the Attorney General in consultation with the Chairman determines that the exemption should not be renewed (with modifications, as appropriate) considering the factors described in paragraph (4).
 
-“(6) Authority to obtain information.—Consideration by the Attorney General for granting or renewing an exemption submitted under this section shall be considered an antitrust investigation for purposes of the Antitrust Civil Process Act (15 U.S.C. 1311 et seq.).
+"(6) Authority to obtain information.—Consideration by the Attorney General for granting or renewing an exemption submitted under this section shall be considered an antitrust investigation for purposes of the Antitrust Civil Process Act (15 U.S.C. 1311 et seq.).
 
-“(7) Limitation on parties.—The use of any information acquired under an agreement for which an exemption has been granted under paragraph (4), for any purpose other than specified in the exemption, shall be subject to the antitrust laws and any other applicable laws.
+"(7) Limitation on parties.—The use of any information acquired under an agreement for which an exemption has been granted under paragraph (4), for any purpose other than specified in the exemption, shall be subject to the antitrust laws and any other applicable laws.
 
-“(8) Report.—Not later than one year after the date of enactment of this Act [Dec. 19, 2006] and biannually thereafter, the Attorney General and the Chairman shall report to Congress on the use of the exemption from the antitrust laws provided by this subsection.
+"(8) Report.—Not later than one year after the date of enactment of this Act [Dec. 19, 2006] and biannually thereafter, the Attorney General and the Chairman shall report to Congress on the use of the exemption from the antitrust laws provided by this subsection.
 
-“(b) Sunset.—The applicability of this section shall expire at the end of the 12-year period that begins on the date of enactment of this Act [Dec. 19, 2006].
+"(b) Sunset.—The applicability of this section shall expire at the end of the 12-year period that begins on the date of enactment of this Act [Dec. 19, 2006].
 
-“(c) Definitions.—In this section:
+"(c) Definitions.—In this section:
 
-“(1) Antitrust laws.—The term ‘antitrust laws’—
+"(1) Antitrust laws.—The term 'antitrust laws'—
 
-“(A) has the meaning given such term in subsection (a) of the first section of the Clayton Act (15 U.S.C. 12(a)), except that such term includes section 5 of the Federal Trade Commission Act (15 U.S.C. 45) to the extent such section 5 applies to unfair methods of competition; and
+"(A) has the meaning given such term in subsection (a) of the first section of the Clayton Act (15 U.S.C. 12(a)), except that such term includes section 5 of the Federal Trade Commission Act (15 U.S.C. 45) to the extent such section 5 applies to unfair methods of competition; and
 
-“(B) includes any State law similar to the laws referred to in subparagraph (A).
+"(B) includes any State law similar to the laws referred to in subparagraph (A).
 
-“(2) Countermeasure or product.—The term ‘countermeasure or product’ refers to a security countermeasure, qualified countermeasure, or qualified pandemic or epidemic product (as those terms are defined in subsection (a)(1)).
+"(2) Countermeasure or product.—The term 'countermeasure or product' refers to a security countermeasure, qualified countermeasure, or qualified pandemic or epidemic product (as those terms are defined in subsection (a)(1)).
 
-“(3) Covered activities.—
+"(3) Covered activities.—
 
-“(A) In general.—Except as provided in subparagraph (B), the term ‘covered activities’ includes any activity relating to the development, manufacture, distribution, purchase, or storage of a countermeasure or product.
+"(A) In general.—Except as provided in subparagraph (B), the term 'covered activities' includes any activity relating to the development, manufacture, distribution, purchase, or storage of a countermeasure or product.
 
-“(B) Exception.—The term ‘covered activities’ shall not include, with respect to a meeting or consultation conducted under subsection (a)(1) or an agreement for which an exemption has been granted under subsection (a)(4), the following activities involving 2 or more persons:
+"(B) Exception.—The term 'covered activities' shall not include, with respect to a meeting or consultation conducted under subsection (a)(1) or an agreement for which an exemption has been granted under subsection (a)(4), the following activities involving 2 or more persons:
 
-“(i) Exchanging information among competitors relating to costs, profitability, or distribution of any product, process, or service if such information is not reasonably necessary to carry out covered activities—
+"(i) Exchanging information among competitors relating to costs, profitability, or distribution of any product, process, or service if such information is not reasonably necessary to carry out covered activities—
 
- “(I) with respect to a countermeasure or product regarding which such meeting or consultation is being conducted; or
+ "(I) with respect to a countermeasure or product regarding which such meeting or consultation is being conducted; or
 
- “(II) that are described in the agreement as exempted.
+ "(II) that are described in the agreement as exempted.
 
-“(ii) Entering into any agreement or engaging in any other conduct—
+"(ii) Entering into any agreement or engaging in any other conduct—
 
- “(I) to restrict or require the sale, licensing, or sharing of inventions, developments, products, processes, or services not developed through, produced by, or distributed or sold through such covered activities; or
+ "(I) to restrict or require the sale, licensing, or sharing of inventions, developments, products, processes, or services not developed through, produced by, or distributed or sold through such covered activities; or
 
- “(II) to restrict or require participation, by any person participating in such covered activities, in other research and development activities, except as reasonably necessary to prevent the misappropriation of proprietary information contributed by any person participating in such covered activities or of the results of such covered activities.
+ "(II) to restrict or require participation, by any person participating in such covered activities, in other research and development activities, except as reasonably necessary to prevent the misappropriation of proprietary information contributed by any person participating in such covered activities or of the results of such covered activities.
 
-“(iii) Entering into any agreement or engaging in any other conduct allocating a market with a competitor that is not expressly exempted from the antitrust laws under subsection (a)(4).
+"(iii) Entering into any agreement or engaging in any other conduct allocating a market with a competitor that is not expressly exempted from the antitrust laws under subsection (a)(4).
 
-“(iv) Exchanging information among competitors relating to production (other than production by such covered activities) of a product, process, or service if such information is not reasonably necessary to carry out such covered activities.
+"(iv) Exchanging information among competitors relating to production (other than production by such covered activities) of a product, process, or service if such information is not reasonably necessary to carry out such covered activities.
 
-“(v) Entering into any agreement or engaging in any other conduct restricting, requiring, or otherwise involving the production of a product, process, or service that is not expressly exempted from the antitrust laws under subsection (a)(4).
+"(v) Entering into any agreement or engaging in any other conduct restricting, requiring, or otherwise involving the production of a product, process, or service that is not expressly exempted from the antitrust laws under subsection (a)(4).
 
-“(vi) Except as otherwise provided in this subsection, entering into any agreement or engaging in any other conduct to restrict or require participation by any person participating in such covered activities, in any unilateral or joint activity that is not reasonably necessary to carry out such covered activities.
+"(vi) Except as otherwise provided in this subsection, entering into any agreement or engaging in any other conduct to restrict or require participation by any person participating in such covered activities, in any unilateral or joint activity that is not reasonably necessary to carry out such covered activities.
 
-“(vii) Entering into any agreement or engaging in any other conduct restricting or setting the price at which a countermeasure or product is offered for sale, whether by bid or otherwise.”
+"(vii) Entering into any agreement or engaging in any other conduct restricting or setting the price at which a countermeasure or product is offered for sale, whether by bid or otherwise."
 
-[Pub. L. 113–5, title IV, §402(e)(2), Mar. 13, 2013, 127 Stat. 195, provided that: “This subsection [amending section 405 of Pub. L. 109–417, set out above] shall take effect as if enacted on December 17, 2012.”]
+[Pub. L. 113–5, title IV, §402(e)(2), Mar. 13, 2013, 127 Stat. 195, provided that: "This subsection [amending section 405 of Pub. L. 109–417, set out above] shall take effect as if enacted on December 17, 2012."]
 
 #### Outreach ####
 
-Pub. L. 108–276, §6, July 21, 2004, 118 Stat. 862, provided that: “The Secretary of Health and Human Services shall develop outreach measures to ensure to the extent practicable that diverse institutions, including Historically Black Colleges and Universities and those serving large proportions of Black or African Americans, American Indians, Appalachian Americans, Alaska Natives, Asians, Native Hawaiians, other Pacific Islanders, Hispanics or Latinos, or other underrepresented populations, are meaningfully aware of available research and development grants, contracts, cooperative agreements, and procurements conducted under sections 2 and 3 of this Act [enacting this section and section 320 of Title 6, Domestic Security, amending sections 247d–6, 247d–6b, 287a–2, and 300aa–6 of this title and sections 312 and 313 of Title 6, renumbering section 300hh–12 of this title as section 247d–6b of this title, and enacting provisions set out as notes under this section and section 247d–6b of this title].”
+Pub. L. 108–276, §6, July 21, 2004, 118 Stat. 862, provided that: "The Secretary of Health and Human Services shall develop outreach measures to ensure to the extent practicable that diverse institutions, including Historically Black Colleges and Universities and those serving large proportions of Black or African Americans, American Indians, Appalachian Americans, Alaska Natives, Asians, Native Hawaiians, other Pacific Islanders, Hispanics or Latinos, or other underrepresented populations, are meaningfully aware of available research and development grants, contracts, cooperative agreements, and procurements conducted under sections 2 and 3 of this Act [enacting this section and section 320 of Title 6, Domestic Security, amending sections 247d–6, 247d–6b, 287a–2, and 300aa–6 of this title and sections 312 and 313 of Title 6, renumbering section 300hh–12 of this title as section 247d–6b of this title, and enacting provisions set out as notes under this section and section 247d–6b of this title]."
 
 #### Recommendation for Export Controls on Certain Biomedical Countermeasures ####
 
-Pub. L. 108–276, §7, July 21, 2004, 118 Stat. 863, provided that: “Upon the award of any grant, contract, or cooperative agreement under section 2 or 3 of this Act [enacting this section and section 320 of Title 6, Domestic Security, amending sections 247d–6, 247d–6b, 287a–2, and 300aa–6 of this title and sections 312 and 313 of Title 6, renumbering section 300hh–12 of this title as section 247d–6b of this title, and enacting provisions set out as notes under this section and section 247d–6b of this title] for the research, development, or procurement of a qualified countermeasure or a security countermeasure (as those terms are defined in this Act [see Short Title of 2004 Amendments note set out under section 201 of this title]), the Secretary of Health and Human Services shall, in consultation with the heads of other appropriate Federal agencies, determine whether the countermeasure involved in such grant, contract, or cooperative agreement is subject to existing export-related controls and, if not, may make a recommendation to the appropriate Federal agency or agencies that such countermeasure should be included on the list of controlled items subject to such controls.”
+Pub. L. 108–276, §7, July 21, 2004, 118 Stat. 863, provided that: "Upon the award of any grant, contract, or cooperative agreement under section 2 or 3 of this Act [enacting this section and section 320 of Title 6, Domestic Security, amending sections 247d–6, 247d–6b, 287a–2, and 300aa–6 of this title and sections 312 and 313 of Title 6, renumbering section 300hh–12 of this title as section 247d–6b of this title, and enacting provisions set out as notes under this section and section 247d–6b of this title] for the research, development, or procurement of a qualified countermeasure or a security countermeasure (as those terms are defined in this Act [see Short Title of 2004 Amendments note set out under section 201 of this title]), the Secretary of Health and Human Services shall, in consultation with the heads of other appropriate Federal agencies, determine whether the countermeasure involved in such grant, contract, or cooperative agreement is subject to existing export-related controls and, if not, may make a recommendation to the appropriate Federal agency or agencies that such countermeasure should be included on the list of controlled items subject to such controls."
 
 #### Ensuring Coordination, Cooperation and the Elimination of Unnecessary Duplication in Programs Designed To Protect the Homeland From Biological, Chemical, Radiological, and Nuclear Agents ####
 
 Pub. L. 108–276, §8, July 21, 2004, 118 Stat. 863, provided that:
 
-“(a) Ensuring Coordination of Programs.—The Secretary of Health and Human Services, the Secretary of Homeland Security, and the Secretary of Defense shall ensure that the activities of their respective Departments coordinate, complement, and do not unnecessarily duplicate programs to identify potential domestic threats from biological, chemical, radiological or nuclear agents, detect domestic incidents involving such agents, analyze such incidents, and develop necessary countermeasures. The aforementioned Secretaries shall further ensure that information and technology possessed by the Departments relevant to these activities are shared with the other Departments.
+"(a) Ensuring Coordination of Programs.—The Secretary of Health and Human Services, the Secretary of Homeland Security, and the Secretary of Defense shall ensure that the activities of their respective Departments coordinate, complement, and do not unnecessarily duplicate programs to identify potential domestic threats from biological, chemical, radiological or nuclear agents, detect domestic incidents involving such agents, analyze such incidents, and develop necessary countermeasures. The aforementioned Secretaries shall further ensure that information and technology possessed by the Departments relevant to these activities are shared with the other Departments.
 
-“(b) Designation of Agency Coordination Officer.—The Secretary of Health and Human Services, the Secretary of Homeland Security, and the Secretary of Defense shall each designate an officer or employee of their respective Departments who shall coordinate, through regular meetings and communications, with the other aforementioned Departments such programs and activities carried out by their Departments.”
+"(b) Designation of Agency Coordination Officer.—The Secretary of Health and Human Services, the Secretary of Homeland Security, and the Secretary of Defense shall each designate an officer or employee of their respective Departments who shall coordinate, through regular meetings and communications, with the other aforementioned Departments such programs and activities carried out by their Departments."

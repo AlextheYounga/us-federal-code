@@ -56,16 +56,16 @@ Nothing in this subsection precludes the State of Utah from authorizing or under
 
 #### Amendments ####
 
-**2000**—Subsec. (b)(2). Pub. L. 106–176, §302(1), substituted “located in section 1, Township 25 South, Range 18 East, Salt Lake base and meridian, and more fully described as follows:” and subpars. (A) to (C) for “, described as lots 1 through 12 located in the S½N½ and the N½N½N½S½ of section 1, Township 25 South, Range 18 East, Salt Lake base and meridian.”
+**2000**—Subsec. (b)(2). Pub. L. 106–176, §302(1), substituted "located in section 1, Township 25 South, Range 18 East, Salt Lake base and meridian, and more fully described as follows:" and subpars. (A) to (C) for ", described as lots 1 through 12 located in the S½N½ and the N½N½N½S½ of section 1, Township 25 South, Range 18 East, Salt Lake base and meridian."
 
-Subsec. (d). Pub. L. 106–176, §302(2), struck out heading and text of subsec. (d). Text read as follows: “Administrative actions necessary to implement the land exchange under this section shall be completed not later than 180 days after October 30, 1998.”
+Subsec. (d). Pub. L. 106–176, §302(2), struck out heading and text of subsec. (d). Text read as follows: "Administrative actions necessary to implement the land exchange under this section shall be completed not later than 180 days after October 30, 1998."
 
 #### Effect on School Trust Land ####
 
-Pub. L. 105–329, §2(e)(1), Oct. 30, 1998, 112 Stat. 3062, provided that: “Congress finds that—
+Pub. L. 105–329, §2(e)(1), Oct. 30, 1998, 112 Stat. 3062, provided that: "Congress finds that—
 
-“(A) a parcel of State school trust land, more specifically described as section 16, township 23 south, range 22 east, of the Salt Lake base and meridian, is partially contained within the Lost Spring Canyon Addition included within the boundaries of Arches National Park by the amendment by subsection (a) [amending section 272 of this title];
+"(A) a parcel of State school trust land, more specifically described as section 16, township 23 south, range 22 east, of the Salt Lake base and meridian, is partially contained within the Lost Spring Canyon Addition included within the boundaries of Arches National Park by the amendment by subsection (a) [amending section 272 of this title];
 
-“(B) the parcel was originally granted to the State of Utah for the purpose of generating revenue for the public schools through the development of natural and other resources located on the parcel; and
+"(B) the parcel was originally granted to the State of Utah for the purpose of generating revenue for the public schools through the development of natural and other resources located on the parcel; and
 
-“(C) it is in the interest of the State of Utah and the United States for the parcel to be exchanged for Federal land of equivalent value outside the Lost Spring Canyon Addition to permit Federal management of all lands within the Lost Spring Canyon Addition.”
+"(C) it is in the interest of the State of Utah and the United States for the parcel to be exchanged for Federal land of equivalent value outside the Lost Spring Canyon Addition to permit Federal management of all lands within the Lost Spring Canyon Addition."

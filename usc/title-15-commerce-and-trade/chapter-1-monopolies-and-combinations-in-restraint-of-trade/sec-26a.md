@@ -12,7 +12,7 @@ Except as provided in subsection (b) of this section, it shall be unlawful for a
 
 (1) Nothing in this section or in any other provision of law in effect on December 2, 1980, which is specifically applicable to the sale of petroleum products shall preclude any person referred to in subsection (a) of this section from imposing a reasonable fee for credit on the sale, resale, or transfer of the gasohol or other synthetic motor fuel referred to in subsection (a) of this section if such fee equals no more than the actual costs to such person of extending that credit.
 
-(2) The prohibitions in this section shall not apply to any person who makes available sufficient supplies of gasohol and other synthetic motor fuels of equivalent usability to satisfy his customers’ needs for such products, if the gasohol and other synthetic fuels are made available on terms and conditions which are equivalent to the terms and conditions on which such person's conventional motor fuel products are made available.
+(2) The prohibitions in this section shall not apply to any person who makes available sufficient supplies of gasohol and other synthetic motor fuels of equivalent usability to satisfy his customers' needs for such products, if the gasohol and other synthetic fuels are made available on terms and conditions which are equivalent to the terms and conditions on which such person's conventional motor fuel products are made available.
 
 (3) Nothing in this section shall—
 
@@ -24,12 +24,12 @@ Except as provided in subsection (b) of this section, it shall be unlawful for a
 
 (D) require such person to furnish or provide, at such person's own expense, any additional pumps, tanks, or other related facilities required for the sale of the gasohol or other synthetic motor fuel.
 
-#### (c) “United States” defined ####
+#### (c) "United States" defined ####
 
-As used in this section, “United States” includes the several States, the District of Columbia, any territory of the United States, and any insular possession or other place under the jurisdiction of the United States.
+As used in this section, "United States" includes the several States, the District of Columbia, any territory of the United States, and any insular possession or other place under the jurisdiction of the United States.
 
 (Oct. 15, 1914, ch. 323, §26, as added Pub. L. 96–493, §2, Dec. 2, 1980, 94 Stat. 2568.)
 
 #### Short Title ####
 
-For short title of Pub. L. 96–493 as the “Gasohol Competition Act of 1980”, see section 1 of Pub. L. 96–493, set out as a Short Title of 1980 Amendment note under section 1 of this title.
+For short title of Pub. L. 96–493 as the "Gasohol Competition Act of 1980", see section 1 of Pub. L. 96–493, set out as a Short Title of 1980 Amendment note under section 1 of this title.

@@ -16,6 +16,6 @@ Each report under subsection (a) shall include the following:
 
 #### (c) Definition ####
 
-In this section, the term “center of excellence” means an entity receiving funding under this subchapter in its capacity as a center of excellence.
+In this section, the term "center of excellence" means an entity receiving funding under this subchapter in its capacity as a center of excellence.
 
 (July 1, 1944, ch. 373, title IV, §404H, as added Pub. L. 109–416, §2(b), Dec. 19, 2006, 120 Stat. 2821.)

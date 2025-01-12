@@ -8,4 +8,4 @@ If contracts in accordance with the requirements of this section shall not have 
 
 #### Change of Name ####
 
-“Hoover Power Plant” substituted in text for “Boulder Power Plant” on authority of act Apr. 30, 1947, which changed name of Boulder Dam to Hoover Dam.
+"Hoover Power Plant" substituted in text for "Boulder Power Plant" on authority of act Apr. 30, 1947, which changed name of Boulder Dam to Hoover Dam.

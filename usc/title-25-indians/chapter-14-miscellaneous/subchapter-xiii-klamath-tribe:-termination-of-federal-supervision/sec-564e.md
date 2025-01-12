@@ -16,10 +16,10 @@ Members of the tribe who receive the money value of their interests in tribal pr
 
 #### Amendments ####
 
-**1958**—Subsec. (b). Pub. L. 85–731 substituted “seven years” for “six years”.
+**1958**—Subsec. (b). Pub. L. 85–731 substituted "seven years" for "six years".
 
-**1957**—Subsec. (b). Pub. L. 85–132 substituted “six years” for “four years”.
+**1957**—Subsec. (b). Pub. L. 85–132 substituted "six years" for "four years".
 
 #### Deferral of Time for Sales of Tribal Property ####
 
-Act Aug. 13, 1954, ch. 732, §27, as added by Pub. L. 85–132, §1(a), Aug. 14, 1957, 71 Stat. 347, provided that: “Notwithstanding any other provisions of this Act [this subchapter], no sales of tribal property shall be made pursuant to paragraph (3) of subsection (a) of section 5, or section 6 of this Act [section 564d(a)(3) of this title or this section] prior to the adjournment of the second session of the Eighty-fifth Congress.”
+Act Aug. 13, 1954, ch. 732, §27, as added by Pub. L. 85–132, §1(a), Aug. 14, 1957, 71 Stat. 347, provided that: "Notwithstanding any other provisions of this Act [this subchapter], no sales of tribal property shall be made pursuant to paragraph (3) of subsection (a) of section 5, or section 6 of this Act [section 564d(a)(3) of this title or this section] prior to the adjournment of the second session of the Eighty-fifth Congress."

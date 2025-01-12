@@ -30,7 +30,7 @@ Beginning at a triangle on set stone, said mark being the Government survey tria
 
 13. One hundred and twenty-seven degrees thirty-eight minutes two thousand one hundred and seventy-five and six-tenths feet along same and the land of Papaanui to a concrete monument marked Number 17, the true azimuth and distance from said monument to a concrete monument marked Number 25, which marks the south corner of the land of Kealahou 3 and 4 being forty degrees ten minutes thirty seconds four hundred and sixty-six and two-tenths feet.
 
-14. Two hundred and thirteen degrees forty-six minutes eight thousand two hundred and forty-one and two-tenths feet along the remaining portions of the lands of Kealahou 3 and 4 and Pulehunui to a concrete monument marked Number 19, the true azimuth and distance from said monument to a “K” marked on a large lava rock called Kilohana, at the east corner of the lands of Kealahou 3 and 4, being three hundred and twenty-three degrees fifty-three minutes nine hundred and forty-seven and three-tenths feet.
+14. Two hundred and thirteen degrees forty-six minutes eight thousand two hundred and forty-one and two-tenths feet along the remaining portions of the lands of Kealahou 3 and 4 and Pulehunui to a concrete monument marked Number 19, the true azimuth and distance from said monument to a "K" marked on a large lava rock called Kilohana, at the east corner of the lands of Kealahou 3 and 4, being three hundred and twenty-three degrees fifty-three minutes nine hundred and forty-seven and three-tenths feet.
 
 15. One hundred and forty-three degrees fifty-three minutes six thousand nine hundred and five and three-tenths feet along the land of Pulehunui to a concrete monument marked Number 20.
 

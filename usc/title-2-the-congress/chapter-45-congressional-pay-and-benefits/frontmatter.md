@@ -40,7 +40,7 @@ Sec.
 
 4531. House of Representatives pay adjustments; action by Chief Administrative Officer of House.
 
-4532. Rates of compensation disbursed by Chief Administrative Officer of House; adjustments by Speaker; “Member of the House of Representatives” defined.
+4532. Rates of compensation disbursed by Chief Administrative Officer of House; adjustments by Speaker; "Member of the House of Representatives" defined.
 
 4533. Single per annum gross rates of pay for employees.
 
@@ -92,7 +92,7 @@ Sec.
 
 4576. Availability of appropriated funds for payment to an individual of pay from more than one position; conditions.
 
-4577. Availability of appropriations during first three months of any fiscal year for aggregate of payments of gross compensation made to employees from Senate appropriation account for “Salaries, Officers and Employees”.
+4577. Availability of appropriations during first three months of any fiscal year for aggregate of payments of gross compensation made to employees from Senate appropriation account for "Salaries, Officers and Employees".
 
 4578. Restriction on payment of dual compensation by Secretary of Senate.
 

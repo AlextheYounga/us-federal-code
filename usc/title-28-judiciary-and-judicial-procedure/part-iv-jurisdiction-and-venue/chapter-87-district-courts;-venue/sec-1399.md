@@ -10,7 +10,7 @@ Based on title 28, U.S.C., 1940 ed., §41(25) (Mar. 3, 1911, ch. 231, §24, par.
 
 Provisions of section 41(25) of title 28, U.S.C., 1940 ed., relating to jurisdiction are the basis of section 1347 of this title.
 
-Words “civil action” were substituted for “suits in equity,” in view of Rule 2 of the Federal Rules of Civil Procedure.
+Words "civil action" were substituted for "suits in equity," in view of Rule 2 of the Federal Rules of Civil Procedure.
 
 Provision with respect to property in different districts was added to conform with section 1392 of this title.
 

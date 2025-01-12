@@ -40,12 +40,12 @@ Sec.
 
 #### Amendments ####
 
-**2012**—Pub. L. 112–141, div. C, title II, §§32304(d), 32402(b), 32604(b)(2), July 6, 2012, 126 Stat. 792, 802, 809, added items 31305, 31306a, and 31313 and struck out former items 31305 “General driver fitness and testing” and 31313 “Grants for commercial driver's license program improvements”.
+**2012**—Pub. L. 112–141, div. C, title II, §§32304(d), 32402(b), 32604(b)(2), July 6, 2012, 126 Stat. 792, 802, 809, added items 31305, 31306a, and 31313 and struck out former items 31305 "General driver fitness and testing" and 31313 "Grants for commercial driver's license program improvements".
 
 **2005**—Pub. L. 109–59, title IV, §4124(b), Aug. 10, 2005, 119 Stat. 1738, added item 31313.
 
 **1999**—Pub. L. 106–159, title II, §203(b), Dec. 9, 1999, 113 Stat. 1762, added item 31312.
 
-**1998**—Pub. L. 105–178, title IV, §§4007(b), 4011(b)(2), (f), June 9, 1998, 112 Stat. 403, 407, 408, substituted “Commercial driver's license requirement” for “Limitation on the number of driver's licenses” in item 31302 and “Waivers, exemptions, and pilot programs” for “Waiver authority” in item 31315 and struck out items 31312 “Grants for testing and ensuring the fitness of operators of commercial motor vehicles” and 31313 “Grants for issuing commercial drivers’ licenses and complying with State participation requirements”.
+**1998**—Pub. L. 105–178, title IV, §§4007(b), 4011(b)(2), (f), June 9, 1998, 112 Stat. 403, 407, 408, substituted "Commercial driver's license requirement" for "Limitation on the number of driver's licenses" in item 31302 and "Waivers, exemptions, and pilot programs" for "Waiver authority" in item 31315 and struck out items 31312 "Grants for testing and ensuring the fitness of operators of commercial motor vehicles" and 31313 "Grants for issuing commercial drivers' licenses and complying with State participation requirements".
 
 [<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER313_1)

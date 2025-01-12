@@ -188,7 +188,7 @@ The Secretary shall award cooperative agreements under subsection (a) to each St
 
 #### (B) Base amount ####
 
-In determining the amount of an award pursuant to subparagraph (A) for a State, the Secretary shall first determine an amount the Secretary considers appropriate for the State (referred to in this paragraph as the “base amount”), except that such amount may not be greater than the minimum amount determined under subparagraph (D).
+In determining the amount of an award pursuant to subparagraph (A) for a State, the Secretary shall first determine an amount the Secretary considers appropriate for the State (referred to in this paragraph as the "base amount"), except that such amount may not be greater than the minimum amount determined under subparagraph (D).
 
 #### (C) Increase on basis of population ####
 
@@ -298,69 +298,69 @@ The Secretary shall compile the data submitted under this section and make such 
 
 #### Codification ####
 
-December 19, 2006, referred to in subsec. (g)(2)(B), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 109–417, which enacted subsec. (g) of this section, to reflect the probable intent of Congress.
+December 19, 2006, referred to in subsec. (g)(2)(B), was in the original "the date of enactment of this section", which was translated as meaning the date of enactment of Pub. L. 109–417, which enacted subsec. (g) of this section, to reflect the probable intent of Congress.
 
 #### Amendments ####
 
-**2013**—Subsec. (b)(1)(B). Pub. L. 113–5, §202(c)(1), substituted “subsection (h)(4)” for “subsection (i)(4)”.
+**2013**—Subsec. (b)(1)(B). Pub. L. 113–5, §202(c)(1), substituted "subsection (h)(4)" for "subsection (i)(4)".
 
-Subsec. (b)(1)(C). Pub. L. 113–5, §202(a)(1), substituted “consortium of States” for “consortium of entities described in subparagraph (A)”.
+Subsec. (b)(1)(C). Pub. L. 113–5, §202(a)(1), substituted "consortium of States" for "consortium of entities described in subparagraph (A)".
 
 Subsec. (b)(2)(A)(i), (ii). Pub. L. 113–5, §202(a)(2)(A)(i), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
-“(i) a description of the activities such entity will carry out under the agreement to meet the goals identified under section 300hh–1 of this title;
+"(i) a description of the activities such entity will carry out under the agreement to meet the goals identified under section 300hh–1 of this title;
 
-“(ii) a pandemic influenza plan consistent with the requirements of paragraphs (2) and (5) of subsection (g);”.
+"(ii) a pandemic influenza plan consistent with the requirements of paragraphs (2) and (5) of subsection (g);".
 
 Subsec. (b)(2)(A)(vi) to (ix). Pub. L. 113–5, §202(a)(2)(A)(ii), (iii), added cls. (vi) to (ix).
 
-Subsec. (b)(2)(C). Pub. L. 113–5, §202(a)(2)(B), inserted “, including addressing the needs of at-risk individuals,” after “capabilities of such entity”.
+Subsec. (b)(2)(C). Pub. L. 113–5, §202(a)(2)(B), inserted ", including addressing the needs of at-risk individuals," after "capabilities of such entity".
 
-Subsec. (b)(2)(D). Pub. L. 113–5, §204(b), substituted “section 247d–4(c)(3)” for “section 247d–4(d)(3)”.
+Subsec. (b)(2)(D). Pub. L. 113–5, §204(b), substituted "section 247d–4(c)(3)" for "section 247d–4(d)(3)".
 
-Subsec. (f)(2) to (4). Pub. L. 113–5, §202(a)(3), inserted “and” at end of par. (2), substituted period for “; and” at end of par. (3), and struck out par. (4) which read as follows: “disseminate such recommendations and guidance, including through expanding existing lessons learned information systems to create a single Internet-based point of access for sharing and distributing medical and public health best practices and lessons learned from drills, exercises, disasters, and other emergencies.”
+Subsec. (f)(2) to (4). Pub. L. 113–5, §202(a)(3), inserted "and" at end of par. (2), substituted period for "; and" at end of par. (3), and struck out par. (4) which read as follows: "disseminate such recommendations and guidance, including through expanding existing lessons learned information systems to create a single Internet-based point of access for sharing and distributing medical and public health best practices and lessons learned from drills, exercises, disasters, and other emergencies."
 
-Subsec. (g)(1)(A). Pub. L. 113–5, §202(a)(4)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “include outcome goals representing operational achievement of the National Preparedness Goals developed under section 300hh–1(b) of this title; and”.
+Subsec. (g)(1)(A). Pub. L. 113–5, §202(a)(4)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: "include outcome goals representing operational achievement of the National Preparedness Goals developed under section 300hh–1(b) of this title; and".
 
-Subsec. (g)(2)(A). Pub. L. 113–5, §202(a)(4)(B), inserted at end “The Secretary shall periodically update, as necessary and appropriate, such pandemic influenza plan criteria and shall require the integration of such criteria into the benchmarks and standards described in paragraph (1).”
+Subsec. (g)(2)(A). Pub. L. 113–5, §202(a)(4)(B), inserted at end "The Secretary shall periodically update, as necessary and appropriate, such pandemic influenza plan criteria and shall require the integration of such criteria into the benchmarks and standards described in paragraph (1)."
 
 Subsec. (h). Pub. L. 113–5, §202(a)(5), (6), redesignated subsec. (i) as (h) and struck out former subsec. (h) which related to grants for real-time disease detection improvement.
 
-Subsec. (h)(1)(A). Pub. L. 113–5, §202(a)(7)(A)(i), substituted “$641,900,000 for fiscal year 2014” for “$824,000,000 for fiscal year 2007, of which $35,000,000 shall be used to carry out subsection (h),” and “$641,900,000 for each of fiscal years 2015 through 2018” for “such sums as may be necessary for each of fiscal years 2008 through 2011”.
+Subsec. (h)(1)(A). Pub. L. 113–5, §202(a)(7)(A)(i), substituted "$641,900,000 for fiscal year 2014" for "$824,000,000 for fiscal year 2007, of which $35,000,000 shall be used to carry out subsection (h)," and "$641,900,000 for each of fiscal years 2015 through 2018" for "such sums as may be necessary for each of fiscal years 2008 through 2011".
 
-Subsec. (h)(1)(B) to (D). Pub. L. 113–5, §202(a)(7)(A)(ii)–(iv), redesignated subpars. (C) and (D) as (B) and (C), respectively, substituted “subparagraph (B)” for “subparagraph (C)” in subpar. (C), and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “There are authorized to be appropriated, $10,000,000 for fiscal year 2007 to carry out subsection (f)(4) of this section and section 300hh–16 of this title.”
+Subsec. (h)(1)(B) to (D). Pub. L. 113–5, §202(a)(7)(A)(ii)–(iv), redesignated subpars. (C) and (D) as (B) and (C), respectively, substituted "subparagraph (B)" for "subparagraph (C)" in subpar. (C), and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "There are authorized to be appropriated, $10,000,000 for fiscal year 2007 to carry out subsection (f)(4) of this section and section 300hh–16 of this title."
 
-Subsec. (h)(3)(C), (D). Pub. L. 113–5, §202(a)(7)(B), substituted “paragraph (1)(A)” for “paragraph (1)(A)(i)(I)” wherever appearing.
+Subsec. (h)(3)(C), (D). Pub. L. 113–5, §202(a)(7)(B), substituted "paragraph (1)(A)" for "paragraph (1)(A)(i)(I)" wherever appearing.
 
-Subsec. (h)(4)(B). Pub. L. 113–5, §202(a)(7)(C), substituted “subsection (b)” for “subsection (c)”.
+Subsec. (h)(4)(B). Pub. L. 113–5, §202(a)(7)(C), substituted "subsection (b)" for "subsection (c)".
 
 Subsec. (h)(7). Pub. L. 113–5, §202(a)(7)(D), added par. (7).
 
 Subsec. (i). Pub. L. 113–5, §202(a)(6), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
 
-Subsec. (i)(1)(E). Pub. L. 113–5, §202(a)(8)(A), substituted “subsection (j)” for “subsection (k)”.
+Subsec. (i)(1)(E). Pub. L. 113–5, §202(a)(8)(A), substituted "subsection (j)" for "subsection (k)".
 
 Subsec. (i)(3). Pub. L. 113–5, §202(a)(8)(B), struck out par. (3) which related to maximum amount of an award under this section that may be carried over to the succeeding fiscal year.
 
 Subsecs. (j), (k). Pub. L. 113–5, §202(a)(6), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
 
-**2006**—Pub. L. 109–417, §201(1), substituted “Improving State and local public health security” for “Grants to improve State, local, and hospital preparedness for and response to bioterrorism and other public health emergencies” in section catchline.
+**2006**—Pub. L. 109–417, §201(1), substituted "Improving State and local public health security" for "Grants to improve State, local, and hospital preparedness for and response to bioterrorism and other public health emergencies" in section catchline.
 
 Subsecs. (a) to (h). Pub. L. 109–417, §201(2), added subsecs. (a) to (h) and struck out former subsecs. (a) to (h) which related to grants to improve State, local, and hospital preparedness for and response to bioterrorism and other public health emergencies.
 
 Subsec. (i). Pub. L. 109–417, §201(3), redesignated subsec. (j) as (i).
 
-Pub. L. 109–417, §201(2), struck out subsec. (i) which defined “eligible entity”.
+Pub. L. 109–417, §201(2), struck out subsec. (i) which defined "eligible entity".
 
 Subsec. (i)(1) to (3)(A). Pub. L. 109–417, §201(4)(A), added pars. (1) to (3)(A) and struck out former pars. (1) to (3)(A) which related to appropriations for fiscal years 2003 through 2006, use of amounts to supplement and not supplant other funds, and conditions for receipt of award in fiscal year 2003.
 
-Subsec. (i)(4)(A). Pub. L. 109–417, §201(4)(B), substituted “fiscal year 2007” for “fiscal year 2003” and struck out “(A)(i)(I)” after “paragraph (1)”.
+Subsec. (i)(4)(A). Pub. L. 109–417, §201(4)(B), substituted "fiscal year 2007" for "fiscal year 2003" and struck out "(A)(i)(I)" after "paragraph (1)".
 
-Subsec. (i)(4)(D). Pub. L. 109–417, §201(4)(C), substituted “fiscal year 2006” for “fiscal year 2002”.
+Subsec. (i)(4)(D). Pub. L. 109–417, §201(4)(C), substituted "fiscal year 2006" for "fiscal year 2002".
 
-Subsec. (i)(5)(A). Pub. L. 109–417, §201(4)(D), in introductory provisions, substituted “fiscal year 2007” for “fiscal year 2003” and struck out “(A)(i)(I)” after “paragraph (1)”.
+Subsec. (i)(5)(A). Pub. L. 109–417, §201(4)(D), in introductory provisions, substituted "fiscal year 2007" for "fiscal year 2003" and struck out "(A)(i)(I)" after "paragraph (1)".
 
-Subsec. (i)(6). Pub. L. 109–417, §201(4)(E), added par. (6) and struck out heading and text of former par. (6). Text read as follows: “For fiscal year 2003, the Secretary shall in making awards under this section ensure that appropriate portions of such awards are made available to political subdivisions, local departments of public health, hospitals (including children's hospitals), clinics, health centers, or primary care facilities, or consortia of such entities.”
+Subsec. (i)(6). Pub. L. 109–417, §201(4)(E), added par. (6) and struck out heading and text of former par. (6). Text read as follows: "For fiscal year 2003, the Secretary shall in making awards under this section ensure that appropriate portions of such awards are made available to political subdivisions, local departments of public health, hospitals (including children's hospitals), clinics, health centers, or primary care facilities, or consortia of such entities."
 
 Subsec. (j). Pub. L. 109–417, §201(5), added subsec. (j).
 
@@ -372,22 +372,22 @@ Subsec. (k). Pub. L. 109–417, §201(5), added subsec. (k).
 
 Pub. L. 110–53, title XXII, §2201(d), Aug. 3, 2007, 121 Stat. 541, provided that:
 
-“(1) In general.—The Assistant Secretary of Commerce for Communications and Information may establish not more than 10 geographically dispersed project grants to emergency medical and public health care facilities to improve the capabilities of emergency communications systems in emergency medical care facilities.
+"(1) In general.—The Assistant Secretary of Commerce for Communications and Information may establish not more than 10 geographically dispersed project grants to emergency medical and public health care facilities to improve the capabilities of emergency communications systems in emergency medical care facilities.
 
-“(2) Maximum amount.—The Assistant Secretary may not provide more than $2,000,000 in Federal assistance under the pilot program to any applicant.
+"(2) Maximum amount.—The Assistant Secretary may not provide more than $2,000,000 in Federal assistance under the pilot program to any applicant.
 
-“(3) Cost sharing.—The Assistant Secretary may not provide more than 20 percent of the cost, incurred during the period of the grant, of any project under the pilot program.
+"(3) Cost sharing.—The Assistant Secretary may not provide more than 20 percent of the cost, incurred during the period of the grant, of any project under the pilot program.
 
-“(4) Maximum period of grants.—The Assistant Secretary may not fund any applicant under the pilot program for more than 3 years.
+"(4) Maximum period of grants.—The Assistant Secretary may not fund any applicant under the pilot program for more than 3 years.
 
-“(5) Deployment and distribution.—The Assistant Secretary shall seek to the maximum extent practicable to ensure a broad geographic distribution of project sites.
+"(5) Deployment and distribution.—The Assistant Secretary shall seek to the maximum extent practicable to ensure a broad geographic distribution of project sites.
 
-“(6) Transfer of information and knowledge.—The Assistant Secretary shall establish mechanisms to ensure that the information and knowledge gained by participants in the pilot program are transferred among the pilot program participants and to other interested parties, including other applicants that submitted applications.”
+"(6) Transfer of information and knowledge.—The Assistant Secretary shall establish mechanisms to ensure that the information and knowledge gained by participants in the pilot program are transferred among the pilot program participants and to other interested parties, including other applicants that submitted applications."
 
 [<sup>1</sup> So in original.](#247d-3a_1)
 
-[<sup>2</sup> So in original. Probably should be “makes”.](#247d-3a_2)
+[<sup>2</sup> So in original. Probably should be "makes".](#247d-3a_2)
 
-[<sup>3</sup> So in original. Probably should be “describes”.](#247d-3a_3)
+[<sup>3</sup> So in original. Probably should be "describes".](#247d-3a_3)
 
 [<sup>4</sup> See Codification note below.](#247d-3a_4)

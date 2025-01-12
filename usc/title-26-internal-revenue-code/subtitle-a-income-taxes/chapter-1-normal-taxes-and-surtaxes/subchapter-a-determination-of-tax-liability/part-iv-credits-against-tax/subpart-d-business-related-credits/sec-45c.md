@@ -12,19 +12,19 @@ For purposes of this section—
 
 #### (A) In general ####
 
-Except as otherwise provided in this paragraph, the term “qualified clinical testing expenses” means the amounts which are paid or incurred by the taxpayer during the taxable year which would be described in subsection (b) of section 41 if such subsection were applied with the modifications set forth in subparagraph (B).
+Except as otherwise provided in this paragraph, the term "qualified clinical testing expenses" means the amounts which are paid or incurred by the taxpayer during the taxable year which would be described in subsection (b) of section 41 if such subsection were applied with the modifications set forth in subparagraph (B).
 
 #### (B) Modifications ####
 
 For purposes of subparagraph (A), subsection (b) of section 41 shall be applied—
 
-(i) by substituting “clinical testing” for “qualified research” each place it appears in paragraphs (2) and (3) of such subsection, and
+(i) by substituting "clinical testing" for "qualified research" each place it appears in paragraphs (2) and (3) of such subsection, and
 
-(ii) by substituting “100 percent” for “65 percent” in paragraph (3)(A) of such subsection.
+(ii) by substituting "100 percent" for "65 percent" in paragraph (3)(A) of such subsection.
 
 #### (C) Exclusion for amounts funded by grants, etc. ####
 
-The term “qualified clinical testing expenses” shall not include any amount to the extent such amount is funded by any grant, contract, or otherwise by another person (or any governmental entity).
+The term "qualified clinical testing expenses" shall not include any amount to the extent such amount is funded by any grant, contract, or otherwise by another person (or any governmental entity).
 
 #### (D) Special rule ####
 
@@ -34,7 +34,7 @@ For purposes of this paragraph, section 41 shall be deemed to remain in effect f
 
 #### (A) In general ####
 
-The term “clinical testing” means any human clinical testing—
+The term "clinical testing" means any human clinical testing—
 
 (i) which is carried out under an exemption for a drug being tested for a rare disease or condition under section 505(i) of the Federal Food, Drug, and Cosmetic Act (or regulations issued under such section),
 
@@ -64,7 +64,7 @@ Any qualified clinical testing expenses for any taxable year which are qualified
 
 #### (1) Rare disease or condition ####
 
-For purposes of this section, the term “rare disease or condition” means any disease or condition which—
+For purposes of this section, the term "rare disease or condition" means any disease or condition which—
 
 (A) affects less than 200,000 persons in the United States, or
 
@@ -104,95 +104,95 @@ Section 351 of the Public Health Service Act, referred to in subsec. (b)(2)(A)(i
 
 #### Amendments ####
 
-**2013**—Subsec. (b)(1)(D). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”.
+**2013**—Subsec. (b)(1)(D). Pub. L. 112–240 substituted "December 31, 2013" for "December 31, 2011".
 
-**2010**—Subsec. (b)(1)(D). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
+**2010**—Subsec. (b)(1)(D). Pub. L. 111–312 substituted "December 31, 2011" for "December 31, 2009".
 
-**2008**—Subsec. (b)(1)(D). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”.
+**2008**—Subsec. (b)(1)(D). Pub. L. 110–343 substituted "December 31, 2009" for "December 31, 2007".
 
-**2006**—Subsec. (b)(1)(D). Pub. L. 109–432 substituted “2007” for “2005”.
+**2006**—Subsec. (b)(1)(D). Pub. L. 109–432 substituted "2007" for "2005".
 
-**2004**—Subsec. (b)(1)(D). Pub. L. 108–311 substituted “December 31, 2005” for “June 30, 2004”.
+**2004**—Subsec. (b)(1)(D). Pub. L. 108–311 substituted "December 31, 2005" for "June 30, 2004".
 
-**1999**—Subsec. (b)(1)(D). Pub. L. 106–170 substituted “June 30, 2004” for “June 30, 1999”.
+**1999**—Subsec. (b)(1)(D). Pub. L. 106–170 substituted "June 30, 2004" for "June 30, 1999".
 
-**1998**—Subsec. (b)(1)(D). Pub. L. 105–277 substituted “June 30, 1999” for “June 30, 1998”.
+**1998**—Subsec. (b)(1)(D). Pub. L. 105–277 substituted "June 30, 1999" for "June 30, 1998".
 
-**1997**—Subsec. (b)(1)(D). Pub. L. 105–34, §601(b)(2), substituted “June 30, 1998” for “May 31, 1997”.
+**1997**—Subsec. (b)(1)(D). Pub. L. 105–34, §601(b)(2), substituted "June 30, 1998" for "May 31, 1997".
 
-Subsec. (b)(2)(A)(ii)(II). Pub. L. 105–115 struck out “or 507” after “505(b)”.
+Subsec. (b)(2)(A)(ii)(II). Pub. L. 105–115 struck out "or 507" after "505(b)".
 
 Subsec. (e). Pub. L. 105–34, §604(a), struck out subsec. (e) which read as follows:
 
-“(e) Termination.—This section shall not apply to any amount paid or incurred—
+"(e) Termination.—This section shall not apply to any amount paid or incurred—
 
-“(1) after December 31, 1994, and before July 1, 1996, or
+"(1) after December 31, 1994, and before July 1, 1996, or
 
-“(2) after May 31, 1997.”
+"(2) after May 31, 1997."
 
 **1996**—Pub. L. 104–188, §1205(a)(1), renumbered section 28 of this title as this section.
 
-Subsec. (a). Pub. L. 104–188, §1205(d)(1), substituted “For purposes of section 38, the credit determined under this section for the taxable year is” for “There shall be allowed as a credit against the tax imposed by this chapter for the taxable year”.
+Subsec. (a). Pub. L. 104–188, §1205(d)(1), substituted "For purposes of section 38, the credit determined under this section for the taxable year is" for "There shall be allowed as a credit against the tax imposed by this chapter for the taxable year".
 
-Subsec. (b)(1)(D). Pub. L. 104–188, §1204(e), inserted “, and before July 1, 1996, and periods after May 31, 1997” after “June 30, 1995”.
+Subsec. (b)(1)(D). Pub. L. 104–188, §1204(e), inserted ", and before July 1, 1996, and periods after May 31, 1997" after "June 30, 1995".
 
-Subsec. (d)(2) to (5). Pub. L. 104–188, §1205(d)(2), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “Limitation based on amount of tax.—The credit allowed by this section for any taxable year shall not exceed the excess (if any) of—
+Subsec. (d)(2) to (5). Pub. L. 104–188, §1205(d)(2), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: "Limitation based on amount of tax.—The credit allowed by this section for any taxable year shall not exceed the excess (if any) of—
 
-“(A) the regular tax (reduced by the sum of the credits allowable under subpart A and section 27), over
+"(A) the regular tax (reduced by the sum of the credits allowable under subpart A and section 27), over
 
-“(B) the tentative minimum tax for the taxable year.”
+"(B) the tentative minimum tax for the taxable year."
 
-Subsec. (e). Pub. L. 104–188, §1205(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Termination.—This section shall not apply to any amount paid or incurred after December 31, 1994.”
+Subsec. (e). Pub. L. 104–188, §1205(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "Termination.—This section shall not apply to any amount paid or incurred after December 31, 1994."
 
-**1993**—Subsec. (b)(1)(D). Pub. L. 103–66, §13111(a)(2), substituted “June 30, 1995” for “June 30, 1992”.
+**1993**—Subsec. (b)(1)(D). Pub. L. 103–66, §13111(a)(2), substituted "June 30, 1995" for "June 30, 1992".
 
-Subsec. (e). Pub. L. 103–66, §13111(b), substituted “December 31, 1994” for “June 30, 1992”.
+Subsec. (e). Pub. L. 103–66, §13111(b), substituted "December 31, 1994" for "June 30, 1992".
 
-**1991**—Subsec. (b)(1)(D). Pub. L. 102–227, §102(b), substituted “June 30, 1992” for “December 31, 1991”.
+**1991**—Subsec. (b)(1)(D). Pub. L. 102–227, §102(b), substituted "June 30, 1992" for "December 31, 1991".
 
-Subsec. (e). Pub. L. 102–227, §111(a), substituted “June 30, 1992” for “December 31, 1991”.
+Subsec. (e). Pub. L. 102–227, §111(a), substituted "June 30, 1992" for "December 31, 1991".
 
-**1990**—Subsec. (b)(1)(D). Pub. L. 101–508, §11402(b)(2), substituted “December 31, 1991” for “December 31, 1990”.
+**1990**—Subsec. (b)(1)(D). Pub. L. 101–508, §11402(b)(2), substituted "December 31, 1991" for "December 31, 1990".
 
-Subsec. (e). Pub. L. 101–508, §11411, substituted “December 31, 1991” for “December 31, 1990”.
+Subsec. (e). Pub. L. 101–508, §11411, substituted "December 31, 1991" for "December 31, 1990".
 
-**1989**—Subsec. (b)(1)(D). Pub. L. 101–239 substituted “1990” for “1989”.
+**1989**—Subsec. (b)(1)(D). Pub. L. 101–239 substituted "1990" for "1989".
 
-**1988**—Subsec. (b)(1)(D). Pub. L. 100–647, §4008(c)(1), substituted “1989” for “1988”.
+**1988**—Subsec. (b)(1)(D). Pub. L. 100–647, §4008(c)(1), substituted "1989" for "1988".
 
-Subsec. (b)(2)(A)(ii)(II). Pub. L. 100–647, §1018(q)(1), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “before the date on which an application with respect to such drug is approved under section 505(b) of such Act or, if the drug is a biological product, before the date on which a license for such drug is issued under section 351 of the Public Health Services Act, and”.
+Subsec. (b)(2)(A)(ii)(II). Pub. L. 100–647, §1018(q)(1), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: "before the date on which an application with respect to such drug is approved under section 505(b) of such Act or, if the drug is a biological product, before the date on which a license for such drug is issued under section 351 of the Public Health Services Act, and".
 
-**1986**—Subsec. (b)(1). Pub. L. 99–514, §231(d)(3)(A)(i), (iv), substituted “41” for “30” in subpars. (A), (B), and (D), and substituted “1988” for “1985” in subpar. (D).
+**1986**—Subsec. (b)(1). Pub. L. 99–514, §231(d)(3)(A)(i), (iv), substituted "41" for "30" in subpars. (A), (B), and (D), and substituted "1988" for "1985" in subpar. (D).
 
-Subsec. (b)(2)(A)(ii)(I). Pub. L. 99–514, §1879(b)(1)(A), substituted “the date such drug” for “the date of such drug”.
+Subsec. (b)(2)(A)(ii)(I). Pub. L. 99–514, §1879(b)(1)(A), substituted "the date such drug" for "the date of such drug".
 
-Subsec. (b)(2)(A)(ii)(II). Pub. L. 99–514, §1879(b)(1)(B), inserted “or, if the drug is a biological product, before the date on which a license for such drug is issued under section 351 of the Public Health Services Act”.
+Subsec. (b)(2)(A)(ii)(II). Pub. L. 99–514, §1879(b)(1)(B), inserted "or, if the drug is a biological product, before the date on which a license for such drug is issued under section 351 of the Public Health Services Act".
 
-Subsec. (c). Pub. L. 99–514, §231(d)(3)(A)(i), (ii), substituted “41” for “30” in pars. (1) and (2) and “41(b)” for “30(b)” in par. (2).
+Subsec. (c). Pub. L. 99–514, §231(d)(3)(A)(i), (ii), substituted "41" for "30" in pars. (1) and (2) and "41(b)" for "30(b)" in par. (2).
 
-Subsec. (d)(1). Pub. L. 99–514, §1879(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For purposes of this section, the term ‘rare disease or condition’ means any disease or condition which occurs so infrequently in the United States that there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug. Determinations under the preceding sentence with respect to any drug shall be made on the basis of the facts and circumstances as of the date such drug is designated under section 526 of the Federal Food, Drug, and Cosmetic Act.”
+Subsec. (d)(1). Pub. L. 99–514, §1879(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "For purposes of this section, the term 'rare disease or condition' means any disease or condition which occurs so infrequently in the United States that there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug. Determinations under the preceding sentence with respect to any drug shall be made on the basis of the facts and circumstances as of the date such drug is designated under section 526 of the Federal Food, Drug, and Cosmetic Act."
 
-Subsec. (d)(2). Pub. L. 99–514, §701(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The credit allowed by this section for any taxable year shall not exceed the taxpayer's tax liability for the taxable year (as defined in section 26(b)), reduced by the sum of the credits allowable under subpart A and section 27.”
+Subsec. (d)(2). Pub. L. 99–514, §701(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The credit allowed by this section for any taxable year shall not exceed the taxpayer's tax liability for the taxable year (as defined in section 26(b)), reduced by the sum of the credits allowable under subpart A and section 27."
 
-Subsec. (d)(3)(B). Pub. L. 99–514, §1275(c)(4), struck out “934(b) or” before “936” in heading and amended text generally. Prior to amendment, text read as follows: “No credit shall be allowed under this section with respect to any clinical testing conducted by a corporation to which section 934(b) applies or to which an election under section 936 applies.”
+Subsec. (d)(3)(B). Pub. L. 99–514, §1275(c)(4), struck out "934(b) or" before "936" in heading and amended text generally. Prior to amendment, text read as follows: "No credit shall be allowed under this section with respect to any clinical testing conducted by a corporation to which section 934(b) applies or to which an election under section 936 applies."
 
-Subsec. (d)(4). Pub. L. 99–514, §231(d)(3)(A)(iii), substituted “section 41(f)” for “section 30(f)”.
+Subsec. (d)(4). Pub. L. 99–514, §231(d)(3)(A)(iii), substituted "section 41(f)" for "section 30(f)".
 
-Subsec. (e). Pub. L. 99–514, §232, substituted “1990” for “1987”.
+Subsec. (e). Pub. L. 99–514, §232, substituted "1990" for "1987".
 
 **1984**—Pub. L. 98–369, §471(c), renumbered section 44H of this title as this section.
 
-Subsec. (b)(1)(A), (B), (D). Pub. L. 98–369, §474(g)(1)(A), substituted “section 30” for “section 44F”.
+Subsec. (b)(1)(A), (B), (D). Pub. L. 98–369, §474(g)(1)(A), substituted "section 30" for "section 44F".
 
-Subsec. (c)(1). Pub. L. 98–369, §474(g)(1)(A), substituted “section 30” for “section 44F”.
+Subsec. (c)(1). Pub. L. 98–369, §474(g)(1)(A), substituted "section 30" for "section 44F".
 
-Subsec. (c)(2). Pub. L. 98–369, §474(g)(1)(A), (B), substituted “section 30” for “section 44F” and “section 30(b)” for “section 44F(b)”.
+Subsec. (c)(2). Pub. L. 98–369, §474(g)(1)(A), (B), substituted "section 30" for "section 44F" and "section 30(b)" for "section 44F(b)".
 
-Subsec. (d)(2). Pub. L. 98–369, §612(e)(1), substituted “section 26(b)” for “section 25(b)”.
+Subsec. (d)(2). Pub. L. 98–369, §612(e)(1), substituted "section 26(b)" for "section 25(b)".
 
-Pub. L. 98–369, §474(g)(2), amended par. (2) generally, substituting “shall not exceed the taxpayer's tax liability for the taxable year (as defined in section 25(b), reduced by the sum of the credits allowable under subpart A and section 27” for “shall not exceed the amount of the tax imposed by this chapter for the taxable year reduced by the sum of the credits allowable under a section of this subpart having a lower number or letter designation than this section, other than the credits allowable by sections 31, 39, and 43. For purposes of the preceding sentence, the term ‘tax imposed by this chapter’ shall not include any tax treated as not imposed by this chapter under the last sentence of section 53(a)”.
+Pub. L. 98–369, §474(g)(2), amended par. (2) generally, substituting "shall not exceed the taxpayer's tax liability for the taxable year (as defined in section 25(b), reduced by the sum of the credits allowable under subpart A and section 27" for "shall not exceed the amount of the tax imposed by this chapter for the taxable year reduced by the sum of the credits allowable under a section of this subpart having a lower number or letter designation than this section, other than the credits allowable by sections 31, 39, and 43. For purposes of the preceding sentence, the term 'tax imposed by this chapter' shall not include any tax treated as not imposed by this chapter under the last sentence of section 53(a)".
 
-Subsec. (d)(4). Pub. L. 98–369, §474(g)(1)(C), substituted “section 30(f)” for “section 44F(f)”.
+Subsec. (d)(4). Pub. L. 98–369, §474(g)(1)(C), substituted "section 30(f)" for "section 44F(f)".
 
 #### Effective Date of 2013 Amendment ####
 
@@ -226,7 +226,7 @@ Amendment by Pub. L. 105–277 applicable to amounts paid or incurred after June
 
 Amendment by section 601(b)(2) of Pub. L. 105–34 applicable to amounts paid or incurred after May 31, 1997, see section 601(c) of Pub. L. 105–34, set out as a note under section 41 of this title.
 
-Pub. L. 105–34, title VI, §604(b), Aug. 5, 1997, 111 Stat. 863, provided that: “The amendment made by subsection (a) [amending this section] shall apply to amounts paid or incurred after May 31, 1997.”
+Pub. L. 105–34, title VI, §604(b), Aug. 5, 1997, 111 Stat. 863, provided that: "The amendment made by subsection (a) [amending this section] shall apply to amounts paid or incurred after May 31, 1997."
 
 #### Effective Date of 1996 Amendment ####
 
@@ -236,17 +236,17 @@ Amendment by section 1205(a)(1), (b), (d)(1), (2) of Pub. L. 104–188 applicabl
 
 #### Effective Date of 1993 Amendment ####
 
-Pub. L. 103–66, title XIII, §13111(c), Aug. 10, 1993, 107 Stat. 421, provided that: “The amendments made by this section [amending this section and section 41 of this title] shall apply to taxable years ending after June 30, 1992.”
+Pub. L. 103–66, title XIII, §13111(c), Aug. 10, 1993, 107 Stat. 421, provided that: "The amendments made by this section [amending this section and section 41 of this title] shall apply to taxable years ending after June 30, 1992."
 
 #### Effective Date of 1991 Amendment ####
 
-Pub. L. 102–227, title I, §102(c), Dec. 11, 1991, 105 Stat. 1686, provided that: “The amendments made by this section [amending this section and section 41 of this title] shall apply to taxable years ending after December 31, 1991.”
+Pub. L. 102–227, title I, §102(c), Dec. 11, 1991, 105 Stat. 1686, provided that: "The amendments made by this section [amending this section and section 41 of this title] shall apply to taxable years ending after December 31, 1991."
 
-Pub. L. 102–227, title I, §111(b), Dec. 11, 1991, 105 Stat. 1689, provided that: “The amendment made by this section [amending this section] shall apply to taxable years ending after December 31, 1991.”
+Pub. L. 102–227, title I, §111(b), Dec. 11, 1991, 105 Stat. 1689, provided that: "The amendment made by this section [amending this section] shall apply to taxable years ending after December 31, 1991."
 
 #### Effective Date of 1990 Amendment ####
 
-Pub. L. 101–508, title XI, §11402(c), Nov. 5, 1990, 104 Stat. 1388–473, provided that: “The amendments made by this section [amending this section and section 41 of this title and repealing provisions set out as a note under section 41 of this title] shall apply to taxable years beginning after December 31, 1989.”
+Pub. L. 101–508, title XI, §11402(c), Nov. 5, 1990, 104 Stat. 1388–473, provided that: "The amendments made by this section [amending this section and section 41 of this title and repealing provisions set out as a note under section 41 of this title] shall apply to taxable years beginning after December 31, 1989."
 
 #### Effective Date of 1988 Amendment ####
 
@@ -262,7 +262,7 @@ Amendment by section 701(c)(2) of Pub. L. 99–514 applicable to taxable years b
 
 Amendment by section 1275(c)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
-Pub. L. 99–514, title XVIII, §1879(b)(3), Oct. 22, 1986, 100 Stat. 2906, provided that: “The amendments made by this subsection [amending this section] shall apply to amounts paid or incurred after December 31, 1982, in taxable years ending after such date.”
+Pub. L. 99–514, title XVIII, §1879(b)(3), Oct. 22, 1986, 100 Stat. 2906, provided that: "The amendments made by this subsection [amending this section] shall apply to amounts paid or incurred after December 31, 1982, in taxable years ending after such date."
 
 #### Effective Date of 1984 Amendment ####
 
@@ -272,7 +272,7 @@ Amendment by section 612(e)(1) of Pub. L. 98–369, applicable to interest paid 
 
 #### Effective Date ####
 
-Pub. L. 97–414, §4(d), Jan. 4, 1983, 96 Stat. 2056, provided that: “The amendments made by this section [enacting this section and amending sections 280C and 6096 of this title] shall apply to amounts paid or incurred after December 31, 1982, in taxable years ending after such date.”
+Pub. L. 97–414, §4(d), Jan. 4, 1983, 96 Stat. 2056, provided that: "The amendments made by this section [enacting this section and amending sections 280C and 6096 of this title] shall apply to amounts paid or incurred after December 31, 1982, in taxable years ending after such date."
 
 #### Applicability of Certain Amendments by Public Law 99–514 in Relation to Treaty Obligations of United States ####
 

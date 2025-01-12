@@ -30,12 +30,12 @@ A prior section 278g, act Mar. 3, 1901, ch. 872, §17, as added Mar. 1, 1968, Pu
 
 **1992**—Subsec. (d). Pub. L. 102–245 added subsec. (d).
 
-**1988**—Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards” wherever appearing.
+**1988**—Pub. L. 100–418 substituted "Institute" for "National Bureau of Standards" wherever appearing.
 
 #### Effective Date ####
 
-Pub. L. 96–461, §11, Oct. 15, 1980, 94 Stat. 2052, provided that: “The effective date of sections 8 and 9 of this Act [enacting this section, amending section 278d of this title, and enacting provisions set out below] shall be October 1, 1980.”
+Pub. L. 96–461, §11, Oct. 15, 1980, 94 Stat. 2052, provided that: "The effective date of sections 8 and 9 of this Act [enacting this section, amending section 278d of this title, and enacting provisions set out below] shall be October 1, 1980."
 
 #### Congressional Declaration of Purpose ####
 
-Pub. L. 96–461, §9, Oct. 15, 1980, 94 Stat. 2051, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433, provided in part that this section was enacted “[i]n order to develop and strengthen the expertise of the National Institute of Standards and Technology in science and engineering, to enhance the Secretary's ability to maintain the Institute's programs at the forefront of worldwide developments in science and engineering, and to cooperate in international scientific activities”.
+Pub. L. 96–461, §9, Oct. 15, 1980, 94 Stat. 2051, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433, provided in part that this section was enacted "[i]n order to develop and strengthen the expertise of the National Institute of Standards and Technology in science and engineering, to enhance the Secretary's ability to maintain the Institute's programs at the forefront of worldwide developments in science and engineering, and to cooperate in international scientific activities".

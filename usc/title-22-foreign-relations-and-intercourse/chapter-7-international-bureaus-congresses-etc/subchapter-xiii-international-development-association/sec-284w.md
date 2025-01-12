@@ -10,6 +10,6 @@ In order to pay for the United States contribution provided for in subsection (a
 
 #### (c) Multilateral Debt Relief Initiative ####
 
-In this section, the term “Multilateral Debt Relief Initiative” means the proposal set out in the G8 Finance Ministers’ Communique entitled “Conclusions on Development,” done at London, June 11, 2005, and reaffirmed by G8 Heads of State at the Gleneagles Summit on July 8, 2005.
+In this section, the term "Multilateral Debt Relief Initiative" means the proposal set out in the G8 Finance Ministers' Communique entitled "Conclusions on Development," done at London, June 11, 2005, and reaffirmed by G8 Heads of State at the Gleneagles Summit on July 8, 2005.
 
 (Pub. L. 86–565, §25, as added Pub. L. 111–32, title XI, §1109(a), June 24, 2009, 123 Stat. 1901.)

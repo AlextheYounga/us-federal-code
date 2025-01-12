@@ -84,7 +84,7 @@ A conditional approval under this section is effective for a 1-year period and i
 
 (1) The label and labeling of a new animal drug with a conditional approval under this section shall—
 
-(A) bear the statement, “conditionally approved by FDA pending a full demonstration of effectiveness under application number”; and
+(A) bear the statement, "conditionally approved by FDA pending a full demonstration of effectiveness under application number"; and
 
 (B) contain such other information as prescribed by the Secretary.
 
@@ -110,30 +110,30 @@ The decision of the Secretary under subsection (c), (d), or (e) of this section 
 
 #### (j) Definition ####
 
-In this section and section 360ccc–1 of this title, the term “transgenic animal” means an animal whose genome contains a nucleotide sequence that has been intentionally modified in vitro, and the progeny of such an animal; Provided that the term “transgenic animal” does not include an animal of which the nucleotide sequence of the genome has been modified solely by selective breeding.
+In this section and section 360ccc–1 of this title, the term "transgenic animal" means an animal whose genome contains a nucleotide sequence that has been intentionally modified in vitro, and the progeny of such an animal; Provided that the term "transgenic animal" does not include an animal of which the nucleotide sequence of the genome has been modified solely by selective breeding.
 
 (June 25, 1938, ch. 675, §571, as added Pub. L. 108–282, title I, §102(b)(4), Aug. 2, 2004, 118 Stat. 892.)
 
 #### Findings ####
 
-Pub. L. 108–282, title I, §102(a), Aug. 2, 2004, 118 Stat. 891, provided that: “Congress makes the following findings:
+Pub. L. 108–282, title I, §102(a), Aug. 2, 2004, 118 Stat. 891, provided that: "Congress makes the following findings:
 
-“(1) There is a severe shortage of approved new animal drugs for use in minor species.
+"(1) There is a severe shortage of approved new animal drugs for use in minor species.
 
-“(2) There is a severe shortage of approved new animal drugs for treating animal diseases and conditions that occur infrequently or in limited geographic areas.
+"(2) There is a severe shortage of approved new animal drugs for treating animal diseases and conditions that occur infrequently or in limited geographic areas.
 
-“(3) Because of the small market shares, low-profit margins involved, and capital investment required, it is generally not economically feasible for new animal drug applicants to pursue approvals for these species, diseases, and conditions.
+"(3) Because of the small market shares, low-profit margins involved, and capital investment required, it is generally not economically feasible for new animal drug applicants to pursue approvals for these species, diseases, and conditions.
 
-“(4) Because the populations for which such new animal drugs are intended may be small and conditions of animal management may vary widely, it is often difficult to design and conduct studies to establish drug safety and effectiveness under traditional new animal drug approval processes.
+"(4) Because the populations for which such new animal drugs are intended may be small and conditions of animal management may vary widely, it is often difficult to design and conduct studies to establish drug safety and effectiveness under traditional new animal drug approval processes.
 
-“(5) It is in the public interest and in the interest of animal welfare to provide for special procedures to allow the lawful use and marketing of certain new animal drugs for minor species and minor uses that take into account these special circumstances and that ensure that such drugs do not endanger animal or public health.
+"(5) It is in the public interest and in the interest of animal welfare to provide for special procedures to allow the lawful use and marketing of certain new animal drugs for minor species and minor uses that take into account these special circumstances and that ensure that such drugs do not endanger animal or public health.
 
-“(6) Exclusive marketing rights for clinical testing expenses have helped encourage the development of ‘orphan’ drugs for human use, and comparable incentives should encourage the development of new animal drugs for minor species and minor uses.”
+"(6) Exclusive marketing rights for clinical testing expenses have helped encourage the development of 'orphan' drugs for human use, and comparable incentives should encourage the development of new animal drugs for minor species and minor uses."
 
 #### Regulations ####
 
-Pub. L. 108–282, title I, §102(b)(6), Aug. 2, 2004, 118 Stat. 905, provided that: “On the date of enactment of this Act [Aug. 2, 2004], the Secretary of Health and Human Services shall implement sections 571 and 573 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360ccc, 360ccc–2] and subsequently publish implementing regulations. Not later than 12 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 573 of the Federal Food, Drug, and Cosmetic Act (as added by this Act), and not later than 24 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 573 of the Federal Food, Drug, and Cosmetic Act. Not later than 18 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 572 of the Federal Food, Drug, and Cosmetic Act (as added by this Act) [21 U.S.C. 360ccc–1], and not later than 36 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 572 of the Federal Food, Drug, and Cosmetic Act. Not later than 30 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 571 of the Federal Food, Drug, and Cosmetic Act (as added by this Act), and not later than 42 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 571 of the Federal Food, Drug, and Cosmetic Act. These timeframes shall be extended by 12 months for each fiscal year, in which the funds authorized to be appropriated under subsection (i) [no subsection (i) of section 102 has been enacted] are not in fact appropriated.”
+Pub. L. 108–282, title I, §102(b)(6), Aug. 2, 2004, 118 Stat. 905, provided that: "On the date of enactment of this Act [Aug. 2, 2004], the Secretary of Health and Human Services shall implement sections 571 and 573 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360ccc, 360ccc–2] and subsequently publish implementing regulations. Not later than 12 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 573 of the Federal Food, Drug, and Cosmetic Act (as added by this Act), and not later than 24 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 573 of the Federal Food, Drug, and Cosmetic Act. Not later than 18 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 572 of the Federal Food, Drug, and Cosmetic Act (as added by this Act) [21 U.S.C. 360ccc–1], and not later than 36 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 572 of the Federal Food, Drug, and Cosmetic Act. Not later than 30 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 571 of the Federal Food, Drug, and Cosmetic Act (as added by this Act), and not later than 42 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 571 of the Federal Food, Drug, and Cosmetic Act. These timeframes shall be extended by 12 months for each fiscal year, in which the funds authorized to be appropriated under subsection (i) [no subsection (i) of section 102 has been enacted] are not in fact appropriated."
 
-[<sup>1</sup> So in original. Probably should be “this subsection,”.](#360ccc_1)
+[<sup>1</sup> So in original. Probably should be "this subsection,".](#360ccc_1)
 
 [<sup>2</sup> So in original. The period probably should be a comma.](#360ccc_2)

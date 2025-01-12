@@ -6,4 +6,4 @@ Except as otherwise required by the instrument of transfer, the Foundation may s
 
 #### Amendments ####
 
-**2000**—Pub. L. 106–176 inserted “with or” before “without” and inserted at end “Monies reimbursed to either Department shall be returned by the Department to the account from which the funds for which the reimbursement is made were drawn and may, without further appropriation, be expended for any purpose for which such account is authorized.”
+**2000**—Pub. L. 106–176 inserted "with or" before "without" and inserted at end "Monies reimbursed to either Department shall be returned by the Department to the account from which the funds for which the reimbursement is made were drawn and may, without further appropriation, be expended for any purpose for which such account is authorized."

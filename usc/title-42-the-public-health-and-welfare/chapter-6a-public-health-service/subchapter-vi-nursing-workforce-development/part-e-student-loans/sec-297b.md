@@ -90,25 +90,25 @@ Provisions of subsec. (h) of this section were, in the original, enacted by sect
 
 #### Amendments ####
 
-**2010**—Subsec. (a). Pub. L. 111–148, §5310(b)(2), substituted “this part” for “this subpart”.
+**2010**—Subsec. (a). Pub. L. 111–148, §5310(b)(2), substituted "this part" for "this subpart".
 
-Pub. L. 111–148, §5202(a), substituted “$3,300” for “$2,500”, “$5,200” for “$4,000”, and “$17,000 in the case of any student during fiscal years 2010 and 2011. After fiscal year 2011, such amounts shall be adjusted to provide for a cost-of-attendance increase for the yearly loan rate and the aggregate of the loans.” for “$13,000 in the case of any student.”
+Pub. L. 111–148, §5202(a), substituted "$3,300" for "$2,500", "$5,200" for "$4,000", and "$17,000 in the case of any student during fiscal years 2010 and 2011. After fiscal year 2011, such amounts shall be adjusted to provide for a cost-of-attendance increase for the yearly loan rate and the aggregate of the loans." for "$13,000 in the case of any student."
 
-Subsec. (b)(1)(C). Pub. L. 111–148, §5202(b)(1), substituted “2000” for “1986”.
+Subsec. (b)(1)(C). Pub. L. 111–148, §5202(b)(1), substituted "2000" for "1986".
 
-Subsec. (b)(3). Pub. L. 111–148, §5202(b)(2), substituted “September 29, 1995” for “September 29, 1979”.
+Subsec. (b)(3). Pub. L. 111–148, §5202(b)(2), substituted "September 29, 1995" for "September 29, 1979".
 
-Subsecs. (b)(7), (d) to (g). Pub. L. 111–148, §5310(b)(2), substituted “this part” for “this subpart”.
+Subsecs. (b)(7), (d) to (g). Pub. L. 111–148, §5310(b)(2), substituted "this part" for "this subpart".
 
-Subsec. (h). Pub. L. 111–148, §5310(b)(3), struck out concluding provisions which read as follows: “Nothing in this subsection shall be construed to prevent any person from entering into an agreement for loan cancellation under subsection (h) of this section (as amended by section 6(b)(2) of the Nurse Training Act of 1971).”
+Subsec. (h). Pub. L. 111–148, §5310(b)(3), struck out concluding provisions which read as follows: "Nothing in this subsection shall be construed to prevent any person from entering into an agreement for loan cancellation under subsection (h) of this section (as amended by section 6(b)(2) of the Nurse Training Act of 1971)."
 
-Pub. L. 111–148, §5310(b)(2), substituted “this part” for “this subpart” in two places.
+Pub. L. 111–148, §5310(b)(2), substituted "this part" for "this subpart" in two places.
 
-Subsec. (j). Pub. L. 111–148, §5310(b)(2), substituted “this part” for “this subpart” wherever appearing.
+Subsec. (j). Pub. L. 111–148, §5310(b)(2), substituted "this part" for "this subpart" wherever appearing.
 
 Subsecs. (k), (l). Pub. L. 111–148, §5310(b)(4), redesignated subsec. (l) as (k).
 
-Subsec. (l)(2). Pub. L. 111–148, §5310(b)(2), substituted “this part” for “this subpart”.
+Subsec. (l)(2). Pub. L. 111–148, §5310(b)(2), substituted "this part" for "this subpart".
 
 **1998**—Subsec. (b)(1). Pub. L. 105–392, §133(a)(1), substituted semicolon for period at end.
 
@@ -116,23 +116,23 @@ Subsec. (b)(2)(C). Pub. L. 105–392, §133(a)(2), added subpar. (C).
 
 Subsec. (b)(8). Pub. L. 105–392, §133(a)(3), (4), added par. (8).
 
-Subsec. (g). Pub. L. 105–392, §133(b), substituted “$40” for “$15”.
+Subsec. (g). Pub. L. 105–392, §133(b), substituted "$40" for "$15".
 
 Subsec. (l). Pub. L. 105–392, §133(c)(1), added subsec. (l).
 
 **1992**—Subsecs. (h) to (k). Pub. L. 102–408 redesignated subsecs. (i) to (k) as (h) to (j), respectively, and struck out former subsec. (h) which provided for a loan repayment program. See section 297n of this title.
 
-**1989**—Subsec. (h)(6)(C). Pub. L. 101–93 substituted “means a skilled nursing facility, as such term is defined in section 1395x(j) of this title, and an intermediate care facility, as such term is defined in section 1396d(c) of this title” for “means an intermediate care facility and a skilled nursing facility, as such terms are defined in subsections (c) and (i), respectively, of section 1396d of this title”.
+**1989**—Subsec. (h)(6)(C). Pub. L. 101–93 substituted "means a skilled nursing facility, as such term is defined in section 1395x(j) of this title, and an intermediate care facility, as such term is defined in section 1396d(c) of this title" for "means an intermediate care facility and a skilled nursing facility, as such terms are defined in subsections (c) and (i), respectively, of section 1396d of this title".
 
-**1988**—Subsec. (a). Pub. L. 100–607, §713(b), (c), inserted in first sentence “, except that for the final two academic years of the program involved, such total may not exceed $4,000”, substituted “$13,000” for “$10,000” in second sentence, and inserted “, to persons with exceptional financial need,” after “nurses” in third sentence.
+**1988**—Subsec. (a). Pub. L. 100–607, §713(b), (c), inserted in first sentence ", except that for the final two academic years of the program involved, such total may not exceed $4,000", substituted "$13,000" for "$10,000" in second sentence, and inserted ", to persons with exceptional financial need," after "nurses" in third sentence.
 
-Subsec. (b)(1)(C). Pub. L. 100–607, §713(d), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “if a student who will enroll in the school after June 30, 1986, is of exceptional financial need (as defined by regulations of the Secretary)”.
+Subsec. (b)(1)(C). Pub. L. 100–607, §713(d), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "if a student who will enroll in the school after June 30, 1986, is of exceptional financial need (as defined by regulations of the Secretary)".
 
-Subsec. (b)(2)(B). Pub. L. 100–607, §713(e), substituted “ten” for “five” and inserted “or half-time” after “a full-time”.
+Subsec. (b)(2)(B). Pub. L. 100–607, §713(e), substituted "ten" for "five" and inserted "or half-time" after "a full-time".
 
-Subsec. (b)(5). Pub. L. 100–607, §713(f), substituted “5 percent” for “6 per centum”.
+Subsec. (b)(5). Pub. L. 100–607, §713(f), substituted "5 percent" for "6 per centum".
 
-Subsec. (h)(1)(C). Pub. L. 100–607, §714(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “who enters into an agreement with the Secretary to serve as a nurse for a period of at least two years in an area in a State determined by the Secretary, after consultation with the appropriate State health authority (as determined by the Secretary by regulations), to have a shortage of and need for nurses;”.
+Subsec. (h)(1)(C). Pub. L. 100–607, §714(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "who enters into an agreement with the Secretary to serve as a nurse for a period of at least two years in an area in a State determined by the Secretary, after consultation with the appropriate State health authority (as determined by the Secretary by regulations), to have a shortage of and need for nurses;".
 
 Subsecs. (h)(5), (6). Pub. L. 100–607, §714(b), (c), added pars. (5) and (6).
 
@@ -140,33 +140,33 @@ Subsec. (j)(2) to (4). Pub. L. 100–607, §713(g), redesignated par. (4) as (3)
 
 **1985**—Subsec. (b)(1). Pub. L. 99–92, §8(b), which directed that cl. (C) be inserted before period, was executed by inserting cl. (C) before the semicolon as the probable intent of Congress.
 
-Subsec. (f). Pub. L. 99–92, §8(c), substituted “the Secretary and in accordance with this section, a school shall” for “the Secretary, a school may”, and substituted provisions relating to charges not allowed in certain cases and allowed where payment is late for provisions relating to maximum amount of late charges.
+Subsec. (f). Pub. L. 99–92, §8(c), substituted "the Secretary and in accordance with this section, a school shall" for "the Secretary, a school may", and substituted provisions relating to charges not allowed in certain cases and allowed where payment is late for provisions relating to maximum amount of late charges.
 
 Subsec. (k). Pub. L. 99–92, §8(d), added subsec. (k).
 
-**1981**—Subsec. (b)(5). Pub. L. 97–35 substituted “6” for “3”.
+**1981**—Subsec. (b)(5). Pub. L. 97–35 substituted "6" for "3".
 
 **1979**—Subsec. (b)(3). Pub. L. 96–76 inserted provisions requiring conditions to be applicable to loans arising prior to Sept. 29, 1979.
 
-**1975**—Subsec. (a). Pub. L. 94–63, §941(h)(1), substituted “subpart” for “part”.
+**1975**—Subsec. (a). Pub. L. 94–63, §941(h)(1), substituted "subpart" for "part".
 
-Subsec. (b). Pub. L. 94–63, §941(h)(2), struck out “of Health, Education, and Welfare” after “Secretary”.
+Subsec. (b). Pub. L. 94–63, §941(h)(2), struck out "of Health, Education, and Welfare" after "Secretary".
 
-Subsec. (b)(2)(B). Pub. L. 94–63, §936(b), inserted “(or training to be a nurse anesthetist)” after “professional training in nursing”.
+Subsec. (b)(2)(B). Pub. L. 94–63, §936(b), inserted "(or training to be a nurse anesthetist)" after "professional training in nursing".
 
-Subsec. (b)(7). Pub. L. 94–63, §941(h)(1), substituted “subpart” for “part”.
+Subsec. (b)(7). Pub. L. 94–63, §941(h)(1), substituted "subpart" for "part".
 
-Subsec. (c). Pub. L. 94–63, §941(h)(2), struck out “of Health, Education, and Welfare” after “Secretary”.
+Subsec. (c). Pub. L. 94–63, §941(h)(2), struck out "of Health, Education, and Welfare" after "Secretary".
 
-Subsecs. (d) to (i). Pub. L. 94–63, §941(h)(1), substituted “subpart” for “part” whenever appearing.
+Subsecs. (d) to (i). Pub. L. 94–63, §941(h)(1), substituted "subpart" for "part" whenever appearing.
 
 Subsec. (j). Pub. L. 94–63, §941(h)(5), added subsec. (j), formerly classified as section 297i of this title pursuant to enactment as section 830 of act July 1, 1944, ch. 373. Section 941(h)(5)(A) of Pub. L. 94–63 transferred such former section to this section and section 941(h)(5)(B) redesignated provision as subsec. (j).
 
-**1971**—Subsec. (a). Pub. L. 92–158, §6(a), substituted “$2,500” for “$1,500” and “$10,000” for “$60,000”.
+**1971**—Subsec. (a). Pub. L. 92–158, §6(a), substituted "$2,500" for "$1,500" and "$10,000" for "$60,000".
 
-Subsec. (b)(1). Pub. L. 92–158, §6(e), substituted “full-time or half-time course of study” for “full-time course of study”.
+Subsec. (b)(1). Pub. L. 92–158, §6(e), substituted "full-time or half-time course of study" for "full-time course of study".
 
-Subsec. (b)(2). Pub. L. 92–158, §6(e), in text preceding cl. (A), substituted “full-time or half-time course of study” for “full-time course of study”.
+Subsec. (b)(2). Pub. L. 92–158, §6(e), in text preceding cl. (A), substituted "full-time or half-time course of study" for "full-time course of study".
 
 Subsec. (b)(3). Pub. L. 92–158, §6(b)(1)(A), substituted provisions cancelling up to 85 per centum of loan, for provisions cancelling up to 50 per centum of loan, where borrower holds full-time employment as a professional nurse, added to areas of possible employment under this par. by inserting reference to any public or nonprofit organization including neighborhood health centers, substituted, with regard to the rate of cancellation of loan, the rate of 15 per centum of the amount unpaid on the first day of service, continuing at such rate with each of the first, second and third complete years of such service and 20 per centum of such amount with each complete fourth and fifth year of service for the rate of 10 per centum of the amount unpaid on the first day of service and to continue with each complete year of service, and struck out reference to 15 per centum rate of cancellation per complete year of service plus, for the purpose of such higher rate, the cancellation of an additional 50 per centum of such loan where such service is in a public or nonprofit hospital in any area which is determined, in accordance with the regulations of the Secretary, to be in an area having a substantial shortage of such nurses at such hospitals.
 
@@ -186,7 +186,7 @@ Subsecs. (f), (g). Pub. L. 90–490, §222(c)(1), added subsecs. (f) and (g).
 
 #### Effective Date of 1998 Amendment ####
 
-Pub. L. 105–392, title I, §133(c)(2), Nov. 13, 1998, 112 Stat. 3576, provided that: “The amendment made by paragraph (1) [amending this section] shall be effective with respect to actions pending on or after the date of enactment of this Act [Nov. 13, 1998].”
+Pub. L. 105–392, title I, §133(c)(2), Nov. 13, 1998, 112 Stat. 3576, provided that: "The amendment made by paragraph (1) [amending this section] shall be effective with respect to actions pending on or after the date of enactment of this Act [Nov. 13, 1998]."
 
 #### Effective Date of 1985 Amendment ####
 
@@ -204,10 +204,10 @@ Pub. L. 92–158, §6(a)(1), Nov. 18, 1971, 85 Stat. 475, provided that the amen
 
 #### Effective Date of 1968 Amendment ####
 
-Pub. L. 90–490, title II, §222(i), Aug. 16, 1968, 82 Stat. 785, provided that: “The amendments made by subsection (b)(1) and (2) [amending this section] shall apply with respect to all loans made after June 30, 1969, and with respect to loans made from a student loan fund established under an agreement pursuant to section 822 [now 835] [42 U.S.C. 297a], before July 1, 1969, to the extent agreed to by the school which made the loans and the Secretary (but then only for years beginning after June 30, 1968). The amendments made by subsection (b)(4) [amending this section] and subsection (c) [amending this section and section 297a of this title] shall apply with respect to loans made after June 30, 1969. The amendment made by subsection (h) [enacting section 297h of this title] shall apply with respect to appropriations for fiscal years beginning after June 30, 1969. The amendment made by subsection (b)(3) [amending this section] shall apply with respect to service, specified in section 823(b)(3) [now 836(b)(3)] of such Act [42 U.S.C. 297b(b)(3)] performed during academic years beginning after the enactment of this Act, whether the loan was made before or after such enactment [Aug. 16, 1968].”
+Pub. L. 90–490, title II, §222(i), Aug. 16, 1968, 82 Stat. 785, provided that: "The amendments made by subsection (b)(1) and (2) [amending this section] shall apply with respect to all loans made after June 30, 1969, and with respect to loans made from a student loan fund established under an agreement pursuant to section 822 [now 835] [42 U.S.C. 297a], before July 1, 1969, to the extent agreed to by the school which made the loans and the Secretary (but then only for years beginning after June 30, 1968). The amendments made by subsection (b)(4) [amending this section] and subsection (c) [amending this section and section 297a of this title] shall apply with respect to loans made after June 30, 1969. The amendment made by subsection (h) [enacting section 297h of this title] shall apply with respect to appropriations for fiscal years beginning after June 30, 1969. The amendment made by subsection (b)(3) [amending this section] shall apply with respect to service, specified in section 823(b)(3) [now 836(b)(3)] of such Act [42 U.S.C. 297b(b)(3)] performed during academic years beginning after the enactment of this Act, whether the loan was made before or after such enactment [Aug. 16, 1968]."
 
 #### Construction of 1992 Amendment ####
 
-Pub. L. 102–408, title II, §211(b), Oct. 13, 1992, 106 Stat. 2079, provided that: “With respect to section 836(h) of the Public Health Service Act [former 42 U.S.C. 297b(h)], as in effect prior to the date of the enactment of this Act [Oct. 13, 1992], any agreement entered into under such section that is in effect on the day before such date remains in effect in accordance with the terms of the agreement, notwithstanding the amendment made by subsection (a) of this section [enacting section 297n of this title, amending this section, and repealing section 297c–1 of this title].”
+Pub. L. 102–408, title II, §211(b), Oct. 13, 1992, 106 Stat. 2079, provided that: "With respect to section 836(h) of the Public Health Service Act [former 42 U.S.C. 297b(h)], as in effect prior to the date of the enactment of this Act [Oct. 13, 1992], any agreement entered into under such section that is in effect on the day before such date remains in effect in accordance with the terms of the agreement, notwithstanding the amendment made by subsection (a) of this section [enacting section 297n of this title, amending this section, and repealing section 297c–1 of this title]."
 
 [<sup>1</sup> So in original.](#297b_1)

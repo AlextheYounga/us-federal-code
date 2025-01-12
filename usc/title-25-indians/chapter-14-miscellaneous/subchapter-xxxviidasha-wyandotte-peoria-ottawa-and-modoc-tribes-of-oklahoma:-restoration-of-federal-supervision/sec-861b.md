@@ -16,6 +16,6 @@ Promptly after organization of the Modoc Tribe of Oklahoma, the Secretary of the
 
 #### References in Text ####
 
-This subchapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 95–281, May 15, 1978, 92 Stat. 246, which enacted this subchapter and repealed subchapter XXXV (§791 et seq.), subchapter XXXVI (§821 et seq.), and subchapter XXXVII (§841 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.
+This subchapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 95–281, May 15, 1978, 92 Stat. 246, which enacted this subchapter and repealed subchapter XXXV (§791 et seq.), subchapter XXXVI (§821 et seq.), and subchapter XXXVII (§841 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.
 
 Act of January 2, 1975, referred to in text, is Pub. L. 93–588, Jan. 2, 1975, 88 Stat. 1920, and is not classified to this Code. The provisos in section 2 of such Act relate to right or interest in tribal land of the enumerated tribes.

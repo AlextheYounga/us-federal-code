@@ -79,8 +79,8 @@ Chapter Sec.
 
 **2001**—Pub. L. 107–71, title I, §118(c)(2), Nov. 19, 2001, 115 Stat. 628, added item for chapter 483.
 
-**1997**—Pub. L. 105–102, §2(20), Nov. 20, 1997, 111 Stat. 2205, substituted “PUBLIC AIRPORTS” for “RESERVED” in item for part D and added item for chapter 491.
+**1997**—Pub. L. 105–102, §2(20), Nov. 20, 1997, 111 Stat. 2205, substituted "PUBLIC AIRPORTS" for "RESERVED" in item for part D and added item for chapter 491.
 
-**1996**—Pub. L. 104–287, §5(64), Oct. 11, 1996, 110 Stat. 3395, substituted “RESERVED” for “MISCELLANEOUS” in item for part D, struck out item for chapter 491 “Buy-American Preferences”, and added items for part E and chapter 501.
+**1996**—Pub. L. 104–287, §5(64), Oct. 11, 1996, 110 Stat. 3395, substituted "RESERVED" for "MISCELLANEOUS" in item for part D, struck out item for chapter 491 "Buy-American Preferences", and added items for part E and chapter 501.
 
 Pub. L. 104–264, title II, §277(b), Oct. 9, 1996, 110 Stat. 3248, added item for chapter 482.

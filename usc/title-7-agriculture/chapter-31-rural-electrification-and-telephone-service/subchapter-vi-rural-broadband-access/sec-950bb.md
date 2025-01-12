@@ -10,17 +10,17 @@ In this section:
 
 #### (1) Broadband service ####
 
-The term “broadband service” means any technology identified by the Secretary as having the capacity to transmit data to enable a subscriber to the service to originate and receive high-quality voice, data, graphics, and video.
+The term "broadband service" means any technology identified by the Secretary as having the capacity to transmit data to enable a subscriber to the service to originate and receive high-quality voice, data, graphics, and video.
 
 #### (2) Incumbent service provider ####
 
-The term “incumbent service provider”, with respect to an application submitted under this section, means an entity that, as of the date of submission of the application, is providing broadband service to not less than 5 percent of the households in the service territory proposed in the application.
+The term "incumbent service provider", with respect to an application submitted under this section, means an entity that, as of the date of submission of the application, is providing broadband service to not less than 5 percent of the households in the service territory proposed in the application.
 
 #### (3) Rural area ####
 
 #### (A) In general ####
 
-The term “rural area” means any area other than—
+The term "rural area" means any area other than—
 
 (i) an area described in clause (i) or (ii) of section 1991(a)(13)(A) of this title; and
 
@@ -366,17 +366,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments ####
 
-**2014**—Subsec. (c)(2). Pub. L. 113–79, §6104(a)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “In making or guaranteeing loans under paragraph (1), the Secretary shall give the highest priority to applicants that offer to provide broadband service to the greatest proportion of households that, prior to the provision of the broadband service, had no incumbent service provider.”
+**2014**—Subsec. (c)(2). Pub. L. 113–79, §6104(a)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "In making or guaranteeing loans under paragraph (1), the Secretary shall give the highest priority to applicants that offer to provide broadband service to the greatest proportion of households that, prior to the provision of the broadband service, had no incumbent service provider."
 
-Subsec. (d)(1)(A)(i). Pub. L. 113–79, §6104(a)(2)(A), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “demonstrate the ability to furnish, improve, or extend a broadband service to a rural area;”.
+Subsec. (d)(1)(A)(i). Pub. L. 113–79, §6104(a)(2)(A), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: "demonstrate the ability to furnish, improve, or extend a broadband service to a rural area;".
 
-Subsec. (d)(2)(A)(i). Pub. L. 113–79, §6104(a)(2)(B)(i), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “not less than 25 percent of the households in the proposed service territory is offered broadband service by not more than 1 incumbent service provider; and”.
+Subsec. (d)(2)(A)(i). Pub. L. 113–79, §6104(a)(2)(B)(i), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: "not less than 25 percent of the households in the proposed service territory is offered broadband service by not more than 1 incumbent service provider; and".
 
-**2014**—Subsec. (d)(2)(B). Pub. L. 113–79, §6104(a)(2)(B)(ii), struck out “25” before “percent” in heading.
+**2014**—Subsec. (d)(2)(B). Pub. L. 113–79, §6104(a)(2)(B)(ii), struck out "25" before "percent" in heading.
 
-Subsec. (d)(2)(C). Pub. L. 113–79, §6104(a)(2)(B)(iii)(I), struck out “3 or more” before “incumbent” in heading.
+Subsec. (d)(2)(C). Pub. L. 113–79, §6104(a)(2)(B)(iii)(I), struck out "3 or more" before "incumbent" in heading.
 
-Subsec. (d)(2)(C)(i). Pub. L. 113–79, §6104(a)(2)(B)(iii)(II), added cl. (i) and struck out former cl.(i). Prior to amendment, text read as follows: “Except as provided in clause (ii), subparagraph (A)(ii) shall not apply to an incumbent service provider that is upgrading broadband service to the existing territory of the incumbent service provider.”
+Subsec. (d)(2)(C)(i). Pub. L. 113–79, §6104(a)(2)(B)(iii)(II), added cl. (i) and struck out former cl.(i). Prior to amendment, text read as follows: "Except as provided in clause (ii), subparagraph (A)(ii) shall not apply to an incumbent service provider that is upgrading broadband service to the existing territory of the incumbent service provider."
 
 Subsec. (d)(3)(B)(iii). Pub. L. 113–79, §6104(a)(2)(C), added cl. (iii).
 
@@ -384,56 +384,56 @@ Subsec. (d)(5). Pub. L. 113–79, §6104(a)(2)(D), added par. (5) and struck out
 
 Subsec. (d)(8) to (10). Pub. L. 113–79, §6104(a)(2)(E), added pars. (8) to (10).
 
-Subsec. (e). Pub. L. 113–79, §6104(a)(3), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out former par. (1) which read as follows: “The Secretary shall, from time to time as advances in technology warrant, review and recommend modifications of rate-of-data transmission criteria for purposes of the identification of broadband service technologies under subsection (b)(1).”
+Subsec. (e). Pub. L. 113–79, §6104(a)(3), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out former par. (1) which read as follows: "The Secretary shall, from time to time as advances in technology warrant, review and recommend modifications of rate-of-data transmission criteria for purposes of the identification of broadband service technologies under subsection (b)(1)."
 
-Subsec. (g)(2). Pub. L. 113–79, §6104(a)(4), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “In determining the term of a loan or loan guarantee, the Secretary shall consider whether the recipient is or would be serving an area that is not receiving broadband services.”
+Subsec. (g)(2). Pub. L. 113–79, §6104(a)(4), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "In determining the term of a loan or loan guarantee, the Secretary shall consider whether the recipient is or would be serving an area that is not receiving broadband services."
 
-Subsec. (j)(1). Pub. L. 113–79, §6104(a)(5)(A), inserted “, including any loan terms or conditions for which the Secretary provided additional assistance to unserved areas” before semicolon at end.
+Subsec. (j)(1). Pub. L. 113–79, §6104(a)(5)(A), inserted ", including any loan terms or conditions for which the Secretary provided additional assistance to unserved areas" before semicolon at end.
 
 Subsec. (j)(7). Pub. L. 113–79, §6104(a)(5)(B)–(D), added par. (7).
 
-Subsecs. (k)(1), (l). Pub. L. 113–79, §6104(a)(6), substituted “2018” for “2012”.
+Subsecs. (k)(1), (l). Pub. L. 113–79, §6104(a)(6), substituted "2018" for "2012".
 
 **2008**—Pub. L. 110–246, §6110(a), amended section generally, substituting provisions authorizing loans and loan guarantees for the costs of construction, improvement, and acquisition of facilities and equipment for broadband service in rural areas and terminating such authority on Sept. 30, 2012, for provisions authorizing similar loans and loan guarantees and terminating such authority on Sept. 30, 2007.
 
-**2004**—Subsec. (b)(2). Pub. L. 108–199 amended heading and text of subsec. (b)(2) generally. Prior to amendment, text read as follows: “The term ‘eligible rural community’ means any incorporated or unincorporated place that—
+**2004**—Subsec. (b)(2). Pub. L. 108–199 amended heading and text of subsec. (b)(2) generally. Prior to amendment, text read as follows: "The term 'eligible rural community' means any incorporated or unincorporated place that—
 
-“(A) has not more than 20,000 inhabitants, based on the most recent available population statistics of the Bureau of the Census; and
+"(A) has not more than 20,000 inhabitants, based on the most recent available population statistics of the Bureau of the Census; and
 
-“(B) is not located in an area designated as a standard metropolitan statistical area.”
+"(B) is not located in an area designated as a standard metropolitan statistical area."
 
 #### Effective Date of 2008 Amendment ####
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-Pub. L. 110–234, title VI, §6110(c), May 22, 2008, 122 Stat. 1203, and Pub. L. 110–246, §4(a), title VI, §6110(c), June 18, 2008, 122 Stat. 1664, 1964, provided that: “The amendment made by subsection (a) [amending this section] shall not apply to—
+Pub. L. 110–234, title VI, §6110(c), May 22, 2008, 122 Stat. 1203, and Pub. L. 110–246, §4(a), title VI, §6110(c), June 18, 2008, 122 Stat. 1664, 1964, provided that: "The amendment made by subsection (a) [amending this section] shall not apply to—
 
-“(1) an application submitted under section 601 of the Rural Electrification Act of 1936 (7 U.S.C. 950bb) (as it existed before the amendment made by subsection (a)) that—
+"(1) an application submitted under section 601 of the Rural Electrification Act of 1936 (7 U.S.C. 950bb) (as it existed before the amendment made by subsection (a)) that—
 
-“(A) was pending on the date that is 45 days prior to the date of enactment of this Act [June 18, 2008]; and
+"(A) was pending on the date that is 45 days prior to the date of enactment of this Act [June 18, 2008]; and
 
-“(B) is pending on the date of enactment of this Act [June 18, 2008]; or
+"(B) is pending on the date of enactment of this Act [June 18, 2008]; or
 
-“(2) a petition for reconsideration of a decision on an application described in paragraph (1).”
+"(2) a petition for reconsideration of a decision on an application described in paragraph (1)."
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
 #### Regulations ####
 
-Pub. L. 110–234, title VI, §6110(b), May 22, 2008, 122 Stat. 1203, and Pub. L. 110–246, §4(a), title VI, §6110(b), June 18, 2008, 122 Stat. 1664, 1964, provided that: “The Secretary [of Agriculture] may implement the amendment made by subsection (a) [amending this section] through the promulgation of an interim regulation.”
+Pub. L. 110–234, title VI, §6110(b), May 22, 2008, 122 Stat. 1203, and Pub. L. 110–246, §4(a), title VI, §6110(b), June 18, 2008, 122 Stat. 1664, 1964, provided that: "The Secretary [of Agriculture] may implement the amendment made by subsection (a) [amending this section] through the promulgation of an interim regulation."
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
 Pub. L. 107–171, title VI, §6103(b), May 13, 2002, 116 Stat. 418, provided that:
 
-“(1) In general.—Not later than 180 days after the date of enactment of this Act [May 13, 2002], the Secretary of Agriculture shall promulgate such regulations as are necessary to implement the amendment made by subsection (a) [enacting this section].
+"(1) In general.—Not later than 180 days after the date of enactment of this Act [May 13, 2002], the Secretary of Agriculture shall promulgate such regulations as are necessary to implement the amendment made by subsection (a) [enacting this section].
 
-“(2) Procedure.—The promulgation of the regulations shall be made without regard to—
+"(2) Procedure.—The promulgation of the regulations shall be made without regard to—
 
-“(A) the notice and comment provisions of section 553 of title 5, United States Code;
+"(A) the notice and comment provisions of section 553 of title 5, United States Code;
 
-“(B) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and
+"(B) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and
 
-“(C) chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’).
+"(C) chapter 35 of title 44, United States Code (commonly known as the 'Paperwork Reduction Act').
 
-“(3) Congressional review of agency rulemaking.—In carrying out this subsection, the Secretary shall use the authority provided under section 808 of title 5, United States Code.”
+"(3) Congressional review of agency rulemaking.—In carrying out this subsection, the Secretary shall use the authority provided under section 808 of title 5, United States Code."

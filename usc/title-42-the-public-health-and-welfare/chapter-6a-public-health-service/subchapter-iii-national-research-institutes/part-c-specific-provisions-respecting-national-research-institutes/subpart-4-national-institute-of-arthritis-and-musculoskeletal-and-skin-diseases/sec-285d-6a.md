@@ -28,7 +28,7 @@ In carrying out subsection (a) of this section, the Director of the Institute sh
 
 #### Amendments ####
 
-**2007**—Subsec. (d). Pub. L. 109–482 struck out heading and text of subsec. (d). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2003.”
+**2007**—Subsec. (d). Pub. L. 109–482 struck out heading and text of subsec. (d). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2003."
 
 #### Effective Date of 2007 Amendment ####
 
@@ -36,24 +36,24 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 
 #### Findings ####
 
-Pub. L. 106–505, title V, §502, Nov. 13, 2000, 114 Stat. 2342, provided that: “The Congress finds that—
+Pub. L. 106–505, title V, §502, Nov. 13, 2000, 114 Stat. 2342, provided that: "The Congress finds that—
 
-“(1) lupus is a serious, complex, inflammatory, autoimmune disease of particular concern to women;
+"(1) lupus is a serious, complex, inflammatory, autoimmune disease of particular concern to women;
 
-“(2) lupus affects women nine times more often than men;
+"(2) lupus affects women nine times more often than men;
 
-“(3) there are three main types of lupus: systemic lupus, a serious form of the disease that affects many parts of the body; discoid lupus, a form of the disease that affects mainly the skin; and drug-induced lupus caused by certain medications;
+"(3) there are three main types of lupus: systemic lupus, a serious form of the disease that affects many parts of the body; discoid lupus, a form of the disease that affects mainly the skin; and drug-induced lupus caused by certain medications;
 
-“(4) lupus can be fatal if not detected and treated early;
+"(4) lupus can be fatal if not detected and treated early;
 
-“(5) the disease can simultaneously affect various areas of the body, such as the skin, joints, kidneys, and brain, and can be difficult to diagnose because the symptoms of lupus are similar to those of many other diseases;
+"(5) the disease can simultaneously affect various areas of the body, such as the skin, joints, kidneys, and brain, and can be difficult to diagnose because the symptoms of lupus are similar to those of many other diseases;
 
-“(6) lupus disproportionately affects African-American women, as the prevalence of the disease among such women is three times the prevalence among white women, and an estimated 1 in 250 African-American women between the ages of 15 and 65 develops the disease;
+"(6) lupus disproportionately affects African-American women, as the prevalence of the disease among such women is three times the prevalence among white women, and an estimated 1 in 250 African-American women between the ages of 15 and 65 develops the disease;
 
-“(7) it has been estimated that between 1,400,000 and 2,000,000 Americans have been diagnosed with the disease, and that many more have undiagnosed cases;
+"(7) it has been estimated that between 1,400,000 and 2,000,000 Americans have been diagnosed with the disease, and that many more have undiagnosed cases;
 
-“(8) current treatments for the disease can be effective, but may lead to damaging side effects;
+"(8) current treatments for the disease can be effective, but may lead to damaging side effects;
 
-“(9) many victims of the disease suffer debilitating pain and fatigue, making it difficult to maintain employment and lead normal lives; and
+"(9) many victims of the disease suffer debilitating pain and fatigue, making it difficult to maintain employment and lead normal lives; and
 
-“(10) in fiscal year 1996, the amount allocated by the National Institutes of Health for research on lupus was $33,000,000, which is less than one-half of 1 percent of the budget for such Institutes.”
+"(10) in fiscal year 1996, the amount allocated by the National Institutes of Health for research on lupus was $33,000,000, which is less than one-half of 1 percent of the budget for such Institutes."

@@ -68,7 +68,7 @@ Court for the Southern Division shall be held at Mobile.
 
 Based on title 28, U.S.C., 1940 ed. §142 (Mar. 3, 1911, ch. 231, §70, 36 Stat. 1105; Feb. 28, 1913, ch. 89, 37 Stat. 698; June 27, 1922, ch. 247, 42 Stat. 667).
 
-Provisions relating to the places for the maintenance of the clerks’ offices were omitted as covered by section 751 of this title, providing that deputy clerks may be designated to reside and maintain offices at such places for holding court as the judge may determine.
+Provisions relating to the places for the maintenance of the clerks' offices were omitted as covered by section 751 of this title, providing that deputy clerks may be designated to reside and maintain offices at such places for holding court as the judge may determine.
 
 Provisions that the offices of the court shall be kept open at all times were omitted as covered by section 452 of this title.
 

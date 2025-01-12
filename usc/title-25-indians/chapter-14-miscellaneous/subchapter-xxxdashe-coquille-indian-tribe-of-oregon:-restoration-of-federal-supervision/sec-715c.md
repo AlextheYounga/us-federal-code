@@ -18,11 +18,11 @@ Any real property taken into trust for the benefit of the Tribe under this secti
 
 In this subsection:
 
-(A) the <sup><a href="#715c_1_target" name="715c_1">1</a></sup> term “Coquille Forest” means certain lands in Coos County, Oregon, comprising approximately 5,400 acres, as generally depicted on the map entitled “Coquille Forest Proposal”, dated July 8, 1996.
+(A) the <sup><a href="#715c_1_target" name="715c_1">1</a></sup> term "Coquille Forest" means certain lands in Coos County, Oregon, comprising approximately 5,400 acres, as generally depicted on the map entitled "Coquille Forest Proposal", dated July 8, 1996.
 
-(B) the <sup><a href="#715c_1_target" name="715c_1">1</a></sup> term “Secretary” means the Secretary of the Interior.
+(B) the <sup><a href="#715c_1_target" name="715c_1">1</a></sup> term "Secretary" means the Secretary of the Interior.
 
-(C) the <sup><a href="#715c_1_target" name="715c_1">1</a></sup> term “the Tribe” means the Coquille Tribe of Coos County, Oregon.
+(C) the <sup><a href="#715c_1_target" name="715c_1">1</a></sup> term "the Tribe" means the Coquille Tribe of Coos County, Oregon.
 
 #### (2) Map ####
 
@@ -42,7 +42,7 @@ From September 30, 1996, until two years after September 30, 1996, the Bureau of
 
 (B) Two years after September 30, 1996, the Secretary shall take the lands identified under subparagraph (d)(1)(A) into trust, and shall hold such lands in trust, in perpetuity, for the Coquille Tribe. Such lands shall be thereafter designated as the Coquille Forest.
 
-(C) So as to maintain the current flow of revenue from land subject to the Act entitled “An Act relating to the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant land situated in the State of Oregon” (the O&C Act), approved August 28, 1937 (43 U.S.C. 1181a et seq.), the Secretary shall redesignate, from public domain lands within the tribe's service area, as defined in this subchapter, certain lands to be subject to the O&C Act. Lands redesignated under this subparagraph shall not exceed lands sufficient to constitute equivalent timber value as compared to lands constituting the Coquille Forest.
+(C) So as to maintain the current flow of revenue from land subject to the Act entitled "An Act relating to the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant land situated in the State of Oregon" (the O&C Act), approved August 28, 1937 (43 U.S.C. 1181a et seq.), the Secretary shall redesignate, from public domain lands within the tribe's service area, as defined in this subchapter, certain lands to be subject to the O&C Act. Lands redesignated under this subparagraph shall not exceed lands sufficient to constitute equivalent timber value as compared to lands constituting the Coquille Forest.
 
 #### (5) Management ####
 
@@ -124,7 +124,7 @@ In the event of a conflict between Federal and State law under this subsection, 
 
 Act of June 18, 1934, referred to in subsec. (a), popularly known as the Indian Reorganization Act, is classified generally to subchapter V (§461 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 
-The Act entitled “An Act relating to the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant land situated in the State of Oregon” (the O&C Act), approved August 28, 1937 (43 U.S.C. 1181a et seq.), referred to in subsec. (d)(4)(C), is act Aug. 28, 1937, ch. 876, 50 Stat. 874, which enacted sections 1181a to 1181f of Title 43, Public Lands, repealed section 1174 of Title 43, and enacted provisions set out as a note under section 1181a of Title 43. For complete classification of this Act to the Code, see Tables.
+The Act entitled "An Act relating to the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant land situated in the State of Oregon" (the O&C Act), approved August 28, 1937 (43 U.S.C. 1181a et seq.), referred to in subsec. (d)(4)(C), is act Aug. 28, 1937, ch. 876, 50 Stat. 874, which enacted sections 1181a to 1181f of Title 43, Public Lands, repealed section 1174 of Title 43, and enacted provisions set out as a note under section 1181a of Title 43. For complete classification of this Act to the Code, see Tables.
 
 The Endangered Species Act, referred to in subsec. (d)(5), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
@@ -144,16 +144,16 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 [<sup>2</sup> So in original. The comma probably should not appear.](#715c_2)
 
-[<sup>3</sup> So in original. Probably should be followed by “the”.](#715c_3)
+[<sup>3</sup> So in original. Probably should be followed by "the".](#715c_3)
 
 [<sup>4</sup> So in original. Probably should not be capitalized.](#715c_4)
 
-[<sup>5</sup> So in original. Probably should be paragraph “(7)”.](#715c_5)
+[<sup>5</sup> So in original. Probably should be paragraph "(7)".](#715c_5)
 
 [<sup>6</sup> So in original. The semicolon probably should be a colon.](#715c_6)
 
-[<sup>7</sup> So in original. Probably should be “extent”.](#715c_7)
+[<sup>7</sup> So in original. Probably should be "extent".](#715c_7)
 
-[<sup>8</sup> So in original. Probably should be “paragraph (10)”.](#715c_8)
+[<sup>8</sup> So in original. Probably should be "paragraph (10)".](#715c_8)
 
-[<sup>9</sup> So in original. Probably should be “is”.](#715c_9)
+[<sup>9</sup> So in original. Probably should be "is".](#715c_9)

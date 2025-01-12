@@ -8,9 +8,9 @@ With the purpose of preventing damage to the shores and beaches of the United St
 
 The Federal contribution in the case of any project referred to in subsection (a) of this section shall not exceed one-half of the cost of the project, and the remainder shall be paid by the State, municipality, or other political subdivision in which the project is located, except that (1) the costs allocated to the restoration and protection of Federal property shall be borne fully by the Federal Government, (2) Federal participation in the cost of a project for restoration and protection of State, county, and other publicly owned shore parks and conservation areas may be, in the discretion of the Chief of Engineers, not more than 70 per centum of the total cost exclusive of land costs, when such areas: Include a zone which excludes permanent human habitation; include but are not limited to recreational beaches; satisfy adequate criteria for conservation and development of the natural resources of the environment; extend landward a sufficient distance to include, where appropriate, protective dunes, bluffs, or other natural features which serve to protect the uplands from damage; and provide essentially full park facilities for appropriate public use, all of which shall meet with the approval of the Chief of Engineers, and (3) Federal participation in the cost of a project providing hurricane protection may be, in the discretion of the Secretary <sup><a href="#426e_1_target" name="426e_1">1</a></sup> not more than 70 per centum of the total cost exclusive of land costs.
 
-#### (c) Periodic beach nourishment; “construction” defined ####
+#### (c) Periodic beach nourishment; "construction" defined ####
 
-When in the opinion of the Chief of Engineers the most suitable and economical remedial measures would be provided by periodic beach nourishment, the term “construction” may be construed for the purposes of sections 426e to 426h–1 of this title to include the deposit of sand fill at suitable intervals of time to furnish sand supply to project shores for a length of time specified by the Chief of Engineers.
+When in the opinion of the Chief of Engineers the most suitable and economical remedial measures would be provided by periodic beach nourishment, the term "construction" may be construed for the purposes of sections 426e to 426h–1 of this title to include the deposit of sand fill at suitable intervals of time to furnish sand supply to project shores for a length of time specified by the Chief of Engineers.
 
 #### (d) Shores other than public ####
 
@@ -88,75 +88,75 @@ Coastal Engineering Research Center, referred to in subsec. (e), has been substi
 
 #### Amendments ####
 
-**1996**—Subsec. (a). Pub. L. 104–303, §227(a), inserted “and beaches” after “damage to the shores” and substituted “sections 426e to 426h–1 of this title, to promote shore protection projects and related research that encourage the protection, restoration, and enhancement of sandy beaches, including beach restoration and periodic beach nourishment, on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprises. In carrying out this policy, preference shall be given to areas in which there has been a Federal investment of funds and areas with respect to which the need for prevention or mitigation of damage to shores and beaches is attributable to Federal navigation projects or other Federal activities.” for “the following provisions of sections 426e to 426h of this title to assist in the construction, but not the maintenance, of works for the restoration and protection against erosion, by waves and currents, of the shores of the United States, its Territories and possessions.”
+**1996**—Subsec. (a). Pub. L. 104–303, §227(a), inserted "and beaches" after "damage to the shores" and substituted "sections 426e to 426h–1 of this title, to promote shore protection projects and related research that encourage the protection, restoration, and enhancement of sandy beaches, including beach restoration and periodic beach nourishment, on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprises. In carrying out this policy, preference shall be given to areas in which there has been a Federal investment of funds and areas with respect to which the need for prevention or mitigation of damage to shores and beaches is attributable to Federal navigation projects or other Federal activities." for "the following provisions of sections 426e to 426h of this title to assist in the construction, but not the maintenance, of works for the restoration and protection against erosion, by waves and currents, of the shores of the United States, its Territories and possessions."
 
-Subsec. (b)(3). Pub. L. 104–303, §227(e)(2), substituted “Secretary” for “Secretary of the Army, acting through the Chief of Engineers,” and struck out second period at end.
+Subsec. (b)(3). Pub. L. 104–303, §227(e)(2), substituted "Secretary" for "Secretary of the Army, acting through the Chief of Engineers," and struck out second period at end.
 
-Subsec. (e). Pub. L. 104–303, §227(b), (e)(2)(B), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, realigned margin, inserted “or 426h” after “under section 426g”, and added pars. (2) and (3).
+Subsec. (e). Pub. L. 104–303, §227(b), (e)(2)(B), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, realigned margin, inserted "or 426h" after "under section 426g", and added pars. (2) and (3).
 
-**1970**—Subsec. (b). Pub. L. 91–611 provided for designation of existing provisions as cls. (1) and (2) by insertion of “(1)” after “except that” and substitution of “(2)” for “and, further, that” and added cl. (3).
+**1970**—Subsec. (b). Pub. L. 91–611 provided for designation of existing provisions as cls. (1) and (2) by insertion of "(1)" after "except that" and substitution of "(2)" for "and, further, that" and added cl. (3).
 
 **1962**—Subsec. (b). Pub. L. 87–874, §103(a)(1), (2), increased maximum limit on amount of Federal contributions from one-third to one-half of project cost, provided that costs for restoration and protection of Federal property shall be borne fully by the Federal Government, and that costs for restoration and protection of State, county and other publicly owned shore parks and conservation areas may be borne by Federal Government up to not more than 70 per centum, exclusive of land costs, when such areas include a zone which excludes permanent human habitation, include recreational beaches, satisfy criteria for conservation and development of natural resources, extend landward enough to include natural features to protect uplands, and provide essentially full park facilities for public use, all of which meet with approval of Chief of Engineers.
 
 Subsec. (e). Pub. L. 87–874, §103(a)(3), required approval of plans by Chief of Engineers in case of a small project under section 426g of this title.
 
-**1956**—Act July 28, 1956, extended assistance to privately owned shores, to include shores of Territories and possessions, substituted “restoration” for “improvement”, defined “construction”, and struck out provisions which authorized Federal aid toward the repair and protection of seawalls constructed by political subdivisions to protect important public highways.
+**1956**—Act July 28, 1956, extended assistance to privately owned shores, to include shores of Territories and possessions, substituted "restoration" for "improvement", defined "construction", and struck out provisions which authorized Federal aid toward the repair and protection of seawalls constructed by political subdivisions to protect important public highways.
 
 #### Beach Recreation ####
 
-Pub. L. 106–541, title II, §220, Dec. 11, 2000, 114 Stat. 2596, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 11, 2000], the Secretary shall develop and implement procedures to ensure that all of the benefits of a beach restoration project, including those benefits attributable to recreation, hurricane and storm damage reduction, and environmental protection and restoration, are displayed in reports for such projects.”
+Pub. L. 106–541, title II, §220, Dec. 11, 2000, 114 Stat. 2596, provided that: "Not later than 1 year after the date of enactment of this Act [Dec. 11, 2000], the Secretary shall develop and implement procedures to ensure that all of the benefits of a beach restoration project, including those benefits attributable to recreation, hurricane and storm damage reduction, and environmental protection and restoration, are displayed in reports for such projects."
 
 #### Shore Management Program ####
 
 Pub. L. 106–53, title II, §213, Aug. 17, 1999, 113 Stat. 291, provided that:
 
-“(a) Review.—The Secretary shall review the implementation of the Corps of Engineers shore management program, with particular attention to—
+"(a) Review.—The Secretary shall review the implementation of the Corps of Engineers shore management program, with particular attention to—
 
-“(1) inconsistencies in implementation among the divisions and districts of the Corps of Engineers; and
+"(1) inconsistencies in implementation among the divisions and districts of the Corps of Engineers; and
 
-“(2) complaints by or potential inequities regarding property owners in the Savannah District, including an accounting of the number and disposition of complaints in the Savannah District during the 5-year period preceding the date of enactment of this Act [Aug. 17, 1999].
+"(2) complaints by or potential inequities regarding property owners in the Savannah District, including an accounting of the number and disposition of complaints in the Savannah District during the 5-year period preceding the date of enactment of this Act [Aug. 17, 1999].
 
-“(b) Report.—As expeditiously as practicable, but not later than 1 year after the date of enactment of this Act [Aug. 17, 1999], the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing the results of the review under subsection (a).”
+"(b) Report.—As expeditiously as practicable, but not later than 1 year after the date of enactment of this Act [Aug. 17, 1999], the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing the results of the review under subsection (a)."
 
 #### Report on Shores of the United States ####
 
 Pub. L. 106–53, title II, §215(c), Aug. 17, 1999, 113 Stat. 293, provided that:
 
-“(1) In general.—Not later than 3 years after the date of enactment of this Act [Aug. 17, 1999], the Secretary shall report to Congress on the state of the shores of the United States.
+"(1) In general.—Not later than 3 years after the date of enactment of this Act [Aug. 17, 1999], the Secretary shall report to Congress on the state of the shores of the United States.
 
-“(2) Contents.—The report shall include—
+"(2) Contents.—The report shall include—
 
-“(A) a description of—
+"(A) a description of—
 
-“(i) the extent of, and economic and environmental effects caused by, erosion and accretion along the shores of the United States; and
+"(i) the extent of, and economic and environmental effects caused by, erosion and accretion along the shores of the United States; and
 
-“(ii) the causes of such erosion and accretion;
+"(ii) the causes of such erosion and accretion;
 
-“(B) a description of resources committed by Federal, State, and local governments to restore and renourish shores;
+"(B) a description of resources committed by Federal, State, and local governments to restore and renourish shores;
 
-“(C) a description of the systematic movement of sand along the shores of the United States; and
+"(C) a description of the systematic movement of sand along the shores of the United States; and
 
-“(D) recommendations regarding—
+"(D) recommendations regarding—
 
-“(i) appropriate levels of Federal and non-Federal participation in shore protection; and
+"(i) appropriate levels of Federal and non-Federal participation in shore protection; and
 
-“(ii) use of a systems approach to sand management.
+"(ii) use of a systems approach to sand management.
 
-“(3) Use of specific location data.—In developing the report, the Secretary shall use data from specific locations on the coasts of the Atlantic Ocean, Pacific Ocean, Great Lakes, and Gulf of Mexico.”
+"(3) Use of specific location data.—In developing the report, the Secretary shall use data from specific locations on the coasts of the Atlantic Ocean, Pacific Ocean, Great Lakes, and Gulf of Mexico."
 
 #### Report to Congress on Shoreline Protection Programs ####
 
-Pub. L. 101–640, title III, §309, Nov. 28, 1990, 104 Stat. 4638, provided that: “Not later than 1 year after the date of the enactment of this Act [Nov. 28, 1990], the Secretary shall transmit to Congress a report on the advisability of not participating in the planning, implementation, or maintenance of any beach stabilization or renourishment project involving Federal funds unless the State in which the proposed project will be located has established or committed to establish a beach front management program that includes—
+Pub. L. 101–640, title III, §309, Nov. 28, 1990, 104 Stat. 4638, provided that: "Not later than 1 year after the date of the enactment of this Act [Nov. 28, 1990], the Secretary shall transmit to Congress a report on the advisability of not participating in the planning, implementation, or maintenance of any beach stabilization or renourishment project involving Federal funds unless the State in which the proposed project will be located has established or committed to establish a beach front management program that includes—
 
-“(1) restrictions on new development seaward of an erosion setback line (based on preproject beach size) of at least 30 times the annual erosion rate;
+"(1) restrictions on new development seaward of an erosion setback line (based on preproject beach size) of at least 30 times the annual erosion rate;
 
-“(2) restrictions on construction of new structural stabilization projects, such as seawalls and groins, and their reconstruction if damaged by 50 percent or more;
+"(2) restrictions on construction of new structural stabilization projects, such as seawalls and groins, and their reconstruction if damaged by 50 percent or more;
 
-“(3) provisions for the relocation of structures in erosion-prone areas;
+"(3) provisions for the relocation of structures in erosion-prone areas;
 
-“(4) provisions to assure public access to beaches stabilized or renourished with Federal funds after January 1, 1991; and
+"(4) provisions to assure public access to beaches stabilized or renourished with Federal funds after January 1, 1991; and
 
-“(5) such other provisions as the Secretary may prescribe by regulation to prevent hazardous or environmentally damaging shoreline development.”
+"(5) such other provisions as the Secretary may prescribe by regulation to prevent hazardous or environmentally damaging shoreline development."
 
 [<sup>1</sup> So in original. Probably should be followed by a comma.](#426e_1)
 

@@ -10,7 +10,7 @@ Provisions of this section which related to appropriations for the fiscal year e
 
 #### Amendments ####
 
-**1966**—Pub. L. 89–669 substituted “grounds frequented by migratory birds” for “grounds frequented by migratory game birds”, and “United States protector” for “United States game protector”.
+**1966**—Pub. L. 89–669 substituted "grounds frequented by migratory birds" for "grounds frequented by migratory game birds", and "United States protector" for "United States game protector".
 
 #### Transfer of Functions ####
 

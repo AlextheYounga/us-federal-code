@@ -37,6 +37,6 @@ Chap. Sec.
 
 **2000**—Pub. L. 106–398, §1 [[div. A], title III, §344(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, added item for chapter 434.
 
-**1999**—Pub. L. 106–65, div. A, title VII, §721(c)(7), Oct. 5, 1999, 113 Stat. 695, substituted “Disposition” for “Inquests; Disposition” and “4712” for “4711” in item for chapter 445.
+**1999**—Pub. L. 106–65, div. A, title VII, §721(c)(7), Oct. 5, 1999, 113 Stat. 695, substituted "Disposition" for "Inquests; Disposition" and "4712" for "4711" in item for chapter 445.
 
-**1993**—Pub. L. 103–160, div. A, title VIII, §828(b)(2), Nov. 30, 1993, 107 Stat. 1714, struck out item for chapter 431 “Industrial Mobilization, Research, and Development”.
+**1993**—Pub. L. 103–160, div. A, title VIII, §828(b)(2), Nov. 30, 1993, 107 Stat. 1714, struck out item for chapter 431 "Industrial Mobilization, Research, and Development".

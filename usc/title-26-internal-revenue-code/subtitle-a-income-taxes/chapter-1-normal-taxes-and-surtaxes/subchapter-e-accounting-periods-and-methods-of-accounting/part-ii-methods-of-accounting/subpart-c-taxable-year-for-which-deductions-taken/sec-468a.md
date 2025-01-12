@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-If the taxpayer elects the application of this section, there shall be allowed as a deduction for any taxable year the amount of payments made by the taxpayer to a Nuclear Decommissioning Reserve Fund (hereinafter referred to as the “Fund”) during such taxable year.
+If the taxpayer elects the application of this section, there shall be allowed as a deduction for any taxable year the amount of payments made by the taxpayer to a Nuclear Decommissioning Reserve Fund (hereinafter referred to as the "Fund") during such taxable year.
 
 #### (b) Limitation on amounts paid into Fund ####
 
@@ -32,7 +32,7 @@ No deduction shall be allowed for any payment to the Fund unless the taxpayer re
 
 #### (2) Ruling amount ####
 
-The term “ruling amount” means, with respect to any taxable year, the amount which the Secretary determines under paragraph (1) to be necessary to—
+The term "ruling amount" means, with respect to any taxable year, the amount which the Secretary determines under paragraph (1) to be necessary to—
 
 (A) fund the total nuclear decommissioning costs with respect to such power plant over the estimated useful life of such power plant, and
 
@@ -142,7 +142,7 @@ Notwithstanding any other provision of law, the taxpayer's basis in any Fund to 
 
 #### (g) Nuclear powerplant ####
 
-For purposes of this section, the term “nuclear powerplant” includes any unit thereof.
+For purposes of this section, the term "nuclear powerplant" includes any unit thereof.
 
 #### (h) Time when payments deemed made ####
 
@@ -156,71 +156,71 @@ The date of the enactment of this subsection, referred to in subsec. (f)(1), is 
 
 #### Amendments ####
 
-**2005**—Subsec. (b). Pub. L. 109–58, §1310(a), reenacted heading without change and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “The amount which a taxpayer may pay into the Fund for any taxable year shall not exceed the lesser of—
+**2005**—Subsec. (b). Pub. L. 109–58, §1310(a), reenacted heading without change and amended text of subsec. (b) generally. Prior to amendment, text read as follows: "The amount which a taxpayer may pay into the Fund for any taxable year shall not exceed the lesser of—
 
-“(1) the amount of nuclear decommissioning costs allocable to the Fund which is included in the taxpayer's cost of service for ratemaking purposes for such taxable year, or
+"(1) the amount of nuclear decommissioning costs allocable to the Fund which is included in the taxpayer's cost of service for ratemaking purposes for such taxable year, or
 
-“(2) the ruling amount applicable to such taxable year.”
+"(2) the ruling amount applicable to such taxable year."
 
-Subsec. (d)(1). Pub. L. 109–58, §1310(c), inserted at end “For purposes of the preceding sentence, the taxpayer shall request a schedule of ruling amounts upon each renewal of the operating license of the nuclear powerplant.”
+Subsec. (d)(1). Pub. L. 109–58, §1310(c), inserted at end "For purposes of the preceding sentence, the taxpayer shall request a schedule of ruling amounts upon each renewal of the operating license of the nuclear powerplant."
 
-Subsec. (d)(2)(A). Pub. L. 109–58, §1310(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “fund that portion of the nuclear decommissioning costs of the taxpayer with respect to the nuclear powerplant which bears the same ratio to the total nuclear decommissioning costs with respect to such nuclear powerplant as the period for which the Fund is in effect bears to the estimated useful life of such nuclear powerplant, and”.
+Subsec. (d)(2)(A). Pub. L. 109–58, §1310(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "fund that portion of the nuclear decommissioning costs of the taxpayer with respect to the nuclear powerplant which bears the same ratio to the total nuclear decommissioning costs with respect to such nuclear powerplant as the period for which the Fund is in effect bears to the estimated useful life of such nuclear powerplant, and".
 
-Subsec. (e)(2)(A). Pub. L. 109–58, §1310(e)(1), substituted “rate of 20 percent” for “rate set forth in subparagraph (B)” in introductory provisions.
+Subsec. (e)(2)(A). Pub. L. 109–58, §1310(e)(1), substituted "rate of 20 percent" for "rate set forth in subparagraph (B)" in introductory provisions.
 
-Subsec. (e)(2)(B) to (D). Pub. L. 109–58, §1310(e)(2), (3), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out heading and text of former subpar. (B). Text read as follows: “For purposes of subparagraph (A), the rate set forth in this subparagraph is—
+Subsec. (e)(2)(B) to (D). Pub. L. 109–58, §1310(e)(2), (3), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out heading and text of former subpar. (B). Text read as follows: "For purposes of subparagraph (A), the rate set forth in this subparagraph is—
 
-“(i) 22 percent in the case of taxable years beginning in calendar year 1994 or 1995, and
+"(i) 22 percent in the case of taxable years beginning in calendar year 1994 or 1995, and
 
-“(ii) 20 percent in the case of taxable years beginning after December 31, 1995.”
+"(ii) 20 percent in the case of taxable years beginning after December 31, 1995."
 
-Subsec. (e)(3). Pub. L. 109–58, §1310(d), substituted “Except as provided in subsection (f), the Fund” for “The Fund”.
+Subsec. (e)(3). Pub. L. 109–58, §1310(d), substituted "Except as provided in subsection (f), the Fund" for "The Fund".
 
 Subsecs. (f) to (h). Pub. L. 109–58, §1310(b)(1), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-**1996**—Subsec. (e)(2)(A). Pub. L. 104–188 provided that the amendment made by section 1917(b)(1) of Pub. L. 102–486 shall be applied as if “at a rate” appeared instead of “at the rate” in the material proposed to be stricken. See 1992 Amendment note below.
+**1996**—Subsec. (e)(2)(A). Pub. L. 104–188 provided that the amendment made by section 1917(b)(1) of Pub. L. 102–486 shall be applied as if "at a rate" appeared instead of "at the rate" in the material proposed to be stricken. See 1992 Amendment note below.
 
-**1992**—Subsec. (e)(2)(A). Pub. L. 102–486, §1917(b)(1), which directed that subpar. (A) be amended by striking “at the rate equal to the highest rate of tax specified in section 11(b)” and inserting “at the rate set forth in subparagraph (B)”, was executed by making the substitution for “at a rate equal to the highest rate of tax specified in section 11(b)”. See 1996 Amendment note above.
+**1992**—Subsec. (e)(2)(A). Pub. L. 102–486, §1917(b)(1), which directed that subpar. (A) be amended by striking "at the rate equal to the highest rate of tax specified in section 11(b)" and inserting "at the rate set forth in subparagraph (B)", was executed by making the substitution for "at a rate equal to the highest rate of tax specified in section 11(b)". See 1996 Amendment note above.
 
 Subsec. (e)(2)(B) to (D). Pub. L. 102–486, §1917(b)(2), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
-Subsec. (e)(4)(C). Pub. L. 102–486, §1917(a), struck out before period at end “described in section 501(c)(21)(B)(ii)”.
+Subsec. (e)(4)(C). Pub. L. 102–486, §1917(a), struck out before period at end "described in section 501(c)(21)(B)(ii)".
 
-**1986**—Subsec. (a). Pub. L. 99–514, §1807(a)(4)(E)(i), substituted “this section” for “this subsection”.
+**1986**—Subsec. (a). Pub. L. 99–514, §1807(a)(4)(E)(i), substituted "this section" for "this subsection".
 
-Subsec. (c)(1)(A). Pub. L. 99–514, §1807(a)(4)(B), substituted “subsection (e)(4)(B)” for “subsection (e)(2)(B)”.
+Subsec. (c)(1)(A). Pub. L. 99–514, §1807(a)(4)(B), substituted "subsection (e)(4)(B)" for "subsection (e)(2)(B)".
 
-Subsec. (d). Pub. L. 99–514, §1807(a)(4)(E)(ii), substituted “this section” for “this subsection” in introductory text.
+Subsec. (d). Pub. L. 99–514, §1807(a)(4)(E)(ii), substituted "this section" for "this subsection" in introductory text.
 
-Subsec. (e). Pub. L. 99–514, §1807(a)(4)(E)(iii), substituted “Reserve Fund” for “Trust Fund” in heading.
+Subsec. (e). Pub. L. 99–514, §1807(a)(4)(E)(iii), substituted "Reserve Fund" for "Trust Fund" in heading.
 
-Subsec. (e)(1). Pub. L. 99–514, §1807(a)(4)(E)(iv), substituted “this section” for “this subsection” and “Reserve Fund” for “Trust Fund”.
+Subsec. (e)(1). Pub. L. 99–514, §1807(a)(4)(E)(iv), substituted "this section" for "this subsection" and "Reserve Fund" for "Trust Fund".
 
-Subsec. (e)(2). Pub. L. 99–514, §1807(a)(4)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There is imposed on the gross income of the Fund for any taxable year a tax at a rate equal to the maximum rate in effect under section 11(b), except that—
+Subsec. (e)(2). Pub. L. 99–514, §1807(a)(4)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "There is imposed on the gross income of the Fund for any taxable year a tax at a rate equal to the maximum rate in effect under section 11(b), except that—
 
-“(A) there shall not be included in the gross income of the Fund any payment to the Fund with respect to which a deduction is allowable under subsection (a), and
+"(A) there shall not be included in the gross income of the Fund any payment to the Fund with respect to which a deduction is allowable under subsection (a), and
 
-“(B) there shall be allowed as a deduction any amount paid by the Fund described in paragraph (4)(B) (other than to the taxpayer).”
+"(B) there shall be allowed as a deduction any amount paid by the Fund described in paragraph (4)(B) (other than to the taxpayer)."
 
 Subsec. (e)(4)(C). Pub. L. 99–514, §1807(a)(4)(D), added subpar. (C).
 
-Subsec. (e)(6). Pub. L. 99–514, §1807(a)(4)(E)(v), substituted “this section” for “this subsection” in two places and “this paragraph” for “this subparagraph”.
+Subsec. (e)(6). Pub. L. 99–514, §1807(a)(4)(E)(v), substituted "this section" for "this subsection" in two places and "this paragraph" for "this subparagraph".
 
-Subsec. (f). Pub. L. 99–514, §1807(a)(4)(E)(vi), substituted “For purposes of this section, the” for “The”.
+Subsec. (f). Pub. L. 99–514, §1807(a)(4)(E)(vi), substituted "For purposes of this section, the" for "The".
 
 Subsec. (g). Pub. L. 99–514, §1807(a)(4)(A)(i), added subsec. (g).
 
 #### Effective Date of 2005 Amendment ####
 
-Pub. L. 109–58, title XIII, §1310(f), Aug. 8, 2005, 119 Stat. 1009, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2005.”
+Pub. L. 109–58, title XIII, §1310(f), Aug. 8, 2005, 119 Stat. 1009, provided that: "The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2005."
 
 #### Effective Date of 1992 Amendment ####
 
 Pub. L. 102–486, title XIX, §1917(c), Oct. 24, 1992, 106 Stat. 3025, provided that:
 
-“(1) Subsection (a).—The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1992.
+"(1) Subsection (a).—The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1992.
 
-“(2) Subsection (b).—The amendments made by subsection (b) [amending this section] shall apply to taxable years beginning after December 31, 1993. Section 15 of the Internal Revenue Code of 1986 shall not apply to any change in rate resulting from the amendment made by subsection (b).”
+"(2) Subsection (b).—The amendments made by subsection (b) [amending this section] shall apply to taxable years beginning after December 31, 1993. Section 15 of the Internal Revenue Code of 1986 shall not apply to any change in rate resulting from the amendment made by subsection (b)."
 
 #### Effective Date of 1986 Amendment ####
 
@@ -236,4 +236,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Transitional Rule ####
 
-Pub. L. 99–514, title XVIII, §1807(a)(4)(A)(ii), Oct. 22, 1986, 100 Stat. 2812, provided that: “To the extent provided in regulations prescribed by the Secretary of the Treasury or his delegate, subsection (g) of section 468A of the Internal Revenue Code of 1954 [now 1986] (as added by clause (i)) shall be applied with respect to any payment on account of a taxable year beginning before January 1, 1987, as if it did not contain the requirement that the payment be made within 2½ months after the close of the taxable year. Such regulations may provide that, to the extent such payment to the Fund is made more than 2½ months after the close of the taxable year, any adjustment to the tax attributable to such payment shall not affect the amount of interest payable with respect to periods before the payment is made. Such regulations may provide appropriate adjustments to the deduction allowed under such section 468A for any such taxable year to take into account the fact that the payment to the Fund is made more than 2½ months after the close of the taxable year.”
+Pub. L. 99–514, title XVIII, §1807(a)(4)(A)(ii), Oct. 22, 1986, 100 Stat. 2812, provided that: "To the extent provided in regulations prescribed by the Secretary of the Treasury or his delegate, subsection (g) of section 468A of the Internal Revenue Code of 1954 [now 1986] (as added by clause (i)) shall be applied with respect to any payment on account of a taxable year beginning before January 1, 1987, as if it did not contain the requirement that the payment be made within 2½ months after the close of the taxable year. Such regulations may provide that, to the extent such payment to the Fund is made more than 2½ months after the close of the taxable year, any adjustment to the tax attributable to such payment shall not affect the amount of interest payable with respect to periods before the payment is made. Such regulations may provide appropriate adjustments to the deduction allowed under such section 468A for any such taxable year to take into account the fact that the payment to the Fund is made more than 2½ months after the close of the taxable year."

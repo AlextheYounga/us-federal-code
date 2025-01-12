@@ -32,7 +32,7 @@
 
 (B) For each such nation, a description of the type and value of logistic support, supplies, and services so provided.
 
-(e) Definition.—In this section, the term “logistic support, supplies, and services” has the meaning given that term in section 2350(1) of this title.
+(e) Definition.—In this section, the term "logistic support, supplies, and services" has the meaning given that term in section 2350(1) of this title.
 
 (Added Pub. L. 109–364, div. A, title XII, §1201(a), Oct. 17, 2006, 120 Stat. 2410, §127c; renumbered §127d, Pub. L. 110–181, div. A, title X, §1063(a)(1)(A), Jan. 28, 2008, 122 Stat. 321; Pub. L. 111–383, div. A, title X, §1075(b)(3), title XII, §1202, Jan. 7, 2011, 124 Stat. 4369, 4385.)
 
@@ -42,14 +42,14 @@ The Arms Export Control Act, referred to in subsec. (b)(1), is Pub. L. 90–629,
 
 #### Amendments ####
 
-**2011**—Subsec. (a). Pub. L. 111–383, §1202(a), designated existing provisions as par. (1), inserted “of the United States” after “armed forces”, struck out “Provision of such support, supplies, and services to the forces of an allied nation may be made only with the concurrence of the Secretary of State.” at end, and added pars. (2) and (3).
+**2011**—Subsec. (a). Pub. L. 111–383, §1202(a), designated existing provisions as par. (1), inserted "of the United States" after "armed forces", struck out "Provision of such support, supplies, and services to the forces of an allied nation may be made only with the concurrence of the Secretary of State." at end, and added pars. (2) and (3).
 
-Subsec. (b). Pub. L. 111–383, §1202(b)(1), substituted “subsection (a)(1)” for “subsection (a)” in par. (1) and in introductory provisions of par. (2).
+Subsec. (b). Pub. L. 111–383, §1202(b)(1), substituted "subsection (a)(1)" for "subsection (a)" in par. (1) and in introductory provisions of par. (2).
 
-Subsec. (c)(1). Pub. L. 111–383, §1202(b)(2)(A), substituted “The” for “Except as provided in paragraph (2), the” and “subsection (a)(1)” for “this section”.
+Subsec. (c)(1). Pub. L. 111–383, §1202(b)(2)(A), substituted "The" for "Except as provided in paragraph (2), the" and "subsection (a)(1)" for "this section".
 
-Subsec. (c)(2). Pub. L. 111–383, §1202(b)(2)(B), substituted “The value of the logistic support, supplies, and services provided under subsection (a)(2) in any fiscal year may not” for “In addition to any logistic support, supplies, and services provided under subsection (a) that are covered by paragraph (1), the value of logistic support, supplies, and services provided under this section solely for the purposes of enhancing the interoperability of the logistical support systems of military forces participating in combined operation of the United States in order to facilitate such operations may not, in any fiscal year,”.
+Subsec. (c)(2). Pub. L. 111–383, §1202(b)(2)(B), substituted "The value of the logistic support, supplies, and services provided under subsection (a)(2) in any fiscal year may not" for "In addition to any logistic support, supplies, and services provided under subsection (a) that are covered by paragraph (1), the value of logistic support, supplies, and services provided under this section solely for the purposes of enhancing the interoperability of the logistical support systems of military forces participating in combined operation of the United States in order to facilitate such operations may not, in any fiscal year,".
 
-Subsec. (d)(1). Pub. L. 111–383, §1075(b)(3), substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
+Subsec. (d)(1). Pub. L. 111–383, §1075(b)(3), substituted "Committee on Foreign Affairs" for "Committee on International Relations".
 
 **2008**—Pub. L. 110–181 renumbered section 127c of this title, relating to allied forces participating in combined operations, as this section.

@@ -22,57 +22,57 @@ If a capital distribution is made under subsection (a) of this section, the scho
 
 #### References in Text ####
 
-This part, referred to in subsec. (c)(1), was in the original “this subpart” and was translated to reflect the probable intent of Congress and the redesignation of subpart II of part B of this subchapter as part E of this subchapter by Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562.
+This part, referred to in subsec. (c)(1), was in the original "this subpart" and was translated to reflect the probable intent of Congress and the redesignation of subpart II of part B of this subchapter as part E of this subchapter by Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562.
 
 #### Amendments ####
 
 **2010**—Pub. L. 111–148 made technical amendment to section and subsec. (a) designations resulting in no change in text.
 
-**1998**—Subsec. (a). Pub. L. 105–392, §133(e)(1)(A), added introductory provisions and struck out former introductory provisions which read as follows: “After September 30, 1996, and not later than December 31, 1999, there shall be a capital distribution of the balance of the loan fund established under an agreement pursuant to section 297a of this title by each school as follows:”.
+**1998**—Subsec. (a). Pub. L. 105–392, §133(e)(1)(A), added introductory provisions and struck out former introductory provisions which read as follows: "After September 30, 1996, and not later than December 31, 1999, there shall be a capital distribution of the balance of the loan fund established under an agreement pursuant to section 297a of this title by each school as follows:".
 
-Subsec. (a)(1). Pub. L. 105–392, §133(e)(1)(B), substituted “on the date of termination of the fund” for “at the close of September 30, 1999,”.
+Subsec. (a)(1). Pub. L. 105–392, §133(e)(1)(B), substituted "on the date of termination of the fund" for "at the close of September 30, 1999,".
 
-Subsec. (b). Pub. L. 105–392, §133(e)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “After December 31, 1999, each school with which the Secretary has made an agreement under this subpart shall pay to the Secretary, not less often than quarterly, the same proportionate share of amounts received by the school after September 30, 1999, in payment of principal or interest on loans made from the loan fund established pursuant to such agreement as was determined for the Secretary under subsection (a) of this section.”
+Subsec. (b). Pub. L. 105–392, §133(e)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "After December 31, 1999, each school with which the Secretary has made an agreement under this subpart shall pay to the Secretary, not less often than quarterly, the same proportionate share of amounts received by the school after September 30, 1999, in payment of principal or interest on loans made from the loan fund established pursuant to such agreement as was determined for the Secretary under subsection (a) of this section."
 
-**1992**—Subsec. (a). Pub. L. 102–408, §208(b)(2), substituted “1999” for “1994” in introductory provisions and in par. (1).
+**1992**—Subsec. (a). Pub. L. 102–408, §208(b)(2), substituted "1999" for "1994" in introductory provisions and in par. (1).
 
-Pub. L. 102–408, §208(b)(1), substituted “1996” for “1991” in introductory provisions.
+Pub. L. 102–408, §208(b)(1), substituted "1996" for "1991" in introductory provisions.
 
-Subsec. (b). Pub. L. 102–408, §208(b)(2), substituted “1999” for “1994” in two places.
+Subsec. (b). Pub. L. 102–408, §208(b)(2), substituted "1999" for "1994" in two places.
 
-**1988**—Subsec. (a). Pub. L. 100–607, §713(i)(1)(A), which directed substitution of “1994” for “1991” in text preceding par. (1), was executed by making the substitution for “1991” the second time appearing to reflect the probable intent of Congress.
+**1988**—Subsec. (a). Pub. L. 100–607, §713(i)(1)(A), which directed substitution of "1994" for "1991" in text preceding par. (1), was executed by making the substitution for "1991" the second time appearing to reflect the probable intent of Congress.
 
-Subsec. (a)(1). Pub. L. 100–607, §713(i)(1)(B), substituted “1994” for “1991”.
+Subsec. (a)(1). Pub. L. 100–607, §713(i)(1)(B), substituted "1994" for "1991".
 
-Subsec. (b). Pub. L. 100–607, §713(i)(2), substituted “1994” for “1991” in two places.
+Subsec. (b). Pub. L. 100–607, §713(i)(2), substituted "1994" for "1991" in two places.
 
-**1985**—Subsecs. (a), (b). Pub. L. 99–92, §8(f)(1), substituted “1991” for “1987” wherever appearing.
+**1985**—Subsecs. (a), (b). Pub. L. 99–92, §8(f)(1), substituted "1991" for "1987" wherever appearing.
 
 Subsec. (c). Pub. L. 99–92, §8(f)(2), added subsec. (c).
 
-**1981**—Pub. L. 97–35 substituted “1987” for “1983” wherever appearing.
+**1981**—Pub. L. 97–35 substituted "1987" for "1983" wherever appearing.
 
-**1979**—Subsec. (a). Pub. L. 96–76, §109(c)(1), substituted “September 30, 1983, and not later than December 31, 1983” for “September 30, 1980, and not later than December 31, 1981”. Prior to amendment, subsec. (a) referred to “December 31, 1980” rather than to “December 31, 1981” as cited in directory language of Pub. L. 96–76. See below for explanation of amendment by Pub. L. 96–32.
+**1979**—Subsec. (a). Pub. L. 96–76, §109(c)(1), substituted "September 30, 1983, and not later than December 31, 1983" for "September 30, 1980, and not later than December 31, 1981". Prior to amendment, subsec. (a) referred to "December 31, 1980" rather than to "December 31, 1981" as cited in directory language of Pub. L. 96–76. See below for explanation of amendment by Pub. L. 96–32.
 
-Pub. L. 96–32 substituted “December 31, 1980” for “September 30, 1977”.
+Pub. L. 96–32 substituted "December 31, 1980" for "September 30, 1977".
 
-Subsec. (a)(1). Pub. L. 96–76, §109(c)(2), substituted “1983” for “1980”.
+Subsec. (a)(1). Pub. L. 96–76, §109(c)(2), substituted "1983" for "1980".
 
-Subsec. (b). Pub. L. 96–76, §109(c)(3), substituted “1983” for “1980” wherever appearing.
+Subsec. (b). Pub. L. 96–76, §109(c)(3), substituted "1983" for "1980" wherever appearing.
 
-**1975**—Subsec. (a). Pub. L. 94–63, §§936(d), 941(h)(2), (i)(5), substituted “September 30, 1980” for “June 30, 1977” wherever appearing, struck out “of Health, Education, and Welfare” after “Secretary”, and substituted references to section 835 of the Act for references to section 822, which had previously been translated as section 297a of this title, requiring no further translations in text as a result of renumbering of the Public Health Service Act.
+**1975**—Subsec. (a). Pub. L. 94–63, §§936(d), 941(h)(2), (i)(5), substituted "September 30, 1980" for "June 30, 1977" wherever appearing, struck out "of Health, Education, and Welfare" after "Secretary", and substituted references to section 835 of the Act for references to section 822, which had previously been translated as section 297a of this title, requiring no further translations in text as a result of renumbering of the Public Health Service Act.
 
-Subsec. (b). Pub. L. 94–63, §§936(d), 941(h)(1), (4)(B), substituted “subpart” for “part”, “September 30, 1980” for “June 30, 1977”, and “December 31, 1980” for “September 30, 1977” and struck out provisions relating to payments from revolving fund established by section 297f(d) of this title.
+Subsec. (b). Pub. L. 94–63, §§936(d), 941(h)(1), (4)(B), substituted "subpart" for "part", "September 30, 1980" for "June 30, 1977", and "December 31, 1980" for "September 30, 1977" and struck out provisions relating to payments from revolving fund established by section 297f(d) of this title.
 
-**1971**—Pub. L. 92–158 substituted “1977” for “1975” wherever appearing.
+**1971**—Pub. L. 92–158 substituted "1977" for "1975" wherever appearing.
 
-Pub. L. 92–52 substituted “1975” for “1974” wherever appearing.
+Pub. L. 92–52 substituted "1975" for "1974" wherever appearing.
 
-**1968**—Pub. L. 90–490 substituted “1974” for “1972” wherever appearing.
+**1968**—Pub. L. 90–490 substituted "1974" for "1972" wherever appearing.
 
-**1966**—Subsec. (a). Pub. L. 89–751, §6(d)(1), (2), substituted “an agreement pursuant to section 297a(b) of this title” for “this part” in opening provisions, and in par. (1) substituted “such balance” for “the balance”.
+**1966**—Subsec. (a). Pub. L. 89–751, §6(d)(1), (2), substituted "an agreement pursuant to section 297a(b) of this title" for "this part" in opening provisions, and in par. (1) substituted "such balance" for "the balance".
 
-Subsec. (b). Pub. L. 89–751, §6(d)(3), inserted “(other than so much of such fund as relates to payments from the revolving fund established by section 297f(d) of this title)”.
+Subsec. (b). Pub. L. 89–751, §6(d)(3), inserted "(other than so much of such fund as relates to payments from the revolving fund established by section 297f(d) of this title)".
 
 #### Effective Date of 1985 Amendment ####
 

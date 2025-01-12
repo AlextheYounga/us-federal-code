@@ -194,11 +194,11 @@ For purposes of subparagraph (A), the 2002 model year city fuel economy with res
 
 #### (C) Vehicle inertia weight class ####
 
-For purposes of subparagraph (B), the term “vehicle inertia weight class” has the same meaning as when defined in regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521 et seq.).
+For purposes of subparagraph (B), the term "vehicle inertia weight class" has the same meaning as when defined in regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521 et seq.).
 
 #### (3) New qualified fuel cell motor vehicle ####
 
-For purposes of this subsection, the term “new qualified fuel cell motor vehicle” means a motor vehicle—
+For purposes of this subsection, the term "new qualified fuel cell motor vehicle" means a motor vehicle—
 
 (A) which is propelled by power derived from 1 or more cells which convert chemical energy directly into electricity by combining oxygen with hydrogen fuel which is stored on board the vehicle in any form and may or may not require reformation prior to use,
 
@@ -250,7 +250,7 @@ The amount determined under subparagraph (A) with respect to a new advanced lean
 
 #### (3) New advanced lean burn technology motor vehicle ####
 
-For purposes of this subsection, the term “new advanced lean burn technology motor vehicle” means a passenger automobile or a light truck—
+For purposes of this subsection, the term "new advanced lean burn technology motor vehicle" means a passenger automobile or a light truck—
 
 (A) with an internal combustion engine which—
 
@@ -274,7 +274,7 @@ For purposes of this subsection, the term “new advanced lean burn technology m
 
 #### (4) Lifetime fuel savings ####
 
-For purposes of this subsection, the term “lifetime fuel savings” means, in the case of any new advanced lean burn technology motor vehicle, an amount equal to the excess (if any) of—
+For purposes of this subsection, the term "lifetime fuel savings" means, in the case of any new advanced lean burn technology motor vehicle, an amount equal to the excess (if any) of—
 
 (A) 120,000 divided by the 2002 model year city fuel economy for the vehicle inertia weight class, over
 
@@ -328,7 +328,7 @@ For purposes of this subparagraph, the qualified incremental hybrid cost of any 
 
 #### (iv) Comparable vehicle ####
 
-For purposes of this subparagraph, the term “comparable vehicle” means, with respect to any new qualified hybrid motor vehicle, any vehicle which is powered solely by a gasoline or diesel internal combustion engine and which is comparable in weight, size, and use to such vehicle.
+For purposes of this subparagraph, the term "comparable vehicle" means, with respect to any new qualified hybrid motor vehicle, any vehicle which is powered solely by a gasoline or diesel internal combustion engine and which is comparable in weight, size, and use to such vehicle.
 
 #### (v) Certification ####
 
@@ -340,7 +340,7 @@ For purposes of this subsection—
 
 #### (A) In general ####
 
-The term “new qualified hybrid motor vehicle” means a motor vehicle—
+The term "new qualified hybrid motor vehicle" means a motor vehicle—
 
 (i) which draws propulsion energy from onboard sources of stored energy which are both—
 
@@ -374,17 +374,17 @@ Such term shall not include any vehicle which is not a passenger automobile or l
 
 #### (B) Consumable fuel ####
 
-For purposes of subparagraph (A)(i)(I), the term “consumable fuel” means any solid, liquid, or gaseous matter which releases energy when consumed by an auxiliary power unit.
+For purposes of subparagraph (A)(i)(I), the term "consumable fuel" means any solid, liquid, or gaseous matter which releases energy when consumed by an auxiliary power unit.
 
 #### (C) Maximum available power ####
 
 #### (i) Certain passenger automobiles and light trucks ####
 
-In the case of a vehicle to which paragraph (2)(A) applies, the term “maximum available power” means the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by such maximum power and the SAE net power of the heat engine.
+In the case of a vehicle to which paragraph (2)(A) applies, the term "maximum available power" means the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by such maximum power and the SAE net power of the heat engine.
 
 #### (ii) Other motor vehicles ####
 
-In the case of a vehicle to which paragraph (2)(B) applies, the term “maximum available power” means the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by the vehicle's total traction power. For purposes of the preceding sentence, the term “total traction power” means the sum of the peak power from the rechargeable energy storage system and the heat engine peak power of the vehicle, except that if such storage system is the sole means by which the vehicle can be driven, the total traction power is the peak power of such storage system.
+In the case of a vehicle to which paragraph (2)(B) applies, the term "maximum available power" means the maximum power available from the rechargeable energy storage system, during a standard 10 second pulse power or equivalent test, divided by the vehicle's total traction power. For purposes of the preceding sentence, the term "total traction power" means the sum of the peak power from the rechargeable energy storage system and the heat engine peak power of the vehicle, except that if such storage system is the sole means by which the vehicle can be driven, the total traction power is the peak power of such storage system.
 
 #### (D) Exclusion of plug-in vehicles ####
 
@@ -428,7 +428,7 @@ For purposes of this subsection—
 
 #### (A) In general ####
 
-The term “new qualified alternative fuel motor vehicle” means any motor vehicle—
+The term "new qualified alternative fuel motor vehicle" means any motor vehicle—
 
 (i) which is only capable of operating on an alternative fuel,
 
@@ -440,7 +440,7 @@ The term “new qualified alternative fuel motor vehicle” means any motor vehi
 
 #### (B) Alternative fuel ####
 
-The term “alternative fuel” means compressed natural gas, liquefied natural gas, liquefied petroleum gas, hydrogen, and any liquid at least 85 percent of the volume of which consists of methanol.
+The term "alternative fuel" means compressed natural gas, liquefied natural gas, liquefied petroleum gas, hydrogen, and any liquid at least 85 percent of the volume of which consists of methanol.
 
 #### (5) Credit for mixed-fuel vehicles ####
 
@@ -454,7 +454,7 @@ In the case of a mixed-fuel vehicle placed in service by the taxpayer during the
 
 #### (B) Mixed-fuel vehicle ####
 
-For purposes of this subsection, the term “mixed-fuel vehicle” means any motor vehicle described in subparagraph (C) or (D) of paragraph (3), which—
+For purposes of this subsection, the term "mixed-fuel vehicle" means any motor vehicle described in subparagraph (C) or (D) of paragraph (3), which—
 
 (i) is certified by the manufacturer as being able to perform efficiently in normal operation on a combination of an alternative fuel and a petroleum-based fuel,
 
@@ -472,11 +472,11 @@ For purposes of this subsection, the term “mixed-fuel vehicle” means any mot
 
 #### (C) 75/25 mixed-fuel vehicle ####
 
-For purposes of this subsection, the term “75/25 mixed-fuel vehicle” means a mixed-fuel vehicle which operates using at least 75 percent alternative fuel and not more than 25 percent petroleum-based fuel.
+For purposes of this subsection, the term "75/25 mixed-fuel vehicle" means a mixed-fuel vehicle which operates using at least 75 percent alternative fuel and not more than 25 percent petroleum-based fuel.
 
 #### (D) 90/10 mixed-fuel vehicle ####
 
-For purposes of this subsection, the term “90/10 mixed-fuel vehicle” means a mixed-fuel vehicle which operates using at least 90 percent alternative fuel and not more than 10 percent petroleum-based fuel.
+For purposes of this subsection, the term "90/10 mixed-fuel vehicle" means a mixed-fuel vehicle which operates using at least 90 percent alternative fuel and not more than 10 percent petroleum-based fuel.
 
 #### (f) Limitation on number of new qualified hybrid and advanced lean-burn technology vehicles eligible for credit ####
 
@@ -510,7 +510,7 @@ For purposes of subparagraph (A), in applying subsections (a) and (b) of section
 
 #### (5) Qualified vehicle ####
 
-For purposes of this subsection, the term “qualified vehicle” means any new qualified hybrid motor vehicle (described in subsection (d)(2)(A)) and any new advanced lean burn technology motor vehicle.
+For purposes of this subsection, the term "qualified vehicle" means any new qualified hybrid motor vehicle (described in subsection (d)(2)(A)) and any new advanced lean burn technology motor vehicle.
 
 #### (g) Application with other credits ####
 
@@ -528,7 +528,7 @@ For purposes of this section—
 
 #### (1) Motor vehicle ####
 
-The term “motor vehicle” means any vehicle which is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails) and which has at least 4 wheels.
+The term "motor vehicle" means any vehicle which is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails) and which has at least 4 wheels.
 
 #### (2) City fuel economy ####
 
@@ -536,7 +536,7 @@ The city fuel economy with respect to any vehicle shall be measured in a manner 
 
 #### (3) Other terms ####
 
-The terms “automobile”, “passenger automobile”, “medium duty passenger vehicle”, “light truck”, and “manufacturer” have the meanings given such terms in regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521 et seq.).
+The terms "automobile", "passenger automobile", "medium duty passenger vehicle", "light truck", and "manufacturer" have the meanings given such terms in regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521 et seq.).
 
 #### (4) Reduction in basis ####
 
@@ -582,7 +582,7 @@ For purposes of subsection (a), the plug-in conversion credit determined under t
 
 #### (2) Qualified plug-in electric drive motor vehicle ####
 
-For purposes of this subsection, the term “qualified plug-in electric drive motor vehicle” means any new qualified plug-in electric drive motor vehicle (as defined in section 30D, determined without regard to whether such vehicle is made by a manufacturer or whether the original use of such vehicle commences with the taxpayer).
+For purposes of this subsection, the term "qualified plug-in electric drive motor vehicle" means any new qualified plug-in electric drive motor vehicle (as defined in section 30D, determined without regard to whether such vehicle is made by a manufacturer or whether the original use of such vehicle commences with the taxpayer).
 
 #### (3) Credit allowed in addition to other credits ####
 
@@ -628,29 +628,29 @@ The date of the enactment of the Energy Tax Incentives Act of 2005, referred to 
 
 **2013**—Subsec. (g)(2). Pub. L. 112–240 amended par. (2) generally. Prior to amendment, par. (2) related to personal credit with a limitation based on amount of tax.
 
-**2010**—Subsec. (g)(2)(B)(ii). Pub. L. 111–148, §10909(b)(2)(G), (c), as amended by Pub. L. 111–312, temporarily struck out “23,” before “25D,”. See Effective and Termination Dates of 2010 Amendment note below.
+**2010**—Subsec. (g)(2)(B)(ii). Pub. L. 111–148, §10909(b)(2)(G), (c), as amended by Pub. L. 111–312, temporarily struck out "23," before "25D,". See Effective and Termination Dates of 2010 Amendment note below.
 
 **2009**—Subsec. (a)(5). Pub. L. 111–5, §1143(b), added par. (5).
 
-Subsec. (d)(3)(D). Pub. L. 111–5, §1141(b)(1), substituted “subsection (c) thereof” for “subsection (d) thereof”.
+Subsec. (d)(3)(D). Pub. L. 111–5, §1141(b)(1), substituted "subsection (c) thereof" for "subsection (d) thereof".
 
-Subsec. (g)(2). Pub. L. 111–5, §1144(a), amended par. (2) generally. Prior to amendment, text read as follows: “The credit allowed under subsection (a) (after the application of paragraph (1)) for any taxable year shall not exceed the excess (if any) of—
+Subsec. (g)(2). Pub. L. 111–5, §1144(a), amended par. (2) generally. Prior to amendment, text read as follows: "The credit allowed under subsection (a) (after the application of paragraph (1)) for any taxable year shall not exceed the excess (if any) of—
 
-“(A) the regular tax liability (as defined in section 26(b)) reduced by the sum of the credits allowable under subpart A and sections 27 and 30, over
+"(A) the regular tax liability (as defined in section 26(b)) reduced by the sum of the credits allowable under subpart A and sections 27 and 30, over
 
-“(B) the tentative minimum tax for the taxable year.”
+"(B) the tentative minimum tax for the taxable year."
 
-Subsec. (h)(1). Pub. L. 111–5, §1142(b)(2), amended par. (1) generally. Prior to amendment, text read as follows: “The term ‘motor vehicle’ has the meaning given such term by section 30(c)(2).”
+Subsec. (h)(1). Pub. L. 111–5, §1142(b)(2), amended par. (1) generally. Prior to amendment, text read as follows: "The term 'motor vehicle' has the meaning given such term by section 30(c)(2)."
 
-Subsec. (h)(8). Pub. L. 111–5, §1143(c), inserted at end “, except that no benefit shall be recaptured if such property ceases to be eligible for such credit by reason of conversion to a qualified plug-in electric drive motor vehicle.”
+Subsec. (h)(8). Pub. L. 111–5, §1143(c), inserted at end ", except that no benefit shall be recaptured if such property ceases to be eligible for such credit by reason of conversion to a qualified plug-in electric drive motor vehicle."
 
 Subsecs. (i) to (k). Pub. L. 111–5, §1143(a), added subsec. (i) and redesignated former subsecs. (i) and (j) as (j) and (k), respectively.
 
 **2008**—Subsec. (d)(3)(D). Pub. L. 110–343 added subpar. (D).
 
-**2005**—Subsec. (g)(2)(A). Pub. L. 109–135, §412(d), substituted “regular tax liability (as defined in section 26(b))” for “regular tax”.
+**2005**—Subsec. (g)(2)(A). Pub. L. 109–135, §412(d), substituted "regular tax liability (as defined in section 26(b))" for "regular tax".
 
-Subsec. (h)(6). Pub. L. 109–135, §402(j), inserted at end “For purposes of subsection (g), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.”
+Subsec. (h)(6). Pub. L. 109–135, §402(j), inserted at end "For purposes of subsection (g), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation."
 
 #### Effective Date of 2013 Amendment ####
 
@@ -664,11 +664,11 @@ Amendment by Pub. L. 111–148 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2009 Amendment ####
 
-Pub. L. 111–5, div. B, title I, §1141(c), Feb. 17, 2009, 123 Stat. 328, provided that: “The amendments made by this section [amending this section and sections 30D, 38, 1016, and 6501 of this title] shall apply to vehicles acquired after December 31, 2009.”
+Pub. L. 111–5, div. B, title I, §1141(c), Feb. 17, 2009, 123 Stat. 328, provided that: "The amendments made by this section [amending this section and sections 30D, 38, 1016, and 6501 of this title] shall apply to vehicles acquired after December 31, 2009."
 
 Amendment by section 1142(b)(2) of Pub. L. 111–5 applicable to vehicles acquired after Feb. 17, 2009, see section 1142(c) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
 
-Pub. L. 111–5, div. B, title I, §1143(d), Feb. 17, 2009, 123 Stat. 332, provided that: “The amendments made by this section [amending this section] shall apply to property placed in service after the date of the enactment of this Act [Feb. 17, 2009].”
+Pub. L. 111–5, div. B, title I, §1143(d), Feb. 17, 2009, 123 Stat. 332, provided that: "The amendments made by this section [amending this section] shall apply to property placed in service after the date of the enactment of this Act [Feb. 17, 2009]."
 
 Amendment by section 1144(a) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1144(c) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
 
@@ -682,6 +682,6 @@ Amendment by section 402(j) of Pub. L. 109–135 effective as if included in the
 
 #### Effective Date ####
 
-Pub. L. 109–58, title XIII, §1341(c), Aug. 8, 2005, 119 Stat. 1049, provided that: “The amendments made by this section [enacting this section and amending sections 38, 55, 1016, and 6501 of this title] shall apply to property placed in service after December 31, 2005, in taxable years ending after such date.”
+Pub. L. 109–58, title XIII, §1341(c), Aug. 8, 2005, 119 Stat. 1049, provided that: "The amendments made by this section [enacting this section and amending sections 38, 55, 1016, and 6501 of this title] shall apply to property placed in service after December 31, 2005, in taxable years ending after such date."
 
 [<sup>1</sup> So in original.](#30B_1)

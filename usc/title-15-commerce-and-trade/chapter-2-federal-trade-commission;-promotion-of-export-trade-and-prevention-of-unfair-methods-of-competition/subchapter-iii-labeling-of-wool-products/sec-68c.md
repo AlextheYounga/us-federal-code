@@ -16,7 +16,7 @@ For the purposes of subsections (a) and (b) of this section, any package of wool
 
 #### Codification ####
 
-Section 68b of this title, the second time it appears in subsec. (c), was in the original “subsection (4)” and was translated as reading “section 4” as the probable intent of Congress.
+Section 68b of this title, the second time it appears in subsec. (c), was in the original "subsection (4)" and was translated as reading "section 4" as the probable intent of Congress.
 
 #### Amendments ####
 
@@ -26,6 +26,6 @@ Section 68b of this title, the second time it appears in subsec. (c), was in the
 
 Amendment by Pub. L. 98–417 effective 90 days after Sept. 24, 1984, see section 307 of Pub. L. 98–417, set out as a note under section 68b of this title.
 
-[<sup>1</sup> So in original. Probably should be “wool”.](#68c_1)
+[<sup>1</sup> So in original. Probably should be "wool".](#68c_1)
 
 [<sup>2</sup> See Codification note.](#68c_2)

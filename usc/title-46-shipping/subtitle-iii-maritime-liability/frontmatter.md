@@ -19,4 +19,4 @@ Chapter Sec.
 
 #### Amendments ####
 
-**2006**—Pub. L. 109–304, §6(a), Oct. 6, 2006, 120 Stat. 1509, amended subtitle analysis generally, substituting “General Liability Provisions” for “General” in item for chapter 301, striking out “[Chapters 303–311—Reserved]” after item for chapter 301, adding items for chapters 303, 305, 307, 309, and 311, and striking out “[Chapter 315—Reserved]” after item for chapter 313.
+**2006**—Pub. L. 109–304, §6(a), Oct. 6, 2006, 120 Stat. 1509, amended subtitle analysis generally, substituting "General Liability Provisions" for "General" in item for chapter 301, striking out "[Chapters 303–311—Reserved]" after item for chapter 301, adding items for chapters 303, 305, 307, 309, and 311, and striking out "[Chapter 315—Reserved]" after item for chapter 313.

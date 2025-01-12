@@ -28,12 +28,12 @@
 
 **1996**—Pub. L. 104–106, div. A, title XI, §1133(a)(2), Feb. 10, 1996, 110 Stat. 466, added item 876b.
 
-**1994**—Pub. L. 103–337, div. A, title IX, §924(c)(4)(C), Oct. 5, 1994, 108 Stat. 2832, substituted “Court of Criminal Appeals” for “Court of Military Review” in item 866 and “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in item 867.
+**1994**—Pub. L. 103–337, div. A, title IX, §924(c)(4)(C), Oct. 5, 1994, 108 Stat. 2832, substituted "Court of Criminal Appeals" for "Court of Military Review" in item 866 and "Court of Appeals for the Armed Forces" for "Court of Military Appeals" in item 867.
 
 **1990**—Pub. L. 101–510, div. A, title XIV, §1484(i)(1), Nov. 5, 1990, 104 Stat. 1718, added item 867a.
 
-**1983**—Pub. L. 98–209, §§5(a)(2), (b)(2), (c)(2), (h)(2), 6(d)(2), 7(a)(2), Dec. 6, 1983, 97 Stat. 1397, 1398, 1400–1402, substituted “Post-trial Procedure and Review of Courts-Martial” for “Review of Courts-Martial” as subchapter heading, “Action by the convening authority” for “Initial action on the record” in item 860, “Waiver or withdrawal of appeal” for “Same—General court-martial records” in item 861, “Appeal by the United States” for “Reconsideration and revision” in item 862, “Review by a judge advocate” for “Approval by the convening authority” in item 864, and “Disposition of records” for “Disposition of records after review by the convening authority” in item 865.
+**1983**—Pub. L. 98–209, §§5(a)(2), (b)(2), (c)(2), (h)(2), 6(d)(2), 7(a)(2), Dec. 6, 1983, 97 Stat. 1397, 1398, 1400–1402, substituted "Post-trial Procedure and Review of Courts-Martial" for "Review of Courts-Martial" as subchapter heading, "Action by the convening authority" for "Initial action on the record" in item 860, "Waiver or withdrawal of appeal" for "Same—General court-martial records" in item 861, "Appeal by the United States" for "Reconsideration and revision" in item 862, "Review by a judge advocate" for "Approval by the convening authority" in item 864, and "Disposition of records" for "Disposition of records after review by the convening authority" in item 865.
 
 **1981**—Pub. L. 97–81, §2(c)(2), Nov. 20, 1981, 95 Stat. 1087, added item 876a.
 
-**1968**—Pub. L. 90–632, §2(25), Oct. 24, 1968, 82 Stat. 1341, substituted “Court of Military Review” for “board of review” in item 866 (article 66).
+**1968**—Pub. L. 90–632, §2(25), Oct. 24, 1968, 82 Stat. 1341, substituted "Court of Military Review" for "board of review" in item 866 (article 66).

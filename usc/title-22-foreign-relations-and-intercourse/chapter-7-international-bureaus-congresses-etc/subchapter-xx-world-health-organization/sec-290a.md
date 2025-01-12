@@ -6,11 +6,11 @@ The President shall designate from time to time to attend a specified session or
 
 #### Amendments ####
 
-**1980**—Pub. L. 96–465 substituted “established under section 3962 or 3963 of this title” for “provided by section 867 of this title,”.
+**1980**—Pub. L. 96–465 substituted "established under section 3962 or 3963 of this title" for "provided by section 867 of this title,".
 
-**1962**—Pub. L. 87–793 substituted “Such representative and any such alternate shall each be entitled to receive compensation at one of the rates provided by section 867 of this title” for “Such representative shall be entitled to receive compensation at a rate not to exceed $12,000 per annum and any such alternate shall be entitled to receive compensation at a rate not to exceed $10,000 per annum.”
+**1962**—Pub. L. 87–793 substituted "Such representative and any such alternate shall each be entitled to receive compensation at one of the rates provided by section 867 of this title" for "Such representative shall be entitled to receive compensation at a rate not to exceed $12,000 per annum and any such alternate shall be entitled to receive compensation at a rate not to exceed $10,000 per annum."
 
-**1952**—Act Apr. 5, 1952, substituted “Civil Service Commission” for “Federal Bureau of Investigation”.
+**1952**—Act Apr. 5, 1952, substituted "Civil Service Commission" for "Federal Bureau of Investigation".
 
 #### Effective Date of 1980 Amendment ####
 
@@ -22,4 +22,4 @@ Amendment by Pub. L. 87–793 effective on first day of first pay period which b
 
 #### Transfer of Functions ####
 
-“Director of the Office of Personnel Management” substituted in text for “Civil Service Commission” pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+"Director of the Office of Personnel Management" substituted in text for "Civil Service Commission" pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.

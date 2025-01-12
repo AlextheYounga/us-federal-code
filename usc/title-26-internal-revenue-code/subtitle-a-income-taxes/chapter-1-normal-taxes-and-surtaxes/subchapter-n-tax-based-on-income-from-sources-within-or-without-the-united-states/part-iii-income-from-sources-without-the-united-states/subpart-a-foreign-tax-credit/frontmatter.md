@@ -24,7 +24,7 @@ Sec.
 
 **2010**—Pub. L. 111–226, title II, §211(b), Aug. 10, 2010, 124 Stat. 2395, added item 909.
 
-**1986**—Pub. L. 99–514, title XII, §1202(d), Oct. 22, 1986, 100 Stat. 2531, substituted “Deemed paid credit where domestic corporation owns 10 percent or more of voting stock of foreign corporation” for “Credit for corporate stockholder in foreign corporation” in item 902.
+**1986**—Pub. L. 99–514, title XII, §1202(d), Oct. 22, 1986, 100 Stat. 2531, substituted "Deemed paid credit where domestic corporation owns 10 percent or more of voting stock of foreign corporation" for "Credit for corporate stockholder in foreign corporation" in item 902.
 
 **1976**—Pub. L. 94–455, title X, §1061(b), Oct. 4, 1976, 90 Stat. 1650, added item 908.
 

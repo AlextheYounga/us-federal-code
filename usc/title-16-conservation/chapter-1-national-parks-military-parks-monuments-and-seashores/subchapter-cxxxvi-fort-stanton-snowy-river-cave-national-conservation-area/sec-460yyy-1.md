@@ -6,7 +6,7 @@ There is established the Fort Stanton-Snowy River Cave National Conservation Are
 
 #### (b) Area included ####
 
-The Conservation Area shall include the area within the boundaries depicted on the map entitled “Fort Stanton-Snowy River Cave National Conservation Area” and dated December 15, 2008.
+The Conservation Area shall include the area within the boundaries depicted on the map entitled "Fort Stanton-Snowy River Cave National Conservation Area" and dated December 15, 2008.
 
 #### (c) Map and legal description ####
 

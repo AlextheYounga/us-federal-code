@@ -12,7 +12,7 @@
 
 #### Amendments ####
 
-**1981**—Subsec. (a)(2). Pub. L. 97–35 substituted “effective only to such extent or in such amounts as are provided in advance in appropriations Acts” for “made only after the amount required for such subscription has been appropriated”.
+**1981**—Subsec. (a)(2). Pub. L. 97–35 substituted "effective only to such extent or in such amounts as are provided in advance in appropriations Acts" for "made only after the amount required for such subscription has been appropriated".
 
 #### Effective Date of 1981 Amendment ####
 

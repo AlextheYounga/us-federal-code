@@ -36,8 +36,8 @@ Sec.
 
 #### Amendments ####
 
-**2012**—Pub. L. 112–141, div. E, title II, §§52009(b), 52010(b), July 6, 2012, 126 Stat. 887, added item 5505, struck out former item 5505 “National university transportation centers”, and struck out item 5506 “University transportation research”.
+**2012**—Pub. L. 112–141, div. E, title II, §§52009(b), 52010(b), July 6, 2012, 126 Stat. 887, added item 5505, struck out former item 5505 "National university transportation centers", and struck out item 5506 "University transportation research".
 
-**2005**—Pub. L. 109–59, title V, §§5401(c), 5402(c), Aug. 10, 2005, 119 Stat. 1815, 1820, substituted “National university transportation centers” for “University transportation research” in item 5505 and “University transportation research” for “Advanced vehicle technologies program” in item 5506.
+**2005**—Pub. L. 109–59, title V, §§5401(c), 5402(c), Aug. 10, 2005, 119 Stat. 1815, 1820, substituted "National university transportation centers" for "University transportation research" in item 5505 and "University transportation research" for "Advanced vehicle technologies program" in item 5506.
 
 **1998**—Pub. L. 105–178, title V, §§5110(b), 5111(b), June 9, 1998, 112 Stat. 444, 445, added items 5505 and 5506.

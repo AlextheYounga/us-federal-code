@@ -10,4 +10,4 @@ Section was not enacted as part of the Public Health Service Act which comprises
 
 #### Amendments ####
 
-**1970**—Pub. L. 91–515 substituted “Secretary” for “Surgeon General” wherever appearing.
+**1970**—Pub. L. 91–515 substituted "Secretary" for "Surgeon General" wherever appearing.

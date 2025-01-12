@@ -22,7 +22,7 @@
 
 (5) Reimbursement payable under this subsection may not exceed the cost of Government-procured commercial round-trip air travel.
 
-(d) Yellow Ribbon Reintegration Program Event Defined.—In this section, the term “Yellow Ribbon Reintegration Program event” means an event authorized under section 582 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 10101 note).
+(d) Yellow Ribbon Reintegration Program Event Defined.—In this section, the term "Yellow Ribbon Reintegration Program event" means an event authorized under section 582 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 10101 note).
 
 (e) Termination.—No transportation, allowance, reimbursement, or per diem may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
@@ -34,7 +34,7 @@
 
 **2011**—Pub. L. 112–81, §631(d)(2), renumbered section 411l of this title as this section.
 
-Subsec. (c)(2). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404”.
+Subsec. (c)(2). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "474" for "404".
 
 Subsec. (e). Pub. L. 112–81, §631(e)(25), added subsec. (e).
 
@@ -44,4 +44,4 @@ Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, pro
 
 #### Effective Date ####
 
-Pub. L. 111–383, div. A, title VI, §622(b), Jan. 7, 2011, 124 Stat. 4239, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “No reimbursement may be provided under section 481l of title 37, United States Code, as added by subsection (a), for travel and transportation costs incurred before September 30, 2010.”
+Pub. L. 111–383, div. A, title VI, §622(b), Jan. 7, 2011, 124 Stat. 4239, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: "No reimbursement may be provided under section 481l of title 37, United States Code, as added by subsection (a), for travel and transportation costs incurred before September 30, 2010."

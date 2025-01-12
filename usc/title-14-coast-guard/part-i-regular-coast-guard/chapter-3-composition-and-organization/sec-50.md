@@ -34,7 +34,7 @@
 
 **2010**—Pub. L. 111–281, §511(a), as amended by Pub. L. 111–330, amended section generally. Prior to amendment, section provided for the appointment of a Commander, Atlantic Area, and a Commander, Pacific Area, each having the grade of vice admiral with pay and allowances of that grade.
 
-**1993**—Subsec. (b). Pub. L. 103–206 substituted “The appointment and grade of an area commander shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in subsection 51(d) of this title.” for “The appointment of an area commander is effective on the date the officer assumes that duty, and terminates on the date he is detached from that duty.”
+**1993**—Subsec. (b). Pub. L. 103–206 substituted "The appointment and grade of an area commander shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in subsection 51(d) of this title." for "The appointment of an area commander is effective on the date the officer assumes that duty, and terminates on the date he is detached from that duty."
 
 #### Effective Date of 2010 Amendment ####
 
@@ -48,8 +48,8 @@ Section effective Oct. 2, 1972, except that continuation boards may not be held 
 
 Pub. L. 111–281, title V, §511(h)(1), Oct. 15, 2010, 124 Stat. 2953, provided that:
 
-“Notwithstanding any other provision of law, an officer who, on the date of enactment of this Act [Oct. 15, 2010], is serving as Chief of Staff, Commander, Atlantic Area, or Commander, Pacific Area—
+"Notwithstanding any other provision of law, an officer who, on the date of enactment of this Act [Oct. 15, 2010], is serving as Chief of Staff, Commander, Atlantic Area, or Commander, Pacific Area—
 
-“(A) shall continue to have the grade of vice admiral with pay and allowance of that grade until such time that the officer is relieved of his duties and appointed and confirmed to another position as a vice admiral or admiral; or
+"(A) shall continue to have the grade of vice admiral with pay and allowance of that grade until such time that the officer is relieved of his duties and appointed and confirmed to another position as a vice admiral or admiral; or
 
-“(B) for the purposes of transition, may continue at the grade of vice admiral with pay and allowance of that grade, for not more than 1 year after the date of enactment of this Act, to perform the duties of the officer's former position and any other such duties that the Commandant prescribes.”
+"(B) for the purposes of transition, may continue at the grade of vice admiral with pay and allowance of that grade, for not more than 1 year after the date of enactment of this Act, to perform the duties of the officer's former position and any other such duties that the Commandant prescribes."

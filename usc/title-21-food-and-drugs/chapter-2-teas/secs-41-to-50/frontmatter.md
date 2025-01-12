@@ -24,11 +24,11 @@ Section 50, acts Mar. 2, 1897, ch. 358, §10, 29 Stat. 607; May 31, 1920, ch. 21
 
 #### Effective Date of Repeal ####
 
-Pub. L. 104–128, §3, Apr. 9, 1996, 110 Stat. 1198, provided that: “This Act [repealing this chapter] shall take effect on the date of enactment of this Act [Apr. 9, 1996].”
+Pub. L. 104–128, §3, Apr. 9, 1996, 110 Stat. 1198, provided that: "This Act [repealing this chapter] shall take effect on the date of enactment of this Act [Apr. 9, 1996]."
 
 #### Short Title of Repeal ####
 
-Pub. L. 104–128, §1, Apr. 9, 1996, 110 Stat. 1198, provided that: “This Act [repealing this chapter] may be cited as the ‘Federal Tea Tasters Repeal Act of 1996’.”
+Pub. L. 104–128, §1, Apr. 9, 1996, 110 Stat. 1198, provided that: "This Act [repealing this chapter] may be cited as the 'Federal Tea Tasters Repeal Act of 1996'."
 
 #### Short Title ####
 

@@ -60,7 +60,7 @@ Section 12B of the Federal Reserve Act, referred to in subsec. (a), formerly cla
 
 #### Amendments ####
 
-**1994**—Subsec. (a). Pub. L. 103–412, §103(b), inserted “to withdraw from the United States Treasury and” after “prescribe,” in second sentence.
+**1994**—Subsec. (a). Pub. L. 103–412, §103(b), inserted "to withdraw from the United States Treasury and" after "prescribe," in second sentence.
 
 Subsecs. (b), (c). Pub. L. 103–412, §103(c), redesignated subsec. (b), relating to investment of trust funds, as (c).
 
@@ -74,10 +74,10 @@ Subsec. (d). Pub. L. 103–412, §101, added subsec. (d).
 
 Act June 24, 1938, ch. 648, §2, 52 Stat. 1037, repealed act May 25, 1918, ch. 86, §28, 40 Stat. 591, which was contained in former section 162 of this title, and all other inconsistent acts.
 
-Act June 24, 1938, ch. 648, §3, 52 Stat. 1038, provided: “Nothing contained in this act shall be construed as affecting the provisions of the Federal Reserve Act or regulations issued thereunder relating to the payment of interest on deposits.”
+Act June 24, 1938, ch. 648, §3, 52 Stat. 1038, provided: "Nothing contained in this act shall be construed as affecting the provisions of the Federal Reserve Act or regulations issued thereunder relating to the payment of interest on deposits."
 
 #### Transfer of Functions ####
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-[<sup>1</sup> So in original. Probably should be “earnings”.](#162a_1)
+[<sup>1</sup> So in original. Probably should be "earnings".](#162a_1)

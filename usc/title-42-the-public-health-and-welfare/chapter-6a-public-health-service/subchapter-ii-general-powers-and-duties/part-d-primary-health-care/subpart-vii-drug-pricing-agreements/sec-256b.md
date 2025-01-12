@@ -4,13 +4,13 @@
 
 #### (1) In general ####
 
-The Secretary shall enter into an agreement with each manufacturer of covered outpatient drugs under which the amount required to be paid (taking into account any rebate or discount, as provided by the Secretary) to the manufacturer for covered outpatient drugs (other than drugs described in paragraph (3)) purchased by a covered entity on or after the first day of the first month that begins after November 4, 1992, does not exceed an amount equal to the average manufacturer price for the drug under title XIX of the Social Security Act [42 U.S.C. 1396 et seq.] in the preceding calendar quarter, reduced by the rebate percentage described in paragraph (2). Each such agreement shall require that the manufacturer furnish the Secretary with reports, on a quarterly basis, of the price for each covered outpatient drug subject to the agreement that, according to the manufacturer, represents the maximum price that covered entities may permissibly be required to pay for the drug (referred to in this section as the “ceiling price”), and shall require that the manufacturer offer each covered entity covered outpatient drugs for purchase at or below the applicable ceiling price if such drug is made available to any other purchaser at any price.
+The Secretary shall enter into an agreement with each manufacturer of covered outpatient drugs under which the amount required to be paid (taking into account any rebate or discount, as provided by the Secretary) to the manufacturer for covered outpatient drugs (other than drugs described in paragraph (3)) purchased by a covered entity on or after the first day of the first month that begins after November 4, 1992, does not exceed an amount equal to the average manufacturer price for the drug under title XIX of the Social Security Act [42 U.S.C. 1396 et seq.] in the preceding calendar quarter, reduced by the rebate percentage described in paragraph (2). Each such agreement shall require that the manufacturer furnish the Secretary with reports, on a quarterly basis, of the price for each covered outpatient drug subject to the agreement that, according to the manufacturer, represents the maximum price that covered entities may permissibly be required to pay for the drug (referred to in this section as the "ceiling price"), and shall require that the manufacturer offer each covered entity covered outpatient drugs for purchase at or below the applicable ceiling price if such drug is made available to any other purchaser at any price.
 
-#### (2) “Rebate percentage” defined ####
+#### (2) "Rebate percentage" defined ####
 
 #### (A) In general ####
 
-For a covered outpatient drug purchased in a calendar quarter, the “rebate percentage” is the amount (expressed as a percentage) equal to—
+For a covered outpatient drug purchased in a calendar quarter, the "rebate percentage" is the amount (expressed as a percentage) equal to—
 
 (i) the average total rebate required under section 1927(c) of the Social Security Act [42 U.S.C. 1396r–8(c)] with respect to the drug (for a unit of the dosage form and strength involved) during the preceding calendar quarter; divided by
 
@@ -20,19 +20,19 @@ For a covered outpatient drug purchased in a calendar quarter, the “rebate per
 
 #### (i) In general ####
 
-For purposes of subparagraph (A), in the case of over the counter drugs, the “rebate percentage” shall be determined as if the rebate required under section 1927(c) of the Social Security Act [42 U.S.C. 1396r–8(c)] is based on the applicable percentage provided under section 1927(c)(3) of such Act.
+For purposes of subparagraph (A), in the case of over the counter drugs, the "rebate percentage" shall be determined as if the rebate required under section 1927(c) of the Social Security Act [42 U.S.C. 1396r–8(c)] is based on the applicable percentage provided under section 1927(c)(3) of such Act.
 
-#### (ii) “Over the counter drug” defined ####
+#### (ii) "Over the counter drug" defined ####
 
-The term “over the counter drug” means a drug that may be sold without a prescription and which is prescribed by a physician (or other persons authorized to prescribe such drug under State law).
+The term "over the counter drug" means a drug that may be sold without a prescription and which is prescribed by a physician (or other persons authorized to prescribe such drug under State law).
 
 #### (3) Drugs provided under State medicaid plans ####
 
 Drugs described in this paragraph are drugs purchased by the entity for which payment is made by the State under the State plan for medical assistance under title XIX of the Social Security Act [42 U.S.C. 1396 et seq.].
 
-#### (4) “Covered entity” defined ####
+#### (4) "Covered entity" defined ####
 
-In this section, the term “covered entity” means an entity that meets the requirements described in paragraph (5) and is one of the following:
+In this section, the term "covered entity" means an entity that meets the requirements described in paragraph (5) and is one of the following:
 
 (A) A Federally-qualified health center (as defined in section 1905(l)(2)(B) of the Social Security Act [42 U.S.C. 1396d(l)(2)(B)]).
 
@@ -136,11 +136,11 @@ Nothing in this subsection shall prohibit a manufacturer from charging a price f
 
 #### (1) In general ####
 
-In this section, the terms “average manufacturer price”, “covered outpatient drug”, and “manufacturer” have the meaning given such terms in section 1927(k) of the Social Security Act [42 U.S.C. 1396r–8(k)].
+In this section, the terms "average manufacturer price", "covered outpatient drug", and "manufacturer" have the meaning given such terms in section 1927(k) of the Social Security Act [42 U.S.C. 1396r–8(k)].
 
 #### (2) Covered drug ####
 
-In this section, the term “covered drug”—
+In this section, the term "covered drug"—
 
 (A) means a covered outpatient drug (as defined in section 1927(k)(2) of the Social Security Act [42 U.S.C. 1396r–8(k)(2)]); and
 
@@ -252,7 +252,7 @@ There are authorized to be appropriated to carry out this subsection, such sums 
 
 #### (e) Exclusion of orphan drugs for certain covered entities ####
 
-For covered entities described in subparagraph (M) (other than a children's hospital described in subparagraph (M)), (N), or (O) of subsection (a)(4), the term “covered outpatient drug” shall not include a drug designated by the Secretary under section 360bb of title 21 for a rare disease or condition.
+For covered entities described in subparagraph (M) (other than a children's hospital described in subparagraph (M)), (N), or (O) of subsection (a)(4), the term "covered outpatient drug" shall not include a drug designated by the Secretary under section 360bb of title 21 for a rare disease or condition.
 
 (July 1, 1944, ch. 373, title III, §340B, as added Pub. L. 102–585, title VI, §602(a), Nov. 4, 1992, 106 Stat. 4967; amended Pub. L. 103–43, title XX, §2008(i)(1)(A), June 10, 1993, 107 Stat. 212; Pub. L. 111–148, title II, §2501(f)(1), title VII, §§7101(a)–(d), 7102, Mar. 23, 2010, 124 Stat. 309, 821–823; Pub. L. 111–152, title II, §2302, Mar. 30, 2010, 124 Stat. 1082; Pub. L. 111–309, title II, §204(a)(1), Dec. 15, 2010, 124 Stat. 3289.)
 
@@ -278,87 +278,87 @@ Another section 340B of act July 1, 1944, was renumbered section 340C and is cla
 
 #### Amendments ####
 
-**2010**—Subsec. (a)(1). Pub. L. 111–152, §2302(1)(A), substituted “covered outpatient drug” for “covered drug” and “covered outpatient drugs” for “covered drugs” wherever appearing.
+**2010**—Subsec. (a)(1). Pub. L. 111–152, §2302(1)(A), substituted "covered outpatient drug" for "covered drug" and "covered outpatient drugs" for "covered drugs" wherever appearing.
 
-Pub. L. 111–148, §7102(b)(1), inserted at end “Each such agreement shall require that the manufacturer furnish the Secretary with reports, on a quarterly basis, of the price for each covered drug subject to the agreement that, according to the manufacturer, represents the maximum price that covered entities may permissibly be required to pay for the drug (referred to in this section as the ‘ceiling price’), and shall require that the manufacturer offer each covered entity covered drugs for purchase at or below the applicable ceiling price if such drug is made available to any other purchaser at any price.”
+Pub. L. 111–148, §7102(b)(1), inserted at end "Each such agreement shall require that the manufacturer furnish the Secretary with reports, on a quarterly basis, of the price for each covered drug subject to the agreement that, according to the manufacturer, represents the maximum price that covered entities may permissibly be required to pay for the drug (referred to in this section as the 'ceiling price'), and shall require that the manufacturer offer each covered entity covered drugs for purchase at or below the applicable ceiling price if such drug is made available to any other purchaser at any price."
 
-Subsec. (a)(2)(A). Pub. L. 111–152, §2302(1)(A), substituted “covered outpatient drug” for “covered drug” in introductory provisions.
+Subsec. (a)(2)(A). Pub. L. 111–152, §2302(1)(A), substituted "covered outpatient drug" for "covered drug" in introductory provisions.
 
-Pub. L. 111–148, §7101(b)(1), substituted “covered drug” for “covered outpatient drug” in introductory provisions.
+Pub. L. 111–148, §7101(b)(1), substituted "covered drug" for "covered outpatient drug" in introductory provisions.
 
-Subsec. (a)(2)(B)(i). Pub. L. 111–148, §2501(f)(1)(A), substituted “1927(c)(3)” for “1927(c)(4)”.
+Subsec. (a)(2)(B)(i). Pub. L. 111–148, §2501(f)(1)(A), substituted "1927(c)(3)" for "1927(c)(4)".
 
-Subsec. (a)(4)(L). Pub. L. 111–152, §2302(1)(B), struck out “and” at end of cl. (i), substituted “; and” for period at end of cl. (ii), and added cl. (iii).
+Subsec. (a)(4)(L). Pub. L. 111–152, §2302(1)(B), struck out "and" at end of cl. (i), substituted "; and" for period at end of cl. (ii), and added cl. (iii).
 
-Pub. L. 111–148, §7101(c)(1), in cl. (i), inserted “and” at end, in cl. (ii), substituted period for “; and” at end, and struck out cl. (iii) which read as follows: “does not obtain covered outpatient drugs through a group purchasing organization or other group purchasing arrangement.”
+Pub. L. 111–148, §7101(c)(1), in cl. (i), inserted "and" at end, in cl. (ii), substituted period for "; and" at end, and struck out cl. (iii) which read as follows: "does not obtain covered outpatient drugs through a group purchasing organization or other group purchasing arrangement."
 
 Subsec. (a)(4)(M) to (O). Pub. L. 111–148, §7101(a), added subpars. (M) to (O).
 
-Subsec. (a)(5)(B). Pub. L. 111–152, §2302(1)(A), substituted “covered outpatient drug” for “covered drug”.
+Subsec. (a)(5)(B). Pub. L. 111–152, §2302(1)(A), substituted "covered outpatient drug" for "covered drug".
 
-Pub. L. 111–148, §7101(b)(1), substituted “covered drug” for “covered outpatient drug”.
+Pub. L. 111–148, §7101(b)(1), substituted "covered drug" for "covered outpatient drug".
 
 Subsec. (a)(5)(C). Pub. L. 111–152, §2302(1)(C)(i), (ii), redesignated subpar. (D) as (C) and struck out former subpar. (C). Prior to amendment, text of subpar. (C) read as follows:
 
-“(i) In general.—A hospital described in subparagraph (L), (M), (N), or (O) of paragraph (4) shall not obtain covered outpatient drugs through a group purchasing organization or other group purchasing arrangement, except as permitted or provided for pursuant to clauses (ii) or (iii).
+"(i) In general.—A hospital described in subparagraph (L), (M), (N), or (O) of paragraph (4) shall not obtain covered outpatient drugs through a group purchasing organization or other group purchasing arrangement, except as permitted or provided for pursuant to clauses (ii) or (iii).
 
-“(ii) Inpatient drugs.—Clause (i) shall not apply to drugs purchased for inpatient use.
+"(ii) Inpatient drugs.—Clause (i) shall not apply to drugs purchased for inpatient use.
 
-“(iii) Exceptions.—The Secretary shall establish reasonable exceptions to clause (i)—
+"(iii) Exceptions.—The Secretary shall establish reasonable exceptions to clause (i)—
 
-“(I) with respect to a covered outpatient drug that is unavailable to be purchased through the program under this section due to a drug shortage problem, manufacturer noncompliance, or any other circumstance beyond the hospital's control;
+"(I) with respect to a covered outpatient drug that is unavailable to be purchased through the program under this section due to a drug shortage problem, manufacturer noncompliance, or any other circumstance beyond the hospital's control;
 
-“(II) to facilitate generic substitution when a generic covered outpatient drug is available at a lower price; or
+"(II) to facilitate generic substitution when a generic covered outpatient drug is available at a lower price; or
 
-“(III) to reduce in other ways the administrative burdens of managing both inventories of drugs subject to this section and inventories of drugs that are not subject to this section, so long as the exceptions do not create a duplicate discount problem in violation of subparagraph (A) or a diversion problem in violation of subparagraph (B).
+"(III) to reduce in other ways the administrative burdens of managing both inventories of drugs subject to this section and inventories of drugs that are not subject to this section, so long as the exceptions do not create a duplicate discount problem in violation of subparagraph (A) or a diversion problem in violation of subparagraph (B).
 
-“(iv) Purchasing arrangements for inpatient drugs.—The Secretary shall ensure that a hospital described in subparagraph (L), (M), (N), or (O) of subsection (a)(4) that is enrolled to participate in the drug discount program under this section shall have multiple options for purchasing covered outpatient drugs for inpatients, including by utilizing a group purchasing organization or other group purchasing arrangement, establishing and utilizing its own group purchasing program, purchasing directly from a manufacturer, and any other purchasing arrangements that the Secretary determines is appropriate to ensure access to drug discount pricing under this section for inpatient drugs taking into account the particular needs of small and rural hospitals.”
+"(iv) Purchasing arrangements for inpatient drugs.—The Secretary shall ensure that a hospital described in subparagraph (L), (M), (N), or (O) of subsection (a)(4) that is enrolled to participate in the drug discount program under this section shall have multiple options for purchasing covered outpatient drugs for inpatients, including by utilizing a group purchasing organization or other group purchasing arrangement, establishing and utilizing its own group purchasing program, purchasing directly from a manufacturer, and any other purchasing arrangements that the Secretary determines is appropriate to ensure access to drug discount pricing under this section for inpatient drugs taking into account the particular needs of small and rural hospitals."
 
 Pub. L. 111–148, §7101(c)(2)(B), added subpar. (C). Former subpar. (C) redesignated (D).
 
-Pub. L. 111–148, §7101(b)(1), substituted “covered drug” for “covered outpatient drug”.
+Pub. L. 111–148, §7101(b)(1), substituted "covered drug" for "covered outpatient drug".
 
-Subsec. (a)(5)(C)(iv). Pub. L. 111–152, §2302(1)(A), substituted “covered outpatient drugs” for “covered drugs”.
+Subsec. (a)(5)(C)(iv). Pub. L. 111–152, §2302(1)(A), substituted "covered outpatient drugs" for "covered drugs".
 
-Subsec. (a)(5)(D). Pub. L. 111–152, §2302(1)(C)(ii), (iii), redesignated subpar. (E) as (D) and substituted “subparagraph (C)” for “subparagraph (D)”. Former subpar. (D) redesignated (C).
+Subsec. (a)(5)(D). Pub. L. 111–152, §2302(1)(C)(ii), (iii), redesignated subpar. (E) as (D) and substituted "subparagraph (C)" for "subparagraph (D)". Former subpar. (D) redesignated (C).
 
-Pub. L. 111–152, §2302(1)(A), substituted “covered outpatient drug” for “covered drug”.
+Pub. L. 111–152, §2302(1)(A), substituted "covered outpatient drug" for "covered drug".
 
 Pub. L. 111–148, §7101(c)(2)(A), redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
 
-Pub. L. 111–148, §7101(b)(1), substituted “covered drug” for “covered outpatient drug”.
+Pub. L. 111–148, §7101(b)(1), substituted "covered drug" for "covered outpatient drug".
 
 Subsec. (a)(5)(E). Pub. L. 111–152, §2302(1)(C)(ii), redesignated subpar. (E) as (D).
 
-Pub. L. 111–152, §2302(1)(A), substituted “covered outpatient drug” for “covered drug”.
+Pub. L. 111–152, §2302(1)(A), substituted "covered outpatient drug" for "covered drug".
 
-Pub. L. 111–148, §§7101(c)(2)(A), 7102(b)(2), redesignated subpar. (D) as (E) and inserted “after audit as described in subparagraph (D) and” after “finds,”.
+Pub. L. 111–148, §§7101(c)(2)(A), 7102(b)(2), redesignated subpar. (D) as (E) and inserted "after audit as described in subparagraph (D) and" after "finds,".
 
-Subsec. (a)(7). Pub. L. 111–152, §2302(1)(A), substituted “covered outpatient drugs” for “covered drugs” wherever appearing.
+Subsec. (a)(7). Pub. L. 111–152, §2302(1)(A), substituted "covered outpatient drugs" for "covered drugs" wherever appearing.
 
-Pub. L. 111–148, §7101(b)(1), substituted “covered drugs” for “covered outpatient drugs” wherever appearing.
+Pub. L. 111–148, §7101(b)(1), substituted "covered drugs" for "covered outpatient drugs" wherever appearing.
 
-Subsec. (a)(9). Pub. L. 111–152, §2302(1)(A), substituted “covered outpatient drugs” for “covered drugs”.
+Subsec. (a)(9). Pub. L. 111–152, §2302(1)(A), substituted "covered outpatient drugs" for "covered drugs".
 
-Pub. L. 111–148, §7101(b)(1), substituted “covered drugs” for “covered outpatient drugs”.
+Pub. L. 111–148, §7101(b)(1), substituted "covered drugs" for "covered outpatient drugs".
 
-Subsec. (b). Pub. L. 111–148, §7101(b)(2)(A), which directed substitution of “Other definitions” for “Other definition” in subsec. heading, designation of existing provisions as par. (1), and insertion of par. (1) heading, was executed by reenacting subsec. heading without change, designating existing provisions as par. (1), and inserting par. (1) heading, to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 111–148, §7101(b)(2)(A), which directed substitution of "Other definitions" for "Other definition" in subsec. heading, designation of existing provisions as par. (1), and insertion of par. (1) heading, was executed by reenacting subsec. heading without change, designating existing provisions as par. (1), and inserting par. (1) heading, to reflect the probable intent of Congress.
 
 Subsec. (b)(2). Pub. L. 111–148, §7101(b)(2)(B), added par. (2).
 
-Subsec. (c). Pub. L. 111–152, §2302(2), struck out subsec. (c). Text read as follows: “Not later than 90 days after the date of filing of the hospital's most recently filed Medicare cost report, the hospital shall issue a credit as determined by the Secretary to the State Medicaid program for inpatient covered drugs provided to Medicaid recipients.”
+Subsec. (c). Pub. L. 111–152, §2302(2), struck out subsec. (c). Text read as follows: "Not later than 90 days after the date of filing of the hospital's most recently filed Medicare cost report, the hospital shall issue a credit as determined by the Secretary to the State Medicaid program for inpatient covered drugs provided to Medicaid recipients."
 
-Pub. L. 111–148, §7101(d), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “A manufacturer is deemed to meet the requirements of subsection (a) of this section if the manufacturer establishes to the satisfaction of the Secretary that the manufacturer would comply (and has offered to comply) with the provisions of this section (as in effect immediately after November 4, 1992), as applied by the Secretary, and would have entered into an agreement under this section (as such section was in effect at such time), but for a legislative change in this section (or the application of this section) after November 4, 1992.”
+Pub. L. 111–148, §7101(d), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "A manufacturer is deemed to meet the requirements of subsection (a) of this section if the manufacturer establishes to the satisfaction of the Secretary that the manufacturer would comply (and has offered to comply) with the provisions of this section (as in effect immediately after November 4, 1992), as applied by the Secretary, and would have entered into an agreement under this section (as such section was in effect at such time), but for a legislative change in this section (or the application of this section) after November 4, 1992."
 
-Pub. L. 111–148, §2501(f)(1)(B), (C), redesignated subsec. (d) as (c) and struck out former subsec. (c). Text of former subsec. (c) read as follows: “Any reference in this section to a provision of the Social Security Act shall be deemed to be a reference to the provision as in effect on November 4, 1992.”
+Pub. L. 111–148, §2501(f)(1)(B), (C), redesignated subsec. (d) as (c) and struck out former subsec. (c). Text of former subsec. (c) read as follows: "Any reference in this section to a provision of the Social Security Act shall be deemed to be a reference to the provision as in effect on November 4, 1992."
 
-Subsec. (d). Pub. L. 111–152, §2302(3), substituted “covered outpatient drugs” for “covered drugs” wherever appearing and substituted “(a)(5)(C)” for “(a)(5)(D)” and “(a)(5)(D)” for “(a)(5)(E)” in two places.
+Subsec. (d). Pub. L. 111–152, §2302(3), substituted "covered outpatient drugs" for "covered drugs" wherever appearing and substituted "(a)(5)(C)" for "(a)(5)(D)" and "(a)(5)(D)" for "(a)(5)(E)" in two places.
 
 Pub. L. 111–148, §7102(a), which directed general amendment of subsec. (d), was executed by adding subsec. (d) after subsec. (c) to reflect the probable intent of Congress, because no subsec. (d) appeared subsequent to amendment by Pub. L. 111–148, §2501(f)(1)(C). See below.
 
 Pub. L. 111–148, §2501(f)(1)(C), redesignated subsec. (d) as (c).
 
-Subsec. (e). Pub. L. 111–309 substituted “covered entities described in subparagraph (M) (other than a children's hospital described in subparagraph (M))” for “covered entities described in subparagraph (M)”.
+Subsec. (e). Pub. L. 111–309 substituted "covered entities described in subparagraph (M) (other than a children's hospital described in subparagraph (M))" for "covered entities described in subparagraph (M)".
 
 Pub. L. 111–152, §2302(4), added subsec. (e).
 
@@ -366,15 +366,15 @@ Pub. L. 111–152, §2302(4), added subsec. (e).
 
 #### Effective Date of 2010 Amendment ####
 
-Pub. L. 111–309, title II, §204(a)(2), Dec. 15, 2010, 124 Stat. 3289, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in the enactment of section 2302 of the Health Care and Education Reconciliation Act of 2010 (Public Law 111–152).”
+Pub. L. 111–309, title II, §204(a)(2), Dec. 15, 2010, 124 Stat. 3289, provided that: "The amendment made by paragraph (1) [amending this section] shall take effect as if included in the enactment of section 2302 of the Health Care and Education Reconciliation Act of 2010 (Public Law 111–152)."
 
-Pub. L. 111–148, title II, §2501(f)(2), Mar. 23, 2010, 124 Stat. 310, provided that: “The amendments made by this subsection [amending this section] take effect on January 1, 2010.”
+Pub. L. 111–148, title II, §2501(f)(2), Mar. 23, 2010, 124 Stat. 310, provided that: "The amendments made by this subsection [amending this section] take effect on January 1, 2010."
 
 Pub. L. 111–148, title VII, §7101(e), Mar. 23, 2010, 124 Stat. 823, provided that:
 
-“(1) In general.—The amendments made by this section [amending this section] and section 7102 [amending this section] shall take effect on January 1, 2010, and shall apply to drugs purchased on or after January 1, 2010.
+"(1) In general.—The amendments made by this section [amending this section] and section 7102 [amending this section] shall take effect on January 1, 2010, and shall apply to drugs purchased on or after January 1, 2010.
 
-“(2) Effectiveness.—The amendments made by this section and section 7102 shall be effective and shall be taken into account in determining whether a manufacturer is deemed to meet the requirements of section 340B(a) of the Public Health Service Act (42 U.S.C. 256b(a)), notwithstanding any other provision of law.”
+"(2) Effectiveness.—The amendments made by this section and section 7102 shall be effective and shall be taken into account in determining whether a manufacturer is deemed to meet the requirements of section 340B(a) of the Public Health Service Act (42 U.S.C. 256b(a)), notwithstanding any other provision of law."
 
 #### Study of Treatment of Certain Clinics as Covered Entities Eligible for Prescription Drug Discounts ####
 
@@ -382,6 +382,6 @@ Pub. L. 102–585, title VI, §602(b), Nov. 4, 1992, 106 Stat. 4970, directed Se
 
 [<sup>1</sup> See References in Text note below.](#256b_1)
 
-[<sup>2</sup> So in original. Probably should be “subparagraph”.](#256b_2)
+[<sup>2</sup> So in original. Probably should be "subparagraph".](#256b_2)
 
-[<sup>3</sup> So in original. Probably should be “subsection”.](#256b_3)
+[<sup>3</sup> So in original. Probably should be "subsection".](#256b_3)

@@ -48,25 +48,25 @@ A prior section 293i, act July 1, 1944, ch. 373, title VII, §729, as added Nov.
 
 #### Amendments ####
 
-**2010**—Subsec. (a). Pub. L. 111–148, §5307(a)(1)(A), substituted “Cultural competency, prevention, and public health and individuals with disability grants” for “Grants for health professions education in health disparities and cultural competency” in heading.
+**2010**—Subsec. (a). Pub. L. 111–148, §5307(a)(1)(A), substituted "Cultural competency, prevention, and public health and individuals with disability grants" for "Grants for health professions education in health disparities and cultural competency" in heading.
 
-Subsec. (a)(1). Pub. L. 111–148, §5307(a)(1)(B), substituted “for the development, evaluation, and dissemination of research, demonstration projects, and model curricula for cultural competency, prevention, public health proficiency, reducing health disparities, and aptitude for working with individuals with disabilities training for use in health professions schools and continuing education programs, and for other purposes determined as appropriate by the Secretary” for “for the purpose of carrying out research and demonstration projects (including research and demonstration projects for continuing health professions education) for training and education of health professionals for the reduction of disparities in health care outcomes and the provision of culturally competent health care”.
+Subsec. (a)(1). Pub. L. 111–148, §5307(a)(1)(B), substituted "for the development, evaluation, and dissemination of research, demonstration projects, and model curricula for cultural competency, prevention, public health proficiency, reducing health disparities, and aptitude for working with individuals with disabilities training for use in health professions schools and continuing education programs, and for other purposes determined as appropriate by the Secretary" for "for the purpose of carrying out research and demonstration projects (including research and demonstration projects for continuing health professions education) for training and education of health professionals for the reduction of disparities in health care outcomes and the provision of culturally competent health care".
 
-Subsecs. (b) to (d). Pub. L. 111–148, §5307(a)(2), added subsecs. (b) to (d) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “There are authorized to be appropriated to carry out subsection (a) of this section, $3,500,000 for fiscal year 2001, $7,000,000 for fiscal year 2002, $7,000,000 for fiscal year 2003, and $3,500,000 for fiscal year 2004.”
+Subsecs. (b) to (d). Pub. L. 111–148, §5307(a)(2), added subsecs. (b) to (d) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: "There are authorized to be appropriated to carry out subsection (a) of this section, $3,500,000 for fiscal year 2001, $7,000,000 for fiscal year 2002, $7,000,000 for fiscal year 2003, and $3,500,000 for fiscal year 2004."
 
 #### National Conference on Health Professions Education and Health Disparities ####
 
 Pub. L. 106–525, title IV, §402, Nov. 22, 2000, 114 Stat. 2509, provided that:
 
-“(a) In General.—Not later than 1 year after the date of enactment of this Act [Nov. 22, 2000], the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’), acting through the Administrator of the Health Resources and Services Administration, shall convene a national conference on health professions education as a method for reducing disparities in health outcomes.
+"(a) In General.—Not later than 1 year after the date of enactment of this Act [Nov. 22, 2000], the Secretary of Health and Human Services (in this section referred to as the 'Secretary'), acting through the Administrator of the Health Resources and Services Administration, shall convene a national conference on health professions education as a method for reducing disparities in health outcomes.
 
-“(b) Participants.—The Secretary shall include in the national conference convened under subsection (a) advocacy groups and educational entities as described in section 741 of the Public Health Service Act [42 U.S.C. 293e] (as added by section 401), tribal health programs, health centers under section 330 of such Act [42 U.S.C. 254b], and other interested parties.
+"(b) Participants.—The Secretary shall include in the national conference convened under subsection (a) advocacy groups and educational entities as described in section 741 of the Public Health Service Act [42 U.S.C. 293e] (as added by section 401), tribal health programs, health centers under section 330 of such Act [42 U.S.C. 254b], and other interested parties.
 
-“(c) Issues.—The national conference convened under subsection (a) shall include, but is not limited to, issues that address the role and impact of health professions education on the reduction of disparities in health outcomes, including the role of education on cultural competency. The conference shall focus on methods to achieve reductions in disparities in health outcomes through health professions education (including continuing education programs) and strategies for outcomes measurement to assess the effectiveness of education in reducing disparities.
+"(c) Issues.—The national conference convened under subsection (a) shall include, but is not limited to, issues that address the role and impact of health professions education on the reduction of disparities in health outcomes, including the role of education on cultural competency. The conference shall focus on methods to achieve reductions in disparities in health outcomes through health professions education (including continuing education programs) and strategies for outcomes measurement to assess the effectiveness of education in reducing disparities.
 
-“(d) Publication of Findings.—Not later than 6 months after the national conference under subsection (a) has convened, the Secretary shall publish in the Federal Register a summary of the proceedings and findings of the conference.
+"(d) Publication of Findings.—Not later than 6 months after the national conference under subsection (a) has convened, the Secretary shall publish in the Federal Register a summary of the proceedings and findings of the conference.
 
-“(e) Authorization of Appropriations.—There is authorized to be appropriated such sums as may be necessary to carry out this section.”
+"(e) Authorization of Appropriations.—There is authorized to be appropriated such sums as may be necessary to carry out this section."
 
 [<sup>1</sup> So in original. Act July 1, 1944, does not contain a section 270.](#293e_1)
 

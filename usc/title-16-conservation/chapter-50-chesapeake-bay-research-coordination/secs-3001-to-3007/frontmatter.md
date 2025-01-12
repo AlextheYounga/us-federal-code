@@ -20,4 +20,4 @@ Section 3007, Pub. L. 96–460, §8, Oct. 15, 1980, 94 Stat. 2048, provided that
 
 #### Short Title ####
 
-Pub. L. 96–460, §1, Oct. 15, 1980, 94 Stat. 2044, provided that this chapter may be cited as the “Chesapeake Bay Research Coordination Act of 1980”.
+Pub. L. 96–460, §1, Oct. 15, 1980, 94 Stat. 2044, provided that this chapter may be cited as the "Chesapeake Bay Research Coordination Act of 1980".

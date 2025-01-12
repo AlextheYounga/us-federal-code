@@ -2,4 +2,4 @@
 
 #### Amendments ####
 
-**2006**—Pub. L. 109–435, title II, §203, Dec. 20, 2006, 120 Stat. 3207, substituted “PROVISIONS RELATING TO EXPERIMENTAL AND NEW PRODUCTS” for “TEMPORARY RATES AND CLASSES” in subchapter heading.
+**2006**—Pub. L. 109–435, title II, §203, Dec. 20, 2006, 120 Stat. 3207, substituted "PROVISIONS RELATING TO EXPERIMENTAL AND NEW PRODUCTS" for "TEMPORARY RATES AND CLASSES" in subchapter heading.

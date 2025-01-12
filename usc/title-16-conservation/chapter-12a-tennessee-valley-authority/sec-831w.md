@@ -6,7 +6,7 @@ For the purpose of securing any rights of flowage, or obtaining title to or poss
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–447 substituted “Board” for “board” in two places.
+**2004**—Pub. L. 108–447 substituted "Board" for "board" in two places.
 
 #### Effective Date of 2004 Amendment ####
 

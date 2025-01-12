@@ -44,11 +44,11 @@ The President shall submit with each report under this section a statement of th
 
 **1996**—Subsecs. (b) to (e). Pub. L. 104–201 added subsecs. (b) to (d), redesignated former subsec. (c) as (e), and struck out former subsec. (b) which related to national emergency planning assumptions set forth in reports required under this section.
 
-**1993**—Subsec. (b). Pub. L. 103–160 struck out before period at end of first sentence “, based upon total mobilization of the economy of the United States for a sustained conventional global war for a period of not less than three years” and inserted after first sentence “Before October 1, 1994, such assumptions shall be based upon the total mobilization of the economy of the United States for a sustained conventional global war for a period of not less than three years. On and after October 1, 1994, such assumptions shall be based on an assumed national emergency involving military conflict that necessitates an expansion of the Armed Forces together with a significant mobilization of the economy of the United States.”
+**1993**—Subsec. (b). Pub. L. 103–160 struck out before period at end of first sentence ", based upon total mobilization of the economy of the United States for a sustained conventional global war for a period of not less than three years" and inserted after first sentence "Before October 1, 1994, such assumptions shall be based upon the total mobilization of the economy of the United States for a sustained conventional global war for a period of not less than three years. On and after October 1, 1994, such assumptions shall be based on an assumed national emergency involving military conflict that necessitates an expansion of the Armed Forces together with a significant mobilization of the economy of the United States."
 
-**1991**—Pub. L. 102–190, §3313(b)(2), substituted “Biennial” for “Annual” in section catchline.
+**1991**—Pub. L. 102–190, §3313(b)(2), substituted "Biennial" for "Annual" in section catchline.
 
-Subsec. (a). Pub. L. 102–190, §3313(b)(1), in introductory provisions, substituted “Not later than January 15 of every other year, the Secretary” for “The Secretary” and “a report” for “an annual report” and struck out “shall be submitted with the annual report submitted under section 98h–2(b) of this title and” before “shall include”.
+Subsec. (a). Pub. L. 102–190, §3313(b)(1), in introductory provisions, substituted "Not later than January 15 of every other year, the Secretary" for "The Secretary" and "a report" for "an annual report" and struck out "shall be submitted with the annual report submitted under section 98h–2(b) of this title and" before "shall include".
 
 #### Effective Date of 1996 Amendment ####
 
@@ -56,4 +56,4 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 3311(c) of Pu
 
 #### Initial Report Due Date ####
 
-Pub. L. 102–190, div. C, title XXXIII, §3313(b)(3), Dec. 5, 1991, 105 Stat. 1585, provided that: “The first report required by section 14(a) of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–5(a)), as amended by paragraph (1) shall be submitted not later than January 15, 1993.”
+Pub. L. 102–190, div. C, title XXXIII, §3313(b)(3), Dec. 5, 1991, 105 Stat. 1585, provided that: "The first report required by section 14(a) of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–5(a)), as amended by paragraph (1) shall be submitted not later than January 15, 1993."

@@ -24,6 +24,6 @@ A prior chapter 148, comprised of section 2501 et seq., relating to defense indu
 
 **2000**—Pub. L. 106–398, §1 [[div. A], title X, §1033(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260, added item for subchapter VII.
 
-**1998**—Pub. L. 105–261, div. A, title X, §1069(a)(4), Oct. 17, 1998, 112 Stat. 2136, substituted “2500” for “2491” in item for subchapter I and struck out “and Dual-Use Assistance Extension Programs” after “Technology” in item for subchapter IV.
+**1998**—Pub. L. 105–261, div. A, title X, §1069(a)(4), Oct. 17, 1998, 112 Stat. 2136, substituted "2500" for "2491" in item for subchapter I and struck out "and Dual-Use Assistance Extension Programs" after "Technology" in item for subchapter IV.
 
 **1996**—Pub. L. 104–106, div. A, title XIII, §1321(a)(2), Feb. 10, 1996, 110 Stat. 477, added item for subchapter VI.

@@ -10,4 +10,4 @@ Section was formerly classified to section 393 of Title 28 prior to the general 
 
 #### Change of Name ####
 
-“United States magistrate judges”, “magistrate judge”, and “magistrate judges” substituted in text for “United States magistrates”, “magistrate”, and “magistrates”, respectively, pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “magistrate” substituted for “commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
+"United States magistrate judges", "magistrate judge", and "magistrate judges" substituted in text for "United States magistrates", "magistrate", and "magistrates", respectively, pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, "magistrate" substituted for "commissioner" pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.

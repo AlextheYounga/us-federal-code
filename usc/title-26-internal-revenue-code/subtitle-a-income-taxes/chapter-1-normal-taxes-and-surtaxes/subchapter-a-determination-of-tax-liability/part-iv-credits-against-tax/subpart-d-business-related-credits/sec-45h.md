@@ -24,7 +24,7 @@ For purposes of this section—
 
 #### (1) Small business refiner ####
 
-The term “small business refiner” means, with respect to any taxable year, a refiner of crude oil—
+The term "small business refiner" means, with respect to any taxable year, a refiner of crude oil—
 
 (A) with respect to which not more than 1,500 individuals are engaged in the refinery operations of the business on any day during such taxable year, and
 
@@ -32,19 +32,19 @@ The term “small business refiner” means, with respect to any taxable year, a
 
 #### (2) Qualified costs ####
 
-The term “qualified costs” means, with respect to any facility, those costs paid or incurred during the applicable period for compliance with the applicable EPA regulations with respect to such facility, including expenditures for the construction of new process operation units or the dismantling and reconstruction of existing process units to be used in the production of low sulfur diesel fuel, associated adjacent or offsite equipment (including tankage, catalyst, and power supply), engineering, construction period interest, and sitework.
+The term "qualified costs" means, with respect to any facility, those costs paid or incurred during the applicable period for compliance with the applicable EPA regulations with respect to such facility, including expenditures for the construction of new process operation units or the dismantling and reconstruction of existing process units to be used in the production of low sulfur diesel fuel, associated adjacent or offsite equipment (including tankage, catalyst, and power supply), engineering, construction period interest, and sitework.
 
 #### (3) Applicable EPA regulations ####
 
-The term “applicable EPA regulations” means the Highway Diesel Fuel Sulfur Control Requirements of the Environmental Protection Agency.
+The term "applicable EPA regulations" means the Highway Diesel Fuel Sulfur Control Requirements of the Environmental Protection Agency.
 
 #### (4) Applicable period ####
 
-The term “applicable period” means, with respect to any facility, the period beginning on January 1, 2003, and ending on the earlier of the date which is 1 year after the date on which the taxpayer must comply with the applicable EPA regulations with respect to such facility or December 31, 2009.
+The term "applicable period" means, with respect to any facility, the period beginning on January 1, 2003, and ending on the earlier of the date which is 1 year after the date on which the taxpayer must comply with the applicable EPA regulations with respect to such facility or December 31, 2009.
 
 #### (5) Low sulfur diesel fuel ####
 
-The term “low sulfur diesel fuel” means diesel fuel with a sulfur content of 15 parts per million or less.
+The term "low sulfur diesel fuel" means diesel fuel with a sulfur content of 15 parts per million or less.
 
 #### (d) Special rule for determination of refinery runs ####
 
@@ -112,17 +112,17 @@ No credit shall be determined under subsection (a) for the taxable year if the t
 
 #### Amendments ####
 
-**2007**—Subsec. (b)(1)(A). Pub. L. 110–172, §7(a)(3)(A), substituted “qualified costs” for “qualified capital costs”.
+**2007**—Subsec. (b)(1)(A). Pub. L. 110–172, §7(a)(3)(A), substituted "qualified costs" for "qualified capital costs".
 
-Subsec. (c)(2). Pub. L. 110–172, §7(a)(3)(B), struck out “capital” before “costs” in heading.
+Subsec. (c)(2). Pub. L. 110–172, §7(a)(3)(B), struck out "capital" before "costs" in heading.
 
-Pub. L. 110–172, §7(a)(3)(A), substituted “qualified costs” for “qualified capital costs”.
+Pub. L. 110–172, §7(a)(3)(A), substituted "qualified costs" for "qualified capital costs".
 
-Subsec. (d). Pub. L. 110–172, §7(a)(1)(A), redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “For purposes of this subtitle, if a credit is determined under this section for any expenditure with respect to any property, the increase in basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so determined.”
+Subsec. (d). Pub. L. 110–172, §7(a)(1)(A), redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: "For purposes of this subtitle, if a credit is determined under this section for any expenditure with respect to any property, the increase in basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so determined."
 
 Subsec. (e). Pub. L. 110–172, §7(a)(1)(A), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Subsec. (e)(1), (2). Pub. L. 110–172, §7(a)(3)(A), substituted “qualified costs” for “qualified capital costs”.
+Subsec. (e)(1), (2). Pub. L. 110–172, §7(a)(3)(A), substituted "qualified costs" for "qualified capital costs".
 
 Subsec. (f). Pub. L. 110–172, §7(a)(1)(A), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
@@ -136,4 +136,4 @@ Amendment by Pub. L. 110–172 effective as if included in the provision of the 
 
 Section applicable to expenses paid or incurred after Dec. 31, 2002, in taxable years ending after such date, see section 339(f) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under section 38 of this title.
 
-[<sup>1</sup> So in original. Probably should be followed by “of”.](#45H_1)
+[<sup>1</sup> So in original. Probably should be followed by "of".](#45H_1)

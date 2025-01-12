@@ -32,6 +32,6 @@ Section 4524, Pub. L. 91–609, title VII, §723, Dec. 31, 1970, 84 Stat. 1801, 
 
 #### Savings Provision ####
 
-Pub. L. 98–181, title I [title IV, §474(e)], Nov. 30, 1983, 97 Stat. 1239, provided in part that: “Section 717 of title VII [42 U.S.C. 4518] shall remain in effect until completion of the transfer required in title I of the Department of Housing and Urban Development-Independent Agencies Appropriation Act, 1984 [12 U.S.C. 1701g–5a].”
+Pub. L. 98–181, title I [title IV, §474(e)], Nov. 30, 1983, 97 Stat. 1239, provided in part that: "Section 717 of title VII [42 U.S.C. 4518] shall remain in effect until completion of the transfer required in title I of the Department of Housing and Urban Development-Independent Agencies Appropriation Act, 1984 [12 U.S.C. 1701g–5a]."
 
 Any actions taken, prior to repeal, under the authority of sections 4511 to 4524 and 4528 to 4532 of this title to continue to be valid, with nothing in the repeal impairing the validity of any guarantees which have been made pursuant to this chapter and with such guarantees continuing to be governed by the provisions of this chapter, as it existed immediately before Nov. 30, 1983, see section 474(e) of Pub. L. 98–181, set out in part as a note under section 3901 of this title.

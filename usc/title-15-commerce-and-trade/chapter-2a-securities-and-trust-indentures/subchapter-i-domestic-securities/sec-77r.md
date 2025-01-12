@@ -38,7 +38,7 @@ A security is a covered security if such security is a security issued by an inv
 
 #### (3) Sales to qualified purchasers ####
 
-A security is a covered security with respect to the offer or sale of the security to qualified purchasers, as defined by the Commission by rule. In prescribing such rule, the Commission may define the term “qualified purchaser” differently with respect to different categories of securities, consistent with the public interest and the protection of investors.
+A security is a covered security with respect to the offer or sale of the security to qualified purchasers, as defined by the Commission by rule. In prescribing such rule, the Commission may define the term "qualified purchaser" differently with respect to different categories of securities, consistent with the public interest and the protection of investors.
 
 #### (4) Exemption in connection with certain exempt offerings ####
 
@@ -110,7 +110,7 @@ Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be require
 
 #### (F) <sup><a href="#77r_5_target" name="77r_5">5</a></sup> Fees not permitted on crowdfunded securities ####
 
-Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(4)(B), or will be such a covered security upon completion of the transaction, except for the securities commission (or any agency or office performing like functions) of the State of the principal place of business of the issuer, or any State in which purchasers of 50 percent or greater of the aggregate amount of the issue are residents, provided that for purposes of this subparagraph, the term “State” includes the District of Columbia and the territories of the United States.
+Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(4)(B), or will be such a covered security upon completion of the transaction, except for the securities commission (or any agency or office performing like functions) of the State of the principal place of business of the issuer, or any State in which purchasers of 50 percent or greater of the aggregate amount of the issue are residents, provided that for purposes of this subparagraph, the term "State" includes the District of Columbia and the territories of the United States.
 
 #### (3) Enforcement of requirements ####
 
@@ -122,23 +122,23 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Offering document ####
 
-The term “offering document”—
+The term "offering document"—
 
-(A) has the meaning given the term “prospectus” in section 77b(a)(10) of this title, but without regard to the provisions of subparagraphs (a) and (b) of that section; and
+(A) has the meaning given the term "prospectus" in section 77b(a)(10) of this title, but without regard to the provisions of subparagraphs (a) and (b) of that section; and
 
 (B) includes a communication that is not deemed to offer a security pursuant to a rule of the Commission.
 
 #### (2) Prepared by or on behalf of the issuer ####
 
-Not later than 6 months after October 11, 1996, the Commission shall, by rule, define the term “prepared by or on behalf of the issuer” for purposes of this section.
+Not later than 6 months after October 11, 1996, the Commission shall, by rule, define the term "prepared by or on behalf of the issuer" for purposes of this section.
 
 #### (3) State ####
 
-The term “State” has the same meaning as in section 78c of this title.
+The term "State" has the same meaning as in section 78c of this title.
 
 #### (4) Senior security ####
 
-The term “senior security” means any bond, debenture, note, or similar obligation or instrument constituting a security and evidencing indebtedness, and any stock of a class having priority over any other class as to distribution of assets or payment of dividends.
+The term "senior security" means any bond, debenture, note, or similar obligation or instrument constituting a security and evidencing indebtedness, and any stock of a class having priority over any other class as to distribution of assets or payment of dividends.
 
 (May 27, 1933, ch. 38, title I, §18, 48 Stat. 85; Pub. L. 104–290, title I, §102(a), Oct. 11, 1996, 110 Stat. 3417; Pub. L. 105–353, title III, §§301(a)(4), 302, Nov. 3, 1998, 112 Stat. 3235, 3237; Pub. L. 111–203, title IX, §985(a)(2), July 21, 2010, 124 Stat. 1933; Pub. L. 112–106, title III, §305(a), (b)(2), (c), (d)(2), title IV, §401(b), Apr. 5, 2012, 126 Stat. 322, 323, 325.)
 
@@ -158,29 +158,29 @@ Pub. L. 112–106, §305(a)(1), redesignated subpar. (C), relating to section 77
 
 Subsec. (b)(4)(E). Pub. L. 112–106, §305(a)(1), redesignated subpar. (D) as (E).
 
-Subsec. (c)(1). Pub. L. 112–106, §305(b)(2), substituted “, in connection with securities or securities transactions” for “with respect to fraud or deceit, or unlawful conduct by a broker or dealer, in connection with securities or securities transactions.” and added subpars. (A) and (B).
+Subsec. (c)(1). Pub. L. 112–106, §305(b)(2), substituted ", in connection with securities or securities transactions" for "with respect to fraud or deceit, or unlawful conduct by a broker or dealer, in connection with securities or securities transactions." and added subpars. (A) and (B).
 
-Subsec. (c)(1)(A)(ii). Pub. L. 112–106, §305(d)(2), which directed amendment of subsec. (c)(1) by substituting “, dealer, or funding portal” for “or dealer”, was executed by making the substitution in subpar. (A)(ii) as added by Pub. L. 112–106, §305(b)(2).
+Subsec. (c)(1)(A)(ii). Pub. L. 112–106, §305(d)(2), which directed amendment of subsec. (c)(1) by substituting ", dealer, or funding portal" for "or dealer", was executed by making the substitution in subpar. (A)(ii) as added by Pub. L. 112–106, §305(b)(2).
 
 Subsec. (c)(2)(F). Pub. L. 112–106, §305(c), added subpar. (F).
 
-**2010**—Subsec. (b)(1)(C). Pub. L. 111–203, §985(a)(2)(A), substituted “(C) a security” for “(C) is a security”.
+**2010**—Subsec. (b)(1)(C). Pub. L. 111–203, §985(a)(2)(A), substituted "(C) a security" for "(C) is a security".
 
-Subsec. (c)(2)(B)(i). Pub. L. 111–203, §985(a)(2)(B), substituted “State or” for “State, or”.
+Subsec. (c)(2)(B)(i). Pub. L. 111–203, §985(a)(2)(B), substituted "State or" for "State, or".
 
-**1998**—Subsec. (b)(1)(A). Pub. L. 105–353, §301(a)(4)(A), inserted “, or authorized for listing,” after “Exchange, or listed”.
+**1998**—Subsec. (b)(1)(A). Pub. L. 105–353, §301(a)(4)(A), inserted ", or authorized for listing," after "Exchange, or listed".
 
-Subsec. (b)(4)(C). Pub. L. 105–353, §302, substituted “paragraph (4), (10), or (11)” for “paragraph (4) or (11)”.
+Subsec. (b)(4)(C). Pub. L. 105–353, §302, substituted "paragraph (4), (10), or (11)" for "paragraph (4) or (11)".
 
 Subsec. (c)(2)(B)(i), (C)(i). Pub. L. 105–353, §301(a)(4)(B), (C), made technical amendments to references in original act which appear in text as references to October 11, 1996.
 
-Subsec. (d)(1)(A). Pub. L. 105–353, §301(a)(4)(D), substituted “section 77b(a)(10)” for “section 77b(10)” and “subparagraphs (a) and (b)” for “subparagraphs (A) and (B)”.
+Subsec. (d)(1)(A). Pub. L. 105–353, §301(a)(4)(D), substituted "section 77b(a)(10)" for "section 77b(10)" and "subparagraphs (a) and (b)" for "subparagraphs (A) and (B)".
 
 Subsec. (d)(2). Pub. L. 105–353, §301(a)(4)(E), made technical amendment to reference in original act which appears in text as reference to October 11, 1996.
 
-Subsec. (d)(4). Pub. L. 105–353, §301(a)(4)(F), substituted “The term” for “For purposes of this paragraph, the term”.
+Subsec. (d)(4). Pub. L. 105–353, §301(a)(4)(F), substituted "The term" for "For purposes of this paragraph, the term".
 
-**1996**—Pub. L. 104–290 substituted “Exemption from State regulation of securities offerings” for “State control of securities” as section catchline and amended text generally. Prior to amendment, text read as follows: “Nothing in this subchapter shall affect the jurisdiction of the securities commission (or any agency or office performing like functions) of any State or Territory of the United States, or the District of Columbia, over any security or any person.”
+**1996**—Pub. L. 104–290 substituted "Exemption from State regulation of securities offerings" for "State control of securities" as section catchline and amended text generally. Prior to amendment, text read as follows: "Nothing in this subchapter shall affect the jurisdiction of the securities commission (or any agency or office performing like functions) of any State or Territory of the United States, or the District of Columbia, over any security or any person."
 
 #### Effective Date of 2010 Amendment ####
 
@@ -192,18 +192,18 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Clarification of the Preservation of State Enforcement Authority ####
 
-Pub. L. 112–106, title III, §305(b)(1), Apr. 5, 2012, 126 Stat. 322, provided that: The amendments made by subsection (a) [amending this section] relate solely to State registration, documentation, and offering requirements, as described under section 18(a) of [the] Securities Act of 1933 (15 U.S.C. 77r(a)), and shall have no impact or limitation on other State authority to take enforcement action with regard to an issuer, funding portal, or any other person or entity using the exemption from registration provided by section 4(6) [probably means “section 4(a)(6)”] of that Act [15 U.S.C. 77d(a)(6)].”
+Pub. L. 112–106, title III, §305(b)(1), Apr. 5, 2012, 126 Stat. 322, provided that: The amendments made by subsection (a) [amending this section] relate solely to State registration, documentation, and offering requirements, as described under section 18(a) of [the] Securities Act of 1933 (15 U.S.C. 77r(a)), and shall have no impact or limitation on other State authority to take enforcement action with regard to an issuer, funding portal, or any other person or entity using the exemption from registration provided by section 4(6) [probably means "section 4(a)(6)"] of that Act [15 U.S.C. 77d(a)(6)]."
 
 #### Study and Report on Uniformity of State Regulatory Requirements ####
 
-Pub. L. 104–290, title I, §102(b), Oct. 11, 1996, 110 Stat. 3420, provided that: “The Commission shall conduct a study, after consultation with States, issuers, brokers, and dealers, on the extent to which uniformity of State regulatory requirements for securities or securities transactions has been achieved for securities that are not covered securities (within the meaning of section 18 of the Securities Act of 1933 [15 U.S.C. 77r], as amended by paragraph (1) of this subsection). Not later than 1 year after the date of enactment of this Act [Oct. 11, 1996], the Commission shall submit a report to the Congress on the results of such study.”
+Pub. L. 104–290, title I, §102(b), Oct. 11, 1996, 110 Stat. 3420, provided that: "The Commission shall conduct a study, after consultation with States, issuers, brokers, and dealers, on the extent to which uniformity of State regulatory requirements for securities or securities transactions has been achieved for securities that are not covered securities (within the meaning of section 18 of the Securities Act of 1933 [15 U.S.C. 77r], as amended by paragraph (1) of this subsection). Not later than 1 year after the date of enactment of this Act [Oct. 11, 1996], the Commission shall submit a report to the Congress on the results of such study."
 
 [<sup>1</sup> See References in Text note below.](#77r_1)
 
 [<sup>2</sup> So in original. There are two subpars. (D).](#77r_2)
 
-[<sup>3</sup> So in original. The words “in connection with securities or securities transactions” probably should be part of subpar. (A).](#77r_3)
+[<sup>3</sup> So in original. The words "in connection with securities or securities transactions" probably should be part of subpar. (A).](#77r_3)
 
-[<sup>4</sup> So in original. Probably should be “with”.](#77r_4)
+[<sup>4</sup> So in original. Probably should be "with".](#77r_4)
 
 [<sup>5</sup> So in original. No subpar. (E) has been enacted.](#77r_5)

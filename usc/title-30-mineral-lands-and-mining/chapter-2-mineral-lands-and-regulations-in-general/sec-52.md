@@ -6,7 +6,7 @@ All patents granted, or homesteads allowed, shall be subject to any vested and a
 
 #### Repeals ####
 
-Provision of this section, “, or rights to ditches and reservoirs used in connection with such water rights,” was repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
+Provision of this section, ", or rights to ditches and reservoirs used in connection with such water rights," was repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.
 
 #### Codification ####
 

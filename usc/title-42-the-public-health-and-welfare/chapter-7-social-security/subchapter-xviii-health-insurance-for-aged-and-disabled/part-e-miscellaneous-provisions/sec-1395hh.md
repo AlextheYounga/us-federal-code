@@ -2,7 +2,7 @@
 
 #### (a) Authority to prescribe regulations; ineffectiveness of substantive rules not promulgated by regulation ####
 
-(1) The Secretary shall prescribe such regulations as may be necessary to carry out the administration of the insurance programs under this subchapter. When used in this subchapter, the term “regulations” means, unless the context otherwise requires, regulations prescribed by the Secretary.
+(1) The Secretary shall prescribe such regulations as may be necessary to carry out the administration of the insurance programs under this subchapter. When used in this subchapter, the term "regulations" means, unless the context otherwise requires, regulations prescribed by the Secretary.
 
 (2) No rule, requirement, or other statement of policy (other than a national coverage determination) that establishes or changes a substantive legal standard governing the scope of benefits, the payment for services, or the eligibility of individuals, entities, or organizations to furnish or receive services or benefits under this subchapter shall take effect unless it is promulgated by the Secretary by regulation under paragraph (1).
 
@@ -102,15 +102,15 @@ Subsec. (c). Pub. L. 100–203, §4035(c), added subsec. (c).
 
 #### Effective Date of 2003 Amendment ####
 
-Pub. L. 108–173, title IX, §902(a)(2), Dec. 8, 2003, 117 Stat. 2375, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 8, 2003]. The Secretary [of Health and Human Services] shall provide for an appropriate transition to take into account the backlog of previously published interim final regulations.”
+Pub. L. 108–173, title IX, §902(a)(2), Dec. 8, 2003, 117 Stat. 2375, provided that: "The amendment made by paragraph (1) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 8, 2003]. The Secretary [of Health and Human Services] shall provide for an appropriate transition to take into account the backlog of previously published interim final regulations."
 
-Pub. L. 108–173, title IX, §902(b)(2), Dec. 8, 2003, 117 Stat. 2376, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to final regulations published on or after the date of the enactment of this Act [Dec. 8, 2003].”
+Pub. L. 108–173, title IX, §902(b)(2), Dec. 8, 2003, 117 Stat. 2376, provided that: "The amendment made by paragraph (1) [amending this section] shall apply to final regulations published on or after the date of the enactment of this Act [Dec. 8, 2003]."
 
-Pub. L. 108–173, title IX, §903(a)(2), Dec. 8, 2003, 117 Stat. 2376, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to substantive changes issued on or after the date of the enactment of this Act [Dec. 8, 2003].”
+Pub. L. 108–173, title IX, §903(a)(2), Dec. 8, 2003, 117 Stat. 2376, provided that: "The amendment made by paragraph (1) [amending this section] shall apply to substantive changes issued on or after the date of the enactment of this Act [Dec. 8, 2003]."
 
-Pub. L. 108–173, title IX, §903(b)(2), Dec. 8, 2003, 117 Stat. 2376, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to compliance actions undertaken on or after the date of the enactment of this Act [Dec. 8, 2003].”
+Pub. L. 108–173, title IX, §903(b)(2), Dec. 8, 2003, 117 Stat. 2376, provided that: "The amendment made by paragraph (1) [amending this section] shall apply to compliance actions undertaken on or after the date of the enactment of this Act [Dec. 8, 2003]."
 
-Pub. L. 108–173, title IX, §903(c)(2), Dec. 8, 2003, 117 Stat. 2377, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 8, 2003] and shall only apply to a penalty or interest imposed with respect to guidance provided on or after July 24, 2003.”
+Pub. L. 108–173, title IX, §903(c)(2), Dec. 8, 2003, 117 Stat. 2377, provided that: "The amendment made by paragraph (1) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 8, 2003] and shall only apply to a penalty or interest imposed with respect to guidance provided on or after July 24, 2003."
 
 #### Effective Date of 1987 Amendment ####
 
@@ -118,20 +118,20 @@ Amendment by Pub. L. 100–203 effective Dec. 22, 1987, and applicable to budget
 
 #### Effective Date of 1986 Amendment ####
 
-Pub. L. 99–509, title IX, §9321(e)(3)(A), Oct. 21, 1986, 100 Stat. 2018, provided that: “The amendments made by paragraph (1) [amending this section] shall apply to notices of proposed rulemaking issued after the date of the enactment of this Act [Oct. 21, 1986].”
+Pub. L. 99–509, title IX, §9321(e)(3)(A), Oct. 21, 1986, 100 Stat. 2018, provided that: "The amendments made by paragraph (1) [amending this section] shall apply to notices of proposed rulemaking issued after the date of the enactment of this Act [Oct. 21, 1986]."
 
 #### Regulations ####
 
-Pub. L. 101–508, title IV, §4207(j), formerly §4027(j), Nov. 5, 1990, 104 Stat. 1388–124, as renumbered and amended by Pub. L. 103–432, title I, §160(d)(4), (12), Oct. 31, 1994, 108 Stat. 4444, provided that: “The Secretary of Health and Human Services shall issue such regulations (on an interim or other basis) as may be necessary to implement this subtitle [subtitle A (§§4000–4361) of title IV of Pub. L. 101–508, see Tables for classification] and the amendments made by this subtitle.”
+Pub. L. 101–508, title IV, §4207(j), formerly §4027(j), Nov. 5, 1990, 104 Stat. 1388–124, as renumbered and amended by Pub. L. 103–432, title I, §160(d)(4), (12), Oct. 31, 1994, 108 Stat. 4444, provided that: "The Secretary of Health and Human Services shall issue such regulations (on an interim or other basis) as may be necessary to implement this subtitle [subtitle A (§§4000–4361) of title IV of Pub. L. 101–508, see Tables for classification] and the amendments made by this subtitle."
 
-Section 4039(g) of title IV of Pub. L. 100–203 provided that: “The Secretary of Health and Human Services shall issue such regulations (on an interim or other basis) as may be necessary to implement this subtitle and the amendments made by this subtitle [subtitle A (§§4001–4097) of title IV of Pub. L. 100–203, see Tables for classification].”
+Section 4039(g) of title IV of Pub. L. 100–203 provided that: "The Secretary of Health and Human Services shall issue such regulations (on an interim or other basis) as may be necessary to implement this subtitle and the amendments made by this subtitle [subtitle A (§§4001–4097) of title IV of Pub. L. 100–203, see Tables for classification]."
 
 #### GAO Study on Advisory Opinion Authority ####
 
 Pub. L. 108–173, title IX, §904(a), Dec. 8, 2003, 117 Stat. 2377, provided that:
 
-“(1) Study.—The Comptroller General of the United States shall conduct a study to determine the feasibility and appropriateness of establishing in the Secretary [of Health and Human Services] authority to provide legally binding advisory opinions on appropriate interpretation and application of regulations to carry out the medicare program under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.]. Such study shall examine the appropriate timeframe for issuing such advisory opinions, as well as the need for additional staff and funding to provide such opinions.
+"(1) Study.—The Comptroller General of the United States shall conduct a study to determine the feasibility and appropriateness of establishing in the Secretary [of Health and Human Services] authority to provide legally binding advisory opinions on appropriate interpretation and application of regulations to carry out the medicare program under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.]. Such study shall examine the appropriate timeframe for issuing such advisory opinions, as well as the need for additional staff and funding to provide such opinions.
 
-“(2) Report.—The Comptroller General shall submit to Congress a report on the study conducted under paragraph (1) by not later than 1 year after the date of the enactment of this Act [Dec. 8, 2003].”
+"(2) Report.—The Comptroller General shall submit to Congress a report on the study conducted under paragraph (1) by not later than 1 year after the date of the enactment of this Act [Dec. 8, 2003]."
 
 [<sup>1</sup> So in original. No subsec. (d) has been enacted.](#1395hh_1)

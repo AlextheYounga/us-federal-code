@@ -92,15 +92,15 @@ to an advisory committee of experts, established pursuant to subparagraph (B), f
 
 #### Amendments ####
 
-**2012**—Subsec. (a)(1). Pub. L. 112–144 substituted “under an administrative order under section 360c(e) of this title (or a regulation promulgated under such section prior to July 9, 2012) but such order (or regulation)” for “under a regulation under section 360c(e) of this title but such regulation”.
+**2012**—Subsec. (a)(1). Pub. L. 112–144 substituted "under an administrative order under section 360c(e) of this title (or a regulation promulgated under such section prior to July 9, 2012) but such order (or regulation)" for "under a regulation under section 360c(e) of this title but such regulation".
 
-**1997**—Subsec. (a)(1). Pub. L. 105–115, §204(d)(1), substituted “under subsection (b) of this section” for “under this section”.
+**1997**—Subsec. (a)(1). Pub. L. 105–115, §204(d)(1), substituted "under subsection (b) of this section" for "under this section".
 
-Subsec. (a)(2). Pub. L. 105–115, §204(d)(2), substituted “under subsection (b) of this section” for “under this section” in introductory provisions.
+Subsec. (a)(2). Pub. L. 105–115, §204(d)(2), substituted "under subsection (b) of this section" for "under this section" in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 105–115, §204(d)(3), substituted “under subsection (b) of this section” for “under this section”.
+Subsec. (a)(3). Pub. L. 105–115, §204(d)(3), substituted "under subsection (b) of this section" for "under this section".
 
-Subsec. (a)(4). Pub. L. 105–115, §204(d)(4), substituted “this subsection and subsection (b) of this section” for “this section” in introductory provisions.
+Subsec. (a)(4). Pub. L. 105–115, §204(d)(4), substituted "this subsection and subsection (b) of this section" for "this section" in introductory provisions.
 
 Subsec. (c). Pub. L. 105–115, §204(a), added subsec. (c).
 
@@ -108,33 +108,33 @@ Subsec. (c). Pub. L. 105–115, §204(a), added subsec. (c).
 
 **1992**—Subsec. (b)(4)(B), (5)(A)(ii). Pub. L. 102–300 made technical corrections to directory language of Pub. L. 101–629, §18(b)(1), (2). See 1990 Amendment note below.
 
-**1990**—Subsec. (a)(1). Pub. L. 101–629, §6(a)(1), substituted “The special controls required by section 360c(a)(1)(B) of this title shall include performance standards for a class II device if the Secretary determines that a performance standard is necessary to provide reasonable assurance of the safety and effectiveness of the device.” for “The Secretary may by regulation, promulgated in accordance with this section, establish a performance standard for a class II device.”
+**1990**—Subsec. (a)(1). Pub. L. 101–629, §6(a)(1), substituted "The special controls required by section 360c(a)(1)(B) of this title shall include performance standards for a class II device if the Secretary determines that a performance standard is necessary to provide reasonable assurance of the safety and effectiveness of the device." for "The Secretary may by regulation, promulgated in accordance with this section, establish a performance standard for a class II device."
 
 Subsec. (b). Pub. L. 101–629, §6(a)(2), (3), redesignated subsec. (g) as (b) and struck out former subsec. (b) which read as follows:
 
-“(1) A proceeding for the development of a performance standard for a device shall be initiated by the Secretary by the publication in the Federal Register of notice of the opportunity to submit to the Secretary a request (within fifteen days of the date of the publication of the notice) for a change in the classification of the device based on new information relevant to its classification.
+"(1) A proceeding for the development of a performance standard for a device shall be initiated by the Secretary by the publication in the Federal Register of notice of the opportunity to submit to the Secretary a request (within fifteen days of the date of the publication of the notice) for a change in the classification of the device based on new information relevant to its classification.
 
-“(2) If, after publication of a notice pursuant to paragraph (1) the Secretary receives a request for a change in the device's classification, he shall, within sixty days of the publication of such notice and after consultation with the appropriate panel under section 360c of this title, by order published in the Federal Register, either deny the request for change in classification or give notice of his intent to initiate such a change under section 360c(e) of this title.”
+"(2) If, after publication of a notice pursuant to paragraph (1) the Secretary receives a request for a change in the device's classification, he shall, within sixty days of the publication of such notice and after consultation with the appropriate panel under section 360c of this title, by order published in the Federal Register, either deny the request for change in classification or give notice of his intent to initiate such a change under section 360c(e) of this title."
 
 Subsec. (b)(1), (2). Pub. L. 101–629, §6(a)(4), amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 
-“(1)(A) After publication pursuant to subsection (c) of this section of a notice respecting a performance standard for a device, the Secretary shall either—
+"(1)(A) After publication pursuant to subsection (c) of this section of a notice respecting a performance standard for a device, the Secretary shall either—
 
-“(i) publish, in the Federal Register in a notice of proposed rulemaking, a proposed performance standard for the device (I) developed by an offeror under such notice and accepted by the Secretary, (II) developed under subsection (c)(4) of this section, (III) accepted by the Secretary under subsection (d) of this section, or (IV) developed by him under subsection (f) of this section, or
+"(i) publish, in the Federal Register in a notice of proposed rulemaking, a proposed performance standard for the device (I) developed by an offeror under such notice and accepted by the Secretary, (II) developed under subsection (c)(4) of this section, (III) accepted by the Secretary under subsection (d) of this section, or (IV) developed by him under subsection (f) of this section, or
 
-“(ii) issue a notice in the Federal Register that the proceeding is terminated together with the reasons for such termination.
+"(ii) issue a notice in the Federal Register that the proceeding is terminated together with the reasons for such termination.
 
-“(B) If the Secretary issues under subparagraph (A)(ii) a notice of termination of a proceeding to establish a performance standard for a device, he shall (unless such notice is issued because the device is a banned device under section 360f of this title) initiate a proceeding under section 360c(e) of this title to reclassify the device subject to the proceeding terminated by such notice.
+"(B) If the Secretary issues under subparagraph (A)(ii) a notice of termination of a proceeding to establish a performance standard for a device, he shall (unless such notice is issued because the device is a banned device under section 360f of this title) initiate a proceeding under section 360c(e) of this title to reclassify the device subject to the proceeding terminated by such notice.
 
-“(2) A notice of proposed rulemaking for the establishment of a performance standard for a device published under paragraph (1)(A)(i) shall set forth proposed findings with respect to the degree of the risk of illness or injury designed to be eliminated or reduced by the proposed standard and the benefit to the public from the device.”
+"(2) A notice of proposed rulemaking for the establishment of a performance standard for a device published under paragraph (1)(A)(i) shall set forth proposed findings with respect to the degree of the risk of illness or injury designed to be eliminated or reduced by the proposed standard and the benefit to the public from the device."
 
-Subsec. (b)(3)(A)(i). Pub. L. 101–629, §6(b)(1)(A), substituted “paragraph (1)” for “paragraph (2)”.
+Subsec. (b)(3)(A)(i). Pub. L. 101–629, §6(b)(1)(A), substituted "paragraph (1)" for "paragraph (2)".
 
-Subsec. (b)(4)(A). Pub. L. 101–629, §6(b)(1)(B), substituted “paragraphs (1), (2), and (3)(B)” for “paragraphs (2) and (3)(B)”.
+Subsec. (b)(4)(A). Pub. L. 101–629, §6(b)(1)(B), substituted "paragraphs (1), (2), and (3)(B)" for "paragraphs (2) and (3)(B)".
 
-Subsec. (b)(4)(B). Pub. L. 101–629, §18(b)(1), as amended by Pub. L. 102–300, §6(g)(1), (2), and Pub. L. 103–80, §4(a)(1), struck out “, after affording all interested persons an opportunity for an informal hearing,” after “if he determines”.
+Subsec. (b)(4)(B). Pub. L. 101–629, §18(b)(1), as amended by Pub. L. 102–300, §6(g)(1), (2), and Pub. L. 103–80, §4(a)(1), struck out ", after affording all interested persons an opportunity for an informal hearing," after "if he determines".
 
-Subsec. (b)(5)(A)(ii). Pub. L. 101–629, §18(b)(2), as amended by Pub. L. 102–300, §6(g)(1), (3), and Pub. L. 103–80, §4(a)(1), substituted “which demonstrates good cause for referral and which is made before the expiration of the period for submission of comments on such proposed regulation refer such proposed regulation,” for “unless the Secretary finds the request to be without good cause or the request is made after the expiration of the period for submission of comments on such proposed regulation refer such proposed regulation,”.
+Subsec. (b)(5)(A)(ii). Pub. L. 101–629, §18(b)(2), as amended by Pub. L. 102–300, §6(g)(1), (3), and Pub. L. 103–80, §4(a)(1), substituted "which demonstrates good cause for referral and which is made before the expiration of the period for submission of comments on such proposed regulation refer such proposed regulation," for "unless the Secretary finds the request to be without good cause or the request is made after the expiration of the period for submission of comments on such proposed regulation refer such proposed regulation,".
 
 Subsecs. (c) to (f). Pub. L. 101–629, §6(a)(2), struck out subsec. (c) relating to invitations for standards, subsec. (d) relating to acceptance of certain existing standards, subsec. (e) relating to acceptance of offers to develop standards, and subsec. (f) relating to development of standards by the Secretary after publication of notice inviting submissions or offers of standards.
 

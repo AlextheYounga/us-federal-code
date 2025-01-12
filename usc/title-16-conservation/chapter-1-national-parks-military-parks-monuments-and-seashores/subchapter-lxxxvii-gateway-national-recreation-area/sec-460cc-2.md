@@ -6,9 +6,9 @@ The Secretary shall administer the recreation area in accordance with the provis
 
 #### (b) William Fitts Ryan Visitor Center; designation ####
 
-(1) The Secretary shall designate the principal visitor center within the recreation area as the “William Fitts Ryan Visitor Center” in commemoration of the leadership and contributions which Representative William Fitts Ryan made with respect to the creation and establishment of this public recreation area. To inform the public of the contributions of Representative Ryan to the creation of the recreation area, the Secretary shall provide such signs, markers, maps, interpretive materials, literature, and programs as he deems appropriate. Not later than December 31, 1980, the Secretary shall take such additional actions as he deems appropriate to recognize and commemorate the contributions of Representative Ryan to the recreation area.
+(1) The Secretary shall designate the principal visitor center within the recreation area as the "William Fitts Ryan Visitor Center" in commemoration of the leadership and contributions which Representative William Fitts Ryan made with respect to the creation and establishment of this public recreation area. To inform the public of the contributions of Representative Ryan to the creation of the recreation area, the Secretary shall provide such signs, markers, maps, interpretive materials, literature, and programs as he deems appropriate. Not later than December 31, 1980, the Secretary shall take such additional actions as he deems appropriate to recognize and commemorate the contributions of Representative Ryan to the recreation area.
 
-(2) The portion of the Staten Island Unit of the recreation area known as Miller Field is hereby designated as “World War Veterans Park at Miller Field”. Any reference to such Miller Field in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to “World War Veterans Park at Miller Field”.
+(2) The portion of the Staten Island Unit of the recreation area known as Miller Field is hereby designated as "World War Veterans Park at Miller Field". Any reference to such Miller Field in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to "World War Veterans Park at Miller Field".
 
 #### (c) Federal-State cooperative agreements for police and fire protection ####
 
@@ -46,4 +46,4 @@ Notwithstanding the provisions of subsection (a) of this section, the United Sta
 
 **1982**—Subsec. (i). Pub. L. 97–232 added subsec. (i).
 
-**1980**—Subsec. (b). Pub. L. 96–344 struck out “constructed” after “visitor center” and inserted provision authorizing the Secretary to inform the public of the contributions of Representative Ryan to the creation of the recreation area by means of signs, markers, etc., and to take such additional action, not later than Dec. 31, 1980, as deemed appropriate to recognize and commemorate the contributions of Representative Ryan to the recreation area.
+**1980**—Subsec. (b). Pub. L. 96–344 struck out "constructed" after "visitor center" and inserted provision authorizing the Secretary to inform the public of the contributions of Representative Ryan to the creation of the recreation area by means of signs, markers, etc., and to take such additional action, not later than Dec. 31, 1980, as deemed appropriate to recognize and commemorate the contributions of Representative Ryan to the recreation area.

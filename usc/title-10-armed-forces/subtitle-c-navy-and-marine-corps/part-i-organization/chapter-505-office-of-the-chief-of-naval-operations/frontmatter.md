@@ -20,7 +20,7 @@ Sec.
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–106, div. A, title V, §502(d)(2), Feb. 10, 1996, 110 Stat. 293, struck out item 5034 “Chief of Naval Operations: retirement”.
+**1996**—Pub. L. 104–106, div. A, title V, §502(d)(2), Feb. 10, 1996, 110 Stat. 293, struck out item 5034 "Chief of Naval Operations: retirement".
 
 **1992**—Pub. L. 102–484, div. A, title IX, §935(b)(2), Oct. 23, 1992, 106 Stat. 2478, added item 5038.
 

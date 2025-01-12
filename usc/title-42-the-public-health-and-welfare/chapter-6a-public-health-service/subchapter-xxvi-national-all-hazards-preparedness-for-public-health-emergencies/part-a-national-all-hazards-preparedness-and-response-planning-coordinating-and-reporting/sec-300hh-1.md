@@ -60,7 +60,7 @@ Increasing the preparedness, response capabilities, and surge capacity of hospit
 
 (A) Taking into account the public health and medical needs of at-risk individuals, including the unique needs and considerations of individuals with disabilities, in the event of a public health emergency.
 
-(B) For the purpose of this section and sections 247d–3a, 247d–6, and 247d–7e of this title, the term “at-risk individuals” means children, pregnant women, senior citizens and other individuals who have special needs in the event of a public health emergency, as determined by the Secretary.
+(B) For the purpose of this section and sections 247d–3a, 247d–6, and 247d–7e of this title, the term "at-risk individuals" means children, pregnant women, senior citizens and other individuals who have special needs in the event of a public health emergency, as determined by the Secretary.
 
 #### (5) Coordination ####
 
@@ -74,7 +74,7 @@ Maintaining vital public health and medical services to allow for optimal Federa
 
 (A) Promoting strategic initiatives to advance countermeasures to diagnose, mitigate, prevent, or treat harm from any biological agent or toxin, chemical, radiological, or nuclear agent or agents, whether naturally occurring, unintentional, or deliberate.
 
-(B) For purposes of this paragraph, the term “countermeasures” has the same meaning as the terms “qualified countermeasures” under section 247d–6a of this title, “qualified pandemic and epidemic products” under section 247d–6d of this title, and “security countermeasures” under section 247d–6b of this title.
+(B) For purposes of this paragraph, the term "countermeasures" has the same meaning as the terms "qualified countermeasures" under section 247d–6a of this title, "qualified pandemic and epidemic products" under section 247d–6d of this title, and "security countermeasures" under section 247d–6b of this title.
 
 #### (8) Medical and public health community resiliency ####
 
@@ -88,31 +88,31 @@ Strengthening the ability of States, local communities, and tribal communities t
 
 #### References in Text ####
 
-Section 314(6) of title 6, referred to in subsec. (a)(1), was in the original “section 502(6) of the Homeland Security Act of 2002”, and was translated as meaning section 504(6) of Pub. L. 107–296, to reflect the probable intent of Congress and the renumbering of section 502 as 504 by Pub. L. 109–295, title VI, §611(8), Oct. 4, 2006, 120 Stat. 1395.
+Section 314(6) of title 6, referred to in subsec. (a)(1), was in the original "section 502(6) of the Homeland Security Act of 2002", and was translated as meaning section 504(6) of Pub. L. 107–296, to reflect the probable intent of Congress and the renumbering of section 502 as 504 by Pub. L. 109–295, title VI, §611(8), Oct. 4, 2006, 120 Stat. 1395.
 
 #### Amendments ####
 
-**2013**—Subsec. (a)(1). Pub. L. 113–5, §101(a)(1), substituted “2014” for “2009”.
+**2013**—Subsec. (a)(1). Pub. L. 113–5, §101(a)(1), substituted "2014" for "2009".
 
-Subsec. (b)(1)(A). Pub. L. 113–5, §101(a)(2)(A), inserted “, including drills and exercises to ensure medical surge capacity for events without notice” after “through drills and exercises”.
+Subsec. (b)(1)(A). Pub. L. 113–5, §101(a)(2)(A), inserted ", including drills and exercises to ensure medical surge capacity for events without notice" after "through drills and exercises".
 
-Subsec. (b)(3). Pub. L. 113–5, §101(a)(2)(B)(i), in introductory provisions, substituted “and ambulatory care facilities and which may include dental health facilities), and trauma care, critical care,” for “facilities), and trauma care” and inserted “(including related availability, accessibility, and coordination)” after “public health emergencies”.
+Subsec. (b)(3). Pub. L. 113–5, §101(a)(2)(B)(i), in introductory provisions, substituted "and ambulatory care facilities and which may include dental health facilities), and trauma care, critical care," for "facilities), and trauma care" and inserted "(including related availability, accessibility, and coordination)" after "public health emergencies".
 
-Subsec. (b)(3)(A). Pub. L. 113–5, §101(a)(2)(B)(ii), inserted “and trauma” after “medical”.
+Subsec. (b)(3)(A). Pub. L. 113–5, §101(a)(2)(B)(ii), inserted "and trauma" after "medical".
 
-Subsec. (b)(3)(B). Pub. L. 113–5, §101(a)(2)(B)(iii), substituted “Fatality management” for “Medical evacuation and fatality management”.
+Subsec. (b)(3)(B). Pub. L. 113–5, §101(a)(2)(B)(iii), substituted "Fatality management" for "Medical evacuation and fatality management".
 
 Subsec. (b)(3)(C), (D). Pub. L. 113–5, §101(a)(2)(B)(iv), (v), added subpar. (C) and redesignated former subpar. (C) as (D). Former subpar. (D) redesignated (E).
 
-Subsec. (b)(3)(E). Pub. L. 113–5, §101(a)(2)(B)(iv), (vi), redesignated subpar. (D) as (E) and inserted “(which may include such dental health assets)” after “medical assets”. Former subpar. (E) redesignated (F).
+Subsec. (b)(3)(E). Pub. L. 113–5, §101(a)(2)(B)(iv), (vi), redesignated subpar. (D) as (E) and inserted "(which may include such dental health assets)" after "medical assets". Former subpar. (E) redesignated (F).
 
 Subsec. (b)(3)(F). Pub. L. 113–5, §101(a)(2)(B)(iv), redesignated subpar. (E) as (F).
 
 Subsec. (b)(3)(G). Pub. L. 113–5, §101(a)(2)(B)(vii), added subpar. (G).
 
-Subsec. (b)(4)(A). Pub. L. 113–5, §101(a)(2)(C)(i), inserted “, including the unique needs and considerations of individuals with disabilities,” after “needs of at-risk individuals”.
+Subsec. (b)(4)(A). Pub. L. 113–5, §101(a)(2)(C)(i), inserted ", including the unique needs and considerations of individuals with disabilities," after "needs of at-risk individuals".
 
-Subsec. (b)(4)(B). Pub. L. 113–5, §101(a)(2)(C)(ii), inserted “the” before “purpose of this section”.
+Subsec. (b)(4)(B). Pub. L. 113–5, §101(a)(2)(C)(ii), inserted "the" before "purpose of this section".
 
 Subsec. (b)(7), (8). Pub. L. 113–5, §101(a)(2)(D), added pars. (7) and (8).
 

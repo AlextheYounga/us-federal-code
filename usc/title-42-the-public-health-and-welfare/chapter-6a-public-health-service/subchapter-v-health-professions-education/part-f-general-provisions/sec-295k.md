@@ -36,7 +36,7 @@ The Secretary shall submit to the Congress on October 1, 1993, and biennially th
 
 #### (1) In general ####
 
-The Secretary and each program entity shall in securing and maintaining any record of individually identifiable personal data (hereinafter in this subsection referred to as “personal data”) for purposes of this section—
+The Secretary and each program entity shall in securing and maintaining any record of individually identifiable personal data (hereinafter in this subsection referred to as "personal data") for purposes of this section—
 
 (A) inform any individual who is asked to supply personal data whether he is legally required, or may refuse, to supply such data and inform him of any specific consequences, known to the Secretary or program entity, as the case may be, of providing or not providing such data;
 
@@ -56,9 +56,9 @@ Any entity which maintains a record of personal data and which receives a reques
 
 (B) Subject to all applicable laws regarding confidentiality, only the data collected by the Secretary under this section which is not personal data shall be made available to bona fide researchers and policy analysts (including the Congress) for the purposes of assisting in the conduct of studies respecting health professions personnel.
 
-#### (4) “Program entity” defined ####
+#### (4) "Program entity" defined ####
 
-For purposes of this subsection, the term “program entity” means any public or private entity which collects, compiles, or analyzes health professions data under a grant, contract, or other arrangement with the Secretary under this section.
+For purposes of this subsection, the term "program entity" means any public or private entity which collects, compiles, or analyzes health professions data under a grant, contract, or other arrangement with the Secretary under this section.
 
 #### (g) <sup><a href="#295k_2_target" name="295k_2">2</a></sup> Technical assistance ####
 
@@ -84,15 +84,15 @@ Another prior section 792 of act July 1, 1944, was classified to section 295h–
 
 #### Amendments ####
 
-**1998**—Subsec. (a). Pub. L. 105–392 inserted “professional counselors,” after “clinical psychologists,”.
+**1998**—Subsec. (a). Pub. L. 105–392 inserted "professional counselors," after "clinical psychologists,".
 
 #### Study Regarding Shortages of Licensed Pharmacists ####
 
 Pub. L. 106–129, §5, Dec. 6, 1999, 113 Stat. 1675, provided that:
 
-“(a) In General.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’), acting through the appropriate agencies of the Public Health Service, shall conduct a study to determine whether and to what extent there is a shortage of licensed pharmacists. In carrying out the study, the Secretary shall seek the comments of appropriate public and private entities regarding any such shortage.
+"(a) In General.—The Secretary of Health and Human Services (in this section referred to as the 'Secretary'), acting through the appropriate agencies of the Public Health Service, shall conduct a study to determine whether and to what extent there is a shortage of licensed pharmacists. In carrying out the study, the Secretary shall seek the comments of appropriate public and private entities regarding any such shortage.
 
-“(b) Report to Congress.—Not later than 1 year after the date of the enactment of this Act [Dec. 6, 1999], the Secretary shall complete the study under subsection (a) and submit to the Congress a report that describes the findings made through the study and that contains a summary of the comments received by the Secretary pursuant to such subsection.”
+"(b) Report to Congress.—Not later than 1 year after the date of the enactment of this Act [Dec. 6, 1999], the Secretary shall complete the study under subsection (a) and submit to the Congress a report that describes the findings made through the study and that contains a summary of the comments received by the Secretary pursuant to such subsection."
 
 #### Advisory Council on Graduate Medical Education ####
 

@@ -10,17 +10,17 @@ For purposes of this section—
 
 #### (1) Eligible differential wage payments ####
 
-The term “eligible differential wage payments” means, with respect to each qualified employee, so much of the differential wage payments (as defined in section 3401(h)(2)) paid to such employee for the taxable year as does not exceed $20,000.
+The term "eligible differential wage payments" means, with respect to each qualified employee, so much of the differential wage payments (as defined in section 3401(h)(2)) paid to such employee for the taxable year as does not exceed $20,000.
 
 #### (2) Qualified employee ####
 
-The term “qualified employee” means a person who has been an employee of the taxpayer for the 91-day period immediately preceding the period for which any differential wage payment is made.
+The term "qualified employee" means a person who has been an employee of the taxpayer for the 91-day period immediately preceding the period for which any differential wage payment is made.
 
 #### (3) Eligible small business employer ####
 
 #### (A) In general ####
 
-The term “eligible small business employer” means, with respect to any taxable year, any employer which—
+The term "eligible small business employer" means, with respect to any taxable year, any employer which—
 
 (i) employed an average of less than 50 employees on business days during such taxable year, and
 
@@ -58,17 +58,17 @@ The date of the enactment of this section, referred to in subsec. (d)(1), is the
 
 #### Amendments ####
 
-**2013**—Subsec. (f). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”.
+**2013**—Subsec. (f). Pub. L. 112–240 substituted "December 31, 2013" for "December 31, 2011".
 
-**2010**—Subsec. (f). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
+**2010**—Subsec. (f). Pub. L. 111–312 substituted "December 31, 2011" for "December 31, 2009".
 
 #### Effective Date of 2013 Amendment ####
 
-Pub. L. 112–240, title III, §308(b), Jan. 2, 2013, 126 Stat. 2329, provided that: “The amendment made by this section [amending this section] shall apply to payments made after December 31, 2011.”
+Pub. L. 112–240, title III, §308(b), Jan. 2, 2013, 126 Stat. 2329, provided that: "The amendment made by this section [amending this section] shall apply to payments made after December 31, 2011."
 
 #### Effective Date of 2010 Amendment ####
 
-Pub. L. 111–312, title VII, §736(b), Dec. 17, 2010, 124 Stat. 3318, provided that: “The amendment made by this section [amending this section] shall apply to payments made after December 31, 2009.”
+Pub. L. 111–312, title VII, §736(b), Dec. 17, 2010, 124 Stat. 3318, provided that: "The amendment made by this section [amending this section] shall apply to payments made after December 31, 2009."
 
 #### Effective Date ####
 

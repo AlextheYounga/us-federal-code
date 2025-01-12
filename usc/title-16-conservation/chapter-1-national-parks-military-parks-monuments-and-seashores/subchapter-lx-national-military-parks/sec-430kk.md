@@ -6,7 +6,7 @@ The Secretary of the Interior shall acquire, by gift, purchase, condemnation, or
 
 #### (b) Expansion of boundaries ####
 
-(1) The boundaries of the Wilson's Creek National Battlefield are revised to include lands and interests therein consisting of six parcels totaling 615 acres and identified as parcels “1, 2, 3, 4, 5, and 6” on the map entitled “Wilson's Creek National Battlefield Proposed Boundary”, numbered 410/80,037 and dated January 27, 2004. The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+(1) The boundaries of the Wilson's Creek National Battlefield are revised to include lands and interests therein consisting of six parcels totaling 615 acres and identified as parcels "1, 2, 3, 4, 5, and 6" on the map entitled "Wilson's Creek National Battlefield Proposed Boundary", numbered 410/80,037 and dated January 27, 2004. The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
 (2) The Secretary is authorized to acquire the lands referred to in paragraph (1) by donation, by purchase from willing sellers with donated or appropriated funds, or by exchange. The Secretary may acquire by the same methods personal property associated with, and appropriate for, interpretation of the park.
 
@@ -42,4 +42,4 @@ The boundaries of the Wilson's Creek National Battlefield, as revised by subsect
 
 #### Short Title of 2004 Amendment ####
 
-Pub. L. 108–394, §1, Oct. 30, 2004, 118 Stat. 2247, provided that: “This Act [amending this section and section 430mm of this title] may be cited as the ‘Wilson's Creek National Battlefield Boundary Adjustment Act of 2004’.”
+Pub. L. 108–394, §1, Oct. 30, 2004, 118 Stat. 2247, provided that: "This Act [amending this section and section 430mm of this title] may be cited as the 'Wilson's Creek National Battlefield Boundary Adjustment Act of 2004'."

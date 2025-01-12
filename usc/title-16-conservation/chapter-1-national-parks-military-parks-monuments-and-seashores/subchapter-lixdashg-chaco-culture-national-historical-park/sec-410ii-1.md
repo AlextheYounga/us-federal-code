@@ -2,11 +2,11 @@
 
 #### (a) Abolition of Chaco Canyon National Monument ####
 
-There is hereby established in the State of New Mexico, the Chaco Culture National Historical Park comprising approximately thirty three thousand nine hundred and eighty nine acres as generally depicted on the map entitled “Chaco Culture National Historical Park”, numbered 310/80,032–A and dated August 1979. The Chaco Canyon National Monument is hereby abolished, as such, and any funds available for the purpose of the monument shall be available for the purpose of the Chaco Culture National Historical Park.
+There is hereby established in the State of New Mexico, the Chaco Culture National Historical Park comprising approximately thirty three thousand nine hundred and eighty nine acres as generally depicted on the map entitled "Chaco Culture National Historical Park", numbered 310/80,032–A and dated August 1979. The Chaco Canyon National Monument is hereby abolished, as such, and any funds available for the purpose of the monument shall be available for the purpose of the Chaco Culture National Historical Park.
 
 #### (b) Designation of Chaco Culture Archeological Protection Sites ####
 
-(1) Thirty-nine outlying sites as generally depicted on a map entitled “Chaco Culture Archeological Protection Sites”, numbered 310/80,033–B and dated September 1991, are hereby designated as “Chaco Culture Archeological Protection Sites”. The thirty-nine archeological protection sites totaling approximately 14,372 acres <sup><a href="#410ii-1_1_target" name="410ii-1_1">1</a></sup> identified as follows:
+(1) Thirty-nine outlying sites as generally depicted on a map entitled "Chaco Culture Archeological Protection Sites", numbered 310/80,033–B and dated September 1991, are hereby designated as "Chaco Culture Archeological Protection Sites". The thirty-nine archeological protection sites totaling approximately 14,372 acres <sup><a href="#410ii-1_1_target" name="410ii-1_1">1</a></sup> identified as follows:
 
 Name:
 
@@ -176,4 +176,4 @@ Upper Kin Klizhin
 
 **1995**—Subsec. (b). Pub. L. 104–11 designated existing provisions as par. (1), increased number of outlying protection sites from 33 to 39, updated number designation and date on site designation maps, increased total acreage from 8,771 to 14,372 acres, and added par. (2).
 
-[<sup>1</sup> So in original. Probably should be “acres are”.](#410ii-1_1)
+[<sup>1</sup> So in original. Probably should be "acres are".](#410ii-1_1)

@@ -18,15 +18,15 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments ####
 
-**2013**—Subsec. (b)(2). Pub. L. 112–239 substituted “The Assistant Secretary, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation, shall submit” for “The Assistant Secretary shall submit”.
+**2013**—Subsec. (b)(2). Pub. L. 112–239 substituted "The Assistant Secretary, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation, shall submit" for "The Assistant Secretary shall submit".
 
-**2011**—Pub. L. 111–383, §901(k)(1)(B), substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering” in section catchline.
+**2011**—Pub. L. 111–383, §901(k)(1)(B), substituted "Assistant Secretary of Defense for Research and Engineering" for "Director of Defense Research and Engineering" in section catchline.
 
 Pub. L. 111–383, §901(b)(6), renumbered section 139a of this title as this section.
 
-Subsec. (a). Pub. L. 111–383, §901(b)(6)(A) to (C), redesignated subsec. (b) as (a), substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering”, and struck out former subsec. (a) which read as follows: “There is a Director of Defense Research and Engineering, appointed from civilian life by the President, by and with the advice and consent of the Senate.”
+Subsec. (a). Pub. L. 111–383, §901(b)(6)(A) to (C), redesignated subsec. (b) as (a), substituted "Assistant Secretary of Defense for Research and Engineering" for "Director of Defense Research and Engineering", and struck out former subsec. (a) which read as follows: "There is a Director of Defense Research and Engineering, appointed from civilian life by the President, by and with the advice and consent of the Senate."
 
-Subsec. (b). Pub. L. 111–383, §901(b)(6)(B), (D), redesignated subsec. (c) as (b) and substituted “Assistant Secretary of Defense for Research and Engineering,” for “Director of Defense Research and Engineering,” in par. (1) and “Assistant Secretary” for “Director” in par. (2). Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 111–383, §901(b)(6)(B), (D), redesignated subsec. (c) as (b) and substituted "Assistant Secretary of Defense for Research and Engineering," for "Director of Defense Research and Engineering," in par. (1) and "Assistant Secretary" for "Director" in par. (2). Former subsec. (b) redesignated (a).
 
 Subsec. (c). Pub. L. 111–383, §901(b)(6)(B), redesignated subsec. (c) as (b).
 
@@ -34,49 +34,49 @@ Subsec. (c). Pub. L. 111–383, §901(b)(6)(B), redesignated subsec. (c) as (b).
 
 **2002**—Pub. L. 107–314 renumbered section 137 of this title as this section.
 
-**1999**—Subsec. (b). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+**1999**—Subsec. (b). Pub. L. 106–65 substituted "Under Secretary of Defense for Acquisition, Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology".
 
 **1996**—Pub. L. 104–106, §903(a), (c)(3), which directed repeal of this section eff. Jan. 31, 1997, was repealed by Pub. L. 104–201.
 
 **1993**—Pub. L. 103–160, §901(a)(1), renumbered section 135 of this title as this section.
 
-Subsec. (b). Pub. L. 103–160, §904(d)(1), substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
+Subsec. (b). Pub. L. 103–160, §904(d)(1), substituted "Under Secretary of Defense for Acquisition and Technology" for "Under Secretary of Defense for Acquisition".
 
-**1986**—Pub. L. 99–433, §105(1), amended section catchline generally, substituting “Director of Defense Research and Engineering” for “Under Secretary of Defense for Policy; Director of Defense Research and Engineering: appointments; powers and duties; precedence”.
+**1986**—Pub. L. 99–433, §105(1), amended section catchline generally, substituting "Director of Defense Research and Engineering" for "Under Secretary of Defense for Policy; Director of Defense Research and Engineering: appointments; powers and duties; precedence".
 
-Pub. L. 99–348, §501(e)(1), substituted “Under Secretary of Defense for Policy; Director of Defense Research and Engineering: appointments” for “Under Secretaries of Defense: appointment” in section catchline.
+Pub. L. 99–348, §501(e)(1), substituted "Under Secretary of Defense for Policy; Director of Defense Research and Engineering: appointments" for "Under Secretaries of Defense: appointment" in section catchline.
 
 Subsec. (a). Pub. L. 99–433, §105(1), substituted a new subsec. (a) for former provisions establishing the positions of Under Secretary of Defense for Policy and Director of Defense for Research and Engineering to be appointed from civilian life by the President with the advice and consent of the Senate and prohibiting the appointment as Under Secretary of Defense for Policy of a person within ten years after relief from active duty as a commissioned officer of a regular component of an armed force. See section 134 of this title.
 
-Pub. L. 99–348, §501(b)(1), substituted “is an Under Secretary of Defense for Policy and a Director of Defense Research and Engineering” for “are two Under Secretaries of Defense, one of whom shall be the Under Secretary of Defense for Policy and one of whom shall be the Under Secretary of Defense for Research and Engineering” and “They shall” for “The Under Secretaries of Defense shall”.
+Pub. L. 99–348, §501(b)(1), substituted "is an Under Secretary of Defense for Policy and a Director of Defense Research and Engineering" for "are two Under Secretaries of Defense, one of whom shall be the Under Secretary of Defense for Policy and one of whom shall be the Under Secretary of Defense for Research and Engineering" and "They shall" for "The Under Secretaries of Defense shall".
 
-Subsec. (b). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended section identically adding subsec. (b) and striking out former subsec. (b) which read as follows: “The Director of Defense Research and Engineering shall perform such duties relating to research and engineering as the Secretary of Defense may prescribe, including—
+Subsec. (b). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended section identically adding subsec. (b) and striking out former subsec. (b) which read as follows: "The Director of Defense Research and Engineering shall perform such duties relating to research and engineering as the Secretary of Defense may prescribe, including—
 
-“(1) being the principal adviser to the Secretary on scientific and technical matters;
+"(1) being the principal adviser to the Secretary on scientific and technical matters;
 
-“(2) supervising all research and engineering activities in the Department of Defense; and
+"(2) supervising all research and engineering activities in the Department of Defense; and
 
-“(3) directing, controlling, assigning, and reassigning research and engineering activities that the Secretary considers need centralized management.”
+"(3) directing, controlling, assigning, and reassigning research and engineering activities that the Secretary considers need centralized management."
 
 Pub. L. 99–433, §105(2), struck out provisions that the Under Secretary of Defense for Policy would perform duties and exercise powers as the Secretary of Defense might prescribe.
 
-Pub. L. 99–348, §501(b)(2), substituted “Director of Defense Research and Engineering” for “Under Secretary of Defense for Research and Engineering”.
+Pub. L. 99–348, §501(b)(2), substituted "Director of Defense Research and Engineering" for "Under Secretary of Defense for Research and Engineering".
 
-Subsec. (c). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended section identically striking out subsec. (c) which read as follows: “The Director of Defense Research and Engineering takes precedence in the Department of Defense immediately after the Under Secretary of Defense for Policy.”
+Subsec. (c). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended section identically striking out subsec. (c) which read as follows: "The Director of Defense Research and Engineering takes precedence in the Department of Defense immediately after the Under Secretary of Defense for Policy."
 
 Pub. L. 99–433, §105(2), struck out provisions that the Under Secretary of Defense for Policy would take precedence in the Department of Defense after Secretary of Defense, the Deputy Secretary of Defense, and the Secretaries of the military departments.
 
-Pub. L. 99–348, §501(b)(2), substituted “Director of Defense Research and Engineering” for “Under Secretary of Defense for Research and Engineering”.
+Pub. L. 99–348, §501(b)(2), substituted "Director of Defense Research and Engineering" for "Under Secretary of Defense for Research and Engineering".
 
-**1977**—Pub. L. 95–140, §2(a)(4), substituted “Under Secretaries of Defense” for “Director of Defense Research and Engineering” in section catchline.
+**1977**—Pub. L. 95–140, §2(a)(4), substituted "Under Secretaries of Defense" for "Director of Defense Research and Engineering" in section catchline.
 
 Subsec. (a). Pub. L. 95–140, §2(a)(1), substituted provisions relating to the appointment of the Under Secretary of Defense for Policy and the Under Secretary of Defense for Research and Engineering for provisions relating to the appointment of the Director of Defense Research and Engineering and inserted provisions relating to the prohibition of the appointment of a person as Under Secretary of Defense for policy within ten years after relief from active duty as a commissioned officer of an armed force.
 
-Subsec. (b). Pub. L. 95–140, §2(a)(2), substituted “The Under Secretary of Defense for Policy shall perform such duties and exercise such powers as the Secretary of Defense may prescribe. The Under Secretary of Defense for Research and Engineering shall perform” for “The Director performs”.
+Subsec. (b). Pub. L. 95–140, §2(a)(2), substituted "The Under Secretary of Defense for Policy shall perform such duties and exercise such powers as the Secretary of Defense may prescribe. The Under Secretary of Defense for Research and Engineering shall perform" for "The Director performs".
 
-Subsec. (c). Pub. L. 95–140, §2(a)(3), substituted “Under Secretary of Defense for Policy” for “Director” and “Deputy Secretary” for “Deputy Secretaries” and inserted provision that the Under Secretary of Defense for Research and Engineering takes precedence in the Department of Defense immediately after the Under Secretary of Defense for Policy.
+Subsec. (c). Pub. L. 95–140, §2(a)(3), substituted "Under Secretary of Defense for Policy" for "Director" and "Deputy Secretary" for "Deputy Secretaries" and inserted provision that the Under Secretary of Defense for Research and Engineering takes precedence in the Department of Defense immediately after the Under Secretary of Defense for Policy.
 
-**1972**—Subsec. (c). Pub. L. 92–596 substituted “Deputy Secretaries” for “Deputy Secretary”.
+**1972**—Subsec. (c). Pub. L. 92–596 substituted "Deputy Secretaries" for "Deputy Secretary".
 
 #### Effective Date of 2011 Amendment ####
 
@@ -84,13 +84,13 @@ Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub
 
 #### First Annual Report ####
 
-Pub. L. 111–23, title I, §104(a)(2), May 22, 2009, 123 Stat. 1717, provided that: “The first annual report under subsection (c)(2) of section 139a [now 138b(b)(2)] of title 10, United States Code (as added by paragraph (1)), shall be submitted to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] not later than March 1, 2010, and shall address the results of reviews and assessments conducted by the Director of Defense Research and Engineering [now Assistant Secretary of Defense for Research and Engineering] pursuant to subsection (c)(1) of such section [now (b)(1)] (as so added) during the preceding calendar year.”
+Pub. L. 111–23, title I, §104(a)(2), May 22, 2009, 123 Stat. 1717, provided that: "The first annual report under subsection (c)(2) of section 139a [now 138b(b)(2)] of title 10, United States Code (as added by paragraph (1)), shall be submitted to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] not later than March 1, 2010, and shall address the results of reviews and assessments conducted by the Director of Defense Research and Engineering [now Assistant Secretary of Defense for Research and Engineering] pursuant to subsection (c)(1) of such section [now (b)(1)] (as so added) during the preceding calendar year."
 
 #### Technological Maturity Standards ####
 
-Pub. L. 111–23, title I, §104(c), May 22, 2009, 123 Stat. 1717, provided that: “Not later than 180 days after the date of the enactment of this Act [May 22, 2009], the Director of Defense Research and Engineering [now Assistant Secretary of Defense for Research and Engineering], in consultation with the Director of Developmental Test and Evaluation, shall develop knowledge-based standards against which to measure the technological maturity and integration risk of critical technologies at key stages in the acquisition process for purposes of conducting the reviews and assessments of major defense acquisition programs required by subsection (c) of section 139a [now 138b(b)] of title 10, United States Code (as so added [by section 104(a)(1) of Pub. L. 111–23]).”
+Pub. L. 111–23, title I, §104(c), May 22, 2009, 123 Stat. 1717, provided that: "Not later than 180 days after the date of the enactment of this Act [May 22, 2009], the Director of Defense Research and Engineering [now Assistant Secretary of Defense for Research and Engineering], in consultation with the Director of Developmental Test and Evaluation, shall develop knowledge-based standards against which to measure the technological maturity and integration risk of critical technologies at key stages in the acquisition process for purposes of conducting the reviews and assessments of major defense acquisition programs required by subsection (c) of section 139a [now 138b(b)] of title 10, United States Code (as so added [by section 104(a)(1) of Pub. L. 111–23])."
 
-[For definition of “major defense acquisition programs” as used in section 104(c) of Pub. L. 111–23, set out above, see section 2(2) of Pub. L. 111–23, set out as a note under section 2430 of this title.]
+[For definition of "major defense acquisition programs" as used in section 104(c) of Pub. L. 111–23, set out above, see section 2(2) of Pub. L. 111–23, set out as a note under section 2430 of this title.]
 
 #### Redesignation of Position of Under Secretary of Defense for Research and Engineering; Effect on Individual Holding Position ####
 

@@ -30,7 +30,7 @@ With respect to any assignment of a mile of railroad track under paragraph (1)(B
 
 #### (c) Eligible taxpayer ####
 
-For purposes of this section, the term “eligible taxpayer” means—
+For purposes of this section, the term "eligible taxpayer" means—
 
 (1) any Class II or Class III railroad, and
 
@@ -38,13 +38,13 @@ For purposes of this section, the term “eligible taxpayer” means—
 
 #### (d) Qualified railroad track maintenance expenditures ####
 
-For purposes of this section, the term “qualified railroad track maintenance expenditures” means gross expenditures (whether or not otherwise chargeable to capital account) for maintaining railroad track (including roadbed, bridges, and related track structures) owned or leased as of January 1, 2005, by a Class II or Class III railroad (determined without regard to any consideration for such expenditures given by the Class II or Class III railroad which made the assignment of such track).
+For purposes of this section, the term "qualified railroad track maintenance expenditures" means gross expenditures (whether or not otherwise chargeable to capital account) for maintaining railroad track (including roadbed, bridges, and related track structures) owned or leased as of January 1, 2005, by a Class II or Class III railroad (determined without regard to any consideration for such expenditures given by the Class II or Class III railroad which made the assignment of such track).
 
 #### (e) Other definitions and special rules ####
 
 #### (1) Class II or Class III railroad ####
 
-For purposes of this section, the terms “Class II railroad” and “Class III railroad” have the respective meanings given such terms by the Surface Transportation Board.
+For purposes of this section, the terms "Class II railroad" and "Class III railroad" have the respective meanings given such terms by the Surface Transportation Board.
 
 #### (2) Controlled groups ####
 
@@ -62,39 +62,39 @@ This section shall apply to qualified railroad track maintenance expenditures pa
 
 #### Amendments ####
 
-**2013**—Subsec. (f). Pub. L. 112–240 substituted “January 1, 2014” for “January 1, 2012”.
+**2013**—Subsec. (f). Pub. L. 112–240 substituted "January 1, 2014" for "January 1, 2012".
 
-**2010**—Subsec. (f). Pub. L. 111–312 substituted “January 1, 2012” for “January 1, 2010”.
+**2010**—Subsec. (f). Pub. L. 111–312 substituted "January 1, 2012" for "January 1, 2010".
 
-**2008**—Subsec. (f). Pub. L. 110–343 substituted “January 1, 2010” for “January 1, 2008”.
+**2008**—Subsec. (f). Pub. L. 110–343 substituted "January 1, 2010" for "January 1, 2008".
 
-**2006**—Subsec. (d). Pub. L. 109–432 inserted “gross” after “means” and “(determined without regard to any consideration for such expenditures given by the Class II or Class III railroad which made the assignment of such track)” before period at end.
+**2006**—Subsec. (d). Pub. L. 109–432 inserted "gross" after "means" and "(determined without regard to any consideration for such expenditures given by the Class II or Class III railroad which made the assignment of such track)" before period at end.
 
-**2005**—Subsec. (b). Pub. L. 109–135, §403(f)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The credit allowed under subsection (a) for any taxable year shall not exceed the product of—
+**2005**—Subsec. (b). Pub. L. 109–135, §403(f)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The credit allowed under subsection (a) for any taxable year shall not exceed the product of—
 
-“(1) $3,500, and
+"(1) $3,500, and
 
-“(2) the number of miles of railroad track owned or leased by the eligible taxpayer as of the close of the taxable year.
+"(2) the number of miles of railroad track owned or leased by the eligible taxpayer as of the close of the taxable year.
 
-A mile of railroad track may be taken into account by a person other than the owner only if such mile is assigned to such person by the owner for purposes of this subsection. Any mile which is so assigned may not be taken into account by the owner for purposes of this subsection.”
+A mile of railroad track may be taken into account by a person other than the owner only if such mile is assigned to such person by the owner for purposes of this subsection. Any mile which is so assigned may not be taken into account by the owner for purposes of this subsection."
 
-Subsec. (c)(2). Pub. L. 109–135, §403(f)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “any person who transports property using the rail facilities of a person described in paragraph (1) or who furnishes railroad-related property or services to such a person.”
+Subsec. (c)(2). Pub. L. 109–135, §403(f)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "any person who transports property using the rail facilities of a person described in paragraph (1) or who furnishes railroad-related property or services to such a person."
 
 #### Effective Date of 2013 Amendment ####
 
-Pub. L. 112–240, title III, §306(b), Jan. 2, 2013, 126 Stat. 2329, provided that: “The amendment made by this section [amending this section] shall apply to expenditures paid or incurred in taxable years beginning after December 31, 2011.”
+Pub. L. 112–240, title III, §306(b), Jan. 2, 2013, 126 Stat. 2329, provided that: "The amendment made by this section [amending this section] shall apply to expenditures paid or incurred in taxable years beginning after December 31, 2011."
 
 #### Effective Date of 2010 Amendment ####
 
-Pub. L. 111–312, title VII, §734(b), Dec. 17, 2010, 124 Stat. 3318, provided that: “The amendment made by this section [amending this section] shall apply to expenditures paid or incurred in taxable years beginning after December 31, 2009.”
+Pub. L. 111–312, title VII, §734(b), Dec. 17, 2010, 124 Stat. 3318, provided that: "The amendment made by this section [amending this section] shall apply to expenditures paid or incurred in taxable years beginning after December 31, 2009."
 
 #### Effective Date of 2008 Amendment ####
 
-Pub. L. 110–343, div. C, title III, §316(c)(1), Oct. 3, 2008, 122 Stat. 3872, provided that: “The amendment made by subsection (a) [amending this section] shall apply to expenditures paid or incurred during taxable years beginning after December 31, 2007.”
+Pub. L. 110–343, div. C, title III, §316(c)(1), Oct. 3, 2008, 122 Stat. 3872, provided that: "The amendment made by subsection (a) [amending this section] shall apply to expenditures paid or incurred during taxable years beginning after December 31, 2007."
 
 #### Effective Date of 2006 Amendment ####
 
-Pub. L. 109–432, div. A, title IV, §423(b), Dec. 20, 2006, 120 Stat. 2973, provided that: “The amendment made by this section [amending this section] shall take effect as if included in the amendment made by section 245(a) of the American Jobs Creation Act of 2004 [Pub. L. 108–357].”
+Pub. L. 109–432, div. A, title IV, §423(b), Dec. 20, 2006, 120 Stat. 2973, provided that: "The amendment made by this section [amending this section] shall take effect as if included in the amendment made by section 245(a) of the American Jobs Creation Act of 2004 [Pub. L. 108–357]."
 
 #### Effective Date of 2005 Amendment ####
 

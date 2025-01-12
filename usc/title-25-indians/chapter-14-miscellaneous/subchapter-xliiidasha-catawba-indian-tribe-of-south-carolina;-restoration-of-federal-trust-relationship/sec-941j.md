@@ -22,9 +22,9 @@ The Secretary is authorized to receive from the State, by such transfer document
 
 #### (c) Expansion zones ####
 
-(1) Subject to the conditions, criteria, and procedures set forth in the Settlement Agreement, the Tribe shall endeavor at the outset to acquire contiguous tracts for the Expanded Reservation in the “Catawba Reservation Primary Expansion Zone”, as defined in the Settlement Agreement.
+(1) Subject to the conditions, criteria, and procedures set forth in the Settlement Agreement, the Tribe shall endeavor at the outset to acquire contiguous tracts for the Expanded Reservation in the "Catawba Reservation Primary Expansion Zone", as defined in the Settlement Agreement.
 
-(2) Subject to the conditions, criteria, and procedures set forth in the Settlement Agreement, the Tribe may elect to purchase contiguous tracts in an alternative area, the “Catawba Reservation Secondary Expansion Zone”, as defined in the Settlement Agreement.
+(2) Subject to the conditions, criteria, and procedures set forth in the Settlement Agreement, the Tribe may elect to purchase contiguous tracts in an alternative area, the "Catawba Reservation Secondary Expansion Zone", as defined in the Settlement Agreement.
 
 (3) The Tribe may propose different or additional expansion zones subject to the authorizations required in the Settlement Agreement and the State Act.
 
@@ -80,6 +80,6 @@ The general land acquisition regulations of the Bureau of Indian Affairs, contai
 
 #### Codification ####
 
-“Sections 3113 and 3114(a) to (d) of title 40” substituted in subsec. (e)(2) for “the first section of the Act of August 1, 1888 (ch. 728, 25 Stat. 357; 40 U.S.C. 257), and the first section of the Act of February 26, 1931 (ch. 307, 46 Stat. 1421; 40 U.S.C. 258a)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Sections 3113 and 3114(a) to (d) of title 40" substituted in subsec. (e)(2) for "the first section of the Act of August 1, 1888 (ch. 728, 25 Stat. 357; 40 U.S.C. 257), and the first section of the Act of February 26, 1931 (ch. 307, 46 Stat. 1421; 40 U.S.C. 258a)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 [<sup>1</sup> So in original. Probably should be capitalized.](#941j_1)

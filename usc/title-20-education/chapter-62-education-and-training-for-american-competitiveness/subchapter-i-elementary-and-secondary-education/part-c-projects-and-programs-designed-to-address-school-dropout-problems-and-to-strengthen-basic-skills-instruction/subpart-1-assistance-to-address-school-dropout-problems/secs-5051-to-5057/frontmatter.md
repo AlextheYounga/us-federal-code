@@ -1,6 +1,6 @@
 ### §§5051 to 5057. Repealed. Pub. L. 103–382, title III, §391(i), Oct. 20, 1994, 108 Stat. 4023 ###
 
-Section 5051, Pub. L. 100–418, title VI, §6061, Aug. 23, 1988, 102 Stat. 1491, provided that this subpart could be cited as the “School Dropout Demonstration Assistance Act of 1988”.
+Section 5051, Pub. L. 100–418, title VI, §6061, Aug. 23, 1988, 102 Stat. 1491, provided that this subpart could be cited as the "School Dropout Demonstration Assistance Act of 1988".
 
 Section 5052, Pub. L. 100–418, title VI, §6062, Aug. 23, 1988, 102 Stat. 1491, stated purpose of this subpart.
 

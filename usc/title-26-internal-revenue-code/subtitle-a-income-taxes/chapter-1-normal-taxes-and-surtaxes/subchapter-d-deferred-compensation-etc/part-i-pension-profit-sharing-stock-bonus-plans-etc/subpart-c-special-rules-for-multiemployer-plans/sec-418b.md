@@ -44,7 +44,7 @@ If the plan's current contribution base for the plan year is less than the plan'
 
 #### (A) In general ####
 
-If the vested benefits charge for a plan year of a plan in reorganization is less than the plan's cash-flow amount for the plan year, the plan's minimum contribution requirement for the plan year is the amount determined under paragraph (1) (determined before the application of paragraph (2)) after substituting the term “cash-flow amount” for the term “vested benefits charge” in paragraph (1)(A).
+If the vested benefits charge for a plan year of a plan in reorganization is less than the plan's cash-flow amount for the plan year, the plan's minimum contribution requirement for the plan year is the amount determined under paragraph (1) (determined before the application of paragraph (2)) after substituting the term "cash-flow amount" for the term "vested benefits charge" in paragraph (1)(A).
 
 #### (B) Cash-flow amount ####
 
@@ -86,7 +86,7 @@ the plan's valuation contribution base is the greater of the number of contribut
 
 #### (3) Contribution base unit ####
 
-For purposes of this subpart, the term “contribution base unit” means a unit with respect to which an employer has an obligation to contribute under a multiemployer plan (as defined in regulations prescribed by the Secretary).
+For purposes of this subpart, the term "contribution base unit" means a unit with respect to which an employer has an obligation to contribute under a multiemployer plan (as defined in regulations prescribed by the Secretary).
 
 #### (d) Limitation on required increases in rate of employer contributions ####
 

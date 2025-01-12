@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Secretaries ####
 
-The term “Secretaries” means—
+The term "Secretaries" means—
 
 (A) the Secretary of the Interior, acting through the Directors of the Bureau of Land Management, the United States Fish and Wildlife Service, the National Park Service, and the Bureau of Indian Affairs; and
 
@@ -14,7 +14,7 @@ The term “Secretaries” means—
 
 #### (2) Wildland firefighter ####
 
-The term “wildland firefighter” means any person who participates in wildland firefighting activities—
+The term "wildland firefighter" means any person who participates in wildland firefighting activities—
 
 (A) under the direction of either of the Secretaries; or
 

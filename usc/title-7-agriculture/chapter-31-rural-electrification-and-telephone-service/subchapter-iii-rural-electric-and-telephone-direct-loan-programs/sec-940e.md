@@ -34,7 +34,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments ####
 
-**2014**—Subsec. (d). Pub. L. 113–79 substituted “2018” for “2012”.
+**2014**—Subsec. (d). Pub. L. 113–79 substituted "2018" for "2012".
 
 **2008**—Pub. L. 110–246, §6107, amended section generally, substituting provisions relating to expansion of access, loan security, emergency communications equipment providers, and authorization of appropriations, consisting of subsecs. (a) to (d), for provisions relating to expansion of access and authorization of appropriations, consisting of subsecs. (a) and (b).
 

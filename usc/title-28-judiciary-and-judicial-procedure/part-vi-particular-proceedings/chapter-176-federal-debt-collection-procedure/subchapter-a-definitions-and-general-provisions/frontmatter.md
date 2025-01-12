@@ -18,7 +18,7 @@ Sec.
 
 3008. Proceedings before United States magistrate judges.
 
-3009. United States marshals’ authority to designate keeper.
+3009. United States marshals' authority to designate keeper.
 
 3010. Co-owned property.
 
@@ -34,4 +34,4 @@ Sec.
 
 #### Change of Name ####
 
-“United States magistrate judges” substituted for “United States magistrates” in item 3008 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+"United States magistrate judges" substituted for "United States magistrates" in item 3008 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.

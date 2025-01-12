@@ -12,15 +12,15 @@
 
 #### Codification ####
 
-Undesignated pars. 1 to 4 of this section are from sections 1 to 4, respectively, of act July 9, 1918, popularly known as the “Army Appropriation Act of 1919”.
+Undesignated pars. 1 to 4 of this section are from sections 1 to 4, respectively, of act July 9, 1918, popularly known as the "Army Appropriation Act of 1919".
 
 Undesignated pars. 1 and 2 of this section superseded similar provisions of act Aug. 8, 1917, ch. 49, §8, 40 Stat. 266.
 
 #### Change of Name ####
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-Coast Artillery changed to Artillery under authority of section 306(a) of act June 28, 1950, ch. 383, title III, 64 Stat. 269. Section 306(a) of act June 28, 1950 was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in section 3063 continued the Artillery as a basic branch of the Army.
+Coast Artillery changed to Artillery under authority of section 306(a) of act June 28, 1950, ch. 383, title III, 64 Stat. 269. Section 306(a) of act June 28, 1950 was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in section 3063 continued the Artillery as a basic branch of the Army.
 
 #### Transfer of Functions ####
 

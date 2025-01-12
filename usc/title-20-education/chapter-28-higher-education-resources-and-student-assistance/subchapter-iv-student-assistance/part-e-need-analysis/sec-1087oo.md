@@ -4,21 +4,21 @@
 
 For each dependent student, the expected family contribution is equal to the sum of—
 
-(1) the parents’ contribution from adjusted available income (determined in accordance with subsection (b) of this section);
+(1) the parents' contribution from adjusted available income (determined in accordance with subsection (b) of this section);
 
 (2) the student contribution from available income (determined in accordance with subsection (g) of this section); and
 
 (3) the student contribution from assets (determined in accordance with subsection (h) of this section).
 
-#### (b) Parents’ contribution from adjusted available income ####
+#### (b) Parents' contribution from adjusted available income ####
 
-The parents’ contribution from adjusted available income is equal to the amount determined by—
+The parents' contribution from adjusted available income is equal to the amount determined by—
 
 (1) computing adjusted available income by adding—
 
-(A) the parents’ available income (determined in accordance with subsection (c) of this section); and
+(A) the parents' available income (determined in accordance with subsection (c) of this section); and
 
-(B) the parents’ contribution from assets (determined in accordance with subsection (d) of this section);
+(B) the parents' contribution from assets (determined in accordance with subsection (d) of this section);
 
 (2) assessing such adjusted available income in accordance with the assessment schedule set forth in subsection (e) of this section; and
 
@@ -26,11 +26,11 @@ The parents’ contribution from adjusted available income is equal to the amoun
 
 except that the amount determined under this subsection shall not be less than zero.
 
-#### (c) Parents’ available income ####
+#### (c) Parents' available income ####
 
 #### (1) In general ####
 
-The parents’ available income is determined by deducting from total income (as defined in section 1087vv of this title)—
+The parents' available income is determined by deducting from total income (as defined in section 1087vv of this title)—
 
 (A) Federal income taxes;
 
@@ -48,7 +48,7 @@ The parents’ available income is determined by deducting from total income (as
 
 The allowance for State and other taxes is equal to an amount determined by multiplying total income (as defined in section 1087vv of this title) by a percentage determined according to the following table (or a successor table prescribed by the Secretary under section 1087rr of this title):
 
-|                                            If parents’ State or territory of residence is—                                             |And parents’ total income is—|   |
+|                                            If parents' State or territory of residence is—                                             |And parents' total income is—|   |
 |----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|---|
 |                                                          less than $15,000 or                                                          |       $15,000 or more       |   |
 |                                                                                                                                        |                             |   |
@@ -94,11 +94,11 @@ The employment expense allowance is determined as follows (or using a successor 
 
 (B) If a parent qualifies as a surviving spouse or as a head of household as defined in section 2 of title 26, such allowance is equal to the lesser of $2,500 or 35 percent of such parent's earned income.
 
-#### (d) Parents’ contribution from assets ####
+#### (d) Parents' contribution from assets ####
 
 #### (1) In general ####
 
-The parents’ contribution from assets is equal to—
+The parents' contribution from assets is equal to—
 
 (A) the parental net worth (determined in accordance with paragraph (2)); minus
 
@@ -114,7 +114,7 @@ The parental net worth is calculated by adding—
 
 (B) the net value of investments and real estate, excluding the net value of the principal place of residence; and
 
-(C) the adjusted net worth of a business or farm, computed on the basis of the net worth of such business or farm (hereafter in this subsection referred to as “NW”), determined in accordance with the following table (or a successor table prescribed by the Secretary under section 1087rr of this title), except as provided under section 1087vv(f) of this title:
+(C) the adjusted net worth of a business or farm, computed on the basis of the net worth of such business or farm (hereafter in this subsection referred to as "NW"), determined in accordance with the following table (or a successor table prescribed by the Secretary under section 1087rr of this title), except as provided under section 1087vv(f) of this title:
 
 |If the net worth of a business or farm is—|       Then the adjusted net worth is:       |
 |------------------------------------------|---------------------------------------------|
@@ -182,7 +182,7 @@ The asset conversion rate is 12 percent.
 
 #### (e) Assessment schedule ####
 
-The adjusted available income (as determined under subsection (b)(1) of this section and hereafter in this subsection referred to as “AAI”) is assessed according to the following table (or a successor table prescribed by the Secretary under section 1087rr of this title):
+The adjusted available income (as determined under subsection (b)(1) of this section and hereafter in this subsection referred to as "AAI") is assessed according to the following table (or a successor table prescribed by the Secretary under section 1087rr of this title):
 
 |    If AAI is—    |    Then the assessment is—     |
 |------------------|--------------------------------|
@@ -258,13 +258,13 @@ The adjustment to student income is equal to the sum of—
 
 (E) the amount of any tax credit taken by the student under section 25A of title 26; and
 
-(F) an allowance for parents’ negative available income, determined in accordance with paragraph (6).
+(F) an allowance for parents' negative available income, determined in accordance with paragraph (6).
 
 #### (3) Allowance for State and other income taxes ####
 
 The allowance for State and other income taxes is equal to an amount determined by multiplying total income (as defined in section 1087vv of this title) by a percentage determined according to the following table (or a successor table prescribed by the Secretary under section 1087rr of this title):
 
-|                                   If the students’ State or territory of<br/><br/>residence is—                                   |The percentage is—|
+|                                   If the students' State or territory of<br/><br/>residence is—                                   |The percentage is—|
 |-----------------------------------------------------------------------------------------------------------------------------------|------------------|
 |Alaska, American Samoa, Florida, Guam, Nevada, South Dakota, Tennessee, Texas, Trust Territory, Virgin Islands, Washington, Wyoming|        0         |
 |                                                Connecticut, Louisiana, Puerto Rico                                                |        1         |
@@ -285,29 +285,29 @@ The allowance for social security taxes is equal to the amount earned by the stu
 
 The student's available income (determined in accordance with paragraph (1) of this subsection) is assessed at 50 percent.
 
-#### (6) Allowance for parents’ negative available income ####
+#### (6) Allowance for parents' negative available income ####
 
-The allowance for parents’ negative available income is the amount, if any, by which the sum of the amounts deducted under subparagraphs (A) through (F) of subsection (c)(1) of this section exceeds the sum of the parents’ total income (as defined in section 1087vv of this title) and the parents’ contribution from assets (as determined in accordance with subsection (d) of this section).
+The allowance for parents' negative available income is the amount, if any, by which the sum of the amounts deducted under subparagraphs (A) through (F) of subsection (c)(1) of this section exceeds the sum of the parents' total income (as defined in section 1087vv of this title) and the parents' contribution from assets (as determined in accordance with subsection (d) of this section).
 
 #### (h) Student contribution from assets ####
 
 The student contribution from assets is determined by calculating the net assets of the student and multiplying such amount by 20 percent, except that the result shall not be less than zero.
 
-#### (i) Adjustments to parents’ contribution for enrollment periods other than 9 months for purposes other than subpart 2 of part A of this subchapter ####
+#### (i) Adjustments to parents' contribution for enrollment periods other than 9 months for purposes other than subpart 2 of part A of this subchapter ####
 
-For periods of enrollment other than 9 months, the parents’ contribution from adjusted available income (as determined under subsection (b) of this section) is determined as follows for purposes other than subpart 2 of part A of this subchapter:
+For periods of enrollment other than 9 months, the parents' contribution from adjusted available income (as determined under subsection (b) of this section) is determined as follows for purposes other than subpart 2 of part A of this subchapter:
 
-(1) For periods of enrollment less than 9 months, the parents’ contribution from adjusted available income is divided by 9 and the result multiplied by the number of months enrolled.
+(1) For periods of enrollment less than 9 months, the parents' contribution from adjusted available income is divided by 9 and the result multiplied by the number of months enrolled.
 
 (2) For periods of enrollment greater than 9 months—
 
-(A) the parents’ adjusted available income (determined in accordance with subsection (b)(1) of this section) is increased by the difference between the income protection allowance (determined in accordance with subsection (c)(4) of this section) for a family of four and a family of five, each with one child in college;
+(A) the parents' adjusted available income (determined in accordance with subsection (b)(1) of this section) is increased by the difference between the income protection allowance (determined in accordance with subsection (c)(4) of this section) for a family of four and a family of five, each with one child in college;
 
-(B) the resulting revised parents’ adjusted available income is assessed according to subsection (e) of this section and adjusted according to subsection (b)(3) of this section to determine a revised parents’ contribution from adjusted available income;
+(B) the resulting revised parents' adjusted available income is assessed according to subsection (e) of this section and adjusted according to subsection (b)(3) of this section to determine a revised parents' contribution from adjusted available income;
 
-(C) the original parents’ contribution from adjusted available income is subtracted from the revised parents’ contribution from adjusted available income, and the result is divided by 12 to determine the monthly adjustment amount; and
+(C) the original parents' contribution from adjusted available income is subtracted from the revised parents' contribution from adjusted available income, and the result is divided by 12 to determine the monthly adjustment amount; and
 
-(D) the original parents’ contribution from adjusted available income is increased by the product of the monthly adjustment amount multiplied by the number of months greater than 9 for which the student will be enrolled.
+(D) the original parents' contribution from adjusted available income is increased by the product of the monthly adjustment amount multiplied by the number of months greater than 9 for which the student will be enrolled.
 
 #### (j) Adjustments to student's contribution for enrollment periods of less than nine months ####
 
@@ -319,15 +319,15 @@ For periods of enrollment of less than 9 months, the student's contribution from
 
 **2009**—Subsec. (c)(5)(B). Pub. L. 111–39 made technical amendment to reference in original act which appears in text as reference to section 2 of title 26.
 
-**2007**—Subsec. (g)(2)(D). Pub. L. 110–84 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “an income protection allowance of $3,000 (or a successor amount prescribed by the Secretary under section 1087rr of this title);”.
+**2007**—Subsec. (g)(2)(D). Pub. L. 110–84 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "an income protection allowance of $3,000 (or a successor amount prescribed by the Secretary under section 1087rr of this title);".
 
-**2006**—Subsec. (g)(2)(D). Pub. L. 109–171, §8017(a)(1)(A), substituted “$3,000” for “$2,200”.
+**2006**—Subsec. (g)(2)(D). Pub. L. 109–171, §8017(a)(1)(A), substituted "$3,000" for "$2,200".
 
-Subsec. (h). Pub. L. 109–171, §8017(a)(1)(B), substituted “20” for “35”.
+Subsec. (h). Pub. L. 109–171, §8017(a)(1)(B), substituted "20" for "35".
 
-**1998**—Subsec. (b)(3). Pub. L. 105–244, §473(a), which directed insertion of “, excluding the student's parents,” after “number of family members”, was executed by making the insertion after “number of the family members” to reflect the probable intent of Congress.
+**1998**—Subsec. (b)(3). Pub. L. 105–244, §473(a), which directed insertion of ", excluding the student's parents," after "number of family members", was executed by making the insertion after "number of the family members" to reflect the probable intent of Congress.
 
-Subsec. (g)(2)(D). Pub. L. 105–244, §473(b)(1)(A), substituted “$2,200 (or a successor amount prescribed by the Secretary under section 1087rr of this title);” for “$1,750; and”.
+Subsec. (g)(2)(D). Pub. L. 105–244, §473(b)(1)(A), substituted "$2,200 (or a successor amount prescribed by the Secretary under section 1087rr of this title);" for "$1,750; and".
 
 Subsec. (g)(2)(F). Pub. L. 105–244, §473(b)(1)(B), (C), added subpar. (F).
 
@@ -339,23 +339,23 @@ Subsec. (j). Pub. L. 105–244, §473(c), added subsec. (j).
 
 Subsec. (g)(2)(E). Pub. L. 105–78, §609(g)(2), added subpar. (E).
 
-**1993**—Subsec. (c)(4). Pub. L. 103–208, §2(g)(2), substituted “$9,510” for “9,510” in table.
+**1993**—Subsec. (c)(4). Pub. L. 103–208, §2(g)(2), substituted "$9,510" for "9,510" in table.
 
-Subsec. (f)(3). Pub. L. 103–208, §2(g)(3), in introductory provisions, substituted “If a parent” for “Income in the case of a parent”, “(1) of this subsection, or if a parent” for “(1) of this subsection, or a parent”, and “the income” for “is determined as follows: The income”.
+Subsec. (f)(3). Pub. L. 103–208, §2(g)(3), in introductory provisions, substituted "If a parent" for "Income in the case of a parent", "(1) of this subsection, or if a parent" for "(1) of this subsection, or a parent", and "the income" for "is determined as follows: The income".
 
-Subsec. (g)(1)(B). Pub. L. 103–208, §2(g)(4), inserted closing parenthesis after “paragraph (2)”.
+Subsec. (g)(1)(B). Pub. L. 103–208, §2(g)(4), inserted closing parenthesis after "paragraph (2)".
 
 Subsec. (g)(3). Pub. L. 103–208, §2(g)(5), in table added last item relating to Other.
 
-**1992**—Pub. L. 102–325 amended section generally, making minor changes in subsecs. (a) to (c) and (e) to (g), in subsec. (d) substituting provisions relating to parents’ contribution from assets for provisions relating to parents’ income supplemental amount from assets, in subsec. (h) substituting provisions relating to student contribution from assets for provisions relating to student and spouse income supplemental amount from assets, and in subsec. (i) substituting provisions relating to adjustments to parents’ contribution for enrollment periods other than 9 months for purposes other than subpart 2 of part A of this subchapter for provisions relating to adjustments for enrollment periods other than 9 months.
+**1992**—Pub. L. 102–325 amended section generally, making minor changes in subsecs. (a) to (c) and (e) to (g), in subsec. (d) substituting provisions relating to parents' contribution from assets for provisions relating to parents' income supplemental amount from assets, in subsec. (h) substituting provisions relating to student contribution from assets for provisions relating to student and spouse income supplemental amount from assets, and in subsec. (i) substituting provisions relating to adjustments to parents' contribution for enrollment periods other than 9 months for purposes other than subpart 2 of part A of this subchapter for provisions relating to adjustments for enrollment periods other than 9 months.
 
-**1987**—Subsec. (c)(2), (4). Pub. L. 100–50, §14(1), substituted “section 1087rr of this title” for “section 1087ss of this title”.
+**1987**—Subsec. (c)(2), (4). Pub. L. 100–50, §14(1), substituted "section 1087rr of this title" for "section 1087ss of this title".
 
-Subsec. (c)(7). Pub. L. 100–50, §14(2), struck out “National” before “Center”.
+Subsec. (c)(7). Pub. L. 100–50, §14(2), struck out "National" before "Center".
 
-Subsec. (d)(2)(B). Pub. L. 100–50, §14(3), substituted “displaced homemaker” for “dislocated homemaker”.
+Subsec. (d)(2)(B). Pub. L. 100–50, §14(3), substituted "displaced homemaker" for "dislocated homemaker".
 
-Subsec. (d)(2)(C). Pub. L. 100–50, §14(1), substituted “section 1087rr of this title” for “section 1087ss of this title”.
+Subsec. (d)(2)(C). Pub. L. 100–50, §14(1), substituted "section 1087rr of this title" for "section 1087ss of this title".
 
 Pub. L. 100–50, §14(4), added table after subpar. (C) and struck out former table which read as follows:
 
@@ -365,25 +365,25 @@ Pub. L. 100–50, §14(4), added table after subpar. (C) and struck out former t
 |                $1–$65,000                |               40 percent of NW                |
 |             $65,001–$195,000             |  $26,000 plus 50 percent of NW over $65,000   |
 |            $195,001–$325,000             |  $91,000 plus 60 percent of NW over $195,000  |
-|             $325,001 or more             |$169,000 plus 100 percent of NW over $325,000”.|
+|             $325,001 or more             |$169,000 plus 100 percent of NW over $325,000".|
 
-Subsec. (d)(4)(B). Pub. L. 100–50, §14(5), substituted “$15,999” for “$15,000”.
+Subsec. (d)(4)(B). Pub. L. 100–50, §14(5), substituted "$15,999" for "$15,000".
 
-Subsec. (d)(4)(C). Pub. L. 100–50, §14(6), substituted “$16,000” for “$15,000” in three places.
+Subsec. (d)(4)(C). Pub. L. 100–50, §14(6), substituted "$16,000" for "$15,000" in three places.
 
-Subsec. (d)(4)(D). Pub. L. 100–50, §14(7), substituted “income is less than zero” for “income is equal to or less than zero”.
+Subsec. (d)(4)(D). Pub. L. 100–50, §14(7), substituted "income is less than zero" for "income is equal to or less than zero".
 
-Subsec. (e). Pub. L. 100–50, §14(8), inserted a minus sign before “$3,409” in two places in table.
+Subsec. (e). Pub. L. 100–50, §14(8), inserted a minus sign before "$3,409" in two places in table.
 
-Subsec. (g)(1)(C). Pub. L. 100–50, §14(9), substituted “paragraph (2)” for “paragraph (3)”.
+Subsec. (g)(1)(C). Pub. L. 100–50, §14(9), substituted "paragraph (2)" for "paragraph (3)".
 
-Subsec. (g)(3). Pub. L. 100–50, §14(10), inserted “(or a successor table prescribed by the Secretary under section 1087rr of this title)” after “following table”.
+Subsec. (g)(3). Pub. L. 100–50, §14(10), inserted "(or a successor table prescribed by the Secretary under section 1087rr of this title)" after "following table".
 
-Subsec. (h). Pub. L. 100–50, §14(11), added subsec. (h) and struck out former subsec. (h) which read as follows: “The student (and spouse) supplemental income amount from assets is determined by multiplying by 35 percent the sum of—
+Subsec. (h). Pub. L. 100–50, §14(11), added subsec. (h) and struck out former subsec. (h) which read as follows: "The student (and spouse) supplemental income amount from assets is determined by multiplying by 35 percent the sum of—
 
-“(1) the current balance of checking and savings accounts and cash on hand; and
+"(1) the current balance of checking and savings accounts and cash on hand; and
 
-“(2) the net value of investments and real estate, including the net value in the principal place of residence except in the case of a dislocated worker (certified in accordance with title III of the Job Training Partnership Act) or a dislocated homemaker (as defined in section 1087vv(e) of this title).”
+"(2) the net value of investments and real estate, including the net value in the principal place of residence except in the case of a dislocated worker (certified in accordance with title III of the Job Training Partnership Act) or a dislocated homemaker (as defined in section 1087vv(e) of this title)."
 
 Subsec. (i). Pub. L. 100–50, §14(12), added subsec. (i).
 
@@ -393,13 +393,13 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 #### Effective Date of 2007 Amendment ####
 
-Pub. L. 110–84, title VI, §601(e), Sept. 27, 2007, 121 Stat. 804, provided that: “The amendments made by this section [amending this section and sections 1087pp, 1087qq, and 1087rr of this title] shall be effective on July 1, 2009.”
+Pub. L. 110–84, title VI, §601(e), Sept. 27, 2007, 121 Stat. 804, provided that: "The amendments made by this section [amending this section and sections 1087pp, 1087qq, and 1087rr of this title] shall be effective on July 1, 2009."
 
 #### Effective Date of 2006 Amendment ####
 
 Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
-Pub. L. 109–171, title VIII, §8017(a)(2), Feb. 8, 2006, 120 Stat. 173, provided that: “The amendments made by paragraph (1) [amending this section] shall apply with respect to determinations of need for periods of enrollment beginning on or after July 1, 2007.”
+Pub. L. 109–171, title VIII, §8017(a)(2), Feb. 8, 2006, 120 Stat. 173, provided that: "The amendments made by paragraph (1) [amending this section] shall apply with respect to determinations of need for periods of enrollment beginning on or after July 1, 2007."
 
 #### Effective Date of 1998 Amendment ####
 

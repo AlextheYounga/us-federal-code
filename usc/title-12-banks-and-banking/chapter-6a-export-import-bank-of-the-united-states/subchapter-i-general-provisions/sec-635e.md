@@ -8,7 +8,7 @@ The Export-Import Bank of the United States shall not have outstanding at any on
 
 #### (2) Applicable amount ####
 
-In paragraph (1), the term “applicable amount” means—
+In paragraph (1), the term "applicable amount" means—
 
 (A) during fiscal year 2002, $80,000,000,000;
 
@@ -78,45 +78,45 @@ A prior section 6 of act July 31, 1945, ch. 341, was renumbered section 5 and is
 
 **2012**—Subsec. (a)(2)(F). Pub. L. 112–122 added subpar. (F).
 
-**2006**—Subsec. (a)(2)(E). Pub. L. 109–438 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “during fiscal year 2006, $100,000,000,000.”
+**2006**—Subsec. (a)(2)(E). Pub. L. 109–438 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: "during fiscal year 2006, $100,000,000,000."
 
-**2002**—Subsec. (a). Pub. L. 107–189 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Export-Import Bank of the United States shall not have outstanding at any one time loans, guaranties, and insurance in an aggregate amount in excess of $75,000,000,000. All spending and credit authority provided under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.”
+**2002**—Subsec. (a). Pub. L. 107–189 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The Export-Import Bank of the United States shall not have outstanding at any one time loans, guaranties, and insurance in an aggregate amount in excess of $75,000,000,000. All spending and credit authority provided under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts."
 
-**2000**—Subsec. (b)(2), (3). Pub. L. 106–569 redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “Not later than April 15 of each year, the President of the United States shall transmit to the Congress a report on such determination.”
+**2000**—Subsec. (b)(2), (3). Pub. L. 106–569 redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: "Not later than April 15 of each year, the President of the United States shall transmit to the Congress a report on such determination."
 
-**1992**—Pub. L. 102–429, §109(b), inserted section catchline, redesignated former subsec. (a)(1) as subsec. (a), inserted subsec. heading, substituted “$75,000,000,000” for “$40,000,000,000”, redesignated former subsec. (a)(2) as subsec. (b), redesignated former subpar. (A)(i) as par. (1), former subcls. (I) to (III) as subpars. (A) to (C), respectively, former subpar. (A)(ii) as par. (2), former subpar. (B) as par. (3), and former cls. (i) and (ii) as subpars. (A) and (B), respectively, inserted headings for subsec. (b), pars. (1) to (3), and subpars. (A) and (B) of par. (3), and struck out former subsec. (a)(3) which read as follows: “Authorization of Appropriation.—There are authorized to be appropriated $145,259,000 for fiscal year 1987 to cover the subsidy cost of new direct loans obligated by the Bank in that fiscal year. Any amounts appropriated under this paragraph shall be permanent additions to the capital and reserves of the Bank.”
+**1992**—Pub. L. 102–429, §109(b), inserted section catchline, redesignated former subsec. (a)(1) as subsec. (a), inserted subsec. heading, substituted "$75,000,000,000" for "$40,000,000,000", redesignated former subsec. (a)(2) as subsec. (b), redesignated former subpar. (A)(i) as par. (1), former subcls. (I) to (III) as subpars. (A) to (C), respectively, former subpar. (A)(ii) as par. (2), former subpar. (B) as par. (3), and former cls. (i) and (ii) as subpars. (A) and (B), respectively, inserted headings for subsec. (b), pars. (1) to (3), and subpars. (A) and (B) of par. (3), and struck out former subsec. (a)(3) which read as follows: "Authorization of Appropriation.—There are authorized to be appropriated $145,259,000 for fiscal year 1987 to cover the subsidy cost of new direct loans obligated by the Bank in that fiscal year. Any amounts appropriated under this paragraph shall be permanent additions to the capital and reserves of the Bank."
 
-**1991**—Subsec. (b). Pub. L. 102–145, §121(1), as added by Pub. L. 102–266, struck out subsec. (b) which read as follows: “After January 4, 1975, the Bank shall not approve any loans or financial guarantees, or combination thereof, in connection with exports to the Union of Soviet Socialist Republics in an aggregate amount in excess of $300,000,000. No such loan or financial guarantee, or combination thereof, shall be for the purchase, lease, or procurement of any product or service for production (including processing and distribution) of fossil fuel energy resources. Not more than $40,000,000 of such aggregate amount shall be for the purchase, lease, or procurement of any product or service which involves research or exploration of fossil fuel energy resources. The President may establish a limitation in excess of $300,000,000 if the President determines that such higher limitation is in the national interest and if the President reports such determination to the Congress together with the reasons therefor, including the amount of such proposed increase which would be available for the export of products and services for research, exploration, and production (including processing and distribution) of fossil fuel energy resources in the Union of Soviet Socialist Republics, and if, after the receipt of such report together with the reasons, the Congress adopts a concurrent resolution approving such determination.”
+**1991**—Subsec. (b). Pub. L. 102–145, §121(1), as added by Pub. L. 102–266, struck out subsec. (b) which read as follows: "After January 4, 1975, the Bank shall not approve any loans or financial guarantees, or combination thereof, in connection with exports to the Union of Soviet Socialist Republics in an aggregate amount in excess of $300,000,000. No such loan or financial guarantee, or combination thereof, shall be for the purchase, lease, or procurement of any product or service for production (including processing and distribution) of fossil fuel energy resources. Not more than $40,000,000 of such aggregate amount shall be for the purchase, lease, or procurement of any product or service which involves research or exploration of fossil fuel energy resources. The President may establish a limitation in excess of $300,000,000 if the President determines that such higher limitation is in the national interest and if the President reports such determination to the Congress together with the reasons therefor, including the amount of such proposed increase which would be available for the export of products and services for research, exploration, and production (including processing and distribution) of fossil fuel energy resources in the Union of Soviet Socialist Republics, and if, after the receipt of such report together with the reasons, the Congress adopts a concurrent resolution approving such determination."
 
-**1986**—Subsec. (a)(1). Pub. L. 99–472, §17, substituted “All spending and credit authority” for “All spending authority”.
+**1986**—Subsec. (a)(1). Pub. L. 99–472, §17, substituted "All spending and credit authority" for "All spending authority".
 
 Subsec. (a)(3). Pub. L. 99–472, §13, added par. (3).
 
 **1983**—Subsec. (a)(2). Pub. L. 98–181, §615, amended par. (2) generally, substituting provisions requiring a Presidential determination, not later than March 31 of each fiscal year, as to whether the authority available to the Bank for such fiscal year will be sufficient to meet the Bank's needs, requiring the President to transmit to Congress a report on such determination no later than April 15 of each year, and establishing procedures if the direct loan or guarantee authority available exceeds the amount necessary, for provision limiting gross obligations for the principal amount of direct loans authorized by the Bank during fiscal years 1982 and 1983 to $10,478,000,000, and designating specified amounts thereof for each fiscal year.
 
-Subsec. (b). Pub. L. 98–181, §620(d), substituted “the President” for “he” before “determines that such higher limitation” and “reports such determination”.
+Subsec. (b). Pub. L. 98–181, §620(d), substituted "the President" for "he" before "determines that such higher limitation" and "reports such determination".
 
 **1981**—Subsec. (a). Pub. L. 97–35 designated existing provisions as par. (1) and added par. (2).
 
-**1978**—Subsec. (a). Pub. L. 95–630 substituted “$40,000,000,000” for “$25,000,000,000” and inserted provision that all spending authority provided under this chapter be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
+**1978**—Subsec. (a). Pub. L. 95–630 substituted "$40,000,000,000" for "$25,000,000,000" and inserted provision that all spending authority provided under this chapter be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
-**1975**—Subsec. (a). Pub. L. 93–646, §8(1), (2), designated existing provisions as subsec. (a) and substituted “$25,000,000,000” for “$20,000,000,000”.
+**1975**—Subsec. (a). Pub. L. 93–646, §8(1), (2), designated existing provisions as subsec. (a) and substituted "$25,000,000,000" for "$20,000,000,000".
 
 Subsec. (b). Pub. L. 93–646, §8(3), added subsec. (b).
 
-**1971**—Pub. L. 92–126 substituted “$20,000,000,000” for “$13,500,000,000”.
+**1971**—Pub. L. 92–126 substituted "$20,000,000,000" for "$13,500,000,000".
 
-**1968**—Pub. L. 90–267 changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States” and substituted “$13,500,000,000” for “$9,000,000,000”.
+**1968**—Pub. L. 90–267 changed name of "Export-Import Bank of Washington" to "Export-Import Bank of the United States" and substituted "$13,500,000,000" for "$9,000,000,000".
 
-**1963**—Pub. L. 88–101 substituted “$9,000,000,000” for “$7,000,000,000”.
+**1963**—Pub. L. 88–101 substituted "$9,000,000,000" for "$7,000,000,000".
 
-**1958**—Pub. L. 85–424 substituted “$7,000,000,000” for “$5,000,000,000”.
+**1958**—Pub. L. 85–424 substituted "$7,000,000,000" for "$5,000,000,000".
 
-**1954**—Act Aug. 9, 1954, substituted “$5,000,000,000” for “four and one-half times the authorized capital stock of the Bank”.
+**1954**—Act Aug. 9, 1954, substituted "$5,000,000,000" for "four and one-half times the authorized capital stock of the Bank".
 
-**1953**—Act May 21, 1958, substituted “loans, guaranties, and insurance” for “loans and guaranties”.
+**1953**—Act May 21, 1958, substituted "loans, guaranties, and insurance" for "loans and guaranties".
 
-**1951**—Act Oct. 3, 1951, substituted “four and one-half” for “three and one-half”.
+**1951**—Act Oct. 3, 1951, substituted "four and one-half" for "three and one-half".
 
 #### Effective Date of 1978 Amendment ####
 
@@ -126,4 +126,4 @@ Amendment by Pub. L. 95–630 effective Nov. 10, 1978, see section 1917 of Pub. 
 
 For effective date of amendment by act Aug. 9, 1954, see note set out under section 635a of this title.
 
-[<sup>1</sup> So in original. “2011” probably should be followed by a comma and a dollar amount.](#635e_1)
+[<sup>1</sup> So in original. "2011" probably should be followed by a comma and a dollar amount.](#635e_1)

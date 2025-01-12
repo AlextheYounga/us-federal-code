@@ -36,16 +36,16 @@ Subsec. (d). Pub. L. 87–725, §10, lengthened period upon the expiration of wh
 
 **1938**—Subsec. (a). Act June 23, 1938, inserted last two sentences.
 
-**1937**—Subsec. (a). Act Aug. 20, 1937, among other changes, inserted “or without hearing as provided in section 499f of this title, paragraphs (c) and (d), or upon failure of the party complained against to answer a complaint duly served within the time prescribed, or to appear at a hearing after being duly notified” after “section 499f”.
+**1937**—Subsec. (a). Act Aug. 20, 1937, among other changes, inserted "or without hearing as provided in section 499f of this title, paragraphs (c) and (d), or upon failure of the party complained against to answer a complaint duly served within the time prescribed, or to appear at a hearing after being duly notified" after "section 499f".
 
-Subsec. (b). Act Aug. 20, 1937, among other changes, substituted “pay the reparation award” for “comply with an order for the payment of money”.
+Subsec. (b). Act Aug. 20, 1937, among other changes, substituted "pay the reparation award" for "comply with an order for the payment of money".
 
-Subsec. (c). Act Aug. 20, 1937, inserted “together with a bond in double the amount of the reparation award conditioned upon the payment of the judgment entered by the court plus interest and costs, including a reasonable attorney's fee for the appellee, if the appellee shall prevail” after “upon adverse party” and struck out proviso in first sentence and “by registered mail” after “adverse party”.
+Subsec. (c). Act Aug. 20, 1937, inserted "together with a bond in double the amount of the reparation award conditioned upon the payment of the judgment entered by the court plus interest and costs, including a reasonable attorney's fee for the appellee, if the appellee shall prevail" after "upon adverse party" and struck out proviso in first sentence and "by registered mail" after "adverse party".
 
 Subsec. (d). Act Aug. 20, 1937, inserted proviso.
 
-**1936**—Subsec. (c). Act June 19, 1936, inserted proviso in first sentence and “by registered mail” after “adverse party”.
+**1936**—Subsec. (c). Act June 19, 1936, inserted proviso in first sentence and "by registered mail" after "adverse party".
 
-**1934**—Subsec. (b). Act Apr. 13, 1934, §11, inserted after first sentence “The orders, writs and processes of the district courts may in these cases run, be served, and be returnable anywhere in the United States.”
+**1934**—Subsec. (b). Act Apr. 13, 1934, §11, inserted after first sentence "The orders, writs and processes of the district courts may in these cases run, be served, and be returnable anywhere in the United States."
 
 Subsecs. (c), (d). Act Apr. 13, 1934, §§12, 13, added subsecs. (c) and (d).

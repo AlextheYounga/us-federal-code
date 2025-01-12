@@ -8,4 +8,4 @@ The Secretary, after consultation with the Commission, may enter into cooperativ
 
 (Pub. L. 102–543, §7, Oct. 27, 1992, 106 Stat. 3571.)
 
-[<sup>1</sup> So in original. Probably should be “section;”.](#410yy-6_1)
+[<sup>1</sup> So in original. Probably should be "section;".](#410yy-6_1)

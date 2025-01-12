@@ -26,4 +26,4 @@ Sec.
 
 15751. Authorization of appropriations.
 
-[<sup>1</sup> So in original. Probably should be “157”.](#CHAPTER4_1)
+[<sup>1</sup> So in original. Probably should be "157".](#CHAPTER4_1)

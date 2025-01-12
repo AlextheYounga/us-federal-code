@@ -14,7 +14,7 @@ Should the Secretary not meet a request to appear before the aforementioned comm
 
 #### Amendments ####
 
-**1993**—Pub. L. 103–149 struck out “(a)” before “The Congress” and struck out subsec. (b) which related to use of International Monetary Fund credit by any country which practices apartheid.
+**1993**—Pub. L. 103–149 struck out "(a)" before "The Congress" and struck out subsec. (b) which related to use of International Monetary Fund credit by any country which practices apartheid.
 
 #### Change of Name ####
 

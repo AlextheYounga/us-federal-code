@@ -4,7 +4,7 @@
 
 #### (1) In general ####
 
-Notwithstanding any other provision of law, unless enacted with specific reference to this section, the Secretary of Education (referred to in this part as the “Secretary”) may waive or modify any statutory or regulatory provision applicable to the student financial assistance programs under title IV of the Act [20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.] as the Secretary deems necessary in connection with a war or other military operation or national emergency to provide the waivers or modifications authorized by paragraph (2).
+Notwithstanding any other provision of law, unless enacted with specific reference to this section, the Secretary of Education (referred to in this part as the "Secretary") may waive or modify any statutory or regulatory provision applicable to the student financial assistance programs under title IV of the Act [20 U.S.C. 1070 et seq., 42 U.S.C. 2751 et seq.] as the Secretary deems necessary in connection with a war or other military operation or national emergency to provide the waivers or modifications authorized by paragraph (2).
 
 #### (2) Actions authorized ####
 
@@ -14,7 +14,7 @@ The Secretary is authorized to waive or modify any provision described in paragr
 
 (B) administrative requirements placed on affected individuals who are recipients of student financial assistance are minimized, to the extent possible without impairing the integrity of the student financial assistance programs, to ease the burden on such students and avoid inadvertent, technical violations or defaults;
 
-(C) the calculation of “annual adjusted family income” and “available income”, as used in the determination of need for student financial assistance under title IV of the Act for any such affected individual (and the determination of such need for his or her spouse and dependents, if applicable), may be modified to mean the sums received in the first calendar year of the award year for which such determination is made, in order to reflect more accurately the financial condition of such affected individual and his or her family;
+(C) the calculation of "annual adjusted family income" and "available income", as used in the determination of need for student financial assistance under title IV of the Act for any such affected individual (and the determination of such need for his or her spouse and dependents, if applicable), may be modified to mean the sums received in the first calendar year of the award year for which such determination is made, in order to reflect more accurately the financial condition of such affected individual and his or her family;
 
 (D) the calculation under section 484B(b)(2) of the Act (20 U.S.C. 1091b(b)(2)) of the amount a student is required to return in the case of an affected individual may be modified so that no overpayment will be required to be returned or repaid if the institution has documented (i) the student's status as an affected individual in the student's file, and (ii) the amount of any overpayment discharged; and
 

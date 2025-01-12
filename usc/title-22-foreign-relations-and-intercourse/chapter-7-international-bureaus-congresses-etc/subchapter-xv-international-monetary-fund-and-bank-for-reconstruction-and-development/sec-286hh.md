@@ -32,9 +32,9 @@ In connection with the discussions initiated pursuant to subsection (b) of this 
 
 Not later than March 1, 1989, March 1, 1991, and March 1, 1993, respectively, the Secretary of the Treasury shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate 3 reports each of which—
 
-(1) describes the long term strategy and lending programs of the International Bank for Reconstruction and Development for reducing and managing the debt burden of the countries designated as “Highly Indebted Countries” in the 1987–1988 World Debt Tables published by such bank, and summarize the long term strategy and lending programs of such bank for other seriously indebted countries;
+(1) describes the long term strategy and lending programs of the International Bank for Reconstruction and Development for reducing and managing the debt burden of the countries designated as "Highly Indebted Countries" in the 1987–1988 World Debt Tables published by such bank, and summarize the long term strategy and lending programs of such bank for other seriously indebted countries;
 
-(2) contains an explanation of the measures taken by such bank to facilitate the reduction of the debt burden of the countries designated as “Highly Indebted Countries” in the 1987–1988 World Debt tables <sup><a href="#286hh_1_target" name="286hh_1">1</a></sup> published by such bank;
+(2) contains an explanation of the measures taken by such bank to facilitate the reduction of the debt burden of the countries designated as "Highly Indebted Countries" in the 1987–1988 World Debt tables <sup><a href="#286hh_1_target" name="286hh_1">1</a></sup> published by such bank;
 
 (3) describes the extent (if any) to which such bank has implemented the measures described in subsections (b) and (c) of this section; and
 
@@ -54,7 +54,7 @@ Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, kno
 
 #### Amendments ####
 
-**2010**—Subsec. (a)(6). Pub. L. 111–203 substituted “credit-worthiness” for “credit rating”.
+**2010**—Subsec. (a)(6). Pub. L. 111–203 substituted "credit-worthiness" for "credit rating".
 
 #### Change of Name ####
 

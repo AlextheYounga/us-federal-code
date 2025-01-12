@@ -6,8 +6,8 @@ Appropriations herein and on and after December 22, 1987, made shall be availabl
 
 #### References in Text ####
 
-Appropriations herein, referred to in text, probably means appropriations under the headings “Geological Survey”, “surveys, investigations, and research” and “administrative provisions”, of the annual Department of the Interior and Related Agencies Appropriations Act.
+Appropriations herein, referred to in text, probably means appropriations under the headings "Geological Survey", "surveys, investigations, and research" and "administrative provisions", of the annual Department of the Interior and Related Agencies Appropriations Act.
 
 #### Change of Name ####
 
-“United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of this title.
+"United States Geological Survey" substituted in text for "Geological Survey" pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of this title.

@@ -6,7 +6,7 @@ In the appointment of officials and the selection of employees for said Corporat
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–447 substituted “Board” for “board” wherever appearing.
+**2004**—Pub. L. 108–447 substituted "Board" for "board" wherever appearing.
 
 #### Effective Date of 2004 Amendment ####
 

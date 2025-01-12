@@ -10,7 +10,7 @@
 
 #### (b) Area included ####
 
-The conservation area shall consist of approximately 482,457 acres of federally owned lands and interests therein managed by the Bureau of Land Management as generally depicted on the map entitled “Snake River Birds of Prey National Conservation Area”, dated November 1991.
+The conservation area shall consist of approximately 482,457 acres of federally owned lands and interests therein managed by the Bureau of Land Management as generally depicted on the map entitled "Snake River Birds of Prey National Conservation Area", dated November 1991.
 
 #### (c) Map and legal description ####
 
@@ -18,7 +18,7 @@ As soon as is practicable after August 4, 1993, the map referred to in subsectio
 
 #### (d) Withdrawals ####
 
-Subject to valid existing rights, the Federal lands within the conservation area are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; and from entry, application, and selection under the Act of March 3, 1877 (Ch. 107, 19 Stat. 377, 43 U.S.C. 321 et seq.; commonly referred to as the “Desert Lands Act”), section 641 of title 43, the Act of July 3, 1890 (Ch. 656, 26 Stat. 215; commonly referred to as the “State of Idaho Admissions Act”), section 851 of title 43, and section 852 of title 43. The Secretary shall return to the applicants any such applications pending on August 4, 1993, without further action. Subject to valid existing rights, as of August 4, 1993, lands within the Birds of Prey Conservation Area are withdrawn from location under the general mining laws, the operation of the mineral and geothermal leasing laws, and the mineral material disposal laws, except that mineral materials subject to disposal may be made available from existing sites to the extent compatible with the purposes for which the conservation area is established.
+Subject to valid existing rights, the Federal lands within the conservation area are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; and from entry, application, and selection under the Act of March 3, 1877 (Ch. 107, 19 Stat. 377, 43 U.S.C. 321 et seq.; commonly referred to as the "Desert Lands Act"), section 641 of title 43, the Act of July 3, 1890 (Ch. 656, 26 Stat. 215; commonly referred to as the "State of Idaho Admissions Act"), section 851 of title 43, and section 852 of title 43. The Secretary shall return to the applicants any such applications pending on August 4, 1993, without further action. Subject to valid existing rights, as of August 4, 1993, lands within the Birds of Prey Conservation Area are withdrawn from location under the general mining laws, the operation of the mineral and geothermal leasing laws, and the mineral material disposal laws, except that mineral materials subject to disposal may be made available from existing sites to the extent compatible with the purposes for which the conservation area is established.
 
 (Pub. L. 103–64, §3, Aug. 4, 1993, 107 Stat. 304; Pub. L. 111–11, title II, §2301(a)(2), (c)(1), Mar. 30, 2009, 123 Stat. 1101.)
 
@@ -30,4 +30,4 @@ Act of July 3, 1890, referred to in subsec. (d), is not classified to the Code.
 
 #### Amendments ####
 
-**2009**—Subsec. (a)(1). Pub. L. 111–11 inserted “Morley Nelson” before “Snake River Birds of Prey National Conservation Area” and struck out “(hereafter referred to as the ‘conservation area’)” before period at end.
+**2009**—Subsec. (a)(1). Pub. L. 111–11 inserted "Morley Nelson" before "Snake River Birds of Prey National Conservation Area" and struck out "(hereafter referred to as the 'conservation area')" before period at end.

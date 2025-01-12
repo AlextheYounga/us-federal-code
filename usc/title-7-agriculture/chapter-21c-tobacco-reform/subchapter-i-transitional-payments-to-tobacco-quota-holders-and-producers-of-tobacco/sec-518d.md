@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Base period ####
 
-The term “base period’ <sup><a href="#518d_1_target" name="518d_1">1</a></sup> means the one-year period ending the June 30 before the beginning of a fiscal year.
+The term "base period' <sup><a href="#518d_1_target" name="518d_1">1</a></sup> means the one-year period ending the June 30 before the beginning of a fiscal year.
 
 #### (2) Gross domestic volume ####
 
-The term “gross domestic volume” means the volume of tobacco products—
+The term "gross domestic volume" means the volume of tobacco products—
 
 (A) removed (as defined by section 5702 of title 26); and
 
@@ -18,7 +18,7 @@ The term “gross domestic volume” means the volume of tobacco products—
 
 #### (3) Market share ####
 
-The term “market share” means the share of each manufacturer or importer of a class of tobacco product (expressed as a decimal to the fourth place) of the total volume of domestic sales of the class of tobacco product during the base period for a fiscal year for an assessment under this section.
+The term "market share" means the share of each manufacturer or importer of a class of tobacco product (expressed as a decimal to the fourth place) of the total volume of domestic sales of the class of tobacco product during the base period for a fiscal year for an assessment under this section.
 
 #### (b) Quarterly assessments ####
 
@@ -204,4 +204,4 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(
 
 [<sup>1</sup> So in original.](#518d_1)
 
-[<sup>2</sup> So in original. Probably should be “chapter”.](#518d_2)
+[<sup>2</sup> So in original. Probably should be "chapter".](#518d_2)

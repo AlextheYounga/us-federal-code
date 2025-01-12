@@ -2,7 +2,7 @@
 
 #### (a) Definitions ####
 
-The word “person” as used in subsections (b) and (c) of this section shall include any individual, trustee, firm, association, company, or corporation. The word “ship” shall include any boat, vessel, submarine, or any form of aircraft, and the parts thereof. The words “war material” shall include arms, armament, ammunition, stores, supplies, and equipment for ships and airplanes, and everything required for or in connection with the production thereof. The word “factory” shall include any factory, workshop, engine works, building used for manufacture, assembling, construction, or any process, and any shipyard or dockyard. The words “United States” shall include the Canal Zone and all territory and waters, continental and insular, subject to the jurisdiction of the United States.
+The word "person" as used in subsections (b) and (c) of this section shall include any individual, trustee, firm, association, company, or corporation. The word "ship" shall include any boat, vessel, submarine, or any form of aircraft, and the parts thereof. The words "war material" shall include arms, armament, ammunition, stores, supplies, and equipment for ships and airplanes, and everything required for or in connection with the production thereof. The word "factory" shall include any factory, workshop, engine works, building used for manufacture, assembling, construction, or any process, and any shipyard or dockyard. The words "United States" shall include the Canal Zone and all territory and waters, continental and insular, subject to the jurisdiction of the United States.
 
 #### (b) Presidential powers ####
 
@@ -28,7 +28,7 @@ For definition of Canal Zone, referred to in subsec. (a), see section 3602(b) of
 
 #### Codification ####
 
-In subsec. (d), “section 1346 or section 1491 of title 28” substituted for “section twenty-four, paragraph twenty, and section one hundred and forty-five of the Judicial Code” (those sections classified to sections 41(20) and 250 of former Title 28, Judicial Code and Judiciary) on authority of act June 25, 1948, ch. 646, 62 Stat. 869, section 1 of which enacted Title 28, Judiciary and Judicial Procedure. Section 1346 of Title 28 sets forth the basic jurisdiction of the district courts in cases in which the United States is defendant. Section 1491 of Title 28 sets forth the basic jurisdiction of the United States Court of Claims. Sections 24(20) and 145 of the Judicial Code were also classified to sections 1496, 1501, 1503, 2401, 2402, and 2501 of Title 28.
+In subsec. (d), "section 1346 or section 1491 of title 28" substituted for "section twenty-four, paragraph twenty, and section one hundred and forty-five of the Judicial Code" (those sections classified to sections 41(20) and 250 of former Title 28, Judicial Code and Judiciary) on authority of act June 25, 1948, ch. 646, 62 Stat. 869, section 1 of which enacted Title 28, Judiciary and Judicial Procedure. Section 1346 of Title 28 sets forth the basic jurisdiction of the district courts in cases in which the United States is defendant. Section 1491 of Title 28 sets forth the basic jurisdiction of the United States Court of Claims. Sections 24(20) and 145 of the Judicial Code were also classified to sections 1496, 1501, 1503, 2401, 2402, and 2501 of Title 28.
 
 #### Similar Provisions ####
 

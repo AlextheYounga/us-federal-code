@@ -2,7 +2,7 @@
 
 #### (a) Bank ####
 
-In sections 27 to 27f of this title, the term “bank” means—
+In sections 27 to 27f of this title, the term "bank" means—
 
 (1) any depository institution (as defined in section 1813(c) of title 12);
 
@@ -20,15 +20,15 @@ In sections 27 to 27f of this title, the term “bank” means—
 
 #### (b) Identified banking product ####
 
-In sections 27 to 27f of this title, the term “identified banking product” shall have the same meaning as in paragraphs (1) through (5) of section 206(a) of the Gramm-Leach-Bliley Act, except that in applying such section for purposes of sections 27 to 27f of this title—
+In sections 27 to 27f of this title, the term "identified banking product" shall have the same meaning as in paragraphs (1) through (5) of section 206(a) of the Gramm-Leach-Bliley Act, except that in applying such section for purposes of sections 27 to 27f of this title—
 
-(1) the term “bank” shall have the meaning given in subsection (a) of this section; and
+(1) the term "bank" shall have the meaning given in subsection (a) of this section; and
 
-(2) the term “qualified investor” means eligible contract participant (as defined in section 1a of this title, as in effect on December 21, 2000).
+(2) the term "qualified investor" means eligible contract participant (as defined in section 1a of this title, as in effect on December 21, 2000).
 
 #### (c) Hybrid instrument ####
 
-In sections 27 to 27f of this title, the term “hybrid instrument” means an identified banking product not excluded by section 27a of this title, offered by a bank, having one or more payments indexed to the value, level, or rate of, or providing for the delivery of, one or more commodities (as defined in section 1a of this title).
+In sections 27 to 27f of this title, the term "hybrid instrument" means an identified banking product not excluded by section 27a of this title, offered by a bank, having one or more payments indexed to the value, level, or rate of, or providing for the delivery of, one or more commodities (as defined in section 1a of this title).
 
 (Pub. L. 106–554, §1(a)(5) [title IV, §402], Dec. 21, 2000, 114 Stat. 2763, 2763A–457; Pub. L. 111–203, title VII, §§721(e)(9), 725(g)(1)(B), July 21, 2010, 124 Stat. 1672, 1694.)
 
@@ -44,11 +44,11 @@ Section was enacted as part of the Legal Certainty for Bank Products Act of 2000
 
 #### Amendments ####
 
-**2010**—Subsec. (a)(7). Pub. L. 111–203, §721(e)(9)(A), substituted “section 1a” for “section 1a(20)”.
+**2010**—Subsec. (a)(7). Pub. L. 111–203, §721(e)(9)(A), substituted "section 1a" for "section 1a(20)".
 
-Subsec. (b)(2). Pub. L. 111–203, §721(e)(9)(B), substituted “section 1a” for “section 1a(12)”.
+Subsec. (b)(2). Pub. L. 111–203, §721(e)(9)(B), substituted "section 1a" for "section 1a(12)".
 
-Subsec. (c). Pub. L. 111–203, §721(e)(9)(C), substituted “section 1a” for “section 1a(4)”.
+Subsec. (c). Pub. L. 111–203, §721(e)(9)(C), substituted "section 1a" for "section 1a(4)".
 
 Subsec. (d). Pub. L. 111–203, §725(g)(1)(B), struck out subsec. (d) which defined covered swap agreement.
 
@@ -58,6 +58,6 @@ Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21,
 
 #### Short Title ####
 
-For short title of sections 27 to 27f of this title as the “Legal Certainty for Bank Products Act of 2000”, see section 1(a)(5) [title IV, §401] of Pub. L. 106–554, set out as a Short Title of 2000 Amendment note under section 1 of this title.
+For short title of sections 27 to 27f of this title as the "Legal Certainty for Bank Products Act of 2000", see section 1(a)(5) [title IV, §401] of Pub. L. 106–554, set out as a Short Title of 2000 Amendment note under section 1 of this title.
 
-[<sup>1</sup> So in original. Probably should be “paragraphs”.](#27_1)
+[<sup>1</sup> So in original. Probably should be "paragraphs".](#27_1)

@@ -4,7 +4,7 @@
 
 #### (1) Establishment and function ####
 
-The Secretary shall establish the National Biodefense Science Board (referred to in this section as the “Board”) to provide expert advice and guidance to the Secretary on scientific, technical and other matters of special interest to the Department of Health and Human Services regarding current and future chemical, biological, nuclear, and radiological agents, whether naturally occurring, accidental, or deliberate.
+The Secretary shall establish the National Biodefense Science Board (referred to in this section as the "Board") to provide expert advice and guidance to the Secretary on scientific, technical and other matters of special interest to the Department of Health and Human Services regarding current and future chemical, biological, nuclear, and radiological agents, whether naturally occurring, accidental, or deliberate.
 
 #### (2) Membership ####
 

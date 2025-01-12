@@ -6,15 +6,15 @@ It shall be unlawful for any person to act as floor trader in executing purchase
 
 #### Amendments ####
 
-**2000**—Pub. L. 106–554 inserted “or derivatives transaction execution facility” after “contract market”.
+**2000**—Pub. L. 106–554 inserted "or derivatives transaction execution facility" after "contract market".
 
-**1992**—Pub. L. 102–546 amended section generally. Prior to amendment, section read as follows: “It shall be unlawful for any person to act as floor broker in executing any orders for the purchase or sale of any commodity for future delivery, or involving any contracts of sale of any commodity for future delivery, on or subject to the rules of any contract market unless such person shall have registered, under this chapter, with the Commission as such floor broker and such registration shall not have expired nor been suspended nor revoked.”
+**1992**—Pub. L. 102–546 amended section generally. Prior to amendment, section read as follows: "It shall be unlawful for any person to act as floor broker in executing any orders for the purchase or sale of any commodity for future delivery, or involving any contracts of sale of any commodity for future delivery, on or subject to the rules of any contract market unless such person shall have registered, under this chapter, with the Commission as such floor broker and such registration shall not have expired nor been suspended nor revoked."
 
-**1974**—Pub. L. 93–463 substituted “Commission” for “Secretary of Agriculture”.
+**1974**—Pub. L. 93–463 substituted "Commission" for "Secretary of Agriculture".
 
 #### Effective Date of 1992 Amendment ####
 
-Pub. L. 102–546, title II, §207(c), Oct. 28, 1992, 106 Stat. 3604, provided that: “The amendments made by this section [amending this section and sections 6f, 6g, 12a, and 13a–2 of this title] shall become effective one hundred and eighty days after the date of enactment of this Act [Oct. 28, 1992], and the Commodity Futures Trading Commission shall issue any regulations necessary to implement the amendments made by this section no later than one hundred and eighty days after the date of enactment of this Act.”
+Pub. L. 102–546, title II, §207(c), Oct. 28, 1992, 106 Stat. 3604, provided that: "The amendments made by this section [amending this section and sections 6f, 6g, 12a, and 13a–2 of this title] shall become effective one hundred and eighty days after the date of enactment of this Act [Oct. 28, 1992], and the Commodity Futures Trading Commission shall issue any regulations necessary to implement the amendments made by this section no later than one hundred and eighty days after the date of enactment of this Act."
 
 #### Effective Date of 1974 Amendment ####
 

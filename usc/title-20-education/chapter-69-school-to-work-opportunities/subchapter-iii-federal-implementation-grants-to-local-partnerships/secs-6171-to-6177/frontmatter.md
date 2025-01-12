@@ -16,4 +16,4 @@ Section 6175, Pub. L. 103–239, title III, §305, May 4, 1994, 108 Stat. 594, r
 
 Section 6176, Pub. L. 103–239, title III, §306, May 4, 1994, 108 Stat. 594, required reports by local partnership.
 
-Section 6177, Pub. L. 103–239, title III, §307, May 4, 1994, 108 Stat. 594, defined “high poverty area”.
+Section 6177, Pub. L. 103–239, title III, §307, May 4, 1994, 108 Stat. 594, defined "high poverty area".

@@ -10,7 +10,7 @@ Section 3362, added Pub. L. 85–861, §1(80)(E), Sept. 2, 1958, 72 Stat. 1470; 
 
 Section 3363, added Pub. L. 85–861, §1(80)(E), Sept. 2, 1958, 72 Stat. 1470; amended Pub. L. 86–559, §1(11), June 30, 1960, 74 Stat. 266; Pub. L. 95–485, title VIII, §820(e)(1), Oct. 20, 1978, 92 Stat. 1627; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to requirements and procedures for promotion of officers in reserve grades. See section 14301 et seq. of this title.
 
-Section 3364, added Pub. L. 85–861, §1(80)(E), Sept. 2, 1958, 72 Stat. 1471; amended Pub. L. 86–559, §1(12), June 30, 1960, 74 Stat. 266; Pub. L. 95–485, title VIII, §820(e)(2)–(4), Oct. 20, 1978, 92 Stat. 1627; Pub. L. 98–525, title V, §512, Oct. 19, 1984, 98 Stat. 2521; Pub. L. 100–456, div. A, title XII, §1234(a)(4), Sept. 29, 1988, 102 Stat. 2059, related to commissioned reserve officers’ selection for promotion, order of promotion, zone of consideration lists, and declinations of promotion. See section 14301 et seq. of this title.
+Section 3364, added Pub. L. 85–861, §1(80)(E), Sept. 2, 1958, 72 Stat. 1471; amended Pub. L. 86–559, §1(12), June 30, 1960, 74 Stat. 266; Pub. L. 95–485, title VIII, §820(e)(2)–(4), Oct. 20, 1978, 92 Stat. 1627; Pub. L. 98–525, title V, §512, Oct. 19, 1984, 98 Stat. 2521; Pub. L. 100–456, div. A, title XII, §1234(a)(4), Sept. 29, 1988, 102 Stat. 2059, related to commissioned reserve officers' selection for promotion, order of promotion, zone of consideration lists, and declinations of promotion. See section 14301 et seq. of this title.
 
 Section 3365, added Pub. L. 85–861, §1(80)(E), Sept. 2, 1958, 72 Stat. 1472, related to promotion of second lieutenants of Army Reserve. See section 14301 et seq. of this title.
 

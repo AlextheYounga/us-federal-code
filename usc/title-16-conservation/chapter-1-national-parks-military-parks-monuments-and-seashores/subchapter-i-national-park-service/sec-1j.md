@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-The Secretary of the Interior (referred to in this section as the “Secretary”) may enter into cooperative agreements with State, local, or tribal governments, other Federal agencies, other public entities, educational institutions, private nonprofit organizations, or participating private landowners for the purpose of protecting natural resources of units of the National Park System through collaborative efforts on land inside and outside of National Park System units.
+The Secretary of the Interior (referred to in this section as the "Secretary") may enter into cooperative agreements with State, local, or tribal governments, other Federal agencies, other public entities, educational institutions, private nonprofit organizations, or participating private landowners for the purpose of protecting natural resources of units of the National Park System through collaborative efforts on land inside and outside of National Park System units.
 
 #### (b) Terms and conditions ####
 

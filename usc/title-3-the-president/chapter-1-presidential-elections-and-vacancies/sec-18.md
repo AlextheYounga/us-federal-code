@@ -6,4 +6,4 @@ While the two Houses shall be in meeting as provided in this chapter, the Presid
 
 #### Amendments ####
 
-**1954**—Act Sept. 3, 1954, substituted “chapter” for “subchapter”.
+**1954**—Act Sept. 3, 1954, substituted "chapter" for "subchapter".

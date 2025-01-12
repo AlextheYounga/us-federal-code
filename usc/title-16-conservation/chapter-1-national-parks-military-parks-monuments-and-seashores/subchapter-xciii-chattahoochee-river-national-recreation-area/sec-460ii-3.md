@@ -14,7 +14,7 @@ The Secretary is directed to proceed as expeditiously as possible to acquire the
 
 #### (d) Mitigation funds for adverse impacts; excepted lands; limitation of amount; replacement lands ####
 
-(1) Notwithstanding any other authority of law, any department, agency, or instrumentality of the United States or of the State of Georgia, or any other entity which may construct any project recommended in the study entitled “Metropolitan Atlanta Water Resources Management Study, Georgia: Report of Chief of Engineers,” dated June 1, 1982, which directly adversely impacts any lands within the authorized recreation boundaries of the Bowman's Island tract as shown on the map numbered and dated CHAT–20,003, September 1984, which were in Federal ownership as of September 1, 1984, shall, upon request by the Secretary, mitigate such adverse impacts. It is expressly provided that use of or adverse impact upon any other lands within the recreation area as result of any such project shall not require mitigation. Mitigation required by this paragraph shall be provided by payment to the United States of a sum not to exceed $3,200,000. The mitigation funds paid pursuant to this paragraph shall be utilized by the Secretary for the acquisition of replacement lands. Such replacement lands shall be acquired only after consultation with the Governor of Georgia.
+(1) Notwithstanding any other authority of law, any department, agency, or instrumentality of the United States or of the State of Georgia, or any other entity which may construct any project recommended in the study entitled "Metropolitan Atlanta Water Resources Management Study, Georgia: Report of Chief of Engineers," dated June 1, 1982, which directly adversely impacts any lands within the authorized recreation boundaries of the Bowman's Island tract as shown on the map numbered and dated CHAT–20,003, September 1984, which were in Federal ownership as of September 1, 1984, shall, upon request by the Secretary, mitigate such adverse impacts. It is expressly provided that use of or adverse impact upon any other lands within the recreation area as result of any such project shall not require mitigation. Mitigation required by this paragraph shall be provided by payment to the United States of a sum not to exceed $3,200,000. The mitigation funds paid pursuant to this paragraph shall be utilized by the Secretary for the acquisition of replacement lands. Such replacement lands shall be acquired only after consultation with the Governor of Georgia.
 
 (2) In acquiring replacement lands under paragraph (1) priority shall be given to acquisition of lands within the recreation area boundary and those lands within or adjacent to the 2,000 foot wide corridor referred to in section 460ii of this title. Any lands acquired pursuant to this subsection lying outside the boundaries of the recreation area shall, upon acquisition, be included within the recreation area and transferred to the Secretary for management under this subchapter. The Secretary shall publish a revised boundary map to include any lands added to the recreation area pursuant to this subsection.
 
@@ -28,10 +28,10 @@ The Federal Power Act (16 U.S.C. 791a et seq.), referred to in subsec. (a), is a
 
 #### Amendments ####
 
-**1999**—Subsec. (b). Pub. L. 106–154, §2(e)(2), substituted “this subchapter” for “this subchapter and chapter 43 of this title” wherever appearing.
+**1999**—Subsec. (b). Pub. L. 106–154, §2(e)(2), substituted "this subchapter" for "this subchapter and chapter 43 of this title" wherever appearing.
 
-Subsec. (d)(2). Pub. L. 106–154, §2(e)(3), substituted “under this subchapter” for “under this subchapter and chapter 43 of this title”.
+Subsec. (d)(2). Pub. L. 106–154, §2(e)(3), substituted "under this subchapter" for "under this subchapter and chapter 43 of this title".
 
-**1994**—Subsec. (b). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+**1994**—Subsec. (b). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
 
 **1984**—Subsec. (d). Pub. L. 98–568 added subsec. (d).

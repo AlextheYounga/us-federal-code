@@ -16,4 +16,4 @@ Sec.
 
 #### Amendments ####
 
-**1998**—Pub. L. 105–362, title XIII, §1302(b)(2)(B)(ii), Nov. 10, 1998, 112 Stat. 3293, added item 4705 and struck out former items 4705 “Reports” and 4706 “Regulations”.
+**1998**—Pub. L. 105–362, title XIII, §1302(b)(2)(B)(ii), Nov. 10, 1998, 112 Stat. 3293, added item 4705 and struck out former items 4705 "Reports" and 4706 "Regulations".

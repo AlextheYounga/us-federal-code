@@ -32,6 +32,6 @@ Sec.
 
 #### Amendments ####
 
-**2002**—Pub. L. 107–273, div. C, title III, §13210(11), Nov. 2, 2002, 116 Stat. 1910, substituted “licensing” for “licensure” in item 903.
+**2002**—Pub. L. 107–273, div. C, title III, §13210(11), Nov. 2, 2002, 116 Stat. 1910, substituted "licensing" for "licensure" in item 903.
 
-**1997**—Pub. L. 105–80, §12(a)(21), Nov. 13, 1997, 111 Stat. 1535, substituted “Ownership, transfer, licensure, and recordation” for “Ownership and transfer” in item 903.
+**1997**—Pub. L. 105–80, §12(a)(21), Nov. 13, 1997, 111 Stat. 1535, substituted "Ownership, transfer, licensure, and recordation" for "Ownership and transfer" in item 903.

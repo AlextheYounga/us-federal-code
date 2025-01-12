@@ -10,4 +10,4 @@ Section was not enacted as part of act July 3, 1930, ch. 837, 46 Stat. 855, whic
 
 #### Change of Name ####
 
-Act June 5, 1936, changed “Colonial National Monument” to “Colonial National Historical Park”.
+Act June 5, 1936, changed "Colonial National Monument" to "Colonial National Historical Park".

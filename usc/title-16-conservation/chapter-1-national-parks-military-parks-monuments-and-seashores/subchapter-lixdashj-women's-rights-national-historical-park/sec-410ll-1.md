@@ -6,23 +6,23 @@ In this section:
 
 #### (1) Park ####
 
-The term “Park” means the Women's Rights National Historical Park established by section 410ll of this title.
+The term "Park" means the Women's Rights National Historical Park established by section 410ll of this title.
 
 #### (2) Secretary ####
 
-The term “Secretary” means the Secretary of the Interior, acting through the Director of the National Park Service.
+The term "Secretary" means the Secretary of the Interior, acting through the Director of the National Park Service.
 
 #### (3) State ####
 
-The term “State” means the State of New York.
+The term "State" means the State of New York.
 
 #### (4) Trail ####
 
-The term “Trail” means the Votes for Women History Trail Route designated under subsection (b).
+The term "Trail" means the Votes for Women History Trail Route designated under subsection (b).
 
 #### (b) Establishment of Trail Route ####
 
-The Secretary, with concurrence of the agency having jurisdiction over the relevant roads, may designate a vehicular tour route, to be known as the “Votes for Women History Trail Route”, to link properties in the State that are historically and thematically associated with the struggle for women's suffrage in the United States.
+The Secretary, with concurrence of the agency having jurisdiction over the relevant roads, may designate a vehicular tour route, to be known as the "Votes for Women History Trail Route", to link properties in the State that are historically and thematically associated with the struggle for women's suffrage in the United States.
 
 #### (c) Administration ####
 

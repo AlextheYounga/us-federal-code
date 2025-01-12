@@ -20,8 +20,8 @@ Section 3348, Pub. L. 95–621, title II, §208, Nov. 9, 1978, 92 Stat. 3381, di
 
 Pub. L. 100–42, §2, May 21, 1987, 101 Stat. 314, provided that:
 
-“(a) Repeal.—Subject to subsections (b) and (c) of this section, title II of the Natural Gas Policy Act of 1978 (15 U.S.C. 3341–3348) is repealed, and the items relating to title II are stricken from the table of contents of that Act.
+"(a) Repeal.—Subject to subsections (b) and (c) of this section, title II of the Natural Gas Policy Act of 1978 (15 U.S.C. 3341–3348) is repealed, and the items relating to title II are stricken from the table of contents of that Act.
 
-“(b) Limited Continuing Effect of Rules.—A rule promulgated by the Federal Energy Regulatory Commission, under title II of the Natural Gas Policy Act of 1978 shall continue in effect only with respect to the flowthrough of costs incurred before the enactment of this section [May 21, 1987], including any surcharges based on such costs.
+"(b) Limited Continuing Effect of Rules.—A rule promulgated by the Federal Energy Regulatory Commission, under title II of the Natural Gas Policy Act of 1978 shall continue in effect only with respect to the flowthrough of costs incurred before the enactment of this section [May 21, 1987], including any surcharges based on such costs.
 
-“(c) Implementation.—The Federal Energy Regulatory Commission may take appropriate action to implement this section.”
+"(c) Implementation.—The Federal Energy Regulatory Commission may take appropriate action to implement this section."

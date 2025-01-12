@@ -2,7 +2,7 @@
 
 #### (a) Definition ####
 
-In this section, the term “structured finance product” means an asset-backed security, as defined in section 3(a)(77) <sup><a href="#78o-9_1_target" name="78o-9_1">1</a></sup> of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(79)], as added by section 941,<sup><a href="#78o-9_1_target" name="78o-9_1">1</a></sup> and any structured product based on an asset-backed security, as determined by the Commission, by rule.
+In this section, the term "structured finance product" means an asset-backed security, as defined in section 3(a)(77) <sup><a href="#78o-9_1_target" name="78o-9_1">1</a></sup> of the Securities Exchange Act of 1934 [15 U.S.C. 78c(a)(79)], as added by section 941,<sup><a href="#78o-9_1_target" name="78o-9_1">1</a></sup> and any structured product based on an asset-backed security, as determined by the Commission, by rule.
 
 #### (b) Study ####
 
@@ -66,11 +66,11 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 Pub. L. 111–203, title IX, §939D, July 21, 2010, 124 Stat. 1888, provided that:
 
-“(a) Study.—The Comptroller General of the United States shall conduct a study on alternative means for compensating nationally recognized statistical rating organizations in order to create incentives for nationally recognized statistical rating organizations to provide more accurate credit ratings, including any statutory changes that would be required to facilitate the use of an alternative means of compensation.
+"(a) Study.—The Comptroller General of the United States shall conduct a study on alternative means for compensating nationally recognized statistical rating organizations in order to create incentives for nationally recognized statistical rating organizations to provide more accurate credit ratings, including any statutory changes that would be required to facilitate the use of an alternative means of compensation.
 
-“(b) Report.—Not later than 18 months after the date of enactment of this Act [July 21, 2010], the Comptroller General shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the results of the study conducted under subsection (a), including recommendations, if any, for providing incentives to credit rating agencies to improve the credit rating process.”
+"(b) Report.—Not later than 18 months after the date of enactment of this Act [July 21, 2010], the Comptroller General shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the results of the study conducted under subsection (a), including recommendations, if any, for providing incentives to credit rating agencies to improve the credit rating process."
 
-[For definition of “nationally recognized statistical rating organization” as used in section 939D of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.]
+[For definition of "nationally recognized statistical rating organization" as used in section 939D of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.]
 
 #### Definitions ####
 

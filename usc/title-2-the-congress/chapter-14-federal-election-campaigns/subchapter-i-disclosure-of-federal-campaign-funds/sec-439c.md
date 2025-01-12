@@ -18,7 +18,7 @@ Another prior section 314 of Pub. L. 92–225 was renumbered section 309, and is
 
 #### Amendments ####
 
-**1986**—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+**1986**—Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 **1980**—Pub. L. 96–253 inserted provisions authorizing appropriations of $9,400,000 for fiscal year ending Sept. 30, 1981.
 

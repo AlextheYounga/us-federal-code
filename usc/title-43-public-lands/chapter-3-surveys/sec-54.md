@@ -6,7 +6,7 @@ The Secretary of the Interior shall take all the necessary measures for the comp
 
 #### Codification ####
 
-The original text of R.S. §2218 provided for completion of surveys “in the several surveying-districts for which surveyors general have been, or may be, appointed” and also provided that “the surveyor general thereof shall be required to deliver over” all papers appertaining to land titles within the district, “and the office of surveyor general in every such district shall thereafter cease and be discontinued.” The references to the surveyors general were omitted in view of act Mar. 3, 1925 (classified to section 51 of this title) abolishing office of surveyor general and transferring its activities to the Field Surveying Service, under the jurisdiction of the U.S. Supervisor of Surveys. See, also, Transfer of Functions note below.
+The original text of R.S. §2218 provided for completion of surveys "in the several surveying-districts for which surveyors general have been, or may be, appointed" and also provided that "the surveyor general thereof shall be required to deliver over" all papers appertaining to land titles within the district, "and the office of surveyor general in every such district shall thereafter cease and be discontinued." The references to the surveyors general were omitted in view of act Mar. 3, 1925 (classified to section 51 of this title) abolishing office of surveyor general and transferring its activities to the Field Surveying Service, under the jurisdiction of the U.S. Supervisor of Surveys. See, also, Transfer of Functions note below.
 
 R.S. §2207, formerly cited as a credit to this section, which provided for appointment of surveyors general, was superseded by act Mar. 3, 1925 (classified to section 51 of this title) and repealed by act Mar. 3, 1933, ch. 202, §1, 47 Stat. 1429.
 
@@ -24,4 +24,4 @@ R.S. §2218 derived from acts June 12, 1840, ch. 36, §1, 5 Stat. 384; July 31, 
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
-“Secretary of the Interior or such officer as he may designate” substituted for “Supervisor of Surveys” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
+"Secretary of the Interior or such officer as he may designate" substituted for "Supervisor of Surveys" on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.

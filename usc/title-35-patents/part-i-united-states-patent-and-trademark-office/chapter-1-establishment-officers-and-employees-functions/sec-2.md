@@ -72,7 +72,7 @@
 
 Based on Title 35, U.S.C., 1946 ed., §3 (R.S. 478).
 
-“Certificates of trade-mark registrations” is added, see note under section 1. Changes in language are made and the specific date eliminated.
+"Certificates of trade-mark registrations" is added, see note under section 1. Changes in language are made and the specific date eliminated.
 
 #### References in Text ####
 
@@ -80,29 +80,29 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(A), is
 
 #### Amendments ####
 
-**2011**—Subsec. (b)(2)(E). Pub. L. 112–29, §20(j), struck out “of this title” after “41(h)(1)”.
+**2011**—Subsec. (b)(2)(E). Pub. L. 112–29, §20(j), struck out "of this title" after "41(h)(1)".
 
 Subsec. (b)(2)(G). Pub. L. 112–29, §25, added subpar. (G).
 
-Subsec. (b)(4)(A). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
+Subsec. (b)(4)(A). Pub. L. 111–350 substituted "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)".
 
-Subsec. (b)(11). Pub. L. 112–29, §21(a), inserted “, and the Office is authorized to expend funds to cover the subsistence expenses and travel-related expenses, including per diem, lodging costs, and transportation costs, of persons attending such programs who are not Federal employees” after “world”.
+Subsec. (b)(11). Pub. L. 112–29, §21(a), inserted ", and the Office is authorized to expend funds to cover the subsistence expenses and travel-related expenses, including per diem, lodging costs, and transportation costs, of persons attending such programs who are not Federal employees" after "world".
 
-**2003**—Subsec. (b)(4)(A). Pub. L. 108–178 substituted “subtitle I and chapter 33 of title 40, title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.),” for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.), the Public Buildings Act (40 U.S.C. 601 et seq.),”.
+**2003**—Subsec. (b)(4)(A). Pub. L. 108–178 substituted "subtitle I and chapter 33 of title 40, title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)," for "the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.), the Public Buildings Act (40 U.S.C. 601 et seq.),".
 
-**2002**—Subsec. (b)(2)(B), (4)(B). Pub. L. 107–273 struck out “, United States Code” before semicolon at end.
+**2002**—Subsec. (b)(2)(B), (4)(B). Pub. L. 107–273 struck out ", United States Code" before semicolon at end.
 
-**2000**—Subsec. (b)(4)(A). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
+**2000**—Subsec. (b)(4)(A). Pub. L. 106–400 substituted "McKinney-Vento Homeless Assistance Act" for "Stewart B. McKinney Homeless Assistance Act".
 
-**1999**—Pub. L. 106–113 amended section catchline and text generally. Prior to amendment, text read as follows: “The Patent and Trademark Office shall have a seal with which letters patent, certificates of trade-mark registrations, and papers issued from the Office shall be authenticated.”
+**1999**—Pub. L. 106–113 amended section catchline and text generally. Prior to amendment, text read as follows: "The Patent and Trademark Office shall have a seal with which letters patent, certificates of trade-mark registrations, and papers issued from the Office shall be authenticated."
 
-**1975**—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+**1975**—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
 #### Effective Date of 2011 Amendment ####
 
-Pub. L. 112–274, §1(g), Jan. 14, 2013, 126 Stat. 2457, provided that: “Notwithstanding section 35 of the Leahy-Smith America Invents Act (35 U.S.C. 1 note), the amendments made by section 21 of the Leahy-Smith America Invents Act (Public Law 112–29; 125 Stat. 335) [amending this section and section 3 of this title] shall be effective as of September 16, 2011.”
+Pub. L. 112–274, §1(g), Jan. 14, 2013, 126 Stat. 2457, provided that: "Notwithstanding section 35 of the Leahy-Smith America Invents Act (35 U.S.C. 1 note), the amendments made by section 21 of the Leahy-Smith America Invents Act (Public Law 112–29; 125 Stat. 335) [amending this section and section 3 of this title] shall be effective as of September 16, 2011."
 
-Pub. L. 112–29, §20(l), Sept. 16, 2011, 125 Stat. 335, provided that: “The amendments made by this section [amending this section and sections 3, 12, 32, 41, 103, 104, 111, 116, 119 to 123, 132, 135, 143, 145, 146, 154, 157, 162, 172, 182 to 186, 202, 207, 209, 210, 251, 253, 256, 257, 267, 282, 284, 287, 288, 291, 294, 302 to 307, 328, 363, 365, 368, and 371 to 375 of this title and repealing sections 155 and 155A of this title] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to proceedings commenced on or after that effective date.”
+Pub. L. 112–29, §20(l), Sept. 16, 2011, 125 Stat. 335, provided that: "The amendments made by this section [amending this section and sections 3, 12, 32, 41, 103, 104, 111, 116, 119 to 123, 132, 135, 143, 145, 146, 154, 157, 162, 172, 182 to 186, 202, 207, 209, 210, 251, 253, 256, 257, 267, 282, 284, 287, 288, 291, 294, 302 to 307, 328, 363, 365, 368, and 371 to 375 of this title and repealing sections 155 and 155A of this title] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to proceedings commenced on or after that effective date."
 
 Except as otherwise provided in Pub. L. 112–29, amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to any patent issued on or after that effective date, see section 35 of Pub. L. 112–29, set out as a note under section 1 of this title.
 
@@ -120,28 +120,28 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 #### Patent Ombudsman Program for Small Business Concerns ####
 
-Pub. L. 112–29, §28, Sept. 16, 2011, 125 Stat. 339, provided that: “Using available resources, the Director [Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office] shall establish and maintain in the [United States Patent and Trademark] Office a Patent Ombudsman Program. The duties of the Program's staff shall include providing support and services relating to patent filings to small business concerns and independent inventors.”
+Pub. L. 112–29, §28, Sept. 16, 2011, 125 Stat. 339, provided that: "Using available resources, the Director [Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office] shall establish and maintain in the [United States Patent and Trademark] Office a Patent Ombudsman Program. The duties of the Program's staff shall include providing support and services relating to patent filings to small business concerns and independent inventors."
 
 #### Pro Bono Programs ####
 
 Pub. L. 112–29, §32, Sept. 16, 2011, 125 Stat. 340, provided that:
 
-“(a) In General.—The Director [Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office] shall work with and support intellectual property law associations across the country in the establishment of pro bono programs designed to assist financially under-resourced independent inventors and small businesses.
+"(a) In General.—The Director [Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office] shall work with and support intellectual property law associations across the country in the establishment of pro bono programs designed to assist financially under-resourced independent inventors and small businesses.
 
-“(b) Effective Date.—This section shall take effect on the date of the enactment of this Act [Sept. 16, 2011].”
+"(b) Effective Date.—This section shall take effect on the date of the enactment of this Act [Sept. 16, 2011]."
 
 #### Electronic Filing and Processing of Patent and Trademark Applications ####
 
 Pub. L. 107–273, div. C, title III, §13103, Nov. 2, 2002, 116 Stat. 1899, provided that:
 
-“(a) Electronic Filing and Processing.—The Director [of the Patent and Trademark Office] shall, beginning not later than 90 days after the date of enactment of this Act [Nov. 2, 2002], and during the 3-year period thereafter, develop an electronic system for the filing and processing of patent and trademark applications, that—
+"(a) Electronic Filing and Processing.—The Director [of the Patent and Trademark Office] shall, beginning not later than 90 days after the date of enactment of this Act [Nov. 2, 2002], and during the 3-year period thereafter, develop an electronic system for the filing and processing of patent and trademark applications, that—
 
-“(1) is user friendly; and
+"(1) is user friendly; and
 
-“(2) includes the necessary infrastructure—
+"(2) includes the necessary infrastructure—
 
-“(A) to allow examiners and applicants to send all communications electronically; and
+"(A) to allow examiners and applicants to send all communications electronically; and
 
-“(B) to allow the Office to process, maintain, and search electronically the contents and history of each application.
+"(B) to allow the Office to process, maintain, and search electronically the contents and history of each application.
 
-“(b) Authorization of Appropriations.—Of amounts authorized under section 13102 [set out as a note under section 42 of this title], there is authorized to be appropriated to carry out subsection (a) of this section not more than $50,000,000 for each of fiscal years 2003, 2004, and 2005. Amounts made available pursuant to this subsection shall remain available until expended.”
+"(b) Authorization of Appropriations.—Of amounts authorized under section 13102 [set out as a note under section 42 of this title], there is authorized to be appropriated to carry out subsection (a) of this section not more than $50,000,000 for each of fiscal years 2003, 2004, and 2005. Amounts made available pursuant to this subsection shall remain available until expended."

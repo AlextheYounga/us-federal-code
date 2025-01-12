@@ -46,19 +46,19 @@
 
 (i) Other Definitions.—In this section:
 
-(1) The term “primary dependent”, with respect to a member, means—
+(1) The term "primary dependent", with respect to a member, means—
 
 (A) the member's spouse; or
 
 (B) in the case of an unmarried member, a dependent described in paragraph (2) or (4) of section 401(a) of this title.
 
-(2) The term “cost of living” means a price index selected by the Secretary of Defense, in consultation with the other administering Secretaries, from among the following indices:
+(2) The term "cost of living" means a price index selected by the Secretary of Defense, in consultation with the other administering Secretaries, from among the following indices:
 
 (A) The Consumer Price Index (all items–United States city average) published monthly by the Bureau of Labor Statistics.
 
 (B) Any other index developed in the private sector that the Secretary of Defense, in consultation with the other administering Secretaries, determines is comparable to the Consumer Price Index and is appropriate for use for purposes of this section.
 
-(3) The term “uniformed services cost of living” means the price index selected as described in paragraph (2) and adjusted as the Secretary of Defense, in consultation with the other administering Secretaries, considers appropriate to reflect variations between expenses of members of the uniformed services (as offset by the basic allowance for subsistence) and the corresponding expenses of persons not members of the uniformed services with regard to the following:
+(3) The term "uniformed services cost of living" means the price index selected as described in paragraph (2) and adjusted as the Secretary of Defense, in consultation with the other administering Secretaries, considers appropriate to reflect variations between expenses of members of the uniformed services (as offset by the basic allowance for subsistence) and the corresponding expenses of persons not members of the uniformed services with regard to the following:
 
 (A) Nonhousing costs (including costs of transportation, goods, and services, taking into consideration savings attributable to use of such military facilities as commissary stores and exchange stores).
 
@@ -66,9 +66,9 @@
 
 (C) Cost of health care.
 
-(4) The term “base period”, with respect to a fiscal year, means the 12-month period ending on June 30 of the year in which such fiscal year begins.
+(4) The term "base period", with respect to a fiscal year, means the 12-month period ending on June 30 of the year in which such fiscal year begins.
 
-(5) The term “administering Secretaries” means the following:
+(5) The term "administering Secretaries" means the following:
 
 (A) The Secretary of Defense, with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy).
 
@@ -82,9 +82,9 @@
 
 #### Amendments ####
 
-**2002**—Subsec. (i)(5)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+**2002**—Subsec. (i)(5)(B). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-Subsec. (i)(6). Pub. L. 107–314 struck out par. (6) which read as follows: “The term ‘continental United States’ means the 48 contiguous States and the District of Columbia.”
+Subsec. (i)(6). Pub. L. 107–314 struck out par. (6) which read as follows: "The term 'continental United States' means the 48 contiguous States and the District of Columbia."
 
 #### Effective Date of 2002 Amendment ####
 
@@ -98,16 +98,16 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Pub. L. 103–337, div. A, title VI, §602(b), Oct. 5, 1994, 108 Stat. 2781, provided that:
 
-“(1) A cost-of-living allowance under section 403b of title 37, United States Code, as added by subsection (a), may not be provided until after the end of the 90-day period beginning on the date the Secretary of Defense submits the report required under paragraph (2).
+"(1) A cost-of-living allowance under section 403b of title 37, United States Code, as added by subsection (a), may not be provided until after the end of the 90-day period beginning on the date the Secretary of Defense submits the report required under paragraph (2).
 
-“(2) Before implementing section 403b of title 37, United States Code, the Secretary of Defense, in consultation with the other administering Secretaries (as defined in subsection (h)(6) [probably should be (i)(5)] of such section), shall submit to Congress a report describing—
+"(2) Before implementing section 403b of title 37, United States Code, the Secretary of Defense, in consultation with the other administering Secretaries (as defined in subsection (h)(6) [probably should be (i)(5)] of such section), shall submit to Congress a report describing—
 
-“(A) the methods by which the Secretary of Defense would determine the price index to be used under such section and the types of nonhousing related costs that will be considered under such price index;
+"(A) the methods by which the Secretary of Defense would determine the price index to be used under such section and the types of nonhousing related costs that will be considered under such price index;
 
-“(B) the manner by which the Secretary will establish the threshold percentage for purposes of such section;
+"(B) the manner by which the Secretary will establish the threshold percentage for purposes of such section;
 
-“(C) the manner in which savings attributable to use of such military facilities as commissary stores, exchange stores, and military medical treatment facilities will be taken into consideration; and
+"(C) the manner in which savings attributable to use of such military facilities as commissary stores, exchange stores, and military medical treatment facilities will be taken into consideration; and
 
-“(D) the methods by which the Secretary proposes to prevent uncontrolled growth in Government expenditures through the cost-of-living allowance available under such section.”
+"(D) the methods by which the Secretary proposes to prevent uncontrolled growth in Government expenditures through the cost-of-living allowance available under such section."
 
 [Report submitted by Secretary of Defense on Mar. 31, 1995.]

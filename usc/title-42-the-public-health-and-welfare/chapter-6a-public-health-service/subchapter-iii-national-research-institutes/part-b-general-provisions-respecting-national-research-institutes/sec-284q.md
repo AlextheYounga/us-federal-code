@@ -12,13 +12,13 @@ Not less than annually, the Pain Consortium, in consultation with the Division o
 
 #### (3) Definition ####
 
-In this subsection, the term “Pain Consortium” means the Pain Consortium of the National Institutes of Health or a similar trans-National Institutes of Health coordinating entity designated by the Secretary for purposes of this subsection.
+In this subsection, the term "Pain Consortium" means the Pain Consortium of the National Institutes of Health or a similar trans-National Institutes of Health coordinating entity designated by the Secretary for purposes of this subsection.
 
 #### (b) Interagency Pain Research Coordinating Committee ####
 
 #### (1) Establishment ####
 
-The Secretary shall establish not later than 1 year after March 23, 2010, and as necessary maintain a committee, to be known as the Interagency Pain Research Coordinating Committee (in this section referred to as the “Committee”), to coordinate all efforts within the Department of Health and Human Services and other Federal agencies that relate to pain research.
+The Secretary shall establish not later than 1 year after March 23, 2010, and as necessary maintain a committee, to be known as the Interagency Pain Research Coordinating Committee (in this section referred to as the "Committee"), to coordinate all efforts within the Department of Health and Human Services and other Federal agencies that relate to pain research.
 
 #### (2) Membership ####
 
@@ -70,4 +70,4 @@ The Secretary shall review the necessity of the Committee at least once every 2 
 
 (July 1, 1944, ch. 373, title IV, §409J, as added Pub. L. 111–148, title IV, §4305(b), Mar. 23, 2010, 124 Stat. 585.)
 
-[<sup>1</sup> So in original. Probably should be “appointed”.](#284q_1)
+[<sup>1</sup> So in original. Probably should be "appointed".](#284q_1)

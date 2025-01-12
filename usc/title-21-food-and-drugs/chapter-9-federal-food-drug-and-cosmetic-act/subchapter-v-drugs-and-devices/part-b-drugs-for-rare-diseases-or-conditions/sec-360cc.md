@@ -22,25 +22,25 @@ If an application filed pursuant to section 355 of this title is approved for a 
 
 #### Amendments ####
 
-**2002**—Subsec. (a). Pub. L. 107–281, in concluding provisions, struck out “, of such certification,” after “such approved application” and “, the issuance of the certification,” after “approval of the approved application”.
+**2002**—Subsec. (a). Pub. L. 107–281, in concluding provisions, struck out ", of such certification," after "such approved application" and ", the issuance of the certification," after "approval of the approved application".
 
-**1997**—Subsec. (a). Pub. L. 105–115, §125(b)(2)(J), struck out “, issue another certification under section 357 of this title,” before “or issue another license” in closing provisions, inserted “or” at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “issues a certification under section 357 of this title, or”.
+**1997**—Subsec. (a). Pub. L. 105–115, §125(b)(2)(J), struck out ", issue another certification under section 357 of this title," before "or issue another license" in closing provisions, inserted "or" at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: "issues a certification under section 357 of this title, or".
 
-Subsec. (b). Pub. L. 105–115, §125(b)(2)(K), in introductory provisions, struck out “, if a certification is issued under section 357 of this title for such a drug,” after “rare disease or condition”, “, of the issuance of the certification under section 357 of this title,” after “application approval”, “, issue another certification under section 357 of this title,” after “application under section 355 of this title”, and “, of such certification,” after “approved application”.
+Subsec. (b). Pub. L. 105–115, §125(b)(2)(K), in introductory provisions, struck out ", if a certification is issued under section 357 of this title for such a drug," after "rare disease or condition", ", of the issuance of the certification under section 357 of this title," after "application approval", ", issue another certification under section 357 of this title," after "application under section 355 of this title", and ", of such certification," after "approved application".
 
-Subsec. (b)(1). Pub. L. 105–115, §125(b)(2)(K), struck out “, of the certification,” after “holder of the approved application”.
+Subsec. (b)(1). Pub. L. 105–115, §125(b)(2)(K), struck out ", of the certification," after "holder of the approved application".
 
-Subsec. (b)(2). Pub. L. 105–115, §125(b)(2)(K), struck out “, issuance of other certifications,” after “approval of other applications”.
+Subsec. (b)(2). Pub. L. 105–115, §125(b)(2)(K), struck out ", issuance of other certifications," after "approval of other applications".
 
-**1993**—Subsec. (b). Pub. L. 103–80 struck out extraneous comma before “or issue a license under section 262” in introductory provisions and substituted “the” for “The” at beginning of par. (1).
+**1993**—Subsec. (b). Pub. L. 103–80 struck out extraneous comma before "or issue a license under section 262" in introductory provisions and substituted "the" for "The" at beginning of par. (1).
 
-**1985**—Pub. L. 99–91, §2(3), struck out “unpatented” before “drugs” in section catchline.
+**1985**—Pub. L. 99–91, §2(3), struck out "unpatented" before "drugs" in section catchline.
 
-Subsec. (a). Pub. L. 99–91, §§2(1), 3(a)(3)(A)–(D), struck out “or” at end of par. (1), added par. (2), redesignated former par. (2) as (3), struck out “and for which a United States Letter of Patent may not be issued” after “rare disease or condition”, inserted in first sentence “, issue another certification under section 357 of this title,” after “section 355 of this title” the second time it appeared, inserted “, of such certification,” after “holder of such approved application”, and inserted “, the issuance of the certification,” after “approval of the approved application”.
+Subsec. (a). Pub. L. 99–91, §§2(1), 3(a)(3)(A)–(D), struck out "or" at end of par. (1), added par. (2), redesignated former par. (2) as (3), struck out "and for which a United States Letter of Patent may not be issued" after "rare disease or condition", inserted in first sentence ", issue another certification under section 357 of this title," after "section 355 of this title" the second time it appeared, inserted ", of such certification," after "holder of such approved application", and inserted ", the issuance of the certification," after "approval of the approved application".
 
-Subsec. (b). Pub. L. 99–91, §§2(2), 3(a)(3)(E)–(K), struck out “and if a United States Letter of Patent may not be issued for the drug” after “such a drug”, substituted “, if a certification is issued under section 357 of this title for such a drug, or if a license” for “or a license”, inserted “, of the issuance of the certification under section 357 of this title,” after “application approval”, struck out “, if the drug is a biological product,” before “issue a license”, inserted “, issue another certification under section 357 of this title,” after “section 355 of this title”, inserted “, of such certification,” after “holder of such approved application”, inserted “, of such certification,” after “application” in par. (1), and inserted “, issuance of other certifications,” after “other applications” in par. (2).
+Subsec. (b). Pub. L. 99–91, §§2(2), 3(a)(3)(E)–(K), struck out "and if a United States Letter of Patent may not be issued for the drug" after "such a drug", substituted ", if a certification is issued under section 357 of this title for such a drug, or if a license" for "or a license", inserted ", of the issuance of the certification under section 357 of this title," after "application approval", struck out ", if the drug is a biological product," before "issue a license", inserted ", issue another certification under section 357 of this title," after "section 355 of this title", inserted ", of such certification," after "holder of such approved application", inserted ", of such certification," after "application" in par. (1), and inserted ", issuance of other certifications," after "other applications" in par. (2).
 
-**1984**—Subsecs. (a), (b). Pub. L. 98–417 substituted “section 355” for “section 355(b)” wherever appearing.
+**1984**—Subsecs. (a), (b). Pub. L. 98–417 substituted "section 355" for "section 355(b)" wherever appearing.
 
 #### Effective Date of 1985 Amendment ####
 

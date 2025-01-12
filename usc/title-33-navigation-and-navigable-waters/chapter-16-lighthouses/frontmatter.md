@@ -70,7 +70,7 @@ Sec.
 
 771. Benefits for surviving spouses of Lighthouse Service employees; death of employee during retirement; amount of payment.
 
-772. Death of employee due to non-service-connected causes after 15 years’ service; amount of payment.
+772. Death of employee due to non-service-connected causes after 15 years' service; amount of payment.
 
 773. Application for benefits.
 

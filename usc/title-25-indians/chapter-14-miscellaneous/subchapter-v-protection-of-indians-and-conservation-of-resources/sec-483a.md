@@ -8,6 +8,6 @@
 
 #### Amendments ####
 
-**1990**—Subsec. (a). Pub. L. 101–644 inserted “tribe which has jurisdiction over such land or, in the case where no tribal foreclosure law exists, in accordance with the laws of the” before “State” in second sentence.
+**1990**—Subsec. (a). Pub. L. 101–644 inserted "tribe which has jurisdiction over such land or, in the case where no tribal foreclosure law exists, in accordance with the laws of the" before "State" in second sentence.
 
 **1984**—Pub. L. 98–608 designated existing provisions as subsec. (a) and added subsec. (b).

@@ -38,7 +38,7 @@ In carrying out the purposes of subsection (a) of this section, the Secretary is
 
 #### Codification ####
 
-In subsec. (b)(3), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(3), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was classified to section 263d of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 101–629.
 
@@ -46,11 +46,11 @@ Section was classified to section 263d of Title 42, The Public Health and Welfar
 
 **1993**—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263d of Title 42, The Public Health and Welfare, as this section.
 
-**1990**—Subsec. (a)(1), (6). Pub. L. 101–629, §19(a)(2)(A)(i), substituted “section 360kk” for “section 263f”.
+**1990**—Subsec. (a)(1), (6). Pub. L. 101–629, §19(a)(2)(A)(i), substituted "section 360kk" for "section 263f".
 
 Subsec. (b)(3). Pub. L. 101–629, §19(a)(2)(A)(ii), substituted reference to section 3324 of title 31 for reference to section 3648 of the Revised Statutes (31 U.S.C. 529).
 
-Subsec. (c)(1), (2). Pub. L. 101–629, §19(a)(1)(B), substituted “this part” for “this subpart”.
+Subsec. (c)(1), (2). Pub. L. 101–629, §19(a)(1)(B), substituted "this part" for "this subpart".
 
 #### Transfer of Functions ####
 

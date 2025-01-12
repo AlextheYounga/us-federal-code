@@ -16,7 +16,7 @@ Sec.
 
 7545. Obsolete material and articles of historical interest: loan or gift.
 
-7546. Loan or gift of articles to ships’ sponsors and donors.
+7546. Loan or gift of articles to ships' sponsors and donors.
 
 7547. Equipment for instruction in seamanship: loan to military schools.
 
@@ -24,6 +24,6 @@ Sec.
 
 **2009**—Pub. L. 111–84, div. A, title V, §592(b), Oct. 28, 2009, 123 Stat. 2337, added item 7541b.
 
-**1975**—Pub. L. 93–628, §1(b), Jan. 3, 1975, 88 Stat. 2148, inserted “, Naval Sea Cadet Corps and Young Marines of the Marine Corps League” in item 7541.
+**1975**—Pub. L. 93–628, §1(b), Jan. 3, 1975, 88 Stat. 2148, inserted ", Naval Sea Cadet Corps and Young Marines of the Marine Corps League" in item 7541.
 
 **1965**—Pub. L. 89–266, §1(2), Oct. 19, 1965, 79 Stat. 990, added item 7541a.

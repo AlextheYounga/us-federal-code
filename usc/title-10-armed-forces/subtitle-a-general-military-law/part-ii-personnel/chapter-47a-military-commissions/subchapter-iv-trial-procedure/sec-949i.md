@@ -16,7 +16,7 @@ A prior section 949i, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Sta
 
 #### Amendments ####
 
-**2011**—Subsec. (b). Pub. L. 112–81, §1030(b)(1), in the first sentence, inserted “, including a charge or specification that has been referred capital,” after “military judge”, “by the military judge” after “may be entered”, and “by the members” after “vote”.
+**2011**—Subsec. (b). Pub. L. 112–81, §1030(b)(1), in the first sentence, inserted ", including a charge or specification that has been referred capital," after "military judge", "by the military judge" after "may be entered", and "by the members" after "vote".
 
 Subsec. (c). Pub. L. 112–81, §1030(b)(2), added subsec. (c).
 

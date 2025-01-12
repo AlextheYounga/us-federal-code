@@ -118,4 +118,4 @@ The Administrator shall, with respect to each applicant conditionally approved t
 
 (Pub. L. 85–699, title III, §354, as added Pub. L. 106–554, §1(a)(8) [§1(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–655.)
 
-[<sup>1</sup> So in original. Probably should be “approve”.](#689c_1)
+[<sup>1</sup> So in original. Probably should be "approve".](#689c_1)

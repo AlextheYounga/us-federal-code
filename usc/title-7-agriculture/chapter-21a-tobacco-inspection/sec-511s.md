@@ -2,7 +2,7 @@
 
 #### (1) In general ####
 
-Not later than March 31, 2002, the Secretary of Agriculture (referred to in this section as the “Secretary”) shall conduct referenda among producers of each kind of tobacco that is eligible for price support under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.) to determine whether such producers favor the mandatory grading of that kind of tobacco by the Secretary.
+Not later than March 31, 2002, the Secretary of Agriculture (referred to in this section as the "Secretary") shall conduct referenda among producers of each kind of tobacco that is eligible for price support under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.) to determine whether such producers favor the mandatory grading of that kind of tobacco by the Secretary.
 
 #### (2) Mandatory grading ####
 

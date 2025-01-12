@@ -10,7 +10,7 @@ Section 1428, act Sept. 1, 1937, ch. 896, §29, formerly §28, 50 Stat. 899, ren
 
 Section 1429, act Sept. 1, 1937, ch. 896, §30, formerly §29, 50 Stat. 899, renumbered July 15, 1949, ch. 338, title III, §307(h), 63 Stat. 431, provided for separability of provisions.
 
-Section 1430, act Sept. 1, 1937, ch. 896, §31, formerly §30, 50 Stat. 899, renumbered July 15, 1949, ch. 338, title III, §307(h), 63 Stat. 431, set forth short title of provisions as “United States Housing Act of 1937”. See section 1 of act Sept. 1, 1937, as added by section 201(a) of Pub. L. 93–383, set out as a Short Title note under section 1437 of this title.
+Section 1430, act Sept. 1, 1937, ch. 896, §31, formerly §30, 50 Stat. 899, renumbered July 15, 1949, ch. 338, title III, §307(h), 63 Stat. 431, set forth short title of provisions as "United States Housing Act of 1937". See section 1 of act Sept. 1, 1937, as added by section 201(a) of Pub. L. 93–383, set out as a Short Title note under section 1437 of this title.
 
 Section 1431, Pub. L. 91–556, title IV, Dec. 17, 1970, 84 Stat. 1463, which provided that the necessary expenses of providing representatives at sites of non-Federal projects in connection with construction of these projects by public housing agencies with aid under this chapter, be compensated by these agencies by payments of fixed fees, was from the Independent Offices and Department of Housing and Urban Development Appropriations Act, 1971, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
 

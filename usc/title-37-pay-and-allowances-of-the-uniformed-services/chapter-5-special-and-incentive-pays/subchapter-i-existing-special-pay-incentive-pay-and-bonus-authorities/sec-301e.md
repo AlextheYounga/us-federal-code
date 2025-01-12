@@ -30,7 +30,7 @@ Section 302b(g) of this title, referred to in subsec. (b)(4), was redesignated s
 
 **2006**—Subsec. (d). Pub. L. 109–163 amended heading and text of subsec. (d) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when officer fails to complete total period of active duty.
 
-**2002**—Subsec. (a)(2). Pub. L. 107–314 substituted “$50,000” for “$14,000”.
+**2002**—Subsec. (a)(2). Pub. L. 107–314 substituted "$50,000" for "$14,000".
 
 #### Savings Provision ####
 

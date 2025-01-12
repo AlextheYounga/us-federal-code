@@ -58,37 +58,37 @@ Subsec. (b). Pub. L. 95–408, §4(a)(2), struck out Madison from the counties c
 
 Pub. L. 100–702, title X, §1021(b), (c), Nov. 19, 1988, 102 Stat. 4672, provided that:
 
-“(b) Effective Date.—(1) The amendments made by this section [amending this section] shall take effect 90 days after the date of enactment of this title [Nov. 19, 1988].
+"(b) Effective Date.—(1) The amendments made by this section [amending this section] shall take effect 90 days after the date of enactment of this title [Nov. 19, 1988].
 
-“(2) The amendments made by subsection (a) [amending this section] shall apply to any action commenced in the United States District Court for the Middle District of Florida, or in the United States District Court for the Southern District of Florida, on or after the effective date of this title [probably should be effective date of this section], and shall not affect any action pending in either such court on such effective date.
+"(2) The amendments made by subsection (a) [amending this section] shall apply to any action commenced in the United States District Court for the Middle District of Florida, or in the United States District Court for the Southern District of Florida, on or after the effective date of this title [probably should be effective date of this section], and shall not affect any action pending in either such court on such effective date.
 
-“(c) Juries.—The amendments made by this section [amending this section] shall not affect the composition, or preclude the service, of any grand or petit jury summoned, empaneled, or actually serving on the effective date of this title [probably should be effective date of this section].”
+"(c) Juries.—The amendments made by this section [amending this section] shall not affect the composition, or preclude the service, of any grand or petit jury summoned, empaneled, or actually serving on the effective date of this title [probably should be effective date of this section]."
 
 #### Effective Date of 1978 Amendment; Savings Provision ####
 
 Pub. L. 95–408, §5, Oct. 2, 1978, 92 Stat. 885, provided that:
 
-“(a) The amendments made by this Act [amending this section and sections 93, 97, 98, 104, 112, 114, and 133 of this title and enacting provisions set out as a note under section 81 of this title] shall take effect 180 days after the date of enactment of this Act [Oct. 2, 1978].
+"(a) The amendments made by this Act [amending this section and sections 93, 97, 98, 104, 112, 114, and 133 of this title and enacting provisions set out as a note under section 81 of this title] shall take effect 180 days after the date of enactment of this Act [Oct. 2, 1978].
 
-“(b) Nothing in this Act shall affect the composition or preclude the service of any grand or petit juror summoned, empaneled, or actually serving in any judicial district on the effective date of this Act.”
+"(b) Nothing in this Act shall affect the composition or preclude the service of any grand or petit juror summoned, empaneled, or actually serving in any judicial district on the effective date of this Act."
 
 #### Effective Date of 1962 Amendment ####
 
-Pub. L. 87–562, §5, July 30, 1962, 76 Stat. 248, provided that: “This Act [amending this section and section 133 of this title and enacting provisions set out as notes under this section and section 142 of this title] shall become effective ninety days after the date of enactment [July 30, 1962].”
+Pub. L. 87–562, §5, July 30, 1962, 76 Stat. 248, provided that: "This Act [amending this section and section 133 of this title and enacting provisions set out as notes under this section and section 142 of this title] shall become effective ninety days after the date of enactment [July 30, 1962]."
 
 #### District Judges, United States Attorneys, and United States Marshals Designations; Tenure; Appointments ####
 
 Pub. L. 87–562, §2, July 30, 1962, 76 Stat. 248, provided that:
 
-“(a) The district judge appointed September 26, 1950, the district judge appointed August 13, 1955, and the district judge appointed March 8, 1961, all for the Southern District of Florida, shall hereafter be designated as district judges for the Middle District of Florida.
+"(a) The district judge appointed September 26, 1950, the district judge appointed August 13, 1955, and the district judge appointed March 8, 1961, all for the Southern District of Florida, shall hereafter be designated as district judges for the Middle District of Florida.
 
-“(b) The district judge for the Northern and Southern Districts of Florida shall hereafter be designated as the district judge for the Northern, Middle, and Southern Districts of Florida.
+"(b) The district judge for the Northern and Southern Districts of Florida shall hereafter be designated as the district judge for the Northern, Middle, and Southern Districts of Florida.
 
-“(c) Nothing in this Act [amending this section and section 133 of this title, and enacting provisions set out as notes under this section and section 142 of this title] shall in any manner affect the tenure of office of the United States Attorney and the United States Marshal for the Northern District of Florida who are in office at the time of the enactment of this Act [July 30, 1962], and who shall be during the remainder of their present terms of office the United States Attorney and Marshal for such district as constituted by this Act.
+"(c) Nothing in this Act [amending this section and section 133 of this title, and enacting provisions set out as notes under this section and section 142 of this title] shall in any manner affect the tenure of office of the United States Attorney and the United States Marshal for the Northern District of Florida who are in office at the time of the enactment of this Act [July 30, 1962], and who shall be during the remainder of their present terms of office the United States Attorney and Marshal for such district as constituted by this Act.
 
-“(d) Nothing in this Act [amending this section and section 133 of this title and enacting provisions set out as notes under this section and section 142 of this title] shall in any manner affect the tenure of office of the United States Attorney and the United States Marshal for the Southern District of Florida who are in office at the time of the enactment of this Act [July 30, 1962], and who shall be during the remainder of their present terms of office the United States Attorney and Marshal for the Middle District of Florida as constituted by this Act.
+"(d) Nothing in this Act [amending this section and section 133 of this title and enacting provisions set out as notes under this section and section 142 of this title] shall in any manner affect the tenure of office of the United States Attorney and the United States Marshal for the Southern District of Florida who are in office at the time of the enactment of this Act [July 30, 1962], and who shall be during the remainder of their present terms of office the United States Attorney and Marshal for the Middle District of Florida as constituted by this Act.
 
-“(e) The President is authorized to appoint, by and with the advice and consent of the Senate, a United States Attorney and a United States Marshal for the Southern District of Florida.”
+"(e) The President is authorized to appoint, by and with the advice and consent of the Senate, a United States Attorney and a United States Marshal for the Southern District of Florida."
 
 #### Elimination of District Judgeship for Northern, Middle, and Southern Districts of Florida ####
 

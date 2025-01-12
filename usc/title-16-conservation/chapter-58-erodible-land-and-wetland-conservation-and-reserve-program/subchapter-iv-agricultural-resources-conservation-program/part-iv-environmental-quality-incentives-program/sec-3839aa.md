@@ -36,15 +36,15 @@ A prior section 3839aa, Pub. L. 99–198, title XII, §1240, as added Pub. L. 10
 
 **2014**—Par. (3). Pub. L. 113–79, §2201(1), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Par. (5). Pub. L. 113–79, §2201(2), (3), struck out par. (5) which read as follows: “consolidating and streamlining conservation planning and regulatory compliance processes to reduce administrative burdens on producers and the cost of achieving environmental goals.”
+Par. (5). Pub. L. 113–79, §2201(2), (3), struck out par. (5) which read as follows: "consolidating and streamlining conservation planning and regulatory compliance processes to reduce administrative burdens on producers and the cost of achieving environmental goals."
 
-**2008**—Pub. L. 110–246, §2501(a)(1), inserted “, forest management,” after “agricultural production” in introductory provisions.
+**2008**—Pub. L. 110–246, §2501(a)(1), inserted ", forest management," after "agricultural production" in introductory provisions.
 
 Pars. (3), (4). Pub. L. 110–246, §2501(a)(2), added pars. (3) and (4) and struck out former pars. (3) and (4) which read as follows:
 
-“(3) providing flexible assistance to producers to install and maintain conservation practices that enhance soil, water, related natural resources (including grazing land and wetland), and wildlife while sustaining production of food and fiber;
+"(3) providing flexible assistance to producers to install and maintain conservation practices that enhance soil, water, related natural resources (including grazing land and wetland), and wildlife while sustaining production of food and fiber;
 
-“(4) assisting producers to make beneficial, cost effective changes to cropping systems, grazing management, nutrient management associated with livestock, pest or irrigation management, or other practices on agricultural land; and”.
+"(4) assisting producers to make beneficial, cost effective changes to cropping systems, grazing management, nutrient management associated with livestock, pest or irrigation management, or other practices on agricultural land; and".
 
 #### Effective Date of 2008 Amendment ####
 
@@ -52,4 +52,4 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effect on Existing Contracts ####
 
-Pub. L. 113–79, title II, §2208, Feb. 7, 2014, 128 Stat. 731, provided that: “The amendments made by this subtitle [subtitle C (§§2201–2208) of title II of Pub. L. 113–79, see Tables for classification] shall not affect the validity or terms of any contract entered into by the Secretary of Agriculture under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3839aa et seq.) before the date of enactment of the Agricultural Act of 2014 [Feb. 7, 2014], or any payments required to be made in connection with the contract.”
+Pub. L. 113–79, title II, §2208, Feb. 7, 2014, 128 Stat. 731, provided that: "The amendments made by this subtitle [subtitle C (§§2201–2208) of title II of Pub. L. 113–79, see Tables for classification] shall not affect the validity or terms of any contract entered into by the Secretary of Agriculture under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3839aa et seq.) before the date of enactment of the Agricultural Act of 2014 [Feb. 7, 2014], or any payments required to be made in connection with the contract."

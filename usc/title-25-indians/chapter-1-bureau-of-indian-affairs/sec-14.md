@@ -6,7 +6,7 @@ Any money accruing from the Department of Veterans Affairs or other governmental
 
 #### Amendments ####
 
-**1991**—Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration” and “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+**1991**—Pub. L. 102–54 substituted "Department of Veterans Affairs" for "Veterans' Administration" and "Secretary of Veterans Affairs" for "Administrator of Veterans' Affairs".
 
 #### Transfer of Functions ####
 

@@ -14,4 +14,4 @@ Sec.
 
 **2001**—Pub. L. 107–107, div. A, title V, §517(e)(2), Dec. 28, 2001, 115 Stat. 1095, added item 12244.
 
-**1996**—Pub. L. 104–106, div. A, title XV, §1501(b)(15), Feb. 10, 1996, 110 Stat. 496, substituted “promotion” for “promotions” in item 12243.
+**1996**—Pub. L. 104–106, div. A, title XV, §1501(b)(15), Feb. 10, 1996, 110 Stat. 496, substituted "promotion" for "promotions" in item 12243.

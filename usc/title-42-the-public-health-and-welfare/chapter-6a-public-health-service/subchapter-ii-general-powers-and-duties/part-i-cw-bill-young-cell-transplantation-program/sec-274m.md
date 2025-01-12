@@ -6,9 +6,9 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 
 #### Amendments ####
 
-**2010**—Pub. L. 111–264 substituted “$30,000,000 for each of fiscal years 2011 through 2014 and $33,000,000 for fiscal year 2015.” for “$34,000,000 for fiscal year 2006 and $38,000,000 for each of fiscal years 2007 through 2010.”
+**2010**—Pub. L. 111–264 substituted "$30,000,000 for each of fiscal years 2011 through 2014 and $33,000,000 for fiscal year 2015." for "$34,000,000 for fiscal year 2006 and $38,000,000 for each of fiscal years 2007 through 2010."
 
-**2005**—Pub. L. 109–129 amended section generally. Prior to amendment, section read as follows: “For the purpose of carrying out this part, there are authorized to be appropriated $18,000,000 for fiscal year 1999, and such sums as may be necessary for each of the fiscal years 2000 through 2003.”
+**2005**—Pub. L. 109–129 amended section generally. Prior to amendment, section read as follows: "For the purpose of carrying out this part, there are authorized to be appropriated $18,000,000 for fiscal year 1999, and such sums as may be necessary for each of the fiscal years 2000 through 2003."
 
 #### Effective Date ####
 

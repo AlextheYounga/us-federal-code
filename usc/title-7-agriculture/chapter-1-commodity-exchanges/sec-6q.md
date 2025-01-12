@@ -26,7 +26,7 @@ Section was formerly classified to section 6o–1 of this title.
 
 #### Amendments ####
 
-**2010**—Subsec. (a)(1). Pub. L. 111–203 substituted “section 1a(9)” for “section 1a(4)”.
+**2010**—Subsec. (a)(1). Pub. L. 111–203 substituted "section 1a(9)" for "section 1a(4)".
 
 #### Effective Date of 2010 Amendment ####
 

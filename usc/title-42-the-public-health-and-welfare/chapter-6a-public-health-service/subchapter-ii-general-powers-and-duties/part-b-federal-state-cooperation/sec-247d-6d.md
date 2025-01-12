@@ -10,7 +10,7 @@ Subject to the other provisions of this section, a covered person shall be immun
 
 #### (A) Loss ####
 
-For purposes of this section, the term “loss” means any type of loss, including—
+For purposes of this section, the term "loss" means any type of loss, including—
 
 (i) death;
 
@@ -128,7 +128,7 @@ Within 30 days after making a declaration under paragraph (1), the Secretary sha
 
 #### (A) In general ####
 
-Except as the meaning of such term is further restricted pursuant to paragraph (2), the term “willful misconduct” shall, for purposes of subsection (d) of this section, denote an act or omission that is taken—
+Except as the meaning of such term is further restricted pursuant to paragraph (2), the term "willful misconduct" shall, for purposes of subsection (d) of this section, denote an act or omission that is taken—
 
 (i) intentionally to achieve a wrongful purpose;
 
@@ -144,7 +144,7 @@ The criterion stated in subparagraph (A) shall be construed as establishing a st
 
 #### (A) In general ####
 
-The Secretary, in consultation with the Attorney General, shall promulgate regulations, which may be promulgated through interim final rules, that further restrict the scope of actions or omissions by a covered person that may qualify as “willful misconduct” for purposes of subsection (d) of this section.
+The Secretary, in consultation with the Attorney General, shall promulgate regulations, which may be promulgated through interim final rules, that further restrict the scope of actions or omissions by a covered person that may qualify as "willful misconduct" for purposes of subsection (d) of this section.
 
 #### (B) Factors to be considered ####
 
@@ -164,13 +164,13 @@ In an action under subsection (d) of this section, the plaintiff shall have the 
 
 #### (4) Defense for acts or omissions taken pursuant to Secretary's declaration ####
 
-Notwithstanding any other provision of law, a program planner or qualified person shall not have engaged in “willful misconduct” as a matter of law where such program planner or qualified person acted consistent with applicable directions, guidelines, or recommendations by the Secretary regarding the administration or use of a covered countermeasure that is specified in the declaration under subsection (b) of this section, provided either the Secretary, or a State or local health authority, was provided with notice of information regarding serious physical injury or death from the administration or use of a covered countermeasure that is material to the plaintiff's alleged loss within 7 days of the actual discovery of such information by such program planner or qualified person.
+Notwithstanding any other provision of law, a program planner or qualified person shall not have engaged in "willful misconduct" as a matter of law where such program planner or qualified person acted consistent with applicable directions, guidelines, or recommendations by the Secretary regarding the administration or use of a covered countermeasure that is specified in the declaration under subsection (b) of this section, provided either the Secretary, or a State or local health authority, was provided with notice of information regarding serious physical injury or death from the administration or use of a covered countermeasure that is material to the plaintiff's alleged loss within 7 days of the actual discovery of such information by such program planner or qualified person.
 
 #### (5) Exclusion for regulated activity of manufacturer or distributor ####
 
 #### (A) In general ####
 
-If an act or omission by a manufacturer or distributor with respect to a covered countermeasure, which act or omission is alleged under subsection (e)(3)(A) of this section to constitute willful misconduct, is subject to regulation by this chapter or by the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 301 et seq.], such act or omission shall not constitute “willful misconduct” for purposes of subsection (d) of this section if—
+If an act or omission by a manufacturer or distributor with respect to a covered countermeasure, which act or omission is alleged under subsection (e)(3)(A) of this section to constitute willful misconduct, is subject to regulation by this chapter or by the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 301 et seq.], such act or omission shall not constitute "willful misconduct" for purposes of subsection (d) of this section if—
 
 (i) neither the Secretary nor the Attorney General has initiated an enforcement action with respect to such act or omission; or
 
@@ -184,11 +184,11 @@ For purposes of this paragraph, the following terms have the following meanings:
 
 #### (i) Enforcement action ####
 
-The term “enforcement action” means a criminal prosecution, an action seeking an injunction, a seizure action, a civil monetary proceeding based on willful misconduct, a mandatory recall of a product because voluntary recall was refused, a proceeding to compel repair or replacement of a product, a termination of an exemption under section 505(i) or 520(g) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355(i), 360j(g)], a debarment proceeding, an investigator disqualification proceeding where an investigator is an employee or agent of the manufacturer, a revocation, based on willful misconduct, of an authorization under section 564 of such Act [21 U.S.C. 360bbb–3], or a suspension or withdrawal, based on willful misconduct, of an approval or clearance under chapter V of such Act [21 U.S.C. 351 et seq.] or of a licensure under section 262 of this title.
+The term "enforcement action" means a criminal prosecution, an action seeking an injunction, a seizure action, a civil monetary proceeding based on willful misconduct, a mandatory recall of a product because voluntary recall was refused, a proceeding to compel repair or replacement of a product, a termination of an exemption under section 505(i) or 520(g) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355(i), 360j(g)], a debarment proceeding, an investigator disqualification proceeding where an investigator is an employee or agent of the manufacturer, a revocation, based on willful misconduct, of an authorization under section 564 of such Act [21 U.S.C. 360bbb–3], or a suspension or withdrawal, based on willful misconduct, of an approval or clearance under chapter V of such Act [21 U.S.C. 351 et seq.] or of a licensure under section 262 of this title.
 
 #### (ii) Covered remedy ####
 
-The term “covered remedy” means an outcome—
+The term "covered remedy" means an outcome—
 
 (I) that is a criminal conviction, an injunction, or a condemnation, a civil monetary payment, a product recall, a repair or replacement of a product, a termination of an exemption under section 505(i) or 520(g) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355(i), 360j(g)], a debarment, an investigator disqualification, a revocation of an authorization under section 564 of such Act [21 U.S.C. 360bbb–3], or a suspension or withdrawal of an approval or clearance under chapter 5 <sup><a href="#247d-6d_1_target" name="247d-6d_1">1</a></sup> of such Act or of a licensure under section 262 of this title; and
 
@@ -196,7 +196,7 @@ The term “covered remedy” means an outcome—
 
 #### (iii) Final ####
 
-The terms “final” and “finally”—
+The terms "final" and "finally"—
 
 (I) with respect to a court determination, or to a final resolution of an enforcement action that is a court determination, mean a judgment from which an appeal of right cannot be taken or a voluntary or stipulated dismissal; and
 
@@ -302,9 +302,9 @@ No provider of collateral source benefits shall recover any amount against the p
 
 #### (C) Collateral source benefit defined ####
 
-For purposes of this paragraph, the term “collateral source benefit” means any amount paid or to be paid in the future to or on behalf of the plaintiff, or any service, product, or other benefit provided or to be provided in the future to or on behalf of the plaintiff, as a result of the injury or wrongful death, pursuant to—
+For purposes of this paragraph, the term "collateral source benefit" means any amount paid or to be paid in the future to or on behalf of the plaintiff, or any service, product, or other benefit provided or to be provided in the future to or on behalf of the plaintiff, as a result of the injury or wrongful death, pursuant to—
 
-(i) any State or Federal health, sickness, income-disability, accident, or workers’ compensation law;
+(i) any State or Federal health, sickness, income-disability, accident, or workers' compensation law;
 
 (ii) any health, sickness, income-disability, or accident insurance that provides health benefits or income-disability coverage;
 
@@ -314,7 +314,7 @@ For purposes of this paragraph, the term “collateral source benefit” means a
 
 #### (8) Noneconomic damages ####
 
-In an action under subsection (d) of this section, any noneconomic damages may be awarded only in an amount directly proportional to the percentage of responsibility of a defendant for the harm to the plaintiff. For purposes of this paragraph, the term “noneconomic damages” means damages for losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium, hedonic damages, injury to reputation, and any other nonpecuniary losses.
+In an action under subsection (d) of this section, any noneconomic damages may be awarded only in an amount directly proportional to the percentage of responsibility of a defendant for the harm to the plaintiff. For purposes of this paragraph, the term "noneconomic damages" means damages for losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium, hedonic damages, injury to reputation, and any other nonpecuniary losses.
 
 #### (9) Rule 11 sanctions ####
 
@@ -342,7 +342,7 @@ In this section:
 
 #### (1) Covered countermeasure ####
 
-The term “covered countermeasure” means—
+The term "covered countermeasure" means—
 
 (A) a qualified pandemic or epidemic product (as defined in paragraph (7));
 
@@ -352,7 +352,7 @@ The term “covered countermeasure” means—
 
 #### (2) Covered person ####
 
-The term “covered person”, when used with respect to the administration or use of a covered countermeasure, means—
+The term "covered person", when used with respect to the administration or use of a covered countermeasure, means—
 
 (A) the United States; or
 
@@ -370,11 +370,11 @@ The term “covered person”, when used with respect to the administration or u
 
 #### (3) Distributor ####
 
-The term “distributor” means a person or entity engaged in the distribution of drugs, biologics, or devices, including but not limited to manufacturers; repackers; common carriers; contract carriers; air carriers; own-label distributors; private-label distributors; jobbers; brokers; warehouses, and wholesale drug warehouses; independent wholesale drug traders; and retail pharmacies.
+The term "distributor" means a person or entity engaged in the distribution of drugs, biologics, or devices, including but not limited to manufacturers; repackers; common carriers; contract carriers; air carriers; own-label distributors; private-label distributors; jobbers; brokers; warehouses, and wholesale drug warehouses; independent wholesale drug traders; and retail pharmacies.
 
 #### (4) Manufacturer ####
 
-The term “manufacturer” includes—
+The term "manufacturer" includes—
 
 (A) a contractor or subcontractor of a manufacturer;
 
@@ -384,15 +384,15 @@ The term “manufacturer” includes—
 
 #### (5) Person ####
 
-The term “person” includes an individual, partnership, corporation, association, entity, or public or private corporation, including a Federal, State, or local government agency or department.
+The term "person" includes an individual, partnership, corporation, association, entity, or public or private corporation, including a Federal, State, or local government agency or department.
 
 #### (6) Program planner ####
 
-The term “program planner” means a State or local government, including an Indian tribe, a person employed by the State or local government, or other person who supervised or administered a program with respect to the administration, dispensing, distribution, provision, or use of a security countermeasure or a qualified pandemic or epidemic product, including a person who has established requirements, provided policy guidance, or supplied technical or scientific advice or assistance or provides a facility to administer or use a covered countermeasure in accordance with a declaration under subsection (b) of this section.
+The term "program planner" means a State or local government, including an Indian tribe, a person employed by the State or local government, or other person who supervised or administered a program with respect to the administration, dispensing, distribution, provision, or use of a security countermeasure or a qualified pandemic or epidemic product, including a person who has established requirements, provided policy guidance, or supplied technical or scientific advice or assistance or provides a facility to administer or use a covered countermeasure in accordance with a declaration under subsection (b) of this section.
 
 #### (7) Qualified pandemic or epidemic product ####
 
-The term “qualified pandemic or epidemic product” means a drug (as such term is defined in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1)),<sup><a href="#247d-6d_2_target" name="247d-6d_2">2</a></sup> biological product (as such term is defined by section 262(i) of this title), or device (as such term is defined by section 201(h) of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 321(h)) <sup><a href="#247d-6d_2_target" name="247d-6d_2">2</a></sup> that is—
+The term "qualified pandemic or epidemic product" means a drug (as such term is defined in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1)),<sup><a href="#247d-6d_2_target" name="247d-6d_2">2</a></sup> biological product (as such term is defined by section 262(i) of this title), or device (as such term is defined by section 201(h) of the Federal Food, Drug and Cosmetic Act (21 U.S.C. 321(h)) <sup><a href="#247d-6d_2_target" name="247d-6d_2">2</a></sup> that is—
 
 (A)(i) a product manufactured, used, designed, developed, modified, licensed, or procured—
 
@@ -412,7 +412,7 @@ The term “qualified pandemic or epidemic product” means a drug (as such term
 
 #### (8) Qualified person ####
 
-The term “qualified person”, when used with respect to the administration or use of a covered countermeasure, means—
+The term "qualified person", when used with respect to the administration or use of a covered countermeasure, means—
 
 (A) a licensed health professional or other individual who is authorized to prescribe, administer, or dispense such countermeasures under the law of the State in which the countermeasure was prescribed, administered, or dispensed; or
 
@@ -420,11 +420,11 @@ The term “qualified person”, when used with respect to the administration or
 
 #### (9) Security countermeasure ####
 
-The term “security countermeasure” has the meaning given such term in section 247d–6b(c)(1)(B) of this title.
+The term "security countermeasure" has the meaning given such term in section 247d–6b(c)(1)(B) of this title.
 
 #### (10) Serious physical injury ####
 
-The term “serious physical injury” means an injury that—
+The term "serious physical injury" means an injury that—
 
 (A) is life threatening;
 
@@ -444,12 +444,12 @@ The Public Readiness and Emergency Preparedness Act, referred to in subsec. (h),
 
 #### Amendments ####
 
-**2013**—Subsec. (i)(1)(C). Pub. L. 113–5, §402(g)(3)(A), inserted “, 564A, or 564B” after “564”.
+**2013**—Subsec. (i)(1)(C). Pub. L. 113–5, §402(g)(3)(A), inserted ", 564A, or 564B" after "564".
 
 Subsec. (i)(7)(A)(iii). Pub. L. 113–5, §402(g)(2), added cl. (iii).
 
-Subsec. (i)(7)(B)(iii). Pub. L. 113–5, §402(g)(3)(B), inserted “, 564A, or 564B” after “564”.
+Subsec. (i)(7)(B)(iii). Pub. L. 113–5, §402(g)(3)(B), inserted ", 564A, or 564B" after "564".
 
-[<sup>1</sup> So in original. Probably should be chapter “V”.](#247d-6d_1)
+[<sup>1</sup> So in original. Probably should be chapter "V".](#247d-6d_1)
 
 [<sup>2</sup> So in original. A third closing parenthesis probably should appear.](#247d-6d_2)

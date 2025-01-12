@@ -10,7 +10,7 @@ Sec.
 
 4684. Surplus obsolete ordnance: sale to patriotic organizations.
 
-4685. Obsolete ordnance: loan to educational institutions and State soldiers and sailors’ orphans’ homes.
+4685. Obsolete ordnance: loan to educational institutions and State soldiers and sailors' orphans' homes.
 
 4686. Obsolete ordnance: gift to State homes for soldiers and sailors.
 
@@ -24,7 +24,7 @@ Sec.
 
 #### Amendments ####
 
-**2013**—Pub. L. 112–239, div. A, title X, §1051(b), Jan. 2, 2013, 126 Stat. 1935, substituted “Excess non-automatic service rifles: loan or donation for funeral and other ceremonial purposes” for “Excess M–1 rifles: loan or donation for funeral and other ceremonial purposes” in item 4683.
+**2013**—Pub. L. 112–239, div. A, title X, §1051(b), Jan. 2, 2013, 126 Stat. 1935, substituted "Excess non-automatic service rifles: loan or donation for funeral and other ceremonial purposes" for "Excess M–1 rifles: loan or donation for funeral and other ceremonial purposes" in item 4683.
 
 **2006**—Pub. L. 109–364, div. A, title III, §353(b), Oct. 17, 2006, 120 Stat. 2161, added item 4690.
 
@@ -32,6 +32,6 @@ Sec.
 
 **2000**—Pub. L. 106–398, §1 [[div. A], title III, §382(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–85, added item 4688.
 
-**1999**—Pub. L. 106–65, div. A, title III, §381(d)(2), Oct. 5, 1999, 113 Stat. 583, substituted “Excess M–1 rifles: loan or donation for funeral and other ceremonial purposes” for “Obsolete or condemned rifles: loan to local units of recognized veterans’ organizations” in item 4683.
+**1999**—Pub. L. 106–65, div. A, title III, §381(d)(2), Oct. 5, 1999, 113 Stat. 583, substituted "Excess M–1 rifles: loan or donation for funeral and other ceremonial purposes" for "Obsolete or condemned rifles: loan to local units of recognized veterans' organizations" in item 4683.
 
 **1997**—Pub. L. 105–85, div. A, title X, §1065(a)(2), Nov. 18, 1997, 111 Stat. 1895, added item 4687.

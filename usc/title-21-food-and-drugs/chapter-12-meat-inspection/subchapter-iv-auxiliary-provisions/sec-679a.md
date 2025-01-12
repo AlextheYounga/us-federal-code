@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-There is established in the Department of Agriculture a permanent advisory panel to be known as the “Safe Meat and Poultry Inspection Panel” (referred to in this section as the “panel”).
+There is established in the Department of Agriculture a permanent advisory panel to be known as the "Safe Meat and Poultry Inspection Panel" (referred to in this section as the "panel").
 
 #### (b) Duties ####
 

@@ -12,13 +12,13 @@
 
 (6) In this section:
 
-(A) The term “aviation service” means service performed by an officer (except a flight surgeon or other medical officer) while holding an aeronautical rating or designation or while in training to receive an aeronautical rating or designation.
+(A) The term "aviation service" means service performed by an officer (except a flight surgeon or other medical officer) while holding an aeronautical rating or designation or while in training to receive an aeronautical rating or designation.
 
-(B) The term “operational flying duty” means flying performed under competent orders by rated or designated members while serving in assignments in which basic flying skills normally are maintained in the performance of assigned duties as determined by the Secretary concerned, and flying performed by members in training that leads to the award of an aeronautical rating or designation.
+(B) The term "operational flying duty" means flying performed under competent orders by rated or designated members while serving in assignments in which basic flying skills normally are maintained in the performance of assigned duties as determined by the Secretary concerned, and flying performed by members in training that leads to the award of an aeronautical rating or designation.
 
-(C) The term “proficiency flying duty” means flying performed under competent orders by rated or designated members while serving in assignments in which such skills would normally not be maintained in the performance of assigned duties.
+(C) The term "proficiency flying duty" means flying performed under competent orders by rated or designated members while serving in assignments in which such skills would normally not be maintained in the performance of assigned duties.
 
-(D) The term “officer” includes an individual enlisted, and designated, as an aviation cadet under section 6911 of title 10.
+(D) The term "officer" includes an individual enlisted, and designated, as an aviation cadet under section 6911 of title 10.
 
 (b)(1) A member who satisfies the requirements described in subsection (a) is entitled to monthly incentive pay as follows:
 
@@ -59,13 +59,13 @@
 
 **2006**—Subsec. (f). Pub. L. 109–364 struck out subsec. (f), which required the Secretary of Defense to submit annually to Congress a report specifying for the year covered by the report the total number of officers who were determined under subsection (a)(5) to have failed to perform the minimum operational flying duty requirements, the number of those officers who continued to receive continuous monthly incentive pay and the extent to which they failed to perform those requirements, and the reasons for the exercise of the authority under the second sentence of subsection (a)(5) in the case of each officer specified.
 
-**2004**—Subsec. (b)(4). Pub. L. 108–375 substituted “section 301(a)(13)” for “section 301(a)(11)”.
+**2004**—Subsec. (b)(4). Pub. L. 108–375 substituted "section 301(a)(13)" for "section 301(a)(11)".
 
-**2002**—Subsec. (a)(3). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+**2002**—Subsec. (a)(3). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
 **1999**—Subsec. (b)(4). Pub. L. 106–65 added par. (4).
 
-**1998**—Subsec. (a)(4). Pub. L. 105–261, §615(c)(1)(A), substituted “22 years of aviation service of the officer” for “22 years of the officer's service as an officer” and “25 years of aviation service” for “25 years of service as an officer (as computed under section 205 of this title)”.
+**1998**—Subsec. (a)(4). Pub. L. 105–261, §615(c)(1)(A), substituted "22 years of aviation service of the officer" for "22 years of the officer's service as an officer" and "25 years of aviation service" for "25 years of service as an officer (as computed under section 205 of this title)".
 
 Subsec. (a)(6). Pub. L. 105–261, §615(a)(1), added subpar. (A) and redesignated former subpars. (A) to (C) as (B) to (D), respectively.
 
@@ -73,68 +73,68 @@ Subsec. (b). Pub. L. 105–261, §615(d), repealed section 615 of Pub. L. 105–
 
 Pub. L. 105–261, §615(b), amended subsec. (b) generally, substituting pars. (1) to (3) for former pars. (1) and (2).
 
-Subsec. (d). Pub. L. 105–261, §615(c)(1)(B), substituted “subsection (b) for the performance of that duty by a member with corresponding years of aviation service” for “subsection (b)(1) or (2), as the case may be, for the performance of that duty by a member of corresponding years of aviation or officer service, as appropriate,”.
+Subsec. (d). Pub. L. 105–261, §615(c)(1)(B), substituted "subsection (b) for the performance of that duty by a member with corresponding years of aviation service" for "subsection (b)(1) or (2), as the case may be, for the performance of that duty by a member of corresponding years of aviation or officer service, as appropriate,".
 
-**1997**—Subsec. (b)(1). Pub. L. 105–85, §615(b), substituted “22 years” for “18 years” in two places in provisions after phase II table.
+**1997**—Subsec. (b)(1). Pub. L. 105–85, §615(b), substituted "22 years" for "18 years" in two places in provisions after phase II table.
 
 Pub. L. 105–85, §615(a), which directed amendment by inserting at the end of phase I of the table the following:
 
- “Over 14
+ "Over 14
 
-840”;  
+840";  
 
 and by striking out phase II of the table and inserting in lieu thereof the following:
 
-|“Years of service as an officer:|“Monthly rate|
+|"Years of service as an officer:|"Monthly rate|
 |--------------------------------|-------------|
-|            “Over 22            |     585     |
-|            “Over 23            |     495     |
-|            “Over 24            |     385     |
-|            “Over 25            |    250”,    |
+|            "Over 22            |     585     |
+|            "Over 23            |     495     |
+|            "Over 24            |     385     |
+|            "Over 25            |    250",    |
 
 was repealed by Pub. L. 105–261, §615(d).
 
-**1996**—Subsec. (a)(4). Pub. L. 104–106, §616(a), substituted “8” for “9” before “of the first 12”.
+**1996**—Subsec. (a)(4). Pub. L. 104–106, §616(a), substituted "8" for "9" before "of the first 12".
 
-Subsec. (a)(5). Pub. L. 104–106, §616(b), inserted “The Secretary concerned may not delegate the authority in the preceding sentence to permit the payment of incentive pay under this subsection.” after second sentence.
+Subsec. (a)(5). Pub. L. 104–106, §616(b), inserted "The Secretary concerned may not delegate the authority in the preceding sentence to permit the payment of incentive pay under this subsection." after second sentence.
 
 **1993**—Subsec. (a)(4). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 101–189, §631(a)(1). See 1989 Amendment note below.
 
-**1991**—Pub. L. 102–25 struck out “of this section” wherever appearing and struck out “of this subsection” in subsec. (b)(2).
+**1991**—Pub. L. 102–25 struck out "of this section" wherever appearing and struck out "of this subsection" in subsec. (b)(2).
 
-**1990**—Subsec. (e). Pub. L. 101–510 struck out subsec. (e) which read as follows: “The Secretary of Defense shall report to Congress before October 1 each year the number of rated members by pay grade who—
+**1990**—Subsec. (e). Pub. L. 101–510 struck out subsec. (e) which read as follows: "The Secretary of Defense shall report to Congress before October 1 each year the number of rated members by pay grade who—
 
-“(1) have 12 or 18 years of aviation service, and of those numbers, the number who are entitled to continuous monthly incentive pay under subsection (a) of this section; and
+"(1) have 12 or 18 years of aviation service, and of those numbers, the number who are entitled to continuous monthly incentive pay under subsection (a) of this section; and
 
-“(2) are performing operational flying duties, proficiency flying, and those not performing flying duties.”
+"(2) are performing operational flying duties, proficiency flying, and those not performing flying duties."
 
-**1989**—Subsec. (a)(4). Pub. L. 101–189, §631(a), as amended by Pub. L. 103–35, §204(c), substituted “9 of the first 12, and 12 of the first 18 years of the aviation service of the officer” for “6 of the first 12, and 11 of the first 18, years of his aviation service”, “at least 10 but less than 12 of the first 18 years of the aviation service of the officer, the officer” for “at least 9 but less than 11 of the first 18 years of his aviation service, he”, and “the officer's service as an officer” for “his officer service”.
+**1989**—Subsec. (a)(4). Pub. L. 101–189, §631(a), as amended by Pub. L. 103–35, §204(c), substituted "9 of the first 12, and 12 of the first 18 years of the aviation service of the officer" for "6 of the first 12, and 11 of the first 18, years of his aviation service", "at least 10 but less than 12 of the first 18 years of the aviation service of the officer, the officer" for "at least 9 but less than 11 of the first 18 years of his aviation service, he", and "the officer's service as an officer" for "his officer service".
 
-Subsec. (a)(5). Pub. L. 101–189, §631(b), inserted after first sentence “For the needs of the service, the Secretary concerned may permit, on a case by case basis, an officer to continue to receive continuous monthly incentive pay despite the failure of the officer to perform the prescribed operational flying duty requirements during the prescribed periods of time so long as the officer has performed those requirements for not less than 6 years of aviation service.”
+Subsec. (a)(5). Pub. L. 101–189, §631(b), inserted after first sentence "For the needs of the service, the Secretary concerned may permit, on a case by case basis, an officer to continue to receive continuous monthly incentive pay despite the failure of the officer to perform the prescribed operational flying duty requirements during the prescribed periods of time so long as the officer has performed those requirements for not less than 6 years of aviation service."
 
-Subsec. (b)(1). Pub. L. 101–189, §631(c)(1), in phase I table, substituted “650” for “400” in item relating to over 6 years, and in phase II table, struck out “as computed under section 205” after “an officer” in table heading, substituted “$585” for “$370”, “495” for “340”, and “385” for “310”, in items relating to over 18 years, over 20 years, and over 22 years, respectively, and struck out item relating to a monthly rate of $280 for over 24 years.
+Subsec. (b)(1). Pub. L. 101–189, §631(c)(1), in phase I table, substituted "650" for "400" in item relating to over 6 years, and in phase II table, struck out "as computed under section 205" after "an officer" in table heading, substituted "$585" for "$370", "495" for "340", and "385" for "310", in items relating to over 18 years, over 20 years, and over 22 years, respectively, and struck out item relating to a monthly rate of $280 for over 24 years.
 
-Subsec. (b)(2). Pub. L. 101–189, §631(c)(2), in table, substituted “650” for “400” in item relating to over 6 years.
+Subsec. (b)(2). Pub. L. 101–189, §631(c)(2), in table, substituted "650" for "400" in item relating to over 6 years.
 
 Subsec. (f). Pub. L. 101–189, §631(d), added subsec. (f).
 
-**1987**—Subsec. (a)(6). Pub. L. 100–26, which directed that par. (6) of this section be amended, was executed to par. (6) of subsec. (a) of this section, to reflect the probable intent of Congress by substituting “In this section:” for “For the purposes of this section, the term—”, inserting “The term” at beginning of subpars. (A) to (C), and substituting period for semicolon at end of subpar. (A) and period for “; and” at end of subpar. (B).
+**1987**—Subsec. (a)(6). Pub. L. 100–26, which directed that par. (6) of this section be amended, was executed to par. (6) of subsec. (a) of this section, to reflect the probable intent of Congress by substituting "In this section:" for "For the purposes of this section, the term—", inserting "The term" at beginning of subpars. (A) to (C), and substituting period for semicolon at end of subpar. (A) and period for "; and" at end of subpar. (B).
 
 **1986**—Subsec. (a)(6)(C). Pub. L. 99–661, §632(a)(1), added subpar. (C).
 
-Subsec. (b)(1). Pub. L. 99–661, §632(a)(2), substituted “a member” for “an officer in pay grades O–1 through O–10”.
+Subsec. (b)(1). Pub. L. 99–661, §632(a)(2), substituted "a member" for "an officer in pay grades O–1 through O–10".
 
 **1981**—Subsec. (a)(4). Pub. L. 97–60, §112(a), inserted provision that entitlement to continuous monthly incentive pay ceases for an officer (other than a warrant officer) upon completion of 25 years of service as an officer (as computed under section 205 of this title), but such an officer in a pay grade below pay grade O–7 remains entitled to monthly incentive pay under subsection (b)(1) of this section for the performance of operational flying duty.
 
 Subsec. (b)(1), (2). Pub. L. 97–60, §112(b), amended table to reflect an upward adjustment in monthly incentive pay.
 
-**1980**—Subsec. (a)(3). Pub. L. 96–513 substituted “Health and Human Services” for “Health, Education, and Welfare”.
+**1980**—Subsec. (a)(3). Pub. L. 96–513 substituted "Health and Human Services" for "Health, Education, and Welfare".
 
-Subsec. (b)(1). Pub. L. 96–343, §2(b)(1), (2), substituted in phase I table, “$125”, “$156”, “$188”, “$206”, and “$306” for “$100”, “$125”, “$150”, “$165”, and “$245” in items relating to 2 or less years, over 2 years, over 3 years, over 4 years, and over 6 years, respectively, in phase II table, “$281”, “$256”, “$231”, and “$206” for “$225”, “$205”, “$185”, and “$165” in items relating to over 18 years, over 20 years, over 22 years, and over 24 but not over 25 years, respectively, and “$200” and “$206” for “$160” and “$165”, respectively.
+Subsec. (b)(1). Pub. L. 96–343, §2(b)(1), (2), substituted in phase I table, "$125", "$156", "$188", "$206", and "$306" for "$100", "$125", "$150", "$165", and "$245" in items relating to 2 or less years, over 2 years, over 3 years, over 4 years, and over 6 years, respectively, in phase II table, "$281", "$256", "$231", and "$206" for "$225", "$205", "$185", and "$165" in items relating to over 18 years, over 20 years, over 22 years, and over 24 but not over 25 years, respectively, and "$200" and "$206" for "$160" and "$165", respectively.
 
-Subsec. (b)(2). Pub. L. 96–343, §2(b)(3), substituted “$125”, “$138”, and “$250” for “$100”, “$110”, and “$200” in items relating to 2 or less years, over 2 years, and over 6 years, respectively.
+Subsec. (b)(2). Pub. L. 96–343, §2(b)(3), substituted "$125", "$138", and "$250" for "$100", "$110", and "$200" in items relating to 2 or less years, over 2 years, and over 6 years, respectively.
 
-**1976**—Subsec. (e). Pub. L. 94–273 substituted “October” for “July”.
+**1976**—Subsec. (e). Pub. L. 94–273 substituted "October" for "July".
 
 #### Effective Date of 2002 Amendment ####
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1999 Amendment ####
 
-Pub. L. 106–65, div. A, title VI, §614(b), Oct. 5, 1999, 113 Stat. 651, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1999, and shall apply with respect to months beginning on or after that date.”
+Pub. L. 106–65, div. A, title VI, §614(b), Oct. 5, 1999, 113 Stat. 651, provided that: "The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1999, and shall apply with respect to months beginning on or after that date."
 
 #### Effective Date of 1997 Amendment ####
 
@@ -156,21 +156,21 @@ Pub. L. 103–35, title II, §204(c), May 31, 1993, 107 Stat. 102, provided that
 
 Pub. L. 101–189, div. A, title VI, §631(e), (f), Nov. 29, 1989, 103 Stat. 1450, provided that:
 
-“(e) Effective Date.—(1) Except as provided in paragraph (2), the amendments made—
+"(e) Effective Date.—(1) Except as provided in paragraph (2), the amendments made—
 
-“(A) by subsection (c) [amending this section] shall take effect on the date of the enactment of this Act [Nov. 29, 1989]; and
+"(A) by subsection (c) [amending this section] shall take effect on the date of the enactment of this Act [Nov. 29, 1989]; and
 
-“(B) by subsections (a), (b), and (d) [amending this section] shall take effect on October 1, 1991.
+"(B) by subsections (a), (b), and (d) [amending this section] shall take effect on October 1, 1991.
 
-“(2) The Secretary of a military department may delay, subject to the approval of the Secretary of Defense, the implementation of the amendments made by subsection (c) with respect to the department of that Secretary until such time as the Secretary concerned determines that implementation of those amendments is necessary to meet the needs of that department.
+"(2) The Secretary of a military department may delay, subject to the approval of the Secretary of Defense, the implementation of the amendments made by subsection (c) with respect to the department of that Secretary until such time as the Secretary concerned determines that implementation of those amendments is necessary to meet the needs of that department.
 
-“(3) If the Secretary of a military department delays under paragraph (2) the implementation of the amendments made by subsection (c) beyond October 1, 1991, the Secretary may also delay implementation of the amendments made by subsections (a), (b), and (d) until the date on which the Secretary implements the amendments made by subsection (c). During the delay in implementation, the provisions of section 301a of title 37, United States Code, as in effect on the day before the date of the enactment of this Act, shall continue to apply in the case of such department to the payment of aviation career incentive pay under such section.
+"(3) If the Secretary of a military department delays under paragraph (2) the implementation of the amendments made by subsection (c) beyond October 1, 1991, the Secretary may also delay implementation of the amendments made by subsections (a), (b), and (d) until the date on which the Secretary implements the amendments made by subsection (c). During the delay in implementation, the provisions of section 301a of title 37, United States Code, as in effect on the day before the date of the enactment of this Act, shall continue to apply in the case of such department to the payment of aviation career incentive pay under such section.
 
-“(f) Transition.—(1) An officer of a uniformed service who, as of the date the amendments made by subsections (a), (b), and (d) take effect with regard to the officer's uniformed service—
+"(f) Transition.—(1) An officer of a uniformed service who, as of the date the amendments made by subsections (a), (b), and (d) take effect with regard to the officer's uniformed service—
 
-“(A) has completed years of aviation service in an amount equal to one of the number of years of aviation service specified in column 1 of the following table; and
+"(A) has completed years of aviation service in an amount equal to one of the number of years of aviation service specified in column 1 of the following table; and
 
-“(B) has performed, or subsequently performs, the prescribed operational flying duties (including flight training but excluding proficiency flying) during the number of years of aviation service specified in column 2 of such table and corresponding to the number of years of aviation service applicable to the officer under column 1,
+"(B) has performed, or subsequently performs, the prescribed operational flying duties (including flight training but excluding proficiency flying) during the number of years of aviation service specified in column 2 of such table and corresponding to the number of years of aviation service applicable to the officer under column 1,
 
 shall be entitled to continuous monthly incentive pay at the rates provided in section 301a(b) of title 37, United States Code (as amended by this section)[,] until the officer completes the years of service as an officer specified in column 3 of such table and applicable to the officer.
 
@@ -184,15 +184,15 @@ shall be entitled to continuous monthly incentive pay at the rates provided in s
 |        At least 12 but less than 18        |           Less than 9 and subsequently completes 9 of the first 18 years of aviation service           |                                                  22                                                  |
 |        At least 12 but less than 18        |          Less than 11 and subsequently completes 11 of the first 18 years of aviation service          |                                                  25                                                  |
 
-“(2) For purposes of this subsection, the terms ‘operational flying duty’ and ‘proficiency flying duty’ have the meaning given to such terms in section 301a(a)(6) of title 37, United States Code.”
+"(2) For purposes of this subsection, the terms 'operational flying duty' and 'proficiency flying duty' have the meaning given to such terms in section 301a(a)(6) of title 37, United States Code."
 
 #### Effective Date of 1986 Amendment ####
 
-Pub. L. 99–661, div. A, title VI, §632(b), Nov. 14, 1986, 100 Stat. 3883, provided that: “The amendments made by subsection (a) [amending this section] shall apply only with respect to those members of the Armed Forces who are aviation cadets on or after the date of the enactment of this Act [Nov. 14, 1986]. Service as an aviation cadet before that date shall not be counted for any purpose under section 301a of title 37, United States Code.”
+Pub. L. 99–661, div. A, title VI, §632(b), Nov. 14, 1986, 100 Stat. 3883, provided that: "The amendments made by subsection (a) [amending this section] shall apply only with respect to those members of the Armed Forces who are aviation cadets on or after the date of the enactment of this Act [Nov. 14, 1986]. Service as an aviation cadet before that date shall not be counted for any purpose under section 301a of title 37, United States Code."
 
 #### Effective Date of 1981 Amendment ####
 
-Pub. L. 97–60, title I, §112(c), Oct. 14, 1981, 95 Stat. 995, provided that: “The amendments made by this section [amending this section] shall take effect as of October 1, 1981.”
+Pub. L. 97–60, title I, §112(c), Oct. 14, 1981, 95 Stat. 995, provided that: "The amendments made by this section [amending this section] shall take effect as of October 1, 1981."
 
 #### Effective Date of 1980 Amendment ####
 
@@ -200,7 +200,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date ####
 
-Pub. L. 93–294, §6, May 31, 1974, 88 Stat. 180, provided that: “This Act [enacting this section, amending section 301 of this title, and enacting provisions set out as notes under this section] becomes effective on the first day of the first month after enactment [May 31, 1974].”
+Pub. L. 93–294, §6, May 31, 1974, 88 Stat. 180, provided that: "This Act [enacting this section, amending section 301 of this title, and enacting provisions set out as notes under this section] becomes effective on the first day of the first month after enactment [May 31, 1974]."
 
 #### Delegation of Functions ####
 
@@ -208,23 +208,23 @@ For delegation of authority under this section to Secretaries of Defense, Commer
 
 #### Monthly Incentive Pay for Certain Officers Entitled to Incentive Pay Under Section 301(a)(1) of This Title on May 31, 1973 ####
 
-Pub. L. 93–294, §4, May 31, 1974, 88 Stat. 179, provided that: “Notwithstanding the amendments made by this Act [enacting this section and amending section 301 of this title], an officer who was entitled to incentive pay under section 301(a)(1) of title 37, United States Code, on May 31, 1973, or on the day before the effective date of this Act [June 1, 1974], if otherwise qualified on the day before the effective date of this Act, is entitled to monthly incentive pay as prescribed in either clause (1) or (2) of this section, as follows:
+Pub. L. 93–294, §4, May 31, 1974, 88 Stat. 179, provided that: "Notwithstanding the amendments made by this Act [enacting this section and amending section 301 of this title], an officer who was entitled to incentive pay under section 301(a)(1) of title 37, United States Code, on May 31, 1973, or on the day before the effective date of this Act [June 1, 1974], if otherwise qualified on the day before the effective date of this Act, is entitled to monthly incentive pay as prescribed in either clause (1) or (2) of this section, as follows:
 
-“(1) If he is credited with 6 or less years of aviation service as an officer, and with less than 12 years of service as an officer, he is entitled to monthly incentive pay either—
+"(1) If he is credited with 6 or less years of aviation service as an officer, and with less than 12 years of service as an officer, he is entitled to monthly incentive pay either—
 
-“(A) in the amount he was receiving under section 301(b) of that title on May 31, 1973, or on the day before the effective date of this Act [June 1, 1974], but with no entitlement after either of those dates, as applicable, to any longevity pay increases or increases resulting from promotion to a higher grade until such time as the rate to which he is entitled under section 301a(b) of that title, as added by this Act, is equal to or greater than the amount he was receiving under that section on May 31, 1973, or on the day before the effective date of this Act, and thereafter his entitlement is as prescribed by that section as added by this Act; or
+"(A) in the amount he was receiving under section 301(b) of that title on May 31, 1973, or on the day before the effective date of this Act [June 1, 1974], but with no entitlement after either of those dates, as applicable, to any longevity pay increases or increases resulting from promotion to a higher grade until such time as the rate to which he is entitled under section 301a(b) of that title, as added by this Act, is equal to or greater than the amount he was receiving under that section on May 31, 1973, or on the day before the effective date of this Act, and thereafter his entitlement is as prescribed by that section as added by this Act; or
 
-“(B) at the rate prescribed by section 301a(b) of that title, as added by this Act;
+"(B) at the rate prescribed by section 301a(b) of that title, as added by this Act;
 
 whichever is greater. However, an officer who is promoted and assigned to pay grade O–7 or above during the 36-month period following the effective date of this Act [June 1, 1974] may not receive more than the rate which existed for that pay grade, as appropriate, prior to June 1, 1973.
 
-“(2) If he is credited with more than 6 years of aviation service as an officer, or less than 6 years of aviation service but more than 12 years of service as an officer, he may receive monthly incentive pay at the rate prescribed in the table in section 301a(b) of title 37, United States Code, as added by this Act, that is applicable to him, or $165, whichever is greater, for not more than 36 months after the effective date of this Act [June 1, 1974], notwithstanding the provisions of section 301a(a) of that title, as added by this Act, with respect to prescribed operational flying duties (including flight training but excluding proficiency flying). However, under this clause, an officer who is assigned to the pay grade O–7 on the effective date of this Act, or is promoted to the pay grade O–7 during the 36-month period following the effective date of this Act, may not receive more than $160 per month while assigned to that grade.
+"(2) If he is credited with more than 6 years of aviation service as an officer, or less than 6 years of aviation service but more than 12 years of service as an officer, he may receive monthly incentive pay at the rate prescribed in the table in section 301a(b) of title 37, United States Code, as added by this Act, that is applicable to him, or $165, whichever is greater, for not more than 36 months after the effective date of this Act [June 1, 1974], notwithstanding the provisions of section 301a(a) of that title, as added by this Act, with respect to prescribed operational flying duties (including flight training but excluding proficiency flying). However, under this clause, an officer who is assigned to the pay grade O–7 on the effective date of this Act, or is promoted to the pay grade O–7 during the 36-month period following the effective date of this Act, may not receive more than $160 per month while assigned to that grade.
 
-The amount to which a reserve officer who is entitled to compensation under section 206 of title 37, United States Code, is entitled under this section is governed by the provisions of section 301a(d) of that title, as added by this Act.”
+The amount to which a reserve officer who is entitled to compensation under section 206 of title 37, United States Code, is entitled under this section is governed by the provisions of section 301a(d) of that title, as added by this Act."
 
 #### Annual Report by Department of Defense ####
 
-Pub. L. 93–294, §5, May 31, 1974, 88 Stat. 180, provided that: “A yearly report containing such data as necessary to monitor the progress of this bill [Pub. L. 93–294] shall be made by the Department of Defense in cooperation with the Senate and House Armed Services Committees and released publicly.”
+Pub. L. 93–294, §5, May 31, 1974, 88 Stat. 180, provided that: "A yearly report containing such data as necessary to monitor the progress of this bill [Pub. L. 93–294] shall be made by the Department of Defense in cooperation with the Senate and House Armed Services Committees and released publicly."
 
 #### Executive Order No. 11800 ####
 

@@ -6,4 +6,4 @@ The Secretary shall administer the Lyndon B. Johnson National Historical Park in
 
 #### Amendments ####
 
-**1980**—Pub. L. 96–607 substituted “National Historical Park” for “National Historic Site”.
+**1980**—Pub. L. 96–607 substituted "National Historical Park" for "National Historic Site".

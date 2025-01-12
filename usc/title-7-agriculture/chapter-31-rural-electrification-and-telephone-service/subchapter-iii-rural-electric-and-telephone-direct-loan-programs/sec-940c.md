@@ -56,4 +56,4 @@ Such loans and grants shall be made during each fiscal year to the full extent o
 
 #### Amendments ####
 
-**1994**—Subsecs. (a)(1), (b)(2)(A) to (C). Pub. L. 103–354 substituted “Secretary” for “Administrator”.
+**1994**—Subsecs. (a)(1), (b)(2)(A) to (C). Pub. L. 103–354 substituted "Secretary" for "Administrator".

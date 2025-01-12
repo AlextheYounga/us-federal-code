@@ -42,7 +42,7 @@ Sec.
 
 **1967**—Pub. L. 90–168, §2(17), Dec. 1, 1967, 81 Stat. 524, added item 3019.
 
-**1964**—Pub. L. 88–426, title III, §§305(40)(B), 306(j)(2), Aug. 14, 1964, 78 Stat. 427, 431, struck out “; compensation” from item 3012, and struck out item 3018 “Compensation of General Counsel”.
+**1964**—Pub. L. 88–426, title III, §§305(40)(B), 306(j)(2), Aug. 14, 1964, 78 Stat. 427, 431, struck out "; compensation" from item 3012, and struck out item 3018 "Compensation of General Counsel".
 
 **1962**—Pub. L. 87–651, title II, §210(b), Sept. 7, 1962, 76 Stat. 524, added item 3010.
 

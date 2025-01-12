@@ -8,7 +8,7 @@ The officers, privates, and watchmen of the Capitol police shall, when on duty, 
 
 Section was classified to section 212 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
-The text of this section was taken from act Mar. 18, 1904, popularly known as the “Legislative, Executive and Judicial Appropriation Act for the fiscal year ending June 30, 1905”. Similar provisions were contained in the following prior appropriation acts:
+The text of this section was taken from act Mar. 18, 1904, popularly known as the "Legislative, Executive and Judicial Appropriation Act for the fiscal year ending June 30, 1905". Similar provisions were contained in the following prior appropriation acts:
 
 Feb. 25, 1903, ch. 755, §1, 32 Stat. 857.
 

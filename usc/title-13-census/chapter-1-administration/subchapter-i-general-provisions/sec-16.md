@@ -26,9 +26,9 @@
 
 (c) For the purposes of this section—
 
-(1) the term “local unit of general purpose government” has the meaning given such term by section 184(1) of this title; and
+(1) the term "local unit of general purpose government" has the meaning given such term by section 184(1) of this title; and
 
-(2) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the Virgin Islands, and any other territory or possession of the United States.
+(2) the term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the Virgin Islands, and any other territory or possession of the United States.
 
 (Added Pub. L. 103–430, §2(a), Oct. 31, 1994, 108 Stat. 4393.)
 
@@ -38,4 +38,4 @@ Section 3 of the Census Address List Improvement Act of 1994, referred to in sub
 
 #### Development of Appeals Process by Administrator of Office of Information and Regulatory Affairs ####
 
-Pub. L. 103–430, §3, Oct. 31, 1994, 108 Stat. 4394, provided that: “The Administrator of the Office of Information and Regulatory Affairs, acting through the Chief Statistician and in consultation with the Bureau of the Census, shall develop an appeals process for those States and local units of general purpose government which desire to appeal determinations of the Bureau of the Census pursuant to section 16(a)(2) or (b)(3) of title 13, United States Code. Appeals under such process shall be resolved before the decennial census date. The Chief Statistician shall publish the proposed appeals process for a period of public comment before finalizing such process.”
+Pub. L. 103–430, §3, Oct. 31, 1994, 108 Stat. 4394, provided that: "The Administrator of the Office of Information and Regulatory Affairs, acting through the Chief Statistician and in consultation with the Bureau of the Census, shall develop an appeals process for those States and local units of general purpose government which desire to appeal determinations of the Bureau of the Census pursuant to section 16(a)(2) or (b)(3) of title 13, United States Code. Appeals under such process shall be resolved before the decennial census date. The Chief Statistician shall publish the proposed appeals process for a period of public comment before finalizing such process."

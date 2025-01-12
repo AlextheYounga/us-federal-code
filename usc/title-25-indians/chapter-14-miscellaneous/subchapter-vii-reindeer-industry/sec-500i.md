@@ -12,4 +12,4 @@ Herein, referred to in text, means act Sept. 1, 1937, which comprises this subch
 
 Section was formerly classified to section 250i of Title 48, Territories and Insular Possessions.
 
-[<sup>1</sup> So in original. Probably should be “devise,”.](#500i_1)
+[<sup>1</sup> So in original. Probably should be "devise,".](#500i_1)

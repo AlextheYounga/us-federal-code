@@ -38,7 +38,7 @@ The Secretary shall be responsible for overseeing the reconstruction and shall h
 
 #### (e) Easement noise and other standards; enforcement measures ####
 
-No grants or loans may be made under this section unless the Secretary has received what the Secretary deems to be adequate written assurance from the Administrator of the Federal Aviation Administration that any easement granted to the Commonwealth of Virginia by the Administrator for construction of the Dulles Toll Road will contain noise standards (“A” weighted energy average sound level of 52 to 54 dB) and other standards set forth in the Final Environmental Impact Statement for the Dulles Airport Access Road Outer Parallel Toll Roads, prepared by the Federal Aviation Administration and issued in May of 1982, legally enforceable by the Administrator and by the Secretary which are adequate to protect the Center from undue noise pollution and other environmental degradation attributable to such toll road both during and after its construction, and will also contain legally enforceable assurances that the Commonwealth of Virginia will promptly take measures to achieve the noise levels specified in the easement. Such measures may include a partial or total ban on truck traffic on the toll road or other mitigation recommended by the Secretary and the Administrator.
+No grants or loans may be made under this section unless the Secretary has received what the Secretary deems to be adequate written assurance from the Administrator of the Federal Aviation Administration that any easement granted to the Commonwealth of Virginia by the Administrator for construction of the Dulles Toll Road will contain noise standards ("A" weighted energy average sound level of 52 to 54 dB) and other standards set forth in the Final Environmental Impact Statement for the Dulles Airport Access Road Outer Parallel Toll Roads, prepared by the Federal Aviation Administration and issued in May of 1982, legally enforceable by the Administrator and by the Secretary which are adequate to protect the Center from undue noise pollution and other environmental degradation attributable to such toll road both during and after its construction, and will also contain legally enforceable assurances that the Commonwealth of Virginia will promptly take measures to achieve the noise levels specified in the easement. Such measures may include a partial or total ban on truck traffic on the toll road or other mitigation recommended by the Secretary and the Administrator.
 
 #### (f) Support services on reimbursable basis ####
 
@@ -52,13 +52,13 @@ For effective date of this paragraph, referred to in subsec. (b)(2)(A), (B), and
 
 #### Codification ####
 
-“Sections 3141–3144, 3146, and 3147 of title 40” substituted in subsec. (c)(1) for “the Davis-Bacon Act (40 U.S.C. 276a–a7)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Sections 3141–3144, 3146, and 3147 of title 40" substituted in subsec. (c)(1) for "the Davis-Bacon Act (40 U.S.C. 276a–a7)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments ####
 
-**2002**—Subsec. (c). Pub. L. 107–219 realigned margin of last sentence of par. (3) so as to appear as concluding provisions, and in concluding provisions, substituted “funds” for “Funds”.
+**2002**—Subsec. (c). Pub. L. 107–219 realigned margin of last sentence of par. (3) so as to appear as concluding provisions, and in concluding provisions, substituted "funds" for "Funds".
 
-**1994**—Subsec. (b)(3). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+**1994**—Subsec. (b)(3). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
 
 **1990**—Subsec. (b). Pub. L. 101–636 designated existing provisions as par. (1) and added pars. (2) and (3).
 
@@ -66,10 +66,10 @@ For effective date of this paragraph, referred to in subsec. (b)(2)(A), (B), and
 
 Section 4 of Pub. L. 101–636, as amended by Pub. L. 89–671, §14(c), as added Pub. L. 107–219, §1(a)(3), Aug. 21, 2002, 116 Stat. 1330, provided that:
 
-“(a) The amendments made by sections 1 and 2 [amending this section and section 284d of this title] shall take effect on the date on which the Wolf Trap Foundation for the Performing Arts modifies its agreements entered into pursuant to the Wolf Trap National Park for the Performing Arts Act [this subchapter] in a manner which is consistent with and takes into account the amendments made by this Act [amending this section and section 284d of this title and enacting provisions set out as a note under section 284 of this title], as determined by the Secretary of the Interior.
+"(a) The amendments made by sections 1 and 2 [amending this section and section 284d of this title] shall take effect on the date on which the Wolf Trap Foundation for the Performing Arts modifies its agreements entered into pursuant to the Wolf Trap National Park for the Performing Arts Act [this subchapter] in a manner which is consistent with and takes into account the amendments made by this Act [amending this section and section 284d of this title and enacting provisions set out as a note under section 284 of this title], as determined by the Secretary of the Interior.
 
-“(b) The amendment made by section 3 [enacting provisions set out as a note under section 284 of this title] shall take effect on the date of enactment of this Act [Nov. 28, 1990].”
+"(b) The amendment made by section 3 [enacting provisions set out as a note under section 284 of this title] shall take effect on the date of enactment of this Act [Nov. 28, 1990]."
 
 #### Increase in Loan Ceiling; Funds Reimbursed to Foundation To Be Repaid to Secretary ####
 
-Pub. L. 99–190, §101(d) [title I], Dec. 19, 1985, 99 Stat. 1224, 1231, as amended by Pub. L. 89–671, §14(c), as added Pub. L. 107–219, §1(a)(3), Aug. 21, 2002, 116 Stat. 1330, provided: “That the loan ceiling established under section 4(b) of Public Law 97–310 [probably means Public Law 89–671], the Wolf Trap National Park for the Performing Arts Act, as amended [16 U.S.C. 284c(b)], is increased to $9,500,000. Notwithstanding the loan repayment provisions of Public Law 97–310 [enacting 16 U.S.C. 284c to 284j], the dollar amount of items paid for by the Wolf Trap Foundation from funds provided by the additional loan authority in this section that is subsequently reimbursed to the Foundation by a court award or insurance settlement shall be repaid to the Secretary of the Interior by the Wolf Trap Foundation within 90 days of the date of the court award or insurance settlement.”
+Pub. L. 99–190, §101(d) [title I], Dec. 19, 1985, 99 Stat. 1224, 1231, as amended by Pub. L. 89–671, §14(c), as added Pub. L. 107–219, §1(a)(3), Aug. 21, 2002, 116 Stat. 1330, provided: "That the loan ceiling established under section 4(b) of Public Law 97–310 [probably means Public Law 89–671], the Wolf Trap National Park for the Performing Arts Act, as amended [16 U.S.C. 284c(b)], is increased to $9,500,000. Notwithstanding the loan repayment provisions of Public Law 97–310 [enacting 16 U.S.C. 284c to 284j], the dollar amount of items paid for by the Wolf Trap Foundation from funds provided by the additional loan authority in this section that is subsequently reimbursed to the Foundation by a court award or insurance settlement shall be repaid to the Secretary of the Interior by the Wolf Trap Foundation within 90 days of the date of the court award or insurance settlement."

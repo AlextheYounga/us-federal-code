@@ -1,10 +1,10 @@
 ### §460cc. Establishment ###
 
-In order to preserve and protect for the use and enjoyment of present and future generations an area possessing outstanding natural and recreational features, the Gateway National Recreation Area (hereinafter referred to as the “recreation area”) is hereby established.
+In order to preserve and protect for the use and enjoyment of present and future generations an area possessing outstanding natural and recreational features, the Gateway National Recreation Area (hereinafter referred to as the "recreation area") is hereby established.
 
 #### (a) Composition and boundaries ####
 
-The recreation area shall comprise the following lands, waters, marshes, and submerged lands in the New York Harbor area generally depicted on the map entitled “Boundary Map, Gateway National Recreation Area,” numbered 951–40017 sheets 1 through 3 and dated May, 1972:
+The recreation area shall comprise the following lands, waters, marshes, and submerged lands in the New York Harbor area generally depicted on the map entitled "Boundary Map, Gateway National Recreation Area," numbered 951–40017 sheets 1 through 3 and dated May, 1972:
 
 (1) Jamaica Bay Unit—including all islands, marshes, hassocks, submerged lands, and waters in Jamaica Bay, Floyd Bennett Field, the lands generally located between highway route 27A and Jamaica Bay, and the area of Jamaica Bay up to the shoreline of John F. Kennedy International Airport;
 
@@ -20,7 +20,7 @@ The recreation area shall comprise the following lands, waters, marshes, and sub
 
 #### (b) Boundary revisions: notification of Congressional committees; publication in Federal Register ####
 
-The map referred to in this section shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, Washington, District of Columbia. After advising the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate in writing, the Secretary of the Interior (hereinafter referred to as the “Secretary”) is authorized to make minor revisions of the boundaries of the recreation area when necessary by publication of a revised drawing or other boundary description in the Federal Register.
+The map referred to in this section shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior, Washington, District of Columbia. After advising the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate in writing, the Secretary of the Interior (hereinafter referred to as the "Secretary") is authorized to make minor revisions of the boundaries of the recreation area when necessary by publication of a revised drawing or other boundary description in the Federal Register.
 
 (Pub. L. 92–592, §§1, 3(b)(2), Oct. 27, 1972, 86 Stat. 1308; Pub. L. 103–437, §6(n)(3), Nov. 2, 1994, 108 Stat. 4586; Pub. L. 106–132, §1(2), Dec. 7, 1999, 113 Stat. 1681.)
 
@@ -28,9 +28,9 @@ The map referred to in this section shall be on file and available for public in
 
 **1999**—Subsec. (a)(4). Pub. L. 106–132 added Pub. L. 92–592, §3(b)(2). See 1972 Amendment note below.
 
-**1994**—Subsec. (b). Pub. L. 103–437 substituted “Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate” for “Committees on Interior and Insular Affairs of the United States House of Representatives and the United States Senate”.
+**1994**—Subsec. (b). Pub. L. 103–437 substituted "Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate" for "Committees on Interior and Insular Affairs of the United States House of Representatives and the United States Senate".
 
-**1972**—Subsec. (a)(4). Pub. L. 92–592, §3(b)(2), as added by Pub. L. 106–132, substituted “World War Veterans Park at Miller Field” for “Miller Field”.
+**1972**—Subsec. (a)(4). Pub. L. 92–592, §3(b)(2), as added by Pub. L. 106–132, substituted "World War Veterans Park at Miller Field" for "Miller Field".
 
 #### DeKorte State Park; Protection and Use of; Study for Establishment as a Unit of the National Park System and Administration as Unit of Gateway National Recreation Area; Report to Congressional Committees; Authorization of Appropriations ####
 

@@ -10,11 +10,11 @@ Section was not enacted as part of the Federal Power Act which generally compris
 
 #### Change of Name ####
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
 
 #### Transfer of Functions ####
 
-“Secretary of Energy” substituted in text for “Secretary of the Interior” in two places and for “Federal Power Commission” pursuant to Pub. L. 95–91, §§301(b), 302(a)(1), which are classified to sections 7151(b) and 7152(a)(1) of Title 42, The Public Health and Welfare.
+"Secretary of Energy" substituted in text for "Secretary of the Interior" in two places and for "Federal Power Commission" pursuant to Pub. L. 95–91, §§301(b), 302(a)(1), which are classified to sections 7151(b) and 7152(a)(1) of Title 42, The Public Health and Welfare.
 
 Functions of Secretary of the Interior under this section transferred to Secretary of Energy by section 7152(a)(1) of Title 42.
 

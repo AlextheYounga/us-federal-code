@@ -10,7 +10,7 @@ Every investment adviser who makes use of the mails or of any means or instrumen
 
 The Commission may require any investment adviser registered under this subchapter—
 
-(A) to maintain such records of, and file with the Commission such reports regarding, private funds advised by the investment adviser, as necessary and appropriate in the public interest and for the protection of investors, or for the assessment of systemic risk by the Financial Stability Oversight Council (in this subsection referred to as the “Council”); and
+(A) to maintain such records of, and file with the Commission such reports regarding, private funds advised by the investment adviser, as necessary and appropriate in the public interest and for the protection of investors, or for the assessment of systemic risk by the Financial Stability Oversight Council (in this subsection referred to as the "Council"); and
 
 (B) to provide or make available to the Council those reports or records or the information contained therein.
 
@@ -68,7 +68,7 @@ The Commission shall make available to the Council copies of all reports, docume
 
 #### (B) Confidentiality ####
 
-The Council shall maintain the confidentiality of information received under this paragraph in all such reports, documents, records, and information, in a manner consistent with the level of confidentiality established for the Commission pursuant to paragraph (8). The Council shall be exempt from section 552 of title 5 with respect to any information in any report, document, record, or information made available, to the Council under this subsection.”.<sup><a href="#80b-4_1_target" name="80b-4_1">1</a></sup>
+The Council shall maintain the confidentiality of information received under this paragraph in all such reports, documents, records, and information, in a manner consistent with the level of confidentiality established for the Commission pursuant to paragraph (8). The Council shall be exempt from section 552 of title 5 with respect to any information in any report, document, record, or information made available, to the Council under this subsection.".<sup><a href="#80b-4_1_target" name="80b-4_1">1</a></sup>
 
 #### (8) Commission confidentiality of reports ####
 
@@ -160,7 +160,7 @@ Pub. L. 111–203, §404(1), redesignated subsec. (c) as (d) relating to access 
 
 **2006**—Pub. L. 109–290 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
-**1975**—Pub. L. 94–29 substituted “make and keep for prescribed periods such records (as defined in section 78c(a)(37) of this title), furnish such copies thereof, and make and disseminate such reports as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors. All records (as so defined) of such investment advisers are subject at any time, or from time to time, to such reasonable periodic, special, or other examinations by representatives of the Commission as the Commission deems necessary or appropriate in the public interest or for the protection of investors” for “make, keep, and preserve for such periods, such accounts, correspondence, memorandums, papers, books, and other records, and make such reports, as the Commission by its rules and regulations may prescribe as necessary or appropriate in the public interest or for the protection of investors. Such accounts, correspondence, memorandums, papers, books, and other records shall be subject at any time or from time to time to such reasonable periodic, special, or other examinations by examiners or other representatives of the Commission as the Commission may deem necessary or appropriate in the public interest or for the protection of investors”.
+**1975**—Pub. L. 94–29 substituted "make and keep for prescribed periods such records (as defined in section 78c(a)(37) of this title), furnish such copies thereof, and make and disseminate such reports as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors. All records (as so defined) of such investment advisers are subject at any time, or from time to time, to such reasonable periodic, special, or other examinations by representatives of the Commission as the Commission deems necessary or appropriate in the public interest or for the protection of investors" for "make, keep, and preserve for such periods, such accounts, correspondence, memorandums, papers, books, and other records, and make such reports, as the Commission by its rules and regulations may prescribe as necessary or appropriate in the public interest or for the protection of investors. Such accounts, correspondence, memorandums, papers, books, and other records shall be subject at any time or from time to time to such reasonable periodic, special, or other examinations by examiners or other representatives of the Commission as the Commission may deem necessary or appropriate in the public interest or for the protection of investors".
 
 **1960**—Pub. L. 86–750 substituted provisions requiring investment advisers who make business use of the mails or any instrument of interstate commerce, unless exempted from registration by section 80b–3(b) of this title, to keep and preserve accounts, correspondence, memorandums, papers, books, and records, and make such reports as the Commission requires by its rules and regulations, and that these accounts, correspondence, memorandums, papers, books and records shall be subject to examination by representatives of the Commission, for provisions requiring investment advisers registered under section 80b–3 of this title to file annual and special reports in such form as the Commission prescribed by its rules and regulations to keep current the information contained in the registration application.
 
@@ -180,6 +180,6 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 [<sup>1</sup> So in original. The quotation marks and period probably should not appear.](#80b-4_1)
 
-[<sup>2</sup> So in original. Probably should be preceded by “to”.](#80b-4_2)
+[<sup>2</sup> So in original. Probably should be preceded by "to".](#80b-4_2)
 
-[<sup>3</sup> So in original. Probably should be “(e)”.](#80b-4_3)
+[<sup>3</sup> So in original. Probably should be "(e)".](#80b-4_3)

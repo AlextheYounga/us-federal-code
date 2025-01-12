@@ -42,7 +42,7 @@ If the indenture to be qualified is or is to be secured by the mortgage or pledg
 
 (3) to such obligor of any property the subjection of which to the lien of the indenture is to be made the basis for the authentication and delivery of indenture securities, the withdrawal of cash constituting a part of the trust estate, or the release of property or securities subject to the lien of the indenture, and requiring further that if
 
-(A) within six months prior to the d‘te of acquisition thereof by such obligor, such property has been used or operated, by a person or persons other than such obligor, in a business similar to that in which it has been or is to be used or operated by such obligor, and
+(A) within six months prior to the d'te of acquisition thereof by such obligor, such property has been used or operated, by a person or persons other than such obligor, in a business similar to that in which it has been or is to be used or operated by such obligor, and
 
 (B) the fair value to such obligor of such property as set forth in such certificate or opinion is not less than $25,000 and not less than 1 per centum of the aggregate principal amount of the indenture securities at the time outstanding,
 
@@ -62,17 +62,17 @@ Nothing in this section shall be construed either as requiring the inclusion in 
 
 #### Amendments ####
 
-**1990**—Subsec. (a). Pub. L. 101–550, §413(1)–(6), in introductory provision substituted “Each” for “The indenture to be qualified shall contain provisions requiring each” and inserted “shall” after “thereby” and in pars. (1) to (3) struck out “to” after the paragraph designation, and directed the addition of par. (4) at the end which was executed by inserting par. (4) after par. (3) to reflect the probable intent of Congress.
+**1990**—Subsec. (a). Pub. L. 101–550, §413(1)–(6), in introductory provision substituted "Each" for "The indenture to be qualified shall contain provisions requiring each" and inserted "shall" after "thereby" and in pars. (1) to (3) struck out "to" after the paragraph designation, and directed the addition of par. (4) at the end which was executed by inserting par. (4) after par. (3) to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 101–550, §413(7), (8), struck out “such indenture shall contain provisions requiring” before “the obligor” and substituted “securities shall furnish” for “securities to furnish”.
+Subsec. (b). Pub. L. 101–550, §413(7), (8), struck out "such indenture shall contain provisions requiring" before "the obligor" and substituted "securities shall furnish" for "securities to furnish".
 
-Subsec. (c). Pub. L. 101–550, §413(9), (10), substituted “The obligor” for “The indenture to be qualified shall contain provisions requiring the obligor” and “securities shall furnish” for “securities to furnish”.
+Subsec. (c). Pub. L. 101–550, §413(9), (10), substituted "The obligor" for "The indenture to be qualified shall contain provisions requiring the obligor" and "securities shall furnish" for "securities to furnish".
 
-Subsec. (d). Pub. L. 101–550, §413(11), (13), (14), substituted “the obligor upon the indenture securities shall furnish to the indenture trustee a certificate or opinion of an engineer, appraiser, or other expert as to the fair value” for “such indenture shall contain provisions” in introductory provisions and “The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that such provision is excluded) to provide that” for “If the indenture to be qualified so provides,” and “duly authorized to make such certificate or opinion by the obligor from time to time” for “specified in the indenture” in penultimate sentence.
+Subsec. (d). Pub. L. 101–550, §413(11), (13), (14), substituted "the obligor upon the indenture securities shall furnish to the indenture trustee a certificate or opinion of an engineer, appraiser, or other expert as to the fair value" for "such indenture shall contain provisions" in introductory provisions and "The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that such provision is excluded) to provide that" for "If the indenture to be qualified so provides," and "duly authorized to make such certificate or opinion by the obligor from time to time" for "specified in the indenture" in penultimate sentence.
 
-Subsec. (d)(1) to (3). Pub. L. 101–550, §413(12), which directed that “requiring the obligor upon the indenture securities to furnish to the indenture trustee a certificate or opinion of an engineer, appraiser or other expert as to the fair value” be struck out after the paragraph designations in pars. (1) to (3), was executed by striking out “requiring the obligor upon the indenture securities to furnish to the indenture trustee a certificate or opinion of an engineer, appraiser, or other expert as to the fair value”, as the probable intent of Congress.
+Subsec. (d)(1) to (3). Pub. L. 101–550, §413(12), which directed that "requiring the obligor upon the indenture securities to furnish to the indenture trustee a certificate or opinion of an engineer, appraiser or other expert as to the fair value" be struck out after the paragraph designations in pars. (1) to (3), was executed by striking out "requiring the obligor upon the indenture securities to furnish to the indenture trustee a certificate or opinion of an engineer, appraiser, or other expert as to the fair value", as the probable intent of Congress.
 
-Subsec. (e). Pub. L. 101–550, §413(15), inserted “(other than certificates provided pursuant to subsection (a)(4) of this section)” after “indenture”.
+Subsec. (e). Pub. L. 101–550, §413(15), inserted "(other than certificates provided pursuant to subsection (a)(4) of this section)" after "indenture".
 
 #### Transfer of Functions ####
 

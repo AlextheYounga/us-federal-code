@@ -6,7 +6,7 @@ If any person shall willfully destroy, mutilate, deface, injure, or remove any m
 
 #### Change of Name ####
 
-“Battlefield” substituted in text for “park” in view of redesignation of Stones River National Military Park as Stones River National Battlefield by Pub. L. 86–443. See section 426l of this title.
+"Battlefield" substituted in text for "park" in view of redesignation of Stones River National Military Park as Stones River National Battlefield by Pub. L. 86–443. See section 426l of this title.
 
 #### Transfer of Functions ####
 

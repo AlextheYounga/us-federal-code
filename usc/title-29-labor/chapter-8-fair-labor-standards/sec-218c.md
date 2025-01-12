@@ -28,10 +28,10 @@ Nothing in this section shall be deemed to diminish the rights, privileges, or r
 
 #### References in Text ####
 
-Section 18071 of title 42, referred to in subsec. (a)(1), was in the original “section 1402 of this Act”, and was translated as meaning section 1402 of the Patient Protection and Affordable Care Act, which is classified to section 18071 of title 42, to reflect the probable intent of Congress.
+Section 18071 of title 42, referred to in subsec. (a)(1), was in the original "section 1402 of this Act", and was translated as meaning section 1402 of the Patient Protection and Affordable Care Act, which is classified to section 18071 of title 42, to reflect the probable intent of Congress.
 
 This title, referred to in subsec. (a)(2), (5), probably means title I of Pub. L. 111–148, Mar. 23, 2011, 124 Stat. 130. For complete classification of title I to the Code, see Tables.
 
-Section 2087(b) of title 15, referred to in subsec. (b)(1), was in the original “section 2807(b) of title 15”, and probably should have read “section 40(b) of the Consumer Product Safety Act”, which is classified to section 2087(b) of Title 15, Commerce and Trade.
+Section 2087(b) of title 15, referred to in subsec. (b)(1), was in the original "section 2807(b) of title 15", and probably should have read "section 40(b) of the Consumer Product Safety Act", which is classified to section 2087(b) of Title 15, Commerce and Trade.
 
 [<sup>1</sup> See References in Text note below.](#218c_1)

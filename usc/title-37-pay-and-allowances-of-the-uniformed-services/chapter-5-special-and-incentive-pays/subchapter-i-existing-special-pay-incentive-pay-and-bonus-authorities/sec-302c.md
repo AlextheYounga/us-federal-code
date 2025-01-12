@@ -46,27 +46,27 @@ A prior section 302c, added Pub. L. 96–284, §3(a)(1), June 28, 1980, 94 Stat.
 
 #### Amendments ####
 
-**2008**—Subsec. (d)(1). Pub. L. 110–181 substituted “Service Corps” for “Services Corps”.
+**2008**—Subsec. (d)(1). Pub. L. 110–181 substituted "Service Corps" for "Services Corps".
 
-**2000**—Subsec. (d)(1). Pub. L. 106–398 inserted “an officer of the Coast Guard or Coast Guard Reserve designated as a physician assistant,” after “nurse,”.
+**2000**—Subsec. (d)(1). Pub. L. 106–398 inserted "an officer of the Coast Guard or Coast Guard Reserve designated as a physician assistant," after "nurse,".
 
 **1997**—Subsec. (d)(1). Pub. L. 105–85 made technical correction to directory language of Pub. L. 104–201, §614(b)(2)(B). See 1996 Amendment note below.
 
-**1996**—Subsec. (d). Pub. L. 104–201, §614(b)(1), substituted “Secretary concerned” for “Secretary of Defense” in introductory provisions.
+**1996**—Subsec. (d). Pub. L. 104–201, §614(b)(1), substituted "Secretary concerned" for "Secretary of Defense" in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 104–201, §614(b)(2)(B), as amended by Pub. L. 105–85, inserted before semicolon at end “, or an officer in the Regular or Reserve Corps of the Public Health Service”.
+Subsec. (d)(1). Pub. L. 104–201, §614(b)(2)(B), as amended by Pub. L. 105–85, inserted before semicolon at end ", or an officer in the Regular or Reserve Corps of the Public Health Service".
 
-Pub. L. 104–201, §614(b)(2)(A), struck out “or” after “Nurse Corps of the Army or Navy,”.
+Pub. L. 104–201, §614(b)(2)(A), struck out "or" after "Nurse Corps of the Army or Navy,".
 
-Pub. L. 104–106 struck out “or” after “Air Force,” and inserted “, an officer of the Nurse Corps of the Army or Navy, or an officer of the Air Force designated as a nurse” before semicolon at end.
+Pub. L. 104–106 struck out "or" after "Air Force," and inserted ", an officer of the Nurse Corps of the Army or Navy, or an officer of the Air Force designated as a nurse" before semicolon at end.
 
-**1992**—Subsec. (d)(1). Pub. L. 102–484 substituted “Navy,” for “Navy or” and inserted before semicolon at end “, or an officer in the Army Medical Specialist Corps”.
+**1992**—Subsec. (d)(1). Pub. L. 102–484 substituted "Navy," for "Navy or" and inserted before semicolon at end ", or an officer in the Army Medical Specialist Corps".
 
 **1991**—Pub. L. 102–25 amended section catchline generally.
 
 **1990**—Subsec. (d). Pub. L. 101–510 added subsec. (d).
 
-**1989**—Pub. L. 101–189, §704(b)(1), struck out “in the Public Health Service Corps” after “psychologists” in section catchline.
+**1989**—Pub. L. 101–189, §704(b)(1), struck out "in the Public Health Service Corps" after "psychologists" in section catchline.
 
 Subsecs. (a), (b). Pub. L. 101–189, §704(c), inserted headings.
 
@@ -78,7 +78,7 @@ Pub. L. 105–85, div. A, title X, §1073(c), Nov. 18, 1997, 111 Stat. 1904, pro
 
 #### Effective Date ####
 
-Pub. L. 100–140, §2(c), Oct. 26, 1987, 101 Stat. 831, provided that: “The amendments made by this section [enacting this section and amending section 303a of this title] shall take effect on October 1, 1987 or on the date of the enactment of this Act [Oct. 26, 1987], whichever is later, and shall apply with respect to pay periods beginning on or after that effective date.”
+Pub. L. 100–140, §2(c), Oct. 26, 1987, 101 Stat. 831, provided that: "The amendments made by this section [enacting this section and amending section 303a of this title] shall take effect on October 1, 1987 or on the date of the enactment of this Act [Oct. 26, 1987], whichever is later, and shall apply with respect to pay periods beginning on or after that effective date."
 
 #### Transfer of Functions ####
 
@@ -86,20 +86,20 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Implementation of Subsection (d) ####
 
-Pub. L. 101–510, div. A, title VI, §618(b), Nov. 5, 1990, 104 Stat. 1579, provided that: “The Secretary of Defense may not implement subsection (d) of section 302c of title 37, United States Code (as added by subsection (a)), unless the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives a report—
+Pub. L. 101–510, div. A, title VI, §618(b), Nov. 5, 1990, 104 Stat. 1579, provided that: "The Secretary of Defense may not implement subsection (d) of section 302c of title 37, United States Code (as added by subsection (a)), unless the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives a report—
 
-“(1) justifying the need of the military departments for the authority provided in such subsection; and
+"(1) justifying the need of the military departments for the authority provided in such subsection; and
 
-“(2) describing the manner in which that authority will be implemented.”
+"(2) describing the manner in which that authority will be implemented."
 
 [Report submitted to Committees on Apr. 29, 1994.]
 
 #### Implementation of Special Pay for Army, Navy, and Air Force Psychologists ####
 
-Pub. L. 101–189, div. A, title VII, §704(d), Nov. 29, 1989, 103 Stat. 1471, provided that: “The Secretary of Defense may not implement subsection (c) of section 302c of title 37, United States Code (as added by subsection (a)), unless the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives a report—
+Pub. L. 101–189, div. A, title VII, §704(d), Nov. 29, 1989, 103 Stat. 1471, provided that: "The Secretary of Defense may not implement subsection (c) of section 302c of title 37, United States Code (as added by subsection (a)), unless the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives a report—
 
-“(1) justifying the need of the military departments for the authority provided in such subsection; and
+"(1) justifying the need of the military departments for the authority provided in such subsection; and
 
-“(2) describing the manner in which that authority will be implemented.”
+"(2) describing the manner in which that authority will be implemented."
 
 [Report submitted to Committees on Apr. 20, 1994.]

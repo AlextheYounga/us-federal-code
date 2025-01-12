@@ -52,7 +52,7 @@ Notice required under clause (i) shall be in addition to any notice required pur
 
 #### (i) In general ####
 
-Not later than 90 days after the date on which a notice is published under subparagraph (A)(i), the court shall consider any motion made by a purported class member in response to the notice, including any motion by a class member who is not individually named as a plaintiff in the complaint or complaints, and shall appoint as lead plaintiff the member or members of the purported plaintiff class that the court determines to be most capable of adequately representing the interests of class members (hereafter in this paragraph referred to as the “most adequate plaintiff”) in accordance with this subparagraph.
+Not later than 90 days after the date on which a notice is published under subparagraph (A)(i), the court shall consider any motion made by a purported class member in response to the notice, including any motion by a class member who is not individually named as a plaintiff in the complaint or complaints, and shall appoint as lead plaintiff the member or members of the purported plaintiff class that the court determines to be most capable of adequately representing the interests of class members (hereafter in this paragraph referred to as the "most adequate plaintiff") in accordance with this subparagraph.
 
 #### (ii) Consolidated actions ####
 
@@ -98,9 +98,9 @@ The share of any final judgment or of any settlement that is awarded to a repres
 
 The terms and provisions of any settlement agreement of a class action shall not be filed under seal, except that on motion of any party to the settlement, the court may order filing under seal for those portions of a settlement agreement as to which good cause is shown for such filing under seal. For purposes of this paragraph, good cause shall exist only if publication of a term or provision of a settlement agreement would cause direct and substantial harm to any party.
 
-#### (6) Restrictions on payment of attorneys’ fees and expenses ####
+#### (6) Restrictions on payment of attorneys' fees and expenses ####
 
-Total attorneys’ fees and expenses awarded by the court to counsel for the plaintiff class shall not exceed a reasonable percentage of the amount of any damages and prejudgment interest actually paid to the class.
+Total attorneys' fees and expenses awarded by the court to counsel for the plaintiff class shall not exceed a reasonable percentage of the amount of any damages and prejudgment interest actually paid to the class.
 
 #### (7) Disclosure of settlement terms to class members ####
 
@@ -124,11 +124,11 @@ If the parties do not agree on the average amount of damages per share that woul
 
 A statement made in accordance with clause (i) or (ii) concerning the amount of damages shall not be admissible in any Federal or State judicial action or administrative proceeding, other than an action or proceeding arising out of such statement.
 
-#### (C) Statement of attorneys’ fees or costs sought ####
+#### (C) Statement of attorneys' fees or costs sought ####
 
-If any of the settling parties or their counsel intend to apply to the court for an award of attorneys’ fees or costs from any fund established as part of the settlement, a statement indicating which parties or counsel intend to make such an application, the amount of fees and costs that will be sought (including the amount of such fees and costs determined on an average per share basis), and a brief explanation supporting the fees and costs sought. Such information shall be clearly summarized on the cover page of any notice to a party of any proposed or final settlement agreement.
+If any of the settling parties or their counsel intend to apply to the court for an award of attorneys' fees or costs from any fund established as part of the settlement, a statement indicating which parties or counsel intend to make such an application, the amount of fees and costs that will be sought (including the amount of such fees and costs determined on an average per share basis), and a brief explanation supporting the fees and costs sought. Such information shall be clearly summarized on the cover page of any notice to a party of any proposed or final settlement agreement.
 
-#### (D) Identification of lawyers’ representatives ####
+#### (D) Identification of lawyers' representatives ####
 
 The name, telephone number, and address of one or more representatives of counsel for the plaintiff class who will be reasonably available to answer questions from class members concerning any matter contained in any notice of settlement published or otherwise disseminated to the class.
 
@@ -212,21 +212,21 @@ In any private action arising under this chapter, upon final adjudication of the
 
 If the court makes a finding under paragraph (1) that a party or attorney violated any requirement of Rule 11(b) of the Federal Rules of Civil Procedure as to any complaint, responsive pleading, or dispositive motion, the court shall impose sanctions on such party or attorney in accordance with Rule 11 of the Federal Rules of Civil Procedure. Prior to making a finding that any party or attorney has violated Rule 11 of the Federal Rules of Civil Procedure, the court shall give such party or attorney notice and an opportunity to respond.
 
-#### (3) Presumption in favor of attorneys’ fees and costs ####
+#### (3) Presumption in favor of attorneys' fees and costs ####
 
 #### (A) In general ####
 
 Subject to subparagraphs (B) and (C), for purposes of paragraph (2), the court shall adopt a presumption that the appropriate sanction—
 
-(i) for failure of any responsive pleading or dispositive motion to comply with any requirement of Rule 11(b) of the Federal Rules of Civil Procedure is an award to the opposing party of the reasonable attorneys’ fees and other expenses incurred as a direct result of the violation; and
+(i) for failure of any responsive pleading or dispositive motion to comply with any requirement of Rule 11(b) of the Federal Rules of Civil Procedure is an award to the opposing party of the reasonable attorneys' fees and other expenses incurred as a direct result of the violation; and
 
-(ii) for substantial failure of any complaint to comply with any requirement of Rule 11(b) of the Federal Rules of Civil Procedure is an award to the opposing party of the reasonable attorneys’ fees and other expenses incurred in the action.
+(ii) for substantial failure of any complaint to comply with any requirement of Rule 11(b) of the Federal Rules of Civil Procedure is an award to the opposing party of the reasonable attorneys' fees and other expenses incurred in the action.
 
 #### (B) Rebuttal evidence ####
 
 The presumption described in subparagraph (A) may be rebutted only upon proof by the party or attorney against whom sanctions are to be imposed that—
 
-(i) the award of attorneys’ fees and other expenses will impose an unreasonable burden on that party or attorney and would be unjust, and the failure to make such an award would not impose a greater burden on the party in whose favor sanctions are to be imposed; or
+(i) the award of attorneys' fees and other expenses will impose an unreasonable burden on that party or attorney and would be unjust, and the failure to make such an award would not impose a greater burden on the party in whose favor sanctions are to be imposed; or
 
 (ii) the violation of Rule 11(b) of the Federal Rules of Civil Procedure was de minimis.
 
@@ -248,9 +248,9 @@ Except as provided in paragraph (2), in any private action arising under this ch
 
 In any private action arising under this chapter in which the plaintiff seeks to establish damages by reference to the market price of a security, if the plaintiff sells or repurchases the subject security prior to the expiration of the 90-day period described in paragraph (1), the plaintiff's damages shall not exceed the difference between the purchase or sale price paid or received, as appropriate, by the plaintiff for the security and the mean trading price of the security during the period beginning immediately after dissemination of information correcting the misstatement or omission and ending on the date on which the plaintiff sells or repurchases the security.
 
-#### (3) “Mean trading price” defined ####
+#### (3) "Mean trading price" defined ####
 
-For purposes of this subsection, the “mean trading price” of a security shall be an average of the daily trading price of that security, determined as of the close of the market each day during the 90-day period referred to in paragraph (1).
+For purposes of this subsection, the "mean trading price" of a security shall be an average of the daily trading price of that security, determined as of the close of the market each day during the 90-day period referred to in paragraph (1).
 
 #### (f) Proportionate liability ####
 
@@ -374,7 +374,7 @@ In any private action determining liability, an action for contribution shall be
 
 For purposes of this subsection—
 
-(A) a covered person “knowingly commits a violation of the securities laws”—
+(A) a covered person "knowingly commits a violation of the securities laws"—
 
 (i) with respect to an action that is based on an untrue statement of material fact or omission of a material fact necessary to make the statement not misleading, if—
 
@@ -386,31 +386,31 @@ For purposes of this subsection—
 
 (B) reckless conduct by a covered person shall not be construed to constitute a knowing commission of a violation of the securities laws by that covered person;
 
-(C) the term “covered person” means—
+(C) the term "covered person" means—
 
 (i) a defendant in any private action arising under this chapter; or
 
 (ii) a defendant in any private action arising under section 77k of this title, who is an outside director of the issuer of the securities that are the subject of the action; and
 
-(D) the term “outside director” shall have the meaning given such term by rule or regulation of the Commission.
+(D) the term "outside director" shall have the meaning given such term by rule or regulation of the Commission.
 
 (June 6, 1934, ch. 404, title I, §21D, as added and amended Pub. L. 104–67, title I, §101(b), title II, §201(a), Dec. 22, 1995, 109 Stat. 743, 758; Pub. L. 105–353, title I, §101(b)(2), title III, §301(b)(13), Nov. 3, 1998, 112 Stat. 3233, 3236; Pub. L. 111–203, title IX, §933(b), July 21, 2010, 124 Stat. 1883.)
 
 #### References in Text ####
 
-This chapter, referred to in text, was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in text, was in the original "this title". See References in Text note set out under section 78a of this title.
 
 The Federal Rules of Civil Procedure, referred to in subsecs. (a)(1), (3)(A)(iii), (B)(iii)(I)(cc), (vi), (8), (b)(3)(C)(i), and (c), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments ####
 
-**2010**—Subsec. (b)(2). Pub. L. 111–203 designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), in any” for “In any”, and added subpar. (B).
+**2010**—Subsec. (b)(2). Pub. L. 111–203 designated existing provisions as subpar. (A), inserted heading, substituted "Except as provided in subparagraph (B), in any" for "In any", and added subpar. (B).
 
 **1998**—Subsec. (b)(3)(D). Pub. L. 105–353, §101(b)(2), added subpar. (D).
 
 Subsecs. (f), (g). Pub. L. 105–353, §301(b)(13)(B), redesignated subsec. (g) as (f).
 
-Subsec. (g)(2)(B)(i). Pub. L. 105–353, §301(b)(13)(A), substituted “subparagraph (A)” for “paragraph (1)”.
+Subsec. (g)(2)(B)(i). Pub. L. 105–353, §301(b)(13)(A), substituted "subparagraph (A)" for "paragraph (1)".
 
 **1995**—Subsec. (g). Pub. L. 104–67, §201(a), added subsec. (g).
 
@@ -434,4 +434,4 @@ This section not to affect or apply to any private action arising under this cha
 
 Nothing in section to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under this chapter, see section 203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
 
-[<sup>1</sup> So in original. Probably should be preceded by “if,”.](#78u-4_1)
+[<sup>1</sup> So in original. Probably should be preceded by "if,".](#78u-4_1)

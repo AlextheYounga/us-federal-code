@@ -62,7 +62,7 @@ Based on title 28, U.S.C., 1940 ed., §144 (Mar. 3, 1911, ch. 231, §71, 36 Stat
 
 A provision making inoperative the terms of the last paragraph of this section, whenever court accommodations shall be provided in Federal buildings was omitted as unnecessary. When such buildings become available the Director of the Administrative Office of the United States Courts will, under section 604 of this title, provide court accommodations therein.
 
-Provisions relating to places for maintenance of clerks’ offices and requiring said offices to be kept open at all times were omitted as covered by sections 452 and 751 of this title.
+Provisions relating to places for maintenance of clerks' offices and requiring said offices to be kept open at all times were omitted as covered by sections 452 and 751 of this title.
 
 The provision authorizing the referee in bankruptcy for the western division of the eastern district to serve by appointment in the Hot Springs division of the western district is to be transferred to title 11, U.S.C., 1940 ed., Bankruptcy.
 
@@ -72,6 +72,6 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments ####
 
-**2004**—Subsec. (b)(1). Pub. L. 108–455 inserted “, and may be held anywhere within the Federal courthouse in Texarkana that is located astride the State line between Texas and Arkansas” after “held at Texarkana”.
+**2004**—Subsec. (b)(1). Pub. L. 108–455 inserted ", and may be held anywhere within the Federal courthouse in Texarkana that is located astride the State line between Texas and Arkansas" after "held at Texarkana".
 
 **1961**—Subsec. (a). Pub. L. 87–36 struck out from enumeration in par. (1) the parish of Desha and in par. (2) the parishes of Arkansas, Chicot, Cleveland, Dallas, Drew, Grant, Jefferson, and Lincoln, added par. (3) consisting of such parishes, and redesignated former par. (3) and (4) as (4) and (5), respectively.

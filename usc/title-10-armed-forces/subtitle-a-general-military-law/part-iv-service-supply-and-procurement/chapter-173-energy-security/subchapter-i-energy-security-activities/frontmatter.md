@@ -22,6 +22,6 @@ Sec.
 
 #### Amendments ####
 
-**2011**—Pub. L. 111–383, div. B, title XXVIII, §2832(c)(2), Jan. 7, 2011, 124 Stat. 4470, added items 2911 and 2915 and struck out former items 2911 “Energy performance goals and plan for Department of Defense” and 2915 “New construction: use of renewable forms of energy and energy efficient products”.
+**2011**—Pub. L. 111–383, div. B, title XXVIII, §2832(c)(2), Jan. 7, 2011, 124 Stat. 4470, added items 2911 and 2915 and struck out former items 2911 "Energy performance goals and plan for Department of Defense" and 2915 "New construction: use of renewable forms of energy and energy efficient products".
 
 **2009**—Pub. L. 111–84, div. B, title XXVIII, §2843(b), Oct. 28, 2009, 123 Stat. 2682, added item 2919.

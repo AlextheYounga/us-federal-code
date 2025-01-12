@@ -38,7 +38,7 @@ A taxpayer is described in this subsection if—
 
 #### (2) Modified adjusted gross income ####
 
-For purposes of this subsection, the term “modified adjusted gross income” means adjusted gross income—
+For purposes of this subsection, the term "modified adjusted gross income" means adjusted gross income—
 
 (A) determined without regard to this section and sections 135, 137, 199, 221, 222, 911, 931, and 933, and
 
@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (1) Base amount ####
 
-The term “base amount” means—
+The term "base amount" means—
 
 (A) except as otherwise provided in this paragraph, $25,000,
 
@@ -64,7 +64,7 @@ The term “base amount” means—
 
 #### (2) Adjusted base amount ####
 
-The term “adjusted base amount” means—
+The term "adjusted base amount" means—
 
 (A) except as otherwise provided in this paragraph, $34,000,
 
@@ -76,7 +76,7 @@ The term “adjusted base amount” means—
 
 #### (1) In general ####
 
-For purposes of this section, the term “social security benefit” means any amount received by the taxpayer by reason of entitlement to—
+For purposes of this section, the term "social security benefit" means any amount received by the taxpayer by reason of entitlement to—
 
 (A) a monthly benefit under title II of the Social Security Act, or
 
@@ -94,13 +94,13 @@ If (but for this subparagraph) any portion of the repayments referred to in subp
 
 #### (3) Workmen's compensation benefits substituted for social security benefits ####
 
-For purposes of this section, if, by reason of section 224 of the Social Security Act (or by reason of section 3(a)(1) of the Railroad Retirement Act of 1974), any social security benefit is reduced by reason of the receipt of a benefit under a workmen's compensation act, the term “social security benefit” includes that portion of such benefit received under the workmen's compensation act which equals such reduction.
+For purposes of this section, if, by reason of section 224 of the Social Security Act (or by reason of section 3(a)(1) of the Railroad Retirement Act of 1974), any social security benefit is reduced by reason of the receipt of a benefit under a workmen's compensation act, the term "social security benefit" includes that portion of such benefit received under the workmen's compensation act which equals such reduction.
 
 #### (4) Tier 1 railroad retirement benefit ####
 
-For purposes of paragraph (1), the term “tier 1 railroad retirement benefit” means—
+For purposes of paragraph (1), the term "tier 1 railroad retirement benefit" means—
 
-(A) the amount of the annuity under the Railroad Retirement Act of 1974 equal to the amount of the benefit to which the taxpayer would have been entitled under the Social Security Act if all of the service after December 31, 1936, of the employee (on whose employment record the annuity is being paid) had been included in the term “employment” as defined in the Social Security Act, and
+(A) the amount of the annuity under the Railroad Retirement Act of 1974 equal to the amount of the benefit to which the taxpayer would have been entitled under the Social Security Act if all of the service after December 31, 1936, of the employee (on whose employment record the annuity is being paid) had been included in the term "employment" as defined in the Social Security Act, and
 
 (B) a monthly annuity amount under section 3(f)(3) of the Railroad Retirement Act of 1974.
 
@@ -158,55 +158,55 @@ A prior section 86 was renumbered section 87 of this title.
 
 #### Amendments ####
 
-**2004**—Subsec. (b)(2)(A). Pub. L. 108–357 inserted “199,” before “221”.
+**2004**—Subsec. (b)(2)(A). Pub. L. 108–357 inserted "199," before "221".
 
-**2001**—Subsec. (b)(2)(A). Pub. L. 107–16 inserted “222,” after “221,”.
+**2001**—Subsec. (b)(2)(A). Pub. L. 107–16 inserted "222," after "221,".
 
-**1998**—Subsec. (b)(2)(A). Pub. L. 105–277 inserted “221,” after “137,”.
+**1998**—Subsec. (b)(2)(A). Pub. L. 105–277 inserted "221," after "137,".
 
-**1996**—Subsec. (b)(2). Pub. L. 104–188, §1704(t)(3), substituted “means adjusted” for “means adusted” in introductory provisions.
+**1996**—Subsec. (b)(2). Pub. L. 104–188, §1704(t)(3), substituted "means adjusted" for "means adusted" in introductory provisions.
 
-Subsec. (b)(2)(A). Pub. L. 104–188, §1807(c)(2), inserted “137,” before “911”.
+Subsec. (b)(2)(A). Pub. L. 104–188, §1807(c)(2), inserted "137," before "911".
 
-**1994**—Subsec. (d)(1). Pub. L. 103–296 struck out at end “For purposes of the preceding sentence, the amount received by any taxpayer shall be determined as if the Social Security Act did not contain section 203(i) thereof.”
+**1994**—Subsec. (d)(1). Pub. L. 103–296 struck out at end "For purposes of the preceding sentence, the amount received by any taxpayer shall be determined as if the Social Security Act did not contain section 203(i) thereof."
 
-**1993**—Subsec. (a). Pub. L. 103–66, §13215(a), designated existing provisions as par. (1), inserted par. (1) heading, substituted “Except as provided in paragraph (2), gross” for “Gross”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+**1993**—Subsec. (a). Pub. L. 103–66, §13215(a), designated existing provisions as par. (1), inserted par. (1) heading, substituted "Except as provided in paragraph (2), gross" for "Gross", redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
-Subsec. (c). Pub. L. 103–66, §13215(b), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘base amount’ means—
+Subsec. (c). Pub. L. 103–66, §13215(b), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "For purposes of this section, the term 'base amount' means—
 
-“(1) except as otherwise provided in this subsection, $25,000,
+"(1) except as otherwise provided in this subsection, $25,000,
 
-“(2) $32,000, in the case of a joint return, and
+"(2) $32,000, in the case of a joint return, and
 
-“(3) zero, in the case of a taxpayer who—
+"(3) zero, in the case of a taxpayer who—
 
-“(A) is married at the close of the taxable year (within the meaning of section 7703) but does not file a joint return for such year, and
+"(A) is married at the close of the taxable year (within the meaning of section 7703) but does not file a joint return for such year, and
 
-“(B) does not live apart from his spouse at all times during the taxable year.”
+"(B) does not live apart from his spouse at all times during the taxable year."
 
-**1988**—Subsec. (b)(2)(A). Pub. L. 100–647, §6009(c)(1), inserted “135,” before “911”.
+**1988**—Subsec. (b)(2)(A). Pub. L. 100–647, §6009(c)(1), inserted "135," before "911".
 
-Subsec. (f)(4), (5). Pub. L. 100–647, §1001(e), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “section 221(b)(2) (defining earned income), and”.
+Subsec. (f)(4), (5). Pub. L. 100–647, §1001(e), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: "section 221(b)(2) (defining earned income), and".
 
-**1986**—Subsec. (b)(2)(A). Pub. L. 99–514, §131(b)(2), substituted “sections” for “sections 221,”.
+**1986**—Subsec. (b)(2)(A). Pub. L. 99–514, §131(b)(2), substituted "sections" for "sections 221,".
 
-Subsec. (c)(3)(A). Pub. L. 99–514, §1301(j)(8), substituted “section 7703” for “section 143”.
+Subsec. (c)(3)(A). Pub. L. 99–514, §1301(j)(8), substituted "section 7703" for "section 143".
 
-Subsec. (d)(4). Pub. L. 99–272, §13204(a), in amending par. (4) generally, designated existing provisions as introductory clause of par. (4), struck out “a monthly benefit under section 3(a), 3(f)(3), 4(a), or 4(f) of the Railroad Retirement Act of 1974”, and added cls. (A) and (B).
+Subsec. (d)(4). Pub. L. 99–272, §13204(a), in amending par. (4) generally, designated existing provisions as introductory clause of par. (4), struck out "a monthly benefit under section 3(a), 3(f)(3), 4(a), or 4(f) of the Railroad Retirement Act of 1974", and added cls. (A) and (B).
 
 Subsec. (d)(5). Pub. L. 99–272, §12111(b), added par. (5).
 
-Subsec. (f)(1). Pub. L. 99–514, §1847(b)(2), substituted “section 22(c)(3)(A)” for “section 37(c)(3)(A)”.
+Subsec. (f)(1). Pub. L. 99–514, §1847(b)(2), substituted "section 22(c)(3)(A)" for "section 37(c)(3)(A)".
 
 **1984**—Subsec. (f)(1). Pub. L. 98–369, §2661(o)(1), added par. (1). Former par. (1) redesignated par. (2).
 
-Pub. L. 98–369, §474(r)(2), substituted “section 32(c)(2)” for “section 43(c)(2)”.
+Pub. L. 98–369, §474(r)(2), substituted "section 32(c)(2)" for "section 43(c)(2)".
 
 Subsec. (f)(2)–(5). Pub. L. 98–369, §2661(o)(1), redesignated pars. (1) to (4) as (2) to (5), respectively.
 
-**1983**—Subsec. (a). Pub. L. 98–21, §335(b)(2)(A), inserted “(notwithstanding section 207 of the Social Security Act)”.
+**1983**—Subsec. (a). Pub. L. 98–21, §335(b)(2)(A), inserted "(notwithstanding section 207 of the Social Security Act)".
 
-Subsec. (d)(4). Pub. L. 98–76 inserted “3(f)(3),” after “3(a),”.
+Subsec. (d)(4). Pub. L. 98–76 inserted "3(f)(3)," after "3(a),".
 
 #### Effective Date of 2004 Amendment ####
 
@@ -218,7 +218,7 @@ Amendment by Pub. L. 107–16 applicable to payments made in taxable years begin
 
 #### Effective Date of 1998 Amendment ####
 
-Pub. L. 105–277, div. J, title IV, §4003(l), Oct. 21, 1998, 112 Stat. 2681–910, provided that: “The amendments made by this section [amending this section and sections 135, 137, 163, 172, 219, 221, 264, 351, 368, 469, 954, 2001, 6311, 6404, and 9510 of this title and amending provisions set out as a note under section 7508A of this title] shall take effect as if included in the provisions of the 1997 Act [Pub. L. 105–34] to which they relate.”
+Pub. L. 105–277, div. J, title IV, §4003(l), Oct. 21, 1998, 112 Stat. 2681–910, provided that: "The amendments made by this section [amending this section and sections 135, 137, 163, 172, 219, 221, 264, 351, 368, 469, 954, 2001, 6311, 6404, and 9510 of this title and amending provisions set out as a note under section 7508A of this title] shall take effect as if included in the provisions of the 1997 Act [Pub. L. 105–34] to which they relate."
 
 #### Effective Date of 1996 Amendment ####
 
@@ -226,17 +226,17 @@ Amendment by section 1807(c)(2) of Pub. L. 104–188 applicable to taxable years
 
 #### Effective Date of 1994 Amendment ####
 
-Pub. L. 103–296, title III, §309(e)(2), Aug. 15, 1994, 108 Stat. 1524, provided that: “The amendment made by subsection (d) [amending this section] shall apply with respect to benefits received after December 31, 1995, in taxable years ending after such date.”
+Pub. L. 103–296, title III, §309(e)(2), Aug. 15, 1994, 108 Stat. 1524, provided that: "The amendment made by subsection (d) [amending this section] shall apply with respect to benefits received after December 31, 1995, in taxable years ending after such date."
 
 #### Effective Date of 1993 Amendment ####
 
-Pub. L. 103–66, title XIII, §13215(d), Aug. 10, 1993, 107 Stat. 477, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply to taxable years beginning after December 31, 1993.”
+Pub. L. 103–66, title XIII, §13215(d), Aug. 10, 1993, 107 Stat. 477, provided that: "The amendments made by subsections (a) and (b) [amending this section] shall apply to taxable years beginning after December 31, 1993."
 
 #### Effective Date of 1988 Amendment ####
 
 Amendment by section 1001(e) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title VI, §6009(d), Nov. 10, 1988, 102 Stat. 3690, provided that: “The amendments made by this section [enacting section 135 of this title, amending this section and sections 219 and 469 of this title, and renumbering former section 135 as section 136 of this title] shall apply to taxable years beginning after December 31, 1989.”
+Pub. L. 100–647, title VI, §6009(d), Nov. 10, 1988, 102 Stat. 3690, provided that: "The amendments made by this section [enacting section 135 of this title, amending this section and sections 219 and 469 of this title, and renumbering former section 135 as section 136 of this title] shall apply to taxable years beginning after December 31, 1989."
 
 #### Effective Date of 1986 Amendment ####
 
@@ -248,7 +248,7 @@ Amendment by section 1847(b)(2) of Pub. L. 99–514 effective, except as otherwi
 
 Amendment by section 12111(b) of Pub. L. 99–272 applicable with respect to benefit checks issued for months ending after Apr. 7, 1986, see section 12111(c) of Pub. L. 99–272, set out as a note under section 909 of Title 42, The Public Health and Welfare.
 
-Pub. L. 99–272, title XIII, §13204(b), Apr. 7, 1986, 100 Stat. 313, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any monthly benefit for which the generally applicable payment date is after December 31, 1985.”
+Pub. L. 99–272, title XIII, §13204(b), Apr. 7, 1986, 100 Stat. 313, provided that: "The amendment made by subsection (a) [amending this section] shall apply to any monthly benefit for which the generally applicable payment date is after December 31, 1985."
 
 #### Effective Date of 1984 Amendment ####
 
@@ -264,9 +264,9 @@ Amendment by Pub. L. 98–76 applicable to benefits received after Dec. 31, 1983
 
 Pub. L. 98–21, title I, §121(g), Apr. 20, 1983, 97 Stat. 84, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1) In general.—Except as provided in paragraph (2), the amendments made by this section [enacting this section and section 6050F of this title, amending sections 85, 128, 861, 871, 1441, and 6103 of this title and section 3413 of Title 12, Banks and Banking, and enacting provisions set out as a note under section 401 of Title 42, The Public Health and Welfare] shall apply to benefits received after December 31, 1983, in taxable years ending after such date.
+"(1) In general.—Except as provided in paragraph (2), the amendments made by this section [enacting this section and section 6050F of this title, amending sections 85, 128, 861, 871, 1441, and 6103 of this title and section 3413 of Title 12, Banks and Banking, and enacting provisions set out as a note under section 401 of Title 42, The Public Health and Welfare] shall apply to benefits received after December 31, 1983, in taxable years ending after such date.
 
-“(2) Treatment of certain lump-sum payments received after december 31, 1983.—The amendments made by this section shall not apply to any portion of a lump-sum payment of social security benefits (as defined in section 86(d) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]) received after December 31, 1983, if the generally applicable payment date for such portion was before January 1, 1984.”
+"(2) Treatment of certain lump-sum payments received after december 31, 1983.—The amendments made by this section shall not apply to any portion of a lump-sum payment of social security benefits (as defined in section 86(d) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]) received after December 31, 1983, if the generally applicable payment date for such portion was before January 1, 1984."
 
 #### Plan Amendments Not Required Until January 1, 1989 ####
 

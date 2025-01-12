@@ -8,6 +8,6 @@
 
 #### Amendments ####
 
-**1988**—Subsec. (a). Pub. L. 100–301, §7(1), designated existing provisions as subsec. (a), substituted “Except as provided in subsection (b) of this section, there” for “There”, and added subsec. (b).
+**1988**—Subsec. (a). Pub. L. 100–301, §7(1), designated existing provisions as subsec. (a), substituted "Except as provided in subsection (b) of this section, there" for "There", and added subsec. (b).
 
 **1978**—Pub. L. 95–625 increased land acquisition appropriations authorization to $156,700,000 from $116,000,000.

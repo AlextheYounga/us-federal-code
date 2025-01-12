@@ -16,4 +16,4 @@ The Historic Preservation Act, referred to in text, probably means Pub. L. 89–
 
 **1978**—Pub. L. 95–348 substituted provisions authorizing appropriations for acquisition of lands and interests in lands in the Park, provisions for acquisitions of land on Hassel Island, and provisions authorizing appropriations for restoration and rehabilitation of historic structures, etc., on Hassel Island and as a grant for the Territory, for provisions authorizing appropriations of not more than $12,250,000 for acquisition of lands pursuant to section 398d of this title.
 
-**1974**—Pub. L. 93–477 substituted “$12,250,000” for “$1,250,000”.
+**1974**—Pub. L. 93–477 substituted "$12,250,000" for "$1,250,000".

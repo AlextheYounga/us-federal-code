@@ -14,9 +14,9 @@
 
 **1983**—Par. (1). Pub. L. 97–444 made the antifraud prohibition applicable to an associated person of a commodity trading advisor or a commodity pool operator.
 
-Par. (2). Pub. L. 97–444 made the misrepresentation prohibition applicable to an associated person of a commodity training advisor or a commodity pool operator, authorized registration statements of such persons, and substituted “such person” and “such person's abilities” for “he” before “has been sponsored” and “his abilities”, respectively.
+Par. (2). Pub. L. 97–444 made the misrepresentation prohibition applicable to an associated person of a commodity training advisor or a commodity pool operator, authorized registration statements of such persons, and substituted "such person" and "such person's abilities" for "he" before "has been sponsored" and "his abilities", respectively.
 
-**1978**—Par. (1). Pub. L. 95–405 struck out “registered under this chapter” after “pool operator”.
+**1978**—Par. (1). Pub. L. 95–405 struck out "registered under this chapter" after "pool operator".
 
 #### Effective Date of 1983 Amendment ####
 

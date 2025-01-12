@@ -28,8 +28,8 @@ Remedies provided in this section are in addition to, and not in lieu of, any ot
 
 #### Effective Date ####
 
-Pub. L. 93–637, title II, §206(b), Jan. 4, 1975, 88 Stat. 2202, provided that: “The amendment made by subsection (a) of this section [enacting this section] shall not apply to—
+Pub. L. 93–637, title II, §206(b), Jan. 4, 1975, 88 Stat. 2202, provided that: "The amendment made by subsection (a) of this section [enacting this section] shall not apply to—
 
-“(1) any violation of a rule to the extent that such violation occurred before the date of enactment of this Act [Jan. 4, 1975], or
+"(1) any violation of a rule to the extent that such violation occurred before the date of enactment of this Act [Jan. 4, 1975], or
 
-“(2) any act or practice with respect to which the Commission issues a cease-and-desist order, to the extent that such act or practice occurred before the date of enactment of this Act [Jan. 4, 1975], unless such order was issued after such date and the person, partnership or corporation against whom such an order was issued had been notified in the complaint, or in the notice or order attached thereto, that consumer redress may be sought.”
+"(2) any act or practice with respect to which the Commission issues a cease-and-desist order, to the extent that such act or practice occurred before the date of enactment of this Act [Jan. 4, 1975], unless such order was issued after such date and the person, partnership or corporation against whom such an order was issued had been notified in the complaint, or in the notice or order attached thereto, that consumer redress may be sought."

@@ -26,16 +26,16 @@ After publication of the roll in the Federal Register, the membership of the tri
 
 #### Amendments ####
 
-**1988**—Subsec. (b). Pub. L. 100–446 inserted “Cow Creek descendants or other” before “Indian individuals”.
+**1988**—Subsec. (b). Pub. L. 100–446 inserted "Cow Creek descendants or other" before "Indian individuals".
 
 **1987**—Pub. L. 100–139 amended section generally. Prior to amendment, section read as follows:
 
-“(a) Membership in the tribe shall consist of every individual—
+"(a) Membership in the tribe shall consist of every individual—
 
-“(1) whose name appears on the tribal roll in effect on December 29, 1982; or
+"(1) whose name appears on the tribal roll in effect on December 29, 1982; or
 
-“(2) who is a descendant of any individual described in paragraph (1).
+"(2) who is a descendant of any individual described in paragraph (1).
 
-“(b) Membership in the tribe pursuant to subsection (a) of this section shall not entitle an individual, who is not otherwise entitled, to participate in any distribution of funds pursuant to a judgment under the Act approved May 26, 1980 (94 Stat. 372).”
+"(b) Membership in the tribe pursuant to subsection (a) of this section shall not entitle an individual, who is not otherwise entitled, to participate in any distribution of funds pursuant to a judgment under the Act approved May 26, 1980 (94 Stat. 372)."
 
-[<sup>1</sup> So in original. Probably should be paragraph “(3)”.](#712c_1)
+[<sup>1</sup> So in original. Probably should be paragraph "(3)".](#712c_1)

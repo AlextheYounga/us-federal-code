@@ -21,7 +21,7 @@ Chap. Sec.
 
 #### Positive Law; Citation ####
 
-This title has been made positive law by section 1 of act July 30, 1947, ch. 389, 61 Stat. 641, which provided in part that: “title 4 of the United States Code, entitled ‘Flag and seal, Seat of Government, and the States’, is codified and enacted into positive law and may be cited as ‘4 U. S. C., §—’ ”.
+This title has been made positive law by section 1 of act July 30, 1947, ch. 389, 61 Stat. 641, which provided in part that: "title 4 of the United States Code, entitled 'Flag and seal, Seat of Government, and the States', is codified and enacted into positive law and may be cited as '4 U. S. C., §—' ".
 
 #### Repeals ####
 

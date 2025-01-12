@@ -2,7 +2,7 @@
 
 #### (a) Authorization of vote; payment to Fund ####
 
-The United States Governor of the Bank is hereby authorized to vote in favor of the resolution entitled “Increase of Resources of the Fund for Special Operations” proposed by the Governors at their annual meeting in April 1964, and now pending before the Board of Governors of the Bank. Upon the adoption of such resolution, the United States Governor is authorized to agree, on behalf of the United States to pay to the Fund for Special Operations of the Bank, the sum of $750,000,000, in accordance with and subject to the terms and conditions of such resolution.
+The United States Governor of the Bank is hereby authorized to vote in favor of the resolution entitled "Increase of Resources of the Fund for Special Operations" proposed by the Governors at their annual meeting in April 1964, and now pending before the Board of Governors of the Bank. Upon the adoption of such resolution, the United States Governor is authorized to agree, on behalf of the United States to pay to the Fund for Special Operations of the Bank, the sum of $750,000,000, in accordance with and subject to the terms and conditions of such resolution.
 
 #### (b) Authorization of appropriations ####
 

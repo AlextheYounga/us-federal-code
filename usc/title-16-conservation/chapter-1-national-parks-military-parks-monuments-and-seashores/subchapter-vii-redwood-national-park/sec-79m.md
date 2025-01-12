@@ -16,19 +16,19 @@
 
 #### References in Text ####
 
-Section 79c(b)(1) of this title, referred to in subsec. (a), was in the original “section 101(a)(4) . . . of this amendment”, meaning section 101(a)(4) of Pub. L. 95–250, which amended section 79c(b)(1) of this title.
+Section 79c(b)(1) of this title, referred to in subsec. (a), was in the original "section 101(a)(4) . . . of this amendment", meaning section 101(a)(4) of Pub. L. 95–250, which amended section 79c(b)(1) of this title.
 
-Section 79b of this title, referred to in subsec. (a), was in the original “section 101(a)(2) of this amendment”, meaning section 101(a)(2) of Pub. L. 95–250, which amended subsecs. (a) and (b), and added subsec. (c), of section 79b of this title.
+Section 79b of this title, referred to in subsec. (a), was in the original "section 101(a)(2) of this amendment", meaning section 101(a)(2) of Pub. L. 95–250, which amended subsecs. (a) and (b), and added subsec. (c), of section 79b of this title.
 
-Section 79c(e) of this title, referred to in subsec. (a), was in the original “section 101(a)(6) . . . of this amendment”, meaning section 101(a)(6) of Pub. L. 95–250, which amended section 79c(e) of this title.
+Section 79c(e) of this title, referred to in subsec. (a), was in the original "section 101(a)(6) . . . of this amendment", meaning section 101(a)(6) of Pub. L. 95–250, which amended section 79c(e) of this title.
 
-Section 79k(b) of this title, referred to in subsec. (a), was in the original “section 102(b) of this amendment”, meaning section 102(b) of Pub. L. 95–250, which enacted section 79k(b) of this title.
+Section 79k(b) of this title, referred to in subsec. (a), was in the original "section 102(b) of this amendment", meaning section 102(b) of Pub. L. 95–250, which enacted section 79k(b) of this title.
 
 This Act, referred to in subsec. (a), means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, as amended, which, insofar as classified to the Code, enacted sections 79c–1, 79k to 79q of this title, amended sections 1a–1, 79b, and 79c of this title, and enacted provisions set out as a note under section 79k of this title. For complete classification of this Act to the Code, see Tables.
 
-Section 79l of this title, referred to in subsec. (a), was in the original “section 102 of this amendment”, meaning section 103 of Pub. L. 95–250, which enacted section 79l of this title.
+Section 79l of this title, referred to in subsec. (a), was in the original "section 102 of this amendment", meaning section 103 of Pub. L. 95–250, which enacted section 79l of this title.
 
-Section 79c(b)(2) of this title, referred to in subsec. (a), was in the original “section 101(a)(5) of this amendment”, meaning section 101(a)(5) of Pub. L. 95–250, which amended section 79c(b)(2) of this title.
+Section 79c(b)(2) of this title, referred to in subsec. (a), was in the original "section 101(a)(5) of this amendment", meaning section 101(a)(5) of Pub. L. 95–250, which amended section 79c(b)(2) of this title.
 
 #### Codification ####
 
@@ -42,4 +42,4 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 
 Reference to Secretary, unless otherwise indicated, as reference to Secretary of Department of the Interior, see section 109 of Pub. L. 95–250, set out as a note under section 79k of this title.
 
-[<sup>1</sup> So in original. Probably should be “the”.](#79m_1)
+[<sup>1</sup> So in original. Probably should be "the".](#79m_1)

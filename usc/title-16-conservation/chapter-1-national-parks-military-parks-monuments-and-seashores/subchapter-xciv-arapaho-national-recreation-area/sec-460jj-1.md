@@ -1,10 +1,10 @@
 ### §460jj–1. Land acquisition ###
 
-#### (a) Determination of necessity; “scenic easement” defined ####
+#### (a) Determination of necessity; "scenic easement" defined ####
 
 (1) The Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, exchange, or bequest, any lands or lesser interests therein, including mineral interests and scenic easements, which the Secretary determines are needed to establish and manage the Arapaho National Recreation Area. In determining what private property is needed to establish and manage the Arapaho National Recreation Area the Secretary shall utilize the approved county zoning plan to identify those properties whose use or intended use is not in conformance with the overall intent of this subchapter.
 
-(2) As used in this section, the term “scenic easement” means the right to control the use of land in order to carry out this subchapter, but shall not preclude the continuation of any use that is compatible with the overall management plan for the Arapaho National Recreation Area developed pursuant to subsection (c) of section 460jj of this title.
+(2) As used in this section, the term "scenic easement" means the right to control the use of land in order to carry out this subchapter, but shall not preclude the continuation of any use that is compatible with the overall management plan for the Arapaho National Recreation Area developed pursuant to subsection (c) of section 460jj of this title.
 
 #### (b) Privately owned land ####
 
@@ -26,4 +26,4 @@ Notwithstanding any other provision of law, any Federal lands or interests in la
 
 #### References in Text ####
 
-This subchapter, referred to in subsecs. (a) and (e), was in the original “this Act”, meaning Pub. L. 95–450, Oct. 11, 1978, 92 Stat. 1095, which enacted this subchapter and enacted provisions set out as notes under sections 460jj and 1132 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460jj of this title and Tables.
+This subchapter, referred to in subsecs. (a) and (e), was in the original "this Act", meaning Pub. L. 95–450, Oct. 11, 1978, 92 Stat. 1095, which enacted this subchapter and enacted provisions set out as notes under sections 460jj and 1132 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460jj of this title and Tables.

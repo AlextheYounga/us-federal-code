@@ -12,4 +12,4 @@ In order to provide for the proper development and maintenance of the park, the 
 
 #### Amendments ####
 
-**1970**—Pub. L. 91–554 substituted “Wilson's Creek National Battlefield” for “Wilson's Creek Battlefield National Park”.
+**1970**—Pub. L. 91–554 substituted "Wilson's Creek National Battlefield" for "Wilson's Creek Battlefield National Park".

@@ -4,7 +4,7 @@
 
 #### (b) Highly migratory species research and monitoring ####
 
-(1) Within 6 months after November 3, 1995, the Secretary of Commerce, in cooperation with the advisory committee established under section 4 of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971b) and in consultation with the United States Commissioners on the International Commission for the Conservation of Atlantic Tunas (referred to elsewhere in this section as the “Commission”) and the Secretary of State, shall develop and implement a comprehensive research and monitoring program to support the conservation and management of Atlantic bluefin tuna and other highly migratory species that shall—
+(1) Within 6 months after November 3, 1995, the Secretary of Commerce, in cooperation with the advisory committee established under section 4 of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971b) and in consultation with the United States Commissioners on the International Commission for the Conservation of Atlantic Tunas (referred to elsewhere in this section as the "Commission") and the Secretary of State, shall develop and implement a comprehensive research and monitoring program to support the conservation and management of Atlantic bluefin tuna and other highly migratory species that shall—
 
 (A) identify and define the range of stocks of highly migratory species in the Atlantic Ocean, including Atlantic bluefin tuna; and
 
@@ -56,6 +56,6 @@ Section was not enacted as part of the Atlantic Tunas Convention Act of 1975 whi
 
 **2007**—Subsec. (b)(2)(H), (I). Pub. L. 109–479 added subpar. (H) and redesignated former subpar. (H) as (I).
 
-**1998**—Subsec. (b)(3)(B). Pub. L. 105–384 inserted “of 1975” after “Act”.
+**1998**—Subsec. (b)(3)(B). Pub. L. 105–384 inserted "of 1975" after "Act".
 
-**1995**—Pub. L. 104–43 amended section catchline generally, designated existing provisions as subsec. (a), inserted heading, struck out last sentence which read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out this section.”, and added subsec. (b).
+**1995**—Pub. L. 104–43 amended section catchline generally, designated existing provisions as subsec. (a), inserted heading, struck out last sentence which read as follows: "There are authorized to be appropriated such sums as may be necessary to carry out this section.", and added subsec. (b).

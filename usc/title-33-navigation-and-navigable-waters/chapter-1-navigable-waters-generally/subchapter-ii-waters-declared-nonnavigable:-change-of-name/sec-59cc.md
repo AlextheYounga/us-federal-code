@@ -92,9 +92,9 @@ The declaration made in subsection (a) of this section shall expire—
 
 (2) on the date which is 20 years after December 18, 1991, for any portion of the area described in subsection (b) of this section which on such date is not bulkheaded, filled, or occupied by a permanent structure (including docking facilities).
 
-#### (f) “Proposed project” defined ####
+#### (f) "Proposed project" defined ####
 
-For the purposes of this section, the term “proposed project” means any project for the rehabilitation and development of—
+For the purposes of this section, the term "proposed project" means any project for the rehabilitation and development of—
 
 (1) the structure located in the area described in subsection (b) of this section, commonly referred to as Pier A; and
 

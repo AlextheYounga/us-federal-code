@@ -8,7 +8,7 @@ A duly appointed agent to receive, in behalf of the United States, the delivery,
 
 Based on title 18, U.S.C., 1940 ed., §660 (R.S. §5276).
 
-Words “jurisdiction of the” were omitted in view of the definition of United States in section 5 of this title.
+Words "jurisdiction of the" were omitted in view of the definition of United States in section 5 of this title.
 
 Minor changes only were made in phraseology.
 

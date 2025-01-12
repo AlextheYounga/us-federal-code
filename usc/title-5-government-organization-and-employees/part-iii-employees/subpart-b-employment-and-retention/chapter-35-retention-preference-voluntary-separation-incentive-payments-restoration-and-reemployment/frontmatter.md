@@ -72,9 +72,9 @@ Pub. L. 108–458, title II, §2004(b), Dec. 17, 2004, 118 Stat. 3704, added ite
 
 Pub. L. 108–447, div. B, title I, §114(b), Dec. 8, 2004, 118 Stat. 2869, added item 3598, set out first.
 
-**2002**—Pub. L. 107–296, title XIII, §1313(a)(1)(B), Nov. 25, 2002, 116 Stat. 2294, substituted “RETENTION PREFERENCE, VOLUNTARY SEPARATION INCENTIVE PAYMENTS, RESTORATION, AND REEMPLOYMENT” for “RETENTION PREFERENCE, RESTORATION, AND REEMPLOYMENT” in chapter heading and added item for subchapter II and items 3521 to 3525.
+**2002**—Pub. L. 107–296, title XIII, §1313(a)(1)(B), Nov. 25, 2002, 116 Stat. 2294, substituted "RETENTION PREFERENCE, VOLUNTARY SEPARATION INCENTIVE PAYMENTS, RESTORATION, AND REEMPLOYMENT" for "RETENTION PREFERENCE, RESTORATION, AND REEMPLOYMENT" in chapter heading and added item for subchapter II and items 3521 to 3525.
 
-**1994**—Pub. L. 103–353, §2(b)(2)(C), Oct. 13, 1994, 108 Stat. 3169, struck out item for subchapter II “RESTORATION AFTER ACTIVE DUTY OR TRAINING DUTY” and item 3551 “Restoration; Reserves and National Guardsmen”.
+**1994**—Pub. L. 103–353, §2(b)(2)(C), Oct. 13, 1994, 108 Stat. 3169, struck out item for subchapter II "RESTORATION AFTER ACTIVE DUTY OR TRAINING DUTY" and item 3551 "Restoration; Reserves and National Guardsmen".
 
 **1984**—Pub. L. 98–615, title III, §306(c)(2), Nov. 8, 1984, 98 Stat. 3220, added item 3595a.
 
@@ -84,6 +84,6 @@ Pub. L. 108–447, div. B, title I, §114(b), Dec. 8, 2004, 118 Stat. 2869, adde
 
 **1978**—Pub. L. 95–454, title IV, §404(c), Oct. 13, 1978, 92 Stat. 1167, added item for subchapter V and items 3591 to 3595.
 
-[<sup>1</sup> So in original. Two sections “3598” have been enacted.](#CHAPTER35_1)
+[<sup>1</sup> So in original. Two sections "3598" have been enacted.](#CHAPTER35_1)
 
 [<sup>2</sup> So in original. Does not conform to section catchline.](#CHAPTER35_2)

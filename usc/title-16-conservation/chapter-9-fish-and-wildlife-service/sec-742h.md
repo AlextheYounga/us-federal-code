@@ -18,7 +18,7 @@ Section 1364 of title 19, referred to in subsec. (b), was repealed by Pub. L. 87
 
 **1980**—Subsec. (a). Pub. L. 96–470 struck out subsec. (a) which required Secretary of the Interior to make an annual report to Congress with respect to activities of United States Fish and Wildlife Service under this Act, accompanied by appropriate legislative recommendations.
 
-**1975**—Subsec. (b). Pub. L. 93–618 substituted “United States International Trade Commission” for “United States Tariff Commission”.
+**1975**—Subsec. (b). Pub. L. 93–618 substituted "United States International Trade Commission" for "United States Tariff Commission".
 
 #### Transfer of Functions ####
 

@@ -60,7 +60,7 @@ No action may be brought under this section more than 5 years after the date of 
 
 #### (e) Definition ####
 
-For purposes of this section, “profit gained” or “loss avoided” is the difference between the purchase or sale price of the security and the value of that security as measured by the trading price of the security a reasonable period after public dissemination of the nonpublic information.
+For purposes of this section, "profit gained" or "loss avoided" is the difference between the purchase or sale price of the security and the value of that security as measured by the trading price of the security a reasonable period after public dissemination of the nonpublic information.
 
 #### (f) Limitation on Commission authority ####
 
@@ -76,9 +76,9 @@ Subject to the rule of construction under section 10 of the STOCK Act and solely
 
 In this subsection—
 
-(A) the term “Member of Congress” means a member of the Senate or House of Representatives, a Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico; and
+(A) the term "Member of Congress" means a member of the Senate or House of Representatives, a Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico; and
 
-(B) the term “employee of Congress” means—
+(B) the term "employee of Congress" means—
 
 (i) any individual (other than a Member of Congress), whose compensation is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives; and
 
@@ -98,9 +98,9 @@ Subject to the rule of construction under section 10 of the STOCK Act and solely
 
 In this subsection—
 
-(A) the term “executive branch employee”—
+(A) the term "executive branch employee"—
 
-(i) has the meaning given the term “employee” under section 2105 of title 5;
+(i) has the meaning given the term "employee" under section 2105 of title 5;
 
 (ii) includes—
 
@@ -110,9 +110,9 @@ In this subsection—
 
 (III) an employee of the United States Postal Service or the Postal Regulatory Commission;
 
-(B) the term “judicial employee” has the meaning given that term in section 109(8) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(8)); and
+(B) the term "judicial employee" has the meaning given that term in section 109(8) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(8)); and
 
-(C) the term “judicial officer” has the meaning given that term under section 109(10) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(10)).
+(C) the term "judicial officer" has the meaning given that term under section 109(10) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(10)).
 
 #### (3) Rule of construction ####
 
@@ -130,7 +130,7 @@ Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII 
 
 #### References in Text ####
 
-This chapter, referred to in subsecs. (a) and (d)(4), (5), was in the original “this title”, and this chapter, referred to in subsecs. (g)(1) and (h)(1), was in the original “this Act”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a) and (d)(4), (5), was in the original "this title", and this chapter, referred to in subsecs. (g)(1) and (h)(1), was in the original "this Act". See References in Text note set out under section 78a of this title.
 
 Subsec. (f) of section 78o of this title, referred to in subsec. (b)(1)(B), was redesignated (g) by Pub. L. 111–203, title IX, §929X(c)(1), July 21, 2010, 124 Stat. 1870.
 
@@ -148,27 +148,27 @@ Subsec. (h). Pub. L. 112–105, §9(b)(2)(B), added subsec. (h).
 
 Subsec. (i). Pub. L. 112–105, §12, added subsec (i).
 
-**2010**—Subsec. (a)(1). Pub. L. 111–203, §762(d)(7)(A), struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreement” in introductory provisions.
+**2010**—Subsec. (a)(1). Pub. L. 111–203, §762(d)(7)(A), struck out "(as defined in section 206B of the Gramm-Leach-Bliley Act)" after "security-based swap agreement" in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 111–203, §923(b)(2)(A), struck out “(subject to subsection (e) of this section)” after “shall” and inserted “and section 78u–6 of this title” after “section 7246 of this title”.
+Subsec. (d)(1). Pub. L. 111–203, §923(b)(2)(A), struck out "(subject to subsection (e) of this section)" after "shall" and inserted "and section 78u–6 of this title" after "section 7246 of this title".
 
-Subsec. (e). Pub. L. 111–203, §923(b)(2)(B), (C), redesignated subsec. (f) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “Notwithstanding the provisions of subsection (d)(1) of this section, there shall be paid from amounts imposed as a penalty under this section and recovered by the Commission or the Attorney General, such sums, not to exceed 10 percent of such amounts, as the Commission deems appropriate, to the person or persons who provide information leading to the imposition of such penalty. Any determinations under this subsection, including whether, to whom, or in what amount to make payments, shall be in the sole discretion of the Commission, except that no such payment shall be made to any member, officer, or employee of any appropriate regulatory agency, the Department of Justice, or a self-regulatory organization. Any such determination shall be final and not subject to judicial review.”
+Subsec. (e). Pub. L. 111–203, §923(b)(2)(B), (C), redesignated subsec. (f) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: "Notwithstanding the provisions of subsection (d)(1) of this section, there shall be paid from amounts imposed as a penalty under this section and recovered by the Commission or the Attorney General, such sums, not to exceed 10 percent of such amounts, as the Commission deems appropriate, to the person or persons who provide information leading to the imposition of such penalty. Any determinations under this subsection, including whether, to whom, or in what amount to make payments, shall be in the sole discretion of the Commission, except that no such payment shall be made to any member, officer, or employee of any appropriate regulatory agency, the Department of Justice, or a self-regulatory organization. Any such determination shall be final and not subject to judicial review."
 
 Subsec. (f). Pub. L. 111–203, §923(b)(2)(C), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Pub. L. 111–203, §762(d)(7)(B), which directed amendment of subsec. (g) by striking out “(as defined in section 206B of the Gramm-Leach-Bliley Act)”, was executed by making the strike out after “security-based swap agreements” in subsec. (f), to reflect the probable intent of Congress and the redesignation of subsec. (g) as (f) by Pub. L. 111–203, §923(b)(2)(C). See above and Effective Date of 2010 Amendment note below.
+Pub. L. 111–203, §762(d)(7)(B), which directed amendment of subsec. (g) by striking out "(as defined in section 206B of the Gramm-Leach-Bliley Act)", was executed by making the strike out after "security-based swap agreements" in subsec. (f), to reflect the probable intent of Congress and the redesignation of subsec. (g) as (f) by Pub. L. 111–203, §923(b)(2)(C). See above and Effective Date of 2010 Amendment note below.
 
 Subsec. (g). Pub. L. 111–203, §923(b)(2)(C), redesignated subsec. (g) as (f).
 
-**2002**—Subsec. (d)(1). Pub. L. 107–204 inserted “, except as otherwise provided in section 7246 of this title” before period at end.
+**2002**—Subsec. (d)(1). Pub. L. 107–204 inserted ", except as otherwise provided in section 7246 of this title" before period at end.
 
-**2000**—Subsec. (a)(1). Pub. L. 106–554, §1(a)(5) [title III, §303(k)], inserted “or security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act)” after “purchasing or selling a security” in introductory provisions.
+**2000**—Subsec. (a)(1). Pub. L. 106–554, §1(a)(5) [title III, §303(k)], inserted "or security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act)" after "purchasing or selling a security" in introductory provisions.
 
-Pub. L. 106–554, §1(a)(5) [title II, §205(a)(4)], substituted “standardized options or security futures products, the Commission—” for “standardized options, the Commission—” in introductory provisions.
+Pub. L. 106–554, §1(a)(5) [title II, §205(a)(4)], substituted "standardized options or security futures products, the Commission—" for "standardized options, the Commission—" in introductory provisions.
 
 Subsec. (g). Pub. L. 106–554, §1(a)(5) [title III, §303(l)], added subsec. (g).
 
-**1990**—Pub. L. 101–429 inserted “for insider trading” in section catchline.
+**1990**—Pub. L. 101–429 inserted "for insider trading" in section catchline.
 
 #### Effective Date of 2010 Amendment ####
 
@@ -186,22 +186,22 @@ Section not applicable to actions occurring before Nov. 19, 1988, see section 9 
 
 #### Affirmation of Duty Of Government Officers and Employees ####
 
-Pub. L. 112–105, §4(b)(1), Apr. 4, 2012, 126 Stat. 292, provided that: “The purpose of the amendment made by this subsection [amending this section] is to affirm a duty arising from a relationship of trust and confidence owed by each Member of Congress and each employee of Congress.”
+Pub. L. 112–105, §4(b)(1), Apr. 4, 2012, 126 Stat. 292, provided that: "The purpose of the amendment made by this subsection [amending this section] is to affirm a duty arising from a relationship of trust and confidence owed by each Member of Congress and each employee of Congress."
 
-Pub. L. 112–105, §9(b)(2)(A), Apr. 4, 2012, 126 Stat. 297, provided that: “The purpose of the amendment made by this paragraph [amending this section] is to affirm a duty arising from a relationship of trust and confidence owed by each executive branch employee, judicial officer, and judicial employee.”
+Pub. L. 112–105, §9(b)(2)(A), Apr. 4, 2012, 126 Stat. 297, provided that: "The purpose of the amendment made by this paragraph [amending this section] is to affirm a duty arising from a relationship of trust and confidence owed by each executive branch employee, judicial officer, and judicial employee."
 
 #### Congressional Findings ####
 
-Pub. L. 100–704, §2, Nov. 19, 1988, 102 Stat. 4677, provided that: “The Congress finds that—
+Pub. L. 100–704, §2, Nov. 19, 1988, 102 Stat. 4677, provided that: "The Congress finds that—
 
-“(1) the rules and regulations of the Securities and Exchange Commission under the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.] governing trading while in possession of material, nonpublic information are, as required by such Act, necessary and appropriate in the public interest and for the protection of investors;
+"(1) the rules and regulations of the Securities and Exchange Commission under the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.] governing trading while in possession of material, nonpublic information are, as required by such Act, necessary and appropriate in the public interest and for the protection of investors;
 
-“(2) the Commission has, within the limits of accepted administrative and judicial construction of such rules and regulations, enforced such rules and regulations vigorously, effectively, and fairly; and
+"(2) the Commission has, within the limits of accepted administrative and judicial construction of such rules and regulations, enforced such rules and regulations vigorously, effectively, and fairly; and
 
-“(3) nonetheless, additional methods are appropriate to deter and prosecute violations of such rules and regulations.”
+"(3) nonetheless, additional methods are appropriate to deter and prosecute violations of such rules and regulations."
 
 #### Commission Recommendations for Additional Civil Penalty Authority Required ####
 
-Pub. L. 100–704, §3(c), Nov. 19, 1988, 102 Stat. 4680, provided that: “The Securities and Exchange Commission shall, within 60 days after the date of enactment of this Act [Nov. 19, 1988], submit to each House of the Congress any recommendations the Commission considers appropriate with respect to the extension of the Commission's authority to seek civil penalties or impose administrative fines for violations other than those described in section 21A of the Securities Exchange Act of 1934 [15 U.S.C. 78u–1] (as added by this section).”
+Pub. L. 100–704, §3(c), Nov. 19, 1988, 102 Stat. 4680, provided that: "The Securities and Exchange Commission shall, within 60 days after the date of enactment of this Act [Nov. 19, 1988], submit to each House of the Congress any recommendations the Commission considers appropriate with respect to the extension of the Commission's authority to seek civil penalties or impose administrative fines for violations other than those described in section 21A of the Securities Exchange Act of 1934 [15 U.S.C. 78u–1] (as added by this section)."
 
 [<sup>1</sup> See References in Text note below.](#78u-1_1)

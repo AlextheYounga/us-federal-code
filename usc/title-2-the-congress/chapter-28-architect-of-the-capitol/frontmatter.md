@@ -130,4 +130,4 @@ Sec.
 
 1870. House Historic Buildings Revitalization Trust Fund.
 
-1871. Expired appropriations available for deposit into Employees’ Compensation Fund.
+1871. Expired appropriations available for deposit into Employees' Compensation Fund.

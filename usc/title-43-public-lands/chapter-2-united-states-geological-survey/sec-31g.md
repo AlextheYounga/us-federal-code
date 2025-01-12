@@ -16,7 +16,7 @@ A prior section 31g, Pub. L. 102–285, §8, May 18, 1992, 106 Stat. 171; Pub. L
 
 #### Amendments ####
 
-**2009**—Pub. L. 111–11 substituted “Not later than 3 years after March 30, 2009, and biennially” for “Not later 3 years after December 9, 1999, and biennially”.
+**2009**—Pub. L. 111–11 substituted "Not later than 3 years after March 30, 2009, and biennially" for "Not later 3 years after December 9, 1999, and biennially".
 
 #### Change of Name ####
 

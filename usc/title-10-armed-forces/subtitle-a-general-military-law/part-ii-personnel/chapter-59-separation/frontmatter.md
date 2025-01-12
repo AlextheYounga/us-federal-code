@@ -48,17 +48,17 @@ Sec.
 
 **2000**—Pub. L. 106–398, §1 [[div. A], title VII, §751(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–193, added item 1178.
 
-**1996**—Pub. L. 104–134, title II, §2707(a)(2), Apr. 26, 1996, 110 Stat. 1321–330, struck out item 1177 “Members infected with HIV–1 virus: mandatory discharge or retirement”.
+**1996**—Pub. L. 104–134, title II, §2707(a)(2), Apr. 26, 1996, 110 Stat. 1321–330, struck out item 1177 "Members infected with HIV–1 virus: mandatory discharge or retirement".
 
-Pub. L. 104–106, div. A, title V, §§563(a)(1)(B), 567(a)(2), Feb. 10, 1996, 110 Stat. 325, 329, added item 1167 and substituted “Members infected with HIV–1 virus: mandatory discharge or retirement” for “Members who are permanently nonworldwide assignable: mandatory discharge or retirement; counseling” in item 1177.
+Pub. L. 104–106, div. A, title V, §§563(a)(1)(B), 567(a)(2), Feb. 10, 1996, 110 Stat. 325, 329, added item 1167 and substituted "Members infected with HIV–1 virus: mandatory discharge or retirement" for "Members who are permanently nonworldwide assignable: mandatory discharge or retirement; counseling" in item 1177.
 
-**1994**—Pub. L. 103–337, div. A, title V, §560(a)(2), title XVI, §1671(b)(10), Oct. 5, 1994, 108 Stat. 2778, 3013, struck out items 1162 “Reserves: discharge” and 1163 “Reserve components: members; limitations on separation” and added item 1177.
+**1994**—Pub. L. 103–337, div. A, title V, §560(a)(2), title XVI, §1671(b)(10), Oct. 5, 1994, 108 Stat. 2778, 3013, struck out items 1162 "Reserves: discharge" and 1163 "Reserve components: members; limitations on separation" and added item 1177.
 
 **1992**—Pub. L. 102–484, div. A, title V, §541(b), Oct. 23, 1992, 106 Stat. 2413, added item 1176.
 
 **1991**—Pub. L. 102–190, div. A, title VI, §§661(a)(2), 662(a)(2), Dec. 5, 1991, 105 Stat. 1395, 1398, added items 1174a and 1175.
 
-**1980**—Pub. L. 96–513, title V, §501(15), Dec. 12, 1980, 94 Stat. 2908, struck out item 1167 “Regular warrant officers: severance pay” and added item 1174.
+**1980**—Pub. L. 96–513, title V, §501(15), Dec. 12, 1980, 94 Stat. 2908, struck out item 1167 "Regular warrant officers: severance pay" and added item 1174.
 
 **1973**—Pub. L. 93–64, title I, §102, July 9, 1973, 87 Stat. 147, added item 1173.
 

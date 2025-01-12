@@ -124,7 +124,7 @@ Of the amounts appropriated for purposes of this subchapter for each fiscal year
 
 #### References in Text ####
 
-January 5, 2006, referred to in subsec. (c)(5), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 109–162, which enacted par. (5) of subsec. (c), to reflect the probable intent of Congress.
+January 5, 2006, referred to in subsec. (c)(5), was in the original "the date of enactment of this section", which was translated as meaning the date of enactment of Pub. L. 109–162, which enacted par. (5) of subsec. (c), to reflect the probable intent of Congress.
 
 #### Prior Provisions ####
 
@@ -132,91 +132,91 @@ A prior section 2101 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 #### Amendments ####
 
-**2013**—Subsec. (b). Pub. L. 113–4, §102(a)(1)(A)(i), in introductory provisions, substituted “grantees” for “States, Indian tribal governments State, tribal, territorial, and local courts (including juvenile courts),, or units of local government”.
+**2013**—Subsec. (b). Pub. L. 113–4, §102(a)(1)(A)(i), in introductory provisions, substituted "grantees" for "States, Indian tribal governments State, tribal, territorial, and local courts (including juvenile courts),, or units of local government".
 
-Subsec. (b)(1). Pub. L. 113–4, §102(a)(1)(A)(ii), inserted “and enforcement of protection orders across State and tribal lines” before period at end.
+Subsec. (b)(1). Pub. L. 113–4, §102(a)(1)(A)(ii), inserted "and enforcement of protection orders across State and tribal lines" before period at end.
 
-Subsec. (b)(2). Pub. L. 113–4, §102(a)(1)(A)(iii), substituted “data collection systems, and training in police departments to improve tracking of cases and classification of complaints” for “and training in police departments to improve tracking of cases”.
+Subsec. (b)(2). Pub. L. 113–4, §102(a)(1)(A)(iii), substituted "data collection systems, and training in police departments to improve tracking of cases and classification of complaints" for "and training in police departments to improve tracking of cases".
 
-Subsec. (b)(4). Pub. L. 113–4, §102(a)(1)(A)(iv), inserted “and provide the appropriate training and education about domestic violence, dating violence, sexual assault, and stalking” after “computer tracking systems”.
+Subsec. (b)(4). Pub. L. 113–4, §102(a)(1)(A)(iv), inserted "and provide the appropriate training and education about domestic violence, dating violence, sexual assault, and stalking" after "computer tracking systems".
 
-Subsec. (b)(5). Pub. L. 113–4, §102(a)(1)(A)(v), inserted “and other victim services” after “legal advocacy service programs”.
+Subsec. (b)(5). Pub. L. 113–4, §102(a)(1)(A)(v), inserted "and other victim services" after "legal advocacy service programs".
 
-Subsec. (b)(6). Pub. L. 113–4, §102(a)(1)(A)(vi), substituted “Federal, State, tribal, territorial, and local judges, courts, and court-based and court-related personnel” for “judges”.
+Subsec. (b)(6). Pub. L. 113–4, §102(a)(1)(A)(vi), substituted "Federal, State, tribal, territorial, and local judges, courts, and court-based and court-related personnel" for "judges".
 
-Subsec. (b)(8). Pub. L. 113–4, §102(a)(1)(A)(vii), substituted “dating violence, sexual assault, and stalking” for “and sexual assault”.
+Subsec. (b)(8). Pub. L. 113–4, §102(a)(1)(A)(vii), substituted "dating violence, sexual assault, and stalking" for "and sexual assault".
 
-Subsec. (b)(10). Pub. L. 113–4, §102(a)(1)(A)(viii), substituted “victim service providers, staff from population specific organizations,” for “non-profit, non-governmental victim services organizations,”.
+Subsec. (b)(10). Pub. L. 113–4, §102(a)(1)(A)(viii), substituted "victim service providers, staff from population specific organizations," for "non-profit, non-governmental victim services organizations,".
 
 Subsec. (b)(14) to (22). Pub. L. 113–4, §102(a)(1)(A)(ix), added pars. (14) to (22).
 
-Subsec. (c). Pub. L. 113–4, §102(a)(1)(B)(vi), (vii), substituted “grantees are—” for “grantees are”, inserted par. (1) designation before “States”, struck out second comma after “(including juvenile courts)”, and redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1).
+Subsec. (c). Pub. L. 113–4, §102(a)(1)(B)(vi), (vii), substituted "grantees are—" for "grantees are", inserted par. (1) designation before "States", struck out second comma after "(including juvenile courts)", and redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1).
 
-Subsec. (c)(1). Pub. L. 113–4, §102(a)(1)(B)(i), inserted “except for a court,” before “certify” in introductory provisions and redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively.
+Subsec. (c)(1). Pub. L. 113–4, §102(a)(1)(B)(i), inserted "except for a court," before "certify" in introductory provisions and redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively.
 
 Subsec. (c)(2). Pub. L. 113–4, §102(a)(1)(B)(viii), added par. (2). Former par. (2) redesignated subpar. (B) of par. (1).
 
-Pub. L. 113–4, §102(a)(1)(B)(ii), inserted “except for a court,” before “demonstrate”.
+Pub. L. 113–4, §102(a)(1)(B)(ii), inserted "except for a court," before "demonstrate".
 
-Subsec. (c)(3). Pub. L. 113–4, §102(a)(1)(B)(iii), substituted “parties” for “spouses” in two places and substituted “party” for “spouse”.
+Subsec. (c)(3). Pub. L. 113–4, §102(a)(1)(B)(iii), substituted "parties" for "spouses" in two places and substituted "party" for "spouse".
 
-Subsec. (c)(4). Pub. L. 113–4, §102(a)(1)(B)(iv), inserted “, dating violence, sexual assault, or stalking” after “felony domestic violence”, “modification, enforcement, dismissal,” after “registration,” in two places, and “dating violence,” after “victim of domestic violence,” and struck out “and” at end.
+Subsec. (c)(4). Pub. L. 113–4, §102(a)(1)(B)(iv), inserted ", dating violence, sexual assault, or stalking" after "felony domestic violence", "modification, enforcement, dismissal," after "registration," in two places, and "dating violence," after "victim of domestic violence," and struck out "and" at end.
 
-Subsec. (c)(5). Pub. L. 113–4, §102(a)(1)(B)(v), struck out “, not later than 3 years after January 5, 2006” after “certify that” in introductory provisions, inserted “, trial of, or sentencing for” after “investigation of” in two places, redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, substituted “clause (i)” for “subparagraph (A)” in cl. (ii) as redesignated, and substituted “; and” for period at end.
+Subsec. (c)(5). Pub. L. 113–4, §102(a)(1)(B)(v), struck out ", not later than 3 years after January 5, 2006" after "certify that" in introductory provisions, inserted ", trial of, or sentencing for" after "investigation of" in two places, redesignated subpars. (A) and (B) as cls. (i) and (ii), respectively, substituted "clause (i)" for "subparagraph (A)" in cl. (ii) as redesignated, and substituted "; and" for period at end.
 
-Subsec. (d)(1). Pub. L. 113–4, §102(a)(1)(C)(i)(I), inserted “, policy,” after “law” in introductory provisions.
+Subsec. (d)(1). Pub. L. 113–4, §102(a)(1)(C)(i)(I), inserted ", policy," after "law" in introductory provisions.
 
-Subsec. (d)(1)(A). Pub. L. 113–4, §102(a)(1)(C)(i)(II), inserted “and the defendant is in custody or has been served with the information or indictment” before semicolon at end.
+Subsec. (d)(1)(A). Pub. L. 113–4, §102(a)(1)(C)(i)(II), inserted "and the defendant is in custody or has been served with the information or indictment" before semicolon at end.
 
-Subsec. (d)(2). Pub. L. 113–4, §102(a)(1)(C)(ii), substituted “its” for “it” in introductory provisions.
+Subsec. (d)(2). Pub. L. 113–4, §102(a)(1)(C)(ii), substituted "its" for "it" in introductory provisions.
 
 Subsecs. (f), (g). Pub. L. 113–4, §102(a)(1)(D), added subsecs. (f) and (g).
 
-**2006**—Subsec. (a). Pub. L. 109–162, §102(b)(1), substituted “to treat domestic violence, dating violence, sexual assault, and stalking as serious violations” for “to treat domestic violence as a serious violation”.
+**2006**—Subsec. (a). Pub. L. 109–162, §102(b)(1), substituted "to treat domestic violence, dating violence, sexual assault, and stalking as serious violations" for "to treat domestic violence as a serious violation".
 
-Subsec. (b). Pub. L. 109–162, §102(b)(2)(A), inserted “, tribal, territorial,” after “State” in introductory provisions.
+Subsec. (b). Pub. L. 109–162, §102(b)(2)(A), inserted ", tribal, territorial," after "State" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 109–162, §102(b)(2)(B), struck out “mandatory arrest or” after “implement” and “mandatory arrest programs and” after “including”.
+Subsec. (b)(1). Pub. L. 109–162, §102(b)(2)(B), struck out "mandatory arrest or" after "implement" and "mandatory arrest programs and" after "including".
 
-Subsec. (b)(2). Pub. L. 109–162, §102(b)(2)(C), inserted “protection order registries,” after “educational programs,” and substituted “domestic violence, dating violence, sexual assault, and stalking. Policies, educational programs, protection order registries, and training described in this paragraph shall incorporate confidentiality, and privacy protections for victims of domestic violence, dating violence, sexual assault, and stalking” for “domestic violence and dating violence”.
+Subsec. (b)(2). Pub. L. 109–162, §102(b)(2)(C), inserted "protection order registries," after "educational programs," and substituted "domestic violence, dating violence, sexual assault, and stalking. Policies, educational programs, protection order registries, and training described in this paragraph shall incorporate confidentiality, and privacy protections for victims of domestic violence, dating violence, sexual assault, and stalking" for "domestic violence and dating violence".
 
-Subsec. (b)(3). Pub. L. 109–162, §102(b)(2)(D), substituted “domestic violence, dating violence, sexual assault, and stalking cases” for “domestic violence cases” and “teams” for “groups”.
+Subsec. (b)(3). Pub. L. 109–162, §102(b)(2)(D), substituted "domestic violence, dating violence, sexual assault, and stalking cases" for "domestic violence cases" and "teams" for "groups".
 
-Subsec. (b)(5). Pub. L. 109–162, §102(b)(2)(E), substituted “domestic violence, dating violence, sexual assault, and stalking” for “domestic violence and dating violence”.
+Subsec. (b)(5). Pub. L. 109–162, §102(b)(2)(E), substituted "domestic violence, dating violence, sexual assault, and stalking" for "domestic violence and dating violence".
 
-Subsec. (b)(6). Pub. L. 109–162, §102(b)(2)(F), substituted “civil” for “other” and inserted “, dating violence, sexual assault, and stalking” after “domestic violence”.
+Subsec. (b)(6). Pub. L. 109–162, §102(b)(2)(F), substituted "civil" for "other" and inserted ", dating violence, sexual assault, and stalking" after "domestic violence".
 
 Subsec. (b)(9) to (13). Pub. L. 109–162, §102(b)(2)(G), added pars. (9) to (13).
 
 Subsec. (c)(5). Pub. L. 109–162, §102(b)(3), added par. (5).
 
-Subsec. (d). Pub. L. 109–162, §102(b)(4), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “In this section, the term ‘protection order’ has the meaning given the term in section 2266 of title 18.”
+Subsec. (d). Pub. L. 109–162, §102(b)(4), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: "In this section, the term 'protection order' has the meaning given the term in section 2266 of title 18."
 
-Subsec. (e). Pub. L. 109–271 added subsec. (e) and struck out former subsec. (e) which read as follows: “Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized in section 3796gg–10 of this title. The requirements of this subchapter shall not apply to funds allocated for such program.”
+Subsec. (e). Pub. L. 109–271 added subsec. (e) and struck out former subsec. (e) which read as follows: "Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized in section 3796gg–10 of this title. The requirements of this subchapter shall not apply to funds allocated for such program."
 
-Pub. L. 109–162, §906(c), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “Not less than 10 percent of the total amount made available for grants under this section for each fiscal year shall be available for grants to Indian tribal governments.”
+Pub. L. 109–162, §906(c), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: "Not less than 10 percent of the total amount made available for grants under this section for each fiscal year shall be available for grants to Indian tribal governments."
 
-Pub. L. 109–162, §102(b)(4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Not less than 5 percent of the total amount made available for grants under this section for each fiscal year shall be available for grants to Indian tribal governments.”
+Pub. L. 109–162, §102(b)(4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: "Not less than 5 percent of the total amount made available for grants under this section for each fiscal year shall be available for grants to Indian tribal governments."
 
-**2000**—Subsec. (a). Pub. L. 106–386, §1102(b)(1), inserted “State and local courts (including juvenile courts), tribal courts,” after “Indian tribal governments,”.
+**2000**—Subsec. (a). Pub. L. 106–386, §1102(b)(1), inserted "State and local courts (including juvenile courts), tribal courts," after "Indian tribal governments,".
 
-Subsec. (b). Pub. L. 106–386, §1102(b)(2)(A), inserted “State and local courts (including juvenile courts),” after “Indian tribal governments” in introductory provisions.
+Subsec. (b). Pub. L. 106–386, §1102(b)(2)(A), inserted "State and local courts (including juvenile courts)," after "Indian tribal governments" in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 106–386, §§1102(b)(2)(B), 1109(c)(1), substituted “policies, educational programs, and” for “policies and” and inserted “and dating violence” before period at end.
+Subsec. (b)(2). Pub. L. 106–386, §§1102(b)(2)(B), 1109(c)(1), substituted "policies, educational programs, and" for "policies and" and inserted "and dating violence" before period at end.
 
-Subsec. (b)(3), (4). Pub. L. 106–386, §1102(b)(2)(C), (D), inserted “parole and probation officers,” after “prosecutors,”.
+Subsec. (b)(3), (4). Pub. L. 106–386, §1102(b)(2)(C), (D), inserted "parole and probation officers," after "prosecutors,".
 
-Subsec. (b)(5). Pub. L. 106–386, §§1109(c)(2), 1512(b), inserted “and dating violence, including strengthening assistance to such victims in immigration matters” before period at end.
+Subsec. (b)(5). Pub. L. 106–386, §§1109(c)(2), 1512(b), inserted "and dating violence, including strengthening assistance to such victims in immigration matters" before period at end.
 
-Subsec. (b)(6). Pub. L. 106–386, §1101(a)(2)(A), inserted “(including juvenile courts)” after “courts”.
+Subsec. (b)(6). Pub. L. 106–386, §1101(a)(2)(A), inserted "(including juvenile courts)" after "courts".
 
 Subsec. (b)(7). Pub. L. 106–386, §1101(a)(2)(B), added par. (7).
 
 Subsec. (b)(8). Pub. L. 106–386, §1209(b), added par. (8).
 
-Subsec. (c). Pub. L. 106–386, §1102(b)(3), inserted “State and local courts (including juvenile courts),” after “Indian tribal governments” in introductory provisions.
+Subsec. (c). Pub. L. 106–386, §1102(b)(3), inserted "State and local courts (including juvenile courts)," after "Indian tribal governments" in introductory provisions.
 
-Subsec. (c)(4). Pub. L. 106–386, §1101(b)(2)(A), added par. (4) and struck out former par. (4) which read as follows: “certify that their laws, policies, or practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, that the abused bear the costs associated with the filing of criminal charges or the service of such charges on an abuser, or that the abused bear the costs associated with the issuance or service of a warrant, protection order, or witness subpoena.”
+Subsec. (c)(4). Pub. L. 106–386, §1101(b)(2)(A), added par. (4) and struck out former par. (4) which read as follows: "certify that their laws, policies, or practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, that the abused bear the costs associated with the filing of criminal charges or the service of such charges on an abuser, or that the abused bear the costs associated with the issuance or service of a warrant, protection order, or witness subpoena."
 
 Subsec. (d). Pub. L. 106–386, §1101(b)(2)(B), added subsec. (d).
 

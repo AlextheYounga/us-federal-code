@@ -6,4 +6,4 @@ Not later than 3 complete fiscal years after August 26, 1992, the Secretary shal
 
 #### Amendments ####
 
-**1994**—Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+**1994**—Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".

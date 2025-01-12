@@ -50,10 +50,10 @@ Sec.
 
 **2003**—Pub. L. 108–7, div. H, title I, §1010(b), Feb. 20, 2003, 117 Stat. 360, added item 4120.
 
-**2002**—Pub. L. 107–296, title XIII, §1331(b), Nov. 25, 2002, 116 Stat. 2299, substituted “Academic degree training” for “Restriction on degree training” in item 4107.
+**2002**—Pub. L. 107–296, title XIII, §1331(b), Nov. 25, 2002, 116 Stat. 2299, substituted "Academic degree training" for "Restriction on degree training" in item 4107.
 
-**1995**—Pub. L. 104–66, title II, §2181(c)(2), Dec. 21, 1995, 109 Stat. 732, struck out item 4113 “Agency review of training needs; annual program reports”.
+**1995**—Pub. L. 104–66, title II, §2181(c)(2), Dec. 21, 1995, 109 Stat. 732, struck out item 4113 "Agency review of training needs; annual program reports".
 
-**1994**—Pub. L. 103–226, §2(b)(2), Mar. 30, 1994, 108 Stat. 112, struck out item 4106 “Non-Government facilities; amount of training limited”, substituted “Restriction on degree training” for “Non-Government facilities; restrictions” in item 4107, and struck out item 4114 “Non-Government facilities; review of training programs”.
+**1994**—Pub. L. 103–226, §2(b)(2), Mar. 30, 1994, 108 Stat. 112, struck out item 4106 "Non-Government facilities; amount of training limited", substituted "Restriction on degree training" for "Non-Government facilities; restrictions" in item 4107, and struck out item 4114 "Non-Government facilities; review of training programs".
 
 **1982**—Pub. L. 97–346, §1(b), Oct. 15, 1982, 96 Stat. 1647, added item 4119.

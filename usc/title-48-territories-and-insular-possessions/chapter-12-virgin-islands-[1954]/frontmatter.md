@@ -106,44 +106,44 @@ Sec.
 
 Pub. L. 94–584, Oct. 21, 1976, 90 Stat. 2899, as amended by Pub. L. 96–597, title V, §501, Dec. 24, 1980, 94 Stat. 3479; Pub. L. 111–194, §2, June 30, 2010, 124 Stat. 1310, provided:
 
-“[Section 1. Authorization to organize governments] That the Congress, recognizing the basic democratic principle of government by the consent of the governed, authorizes the peoples of the Virgin Islands and of Guam, respectively, to organize governments pursuant to constitutions of their own adoption as provided in this Act.
+"[Section 1. Authorization to organize governments] That the Congress, recognizing the basic democratic principle of government by the consent of the governed, authorizes the peoples of the Virgin Islands and of Guam, respectively, to organize governments pursuant to constitutions of their own adoption as provided in this Act.
 
-“Sec. 2. [Constitutional conventions and draft provisions] (a) The Legislatures of the Virgin Islands and Guam, respectively, are authorized to call constitutional conventions to draft, within the existing territorial-Federal relationship, constitutions for the local self-government of the people of the Virgin Islands and Guam.
+"Sec. 2. [Constitutional conventions and draft provisions] (a) The Legislatures of the Virgin Islands and Guam, respectively, are authorized to call constitutional conventions to draft, within the existing territorial-Federal relationship, constitutions for the local self-government of the people of the Virgin Islands and Guam.
 
-“(b) Such constitutions shall—
+"(b) Such constitutions shall—
 
-“(1) recognize, and be consistent with, the sovereignty of the United States over the Virgin Islands and Guam, respectively, and the supremacy of the provisions of the Constitution, treaties, and laws of the United States applicable to the Virgin Islands and Guam, respectively, including, but not limited to, those provisions of the Organic Act [section 1405 et seq. of this title] and Revised Organic Act of the Virgin Islands [this chapter] and the Organic Act of Guam [section 1421 et seq. of this title] which do not relate to local self-government.
+"(1) recognize, and be consistent with, the sovereignty of the United States over the Virgin Islands and Guam, respectively, and the supremacy of the provisions of the Constitution, treaties, and laws of the United States applicable to the Virgin Islands and Guam, respectively, including, but not limited to, those provisions of the Organic Act [section 1405 et seq. of this title] and Revised Organic Act of the Virgin Islands [this chapter] and the Organic Act of Guam [section 1421 et seq. of this title] which do not relate to local self-government.
 
-“(2) provide for a republican form of government, consisting of three branches: executive, legislative, and judicial;
+"(2) provide for a republican form of government, consisting of three branches: executive, legislative, and judicial;
 
-“(3) contain a bill of rights;
+"(3) contain a bill of rights;
 
-“(4) deal with the subject matter of those provisions of the Revised Organic Act of the Virgin Islands of 1954, as amended, and the Organic Act of Guam, as amended, respectively, which relate to local self-government;
+"(4) deal with the subject matter of those provisions of the Revised Organic Act of the Virgin Islands of 1954, as amended, and the Organic Act of Guam, as amended, respectively, which relate to local self-government;
 
-“(5) with reference to Guam, provided that the voting franchise may be vested only in residents of Guam who are citizens of the United States;
+"(5) with reference to Guam, provided that the voting franchise may be vested only in residents of Guam who are citizens of the United States;
 
-“(6) provide for a system of local courts consistent with the provisions of the Revised Organic Act of the Virgin Islands, as amended; and
+"(6) provide for a system of local courts consistent with the provisions of the Revised Organic Act of the Virgin Islands, as amended; and
 
-“(7) provide for the establishment of a system of local courts the provisions of which shall become effective no sooner than upon the enactment of legislation regulating the relationship between the local courts of Guam with the Federal judicial system.
+"(7) provide for the establishment of a system of local courts the provisions of which shall become effective no sooner than upon the enactment of legislation regulating the relationship between the local courts of Guam with the Federal judicial system.
 
-“Sec. 3. [Selection and qualification of members] The members of such constitutional conventions shall be chosen as provided by the laws of the Virgin Islands and Guam, respectively (enacted after the date of enactment of this Act [Oct. 21, 1976]): *Provided, however*, That no person shall be eligible to be a member of the constitutional conventions, unless he is a citizen of the United States and qualified to vote in the Virgin Islands and Guam, respectively.
+"Sec. 3. [Selection and qualification of members] The members of such constitutional conventions shall be chosen as provided by the laws of the Virgin Islands and Guam, respectively (enacted after the date of enactment of this Act [Oct. 21, 1976]): *Provided, however*, That no person shall be eligible to be a member of the constitutional conventions, unless he is a citizen of the United States and qualified to vote in the Virgin Islands and Guam, respectively.
 
-“Sec. 4. [Submittal of proposed constitutions to governors and President] The conventions shall submit to the Governor of the Virgin Islands a proposed constitution for the Virgin Islands and to the Governor of Guam a proposed constitution for Guam which shall comply with the requirements set forth in section 2(b) above. Such constitutions shall be submitted to the President of the United States by the Governors of the Virgin Islands and Guam.
+"Sec. 4. [Submittal of proposed constitutions to governors and President] The conventions shall submit to the Governor of the Virgin Islands a proposed constitution for the Virgin Islands and to the Governor of Guam a proposed constitution for Guam which shall comply with the requirements set forth in section 2(b) above. Such constitutions shall be submitted to the President of the United States by the Governors of the Virgin Islands and Guam.
 
-“Sec. 5. [Transmittal to Congress and submittal to voters] (a) Within sixty calendar days after the respective date on which he has received each constitution, the President shall transmit such constitution together with his comments to the Congress.
+"Sec. 5. [Transmittal to Congress and submittal to voters] (a) Within sixty calendar days after the respective date on which he has received each constitution, the President shall transmit such constitution together with his comments to the Congress.
 
-“(b) The constitution, in each case, shall be deemed to have been approved by the Congress within 60 legislative days after its submission by the President, unless prior to that date the Congress has approved the constitution, or modified or amended it, in whole or in part, or has urged the constitutional convention to reconvene, by joint resolution.
+"(b) The constitution, in each case, shall be deemed to have been approved by the Congress within 60 legislative days after its submission by the President, unless prior to that date the Congress has approved the constitution, or modified or amended it, in whole or in part, or has urged the constitutional convention to reconvene, by joint resolution.
 
-“(c) Revision of Proposed Constitution.—
+"(c) Revision of Proposed Constitution.—
 
-“(1) In general.—If a convention reconvenes and revises the proposed constitution, the convention shall resubmit the revised proposed constitution simultaneously to the Governor of the Virgin Islands and the President.
+"(1) In general.—If a convention reconvenes and revises the proposed constitution, the convention shall resubmit the revised proposed constitution simultaneously to the Governor of the Virgin Islands and the President.
 
-“(2) Comments of president.—Not later than 60 calendar days after the date of receipt of the revised proposed constitution, the President shall—
+"(2) Comments of president.—Not later than 60 calendar days after the date of receipt of the revised proposed constitution, the President shall—
 
-“(A) notify the convention, the Governor, and Congress of the comments of the President on the revised proposed constitution; and
+"(A) notify the convention, the Governor, and Congress of the comments of the President on the revised proposed constitution; and
 
-“(B) publish the comments in the Federal Register.
+"(B) publish the comments in the Federal Register.
 
-“(d) As so approved or modified under subsection (b) (or, if revised pursuant to subsection (c), on publication of the comments of the President in the Federal Register), the constitutions shall be submitted to the qualified voters of the Virgin Islands and Guam, respectively, for acceptance or rejection through islandwide referendums to be conducted as provided under the laws of the Virgin Islands and Guam, respectively, (enacted after the date of enactment of this Act) [Oct. 21, 1976].
+"(d) As so approved or modified under subsection (b) (or, if revised pursuant to subsection (c), on publication of the comments of the President in the Federal Register), the constitutions shall be submitted to the qualified voters of the Virgin Islands and Guam, respectively, for acceptance or rejection through islandwide referendums to be conducted as provided under the laws of the Virgin Islands and Guam, respectively, (enacted after the date of enactment of this Act) [Oct. 21, 1976].
 
-“(e) Upon approval by not less than a majority of the votes (counting only the affirmative or negative votes) participating in such referendums, the constitutions shall become effective in accordance with their terms.”
+"(e) Upon approval by not less than a majority of the votes (counting only the affirmative or negative votes) participating in such referendums, the constitutions shall become effective in accordance with their terms."

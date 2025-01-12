@@ -1,6 +1,6 @@
 ### §5. United States defined ###
 
-The term “United States”, as used in this title in a territorial sense, includes all places and waters, continental or insular, subject to the jurisdiction of the United States, except the Canal Zone.
+The term "United States", as used in this title in a territorial sense, includes all places and waters, continental or insular, subject to the jurisdiction of the United States, except the Canal Zone.
 
 (June 25, 1948, ch. 645, 62 Stat. 685.)
 
@@ -18,7 +18,7 @@ The remaining provisions of said sections 381 and 502 of title 18, U.S.C., 1940 
 
 #### Senate Revision Amendment ####
 
-Words “, except the Canal Zone.” were substituted for the period in this section by Senate amendment. See Senate Report No. 1620, amendment No. 2, 80th Cong.
+Words ", except the Canal Zone." were substituted for the period in this section by Senate amendment. See Senate Report No. 1620, amendment No. 2, 80th Cong.
 
 #### References in Text ####
 

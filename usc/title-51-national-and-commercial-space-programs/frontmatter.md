@@ -346,37 +346,37 @@ Subtitle VII—Access to Space
 
 #### Enactment of Title ####
 
-Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3328, provided in part that: “Title 51, United States Code, ‘National and Commercial Space Programs’, is enacted as follows”.
+Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3328, provided in part that: "Title 51, United States Code, 'National and Commercial Space Programs', is enacted as follows".
 
 #### Purpose; Conformity With Original Intent ####
 
 Pub. L. 111–314, §2, Dec. 18, 2010, 124 Stat. 3328, provided that:
 
-“(a) Purpose.—The purpose of this Act [see Tables for classification] is to codify certain existing laws related to national and commercial space programs as a positive law title of the United States Code.
+"(a) Purpose.—The purpose of this Act [see Tables for classification] is to codify certain existing laws related to national and commercial space programs as a positive law title of the United States Code.
 
-“(b) Conformity With Original Intent.—In the codification of laws by this Act, the intent is to conform to the understood policy, intent, and purpose of Congress in the original enactments, with such amendments and corrections as will remove ambiguities, contradictions, and other imperfections, in accordance with section 205(c)(1) of House Resolution No. 988, 93d Congress, as enacted into law by Public Law 93–554 (2 U.S.C. 285b(1)).”
+"(b) Conformity With Original Intent.—In the codification of laws by this Act, the intent is to conform to the understood policy, intent, and purpose of Congress in the original enactments, with such amendments and corrections as will remove ambiguities, contradictions, and other imperfections, in accordance with section 205(c)(1) of House Resolution No. 988, 93d Congress, as enacted into law by Public Law 93–554 (2 U.S.C. 285b(1))."
 
 #### Transitional and Savings Provisions ####
 
 Pub. L. 111–314, §5, Dec. 18, 2010, 124 Stat. 3443, provided that:
 
-“(a) Definitions.—In this section:
+"(a) Definitions.—In this section:
 
-“(1) Source provision.—The term ‘source provision’ means a provision of law that is replaced by a title 51 provision.
+"(1) Source provision.—The term 'source provision' means a provision of law that is replaced by a title 51 provision.
 
-“(2) Title 51 provision.—The term ‘title 51 provision’ means a provision of title 51, United States Code, that is enacted by section 3.
+"(2) Title 51 provision.—The term 'title 51 provision' means a provision of title 51, United States Code, that is enacted by section 3.
 
-“(b) Cutoff Date.—The title 51 provisions replace certain provisions of law enacted on or before July 1, 2009. If a law enacted after that date amends or repeals a source provision, that law is deemed to amend or repeal, as the case may be, the corresponding title 51 provision. If a law enacted after that date is otherwise inconsistent with a title 51 provision or a provision of this Act [see Tables for classification], that law supersedes the title 51 provision or provision of this Act to the extent of the inconsistency.
+"(b) Cutoff Date.—The title 51 provisions replace certain provisions of law enacted on or before July 1, 2009. If a law enacted after that date amends or repeals a source provision, that law is deemed to amend or repeal, as the case may be, the corresponding title 51 provision. If a law enacted after that date is otherwise inconsistent with a title 51 provision or a provision of this Act [see Tables for classification], that law supersedes the title 51 provision or provision of this Act to the extent of the inconsistency.
 
-“(c) Original Date of Enactment Unchanged.—For purposes of determining whether one provision of law supersedes another based on enactment later in time, a title 51 provision is deemed to have been enacted on the date of enactment of the corresponding source provision.
+"(c) Original Date of Enactment Unchanged.—For purposes of determining whether one provision of law supersedes another based on enactment later in time, a title 51 provision is deemed to have been enacted on the date of enactment of the corresponding source provision.
 
-“(d) References to Title 51 Provisions.—A reference to a title 51 provision is deemed to refer to the corresponding source provision.
+"(d) References to Title 51 Provisions.—A reference to a title 51 provision is deemed to refer to the corresponding source provision.
 
-“(e) References to Source Provisions.—A reference to a source provision, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding title 51 provision.
+"(e) References to Source Provisions.—A reference to a source provision, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding title 51 provision.
 
-“(f) Regulations, Orders, and Other Administrative Actions.—A regulation, order, or other administrative action in effect under a source provision continues in effect under the corresponding title 51 provision.
+"(f) Regulations, Orders, and Other Administrative Actions.—A regulation, order, or other administrative action in effect under a source provision continues in effect under the corresponding title 51 provision.
 
-“(g) Actions Taken and Offenses Committed.—An action taken or an offense committed under a source provision is deemed to have been taken or committed under the corresponding title 51 provision.”
+"(g) Actions Taken and Offenses Committed.—An action taken or an offense committed under a source provision is deemed to have been taken or committed under the corresponding title 51 provision."
 
 #### Repeals ####
 

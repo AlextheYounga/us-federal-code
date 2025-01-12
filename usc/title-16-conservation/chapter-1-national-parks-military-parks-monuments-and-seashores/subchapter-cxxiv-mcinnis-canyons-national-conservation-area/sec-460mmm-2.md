@@ -12,9 +12,9 @@ The Conservation Area shall consist of approximately 122,300 acres of public lan
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–400, §1(c)(1), substituted “McInnis” for “Colorado” in section catchline.
+**2004**—Pub. L. 108–400, §1(c)(1), substituted "McInnis" for "Colorado" in section catchline.
 
-Subsec. (a). Pub. L. 108–400, §1(c)(2), substituted “McInnis Canyons” for “Colorado Canyons”.
+Subsec. (a). Pub. L. 108–400, §1(c)(2), substituted "McInnis Canyons" for "Colorado Canyons".
 
 #### Effective Date of 2004 Amendment ####
 

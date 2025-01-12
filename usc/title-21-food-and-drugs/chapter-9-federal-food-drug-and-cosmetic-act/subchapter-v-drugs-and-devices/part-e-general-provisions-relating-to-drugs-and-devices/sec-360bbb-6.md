@@ -4,7 +4,7 @@
 
 #### (1) In general ####
 
-The Secretary shall establish an advisory committee to be known as the “Advisory Committee on Risk Communication” (referred to in this section as the “Committee”).
+The Secretary shall establish an advisory committee to be known as the "Advisory Committee on Risk Communication" (referred to in this section as the "Committee").
 
 #### (2) Duties of Committee ####
 

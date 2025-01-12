@@ -10,9 +10,9 @@ The Secretary of the Interior may not recommend any area for purchase or rental 
 
 #### Amendments ####
 
-**1978**—Pub. L. 95–552 substituted “may not recommend any area” for “shall recommend no area”, incorporated existing provision in item (1) and added item (2).
+**1978**—Pub. L. 95–552 substituted "may not recommend any area" for "shall recommend no area", incorporated existing provision in item (1) and added item (2).
 
-**1966**—Pub. L. 89–669 struck out “game” from “migratory game birds”.
+**1966**—Pub. L. 89–669 struck out "game" from "migratory game birds".
 
 #### Transfer of Functions ####
 

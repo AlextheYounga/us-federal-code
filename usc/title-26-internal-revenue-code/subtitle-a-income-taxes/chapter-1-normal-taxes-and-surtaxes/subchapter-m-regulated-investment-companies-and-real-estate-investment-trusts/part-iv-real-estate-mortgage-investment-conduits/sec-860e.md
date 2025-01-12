@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “excess inclusion” means, with respect to any residual interest in a REMIC for any calendar quarter, the excess (if any) of—
+The term "excess inclusion" means, with respect to any residual interest in a REMIC for any calendar quarter, the excess (if any) of—
 
 (A) the amount taken into account with respect to such interest by the holder under section 860C(a), over
 
@@ -66,7 +66,7 @@ For purposes of this paragraph, the adjusted issue price of any residual interes
 
 #### (C) Federal long-term rate ####
 
-For purposes of this paragraph, the term “Federal long-term rate” means the Federal long-term rate which would have applied to the residual interest under section 1274(d) (determined without regard to paragraph (2) thereof) if it were a debt instrument.
+For purposes of this paragraph, the term "Federal long-term rate" means the Federal long-term rate which would have applied to the residual interest under section 1274(d) (determined without regard to paragraph (2) thereof) if it were a debt instrument.
 
 #### (d) Treatment of residual interests held by real estate investment trusts ####
 
@@ -112,7 +112,7 @@ The person (otherwise liable for any tax imposed by paragraph (1)) shall be reli
 
 #### (5) Disqualified organization ####
 
-For purposes of this section, the term “disqualified organization” means—
+For purposes of this section, the term "disqualified organization" means—
 
 (A) the United States, any State or political subdivision thereof, any foreign government, any international organization, or any agency or instrumentality of any of the foregoing,
 
@@ -134,7 +134,7 @@ If, at any time during any taxable year of a pass-thru entity, a disqualified or
 
 #### (B) Pass-thru entity ####
 
-For purposes of this paragraph, the term “pass-thru entity” means—
+For purposes of this paragraph, the term "pass-thru entity" means—
 
 (i) any regulated investment company, real estate investment trust, or common trust fund,
 
@@ -176,13 +176,13 @@ Except as provided in regulations, with respect to any variable contract (as def
 
 #### Amendments ####
 
-**1996**—Subsec. (a)(1). Pub. L. 104–188, §1616(b)(10)(A), substituted “The” for “Except as provided in paragraph (2), the”.
+**1996**—Subsec. (a)(1). Pub. L. 104–188, §1616(b)(10)(A), substituted "The" for "Except as provided in paragraph (2), the".
 
-Subsec. (a)(2). Pub. L. 104–188, §1616(b)(10)(B), (C), redesignated par. (3) as (2), struck out “, except that paragraph (2) shall be applied separately with respect to each corporation which is a member of such group and to which section 593 applies” after “of this subsection”, and struck out former par. (2) which read as follows: “Exception for certain financial institutions.—Paragraph (1) shall not apply to any organization to which section 593 applies. The Secretary may by regulations provide that the preceding sentence shall not apply where necessary or appropriate to prevent avoidance of tax imposed by this chapter.”
+Subsec. (a)(2). Pub. L. 104–188, §1616(b)(10)(B), (C), redesignated par. (3) as (2), struck out ", except that paragraph (2) shall be applied separately with respect to each corporation which is a member of such group and to which section 593 applies" after "of this subsection", and struck out former par. (2) which read as follows: "Exception for certain financial institutions.—Paragraph (1) shall not apply to any organization to which section 593 applies. The Secretary may by regulations provide that the preceding sentence shall not apply where necessary or appropriate to prevent avoidance of tax imposed by this chapter."
 
 Subsec. (a)(3). Pub. L. 104–188, §1616(b)(10)(B), redesignated par. (5) as (3). Former par. (3) redesignated (2).
 
-Subsec. (a)(4). Pub. L. 104–188, §1616(b)(10)(B), (D), redesignated par. (6) as (4), struck out at end “The preceding sentence shall not apply to any organization to which section 593 applies, except to the extent provided in regulations prescribed by the Secretary under paragraph (2).”, and struck out former par. (4) which related to certain subsidiaries being treated as single corporations to which section 593 applied.
+Subsec. (a)(4). Pub. L. 104–188, §1616(b)(10)(B), (D), redesignated par. (6) as (4), struck out at end "The preceding sentence shall not apply to any organization to which section 593 applies, except to the extent provided in regulations prescribed by the Secretary under paragraph (2).", and struck out former par. (4) which related to certain subsidiaries being treated as single corporations to which section 593 applied.
 
 Subsec. (a)(5). Pub. L. 104–188, §1616(b)(10)(B), redesignated par. (5) as (3).
 
@@ -194,9 +194,9 @@ Pub. L. 104–188, §1704(h)(1), added par. (6).
 
 Subsec. (a)(5). Pub. L. 100–647, §1006(t)(27), added par. (5).
 
-Subsec. (c)(2)(B). Pub. L. 100–647, §1006(t)(13), (17), substituted “issue price of the residual interest (adjusted for contributions)” for “issue price of residual interest” in introductory text, and in cl. (ii) inserted “(but not below zero)” after “decreased”.
+Subsec. (c)(2)(B). Pub. L. 100–647, §1006(t)(13), (17), substituted "issue price of the residual interest (adjusted for contributions)" for "issue price of residual interest" in introductory text, and in cl. (ii) inserted "(but not below zero)" after "decreased".
 
-Subsec. (d). Pub. L. 100–647, §1006(t)(23), inserted at end “Rules similar to the rules of the preceding sentence shall apply also in the case of regulated investment companies, common trust funds, and organizations to which part I of subchapter T applies.”
+Subsec. (d). Pub. L. 100–647, §1006(t)(23), inserted at end "Rules similar to the rules of the preceding sentence shall apply also in the case of regulated investment companies, common trust funds, and organizations to which part I of subchapter T applies."
 
 Subsec. (e). Pub. L. 100–647, §1006(t)(16)(B), added subsec. (e).
 
@@ -206,22 +206,22 @@ Subsec. (f). Pub. L. 100–647, §1006(t)(26), added subsec. (f).
 
 Amendment by section 1616(b)(10) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, but not applicable to any residual interest held by a taxpayer if such interest has been held by such taxpayer at all times since Oct. 31, 1995, see section 1616(c)(1), (4) of Pub. L. 104–188, set out as a note under section 593 of this title.
 
-Pub. L. 104–188, title I, §1704(h)(2), Aug. 20, 1996, 110 Stat. 1881, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in the amendments made by section 671 of the Tax Reform Act of 1986 [Pub. L. 99–514] unless the taxpayer elects to apply such amendment only to taxable years beginning after the date of the enactment of this Act [Aug. 20, 1996].”
+Pub. L. 104–188, title I, §1704(h)(2), Aug. 20, 1996, 110 Stat. 1881, provided that: "The amendment made by paragraph (1) [amending this section] shall take effect as if included in the amendments made by section 671 of the Tax Reform Act of 1986 [Pub. L. 99–514] unless the taxpayer elects to apply such amendment only to taxable years beginning after the date of the enactment of this Act [Aug. 20, 1996]."
 
 #### Effective Date of 1988 Amendment ####
 
 Pub. L. 100–647, title I, §1006(t)(16)(D)(ii)–(iv), Nov. 10, 1988, 102 Stat. 3425, provided that:
 
-“(ii) The amendments made by subparagraphs (B) and (C) [amending this section and section 26 of this title] (except to the extent they relate to paragraph (6) of section 860E(e) of the 1986 Code as added by such amendments) shall apply to transfers after March 31, 1988; except that such amendments shall not apply to any transfer pursuant to a binding written contract in effect on such date.
+"(ii) The amendments made by subparagraphs (B) and (C) [amending this section and section 26 of this title] (except to the extent they relate to paragraph (6) of section 860E(e) of the 1986 Code as added by such amendments) shall apply to transfers after March 31, 1988; except that such amendments shall not apply to any transfer pursuant to a binding written contract in effect on such date.
 
-“(iii) Except as provided in clause (iv), the amendments made by subparagraphs (B) and (C) (to the extent they relate to paragraph (6) of section 860E(e) of the 1986 Code as so added) shall apply to excess inclusions for periods after March 31, 1988 but only to the extent such inclusions are—
+"(iii) Except as provided in clause (iv), the amendments made by subparagraphs (B) and (C) (to the extent they relate to paragraph (6) of section 860E(e) of the 1986 Code as so added) shall apply to excess inclusions for periods after March 31, 1988 but only to the extent such inclusions are—
 
-“(I) allocable to an interest in a pass-thru entity acquired after March 31, 1988, or
+"(I) allocable to an interest in a pass-thru entity acquired after March 31, 1988, or
 
-“(II) allocable to an interest in a pass-thru entity acquired on or before March 31, 1988, but attributable to a residual interest acquired by the pass-thru entity after March 31, 1988.
+"(II) allocable to an interest in a pass-thru entity acquired on or before March 31, 1988, but attributable to a residual interest acquired by the pass-thru entity after March 31, 1988.
 
 For purposes of the preceding sentence, any interest in a pass-thru entity (or residual interest) acquired after March 31, 1988, pursuant to a binding written contract in effect on such date shall be treated as acquired before such date.
 
-“(iv) In the case of any real estate investment trust, regulated investment company, common trust fund, or publicly traded partnership, no tax shall be imposed under section 860E(e)(6) of the 1986 Code (as added by the amendment made by subparagraph (B)) for any taxable year beginning before January 1, 1989.”
+"(iv) In the case of any real estate investment trust, regulated investment company, common trust fund, or publicly traded partnership, no tax shall be imposed under section 860E(e)(6) of the 1986 Code (as added by the amendment made by subparagraph (B)) for any taxable year beginning before January 1, 1989."
 
 Amendment by section 1006(t)(13), (15), (17), (23), (26), (27) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.

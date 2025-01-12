@@ -36,7 +36,7 @@ The Secretary of the Interior shall cause to be published in the Federal Registe
 
 #### Amendments ####
 
-**1983**—Subsec. (a). Pub. L. 97–434 substituted “section 459(a) of this title” for “section 459 of this title”.
+**1983**—Subsec. (a). Pub. L. 97–434 substituted "section 459(a) of this title" for "section 459 of this title".
 
 #### Effective Date of 1983 Amendment ####
 

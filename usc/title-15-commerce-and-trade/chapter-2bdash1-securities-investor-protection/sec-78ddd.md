@@ -4,7 +4,7 @@
 
 #### (1) Establishment of fund ####
 
-SIPC shall establish a “SIPC Fund” (hereinafter in this chapter referred to as the “fund”). All amounts received by SIPC (other than amounts paid directly to any lender pursuant to any pledge securing a borrowing by SIPC) shall be deposited in the fund, and all expenditures made by SIPC shall be made out of the fund.
+SIPC shall establish a "SIPC Fund" (hereinafter in this chapter referred to as the "fund"). All amounts received by SIPC (other than amounts paid directly to any lender pursuant to any pledge securing a borrowing by SIPC) shall be deposited in the fund, and all expenditures made by SIPC shall be made out of the fund.
 
 #### (2) Balance of the fund ####
 
@@ -120,31 +120,31 @@ Except as otherwise provided by SIPC bylaw, gross revenues from the securities b
 
 #### References in Text ####
 
-This chapter, referred to in subsecs. (a)(1), (4), (c)(3), (g), and (i)(1), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in subsecs. (a)(1), (4), (c)(3), (g), and (i)(1), was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
 #### Codification ####
 
-In subsec. (h), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act, as amended,”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (h), "chapter 31 of title 31" and "that chapter" substituted for "the Second Liberty Bond Act, as amended" and "that Act, as amended,", respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments ####
 
-**2010**—Subsec. (d)(1)(C). Pub. L. 111–203, §929V(a), substituted “0.02 percent of the gross revenues from the securities business of such member of SIPC” for “$150 per annum”.
+**2010**—Subsec. (d)(1)(C). Pub. L. 111–203, §929V(a), substituted "0.02 percent of the gross revenues from the securities business of such member of SIPC" for "$150 per annum".
 
-Subsec. (h). Pub. L. 111–203, §929C, substituted “$2,500,000,000” for “$1,000,000,000” in first sentence.
+Subsec. (h). Pub. L. 111–203, §929C, substituted "$2,500,000,000" for "$1,000,000,000" in first sentence.
 
-**1978**—Subsec. (a). Pub. L. 95–283, §6(a), in par. (2) substituted “Except as otherwise provided in this section, the” for “The”, in par. (2)(C) inserted provisions for inapplicability to other lines of credit, and added par. (4).
+**1978**—Subsec. (a). Pub. L. 95–283, §6(a), in par. (2) substituted "Except as otherwise provided in this section, the" for "The", in par. (2)(C) inserted provisions for inapplicability to other lines of credit, and added par. (4).
 
-Subsec. (c). Pub. L. 95–283, §6(b), in par. (2) struck out “or rule” after “bylaw”, and in par. (3) struck out reference to section 78ccc(f) of this title in introductory text and “or rule” after “bylaw” in subpar. (B).
+Subsec. (c). Pub. L. 95–283, §6(b), in par. (2) struck out "or rule" after "bylaw", and in par. (3) struck out reference to section 78ccc(f) of this title in introductory text and "or rule" after "bylaw" in subpar. (B).
 
 Subsec. (d)(1)(C). Pub. L. 95–283, §6(c), added subpar. (C).
 
-Subsec. (e). Pub. L. 95–283, §6(d), in par. (2) substituted “be recoverable only against future payments by such member, except as otherwise provided by SIPC bylaw” for “not be recoverable except against future payments by such member in accordance with a bylaw or rule of SIPC”, and in par. (3) substituted provisions authorizing interest and penalty charges to be imposed by SIPC bylaw and amount of penalty charge, for provisions authorizing interest to be imposed by SIPC bylaw or rule.
+Subsec. (e). Pub. L. 95–283, §6(d), in par. (2) substituted "be recoverable only against future payments by such member, except as otherwise provided by SIPC bylaw" for "not be recoverable except against future payments by such member in accordance with a bylaw or rule of SIPC", and in par. (3) substituted provisions authorizing interest and penalty charges to be imposed by SIPC bylaw and amount of penalty charge, for provisions authorizing interest to be imposed by SIPC bylaw or rule.
 
-Subsec. (f). Pub. L. 95–283, §6(e), struck out “examining authority as” before “collection agent for SIPC, shall immediately be subject”.
+Subsec. (f). Pub. L. 95–283, §6(e), struck out "examining authority as" before "collection agent for SIPC, shall immediately be subject".
 
 Subsec. (g). Pub. L. 95–283, §6(f), redesignated cls. (A) to (C) as (1) to (3), respectively, and, as so redesignated, in cl. (2) struck out applicability to a member of a national securities exchange and in cl. (3) substituted provisions relating to exemptions by rule of transactions in the over-the-counter market or on any national securities exchange, for provisions relating to exemptions by rules and regulations of transactions in the over-the-counter market, and inserted provisions authorizing the collection of fees by such other persons as designated by the Commission by rule for such purpose, and provisions relating to limits on manner of payment of fees.
 
-Subsec. (i). Pub. L. 95–283, §6(g), substituted “Consolidated group” for “ ‘Gross revenues’ defined” in heading, redesignated par. (2) as entire section and, as so redesignated, substituted provisions relating to computations by a member, for provisions relating to computations by a broker or dealer. Pars. (1) and (3), which generally defined term “gross revenues” and authorized the SIPC to define all other terms used in this subsec., respectively, were struck out.
+Subsec. (i). Pub. L. 95–283, §6(g), substituted "Consolidated group" for " 'Gross revenues' defined" in heading, redesignated par. (2) as entire section and, as so redesignated, substituted provisions relating to computations by a member, for provisions relating to computations by a broker or dealer. Pars. (1) and (3), which generally defined term "gross revenues" and authorized the SIPC to define all other terms used in this subsec., respectively, were struck out.
 
 #### Effective Date of 2010 Amendment ####
 

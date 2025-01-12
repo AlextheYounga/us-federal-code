@@ -18,7 +18,7 @@ In the budget justification documents submitted by the Secretary of Agriculture 
 
 #### (e) Definition of authorization ####
 
-For purposes of this section, the term “authorizations” means special use authorizations issued under subpart B of part 251 of title 36, Code of Federal Regulations.
+For purposes of this section, the term "authorizations" means special use authorizations issued under subpart B of part 251 of title 36, Code of Federal Regulations.
 
 #### (f) Implementation ####
 
@@ -32,18 +32,18 @@ Section was formerly set out as a note under section 497 of this title.
 
 #### Amendments ####
 
-**2014**—Subsec. (a). Pub. L. 113–76, §425(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of Agriculture shall develop and implement a pilot program for the purpose of enhancing forest service administration of rights-of-way and other land uses. The authority for this program shall be for fiscal years 2000 through 2012. Prior to the expiration of the authority for this pilot program, the Secretary shall submit a report to the House and Senate Committees on Appropriations, and the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives that evaluates whether the use of funds under this section resulted in more expeditious approval of rights-of-way and special use authorizations. This report shall include the Secretary's recommendation for statutory or regulatory changes to reduce the average processing time for rights-of-way and special use permit applications.”
+**2014**—Subsec. (a). Pub. L. 113–76, §425(1), added subsec. (a) and struck out former subsec. (a) which read as follows: "The Secretary of Agriculture shall develop and implement a pilot program for the purpose of enhancing forest service administration of rights-of-way and other land uses. The authority for this program shall be for fiscal years 2000 through 2012. Prior to the expiration of the authority for this pilot program, the Secretary shall submit a report to the House and Senate Committees on Appropriations, and the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives that evaluates whether the use of funds under this section resulted in more expeditious approval of rights-of-way and special use authorizations. This report shall include the Secretary's recommendation for statutory or regulatory changes to reduce the average processing time for rights-of-way and special use permit applications."
 
-Subsec. (b). Pub. L. 113–76, §425(2), substituted “each fiscal year” for “during fiscal years 2000 through 2012”.
+Subsec. (b). Pub. L. 113–76, §425(2), substituted "each fiscal year" for "during fiscal years 2000 through 2012".
 
-**2007**—Subsec. (a). Pub. L. 110–161, §416(1), substituted “2012” for “2006”.
+**2007**—Subsec. (a). Pub. L. 110–161, §416(1), substituted "2012" for "2006".
 
-Subsec. (b). Pub. L. 110–161, §416(2), substituted “2012” for “2006”.
+Subsec. (b). Pub. L. 110–161, §416(2), substituted "2012" for "2006".
 
-**2005**—Subsec. (a). Pub. L. 109–54, §425(1), substituted “2006” for “2005”.
+**2005**—Subsec. (a). Pub. L. 109–54, §425(1), substituted "2006" for "2005".
 
-Subsec. (b). Pub. L. 109–54, §425(2), substituted “2006” for “2005”.
+Subsec. (b). Pub. L. 109–54, §425(2), substituted "2006" for "2005".
 
-**2004**—Subsec. (a). Pub. L. 108–447, §345(1), which directed substitution of “2005” for “2004” in part (a), was executed by making the substitution in subsec. (a) to reflect the probable intent of Congress.
+**2004**—Subsec. (a). Pub. L. 108–447, §345(1), which directed substitution of "2005" for "2004" in part (a), was executed by making the substitution in subsec. (a) to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 108–447, §345(2), which directed substitution of “2005” for “2004” in part (b), was executed by making the substitution in subsec. (b) to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 108–447, §345(2), which directed substitution of "2005" for "2004" in part (b), was executed by making the substitution in subsec. (b) to reflect the probable intent of Congress.

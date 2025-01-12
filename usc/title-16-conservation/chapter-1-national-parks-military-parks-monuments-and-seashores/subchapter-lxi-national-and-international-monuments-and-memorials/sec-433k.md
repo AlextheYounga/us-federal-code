@@ -8,7 +8,7 @@ The property acquired under the provisions of the first paragraph of this sectio
 
 #### Change of Name ####
 
-“Whitman Mission National Historic Site” and “national historic site” substituted in text for “Whitman National Monument” and “national monument”, respectively, pursuant to Pub. L. 87–471, which redesignated Whitman National Monument as Whitman Mission National Historic Site. See section 433n of this title.
+"Whitman Mission National Historic Site" and "national historic site" substituted in text for "Whitman National Monument" and "national monument", respectively, pursuant to Pub. L. 87–471, which redesignated Whitman National Monument as Whitman Mission National Historic Site. See section 433n of this title.
 
 #### Transfer of Functions ####
 

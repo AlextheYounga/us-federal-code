@@ -18,4 +18,4 @@ Part J, consisting of sections 5671 to 5676, was redesignated part F by Pub. L. 
 
 **1992**—Pub. L. 102–586, §2(i)(1)(A), Nov. 4, 1992, 106 Stat. 5006, redesignated part E as I, which was redesignated as J for purposes of codification.
 
-**1988**—Pub. L. 100–690, title VII, §7266(1), Nov. 18, 1988, 102 Stat. 4449, redesignated part D as E and substituted “General and Administrative Provisions” for “Administrative Provisions”.
+**1988**—Pub. L. 100–690, title VII, §7266(1), Nov. 18, 1988, 102 Stat. 4449, redesignated part D as E and substituted "General and Administrative Provisions" for "Administrative Provisions".

@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-The general purpose of the National Institute of Mental Health (hereafter in this subpart referred to as the “Institute”) is the conduct and support of biomedical and behavioral research, health services research, research training, and health information dissemination with respect to the cause, diagnosis, treatment, control and prevention of mental illness.
+The general purpose of the National Institute of Mental Health (hereafter in this subpart referred to as the "Institute") is the conduct and support of biomedical and behavioral research, health services research, research training, and health information dissemination with respect to the cause, diagnosis, treatment, control and prevention of mental illness.
 
 #### (b) Research program ####
 
@@ -52,7 +52,7 @@ The Associate Director for Special Populations shall—
 
 **2007**—Subsec. (f). Pub. L. 109–482 struck out subsec. (f) which authorized appropriations and provided that at least 15% of the appropriated amounts were to carry out health services research relating to mental health.
 
-**1992**—Subsec. (f)(1). Pub. L. 102–352 struck out “other than section 285o–4 of this title” after “this subpart”.
+**1992**—Subsec. (f)(1). Pub. L. 102–352 struck out "other than section 285o–4 of this title" after "this subpart".
 
 #### Effective Date of 2007 Amendment ####
 

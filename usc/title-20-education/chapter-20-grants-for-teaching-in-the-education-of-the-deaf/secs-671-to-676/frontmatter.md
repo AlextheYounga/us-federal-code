@@ -6,7 +6,7 @@ Section 671, Pub. L. 87–276, §1, Sept. 22, 1961, 75 Stat. 575, authorized Com
 
 Section 672, Pub. L. 87–276, §2, Sept. 22, 1961, 75 Stat. 575, provided for making of payments by Commissioner under such a program.
 
-Section 673, Pub. L. 87–276, §3, Sept. 22, 1961, 75 Stat. 575, defined “nonprofit”, “accredited”, and “approved”.
+Section 673, Pub. L. 87–276, §3, Sept. 22, 1961, 75 Stat. 575, defined "nonprofit", "accredited", and "approved".
 
 Section 674, Pub. L. 87–276, §4, Sept. 22, 1961, 75 Stat. 576, authorized Commissioner to delegate his functions under this chapter except the making of regulations.
 

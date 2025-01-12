@@ -4,6 +4,6 @@ In planning and implementing any navigation project (including maintenance there
 
 (Pub. L. 99–662, title XI, §1154, Nov. 17, 1986, 100 Stat. 4256.)
 
-#### “Secretary” Defined ####
+#### "Secretary" Defined ####
 
 Secretary means the Secretary of the Army, see section 2201 of this title.

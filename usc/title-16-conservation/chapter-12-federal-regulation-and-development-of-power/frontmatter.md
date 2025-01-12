@@ -222,18 +222,18 @@ Sec.
 
 #### Findings ####
 
-Pub. L. 113–23, §2, Aug. 9, 2013, 127 Stat. 493, provided that: “Congress finds that—
+Pub. L. 113–23, §2, Aug. 9, 2013, 127 Stat. 493, provided that: "Congress finds that—
 
-“(1) the hydropower industry currently employs approximately 300,000 workers across the United States;
+"(1) the hydropower industry currently employs approximately 300,000 workers across the United States;
 
-“(2) hydropower is the largest source of clean, renewable electricity in the United States;
+"(2) hydropower is the largest source of clean, renewable electricity in the United States;
 
-“(3) as of the date of enactment of this Act [Aug. 9, 2013], hydropower resources, including pumped storage facilities, provide—
+"(3) as of the date of enactment of this Act [Aug. 9, 2013], hydropower resources, including pumped storage facilities, provide—
 
-“(A) nearly 7 percent of the electricity generated in the United States; and
+"(A) nearly 7 percent of the electricity generated in the United States; and
 
-“(B) approximately 100,000 megawatts of electric capacity in the United States;
+"(B) approximately 100,000 megawatts of electric capacity in the United States;
 
-“(4) only 3 percent of the 80,000 dams in the United States generate electricity, so there is substantial potential for adding hydropower generation to nonpowered dams; and
+"(4) only 3 percent of the 80,000 dams in the United States generate electricity, so there is substantial potential for adding hydropower generation to nonpowered dams; and
 
-“(5) according to one study, by utilizing currently untapped resources, the United States could add approximately 60,000 megawatts of new hydropower capacity by 2025, which could create 700,000 new jobs over the next 13 years.”
+"(5) according to one study, by utilizing currently untapped resources, the United States could add approximately 60,000 megawatts of new hydropower capacity by 2025, which could create 700,000 new jobs over the next 13 years."

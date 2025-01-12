@@ -2,7 +2,7 @@
 
 #### (a) Definitions of Indian tribe; tribal organizations ####
 
-In this section, the terms “Indian tribe” and “tribal organization” have the meanings given those terms in section 450b of title 25.
+In this section, the terms "Indian tribe" and "tribal organization" have the meanings given those terms in section 450b of title 25.
 
 #### (b) Authority ####
 
@@ -90,7 +90,7 @@ Subject to clause (v), if the tribe, organization, or consortium is an early app
 
 #### (III) Definition of early approved tribe, organization, or consortium ####
 
-For purposes of subclause (II) of this clause, the term “early approved tribe, organization, or consortium” means an Indian tribe, tribal organization, or tribal consortium that had a plan approved under section 671 of this title in accordance with this section for any quarter of fiscal year 2010 or 2011.
+For purposes of subclause (II) of this clause, the term "early approved tribe, organization, or consortium" means an Indian tribe, tribal organization, or tribal consortium that had a plan approved under section 671 of this title in accordance with this section for any quarter of fiscal year 2010 or 2011.
 
 #### (iv) Fiscal year 2015 and thereafter ####
 

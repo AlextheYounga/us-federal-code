@@ -60,7 +60,7 @@ The Secretary shall submit to the Congress before the end of each fiscal year a 
 
 #### (g) Eligible entity ####
 
-For purposes of this section, the term “eligible entity” includes a school of nursing, as defined in section 296(2) of this title,,<sup><a href="#296p_1_target" name="296p_1">1</a></sup> a health care facility, or a partnership of such a school and facility.
+For purposes of this section, the term "eligible entity" includes a school of nursing, as defined in section 296(2) of this title,,<sup><a href="#296p_1_target" name="296p_1">1</a></sup> a health care facility, or a partnership of such a school and facility.
 
 #### (h) Authorization of appropriations ####
 
@@ -74,36 +74,36 @@ A prior section 831 of act July 1, 1944, was classified to section 297–1 of th
 
 #### Amendments ####
 
-**2010**—Pub. L. 111–148, §5309(a)(1), substituted “quality” for “retention” in section catchline.
+**2010**—Pub. L. 111–148, §5309(a)(1), substituted "quality" for "retention" in section catchline.
 
-Subsec. (a). Pub. L. 111–148, §5309(a)(2), in par. (1), inserted “or” at end, redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “developing and implementing internship and residency programs to encourage mentoring and the development of specialties; or”.
+Subsec. (a). Pub. L. 111–148, §5309(a)(2), in par. (1), inserted "or" at end, redesignated par. (3) as (2), and struck out former par. (2) which read as follows: "developing and implementing internship and residency programs to encourage mentoring and the development of specialties; or".
 
-Subsec. (b)(3). Pub. L. 111–148, §5309(a)(3), substituted “coordinated care” for “managed care, quality improvement”.
+Subsec. (b)(3). Pub. L. 111–148, §5309(a)(3), substituted "coordinated care" for "managed care, quality improvement".
 
-Subsec. (g). Pub. L. 111–148, §5309(a)(4), inserted “, as defined in section 296(2) of this title,” after “school of nursing”.
+Subsec. (g). Pub. L. 111–148, §5309(a)(4), inserted ", as defined in section 296(2) of this title," after "school of nursing".
 
-Subsec. (h). Pub. L. 111–148, §5309(a)(5), substituted “2010 through 2014” for “2003 through 2007”.
+Subsec. (h). Pub. L. 111–148, §5309(a)(5), substituted "2010 through 2014" for "2003 through 2007".
 
 **2002**—Pub. L. 107–205 amended section catchline and text generally. Prior to amendment, text read as follows:
 
-“(a) In General.—The Secretary may award grants to and enter into contracts with eligible entities for projects to strengthen capacity for basic nurse education and practice.
+"(a) In General.—The Secretary may award grants to and enter into contracts with eligible entities for projects to strengthen capacity for basic nurse education and practice.
 
-“(b) Priority Areas.—In awarding grants or contracts under this section the Secretary shall give priority to entities that will use amounts provided under such a grant or contract to enhance the educational mix and utilization of the basic nursing workforce by strengthening programs that provide basic nurse education, such as through—
+"(b) Priority Areas.—In awarding grants or contracts under this section the Secretary shall give priority to entities that will use amounts provided under such a grant or contract to enhance the educational mix and utilization of the basic nursing workforce by strengthening programs that provide basic nurse education, such as through—
 
-“(1) establishing or expanding nursing practice arrangements in noninstitutional settings to demonstrate methods to improve access to primary health care in medically underserved communities;
+"(1) establishing or expanding nursing practice arrangements in noninstitutional settings to demonstrate methods to improve access to primary health care in medically underserved communities;
 
-“(2) providing care for underserved populations and other high-risk groups such as the elderly, individuals with HIV-AIDS, substance abusers, the homeless, and victims of domestic violence;
+"(2) providing care for underserved populations and other high-risk groups such as the elderly, individuals with HIV-AIDS, substance abusers, the homeless, and victims of domestic violence;
 
-“(3) providing managed care, quality improvement, and other skills needed to practice in existing and emerging organized health care systems;
+"(3) providing managed care, quality improvement, and other skills needed to practice in existing and emerging organized health care systems;
 
-“(4) developing cultural competencies among nurses;
+"(4) developing cultural competencies among nurses;
 
-“(5) expanding the enrollment in baccalaureate nursing programs;
+"(5) expanding the enrollment in baccalaureate nursing programs;
 
-“(6) promoting career mobility for nursing personnel in a variety of training settings and cross training or specialty training among diverse population groups;
+"(6) promoting career mobility for nursing personnel in a variety of training settings and cross training or specialty training among diverse population groups;
 
-“(7) providing education in informatics, including distance learning methodologies; or
+"(7) providing education in informatics, including distance learning methodologies; or
 
-“(8) other priority areas as determined by the Secretary.”
+"(8) other priority areas as determined by the Secretary."
 
 [<sup>1</sup> So in original.](#296p_1)

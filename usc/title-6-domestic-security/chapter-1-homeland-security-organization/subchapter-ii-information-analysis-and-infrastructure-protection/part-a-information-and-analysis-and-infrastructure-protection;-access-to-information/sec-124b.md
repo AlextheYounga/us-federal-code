@@ -6,6 +6,6 @@ The Secretary, acting through the Under Secretary for Intelligence and Analysis,
 
 #### (b) Comprehensive information technology network architecture defined ####
 
-The term “comprehensive information technology network architecture” means an integrated framework for evolving or maintaining existing information technology and acquiring new information technology to achieve the strategic management and information resources management goals of the Office of Intelligence and Analysis.
+The term "comprehensive information technology network architecture" means an integrated framework for evolving or maintaining existing information technology and acquiring new information technology to achieve the strategic management and information resources management goals of the Office of Intelligence and Analysis.
 
 (Pub. L. 107–296, title II, §205, as added Pub. L. 110–53, title V, §501(a)(1), Aug. 3, 2007, 121 Stat. 308.)

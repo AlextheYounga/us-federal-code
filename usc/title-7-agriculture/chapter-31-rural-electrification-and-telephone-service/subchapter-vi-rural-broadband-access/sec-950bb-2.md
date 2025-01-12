@@ -2,11 +2,11 @@
 
 #### (a) Definition of ultra-high speed service ####
 
-In this section, the term “ultra-high speed service” means broadband service operating at a 1 gigabit per second downstream transmission capacity.
+In this section, the term "ultra-high speed service" means broadband service operating at a 1 gigabit per second downstream transmission capacity.
 
 #### (b) Pilot program ####
 
-The Secretary shall establish a pilot program to be known as the “Rural Gigabit Network Pilot Program”, under which the Secretary may, at the discretion of the Secretary, provide grants, loans, or loan guarantees to eligible entities.
+The Secretary shall establish a pilot program to be known as the "Rural Gigabit Network Pilot Program", under which the Secretary may, at the discretion of the Secretary, provide grants, loans, or loan guarantees to eligible entities.
 
 #### (c) Eligibility ####
 

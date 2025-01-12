@@ -18,11 +18,11 @@ Subchapter XVI [§287 et seq.] of this chapter, referred to in subsec. (b)(2), w
 
 #### Codification ####
 
-In subsec. (b)(1), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (b)(1), "chapter 51 and subchapter III of chapter 53 of title 5" substituted for "the Classification Act of 1949" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments ####
 
-**1949**—Subsec. (b)(1). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+**1949**—Subsec. (b)(1). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
 #### Repeals ####
 

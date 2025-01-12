@@ -32,15 +32,15 @@ Not later than twelve months after December 30, 1970, the Commission shall compi
 
 #### References in Text ####
 
-This chapter, referred to in subsecs. (a) to (f), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in subsecs. (a) to (f), was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments ####
 
-**1986**—Subsec. (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+**1986**—Subsec. (e). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954" wherever appearing, which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 **1978**—Subsec. (b). Pub. L. 95–283, §14(c), redesignated subsec. (c) as (b). Former subsec. (b), relating to application of securities investor protection provisions to foreign members, was struck out.
 
-Subsec. (c). Pub. L. 95–283, §14(a), (c), redesignated subsec. (d) as (c) and inserted “, officers, or employees” after “Directors” in heading and text. Former subsec. (c) redesignated (b).
+Subsec. (c). Pub. L. 95–283, §14(a), (c), redesignated subsec. (d) as (c) and inserted ", officers, or employees" after "Directors" in heading and text. Former subsec. (c) redesignated (b).
 
 Subsec. (d). Pub. L. 95–283, §14(b), (c), redesignated subsec. (e) as (d), inserted provisions authorizing SIPC to prescribe necessary and proper minimal requirements for providing public notice of membership by a member of SIPC in SIPC, and struck out provisions authorizing rules by SIPC to implement advertising requirements. Former subsec. (d) redesignated (c).
 

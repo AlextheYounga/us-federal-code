@@ -12,4 +12,4 @@ Herein, referred to in text, means act Dec. 20, 1945, ch. 583, 59 Stat. 619, as 
 
 #### Amendments ####
 
-**1949**—Act Oct. 10, 1949, inserted “, except as authorized in section 287d–1 of this title,” in proviso.
+**1949**—Act Oct. 10, 1949, inserted ", except as authorized in section 287d–1 of this title," in proviso.

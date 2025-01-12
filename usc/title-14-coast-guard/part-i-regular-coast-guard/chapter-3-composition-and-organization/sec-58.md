@@ -1,6 +1,6 @@
 ### §58. Centers of expertise for Coast Guard prevention and response ###
 
-(a) Establishment.—The Commandant of the Coast Guard may establish and operate one or more centers of expertise for prevention and response missions of the Coast Guard (in this section referred to as a “center”).
+(a) Establishment.—The Commandant of the Coast Guard may establish and operate one or more centers of expertise for prevention and response missions of the Coast Guard (in this section referred to as a "center").
 
 (b) Missions.—Each center shall—
 

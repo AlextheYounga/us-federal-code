@@ -25,4 +25,4 @@ Chapter Sec.
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–447, div. J, title I, §109(b)(1), Dec. 8, 2004, 118 Stat. 3344, substituted “March, and Tree” for “, and March” in item for chapter 3.
+**2004**—Pub. L. 108–447, div. J, title I, §109(b)(1), Dec. 8, 2004, 118 Stat. 3344, substituted "March, and Tree" for ", and March" in item for chapter 3.

@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-For the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42, other than subpart 2 of part A of this subchapter, and except as provided in subsection (b), the term “family contribution” with respect to any student means the amount which the student and the student's family may be reasonably expected to contribute toward the student's postsecondary education for the academic year for which the determination is made, as determined in accordance with this part.
+For the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42, other than subpart 2 of part A of this subchapter, and except as provided in subsection (b), the term "family contribution" with respect to any student means the amount which the student and the student's family may be reasonably expected to contribute toward the student's postsecondary education for the academic year for which the determination is made, as determined in accordance with this part.
 
 #### (b) Special rule ####
 
@@ -32,19 +32,19 @@ Notwithstanding any other provision of law, the Secretary of Veterans Affairs an
 
 #### Amendments ####
 
-**2009**—Pub. L. 111–39 designated existing provisions as subsec. (a), inserted heading, substituted “For the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42, other than subpart 2 of part A of this subchapter, and except as provided in subsection (b),” for “For the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42, except subpart 2 of part A of this subchapter,”, and added subsec. (b).
+**2009**—Pub. L. 111–39 designated existing provisions as subsec. (a), inserted heading, substituted "For the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42, other than subpart 2 of part A of this subchapter, and except as provided in subsection (b)," for "For the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42, except subpart 2 of part A of this subchapter,", and added subsec. (b).
 
-**1998**—Pub. L. 105–244 substituted “subpart 2” for “subpart 4”.
+**1998**—Pub. L. 105–244 substituted "subpart 2" for "subpart 4".
 
-**1992**—Pub. L. 102–325 amended section generally. Prior to amendment, section read as follows: “For the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42, except subparts 1 and 3 of part A of this subchapter, the term ‘family contribution’ with respect to any student means the amount which the student and his or her family may be reasonably expected to contribute toward his or her postsecondary education for the academic year for which the determination is made, as determined in accordance with this part.”
+**1992**—Pub. L. 102–325 amended section generally. Prior to amendment, section read as follows: "For the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42, except subparts 1 and 3 of part A of this subchapter, the term 'family contribution' with respect to any student means the amount which the student and his or her family may be reasonably expected to contribute toward his or her postsecondary education for the academic year for which the determination is made, as determined in accordance with this part."
 
 #### Effective Date of 2009 Amendment ####
 
-Pub. L. 111–39, title IV, §406(b), July 1, 2009, 123 Stat. 1950, provided that: “The amendments made by—
+Pub. L. 111–39, title IV, §406(b), July 1, 2009, 123 Stat. 1950, provided that: "The amendments made by—
 
-“(1) paragraph (1) of subsection (a) [amending this section] shall take effect on July 1, 2009; and
+"(1) paragraph (1) of subsection (a) [amending this section] shall take effect on July 1, 2009; and
 
-“(2) paragraph (4) of such subsection [amending section 1087ss of this title] shall be effective as if enacted as part of the amendments in section 602(a) of the College Cost Reduction and Access Act (Public Law 110–84), and shall take effect on July 1, 2009.”
+"(2) paragraph (4) of such subsection [amending section 1087ss of this title] shall be effective as if enacted as part of the amendments in section 602(a) of the College Cost Reduction and Access Act (Public Law 110–84), and shall take effect on July 1, 2009."
 
 #### Effective Date of 1998 Amendment ####
 

@@ -8,6 +8,6 @@
 
 #### Amendments ####
 
-**1999**—Subsec. (b). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+**1999**—Subsec. (b). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security".
 
-**1996**—Subsec. (b). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+**1996**—Subsec. (b). Pub. L. 104–106 substituted "Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives" for "Committees on Armed Services of the Senate and House of Representatives".

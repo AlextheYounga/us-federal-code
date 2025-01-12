@@ -8,7 +8,7 @@ Sec.
 
 382. Assessment of net income taxes.
 
-383. “Net income tax” defined.
+383. "Net income tax" defined.
 
 384. Separability.
 

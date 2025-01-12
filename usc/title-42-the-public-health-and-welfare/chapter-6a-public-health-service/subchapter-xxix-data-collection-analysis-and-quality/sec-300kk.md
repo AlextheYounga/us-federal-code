@@ -130,7 +130,7 @@ The Secretary shall consult with the Director of the Office of Personnel Managem
 
 #### References in Text ####
 
-Section 285t of this title, referred to in subsec. (b)(1), was in the original “section 485E”, meaning section 485E of act July 1, 1944, which was renumbered section 464z–3 by Pub. L. 111–148, title X, §10334(c)(1)(D)(i), Mar. 23, 2010, 124 Stat. 973, and is classified to section 285t of this title. The act of July 1, 1944, no longer contains a section 485E.
+Section 285t of this title, referred to in subsec. (b)(1), was in the original "section 485E", meaning section 485E of act July 1, 1944, which was renumbered section 464z–3 by Pub. L. 111–148, title X, §10334(c)(1)(D)(i), Mar. 23, 2010, 124 Stat. 973, and is classified to section 285t of this title. The act of July 1, 1944, no longer contains a section 485E.
 
 The Indian Health Care Improvement Act, referred to in subsec. (c)(1)(F), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, which is classified principally to chapter 18 (§1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
@@ -142,8 +142,8 @@ Section 264(c) of the Health Insurance Portability and Accountability Act of 199
 
 [<sup>3</sup> See References in Text note below.](#300kk_3)
 
-[<sup>4</sup> So in original. Probably should be preceded by “subsection”.](#300kk_4)
+[<sup>4</sup> So in original. Probably should be preceded by "subsection".](#300kk_4)
 
-[<sup>5</sup> So in original. Probably should be “Health;”.](#300kk_5)
+[<sup>5</sup> So in original. Probably should be "Health;".](#300kk_5)
 
-[<sup>6</sup> So in original. Probably should be preceded by “subsections”.](#300kk_6)
+[<sup>6</sup> So in original. Probably should be preceded by "subsections".](#300kk_6)

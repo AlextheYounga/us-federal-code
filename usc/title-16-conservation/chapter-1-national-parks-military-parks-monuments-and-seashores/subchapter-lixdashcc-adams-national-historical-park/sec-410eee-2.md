@@ -8,7 +8,7 @@ In order to preserve for the benefit and inspiration of the people of the United
 
 The historical park shall be comprised of the following:
 
-(1) All property administered by the National Park Service in the Adams National Historic Site as of November 2, 1998, as well as all property previously authorized to be acquired by the Secretary for inclusion in the Adams National Historic Site, as generally depicted on the map entitled “Adams National Historical Park”, numbered NERO 386/80,000, and dated April 1998.
+(1) All property administered by the National Park Service in the Adams National Historic Site as of November 2, 1998, as well as all property previously authorized to be acquired by the Secretary for inclusion in the Adams National Historic Site, as generally depicted on the map entitled "Adams National Historical Park", numbered NERO 386/80,000, and dated April 1998.
 
 (2) All property authorized to be acquired for inclusion in the historical park by this subchapter or other law enacted after November 2, 1998.
 
@@ -22,4 +22,4 @@ The map of the historical park shall be on file and available for public inspect
 
 (Pub. L. 105–342, §4, Nov. 2, 1998, 112 Stat. 3201.)
 
-[<sup>1</sup> So in original. Probably should be subsection “(b)(1)”.](#410eee-2_1)
+[<sup>1</sup> So in original. Probably should be subsection "(b)(1)".](#410eee-2_1)

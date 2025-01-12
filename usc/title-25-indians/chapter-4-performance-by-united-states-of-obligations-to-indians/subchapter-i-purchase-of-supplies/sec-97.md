@@ -6,7 +6,7 @@ In all lettings of contracts in connection with the Indian Service, the proposal
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–316 substituted a period for “; and an abstract of all bids or proposals received for the supplies or services embraced in any contract shall be attached to, and filed with, the said contract when the same is filed in the office of the Second Comptroller of the Treasury”.
+**1996**—Pub. L. 104–316 substituted a period for "; and an abstract of all bids or proposals received for the supplies or services embraced in any contract shall be attached to, and filed with, the said contract when the same is filed in the office of the Second Comptroller of the Treasury".
 
 #### Transfer of Functions ####
 

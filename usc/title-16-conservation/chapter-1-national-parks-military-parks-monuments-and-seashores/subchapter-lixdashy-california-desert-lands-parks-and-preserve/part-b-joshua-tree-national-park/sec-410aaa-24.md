@@ -4,4 +4,4 @@ Within six months after October 31, 1994, the Secretary shall file maps and lega
 
 (Pub. L. 103–433, title IV, §404, Oct. 31, 1994, 108 Stat. 4488.)
 
-[<sup>1</sup> So in original. Probably should be “a legal”.](#410aaa-24_1)
+[<sup>1</sup> So in original. Probably should be "a legal".](#410aaa-24_1)

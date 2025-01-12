@@ -46,13 +46,13 @@ A copy of each such report shall, at the time of such transmission to indenture 
 
 #### Amendments ####
 
-**1998**—Subsec. (a)(4). Pub. L. 105–353, §301(e)(3)(A), inserted “any change to” before “the amount”.
+**1998**—Subsec. (a)(4). Pub. L. 105–353, §301(e)(3)(A), inserted "any change to" before "the amount".
 
-Subsec. (a)(6). Pub. L. 105–353, §301(e)(3)(B), struck out “any change to” before “any release”.
+Subsec. (a)(6). Pub. L. 105–353, §301(e)(3)(B), struck out "any change to" before "any release".
 
-**1990**—Subsec. (a). Pub. L. 101–550, §411(1), (2), substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to” and inserted “any of the following events which may have occurred within the previous 12 months (but if no such event has occurred within such period no report need be transmitted):” after “a brief report with respect to”.
+**1990**—Subsec. (a). Pub. L. 101–550, §411(1), (2), substituted "The indenture trustee shall" for "The indenture to be qualified shall contain provisions requiring the indenture trustee to" and inserted "any of the following events which may have occurred within the previous 12 months (but if no such event has occurred within such period no report need be transmitted):" after "a brief report with respect to".
 
-Subsec. (a)(1). Pub. L. 101–550, §411(3), (4), inserted “any change to” before “its eligibility” and struck out “, or in lieu thereof, if to the best of its knowledge it has continued to be eligible and qualified under such section, a written statement to such effect” after “of this title”.
+Subsec. (a)(1). Pub. L. 101–550, §411(3), (4), inserted "any change to" before "its eligibility" and struck out ", or in lieu thereof, if to the best of its knowledge it has continued to be eligible and qualified under such section, a written statement to such effect" after "of this title".
 
 Subsec. (a)(2). Pub. L. 101–550, §411(5), added par. (2) and redesignated former par. (2) as (3).
 
@@ -60,19 +60,19 @@ Subsec. (a)(3), (4). Pub. L. 101–550, §411(5)(A), redesignated pars. (2) and 
 
 Subsec. (a)(5). Pub. L. 101–550, §411(5)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Pub. L. 101–550, §411(3), inserted “any change to” after the paragraph designation.
+Pub. L. 101–550, §411(3), inserted "any change to" after the paragraph designation.
 
 Subsec. (a)(6). Pub. L. 101–550, §411(5)(A), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-Pub. L. 101–550, §411(3), inserted “any change to” after the paragraph designation.
+Pub. L. 101–550, §411(3), inserted "any change to" after the paragraph designation.
 
 Subsec. (a)(7), (8). Pub. L. 101–550, §411(5)(A), redesignated pars. (6) and (7) as (7) and (8), respectively.
 
-Subsec. (b). Pub. L. 101–550, §412(1), substituted “The indenture trustee shall” for “The indenture to be qualified shall also contain provisions requiring the indenture trustee to”.
+Subsec. (b). Pub. L. 101–550, §412(1), substituted "The indenture trustee shall" for "The indenture to be qualified shall also contain provisions requiring the indenture trustee to".
 
-Subsec. (c). Pub. L. 101–550, §412(2), substituted “Reports” for “The indenture to be qualified shall also provide that reports”.
+Subsec. (c). Pub. L. 101–550, §412(2), substituted "Reports" for "The indenture to be qualified shall also provide that reports".
 
-Subsec. (d). Pub. L. 101–550, §412(3), substituted “A copy” for “The indenture to be qualified shall also provide that a copy”.
+Subsec. (d). Pub. L. 101–550, §412(3), substituted "A copy" for "The indenture to be qualified shall also provide that a copy".
 
 #### Transfer of Functions ####
 
@@ -80,4 +80,4 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 [<sup>1</sup> So in original. The colon probably should not appear.](#77mmm_1)
 
-[<sup>2</sup> So in original. Probably should be “paragraphs”.](#77mmm_2)
+[<sup>2</sup> So in original. Probably should be "paragraphs".](#77mmm_2)

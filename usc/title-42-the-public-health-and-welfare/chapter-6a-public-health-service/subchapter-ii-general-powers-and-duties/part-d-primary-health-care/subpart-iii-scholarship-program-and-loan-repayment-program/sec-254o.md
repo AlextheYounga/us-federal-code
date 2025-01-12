@@ -30,7 +30,7 @@ in lieu of any service obligation arising under such contract shall be liable to
 
 ###  t ###
 
-in which “A” is the amount the United States is entitled to recover, “φ” is the sum of the amounts paid under this subpart to or on behalf of the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States; “t” is the total number of months in the individual's period of obligated service; and “s” is the number of months of such period served by him in accordance with section 254m of this title or a written agreement under section 254n of this title.
+in which "A" is the amount the United States is entitled to recover, "φ" is the sum of the amounts paid under this subpart to or on behalf of the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States; "t" is the total number of months in the individual's period of obligated service; and "s" is the number of months of such period served by him in accordance with section 254m of this title or a written agreement under section 254n of this title.
 
 (B)(i) Any amount of damages that the United States is entitled to recover under this subsection or under subsection (c) of this section shall, within the 1-year period beginning on the date of the breach of the written contract (or such longer period beginning on such date as specified by the Secretary), be paid to the United States. Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to section 1395ccc of this title.
 
@@ -116,9 +116,9 @@ A prior section 338E of act July 1, 1944, was renumbered section 338F by Pub. L.
 
 Subsec. (f). Pub. L. 108–163, §2(l)(1)(B), added subsec. (f).
 
-**2002**—Subsec. (a)(1). Pub. L. 107–251, §313(a)(1), substituted semicolon for comma at end of subpar. (A) and “; or” for comma at end of subpar. (B), struck out “or” at end of subpar. (C), and struck out subpar. (D) which read as follows: “fails to accept payment, or instructs the educational institution in which he is enrolled not to accept payment, in whole or in part, of a scholarship under such contract,”.
+**2002**—Subsec. (a)(1). Pub. L. 107–251, §313(a)(1), substituted semicolon for comma at end of subpar. (A) and "; or" for comma at end of subpar. (B), struck out "or" at end of subpar. (C), and struck out subpar. (D) which read as follows: "fails to accept payment, or instructs the educational institution in which he is enrolled not to accept payment, in whole or in part, of a scholarship under such contract,".
 
-Subsec. (b)(1)(A). Pub. L. 107–251, §313(a)(2)(A)(ii)–(iv), struck out “either” before “to begin”, substituted “254n of this title,” for “254n of this title or”, and inserted “or to complete a required residency as specified in section 254l(f)(1)(B)(iv) of this title,” before “the United States” the first time appearing.
+Subsec. (b)(1)(A). Pub. L. 107–251, §313(a)(2)(A)(ii)–(iv), struck out "either" before "to begin", substituted "254n of this title," for "254n of this title or", and inserted "or to complete a required residency as specified in section 254l(f)(1)(B)(iv) of this title," before "the United States" the first time appearing.
 
 Pub. L. 107–251, §313(a)(2)(A)(i), made technical amendment to reference in original act which appears in text as reference to section 254p of this title.
 
@@ -128,11 +128,11 @@ Subsec. (c)(1). Pub. L. 107–251, §313(a)(3)(A)(ii), added subpars. (A) to (C)
 
 Pub. L. 107–251, §313(a)(3)(A)(i), in introductory provisions, made technical amendment to reference in original act which appears in text as reference to section 254p(d) of this title.
 
-Subsec. (c)(2). Pub. L. 107–251, §313(a)(3)(B), added par. (2) and struck out former par. (2) which read as follows: “For purposes of paragraph (1), the term ‘unserved obligation penalty’ means the amount equal to the product of the number of months of obligated service that were not completed by an individual, multiplied by $1,000, except that in any case in which the individual fails to serve 1 year, the unserved obligation penalty shall be equal to the full period of obligated service multiplied by $1,000.”
+Subsec. (c)(2). Pub. L. 107–251, §313(a)(3)(B), added par. (2) and struck out former par. (2) which read as follows: "For purposes of paragraph (1), the term 'unserved obligation penalty' means the amount equal to the product of the number of months of obligated service that were not completed by an individual, multiplied by $1,000, except that in any case in which the individual fails to serve 1 year, the unserved obligation penalty shall be equal to the full period of obligated service multiplied by $1,000."
 
-Subsec. (c)(3), (4). Pub. L. 107–251, §313(a)(3)(B), (C), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The Secretary may waive, in whole or in part, the rights of the United States to recover amounts under this section in any case of extreme hardship or other good cause shown, as determined by the Secretary.”
+Subsec. (c)(3), (4). Pub. L. 107–251, §313(a)(3)(B), (C), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "The Secretary may waive, in whole or in part, the rights of the United States to recover amounts under this section in any case of extreme hardship or other good cause shown, as determined by the Secretary."
 
-Subsec. (d)(3)(A). Pub. L. 107–251, §313(a)(4), substituted “7-year period” for “five-year period”.
+Subsec. (d)(3)(A). Pub. L. 107–251, §313(a)(4), substituted "7-year period" for "five-year period".
 
 Subsec. (e). Pub. L. 107–251, §313(a)(5), added subsec. (e).
 
@@ -140,27 +140,27 @@ Subsec. (e). Pub. L. 107–251, §313(a)(5), added subsec. (e).
 
 **1988**—Subsec. (b)(1)(B)(i). Pub. L. 100–360 made technical amendment to directory language of Pub. L. 100–203, see 1987 Amendment note below.
 
-**1987**—Pub. L. 100–177, §202(e)(6), inserted “or loan repayment contract” in section catchline.
+**1987**—Pub. L. 100–177, §202(e)(6), inserted "or loan repayment contract" in section catchline.
 
 Subsec. (a). Pub. L. 100–177, §202(e)(1), designated existing provisions as par. (1), and former pars. (1) to (4) as subpars. (A) to (D), respectively, and added par. (2).
 
-Subsec. (b)(1). Pub. L. 100–177, §202(e)(2), designated existing provisions as subpar. (A), made technical amendments to references to sections 254m, 254n, and 254p of this title wherever appearing to reflect renumbering of corresponding sections of original act, inserted “under section 254l of this title” after first reference to “service obligation” as the probable intent of Congress, struck out at end “Any amount of damages which the United States is entitled to recover under this subsection shall, within the one year period beginning on the date of the breach of the written contract (or such longer period beginning on such date as specified by the Secretary for good cause shown), be paid to the United States.”, and added subpar. (B).
+Subsec. (b)(1). Pub. L. 100–177, §202(e)(2), designated existing provisions as subpar. (A), made technical amendments to references to sections 254m, 254n, and 254p of this title wherever appearing to reflect renumbering of corresponding sections of original act, inserted "under section 254l of this title" after first reference to "service obligation" as the probable intent of Congress, struck out at end "Any amount of damages which the United States is entitled to recover under this subsection shall, within the one year period beginning on the date of the breach of the written contract (or such longer period beginning on such date as specified by the Secretary for good cause shown), be paid to the United States.", and added subpar. (B).
 
-Subsec. (b)(1)(B)(i). Pub. L. 100–203, as amended by Pub. L. 100–360, inserted at end “Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to section 1395ccc of this title.”
+Subsec. (b)(1)(B)(i). Pub. L. 100–203, as amended by Pub. L. 100–360, inserted at end "Amounts not paid within such period shall be subject to collection through deductions in Medicare payments pursuant to section 1395ccc of this title."
 
 Subsec. (c). Pub. L. 100–177, §202(e)(4), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 100–177, §§202(e)(3), (5), 308(a), redesignated subsec. (c) as (d), in pars. (1), (2), and (3), inserted “or the Loan Repayment Program (or a contract thereunder”, and in par. (3) inserted “, and only if the bankruptcy court finds that nondischarge of the obligation would be unconscionable”.
+Subsec. (d). Pub. L. 100–177, §§202(e)(3), (5), 308(a), redesignated subsec. (c) as (d), in pars. (1), (2), and (3), inserted "or the Loan Repayment Program (or a contract thereunder", and in par. (3) inserted ", and only if the bankruptcy court finds that nondischarge of the obligation would be unconscionable".
 
-**1983**—Subsec. (b)(1). Pub. L. 97–414 substituted “section 254p(d)” for “section 254q(b)”.
+**1983**—Subsec. (b)(1). Pub. L. 97–414 substituted "section 254p(d)" for "section 254q(b)".
 
-**1981**—Subsec. (a). Pub. L. 97–35, §2709(e)(1), (2), redesignated subsec. (b) as (a) and, as so redesignated, in introductory text substituted “254l” for “294t” and added par. (4). Former subsec. (a), which related to liability of individual upon failure to accept payment, was struck out.
+**1981**—Subsec. (a). Pub. L. 97–35, §2709(e)(1), (2), redesignated subsec. (b) as (a) and, as so redesignated, in introductory text substituted "254l" for "294t" and added par. (4). Former subsec. (a), which related to liability of individual upon failure to accept payment, was struck out.
 
 Subsec. (b). Pub. L. 97–35, §2709(e)(1), (3), redesignated subsec. (c) as (b) and, as so redesignated, designated existing provisions as par. (1) and made numerous changes to reflect renumbering of subpart sections, and added par. (2). Former subsec. (b) redesignated (a).
 
 Subsecs. (c), (d). Pub. L. 97–35, §2709(e)(1), (4)(A), redesignated subsec. (d) as (c) and, as so redesignated, in par. (2) inserted reference to partial or total waiver. Former subsec. (c) redesignated (b).
 
-**1977**—Subsec. (c). Pub. L. 95–83 substituted “ ‘φ’ is the sum of the amounts paid under this subpart to or on behalf of the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans” for “ ‘φ’ is the sum of the amount paid under this subpart to or on behalf of the individual and the interest on such amount which would be payable if at the time it was paid it was a loan”.
+**1977**—Subsec. (c). Pub. L. 95–83 substituted " 'φ' is the sum of the amounts paid under this subpart to or on behalf of the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans" for " 'φ' is the sum of the amount paid under this subpart to or on behalf of the individual and the interest on such amount which would be payable if at the time it was paid it was a loan".
 
 #### Effective Date of 2003 Amendment ####
 
@@ -172,7 +172,7 @@ Pub. L. 107–251, title III, §313(b), Oct. 26, 2002, 116 Stat. 1652, which pro
 
 #### Effective Date of 1990 Amendment ####
 
-Pub. L. 101–597, title II, §203(b), Nov. 16, 1990, 104 Stat. 3027, provided that: “With respect to any financial obligation of an individual under subsection (f) of section 225 of the Public Health Service Act [former 42 U.S.C. 234], as in effect prior to the repeal of such section by section 408(b)(1) of Public Law 94–484, the amendment made by subsection (a) of this section [amending this section] applies to any backruptcy [sic] proceeding in which discharge of such an obligation has not been granted before the date that is 31 days after the date of the enactment of this Act [Nov. 16, 1990].”
+Pub. L. 101–597, title II, §203(b), Nov. 16, 1990, 104 Stat. 3027, provided that: "With respect to any financial obligation of an individual under subsection (f) of section 225 of the Public Health Service Act [former 42 U.S.C. 234], as in effect prior to the repeal of such section by section 408(b)(1) of Public Law 94–484, the amendment made by subsection (a) of this section [amending this section] applies to any backruptcy [sic] proceeding in which discharge of such an obligation has not been granted before the date that is 31 days after the date of the enactment of this Act [Nov. 16, 1990]."
 
 #### Effective Date of 1988 Amendment ####
 
@@ -192,6 +192,6 @@ Pub. L. 100–177, title II, §204, Dec. 1, 1987, 101 Stat. 1000, provided that 
 
 #### Existing Proceedings ####
 
-Pub. L. 100–177, title III, §308(b), Dec. 1, 1987, 101 Stat. 1006, provided that: “The amendment made by subsection (a) [amending this section] applies to any bankruptcy proceeding in which discharge of an obligation under section 338E(d)(3) of the Public Health Service Act [42 U.S.C. 254o(d)(3)] (as redesignated by sections 201(2) and 202(e)(3) of this Act) has not been granted before the date that is 31 days after the date of enactment of this Act [Dec. 1, 1987].”
+Pub. L. 100–177, title III, §308(b), Dec. 1, 1987, 101 Stat. 1006, provided that: "The amendment made by subsection (a) [amending this section] applies to any bankruptcy proceeding in which discharge of an obligation under section 338E(d)(3) of the Public Health Service Act [42 U.S.C. 254o(d)(3)] (as redesignated by sections 201(2) and 202(e)(3) of this Act) has not been granted before the date that is 31 days after the date of enactment of this Act [Dec. 1, 1987]."
 
 [<sup>1</sup> See References in Text note below.](#254o_1)

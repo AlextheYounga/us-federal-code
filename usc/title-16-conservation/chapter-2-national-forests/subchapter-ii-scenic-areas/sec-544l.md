@@ -102,7 +102,7 @@ The Congressional Budget and Impoundment Control Act of 1974, referred to in sub
 
 #### Amendments ####
 
-**2000**—Subsec. (c)(3). Pub. L. 106–291 inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Except as provided in subparagraph (B), no payment” for “No payment”, substituted “eighth full fiscal year” for “fifth full fiscal year”, and added subpar. (B).
+**2000**—Subsec. (c)(3). Pub. L. 106–291 inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted "Except as provided in subparagraph (B), no payment" for "No payment", substituted "eighth full fiscal year" for "fifth full fiscal year", and added subpar. (B).
 
 [<sup>1</sup> So in original. The comma probably should not appear.](#544l_1)
 

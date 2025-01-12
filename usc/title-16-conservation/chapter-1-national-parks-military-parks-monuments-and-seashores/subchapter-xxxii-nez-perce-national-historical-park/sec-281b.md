@@ -8,9 +8,9 @@ The Secretary of the Interior may acquire by donation or with donated funds such
 
 (3) such lands or interests are located—
 
-(A) within an area depicted on Sheet 3, 4, or 5 of the map entitled “Nez Perce Additions”, numbered 429–20018, and dated September 1991, or
+(A) within an area depicted on Sheet 3, 4, or 5 of the map entitled "Nez Perce Additions", numbered 429–20018, and dated September 1991, or
 
-(B) within the 8-acre parcel of Old Chief Joseph's Gravesite and Cemetery, Oregon, depicted as “Parcel A” on Sheet 2 of such map.
+(B) within the 8-acre parcel of Old Chief Joseph's Gravesite and Cemetery, Oregon, depicted as "Parcel A" on Sheet 2 of such map.
 
 The Nez Perce Tribe's governing body, if it so desires, with the approval of the Secretary of the Interior, is authorized to sell, donate, or exchange tribal-owned lands held in trust needed to further the purpose of this subchapter.
 

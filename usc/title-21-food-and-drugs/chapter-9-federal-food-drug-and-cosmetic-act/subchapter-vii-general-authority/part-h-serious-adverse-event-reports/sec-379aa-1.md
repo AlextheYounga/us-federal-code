@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Adverse event ####
 
-The term “adverse event” means any health-related event associated with the use of a dietary supplement that is adverse.
+The term "adverse event" means any health-related event associated with the use of a dietary supplement that is adverse.
 
 #### (2) Serious adverse event ####
 
-The term “serious adverse event” is an adverse event that—
+The term "serious adverse event" is an adverse event that—
 
 (A) results in—
 
@@ -28,13 +28,13 @@ The term “serious adverse event” is an adverse event that—
 
 #### (3) Serious adverse event report ####
 
-The term “serious adverse event report” means a report that is required to be submitted to the Secretary under subsection (b).
+The term "serious adverse event report" means a report that is required to be submitted to the Secretary under subsection (b).
 
 #### (b) Reporting requirement ####
 
 #### (1) In general ####
 
-The manufacturer, packer, or distributor of a dietary supplement whose name (pursuant to section 343(e)(1) of this title) appears on the label of a dietary supplement marketed in the United States (referred to in this section as the “responsible person”) shall submit to the Secretary any report received of a serious adverse event associated with such dietary supplement when used in the United States, accompanied by a copy of the label on or within the retail packaging of such dietary supplement.
+The manufacturer, packer, or distributor of a dietary supplement whose name (pursuant to section 343(e)(1) of this title) appears on the label of a dietary supplement marketed in the United States (referred to in this section as the "responsible person") shall submit to the Secretary any report received of a serious adverse event associated with such dietary supplement when used in the United States, accompanied by a copy of the label on or within the retail packaging of such dietary supplement.
 
 #### (2) Retailer ####
 
@@ -76,7 +76,7 @@ The responsible person shall permit an authorized person to have access to recor
 
 #### (B) Authorized person ####
 
-For purposes of this paragraph, the term “authorized person” means an officer or employee of the Department of Health and Human Services, who has—
+For purposes of this paragraph, the term "authorized person" means an officer or employee of the Department of Health and Human Services, who has—
 
 (i) appropriate credentials, as determined by the Secretary; and
 
@@ -88,7 +88,7 @@ A serious adverse event report submitted to the Secretary under this section, in
 
 (1) a safety report under section 379v of this title and may be accompanied by a statement, which shall be a part of any report that is released for public disclosure, that denies that the report or the records constitute an admission that the product involved caused or contributed to the adverse event; and
 
-(2) a record about an individual under section 552a of title 5 (commonly referred to as the “Privacy Act of 1974”) and a medical or similar file the disclosure of which would constitute a violation of section 552 of such title 5 (commonly referred to as the “Freedom of Information Act”), and shall not be publicly disclosed unless all personally identifiable information is redacted.
+(2) a record about an individual under section 552a of title 5 (commonly referred to as the "Privacy Act of 1974") and a medical or similar file the disclosure of which would constitute a violation of section 552 of such title 5 (commonly referred to as the "Freedom of Information Act"), and shall not be publicly disclosed unless all personally identifiable information is redacted.
 
 #### (g) Rule of construction ####
 

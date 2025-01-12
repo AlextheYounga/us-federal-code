@@ -84,7 +84,7 @@ Section is comprised of subsecs. (a) to (d) and (k) of section 3 of Pub. L. 95�
 
 #### Amendments ####
 
-**1998**—Subsec. (c). Pub. L. 105–328 designated existing provisions as par. (1) and inserted heading, substituted “Subject to paragraph (2), notwithstanding” for “Notwithstanding”, and added pars. (2) and (3).
+**1998**—Subsec. (c). Pub. L. 105–328 designated existing provisions as par. (1) and inserted heading, substituted "Subject to paragraph (2), notwithstanding" for "Notwithstanding", and added pars. (2) and (3).
 
 **1982**—Subsec. (k). Pub. L. 97–396 added subsec. (k).
 
@@ -92,22 +92,22 @@ Section is comprised of subsecs. (a) to (d) and (k) of section 3 of Pub. L. 95�
 
 Pub. L. 105–328, §2, Oct. 30, 1998, 112 Stat. 3057, provided that:
 
-“(a) Findings.—Congress finds that—
+"(a) Findings.—Congress finds that—
 
-“(1) the United States Fish and Wildlife Service (referred to in this Act [amending this section and enacting provisions set out as a note under section 742a of this title] as the ‘Service’)—
+"(1) the United States Fish and Wildlife Service (referred to in this Act [amending this section and enacting provisions set out as a note under section 742a of this title] as the 'Service')—
 
-“(A) is responsible for storage and disposal of items derived from fish, wildlife, and plants, including eagles and eagle parts, and other items that have become the property of the United States through abandonment or forfeiture under applicable laws relating to fish, wildlife, or plants;
+"(A) is responsible for storage and disposal of items derived from fish, wildlife, and plants, including eagles and eagle parts, and other items that have become the property of the United States through abandonment or forfeiture under applicable laws relating to fish, wildlife, or plants;
 
-“(B) distributes many of those items for educational and scientific uses and for religious purposes of Native Americans; and
+"(B) distributes many of those items for educational and scientific uses and for religious purposes of Native Americans; and
 
-“(C) unless otherwise prohibited by law, may dispose of some of those items by sale, except items derived from endangered or threatened species, marine mammals, and migratory birds;
+"(C) unless otherwise prohibited by law, may dispose of some of those items by sale, except items derived from endangered or threatened species, marine mammals, and migratory birds;
 
-“(2) under law in effect on the date of enactment of this Act [Oct. 30, 1998], the revenue from sale of abandoned items is not available to the Service, although approximately 90 percent of the items in possession of the Service have been abandoned; and
+"(2) under law in effect on the date of enactment of this Act [Oct. 30, 1998], the revenue from sale of abandoned items is not available to the Service, although approximately 90 percent of the items in possession of the Service have been abandoned; and
 
-“(3) making revenue from the sale of abandoned items available to the Service will enable the Service—
+"(3) making revenue from the sale of abandoned items available to the Service will enable the Service—
 
-“(A) to cover costs incurred in shipping, storing, and disposing of items derived from fish, wildlife, and plants; and
+"(A) to cover costs incurred in shipping, storing, and disposing of items derived from fish, wildlife, and plants; and
 
-“(B) to make more extensive distributions of those items for educational, scientific, and Native American religious purposes.
+"(B) to make more extensive distributions of those items for educational, scientific, and Native American religious purposes.
 
-“(b) Purposes.—The purposes of this Act are to make proceeds from sales of abandoned items derived from fish, wildlife, and plants available to the Service and to authorize the use of those proceeds to cover costs incurred in shipping, storing, and disposing of those items.”
+"(b) Purposes.—The purposes of this Act are to make proceeds from sales of abandoned items derived from fish, wildlife, and plants available to the Service and to authorize the use of those proceeds to cover costs incurred in shipping, storing, and disposing of those items."

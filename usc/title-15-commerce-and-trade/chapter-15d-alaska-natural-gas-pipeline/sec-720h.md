@@ -24,6 +24,6 @@ The Secretary shall require the sponsor of the Alaska natural gas transportation
 
 #### References in Text ####
 
-This chapter, referred to in subsec. (a), was in the original “this division”, meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. For complete classification of division C to the Code, see Short Title note set out under section 720 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this division", meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. For complete classification of division C to the Code, see Short Title note set out under section 720 of this title and Tables.
 
 The Alaska Natural Gas Transportation Act of 1976, referred to in subsec. (a)(2), is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, as amended, which is classified generally to chapter 15C (§719 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 719 of this title and Tables.

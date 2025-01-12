@@ -1,6 +1,6 @@
 ### §§811 to 820. Repealed. July 3, 1950, ch. 446, §5(2), 64 Stat. 320 ###
 
-Section 811, acts Mar. 2, 1917, ch. 145, §25, 39 Stat. 958; May 17, 1932, ch. 190, 47 Stat. 158, vested all local legislative powers in Puerto Rico, with certain exceptions, in “Legislature of Puerto Rico”, consisting of a “senate” and a “house of representatives”.
+Section 811, acts Mar. 2, 1917, ch. 145, §25, 39 Stat. 958; May 17, 1932, ch. 190, 47 Stat. 158, vested all local legislative powers in Puerto Rico, with certain exceptions, in "Legislature of Puerto Rico", consisting of a "senate" and a "house of representatives".
 
 Section 812, acts Mar. 2, 1917, ch. 145, §26, 39 Stat. 958; May 17, 1932, ch. 190, 47 Stat. 158, related to Senate of Puerto Rico, its members, election and powers.
 

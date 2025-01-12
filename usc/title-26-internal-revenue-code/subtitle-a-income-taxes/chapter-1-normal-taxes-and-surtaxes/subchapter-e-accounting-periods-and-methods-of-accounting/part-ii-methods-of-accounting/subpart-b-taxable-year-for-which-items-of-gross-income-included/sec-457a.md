@@ -6,7 +6,7 @@ Any compensation which is deferred under a nonqualified deferred compensation pl
 
 #### (b) Nonqualified entity ####
 
-For purposes of this section, the term “nonqualified entity” means—
+For purposes of this section, the term "nonqualified entity" means—
 
 (1) any foreign corporation unless substantially all of its income is—
 
@@ -56,7 +56,7 @@ To the extent provided in regulations prescribed by the Secretary, if compensati
 
 #### (ii) Investment asset ####
 
-For purposes of clause (i), the term “investment asset” means any single asset (other than an investment fund or similar entity)—
+For purposes of clause (i), the term "investment asset" means any single asset (other than an investment fund or similar entity)—
 
 (I) acquired directly by an investment fund or similar entity,
 
@@ -70,7 +70,7 @@ Paragraph (3)(B) shall not apply to any compensation to which clause (i) applies
 
 #### (2) Comprehensive foreign income tax ####
 
-The term “comprehensive foreign income tax” means, with respect to any foreign person, the income tax of a foreign country if—
+The term "comprehensive foreign income tax" means, with respect to any foreign person, the income tax of a foreign country if—
 
 (A) such person is eligible for the benefits of a comprehensive income tax treaty between such foreign country and the United States, or
 
@@ -80,7 +80,7 @@ The term “comprehensive foreign income tax” means, with respect to any forei
 
 #### (A) In general ####
 
-The term “nonqualified deferred compensation plan” has the meaning given such term under section 409A(d), except that such term shall include any plan that provides a right to compensation based on the appreciation in value of a specified number of equity units of the service recipient.
+The term "nonqualified deferred compensation plan" has the meaning given such term under section 409A(d), except that such term shall include any plan that provides a right to compensation based on the appreciation in value of a specified number of equity units of the service recipient.
 
 #### (B) Exception ####
 
@@ -104,20 +104,20 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 Pub. L. 110–343, div. C, title VIII, §801(d), Oct. 3, 2008, 122 Stat. 3931, provided that:
 
-“(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [enacting this section and amending section 26 of this title] shall apply to amounts deferred which are attributable to services performed after December 31, 2008.
+"(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [enacting this section and amending section 26 of this title] shall apply to amounts deferred which are attributable to services performed after December 31, 2008.
 
-“(2) Application to existing deferrals.—In the case of any amount deferred to which the amendments made by this section do not apply solely by reason of the fact that the amount is attributable to services performed before January 1, 2009, to the extent such amount is not includible in gross income in a taxable year beginning before 2018, such amounts shall be includible in gross income in the later of—
+"(2) Application to existing deferrals.—In the case of any amount deferred to which the amendments made by this section do not apply solely by reason of the fact that the amount is attributable to services performed before January 1, 2009, to the extent such amount is not includible in gross income in a taxable year beginning before 2018, such amounts shall be includible in gross income in the later of—
 
-“(A) the last taxable year beginning before 2018, or
+"(A) the last taxable year beginning before 2018, or
 
-“(B) the taxable year in which there is no substantial risk of forfeiture of the rights to such compensation (determined in the same manner as determined for purposes of section 457A of the Internal Revenue Code of 1986, as added by this section).
+"(B) the taxable year in which there is no substantial risk of forfeiture of the rights to such compensation (determined in the same manner as determined for purposes of section 457A of the Internal Revenue Code of 1986, as added by this section).
 
-“(3) Accelerated payments.—No later than 120 days after the date of the enactment of this Act [Oct. 3, 2008], the Secretary shall issue guidance providing a limited period of time during which a nonqualified deferred compensation arrangement attributable to services performed on or before December 31, 2008, may, without violating the requirements of section 409A(a) of the Internal Revenue Code of 1986, be amended to conform the date of distribution to the date the amounts are required to be included in income.
+"(3) Accelerated payments.—No later than 120 days after the date of the enactment of this Act [Oct. 3, 2008], the Secretary shall issue guidance providing a limited period of time during which a nonqualified deferred compensation arrangement attributable to services performed on or before December 31, 2008, may, without violating the requirements of section 409A(a) of the Internal Revenue Code of 1986, be amended to conform the date of distribution to the date the amounts are required to be included in income.
 
-“(4) Certain back-to-back arrangements.—If the taxpayer is also a service recipient and maintains one or more nonqualified deferred compensation arrangements for its service providers under which any amount is attributable to services performed on or before December 31, 2008, the guidance issued under paragraph (4) shall permit such arrangements to be amended to conform the dates of distribution under such arrangement to the date amounts are required to be included in the income of such taxpayer under this subsection.
+"(4) Certain back-to-back arrangements.—If the taxpayer is also a service recipient and maintains one or more nonqualified deferred compensation arrangements for its service providers under which any amount is attributable to services performed on or before December 31, 2008, the guidance issued under paragraph (4) shall permit such arrangements to be amended to conform the dates of distribution under such arrangement to the date amounts are required to be included in the income of such taxpayer under this subsection.
 
-“(5) Accelerated payment not treated as material modification.—Any amendment to a nonqualified deferred compensation arrangement made pursuant to paragraph (4) or (5) shall not be treated as a material modification of the arrangement for purposes of section 409A of the Internal Revenue Code of 1986.”
+"(5) Accelerated payment not treated as material modification.—Any amendment to a nonqualified deferred compensation arrangement made pursuant to paragraph (4) or (5) shall not be treated as a material modification of the arrangement for purposes of section 409A of the Internal Revenue Code of 1986."
 
-[<sup>1</sup> So in original. Probably should be followed by “of”.](#457A_1)
+[<sup>1</sup> So in original. Probably should be followed by "of".](#457A_1)
 
-[<sup>2</sup> So in original. The word “had” probably should not appear.](#457A_2)
+[<sup>2</sup> So in original. The word "had" probably should not appear.](#457A_2)

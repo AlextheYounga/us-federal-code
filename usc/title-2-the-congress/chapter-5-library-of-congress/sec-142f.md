@@ -10,8 +10,8 @@ The Disbursing Officer of the Library of Congress shall not be held accountable 
 
 #### Codification ####
 
-In the second par., “section 3726 of title 31” substituted for “section 244 of title 31” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In the second par., "section 3726 of title 31" substituted for "section 244 of title 31" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section is based on section 205 of title II of H.R. 4120, as reported July 9, 1981, and incorporated by reference in section 101(c) of Pub. L. 97–51, to be effective as if enacted into law.
 
-[<sup>1</sup> So in original. The word “of” probably should not appear.](#142f_1)
+[<sup>1</sup> So in original. The word "of" probably should not appear.](#142f_1)

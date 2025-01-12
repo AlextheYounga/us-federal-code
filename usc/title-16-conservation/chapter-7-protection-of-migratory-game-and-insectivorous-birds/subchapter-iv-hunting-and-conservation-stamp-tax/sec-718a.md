@@ -34,11 +34,11 @@ Nothing in this section requires any individual to affix the Migratory Bird Hunt
 
 **2006**—Pub. L. 109–266 amended section generally. Prior to amendment, section related to hunting and conservation stamp for taking migratory waterfowl.
 
-**1976**—Pub. L. 94–215 substituted “hunting and conservation stamp” for “hunting stamp” in first sentence.
+**1976**—Pub. L. 94–215 substituted "hunting and conservation stamp" for "hunting stamp" in first sentence.
 
-**1956**—Act July 30, 1956, substituted “no person who has attained the age of sixteen years”, for “no person over sixteen years of age”.
+**1956**—Act July 30, 1956, substituted "no person who has attained the age of sixteen years", for "no person over sixteen years of age".
 
-**1935**—Act June 15, 1935, substituted “validated by his signature written by himself in ink across the face of the stamp prior to his taking such birds” for “issued to him in the manner hereinafter provided,” and struck out provisions which authorized the Secretary of Agriculture to adopt and promulgate regulations for the protection of private property in the injury of crops.
+**1935**—Act June 15, 1935, substituted "validated by his signature written by himself in ink across the face of the stamp prior to his taking such birds" for "issued to him in the manner hereinafter provided," and struck out provisions which authorized the Secretary of Agriculture to adopt and promulgate regulations for the protection of private property in the injury of crops.
 
 #### Transfer of Functions ####
 

@@ -10,4 +10,4 @@ This Act, referred to in text, is act Mar. 6, 1942, which is classified to secti
 
 #### Amendments ####
 
-**1988**—Pub. L. 100–668 substituted “a class B misdemeanor in accordance with provisions of title 18” for “a misdemeanor and shall be subject to a fine of not more than $500 or imprisonment not exceeding six months, or both, and be adjudged to pay all the costs of the proceedings”.
+**1988**—Pub. L. 100–668 substituted "a class B misdemeanor in accordance with provisions of title 18" for "a misdemeanor and shall be subject to a fine of not more than $500 or imprisonment not exceeding six months, or both, and be adjudged to pay all the costs of the proceedings".

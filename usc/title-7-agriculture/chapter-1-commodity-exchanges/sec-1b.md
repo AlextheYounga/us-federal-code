@@ -1,8 +1,8 @@
-### §1b. Requirements of Secretary of the Treasury regarding exemption of foreign exchange swaps and foreign exchange forwards from definition of the term “swap” ###
+### §1b. Requirements of Secretary of the Treasury regarding exemption of foreign exchange swaps and foreign exchange forwards from definition of the term "swap" ###
 
 #### (a) Required considerations ####
 
-In determining whether to exempt foreign exchange swaps and foreign exchange forwards from the definition of the term “swap”, the Secretary of the Treasury (referred to in this section as the “Secretary”) shall consider—
+In determining whether to exempt foreign exchange swaps and foreign exchange forwards from the definition of the term "swap", the Secretary of the Treasury (referred to in this section as the "Secretary") shall consider—
 
 (1) whether the required trading and clearing of foreign exchange swaps and foreign exchange forwards would create systemic risk, lower transparency, or threaten the financial stability of the United States;
 
@@ -16,7 +16,7 @@ In determining whether to exempt foreign exchange swaps and foreign exchange for
 
 #### (b) Determination ####
 
-If the Secretary makes a determination to exempt foreign exchange swaps and foreign exchange forwards from the definition of the term “swap”, the Secretary shall submit to the appropriate committees of Congress a determination that contains—
+If the Secretary makes a determination to exempt foreign exchange swaps and foreign exchange forwards from the definition of the term "swap", the Secretary shall submit to the appropriate committees of Congress a determination that contains—
 
 (1) an explanation regarding why foreign exchange swaps and foreign exchange forwards are qualitatively different from other classes of swaps in a way that would make the foreign exchange swaps and foreign exchange forwards ill-suited for regulation as swaps; and
 
@@ -30,7 +30,7 @@ A determination by the Secretary under subsection (b) shall not exempt any forei
 
 #### References in Text ####
 
-This chapter, referred to in subsec. (c), was in the original “this title”, and was translated as reading “this Act”, meaning act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to this chapter, to reflect the probable intent of Congress, because act Sept. 21, 1922, does not contain titles.
+This chapter, referred to in subsec. (c), was in the original "this title", and was translated as reading "this Act", meaning act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to this chapter, to reflect the probable intent of Congress, because act Sept. 21, 1922, does not contain titles.
 
 #### Effective Date ####
 

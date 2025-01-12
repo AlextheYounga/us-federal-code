@@ -6,7 +6,7 @@ Any association may take, receive, reserve, and charge on any loan or discount m
 
 #### References in Text ####
 
-Title 62 of the Revised Statutes, referred to in text, was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83, 84, 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
+Title 62 of the Revised Statutes, referred to in text, was in the original "this Title" meaning title LXII of the Revised Statutes, consisting of R.S. §§5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83, 84, 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
 
 #### Codification ####
 
@@ -20,13 +20,13 @@ Section 201 of Pub. L. 93–501, cited as a credit to this section, was repealed
 
 #### Amendments ####
 
-**1980**—Pub. L. 96–221 repealed Pub. L. 96–104 and title II of Pub. L. 96–161, resulting in the striking out of “or in the case of business or agricultural loans in the amount of $25,000 or more, at a rate of 5 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where the bank is located,” before “whichever may be the greater” in two places. See Codification and 1979 Amendment notes under this section.
+**1980**—Pub. L. 96–221 repealed Pub. L. 96–104 and title II of Pub. L. 96–161, resulting in the striking out of "or in the case of business or agricultural loans in the amount of $25,000 or more, at a rate of 5 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where the bank is located," before "whichever may be the greater" in two places. See Codification and 1979 Amendment notes under this section.
 
 **1979**—Pub. L. 96–161 inserted provisions relating to a 5 per centum interest rate on business or agricultural loans in the amount of $25,000 or more that were identical to provisions inserted earlier by Pub. L. 96–104. See Codification note above.
 
-Pub. L. 96–104 substituted “or in the case of business or agricultural loans in the amount of $25,000 or more, at a rate of 5 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where the bank is located, whichever may be the greater” for “whichever may be the greater” in two places. See Codification note above.
+Pub. L. 96–104 substituted "or in the case of business or agricultural loans in the amount of $25,000 or more, at a rate of 5 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where the bank is located, whichever may be the greater" for "whichever may be the greater" in two places. See Codification note above.
 
-**1974**—Pub. L. 93–501 substituted “or in the case of business or agricultural loans in the amount of $25,000 or more, at a rate of 5 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where the bank is located, whichever may be the greater” for “whichever may be the greater” in two places.
+**1974**—Pub. L. 93–501 substituted "or in the case of business or agricultural loans in the amount of $25,000 or more, at a rate of 5 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where the bank is located, whichever may be the greater" for "whichever may be the greater" in two places.
 
 **1935**—Act Aug. 23, 1935, inserted third sentence.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-There is established within the Smithsonian Institution a council to be known as the “National Museum of African American History and Culture Council”.
+There is established within the Smithsonian Institution a council to be known as the "National Museum of African American History and Culture Council".
 
 #### (b) Duties ####
 

@@ -10,4 +10,4 @@ Sec.
 
 1294. Antitrust laws unaffected as regards to other activities of professional sports contests.
 
-1295. “Persons” defined.
+1295. "Persons" defined.

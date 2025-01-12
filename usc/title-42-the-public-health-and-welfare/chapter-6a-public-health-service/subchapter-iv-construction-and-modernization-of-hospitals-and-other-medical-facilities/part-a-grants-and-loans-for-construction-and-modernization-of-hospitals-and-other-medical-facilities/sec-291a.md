@@ -28,24 +28,24 @@ A prior section 291s, act July 1, 1944, ch. 373, title VI, §651, as added July 
 
 #### Amendments ####
 
-**1973**—Subsec. (a). Pub. L. 93–45, §108(a)(1), substituted introductory text reading “fiscal year ending June 30, 1974” for “fiscal year ending June 30, 1965, and each of the next eight fiscal years” and in cl. (1) “$20,800,000” for “$85,000,000”.
+**1973**—Subsec. (a). Pub. L. 93–45, §108(a)(1), substituted introductory text reading "fiscal year ending June 30, 1974" for "fiscal year ending June 30, 1965, and each of the next eight fiscal years" and in cl. (1) "$20,800,000" for "$85,000,000".
 
 Subsec. (b). Pub. L. 93–45, §108(a)(2), authorized appropriations of $41,400,000 for fiscal year ending June 30, 1974.
 
 Subsec. (c). Pub. L. 93–45, §108(a)(3), authorized appropriations of $50,000,000 for fiscal year ending June 30, 1974.
 
-**1970**—Par. (a). Pub. L. 91–296, §§101(a)(1), (2), 116(a), substituted “outpatient facilities” for “diagnostic or treatment centers” in enumeration of facilities eligible for construction grants, extended through fiscal year ending June 30, 1973, authority to appropriate funds for construction grants, increased from $70,000,000 to $85,000,000 annual authority to make grants for public or other nonprofit facilities for long-term care, from $20,000,000 to $70,000,000 authority for public or other nonprofit outpatient facilities, and from $10,000,000 to $15,000,000 authority for public or other nonprofit rehabilitation facilities.
+**1970**—Par. (a). Pub. L. 91–296, §§101(a)(1), (2), 116(a), substituted "outpatient facilities" for "diagnostic or treatment centers" in enumeration of facilities eligible for construction grants, extended through fiscal year ending June 30, 1973, authority to appropriate funds for construction grants, increased from $70,000,000 to $85,000,000 annual authority to make grants for public or other nonprofit facilities for long-term care, from $20,000,000 to $70,000,000 authority for public or other nonprofit outpatient facilities, and from $10,000,000 to $15,000,000 authority for public or other nonprofit rehabilitation facilities.
 
 Par. (b). Pub. L. 91–296, §§101(a)(3), 102(a)(1), struck out provisions authorizing grants for modernization of facilities and inserted provisions authorizing appropriation of $147,500,000 for fiscal year ending June 30, 1971, $152,500,000 for fiscal year ending June 30, 1972, and $157,500,000 for fiscal year ending June 30, 1973, for grants for construction of public or other nonprofit hospitals and public health centers
 
 Par. (c). Pub. L. 91–296, §102(a)(2), added par. (c).
 
-**1968**—Par. (a). Pub. L. 90–574, §402(a)(1), substituted “next five” for “next four”.
+**1968**—Par. (a). Pub. L. 90–574, §402(a)(1), substituted "next five" for "next four".
 
 Par. (b). Pub. L. 90–574, §402(a)(2), authorized appropriation of $195,000,000 for fiscal year ending June 30, 1970.
 
 #### Effective Date of 1970 Amendment ####
 
-Pub. L. 91–296, title I, §101(b), June 30, 1970, 84 Stat. 337, provided that: “The amendments made by subsection (a) [amending this section] shall take effect with respect to appropriations made under such section 601 [42 U.S.C. 291a] for fiscal years beginning after June 30, 1970.”
+Pub. L. 91–296, title I, §101(b), June 30, 1970, 84 Stat. 337, provided that: "The amendments made by subsection (a) [amending this section] shall take effect with respect to appropriations made under such section 601 [42 U.S.C. 291a] for fiscal years beginning after June 30, 1970."
 
 Pub. L. 91–296, title I, §102(a), June 30, 1970, 84 Stat. 337, provided that the amendment made by that section is effective with respect to appropriations made under this section for fiscal years beginning after June 30, 1970.

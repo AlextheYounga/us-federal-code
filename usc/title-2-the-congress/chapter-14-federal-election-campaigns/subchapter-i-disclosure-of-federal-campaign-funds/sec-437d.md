@@ -52,25 +52,25 @@ A prior section 307 of Pub. L. 92–225 was renumbered section 305, and is class
 
 #### Amendments ####
 
-**1986**—Subsec. (a)(6), (8). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+**1986**—Subsec. (a)(6), (8). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-**1980**—Subsec. (a). Pub. L. 96–187, §106, in par. (1) substituted “under oath, such written reports and answers to questions as the Commission may prescribe” for “in writing such reports and answers to questions as the Commission may prescribe” and struck out provision that such submission be made within such reasonable time and under oath as determined by the Commission; in par. (4) struck out “of this subsection” after “paragraph (3)”; in par. (6) substituted “section 437g(a)(8)” for “section 437g(a)(9)”, and substituted “to enforce the provisions of this Act” for “for the purpose of enforcing the provisions of this Act”; struck out par. (9) relating to formulation of general policy respecting administration of this Act and chapters 95 and 96 of title 26; and redesignated former par. (10) as (9).
+**1980**—Subsec. (a). Pub. L. 96–187, §106, in par. (1) substituted "under oath, such written reports and answers to questions as the Commission may prescribe" for "in writing such reports and answers to questions as the Commission may prescribe" and struck out provision that such submission be made within such reasonable time and under oath as determined by the Commission; in par. (4) struck out "of this subsection" after "paragraph (3)"; in par. (6) substituted "section 437g(a)(8)" for "section 437g(a)(9)", and substituted "to enforce the provisions of this Act" for "for the purpose of enforcing the provisions of this Act"; struck out par. (9) relating to formulation of general policy respecting administration of this Act and chapters 95 and 96 of title 26; and redesignated former par. (10) as (9).
 
 Subsec. (b). Pub. L. 96–187, §106, reworded subsec. (b) without substantive changes.
 
 Subsec. (c). Pub. L. 96–187, §106, reenacted subsec. (c) without change.
 
-Subsec. (d). Pub. L. 96–187, §106, struck out “of the United States” after “President” in pars. (1) and (2).
+Subsec. (d). Pub. L. 96–187, §106, struck out "of the United States" after "President" in pars. (1) and (2).
 
-Subsec. (e). Pub. L. 96–187, §106, substituted “section 437g(a)(8)” for “section 437g(a)(9)”.
+Subsec. (e). Pub. L. 96–187, §106, substituted "section 437g(a)(8)" for "section 437g(a)(9)".
 
-**1976**—Subsec. (a)(6). Pub. L. 94–283, §107(b)(1), substituted “civil actions” for “civil proceedings” and inserted “(in the case of any civil action brought under section 437g(a) (9) of this title)” after “defend” and “and chapter 95 and chapter 96 of title 26” after “this Act”.
+**1976**—Subsec. (a)(6). Pub. L. 94–283, §107(b)(1), substituted "civil actions" for "civil proceedings" and inserted "(in the case of any civil action brought under section 437g(a) (9) of this title)" after "defend" and "and chapter 95 and chapter 96 of title 26" after "this Act".
 
-Subsec. (a)(7). Pub. L. 94–283, §115(b), substituted “section 312” for “section 313” in the original to accommodate the renumbering of section 313 of Pub. L. 92–225 as section 312 of Pub. L. 92–225 by section 105 of Pub. L. 94–283. Since both the original and substituted references translate as “section 437f of this title” no change in text was required.
+Subsec. (a)(7). Pub. L. 94–283, §115(b), substituted "section 312" for "section 313" in the original to accommodate the renumbering of section 313 of Pub. L. 92–225 as section 312 of Pub. L. 92–225 by section 105 of Pub. L. 94–283. Since both the original and substituted references translate as "section 437f of this title" no change in text was required.
 
-Subsec. (a)(8). Pub. L. 94–283, §107(a)(1), inserted “to develop such prescribed forms and to” before “to make, amend, and repeal” and inserted “and chapter 95 and chapter 96 of title 26” after “provisions of this Act”.
+Subsec. (a)(8). Pub. L. 94–283, §107(a)(1), inserted "to develop such prescribed forms and to" before "to make, amend, and repeal" and inserted "and chapter 95 and chapter 96 of title 26" after "provisions of this Act".
 
-Subsec. (a)(9). Pub. L. 94–283, §107(a)(2), substituted “and chapter 95 and chapter 96 of title 26; and” for “and sections 608, 610, 611, 613, 614, 615, 616, and 617 of title 18;”.
+Subsec. (a)(9). Pub. L. 94–283, §107(a)(2), substituted "and chapter 95 and chapter 96 of title 26; and" for "and sections 608, 610, 611, 613, 614, 615, 616, and 617 of title 18;".
 
 Subsecs. (a)(10), (11). Pub. L. 94–283, §107(a)(3), redesignated par. (11) as par. (10). Former par. (10), which covered the development of prescribed forms under subsection (a)(1) of this section, was struck out.
 

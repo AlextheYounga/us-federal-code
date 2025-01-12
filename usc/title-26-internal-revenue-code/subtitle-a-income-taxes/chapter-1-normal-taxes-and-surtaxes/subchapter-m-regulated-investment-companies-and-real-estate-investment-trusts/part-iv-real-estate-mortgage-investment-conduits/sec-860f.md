@@ -8,7 +8,7 @@ There is hereby imposed for each taxable year of a REMIC a tax equal to 100 perc
 
 #### (2) Prohibited transaction ####
 
-For purposes of this part, the term “prohibited transaction” means—
+For purposes of this part, the term "prohibited transaction" means—
 
 #### (A) Disposition of qualified mortgage ####
 
@@ -36,7 +36,7 @@ Gain from the disposition of any cash flow investment other than pursuant to any
 
 #### (3) Determination of net income ####
 
-For purposes of paragraph (1), the term “net income derived from prohibited transactions” means the excess of the gross income from prohibited transactions over the deductions allowed by this chapter which are directly connected with such transactions; except that there shall not be taken into account any item attributable to any prohibited transaction for which there was a loss.
+For purposes of paragraph (1), the term "net income derived from prohibited transactions" means the excess of the gross income from prohibited transactions over the deductions allowed by this chapter which are directly connected with such transactions; except that there shall not be taken into account any item attributable to any prohibited transaction for which there was a loss.
 
 #### (4) Qualified liquidation ####
 
@@ -44,7 +44,7 @@ For purposes of this part—
 
 #### (A) In general ####
 
-The term “qualified liquidation” means a transaction in which—
+The term "qualified liquidation" means a transaction in which—
 
 (i) the REMIC adopts a plan of complete liquidation,
 
@@ -54,7 +54,7 @@ The term “qualified liquidation” means a transaction in which—
 
 #### (B) Liquidation period ####
 
-The term “liquidation period” means the period—
+The term "liquidation period" means the period—
 
 (i) beginning on the date of the adoption of the plan of liquidation, and
 
@@ -62,7 +62,7 @@ The term “liquidation period” means the period—
 
 #### (5) Exceptions ####
 
-Notwithstanding subparagraphs (A) and (D) of paragraph (2), the term “prohibited transaction” shall not include any disposition—
+Notwithstanding subparagraphs (A) and (D) of paragraph (2), the term "prohibited transaction" shall not include any disposition—
 
 (A) required to prevent default on a regular interest where the threatened default resulted from a default on 1 or more qualified mortgages, or
 
@@ -118,7 +118,7 @@ For purposes of section 1091—
 
 (A) except as provided in regulations, any residual interest in any REMIC and any interest in a taxable mortgage pool (as defined in section 7701(i)) comparable to a residual interest in a REMIC shall be treated as substantially identical stock or securities, and
 
-(B) subsections (a) and (e) of such section shall be applied by substituting “6 months” for “30 days” each place it appears.
+(B) subsections (a) and (e) of such section shall be applied by substituting "6 months" for "30 days" each place it appears.
 
 #### (e) Treatment under subtitle F ####
 
@@ -128,28 +128,28 @@ For purposes of subtitle F, a REMIC shall be treated as a partnership (and holde
 
 #### Amendments ####
 
-**1996**—Subsec. (a)(5). Pub. L. 104–188 substituted “paragraph (2)” for “paragraph (1)” in introductory provisions.
+**1996**—Subsec. (a)(5). Pub. L. 104–188 substituted "paragraph (2)" for "paragraph (1)" in introductory provisions.
 
-**1988**—Subsec. (a)(2)(A). Pub. L. 100–647, §1006(t)(3)(B)(i), struck out at end “Notwithstanding the preceding sentence, the term ‘prohibited transaction’ shall not include any disposition required to prevent default on a regular interest where the threatened default resulted from a default on 1 or more qualified mortgages.”
+**1988**—Subsec. (a)(2)(A). Pub. L. 100–647, §1006(t)(3)(B)(i), struck out at end "Notwithstanding the preceding sentence, the term 'prohibited transaction' shall not include any disposition required to prevent default on a regular interest where the threatened default resulted from a default on 1 or more qualified mortgages."
 
-Subsec. (a)(2)(A)(i). Pub. L. 100–647, §1006(t)(3)(A), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the substitution of a qualified replacement mortgage for a qualified mortgage,”.
+Subsec. (a)(2)(A)(i). Pub. L. 100–647, §1006(t)(3)(A), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "the substitution of a qualified replacement mortgage for a qualified mortgage,".
 
-Subsec. (a)(2)(A)(iii), (C). Pub. L. 100–647, §1006(t)(22)(B), (C), substituted “REMIC” for “real estate mortgage pool”.
+Subsec. (a)(2)(A)(iii), (C). Pub. L. 100–647, §1006(t)(22)(B), (C), substituted "REMIC" for "real estate mortgage pool".
 
-Subsec. (a)(2)(D). Pub. L. 100–647, §1006(t)(3)(C), struck out “described in subsection (b)” before period at end.
+Subsec. (a)(2)(D). Pub. L. 100–647, §1006(t)(3)(C), struck out "described in subsection (b)" before period at end.
 
 Subsec. (a)(5). Pub. L. 100–647, §1006(t)(3)(B)(ii), added par. (5).
 
-Subsec. (b)(1)(A). Pub. L. 100–647, §1006(t)(4), substituted “the transfer of any property to a REMIC in exchange for regular or residual interests in such REMIC” for “the transfer of any property to a REMIC”.
+Subsec. (b)(1)(A). Pub. L. 100–647, §1006(t)(4), substituted "the transfer of any property to a REMIC in exchange for regular or residual interests in such REMIC" for "the transfer of any property to a REMIC".
 
-Subsec. (b)(1)(C)(ii). Pub. L. 100–647, §1006(t)(22)(D), substituted “REMIC” for “real estate mortgage pool”.
+Subsec. (b)(1)(C)(ii). Pub. L. 100–647, §1006(t)(22)(D), substituted "REMIC" for "real estate mortgage pool".
 
-Subsec. (b)(1)(D)(ii). Pub. L. 100–647, §1006(t)(14), (22)(E), amended cl. (ii) identically, substituting “REMIC” for “real estate mortgage pool”.
+Subsec. (b)(1)(D)(ii). Pub. L. 100–647, §1006(t)(14), (22)(E), amended cl. (ii) identically, substituting "REMIC" for "real estate mortgage pool".
 
-Subsec. (e). Pub. L. 100–647, §1006(t)(18)(A), inserted at end “Such return shall be filed by the REMIC. The determination of who may sign such return shall be made without regard to the first sentence of this subsection.”
+Subsec. (e). Pub. L. 100–647, §1006(t)(18)(A), inserted at end "Such return shall be filed by the REMIC. The determination of who may sign such return shall be made without regard to the first sentence of this subsection."
 
 #### Effective Date of 1988 Amendment ####
 
-Pub. L. 100–647, title I, §1006(t)(18)(B), Nov. 10, 1988, 102 Stat. 3426, provided that: “Unless the REMIC otherwise elects, the amendment made by subparagraph (A) [amending this section] shall not apply to any REMIC where the start-up day (as defined in section 860G(a)(9) of the 1986 Code as in effect on the day before the date of the enactment of this Act [Nov. 10, 1988]) is before the date of the enactment of this Act.”
+Pub. L. 100–647, title I, §1006(t)(18)(B), Nov. 10, 1988, 102 Stat. 3426, provided that: "Unless the REMIC otherwise elects, the amendment made by subparagraph (A) [amending this section] shall not apply to any REMIC where the start-up day (as defined in section 860G(a)(9) of the 1986 Code as in effect on the day before the date of the enactment of this Act [Nov. 10, 1988]) is before the date of the enactment of this Act."
 
 Amendment by section 1006(t)(3), (4), (14), (22)(B)–(E) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.

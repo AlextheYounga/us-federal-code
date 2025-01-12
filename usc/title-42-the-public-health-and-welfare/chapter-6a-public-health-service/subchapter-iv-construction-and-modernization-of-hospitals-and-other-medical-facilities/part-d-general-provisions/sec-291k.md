@@ -24,13 +24,13 @@ Provisions similar to those comprising this section were contained in subsec. (b
 
 #### Amendments ####
 
-**2010**—Subsec. (a). Pub. L. 111–256 substituted “matters relating to individuals with intellectual disabilities” for “matters relating to the mentally retarded”.
+**2010**—Subsec. (a). Pub. L. 111–256 substituted "matters relating to individuals with intellectual disabilities" for "matters relating to the mentally retarded".
 
 **1970**—Subsec. (e). Pub. L. 91–515 struck out subsec. (e) which related to payment of compensation and travel expenses of appointed Council members and members of advisory or technical committees while serving on Council business.
 
 #### Transfer of Functions ####
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 

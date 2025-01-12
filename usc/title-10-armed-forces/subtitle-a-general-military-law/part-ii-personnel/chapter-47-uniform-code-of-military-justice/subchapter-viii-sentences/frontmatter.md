@@ -13,7 +13,7 @@
 
 #### Amendments ####
 
-**2013**—Pub. L. 113–66, div. A, title XVII, §1705(a)(2)(B), Dec. 26, 2013, 127 Stat. 959, substituted “Maximum and minimum limits” for “Maximum limits” in item 856.
+**2013**—Pub. L. 113–66, div. A, title XVII, §1705(a)(2)(B), Dec. 26, 2013, 127 Stat. 959, substituted "Maximum and minimum limits" for "Maximum limits" in item 856.
 
 **1997**—Pub. L. 105–85, div. A, title V, §581(a)(2), Nov. 18, 1997, 111 Stat. 1760, added item 856a.
 

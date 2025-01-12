@@ -18,4 +18,4 @@ Section was enacted as part of the Omnibus Budget Reconciliation Act of 1981, an
 
 #### Effective Date ####
 
-Pub. L. 97–35, title I, §156(e), Aug. 13, 1981, 95 Stat. 374, provided that: “The provisions of this section [enacting this section, amending sections 15b, 55, and 473a of this title, and enacting provision set out as a note under section 473a of this title] shall become effective October 1, 1981.”
+Pub. L. 97–35, title I, §156(e), Aug. 13, 1981, 95 Stat. 374, provided that: "The provisions of this section [enacting this section, amending sections 15b, 55, and 473a of this title, and enacting provision set out as a note under section 473a of this title] shall become effective October 1, 1981."

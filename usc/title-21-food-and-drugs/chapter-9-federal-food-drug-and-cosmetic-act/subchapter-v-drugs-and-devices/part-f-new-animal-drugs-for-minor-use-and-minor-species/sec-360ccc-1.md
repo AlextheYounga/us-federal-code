@@ -146,9 +146,9 @@ For purposes of indexing new animal drugs under this section, to the extent cons
 
 The labeling of a new animal drug that is the subject of an index listing shall state, prominently and conspicuously—
 
-(1) “Not approved by fda.—Legally marketed as an FDA indexed product. Extra-label use is prohibited.”;
+(1) "Not approved by fda.—Legally marketed as an FDA indexed product. Extra-label use is prohibited.";
 
-(2) except in the case of new animal drugs indexed for use in an early life stage of a food-producing animal, “This product is not to be used in animals intended for use as food for humans or other animals.”; and
+(2) except in the case of new animal drugs indexed for use in an early life stage of a food-producing animal, "This product is not to be used in animals intended for use as food for humans or other animals."; and
 
 (3) such other information as may be prescribed by the Secretary in the index listing.
 

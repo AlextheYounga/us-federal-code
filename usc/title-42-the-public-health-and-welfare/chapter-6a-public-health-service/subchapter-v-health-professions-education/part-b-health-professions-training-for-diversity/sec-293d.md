@@ -30,8 +30,8 @@ A prior section 740 of act July 1, 1944, was classified to section 294m of this 
 
 #### Amendments ####
 
-**2010**—Subsec. (a). Pub. L. 111–148, §5402(b), substituted “$51,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2014” for “$37,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002”.
+**2010**—Subsec. (a). Pub. L. 111–148, §5402(b), substituted "$51,000,000 for fiscal year 2010, and such sums as may be necessary for each of the fiscal years 2011 through 2014" for "$37,000,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002".
 
-Subsec. (b). Pub. L. 111–148, §5402(c), substituted “appropriated, $5,000,000 for each of the fiscal years 2010 through 2014” for “appropriated $1,100,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002”.
+Subsec. (b). Pub. L. 111–148, §5402(c), substituted "appropriated, $5,000,000 for each of the fiscal years 2010 through 2014" for "appropriated $1,100,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002".
 
-Subsec. (c). Pub. L. 111–148, §5402(d), substituted “For the purpose of grants and contracts under section 293c(a)(1) of this title, there is authorized to be appropriated $60,000,000 for fiscal year 2010 and such sums as may be necessary for each of the fiscal years 2011 through 2014” for “For the purpose of grants and contracts under section 293c(a)(1) of this title, there is authorized to be appropriated $29,400,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002”.
+Subsec. (c). Pub. L. 111–148, §5402(d), substituted "For the purpose of grants and contracts under section 293c(a)(1) of this title, there is authorized to be appropriated $60,000,000 for fiscal year 2010 and such sums as may be necessary for each of the fiscal years 2011 through 2014" for "For the purpose of grants and contracts under section 293c(a)(1) of this title, there is authorized to be appropriated $29,400,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002".

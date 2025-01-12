@@ -54,12 +54,12 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 Pub. L. 102–484, div. C, title XXXIII, §3306, Oct. 23, 1992, 106 Stat. 2652, provided that:
 
-“(a) Appointment.—Not later than March 15, 1993, the President shall appoint an advisory committee under section 10(a) of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–1(a)) to make recommendations to the President concerning the operation and modernization of the National Defense Stockpile.
+"(a) Appointment.—Not later than March 15, 1993, the President shall appoint an advisory committee under section 10(a) of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–1(a)) to make recommendations to the President concerning the operation and modernization of the National Defense Stockpile.
 
-“(b) Membership.—The committee shall consist of members who have expertise regarding strategic and critical materials, including—
+"(b) Membership.—The committee shall consist of members who have expertise regarding strategic and critical materials, including—
 
-“(1) employees of Federal agencies (including the Department of Defense, the Department of State, the Department of Commerce, the Department of Energy, the Department of the Treasury, the Department of the Interior, and the Federal Emergency Management Agency);
+"(1) employees of Federal agencies (including the Department of Defense, the Department of State, the Department of Commerce, the Department of Energy, the Department of the Treasury, the Department of the Interior, and the Federal Emergency Management Agency);
 
-“(2) representatives of mining, processing, and fabricating industries and consumers that would be affected by the acquisition of materials for the stockpile or the disposal of materials from the stockpile; and
+"(2) representatives of mining, processing, and fabricating industries and consumers that would be affected by the acquisition of materials for the stockpile or the disposal of materials from the stockpile; and
 
-“(3) other interested persons or representatives of interested organizations.”
+"(3) other interested persons or representatives of interested organizations."

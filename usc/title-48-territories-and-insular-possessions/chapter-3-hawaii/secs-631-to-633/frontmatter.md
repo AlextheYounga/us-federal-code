@@ -4,7 +4,7 @@
 
 Sections 631 to 633, relating to Territory of Hawaii, were omitted in view of admission of Hawaii into the Union.
 
-Section 631, act Apr. 30, 1900, ch. 339, §81, 31 Stat. 157, made provision for vesting of judicial power in courts and continued in force the courts’ jurisdiction and procedure previously in force.
+Section 631, act Apr. 30, 1900, ch. 339, §81, 31 Stat. 157, made provision for vesting of judicial power in courts and continued in force the courts' jurisdiction and procedure previously in force.
 
 Section 632, acts Apr. 30, 1900, ch. 339, §82, 31 Stat. 157; June 15, 1950, ch. 250, 64 Stat. 216, set out size and organization of supreme court, appointment and qualifications of its members, and provisions for filling of vacancies therein.
 

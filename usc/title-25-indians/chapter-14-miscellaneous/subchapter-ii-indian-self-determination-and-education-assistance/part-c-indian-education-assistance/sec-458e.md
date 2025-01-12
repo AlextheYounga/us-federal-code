@@ -10,4 +10,4 @@ The Elementary and Secondary Education Act of 1965, referred to in text, is Pub.
 
 #### Amendments ####
 
-**1994**—Pub. L. 103–382 substituted “title IX of the Elementary and Secondary Education Act of 1965” for “title IV of the Act of June 23, 1972 (86 Stat. 235)”.
+**1994**—Pub. L. 103–382 substituted "title IX of the Elementary and Secondary Education Act of 1965" for "title IV of the Act of June 23, 1972 (86 Stat. 235)".

@@ -18,4 +18,4 @@ Subject to valid existing rights the following-described lands, in addition to t
 
 **1976**—Pub. L. 94–567 designated existing provisions as par. (a), redesignated subpars. (a) to (c) as (1) to (3), respectively, and added par. (b).
 
-**1942**—Act July 27, 1942, substituted “Secretary of the Navy” for “Secretary of the Treasury”.
+**1942**—Act July 27, 1942, substituted "Secretary of the Navy" for "Secretary of the Treasury".

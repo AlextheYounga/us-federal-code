@@ -8,4 +8,4 @@ A prior section 2680, added Pub. L. 87–651, title I, §112(c), Sept. 7, 1962, 
 
 #### Effect of Repeal ####
 
-Pub. L. 111–383, div. B, title XXVIII, §2814(b), Jan. 7, 2011, 124 Stat. 4464, provided that: “The amendment made by subsection (a) [repealing this section] shall not affect the validity of any contract entered into under section 2680 of title 10, United States Code, on or before September 30, 2005.”
+Pub. L. 111–383, div. B, title XXVIII, §2814(b), Jan. 7, 2011, 124 Stat. 4464, provided that: "The amendment made by subsection (a) [repealing this section] shall not affect the validity of any contract entered into under section 2680 of title 10, United States Code, on or before September 30, 2005."

@@ -80,7 +80,7 @@ In order to receive assistance under this section, an eligible system shall subm
 
 (4) provide information on and make referrals to programs and services addressing the needs of individuals with disabilities in the State or the American Indian consortium;
 
-(5) develop a statement of objectives and priorities on an annual basis, and provide to the public, including individuals with disabilities and, as appropriate, the individuals’ representatives, an opportunity to comment on the objectives and priorities established by, and activities of, the system including—
+(5) develop a statement of objectives and priorities on an annual basis, and provide to the public, including individuals with disabilities and, as appropriate, the individuals' representatives, an opportunity to comment on the objectives and priorities established by, and activities of, the system including—
 
 (A) the objectives and priorities for the activities of the system for each year and the rationale for the establishment of such objectives and priorities; and
 
@@ -126,11 +126,11 @@ As used in this section:
 
 #### (1) Eligible system ####
 
-The term “eligible system” means a protection and advocacy system that is established under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [42 U.S.C. 15041 et seq.] and that meets the requirements of subsection (f) of this section.
+The term "eligible system" means a protection and advocacy system that is established under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [42 U.S.C. 15041 et seq.] and that meets the requirements of subsection (f) of this section.
 
 #### (2) American Indian consortium ####
 
-The term “American Indian consortium” means a consortium established as described in section 142 <sup><a href="#794e_2_target" name="794e_2">2</a></sup> of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042).
+The term "American Indian consortium" means a consortium established as described in section 142 <sup><a href="#794e_2_target" name="794e_2">2</a></sup> of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042).
 
 (Pub. L. 93–112, title V, §509, as added Pub. L. 102–569, title V, §510(a), Oct. 29, 1992, 106 Stat. 4430; amended Pub. L. 103–73, title I, §112(c), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–12, §9(n), Apr. 30, 1997, 111 Stat. 28; Pub. L. 105–220, title IV, §408(c), Aug. 7, 1998, 112 Stat. 1206; Pub. L. 105–394, title IV, §402(c), Nov. 13, 1998, 112 Stat. 3662; Pub. L. 106–402, title IV, §401(b)(3)(C), (D), Oct. 30, 2000, 114 Stat. 1738.)
 
@@ -148,41 +148,41 @@ Section 142 of the Developmental Disabilities Assistance and Bill of Rights Act 
 
 #### Amendments ####
 
-**2000**—Subsecs. (a)(1)(B)(i), (f)(2). Pub. L. 106–402, §401(b)(3)(C), substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.)”.
+**2000**—Subsecs. (a)(1)(B)(i), (f)(2). Pub. L. 106–402, §401(b)(3)(C), substituted "subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000" for "part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.)".
 
-Subsec. (f)(5)(B). Pub. L. 106–402, §401(b)(3)(D), substituted “Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.)”.
+Subsec. (f)(5)(B). Pub. L. 106–402, §401(b)(3)(D), substituted "Developmental Disabilities Assistance and Bill of Rights Act of 2000" for "Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6000 et seq.)".
 
-Subsec. (m)(1). Pub. L. 106–402, §401(b)(3)(C), substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.)”.
+Subsec. (m)(1). Pub. L. 106–402, §401(b)(3)(C), substituted "subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000" for "part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.)".
 
 **1998**—Pub. L. 105–220 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (n) relating to protection and advocacy of individual rights.
 
-Subsec. (a)(2). Pub. L. 105–394 substituted “the Assistive Technology Act of 1998” for “the Technology-Related Assistance for Individuals With Disabilities Act of 1988 (42 U.S.C. 2201 et seq.)”.
+Subsec. (a)(2). Pub. L. 105–394 substituted "the Assistive Technology Act of 1998" for "the Technology-Related Assistance for Individuals With Disabilities Act of 1988 (42 U.S.C. 2201 et seq.)".
 
 **1997**—Subsec. (f)(8). Pub. L. 105–12 added par. (8).
 
-**1993**—Subsec. (a)(1). Pub. L. 103–73, §112(c)(1), added par. (1) and struck out former par. (1) which read as follows: “are ineligible for client assistance programs under section 732 of this title; and”.
+**1993**—Subsec. (a)(1). Pub. L. 103–73, §112(c)(1), added par. (1) and struck out former par. (1) which read as follows: "are ineligible for client assistance programs under section 732 of this title; and".
 
 Subsec. (b). Pub. L. 103–73, §112(c)(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 
-“(1) Allotments.—For any fiscal year in which the amount appropriated to carry out this section is less than $5,500,000, the Commissioner may make grants from such amount to eligible systems within States to plan for, develop outreach strategies for, and carry out protection and advocacy programs authorized under this section for individuals with disabilities who meet the requirements of paragraphs (1) and (2) of subsection (a) of this section.
+"(1) Allotments.—For any fiscal year in which the amount appropriated to carry out this section is less than $5,500,000, the Commissioner may make grants from such amount to eligible systems within States to plan for, develop outreach strategies for, and carry out protection and advocacy programs authorized under this section for individuals with disabilities who meet the requirements of paragraphs (1) and (2) of subsection (a) of this section.
 
-“(2) Other jurisdictions.—For the purposes of this subsection, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau shall not be considered to be States.”
+"(2) Other jurisdictions.—For the purposes of this subsection, Guam, American Samoa, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau shall not be considered to be States."
 
-Subsec. (c)(4)(A). Pub. L. 103–73, §112(c)(3)(A)(i), substituted “paragraph (3)(B)” for “this subsection”.
+Subsec. (c)(4)(A). Pub. L. 103–73, §112(c)(3)(A)(i), substituted "paragraph (3)(B)" for "this subsection".
 
-Subsec. (c)(4)(B). Pub. L. 103–73, §112(c)(3)(A)(ii), substituted “allotted under paragraph (3)(A)” for “allotted”.
+Subsec. (c)(4)(B). Pub. L. 103–73, §112(c)(3)(A)(ii), substituted "allotted under paragraph (3)(A)" for "allotted".
 
 Subsec. (c)(5). Pub. L. 103–73, §112(c)(3)(B), added par. (5) and struck out heading and text of former par. (5). Text read as follows:
 
-“(A) States.—For purposes of determining the minimum amount of an allotment under paragraph (3)(B), the amount $100,000 shall, in the case of such allotments for fiscal year 1994 and subsequent fiscal years, be increased to the extent necessary to offset the effects of inflation occurring since October 1992, as measured by the percentage increase in the Consumer Price Index For All Urban Consumers (U.S. city average) during the period ending on April 1 of the fiscal year preceding the fiscal year for which the allotment is to be made.
+"(A) States.—For purposes of determining the minimum amount of an allotment under paragraph (3)(B), the amount $100,000 shall, in the case of such allotments for fiscal year 1994 and subsequent fiscal years, be increased to the extent necessary to offset the effects of inflation occurring since October 1992, as measured by the percentage increase in the Consumer Price Index For All Urban Consumers (U.S. city average) during the period ending on April 1 of the fiscal year preceding the fiscal year for which the allotment is to be made.
 
-“(B) Certain territories.—For purposes of determining the minimum amount of an allotment under paragraph (4)(B), the amount $50,000 shall, in the case of such allotments for fiscal year 1994 and subsequent fiscal years, be increased to the extent necessary to offset the effects of inflation occurring since October 1992, as measured by the percentage increase in the Consumer Price Index For All Urban Consumers (U.S. city average) during the period ending on April 1 of the fiscal year preceding the fiscal year for which the allotment is to be made.”
+"(B) Certain territories.—For purposes of determining the minimum amount of an allotment under paragraph (4)(B), the amount $50,000 shall, in the case of such allotments for fiscal year 1994 and subsequent fiscal years, be increased to the extent necessary to offset the effects of inflation occurring since October 1992, as measured by the percentage increase in the Consumer Price Index For All Urban Consumers (U.S. city average) during the period ending on April 1 of the fiscal year preceding the fiscal year for which the allotment is to be made."
 
-Subsec. (d). Pub. L. 103–73, §112(c)(4), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Amounts necessary to provide allotments to systems within States in accordance with subsection (c)(3)(B) of this section as increased under subsection (c)(5) of this section, or to provide allotments in accordance with subsection (c)(4)(B) of this section as increased in accordance with subsection (c)(5) of this section, shall be derived by proportionately reducing the allotments of the remaining systems within States under subsection (c)(3) of this section, but with such adjustments as may be necessary to prevent the allotment of any such remaining systems within States from being thereby reduced to less than the greater of $100,000 or one-third of one percent of the sums made available for purposes of this section for the fiscal year for which the allotment is made, as increased in accordance with subsection (c)(5) of this section.”
+Subsec. (d). Pub. L. 103–73, §112(c)(4), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: "Amounts necessary to provide allotments to systems within States in accordance with subsection (c)(3)(B) of this section as increased under subsection (c)(5) of this section, or to provide allotments in accordance with subsection (c)(4)(B) of this section as increased in accordance with subsection (c)(5) of this section, shall be derived by proportionately reducing the allotments of the remaining systems within States under subsection (c)(3) of this section, but with such adjustments as may be necessary to prevent the allotment of any such remaining systems within States from being thereby reduced to less than the greater of $100,000 or one-third of one percent of the sums made available for purposes of this section for the fiscal year for which the allotment is made, as increased in accordance with subsection (c)(5) of this section."
 
-Subsec. (i). Pub. L. 103–73, §112(c)(6), which directed the amendment of this section “in subsection (i), to read as follows:”, was executed by adding subsec. (i). Former subsec. (i) redesignated (n).
+Subsec. (i). Pub. L. 103–73, §112(c)(6), which directed the amendment of this section "in subsection (i), to read as follows:", was executed by adding subsec. (i). Former subsec. (i) redesignated (n).
 
-Subsec. (j). Pub. L. 103–73, §112(c)(7), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: “An eligible system may not use more than 5 percent of any allotment under subsection (c) of this section for the cost of administration of the system required by this section.”
+Subsec. (j). Pub. L. 103–73, §112(c)(7), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: "An eligible system may not use more than 5 percent of any allotment under subsection (c) of this section for the cost of administration of the system required by this section."
 
 Subsec. (n). Pub. L. 103–73, §112(c)(5), redesignated subsec. (i) as (n).
 

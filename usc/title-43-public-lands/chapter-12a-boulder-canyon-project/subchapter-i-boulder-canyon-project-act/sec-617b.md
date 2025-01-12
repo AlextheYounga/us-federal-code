@@ -6,4 +6,4 @@ There is authorized to be appropriated from time to time, out of any money in th
 
 #### Amendments ####
 
-**1984**—Pub. L. 98–381 substituted “$242,000,000, of which $77,000,000 (October 1983 price levels) shall be adjusted plus or minus such amounts as may be justified by reason of ordinary fluctuations of construction costs as indicated by engineering cost indices applicable to the type of construction involved herein. Said $77,000,000 represents the additional amount required for the uprating program and the visitor facilities program” for “$165,000,000”.
+**1984**—Pub. L. 98–381 substituted "$242,000,000, of which $77,000,000 (October 1983 price levels) shall be adjusted plus or minus such amounts as may be justified by reason of ordinary fluctuations of construction costs as indicated by engineering cost indices applicable to the type of construction involved herein. Said $77,000,000 represents the additional amount required for the uprating program and the visitor facilities program" for "$165,000,000".

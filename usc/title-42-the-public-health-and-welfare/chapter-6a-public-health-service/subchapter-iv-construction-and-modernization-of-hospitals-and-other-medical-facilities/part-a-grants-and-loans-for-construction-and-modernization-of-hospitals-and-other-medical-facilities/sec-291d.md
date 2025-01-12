@@ -56,9 +56,9 @@ Provisions similar to those comprising this section were contained in a prior se
 
 **1970**—Subsec. (a)(3). Pub. L. 91–296, §115, inserted requirement that State advisory councils include representatives particularly concerned with education or training of health professions personnel.
 
-Subsec. (a)(4)(C). Pub. L. 91–296, §116(b), substituted “outpatient facilities” for “diagnostic or treatment centers” and “such facilities” for “such centers”.
+Subsec. (a)(4)(C). Pub. L. 91–296, §116(b), substituted "outpatient facilities" for "diagnostic or treatment centers" and "such facilities" for "such centers".
 
-Subsec. (a)(5). Pub. L. 91–296, §116(c), substituted “outpatient facilities” for “diagnostic or treatment centers”.
+Subsec. (a)(5). Pub. L. 91–296, §116(c), substituted "outpatient facilities" for "diagnostic or treatment centers".
 
 Subsec. (a)(13). Pub. L. 91–296, §123, added par. (13).
 

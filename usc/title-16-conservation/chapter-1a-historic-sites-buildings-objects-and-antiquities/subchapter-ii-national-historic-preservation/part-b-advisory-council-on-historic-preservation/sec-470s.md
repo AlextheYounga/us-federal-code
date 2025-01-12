@@ -6,6 +6,6 @@ The Council is authorized to promulgate such rules and regulations as it deems n
 
 #### Amendments ####
 
-**1992**—Pub. L. 102–575 inserted “in its entirety” before period at end of first sentence.
+**1992**—Pub. L. 102–575 inserted "in its entirety" before period at end of first sentence.
 
 **1980**—Pub. L. 96–515 inserted provision authorizing the Council to establish procedures as necessary to provide for participation by local governments in proceedings and other actions taken by the Council with respect to undertakings referred to in section 470f of this title which affect such local governments.

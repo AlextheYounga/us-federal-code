@@ -14,28 +14,28 @@ Federal investigations and improvements of rivers and other waterways for flood 
 
 #### Change of Name ####
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
 #### Savings Provision ####
 
-Section 7 of act Aug. 4, 1954, which amended this section by repealing provisions relating to the Department of Agriculture, provides in part that: “(a) the authority of that Department of Agriculture, under the direction of the Secretary, to prosecute the works of improvement for runoff and waterflow retardation and soil erosion prevention authorized to be carried out by the Department by the act of December 22, 1944 (58 Stat. 887), as amended [section 701a–1 of this title], and (b) the authority of the Secretary of Agriculture to undertake emergency measures for runoff retardation and soil erosion prevention authorized to be carried out by section 7 of the act of June 28, 1938 (52 Stat. 1215), as amended by section 216 of the act of May 17, 1950 (64 Stat. 163) [section 701b–1 of this title], shall not be affected by the provisions of this section.”
+Section 7 of act Aug. 4, 1954, which amended this section by repealing provisions relating to the Department of Agriculture, provides in part that: "(a) the authority of that Department of Agriculture, under the direction of the Secretary, to prosecute the works of improvement for runoff and waterflow retardation and soil erosion prevention authorized to be carried out by the Department by the act of December 22, 1944 (58 Stat. 887), as amended [section 701a–1 of this title], and (b) the authority of the Secretary of Agriculture to undertake emergency measures for runoff retardation and soil erosion prevention authorized to be carried out by section 7 of the act of June 28, 1938 (52 Stat. 1215), as amended by section 216 of the act of May 17, 1950 (64 Stat. 163) [section 701b–1 of this title], shall not be affected by the provisions of this section."
 
 #### Risk-Based Analysis Methodology ####
 
 Pub. L. 104–303, title II, §202(h), Oct. 12, 1996, 110 Stat. 3676, provided that:
 
-“(1) In general.—The Secretary shall enter into an agreement with the National Academy of Sciences to conduct a study of the Corps of Engineers’ use of risk-based analysis for the evaluation of hydrology, hydraulics, and economics in flood damage reduction studies. The study shall include—
+"(1) In general.—The Secretary shall enter into an agreement with the National Academy of Sciences to conduct a study of the Corps of Engineers' use of risk-based analysis for the evaluation of hydrology, hydraulics, and economics in flood damage reduction studies. The study shall include—
 
-“(A) an evaluation of the impact of risk-based analysis on project formulation, project economic justification, and minimum engineering and safety standards; and
+"(A) an evaluation of the impact of risk-based analysis on project formulation, project economic justification, and minimum engineering and safety standards; and
 
-“(B) a review of studies conducted using risk-based analysis to determine—
+"(B) a review of studies conducted using risk-based analysis to determine—
 
-“(i) the scientific validity of applying risk-based analysis in these studies; and
+"(i) the scientific validity of applying risk-based analysis in these studies; and
 
-“(ii) the impact of using risk-based analysis as it relates to current policy and procedures of the Corps of Engineers.
+"(ii) the impact of using risk-based analysis as it relates to current policy and procedures of the Corps of Engineers.
 
-“(2) Report.—Not later than 18 months after the date of the enactment of this Act [Oct. 12, 1996], the Secretary shall submit to Congress a report on the results of the study under paragraph (1), as well as such recommendations as the Secretary considers appropriate.
+"(2) Report.—Not later than 18 months after the date of the enactment of this Act [Oct. 12, 1996], the Secretary shall submit to Congress a report on the results of the study under paragraph (1), as well as such recommendations as the Secretary considers appropriate.
 
-“(3) Limitation on use of methodology.—During the period beginning on the date of the enactment of this Act [Oct. 12, 1996] and ending 18 months after that date, if requested by a non-Federal interest, the Secretary shall refrain from using any risk-based technique required under the studies described in paragraph (1) for the evaluation and design of a project.
+"(3) Limitation on use of methodology.—During the period beginning on the date of the enactment of this Act [Oct. 12, 1996] and ending 18 months after that date, if requested by a non-Federal interest, the Secretary shall refrain from using any risk-based technique required under the studies described in paragraph (1) for the evaluation and design of a project.
 
-“(4) Authorization of appropriations.—There is authorized to be appropriated $250,000 to carry out this subsection.”
+"(4) Authorization of appropriations.—There is authorized to be appropriated $250,000 to carry out this subsection."

@@ -48,7 +48,7 @@ Sec.
 
 469c. Assistance to Secretary of the Interior by Federal agencies responsible for construction projects; authorization of appropriations.
 
-469c–1. “State” defined.
+469c–1. "State" defined.
 
 469c–2. Costs for identification, surveys, evaluation and data recovery with respect to historic properties.
 
@@ -168,7 +168,7 @@ Sec.
 
 470w–3. Access to information.
 
-470w–4. Attorneys’ fees and costs to prevailing parties in civil actions.
+470w–4. Attorneys' fees and costs to prevailing parties in civil actions.
 
 470w–5. National Museum for the Building Arts.
 

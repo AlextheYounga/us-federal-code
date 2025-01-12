@@ -66,4 +66,4 @@ A prior section 949a, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Sta
 
 #### Amendments ####
 
-**2011**—Subsec. (b)(2)(C)(i), (ii). Pub. L. 112–81 substituted “sworn” for “preferred”.
+**2011**—Subsec. (b)(2)(C)(i), (ii). Pub. L. 112–81 substituted "sworn" for "preferred".

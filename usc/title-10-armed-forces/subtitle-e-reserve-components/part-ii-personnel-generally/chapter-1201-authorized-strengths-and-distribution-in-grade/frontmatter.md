@@ -28,6 +28,6 @@ Sec.
 
 #### Amendments ####
 
-**2006**—Pub. L. 109–163, div. A, title V, §515(b)(4)(H), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy Reserve” for “Naval Reserve” in item 12010.
+**2006**—Pub. L. 109–163, div. A, title V, §515(b)(4)(H), Jan. 6, 2006, 119 Stat. 3235, substituted "Navy Reserve" for "Naval Reserve" in item 12010.
 
-**1999**—Pub. L. 106–65, div. A, title X, §1066(a)(31), Oct. 5, 1999, 113 Stat. 772, inserted “in an” after “officers” in item 12003.
+**1999**—Pub. L. 106–65, div. A, title X, §1066(a)(31), Oct. 5, 1999, 113 Stat. 772, inserted "in an" after "officers" in item 12003.

@@ -30,7 +30,7 @@ The Secretary of Agriculture, in accordance with such regulations as he deems ne
 
 (c) The Secretary may incur necessary administrative expenses not to exceed 3 per centum of the amount appropriated in any fiscal year in carrying out this section, including the specific objects of expense enumerated in section 427b of this title.
 
-(d) The “Special research fund, Department of Agriculture,” provided by section 427c of this title, shall continue to be available solely for research into laws and principles underlying basic problems of agriculture in its broadest aspects; research relating to the improvement of the quality of, and the development of, new and improved methods of production of, distribution of, and new and extended uses and markets for, agricultural commodities and byproducts and manufactures thereof; and research relating to the conservation, development, and use of land and water resources for agricultural purposes. Such research shall be in addition to research provided for under other law (but both activities shall be coordinated so far as practicable) and shall be conducted by such agencies of the Department of Agriculture as the Secretary of Agriculture may designate or establish.
+(d) The "Special research fund, Department of Agriculture," provided by section 427c of this title, shall continue to be available solely for research into laws and principles underlying basic problems of agriculture in its broadest aspects; research relating to the improvement of the quality of, and the development of, new and improved methods of production of, distribution of, and new and extended uses and markets for, agricultural commodities and byproducts and manufactures thereof; and research relating to the conservation, development, and use of land and water resources for agricultural purposes. Such research shall be in addition to research provided for under other law (but both activities shall be coordinated so far as practicable) and shall be conducted by such agencies of the Department of Agriculture as the Secretary of Agriculture may designate or establish.
 
 (e) Appropriations for research work in the Department of Agriculture shall be available for accomplishing such purposes by contract through the means provided in subsection (a) of this section.
 
@@ -44,9 +44,9 @@ Sections 427a to 427h and 427j of this title, referred to in text, were repealed
 
 #### Codification ####
 
-In subsec. (a), “section 6101 of title 41” substituted for “section 3709, Revised Statutes” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a), "section 6101 of title 41" substituted for "section 3709, Revised Statutes" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a), “section 3324(a) and (b) of title 31” substituted for “section 3648, Revised Statutes [31 U.S.C. 529]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a), "section 3324(a) and (b) of title 31" substituted for "section 3648, Revised Statutes [31 U.S.C. 529]" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments ####
 

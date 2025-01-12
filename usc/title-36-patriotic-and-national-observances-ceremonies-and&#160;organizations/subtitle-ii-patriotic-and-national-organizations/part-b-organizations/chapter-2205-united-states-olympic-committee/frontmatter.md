@@ -50,6 +50,6 @@ Sec.
 
 #### Amendments ####
 
-**2006**—Pub. L. 109–284, §5(12), Sept. 27, 2006, 120 Stat. 1212, substituted “Short title and definitions” for “Definitions” in item 220501.
+**2006**—Pub. L. 109–284, §5(12), Sept. 27, 2006, 120 Stat. 1212, substituted "Short title and definitions" for "Definitions" in item 220501.
 
-**1998**—Pub. L. 105–277, div. C. title I, §142(j)(2), (k)(2), Oct. 21, 1998, 112 Stat. 2681–606, 2681–607, substituted “Report” for “Annual report” in item 220511 and added item 220512.
+**1998**—Pub. L. 105–277, div. C. title I, §142(j)(2), (k)(2), Oct. 21, 1998, 112 Stat. 2681–606, 2681–607, substituted "Report" for "Annual report" in item 220511 and added item 220512.

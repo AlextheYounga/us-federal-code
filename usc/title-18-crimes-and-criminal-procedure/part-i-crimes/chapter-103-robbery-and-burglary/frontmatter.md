@@ -26,4 +26,4 @@ Sec.
 
 **1984**—Pub. L. 98–305, §3, May 31, 1984, 98 Stat. 222, added item 2118.
 
-**1966**—Pub. L. 89–654, §2(d), Oct. 14, 1966, 80 Stat. 904, substituted “Breaking or entering carrier facilities” for “Railroad car entered or seal broken” in item 2117.
+**1966**—Pub. L. 89–654, §2(d), Oct. 14, 1966, 80 Stat. 904, substituted "Breaking or entering carrier facilities" for "Railroad car entered or seal broken" in item 2117.

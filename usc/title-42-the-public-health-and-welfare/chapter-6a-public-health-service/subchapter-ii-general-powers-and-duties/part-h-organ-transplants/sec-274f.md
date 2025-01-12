@@ -4,7 +4,7 @@
 
 The Secretary may award grants to States, transplant centers, qualified organ procurement organizations under section 273 of this title, or other public or private entities for the purpose of—
 
-(1) providing for the reimbursement of travel and subsistence expenses incurred by individuals toward making living donations of their organs (in this section referred to as “donating individuals”); and
+(1) providing for the reimbursement of travel and subsistence expenses incurred by individuals toward making living donations of their organs (in this section referred to as "donating individuals"); and
 
 (2) providing for the reimbursement of such incidental nonmedical expenses that are so incurred as the Secretary determines by regulation to be appropriate.
 
@@ -16,9 +16,9 @@ The Secretary shall, in carrying out subsection (a) of this section, give prefer
 
 The Secretary may, in carrying out subsection (a) of this section, consider—
 
-(1) the term “donating individuals” as including individuals who in good faith incur qualifying expenses toward the intended donation of an organ but with respect to whom, for such reasons as the Secretary determines to be appropriate, no donation of the organ occurs; and
+(1) the term "donating individuals" as including individuals who in good faith incur qualifying expenses toward the intended donation of an organ but with respect to whom, for such reasons as the Secretary determines to be appropriate, no donation of the organ occurs; and
 
-(2) the term “qualifying expenses” as including the expenses of having relatives or other individuals, not to exceed 2, accompany or assist the donating individual for purposes of subsection (a) of this section (subject to making payment for only those types of expenses that are paid for a donating individual).
+(2) the term "qualifying expenses" as including the expenses of having relatives or other individuals, not to exceed 2, accompany or assist the donating individual for purposes of subsection (a) of this section (subject to making payment for only those types of expenses that are paid for a donating individual).
 
 #### (d) Relationship to payments under other programs ####
 
@@ -34,9 +34,9 @@ An award may be made under subsection (a) of this section only if the applicant 
 
 For purposes of this section:
 
-(1) The term “donating individuals” has the meaning indicated for such term in subsection (a)(1) of this section, subject to subsection (c)(1) of this section.
+(1) The term "donating individuals" has the meaning indicated for such term in subsection (a)(1) of this section, subject to subsection (c)(1) of this section.
 
-(2) The term “qualifying expenses” means the expenses authorized for purposes of subsection (a) of this section, subject to subsection (c)(2) of this section.
+(2) The term "qualifying expenses" means the expenses authorized for purposes of subsection (a) of this section, subject to subsection (c)(2) of this section.
 
 #### (f) Authorization of appropriations ####
 

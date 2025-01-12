@@ -34,7 +34,7 @@ Sec.
 
 438a. Maintenance of website of election reports.
 
-439. Statements filed with State officers; “appropriate State” defined; duties of State officers; waiver of duplicate filing requirement for States with electronic access.
+439. Statements filed with State officers; "appropriate State" defined; duties of State officers; waiver of duplicate filing requirement for States with electronic access.
 
 439a. Use of contributed amounts for certain purposes.
 

@@ -10,4 +10,4 @@ Section 502, Pub. L. 91–518, title I, §103, formerly §102, Oct. 30, 1970, 84
 
 #### Short Title ####
 
-Pub. L. 91–518, §1, Oct. 30, 1970, 84 Stat. 1327, as amended by Pub. L. 93–496, §12, Oct. 28, 1974, 88 Stat. 1531, provided that Pub. L. 91–518 (enacting this chapter and section 250 of Title 26, Internal Revenue Code, amending section 856 of former Title 31, Money and Finance, and enacting provision set out as a note under section 250 of Title 26) could be cited as the “Rail Passenger Service Act”, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
+Pub. L. 91–518, §1, Oct. 30, 1970, 84 Stat. 1327, as amended by Pub. L. 93–496, §12, Oct. 28, 1974, 88 Stat. 1531, provided that Pub. L. 91–518 (enacting this chapter and section 250 of Title 26, Internal Revenue Code, amending section 856 of former Title 31, Money and Finance, and enacting provision set out as a note under section 250 of Title 26) could be cited as the "Rail Passenger Service Act", prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.

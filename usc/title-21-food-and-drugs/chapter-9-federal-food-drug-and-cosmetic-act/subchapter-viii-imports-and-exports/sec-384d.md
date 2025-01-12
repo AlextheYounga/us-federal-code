@@ -6,23 +6,23 @@ In this section:
 
 #### (1) Audit agent ####
 
-The term “audit agent” means an individual who is an employee or agent of an accredited third-party auditor and, although not individually accredited, is qualified to conduct food safety audits on behalf of an accredited third-party auditor.
+The term "audit agent" means an individual who is an employee or agent of an accredited third-party auditor and, although not individually accredited, is qualified to conduct food safety audits on behalf of an accredited third-party auditor.
 
 #### (2) Accreditation body ####
 
-The term “accreditation body” means an authority that performs accreditation of third-party auditors.
+The term "accreditation body" means an authority that performs accreditation of third-party auditors.
 
 #### (3) Third-party auditor ####
 
-The term “third-party auditor” means a foreign government, agency of a foreign government, foreign cooperative, or any other third party, as the Secretary determines appropriate in accordance with the model standards described in subsection (b)(2), that is eligible to be considered for accreditation to conduct food safety audits to certify that eligible entities meet the applicable requirements of this section. A third-party auditor may be a single individual. A third-party auditor may employ or use audit agents to help conduct consultative and regulatory audits.
+The term "third-party auditor" means a foreign government, agency of a foreign government, foreign cooperative, or any other third party, as the Secretary determines appropriate in accordance with the model standards described in subsection (b)(2), that is eligible to be considered for accreditation to conduct food safety audits to certify that eligible entities meet the applicable requirements of this section. A third-party auditor may be a single individual. A third-party auditor may employ or use audit agents to help conduct consultative and regulatory audits.
 
 #### (4) Accredited third-party auditor ####
 
-The term “accredited third-party auditor” means a third-party auditor accredited by an accreditation body to conduct audits of eligible entities to certify that such eligible entities meet the applicable requirements of this section. An accredited third-party auditor may be an individual who conducts food safety audits to certify that eligible entities meet the applicable requirements of this section.
+The term "accredited third-party auditor" means a third-party auditor accredited by an accreditation body to conduct audits of eligible entities to certify that such eligible entities meet the applicable requirements of this section. An accredited third-party auditor may be an individual who conducts food safety audits to certify that eligible entities meet the applicable requirements of this section.
 
 #### (5) Consultative audit ####
 
-The term “consultative audit” means an audit of an eligible entity—
+The term "consultative audit" means an audit of an eligible entity—
 
 (A) to determine whether such entity is in compliance with the provisions of this chapter and with applicable industry standards and practices; and
 
@@ -30,11 +30,11 @@ The term “consultative audit” means an audit of an eligible entity—
 
 #### (6) Eligible entity ####
 
-The term “eligible entity” means a foreign entity, including a foreign facility registered under section 350d of this title, in the food import supply chain that chooses to be audited by an accredited third-party auditor or the audit agent of such accredited third-party auditor.
+The term "eligible entity" means a foreign entity, including a foreign facility registered under section 350d of this title, in the food import supply chain that chooses to be audited by an accredited third-party auditor or the audit agent of such accredited third-party auditor.
 
 #### (7) Regulatory audit ####
 
-The term “regulatory audit” means an audit of an eligible entity—
+The term "regulatory audit" means an audit of an eligible entity—
 
 (A) to determine whether such entity is in compliance with the provisions of this chapter; and
 
@@ -276,16 +276,16 @@ Nothing in this section affects the authority of the Secretary to inspect any el
 
 #### References in Text ####
 
-Section 381(q) of this title, referred to in subsec. (c)(2)(C)(ii), was in the original “301(g)”, and was translated as reading “801(q)”, meaning section 801(q) of act June 25, 1938, ch. 675, which is classified to section 381(q) of this title, to reflect the probable intent of Congress, because section 381(q) of this title relates to food certification, whereas section 301(g) of act June 25, 1938, ch. 675, which is classified to section 331(g) of this title, does not relate to food certification.
+Section 381(q) of this title, referred to in subsec. (c)(2)(C)(ii), was in the original "301(g)", and was translated as reading "801(q)", meaning section 801(q) of act June 25, 1938, ch. 675, which is classified to section 381(q) of this title, to reflect the probable intent of Congress, because section 381(q) of this title relates to food certification, whereas section 301(g) of act June 25, 1938, ch. 675, which is classified to section 331(g) of this title, does not relate to food certification.
 
-Section 1622(h) of title 7, referred to in subsec. (c)(8), was in the original “section 203(h) of the Agriculture Marketing Act of 1946”, and was translated as reading “section 203(h) of the Agricultural Marketing Act of 1946”, meaning section 203(h) of act Aug. 14, 1946, ch. 966, which is classified to section 1622(h) of Title 7, Agriculture, to reflect the probable intent of Congress.
+Section 1622(h) of title 7, referred to in subsec. (c)(8), was in the original "section 203(h) of the Agriculture Marketing Act of 1946", and was translated as reading "section 203(h) of the Agricultural Marketing Act of 1946", meaning section 203(h) of act Aug. 14, 1946, ch. 966, which is classified to section 1622(h) of Title 7, Agriculture, to reflect the probable intent of Congress.
 
 #### Construction ####
 
 Nothing in this section to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
 
-[<sup>1</sup> So in original. Probably should be followed by “section”.](#384d_1)
+[<sup>1</sup> So in original. Probably should be followed by "section".](#384d_1)
 
 [<sup>2</sup> See References in Text note below.](#384d_2)
 
-[<sup>3</sup> So in original. Probably should be followed by “the”.](#384d_3)
+[<sup>3</sup> So in original. Probably should be followed by "the".](#384d_3)

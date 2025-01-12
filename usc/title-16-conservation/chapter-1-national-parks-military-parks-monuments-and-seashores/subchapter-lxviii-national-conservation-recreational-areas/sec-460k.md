@@ -10,8 +10,8 @@ In recognition of mounting public demands for recreational opportunities on area
 
 #### Amendments ####
 
-**1966**—Pub. L. 89–669 substituted “areas within the National Wildlife Refuge System” for “national wildlife refuges, game ranges” in introductory text.
+**1966**—Pub. L. 89–669 substituted "areas within the National Wildlife Refuge System" for "national wildlife refuges, game ranges" in introductory text.
 
 #### Short Title ####
 
-Pub. L. 87–714, which enacted this subchapter, is popularly known as the “Refuge Recreation Act”.
+Pub. L. 87–714, which enacted this subchapter, is popularly known as the "Refuge Recreation Act".

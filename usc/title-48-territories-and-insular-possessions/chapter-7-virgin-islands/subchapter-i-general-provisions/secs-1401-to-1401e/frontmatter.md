@@ -14,4 +14,4 @@ Section 1401e, act May 26, 1936, ch. 450, §6, 49 Stat. 1373, related to exempti
 
 #### Effective Date of Repeal ####
 
-Pub. L. 110–40, §1(b), June 29, 2007, 121 Stat. 232, provided that: “This section [repealing sections 1401 to 1401e of this title] shall be deemed to have taken effect on July 22, 1954.”
+Pub. L. 110–40, §1(b), June 29, 2007, 121 Stat. 232, provided that: "This section [repealing sections 1401 to 1401e of this title] shall be deemed to have taken effect on July 22, 1954."

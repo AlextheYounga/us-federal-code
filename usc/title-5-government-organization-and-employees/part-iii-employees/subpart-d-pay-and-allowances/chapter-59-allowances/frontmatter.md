@@ -64,7 +64,7 @@ Sec.
 
 **1991**—Pub. L. 102–190, div. A, title X, §1092(a)(2), Dec. 5, 1991, 105 Stat. 1487, added item 5942a.
 
-**1983**—Pub. L. 98–164, title I, §127(b)(2), Nov. 22, 1983, 97 Stat. 1027, struck out item 5944 “Illness and burial expenses; native employees in foreign countries”.
+**1983**—Pub. L. 98–164, title I, §127(b)(2), Nov. 22, 1983, 97 Stat. 1027, struck out item 5944 "Illness and burial expenses; native employees in foreign countries".
 
 **1980**—Pub. L. 96–465, title II, §§2310(b), 2311(b), Oct. 17, 1980, 94 Stat. 2166, added items 5927 and 5928.
 
@@ -72,6 +72,6 @@ Sec.
 
 Pub. L. 95–426, title IV, §411(b), Oct. 7, 1978, 92 Stat. 981, added item 5926.
 
-**1971**—Pub. L. 91–656, §§6(c), 7(b), Jan. 8, 1971, 84 Stat. 1954, substituted “duty at remote worksites” for “duty on California offshore islands or at Nevada Test Site” in item 5942 and added item 5947.
+**1971**—Pub. L. 91–656, §§6(c), 7(b), Jan. 8, 1971, 84 Stat. 1954, substituted "duty at remote worksites" for "duty on California offshore islands or at Nevada Test Site" in item 5942 and added item 5947.
 
-**1967**—Pub. L. 90–83, §1(40)(B), (42), Sept. 11, 1967, 81 Stat. 206, 207, added items 5902 and 5903, and inserted “or at Nevada Test Site” in item 5942.
+**1967**—Pub. L. 90–83, §1(40)(B), (42), Sept. 11, 1967, 81 Stat. 206, 207, added items 5902 and 5903, and inserted "or at Nevada Test Site" in item 5942.

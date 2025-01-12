@@ -24,9 +24,9 @@ Sec.
 
 #### Amendments ####
 
-**2007**—Pub. L. 110–28, title VIII, §8246(a)(2)(I)(ii), May 25, 2007, 121 Stat. 202, substituted “tax return preparers” for “income tax return preparers” in item 7407.
+**2007**—Pub. L. 110–28, title VIII, §8246(a)(2)(I)(ii), May 25, 2007, 121 Stat. 202, substituted "tax return preparers" for "income tax return preparers" in item 7407.
 
-**2004**—Pub. L. 108–357, title VIII, §820(b)(2), Oct. 22, 2004, 118 Stat. 1585, added item 7408 and struck out former item 7408 “Action to enjoin promoters of abusive tax shelters, etc.”
+**2004**—Pub. L. 108–357, title VIII, §820(b)(2), Oct. 22, 2004, 118 Stat. 1585, added item 7408 and struck out former item 7408 "Action to enjoin promoters of abusive tax shelters, etc."
 
 **1987**—Pub. L. 100–203, title X, §10713(a)(2), Dec. 22, 1987, 101 Stat. 1330–469, added item 7409 and redesignated former item 7409 as 7410.
 

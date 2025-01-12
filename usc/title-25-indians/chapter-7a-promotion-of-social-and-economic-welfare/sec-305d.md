@@ -2,7 +2,7 @@
 
 #### (a) Definition of Federal law enforcement officer ####
 
-In this section, the term “Federal law enforcement officer” includes a Federal law enforcement officer (as defined in section 115(c) of title 18).
+In this section, the term "Federal law enforcement officer" includes a Federal law enforcement officer (as defined in section 115(c) of title 18).
 
 #### (b) Authority to conduct investigations ####
 
@@ -54,6 +54,6 @@ A prior section, act Aug. 27, 1935, ch. 748, §5, 49 Stat. 892, related to count
 
 **2010**—Pub. L. 111–211 amended section generally. Prior to amendment, text read as follows:
 
-“(a) The Board may receive complaints of violations of section 1159 of title 18 and refer complaints of such violations to the Federal Bureau of Investigation for appropriate investigation. After reviewing the investigation report, the Board may recommend to the Attorney General of the United States that criminal proceedings be instituted under that section.
+"(a) The Board may receive complaints of violations of section 1159 of title 18 and refer complaints of such violations to the Federal Bureau of Investigation for appropriate investigation. After reviewing the investigation report, the Board may recommend to the Attorney General of the United States that criminal proceedings be instituted under that section.
 
-“(b) The Board may recommend that the Secretary of the Interior refer the matter to the Attorney General for civil action under section 305e of this title.”
+"(b) The Board may recommend that the Secretary of the Interior refer the matter to the Attorney General for civil action under section 305e of this title."

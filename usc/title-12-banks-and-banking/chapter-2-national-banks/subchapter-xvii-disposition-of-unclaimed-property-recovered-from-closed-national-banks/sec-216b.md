@@ -52,7 +52,7 @@ The United States, the Comptroller, or any officer, employee, or agent thereof s
 
 #### Amendments ####
 
-**1992**—Subsec. (f)(1) to (3). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+**1992**—Subsec. (f)(1) to (3). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
 #### Effective Date of 1992 Amendment ####
 

@@ -18,9 +18,9 @@
 
 (d) In this section:
 
-(1) The term “select agent” means a biological agent or toxin to which subsection (a) applies. Such term (including for purposes of subsection (a)) does not include any such biological agent or toxin that is in its naturally-occurring environment, if the biological agent or toxin has not been cultivated, collected, or otherwise extracted from its natural source.
+(1) The term "select agent" means a biological agent or toxin to which subsection (a) applies. Such term (including for purposes of subsection (a)) does not include any such biological agent or toxin that is in its naturally-occurring environment, if the biological agent or toxin has not been cultivated, collected, or otherwise extracted from its natural source.
 
-(2) The term “restricted person” means an individual who—
+(2) The term "restricted person" means an individual who—
 
 (A) is under indictment for a crime punishable by imprisonment for a term exceeding 1 year;
 
@@ -40,9 +40,9 @@
 
 (I) is a member of, acts for or on behalf of, or operates subject to the direction or control of, a terrorist organization as defined in section 212(a)(3)(B)(vi) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)(B)(vi)).
 
-(3) The term “alien” has the same meaning as in section 101(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(3)).
+(3) The term "alien" has the same meaning as in section 101(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(3)).
 
-(4) The term “lawfully admitted for permanent residence” has the same meaning as in section 101(a)(20) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(20)).
+(4) The term "lawfully admitted for permanent residence" has the same meaning as in section 101(a)(20) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(20)).
 
 (Added Pub. L. 107–56, title VIII, §817(2), Oct. 26, 2001, 115 Stat. 385; amended Pub. L. 107–188, title II, §231(a), (b)(1), (c)(2), June 12, 2002, 116 Stat. 660, 661; Pub. L. 107–273, div. B, title IV, §4005(g), Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–458, title VI, §6802(c), (d)(1), Dec. 17, 2004, 118 Stat. 3767.)
 
@@ -54,19 +54,19 @@ Section 212 of the Agricultural Bioterrorism Protection Act of 2002, referred to
 
 #### Amendments ####
 
-**2004**—Subsec. (a)(1). Pub. L. 108–458, §6802(d)(1), substituted “as a non-overlap or overlap select biological agent or toxin in sections 73.4 and 73.5 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not excluded under sections 73.4 and 73.5 or exempted under section 73.6 of title 42, Code of Federal Regulations” for “as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations”.
+**2004**—Subsec. (a)(1). Pub. L. 108–458, §6802(d)(1), substituted "as a non-overlap or overlap select biological agent or toxin in sections 73.4 and 73.5 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not excluded under sections 73.4 and 73.5 or exempted under section 73.6 of title 42, Code of Federal Regulations" for "as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations".
 
-Subsec. (d)(2)(G). Pub. L. 108–458, §6802(c)(1), designated existing provisions as cl. (i), added cl. (ii), and struck out “or” at end.
+Subsec. (d)(2)(G). Pub. L. 108–458, §6802(c)(1), designated existing provisions as cl. (i), added cl. (ii), and struck out "or" at end.
 
-Subsec. (d)(2)(H). Pub. L. 108–458, §6802(c)(2), substituted “; or” for period at end.
+Subsec. (d)(2)(H). Pub. L. 108–458, §6802(c)(2), substituted "; or" for period at end.
 
 Subsec. (d)(2)(I). Pub. L. 108–458, §6802(c)(3), added subpar. (I).
 
-**2002**—Pub. L. 107–273 substituted “Possession by restricted persons” for “Select agents; certain other agents” in section catchline.
+**2002**—Pub. L. 107–273 substituted "Possession by restricted persons" for "Select agents; certain other agents" in section catchline.
 
-Pub. L. 107–188, §231(b)(1)(B), substituted “Select agents; certain other agents” for “Possession by restricted persons” in section catchline.
+Pub. L. 107–188, §231(b)(1)(B), substituted "Select agents; certain other agents" for "Possession by restricted persons" in section catchline.
 
-Subsec. (a)(1). Pub. L. 107–188, §231(a)(1), (c)(2)(A), designated existing provisions of subsec. (a) as par. (1) and substituted “shall ship or transport in or affecting interstate or foreign commerce, or possess in or affecting interstate or foreign commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations” for “described in subsection (b) shall ship or transport interstate or foreign commerce, or possess in or affecting commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a select agent in subsection (j) of section 72.6 of title 42, Code of Federal Regulations, pursuant to section 511(d)(l) of the Antiterrorism and Effective Death Penalty Act of 1996 (Public Law 104–132), and is not exempted under subsection (h) of such section 72.6, or appendix A of part 72 of the Code of Regulations”.
+Subsec. (a)(1). Pub. L. 107–188, §231(a)(1), (c)(2)(A), designated existing provisions of subsec. (a) as par. (1) and substituted "shall ship or transport in or affecting interstate or foreign commerce, or possess in or affecting interstate or foreign commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations" for "described in subsection (b) shall ship or transport interstate or foreign commerce, or possess in or affecting commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a select agent in subsection (j) of section 72.6 of title 42, Code of Federal Regulations, pursuant to section 511(d)(l) of the Antiterrorism and Effective Death Penalty Act of 1996 (Public Law 104–132), and is not exempted under subsection (h) of such section 72.6, or appendix A of part 72 of the Code of Regulations".
 
 Subsec. (a)(2). Pub. L. 107–188, §231(a)(2), (3), redesignated and transferred subsec. (c) as par. (2) of subsec. (a).
 
@@ -76,10 +76,10 @@ Subsec. (c). Pub. L. 107–188, §231(a)(5), added subsec. (c). Former subsec. (
 
 Subsec. (d). Pub. L. 107–188, §231(a)(4), redesignated subsec. (b) as (d).
 
-Subsec. (d)(1). Pub. L. 107–188, §231(b)(1)(A), substituted “The term ‘select agent’ means a biological agent or toxin to which subsection (a) applies. Such term (including for purposes of subsection (a)) does not include” for “The term ‘select agent’ does not include”.
+Subsec. (d)(1). Pub. L. 107–188, §231(b)(1)(A), substituted "The term 'select agent' means a biological agent or toxin to which subsection (a) applies. Such term (including for purposes of subsection (a)) does not include" for "The term 'select agent' does not include".
 
-Subsec. (d)(3). Pub. L. 107–188, §231(c)(2)(B), substituted “section 101(a)(3)” for “section 1010(a)(3)”.
+Subsec. (d)(3). Pub. L. 107–188, §231(c)(2)(B), substituted "section 101(a)(3)" for "section 1010(a)(3)".
 
 #### Effective Date of 2004 Amendment ####
 
-Pub. L. 108–458, title VI, §6802(d)(2), Dec. 17, 2004, 118 Stat. 3767, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect at the same time that sections 73.4, 73.5, and 73.6 of title 42, Code of Federal Regulations, become effective [probably means the effective date of the final rule revising sections 73.4, 73.5, and 73.6 of title 42, C.F.R., which was Apr. 18, 2005, see 70 F.R. 13294].”
+Pub. L. 108–458, title VI, §6802(d)(2), Dec. 17, 2004, 118 Stat. 3767, provided that: "The amendment made by paragraph (1) [amending this section] shall take effect at the same time that sections 73.4, 73.5, and 73.6 of title 42, Code of Federal Regulations, become effective [probably means the effective date of the final rule revising sections 73.4, 73.5, and 73.6 of title 42, C.F.R., which was Apr. 18, 2005, see 70 F.R. 13294]."

@@ -2,7 +2,7 @@
 
 #### (a) Procedure for revocation ####
 
-In the event of repeated willful violations of any of the provisions of this chapter by the grantee, the Board may revoke the grant after four months’ notice to the grantee and affording it an opportunity to be heard. The testimony taken before the Board shall be reduced to writing and filed in the records of the Board together with the decision reached thereon.
+In the event of repeated willful violations of any of the provisions of this chapter by the grantee, the Board may revoke the grant after four months' notice to the grantee and affording it an opportunity to be heard. The testimony taken before the Board shall be reduced to writing and filed in the records of the Board together with the decision reached thereon.
 
 #### (b) Attendance of witnesses and production of evidence ####
 
@@ -16,8 +16,8 @@ An order under the provisions of this section revoking the grant issued by the B
 
 #### Amendments ####
 
-**1958**—Subsec. (c). Pub. L. 85–791 substituted “thereupon file in the court” for “forthwith prepare, certify, and file in the court a full and accurate transcript of” and “as provided in section 2112 of title 28” for “the charges, the evidence, and the order revoking the grant” in third sentence.
+**1958**—Subsec. (c). Pub. L. 85–791 substituted "thereupon file in the court" for "forthwith prepare, certify, and file in the court a full and accurate transcript of" and "as provided in section 2112 of title 28" for "the charges, the evidence, and the order revoking the grant" in third sentence.
 
 #### Change of Name ####
 
-Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted “court of appeals” for “circuit court of appeals”.
+Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted "court of appeals" for "circuit court of appeals".

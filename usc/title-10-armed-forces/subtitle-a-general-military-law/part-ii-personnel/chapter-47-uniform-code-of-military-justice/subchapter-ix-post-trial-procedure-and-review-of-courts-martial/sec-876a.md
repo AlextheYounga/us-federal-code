@@ -6,7 +6,7 @@ Under regulations prescribed by the Secretary concerned, an accused who has been
 
 #### Amendments ####
 
-**1983**—Pub. L. 98–209 substituted “under section 860 of this title (article 60)” for “under section 864 or 865 of this title (article 64 or 65) by the officer exercising general court-martial jurisdiction” and “by the officer exercising general court-martial jurisdiction”, respectively.
+**1983**—Pub. L. 98–209 substituted "under section 860 of this title (article 60)" for "under section 864 or 865 of this title (article 64 or 65) by the officer exercising general court-martial jurisdiction" and "by the officer exercising general court-martial jurisdiction", respectively.
 
 #### Effective Date of 1983 Amendment ####
 

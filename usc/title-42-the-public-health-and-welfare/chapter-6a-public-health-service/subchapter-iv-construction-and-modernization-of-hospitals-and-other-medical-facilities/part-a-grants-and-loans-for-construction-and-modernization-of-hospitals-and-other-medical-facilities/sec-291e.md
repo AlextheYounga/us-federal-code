@@ -40,7 +40,7 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a)(5), is set o
 
 #### Codification ####
 
-In subsec. (a) (5), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended (40 U.S.C. 276a—276a–5)” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934, as amended (40 U.S.C. 276c)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (a) (5), "sections 3141–3144, 3146, and 3147 of title 40" substituted for "the Davis-Bacon Act, as amended (40 U.S.C. 276a—276a–5)" and "section 3145 of title 40" substituted for "section 2 of the Act of June 13, 1934, as amended (40 U.S.C. 276c)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions ####
 
@@ -54,7 +54,7 @@ A prior section 291v(d), act July 1, 1944, ch. 373, title VI, §654, as added Ju
 
 **1970**—Subsec. (b)(4). Pub. L. 91–296, §111(a), inserted provisions requiring that the appropriate area wide health planning agency be given an opportunity to consider the project for which an application is made before approval is given.
 
-Subsec. (e). Pub. L. 91–296, §116(e), substituted “an outpatient facility” for “a diagnostic or treatment center” and inserted provisions extending coverage to include corporations and associations which, although not owning or operating hospitals offer services of a general hospital to patients in need of hospital care.
+Subsec. (e). Pub. L. 91–296, §116(e), substituted "an outpatient facility" for "a diagnostic or treatment center" and inserted provisions extending coverage to include corporations and associations which, although not owning or operating hospitals offer services of a general hospital to patients in need of hospital care.
 
 #### Effective Date of 1970 Amendment ####
 
@@ -64,7 +64,7 @@ Pub. L. 91–296, title I, §116(e), June 30, 1970, 84 Stat. 342, applicable wit
 
 #### Transfer of Functions ####
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 

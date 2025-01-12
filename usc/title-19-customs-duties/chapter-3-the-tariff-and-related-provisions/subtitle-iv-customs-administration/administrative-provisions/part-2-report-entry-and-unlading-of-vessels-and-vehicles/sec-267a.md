@@ -6,4 +6,4 @@ Cash awards for foreign language proficiency may, under regulations prescribed b
 
 #### Effective Date ####
 
-Pub. L. 103–66, title XIII, §13812(c)(2), Aug. 10, 1993, 107 Stat. 671, provided that: “Subsection (b) [enacting this section] takes effect on January 1, 1994.”
+Pub. L. 103–66, title XIII, §13812(c)(2), Aug. 10, 1993, 107 Stat. 671, provided that: "Subsection (b) [enacting this section] takes effect on January 1, 1994."

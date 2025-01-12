@@ -6,4 +6,4 @@ This chapter shall be liberally construed to carry out the purposes of Congress 
 
 #### Codification ####
 
-As originally enacted, the last sentence of this section contained, at the end thereof, the words “or at private sale as provided in section 3 of this amendatory Act.” Section 3 of the amendatory act of Aug. 31, 1935, added subsec. (k) to section 831c of this title.
+As originally enacted, the last sentence of this section contained, at the end thereof, the words "or at private sale as provided in section 3 of this amendatory Act." Section 3 of the amendatory act of Aug. 31, 1935, added subsec. (k) to section 831c of this title.

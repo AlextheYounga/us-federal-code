@@ -62,9 +62,9 @@ In an action to enforce a cease-and-desist order entered by the Commission pursu
 
 In any proceeding under subsection (b) of this section, the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who violated section 77q(a)(1) of this title from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78l of this title or that is required to file reports pursuant to section 78o(d) of this title if the person's conduct demonstrates unfitness to serve as an officer or director of any such issuer.
 
-#### (f) Prohibition of attorneys’ fees paid from Commission disgorgement funds ####
+#### (f) Prohibition of attorneys' fees paid from Commission disgorgement funds ####
 
-Except as otherwise ordered by the court upon motion by the Commission, or, in the case of an administrative action, as otherwise ordered by the Commission, funds disgorged as the result of an action brought by the Commission in Federal court, or as a result of any Commission administrative action, shall not be distributed as payment for attorneys’ fees or expenses incurred by private parties seeking distribution of the disgorged funds.
+Except as otherwise ordered by the court upon motion by the Commission, or, in the case of an administrative action, as otherwise ordered by the Commission, funds disgorged as the result of an action brought by the Commission in Federal court, or as a result of any Commission administrative action, shall not be distributed as payment for attorneys' fees or expenses incurred by private parties seeking distribution of the disgorged funds.
 
 #### (g) Authority of a court to prohibit persons from participating in an offering of penny stock ####
 
@@ -74,17 +74,17 @@ In any proceeding under subsection (a) of this section against any person partic
 
 #### (2) Definition ####
 
-For purposes of this subsection, the term “person participating in an offering of penny stock” includes any person engaging in activities with a broker, dealer, or issuer for purposes of issuing, trading, or inducing or attempting to induce the purchase or sale of, any penny stock. The Commission may, by rule or regulation, define such term to include other activities, and may, by rule, regulation, or order, exempt any person or class of persons, in whole or in part, conditionally or unconditionally, from inclusion in such term.
+For purposes of this subsection, the term "person participating in an offering of penny stock" includes any person engaging in activities with a broker, dealer, or issuer for purposes of issuing, trading, or inducing or attempting to induce the purchase or sale of, any penny stock. The Commission may, by rule or regulation, define such term to include other activities, and may, by rule, regulation, or order, exempt any person or class of persons, in whole or in part, conditionally or unconditionally, from inclusion in such term.
 
 (May 27, 1933, ch. 38, title I, §20, 48 Stat. 86; Pub. L. 100–181, title II, §208, Dec. 4, 1987, 101 Stat. 1253; Pub. L. 101–429, title I, §101, Oct. 15, 1990, 104 Stat. 932; Pub. L. 104–67, title I, §103(b)(1), Dec. 22, 1995, 109 Stat. 756; Pub. L. 107–204, title III, §§305(a)(2), 308(d)(3), title VI, §603(b), July 30, 2002, 116 Stat. 779, 785, 795; Pub. L. 111–203, title IX, §923(a)(1), July 21, 2010, 124 Stat. 1849.)
 
 #### Amendments ####
 
-**2010**—Subsec. (d)(3)(A). Pub. L. 111–203 inserted “and section 78u–6 of this title” after “section 7246 of this title”.
+**2010**—Subsec. (d)(3)(A). Pub. L. 111–203 inserted "and section 78u–6 of this title" after "section 7246 of this title".
 
-**2002**—Subsec. (d)(3)(A). Pub. L. 107–204, §308(d)(3), inserted “, except as otherwise provided in section 7246 of this title” before period at end.
+**2002**—Subsec. (d)(3)(A). Pub. L. 107–204, §308(d)(3), inserted ", except as otherwise provided in section 7246 of this title" before period at end.
 
-Subsec. (e). Pub. L. 107–204, §305(a)(2), substituted “unfitness” for “substantial unfitness”.
+Subsec. (e). Pub. L. 107–204, §305(a)(2), substituted "unfitness" for "substantial unfitness".
 
 Subsec. (g). Pub. L. 107–204, §603(b), added subsec. (g).
 

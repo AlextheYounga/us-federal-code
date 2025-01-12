@@ -8,21 +8,21 @@ Repeal applicable to taxable years beginning after Dec. 31, 1987, see section 10
 
 #### Change in Method of Accounting Required by Pub. L. 100–203 ####
 
-Pub. L. 100–203, title X, §10201(c)(2), Dec. 22, 1987, 101 Stat. 1330–388, provided that: “In the case of any taxpayer who elected to have section 463 of the Internal Revenue Code of 1986 apply for such taxpayer's last taxable year beginning before January 1, 1988, and who is required to change his method of accounting by reason of the amendments made by this section [amending sections 404, 419, and 461 of this title, repealing sections 81 and 463 of this title, and enacting provisions set out as a note under section 404 of this title]—
+Pub. L. 100–203, title X, §10201(c)(2), Dec. 22, 1987, 101 Stat. 1330–388, provided that: "In the case of any taxpayer who elected to have section 463 of the Internal Revenue Code of 1986 apply for such taxpayer's last taxable year beginning before January 1, 1988, and who is required to change his method of accounting by reason of the amendments made by this section [amending sections 404, 419, and 461 of this title, repealing sections 81 and 463 of this title, and enacting provisions set out as a note under section 404 of this title]—
 
-“(A) such change shall be treated as initiated by the taxpayer,
+"(A) such change shall be treated as initiated by the taxpayer,
 
-“(B) such change shall be treated as having been made with the consent of the Secretary, and
+"(B) such change shall be treated as having been made with the consent of the Secretary, and
 
-“(C) the net amount of adjustments required by section 481 of such Code to be taken into account by the taxpayer—
+"(C) the net amount of adjustments required by section 481 of such Code to be taken into account by the taxpayer—
 
-“(i) shall be reduced by the balance in the suspense account under section 463(c) of such Code as of the close of such last taxable year, and
+"(i) shall be reduced by the balance in the suspense account under section 463(c) of such Code as of the close of such last taxable year, and
 
-“(ii) shall be taken into account over the 4-taxable year period beginning with the taxable year following such last taxable year as follows:
+"(ii) shall be taken into account over the 4-taxable year period beginning with the taxable year following such last taxable year as follows:
 
 **The percentage taken**
 
-**“In the case of the:**
+**"In the case of the:**
 
 **into account is:**
 
@@ -42,4 +42,4 @@ Pub. L. 100–203, title X, §10201(c)(2), Dec. 22, 1987, 101 Stat. 1330–388, 
 
 35.   
 
-Notwithstanding subparagraph (C)(ii), if the period the adjustments are required to be taken into account under section 481 of such Code is less than 4 years, such adjustments shall be taken into account ratably over such shorter period.”
+Notwithstanding subparagraph (C)(ii), if the period the adjustments are required to be taken into account under section 481 of such Code is less than 4 years, such adjustments shall be taken into account ratably over such shorter period."

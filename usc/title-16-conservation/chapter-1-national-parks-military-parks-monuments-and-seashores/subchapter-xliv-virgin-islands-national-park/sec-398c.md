@@ -4,7 +4,7 @@ In furtherance of the purposes of sections 398 and 398a of this title, providing
 
 ### North Offshore Area ###
 
-Beginning at the hereinafter lettered point A on the shore of Cruz Bay, a corner in the Virgin Islands National Park boundary, being also a corner of lot F, Cruz Bay, added to the park by order of designation signed June 29, 1960, by the Assistant Secretary of the Interior pursuant to sections 398 and 398a of this title, and published in the Federal Register of July 7, 1960, the said corner being the terminus of the course recited therein as “north 58 degrees 50 minutes west a distance of 20.0 feet, more or less, along Government land to a point;” for the third call in the metes and bounds description lot F, Cruz Bay.
+Beginning at the hereinafter lettered point A on the shore of Cruz Bay, a corner in the Virgin Islands National Park boundary, being also a corner of lot F, Cruz Bay, added to the park by order of designation signed June 29, 1960, by the Assistant Secretary of the Interior pursuant to sections 398 and 398a of this title, and published in the Federal Register of July 7, 1960, the said corner being the terminus of the course recited therein as "north 58 degrees 50 minutes west a distance of 20.0 feet, more or less, along Government land to a point;" for the third call in the metes and bounds description lot F, Cruz Bay.
 
 From the initial point A, distances in nautical miles, along direct courses between the hereinafter lettered points at geographic positions (latitudes north, longitudes west):
 
@@ -22,9 +22,9 @@ Northwestward approximately 0.13 mile to point B, latitude 18 degrees 20 minutes
 
 1.04 miles to point H, latitude 18 degrees 21 minutes 10 seconds, longitude 64 degrees 40 minutes 40 seconds in Haulover Bay;
 
-Southwestward approximately 0.22 mile to point I, a bound post on the shore of Haulover Bay marking a corner of the Virgin Islands National Park boundary as shown on drawing numbered NP–VI–7000 entitled “Acquisition Area Virgin Islands National Park”, approved November 15, 1956, by the acting Secretary of the Interior in accordance with sections 398 and 398a of this title, being also the southeasterly corner of estate Haulover 5a and 5c east end quarter as delineated on the municipality of Saint Thomas and Saint John drawing PW file numbered 9–24–T51 dated October 26, 1950;
+Southwestward approximately 0.22 mile to point I, a bound post on the shore of Haulover Bay marking a corner of the Virgin Islands National Park boundary as shown on drawing numbered NP–VI–7000 entitled "Acquisition Area Virgin Islands National Park", approved November 15, 1956, by the acting Secretary of the Interior in accordance with sections 398 and 398a of this title, being also the southeasterly corner of estate Haulover 5a and 5c east end quarter as delineated on the municipality of Saint Thomas and Saint John drawing PW file numbered 9–24–T51 dated October 26, 1950;
 
-Thence running generally westward along the Virgin Islands National Park northerly boundary as it follows the northerly shore of the island of Saint John as shown on the said drawing numbered NP–VI–7000 and on drawing numbered NP–VI–7003 entitled “Land Ownership Cruz Bay Creek” depicting the boundary adjustment affected by the said order of designation to point A, the point of beginning.
+Thence running generally westward along the Virgin Islands National Park northerly boundary as it follows the northerly shore of the island of Saint John as shown on the said drawing numbered NP–VI–7000 and on drawing numbered NP–VI–7003 entitled "Land Ownership Cruz Bay Creek" depicting the boundary adjustment affected by the said order of designation to point A, the point of beginning.
 
 The area described contains approximately 4,100 acres.
 
@@ -46,7 +46,7 @@ Eastward approximately 0.32 mile to point M, latitude 18 degrees 18 minutes 48 s
 
 0.45 mile to point R, latitude 18 degrees 19 minutes 15 seconds, longitude 64 degrees 45 minutes 50 seconds in Fish Bay;
 
-Eastward approximately 0.08 mile to point S on the shore of Fish Bay, a corner in the present Virgin Islands National Park, as delineated on said drawing numbered NP–VI–7000, being the northwesterly corner of parcel numbered 2 estate Fish Bay, numbered 8 Reef Bay Quarter, and the terminus of the delineated course “south 78 degrees 52 minutes west distance 1,178.9 feet” as depicted on the Leo R. Sibilly, civil engineer, drawing file numbered G9–385–T56.
+Eastward approximately 0.08 mile to point S on the shore of Fish Bay, a corner in the present Virgin Islands National Park, as delineated on said drawing numbered NP–VI–7000, being the northwesterly corner of parcel numbered 2 estate Fish Bay, numbered 8 Reef Bay Quarter, and the terminus of the delineated course "south 78 degrees 52 minutes west distance 1,178.9 feet" as depicted on the Leo R. Sibilly, civil engineer, drawing file numbered G9–385–T56.
 
 Thence running generally eastward along the present southerly park boundary as it follows the southerly shore of the island of Saint John as depicted on the said drawing numbered NP–VI–7000 to point L, the point of beginning.
 

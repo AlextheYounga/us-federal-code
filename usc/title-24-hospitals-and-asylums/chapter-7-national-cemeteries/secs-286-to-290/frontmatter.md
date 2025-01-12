@@ -1,18 +1,18 @@
 ### §§286 to 290. Repealed. Pub. L. 93–43, §7(a)(1), (13)–(18), (42), (44)–(46), June 18, 1973, 87 Stat. 82, 83, 85 ###
 
-Section 286, R.S. §4881; act Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167, provided penalty for defacing cemeteries. See section 901 of Title 38, Veterans’ Benefits.
+Section 286, R.S. §4881; act Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167, provided penalty for defacing cemeteries. See section 901 of Title 38, Veterans' Benefits.
 
 Section 287, R.S. §4882, related to jurisdiction of United States upon purchase of any national cemetery with consent of any State legislature.
 
 Section 288, acts Feb. 12, 1925, ch. 225, title II, 43 Stat. 926; Apr. 15, 1926, ch. 146, title II, 44 Stat. 287; Feb. 23, 1927, ch. 167, title II, 44 Stat. 1138; Mar. 23, 1928, ch. 232, title II, 45 Stat. 354; Feb. 28, 1929, ch. 366, title II, 45 Stat. 1375; June 30, 1954, ch. 425, §101, 68 Stat. 331; July 15, 1955, ch. 370, title III, 69 Stat. 360; July 2, 1956, ch. 490, title III, 70 Stat. 479, prohibited expenditure of any appropriation for maintenance of more than a single approach to any national cemetery.
 
-Section 289, act May 23, 1941, ch. 130, 55 Stat. 191, provided for conveyance to State or municipality of approach road to national cemetery. See section 2404(f) of Title 38, Veterans’ Benefits.
+Section 289, act May 23, 1941, ch. 130, 55 Stat. 191, provided for conveyance to State or municipality of approach road to national cemetery. See section 2404(f) of Title 38, Veterans' Benefits.
 
 Section 290, act July 27, 1953, ch. 245, §101, 67 Stat. 197, prohibited encroachment by railroad on rights of way. See section 2404 of Title 38.
 
 #### Effective Date of Repeal ####
 
-Repeal effective Sept. 1, 1973, or such earlier date as the President may prescribe and publish in the Federal Register, see section 10(c) of Pub. L. 93–43, set out as a note under section 2306 of Title 38, Veterans’ Benefits.
+Repeal effective Sept. 1, 1973, or such earlier date as the President may prescribe and publish in the Federal Register, see section 10(c) of Pub. L. 93–43, set out as a note under section 2306 of Title 38, Veterans' Benefits.
 
 #### Matured Rights and Duties, Incurred Penalties, Liabilities, and Forfeitures, and Commenced Proceedings Excepted in Repeal of National Cemeteries Provisions ####
 

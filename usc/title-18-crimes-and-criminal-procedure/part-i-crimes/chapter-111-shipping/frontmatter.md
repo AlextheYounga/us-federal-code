@@ -44,7 +44,7 @@ Pub. L. 109–177, title III, §304(a)(2), Mar. 9, 2006, 120 Stat. 235, which di
 
 **1994**—Pub. L. 103–322, title VI, §60019(b), Sept. 13, 1994, 108 Stat. 1979, added items 2280 and 2281.
 
-**1990**—Pub. L. 101–647, title XXXV, §3566, Nov. 29, 1990, 104 Stat. 4928, substituted “vessels” for “vessel” in item 2271.
+**1990**—Pub. L. 101–647, title XXXV, §3566, Nov. 29, 1990, 104 Stat. 4928, substituted "vessels" for "vessel" in item 2271.
 
 [<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER111_1)
 

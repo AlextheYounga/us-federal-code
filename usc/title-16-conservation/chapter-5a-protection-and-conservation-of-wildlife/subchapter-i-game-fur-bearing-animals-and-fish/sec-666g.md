@@ -6,12 +6,12 @@ All of the lands transferred to the Secretary of the Interior, pursuant to the p
 
 #### References in Text ####
 
-Section 715s of this title, referred to in text, was in the original “the Act of June 15, 1935, as amended (49 Stat. 383; 16 U.S.C. 715s)”.
+Section 715s of this title, referred to in text, was in the original "the Act of June 15, 1935, as amended (49 Stat. 383; 16 U.S.C. 715s)".
 
 #### Amendments ####
 
-**1978**—Pub. L. 95–616 substituted in second sentence “terms and conditions as the Secretary of the Interior shall prescribe” for “terms and conditions as are consistent with the general purposes of section 2 of the Surplus Property Act of 1944, as amended, and with the purposes of section 666f of this title and this section” and made moneys received or collected in connection with the leases to be subject to section 715s of this title.
+**1978**—Pub. L. 95–616 substituted in second sentence "terms and conditions as the Secretary of the Interior shall prescribe" for "terms and conditions as are consistent with the general purposes of section 2 of the Surplus Property Act of 1944, as amended, and with the purposes of section 666f of this title and this section" and made moneys received or collected in connection with the leases to be subject to section 715s of this title.
 
 #### Change of Name ####
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.

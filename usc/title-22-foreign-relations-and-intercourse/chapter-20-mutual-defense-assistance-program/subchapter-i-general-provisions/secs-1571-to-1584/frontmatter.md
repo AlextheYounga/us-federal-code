@@ -18,12 +18,12 @@ Section 1578, act Oct. 6, 1949, ch. 626, title IV, §407, 63 Stat. 719, related 
 
 Section 1579, acts Oct. 6, 1949, ch. 626, title IV, §408(a)–(d), 63 Stat. 719; July 26, 1950, ch. 491, §12(b), 64 Stat. 376; Oct. 10, 1951, ch. 479, §101(a)(1), 65 Stat. 374, related to operational funds.
 
-Section 1580, acts Oct. 6, 1949, ch. 626, title IV, §408(e), (f), 63 Stat. 720; July 26, 1950, ch. 491, §12(c), 64 Stat. 376; Oct. 10, 1951, ch. 479, title V, §525, 65 Stat. 385; June 20, 1952, ch. 449, §8(b), 66 Stat. 149; July 16, 1953, ch. 195, ch. VII, §707(b), (c), 67 Stat. 160, related to transfer of equipment, materials, or services to designated nations; reimbursement of “fair value” of goods to United States; limitation on outstanding contracts; and transfers disallowed.
+Section 1580, acts Oct. 6, 1949, ch. 626, title IV, §408(e), (f), 63 Stat. 720; July 26, 1950, ch. 491, §12(c), 64 Stat. 376; Oct. 10, 1951, ch. 479, title V, §525, 65 Stat. 385; June 20, 1952, ch. 449, §8(b), 66 Stat. 149; July 16, 1953, ch. 195, ch. VII, §707(b), (c), 67 Stat. 160, related to transfer of equipment, materials, or services to designated nations; reimbursement of "fair value" of goods to United States; limitation on outstanding contracts; and transfers disallowed.
 
 Section 1581, act Oct. 6, 1949, ch. 626, title IV, §409, 63 Stat. 720, related to transportation of equipment, etc., on United States flag vessels; rates. See section 2353 of this title.
 
 Section 1582, act Oct. 6, 1949, ch. 626, title IV, §410, 63 Stat. 720, required President to submit reports to Congress. See section 2353 of this title.
 
-Section 1583, acts Oct. 6, 1949, ch. 626, title IV, §411, 63 Stat. 720; July 16, 1953, ch. 195, title VII, §707(d), 67 Stat. 161, defined “equipment” and “materials”, “mobilization reserve”, “excess”, “services”, “agency”, “Armed Forces of the United States”, and “nation”. See section 2403 of this title.
+Section 1583, acts Oct. 6, 1949, ch. 626, title IV, §411, 63 Stat. 720; July 16, 1953, ch. 195, title VII, §707(d), 67 Stat. 161, defined "equipment" and "materials", "mobilization reserve", "excess", "services", "agency", "Armed Forces of the United States", and "nation". See section 2403 of this title.
 
 Section 1584, act Oct. 6, 1949, ch. 626, title IV, §412, 63 Stat. 721, prescribed penalties for accepting commissions, etc., for procurement services by United States officers and employees.

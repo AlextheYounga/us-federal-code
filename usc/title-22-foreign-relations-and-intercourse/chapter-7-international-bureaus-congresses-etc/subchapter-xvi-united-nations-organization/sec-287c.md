@@ -28,9 +28,9 @@ unless such release is authorized by the Secretary under paragraph (3)(B) or (C)
 
 (4) As used in this subsection—
 
-(A) the term “certificate of origin” means such certificate as the Secretary may require, with respect to a shipment of any steel mill product containing chromium in any form, issued by the government (or by a designee of such government if the Secretary is satisfied that such designee is the highest available certifying authority) of the country in which such steel mill product was produced certifying that the steel mill product in such shipment contains no chromium in any form which is of Southern Rhodesian origin; and
+(A) the term "certificate of origin" means such certificate as the Secretary may require, with respect to a shipment of any steel mill product containing chromium in any form, issued by the government (or by a designee of such government if the Secretary is satisfied that such designee is the highest available certifying authority) of the country in which such steel mill product was produced certifying that the steel mill product in such shipment contains no chromium in any form which is of Southern Rhodesian origin; and
 
-(B) the term “Secretary” means the Secretary of the Treasury.
+(B) the term "Secretary" means the Secretary of the Treasury.
 
 (Dec. 20, 1945, ch. 583, §5, 59 Stat. 620; Oct. 10, 1949, ch. 660, §3, 63 Stat. 735; Pub. L. 95–12, §1, Mar. 18, 1977, 91 Stat. 22; Pub. L. 111–195, title I, §107(a)(1), July 1, 2010, 124 Stat. 1337.)
 
@@ -40,7 +40,7 @@ Article 41 of said Charter, referred to in subsec. (a), is an article of the Uni
 
 #### Amendments ####
 
-**2010**—Subsec. (b). Pub. L. 111–195 substituted “fined not more than $1,000,000” for “find not more than $10,000” and “20 years, or both.” for “ten years, or both; and the officer, director, or agent of any corporation who knowingly participates in such violation or evasion shall be punished by a like fine, imprisonment, or both, and any property, funds, securities, papers, or other articles or documents, or any vessel, together with her tackle, apparel, furniture, and equipment, or vehicle, or aircraft, concerned in such violation shall be forfeited to the United States.”
+**2010**—Subsec. (b). Pub. L. 111–195 substituted "fined not more than $1,000,000" for "find not more than $10,000" and "20 years, or both." for "ten years, or both; and the officer, director, or agent of any corporation who knowingly participates in such violation or evasion shall be punished by a like fine, imprisonment, or both, and any property, funds, securities, papers, or other articles or documents, or any vessel, together with her tackle, apparel, furniture, and equipment, or vehicle, or aircraft, concerned in such violation shall be forfeited to the United States."
 
 **1977**—Subsec. (a). Pub. L. 95–12, §1(1), inserted provision permitting enforcement of any Executive order, issued under this subsection, applying measures against Southern Rhodesia and permitting Presidential exemption from that Executive order of any shipment of chromium in transit to the United States on Mar. 18, 1977.
 
@@ -50,7 +50,7 @@ Subsec. (c). Pub. L. 95–12, §1(2), added subsec. (c).
 
 #### Importation of Strategic and Critical Materials From Zimbabwe-Rhodesia ####
 
-Pub. L. 96–107, title VIII, §818, Nov. 9, 1979, 93 Stat. 818, provided that: “It is the sense of the Congress that the United States should have unlimited access to strategic and critical materials which are vital to the defense and security of the United States and that every effort should be made to remove artificial impediments against the importation of such materials into the United States from Zimbabwe-Rhodesia.”
+Pub. L. 96–107, title VIII, §818, Nov. 9, 1979, 93 Stat. 818, provided that: "It is the sense of the Congress that the United States should have unlimited access to strategic and critical materials which are vital to the defense and security of the United States and that every effort should be made to remove artificial impediments against the importation of such materials into the United States from Zimbabwe-Rhodesia."
 
 #### Sanctions Against Zimbabwe-Rhodesia; Report to Congress ####
 
@@ -64,11 +64,11 @@ Pub. L. 95–384, §27, Sept. 26, 1978, 92 Stat. 746, which related to enforceme
 
 Pub. L. 95–12, §2, Mar. 18, 1977, 91 Stat. 23, provided that:
 
-“(a) Upon the enactment of this Act [Mar. 18, 1977], the President may suspend the operation of the amendments contained in this Act [amending this section] if he determines that such suspension would encourage meaningful negotiations and further the peaceful transfer of governing power from minority rule to majority rule in Southern Rhodesia. Such suspension shall remain in effect for such duration as deemed necessary by the President.
+"(a) Upon the enactment of this Act [Mar. 18, 1977], the President may suspend the operation of the amendments contained in this Act [amending this section] if he determines that such suspension would encourage meaningful negotiations and further the peaceful transfer of governing power from minority rule to majority rule in Southern Rhodesia. Such suspension shall remain in effect for such duration as deemed necessary by the President.
 
-“(b) If the President suspends the operation of the amendments contained in this Act [amending this section], he shall so report to the Congress. In addition, the President shall report to the Congress when he terminates such suspension.
+"(b) If the President suspends the operation of the amendments contained in this Act [amending this section], he shall so report to the Congress. In addition, the President shall report to the Congress when he terminates such suspension.
 
-“(c) If the President suspends the operation of the amendments contained in this Act [amending this section], any reference in those amendments to date of enactment [Mar. 18, 1977] shall be deemed to be a reference to the date on which such suspension is terminated by the President.”
+"(c) If the President suspends the operation of the amendments contained in this Act [amending this section], any reference in those amendments to date of enactment [Mar. 18, 1977] shall be deemed to be a reference to the date on which such suspension is terminated by the President."
 
 #### Executive Order No. 11322 ####
 
@@ -118,9 +118,9 @@ Section 1. *Arms Embargo*. The following activities are prohibited, notwithstand
 
 (b) Any willful evasion or attempt to violate or evade any of the prohibitions set forth in this order, by any person.
 
-Sec. 2. *Definitions*. For purposes of this order, the term: (a) “Person” means a natural person as well as a corporation, business association, partnership, society, trust, or any other entity, organization or group, including governmental entities; and
+Sec. 2. *Definitions*. For purposes of this order, the term: (a) "Person" means a natural person as well as a corporation, business association, partnership, society, trust, or any other entity, organization or group, including governmental entities; and
 
-(b) “United States person” means any citizen or national of the United States, any lawful permanent resident of the United States, or any corporation, business association, partnership, society, trust, or any other entity, organization or group, including governmental entities, organized under the laws of the United States (including foreign branches).
+(b) "United States person" means any citizen or national of the United States, any lawful permanent resident of the United States, or any corporation, business association, partnership, society, trust, or any other entity, organization or group, including governmental entities, organized under the laws of the United States (including foreign branches).
 
 Sec. 3. *Responsibilities*. The functions and responsibilities for the enforcement of the foregoing prohibitions are delegated as follows: (a) The Secretary of State is hereby authorized to take such actions, including the promulgation of rules and regulations, and to employ all powers granted to the President by section 5 of the United Nations Participation Act [of 1945] [22 U.S.C. 287c] and other authorities available to the Secretary of State, as may be necessary to carry out the purpose of this order, relating to arms and related materiel of a type enumerated on the United States Munitions List (22 C.F.R. Part 121). The Secretary of State may redelegate any of these functions to other officers and agencies of the United States Government; and
 

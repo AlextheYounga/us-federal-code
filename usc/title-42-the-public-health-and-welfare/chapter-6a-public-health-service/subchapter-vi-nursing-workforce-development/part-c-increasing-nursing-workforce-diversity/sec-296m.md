@@ -34,10 +34,10 @@ A prior section 821 of act July 1, 1944, was classified to section 296l of this 
 
 #### Amendments ####
 
-**2010**—Subsec. (a). Pub. L. 111–148, §5404(1), designated existing provisions as par. (1), inserted heading, and substituted “stipends for diploma or associate degree nurses to enter a bridge or degree completion program, student scholarships or stipends for accelerated nursing degree programs, pre-entry preparation, advanced education preparation, and retention activities” for “pre-entry preparation, and retention activities”.
+**2010**—Subsec. (a). Pub. L. 111–148, §5404(1), designated existing provisions as par. (1), inserted heading, and substituted "stipends for diploma or associate degree nurses to enter a bridge or degree completion program, student scholarships or stipends for accelerated nursing degree programs, pre-entry preparation, advanced education preparation, and retention activities" for "pre-entry preparation, and retention activities".
 
-Subsec. (b). Pub. L. 111–148, §5404(2), substituted “National Advisory Council on Nurse Education and Practice and consult with nursing associations including the National Coalition of Ethnic Minority Nurse Associations,” for “First, Second and Third Invitational Congresses for Minority Nurse Leaders on ‘Caring for the Emerging Majority,’ in 1992, 1993 and 1997, and consult with nursing associations including the” and inserted “, and other organizations determined appropriate by the Secretary” before period at end.
+Subsec. (b). Pub. L. 111–148, §5404(2), substituted "National Advisory Council on Nurse Education and Practice and consult with nursing associations including the National Coalition of Ethnic Minority Nurse Associations," for "First, Second and Third Invitational Congresses for Minority Nurse Leaders on 'Caring for the Emerging Majority,' in 1992, 1993 and 1997, and consult with nursing associations including the" and inserted ", and other organizations determined appropriate by the Secretary" before period at end.
 
 [<sup>1</sup> So in original. No par. (2) has been enacted.](#296m_1)
 
-[<sup>2</sup> So in original. Probably should be preceded by “the”.](#296m_2)
+[<sup>2</sup> So in original. Probably should be preceded by "the".](#296m_2)

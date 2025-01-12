@@ -16,7 +16,7 @@ Section 116, act Mar. 3, 1915, ch. 75, §1, 38 Stat. 850, prohibited use of appr
 
 Section 117, act July 9, 1886, ch. 756, §2, 24 Stat. 129, related to security for deposits of moneys pertaining to National Home for Disabled Volunteer Soldiers.
 
-Section 118, act Mar. 3, 1893, ch. 210, §1, 27 Stat. 653, related to supervision of accounts of volunteer soldiers’ homes.
+Section 118, act Mar. 3, 1893, ch. 210, §1, 27 Stat. 653, related to supervision of accounts of volunteer soldiers' homes.
 
 Section 119, act Aug. 18, 1894, ch. 301, §1, 28 Stat. 411, related to disbursements, accounts, supplies and to posthumous fund.
 
@@ -30,4 +30,4 @@ Section 123, acts Aug. 5, 1892, ch. 380, §1, 27 Stat. 384; June 10, 1921, ch. 1
 
 #### Effective Date of Repeal ####
 
-Repeal effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans’ Benefits.
+Repeal effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans' Benefits.

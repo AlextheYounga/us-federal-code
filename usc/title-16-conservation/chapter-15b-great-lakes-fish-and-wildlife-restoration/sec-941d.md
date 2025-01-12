@@ -22,6 +22,6 @@ Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted identical
 
 #### Amendments ####
 
-**2006**—Par. (1). Pub. L. 109–326 added par. (1) and struck out former par. (1) which read as follows: “Restoring and maintaining self-sustaining fishery resource populations.”
+**2006**—Par. (1). Pub. L. 109–326 added par. (1) and struck out former par. (1) which read as follows: "Restoring and maintaining self-sustaining fishery resource populations."
 
 **1996**—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2006, which enacted this section.

@@ -6,7 +6,7 @@ All patents for mining claims upon veins or lodes issued prior to May 10, 1872, 
 
 #### References in Text ####
 
-Sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52, 71 to 76 of this title and section 661 of title 43, referred to in text, were in the original “this chapter”, meaning chapter 6 of title 32 of the Revised Statutes, consisting of R.S. §§2318 to 2352.
+Sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52, 71 to 76 of this title and section 661 of title 43, referred to in text, were in the original "this chapter", meaning chapter 6 of title 32 of the Revised Statutes, consisting of R.S. §§2318 to 2352.
 
 #### Codification ####
 

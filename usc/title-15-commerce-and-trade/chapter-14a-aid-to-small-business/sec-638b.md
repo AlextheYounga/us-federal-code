@@ -32,7 +32,7 @@ The certification developed under paragraph (3) may—
 
 (A) cover the lifecycle of an award to require certifications at the application, funding, reporting, and closeout phases of every SBIR and STTR award;
 
-(B) require the small business concern to certify compliance with the “principal investigator <sup><a href="#638b_1_target" name="638b_1">1</a></sup> primary employment” requirement, the “small business concern” definition requirement, and the “performance of work” requirements as set forth in the Directive applicable to the award;
+(B) require the small business concern to certify compliance with the "principal investigator <sup><a href="#638b_1_target" name="638b_1">1</a></sup> primary employment" requirement, the "small business concern" definition requirement, and the "performance of work" requirements as set forth in the Directive applicable to the award;
 
 (C) require the small business concern to disclose whether it has applied for, plans to apply for, or received an SBIR or STTR award for identical or essentially equivalent work (as defined under the SBIR Policy Directive and the STTR Policy Directive), and require the concern to certify that the award that it is applying for or obtaining funding for is not identical or essentially equivalent to work it has performed, or will perform, in connection with any other SBIR or STTR award that the concern has applied for or received from any other agency except as fully disclosed to all funding agencies; and
 
@@ -98,12 +98,12 @@ Section was enacted as part of the SBIR/STTR Reauthorization Act of 2011, and al
 
 #### Definitions ####
 
-Pub. L. 112–81, div. E, title L, §5002, Dec. 31, 2011, 125 Stat. 1823, provided that: “In this division [enacting this section and section 638a of this title, amending sections 632 and 638 of this title, enacting provisions set out as notes under this section and sections 631 and 638 of this title, and amending provisions set out as a note under section 638 of this title]—
+Pub. L. 112–81, div. E, title L, §5002, Dec. 31, 2011, 125 Stat. 1823, provided that: "In this division [enacting this section and section 638a of this title, amending sections 632 and 638 of this title, enacting provisions set out as notes under this section and sections 631 and 638 of this title, and amending provisions set out as a note under section 638 of this title]—
 
-“(1) the terms ‘Administration’ and ‘Administrator’ mean the Small Business Administration and the Administrator thereof, respectively;
+"(1) the terms 'Administration' and 'Administrator' mean the Small Business Administration and the Administrator thereof, respectively;
 
-“(2) the terms ‘extramural budget’, ‘Federal agency’, ‘Small Business Innovation Research Program’, ‘SBIR’, ‘Small Business Technology Transfer Program’, and ‘STTR’ have the meanings given such terms in section 9 of the Small Business Act (15 U.S.C. 638); and
+"(2) the terms 'extramural budget', 'Federal agency', 'Small Business Innovation Research Program', 'SBIR', 'Small Business Technology Transfer Program', and 'STTR' have the meanings given such terms in section 9 of the Small Business Act (15 U.S.C. 638); and
 
-“(3) the term ‘small business concern’ has the meaning given that term under section 3 of the Small Business Act (15 U.S.C. 632).”
+"(3) the term 'small business concern' has the meaning given that term under section 3 of the Small Business Act (15 U.S.C. 632)."
 
-[<sup>1</sup> So in original. Probably should be “investor”.](#638b_1)
+[<sup>1</sup> So in original. Probably should be "investor".](#638b_1)

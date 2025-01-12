@@ -4,7 +4,7 @@
 
 #### (1) In general ####
 
-The United States Governor of the Association may contribute on behalf of the United States an amount equal to the amount appropriated under subsection (b) of this section, pursuant to the resolution of the Association entitled “Additions to IDA Resources: Thirteenth Replenishment”.
+The United States Governor of the Association may contribute on behalf of the United States an amount equal to the amount appropriated under subsection (b) of this section, pursuant to the resolution of the Association entitled "Additions to IDA Resources: Thirteenth Replenishment".
 
 #### (2) Subject to appropriations ####
 

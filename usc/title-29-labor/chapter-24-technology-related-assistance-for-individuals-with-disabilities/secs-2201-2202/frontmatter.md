@@ -6,4 +6,4 @@ Section 2202, Pub. L. 100–407, §3, Aug. 19, 1988, 102 Stat. 1046; Pub. L. 103
 
 #### Short Title ####
 
-Pub. L. 100–407, §1, Aug. 19, 1988, 102 Stat. 1044, provided that Pub. L. 100–407 could be cited as the “Technology-Related Assistance for Individuals With Disabilities Act of 1988”, prior to repeal by Pub. L. 105–394, title IV, §401, Nov. 13, 1998, 112 Stat. 3661.
+Pub. L. 100–407, §1, Aug. 19, 1988, 102 Stat. 1044, provided that Pub. L. 100–407 could be cited as the "Technology-Related Assistance for Individuals With Disabilities Act of 1988", prior to repeal by Pub. L. 105–394, title IV, §401, Nov. 13, 1998, 112 Stat. 3661.

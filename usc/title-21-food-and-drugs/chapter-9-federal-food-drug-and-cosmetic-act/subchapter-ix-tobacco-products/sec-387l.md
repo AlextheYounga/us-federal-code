@@ -28,7 +28,7 @@ On receipt of a petition under subparagraph (A), the Secretary shall file in the
 
 #### (C) Definition of record ####
 
-In this section, the term “record” means—
+In this section, the term "record" means—
 
 (i) all notices and other matter published in the Federal Register with respect to the regulation or order reviewed;
 

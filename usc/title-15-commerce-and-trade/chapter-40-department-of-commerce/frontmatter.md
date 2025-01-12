@@ -98,7 +98,7 @@ Sec.
 
 1535. Repealed.
 
-1536. Prohibition against fraudulent use of “Made in America” labels.
+1536. Prohibition against fraudulent use of "Made in America" labels.
 
 1537. Needs assessment for data management, archival, and distribution.
 

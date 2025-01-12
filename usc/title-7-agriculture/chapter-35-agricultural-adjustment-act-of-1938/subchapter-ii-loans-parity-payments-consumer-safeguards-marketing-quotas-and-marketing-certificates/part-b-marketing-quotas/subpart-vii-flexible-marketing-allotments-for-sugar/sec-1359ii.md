@@ -26,7 +26,7 @@ A prior section 1359ii, act Feb. 16, 1938, ch. 30, title III, §359i, as added P
 
 #### Amendments ####
 
-**2008**—Subsec. (a). Pub. L. 110–246, §1403(h)(1), inserted “or 1359gg(d)” after “1359ff”.
+**2008**—Subsec. (a). Pub. L. 110–246, §1403(h)(1), inserted "or 1359gg(d)" after "1359ff".
 
 Subsec. (c). Pub. L. 110–246, §1403(h)(2), struck out subsec. (c) which related to special appeal process regarding beet sugar allocations.
 

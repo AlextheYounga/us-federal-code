@@ -64,6 +64,6 @@ Sec.
 
 **2012**—Pub. L. 112–141, div. C, title III, §33007(b), July 6, 2012, 126 Stat. 836, added item 5118.
 
-**2005**—Pub. L. 109–59, title VII, §§7111, 7115(a)(2), (h), 7123(c), Aug. 10, 2005, 119 Stat. 1899, 1901, 1908, struck out item 5111 “Rail tank cars”, substituted “Special permits and exclusions” for “Exemptions and exclusions” in item 5117, struck out item 5118 “Inspectors”, added items 5127 and 5128, and struck out former item 5127 “Authorization of appropriations”.
+**2005**—Pub. L. 109–59, title VII, §§7111, 7115(a)(2), (h), 7123(c), Aug. 10, 2005, 119 Stat. 1899, 1901, 1908, struck out item 5111 "Rail tank cars", substituted "Special permits and exclusions" for "Exemptions and exclusions" in item 5117, struck out item 5118 "Inspectors", added items 5127 and 5128, and struck out former item 5127 "Authorization of appropriations".
 
 **2001**—Pub. L. 107–56, title X, §1012(a)(2), Oct. 26, 2001, 115 Stat. 397, added item 5103a.

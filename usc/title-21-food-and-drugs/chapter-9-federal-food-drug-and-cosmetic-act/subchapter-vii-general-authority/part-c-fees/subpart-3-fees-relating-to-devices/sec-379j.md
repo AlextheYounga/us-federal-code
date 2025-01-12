@@ -205,13 +205,13 @@ Not later than 14 days before the Secretary anticipates the use of funds describ
 
 #### (1) In general ####
 
-The Secretary shall grant a waiver of the fee required under subsection (a) of this section for one premarket application, or one premarket report, where the Secretary finds that the applicant involved is a small business submitting its first premarket application to the Secretary, or its first premarket report, respectively, for review. For the purposes of this paragraph, the term “small business” means an entity that reported $30,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates. In addition, for subsequent premarket applications, premarket reports, and supplements where the Secretary finds that the applicant involved is a small business, the fees specified in clauses (i) through (v) and clauses (vii), (ix), and (x) of subsection (a)(2)(A) may be paid at a reduced rate in accordance with paragraph (2)(C).
+The Secretary shall grant a waiver of the fee required under subsection (a) of this section for one premarket application, or one premarket report, where the Secretary finds that the applicant involved is a small business submitting its first premarket application to the Secretary, or its first premarket report, respectively, for review. For the purposes of this paragraph, the term "small business" means an entity that reported $30,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates. In addition, for subsequent premarket applications, premarket reports, and supplements where the Secretary finds that the applicant involved is a small business, the fees specified in clauses (i) through (v) and clauses (vii), (ix), and (x) of subsection (a)(2)(A) may be paid at a reduced rate in accordance with paragraph (2)(C).
 
 #### (2) Rules relating to premarket approval fees ####
 
 #### (A) Definition ####
 
-For purposes of this paragraph, the term “small business” means an entity that reported $100,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates.
+For purposes of this paragraph, the term "small business" means an entity that reported $100,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates.
 
 #### (B) Evidence of qualification ####
 
@@ -249,7 +249,7 @@ For fiscal year 2008 and each subsequent fiscal year, where the Secretary finds 
 
 #### (A) Definition ####
 
-For purposes of this subsection, the term “small business” means an entity that reported $100,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates.
+For purposes of this subsection, the term "small business" means an entity that reported $100,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates.
 
 #### (B) Evidence of qualification ####
 
@@ -379,117 +379,117 @@ The Indian Self Determination and Educational Assistance Act, referred to in sub
 
 #### Amendments ####
 
-**2012**—Subsec. (a)(1). Pub. L. 112–144, §203(a)(1), substituted “fiscal year 2013” for “fiscal year 2008”.
+**2012**—Subsec. (a)(1). Pub. L. 112–144, §203(a)(1), substituted "fiscal year 2013" for "fiscal year 2008".
 
-Subsec. (a)(2)(A). Pub. L. 112–144, §203(a)(2)(A), substituted “subsections (d), (e), and (f)” for “subsections (d) and (e)”, “October 1, 2012” for “October 1, 2002”, and “subsection (c)” for “subsection (c)(1)” in introductory provisions.
+Subsec. (a)(2)(A). Pub. L. 112–144, §203(a)(2)(A), substituted "subsections (d), (e), and (f)" for "subsections (d) and (e)", "October 1, 2012" for "October 1, 2002", and "subsection (c)" for "subsection (c)(1)" in introductory provisions.
 
-Subsec. (a)(2)(A)(viii). Pub. L. 112–144, §203(a)(2)(B), substituted “2” for “1.84”.
+Subsec. (a)(2)(A)(viii). Pub. L. 112–144, §203(a)(2)(B), substituted "2" for "1.84".
 
-Subsec. (a)(3)(A). Pub. L. 112–144, §203(a)(3)(A), inserted “and subsection (f)” after “subparagraph (B)”.
+Subsec. (a)(3)(A). Pub. L. 112–144, §203(a)(3)(A), inserted "and subsection (f)" after "subparagraph (B)".
 
-Subsec. (a)(3)(C). Pub. L. 112–144, §203(a)(3)(B), substituted “later of—” for “initial registration of the establishment or upon the annual registration under section 360 of this title.” and added cls. (i) and (ii).
+Subsec. (a)(3)(C). Pub. L. 112–144, §203(a)(3)(B), substituted "later of—" for "initial registration of the establishment or upon the annual registration under section 360 of this title." and added cls. (i) and (ii).
 
 Subsec. (b). Pub. L. 112–144, §203(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) listed fee amounts for fiscal years 2008 to 2012.
 
-Subsec. (c). Pub. L. 112–144, §203(c), inserted “; adjustments” after “setting” in heading, added pars. (1) to (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former pars. (1) and (2) which related to annual publication and adjustment of fees.
+Subsec. (c). Pub. L. 112–144, §203(c), inserted "; adjustments" after "setting" in heading, added pars. (1) to (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former pars. (1) and (2) which related to annual publication and adjustment of fees.
 
 Subsecs. (f) to (h). Pub. L. 112–144, §203(d), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively. Former subsec. (h) redesignated (i).
 
-Subsec. (h)(1)(A). Pub. L. 112–144, §203(e), substituted “$280,587,000” for “$205,720,000”.
+Subsec. (h)(1)(A). Pub. L. 112–144, §203(e), substituted "$280,587,000" for "$205,720,000".
 
 Subsec. (i). Pub. L. 112–144, §203(d)(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-Subsec. (i)(1). Pub. L. 112–144, §203(f)(1), substituted “Subject to paragraph (2)(C), fees authorized” for “Fees authorized”.
+Subsec. (i)(1). Pub. L. 112–144, §203(f)(1), substituted "Subject to paragraph (2)(C), fees authorized" for "Fees authorized".
 
-Subsec. (i)(2)(A)(i). Pub. L. 112–144, §203(f)(2)(A)(i), substituted “subject to subparagraph (C), shall be collected and available” for “shall be retained”.
+Subsec. (i)(2)(A)(i). Pub. L. 112–144, §203(f)(2)(A)(i), substituted "subject to subparagraph (C), shall be collected and available" for "shall be retained".
 
-Subsec. (i)(2)(A)(ii). Pub. L. 112–193 substituted “shall be available” for “shall only be available”.
+Subsec. (i)(2)(A)(ii). Pub. L. 112–193 substituted "shall be available" for "shall only be available".
 
-Pub. L. 112–144, §203(f)(2)(A)(ii), substituted “shall only be available” for “shall only be collected and available” and “fiscal year 2009” for “fiscal year 2002”.
+Pub. L. 112–144, §203(f)(2)(A)(ii), substituted "shall only be available" for "shall only be collected and available" and "fiscal year 2009" for "fiscal year 2002".
 
 Subsec. (i)(2)(C). Pub. L. 112–144, §203(f)(2)(B), added subpar. (C).
 
 Subsec. (i)(3). Pub. L. 112–144, §203(f)(3), amended par. (3) generally. Prior to amendment, par. (3) authorized appropriations for fiscal years 2008 to 2012.
 
-Subsec. (i)(4). Pub. L. 112–144, §203(f)(4), substituted “fiscal years 2013, 2014, and 2015” for “fiscal years 2008, 2009, and 2010”, “fiscal year 2016” for “fiscal year 2011”, “June 30, 2016” for “June 30, 2011”, “the cumulative amount appropriated pursuant to” for “the amount of fees specified in aggregate in”, and “fiscal year 2017” for “fiscal year 2012” and struck out “aggregate amount in” before “excess shall be credited”.
+Subsec. (i)(4). Pub. L. 112–144, §203(f)(4), substituted "fiscal years 2013, 2014, and 2015" for "fiscal years 2008, 2009, and 2010", "fiscal year 2016" for "fiscal year 2011", "June 30, 2016" for "June 30, 2011", "the cumulative amount appropriated pursuant to" for "the amount of fees specified in aggregate in", and "fiscal year 2017" for "fiscal year 2012" and struck out "aggregate amount in" before "excess shall be credited".
 
 Subsecs. (j) to (l). Pub. L. 112–144, §203(d)(1), redesignated subsecs. (i) to (k) as (j) to (l), respectively.
 
-**2007**—Subsec. (a)(1). Pub. L. 110–85, §212(a)(1)(A), substituted “Beginning in fiscal year 2008” for “Beginning on October 26, 2002”.
+**2007**—Subsec. (a)(1). Pub. L. 110–85, §212(a)(1)(A), substituted "Beginning in fiscal year 2008" for "Beginning on October 26, 2002".
 
-Subsec. (a)(2). Pub. L. 110–85, §212(a)(1)(B), amended heading generally. Prior to amendment, heading read as follows: “Premarket application, premarket report, supplement, and submission fee”.
+Subsec. (a)(2). Pub. L. 110–85, §212(a)(1)(B), amended heading generally. Prior to amendment, heading read as follows: "Premarket application, premarket report, supplement, and submission fee".
 
-Subsec. (a)(2)(A)(iii). Pub. L. 110–85, §212(a)(2)(A), substituted “a fee equal to 75 percent of the fee that applies” for “a fee equal to the fee that applies”.
+Subsec. (a)(2)(A)(iii). Pub. L. 110–85, §212(a)(2)(A), substituted "a fee equal to 75 percent of the fee that applies" for "a fee equal to the fee that applies".
 
-Subsec. (a)(2)(A)(iv). Pub. L. 110–85, §212(a)(2)(B), substituted “15 percent” for “21.5 percent”.
+Subsec. (a)(2)(A)(iv). Pub. L. 110–85, §212(a)(2)(B), substituted "15 percent" for "21.5 percent".
 
-Subsec. (a)(2)(A)(v). Pub. L. 110–85, §212(a)(2)(C), substituted “7 percent” for “7.2 percent”.
+Subsec. (a)(2)(A)(v). Pub. L. 110–85, §212(a)(2)(C), substituted "7 percent" for "7.2 percent".
 
 Subsec. (a)(2)(A)(vi), (vii). Pub. L. 110–85, §212(a)(2)(D), (E), added cl. (vi) and redesignated former cl. (vi) as (vii). Former cl. (vii) redesignated (viii).
 
-Subsec. (a)(2)(A)(viii). Pub. L. 110–85, §212(a)(2)(D), (F), redesignated cl. (vii) as (viii), substituted “1.84 percent” for “1.42 percent”, and struck out “, subject to any adjustment under subsection (e)(2)(C)(ii) of this section” before period at end.
+Subsec. (a)(2)(A)(viii). Pub. L. 110–85, §212(a)(2)(D), (F), redesignated cl. (vii) as (viii), substituted "1.84 percent" for "1.42 percent", and struck out ", subject to any adjustment under subsection (e)(2)(C)(ii) of this section" before period at end.
 
 Subsec. (a)(2)(A)(ix), (x). Pub. L. 110–85, §212(a)(2)(G), added cls. (ix) and (x).
 
-Subsec. (a)(2)(C). Pub. L. 110–85, §212(a)(3), amended subpar. (C) generally. Prior to amendment, text read as follows: “The fee required by subparagraph (A) shall be due upon submission of the premarket application, premarket report, supplement, or premarket notification submission except that invoices for applications submitted between October 1, 2002, and October 26, 2002, shall be payable on October 30, 2002. Applicants submitting portions of applications pursuant to section 360e(c)(3) of this title shall pay such fees upon submission of the first portion of such applications. The fees credited to fiscal year 2003 under this section shall include all fees payable from October 1, 2002, through September 30, 2003.”
+Subsec. (a)(2)(C). Pub. L. 110–85, §212(a)(3), amended subpar. (C) generally. Prior to amendment, text read as follows: "The fee required by subparagraph (A) shall be due upon submission of the premarket application, premarket report, supplement, or premarket notification submission except that invoices for applications submitted between October 1, 2002, and October 26, 2002, shall be payable on October 30, 2002. Applicants submitting portions of applications pursuant to section 360e(c)(3) of this title shall pay such fees upon submission of the first portion of such applications. The fees credited to fiscal year 2003 under this section shall include all fees payable from October 1, 2002, through September 30, 2003."
 
-Subsec. (a)(2)(D)(iii). Pub. L. 110–85, §212(a)(4)(A), struck out at end “The Secretary shall have sole discretion to refund a fee or portion of the fee under this subparagraph. A determination by the Secretary concerning a refund under this paragraph shall not be reviewable.”
+Subsec. (a)(2)(D)(iii). Pub. L. 110–85, §212(a)(4)(A), struck out at end "The Secretary shall have sole discretion to refund a fee or portion of the fee under this subparagraph. A determination by the Secretary concerning a refund under this paragraph shall not be reviewable."
 
 Subsec. (a)(2)(D)(iv) to (vi). Pub. L. 110–85, §212(a)(4)(B), added cls. (iv) to (vi).
 
 Subsec. (a)(3). Pub. L. 110–85, §212(a)(5), added par. (3).
 
-Subsec. (b). Pub. L. 110–85, §212(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “Except as provided in subsections (c), (d), (e), (g), and (h) of this section, the fees under subsection (a) of this section shall be established to generate the following revenue amounts: $25,125,000 in fiscal year 2003; $27,255,000 in fiscal year 2004; and $29,785,000 in fiscal year 2005. If legislation is enacted after October 26, 2002, requiring the Secretary to fund additional costs of the retirement of Federal personnel, fee revenue amounts under this subsection shall be increased in each year by the amount necessary to fully fund the portion of such additional costs that are attributable to the process for the review of device applications.”
+Subsec. (b). Pub. L. 110–85, §212(b), amended subsec. (b) generally. Prior to amendment, text read as follows: "Except as provided in subsections (c), (d), (e), (g), and (h) of this section, the fees under subsection (a) of this section shall be established to generate the following revenue amounts: $25,125,000 in fiscal year 2003; $27,255,000 in fiscal year 2004; and $29,785,000 in fiscal year 2005. If legislation is enacted after October 26, 2002, requiring the Secretary to fund additional costs of the retirement of Federal personnel, fee revenue amounts under this subsection shall be increased in each year by the amount necessary to fully fund the portion of such additional costs that are attributable to the process for the review of device applications."
 
 Subsec. (c). Pub. L. 110–85, §212(c)(1)(A), made technical amendment to heading.
 
-Subsec. (c)(1). Pub. L. 110–85, §212(c)(1)(B), struck out at end “The fees established for fiscal year 2006 shall be based on a premarket application fee of $259,600, and the fees established for fiscal year 2007 shall be based on a premarket application fee of $281,600.”
+Subsec. (c)(1). Pub. L. 110–85, §212(c)(1)(B), struck out at end "The fees established for fiscal year 2006 shall be based on a premarket application fee of $259,600, and the fees established for fiscal year 2007 shall be based on a premarket application fee of $281,600."
 
 Subsec. (c)(2), (3). Pub. L. 110–85, §212(c)(2)(A), (B), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (c)(4). Pub. L. 110–85, §212(c)(2)(A), (C), redesignated par. (3) as (4) and substituted in subpar. (A) “The Secretary” for “For fiscal years 2006 and 2007, the Secretary” and “for the first month of the next fiscal year” for “for the first month of fiscal year 2008”.
+Subsec. (c)(4). Pub. L. 110–85, §212(c)(2)(A), (C), redesignated par. (3) as (4) and substituted in subpar. (A) "The Secretary" for "For fiscal years 2006 and 2007, the Secretary" and "for the first month of the next fiscal year" for "for the first month of fiscal year 2008".
 
-Subsec. (d)(1). Pub. L. 110–85, §212(d)(1), struck out “, partners, and parent firms” after “affiliates” and substituted “clauses (i) through (v) and clauses (vii), (ix), and (x) of subsection (a)(2)(A)” for “clauses (i) through (vi) of subsection (a)(2)(A) of this section”.
+Subsec. (d)(1). Pub. L. 110–85, §212(d)(1), struck out ", partners, and parent firms" after "affiliates" and substituted "clauses (i) through (v) and clauses (vii), (ix), and (x) of subsection (a)(2)(A)" for "clauses (i) through (vi) of subsection (a)(2)(A) of this section".
 
-Subsec. (d)(2)(A). Pub. L. 110–85, §212(d)(2)(A), struck out “, partners, and parent firms” before period at end.
+Subsec. (d)(2)(A). Pub. L. 110–85, §212(d)(2)(A), struck out ", partners, and parent firms" before period at end.
 
 Subsec. (d)(2)(B). Pub. L. 110–85, §212(d)(2)(B)(i), (ii), designated first sentence as cl. (i) and second to fourth sentences as cl. (ii) and inserted cl. headings.
 
-Subsec. (d)(2)(B)(ii). Pub. L. 110–85, §212(d)(2)(B)(iii), (iv), struck out “, partners, and parent firms” after “its affiliates” and after “such affiliates” and substituted “If no tax forms are submitted for any affiliate, the applicant shall certify that the applicant has no affiliates.” for “If no tax forms are submitted for affiliates, partners, or parent firms, the applicant shall certify that the applicant has no affiliates, partners, or parent firms, respectively.”
+Subsec. (d)(2)(B)(ii). Pub. L. 110–85, §212(d)(2)(B)(iii), (iv), struck out ", partners, and parent firms" after "its affiliates" and after "such affiliates" and substituted "If no tax forms are submitted for any affiliate, the applicant shall certify that the applicant has no affiliates." for "If no tax forms are submitted for affiliates, partners, or parent firms, the applicant shall certify that the applicant has no affiliates, partners, or parent firms, respectively."
 
 Subsec. (d)(2)(B)(iii). Pub. L. 110–85, §212(d)(2)(B)(v), added cl. (iii).
 
-Subsec. (d)(2)(C). Pub. L. 110–85, §212(d)(3), amended subpar. (C) generally. Prior to amendment, text read as follows: “Where the Secretary finds that the applicant involved meets the definition under subparagraph (A), the fees established under subsection (c)(1) of this section may be paid at a reduced rate of 38 percent of the fee established under such subsection for a premarket application, a premarket report, or a supplement.”
+Subsec. (d)(2)(C). Pub. L. 110–85, §212(d)(3), amended subpar. (C) generally. Prior to amendment, text read as follows: "Where the Secretary finds that the applicant involved meets the definition under subparagraph (A), the fees established under subsection (c)(1) of this section may be paid at a reduced rate of 38 percent of the fee established under such subsection for a premarket application, a premarket report, or a supplement."
 
-Subsec. (e)(1). Pub. L. 110–85, §212(e)(1), substituted “2008” for “2004” and “(a)(2)(A)(viii)” for “(a)(2)(A)(vii)”.
+Subsec. (e)(1). Pub. L. 110–85, §212(e)(1), substituted "2008" for "2004" and "(a)(2)(A)(viii)" for "(a)(2)(A)(vii)".
 
-Subsec. (e)(2)(A). Pub. L. 110–85, §212(e)(2)(A), struck out “, partners, and parent firms” before period at end.
+Subsec. (e)(2)(A). Pub. L. 110–85, §212(e)(2)(A), struck out ", partners, and parent firms" before period at end.
 
 Subsec. (e)(2)(B). Pub. L. 110–85, §212(e)(2)(B)(i), (ii), inserted cl. headings and designated first sentence as cl. (i) and second to fourth sentences as cl. (ii).
 
-Subsec. (e)(2)(B)(ii). Pub. L. 110–85, §212(e)(2)(B)(iii), (iv), struck out “, partners, and parent firms” after “its affiliates” and after “such affiliates” and substituted “If no tax forms are submitted for any affiliate, the applicant shall certify that the applicant has no affiliates.” for “If no tax forms are submitted for affiliates, partners, or parent firms, the applicant shall certify that the applicant has no affiliates, partners, or parent firms, respectively.”
+Subsec. (e)(2)(B)(ii). Pub. L. 110–85, §212(e)(2)(B)(iii), (iv), struck out ", partners, and parent firms" after "its affiliates" and after "such affiliates" and substituted "If no tax forms are submitted for any affiliate, the applicant shall certify that the applicant has no affiliates." for "If no tax forms are submitted for affiliates, partners, or parent firms, the applicant shall certify that the applicant has no affiliates, partners, or parent firms, respectively."
 
 Subsec. (e)(2)(B)(iii). Pub. L. 110–85, §212(e)(2)(B)(v), added cl. (iii).
 
 Subsec. (e)(2)(C). Pub. L. 110–85, §212(e)(3), amended subpar. (C) generally. Prior to amendment, subpar. (C) contained provisions, for fiscal year 2004 and each subsequent fiscal year, authorizing in cl. (i) a reduced fee for a premarket notification submission, and directing in cl. (ii) the Secretary how to determine an adjustment per fee revenue amount.
 
-Subsec. (f). Pub. L. 110–85, §212(f), amended subsec. (f) generally. Prior to amendment, text read as follows: “A premarket application, premarket report, supplement, or premarket notification submission submitted by a person subject to fees under subsection (a) of this section shall be considered incomplete and shall not be accepted by the Secretary until all fees owed by such person have been paid.”
+Subsec. (f). Pub. L. 110–85, §212(f), amended subsec. (f) generally. Prior to amendment, text read as follows: "A premarket application, premarket report, supplement, or premarket notification submission submitted by a person subject to fees under subsection (a) of this section shall be considered incomplete and shall not be accepted by the Secretary until all fees owed by such person have been paid."
 
 Subsec. (g)(1). Pub. L. 110–85, §212(g)(1), added par. (1) and struck out former par. (1). Prior to amendment, par. (1) related to performance goals for fiscal years 2003 through 2005, with respect to the amount appropriated under the salaries and expenses account of the Food and Drug Administration, for devices and radiological products, and termination of the program after fiscal year 2005.
 
-Subsec. (g)(2). Pub. L. 110–85, §212(g)(2), amended par. (2) generally. Prior to amendment, text read as follows: “If the Secretary does not assess fees under subsection (a) of this section during any portion of a fiscal year because of subparagraph (C) or (D) of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, and premarket notification submissions, and at any time in such fiscal year, notwithstanding the provisions of subsection (a) of this section relating to the date fees are to be paid.”
+Subsec. (g)(2). Pub. L. 110–85, §212(g)(2), amended par. (2) generally. Prior to amendment, text read as follows: "If the Secretary does not assess fees under subsection (a) of this section during any portion of a fiscal year because of subparagraph (C) or (D) of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, and premarket notification submissions, and at any time in such fiscal year, notwithstanding the provisions of subsection (a) of this section relating to the date fees are to be paid."
 
 Subsec. (h)(3). Pub. L. 110–85, §212(h)(1), amended par. (3) generally, substituting provisions authorizing appropriations for fiscal years 2008 to 2012 for provisions authorizing appropriations for fiscal years 2003 to 2007.
 
-Subsec. (h)(4). Pub. L. 110–85, §212(h)(2), amended par. (4) generally. Prior to amendment, text read as follows: “Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriation Acts for such fiscal year shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year.”
+Subsec. (h)(4). Pub. L. 110–85, §212(h)(2), amended par. (4) generally. Prior to amendment, text read as follows: "Any amount of fees collected for a fiscal year under this section that exceeds the amount of fees specified in appropriation Acts for such fiscal year shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for a subsequent fiscal year."
 
-**2005**—Subsec. (a)(2)(A). Pub. L. 109–43, §2(a)(7), substituted “subsection (c)(1)” for “subsection (c)(5)”.
+**2005**—Subsec. (a)(2)(A). Pub. L. 109–43, §2(a)(7), substituted "subsection (c)(1)" for "subsection (c)(5)".
 
-Subsec. (b). Pub. L. 109–43, §2(a)(1), inserted “and” after “2004;” and substituted “2005” for “2005; $32,615,000 in fiscal year 2006, and $35,000,000 in fiscal year 2007”.
+Subsec. (b). Pub. L. 109–43, §2(a)(1), inserted "and" after "2004;" and substituted "2005" for "2005; $32,615,000 in fiscal year 2006, and $35,000,000 in fiscal year 2007".
 
-Subsec. (c). Pub. L. 109–43, §2(a)(2)(A), substituted “Annual fee setting” for “Adjustments” in heading.
+Subsec. (c). Pub. L. 109–43, §2(a)(2)(A), substituted "Annual fee setting" for "Adjustments" in heading.
 
-Subsec. (c)(1). Pub. L. 109–43, §2(a)(2)(B)–(D), redesignated par. (5) as (1), substituted “In general” for “Annual fee setting” in heading, “publish in the Federal Register fees under subsection (a) of this section. The fees” for “establish, for the next fiscal year, and publish in the Federal Register, fees under subsection (a) of this section, based on the revenue amounts established under subsection (b) of this section and the adjustment provided under this subsection and subsection (e)(2)(C)(ii) of this section, except that the fees”, “2006” for “2003”, and “$259,600, and the fees established for fiscal year 2007 shall be based on a premarket application fee of $281,600.” for “$154,000.” in text, and struck out former par. (1) which required an annual inflation adjustment of the revenues established in subsec. (b).
+Subsec. (c)(1). Pub. L. 109–43, §2(a)(2)(B)–(D), redesignated par. (5) as (1), substituted "In general" for "Annual fee setting" in heading, "publish in the Federal Register fees under subsection (a) of this section. The fees" for "establish, for the next fiscal year, and publish in the Federal Register, fees under subsection (a) of this section, based on the revenue amounts established under subsection (b) of this section and the adjustment provided under this subsection and subsection (e)(2)(C)(ii) of this section, except that the fees", "2006" for "2003", and "$259,600, and the fees established for fiscal year 2007 shall be based on a premarket application fee of $281,600." for "$154,000." in text, and struck out former par. (1) which required an annual inflation adjustment of the revenues established in subsec. (b).
 
 Subsec. (c)(2). Pub. L. 109–43, §2(a)(2)(B), (C), redesignated par. (6) as (2) and struck out former par. (2) which required an annual adjustment of the fee revenues established in subsec. (b) to reflect changes in the workload of the Secretary for the process for the review of device applications.
 
@@ -499,61 +499,61 @@ Subsec. (c)(4). Pub. L. 109–43, §2(a)(2)(B), struck out par. (4) which provid
 
 Subsec. (c)(5), (6). Pub. L. 109–43, §2(a)(2)(C), redesignated pars. (5) and (6) as (1) and (2), respectively.
 
-Subsec. (d)(1). Pub. L. 109–43, §2(a)(3)(A), inserted after first sentence “For the purposes of this paragraph, the term ‘small business’ means an entity that reported $30,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates, partners, and parent firms.”
+Subsec. (d)(1). Pub. L. 109–43, §2(a)(3)(A), inserted after first sentence "For the purposes of this paragraph, the term 'small business' means an entity that reported $30,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates, partners, and parent firms."
 
-Subsec. (d)(2)(A). Pub. L. 109–43, §2(a)(3)(B), struck out cl. (i) designation and heading before “For purposes”, substituted “paragraph,” for “subsection,” and “$100,000,000” for “$30,000,000”, and struck out heading and text of clause (ii). Text read as follows: “The Secretary may adjust the $30,000,000 threshold established in clause (i) if the Secretary has evidence from actual experience that this threshold results in a reduction in revenues from premarket applications, premarket reports, and supplements that is 16 percent or more than would occur without small business exemptions and lower fee rates. To adjust this threshold, the Secretary shall publish a notice in the Federal Register setting out the rationale for the adjustment, and the new threshold.”
+Subsec. (d)(2)(A). Pub. L. 109–43, §2(a)(3)(B), struck out cl. (i) designation and heading before "For purposes", substituted "paragraph," for "subsection," and "$100,000,000" for "$30,000,000", and struck out heading and text of clause (ii). Text read as follows: "The Secretary may adjust the $30,000,000 threshold established in clause (i) if the Secretary has evidence from actual experience that this threshold results in a reduction in revenues from premarket applications, premarket reports, and supplements that is 16 percent or more than would occur without small business exemptions and lower fee rates. To adjust this threshold, the Secretary shall publish a notice in the Federal Register setting out the rationale for the adjustment, and the new threshold."
 
-Subsec. (d)(2)(C). Pub. L. 109–43, §2(a)(7), substituted “subsection (c)(1)” for “subsection (c)(5)”.
+Subsec. (d)(2)(C). Pub. L. 109–43, §2(a)(7), substituted "subsection (c)(1)" for "subsection (c)(5)".
 
-Subsec. (e)(2)(A). Pub. L. 109–43, §2(a)(4), substituted “$100,000,000” for “$30,000,000”.
+Subsec. (e)(2)(A). Pub. L. 109–43, §2(a)(4), substituted "$100,000,000" for "$30,000,000".
 
-Subsec. (e)(2)(C). Pub. L. 109–43, §2(a)(7), substituted “subsection (c)(1)” for “subsection (c)(5)” in cls. (i) and (ii).
+Subsec. (e)(2)(C). Pub. L. 109–43, §2(a)(7), substituted "subsection (c)(1)" for "subsection (c)(5)" in cls. (i) and (ii).
 
-Subsec. (g)(1)(B)(i). Pub. L. 109–43, §2(a)(5)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows: “For fiscal year 2005, the Secretary is expected to meet all of the performance goals identified for the fiscal year if the total of the amounts so appropriated for fiscal years 2003 through 2005, excluding the amount of fees appropriated for such fiscal years, is equal to or greater than the sum of—
+Subsec. (g)(1)(B)(i). Pub. L. 109–43, §2(a)(5)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows: "For fiscal year 2005, the Secretary is expected to meet all of the performance goals identified for the fiscal year if the total of the amounts so appropriated for fiscal years 2003 through 2005, excluding the amount of fees appropriated for such fiscal years, is equal to or greater than the sum of—
 
-“(I) $205,720,000 multiplied by the adjustment factor applicable to fiscal year 2003;
+"(I) $205,720,000 multiplied by the adjustment factor applicable to fiscal year 2003;
 
-“(II) $205,720,000 multiplied by the adjustment factor applicable to fiscal year 2004; and
+"(II) $205,720,000 multiplied by the adjustment factor applicable to fiscal year 2004; and
 
-“(III) $205,720,000 multiplied by the adjustment factor applicable to fiscal year 2005.”
+"(III) $205,720,000 multiplied by the adjustment factor applicable to fiscal year 2005."
 
-Subsec. (g)(1)(B)(ii). Pub. L. 109–43, §2(a)(5)(A)(ii), added introductory provisions and struck out former introductory provisions which read as follows: “For fiscal year 2005, if the total of the amounts so appropriated for fiscal years 2003 through 2005, excluding the amount of fees appropriated for such fiscal years, is less than the sum that applies under clause (i) for fiscal year 2005, the following applies:”.
+Subsec. (g)(1)(B)(ii). Pub. L. 109–43, §2(a)(5)(A)(ii), added introductory provisions and struck out former introductory provisions which read as follows: "For fiscal year 2005, if the total of the amounts so appropriated for fiscal years 2003 through 2005, excluding the amount of fees appropriated for such fiscal years, is less than the sum that applies under clause (i) for fiscal year 2005, the following applies:".
 
-Subsec. (g)(1)(C). Pub. L. 109–43, §2(a)(5)(B)(i), substituted “2005 and” for “2003 through” and inserted “more than 1 percent” after “years, is”.
+Subsec. (g)(1)(C). Pub. L. 109–43, §2(a)(5)(B)(i), substituted "2005 and" for "2003 through" and inserted "more than 1 percent" after "years, is".
 
-Subsec. (g)(1)(C)(ii). Pub. L. 109–43, §2(a)(5)(B)(ii), substituted “amount that applies” for “sum that applies”.
+Subsec. (g)(1)(C)(ii). Pub. L. 109–43, §2(a)(5)(B)(ii), substituted "amount that applies" for "sum that applies".
 
-Subsec. (g)(1)(D)(i). Pub. L. 109–43, §2(a)(5)(C), inserted “more than 1 percent” after “year, is”.
+Subsec. (g)(1)(D)(i). Pub. L. 109–43, §2(a)(5)(C), inserted "more than 1 percent" after "year, is".
 
 Subsec. (h)(3)(D), (E). Pub. L. 109–43, §2(a)(6), added subpar. (D) and struck out former subpars. (D) and (E) which read as follows:
 
-“(D) $32,615,000 for fiscal year 2006; and
+"(D) $32,615,000 for fiscal year 2006; and
 
-“(E) $35,000,000 for fiscal year 2007,”.
+"(E) $35,000,000 for fiscal year 2007,".
 
 **2004**—Pub. L. 108–214, §2(d)(3)(A), made technical correction to directory language of Pub. L. 107–250, §102(a), which enacted this section.
 
-Subsec. (a). Pub. L. 108–214, §2(d)(2)(A), designated introductory provisions of subsec. (a) as par. (1), inserted heading, substituted “this section.” for “this section as follows:”, and redesignated former par. (1) as (2).
+Subsec. (a). Pub. L. 108–214, §2(d)(2)(A), designated introductory provisions of subsec. (a) as par. (1), inserted heading, substituted "this section." for "this section as follows:", and redesignated former par. (1) as (2).
 
-Subsec. (a)(1)(A). Pub. L. 108–214, §2(a)(2)(A)(i), substituted, in introductory provisions, “subsections (d) and (e)” for “subsection (d)”, in cl. (iv), “clause (i)” for “clause (i), subject to any adjustment under subsection (c)(3) of this section”, and, in cl. (vii), “clause (i), subject to any adjustment under subsection (e)(2)(C)(ii)” for “clause (i), subject to any adjustment under subsection (c)(3) of this section and any adjustment under subsection (e)(2)(C)(ii)”.
+Subsec. (a)(1)(A). Pub. L. 108–214, §2(a)(2)(A)(i), substituted, in introductory provisions, "subsections (d) and (e)" for "subsection (d)", in cl. (iv), "clause (i)" for "clause (i), subject to any adjustment under subsection (c)(3) of this section", and, in cl. (vii), "clause (i), subject to any adjustment under subsection (e)(2)(C)(ii)" for "clause (i), subject to any adjustment under subsection (c)(3) of this section and any adjustment under subsection (e)(2)(C)(ii)".
 
-Subsec. (a)(1)(D)(i), (ii). Pub. L. 108–214, §2(a)(2)(A)(ii), substituted “application, report,” for “application”.
+Subsec. (a)(1)(D)(i), (ii). Pub. L. 108–214, §2(a)(2)(A)(ii), substituted "application, report," for "application".
 
-Subsec. (d)(1). Pub. L. 108–214, §2(d)(2)(B)(i), substituted “subsection (a)(2)(A)” for “subsection (a)(1)(A)” in last sentence.
+Subsec. (d)(1). Pub. L. 108–214, §2(d)(2)(B)(i), substituted "subsection (a)(2)(A)" for "subsection (a)(1)(A)" in last sentence.
 
-Subsec. (d)(2)(B). Pub. L. 108–214, §2(a)(2)(B), substituted “firms, which show” for “firms. which show” in second sentence.
+Subsec. (d)(2)(B). Pub. L. 108–214, §2(a)(2)(B), substituted "firms, which show" for "firms. which show" in second sentence.
 
-Subsec. (e)(1). Pub. L. 108–214, §2(a)(2)(C)(i), (d)(2)(B)(ii), substituted “For fiscal year 2004 and each subsequent fiscal year, where” for “Where” and “subsection (a)(2)(A)(vii)” for “subsection (a)(1)(A)(vii)”.
+Subsec. (e)(1). Pub. L. 108–214, §2(a)(2)(C)(i), (d)(2)(B)(ii), substituted "For fiscal year 2004 and each subsequent fiscal year, where" for "Where" and "subsection (a)(2)(A)(vii)" for "subsection (a)(1)(A)(vii)".
 
-Subsec. (e)(2)(B). Pub. L. 108–214, §2(a)(2)(C)(ii)(I), substituted “firms, which show” for “firms. which show”.
+Subsec. (e)(2)(B). Pub. L. 108–214, §2(a)(2)(C)(ii)(I), substituted "firms, which show" for "firms. which show".
 
-Subsec. (e)(2)(C). Pub. L. 108–214, §2(a)(2)(C)(ii)(II), (d)(2)(B)(iii), substituted “For fiscal year 2004 and each subsequent fiscal year, where” for “Where” in cl. (i), “subsection (a)(2)(A)(vii)” for “subsection (a)(1)(A)(vii)” in cls. (i) and (ii), and “subsection (a)(2)(A)(i)” for “subsection (a)(1)(A)(i)” in cl. (ii).
+Subsec. (e)(2)(C). Pub. L. 108–214, §2(a)(2)(C)(ii)(II), (d)(2)(B)(iii), substituted "For fiscal year 2004 and each subsequent fiscal year, where" for "Where" in cl. (i), "subsection (a)(2)(A)(vii)" for "subsection (a)(1)(A)(vii)" in cls. (i) and (ii), and "subsection (a)(2)(A)(i)" for "subsection (a)(1)(A)(i)" in cl. (ii).
 
-Subsec. (f). Pub. L. 108–214, §2(a)(2)(D), struck out “for filing” after “accepted”.
+Subsec. (f). Pub. L. 108–214, §2(a)(2)(D), struck out "for filing" after "accepted".
 
 Subsec. (h)(2)(B). Pub. L. 108–214, §2(a)(2)(E), designated existing provisions as cl. (i), inserted heading, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), redesignated former subcls. (I) and (II) of cl. (i) as items (aa) and (bb), respectively, of cl. (i)(II), and added cl. (ii).
 
-Subsec. (j). Pub. L. 108–214, §2(d)(2)(B)(iv), substituted “subsection (a)(2)(D)” for “subsection (a)(1)(D)”.
+Subsec. (j). Pub. L. 108–214, §2(d)(2)(B)(iv), substituted "subsection (a)(2)(D)" for "subsection (a)(1)(D)".
 
 #### Effective Date of 2012 Amendment ####
 
@@ -571,10 +571,10 @@ Section effective Oct. 26, 2002, except for certain premarket fees, see section 
 
 #### Fee Exemption for Certain Entities Submitting Premarket Reports ####
 
-Pub. L. 107–250, title I, §102(b), Oct. 26, 2002, 116 Stat. 1600, as amended by Pub. L. 108–214, §2(d)(2)(C), (3)(B), Apr. 1, 2004, 118 Stat. 577, provided that: “A person submitting a premarket report to the Secretary of Health and Human Services is exempt from the fee under section 738(a)(2)(A)(ii) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 379j(a)(2)(A)(ii)] (as added by subsection (a) of this section) if—
+Pub. L. 107–250, title I, §102(b), Oct. 26, 2002, 116 Stat. 1600, as amended by Pub. L. 108–214, §2(d)(2)(C), (3)(B), Apr. 1, 2004, 118 Stat. 577, provided that: "A person submitting a premarket report to the Secretary of Health and Human Services is exempt from the fee under section 738(a)(2)(A)(ii) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 379j(a)(2)(A)(ii)] (as added by subsection (a) of this section) if—
 
-“(1) the premarket report is the first such report submitted to the Secretary by the person; and
+"(1) the premarket report is the first such report submitted to the Secretary by the person; and
 
-“(2) before October 1, 2002, the person submitted a premarket application to the Secretary for the same device as the device for which the person is submitting the premarket report.”
+"(2) before October 1, 2002, the person submitted a premarket application to the Secretary for the same device as the device for which the person is submitting the premarket report."
 
 [<sup>1</sup> See References in Text note below.](#379j_1)

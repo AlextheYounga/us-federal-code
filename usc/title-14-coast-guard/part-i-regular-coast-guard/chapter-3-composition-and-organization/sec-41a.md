@@ -12,19 +12,19 @@
 
 #### Amendments ####
 
-**1994**—Subsec. (a). Pub. L. 103–337 substituted “section 12311 of title 10” for “section 679 of title 10”.
+**1994**—Subsec. (a). Pub. L. 103–337 substituted "section 12311 of title 10" for "section 679 of title 10".
 
-**1993**—Subsec. (b). Pub. L. 103–206 struck out before period at end of second sentence “, except that the rear admiral serving as Chief of Staff shall be the senior rear admiral for all purposes other than pay”.
+**1993**—Subsec. (b). Pub. L. 103–206 struck out before period at end of second sentence ", except that the rear admiral serving as Chief of Staff shall be the senior rear admiral for all purposes other than pay".
 
-**1981**—Subsec. (a). Pub. L. 97–136, §6(a)(1), substituted “Reserve officers on active duty, other than pursuant to an active duty agreement executed under section 679 of title 10, retired officers, and officers of the permanent commissioned teaching staff of the Coast Guard Academy shall not” for “Retired officers and officers of the permanent commissioned teaching staff of the Coast Guard Academy shall not be included on the active duty promotion list. Reserve officers on extended active duty, other than those serving in connection with organizing, administering, recruiting, instructing, or training the Reserve components or assigned to the Selective Service System, shall”.
+**1981**—Subsec. (a). Pub. L. 97–136, §6(a)(1), substituted "Reserve officers on active duty, other than pursuant to an active duty agreement executed under section 679 of title 10, retired officers, and officers of the permanent commissioned teaching staff of the Coast Guard Academy shall not" for "Retired officers and officers of the permanent commissioned teaching staff of the Coast Guard Academy shall not be included on the active duty promotion list. Reserve officers on extended active duty, other than those serving in connection with organizing, administering, recruiting, instructing, or training the Reserve components or assigned to the Selective Service System, shall".
 
 Subsec. (b). Pub. L. 97–136, §6(a)(2), inserted exception that rear admiral serving as Chief of Staff shall be senior rear admiral for all purposes other than pay.
 
-Subsec. (d). Pub. L. 97–136, §6(a)(3), substituted “enters on active duty” for “enters on extended active duty”.
+Subsec. (d). Pub. L. 97–136, §6(a)(3), substituted "enters on active duty" for "enters on extended active duty".
 
-**1973**—Subsec. (a). Pub. L. 93–174 substituted “Retired officers and officers” for “Retired officers, officers” and struck out “, and officers of the Women's Reserve” after “Coast Guard Academy”.
+**1973**—Subsec. (a). Pub. L. 93–174 substituted "Retired officers and officers" for "Retired officers, officers" and struck out ", and officers of the Women's Reserve" after "Coast Guard Academy".
 
-**1970**—Subsec. (a). Pub. L. 91–278 inserted “or assigned to the Selective Service System” after “components” in last sentence.
+**1970**—Subsec. (a). Pub. L. 91–278 inserted "or assigned to the Selective Service System" after "components" in last sentence.
 
 #### Effective Date of 1994 Amendment ####
 

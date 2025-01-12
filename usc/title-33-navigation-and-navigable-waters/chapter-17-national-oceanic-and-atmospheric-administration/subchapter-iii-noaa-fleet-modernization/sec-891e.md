@@ -4,9 +4,9 @@
 
 The Secretary of Commerce may not award a contract for the construction, repair (except emergency repairs), or alteration of any vessel of the National Oceanic and Atmospheric Administration in a shipyard, if that vessel benefits or would benefit from significant subsidies for the construction, repair, or alteration of vessels in that shipyard.
 
-#### (b) “Significant subsidy” defined ####
+#### (b) "Significant subsidy" defined ####
 
-In this section, the term “significant subsidy” includes, but is not limited to, any of the following:
+In this section, the term "significant subsidy" includes, but is not limited to, any of the following:
 
 (1) Officially supported export credits.
 
@@ -38,8 +38,8 @@ In this section, the term “significant subsidy” includes, but is not limited
 
 #### Amendments ####
 
-**1999**—Subsec. (b)(8). Pub. L. 106–36 substituted “Agreement on Subsidies and Countervailing Measures referred to in section 3511(d)(12) of title 19, or any other export subsidy prohibited by that agreement” for “Agreement on Interpretation and Application of Articles VI, XVI, and XXIII of the General Agreement on Tariffs and Trade or any other export subsidy that may be prohibited as a result of the Uruguay Round of trade negotiations.”
+**1999**—Subsec. (b)(8). Pub. L. 106–36 substituted "Agreement on Subsidies and Countervailing Measures referred to in section 3511(d)(12) of title 19, or any other export subsidy prohibited by that agreement" for "Agreement on Interpretation and Application of Articles VI, XVI, and XXIII of the General Agreement on Tariffs and Trade or any other export subsidy that may be prohibited as a result of the Uruguay Round of trade negotiations."
 
 #### Fisheries Research Vessel Procurement ####
 
-Pub. L. 106–450, title IV, §401, Nov. 7, 2000, 114 Stat. 1945, provided that: “Notwithstanding section 644 of title 15, United States Code, and section 19.502–2 of title 48, Code of Federal Regulations, the Secretary of Commerce shall seek to procure Fisheries Research Vessels through full and open competition from responsible United States shipbuilding companies irrespective of size.”
+Pub. L. 106–450, title IV, §401, Nov. 7, 2000, 114 Stat. 1945, provided that: "Notwithstanding section 644 of title 15, United States Code, and section 19.502–2 of title 48, Code of Federal Regulations, the Secretary of Commerce shall seek to procure Fisheries Research Vessels through full and open competition from responsible United States shipbuilding companies irrespective of size."

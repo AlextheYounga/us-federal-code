@@ -18,6 +18,6 @@ The Secretary shall, within 4 years after August 4, 1993, study, identify, and i
 
 #### References in Text ####
 
-Section 460l–9(a) of this title, referred to in subsec. (b), was in the original “section 7(a) of the Land and Water Conservation Fund Act of 1964 (16 U.S.C. 460l–9(a)),” and was translated as reading section 7(a) of the Land and Water Conservation Fund Act of 1965, to reflect the probable intent of Congress.
+Section 460l–9(a) of this title, referred to in subsec. (b), was in the original "section 7(a) of the Land and Water Conservation Fund Act of 1964 (16 U.S.C. 460l–9(a))," and was translated as reading section 7(a) of the Land and Water Conservation Fund Act of 1965, to reflect the probable intent of Congress.
 
 [<sup>1</sup> See References in Text note below.](#460iii-4_1)

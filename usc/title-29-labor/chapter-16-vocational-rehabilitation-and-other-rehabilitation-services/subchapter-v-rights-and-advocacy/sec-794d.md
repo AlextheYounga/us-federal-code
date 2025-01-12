@@ -20,7 +20,7 @@ When development, procurement, maintenance, or use of electronic and information
 
 #### (A) In general ####
 
-Not later than 18 months after August 7, 1998, the Architectural and Transportation Barriers Compliance Board (referred to in this section as the “Access Board”), after consultation with the Secretary of Education, the Administrator of General Services, the Secretary of Commerce, the Chairman of the Federal Communications Commission, the Secretary of Defense, and the head of any other Federal department or agency that the Access Board determines to be appropriate, including consultation on relevant research findings, and after consultation with the electronic and information technology industry and appropriate public or nonprofit agencies or organizations, including organizations representing individuals with disabilities, shall issue and publish standards setting forth—
+Not later than 18 months after August 7, 1998, the Architectural and Transportation Barriers Compliance Board (referred to in this section as the "Access Board"), after consultation with the Secretary of Education, the Administrator of General Services, the Secretary of Commerce, the Chairman of the Federal Communications Commission, the Secretary of Defense, and the head of any other Federal department or agency that the Access Board determines to be appropriate, including consultation on relevant research findings, and after consultation with the electronic and information technology industry and appropriate public or nonprofit agencies or organizations, including organizations representing individuals with disabilities, shall issue and publish standards setting forth—
 
 (i) for purposes of this section, a definition of electronic and information technology that is consistent with the definition of information technology specified in section 11101(6) of title 40; and
 
@@ -106,20 +106,20 @@ This section shall not be construed to limit any right, remedy, or procedure oth
 
 #### Codification ####
 
-“Section 11101(6) of title 40” substituted in subsec. (a)(2)(A)(i) for “section 5002(3) of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401(3))” and “section 11103(a) of title 40” substituted in subsec. (a)(5) for “section 5142 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1452)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Section 11101(6) of title 40" substituted in subsec. (a)(2)(A)(i) for "section 5002(3) of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401(3))" and "section 11103(a) of title 40" substituted in subsec. (a)(5) for "section 5142 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1452)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments ####
 
-**2000**—Subsec. (f)(1)(A). Pub. L. 106–246, §2405(1), substituted “Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section,” for “Effective 2 years after August 7, 1998,”.
+**2000**—Subsec. (f)(1)(A). Pub. L. 106–246, §2405(1), substituted "Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section," for "Effective 2 years after August 7, 1998,".
 
-Subsec. (f)(1)(B). Pub. L. 106–246, §2405(2), substituted “6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section.” for “2 years after August 7, 1998.”
+Subsec. (f)(1)(B). Pub. L. 106–246, §2405(2), substituted "6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section." for "2 years after August 7, 1998."
 
 **1998**—Pub. L. 105–220 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to electronic and information technology accessibility guidelines.
 
-**1992**—Pub. L. 102–569 amended section generally, substituting present provisions for provisions relating to electronic equipment accessibility guidelines, in consultation with electronic industry, designed to insure individuals with handicaps use of electronic office equipment with or without special peripherals, requiring the Administrator of General Services to adopt guidelines for electronic equipment accessibility established under this section for Federal procurement of electronic equipment, and defining term “special peripherals”.
+**1992**—Pub. L. 102–569 amended section generally, substituting present provisions for provisions relating to electronic equipment accessibility guidelines, in consultation with electronic industry, designed to insure individuals with handicaps use of electronic office equipment with or without special peripherals, requiring the Administrator of General Services to adopt guidelines for electronic equipment accessibility established under this section for Federal procurement of electronic equipment, and defining term "special peripherals".
 
-**1988**—Subsec. (a)(1). Pub. L. 100–630, §206(f)(1), inserted “the Director of” before “the National Institute”, struck out “the” before “General Services”, and substituted “individuals with handicaps” for “handicapped individuals”.
+**1988**—Subsec. (a)(1). Pub. L. 100–630, §206(f)(1), inserted "the Director of" before "the National Institute", struck out "the" before "General Services", and substituted "individuals with handicaps" for "handicapped individuals".
 
-Subsec. (a)(3). Pub. L. 100–630, §206(f)(2), inserted “by the Director of the National Institute on Disability and Rehabilitation Research and the Administrator of General Services in consultation with the electronics industry and the Interagency Committee for Computer Support of Handicapped Employees” after “revised”.
+Subsec. (a)(3). Pub. L. 100–630, §206(f)(2), inserted "by the Director of the National Institute on Disability and Rehabilitation Research and the Administrator of General Services in consultation with the electronics industry and the Interagency Committee for Computer Support of Handicapped Employees" after "revised".
 
-Subsec. (c). Pub. L. 100–630, §206(f)(3), substituted “an individual with handicaps” for “a handicapped individual”.
+Subsec. (c). Pub. L. 100–630, §206(f)(3), substituted "an individual with handicaps" for "a handicapped individual".

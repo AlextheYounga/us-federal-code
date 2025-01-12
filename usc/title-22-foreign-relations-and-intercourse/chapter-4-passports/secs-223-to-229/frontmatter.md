@@ -6,7 +6,7 @@ Section 224, act May 22, 1918, ch. 81, §2, 40 Stat. 559, related to requirement
 
 Section 225, acts May 22, 1918, ch. 81, §3, 40 Stat. 559; June 21, 1941, ch. 210, §2, 55 Stat. 253, related to penalty for violation of wartime restrictions. See section 1185 of Title 8.
 
-Section 226, acts May 22, 1918, ch. 81, §4, 40 Stat. 559; June 21, 1941, ch. 210, §2a, 55 Stat. 253, related to definition of “United States” and “person” as used in wartime restriction. See section 1185 of Title 8.
+Section 226, acts May 22, 1918, ch. 81, §4, 40 Stat. 559; June 21, 1941, ch. 210, §2a, 55 Stat. 253, related to definition of "United States" and "person" as used in wartime restriction. See section 1185 of Title 8.
 
 Section 226a, act May 22, 1918, ch. 81, §5, as added June 21, 1941, ch. 210, §3, 55 Stat 253, related to permit as guarantee of admission to the United States. See section 1185 of Title 8.
 

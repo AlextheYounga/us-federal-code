@@ -26,7 +26,7 @@ An emerging growth company—
 
 (2) The Commission may, as it determines consistent with the public interest and the protection of investors, by rule or order exempt any issuer or class of issuers from the rules prescribed under paragraph (1).
 
-(3) For purposes of paragraph (1) of this subsection, the term “blank check company” means any development stage company that is issuing a penny stock (within the meaning of section 78c(a)(51) of this title) and that—
+(3) For purposes of paragraph (1) of this subsection, the term "blank check company" means any development stage company that is issuing a penny stock (within the meaning of section 78c(a)(51) of this title) and that—
 
 (A) has no specific business plan or purpose; or
 
@@ -84,21 +84,21 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 Pub. L. 101–429, §1(c), Oct. 15, 1990, 104 Stat. 931, provided that:
 
-“(1) In general.—Except as provided in paragraphs (2) and (3), the amendments made by this Act [enacting sections 77h–1, 78q–2, 78u–2, and 78u–3 of this title, amending this section and sections 77t, 78c, 78o, 78o–3, 78o–4, 78q–1, 78u, 78u–1, 78w, 78cc, 80a–9, 80a–41, 80b–3, 80b–9, and 80b–14 of this title, and enacting provisions set out as notes under sections 78a, 78o, and 78s of this title] shall be effective upon enactment [Oct. 15, 1990].
+"(1) In general.—Except as provided in paragraphs (2) and (3), the amendments made by this Act [enacting sections 77h–1, 78q–2, 78u–2, and 78u–3 of this title, amending this section and sections 77t, 78c, 78o, 78o–3, 78o–4, 78q–1, 78u, 78u–1, 78w, 78cc, 80a–9, 80a–41, 80b–3, 80b–9, and 80b–14 of this title, and enacting provisions set out as notes under sections 78a, 78o, and 78s of this title] shall be effective upon enactment [Oct. 15, 1990].
 
-“(2) Civil penalties.—
+"(2) Civil penalties.—
 
-“(A) In general.—No civil penalty may be imposed pursuant to the amendments made by this Act on the basis of conduct occurring before the date of enactment of this Act [Oct. 15, 1990].
+"(A) In general.—No civil penalty may be imposed pursuant to the amendments made by this Act on the basis of conduct occurring before the date of enactment of this Act [Oct. 15, 1990].
 
-“(B) Accounting and disgorgement.—Subparagraph (A) shall not operate to preclude the Securities and Exchange Commission from ordering an accounting or disgorgement pursuant to the amendments made by this Act.
+"(B) Accounting and disgorgement.—Subparagraph (A) shall not operate to preclude the Securities and Exchange Commission from ordering an accounting or disgorgement pursuant to the amendments made by this Act.
 
-“(3) Special rules for title v.—
+"(3) Special rules for title v.—
 
-“(A) Sections 503 and 504.—Except as provided in subparagraph (C), sections 503 [amending section 78c of this title] and 504 [amending section 78o of this title and enacting provisions set out as a note under section 78o of this title] shall be effective 12 months after the date of enactment of this Act [Oct. 15, 1990] or upon the issuance of final regulations initially implementing such section [Such regulations were issued effective Apr. 28, 1992. See 57 F.R. 18004, 18037.], whichever is earlier.
+"(A) Sections 503 and 504.—Except as provided in subparagraph (C), sections 503 [amending section 78c of this title] and 504 [amending section 78o of this title and enacting provisions set out as a note under section 78o of this title] shall be effective 12 months after the date of enactment of this Act [Oct. 15, 1990] or upon the issuance of final regulations initially implementing such section [Such regulations were issued effective Apr. 28, 1992. See 57 F.R. 18004, 18037.], whichever is earlier.
 
-“(B) Sections 505 and 508.—Except as provided in subparagraph (C), sections 505 [amending section 78o of this title] and 508 [amending this section] shall be effective 18 months after the date of enactment of this Act or upon the issuance of final regulations initially implementing such sections [Such regulations were issued effective Apr. 28, 1992. See 57 F.R. 18004, 18037.], whichever is earlier.
+"(B) Sections 505 and 508.—Except as provided in subparagraph (C), sections 505 [amending section 78o of this title] and 508 [amending this section] shall be effective 18 months after the date of enactment of this Act or upon the issuance of final regulations initially implementing such sections [Such regulations were issued effective Apr. 28, 1992. See 57 F.R. 18004, 18037.], whichever is earlier.
 
-“(C) Commencement of rulemaking.—Not later than 180 days after the date of enactment of this Act, the Commission shall commence rulemaking proceedings to implement sections 503, 505, and 508.”
+"(C) Commencement of rulemaking.—Not later than 180 days after the date of enactment of this Act, the Commission shall commence rulemaking proceedings to implement sections 503, 505, and 508."
 
 #### Transfer of Functions ####
 
@@ -106,6 +106,6 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Other Disclosures ####
 
-Pub. L. 112–106, title I, §102(c), Apr. 5, 2012, 126 Stat. 310, provided that: “An emerging growth company may comply with section 229.303(a) of title 17, Code of Federal Regulations, or any successor thereto, by providing information required by such section with respect to the financial statements of the emerging growth company for each period presented pursuant to section 7(a) of the Securities Act of 1933 (15 U.S.C. 77g(a)). An emerging growth company may comply with section 229.402 of title 17, Code of Federal Regulations, or any successor thereto, by disclosing the same information as any issuer with a market value of outstanding voting and nonvoting common equity held by non-affiliates of less than $75,000,000.”
+Pub. L. 112–106, title I, §102(c), Apr. 5, 2012, 126 Stat. 310, provided that: "An emerging growth company may comply with section 229.303(a) of title 17, Code of Federal Regulations, or any successor thereto, by providing information required by such section with respect to the financial statements of the emerging growth company for each period presented pursuant to section 7(a) of the Securities Act of 1933 (15 U.S.C. 77g(a)). An emerging growth company may comply with section 229.402 of title 17, Code of Federal Regulations, or any successor thereto, by disclosing the same information as any issuer with a market value of outstanding voting and nonvoting common equity held by non-affiliates of less than $75,000,000."
 
 [<sup>1</sup> See References in Text note below.](#77g_1)

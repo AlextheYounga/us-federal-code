@@ -20,6 +20,6 @@ There are authorized to be appropriated for each of the fiscal years 1991 throug
 
 #### Amendments ####
 
-**2002**—Subsec. (d). Pub. L. 107–171 substituted “2007” for “2002”.
+**2002**—Subsec. (d). Pub. L. 107–171 substituted "2007" for "2002".
 
-**1996**—Subsec. (d). Pub. L. 104–127 substituted “2002” for “1995”.
+**1996**—Subsec. (d). Pub. L. 104–127 substituted "2002" for "1995".

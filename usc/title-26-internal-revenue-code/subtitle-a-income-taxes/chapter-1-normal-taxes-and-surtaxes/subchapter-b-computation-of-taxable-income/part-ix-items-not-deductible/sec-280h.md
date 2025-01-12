@@ -32,7 +32,7 @@ A personal service corporation meets the minimum distribution requirements of th
 
 #### (2) Applicable percentage ####
 
-The term “applicable percentage” means the percentage (not in excess of 95 percent) determined by dividing—
+The term "applicable percentage" means the percentage (not in excess of 95 percent) determined by dividing—
 
 (A) the applicable amounts paid or incurred during the 3 taxable years immediately preceding the taxable year, by
 
@@ -40,7 +40,7 @@ The term “applicable percentage” means the percentage (not in excess of 95 p
 
 #### (d) Maximum deductible amount ####
 
-For purposes of this section, the term “maximum deductible amount” means the sum of—
+For purposes of this section, the term "maximum deductible amount" means the sum of—
 
 (1) the applicable amounts paid during the deferral period, plus
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (1) Applicable amount ####
 
-The term “applicable amount” means any amount paid to an employee-owner which is includible in the gross income of such employee, other than—
+The term "applicable amount" means any amount paid to an employee-owner which is includible in the gross income of such employee, other than—
 
 (A) any gain from the sale or exchange of property between the owner-employee and the corporation, or
 
@@ -68,21 +68,21 @@ The term “applicable amount” means any amount paid to an employee-owner whic
 
 #### (2) Employee-owner ####
 
-The term “employee-owner” has the meaning given such term by section 269A(b)(2) (as modified by section 441(i)(2)).
+The term "employee-owner" has the meaning given such term by section 269A(b)(2) (as modified by section 441(i)(2)).
 
 #### (3) Nondeferral and deferral periods ####
 
 #### (A) Deferral period ####
 
-The term “deferral period” has the meaning given to such term by section 444(b)(4).
+The term "deferral period" has the meaning given to such term by section 444(b)(4).
 
 #### (B) Nondeferral period ####
 
-The term “nondeferral period” means the portion of the taxable year of the personal service corporation which occurs after the portion of such year constituting the deferral period.
+The term "nondeferral period" means the portion of the taxable year of the personal service corporation which occurs after the portion of such year constituting the deferral period.
 
 #### (4) Adjusted taxable income ####
 
-The term “adjusted taxable income” means taxable income determined without regard to—
+The term "adjusted taxable income" means taxable income determined without regard to—
 
 (A) any amount paid to an employee-owner which is includible in the gross income of such employee-owner, and
 
@@ -90,17 +90,17 @@ The term “adjusted taxable income” means taxable income determined without r
 
 #### (5) Personal service corporation ####
 
-The term “personal service corporation” has the meaning given to such term by section 441(i)(2).
+The term "personal service corporation" has the meaning given to such term by section 441(i)(2).
 
 (Added Pub. L. 100–203, title X, §10206(c)(1), Dec. 22, 1987, 101 Stat. 1330–401; amended Pub. L. 100–647, title II, §2004(e)(2)(B), (3), (14)(A), (C), Nov. 10, 1988, 102 Stat. 3600, 3602.)
 
 #### Amendments ####
 
-**1988**—Subsecs. (c)(1)(A)(i), (d)(1). Pub. L. 100–647, §2004(e)(14)(C), substituted “amounts paid” for “amounts paid or incurred”.
+**1988**—Subsecs. (c)(1)(A)(i), (d)(1). Pub. L. 100–647, §2004(e)(14)(C), substituted "amounts paid" for "amounts paid or incurred".
 
-Subsec. (f)(2). Pub. L. 100–647, §2004(e)(3), substituted “section 269A(b)(2) (as modified by section 441(i)(2))” for “section 296A(b)(2)”.
+Subsec. (f)(2). Pub. L. 100–647, §2004(e)(3), substituted "section 269A(b)(2) (as modified by section 441(i)(2))" for "section 296A(b)(2)".
 
-Subsec. (f)(4). Pub. L. 100–647, §2004(e)(14)(A), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The term ‘adjusted taxable income’ means taxable income increased by any amount paid or incurred to an employee-owner which was includible in the gross income of such employee-owner.”
+Subsec. (f)(4). Pub. L. 100–647, §2004(e)(14)(A), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The term 'adjusted taxable income' means taxable income increased by any amount paid or incurred to an employee-owner which was includible in the gross income of such employee-owner."
 
 Subsec. (f)(5). Pub. L. 100–647, §2004(e)(2)(B), added par. (5).
 

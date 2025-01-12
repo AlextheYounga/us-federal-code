@@ -38,17 +38,17 @@ Sec.
 
 #### Amendments ####
 
-**2006**—Pub. L. 109–163, div. A, title V, §589(b)(2), Jan. 6, 2006, 119 Stat. 3279, struck out item 717 “Presentation of recognition items for retention purposes”.
+**2006**—Pub. L. 109–163, div. A, title V, §589(b)(2), Jan. 6, 2006, 119 Stat. 3279, struck out item 717 "Presentation of recognition items for retention purposes".
 
 **2004**—Pub. L. 108–375, div. A, title V, §520(b)(2), Oct. 28, 2004, 118 Stat. 1887, added item 717.
 
-**1985**—Pub. L. 99–224, §3(b), Dec. 28, 1985, 99 Stat. 1742, substituted “and travel” for “other than travel” in item 716.
+**1985**—Pub. L. 99–224, §3(b), Dec. 28, 1985, 99 Stat. 1742, substituted "and travel" for "other than travel" in item 716.
 
-**1980**—Pub. L. 96–328, §1(b)(2), Aug. 8, 1980, 94 Stat. 1027, substituted “Accountability for property issued to the National Guard” for “Reports of survey” in item 710.
+**1980**—Pub. L. 96–328, §1(b)(2), Aug. 8, 1980, 94 Stat. 1027, substituted "Accountability for property issued to the National Guard" for "Reports of survey" in item 710.
 
 **1972**—Pub. L. 92–453, §2(2), Oct. 2, 1972, 86 Stat. 759, added item 716.
 
-**1968**—Pub. L. 90–486, §2(2), Aug. 13, 1968, 82 Stat. 756, substituted “Technicians: employment, use status” for “Caretakers and clerks” in item 709.
+**1968**—Pub. L. 90–486, §2(2), Aug. 13, 1968, 82 Stat. 756, substituted "Technicians: employment, use status" for "Caretakers and clerks" in item 709.
 
 **1960**—Pub. L. 86–740, §1(2), Sept. 13, 1960, 74 Stat. 879, added item 715.
 

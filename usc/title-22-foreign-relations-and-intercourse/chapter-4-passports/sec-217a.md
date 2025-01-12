@@ -10,7 +10,7 @@ A passport shall be valid for a period of ten years from the date of issue, exce
 
 **1968**—Pub. L. 90–428 substituted provisions that passport be limited to a period of not more than five years, though the Secretary of State may limit it to a shorter period and provisions as to the length of validity of passports outstanding as of the effective date of Pub. L. 90–428 for provisions that a passport or passport visa be limited to a period of three years, that a passport be renewed pursuant to regulations of the Secretary for a period not to exceed two years, provided that the final date of expiration not be more than five years from the original date of issue, that the Secretary be authorized to limit the validity of a passport, passport visa, or period of renewal of a passport to less than two years, and that the charge for the issue of an original passport be $9.00 and the charge for the renewal be $5.00.
 
-**1959**—Pub. L. 86–267 substituted “three years” for “two years”, and “five years” for “four years”.
+**1959**—Pub. L. 86–267 substituted "three years" for "two years", and "five years" for "four years".
 
 **1932**—Act May 16, 1932, among other changes, increased payment for renewals from $2 to $5, for issue of original passport from $5 to $9, and restored final expiration date of renewal passport to four years from six-year period.
 
@@ -18,8 +18,8 @@ A passport shall be valid for a period of ten years from the date of issue, exce
 
 #### Effective Date of 1982 Amendment ####
 
-Pub. L. 97–241, title I, §116(b)(2), Aug. 24, 1982, 96 Stat. 279, provided that: “The amendment made by this subsection [amending this section] applies with respect to passports issued after the date of enactment of this Act [Aug. 24, 1982].”
+Pub. L. 97–241, title I, §116(b)(2), Aug. 24, 1982, 96 Stat. 279, provided that: "The amendment made by this subsection [amending this section] applies with respect to passports issued after the date of enactment of this Act [Aug. 24, 1982]."
 
 #### Effective Date of 1968 Amendment ####
 
-Pub. L. 90–428, §4, July 26, 1968, 82 Stat. 446, provided that: “This Act [amending this section and sections 213 and 214 of this title] shall take effect on the thirtieth day following the date of its enactment [July 26, 1968].”
+Pub. L. 90–428, §4, July 26, 1968, 82 Stat. 446, provided that: "This Act [amending this section and sections 213 and 214 of this title] shall take effect on the thirtieth day following the date of its enactment [July 26, 1968]."

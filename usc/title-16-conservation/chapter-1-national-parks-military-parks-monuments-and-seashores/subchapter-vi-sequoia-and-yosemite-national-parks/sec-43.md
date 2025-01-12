@@ -6,6 +6,6 @@ Sequoia National Park shall be under the exclusive control of the Secretary of t
 
 #### Codification ####
 
-“Thirty years” substituted for “ten years” in view of section 3 of act Aug. 25, 1916, and act May 29, 1958, which authorized the Secretary to grant privileges, leases, and permits in the various parks for periods not exceeding thirty years. See section 3 of this title.
+"Thirty years" substituted for "ten years" in view of section 3 of act Aug. 25, 1916, and act May 29, 1958, which authorized the Secretary to grant privileges, leases, and permits in the various parks for periods not exceeding thirty years. See section 3 of this title.
 
-As originally enacted, this section contained a further provision that “all of the proceeds of said leases and other revenues that may be derived from any source connected with said park to be expended under his [Secretary of the Interior] direction in the management of the same and the construction of roads and paths therein”. This provision was superseded by section 452 of this title providing for the disposition of all revenues from the national parks.
+As originally enacted, this section contained a further provision that "all of the proceeds of said leases and other revenues that may be derived from any source connected with said park to be expended under his [Secretary of the Interior] direction in the management of the same and the construction of roads and paths therein". This provision was superseded by section 452 of this title providing for the disposition of all revenues from the national parks.

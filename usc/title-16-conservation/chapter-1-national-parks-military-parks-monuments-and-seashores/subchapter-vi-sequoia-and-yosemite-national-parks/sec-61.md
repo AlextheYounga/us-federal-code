@@ -6,6 +6,6 @@ In addition to the powers and duties enumerated in section 3 of this title, not 
 
 #### Codification ####
 
-The first sentence of this section was from section 5 of the act of June 2, 1920. The first portion reading “In addition to the powers and duties enumerated in section 3 of this title, not inconsistent with this section” was inserted to relate this section to section 3 of this title, providing general powers for the Secretary of the Interior.
+The first sentence of this section was from section 5 of the act of June 2, 1920. The first portion reading "In addition to the powers and duties enumerated in section 3 of this title, not inconsistent with this section" was inserted to relate this section to section 3 of this title, providing general powers for the Secretary of the Interior.
 
 The last sentence of this section is from section 2 of act Oct. 1, 1890.

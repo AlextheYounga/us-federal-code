@@ -18,7 +18,7 @@ In this section:
 
 #### (1) Eligible entities ####
 
-The term “eligible entities” means an entity that—
+The term "eligible entities" means an entity that—
 
 (A) is a school of medicine, osteopathic medicine, dentistry, nursing (as defined in section 296 of this title), pharmacy, podiatric medicine, optometry, veterinary medicine, public health, chiropractic, or allied health, a school offering a graduate program in behavioral and mental health practice, or an entity providing programs for the training of physician assistants; and
 
@@ -26,7 +26,7 @@ The term “eligible entities” means an entity that—
 
 #### (2) Eligible individual ####
 
-The term “eligible individual” means an individual who—
+The term "eligible individual" means an individual who—
 
 (A) is from a disadvantaged background;
 

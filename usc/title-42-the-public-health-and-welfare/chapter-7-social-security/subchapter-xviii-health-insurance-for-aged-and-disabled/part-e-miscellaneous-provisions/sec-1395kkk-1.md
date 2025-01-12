@@ -4,7 +4,7 @@
 
 #### (A) Study ####
 
-The Comptroller General of the United States (in this section referred to as the “Comptroller General”) shall conduct a study on changes to payment policies, methodologies, and rates and coverage policies and methodologies under the Medicare program under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] as a result of the recommendations contained in the proposals made by the Independent Payment Advisory Board under section 1899A of such Act [42 U.S.C. 1395kkk] (as added by subsection (a)),<sup><a href="#1395kkk-1_1_target" name="1395kkk-1_1">1</a></sup> including an analysis of the effect of such recommendations on—
+The Comptroller General of the United States (in this section referred to as the "Comptroller General") shall conduct a study on changes to payment policies, methodologies, and rates and coverage policies and methodologies under the Medicare program under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] as a result of the recommendations contained in the proposals made by the Independent Payment Advisory Board under section 1899A of such Act [42 U.S.C. 1395kkk] (as added by subsection (a)),<sup><a href="#1395kkk-1_1_target" name="1395kkk-1_1">1</a></sup> including an analysis of the effect of such recommendations on—
 
 (i) Medicare beneficiary access to providers and items and services;
 
@@ -36,6 +36,6 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
 #### Change of Name ####
 
-“Independent Payment Advisory Board” substituted for “Independent Medicare Advisory Board” on authority of section 10320(b) of Pub. L. 111–148, set out as a note under section 1395kkk of this title.
+"Independent Payment Advisory Board" substituted for "Independent Medicare Advisory Board" on authority of section 10320(b) of Pub. L. 111–148, set out as a note under section 1395kkk of this title.
 
 [<sup>1</sup> See References in Text note below.](#1395kkk-1_1)

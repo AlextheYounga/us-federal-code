@@ -8,7 +8,7 @@
 
 (2) assigned to duty at a military entrance processing facility of the armed forces; or
 
-(3) detailed for instructional and administrative duties at any institution where a unit of the Senior Reserve Officers’ Training Corps is maintained.
+(3) detailed for instructional and administrative duties at any institution where a unit of the Senior Reserve Officers' Training Corps is maintained.
 
 (c) Termination.—No reimbursement may be provided under this section for expenses incurred after the travel authorities transition expiration date.
 

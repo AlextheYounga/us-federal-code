@@ -28,6 +28,6 @@ Sec.
 
 #### Amendments ####
 
-**1982**—Pub. L. 97–164, title I, §138, Apr. 2, 1982, 96 Stat. 42, struck out item 2353 “Decision of the Plant Variety Protection Office”.
+**1982**—Pub. L. 97–164, title I, §138, Apr. 2, 1982, 96 Stat. 42, struck out item 2353 "Decision of the Plant Variety Protection Office".
 
-**1966**—Pub. L. 89–773, §4, Nov. 6, 1966, 80 Stat. 1323, struck out item 2352 “Rules”.
+**1966**—Pub. L. 89–773, §4, Nov. 6, 1966, 80 Stat. 1323, struck out item 2352 "Rules".

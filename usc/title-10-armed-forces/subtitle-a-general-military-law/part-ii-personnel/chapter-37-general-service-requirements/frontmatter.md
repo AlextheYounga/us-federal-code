@@ -22,13 +22,13 @@ Sec.
 
 Pub. L. 112–239, div. A, title V, §519(a)(2), Jan. 2, 2013, 126 Stat. 1721, added item 656.
 
-**2010**—Pub. L. 111–321, §2(f)(1)(B), Dec. 22, 2010, 124 Stat. 3516, struck out item 654 “Policy concerning homosexuality in the armed forces”.
+**2010**—Pub. L. 111–321, §2(f)(1)(B), Dec. 22, 2010, 124 Stat. 3516, struck out item 654 "Policy concerning homosexuality in the armed forces".
 
 **2006**—Pub. L. 109–163, div. A, title V, §541(a)(2), Jan. 6, 2006, 119 Stat. 3252, added item 652.
 
 **1996**—Pub. L. 104–106, div. A, title V, §569(d)(2), Feb. 10, 1996, 110 Stat. 352, added item 655.
 
-**1994**—Pub. L. 103–337, div. A, title XVI, §1671(b)(6), Oct. 5, 1994, 108 Stat. 3013, struck out item 652 “Ready Reserves: requirement of notification of change of status”.
+**1994**—Pub. L. 103–337, div. A, title XVI, §1671(b)(6), Oct. 5, 1994, 108 Stat. 3013, struck out item 652 "Ready Reserves: requirement of notification of change of status".
 
 **1993**—Pub. L. 103–160, div. A, title V, §571(a)(2), Nov. 30, 1993, 107 Stat. 1673, added item 654.
 
@@ -36,8 +36,8 @@ Pub. L. 112–239, div. A, title V, §519(a)(2), Jan. 2, 2013, 126 Stat. 1721, a
 
 **1978**—Pub. L. 95–485, title IV, §405(d)(2), Oct. 20, 1978, 92 Stat. 1616, added item 652.
 
-**1958**—Pub. L. 85–861, §33(a)(4)(A), Sept. 2, 1958, 72 Stat. 1564, substituted “GENERAL SERVICE REQUIREMENTS” for “SERVICE REQUIREMENTS FOR RESERVES” in chapter heading.
+**1958**—Pub. L. 85–861, §33(a)(4)(A), Sept. 2, 1958, 72 Stat. 1564, substituted "GENERAL SERVICE REQUIREMENTS" for "SERVICE REQUIREMENTS FOR RESERVES" in chapter heading.
 
 #### Prohibition Against Members of the Armed Forces Participating in Criminal Street Gangs ####
 
-Pub. L. 110–181, div. A, title V, §544, Jan. 28, 2008, 122 Stat. 116, provided that: “The Secretary of Defense shall prescribe regulations to prohibit the active participation by members of the Armed Forces in a criminal street gang.”
+Pub. L. 110–181, div. A, title V, §544, Jan. 28, 2008, 122 Stat. 116, provided that: "The Secretary of Defense shall prescribe regulations to prohibit the active participation by members of the Armed Forces in a criminal street gang."

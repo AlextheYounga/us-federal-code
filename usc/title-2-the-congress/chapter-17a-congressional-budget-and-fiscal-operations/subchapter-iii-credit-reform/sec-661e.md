@@ -20,4 +20,4 @@ A prior section 506 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 322, a
 
 #### Amendments ####
 
-**1997**—Pub. L. 105–33 struck out subsec. (a) designation and heading, redesignated pars. (1) to (3) of former subsec. (a) as subsecs. (a) to (c), respectively, inserted subsec. headings, and substituted “subsection (b) of this section” for “paragraph (2)” in subsec. (c).
+**1997**—Pub. L. 105–33 struck out subsec. (a) designation and heading, redesignated pars. (1) to (3) of former subsec. (a) as subsecs. (a) to (c), respectively, inserted subsec. headings, and substituted "subsection (b) of this section" for "paragraph (2)" in subsec. (c).

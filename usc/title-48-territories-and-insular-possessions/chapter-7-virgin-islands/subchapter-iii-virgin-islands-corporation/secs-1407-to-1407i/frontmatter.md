@@ -26,11 +26,11 @@ Act June 30, 1949, ch. 285, §14, 63 Stat. 356, which provided that act June 30,
 
 #### Short Title ####
 
-Act June 30, 1949, ch. 285, §15, 63 Stat. 356, provided that act June 30, 1949, enacting sections 1407 to 1407i of this title and amending section 1401d of this title and section 846 of former Title 31, Money and Finance, could be cited as the “Virgin Islands Corporation Act”, prior to repeal by Pub. L. 97–357, title III, §308(e), Oct. 19, 1982, 96 Stat. 1710.
+Act June 30, 1949, ch. 285, §15, 63 Stat. 356, provided that act June 30, 1949, enacting sections 1407 to 1407i of this title and amending section 1401d of this title and section 846 of former Title 31, Money and Finance, could be cited as the "Virgin Islands Corporation Act", prior to repeal by Pub. L. 97–357, title III, §308(e), Oct. 19, 1982, 96 Stat. 1710.
 
 #### Savings Provision ####
 
-Pub. L. 97–357, title III, §308(e), Oct. 19, 1982, 96 Stat. 1710, provided in part: “That nothing in this subsection [repealing sections 1407 to 1407i of this title] shall affect the pension rights of former employees of the Virgin Islands Corporation.”
+Pub. L. 97–357, title III, §308(e), Oct. 19, 1982, 96 Stat. 1710, provided in part: "That nothing in this subsection [repealing sections 1407 to 1407i of this title] shall affect the pension rights of former employees of the Virgin Islands Corporation."
 
 #### Transfer of Facilities; Investment Increase; Supply of Electric Power ####
 

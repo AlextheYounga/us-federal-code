@@ -14,7 +14,7 @@ the Secretary may take such action as may be appropriate to respond to the publi
 
 #### (1) In general ####
 
-There is established in the Treasury a fund to be designated as the “Public Health Emergency Fund” to be made available to the Secretary without fiscal year limitation to carry out subsection (a) of this section only if a public health emergency has been declared by the Secretary under such subsection. There is authorized to be appropriated to the Fund such sums as may be necessary.
+There is established in the Treasury a fund to be designated as the "Public Health Emergency Fund" to be made available to the Secretary without fiscal year limitation to carry out subsection (a) of this section only if a public health emergency has been declared by the Secretary under such subsection. There is authorized to be appropriated to the Fund such sums as may be necessary.
 
 #### (2) Report ####
 
@@ -132,9 +132,9 @@ Not later than 4 years after March 13, 2013, the Comptroller General of the Unit
 
 In this subsection—
 
-(A) the terms “Indian tribe” and “tribal organization” have the meanings given such terms in section 450b of title 25; and
+(A) the terms "Indian tribe" and "tribal organization" have the meanings given such terms in section 450b of title 25; and
 
-(B) the term “State” includes, in addition to the entities listed in the definition of such term in section 201 of this title, the Freely Associated States.
+(B) the term "State" includes, in addition to the entities listed in the definition of such term in section 201 of this title, the Freely Associated States.
 
 #### (8) Sunset ####
 
@@ -156,12 +156,12 @@ Committee on Commerce of House of Representatives changed to Committee on Energy
 
 **2013**—Subsec. (e). Pub. L. 113–5 added subsec. (e).
 
-**2002**—Subsec. (a). Pub. L. 107–188, §158, substituted “grants, providing awards for expenses, and” for “grants and” in concluding provisions.
+**2002**—Subsec. (a). Pub. L. 107–188, §158, substituted "grants, providing awards for expenses, and" for "grants and" in concluding provisions.
 
-Pub. L. 107–188, §144(a), inserted at end of concluding provisions “Any such determination of a public health emergency terminates upon the Secretary declaring that the emergency no longer exists, or upon the expiration of the 90-day period beginning on the date on which the determination is made by the Secretary, whichever occurs first. Determinations that terminate under the preceding sentence may be renewed by the Secretary (on the basis of the same or additional facts), and the preceding sentence applies to each such renewal. Not later than 48 hours after making a determination under this subsection of a public health emergency (including a renewal), the Secretary shall submit to the Congress written notification of the determination.”
+Pub. L. 107–188, §144(a), inserted at end of concluding provisions "Any such determination of a public health emergency terminates upon the Secretary declaring that the emergency no longer exists, or upon the expiration of the 90-day period beginning on the date on which the determination is made by the Secretary, whichever occurs first. Determinations that terminate under the preceding sentence may be renewed by the Secretary (on the basis of the same or additional facts), and the preceding sentence applies to each such renewal. Not later than 48 hours after making a determination under this subsection of a public health emergency (including a renewal), the Secretary shall submit to the Congress written notification of the determination."
 
 Subsec. (d). Pub. L. 107–188, §141, added subsec. (d).
 
 #### Effective Date of 2002 Amendment ####
 
-Pub. L. 107–188, title I, §144(b), June 12, 2002, 116 Stat. 630, provided that: “The amendment made by subsection (a) [amending this section] applies to any public health emergency under section 319(a) of the Public Health Service Act [42 U.S.C. 247d(a)], including any such emergency that was in effect as of the day before the date of the enactment of this Act [June 12, 2002]. In the case of such an emergency that was in effect as of such day, the 90-day period described in such section with respect to the termination of the emergency is deemed to begin on such date of enactment.”
+Pub. L. 107–188, title I, §144(b), June 12, 2002, 116 Stat. 630, provided that: "The amendment made by subsection (a) [amending this section] applies to any public health emergency under section 319(a) of the Public Health Service Act [42 U.S.C. 247d(a)], including any such emergency that was in effect as of the day before the date of the enactment of this Act [June 12, 2002]. In the case of such an emergency that was in effect as of such day, the 90-day period described in such section with respect to the termination of the emergency is deemed to begin on such date of enactment."

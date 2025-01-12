@@ -2,7 +2,7 @@
 
 (a) The Secretary may utilize the services of nontemporary employees of the Bureau (by assignment, promotion, appointment, detail, or otherwise) in temporary positions established for any census, for not to exceed the period during which appropriations are available for that census. Whenever the Secretary determines that the services of an employee which have been utilized under this section are no longer required in such a temporary position, he may, without regard to the provisions of any other law, return the employee to a continuing position, with rank and compensation not less than that which he held in his last permanent position in the Bureau: *Provided*, That no employee shall, by reason of his service in a temporary position under this subsection, lose the protection of any law or regulation with respect to his separation, suspension, furlough, or reduction in rank or compensation below the level held in his last permanent position in the Bureau. Service by a nontemporary employee in a temporary position under this subsection shall be creditable for step-increases (both periodic and longevity) under title VII of the Classification Act of 1949, as amended, as though it were a continuation of service in his last permanent position.
 
-(b) As used in this title with respect to appointments or positions, “temporary” shall be construed to mean not in excess of one year, or not in excess of the specific period during which appropriations are available for the conduct of a particular census, whichever is longer. No employee of the Bureau who holds only a temporary appointment within the meaning of this section shall be considered as other than strictly temporary for purposes of any other provision of law relating to separations, suspensions, or reductions in rank or compensation.
+(b) As used in this title with respect to appointments or positions, "temporary" shall be construed to mean not in excess of one year, or not in excess of the specific period during which appropriations are available for the conduct of a particular census, whichever is longer. No employee of the Bureau who holds only a temporary appointment within the meaning of this section shall be considered as other than strictly temporary for purposes of any other provision of law relating to separations, suspensions, or reductions in rank or compensation.
 
 (c) The enlisted men and officers of the uniformed services may be appointed and compensated for service in temporary enumerator positions for the enumeration of personnel of the uniformed services.
 
@@ -24,13 +24,13 @@ The provisions have been reworded to make it clear that they relate to all colle
 
 References to the Director of the Census have been changed to references to the Secretary (of Commerce) to conform with 1950 Reorganization Plan No. 5, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title.
 
-Words “except that such special agents shall be appointed in accordance with the civil service laws” were omitted as obsolete and unnecessary in view of the Classification Act of 1949 (see 5 U.S.C., 1952 ed., ch. 21).
+Words "except that such special agents shall be appointed in accordance with the civil service laws" were omitted as obsolete and unnecessary in view of the Classification Act of 1949 (see 5 U.S.C., 1952 ed., ch. 21).
 
 The provisions of section 203 of title 13, U.S.C., 1952 ed., relating to per diem rates of compensation for special agents, to authority to detail permanent employees and special agents to act as supervisors or enumerators, and to duties thereof, were omitted as obsolete and superseded by the Classification Act of 1949.
 
 The provision of section 203 of title 13, U.S.C., 1952 ed., that the Director of the Census might delegate to the supervisors the authority to appoint enumerators, was omitted because all functions of the Director and other officers and employees of the Department of Commerce and its bureaus and agencies were transferred to the Secretary by 1950 Reorganization Plan No. 5, referred to above. However, section 4 of this title provides for delegation of functions by the Secretary.
 
-Words “on a temporary basis” were inserted after “appointed” in subsection (a) for the purpose of clarity.
+Words "on a temporary basis" were inserted after "appointed" in subsection (a) for the purpose of clarity.
 
 Changes were made in phraseology and arrangement.
 
@@ -46,7 +46,7 @@ Section 4 of the Travel Expense Act of 1949, as amended (5 U.S.C. 837), referred
 
 **1964**—Subsec. (f). Pub. L. 88–535 added subsec. (f).
 
-**1960**—Pub. L. 86–769 amended section generally, and among other changes, permitted the utilization of nontemporary employees in temporary service, and their return, when the Secretary so determines, to a continuing position with rank and compensation not less than that of their last permanent position, with no loss of protection of any law or regulation with respect to their separation, suspension, furlough or reduction in rank or compensation below their last permanent position, provided that service by nontemporary employees in temporary positions is creditable for step-increases as though a continuation of their last permanent positions, defined “temporary”, and provided for payments to enumerators for the use of private automobiles on official business.
+**1960**—Pub. L. 86–769 amended section generally, and among other changes, permitted the utilization of nontemporary employees in temporary service, and their return, when the Secretary so determines, to a continuing position with rank and compensation not less than that of their last permanent position, with no loss of protection of any law or regulation with respect to their separation, suspension, furlough or reduction in rank or compensation below their last permanent position, provided that service by nontemporary employees in temporary positions is creditable for step-increases as though a continuation of their last permanent positions, defined "temporary", and provided for payments to enumerators for the use of private automobiles on official business.
 
 #### Salary Protection for Employees Subject to Classification Act of 1949 ####
 

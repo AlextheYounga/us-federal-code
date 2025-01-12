@@ -16,7 +16,7 @@ Any loss from a tax shelter farm activity disallowed under subparagraph (A) shal
 
 #### (2) Tax shelter farm activity ####
 
-For purposes of this subsection, the term “tax shelter farm activity” means—
+For purposes of this subsection, the term "tax shelter farm activity" means—
 
 (A) any farming syndicate as defined in section 464(c), and
 
@@ -52,7 +52,7 @@ The amount of losses to which subsection (a) or (b) applies shall be reduced by 
 
 #### (B) Insolvent ####
 
-For purposes of this paragraph, the term “insolvent” means the excess of liabilities over the fair market value of assets.
+For purposes of this paragraph, the term "insolvent" means the excess of liabilities over the fair market value of assets.
 
 #### (2) Loss allowed for year of disposition of farm shelter activity ####
 
@@ -66,21 +66,21 @@ A prior section 58, added Pub. L. 91–172, title III, §301(a), Dec. 30, 1969, 
 
 #### Amendments ####
 
-**1988**—Subsec. (a)(2). Pub. L. 100–647, §1007(d)(1), struck out “(as modified by section 461(i)(4)(A))” after “section 464(c)” in subpar. (A) and substituted “section 469(c)” for “section 469(d), without regard to paragraph (1)(B) thereof” in subpar. (B).
+**1988**—Subsec. (a)(2). Pub. L. 100–647, §1007(d)(1), struck out "(as modified by section 461(i)(4)(A))" after "section 464(c)" in subpar. (A) and substituted "section 469(c)" for "section 469(d), without regard to paragraph (1)(B) thereof" in subpar. (B).
 
-Subsec. (a)(3). Pub. L. 100–647, §1007(d)(2), substituted “469(j)(2)” for “469(g)(1)(C)”.
+Subsec. (a)(3). Pub. L. 100–647, §1007(d)(2), substituted "469(j)(2)" for "469(g)(1)(C)".
 
 Subsec. (a)(4). Pub. L. 100–647, §1007(d)(3), added par. (4).
 
 Subsec. (b). Pub. L. 100–647, §1007(d)(4), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
 
-“(1) the adjustments of section 56 shall apply,
+"(1) the adjustments of section 56 shall apply,
 
-“(2) any deduction to the extent such deduction is an item of tax preference under section 57(a) shall not be taken into account, and
+"(2) any deduction to the extent such deduction is an item of tax preference under section 57(a) shall not be taken into account, and
 
-“(3) the provisions of section 469(m) (relating to phase-in of disallowance) shall not apply.”
+"(3) the provisions of section 469(m) (relating to phase-in of disallowance) shall not apply."
 
-**1987**—Subsec. (b)(3). Pub. L. 100–203 substituted “section 469(m)” for “section 469(l)”.
+**1987**—Subsec. (b)(3). Pub. L. 100–203 substituted "section 469(m)" for "section 469(l)".
 
 #### Effective Date of 1988 Amendment ####
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1987 Amendment ####
 
-Section 10212(c) of Pub. L. 100–203 provided that: “The amendments made by this section [amending this section and sections 163 and 469 of this title] shall take effect as if included in the amendments made by section 501 of the Tax Reform Act of 1986 [section 501 of Pub. L. 99–514, see section 501(c) of Pub. L. 99–514, set out as an Effective Date note under section 469 of this title].”
+Section 10212(c) of Pub. L. 100–203 provided that: "The amendments made by this section [amending this section and sections 163 and 469 of this title] shall take effect as if included in the amendments made by section 501 of the Tax Reform Act of 1986 [section 501 of Pub. L. 99–514, see section 501(c) of Pub. L. 99–514, set out as an Effective Date note under section 469 of this title]."
 
 #### Effective Date ####
 
@@ -96,7 +96,7 @@ Section applicable to taxable years beginning after Dec. 31, 1986, with certain 
 
 #### Applicability of 1986 Repeal ####
 
-Pub. L. 101–239, title VII, §7811(d)(1)(B), Dec. 19, 1989, 103 Stat. 2408, provided that: “The repeal of section 58(h) of the Internal Revenue Code of 1954 by the Tax Reform Act of 1986 [Pub. L. 99–514] shall be effective only with respect to items of tax preference arising in taxable years beginning after December 31, 1986.”
+Pub. L. 101–239, title VII, §7811(d)(1)(B), Dec. 19, 1989, 103 Stat. 2408, provided that: "The repeal of section 58(h) of the Internal Revenue Code of 1954 by the Tax Reform Act of 1986 [Pub. L. 99–514] shall be effective only with respect to items of tax preference arising in taxable years beginning after December 31, 1986."
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States ####
 

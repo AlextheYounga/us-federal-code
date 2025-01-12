@@ -10,13 +10,13 @@ A prior section 25 of act Sept. 26, 1914, was renumbered section 28 and is class
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–216 struck out “and” before “not to exceed $102,000,000” and inserted before period at end “; not to exceed $107,000,000 for fiscal year 1997; and not to exceed $111,000,000 for fiscal year 1998”.
+**1996**—Pub. L. 104–216 struck out "and" before "not to exceed $102,000,000" and inserted before period at end "; not to exceed $107,000,000 for fiscal year 1997; and not to exceed $111,000,000 for fiscal year 1998".
 
-**1994**—Pub. L. 103–312, §14, amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to carry out the functions, powers, and duties of the Federal Trade Commission not to exceed $42,000,000 for the fiscal year ending June 30, 1975; not to exceed $47,091,000 for the fiscal year ending June 30, 1976; not to exceed $50,000,000 for the fiscal year ending in 1977; not to exceed $70,000,000 for the fiscal year ending September 30, 1980; not to exceed $75,000,000 for the fiscal year ending September 30, 1981; and not to exceed $80,000,000 for the fiscal year ending September 30, 1982.”
+**1994**—Pub. L. 103–312, §14, amended section generally. Prior to amendment, section read as follows: "There are authorized to be appropriated to carry out the functions, powers, and duties of the Federal Trade Commission not to exceed $42,000,000 for the fiscal year ending June 30, 1975; not to exceed $47,091,000 for the fiscal year ending June 30, 1976; not to exceed $50,000,000 for the fiscal year ending in 1977; not to exceed $70,000,000 for the fiscal year ending September 30, 1980; not to exceed $75,000,000 for the fiscal year ending September 30, 1981; and not to exceed $80,000,000 for the fiscal year ending September 30, 1982."
 
-**1980**—Pub. L. 96–252, §17, substituted “1977; not to exceed $70,000,000 for the fiscal year ending September 30, 1980; not to exceed $75,000,000 for the fiscal year ending September 30, 1981; and not to exceed $80,000,000 for the fiscal year ending September 30, 1982” for “1977. For fiscal years ending after 1977, there may be appropriated to carry out such functions, powers, and duties, only such sums as the Congress may hereafter authorize by law”.
+**1980**—Pub. L. 96–252, §17, substituted "1977; not to exceed $70,000,000 for the fiscal year ending September 30, 1980; not to exceed $75,000,000 for the fiscal year ending September 30, 1981; and not to exceed $80,000,000 for the fiscal year ending September 30, 1982" for "1977. For fiscal years ending after 1977, there may be appropriated to carry out such functions, powers, and duties, only such sums as the Congress may hereafter authorize by law".
 
-**1976**—Pub. L. 94–299 substituted “$47,091,000” for “$46,000,000”.
+**1976**—Pub. L. 94–299 substituted "$47,091,000" for "$46,000,000".
 
 #### Effective Date of 1980 Amendment ####
 
@@ -26,9 +26,9 @@ Amendment by Pub. L. 96–252 effective May 28, 1980, see section 23 of Pub. L. 
 
 Pub. L. 103–312, §11, Aug. 26, 1994, 108 Stat. 1696, provided that:
 
-“(a) Limitation on Use of Authorized Funds.—The Federal Trade Commission shall not have any authority to use any funds which are authorized to be appropriated to carry out the Federal Trade Commission Act (15 U.S.C. 41 et seq.) for fiscal years 1994, 1995, and 1996 for the purpose of submitting statements to, appearing before, or intervening in the proceedings of, any Federal or State agency or State legislative body concerning proposed rules or legislation that the agency or legislative body is considering unless the Commission advises the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives regarding such action as soon as possible.
+"(a) Limitation on Use of Authorized Funds.—The Federal Trade Commission shall not have any authority to use any funds which are authorized to be appropriated to carry out the Federal Trade Commission Act (15 U.S.C. 41 et seq.) for fiscal years 1994, 1995, and 1996 for the purpose of submitting statements to, appearing before, or intervening in the proceedings of, any Federal or State agency or State legislative body concerning proposed rules or legislation that the agency or legislative body is considering unless the Commission advises the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives regarding such action as soon as possible.
 
-“(b) Contents of Notice to Congress.—The notice required in subsection (a) shall include the name of the agency or legislator involved, the date of such action, and a concise statement regarding the nature and purpose of such action.”
+"(b) Contents of Notice to Congress.—The notice required in subsection (a) shall include the name of the agency or legislator involved, the date of such action, and a concise statement regarding the nature and purpose of such action."
 
 #### Restriction on Use of Funds To Cancel Registration of Trademarks ####
 

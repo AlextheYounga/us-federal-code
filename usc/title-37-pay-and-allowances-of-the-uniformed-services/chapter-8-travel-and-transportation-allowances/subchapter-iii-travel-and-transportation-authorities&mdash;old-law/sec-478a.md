@@ -20,14 +20,14 @@
 
 #### Amendments ####
 
-**2013**—Subsec. (e). Pub. L. 112–239, which directed amendment of section 408a(e) of this title by substituting “December 31, 2013” for “December 31, 2012”, was executed by making the substitution in this section to reflect the probable intent of Congress and the intervening amendment by Pub. L. 112–81, §631(d)(2), see 2011 Amendment note below.
+**2013**—Subsec. (e). Pub. L. 112–239, which directed amendment of section 408a(e) of this title by substituting "December 31, 2013" for "December 31, 2012", was executed by making the substitution in this section to reflect the probable intent of Congress and the intervening amendment by Pub. L. 112–81, §631(d)(2), see 2011 Amendment note below.
 
 **2011**—Pub. L. 112–81, §631(d)(2), renumbered section 408a of this title as this section.
 
-Subsec. (e). Pub. L. 112–81, §621, substituted “December 31, 2012” for “December 31, 2011”.
+Subsec. (e). Pub. L. 112–81, §621, substituted "December 31, 2012" for "December 31, 2011".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
 #### Effective Date ####
 
-Pub. L. 110–181, div. A, title VI, §631(b), Jan. 28, 2008, 122 Stat. 154, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “No reimbursement may be provided under section 478a of title 37, United States Code, as added by subsection (a), for travel costs incurred before the date of the enactment of this Act [Jan. 28, 2008].”
+Pub. L. 110–181, div. A, title VI, §631(b), Jan. 28, 2008, 122 Stat. 154, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: "No reimbursement may be provided under section 478a of title 37, United States Code, as added by subsection (a), for travel costs incurred before the date of the enactment of this Act [Jan. 28, 2008]."

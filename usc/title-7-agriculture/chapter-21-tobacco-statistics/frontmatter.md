@@ -8,7 +8,7 @@ Sec.
 
 503. Reports; necessity; by whom made; penalties.
 
-504. “Person” defined.
+504. "Person" defined.
 
 505. Access to internal-revenue records.
 

@@ -12,7 +12,7 @@ Sec.
 
 #### Amendments ####
 
-**1978**—Pub. L. 95–600, title III, §362(d)(7), Nov. 6, 1978, 92 Stat. 2852, substituted in item 859 “Adoption of annual accounting period” for “Deduction of deficiency dividends” and struck out item 860 “Adoption of annual accounting period”.
+**1978**—Pub. L. 95–600, title III, §362(d)(7), Nov. 6, 1978, 92 Stat. 2852, substituted in item 859 "Adoption of annual accounting period" for "Deduction of deficiency dividends" and struck out item 860 "Adoption of annual accounting period".
 
 **1976**—Pub. L. 94–455, title XVI, §§1601(a)(2), 1604(i)(2), Oct. 4, 1976, 90 Stat. 1745, 1752, added items 859 and 860.
 

@@ -6,11 +6,11 @@ Upon receipt of the report of said commission the Secretary of the Interior is a
 
 #### Amendments ####
 
-**1930**—Act Feb. 18, 1930, inserted “military” between “national” and “park”, authorized construction of roads and walks, planting of trees and shrubs, restoration and care of grounds, including portions of Fort Donelson and Confederate water batteries, and inserted “and the establishment of the national military park” in proviso.
+**1930**—Act Feb. 18, 1930, inserted "military" between "national" and "park", authorized construction of roads and walks, planting of trees and shrubs, restoration and care of grounds, including portions of Fort Donelson and Confederate water batteries, and inserted "and the establishment of the national military park" in proviso.
 
 #### Change of Name ####
 
-“National battlefield” and “battlefield” substituted in text for “national military park” and “park”, respectively, in view of redesignation of Fort Donelson National Military Park as Fort Donelson National Battlefield by Pub. L. 86–738. See section 428n of this title.
+"National battlefield" and "battlefield" substituted in text for "national military park" and "park", respectively, in view of redesignation of Fort Donelson National Military Park as Fort Donelson National Battlefield by Pub. L. 86–738. See section 428n of this title.
 
 #### Transfer of Functions ####
 

@@ -18,14 +18,14 @@ Inasmuch as (A) most of the lands added to the Badlands National Park by section
 
 (6) No application may be filed by more than five of the former owners of an interest in the tract. If more than one such application is filed for a tract the applicants must agree on not more than five of the former owners who shall make the purchase, and failing such agreement all such applications for the tract shall be rejected by the Secretary.
 
-(7) “Former owner” means, for the purposes of subsection (b) of this section, each person from whom the United States acquired an interest in the tract, or if such person is deceased, his spouse, or if such spouse is deceased, his children.
+(7) "Former owner" means, for the purposes of subsection (b) of this section, each person from whom the United States acquired an interest in the tract, or if such person is deceased, his spouse, or if such spouse is deceased, his children.
 
 (Pub. L. 90–468, §3, Aug. 8, 1968, 82 Stat. 663; Pub. L. 95–625, title VI, §611, Nov. 10, 1978, 92 Stat. 3521.)
 
 #### Codification ####
 
-In subpar. (D) of introductory provisions, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subpar. (D) of introductory provisions, "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Change of Name ####
 
-In provision preceding subsec. (a) and in subsec. (a), “Park” and “park” substituted for “Monument” and “monument”, respectively, pursuant to Pub. L. 95–625, §611, which is classified to section 441e–1 of this title and which redesignated Badlands National Monument as Badlands National Park.
+In provision preceding subsec. (a) and in subsec. (a), "Park" and "park" substituted for "Monument" and "monument", respectively, pursuant to Pub. L. 95–625, §611, which is classified to section 441e–1 of this title and which redesignated Badlands National Monument as Badlands National Park.

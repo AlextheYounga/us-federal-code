@@ -8,7 +8,7 @@ Every consular officer shall keep a detailed list of all seamen and mariners shi
 
 R.S. §1708 derived from act Aug. 18, 1856, ch. 127, §27, 11 Stat. 62.
 
-Act Feb. 14, 1903, substituted “Secretary of Commerce and Labor” for “Secretary of the Treasury”. Act Mar. 4, 1913, substituted “Secretary of Commerce” for “Secretary of Commerce and Labor”.
+Act Feb. 14, 1903, substituted "Secretary of Commerce and Labor" for "Secretary of the Treasury". Act Mar. 4, 1913, substituted "Secretary of Commerce" for "Secretary of Commerce and Labor".
 
 Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 

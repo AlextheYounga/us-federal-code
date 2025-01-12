@@ -6,4 +6,4 @@ Section 843, R.S. §5485, related to punishment of agents or attorneys who contr
 
 Section 844, R.S. §4786; acts July 4, 1884, ch. 181, §4, 23 Stat. 99; July 3, 1930, ch. 863, §2, 46 Stat. 1016, related to filing of fee agreement and limitation on fee of agent or attorney concerning bounty land claim.
 
-Sections 842, 843 and 844 were based on provisions of R.S. §§4785, 5485, and 4786, respectively, which related to bounty lands. Provisions of R.S. §§4785, 5485, and 4786 which related to pensions were previously classified to sections 111, 112 and 114 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and were repealed by Pub. L. 85–56, title XXII, §2202(1), June 17, 1957, 71 Stat. 162.
+Sections 842, 843 and 844 were based on provisions of R.S. §§4785, 5485, and 4786, respectively, which related to bounty lands. Provisions of R.S. §§4785, 5485, and 4786 which related to pensions were previously classified to sections 111, 112 and 114 of former Title 38, Pensions, Bonuses, and Veterans' Relief, and were repealed by Pub. L. 85–56, title XXII, §2202(1), June 17, 1957, 71 Stat. 162.

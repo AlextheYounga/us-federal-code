@@ -50,7 +50,7 @@ The annual report submitted under paragraph (1) shall be submitted in unclassifi
 
 #### (c) Definition ####
 
-In this section, the term “global nuclear detection architecture” means the global nuclear detection architecture developed under section 592 of this title.
+In this section, the term "global nuclear detection architecture" means the global nuclear detection architecture developed under section 592 of this title.
 
 (Pub. L. 107–296, title XIX, §1907, as added Pub. L. 110–53, title XI, §1103(a), Aug. 3, 2007, 121 Stat. 379; amended Pub. L. 111–140, §4(b), Feb. 16, 2010, 124 Stat. 35.)
 

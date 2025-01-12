@@ -18,16 +18,16 @@ Table of subchapters for chapter 33 amended by striking out the item relating to
 
 #### Amendments ####
 
-**1970**—Pub. L. 91–258, title II, §205(c)(5), May 21, 1970, 84 Stat. 242, substituted “Transportation by air” for “Transportation of persons by air” in item for subchapter C.
+**1970**—Pub. L. 91–258, title II, §205(c)(5), May 21, 1970, 84 Stat. 242, substituted "Transportation by air" for "Transportation of persons by air" in item for subchapter C.
 
 **1965**—Pub. L. 89–44, title III, §§301, 304, June 21, 1965, 79 Stat. 145, 148, struck out items for subchapters A and D.
 
-**1962**—Pub. L. 87–508, §5(c)(1), June 28, 1962, 76 Stat. 118, substituted “Transportation of persons by air” for “Transportation of persons” in item for subchapter C.
+**1962**—Pub. L. 87–508, §5(c)(1), June 28, 1962, 76 Stat. 118, substituted "Transportation of persons by air" for "Transportation of persons" in item for subchapter C.
 
-**1958**—Pub. L. 85–475, §4(b)(1), June 30, 1958, 72 Stat. 260, substituted “Transportation of persons” for “Transportation” in item for subchapter C.
+**1958**—Pub. L. 85–475, §4(b)(1), June 30, 1958, 72 Stat. 260, substituted "Transportation of persons" for "Transportation" in item for subchapter C.
 
 #### Effective Date of 1962 Amendment ####
 
-Pub. L. 87–508, §5(d), June 28, 1962, 76 Stat. 119, provided in part that: “The amendment made by subsection (c)(1) [amending item for subchapter C in the analysis] shall apply only with respect to transportation beginning after November 15, 1962.”
+Pub. L. 87–508, §5(d), June 28, 1962, 76 Stat. 119, provided in part that: "The amendment made by subsection (c)(1) [amending item for subchapter C in the analysis] shall apply only with respect to transportation beginning after November 15, 1962."
 
 [<sup>1</sup> Section numbers editorially supplied.](#CHAPTER33_1)

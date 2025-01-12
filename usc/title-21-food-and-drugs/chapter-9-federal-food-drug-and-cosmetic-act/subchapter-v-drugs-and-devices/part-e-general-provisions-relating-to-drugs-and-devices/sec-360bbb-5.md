@@ -6,7 +6,7 @@ The Secretary, acting through the Commissioner of Food and Drugs, may enter into
 
 #### (b) Eligible entity ####
 
-In this section, the term “eligible entity” means an entity that meets each of the following:
+In this section, the term "eligible entity" means an entity that meets each of the following:
 
 (1) The entity is—
 
@@ -42,7 +42,7 @@ Not later than 18 months after September 27, 2007, and annually thereafter, the 
 
 #### (e) Definition ####
 
-In this section, the term “medical product” includes a drug, a biological product as defined in section 262 of title 42, a device, and any combination of such products.
+In this section, the term "medical product" includes a drug, a biological product as defined in section 262 of title 42, a device, and any combination of such products.
 
 #### (f) Authorization of appropriations ####
 
@@ -52,4 +52,4 @@ To carry out this section, there is authorized to be appropriated $6,000,000 for
 
 #### Amendments ####
 
-**2012**—Subsec. (f). Pub. L. 112–144 amended subsec. (f) generally. Prior to amendment, text read as follows: “To carry out this section, there are authorized to be appropriated $5,000,000 for fiscal year 2008 and such sums as may be necessary for each of fiscal years 2009 through 2012.”
+**2012**—Subsec. (f). Pub. L. 112–144 amended subsec. (f) generally. Prior to amendment, text read as follows: "To carry out this section, there are authorized to be appropriated $5,000,000 for fiscal year 2008 and such sums as may be necessary for each of fiscal years 2009 through 2012."

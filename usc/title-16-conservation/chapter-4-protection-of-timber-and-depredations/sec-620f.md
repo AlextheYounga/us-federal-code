@@ -102,6 +102,6 @@ The Secretaries of Agriculture and Interior shall, in consultation, review the d
 
 #### Amendments ####
 
-**1997**—Subsec. (a). Pub. L. 105–83 redesignated first two sentences as pars. (1) and (2), respectively, and inserted headings, and substituted pars. (3) to (5) for last sentence which read as follows: “Except as otherwise provided in sections 620 to 620j of this title, regulations and guidelines under this subsection shall be issued not later than 9 months after August 20, 1990.”
+**1997**—Subsec. (a). Pub. L. 105–83 redesignated first two sentences as pars. (1) and (2), respectively, and inserted headings, and substituted pars. (3) to (5) for last sentence which read as follows: "Except as otherwise provided in sections 620 to 620j of this title, regulations and guidelines under this subsection shall be issued not later than 9 months after August 20, 1990."
 
-[<sup>1</sup> So in original. Probably should be section “620e(7)(B)(ii)”.](#620f_1)
+[<sup>1</sup> So in original. Probably should be section "620e(7)(B)(ii)".](#620f_1)

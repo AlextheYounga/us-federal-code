@@ -24,7 +24,7 @@ Such notice shall be sent to the registrant and made public. In determining whet
 
 #### (1) Order ####
 
-If the Administrator determines that action is necessary to prevent an imminent hazard during the time required for cancellation or change in classification proceedings, the Administrator may, by order, suspend the registration of the pesticide immediately. Except as provided in paragraph (3), no order of suspension may be issued under this subsection unless the Administrator has issued, or at the same time issues, a notice of intention to cancel the registration or change the classification of the pesticide under subsection (b) of this section. Except as provided in paragraph (3), the Administrator shall notify the registrant prior to issuing any suspension order. Such notice shall include findings pertaining to the question of “imminent hazard”. The registrant shall then have an opportunity, in accordance with the provisions of paragraph (2), for an expedited hearing before the Administrator on the question of whether an imminent hazard exists.
+If the Administrator determines that action is necessary to prevent an imminent hazard during the time required for cancellation or change in classification proceedings, the Administrator may, by order, suspend the registration of the pesticide immediately. Except as provided in paragraph (3), no order of suspension may be issued under this subsection unless the Administrator has issued, or at the same time issues, a notice of intention to cancel the registration or change the classification of the pesticide under subsection (b) of this section. Except as provided in paragraph (3), the Administrator shall notify the registrant prior to issuing any suspension order. Such notice shall include findings pertaining to the question of "imminent hazard". The registrant shall then have an opportunity, in accordance with the provisions of paragraph (2), for an expedited hearing before the Administrator on the question of whether an imminent hazard exists.
 
 #### (2) Expedite hearing ####
 
@@ -108,7 +108,7 @@ Final orders of the Administrator under this section shall be subject to judicia
 
 #### Codification ####
 
-“Subchapter II of chapter 5 of title 5”, referred to in subsec. (c)(2), was in the original “subchapter II of Title 5”, and was editorially changed to reflect the probable intent of Congress.
+"Subchapter II of chapter 5 of title 5", referred to in subsec. (c)(2), was in the original "subchapter II of Title 5", and was editorially changed to reflect the probable intent of Congress.
 
 #### Prior Provisions ####
 
@@ -116,45 +116,45 @@ A prior section 6 of act June 25, 1947, was classified to section 135d of this t
 
 #### Amendments ####
 
-**1996**—Subsec. (a). Pub. L. 104–170, §106(a)(1), substituted “Existing stocks and information” for “Cancellation after five years” in heading.
+**1996**—Subsec. (a). Pub. L. 104–170, §106(a)(1), substituted "Existing stocks and information" for "Cancellation after five years" in heading.
 
-Subsec. (a)(1). Pub. L. 104–170, §106(a)(2), amended heading and text generally. Prior to amendment, text read as follows: “The Administrator shall cancel the registration of any pesticide at the end of the five-year period which begins on the date of its registration (or at the end of any five year period thereafter) unless the registrant, or other interested person with the concurrence of the registrant, before the end of such period, requests in accordance with regulations prescribed by the Administrator that the registration be continued in effect. The Administrator may permit the continued sale and use of existing stocks of a pesticide whose registration is canceled under this subsection or subsection (b) of this section to such extent, under such conditions, and for such uses as the Administrator may specify if the Administrator determines that such sale or use is not inconsistent with the purposes of this subchapter and will not have unreasonable adverse effects on the environment. The Administrator shall publish in the Federal Register, at least 30 days prior to the expiration of such five-year period, notice that the registration will be canceled if the registrant or other interested person with the concurrence of the registrant does not request that the registration be continued in effect.”
+Subsec. (a)(1). Pub. L. 104–170, §106(a)(2), amended heading and text generally. Prior to amendment, text read as follows: "The Administrator shall cancel the registration of any pesticide at the end of the five-year period which begins on the date of its registration (or at the end of any five year period thereafter) unless the registrant, or other interested person with the concurrence of the registrant, before the end of such period, requests in accordance with regulations prescribed by the Administrator that the registration be continued in effect. The Administrator may permit the continued sale and use of existing stocks of a pesticide whose registration is canceled under this subsection or subsection (b) of this section to such extent, under such conditions, and for such uses as the Administrator may specify if the Administrator determines that such sale or use is not inconsistent with the purposes of this subchapter and will not have unreasonable adverse effects on the environment. The Administrator shall publish in the Federal Register, at least 30 days prior to the expiration of such five-year period, notice that the registration will be canceled if the registrant or other interested person with the concurrence of the registrant does not request that the registration be continued in effect."
 
-Subsec. (b). Pub. L. 104–170, §233, inserted “When a public health use is affected, the Secretary of Health and Human Services should provide available benefits and use information, or an analysis thereof, in accordance with the procedures followed and subject to the same conditions as the Secretary of Agriculture in the case of agricultural pesticides.” before “The proposed action shall become final”.
+Subsec. (b). Pub. L. 104–170, §233, inserted "When a public health use is affected, the Secretary of Health and Human Services should provide available benefits and use information, or an analysis thereof, in accordance with the procedures followed and subject to the same conditions as the Secretary of Agriculture in the case of agricultural pesticides." before "The proposed action shall become final".
 
-Subsec. (c)(1). Pub. L. 104–170, §102(a), amended second sentence generally. Prior to amendment, second sentence read as follows: “No order of suspension may be issued unless the Administrator has issued or at the same time issues notice of the Administrator's intention to cancel the registration or change the classification of the pesticide.”
+Subsec. (c)(1). Pub. L. 104–170, §102(a), amended second sentence generally. Prior to amendment, second sentence read as follows: "No order of suspension may be issued unless the Administrator has issued or at the same time issues notice of the Administrator's intention to cancel the registration or change the classification of the pesticide."
 
-Subsec. (c)(3). Pub. L. 104–170, §102(b), inserted after first sentence “The Administrator may issue an emergency order under this paragraph before issuing a notice of intention to cancel the registration or change the classification of the pesticide under subsection (b) of this section and the Administrator shall proceed to issue the notice under subsection (b) of this section within 90 days of issuing an emergency order. If the Administrator does not issue a notice under subsection (b) of this section within 90 days of issuing an emergency order, the emergency order shall expire.” and substituted “In the case of an emergency order” for “In that case”.
+Subsec. (c)(3). Pub. L. 104–170, §102(b), inserted after first sentence "The Administrator may issue an emergency order under this paragraph before issuing a notice of intention to cancel the registration or change the classification of the pesticide under subsection (b) of this section and the Administrator shall proceed to issue the notice under subsection (b) of this section within 90 days of issuing an emergency order. If the Administrator does not issue a notice under subsection (b) of this section within 90 days of issuing an emergency order, the emergency order shall expire." and substituted "In the case of an emergency order" for "In that case".
 
-Subsec. (f)(1)(C)(ii). Pub. L. 104–170, §210(g)(1), substituted “180-day” for “90-day” in two places.
+Subsec. (f)(1)(C)(ii). Pub. L. 104–170, §210(g)(1), substituted "180-day" for "90-day" in two places.
 
-Subsec. (f)(3)(A). Pub. L. 104–170, §210(g)(2), substituted “180-day” for “90-day”.
+Subsec. (f)(3)(A). Pub. L. 104–170, §210(g)(2), substituted "180-day" for "90-day".
 
 Subsec. (f)(4). Pub. L. 104–170, §210(h), added par. (4).
 
-**1991**—Subsec. (a)(1). Pub. L. 102–237, §1006(b)(1), substituted “the Administrator” for “he” before “may specify” and before “determines”.
+**1991**—Subsec. (a)(1). Pub. L. 102–237, §1006(b)(1), substituted "the Administrator" for "he" before "may specify" and before "determines".
 
-Subsec. (a)(2). Pub. L. 102–237, §1006(b)(3)(C), substituted “the registrant” for “he” before “shall”.
+Subsec. (a)(2). Pub. L. 102–237, §1006(b)(3)(C), substituted "the registrant" for "he" before "shall".
 
-Subsec. (b). Pub. L. 102–237, §1006(b)(1), (2), substituted “the Administrator's” for “his” in introductory provisions and par. (1), and “the Administrator” for “he” before “shall publish” in last sentence.
+Subsec. (b). Pub. L. 102–237, §1006(b)(1), (2), substituted "the Administrator's" for "his" in introductory provisions and par. (1), and "the Administrator" for "he" before "shall publish" in last sentence.
 
-Subsec. (c)(1). Pub. L. 102–237, §1006(b)(1), (2), substituted “the Administrator” for “he” before “may” and “the Administrator's” for “his” before “intention”.
+Subsec. (c)(1). Pub. L. 102–237, §1006(b)(1), (2), substituted "the Administrator" for "he" before "may" and "the Administrator's" for "his" before "intention".
 
-Subsec. (c)(3). Pub. L. 102–237, §1006(b)(1), (3)(D), substituted “the Administrator” for “he” before “may” and “the Administrator” for “him” after “permit”.
+Subsec. (c)(3). Pub. L. 102–237, §1006(b)(1), (3)(D), substituted "the Administrator" for "he" before "may" and "the Administrator" for "him" after "permit".
 
-Subsec. (d). Pub. L. 102–237, §1006(b)(2), (3)(E), in penultimate sentence substituted “the Administrator's” for “his” and “the Administrator” for “him” before “and issue”.
+Subsec. (d). Pub. L. 102–237, §1006(b)(2), (3)(E), in penultimate sentence substituted "the Administrator's" for "his" and "the Administrator" for "him" before "and issue".
 
-Subsec. (f)(3)(B). Pub. L. 102–237, §1006(a)(5), substituted “adverse effect” for “adverse affect”.
+Subsec. (f)(3)(B). Pub. L. 102–237, §1006(a)(5), substituted "adverse effect" for "adverse affect".
 
-**1990**—Subsec. (f)(1). Pub. L. 101–624, §1494(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “A registrant at any time may request that any of its pesticide registrations be canceled or be amended to delete one or more uses. Before acting on such request, the Administrator shall publish in the Federal Register a notice of the receipt of the request. Thereafter, the Administrator may approve such a request.”
+**1990**—Subsec. (f)(1). Pub. L. 101–624, §1494(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "A registrant at any time may request that any of its pesticide registrations be canceled or be amended to delete one or more uses. Before acting on such request, the Administrator shall publish in the Federal Register a notice of the receipt of the request. Thereafter, the Administrator may approve such a request."
 
 Subsec. (f)(3). Pub. L. 101–624, §1494(2), added par. (3).
 
-**1988**—Subsec. (a)(1). Pub. L. 100–532, §801(e)(1), substituted “effect. The Administrator” for “effect: *Provided*, That the Administrator”.
+**1988**—Subsec. (a)(1). Pub. L. 100–532, §801(e)(1), substituted "effect. The Administrator" for "effect: *Provided*, That the Administrator".
 
-Subsec. (c). Pub. L. 100–532, §801(e)(2)–(4), in par. (1) directed that undesignated paragraph beginning “Except as provided” be run into sentence ending “of the pesticide.” and substituted “before the Administrator” for “before the Agency”, in par. (2) substituted “submitted to the Administrator” for “submitted to the Agency” and “and the Administrator” for “and the Agency”, and in par. (3) substituted “(A)” for “(i)”, “and the Administrator” for “and the Agency”, and “(B)” for “(ii)”.
+Subsec. (c). Pub. L. 100–532, §801(e)(2)–(4), in par. (1) directed that undesignated paragraph beginning "Except as provided" be run into sentence ending "of the pesticide." and substituted "before the Administrator" for "before the Agency", in par. (2) substituted "submitted to the Administrator" for "submitted to the Agency" and "and the Administrator" for "and the Agency", and in par. (3) substituted "(A)" for "(i)", "and the Administrator" for "and the Agency", and "(B)" for "(ii)".
 
-Subsec. (e). Pub. L. 100–532, §801(e)(5), (6), in par. (1), substituted “met. The Administrator” for “met: *Provided*, That the Administrator”, and in par. (2), substituted “section. The only” for “section: *Provided*, That the only”.
+Subsec. (e). Pub. L. 100–532, §801(e)(5), (6), in par. (1), substituted "met. The Administrator" for "met: *Provided*, That the Administrator", and in par. (2), substituted "section. The only" for "section: *Provided*, That the only".
 
 Subsec. (f). Pub. L. 100–532, §201, added subsec. (f). Former subsec. (f) redesignated (h).
 
@@ -168,7 +168,7 @@ Subsec. (h). Pub. L. 100–532, §201, redesignated former subsec. (f) as (h).
 
 **1978**—Subsec. (b). Pub. L. 95–396, §11, required the Administrator, in taking any final action under subsec. (b), to consider restricting a pesticide's use or uses as an alternative to cancellation and to fully explain the reasons for the restrictions.
 
-Subsec. (c)(2). Pub. L. 95–251 substituted “administrative law judge” for “hearing examiner”.
+Subsec. (c)(2). Pub. L. 95–251 substituted "administrative law judge" for "hearing examiner".
 
 Subsecs. (e), (f). Pub. L. 95–396, §12, added subsec. (e) and redesignated former subsec. (e) as (f).
 

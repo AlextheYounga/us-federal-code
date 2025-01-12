@@ -4,13 +4,13 @@
 
 In this section:
 
-(1) The term “distribution utility” means an electric utility that has a service obligation to end-users or to a State utility or electric cooperative that, directly or indirectly, through one or more additional State utilities or electric cooperatives, provides electric service to end-users.
+(1) The term "distribution utility" means an electric utility that has a service obligation to end-users or to a State utility or electric cooperative that, directly or indirectly, through one or more additional State utilities or electric cooperatives, provides electric service to end-users.
 
-(2) The term “load-serving entity” means a distribution utility or an electric utility that has a service obligation.
+(2) The term "load-serving entity" means a distribution utility or an electric utility that has a service obligation.
 
-(3) The term “service obligation” means a requirement applicable to, or the exercise of authority granted to, an electric utility under Federal, State, or local law or under long-term contracts to provide electric service to end-users or to a distribution utility.
+(3) The term "service obligation" means a requirement applicable to, or the exercise of authority granted to, an electric utility under Federal, State, or local law or under long-term contracts to provide electric service to end-users or to a distribution utility.
 
-(4) The term “State utility” means a State or any political subdivision of a State, or any agency, authority, or instrumentality of any one or more of the foregoing, or a corporation that is wholly owned, directly or indirectly, by any one or more of the foregoing, competent to carry on the business of developing, transmitting, utilizing, or distributing power.
+(4) The term "State utility" means a State or any political subdivision of a State, or any agency, authority, or instrumentality of any one or more of the foregoing, or a corporation that is wholly owned, directly or indirectly, by any one or more of the foregoing, competent to carry on the business of developing, transmitting, utilizing, or distributing power.
 
 #### (b) Meeting service obligations ####
 
@@ -42,7 +42,7 @@ Nothing in this chapter relieves a load-serving entity from any obligation under
 
 #### (f) Contracts ####
 
-Nothing in this section shall provide a basis for abrogating any contract or service agreement for firm transmission service or rights in effect as of August 8, 2005. If an ISO in the Western Interconnection had allocated financial transmission rights prior to August 8, 2005, but had not done so with respect to one or more load-serving entities’ firm transmission rights held under contracts to which the preceding sentence applies (or held by reason of ownership or future ownership of transmission facilities), such load-serving entities may not be required, without their consent, to convert such firm transmission rights to tradable or financial rights, except where the load-serving entity has voluntarily joined the ISO as a participating transmission owner (or its successor) in accordance with the ISO tariff.
+Nothing in this section shall provide a basis for abrogating any contract or service agreement for firm transmission service or rights in effect as of August 8, 2005. If an ISO in the Western Interconnection had allocated financial transmission rights prior to August 8, 2005, but had not done so with respect to one or more load-serving entities' firm transmission rights held under contracts to which the preceding sentence applies (or held by reason of ownership or future ownership of transmission facilities), such load-serving entities may not be required, without their consent, to convert such firm transmission rights to tradable or financial rights, except where the load-serving entity has voluntarily joined the ISO as a participating transmission owner (or its successor) in accordance with the ISO tariff.
 
 #### (g) Water pumping facilities ####
 
@@ -72,6 +72,6 @@ An entity that to the extent required to meet its service obligations exercises 
 
 #### FERC Rulemaking on Long-Term Transmission Rights in Organized Markets ####
 
-Pub. L. 109–58, title XII, §1233(b), Aug. 8, 2005, 119 Stat. 960, provided that: “Within 1 year after the date of enactment of this section [Aug. 8, 2005] and after notice and an opportunity for comment, the [Federal Energy Regulatory] Commission shall by rule or order, implement section 217(b)(4) of the Federal Power Act [16 U.S.C. 824q(b)(4)] in Transmission Organizations, as defined by that Act [16 U.S.C. 791a et seq.] with organized electricity markets.”
+Pub. L. 109–58, title XII, §1233(b), Aug. 8, 2005, 119 Stat. 960, provided that: "Within 1 year after the date of enactment of this section [Aug. 8, 2005] and after notice and an opportunity for comment, the [Federal Energy Regulatory] Commission shall by rule or order, implement section 217(b)(4) of the Federal Power Act [16 U.S.C. 824q(b)(4)] in Transmission Organizations, as defined by that Act [16 U.S.C. 791a et seq.] with organized electricity markets."
 
-[<sup>1</sup> So in original. Probably should be “this”.](#824q_1)
+[<sup>1</sup> So in original. Probably should be "this".](#824q_1)

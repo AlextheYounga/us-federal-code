@@ -24,13 +24,13 @@ If the Secretary determines that the information in a new dietary ingredient not
 
 For purposes of this subsection—
 
-(A) the term “anabolic steroid” has the meaning given such term in section 802(41) of this title; and
+(A) the term "anabolic steroid" has the meaning given such term in section 802(41) of this title; and
 
-(B) the term “analogue of an anabolic steroid” means a substance whose chemical structure is substantially similar to the chemical structure of an anabolic steroid.
+(B) the term "analogue of an anabolic steroid" means a substance whose chemical structure is substantially similar to the chemical structure of an anabolic steroid.
 
-#### (d) “New dietary ingredient” defined ####
+#### (d) "New dietary ingredient" defined ####
 
-For purposes of this section, the term “new dietary ingredient” means a dietary ingredient that was not marketed in the United States before October 15, 1994 and does not include any dietary ingredient which was marketed in the United States before October 15, 1994.
+For purposes of this section, the term "new dietary ingredient" means a dietary ingredient that was not marketed in the United States before October 15, 1994 and does not include any dietary ingredient which was marketed in the United States before October 15, 1994.
 
 (June 25, 1938, ch. 675, §413, as added Pub. L. 103–417, §8, Oct. 25, 1994, 108 Stat. 4331; amended Pub. L. 111–353, title I, §113(a), Jan. 4, 2011, 124 Stat. 3920.)
 
@@ -40,7 +40,7 @@ For purposes of this section, the term “new dietary ingredient” means a diet
 
 #### Guidance ####
 
-Pub. L. 111–353, title I, §113(b), Jan. 4, 2011, 124 Stat. 3921, provided that: “Not later than 180 days after the date of enactment of this Act [Jan. 4, 2011], the Secretary shall publish guidance that clarifies when a dietary supplement ingredient is a new dietary ingredient, when the manufacturer or distributor of a dietary ingredient or dietary supplement should provide the Secretary with information as described in section 413(a)(2) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350b(a)(2)], the evidence needed to document the safety of new dietary ingredients, and appropriate methods for establishing the identify [sic] of a new dietary ingredient.”
+Pub. L. 111–353, title I, §113(b), Jan. 4, 2011, 124 Stat. 3921, provided that: "Not later than 180 days after the date of enactment of this Act [Jan. 4, 2011], the Secretary shall publish guidance that clarifies when a dietary supplement ingredient is a new dietary ingredient, when the manufacturer or distributor of a dietary ingredient or dietary supplement should provide the Secretary with information as described in section 413(a)(2) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350b(a)(2)], the evidence needed to document the safety of new dietary ingredients, and appropriate methods for establishing the identify [sic] of a new dietary ingredient."
 
 #### Construction of 2011 Amendment ####
 

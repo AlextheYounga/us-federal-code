@@ -86,16 +86,16 @@ Pub. L. 108–375, div. A, title V, §544(c)(2), Oct. 28, 2004, 118 Stat. 1907, 
 
 **1997**—Pub. L. 105–85, div. A, title V, §542(c)(2), Nov. 18, 1997, 111 Stat. 1743, added item 9345.
 
-**1996**—Pub. L. 104–106, div. A, title V, §533(c)(2), Feb. 10, 1996, 110 Stat. 315, struck out item 9356 “Athletics program: athletic director; nonappropriated fund account”.
+**1996**—Pub. L. 104–106, div. A, title V, §533(c)(2), Feb. 10, 1996, 110 Stat. 315, struck out item 9356 "Athletics program: athletic director; nonappropriated fund account".
 
 **1994**—Pub. L. 103–337, div. A, title V, §556(c)(2), Oct. 5, 1994, 108 Stat. 2775, added item 9356.
 
 **1993**—Pub. L. 103–160, div. A, title V, §533(b)(2), Nov. 30, 1993, 107 Stat. 1658, added item 9338.
 
-**1989**—Pub. L. 101–189, div. A, title V, §515(b)(2), Nov. 29, 1989, 103 Stat. 1441, substituted “director of admissions” for “registrar” in item 9336.
+**1989**—Pub. L. 101–189, div. A, title V, §515(b)(2), Nov. 29, 1989, 103 Stat. 1441, substituted "director of admissions" for "registrar" in item 9336.
 
-**1983**—Pub. L. 98–94, title X, §1004(c)(3), Sept. 24, 1983, 97 Stat. 660, substituted “Selection of persons from foreign countries” for “Selection of persons from Canada and American Republics” in item 9344, and struck out item 9345 “Selection of Filipinos”.
+**1983**—Pub. L. 98–94, title X, §1004(c)(3), Sept. 24, 1983, 97 Stat. 660, substituted "Selection of persons from foreign countries" for "Selection of persons from Canada and American Republics" in item 9344, and struck out item 9345 "Selection of Filipinos".
 
 **1981**—Pub. L. 97–60, title II, §203(c)(2)(B), Oct. 14, 1981, 95 Stat. 1006, added item 9341a.
 
-**1958**—Pub. L. 85–600, §1(23), Aug. 6, 1958, 72 Stat. 524, inserted “; registrar” in item 9336.
+**1958**—Pub. L. 85–600, §1(23), Aug. 6, 1958, 72 Stat. 524, inserted "; registrar" in item 9336.

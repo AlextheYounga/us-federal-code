@@ -12,7 +12,7 @@ The Securities and Exchange Commission, acting in consultation with the National
 
 #### Amendments ####
 
-**1976**—Subsec. (a). Pub. L. 94–302 struck out “ordinary” after “in the Bank's” and inserted “and article IIA, section 4” after “article II, section 5” and “or article IIA, section 3(c)” after “article II, section 4(a)(ii)”.
+**1976**—Subsec. (a). Pub. L. 94–302 struck out "ordinary" after "in the Bank's" and inserted "and article IIA, section 4" after "article II, section 5" and "or article IIA, section 3(c)" after "article II, section 4(a)(ii)".
 
 #### Effective Date of 1976 Amendment ####
 

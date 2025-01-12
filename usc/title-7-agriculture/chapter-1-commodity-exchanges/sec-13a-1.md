@@ -52,21 +52,21 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments ####
 
-**2010**—Subsec. (a). Pub. L. 111–203, §741(b)(5), inserted “or any swap” after “commodity for future delivery”.
+**2010**—Subsec. (a). Pub. L. 111–203, §741(b)(5), inserted "or any swap" after "commodity for future delivery".
 
 Subsec. (d)(3). Pub. L. 111–203, §744, added par. (3).
 
-**2008**—Subsec. (d). Pub. L. 110–246, §13103(c), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “In any action brought under this section, the Commission may seek and the court shall have jurisdiction to impose, on a proper showing, on any person found in the action to have committed any violation a civil penalty in the amount of not more than the higher of $100,000 or triple the monetary gain to the person for each violation.”
+**2008**—Subsec. (d). Pub. L. 110–246, §13103(c), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: "In any action brought under this section, the Commission may seek and the court shall have jurisdiction to impose, on a proper showing, on any person found in the action to have committed any violation a civil penalty in the amount of not more than the higher of $100,000 or triple the monetary gain to the person for each violation."
 
-**2000**—Subsec. (a). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(15)], substituted “registered entity” for “contract market”.
+**2000**—Subsec. (a). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(15)], substituted "registered entity" for "contract market".
 
 Subsec. (h). Pub. L. 106–554, §1(a)(5) [title II, §253(c)], added subsec. (h).
 
 **1992**—Pub. L. 102–546 designated first, second, and third sentences as subsecs. (a) to (c), respectively, added subsec. (d), and designated fourth, fifth, and sixth sentences as subsecs. (e) to (g), respectively.
 
-**1986**—Pub. L. 99–641 inserted “, and other than an order appointing a temporary receiver to administer such restraining order and to perform such other duties as the court may consider appropriate”.
+**1986**—Pub. L. 99–641 inserted ", and other than an order appointing a temporary receiver to administer such restraining order and to perform such other duties as the court may consider appropriate".
 
-**1983**—Pub. L. 97–444 inserted “(other than a restraining order which prohibits any person from destroying, altering or disposing of, or refusing to permit authorized representatives of the Commission to inspect, when and as requested, any books and records or other documents or which prohibits any person from withdrawing, transferring, removing, dissipating, or disposing of any funds, assets, or other property)” after “*Provided*, That no restraining order”.
+**1983**—Pub. L. 97–444 inserted "(other than a restraining order which prohibits any person from destroying, altering or disposing of, or refusing to permit authorized representatives of the Commission to inspect, when and as requested, any books and records or other documents or which prohibits any person from withdrawing, transferring, removing, dissipating, or disposing of any funds, assets, or other property)" after "*Provided*, That no restraining order".
 
 #### Effective Date of 2010 Amendment ####
 

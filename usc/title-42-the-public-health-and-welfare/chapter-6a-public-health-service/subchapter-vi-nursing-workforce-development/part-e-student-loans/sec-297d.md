@@ -30,9 +30,9 @@ Section 297c of this title, referred to in subsec. (a)(2)(A), was repealed by Pu
 
 #### Amendments ####
 
-**2010**—Subsecs. (a)(3), (c). Pub. L. 111–148 substituted “this part” for “this subpart”.
+**2010**—Subsecs. (a)(3), (c). Pub. L. 111–148 substituted "this part" for "this subpart".
 
-**1992**—Subsec. (a)(3). Pub. L. 102–408 struck out “(A)” after “(3)”, substituted “available for allotment until expended.” for “available for allotment in such fiscal year and in the fiscal year succeeding the fiscal year.” and “this subpart.” for “this subpart, except that in making such allotments, the Secretary shall give priority to schools of nursing which established student loan funds under this subpart after September 30, 1975.”, and struck out subpar. (B) which read as follows: “With respect to funds available pursuant to subparagraph (A), any such funds returned to the Secretary and not allotted by the Secretary, during the period of availability specified in such subparagraph, shall be available to carry out section 297j of this title and, for such purpose, shall remain available until expended.”
+**1992**—Subsec. (a)(3). Pub. L. 102–408 struck out "(A)" after "(3)", substituted "available for allotment until expended." for "available for allotment in such fiscal year and in the fiscal year succeeding the fiscal year." and "this subpart." for "this subpart, except that in making such allotments, the Secretary shall give priority to schools of nursing which established student loan funds under this subpart after September 30, 1975.", and struck out subpar. (B) which read as follows: "With respect to funds available pursuant to subparagraph (A), any such funds returned to the Secretary and not allotted by the Secretary, during the period of availability specified in such subparagraph, shall be available to carry out section 297j of this title and, for such purpose, shall remain available until expended."
 
 **1988**—Subsec. (a)(3). Pub. L. 100–607 designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -40,23 +40,23 @@ Section 297c of this title, referred to in subsec. (a)(2)(A), was repealed by Pu
 
 Subsec. (b). Pub. L. 99–92 amended subsec. (b) generally, substituting provisions relating to payment to a loan fund of a school of allotments for provisions relating to application for allotment, adjustment or reduction of amount requested in application, and reallotment.
 
-**1975**—Subsec. (a). Pub. L. 94–63, §941(h)(1), (4)(A)(i), (i)(4), substituted “subpart” for “part” wherever appearing, struck out “(whether as Federal capital contributions or as loans to schools under section 297f of this title)” before “which are in excess”, and substituted references to section 847 of the Act for references to section 824, which had previously been translated as section 297c of this title, requiring no further translations in text as a result of renumbering of the Public Health Service Act.
+**1975**—Subsec. (a). Pub. L. 94–63, §941(h)(1), (4)(A)(i), (i)(4), substituted "subpart" for "part" wherever appearing, struck out "(whether as Federal capital contributions or as loans to schools under section 297f of this title)" before "which are in excess", and substituted references to section 847 of the Act for references to section 824, which had previously been translated as section 297c of this title, requiring no further translations in text as a result of renumbering of the Public Health Service Act.
 
-Subsec. (b)(1). Pub. L. 94–63, §941(h)(4)(A)(ii), struck out “, and for loans pursuant to section 297f of this title,” after “contributions”.
+Subsec. (b)(1). Pub. L. 94–63, §941(h)(4)(A)(ii), struck out ", and for loans pursuant to section 297f of this title," after "contributions".
 
-Subsec. (b)(2). Pub. L. 94–63, §941(h)(2), struck out “of Health, Education, and Welfare” after “Secretary”.
+Subsec. (b)(2). Pub. L. 94–63, §941(h)(2), struck out "of Health, Education, and Welfare" after "Secretary".
 
-Subsec. (c). Pub. L. 94–63, §941(h)(1), substituted “subpart” for “part”.
+Subsec. (c). Pub. L. 94–63, §941(h)(1), substituted "subpart" for "part".
 
 **1968**—Subsec. (a). Pub. L. 90–490 substituted a new formula for distribution of Federal funds among schools of nursing by providing for allotment of funds among the schools entirely on the basis of their relative enrollments for former provisions which allocated funds among the States, 50 per centum on the basis of relative number of high school graduates, and 50 per centum on the basis of relative number of students enrolled in schools of nursing, and provided for determination of number of persons enrolled in such schools for most recent year for which satisfactory data are available to the Secretary.
 
 **1966**—Subsec. (a). Pub. L. 89–751, §6(c)(1), authorized allotment of appropriations for payment as Federal capital contributions or as loans to schools under section 297f of this title, and directed that funds available in any fiscal year for payment to schools under this part (whether as Federal capital contributions or as loans to schools under section 297f of this title) which are in excess of the amount appropriated pursuant to section 297c of this title for that year shall be allotted among States and among schools within States in such manner as the Secretary determinates will best carry out the purposes of this part.
 
-Subsec. (b)(1). Pub. L. 89–751, §6(c)(2), substituted “schools of nursing in a State must file applications for Federal capital contributions, and for loans pursuant to section 297f of this title, from the allotment of such State under the first two sentences of subsection (a) of this section” for “schools of nursing with which he has in effect agreements under this part must file applications for Federal capital contributions to their loan funds pursuant to section 297a(b)(2)(A) of this title”.
+Subsec. (b)(1). Pub. L. 89–751, §6(c)(2), substituted "schools of nursing in a State must file applications for Federal capital contributions, and for loans pursuant to section 297f of this title, from the allotment of such State under the first two sentences of subsection (a) of this section" for "schools of nursing with which he has in effect agreements under this part must file applications for Federal capital contributions to their loan funds pursuant to section 297a(b)(2)(A) of this title".
 
 #### Effective Date of 1988 Amendment ####
 
-Pub. L. 100–607, title VII, §713(h)(2), Nov. 4, 1988, 102 Stat. 3161, provided that: “Except as provided in Public Law 100–436 [Sept. 20, 1988, 102 Stat. 1680, see Tables for classification], the amendment made by paragraph (1) [amending this section] shall take effect as if such amendment had been effective on September 30, 1988, and as if section 843 of the Public Health Service Act [42 U.S.C. 297j], as added by section 715 of this title, had been effective on such date.”
+Pub. L. 100–607, title VII, §713(h)(2), Nov. 4, 1988, 102 Stat. 3161, provided that: "Except as provided in Public Law 100–436 [Sept. 20, 1988, 102 Stat. 1680, see Tables for classification], the amendment made by paragraph (1) [amending this section] shall take effect as if such amendment had been effective on September 30, 1988, and as if section 843 of the Public Health Service Act [42 U.S.C. 297j], as added by section 715 of this title, had been effective on such date."
 
 #### Effective Date of 1985 Amendment ####
 
@@ -68,10 +68,10 @@ Amendment by Pub. L. 94–63 effective July 1, 1975, see section 942 of Pub. L. 
 
 #### Effective Date of 1966 Amendment ####
 
-Pub. L. 89–751, §6(e)(1), Nov. 3, 1966, 80 Stat. 1236, provided that: “The amendments made by this section [amending this section and sections 297c, 297e, and 297f of this title] shall be effective in the case of payments to student loan funds made after the enactment of this Act [Nov. 3, 1966], except in the case of payments pursuant to commitments (made prior to enactment of this Act) to make loans under section 827 of the Public Health Service Act [42 U.S.C. 297f] as in effect prior to the enactment of this Act.”
+Pub. L. 89–751, §6(e)(1), Nov. 3, 1966, 80 Stat. 1236, provided that: "The amendments made by this section [amending this section and sections 297c, 297e, and 297f of this title] shall be effective in the case of payments to student loan funds made after the enactment of this Act [Nov. 3, 1966], except in the case of payments pursuant to commitments (made prior to enactment of this Act) to make loans under section 827 of the Public Health Service Act [42 U.S.C. 297f] as in effect prior to the enactment of this Act."
 
 #### Applicability of Reorg. Plan No. 3 of 1966 ####
 
-Pub. L. 89–751, §9, Nov. 3, 1966, 80 Stat. 1240, provided that: “The amendments made by this Act [enacting former sections 295h to 295h–5 and 298c to 298c–8 of this title and amending this section, former sections 292b, 294d, 294n to 294p, 296, and 297c, section 297e, former section 297f, and section 298 of this title, and section 1717 of Title 12, Banks and Banking] shall be subject to the provisions of Reorganization Plan Numbered 3 of 1966 [42 U.S.C. 202 note].”
+Pub. L. 89–751, §9, Nov. 3, 1966, 80 Stat. 1240, provided that: "The amendments made by this Act [enacting former sections 295h to 295h–5 and 298c to 298c–8 of this title and amending this section, former sections 292b, 294d, 294n to 294p, 296, and 297c, section 297e, former section 297f, and section 298 of this title, and section 1717 of Title 12, Banks and Banking] shall be subject to the provisions of Reorganization Plan Numbered 3 of 1966 [42 U.S.C. 202 note]."
 
 [<sup>1</sup> See References in Text note below.](#297d_1)

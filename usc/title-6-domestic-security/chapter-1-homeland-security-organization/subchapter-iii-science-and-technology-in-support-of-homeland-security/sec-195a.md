@@ -10,7 +10,7 @@ The Under Secretary for Science and Technology, acting through the Director of t
 
 (A) supporting research on a competitive basis, including through the Directorate of Science and Technology and Homeland Security Advanced Research Projects Agency; and
 
-(B) considering the establishment of a Center of Excellence under the Department of Homeland Security Centers of Excellence Program focused on improving emergency response providers’ communication capabilities.
+(B) considering the establishment of a Center of Excellence under the Department of Homeland Security Centers of Excellence Program focused on improving emergency response providers' communication capabilities.
 
 #### (b) Purposes ####
 
@@ -28,6 +28,6 @@ The purposes of the program established under subsection (a) include—
 
 #### (c) Definitions ####
 
-For purposes of this section, the term “interoperable”, with respect to emergency communications, has the meaning given the term in section 578 of this title.
+For purposes of this section, the term "interoperable", with respect to emergency communications, has the meaning given the term in section 578 of this title.
 
 (Pub. L. 107–296, title III, §315, as added Pub. L. 109–295, title VI, §673(a), Oct. 4, 2006, 120 Stat. 1443.)

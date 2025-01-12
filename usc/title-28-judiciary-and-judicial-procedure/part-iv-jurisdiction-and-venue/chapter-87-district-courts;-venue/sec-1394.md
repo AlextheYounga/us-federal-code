@@ -8,7 +8,7 @@ Any civil action by a national banking association to enjoin the Comptroller of 
 
 Based on title 28, U.S.C., 1940 ed., §110 (Mar. 3, 1911, ch. 231, §49, 36 Stat. 1100).
 
-Words “Any civil action” were substituted for “All proceedings,” in view of Rule 2 of the Federal Rules of Civil Procedure.
+Words "Any civil action" were substituted for "All proceedings," in view of Rule 2 of the Federal Rules of Civil Procedure.
 
 Changes were made in phraseology.
 

@@ -102,17 +102,17 @@ Section 1603(c) of title 25, referred to in subsec. (b)(3)(D), was redesignated 
 
 #### Amendments ####
 
-**2010**—Subsec. (b)(1)(B)(v). Pub. L. 111–152 substituted “modified adjusted gross income” for “modified gross income”.
+**2010**—Subsec. (b)(1)(B)(v). Pub. L. 111–152 substituted "modified adjusted gross income" for "modified gross income".
 
 Pub. L. 111–148 added cl. (v).
 
-**2009**—Subsec. (a)(7)(B). Pub. L. 111–3, §501(a)(2), inserted “and services described in section 1397cc(c)(5) of this title” after “emergency services”.
+**2009**—Subsec. (a)(7)(B). Pub. L. 111–3, §501(a)(2), inserted "and services described in section 1397cc(c)(5) of this title" after "emergency services".
 
 Subsec. (b)(1)(B)(iii), (iv). Pub. L. 111–3, §§111(b)(2), 501(b)(2), added cls. (iii) and (iv).
 
 Subsec. (b)(4), (5). Pub. L. 111–3, §212, added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (c)(1). Pub. L. 111–3, §201(b)(2)(B)(i), inserted “(through community health workers and others)” after “Outreach”.
+Subsec. (c)(1). Pub. L. 111–3, §201(b)(2)(B)(i), inserted "(through community health workers and others)" after "Outreach".
 
 Subsec. (c)(3). Pub. L. 111–3, §302(a), added par. (3).
 
@@ -120,6 +120,6 @@ Subsec. (c)(3). Pub. L. 111–3, §302(a), added par. (3).
 
 Amendment by sections 111(b)(2), 201(b)(2)(B)(i), 212, 302(a), and 501(b)(2) of Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of this title.
 
-Pub. L. 111–3, title V, §501(a)(3), Feb. 4, 2009, 123 Stat. 85, provided that: “The amendments made by paragraphs (1) and (2) [amending this section and section 1397cc of this title] shall apply to coverage of items and services furnished on or after October 1, 2009.”
+Pub. L. 111–3, title V, §501(a)(3), Feb. 4, 2009, 123 Stat. 85, provided that: "The amendments made by paragraphs (1) and (2) [amending this section and section 1397cc of this title] shall apply to coverage of items and services furnished on or after October 1, 2009."
 
 [<sup>1</sup> See References in Text note below.](#1397bb_1)

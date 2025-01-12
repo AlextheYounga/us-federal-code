@@ -46,7 +46,7 @@
 
 (h) Definitions.—In this section:
 
-(1) The term “national security official concerned” means the following:
+(1) The term "national security official concerned" means the following:
 
 (A) The Secretary of Defense, with respect to information of concern to the Department of Defense, as determined by the Secretary.
 
@@ -54,9 +54,9 @@
 
 (C) The Secretary of Energy, with respect to information concerning the national security programs of the Department of Energy, as determined by the Secretary.
 
-(2) The term “agency” has the meaning given that term in section 552(f) of title 5.
+(2) The term "agency" has the meaning given that term in section 552(f) of title 5.
 
-(3) The term “international organization” means the following:
+(3) The term "international organization" means the following:
 
 (A) A public international organization designated pursuant to section 1 of the International Organizations Immunities Act (59 Stat. 669; 22 U.S.C. 288) as being entitled to enjoy the privileges, exemptions, and immunities provided in such Act.
 
@@ -72,11 +72,11 @@ The International Organizations Immunities Act, referred to in subsec. (h)(3)(A)
 
 #### Amendments ####
 
-**2002**—Subsec. (h)(1)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+**2002**—Subsec. (h)(1)(B). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-**2001**—Subsec. (b)(3)(C). Pub. L. 107–107, §1048(a)(3), substituted “subsection (g)” for “subsection (f)”.
+**2001**—Subsec. (b)(3)(C). Pub. L. 107–107, §1048(a)(3), substituted "subsection (g)" for "subsection (f)".
 
-Subsec. (d)(1). Pub. L. 107–107, §1048(c)(1), substituted “October 30, 2000,” for “the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001”.
+Subsec. (d)(1). Pub. L. 107–107, §1048(c)(1), substituted "October 30, 2000," for "the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001".
 
 #### Effective Date of 2002 Amendment ####
 

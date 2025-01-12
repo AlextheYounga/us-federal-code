@@ -22,7 +22,7 @@ Through the program established under this section, the Secretary shall enter in
 
 #### (A) Pediatric medical specialists and pediatric surgical specialists ####
 
-For purposes of contracts with respect to pediatric medical specialists and pediatric surgical specialists, the term “qualified health professional” means a licensed physician who—
+For purposes of contracts with respect to pediatric medical specialists and pediatric surgical specialists, the term "qualified health professional" means a licensed physician who—
 
 (i) is entering or receiving training in an accredited pediatric medical subspecialty or pediatric surgical specialty residency or fellowship; or
 
@@ -30,7 +30,7 @@ For purposes of contracts with respect to pediatric medical specialists and pedi
 
 #### (B) Child and adolescent mental and behavioral health ####
 
-For purposes of contracts with respect to child and adolescent mental and behavioral health care, the term “qualified health professional” means a health care professional who—
+For purposes of contracts with respect to child and adolescent mental and behavioral health care, the term "qualified health professional" means a health care professional who—
 
 (i) has received specialized training or clinical experience in child and adolescent mental health in psychiatry, psychology, school psychology, behavioral pediatrics, psychiatric nursing, social work, school social work, substance abuse disorder prevention and treatment, marriage and family therapy, school counseling, or professional counseling;
 

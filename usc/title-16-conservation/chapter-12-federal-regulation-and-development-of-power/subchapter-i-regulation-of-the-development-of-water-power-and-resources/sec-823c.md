@@ -28,9 +28,9 @@ Notwithstanding sections 797(e) and 817 of this title, the Commission shall disc
 
 (C) except as provided in subsection (j) of this section, conditions for the protection, mitigation, and enhancement of fish and wildlife based on recommendations received pursuant to the Fish and Wildlife Coordination Act (16 U.S.C. 661 et seq.) from the National Marine Fisheries Service, the United States Fish and Wildlife Service, and State fish and wildlife agencies.
 
-#### (b) Definition of “qualifying project works” ####
+#### (b) Definition of "qualifying project works" ####
 
-For purposes of this section, the term “qualifying project works” means project works—
+For purposes of this section, the term "qualifying project works" means project works—
 
 (1) that are not part of a project licensed under this part or exempted from licensing under this subchapter or section 2705 of this title prior to November 9, 2000;
 
@@ -92,7 +92,7 @@ The Fish and Wildlife Coordination Act, referred to in subsec. (a)(1), (3)(C), i
 
 #### Amendments ####
 
-**2005**—Subsec. (a)(3)(C). Pub. L. 109–58, §244(1), inserted “except as provided in subsection (j) of this section,” before “conditions”.
+**2005**—Subsec. (a)(3)(C). Pub. L. 109–58, §244(1), inserted "except as provided in subsection (j) of this section," before "conditions".
 
 Subsec. (j). Pub. L. 109–58, §244(2), added subsec. (j).
 

@@ -12,4 +12,4 @@ A prior section 4 of Pub. L. 92–367 was renumbered section 5 and is classified
 
 **1996**—Pub. L. 104–303 inserted section catchline.
 
-**1986**—Pub. L. 99–662 inserted “In any case in which any hazardous conditions are found during an inspection, upon request by the owner, the Secretary, acting through the Chief of Engineers, may perform detailed engineering studies to determine the structural integrity of the dam, subject to reimbursement of such expense by the owner of such dam.”
+**1986**—Pub. L. 99–662 inserted "In any case in which any hazardous conditions are found during an inspection, upon request by the owner, the Secretary, acting through the Chief of Engineers, may perform detailed engineering studies to determine the structural integrity of the dam, subject to reimbursement of such expense by the owner of such dam."

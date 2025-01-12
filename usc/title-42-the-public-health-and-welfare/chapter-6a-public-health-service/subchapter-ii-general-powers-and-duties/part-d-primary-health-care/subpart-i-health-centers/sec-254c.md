@@ -8,23 +8,23 @@ The purpose of this section is to provide grants for expanded delivery of health
 
 #### (1) Director ####
 
-The term “Director” means the Director specified in subsection (d) of this section.
+The term "Director" means the Director specified in subsection (d) of this section.
 
 #### (2) Federally qualified health center; rural health clinic ####
 
-The terms “Federally qualified health center” and “rural health clinic” have the meanings given the terms in section 1395x(aa) of this title.
+The terms "Federally qualified health center" and "rural health clinic" have the meanings given the terms in section 1395x(aa) of this title.
 
 #### (3) Health professional shortage area ####
 
-The term “health professional shortage area” means a health professional shortage area designated under section 254e of this title.
+The term "health professional shortage area" means a health professional shortage area designated under section 254e of this title.
 
 #### (4) Medically underserved community ####
 
-The term “medically underserved community” has the meaning given the term in section 295p(6) of this title.
+The term "medically underserved community" has the meaning given the term in section 295p(6) of this title.
 
 #### (5) Medically underserved population ####
 
-The term “medically underserved population” has the meaning given the term in section 254b(b)(3) of this title.
+The term "medically underserved population" has the meaning given the term in section 254b(b)(3) of this title.
 
 #### (c) Program ####
 
@@ -220,9 +220,9 @@ A prior section 254c, act July 1, 1944, ch. 373, title III, §330, as added July
 
 #### Amendments ####
 
-**2008**—Subsec. (j). Pub. L. 110–355 substituted “$45,000,000 for each of fiscal years 2008 through 2012.” for “$40,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.”
+**2008**—Subsec. (j). Pub. L. 110–355 substituted "$45,000,000 for each of fiscal years 2008 through 2012." for "$40,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006."
 
-**2003**—Subsec. (b)(4). Pub. L. 108–163 substituted “section 295p(6)” for “section 295p”.
+**2003**—Subsec. (b)(4). Pub. L. 108–163 substituted "section 295p(6)" for "section 295p".
 
 **2002**—Pub. L. 107–251 amended section generally. Prior to amendment, section related to a rural health outreach, network development, and telemedicine grant program, and in subsec. (a), provided for administration by the Office of Rural Health Policy; in subsec. (b), set out the objectives of grants; in subsec. (c), set out eligibility requirements; in subsec. (d), described preferred characteristics of applicant networks; in subsec. (e), specified permitted uses of grant funds; in subsec. (f), limited the duration of grants; and in subsec. (g), authorized appropriations.
 
@@ -238,68 +238,68 @@ Section effective Oct. 1, 1996, see section 5 of Pub. L. 104–299, as amended, 
 
 Pub. L. 106–505, title IV, subtitle B, Nov. 13, 2000, 114 Stat. 2340, provided that:
 
-#### “SEC. 411. SHORT TITLE. ####
+#### "SEC. 411. SHORT TITLE. ####
 
-“This subtitle may be cited as the ‘Rural Access to Emergency Devices Act’ or the ‘Rural AED Act’.
+"This subtitle may be cited as the 'Rural Access to Emergency Devices Act' or the 'Rural AED Act'.
 
-#### “SEC. 412. FINDINGS. ####
+#### "SEC. 412. FINDINGS. ####
 
-“Congress makes the following findings:
+"Congress makes the following findings:
 
-“(1) Heart disease is the leading cause of death in the United States.
+"(1) Heart disease is the leading cause of death in the United States.
 
-“(2) The American Heart Association estimates that 250,000 Americans die from sudden cardiac arrest each year.
+"(2) The American Heart Association estimates that 250,000 Americans die from sudden cardiac arrest each year.
 
-“(3) A cardiac arrest victim's chance of survival drops 10 percent for every minute that passes before his or her heart is returned to normal rhythm.
+"(3) A cardiac arrest victim's chance of survival drops 10 percent for every minute that passes before his or her heart is returned to normal rhythm.
 
-“(4) Because most cardiac arrest victims are initially in ventricular fibrillation, and the only treatment for ventricular fibrillation is defibrillation, prompt access to defibrillation to return the heart to normal rhythm is essential.
+"(4) Because most cardiac arrest victims are initially in ventricular fibrillation, and the only treatment for ventricular fibrillation is defibrillation, prompt access to defibrillation to return the heart to normal rhythm is essential.
 
-“(5) Lifesaving technology, the automated external defibrillator, has been developed to allow trained lay rescuers to respond to cardiac arrest by using this simple device to shock the heart into normal rhythm.
+"(5) Lifesaving technology, the automated external defibrillator, has been developed to allow trained lay rescuers to respond to cardiac arrest by using this simple device to shock the heart into normal rhythm.
 
-“(6) Those people who are likely to be first on the scene of a cardiac arrest situation in many communities, particularly smaller and rural communities, lack sufficient numbers of automated external defibrillators to respond to cardiac arrest in a timely manner.
+"(6) Those people who are likely to be first on the scene of a cardiac arrest situation in many communities, particularly smaller and rural communities, lack sufficient numbers of automated external defibrillators to respond to cardiac arrest in a timely manner.
 
-“(7) The American Heart Association estimates that more than 50,000 deaths could be prevented each year if defibrillators were more widely available to designated responders.
+"(7) The American Heart Association estimates that more than 50,000 deaths could be prevented each year if defibrillators were more widely available to designated responders.
 
-“(8) Legislation should be enacted to encourage greater public access to automated external defibrillators in communities across the United States.
+"(8) Legislation should be enacted to encourage greater public access to automated external defibrillators in communities across the United States.
 
-#### “SEC. 413. GRANTS. ####
+#### "SEC. 413. GRANTS. ####
 
-“(a) In General.—The Secretary of Health and Human Services, acting through the Rural Health Outreach Office of the Health Resources and Services Administration, shall award grants to community partnerships that meet the requirements of subsection (b) to enable such partnerships to purchase equipment and provide training as provided for in subsection (c).
+"(a) In General.—The Secretary of Health and Human Services, acting through the Rural Health Outreach Office of the Health Resources and Services Administration, shall award grants to community partnerships that meet the requirements of subsection (b) to enable such partnerships to purchase equipment and provide training as provided for in subsection (c).
 
-“(b) Community Partnerships.—A community partnership meets the requirements of this subsection if such partnership—
+"(b) Community Partnerships.—A community partnership meets the requirements of this subsection if such partnership—
 
-“(1) is composed of local emergency response entities such as community training facilities, local emergency responders, fire and rescue departments, police, community hospitals, and local non-profit entities and for-profit entities concerned about cardiac arrest survival rates;
+"(1) is composed of local emergency response entities such as community training facilities, local emergency responders, fire and rescue departments, police, community hospitals, and local non-profit entities and for-profit entities concerned about cardiac arrest survival rates;
 
-“(2) evaluates the local community emergency response times to assess whether they meet the standards established by national public health organizations such as the American Heart Association and the American Red Cross; and
+"(2) evaluates the local community emergency response times to assess whether they meet the standards established by national public health organizations such as the American Heart Association and the American Red Cross; and
 
-“(3) submits to the Secretary of Health and Human Services an application at such time, in such manner, and containing such information as the Secretary may require.
+"(3) submits to the Secretary of Health and Human Services an application at such time, in such manner, and containing such information as the Secretary may require.
 
-“(c) Use of Funds.—Amounts provided under a grant under this section shall be used—
+"(c) Use of Funds.—Amounts provided under a grant under this section shall be used—
 
-“(1) to purchase automated external defibrillators that have been approved, or cleared for marketing, by the Food and Drug Administration; and
+"(1) to purchase automated external defibrillators that have been approved, or cleared for marketing, by the Food and Drug Administration; and
 
-“(2) to provide defibrillator and basic life support training in automated external defibrillator usage through the American Heart Association, the American Red Cross, or other nationally recognized training courses.
+"(2) to provide defibrillator and basic life support training in automated external defibrillator usage through the American Heart Association, the American Red Cross, or other nationally recognized training courses.
 
-“(d) Report.—Not later than 4 years after the date of the enactment of this Act [Nov. 13, 2000], the Secretary of Health and Human Services shall prepare and submit to the appropriate committees of Congress a report containing data relating to whether the increased availability of defibrillators has affected survival rates in the communities in which grantees under this section operated. The procedures under which the Secretary obtains data and prepares the report under this subsection shall not impose an undue burden on program participants under this section.
+"(d) Report.—Not later than 4 years after the date of the enactment of this Act [Nov. 13, 2000], the Secretary of Health and Human Services shall prepare and submit to the appropriate committees of Congress a report containing data relating to whether the increased availability of defibrillators has affected survival rates in the communities in which grantees under this section operated. The procedures under which the Secretary obtains data and prepares the report under this subsection shall not impose an undue burden on program participants under this section.
 
-“(e) Authorization of Appropriations.—There is authorized to be appropriated $25,000,000 for fiscal years 2001 through 2003 to carry out this section.”
+"(e) Authorization of Appropriations.—There is authorized to be appropriated $25,000,000 for fiscal years 2001 through 2003 to carry out this section."
 
 #### Report on Telemedicine ####
 
-Pub. L. 106–129, §6, Dec. 6, 1999, 113 Stat. 1675, provided that: “Not later than January 10, 2001, the Secretary of Health and Human Services shall submit to the Congress a report that—
+Pub. L. 106–129, §6, Dec. 6, 1999, 113 Stat. 1675, provided that: "Not later than January 10, 2001, the Secretary of Health and Human Services shall submit to the Congress a report that—
 
-“(1) identifies any factors that inhibit the expansion and accessibility of telemedicine services, including factors relating to telemedicine networks;
+"(1) identifies any factors that inhibit the expansion and accessibility of telemedicine services, including factors relating to telemedicine networks;
 
-“(2) identifies any factors that, in addition to geographical isolation, should be used to determine which patients need or require access to telemedicine care;
+"(2) identifies any factors that, in addition to geographical isolation, should be used to determine which patients need or require access to telemedicine care;
 
-“(3) determines the extent to which—
+"(3) determines the extent to which—
 
-“(A) patients receiving telemedicine service have benefited from the services, and are satisfied with the treatment received pursuant to the services; and
+"(A) patients receiving telemedicine service have benefited from the services, and are satisfied with the treatment received pursuant to the services; and
 
-“(B) the medical outcomes for such patients would have differed if telemedicine services had not been available to the patients;
+"(B) the medical outcomes for such patients would have differed if telemedicine services had not been available to the patients;
 
-“(4) determines the extent to which physicians involved with telemedicine services have been satisfied with the medical aspects of the services;
+"(4) determines the extent to which physicians involved with telemedicine services have been satisfied with the medical aspects of the services;
 
-“(5) determines the extent to which primary care physicians are enhancing their medical knowledge and experience through the interaction with specialists provided by telemedicine consultations; and
+"(5) determines the extent to which primary care physicians are enhancing their medical knowledge and experience through the interaction with specialists provided by telemedicine consultations; and
 
-“(6) identifies legal and medical issues relating to State licensing of health professionals that are presented by telemedicine services, and provides any recommendations of the Secretary for responding to such issues.”
+"(6) identifies legal and medical issues relating to State licensing of health professionals that are presented by telemedicine services, and provides any recommendations of the Secretary for responding to such issues."

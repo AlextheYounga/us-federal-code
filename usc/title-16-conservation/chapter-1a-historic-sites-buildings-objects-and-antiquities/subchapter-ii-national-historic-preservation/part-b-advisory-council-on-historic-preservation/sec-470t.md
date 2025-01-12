@@ -12,13 +12,13 @@ Whenever the Council submits any budget estimate or request to the President or 
 
 #### Amendments ####
 
-**2006**—Subsec. (a). Pub. L. 109–453, which directed amendment of subsec. (a) by substituting “such amounts as may be necessary to carry out this part” for “for purposes of this part not to exceed $4,000,000 for each fiscal year 1997 through 2005”, was executed by making the substitution for “for the purposes of this part not to exceed $4,000,000 in each fiscal year 1997 through 2005” to reflect the probable intent of Congress.
+**2006**—Subsec. (a). Pub. L. 109–453, which directed amendment of subsec. (a) by substituting "such amounts as may be necessary to carry out this part" for "for purposes of this part not to exceed $4,000,000 for each fiscal year 1997 through 2005", was executed by making the substitution for "for the purposes of this part not to exceed $4,000,000 in each fiscal year 1997 through 2005" to reflect the probable intent of Congress.
 
-**2000**—Subsec. (a). Pub. L. 106–208 substituted “2005” for “2000”.
+**2000**—Subsec. (a). Pub. L. 106–208 substituted "2005" for "2000".
 
-**1996**—Subsec. (a). Pub. L. 104–333 amended last sentence generally. Prior to amendment, last sentence read as follows: “There are authorized to be appropriated for purposes of this part not to exceed $5,000,000 for each of the fiscal years 1993 through 1996.”
+**1996**—Subsec. (a). Pub. L. 104–333 amended last sentence generally. Prior to amendment, last sentence read as follows: "There are authorized to be appropriated for purposes of this part not to exceed $5,000,000 for each of the fiscal years 1993 through 1996."
 
-**1994**—Subsec. (b). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+**1994**—Subsec. (b). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
 
 **1992**—Subsec. (a). Pub. L. 102–575 substituted provision authorizing appropriations for purposes of this part of not to exceed $5,000,000 for each of fiscal years 1993 through 1996 for provision authorizing appropriations of not to exceed $2,500,000 in each fiscal year 1990 through 1994.
 
@@ -26,10 +26,10 @@ Whenever the Council submits any budget estimate or request to the President or 
 
 **1984**—Subsec. (a). Pub. L. 98–483 substituted provision authorizing appropriations of not more than $2,500,000 for each of the fiscal years 1985 through 1989 for provision authorizing appropriations of not more than $1,500,000 to $2,250,000 in increments of $250,000 for fiscal years 1977 through 1980, and not more than $2,500,000 for each of the fiscal years 1981 through 1983.
 
-**1980**—Subsec. (a). Pub. L. 96–244 inserted “$2,500,000 in the fiscal year 1981, $2,500,000 in fiscal year 1982, and $2,500,000 in fiscal year 1983” after “in fiscal year 1980”.
+**1980**—Subsec. (a). Pub. L. 96–244 inserted "$2,500,000 in the fiscal year 1981, $2,500,000 in fiscal year 1982, and $2,500,000 in fiscal year 1983" after "in fiscal year 1980".
 
-Subsec. (b). Pub. L. 96–515 substituted “Senate Committee on Energy and Natural Resources” for “Senate Committee on Interior and Insular Affairs”, which amendment is identical to the amendment by section 608(a)(3) of Pub. L. 96–205, thereby requiring no change in text.
+Subsec. (b). Pub. L. 96–515 substituted "Senate Committee on Energy and Natural Resources" for "Senate Committee on Interior and Insular Affairs", which amendment is identical to the amendment by section 608(a)(3) of Pub. L. 96–205, thereby requiring no change in text.
 
-Pub. L. 96–205 substituted “Energy and Natural Resources” for “Interior and Insular Affairs”.
+Pub. L. 96–205 substituted "Energy and Natural Resources" for "Interior and Insular Affairs".
 
 **1978**—Subsec. (a). Pub. L. 95–625 authorized appropriation of $2,250,000 in fiscal year 1980.

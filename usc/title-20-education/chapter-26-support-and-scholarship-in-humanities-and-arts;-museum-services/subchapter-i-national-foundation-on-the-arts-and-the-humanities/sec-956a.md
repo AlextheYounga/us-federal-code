@@ -20,36 +20,36 @@ Section was not enacted as part of the National Foundation on the Arts and the H
 
 #### Amendments ####
 
-**2011**—Pub. L. 112–74 substituted “Each eligible organization must have its principal place of business in the District of Columbia and in a facility or facilities located in the District of Columbia.” for “The following organizations are deemed eligible to receive grants under this section: Folger Theater, Corcoran Gallery of Art, Phillips Gallery, Arena Stage, the National Building Museum, the National Children's Museum, the National Symphony Orchestra, the National Opera, and Ford's Theater.” in second par. and struck out “in addition to those herein named” at end of third par.
+**2011**—Pub. L. 112–74 substituted "Each eligible organization must have its principal place of business in the District of Columbia and in a facility or facilities located in the District of Columbia." for "The following organizations are deemed eligible to receive grants under this section: Folger Theater, Corcoran Gallery of Art, Phillips Gallery, Arena Stage, the National Building Museum, the National Children's Museum, the National Symphony Orchestra, the National Opera, and Ford's Theater." in second par. and struck out "in addition to those herein named" at end of third par.
 
-**2009**—Pub. L. 111–88 substituted “$10,000,000” for “$7,500,000” in first par. and “$650,000” for “$500,000” in fourth par.
+**2009**—Pub. L. 111–88 substituted "$10,000,000" for "$7,500,000" in first par. and "$650,000" for "$500,000" in fourth par.
 
-**2003**—Pub. L. 108–81 substituted “National Children's Museum” for “National Capital Children's Museum” in second par.
+**2003**—Pub. L. 108–81 substituted "National Children's Museum" for "National Capital Children's Museum" in second par.
 
-**2000**—Pub. L. 106–219 substituted “National Opera” for “Washington Opera Society” in second par.
+**2000**—Pub. L. 106–219 substituted "National Opera" for "Washington Opera Society" in second par.
 
-**1989**—Pub. L. 101–121 substituted “$7,500,000” for “$5,000,000” in first par.
+**1989**—Pub. L. 101–121 substituted "$7,500,000" for "$5,000,000" in first par.
 
-**1987**—Pub. L. 100–202 substituted “direction of the Commission of Fine Arts” for “direction of the National Endowment for the Humanities” in first par. and amended third par. generally. Prior to amendment, third par. read as follows: “The Chairman of the National Endowment for the Humanities shall establish an application process and shall, along with the Chairman of the National Endowment for the Arts and the Chairman of the Commission on Fine Arts determine the eligibility of applicant organizations in addition to those herein named.”
+**1987**—Pub. L. 100–202 substituted "direction of the Commission of Fine Arts" for "direction of the National Endowment for the Humanities" in first par. and amended third par. generally. Prior to amendment, third par. read as follows: "The Chairman of the National Endowment for the Humanities shall establish an application process and shall, along with the Chairman of the National Endowment for the Arts and the Chairman of the Commission on Fine Arts determine the eligibility of applicant organizations in addition to those herein named."
 
-**1986**—Pub. L. 99–500 and Pub. L. 99–591 substituted “whose primary purpose is” for “which are engaged primarily in” in first par. and “annual income, exclusive of Federal Funds,” for “an annual operating budget”, “operating budget”, and “operating budgets” in third and fourth pars.
+**1986**—Pub. L. 99–500 and Pub. L. 99–591 substituted "whose primary purpose is" for "which are engaged primarily in" in first par. and "annual income, exclusive of Federal Funds," for "an annual operating budget", "operating budget", and "operating budgets" in third and fourth pars.
 
 #### Redesignation of Capital Children's Museum as National Children's Museum ####
 
 Pub. L. 108–81, title V, §502, Sept. 25, 2003, 117 Stat. 1003, provided that:
 
-“(a) Designation.—The Capital Children's Museum located at 800 Third Street, NE, Washington, D.C. (or any successor location), organized under the laws of the District of Columbia, is designated as the ‘National Children's Museum’.
+"(a) Designation.—The Capital Children's Museum located at 800 Third Street, NE, Washington, D.C. (or any successor location), organized under the laws of the District of Columbia, is designated as the 'National Children's Museum'.
 
-“(b) References.—Any reference in a law, map, regulation, document, paper, or other record of the United States to the Capital Children's Museum referred to in subsection (a) shall be deemed to be a reference to the ‘National Children's Museum’.”
+"(b) References.—Any reference in a law, map, regulation, document, paper, or other record of the United States to the Capital Children's Museum referred to in subsection (a) shall be deemed to be a reference to the 'National Children's Museum'."
 
 #### Redesignation of Washington Opera as National Opera ####
 
 Pub. L. 106–219, June 20, 2000, 114 Stat. 346, provided that:
 
-#### “SECTION 1. DESIGNATION. ####
+#### "SECTION 1. DESIGNATION. ####
 
-“The Washington Opera, organized under the laws of the District of Columbia, is designated as the ‘National Opera’.
+"The Washington Opera, organized under the laws of the District of Columbia, is designated as the 'National Opera'.
 
-#### “SEC. 2. REFERENCES. ####
+#### "SEC. 2. REFERENCES. ####
 
-“Any reference in a law, map, regulation, document, paper or other record of the United States to the Washington Opera referred to in section 1 shall be deemed to be a reference to the ‘National Opera’.”
+"Any reference in a law, map, regulation, document, paper or other record of the United States to the Washington Opera referred to in section 1 shall be deemed to be a reference to the 'National Opera'."

@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-The Secretary, in consultation with the Secretary of Homeland Security, shall establish an advisory committee to be known as the “National Advisory Committee on Children and Disasters” (referred to in this section as the “Advisory Committee”).
+The Secretary, in consultation with the Secretary of Homeland Security, shall establish an advisory committee to be known as the "National Advisory Committee on Children and Disasters" (referred to in this section as the "Advisory Committee").
 
 #### (b) Duties ####
 

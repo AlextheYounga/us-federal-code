@@ -2,11 +2,11 @@
 
 #### (a) Definition ####
 
-In this section, the term “clinically susceptible concentrations” means specific values which characterize bacteria as clinically susceptible, intermediate, or resistant to the drug (or drugs) tested.
+In this section, the term "clinically susceptible concentrations" means specific values which characterize bacteria as clinically susceptible, intermediate, or resistant to the drug (or drugs) tested.
 
 #### (b) Identification ####
 
-The Secretary of Health and Human Services (referred to in this section as the “Secretary”), through the Commissioner of Food and Drugs, shall identify (where such information is reasonably available) and periodically update clinically susceptible concentrations.
+The Secretary of Health and Human Services (referred to in this section as the "Secretary"), through the Commissioner of Food and Drugs, shall identify (where such information is reasonably available) and periodically update clinically susceptible concentrations.
 
 #### (c) Public availability ####
 

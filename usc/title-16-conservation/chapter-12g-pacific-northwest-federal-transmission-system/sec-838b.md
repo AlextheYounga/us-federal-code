@@ -14,4 +14,4 @@ The Secretary of Energy, acting by and through the Administrator, shall operate 
 
 #### Transfer of Functions ####
 
-“Secretary of Energy” substituted in text for “Secretary of the Interior” pursuant to Pub. L. 95–91, §302(a)(1)(D), which is classified to section 7152(a)(1)(D) of Title 42, The Public Health and Welfare.
+"Secretary of Energy" substituted in text for "Secretary of the Interior" pursuant to Pub. L. 95–91, §302(a)(1)(D), which is classified to section 7152(a)(1)(D) of Title 42, The Public Health and Welfare.

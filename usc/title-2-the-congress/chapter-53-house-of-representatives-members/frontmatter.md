@@ -4,7 +4,7 @@
 
 Sec.
 
-5301. Representatives’ and Delegates’ salaries payable monthly.
+5301. Representatives' and Delegates' salaries payable monthly.
 
 5302. Salaries payable monthly after taking oath.
 
@@ -36,7 +36,7 @@ Sec.
 
 5325. Performance of duties by clerical assistants of dead or resigned Member of House.
 
-5326. “Member of the House” defined.
+5326. "Member of the House" defined.
 
 5327. Termination of service of Members of House.
 
@@ -54,6 +54,6 @@ Sec.
 
 5344. Payments and reimbursements for certain House staff expenses.
 
-5345. Annotated United States Code for Members of House of Representatives to be paid for from Members’ Representational Allowance.
+5345. Annotated United States Code for Members of House of Representatives to be paid for from Members' Representational Allowance.
 
 5346. Transportation of official records and papers to House Member's district.

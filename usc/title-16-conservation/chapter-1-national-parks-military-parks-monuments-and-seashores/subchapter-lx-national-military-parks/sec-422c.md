@@ -6,7 +6,7 @@ It shall be lawful for any State that had troops engaged in the battle of the Mo
 
 #### Change of Name ####
 
-“Battlefield” substituted in text for “Military Park” on authority of Pub. L. 96–344, §12, Sept. 8, 1980, 94 Stat. 1136, which redesignated Moores Creek National Military Park as Moores Creek National Battlefield.
+"Battlefield" substituted in text for "Military Park" on authority of Pub. L. 96–344, §12, Sept. 8, 1980, 94 Stat. 1136, which redesignated Moores Creek National Military Park as Moores Creek National Battlefield.
 
 #### Transfer of Functions ####
 

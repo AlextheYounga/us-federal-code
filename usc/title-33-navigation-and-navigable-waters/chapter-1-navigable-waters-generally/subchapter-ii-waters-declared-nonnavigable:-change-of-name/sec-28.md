@@ -10,6 +10,6 @@ Act July 27, 1916, chapter 260, referred to in text, is act July 27, 1916, ch. 2
 
 #### Codification ####
 
-Section is from a provision of section 1 of act July 27, 1916, popularly known as the “Rivers and Harbors Appropriation Act of 1916”.
+Section is from a provision of section 1 of act July 27, 1916, popularly known as the "Rivers and Harbors Appropriation Act of 1916".
 
 The portion of that section authorizing the changing, diverting, and straightening of the channel of the river has been omitted as temporary and executed.

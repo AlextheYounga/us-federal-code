@@ -2,7 +2,7 @@
 
 #### (a) New clean renewable energy bond ####
 
-For purposes of this subpart, the term “new clean renewable energy bond” means any bond issued as part of an issue if—
+For purposes of this subpart, the term "new clean renewable energy bond" means any bond issued as part of an issue if—
 
 (1) 100 percent of the available project proceeds of such issue are to be used for capital expenditures incurred by governmental bodies, public power providers, or cooperative electric companies for one or more qualified renewable energy facilities,
 
@@ -50,27 +50,27 @@ For purposes of this section—
 
 #### (1) Qualified renewable energy facility ####
 
-The term “qualified renewable energy facility” means a qualified facility (as determined under section 45(d) without regard to paragraphs (8) and (10) thereof and to any placed in service date) owned by a public power provider, a governmental body, or a cooperative electric company.
+The term "qualified renewable energy facility" means a qualified facility (as determined under section 45(d) without regard to paragraphs (8) and (10) thereof and to any placed in service date) owned by a public power provider, a governmental body, or a cooperative electric company.
 
 #### (2) Public power provider ####
 
-The term “public power provider” means a State utility with a service obligation, as such terms are defined in section 217 of the Federal Power Act (as in effect on the date of the enactment of this paragraph).
+The term "public power provider" means a State utility with a service obligation, as such terms are defined in section 217 of the Federal Power Act (as in effect on the date of the enactment of this paragraph).
 
 #### (3) Governmental body ####
 
-The term “governmental body” means any State or Indian tribal government, or any political subdivision thereof.
+The term "governmental body" means any State or Indian tribal government, or any political subdivision thereof.
 
 #### (4) Cooperative electric company ####
 
-The term “cooperative electric company” means a mutual or cooperative electric company described in section 501(c)(12) or section 1381(a)(2)(C).
+The term "cooperative electric company" means a mutual or cooperative electric company described in section 501(c)(12) or section 1381(a)(2)(C).
 
 #### (5) Clean renewable energy bond lender ####
 
-The term “clean renewable energy bond lender” means a lender which is a cooperative which is owned by, or has outstanding loans to, 100 or more cooperative electric companies and is in existence on February 1, 2002, and shall include any affiliated entity which is controlled by such lender.
+The term "clean renewable energy bond lender" means a lender which is a cooperative which is owned by, or has outstanding loans to, 100 or more cooperative electric companies and is in existence on February 1, 2002, and shall include any affiliated entity which is controlled by such lender.
 
 #### (6) Qualified issuer ####
 
-The term “qualified issuer” means a public power provider, a cooperative electric company, a governmental body, a clean renewable energy bond lender, or a not-for-profit electric utility which has received a loan or loan guarantee under the Rural Electrification Act.
+The term "qualified issuer" means a public power provider, a cooperative electric company, a governmental body, a clean renewable energy bond lender, or a not-for-profit electric utility which has received a loan or loan guarantee under the Rural Electrification Act.
 
 (Added Pub. L. 110–343, div. B, title I, §107(a), Oct. 3, 2008, 122 Stat. 3817; amended Pub. L. 111–5, div. B, title I, §1111, Feb. 17, 2009, 123 Stat. 322.)
 
@@ -92,14 +92,14 @@ Section applicable to obligations issued after Oct. 3, 2008, see section 107(d) 
 
 #### Application of Certain Labor Standards to Projects Financed With Certain Tax-Favored Bonds ####
 
-Pub. L. 111–5, div. B, title I, §1601, Feb. 17, 2009, 123 Stat. 362, provided that: “Subchapter IV of chapter 31 of the [sic] title 40, United States Code, shall apply to projects financed with the proceeds of—
+Pub. L. 111–5, div. B, title I, §1601, Feb. 17, 2009, 123 Stat. 362, provided that: "Subchapter IV of chapter 31 of the [sic] title 40, United States Code, shall apply to projects financed with the proceeds of—
 
-“(1) any new clean renewable energy bond (as defined in section 54C of the Internal Revenue Code of 1986) issued after the date of the enactment of this Act [Feb. 17, 2009],
+"(1) any new clean renewable energy bond (as defined in section 54C of the Internal Revenue Code of 1986) issued after the date of the enactment of this Act [Feb. 17, 2009],
 
-“(2) any qualified energy conservation bond (as defined in section 54D of the Internal Revenue Code of 1986) issued after the date of the enactment of this Act,
+"(2) any qualified energy conservation bond (as defined in section 54D of the Internal Revenue Code of 1986) issued after the date of the enactment of this Act,
 
-“(3) any qualified zone academy bond (as defined in section 54E of the Internal Revenue Code of 1986) issued after the date of the enactment of this Act,
+"(3) any qualified zone academy bond (as defined in section 54E of the Internal Revenue Code of 1986) issued after the date of the enactment of this Act,
 
-“(4) any qualified school construction bond (as defined in section 54F of the Internal Revenue Code of 1986), and
+"(4) any qualified school construction bond (as defined in section 54F of the Internal Revenue Code of 1986), and
 
-“(5) any recovery zone economic development bond (as defined in section 1400U–2 of the Internal Revenue Code of 1986).”
+"(5) any recovery zone economic development bond (as defined in section 1400U–2 of the Internal Revenue Code of 1986)."

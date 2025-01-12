@@ -28,71 +28,71 @@
 
 #### Amendments ####
 
-**2013**—Subsec. (a)(1). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+**2013**—Subsec. (a)(1). Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-**2011**—Subsec. (a)(1). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+**2011**—Subsec. (a)(1). Pub. L. 112–81 substituted "December 31, 2012" for "December 31, 2011".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
-**2009**—Subsec. (a)(1). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+**2009**—Subsec. (a)(1). Pub. L. 111–84 substituted "December 31, 2010" for "December 31, 2009".
 
-**2008**—Subsec. (a)(1). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+**2008**—Subsec. (a)(1). Pub. L. 110–417 substituted "December 31, 2009" for "December 31, 2008".
 
-Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
+Pub. L. 110–181 substituted "December 31, 2008" for "December 31, 2007".
 
-**2006**—Subsec. (a)(1). Pub. L. 109–364 substituted “December 31, 2007” for “December 31, 2006”.
+**2006**—Subsec. (a)(1). Pub. L. 109–364 substituted "December 31, 2007" for "December 31, 2006".
 
-Pub. L. 109–163, §622(d), substituted “December 31, 2006” for “December 31, 2005”.
+Pub. L. 109–163, §622(d), substituted "December 31, 2006" for "December 31, 2005".
 
-Subsec. (c). Pub. L. 109–163, §687(b)(8)(A), substituted “If such entitlement is terminated, the officer concerned shall be subject to the repayment provisions of section 303a(e) of this title.” for “The officer may be required to refund that part of the special pay corresponding to the unserved period of active duty.”
+Subsec. (c). Pub. L. 109–163, §687(b)(8)(A), substituted "If such entitlement is terminated, the officer concerned shall be subject to the repayment provisions of section 303a(e) of this title." for "The officer may be required to refund that part of the special pay corresponding to the unserved period of active duty."
 
 Subsec. (e). Pub. L. 109–163, §687(b)(8)(B), amended heading and text of subsec. (e) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when officer fails to complete total period of active duty.
 
-**2004**—Subsec. (a)(1). Pub. L. 108–375 substituted “December 31, 2005” for “December 31, 2004”.
+**2004**—Subsec. (a)(1). Pub. L. 108–375 substituted "December 31, 2005" for "December 31, 2004".
 
-**2003**—Subsec. (a)(1). Pub. L. 108–136 substituted “December 31, 2004” for “December 31, 2003”.
+**2003**—Subsec. (a)(1). Pub. L. 108–136 substituted "December 31, 2004" for "December 31, 2003".
 
-**2002**—Subsec. (a)(1). Pub. L. 107–314, §615(f), substituted “$50,000” for “$15,000”.
+**2002**—Subsec. (a)(1). Pub. L. 107–314, §615(f), substituted "$50,000" for "$15,000".
 
-Pub. L. 107–314, §612(d), substituted “December 31, 2003” for “December 31, 2002”.
+Pub. L. 107–314, §612(d), substituted "December 31, 2003" for "December 31, 2002".
 
-**2001**—Subsec. (a)(1). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
+**2001**—Subsec. (a)(1). Pub. L. 107–107 substituted "December 31, 2002" for "December 31, 2001".
 
-**2000**—Subsec. (a)(1). Pub. L. 106–398, §1 [[div. A], title VI, §622(c)], substituted “December 31, 2001” for “December 31, 2000”.
+**2000**—Subsec. (a)(1). Pub. L. 106–398, §1 [[div. A], title VI, §622(c)], substituted "December 31, 2001" for "December 31, 2000".
 
-Subsec. (b)(2)(A). Pub. L. 106–398, §1 [[div. A], title VI, §626(b)(1)], substituted “the Secretary of the military department concerned” for “the Secretary”.
+Subsec. (b)(2)(A). Pub. L. 106–398, §1 [[div. A], title VI, §626(b)(1)], substituted "the Secretary of the military department concerned" for "the Secretary".
 
-**1999**—Subsec. (a)(1). Pub. L. 106–65 substituted “December 31, 2000” for “December 31, 1999”.
+**1999**—Subsec. (a)(1). Pub. L. 106–65 substituted "December 31, 2000" for "December 31, 1999".
 
-**1998**—Subsec. (a)(1). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
+**1998**—Subsec. (a)(1). Pub. L. 105–261 substituted "December 31, 1999" for "September 30, 1999".
 
-**1997**—Subsec. (a)(1). Pub. L. 105–85 substituted “September 30, 1999” for “September 30, 1998”.
+**1997**—Subsec. (a)(1). Pub. L. 105–85 substituted "September 30, 1999" for "September 30, 1998".
 
-**1996**—Subsec. (a)(1). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
+**1996**—Subsec. (a)(1). Pub. L. 104–201 substituted "September 30, 1998" for "September 30, 1997".
 
-Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996”.
+Pub. L. 104–106 substituted "September 30, 1997" for "September 30, 1996".
 
-**1994**—Subsec. (a)(1). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995” and “$15,000” for “$6,000”.
+**1994**—Subsec. (a)(1). Pub. L. 103–337 substituted "September 30, 1996" for "September 30, 1995" and "$15,000" for "$6,000".
 
-**1993**—Subsec. (a)(1). Pub. L. 103–160 substituted “September 30, 1995” for “September 30, 1993”.
+**1993**—Subsec. (a)(1). Pub. L. 103–160 substituted "September 30, 1995" for "September 30, 1993".
 
-**1992**—Subsec. (a)(1). Pub. L. 102–484 substituted “September 30, 1993” for “September 30, 1992”.
+**1992**—Subsec. (a)(1). Pub. L. 102–484 substituted "September 30, 1993" for "September 30, 1992".
 
 **1991**—Pub. L. 102–25, §702(a)(2)(B), amended section catchline generally.
 
-Subsec. (d). Pub. L. 102–25, §702(b)(1), (c), struck out “of this section” after “subsection (a)”.
+Subsec. (d). Pub. L. 102–25, §702(b)(1), (c), struck out "of this section" after "subsection (a)".
 
-**1990**—Pub. L. 101–510, §618(c)(1), directed that section catchline be amended to read “§302c. Special pay: psychologists and nonphysician health care providers”.
+**1990**—Pub. L. 101–510, §618(c)(1), directed that section catchline be amended to read "§302c. Special pay: psychologists and nonphysician health care providers".
 
-Subsec. (a)(1). Pub. L. 101–510, §1484(d)(3)(A), substituted “November 29, 1989,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Years 1990 and 1991”.
+Subsec. (a)(1). Pub. L. 101–510, §1484(d)(3)(A), substituted "November 29, 1989," for "the date of the enactment of the National Defense Authorization Act for Fiscal Years 1990 and 1991".
 
-Pub. L. 101–510, §614(b), substituted “subsection (b)(1)” for “subsection (b)”.
+Pub. L. 101–510, §614(b), substituted "subsection (b)(1)" for "subsection (b)".
 
-Pub. L. 101–510, §613(b), substituted “September 30, 1992,” for “September 30, 1991,”.
+Pub. L. 101–510, §613(b), substituted "September 30, 1992," for "September 30, 1991,".
 
 Subsec. (b). Pub. L. 101–510, §614(a), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
 
-Subsec. (e)(3). Pub. L. 101–510, §1484(d)(3)(B), substituted “November 29, 1989” for “the date of the enactment of the National Defense Authorization Act for Fiscal Years 1990 and 1991”.
+Subsec. (e)(3). Pub. L. 101–510, §1484(d)(3)(B), substituted "November 29, 1989" for "the date of the enactment of the National Defense Authorization Act for Fiscal Years 1990 and 1991".
 
 #### Effective Date of 2008 Amendment ####
 

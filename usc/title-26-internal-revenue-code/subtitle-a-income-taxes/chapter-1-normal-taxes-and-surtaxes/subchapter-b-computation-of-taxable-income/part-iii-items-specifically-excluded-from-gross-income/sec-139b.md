@@ -22,13 +22,13 @@ For purposes of this section—
 
 #### (1) Qualified State and local tax benefit ####
 
-The term “qualified state and local tax benefit” means any reduction or rebate of a tax described in paragraph (1), (2), or (3) of section 164(a) provided by a State or political division thereof on account of services performed as a member of a qualified volunteer emergency response organization.
+The term "qualified state and local tax benefit" means any reduction or rebate of a tax described in paragraph (1), (2), or (3) of section 164(a) provided by a State or political division thereof on account of services performed as a member of a qualified volunteer emergency response organization.
 
 #### (2) Qualified payment ####
 
 #### (A) In general ####
 
-The term “qualified payment” means any payment (whether reimbursement or otherwise) provided by a State or political division thereof on account of the performance of services as a member of a qualified volunteer emergency response organization.
+The term "qualified payment" means any payment (whether reimbursement or otherwise) provided by a State or political division thereof on account of the performance of services as a member of a qualified volunteer emergency response organization.
 
 #### (B) Applicable dollar limitation ####
 
@@ -36,7 +36,7 @@ The amount determined under subparagraph (A) for any taxable year shall not exce
 
 #### (3) Qualified volunteer emergency response organization ####
 
-The term “qualified volunteer emergency response organization” means any volunteer organization—
+The term "qualified volunteer emergency response organization" means any volunteer organization—
 
 (A) which is organized and operated to provide firefighting or emergency medical services for persons in the State or political subdivision, as the case may be, and
 
@@ -50,4 +50,4 @@ This section shall not apply with respect to taxable years beginning after Decem
 
 #### Effective Date ####
 
-Pub. L. 110–142, §5(c), Dec. 20, 2007, 121 Stat. 1806, provided that: “The amendments made by this section [enacting this section] shall apply to taxable years beginning after December 31, 2007.”
+Pub. L. 110–142, §5(c), Dec. 20, 2007, 121 Stat. 1806, provided that: "The amendments made by this section [enacting this section] shall apply to taxable years beginning after December 31, 2007."

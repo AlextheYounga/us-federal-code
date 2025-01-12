@@ -6,11 +6,11 @@ The property acquired under the provisions of section 450bb of this title shall 
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–307 substituted “Secretary” for “Secretary of the Interior” in second sentence.
+**2004**—Pub. L. 108–307 substituted "Secretary" for "Secretary of the Interior" in second sentence.
 
 #### Change of Name ####
 
-Words “national historical park” substituted in text for “national monument” in view of redesignation of Harpers Ferry National Monument as Harpers Ferry National Historical Park by Pub. L. 88–33, classified to section 450bb–6 of this title.
+Words "national historical park" substituted in text for "national monument" in view of redesignation of Harpers Ferry National Monument as Harpers Ferry National Historical Park by Pub. L. 88–33, classified to section 450bb–6 of this title.
 
 #### Transfer of Functions ####
 

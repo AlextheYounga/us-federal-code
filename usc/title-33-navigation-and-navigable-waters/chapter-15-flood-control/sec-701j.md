@@ -10,11 +10,11 @@ Herein, referred to in text, means act June 28, 1938, ch. 795, 52 Stat. 1215, as
 
 #### Change of Name ####
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
 #### Transfer of Functions ####
 
-“Secretary of Energy” substituted in text for “Federal Power Commission” on authority of Pub. L. 95–91, title III, §301(b), which is classified to section 7151(b) of Title 42, The Public Health and Welfare.
+"Secretary of Energy" substituted in text for "Federal Power Commission" on authority of Pub. L. 95–91, title III, §301(b), which is classified to section 7151(b) of Title 42, The Public Health and Welfare.
 
 For transfer of functions of Federal Power Commission, with certain reservations, to chairman of such Commission, see Reorg. Plan No. 9 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in the Appendix to Title 5, Government Organization and Employees.
 

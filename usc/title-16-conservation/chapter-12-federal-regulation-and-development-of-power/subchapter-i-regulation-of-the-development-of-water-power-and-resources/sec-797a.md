@@ -6,7 +6,7 @@ On and after March 3, 1921, no permit, license, lease, or authorization for dams
 
 #### Codification ####
 
-Provisions repealing so much of this chapter “as authorizes licensing such uses of existing national parks and national monuments by the Federal Power Commission” have been omitted.
+Provisions repealing so much of this chapter "as authorizes licensing such uses of existing national parks and national monuments by the Federal Power Commission" have been omitted.
 
 Section was not enacted as part of the Federal Power Act which generally comprises this chapter.
 

@@ -34,7 +34,7 @@ The Secretary shall (for fiscal years 2003 and 2004) and may (for fiscal years t
 
 #### (2) Eligible individuals ####
 
-In this subsection, the term “eligible individual” means an individual who is enrolled or accepted for enrollment as a full-time or part-time student in a school of nursing.
+In this subsection, the term "eligible individual" means an individual who is enrolled or accepted for enrollment as a full-time or part-time student in a school of nursing.
 
 #### (3) Service requirement ####
 
@@ -68,7 +68,7 @@ The Secretary may make payments under subsection (a) of this section on behalf o
 
 In the case of any program under this section under which an individual makes an agreement to provide health services for a period of time in accordance with such program in consideration of receiving an award of Federal funds regarding education as a nurse (including an award for the repayment of loans), the following applies if the agreement provides that this subsection is applicable:
 
-(A) In the case of a program under this section that makes an award of Federal funds for attending an accredited program of nursing (in this section referred to as a “nursing program”), the individual is liable to the Federal Government for the amount of such award (including amounts provided for expenses related to such attendance), and for interest on such amount at the maximum legal prevailing rate, if the individual—
+(A) In the case of a program under this section that makes an award of Federal funds for attending an accredited program of nursing (in this section referred to as a "nursing program"), the individual is liable to the Federal Government for the amount of such award (including amounts provided for expenses related to such attendance), and for interest on such amount at the maximum legal prevailing rate, if the individual—
 
 (i) fails to maintain an acceptable level of academic standing in the nursing program (as indicated by the program in accordance with requirements established by the Secretary);
 
@@ -130,7 +130,7 @@ Of the amounts appropriated under paragraph (1), the Secretary may, as determine
 
 #### References in Text ####
 
-Subpart II, referred to in subsec. (a)(2), probably should be “this part” to reflect the redesignation of subpart II of former part B of this subchapter as part E of this subchapter by Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562.
+Subpart II, referred to in subsec. (a)(2), probably should be "this part" to reflect the redesignation of subpart II of former part B of this subchapter as part E of this subchapter by Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562.
 
 Section 298b–7(c) of this title, referred to in subsec. (f), was repealed by Pub. L. 105–392, title I, §123(1), Nov. 13, 1998, 112 Stat. 3562.
 
@@ -142,37 +142,37 @@ A prior section 846 of act July 1, 1944, was classified to section 297k of this 
 
 #### Amendments ####
 
-**2010**—Subsec. (a)(3). Pub. L. 111–148 inserted “, or in a accredited school of nursing, as defined by section 296(2) of this title, as nurse faculty” before semicolon at end.
+**2010**—Subsec. (a)(3). Pub. L. 111–148 inserted ", or in a accredited school of nursing, as defined by section 296(2) of this title, as nurse faculty" before semicolon at end.
 
-**2002**—Pub. L. 107–205, §103(b)(1), substituted “Loan repayment and scholarship programs” for “Loan repayment program” in section catchline.
+**2002**—Pub. L. 107–205, §103(b)(1), substituted "Loan repayment and scholarship programs" for "Loan repayment program" in section catchline.
 
-Subsec. (a). Pub. L. 107–205, §103(a)(2), inserted at end of concluding provisions “After fiscal year 2007, the Secretary may not, pursuant to any agreement entered into under this subsection, assign a nurse to any private entity unless that entity is nonprofit.”
+Subsec. (a). Pub. L. 107–205, §103(a)(2), inserted at end of concluding provisions "After fiscal year 2007, the Secretary may not, pursuant to any agreement entered into under this subsection, assign a nurse to any private entity unless that entity is nonprofit."
 
-Subsec. (a)(3). Pub. L. 107–205, §103(a)(1), substituted “at a health care facility with a critical shortage of nurses” for “in an Indian Health Service health center, in a Native Hawaiian health center, in a public hospital, in a migrant health center, in a community health center, in a rural health clinic, or in a public or nonprofit private health facility determined by the Secretary to have a critical shortage of nurses”.
+Subsec. (a)(3). Pub. L. 107–205, §103(a)(1), substituted "at a health care facility with a critical shortage of nurses" for "in an Indian Health Service health center, in a Native Hawaiian health center, in a public hospital, in a migrant health center, in a community health center, in a rural health clinic, or in a public or nonprofit private health facility determined by the Secretary to have a critical shortage of nurses".
 
 Subsec. (d). Pub. L. 107–205, §103(b)(4), added subsec. (d). Former subsec. (d) redesignated (f).
 
-Subsec. (e). Pub. L. 107–205, §103(c), substituted “under subsection (a) or (d) of this section, the Secretary shall give preference to qualified applicants with the greatest financial need.” for “under subsection (a) of this section, the Secretary shall give preference—
+Subsec. (e). Pub. L. 107–205, §103(c), substituted "under subsection (a) or (d) of this section, the Secretary shall give preference to qualified applicants with the greatest financial need." for "under subsection (a) of this section, the Secretary shall give preference—
 
-“(1) to qualified applicants with the greatest financial need; and
+"(1) to qualified applicants with the greatest financial need; and
 
-“(2) to qualified applicants that, with respect to health facilities described in such subsection, agree to serve in such health facilities located in geographic areas with a shortage of and need for nurses, as determined by the Secretary.”
+"(2) to qualified applicants that, with respect to health facilities described in such subsection, agree to serve in such health facilities located in geographic areas with a shortage of and need for nurses, as determined by the Secretary."
 
 Subsec. (f). Pub. L. 107–205, §103(b)(2), (3), redesignated subsec. (d) as (f) and transferred it to appear after subsec. (e). Former subsec. (f) redesignated (h).
 
 Subsec. (g). Pub. L. 107–205, §103(b)(2), (3), redesignated subsec. (h) as (g) and transferred it to appear after subsec. (f). Former subsec. (g) redesignated (i).
 
-Subsec. (h). Pub. L. 107–205, §103(b)(2), (d), redesignated subsec. (f) as (h) and amended it generally. Prior to amendment, text of subsec. read as follows: “For purposes of this section:
+Subsec. (h). Pub. L. 107–205, §103(b)(2), (d), redesignated subsec. (f) as (h) and amended it generally. Prior to amendment, text of subsec. read as follows: "For purposes of this section:
 
-“(1) The term ‘community health center’ has the meaning given such term in section 254c(a) of this title.
+"(1) The term 'community health center' has the meaning given such term in section 254c(a) of this title.
 
-“(2) The term ‘migrant health center’ has the meaning given such term in section 254b(a)(1) of this title.
+"(2) The term 'migrant health center' has the meaning given such term in section 254b(a)(1) of this title.
 
-“(3) The term ‘rural health clinic’ has the meaning given such term in section 1395x(aa)(2) of this title.”
+"(3) The term 'rural health clinic' has the meaning given such term in section 1395x(aa)(2) of this title."
 
 Former subsec. (h) redesignated (g).
 
-Subsec. (i). Pub. L. 107–205, §103(b)(2), (e), redesignated subsec. (g) as (i) and amended it generally. Prior to amendment, text of subsec. read as follows: “For the purpose of payments under agreements entered into under subsection (a) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1993, and $6,000,000 for fiscal year 1994.”
+Subsec. (i). Pub. L. 107–205, §103(b)(2), (e), redesignated subsec. (g) as (i) and amended it generally. Prior to amendment, text of subsec. read as follows: "For the purpose of payments under agreements entered into under subsection (a) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1993, and $6,000,000 for fiscal year 1994."
 
 **1998**—Subsec. (h). Pub. L. 105–392 added subsec. (h).
 
@@ -182,4 +182,4 @@ Reference to community health center, migrant health center, public housing heal
 
 [<sup>1</sup> See References in Text note below.](#297n_1)
 
-[<sup>2</sup> So in original. Probably should be “an”.](#297n_2)
+[<sup>2</sup> So in original. Probably should be "an".](#297n_2)

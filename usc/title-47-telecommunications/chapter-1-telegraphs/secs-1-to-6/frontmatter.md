@@ -14,8 +14,8 @@ Section 6, R.S. §5265; act June 19, 1934, ch. 652, §601, 48 Stat. 1101, provid
 
 #### Effective Date of Repeal ####
 
-Section 3 of act July 16, 1947, provided that: “This Act [repealing sections 1 to 6 and 8 of this title] shall take effect on the tenth day following the enactment date thereof [July 16, 1947].”
+Section 3 of act July 16, 1947, provided that: "This Act [repealing sections 1 to 6 and 8 of this title] shall take effect on the tenth day following the enactment date thereof [July 16, 1947]."
 
 #### Authority of Federal Communications Commission; Effect of Repeal ####
 
-Section 2 of act July 16, 1947, provided that: “Nothing in this Act [repealing sections 1 to 6 and 8 of this title] shall limit the authority of the Federal Communications Commission under the provisions of the Communications Act of 1934, as amended [chapter 5 of this title], to prescribe charges, classifications, regulations, and practices, including priorities, applicable to Government communications.”
+Section 2 of act July 16, 1947, provided that: "Nothing in this Act [repealing sections 1 to 6 and 8 of this title] shall limit the authority of the Federal Communications Commission under the provisions of the Communications Act of 1934, as amended [chapter 5 of this title], to prescribe charges, classifications, regulations, and practices, including priorities, applicable to Government communications."

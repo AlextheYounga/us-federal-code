@@ -54,12 +54,12 @@
 
 #### Amendments ####
 
-**2013**—Subsec. (d). Pub. L. 112–239 substituted “$20,000” for “$10,000”.
+**2013**—Subsec. (d). Pub. L. 112–239 substituted "$20,000" for "$10,000".
 
-**2006**—Pub. L. 109–163, §634(c)(1), substituted “Special pay: affiliation bonus for officers in the Selected Reserve” for “Special pay: bonus for certain initial service of officers in the Selected Reserve”.
+**2006**—Pub. L. 109–163, §634(c)(1), substituted "Special pay: affiliation bonus for officers in the Selected Reserve" for "Special pay: bonus for certain initial service of officers in the Selected Reserve".
 
-Subsec. (a)(2)(B), (C). Pub. L. 109–163, §634(a), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “has not previously served in the Selected Reserve of the Ready Reserve; and”.
+Subsec. (a)(2)(B), (C). Pub. L. 109–163, §634(a), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "has not previously served in the Selected Reserve of the Ready Reserve; and".
 
-Subsec. (d). Pub. L. 109–163, §634(b), substituted “$10,000” for “$6,000”.
+Subsec. (d). Pub. L. 109–163, §634(b), substituted "$10,000" for "$6,000".
 
 Subsec. (g). Pub. L. 109–364 added subsec. (g) and struck out former subsec. (g) which related to requirement to repay bonus upon failure to commence or complete obligated service, inclusion of repayment requirements in each agreement, and characterization of obligation to repay as a debt owed to the United States.

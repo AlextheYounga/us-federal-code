@@ -16,7 +16,7 @@ Unless exempted by the Commission pursuant to subsection (c) or by subsection (e
 
 #### (A) Registration ####
 
-The Commission may adopt rules and regulations requiring registration with the Commission for a foreign board of trade that provides the members of the foreign board of trade or other participants located in the United States with direct access to the electronic trading and order matching system of the foreign board of trade, including rules and regulations prescribing procedures and requirements applicable to the registration of such foreign boards of trade. For purposes of this paragraph, “direct access” refers to an explicit grant of authority by a foreign board of trade to an identified member or other participant located in the United States to enter trades directly into the trade matching system of the foreign board of trade. In adopting such rules and regulations, the commission <sup><a href="#6_1_target" name="6_1">1</a></sup> shall consider—
+The Commission may adopt rules and regulations requiring registration with the Commission for a foreign board of trade that provides the members of the foreign board of trade or other participants located in the United States with direct access to the electronic trading and order matching system of the foreign board of trade, including rules and regulations prescribing procedures and requirements applicable to the registration of such foreign boards of trade. For purposes of this paragraph, "direct access" refers to an explicit grant of authority by a foreign board of trade to an identified member or other participant located in the United States to enter trades directly into the trade matching system of the foreign board of trade. In adopting such rules and regulations, the commission <sup><a href="#6_1_target" name="6_1">1</a></sup> shall consider—
 
 (i) whether any such foreign board of trade is subject to comparable, comprehensive supervision and regulation by the appropriate governmental authorities in the foreign board of trade's home country; and
 
@@ -56,7 +56,7 @@ Subparagraphs (A) and (B) shall not be effective with respect to any foreign boa
 
 #### (A) In general ####
 
-The Commission may adopt rules and regulations proscribing fraud and requiring minimum financial standards, the disclosure of risk, the filing of reports, the keeping of books and records, the safeguarding of customers’ funds, and registration with the Commission by any person located in the United States, its territories or possessions, who engages in the offer or sale of any contract of sale of a commodity for future delivery that is made or to be made on or subject to the rules of a board of trade, exchange, or market located outside the United States, its territories or possessions.
+The Commission may adopt rules and regulations proscribing fraud and requiring minimum financial standards, the disclosure of risk, the filing of reports, the keeping of books and records, the safeguarding of customers' funds, and registration with the Commission by any person located in the United States, its territories or possessions, who engages in the offer or sale of any contract of sale of a commodity for future delivery that is made or to be made on or subject to the rules of a board of trade, exchange, or market located outside the United States, its territories or possessions.
 
 #### (B) Different requirements ####
 
@@ -96,7 +96,7 @@ Except as provided in paragraphs (1) and (2), no rule or regulation may be adopt
 
 (ii) will not have a material adverse effect on the ability of the Commission or any contract market or derivatives transaction execution facility to discharge its regulatory or self-regulatory duties under this chapter.
 
-(3) For purposes of this subsection, the term “appropriate person” shall be limited to the following persons or classes thereof:
+(3) For purposes of this subsection, the term "appropriate person" shall be limited to the following persons or classes thereof:
 
 (A) A bank or trust company (acting in an individual or fiduciary capacity).
 
@@ -172,7 +172,7 @@ Nothing in this subsection shall be construed as implying or creating any presum
 
 Subtitle A of the Wall Street Transparency and Accountability Act of 2010, referred to in subsec. (c)(1)(A), is subtitle A (§§721–754) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641. For complete classification of subtitle A to the Code, see Tables.
 
-Section 12(e) of this title, referred to in subsec. (c)(1)(A)(i)(I), was in the original a reference to section “8e” and has been translated as if the reference had been to section “8(e)” to reflect the probable intent of Congress. Section 8e of act Sept. 21, 1922, which was formerly classified to section 12e of this title, was repealed by Pub. L. 106–554, §1(a)(5) [title I, §123(a)(21)], Dec. 21, 2000, 114 Stat. 2763, 2763A–410.
+Section 12(e) of this title, referred to in subsec. (c)(1)(A)(i)(I), was in the original a reference to section "8e" and has been translated as if the reference had been to section "8(e)" to reflect the probable intent of Congress. Section 8e of act Sept. 21, 1922, which was formerly classified to section 12e of this title, was repealed by Pub. L. 106–554, §1(a)(5) [title I, §123(a)(21)], Dec. 21, 2000, 114 Stat. 2763, 2763A–410.
 
 The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (c)(1)(A)(ii), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Section 721(c) of the Act is classified to section 8321(b) of Title 15, Commerce and Trade. Section 742 of the Act amended section 2 of this title and provisions set out as a note under section 78c of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12, Banks and Banking, and Tables.
 
@@ -184,37 +184,37 @@ The Securities Exchange Act of 1934, referred to in subsec. (c)(3)(I), is act Ju
 
 #### Amendments ####
 
-**2010**—Subsec. (a). Pub. L. 111–203, §738(b)(1), inserted “or by subsection (e)” after “Unless exempted by the Commission pursuant to subsection (c)” in introductory provisions.
+**2010**—Subsec. (a). Pub. L. 111–203, §738(b)(1), inserted "or by subsection (e)" after "Unless exempted by the Commission pursuant to subsection (c)" in introductory provisions.
 
-Subsec. (b). Pub. L. 111–203, §738(a)(1)–(3), designated existing provisions as par. (2), designated the first to third sentences as subpars. (A) to (C), respectively, redesignated former pars. (1) and (2) as cls. (i) and (ii), respectively, of subpar. (C), inserted headings, in subpar. (B), substituted “Rules and regulations described in subparagraph (A)” for “Such rules and regulations”, in the introductory provisions of subpar. (C), substituted “Except as provided in paragraphs (1) and (2), no rule or regulation” for “No rule or regulation” and “that—” for “that”, and, in subpar. (C)(i), substituted “market; or” for “market, or”.
+Subsec. (b). Pub. L. 111–203, §738(a)(1)–(3), designated existing provisions as par. (2), designated the first to third sentences as subpars. (A) to (C), respectively, redesignated former pars. (1) and (2) as cls. (i) and (ii), respectively, of subpar. (C), inserted headings, in subpar. (B), substituted "Rules and regulations described in subparagraph (A)" for "Such rules and regulations", in the introductory provisions of subpar. (C), substituted "Except as provided in paragraphs (1) and (2), no rule or regulation" for "No rule or regulation" and "that—" for "that", and, in subpar. (C)(i), substituted "market; or" for "market, or".
 
 Subsec. (b)(1). Pub. L. 111–203, §738(a)(4), added par. (1).
 
-Subsec. (c)(1). Pub. L. 111–203, §721(d), substituted “except that—” for “except that the Commission and the Securities and Exchange Commission may by rule, regulation, or order jointly exclude any agreement, contract, or transaction from section 2(a)(1)(D) of this title), if the Commission determines that the exemption would be consistent with the public interest.” and added subpars. (A) and (B).
+Subsec. (c)(1). Pub. L. 111–203, §721(d), substituted "except that—" for "except that the Commission and the Securities and Exchange Commission may by rule, regulation, or order jointly exclude any agreement, contract, or transaction from section 2(a)(1)(D) of this title), if the Commission determines that the exemption would be consistent with the public interest." and added subpars. (A) and (B).
 
 Subsec. (c)(6). Pub. L. 111–203, §722(f), added par. (6).
 
 Subsec. (e). Pub. L. 111–203, §738(b)(2), added subsec. (e).
 
-**2000**—Subsec. (a)(1). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(3)(A)(i)], substituted “designated or registered by the Commission as a contract market or derivatives transaction execution facility for” for “designated by the Commission as a ‘contract market’ for”.
+**2000**—Subsec. (a)(1). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(3)(A)(i)], substituted "designated or registered by the Commission as a contract market or derivatives transaction execution facility for" for "designated by the Commission as a 'contract market' for".
 
-Subsec. (a)(2). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(3)(A)(ii)], struck out “member of such” after “by or through a”.
+Subsec. (a)(2). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(3)(A)(ii)], struck out "member of such" after "by or through a".
 
-Subsec. (a)(3). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(3)(A)(iii)], inserted “or derivatives transaction execution facility” after “contract market”.
+Subsec. (a)(3). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(3)(A)(iii)], inserted "or derivatives transaction execution facility" after "contract market".
 
-Subsec. (c)(1). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(3)(B)(i)], substituted “designated or registered as a contract market or derivatives transaction execution facility” for “designated as a contract market” and “subparagraphs (C)(ii) and (D) of section 2(a)(1) of this title, except that the Commission and the Securities and Exchange Commission may by rule, regulation, or order jointly exclude any agreement, contract, or transaction from section 2(a)(1)(D) of this title” for “section 2a of this title”.
+Subsec. (c)(1). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(3)(B)(i)], substituted "designated or registered as a contract market or derivatives transaction execution facility" for "designated as a contract market" and "subparagraphs (C)(ii) and (D) of section 2(a)(1) of this title, except that the Commission and the Securities and Exchange Commission may by rule, regulation, or order jointly exclude any agreement, contract, or transaction from section 2(a)(1)(D) of this title" for "section 2a of this title".
 
-Subsec. (c)(2)(B)(ii). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(3)(B)(ii)], inserted “or derivatives transaction execution facility” after “contract market”.
+Subsec. (c)(2)(B)(ii). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(3)(B)(ii)], inserted "or derivatives transaction execution facility" after "contract market".
 
-**1992**—Subsec. (a). Pub. L. 102–546, §502(a)(1), substituted “Unless exempted by the Commission pursuant to subsection (c) of this section, it shall be unlawful” for “It shall be unlawful”.
+**1992**—Subsec. (a). Pub. L. 102–546, §502(a)(1), substituted "Unless exempted by the Commission pursuant to subsection (c) of this section, it shall be unlawful" for "It shall be unlawful".
 
 Subsecs. (c), (d). Pub. L. 102–546, §502(a)(2), added subsecs. (c) and (d).
 
 **1983**—Pub. L. 97–444 amended section generally, combining into subsec. (a) existing provisions of this section together with provisions formerly contained in section 6h(1) of this title, relating to the conduct of offices or places of business anywhere in the United States or its territories that are used for dealing in commodities for future delivery unless such dealings are executed or consummated by or through a member of a contract market, and adding subsec. (b).
 
-**1974**—Pub. L. 93–463 substituted “Commission” for “Secretary of Agriculture” and “United States Department of Agriculture”.
+**1974**—Pub. L. 93–463 substituted "Commission" for "Secretary of Agriculture" and "United States Department of Agriculture".
 
-**1936**—Act June 15, 1936, §2, substituted “commodity” for “grain” wherever appearing.
+**1936**—Act June 15, 1936, §2, substituted "commodity" for "grain" wherever appearing.
 
 Act June 15, 1936, §4, struck out par. (a) and combined par. (b) with first par.
 
@@ -234,7 +234,7 @@ For effective date of amendment by Pub. L. 93–463, see section 418 of Pub. L. 
 
 Amendment by act June 15, 1936, effective 90 days after June 15, 1936, see section 13 of that act, set out as a note under section 1 of this title.
 
-[<sup>1</sup> So in original. Probably should be “Commission”.](#6_1)
+[<sup>1</sup> So in original. Probably should be "Commission".](#6_1)
 
 [<sup>2</sup> So in original. A closing parenthesis probably should precede the comma.](#6_2)
 

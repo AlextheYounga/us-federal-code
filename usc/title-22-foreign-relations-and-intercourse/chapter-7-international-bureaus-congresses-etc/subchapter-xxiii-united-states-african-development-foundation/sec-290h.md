@@ -30,4 +30,4 @@ African Development Foundation changed to United States African Development Foun
 
 #### Short Title ####
 
-Pub. L. 96–533, title V, §501, Dec. 16, 1980, 94 Stat. 3151, provided: “This title [enacting this subchapter] may be cited as the ‘African Development Foundation Act’.”
+Pub. L. 96–533, title V, §501, Dec. 16, 1980, 94 Stat. 3151, provided: "This title [enacting this subchapter] may be cited as the 'African Development Foundation Act'."

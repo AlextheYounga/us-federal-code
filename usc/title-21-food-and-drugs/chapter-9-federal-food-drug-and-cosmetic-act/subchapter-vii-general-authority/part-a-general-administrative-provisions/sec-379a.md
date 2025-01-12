@@ -6,9 +6,9 @@ In any action to enforce the requirements of this chapter respecting a device, t
 
 #### Amendments ####
 
-**2009**—Pub. L. 111–31 inserted “tobacco product,” after “device,”.
+**2009**—Pub. L. 111–31 inserted "tobacco product," after "device,".
 
-**1997**—Pub. L. 105–115 substituted “a device, food, drug, or cosmetic” for “a device”.
+**1997**—Pub. L. 105–115 substituted "a device, food, drug, or cosmetic" for "a device".
 
 #### Effective Date of 1997 Amendment ####
 

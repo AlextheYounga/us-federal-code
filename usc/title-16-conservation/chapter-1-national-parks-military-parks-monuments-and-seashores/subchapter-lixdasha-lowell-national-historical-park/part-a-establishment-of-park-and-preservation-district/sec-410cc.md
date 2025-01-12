@@ -16,4 +16,4 @@
 
 #### Short Title of 2012 Amendment ####
 
-Pub. L. 112–182, §1, Oct. 5, 2012, 126 Stat. 1420, provided that: “This Act [amending section 410cc–22 of this title] may be cited as the ‘Lowell National Historical Park Land Exchange Act of 2012’.”
+Pub. L. 112–182, §1, Oct. 5, 2012, 126 Stat. 1420, provided that: "This Act [amending section 410cc–22 of this title] may be cited as the 'Lowell National Historical Park Land Exchange Act of 2012'."

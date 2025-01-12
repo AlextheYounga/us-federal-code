@@ -54,27 +54,27 @@ As used in this subsection:
 
 #### (A) Direct loan ####
 
-The term “direct loan” means a loan made under section 904 of this title.
+The term "direct loan" means a loan made under section 904 of this title.
 
 #### (B) Insured loan ####
 
-The term “insured loan” means a loan made under section 935 of this title.
+The term "insured loan" means a loan made under section 935 of this title.
 
 #### (b) Mergers of electric borrowers ####
 
-Notwithstanding subsection (a) of this section, a direct or insured loan may be prepaid by an electric borrower at the lesser of the outstanding principal balance due thereon or the present value thereof discounted from the face value at maturity at the rate set by the Secretary if the borrower is an electrical organization which resulted from a merger or consolidation between a borrower and an organization which, prior to October 1, 1987, prepaid its direct or insured loans pursuant to this section. Prepayments by a borrower hereunder shall be made not later than one year after the effective date of the merger, consolidation, or other transaction. The discount rate to be set by the Secretary for direct or insured loans prepayments hereunder shall be based on the current cost of funds to the Department of the Treasury for obligations of comparable maturity to those being prepaid. If a borrower prepays using tax exempt financing, the discount shall be adjusted to make the discount equivalent to fully taxable financing. The borrower shall certify in writing whether the financing will be tax exempt and shall comply with such other terms and conditions as the Secretary may establish which are reasonable and necessary to implement this provision. As used in this section, the term “direct loan” means a loan made under section 904 of this title.
+Notwithstanding subsection (a) of this section, a direct or insured loan may be prepaid by an electric borrower at the lesser of the outstanding principal balance due thereon or the present value thereof discounted from the face value at maturity at the rate set by the Secretary if the borrower is an electrical organization which resulted from a merger or consolidation between a borrower and an organization which, prior to October 1, 1987, prepaid its direct or insured loans pursuant to this section. Prepayments by a borrower hereunder shall be made not later than one year after the effective date of the merger, consolidation, or other transaction. The discount rate to be set by the Secretary for direct or insured loans prepayments hereunder shall be based on the current cost of funds to the Department of the Treasury for obligations of comparable maturity to those being prepaid. If a borrower prepays using tax exempt financing, the discount shall be adjusted to make the discount equivalent to fully taxable financing. The borrower shall certify in writing whether the financing will be tax exempt and shall comply with such other terms and conditions as the Secretary may establish which are reasonable and necessary to implement this provision. As used in this section, the term "direct loan" means a loan made under section 904 of this title.
 
 (May 20, 1936, ch. 432, title III, §306B, as added Pub. L. 99–509, title I, §1011(a), Oct. 21, 1986, 100 Stat. 1876; amended Pub. L. 101–624, title XXIII, §2387, Nov. 28, 1990, 104 Stat. 4051; Pub. L. 102–428, §2, Oct. 21, 1992, 106 Stat. 2183; Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221.)
 
 #### Codification ####
 
-October 21, 1992, referred to in subsec. (a)(5)(A), (B), was in the original “the date of enactment of this subsection”, which was translated as meaning the date of enactment of Pub. L. 102–428, which amended subsec. (a) generally, to reflect the probable intent of Congress.
+October 21, 1992, referred to in subsec. (a)(5)(A), (B), was in the original "the date of enactment of this subsection", which was translated as meaning the date of enactment of Pub. L. 102–428, which amended subsec. (a) generally, to reflect the probable intent of Congress.
 
 #### Amendments ####
 
-**1994**—Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
+**1994**—Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
 
-**1992**—Subsec. (a). Pub. L. 102–428, §2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A direct or insured loan made under this chapter shall not be sold or prepaid at a value less than the face value of any outstanding principal balance on such loan, except when sold to or prepaid by the borrower at the lesser of the outstanding principal balance due on the loan or the loan's present value discounted from the face value at maturity at the rate set by the Administrator. The exception contained in the preceding sentence shall be effective for the period ending September 30, 1987.”
+**1992**—Subsec. (a). Pub. L. 102–428, §2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "A direct or insured loan made under this chapter shall not be sold or prepaid at a value less than the face value of any outstanding principal balance on such loan, except when sold to or prepaid by the borrower at the lesser of the outstanding principal balance due on the loan or the loan's present value discounted from the face value at maturity at the rate set by the Administrator. The exception contained in the preceding sentence shall be effective for the period ending September 30, 1987."
 
 Subsec. (b). Pub. L. 102–428, §2(b), inserted heading.
 

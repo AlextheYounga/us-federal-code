@@ -14,4 +14,4 @@ With respect to any survey of human sexual behavior proposed to be conducted or 
 
 #### Prohibition Against SHARP Adult Sex Survey and American Teenage Sex Survey ####
 
-Pub. L. 103–43, title XX, §2015, June 10, 1993, 107 Stat. 217, provided that: “The Secretary of Health and Human Services may not during fiscal year 1993 or any subsequent fiscal year conduct or support the SHARP survey of adult sexual behavior or the American Teenage Study of adolescent sexual behavior. This section becomes effective on the date of the enactment of this Act [June 10, 1993].”
+Pub. L. 103–43, title XX, §2015, June 10, 1993, 107 Stat. 217, provided that: "The Secretary of Health and Human Services may not during fiscal year 1993 or any subsequent fiscal year conduct or support the SHARP survey of adult sexual behavior or the American Teenage Study of adolescent sexual behavior. This section becomes effective on the date of the enactment of this Act [June 10, 1993]."

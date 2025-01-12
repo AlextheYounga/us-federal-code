@@ -6,7 +6,7 @@ Section 1079a, act May 1, 1956, ch. 229, §2, 70 Stat. 125, related to availabil
 
 Section 1079b, act May 1, 1956, ch. 229, §3, 70 Stat. 125, related to increases for widowed annuitants.
 
-Section 1079c, act May 1, 1956, ch. 229, §4, 70 Stat. 125, related to increases for officers’ wives who become annuitants subsequent to the effective date of sections 1079 to 1079f of this title.
+Section 1079c, act May 1, 1956, ch. 229, §4, 70 Stat. 125, related to increases for officers' wives who become annuitants subsequent to the effective date of sections 1079 to 1079f of this title.
 
 #### Effective Date of Repeal ####
 

@@ -30,4 +30,4 @@
 
 #### Effective Date ####
 
-Pub. L. 99–661, div. A, title VIII, §802(b), Nov. 14, 1986, 100 Stat. 3906, provided that: “Section 850a of title 10, United States Code, as added by subsection (a)(1), shall apply only to offenses committed on or after the date of the enactment of this Act [Nov. 14, 1986].”
+Pub. L. 99–661, div. A, title VIII, §802(b), Nov. 14, 1986, 100 Stat. 3906, provided that: "Section 850a of title 10, United States Code, as added by subsection (a)(1), shall apply only to offenses committed on or after the date of the enactment of this Act [Nov. 14, 1986]."

@@ -4,11 +4,11 @@
 
 Congress finds the following:
 
-(1) The Second Amendment to the Constitution provides that “the right of the people to keep and bear Arms, shall not be infringed”.
+(1) The Second Amendment to the Constitution provides that "the right of the people to keep and bear Arms, shall not be infringed".
 
-(2) Section 2.4(a)(1) of title 36, Code of Federal Regulations, provides that “except as otherwise provided in this section and parts 7 (special regulations) and 13 (Alaska regulations), the following are prohibited: (i) Possessing a weapon, trap or net (ii) Carrying a weapon, trap or net (iii) Using a weapon, trap or net”.
+(2) Section 2.4(a)(1) of title 36, Code of Federal Regulations, provides that "except as otherwise provided in this section and parts 7 (special regulations) and 13 (Alaska regulations), the following are prohibited: (i) Possessing a weapon, trap or net (ii) Carrying a weapon, trap or net (iii) Using a weapon, trap or net".
 
-(3) Section 27.42 of title 50, Code of Federal Regulations, provides that, except in special circumstances, citizens of the United States may not “possess, use, or transport firearms on national wildlife refuges” of the United States Fish and Wildlife Service.
+(3) Section 27.42 of title 50, Code of Federal Regulations, provides that, except in special circumstances, citizens of the United States may not "possess, use, or transport firearms on national wildlife refuges" of the United States Fish and Wildlife Service.
 
 (4) The regulations described in paragraphs (2) and (3) prevent individuals complying with Federal and State laws from exercising the second amendment rights of the individuals while at units of—
 

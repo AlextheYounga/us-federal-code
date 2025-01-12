@@ -18,7 +18,7 @@ The one year period is made inapplicable to applications which may be pending wh
 
 #### Amendments ####
 
-**1975**—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+**1975**—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
 #### Effective Date of 1975 Amendment ####
 

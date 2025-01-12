@@ -2,7 +2,7 @@
 
 #### (a) Acquisition of land ####
 
-Notwithstanding any other provision of sections 391b, 391b–1, 392b, 396, and 396a of this title, the Secretary of the Interior (hereinafter referred to as the “Secretary”) is authorized to acquire by donation or exchange the land and interests therein comprising approximately 5,650 acres and identified as tract number 118/22 on the map entitled “Recommended Land Acquisition”, in the Hawai‘i Volcanoes National Park Land Protection Plan as recommended May 17, 1985, which plan shall be on file and available for public inspection in the Office of the Director, National Park Service, Department of the Interior, Washington, D.C. and the Office of the Superintendent, Hawai‘i Volcanoes National Park, Hawaii.
+Notwithstanding any other provision of sections 391b, 391b–1, 392b, 396, and 396a of this title, the Secretary of the Interior (hereinafter referred to as the "Secretary") is authorized to acquire by donation or exchange the land and interests therein comprising approximately 5,650 acres and identified as tract number 118/22 on the map entitled "Recommended Land Acquisition", in the Hawai‘i Volcanoes National Park Land Protection Plan as recommended May 17, 1985, which plan shall be on file and available for public inspection in the Office of the Director, National Park Service, Department of the Interior, Washington, D.C. and the Office of the Superintendent, Hawai‘i Volcanoes National Park, Hawaii.
 
 #### (b) Exchange of land; equalization payments ####
 
@@ -32,4 +32,4 @@ There is hereby authorized to be appropriated up to $700,000 to carry out the pu
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–352 substituted “Hawai‘i Volcanoes” for “Hawaii Volcanoes” in two places in subsec. (a) and in subsec. (e).
+**2004**—Pub. L. 108–352 substituted "Hawai‘i Volcanoes" for "Hawaii Volcanoes" in two places in subsec. (a) and in subsec. (e).

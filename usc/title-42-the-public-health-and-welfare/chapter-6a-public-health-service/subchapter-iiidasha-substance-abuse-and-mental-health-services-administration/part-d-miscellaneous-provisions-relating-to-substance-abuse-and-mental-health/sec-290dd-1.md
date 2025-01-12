@@ -22,11 +22,11 @@ Section was formerly classified to section 4561 of this title prior to renumberi
 
 #### Amendments ####
 
-**1994**—Subsec. (b)(2). Pub. L. 103–446 substituted “Under Secretary for Health” for “Chief Medical Director”.
+**1994**—Subsec. (b)(2). Pub. L. 103–446 substituted "Under Secretary for Health" for "Chief Medical Director".
 
 **1992**—Pub. L. 102–321 amended section generally, substituting provisions relating to admission of substance abusers to private and public hospitals and outpatient facilities for provisions relating to programs for government and other employees.
 
-**1986**—Subsec. (a). Pub. L. 99–570, §6002(b)(1), redesignated subsec. (b) as (a), struck out “similar” after “fostering and encouraging” in par. (1), and struck out former subsec. (a) which read as follows: “The Office of Personnel Management shall be responsible for developing and maintaining, in cooperation with the Secretary and with other Federal agencies and departments, and in accordance with the provisions of subpart F of part III of title 5, appropriate prevention, treatment, and rehabilitation programs and services for alcohol abuse and alcoholism among Federal civilian employees, consistent with the purposes of this chapter. Such agencies and departments are encouraged to extend, to the extent feasible, these programs and services to the families of alcoholic employees and to employees who have family members who are alcoholics. Such policies and services shall make optimal use of existing governmental facilities, services, and skills.”
+**1986**—Subsec. (a). Pub. L. 99–570, §6002(b)(1), redesignated subsec. (b) as (a), struck out "similar" after "fostering and encouraging" in par. (1), and struck out former subsec. (a) which read as follows: "The Office of Personnel Management shall be responsible for developing and maintaining, in cooperation with the Secretary and with other Federal agencies and departments, and in accordance with the provisions of subpart F of part III of title 5, appropriate prevention, treatment, and rehabilitation programs and services for alcohol abuse and alcoholism among Federal civilian employees, consistent with the purposes of this chapter. Such agencies and departments are encouraged to extend, to the extent feasible, these programs and services to the families of alcoholic employees and to employees who have family members who are alcoholics. Such policies and services shall make optimal use of existing governmental facilities, services, and skills."
 
 Subsecs. (b) to (d). Pub. L. 99–570, §6002(b)(1)(C), redesignated subsecs. (c) and (d) as (b) and (c), respectively. Former subsec. (b) redesignated (a).
 
@@ -34,15 +34,15 @@ Subsecs. (b) to (d). Pub. L. 99–570, §6002(b)(1)(C), redesignated subsecs. (c
 
 **1983**—Pub. L. 98–24, §2(b)(13), as amended by Pub. L. 98–509, renumbered section 4561 of this title as this section.
 
-Subsec. (b)(4). Pub. L. 98–24, §2(b)(13)(B)(i), substituted “section 290ee–1 of this title” for “section 1180(b) of title 21”.
+Subsec. (b)(4). Pub. L. 98–24, §2(b)(13)(B)(i), substituted "section 290ee–1 of this title" for "section 1180(b) of title 21".
 
-Subsec. (d). Pub. L. 98–24, §2(b)(13)(B)(ii), substituted “this section” for “this subchapter”, meaning subchapter II (§4561 et seq.) of chapter 60 of this title.
+Subsec. (d). Pub. L. 98–24, §2(b)(13)(B)(ii), substituted "this section" for "this subchapter", meaning subchapter II (§4561 et seq.) of chapter 60 of this title.
 
 **1981**—Subsec. (b). Pub. L. 97–35, §§961, 966(d), made changes in nomenclature, and substituted provisions relating to responsible State administrative agencies, for provisions relating to single State agencies designated pursuant to section 4573 of this title.
 
 **1980**—Pub. L. 96–180, §6(b)(2)(A), amended section catchline.
 
-Subsec. (a). Pub. L. 96–180, §6(a), substituted “Office of Personnel Management” for “Civil Service Commission” and inserted provisions that require compliance with provisions of subpart F of part III of title 5 and encourage agencies and departments to extend the programs and services to the families of alcoholic employees and to employees who have family members who are alcoholics.
+Subsec. (a). Pub. L. 96–180, §6(a), substituted "Office of Personnel Management" for "Civil Service Commission" and inserted provisions that require compliance with provisions of subpart F of part III of title 5 and encourage agencies and departments to extend the programs and services to the families of alcoholic employees and to employees who have family members who are alcoholics.
 
 Subsec. (b). Pub. L. 96–180, §6(b)(1), designated existing provisions as par. (1), made the Secretary responsible for encouragement of programs and services, required the programs and services to be designed for application to families of employees and to employees who have family members who are alcoholics, and added pars. (2) to (4).
 

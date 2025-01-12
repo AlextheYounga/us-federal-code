@@ -12,13 +12,13 @@ Section was formerly classified to section 287a–3 of this title.
 
 #### Amendments ####
 
-**2011**—Subsec. (a). Pub. L. 112–74, §221(b)(2)(B), substituted “by the Director of NIH, acting through the Office of the Director of NIH,” for “by the National Center for Research Resources” and “283k” for “287a–2”.
+**2011**—Subsec. (a). Pub. L. 112–74, §221(b)(2)(B), substituted "by the Director of NIH, acting through the Office of the Director of NIH," for "by the National Center for Research Resources" and "283k" for "287a–2".
 
-**2007**—Subsec. (a). Pub. L. 109–482, which directed the substitution of “to carry out section 287a–2” for “under section 287a–2(h)”, was executed by making substitution for “under section 287a–2(i)”, to reflect the probable intent of Congress.
+**2007**—Subsec. (a). Pub. L. 109–482, which directed the substitution of "to carry out section 287a–2" for "under section 287a–2(h)", was executed by making substitution for "under section 287a–2(i)", to reflect the probable intent of Congress.
 
-**2000**—Subsec. (a). Pub. L. 106–505, which directed the amendment of subsec. (a) by substituting “2000 through 2002, reserve from the amounts appropriated under section 287a–2(i) of this title such sums as necessary” for “ ‘1994’ and all that follows through ‘$5,000,000’ ”, was executed by making the substitution for “1994 through 1996, reserve from the amounts appropriated under section 287a–2(h) of this title up to $2,500,000”, to reflect the probable intent of Congress and the amendment by Pub. L. 105–392. See 1998 Amendment note below.
+**2000**—Subsec. (a). Pub. L. 106–505, which directed the amendment of subsec. (a) by substituting "2000 through 2002, reserve from the amounts appropriated under section 287a–2(i) of this title such sums as necessary" for " '1994' and all that follows through '$5,000,000' ", was executed by making the substitution for "1994 through 1996, reserve from the amounts appropriated under section 287a–2(h) of this title up to $2,500,000", to reflect the probable intent of Congress and the amendment by Pub. L. 105–392. See 1998 Amendment note below.
 
-**1998**—Subsec. (a). Pub. L. 105–392, in first sentence, substituted “may” for “shall” and “up to $2,500,000” for “$5,000,000”.
+**1998**—Subsec. (a). Pub. L. 105–392, in first sentence, substituted "may" for "shall" and "up to $2,500,000" for "$5,000,000".
 
 #### Effective Date of 2007 Amendment ####
 

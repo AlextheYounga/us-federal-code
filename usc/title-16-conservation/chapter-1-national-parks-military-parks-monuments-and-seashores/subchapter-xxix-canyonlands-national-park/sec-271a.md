@@ -10,7 +10,7 @@ Date of enactment of this Act or any amendment thereto, referred to in text, mea
 
 #### Amendments ####
 
-**1971**—Pub. L. 92–154 struck out “described in section 271 of this title” after “Within the area”, inserted in third sentence “or any amendment thereto” after “the date of enactment of this Act”, and inserted in fifth sentence “or any amendment thereto” after “this subchapter”.
+**1971**—Pub. L. 92–154 struck out "described in section 271 of this title" after "Within the area", inserted in third sentence "or any amendment thereto" after "the date of enactment of this Act", and inserted in fifth sentence "or any amendment thereto" after "this subchapter".
 
 #### Transfer of Functions ####
 

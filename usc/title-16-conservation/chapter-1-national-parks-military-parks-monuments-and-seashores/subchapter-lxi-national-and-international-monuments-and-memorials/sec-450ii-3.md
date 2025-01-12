@@ -6,9 +6,9 @@ The Secretary of the Interior is authorized and directed, through the United Sta
 
 #### Change of Name ####
 
-“United States Bureau of Mines” substituted in text for “Bureau of Mines” pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of Title 30.
+"United States Bureau of Mines" substituted in text for "Bureau of Mines" pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of Title 30.
 
-“United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
+"United States Geological Survey" substituted in text for "Geological Survey" pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
 
 #### Abolition of Joshua Tree National Monument ####
 

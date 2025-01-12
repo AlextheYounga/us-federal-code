@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-There is hereby designated the Granite Mountains Natural Reserve within the preserve comprising approximately nine thousand acres as generally depicted on a map entitled “Mojave National Park Boundary and Wilderness—Proposed 6”, dated May 1991.
+There is hereby designated the Granite Mountains Natural Reserve within the preserve comprising approximately nine thousand acres as generally depicted on a map entitled "Mojave National Park Boundary and Wilderness—Proposed 6", dated May 1991.
 
 #### (b) Cooperative management agreement ####
 

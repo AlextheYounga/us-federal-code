@@ -6,7 +6,7 @@
 
 (2) to foster and preserve rail and water transportation.
 
-(b) Definition.—In this section, “inland waterway” includes the Great Lakes.
+(b) Definition.—In this section, "inland waterway" includes the Great Lakes.
 
 (c) Requirements.—The Secretary of Transportation shall—
 
@@ -34,14 +34,14 @@
 
 Section 4(j)(6)(A) amends 49:ch. 3 by restating 49 App.:142 as section 303a because the provision more appropriately belongs in chapter 3.
 
-In subsection (a)(2), the words “in full vigor both” are omitted as surplus.
+In subsection (a)(2), the words "in full vigor both" are omitted as surplus.
 
-In subsection (b), the words “be construed to” are omitted as surplus.
+In subsection (b), the words "be construed to" are omitted as surplus.
 
-In subsection (c)(1), the word “appropriate” is omitted as surplus. The word “vessels” is substituted for “boats” for consistency in the revised title and with other titles of the United States Code.
+In subsection (c)(1), the word "appropriate" is omitted as surplus. The word "vessels" is substituted for "boats" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (c)(2), the words “the subject of”, “apparatus”, “appliances in connection therewith”, and “or interchange” are omitted as surplus.
+In subsection (c)(2), the words "the subject of", "apparatus", "appliances in connection therewith", and "or interchange" are omitted as surplus.
 
-In subsection (c)(3), the words “appropriate” and “suitable” are omitted as surplus.
+In subsection (c)(3), the words "appropriate" and "suitable" are omitted as surplus.
 
-In subsection (c)(6), the words “province and”, “from time to time”, and “useful statistics, data, and” are omitted as surplus.
+In subsection (c)(6), the words "province and", "from time to time", and "useful statistics, data, and" are omitted as surplus.

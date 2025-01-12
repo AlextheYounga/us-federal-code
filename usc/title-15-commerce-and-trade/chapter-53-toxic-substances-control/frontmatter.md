@@ -40,9 +40,9 @@ Sec.
 
 2618. Judicial review.
 
-2619. Citizens’ civil actions.
+2619. Citizens' civil actions.
 
-2620. Citizens’ petitions.
+2620. Citizens' petitions.
 
 2621. National defense waiver.
 

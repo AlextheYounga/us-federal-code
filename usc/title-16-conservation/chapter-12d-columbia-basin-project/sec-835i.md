@@ -6,4 +6,4 @@ In connection with fish hatcheries built or to be built as a part of the fish-pr
 
 #### Change of Name ####
 
-Act May 27, 1937, as amended by act Mar. 10, 1943, changed name of project from “Grand Coulee Dam” to “Columbia Basin”.
+Act May 27, 1937, as amended by act Mar. 10, 1943, changed name of project from "Grand Coulee Dam" to "Columbia Basin".

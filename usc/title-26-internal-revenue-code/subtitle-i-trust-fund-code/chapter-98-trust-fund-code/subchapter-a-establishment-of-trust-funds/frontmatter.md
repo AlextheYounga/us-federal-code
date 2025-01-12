@@ -32,9 +32,9 @@ The amendment by section 8033(b) of Pub. L. 99–509, which provided for adding 
 
 **2010**—Pub. L. 111–148, title VI, §6301(e)(1)(B), Mar. 23, 2010, 124 Stat. 743, added item 9511.
 
-**2005**—Pub. L. 109–59, title XI, §11115(b)(2)(E), Aug. 10, 2005, 119 Stat. 1950, substituted “Sport Fish Restoration and Boating” for “Aquatic Resources” in item 9504.
+**2005**—Pub. L. 109–59, title XI, §11115(b)(2)(E), Aug. 10, 2005, 119 Stat. 1950, substituted "Sport Fish Restoration and Boating" for "Aquatic Resources" in item 9504.
 
-**1998**—Pub. L. 105–178, title IX, §9011(b)(3), June 9, 1998, 112 Stat. 508, struck out item 9511 “National Recreational Trails Trust Fund”.
+**1998**—Pub. L. 105–178, title IX, §9011(b)(3), June 9, 1998, 112 Stat. 508, struck out item 9511 "National Recreational Trails Trust Fund".
 
 **1991**—Pub. L. 102–240, title VIII, §8003(c), Dec. 18, 1991, 105 Stat. 2206, added item 9511.
 
@@ -50,4 +50,4 @@ Pub. L. 99–499, title V, §§517(d), 522(b), Oct. 17, 1986, 100 Stat. 1774, 17
 
 **1983**—Pub. L. 97–424, title V, §531(d), Jan. 6, 1983, 96 Stat. 2192, added item 9503.
 
-**1982**—Pub. L. 97–248, title II, §281(c)(1), Sept. 3, 1982, 96 Stat. 566, struck out “Establishment of” before “Black Lung” in item 9501 and added item 9502.
+**1982**—Pub. L. 97–248, title II, §281(c)(1), Sept. 3, 1982, 96 Stat. 566, struck out "Establishment of" before "Black Lung" in item 9501 and added item 9502.

@@ -10,7 +10,7 @@ The Confidential Information Protection and Statistical Efficiency Act of 2002, 
 
 #### Amendments ####
 
-**2002**—Pub. L. 107–347 substituted “Except as provided in the Confidential Information Protection and Statistical Efficiency Act of 2002, the” for “The”.
+**2002**—Pub. L. 107–347 substituted "Except as provided in the Confidential Information Protection and Statistical Efficiency Act of 2002, the" for "The".
 
 #### Transfer of Functions ####
 

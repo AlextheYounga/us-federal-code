@@ -52,15 +52,15 @@ The Securities Act of 1933, referred to in subsecs. (b)(5) and (c)(1), is act Ma
 
 The Securities Exchange Act of 1934, referred to in subsecs. (b)(5) and (c)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
-Words “such Act”, referred to in subsec. (c)(1), mean the Securities Act of 1933 and the Securities Exchange Act of 1934, respectively.
+Words "such Act", referred to in subsec. (c)(1), mean the Securities Act of 1933 and the Securities Exchange Act of 1934, respectively.
 
 #### Amendments ####
 
-**1970**—Subsec. (b)(2). Pub. L. 91–547, §3(c)(1), substituted “all investment policies of the registrant” and “which are changeable only if authorized by shareholder vote” for “the policy of the registrant in respect of matters” and “which the registrant deems matters of fundamental policy and elects to treat as such”, respectively. Former provisions are covered in par. (3).
+**1970**—Subsec. (b)(2). Pub. L. 91–547, §3(c)(1), substituted "all investment policies of the registrant" and "which are changeable only if authorized by shareholder vote" for "the policy of the registrant in respect of matters" and "which the registrant deems matters of fundamental policy and elects to treat as such", respectively. Former provisions are covered in par. (3).
 
 Subsec. (b)(3) to (5). Pub. L. 91–547, §3(c)(2), (3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-**1960**—Subsec. (e). Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
+**1960**—Subsec. (e). Pub. L. 86–507 inserted "or by certified mail" after "registered mail".
 
 #### Effective Date of 1970 Amendment ####
 

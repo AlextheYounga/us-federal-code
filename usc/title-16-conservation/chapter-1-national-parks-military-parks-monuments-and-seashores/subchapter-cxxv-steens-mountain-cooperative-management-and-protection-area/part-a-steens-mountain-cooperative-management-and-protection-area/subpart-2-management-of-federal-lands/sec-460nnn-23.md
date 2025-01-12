@@ -36,7 +36,7 @@ Except as otherwise provided in this section and part F of this subchapter, the 
 
 #### (2) Cancellation of certain permits ####
 
-The Secretary shall cancel that portion of the permitted grazing on Federal lands in the Fish Creek/Big Indian, East Ridge, and South Steens allotments located within the area designated as the “no livestock grazing area” on the map referred to in section 460nnn–11(a) of this title. Upon cancellation, future grazing use in that designated area is prohibited. The Secretary shall be responsible for installing and maintaining any fencing required for resource protection within the designated no livestock grazing area.
+The Secretary shall cancel that portion of the permitted grazing on Federal lands in the Fish Creek/Big Indian, East Ridge, and South Steens allotments located within the area designated as the "no livestock grazing area" on the map referred to in section 460nnn–11(a) of this title. Upon cancellation, future grazing use in that designated area is prohibited. The Secretary shall be responsible for installing and maintaining any fencing required for resource protection within the designated no livestock grazing area.
 
 #### (3) Forage replacement ####
 
@@ -80,4 +80,4 @@ Subject to valid existing rights, the Federal lands and interests in lands inclu
 
 #### References in Text ####
 
-This subchapter, referred to in subsec. (f)(2), was in the original “this Act”, meaning Pub. L. 106–399, Oct. 30, 2000, 114 Stat. 1655, known as the Steens Mountain Cooperative Management and Protection Act of 2000, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460nnn of this title and Tables.
+This subchapter, referred to in subsec. (f)(2), was in the original "this Act", meaning Pub. L. 106–399, Oct. 30, 2000, 114 Stat. 1655, known as the Steens Mountain Cooperative Management and Protection Act of 2000, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460nnn of this title and Tables.

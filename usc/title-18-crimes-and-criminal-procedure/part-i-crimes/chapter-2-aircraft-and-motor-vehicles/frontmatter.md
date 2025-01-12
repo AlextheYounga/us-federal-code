@@ -28,9 +28,9 @@ Sec.
 
 **2012**—Pub. L. 112–95, title III, §311(b), Feb. 14, 2012, 126 Stat. 66, transferred item 39 to appear after item 38 and added item 39A.
 
-**2008**—Pub. L. 110–244, title III, §301(j), June 6, 2008, 122 Stat. 1616, redesignated item 39 “Commercial motor vehicles required to stop for inspections” as item 40.
+**2008**—Pub. L. 110–244, title III, §301(j), June 6, 2008, 122 Stat. 1616, redesignated item 39 "Commercial motor vehicles required to stop for inspections" as item 40.
 
-**2005**—Pub. L. 109–59, title II, §2018(b), title IV, §4143(c)(1), Aug. 10, 2005, 119 Stat. 1543, 1748, added item 39 “Commercial motor vehicles required to stop for inspections” and item 39 “Traffic signal preemption transmitters”.
+**2005**—Pub. L. 109–59, title II, §2018(b), title IV, §4143(c)(1), Aug. 10, 2005, 119 Stat. 1543, 1748, added item 39 "Commercial motor vehicles required to stop for inspections" and item 39 "Traffic signal preemption transmitters".
 
 **2000**—Pub. L. 106–181, title V, §506(c)(2)(A), Apr. 5, 2000, 114 Stat. 139, added item 38.
 

@@ -98,19 +98,19 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments ####
 
-**1986**—Subsec. (c)(1). Pub. L. 99–657, §3(1), substituted “Jefferson, Lincoln” for “Lincoln”.
+**1986**—Subsec. (c)(1). Pub. L. 99–657, §3(1), substituted "Jefferson, Lincoln" for "Lincoln".
 
-Subsec. (c)(3). Pub. L. 99–657, §3(2), substituted “and Liberty” for “Evans, Liberty, Screven, and Tattnall”.
+Subsec. (c)(3). Pub. L. 99–657, §3(2), substituted "and Liberty" for "Evans, Liberty, Screven, and Tattnall".
 
-Subsec. (c)(6). Pub. L. 99–657, §3(3), substituted “Evans, Jenkins, Screven, Tattnall” for “Jefferson, Jenkins”.
+Subsec. (c)(6). Pub. L. 99–657, §3(3), substituted "Evans, Jenkins, Screven, Tattnall" for "Jefferson, Jenkins".
 
 **1984**—Subsec. (a)(1). Pub. L. 98–620, §408(a), added Fannin, Gilmer, and Pickens to the counties comprising the Gainesville Division of the Northern District.
 
 Subsec. (a)(2). Pub. L. 98–620, §408(b), struck out Fannin, Gilmer, and Pickens from the counties comprising the Atlanta Division of the Northern District.
 
-Subsec. (c)(6). Pub. L. 98–620, §408(c), substituted “Statesboro” for “Swainsboro” in three places.
+Subsec. (c)(6). Pub. L. 98–620, §408(c), substituted "Statesboro" for "Swainsboro" in three places.
 
-**1951**—Subsec. (c)(6). Act Oct. 31, 1951, struck out “Washington,”.
+**1951**—Subsec. (c)(6). Act Oct. 31, 1951, struck out "Washington,".
 
 **1949**—Subsec. (c). Act Aug. 16, 1949, created a Swainsboro division and provided for holding court there.
 
@@ -120,6 +120,6 @@ Amendment by Pub. L. 99–657 effective 90 days after Nov. 14, 1986, and not to 
 
 #### Effective Date of 1984 Amendment ####
 
-Pub. L. 98–620, title IV, §408(d), Nov. 8, 1984, 98 Stat. 3362, provided that: “The amendments made by this section [amending this section] shall apply to any action commenced in the United States District Court for the Northern District of Georgia on or after the effective date of this subtitle [Jan. 1, 1985], and shall not affect any action pending in such court on such effective date.”
+Pub. L. 98–620, title IV, §408(d), Nov. 8, 1984, 98 Stat. 3362, provided that: "The amendments made by this section [amending this section] shall apply to any action commenced in the United States District Court for the Northern District of Georgia on or after the effective date of this subtitle [Jan. 1, 1985], and shall not affect any action pending in such court on such effective date."
 
 Amendment by Pub. L. 98–620 effective Jan. 1, 1985, and not to affect the composition, or preclude the service, of any grand or petit jury summoned, impaneled, or actually serving on that date, see section 411 of Pub. L. 98–620, set out as a note under section 85 of this title.

@@ -12,7 +12,7 @@ It is the purpose of this section to—
 
 #### (1) Establishment ####
 
-The Secretary shall establish the National Center for Health Workforce Analysis (referred to in this section as the “National Center”).
+The Secretary shall establish the National Center for Health Workforce Analysis (referred to in this section as the "National Center").
 
 #### (2) Purposes ####
 
@@ -122,10 +122,10 @@ Another prior section 761 of act July 1, 1944, was classified to section 295 of 
 
 **2010**—Subsecs. (b) to (e). Pub. L. 111–148, §5103(a)(1), (2), added subsecs. (b) to (d), redesignated former subsec. (c) as (e), and struck out former subsec. (b) which related to award of grants or contracts.
 
-Subsec. (e)(1). Pub. L. 111–148, §5103(a)(3)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section, $750,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002.”
+Subsec. (e)(1). Pub. L. 111–148, §5103(a)(3)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this section, $750,000 for fiscal year 1998, and such sums as may be necessary for each of the fiscal years 1999 through 2002."
 
-Subsec. (e)(2). Pub. L. 111–148, §5103(a)(4), which directed amendment of “paragraph (2)”, without specifying the subsec. to be amended, by substituting “paragraph (1)” for “subsection (a)”, was executed by making the substitution in par. (2) of subsec. (e), to reflect the probable intent of Congress.
+Subsec. (e)(2). Pub. L. 111–148, §5103(a)(4), which directed amendment of "paragraph (2)", without specifying the subsec. to be amended, by substituting "paragraph (1)" for "subsection (a)", was executed by making the substitution in par. (2) of subsec. (e), to reflect the probable intent of Congress.
 
 #### Transfer of Functions ####
 
-Pub. L. 111–148, title V, §5103(b), Mar. 23, 2010, 124 Stat. 605, provided that: “Not later than 180 days after the date of enactment of this Act [Mar. 23, 2010], the responsibilities and resources of the National Center for Health Workforce Analysis, as in effect on the date before the date of enactment of this Act, shall be transferred to the National Center for Health Care Workforce Analysis established under section 761 of the Public Health Service Act [42 U.S.C. 294n], as amended by subsection (a).”
+Pub. L. 111–148, title V, §5103(b), Mar. 23, 2010, 124 Stat. 605, provided that: "Not later than 180 days after the date of enactment of this Act [Mar. 23, 2010], the responsibilities and resources of the National Center for Health Workforce Analysis, as in effect on the date before the date of enactment of this Act, shall be transferred to the National Center for Health Care Workforce Analysis established under section 761 of the Public Health Service Act [42 U.S.C. 294n], as amended by subsection (a)."

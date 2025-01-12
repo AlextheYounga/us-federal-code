@@ -12,7 +12,7 @@ Except as provided under subsections (e) and (f), each importer shall perform ri
 
 #### (2) Importer defined ####
 
-For purposes of this section, the term “importer” means, with respect to an article of food—
+For purposes of this section, the term "importer" means, with respect to an article of food—
 
 (A) the United States owner or consignee of the article of food at the time of entry of such article into the United States; or
 
@@ -84,4 +84,4 @@ Nothing in this section to be construed to apply to certain alcohol-related faci
 
 [<sup>1</sup> So in original.](#384a_1)
 
-[<sup>2</sup> So in original. Probably should be “title”.](#384a_2)
+[<sup>2</sup> So in original. Probably should be "title".](#384a_2)

@@ -32,7 +32,7 @@ No stamp sold under this subchapter shall be valid under any circumstances to au
 
 #### (A) Definition of retail dealer ####
 
-In this paragraph, the term “retail dealer” means—
+In this paragraph, the term "retail dealer" means—
 
 (i) any individual or entity that is regularly engaged in the business of retailing hunting or fishing equipment; and
 
@@ -72,29 +72,29 @@ have been obligated for expenditure.
 
 Subsec. (a). Pub. L. 109–266, §10(b), added subsec. (a) and struck out former subsec. (a) which related to issuance and sale of stamps, fund disposition, and unsold stamps.
 
-Subsec. (b). Pub. L. 109–266, §10(c)(4), which directed amendment of par. (2) by striking “For purposes” and all that follows through “of any such year.”, was executed by striking “For purposes of this section, the term ‘hunting year’ means the 12-month period beginning on July 1 of any such year.” at the end of the concluding provisions following par. (2), to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 109–266, §10(c)(4), which directed amendment of par. (2) by striking "For purposes" and all that follows through "of any such year.", was executed by striking "For purposes of this section, the term 'hunting year' means the 12-month period beginning on July 1 of any such year." at the end of the concluding provisions following par. (2), to reflect the probable intent of Congress.
 
-Pub. L. 109–266, §10(c)(1)–(3), inserted heading and substituted “Secretary” for “Secretary of the Interior” and “Migratory Bird Conservation Fund” for “migratory bird conservation fund” in introductory provisions.
+Pub. L. 109–266, §10(c)(1)–(3), inserted heading and substituted "Secretary" for "Secretary of the Interior" and "Migratory Bird Conservation Fund" for "migratory bird conservation fund" in introductory provisions.
 
-**1986**—Subsec. (b). Pub. L. 99–645, §202(1), (2), in introductory provisions, substituted “$10.00 for each stamp sold under the provisions of this section for hunting years 1987 and 1988, $12.50 for hunting years 1989 and 1990, and $15.00 for each hunting year thereafter, if” for “$7.50 for each stamp sold under the provisions of this section for any hunting year if”.
+**1986**—Subsec. (b). Pub. L. 99–645, §202(1), (2), in introductory provisions, substituted "$10.00 for each stamp sold under the provisions of this section for hunting years 1987 and 1988, $12.50 for hunting years 1989 and 1990, and $15.00 for each hunting year thereafter, if" for "$7.50 for each stamp sold under the provisions of this section for any hunting year if".
 
-Pub. L. 99–625 and Pub. L. 99–645, §202(3), amended subsec. (b) identically, inserting “available for obligation” before “attributable to”.
+Pub. L. 99–625 and Pub. L. 99–645, §202(3), amended subsec. (b) identically, inserting "available for obligation" before "attributable to".
 
-**1978**—Subsec. (a). Pub. L. 95–616 substituted “June” for “September” in sixth sentence.
+**1978**—Subsec. (a). Pub. L. 95–616 substituted "June" for "September" in sixth sentence.
 
-Pub. L. 95–552, §1(1), (2), designated existing provisions as subsec. (a), inserted in third sentence introductory text “Except as provided in subsection (b) of this section,” and “for any hunting year” before “there shall be collected”.
+Pub. L. 95–552, §1(1), (2), designated existing provisions as subsec. (a), inserted in third sentence introductory text "Except as provided in subsection (b) of this section," and "for any hunting year" before "there shall be collected".
 
 Subsec. (b). Pub. L. 95–552, §1(3), added subsec. (b).
 
-**1976**—Pub. L. 94–273 substituted “the year” for “the fiscal year” and “each year” for “each fiscal year”.
+**1976**—Pub. L. 94–273 substituted "the year" for "the fiscal year" and "each year" for "each fiscal year".
 
-Pub. L. 94–215 authorized sale of stamps by the Department of the Interior, substituted provision for prescription of regulations jointly by the Postal Service and the Secretary of the Interior for prior provision for such prescription by the Postal Service and provision for sale of stamps at any establishment, facility, or location as the Postal Service and the Secretary of the Interior shall direct and authorize for prior provision for sale of stamps at such post offices other than first- and second-class post offices as the Postal Service shall direct and inserted provision respecting deposit of funds from sale of stamps by the Department of the Interior in the migratory bird conservation fund; and substituted “September” for “June” in relation to redemption of blocks of stamps, designated existing provisions as cls. (A) and (B), and substituted “consignment to any person, including, but not limited to, “retail dealers” for “consignment to retail dealers” in cl. (A) and “by any such person” for “by such dealers” in cl. (B), respectively.
+Pub. L. 94–215 authorized sale of stamps by the Department of the Interior, substituted provision for prescription of regulations jointly by the Postal Service and the Secretary of the Interior for prior provision for such prescription by the Postal Service and provision for sale of stamps at any establishment, facility, or location as the Postal Service and the Secretary of the Interior shall direct and authorize for prior provision for sale of stamps at such post offices other than first- and second-class post offices as the Postal Service shall direct and inserted provision respecting deposit of funds from sale of stamps by the Department of the Interior in the migratory bird conservation fund; and substituted "September" for "June" in relation to redemption of blocks of stamps, designated existing provisions as cls. (A) and (B), and substituted "consignment to any person, including, but not limited to, "retail dealers" for "consignment to retail dealers" in cl. (A) and "by any such person" for "by such dealers" in cl. (B), respectively.
 
-**1971**—Pub. L. 92–214 substituted “Postal Service” for “Post Office Department” and “Postmaster General” and inserted provisions authorizing the collection of up to $5 for each stamp sold to be determined by the Secretary of the Interior after taking into consideration, among other matters, the increased cost of lands needed for the conservation of migratory birds.
+**1971**—Pub. L. 92–214 substituted "Postal Service" for "Post Office Department" and "Postmaster General" and inserted provisions authorizing the collection of up to $5 for each stamp sold to be determined by the Secretary of the Interior after taking into consideration, among other matters, the increased cost of lands needed for the conservation of migratory birds.
 
 **1958**—Pub. L. 85–585 increased cost of stamp from $2 to $3.
 
-**1956**—Act July 30, 1956, §2, struck out in existing next to last sentence requirement that stamps remaining unsold by the Post Office Department subsequent to becoming void after the 30th day of June next succeeding issuance be destroyed, substituted provisions in existing last sentence relating to redemption of blocks of unused stamps sold on consignment to retail dealers for resale to their customers, for provisions prohibiting the redemption by the Department in cash or kind of stamps sold under this Act, and inserted sentence defining “retail dealers”. For further amendment of next to last sentence of this section, see section 3(c) of act July 30, 1956, set out below.
+**1956**—Act July 30, 1956, §2, struck out in existing next to last sentence requirement that stamps remaining unsold by the Post Office Department subsequent to becoming void after the 30th day of June next succeeding issuance be destroyed, substituted provisions in existing last sentence relating to redemption of blocks of unused stamps sold on consignment to retail dealers for resale to their customers, for provisions prohibiting the redemption by the Department in cash or kind of stamps sold under this Act, and inserted sentence defining "retail dealers". For further amendment of next to last sentence of this section, see section 3(c) of act July 30, 1956, set out below.
 
 Act July 30, 1956, §3(c), formerly §3(b), as renumbered by Pub. L. 109–266, §10(i)(1), substituted provisions in fourth sentence authorizing use as migratory-bird stamps only during fiscal year for which issued, for provisions requiring stamps to expire and be void after the 30th day of June next succeeding issuance. Amendment of fourth sentence by section 3(c) further amends amendments made to next to last sentence by section 2 of act July 30, 1956, as set out above.
 
@@ -104,8 +104,8 @@ Act July 30, 1956, §3(c), formerly §3(b), as renumbered by Pub. L. 109–266, 
 
 #### Effective Date of 1958 Amendment ####
 
-Pub. L. 85–585, §4, Aug. 1, 1958, 72 Stat. 487, provided that: “The amendment made by the first section of this Act [amending this section] shall become effective on July 1, 1959. The amendment made by section 2 of this Act [amending section 718d of this title] making available the net proceeds of all moneys received in the migratory bird conservation fund for the location, ascertainment, and acquisition of Waterfowl Production Areas and suitable areas for migratory bird refuges shall become effective on July 1, 1960. The remaining amendments made by this Act [amending section 718d of this title] shall become effective on the date of the enactment of this Act [Aug. 1, 1958]. Any unobligated balance remaining in the migratory bird conservation fund on June 30, 1960, shall thereafter be available for expenditure only for the purposes specified in the Migratory Bird Hunting Stamp Act [now Migratory Bird Hunting and Conservation Stamp Act] of March 16, 1934 [this subchapter], as amended by this Act.”
+Pub. L. 85–585, §4, Aug. 1, 1958, 72 Stat. 487, provided that: "The amendment made by the first section of this Act [amending this section] shall become effective on July 1, 1959. The amendment made by section 2 of this Act [amending section 718d of this title] making available the net proceeds of all moneys received in the migratory bird conservation fund for the location, ascertainment, and acquisition of Waterfowl Production Areas and suitable areas for migratory bird refuges shall become effective on July 1, 1960. The remaining amendments made by this Act [amending section 718d of this title] shall become effective on the date of the enactment of this Act [Aug. 1, 1958]. Any unobligated balance remaining in the migratory bird conservation fund on June 30, 1960, shall thereafter be available for expenditure only for the purposes specified in the Migratory Bird Hunting Stamp Act [now Migratory Bird Hunting and Conservation Stamp Act] of March 16, 1934 [this subchapter], as amended by this Act."
 
 #### Spending of Stamp Money ####
 
-Act Aug. 12, 1949, ch. 421, §1, 63 Stat. 599, provided in part: “That the moneys derived from the sale of such stamps shall be spent only upon specific appropriation by the Congress.”
+Act Aug. 12, 1949, ch. 421, §1, 63 Stat. 599, provided in part: "That the moneys derived from the sale of such stamps shall be spent only upon specific appropriation by the Congress."

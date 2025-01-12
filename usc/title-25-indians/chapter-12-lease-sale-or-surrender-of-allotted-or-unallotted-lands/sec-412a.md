@@ -6,4 +6,4 @@ All homesteads, heretofore purchased out of the trust or restricted funds of ind
 
 #### Amendments ####
 
-**1937**—Act May 19, 1937, substituted “All homesteads” and “individual Indians” for “All lands the title to which is now held by an Indian subject to restrictions against alienation or encumbrance except with the consent or approval of the Secretary of the Interior” and “said Indian”, respectively, and inserted two provisos.
+**1937**—Act May 19, 1937, substituted "All homesteads" and "individual Indians" for "All lands the title to which is now held by an Indian subject to restrictions against alienation or encumbrance except with the consent or approval of the Secretary of the Interior" and "said Indian", respectively, and inserted two provisos.

@@ -6,4 +6,4 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### Amendments ####
 
-**1984**—Pub. L. 98–479 substituted “Health and Human Services” for “Health, Education, and Welfare”.
+**1984**—Pub. L. 98–479 substituted "Health and Human Services" for "Health, Education, and Welfare".

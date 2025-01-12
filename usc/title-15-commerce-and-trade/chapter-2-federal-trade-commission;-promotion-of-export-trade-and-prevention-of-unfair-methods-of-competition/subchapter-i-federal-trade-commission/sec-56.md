@@ -36,7 +36,7 @@ the Commission shall have exclusive authority to commence or defend, and supervi
 
 (B) In any case where the Attorney General represents the Commission before the Supreme Court in any civil action in which the Commission represented itself pursuant to paragraph (1) or (2), the Attorney General may not agree to any settlement, compromise, or dismissal of such action, or confess error in the Supreme Court with respect to such action, unless the Commission concurs.
 
-(C) For purposes of this paragraph (with respect to representation before the Supreme Court), the term “Attorney General” includes the Solicitor General.
+(C) For purposes of this paragraph (with respect to representation before the Supreme Court), the term "Attorney General" includes the Solicitor General.
 
 (4) If, prior to the expiration of the 45-day period specified in paragraph (1) of this section or a 60-day period specified in paragraph (3), any right of the Commission to commence, defend, or intervene in, any such action or appeal may be extinguished due to any procedural requirement of any court with respect to the time in which any pleadings, notice of appeal, or other acts pertaining to such action or appeal may be taken, the Attorney General shall have one-half of the time required to comply with any such procedural requirement of the court (including any extension of such time granted by the court) for the purpose of commencing, defending, or intervening in the civil action pursuant to paragraph (1) or for the purpose of refusing to appeal or file a petition for writ of certiorari and the written notification or failing to take any action pursuant to paragraph 3(A)(ii).
 
@@ -74,7 +74,7 @@ For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date
 
 **2012**—Pub. L. 112–203, §1, amended Pub. L. 109–455, §13. See 2006 Amendment notes below.
 
-**2006**—Subsec. (a)(2)(E). Pub. L. 109–455, §7(b), which added subpar. (E) reading “under section 57b–2a of this title;”, was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. See Termination Date of 2006 Amendment note below.
+**2006**—Subsec. (a)(2)(E). Pub. L. 109–455, §7(b), which added subpar. (E) reading "under section 57b–2a of this title;", was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. See Termination Date of 2006 Amendment note below.
 
 Subsec. (c). Pub. L. 109–455, §5, which added subsec. (c) relating to attorneys used and money expended for foreign litigation, was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. See Termination Date of 2006 Amendment note below.
 
@@ -88,7 +88,7 @@ Amendment by sections 5 and 7(b) of Pub. L. 109–455 repealed effective Sept. 3
 
 #### Effective Date of 1975 Amendment ####
 
-Pub. L. 93–637, title II, §204(c), Jan. 4, 1975, 88 Stat. 2200, provided that: “The amendment and repeal made by this section [amending this section and repealing section 45(m) of this title] shall not apply to any civil action commenced before the date of enactment of this Act [Jan. 4, 1975].”
+Pub. L. 93–637, title II, §204(c), Jan. 4, 1975, 88 Stat. 2200, provided that: "The amendment and repeal made by this section [amending this section and repealing section 45(m) of this title] shall not apply to any civil action commenced before the date of enactment of this Act [Jan. 4, 1975]."
 
 #### Transfer of Functions ####
 

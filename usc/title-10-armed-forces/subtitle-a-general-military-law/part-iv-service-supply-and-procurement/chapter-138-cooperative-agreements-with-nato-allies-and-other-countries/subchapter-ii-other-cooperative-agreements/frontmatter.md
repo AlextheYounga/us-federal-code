@@ -32,7 +32,7 @@ Sec.
 
 **2008**—Pub. L. 110–417, [div. A], title XII, §1232(a)(2), Oct. 14, 2008, 122 Stat. 4639, added item 2350m.
 
-**2001**—Pub. L. 107–107, div. A, title XII, §§1212(e)(2), 1213(b), Dec. 28, 2001, 115 Stat. 1250, 1251, substituted “Cooperative research and development agreements: NATO organizations; allied and friendly foreign countries” for “Cooperative research and development projects: allied countries” in item 2350a and added item 2350*l.*
+**2001**—Pub. L. 107–107, div. A, title XII, §§1212(e)(2), 1213(b), Dec. 28, 2001, 115 Stat. 1250, 1251, substituted "Cooperative research and development agreements: NATO organizations; allied and friendly foreign countries" for "Cooperative research and development projects: allied countries" in item 2350a and added item 2350*l.*
 
 **1996**—Pub. L. 104–106, div. A, title XIII, §1332(a)(2), Feb. 10, 1996, 110 Stat. 484, added item 2350k.
 

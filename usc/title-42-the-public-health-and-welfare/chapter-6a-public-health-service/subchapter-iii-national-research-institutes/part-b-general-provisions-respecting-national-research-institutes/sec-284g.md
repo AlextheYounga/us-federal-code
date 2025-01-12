@@ -4,7 +4,7 @@
 
 #### (1) Expansion of activities ####
 
-The Director of NIH (in this section referred to as the “Director”) shall, subject to the availability of appropriations, expand, intensify, and coordinate the activities of the National Institutes of Health with respect to research on autism spectrum disorder, including basic and clinical research in fields including pathology, developmental neurobiology, genetics, epigenetics, pharmacology, nutrition, immunology, neuroimmunology, neurobehavioral development, endocrinology, gastroenterology, and toxicology. Such research shall investigate the cause (including possible environmental causes), diagnosis or rule out, early detection, prevention, services, supports, intervention, and treatment of autism spectrum disorder.
+The Director of NIH (in this section referred to as the "Director") shall, subject to the availability of appropriations, expand, intensify, and coordinate the activities of the National Institutes of Health with respect to research on autism spectrum disorder, including basic and clinical research in fields including pathology, developmental neurobiology, genetics, epigenetics, pharmacology, nutrition, immunology, neuroimmunology, neurobehavioral development, endocrinology, gastroenterology, and toxicology. Such research shall investigate the cause (including possible environmental causes), diagnosis or rule out, early detection, prevention, services, supports, intervention, and treatment of autism spectrum disorder.
 
 #### (2) Consolidation ####
 
@@ -68,19 +68,19 @@ Another section 409C of act July 1, 1944, was renumbered section 409G and is cla
 
 #### Amendments ####
 
-**2007**—Subsec. (b)(4) to (6). Pub. L. 109–482, §104(b)(1)(D), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out heading and text of former par. (4). Text read as follows: “The Director shall, as appropriate, provide for the coordination of information among centers under paragraph (1) and ensure regular communication between such centers, and may require the periodic preparation of reports on the activities of the centers and the submission of the reports to the Director.”
+**2007**—Subsec. (b)(4) to (6). Pub. L. 109–482, §104(b)(1)(D), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out heading and text of former par. (4). Text read as follows: "The Director shall, as appropriate, provide for the coordination of information among centers under paragraph (1) and ensure regular communication between such centers, and may require the periodic preparation of reports on the activities of the centers and the submission of the reports to the Director."
 
 Subsec. (e). Pub. L. 109–482, §103(b)(9), which directed the striking of subsec. (e), could not be executed because of prior amendment by Pub. L. 109–416. See 2006 Amendment note below.
 
-**2006**—Pub. L. 109–416, §2(a)(1), substituted “autism spectrum disorder” for “autism” in section catchline.
+**2006**—Pub. L. 109–416, §2(a)(1), substituted "autism spectrum disorder" for "autism" in section catchline.
 
-Subsec. (a). Pub. L. 109–416, §2(a)(3), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: “The Director of NIH (in this section referred to as the ‘Director’) shall expand, intensify, and coordinate the activities of the National Institutes of Health with respect to research on autism.”
+Subsec. (a). Pub. L. 109–416, §2(a)(3), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: "The Director of NIH (in this section referred to as the 'Director') shall expand, intensify, and coordinate the activities of the National Institutes of Health with respect to research on autism."
 
-Subsec. (b)(1), (2). Pub. L. 109–416, §2(a)(2), substituted “autism spectrum disorder” for “autism” in par. (1) and in two places in par. (2).
+Subsec. (b)(1), (2). Pub. L. 109–416, §2(a)(2), substituted "autism spectrum disorder" for "autism" in par. (1) and in two places in par. (2).
 
-Subsecs. (c), (d). Pub. L. 109–416, §2(a)(2), substituted “autism spectrum disorder” for “autism”.
+Subsecs. (c), (d). Pub. L. 109–416, §2(a)(2), substituted "autism spectrum disorder" for "autism".
 
-Subsec. (e). Pub. L. 109–416, §4(b), struck out heading and text of subsec. (e). Text read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out this section. Amounts appropriated under this subsection are in addition to any other amounts appropriated for such purpose.”
+Subsec. (e). Pub. L. 109–416, §4(b), struck out heading and text of subsec. (e). Text read as follows: "There are authorized to be appropriated such sums as may be necessary to carry out this section. Amounts appropriated under this subsection are in addition to any other amounts appropriated for such purpose."
 
 #### Effective Date of 2007 Amendment ####
 

@@ -20,11 +20,11 @@
 
 (3) For purposes of this section:
 
-(A) The term “conduit” means any tunnel, canal, pipeline, aqueduct, flume, ditch, or similar manmade water conveyance that is operated for the distribution of water for agricultural, municipal, or industrial consumption and not primarily for the generation of electricity.
+(A) The term "conduit" means any tunnel, canal, pipeline, aqueduct, flume, ditch, or similar manmade water conveyance that is operated for the distribution of water for agricultural, municipal, or industrial consumption and not primarily for the generation of electricity.
 
-(B) The term “qualifying conduit hydropower facility” means a facility (not including any dam or other impoundment) that is determined or deemed under paragraph (2)(C) to meet the qualifying criteria.
+(B) The term "qualifying conduit hydropower facility" means a facility (not including any dam or other impoundment) that is determined or deemed under paragraph (2)(C) to meet the qualifying criteria.
 
-(C) The term “qualifying criteria” means, with respect to a facility—
+(C) The term "qualifying criteria" means, with respect to a facility—
 
 (i) the facility is constructed, operated, or maintained for the generation of electric power and uses for such generation only the hydroelectric potential of a non-federally owned conduit;
 
@@ -70,13 +70,13 @@ A prior section 30 of act June 10, 1920, was classified to section 791 of this t
 
 **2013**—Subsecs. (a), (b). Pub. L. 113–23, §4(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which authorized the Commission to grant exemptions from the requirements of this subchapter for certain hydroelectric facilities and prohibited the granting of exemptions to facilities with certain capacities.
 
-Subsec. (c). Pub. L. 113–23, §4(a)(2), substituted “subsection (b)” for “subsection (a)” in introductory provisions.
+Subsec. (c). Pub. L. 113–23, §4(a)(2), substituted "subsection (b)" for "subsection (a)" in introductory provisions.
 
-Subsec. (d). Pub. L. 113–23, §4(a)(3), substituted “subsection (b)” for “subsection (a)”.
+Subsec. (d). Pub. L. 113–23, §4(a)(3), substituted "subsection (b)" for "subsection (a)".
 
 **1986**—Subsec. (b). Pub. L. 99–495, §7(a), inserted provision setting the maximum installation capacity for exemptions under subsec. (a) at 40 megawatts in the case of a facility constructed, operated, and maintained by an agency or instrumentality of a State or local government solely for water supply for municipal purposes.
 
-Subsec. (c). Pub. L. 99–495, §7(b), which directed the insertion of “National Marine Fisheries Service” after “the Fish and Wildlife Service” in both places such term appears, was executed by inserting “National Marine Fisheries Service” after “the United States Fish and Wildlife Service” and “the Fish and Wildlife Service”, as the probable intent of Congress.
+Subsec. (c). Pub. L. 99–495, §7(b), which directed the insertion of "National Marine Fisheries Service" after "the Fish and Wildlife Service" in both places such term appears, was executed by inserting "National Marine Fisheries Service" after "the United States Fish and Wildlife Service" and "the Fish and Wildlife Service", as the probable intent of Congress.
 
 Subsec. (e). Pub. L. 99–495, §7(c), added subsec. (e).
 
@@ -86,6 +86,6 @@ Amendment by Pub. L. 99–495 effective with respect to each license, permit, or
 
 #### Application of Subsection (c) ####
 
-Pub. L. 99–495, §8(c), Oct. 16, 1986, 100 Stat. 1251, provided that: “Nothing in this Act [see Short Title of 1986 Amendment note set out under section 791a of this title] shall affect the application of section 30(c) of the Federal Power Act [16 U.S.C. 823a(c)] to any exemption issued after the enactment of this Act [Oct. 16, 1986].”
+Pub. L. 99–495, §8(c), Oct. 16, 1986, 100 Stat. 1251, provided that: "Nothing in this Act [see Short Title of 1986 Amendment note set out under section 791a of this title] shall affect the application of section 30(c) of the Federal Power Act [16 U.S.C. 823a(c)] to any exemption issued after the enactment of this Act [Oct. 16, 1986]."
 
 [<sup>1</sup> So in original. Probably should be followed by a comma.](#823a_1)

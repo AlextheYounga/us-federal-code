@@ -32,9 +32,9 @@ A prior section 1201 of act July 1, 1944, ch. 373, title XII, formerly §1205, a
 
 **2007**—Pub. L. 110–23 amended section generally. Prior to amendment, section required the Secretary to provide support to trauma care, authorized the Secretary to make grants and enter into agreements for such support, and required the Administrator of the Health Resources and Services Administration to ensure that the Division of Trauma and Emergency Medical Systems administered this subchapter.
 
-**1996**—Subsec. (a). Pub. L. 104–146, in introductory provisions, substituted “The Secretary shall,” for “The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall,”.
+**1996**—Subsec. (a). Pub. L. 104–146, in introductory provisions, substituted "The Secretary shall," for "The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall,".
 
-**1993**—Subsec. (a). Pub. L. 103–183, §601(a)(1), in introductory provisions inserted “, acting through the Administrator of the Health Resources and Services Administration,” after “Secretary”.
+**1993**—Subsec. (a). Pub. L. 103–183, §601(a)(1), in introductory provisions inserted ", acting through the Administrator of the Health Resources and Services Administration," after "Secretary".
 
 Subsec. (c). Pub. L. 103–183, §601(a)(2), added subsec. (c).
 
@@ -44,18 +44,18 @@ Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L.
 
 #### Congressional Statement of Findings ####
 
-Pub. L. 101–590, §2, Nov. 16, 1990, 104 Stat. 2915, provided that: “The Congress finds that—
+Pub. L. 101–590, §2, Nov. 16, 1990, 104 Stat. 2915, provided that: "The Congress finds that—
 
-“(1) the Federal Government and the governments of the States have established a history of cooperation in the development, implementation, and monitoring of integrated, comprehensive systems for the provision of emergency medical services throughout the United States;
+"(1) the Federal Government and the governments of the States have established a history of cooperation in the development, implementation, and monitoring of integrated, comprehensive systems for the provision of emergency medical services throughout the United States;
 
-“(2) physical trauma is the leading cause of death of Americans between the ages of 1 and 44 and is the third leading cause of death in the general population of the United States;
+"(2) physical trauma is the leading cause of death of Americans between the ages of 1 and 44 and is the third leading cause of death in the general population of the United States;
 
-“(3) physical trauma in the United States results in an aggregate annual cost of $180,000,000,000 in medical expenses, insurance, lost wages, and property damage;
+"(3) physical trauma in the United States results in an aggregate annual cost of $180,000,000,000 in medical expenses, insurance, lost wages, and property damage;
 
-“(4) barriers to the provision of prompt and appropriate emergency medical services exist in many areas of the United States;
+"(4) barriers to the provision of prompt and appropriate emergency medical services exist in many areas of the United States;
 
-“(5) few States and communities have developed and implemented trauma care systems;
+"(5) few States and communities have developed and implemented trauma care systems;
 
-“(6) many trauma centers have incurred substantial uncompensated costs in providing trauma care, and such costs have caused many such centers to cease participation in trauma care systems; and
+"(6) many trauma centers have incurred substantial uncompensated costs in providing trauma care, and such costs have caused many such centers to cease participation in trauma care systems; and
 
-“(7) the number of incidents of physical trauma in the United States is a serious medical and social problem, and the number of deaths resulting from such incidents can be substantially reduced by improving the trauma-care components of the systems for the provision of emergency medical services in the United States.”
+"(7) the number of incidents of physical trauma in the United States is a serious medical and social problem, and the number of deaths resulting from such incidents can be substantially reduced by improving the trauma-care components of the systems for the provision of emergency medical services in the United States."

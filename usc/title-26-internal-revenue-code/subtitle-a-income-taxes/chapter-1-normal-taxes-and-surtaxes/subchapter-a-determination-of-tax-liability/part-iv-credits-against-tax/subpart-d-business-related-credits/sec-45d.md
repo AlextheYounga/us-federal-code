@@ -16,7 +16,7 @@ For purposes of paragraph (1), the applicable percentage is—
 
 #### (3) Credit allowance date ####
 
-For purposes of paragraph (1), the term “credit allowance date” means, with respect to any qualified equity investment—
+For purposes of paragraph (1), the term "credit allowance date" means, with respect to any qualified equity investment—
 
 (A) the date on which such investment is initially made, and
 
@@ -28,7 +28,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “qualified equity investment” means any equity investment in a qualified community development entity if—
+The term "qualified equity investment" means any equity investment in a qualified community development entity if—
 
 (A) such investment is acquired by the taxpayer at its original issue (directly or through an underwriter) solely in exchange for cash,
 
@@ -48,7 +48,7 @@ The requirement of paragraph (1)(B) shall be treated as met if at least 85 perce
 
 #### (4) Treatment of subsequent purchasers ####
 
-The term “qualified equity investment” includes any equity investment which would (but for paragraph (1)(A)) be a qualified equity investment in the hands of the taxpayer if such investment was a qualified equity investment in the hands of a prior holder.
+The term "qualified equity investment" includes any equity investment which would (but for paragraph (1)(A)) be a qualified equity investment in the hands of the taxpayer if such investment was a qualified equity investment in the hands of a prior holder.
 
 #### (5) Redemptions ####
 
@@ -56,7 +56,7 @@ A rule similar to the rule of section 1202(c)(3) shall apply for purposes of thi
 
 #### (6) Equity investment ####
 
-The term “equity investment” means—
+The term "equity investment" means—
 
 (A) any stock (other than nonqualified preferred stock as defined in section 351(g)(2)) in an entity which is a corporation, and
 
@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “qualified community development entity” means any domestic corporation or partnership if—
+The term "qualified community development entity" means any domestic corporation or partnership if—
 
 (A) the primary mission of the entity is serving, or providing investment capital for, low-income communities or low-income persons,
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “qualified low-income community investment” means—
+The term "qualified low-income community investment" means—
 
 (A) any capital or equity investment in, or loan to, any qualified active low-income community business,
 
@@ -104,7 +104,7 @@ The term “qualified low-income community investment” means—
 
 #### (A) In general ####
 
-For purposes of paragraph (1), the term “qualified active low-income community business” means, with respect to any taxable year, any corporation (including a nonprofit corporation) or partnership if for such year—
+For purposes of paragraph (1), the term "qualified active low-income community business" means, with respect to any taxable year, any corporation (including a nonprofit corporation) or partnership if for such year—
 
 (i) at least 50 percent of the total gross income of such entity is derived from the active conduct of a qualified business within any low-income community,
 
@@ -122,11 +122,11 @@ Such term shall include any business carried on by an individual as a proprietor
 
 #### (C) Portions of business may be qualified active low-income community business ####
 
-The term “qualified active low-income community business” includes any trades or businesses which would qualify as a qualified active low-income community business if such trades or businesses were separately incorporated.
+The term "qualified active low-income community business" includes any trades or businesses which would qualify as a qualified active low-income community business if such trades or businesses were separately incorporated.
 
 #### (3) Qualified business ####
 
-For purposes of this subsection, the term “qualified business” has the meaning given to such term by section 1397C(d); except that—
+For purposes of this subsection, the term "qualified business" has the meaning given to such term by section 1397C(d); except that—
 
 (A) in lieu of applying paragraph (2)(B) thereof, the rental to others of real property located in any low-income community shall be treated as a qualified business if there are substantial improvements located on such property, and
 
@@ -138,7 +138,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “low-income community” means any population census tract if—
+The term "low-income community" means any population census tract if—
 
 (A) the poverty rate for such tract is at least 20 percent, or
 
@@ -168,11 +168,11 @@ A population census tract with a population of less than 2,000 shall be treated 
 
 #### (A) In general ####
 
-In the case of a population census tract located within a high migration rural county, paragraph (1)(B)(i) shall be applied by substituting “85 percent” for “80 percent”.
+In the case of a population census tract located within a high migration rural county, paragraph (1)(B)(i) shall be applied by substituting "85 percent" for "80 percent".
 
 #### (B) High migration rural county ####
 
-For purposes of this paragraph, the term “high migration rural county” means any county which, during the 20-year period ending with the year in which the most recent census was conducted, has a net out-migration of inhabitants from the county of at least 10 percent of the population of the county at the beginning of such period.
+For purposes of this paragraph, the term "high migration rural county" means any county which, during the 20-year period ending with the year in which the most recent census was conducted, has a net out-migration of inhabitants from the county of at least 10 percent of the population of the county at the beginning of such period.
 
 #### (f) National limitation on amount of investments designated ####
 
@@ -266,21 +266,21 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 #### Amendments ####
 
-**2013**—Subsec. (f)(1)(G). Pub. L. 112–240, §305(a), substituted “2010, 2011, 2012, and 2013” for “2010 and 2011”.
+**2013**—Subsec. (f)(1)(G). Pub. L. 112–240, §305(a), substituted "2010, 2011, 2012, and 2013" for "2010 and 2011".
 
-Subsec. (f)(3). Pub. L. 112–240, §305(b), substituted “2018” for “2016”.
+Subsec. (f)(3). Pub. L. 112–240, §305(b), substituted "2018" for "2016".
 
 **2010**—Subsec. (f)(1)(G). Pub. L. 111–312, §733(a), added subpar. (G).
 
-Subsec. (f)(3). Pub. L. 111–312, §733(b), substituted “2016” for “2014”.
+Subsec. (f)(3). Pub. L. 111–312, §733(b), substituted "2016" for "2014".
 
-**2009**—Subsec. (f)(1)(D). Pub. L. 111–5, §1403(a)(2), substituted “and 2007,” for “, 2007, 2008, and 2009.”
+**2009**—Subsec. (f)(1)(D). Pub. L. 111–5, §1403(a)(2), substituted "and 2007," for ", 2007, 2008, and 2009."
 
 Subsec. (f)(1)(E), (F). Pub. L. 111–5, §1403(a)(1), (3), added subpars. (E) and (F).
 
-**2008**—Subsec. (f)(1)(D). Pub. L. 110–343 substituted “2008, and 2009” for “and 2008”.
+**2008**—Subsec. (f)(1)(D). Pub. L. 110–343 substituted "2008, and 2009" for "and 2008".
 
-**2006**—Subsec. (f)(1)(D). Pub. L. 109–432, §102(a), substituted “, 2007, and 2008” for “and 2007”.
+**2006**—Subsec. (f)(1)(D). Pub. L. 109–432, §102(a), substituted ", 2007, and 2008" for "and 2007".
 
 Subsec. (i)(6). Pub. L. 109–432, §102(b), added par. (6).
 
@@ -292,25 +292,25 @@ Subsec. (e)(5). Pub. L. 108–357, §223(a), added par. (5).
 
 #### Effective Date of 2013 Amendment ####
 
-Pub. L. 112–240, title III, §305(c), Jan. 2, 2013, 126 Stat. 2329, provided that: “The amendments made by this section [amending this section] shall apply to calendar years beginning after December 31, 2011.”
+Pub. L. 112–240, title III, §305(c), Jan. 2, 2013, 126 Stat. 2329, provided that: "The amendments made by this section [amending this section] shall apply to calendar years beginning after December 31, 2011."
 
 #### Effective Date of 2010 Amendment ####
 
-Pub. L. 111–312, title VII, §733(c), Dec. 17, 2010, 124 Stat. 3318, provided that: “The amendments made by this section [amending this section] shall apply to calendar years beginning after 2009.”
+Pub. L. 111–312, title VII, §733(c), Dec. 17, 2010, 124 Stat. 3318, provided that: "The amendments made by this section [amending this section] shall apply to calendar years beginning after 2009."
 
 #### Effective Date of 2006 Amendment ####
 
-Pub. L. 109–432, div. A, title I, §102(c), Dec. 20, 2006, 120 Stat. 2934, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 20, 2006].”
+Pub. L. 109–432, div. A, title I, §102(c), Dec. 20, 2006, 120 Stat. 2934, provided that: "The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 20, 2006]."
 
 #### Effective Date of 2004 Amendment ####
 
 Pub. L. 108–357, title II, §221(c), Oct. 22, 2004, 118 Stat. 1431, provided that:
 
-“(1) Targeted areas.—The amendment made by subsection (a) [amending this section] shall apply to designations made by the Secretary of the Treasury after the date of the enactment of this Act [Oct. 22, 2004].
+"(1) Targeted areas.—The amendment made by subsection (a) [amending this section] shall apply to designations made by the Secretary of the Treasury after the date of the enactment of this Act [Oct. 22, 2004].
 
-“(2) Tracts with low population.—The amendment made by subsection (b) [amending this section] shall apply to investments made after the date of the enactment of this Act [Oct. 22, 2004].”
+"(2) Tracts with low population.—The amendment made by subsection (b) [amending this section] shall apply to investments made after the date of the enactment of this Act [Oct. 22, 2004]."
 
-Pub. L. 108–357, title II, §223(b), Oct. 22, 2004, 118 Stat. 1432, provided that: “The amendment made by this section [amending this section] shall take effect as if included in the amendment made by section 121(a) of the Community Renewal Tax Relief Act of 2000 [Pub. L. 106–554, §1(a)(7) [title I, §121(a)], enacting this section].”
+Pub. L. 108–357, title II, §223(b), Oct. 22, 2004, 118 Stat. 1432, provided that: "The amendment made by this section [amending this section] shall take effect as if included in the amendment made by section 121(a) of the Community Renewal Tax Relief Act of 2000 [Pub. L. 106–554, §1(a)(7) [title I, §121(a)], enacting this section]."
 
 #### Effective Date ####
 
@@ -318,26 +318,26 @@ Section applicable to investments made after Dec. 31, 2000, see §1(a)(7) [title
 
 #### Special Rule for Allocation of Increased 2008 Limitation ####
 
-Pub. L. 111–5, div. B, title I, §1403(b), Feb. 17, 2009, 123 Stat. 352, provided that: “The amount of the increase in the new markets tax credit limitation for calendar year 2008 by reason of the amendments made by subsection (a) [amending this section] shall be allocated in accordance with section 45D(f)(2) of the Internal Revenue Code of 1986 to qualified community development entities (as defined in section 45D(c) of such Code) which—
+Pub. L. 111–5, div. B, title I, §1403(b), Feb. 17, 2009, 123 Stat. 352, provided that: "The amount of the increase in the new markets tax credit limitation for calendar year 2008 by reason of the amendments made by subsection (a) [amending this section] shall be allocated in accordance with section 45D(f)(2) of the Internal Revenue Code of 1986 to qualified community development entities (as defined in section 45D(c) of such Code) which—
 
-“(1) submitted an allocation application with respect to calendar year 2008, and
+"(1) submitted an allocation application with respect to calendar year 2008, and
 
-“(2)(A) did not receive an allocation for such calendar year, or
+"(2)(A) did not receive an allocation for such calendar year, or
 
-“(B) received an allocation for such calendar year in an amount less than the amount requested in the allocation application.”
+"(B) received an allocation for such calendar year in an amount less than the amount requested in the allocation application."
 
 #### Guidance on Allocation of National Limitation ####
 
-Pub. L. 106–554, §1(a)(7) [title I, §121(f)], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 21, 2000], the Secretary of the Treasury or the Secretary's delegate shall issue guidance which specifies—
+Pub. L. 106–554, §1(a)(7) [title I, §121(f)], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, provided that: "Not later than 120 days after the date of the enactment of this Act [Dec. 21, 2000], the Secretary of the Treasury or the Secretary's delegate shall issue guidance which specifies—
 
-“(1) how entities shall apply for an allocation under section 45D(f)(2) of the Internal Revenue Code of 1986, as added by this section;
+"(1) how entities shall apply for an allocation under section 45D(f)(2) of the Internal Revenue Code of 1986, as added by this section;
 
-“(2) the competitive procedure through which such allocations are made; and
+"(2) the competitive procedure through which such allocations are made; and
 
-“(3) the actions that such Secretary or delegate shall take to ensure that such allocations are properly made to appropriate entities.”
+"(3) the actions that such Secretary or delegate shall take to ensure that such allocations are properly made to appropriate entities."
 
 #### Audit and Report ####
 
-Pub. L. 106–554, §1(a)(7) [title I, §121(g)], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, provided that: “Not later than January 31 of 2004, 2007, and 2010, the Comptroller General of the United States shall, pursuant to an audit of the new markets tax credit program established under section 45D of the Internal Revenue Code of 1986 (as added by subsection (a)), report to Congress on such program, including all qualified community development entities that receive an allocation under the new markets credit under such section.”
+Pub. L. 106–554, §1(a)(7) [title I, §121(g)], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, provided that: "Not later than January 31 of 2004, 2007, and 2010, the Comptroller General of the United States shall, pursuant to an audit of the new markets tax credit program established under section 45D of the Internal Revenue Code of 1986 (as added by subsection (a)), report to Congress on such program, including all qualified community development entities that receive an allocation under the new markets credit under such section."
 
-[<sup>1</sup> So in original. Probably should be followed by “, and”.](#45D_1)
+[<sup>1</sup> So in original. Probably should be followed by ", and".](#45D_1)

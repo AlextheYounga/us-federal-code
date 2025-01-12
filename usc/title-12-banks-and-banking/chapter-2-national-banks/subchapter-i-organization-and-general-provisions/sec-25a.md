@@ -24,9 +24,9 @@ A national bank may not permit—
 
 As used in this section—
 
-(1) The term “deal in” includes making, taking, buying, selling, redeeming, or collecting.
+(1) The term "deal in" includes making, taking, buying, selling, redeeming, or collecting.
 
-(2) The term “lottery” includes any arrangement whereby three or more persons (the “participants”) advance money or credit to another in exchange for the possibility or expectation that one or more but not all of the participants (the “winners”) will receive by reason of their advances more than the amounts they have advanced, the identity of the winners being determined by any means which includes—
+(2) The term "lottery" includes any arrangement whereby three or more persons (the "participants") advance money or credit to another in exchange for the possibility or expectation that one or more but not all of the participants (the "winners") will receive by reason of their advances more than the amounts they have advanced, the identity of the winners being determined by any means which includes—
 
 (A) a random selection;
 
@@ -34,7 +34,7 @@ As used in this section—
 
 (C) any record or tabulation of the result of one or more events in which any participant has no interest except for its bearing upon the possibility that he may become a winner.
 
-(3) The term “lottery ticket” includes any right, privilege, or possibility (and any ticket, receipt, record, or other evidence of any such right, privilege, or possibility) of becoming a winner in a lottery.
+(3) The term "lottery ticket" includes any right, privilege, or possibility (and any ticket, receipt, record, or other evidence of any such right, privilege, or possibility) of becoming a winner in a lottery.
 
 #### (d) Lawful banking services connected with operation of lotteries ####
 
@@ -48,6 +48,6 @@ The Comptroller of the Currency shall issue such regulations as may be necessary
 
 #### Effective Date ####
 
-Pub. L. 90–203, §6, Dec. 15, 1967, 81 Stat. 611, provided that: “The amendments made by this Act [adding this section, sections 339, 1730c, and 1829a of this title, and section 1306 of Title 18, Crimes and Criminal Procedure] shall take effect on April 1, 1968.”
+Pub. L. 90–203, §6, Dec. 15, 1967, 81 Stat. 611, provided that: "The amendments made by this Act [adding this section, sections 339, 1730c, and 1829a of this title, and section 1306 of Title 18, Crimes and Criminal Procedure] shall take effect on April 1, 1968."
 
-[<sup>1</sup> So in original. The word “or” probably should appear.](#25a_1)
+[<sup>1</sup> So in original. The word "or" probably should appear.](#25a_1)

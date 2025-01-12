@@ -20,6 +20,6 @@ Section was enacted as part of the Children's Television Act of 1990, and not as
 
 #### Amendments ####
 
-**1994**—Subsec. (a). Pub. L. 103–414 substituted “noncommercial” for “noncommerical”.
+**1994**—Subsec. (a). Pub. L. 103–414 substituted "noncommercial" for "noncommerical".
 
 **1992**—Subsec. (a). Pub. L. 102–356 inserted reference to commercial or noncommercial television broadcast licenses.

@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-There is established within the Office of the Director of NIH an office to be known as the Office of Research on Women's Health (in this part referred to as the “Office”). The Office shall be headed by a director, who shall be appointed by the Director of NIH and who shall report directly to the Director.
+There is established within the Office of the Director of NIH an office to be known as the Office of Research on Women's Health (in this part referred to as the "Office"). The Office shall be headed by a director, who shall be appointed by the Director of NIH and who shall report directly to the Director.
 
 #### (b) Purpose ####
 
@@ -28,7 +28,7 @@ The Director of the Office shall—
 
 #### (c) Coordinating Committee ####
 
-(1) In carrying out subsection (b) of this section, the Director of the Office shall establish a committee to be known as the Coordinating Committee on Research on Women's Health (in this subsection referred to as the “Coordinating Committee”).
+(1) In carrying out subsection (b) of this section, the Director of the Office shall establish a committee to be known as the Coordinating Committee on Research on Women's Health (in this subsection referred to as the "Coordinating Committee").
 
 (2) The Coordinating Committee shall be composed of the Directors of the national research institutes (or the designees of the Directors).
 
@@ -48,7 +48,7 @@ The Director of the Office shall—
 
 #### (d) Advisory Committee ####
 
-(1) In carrying out subsection (b) of this section, the Director of the Office shall establish an advisory committee to be known as the Advisory Committee on Research on Women's Health (in this subsection referred to as the “Advisory Committee”).
+(1) In carrying out subsection (b) of this section, the Director of the Office shall establish an advisory committee to be known as the Advisory Committee on Research on Women's Health (in this subsection referred to as the "Advisory Committee").
 
 (2) The Advisory Committee shall be composed of no fewer than 12, and not more than 18 individuals, who are not officers or employees of the Federal Government. The Director of NIH shall make appointments to the Advisory Committee from among physicians, practitioners, scientists, and other health professionals, whose clinical practice, research specialization, or professional expertise includes a significant focus on research on women's health. A majority of the members of the Advisory Committee shall be women.
 
@@ -92,7 +92,7 @@ The Secretary, acting through the Assistant Secretary for Personnel and in colla
 
 For purposes of this part:
 
-(1) The term “women's health conditions”, with respect to women of all age, ethnic, and racial groups, means all diseases, disorders, and conditions (including with respect to mental health)—
+(1) The term "women's health conditions", with respect to women of all age, ethnic, and racial groups, means all diseases, disorders, and conditions (including with respect to mental health)—
 
 (A) unique to, more serious, or more prevalent in women;
 
@@ -100,15 +100,15 @@ For purposes of this part:
 
 (C) with respect to which there has been insufficient clinical research involving women as subjects or insufficient clinical data on women.
 
-(2) The term “research on women's health” means research on women's health conditions, including research on preventing such conditions.
+(2) The term "research on women's health" means research on women's health conditions, including research on preventing such conditions.
 
 (July 1, 1944, ch. 373, title IV, §486, as added Pub. L. 103–43, title I, §141(a)(3), June 10, 1993, 107 Stat. 136; amended Pub. L. 105–340, title I, §106, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 111–148, title III, §3509(c), Mar. 23, 2010, 124 Stat. 534.)
 
 #### Amendments ####
 
-**2010**—Subsec. (a). Pub. L. 111–148 inserted “and who shall report directly to the Director” before period at end.
+**2010**—Subsec. (a). Pub. L. 111–148 inserted "and who shall report directly to the Director" before period at end.
 
-**1998**—Subsec. (d)(2). Pub. L. 105–340 substituted “NIH” for “the Office”.
+**1998**—Subsec. (d)(2). Pub. L. 105–340 substituted "NIH" for "the Office".
 
 #### Termination of Advisory Committees ####
 

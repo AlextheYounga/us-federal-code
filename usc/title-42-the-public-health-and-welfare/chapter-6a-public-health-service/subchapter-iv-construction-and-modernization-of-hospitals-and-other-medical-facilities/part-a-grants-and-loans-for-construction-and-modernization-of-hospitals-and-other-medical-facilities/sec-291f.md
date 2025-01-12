@@ -24,9 +24,9 @@ Provisions similar to those comprising subsec. (a) of this section were containe
 
 #### Amendments ####
 
-**1970**—Subsec. (c)(1). Pub. L. 91–296, §112(1), substituted “4 per centum” for “2 per centum” and “$100,000 for $50,000”.
+**1970**—Subsec. (c)(1). Pub. L. 91–296, §112(1), substituted "4 per centum" for "2 per centum" and "$100,000 for $50,000".
 
-Subsec. (c)(2). Pub. L. 91–296, §112(2), substituted “June 30, 1970” for “June 30, 1964”.
+Subsec. (c)(2). Pub. L. 91–296, §112(2), substituted "June 30, 1970" for "June 30, 1964".
 
 #### Effective Date of 1970 Amendment ####
 

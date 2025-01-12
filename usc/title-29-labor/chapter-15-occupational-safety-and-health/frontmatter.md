@@ -46,7 +46,7 @@ Sec.
 
 671. National Institute for Occupational Safety and Health.
 
-671a. Workers’ family protection.
+671a. Workers' family protection.
 
 672. Grants to States.
 

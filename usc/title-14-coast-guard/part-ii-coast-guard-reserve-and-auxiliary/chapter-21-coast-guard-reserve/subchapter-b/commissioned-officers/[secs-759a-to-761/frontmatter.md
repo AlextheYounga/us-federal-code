@@ -10,6 +10,6 @@ Section 760, acts Aug. 4, 1949, ch. 393, 63 Stat. 553; Oct. 31, 1951, ch. 655, �
 
 Act Aug. 3, 1956, ch. 926, §2(b), 70 Stat. 982, provided that the amendments made by that section [amending subsec. (a) and adding subsec. (e) of section 760] applied only to benefits for months beginning after the month in which it was enacted [August, 1956].
 
-Act Aug. 3, 1956, ch. 926, §2(c), 70 Stat. 982, provided that the entitlement of any person to benefits under the Federal Employees’ Compensation Act [act Sept. 7, 1916, ch. 458, 39 Stat. 742, repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, see section 8101 et seq. of Title 5, Government Organization and Employees] as it was in effect before the enactment of this section [Aug. 3, 1956] was not affected by this section.
+Act Aug. 3, 1956, ch. 926, §2(c), 70 Stat. 982, provided that the entitlement of any person to benefits under the Federal Employees' Compensation Act [act Sept. 7, 1916, ch. 458, 39 Stat. 742, repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632, see section 8101 et seq. of Title 5, Government Organization and Employees] as it was in effect before the enactment of this section [Aug. 3, 1956] was not affected by this section.
 
 Section 761, act Aug. 4, 1949, ch. 393, 63 Stat. 554, related to members of the Reserve engaging in civil occupations.

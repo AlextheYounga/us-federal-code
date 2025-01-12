@@ -216,7 +216,7 @@ A swap dealer that enters into or offers to enter into swap <sup><a href="#6s_2
 
 #### (C) Special entity defined ####
 
-For purposes of this subsection, the term “special entity” means—
+For purposes of this subsection, the term "special entity" means—
 
 (i) a Federal agency;
 
@@ -486,8 +486,8 @@ Section and amendment by Pub. L. 111–203 effective on the later of 360 days af
 
 [<sup>1</sup> So in original. Probably should be followed by a third closing parenthesis.](#6s_1)
 
-[<sup>2</sup> So in original. Probably should be preceded by “a”.](#6s_2)
+[<sup>2</sup> So in original. Probably should be preceded by "a".](#6s_2)
 
-[<sup>3</sup> So in original. Probably should be “section 1a(18)(A)”.](#6s_3)
+[<sup>3</sup> So in original. Probably should be "section 1a(18)(A)".](#6s_3)
 
-[<sup>4</sup> So in original. Probably should be “Act”.](#6s_4)
+[<sup>4</sup> So in original. Probably should be "Act".](#6s_4)

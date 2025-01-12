@@ -6,4 +6,4 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### Codification ####
 
-June 30, 1974, first appearing in text of section, was in the original “June 30, 1074”. The typographical error was corrected to conform to the apparent intent of the Congress.
+June 30, 1974, first appearing in text of section, was in the original "June 30, 1074". The typographical error was corrected to conform to the apparent intent of the Congress.

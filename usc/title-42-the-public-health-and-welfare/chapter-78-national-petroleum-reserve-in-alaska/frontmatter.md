@@ -2,7 +2,7 @@
 
 Sec.
 
-6501. “Petroleum” defined.
+6501. "Petroleum" defined.
 
 6502. Designation of National Petroleum Reserve in Alaska; reservation of lands; disposition and conveyance of mineral materials, lands, etc., preexisting property rights.
 

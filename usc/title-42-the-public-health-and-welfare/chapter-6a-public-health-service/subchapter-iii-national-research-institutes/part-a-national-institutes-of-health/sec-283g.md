@@ -4,7 +4,7 @@
 
 #### (1) In general ####
 
-The Director of NIH, in coordination with the Directors of the National Institute of Neurological Disorders and Stroke, the National Institute of Arthritis and Muscoskeletal and Skin Diseases, the Eunice Kennedy Shriver National Institute of Child Health and Human Development, the National Heart, Lung, and Blood Institute, and the other national research institutes as appropriate, shall expand and intensify programs of such Institutes with respect to research and related activities concerning various forms of muscular dystrophy, including Duchenne, myotonic, facioscapulohumeral muscular dystrophy (referred to in this section as “FSHD”) and other forms of muscular dystrophy.
+The Director of NIH, in coordination with the Directors of the National Institute of Neurological Disorders and Stroke, the National Institute of Arthritis and Muscoskeletal and Skin Diseases, the Eunice Kennedy Shriver National Institute of Child Health and Human Development, the National Heart, Lung, and Blood Institute, and the other national research institutes as appropriate, shall expand and intensify programs of such Institutes with respect to research and related activities concerning various forms of muscular dystrophy, including Duchenne, myotonic, facioscapulohumeral muscular dystrophy (referred to in this section as "FSHD") and other forms of muscular dystrophy.
 
 #### (2) Coordination ####
 
@@ -18,7 +18,7 @@ The Director of NIH shall allocate the amounts appropriated to carry out this se
 
 #### (1) In general ####
 
-The Director of NIH shall award grants and contracts under subsection (a)(1) of this section to public or nonprofit private entities to pay all or part of the cost of planning, establishing, improving, and providing basic operating support for centers of excellence regarding research on various forms of muscular dystrophy. Such centers of excellence shall be known as the “Paul D. Wellstone Muscular Dystrophy Cooperative Research Centers”.
+The Director of NIH shall award grants and contracts under subsection (a)(1) of this section to public or nonprofit private entities to pay all or part of the cost of planning, establishing, improving, and providing basic operating support for centers of excellence regarding research on various forms of muscular dystrophy. Such centers of excellence shall be known as the "Paul D. Wellstone Muscular Dystrophy Cooperative Research Centers".
 
 #### (2) Research ####
 
@@ -44,7 +44,7 @@ The Director of NIH shall provide for a program under subsection (a)(1) of this 
 
 #### (1) In general ####
 
-The Secretary shall establish the Muscular Dystrophy Coordinating Committee (referred to in this section as the “Coordinating Committee”) to coordinate activities across the National Institutes and with other Federal health programs and activities relating to the various forms of muscular dystrophy.
+The Secretary shall establish the Muscular Dystrophy Coordinating Committee (referred to in this section as the "Coordinating Committee") to coordinate activities across the National Institutes and with other Federal health programs and activities relating to the various forms of muscular dystrophy.
 
 #### (2) Composition ####
 
@@ -120,9 +120,9 @@ A prior section 283g, act July 1, 1944, ch. 373, title IV, §404E, as added Pub.
 
 #### Amendments ####
 
-**2008**—Subsec. (a)(1). Pub. L. 110–361, §2(b)(1), inserted “the National Heart, Lung, and Blood Institute,” after “the Eunice Kennedy Shriver National Institute of Child Health and Human Development,”.
+**2008**—Subsec. (a)(1). Pub. L. 110–361, §2(b)(1), inserted "the National Heart, Lung, and Blood Institute," after "the Eunice Kennedy Shriver National Institute of Child Health and Human Development,".
 
-Subsec. (b)(1). Pub. L. 110–361, §2(b)(2), inserted at end “Such centers of excellence shall be known as the ‘Paul D. Wellstone Muscular Dystrophy Cooperative Research Centers’.”
+Subsec. (b)(1). Pub. L. 110–361, §2(b)(2), inserted at end "Such centers of excellence shall be known as the 'Paul D. Wellstone Muscular Dystrophy Cooperative Research Centers'."
 
 Subsec. (f). Pub. L. 110–361, §2(a), struck out subsec. (f) which related to reports.
 
@@ -130,15 +130,15 @@ Subsec. (g). Pub. L. 110–361, §2(a), (b)(3), added subsec. (g) and redesignat
 
 **2007**—Pub. L. 109–482, §104(b)(1)(A)(ii), which directed amendment of subsec. (b) by striking subsec. (f) and redesignating subsec. (g) as (f), could not literally be executed and was not executed in view of amendments by Pub. L. 110–361. See 2008 Amendment notes above.
 
-Subsec. (a)(1). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
+Subsec. (a)(1). Pub. L. 110–154 substituted "Eunice Kennedy Shriver National Institute of Child Health and Human Development" for "National Institute of Child Health and Human Development".
 
-Subsec. (b)(3). Pub. L. 109–482, §104(b)(1)(A)(i), amended heading and text of par. (3) generally. Text read as follows: “The Director of NIH—
+Subsec. (b)(3). Pub. L. 109–482, §104(b)(1)(A)(i), amended heading and text of par. (3) generally. Text read as follows: "The Director of NIH—
 
-“(A) shall, as appropriate, provide for the coordination of information among centers under paragraph (1) and ensure regular communication between such centers; and
+"(A) shall, as appropriate, provide for the coordination of information among centers under paragraph (1) and ensure regular communication between such centers; and
 
-“(B) shall require the periodic preparation of reports on the activities of the centers and the submission of the reports to the Director.”
+"(B) shall require the periodic preparation of reports on the activities of the centers and the submission of the reports to the Director."
 
-Subsec. (h). Pub. L. 109–482, §103(b)(4), struck out heading and text of subsec. (h). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2002 through 2006. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriations that is available for conducting or supporting through the National Institutes of Health research and other activities with respect to muscular dystrophy.”
+Subsec. (h). Pub. L. 109–482, §103(b)(4), struck out heading and text of subsec. (h). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2002 through 2006. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriations that is available for conducting or supporting through the National Institutes of Health research and other activities with respect to muscular dystrophy."
 
 #### Effective Date of 2007 Amendment ####
 

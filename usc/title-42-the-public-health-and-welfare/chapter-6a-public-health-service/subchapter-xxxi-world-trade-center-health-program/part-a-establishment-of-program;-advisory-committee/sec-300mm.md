@@ -90,7 +90,7 @@ For each clinical program so described—
 
 (i) information on the costs of monitoring and initial health evaluation and the costs of treatment and on the estimated costs of such monitoring, evaluation, and treatment in the succeeding fiscal year; and
 
-(ii) an estimate of the cost of medical treatment for WTC-related health conditions that have been paid for or reimbursed by workers’ compensation, by public or private health plans, or by New York City under section 300mm–41 of this title.
+(ii) an estimate of the cost of medical treatment for WTC-related health conditions that have been paid for or reimbursed by workers' compensation, by public or private health plans, or by New York City under section 300mm–41 of this title.
 
 #### (C) Administrative costs ####
 

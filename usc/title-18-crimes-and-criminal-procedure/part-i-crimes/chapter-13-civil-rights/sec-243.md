@@ -8,9 +8,9 @@ No citizen possessing all other qualifications which are or may be prescribed by
 
 Based on section 44 of title 8, U.S.C., 1940 ed., Aliens and Nationality (Mar. 1, 1875, ch. 114, §4, 18 Stat. 336).
 
-Words “be deemed guilty of a misdemeanor, and” were deleted as unnecessary in view of definition of misdemeanor in section 1 of this title.
+Words "be deemed guilty of a misdemeanor, and" were deleted as unnecessary in view of definition of misdemeanor in section 1 of this title.
 
-Words “on conviction thereof” were omitted as unnecessary, since punishment follows only after conviction.
+Words "on conviction thereof" were omitted as unnecessary, since punishment follows only after conviction.
 
 Minimum punishment provisions were omitted. (See reviser's note under section 203 of this title.)
 

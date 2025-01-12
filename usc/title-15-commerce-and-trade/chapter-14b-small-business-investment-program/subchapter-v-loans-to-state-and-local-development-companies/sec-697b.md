@@ -40,15 +40,15 @@ The Administration shall not collect any fee for any guarantee under this sectio
 
 #### References in Text ####
 
-For definition of “this chapter”, referred to in subsec. (a), see References in Text note set out under section 661 of this title.
+For definition of "this chapter", referred to in subsec. (a), see References in Text note set out under section 661 of this title.
 
 #### Amendments ####
 
-**1996**—Subsec. (f). Pub. L. 104–208 designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), in subpar. (A) substituted “provide for a central registration of all trust certificates sold pursuant to this section;” for “provide for a central registration of all trust certificates sold pursuant to this section; such central registration shall include with respect to each sale, identification of each development company; the interest rate paid by the development company; commissions, fees, or discounts paid to brokers and dealers in trust certificates; identification of each purchaser of the trust certificate; the price paid by the purchaser for the trust certificate; the interest rate paid on the trust certificate; the fees of any agent for carrying out the functions described in paragraph (2); and such other information as the Administration deems appropriate;”, and added par. (2).
+**1996**—Subsec. (f). Pub. L. 104–208 designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), in subpar. (A) substituted "provide for a central registration of all trust certificates sold pursuant to this section;" for "provide for a central registration of all trust certificates sold pursuant to this section; such central registration shall include with respect to each sale, identification of each development company; the interest rate paid by the development company; commissions, fees, or discounts paid to brokers and dealers in trust certificates; identification of each purchaser of the trust certificate; the price paid by the purchaser for the trust certificate; the interest rate paid on the trust certificate; the fees of any agent for carrying out the functions described in paragraph (2); and such other information as the Administration deems appropriate;", and added par. (2).
 
-**1988**—Pub. L. 100–590, §111(d)(2), inserted “Pooling of debentures” as section catchline.
+**1988**—Pub. L. 100–590, §111(d)(2), inserted "Pooling of debentures" as section catchline.
 
-Subsec. (a). Pub. L. 100–590, §111(d)(1), substituted “all or a” for “all of a”.
+Subsec. (a). Pub. L. 100–590, §111(d)(1), substituted "all or a" for "all of a".
 
 #### Effective Date of 1996 Amendment ####
 
@@ -58,6 +58,6 @@ Amendment by Pub. L. 104–208 effective Oct. 1, 1996, see section 3 of Pub. L. 
 
 Pub. L. 99–272, title XVIII, §18008(d), Apr. 7, 1986, 100 Stat. 368, provided that:
 
-“(1) Notwithstanding any law, rule, or regulation, within 60 days after the date of enactment of this Act [Apr. 7, 1986], the Small Business Administration shall develop and promulgate final rules and regulations to implement the central registration provisions provided for in section 505(f)(1) of the Small Business Investment Act [15 U.S.C. 697b(f)(1)], and shall contract with an agent for an initial period of not to exceed two years to carry out the functions provided for in section 505(f)(2) of such Act.
+"(1) Notwithstanding any law, rule, or regulation, within 60 days after the date of enactment of this Act [Apr. 7, 1986], the Small Business Administration shall develop and promulgate final rules and regulations to implement the central registration provisions provided for in section 505(f)(1) of the Small Business Investment Act [15 U.S.C. 697b(f)(1)], and shall contract with an agent for an initial period of not to exceed two years to carry out the functions provided for in section 505(f)(2) of such Act.
 
-“(2) Notwithstanding any law, rule or regulation, within 60 days after the date of enactment of this Act [Apr. 7, 1986], the Small Business Administration also shall consult with representatives of appropriate Federal and State agencies and officials, the securities industry, financial institutions and lenders, and small business persons, and shall develop and promulgate final rules and regulations to implement sections 504 and 505 of the Small Business Investment Act [15 U.S.C. 697a, 697b].”
+"(2) Notwithstanding any law, rule or regulation, within 60 days after the date of enactment of this Act [Apr. 7, 1986], the Small Business Administration also shall consult with representatives of appropriate Federal and State agencies and officials, the securities industry, financial institutions and lenders, and small business persons, and shall develop and promulgate final rules and regulations to implement sections 504 and 505 of the Small Business Investment Act [15 U.S.C. 697a, 697b]."

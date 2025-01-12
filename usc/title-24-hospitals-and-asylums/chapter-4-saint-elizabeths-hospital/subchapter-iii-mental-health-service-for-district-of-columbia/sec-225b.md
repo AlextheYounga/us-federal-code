@@ -74,11 +74,11 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92
 
 #### Amendments ####
 
-**1997**—Subsec. (b)(3). Pub. L. 105–33 substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
+**1997**—Subsec. (b)(3). Pub. L. 105–33 substituted "District of Columbia Home Rule Act" for "District of Columbia Self-Government and Governmental Reorganization Act".
 
-**1991**—Subsec. (a)(2). Pub. L. 102–150, §3(a), substituted “October 1, 1993” for “October 1, 1991”.
+**1991**—Subsec. (a)(2). Pub. L. 102–150, §3(a), substituted "October 1, 1993" for "October 1, 1991".
 
-Subsec. (f)(2)(A). Pub. L. 102–150, §§2(1), 3(a), substituted “and, except as provided under an agreement entered into pursuant to subparagraph (C), complete” for “and complete” and “October 1, 1993” for “October 1, 1991”.
+Subsec. (f)(2)(A). Pub. L. 102–150, §§2(1), 3(a), substituted "and, except as provided under an agreement entered into pursuant to subparagraph (C), complete" for "and complete" and "October 1, 1993" for "October 1, 1991".
 
 Subsec. (f)(2)(C). Pub. L. 102–150, §2(2), added subpar. (C).
 
@@ -100,14 +100,14 @@ Committee on the District of Columbia of House of Representatives abolished by H
 
 Pub. L. 109–396, title I, §102, Dec. 15, 2006, 120 Stat. 2712, provided that:
 
-“(a) In General.—Notwithstanding any other provision of law, the United States is not required to perform, or to reimburse the District of Columbia for the cost of performing, any of the following services:
+"(a) In General.—Notwithstanding any other provision of law, the United States is not required to perform, or to reimburse the District of Columbia for the cost of performing, any of the following services:
 
-“(1) Repairs or renovations pursuant to section 4(f) of the Saint Elizabeths Hospital and District of Columbia Mental Health Services Act (24 U.S.C. 225b(f); sec. 44–903(f), D.C. Official Code).
+"(1) Repairs or renovations pursuant to section 4(f) of the Saint Elizabeths Hospital and District of Columbia Mental Health Services Act (24 U.S.C. 225b(f); sec. 44–903(f), D.C. Official Code).
 
-“(2) Preservation, maintenance, or repairs pursuant to a use permit executed on September 30, 1987, under which the United States (acting through the Secretary of Health and Human Services) granted permission to the District of Columbia to use and occupy portions of the Saint Elizabeths Hospital property known as the ‘West Campus’.
+"(2) Preservation, maintenance, or repairs pursuant to a use permit executed on September 30, 1987, under which the United States (acting through the Secretary of Health and Human Services) granted permission to the District of Columbia to use and occupy portions of the Saint Elizabeths Hospital property known as the 'West Campus'.
 
-“(3) Mental health diagnostic and treatment services for referrals as described in section 9(b) of the Saint Elizabeths Hospital and District of Columbia Mental Health Services Act (24 U.S.C. 225g(b); sec. 44–908(b), D.C. Official Code), but only with respect to services provided on or before the date of the enactment of this Act [Dec. 15, 2006].
+"(3) Mental health diagnostic and treatment services for referrals as described in section 9(b) of the Saint Elizabeths Hospital and District of Columbia Mental Health Services Act (24 U.S.C. 225g(b); sec. 44–908(b), D.C. Official Code), but only with respect to services provided on or before the date of the enactment of this Act [Dec. 15, 2006].
 
-“(b) Effect on Pending Claims.—Any claim of the District of Columbia against the United States for the failure to perform, or to reimburse the District of Columbia for the cost of performing, any service described in subsection (a) which is pending as of the date of the enactment of this Act shall be extinguished and terminated.”
+"(b) Effect on Pending Claims.—Any claim of the District of Columbia against the United States for the failure to perform, or to reimburse the District of Columbia for the cost of performing, any service described in subsection (a) which is pending as of the date of the enactment of this Act shall be extinguished and terminated."
 
-[<sup>1</sup> So in original. Probably should be “responsibilities”.](#225b_1)
+[<sup>1</sup> So in original. Probably should be "responsibilities".](#225b_1)

@@ -38,7 +38,7 @@ This section shall not be construed to bar or limit in any manner any action by 
 
 #### References in Text ####
 
-This chapter, referred to in subsecs. (a), (c), (d), and (e), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a), (c), (d), and (e), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 #### Effective Date ####
 

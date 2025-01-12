@@ -10,4 +10,4 @@ Sec.
 
 #### Amendments ####
 
-**1980**—Pub. L. 96–589, §6(g)(3)(A), (B), Dec. 24, 1980, 94 Stat. 3410, substituted “Receiverships, Etc.” for “Bankruptcy and Receiverships” in subchapter heading, and “gift, and certain excise taxes in receivership proceedings, etc.” for “and gift taxes in bankruptcy and receivership proceedings” in item 6871.
+**1980**—Pub. L. 96–589, §6(g)(3)(A), (B), Dec. 24, 1980, 94 Stat. 3410, substituted "Receiverships, Etc." for "Bankruptcy and Receiverships" in subchapter heading, and "gift, and certain excise taxes in receivership proceedings, etc." for "and gift taxes in bankruptcy and receivership proceedings" in item 6871.

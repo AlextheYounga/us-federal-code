@@ -32,6 +32,6 @@ In conducting the reviews and preparing the comprehensive management plan requir
 
 #### Change of Name ####
 
-“Robert T. Stafford White Rocks National Recreation Area” substituted in subsecs. (a) and (b) for “White Rocks National Recreation Area” pursuant to section 1(b) of Pub. L. 110–1, set out as a note under section 460nn–1 of this title.
+"Robert T. Stafford White Rocks National Recreation Area" substituted in subsecs. (a) and (b) for "White Rocks National Recreation Area" pursuant to section 1(b) of Pub. L. 110–1, set out as a note under section 460nn–1 of this title.
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.

@@ -18,6 +18,6 @@ Sec.
 
 #### Amendments ####
 
-**1998**—Pub. L. 105–261, div. A, title V, §503(c)(2), Oct. 17, 1998, 112 Stat. 2004, struck out item 1183 “Boards of review” and substituted “inquiry” for “review” in item 1184.
+**1998**—Pub. L. 105–261, div. A, title V, §503(c)(2), Oct. 17, 1998, 112 Stat. 2004, struck out item 1183 "Boards of review" and substituted "inquiry" for "review" in item 1184.
 
-**1984**—Pub. L. 98–525, title V, §524(b)(2), Oct. 19, 1984, 98 Stat. 2524, substituted “Authority to establish procedures to consider the separation of officers for substandard performance of duty and for certain other reasons” for “Authority to convene boards of officers to consider separation of officers for substandard performance of duty or for certain other reasons” in item 1181.
+**1984**—Pub. L. 98–525, title V, §524(b)(2), Oct. 19, 1984, 98 Stat. 2524, substituted "Authority to establish procedures to consider the separation of officers for substandard performance of duty and for certain other reasons" for "Authority to convene boards of officers to consider separation of officers for substandard performance of duty or for certain other reasons" in item 1181.

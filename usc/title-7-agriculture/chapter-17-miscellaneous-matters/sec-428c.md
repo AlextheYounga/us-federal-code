@@ -32,4 +32,4 @@ There is authorized to be appropriated not more than $1,000,000 for the period e
 
 #### Short Title ####
 
-Pub. L. 94–214, §1, Feb. 16, 1976, 90 Stat. 181, provided that: “This Act [enacting this section, amending sections 1352, 1385, 1428, and 1441 of this title, and enacting provisions set out as notes under sections 1352, 1353, 1377, 1385, 1428, and 1441 of this title] may be cited as the ‘Rice Production Act of 1975’.”
+Pub. L. 94–214, §1, Feb. 16, 1976, 90 Stat. 181, provided that: "This Act [enacting this section, amending sections 1352, 1385, 1428, and 1441 of this title, and enacting provisions set out as notes under sections 1352, 1353, 1377, 1385, 1428, and 1441 of this title] may be cited as the 'Rice Production Act of 1975'."

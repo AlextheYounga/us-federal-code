@@ -38,35 +38,35 @@ The only change is in phraseology in the second sentence, it being necessary to 
 
 **2010**—Pub. L. 111–281 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to number and distribution of commissioned officers.
 
-**2004**—Subsec. (a). Pub. L. 108–293, §214(1), substituted “6,700 in each fiscal year 2004, 2005, and 2006” for “6,200”.
+**2004**—Subsec. (a). Pub. L. 108–293, §214(1), substituted "6,700 in each fiscal year 2004, 2005, and 2006" for "6,200".
 
-Subsec. (b). Pub. L. 108–293, §214(2), substituted “commander 15.0; lieutenant commander 22.0” for “commander 12.0; lieutenant commander 18.0”.
+Subsec. (b). Pub. L. 108–293, §214(2), substituted "commander 15.0; lieutenant commander 22.0" for "commander 12.0; lieutenant commander 18.0".
 
-**1993**—Subsec. (a). Pub. L. 103–206 substituted “6,200” for “6,000”.
+**1993**—Subsec. (a). Pub. L. 103–206 substituted "6,200" for "6,000".
 
-**1985**—Subsec. (b). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
+**1985**—Subsec. (b). Pub. L. 99–145 substituted "rear admiral (lower half)" for "commodore".
 
-**1984**—Subsec. (b). Pub. L. 98–557 substituted “0.375” for “.375” in two places.
+**1984**—Subsec. (b). Pub. L. 98–557 substituted "0.375" for ".375" in two places.
 
-**1983**—Subsec. (b). Pub. L. 97–417 substituted “.375; commodore .375;” for “0.75;” after “rear admiral”.
+**1983**—Subsec. (b). Pub. L. 97–417 substituted ".375; commodore .375;" for "0.75;" after "rear admiral".
 
-Subsec. (e). Pub. L. 97–449 substituted “section 324(d) of title 49” for “section 9(d)(1) of the Department of Transportation Act (80 Stat. 944; 49 U.S.C. 1657)”.
+Subsec. (e). Pub. L. 97–449 substituted "section 324(d) of title 49" for "section 9(d)(1) of the Department of Transportation Act (80 Stat. 944; 49 U.S.C. 1657)".
 
-**1979**—Subsec. (a). Pub. L. 96–23 substituted “6,000” for “five thousand”.
+**1979**—Subsec. (a). Pub. L. 96–23 substituted "6,000" for "five thousand".
 
-**1973**—Subsec. (e). Pub. L. 93–174 substituted “Coast Guard Academy and of the” for “Coast Guard Academy, of the” and struck out “, and of the Women's Reserve” after “training and reserve components”.
+**1973**—Subsec. (e). Pub. L. 93–174 substituted "Coast Guard Academy and of the" for "Coast Guard Academy, of the" and struck out ", and of the Women's Reserve" after "training and reserve components".
 
 **1972**—Subsec. (e). Pub. L. 92–451 inserted provision that officers excluded under section 1657(d)(1) of Title 49 shall not be counted in determining authorized strengths.
 
-**1968**—Subsec. (a). Pub. L. 90–385 substituted “five thousand” for “four thousand”.
+**1968**—Subsec. (a). Pub. L. 90–385 substituted "five thousand" for "four thousand".
 
-**1966**—Subsec. (a). Pub. L. 89–444 substituted “four thousand” for “three thousand five hundred”.
+**1966**—Subsec. (a). Pub. L. 89–444 substituted "four thousand" for "three thousand five hundred".
 
 **1963**—Pub. L. 88–130 specified percentage of distribution of commissioned officers from rear admiral to lieutenant commander, authorized Secretary to prescribe percentages for lieutenant, lieutenant (junior grade), and ensign, required number in each grade to be computed by applying the applicable percentage to the total number of officers serving on active duty on the date the computation is made, provided that officers not on the active duty promotion list, officers serving as extra numbers in grade, and officers serving with other departments or agencies on a reimbursable basis shall not be counted in determining authorized strengths and that the number of officers authorized to be serving on active duty in each grade of the permanent commissioned teaching staff of the Coast Guard Academy, of the Reserve, and of the Women's Reserve shall be prescribed by the Secretary, and struck out provisions which included in the number of commissioned officers the extra numbers in grade which increase the authorized number of line officers upon separation or retirement of the person holding such number, and the members of the permanent commissioned teaching staff of the Coast Guard Academy, distributed commissioned officers in grades in the same percentages as prescribed for the Navy, determined authorized number of officers in the various grades by the actual number on active duty, including permanent, temporary, and reserve officers, but not including extra numbers in the Coast Guard at the date of making the computation, and which provided that no officer be reduced in permanent grade or pay or removed from the active list as a result of any computation of the number of officers in grade.
 
-**1960**—Pub. L. 86–474 substituted “three thousand five hundred” for “three thousand”.
+**1960**—Pub. L. 86–474 substituted "three thousand five hundred" for "three thousand".
 
-**1956**—Act July 20, 1956, substituted “three thousand” for “two thousand two hundred and fifty” and inserted “except that the authorized number for a grade is temporarily increased during the period between one computation and the next by the number of officers originally appointed in that grade during that period and the number of officers of that grade for whom vacancies exist in the next higher grade but whose promotion has been delayed for any reason”.
+**1956**—Act July 20, 1956, substituted "three thousand" for "two thousand two hundred and fifty" and inserted "except that the authorized number for a grade is temporarily increased during the period between one computation and the next by the number of officers originally appointed in that grade during that period and the number of officers of that grade for whom vacancies exist in the next higher grade but whose promotion has been delayed for any reason".
 
 #### Effective Date of 1972 Amendment ####
 

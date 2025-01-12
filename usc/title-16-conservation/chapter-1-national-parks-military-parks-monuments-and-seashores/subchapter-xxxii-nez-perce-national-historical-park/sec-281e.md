@@ -16,6 +16,6 @@ The Secretary shall consult with officials of the Nez Perce Tribe on the interpr
 
 #### Amendments ####
 
-**1992**—Subsec. (a). Pub. L. 102–576, §2(5), substituted “States of Idaho, Oregon, Washington, Montana, Wyoming, their” for “State of Idaho, its”.
+**1992**—Subsec. (a). Pub. L. 102–576, §2(5), substituted "States of Idaho, Oregon, Washington, Montana, Wyoming, their" for "State of Idaho, its".
 
 Subsec. (c). Pub. L. 102–576, §2(6), added subsec. (c).

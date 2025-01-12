@@ -16,6 +16,6 @@ Sec.
 
 #### Amendments ####
 
-**1970**—Pub. L. 91–452, title II, §223(b), Oct. 15, 1970, 84 Stat. 929, struck out item 895 “Immunity of witnesses”.
+**1970**—Pub. L. 91–452, title II, §223(b), Oct. 15, 1970, 84 Stat. 929, struck out item 895 "Immunity of witnesses".
 
 **1968**—Pub. L. 90–321, title II, §202(a), May 29, 1968, 82 Stat. 159, added chapter 42 and items 891 to 896.

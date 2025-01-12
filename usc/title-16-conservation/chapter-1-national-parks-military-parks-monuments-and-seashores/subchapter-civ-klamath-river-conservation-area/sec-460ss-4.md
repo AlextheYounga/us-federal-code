@@ -8,4 +8,4 @@ In order to strengthen and facilitate the enforcement of Area fishery harvesting
 
 [<sup>1</sup> So in original. No subsec. (b) has been enacted.](#460ss-4_1)
 
-[<sup>2</sup> So in original. Probably should be “of the”.](#460ss-4_2)
+[<sup>2</sup> So in original. Probably should be "of the".](#460ss-4_2)

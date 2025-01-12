@@ -16,7 +16,7 @@ When river stages approach or are predicted to approach bankfull conditions at t
 
 The Chief of Engineers shall conduct a study and a demonstration program to determine the effects of the increased diversion on the levels of the Great Lakes, on the water quality of the Illinois Waterway, and on the susceptibility of the Illinois Waterway to additional flooding. The study and demonstration program will also investigate any adverse or beneficial impacts which result from this section. The Chief of Engineers, at the end of five years after October 22, 1976, will submit to the Congress the results of this study and demonstration program including recommendations whether to continue this authority or to change the criteria stated in subsection (b) of this section.
 
-#### (e) “Controllable diversion” defined ####
+#### (e) "Controllable diversion" defined ####
 
 For purposes of this section, controllable diversion is defined as that diversion at Wilmette, O'Brien, and Chicago River control structures which is not attributable to leakage or which is not necessary for navigational requirements.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-The Secretary of Agriculture shall charge a rental charge for all ski area permits issued pursuant to section 3 of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b), the Act of March 4, 1915 (38 Stat. 1101, chapter 144; 16 U.S.C. 497), or the 9th through 20th paragraphs under the heading “SURVEYING THE PUBLIC LANDS” under the heading “UNDER THE DEPARTMENT OF THE INTERIOR” in the Act of June 4, 1897 (30 Stat. 34, chapter 2), on National Forest System lands. Permit rental charges for permits issued pursuant to the National Forest Ski Area Permit Act of 1986 shall be calculated as set forth in subsection (b) of this section. Permit rental charges for existing ski area permits issued pursuant to the Act of March 4, 1915, and the Act of June 4, 1897, shall be calculated in accordance with those existing permits: *Provided*, That a permittee may, at the permittee's option, use the calculation method set forth in subsection (b) of this section.
+The Secretary of Agriculture shall charge a rental charge for all ski area permits issued pursuant to section 3 of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b), the Act of March 4, 1915 (38 Stat. 1101, chapter 144; 16 U.S.C. 497), or the 9th through 20th paragraphs under the heading "SURVEYING THE PUBLIC LANDS" under the heading "UNDER THE DEPARTMENT OF THE INTERIOR" in the Act of June 4, 1897 (30 Stat. 34, chapter 2), on National Forest System lands. Permit rental charges for permits issued pursuant to the National Forest Ski Area Permit Act of 1986 shall be calculated as set forth in subsection (b) of this section. Permit rental charges for existing ski area permits issued pursuant to the Act of March 4, 1915, and the Act of June 4, 1897, shall be calculated in accordance with those existing permits: *Provided*, That a permittee may, at the permittee's option, use the calculation method set forth in subsection (b) of this section.
 
 #### (b) Formula ####
 
@@ -44,9 +44,9 @@ If an individual permittee's adjusted gross revenue for the 1995–1996, 1996–
 
 Under no circumstances shall revenue, or subpermittee revenue (other than lift ticket, area use pass, or ski school sales) obtained from operations physically located on non-national forest land be included in the ski area permit rental charge calculation.
 
-#### (f) “Revenue” and “sales” defined; limitations ####
+#### (f) "Revenue" and "sales" defined; limitations ####
 
-To reduce administrative costs of ski area permittees and the Forest Service the terms “revenue” and “sales”, as used in this section, shall mean actual income from sales and shall not include sales of operating equipment, refunds, rent paid to the permittee by sublessees, sponsor contributions to special events or any amounts attributable to employee gratuities or employee lift tickets, discounts, or other goods or services (except for bartered goods and complimentary lift tickets offered for commercial or other promotional purposes) for which the permittee does not receive money.
+To reduce administrative costs of ski area permittees and the Forest Service the terms "revenue" and "sales", as used in this section, shall mean actual income from sales and shall not include sales of operating equipment, refunds, rent paid to the permittee by sublessees, sponsor contributions to special events or any amounts attributable to employee gratuities or employee lift tickets, discounts, or other goods or services (except for bartered goods and complimentary lift tickets offered for commercial or other promotional purposes) for which the permittee does not receive money.
 
 #### (g) Minimum rental charge ####
 
@@ -78,13 +78,13 @@ The National Environmental Policy Act of 1969, referred to in subsec. (i), is Pu
 
 #### Amendments ####
 
-**2000**—Subsec. (b)(3). Pub. L. 106–176, §117(1), substituted “required by this section” for “legislated by this Act”.
+**2000**—Subsec. (b)(3). Pub. L. 106–176, §117(1), substituted "required by this section" for "legislated by this Act".
 
-Subsec. (d). Pub. L. 106–176, §117(2), in introductory provisions, substituted “formula of this section” for “formula of this Act”, in pars. (1) to (3), substituted “this section” for “this Act”, and, in concluding provisions, inserted “adjusted gross revenue for the” before “1994–1995 base year” and substituted “this section” for “this Act”.
+Subsec. (d). Pub. L. 106–176, §117(2), in introductory provisions, substituted "formula of this section" for "formula of this Act", in pars. (1) to (3), substituted "this section" for "this Act", and, in concluding provisions, inserted "adjusted gross revenue for the" before "1994–1995 base year" and substituted "this section" for "this Act".
 
-Subsec. (f). Pub. L. 106–176, §117(3), inserted “offered for commercial or other promotional purposes” after “complimentary lift tickets”.
+Subsec. (f). Pub. L. 106–176, §117(3), inserted "offered for commercial or other promotional purposes" after "complimentary lift tickets".
 
-Subsec. (i). Pub. L. 106–176, §117(4), substituted “this section” for “this Act”.
+Subsec. (i). Pub. L. 106–176, §117(4), substituted "this section" for "this Act".
 
 #### Change of Name ####
 

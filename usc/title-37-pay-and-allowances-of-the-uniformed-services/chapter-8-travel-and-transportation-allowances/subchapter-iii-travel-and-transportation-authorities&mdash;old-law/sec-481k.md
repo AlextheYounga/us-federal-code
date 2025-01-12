@@ -10,7 +10,7 @@
 
 (c) Covered Members.—A member of the uniformed services covered by this section is a member who—
 
-(1) as a result of a wound, illness, or injury, has been determined by the attending physician or surgeon to be in the category known as “very seriously wounded, ill, or injured” or “seriously wounded, ill, or injured”; and
+(1) as a result of a wound, illness, or injury, has been determined by the attending physician or surgeon to be in the category known as "very seriously wounded, ill, or injured" or "seriously wounded, ill, or injured"; and
 
 (2) is hospitalized for treatment of the wound, illness, or injury or requires continuing outpatient treatment for the wound, illness, or injury.
 
@@ -40,11 +40,11 @@
 
 **2013**—Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
 
-**2011**—Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “481h” for “411h” in subsec. (d)(1) and “474” for “404” in subsec. (d)(3).
+**2011**—Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "481h" for "411h" in subsec. (d)(1) and "474" for "404" in subsec. (d)(3).
 
 Pub. L. 112–81, §631(d)(2), renumbered section 411k of this title as this section.
 
-Subsec. (d)(1). Pub. L. 111–383 substituted “allowances under section” for “allowances section”.
+Subsec. (d)(1). Pub. L. 111–383 substituted "allowances under section" for "allowances section".
 
 Subsec. (e). Pub. L. 112–81, §631(e)(24), added subsec. (e).
 
@@ -54,4 +54,4 @@ Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, pro
 
 #### Effective Date ####
 
-Pub. L. 111–84, div. A, title VI, §633(b), Oct. 28, 2009, 123 Stat. 2363, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “No reimbursement may be provided under section 481k of title 37, United States Code, as added by subsection (a), for travel and transportation costs incurred before the date of the enactment of this Act [Oct. 28, 2009].”
+Pub. L. 111–84, div. A, title VI, §633(b), Oct. 28, 2009, 123 Stat. 2363, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: "No reimbursement may be provided under section 481k of title 37, United States Code, as added by subsection (a), for travel and transportation costs incurred before the date of the enactment of this Act [Oct. 28, 2009]."

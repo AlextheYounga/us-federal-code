@@ -2,17 +2,17 @@
 
 #### (a) In general ####
 
-The boundaries of the Hopewell Culture National Historical Park (referred to as the “park”) are revised to include the lands within the areas marked for inclusion in the monument as generally depicted on—
+The boundaries of the Hopewell Culture National Historical Park (referred to as the "park") are revised to include the lands within the areas marked for inclusion in the monument as generally depicted on—
 
-(1) the map entitled “Hopeton Earthworks” numbered 353–80025 and dated July 1987;
+(1) the map entitled "Hopeton Earthworks" numbered 353–80025 and dated July 1987;
 
-(2) the map entitled “High Banks Works” numbered 353–80027 and dated July 1987;
+(2) the map entitled "High Banks Works" numbered 353–80027 and dated July 1987;
 
-(3) the map entitled “Hopewell Mound Group” numbered 353–80029 and dated July 1987;
+(3) the map entitled "Hopewell Mound Group" numbered 353–80029 and dated July 1987;
 
-(4) the map entitled “Seip Earthworks” numbered 353–80033 and dated July 1987; and
+(4) the map entitled "Seip Earthworks" numbered 353–80033 and dated July 1987; and
 
-(5) the map entitled “Hopewell Culture National Historical Park, Ohio Proposed Boundary Adjustment” numbered 353/80,049 and dated June, 2006.
+(5) the map entitled "Hopewell Culture National Historical Park, Ohio Proposed Boundary Adjustment" numbered 353/80,049 and dated June, 2006.
 
 #### (b) Public inspection of maps ####
 
@@ -20,7 +20,7 @@ Each map described in subsection (a) of this section shall be on file and availa
 
 #### (c) Adjustment of boundaries ####
 
-The Secretary of the Interior (referred to as the “Secretary”) may, by notice in the Federal Register after receipt of public comment, make minor adjustments in the boundaries of areas added to the park by subsection (a) of this section and other areas of the park: *Provided*, That any such minor boundary adjustments cumulatively shall not cause the total acreage of the park to increase more than 10 per centum above the existing acreage of Mound City Group National Monument, plus the acreage of the inclusions authorized under subsection (a) of this section.
+The Secretary of the Interior (referred to as the "Secretary") may, by notice in the Federal Register after receipt of public comment, make minor adjustments in the boundaries of areas added to the park by subsection (a) of this section and other areas of the park: *Provided*, That any such minor boundary adjustments cumulatively shall not cause the total acreage of the park to increase more than 10 per centum above the existing acreage of Mound City Group National Monument, plus the acreage of the inclusions authorized under subsection (a) of this section.
 
 #### (d) Acquisition of lands ####
 

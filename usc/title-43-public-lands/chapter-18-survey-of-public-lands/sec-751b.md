@@ -18,6 +18,6 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Functions of Supervisor of Surveys and Registers transferred to Secretary of the Interior or those officers as he may designate by section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
 
-References to “receivers” changed to “registers” by act Oct. 9, 1942, which abolished office of receiver and transferred functions to an employee to be designated by Secretary and to be performed under title “register”.
+References to "receivers" changed to "registers" by act Oct. 9, 1942, which abolished office of receiver and transferred functions to an employee to be designated by Secretary and to be performed under title "register".
 
 Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.

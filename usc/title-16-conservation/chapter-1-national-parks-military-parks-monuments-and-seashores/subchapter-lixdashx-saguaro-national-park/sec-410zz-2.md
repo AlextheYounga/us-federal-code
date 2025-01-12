@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-The boundaries of the park are hereby modified to reflect the addition of approximately 3,460 acres of land and interests therein as generally depicted on the map entitled “Saguaro National Monument Additions” and dated April, 1994.
+The boundaries of the park are hereby modified to reflect the addition of approximately 3,460 acres of land and interests therein as generally depicted on the map entitled "Saguaro National Monument Additions" and dated April, 1994.
 
 #### (b) Land acquisition ####
 
@@ -16,4 +16,4 @@ Subject to valid existing rights, all Federal lands within the park are hereby w
 
 (Pub. L. 103–364, §4, Oct. 14, 1994, 108 Stat. 3468.)
 
-[<sup>1</sup> So in original. Probably should be “detrimental”.](#410zz-2_1)
+[<sup>1</sup> So in original. Probably should be "detrimental".](#410zz-2_1)

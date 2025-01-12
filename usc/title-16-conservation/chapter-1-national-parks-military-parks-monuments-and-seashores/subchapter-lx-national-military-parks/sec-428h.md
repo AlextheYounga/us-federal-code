@@ -6,7 +6,7 @@ It shall be lawful for the authorities of any State having troops engaged in the
 
 #### Change of Name ####
 
-“Fort Donelson National Battlefield” substituted in text for “Fort Donelson National Military Park” in view of redesignation of Fort Donelson National Military Park as Fort Donelson National Battlefield by Pub. L. 86–738. See section 428n of this title.
+"Fort Donelson National Battlefield" substituted in text for "Fort Donelson National Military Park" in view of redesignation of Fort Donelson National Military Park as Fort Donelson National Battlefield by Pub. L. 86–738. See section 428n of this title.
 
 #### Transfer of Functions ####
 

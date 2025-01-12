@@ -19,7 +19,7 @@ V. The Hague Agreement Concerning International Registration of Industrial Desig
 
 **2012**—Pub. L. 112–211, title I, §101(b), Dec. 18, 2012, 126 Stat. 1531, added item V.
 
-**1999**—Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(a)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–581, substituted “United States Patent and Trademark Office” for “Patent and Trademark Office” in item I.
+**1999**—Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(a)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–581, substituted "United States Patent and Trademark Office" for "Patent and Trademark Office" in item I.
 
 **1984**—Pub. L. 98–622, title IV, §403(b), Nov. 8, 1984, 98 Stat. 3392, added item IV.
 
@@ -115,34 +115,34 @@ V. The Hague Agreement Concerning International Registration of Industrial Desig
 
 #### Citation ####
 
-Section 1 of act July 19, 1952, ch. 950, 66 Stat. 792, provided in part that this title may be cited as “Title 35, United States Code, section —.”
+Section 1 of act July 19, 1952, ch. 950, 66 Stat. 792, provided in part that this title may be cited as "Title 35, United States Code, section —."
 
 #### Separability ####
 
-Section 3 of act July 19, 1952, ch. 950, 66 Stat. 815, provided that: “If any provision of Title 35, as enacted by section 1 hereof, is declared unconstitutional or is held invalid, the validity of the remainder of this title shall not be affected.”
+Section 3 of act July 19, 1952, ch. 950, 66 Stat. 815, provided that: "If any provision of Title 35, as enacted by section 1 hereof, is declared unconstitutional or is held invalid, the validity of the remainder of this title shall not be affected."
 
 #### Effective Date; Savings Provision ####
 
 Section 4 of act July 19, 1952, ch. 950, 66 Stat. 815, provided that:
 
-“(a) This Act [enacting this title] shall take effect on January 1, 1953 and shall apply to all applications for patent filed on or after such date and to all patents granted on such applications. It shall apply to further proceedings on applications pending on such date and to patents granted on such applications except as otherwise provided. It shall apply to unexpired patents granted prior to such date except as otherwise provided.
+"(a) This Act [enacting this title] shall take effect on January 1, 1953 and shall apply to all applications for patent filed on or after such date and to all patents granted on such applications. It shall apply to further proceedings on applications pending on such date and to patents granted on such applications except as otherwise provided. It shall apply to unexpired patents granted prior to such date except as otherwise provided.
 
-“(b) Section 102(d) of Title 35, as enacted by section 1 hereof, shall not apply to existing patents and pending applications, but the law previously in effect, namely the first paragraph of R. S. 4887 [first paragraph of section 32 of former Title 35], shall apply to such patents and applications.
+"(b) Section 102(d) of Title 35, as enacted by section 1 hereof, shall not apply to existing patents and pending applications, but the law previously in effect, namely the first paragraph of R. S. 4887 [first paragraph of section 32 of former Title 35], shall apply to such patents and applications.
 
-“(c) Section 119, second paragraph, of Title 35 as enacted by section 1 hereof shall not apply to existing patents.
+"(c) Section 119, second paragraph, of Title 35 as enacted by section 1 hereof shall not apply to existing patents.
 
-“(d) The period of one year specified in section 102(b) of Title 35 as enacted by section 1 hereof shall not apply in the case of applications filed before August 5, 1940, and patents granted on such applications, and with respect to such applications and patents, said period is two years instead of one year.
+"(d) The period of one year specified in section 102(b) of Title 35 as enacted by section 1 hereof shall not apply in the case of applications filed before August 5, 1940, and patents granted on such applications, and with respect to such applications and patents, said period is two years instead of one year.
 
-“(e) Nothing contained in Title 35, as enacted by section 1 hereof, shall operate to nullify any judicial finding prior to the effective date of this Act on the validity of any patent by a court of competent jurisdiction.
+"(e) Nothing contained in Title 35, as enacted by section 1 hereof, shall operate to nullify any judicial finding prior to the effective date of this Act on the validity of any patent by a court of competent jurisdiction.
 
-“(f) Nothing in Title 35, as enacted by section 1 hereof, shall affect any provision of the Atomic Energy Act of 1946 (Aug. 1, 1946, ch. 724, 60 Stat. 755) [§2011 et seq. of Title 42, The Public Health and Welfare].
+"(f) Nothing in Title 35, as enacted by section 1 hereof, shall affect any provision of the Atomic Energy Act of 1946 (Aug. 1, 1946, ch. 724, 60 Stat. 755) [§2011 et seq. of Title 42, The Public Health and Welfare].
 
-“(g) The period of one year specified in section 4 of Title 35 as enacted by section 1 hereof shall not apply in the case of applications filed before the effective date of this Act.
+"(g) The period of one year specified in section 4 of Title 35 as enacted by section 1 hereof shall not apply in the case of applications filed before the effective date of this Act.
 
-“(h) The repeal of sections 1–9, 11, 12 of the Act of Congress approved February 1, 1952 (ch. 4, 66 Stat. 3) [sections 151 to 159 of former Title 35], shall not affect any rights or liabilities existing on the date of approval of this Act [July 19, 1952]. An order of secrecy issued under or in effect under the repealed Act and in effect on the date of approval of this Act, shall be considered as issued under this Act, and any claims arising under the repealed Act or subject to presentation and determination pursuant thereto and unsettled as of the effective date of this Act, may be presented and determined pursuant to the provisions of this Act [this title].”
+"(h) The repeal of sections 1–9, 11, 12 of the Act of Congress approved February 1, 1952 (ch. 4, 66 Stat. 3) [sections 151 to 159 of former Title 35], shall not affect any rights or liabilities existing on the date of approval of this Act [July 19, 1952]. An order of secrecy issued under or in effect under the repealed Act and in effect on the date of approval of this Act, shall be considered as issued under this Act, and any claims arising under the repealed Act or subject to presentation and determination pursuant thereto and unsettled as of the effective date of this Act, may be presented and determined pursuant to the provisions of this Act [this title]."
 
 #### Repeals ####
 
-Section 5 of act July 19, 1952, ch. 950, 66 Stat. 815, repealed the sections or parts of sections of the Revised Statutes or Statutes at Large codified in this Act with the proviso that “Any rights or liabilities now existing under such sections or parts thereof shall not be affected by this repeal.”
+Section 5 of act July 19, 1952, ch. 950, 66 Stat. 815, repealed the sections or parts of sections of the Revised Statutes or Statutes at Large codified in this Act with the proviso that "Any rights or liabilities now existing under such sections or parts thereof shall not be affected by this repeal."
 
-[<sup>1</sup> So in original. Probably should be “381”.](#_1)
+[<sup>1</sup> So in original. Probably should be "381".](#_1)

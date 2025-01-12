@@ -2,7 +2,7 @@
 
 #### (a) Contract defined ####
 
-For the purposes of section 450m–1 of this title, the term “contract” shall include compacts and funding agreements entered into under this part.
+For the purposes of section 450m–1 of this title, the term "contract" shall include compacts and funding agreements entered into under this part.
 
 #### (b) Applicability of certain laws ####
 

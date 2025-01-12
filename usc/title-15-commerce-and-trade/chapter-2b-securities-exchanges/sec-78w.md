@@ -48,37 +48,37 @@ Within 1 year after October 15, 1990, the Commission shall establish regulations
 
 #### References in Text ####
 
-This chapter, referred to in subsecs. (a) to (c), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a) to (c), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 #### Amendments ####
 
-**2010**—Subsec. (b)(1). Pub. L. 111–203 struck out “, other than the Office of Thrift Supervision,” before “shall each make”.
+**2010**—Subsec. (b)(1). Pub. L. 111–203 struck out ", other than the Office of Thrift Supervision," before "shall each make".
 
-**2006**—Subsec. (b)(1). Pub. L. 109–351 inserted “other than the Office of Thrift Supervision,” before “shall each”.
+**2006**—Subsec. (b)(1). Pub. L. 109–351 inserted "other than the Office of Thrift Supervision," before "shall each".
 
 **1993**—Subsec. (b)(4)(C) to (K). Pub. L. 103–202, §107, redesignated subpars. (E) to (G) and (I) to (K) as (C) to (E) and (F) to (H), respectively, added a new subpar. (I), and struck out former subpars. (C), (D), and (H). Prior to amendment, subpars. (C), (D), and (H) read as follows:
 
-“(C) beginning in 1975 and ending in 1980, information, data, and recommendations with respect to the development of a national system for the prompt and accurate clearance and settlement of securities transactions, including a summary of the regulatory activities, operational capabilities, financial resources, and plans of self-regulatory organizations and registered transfer agents with respect thereto;
+"(C) beginning in 1975 and ending in 1980, information, data, and recommendations with respect to the development of a national system for the prompt and accurate clearance and settlement of securities transactions, including a summary of the regulatory activities, operational capabilities, financial resources, and plans of self-regulatory organizations and registered transfer agents with respect thereto;
 
-“(D) beginning in 1975 and ending in 1980, a description of the steps taken, and an evaluation of the progress made, toward the establishment of a national market system, and recommendations for further legislation it considers advisable with respect to such system;
+"(D) beginning in 1975 and ending in 1980, a description of the steps taken, and an evaluation of the progress made, toward the establishment of a national market system, and recommendations for further legislation it considers advisable with respect to such system;
 
-“(H) beginning in 1975 and ending in 1980, a description of the effect the absence of any schedule or fixed rates of commissions, allowances, discounts, or other fees to be charged by members for effecting transactions on a national securities exchange is having on the maintenance of fair and orderly markets and the development of a national market system for securities;”.
+"(H) beginning in 1975 and ending in 1980, a description of the effect the absence of any schedule or fixed rates of commissions, allowances, discounts, or other fees to be charged by members for effecting transactions on a national securities exchange is having on the maintenance of fair and orderly markets and the development of a national market system for securities;".
 
 **1990**—Subsec. (d). Pub. L. 101–429 added subsec. (d).
 
-**1987**—Subsec. (a)(1). Pub. L. 100–181, §324(1), inserted “or” before “any self-regulatory organization” in last sentence.
+**1987**—Subsec. (a)(1). Pub. L. 100–181, §324(1), inserted "or" before "any self-regulatory organization" in last sentence.
 
-Subsec. (a)(3). Pub. L. 100–181, §324(2), inserted “shall” after “section 78s(b) of this title,”.
+Subsec. (a)(3). Pub. L. 100–181, §324(2), inserted "shall" after "section 78s(b) of this title,".
 
-Subsec. (b)(4)(F). Pub. L. 100–181, §325, substituted “the” for “The”.
+Subsec. (b)(4)(F). Pub. L. 100–181, §325, substituted "the" for "The".
 
-**1986**—Subsec. (a)(2). Pub. L. 99–571, §102(j)(1), (2), inserted “and the Secretary of the Treasury” in three places and “or the Secretary's” in one place.
+**1986**—Subsec. (a)(2). Pub. L. 99–571, §102(j)(1), (2), inserted "and the Secretary of the Treasury" in three places and "or the Secretary's" in one place.
 
-Subsec. (a)(3). Pub. L. 99–571, §102(j)(3), (4), inserted “and the Secretary” in three places and “or the Secretary” in one place.
+Subsec. (a)(3). Pub. L. 99–571, §102(j)(3), (4), inserted "and the Secretary" in three places and "or the Secretary" in one place.
 
 **1975**—Subsec. (a). Pub. L. 94–29 designated existing provisions as par. (1), inserted references to other agencies enumerated in section 78c(a)(34) of this title, regulations appropriate to implement the provisions of this chapter for which the agencies are responsible, the classification of persons, transactions, statements, applications, and reports, the prescribing of greater, lesser, or different requirements for different classifications, and the non-liability of self-regulatory organization, and added pars. (2) and (3).
 
-Subsec. (b). Pub. L. 94–29 designated existing provisions as par. (1), substituted “The Commission, the Board of Governors of the Federal Reserve System, and the other agencies enumerated in section 78c(a)(34) of this title, shall each make an annual report to the Congress on its work for the preceding year, and shall include in each such report whatever information, data, and recommendations for further legislation it considers advisable with regard to matters within its respective jurisdiction under this chapter” for “The Commission and the Board of Governors of the Federal Reserve System, respectively, shall include in their annual reports to Congress such information, data, and recommendation for further legislation as they may deem advisable with regard to matters within their respective jurisdictions under this chapter. The Commission shall include in its annual reports to the Congress for the fiscal years ended on June 30 of 1965, 1966, and 1967 information, data, and recommendations specifically related to the operation of the amendments to this chapter made by the Securities Acts Amendments of 1964”, and added pars. (2) to (4).
+Subsec. (b). Pub. L. 94–29 designated existing provisions as par. (1), substituted "The Commission, the Board of Governors of the Federal Reserve System, and the other agencies enumerated in section 78c(a)(34) of this title, shall each make an annual report to the Congress on its work for the preceding year, and shall include in each such report whatever information, data, and recommendations for further legislation it considers advisable with regard to matters within its respective jurisdiction under this chapter" for "The Commission and the Board of Governors of the Federal Reserve System, respectively, shall include in their annual reports to Congress such information, data, and recommendation for further legislation as they may deem advisable with regard to matters within their respective jurisdictions under this chapter. The Commission shall include in its annual reports to the Congress for the fiscal years ended on June 30 of 1965, 1966, and 1967 information, data, and recommendations specifically related to the operation of the amendments to this chapter made by the Securities Acts Amendments of 1964", and added pars. (2) to (4).
 
 Subsec. (c). Pub. L. 94–29 added subsec. (c).
 
@@ -88,7 +88,7 @@ Subsec. (c). Pub. L. 94–29 added subsec. (c).
 
 #### Change of Name ####
 
-Section 203(a) of act Aug. 23, 1935, substituted “Board of Governors of the Federal Reserve System” for “Federal Reserve Board”.
+Section 203(a) of act Aug. 23, 1935, substituted "Board of Governors of the Federal Reserve System" for "Federal Reserve Board".
 
 #### Effective Date of 2010 Amendment ####
 

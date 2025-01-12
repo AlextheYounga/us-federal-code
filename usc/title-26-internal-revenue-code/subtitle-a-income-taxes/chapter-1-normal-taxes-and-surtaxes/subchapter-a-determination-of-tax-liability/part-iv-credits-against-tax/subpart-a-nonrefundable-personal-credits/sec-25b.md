@@ -34,7 +34,7 @@ In the case of any taxable year beginning in a calendar year after 2006, each of
 
 (A) such dollar amount, multiplied by
 
-(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2005” for “calendar year 1992” in subparagraph (B) thereof.
+(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2005" for "calendar year 1992" in subparagraph (B) thereof.
 
 Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $500.
 
@@ -44,11 +44,11 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “eligible individual” means any individual if such individual has attained the age of 18 as of the close of the taxable year.
+The term "eligible individual" means any individual if such individual has attained the age of 18 as of the close of the taxable year.
 
 #### (2) Dependents and full-time students not eligible ####
 
-The term “eligible individual” shall not include—
+The term "eligible individual" shall not include—
 
 (A) any individual with respect to whom a deduction under section 151 is allowed to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins, and
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “qualified retirement savings contributions” means, with respect to any taxable year, the sum of—
+The term "qualified retirement savings contributions" means, with respect to any taxable year, the sum of—
 
 (A) the amount of the qualified retirement contributions (as defined in section 219(e)) made by the eligible individual,
 
@@ -116,37 +116,37 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 #### Amendments ####
 
-**2013**—Subsec. (g). Pub. L. 112–240 struck out subsec. (g). Text read as follows: “In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for the taxable year shall not exceed the excess of—
+**2013**—Subsec. (g). Pub. L. 112–240 struck out subsec. (g). Text read as follows: "In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for the taxable year shall not exceed the excess of—
 
-“(1) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
+"(1) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-“(2) the sum of the credits allowable under this subpart (other than this section and sections 23, 25A(i), 25D, 30, 30B, and 30D) and section 27 for the taxable year.”
+"(2) the sum of the credits allowable under this subpart (other than this section and sections 23, 25A(i), 25D, 30, 30B, and 30D) and section 27 for the taxable year."
 
-**2010**—Subsec. (g)(2). Pub. L. 111–148, §10909(b)(2)(D), (c), as amended by Pub. L. 111–312, temporarily struck out “23,” before “25A(i),”. See Effective and Termination Dates of 2010 Amendment note below.
+**2010**—Subsec. (g)(2). Pub. L. 111–148, §10909(b)(2)(D), (c), as amended by Pub. L. 111–312, temporarily struck out "23," before "25A(i),". See Effective and Termination Dates of 2010 Amendment note below.
 
-**2009**—Subsec. (g)(2). Pub. L. 111–5, §1144(b)(1)(C), inserted “30B,” after “30,”.
+**2009**—Subsec. (g)(2). Pub. L. 111–5, §1144(b)(1)(C), inserted "30B," after "30,".
 
-Pub. L. 111–5, §1142(b)(1)(C), inserted “30,” after “25D,”.
+Pub. L. 111–5, §1142(b)(1)(C), inserted "30," after "25D,".
 
-Pub. L. 111–5, §1004(b)(4), inserted “25A(i),” after “23,”.
+Pub. L. 111–5, §1004(b)(4), inserted "25A(i)," after "23,".
 
-**2008**—Subsec. (g)(2). Pub. L. 110–343, §205(d)(1)(C), substituted “, 25D, and 30D” for “and 25D”.
+**2008**—Subsec. (g)(2). Pub. L. 110–343, §205(d)(1)(C), substituted ", 25D, and 30D" for "and 25D".
 
-Pub. L. 110–343, §106(e)(2)(C), substituted “sections 23 and 25D” for “section 23”.
+Pub. L. 110–343, §106(e)(2)(C), substituted "sections 23 and 25D" for "section 23".
 
 **2006**—Subsec. (b). Pub. L. 109–280, §833(a), reenacted heading without change and amended text of subsec. (b) generally, substituting provisions consisting of introductory provisions and pars. (1) to (3) for former provisions consisting of introductory provisions and a table of applicable percentages for amounts of adjusted gross income for a joint return, a head of household, and all other cases.
 
-Subsec. (h). Pub. L. 109–280, §812, struck out heading and text of subsec. (h). Text read as follows: “This section shall not apply to taxable years beginning after December 31, 2006.”
+Subsec. (h). Pub. L. 109–280, §812, struck out heading and text of subsec. (h). Text read as follows: "This section shall not apply to taxable years beginning after December 31, 2006."
 
-**2005**—Subsec. (g). Pub. L. 109–135 substituted “In the case of a taxable year to which section 26(a)(2) does not apply, the credit” for “The credit” in introductory provisions.
+**2005**—Subsec. (g). Pub. L. 109–135 substituted "In the case of a taxable year to which section 26(a)(2) does not apply, the credit" for "The credit" in introductory provisions.
 
-**2004**—Subsec. (c)(2)(B). Pub. L. 108–311 substituted “152(f)(2)” for “151(c)(4)”.
+**2004**—Subsec. (c)(2)(B). Pub. L. 108–311 substituted "152(f)(2)" for "151(c)(4)".
 
-**2002**—Subsec. (d)(2)(A). Pub. L. 107–147, §411(m), reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: “The qualified retirement savings contributions determined under paragraph (1) shall be reduced (but not below zero) by the sum of—
+**2002**—Subsec. (d)(2)(A). Pub. L. 107–147, §411(m), reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: "The qualified retirement savings contributions determined under paragraph (1) shall be reduced (but not below zero) by the sum of—
 
-“(i) any distribution from a qualified retirement plan (as defined in section 4974(c)), or from an eligible deferred compensation plan (as defined in section 457(b)), received by the individual during the testing period which is includible in gross income, and
+"(i) any distribution from a qualified retirement plan (as defined in section 4974(c)), or from an eligible deferred compensation plan (as defined in section 457(b)), received by the individual during the testing period which is includible in gross income, and
 
-“(ii) any distribution from a Roth IRA or a Roth account received by the individual during the testing period which is not a qualified rollover contribution (as defined in section 408A(e)) to a Roth IRA or a rollover under section 402(c)(8)(B) to a Roth account.”
+"(ii) any distribution from a Roth IRA or a Roth account received by the individual during the testing period which is not a qualified rollover contribution (as defined in section 408A(e)) to a Roth IRA or a rollover under section 402(c)(8)(B) to a Roth account."
 
 Subsecs. (g), (h). Pub. L. 107–147, §417(1), redesignated subsec. (g), relating to termination, as (h).
 
@@ -178,7 +178,7 @@ Amendment by section 205(d)(1)(C) of Pub. L. 110–343 applicable to taxable yea
 
 #### Effective Date of 2006 Amendment ####
 
-Pub. L. 109–280, title VIII, §833(d), Aug. 17, 2006, 120 Stat. 1004, provided that: “The amendments made by this section [amending this section and sections 219 and 408A of this title] shall apply to taxable years beginning after 2006.”
+Pub. L. 109–280, title VIII, §833(d), Aug. 17, 2006, 120 Stat. 1004, provided that: "The amendments made by this section [amending this section and sections 219 and 408A of this title] shall apply to taxable years beginning after 2006."
 
 #### Effective and Termination Dates of 2005 Amendment ####
 
@@ -192,7 +192,7 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2002 Amendment ####
 
-Pub. L. 107–147, title IV, §411(x), Mar. 9, 2002, 116 Stat. 53, provided that: “Except as provided in subsection (c) [amending sections 23 and 137 of this title and enacting provisions set out as a note under section 23 of this title], the amendments made by this section [amending this section, sections 23, 24, 38, 45E, 45F, 63, 137, 401 to 404, 408, 409, 412, 414 to 417, 457, 530, 2016, 2101, 2511, 4980F, and 6428 of this title, sections 1003, 1054, 1055, 1082, and 1104 of Title 29, Labor, and provisions set out as notes under sections 38, 415, and 4980F of this title] shall take effect as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 [Pub. L. 107–16] to which they relate.”
+Pub. L. 107–147, title IV, §411(x), Mar. 9, 2002, 116 Stat. 53, provided that: "Except as provided in subsection (c) [amending sections 23 and 137 of this title and enacting provisions set out as a note under section 23 of this title], the amendments made by this section [amending this section, sections 23, 24, 38, 45E, 45F, 63, 137, 401 to 404, 408, 409, 412, 414 to 417, 457, 530, 2016, 2101, 2511, 4980F, and 6428 of this title, sections 1003, 1054, 1055, 1082, and 1104 of Title 29, Labor, and provisions set out as notes under sections 38, 415, and 4980F of this title] shall take effect as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 [Pub. L. 107–16] to which they relate."
 
 #### Effective Date ####
 

@@ -22,7 +22,7 @@ Sec.
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–375, div. A, title V, §594(b)(2), Oct. 28, 2004, 118 Stat. 1936, substituted “National Guard Youth Challenge” for “National Guard Challenge” in item 509.
+**2004**—Pub. L. 108–375, div. A, title V, §594(b)(2), Oct. 28, 2004, 118 Stat. 1936, substituted "National Guard Youth Challenge" for "National Guard Challenge" in item 509.
 
 **1997**—Pub. L. 105–85, div. A, title X, §1076(b), Nov. 18, 1997, 111 Stat. 1914, added item 509.
 

@@ -24,7 +24,7 @@ A prior section 746 of act June 25, 1938, was renumbered section 749 and is clas
 
 #### Amendments ####
 
-**2007**—Subsec. (b). Pub. L. 110–85 inserted at end “Any such fellowships and training programs under this section or under section 379dd(d)(2)(A)(ix) of this title may include provision by such scientists and physicians of services on a voluntary and uncompensated basis, as the Secretary determines appropriate. Such scientists and physicians shall be subject to all legal and ethical requirements otherwise applicable to officers or employees of the Department of Health and Human Services.”
+**2007**—Subsec. (b). Pub. L. 110–85 inserted at end "Any such fellowships and training programs under this section or under section 379dd(d)(2)(A)(ix) of this title may include provision by such scientists and physicians of services on a voluntary and uncompensated basis, as the Secretary determines appropriate. Such scientists and physicians shall be subject to all legal and ethical requirements otherwise applicable to officers or employees of the Department of Health and Human Services."
 
 #### Effective Date ####
 

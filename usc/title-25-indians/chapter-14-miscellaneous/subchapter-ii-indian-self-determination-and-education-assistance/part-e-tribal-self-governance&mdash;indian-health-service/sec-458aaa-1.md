@@ -1,6 +1,6 @@
 ### §458aaa–1. Establishment ###
 
-The Secretary shall establish and carry out a program within the Indian Health Service of the Department of Health and Human Services to be known as the “Tribal Self-Governance Program” in accordance with this part.
+The Secretary shall establish and carry out a program within the Indian Health Service of the Department of Health and Human Services to be known as the "Tribal Self-Governance Program" in accordance with this part.
 
 (Pub. L. 93–638, title V, §502, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 714.)
 

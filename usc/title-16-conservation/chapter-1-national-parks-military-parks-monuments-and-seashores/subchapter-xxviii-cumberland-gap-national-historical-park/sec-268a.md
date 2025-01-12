@@ -2,7 +2,7 @@
 
 #### (a) Short title ####
 
-This section may be cited as the “Fern Lake Conservation and Recreation Act”.
+This section may be cited as the "Fern Lake Conservation and Recreation Act".
 
 #### (b) Findings and purposes ####
 
@@ -34,23 +34,23 @@ In this section:
 
 #### (A) Fern Lake ####
 
-The term “Fern Lake” means Fern Lake located in Bell County, Kentucky, and Claiborne County, Tennessee.
+The term "Fern Lake" means Fern Lake located in Bell County, Kentucky, and Claiborne County, Tennessee.
 
 #### (B) Land ####
 
-The term “land” means land, water, interests in land, and any improvements on the land.
+The term "land" means land, water, interests in land, and any improvements on the land.
 
 #### (C) Park ####
 
-The term “park” means Cumberland Gap National Historical Park, as authorized and established by the Act of June 11, 1940 (54 Stat. 262; 16 U.S.C. 261 et seq.).
+The term "park" means Cumberland Gap National Historical Park, as authorized and established by the Act of June 11, 1940 (54 Stat. 262; 16 U.S.C. 261 et seq.).
 
 #### (D) Secretary ####
 
-The term “Secretary” means the Secretary of the Interior, acting through the Director of the National Park Service.
+The term "Secretary" means the Secretary of the Interior, acting through the Director of the National Park Service.
 
 #### (2) Acquisition authorized ####
 
-The Secretary may acquire for addition to the park lands consisting of approximately 4,500 acres and containing Fern Lake and its surrounding watershed, as generally depicted on the map entitled “Cumberland Gap National Historical Park, Fern Lake Watershed”, numbered 380/80,004, and dated May 2001. The map shall be on file in the appropriate offices of the National Park Service.
+The Secretary may acquire for addition to the park lands consisting of approximately 4,500 acres and containing Fern Lake and its surrounding watershed, as generally depicted on the map entitled "Cumberland Gap National Historical Park, Fern Lake Watershed", numbered 380/80,004, and dated May 2001. The map shall be on file in the appropriate offices of the National Park Service.
 
 #### (3) Boundary adjustment and administration ####
 
@@ -84,7 +84,7 @@ In order to better manage lands acquired under this section in a manner that wil
 
 #### References in Text ####
 
-This section and the section, referred to in subsecs. (a) and (b)(2), were in the original “This Act” and “the Act”, which were translated as meaning section 150 of Pub. L. 108–199, div. H, Jan. 23, 2004, 118 Stat. 446, to reflect the probable intent of Congress.
+This section and the section, referred to in subsecs. (a) and (b)(2), were in the original "This Act" and "the Act", which were translated as meaning section 150 of Pub. L. 108–199, div. H, Jan. 23, 2004, 118 Stat. 446, to reflect the probable intent of Congress.
 
 The act of June 11, 1940, referred to in subsecs. (b)(1)(A) and (c)(1)(C), is act June 11, 1940, ch. 304, 54 Stat. 262, as amended, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.
 
@@ -92,4 +92,4 @@ The act of June 11, 1940, referred to in subsecs. (b)(1)(A) and (c)(1)(C), is ac
 
 Section was enacted as the Fern Lake Conservation and Recreation Act, and also as part of the Miscellaneous Appropriations and Offsets Act, 2004, and Consolidated Appropriations Act, 2004, and not as part of act June 11, 1940, ch. 304, 54 Stat. 262, which comprises this subchapter.
 
-[<sup>1</sup> So in original. Probably should be “are”.](#268a_1)
+[<sup>1</sup> So in original. Probably should be "are".](#268a_1)

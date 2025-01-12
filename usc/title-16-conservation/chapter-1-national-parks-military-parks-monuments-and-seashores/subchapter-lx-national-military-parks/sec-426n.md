@@ -2,11 +2,11 @@
 
 #### (a) Expansion of Stones River National Battlefield ####
 
-In furtherance of sections 426 to 426j of this title, the boundary of Stones River National Battlefield (hereinafter referred to as “battlefield”) is hereby revised to include the lands generally depicted on the map entitled “Boundary Map, Stones River National Battlefield” numbered 327/80,004B, and dated November 1991. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior and in the office of the Superintendent of the Stones River National Battlefield.
+In furtherance of sections 426 to 426j of this title, the boundary of Stones River National Battlefield (hereinafter referred to as "battlefield") is hereby revised to include the lands generally depicted on the map entitled "Boundary Map, Stones River National Battlefield" numbered 327/80,004B, and dated November 1991. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior and in the office of the Superintendent of the Stones River National Battlefield.
 
 #### (b) Acquisition of lands ####
 
-(1) The Secretary of the Interior (hereinafter referred to as “Secretary”) is hereby authorized to acquire lands or interests therein within the boundary of the battlefield by donation, purchase with donated or appropriated funds, or exchange. Any lands or interests in lands owned by the State of Tennessee or any political subdivision thereof may be acquired only by donation. Lands and interests therein acquired pursuant to sections 426n to 426p of this title shall become part of the battlefield, subject to all the laws and regulations applicable thereto.
+(1) The Secretary of the Interior (hereinafter referred to as "Secretary") is hereby authorized to acquire lands or interests therein within the boundary of the battlefield by donation, purchase with donated or appropriated funds, or exchange. Any lands or interests in lands owned by the State of Tennessee or any political subdivision thereof may be acquired only by donation. Lands and interests therein acquired pursuant to sections 426n to 426p of this title shall become part of the battlefield, subject to all the laws and regulations applicable thereto.
 
 (2)(A) Before acquiring any lands under sections 426n to 426p of this title where the surface of such lands has been substantially disturbed or which are believed by the Secretary to contain hazardous substances, the Secretary shall prepare a report on the potential hazardous substances associated with such lands and the estimated cost of restoring such lands, together with a plan of the remedial measures necessary to allow acquisition of such lands to proceed in a timely manner, consistent with the requirements of subparagraph (B). The Secretary shall submit such report to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives.
 
@@ -18,7 +18,7 @@ In furtherance of sections 426 to 426j of this title, the boundary of Stones Riv
 
 (C) This paragraph applies only to owners who have reached the age of majority.
 
-(D) As used in this paragraph, the term “improved property” means a detached, year-round noncommercial residential dwelling, the construction of which was begun before December 11, 1991, together with so much of the land on which the dwelling is situated, such land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
+(D) As used in this paragraph, the term "improved property" means a detached, year-round noncommercial residential dwelling, the construction of which was begun before December 11, 1991, together with so much of the land on which the dwelling is situated, such land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
 (Pub. L. 100–205, §1, Dec. 23, 1987, 101 Stat. 1433; Pub. L. 102–225, §1(1), (2), Dec. 11, 1991, 105 Stat. 1682; Pub. L. 103–437, §6(d)(15), Nov. 2, 1994, 108 Stat. 4584.)
 
@@ -28,8 +28,8 @@ The Comprehensive Environmental Response, Compensation, and Liability Act, refer
 
 #### Amendments ####
 
-**1994**—Subsec. (b)(2)(A). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+**1994**—Subsec. (b)(2)(A). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
 
-**1991**—Subsec. (a). Pub. L. 102–225, §1(1), substituted “numbered 327/80,004B, and dated November 1991” for “numbered 327/80,001, and dated March 1987”.
+**1991**—Subsec. (a). Pub. L. 102–225, §1(1), substituted "numbered 327/80,004B, and dated November 1991" for "numbered 327/80,001, and dated March 1987".
 
 Subsec. (b). Pub. L. 102–225, §1(2), designated existing provisions as par. (1) and added pars. (2) and (3).

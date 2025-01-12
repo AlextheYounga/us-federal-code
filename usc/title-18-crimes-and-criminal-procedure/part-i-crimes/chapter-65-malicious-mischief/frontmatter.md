@@ -18,7 +18,7 @@ Sec.
 
 1368. Harming animals used in law enforcement.
 
-1369. Destruction of veterans’ memorials.
+1369. Destruction of veterans' memorials.
 
 #### Amendments ####
 
@@ -26,7 +26,7 @@ Sec.
 
 **2000**—Pub. L. 106–254, §2(b), Aug. 2, 2000, 114 Stat. 638, added item 1368.
 
-**1990**—Pub. L. 101–647, title XXXV, §3543, Nov. 29, 1990, 104 Stat. 4926, inserted a period after “1366”.
+**1990**—Pub. L. 101–647, title XXXV, §3543, Nov. 29, 1990, 104 Stat. 4926, inserted a period after "1366".
 
 **1986**—Pub. L. 99–646, §29(b), Nov. 10, 1986, 100 Stat. 3598, redesignated item 1365, relating to destruction of an energy facility, as item 1366.
 

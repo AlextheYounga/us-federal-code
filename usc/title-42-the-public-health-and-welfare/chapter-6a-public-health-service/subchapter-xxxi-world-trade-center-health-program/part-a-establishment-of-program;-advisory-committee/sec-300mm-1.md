@@ -4,7 +4,7 @@
 
 #### (1) Establishment ####
 
-The WTC Program Administrator shall establish an advisory committee to be known as the WTC Health Program Scientific/Technical Advisory Committee (in this subsection referred to as the “Advisory Committee”) to review scientific and medical evidence and to make recommendations to the Administrator on additional WTC Program eligibility criteria and on additional WTC-related health conditions.
+The WTC Program Administrator shall establish an advisory committee to be known as the WTC Health Program Scientific/Technical Advisory Committee (in this subsection referred to as the "Advisory Committee") to review scientific and medical evidence and to make recommendations to the Administrator on additional WTC Program eligibility criteria and on additional WTC-related health conditions.
 
 #### (2) Composition ####
 
@@ -48,7 +48,7 @@ Except as otherwise specifically provided, the Advisory Committee shall be subje
 
 #### (1) Consultation ####
 
-The WTC Program Administrator shall consult with 2 steering committees (each in this section referred to as a “Steering Committee”) that are established as follows:
+The WTC Program Administrator shall consult with 2 steering committees (each in this section referred to as a "Steering Committee") that are established as follows:
 
 #### (A) WTC Responders Steering Committee ####
 

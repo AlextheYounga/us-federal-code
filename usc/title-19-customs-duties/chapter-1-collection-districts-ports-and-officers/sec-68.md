@@ -6,19 +6,19 @@ To aid in the enforcement of the customs and immigration laws along the Canadian
 
 #### Amendments ####
 
-**1974**—Pub. L. 93–396 substituted “$200,000” for “$100,000”.
+**1974**—Pub. L. 93–396 substituted "$200,000" for "$100,000".
 
 **1965**—Pub. L. 89–87 extended to Guam and the Virgin Islands the authority of the Attorney General and the Secretary of the Treasury to construct facilities for the enforcement of the customs and immigration laws.
 
-**1962**—Pub. L. 87–465 substituted “$100,000” for “$40,000” and “$80,000”.
+**1962**—Pub. L. 87–465 substituted "$100,000" for "$40,000" and "$80,000".
 
-**1960**—Pub. L. 86–466 substituted “$40,000” and “$80,000” for “$30,000” and “$60,000”, respectively.
+**1960**—Pub. L. 86–466 substituted "$40,000" and "$80,000" for "$30,000" and "$60,000", respectively.
 
-**1956**—Act May 18, 1956, substituted “$30,000” and “$60,000” for “$15,000” and “$30,000”, respectively.
+**1956**—Act May 18, 1956, substituted "$30,000" and "$60,000" for "$15,000" and "$30,000", respectively.
 
-**1951**—Act Sept. 26, 1951, substituted “$15,000” and “$30,000” for “$5,000” and “$10,000”, respectively.
+**1951**—Act Sept. 26, 1951, substituted "$15,000" and "$30,000" for "$5,000" and "$10,000", respectively.
 
-**1940**—Act Oct. 10, 1940, substituted “$5000” and “$10,000” for “$3000” and “$6000”, respectively.
+**1940**—Act Oct. 10, 1940, substituted "$5000" and "$10,000" for "$3000" and "$6000", respectively.
 
 #### Transfer of Functions ####
 

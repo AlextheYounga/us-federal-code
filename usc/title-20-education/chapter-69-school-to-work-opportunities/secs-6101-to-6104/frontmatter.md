@@ -14,4 +14,4 @@ Section 6104, Pub. L. 103–239, §5, May 4, 1994, 108 Stat. 575, provided for F
 
 #### Short Title ####
 
-Pub. L. 103–239, §1(a), May 4, 1994, 108 Stat. 568, provided that: “This Act [enacting this chapter, amending former sections 2394b and 2394c and section 4441 of this title, former section 1699 of Title 29, Labor, and former sections 11449 and 11450 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 4401 and 4441 of this title] may be cited as the ‘School-to-Work Opportunities Act of 1994’.”
+Pub. L. 103–239, §1(a), May 4, 1994, 108 Stat. 568, provided that: "This Act [enacting this chapter, amending former sections 2394b and 2394c and section 4441 of this title, former section 1699 of Title 29, Labor, and former sections 11449 and 11450 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 4401 and 4441 of this title] may be cited as the 'School-to-Work Opportunities Act of 1994'."

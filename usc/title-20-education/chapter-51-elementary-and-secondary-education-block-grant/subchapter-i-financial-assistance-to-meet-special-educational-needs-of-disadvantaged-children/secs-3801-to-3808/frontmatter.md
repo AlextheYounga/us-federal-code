@@ -18,7 +18,7 @@ Section 3808, Pub. L. 97–35, title V, §559, as added Pub. L. 98–211, §22, 
 
 #### Short Title ####
 
-Pub. L. 97–35, title V, §551, Aug. 13, 1981, 95 Stat. 463, provided that subtitle D [§§551 to 596] of title V of Pub. L. 97–35 was to be cited as the “Education Consolidation and Improvement Act of 1981”, prior to repeal by Pub. L. 100–297, title I, §1003(a), Apr. 28, 1988, 102 Stat. 293.
+Pub. L. 97–35, title V, §551, Aug. 13, 1981, 95 Stat. 463, provided that subtitle D [§§551 to 596] of title V of Pub. L. 97–35 was to be cited as the "Education Consolidation and Improvement Act of 1981", prior to repeal by Pub. L. 100–297, title I, §1003(a), Apr. 28, 1988, 102 Stat. 293.
 
 #### Effective Date of Repeal ####
 

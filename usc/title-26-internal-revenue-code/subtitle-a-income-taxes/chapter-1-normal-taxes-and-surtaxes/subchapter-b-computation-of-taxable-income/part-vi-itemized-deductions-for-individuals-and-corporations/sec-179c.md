@@ -18,7 +18,7 @@ Any election made under this section may not be revoked except with the consent 
 
 #### (1) In general ####
 
-The term “qualified refinery property” means any portion of a qualified refinery—
+The term "qualified refinery property" means any portion of a qualified refinery—
 
 (A) the original use of which commences with the taxpayer,
 
@@ -52,7 +52,7 @@ A waiver under the Clean Air Act shall not be taken into account in determining 
 
 #### (d) Qualified refinery ####
 
-For purposes of this section, the term “qualified refinery” means any refinery located in the United States which is designed to serve the primary purpose of processing liquid fuel from crude oil or qualified fuels (as defined in section 45K(c)), or directly from shale or tar sands.
+For purposes of this section, the term "qualified refinery" means any refinery located in the United States which is designed to serve the primary purpose of processing liquid fuel from crude oil or qualified fuels (as defined in section 45K(c)), or directly from shale or tar sands.
 
 #### (e) Production capacity ####
 
@@ -104,18 +104,18 @@ The Clean Air Act, referred to in subsec. (c)(3), is act July 14, 1955, ch. 360,
 
 #### Amendments ####
 
-**2008**—Subsec. (c)(1)(B). Pub. L. 110–343, §209(a)(1), substituted “January 1, 2014” for “January 1, 2012”.
+**2008**—Subsec. (c)(1)(B). Pub. L. 110–343, §209(a)(1), substituted "January 1, 2014" for "January 1, 2012".
 
-Subsec. (c)(1)(F). Pub. L. 110–343, §209(a)(2), substituted “January 1, 2010” for “January 1, 2008” wherever appearing.
+Subsec. (c)(1)(F). Pub. L. 110–343, §209(a)(2), substituted "January 1, 2010" for "January 1, 2008" wherever appearing.
 
-Subsec. (d). Pub. L. 110–343, §209(b)(1), inserted “, or directly from shale or tar sands” after “(as defined in section 45K(c))”.
+Subsec. (d). Pub. L. 110–343, §209(b)(1), inserted ", or directly from shale or tar sands" after "(as defined in section 45K(c))".
 
-Subsec. (e)(2). Pub. L. 110–343, §209(b)(2), inserted “shale, tar sands, or” before “qualified fuels”.
+Subsec. (e)(2). Pub. L. 110–343, §209(b)(2), inserted "shale, tar sands, or" before "qualified fuels".
 
 #### Effective Date of 2008 Amendment ####
 
-Pub. L. 110–343, div. B, title II, §209(c), Oct. 3, 2008, 122 Stat. 3840, provided that: “The amendments made by this section [amending this section] shall apply to property placed in service after the date of the enactment of this Act [Oct. 3, 2008].”
+Pub. L. 110–343, div. B, title II, §209(c), Oct. 3, 2008, 122 Stat. 3840, provided that: "The amendments made by this section [amending this section] shall apply to property placed in service after the date of the enactment of this Act [Oct. 3, 2008]."
 
 #### Effective Date ####
 
-Pub. L. 109–58, title XIII, §1323(c), Aug. 8, 2005, 119 Stat. 1015, provided that: “The amendments made by this section [enacting this section and amending sections 263, 312, and 1245 of this title] shall apply to properties placed in service after the date of the enactment of this Act [Aug. 8, 2005].”
+Pub. L. 109–58, title XIII, §1323(c), Aug. 8, 2005, 119 Stat. 1015, provided that: "The amendments made by this section [enacting this section and amending sections 263, 312, and 1245 of this title] shall apply to properties placed in service after the date of the enactment of this Act [Aug. 8, 2005]."

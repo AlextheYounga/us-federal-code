@@ -8,9 +8,9 @@ The provisions of the International Organizations Immunities Act (22 U.S.C. 288 
 
 The President is authorized to apply the provisions of Article I of the Agreement on State and Local Taxation of Foreign Employees of Public International Organizations, done at Washington on April 21, 1994, to the Hong Kong Economic and Trade Offices.
 
-#### (c) “Hong Kong Economic and Trade Offices” defined ####
+#### (c) "Hong Kong Economic and Trade Offices" defined ####
 
-The term “Hong Kong Economic and Trade Offices” refers to Hong Kong's official economic and trade missions in the United States.
+The term "Hong Kong Economic and Trade Offices" refers to Hong Kong's official economic and trade missions in the United States.
 
 (Pub. L. 105–22, §1, June 27, 1997, 111 Stat. 236.)
 

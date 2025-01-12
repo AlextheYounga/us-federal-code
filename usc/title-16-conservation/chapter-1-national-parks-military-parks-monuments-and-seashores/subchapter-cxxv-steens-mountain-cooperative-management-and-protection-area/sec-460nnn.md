@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Advisory council ####
 
-The term “advisory council” means the Steens Mountain Advisory Council established by part D of this subchapter.<sup><a href="#460nnn_1_target" name="460nnn_1">1</a></sup>
+The term "advisory council" means the Steens Mountain Advisory Council established by part D of this subchapter.<sup><a href="#460nnn_1_target" name="460nnn_1">1</a></sup>
 
 #### (2) Cooperative management agreement ####
 
@@ -12,17 +12,17 @@ An agreement to plan or implement (or both) cooperative recreation, ecological, 
 
 #### (3) Cooperative Management and Protection Area ####
 
-The term “Cooperative Management and Protection Area” means the Steens Mountain Cooperative Management and Protection Area designated by part A of this subchapter.
+The term "Cooperative Management and Protection Area" means the Steens Mountain Cooperative Management and Protection Area designated by part A of this subchapter.
 
 #### (4) Easements ####
 
 #### (A) Conservation easement ####
 
-The term “conservation easement” means a binding contractual agreement between the Secretary and a landowner in the Cooperative Management and Protection Area under which the landowner, permanently or during a time period specified in the agreement, agrees to conserve or restore habitat, open space, scenic, or other ecological resource values on the land covered by the easement.
+The term "conservation easement" means a binding contractual agreement between the Secretary and a landowner in the Cooperative Management and Protection Area under which the landowner, permanently or during a time period specified in the agreement, agrees to conserve or restore habitat, open space, scenic, or other ecological resource values on the land covered by the easement.
 
 #### (B) Nondevelopment easement ####
 
-The term “nondevelopment easement” means a binding contractual agreement between the Secretary and a landowner in the Cooperative Management and Protection Area that will, permanently or during a time period specified in the agreement—
+The term "nondevelopment easement" means a binding contractual agreement between the Secretary and a landowner in the Cooperative Management and Protection Area that will, permanently or during a time period specified in the agreement—
 
 (i) prevent or restrict development on the land covered by the easement; or
 
@@ -30,7 +30,7 @@ The term “nondevelopment easement” means a binding contractual agreement bet
 
 #### (5) Ecological integrity ####
 
-The term “ecological integrity” means a landscape where ecological processes are functioning to maintain the structure, composition, activity, and resilience of the landscape over time, including—
+The term "ecological integrity" means a landscape where ecological processes are functioning to maintain the structure, composition, activity, and resilience of the landscape over time, including—
 
 (A) a complex of plant communities, habitats and conditions representative of variable and sustainable successional conditions; and
 
@@ -38,64 +38,64 @@ The term “ecological integrity” means a landscape where ecological processes
 
 #### (6) Management plan ####
 
-The term “management plan” means the management plan for the Cooperative Management and Protection Area and the Wilderness Area required to be prepared by section 460nnn–21(b) of this title.
+The term "management plan" means the management plan for the Cooperative Management and Protection Area and the Wilderness Area required to be prepared by section 460nnn–21(b) of this title.
 
 #### (7) Redband Trout Reserve ####
 
-The term “Redband Trout Reserve” means the Donner und Blitzen Redband Trout Reserve designated by section 460nnn–72 of this title.
+The term "Redband Trout Reserve" means the Donner und Blitzen Redband Trout Reserve designated by section 460nnn–72 of this title.
 
 #### (8) Secretary ####
 
-The term “Secretary” means the Secretary of the Interior, acting through the Bureau of Land Management.
+The term "Secretary" means the Secretary of the Interior, acting through the Bureau of Land Management.
 
 #### (9) Science committee ####
 
-The term “science committee” means the committee of independent scientists appointed under section 460nnn–53 of this title.
+The term "science committee" means the committee of independent scientists appointed under section 460nnn–53 of this title.
 
 #### (10) Wilderness Area ####
 
-The term “Wilderness Area” means the Steens Mountain Wilderness Area designated by part B of this subchapter.
+The term "Wilderness Area" means the Steens Mountain Wilderness Area designated by part B of this subchapter.
 
 (Pub. L. 106–399, §2, Oct. 30, 2000, 114 Stat. 1656.)
 
 #### References in Text ####
 
-This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 106–399, Oct. 30, 2000, 114 Stat. 1655, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This subchapter, referred to in text, was in the original "this Act", meaning Pub. L. 106–399, Oct. 30, 2000, 114 Stat. 1655, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 Part D of this subchapter, referred to in par. (1), probably should be a reference to subpart 4 of part A of this subchapter. Part D of this subchapter does not relate to the Steens Mountain Advisory Council.
 
 #### Short Title ####
 
-Pub. L. 106–399, §1(a), Oct. 30, 2000, 114 Stat. 1655, provided that: “This Act [enacting this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title and amending section 1274 of this title] may be cited as the ‘Steens Mountain Cooperative Management and Protection Act of 2000’.”
+Pub. L. 106–399, §1(a), Oct. 30, 2000, 114 Stat. 1655, provided that: "This Act [enacting this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title and amending section 1274 of this title] may be cited as the 'Steens Mountain Cooperative Management and Protection Act of 2000'."
 
 #### Purposes ####
 
-Pub. L. 106–399, §1(b), Oct. 30, 2000, 114 Stat. 1655, provided that: “The purposes of this Act [see Short Title note above] are the following:
+Pub. L. 106–399, §1(b), Oct. 30, 2000, 114 Stat. 1655, provided that: "The purposes of this Act [see Short Title note above] are the following:
 
-“(1) To maintain the cultural, economic, ecological, and social health of the Steens Mountain area in Harney County, Oregon.
+"(1) To maintain the cultural, economic, ecological, and social health of the Steens Mountain area in Harney County, Oregon.
 
-“(2) To designate the Steens Mountain Wilderness Area.
+"(2) To designate the Steens Mountain Wilderness Area.
 
-“(3) To designate the Steens Mountain Cooperative Management and Protection Area.
+"(3) To designate the Steens Mountain Cooperative Management and Protection Area.
 
-“(4) To provide for the acquisition of private lands through exchange for inclusion in the Wilderness Area and the Cooperative Management and Protection Area.
+"(4) To provide for the acquisition of private lands through exchange for inclusion in the Wilderness Area and the Cooperative Management and Protection Area.
 
-“(5) To provide for and expand cooperative management activities between public and private landowners in the vicinity of the Wilderness Area and surrounding lands.
+"(5) To provide for and expand cooperative management activities between public and private landowners in the vicinity of the Wilderness Area and surrounding lands.
 
-“(6) To authorize the purchase of land and development and nondevelopment rights.
+"(6) To authorize the purchase of land and development and nondevelopment rights.
 
-“(7) To designate additional components of the National Wild and Scenic Rivers System.
+"(7) To designate additional components of the National Wild and Scenic Rivers System.
 
-“(8) To establish a reserve for redband trout and a wildlands juniper management area.
+"(8) To establish a reserve for redband trout and a wildlands juniper management area.
 
-“(9) To establish a citizens’ management advisory council for the Cooperative Management and Protection Area.
+"(9) To establish a citizens' management advisory council for the Cooperative Management and Protection Area.
 
-“(10) To maintain and enhance cooperative and innovative management practices between the public and private land managers in the Cooperative Management and Protection Area.
+"(10) To maintain and enhance cooperative and innovative management practices between the public and private land managers in the Cooperative Management and Protection Area.
 
-“(11) To promote viable and sustainable grazing and recreation operations on private and public lands.
+"(11) To promote viable and sustainable grazing and recreation operations on private and public lands.
 
-“(12) To conserve, protect, and manage for healthy watersheds and the long-term ecological integrity of Steens Mountain.
+"(12) To conserve, protect, and manage for healthy watersheds and the long-term ecological integrity of Steens Mountain.
 
-“(13) To authorize only such uses on Federal lands in the Cooperative Management and Protection Area that are consistent with the purposes of this Act.”
+"(13) To authorize only such uses on Federal lands in the Cooperative Management and Protection Area that are consistent with the purposes of this Act."
 
 [<sup>1</sup> See References in Text note below.](#460nnn_1)

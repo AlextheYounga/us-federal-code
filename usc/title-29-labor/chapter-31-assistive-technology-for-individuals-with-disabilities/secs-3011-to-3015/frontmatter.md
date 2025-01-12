@@ -2,7 +2,7 @@
 
 #### Codification ####
 
-Sections, comprising subchapter I of this chapter “State Grant Programs”, were omitted in the general amendment of this chapter by Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1707.
+Sections, comprising subchapter I of this chapter "State Grant Programs", were omitted in the general amendment of this chapter by Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1707.
 
 Section 3011, Pub. L. 105–394, title I, §101, Nov. 13, 1998, 112 Stat. 3635, provided for continuity grants for States that received funding for a limited period for technology-related assistance.
 

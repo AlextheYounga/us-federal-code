@@ -6,8 +6,8 @@ Appropriations of the Forest Service chargeable with salaries and wages shall be
 
 #### Codification ####
 
-“Subchapter I of chapter 81 of title 5” substituted in text for references to the United States Employees’ Compensation Act, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+"Subchapter I of chapter 81 of title 5" substituted in text for references to the United States Employees' Compensation Act, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Transfer of Functions ####
 
-References to Secretary of Labor substituted in text for references to the United States Employees’ Compensation Commission. United States Employees’ Compensation Commission, created by section 28 of act Sept. 7, 1916, ch. 458, 39 Stat. 748, abolished and functions thereof transferred to Federal Security Agency to be performed in such manner and under such rules and regulations as Federal Security Administrator shall prescribe, by section 3 of Reorg. Plan No. 2 of 1946. These functions subsequently transferred to Department of Labor, to be administered under direction and supervision of Secretary of Labor, by section 1 of Reorg. Plan No. 19, of 1950.
+References to Secretary of Labor substituted in text for references to the United States Employees' Compensation Commission. United States Employees' Compensation Commission, created by section 28 of act Sept. 7, 1916, ch. 458, 39 Stat. 748, abolished and functions thereof transferred to Federal Security Agency to be performed in such manner and under such rules and regulations as Federal Security Administrator shall prescribe, by section 3 of Reorg. Plan No. 2 of 1946. These functions subsequently transferred to Department of Labor, to be administered under direction and supervision of Secretary of Labor, by section 1 of Reorg. Plan No. 19, of 1950.

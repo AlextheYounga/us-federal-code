@@ -10,7 +10,7 @@ The Regents may, subject to the approval of the President, authorize the prepara
 
 #### (c) Name of building; supervision and control ####
 
-The name of the building shall be the Smithsonian Gallery of Art (hereinafter referred to as the “Gallery”), and it shall be under the supervision and control of the Regents and the Secretary of the Smithsonian Institution.
+The name of the building shall be the Smithsonian Gallery of Art (hereinafter referred to as the "Gallery"), and it shall be under the supervision and control of the Regents and the Secretary of the Smithsonian Institution.
 
 (May 17, 1938, ch. 238, §3, 52 Stat. 400; 1939 Reorg. Plan No. I, §§301, 303, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, 1427; June 30, 1949, ch. 288, title I, §103, 63 Stat. 380.)
 

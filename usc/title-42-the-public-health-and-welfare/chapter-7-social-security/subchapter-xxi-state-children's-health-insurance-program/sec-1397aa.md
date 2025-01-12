@@ -30,4 +30,4 @@ No State is eligible for payments under section 1397ee of this title for child h
 
 #### References to SCHIP and State Children's Health Insurance Program ####
 
-Pub. L. 106–113, div. B, §1000(a)(6) [title VII, §704], Nov. 29, 1999, 113 Stat. 1536, 1501A–402, which provided that, in official communications concerning this subchapter, the terms “SCHIP” and “State children's health insurance program” were to be used instead of “CHIP” and “children's health insurance program”, respectively, was repealed by Pub. L. 111–3, title VI, §612, Feb. 4, 2009, 123 Stat. 101.
+Pub. L. 106–113, div. B, §1000(a)(6) [title VII, §704], Nov. 29, 1999, 113 Stat. 1536, 1501A–402, which provided that, in official communications concerning this subchapter, the terms "SCHIP" and "State children's health insurance program" were to be used instead of "CHIP" and "children's health insurance program", respectively, was repealed by Pub. L. 111–3, title VI, §612, Feb. 4, 2009, 123 Stat. 101.

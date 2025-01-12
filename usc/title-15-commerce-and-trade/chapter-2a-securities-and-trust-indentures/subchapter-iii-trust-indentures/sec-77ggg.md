@@ -20,7 +20,7 @@ The Securities Act of 1933, referred to in subsecs. (a) and (c), is act May 27, 
 
 #### Amendments ####
 
-**2002**—Subsec. (b). Pub. L. 107–123 substituted “Commission” for “Commission, but, in the case of an application, only if it is accompanied or preceded by payment to the Commission of a filing fee in the amount of $100, such payment to be made in cash or by United States postal money order or certified or bank check, or in such other medium of payment as the Commission may authorize by rule and regulation”.
+**2002**—Subsec. (b). Pub. L. 107–123 substituted "Commission" for "Commission, but, in the case of an application, only if it is accompanied or preceded by payment to the Commission of a filing fee in the amount of $100, such payment to be made in cash or by United States postal money order or certified or bank check, or in such other medium of payment as the Commission may authorize by rule and regulation".
 
 #### Effective Date of 2002 Amendment ####
 

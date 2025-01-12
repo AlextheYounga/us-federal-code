@@ -28,10 +28,10 @@ Section 282(g) of this title, which was transferred and redesignated as subsec. 
 
 #### Amendments ####
 
-**2011**—Pub. L. 112–74, §221(b)(5)(A), substituted “National Institute of General Medical Sciences” for “Purpose of Institute” in section catchline, designated existing provisions as subsec. (a), and inserted subsec. heading.
+**2011**—Pub. L. 112–74, §221(b)(5)(A), substituted "National Institute of General Medical Sciences" for "Purpose of Institute" in section catchline, designated existing provisions as subsec. (a), and inserted subsec. heading.
 
 Subsec. (b). Pub. L. 112–74, §221(b)(5)(C)(i), (ii), inserted heading and realigned margins.
 
 Pub. L. 112–74, §221(b)(5)(B), transferred subsec. (g) of section 282 of this title and redesignated it as subsec. (b) of this section. See Codification note above.
 
-Subsec. (b)(1)(A). Pub. L. 112–74, §221(b)(5)(C)(iii), substituted “acting through the Director of the National Institute of General Medical Sciences” for “acting through the Director of the National Center for Research Resources”.
+Subsec. (b)(1)(A). Pub. L. 112–74, §221(b)(5)(C)(iii), substituted "acting through the Director of the National Institute of General Medical Sciences" for "acting through the Director of the National Center for Research Resources".

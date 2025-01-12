@@ -16,75 +16,75 @@
 
 #### Amendments ####
 
-**2013**—Subsec. (c). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+**2013**—Subsec. (c). Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-**2011**—Subsec. (c). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+**2011**—Subsec. (c). Pub. L. 112–81 substituted "December 31, 2012" for "December 31, 2011".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
-**2009**—Subsec. (c). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+**2009**—Subsec. (c). Pub. L. 111–84 substituted "December 31, 2010" for "December 31, 2009".
 
-**2008**—Subsec. (c). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+**2008**—Subsec. (c). Pub. L. 110–417 substituted "December 31, 2009" for "December 31, 2008".
 
-Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
+Pub. L. 110–181 substituted "December 31, 2008" for "December 31, 2007".
 
-**2006**—Subsec. (a)(1). Pub. L. 109–364, §619(a), substituted “$30,000” for “$20,000”.
+**2006**—Subsec. (a)(1). Pub. L. 109–364, §619(a), substituted "$30,000" for "$20,000".
 
-Subsec. (a)(2). Pub. L. 109–163, §687(b)(22), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Under such regulations, and subject to such exceptions, as the Secretary of the Navy may prescribe, an individual who has entered into an agreement with the Secretary under this subsection, who has been paid a bonus under this subsection, and who fails to commence or satisfactorily complete the nuclear power training specified in the agreement shall be required to refund such bonus.”
+Subsec. (a)(2). Pub. L. 109–163, §687(b)(22), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Under such regulations, and subject to such exceptions, as the Secretary of the Navy may prescribe, an individual who has entered into an agreement with the Secretary under this subsection, who has been paid a bonus under this subsection, and who fails to commence or satisfactorily complete the nuclear power training specified in the agreement shall be required to refund such bonus."
 
-Subsec. (c). Pub. L. 109–364, §613(b), substituted “December 31, 2007” for “December 31, 2006”.
+Subsec. (c). Pub. L. 109–364, §613(b), substituted "December 31, 2007" for "December 31, 2006".
 
-Pub. L. 109–163, §623(b), substituted “December 31, 2006” for “December 31, 2005”.
+Pub. L. 109–163, §623(b), substituted "December 31, 2006" for "December 31, 2005".
 
-**2004**—Subsec. (c). Pub. L. 108–375 substituted “December 31, 2005” for “December 31, 2004”.
+**2004**—Subsec. (c). Pub. L. 108–375 substituted "December 31, 2005" for "December 31, 2004".
 
-**2003**—Subsec. (c). Pub. L. 108–136 substituted “December 31, 2004” for “December 31, 2003”.
+**2003**—Subsec. (c). Pub. L. 108–136 substituted "December 31, 2004" for "December 31, 2003".
 
-**2002**—Subsec. (c). Pub. L. 107–314 substituted “December 31, 2003” for “December 31, 2002”.
+**2002**—Subsec. (c). Pub. L. 107–314 substituted "December 31, 2003" for "December 31, 2002".
 
-**2001**—Subsec. (c). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
+**2001**—Subsec. (c). Pub. L. 107–107 substituted "December 31, 2002" for "December 31, 2001".
 
-**2000**—Subsec. (c). Pub. L. 106–398 substituted “December 31, 2001” for “December 31, 2000”.
+**2000**—Subsec. (c). Pub. L. 106–398 substituted "December 31, 2001" for "December 31, 2000".
 
-**1999**—Subsec. (a)(1). Pub. L. 106–65, §624(b), substituted “$20,000” for “$10,000”.
+**1999**—Subsec. (a)(1). Pub. L. 106–65, §624(b), substituted "$20,000" for "$10,000".
 
-Subsec. (c). Pub. L. 106–65, §613(f), substituted “December 31, 2000” for “December 31, 1999”.
+Subsec. (c). Pub. L. 106–65, §613(f), substituted "December 31, 2000" for "December 31, 1999".
 
-**1998**—Subsec. (c). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
+**1998**—Subsec. (c). Pub. L. 105–261 substituted "December 31, 1999" for "September 30, 1999".
 
-**1997**—Subsec. (a)(1). Pub. L. 105–85, §624(b), substituted “$10,000” for “$8,000”.
+**1997**—Subsec. (a)(1). Pub. L. 105–85, §624(b), substituted "$10,000" for "$8,000".
 
-Subsec. (c). Pub. L. 105–85, §613(e), substituted “September 30, 1999” for “September 30, 1998”.
+Subsec. (c). Pub. L. 105–85, §613(e), substituted "September 30, 1999" for "September 30, 1998".
 
-**1996**—Subsec. (c). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
+**1996**—Subsec. (c). Pub. L. 104–201 substituted "September 30, 1998" for "September 30, 1997".
 
-Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996”.
+Pub. L. 104–106 substituted "September 30, 1997" for "September 30, 1996".
 
-**1994**—Subsec. (c). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
+**1994**—Subsec. (c). Pub. L. 103–337 substituted "September 30, 1996" for "September 30, 1995".
 
-**1991**—Subsec. (a)(1). Pub. L. 102–25 struck out “of this section” after “subsection (b)”.
+**1991**—Subsec. (a)(1). Pub. L. 102–25 struck out "of this section" after "subsection (b)".
 
-**1990**—Subsecs. (c), (d). Pub. L. 101–510 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The Secretary of the Navy shall submit to the Committees on Armed Services of the Senate and House of Representatives an annual report containing data to monitor the effectiveness of the bonus authorized by subsections (a) and (b) of this section.”
+**1990**—Subsecs. (c), (d). Pub. L. 101–510 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: "The Secretary of the Navy shall submit to the Committees on Armed Services of the Senate and House of Representatives an annual report containing data to monitor the effectiveness of the bonus authorized by subsections (a) and (b) of this section."
 
-**1989**—Subsec. (d). Pub. L. 101–189 substituted “September 30, 1995” for “September 30, 1990”.
+**1989**—Subsec. (d). Pub. L. 101–189 substituted "September 30, 1995" for "September 30, 1990".
 
-**1985**—Subsec. (a)(1). Pub. L. 99–145, §632(b)(1), substituted “not to exceed $8,000” for “of $3,000”, and inserted provision that upon acceptance of the agreement by the Secretary, the amounts payable upon selection for training and upon completion of training, respectively, as determined under subsection (b) of this section, shall become fixed.
+**1985**—Subsec. (a)(1). Pub. L. 99–145, §632(b)(1), substituted "not to exceed $8,000" for "of $3,000", and inserted provision that upon acceptance of the agreement by the Secretary, the amounts payable upon selection for training and upon completion of training, respectively, as determined under subsection (b) of this section, shall become fixed.
 
-Subsec. (b). Pub. L. 99–145, §632(b)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Under regulations prescribed by the Secretary of the Navy, an officer of the naval service who—
+Subsec. (b). Pub. L. 99–145, §632(b)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Under regulations prescribed by the Secretary of the Navy, an officer of the naval service who—
 
-“(1) is entitled to basic pay;
+"(1) is entitled to basic pay;
 
-“(2) has not completed five years of commissioned service; and
+"(2) has not completed five years of commissioned service; and
 
-“(3) has, as a commissioned officer, received training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants;
+"(3) has, as a commissioned officer, received training for duty in connection with the supervision, operation, and maintenance of naval nuclear propulsion plants;
 
-may, upon successful completion of that training, in addition to all other compensation to which he is entitled, be paid a bonus in an amount not to exceed $3,000.”
+may, upon successful completion of that training, in addition to all other compensation to which he is entitled, be paid a bonus in an amount not to exceed $3,000."
 
-Subsec. (c). Pub. L. 99–145, §1303(b)(4), substituted “submit to the Committees on Armed Services of the Senate and House of Representatives an annual report” for “make an annual report to the House and Senate Armed Services Committees”.
+Subsec. (c). Pub. L. 99–145, §1303(b)(4), substituted "submit to the Committees on Armed Services of the Senate and House of Representatives an annual report" for "make an annual report to the House and Senate Armed Services Committees".
 
-Subsec. (d). Pub. L. 99–145, §632(b)(3), substituted “September 30, 1990” for “September 30, 1987”.
+Subsec. (d). Pub. L. 99–145, §632(b)(3), substituted "September 30, 1990" for "September 30, 1987".
 
-**1981**—Subsec. (a)(1). Pub. L. 97–60 substituted “naval nuclear propulsion plants” for “naval nuclear submarine propulsion plants”.
+**1981**—Subsec. (a)(1). Pub. L. 97–60 substituted "naval nuclear propulsion plants" for "naval nuclear submarine propulsion plants".
 
 **1980**—Subsec. (a). Pub. L. 96–579, §2(b)(1)(B), added subsec. (a). Former subsec. (a) redesignated (b).
 
@@ -92,7 +92,7 @@ Subsec. (b). Pub. L. 96–579, §2(b)(1)(A), redesignated former subsec. (a) as 
 
 Subsec. (c). Pub. L. 96–579, §2(b)(1)(A), (2), redesignated former subsec. (b) as (c) and inserted reference to the bonus authorized by subsec. (b) of this section. Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 96–579, §2(b)(1)(A), (3), redesignated former subsec. (c) as (d) and substituted “September 30, 1987” for “September 30, 1981”.
+Subsec. (d). Pub. L. 96–579, §2(b)(1)(A), (3), redesignated former subsec. (c) as (d) and substituted "September 30, 1987" for "September 30, 1981".
 
 #### Effective Date of 2008 Amendment ####
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 110–181 effective as of Dec. 31, 2007, and subject to var
 
 #### Effective Date of 2006 Amendment ####
 
-Pub. L. 109–364, div. A, title VI, §619(b), Oct. 17, 2006, 120 Stat. 2252, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2006, and shall apply to agreements entered into or revised under section 312b of title 37, United States Code, on or after that date.”
+Pub. L. 109–364, div. A, title VI, §619(b), Oct. 17, 2006, 120 Stat. 2252, provided that: "The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2006, and shall apply to agreements entered into or revised under section 312b of title 37, United States Code, on or after that date."
 
 #### Effective Date of 1999 Amendment ####
 
@@ -116,7 +116,7 @@ Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 632(d) of Pub.
 
 #### Effective Date of 1980 Amendment ####
 
-Pub. L. 96–579, §2(d)(2), Dec. 23, 1980, 94 Stat. 3360, provided: “The amendments made by subsection (b)(1) [amending this section] shall apply only with respect to agreements executed under section 312b(a) of title 37, United States Code, executed on or after the first day of the first month following the month in which this section is enacted [December 1980].”
+Pub. L. 96–579, §2(d)(2), Dec. 23, 1980, 94 Stat. 3360, provided: "The amendments made by subsection (b)(1) [amending this section] shall apply only with respect to agreements executed under section 312b(a) of title 37, United States Code, executed on or after the first day of the first month following the month in which this section is enacted [December 1980]."
 
 #### Effective Date ####
 

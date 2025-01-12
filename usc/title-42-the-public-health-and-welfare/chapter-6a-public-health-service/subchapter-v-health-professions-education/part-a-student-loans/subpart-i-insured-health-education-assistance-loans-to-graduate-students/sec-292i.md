@@ -4,7 +4,7 @@
 
 #### (1) Establishment ####
 
-There is hereby established a student loan insurance account (in this section referred to as the “Account”) which shall be available without fiscal year limitation to the Secretary for making payments in connection with the collection and default of loans insured under this subpart by the Secretary.
+There is hereby established a student loan insurance account (in this section referred to as the "Account") which shall be available without fiscal year limitation to the Secretary for making payments in connection with the collection and default of loans insured under this subpart by the Secretary.
 
 #### (2) Funding ####
 
@@ -38,4 +38,4 @@ Another prior section 710 of act July 1, 1944, was renumbered section 709 by Pub
 
 #### Amendments ####
 
-**1998**—Subsec. (a)(2)(B). Pub. L. 105–392 substituted “fiscal year 1993 and subsequent fiscal years” for “any of the fiscal years 1993 through 1996”.
+**1998**—Subsec. (a)(2)(B). Pub. L. 105–392 substituted "fiscal year 1993 and subsequent fiscal years" for "any of the fiscal years 1993 through 1996".

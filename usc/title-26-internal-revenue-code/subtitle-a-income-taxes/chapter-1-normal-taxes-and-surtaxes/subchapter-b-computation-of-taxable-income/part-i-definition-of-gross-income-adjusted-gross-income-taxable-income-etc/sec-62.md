@@ -2,7 +2,7 @@
 
 #### (a) General rule ####
 
-For purposes of this subtitle, the term “adjusted gross income” means, in the case of an individual, gross income minus the following deductions:
+For purposes of this subtitle, the term "adjusted gross income" means, in the case of an individual, gross income minus the following deductions:
 
 #### (1) Trade and business deductions ####
 
@@ -70,7 +70,7 @@ The deduction allowed by section 165 for the repayment to a trust described in p
 
 #### (13) Jury duty pay remitted to employer ####
 
-Any deduction allowable under this chapter by reason of an individual remitting any portion of any jury pay to such individual's employer in exchange for payment by the employer of compensation for the period such individual was performing jury duty. For purposes of the preceding sentence, the term “jury pay” means any payment received by the individual for the discharge of jury duty.
+Any deduction allowable under this chapter by reason of an individual remitting any portion of any jury pay to such individual's employer in exchange for payment by the employer of compensation for the period such individual was performing jury duty. For purposes of the preceding sentence, the term "jury pay" means any payment received by the individual for the discharge of jury duty.
 
 #### (14) Deduction for clean-fuel vehicles and certain refueling property ####
 
@@ -110,7 +110,7 @@ Nothing in this section shall permit the same item to be deducted more than once
 
 #### (1) In general ####
 
-For purposes of subsection (a)(2)(B), the term “qualified performing artist” means, with respect to any taxable year, any individual if—
+For purposes of subsection (a)(2)(B), the term "qualified performing artist" means, with respect to any taxable year, any individual if—
 
 (A) such individual performed services in the performing arts as an employee during the taxable year for at least 2 employers,
 
@@ -142,7 +142,7 @@ For purposes of this subsection, marital status shall be determined under sectio
 
 #### (D) Joint return ####
 
-For purposes of this subsection, the term “joint return” means the joint return of a husband and wife made under section 6013.
+For purposes of this subsection, the term "joint return" means the joint return of a husband and wife made under section 6013.
 
 #### (c) Certain arrangements not treated as reimbursement arrangements ####
 
@@ -160,11 +160,11 @@ The substantiation requirements of the preceding sentence shall not apply to any
 
 #### (A) In general ####
 
-For purposes of subsection (a)(2)(D), the term “eligible educator” means, with respect to any taxable year, an individual who is a kindergarten through grade 12 teacher, instructor, counselor, principal, or aide in a school for at least 900 hours during a school year.
+For purposes of subsection (a)(2)(D), the term "eligible educator" means, with respect to any taxable year, an individual who is a kindergarten through grade 12 teacher, instructor, counselor, principal, or aide in a school for at least 900 hours during a school year.
 
 #### (B) School ####
 
-The term “school” means any school which provides elementary education or secondary education (kindergarten through grade 12), as determined under State law.
+The term "school" means any school which provides elementary education or secondary education (kindergarten through grade 12), as determined under State law.
 
 #### (2) Coordination with exclusions ####
 
@@ -172,7 +172,7 @@ A deduction shall be allowed under subsection (a)(2)(D) for expenses only to the
 
 #### (e) Unlawful discrimination defined ####
 
-For purposes of subsection (a)(20), the term “unlawful discrimination” means an act that is unlawful under any of the following:
+For purposes of subsection (a)(20), the term "unlawful discrimination" means an act that is unlawful under any of the following:
 
 (1) Section 302 of the Civil Rights Act of 1991 (2 U.S.C. 1202).<sup><a href="#62_2_target" name="62_2">2</a></sup>
 
@@ -232,21 +232,21 @@ The Worker Adjustment and Retraining Notification Act, referred to in subsec. (e
 
 #### Amendments ####
 
-**2013**—Subsec. (a)(2)(D). Pub. L. 112–240 substituted “2011, 2012, or 2013” for “or 2011”.
+**2013**—Subsec. (a)(2)(D). Pub. L. 112–240 substituted "2011, 2012, or 2013" for "or 2011".
 
-**2010**—Subsec. (a)(2)(D). Pub. L. 111–312 substituted “2009, 2010, or 2011” for “or 2009”.
+**2010**—Subsec. (a)(2)(D). Pub. L. 111–312 substituted "2009, 2010, or 2011" for "or 2009".
 
-**2008**—Subsec. (a)(2)(D). Pub. L. 110–343 substituted “2007, 2008, or 2009” for “or 2007”.
+**2008**—Subsec. (a)(2)(D). Pub. L. 110–343 substituted "2007, 2008, or 2009" for "or 2007".
 
-**2006**—Subsec. (a)(2)(D). Pub. L. 109–432, §108(a), substituted “2005, 2006, or 2007” for “or 2005”.
+**2006**—Subsec. (a)(2)(D). Pub. L. 109–432, §108(a), substituted "2005, 2006, or 2007" for "or 2005".
 
 Subsec. (a)(21). Pub. L. 109–432, §406(a)(3), added par. (21).
 
 **2005**—Subsec. (a)(19), (20). Pub. L. 109–135, §412(q)(1), redesignated par. (19) relating to costs involving discrimination suits, etc., as par. (20) and moved to follow par. (19) relating to health savings accounts.
 
-Subsec. (e). Pub. L. 109–135, §412(q)(2), substituted “subsection (a)(20)” for “subsection (a)(19)” in introductory provisions.
+Subsec. (e). Pub. L. 109–135, §412(q)(2), substituted "subsection (a)(20)" for "subsection (a)(19)" in introductory provisions.
 
-**2004**—Subsec. (a)(2)(D). Pub. L. 108–311 substituted “, 2003, 2004, or 2005” for “or 2003”.
+**2004**—Subsec. (a)(2)(D). Pub. L. 108–311 substituted ", 2003, 2004, or 2005" for "or 2003".
 
 Subsec. (a)(19). Pub. L. 108–357, §703(a), added par. (19) relating to costs involving discrimination suits, etc.
 
@@ -262,25 +262,25 @@ Subsec. (d). Pub. L. 107–147, §406(b), added subsec. (d).
 
 **2001**—Subsec. (a)(18). Pub. L. 107–16 added par. (18).
 
-**2000**—Subsec. (a)(16). Pub. L. 106–554 amended heading and text of par. (16) generally. Prior to amendment, text read as follows: “The deduction allowed by section 220.”
+**2000**—Subsec. (a)(16). Pub. L. 106–554 amended heading and text of par. (16) generally. Prior to amendment, text read as follows: "The deduction allowed by section 220."
 
 **1997**—Subsec. (a)(2)(C). Pub. L. 105–34, §975(a), added subpar. (C).
 
 Subsec. (a)(17). Pub. L. 105–34, §202(b), added par. (17).
 
-**1996**—Subsec. (a)(8). Pub. L. 104–188 struck out par. (8) which read as follows: “Certain portion of lump-sum distributions from pension plans taxed under section 402(d).—The deduction allowed by section 402(d)(3).”
+**1996**—Subsec. (a)(8). Pub. L. 104–188 struck out par. (8) which read as follows: "Certain portion of lump-sum distributions from pension plans taxed under section 402(d).—The deduction allowed by section 402(d)(3)."
 
 Subsec. (a)(16). Pub. L. 104–191 added par. (16).
 
 **1993**—Subsec. (a)(15). Pub. L. 103–66 added par. (15).
 
-**1992**—Subsec. (a)(8). Pub. L. 102–318 substituted “402(d)” for “402(e)” in heading and in text.
+**1992**—Subsec. (a)(8). Pub. L. 102–318 substituted "402(d)" for "402(e)" in heading and in text.
 
 Subsec. (a)(14). Pub. L. 102–486 added par. (14).
 
-**1990**—Subsec. (a)(13). Pub. L. 101–508, §11802(e)(1), amended par. (13) generally. Prior to amendment, par. (13) read as follows: “The deduction allowed by section 220.”
+**1990**—Subsec. (a)(13). Pub. L. 101–508, §11802(e)(1), amended par. (13) generally. Prior to amendment, par. (13) read as follows: "The deduction allowed by section 220."
 
-**1988**—Subsec. (a)(2)(A). Pub. L. 100–647, §1001(b)(3)(A), inserted at end “The fact that the reimbursement may be provided by a third party shall not be determinative of whether or not the preceding sentence applies.”
+**1988**—Subsec. (a)(2)(A). Pub. L. 100–647, §1001(b)(3)(A), inserted at end "The fact that the reimbursement may be provided by a third party shall not be determinative of whether or not the preceding sentence applies."
 
 Subsec. (a)(13). Pub. L. 100–647, §6007(b), added par. (13).
 
@@ -288,31 +288,31 @@ Subsec. (c). Pub. L. 100–485 added subsec. (c).
 
 **1986**—Subsec. (a). Pub. L. 99–514, §132(b)(2)(A), designated existing provisions as subsec. (a) and added heading.
 
-Subsec. (a)(2). Pub. L. 99–514, §132(b)(1), amended par. (2) generally, substituting “Certain trade” for “Trade” in heading and inserting “of employees” in subpar. (A) heading, substituting provision relating to deduction of certain expenses of performing artists for provision relating to deduction of expenses for travel away from home in subpar. (B), and striking out subpar. (C) relating to deduction of travel expenses and subpar. (D) relating to deduction of expenses of outside salesmen.
+Subsec. (a)(2). Pub. L. 99–514, §132(b)(1), amended par. (2) generally, substituting "Certain trade" for "Trade" in heading and inserting "of employees" in subpar. (A) heading, substituting provision relating to deduction of certain expenses of performing artists for provision relating to deduction of expenses for travel away from home in subpar. (B), and striking out subpar. (C) relating to deduction of travel expenses and subpar. (D) relating to deduction of expenses of outside salesmen.
 
-Subsec. (a)(3) to (5). Pub. L. 99–514, §301(b)(1), redesignated pars. (4) to (6) as (3) to (5), respectively, and struck out former par. (3) which related to long-term capital gains and read as follows: “The deduction allowed by section 1202.”
+Subsec. (a)(3) to (5). Pub. L. 99–514, §301(b)(1), redesignated pars. (4) to (6) as (3) to (5), respectively, and struck out former par. (3) which related to long-term capital gains and read as follows: "The deduction allowed by section 1202."
 
 Subsec. (a)(6). Pub. L. 99–514, §301(b)(1), redesignated par. (7) as (6). Former par. (6) redesignated (5).
 
-Pub. L. 99–514, §1875(c)(3), struck out “to the extent attributable to contributions made on behalf of such individual” after “section 404”.
+Pub. L. 99–514, §1875(c)(3), struck out "to the extent attributable to contributions made on behalf of such individual" after "section 404".
 
 Subsec. (a)(7). Pub. L. 99–514, §301(b)(1), redesignated par. (10) as (7). Former par. (7) redesignated (6).
 
 Subsec. (a)(8). Pub. L. 99–514, §301(b)(1), redesignated par. (11) as (8). Former par. (8) struck out.
 
-Pub. L. 99–514, §132(c), struck out par. (8) which related to moving expense deduction and read as follows: “The deduction allowed by section 217.”
+Pub. L. 99–514, §132(c), struck out par. (8) which related to moving expense deduction and read as follows: "The deduction allowed by section 217."
 
 Subsec. (a)(9) to (15). Pub. L. 99–514, §301(b)(1), redesignated pars. (12) to (15) as (9) to (12), respectively. Former pars. (10) and (11) redesignated (7) and (8), respectively.
 
-Subsec. (a)(16). Pub. L. 99–514, §131(b)(1), struck out par. (16) which related to deduction for two-earner married couples and read as follows: “The deduction allowed by section 221.”
+Subsec. (a)(16). Pub. L. 99–514, §131(b)(1), struck out par. (16) which related to deduction for two-earner married couples and read as follows: "The deduction allowed by section 221."
 
 Subsec. (b). Pub. L. 99–514, §132(b)(2)(B), added subsec. (b).
 
-**1984**—Par. (7). Pub. L. 98–369, §491(d)(2), substituted “and annuity” for “annuity, and bond purchase” in heading, and substituted “the deduction allowed by section 404” for “the deductions allowed by section 404 and section 405(c)” in text.
+**1984**—Par. (7). Pub. L. 98–369, §491(d)(2), substituted "and annuity" for "annuity, and bond purchase" in heading, and substituted "the deduction allowed by section 404" for "the deductions allowed by section 404 and section 405(c)" in text.
 
 **1983**—Par. (9). Pub. L. 97–354 repealed par. (9) relating to the deduction allowed by section 1379(b)(3).
 
-**1981**—Par. (10). Pub. L. 97–34, §311(h)(1), struck out “and the deduction allowed by section 220 (relating to retirement savings for certain married individuals)” after “retirement savings”.
+**1981**—Par. (10). Pub. L. 97–34, §311(h)(1), struck out "and the deduction allowed by section 220 (relating to retirement savings for certain married individuals)" after "retirement savings".
 
 Par. (14). Pub. L. 97–34, §112(b)(2), redesignated par. (15) as (14). Former par. (14), relating to deduction for certain expenses of living abroad, was struck out.
 
@@ -328,7 +328,7 @@ Par. (16). Pub. L. 96–608 added par. (16).
 
 **1976**—Par. (10). Pub. L. 94–455, §1501(b)(1), inserted reference to the deduction allowed by section 220 (relating to retirement savings for certain married individuals).
 
-Pars. (11), (12). Pub. L. 94–455, §1901(a)(8), (9), redesignated par. (11) relating to penalties forfeited because of premature withdrawal of funds from time savings accounts or deposits, as par. (12), and substituted “trade or business, to the extent” for “trade or business to the extent”.
+Pars. (11), (12). Pub. L. 94–455, §1901(a)(8), (9), redesignated par. (11) relating to penalties forfeited because of premature withdrawal of funds from time savings accounts or deposits, as par. (12), and substituted "trade or business, to the extent" for "trade or business to the extent".
 
 Par. (13). Pub. L. 94–455, §502(a), added par. (13).
 
@@ -344,61 +344,61 @@ Par. (11). Pub. L. 93–483 added par. (11) relating to penalties forfeited beca
 
 #### Effective Date of 2013 Amendment ####
 
-Pub. L. 112–240, title II, §201(b), Jan. 2, 2013, 126 Stat. 2323, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2011.”
+Pub. L. 112–240, title II, §201(b), Jan. 2, 2013, 126 Stat. 2323, provided that: "The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2011."
 
 #### Effective Date of 2010 Amendment ####
 
-Pub. L. 111–312, title VII, §721(b), Dec. 17, 2010, 124 Stat. 3316, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2009.”
+Pub. L. 111–312, title VII, §721(b), Dec. 17, 2010, 124 Stat. 3316, provided that: "The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2009."
 
 #### Effective Date of 2008 Amendment ####
 
-Pub. L. 110–343, div. C, title II, §203(b), Oct. 3, 2008, 122 Stat. 3864, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2007.”
+Pub. L. 110–343, div. C, title II, §203(b), Oct. 3, 2008, 122 Stat. 3864, provided that: "The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2007."
 
 #### Effective Date of 2006 Amendment ####
 
-Pub. L. 109–432, div. A, title I, §108(b), Dec. 20, 2006, 120 Stat. 2939, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2005.”
+Pub. L. 109–432, div. A, title I, §108(b), Dec. 20, 2006, 120 Stat. 2939, provided that: "The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2005."
 
-Pub. L. 109–432, div. A, title IV, §406(d), Dec. 20, 2006, 120 Stat. 2960, provided that: “The amendments made by subsection (a) [amending this section and sections 7443A and 7623 of this title] shall apply to information provided on or after the date of the enactment of this Act [Dec. 20, 2006].”
+Pub. L. 109–432, div. A, title IV, §406(d), Dec. 20, 2006, 120 Stat. 2960, provided that: "The amendments made by subsection (a) [amending this section and sections 7443A and 7623 of this title] shall apply to information provided on or after the date of the enactment of this Act [Dec. 20, 2006]."
 
 #### Effective Date of 2004 Amendment ####
 
-Pub. L. 108–357, title VII, §703(c), Oct. 22, 2004, 118 Stat. 1548, provided that: “The amendments made by this section [amending this section] shall apply to fees and costs paid after the date of the enactment of this Act [Oct. 22, 2004] with respect to any judgment or settlement occurring after such date.”
+Pub. L. 108–357, title VII, §703(c), Oct. 22, 2004, 118 Stat. 1548, provided that: "The amendments made by this section [amending this section] shall apply to fees and costs paid after the date of the enactment of this Act [Oct. 22, 2004] with respect to any judgment or settlement occurring after such date."
 
-Pub. L. 108–311, title III, §307(b), Oct. 4, 2004, 118 Stat. 1179, provided that: “The amendment made by subsection (a) [amending this section] shall apply to expenses paid or incurred in taxable years beginning after December 31, 2003.”
+Pub. L. 108–311, title III, §307(b), Oct. 4, 2004, 118 Stat. 1179, provided that: "The amendment made by subsection (a) [amending this section] shall apply to expenses paid or incurred in taxable years beginning after December 31, 2003."
 
 #### Effective Date of 2003 Amendment ####
 
-Pub. L. 108–173, title XII, §1201(k), Dec. 8, 2003, 117 Stat. 2479, provided that: “The amendments made by this section [enacting sections 223 and 4980G of this title, amending this section and sections 106, 125, 220, 848, 3231, 3306, 3401, 4973, 4975, 6051, and 6693 of this title, and renumbering former section 223 of this title as 224] shall apply to taxable years beginning after December 31, 2003.”
+Pub. L. 108–173, title XII, §1201(k), Dec. 8, 2003, 117 Stat. 2479, provided that: "The amendments made by this section [enacting sections 223 and 4980G of this title, amending this section and sections 106, 125, 220, 848, 3231, 3306, 3401, 4973, 4975, 6051, and 6693 of this title, and renumbering former section 223 of this title as 224] shall apply to taxable years beginning after December 31, 2003."
 
-Pub. L. 108–121, title I, §109(c), Nov. 11, 2003, 117 Stat. 1342, provided that: “The amendments made by this section [amending this section and section 162 of this title] shall apply to amounts paid or incurred in taxable years beginning after December 31, 2002.”
+Pub. L. 108–121, title I, §109(c), Nov. 11, 2003, 117 Stat. 1342, provided that: "The amendments made by this section [amending this section and section 162 of this title] shall apply to amounts paid or incurred in taxable years beginning after December 31, 2002."
 
 #### Effective Date of 2002 Amendment ####
 
-Pub. L. 107–147, title IV, §406(c), Mar. 9, 2002, 116 Stat. 44, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2001.”
+Pub. L. 107–147, title IV, §406(c), Mar. 9, 2002, 116 Stat. 44, provided that: "The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2001."
 
 #### Effective Date of 2001 Amendment ####
 
-Pub. L. 107–16, title IV, §431(d), June 7, 2001, 115 Stat. 69, provided that: “The amendments made by this section [enacting section 222 of this title, amending this section and sections 86, 135, 137, 219, 221, and 469 of this title, and renumbering former section 222 of this title as 223] shall apply to payments made in taxable years beginning after December 31, 2001.”
+Pub. L. 107–16, title IV, §431(d), June 7, 2001, 115 Stat. 69, provided that: "The amendments made by this section [enacting section 222 of this title, amending this section and sections 86, 135, 137, 219, 221, and 469 of this title, and renumbering former section 222 of this title as 223] shall apply to payments made in taxable years beginning after December 31, 2001."
 
 #### Effective Date of 1997 Amendment ####
 
-Pub. L. 105–34, title II, §202(e), Aug. 5, 1997, 111 Stat. 809, provided that: “The amendments made by this section [enacting section 221 of this title, amending this section and section 6050S of this title, and renumbering former section 221 of this title as section 222 of this title] shall apply to any qualified education loan (as defined in section 221(e)(1) of the Internal Revenue Code of 1986, as added by this section) incurred on, before, or after the date of the enactment of this Act [Aug. 5, 1997], but only with respect to—
+Pub. L. 105–34, title II, §202(e), Aug. 5, 1997, 111 Stat. 809, provided that: "The amendments made by this section [enacting section 221 of this title, amending this section and section 6050S of this title, and renumbering former section 221 of this title as section 222 of this title] shall apply to any qualified education loan (as defined in section 221(e)(1) of the Internal Revenue Code of 1986, as added by this section) incurred on, before, or after the date of the enactment of this Act [Aug. 5, 1997], but only with respect to—
 
-“(1) any loan interest payment due and paid after December 31, 1997, and
+"(1) any loan interest payment due and paid after December 31, 1997, and
 
-“(2) the portion of the 60-month period referred to in section 221(d) of the Internal Revenue Code of 1986 (as added by this section) after December 31, 1997.”
+"(2) the portion of the 60-month period referred to in section 221(d) of the Internal Revenue Code of 1986 (as added by this section) after December 31, 1997."
 
-Pub. L. 105–34, title IX, §975(b), Aug. 5, 1997, 111 Stat. 898, provided that: “The amendment made by this section [amending this section] shall apply to expenses paid or incurred in taxable years beginning after December 31, 1986.”
+Pub. L. 105–34, title IX, §975(b), Aug. 5, 1997, 111 Stat. 898, provided that: "The amendment made by this section [amending this section] shall apply to expenses paid or incurred in taxable years beginning after December 31, 1986."
 
 #### Effective Date of 1996 Amendment ####
 
-Pub. L. 104–191, title III, §301(j), Aug. 21, 1996, 110 Stat. 2052, provided that: “The amendments made by this section [enacting sections 220 and 4980E of this title, amending this section and sections 106, 125, 848, 3231, 3306, 3401, 4973, 4975, 6051, and 6693 of this title, and renumbering section 220 of this title as section 221] shall apply to taxable years beginning after December 31, 1996.”
+Pub. L. 104–191, title III, §301(j), Aug. 21, 1996, 110 Stat. 2052, provided that: "The amendments made by this section [enacting sections 220 and 4980E of this title, amending this section and sections 106, 125, 848, 3231, 3306, 3401, 4973, 4975, 6051, and 6693 of this title, and renumbering section 220 of this title as section 221] shall apply to taxable years beginning after December 31, 1996."
 
 Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, see section 1401(c) of Pub. L. 104–188, set out as a note under section 402 of this title.
 
 #### Effective Date of 1993 Amendment ####
 
-Pub. L. 103–66, title XIII, §13213(e), Aug. 10, 1993, 107 Stat. 475, provided that: “The amendments made by this section [amending this section and sections 67, 82, 132, 217, 1001, 1016, and 4977 of this title] shall apply to expenses incurred after December 31, 1993; except that the amendments made by subsection (d) [amending sections 82, 132, and 4977 of this title] shall apply to reimbursements or other payments in respect of expenses incurred after such date.”
+Pub. L. 103–66, title XIII, §13213(e), Aug. 10, 1993, 107 Stat. 475, provided that: "The amendments made by this section [amending this section and sections 67, 82, 132, 217, 1001, 1016, and 4977 of this title] shall apply to expenses incurred after December 31, 1993; except that the amendments made by subsection (d) [amending sections 82, 132, and 4977 of this title] shall apply to reimbursements or other payments in respect of expenses incurred after such date."
 
 #### Effective Date of 1992 Amendment ####
 
@@ -410,21 +410,21 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 Amendment by section 1001(b)(3)(A) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title VI, §6007(d), Nov. 10, 1988, 102 Stat. 3687, provided that: “The amendments made by this section [enacting section 220 of this title, amending this section, and renumbering former section 220 of this title as section 221 of this title] shall apply as if included in the amendments made by section 132 of the Tax Reform Act of 1986 [Pub. L. 99–514].”
+Pub. L. 100–647, title VI, §6007(d), Nov. 10, 1988, 102 Stat. 3687, provided that: "The amendments made by this section [enacting section 220 of this title, amending this section, and renumbering former section 220 of this title as section 221 of this title] shall apply as if included in the amendments made by section 132 of the Tax Reform Act of 1986 [Pub. L. 99–514]."
 
-Pub. L. 100–485, title VII, §702(b), Oct. 13, 1988, 102 Stat. 2426, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1988.”
+Pub. L. 100–485, title VII, §702(b), Oct. 13, 1988, 102 Stat. 2426, provided that: "The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1988."
 
 #### Effective Date of 1986 Amendment ####
 
 Amendment by sections 131(b)(1) and 132(b), (c) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
-Pub. L. 99–514, title III, §301(c), Oct. 22, 1986, 100 Stat. 2218, provided that: “The amendments made by this section [amending this section and sections 170, 172, 219, 220, 223, 642, 643, 691, 871, 1211, 1212, and 1402 of this title and repealing section 1202 of this title] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title III, §301(c), Oct. 22, 1986, 100 Stat. 2218, provided that: "The amendments made by this section [amending this section and sections 170, 172, 219, 220, 223, 642, 643, 691, 871, 1211, 1212, and 1402 of this title and repealing section 1202 of this title] shall apply to taxable years beginning after December 31, 1986."
 
-Pub. L. 99–514, title XVIII, §1875(c)(12), Oct. 22, 1986, 100 Stat. 2895, provided that: “The amendments made by paragraphs (3), (4), and (6) [amending this section and sections 219 and 408 of this title] shall take effect as if included in the amendments made by section 238 of the Tax Equity and Fiscal Responsibility Act of 1982 [section 238 of Pub. L. 97–248, see section 241 of Pub. L. 97–248, set out as an Effective Date note under section 416 of this title].”
+Pub. L. 99–514, title XVIII, §1875(c)(12), Oct. 22, 1986, 100 Stat. 2895, provided that: "The amendments made by paragraphs (3), (4), and (6) [amending this section and sections 219 and 408 of this title] shall take effect as if included in the amendments made by section 238 of the Tax Equity and Fiscal Responsibility Act of 1982 [section 238 of Pub. L. 97–248, see section 241 of Pub. L. 97–248, set out as an Effective Date note under section 416 of this title]."
 
 #### Effective Date of 1984 Amendment ####
 
-Pub. L. 98–369, div. A, title IV, §491(f)(1), July 18, 1984, 98 Stat. 853, provided that: “The amendments and repeals made by subsections (a), (b), and (d) [amending this section, sections 55, 72, 172, 219, 402, 403, 406, 407, 408, 412, 414, 415, 457, 2039, 2517, 3121, 3306, 3401, 4972, 4973, 4975, 6047, 6058, 6104, 6652, 7207, 7476, and 7701 of this title, section 3107 of Title 31, Money and Finance, and section 409 of Title 42, The Public Health and Welfare, and repealing sections 405 and 409 of this title] shall apply to obligations issued after December 31, 1983.”
+Pub. L. 98–369, div. A, title IV, §491(f)(1), July 18, 1984, 98 Stat. 853, provided that: "The amendments and repeals made by subsections (a), (b), and (d) [amending this section, sections 55, 72, 172, 219, 402, 403, 406, 407, 408, 412, 414, 415, 457, 2039, 2517, 3121, 3306, 3401, 4972, 4973, 4975, 6047, 6058, 6104, 6652, 7207, 7476, and 7701 of this title, section 3107 of Title 31, Money and Finance, and section 409 of Title 42, The Public Health and Welfare, and repealing sections 405 and 409 of this title] shall apply to obligations issued after December 31, 1983."
 
 #### Effective Date of 1983 Amendment ####
 
@@ -432,13 +432,13 @@ Par. (9) as in effect before date of repeal by Pub. L. 97–354 to remain in eff
 
 #### Effective Date of 1981 Amendment ####
 
-Pub. L. 97–34, title I, §103(d), Aug. 13, 1981, 95 Stat. 188, provided that: “The amendments made by this section [enacting section 219 of this title and amending this section and sections 85 and 105 of this title] shall apply to taxable years beginning after December 31, 1981.”
+Pub. L. 97–34, title I, §103(d), Aug. 13, 1981, 95 Stat. 188, provided that: "The amendments made by this section [enacting section 219 of this title and amending this section and sections 85 and 105 of this title] shall apply to taxable years beginning after December 31, 1981."
 
 Amendment by sections 112(b)(2) and 311(h)(1) of Pub. L. 97–34 applicable to taxable years beginning after Dec. 31, 1981, see sections 115 and 311(i)(1) of Pub. L. 97–34, set out as notes under sections 911 and 219, respectively, of this title.
 
 #### Effective Date of 1980 Amendment ####
 
-Pub. L. 96–608, §3(b), Dec. 28, 1980, 94 Stat. 3551, provided that: “The amendment made by subsection (a) [amending this section] shall apply to repayments made in taxable years beginning after the date of the enactment of this Act [Dec. 28, 1980].”
+Pub. L. 96–608, §3(b), Dec. 28, 1980, 94 Stat. 3551, provided that: "The amendment made by subsection (a) [amending this section] shall apply to repayments made in taxable years beginning after the date of the enactment of this Act [Dec. 28, 1980]."
 
 Amendment by Pub. L. 96–451 applicable with respect to additions to capital account made after Dec. 31, 1979, see section 301(d) of Pub. L. 96–451, set out as an Effective Date note under section 194 of this title.
 
@@ -448,15 +448,15 @@ Amendment by Pub. L. 95–615 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1976 Amendment ####
 
-Pub. L. 94–455, title V, §502(c), Oct. 4, 1976, 90 Stat. 1559, provided that: “The amendments made by this section [amending this section and section 3402 of this title] shall apply to taxable years beginning after December 31, 1976.”
+Pub. L. 94–455, title V, §502(c), Oct. 4, 1976, 90 Stat. 1559, provided that: "The amendments made by this section [amending this section and section 3402 of this title] shall apply to taxable years beginning after December 31, 1976."
 
-Pub. L. 94–455, title XV, §1501(d), Oct. 4, 1976, 90 Stat. 1737, provided that: “The amendments made by this section [enacting section 220 of this title, amending this section and sections 219, 408, 409, 3401, 4973, and 6047 of this title, and renumbering former section 220 as 221 of this title], other than the amendment made by subsection (b)(3), shall apply to taxable years beginning after December 31, 1976. The amendment made by subsection (b)(3) [amending section 415 of this title] shall apply to years beginning after December 31, 1976.”
+Pub. L. 94–455, title XV, §1501(d), Oct. 4, 1976, 90 Stat. 1737, provided that: "The amendments made by this section [enacting section 220 of this title, amending this section and sections 219, 408, 409, 3401, 4973, and 6047 of this title, and renumbering former section 220 as 221 of this title], other than the amendment made by subsection (b)(3), shall apply to taxable years beginning after December 31, 1976. The amendment made by subsection (b)(3) [amending section 415 of this title] shall apply to years beginning after December 31, 1976."
 
 Amendment by section 1901(a)(8), (9) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Effective Date of 1974 Amendment ####
 
-Pub. L. 93–483, §6(b), Oct. 26, 1974, 88 Stat. 1459, provided that: “The amendment made by this section [amending this section] applies to taxable years beginning after December 31, 1972.”
+Pub. L. 93–483, §6(b), Oct. 26, 1974, 88 Stat. 1459, provided that: "The amendment made by this section [amending this section] applies to taxable years beginning after December 31, 1972."
 
 Amendment by section 2002(a)(2) of Pub. L. 93–406 applicable to taxable years beginning after Dec. 31, 1974, see section 2002(i)(1) of Pub. L. 93–406, set out as an Effective Date note under section 219 of this title.
 
@@ -468,7 +468,7 @@ Amendment by Pub. L. 91–172 applicable with respect to taxable years of electi
 
 #### Effective Date of 1964 Amendment ####
 
-Pub. L. 88–272, title II, §213(d), Feb. 26, 1964, 78 Stat. 52, provided that: “The amendments made by subsections (a) [enacting section 217 and redesignating former section 217 as 218] and (b) [amending this section] shall apply to expenses incurred after December 31, 1963, in taxable years ending after such date. The amendment made by subsection (c) [amending section 3401 of this title] shall apply with respect to remuneration paid after the seventh day following the date of the enactment of this Act [Feb. 26, 1964].”
+Pub. L. 88–272, title II, §213(d), Feb. 26, 1964, 78 Stat. 52, provided that: "The amendments made by subsections (a) [enacting section 217 and redesignating former section 217 as 218] and (b) [amending this section] shall apply to expenses incurred after December 31, 1963, in taxable years ending after such date. The amendment made by subsection (c) [amending section 3401 of this title] shall apply with respect to remuneration paid after the seventh day following the date of the enactment of this Act [Feb. 26, 1964]."
 
 #### Effective Date of 1962 Amendment ####
 

@@ -20,7 +20,7 @@ For provisions requiring Bureaus of Labor Statistics and the Census to include c
 
 #### Consumer Price Index for Older Americans ####
 
-Pub. L. 100–175, title I, §191, Nov. 29, 1987, 101 Stat. 967, provided that: “The Secretary of Labor shall, through the Bureau of Labor Statistics, develop, from existing data sources, a reweighted index of consumer prices which reflects the expenditures for consumption by Americans 62 years of age and older. The Secretary shall furnish to the Congress the index within 180 days after the date of enactment of this Act [Nov. 29, 1987]. The Secretary shall include with the index furnished a report which explains the characteristics of the reweighted index, the research necessary to develop and measure accurately the rate of inflation affecting such Americans, and provides estimates of time and cost required for additional activities necessary to carry out the objectives of this section.”
+Pub. L. 100–175, title I, §191, Nov. 29, 1987, 101 Stat. 967, provided that: "The Secretary of Labor shall, through the Bureau of Labor Statistics, develop, from existing data sources, a reweighted index of consumer prices which reflects the expenditures for consumption by Americans 62 years of age and older. The Secretary shall furnish to the Congress the index within 180 days after the date of enactment of this Act [Nov. 29, 1987]. The Secretary shall include with the index furnished a report which explains the characteristics of the reweighted index, the research necessary to develop and measure accurately the rate of inflation affecting such Americans, and provides estimates of time and cost required for additional activities necessary to carry out the objectives of this section."
 
 #### Prison Statistics Report ####
 

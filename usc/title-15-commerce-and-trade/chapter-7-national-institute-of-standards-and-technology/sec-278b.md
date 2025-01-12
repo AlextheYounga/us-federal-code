@@ -16,9 +16,9 @@ In the performance of authorized activities, the Working Capital Fund shall be a
 
 The fund may be credited with advances and reimbursements, including receipts from non-Federal sources, for services performed under the authority of section 273 of this title.
 
-#### (e) “Cost” defined ####
+#### (e) "Cost" defined ####
 
-As used in this chapter, the term “cost” shall be construed to include directly related expenses and appropriate charges for indirect and administrative expenses.
+As used in this chapter, the term "cost" shall be construed to include directly related expenses and appropriate charges for indirect and administrative expenses.
 
 #### (f) Distribution of earnings; restoration of prior impairment ####
 
@@ -36,11 +36,11 @@ A prior section 12 of act Mar. 3, 1901, ch. 872, as added by act July 22, 1950, 
 
 #### Amendments ####
 
-**1988**—Subsec. (a). Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards”.
+**1988**—Subsec. (a). Pub. L. 100–418 substituted "Institute" for "National Bureau of Standards".
 
-**1985**—Subsec. (f). Pub. L. 99–73 struck out “first” after “may be applied”, and inserted provisions relating to working capital for replacement of equipment and inventories.
+**1985**—Subsec. (f). Pub. L. 99–73 struck out "first" after "may be applied", and inserted provisions relating to working capital for replacement of equipment and inventories.
 
-**1978**—Subsec. (a). Pub. L. 95–322 struck out “, and additional amounts as from time to time may be required for the purposes of said fund are authorized to be appropriated” after “(64 Stat. 275)”.
+**1978**—Subsec. (a). Pub. L. 95–322 struck out ", and additional amounts as from time to time may be required for the purposes of said fund are authorized to be appropriated" after "(64 Stat. 275)".
 
 #### Effective Date of 1985 Amendment ####
 

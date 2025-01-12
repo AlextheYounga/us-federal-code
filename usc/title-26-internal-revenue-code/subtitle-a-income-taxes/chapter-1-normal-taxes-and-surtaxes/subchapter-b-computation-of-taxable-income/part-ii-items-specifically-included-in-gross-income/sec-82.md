@@ -6,7 +6,7 @@ Except as provided in section 132(a)(6), there shall be included in gross income
 
 #### Amendments ####
 
-**1993**—Pub. L. 103–66 substituted “Except as provided in section 132(a)(6), there shall” for “There shall”.
+**1993**—Pub. L. 103–66 substituted "Except as provided in section 132(a)(6), there shall" for "There shall".
 
 #### Effective Date of 1993 Amendment ####
 

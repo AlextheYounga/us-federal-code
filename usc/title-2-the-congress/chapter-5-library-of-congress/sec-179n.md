@@ -82,22 +82,22 @@ The Librarian shall establish rules and procedures to address any potential conf
 
 #### Amendments ####
 
-**2008**—Subsec. (a)(1)(E). Pub. L. 110–336, §3(a)(3)(A), substituted “Cinema and Media” for “Cinema”.
+**2008**—Subsec. (a)(1)(E). Pub. L. 110–336, §3(a)(3)(A), substituted "Cinema and Media" for "Cinema".
 
-Subsec. (a)(1)(G). Pub. L. 110–336, §3(a)(3)(B), substituted “Department of Film, Television, and Digital Media” for “Department of Film and Television”.
+Subsec. (a)(1)(G). Pub. L. 110–336, §3(a)(3)(B), substituted "Department of Film, Television, and Digital Media" for "Department of Film and Television".
 
-Subsec. (a)(1)(H). Pub. L. 110–336, §3(a)(3)(C), substituted “Cinema Studies” for “Film and Television”.
+Subsec. (a)(1)(H). Pub. L. 110–336, §3(a)(3)(C), substituted "Cinema Studies" for "Film and Television".
 
-Subsec. (a)(1)(L). Pub. L. 110–336, §3(a)(3)(D), amended subpar. (L) generally. Prior to amendment, subpar. (L) read as follows: “The Screen Actors Guild of America.”
+Subsec. (a)(1)(L). Pub. L. 110–336, §3(a)(3)(D), amended subpar. (L) generally. Prior to amendment, subpar. (L) read as follows: "The Screen Actors Guild of America."
 
-**2005**—Subsec. (a)(1). Pub. L. 109–9, §302(b)(1), substituted “22” for “20” in introductory provisions.
+**2005**—Subsec. (a)(1). Pub. L. 109–9, §302(b)(1), substituted "22" for "20" in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 109–9, §302(b)(2), substituted “5” for “three”.
+Subsec. (a)(2). Pub. L. 109–9, §302(b)(2), substituted "5" for "three".
 
-Subsec. (d). Pub. L. 109–9, §302(b)(3), substituted “12” for “11”.
+Subsec. (d). Pub. L. 109–9, §302(b)(3), substituted "12" for "11".
 
-Subsec. (e). Pub. L. 109–9, §302(b)(4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Board.”
+Subsec. (e). Pub. L. 109–9, §302(b)(4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: "Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Board."
 
-[<sup>1</sup> So in original. Probably should be “paragraph”.](#179n_1)
+[<sup>1</sup> So in original. Probably should be "paragraph".](#179n_1)
 
 [<sup>2</sup> So in original. Probably should be followed by a hyphen.](#179n_2)

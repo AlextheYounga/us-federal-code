@@ -6,4 +6,4 @@ There are hereby authorized to be appropriated not more than $146,000 for the ac
 
 #### Amendments ####
 
-**1980**—Pub. L. 96–607 substituted “$146,000 for the acquisition of lands and interests in land and not more than $1,862,000” for “$700,000 for the acquisition of lands and interests in land and”.
+**1980**—Pub. L. 96–607 substituted "$146,000 for the acquisition of lands and interests in land and not more than $1,862,000" for "$700,000 for the acquisition of lands and interests in land and".

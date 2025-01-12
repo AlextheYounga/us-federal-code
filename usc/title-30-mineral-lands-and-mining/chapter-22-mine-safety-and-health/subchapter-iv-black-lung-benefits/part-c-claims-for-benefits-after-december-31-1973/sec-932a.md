@@ -1,6 +1,6 @@
 ### §932a. Appointment of qualified individuals to hear and determine claims for benefits ###
 
-Qualified individuals appointed by the Secretary of Labor may hear and determine claims for benefits under part B or part C of title IV of the Federal Coal Mine Health and Safety Act of 1969 <sup><a href="#932a_1_target" name="932a_1">1</a></sup> [30 U.S.C. 921 et seq., 931 et seq.] and under section 415 of such Act [30 U.S.C. 925]. For purposes of this section, the term “qualified individual” means such an individual, regardless of whether that individual is a hearing examiner appointed under section 3105 of title 5. Nothing in this section shall be deemed to imply that there is or is not in effect any authority for such individuals to hear and determine such claims under any provision of law other than this section.
+Qualified individuals appointed by the Secretary of Labor may hear and determine claims for benefits under part B or part C of title IV of the Federal Coal Mine Health and Safety Act of 1969 <sup><a href="#932a_1_target" name="932a_1">1</a></sup> [30 U.S.C. 921 et seq., 931 et seq.] and under section 415 of such Act [30 U.S.C. 925]. For purposes of this section, the term "qualified individual" means such an individual, regardless of whether that individual is a hearing examiner appointed under section 3105 of title 5. Nothing in this section shall be deemed to imply that there is or is not in effect any authority for such individuals to hear and determine such claims under any provision of law other than this section.
 
 (Pub. L. 94–504, Oct. 15, 1976, 90 Stat. 2428; Pub. L. 107–275, §2(b)(5), Nov. 2, 2002, 116 Stat. 1926.)
 
@@ -14,7 +14,7 @@ Section was not enacted as part of the Federal Mine Safety and Health Act of 197
 
 #### Amendments ####
 
-**2002**—Pub. L. 107–275 substituted “under part B or part C” for “under part C”.
+**2002**—Pub. L. 107–275 substituted "under part B or part C" for "under part C".
 
 #### Effective Date of 2002 Amendment ####
 

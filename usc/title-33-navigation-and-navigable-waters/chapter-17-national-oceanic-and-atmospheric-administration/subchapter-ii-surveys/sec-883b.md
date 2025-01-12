@@ -14,11 +14,11 @@ In order that full public benefit may be derived from the operations of the Nati
 
 #### Amendments ####
 
-**2000**—Par. (3). Pub. L. 106–181, §605(a)(1), (2), redesignated par. (4) as (3), substituted “charts;” for “charts of the United States, its Territories, and possessions;” and struck out former par. (3) which read as follows: “Compilation and printing of aeronautical charts of the United States, its Territories, and possessions; and, in addition, the compilation and printing of such aeronautical charts covering international airways as are required primarily by United States Civil aviation;”.
+**2000**—Par. (3). Pub. L. 106–181, §605(a)(1), (2), redesignated par. (4) as (3), substituted "charts;" for "charts of the United States, its Territories, and possessions;" and struck out former par. (3) which read as follows: "Compilation and printing of aeronautical charts of the United States, its Territories, and possessions; and, in addition, the compilation and printing of such aeronautical charts covering international airways as are required primarily by United States Civil aviation;".
 
-Par. (4). Pub. L. 106–181, §605(a)(1), (3), redesignated par. (6) as (4) and substituted “publications” for “publications for the United States, its Territories, and possessions”. Former par. (4) redesignated (3).
+Par. (4). Pub. L. 106–181, §605(a)(1), (3), redesignated par. (6) as (4) and substituted "publications" for "publications for the United States, its Territories, and possessions". Former par. (4) redesignated (3).
 
-Par. (5). Pub. L. 106–181, §605(a)(1), struck out par. (5) which read as follows: “Distribution of aeronautical charts and related navigational publications required by United States civil aviation;”.
+Par. (5). Pub. L. 106–181, §605(a)(1), struck out par. (5) which read as follows: "Distribution of aeronautical charts and related navigational publications required by United States civil aviation;".
 
 Par. (6). Pub. L. 106–181, §605(a)(1), redesignated par. (6) as (4).
 

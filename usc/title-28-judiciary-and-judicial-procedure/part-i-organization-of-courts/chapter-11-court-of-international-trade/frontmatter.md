@@ -20,13 +20,13 @@ Sec.
 
 #### Historical and Revision Notes ####
 
-The “Board of General Appraisers” was designated “United States Customs Court” by act May 28, 1926, ch. 411, §1, 44 Stat. 669. General provisions concerning such court were incorporated in section 1518 of title 19, U.S.C., 1940 ed., Customs Duties, until amended by act October 10, 1940, ch. 843, §1, 54 Stat. 1101, adding a new section to the Judicial Code of 1911, when they were transferred to section 296 of title 28, U.S.C., 1940 ed. They are retained in title 28 by this revision.
+The "Board of General Appraisers" was designated "United States Customs Court" by act May 28, 1926, ch. 411, §1, 44 Stat. 669. General provisions concerning such court were incorporated in section 1518 of title 19, U.S.C., 1940 ed., Customs Duties, until amended by act October 10, 1940, ch. 843, §1, 54 Stat. 1101, adding a new section to the Judicial Code of 1911, when they were transferred to section 296 of title 28, U.S.C., 1940 ed. They are retained in title 28 by this revision.
 
-In this connection former Congressman Walter Chandler said, “Among the major subjects needing study and revision are special courts, such as the Customs Court, which should be fitted into the judicial system.” (See U.S. Law Weekly, Nov. 7, 1939.)
+In this connection former Congressman Walter Chandler said, "Among the major subjects needing study and revision are special courts, such as the Customs Court, which should be fitted into the judicial system." (See U.S. Law Weekly, Nov. 7, 1939.)
 
 #### History of Court ####
 
-The United States Customs Court [now Court of International Trade] as “constituted on June 17, 1930”, consisted of nine members as provided by act Sept. 21, 1922, ch. 356, title IV, §518, 42 Stat. 972, which established the Board of General Appraisers, designated the “United States Customs Court” by act May 28, 1926, ch. 411, §1, 44 Stat. 669.
+The United States Customs Court [now Court of International Trade] as "constituted on June 17, 1930", consisted of nine members as provided by act Sept. 21, 1922, ch. 356, title IV, §518, 42 Stat. 972, which established the Board of General Appraisers, designated the "United States Customs Court" by act May 28, 1926, ch. 411, §1, 44 Stat. 669.
 
 Provisions similar to these were contained in act Sept. 21, 1922, ch. 356, title IV, §518, 42 Stat. 972. That section was superseded by section 518 of the Tariff Act of 1930, and was repealed by section 651 (a)(1) of said 1930 act.
 
@@ -46,8 +46,8 @@ R.S. §2727 fixed the salary of the four general appraisers at the sum of $2,500
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–317, title V, §501(b)(3), Oct. 19, 1996, 110 Stat. 3856, substituted “Duties of chief judge” for “Duties of chief judge; precedence of judges” in item 253 and added item 258.
+**1996**—Pub. L. 104–317, title V, §501(b)(3), Oct. 19, 1996, 110 Stat. 3856, substituted "Duties of chief judge" for "Duties of chief judge; precedence of judges" in item 253 and added item 258.
 
-**1980**—Pub. L. 96–417, title V, §501(2), Oct. 10, 1980, 94 Stat. 1742, substituted “COURT OF INTERNATIONAL TRADE” for “CUSTOMS COURT” in chapter heading.
+**1980**—Pub. L. 96–417, title V, §501(2), Oct. 10, 1980, 94 Stat. 1742, substituted "COURT OF INTERNATIONAL TRADE" for "CUSTOMS COURT" in chapter heading.
 
-**1970**—Pub. L. 91–271, title I, §123(a), June 2, 1970, 84 Stat. 282, substituted “Single-judge trial” for “Divisions; powers and assignments” in item 254 and “Three-judge trials” for “Publication of decisions” in item 255 and added items 256 and 257.
+**1970**—Pub. L. 91–271, title I, §123(a), June 2, 1970, 84 Stat. 282, substituted "Single-judge trial" for "Divisions; powers and assignments" in item 254 and "Three-judge trials" for "Publication of decisions" in item 255 and added items 256 and 257.

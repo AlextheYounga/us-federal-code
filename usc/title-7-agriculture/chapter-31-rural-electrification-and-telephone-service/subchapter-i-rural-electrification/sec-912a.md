@@ -10,7 +10,7 @@ Section was enacted as part of the Disaster Relief Act of 1970, and not as part 
 
 #### Amendments ####
 
-**1994**—Pub. L. 103–354 substituted “Secretary under this chapter” for “Rural Electrification Administration”.
+**1994**—Pub. L. 103–354 substituted "Secretary under this chapter" for "Rural Electrification Administration".
 
 #### Effective Date ####
 

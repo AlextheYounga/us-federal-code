@@ -26,11 +26,11 @@ For purposes of this section—
 
 #### (1) Certificate credit rate ####
 
-The term “certificate credit rate” means the rate of the credit allowable by this section which is specified in the mortgage credit certificate.
+The term "certificate credit rate" means the rate of the credit allowable by this section which is specified in the mortgage credit certificate.
 
 #### (2) Certified indebtedness amount ####
 
-The term “certified indebtedness amount” means the amount of indebtedness which is—
+The term "certified indebtedness amount" means the amount of indebtedness which is—
 
 (A) incurred by the taxpayer—
 
@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (1) Mortgage credit certificate ####
 
-The term “mortgage credit certificate” means any certificate which—
+The term "mortgage credit certificate" means any certificate which—
 
 (A) is issued under a qualified mortgage credit certificate program by the State or political subdivision having the authority to issue a qualified mortgage bond to provide financing on the principal residence of the taxpayer,
 
@@ -66,7 +66,7 @@ The term “mortgage credit certificate” means any certificate which—
 
 #### (A) In general ####
 
-The term “qualified mortgage credit certificate program” means any program—
+The term "qualified mortgage credit certificate program" means any program—
 
 (i) which is established by a State or political subdivision thereof for any calendar year for which it is authorized to issue qualified mortgage bonds,
 
@@ -86,7 +86,7 @@ The term “qualified mortgage credit certificate program” means any program�
 
 (VI) paragraph (1) of subsection (i) (relating to other requirements),
 
-(iv) under which no mortgage credit certificate may be issued with respect to any residence any of the financing of which is provided from the proceeds of a qualified mortgage bond or a qualified veterans’ mortgage bond,
+(iv) under which no mortgage credit certificate may be issued with respect to any residence any of the financing of which is provided from the proceeds of a qualified mortgage bond or a qualified veterans' mortgage bond,
 
 (v) except to the extent provided in regulations, which is not limited to indebtedness incurred from particular lenders,
 
@@ -110,7 +110,7 @@ Under regulations prescribed by the Secretary, in applying section 143 for purpo
 
  shall be treated as proceeds of such issue and the sum of such products shall be treated as the total proceeds of such issue, and
 
-(iii) paragraph (1) of section 143(d) shall be applied by substituting “100 percent” for “95 percent or more”.
+(iii) paragraph (1) of section 143(d) shall be applied by substituting "100 percent" for "95 percent or more".
 
 Clause (iii) shall not apply if the issuing authority submits a plan to the Secretary for administering the 95-percent requirement of section 143(d)(1) and the Secretary is satisfied that such requirement will be met under such plan.
 
@@ -136,7 +136,7 @@ shall not exceed 25 percent of the nonissued bond amount.
 
 #### (B) Nonissued bond amount ####
 
-For purposes of subparagraph (A), the term “nonissued bond amount” means, with respect to any qualified mortgage credit certificate program, the amount of qualified mortgage bonds which the issuing authority is otherwise authorized to issue and elects not to issue under subsection (c)(2)(A)(ii).
+For purposes of subparagraph (A), the term "nonissued bond amount" means, with respect to any qualified mortgage credit certificate program, the amount of qualified mortgage bonds which the issuing authority is otherwise authorized to issue and elects not to issue under subsection (c)(2)(A)(ii).
 
 #### (e) Special rules and definitions ####
 
@@ -158,7 +158,7 @@ The amount of the unused credit which may be taken into account under subparagra
 
 #### (C) Applicable tax limit ####
 
-For purposes of this paragraph, the term “applicable tax limit” means the limitation imposed by section 26(a) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 25D, and 1400C).
+For purposes of this paragraph, the term "applicable tax limit" means the limitation imposed by section 26(a) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 25D, and 1400C).
 
 #### (2) Indebtedness not treated as certified where certain requirements not in fact met ####
 
@@ -206,25 +206,25 @@ No credit shall be allowed under subsection (a) for any interest paid or accrued
 
 #### (7) Principal residence ####
 
-The term “principal residence” has the same meaning as when used in section 121.
+The term "principal residence" has the same meaning as when used in section 121.
 
 #### (8) Qualified rehabilitation and home improvement ####
 
 #### (A) Qualified rehabilitation ####
 
-The term “qualified rehabilitation” has the meaning given such term by section 143(k)(5)(B).
+The term "qualified rehabilitation" has the meaning given such term by section 143(k)(5)(B).
 
 #### (B) Qualified home improvement ####
 
-The term “qualified home improvement” means an alteration, repair, or improvement described in section 143(k)(4).
+The term "qualified home improvement" means an alteration, repair, or improvement described in section 143(k)(4).
 
 #### (9) Qualified mortgage bond ####
 
-The term “qualified mortgage bond” has the meaning given such term by section 143(a)(1).
+The term "qualified mortgage bond" has the meaning given such term by section 143(a)(1).
 
 #### (10) Manufactured housing ####
 
-For purposes of this section, the term “single family residence” includes any manufactured home which has a minimum of 400 square feet of living space and a minimum width in excess of 102 inches and which is of a kind customarily used at a fixed location. Nothing in the preceding sentence shall be construed as providing that such a home will be taken into account in making determinations under section 143.
+For purposes of this section, the term "single family residence" includes any manufactured home which has a minimum of 400 square feet of living space and a minimum width in excess of 102 inches and which is of a kind customarily used at a fixed location. Nothing in the preceding sentence shall be construed as providing that such a home will be taken into account in making determinations under section 143.
 
 #### (f) Reduction in aggregate amount of qualified mortgage bonds which may be issued where certain requirements not met ####
 
@@ -236,13 +236,13 @@ If for any calendar year any mortgage credit certificate program which satisfies
 
 #### (A) In general ####
 
-For purposes of paragraph (1), the term “correction amount” means an amount equal to the excess credit amount divided by 0.25.
+For purposes of paragraph (1), the term "correction amount" means an amount equal to the excess credit amount divided by 0.25.
 
 #### (B) Excess credit amount ####
 
 #### (i) In general ####
 
-For purposes of subparagraph (A)(ii), the term “excess credit amount” means the excess of—
+For purposes of subparagraph (A)(ii), the term "excess credit amount" means the excess of—
 
 (I) the credit amount for any mortgage credit certificate program, over
 
@@ -250,7 +250,7 @@ For purposes of subparagraph (A)(ii), the term “excess credit amount” means 
 
 #### (ii) Credit amount ####
 
-For purposes of clause (i), the term “credit amount” means the sum of the products determined under clauses (i) and (ii) of subsection (d)(2)(A).
+For purposes of clause (i), the term "credit amount" means the sum of the products determined under clauses (i) and (ii) of subsection (d)(2)(A).
 
 #### (3) Special rule for States having constitutional home rule cities ####
 
@@ -298,117 +298,117 @@ A prior section 25 was renumbered section 26 of this title.
 
 #### Amendments ####
 
-**2013**—Subsec. (e)(1)(C). Pub. L. 112–240 amended subpar. (C) generally. Prior to amendment, text read as follows: “For purposes of this paragraph, the term ‘applicable tax limit’ means—
+**2013**—Subsec. (e)(1)(C). Pub. L. 112–240 amended subpar. (C) generally. Prior to amendment, text read as follows: "For purposes of this paragraph, the term 'applicable tax limit' means—
 
-“(i) in the case of a taxable year to which section 26(a)(2) applies, the limitation imposed by section 26(a)(2) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 25D, and 1400C), and
+"(i) in the case of a taxable year to which section 26(a)(2) applies, the limitation imposed by section 26(a)(2) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 25D, and 1400C), and
 
-“(ii) in the case of a taxable year to which section 26(a)(2) does not apply, the limitation imposed by section 26(a)(1) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 24, 25A(i), 25B, 25D, 30, 30B, 30D, and 1400C).”
+"(ii) in the case of a taxable year to which section 26(a)(2) does not apply, the limitation imposed by section 26(a)(1) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 24, 25A(i), 25B, 25D, 30, 30B, 30D, and 1400C)."
 
-**2010**—Subsec. (e)(1)(C). Pub. L. 111–148, §10909(b)(2)(B), (c), as amended by Pub. L. 111–312, temporarily struck out “23,” after “and sections” in cls. (i) and (ii). See Effective and Termination Dates of 2010 Amendment note below.
+**2010**—Subsec. (e)(1)(C). Pub. L. 111–148, §10909(b)(2)(B), (c), as amended by Pub. L. 111–312, temporarily struck out "23," after "and sections" in cls. (i) and (ii). See Effective and Termination Dates of 2010 Amendment note below.
 
-**2009**—Subsec. (e)(1)(C)(ii). Pub. L. 111–5, §1144(b)(1)(B), inserted “30B,” after “30,”.
+**2009**—Subsec. (e)(1)(C)(ii). Pub. L. 111–5, §1144(b)(1)(B), inserted "30B," after "30,".
 
-Pub. L. 111–5, §1142(b)(1)(B), inserted “30,” after “25D,”.
+Pub. L. 111–5, §1142(b)(1)(B), inserted "30," after "25D,".
 
-Pub. L. 111–5, §1004(b)(2), inserted “25A(i),” after “24,”.
+Pub. L. 111–5, §1004(b)(2), inserted "25A(i)," after "24,".
 
-**2008**—Subsec. (e)(1)(C)(ii). Pub. L. 110–343 inserted “30D,” after “25D,”.
+**2008**—Subsec. (e)(1)(C)(ii). Pub. L. 110–343 inserted "30D," after "25D,".
 
-**2005**—Subsec. (e)(1)(C). Pub. L. 109–135, §402(i)(3)(C), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this paragraph, the term ‘applicable tax limit’ means the limitation imposed by section 26(a) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 24, 25B, and 1400C).”
+**2005**—Subsec. (e)(1)(C). Pub. L. 109–135, §402(i)(3)(C), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "For purposes of this paragraph, the term 'applicable tax limit' means the limitation imposed by section 26(a) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 24, 25B, and 1400C)."
 
-Pub. L. 109–58, §1335(b)(2), which directed amendment of subpar. (C) by substituting “other than this section, section 23, section 25D, and section 1400C” for “this section and sections 23 and 1400C”, was repealed by Pub. L. 109–135, §402(i)(4). See Effective and Termination Dates of 2005 Amendments notes below.
+Pub. L. 109–58, §1335(b)(2), which directed amendment of subpar. (C) by substituting "other than this section, section 23, section 25D, and section 1400C" for "this section and sections 23 and 1400C", was repealed by Pub. L. 109–135, §402(i)(4). See Effective and Termination Dates of 2005 Amendments notes below.
 
-**2001**—Subsec. (e)(1)(C). Pub. L. 107–16, §618(b)(2)(B), inserted “25B,” after “24,”.
+**2001**—Subsec. (e)(1)(C). Pub. L. 107–16, §618(b)(2)(B), inserted "25B," after "24,".
 
-Pub. L. 107–16, §201(b)(2)(F), inserted “, 24,” after “sections 23”.
+Pub. L. 107–16, §201(b)(2)(F), inserted ", 24," after "sections 23".
 
-**1998**—Subsec. (e)(1)(C). Pub. L. 105–206 substituted “sections 23 and 1400C” for “section 23”.
+**1998**—Subsec. (e)(1)(C). Pub. L. 105–206 substituted "sections 23 and 1400C" for "section 23".
 
-**1997**—Subsec. (e)(7). Pub. L. 105–34 substituted “section 121” for “section 1034”.
+**1997**—Subsec. (e)(7). Pub. L. 105–34 substituted "section 121" for "section 1034".
 
-**1996**—Subsec. (e)(1)(C). Pub. L. 104–188 inserted “and section 23” after “other than this section”.
+**1996**—Subsec. (e)(1)(C). Pub. L. 104–188 inserted "and section 23" after "other than this section".
 
-**1993**—Subsecs. (h) to (j). Pub. L. 103–66 redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out heading and text of former subsec. (h). Text read as follows: “No election may be made under subsection (c)(2)(A)(ii) for any period after June 30, 1992.”
+**1993**—Subsecs. (h) to (j). Pub. L. 103–66 redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out heading and text of former subsec. (h). Text read as follows: "No election may be made under subsection (c)(2)(A)(ii) for any period after June 30, 1992."
 
-**1991**—Subsec. (h). Pub. L. 102–227 substituted “June 30, 1992” for “December 31, 1991”.
+**1991**—Subsec. (h). Pub. L. 102–227 substituted "June 30, 1992" for "December 31, 1991".
 
-**1990**—Subsec. (h). Pub. L. 101–508 substituted “December 31, 1991” for “September 30, 1990”.
+**1990**—Subsec. (h). Pub. L. 101–508 substituted "December 31, 1991" for "September 30, 1990".
 
-**1989**—Subsec. (h). Pub. L. 101–239 substituted “for any period after September 30, 1990” for “for any calendar year after 1989”.
+**1989**—Subsec. (h). Pub. L. 101–239 substituted "for any period after September 30, 1990" for "for any calendar year after 1989".
 
 **1988**—Subsec. (c)(2)(A)(ii). Pub. L. 100–647, §1013(a)(25), amended Pub. L. 99–514, §1301(f)(2)(C)(ii), see 1986 Amendment note below.
 
-Subsec. (h). Pub. L. 100–647, §4005(a)(2), substituted “1989” for “1988”.
+Subsec. (h). Pub. L. 100–647, §4005(a)(2), substituted "1989" for "1988".
 
-Pub. L. 100–647, §1013(a)(26), substituted “1988” for “1987”.
+Pub. L. 100–647, §1013(a)(26), substituted "1988" for "1987".
 
 Subsec. (j). Pub. L. 100–647, §4005(g)(7), added subsec. (j).
 
-**1986**—Subsec. (a)(1)(B). Pub. L. 99–514, §1862(d)(1), substituted “paid or accrued” for “paid or incurred”.
+**1986**—Subsec. (a)(1)(B). Pub. L. 99–514, §1862(d)(1), substituted "paid or accrued" for "paid or incurred".
 
-Subsec. (b)(2)(A)(ii). Pub. L. 99–514, §1301(f)(2)(A), substituted “section 143(k)(4)” for “section 103A(l)(6)”.
+Subsec. (b)(2)(A)(ii). Pub. L. 99–514, §1301(f)(2)(A), substituted "section 143(k)(4)" for "section 103A(l)(6)".
 
-Subsec. (b)(2)(A)(iii). Pub. L. 99–514, §1301(f)(2)(B), substituted “section 143(k)(5)” for “section 103A(l)(7)”.
+Subsec. (b)(2)(A)(iii). Pub. L. 99–514, §1301(f)(2)(B), substituted "section 143(k)(5)" for "section 103A(l)(7)".
 
-Subsec. (c)(2)(A). Pub. L. 99–514, §1301(f)(2)(E), substituted “section 143(a)(2)” for “section 103A(c)(2)” in provision following cl. (vii).
+Subsec. (c)(2)(A). Pub. L. 99–514, §1301(f)(2)(E), substituted "section 143(a)(2)" for "section 103A(c)(2)" in provision following cl. (vii).
 
-Pub. L. 99–514, §1862(b), inserted “Under regulations, rules similar to the rules of subparagraphs (B) and (C) of section 103A(c)(2) shall apply to the requirements of this subparagraph.”
+Pub. L. 99–514, §1862(b), inserted "Under regulations, rules similar to the rules of subparagraphs (B) and (C) of section 103A(c)(2) shall apply to the requirements of this subparagraph."
 
-Subsec. (c)(2)(A)(ii). Pub. L. 99–514, §1301(f)(2)(C)(ii), as amended by Pub. L. 100–647, §1013(a)(25), substituted “private activity bonds which it may otherwise issue during such calendar year under section 146” for “qualified mortgage bonds which it may otherwise issue during such calendar year under section 103A”.
+Subsec. (c)(2)(A)(ii). Pub. L. 99–514, §1301(f)(2)(C)(ii), as amended by Pub. L. 100–647, §1013(a)(25), substituted "private activity bonds which it may otherwise issue during such calendar year under section 146" for "qualified mortgage bonds which it may otherwise issue during such calendar year under section 103A".
 
-Subsec. (c)(2)(A)(iii). Pub. L. 99–514, §1301(f)(2)(C)(i), substituted “section 143” for “section 103A” in introductory provisions, added subcls. (I) to (VI), and struck out former subcls. (I) to (V) which read as follows:
+Subsec. (c)(2)(A)(iii). Pub. L. 99–514, §1301(f)(2)(C)(i), substituted "section 143" for "section 103A" in introductory provisions, added subcls. (I) to (VI), and struck out former subcls. (I) to (V) which read as follows:
 
-“(I) subsection (d) (relating to residence requirements),
+"(I) subsection (d) (relating to residence requirements),
 
-“(II) subsection (e) (relating to 3-year requirement),
+"(II) subsection (e) (relating to 3-year requirement),
 
-“(III) subsection (f) (relating to purchase price requirement),
+"(III) subsection (f) (relating to purchase price requirement),
 
-“(IV) subsection (h) (relating to portion of loans required to be placed in targeted areas), and
+"(IV) subsection (h) (relating to portion of loans required to be placed in targeted areas), and
 
-“(V) subsection (j), other than paragraph (2) thereof (relating to other requirements),”.
+"(V) subsection (j), other than paragraph (2) thereof (relating to other requirements),".
 
-Subsec. (c)(2)(A)(iii)(V). Pub. L. 99–514, §1862(a), substituted “subsection (j), other than paragraph (2) thereof” for “paragraph (1) of subsection (j)”.
+Subsec. (c)(2)(A)(iii)(V). Pub. L. 99–514, §1862(a), substituted "subsection (j), other than paragraph (2) thereof" for "paragraph (1) of subsection (j)".
 
-Subsec. (c)(2)(B). Pub. L. 99–514, §1301(f)(2)(C)(i), substituted in heading and introductory provisions “section 143” for “section 103A”.
+Subsec. (c)(2)(B). Pub. L. 99–514, §1301(f)(2)(C)(i), substituted in heading and introductory provisions "section 143" for "section 103A".
 
 Pub. L. 99–514, §1301(f)(2)(F), inserted in introductory provisions reference to subcl. (V), added cl. (iii) and closing provisions, and struck out former cl. (iii) and closing provisions which read as follows:
 
-“(iii) paragraph (1) of section 103A(e) shall be applied by substituting ‘100 percent’ for ‘90 percent or more’.
+"(iii) paragraph (1) of section 103A(e) shall be applied by substituting '100 percent' for '90 percent or more'.
 
-Clause (iii) shall not apply if the issuing authority submits a plan to the Secretary for administering the 90-percent requirement of section 103A(e)(1) and the Secretary is satisfied that such requirement will be met under such plan.”
+Clause (iii) shall not apply if the issuing authority submits a plan to the Secretary for administering the 90-percent requirement of section 103A(e)(1) and the Secretary is satisfied that such requirement will be met under such plan."
 
-Subsec. (d)(2)(A). Pub. L. 99–514, §1301(f)(1)(A), substituted “25 percent” for “20 percent” in concluding provisions.
+Subsec. (d)(2)(A). Pub. L. 99–514, §1301(f)(1)(A), substituted "25 percent" for "20 percent" in concluding provisions.
 
-Subsec. (d)(3). Pub. L. 99–514, §1301(f)(2)(G), struck out par. (3) “Additional limit in certain cases” which read as follows: “In the case of a qualified mortgage credit certificate program in a State which—
+Subsec. (d)(3). Pub. L. 99–514, §1301(f)(2)(G), struck out par. (3) "Additional limit in certain cases" which read as follows: "In the case of a qualified mortgage credit certificate program in a State which—
 
-“(A) has a State ceiling (as defined in section 103A(g)(4)) for the year an election is made that exceeds 20 percent of the average annual aggregate principal amount of mortgages executed during the immediately preceding 3 calendar years for single family owner-occupied residences located within the jurisdiction of such State, or
+"(A) has a State ceiling (as defined in section 103A(g)(4)) for the year an election is made that exceeds 20 percent of the average annual aggregate principal amount of mortgages executed during the immediately preceding 3 calendar years for single family owner-occupied residences located within the jurisdiction of such State, or
 
-“(B) issued qualified mortgage bonds in an aggregate amount less than $150,000,000 for calendar year 1983,
+"(B) issued qualified mortgage bonds in an aggregate amount less than $150,000,000 for calendar year 1983,
 
-the certificate credit rate for any mortgage credit certificate shall not exceed 20 percent unless the issuing authority submits a plan to the Secretary to ensure that the weighted average of the certificate credit rates in such mortgage credit certificate program does not exceed 20 percent and the Secretary approves such plan.”
+the certificate credit rate for any mortgage credit certificate shall not exceed 20 percent unless the issuing authority submits a plan to the Secretary to ensure that the weighted average of the certificate credit rates in such mortgage credit certificate program does not exceed 20 percent and the Secretary approves such plan."
 
-Subsec. (e)(1)(B). Pub. L. 99–514, §1862(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) “Limitations” read as follows: “The amount of the unused credit which may be taken into account under subparagraph (A) for any taxable year shall not exceed the amount by which the applicable tax limit for such taxable year exceeds the sum of the amounts which, by reason of this paragraph, are carried to such taxable year and are attributable to taxable years before the unused credit year.”
+Subsec. (e)(1)(B). Pub. L. 99–514, §1862(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) "Limitations" read as follows: "The amount of the unused credit which may be taken into account under subparagraph (A) for any taxable year shall not exceed the amount by which the applicable tax limit for such taxable year exceeds the sum of the amounts which, by reason of this paragraph, are carried to such taxable year and are attributable to taxable years before the unused credit year."
 
-Subsec. (e)(2). Pub. L. 99–514, §1301(f)(2)(H), substituted “subsections (c)(1), (d), (e), (f), and (i) of section 143” for “subsection (d)(1), (e), (f), and (j) of section 103A”.
+Subsec. (e)(2). Pub. L. 99–514, §1301(f)(2)(H), substituted "subsections (c)(1), (d), (e), (f), and (i) of section 143" for "subsection (d)(1), (e), (f), and (j) of section 103A".
 
-Subsec. (e)(6). Pub. L. 99–514, §1301(f)(2)(I), substituted “section 144(a)(3)(A)” for “section 103(b)(6)(C)(i)”.
+Subsec. (e)(6). Pub. L. 99–514, §1301(f)(2)(I), substituted "section 144(a)(3)(A)" for "section 103(b)(6)(C)(i)".
 
-Subsec. (e)(8)(A). Pub. L. 99–514, §1301(f)(2)(J), substituted “section 143(k)(5)(B)” for “section 103A(l)(7)(B)”.
+Subsec. (e)(8)(A). Pub. L. 99–514, §1301(f)(2)(J), substituted "section 143(k)(5)(B)" for "section 103A(l)(7)(B)".
 
-Subsec. (e)(8)(B). Pub. L. 99–514, §1301(f)(2)(K), substituted “section 143(k)(4)” for “section 103A(l)(6)”.
+Subsec. (e)(8)(B). Pub. L. 99–514, §1301(f)(2)(K), substituted "section 143(k)(4)" for "section 103A(l)(6)".
 
-Subsec. (e)(9). Pub. L. 99–514, §1301(f)(2)(L), substituted “section 143(a)(1)” for “section 103A(c)(1)”.
+Subsec. (e)(9). Pub. L. 99–514, §1301(f)(2)(L), substituted "section 143(a)(1)" for "section 103A(c)(1)".
 
-Subsec. (e)(10). Pub. L. 99–514, §1301(f)(2)(M), substituted “section 143” for “section 103A”.
+Subsec. (e)(10). Pub. L. 99–514, §1301(f)(2)(M), substituted "section 143" for "section 103A".
 
-Subsec. (f)(1). Pub. L. 99–514, §1301(f)(2)(N), substituted “subsection (d) of section 146” for “paragraph (4) of section 103A(g)”.
+Subsec. (f)(1). Pub. L. 99–514, §1301(f)(2)(N), substituted "subsection (d) of section 146" for "paragraph (4) of section 103A(g)".
 
-Subsec. (f)(2)(A). Pub. L. 99–514, §1301(f)(1)(B), substituted “0.25” for “0.20”.
+Subsec. (f)(2)(A). Pub. L. 99–514, §1301(f)(1)(B), substituted "0.25" for "0.20".
 
-Subsec. (f)(3). Pub. L. 99–514, §1301(f)(2)(O), substituted “section 146(d)(3)(C)” for “section 103A(g)(5)(C)”.
+Subsec. (f)(3). Pub. L. 99–514, §1301(f)(2)(O), substituted "section 146(d)(3)(C)" for "section 103A(g)(5)(C)".
 
-Subsec. (f)(4). Pub. L. 99–514, §1899A(1), substituted “ensure” for “insure”.
+Subsec. (f)(4). Pub. L. 99–514, §1899A(1), substituted "ensure" for "insure".
 
 #### Effective Date of 2013 Amendment ####
 
@@ -466,11 +466,11 @@ Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1993 Amendment ####
 
-Pub. L. 103–66, title XIII, §13141(f)(2), Aug. 10, 1993, 107 Stat. 437, provided that: “The amendment made by subsection (b) [amending this section] shall apply to elections for periods after June 30, 1992.”
+Pub. L. 103–66, title XIII, §13141(f)(2), Aug. 10, 1993, 107 Stat. 437, provided that: "The amendment made by subsection (b) [amending this section] shall apply to elections for periods after June 30, 1992."
 
 #### Effective Date of 1991 Amendment ####
 
-Pub. L. 102–227, title I, §108(c)(2), Dec. 11, 1991, 105 Stat. 1688, provided that: “The amendment made by subsection (b) [amending this section] shall apply to elections for periods after December 31, 1991.”
+Pub. L. 102–227, title I, §108(c)(2), Dec. 11, 1991, 105 Stat. 1688, provided that: "The amendment made by subsection (b) [amending this section] shall apply to elections for periods after December 31, 1991."
 
 #### Effective Date of 1990 Amendment ####
 
@@ -494,9 +494,9 @@ Amendment by section 1862(a)–(d)(1) of Pub. L. 99–514 effective, except as o
 
 Pub. L. 98–369, div. A, title VI, §612(g), July 18, 1984, 98 Stat. 913, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [enacting this section and section 6708 of this title, redesignating former section 25 as 26, and amending sections 23, 28 to 30, 38, 55, 103A, 163, 168, and 901 of this title] shall apply to interest paid or accrued after December 31, 1984, on indebtedness incurred after December 31, 1984.
+"(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [enacting this section and section 6708 of this title, redesignating former section 25 as 26, and amending sections 23, 28 to 30, 38, 55, 103A, 163, 168, and 901 of this title] shall apply to interest paid or accrued after December 31, 1984, on indebtedness incurred after December 31, 1984.
 
-“(2) Elections.—The amendments made by this section shall apply to elections under section 25(c)(2)(A)(ii) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as added by this section) for calendar years after 1983.”
+"(2) Elections.—The amendments made by this section shall apply to elections under section 25(c)(2)(A)(ii) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as added by this section) for calendar years after 1983."
 
 #### Plan Amendments Not Required Until January 1, 1989 ####
 

@@ -16,9 +16,9 @@ After January 1, 1993, the Commission—
 
 (2) may, after notice and public comment and a demonstration of the need for modification of such limitations, modify such limitations in accordance with the public interest.
 
-#### (d) “Commercial television broadcast licensee” defined ####
+#### (d) "Commercial television broadcast licensee" defined ####
 
-As used in this section, the term “commercial television broadcast licensee” includes a cable operator, as defined in section 522 of this title.
+As used in this section, the term "commercial television broadcast licensee" includes a cable operator, as defined in section 522 of this title.
 
 (Pub. L. 101–437, title I, §102, Oct. 17, 1990, 104 Stat. 996.)
 
@@ -28,16 +28,16 @@ Section was enacted as part of the Children's Television Act of 1990, and not as
 
 #### Congressional Findings ####
 
-Pub. L. 101–437, title I, §101, Oct. 17, 1990, 104 Stat. 996, provided that: “The Congress finds that—
+Pub. L. 101–437, title I, §101, Oct. 17, 1990, 104 Stat. 996, provided that: "The Congress finds that—
 
-“(1) it has been clearly demonstrated that television can assist children to learn important information, skills, values, and behavior, while entertaining them and exciting their curiosity to learn about the world around them;
+"(1) it has been clearly demonstrated that television can assist children to learn important information, skills, values, and behavior, while entertaining them and exciting their curiosity to learn about the world around them;
 
-“(2) as part of their obligation to serve the public interest, television station operators and licensees should provide programming that serves the special needs of children;
+"(2) as part of their obligation to serve the public interest, television station operators and licensees should provide programming that serves the special needs of children;
 
-“(3) the financial support of advertisers assists in the provision of programming to children;
+"(3) the financial support of advertisers assists in the provision of programming to children;
 
-“(4) special safeguards are appropriate to protect children from overcommercialization on television;
+"(4) special safeguards are appropriate to protect children from overcommercialization on television;
 
-“(5) television station operators and licensees should follow practices in connection with children's television programming and advertising that take into consideration the characteristics of this child audience; and
+"(5) television station operators and licensees should follow practices in connection with children's television programming and advertising that take into consideration the characteristics of this child audience; and
 
-“(6) it is therefore necessary that the Federal Communications Commission (hereinafter referred to as the ‘Commission’) take the actions required by this title [enacting sections 303a and 303b of this title].”
+"(6) it is therefore necessary that the Federal Communications Commission (hereinafter referred to as the 'Commission') take the actions required by this title [enacting sections 303a and 303b of this title]."

@@ -102,7 +102,7 @@ In this section, the following definitions apply:
 
 #### (1) Mentor ####
 
-The term “mentor” means a for-profit business concern, of any size, that—
+The term "mentor" means a for-profit business concern, of any size, that—
 
 (A) has the ability to assist and commits to assisting a protege to compete for Federal prime contracts and subcontracts; and
 
@@ -110,11 +110,11 @@ The term “mentor” means a for-profit business concern, of any size, that—
 
 #### (2) Mentor-protege program ####
 
-The term “mentor-protege program” means a program that pairs a mentor with a protege for the purpose of assisting the protege to compete for Federal prime contracts and subcontracts.
+The term "mentor-protege program" means a program that pairs a mentor with a protege for the purpose of assisting the protege to compete for Federal prime contracts and subcontracts.
 
 #### (3) Protege ####
 
-The term “protege” means a small business concern that—
+The term "protege" means a small business concern that—
 
 (A) is eligible to enter into Federal prime contracts and subcontracts; and
 

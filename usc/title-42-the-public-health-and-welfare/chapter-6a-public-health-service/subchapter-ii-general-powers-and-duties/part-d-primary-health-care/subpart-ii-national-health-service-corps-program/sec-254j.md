@@ -2,7 +2,7 @@
 
 #### (a) Establishment; appointment of members ####
 
-There is established a council to be known as the National Advisory Council on the National Health Service Corps (hereinafter in this section referred to as the “Council”). The Council shall be composed of not more than 15 members appointed by the Secretary. The Council shall consult with, advise, and make recommendations to, the Secretary with respect to his responsibilities in carrying out this subpart (other than section 254r <sup><a href="#254j_1_target" name="254j_1">1</a></sup> of this title), and shall review and comment upon regulations promulgated by the Secretary under this subpart.
+There is established a council to be known as the National Advisory Council on the National Health Service Corps (hereinafter in this section referred to as the "Council"). The Council shall be composed of not more than 15 members appointed by the Secretary. The Council shall consult with, advise, and make recommendations to, the Secretary with respect to his responsibilities in carrying out this subpart (other than section 254r <sup><a href="#254j_1_target" name="254j_1">1</a></sup> of this title), and shall review and comment upon regulations promulgated by the Secretary under this subpart.
 
 #### (b) Term of members; compensation; expenses ####
 
@@ -24,17 +24,17 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c), is
 
 #### Amendments ####
 
-**2010**—Subsec. (b)(1). Pub. L. 111–148 struck out at end “Members may not be reappointed to the Council.”
+**2010**—Subsec. (b)(1). Pub. L. 111–148 struck out at end "Members may not be reappointed to the Council."
 
-**1993**—Subsec. (b)(2). Pub. L. 103–183 inserted “compensation at a rate fixed by the Secretary (but not to exceed” before “the daily equivalent” and substituted “Schedule);” for “Schedule;”.
+**1993**—Subsec. (b)(2). Pub. L. 103–183 inserted "compensation at a rate fixed by the Secretary (but not to exceed" before "the daily equivalent" and substituted "Schedule);" for "Schedule;".
 
-**1983**—Subsec. (a). Pub. L. 97–414 inserted “(other than section 254r of this title)” after “carrying out this subpart”.
+**1983**—Subsec. (a). Pub. L. 97–414 inserted "(other than section 254r of this title)" after "carrying out this subpart".
 
 **1981**—Subsec. (a). Pub. L. 97–35, §2707(a), amended subsec. (a) generally, striking out pars. (1) to (5) respecting required status and background of members appointed by the Secretary.
 
-Subsec. (b)(1). Pub. L. 97–35, §2707(b), inserted “not” before “be reappointed”.
+Subsec. (b)(1). Pub. L. 97–35, §2707(b), inserted "not" before "be reappointed".
 
-**1979**—Subsec. (b)(2). Pub. L. 96–32 substituted “section 5703 of title 5” for “section 5703(b) of title 5”.
+**1979**—Subsec. (b)(2). Pub. L. 96–32 substituted "section 5703 of title 5" for "section 5703(b) of title 5".
 
 #### Termination of Advisory Committees ####
 

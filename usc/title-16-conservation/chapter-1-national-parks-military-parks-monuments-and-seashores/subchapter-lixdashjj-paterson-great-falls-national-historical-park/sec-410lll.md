@@ -6,35 +6,35 @@ In this section:
 
 #### (1) City ####
 
-The term “City” means the City of Paterson, New Jersey.
+The term "City" means the City of Paterson, New Jersey.
 
 #### (2) Commission ####
 
-The term “Commission” means the Paterson Great Falls National Historical Park Advisory Commission established by subsection (e)(1).
+The term "Commission" means the Paterson Great Falls National Historical Park Advisory Commission established by subsection (e)(1).
 
 #### (3) Historic District ####
 
-The term “Historic District” means the Great Falls Historic District in the State.
+The term "Historic District" means the Great Falls Historic District in the State.
 
 #### (4) Management plan ####
 
-The term “management plan” means the management plan for the Park developed under subsection (d).
+The term "management plan" means the management plan for the Park developed under subsection (d).
 
 #### (5) Map ####
 
-The term “Map” means the map entitled “Paterson Great Falls National Historical Park–Proposed Boundary”, numbered T03/80,001, and dated May 2008.
+The term "Map" means the map entitled "Paterson Great Falls National Historical Park–Proposed Boundary", numbered T03/80,001, and dated May 2008.
 
 #### (6) Park ####
 
-The term “Park” means the Paterson Great Falls National Historical Park established by subsection (b)(1)(A).
+The term "Park" means the Paterson Great Falls National Historical Park established by subsection (b)(1)(A).
 
 #### (7) Secretary ####
 
-The term “Secretary” means the Secretary of the Interior.
+The term "Secretary" means the Secretary of the Interior.
 
 #### (8) State ####
 
-The term “State” means the State of New Jersey.
+The term "State" means the State of New Jersey.
 
 #### (b) Paterson Great Falls National Historical Park ####
 
@@ -42,7 +42,7 @@ The term “State” means the State of New Jersey.
 
 #### (A) In general ####
 
-Subject to subparagraph (B), there is established in the State a unit of the National Park System to be known as the “Paterson Great Falls National Historical Park”.
+Subject to subparagraph (B), there is established in the State a unit of the National Park System to be known as the "Paterson Great Falls National Historical Park".
 
 #### (B) Conditions for establishment ####
 
@@ -190,7 +190,7 @@ On completion of the management plan, the Secretary shall submit the management 
 
 #### (1) Establishment ####
 
-There is established a commission to be known as the “Paterson Great Falls National Historical Park Advisory Commission”.
+There is established a commission to be known as the "Paterson Great Falls National Historical Park Advisory Commission".
 
 #### (2) Duties ####
 

@@ -10,4 +10,4 @@ The determination made by the Secretary having jurisdiction upon the proposals c
 
 #### Amendments ####
 
-**1960**—Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
+**1960**—Pub. L. 86–507 inserted "or by certified mail" after "registered mail".

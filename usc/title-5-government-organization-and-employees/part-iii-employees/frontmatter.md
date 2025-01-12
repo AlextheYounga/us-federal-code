@@ -77,7 +77,7 @@ Chap. Sec.
 
 83. Retirement 8301
 
-84. Federal Employees’ Retirement System 8401
+84. Federal Employees' Retirement System 8401
 
 85. Unemployment Compensation 8501
 
@@ -111,7 +111,7 @@ Chap. Sec.
 
 #### Amendments ####
 
-**2011**—Pub. L. 112–81, div. A, title XI, §1101(d)(2), Dec. 31, 2011, 125 Stat. 1610, added item for chapter 99 and struck out former item for chapter 99 “Department of Defense National Security Personnel System”.
+**2011**—Pub. L. 112–81, div. A, title XI, §1101(d)(2), Dec. 31, 2011, 125 Stat. 1610, added item for chapter 99 and struck out former item for chapter 99 "Department of Defense National Security Personnel System".
 
 **2010**—Pub. L. 111–292, §2(b)(1), Dec. 9, 2010, 124 Stat. 3170, added item for chapter 65.
 
@@ -131,21 +131,21 @@ Pub. L. 107–296, title VIII, §841(a)(3), Nov. 25, 2002, 116 Stat. 2233, added
 
 Pub. L. 107–123, §8(d)(1)(A), Jan. 16, 2002, 115 Stat. 2399, added item for chapter 48.
 
-**2000**—Pub. L. 106–398, §1 [[div. A], title X, §1076(f)(1)(B)], Oct. 30, 2000, 114 Stat. 1654, 1654A–282, substituted “and Other Purposes” for “Purposes” in item for chapter 91.
+**2000**—Pub. L. 106–398, §1 [[div. A], title X, §1076(f)(1)(B)], Oct. 30, 2000, 114 Stat. 1654, 1654A–282, substituted "and Other Purposes" for "Purposes" in item for chapter 91.
 
 Pub. L. 106–265, title I, §1002(b), Sept. 19, 2000, 114 Stat. 769, added item for chapter 90.
 
 **1998**—Pub. L. 105–206, title I, §1201(b), July 22, 1998, 112 Stat. 719, added items for subpart I and chapter 95.
 
-**1993**—Pub. L. 103–89, §3(a)(2), Sept. 30, 1993, 107 Stat. 981, struck out item for chapter 54 “Performance Management and Recognition System”.
+**1993**—Pub. L. 103–89, §3(a)(2), Sept. 30, 1993, 107 Stat. 981, struck out item for chapter 54 "Performance Management and Recognition System".
 
 **1986**—Pub. L. 99–335, title I, §101(b), June 6, 1986, 100 Stat. 588, added item for chapter 84.
 
 **1985**—Pub. L. 99–169, title VIII, §801(b), Dec. 4, 1985, 99 Stat. 1010, added items for subpart H and chapter 91.
 
-**1984**—Pub. L. 98–615, title II, §201(b), Nov. 8, 1984, 98 Stat. 3214, substituted “Performance Management and Recognition System” for “Merit Pay and Cash Awards” in item for chapter 54.
+**1984**—Pub. L. 98–615, title II, §201(b), Nov. 8, 1984, 98 Stat. 3214, substituted "Performance Management and Recognition System" for "Merit Pay and Cash Awards" in item for chapter 54.
 
-**1978**—Pub. L. 95–454, title I, §101(b)(1), title II, §203(b), title V, §503(i), title VI, §601(b), title VII, §703(b), title IX, §906(c)(5), Oct. 13, 1978, 92 Stat. 1118, 1134, 1184, 1188, 1217, 1227, added items for chapters 23, 34, 47, 54, and 72, substituted in item for chapter 43 “Appraisal” for “Rating” and in item for chapter 71 “Labor-Management Relations” for “Policies”, and inserted in heading of subpart F “Labor-Management and” before “Employee”.
+**1978**—Pub. L. 95–454, title I, §101(b)(1), title II, §203(b), title V, §503(i), title VI, §601(b), title VII, §703(b), title IX, §906(c)(5), Oct. 13, 1978, 92 Stat. 1118, 1134, 1184, 1188, 1217, 1227, added items for chapters 23, 34, 47, 54, and 72, substituted in item for chapter 43 "Appraisal" for "Rating" and in item for chapter 71 "Labor-Management Relations" for "Policies", and inserted in heading of subpart F "Labor-Management and" before "Employee".
 
 [<sup>1</sup> Chapter heading amended by Pub. L. 107–296 without corresponding amendment of part analysis.](#SubpartBanalysis_1)
 

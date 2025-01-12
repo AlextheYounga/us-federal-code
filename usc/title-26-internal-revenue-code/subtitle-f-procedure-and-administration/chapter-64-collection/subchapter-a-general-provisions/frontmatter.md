@@ -20,6 +20,6 @@ Sec.
 
 **1998**—Pub. L. 105–206, title III, §3466(b), July 22, 1998, 112 Stat. 769, added item 6304.
 
-**1976**—Pub. L. 94–455, title XIX, §1906(b)(5), Oct. 4, 1976, 90 Stat. 1833, struck out item “6304. Collection under the Tariff Act”.
+**1976**—Pub. L. 94–455, title XIX, §1906(b)(5), Oct. 4, 1976, 90 Stat. 1833, struck out item "6304. Collection under the Tariff Act".
 
 **1975**—Pub. L. 93–647, §101(b)(2), Jan. 4, 1975, 88 Stat. 2358, added item 6305.

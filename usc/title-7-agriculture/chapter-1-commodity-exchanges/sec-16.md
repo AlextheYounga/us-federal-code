@@ -80,43 +80,43 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments ####
 
-**2010**—Subsec. (e)(2)(B). Pub. L. 111–203, §749(f), substituted “section 2(c) or 2(f) of this title” for “section 2(c), 2(d), 2(f), or 2(g) of this title” and struck out “2(h) or” before “6(c)”.
+**2010**—Subsec. (e)(2)(B). Pub. L. 111–203, §749(f), substituted "section 2(c) or 2(f) of this title" for "section 2(c), 2(d), 2(f), or 2(g) of this title" and struck out "2(h) or" before "6(c)".
 
 Subsec. (h). Pub. L. 111–203, §722(b), added subsec. (h).
 
-**2008**—Subsec. (d). Pub. L. 110–246, §13104, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this chapter for each of fiscal years 1995 through 2005.”
+**2008**—Subsec. (d). Pub. L. 110–246, §13104, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "There are authorized to be appropriated such sums as are necessary to carry out this chapter for each of fiscal years 1995 through 2005."
 
-**2000**—Subsec. (d). Pub. L. 106–554, §1(a)(5) [title I, §116], substituted “2005” for “2000”.
+**2000**—Subsec. (d). Pub. L. 106–554, §1(a)(5) [title I, §116], substituted "2005" for "2000".
 
 Subsec. (e). Pub. L. 106–554, §1(a)(5) [title I, §117], added subsec. (e) and struck out former subsec. (e) which provided that this chapter did not supersede or preempt criminal prosecutions under Federal criminal statutes or the application of any Federal or State statute to certain specified transactions and persons.
 
-**1995**—Subsec. (d). Pub. L. 104–9 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated to carry out this chapter—
+**1995**—Subsec. (d). Pub. L. 104–9 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "There are authorized to be appropriated to carry out this chapter—
 
-“(1) $53,000,000 for fiscal year 1993; and
+"(1) $53,000,000 for fiscal year 1993; and
 
-“(2) $60,000,000 for fiscal year 1994.”
+"(2) $60,000,000 for fiscal year 1994."
 
-**1992**—Subsec. (a). Pub. L. 102–546, §302, inserted “any foreign futures authority, any department or agency of a foreign government or political subdivision thereof,” after “thereof,”.
+**1992**—Subsec. (a). Pub. L. 102–546, §302, inserted "any foreign futures authority, any department or agency of a foreign government or political subdivision thereof," after "thereof,".
 
 Subsec. (b). Pub. L. 102–546, §216, designated first through third sentences as pars. (1) to (3), respectively, and added par. (4).
 
-Subsec. (d). Pub. L. 102–546, §401, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated to carry out this chapter such sums as may be necessary for each of the fiscal years during the period beginning October 1, 1986, and ending September 30, 1989.”
+Subsec. (d). Pub. L. 102–546, §401, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "There are authorized to be appropriated to carry out this chapter such sums as may be necessary for each of the fiscal years during the period beginning October 1, 1986, and ending September 30, 1989."
 
-Subsec. (e)(2)(A). Pub. L. 102–546, §502(c), inserted “or, in the case of any State or local law that prohibits or regulates gaming or the operation of ‘bucket shops’ (other than antifraud provisions of general applicability), that is not a transaction or class of transactions that has received or is covered by the terms of any exemption previously granted by the Commission under subsection (c) of section 6 of this title,” after “market,”.
+Subsec. (e)(2)(A). Pub. L. 102–546, §502(c), inserted "or, in the case of any State or local law that prohibits or regulates gaming or the operation of 'bucket shops' (other than antifraud provisions of general applicability), that is not a transaction or class of transactions that has received or is covered by the terms of any exemption previously granted by the Commission under subsection (c) of section 6 of this title," after "market,".
 
 Subsec. (f). Pub. L. 102–546, §303, added subsec. (f).
 
 Subsec. (g). Pub. L. 102–546, §220(a), added subsec. (g).
 
-**1986**—Subsec. (d). Pub. L. 99–641 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated to carry out the provisions of this chapter such sums as may be required for each of the fiscal years during the period beginning October 1, 1982, and ending September 30, 1986.”
+**1986**—Subsec. (d). Pub. L. 99–641 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "There are authorized to be appropriated to carry out the provisions of this chapter such sums as may be required for each of the fiscal years during the period beginning October 1, 1982, and ending September 30, 1986."
 
 **1983**—Subsec. (d). Pub. L. 97–444, §228, substituted appropriation authorization for fiscal years during period beginning Oct. 1, 1982, and ending Sept. 30, 1986, for prior authorization for fiscal years during period beginning Oct. 1, 1978, and ending Sept. 30, 1982.
 
 Subsec. (e). Pub. L. 97–444, §229, added subsec. (e).
 
-**1978**—Subsec. (d). Pub. L. 95–405 substituted “for each of the fiscal years during the period beginning October 1, 1978, and ending September 30, 1982” for “for the fiscal year ending June 30, 1975, for the fiscal year ending June 30, 1976, for the fiscal year ending June 30, 1977, and for the fiscal year ending June 30, 1978”.
+**1978**—Subsec. (d). Pub. L. 95–405 substituted "for each of the fiscal years during the period beginning October 1, 1978, and ending September 30, 1982" for "for the fiscal year ending June 30, 1975, for the fiscal year ending June 30, 1976, for the fiscal year ending June 30, 1977, and for the fiscal year ending June 30, 1978".
 
-**1974**—Pub. L. 93–463 designated existing unlettered provisions as subsecs. (a) to (d), substituted “Commission” for “Secretary of Agriculture”, inserted provisions authorizing the expenditure of funds for expenses upon the presentation of itemized vouchers therefor approved by the Commission, substituted provisions authorizing appropriations specifically for fiscal years ending June 30, 1975, 1976, 1977, and 1978, for provisions making a general authorization of appropriations without a fiscal year limitation, and inserted authorization to enter into contracts and compensate experts and consultants in accordance with section 3109 of title 5 at rates not in excess of the maximum daily rate prescribed for GS–18 under section 5332 of title 5.
+**1974**—Pub. L. 93–463 designated existing unlettered provisions as subsecs. (a) to (d), substituted "Commission" for "Secretary of Agriculture", inserted provisions authorizing the expenditure of funds for expenses upon the presentation of itemized vouchers therefor approved by the Commission, substituted provisions authorizing appropriations specifically for fiscal years ending June 30, 1975, 1976, 1977, and 1978, for provisions making a general authorization of appropriations without a fiscal year limitation, and inserted authorization to enter into contracts and compensate experts and consultants in accordance with section 3109 of title 5 at rates not in excess of the maximum daily rate prescribed for GS–18 under section 5332 of title 5.
 
 #### Effective Date of 2010 Amendment ####
 

@@ -16,7 +16,7 @@ Sec.
 
 **1996**—Pub. L. 104–324, title VI, §603(b), Oct. 19, 1996, 110 Stat. 3930, added item 3103.
 
-**1988**—Pub. L. 100–424, §8(a)(3), Sept. 9, 1988, 102 Stat. 1593, substituted “Immersion” for “Exposure” in item 3102.
+**1988**—Pub. L. 100–424, §8(a)(3), Sept. 9, 1988, 102 Stat. 1593, substituted "Immersion" for "Exposure" in item 3102.
 
 **1985**—Pub. L. 99–36, §2, May 15, 1985, 99 Stat. 68, repealed section 22 of Pub. L. 98–557 and the amendments made by that section, which added first identical item 3102, effective Nov. 8, 1984, thereby leaving Pub. L. 98–623 as the sole authority for the addition of item 3102. See 1984 Amendment note below.
 

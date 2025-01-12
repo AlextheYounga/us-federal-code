@@ -10,4 +10,4 @@ Section was formerly classified to section 5a of Title 8, Aliens and Nationality
 
 #### Change of Name ####
 
-“Puerto Rico” substituted in text for “Porto Rico” pursuant to act May 17, 1932, which is classified to section 731a of this title.
+"Puerto Rico" substituted in text for "Porto Rico" pursuant to act May 17, 1932, which is classified to section 731a of this title.

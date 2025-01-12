@@ -10,4 +10,4 @@ Date of approval of this Act or any amendment thereto, referred to in text, mean
 
 #### Amendments ####
 
-**1971**—Pub. L. 92–154 inserted “or any amendment thereto” after “date of approval of this Act”.
+**1971**—Pub. L. 92–154 inserted "or any amendment thereto" after "date of approval of this Act".

@@ -30,7 +30,7 @@ Pub. L. 99–198, §1663(2), inserted provisions directing that confidential inf
 
 #### Release of Information ####
 
-Pub. L. 103–111, title VII, §715, Oct. 21, 1993, 107 Stat. 1079, provided that: “Hereafter, none of the funds available to the Department of Agriculture may be expended to release information acquired from any handler under the Agricultural Marketing Agreement Act of 1937, as amended [see section 674 of this title]: *Provided*, That this provision shall not prohibit the release of information to other Federal agencies for enforcement purposes: *Provided further*, That this provision shall not prohibit the release of aggregate statistical data used in formulating regulations pursuant to the Agricultural Marketing Agreement Act of 1937, as amended: *Provided further*, That this provision shall not prohibit the release of information submitted by milk handlers.”
+Pub. L. 103–111, title VII, §715, Oct. 21, 1993, 107 Stat. 1079, provided that: "Hereafter, none of the funds available to the Department of Agriculture may be expended to release information acquired from any handler under the Agricultural Marketing Agreement Act of 1937, as amended [see section 674 of this title]: *Provided*, That this provision shall not prohibit the release of information to other Federal agencies for enforcement purposes: *Provided further*, That this provision shall not prohibit the release of aggregate statistical data used in formulating regulations pursuant to the Agricultural Marketing Agreement Act of 1937, as amended: *Provided further*, That this provision shall not prohibit the release of information submitted by milk handlers."
 
 Similar provisions were contained in the following prior appropriation acts:
 

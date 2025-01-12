@@ -18,4 +18,4 @@ Amendment by Pub. L. 100–647 applicable to all periods beginning before, on, o
 
 #### Short Title of 2000 Amendment ####
 
-Pub. L. 106–179, §1, Mar. 14, 2000, 114 Stat. 46, provided that: “This Act [amending sections 81 and 476 of this title] may be cited as the ‘Indian Tribal Economic Development and Contract Encouragement Act of 2000’.”
+Pub. L. 106–179, §1, Mar. 14, 2000, 114 Stat. 46, provided that: "This Act [amending sections 81 and 476 of this title] may be cited as the 'Indian Tribal Economic Development and Contract Encouragement Act of 2000'."

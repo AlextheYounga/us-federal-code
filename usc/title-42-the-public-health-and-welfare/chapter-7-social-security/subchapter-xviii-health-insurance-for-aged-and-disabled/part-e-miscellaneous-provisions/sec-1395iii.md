@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-The Secretary shall establish under this subchapter a Transitional Fund for Sustainable Growth Rate (SGR) Reform (in this section referred to as the “Fund”) which shall be available to the Secretary to provide funds to pay for physicians’ services under part B to supplement the conversion factor under section 1395w–4(d) of this title for 2017 if the conversion factor for 2017 is less than conversion <sup><a href="#1395iii_1_target" name="1395iii_1">1</a></sup> factor for 2013.
+The Secretary shall establish under this subchapter a Transitional Fund for Sustainable Growth Rate (SGR) Reform (in this section referred to as the "Fund") which shall be available to the Secretary to provide funds to pay for physicians' services under part B to supplement the conversion factor under section 1395w–4(d) of this title for 2017 if the conversion factor for 2017 is less than conversion <sup><a href="#1395iii_1_target" name="1395iii_1">1</a></sup> factor for 2013.
 
 #### (b) Funding ####
 
@@ -26,44 +26,44 @@ In the case that expenditures from the Fund are applied to, or otherwise affect,
 
 #### Amendments ####
 
-**2014**—Pub. L. 113–82, §3(1), substituted “Transitional Fund for Sustainable Growth Rate (SGR) Reform” for “Medicare Improvement Fund” in section catchline.
+**2014**—Pub. L. 113–82, §3(1), substituted "Transitional Fund for Sustainable Growth Rate (SGR) Reform" for "Medicare Improvement Fund" in section catchline.
 
-Subsec. (a). Pub. L. 113–82, §3(2), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary shall establish under this subchapter a Medicare Improvement Fund (in this section referred to as the ‘Fund’) which shall be available to the Secretary to make improvements under the original medicare fee-for-service program under parts A and B for individuals entitled to, or enrolled for, benefits under part A or enrolled under part B including, but not limited to, an increase in the conversion factor under section 1395w–4(d) of this title to address, in whole or in part, any projected shortfall in the conversion factor for 2014 relative to the conversion factor for 2008 and adjustments to payments for items and services furnished by providers of services and suppliers under such original medicare fee-for-service program.”
+Subsec. (a). Pub. L. 113–82, §3(2), amended subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary shall establish under this subchapter a Medicare Improvement Fund (in this section referred to as the 'Fund') which shall be available to the Secretary to make improvements under the original medicare fee-for-service program under parts A and B for individuals entitled to, or enrolled for, benefits under part A or enrolled under part B including, but not limited to, an increase in the conversion factor under section 1395w–4(d) of this title to address, in whole or in part, any projected shortfall in the conversion factor for 2014 relative to the conversion factor for 2008 and adjustments to payments for items and services furnished by providers of services and suppliers under such original medicare fee-for-service program."
 
-Subsec. (b)(1). Pub. L. 113–93 substituted “$0” for “$2,300,000,000”.
+Subsec. (b)(1). Pub. L. 113–93 substituted "$0" for "$2,300,000,000".
 
-Pub. L. 113–82, §3(3), substituted “during or after 2017, $2,300,000,000.” for “during—
+Pub. L. 113–82, §3(3), substituted "during or after 2017, $2,300,000,000." for "during—
 
-“(A) fiscal year 2014, $0; and
+"(A) fiscal year 2014, $0; and
 
-“(B) fiscal year 2015, $0.”
+"(B) fiscal year 2015, $0."
 
-Subsec. (b)(2). Pub. L. 113–82, §3(4), substituted “from the Federal Supplementary Medical Insurance Trust Fund.” for “from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in such proportion as the Secretary determines appropriate.”
+Subsec. (b)(2). Pub. L. 113–82, §3(4), substituted "from the Federal Supplementary Medical Insurance Trust Fund." for "from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in such proportion as the Secretary determines appropriate."
 
 **2013**—Subsec. (b)(1). Pub. L. 112–240 added subpars. (A) and (B) and struck out former subpars. (A) to (C) which read as follows:
 
-“(A) fiscal year 2014, $0;
+"(A) fiscal year 2014, $0;
 
-“(B) fiscal year 2015, $275,000,000; and
+"(B) fiscal year 2015, $275,000,000; and
 
-“(C) fiscal year 2020 and each subsequent fiscal year, the Secretary's estimate, as of July 1 of the fiscal year, of the aggregate reduction in expenditures under this subchapter during the preceding fiscal year directly resulting from the reduction in payment amounts under sections 1395w–4(a)(7), 1395w–23(l)(4), 1395w–23(m)(4), and 1395ww(b)(3)(B)(ix) of this title.”
+"(C) fiscal year 2020 and each subsequent fiscal year, the Secretary's estimate, as of July 1 of the fiscal year, of the aggregate reduction in expenditures under this subchapter during the preceding fiscal year directly resulting from the reduction in payment amounts under sections 1395w–4(a)(7), 1395w–23(l)(4), 1395w–23(m)(4), and 1395ww(b)(3)(B)(ix) of this title."
 
-**2010**—Subsec. (b)(1)(A). Pub. L. 111–148, which directed substitution of “$0” for “$22,290,000,000”, was executed by making the substitution for “$20,740,000,000” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 111–118, §1011(b)(1)(A). See 2009 Amendment note below.
+**2010**—Subsec. (b)(1)(A). Pub. L. 111–148, which directed substitution of "$0" for "$22,290,000,000", was executed by making the substitution for "$20,740,000,000" to reflect the probable intent of Congress and the intervening amendment by Pub. L. 111–118, §1011(b)(1)(A). See 2009 Amendment note below.
 
-Subsec. (b)(1)(B). Pub. L. 111–309 substituted “$275,000,000” for “$550,000,000”.
+Subsec. (b)(1)(B). Pub. L. 111–309 substituted "$275,000,000" for "$550,000,000".
 
-**2009**—Subsec. (a). Pub. L. 111–5, §4103(b)(1), inserted “medicare” before “fee-for-service program under” and “including, but not limited to, an increase in the conversion factor under section 1395w–4(d) of this title to address, in whole or in part, any projected shortfall in the conversion factor for 2014 relative to the conversion factor for 2008 and adjustments to payments for items and services furnished by providers of services and suppliers under such original medicare fee-for-service program” before period at end.
+**2009**—Subsec. (a). Pub. L. 111–5, §4103(b)(1), inserted "medicare" before "fee-for-service program under" and "including, but not limited to, an increase in the conversion factor under section 1395w–4(d) of this title to address, in whole or in part, any projected shortfall in the conversion factor for 2014 relative to the conversion factor for 2008 and adjustments to payments for items and services furnished by providers of services and suppliers under such original medicare fee-for-service program" before period at end.
 
-Subsec. (b)(1). Pub. L. 111–5, §4103(b)(2)(A), substituted “during—” for “during fiscal year 2014, $2,290,000,000 and, in addition for services furnished during fiscal years 2014 through 2017, $19,900,000,000.” and added subpars. (A) and (B).
+Subsec. (b)(1). Pub. L. 111–5, §4103(b)(2)(A), substituted "during—" for "during fiscal year 2014, $2,290,000,000 and, in addition for services furnished during fiscal years 2014 through 2017, $19,900,000,000." and added subpars. (A) and (B).
 
-Subsec. (b)(1)(A). Pub. L. 111–118, §1011(b)(1)(A), substituted “$20,740,000,000” for “$22,290,000,000”.
+Subsec. (b)(1)(A). Pub. L. 111–118, §1011(b)(1)(A), substituted "$20,740,000,000" for "$22,290,000,000".
 
 Subsec. (b)(1)(B), (C). Pub. L. 111–118, §1011(b)(1)(B)–(3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 Subsec. (b)(4). Pub. L. 111–5, §4103(b)(2)(B), added par. (4).
 
-**2008**—Subsec. (b)(1). Pub. L. 110–379 substituted “$2,290,000,000” for “$2,220,000,000”.
+**2008**—Subsec. (b)(1). Pub. L. 110–379 substituted "$2,290,000,000" for "$2,220,000,000".
 
-Pub. L. 110–275 inserted “and, in addition for services furnished during fiscal years 2014 through 2017, $19,900,000,000” before period at end.
+Pub. L. 110–275 inserted "and, in addition for services furnished during fiscal years 2014 through 2017, $19,900,000,000" before period at end.
 
-[<sup>1</sup> So in original. Probably should be preceded by “the”.](#1395iii_1)
+[<sup>1</sup> So in original. Probably should be preceded by "the".](#1395iii_1)

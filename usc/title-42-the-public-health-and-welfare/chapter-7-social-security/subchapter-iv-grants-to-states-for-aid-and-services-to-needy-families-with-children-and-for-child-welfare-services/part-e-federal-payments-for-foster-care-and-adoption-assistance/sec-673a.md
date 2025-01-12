@@ -10,4 +10,4 @@ Section was enacted as part of the Adoption Assistance and Child Welfare Act of 
 
 #### Change of Name ####
 
-“Secretary of Health and Human Services” was substituted for “Secretary of Health, Education, and Welfare” in text, pursuant to Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" was substituted for "Secretary of Health, Education, and Welfare" in text, pursuant to Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.

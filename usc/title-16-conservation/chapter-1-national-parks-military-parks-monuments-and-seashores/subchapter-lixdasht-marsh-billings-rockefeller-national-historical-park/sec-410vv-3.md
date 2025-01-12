@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-There is established the Marsh-Billings-Rockefeller National Historical Park Scenic Zone (hereinafter in this subchapter referred to as the “scenic zone”), which shall include those lands as generally depicted on the map entitled “Marsh-Billings-Rockefeller National Historical Park Scenic Zone Map” and dated November 19, 1991.
+There is established the Marsh-Billings-Rockefeller National Historical Park Scenic Zone (hereinafter in this subchapter referred to as the "scenic zone"), which shall include those lands as generally depicted on the map entitled "Marsh-Billings-Rockefeller National Historical Park Scenic Zone Map" and dated November 19, 1991.
 
 #### (b) Purpose ####
 
@@ -16,4 +16,4 @@ Within the boundaries of the scenic zone, the Secretary is authorized only to ac
 
 #### Amendments ####
 
-**1998**—Pub. L. 105–277 substituted “Marsh-Billings-Rockefeller” for “Marsh-Billings” in section catchline and wherever appearing in subsecs. (a) and (b).
+**1998**—Pub. L. 105–277 substituted "Marsh-Billings-Rockefeller" for "Marsh-Billings" in section catchline and wherever appearing in subsecs. (a) and (b).

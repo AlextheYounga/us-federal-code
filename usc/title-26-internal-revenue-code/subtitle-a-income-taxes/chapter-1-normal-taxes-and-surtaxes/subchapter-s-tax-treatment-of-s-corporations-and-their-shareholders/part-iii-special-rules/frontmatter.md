@@ -14,6 +14,6 @@ Sec.
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–188, title I, §1311(b)(2)(D), Aug. 20, 1996, 110 Stat. 1784, substituted “accumulated” for “subchapter C” in item 1375.
+**1996**—Pub. L. 104–188, title I, §1311(b)(2)(D), Aug. 20, 1996, 110 Stat. 1784, substituted "accumulated" for "subchapter C" in item 1375.
 
-**1986**—Pub. L. 99–514, title VI, §632(d), Oct. 22, 1986, 100 Stat. 2277, substituted “built-in” for “capital” in item 1374.
+**1986**—Pub. L. 99–514, title VI, §632(d), Oct. 22, 1986, 100 Stat. 2277, substituted "built-in" for "capital" in item 1374.

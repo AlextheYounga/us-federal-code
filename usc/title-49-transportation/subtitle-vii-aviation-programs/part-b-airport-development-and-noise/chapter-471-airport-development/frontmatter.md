@@ -114,12 +114,12 @@ Sec.
 
 #### Amendments ####
 
-**2012**—Pub. L. 112–95, title I, §148(b), title V, §§511(c), 512(b), Feb. 14, 2012, 126 Stat. 32, 108, 109, substituted “Resolution of disputes concerning airport fees” for “Resolution of airport-air carrier disputes concerning airport fees” in item 47129 and added items 47136a and 47140a.
+**2012**—Pub. L. 112–95, title I, §148(b), title V, §§511(c), 512(b), Feb. 14, 2012, 126 Stat. 32, 108, 109, substituted "Resolution of disputes concerning airport fees" for "Resolution of airport-air carrier disputes concerning airport fees" in item 47129 and added items 47136a and 47140a.
 
 **2003**—Pub. L. 108–176, title I, §§152(b), 158(b), 159(a)(2), 160(b), 181(b), title III, §304(b), Dec. 12, 2003, 117 Stat. 2507, 2509, 2510, 2513, 2515, 2538, added items 47138 to 47142, subchapter III heading, and items 47171 to 47175.
 
-**2000**—Pub. L. 106–181, title I, §§123(a)(2), 132(b), 133(b), 134(b), 135(d)(4), Apr. 5, 2000, 114 Stat. 74, 81–83, 85, struck out item 47132 “Pavement maintenance”, added items 47135 to 47137, and substituted “conveyances” for “gifts” in item 47152.
+**2000**—Pub. L. 106–181, title I, §§123(a)(2), 132(b), 133(b), 134(b), 135(d)(4), Apr. 5, 2000, 114 Stat. 74, 81–83, 85, struck out item 47132 "Pavement maintenance", added items 47135 to 47137, and substituted "conveyances" for "gifts" in item 47152.
 
-**1996**—Pub. L. 104–264, title I, §§142(c), 147(c)(2), 149(a)(2), title VIII, §804(c), Oct. 9, 1996, 110 Stat. 3221, 3223, 3226, 3271, substituted “grant program” for “grant pilot program” in item 47128 and added items 47132, 47133, and 47134.
+**1996**—Pub. L. 104–264, title I, §§142(c), 147(c)(2), 149(a)(2), title VIII, §804(c), Oct. 9, 1996, 110 Stat. 3221, 3223, 3226, 3271, substituted "grant program" for "grant pilot program" in item 47128 and added items 47132, 47133, and 47134.
 
 **1994**—Pub. L. 103–305, title I, §§113(b), 118(b), Aug. 23, 1994, 108 Stat. 1579, 1580, added items 47129 and 47130 and redesignated former item 47129 as 47131.

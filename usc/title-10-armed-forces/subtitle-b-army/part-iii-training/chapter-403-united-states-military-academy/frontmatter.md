@@ -88,20 +88,20 @@ Pub. L. 108–375, div. A, title V, §544(a)(2), Oct. 28, 2004, 118 Stat. 1906, 
 
 **1997**—Pub. L. 105–85, div. A, title V, §542(a)(2), Nov. 18, 1997, 111 Stat. 1741, added item 4345.
 
-**1996**—Pub. L. 104–106, div. A, title V, §533(a)(2), Feb. 10, 1996, 110 Stat. 315, struck out item 4357 “Athletics program: athletic director; nonappropriated fund account”.
+**1996**—Pub. L. 104–106, div. A, title V, §533(a)(2), Feb. 10, 1996, 110 Stat. 315, struck out item 4357 "Athletics program: athletic director; nonappropriated fund account".
 
 **1994**—Pub. L. 103–337, div. A, title V, §556(a)(2), Oct. 5, 1994, 108 Stat. 2774, added item 4357.
 
 **1993**—Pub. L. 103–160, div. A, title V, §533(a)(2), Nov. 30, 1993, 107 Stat. 1658, added item 4338.
 
-**1983**—Pub. L. 98–94, title X, §1004(a)(3), Sept. 24, 1983, 97 Stat. 658, substituted “from foreign countries” for “from Canada and American Republics” in item 4344, and struck out item 4345 “Selection of Filipinos”.
+**1983**—Pub. L. 98–94, title X, §1004(a)(3), Sept. 24, 1983, 97 Stat. 658, substituted "from foreign countries" for "from Canada and American Republics" in item 4344, and struck out item 4345 "Selection of Filipinos".
 
 **1982**—Pub. L. 97–295, §1(41)(B), Oct. 12, 1982, 96 Stat. 1298, added item 4356.
 
 **1981**—Pub. L. 97–60, title II, §203(a)(2)(B), Oct. 14, 1981, 95 Stat. 1006, added item 4341a.
 
-**1978**—Pub. L. 95–551, §4(b), Oct. 30, 1978, 92 Stat. 2069, substituted “Establishment; Superintendent; faculty” for “Superintendent; faculty; adjutant; chaplain” in item 4331, “director of admissions” for “registrar” in item 4336, and struck out item 4338 “Director of music”.
+**1978**—Pub. L. 95–551, §4(b), Oct. 30, 1978, 92 Stat. 2069, substituted "Establishment; Superintendent; faculty" for "Superintendent; faculty; adjutant; chaplain" in item 4331, "director of admissions" for "registrar" in item 4336, and struck out item 4338 "Director of music".
 
-**1968**—Pub. L. 90–623, §2(7), Oct. 22, 1968, 82 Stat. 1314, struck out item 4339 “Organist and choirmaster; civilian instructors in departments of foreign languages and tactics: quarters, fuel, and light”.
+**1968**—Pub. L. 90–623, §2(7), Oct. 22, 1968, 82 Stat. 1314, struck out item 4339 "Organist and choirmaster; civilian instructors in departments of foreign languages and tactics: quarters, fuel, and light".
 
-**1958**—Pub. L. 85–600, §1(12), Aug. 6, 1958, 72 Stat. 523, inserted “, registrar” in item 4336.
+**1958**—Pub. L. 85–600, §1(12), Aug. 6, 1958, 72 Stat. 523, inserted ", registrar" in item 4336.

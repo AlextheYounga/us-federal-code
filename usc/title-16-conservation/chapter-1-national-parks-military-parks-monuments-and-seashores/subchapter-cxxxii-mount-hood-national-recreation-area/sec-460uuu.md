@@ -6,7 +6,7 @@ To provide for the protection, preservation, and enhancement of recreational, ec
 
 #### (b) Boundary ####
 
-The Mount Hood National Recreation Area shall consist of certain Federal land managed by the Forest Service and Bureau of Land Management, comprising approximately 34,550 acres, as generally depicted on the maps entitled “National Recreation Areas—Mount Hood NRA”, “National Recreation Areas—Fifteenmile Creek NRA”, and “National Recreation Areas—Shellrock Mountain”, dated February 2007.
+The Mount Hood National Recreation Area shall consist of certain Federal land managed by the Forest Service and Bureau of Land Management, comprising approximately 34,550 acres, as generally depicted on the maps entitled "National Recreation Areas—Mount Hood NRA", "National Recreation Areas—Fifteenmile Creek NRA", and "National Recreation Areas—Shellrock Mountain", dated February 2007.
 
 #### (c) Map and legal description ####
 
@@ -96,7 +96,7 @@ Administrative jurisdiction over the Federal land described in paragraph (2) is 
 
 #### (2) Description of land ####
 
-The land referred to in paragraph (1) is the approximately 130 acres of land administered by the Bureau of Land Management that is within or adjacent to the Mount Hood National Recreation Area and that is identified as “BLM Lands” on the map entitled “National Recreation Areas—Shellrock Mountain”, dated February 2007.
+The land referred to in paragraph (1) is the approximately 130 acres of land administered by the Bureau of Land Management that is within or adjacent to the Mount Hood National Recreation Area and that is identified as "BLM Lands" on the map entitled "National Recreation Areas—Shellrock Mountain", dated February 2007.
 
 (Pub. L. 111–11, title I, §1204, Mar. 30, 2009, 123 Stat. 1013.)
 
@@ -110,10 +110,10 @@ The Wilderness Act, referred to in subsec. (d)(2), is Pub. L. 88–577, Sept. 3,
 
 #### Definitions ####
 
-Pub. L. 111–11, title I, §1201, Mar. 30, 2009, 123 Stat. 1007, provided that: “In this subtitle [subtitle C (§§1201–1207) of title I of Pub. L. 111–11, see References in Text note above]:
+Pub. L. 111–11, title I, §1201, Mar. 30, 2009, 123 Stat. 1007, provided that: "In this subtitle [subtitle C (§§1201–1207) of title I of Pub. L. 111–11, see References in Text note above]:
 
-“(1) Secretary.—The term ‘Secretary’ means the Secretary of Agriculture.
+"(1) Secretary.—The term 'Secretary' means the Secretary of Agriculture.
 
-“(2) State.—The term ‘State’ means the State of Oregon.”
+"(2) State.—The term 'State' means the State of Oregon."
 
 [<sup>1</sup> See References in Text note below.](#460uuu_1)

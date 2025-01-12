@@ -8,7 +8,7 @@ Sec.
 
 44103. Registration of aircraft.
 
-44104. Registration of aircraft components and dealers’ certificates of registration.
+44104. Registration of aircraft components and dealers' certificates of registration.
 
 44105. Suspension and revocation of aircraft certificates.
 

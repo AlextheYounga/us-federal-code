@@ -62,7 +62,7 @@ Sec.
 
 1273. Lake Pontchartrain Basin.
 
-1274. Wet weather watershed pilot projects.
+1274. Watershed pilot projects.
 
 #### SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS ####
 
@@ -231,6 +231,8 @@ Sec.
 1386. Audits, reports, and fiscal controls; intended use plan.
 
 1387. Authorization of appropriations.
+
+1388. Requirements.
 
 #### Codification ####
 

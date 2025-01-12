@@ -1,4 +1,4 @@
-### §831g. Principal office of Corporation; books; directors’ oath ###
+### §831g. Principal office of Corporation; books; directors' oath ###
 
 #### (a) Location ####
 
@@ -16,7 +16,7 @@ Each member of the Board, before entering upon the duties of his office, shall s
 
 #### Amendments ####
 
-**2004**—Subsec. (c). Pub. L. 108–447 substituted “Board” for “board”.
+**2004**—Subsec. (c). Pub. L. 108–447 substituted "Board" for "board".
 
 #### Effective Date of 2004 Amendment ####
 

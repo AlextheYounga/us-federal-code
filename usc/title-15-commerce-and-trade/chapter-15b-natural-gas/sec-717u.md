@@ -6,9 +6,9 @@ The District Courts of the United States and the United States courts of any Ter
 
 #### Codification ####
 
-The words “the District Court of the United States for the District of Columbia” following “The District Courts of the United States” omitted as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district” and section 88 of title 28 which states that “The District of Columbia constitutes one judicial district”.
+The words "the District Court of the United States for the District of Columbia" following "The District Courts of the United States" omitted as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that "There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district" and section 88 of title 28 which states that "The District of Columbia constitutes one judicial district".
 
-“Sections 1254, 1291, and 1292 of title 28” substituted in text for “sections 128 and 240 of the Judicial Code, as amended [28 U.S.C. 225 and 347]” on authority of act June 25, 1948, ch. 646, 62 Stat. 869, the first section of which enacted Title 28.
+"Sections 1254, 1291, and 1292 of title 28" substituted in text for "sections 128 and 240 of the Judicial Code, as amended [28 U.S.C. 225 and 347]" on authority of act June 25, 1948, ch. 646, 62 Stat. 869, the first section of which enacted Title 28.
 
 #### Prior Provisions ####
 

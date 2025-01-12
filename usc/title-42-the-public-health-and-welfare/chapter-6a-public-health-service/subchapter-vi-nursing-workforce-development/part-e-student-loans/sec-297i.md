@@ -22,7 +22,7 @@ A prior section 297k, act July 1, 1944, ch. 373, title VIII, §846, formerly §8
 
 #### Amendments ####
 
-**2010**—Pub. L. 111–148 substituted “this part” for “this subpart”.
+**2010**—Pub. L. 111–148 substituted "this part" for "this subpart".
 
 #### Effective Date ####
 

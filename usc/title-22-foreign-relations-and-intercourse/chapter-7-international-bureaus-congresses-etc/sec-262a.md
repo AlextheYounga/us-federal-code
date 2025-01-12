@@ -14,4 +14,4 @@ The international organizations covered by this Act, referred to in text, are th
 
 #### Amendments ####
 
-**2002**—Pub. L. 107–228 struck out at end “The Secretary of State shall report annually to the Congress on the extent and disposition of such contributions.”
+**2002**—Pub. L. 107–228 struck out at end "The Secretary of State shall report annually to the Congress on the extent and disposition of such contributions."

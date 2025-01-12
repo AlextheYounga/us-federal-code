@@ -54,7 +54,7 @@ Sec.
 
 2223d. Annual revision of recommendations.
 
-2223e. “Emergency response personnel” defined.
+2223e. "Emergency response personnel" defined.
 
 2224. Listings of places of public accommodation.
 

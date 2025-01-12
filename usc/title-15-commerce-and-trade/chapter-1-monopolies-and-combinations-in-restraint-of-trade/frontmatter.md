@@ -16,7 +16,7 @@ Sec.
 
 6a. Conduct involving trade or commerce with foreign nations.
 
-7. “Person” or “persons” defined.
+7. "Person" or "persons" defined.
 
 8. Trusts in restraint of import trade illegal; penalty.
 
@@ -112,7 +112,7 @@ Sec.
 
 #### Historical Note ####
 
-This chapter includes among other statutory provisions the Sherman Act, comprising sections 1 to 7 of this title, the Clayton Act, comprising sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of this title and sections 52 and 53 of Title 29, Labor, the Wilson Tariff Act, comprising sections 8 and 9 of this title, the Robinson-Patman Price Discrimination Act, comprising sections 13, 13a, 13b, and 21a of this title, the “Expediting Act”, sections 28 and 29 of this title, and the “Hart-Scott-Rodino Antitrust Improvements Act of 1976”, comprising sections 15c to 15h, 18a, and 66 of this title. For complete classification of the Hart-Scott-Rodino Act, see Short Title note under section 1 of this title.
+This chapter includes among other statutory provisions the Sherman Act, comprising sections 1 to 7 of this title, the Clayton Act, comprising sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of this title and sections 52 and 53 of Title 29, Labor, the Wilson Tariff Act, comprising sections 8 and 9 of this title, the Robinson-Patman Price Discrimination Act, comprising sections 13, 13a, 13b, and 21a of this title, the "Expediting Act", sections 28 and 29 of this title, and the "Hart-Scott-Rodino Antitrust Improvements Act of 1976", comprising sections 15c to 15h, 18a, and 66 of this title. For complete classification of the Hart-Scott-Rodino Act, see Short Title note under section 1 of this title.
 
 #### Congressional Investigation of Monopoly ####
 

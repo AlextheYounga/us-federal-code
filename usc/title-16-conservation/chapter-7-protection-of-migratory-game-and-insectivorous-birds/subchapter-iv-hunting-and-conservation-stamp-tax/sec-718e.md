@@ -24,17 +24,17 @@ of Migratory Bird Hunting and Conservation Stamps authorized by sections 718 to 
 
 **2006**—Pub. L. 109–266, §10(f)(1), inserted section catchline.
 
-Subsec. (a). Pub. L. 109–266, §10(f)(1), inserted heading and substituted “Migratory Bird Hunting and Conservation Stamp” for “migratory-bird hunting stamp” in text.
+Subsec. (a). Pub. L. 109–266, §10(f)(1), inserted heading and substituted "Migratory Bird Hunting and Conservation Stamp" for "migratory-bird hunting stamp" in text.
 
-Subsec. (b). Pub. L. 109–266, §10(f)(2), inserted heading and substituted “Except as provided in clauses (i) and (ii) of section 504(l)(D) of title 18, no person shall alter” for “Except as provided in clauses (i) and (ii) of section 504(1)(D) of title 18, no person shall alter” in text.
+Subsec. (b). Pub. L. 109–266, §10(f)(2), inserted heading and substituted "Except as provided in clauses (i) and (ii) of section 504(l)(D) of title 18, no person shall alter" for "Except as provided in clauses (i) and (ii) of section 504(1)(D) of title 18, no person shall alter" in text.
 
-Subsec. (c). Pub. L. 109–266, §10(f)(3)(C)(ii), which directed substitution of “shall be paid, after deducting expenses for marketing, into the Migratory Bird Conservation Fund” for “shall be paid into the migratory bird conservation fund” in concluding provisions, was executed by making the substitution for “shall be paid, after deducting expenses for marketing, into the migratory bird conservation fund” to reflect the probable intent of Congress.
+Subsec. (c). Pub. L. 109–266, §10(f)(3)(C)(ii), which directed substitution of "shall be paid, after deducting expenses for marketing, into the Migratory Bird Conservation Fund" for "shall be paid into the migratory bird conservation fund" in concluding provisions, was executed by making the substitution for "shall be paid, after deducting expenses for marketing, into the migratory bird conservation fund" to reflect the probable intent of Congress.
 
-Pub. L. 109–266, §10(f)(3)(A), (B), (C)(i), inserted heading, substituted “Secretary may” for “Secretary of the Interior may” in introductory provisions, and substituted “Secretary” for “Secretary of the Interior” and “Migratory Bird Hunting and Conservation Stamps” for “migratory bird hunting stamps” in concluding provisions.
+Pub. L. 109–266, §10(f)(3)(A), (B), (C)(i), inserted heading, substituted "Secretary may" for "Secretary of the Interior may" in introductory provisions, and substituted "Secretary" for "Secretary of the Interior" and "Migratory Bird Hunting and Conservation Stamps" for "migratory bird hunting stamps" in concluding provisions.
 
-**1988**—Subsec. (c). Pub. L. 100–653 inserted “, after deducting expenses for marketing,” after “paid”.
+**1988**—Subsec. (c). Pub. L. 100–653 inserted ", after deducting expenses for marketing," after "paid".
 
-**1984**—Subsec. (b). Pub. L. 98–369, §1077(b)(3), substituted “Except as provided in clauses (i) and (ii) of section 504(1)(D) of title 18, no person” for “No person”.
+**1984**—Subsec. (b). Pub. L. 98–369, §1077(b)(3), substituted "Except as provided in clauses (i) and (ii) of section 504(1)(D) of title 18, no person" for "No person".
 
 Subsec. (c). Pub. L. 98–369, §1077(a), added subsec. (c).
 
@@ -42,6 +42,6 @@ Subsec. (c). Pub. L. 98–369, §1077(a), added subsec. (c).
 
 #### Effective Date of 1984 Amendment ####
 
-Pub. L. 98–369, div. A, title X, §1077(c), July 18, 1984, 98 Stat. 1055, provided that: “The amendments made by this section [amending this section and section 504 of Title 18, Crimes and Criminal Procedure] shall take effect on the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. A, title X, §1077(c), July 18, 1984, 98 Stat. 1055, provided that: "The amendments made by this section [amending this section and section 504 of Title 18, Crimes and Criminal Procedure] shall take effect on the date of the enactment of this Act [July 18, 1984]."
 
-[<sup>1</sup> So in original. Probably should be “504(1)(D)”.](#718e_1)
+[<sup>1</sup> So in original. Probably should be "504(1)(D)".](#718e_1)

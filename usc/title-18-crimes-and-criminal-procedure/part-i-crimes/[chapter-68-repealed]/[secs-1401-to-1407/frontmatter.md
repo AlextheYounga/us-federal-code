@@ -1,6 +1,6 @@
 ### [§§1401 to 1407. Repealed. Pub. L. 91–513, title III, §1101(b)(1)(A), Oct. 27, 1970, 84 Stat. 1292] ###
 
-Section 1401, acts July 18, 1956, ch. 629, title II, §201, 70 Stat. 572; July 12, 1960, Pub. L. 86–624, §13(a), 74 Stat. 413, defined “heroin” and “United States”.
+Section 1401, acts July 18, 1956, ch. 629, title II, §201, 70 Stat. 572; July 12, 1960, Pub. L. 86–624, §13(a), 74 Stat. 413, defined "heroin" and "United States".
 
 Section 1402, act July 18, 1956, ch. 629, title II, §201, 70 Stat. 572, provided for surrender to Secretary of the Treasury of all legally possessed heroin within 120 days of July 19, 1956.
 

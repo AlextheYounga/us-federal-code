@@ -12,7 +12,7 @@ Section 103(a)(2) of Public Law 104–193, 110 Stat. 2159, referred to in subsec
 
 #### Amendments ####
 
-**2001**—Subsec. (a). Pub. L. 107–20 inserted “on and after October 11, 2000,” after “such amounts” and substituted “June 1 of the preceding fiscal year” for “June 1, 2000”.
+**2001**—Subsec. (a). Pub. L. 107–20 inserted "on and after October 11, 2000," after "such amounts" and substituted "June 1 of the preceding fiscal year" for "June 1, 2000".
 
 [<sup>1</sup> See References in Text note below.](#13f_1)
 

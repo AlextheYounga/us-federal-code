@@ -62,9 +62,9 @@ This Act, referred to in subsec. (b)(1), is Pub. L. 99–410, Aug. 28, 1986, 100
 
 **2011**—Subsec. (b)(2), (4), (11). Pub. L. 111–383, §1075(d)(4), (5), amended Pub. L. 111–84, §§584(a), 585(b)(1). See 2009 Amendment notes below.
 
-**2009**—Subsec. (b)(2). Pub. L. 111–84, §585(b)(1)(A), as added by Pub. L. 111–383, §1075(d)(5), substituted “section 1973ff–1(a)(4)” for “section 1973ff–1(4)”.
+**2009**—Subsec. (b)(2). Pub. L. 111–84, §585(b)(1)(A), as added by Pub. L. 111–383, §1075(d)(5), substituted "section 1973ff–1(a)(4)" for "section 1973ff–1(4)".
 
-Subsec. (b)(4). Pub. L. 111–84, §585(b)(1)(B), as added by Pub. L. 111–383, §1075(d)(5), added par. (4) and struck out former par. (4) which read as follows: “prescribe a suggested design for absentee ballot mailing envelopes for use by the States as recommended in section 1973ff–3 of this title;”.
+Subsec. (b)(4). Pub. L. 111–84, §585(b)(1)(B), as added by Pub. L. 111–383, §1075(d)(5), added par. (4) and struck out former par. (4) which read as follows: "prescribe a suggested design for absentee ballot mailing envelopes for use by the States as recommended in section 1973ff–3 of this title;".
 
 Subsec. (b)(8). Pub. L. 111–84, §580(b), added par. (8).
 
@@ -76,17 +76,17 @@ Subsec. (b)(11). Pub. L. 111–84, §584(a), as amended by Pub. L. 111–383, §
 
 Subsec. (d). Pub. L. 111–84, §583(a)(2)(B), added subsec. (d).
 
-**2004**—Subsec. (b)(3). Pub. L. 108–375 substituted “absent uniformed services voters and overseas voters” for “overseas voters”.
+**2004**—Subsec. (b)(3). Pub. L. 108–375 substituted "absent uniformed services voters and overseas voters" for "overseas voters".
 
-**2002**—Subsec. (b)(1). Pub. L. 107–252, §705(a), inserted “, and ensure that such officials are aware of the requirements of this Act” before semicolon at end.
+**2002**—Subsec. (b)(1). Pub. L. 107–252, §705(a), inserted ", and ensure that such officials are aware of the requirements of this Act" before semicolon at end.
 
-Subsec. (b)(6). Pub. L. 107–252, §705(c), substituted “a separate statistical analysis” for “a general assessment”.
+Subsec. (b)(6). Pub. L. 107–252, §705(c), substituted "a separate statistical analysis" for "a general assessment".
 
 Subsec. (b)(7). Pub. L. 107–252, §705(b)(1), added par. (7).
 
-**2001**—Subsec. (b)(2). Pub. L. 107–107 substituted “as required under section 1973ff–1(4) of this title” for “as recommended in section 1973ff–3 of this title”.
+**2001**—Subsec. (b)(2). Pub. L. 107–107 substituted "as required under section 1973ff–1(4) of this title" for "as recommended in section 1973ff–3 of this title".
 
-**1998**—Subsec. (b)(6). Pub. L. 105–277 substituted “of uniformed services voter participation, a general assessment of overseas nonmilitary participation,” for “of voter participation”.
+**1998**—Subsec. (b)(6). Pub. L. 105–277 substituted "of uniformed services voter participation, a general assessment of overseas nonmilitary participation," for "of voter participation".
 
 #### Effective Date of 2011 Amendment ####
 
@@ -94,89 +94,89 @@ Pub. L. 111–383, div. A, title X, §1075(d), Jan. 7, 2011, 124 Stat. 4372, pro
 
 #### Effective Date of 2009 Amendment ####
 
-Pub. L. 111–84, div. A, title V, §580(f), Oct. 28, 2009, 123 Stat. 2326, provided that: “The amendments made by this section [enacting section 1973ff–2a of this title and amending this section and section 1973ff–1 of this title] shall apply with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office.”
+Pub. L. 111–84, div. A, title V, §580(f), Oct. 28, 2009, 123 Stat. 2326, provided that: "The amendments made by this section [enacting section 1973ff–2a of this title and amending this section and section 1973ff–1 of this title] shall apply with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office."
 
-Pub. L. 111–84, div. A, title V, §583(a)(3), Oct. 28, 2009, 123 Stat. 2328, provided that: “The amendments made by this subsection [enacting section 1973ff–2b of this title and amending this section] shall apply with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office.”
+Pub. L. 111–84, div. A, title V, §583(a)(3), Oct. 28, 2009, 123 Stat. 2328, provided that: "The amendments made by this subsection [enacting section 1973ff–2b of this title and amending this section] shall apply with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office."
 
-Pub. L. 111–84, div. A, title V, §584(c), Oct. 28, 2009, 123 Stat. 2331, provided that: “The amendments made by this section [amending this section and section 1973ff–1 of this title] shall apply with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office.”
+Pub. L. 111–84, div. A, title V, §584(c), Oct. 28, 2009, 123 Stat. 2331, provided that: "The amendments made by this section [amending this section and section 1973ff–1 of this title] shall apply with respect to the regularly scheduled general election for Federal office held in November 2010 and each succeeding election for Federal office."
 
 #### Effective Date ####
 
-Pub. L. 99–410, title II, §204, Aug. 28, 1986, 100 Stat. 930, provided that: “The amendments and repeals made by this Act [see Short Title of 1986 Amendment note set out under section 1971 of this title] shall apply with respect to elections taking place after December 31, 1987.”
+Pub. L. 99–410, title II, §204, Aug. 28, 1986, 100 Stat. 930, provided that: "The amendments and repeals made by this Act [see Short Title of 1986 Amendment note set out under section 1971 of this title] shall apply with respect to elections taking place after December 31, 1987."
 
 #### Sense of Congress Regarding the Importance of Voting ####
 
 Pub. L. 107–107, div. A, title XVI, §1601, Dec. 28, 2001, 115 Stat. 1274, provided that:
 
-“(a) Sense of Congress.—It is the sense of Congress that each person who is an administrator of a Federal, State, or local election—
+"(a) Sense of Congress.—It is the sense of Congress that each person who is an administrator of a Federal, State, or local election—
 
-“(1) should be aware of the importance of the ability of each uniformed services voter to exercise the right to vote; and
+"(1) should be aware of the importance of the ability of each uniformed services voter to exercise the right to vote; and
 
-“(2) should perform that person's duties as an election administrator with the intent to ensure that—
+"(2) should perform that person's duties as an election administrator with the intent to ensure that—
 
-“(A) each uniformed services voter receives the utmost consideration and cooperation when voting;
+"(A) each uniformed services voter receives the utmost consideration and cooperation when voting;
 
-“(B) each valid ballot cast by such a voter is duly counted; and
+"(B) each valid ballot cast by such a voter is duly counted; and
 
-“(C) all eligible American voters, regardless of race, ethnicity, disability, the language they speak, or the resources of the community in which they live, should have an equal opportunity to cast a vote and to have that vote counted.
+"(C) all eligible American voters, regardless of race, ethnicity, disability, the language they speak, or the resources of the community in which they live, should have an equal opportunity to cast a vote and to have that vote counted.
 
-“(b) Uniformed Services Voter Defined.—In this section, the term ‘uniformed services voter’ means—
+"(b) Uniformed Services Voter Defined.—In this section, the term 'uniformed services voter' means—
 
-“(1) a member of a uniformed service (as defined in section 101(a)(5) of title 10, United States Code) in active service;
+"(1) a member of a uniformed service (as defined in section 101(a)(5) of title 10, United States Code) in active service;
 
-“(2) a member of the merchant marine (as defined in section 107 of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–6)); and
+"(2) a member of the merchant marine (as defined in section 107 of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–6)); and
 
-“(3) a spouse or dependent of a member referred to in paragraph (1) or (2) who is qualified to vote.”
+"(3) a spouse or dependent of a member referred to in paragraph (1) or (2) who is qualified to vote."
 
 #### Electronic Voting Demonstration Project ####
 
 Pub. L. 107–107, div. A, title XVI, §1604, Dec. 28, 2001, 115 Stat. 1277, as amended by Pub. L. 108–375, div. A, title V, §567, Oct. 28, 2004, 118 Stat. 1919, provided that:
 
-“(a) Establishment of Demonstration Project.—
+"(a) Establishment of Demonstration Project.—
 
-“(1) In general.—Subject to paragraph (2), the Secretary of Defense shall carry out a demonstration project under which absent uniformed services voters are permitted to cast ballots in the regularly scheduled general election for Federal office for November 2002 through an electronic voting system. The project shall be carried out with participation of sufficient numbers of absent uniformed services voters so that the results are statistically relevant.
+"(1) In general.—Subject to paragraph (2), the Secretary of Defense shall carry out a demonstration project under which absent uniformed services voters are permitted to cast ballots in the regularly scheduled general election for Federal office for November 2002 through an electronic voting system. The project shall be carried out with participation of sufficient numbers of absent uniformed services voters so that the results are statistically relevant.
 
-“(2) Authority to delay implementation.—If the Secretary of Defense determines that the implementation of the demonstration project under paragraph (1) with respect to the regularly scheduled general election for Federal office for November 2002 may adversely affect the national security of the United States, the Secretary may delay the implementation of such demonstration project until the first regularly scheduled general election for Federal office which occurs after the Election Assistance Commission notifies the Secretary that the Commission has established electronic absentee voting guidelines and certifies that it will assist the Secretary in carrying out the project. The Secretary shall notify the Committee on Armed Services and the Committee on Rules and Administration of the Senate and the Committee on Armed Services and the Committee on House Administration of the House of Representatives of any decision to delay implementation of the demonstration project.
+"(2) Authority to delay implementation.—If the Secretary of Defense determines that the implementation of the demonstration project under paragraph (1) with respect to the regularly scheduled general election for Federal office for November 2002 may adversely affect the national security of the United States, the Secretary may delay the implementation of such demonstration project until the first regularly scheduled general election for Federal office which occurs after the Election Assistance Commission notifies the Secretary that the Commission has established electronic absentee voting guidelines and certifies that it will assist the Secretary in carrying out the project. The Secretary shall notify the Committee on Armed Services and the Committee on Rules and Administration of the Senate and the Committee on Armed Services and the Committee on House Administration of the House of Representatives of any decision to delay implementation of the demonstration project.
 
-“(b) Coordination With State Election Officials.—The Secretary shall carry out the demonstration project under this section through cooperative agreements with State election officials of States that agree to participate in the project.
+"(b) Coordination With State Election Officials.—The Secretary shall carry out the demonstration project under this section through cooperative agreements with State election officials of States that agree to participate in the project.
 
-“(c) Report to Congress.—Not later than June 1 of the year following the year in which the demonstration project is conducted under this section, the Secretary of Defense shall submit to Congress a report analyzing the demonstration project. The Secretary shall include in the report any recommendations the Secretary considers appropriate for continuing the project on an expanded basis for absent uniformed services voters during the next regularly scheduled general election for Federal office.
+"(c) Report to Congress.—Not later than June 1 of the year following the year in which the demonstration project is conducted under this section, the Secretary of Defense shall submit to Congress a report analyzing the demonstration project. The Secretary shall include in the report any recommendations the Secretary considers appropriate for continuing the project on an expanded basis for absent uniformed services voters during the next regularly scheduled general election for Federal office.
 
-“(d) Definitions.—In this section:
+"(d) Definitions.—In this section:
 
-“(1) Absent uniformed services voter.—The term ‘absent uniformed services voter’ has the meaning given that term in section 107(1) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–6(1)).
+"(1) Absent uniformed services voter.—The term 'absent uniformed services voter' has the meaning given that term in section 107(1) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–6(1)).
 
-“(2) State.—The term ‘State’ includes the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and American Samoa.”
+"(2) State.—The term 'State' includes the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and American Samoa."
 
-#### Governors’ Reports on Implementation of Recommendations for Changes in State Law Made Under Federal Voting Assistance Program ####
+#### Governors' Reports on Implementation of Recommendations for Changes in State Law Made Under Federal Voting Assistance Program ####
 
 Pub. L. 107–107, div. A, title XVI, §1605, Dec. 28, 2001, 115 Stat. 1277, provided that:
 
-“(a) Reports.—(1) Whenever a State receives a uniformed services voting assistance legislative recommendation from the Secretary of Defense, acting as the Presidential designee, the chief executive authority of that State shall, not later than 90 days after receipt of that recommendation, provide a report on the status of implementation of that recommendation by that State.
+"(a) Reports.—(1) Whenever a State receives a uniformed services voting assistance legislative recommendation from the Secretary of Defense, acting as the Presidential designee, the chief executive authority of that State shall, not later than 90 days after receipt of that recommendation, provide a report on the status of implementation of that recommendation by that State.
 
-“(2) If a legislative recommendation referred to in paragraph (1) has been implemented, in whole or in part, by a State, the report of the chief executive authority of that State under that paragraph with respect to that recommendation shall include a description of the changes made to State law to implement the recommendation. If the recommendation has not been implemented, the report shall include a statement of the status of the recommendation before the State legislature and a statement of any recommendation the chief executive officer has made or intends to make to the legislature with respect to that recommendation.
+"(2) If a legislative recommendation referred to in paragraph (1) has been implemented, in whole or in part, by a State, the report of the chief executive authority of that State under that paragraph with respect to that recommendation shall include a description of the changes made to State law to implement the recommendation. If the recommendation has not been implemented, the report shall include a statement of the status of the recommendation before the State legislature and a statement of any recommendation the chief executive officer has made or intends to make to the legislature with respect to that recommendation.
 
-“(3) Any report under paragraph (1) shall be transmitted to the Secretary of Defense, acting as the Presidential designee. The Secretary shall transmit a copy of the response to each Member of Congress who represents that State.
+"(3) Any report under paragraph (1) shall be transmitted to the Secretary of Defense, acting as the Presidential designee. The Secretary shall transmit a copy of the response to each Member of Congress who represents that State.
 
-“(b) Period of Applicability.—This section applies with respect to any uniformed services voting assistance legislative recommendation transmitted to a State by the Secretary of Defense, acting as the Presidential designee, during the three-year period beginning on the date of the enactment of this Act [Dec. 28, 2001].
+"(b) Period of Applicability.—This section applies with respect to any uniformed services voting assistance legislative recommendation transmitted to a State by the Secretary of Defense, acting as the Presidential designee, during the three-year period beginning on the date of the enactment of this Act [Dec. 28, 2001].
 
-“(c) Definitions.—In this section:
+"(c) Definitions.—In this section:
 
-“(1) The term ‘uniformed services voting assistance legislative recommendation’ means a recommendation of the Presidential designee for a modification in the laws of a State for the purpose of improving the access to the polls of absent uniformed services voters and overseas voters.
+"(1) The term 'uniformed services voting assistance legislative recommendation' means a recommendation of the Presidential designee for a modification in the laws of a State for the purpose of improving the access to the polls of absent uniformed services voters and overseas voters.
 
-“(2) The term ‘Presidential designee’ means the head of the executive department designated by the President under section 101(a) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff(a)).
+"(2) The term 'Presidential designee' means the head of the executive department designated by the President under section 101(a) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff(a)).
 
-“(3) The term ‘State’ includes the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and American Samoa.
+"(3) The term 'State' includes the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and American Samoa.
 
-“(4) The term ‘Member of Congress’ includes a Delegate or Resident Commissioner to the Congress.”
+"(4) The term 'Member of Congress' includes a Delegate or Resident Commissioner to the Congress."
 
 #### Ex. Ord. No. 12642. Designation of Secretary of Defense as Presidential Designee ####
 
 Ex. Ord. No. 12642, June 8, 1988, 53 F.R. 21975, provided:
 
-By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, including section 101(a) of the Uniformed and Overseas Citizens Absentee Voting Act (Public Law 99–410) (“the Act”) [42 U.S.C. 1973ff(a)], it is hereby ordered as follows:
+By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, including section 101(a) of the Uniformed and Overseas Citizens Absentee Voting Act (Public Law 99–410) ("the Act") [42 U.S.C. 1973ff(a)], it is hereby ordered as follows:
 
-Section 1. The Secretary of Defense is hereby designated as the “Presidential designee” under Title I of the Act [42 U.S.C. 1973ff et seq.].
+Section 1. The Secretary of Defense is hereby designated as the "Presidential designee" under Title I of the Act [42 U.S.C. 1973ff et seq.].
 
 Sec. 2. In order to effectuate the purposes of the Act [see Short Title note above], the Secretary of Defense is hereby authorized to delegate any or all of the functions, responsibilities, powers, authority, or discretion devolving upon him in consequence of this Order to any person or persons within the Department of Defense.
 

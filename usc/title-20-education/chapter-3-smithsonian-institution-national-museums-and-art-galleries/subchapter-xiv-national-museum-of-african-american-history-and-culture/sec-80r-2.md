@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-There is established within the Smithsonian Institution a museum to be known as the “National Museum of African American History and Culture”.
+There is established within the Smithsonian Institution a museum to be known as the "National Museum of African American History and Culture".
 
 #### (b) Purpose ####
 

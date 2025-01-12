@@ -46,14 +46,14 @@ Pub. L. 90–351 enacted section 3103a of this title as part of chapter 204, and
 
 #### Amendments ####
 
-**1990**—Pub. L. 101–647, title XXXV, §3573(d), Nov. 29, 1990, 104 Stat. 4929, struck out item 3112 “Search warrants for seizure of animals, birds, or eggs” and renumbered item 3117, “Implied consent for certain tests”, as 3118.
+**1990**—Pub. L. 101–647, title XXXV, §3573(d), Nov. 29, 1990, 104 Stat. 4929, struck out item 3112 "Search warrants for seizure of animals, birds, or eggs" and renumbered item 3117, "Implied consent for certain tests", as 3118.
 
-**1988**—Pub. L. 100–690, title VI, §6477(b)(2), Nov. 18, 1988, 102 Stat. 4381, added item 3117 “Implied consent for certain tests”.
+**1988**—Pub. L. 100–690, title VI, §6477(b)(2), Nov. 18, 1988, 102 Stat. 4381, added item 3117 "Implied consent for certain tests".
 
-**1986**—Pub. L. 99–508, title I, §108(b), Oct. 21, 1986, 100 Stat. 1858, added item 3117 “Mobile tracking devices”.
+**1986**—Pub. L. 99–508, title I, §108(b), Oct. 21, 1986, 100 Stat. 1858, added item 3117 "Mobile tracking devices".
 
 **1968**—Pub. L. 90–351, title IX, §1401(b), June 19, 1968, 82 Stat. 238, added item 3103a.
 
 #### Change of Name ####
 
-Words “magistrate judge” substituted for “magistrate” in item 3116 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words "magistrate judge" substituted for "magistrate" in item 3116 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.

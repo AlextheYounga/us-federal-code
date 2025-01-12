@@ -6,6 +6,6 @@ The Secretary shall conduct archeological studies of the areas added to the park
 
 #### (b) Other areas ####
 
-The Secretary shall conduct archeological studies of the areas described as the “Spruce Hill Works”, the “Harness Group”, and the “Cedar Bank Works”, and may conduct archeological studies of other areas significant to Hopewellian culture, to evaluate the desirability of adding them to the park, and shall report to Congress on any such areas that are recommended for addition to the park.
+The Secretary shall conduct archeological studies of the areas described as the "Spruce Hill Works", the "Harness Group", and the "Cedar Bank Works", and may conduct archeological studies of other areas significant to Hopewellian culture, to evaluate the desirability of adding them to the park, and shall report to Congress on any such areas that are recommended for addition to the park.
 
 (Pub. L. 102–294, §4, May 27, 1992, 106 Stat. 186.)

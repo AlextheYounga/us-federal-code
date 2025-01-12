@@ -70,11 +70,11 @@ For purposes of any action brought by the Commission under subsection (e), any p
 
 #### Amendments ####
 
-**2010**—Subsec. (e)(3)(A). Pub. L. 111–203, §923(a)(3), inserted “and section 78u–6 of this title” after “section 7246 of this title”.
+**2010**—Subsec. (e)(3)(A). Pub. L. 111–203, §923(a)(3), inserted "and section 78u–6 of this title" after "section 7246 of this title".
 
 Subsec. (f). Pub. L. 111–203, §929N, added subsec. (f).
 
-**2002**—Subsec. (e)(3)(A). Pub. L. 107–204 inserted “, except as otherwise provided in section 7246 of this title” before period at end.
+**2002**—Subsec. (e)(3)(A). Pub. L. 107–204 inserted ", except as otherwise provided in section 7246 of this title" before period at end.
 
 **1990**—Subsec. (e). Pub. L. 101–429 added subsec. (e).
 
@@ -82,7 +82,7 @@ Subsec. (f). Pub. L. 111–203, §929N, added subsec. (f).
 
 **1970**—Subsec. (d). Pub. L. 91–452 struck out subsec. (d) which related to immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
 
-**1960**—Subsec. (e). Pub. L. 86–750 inserted “, is engaged,” after “has engaged” wherever appearing, and inserted provisions relating to aiders and abettors.
+**1960**—Subsec. (e). Pub. L. 86–750 inserted ", is engaged," after "has engaged" wherever appearing, and inserted provisions relating to aiders and abettors.
 
 #### Effective Date of 2010 Amendment ####
 

@@ -2,7 +2,7 @@
 
 Sec.
 
-701. “Usual number” of documents and reports; distribution of House and Senate documents and reports; binding; reports on private bills; number of copies printed; distribution.
+701. "Usual number" of documents and reports; distribution of House and Senate documents and reports; binding; reports on private bills; number of copies printed; distribution.
 
 702. Extra copies of documents and reports.
 
@@ -50,7 +50,7 @@ Sec.
 
 724. Memorial addresses: illustrations.
 
-725. Statement of appropriations; “usual number”.
+725. Statement of appropriations; "usual number".
 
 726. Printing for committees of Congress.
 
@@ -86,7 +86,7 @@ Sec.
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–186, title II, §223(4)(B), Aug. 20, 1996, 110 Stat. 1751, substituted “Senators” for “Members of Congress” in item 735.
+**1996**—Pub. L. 104–186, title II, §223(4)(B), Aug. 20, 1996, 110 Stat. 1751, substituted "Senators" for "Members of Congress" in item 735.
 
 #### Federal Records Management Provisions Without Effect on Chapter ####
 

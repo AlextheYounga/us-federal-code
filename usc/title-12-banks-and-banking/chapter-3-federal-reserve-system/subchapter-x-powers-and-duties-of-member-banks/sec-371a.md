@@ -4,4 +4,4 @@ Section, act Dec. 23, 1913, ch. 6, §19(i), formerly §19 par. (12), as added Ju
 
 #### Effective Date of Repeal ####
 
-Pub. L. 111–203, title VI, §627(b), July 21, 2010, 124 Stat. 1640, provided that: “The amendments made by subsection (a) [amending sections 1464 and 1828 of this title and repealing this section] shall take effect 1 year after the date of the enactment of this Act [July 21, 2010].”
+Pub. L. 111–203, title VI, §627(b), July 21, 2010, 124 Stat. 1640, provided that: "The amendments made by subsection (a) [amending sections 1464 and 1828 of this title and repealing this section] shall take effect 1 year after the date of the enactment of this Act [July 21, 2010]."

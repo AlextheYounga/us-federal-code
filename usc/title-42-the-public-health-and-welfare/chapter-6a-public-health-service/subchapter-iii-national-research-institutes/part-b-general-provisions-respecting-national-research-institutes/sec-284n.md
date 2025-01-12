@@ -4,7 +4,7 @@
 
 #### (1) In general ####
 
-From amounts to be appropriated under section 282a(b) of this title, the Secretary of Health and Human Services, acting through the Director of NIH, (in this subsection referred to as the “Secretary”) in consultation with the Director of the National Science Foundation, the Secretary of Energy, and other agency heads when necessary, may allocate funds for the national research institutes and national centers to make grants for the purpose of improving the public health through demonstration projects for biomedical research at the interface between the biological, behavioral, and social sciences and the physical, chemical, mathematical, and computational sciences.
+From amounts to be appropriated under section 282a(b) of this title, the Secretary of Health and Human Services, acting through the Director of NIH, (in this subsection referred to as the "Secretary") in consultation with the Director of the National Science Foundation, the Secretary of Energy, and other agency heads when necessary, may allocate funds for the national research institutes and national centers to make grants for the purpose of improving the public health through demonstration projects for biomedical research at the interface between the biological, behavioral, and social sciences and the physical, chemical, mathematical, and computational sciences.
 
 #### (2) Goals, priorities, and methods; interagency collaboration ####
 
@@ -46,7 +46,7 @@ Not later than the end of fiscal year 2009, the Secretary, acting through the Di
 
 #### (d) Definitions ####
 
-For purposes of this section, the terms “Director of NIH”, “national research institute”, and “national center” have the meanings given such terms in section 281 of this title.
+For purposes of this section, the terms "Director of NIH", "national research institute", and "national center" have the meanings given such terms in section 281 of this title.
 
 (Pub. L. 109–482, title I, §105, Jan. 15, 2007, 120 Stat. 3694.)
 

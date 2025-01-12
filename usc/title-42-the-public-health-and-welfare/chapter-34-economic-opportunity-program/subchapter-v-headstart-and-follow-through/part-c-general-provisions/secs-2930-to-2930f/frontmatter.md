@@ -1,6 +1,6 @@
 ### §§2930 to 2930f. Repealed. Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519 ###
 
-Section 2930, Pub. L. 88–452, title V, §571, as added Pub. L. 93–644, §8(a), Jan. 4, 1975, 88 Stat. 2308; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, defined “Secretary”, “State”, and “financial assistance”.
+Section 2930, Pub. L. 88–452, title V, §571, as added Pub. L. 93–644, §8(a), Jan. 4, 1975, 88 Stat. 2308; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695, defined "Secretary", "State", and "financial assistance".
 
 Section 2930a, Pub. L. 88–452, title V, §572, as added Pub. L. 93–644, §8(a), Jan. 4, 1975, 88 Stat. 2308, related to applicable labor standards.
 

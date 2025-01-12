@@ -34,19 +34,19 @@ Former subsec. (n) authorized President within twelve months after May 18, 1933,
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–447 substituted “Board” for “board” wherever appearing.
+**2004**—Pub. L. 108–447 substituted "Board" for "board" wherever appearing.
 
 **1976**—Subsec. (m). Pub. L. 94–412 struck out subsec. (m) which barred sale of TVA products outside United States except to Government for military use or its allies in case of war or until six months after termination of Korean emergency.
 
 **1959**—Subsec. (m). Pub. L. 86–137 excepted ferrophosphorus.
 
-**1952**—Subsec. (m). Joint Res. July 3, 1952, inserted “or, until six months after the termination of the national emergency proclaimed by the President on December 16, 1950, or until such earlier date or dates as the Congress by concurrent resolution or the President may provide but in no event after April 1, 1953, to nations associated with the United States in defense activities”.
+**1952**—Subsec. (m). Joint Res. July 3, 1952, inserted "or, until six months after the termination of the national emergency proclaimed by the President on December 16, 1950, or until such earlier date or dates as the Congress by concurrent resolution or the President may provide but in no event after April 1, 1953, to nations associated with the United States in defense activities".
 
-**1935**—Subsec. (c). Act Aug. 31, 1935, inserted “with farmers, landowners, and associations of farmers and landowners,” after “demonstration farms” and “and for promoting the prevention of soil erosion by the use of fertilizers and otherwise” after “period of their introduction”.
+**1935**—Subsec. (c). Act Aug. 31, 1935, inserted "with farmers, landowners, and associations of farmers and landowners," after "demonstration farms" and "and for promoting the prevention of soil erosion by the use of fertilizers and otherwise" after "period of their introduction".
 
 #### Change of Name ####
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
 
 #### Effective Date of 2004 Amendment ####
 
@@ -72,4 +72,4 @@ For transfer of certain functions insofar as they pertain to Air Force, and to e
 
 Joint Res. Mar. 31, 1953, ch. 13, §1, 67 Stat. 18, provided for the extension of certain emergency provisions (previously extended to April 1, 1953, by Joint Res. July 3, 1952, ch. 570, §2(a), 66 Stat. 334) until July 1, 1953. Section 2 of said Joint Res. Mar. 31, 1953, provided that such extension did not apply to the provisions of this section.
 
-[<sup>1</sup> So in original. Probably should be “Board's”.](#831d_1)
+[<sup>1</sup> So in original. Probably should be "Board's".](#831d_1)

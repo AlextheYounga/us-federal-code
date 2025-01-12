@@ -52,7 +52,7 @@ Sec.
 
 1554. Annual report to Congress regarding Federal court rulings.
 
-1555. “Federal mandate” defined.
+1555. "Federal mandate" defined.
 
 1556. Authorization of appropriations.
 

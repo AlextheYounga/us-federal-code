@@ -18,4 +18,4 @@ The Congress makes the following findings:
 
 #### Short Title ####
 
-Pub. L. 112–245, §1, Jan. 10, 2013, 126 Stat. 2385, provided that: “This Act [enacting this subchapter and amending provisions listed in a table of Wilderness Areas under section 1132 of this title] may be cited as the ‘Pinnacles National Park Act’.”
+Pub. L. 112–245, §1, Jan. 10, 2013, 126 Stat. 2385, provided that: "This Act [enacting this subchapter and amending provisions listed in a table of Wilderness Areas under section 1132 of this title] may be cited as the 'Pinnacles National Park Act'."

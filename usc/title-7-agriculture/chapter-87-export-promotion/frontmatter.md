@@ -102,7 +102,7 @@ Sec.
 
 #### SUBCHAPTER VII—FOREIGN MARKET DEVELOPMENT COOPERATOR PROGRAM ####
 
-5721. “Eligible trade organization” defined.
+5721. "Eligible trade organization" defined.
 
 5722. Foreign market development cooperator program.
 

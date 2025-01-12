@@ -278,11 +278,11 @@ Sec.
 
 2275. Authorization of appropriations.
 
-2276. “Central American countries” defined.
+2276. "Central American countries" defined.
 
 #### Part VII—Debt-for-Nature Exchanges ####
 
-2281. “Debt-for-nature exchange” defined.
+2281. "Debt-for-nature exchange" defined.
 
 2282. Assistance for commercial debt exchanges.
 

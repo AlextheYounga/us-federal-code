@@ -2,7 +2,7 @@
 
 It shall be unlawful—
 
-(a) For any person to use the words “United States”, “Government”, or “Federal”, or any abbreviation thereof, in, or in connection with, any statement relating to the grade of tobacco when such grade is not, in fact, one of the grades for tobacco according to the standards of the United States.
+(a) For any person to use the words "United States", "Government", or "Federal", or any abbreviation thereof, in, or in connection with, any statement relating to the grade of tobacco when such grade is not, in fact, one of the grades for tobacco according to the standards of the United States.
 
 (b) For any person falsely to make, issue, alter, forge, or counterfeit, or aid, cause, procure, or assist in or be a party to the false making, issuing, altering, forging, or counterfeiting of any certificate, stamp, tag, seal, label, or other writing purporting to be issued or authorized under this chapter.
 

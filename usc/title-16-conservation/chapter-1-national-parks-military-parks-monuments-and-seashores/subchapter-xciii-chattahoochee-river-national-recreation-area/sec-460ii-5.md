@@ -2,7 +2,7 @@
 
 #### (a) Establishment; duties; membership: voting members and Park Superintendent as nonvoting member; Chairman ####
 
-There is hereby established the Chattahoochee River National Recreation Area Advisory Commission (hereinafter in this subchapter referred to as the “Advisory Commission”) to advise the Secretary regarding the management and operation of the area, protection of resources with <sup><a href="#460ii-5_1_target" name="460ii-5_1">1</a></sup> the recreation area, and the priority of lands to be acquired within the recreation area. The Advisory Commission shall be composed of the following thirteen voting members appointed by the Secretary:
+There is hereby established the Chattahoochee River National Recreation Area Advisory Commission (hereinafter in this subchapter referred to as the "Advisory Commission") to advise the Secretary regarding the management and operation of the area, protection of resources with <sup><a href="#460ii-5_1_target" name="460ii-5_1">1</a></sup> the recreation area, and the priority of lands to be acquired within the recreation area. The Advisory Commission shall be composed of the following thirteen voting members appointed by the Secretary:
 
 (1) four members appointed from among individuals recommended by local governments—
 
@@ -48,8 +48,8 @@ The Advisory Commission shall terminate on the date ten years after October 30, 
 
 #### Amendments ####
 
-**1999**—Subsec. (a). Pub. L. 106–154, §2(e)(5), substituted “this subchapter” for “this subchapter and chapter 43 of this title” in introductory provisions.
+**1999**—Subsec. (a). Pub. L. 106–154, §2(e)(5), substituted "this subchapter" for "this subchapter and chapter 43 of this title" in introductory provisions.
 
-Subsec. (d). Pub. L. 106–154, §2(e)(6), substituted “this subchapter” for “this subchapter and chapter 43 of this title”.
+Subsec. (d). Pub. L. 106–154, §2(e)(6), substituted "this subchapter" for "this subchapter and chapter 43 of this title".
 
-[<sup>1</sup> So in original. Probably should be “within”.](#460ii-5_1)
+[<sup>1</sup> So in original. Probably should be "within".](#460ii-5_1)

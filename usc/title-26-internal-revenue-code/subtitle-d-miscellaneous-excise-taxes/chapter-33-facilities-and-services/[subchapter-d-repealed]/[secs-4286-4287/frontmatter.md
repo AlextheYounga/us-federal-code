@@ -6,4 +6,4 @@ Section 4287, act Aug. 16, 1954, ch. 736, 68A Stat. 510, defined safety deposit 
 
 #### Effective Date of Repeal ####
 
-Pub. L. 89–44, title VII, §701(b)(4), June 21, 1965, 79 Stat. 157, provided that: “The amendments made by section 304 [repealing these sections] shall apply with respect to use periods beginning on or after July 1, 1965.”
+Pub. L. 89–44, title VII, §701(b)(4), June 21, 1965, 79 Stat. 157, provided that: "The amendments made by section 304 [repealing these sections] shall apply with respect to use periods beginning on or after July 1, 1965."

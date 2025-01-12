@@ -26,7 +26,7 @@ Ex. Ord. No. 11312, Oct. 14, 1966, 31 F.R. 13415, which related to the delegatio
 
 Ex. Ord. No. 12047, Mar. 27, 1978, 43 F.R. 13359, as amended by Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245, provided:
 
-By virtue of the authority vested in me by the Act of October 19, 1965, entitled “An Act to render immune from seizure under judicial process certain objects of cultural significance imported into the United States for temporary display or exhibition, and for other purposes” (79 Stat. 985, 22 U.S.C. 2459), and as President of the United States of America, it is hereby ordered as follows:
+By virtue of the authority vested in me by the Act of October 19, 1965, entitled "An Act to render immune from seizure under judicial process certain objects of cultural significance imported into the United States for temporary display or exhibition, and for other purposes" (79 Stat. 985, 22 U.S.C. 2459), and as President of the United States of America, it is hereby ordered as follows:
 
 Section 1. The Director of the United States Information Agency is designated and empowered to perform the functions conferred upon the President by the above-mentioned Act and shall be deemed to be authorized, without the approval, ratification, or other action of the President, (1) to determine that any work of art or other object to be imported into the United States within the meaning of the Act is of cultural significance, (2) to determine that the temporary exhibition or display of any such work of art or other object in the United States is in the national interest, and (3) to cause public notices of the determinations referred to above to be published in the Federal Register.
 

@@ -4,9 +4,9 @@
 
 The owner of an improved property on the date of its acquisition by the Secretary may, as a condition of such acquisition, retain for himself and his heirs and assigns a right of use of and occupancy of the improved property for a definite term of not more than twenty-five years or, in lieu thereof, for a term ending at the death of the owner or the death of his spouse, whichever is later. The owner shall elect the term to be reserved. Unless this property is wholly or partially donated to the United States, the Secretary shall pay the owner the fair market value of the property on the date of acquisition less the fair market value, on that date, of the right retained by the owner. A right retained pursuant to this section shall be subject to termination by the Secretary upon his determination that it is being exercised in a manner inconsistent with the purposes of sections 698f to 698m–4 of this title, which shall include the exercise of such right in violation of any applicable State or local laws and ordinances, and it shall terminate by operation of law upon the Secretary's notifying the holder of the right of such determination and tendering to him an amount equal to the fair market value of that portion of the right which remains unexpired.
 
-#### (b) “Improved property” defined ####
+#### (b) "Improved property" defined ####
 
-As used in sections 698f to 698m–4 of this title, the term “improved property” means:
+As used in sections 698f to 698m–4 of this title, the term "improved property" means:
 
 (i) a detached one family dwelling, construction of which was begun before November 23, 1971, with respect to the preserve and January 1, 1986, with respect to the Addition which is used for noncommercial residential purposes, together with not to exceed three acres of land on which the dwelling is situated and such additional lands as the Secretary deems reasonably necessary for access thereto, such land being in the same ownership as the dwelling, and together with any structures accessory to the dwelling which are situated on such lands and
 
@@ -20,10 +20,10 @@ Whenever an owner of property elects to retain a right of use and occupancy as p
 
 #### Amendments ####
 
-**1988**—Subsec. (b)(i). Pub. L. 100–301, §4(f)(1), inserted “with respect to the preserve and January 1, 1986, with respect to the Addition” after “November 23, 1971,”.
+**1988**—Subsec. (b)(i). Pub. L. 100–301, §4(f)(1), inserted "with respect to the preserve and January 1, 1986, with respect to the Addition" after "November 23, 1971,".
 
-Subsec. (b)(ii). Pub. L. 100–301, §4(f)(2)(A), inserted “with respect to the preserve and January 1, 1986, with respect to the Addition” after “November 23, 1971,”.
+Subsec. (b)(ii). Pub. L. 100–301, §4(f)(2)(A), inserted "with respect to the preserve and January 1, 1986, with respect to the Addition" after "November 23, 1971,".
 
-Pub. L. 100–301, §4(f)(2)(B), which directed insertion of “or January 1, 1986, as the case may be,” after “November 23, 1971,” the second and third places it appears, was executed by making the insertion after “November 23, 1971,” the second place it appears and after “November 23, 1971” preceding the period as the probable intent of Congress.
+Pub. L. 100–301, §4(f)(2)(B), which directed insertion of "or January 1, 1986, as the case may be," after "November 23, 1971," the second and third places it appears, was executed by making the insertion after "November 23, 1971," the second place it appears and after "November 23, 1971" preceding the period as the probable intent of Congress.
 
 [<sup>1</sup> See 1988 Amendment note below.](#698h_1)

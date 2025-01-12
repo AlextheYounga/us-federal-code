@@ -18,11 +18,11 @@ A prior section 950aaa–5, Pub. L. 101–624, title XXIII, §2335A, as added Pu
 
 #### Amendments ####
 
-**2014**—Pub. L. 113–79 substituted “$75,000,000 for each of fiscal years 2014 through 2018” for “$100,000,000 for each of fiscal years 1996 through 2012”.
+**2014**—Pub. L. 113–79 substituted "$75,000,000 for each of fiscal years 2014 through 2018" for "$100,000,000 for each of fiscal years 1996 through 2012".
 
-**2008**—Pub. L. 110–246, §6201(b), substituted “2012” for “2007”.
+**2008**—Pub. L. 110–246, §6201(b), substituted "2012" for "2007".
 
-**2002**—Pub. L. 107–171 substituted “2007” for “2002”.
+**2002**—Pub. L. 107–171 substituted "2007" for "2002".
 
 #### Effective Date of 2008 Amendment ####
 

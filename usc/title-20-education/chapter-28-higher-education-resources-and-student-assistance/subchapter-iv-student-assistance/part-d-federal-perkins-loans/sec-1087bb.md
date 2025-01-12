@@ -116,7 +116,7 @@ except that, if the institution has a cohort default rate in excess of the appli
 
 (F) add the amounts determined under subparagraph (E) for each income category.
 
-(4)(A) For purposes of paragraphs (2) and (3), the term “average cost of attendance” means the average of the attendance costs for undergraduate students and for graduate and professional students, which shall include (i) tuition and fees determined in accordance with subparagraph (B), (ii) standard living expenses determined in accordance with subparagraph (C), and (iii) books and supplies determined in accordance with subparagraph (D).
+(4)(A) For purposes of paragraphs (2) and (3), the term "average cost of attendance" means the average of the attendance costs for undergraduate students and for graduate and professional students, which shall include (i) tuition and fees determined in accordance with subparagraph (B), (ii) standard living expenses determined in accordance with subparagraph (C), and (iii) books and supplies determined in accordance with subparagraph (D).
 
 (B) The average undergraduate and graduate and professional tuition and fees described in subparagraph (A)(i) shall be computed on the basis of information reported by the institution to the Secretary, which shall include (i) total revenue received by the institution from undergraduate and graduate tuition and fees for the second year preceding the year for which it is applying for an allocation, and (ii) the institution's enrollment for such second preceding year.
 
@@ -176,7 +176,7 @@ Any funds returned to the Secretary under this paragraph shall be reallocated to
 
 #### (E) Definition ####
 
-For the purposes of subparagraph (A), the term “loss of eligibility” shall be defined as the mandatory liquidation of an institution's student loan fund, and assignment of the institution's outstanding loan portfolio to the Secretary.
+For the purposes of subparagraph (A), the term "loss of eligibility" shall be defined as the mandatory liquidation of an institution's student loan fund, and assignment of the institution's outstanding loan portfolio to the Secretary.
 
 #### (f) Applicable maximum cohort default rate ####
 
@@ -188,11 +188,11 @@ For award years prior to award year 2000, the applicable maximum cohort default 
 
 For award year 2000 and subsequent years, the applicable maximum cohort default rate is 25 percent.
 
-#### (g) “Cohort default rate” defined ####
+#### (g) "Cohort default rate" defined ####
 
-(1)(A) The term “cohort default rate” means, for any award year in which 30 or more current and former students at the institution enter repayment on loans under this part (received for attendance at the institution), the percentage of those current and former students who enter repayment on such loans (received for attendance at that institution) in that award year who default before the end of the following award year.
+(1)(A) The term "cohort default rate" means, for any award year in which 30 or more current and former students at the institution enter repayment on loans under this part (received for attendance at the institution), the percentage of those current and former students who enter repayment on such loans (received for attendance at that institution) in that award year who default before the end of the following award year.
 
-(B) For any award year in which less than 30 of the institution's current and former students enter repayment, the term “cohort default rate” means the percentage of such current and former students who entered repayment on such loans in any of the three most recent award years and who default before the end of the award year immediately following the year in which they entered repayment.
+(B) For any award year in which less than 30 of the institution's current and former students enter repayment, the term "cohort default rate" means the percentage of such current and former students who entered repayment on such loans in any of the three most recent award years and who default before the end of the award year immediately following the year in which they entered repayment.
 
 (C) A loan on which a payment is made by the institution of higher education, its owner, agency, contractor, employee, or any other entity or individual affiliated with such institution, in order to avoid default by the borrower, is considered as in default for the purposes of this subsection.
 
@@ -234,7 +234,7 @@ The Secretary shall, from time to time, set dates before which institutions must
 
 (A) If an institution of higher education returns to the Secretary any portion of the sums allocated to such institution under this section for any fiscal year, the Secretary shall reallocate 80 percent of such returned portions to participating institutions in an amount not to exceed such participating institution's excess eligible amounts as determined under paragraph (2).
 
-(B) For the purpose of this subsection, the term “participating institution” means an institution of higher education that—
+(B) For the purpose of this subsection, the term "participating institution" means an institution of higher education that—
 
 (i) was a participant in the program assisted under this part in fiscal year 1999; and
 
@@ -266,77 +266,77 @@ A prior section 1087bb, Pub. L. 89–329, title IV, §462, as added Pub. L. 92�
 
 **2009**—Subsec. (a)(1)(A). Pub. L. 111–39 added subpar. (A) and struck out former subpar. (A), resulting in text identical to that after execution of the amendment by Pub. L. 105–244, §462(a)(1)(A). See 1998 Amendment note below.
 
-**2008**—Subsec. (c)(4)(D). Pub. L. 110–315 substituted “$600” for “$450”.
+**2008**—Subsec. (c)(4)(D). Pub. L. 110–315 substituted "$600" for "$450".
 
-**1998**—Subsec. (a)(1). Pub. L. 105–244, §462(e)(1), inserted “cohort” before “default” in two places in concluding provisions.
+**1998**—Subsec. (a)(1). Pub. L. 105–244, §462(e)(1), inserted "cohort" before "default" in two places in concluding provisions.
 
-Pub. L. 105–244, §462(a)(2)(A)(ii), substituted “subsection (f)” for “subsection (g)” in concluding provisions.
+Pub. L. 105–244, §462(a)(2)(A)(ii), substituted "subsection (f)" for "subsection (g)" in concluding provisions.
 
-Subsec. (a)(1)(A). Pub. L. 105–244, §462(a)(1)(A), which directed the substitution of “the amount received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year)” for “the amount of the Federal capital contribution allocated to such institution under this part for fiscal year 1985”, was executed by making the substitution for text which read “amount of Federal capital” rather than “amount of the Federal capital”, to reflect the probable intent of Congress.
+Subsec. (a)(1)(A). Pub. L. 105–244, §462(a)(1)(A), which directed the substitution of "the amount received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year)" for "the amount of the Federal capital contribution allocated to such institution under this part for fiscal year 1985", was executed by making the substitution for text which read "amount of Federal capital" rather than "amount of the Federal capital", to reflect the probable intent of Congress.
 
-Subsec. (a)(1)(B). Pub. L. 105–244, §462(a)(2)(A)(i), substituted “subsection (e)” for “subsection (f)”.
+Subsec. (a)(1)(B). Pub. L. 105–244, §462(a)(2)(A)(i), substituted "subsection (e)" for "subsection (f)".
 
-Subsec. (a)(2)(A), (B). Pub. L. 105–244, §462(a)(1)(B)(i), substituted “1999” for “1985” in introductory provisions.
+Subsec. (a)(2)(A), (B). Pub. L. 105–244, §462(a)(1)(B)(i), substituted "1999" for "1985" in introductory provisions.
 
-Subsec. (a)(2)(C)(i). Pub. L. 105–244, §462(a)(1)(B)(ii), substituted “2000” for “1986”.
+Subsec. (a)(2)(C)(i). Pub. L. 105–244, §462(a)(1)(B)(ii), substituted "2000" for "1986".
 
-Subsec. (a)(2)(D). Pub. L. 105–244, §462(e)(1), inserted “cohort” before “default” in two places in concluding provisions.
+Subsec. (a)(2)(D). Pub. L. 105–244, §462(e)(1), inserted "cohort" before "default" in two places in concluding provisions.
 
-Pub. L. 105–244, §462(a)(2)(A)(iv), substituted “subsection (f)” for “subsection (g)” in concluding provisions.
+Pub. L. 105–244, §462(a)(2)(A)(iv), substituted "subsection (f)" for "subsection (g)" in concluding provisions.
 
-Subsec. (a)(2)(D)(ii). Pub. L. 105–244, §462(a)(2)(A)(iii), substituted “subsection (e)” for “subsection (f)”.
+Subsec. (a)(2)(D)(ii). Pub. L. 105–244, §462(a)(2)(A)(iii), substituted "subsection (e)" for "subsection (f)".
 
 Subsec. (b). Pub. L. 105–244, §462(a)(2)(H), redesignated subsec. (c) as (b).
 
-Pub. L. 105–244, §462(a)(2)(B), struck out heading and text of subsec. (b). Text read as follows: “From one-quarter of the remainder of the amount appropriated pursuant to section 1087aa(b) of this title for any fiscal year (after making the allocations required by subsection (a) of this section), the Secretary shall allocate to each eligible institution an amount which bears the same ratio to such one-quarter as—
+Pub. L. 105–244, §462(a)(2)(B), struck out heading and text of subsec. (b). Text read as follows: "From one-quarter of the remainder of the amount appropriated pursuant to section 1087aa(b) of this title for any fiscal year (after making the allocations required by subsection (a) of this section), the Secretary shall allocate to each eligible institution an amount which bears the same ratio to such one-quarter as—
 
-“(1) the amount the eligible institution receives for such fiscal year under subsection (a) of this section, bears to
+"(1) the amount the eligible institution receives for such fiscal year under subsection (a) of this section, bears to
 
-“(2) the amount all such institutions receive under such subsection (a) of this section.”
+"(2) the amount all such institutions receive under such subsection (a) of this section."
 
-Subsec. (b)(2). Pub. L. 105–244, §462(e)(2), inserted “cohort” before “default” in two places in concluding provisions.
+Subsec. (b)(2). Pub. L. 105–244, §462(e)(2), inserted "cohort" before "default" in two places in concluding provisions.
 
-Subsec. (b)(3). Pub. L. 105–244, §462(e)(2), inserted “cohort” before “default” in two places in concluding provisions.
+Subsec. (b)(3). Pub. L. 105–244, §462(e)(2), inserted "cohort" before "default" in two places in concluding provisions.
 
 Subsec. (c). Pub. L. 105–244, §462(a)(2)(H), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-Subsec. (c)(1). Pub. L. 105–244, §462(a)(2)(C), substituted “the remainder” for “three-quarters of the remainder”.
+Subsec. (c)(1). Pub. L. 105–244, §462(a)(2)(C), substituted "the remainder" for "three-quarters of the remainder".
 
-Subsec. (c)(2). Pub. L. 105–244, §462(a)(2)(D), substituted “subsection (f)” for “subsection (g)” in concluding provisions.
+Subsec. (c)(2). Pub. L. 105–244, §462(a)(2)(D), substituted "subsection (f)" for "subsection (g)" in concluding provisions.
 
-Subsec. (c)(3). Pub. L. 105–244, §462(b), in introductory provisions, struck out “the Secretary, for academic year 1988–1989, shall use the procedures employed for academic year 1986–1987, and, for any subsequent academic years,” after “professional students,”.
+Subsec. (c)(3). Pub. L. 105–244, §462(b), in introductory provisions, struck out "the Secretary, for academic year 1988–1989, shall use the procedures employed for academic year 1986–1987, and, for any subsequent academic years," after "professional students,".
 
-Pub. L. 105–244, §462(a)(2)(E)(iii), substituted “subsection (f)” for “subsection (g)” in concluding provisions.
+Pub. L. 105–244, §462(a)(2)(E)(iii), substituted "subsection (f)" for "subsection (g)" in concluding provisions.
 
-Subsec. (c)(3)(A). Pub. L. 105–244, §462(a)(2)(E)(i), substituted “subsection (c)” for “subsection (d)”.
+Subsec. (c)(3)(A). Pub. L. 105–244, §462(a)(2)(E)(i), substituted "subsection (c)" for "subsection (d)".
 
-Subsec. (c)(3)(C). Pub. L. 105–244, §462(a)(2)(E)(ii), substituted “subsection (e)” for “subsection (f)”.
+Subsec. (c)(3)(C). Pub. L. 105–244, §462(a)(2)(E)(ii), substituted "subsection (e)" for "subsection (f)".
 
 Subsec. (d). Pub. L. 105–244, §462(a)(2)(H), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Subsec. (d)(2). Pub. L. 105–244, §462(e)(3), inserted “cohort” before “default”.
+Subsec. (d)(2). Pub. L. 105–244, §462(e)(3), inserted "cohort" before "default".
 
 Subsec. (e). Pub. L. 105–244, §462(c), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
 
-“(1) For any fiscal year prior to fiscal year 1994, any institution which has a default rate which equals or exceeds 7.5 percent but does not exceed the maximum default rate applicable to the award year under subsection (g) of this section, the institution's default penalty is a percentage equal to the complement of such default rate. For any institution which has a default rate that does not exceed 7.5 percent, the institution's default penalty is equal to one.
+"(1) For any fiscal year prior to fiscal year 1994, any institution which has a default rate which equals or exceeds 7.5 percent but does not exceed the maximum default rate applicable to the award year under subsection (g) of this section, the institution's default penalty is a percentage equal to the complement of such default rate. For any institution which has a default rate that does not exceed 7.5 percent, the institution's default penalty is equal to one.
 
-“(2) For fiscal year 1994 and any succeeding fiscal year, any institution with a cohort default rate (as defined under subsection (h) of this section) which—
+"(2) For fiscal year 1994 and any succeeding fiscal year, any institution with a cohort default rate (as defined under subsection (h) of this section) which—
 
-“(A) equals or exceeds 15 percent, shall establish a default reduction plan pursuant to regulations issued by the Secretary;
+"(A) equals or exceeds 15 percent, shall establish a default reduction plan pursuant to regulations issued by the Secretary;
 
-“(B) equals or exceeds 20 percent, but is less than 25 percent, shall have a default penalty of 0.9;
+"(B) equals or exceeds 20 percent, but is less than 25 percent, shall have a default penalty of 0.9;
 
-“(C) equals or exceeds 25 percent, but is less than 30 percent, shall have a default penalty of 0.7; and
+"(C) equals or exceeds 25 percent, but is less than 30 percent, shall have a default penalty of 0.7; and
 
-“(D) equals or exceeds 30 percent shall have a default penalty of zero.”
+"(D) equals or exceeds 30 percent shall have a default penalty of zero."
 
 Pub. L. 105–244, §462(a)(2)(H), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
 Subsec. (f). Pub. L. 105–244, §462(c), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows:
 
-“(1) For award years 1992 and 1993, the applicable maximum default rate is 15 percent.
+"(1) For award years 1992 and 1993, the applicable maximum default rate is 15 percent.
 
-“(2) For award year 1994 and subsequent years, the maximum cohort default rate is 30 percent.”
+"(2) For award year 1994 and subsequent years, the maximum cohort default rate is 30 percent."
 
 Pub. L. 105–244, §462(a)(2)(H), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
@@ -344,83 +344,83 @@ Subsec. (g). Pub. L. 105–244, §462(d)(1), inserted heading and struck out for
 
 Pub. L. 105–244, §462(a)(2)(H), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
-Subsec. (g)(1). Pub. L. 105–244, §462(d)(1), (2), redesignated par. (3) as (1), substituted “The term” for “For award year 1994 and any succeeding award year, the term” in subpar. (A), and struck out former par. (1) which read as follows: “For any award year prior to award year 1994, for the purpose of this section, the default rate is computed by dividing—
+Subsec. (g)(1). Pub. L. 105–244, §462(d)(1), (2), redesignated par. (3) as (1), substituted "The term" for "For award year 1994 and any succeeding award year, the term" in subpar. (A), and struck out former par. (1) which read as follows: "For any award year prior to award year 1994, for the purpose of this section, the default rate is computed by dividing—
 
-“(A) the total principal amount of defaulted loans; by
+"(A) the total principal amount of defaulted loans; by
 
-“(B) the total principal amount of loans made under this part, less the principal amount of all loans made to borrowers who are eligible for deferment under section 1087dd(c)(2)(A)(i) of this title or are in a grace period preceding repayment.”
+"(B) the total principal amount of loans made under this part, less the principal amount of all loans made to borrowers who are eligible for deferment under section 1087dd(c)(2)(A)(i) of this title or are in a grace period preceding repayment."
 
-Subsec. (g)(1)(B). Pub. L. 105–244, §462(d)(3)(A), (B), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “In determining the number of students who default before the end of such award year, the Secretary shall, in calculating the cohort default rate, exclude any loans which, due to improper servicing or collection, would result in an inaccurate or incomplete calculation of the cohort default rate.”
+Subsec. (g)(1)(B). Pub. L. 105–244, §462(d)(3)(A), (B), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "In determining the number of students who default before the end of such award year, the Secretary shall, in calculating the cohort default rate, exclude any loans which, due to improper servicing or collection, would result in an inaccurate or incomplete calculation of the cohort default rate."
 
 Subsec. (g)(1)(C), (D). Pub. L. 105–244, §462(d)(3)(B), redesignated subpars. (D) and (F) as (C) and (D), respectively. Former subpar. (C) redesignated (B).
 
-Subsec. (g)(1)(E). Pub. L. 105–244, §462(d)(3)(A), (C), added subpar. (E) and struck out former subpar. (E) which read as follows: “Any loan that is in default but on which the borrower has made satisfactory arrangements to resume payment or any loan which has been rehabilitated before the end of such following award year is not considered as in default for purposes of this subsection.”
+Subsec. (g)(1)(E). Pub. L. 105–244, §462(d)(3)(A), (C), added subpar. (E) and struck out former subpar. (E) which read as follows: "Any loan that is in default but on which the borrower has made satisfactory arrangements to resume payment or any loan which has been rehabilitated before the end of such following award year is not considered as in default for purposes of this subsection."
 
-Subsec. (g)(1)(F). Pub. L. 105–244, §462(d)(3)(B), (e)(4), redesignated subpar. (G) as (F) and inserted “cohort” before “default”. Former subpar. (F) redesignated (D).
+Subsec. (g)(1)(F). Pub. L. 105–244, §462(d)(3)(B), (e)(4), redesignated subpar. (G) as (F) and inserted "cohort" before "default". Former subpar. (F) redesignated (D).
 
 Subsec. (g)(1)(G). Pub. L. 105–244, §462(d)(3)(B), redesignated subpar. (G) as (F).
 
 Subsec. (g)(2). Pub. L. 105–244, §462(d)(4), added par. (2).
 
-Pub. L. 105–244, §462(d)(1), struck out par. (2) which read as follows: “For the purpose of paragraph (1)(A), the total principal amount of defaulted loans is equal to the total amount borrowed under loans that have reached repayment status and that are in default, minus—
+Pub. L. 105–244, §462(d)(1), struck out par. (2) which read as follows: "For the purpose of paragraph (1)(A), the total principal amount of defaulted loans is equal to the total amount borrowed under loans that have reached repayment status and that are in default, minus—
 
-“(A) amounts that have been repaid or cancelled on such loans;
+"(A) amounts that have been repaid or cancelled on such loans;
 
-“(B) loans discharged in bankruptcy;
+"(B) loans discharged in bankruptcy;
 
-“(C) loans referred or assigned to the Secretary for collection under paragraph (5)(A), (5)(B)(i), or (6) of section 1087cc(a) of this title; and
+"(C) loans referred or assigned to the Secretary for collection under paragraph (5)(A), (5)(B)(i), or (6) of section 1087cc(a) of this title; and
 
-“(D) loans that are in default but on which the borrowers have made satisfactory arrangements to resume payment.”
+"(D) loans that are in default but on which the borrowers have made satisfactory arrangements to resume payment."
 
 Subsec. (g)(3). Pub. L. 105–244, §462(d)(2), redesignated par. (3) as (1).
 
-Subsec. (g)(4). Pub. L. 105–244, §462(d)(4), struck out par. (4) which read as follows: “A loan shall be considered to be in default—
+Subsec. (g)(4). Pub. L. 105–244, §462(d)(4), struck out par. (4) which read as follows: "A loan shall be considered to be in default—
 
-“(A) 240 days (in the case of a loan repayable monthly), or
+"(A) 240 days (in the case of a loan repayable monthly), or
 
-“(B) 270 days (in the case of a loan repayable quarterly), after the borrower fails to make an installment payment when due or to comply with other terms of the promissory note,
+"(B) 270 days (in the case of a loan repayable quarterly), after the borrower fails to make an installment payment when due or to comply with other terms of the promissory note,
 
-after the borrower fails to make an installment payment when due or to comply with other terms of the promissory note.”
+after the borrower fails to make an installment payment when due or to comply with other terms of the promissory note."
 
 Subsecs. (h), (i). Pub. L. 105–244, §462(a)(2)(H), redesignated subsecs. (i) and (j) as (h) and (i), respectively. Former subsec. (h) redesignated (g).
 
 Subsec. (j). Pub. L. 105–244, §462(a)(2)(H), redesignated subsec. (j) as (i).
 
-Subsec. (j)(1)(B)(i). Pub. L. 105–244, §462(a)(2)(F), substituted “1999” for “1985”.
+Subsec. (j)(1)(B)(i). Pub. L. 105–244, §462(a)(2)(F), substituted "1999" for "1985".
 
-Subsec. (j)(2)(A)(i). Pub. L. 105–244, §462(a)(2)(G)(i), substituted “subsection (b)(3)” for “paragraph (3) of subsection (c)”.
+Subsec. (j)(2)(A)(i). Pub. L. 105–244, §462(a)(2)(G)(i), substituted "subsection (b)(3)" for "paragraph (3) of subsection (c)".
 
-Subsec. (j)(2)(B). Pub. L. 105–244, §462(a)(2)(G)(ii), substituted “subsection (b)” for “subsection (c)”.
+Subsec. (j)(2)(B). Pub. L. 105–244, §462(a)(2)(G)(ii), substituted "subsection (b)" for "subsection (c)".
 
-**1993**—Subsec. (a)(1), (2)(D). Pub. L. 103–208, §2(f)(1), substituted “if the institution has” for “if the institution which has” in closing provisions.
+**1993**—Subsec. (a)(1), (2)(D). Pub. L. 103–208, §2(f)(1), substituted "if the institution has" for "if the institution which has" in closing provisions.
 
-Subsec. (d)(4)(C). Pub. L. 103–208, §2(f)(2), substituted “150 percent of the difference between the income protection allowance for a family of five with one in college and the income protection allowance for a family of six with one in college” for “three-fourths in the Pell Grant family size offset”.
+Subsec. (d)(4)(C). Pub. L. 103–208, §2(f)(2), substituted "150 percent of the difference between the income protection allowance for a family of five with one in college and the income protection allowance for a family of six with one in college" for "three-fourths in the Pell Grant family size offset".
 
 Subsecs. (e)(2), (h)(4)(B). Pub. L. 103–208, §2(f)(3), (4), realigned margins.
 
-**1992**—Subsec. (a)(1)(A). Pub. L. 102–325, §462(a), substituted “allocated to such institution” for “such institution received”.
+**1992**—Subsec. (a)(1)(A). Pub. L. 102–325, §462(a), substituted "allocated to such institution" for "such institution received".
 
 Subsec. (e). Pub. L. 102–325, §462(b), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (f). Pub. L. 102–325, §462(c), substituted “default reduction and default penalties” for “Default penalty” in heading and amended text generally. Prior to amendment, text read as follows: “For any institution which has a default rate which equals or exceeds 7.5 percent but does not exceed the maximum default rate applicable to the award year under subsection (g) of this section, the institution's default penalty is a percentage equal to the complement of such default rate. For any institution which has a default rate that does not exceed 7.5 percent, the institution's default penalty is equal to one.”
+Subsec. (f). Pub. L. 102–325, §462(c), substituted "default reduction and default penalties" for "Default penalty" in heading and amended text generally. Prior to amendment, text read as follows: "For any institution which has a default rate which equals or exceeds 7.5 percent but does not exceed the maximum default rate applicable to the award year under subsection (g) of this section, the institution's default penalty is a percentage equal to the complement of such default rate. For any institution which has a default rate that does not exceed 7.5 percent, the institution's default penalty is equal to one."
 
 Subsec. (g). Pub. L. 102–325, §462(d), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows:
 
-“(1) For award years 1988, 1989, and 1990, the applicable maximum default rate is 20 percent.
+"(1) For award years 1988, 1989, and 1990, the applicable maximum default rate is 20 percent.
 
-“(2) For award year 1991 and subsequent years, the applicable maximum default rate is 15 percent.”
+"(2) For award year 1991 and subsequent years, the applicable maximum default rate is 15 percent."
 
-Subsec. (h). Pub. L. 102–325, §462(e), substituted “Definitions of default rate and cohort default rate” for “Definition of default rate” in heading, in par. (1) substituted “For any award year prior to award year 1994, for the purpose” for “For the purpose”, added par. (3), redesignated former par. (3) as (4), substituted “240” for “120” in par. (4)(A), and amended par. (4)(B) generally. Prior to amendment, par. (4)(B) read as follows: “180 days (in the case of a loan repayable quarterly),”.
+Subsec. (h). Pub. L. 102–325, §462(e), substituted "Definitions of default rate and cohort default rate" for "Definition of default rate" in heading, in par. (1) substituted "For any award year prior to award year 1994, for the purpose" for "For the purpose", added par. (3), redesignated former par. (3) as (4), substituted "240" for "120" in par. (4)(A), and amended par. (4)(B) generally. Prior to amendment, par. (4)(B) read as follows: "180 days (in the case of a loan repayable quarterly),".
 
-Subsec. (j). Pub. L. 102–325, §462(f), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “If an institution returns to the Secretary any portion of the sums allocated to such institution under this section for any fiscal year the Secretary shall, in accordance with regulations, reallocate such excess to other institutions.”
+Subsec. (j). Pub. L. 102–325, §462(f), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: "If an institution returns to the Secretary any portion of the sums allocated to such institution under this section for any fiscal year the Secretary shall, in accordance with regulations, reallocate such excess to other institutions."
 
-**1987**—Subsec. (a)(1)(A). Pub. L. 100–50, §13(a), amended subpar. (A) generally, substituting “of Federal capital contribution such institution received” for “such institution expended”.
+**1987**—Subsec. (a)(1)(A). Pub. L. 100–50, §13(a), amended subpar. (A) generally, substituting "of Federal capital contribution such institution received" for "such institution expended".
 
-Subsec. (d)(3), (4). Pub. L. 100–50, §13(b), redesignated par. (3), defining “average cost of attendance” and calculating average undergraduate and graduate and professional tuition and fees, standard living expenses, and allowance for books and supplies, as (4).
+Subsec. (d)(3), (4). Pub. L. 100–50, §13(b), redesignated par. (3), defining "average cost of attendance" and calculating average undergraduate and graduate and professional tuition and fees, standard living expenses, and allowance for books and supplies, as (4).
 
-Subsec. (e). Pub. L. 100–50, §13(c), struck out “; cash on hand” after “collections” in heading.
+Subsec. (e). Pub. L. 100–50, §13(c), struck out "; cash on hand" after "collections" in heading.
 
-Subsec. (f). Pub. L. 100–50, §13(d), substituted “subsection (g) of this section” for “paragraph (2)”.
+Subsec. (f). Pub. L. 100–50, §13(d), substituted "subsection (g) of this section" for "paragraph (2)".
 
 #### Effective Date of 2009 Amendment ####
 
@@ -428,7 +428,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 #### Effective Date of 1998 Amendment ####
 
-Pub. L. 105–244, title IV, §462(a)(3), Oct. 7, 1998, 112 Stat. 1721, provided that: “The amendments made by this subsection [amending this section] shall apply with respect to allocations of amounts appropriated pursuant to section 461(b) [20 U.S.C. 1087aa(b)] for fiscal year 2000 or any succeeding fiscal year.”
+Pub. L. 105–244, title IV, §462(a)(3), Oct. 7, 1998, 112 Stat. 1721, provided that: "The amendments made by this subsection [amending this section] shall apply with respect to allocations of amounts appropriated pursuant to section 461(b) [20 U.S.C. 1087aa(b)] for fiscal year 2000 or any succeeding fiscal year."
 
 Amendment by section 462(b)–(e) of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 

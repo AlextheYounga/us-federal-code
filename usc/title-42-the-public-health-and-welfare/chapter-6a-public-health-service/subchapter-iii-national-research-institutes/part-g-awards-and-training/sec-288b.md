@@ -34,7 +34,7 @@ Subsec. (c) of this section, which required the Secretary to submit a report on 
 
 #### Amendments ####
 
-**1992**—Subsec. (a)(2). Pub. L. 102–321 struck out “and institutes under the Alcohol, Drug Abuse, and Mental Health Administration” after “National Institutes of Health”.
+**1992**—Subsec. (a)(2). Pub. L. 102–321 struck out "and institutes under the Alcohol, Drug Abuse, and Mental Health Administration" after "National Institutes of Health".
 
 #### Effective Date of 1992 Amendment ####
 

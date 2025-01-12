@@ -48,7 +48,7 @@ In case of contumacy by, or refusal to obey a subpena issued to, any person, the
 
 (D) Special provisions relating to a violation of a cease-and-desist order.—In an action to enforce a cease-and-desist order entered by the Commission pursuant to section 78u–3 of this title, each separate violation of such order shall be a separate offense, except that in the case of a violation through a continuing failure to comply with the order, each day of the failure to comply shall be deemed a separate offense.
 
-(4) Prohibition of attorneys’ fees paid from commission disgorgement funds.—Except as otherwise ordered by the court upon motion by the Commission, or, in the case of an administrative action, as otherwise ordered by the Commission, funds disgorged as the result of an action brought by the Commission in Federal court, or as a result of any Commission administrative action, shall not be distributed as payment for attorneys’ fees or expenses incurred by private parties seeking distribution of the disgorged funds.
+(4) Prohibition of attorneys' fees paid from commission disgorgement funds.—Except as otherwise ordered by the court upon motion by the Commission, or, in the case of an administrative action, as otherwise ordered by the Commission, funds disgorged as the result of an action brought by the Commission in Federal court, or as a result of any Commission administrative action, shall not be distributed as payment for attorneys' fees or expenses incurred by private parties seeking distribution of the disgorged funds.
 
 (5) Equitable Relief.—In any action or proceeding brought or instituted by the Commission under any provision of the securities laws, the Commission may seek, and any Federal court may grant, any equitable relief that may be appropriate or necessary for the benefit of investors.
 
@@ -56,7 +56,7 @@ In case of contumacy by, or refusal to obey a subpena issued to, any person, the
 
 (A) In general.—In any proceeding under paragraph (1) against any person participating in, or, at the time of the alleged misconduct who was participating in, an offering of penny stock, the court may prohibit that person from participating in an offering of penny stock, conditionally or unconditionally, and permanently or for such period of time as the court shall determine.
 
-(B) Definition.—For purposes of this paragraph, the term “person participating in an offering of penny stock” includes any person engaging in activities with a broker, dealer, or issuer for purposes of issuing, trading, or inducing or attempting to induce the purchase or sale of, any penny stock. The Commission may, by rule or regulation, define such term to include other activities, and may, by rule, regulation, or order, exempt any person or class of persons, in whole or in part, conditionally or unconditionally, from inclusion in such term.
+(B) Definition.—For purposes of this paragraph, the term "person participating in an offering of penny stock" includes any person engaging in activities with a broker, dealer, or issuer for purposes of issuing, trading, or inducing or attempting to induce the purchase or sale of, any penny stock. The Commission may, by rule or regulation, define such term to include other activities, and may, by rule, regulation, or order, exempt any person or class of persons, in whole or in part, conditionally or unconditionally, from inclusion in such term.
 
 #### (e) Mandamus ####
 
@@ -110,7 +110,7 @@ Notwithstanding the provisions of section 1407(a) of title 28, or any other prov
 
 (C) Upon expiration of the period of delay of notification ordered under subparagraph (A) or (B), the customer shall be served with or mailed a copy of the subpena insofar as it applies to the customer together with the following notice which shall describe with reasonable specificity the nature of the investigation for which the Commission sought the financial records:
 
-“Records or information concerning your transactions which are held by the financial institution named in the attached subpena were supplied to the Securities and Exchange Commission on (date). Notification was withheld pursuant to a determination by the (title of court so ordering) under section 21(h) of the Securities Exchange Act of 1934 that (state reason). The purpose of the investigation or official proceeding was (state purpose).”
+"Records or information concerning your transactions which are held by the financial institution named in the attached subpena were supplied to the Securities and Exchange Commission on (date). Notification was withheld pursuant to a determination by the (title of court so ordering) under section 21(h) of the Securities Exchange Act of 1934 that (state reason). The purpose of the investigation or official proceeding was (state purpose)."
 
 (5) Upon application by the Commission, all proceedings pursuant to paragraphs (2) and (4) shall be held in camera and the records thereof sealed until expiration of the period of delay or such other date as the presiding judge or magistrate judge may permit.
 
@@ -150,7 +150,7 @@ The Commission shall provide the Commodity Futures Trading Commission with notic
 
 #### References in Text ####
 
-This chapter, referred to in subsecs. (a)(1), (b), (d), (e), and (f), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a)(1), (b), (d), (e), and (f), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 The Right to Financial Privacy Act of 1978, referred to in subsec. (h)(1), (6), (8), (9)(B), (11), and (13), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. Section 1121(b) of the Act, which was classified to section 3421(b) of Title 12, was repealed by Pub. L. 104–66, title III, §3001(d), Dec. 21, 1995, 109 Stat. 734. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
 
@@ -160,29 +160,29 @@ Section 21(h) of the Securities Exchange Act of 1934, referred to in the paragra
 
 #### Amendments ####
 
-**2010**—Subsec. (a)(1). Pub. L. 111–203, §929F(g)(2), in first sentence, substituted “, a person associated with such a firm, or, as to any act, practice, or omission to act, while associated with such firm, a person formerly associated with such a firm” for “or a person associated with such a firm”.
+**2010**—Subsec. (a)(1). Pub. L. 111–203, §929F(g)(2), in first sentence, substituted ", a person associated with such a firm, or, as to any act, practice, or omission to act, while associated with such firm, a person formerly associated with such a firm" for "or a person associated with such a firm".
 
-Pub. L. 111–203, §929F(c), (d), in first sentence, inserted “, or, as to any act or practice, or omission to act, while associated with a member, formerly associated” after “member or a person associated” and “or, as to any act or practice, or omission to act, while a participant, was a participant,” after “in which such person is a participant,”.
+Pub. L. 111–203, §929F(c), (d), in first sentence, inserted ", or, as to any act or practice, or omission to act, while associated with a member, formerly associated" after "member or a person associated" and "or, as to any act or practice, or omission to act, while a participant, was a participant," after "in which such person is a participant,".
 
-Subsec. (d)(3)(C)(i). Pub. L. 111–203, §923(b)(1), inserted “and section 78u–6 of this title” after “section 7246 of this title”.
+Subsec. (d)(3)(C)(i). Pub. L. 111–203, §923(b)(1), inserted "and section 78u–6 of this title" after "section 7246 of this title".
 
-Subsec. (h)(2). Pub. L. 111–203, §986(a)(3), struck out “section 18(c) of the Public Utility Holding Company Act of 1935,” after “section 21(b) of the Securities Exchange Act of 1934,”.
+Subsec. (h)(2). Pub. L. 111–203, §986(a)(3), struck out "section 18(c) of the Public Utility Holding Company Act of 1935," after "section 21(b) of the Securities Exchange Act of 1934,".
 
-**2002**—Subsec. (a)(1). Pub. L. 107–204, §3(b)(2)(A), inserted “the rules of the Public Company Accounting Oversight Board, of which such person is a registered public accounting firm or a person associated with such a firm,” after “is a participant,”.
+**2002**—Subsec. (a)(1). Pub. L. 107–204, §3(b)(2)(A), inserted "the rules of the Public Company Accounting Oversight Board, of which such person is a registered public accounting firm or a person associated with such a firm," after "is a participant,".
 
-Subsec. (d)(1). Pub. L. 107–204, §3(b)(2)(B), inserted “the rules of the Public Company Accounting Oversight Board, of which such person is a registered public accounting firm or a person associated with such a firm,” after “is a participant,”.
+Subsec. (d)(1). Pub. L. 107–204, §3(b)(2)(B), inserted "the rules of the Public Company Accounting Oversight Board, of which such person is a registered public accounting firm or a person associated with such a firm," after "is a participant,".
 
-Subsec. (d)(2). Pub. L. 107–204, §305(a)(1), substituted “unfitness” for “substantial unfitness”.
+Subsec. (d)(2). Pub. L. 107–204, §305(a)(1), substituted "unfitness" for "substantial unfitness".
 
-Subsec. (d)(3)(C)(i). Pub. L. 107–204, §308(d)(1), inserted “, except as otherwise provided in section 7246 of this title” before period at end.
+Subsec. (d)(3)(C)(i). Pub. L. 107–204, §308(d)(1), inserted ", except as otherwise provided in section 7246 of this title" before period at end.
 
 Subsec. (d)(5). Pub. L. 107–204, §305(b), added par. (5).
 
 Subsec. (d)(6). Pub. L. 107–204, §603(a), added par. (6).
 
-Subsec. (e). Pub. L. 107–204, §3(b)(2)(C), inserted “the rules of the Public Company Accounting Oversight Board, of which such person is a registered public accounting firm or a person associated with such a firm,” after “is a participant,”.
+Subsec. (e). Pub. L. 107–204, §3(b)(2)(C), inserted "the rules of the Public Company Accounting Oversight Board, of which such person is a registered public accounting firm or a person associated with such a firm," after "is a participant,".
 
-Subsec. (f). Pub. L. 107–204, §3(b)(2)(D), inserted “or the Public Company Accounting Oversight Board” after “self-regulatory organization” in two places.
+Subsec. (f). Pub. L. 107–204, §3(b)(2)(D), inserted "or the Public Company Accounting Oversight Board" after "self-regulatory organization" in two places.
 
 **2000**—Subsec. (i). Pub. L. 106–554 added subsec. (i).
 
@@ -194,33 +194,33 @@ Subsec. (f). Pub. L. 107–204, §3(b)(2)(D), inserted “or the Public Company 
 
 Subsec. (d). Pub. L. 100–704, §3(a)(1), redesignated par. (1) as entire subsec. (d) and struck out par. (2) which provided civil penalties for purchasing or selling securities while in possession of material nonpublic information.
 
-**1987**—Subsec. (d). Pub. L. 100–181, §323(1), substituted “Whenever” for “Wherever”.
+**1987**—Subsec. (d). Pub. L. 100–181, §323(1), substituted "Whenever" for "Wherever".
 
-Subsec. (e). Pub. L. 100–181, §323(2), struck out “, the United States District Court for the District of Columbia,” after “the district courts of the United States”.
+Subsec. (e). Pub. L. 100–181, §323(2), struck out ", the United States District Court for the District of Columbia," after "the district courts of the United States".
 
-Subsec. (g). Pub. L. 100–181, §323(3), struck out “The term ‘securities laws’ as used herein and in subsection (h) of this section includes the Securities Act of 1933 (15 U.S.C. 77a et seq.), the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.), the Trust Indenture Act of 1939 (15 U.S.C. 77aaa et seq.), the Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.), the Investment Advisers Act of 1940 (15 U.S.C. 80b–1 et seq.), and the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.).” See 15 U.S.C. 78c(a)(47).
+Subsec. (g). Pub. L. 100–181, §323(3), struck out "The term 'securities laws' as used herein and in subsection (h) of this section includes the Securities Act of 1933 (15 U.S.C. 77a et seq.), the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), the Public Utility Holding Company Act of 1935 (15 U.S.C. 79 et seq.), the Trust Indenture Act of 1939 (15 U.S.C. 77aaa et seq.), the Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.), the Investment Advisers Act of 1940 (15 U.S.C. 80b–1 et seq.), and the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.)." See 15 U.S.C. 78c(a)(47).
 
 **1984**—Subsec. (d). Pub. L. 98–376 designated existing provisions as par. (1) and added par. (2).
 
-**1980**—Subsec. (g). Pub. L. 96–433, §4, inserted “and in subsection (h) of this section.”
+**1980**—Subsec. (g). Pub. L. 96–433, §4, inserted "and in subsection (h) of this section."
 
 Subsec. (h). Pub. L. 96–433, §3, added subsec. (h).
 
 **1975**—Subsec. (a). Pub. L. 94–29, §17(1), expanded the Commission's power to conduct investigations to include violations of the rules of a national securities exchange, registered securities association, registered clearing agency, or the Municipal Securities Rulemaking Board.
 
-Subsec. (d). Pub. L. 94–29, §17(2), redesignated subsec. (e) as (d) and amended it generally, substituting “has engaged, is engaged, or is about to engage” for “is engaged or about to engage”, “any provision” for “the provisions”, “the rules or regulations” for “or of any rule or regulation”, and “such a showing” for “a proper showing”, and inserting “the rules of a national securities exchange or registered securities association of which such persons is a member or a person associated with a member, the rules of a registered clearing agency in which such person is a participant, or the rules of the Municipal Securities Rulemaking Board,” in first sentence and inserting “as may constitute a violation of any provision of this chapter or the rules or regulations thereunder” in second sentence. Former subsec. (d) was repealed by Pub. L. 91–452. See 1970 Amendment note below.
+Subsec. (d). Pub. L. 94–29, §17(2), redesignated subsec. (e) as (d) and amended it generally, substituting "has engaged, is engaged, or is about to engage" for "is engaged or about to engage", "any provision" for "the provisions", "the rules or regulations" for "or of any rule or regulation", and "such a showing" for "a proper showing", and inserting "the rules of a national securities exchange or registered securities association of which such persons is a member or a person associated with a member, the rules of a registered clearing agency in which such person is a participant, or the rules of the Municipal Securities Rulemaking Board," in first sentence and inserting "as may constitute a violation of any provision of this chapter or the rules or regulations thereunder" in second sentence. Former subsec. (d) was repealed by Pub. L. 91–452. See 1970 Amendment note below.
 
-Subsec. (e). Pub. L. 94–29, §17(2), redesignated subsec. (f) as (e) and amended it generally, substituting “mandamus, injunctions, and orders commanding (1) any person to comply with the provisions of this chapter, the rules, regulations, and orders thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or person associated with a member, the rules of a registered clearing agency in which such person is a participant, the rules of the Municipal Securities Rulemaking Board, or any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title” for “mandamus commanding any person to comply with the provisions of this chapter or any order of the Commission made in pursuance thereof or with any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title” and adding cls. (2) and (3). Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 94–29, §17(2), redesignated subsec. (f) as (e) and amended it generally, substituting "mandamus, injunctions, and orders commanding (1) any person to comply with the provisions of this chapter, the rules, regulations, and orders thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or person associated with a member, the rules of a registered clearing agency in which such person is a participant, the rules of the Municipal Securities Rulemaking Board, or any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title" for "mandamus commanding any person to comply with the provisions of this chapter or any order of the Commission made in pursuance thereof or with any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title" and adding cls. (2) and (3). Former subsec. (e) redesignated (d).
 
 Subsecs. (f), (g). Pub. L. 94–29, §17(3), added subsecs. (f) and (g). Former subsec. (f) redesignated (e).
 
 **1970**—Subsec. (d). Pub. L. 91–452 struck out subsec. (d) which related to immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
 
-**1936**—Subsec. (f). Act May 27, 1936, inserted “or with any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title”.
+**1936**—Subsec. (f). Act May 27, 1936, inserted "or with any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title".
 
 #### Change of Name ####
 
-Words “magistrate judge” substituted for “magistrate” wherever appearing in subsec. (h)(4)(A), (5), (7)(A), (8) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words "magistrate judge" substituted for "magistrate" wherever appearing in subsec. (h)(4)(A), (5), (7)(A), (8) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 2010 Amendment ####
 
@@ -246,9 +246,9 @@ Amendment by Pub. L. 98–376 effective Aug. 10, 1984, see section 7 of Pub. L. 
 
 Pub. L. 96–433, §5, Oct. 10, 1980, 94 Stat. 1858, provided that:
 
-“(a) The amendments made by section 1 of this Act [amending section 78fff–3 of this title] shall take effect on the date of enactment of this Act [Oct. 10, 1980].
+"(a) The amendments made by section 1 of this Act [amending section 78fff–3 of this title] shall take effect on the date of enactment of this Act [Oct. 10, 1980].
 
-“(b) The amendments made by sections 2, 3, and 4 of this Act [amending this section and section 3422 of Title 12, Banks and Banking] shall take effect on November 10, 1980. Nothing in this Act [amending this section and section 78fff–3 of this title and section 3422 of Title 12] or in the Right to Financial Privacy Act of 1978 [12 U.S.C. 3401 et seq.] shall apply to any Securities and Exchange Commission subpena issued prior to such date.”
+"(b) The amendments made by sections 2, 3, and 4 of this Act [amending this section and section 3422 of Title 12, Banks and Banking] shall take effect on November 10, 1980. Nothing in this Act [amending this section and section 78fff–3 of this title and section 3422 of Title 12] or in the Right to Financial Privacy Act of 1978 [12 U.S.C. 3401 et seq.] shall apply to any Securities and Exchange Commission subpena issued prior to such date."
 
 #### Effective Date of 1975 Amendment ####
 
@@ -274,14 +274,14 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 Pub. L. 105–353, title I, §102, Nov. 3, 1998, 112 Stat. 3233, provided that:
 
-“(a) Commission Action.—The Securities and Exchange Commission, in consultation with State securities commissions (or any agencies or offices performing like functions), shall seek to encourage the adoption of State laws providing for reciprocal enforcement by State securities commissions of subpoenas issued by another State securities commission seeking to compel persons to attend, testify in, or produce documents or records in connection with an action or investigation by a State securities commission of an alleged violation of State securities laws.
+"(a) Commission Action.—The Securities and Exchange Commission, in consultation with State securities commissions (or any agencies or offices performing like functions), shall seek to encourage the adoption of State laws providing for reciprocal enforcement by State securities commissions of subpoenas issued by another State securities commission seeking to compel persons to attend, testify in, or produce documents or records in connection with an action or investigation by a State securities commission of an alleged violation of State securities laws.
 
-“(b) Report.—Not later than 24 months after the date of enactment of this Act [Nov. 3, 1998], the Securities and Exchange Commission (hereafter in this section referred to as the ‘Commission’) shall submit a report to the Congress—
+"(b) Report.—Not later than 24 months after the date of enactment of this Act [Nov. 3, 1998], the Securities and Exchange Commission (hereafter in this section referred to as the 'Commission') shall submit a report to the Congress—
 
-“(1) identifying the States that have adopted laws described in subsection (a);
+"(1) identifying the States that have adopted laws described in subsection (a);
 
-“(2) describing the actions undertaken by the Commission and State securities commissions to promote the adoption of such laws; and
+"(2) describing the actions undertaken by the Commission and State securities commissions to promote the adoption of such laws; and
 
-“(3) identifying any further actions that the Commission recommends for such purposes.”
+"(3) identifying any further actions that the Commission recommends for such purposes."
 
 [<sup>1</sup> See References in Text note below.](#78u_1)

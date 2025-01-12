@@ -26,13 +26,13 @@ Section was formerly set out as a note under section 287 of this title, prior to
 
 #### Amendments ####
 
-**2011**—Pub. L. 112–74, §221(b)(4)(B)(iii), substituted “Director of NIH, acting through the Office of the Director of NIH,” for “Director of the National Center for Research Resources” in subsecs. (a) and (b).
+**2011**—Pub. L. 112–74, §221(b)(4)(B)(iii), substituted "Director of NIH, acting through the Office of the Director of NIH," for "Director of the National Center for Research Resources" in subsecs. (a) and (b).
 
-Subsec. (a). Pub. L. 112–74, §221(b)(4)(B)(ii), substituted “under the Shared Instrumentation Grant Program” for “under the program described in subsection (a)” in introductory provisions.
+Subsec. (a). Pub. L. 112–74, §221(b)(4)(B)(ii), substituted "under the Shared Instrumentation Grant Program" for "under the program described in subsection (a)" in introductory provisions.
 
-Pub. L. 112–74, §221(b)(4)(B)(i), redesignated subsec. (b) as (a) and struck out former subsec. (a). Prior to amendment, text of subsec. (a) read as follows: “There is authorized to be appropriated $100,000,000 for fiscal year 2000, and such sums as may be necessary for each subsequent fiscal year, to enable the Secretary of Health and Human Services, acting through the Director of the National Center for Research Resources, to provide for the continued operation of the Shared Instrumentation Grant Program (initiated in fiscal year 1992 under the authority of section 287 of this title).”
+Pub. L. 112–74, §221(b)(4)(B)(i), redesignated subsec. (b) as (a) and struck out former subsec. (a). Prior to amendment, text of subsec. (a) read as follows: "There is authorized to be appropriated $100,000,000 for fiscal year 2000, and such sums as may be necessary for each subsequent fiscal year, to enable the Secretary of Health and Human Services, acting through the Director of the National Center for Research Resources, to provide for the continued operation of the Shared Instrumentation Grant Program (initiated in fiscal year 1992 under the authority of section 287 of this title)."
 
-Subsec. (b). Pub. L. 112–74, §221(b)(4)(B)(iv), substituted “in subsection (a), the” for “in subsection (a)” and made technical amendment to reference in original act which appears in text as reference to section 289a of this title.
+Subsec. (b). Pub. L. 112–74, §221(b)(4)(B)(iv), substituted "in subsection (a), the" for "in subsection (a)" and made technical amendment to reference in original act which appears in text as reference to section 289a of this title.
 
 Pub. L. 112–74, §221(b)(4)(B)(i), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 

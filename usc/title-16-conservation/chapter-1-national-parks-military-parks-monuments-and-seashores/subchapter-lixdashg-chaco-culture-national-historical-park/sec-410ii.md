@@ -16,12 +16,12 @@
 
 #### Amendments ####
 
-**1995**—Subsec. (b). Pub. L. 104–11 substituted “San Juan Basin and surrounding areas” for “San Juan Basin”.
+**1995**—Subsec. (b). Pub. L. 104–11 substituted "San Juan Basin and surrounding areas" for "San Juan Basin".
 
 #### Short Title of 2004 Amendment ####
 
-Pub. L. 108–413, §1, Oct. 30, 2004, 118 Stat. 2325, provided that: “This Act [enacting provisions set out as a note under section 410ii–6 of this title] may be cited as the ‘Hibben Center Act’.”
+Pub. L. 108–413, §1, Oct. 30, 2004, 118 Stat. 2325, provided that: "This Act [enacting provisions set out as a note under section 410ii–6 of this title] may be cited as the 'Hibben Center Act'."
 
 #### Short Title of 1995 Amendment ####
 
-Pub. L. 104–11, §1, May 18, 1995, 109 Stat. 158, provided that: “This Act [amending this section and sections 410ii–1, 410ii–3, and 410ii–5 of this title] may be cited as the ‘Chacoan Outliers Protection Act of 1995’.”
+Pub. L. 104–11, §1, May 18, 1995, 109 Stat. 158, provided that: "This Act [amending this section and sections 410ii–1, 410ii–3, and 410ii–5 of this title] may be cited as the 'Chacoan Outliers Protection Act of 1995'."

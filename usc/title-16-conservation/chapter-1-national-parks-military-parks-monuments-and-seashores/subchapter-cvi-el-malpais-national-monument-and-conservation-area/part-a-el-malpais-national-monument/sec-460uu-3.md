@@ -10,4 +10,4 @@ the Secretary, notwithstanding any other provision of law, shall allow the perso
 
 (Pub. L. 100–225, title I, §104, Dec. 31, 1987, 101 Stat. 1540.)
 
-[<sup>1</sup> So in original. Probably should be “section”.](#460uu-3_1)
+[<sup>1</sup> So in original. Probably should be "section".](#460uu-3_1)

@@ -16,7 +16,7 @@
 
 (f) For the purposes of this section, employees of a qualified scouting organization performing services under subsection (a) may not be considered to be employees of the United States.
 
-(g) In this section, the term “qualified scouting organization” means the Girl Scouts of the United States of America and the Boy Scouts of America.
+(g) In this section, the term "qualified scouting organization" means the Girl Scouts of the United States of America and the Boy Scouts of America.
 
 (Added Pub. L. 100–456, div. A, title III, §323(a), Sept. 29, 1988, 102 Stat. 1953.)
 

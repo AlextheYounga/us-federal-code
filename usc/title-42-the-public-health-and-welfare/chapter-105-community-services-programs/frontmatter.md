@@ -6,7 +6,7 @@ Sec.
 
 9801. Statement of purpose.
 
-9802. “Community development corporation” defined.
+9802. "Community development corporation" defined.
 
 9803. Repealed.
 

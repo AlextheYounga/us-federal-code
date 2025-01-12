@@ -2,7 +2,7 @@
 
 #### (a) Commercial filming fee ####
 
-The Secretary of the Interior and the Secretary of Agriculture (hereafter individually referred to as the “Secretary” with respect to lands under their respective jurisdiction) shall require a permit and shall establish a reasonable fee for commercial filming activities or similar projects on Federal lands administered by the Secretary. Such fee shall provide a fair return to the United States and shall be based upon the following criteria:
+The Secretary of the Interior and the Secretary of Agriculture (hereafter individually referred to as the "Secretary" with respect to lands under their respective jurisdiction) shall require a permit and shall establish a reasonable fee for commercial filming activities or similar projects on Federal lands administered by the Secretary. Such fee shall provide a fair return to the United States and shall be based upon the following criteria:
 
 (1) The number of days the filming activity or similar project takes place on Federal land under the Secretary's jurisdiction.
 

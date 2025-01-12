@@ -6,7 +6,7 @@
 
 (2) Boundaries.—
 
-(A) In general.—Except as provided in subparagraph (B), the boundaries of the scenic area shall be generally depicted on the map entitled “Boundary Map, Columbia River Gorge National Scenic Area,” numbered NSA–001 sheets 1 and 2, and dated September 1986, which shall be on file and available for public inspection in the offices of the Commission and of the Chief, Forest Service.
+(A) In general.—Except as provided in subparagraph (B), the boundaries of the scenic area shall be generally depicted on the map entitled "Boundary Map, Columbia River Gorge National Scenic Area," numbered NSA–001 sheets 1 and 2, and dated September 1986, which shall be on file and available for public inspection in the offices of the Commission and of the Chief, Forest Service.
 
 (B) Exclusions.—The scenic area shall not include the approximately 29 acres of land owned by the Port of Camas-Washougal in the South ½ of Section 16, Township 1 North, Range 4 East, and the North ½ of Section 21, Township 1 North, Range 4 East, Willamete <sup><a href="#544b_1_target" name="544b_1">1</a></sup> Meridian, Clark County, Washington, that consists of—
 
@@ -16,11 +16,11 @@
 
 #### (b) Special management areas ####
 
-(1) The following areas within the boundaries of the scenic area are hereby designated “Special Management Areas”: Gates of the Columbia River Gorge; Wind Mountain; Burdoin Mountain; and Rowena.
+(1) The following areas within the boundaries of the scenic area are hereby designated "Special Management Areas": Gates of the Columbia River Gorge; Wind Mountain; Burdoin Mountain; and Rowena.
 
 (2) The boundaries of the special management areas designated by paragraph (1)—
 
-(A) shall be generally depicted on the map entitled “Special Management Areas, Columbia River Gorge National Scenic Area”, numbered SMA–002 sheets 1 through 17, and dated September 1986, which shall be on file and available for public inspection in the offices of the Commission and of the Chief, Forest Service; and
+(A) shall be generally depicted on the map entitled "Special Management Areas, Columbia River Gorge National Scenic Area", numbered SMA–002 sheets 1 through 17, and dated September 1986, which shall be on file and available for public inspection in the offices of the Commission and of the Chief, Forest Service; and
 
 (B) shall include all islands within the boundaries of the scenic area.
 
@@ -34,13 +34,13 @@ The Secretary, in consultation with the Commission, may make minor revisions in 
 
 (1) There is hereby established the Dodson/Warrendale Special Purchase Unit.
 
-(2) The boundaries of the Dodson/Warrendale Special Purchase Unit shall be generally depicted on the map entitled “Dodson/Warrendale Special Purchase Unit, Columbia River Gorge National Scenic Area”, numbered SPU–003 sheet 1, and dated September 1986, which shall be on file and available for public inspection in the offices of the Commission and of the Chief, Forest Service.
+(2) The boundaries of the Dodson/Warrendale Special Purchase Unit shall be generally depicted on the map entitled "Dodson/Warrendale Special Purchase Unit, Columbia River Gorge National Scenic Area", numbered SPU–003 sheet 1, and dated September 1986, which shall be on file and available for public inspection in the offices of the Commission and of the Chief, Forest Service.
 
 #### (e) Urban areas ####
 
-(1) The following cities and towns are hereby designated as “Urban Areas”: Cascade Locks, Hood River, Mosier, and The Dalles, Oregon; and Bingen, Carson, Dallesport, Home Valley, Lyle, North Bonneville, Stevenson, White Salmon, and Wishram, Washington.
+(1) The following cities and towns are hereby designated as "Urban Areas": Cascade Locks, Hood River, Mosier, and The Dalles, Oregon; and Bingen, Carson, Dallesport, Home Valley, Lyle, North Bonneville, Stevenson, White Salmon, and Wishram, Washington.
 
-(2) The boundaries of urban areas shall be generally depicted on the map entitled, “Urban Areas, Columbia River Gorge National Scenic Area”, numbered UA–004 sheets 1 through 11, and dated September 1986, which shall be on file and available for public inspection in the offices of the Commission and of the Chief, Forest Service. The boundaries of urban areas designated in this subsection may be revised pursuant to the provisions of this section.
+(2) The boundaries of urban areas shall be generally depicted on the map entitled, "Urban Areas, Columbia River Gorge National Scenic Area", numbered UA–004 sheets 1 through 11, and dated September 1986, which shall be on file and available for public inspection in the offices of the Commission and of the Chief, Forest Service. The boundaries of urban areas designated in this subsection may be revised pursuant to the provisions of this section.
 
 #### (f) Revision of urban area boundaries ####
 
@@ -64,26 +64,26 @@ The Second Supplemental Appropriations Act, 1984, referred to in subsec. (a)(2)(
 
 #### Amendments ####
 
-**2000**—Subsec. (b)(2). Pub. L. 106–291, §346(d)(1), substituted “by paragraph (1)” for “in this section” in introductory provisions.
+**2000**—Subsec. (b)(2). Pub. L. 106–291, §346(d)(1), substituted "by paragraph (1)" for "in this section" in introductory provisions.
 
 Subsec. (b)(3). Pub. L. 106–291, §346(d)(2), which directed amendment of subsec. (b)(2) by adding at the end a par. (3), was executed by adding par. (3) after subsec. (b)(2), to reflect the probable intent of Congress.
 
 **1999**—Subsec. (a)(2). Pub. L. 106–31 made technical correction to directory language of Pub. L. 105–277. See 1998 Amendment note below.
 
-**1998**—Subsec. (a)(2). Pub. L. 105–277, as amended by Pub. L. 106–31, inserted par. (2) heading, designated existing provisions as subpar. (A), inserted heading, and substituted “Except as provided in subparagraph (B), the boundaries” for “The boundaries”, and added subpar. (B).
+**1998**—Subsec. (a)(2). Pub. L. 105–277, as amended by Pub. L. 106–31, inserted par. (2) heading, designated existing provisions as subpar. (A), inserted heading, and substituted "Except as provided in subparagraph (B), the boundaries" for "The boundaries", and added subpar. (B).
 
-**1994**—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committees on Agriculture and”.
+**1994**—Subsec. (c). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committees on Agriculture and".
 
 #### Effective Date of 1999 Amendment ####
 
-Pub. L. 106–31, title V, §5004(4), May 21, 1999, 113 Stat. 110, provided that: “The amendments made by paragraphs (1), (2), and (3) of this section [amending this section and section 1374 of this title], shall take effect as if included in Public Law 105–277 on the date of its enactment [Oct. 21, 1998].”
+Pub. L. 106–31, title V, §5004(4), May 21, 1999, 113 Stat. 110, provided that: "The amendments made by paragraphs (1), (2), and (3) of this section [amending this section and section 1374 of this title], shall take effect as if included in Public Law 105–277 on the date of its enactment [Oct. 21, 1998]."
 
 #### Congressional Intent of 1998 Amendment ####
 
-Pub. L. 105–277, div. A, §101(e) [title III, §354(b)], Oct. 21, 1998, 112 Stat. 2681–231, 2681–303, provided that: “The amendment made by subsection (a) [amending this section]—
+Pub. L. 105–277, div. A, §101(e) [title III, §354(b)], Oct. 21, 1998, 112 Stat. 2681–231, 2681–303, provided that: "The amendment made by subsection (a) [amending this section]—
 
-“(1) is intended to achieve the intent of Congress set forth in Public Law 98–396 [see Tables for classification]; and
+"(1) is intended to achieve the intent of Congress set forth in Public Law 98–396 [see Tables for classification]; and
 
-“(2) is not intended to set a precedent regarding adjustment or amendment of any boundaries of the Columbia River Gorge National Scenic Area or any other provisions of the Columbia River Gorge National Scenic Area Act [see Short Title note set out under section 544 of this title].”
+"(2) is not intended to set a precedent regarding adjustment or amendment of any boundaries of the Columbia River Gorge National Scenic Area or any other provisions of the Columbia River Gorge National Scenic Area Act [see Short Title note set out under section 544 of this title]."
 
-[<sup>1</sup> So in original. Probably should be “Willamette”.](#544b_1)
+[<sup>1</sup> So in original. Probably should be "Willamette".](#544b_1)

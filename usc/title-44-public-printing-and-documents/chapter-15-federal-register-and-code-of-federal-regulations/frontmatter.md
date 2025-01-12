@@ -8,7 +8,7 @@ Sec.
 
 1503. Filing documents with Office; notation of time; public inspection; transmission for printing.
 
-1504. “Federal Register”; printing; contents; distribution; price.
+1504. "Federal Register"; printing; contents; distribution; price.
 
 1505. Documents to be published in Federal Register.
 
@@ -26,7 +26,7 @@ Sec.
 
 #### Amendments ####
 
-**1977**—Pub. L. 95–94, title IV, §408(a)(2), Aug. 5, 1977, 91 Stat. 683, substituted “Costs of publication, etc.” for “Cost of publication; appropriations authorized; penalty mail privilege” in item 1509.
+**1977**—Pub. L. 95–94, title IV, §408(a)(2), Aug. 5, 1977, 91 Stat. 683, substituted "Costs of publication, etc." for "Cost of publication; appropriations authorized; penalty mail privilege" in item 1509.
 
 #### Federal Records Management Provisions Without Effect on Chapter ####
 

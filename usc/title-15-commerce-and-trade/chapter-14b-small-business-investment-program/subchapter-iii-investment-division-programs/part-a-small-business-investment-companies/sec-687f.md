@@ -28,4 +28,4 @@ Except with the written consent of the Administration, it shall be unlawful—
 
 #### References in Text ####
 
-For definition of “this chapter”, referred to in subsec. (a), see References in Text note set out under section 661 of this title.
+For definition of "this chapter", referred to in subsec. (a), see References in Text note set out under section 661 of this title.

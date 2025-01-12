@@ -88,7 +88,7 @@ Sec.
 
 **2007**—Pub. L. 109–476, §3(b), Jan. 12, 2007, 120 Stat. 3571, added item 1039.
 
-**2006**—Pub. L. 109–177, title III, §302(b), Mar. 9, 2006, 120 Stat. 233, inserted “or seaport” at end of item 1036.
+**2006**—Pub. L. 109–177, title III, §302(b), Mar. 9, 2006, 120 Stat. 233, inserted "or seaport" at end of item 1036.
 
 **2004**—Pub. L. 108–458, title VI, §6702(b), Dec. 17, 2004, 118 Stat. 3766, added item 1038.
 
@@ -98,17 +98,17 @@ Pub. L. 108–275, §2(b), July 15, 2004, 118 Stat. 832, added item 1028A.
 
 **2000**—Pub. L. 106–547, §2(b), Dec. 19, 2000, 114 Stat. 2739, added item 1036.
 
-**1998**—Pub. L. 105–318, §3(h)(2), Oct. 30, 1998, 112 Stat. 3009, inserted “and information” at end of item 1028.
+**1998**—Pub. L. 105–318, §3(h)(2), Oct. 30, 1998, 112 Stat. 3009, inserted "and information" at end of item 1028.
 
-**1996**—Pub. L. 104–294, title VI, §601(f)(8), Oct. 11, 1996, 110 Stat. 3500, substituted “veteran's facilities” for “veterans’ facilities” in item 1024.
+**1996**—Pub. L. 104–294, title VI, §601(f)(8), Oct. 11, 1996, 110 Stat. 3500, substituted "veteran's facilities" for "veterans' facilities" in item 1024.
 
 Pub. L. 104–191, title II, §244(b), Aug. 21, 1996, 110 Stat. 2017, added item 1035.
 
 **1994**—Pub. L. 103–322, title XXXII, §320603(b), Sept. 13, 1994, 108 Stat. 2118, added items 1033 and 1034.
 
-**1990**—Pub. L. 101–647, title XXV, §2501(b), title XXXV, §3532, Nov. 29, 1990, 104 Stat. 4860, 4925, inserted a period after “1031” and added item 1032.
+**1990**—Pub. L. 101–647, title XXV, §2501(b), title XXXV, §3532, Nov. 29, 1990, 104 Stat. 4860, 4925, inserted a period after "1031" and added item 1032.
 
-**1989**—Pub. L. 101–73, title IX, §§961(g)(2), 962(a)(4), Aug. 9, 1989, 103 Stat. 500, 502, struck out item 1008 “Federal Savings and Loan Insurance Corporation transactions” and item 1009 “Rumors regarding Federal Savings and Loan Insurance Corporation”.
+**1989**—Pub. L. 101–73, title IX, §§961(g)(2), 962(a)(4), Aug. 9, 1989, 103 Stat. 500, 502, struck out item 1008 "Federal Savings and Loan Insurance Corporation transactions" and item 1009 "Rumors regarding Federal Savings and Loan Insurance Corporation".
 
 **1988**—Pub. L. 100–700, §2(c), Nov. 19, 1988, 102 Stat. 4632, added item 1031.
 
@@ -116,15 +116,15 @@ Pub. L. 104–191, title II, §244(b), Aug. 21, 1996, 110 Stat. 2017, added item
 
 **1982**—Pub. L. 97–398, §3, Dec. 31, 1982, 96 Stat. 2010, added item 1028.
 
-**1974**—Pub. L. 93–406, title I, §111(a)(2)(B)(iii), Sept. 2, 1974, 88 Stat. 852, substituted “Employee Retirement Income Security Act of 1974” for “Welfare and Pension Plans Disclosure Act” in item 1027.
+**1974**—Pub. L. 93–406, title I, §111(a)(2)(B)(iii), Sept. 2, 1974, 88 Stat. 852, substituted "Employee Retirement Income Security Act of 1974" for "Welfare and Pension Plans Disclosure Act" in item 1027.
 
-**1967**—Pub. L. 90–19, §24(e), May 25, 1967, 81 Stat. 28, included “Department of Housing and Urban Development” in item 1010, and substituted the same for “Public Housing Administration” in item 1012.
+**1967**—Pub. L. 90–19, §24(e), May 25, 1967, 81 Stat. 28, included "Department of Housing and Urban Development" in item 1010, and substituted the same for "Public Housing Administration" in item 1012.
 
 **1962**—Pub. L. 87–420, §17(d), Mar. 20, 1962, 76 Stat. 42, added item 1027.
 
-**1951**—Act Oct. 31, 1951, ch. 655, §25, 65 Stat. 720, substituted “Public Housing Administration” for “United States Housing Authority” in item 1012.
+**1951**—Act Oct. 31, 1951, ch. 655, §25, 65 Stat. 720, substituted "Public Housing Administration" for "United States Housing Authority" in item 1012.
 
-**1949**—Act May 24, 1949, ch. 139, §§18, 19, 63 Stat. 92, corrected spelling in item 1012 and substituted “officers” for “offices” in item 1019.
+**1949**—Act May 24, 1949, ch. 139, §§18, 19, 63 Stat. 92, corrected spelling in item 1012 and substituted "officers" for "offices" in item 1019.
 
 [<sup>1</sup> Section catchline amended by Pub. L. 108–21 without corresponding amendment of chapter analysis.](#CHAPTER47_1)
 

@@ -6,7 +6,7 @@ Sec.
 
 102. Public policy in labor matters declared.
 
-103. Nonenforceability of undertakings in conflict with public policy; “yellow dog” contracts.
+103. Nonenforceability of undertakings in conflict with public policy; "yellow dog" contracts.
 
 104. Enumeration of specific acts not subject to restraining orders or injunctions.
 

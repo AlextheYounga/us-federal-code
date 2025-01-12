@@ -2,7 +2,7 @@
 
 #### (a) General rule ####
 
-For purposes of this subpart and section 512, the term “qualified asset account” means any account consisting of assets set aside to provide for the payment of—
+For purposes of this subpart and section 512, the term "qualified asset account" means any account consisting of assets set aside to provide for the payment of—
 
 (1) disability benefits,
 
@@ -98,7 +98,7 @@ for such taxable year with respect to medical benefits (other than post-retireme
 
 #### (B) Applicable account limit ####
 
-For purposes of this subsection, the term “applicable account limit” means an account limit for a qualified asset account with respect to medical benefits provided through a plan maintained by a bona fide association (as defined in section 2791(d)(3) of the Public Health Service Act (42 U.S.C. 300gg–91(d)(3)).<sup><a href="#419A_1_target" name="419A_1">1</a></sup>
+For purposes of this subsection, the term "applicable account limit" means an account limit for a qualified asset account with respect to medical benefits provided through a plan maintained by a bona fide association (as defined in section 2791(d)(3) of the Public Health Service Act (42 U.S.C. 300gg–91(d)(3)).<sup><a href="#419A_1_target" name="419A_1">1</a></sup>
 
 #### (d) Requirement of separate accounts for post-retirement medical or life insurance benefits provided to key employees ####
 
@@ -118,7 +118,7 @@ For purposes of section 415, any amount attributable to medical benefits allocat
 
 #### (3) Key employee ####
 
-For purposes of this section, the term “key employee” means any employee who, at any time during the plan year or any preceding plan year, is or was a key employee as defined in section 416(i).
+For purposes of this section, the term "key employee" means any employee who, at any time during the plan year or any preceding plan year, is or was a key employee as defined in section 416(i).
 
 #### (e) Special limitations on reserves for medical benefits or life insurance benefits provided to retired employees ####
 
@@ -136,7 +136,7 @@ For purposes of this section—
 
 #### (1) SUB or severance pay benefit ####
 
-The term “SUB or severance pay benefit” means—
+The term "SUB or severance pay benefit" means—
 
 (A) any supplemental unemployment compensation benefit (as defined in section 501(c)(17)(D)), and
 
@@ -144,11 +144,11 @@ The term “SUB or severance pay benefit” means—
 
 #### (2) Medical benefit ####
 
-The term “medical benefit” means a benefit which consists of the providing (directly or through insurance) of medical care (as defined in section 213(d)).
+The term "medical benefit" means a benefit which consists of the providing (directly or through insurance) of medical care (as defined in section 213(d)).
 
 #### (3) Life insurance benefit ####
 
-The term “life insurance benefit” includes any other death benefit.
+The term "life insurance benefit" includes any other death benefit.
 
 #### (4) Valuation ####
 
@@ -174,7 +174,7 @@ This subpart shall not apply in the case of any welfare benefit fund which is pa
 
 #### (B) 10 or more employer plan ####
 
-For purposes of subparagraph (A), the term “10 or more employer plan” means a plan—
+For purposes of subparagraph (A), the term "10 or more employer plan" means a plan—
 
 (i) to which more than 1 employer contributes, and
 
@@ -214,7 +214,7 @@ The fourth taxable year to which this section applies
 
 #### (C) Existing excess reserve ####
 
-For purposes of computing the increase under subparagraph (A) for any taxable year, the term “existing excess reserve” means the excess (if any) of—
+For purposes of computing the increase under subparagraph (A) for any taxable year, the term "existing excess reserve" means the excess (if any) of—
 
 (i) the amount of assets set aside at the close of the first taxable year ending after July 18, 1984, for purposes described in subsection (a), over
 
@@ -270,45 +270,45 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 **2006**—Subsec. (c)(6). Pub. L. 109–280 added par. (6).
 
-**1996**—Subsec. (c)(3). Pub. L. 104–188 substituted “severance” for “severence” in heading.
+**1996**—Subsec. (c)(3). Pub. L. 104–188 substituted "severance" for "severence" in heading.
 
 **1988**—Subsec. (a). Pub. L. 100–647, §1018(u)(12), made technical amendment to directory language of Pub. L. 99–514, §1851(a)(6)(B). See 1986 Amendment note below.
 
 Subsec. (f)(5). Pub. L. 100–647, §1018(t)(2)(A), repealed Pub. L. 99–514, §1851(a)(4). See 1986 Amendment note below.
 
-Pub. L. 100–647, §1018(t)(1)(C), substituted “account” for “accounts”.
+Pub. L. 100–647, §1018(t)(1)(C), substituted "account" for "accounts".
 
-**1986**—Subsec. (a). Pub. L. 99–514, §1851(a)(6)(B), as amended by Pub. L. 100–647, §1018(u)(12), inserted “and section 512” after “this subpart”.
+**1986**—Subsec. (a). Pub. L. 99–514, §1851(a)(6)(B), as amended by Pub. L. 100–647, §1018(u)(12), inserted "and section 512" after "this subpart".
 
-Subsec. (c)(5)(A). Pub. L. 99–514, §1851(a)(5), substituted “under this subsection” for “under paragraph (1)”.
+Subsec. (c)(5)(A). Pub. L. 99–514, §1851(a)(5), substituted "under this subsection" for "under paragraph (1)".
 
-Subsec. (d)(1). Pub. L. 99–514, §1851(a)(2)(B), inserted “The requirements of this paragraph shall apply to the first taxable year for which a reserve is taken into account under subsection (c)(2) and to all subsequent taxable years.”
+Subsec. (d)(1). Pub. L. 99–514, §1851(a)(2)(B), inserted "The requirements of this paragraph shall apply to the first taxable year for which a reserve is taken into account under subsection (c)(2) and to all subsequent taxable years."
 
-Subsec. (d)(2). Pub. L. 99–514, §1851(a)(2)(A), inserted “Subparagraph (B) of section 415(c)(1) shall not apply to any amount treated as an annual addition under the preceding sentence.”
+Subsec. (d)(2). Pub. L. 99–514, §1851(a)(2)(A), inserted "Subparagraph (B) of section 415(c)(1) shall not apply to any amount treated as an annual addition under the preceding sentence."
 
-Subsec. (e). Pub. L. 99–514, §1851(a)(3)(A), amended subsec. (e) generally. Prior to amendment, par. (1), benefits must be nondiscriminatory, read as follows: “No reserve may be taken into account under subsection (c)(2) for post-retirement medical benefits or life insurance benefits to be provided to covered employees unless the plan meets the requirements of section 505(b)(1) with respect to such benefits.”, and par. (2), taxable life insurance benefits not taken into account, read as follows: “No life insurance benefit may be taken into account under subsection (c)(2) to the extent—
+Subsec. (e). Pub. L. 99–514, §1851(a)(3)(A), amended subsec. (e) generally. Prior to amendment, par. (1), benefits must be nondiscriminatory, read as follows: "No reserve may be taken into account under subsection (c)(2) for post-retirement medical benefits or life insurance benefits to be provided to covered employees unless the plan meets the requirements of section 505(b)(1) with respect to such benefits.", and par. (2), taxable life insurance benefits not taken into account, read as follows: "No life insurance benefit may be taken into account under subsection (c)(2) to the extent—
 
-“(A) such benefit is includible in gross income under section 79, or
+"(A) such benefit is includible in gross income under section 79, or
 
-“(B) such benefit would be includible in gross income under section 101(b) (determined by substituting ‘$50,000’ for ‘$5,000’).”
+"(B) such benefit would be includible in gross income under section 101(b) (determined by substituting '$50,000' for '$5,000')."
 
-Subsec. (f)(5). Pub. L. 99–514, §1851(a)(13), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Higher limit in case of collectively bargained plans.—Not later than July 1, 1985, the Secretary shall by regulations provide for special account limits in the case of any qualified asset account under a welfare benefit fund established under a collective bargaining agreement.”
+Subsec. (f)(5). Pub. L. 99–514, §1851(a)(13), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "Higher limit in case of collectively bargained plans.—Not later than July 1, 1985, the Secretary shall by regulations provide for special account limits in the case of any qualified asset account under a welfare benefit fund established under a collective bargaining agreement."
 
-Pub. L. 99–514, §1851(a)(4), which directed amendment of par. (5) by substituting “welfare benefit fund maintained pursuant to” for “welfare benefit fund established under”, was repealed by Pub. L. 100–647, §1018(t)(2)(A).
+Pub. L. 99–514, §1851(a)(4), which directed amendment of par. (5) by substituting "welfare benefit fund maintained pursuant to" for "welfare benefit fund established under", was repealed by Pub. L. 100–647, §1018(t)(2)(A).
 
-Subsec. (f)(7)(C), (D). Pub. L. 99–514, §1851(a)(7), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “For purposes of this paragraph, the term ‘existing excess reserve’ means the excess (if any) of—
+Subsec. (f)(7)(C), (D). Pub. L. 99–514, §1851(a)(7), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: "For purposes of this paragraph, the term 'existing excess reserve' means the excess (if any) of—
 
-“(i) the amount of assets set aside for purposes described in subsection (a) as of the close of the first taxable year ending after the date of the enactment of the Tax Reform Act of 1984, over
+"(i) the amount of assets set aside for purposes described in subsection (a) as of the close of the first taxable year ending after the date of the enactment of the Tax Reform Act of 1984, over
 
-“(ii) the account limit which would have applied under this section to such taxable year if this section had applied to such taxable year.”
+"(ii) the account limit which would have applied under this section to such taxable year if this section had applied to such taxable year."
 
 Subsec. (g)(3). Pub. L. 99–514, §1851(a)(9), added par. (3).
 
-Subsec. (h)(1). Pub. L. 99–514, §1851(a)(6)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “At the election of the employer, 2 or more welfare benefit funds of such employer may be treated as 1 fund.”
+Subsec. (h)(1). Pub. L. 99–514, §1851(a)(6)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "At the election of the employer, 2 or more welfare benefit funds of such employer may be treated as 1 fund."
 
 #### Effective Date of 2006 Amendment ####
 
-Pub. L. 109–280, title VIII, §843(b), Aug. 17, 2006, 120 Stat. 1010, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2006.”
+Pub. L. 109–280, title VIII, §843(b), Aug. 17, 2006, 120 Stat. 1010, provided that: "The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2006."
 
 #### Effective Date of 1988 Amendment ####
 
@@ -324,6 +324,6 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Application of Section 419A(e) to Group-Term Life Insurance ####
 
-Pub. L. 99–514, title XVIII, §1851(a)(3)(B), Oct. 22, 1986, 100 Stat. 2859, as amended by Pub. L. 100–647, title I, §1018(t)(2)(D), Nov. 10, 1988, 102 Stat. 3587, provided that: “Subsection (e) of section 419A, section 505, and section 4976(b)(1)(B) of the Internal Revenue Code of 1954 [now 1986] (as amended by subparagraph (A)) shall not apply to any group-term life insurance to the extent that the amendments made by section 223(a) of the Tax Reform Act of 1984 [section 223(a) of Pub. L. 98–369, amending section 79 of this title] do not apply to such insurance by reason of paragraph (2) of section 223(d) of such Act [set out as a note under section 79 of this title].”
+Pub. L. 99–514, title XVIII, §1851(a)(3)(B), Oct. 22, 1986, 100 Stat. 2859, as amended by Pub. L. 100–647, title I, §1018(t)(2)(D), Nov. 10, 1988, 102 Stat. 3587, provided that: "Subsection (e) of section 419A, section 505, and section 4976(b)(1)(B) of the Internal Revenue Code of 1954 [now 1986] (as amended by subparagraph (A)) shall not apply to any group-term life insurance to the extent that the amendments made by section 223(a) of the Tax Reform Act of 1984 [section 223(a) of Pub. L. 98–369, amending section 79 of this title] do not apply to such insurance by reason of paragraph (2) of section 223(d) of such Act [set out as a note under section 79 of this title]."
 
 [<sup>1</sup> So in original. The period probably should be preceded by an additional closing parenthesis.](#419A_1)

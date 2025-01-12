@@ -24,8 +24,8 @@ Sec.
 
 **1986**—Pub. L. 99–514, title I, §132(d), Oct. 22, 1986, 100 Stat. 2116, added item 67.
 
-**1984**—Pub. L. 98–369, div. A, title IV, §424(b)(2)(C), July 18, 1984, 98 Stat. 803, struck out “where spouses live apart” in item 66.
+**1984**—Pub. L. 98–369, div. A, title IV, §424(b)(2)(C), July 18, 1984, 98 Stat. 803, struck out "where spouses live apart" in item 66.
 
 **1980**—Pub. L. 96–605, title I, §101(b), Dec. 28, 1980, 94 Stat. 3522, added item 66.
 
-**1976**—Pub. L. 94–455, title XIX, §1901(b)(4)(A), (B), Oct. 4, 1976, 90 Stat. 1793, substituted “TAXABLE INCOME, ETC.” for “AND TAXABLE INCOME” in part heading, and added items 64 and 65.
+**1976**—Pub. L. 94–455, title XIX, §1901(b)(4)(A), (B), Oct. 4, 1976, 90 Stat. 1793, substituted "TAXABLE INCOME, ETC." for "AND TAXABLE INCOME" in part heading, and added items 64 and 65.

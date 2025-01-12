@@ -8,8 +8,8 @@
 
 #### Amendments ####
 
-**1994**—Subsec. (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+**1994**—Subsec. (b). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".
 
-**1965**—Subsec. (a). Pub. L. 89–64 substituted “subject to a civil penalty of not more than $1,000 which shall be recoverable in a civil action brought in the name of the United States” for “fined not more than $1,000, or imprisoned not more than one year, or both”.
+**1965**—Subsec. (a). Pub. L. 89–64 substituted "subject to a civil penalty of not more than $1,000 which shall be recoverable in a civil action brought in the name of the United States" for "fined not more than $1,000, or imprisoned not more than one year, or both".
 
-**1961**—Pub. L. 87–338 designated existing provisions as subsec. (a), struck out “willfully” before “imparts or conveys”, and added subsec. (b).
+**1961**—Pub. L. 87–338 designated existing provisions as subsec. (a), struck out "willfully" before "imparts or conveys", and added subsec. (b).

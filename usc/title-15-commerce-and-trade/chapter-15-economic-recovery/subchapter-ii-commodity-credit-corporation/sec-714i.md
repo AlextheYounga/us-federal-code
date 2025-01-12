@@ -6,7 +6,7 @@ The Corporation may, with the consent of the agency concerned, accept and utiliz
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–127 inserted at end “After September 30, 1996, the total amount of all allotments and fund transfers from the Corporation under this section (including allotments and transfers for automated data processing or information resource management activities) for a fiscal year may not exceed the total amount of the allotments and transfers made under this section in fiscal year 1995.”
+**1996**—Pub. L. 104–127 inserted at end "After September 30, 1996, the total amount of all allotments and fund transfers from the Corporation under this section (including allotments and transfers for automated data processing or information resource management activities) for a fiscal year may not exceed the total amount of the allotments and transfers made under this section in fiscal year 1995."
 
 #### Exceptions From Transfer of Functions ####
 

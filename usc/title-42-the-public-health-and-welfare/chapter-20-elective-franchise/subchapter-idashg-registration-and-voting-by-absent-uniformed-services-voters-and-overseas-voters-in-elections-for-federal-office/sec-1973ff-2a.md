@@ -38,7 +38,7 @@ The Presidential designee shall take appropriate actions to inform individuals w
 
 #### (d) Absent overseas uniformed services voter defined ####
 
-In this section, the term “absent overseas uniformed services voter” means an overseas voter described in section 1973ff–6(5)(A) of this title.
+In this section, the term "absent overseas uniformed services voter" means an overseas voter described in section 1973ff–6(5)(A) of this title.
 
 #### (e) Authorization of appropriations ####
 

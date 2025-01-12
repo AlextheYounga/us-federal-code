@@ -8,4 +8,4 @@ Each facility to which this part applies shall notify the appropriate State lice
 
 (July 1, 1944, ch. 373, title V, §595A, as added Pub. L. 106–310, div. B, title XXXII, §3208, Oct. 17, 2000, 114 Stat. 1199.)
 
-[<sup>1</sup> So in original. Probably should be “individual's”.](#290jj-1_1)
+[<sup>1</sup> So in original. Probably should be "individual's".](#290jj-1_1)

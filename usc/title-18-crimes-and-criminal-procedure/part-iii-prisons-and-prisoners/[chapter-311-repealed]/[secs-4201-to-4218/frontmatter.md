@@ -8,17 +8,17 @@ Pub. L. 98–473, title II, §235(a)(1), Oct. 12, 1984, 98 Stat. 2031, set out a
 
 As used in this chapter—
 
-(1) “Commission” means the United States Parole Commission;
+(1) "Commission" means the United States Parole Commission;
 
-(2) “Commissioner” means any member of the United States Parole Commission;
+(2) "Commissioner" means any member of the United States Parole Commission;
 
-(3) “Director” means the Director of the Bureau of Prisons;
+(3) "Director" means the Director of the Bureau of Prisons;
 
-(4) “Eligible prisoner” means any Federal prisoner who is eligible for parole pursuant to this title or any other law including any Federal prisoner whose parole has been revoked and who is not otherwise ineligible for parole;
+(4) "Eligible prisoner" means any Federal prisoner who is eligible for parole pursuant to this title or any other law including any Federal prisoner whose parole has been revoked and who is not otherwise ineligible for parole;
 
-(5) “Parolee” means any eligible prisoner who has been released on parole or deemed as if released on parole under section 4164 or section 4205(f); and
+(5) "Parolee" means any eligible prisoner who has been released on parole or deemed as if released on parole under section 4164 or section 4205(f); and
 
-(6) “Rules and regulations” means rules and regulations promulgated by the Commission pursuant to section 4203 and section 553 of title 5, United States Code.
+(6) "Rules and regulations" means rules and regulations promulgated by the Commission pursuant to section 4203 and section 553 of title 5, United States Code.
 
 (Added Pub. L. 94–233, §2, Mar. 15, 1976, 90 Stat. 219.)
 
@@ -32,37 +32,37 @@ There is hereby established, as an independent agency in the Department of Justi
 
 Pub. L. 107–273, div. C, title I, §11017, Nov. 2, 2002, 116 Stat. 1824, provided that:
 
-“(a) Extension of the Parole Commission.—For purposes of section 235(b) of the Sentencing Reform Act of 1984 [Pub. L. 98–473, set out as a note under section 3551 of this title] (98 Stat. 2032) as such section relates to chapter 311 of title 18, United States Code, and the Parole Commission, each reference in such section to ‘fifteen years’ or ‘fifteen-year period’ shall be deemed to be a reference to ‘eighteen years’ or ‘eighteen-year period’, respectively.
+"(a) Extension of the Parole Commission.—For purposes of section 235(b) of the Sentencing Reform Act of 1984 [Pub. L. 98–473, set out as a note under section 3551 of this title] (98 Stat. 2032) as such section relates to chapter 311 of title 18, United States Code, and the Parole Commission, each reference in such section to 'fifteen years' or 'fifteen-year period' shall be deemed to be a reference to 'eighteen years' or 'eighteen-year period', respectively.
 
-“(b) Study by Attorney General.—The Attorney General, not later than 60 days after the enactment of this Act [Nov. 2, 2002], should establish a committee within the Department of Justice to evaluate the merits and feasibility of transferring the United States Parole Commission's functions regarding the supervised release of District of Columbia offenders to another entity or entities outside the Department of Justice. This committee should consult with the District of Columbia Superior Court and the District of Columbia Court Services and Offender Supervision Agency, and should report its findings and recommendations to the Attorney General. The Attorney General, in turn, should submit to Congress, not later than 18 months after the enactment of this Act, a long-term plan for the most effective and cost-efficient assignment of responsibilities relating to the supervised release of District of Columbia offenders.
+"(b) Study by Attorney General.—The Attorney General, not later than 60 days after the enactment of this Act [Nov. 2, 2002], should establish a committee within the Department of Justice to evaluate the merits and feasibility of transferring the United States Parole Commission's functions regarding the supervised release of District of Columbia offenders to another entity or entities outside the Department of Justice. This committee should consult with the District of Columbia Superior Court and the District of Columbia Court Services and Offender Supervision Agency, and should report its findings and recommendations to the Attorney General. The Attorney General, in turn, should submit to Congress, not later than 18 months after the enactment of this Act, a long-term plan for the most effective and cost-efficient assignment of responsibilities relating to the supervised release of District of Columbia offenders.
 
-“(c) Service as Commissioner.—Notwithstanding subsection (a), the final clause of the fourth sentence of section 4202 of title 18, United States Code, which begins ‘except that’, shall not apply to a person serving as a Commissioner of the United States Parole Commission when this Act takes effect [Nov. 2, 2002].”
+"(c) Service as Commissioner.—Notwithstanding subsection (a), the final clause of the fourth sentence of section 4202 of title 18, United States Code, which begins 'except that', shall not apply to a person serving as a Commissioner of the United States Parole Commission when this Act takes effect [Nov. 2, 2002]."
 
 #### Parole Commission Phaseout ####
 
 Pub. L. 104–232, §§1–3, Oct. 2, 1996, 110 Stat. 3055, 3056, as amended by Pub. L. 105–33, title XI, §11231(d), Aug. 5, 1997, 111 Stat. 745, provided that:
 
-#### “SECTION 1. SHORT TITLE. ####
+#### "SECTION 1. SHORT TITLE. ####
 
-“This Act [enacting and amending provisions set out as notes under section 3551 of this title] may be cited as the ‘Parole Commission Phaseout Act of 1996’.
+"This Act [enacting and amending provisions set out as notes under section 3551 of this title] may be cited as the 'Parole Commission Phaseout Act of 1996'.
 
-#### “SEC. 2. EXTENSION OF PAROLE COMMISSION. ####
+#### "SEC. 2. EXTENSION OF PAROLE COMMISSION. ####
 
-“(a) In General.—For purposes of section 235(b) of the Sentencing Reform Act of 1984 [Pub. L. 98–473, set out as a note under section 3551 of this title] (98 Stat. 2032) as it related to chapter 311 of title 18, United States Code, and the Parole Commission, each reference in such section to ‘ten years’ or ‘ten-year period’ shall be deemed to be a reference to ‘fifteen years’ or ‘fifteen-year period’, respectively.
+"(a) In General.—For purposes of section 235(b) of the Sentencing Reform Act of 1984 [Pub. L. 98–473, set out as a note under section 3551 of this title] (98 Stat. 2032) as it related to chapter 311 of title 18, United States Code, and the Parole Commission, each reference in such section to 'ten years' or 'ten-year period' shall be deemed to be a reference to 'fifteen years' or 'fifteen-year period', respectively.
 
-“(b) Powers and Duties of Parole Commission.—Notwithstanding section 4203 of title 18, United States Code, the United States Parole Commission may perform its functions with any quorum of Commissioners, or Commissioner, as the Commission may prescribe by regulation.
+"(b) Powers and Duties of Parole Commission.—Notwithstanding section 4203 of title 18, United States Code, the United States Parole Commission may perform its functions with any quorum of Commissioners, or Commissioner, as the Commission may prescribe by regulation.
 
-“(c) The United States Parole Commission shall have no more than five members.
+"(c) The United States Parole Commission shall have no more than five members.
 
-#### “SEC. 3. REPORTS BY THE ATTORNEY GENERAL. ####
+#### "SEC. 3. REPORTS BY THE ATTORNEY GENERAL. ####
 
-“(a) In General.—Beginning in the year 1998, the Attorney General shall report to the Congress not later than May 1 of each year through the year 2002 on the status of the United States Parole Commission. Unless the Attorney General, in such report, certifies that the continuation of the Commission is the most effective and cost-efficient manner for carrying out the Commission's functions, the Attorney General shall include in such report an alternative plan for a transfer of the Commission's functions to another entity.
+"(a) In General.—Beginning in the year 1998, the Attorney General shall report to the Congress not later than May 1 of each year through the year 2002 on the status of the United States Parole Commission. Unless the Attorney General, in such report, certifies that the continuation of the Commission is the most effective and cost-efficient manner for carrying out the Commission's functions, the Attorney General shall include in such report an alternative plan for a transfer of the Commission's functions to another entity.
 
-“(b) Transfer Within the Department of Justice.—
+"(b) Transfer Within the Department of Justice.—
 
-“(1) Effect of plan.—If the Attorney General includes such a plan in the report, and that plan provides for the transfer of the Commission's functions and powers to another entity within the Department of Justice, such plan shall take effect according to its terms on November 1 of that year in which the report is made, unless Congress by law provides otherwise. In the event such plan takes effect, all laws pertaining to the authority and jurisdiction of the Commission with respect to individual offenders shall remain in effect notwithstanding the expiration of the period specified in section 2 of this Act.
+"(1) Effect of plan.—If the Attorney General includes such a plan in the report, and that plan provides for the transfer of the Commission's functions and powers to another entity within the Department of Justice, such plan shall take effect according to its terms on November 1 of that year in which the report is made, unless Congress by law provides otherwise. In the event such plan takes effect, all laws pertaining to the authority and jurisdiction of the Commission with respect to individual offenders shall remain in effect notwithstanding the expiration of the period specified in section 2 of this Act.
 
-“(2) Conditional repeal.—Effective on the date such plan takes effect, paragraphs (3) and (4) of section 235(b) of the Sentencing Reform Act of 1984 [Pub. L. 98–473, set out as a note under section 3551 of this title] (98 Stat. 2032) are repealed.”
+"(2) Conditional repeal.—Effective on the date such plan takes effect, paragraphs (3) and (4) of section 235(b) of the Sentencing Reform Act of 1984 [Pub. L. 98–473, set out as a note under section 3551 of this title] (98 Stat. 2032) are repealed."
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates ####
 
@@ -458,9 +458,9 @@ Amendment by section 7303(c)(3) of Pub. L. 100–690 applicable with respect to 
 
 #### §4218. Applicability of Administrative Procedure Act ####
 
-(a) For purposes of the provisions of chapter 5 of title 5, United States Code, other than sections 554, 555, 556, and 557, the Commission is an “agency” as defined in such chapter.
+(a) For purposes of the provisions of chapter 5 of title 5, United States Code, other than sections 554, 555, 556, and 557, the Commission is an "agency" as defined in such chapter.
 
-(b) For purposes of subsection (a) of this section, section 553(b)(3)(A) of title 5, United States Code, relating to rulemaking, shall be deemed not to include the phrase “general statements of policy”.
+(b) For purposes of subsection (a) of this section, section 553(b)(3)(A) of title 5, United States Code, relating to rulemaking, shall be deemed not to include the phrase "general statements of policy".
 
 (c) To the extent that actions of the Commission pursuant to section 4203(a)(1) are not in accord with the provisions of section 553 of title 5, United States Code, they shall be reviewable in accordance with the provisions of sections 701 through 706 of title 5, United States Code.
 

@@ -22,9 +22,9 @@ For the purpose of carrying out paragraph (1), the Director of NIH shall enter i
 
 #### Amendments ####
 
-**2007**—Subsec. (d). Pub. L. 109–482 struck out heading and text of subsec. (d). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated $40,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 2003.”
+**2007**—Subsec. (d). Pub. L. 109–482 struck out heading and text of subsec. (d). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated $40,000,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 2003."
 
-**1998**—Subsec. (d). Pub. L. 105–340 substituted “through 2003” for “and 1996”.
+**1998**—Subsec. (d). Pub. L. 105–340 substituted "through 2003" for "and 1996".
 
 #### Effective Date of 2007 Amendment ####
 

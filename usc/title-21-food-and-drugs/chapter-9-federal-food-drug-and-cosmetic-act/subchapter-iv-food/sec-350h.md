@@ -30,7 +30,7 @@ The proposed rulemaking under paragraph (1) shall—
 
 (E) in the case of production that is certified organic, not include any requirements that conflict with or duplicate the requirements of the national organic program established under the Organic Foods Production Act of 1990, while providing the same level of public health protection as the requirements under guidance documents, including guidance documents regarding action levels, and regulations under the FDA Food Safety Modernization Act; and
 
-(F) define, for purposes of this section, the terms “small business” and “very small business”.
+(F) define, for purposes of this section, the terms "small business" and "very small business".
 
 #### (4) Prioritization ####
 
@@ -68,7 +68,7 @@ The regulations adopted under subsection (b) shall—
 
 (B) provide sufficient flexibility to be practicable for all sizes and types of businesses, including small businesses such as a small food processing facility co-located on a farm;
 
-(C) comply with chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”), with special attention to minimizing the burden (as defined in section 3502(2) of such title) on the business, and collection of information (as defined in section 3502(3) of such title), associated with such regulations;
+(C) comply with chapter 35 of title 44 (commonly known as the "Paperwork Reduction Act"), with special attention to minimizing the burden (as defined in section 3502(2) of such title) on the business, and collection of information (as defined in section 3502(3) of such title), associated with such regulations;
 
 (D) acknowledge differences in risk and minimize, as appropriate, the number of separate standards that apply to separate foods; and
 
@@ -154,7 +154,7 @@ Nothing in this subsection shall be construed to expand or limit the inspection 
 
 #### (A) Qualified end-user ####
 
-In this subsection, the term “qualified end-user”, with respect to a food means—
+In this subsection, the term "qualified end-user", with respect to a food means—
 
 (i) the consumer of the food; or
 
@@ -166,7 +166,7 @@ In this subsection, the term “qualified end-user”, with respect to a food me
 
 #### (B) Consumer ####
 
-For purposes of subparagraph (A), the term “consumer” does not include a business.
+For purposes of subparagraph (A), the term "consumer" does not include a business.
 
 #### (5) No preemption ####
 
@@ -198,24 +198,24 @@ Nothing in this section to be construed to apply to certain alcohol-related faci
 
 #### Scientific and Economic Analysis of the FDA Food Safety Modernization Act ####
 
-Pub. L. 113–79, title XII, §12311(a), Feb. 7, 2014, 128 Stat. 992, provided that: “When publishing a final rule with respect to ‘Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption’ published by the Department of Health and Human Services on January 16, 2013 (78 Fed. Reg. 3504), the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall ensure that the final rule (referred to in this section as the ‘final rule’) includes the following information:
+Pub. L. 113–79, title XII, §12311(a), Feb. 7, 2014, 128 Stat. 992, provided that: "When publishing a final rule with respect to 'Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption' published by the Department of Health and Human Services on January 16, 2013 (78 Fed. Reg. 3504), the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall ensure that the final rule (referred to in this section as the 'final rule') includes the following information:
 
-“(1) An analysis of the scientific information used to promulgate the final rule, taking into consideration any information about farming and ranching operations of a variety of sizes, with regional differences, and that have a diversity of production practices and methods.
+"(1) An analysis of the scientific information used to promulgate the final rule, taking into consideration any information about farming and ranching operations of a variety of sizes, with regional differences, and that have a diversity of production practices and methods.
 
-“(2) An analysis of the economic impact of the final rule.
+"(2) An analysis of the economic impact of the final rule.
 
-“(3) A plan to systematically—
+"(3) A plan to systematically—
 
-“(A) evaluate the impact of the final rule on farming and ranching operations; and
+"(A) evaluate the impact of the final rule on farming and ranching operations; and
 
-“(B) develop an ongoing process to evaluate and respond to business concerns.”
+"(B) develop an ongoing process to evaluate and respond to business concerns."
 
 #### Small Entity Compliance Policy Guide ####
 
-Pub. L. 111–353, title I, §105(b), Jan. 4, 2011, 124 Stat. 3904, provided that: “Not later than 180 days after the issuance of regulations under section 419 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350h] (as added by subsection (a)), the Secretary of Health and Human Services shall issue a small entity compliance policy guide setting forth in plain language the requirements of such section 419 and to assist small entities in complying with standards for safe production and harvesting and other activities required under such section.”
+Pub. L. 111–353, title I, §105(b), Jan. 4, 2011, 124 Stat. 3904, provided that: "Not later than 180 days after the issuance of regulations under section 419 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350h] (as added by subsection (a)), the Secretary of Health and Human Services shall issue a small entity compliance policy guide setting forth in plain language the requirements of such section 419 and to assist small entities in complying with standards for safe production and harvesting and other activities required under such section."
 
 #### No Effect on HACCP Authorities ####
 
-Pub. L. 111–353, title I, §105(d), Jan. 4, 2011, 124 Stat. 3905, provided that: “Nothing in the amendments made by this section [enacting this section and amending section 331 of this title] limits the authority of the Secretary [of Health and Human Services] under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) or the Public Health Service Act (42 U.S.C. 201 et seq.) to revise, issue, or enforce product and category-specific regulations, such as the Seafood Hazard Analysis Critical Controls Points Program, the Juice Hazard Analysis Critical Control [Points] Program, and the Thermally Processed Low-Acid Foods Packaged in Hermetically Sealed Containers standards.”
+Pub. L. 111–353, title I, §105(d), Jan. 4, 2011, 124 Stat. 3905, provided that: "Nothing in the amendments made by this section [enacting this section and amending section 331 of this title] limits the authority of the Secretary [of Health and Human Services] under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) or the Public Health Service Act (42 U.S.C. 201 et seq.) to revise, issue, or enforce product and category-specific regulations, such as the Seafood Hazard Analysis Critical Controls Points Program, the Juice Hazard Analysis Critical Control [Points] Program, and the Thermally Processed Low-Acid Foods Packaged in Hermetically Sealed Containers standards."
 
-[<sup>1</sup> So in original. Probably should be “or certify compliance”.](#350h_1)
+[<sup>1</sup> So in original. Probably should be "or certify compliance".](#350h_1)

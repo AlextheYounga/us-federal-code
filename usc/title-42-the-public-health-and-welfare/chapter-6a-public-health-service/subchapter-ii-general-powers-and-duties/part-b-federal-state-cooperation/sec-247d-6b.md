@@ -4,7 +4,7 @@
 
 #### (1) In general ####
 
-The Secretary, in collaboration with the Director of the Centers for Disease Control and Prevention, and in coordination with the Secretary of Homeland Security (referred to in this section as the “Homeland Security Secretary”), shall maintain a stockpile or stockpiles of drugs, vaccines and other biological products, medical devices, and other supplies in such numbers, types, and amounts as are determined consistent with section 300hh–10 of this title by the Secretary to be appropriate and practicable, taking into account other available sources, to provide for the emergency health security of the United States, including the emergency health security of children and other vulnerable populations, in the event of a bioterrorist attack or other public health emergency. The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, including non-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review and shall submit such review annually to the appropriate congressional committees of jurisdiction to the extent that disclosure of such information does not compromise national security.
+The Secretary, in collaboration with the Director of the Centers for Disease Control and Prevention, and in coordination with the Secretary of Homeland Security (referred to in this section as the "Homeland Security Secretary"), shall maintain a stockpile or stockpiles of drugs, vaccines and other biological products, medical devices, and other supplies in such numbers, types, and amounts as are determined consistent with section 300hh–10 of this title by the Secretary to be appropriate and practicable, taking into account other available sources, to provide for the emergency health security of the United States, including the emergency health security of children and other vulnerable populations, in the event of a bioterrorist attack or other public health emergency. The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, including non-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review and shall submit such review annually to the appropriate congressional committees of jurisdiction to the extent that disclosure of such information does not compromise national security.
 
 #### (2) Procedures ####
 
@@ -46,7 +46,7 @@ A security countermeasure may, in accordance with this subsection, be procured w
 
 #### (B) Security countermeasure ####
 
-For purposes of this subsection, the term “security countermeasure” means a drug (as that term is defined by section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1))), biological product (as that term is defined by section 262(i) of this title), or device (as that term is defined by section 201(h) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(h))) that—
+For purposes of this subsection, the term "security countermeasure" means a drug (as that term is defined by section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1))), biological product (as that term is defined by section 262(i) of this title), or device (as that term is defined by section 201(h) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(h))) that—
 
 (i)(I) the Secretary determines to be a priority (consistent with sections 182(2) and 184(a) of title 6) to diagnose, mitigate, prevent, or treat harm from any biological, chemical, radiological, or nuclear agent identified as a material threat under paragraph (2)(A)(ii), or to diagnose, mitigate, prevent, or treat harm from a condition that may result in adverse health consequences or death and may be caused by administering a drug, biological product, or device against such an agent;
 
@@ -134,7 +134,7 @@ If the President approves a proposal under subparagraph (A), the Homeland Securi
 
 #### (A) In general ####
 
-The Secretary, in accordance with the provisions of this paragraph, shall identify specific security countermeasures that the Secretary determines, in consultation with the Homeland Security Secretary, to be appropriate for inclusion in the stockpile under subsection (a) of this section pursuant to procurements made with amounts in the special reserve fund as defined in subsection (h) (referred to in this subsection individually as a “procurement under this subsection”).
+The Secretary, in accordance with the provisions of this paragraph, shall identify specific security countermeasures that the Secretary determines, in consultation with the Homeland Security Secretary, to be appropriate for inclusion in the stockpile under subsection (a) of this section pursuant to procurements made with amounts in the special reserve fund as defined in subsection (h) (referred to in this subsection individually as a "procurement under this subsection").
 
 #### (B) Requirements ####
 
@@ -278,7 +278,7 @@ In conducting a procurement under this subparagraph, the Secretary may not use t
 
 #### (I) In general ####
 
-In using the authority provided in section 3304(a)(1) of title 41 to use procedures other than competitive procedures in the case of a procurement under this subsection, the phrase “available from only one responsible source” in such section 3304(a)(1) shall be deemed to mean “available from only one responsible source or only from a limited number of responsible sources”.
+In using the authority provided in section 3304(a)(1) of title 41 to use procedures other than competitive procedures in the case of a procurement under this subsection, the phrase "available from only one responsible source" in such section 3304(a)(1) shall be deemed to mean "available from only one responsible source or only from a limited number of responsible sources".
 
 #### (II) Relation to other authorities ####
 
@@ -296,7 +296,7 @@ If, under this subsection, the Secretary enters into contracts with more than on
 
 (aa) identifies an increment of the total quantity of security countermeasure required, whether by percentage or by numbers of units; and
 
-(bb) promises to pay one or more specified premiums based on the priority of such vendors’ production and delivery of the increment identified under item (aa), in accordance with the terms and conditions of the contract.
+(bb) promises to pay one or more specified premiums based on the priority of such vendors' production and delivery of the increment identified under item (aa), in accordance with the terms and conditions of the contract.
 
 #### (II) Determination of Government's requirement not reviewable ####
 
@@ -330,7 +330,7 @@ No Federal agency shall disclose under section 552 of title 5 any information id
 
 #### (e) Definition ####
 
-For purposes of subsection (a) of this section, the term “stockpile” includes—
+For purposes of subsection (a) of this section, the term "stockpile" includes—
 
 (1) a physical accumulation (at one or more locations) of the supplies described in subsection (a) of this section; or
 
@@ -372,9 +372,9 @@ Not later than 30 days after any date on which the Secretary determines that the
 
 In this section:
 
-(1) The term “advanced research and development” has the meaning given such term in section 247d–7e(a) of this title.
+(1) The term "advanced research and development" has the meaning given such term in section 247d–7e(a) of this title.
 
-(2) The term “special reserve fund” means the “Biodefense Countermeasures” appropriations account, any appropriation made available pursuant to section 321j(a) of title 6, and any appropriation made available pursuant to subsection (g)(1).
+(2) The term "special reserve fund" means the "Biodefense Countermeasures" appropriations account, any appropriation made available pursuant to section 321j(a) of title 6, and any appropriation made available pursuant to subsection (g)(1).
 
 (July 1, 1944, ch. 373, title III, §319F–2, formerly Pub. L. 107–188, title I, §121, June 12, 2002, 116 Stat. 611; Pub. L. 107–296, title XVII, §1705(a), Nov. 25, 2002, 116 Stat. 2316; renumbered §319F–2 of act July 1, 1944, and amended Pub. L. 108–276, §3(a), July 21, 2004, 118 Stat. 842; Pub. L. 109–417, title I, §102(c), title IV, §§403(b), 406, Dec. 19, 2006, 120 Stat. 2834, 2874, 2879; Pub. L. 113–5, title IV, §§401, 403, Mar. 13, 2013, 127 Stat. 192, 196.)
 
@@ -386,91 +386,91 @@ The Project BioShield Act of 2004, referred to in subsec. (c)(7)(C)(iii)(IV), is
 
 #### Codification ####
 
-In subsec. (c)(7)(C)(ii)(VII), “section 3304(a)(1) of title 41” substituted for “section 303(c)(1) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(1))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(C)(ii)(VII), "section 3304(a)(1) of title 41" substituted for "section 303(c)(1) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(1))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(7)(C)(iii)(I), “section 134 of title 41” substituted for “section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))” and “section 3101(b)(1)(A) of title 41” substituted for “section 302A(a) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252a(a))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(C)(iii)(I), "section 134 of title 41" substituted for "section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11))" and "section 3101(b)(1)(A) of title 41" substituted for "section 302A(a) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252a(a))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(7)(C)(iii)(I)(aa), “section 3305(a)(1) of title 41” substituted for “section 303(g)(1)(A) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)(A))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(C)(iii)(I)(aa), "section 3305(a)(1) of title 41" substituted for "section 303(g)(1)(A) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(g)(1)(A))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(7)(C)(iii)(I)(bb), “section 3101(b)(1)(B) of title 41” substituted for “section 302A(b) of such Act (41 U.S.C. 252a(b))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(C)(iii)(I)(bb), "section 3101(b)(1)(B) of title 41" substituted for "section 302A(b) of such Act (41 U.S.C. 252a(b))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(7)(C)(iii)(II)(bb), “Section 8703(a) of title 41” substituted for “Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 (41 U.S.C. 57(a) and (b))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(C)(iii)(II)(bb), "Section 8703(a) of title 41" substituted for "Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 (41 U.S.C. 57(a) and (b))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(7)(C)(iii)(II)(cc), “Section 4706 of title 41” substituted for “Section 304C of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254d)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(C)(iii)(II)(cc), "Section 4706 of title 41" substituted for "Section 304C of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254d)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(7)(C)(iii)(II)(ee), “Section 3901 of title 41” substituted for “Subsection (a) of section 304 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254(a))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(C)(iii)(II)(ee), "Section 3901 of title 41" substituted for "Subsection (a) of section 304 of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254(a))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(7)(C)(iv)(I), “section 3304(a)(1) of title 41” substituted for “section 303(c)(1) of title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(1))” and “such section 3304(a)(1)” substituted for “such section 303(c)(1)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(C)(iv)(I), "section 3304(a)(1) of title 41" substituted for "section 303(c)(1) of title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(1))" and "such section 3304(a)(1)" substituted for "such section 303(c)(1)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(7)(C)(iv)(III), “such section 3304(a)(1)” substituted for “such section 303(c)(1)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(C)(iv)(III), "such section 3304(a)(1)" substituted for "such section 303(c)(1)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c)(7)(C)(vii), “section 3306(a)(1)(B) of title 41” substituted for “section 303A(a)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253a(a)(1)(B))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(7)(C)(vii), "section 3306(a)(1)(B) of title 41" substituted for "section 303A(a)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253a(a)(1)(B))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was formerly classified to section 300hh–12 of this title prior to renumbering by Pub. L. 108–276.
 
 #### Amendments ####
 
-**2013**—Subsec. (a)(1). Pub. L. 113–5, §403(1)(A), inserted “consistent with section 300hh–10 of this title” after “amounts as are determined” and “and shall submit such review annually to the appropriate congressional committees of jurisdiction to the extent that disclosure of such information does not compromise national security” after “based on such review”.
+**2013**—Subsec. (a)(1). Pub. L. 113–5, §403(1)(A), inserted "consistent with section 300hh–10 of this title" after "amounts as are determined" and "and shall submit such review annually to the appropriate congressional committees of jurisdiction to the extent that disclosure of such information does not compromise national security" after "based on such review".
 
-Subsec. (a)(2)(D). Pub. L. 113–5, §403(1)(B), inserted “and that the potential depletion of countermeasures currently in the stockpile is identified and appropriately addressed, including through necessary replenishment” before semicolon at end.
+Subsec. (a)(2)(D). Pub. L. 113–5, §403(1)(B), inserted "and that the potential depletion of countermeasures currently in the stockpile is identified and appropriately addressed, including through necessary replenishment" before semicolon at end.
 
-Subsec. (c). Pub. L. 113–5, §401(b)(1)(A), substituted “special reserve fund as defined in subsection (h)” for “special reserve fund under paragraph (10)” wherever appearing.
+Subsec. (c). Pub. L. 113–5, §401(b)(1)(A), substituted "special reserve fund as defined in subsection (h)" for "special reserve fund under paragraph (10)" wherever appearing.
 
-Subsec. (c)(1)(B)(i)(III)(bb). Pub. L. 113–5, §401(a)(1), substituted “10 years” for “eight years”.
+Subsec. (c)(1)(B)(i)(III)(bb). Pub. L. 113–5, §401(a)(1), substituted "10 years" for "eight years".
 
-Subsec. (c)(2)(C). Pub. L. 113–5, §401(a)(2), substituted “the appropriate committees of Congress” for “the designated congressional committees (as defined in paragraph (10))”.
+Subsec. (c)(2)(C). Pub. L. 113–5, §401(a)(2), substituted "the appropriate committees of Congress" for "the designated congressional committees (as defined in paragraph (10))".
 
-Subsec. (c)(5)(B)(ii). Pub. L. 113–5, §401(a)(3), substituted “10 years” for “eight years”.
+Subsec. (c)(5)(B)(ii). Pub. L. 113–5, §401(a)(3), substituted "10 years" for "eight years".
 
-Subsec. (c)(6)(C). Pub. L. 113–5, §401(a)(4), substituted “appropriate congressional committees” for “designated congressional committees” in heading and in text.
+Subsec. (c)(6)(C). Pub. L. 113–5, §401(a)(4), substituted "appropriate congressional committees" for "designated congressional committees" in heading and in text.
 
-Subsec. (c)(7)(C)(i)(I). Pub. L. 113–5, §401(a)(5)(A), inserted “including advanced research and development,” after “as may reasonably be required,”.
+Subsec. (c)(7)(C)(i)(I). Pub. L. 113–5, §401(a)(5)(A), inserted "including advanced research and development," after "as may reasonably be required,".
 
-Subsec. (c)(7)(C)(ii)(III). Pub. L. 113–5, §401(a)(5)(B)(i), substituted “10 years” for “eight years”.
+Subsec. (c)(7)(C)(ii)(III). Pub. L. 113–5, §401(a)(5)(B)(i), substituted "10 years" for "eight years".
 
-Subsec. (c)(7)(C)(ii)(IX). Pub. L. 113–5, §401(a)(5)(B)(ii), added subcl. (IX) and struck out former subcl. (IX). Prior to amendment, text read as follows: “The Secretary, in any contract for procurement under this section, may specify—
+Subsec. (c)(7)(C)(ii)(IX). Pub. L. 113–5, §401(a)(5)(B)(ii), added subcl. (IX) and struck out former subcl. (IX). Prior to amendment, text read as follows: "The Secretary, in any contract for procurement under this section, may specify—
 
-“(aa) the dosing and administration requirements for countermeasures to be developed and procured;
+"(aa) the dosing and administration requirements for countermeasures to be developed and procured;
 
-“(bb) the amount of funding that will be dedicated by the Secretary for development and acquisition of the countermeasure; and
+"(bb) the amount of funding that will be dedicated by the Secretary for development and acquisition of the countermeasure; and
 
-“(cc) the specifications the countermeasure must meet to qualify for procurement under a contract under this section.”
+"(cc) the specifications the countermeasure must meet to qualify for procurement under a contract under this section."
 
 Subsec. (c)(7)(C)(viii). Pub. L. 113–5, §401(a)(5)(C), added cl. (viii).
 
-Subsec. (c)(9), (10). Pub. L. 113–5, §401(b)(1)(B), struck out pars. (9) and (10) which described restrictions on the use of funds and defined “special reserve fund” and “designated congressional committees”.
+Subsec. (c)(9), (10). Pub. L. 113–5, §401(b)(1)(B), struck out pars. (9) and (10) which described restrictions on the use of funds and defined "special reserve fund" and "designated congressional committees".
 
-Subsec. (f)(1). Pub. L. 113–5, §403(2), substituted “$533,800,000 for each of fiscal years 2014 through 2018. Such authorization is in addition to amounts in the special reserve fund referred to in subsection (h).” for “$640,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006. Such authorization is in addition to amounts in the special reserve fund referred to in subsection (c)(10)(A) of this section.”
+Subsec. (f)(1). Pub. L. 113–5, §403(2), substituted "$533,800,000 for each of fiscal years 2014 through 2018. Such authorization is in addition to amounts in the special reserve fund referred to in subsection (h)." for "$640,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006. Such authorization is in addition to amounts in the special reserve fund referred to in subsection (c)(10)(A) of this section."
 
 Subsecs. (g), (h). Pub. L. 113–5, §401(b)(2), added subsecs. (g) and (h).
 
-**2006**—Pub. L. 109–417, §406(1), inserted “and security countermeasure procurements” after “Stockpile” in section catchline.
+**2006**—Pub. L. 109–417, §406(1), inserted "and security countermeasure procurements" after "Stockpile" in section catchline.
 
-Subsec. (a)(1). Pub. L. 109–417, §102(c), inserted “in collaboration with the Director of the Centers for Disease Control and Prevention, and” after “The Secretary,” and inserted at end “The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, including non-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review.”
+Subsec. (a)(1). Pub. L. 109–417, §102(c), inserted "in collaboration with the Director of the Centers for Disease Control and Prevention, and" after "The Secretary," and inserted at end "The Secretary shall conduct an annual review (taking into account at-risk individuals) of the contents of the stockpile, including non-pharmaceutical supplies, and make necessary additions or modifications to the contents based on such review."
 
-Subsec. (c). Pub. L. 109–417, §406(2)(A), struck out “biomedical” before “countermeasures” in heading.
+Subsec. (c). Pub. L. 109–417, §406(2)(A), struck out "biomedical" before "countermeasures" in heading.
 
-Subsec. (c)(1)(B)(i)(I). Pub. L. 109–417, §403(b), which directed amendment of section 319F–2(c)(1)(B) by substituting “diagnose, mitigate, prevent, or treat” for “treat, identify, or prevent” wherever appearing, was executed by making the substitution in two places in subsec. (c)(1)(B)(i)(I) of this section, which is section 319F–2 of the Public Health Service Act, to reflect the probable intent of Congress.
+Subsec. (c)(1)(B)(i)(I). Pub. L. 109–417, §403(b), which directed amendment of section 319F–2(c)(1)(B) by substituting "diagnose, mitigate, prevent, or treat" for "treat, identify, or prevent" wherever appearing, was executed by making the substitution in two places in subsec. (c)(1)(B)(i)(I) of this section, which is section 319F–2 of the Public Health Service Act, to reflect the probable intent of Congress.
 
 Subsec. (c)(3). Pub. L. 109–417, §406(2)(B), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-Subsec. (c)(4)(A). Pub. L. 109–417, §406(2)(C), inserted “not developed or” after “currently” in introductory provisions.
+Subsec. (c)(4)(A). Pub. L. 109–417, §406(2)(C), inserted "not developed or" after "currently" in introductory provisions.
 
-Subsec. (c)(5)(B)(i). Pub. L. 109–417, §406(2)(D), substituted “to meet the stockpile needs” for “to meet the needs of the stockpile”.
+Subsec. (c)(5)(B)(i). Pub. L. 109–417, §406(2)(D), substituted "to meet the stockpile needs" for "to meet the needs of the stockpile".
 
-Subsec. (c)(7)(B). Pub. L. 109–417, §406(2)(E), substituted “cost” for “costs” in subpar. heading, struck out cl. (i) designation and heading before “The Homeland”, and struck out heading and text of cl. (ii). Text read as follows: “The actual costs to the Secretary under this section, other than the costs described in clause (i), shall be paid from the appropriation provided for under subsection (f)(1) of this section.”
+Subsec. (c)(7)(B). Pub. L. 109–417, §406(2)(E), substituted "cost" for "costs" in subpar. heading, struck out cl. (i) designation and heading before "The Homeland", and struck out heading and text of cl. (ii). Text read as follows: "The actual costs to the Secretary under this section, other than the costs described in clause (i), shall be paid from the appropriation provided for under subsection (f)(1) of this section."
 
-Subsec. (c)(7)(C)(ii)(I). Pub. L. 109–417, §406(2)(F)(i), amended heading and text of subcl. (I) generally. Prior to amendment, text read as follows: “The contract shall provide that no payment may be made until delivery has been made of a portion, acceptable to the Secretary, of the total number of units contracted for, except that, notwithstanding any other provision of law, the contract may provide that, if the Secretary determines (in the Secretary's discretion) that an advance payment is necessary to ensure success of a project, the Secretary may pay an amount, not to exceed 10 percent of the contract amount, in advance of delivery. The contract shall provide that such advance payment is required to be repaid if there is a failure to perform by the vendor under the contract. Nothing in this subclause may be construed as affecting rights of vendors under provisions of law or regulation (including the Federal Acquisition Regulation) relating to termination of contracts for the convenience of the Government.”
+Subsec. (c)(7)(C)(ii)(I). Pub. L. 109–417, §406(2)(F)(i), amended heading and text of subcl. (I) generally. Prior to amendment, text read as follows: "The contract shall provide that no payment may be made until delivery has been made of a portion, acceptable to the Secretary, of the total number of units contracted for, except that, notwithstanding any other provision of law, the contract may provide that, if the Secretary determines (in the Secretary's discretion) that an advance payment is necessary to ensure success of a project, the Secretary may pay an amount, not to exceed 10 percent of the contract amount, in advance of delivery. The contract shall provide that such advance payment is required to be repaid if there is a failure to perform by the vendor under the contract. Nothing in this subclause may be construed as affecting rights of vendors under provisions of law or regulation (including the Federal Acquisition Regulation) relating to termination of contracts for the convenience of the Government."
 
 Subsec. (c)(7)(C)(ii)(VII) to (IX). Pub. L. 109–417, §406(2)(F)(ii), added subcls. (VII) to (IX).
 
-Subsec. (c)(8)(A). Pub. L. 109–417, §406(2)(G), inserted at end “Such agreements may allow other executive agencies to order qualified and security countermeasures under procurement contracts or other agreements established by the Secretary. Such ordering process (including transfers of appropriated funds between an agency and the Department of Health and Human Services as reimbursements for such orders for countermeasures) may be conducted under the authority of section 1535 of title 31, except that all such orders shall be processed under the terms established under this subsection for the procurement of countermeasures.”
+Subsec. (c)(8)(A). Pub. L. 109–417, §406(2)(G), inserted at end "Such agreements may allow other executive agencies to order qualified and security countermeasures under procurement contracts or other agreements established by the Secretary. Such ordering process (including transfers of appropriated funds between an agency and the Department of Health and Human Services as reimbursements for such orders for countermeasures) may be conducted under the authority of section 1535 of title 31, except that all such orders shall be processed under the terms established under this subsection for the procurement of countermeasures."
 
-**2004**—Pub. L. 108–276, §3(a)(2), amended section generally. Prior to amendment, text related in subsec. (a) to Strategic National Stockpile, in subsec. (b) to smallpox vaccine development, in subsec. (c) to disclosures, in subsec. (d) to definition of “stockpile”, and in subsec. (e) to authorization of appropriations.
+**2004**—Pub. L. 108–276, §3(a)(2), amended section generally. Prior to amendment, text related in subsec. (a) to Strategic National Stockpile, in subsec. (b) to smallpox vaccine development, in subsec. (c) to disclosures, in subsec. (d) to definition of "stockpile", and in subsec. (e) to authorization of appropriations.
 
-**2002**—Subsec. (a)(1). Pub. L. 107–296, §1705(a)(1), substituted “The Secretary of Homeland Security” for “The Secretary of Health and Human Services” and inserted “the Secretary of Health and Human Services and” after “in coordination with” and “of Health and Human Services” after “as are determined by the Secretary”.
+**2002**—Subsec. (a)(1). Pub. L. 107–296, §1705(a)(1), substituted "The Secretary of Homeland Security" for "The Secretary of Health and Human Services" and inserted "the Secretary of Health and Human Services and" after "in coordination with" and "of Health and Human Services" after "as are determined by the Secretary".
 
-Subsecs. (a)(2), (b)(1). Pub. L. 107–296, §1705(a)(2), inserted “of Health and Human Services” after “Secretary” wherever appearing.
+Subsecs. (a)(2), (b)(1). Pub. L. 107–296, §1705(a)(2), inserted "of Health and Human Services" after "Secretary" wherever appearing.
 
 #### Change of Name ####
 
@@ -478,65 +478,65 @@ Committee on Government Reform of House of Representatives changed to Committee 
 
 #### Effective Date of 2002 Amendment ####
 
-Pub. L. 107–296, title XVII, §1705(b), Nov. 25, 2002, 116 Stat. 2316, provided that: “The amendments made by this section [amending this section] shall take effect on the date of transfer of the Strategic National Stockpile of the Department of Health and Human Services to the Department [of Homeland Security].”
+Pub. L. 107–296, title XVII, §1705(b), Nov. 25, 2002, 116 Stat. 2316, provided that: "The amendments made by this section [amending this section] shall take effect on the date of transfer of the Strategic National Stockpile of the Department of Health and Human Services to the Department [of Homeland Security]."
 
 #### Stockpile Functions Transferred ####
 
 Pub. L. 108–276, §3(c)(1),(2), July 21, 2004, 118 Stat. 853, provided that:
 
-“(1) In general.—Except as provided in paragraph (2), there shall be transferred to the Secretary of Health and Human Services the functions, personnel, assets, unexpended balances, and liabilities of the Strategic National Stockpile, including the functions of the Secretary of Homeland Security relating thereto.
+"(1) In general.—Except as provided in paragraph (2), there shall be transferred to the Secretary of Health and Human Services the functions, personnel, assets, unexpended balances, and liabilities of the Strategic National Stockpile, including the functions of the Secretary of Homeland Security relating thereto.
 
-“(2) Exceptions.—
+"(2) Exceptions.—
 
-“(A) Functions.—The transfer of functions pursuant to paragraph (1) shall not include such functions as are explicitly assigned to the Secretary of Homeland Security by this Act [see Short Title of 2004 Amendments note set out under section 201 of this title] (including the amendments made by this Act).
+"(A) Functions.—The transfer of functions pursuant to paragraph (1) shall not include such functions as are explicitly assigned to the Secretary of Homeland Security by this Act [see Short Title of 2004 Amendments note set out under section 201 of this title] (including the amendments made by this Act).
 
-“(B) Assets and unexpended balances.—The transfer of assets and unexpended balances pursuant to paragraph (1) shall not include the funds appropriated under the heading ‘biodefense countermeasures’ in the Department of Homeland Security Appropriations Act, 2004 (Public Law 108–90 [117 Stat. 1148]).”
+"(B) Assets and unexpended balances.—The transfer of assets and unexpended balances pursuant to paragraph (1) shall not include the funds appropriated under the heading 'biodefense countermeasures' in the Department of Homeland Security Appropriations Act, 2004 (Public Law 108–90 [117 Stat. 1148])."
 
 #### Potassium Iodide ####
 
 Pub. L. 107–188, title I, §127, June 12, 2002, 116 Stat. 615, provided that:
 
-“(a) In General.—Through the national stockpile under section 121 [now section 319F–2 of act July 1, 1944, 42 U.S.C. 247d–6b], the President, subject to subsections (b) and (c), shall make available to State and local governments potassium iodide tablets for stockpiling and for distribution as appropriate to public facilities, such as schools and hospitals, in quantities sufficient to provide adequate protection for the population within 20 miles of a nuclear power plant.
+"(a) In General.—Through the national stockpile under section 121 [now section 319F–2 of act July 1, 1944, 42 U.S.C. 247d–6b], the President, subject to subsections (b) and (c), shall make available to State and local governments potassium iodide tablets for stockpiling and for distribution as appropriate to public facilities, such as schools and hospitals, in quantities sufficient to provide adequate protection for the population within 20 miles of a nuclear power plant.
 
-“(b) State and Local Plans.—
+"(b) State and Local Plans.—
 
-“(1) In general.—Subsection (a) applies with respect to a State or local government, subject to paragraph (2), if the government involved meets the following conditions:
+"(1) In general.—Subsection (a) applies with respect to a State or local government, subject to paragraph (2), if the government involved meets the following conditions:
 
-“(A) Such government submits to the President a plan for the stockpiling of potassium iodide tablets, and for the distribution and utilization of potassium iodide tablets in the event of a nuclear incident.
+"(A) Such government submits to the President a plan for the stockpiling of potassium iodide tablets, and for the distribution and utilization of potassium iodide tablets in the event of a nuclear incident.
 
-“(B) The plan is accompanied by certifications by such government that the government has not already received sufficient quantities of potassium iodide tablets from the Federal Government.
+"(B) The plan is accompanied by certifications by such government that the government has not already received sufficient quantities of potassium iodide tablets from the Federal Government.
 
-“(2) Local governments.—Subsection (a) applies with respect to a local government only if, in addition to the conditions described in paragraph (1), the following conditions are met:
+"(2) Local governments.—Subsection (a) applies with respect to a local government only if, in addition to the conditions described in paragraph (1), the following conditions are met:
 
-“(A) The State in which the locality involved is located—
+"(A) The State in which the locality involved is located—
 
-“(i) does not have a plan described in paragraph (1)(A); or
+"(i) does not have a plan described in paragraph (1)(A); or
 
-“(ii) has a plan described in such paragraph, but the plan does not address populations at a distance greater than 10 miles from the nuclear power plant involved.
+"(ii) has a plan described in such paragraph, but the plan does not address populations at a distance greater than 10 miles from the nuclear power plant involved.
 
-“(B) The local government has petitioned the State to modify the State plan to address such populations, not exceeding 20 miles from such plant, and 60 days have elapsed without the State modifying the State plan to address populations at the full distance sought by the local government through the petition.
+"(B) The local government has petitioned the State to modify the State plan to address such populations, not exceeding 20 miles from such plant, and 60 days have elapsed without the State modifying the State plan to address populations at the full distance sought by the local government through the petition.
 
-“(C) The local government has submitted its local plan under paragraph (1)(A) to the State, and the State has approved the plan and certified that the plan is not inconsistent with the State emergency plan.
+"(C) The local government has submitted its local plan under paragraph (1)(A) to the State, and the State has approved the plan and certified that the plan is not inconsistent with the State emergency plan.
 
-“(c) Guidelines.—Not later than one year after the date of the enactment of this Act [June 12, 2002], the President, in consultation with individuals representing appropriate Federal, State, and local agencies, shall establish guidelines for the stockpiling of potassium iodide tablets, and for the distribution and utilization of potassium iodide tablets in the event of a nuclear incident. Such tablets may not be made available under subsection (a) until such guidelines have been established.
+"(c) Guidelines.—Not later than one year after the date of the enactment of this Act [June 12, 2002], the President, in consultation with individuals representing appropriate Federal, State, and local agencies, shall establish guidelines for the stockpiling of potassium iodide tablets, and for the distribution and utilization of potassium iodide tablets in the event of a nuclear incident. Such tablets may not be made available under subsection (a) until such guidelines have been established.
 
-“(d) Information.—The President shall carry out activities to inform State and local governments of the program under this section.
+"(d) Information.—The President shall carry out activities to inform State and local governments of the program under this section.
 
-“(e) Reports.—
+"(e) Reports.—
 
-“(1) President.—Not later than six months after the date on which the guidelines under subsection (c) are issued, the President shall submit to the Congress a report—
+"(1) President.—Not later than six months after the date on which the guidelines under subsection (c) are issued, the President shall submit to the Congress a report—
 
-“(A) on whether potassium iodide tablets have been made available under subsection (a) or other Federal, State, or local programs, and the extent to which State and local governments have established stockpiles of such tablets; and
+"(A) on whether potassium iodide tablets have been made available under subsection (a) or other Federal, State, or local programs, and the extent to which State and local governments have established stockpiles of such tablets; and
 
-“(B) the measures taken by the President to implement this section.
+"(B) the measures taken by the President to implement this section.
 
-“(2) National academy of sciences.—
+"(2) National academy of sciences.—
 
-“(A) In general.—The President shall request the National Academy of Sciences to enter into an agreement with the President under which the Academy conducts a study to determine what is the most effective and safe way to distribute and administer potassium iodide tablets on a mass scale. If the Academy declines to conduct the study, the President shall enter into an agreement with another appropriate public or nonprofit private entity to conduct the study.
+"(A) In general.—The President shall request the National Academy of Sciences to enter into an agreement with the President under which the Academy conducts a study to determine what is the most effective and safe way to distribute and administer potassium iodide tablets on a mass scale. If the Academy declines to conduct the study, the President shall enter into an agreement with another appropriate public or nonprofit private entity to conduct the study.
 
-“(B) Report.—The President shall ensure that, not later than six months after the date of the enactment of this Act [June 12, 2002], the study required in subparagraph (A) is completed and a report describing the findings made in the study is submitted to the Congress.
+"(B) Report.—The President shall ensure that, not later than six months after the date of the enactment of this Act [June 12, 2002], the study required in subparagraph (A) is completed and a report describing the findings made in the study is submitted to the Congress.
 
-“(f) Applicability.—Subsections (a) and (d) cease to apply as requirements if the President determines that there is an alternative and more effective prophylaxis or preventive measures for adverse thyroid conditions that may result from the release of radionuclides from nuclear power plants.”
+"(f) Applicability.—Subsections (a) and (d) cease to apply as requirements if the President determines that there is an alternative and more effective prophylaxis or preventive measures for adverse thyroid conditions that may result from the release of radionuclides from nuclear power plants."
 
 [Memorandum of President of the United States, July 3, 2007, 72 F.R. 37627, provided:
 
@@ -566,4 +566,4 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 George W. Bush.
 
-[<sup>1</sup> So in original. Probably should be “Enterprise Strategy and”.](#247d-6b_1)
+[<sup>1</sup> So in original. Probably should be "Enterprise Strategy and".](#247d-6b_1)

@@ -24,7 +24,7 @@ Act July 29, 1947, ch. 345, §10, 61 Stat. 514, which provided that this Act [th
 
 #### Short Title ####
 
-Act July 29, 1947, ch. 345, §1, 61 Stat. 511, as amended by Pub. L. 85–102, §3, July 11, 1957, 71 Stat. 294, which provided that this Act [this chapter] may be cited as the “Sockeye Salmon or Pink Salmon Fishing Act of 1947”, was repealed by Pub. L. 99–5, §13, Mar. 15, 1985, 99 Stat. 15.
+Act July 29, 1947, ch. 345, §1, 61 Stat. 511, as amended by Pub. L. 85–102, §3, July 11, 1957, 71 Stat. 294, which provided that this Act [this chapter] may be cited as the "Sockeye Salmon or Pink Salmon Fishing Act of 1947", was repealed by Pub. L. 99–5, §13, Mar. 15, 1985, 99 Stat. 15.
 
 #### Savings Provision ####
 

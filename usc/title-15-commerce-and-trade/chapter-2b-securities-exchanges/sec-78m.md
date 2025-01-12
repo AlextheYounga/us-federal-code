@@ -40,7 +40,7 @@ Every issuer of a security registered on a national securities exchange shall al
 
 (6) Where an issuer which has a class of securities registered pursuant to section 78l of this title or an issuer which is required to file reports pursuant to section 78o(d) of this title holds 50 per centum or less of the voting power with respect to a domestic or foreign firm, the provisions of paragraph (2) require only that the issuer proceed in good faith to use its influence, to the extent reasonable under the issuer's circumstances, to cause such domestic or foreign firm to devise and maintain a system of internal accounting controls consistent with paragraph (2). Such circumstances include the relative degree of the issuer's ownership of the domestic or foreign firm and the laws and practices governing the business operations of the country in which such firm is located. An issuer which demonstrates good faith efforts to use such influence shall be conclusively presumed to have complied with the requirements of paragraph (2).
 
-(7) For the purpose of paragraph (2) of this subsection, the terms “reasonable assurances” and “reasonable detail” mean such level of detail and degree of assurance as would satisfy prudent officials in the conduct of their own affairs.
+(7) For the purpose of paragraph (2) of this subsection, the terms "reasonable assurances" and "reasonable detail" mean such level of detail and degree of assurance as would satisfy prudent officials in the conduct of their own affairs.
 
 #### (c) Alternative reports ####
 
@@ -62,7 +62,7 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 (2) If any material change occurs in the facts set forth in the statement filed with the Commission, an amendment shall be filed with the Commission, in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
-(3) When two or more persons act as a partnership, limited partnership, syndicate, or other group for the purpose of acquiring, holding, or disposing of securities of an issuer, such syndicate or group shall be deemed a “person” for the purposes of this subsection.
+(3) When two or more persons act as a partnership, limited partnership, syndicate, or other group for the purpose of acquiring, holding, or disposing of securities of an issuer, such syndicate or group shall be deemed a "person" for the purposes of this subsection.
 
 (4) In determining, for purposes of this subsection, any percentage of a class of any security, such class shall be deemed to consist of the amount of the outstanding securities of such class, exclusive of any securities of such class held by or for the account of the issuer or a subsidiary of the issuer.
 
@@ -134,7 +134,7 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 (5) In exercising its authority under this subsection, the Commission shall determine (and so state) that its action is necessary or appropriate in the public interest and for the protection of investors or to maintain fair and orderly markets or, in granting an exemption, that its action is consistent with the protection of investors and the purposes of this subsection. In exercising such authority the Commission shall take such steps as are within its power, including consulting with the Comptroller General of the United States, the Director of the Office of Management and Budget, the appropriate regulatory agencies, Federal and State authorities which, directly or indirectly, require reports from institutional investment managers of information substantially similar to that called for by this subsection, national securities exchanges, and registered securities associations, (A) to achieve uniform, centralized reporting of information concerning the securities holdings of and transactions by or for accounts with respect to which institutional investment managers exercise investment discretion, and (B) consistently with the objective set forth in the preceding subparagraph, to avoid unnecessarily duplicative reporting by, and minimize the compliance burden on, institutional investment managers. Federal authorities which, directly or indirectly, require reports from institutional investment managers of information substantially similar to that called for by this subsection shall cooperate with the Commission in the performance of its responsibilities under the preceding sentence. An institutional investment manager which is a bank, the deposits of which are insured in accordance with the Federal Deposit Insurance Act [12 U.S.C. 1811 et seq.], shall file with the appropriate regulatory agency a copy of every report filed with the Commission pursuant to this subsection.
 
-(6)(A) For purposes of this subsection the term “institutional investment manager” includes any person, other than a natural person, investing in or buying and selling securities for its own account, and any person exercising investment discretion with respect to the account of any other person.
+(6)(A) For purposes of this subsection the term "institutional investment manager" includes any person, other than a natural person, investing in or buying and selling securities for its own account, and any person exercising investment discretion with respect to the account of any other person.
 
 (B) The Commission shall adopt such rules as it deems necessary or appropriate to prevent duplicative reporting pursuant to this subsection by two or more institutional investment managers exercising investment discretion with respect to the same amount.<sup><a href="#78m_1_target" name="78m_1">1</a></sup>
 
@@ -148,7 +148,7 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 (2) If any material change occurs in the facts set forth in the statement filed with the Commission, an amendment shall be filed with the Commission, in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
-(3) When two or more persons act as a partnership, limited partnership, syndicate, or other group for the purpose of acquiring, holding, or disposing of securities of an issuer, such syndicate or group shall be deemed a “person” for the purposes of this subsection.
+(3) When two or more persons act as a partnership, limited partnership, syndicate, or other group for the purpose of acquiring, holding, or disposing of securities of an issuer, such syndicate or group shall be deemed a "person" for the purposes of this subsection.
 
 (4) In determining, for purposes of this subsection, any percentage of a class of any security, such class shall be deemed to consist of the amount of the outstanding securities of such class, exclusive of any securities of such class held by or for the account of the issuer or a subsidiary of the issuer.
 
@@ -200,15 +200,15 @@ Notwithstanding any other provision of law, the Commission shall not be compelle
 
 For purposes of this subsection—
 
-(A) the term “large trader” means every person who, for his own account or an account for which he exercises investment discretion, effects transactions for the purchase or sale of any publicly traded security or securities by use of any means or instrumentality of interstate commerce or of the mails, or of any facility of a national securities exchange, directly or indirectly by or through a registered broker or dealer in an aggregate amount equal to or in excess of the identifying activity level;
+(A) the term "large trader" means every person who, for his own account or an account for which he exercises investment discretion, effects transactions for the purchase or sale of any publicly traded security or securities by use of any means or instrumentality of interstate commerce or of the mails, or of any facility of a national securities exchange, directly or indirectly by or through a registered broker or dealer in an aggregate amount equal to or in excess of the identifying activity level;
 
-(B) the term “publicly traded security” means any equity security (including an option on individual equity securities, and an option on a group or index of such securities) listed, or admitted to unlisted trading privileges, on a national securities exchange, or quoted in an automated interdealer quotation system;
+(B) the term "publicly traded security" means any equity security (including an option on individual equity securities, and an option on a group or index of such securities) listed, or admitted to unlisted trading privileges, on a national securities exchange, or quoted in an automated interdealer quotation system;
 
-(C) the term “identifying activity level” means transactions in publicly traded securities at or above a level of volume, fair market value, or exercise value as shall be fixed from time to time by the Commission by rule or regulation, specifying the time interval during which such transactions shall be aggregated;
+(C) the term "identifying activity level" means transactions in publicly traded securities at or above a level of volume, fair market value, or exercise value as shall be fixed from time to time by the Commission by rule or regulation, specifying the time interval during which such transactions shall be aggregated;
 
-(D) the term “reporting activity level” means transactions in publicly traded securities at or above a level of volume, fair market value, or exercise value as shall be fixed from time to time by the Commission by rule, regulation, or order, specifying the time interval during which such transactions shall be aggregated; and
+(D) the term "reporting activity level" means transactions in publicly traded securities at or above a level of volume, fair market value, or exercise value as shall be fixed from time to time by the Commission by rule, regulation, or order, specifying the time interval during which such transactions shall be aggregated; and
 
-(E) the term “person” has the meaning given in section 78c(a)(9) of this title and also includes two or more persons acting as a partnership, limited partnership, syndicate, or other group, but does not include a foreign central bank.
+(E) the term "person" has the meaning given in section 78c(a)(9) of this title and also includes two or more persons acting as a partnership, limited partnership, syndicate, or other group, but does not include a foreign central bank.
 
 #### (i) Accuracy of financial reports ####
 
@@ -248,7 +248,7 @@ Each issuer reporting under subsec. (a) of this section or section 78o(d) of thi
 
 #### (A) Definition of real-time public reporting ####
 
-In this paragraph, the term “real-time public reporting” means to report data relating to a security-based swap transaction, including price and volume, as soon as technologically practicable after the time at which the security-based swap transaction has been executed.
+In this paragraph, the term "real-time public reporting" means to report data relating to a security-based swap transaction, including price and volume, as soon as technologically practicable after the time at which the security-based swap transaction has been executed.
 
 #### (B) Purpose ####
 
@@ -516,7 +516,7 @@ Not later than 270 days after July 21, 2010, the Commission shall promulgate reg
 
 (i) a description of the measures taken by the person to exercise due diligence on the source and chain of custody of such minerals, which measures shall include an independent private sector audit of such report submitted through the Commission that is conducted in accordance with standards established by the Comptroller General of the United States, in accordance with rules promulgated by the Commission, in consultation with the Secretary of State; and
 
-(ii) a description of the products manufactured or contracted to be manufactured that are not DRC conflict free (“DRC conflict free” is defined to mean the products that do not contain minerals that directly or indirectly finance or benefit armed groups in the Democratic Republic of the Congo or an adjoining country), the entity that conducted the independent private sector audit in accordance with clause (i), the facilities used to process the conflict minerals, the country of origin of the conflict minerals, and the efforts to determine the mine or location of origin with the greatest possible specificity.
+(ii) a description of the products manufactured or contracted to be manufactured that are not DRC conflict free ("DRC conflict free" is defined to mean the products that do not contain minerals that directly or indirectly finance or benefit armed groups in the Democratic Republic of the Congo or an adjoining country), the entity that conducted the independent private sector audit in accordance with clause (i), the facilities used to process the conflict minerals, the country of origin of the conflict minerals, and the efforts to determine the mine or location of origin with the greatest possible specificity.
 
 #### (B) Certification ####
 
@@ -528,7 +528,7 @@ If a report required to be submitted by a person under subparagraph (A) relies o
 
 #### (D) DRC conflict free ####
 
-For purposes of this paragraph, a product may be labeled as “DRC conflict free” if the product does not contain conflict minerals that directly or indirectly finance or benefit armed groups in the Democratic Republic of the Congo or an adjoining country.
+For purposes of this paragraph, a product may be labeled as "DRC conflict free" if the product does not contain conflict minerals that directly or indirectly finance or benefit armed groups in the Democratic Republic of the Congo or an adjoining country.
 
 #### (E) Information available to the public ####
 
@@ -556,7 +556,7 @@ The requirements of paragraph (1) shall terminate on the date on which the Presi
 
 #### (5) Definitions ####
 
-For purposes of this subsection, the terms “adjoining country”, “appropriate congressional committees”, “armed group”, and “conflict mineral” have the meaning given those terms under section 1502 of the Dodd-Frank Wall Street Reform and Consumer Protection Act.
+For purposes of this subsection, the terms "adjoining country", "appropriate congressional committees", "armed group", and "conflict mineral" have the meaning given those terms under section 1502 of the Dodd-Frank Wall Street Reform and Consumer Protection Act.
 
 #### (q) Disclosure of payments by resource extraction issuers ####
 
@@ -564,11 +564,11 @@ For purposes of this subsection, the terms “adjoining country”, “appropria
 
 In this subsection—
 
-(A) the term “commercial development of oil, natural gas, or minerals” includes exploration, extraction, processing, export, and other significant actions relating to oil, natural gas, or minerals, or the acquisition of a license for any such activity, as determined by the Commission;
+(A) the term "commercial development of oil, natural gas, or minerals" includes exploration, extraction, processing, export, and other significant actions relating to oil, natural gas, or minerals, or the acquisition of a license for any such activity, as determined by the Commission;
 
-(B) the term “foreign government” means a foreign government, a department, agency, or instrumentality of a foreign government, or a company owned by a foreign government, as determined by the Commission;
+(B) the term "foreign government" means a foreign government, a department, agency, or instrumentality of a foreign government, or a company owned by a foreign government, as determined by the Commission;
 
-(C) the term “payment”—
+(C) the term "payment"—
 
 (i) means a payment that is—
 
@@ -578,15 +578,15 @@ In this subsection—
 
 (ii) includes taxes, royalties, fees (including license fees), production entitlements, bonuses, and other material benefits, that the Commission, consistent with the guidelines of the Extractive Industries Transparency Initiative (to the extent practicable), determines are part of the commonly recognized revenue stream for the commercial development of oil, natural gas, or minerals;
 
-(D) the term “resource extraction issuer” means an issuer that—
+(D) the term "resource extraction issuer" means an issuer that—
 
 (i) is required to file an annual report with the Commission; and
 
 (ii) engages in the commercial development of oil, natural gas, or minerals;
 
-(E) the term “interactive data format” means an electronic data format in which pieces of information are identified using an interactive data standard; and
+(E) the term "interactive data format" means an electronic data format in which pieces of information are identified using an interactive data standard; and
 
-(F) the term “interactive data standard” means <sup><a href="#78m_4_target" name="78m_4">4</a></sup> standardized list of electronic tags that mark information included in the annual report of a resource extraction issuer.
+(F) the term "interactive data standard" means <sup><a href="#78m_4_target" name="78m_4">4</a></sup> standardized list of electronic tags that mark information included in the annual report of a resource extraction issuer.
 
 #### (2) Disclosure ####
 
@@ -720,7 +720,7 @@ Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII 
 
 #### References in Text ####
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, and this chapter, referred to in subsecs. (b)(1), (h)(1), (2), (4), (6), (i), and (n)(6)(B)(v), (C)(i)(I), (7)(A), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsec. (a), was in the original "this Act", and this chapter, referred to in subsecs. (b)(1), (h)(1), (2), (4), (6), (i), and (n)(6)(B)(v), (C)(i)(I), (7)(A), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 The Securities Act of 1933, referred to in subsecs. (a) and (d)(6)(A), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
@@ -728,7 +728,7 @@ The Investment Company Act of 1940, referred to in subsecs. (d)(1) and (e)(1), i
 
 The Federal Deposit Insurance Act, referred to in subsec. (f)(5), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, which is classified generally to chapter 16 (§1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
 
-Section 7201 of this title, referred to in subsec. (k)(1), was in the original “section 2 of the Sarbanes-Oxley Act of 2002”, Pub. L. 107–204, which enacted section 7201 of this title and amended section 78c of this title.
+Section 7201 of this title, referred to in subsec. (k)(1), was in the original "section 2 of the Sarbanes-Oxley Act of 2002", Pub. L. 107–204, which enacted section 7201 of this title and amended section 78c of this title.
 
 The Commodity Exchange Act, referred to in subsec. (n)(8), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
@@ -740,35 +740,35 @@ Executive Order No. 13382, referred to in subsec. (r)(1)(D)(ii), is Ex. Ord. No.
 
 #### Amendments ####
 
-**2012**—Subsec. (a). Pub. L. 112–106 inserted at end of concluding provisions “In any registration statement, periodic report, or other reports to be filed with the Commission, an emerging growth company need not present selected financial data in accordance with section 229.301 of title 17, Code of Federal Regulations, for any period prior to the earliest audited period presented in connection with its first registration statement that became effective under this chapter or the Securities Act of 1933 and, with respect to any such statement or reports, an emerging growth company may not be required to comply with any new or revised financial accounting standard until such date that a company that is not an issuer (as defined under section 7201 of this title) is required to comply with such new or revised accounting standard, if such standard applies to companies that are not issuers.”
+**2012**—Subsec. (a). Pub. L. 112–106 inserted at end of concluding provisions "In any registration statement, periodic report, or other reports to be filed with the Commission, an emerging growth company need not present selected financial data in accordance with section 229.301 of title 17, Code of Federal Regulations, for any period prior to the earliest audited period presented in connection with its first registration statement that became effective under this chapter or the Securities Act of 1933 and, with respect to any such statement or reports, an emerging growth company may not be required to comply with any new or revised financial accounting standard until such date that a company that is not an issuer (as defined under section 7201 of this title) is required to comply with such new or revised accounting standard, if such standard applies to companies that are not issuers."
 
 Subsec. (r). Pub. L. 112–158 added subsec. (r).
 
-**2010**—Subsec. (b)(1). Pub. L. 111–203, §985(b)(4), substituted “earnings statement” for “earning statement”.
+**2010**—Subsec. (b)(1). Pub. L. 111–203, §985(b)(4), substituted "earnings statement" for "earning statement".
 
 Subsec. (b)(2)(C). Pub. L. 111–203, §982(h)(3), amended Pub. L. 107–204, §109. See 2002 Amendment note below.
 
-Subsec. (d)(1). Pub. L. 111–203, §929R(a)(1), in introductory provisions, inserted “or within such shorter time as the Commission may establish by rule” after “within ten days after such acquisition” and struck out “send to the issuer of the security at its principal executive office, by registered or certified mail, send to each exchange where the security is traded, and” before “file with the Commission”.
+Subsec. (d)(1). Pub. L. 111–203, §929R(a)(1), in introductory provisions, inserted "or within such shorter time as the Commission may establish by rule" after "within ten days after such acquisition" and struck out "send to the issuer of the security at its principal executive office, by registered or certified mail, send to each exchange where the security is traded, and" before "file with the Commission".
 
-Pub. L. 111–203, §766(b)(1), in introductory provisions, inserted “or otherwise becomes or is deemed to become a beneficial owner of any of the foregoing upon the purchase or sale of a security-based swap that the Commission may define by rule, and” after “section 1629c(d)(6) of title 43,”.
+Pub. L. 111–203, §766(b)(1), in introductory provisions, inserted "or otherwise becomes or is deemed to become a beneficial owner of any of the foregoing upon the purchase or sale of a security-based swap that the Commission may define by rule, and" after "section 1629c(d)(6) of title 43,".
 
-Subsec. (d)(2). Pub. L. 111–203, §929R(a)(2), struck out “in the statements to the issuer and the exchange, and” after “facts set forth” and “shall be transmitted to the issuer and the exchange and” after “an amendment”.
+Subsec. (d)(2). Pub. L. 111–203, §929R(a)(2), struck out "in the statements to the issuer and the exchange, and" after "facts set forth" and "shall be transmitted to the issuer and the exchange and" after "an amendment".
 
-Subsec. (e)(3). Pub. L. 111–203, §991(b)(2)(A), substituted “paragraph (4)” for “paragraphs (5) and (6)”.
+Subsec. (e)(3). Pub. L. 111–203, §991(b)(2)(A), substituted "paragraph (4)" for "paragraphs (5) and (6)".
 
 Subsec. (e)(4) to (6). Pub. L. 111–203, §991(b)(2)(B), (C), added pars. (4) to (6) and struck out former pars. (4) to (6) which related to offsetting collections, annual adjustment of rate, and final rate adjustment, respectively.
 
 Subsec. (e)(8) to (10). Pub. L. 111–203, §991(b)(2)(D), struck out pars. (8) to (10) which related to review and effective date of adjusted rate, collection of fees upon lapse of appropriation, and publication of rate, respectively.
 
-Subsec. (f)(1). Pub. L. 111–203, §766(c), which directed insertion of “or otherwise becomes or is deemed to become a beneficial owner of any security of a class described in subsection (d)(1) upon the purchase or sale of a security-based swap that the Commission may define by rule,” after “subsection (d)(1) of this section”, was executed by making the insertion after “section 13(d)(1) of this title”, which was translated to “subsection (d)(1) of this section”, to reflect the probable intent of Congress.
+Subsec. (f)(1). Pub. L. 111–203, §766(c), which directed insertion of "or otherwise becomes or is deemed to become a beneficial owner of any security of a class described in subsection (d)(1) upon the purchase or sale of a security-based swap that the Commission may define by rule," after "subsection (d)(1) of this section", was executed by making the insertion after "section 13(d)(1) of this title", which was translated to "subsection (d)(1) of this section", to reflect the probable intent of Congress.
 
 Subsec. (f)(2) to (6). Pub. L. 111–203, §929X(a), added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively.
 
-Subsec. (g)(1). Pub. L. 111–203, §929R(a)(3), struck out “shall send to the issuer of the security and” before “shall file” in introductory provisions.
+Subsec. (g)(1). Pub. L. 111–203, §929R(a)(3), struck out "shall send to the issuer of the security and" before "shall file" in introductory provisions.
 
-Pub. L. 111–203, §766(b)(2), in introductory provisions, inserted “or otherwise becomes or is deemed to become a beneficial owner of any security of a class described in subsection (d)(1) upon the purchase or sale of a security-based swap that the Commission may define by rule” after “subsection (d)(1) of this section”.
+Pub. L. 111–203, §766(b)(2), in introductory provisions, inserted "or otherwise becomes or is deemed to become a beneficial owner of any security of a class described in subsection (d)(1) upon the purchase or sale of a security-based swap that the Commission may define by rule" after "subsection (d)(1) of this section".
 
-Subsec. (g)(2). Pub. L. 111–203, §929R(a)(4), struck out “sent to the issuer and” after “the statement” and “shall be transmitted to the issuer and” after “an amendment”.
+Subsec. (g)(2). Pub. L. 111–203, §929R(a)(4), struck out "sent to the issuer and" after "the statement" and "shall be transmitted to the issuer and" after "an amendment".
 
 Subsecs. (m), (n). Pub. L. 111–203, §763(i), added subsecs. (m) and (n).
 
@@ -780,7 +780,7 @@ Subsec. (q). Pub. L. 111–203, §1504, added subsec. (q).
 
 **2002**—Subsec. (b)(2)(C). Pub. L. 107–204, §109(i), formerly §109(h), renumbered §109(i) by Pub. L. 111–203, §982(h)(3), added subpar. (C).
 
-Subsec. (e)(3). Pub. L. 107–123, §5(1), substituted “a fee at a rate that, subject to paragraphs (5) and (6), is equal to $92 per $1,000,000 of the value of securities proposed to be purchased” for “a fee of 1/50 of 1 per centum of the value of securities proposed to be purchased”.
+Subsec. (e)(3). Pub. L. 107–123, §5(1), substituted "a fee at a rate that, subject to paragraphs (5) and (6), is equal to $92 per $1,000,000 of the value of securities proposed to be purchased" for "a fee of 1/50 of 1 per centum of the value of securities proposed to be purchased".
 
 Subsec. (e)(4) to (10). Pub. L. 107–123, §5(2), added pars. (4) to (10).
 
@@ -794,9 +794,9 @@ Subsec. (l). Pub. L. 107–204, §409, added subsec. (l).
 
 **1988**—Subsec. (b)(4) to (7). Pub. L. 100–418 added pars. (4) to (7).
 
-Subsec. (d)(1). Pub. L. 100–241 inserted “or any equity security issued by a Native Corporation pursuant to section 1629c(d)(6) of title 43”.
+Subsec. (d)(1). Pub. L. 100–241 inserted "or any equity security issued by a Native Corporation pursuant to section 1629c(d)(6) of title 43".
 
-**1987**—Subsec. (c). Pub. L. 100–181, §315, struck out “of” after “thereof”.
+**1987**—Subsec. (c). Pub. L. 100–181, §315, struck out "of" after "thereof".
 
 Subsec. (h). Pub. L. 100–181, §316, struck out subsec. (h) which required Commission to report to Congress within thirty months of Dec. 19, 1977, with respect to effectiveness of ownership reporting requirements contained in this chapter and desirability and feasibility of reducing or otherwise modifying the 5 per centum threshold used in subsecs. (d)(1) and (g)(1) of this section.
 
@@ -812,7 +812,7 @@ Subsecs. (g), (h). Pub. L. 95–213, §203, added subsecs. (g) and (h).
 
 **1975**—Subsec. (f). Pub. L. 94–29 added subsec. (f).
 
-**1970**—Subsec. (d)(1). Pub. L. 91–567, §1(a), included equity securities of insurance companies which would have been required to be registered except for the exemption contained in section 78l(g)(2)(G) of this title, and substituted “5 per centum” for “10 per centum”.
+**1970**—Subsec. (d)(1). Pub. L. 91–567, §1(a), included equity securities of insurance companies which would have been required to be registered except for the exemption contained in section 78l(g)(2)(G) of this title, and substituted "5 per centum" for "10 per centum".
 
 Subsec. (d)(5), (6). Pub. L. 91–567, §1(b), added par. (5) and redesignated former par. (5) as (6).
 
@@ -824,7 +824,7 @@ Subsec. (e)(2). Pub. L. 91–567, §2, inserted provisions empowering the Commis
 
 #### Effective Date of 2012 Amendment ####
 
-Pub. L. 112–158, title II, §219(b), Aug. 10, 2012, 126 Stat. 1236, provided that: “The amendment made by subsection (a) [amending this section] shall take effect with respect to reports required to be filed with the Securities and Exchange Commission after the date that is 180 days after the date of the enactment of this Act [Aug. 10, 2012].”
+Pub. L. 112–158, title II, §219(b), Aug. 10, 2012, 126 Stat. 1236, provided that: "The amendment made by subsection (a) [amending this section] shall take effect with respect to reports required to be filed with the Securities and Exchange Commission after the date that is 180 days after the date of the enactment of this Act [Aug. 10, 2012]."
 
 #### Effective Date of 2010 Amendment ####
 
@@ -856,123 +856,123 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Elimination of Exemption From Fair Disclosure Rule ####
 
-Pub. L. 111–203, title IX, §939B, July 21, 2010, 124 Stat. 1887, provided that: “Not later than 90 days after the date of enactment of this subtitle [July 21, 2010], the Securities [and] Exchange Commission shall revise Regulation FD (17 C.F.R. 243.100) to remove from such regulation the exemption for entities whose primary business is the issuance of credit ratings (17 C.F.R. 243.100(b)(2)(iii)).”
+Pub. L. 111–203, title IX, §939B, July 21, 2010, 124 Stat. 1887, provided that: "Not later than 90 days after the date of enactment of this subtitle [July 21, 2010], the Securities [and] Exchange Commission shall revise Regulation FD (17 C.F.R. 243.100) to remove from such regulation the exemption for entities whose primary business is the issuance of credit ratings (17 C.F.R. 243.100(b)(2)(iii))."
 
 #### Conflict Minerals ####
 
 Pub. L. 111–203, title XV, §1502, July 21, 2010, 124 Stat. 2213, provided that:
 
-“(a) Sense of Congress on Exploitation and Trade of Conflict Minerals Originating in the Democratic Republic of the Congo.—It is the sense of Congress that the exploitation and trade of conflict minerals originating in the Democratic Republic of the Congo is helping to finance conflict characterized by extreme levels of violence in the eastern Democratic Republic of the Congo, particularly sexual- and gender-based violence, and contributing to an emergency humanitarian situation therein, warranting the provisions of section 13(p) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(p)], as added by subsection (b).
+"(a) Sense of Congress on Exploitation and Trade of Conflict Minerals Originating in the Democratic Republic of the Congo.—It is the sense of Congress that the exploitation and trade of conflict minerals originating in the Democratic Republic of the Congo is helping to finance conflict characterized by extreme levels of violence in the eastern Democratic Republic of the Congo, particularly sexual- and gender-based violence, and contributing to an emergency humanitarian situation therein, warranting the provisions of section 13(p) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(p)], as added by subsection (b).
 
-“(b) [Amended this section.]
+"(b) [Amended this section.]
 
-“(c) Strategy and Map to Address Linkages Between Conflict Minerals and Armed Groups.—
+"(c) Strategy and Map to Address Linkages Between Conflict Minerals and Armed Groups.—
 
-“(1) Strategy.—
+"(1) Strategy.—
 
-“(A) In general.—Not later than 180 days after the date of the enactment of this Act [July 21, 2010], the Secretary of State, in consultation with the Administrator of the United States Agency for International Development, shall submit to the appropriate congressional committees a strategy to address the linkages between human rights abuses, armed groups, mining of conflict minerals, and commercial products.
+"(A) In general.—Not later than 180 days after the date of the enactment of this Act [July 21, 2010], the Secretary of State, in consultation with the Administrator of the United States Agency for International Development, shall submit to the appropriate congressional committees a strategy to address the linkages between human rights abuses, armed groups, mining of conflict minerals, and commercial products.
 
-“(B) Contents.—The strategy required by subparagraph (A) shall include the following:
+"(B) Contents.—The strategy required by subparagraph (A) shall include the following:
 
-“(i) A plan to promote peace and security in the Democratic Republic of the Congo by supporting efforts of the Government of the Democratic Republic of the Congo, including the Ministry of Mines and other relevant agencies, adjoining countries, and the international community, in particular the United Nations Group of Experts on the Democratic Republic of Congo, to—
+"(i) A plan to promote peace and security in the Democratic Republic of the Congo by supporting efforts of the Government of the Democratic Republic of the Congo, including the Ministry of Mines and other relevant agencies, adjoining countries, and the international community, in particular the United Nations Group of Experts on the Democratic Republic of Congo, to—
 
- “(I) monitor and stop commercial activities involving the natural resources of the Democratic Republic of the Congo that contribute to the activities of armed groups and human rights violations in the Democratic Republic of the Congo; and
+ "(I) monitor and stop commercial activities involving the natural resources of the Democratic Republic of the Congo that contribute to the activities of armed groups and human rights violations in the Democratic Republic of the Congo; and
 
- “(II) develop stronger governance and economic institutions that can facilitate and improve transparency in the cross-border trade involving the natural resources of the Democratic Republic of the Congo to reduce exploitation by armed groups and promote local and regional development.
+ "(II) develop stronger governance and economic institutions that can facilitate and improve transparency in the cross-border trade involving the natural resources of the Democratic Republic of the Congo to reduce exploitation by armed groups and promote local and regional development.
 
-“(ii) A plan to provide guidance to commercial entities seeking to exercise due diligence on and formalize the origin and chain of custody of conflict minerals used in their products and on their suppliers to ensure that conflict minerals used in the products of such suppliers do not directly or indirectly finance armed conflict or result in labor or human rights violations.
+"(ii) A plan to provide guidance to commercial entities seeking to exercise due diligence on and formalize the origin and chain of custody of conflict minerals used in their products and on their suppliers to ensure that conflict minerals used in the products of such suppliers do not directly or indirectly finance armed conflict or result in labor or human rights violations.
 
-“(iii) A description of punitive measures that could be taken against individuals or entities whose commercial activities are supporting armed groups and human rights violations in the Democratic Republic of the Congo.
+"(iii) A description of punitive measures that could be taken against individuals or entities whose commercial activities are supporting armed groups and human rights violations in the Democratic Republic of the Congo.
 
-“(2) Map.—
+"(2) Map.—
 
-“(A) In general.—Not later than 180 days after the date of the enactment of this Act [July 21, 2010], the Secretary of State shall, in accordance with the recommendation of the United Nations Group of Experts on the Democratic Republic of the Congo in their December 2008 report—
+"(A) In general.—Not later than 180 days after the date of the enactment of this Act [July 21, 2010], the Secretary of State shall, in accordance with the recommendation of the United Nations Group of Experts on the Democratic Republic of the Congo in their December 2008 report—
 
-“(i) produce a map of mineral-rich zones, trade routes, and areas under the control of armed groups in the Democratic Republic of the Congo and adjoining countries based on data from multiple sources, including—
+"(i) produce a map of mineral-rich zones, trade routes, and areas under the control of armed groups in the Democratic Republic of the Congo and adjoining countries based on data from multiple sources, including—
 
- “(I) the United Nations Group of Experts on the Democratic Republic of the Congo;
+ "(I) the United Nations Group of Experts on the Democratic Republic of the Congo;
 
- “(II) the Government of the Democratic Republic of the Congo, the governments of adjoining countries, and the governments of other Member States of the United Nations; and
+ "(II) the Government of the Democratic Republic of the Congo, the governments of adjoining countries, and the governments of other Member States of the United Nations; and
 
- “(III) local and international nongovernmental organizations;
+ "(III) local and international nongovernmental organizations;
 
-“(ii) make such map available to the public; and
+"(ii) make such map available to the public; and
 
-“(iii) provide to the appropriate congressional committees an explanatory note describing the sources of information from which such map is based and the identification, where possible, of the armed groups or other forces in control of the mines depicted.
+"(iii) provide to the appropriate congressional committees an explanatory note describing the sources of information from which such map is based and the identification, where possible, of the armed groups or other forces in control of the mines depicted.
 
-“(B) Designation.—The map required under subparagraph (A) shall be known as the ‘Conflict Minerals Map’, and mines located in areas under the control of armed groups in the Democratic Republic of the Congo and adjoining countries, as depicted on such Conflict Minerals Map, shall be known as ‘Conflict Zone Mines’.
+"(B) Designation.—The map required under subparagraph (A) shall be known as the 'Conflict Minerals Map', and mines located in areas under the control of armed groups in the Democratic Republic of the Congo and adjoining countries, as depicted on such Conflict Minerals Map, shall be known as 'Conflict Zone Mines'.
 
-“(C) Updates.—The Secretary of State shall update the map required under subparagraph (A) not less frequently than once every 180 days until the date on which the disclosure requirements under paragraph (1) of section 13(p) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(p)], as added by subsection (b), terminate in accordance with the provisions of paragraph (4) of such section 13(p).
+"(C) Updates.—The Secretary of State shall update the map required under subparagraph (A) not less frequently than once every 180 days until the date on which the disclosure requirements under paragraph (1) of section 13(p) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(p)], as added by subsection (b), terminate in accordance with the provisions of paragraph (4) of such section 13(p).
 
-“(D) Publication in federal register.—The Secretary of State shall add minerals to the list of minerals in the definition of conflict minerals under section 1502 [amending this section and enacting this note], as appropriate. The Secretary shall publish in the Federal Register notice of intent to declare a mineral as a conflict mineral included in such definition not later than one year before such declaration.
+"(D) Publication in federal register.—The Secretary of State shall add minerals to the list of minerals in the definition of conflict minerals under section 1502 [amending this section and enacting this note], as appropriate. The Secretary shall publish in the Federal Register notice of intent to declare a mineral as a conflict mineral included in such definition not later than one year before such declaration.
 
-“(d) Reports.—
+"(d) Reports.—
 
-“(1) Baseline report.—Not later than 1 year after the date of the enactment of this Act [July 21, 2010] and annually thereafter until the termination of the disclosure requirements under section 13(p) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(p)], the Comptroller General of the United States shall submit to appropriate congressional committees a report that includes an assessment of the rate of sexual- and gender-based violence in war-torn areas of the Democratic Republic of the Congo and adjoining countries.
+"(1) Baseline report.—Not later than 1 year after the date of the enactment of this Act [July 21, 2010] and annually thereafter until the termination of the disclosure requirements under section 13(p) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(p)], the Comptroller General of the United States shall submit to appropriate congressional committees a report that includes an assessment of the rate of sexual- and gender-based violence in war-torn areas of the Democratic Republic of the Congo and adjoining countries.
 
-“(2) Regular report on effectiveness.—Not later than 2 years after the date of the enactment of this Act [July 21, 2010] and annually thereafter, the Comptroller General of the United States shall submit to the appropriate congressional committees a report that includes the following:
+"(2) Regular report on effectiveness.—Not later than 2 years after the date of the enactment of this Act [July 21, 2010] and annually thereafter, the Comptroller General of the United States shall submit to the appropriate congressional committees a report that includes the following:
 
-“(A) An assessment of the effectiveness of section 13(p) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(p)], as added by subsection (b), in promoting peace and security in the Democratic Republic of the Congo and adjoining countries.
+"(A) An assessment of the effectiveness of section 13(p) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(p)], as added by subsection (b), in promoting peace and security in the Democratic Republic of the Congo and adjoining countries.
 
-“(B) A description of issues encountered by the Securities and Exchange Commission in carrying out the provisions of such section 13(p).
+"(B) A description of issues encountered by the Securities and Exchange Commission in carrying out the provisions of such section 13(p).
 
-“(C)(i) A general review of persons described in clause (ii) and whether information is publicly available about—
+"(C)(i) A general review of persons described in clause (ii) and whether information is publicly available about—
 
-“(I) the use of conflict minerals by such persons; and
+"(I) the use of conflict minerals by such persons; and
 
-“(II) whether such conflict minerals originate from the Democratic Republic of the Congo or an adjoining country.
+"(II) whether such conflict minerals originate from the Democratic Republic of the Congo or an adjoining country.
 
-“(ii) A person is described in this clause if—
+"(ii) A person is described in this clause if—
 
-“(I) the person is not required to file reports with the Securities and Exchange Commission pursuant to section 13(p)(1)(A) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(p)(1)(A)], as added by subsection (b); and
+"(I) the person is not required to file reports with the Securities and Exchange Commission pursuant to section 13(p)(1)(A) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(p)(1)(A)], as added by subsection (b); and
 
-“(II) conflict minerals are necessary to the functionality or production of a product manufactured by such person.
+"(II) conflict minerals are necessary to the functionality or production of a product manufactured by such person.
 
-“(3) Report on private sector auditing.—Not later than 30 months after the date of the enactment of this Act [July 21, 2010], and annually thereafter, the Secretary of Commerce shall submit to the appropriate congressional committees a report that includes the following:
+"(3) Report on private sector auditing.—Not later than 30 months after the date of the enactment of this Act [July 21, 2010], and annually thereafter, the Secretary of Commerce shall submit to the appropriate congressional committees a report that includes the following:
 
-“(A) An assessment of the accuracy of the independent private sector audits and other due diligence processes described under section 13(p) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(p)].
+"(A) An assessment of the accuracy of the independent private sector audits and other due diligence processes described under section 13(p) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(p)].
 
-“(B) Recommendations for the processes used to carry out such audits, including ways to—
+"(B) Recommendations for the processes used to carry out such audits, including ways to—
 
-“(i) improve the accuracy of such audits; and
+"(i) improve the accuracy of such audits; and
 
-“(ii) establish standards of best practices.
+"(ii) establish standards of best practices.
 
-“(C) A listing of all known conflict mineral processing facilities worldwide.
+"(C) A listing of all known conflict mineral processing facilities worldwide.
 
-“(e) Definitions.—For purposes of this section:
+"(e) Definitions.—For purposes of this section:
 
-“(1) Adjoining country.—The term ‘adjoining country’, with respect to the Democratic Republic of the Congo, means a country that shares an internationally recognized border with the Democratic Republic of the Congo.
+"(1) Adjoining country.—The term 'adjoining country', with respect to the Democratic Republic of the Congo, means a country that shares an internationally recognized border with the Democratic Republic of the Congo.
 
-“(2) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—
+"(2) Appropriate congressional committees.—The term 'appropriate congressional committees' means—
 
-“(A) the Committee on Appropriations, the Committee on Foreign Affairs, the Committee on Ways and Means, and the Committee on Financial Services of the House of Representatives; and
+"(A) the Committee on Appropriations, the Committee on Foreign Affairs, the Committee on Ways and Means, and the Committee on Financial Services of the House of Representatives; and
 
-“(B) the Committee on Appropriations, the Committee on Foreign Relations, the Committee on Finance, and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+"(B) the Committee on Appropriations, the Committee on Foreign Relations, the Committee on Finance, and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
-“(3) Armed group.—The term ‘armed group’ means an armed group that is identified as perpetrators of serious human rights abuses in the annual Country Reports on Human Rights Practices under sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n(d) and 2304(b)) relating to the Democratic Republic of the Congo or an adjoining country.
+"(3) Armed group.—The term 'armed group' means an armed group that is identified as perpetrators of serious human rights abuses in the annual Country Reports on Human Rights Practices under sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n(d) and 2304(b)) relating to the Democratic Republic of the Congo or an adjoining country.
 
-“(4) Conflict mineral.—The term ‘conflict mineral’ means—
+"(4) Conflict mineral.—The term 'conflict mineral' means—
 
-“(A) columbite-tantalite (coltan), cassiterite, gold, wolframite, or their derivatives; or
+"(A) columbite-tantalite (coltan), cassiterite, gold, wolframite, or their derivatives; or
 
-“(B) any other mineral or its derivatives determined by the Secretary of State to be financing conflict in the Democratic Republic of the Congo or an adjoining country.
+"(B) any other mineral or its derivatives determined by the Secretary of State to be financing conflict in the Democratic Republic of the Congo or an adjoining country.
 
-“(5) Under the control of armed groups.—The term ‘under the control of armed groups’ means areas within the Democratic Republic of the Congo or adjoining countries in which armed groups—
+"(5) Under the control of armed groups.—The term 'under the control of armed groups' means areas within the Democratic Republic of the Congo or adjoining countries in which armed groups—
 
-“(A) physically control mines or force labor of civilians to mine, transport, or sell conflict minerals;
+"(A) physically control mines or force labor of civilians to mine, transport, or sell conflict minerals;
 
-“(B) tax, extort, or control any part of trade routes for conflict minerals, including the entire trade route from a Conflict Zone Mine to the point of export from the Democratic Republic of the Congo or an adjoining country; or
+"(B) tax, extort, or control any part of trade routes for conflict minerals, including the entire trade route from a Conflict Zone Mine to the point of export from the Democratic Republic of the Congo or an adjoining country; or
 
-“(C) tax, extort, or control trading facilities, in whole or in part, including the point of export from the Democratic Republic of the Congo or an adjoining country.”
+"(C) tax, extort, or control trading facilities, in whole or in part, including the point of export from the Democratic Republic of the Congo or an adjoining country."
 
 #### Consultation ####
 
 Pub. L. 106–102, title II, §241, Nov. 12, 1999, 113 Stat. 1407, provided that:
 
-“(a) In General.—The Securities and Exchange Commission shall consult and coordinate comments with the appropriate Federal banking agency before taking any action or rendering any opinion with respect to the manner in which any insured depository institution or depository institution holding company reports loan loss reserves in its financial statement, including the amount of any such loan loss reserve.
+"(a) In General.—The Securities and Exchange Commission shall consult and coordinate comments with the appropriate Federal banking agency before taking any action or rendering any opinion with respect to the manner in which any insured depository institution or depository institution holding company reports loan loss reserves in its financial statement, including the amount of any such loan loss reserve.
 
-“(b) Definitions.—For purposes of subsection (a), the terms ‘insured depository institution’, ‘depository institution holding company’, and ‘appropriate Federal banking agency’ have the same meaning as given in section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813].”
+"(b) Definitions.—For purposes of subsection (a), the terms 'insured depository institution', 'depository institution holding company', and 'appropriate Federal banking agency' have the same meaning as given in section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813]."
 
 #### Assignment of Function Relating to Granting of Authority for Issuance of Certain Directives ####
 
@@ -986,10 +986,10 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 George W. Bush.
 
-[<sup>1</sup> So in original. Probably should be “account.”](#78m_1)
+[<sup>1</sup> So in original. Probably should be "account."](#78m_1)
 
 [<sup>2</sup> So in original. Section 78c–3(a) of this title does not contain a par. (6).](#78m_2)
 
-[<sup>3</sup> So in original. Probably should be “clause (i),”.](#78m_3)
+[<sup>3</sup> So in original. Probably should be "clause (i),".](#78m_3)
 
-[<sup>4</sup> So in original. The word “a” probably should appear.](#78m_4)
+[<sup>4</sup> So in original. The word "a" probably should appear.](#78m_4)

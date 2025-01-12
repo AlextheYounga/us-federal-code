@@ -2,11 +2,11 @@
 
 #### (a) In general ####
 
-In order to provide for public outdoor recreation use and enjoyment of the lands and waters associated with Lake Meredith in the State of Texas, and to protect the scenic, scientific, cultural, and other values contributing to the public enjoyment of such lands and waters, there is hereby established the Lake Meredith National Recreation Area (hereafter in this Act referred to as the “recreation area”).
+In order to provide for public outdoor recreation use and enjoyment of the lands and waters associated with Lake Meredith in the State of Texas, and to protect the scenic, scientific, cultural, and other values contributing to the public enjoyment of such lands and waters, there is hereby established the Lake Meredith National Recreation Area (hereafter in this Act referred to as the "recreation area").
 
 #### (b) Area included ####
 
-The recreation area shall consist of the lands, waters, and interests therein within the area generally depicted on the map entitled “Lake Meredith National Recreation Area Boundary Map, ‘Fee-Take Line’ ”, numbered SWRO—80,023–A, and dated September 1990. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The Secretary of the Interior (hereafter in this Act referred to as the “Secretary”) may from time to time make minor revisions in the boundary of the recreation area.
+The recreation area shall consist of the lands, waters, and interests therein within the area generally depicted on the map entitled "Lake Meredith National Recreation Area Boundary Map, 'Fee-Take Line' ", numbered SWRO—80,023–A, and dated September 1990. The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The Secretary of the Interior (hereafter in this Act referred to as the "Secretary") may from time to time make minor revisions in the boundary of the recreation area.
 
 #### (c) Transfer ####
 

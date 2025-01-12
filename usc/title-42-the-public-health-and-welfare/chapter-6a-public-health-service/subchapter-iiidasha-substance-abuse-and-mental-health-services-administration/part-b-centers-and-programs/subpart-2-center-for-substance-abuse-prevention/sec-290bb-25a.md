@@ -70,7 +70,7 @@ The Secretary shall conduct evaluations, based in part on the reports submitted 
 
 #### (i) High-risk families ####
 
-In this section, the term “high-risk family” means a family in which the individuals of such family are at a significant risk of using or abusing alcohol or any illegal substance.
+In this section, the term "high-risk family" means a family in which the individuals of such family are at a significant risk of using or abusing alcohol or any illegal substance.
 
 #### (j) Authorization of appropriations ####
 
@@ -78,6 +78,6 @@ There is authorized to be appropriated to carry out this section, $3,000,000 for
 
 (July 1, 1944, ch. 373, title V, §519A, as added Pub. L. 106–310, div. B, title XXXI, §3108, Oct. 17, 2000, 114 Stat. 1180.)
 
-[<sup>1</sup> So in original. Probably should be “describes”.](#290bb-25a_1)
+[<sup>1</sup> So in original. Probably should be "describes".](#290bb-25a_1)
 
-[<sup>2</sup> So in original. Probably should be “an”.](#290bb-25a_2)
+[<sup>2</sup> So in original. Probably should be "an".](#290bb-25a_2)

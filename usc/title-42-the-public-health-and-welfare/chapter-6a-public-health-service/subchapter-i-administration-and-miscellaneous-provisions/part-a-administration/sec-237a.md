@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Office ####
 
-There is established within the Office of the Secretary, an Office on Women's Health (referred to in this section as the “Office”). The Office shall be headed by a Deputy Assistant Secretary for Women's Health who may report to the Secretary.
+There is established within the Office of the Secretary, an Office on Women's Health (referred to in this section as the "Office"). The Office shall be headed by a Deputy Assistant Secretary for Women's Health who may report to the Secretary.
 
 #### (b) Duties ####
 
@@ -12,7 +12,7 @@ The Secretary, acting through the Office, with respect to the health concerns of
 
 (2) provide expert advice and consultation to the Secretary concerning scientific, legal, ethical, and policy issues relating to women's health;
 
-(3) monitor the Department of Health and Human Services’ offices, agencies, and regional activities regarding women's health and identify needs regarding the coordination of activities, including intramural and extramural multidisciplinary activities;
+(3) monitor the Department of Health and Human Services' offices, agencies, and regional activities regarding women's health and identify needs regarding the coordination of activities, including intramural and extramural multidisciplinary activities;
 
 (4) establish a Department of Health and Human Services Coordinating Committee on Women's Health, which shall be chaired by the Deputy Assistant Secretary for Women's Health and composed of senior level representatives from each of the agencies and offices of the Department of Health and Human Services;
 
@@ -52,24 +52,24 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### Construction ####
 
-Pub. L. 111–148, title III, §3509(j), Mar. 23, 2010, 124 Stat. 537, provided that: “Nothing in this section [enacting this section, sections 242s, 299b–24a, and 914 of this title and section 399b of Title 21, Food and Drugs, amending sections 287d, 290aa, 299b–25, and 299b–26 of this title, and enacting provisions set out as notes under this section] (or the amendments made by this section) shall be construed to limit the authority of the Secretary of Health and Human Services with respect to women's health, or with respect to activities carried out through the Department of Health and Human Services on the date of enactment of this section [Mar. 23, 2010].”
+Pub. L. 111–148, title III, §3509(j), Mar. 23, 2010, 124 Stat. 537, provided that: "Nothing in this section [enacting this section, sections 242s, 299b–24a, and 914 of this title and section 399b of Title 21, Food and Drugs, amending sections 287d, 290aa, 299b–25, and 299b–26 of this title, and enacting provisions set out as notes under this section] (or the amendments made by this section) shall be construed to limit the authority of the Secretary of Health and Human Services with respect to women's health, or with respect to activities carried out through the Department of Health and Human Services on the date of enactment of this section [Mar. 23, 2010]."
 
 #### Transfer of Functions ####
 
-Pub. L. 111–148, title III, §3509(a)(2), Mar. 23, 2010, 124 Stat. 533, provided that: “There are transferred to the Office on Women's Health (established under section 229 of the Public Health Service Act [42 U.S.C. 237a], as added by this section), all functions exercised by the Office on Women's Health of the Public Health Service prior to the date of enactment of this section [Mar. 23, 2010], including all personnel and compensation authority, all delegation and assignment authority, and all remaining appropriations. All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions that—
+Pub. L. 111–148, title III, §3509(a)(2), Mar. 23, 2010, 124 Stat. 533, provided that: "There are transferred to the Office on Women's Health (established under section 229 of the Public Health Service Act [42 U.S.C. 237a], as added by this section), all functions exercised by the Office on Women's Health of the Public Health Service prior to the date of enactment of this section [Mar. 23, 2010], including all personnel and compensation authority, all delegation and assignment authority, and all remaining appropriations. All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions that—
 
-“(A) have been issued, made, granted, or allowed to become effective by the President, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions transferred under this paragraph; and
+"(A) have been issued, made, granted, or allowed to become effective by the President, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions transferred under this paragraph; and
 
-“(B) are in effect at the time this section takes effect, or were final before the date of enactment of this section and are to become effective on or after such date,
+"(B) are in effect at the time this section takes effect, or were final before the date of enactment of this section and are to become effective on or after such date,
 
-shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary, or other authorized official, a court of competent jurisdiction, or by operation of law.”
+shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary, or other authorized official, a court of competent jurisdiction, or by operation of law."
 
 #### No New Regulatory Authority ####
 
-Pub. L. 111–148, title III, §3509(h), Mar. 23, 2010, 124 Stat. 537, provided that: “Nothing in this section [enacting this section, sections 242s, 299b–24a, and 914 of this title and section 399b of Title 21, Food and Drugs, amending sections 287d, 290aa, 299b–25, and 299b–26 of this title, and enacting provisions set out as notes under this section] and the amendments made by this section may be construed as establishing regulatory authority or modifying any existing regulatory authority.”
+Pub. L. 111–148, title III, §3509(h), Mar. 23, 2010, 124 Stat. 537, provided that: "Nothing in this section [enacting this section, sections 242s, 299b–24a, and 914 of this title and section 399b of Title 21, Food and Drugs, amending sections 287d, 290aa, 299b–25, and 299b–26 of this title, and enacting provisions set out as notes under this section] and the amendments made by this section may be construed as establishing regulatory authority or modifying any existing regulatory authority."
 
 #### Limitation on Termination ####
 
-Pub. L. 111–148, title III, §3509(i), Mar. 23, 2010, 124 Stat. 537, provided that: “Notwithstanding any other provision of law, a Federal office of women's health (including the Office of Research on Women's Health of the National Institutes of Health) or Federal appointive position with primary responsibility over women's health issues (including the Associate Administrator for Women's Services under the Substance Abuse and Mental Health Services Administration) that is in existence on the date of enactment of this section [Mar. 23, 2010] shall not be terminated, reorganized, or have any of it's [sic] powers or duties transferred unless such termination, reorganization, or transfer is approved by Congress through the adoption of a concurrent resolution of approval.”
+Pub. L. 111–148, title III, §3509(i), Mar. 23, 2010, 124 Stat. 537, provided that: "Notwithstanding any other provision of law, a Federal office of women's health (including the Office of Research on Women's Health of the National Institutes of Health) or Federal appointive position with primary responsibility over women's health issues (including the Associate Administrator for Women's Services under the Substance Abuse and Mental Health Services Administration) that is in existence on the date of enactment of this section [Mar. 23, 2010] shall not be terminated, reorganized, or have any of it's [sic] powers or duties transferred unless such termination, reorganization, or transfer is approved by Congress through the adoption of a concurrent resolution of approval."
 
-[<sup>1</sup> So in original. Probably should be “lifespans;”.](#237a_1)
+[<sup>1</sup> So in original. Probably should be "lifespans;".](#237a_1)

@@ -4,7 +4,7 @@
 
 Section 471, act Mar. 4, 1927, ch. 513, §1, 44 Stat. 1452, which declared Congressional policy towards grazing districts and privileges, was transferred to section 316 of Title 43, Public Lands.
 
-Section 471a, act Mar. 4, 1927, ch. 513, §2, 44 Stat. 1452, which defined terms “person”, “district”, “Secretary”, and “lessee”, was transferred to section 316a of Title 43.
+Section 471a, act Mar. 4, 1927, ch. 513, §2, 44 Stat. 1452, which defined terms "person", "district", "Secretary", and "lessee", was transferred to section 316a of Title 43.
 
 Section 471b, act Mar. 4, 1927, ch. 513, §3, 44 Stat. 1452, which gave the Secretary the power to establish grazing districts, was transferred to section 316b of Title 43.
 

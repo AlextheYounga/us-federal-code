@@ -12,13 +12,13 @@ With respect to amounts appropriated to carry out this section for a fiscal year
 
 #### (3) Definition ####
 
-The term “autoimmune disease” includes, for purposes of this section such diseases or disorders with evidence of autoimmune pathogensis <sup><a href="#284i_1_target" name="284i_1">1</a></sup> as the Secretary determines to be appropriate.
+The term "autoimmune disease" includes, for purposes of this section such diseases or disorders with evidence of autoimmune pathogensis <sup><a href="#284i_1_target" name="284i_1">1</a></sup> as the Secretary determines to be appropriate.
 
 #### (b) Coordinating Committee ####
 
 #### (1) In general ####
 
-The Secretary shall ensure that the Autoimmune Diseases Coordinating Committee (referred to in this section as the “Coordinating Committee”) coordinates activities across the National Institutes and with other Federal health programs and activities relating to such diseases.
+The Secretary shall ensure that the Autoimmune Diseases Coordinating Committee (referred to in this section as the "Coordinating Committee") coordinates activities across the National Institutes and with other Federal health programs and activities relating to such diseases.
 
 #### (2) Composition ####
 
@@ -70,18 +70,18 @@ The Director of NIH shall ensure that programs and activities of the National In
 
 #### Amendments ####
 
-**2007**—Subsec. (d). Pub. L. 109–482, §104(b)(1)(E), struck out heading and text of subsec. (d). Text read as follows: “The Coordinating Committee under subsection (b)(1) of this section shall biennially submit to the Committee on Commerce of the House of Representatives, and the Committee on Health, Education, Labor and Pensions of the Senate, a report that describes the research, education, and other activities on autoimmune diseases being conducted or supported through the national research institutes, and that in addition includes the following:
+**2007**—Subsec. (d). Pub. L. 109–482, §104(b)(1)(E), struck out heading and text of subsec. (d). Text read as follows: "The Coordinating Committee under subsection (b)(1) of this section shall biennially submit to the Committee on Commerce of the House of Representatives, and the Committee on Health, Education, Labor and Pensions of the Senate, a report that describes the research, education, and other activities on autoimmune diseases being conducted or supported through the national research institutes, and that in addition includes the following:
 
-“(1) The plan under subsection (c)(1) of this section (or revisions to the plan, as the case may be).
+"(1) The plan under subsection (c)(1) of this section (or revisions to the plan, as the case may be).
 
-“(2) Provisions specifying the amounts expended by the National Institutes of Health with respect to each of the autoimmune diseases included in the plan.
+"(2) Provisions specifying the amounts expended by the National Institutes of Health with respect to each of the autoimmune diseases included in the plan.
 
-“(3) Provisions identifying particular projects or types of projects that should in the future be considered by the national research institutes or other entities in the field of research on autoimmune diseases.”
+"(3) Provisions identifying particular projects or types of projects that should in the future be considered by the national research institutes or other entities in the field of research on autoimmune diseases."
 
-Subsec. (e). Pub. L. 109–482, §103(b)(11), struck out heading and text of subsec. (e). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriations that is available for conducting or supporting through the National Institutes of Health research and other activities with respect to autoimmune diseases.”
+Subsec. (e). Pub. L. 109–482, §103(b)(11), struck out heading and text of subsec. (e). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005. The authorization of appropriations established in the preceding sentence is in addition to any other authorization of appropriations that is available for conducting or supporting through the National Institutes of Health research and other activities with respect to autoimmune diseases."
 
 #### Effective Date of 2007 Amendment ####
 
 Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
-[<sup>1</sup> So in original. Probably should be “pathogenesis”.](#284i_1)
+[<sup>1</sup> So in original. Probably should be "pathogenesis".](#284i_1)

@@ -4,29 +4,29 @@ In this subchapter:
 
 #### (1) Administrator ####
 
-The term “Administrator” means the Administrator of the Environmental Protection Agency.
+The term "Administrator" means the Administrator of the Environmental Protection Agency.
 
 #### (2) Advisory Board ####
 
-The term “Advisory Board” means the Land Between the Lakes Advisory Board established under section 460lll–22 of this title.
+The term "Advisory Board" means the Land Between the Lakes Advisory Board established under section 460lll–22 of this title.
 
 #### (3) Chairman ####
 
-The term “Chairman” means the Chairman of the Board of Directors of the Tennessee Valley Authority.
+The term "Chairman" means the Chairman of the Board of Directors of the Tennessee Valley Authority.
 
 #### (4) Eligible employee ####
 
-The term “eligible employee” means a person that was, on the date of transfer pursuant to section 460lll–41 of this title, a full-time or part-time annual employee of the Tennessee Valley Authority at the Recreation Area.
+The term "eligible employee" means a person that was, on the date of transfer pursuant to section 460lll–41 of this title, a full-time or part-time annual employee of the Tennessee Valley Authority at the Recreation Area.
 
 #### (5) Environmental law ####
 
 #### (A) In general ####
 
-The term “environmental law” means all applicable Federal, State, and local laws (including regulations) and requirements related to protection of human health, natural and cultural resources, or the environment.
+The term "environmental law" means all applicable Federal, State, and local laws (including regulations) and requirements related to protection of human health, natural and cultural resources, or the environment.
 
 #### (B) Inclusions ####
 
-The term “environmental law” includes—
+The term "environmental law" includes—
 
 (i) the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.);
 
@@ -48,43 +48,43 @@ The term “environmental law” includes—
 
 #### (6) Forest highway ####
 
-The term “forest highway” has the meaning given the term in section 101(a) of title 23.<sup><a href="#460lll_1_target" name="460lll_1">1</a></sup>
+The term "forest highway" has the meaning given the term in section 101(a) of title 23.<sup><a href="#460lll_1_target" name="460lll_1">1</a></sup>
 
 #### (7) Governmental unit ####
 
-The term “governmental unit” means an agency of the Federal Government or a State or local government, local governmental unit, public or municipal corporation, or unit of a State university system.
+The term "governmental unit" means an agency of the Federal Government or a State or local government, local governmental unit, public or municipal corporation, or unit of a State university system.
 
 #### (8) Hazardous substance ####
 
-The term “hazardous substance” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
+The term "hazardous substance" has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
 
 #### (9) Person ####
 
-The term “person” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
+The term "person" has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
 
 #### (10) Pollutant or contaminant ####
 
-The term “pollutant or contaminant” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
+The term "pollutant or contaminant" has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
 
 #### (11) Recreation Area ####
 
-The term “Recreation Area” means the Land Between the Lakes National Recreation Area.
+The term "Recreation Area" means the Land Between the Lakes National Recreation Area.
 
 #### (12) Release ####
 
-The term “release” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
+The term "release" has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
 
 #### (13) Response action ####
 
-The term “response action” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
+The term "response action" has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601).
 
 #### (14) Secretary ####
 
-The term “Secretary” means the Secretary of Agriculture.
+The term "Secretary" means the Secretary of Agriculture.
 
 #### (15) State ####
 
-The term “State” means the State of Kentucky and the State of Tennessee.
+The term "State" means the State of Kentucky and the State of Tennessee.
 
 (Pub. L. 105–277, div. A, §101(e) [title V, §502], Oct. 21, 1998, 112 Stat. 2681–231, 2681–310.)
 
@@ -108,10 +108,10 @@ The National Environmental Policy Act of 1969, referred to in par. (5)(B)(viii),
 
 The Endangered Species Act of 1973, referred to in par. (5)(B)(ix), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-Section 101(a) of title 23, referred to in par. (6), was subsequently amended, and section 101(a) no longer defines “forest highway”.
+Section 101(a) of title 23, referred to in par. (6), was subsequently amended, and section 101(a) no longer defines "forest highway".
 
 #### Short Title ####
 
-Pub. L. 105–277, div. A, §101(e) [title V, §501], Oct. 21, 1998, 112 Stat. 2681–231, 2681–310, provided that: “This title [enacting this subchapter] may be referred to as ‘The Land Between the Lakes Protection Act of 1998’.”
+Pub. L. 105–277, div. A, §101(e) [title V, §501], Oct. 21, 1998, 112 Stat. 2681–231, 2681–310, provided that: "This title [enacting this subchapter] may be referred to as 'The Land Between the Lakes Protection Act of 1998'."
 
 [<sup>1</sup> See References in Text note below.](#460lll_1)

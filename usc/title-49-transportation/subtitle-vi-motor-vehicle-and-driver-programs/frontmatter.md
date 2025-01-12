@@ -37,6 +37,6 @@ Chapter Sec.
 
 #### Amendments ####
 
-**1997**—Pub. L. 105–102, §2(17), Nov. 20, 1997, 111 Stat. 2205, substituted “National Motor Vehicle Title Information System” for “National Automobile Title Information System” in item for chapter 305.
+**1997**—Pub. L. 105–102, §2(17), Nov. 20, 1997, 111 Stat. 2205, substituted "National Motor Vehicle Title Information System" for "National Automobile Title Information System" in item for chapter 305.
 
-[<sup>1</sup> So in original. Probably should be “31100”.](#SUBTITLEVI_1)
+[<sup>1</sup> So in original. Probably should be "31100".](#SUBTITLEVI_1)

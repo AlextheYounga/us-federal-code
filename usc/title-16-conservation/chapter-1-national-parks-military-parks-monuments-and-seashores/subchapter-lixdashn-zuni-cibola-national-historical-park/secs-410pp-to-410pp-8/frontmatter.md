@@ -24,4 +24,4 @@ Section 410pp–8, Pub. L. 100–567, §11, Oct. 31, 1988, 102 Stat. 2852, autho
 
 #### Short Title ####
 
-Section 1 of Pub. L. 100–567 provided that Pub. L. 100–567, which enacted this subchapter and amended section 460uu–12 of this title, could be cited as the “Zuni-Cibola National Historical Park Establishment Act of 1988”.
+Section 1 of Pub. L. 100–567 provided that Pub. L. 100–567, which enacted this subchapter and amended section 460uu–12 of this title, could be cited as the "Zuni-Cibola National Historical Park Establishment Act of 1988".

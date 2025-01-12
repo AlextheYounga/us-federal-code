@@ -1,6 +1,6 @@
 ### §1087*ll*. Cost of attendance ###
 
-For the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42, the term “cost of attendance” means—
+For the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42, the term "cost of attendance" means—
 
 (1) tuition and fees normally assessed a student carrying the same academic workload as determined by the institution, and including costs for rental or purchase of any equipment, materials, or supplies required of all students in the same course of study;
 
@@ -52,19 +52,19 @@ For the purpose of this subchapter and part C of subchapter I of chapter 34 of t
 
 **2008**—Par. (3)(C), (D). Pub. L. 110–315 added subpar. (C) and redesignated former subpar. (C) as (D).
 
-**2006**—Par. (4). Pub. L. 109–171, §8016(1), added par. (4) and struck out former par. (4), which read as follows: “for less than half-time students (as determined by the institution) tuition and fees and an allowance for only books, supplies, and transportation (as determined by the institution) and dependent care expenses (in accordance with paragraph (8));”.
+**2006**—Par. (4). Pub. L. 109–171, §8016(1), added par. (4) and struck out former par. (4), which read as follows: "for less than half-time students (as determined by the institution) tuition and fees and an allowance for only books, supplies, and transportation (as determined by the institution) and dependent care expenses (in accordance with paragraph (8));".
 
 Par. (13). Pub. L. 109–171, §8016(2)–(4), added par. (13).
 
-**1998**—Par. (2). Pub. L. 105–244, §471(1), inserted “, including a reasonable allowance for the documented rental or purchase of a personal computer,” after “personal expenses”.
+**1998**—Par. (2). Pub. L. 105–244, §471(1), inserted ", including a reasonable allowance for the documented rental or purchase of a personal computer," after "personal expenses".
 
-Par. (3)(A). Pub. L. 105–244, §471(2)(A), substituted “determined by the institution” for “of not less than $1,500”.
+Par. (3)(A). Pub. L. 105–244, §471(2)(A), substituted "determined by the institution" for "of not less than $1,500".
 
-Par. (3)(C). Pub. L. 105–244, §471(2)(B), struck out “, except that the amount may not be less than $2,500” after “room and board”.
+Par. (3)(C). Pub. L. 105–244, §471(2)(B), struck out ", except that the amount may not be less than $2,500" after "room and board".
 
-Par. (10). Pub. L. 105–244, §471(3), substituted a semicolon for “, but this paragraph shall not be construed to permit including the cost of rental or purchase of equipment;”.
+Par. (10). Pub. L. 105–244, §471(3), substituted a semicolon for ", but this paragraph shall not be construed to permit including the cost of rental or purchase of equipment;".
 
-Par. (11). Pub. L. 105–244, §471(4), substituted “engaged” for “placed”.
+Par. (11). Pub. L. 105–244, §471(4), substituted "engaged" for "placed".
 
 **1993**—Par. (12). Pub. L. 103–208 added par. (12).
 
@@ -72,7 +72,7 @@ Par. (11). Pub. L. 105–244, §471(4), substituted “engaged” for “placed�
 
 #### Effective Date of 2008 Amendment ####
 
-Pub. L. 110–315, title IV, §471(b), Aug. 14, 2008, 122 Stat. 3269, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on July 1, 2010.”
+Pub. L. 110–315, title IV, §471(b), Aug. 14, 2008, 122 Stat. 3269, provided that: "The amendments made by subsection (a) [amending this section] shall take effect on July 1, 2010."
 
 #### Effective Date of 2006 Amendment ####
 

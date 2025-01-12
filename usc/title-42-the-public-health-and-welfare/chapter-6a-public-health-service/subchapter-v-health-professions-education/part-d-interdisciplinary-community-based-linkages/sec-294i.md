@@ -24,7 +24,7 @@ The Secretary shall (directly or through grants or contracts) provide for the ev
 
 #### (d) Pain care defined ####
 
-For purposes of this section the term “pain care” means the assessment, diagnosis, treatment, or management of acute or chronic pain regardless of causation or body location.
+For purposes of this section the term "pain care" means the assessment, diagnosis, treatment, or management of acute or chronic pain regardless of causation or body location.
 
 #### (e) Authorization of appropriations ####
 

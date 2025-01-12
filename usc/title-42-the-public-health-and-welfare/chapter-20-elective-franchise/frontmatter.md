@@ -46,7 +46,7 @@ Sec.
 
 #### SUBCHAPTER I–B—SUPPLEMENTAL PROVISIONS ####
 
-1973aa. Application of prohibition to other States; “test or device” defined.
+1973aa. Application of prohibition to other States; "test or device" defined.
 
 1973aa–1. Residence requirements for voting.
 
@@ -66,7 +66,7 @@ Sec.
 
 1973bb. Enforcement of twenty-sixth amendment.
 
-1973bb–1. “State” defined.
+1973bb–1. "State" defined.
 
 1973bb–2 to 1973bb–4. Repealed.
 
@@ -164,4 +164,4 @@ Sec.
 
 1974d. Jurisdiction to compel production of records or papers.
 
-1974e. “Officer of election” defined.
+1974e. "Officer of election" defined.

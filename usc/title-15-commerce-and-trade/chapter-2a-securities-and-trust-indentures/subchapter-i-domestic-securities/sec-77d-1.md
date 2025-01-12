@@ -118,7 +118,7 @@ An issuer shall be liable in an action under paragraph (1), if the issuer—
 
 #### (3) Definition ####
 
-As used in this subsection, the term “issuer” includes any person who is a director or partner of the issuer, and the principal executive officer or officers, principal financial officer, and controller or principal accounting officer of the issuer (and any person occupying a similar status or performing a similar function) that offers or sells a security in a transaction exempted by the provisions of section 77d(6) <sup><a href="#77d-1_1_target" name="77d-1_1">1</a></sup> of this title, and any person who offers or sells the security in such offering.
+As used in this subsection, the term "issuer" includes any person who is a director or partner of the issuer, and the principal executive officer or officers, principal financial officer, and controller or principal accounting officer of the issuer (and any person occupying a similar status or performing a similar function) that offers or sells a security in a transaction exempted by the provisions of section 77d(6) <sup><a href="#77d-1_1_target" name="77d-1_1">1</a></sup> of this title, and any person who offers or sells the security in such offering.
 
 #### (d) Information available to States ####
 

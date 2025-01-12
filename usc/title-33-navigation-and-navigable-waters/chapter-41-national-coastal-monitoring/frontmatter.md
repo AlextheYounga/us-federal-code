@@ -8,6 +8,8 @@ Sec.
 
 2803. Comprehensive Coastal Water Quality Monitoring Program.
 
+2803a. Ocean and coastal resiliency.
+
 2804. Report to Congress.
 
 2805. Authorization of appropriations.

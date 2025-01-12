@@ -20,4 +20,4 @@ Section 3271, Pub. L. 95–113, title XIV, §1455, Sept. 29, 1977, 91 Stat. 1015
 
 Section 3281, Pub. L. 95–113, title XIV, §1456, Sept. 29, 1977, 91 Stat. 1015, authorized appropriation of funds.
 
-Section 3282, Pub. L. 95–113, title XIV, §1457, Sept. 29, 1977, 91 Stat. 1015; Pub. L. 97–98, title XIV, §1435, Dec. 22, 1981, 95 Stat. 1313, defined “solar energy”.
+Section 3282, Pub. L. 95–113, title XIV, §1457, Sept. 29, 1977, 91 Stat. 1015; Pub. L. 97–98, title XIV, §1435, Dec. 22, 1981, 95 Stat. 1313, defined "solar energy".

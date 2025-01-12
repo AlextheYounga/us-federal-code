@@ -10,7 +10,7 @@ Section 3001 of title III of division B of the American Recovery and Reinvestmen
 
 #### Amendments ####
 
-**2010**—Pub. L. 111–144 substituted “section 3001 of title III of division B of the American Recovery and Reinvestment Act of 2009” for “section 3002 of the Health Insurance Assistance for the Unemployed Act of 2009”.
+**2010**—Pub. L. 111–144 substituted "section 3001 of title III of division B of the American Recovery and Reinvestment Act of 2009" for "section 3002 of the Health Insurance Assistance for the Unemployed Act of 2009".
 
 #### Effective Date of 2010 Amendment ####
 

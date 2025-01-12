@@ -2,11 +2,11 @@
 
 (a) For purposes of this section—
 
-(1) the term “agency” means any agency, as defined in section 552(e) <sup><a href="#552b_1_target" name="552b_1">1</a></sup> of this title, headed by a collegial body composed of two or more individual members, a majority of whom are appointed to such position by the President with the advice and consent of the Senate, and any subdivision thereof authorized to act on behalf of the agency;
+(1) the term "agency" means any agency, as defined in section 552(e) <sup><a href="#552b_1_target" name="552b_1">1</a></sup> of this title, headed by a collegial body composed of two or more individual members, a majority of whom are appointed to such position by the President with the advice and consent of the Senate, and any subdivision thereof authorized to act on behalf of the agency;
 
-(2) the term “meeting” means the deliberations of at least the number of individual agency members required to take action on behalf of the agency where such deliberations determine or result in the joint conduct or disposition of official agency business, but does not include deliberations required or permitted by subsection (d) or (e); and
+(2) the term "meeting" means the deliberations of at least the number of individual agency members required to take action on behalf of the agency where such deliberations determine or result in the joint conduct or disposition of official agency business, but does not include deliberations required or permitted by subsection (d) or (e); and
 
-(3) the term “member” means an individual who belongs to a collegial body heading an agency.
+(3) the term "member" means an individual who belongs to a collegial body heading an agency.
 
 (b) Members shall not jointly conduct or dispose of agency business other than in accordance with this section. Except as provided in subsection (c), every portion of every meeting of an agency shall be open to public observation.
 
@@ -90,19 +90,19 @@ Section 552(e) of this title, referred to in subsec. (a)(1), was redesignated se
 
 #### Amendments ####
 
-**1995**—Subsec. (j). Pub. L. 104–66 amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “Each agency subject to the requirements of this section shall annually report to Congress regarding its compliance with such requirements, including a tabulation of the total number of agency meetings open to the public, the total number of meetings closed to the public, the reasons for closing such meetings, and a description of any litigation brought against the agency under this section, including any costs assessed against the agency in such litigation (whether or not paid by the agency).”
+**1995**—Subsec. (j). Pub. L. 104–66 amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: "Each agency subject to the requirements of this section shall annually report to Congress regarding its compliance with such requirements, including a tabulation of the total number of agency meetings open to the public, the total number of meetings closed to the public, the reasons for closing such meetings, and a description of any litigation brought against the agency under this section, including any costs assessed against the agency in such litigation (whether or not paid by the agency)."
 
 #### Effective Date ####
 
 Pub. L. 94–409, §6, Sept. 13, 1976, 90 Stat. 1248, provided that:
 
-“(a) Except as provided in subsection (b) of this section, the provisions of this Act [see Short Title note set out below] shall take effect 180 days after the date of its enactment [Sept. 13, 1976].
+"(a) Except as provided in subsection (b) of this section, the provisions of this Act [see Short Title note set out below] shall take effect 180 days after the date of its enactment [Sept. 13, 1976].
 
-“(b) Subsection (g) of section 552b of title 5, United States Code, as added by section 3(a) of this Act, shall take effect upon enactment [Sept. 13, 1976].”
+"(b) Subsection (g) of section 552b of title 5, United States Code, as added by section 3(a) of this Act, shall take effect upon enactment [Sept. 13, 1976]."
 
 #### Short Title of 1976 Amendment ####
 
-Pub. L. 94–409, §1, Sept. 13, 1976, 90 Stat. 1241, provided: “That this Act [enacting this section, amending sections 551, 552, 556, and 557 of this title, section 10 of Pub. L. 92–463, set out in the Appendix to this title, and section 410 of Title 39, and enacting provisions set out as notes under this section] may be cited as the ‘Government in the Sunshine Act’.”
+Pub. L. 94–409, §1, Sept. 13, 1976, 90 Stat. 1241, provided: "That this Act [enacting this section, amending sections 551, 552, 556, and 557 of this title, section 10 of Pub. L. 92–463, set out in the Appendix to this title, and section 410 of Title 39, and enacting provisions set out as notes under this section] may be cited as the 'Government in the Sunshine Act'."
 
 #### Termination of Reporting Requirements ####
 
@@ -114,6 +114,6 @@ For termination of Administrative Conference of United States, see provision of 
 
 #### Declaration of Policy and Statement of Purpose ####
 
-Pub. L. 94–409, §2, Sept. 13, 1976, 90 Stat. 1241, provided that: “It is hereby declared to be the policy of the United States that the public is entitled to the fullest practicable information regarding the decisionmaking processes of the Federal Government. It is the purpose of this Act [see Short Title note set out above] to provide the public with such information while protecting the rights of individuals and the ability of the Government to carry out its responsibilities.”
+Pub. L. 94–409, §2, Sept. 13, 1976, 90 Stat. 1241, provided that: "It is hereby declared to be the policy of the United States that the public is entitled to the fullest practicable information regarding the decisionmaking processes of the Federal Government. It is the purpose of this Act [see Short Title note set out above] to provide the public with such information while protecting the rights of individuals and the ability of the Government to carry out its responsibilities."
 
 [<sup>1</sup> See References in Text note below.](#552b_1)

@@ -26,7 +26,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “eligible small employer” means, with respect to any taxable year, an employer—
+The term "eligible small employer" means, with respect to any taxable year, an employer—
 
 (A) which has no more than 25 full-time equivalent employees for the taxable year,
 
@@ -38,7 +38,7 @@ The term “eligible small employer” means, with respect to any taxable year, 
 
 #### (A) In general ####
 
-The term “full-time equivalent employees” means a number of employees equal to the number determined by dividing—
+The term "full-time equivalent employees" means a number of employees equal to the number determined by dividing—
 
 (i) the total number of hours of service for which wages were paid by the employer to employees during the taxable year, by
 
@@ -76,7 +76,7 @@ The dollar amount in effect under this paragraph for taxable years beginning in 
 
 #### (ii) Subsequent years ####
 
-In the case of a taxable year beginning in a calendar year after 2013, the dollar amount in effect under this paragraph shall be equal to $25,000, multiplied by the cost-of-living adjustment under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2012” for “calendar year 1992” in subparagraph (B) thereof.
+In the case of a taxable year beginning in a calendar year after 2013, the dollar amount in effect under this paragraph shall be equal to $25,000, multiplied by the cost-of-living adjustment under section 1(f)(3) for the calendar year, determined by substituting "calendar year 2012" for "calendar year 1992" in subparagraph (B) thereof.
 
 #### (4) Contribution arrangement ####
 
@@ -92,7 +92,7 @@ The number of hours of service worked by, and wages paid to, a seasonal worker o
 
 #### (B) Definition of seasonal worker ####
 
-The term “seasonal worker” means a worker who performs labor or services on a seasonal basis as defined by the Secretary of Labor, including workers covered by section 500.20(s)(1) of title 29, Code of Federal Regulations and retail workers employed exclusively during holiday seasons.
+The term "seasonal worker" means a worker who performs labor or services on a seasonal basis as defined by the Secretary of Labor, including workers covered by section 500.20(s)(1) of title 29, Code of Federal Regulations and retail workers employed exclusively during holiday seasons.
 
 #### (e) Other rules and definitions ####
 
@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### (A) Certain employees excluded ####
 
-The term “employee” shall not include—
+The term "employee" shall not include—
 
 (i) an employee within the meaning of section 401(c)(1),
 
@@ -114,19 +114,19 @@ The term “employee” shall not include—
 
 #### (B) Leased employees ####
 
-The term “employee” shall include a leased employee within the meaning of section 414(n).
+The term "employee" shall include a leased employee within the meaning of section 414(n).
 
 #### (2) Credit period ####
 
-The term “credit period” means, with respect to any eligible small employer, the 2-consecutive-taxable year period beginning with the 1st taxable year in which the employer (or any predecessor) offers 1 or more qualified health plans to its employees through an Exchange.
+The term "credit period" means, with respect to any eligible small employer, the 2-consecutive-taxable year period beginning with the 1st taxable year in which the employer (or any predecessor) offers 1 or more qualified health plans to its employees through an Exchange.
 
 #### (3) Nonelective contribution ####
 
-The term “nonelective contribution” means an employer contribution other than an employer contribution pursuant to a salary reduction arrangement.
+The term "nonelective contribution" means an employer contribution other than an employer contribution pursuant to a salary reduction arrangement.
 
 #### (4) Wages ####
 
-The term “wages” has the meaning given such term by section 3121(a) (determined without regard to any dollar limitation contained in such section).
+The term "wages" has the meaning given such term by section 3121(a) (determined without regard to any dollar limitation contained in such section).
 
 #### (5) Aggregation and other rules made applicable ####
 
@@ -150,7 +150,7 @@ In the case of a tax-exempt eligible small employer, there shall be treated as a
 
 #### (2) Tax-exempt eligible small employer ####
 
-For purposes of this section, the term “tax-exempt eligible small employer” means an eligible small employer which is any organization described in section 501(c) which is exempt from taxation under section 501(a).
+For purposes of this section, the term "tax-exempt eligible small employer" means an eligible small employer which is any organization described in section 501(c) which is exempt from taxation under section 501(a).
 
 #### (3) Payroll taxes ####
 
@@ -158,7 +158,7 @@ For purposes of this subsection—
 
 #### (A) In general ####
 
-The term “payroll taxes” means—
+The term "payroll taxes" means—
 
 (i) amounts required to be withheld from the employees of the tax-exempt eligible small employer under section 3401(a),
 
@@ -182,7 +182,7 @@ The credit shall be determined without regard to whether the taxable year is in 
 
 The amount of the credit determined under subsection (b) shall be determined—
 
-(A) by substituting “35 percent (25 percent in the case of a tax-exempt eligible small employer)” for “50 percent (35 percent in the case of a tax-exempt eligible small employer)”,
+(A) by substituting "35 percent (25 percent in the case of a tax-exempt eligible small employer)" for "50 percent (35 percent in the case of a tax-exempt eligible small employer)",
 
 (B) by reference to an eligible small employer's nonelective contributions for premiums paid for health insurance coverage (within the meaning of section 9832(b)(1)) of an employee, and
 
@@ -216,11 +216,11 @@ The Patient Protection and Affordable Care Act, referred to in subsec. (h), is P
 
 **2010**—Subsec. (d)(3)(B). Pub. L. 111–148, §10105(e)(1), amended subpar. (B) generally, including dollar amount for taxable years beginning in 2010 in addition to dollar amounts for taxable years beginning in 2011, 2012, and 2013, and subsequent years.
 
-Subsec. (g). Pub. L. 111–148, §10105(e)(2), substituted “2010, 2011” for “2011” in heading and in introductory provisions.
+Subsec. (g). Pub. L. 111–148, §10105(e)(2), substituted "2010, 2011" for "2011" in heading and in introductory provisions.
 
 #### Effective Date of 2010 Amendment ####
 
-Pub. L. 111–148, title X, §10105(e)(5), Mar. 23, 2010, 124 Stat. 907, provided that: “The amendments made by this subsection [amending this section, section 280C of this title, and provisions set out as a note under section 38 of this title] shall take effect as if included in the enactment of section 1421 of this Act.”
+Pub. L. 111–148, title X, §10105(e)(5), Mar. 23, 2010, 124 Stat. 907, provided that: "The amendments made by this subsection [amending this section, section 280C of this title, and provisions set out as a note under section 38 of this title] shall take effect as if included in the enactment of section 1421 of this Act."
 
 #### Effective Date ####
 

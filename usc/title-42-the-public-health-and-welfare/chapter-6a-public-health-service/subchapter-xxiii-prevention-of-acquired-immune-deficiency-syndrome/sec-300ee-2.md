@@ -2,7 +2,7 @@
 
 #### (a) Development and dissemination of guidelines ####
 
-Not later than 90 days after November 4, 1988, the Secretary of Health and Human Services (hereafter in this section referred to as the “Secretary”), acting through the Director of the Centers for Disease Control and Prevention, shall develop, issue, and disseminate emergency guidelines to all health workers and public safety workers (including emergency response employees) in the United States concerning—
+Not later than 90 days after November 4, 1988, the Secretary of Health and Human Services (hereafter in this section referred to as the "Secretary"), acting through the Director of the Centers for Disease Control and Prevention, shall develop, issue, and disseminate emergency guidelines to all health workers and public safety workers (including emergency response employees) in the United States concerning—
 
 (1) methods to reduce the risk in the workplace of becoming infected with the etiologic agent for acquired immune deficiency syndrome; and
 
@@ -44,9 +44,9 @@ Section was enacted as part of the AIDS Amendments of 1988 and as part of the He
 
 #### Amendments ####
 
-**1992**—Subsecs. (a), (c)(1), (4). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+**1992**—Subsecs. (a), (c)(1), (4). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 
-**1988**—Subsec. (a). Pub. L. 100–690 substituted “health workers and public safety workers” for “health workers, public safety workers”.
+**1988**—Subsec. (a). Pub. L. 100–690 substituted "health workers and public safety workers" for "health workers, public safety workers".
 
 #### Effective Date of 1988 Amendment ####
 
@@ -54,8 +54,8 @@ Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 
 
 #### Guidelines for Prevention of Transmission of Human Immunodeficiency and Hepatitis B Viruses During Invasive Procedures ####
 
-Pub. L. 102–141, title VI, §633, Oct. 28, 1991, 105 Stat. 876, provided that: “Notwithstanding any other provision of law, each State Public Health Official shall, not later than one year after the date of enactment of this Act [Oct. 28, 1991], certify to the Secretary of Health and Human Services that guidelines issued by the Centers for Disease Control, or guidelines which are equivalent to those promulgated by the Centers for Disease Control concerning recommendations for preventing the transmission of the human immunodeficiency virus and the hepatitis B virus during exposure prone invasive procedures, except for emergency situations when the patient's life or limb is in danger, have been instituted in the State. State guidelines shall apply to health professionals practicing within the State and shall be consistent with Federal law. Compliance with such guidelines shall be the responsibility of the State Public Health Official. Said responsibilities shall include a process for determining what appropriate disciplinary or other actions shall be taken to ensure compliance. If such certification is not provided under this section within the one-year period, the State shall be ineligible to receive assistance under the Public Health Service Act (42 U.S.C. 301 [201] et seq.) until such certification is provided, except that the Secretary may extend the time period for a State, upon application of such State, that additional time is required for instituting said guidelines.”
+Pub. L. 102–141, title VI, §633, Oct. 28, 1991, 105 Stat. 876, provided that: "Notwithstanding any other provision of law, each State Public Health Official shall, not later than one year after the date of enactment of this Act [Oct. 28, 1991], certify to the Secretary of Health and Human Services that guidelines issued by the Centers for Disease Control, or guidelines which are equivalent to those promulgated by the Centers for Disease Control concerning recommendations for preventing the transmission of the human immunodeficiency virus and the hepatitis B virus during exposure prone invasive procedures, except for emergency situations when the patient's life or limb is in danger, have been instituted in the State. State guidelines shall apply to health professionals practicing within the State and shall be consistent with Federal law. Compliance with such guidelines shall be the responsibility of the State Public Health Official. Said responsibilities shall include a process for determining what appropriate disciplinary or other actions shall be taken to ensure compliance. If such certification is not provided under this section within the one-year period, the State shall be ineligible to receive assistance under the Public Health Service Act (42 U.S.C. 301 [201] et seq.) until such certification is provided, except that the Secretary may extend the time period for a State, upon application of such State, that additional time is required for instituting said guidelines."
 
 [Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.]
 
-[<sup>1</sup> So in original. Probably should be “respect to”.](#300ee-2_1)
+[<sup>1</sup> So in original. Probably should be "respect to".](#300ee-2_1)

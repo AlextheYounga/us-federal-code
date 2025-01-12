@@ -24,7 +24,7 @@ For purposes of paragraph (2), with respect to any clean renewable energy bond, 
 
 #### (4) Credit allowance date ####
 
-For purposes of this section, the term “credit allowance date” means—
+For purposes of this section, the term "credit allowance date" means—
 
 (A) March 15,
 
@@ -54,7 +54,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “clean renewable energy bond” means any bond issued as part of an issue if—
+The term "clean renewable energy bond" means any bond issued as part of an issue if—
 
 (A) the bond is issued by a qualified issuer pursuant to an allocation by the Secretary to such issuer of a portion of the national clean renewable energy bond limitation under subsection (f)(2),
 
@@ -68,7 +68,7 @@ The term “clean renewable energy bond” means any bond issued as part of an i
 
 #### (A) In general ####
 
-The term “qualified project” means any qualified facility (as determined under section 45(d) without regard to paragraph (10) and to any placed in service date) owned by a qualified borrower.
+The term "qualified project" means any qualified facility (as determined under section 45(d) without regard to paragraph (10) and to any placed in service date) owned by a qualified borrower.
 
 #### (B) Refinancing rules ####
 
@@ -142,19 +142,19 @@ For purposes of this section—
 
 #### (1) Cooperative electric company ####
 
-The term “cooperative electric company” means a mutual or cooperative electric company described in section 501(c)(12) or section 1381(a)(2)(C), or a not-for-profit electric utility which has received a loan or loan guarantee under the Rural Electrification Act.
+The term "cooperative electric company" means a mutual or cooperative electric company described in section 501(c)(12) or section 1381(a)(2)(C), or a not-for-profit electric utility which has received a loan or loan guarantee under the Rural Electrification Act.
 
 #### (2) Clean renewable energy bond lender ####
 
-The term “clean renewable energy bond lender” means a lender which is a cooperative which is owned by, or has outstanding loans to, 100 or more cooperative electric companies and is in existence on February 1, 2002, and shall include any affiliated entity which is controlled by such lender.
+The term "clean renewable energy bond lender" means a lender which is a cooperative which is owned by, or has outstanding loans to, 100 or more cooperative electric companies and is in existence on February 1, 2002, and shall include any affiliated entity which is controlled by such lender.
 
 #### (3) Governmental body ####
 
-The term “governmental body” means any State, territory, possession of the United States, the District of Columbia, Indian tribal government, and any political subdivision thereof.
+The term "governmental body" means any State, territory, possession of the United States, the District of Columbia, Indian tribal government, and any political subdivision thereof.
 
 #### (4) Qualified issuer ####
 
-The term “qualified issuer” means—
+The term "qualified issuer" means—
 
 (A) a clean renewable energy bond lender,
 
@@ -164,7 +164,7 @@ The term “qualified issuer” means—
 
 #### (5) Qualified borrower ####
 
-The term “qualified borrower” means—
+The term "qualified borrower" means—
 
 (A) a mutual or cooperative electric company described in section 501(c)(12) or 1381(a)(2)(C), or
 
@@ -180,11 +180,11 @@ For purposes of this section—
 
 #### (1) Bond ####
 
-The term “bond” includes any obligation.
+The term "bond" includes any obligation.
 
 #### (2) Pooled financing bond ####
 
-The term “pooled financing bond” shall have the meaning given such term by section 149(f)(6)(A).
+The term "pooled financing bond" shall have the meaning given such term by section 149(f)(6)(A).
 
 #### (3) Partnership; S corporation; and other pass-thru entities ####
 
@@ -222,41 +222,41 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments ####
 
-**2009**—Subsec. (c)(2). Pub. L. 111–5, §1531(c)(3), substituted “, I, and J” for “and I”.
+**2009**—Subsec. (c)(2). Pub. L. 111–5, §1531(c)(3), substituted ", I, and J" for "and I".
 
-Subsec. (l)(4) to (6). Pub. L. 111–5, §1541(b)(1), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4). Prior to amendment, text read as follows: “If any clean renewable energy bond is held by a regulated investment company, the credit determined under subsection (a) shall be allowed to shareholders of such company under procedures prescribed by the Secretary.”
+Subsec. (l)(4) to (6). Pub. L. 111–5, §1541(b)(1), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4). Prior to amendment, text read as follows: "If any clean renewable energy bond is held by a regulated investment company, the credit determined under subsection (a) shall be allowed to shareholders of such company under procedures prescribed by the Secretary."
 
-**2008**—Subsec. (c)(2). Pub. L. 110–246, §15316(c)(1), substituted “subparts C and I” for “subpart C”.
+**2008**—Subsec. (c)(2). Pub. L. 110–246, §15316(c)(1), substituted "subparts C and I" for "subpart C".
 
-Subsec. (m). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2008”.
+Subsec. (m). Pub. L. 110–343 substituted "December 31, 2009" for "December 31, 2008".
 
-**2006**—Subsec. (f)(1). Pub. L. 109–432, §202(a)(1), substituted “$1,200,000,000” for “$800,000,000”.
+**2006**—Subsec. (f)(1). Pub. L. 109–432, §202(a)(1), substituted "$1,200,000,000" for "$800,000,000".
 
-Subsec. (f)(2). Pub. L. 109–432, §202(a)(2), substituted “$750,000,000” for “$500,000,000”.
+Subsec. (f)(2). Pub. L. 109–432, §202(a)(2), substituted "$750,000,000" for "$500,000,000".
 
-Subsec. (l)(2). Pub. L. 109–222 substituted “section 149(f)(6)(A)” for “section 149(f)(4)(A)”.
+Subsec. (l)(2). Pub. L. 109–222 substituted "section 149(f)(6)(A)" for "section 149(f)(4)(A)".
 
-Subsec. (l)(3)(B). Pub. L. 109–432, §107(b)(2), substituted “1397E(l)” for “1397E(i)”.
+Subsec. (l)(3)(B). Pub. L. 109–432, §107(b)(2), substituted "1397E(l)" for "1397E(i)".
 
-Subsec. (m). Pub. L. 109–432, §202(a)(3), substituted “2008” for “2007”.
+Subsec. (m). Pub. L. 109–432, §202(a)(3), substituted "2008" for "2007".
 
-**2005**—Subsec. (c)(2). Pub. L. 109–135, §101(b)(1), inserted “, section 1400N(l),” after “subpart C”.
+**2005**—Subsec. (c)(2). Pub. L. 109–135, §101(b)(1), inserted ", section 1400N(l)," after "subpart C".
 
-Subsec. (l)(5) to (7). Pub. L. 109–135, §402(c)(1), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out heading and text of former par. (5). Text read as follows: “Solely for purposes of sections 6654 and 6655, the credit allowed by this section (determined without regard to subsection (c)) to a taxpayer by reason of holding a clean renewable energy bond on a credit allowance date shall be treated as if it were a payment of estimated tax made by the taxpayer on such date.”
+Subsec. (l)(5) to (7). Pub. L. 109–135, §402(c)(1), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out heading and text of former par. (5). Text read as follows: "Solely for purposes of sections 6654 and 6655, the credit allowed by this section (determined without regard to subsection (c)) to a taxpayer by reason of holding a clean renewable energy bond on a credit allowance date shall be treated as if it were a payment of estimated tax made by the taxpayer on such date."
 
 #### Effective Date of 2009 Amendment ####
 
-Pub. L. 111–5, div. B, title I, §1531(e), Feb. 17, 2009, 123 Stat. 360, provided that: “The amendments made by this section [enacting subpart J of this part and section 6431 of this title and amending this section, sections 54A, 1397E, 1400N, 6211, and 6401 of this title, and section 1324 of Title 31, Money and Finance] shall apply to obligations issued after the date of the enactment of this Act [Feb. 17, 2009].”
+Pub. L. 111–5, div. B, title I, §1531(e), Feb. 17, 2009, 123 Stat. 360, provided that: "The amendments made by this section [enacting subpart J of this part and section 6431 of this title and amending this section, sections 54A, 1397E, 1400N, 6211, and 6401 of this title, and section 1324 of Title 31, Money and Finance] shall apply to obligations issued after the date of the enactment of this Act [Feb. 17, 2009]."
 
-Pub. L. 111–5, div. B, title I, §1541(c), Feb. 17, 2009, 123 Stat. 362, provided that: “The amendments made by this section [enacting section 853A of this title and amending this section and section 54A of this title] shall apply to taxable years ending after the date of the enactment of this Act [Feb. 17, 2009].”
+Pub. L. 111–5, div. B, title I, §1541(c), Feb. 17, 2009, 123 Stat. 362, provided that: "The amendments made by this section [enacting section 853A of this title and amending this section and section 54A of this title] shall apply to taxable years ending after the date of the enactment of this Act [Feb. 17, 2009]."
 
 #### Effective Date of 2008 Amendment ####
 
-Pub. L. 110–343, div. B, title I, §107(d), Oct. 3, 2008, 122 Stat. 3819, provided that: “The amendments made by this section [enacting section 54C of this title and amending this section and section 54A of this title] shall apply to obligations issued after the date of the enactment of this Act [Oct. 3, 2008].”
+Pub. L. 110–343, div. B, title I, §107(d), Oct. 3, 2008, 122 Stat. 3819, provided that: "The amendments made by this section [enacting section 54C of this title and amending this section and section 54A of this title] shall apply to obligations issued after the date of the enactment of this Act [Oct. 3, 2008]."
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title XV, §15316(d), May 22, 2008, 122 Stat. 1512, and Pub. L. 110–246, §4(a), title XV, §15316(d), June 18, 2008, 122 Stat. 1664, 2274, provided that: “The amendments made by this section [enacting subpart I (§54A et seq.) of part IV of subchapter A of this chapter and amending this section, sections 1397E, 1400N, 6049, and 6401 of this title, and section 1324 of Title 31, Money and Finance] shall apply to obligations issued after the date of the enactment of this Act [June 18, 2008].”
+Pub. L. 110–234, title XV, §15316(d), May 22, 2008, 122 Stat. 1512, and Pub. L. 110–246, §4(a), title XV, §15316(d), June 18, 2008, 122 Stat. 1664, 2274, provided that: "The amendments made by this section [enacting subpart I (§54A et seq.) of part IV of subchapter A of this chapter and amending this section, sections 1397E, 1400N, 6049, and 6401 of this title, and section 1324 of Title 31, Money and Finance] shall apply to obligations issued after the date of the enactment of this Act [June 18, 2008]."
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
@@ -266,11 +266,11 @@ Amendment by section 107(b)(2) of Pub. L. 109–432 applicable to obligations is
 
 Pub. L. 109–432, div. A, title II, §202(b), Dec. 20, 2006, 120 Stat. 2945, provided that:
 
-“(1) In general.—The amendments made by paragraphs (1) and (3) of subsection (a) [amending this section] shall apply to bonds issued after December 31, 2006.
+"(1) In general.—The amendments made by paragraphs (1) and (3) of subsection (a) [amending this section] shall apply to bonds issued after December 31, 2006.
 
-“(2) Allocations.—The amendment made by subsection (a)(2) [amending this section] shall apply to allocations or reallocations after December 31, 2006.”
+"(2) Allocations.—The amendment made by subsection (a)(2) [amending this section] shall apply to allocations or reallocations after December 31, 2006."
 
-Pub. L. 109–222, title V, §508(e), May 17, 2006, 120 Stat. 362, provided that: “The amendments made by this section [amending this section and sections 148 and 149 of this title] shall apply to bonds issued after the date of the enactment of this Act [May 17, 2006].”
+Pub. L. 109–222, title V, §508(e), May 17, 2006, 120 Stat. 362, provided that: "The amendments made by this section [amending this section and sections 148 and 149 of this title] shall apply to bonds issued after the date of the enactment of this Act [May 17, 2006]."
 
 #### Effective Date of 2005 Amendments ####
 
@@ -282,10 +282,10 @@ Amendment by section 402(c) of Pub. L. 109–135 effective as if included in the
 
 Pub. L. 109–58, title XIII, §1303(e), Aug. 8, 2005, 119 Stat. 997, as amended by Pub. L. 109–135, title IV, §402(c)(2), Dec. 21, 2005, 119 Stat. 2610, provided that:
 
-“(1) In general.—Except as provided in paragraph (2), the amendments made by this section [enacting this section and amending sections 1397E, 6049, and 6401 of this title] shall apply to bonds issued after December 31, 2005.
+"(1) In general.—Except as provided in paragraph (2), the amendments made by this section [enacting this section and amending sections 1397E, 6049, and 6401 of this title] shall apply to bonds issued after December 31, 2005.
 
-“(2) Subsection (c).—The amendments made by subsection (c) [amending sections 1397E and 6401 of this title] shall apply to taxable years beginning after December 31, 2005.”
+"(2) Subsection (c).—The amendments made by subsection (c) [amending sections 1397E and 6401 of this title] shall apply to taxable years beginning after December 31, 2005."
 
 #### Regulations ####
 
-Pub. L. 109–58, title XIII, §1303(d), Aug. 8, 2005, 119 Stat. 997, provided that: “The Secretary of the Treasury shall issue regulations required under section 54 of the Internal Revenue Code of 1986 (as added by this section) not later than 120 days after the date of the enactment of this Act [Aug. 8, 2005].”
+Pub. L. 109–58, title XIII, §1303(d), Aug. 8, 2005, 119 Stat. 997, provided that: "The Secretary of the Treasury shall issue regulations required under section 54 of the Internal Revenue Code of 1986 (as added by this section) not later than 120 days after the date of the enactment of this Act [Aug. 8, 2005]."

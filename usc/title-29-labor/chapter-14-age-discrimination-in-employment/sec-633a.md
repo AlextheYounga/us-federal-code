@@ -22,7 +22,7 @@ Any person aggrieved may bring a civil action in any Federal district court of c
 
 #### (d) Notice to Commission; time of notice; Commission notification of prospective defendants; Commission elimination of unlawful practices ####
 
-When the individual has not filed a complaint concerning age discrimination with the Commission, no civil action may be commenced by any individual under this section until the individual has given the Commission not less than thirty days’ notice of an intent to file such action. Such notice shall be filed within one hundred and eighty days after the alleged unlawful practice occurred. Upon receiving a notice of intent to sue, the Commission shall promptly notify all persons named therein as prospective defendants in the action and take any appropriate action to assure the elimination of any unlawful practice.
+When the individual has not filed a complaint concerning age discrimination with the Commission, no civil action may be commenced by any individual under this section until the individual has given the Commission not less than thirty days' notice of an intent to file such action. Such notice shall be filed within one hundred and eighty days after the alleged unlawful practice occurred. Upon receiving a notice of intent to sue, the Commission shall promptly notify all persons named therein as prospective defendants in the action and take any appropriate action to assure the elimination of any unlawful practice.
 
 #### (e) Duty of Government agency or official ####
 
@@ -46,17 +46,17 @@ The amendments made to this section by the Age Discrimination in Employment Act 
 
 #### Amendments ####
 
-**2009**—Subsec. (f). Pub. L. 111–2 substituted “of sections 626(d)(3) and” for “of section”.
+**2009**—Subsec. (f). Pub. L. 111–2 substituted "of sections 626(d)(3) and" for "of section".
 
-**2006**—Subsec. (a). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+**2006**—Subsec. (a). Pub. L. 109–435 substituted "Postal Regulatory Commission" for "Postal Rate Commission".
 
-**2004**—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+**2004**—Subsec. (a). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-**1998**—Subsec. (a). Pub. L. 105–220 inserted “in the Smithsonian Institution,” before “and in the Government Printing Office”.
+**1998**—Subsec. (a). Pub. L. 105–220 inserted "in the Smithsonian Institution," before "and in the Government Printing Office".
 
-**1995**—Subsec. (a). Pub. L. 104–1 substituted “units of the judicial branch” for “units of the legislative and judicial branches” and inserted “Government Printing Office, the General Accounting Office, and the” before “Library of Congress”.
+**1995**—Subsec. (a). Pub. L. 104–1 substituted "units of the judicial branch" for "units of the legislative and judicial branches" and inserted "Government Printing Office, the General Accounting Office, and the" before "Library of Congress".
 
-**1978**—Subsec. (a). Pub. L. 95–256, §5(a), inserted age requirement of at least 40 years of age, and “personnel actions” after “except”.
+**1978**—Subsec. (a). Pub. L. 95–256, §5(a), inserted age requirement of at least 40 years of age, and "personnel actions" after "except".
 
 Subsecs. (f), (g). Pub. L. 95–256, §5(e), added subsecs. (f) and (g).
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 111–2 effective as if enacted May 28, 2007, and applicabl
 
 #### Effective Date of 1998 Amendment ####
 
-Pub. L. 105–220, title III, §341(d), Aug. 7, 1998, 112 Stat. 1092, provided that: “The amendments made by subsections (a), (b), and (c) [amending this section, section 791 of this title, and section 2000e–16 of Title 42, The Public Health and Welfare] shall take effect on the date of enactment of this Act [Aug. 7, 1998] and shall apply to and may be raised in any administrative or judicial claim or action brought before such date of enactment but pending on such date, and any administrative or judicial claim or action brought after such date regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations.”
+Pub. L. 105–220, title III, §341(d), Aug. 7, 1998, 112 Stat. 1092, provided that: "The amendments made by subsections (a), (b), and (c) [amending this section, section 791 of this title, and section 2000e–16 of Title 42, The Public Health and Welfare] shall take effect on the date of enactment of this Act [Aug. 7, 1998] and shall apply to and may be raised in any administrative or judicial claim or action brought before such date of enactment but pending on such date, and any administrative or judicial claim or action brought after such date regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations."
 
 #### Effective Date of 1995 Amendment ####
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 104–1 effective 1 year after Jan. 23, 1995, see section 1
 
 #### Effective Date of 1978 Amendment ####
 
-Pub. L. 95–256, §5(f), Apr. 6, 1978, 92 Stat. 192, provided that: “The amendments made by this section [amending this section and sections 8335 and 8339 of Title 5, Government Organization and Employees, and repealing section 3322 of Title 5] shall take effect on September 30, 1978, except that section 15(g) of the Age Discrimination in Employment Act of 1967, as amended by subsection (e) of this section [subsec. (g) of this section], shall take effect on the date of enactment of this Act [Apr. 6, 1978].”
+Pub. L. 95–256, §5(f), Apr. 6, 1978, 92 Stat. 192, provided that: "The amendments made by this section [amending this section and sections 8335 and 8339 of Title 5, Government Organization and Employees, and repealing section 3322 of Title 5] shall take effect on September 30, 1978, except that section 15(g) of the Age Discrimination in Employment Act of 1967, as amended by subsection (e) of this section [subsec. (g) of this section], shall take effect on the date of enactment of this Act [Apr. 6, 1978]."
 
 #### Effective Date ####
 
@@ -82,4 +82,4 @@ Section effective May 1, 1974, see section 29(a) of Pub. L. 93–259, set out as
 
 #### Transfer of Functions ####
 
-“Equal Employment Opportunity Commission” substituted for “Civil Service Commission” in subsecs. (b) and (g) pursuant to Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Civil Service Commission to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.
+"Equal Employment Opportunity Commission" substituted for "Civil Service Commission" in subsecs. (b) and (g) pursuant to Reorg. Plan No. 1 of 1978, §2, 43 F.R. 19807, 92 Stat. 3781, set out in the Appendix to Title 5, Government Organization and Employees, which transferred all functions vested by this section in Civil Service Commission to Equal Employment Opportunity Commission, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053.

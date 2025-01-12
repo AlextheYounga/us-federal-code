@@ -33,15 +33,15 @@ Chap. Sec.
 
 #### Amendments ####
 
-**2010**—Pub. L. 111–295, §4(b)(1)(B), Dec. 9, 2010, 124 Stat. 3180, substituted “Importation and Exportation” for “Manufacturing Requirements, Importation, and Exportation” in item relating to chapter 6.
+**2010**—Pub. L. 111–295, §4(b)(1)(B), Dec. 9, 2010, 124 Stat. 3180, substituted "Importation and Exportation" for "Manufacturing Requirements, Importation, and Exportation" in item relating to chapter 6.
 
-**2008**—Pub. L. 110–403, title I, §105(c)(3), Oct. 13, 2008, 122 Stat. 4260, substituted “Manufacturing Requirements, Importation, and Exportation” for “Manufacturing Requirements and Importation” in item relating to chapter 6.
+**2008**—Pub. L. 110–403, title I, §105(c)(3), Oct. 13, 2008, 122 Stat. 4260, substituted "Manufacturing Requirements, Importation, and Exportation" for "Manufacturing Requirements and Importation" in item relating to chapter 6.
 
-**2004**—Pub. L. 108–419, §3(b), Nov. 30, 2004, 118 Stat. 2361, substituted “Proceedings by Copyright Royalty Judges” for “Copyright Arbitration Royalty Panels” in item relating to chapter 8.
+**2004**—Pub. L. 108–419, §3(b), Nov. 30, 2004, 118 Stat. 2361, substituted "Proceedings by Copyright Royalty Judges" for "Copyright Arbitration Royalty Panels" in item relating to chapter 8.
 
 **1998**—Pub. L. 105–304, title I, §103(b), title V, §503(a), Oct. 28, 1998, 112 Stat. 2876, 2916, added items relating to chapters 12 and 13.
 
-**1997**—Pub. L. 105–80, §12(a)(1), Nov. 13, 1997, 111 Stat. 1534, substituted “Requirements” for “Requirement” in item relating to chapter 6, “Arbitration Royalty Panels” for “Royalty Tribunal” in item relating to chapter 8, and “Semiconductor Chip Products” for “semiconductor chip products” in item relating to chapter 9, and added item relating to chapter 10.
+**1997**—Pub. L. 105–80, §12(a)(1), Nov. 13, 1997, 111 Stat. 1534, substituted "Requirements" for "Requirement" in item relating to chapter 6, "Arbitration Royalty Panels" for "Royalty Tribunal" in item relating to chapter 8, and "Semiconductor Chip Products" for "semiconductor chip products" in item relating to chapter 9, and added item relating to chapter 10.
 
 **1994**—Pub. L. 103–465, title V, §512(b), Dec. 8, 1994, 108 Stat. 4974, added item relating to chapter 11.
 
@@ -188,16 +188,16 @@ Title 17, as enacted by act July 30, 1947, ch. 391, 61 Stat. 652, consisting of 
 
 #### Effective Date ####
 
-Pub. L. 94–553, title I, §102, Oct. 19, 1976, 90 Stat. 2598, provided that: “This Act [enacting this title and section 170 of Title 2, The Congress, amending section 131 of Title 2, section 290e of Title 15, Commerce and Trade, section 2318 of Title 18, Crimes and Criminal Procedure, section 543 of Title 26, Internal Revenue Code, section 1498 of Title 28, Judiciary and Judicial Procedure, sections 3203 and 3206 of Title 39, Postal Service, and sections 505 and 2117 of Title 44, Public Printing and Documents, and enacting provisions set out as notes below and under sections 104, 115, 304, 401, 407, 410, and 501 of this title] becomes effective on January 1, 1978, except as otherwise expressly provided by this Act, including provisions of the first section of this Act. The provisions of sections 118, 304(b), and chapter 8 of title 17, as amended by the first section of this Act, take effect upon enactment of this Act [Oct. 19, 1976].”
+Pub. L. 94–553, title I, §102, Oct. 19, 1976, 90 Stat. 2598, provided that: "This Act [enacting this title and section 170 of Title 2, The Congress, amending section 131 of Title 2, section 290e of Title 15, Commerce and Trade, section 2318 of Title 18, Crimes and Criminal Procedure, section 543 of Title 26, Internal Revenue Code, section 1498 of Title 28, Judiciary and Judicial Procedure, sections 3203 and 3206 of Title 39, Postal Service, and sections 505 and 2117 of Title 44, Public Printing and Documents, and enacting provisions set out as notes below and under sections 104, 115, 304, 401, 407, 410, and 501 of this title] becomes effective on January 1, 1978, except as otherwise expressly provided by this Act, including provisions of the first section of this Act. The provisions of sections 118, 304(b), and chapter 8 of title 17, as amended by the first section of this Act, take effect upon enactment of this Act [Oct. 19, 1976]."
 
 #### Separability ####
 
-Pub. L. 94–553, title I, §115, Oct. 19, 1976, 90 Stat. 2602, provided that: “If any provision of title 17 [this title], as amended by the first section of this Act, is declared unconstitutional, the validity of the remainder of this title is not affected.”
+Pub. L. 94–553, title I, §115, Oct. 19, 1976, 90 Stat. 2602, provided that: "If any provision of title 17 [this title], as amended by the first section of this Act, is declared unconstitutional, the validity of the remainder of this title is not affected."
 
 #### Authorization of Appropriations ####
 
-Pub. L. 94–553, title I, §114, Oct. 19, 1976, 90 Stat. 2602, provided that: “There are hereby authorized to be appropriated such funds as may be necessary to carry out the purposes of this Act [this title].”
+Pub. L. 94–553, title I, §114, Oct. 19, 1976, 90 Stat. 2602, provided that: "There are hereby authorized to be appropriated such funds as may be necessary to carry out the purposes of this Act [this title]."
 
 #### Lost and Expired Copyrights; Recording Rights ####
 
-Pub. L. 94–553, title I, §103, Oct. 19, 1976, 90 Stat. 2599, provided that: “This Act [enacting this title] does not provide copyright protection for any work that goes into the public domain before January 1, 1978. The exclusive rights, as provided by section 106 of title 17 as amended by the first section of this Act, to reproduce a work in phonorecords and to distribute phonorecords of the work, do not extend to any nondramatic musical work copyrighted before July 1, 1909.”
+Pub. L. 94–553, title I, §103, Oct. 19, 1976, 90 Stat. 2599, provided that: "This Act [enacting this title] does not provide copyright protection for any work that goes into the public domain before January 1, 1978. The exclusive rights, as provided by section 106 of title 17 as amended by the first section of this Act, to reproduce a work in phonorecords and to distribute phonorecords of the work, do not extend to any nondramatic musical work copyrighted before July 1, 1909."

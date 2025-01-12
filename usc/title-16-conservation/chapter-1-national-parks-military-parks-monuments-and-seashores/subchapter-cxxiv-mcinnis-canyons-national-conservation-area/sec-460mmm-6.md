@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-Not later than 6 months after October 24, 2000, the Secretary shall establish an advisory council to be known as the “McInnis Canyons National Conservation Area Advisory Council”.
+Not later than 6 months after October 24, 2000, the Secretary shall establish an advisory council to be known as the "McInnis Canyons National Conservation Area Advisory Council".
 
 #### (b) Duty ####
 
@@ -42,7 +42,7 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(2
 
 #### Amendments ####
 
-**2004**—Subsec. (a). Pub. L. 108–400 substituted “McInnis Canyons” for “Colorado Canyons”.
+**2004**—Subsec. (a). Pub. L. 108–400 substituted "McInnis Canyons" for "Colorado Canyons".
 
 #### Effective Date of 2004 Amendment ####
 

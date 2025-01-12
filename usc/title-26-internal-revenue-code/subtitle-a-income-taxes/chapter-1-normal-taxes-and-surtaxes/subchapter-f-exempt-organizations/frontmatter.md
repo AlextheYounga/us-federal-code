@@ -8,9 +8,9 @@ II. Private foundations.
 
 III. Taxation of business income of certain exempt organizations.
 
-IV. Farmers’ cooperatives.
+IV. Farmers' cooperatives.
 
-V. Shipowners’ protection and indemnity associations.
+V. Shipowners' protection and indemnity associations.
 
 VI. Political organizations.
 
@@ -20,7 +20,7 @@ VIII. Higher education savings entities.
 
 #### Amendments ####
 
-**1997**—Pub. L. 105–34, title II, §211(e)(1)(B), Aug. 5, 1997, 111 Stat. 812, substituted “Higher education savings entities” for “Qualified State tuition programs” in part VIII heading.
+**1997**—Pub. L. 105–34, title II, §211(e)(1)(B), Aug. 5, 1997, 111 Stat. 812, substituted "Higher education savings entities" for "Qualified State tuition programs" in part VIII heading.
 
 **1996**—Pub. L. 104–188, title I, §1806(b)(2), Aug. 20, 1996, 110 Stat. 1898, added part VIII heading.
 

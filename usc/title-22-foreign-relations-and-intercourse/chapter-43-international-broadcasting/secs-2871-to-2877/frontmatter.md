@@ -20,4 +20,4 @@ Repeal effective Aug. 11, 1995, see section 6209(e) of this title.
 
 #### Short Title ####
 
-Pub. L. 93–129, §1, Oct. 19, 1973, 87 Stat. 456, provided that Pub. L. 93–129 (enacting this chapter) could be cited as the “Board for International Broadcasting Act of 1973”, prior to repeal by Pub. L. 103–236, title III, §310(e), Apr. 30, 1994, 108 Stat. 442.
+Pub. L. 93–129, §1, Oct. 19, 1973, 87 Stat. 456, provided that Pub. L. 93–129 (enacting this chapter) could be cited as the "Board for International Broadcasting Act of 1973", prior to repeal by Pub. L. 103–236, title III, §310(e), Apr. 30, 1994, 108 Stat. 442.

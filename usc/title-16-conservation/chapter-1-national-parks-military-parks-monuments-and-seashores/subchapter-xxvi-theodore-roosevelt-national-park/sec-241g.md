@@ -1,6 +1,6 @@
 ### §241g. Change in name of Theodore Roosevelt National Memorial Park ###
 
-The area formerly known as the “Theodore Roosevelt National Memorial Park”, established by this subchapter shall henceforth be known as the “Theodore Roosevelt National Park.”
+The area formerly known as the "Theodore Roosevelt National Memorial Park", established by this subchapter shall henceforth be known as the "Theodore Roosevelt National Park."
 
 (Pub. L. 95–625, title VI, §610, Nov. 10, 1978, 92 Stat. 3521.)
 

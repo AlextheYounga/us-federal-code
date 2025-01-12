@@ -66,7 +66,7 @@ Sec.
 
 51b–1. Consideration of preferred stock in determining impairment of capital; dividends; retirement.
 
-51c. “Common stock”, “capital”, and “capital stock” defined.
+51c. "Common stock", "capital", and "capital stock" defined.
 
 51d to 51f. Repealed.
 
@@ -88,7 +88,7 @@ Sec.
 
 60. National bank dividends.
 
-61. Shareholders’ voting rights; cumulative and distributive voting; preferred stock; trust shares; proxies, liability restrictions; percentage requirement exclusion of trust shares.
+61. Shareholders' voting rights; cumulative and distributive voting; preferred stock; trust shares; proxies, liability restrictions; percentage requirement exclusion of trust shares.
 
 62. List of shareholders.
 
@@ -152,7 +152,7 @@ Sec.
 
 94a. Repealed.
 
-95. Emergency limitations and restrictions on business of members of Federal reserve system; designation of legal holiday for national banking associations; exceptions; “State” defined.
+95. Emergency limitations and restrictions on business of members of Federal reserve system; designation of legal holiday for national banking associations; exceptions; "State" defined.
 
 95a. Regulation of transactions in foreign exchange of gold and silver; property transfers; vested interests, enforcement and penalties.
 
@@ -230,7 +230,7 @@ Sec.
 
 196. Expenses.
 
-197. Shareholders’ meeting; continuance of receivership; appointment of agent; winding up business; distribution of assets.
+197. Shareholders' meeting; continuance of receivership; appointment of agent; winding up business; distribution of assets.
 
 197a. Resumption of business by closed bank on consent of depositors.
 

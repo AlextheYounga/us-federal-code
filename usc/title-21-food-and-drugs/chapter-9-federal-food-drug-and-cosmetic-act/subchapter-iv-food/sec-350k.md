@@ -96,4 +96,4 @@ Nothing in this section shall be construed to limit the ability of the Secretary
 
 Nothing in this section to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
 
-[<sup>1</sup> So in original. Probably should be “subsection”.](#350k_1)
+[<sup>1</sup> So in original. Probably should be "subsection".](#350k_1)

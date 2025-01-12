@@ -24,4 +24,4 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 
 #### Cooperative Agreements for Curation and Research ####
 
-Pub. L. 108–413, §4, Oct. 30, 2004, 118 Stat. 2325, provided that: “The Secretary [of the Interior] may enter into cooperative agreements with the University of New Mexico, Federal agencies, and Indian tribes for the curation of and conduct of research on artifacts, and to encourage collaborative management of the Chacoan archaeological artifacts associated with northwestern New Mexico.”
+Pub. L. 108–413, §4, Oct. 30, 2004, 118 Stat. 2325, provided that: "The Secretary [of the Interior] may enter into cooperative agreements with the University of New Mexico, Federal agencies, and Indian tribes for the curation of and conduct of research on artifacts, and to encourage collaborative management of the Chacoan archaeological artifacts associated with northwestern New Mexico."

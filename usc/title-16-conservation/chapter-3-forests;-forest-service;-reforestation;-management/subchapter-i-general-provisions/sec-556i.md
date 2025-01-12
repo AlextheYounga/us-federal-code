@@ -6,7 +6,7 @@ None of the funds made available to the Forest Service in this Act or any other 
 
 #### References in Text ####
 
-Section 8316(b) of title 7, referred to in text, was in the original “section 10417(b) of Public Law 107–107 (7 U.S.C. 8316(b))” which was translated as meaning section 10417(b) of Pub. L. 107–171 to reflect the probable intent of Congress.
+Section 8316(b) of title 7, referred to in text, was in the original "section 10417(b) of Public Law 107–107 (7 U.S.C. 8316(b))" which was translated as meaning section 10417(b) of Pub. L. 107–171 to reflect the probable intent of Congress.
 
 #### Similar Provisions ####
 

@@ -26,4 +26,4 @@ The purpose of this subchapter is to preserve and protect the tropical forest an
 
 (Pub. L. 100–571, §1, Oct. 31, 1988, 102 Stat. 2879.)
 
-[<sup>1</sup> So in original. Probably should be “atmosphere”.](#410qq_1)
+[<sup>1</sup> So in original. Probably should be "atmosphere".](#410qq_1)

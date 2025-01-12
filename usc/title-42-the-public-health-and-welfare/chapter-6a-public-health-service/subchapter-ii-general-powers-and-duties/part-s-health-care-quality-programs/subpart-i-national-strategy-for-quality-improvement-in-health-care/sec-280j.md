@@ -110,7 +110,7 @@ Not later than January 1, 2011, the Secretary shall create an Internet website t
 
 #### References in Text ####
 
-Section 285t of this title, referred to in subsec. (a)(2)(B)(viii), was in the original “section 485E”, meaning section 485E of act July 1, 1944, ch. 373, as added by section 101(a) of Pub. L. 106–525, which was classified to section 287c–31 of this title. Section 485E of act July 1, 1944, was renumbered section 464z–3 by Pub. L. 111–148, title X, §10334(c)(1)(D)(i), Mar. 23, 2010, 124 Stat. 973, and transferred to section 285t of this title. The act July 1, 1944, no longer contains a section 485E.
+Section 285t of this title, referred to in subsec. (a)(2)(B)(viii), was in the original "section 485E", meaning section 485E of act July 1, 1944, ch. 373, as added by section 101(a) of Pub. L. 106–525, which was classified to section 287c–31 of this title. Section 485E of act July 1, 1944, was renumbered section 464z–3 by Pub. L. 111–148, title X, §10334(c)(1)(D)(i), Mar. 23, 2010, 124 Stat. 973, and transferred to section 285t of this title. The act July 1, 1944, no longer contains a section 485E.
 
 The Social Security Act, referred to in subsec. (a)(2)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
@@ -118,80 +118,80 @@ The American Recovery and Reinvestment Act of 2009, referred to in subsec. (b)(2
 
 #### Amendments ####
 
-**2010**—Subsec. (a)(2)(B)(iii). Pub. L. 111–148, §10302, inserted “(taking into consideration the limitations set forth in subsections (c) and (d) of section 1182 of the Social Security Act)” after “information”.
+**2010**—Subsec. (a)(2)(B)(iii). Pub. L. 111–148, §10302, inserted "(taking into consideration the limitations set forth in subsections (c) and (d) of section 1182 of the Social Security Act)" after "information".
 
 #### Interagency Working Group on Health Care Quality ####
 
 Pub. L. 111–148, title III, §3012, Mar. 23, 2010, 124 Stat. 380, provided that:
 
-“(a) In General.—The President shall convene a working group to be known as the Interagency Working Group on Health Care Quality (referred to in this section as the ‘Working Group’).
+"(a) In General.—The President shall convene a working group to be known as the Interagency Working Group on Health Care Quality (referred to in this section as the 'Working Group').
 
-“(b) Goals.—The goals of the Working Group shall be to achieve the following:
+"(b) Goals.—The goals of the Working Group shall be to achieve the following:
 
-“(1) Collaboration, cooperation, and consultation between Federal departments and agencies with respect to developing and disseminating strategies, goals, models, and timetables that are consistent with the national priorities identified under section 399HH(a)(2) of the Public Health Service Act [42 U.S.C. 280j(a)(2)] (as added by section 3011 [of Pub. L. 111–148]).
+"(1) Collaboration, cooperation, and consultation between Federal departments and agencies with respect to developing and disseminating strategies, goals, models, and timetables that are consistent with the national priorities identified under section 399HH(a)(2) of the Public Health Service Act [42 U.S.C. 280j(a)(2)] (as added by section 3011 [of Pub. L. 111–148]).
 
-“(2) Avoidance of inefficient duplication of quality improvement efforts and resources, where practicable, and a streamlined process for quality reporting and compliance requirements.
+"(2) Avoidance of inefficient duplication of quality improvement efforts and resources, where practicable, and a streamlined process for quality reporting and compliance requirements.
 
-“(3) Assess alignment of quality efforts in the public sector with private sector initiatives.
+"(3) Assess alignment of quality efforts in the public sector with private sector initiatives.
 
-“(c) Composition.—
+"(c) Composition.—
 
-“(1) In general.—The Working Group shall be composed of senior level representatives of—
+"(1) In general.—The Working Group shall be composed of senior level representatives of—
 
-“(A) the Department of Health and Human Services;
+"(A) the Department of Health and Human Services;
 
-“(B) the Centers for Medicare & Medicaid Services;
+"(B) the Centers for Medicare & Medicaid Services;
 
-“(C) the National Institutes of Health;
+"(C) the National Institutes of Health;
 
-“(D) the Centers for Disease Control and Prevention;
+"(D) the Centers for Disease Control and Prevention;
 
-“(E) the Food and Drug Administration;
+"(E) the Food and Drug Administration;
 
-“(F) the Health Resources and Services Administration;
+"(F) the Health Resources and Services Administration;
 
-“(G) the Agency for Healthcare Research and Quality;
+"(G) the Agency for Healthcare Research and Quality;
 
-“(H) the Office of the National Coordinator for Health Information Technology;
+"(H) the Office of the National Coordinator for Health Information Technology;
 
-“(I) the Substance Abuse and Mental Health Services Administration;
+"(I) the Substance Abuse and Mental Health Services Administration;
 
-“(J) the Administration for Children and Families;
+"(J) the Administration for Children and Families;
 
-“(K) the Department of Commerce;
+"(K) the Department of Commerce;
 
-“(L) the Office of Management and Budget;
+"(L) the Office of Management and Budget;
 
-“(M) the United States Coast Guard;
+"(M) the United States Coast Guard;
 
-“(N) the Federal Bureau of Prisons;
+"(N) the Federal Bureau of Prisons;
 
-“(O) the National Highway Traffic Safety Administration;
+"(O) the National Highway Traffic Safety Administration;
 
-“(P) the Federal Trade Commission;
+"(P) the Federal Trade Commission;
 
-“(Q) the Social Security Administration;
+"(Q) the Social Security Administration;
 
-“(R) the Department of Labor;
+"(R) the Department of Labor;
 
-“(S) the United States Office of Personnel Management;
+"(S) the United States Office of Personnel Management;
 
-“(T) the Department of Defense;
+"(T) the Department of Defense;
 
-“(U) the Department of Education;
+"(U) the Department of Education;
 
-“(V) the Department of Veterans Affairs;
+"(V) the Department of Veterans Affairs;
 
-“(W) the Veterans Health Administration; and
+"(W) the Veterans Health Administration; and
 
-“(X) any other Federal agencies and departments with activities relating to improving health care quality and safety, as determined by the President.
+"(X) any other Federal agencies and departments with activities relating to improving health care quality and safety, as determined by the President.
 
-“(2) Chair and vice-chair.—
+"(2) Chair and vice-chair.—
 
-“(A) Chair.—The Working Group shall be chaired by the Secretary of Health and Human Services.
+"(A) Chair.—The Working Group shall be chaired by the Secretary of Health and Human Services.
 
-“(B) Vice chair.—Members of the Working Group, other than the Secretary of Health and Human Services, shall serve as Vice Chair of the Group on a rotating basis, as determined by the Group.
+"(B) Vice chair.—Members of the Working Group, other than the Secretary of Health and Human Services, shall serve as Vice Chair of the Group on a rotating basis, as determined by the Group.
 
-“(d) Report to Congress.—Not later than December 31, 2010, and annually thereafter, the Working Group shall submit to the relevant Committees of Congress, and make public on an Internet website, a report describing the progress and recommendations of the Working Group in meeting the goals described in subsection (b).”
+"(d) Report to Congress.—Not later than December 31, 2010, and annually thereafter, the Working Group shall submit to the relevant Committees of Congress, and make public on an Internet website, a report describing the progress and recommendations of the Working Group in meeting the goals described in subsection (b)."
 
 [<sup>1</sup> See References in Text note below.](#280j_1)

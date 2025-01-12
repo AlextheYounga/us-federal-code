@@ -2,7 +2,7 @@
 
 Nothing in this chapter shall be construed to—
 
-(1) invalidate, modify, or impose any additional restrictions or permitting requirements on any activities permitted at any time under the general mining laws, the mineral or geothermal leasing laws, laws providing for minerals materials disposal, or laws providing for the management or regulation of the activities authorized by the aforementioned laws including but not limited to the Federal Land Policy Management Act (43 U.S.C. 1701–1784),<sup><a href="#470aaa-10_1_target" name="470aaa-10_1">1</a></sup> Public Law 94–429 (commonly known as the “Mining in the Parks Act”) (16 U.S.C. 1901 et seq.), the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1201–1358) [30 U.S.C. 1201 et seq.], and the Organic Administration Act (16 U.S.C. 478, 482, 551);
+(1) invalidate, modify, or impose any additional restrictions or permitting requirements on any activities permitted at any time under the general mining laws, the mineral or geothermal leasing laws, laws providing for minerals materials disposal, or laws providing for the management or regulation of the activities authorized by the aforementioned laws including but not limited to the Federal Land Policy Management Act (43 U.S.C. 1701–1784),<sup><a href="#470aaa-10_1_target" name="470aaa-10_1">1</a></sup> Public Law 94–429 (commonly known as the "Mining in the Parks Act") (16 U.S.C. 1901 et seq.), the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1201–1358) [30 U.S.C. 1201 et seq.], and the Organic Administration Act (16 U.S.C. 478, 482, 551);
 
 (2) invalidate, modify, or impose any additional restrictions or permitting requirements on any activities permitted at any time under existing laws and authorities relating to reclamation and multiple uses of Federal land;
 
@@ -20,10 +20,10 @@ Nothing in this chapter shall be construed to—
 
 The Federal Land Policy Management Act (43 U.S.C. 1701–1784), referred to in par. (1), probably means the Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-Public Law 94–429 (commonly known as the “Mining in the Parks Act”), referred to in par. (1), is Pub. L. 94–429, Sept. 28, 1976, 90 Stat. 1342, which is classified principally to chapter 39 (§1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+Public Law 94–429 (commonly known as the "Mining in the Parks Act"), referred to in par. (1), is Pub. L. 94–429, Sept. 28, 1976, 90 Stat. 1342, which is classified principally to chapter 39 (§1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
 The Surface Mining Control and Reclamation Act of 1977, referred to in par. (1), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which is classified generally to chapter 25 (§1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
 
-The Organic Administration Act, referred to in par. (1), is the popular name for certain provisions of act June 4, 1897, ch. 2, 30 Stat. 34, under the headings “under the department of the interior.” and “surveying the public lands.”, which are classified to sections 473 to 475, 477, 478, 479 to 482, and 551 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 473 of this title and Tables.
+The Organic Administration Act, referred to in par. (1), is the popular name for certain provisions of act June 4, 1897, ch. 2, 30 Stat. 34, under the headings "under the department of the interior." and "surveying the public lands.", which are classified to sections 473 to 475, 477, 478, 479 to 482, and 551 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 473 of this title and Tables.
 
 [<sup>1</sup> See References in Text note below.](#470aaa-10_1)

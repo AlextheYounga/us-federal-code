@@ -66,7 +66,7 @@ A prior section 16 of act Mar. 3, 1901, as added by act Mar. 1, 1968, Pub. L. 90
 
 **1979**—Subsec. (b). Pub. L. 96–121 substituted provisions authorizing to be appropriated an amount not to exceed $5,650,000 for the fiscal year ending Sept. 30, 1980, for provisions authorizing appropriations not to exceed $1,275,000 for the transitional fiscal quarter of July 1, 1976, through Sept. 30, 1976, not to exceed $5,500,000 for the fiscal year ending Sept. 30, 1977, not to exceed $6,000,000 for the fiscal year ending Sept. 30, 1978, and not to exceed $5,600,000 for the fiscal year ending Sept. 30, 1979, and added pars. (1) and (2).
 
-**1978**—Subsec. (a). Pub. L. 95–422, §§2(b), 3(b), in provisions preceding par. (1) substituted “United States Fire Administration” for “National Fire Prevention and Control Administration” and added par. (1)(I).
+**1978**—Subsec. (a). Pub. L. 95–422, §§2(b), 3(b), in provisions preceding par. (1) substituted "United States Fire Administration" for "National Fire Prevention and Control Administration" and added par. (1)(I).
 
 Subsec. (b). Pub. L. 95–422, §1(b), inserted provision authorizing appropriation of not to exceed $5,600,000 for the fiscal year ending Sept. 30, 1979.
 
@@ -78,7 +78,7 @@ Advisory councils in existence on Jan. 5, 1973, to terminate not later than the 
 
 #### Combination of Fire Research and Building Technology Programs ####
 
-Pub. L. 102–245, title I, §104(g), Feb. 14, 1992, 106 Stat. 11, provided that: “The fire research and building technology programs of the Institute may be combined for administrative purposes only, and separate budget accounts for fire research and building technology shall be maintained. No later than December 31, 1992, the Secretary, acting through the Director of the Institute, shall report to Congress on the results of the combination, on efforts to preserve the integrity of the fire research and building technology programs, on the long-range basic and applied research plans of the two programs, on procedures for receiving advice on fire and earthquake research priorities from constituencies concerned with public safety, and on the relation between the combined program at the Institute and the United States Fire Administration.”
+Pub. L. 102–245, title I, §104(g), Feb. 14, 1992, 106 Stat. 11, provided that: "The fire research and building technology programs of the Institute may be combined for administrative purposes only, and separate budget accounts for fire research and building technology shall be maintained. No later than December 31, 1992, the Secretary, acting through the Director of the Institute, shall report to Congress on the results of the combination, on efforts to preserve the integrity of the fire research and building technology programs, on the long-range basic and applied research plans of the two programs, on procedures for receiving advice on fire and earthquake research priorities from constituencies concerned with public safety, and on the relation between the combined program at the Institute and the United States Fire Administration."
 
 #### National Commission on Fire Prevention and Control ####
 

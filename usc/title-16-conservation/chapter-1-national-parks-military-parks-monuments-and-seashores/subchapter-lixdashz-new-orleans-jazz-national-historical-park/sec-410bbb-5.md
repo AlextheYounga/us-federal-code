@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-To assist in implementing the purposes of this subchapter and the document entitled “New Orleans Jazz Special Resource Study”, there is established the New Orleans Jazz Commission (hereinafter referred to as the “Commission”).
+To assist in implementing the purposes of this subchapter and the document entitled "New Orleans Jazz Special Resource Study", there is established the New Orleans Jazz Commission (hereinafter referred to as the "Commission").
 
 #### (b) Membership ####
 

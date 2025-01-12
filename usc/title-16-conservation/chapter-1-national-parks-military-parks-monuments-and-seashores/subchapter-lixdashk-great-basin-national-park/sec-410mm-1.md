@@ -56,9 +56,9 @@ The Geothermal Steam Act of 1970, as amended, referred to in subsec. (d), is Pub
 
 #### Amendments ####
 
-**1996**—Subsec. (e). Pub. L. 104–134, §101(c) [title III, §319(1)], substituted “may permit” for “shall permit” in first sentence.
+**1996**—Subsec. (e). Pub. L. 104–134, §101(c) [title III, §319(1)], substituted "may permit" for "shall permit" in first sentence.
 
-Subsec. (f). Pub. L. 104–134, §101(c) [title III, §319(2)], designated existing provisions as par. (1), inserted heading, substituted “grazing permits and grazing leases” for “grazing permits”, and added par. (2).
+Subsec. (f). Pub. L. 104–134, §101(c) [title III, §319(2)], designated existing provisions as par. (1), inserted heading, substituted "grazing permits and grazing leases" for "grazing permits", and added par. (2).
 
 #### Change of Name ####
 

@@ -36,39 +36,39 @@ The General Schedule, referred to in subsec. (e), is set out under section 5332 
 
 #### Amendments ####
 
-**2000**—Subsec. (a)(3). Pub. L. 106–472 inserted “inspection, weighing,” after “laboratory testing,”.
+**2000**—Subsec. (a)(3). Pub. L. 106–472 inserted "inspection, weighing," after "laboratory testing,".
 
-**1994**—Pub. L. 103–354 substituted “Secretary” for “Administrator” and “Service” wherever appearing.
+**1994**—Pub. L. 103–354 substituted "Secretary" for "Administrator" and "Service" wherever appearing.
 
-**1993**—Pub. L. 103–156, §12(g), which directed amendment of “Section 8”, without specifying the name of the Act being amended, was executed to this section, which is section 8 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+**1993**—Pub. L. 103–156, §12(g), which directed amendment of "Section 8", without specifying the name of the Act being amended, was executed to this section, which is section 8 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Subsec. (a). Pub. L. 103–156, §§6(1), 12(g)(1), in cl. (1), substituted “presentation to the Administrator” for “presentation to him” and inserted “(or is supervised under a contractual arrangement)” after “and is employed”, and in second sentence, substituted “Except as otherwise provided in sections 79(i) and 79a(d) of this title, no person” for “No person”.
+Subsec. (a). Pub. L. 103–156, §§6(1), 12(g)(1), in cl. (1), substituted "presentation to the Administrator" for "presentation to him" and inserted "(or is supervised under a contractual arrangement)" after "and is employed", and in second sentence, substituted "Except as otherwise provided in sections 79(i) and 79a(d) of this title, no person" for "No person".
 
-Subsec. (b). Pub. L. 103–156, §6(2), substituted “under the terms of a contract for the conduct of any functions” for “independently under the terms of a contract for the conduct of any functions involved in official inspection”.
+Subsec. (b). Pub. L. 103–156, §6(2), substituted "under the terms of a contract for the conduct of any functions" for "independently under the terms of a contract for the conduct of any functions involved in official inspection".
 
-Subsec. (c). Pub. L. 103–156, §12(g)(2), substituted “the Administrator” for “he”.
+Subsec. (c). Pub. L. 103–156, §12(g)(2), substituted "the Administrator" for "he".
 
-Subsec. (d). Pub. L. 103–156, §6(3), inserted “or supervised under a contractual arrangement” after “Persons employed” and after “including persons employed”.
+Subsec. (d). Pub. L. 103–156, §6(3), inserted "or supervised under a contractual arrangement" after "Persons employed" and after "including persons employed".
 
-Subsec. (f). Pub. L. 103–156, §12(g)(2), substituted “the Administrator” for “he”.
+Subsec. (f). Pub. L. 103–156, §12(g)(2), substituted "the Administrator" for "he".
 
-**1977**—Subsec. (a)(1). Pub. L. 95–113, §1604(g)(1)(A), substituted “weighing, other than appeal weighing, of grain” for “weighing of grain”.
+**1977**—Subsec. (a)(1). Pub. L. 95–113, §1604(g)(1)(A), substituted "weighing, other than appeal weighing, of grain" for "weighing of grain".
 
-Subsec. (a)(2)(B). Pub. L. 95–113, §1604(g)(1)(B), substituted “weighing (including appeal weighing) of grain in the United States, or of United States grain in Canadian ports” for “weighing of grain”.
+Subsec. (a)(2)(B). Pub. L. 95–113, §1604(g)(1)(B), substituted "weighing (including appeal weighing) of grain in the United States, or of United States grain in Canadian ports" for "weighing of grain".
 
-Subsec. (a)(3). Pub. L. 95–113, §1604(g)(1)(C), substituted “any person or governmental agency specified sampling, laboratory testing, and similar technical functions” for “any person to perform specified sampling and laboratory testing”.
+Subsec. (a)(3). Pub. L. 95–113, §1604(g)(1)(C), substituted "any person or governmental agency specified sampling, laboratory testing, and similar technical functions" for "any person to perform specified sampling and laboratory testing".
 
 Subsec. (e). Pub. L. 95–113, §1604(g)(2), inserted provisions authorizing the Administrator to compensate the personnel at any rate within the appropriate grade of the General Schedule as the Administrator deems necessary without regard to section 5333 of title 5.
 
-Subsec. (f). Pub. L. 95–113, §1606(f), substituted “official inspection and weighing system” for “official inspection system”.
+Subsec. (f). Pub. L. 95–113, §1606(f), substituted "official inspection and weighing system" for "official inspection system".
 
-**1976**—Subsec. (a). Pub. L. 94–582 substituted “Administrator” for “Secretary” in two places; designated existing provisions as item (1) and substituted “official agency or a State agency delegated authority under section 79 or 79a of this title, to perform all or specified functions involved in original inspection or reinspection functions involved in official inspection, or in the official weighing or the supervision of weighing of grain in the United States” for “official inspection agency to perform all or specified functions involved in official inspection”; substituted provisions designated as item (2) for “to authorize any competent employee of the Department of Agriculture to perform all or specified functions involved in supervisory or appeal inspection or initial inspection of United States grain in Canadian ports”; inserted items (3) and (4); struck out authorization to license any competent individual to perform specified functions involved in official inspection under a contract with the Department of Agriculture; and conditioned performance of any official weighing function on the holding of a license or authorization.
+**1976**—Subsec. (a). Pub. L. 94–582 substituted "Administrator" for "Secretary" in two places; designated existing provisions as item (1) and substituted "official agency or a State agency delegated authority under section 79 or 79a of this title, to perform all or specified functions involved in original inspection or reinspection functions involved in official inspection, or in the official weighing or the supervision of weighing of grain in the United States" for "official inspection agency to perform all or specified functions involved in official inspection"; substituted provisions designated as item (2) for "to authorize any competent employee of the Department of Agriculture to perform all or specified functions involved in supervisory or appeal inspection or initial inspection of United States grain in Canadian ports"; inserted items (3) and (4); struck out authorization to license any competent individual to perform specified functions involved in official inspection under a contract with the Department of Agriculture; and conditioned performance of any official weighing function on the holding of a license or authorization.
 
-Subsec. (b). Pub. L. 94–582 substituted “Administrator” for “Secretary”, “official agency” for “official inspection agency” in two places, and “subsection (c)” for “paragraph (c)”, and inserted provision respecting employment of licensee by a State agency under a delegation of authority pursuant to this chapter in two places.
+Subsec. (b). Pub. L. 94–582 substituted "Administrator" for "Secretary", "official agency" for "official inspection agency" in two places, and "subsection (c)" for "paragraph (c)", and inserted provision respecting employment of licensee by a State agency under a delegation of authority pursuant to this chapter in two places.
 
-Subsec. (c). Pub. L. 94–582 substituted “Administrator” for “Secretary” and “Service” for “Department of Agriculture” and included performance of weighing function.
+Subsec. (c). Pub. L. 94–582 substituted "Administrator" for "Secretary" and "Service" for "Department of Agriculture" and included performance of weighing function.
 
-Subsec. (d). Pub. L. 94–582 substituted “official agency (including persons employed by a State agency under a delegation of authority pursuant to this chapter)” for “official inspection agency” and “contract with the Service” for “contracts with the Department of Agriculture” and inserted provision respecting status as persons acting for or on behalf of the United States in application of sections 118, 201, and 1114 of Title 18.
+Subsec. (d). Pub. L. 94–582 substituted "official agency (including persons employed by a State agency under a delegation of authority pursuant to this chapter)" for "official inspection agency" and "contract with the Service" for "contracts with the Department of Agriculture" and inserted provision respecting status as persons acting for or on behalf of the United States in application of sections 118, 201, and 1114 of Title 18.
 
 Subsecs. (e) to (g). Pub. L. 94–582 added subsecs. (e) to (g).
 

@@ -1,6 +1,6 @@
 ### §459b. Cape Cod National Seashore; description of area ###
 
-(a) The area comprising that portion of the land and waters located in the towns of Provincetown, Truro, Wellfleet, Eastham, Orleans, and Chatham in the Commonwealth of Massachusetts, and described in subsection (b) of this section, is designated for establishment as Cape Cod National Seashore (hereinafter referred to as “the seashore”).
+(a) The area comprising that portion of the land and waters located in the towns of Provincetown, Truro, Wellfleet, Eastham, Orleans, and Chatham in the Commonwealth of Massachusetts, and described in subsection (b) of this section, is designated for establishment as Cape Cod National Seashore (hereinafter referred to as "the seashore").
 
 (b) The area referred to in subsection (a) of this section is described as follows:
 
@@ -116,4 +116,4 @@ thence generally northerly and northwesterly, and westerly along a line a quarte
 
 #### Separability ####
 
-Pub. L. 87–126, §10, Aug. 7, 1961, 75 Stat. 293, provided that: “If any provision of this Act [sections 459b to 459b–8 of this title] or the application of such provision to any person or circumstance is held invalid, the remainder of this Act [such sections] or the application of such provision to persons or circumstances other than those to which it is held invalid shall not be affected thereby.”
+Pub. L. 87–126, §10, Aug. 7, 1961, 75 Stat. 293, provided that: "If any provision of this Act [sections 459b to 459b–8 of this title] or the application of such provision to any person or circumstance is held invalid, the remainder of this Act [such sections] or the application of such provision to persons or circumstances other than those to which it is held invalid shall not be affected thereby."

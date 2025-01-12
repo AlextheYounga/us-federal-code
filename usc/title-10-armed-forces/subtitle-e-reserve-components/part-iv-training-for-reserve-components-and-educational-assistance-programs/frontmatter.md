@@ -21,4 +21,4 @@ Chap. Sec.
 
 **1999**—Pub. L. 106–65, div. A, title V, §551(a)(2), Oct. 5, 1999, 113 Stat. 614, added item for chapter 1611.
 
-**1996**—Pub. L. 104–106, div. A, title XV, §1501(b)(1), Feb. 10, 1996, 110 Stat. 495, substituted “Repayment Programs” for “Repayments” in item for chapter 1609.
+**1996**—Pub. L. 104–106, div. A, title XV, §1501(b)(1), Feb. 10, 1996, 110 Stat. 495, substituted "Repayment Programs" for "Repayments" in item for chapter 1609.

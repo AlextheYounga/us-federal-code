@@ -12,7 +12,7 @@ The promulgation of the regulations and administration of this title <sup><a hr
 
 (2) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and
 
-(3) chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”).
+(3) chapter 35 of title 44 (commonly known as the "Paperwork Reduction Act").
 
 #### (c) Congressional review of agency rulemaking ####
 

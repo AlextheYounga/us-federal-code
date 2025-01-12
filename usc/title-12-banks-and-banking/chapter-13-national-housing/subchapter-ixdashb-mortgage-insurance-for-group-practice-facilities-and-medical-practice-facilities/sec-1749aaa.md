@@ -14,7 +14,7 @@ The mortgage shall—
 
 (1) Repealed. Pub. L. 93–383, title III, §304(l), Aug. 22, 1974, 88 Stat. 678;
 
-(2) not exceed 90 per centum of the amount which the Secretary estimates will be the replacement cost of the property or project when construction or rehabilitation is completed. The replacement cost of the property may include the land and the proposed physical improvements, equipment, utilities within the boundaries of the property, a solar energy system (as defined in subparagraph (3) of the last paragraph of section 1703(a) of this title) or residential energy conservation measures (as defined in section 8211(11)(A) through (G) and (I) of title 42) <sup><a href="#1749aaa_1_target" name="1749aaa_1">1</a></sup> in cases where the Secretary determines that such measures are in addition to those required under the minimum property standards and will be cost-effective over the life of the measure, architects’ fees, taxes, and interest accruing during construction or rehabilitation, and other miscellaneous charges incident to construction or rehabilitation and approved by the Secretary;
+(2) not exceed 90 per centum of the amount which the Secretary estimates will be the replacement cost of the property or project when construction or rehabilitation is completed. The replacement cost of the property may include the land and the proposed physical improvements, equipment, utilities within the boundaries of the property, a solar energy system (as defined in subparagraph (3) of the last paragraph of section 1703(a) of this title) or residential energy conservation measures (as defined in section 8211(11)(A) through (G) and (I) of title 42) <sup><a href="#1749aaa_1_target" name="1749aaa_1">1</a></sup> in cases where the Secretary determines that such measures are in addition to those required under the minimum property standards and will be cost-effective over the life of the measure, architects' fees, taxes, and interest accruing during construction or rehabilitation, and other miscellaneous charges incident to construction or rehabilitation and approved by the Secretary;
 
 (3) have a maturity satisfactory to the Secretary but not to exceed twenty-five years from the beginning of the amortization of the mortgage, and provide for complete amortization of the principal obligation by periodic payments within such term as the Secretary shall prescribe; and
 
@@ -40,95 +40,95 @@ Section 8211 of title 42, referred to in subsec. (c)(2), was omitted from the Co
 
 #### Amendments ####
 
-**1988**—Subsec. (a). Pub. L. 100–242 struck out at end “No mortgage shall be insured under this subchapter after March 15, 1988, except pursuant to a commitment to insure issued before that date.”
+**1988**—Subsec. (a). Pub. L. 100–242 struck out at end "No mortgage shall be insured under this subchapter after March 15, 1988, except pursuant to a commitment to insure issued before that date."
 
-**1987**—Subsec. (a). Pub. L. 100–200 substituted “March 15, 1988” for “December 16, 1987”.
+**1987**—Subsec. (a). Pub. L. 100–200 substituted "March 15, 1988" for "December 16, 1987".
 
-Pub. L. 100–179 substituted “December 16, 1987” for “December 2, 1987”.
+Pub. L. 100–179 substituted "December 16, 1987" for "December 2, 1987".
 
-Pub. L. 100–170 substituted “December 2, 1987” for “November 15, 1987”.
+Pub. L. 100–170 substituted "December 2, 1987" for "November 15, 1987".
 
-Pub. L. 100–154 substituted “November 15, 1987” for “October 31, 1987”.
+Pub. L. 100–154 substituted "November 15, 1987" for "October 31, 1987".
 
-Pub. L. 100–122 substituted “October 31, 1987” for “September 30, 1987”.
+Pub. L. 100–122 substituted "October 31, 1987" for "September 30, 1987".
 
-**1986**—Subsec. (a). Pub. L. 99–430 substituted “September 30, 1987” for “September 30, 1986”.
+**1986**—Subsec. (a). Pub. L. 99–430 substituted "September 30, 1987" for "September 30, 1986".
 
-Pub. L. 99–345 substituted “September 30, 1986” for “June 6, 1986”.
+Pub. L. 99–345 substituted "September 30, 1986" for "June 6, 1986".
 
-Pub. L. 99–289 substituted “June 6, 1986” for “April 30, 1986”.
+Pub. L. 99–289 substituted "June 6, 1986" for "April 30, 1986".
 
 Pub. L. 99–272 made amendment identical to Pub. L. 99–219. See 1985 Amendment note below.
 
-Pub. L. 99–267 substituted “April 30, 1986” for “March 17, 1986”.
+Pub. L. 99–267 substituted "April 30, 1986" for "March 17, 1986".
 
-**1985**—Subsec. (a). Pub. L. 99–219 substituted “March 17, 1986” for “December 15, 1985”.
+**1985**—Subsec. (a). Pub. L. 99–219 substituted "March 17, 1986" for "December 15, 1985".
 
-Pub. L. 99–156 substituted “December 15, 1985” for “November 14, 1985”.
+Pub. L. 99–156 substituted "December 15, 1985" for "November 14, 1985".
 
-Pub. L. 99–120 substituted “November 14, 1985” for “September 30, 1985”.
+Pub. L. 99–120 substituted "November 14, 1985" for "September 30, 1985".
 
-**1984**—Subsec. (c)(4). Pub. L. 98–479 substituted “at such rate as may be agreed upon by the mortgagor and the mortgagee,” for “(exclusive of premium charges for insurance, and service charges if any) at a rate of not to exceed 5 per centum per annum of the amount of the principal obligation outstanding at any time, or not to exceed such rate (not in excess of 6 per centum per annum) as the Secretary finds necessary to meet the mortgage market.”
+**1984**—Subsec. (c)(4). Pub. L. 98–479 substituted "at such rate as may be agreed upon by the mortgagor and the mortgagee," for "(exclusive of premium charges for insurance, and service charges if any) at a rate of not to exceed 5 per centum per annum of the amount of the principal obligation outstanding at any time, or not to exceed such rate (not in excess of 6 per centum per annum) as the Secretary finds necessary to meet the mortgage market."
 
-**1983**—Subsec. (a). Pub. L. 98–181 substituted “September 30, 1985” for “November 30, 1983”.
+**1983**—Subsec. (a). Pub. L. 98–181 substituted "September 30, 1985" for "November 30, 1983".
 
-Pub. L. 98–109 substituted “November 30, 1983” for “September 30, 1983”.
+Pub. L. 98–109 substituted "November 30, 1983" for "September 30, 1983".
 
-Pub. L. 98–35 substituted “September 30, 1983” for “May 20, 1983”.
+Pub. L. 98–35 substituted "September 30, 1983" for "May 20, 1983".
 
-**1982**—Subsec. (a). Pub. L. 97–289 substituted “May 20, 1983” for “September 30, 1982”.
+**1982**—Subsec. (a). Pub. L. 97–289 substituted "May 20, 1983" for "September 30, 1982".
 
-**1981**—Subsec. (a). Pub. L. 97–35 substituted “1982” for “1981”.
+**1981**—Subsec. (a). Pub. L. 97–35 substituted "1982" for "1981".
 
-**1980**—Subsec. (a). Pub. L. 96–399, §301(k), substituted “September 30, 1981” for “October 15, 1980”.
+**1980**—Subsec. (a). Pub. L. 96–399, §301(k), substituted "September 30, 1981" for "October 15, 1980".
 
-Pub. L. 96–372 substituted “October 15, 1980” for “September 30, 1980”.
+Pub. L. 96–372 substituted "October 15, 1980" for "September 30, 1980".
 
 Subsec. (c)(2). Pub. L. 96–399, §310(i), inserted provisions relating to solar energy systems and residential energy conservation measures.
 
-**1979**—Subsec. (a). Pub. L. 96–153 substituted “September 30, 1980” for “November 30, 1979”.
+**1979**—Subsec. (a). Pub. L. 96–153 substituted "September 30, 1980" for "November 30, 1979".
 
-Pub. L. 96–105 substituted “November 30, 1979” for “October 31, 1979”.
+Pub. L. 96–105 substituted "November 30, 1979" for "October 31, 1979".
 
-Pub. L. 96–71 substituted “October 31, 1979” for “September 30, 1979”.
+Pub. L. 96–71 substituted "October 31, 1979" for "September 30, 1979".
 
-**1978**—Subsec. (a). Pub. L. 95–557 substituted “September 30, 1979” for “October 31, 1978”.
+**1978**—Subsec. (a). Pub. L. 95–557 substituted "September 30, 1979" for "October 31, 1978".
 
-Pub. L. 95–406 substituted “October 31, 1978” for “September 30, 1978”.
+Pub. L. 95–406 substituted "October 31, 1978" for "September 30, 1978".
 
-**1977**—Subsec. (a). Pub. L. 95–128 substituted “September 30, 1978” for “September 30, 1977”.
+**1977**—Subsec. (a). Pub. L. 95–128 substituted "September 30, 1978" for "September 30, 1977".
 
-Pub. L. 95–80 substituted “September 30, 1977” for “July 31, 1977”.
+Pub. L. 95–80 substituted "September 30, 1977" for "July 31, 1977".
 
-Pub. L. 95–60 substituted “July 31, 1977” for “June 30, 1977”.
+Pub. L. 95–60 substituted "July 31, 1977" for "June 30, 1977".
 
-**1974**—Subsec. (a). Pub. L. 93–383, §316(g), substituted “June 30, 1977” for “October 1, 1974”.
+**1974**—Subsec. (a). Pub. L. 93–383, §316(g), substituted "June 30, 1977" for "October 1, 1974".
 
-Subsec. (b). Pub. L. 93–383, §312(a)(1), (2), in cl. (1) inserted “or other mortgagor” after “or organization”, and in cl. (3) inserted “or medical practice facility” after “group practice facility”.
+Subsec. (b). Pub. L. 93–383, §312(a)(1), (2), in cl. (1) inserted "or other mortgagor" after "or organization", and in cl. (3) inserted "or medical practice facility" after "group practice facility".
 
 Subsec. (c)(1). Pub. L. 93–383, §304(l), struck out par. (1) which set forth limitation on amount of mortgage.
 
-Subsecs. (e), (f). Pub. L. 93–383, §312(a)(3), (4), inserted “or medical practice facility” after “group practice facility”.
+Subsecs. (e), (f). Pub. L. 93–383, §312(a)(3), (4), inserted "or medical practice facility" after "group practice facility".
 
-**1973**—Subsec. (a). Pub. L. 93–117 substituted “October 1, 1974” for “October 1, 1973”.
+**1973**—Subsec. (a). Pub. L. 93–117 substituted "October 1, 1974" for "October 1, 1973".
 
-Pub. L. 93–85 substituted “October 1, 1973” for “June 30, 1973”.
+Pub. L. 93–85 substituted "October 1, 1973" for "June 30, 1973".
 
-**1972**—Subsec. (a). Pub. L. 92–503 substituted “June 30, 1973” for “October 1, 1972”.
+**1972**—Subsec. (a). Pub. L. 92–503 substituted "June 30, 1973" for "October 1, 1972".
 
-**1970**—Subsec. (a). Pub. L. 91–609 substituted “October 1, 1972” for “January 1, 1971”.
+**1970**—Subsec. (a). Pub. L. 91–609 substituted "October 1, 1972" for "January 1, 1971".
 
-Pub. L. 91–525 substituted “January 1, 1971” for “December 1, 1970”.
+Pub. L. 91–525 substituted "January 1, 1971" for "December 1, 1970".
 
-Pub. L. 91–473 substituted “December 1, 1970” for “November 1, 1970”.
+Pub. L. 91–473 substituted "December 1, 1970" for "November 1, 1970".
 
-Pub. L. 91–432 substituted “November 1, 1970” for “October 1, 1970”.
+Pub. L. 91–432 substituted "November 1, 1970" for "October 1, 1970".
 
-**1969**—Subsec. (a). Pub. L. 91–152, §101(i), substituted “October 1, 1970” for “January 1, 1970”.
+**1969**—Subsec. (a). Pub. L. 91–152, §101(i), substituted "October 1, 1970" for "January 1, 1970".
 
-Pub. L. 91–78 substituted “January 1, 1970” for “October 1, 1969”.
+Pub. L. 91–78 substituted "January 1, 1970" for "October 1, 1969".
 
-Subsec. (c)(2). Pub. L. 91–152, §418(f), substituted “replacement cost” for “value” wherever appearing.
+Subsec. (c)(2). Pub. L. 91–152, §418(f), substituted "replacement cost" for "value" wherever appearing.
 
 **1968**—Subsec. (c)(3). Pub. L. 90–448 limited term of mortgage to not more than twenty-five years from beginning of amortization of mortgage.
 
@@ -138,6 +138,6 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Declaration of Purpose ####
 
-Pub. L. 89–754, title V, §501, Nov. 3, 1966, 80 Stat. 1273, provided that: “It is the purpose of this title [enacting this subchapter and amending sections 24, 371, 1715c, and 1715r of this title, section 663 of former Title 11, Bankruptcy, and section 77ddd of Title 15, Commerce and Trade] to assure the availability of credit on reasonable terms to units or organizations engaged in the group practice of medicine, optometry, or dentistry, particularly those in smaller communities and those sponsored by cooperative or other nonprofit organizations, to assist in financing the construction and equipment of group practice facilities.”
+Pub. L. 89–754, title V, §501, Nov. 3, 1966, 80 Stat. 1273, provided that: "It is the purpose of this title [enacting this subchapter and amending sections 24, 371, 1715c, and 1715r of this title, section 663 of former Title 11, Bankruptcy, and section 77ddd of Title 15, Commerce and Trade] to assure the availability of credit on reasonable terms to units or organizations engaged in the group practice of medicine, optometry, or dentistry, particularly those in smaller communities and those sponsored by cooperative or other nonprofit organizations, to assist in financing the construction and equipment of group practice facilities."
 
 [<sup>1</sup> See References in Text note below.](#1749aaa_1)

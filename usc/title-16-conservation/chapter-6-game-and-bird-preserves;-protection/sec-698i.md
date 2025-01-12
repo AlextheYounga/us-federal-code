@@ -22,4 +22,4 @@
 
 (Pub. L. 93–440, §4, Oct. 11, 1974, 88 Stat. 1260.)
 
-[<sup>1</sup> So in original. Probably should be “preserve”.](#698i_1)
+[<sup>1</sup> So in original. Probably should be "preserve".](#698i_1)

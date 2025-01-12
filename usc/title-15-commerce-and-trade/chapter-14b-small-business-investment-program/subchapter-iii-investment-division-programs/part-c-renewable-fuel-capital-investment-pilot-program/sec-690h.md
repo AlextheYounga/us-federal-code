@@ -58,4 +58,4 @@ None of the assistance made available under this section may be used for any ove
 
 [<sup>1</sup> So in original. The article probably should not appear.](#690h_1)
 
-[<sup>2</sup> So in original. Probably should be “than”.](#690h_2)
+[<sup>2</sup> So in original. Probably should be "than".](#690h_2)

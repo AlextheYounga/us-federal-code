@@ -6,7 +6,7 @@ The provisions of section 6306(a) of title 41 shall apply to all contracts or ag
 
 #### Codification ####
 
-In text, “section 6306(a) of title 41” substituted for “section 1 of the Act of February 27, 1877, as amended (41 U.S.C., 1940 edition, 22)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In text, "section 6306(a) of title 41" substituted for "section 1 of the Act of February 27, 1877, as amended (41 U.S.C., 1940 edition, 22)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Exceptions From Transfer of Functions ####
 

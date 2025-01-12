@@ -64,4 +64,4 @@ Except for the authority provided in section 2(c)(1),<sup><a href="#373b_1_targe
 
 (Pub. L. 107–69, §1, Nov. 12, 2001, 115 Stat. 593.)
 
-[<sup>1</sup> So in original. Probably should be “subsection (c)(1)”.](#373b_1)
+[<sup>1</sup> So in original. Probably should be "subsection (c)(1)".](#373b_1)

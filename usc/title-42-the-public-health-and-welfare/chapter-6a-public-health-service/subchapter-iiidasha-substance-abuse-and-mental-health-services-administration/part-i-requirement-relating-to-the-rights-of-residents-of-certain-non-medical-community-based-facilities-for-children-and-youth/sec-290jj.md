@@ -70,23 +70,23 @@ In this section:
 
 #### (1) Mechanical restraint ####
 
-The term “mechanical restraint” means the use of devices as a means of restricting a resident's freedom of movement.
+The term "mechanical restraint" means the use of devices as a means of restricting a resident's freedom of movement.
 
 #### (2) Physical escort ####
 
-The term “physical escort” means the temporary touching or holding of the hand, wrist, arm, shoulder or back for the purpose of inducing a resident who is acting out to walk to a safe location.
+The term "physical escort" means the temporary touching or holding of the hand, wrist, arm, shoulder or back for the purpose of inducing a resident who is acting out to walk to a safe location.
 
 #### (3) Physical restraint ####
 
-The term “physical restraint” means a personal restriction that immobilizes or reduces the ability of an individual to move his or her arms, legs, or head freely. Such term does not include a physical escort.
+The term "physical restraint" means a personal restriction that immobilizes or reduces the ability of an individual to move his or her arms, legs, or head freely. Such term does not include a physical escort.
 
 #### (4) Seclusion ####
 
-The term “seclusion” means a behavior control technique involving locked isolation. Such term does not include a time out.
+The term "seclusion" means a behavior control technique involving locked isolation. Such term does not include a time out.
 
 #### (5) Time out ####
 
-The term “time out” means a behavior management technique that is part of an approved treatment program and may involve the separation of the resident from the group, in a non-locked setting, for the purpose of calming. Time out is not seclusion.
+The term "time out" means a behavior management technique that is part of an approved treatment program and may involve the separation of the resident from the group, in a non-locked setting, for the purpose of calming. Time out is not seclusion.
 
 (July 1, 1944, ch. 373, title V, §595, as added Pub. L. 106–310, div. B, title XXXII, §3208, Oct. 17, 2000, 114 Stat. 1197.)
 
@@ -94,4 +94,4 @@ The term “time out” means a behavior management technique that is part of an
 
 The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-[<sup>1</sup> So in original. Probably should be followed by “to”.](#290jj_1)
+[<sup>1</sup> So in original. Probably should be followed by "to".](#290jj_1)

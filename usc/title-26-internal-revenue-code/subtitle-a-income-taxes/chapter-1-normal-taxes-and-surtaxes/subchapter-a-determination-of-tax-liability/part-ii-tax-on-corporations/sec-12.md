@@ -18,13 +18,13 @@
 
 #### Amendments ####
 
-**1986**—Par. (7). Pub. L. 99–514 amended par. (7) generally, substituting “alternative minimum tax” and “55” for “minimum tax for tax preferences” and “56”, respectively.
+**1986**—Par. (7). Pub. L. 99–514 amended par. (7) generally, substituting "alternative minimum tax" and "55" for "minimum tax for tax preferences" and "56", respectively.
 
 **1984**—Pars. (6) to (8). Pub. L. 98–369 redesignated pars. (7) and (8) as (6) and (7), respectively. Former par. (6), which referred to section 1451 for withholding of tax on tax-free covenant bonds, was struck out.
 
-**1978**—Par. (7). Pub. L. 95–600 substituted “benefits of graduated rate schedule provided in section 11(b)” for “the $25,000 exemption from surtax provided in section 11(c)”.
+**1978**—Par. (7). Pub. L. 95–600 substituted "benefits of graduated rate schedule provided in section 11(b)" for "the $25,000 exemption from surtax provided in section 11(c)".
 
-**1975**—Par. (7). Pub. L. 94–12 substituted “$50,000” for “$25,000” for a limited period. See Effective and Termination Dates of 1975 Amendment note set out below.
+**1975**—Par. (7). Pub. L. 94–12 substituted "$50,000" for "$25,000" for a limited period. See Effective and Termination Dates of 1975 Amendment note set out below.
 
 **1969**—Par. (8). Pub. L. 91–172 added par. (8).
 

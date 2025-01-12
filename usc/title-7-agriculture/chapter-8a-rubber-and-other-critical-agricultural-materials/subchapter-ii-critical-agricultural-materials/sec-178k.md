@@ -6,4 +6,4 @@ The Secretaries may dispose of any latex, resin, wax, pulp, and any other byprod
 
 #### Amendments ####
 
-**1984**—Pub. L. 98–284, substituted “The Secretaries” for “The Secretary of Agriculture and the Secretary of Commerce”, and inserted “, as well as products, other than rubber, developed from agricultural crops which are of strategic and industrial importance,” and “Dispositions under this section may include sales of the materials involved to other Federal departments and agencies for testing purposes.”
+**1984**—Pub. L. 98–284, substituted "The Secretaries" for "The Secretary of Agriculture and the Secretary of Commerce", and inserted ", as well as products, other than rubber, developed from agricultural crops which are of strategic and industrial importance," and "Dispositions under this section may include sales of the materials involved to other Federal departments and agencies for testing purposes."

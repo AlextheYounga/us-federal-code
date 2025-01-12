@@ -10,7 +10,7 @@ Article V of the constitution of the Organization, referred to in text, is artic
 
 #### Amendments ####
 
-**1980**—Pub. L. 96–465 substituted “members of the Senior Foreign Service under section 3962 of this title, or provided for Foreign Service officers under section 3963 of this title,” for “Foreign Service officers in the schedule contained in section 867 of this title,”.
+**1980**—Pub. L. 96–465 substituted "members of the Senior Foreign Service under section 3962 of this title, or provided for Foreign Service officers under section 3963 of this title," for "Foreign Service officers in the schedule contained in section 867 of this title,".
 
 **1964**—Pub. L. 88–426, §306(g), substituted provisions permitting payment of compensation at such rates provided for Foreign Service officers in the schedule contained in section 867 of this title for provisions which limited compensation at not more than $15,000 per annum.
 

@@ -10,4 +10,4 @@ Act Feb. 12, 1925, ch. 213, §15, 43 Stat. 886.
 
 #### Prior Provisions ####
 
-Act Feb. 12, 1925, ch. 213, §14, 43 Stat. 886, former provisions of section 14 of this title relating to “short title” is not now covered.
+Act Feb. 12, 1925, ch. 213, §14, 43 Stat. 886, former provisions of section 14 of this title relating to "short title" is not now covered.

@@ -14,4 +14,4 @@ Herein, referred to in text, means act Aug. 27, 1954, ch. 1009, 68 Stat. 868, wh
 
 **1962**—Pub. L. 87–698 inserted last paragraph providing that originally owned stock of corporate representative should not be subject to the usual processes of the law but that corporate distributions should be subject to them.
 
-[<sup>1</sup> So in original. Probably should be “of”.](#677i_1)
+[<sup>1</sup> So in original. Probably should be "of".](#677i_1)

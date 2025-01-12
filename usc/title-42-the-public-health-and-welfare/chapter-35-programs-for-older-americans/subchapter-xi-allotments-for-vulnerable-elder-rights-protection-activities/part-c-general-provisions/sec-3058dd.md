@@ -12,6 +12,6 @@ The Assistant Secretary shall provide technical assistance and training (by cont
 
 #### Amendments ####
 
-**1993**—Subsec. (a). Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner”.
+**1993**—Subsec. (a). Pub. L. 103–171, §3(a)(13), substituted "Assistant Secretary" for "Commissioner".
 
-Subsec. (b). Pub. L. 103–171, §13(a)(11), (13), substituted “Assistant Secretary” for “Commissioner” in heading and text.
+Subsec. (b). Pub. L. 103–171, §13(a)(11), (13), substituted "Assistant Secretary" for "Commissioner" in heading and text.

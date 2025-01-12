@@ -10,4 +10,4 @@ Section was formerly classified to section 300aaa–11 of this title prior to re
 
 #### Obligations Related to Agreement With Private Entities ####
 
-Pub. L. 105–277, div. A, §101(f) [title II], Oct. 21, 1998, 112 Stat. 2681–337, 2681–349, provided in part: “That hereinafter obligations may be incurred related to agreement with private entities without receipt of advance payment.”
+Pub. L. 105–277, div. A, §101(f) [title II], Oct. 21, 1998, 112 Stat. 2681–337, 2681–349, provided in part: "That hereinafter obligations may be incurred related to agreement with private entities without receipt of advance payment."

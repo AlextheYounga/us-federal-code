@@ -8,8 +8,8 @@ With the exception of property which the Secretary determines is necessary for d
 
 Any rights retained pursuant to this section shall be subject to such terms and conditions as the Secretary may prescribe and may be terminated by the Secretary upon his determination and after reasonable notice to the owner thereof that such property is being used for any purpose which is incompatible with the administration, protection, or public use of the park. Such right shall terminate by operation of law upon notification of the owner by the Secretary and tendering to the owner an amount equal to the fair market value of that portion of the right which remains unexpired.
 
-#### (c) “Improved property” defined ####
+#### (c) "Improved property" defined ####
 
-As used in this section, the term “improved property” means a year-round noncommercial single-family dwelling together with such land, in the same ownership as the dwelling, as the Secretary determines is reasonably necessary for the enjoyment of the dwelling for single-family residential use.
+As used in this section, the term "improved property" means a year-round noncommercial single-family dwelling together with such land, in the same ownership as the dwelling, as the Secretary determines is reasonably necessary for the enjoyment of the dwelling for single-family residential use.
 
 (Pub. L. 101–214, §4, Dec. 11, 1989, 103 Stat. 1850.)

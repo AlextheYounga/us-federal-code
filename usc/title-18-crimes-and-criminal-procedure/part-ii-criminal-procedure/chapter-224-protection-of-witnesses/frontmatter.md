@@ -20,4 +20,4 @@ Sec.
 
 #### Amendments ####
 
-**1990**—Pub. L. 101–647, title XXXV, §3581, Nov. 29, 1990, 104 Stat. 4929, substituted “State governments; reimbursement of expenses” for “State governments” in item 3526.
+**1990**—Pub. L. 101–647, title XXXV, §3581, Nov. 29, 1990, 104 Stat. 4929, substituted "State governments; reimbursement of expenses" for "State governments" in item 3526.

@@ -16,9 +16,9 @@ Subject to paragraph (2), in making awards of grants or contracts under any of s
 
 For purposes of paragraph (1), the Secretary may not give an applicant preference if the proposal of the applicant is ranked at or below the 20th percentile of proposals that have been recommended for approval by peer review groups.
 
-#### (b) “Graduate” defined ####
+#### (b) "Graduate" defined ####
 
-For purposes of this section, the term “graduate” means, unless otherwise specified, an individual who has successfully completed all training and residency requirements necessary for full certification in the health profession selected by the individual.
+For purposes of this section, the term "graduate" means, unless otherwise specified, an individual who has successfully completed all training and residency requirements necessary for full certification in the health profession selected by the individual.
 
 #### (c) Exceptions for new programs ####
 
@@ -28,7 +28,7 @@ To permit new programs to compete equitably for funding under this section, thos
 
 #### (2) Definition ####
 
-As used in this subsection, the term “new program” means any program that has graduated less than three classes. Upon graduating at least three classes, a program shall have the capability to provide the information necessary to qualify the program for the general funding preferences described in subsection (a) of this section.
+As used in this subsection, the term "new program" means any program that has graduated less than three classes. Upon graduating at least three classes, a program shall have the capability to provide the information necessary to qualify the program for the general funding preferences described in subsection (a) of this section.
 
 #### (3) Criteria ####
 
@@ -62,9 +62,9 @@ A prior section 791 of act July 1, 1944, was classified to section 295h of this 
 
 **2010**—Subsec. (a)(1)(C). Pub. L. 111–148 added subpar. (C).
 
-**1998**—Subsec. (a)(1). Pub. L. 105–392, §107(b)(1), substituted “sections 293k and 294 of this title” for “sections 293k through 293o of this title, under section 294b of this title, or under section 294d or 294e of this title” in introductory provisions.
+**1998**—Subsec. (a)(1). Pub. L. 105–392, §107(b)(1), substituted "sections 293k and 294 of this title" for "sections 293k through 293o of this title, under section 294b of this title, or under section 294d or 294e of this title" in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 105–392, §107(b)(2), struck out “under section 295o(a) of this title” before period at end.
+Subsec. (a)(2). Pub. L. 105–392, §107(b)(2), struck out "under section 295o(a) of this title" before period at end.
 
 Subsec. (b). Pub. L. 105–392, §106(a)(2)(B), redesignated subsec. (c) as (b) and struck out former subsec. (b) which required submission of certain information by applicant.
 
@@ -78,4 +78,4 @@ Amendment by Pub. L. 102–531 effective immediately after enactment of Pub. L. 
 
 #### Required Assurances Regarding Bloodborne Diseases ####
 
-Pub. L. 102–408, title III, §308, Oct. 13, 1992, 106 Stat. 2089, provided that: “With respect to awards of grants or contracts under title VII or VIII of the Public Health Service Act [42 U.S.C. 292 et seq., 296 et seq.], the Secretary of Health and Human Services may make such an award for the provision of traineeships only if the applicant for the award provides assurances satisfactory to the Secretary that all trainees will, as appropriate, receive instruction in the utilization of universal precautions and infection control procedures for the prevention of the transmission of bloodborne diseases.”
+Pub. L. 102–408, title III, §308, Oct. 13, 1992, 106 Stat. 2089, provided that: "With respect to awards of grants or contracts under title VII or VIII of the Public Health Service Act [42 U.S.C. 292 et seq., 296 et seq.], the Secretary of Health and Human Services may make such an award for the provision of traineeships only if the applicant for the award provides assurances satisfactory to the Secretary that all trainees will, as appropriate, receive instruction in the utilization of universal precautions and infection control procedures for the prevention of the transmission of bloodborne diseases."

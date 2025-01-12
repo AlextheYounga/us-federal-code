@@ -2,11 +2,11 @@
 
 For the purposes of this part—
 
-(1) the term “Bureau funded school” has the meaning given that term in title XI of the Education Amendments of 1978 [25 U.S.C. 2000 et seq.];
+(1) the term "Bureau funded school" has the meaning given that term in title XI of the Education Amendments of 1978 [25 U.S.C. 2000 et seq.];
 
-(2) the term “Foundation” means the Foundation established by the Secretary pursuant to section 458ddd of this title; and
+(2) the term "Foundation" means the Foundation established by the Secretary pursuant to section 458ddd of this title; and
 
-(3) the term “Secretary” means the Secretary of the Interior.
+(3) the term "Secretary" means the Secretary of the Interior.
 
 (Pub. L. 93–638, title VIII, §803, formerly title V, §503, as added Pub. L. 106–568, title XIII, §1302, Dec. 27, 2000, 114 Stat. 2938; renumbered title VIII, §803, and amended Pub. L. 111–211, title II, §231(d), July 29, 2010, 124 Stat. 2278.)
 
@@ -16,4 +16,4 @@ The Education Amendments of 1978, referred to in par. (1), is Pub. L. 95–561, 
 
 #### Amendments ####
 
-**2010**—Par. (2). Pub. L. 111–211, §231(d)(3), substituted “section 458ddd” for “section 458bbb”.
+**2010**—Par. (2). Pub. L. 111–211, §231(d)(3), substituted "section 458ddd" for "section 458bbb".

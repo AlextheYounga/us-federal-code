@@ -6,7 +6,7 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 
 #### Amendments ####
 
-**2011**—Pub. L. 112–40, title II, §222(a)(1), (2), Oct. 21, 2011, 125 Stat. 411, amended this part by striking out subparts A “Trade Adjustment Assistance for Communities” (§2371 et seq.), C “Industry or Sector Partnership Grant Program for Communities Impacted by Trade” (§2373 et seq.), and D “General Provisions” (§2374) and designation and heading of subpart B “Community College and Career Training Grant Program” (§2372 et seq.).
+**2011**—Pub. L. 112–40, title II, §222(a)(1), (2), Oct. 21, 2011, 125 Stat. 411, amended this part by striking out subparts A "Trade Adjustment Assistance for Communities" (§2371 et seq.), C "Industry or Sector Partnership Grant Program for Communities Impacted by Trade" (§2373 et seq.), and D "General Provisions" (§2374) and designation and heading of subpart B "Community College and Career Training Grant Program" (§2372 et seq.).
 
 Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403, revived the provisions of this part, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment note below.
 

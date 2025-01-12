@@ -12,13 +12,13 @@ The members of any board established under authority of section 715d of this tit
 
 #### Codification ####
 
-Provisions of subsec. (b) that authorized appointments “without regard to the civil service laws” omitted as obsolete and superseded. Such appointments are now subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to the Act of Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5, Government Organization and Employees.
+Provisions of subsec. (b) that authorized appointments "without regard to the civil service laws" omitted as obsolete and superseded. Such appointments are now subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to the Act of Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5, Government Organization and Employees.
 
-“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in subsec. (b) for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
+"Chapter 51 and subchapter III of chapter 53 of title 5" substituted in subsec. (b) for "the Classification Act of 1949, as amended" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
 #### Amendments ####
 
-**1949**—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+**1949**—Subsec. (b). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
 #### Repeals ####
 

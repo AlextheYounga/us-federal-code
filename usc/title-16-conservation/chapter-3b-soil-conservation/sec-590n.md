@@ -6,7 +6,7 @@ The facts constituting the bases for any payment or grant or the amount thereof 
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–127 struck out “or 590h” after “section 590g” and struck out at end “Payments to claimants under sections 590g, 590h, 590i, 590j to 590q, inclusive, of this title may be made upon the certificate of the claimant, which certificate shall be in such form as the Secretary of Agriculture may prescribe, that he has carried out the conservation practice or practices and has complied with all other requirements as conditions for such payments and that the statements and information contained in the application for payment are correct and true, to the best of his knowledge and belief, under the penalties of title 18.”
+**1996**—Pub. L. 104–127 struck out "or 590h" after "section 590g" and struck out at end "Payments to claimants under sections 590g, 590h, 590i, 590j to 590q, inclusive, of this title may be made upon the certificate of the claimant, which certificate shall be in such form as the Secretary of Agriculture may prescribe, that he has carried out the conservation practice or practices and has complied with all other requirements as conditions for such payments and that the statements and information contained in the application for payment are correct and true, to the best of his knowledge and belief, under the penalties of title 18."
 
 **1956**—Act Aug. 3, 1956, inserted provisions relating to payments to be made to claimant upon his certificate, and form of such certificate.
 

@@ -12,6 +12,6 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments ####
 
-**1974**—Pub. L. 93–283 struck out “on fixed structures” after “maritime navigation” in section catchline and in text substituted “fixed and floating structures in or over waters subject to the jurisdiction of the United States and in the high seas for structures owned or operated by persons subject to the jurisdiction of the United States” for “fixed structures in or over navigable waters of the United States”.
+**1974**—Pub. L. 93–283 struck out "on fixed structures" after "maritime navigation" in section catchline and in text substituted "fixed and floating structures in or over waters subject to the jurisdiction of the United States and in the high seas for structures owned or operated by persons subject to the jurisdiction of the United States" for "fixed structures in or over navigable waters of the United States".
 
 **1956**—Act June 4, 1956, amended section generally, vesting in Secretary rule-making authority, for the protection of maritime navigation, relative to the establishment, maintenance, and operation of lights and other signals on fixed structures in or over navigable waters of the United States, and excluding agencies of United States from its provisions.

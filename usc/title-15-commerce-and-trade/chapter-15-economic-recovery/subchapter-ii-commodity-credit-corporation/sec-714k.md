@@ -6,7 +6,7 @@ The Corporation shall at all times maintain complete and accurate books of accou
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–127 inserted at end “In addition to the annual report, the Corporation shall submit to Congress on a quarterly basis an itemized report of all expenditures over $10,000 made under section 714c or 714i of this title during the period covered by the report, including expenditures in the form of allotments or fund transfers to other agencies and departments of the Federal Government.”
+**1996**—Pub. L. 104–127 inserted at end "In addition to the annual report, the Corporation shall submit to Congress on a quarterly basis an itemized report of all expenditures over $10,000 made under section 714c or 714i of this title during the period covered by the report, including expenditures in the form of allotments or fund transfers to other agencies and departments of the Federal Government."
 
 #### Termination of Reporting Requirements ####
 

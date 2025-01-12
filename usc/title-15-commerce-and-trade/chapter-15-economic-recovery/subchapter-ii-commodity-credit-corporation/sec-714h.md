@@ -6,13 +6,13 @@ The Secretary shall appoint such officers and employees as may be necessary for 
 
 #### Codification ####
 
-“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of 1949” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+"Chapter 51 and subchapter III of chapter 53 of title 5" substituted in text for "the Classification Act of 1949" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments ####
 
 **1972**—Pub. L. 92–310 struck out provisions which permitted the Secretary to designate officers and employees to be bonded, and which authorized the Corporation to pay the premium on the bonds.
 
-**1949**—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+**1949**—Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
 Act June 7, 1949, amended section generally to permit the Secretary to appoint the officers and employees of the Corporation and to define their authority and duties.
 

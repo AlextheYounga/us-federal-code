@@ -10,9 +10,9 @@ R.S. §329 derived from act June 3, 1864, ch. 106, §1, 13 Stat. 99, which was t
 
 #### Amendments ####
 
-**2010**—Pub. L. 111–203 inserted “or any Federal savings association” before the period.
+**2010**—Pub. L. 111–203 inserted "or any Federal savings association" before the period.
 
-**2000**—Pub. L. 106–569 substituted “to hold an interest in any national bank” for “to be interested in any association issuing national currency under the laws of the United States”.
+**2000**—Pub. L. 106–569 substituted "to hold an interest in any national bank" for "to be interested in any association issuing national currency under the laws of the United States".
 
 #### Effective Date of 2010 Amendment ####
 

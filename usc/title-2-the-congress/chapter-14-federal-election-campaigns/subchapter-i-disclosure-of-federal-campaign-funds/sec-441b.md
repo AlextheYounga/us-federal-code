@@ -6,9 +6,9 @@ It is unlawful for any national bank, or any corporation organized by authority 
 
 #### (b) Definitions; particular activities prohibited or allowed ####
 
-(1) For the purposes of this section the term “labor organization” means any organization of any kind, or any agency or employee representation committee or plan, in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work.
+(1) For the purposes of this section the term "labor organization" means any organization of any kind, or any agency or employee representation committee or plan, in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work.
 
-(2) For purposes of this section and section 79l(h) of title 15,<sup><a href="#441b_1_target" name="441b_1">1</a></sup> the term “contribution or expenditure” includes a contribution or expenditure, as those terms are defined in section 431 of this title, and also includes any direct or indirect payment, distribution, loan, advance, deposit, or gift of money, or any services, or anything of value (except a loan of money by a national or State bank made in accordance with the applicable banking laws and regulations and in the ordinary course of business) to any candidate, campaign committee, or political party or organization, in connection with any election to any of the offices referred to in this section or for any applicable electioneering communication, but shall not include (A) communications by a corporation to its stockholders and executive or administrative personnel and their families or by a labor organization to its members and their families on any subject; (B) nonpartisan registration and get-out-the-vote campaigns by a corporation aimed at its stockholders and executive or administrative personnel and their families, or by a labor organization aimed at its members and their families; and (C) the establishment, administration, and solicitation of contributions to a separate segregated fund to be utilized for political purposes by a corporation, labor organization, membership organization, cooperative, or corporation without capital stock.
+(2) For purposes of this section and section 79l(h) of title 15,<sup><a href="#441b_1_target" name="441b_1">1</a></sup> the term "contribution or expenditure" includes a contribution or expenditure, as those terms are defined in section 431 of this title, and also includes any direct or indirect payment, distribution, loan, advance, deposit, or gift of money, or any services, or anything of value (except a loan of money by a national or State bank made in accordance with the applicable banking laws and regulations and in the ordinary course of business) to any candidate, campaign committee, or political party or organization, in connection with any election to any of the offices referred to in this section or for any applicable electioneering communication, but shall not include (A) communications by a corporation to its stockholders and executive or administrative personnel and their families or by a labor organization to its members and their families on any subject; (B) nonpartisan registration and get-out-the-vote campaigns by a corporation aimed at its stockholders and executive or administrative personnel and their families, or by a labor organization aimed at its members and their families; and (C) the establishment, administration, and solicitation of contributions to a separate segregated fund to be utilized for political purposes by a corporation, labor organization, membership organization, cooperative, or corporation without capital stock.
 
 (3) It shall be unlawful—
 
@@ -34,17 +34,17 @@ It is unlawful for any national bank, or any corporation organized by authority 
 
 (6) Any corporation, including its subsidiaries, branches, divisions, and affiliates, that utilizes a method of soliciting voluntary contributions or facilitating the making of voluntary contributions, shall make available such method, on written request and at a cost sufficient only to reimburse the corporation for the expenses incurred thereby, to a labor organization representing any members working for such corporation, its subsidiaries, branches, divisions, and affiliates.
 
-(7) For purposes of this section, the term “executive or administrative personnel” means individuals employed by a corporation who are paid on a salary, rather than hourly, basis and who have policymaking, managerial, professional, or supervisory responsibilities.
+(7) For purposes of this section, the term "executive or administrative personnel" means individuals employed by a corporation who are paid on a salary, rather than hourly, basis and who have policymaking, managerial, professional, or supervisory responsibilities.
 
 #### (c) Rules relating to electioneering communications ####
 
 #### (1) Applicable electioneering communication ####
 
-For purposes of this section, the term “applicable electioneering communication” means an electioneering communication (within the meaning of section 434(f)(3) of this title) which is made by any entity described in subsection (a) of this section or by any other person using funds donated by an entity described in subsection (a) of this section.
+For purposes of this section, the term "applicable electioneering communication" means an electioneering communication (within the meaning of section 434(f)(3) of this title) which is made by any entity described in subsection (a) of this section or by any other person using funds donated by an entity described in subsection (a) of this section.
 
 #### (2) Exception ####
 
-Notwithstanding paragraph (1), the term “applicable electioneering communication” does not include a communication by a section 501(c)(4) organization or a political organization (as defined in section 527(e)(1) of title 26) made under section 434(f)(2)(E) or (F) of this title if the communication is paid for exclusively by funds provided directly by individuals who are United States citizens or nationals or lawfully admitted for permanent residence (as defined in section 1101(a)(20) of title 8). For purposes of the preceding sentence, the term “provided directly by individuals” does not include funds the source of which is an entity described in subsection (a) of this section.
+Notwithstanding paragraph (1), the term "applicable electioneering communication" does not include a communication by a section 501(c)(4) organization or a political organization (as defined in section 527(e)(1) of title 26) made under section 434(f)(2)(E) or (F) of this title if the communication is paid for exclusively by funds provided directly by individuals who are United States citizens or nationals or lawfully admitted for permanent residence (as defined in section 1101(a)(20) of title 8). For purposes of the preceding sentence, the term "provided directly by individuals" does not include funds the source of which is an entity described in subsection (a) of this section.
 
 #### (3) Special operating rules ####
 
@@ -60,7 +60,7 @@ A section 501(c)(4) organization that derives amounts from business activities o
 
 For purposes of this subsection—
 
-(A) the term “section 501(c)(4) organization” means—
+(A) the term "section 501(c)(4) organization" means—
 
 (i) an organization described in section 501(c)(4) of title 26 and exempt from taxation under section 501(a) of such title; or
 
@@ -80,11 +80,11 @@ Paragraph (2) shall not apply in the case of a targeted communication that is ma
 
 #### (B) Targeted communication ####
 
-For purposes of subparagraph (A), the term “targeted communication” means an electioneering communication (as defined in section 434(f)(3) of this title) that is distributed from a television or radio broadcast station or provider of cable or satellite television service and, in the case of a communication which refers to a candidate for an office other than President or Vice President, is targeted to the relevant electorate.
+For purposes of subparagraph (A), the term "targeted communication" means an electioneering communication (as defined in section 434(f)(3) of this title) that is distributed from a television or radio broadcast station or provider of cable or satellite television service and, in the case of a communication which refers to a candidate for an office other than President or Vice President, is targeted to the relevant electorate.
 
 #### (C) Definition ####
 
-For purposes of this paragraph, a communication is “targeted to the relevant electorate” if it meets the requirements described in section 434(f)(3)(C) of this title.
+For purposes of this paragraph, a communication is "targeted to the relevant electorate" if it meets the requirements described in section 434(f)(3)(C) of this title.
 
 (Pub. L. 92–225, title III, §316, formerly §321, as added Pub. L. 94–283, title I, §112(2), May 11, 1976, 90 Stat. 490; renumbered §316 and amended Pub. L. 96–187, title I, §§105(5), 112(d), Jan. 8, 1980, 93 Stat. 1354, 1366; Pub. L. 107–155, title II, §§203, 204, 214(d), Mar. 27, 2002, 116 Stat. 91, 92, 95.)
 
@@ -104,13 +104,13 @@ Another prior section 316 of Pub. L. 92–225 was renumbered section 311, and is
 
 #### Amendments ####
 
-**2002**—Subsec. (b)(2). Pub. L. 107–155, §§203(a), 214(d), substituted “ ‘contribution or expenditure’ includes a contribution or expenditure, as those terms are defined in section 431 of this title, and also includes” for “ ‘contribution or expenditure’ shall include” and inserted “or for any applicable electioneering communication” before “, but shall not include (A)”.
+**2002**—Subsec. (b)(2). Pub. L. 107–155, §§203(a), 214(d), substituted " 'contribution or expenditure' includes a contribution or expenditure, as those terms are defined in section 431 of this title, and also includes" for " 'contribution or expenditure' shall include" and inserted "or for any applicable electioneering communication" before ", but shall not include (A)".
 
 Subsec. (c). Pub. L. 107–155, §203(b), added subsec. (c).
 
 Subsec. (c)(6). Pub. L. 107–155, §204, added par. (6).
 
-**1980**—Subsec. (b)(4)(B). Pub. L. 96–187, §112(d), substituted “It” for “it”.
+**1980**—Subsec. (b)(4)(B). Pub. L. 96–187, §112(d), substituted "It" for "it".
 
 #### Effective Date of 2002 Amendment ####
 

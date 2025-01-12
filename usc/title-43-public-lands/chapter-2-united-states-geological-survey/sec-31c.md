@@ -160,75 +160,75 @@ The Federal share of the cost of activities under the education component for an
 
 #### Amendments ####
 
-**2009**—Subsec. (b)(1)(A). Pub. L. 111–11, §11001(c)(1), substituted “not later than 1 year after March 30, 2009;” for “not later than 1 year after December 9, 1999;”.
+**2009**—Subsec. (b)(1)(A). Pub. L. 111–11, §11001(c)(1), substituted "not later than 1 year after March 30, 2009;" for "not later than 1 year after December 9, 1999;".
 
-Subsec. (b)(1)(B). Pub. L. 111–11, §11001(c)(2), substituted “not later than 1 year after March 30, 2009, in accordance” for “not later than 1 year after December 9, 1999, in accordance”.
+Subsec. (b)(1)(B). Pub. L. 111–11, §11001(c)(2), substituted "not later than 1 year after March 30, 2009, in accordance" for "not later than 1 year after December 9, 1999, in accordance".
 
-Subsec. (b)(1)(C). Pub. L. 111–11, §11001(c)(3), substituted “submit biennially” for “not later than 3 years after December 9, 1999, and biennially thereafter, submit” in introductory provisions.
+Subsec. (b)(1)(C). Pub. L. 111–11, §11001(c)(3), substituted "submit biennially" for "not later than 3 years after December 9, 1999, and biennially thereafter, submit" in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 111–11, §11001(d), struck out “geophysical-map data base, geochemical-map data base, and a” after “national” and substituted “provides” for “provide”.
+Subsec. (c)(2). Pub. L. 111–11, §11001(d), struck out "geophysical-map data base, geochemical-map data base, and a" after "national" and substituted "provides" for "provide".
 
 Subsec. (d)(1)(B)(ii)(III). Pub. L. 111–11, §11001(e), added subcl. (III).
 
-**1999**—Subsec. (b)(1). Pub. L. 106–148, §4(1)(A), substituted “national priorities and standards for” for “priorities” in first sentence.
+**1999**—Subsec. (b)(1). Pub. L. 106–148, §4(1)(A), substituted "national priorities and standards for" for "priorities" in first sentence.
 
-Subsec. (b)(1)(A). Pub. L. 106–148, §4(1)(B), substituted “develop a 5-year strategic plan for the geologic mapping program” for “develop a geologic mapping program implementation plan” and “not later than 1 year after December 9, 1999” for “within 300 days after August 5, 1997”.
+Subsec. (b)(1)(A). Pub. L. 106–148, §4(1)(B), substituted "develop a 5-year strategic plan for the geologic mapping program" for "develop a geologic mapping program implementation plan" and "not later than 1 year after December 9, 1999" for "within 300 days after August 5, 1997".
 
-Subsec. (b)(1)(B). Pub. L. 106–148, §4(1)(C), substituted “not later than 1 year after December 9, 1999,” for “within 90 days after August 5, 1997,”.
+Subsec. (b)(1)(B). Pub. L. 106–148, §4(1)(C), substituted "not later than 1 year after December 9, 1999," for "within 90 days after August 5, 1997,".
 
-Subsec. (b)(1)(C). Pub. L. 106–148, §4(1)(D)(i), substituted “not later than 3 years after December 9, 1999, and biennially thereafter” for “within 210 days after August 5, 1997” in introductory provisions.
+Subsec. (b)(1)(C). Pub. L. 106–148, §4(1)(D)(i), substituted "not later than 3 years after December 9, 1999, and biennially thereafter" for "within 210 days after August 5, 1997" in introductory provisions.
 
-Subsec. (b)(1)(C)(i). Pub. L. 106–148, §4(1)(D)(ii), substituted “are coordinating” for “will coordinate”.
+Subsec. (b)(1)(C)(i). Pub. L. 106–148, §4(1)(D)(ii), substituted "are coordinating" for "will coordinate".
 
-Subsec. (b)(1)(C)(ii). Pub. L. 106–148, §4(1)(D)(iii), substituted “establish” for “will establish”.
+Subsec. (b)(1)(C)(ii). Pub. L. 106–148, §4(1)(D)(iii), substituted "establish" for "will establish".
 
-Subsec. (b)(1)(C)(iii). Pub. L. 106–148, §4(1)(D)(iv), substituted “affect” for “will lead to”.
+Subsec. (b)(1)(C)(iii). Pub. L. 106–148, §4(1)(D)(iv), substituted "affect" for "will lead to".
 
 Subsec. (d). Pub. L. 106–148, §4(2), added subsec. (d) and struck out former subsec. (d) which set out the Federal, support, State, and education components of the geological mapping program.
 
-**1997**—Subsec. (a). Pub. L. 105–36, §3(b)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There is established in the United States Geological Survey a National Cooperative Geologic Mapping Program. The geologic mapping program shall be developed in consultation with the advisory committee and shall be designed and administered to achieve the objectives set forth in subsection (c) of this section.”
+**1997**—Subsec. (a). Pub. L. 105–36, §3(b)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "There is established in the United States Geological Survey a National Cooperative Geologic Mapping Program. The geologic mapping program shall be developed in consultation with the advisory committee and shall be designed and administered to achieve the objectives set forth in subsection (c) of this section."
 
-Subsec. (b). Pub. L. 105–36, §3(b)(2)(A), (D), substituted “the Survey” for “USGS” in heading and realigned text margins.
+Subsec. (b). Pub. L. 105–36, §3(b)(2)(A), (D), substituted "the Survey" for "USGS" in heading and realigned text margins.
 
 Subsec. (b)(1). Pub. L. 105–36, §3(b)(2)(B)(i), (ii), inserted heading and realigned margins.
 
-Subsec. (b)(1)(A). Pub. L. 105–36, §3(b)(2)(B)(iii), substituted “Committee on Resources” for “Committee on Natural Resources” and “August 5, 1997” for “May 18, 1992”.
+Subsec. (b)(1)(A). Pub. L. 105–36, §3(b)(2)(B)(iii), substituted "Committee on Resources" for "Committee on Natural Resources" and "August 5, 1997" for "May 18, 1992".
 
-Subsec. (b)(1)(B). Pub. L. 105–36, §3(b)(2)(B)(iv), substituted “Association” for “State geological surveys” and “August 5, 1997” for “May 18, 1992”.
+Subsec. (b)(1)(B). Pub. L. 105–36, §3(b)(2)(B)(iv), substituted "Association" for "State geological surveys" and "August 5, 1997" for "May 18, 1992".
 
-Subsec. (b)(1)(C). Pub. L. 105–36, §3(b)(2)(B)(v)(I), (II), in introductory provisions, substituted “August 5, 1997” for “May 18, 1992” and “Committee on Resources” for “Committee on Natural Resources”.
+Subsec. (b)(1)(C). Pub. L. 105–36, §3(b)(2)(B)(v)(I), (II), in introductory provisions, substituted "August 5, 1997" for "May 18, 1992" and "Committee on Resources" for "Committee on Natural Resources".
 
-Subsec. (b)(1)(C)(i). Pub. L. 105–36, §3(b)(2)(B)(v)(III), inserted “and the Association” after “the Survey”.
+Subsec. (b)(1)(C)(i). Pub. L. 105–36, §3(b)(2)(B)(v)(III), inserted "and the Association" after "the Survey".
 
-Subsec. (b)(1)(C)(ii). Pub. L. 105–36, §3(b)(2)(B)(v)(III), (IV), inserted “and the Association” after “the Survey” and “and” after semicolon at end.
+Subsec. (b)(1)(C)(ii). Pub. L. 105–36, §3(b)(2)(B)(v)(III), (IV), inserted "and the Association" after "the Survey" and "and" after semicolon at end.
 
-Subsec. (b)(1)(C)(iii), (iv). Pub. L. 105–36, §3(b)(2)(B)(v)(V), substituted period for “; and” at end of cl. (iii) and struck out cl. (iv) which read as follows: “the degree to which geologic mapping activities traditionally funded by the Survey, including the use of commercially available aerial photography, geodesy, professional land surveying, photogrammetric mapping, cartography, photographic processing, and related services, can be contracted to professional private mapping firms.”
+Subsec. (b)(1)(C)(iii), (iv). Pub. L. 105–36, §3(b)(2)(B)(v)(V), substituted period for "; and" at end of cl. (iii) and struck out cl. (iv) which read as follows: "the degree to which geologic mapping activities traditionally funded by the Survey, including the use of commercially available aerial photography, geodesy, professional land surveying, photogrammetric mapping, cartography, photographic processing, and related services, can be contracted to professional private mapping firms."
 
 Subsec. (b)(2). Pub. L. 105–36, §3(b)(2)(C)(i), inserted heading.
 
-Subsec. (b)(2)(A). Pub. L. 105–36, §3(b)(2)(C)(ii), substituted “Association” for “State geological surveys”.
+Subsec. (b)(2)(A). Pub. L. 105–36, §3(b)(2)(C)(ii), substituted "Association" for "State geological surveys".
 
-Subsec. (c)(2). Pub. L. 105–36, §3(b)(3)(A), substituted “interpretative information” for “interpretive information”.
+Subsec. (c)(2). Pub. L. 105–36, §3(b)(3)(A), substituted "interpretative information" for "interpretive information".
 
-Subsec. (c)(4). Pub. L. 105–36, §3(b)(3)(B), substituted “public awareness of” for “public awareness for”.
+Subsec. (c)(4). Pub. L. 105–36, §3(b)(3)(B), substituted "public awareness of" for "public awareness for".
 
 Subsec. (d)(1). Pub. L. 105–36, §3(b)(4)(A), inserted heading.
 
 Subsec. (d)(2). Pub. L. 105–36, §3(b)(4)(B)(i), inserted heading.
 
-Subsec. (d)(2)(D). Pub. L. 105–36, §3(b)(4)(B)(ii), added subpar. (D) and struck out former subpar. (D) which read as follows: “geochronologic and isotopic investigations that (i) provide radiometric age dates for geologic-map units and (ii) fingerprint the geothermometry, geobarometry, and alteration history of geologic-map units, which investigations shall be contributed to a national geochronologic data base;”.
+Subsec. (d)(2)(D). Pub. L. 105–36, §3(b)(4)(B)(ii), added subpar. (D) and struck out former subpar. (D) which read as follows: "geochronologic and isotopic investigations that (i) provide radiometric age dates for geologic-map units and (ii) fingerprint the geothermometry, geobarometry, and alteration history of geologic-map units, which investigations shall be contributed to a national geochronologic data base;".
 
 Subsec. (d)(3). Pub. L. 105–36, §3(b)(4)(C), inserted heading.
 
-Subsec. (d)(4). Pub. L. 105–36, §3(b)(4)(D), added par. (4) and struck out former par. (4) which read as follows: “A geologic mapping education component, whose objective shall be—
+Subsec. (d)(4). Pub. L. 105–36, §3(b)(4)(D), added par. (4) and struck out former par. (4) which read as follows: "A geologic mapping education component, whose objective shall be—
 
-“(A) to develop the academic programs that teach earth-science students the fundamental principles of geologic mapping and field analysis; and
+"(A) to develop the academic programs that teach earth-science students the fundamental principles of geologic mapping and field analysis; and
 
-“(B) to provide for broad education in geologic mapping and field analysis through support of field teaching institutes.
+"(B) to provide for broad education in geologic mapping and field analysis through support of field teaching institutes.
 
-Investigations conducted under the geologic mapping education component shall be integrated with the other mapping components of the geologic mapping program, and shall respond to priorities identified for those components.”
+Investigations conducted under the geologic mapping education component shall be integrated with the other mapping components of the geologic mapping program, and shall respond to priorities identified for those components."
 
-**1994**—Subsec. (b)(1)(A), (C). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House”.
+**1994**—Subsec. (b)(1)(A), (C). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" before "of the House".
 
 #### Change of Name ####
 

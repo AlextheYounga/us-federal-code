@@ -804,7 +804,7 @@ Sec.
 
 282b. Electronic coding of grants and activities.
 
-282c. Public access to funded investigators’ final manuscripts.
+282c. Public access to funded investigators' final manuscripts.
 
 282d. Transferred.
 
@@ -2118,7 +2118,7 @@ Sec.
 
 300e–8. Authorization of appropriations.
 
-300e–9. Employees’ health benefits plans.
+300e–9. Employees' health benefits plans.
 
 300e–10. Restrictive State laws and practices.
 

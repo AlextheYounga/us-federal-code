@@ -6,7 +6,7 @@ The Federal Election Commission shall maintain a central site on the Internet to
 
 #### (b) Election-related report ####
 
-In this section, the term “election-related report” means any report, designation, or statement required to be filed under the Federal Election Campaign Act of 1971.
+In this section, the term "election-related report" means any report, designation, or statement required to be filed under the Federal Election Campaign Act of 1971.
 
 #### (c) Coordination with other agencies ####
 

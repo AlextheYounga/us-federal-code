@@ -26,18 +26,18 @@ Before making a determination under this subsection, the Secretary of Transporta
 
 #### Findings ####
 
-Pub. L. 106–32, §1, June 1, 1999, 113 Stat. 115, provided that: “The Congress finds the following:
+Pub. L. 106–32, §1, June 1, 1999, 113 Stat. 115, provided that: "The Congress finds the following:
 
-“(1) The canal known as the James River and Kanawha Canal played an important part in the economic development of the Commonwealth of Virginia and the City of Richmond.
+"(1) The canal known as the James River and Kanawha Canal played an important part in the economic development of the Commonwealth of Virginia and the City of Richmond.
 
-“(2) The canal ceased to operate as a functioning waterway in the conduct of commerce in the late 1800s.
+"(2) The canal ceased to operate as a functioning waterway in the conduct of commerce in the late 1800s.
 
-“(3) Portions of the canal have been found by a Federal district court to be nonnavigable.
+"(3) Portions of the canal have been found by a Federal district court to be nonnavigable.
 
-“(4) The restored portion of the canal will be utilized to provide entertainment and education to visitors and will play an important part in the economic development of downtown Richmond.
+"(4) The restored portion of the canal will be utilized to provide entertainment and education to visitors and will play an important part in the economic development of downtown Richmond.
 
-“(5) The restored portion of the canal will not be utilized for general public boating, and will be restricted to activities similar to those conducted on similar waters in San Antonio, Texas.
+"(5) The restored portion of the canal will not be utilized for general public boating, and will be restricted to activities similar to those conducted on similar waters in San Antonio, Texas.
 
-“(6) The continued classification of the canal as a navigable waterway based upon historic usage that ceased more than 100 years ago does not serve the public interest and is unnecessary to protect public safety.
+"(6) The continued classification of the canal as a navigable waterway based upon historic usage that ceased more than 100 years ago does not serve the public interest and is unnecessary to protect public safety.
 
-“(7) Congressional action is required to clarify that the canal is no longer to be considered a navigable waterway for purposes of subtitle II of title 46, United States Code.”
+"(7) Congressional action is required to clarify that the canal is no longer to be considered a navigable waterway for purposes of subtitle II of title 46, United States Code."

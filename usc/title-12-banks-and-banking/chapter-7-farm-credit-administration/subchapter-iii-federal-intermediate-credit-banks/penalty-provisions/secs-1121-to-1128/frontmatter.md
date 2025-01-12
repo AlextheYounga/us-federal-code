@@ -14,4 +14,4 @@ Section 1126, act July 17, 1916, ch. 245, title II, §211(f), as added Mar. 4, 1
 
 Section 1127, act July 17, 1916, ch. 245, title II, §211(g), as added Mar. 4, 1923, ch. 252, title I, §2, 42 Stat. 1459, related to false representations as to debentures, etc., of banks. See section 1013 of Title 18.
 
-Section 1128, act July 17, 1916, ch. 245, title II, §211(h), as added Mar. 4, 1923, ch. 252, title I, §2, 42 Stat. 1459, related to use of words “Federal intermediate credit bank”. See section 709 of Title 18.
+Section 1128, act July 17, 1916, ch. 245, title II, §211(h), as added Mar. 4, 1923, ch. 252, title I, §2, 42 Stat. 1459, related to use of words "Federal intermediate credit bank". See section 709 of Title 18.

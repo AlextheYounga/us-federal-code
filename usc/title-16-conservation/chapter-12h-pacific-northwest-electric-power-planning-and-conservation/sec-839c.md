@@ -24,7 +24,7 @@ In determining the resources which are used to serve a firm load, for purposes o
 
 (6) Contracts executed in accordance with this subsection with public body, cooperative, and Federal agency customers shall—
 
-(A) provide that the restriction referred to in paragraph (5) shall not be applicable to any such customers until the operating year in which the total of such customers’ firm loads to be served by the Administrator equals or exceeds the firm capability of the Federal base system resources;
+(A) provide that the restriction referred to in paragraph (5) shall not be applicable to any such customers until the operating year in which the total of such customers' firm loads to be served by the Administrator equals or exceeds the firm capability of the Federal base system resources;
 
 (B) not permit restrictions which would reduce the total contractual entitlement of such customers to an amount less than the firm capability of the Federal base system resources; and
 
@@ -34,7 +34,7 @@ The formula referred to in subparagraph (C) shall obligate the Administrator to 
 
 (7) Required sale.—
 
-(A) Definition of a joint operating entity.—In this section, the term “joint operating entity” means an entity that is lawfully organized under State law as a public body or cooperative prior to September 22, 2000, and is formed by and whose members or participants are two or more public bodies or cooperatives, each of which was a customer of the Bonneville Power Administration on or before January 1, 1999.
+(A) Definition of a joint operating entity.—In this section, the term "joint operating entity" means an entity that is lawfully organized under State law as a public body or cooperative prior to September 22, 2000, and is formed by and whose members or participants are two or more public bodies or cooperatives, each of which was a customer of the Bonneville Power Administration on or before January 1, 1999.
 
 (B) Sale.—Pursuant to paragraph (1), the Administrator shall sell, at wholesale to a joint operating entity, electric power solely for the purpose of meeting the regional firm power consumer loads of regional public bodies and cooperatives that are members of or participants in the joint operating entity.
 
@@ -54,7 +54,7 @@ The formula referred to in subparagraph (C) shall obligate the Administrator to 
 
 (6) Exchange sales to a utility pursuant to this subsection shall not be restricted below the amounts of electric power acquired by the Administrator from, or on behalf of, such utility pursuant to this subsection.
 
-(7) The “average system cost” for electric power sold to the Administrator under this subsection shall be determined by the Administrator on the basis of a methodology developed for this purpose in consultation with the Council, the Administrator's customers, and appropriate State regulatory bodies in the region. Such methodology shall be subject to review and approval by the Federal Energy Regulatory Commission. Such average system cost shall not include—
+(7) The "average system cost" for electric power sold to the Administrator under this subsection shall be determined by the Administrator on the basis of a methodology developed for this purpose in consultation with the Council, the Administrator's customers, and appropriate State regulatory bodies in the region. Such methodology shall be subject to review and approval by the Federal Energy Regulatory Commission. Such average system cost shall not include—
 
 (A) the cost of additional resources in an amount sufficient to serve any new large single load of the utility;
 
@@ -66,7 +66,7 @@ The formula referred to in subparagraph (C) shall obligate the Administrator to 
 
 (1)(A) The Administrator is authorized to sell in accordance with this subsection electric power to existing direct service industrial customers. Such sales shall provide a portion of the Administrator's reserves for firm power loads within the region.
 
-(B) After December 5, 1980, the Administrator shall offer in accordance with subsection (g) of this section to each existing direct service industrial customer an initial long term contract that provides such customer an amount of power equivalent to that to which such customer is entitled under its contract dated January or April 1975 providing for the sale of “industrial firm power.”
+(B) After December 5, 1980, the Administrator shall offer in accordance with subsection (g) of this section to each existing direct service industrial customer an initial long term contract that provides such customer an amount of power equivalent to that to which such customer is entitled under its contract dated January or April 1975 providing for the sale of "industrial firm power."
 
 (2) The Administrator shall not sell electric power, including reserves, directly to new direct service industrial customers.
 
@@ -82,9 +82,9 @@ The formula referred to in subparagraph (C) shall obligate the Administrator to 
 
 unless the Council has determined such sale is consistent with the plan. After such determination by the Administrator and by the Council, the Administrator is authorized to offer to existing direct service industrial customers power in such amounts in excess of the amount permitted under paragraph (1) of this subsection as the Administrator determines to be necessary to provide additional power system reserves to meet the region's firm loads.
 
-(4)(A) As used in this section, the term “existing direct service industrial customer” means any direct service industrial customer of the Administrator which has a contract for the purchase of electric power from the Administrator on December 5, 1980.
+(4)(A) As used in this section, the term "existing direct service industrial customer" means any direct service industrial customer of the Administrator which has a contract for the purchase of electric power from the Administrator on December 5, 1980.
 
-(B) The term “new direct service industrial customer” means any industrial entity other than an existing direct service industrial customer.
+(B) The term "new direct service industrial customer" means any industrial entity other than an existing direct service industrial customer.
 
 (C)(i) Where a new contract is offered in accordance with subsection (g) of this section to any existing direct service industrial customer which has not received electric power prior to December 5, 1980, from the Administrator pursuant to a contract with the Administrator existing on December 5, 1980, electric power delivered under such new contract shall be conditioned on the Administrator reasonably acquiring, in accordance with this chapter and within such estimated period of time (as specified in the contract) as he deems reasonable, sufficient resources to meet, on a planning basis, the load requirement of such customer. Such contract shall also provide that the obligation of the Administrator to acquire such resources to meet such load requirement shall, except as provided in clause (ii) of this subparagraph, apply only to such customer and shall not be sold or exchanged by such customer to any other person.
 

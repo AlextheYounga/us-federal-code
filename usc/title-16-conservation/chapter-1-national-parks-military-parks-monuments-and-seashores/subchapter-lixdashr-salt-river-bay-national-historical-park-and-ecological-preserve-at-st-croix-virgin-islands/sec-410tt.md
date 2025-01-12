@@ -22,6 +22,6 @@ The Congress finds that the Salt River Bay area of the north central coast of St
 
 #### Short Title ####
 
-Pub. L. 102–247, §1, Feb. 24, 1992, 106 Stat. 33, provided that: “This Act [enacting this subchapter, sections 5204 to 5204c of Title 42, The Public Health and Welfare, and sections 1469e and 1973 of Title 48, Territories and Insular Possessions, amending section 5122 of Title 42 and section 1903 of Title 48, enacting provisions set out as a note under this section, and amending provisions set out as a note under section 301 of Title 7, Agriculture] may be cited as the ‘Omnibus Insular Areas Act of 1992’.”
+Pub. L. 102–247, §1, Feb. 24, 1992, 106 Stat. 33, provided that: "This Act [enacting this subchapter, sections 5204 to 5204c of Title 42, The Public Health and Welfare, and sections 1469e and 1973 of Title 48, Territories and Insular Possessions, amending section 5122 of Title 42 and section 1903 of Title 48, enacting provisions set out as a note under this section, and amending provisions set out as a note under section 301 of Title 7, Agriculture] may be cited as the 'Omnibus Insular Areas Act of 1992'."
 
-Pub. L. 102–247, title I, §101, Feb. 24, 1992, 106 Stat. 33, provided that: “This title [enacting this subchapter] may be cited as the ‘Salt River Bay National Historical Park and Ecological Preserve at St. Croix, Virgin Islands, Act of 1992’.”
+Pub. L. 102–247, title I, §101, Feb. 24, 1992, 106 Stat. 33, provided that: "This title [enacting this subchapter] may be cited as the 'Salt River Bay National Historical Park and Ecological Preserve at St. Croix, Virgin Islands, Act of 1992'."

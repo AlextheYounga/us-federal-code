@@ -4,4 +4,4 @@ Section, acts Dec. 3, 1942, ch. 670, §2, 56 Stat. 1038; Aug. 16, 1954, ch. 738,
 
 #### Effective Date of Repeal ####
 
-Repeal by Pub. L. 85–857 effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as an Effective Date note preceding Part I of Title 38, Veterans’ Benefits.
+Repeal by Pub. L. 85–857 effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as an Effective Date note preceding Part I of Title 38, Veterans' Benefits.

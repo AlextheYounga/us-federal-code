@@ -1,6 +1,6 @@
 ### §90a–1. Lake Chelan National Recreation Area; establishment; statement of purposes; description of area ###
 
-In order to provide for the public outdoor recreation use and enjoyment of portions of the Stehekin River and Lake Chelan, together with the surrounding lands, and for the conservation of the scenic, scientific, historic, and other values contributing to public enjoyment of such lands and waters, there is hereby established, subject to valid existing rights, the Lake Chelan National Recreation Area (hereinafter referred to in this subchapter as the “recreation area”). The recreation area shall consist of the lands and waters within the area designated “Lake Chelan National Recreation Area” on the map referred to in section 90 of this title.
+In order to provide for the public outdoor recreation use and enjoyment of portions of the Stehekin River and Lake Chelan, together with the surrounding lands, and for the conservation of the scenic, scientific, historic, and other values contributing to public enjoyment of such lands and waters, there is hereby established, subject to valid existing rights, the Lake Chelan National Recreation Area (hereinafter referred to in this subchapter as the "recreation area"). The recreation area shall consist of the lands and waters within the area designated "Lake Chelan National Recreation Area" on the map referred to in section 90 of this title.
 
 (Pub. L. 90–544, title II, §202, Oct. 2, 1968, 82 Stat. 927.)
 

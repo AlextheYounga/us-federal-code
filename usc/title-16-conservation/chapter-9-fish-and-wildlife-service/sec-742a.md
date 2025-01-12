@@ -26,22 +26,22 @@ This Act, referred to in text, is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, as 
 
 #### Short Title of 2011 Amendment ####
 
-Pub. L. 111–357, §1, Jan. 4, 2011, 124 Stat. 3979, provided that: “This Act [amending sections 742f and 742f–1 of this title] may be cited as the ‘National Wildlife Refuge Volunteer Improvement Act of 2010’.”
+Pub. L. 111–357, §1, Jan. 4, 2011, 124 Stat. 3979, provided that: "This Act [amending sections 742f and 742f–1 of this title] may be cited as the 'National Wildlife Refuge Volunteer Improvement Act of 2010'."
 
 #### Short Title of 2004 Amendment ####
 
-Pub. L. 108–327, §1, Oct. 16, 2004, 118 Stat. 1271, provided that: “This Act [amending sections 742f and 742f–1 of this title] may be cited as the ‘National Wildlife Refuge Volunteer Act of 2004’.”
+Pub. L. 108–327, §1, Oct. 16, 2004, 118 Stat. 1271, provided that: "This Act [amending sections 742f and 742f–1 of this title] may be cited as the 'National Wildlife Refuge Volunteer Act of 2004'."
 
 #### Short Title of 1998 Amendments ####
 
-Pub. L. 105–328, §1, Oct. 30, 1998, 112 Stat. 3057, provided that: “This Act [amending section 742l of this title and enacting provisions set out as a note under section 742l of this title] may be cited as the ‘Fish and Wildlife Revenue Enhancement Act of 1998’.”
+Pub. L. 105–328, §1, Oct. 30, 1998, 112 Stat. 3057, provided that: "This Act [amending section 742l of this title and enacting provisions set out as a note under section 742l of this title] may be cited as the 'Fish and Wildlife Revenue Enhancement Act of 1998'."
 
-Pub. L. 105–242, §1, Oct. 5, 1998, 112 Stat. 1574, provided that: “This Act [amending section 742f of this title and enacting provisions set out as notes under section 742f of this title] may be cited as the ‘National Wildlife Refuge System Volunteer and Community Partnership Enhancement Act of 1998’.”
+Pub. L. 105–242, §1, Oct. 5, 1998, 112 Stat. 1574, provided that: "This Act [amending section 742f of this title and enacting provisions set out as notes under section 742f of this title] may be cited as the 'National Wildlife Refuge System Volunteer and Community Partnership Enhancement Act of 1998'."
 
 #### Short Title of 1978 Amendment ####
 
-Pub. L. 95–616, §1, Nov. 8, 1978, 92 Stat. 3110, provided: “That this Act [enacting sections 695j–1, 712, 742l of this title and amending sections 460k–3, 666g, 668a, 668dd, 690e, 695i, 706, 715d, 715i, 715j, 718b, 718c, 718f, 742f, 753a of this title and sections 1114, 3112 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Fish and Wildlife Improvement Act of 1978’.”
+Pub. L. 95–616, §1, Nov. 8, 1978, 92 Stat. 3110, provided: "That this Act [enacting sections 695j–1, 712, 742l of this title and amending sections 460k–3, 666g, 668a, 668dd, 690e, 695i, 706, 715d, 715i, 715j, 718b, 718c, 718f, 742f, 753a of this title and sections 1114, 3112 of Title 18, Crimes and Criminal Procedure] may be cited as the 'Fish and Wildlife Improvement Act of 1978'."
 
 #### Short Title ####
 
-Act Aug. 8, 1956, ch. 1036, §1, 70 Stat. 1119, provided: “This Act [enacting this section and sections 742b to 742d and 742e to 742j of this title and amending section 713c–3 of Title 15, Commerce and Trade] may be cited as the ‘Fish and Wildlife Act of 1956’.”
+Act Aug. 8, 1956, ch. 1036, §1, 70 Stat. 1119, provided: "This Act [enacting this section and sections 742b to 742d and 742e to 742j of this title and amending section 713c–3 of Title 15, Commerce and Trade] may be cited as the 'Fish and Wildlife Act of 1956'."

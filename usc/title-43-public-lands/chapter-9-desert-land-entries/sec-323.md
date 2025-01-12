@@ -10,7 +10,7 @@ Section is from the first clause of section 3 of act Mar. 3, 1877, and the first
 
 The second clauses of section 3 and 8 of act Mar. 3, 1877, are incorporated in the second paragraph of section 322 and section 325 of this title, respectively.
 
-The first clause of section 3 of act Mar. 3, 1877, provided that “this act shall only apply to and take effect in the States of California, Oregon and Nevada, and the Territories of Washington, Idaho, Montana, Utah, Wyoming, Arizona, New Mexico and Dakota”.
+The first clause of section 3 of act Mar. 3, 1877, provided that "this act shall only apply to and take effect in the States of California, Oregon and Nevada, and the Territories of Washington, Idaho, Montana, Utah, Wyoming, Arizona, New Mexico and Dakota".
 
 The first clause of section 8 of act Mar. 3, 1877, as added by act Mar. 3, 1891, provided for the inclusion of Colorado.
 

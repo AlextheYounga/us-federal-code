@@ -18,10 +18,10 @@ No funds authorized to be appropriated pursuant to this section shall be availab
 
 #### Change of Name ####
 
-Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
+Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977.
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
 #### Authorization of Appropriations for Additional Land Acquisition ####
 
-Pub. L. 102–202, §1, Dec. 10, 1991, 105 Stat. 1634, provided that: “There are authorized to be appropriated up to $20,000,000 for acqusition [sic] of lands and interests in lands for purposes of the Monocacy National Battlefield, Maryland; such sums shall be in addition to other funds available for such purposes.”
+Pub. L. 102–202, §1, Dec. 10, 1991, 105 Stat. 1634, provided that: "There are authorized to be appropriated up to $20,000,000 for acqusition [sic] of lands and interests in lands for purposes of the Monocacy National Battlefield, Maryland; such sums shall be in addition to other funds available for such purposes."

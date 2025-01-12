@@ -2,7 +2,7 @@
 
 #### (a) Qualified forestry conservation bond ####
 
-For purposes of this subchapter, the term “qualified forestry conservation bond” means any bond issued as part of an issue if—
+For purposes of this subchapter, the term "qualified forestry conservation bond" means any bond issued as part of an issue if—
 
 (1) 100 percent of the available project proceeds of such issue are to be used for one or more qualified forestry conservation purposes,
 
@@ -30,7 +30,7 @@ The Secretary shall solicit applications for allocations of the national qualifi
 
 #### (e) Qualified forestry conservation purpose ####
 
-For purposes of this section, the term “qualified forestry conservation purpose” means the acquisition by a State or any political subdivision or instrumentality thereof or a 501(c)(3) organization (as defined in section 150(a)(4)) from an unrelated person of forest and forest land that meets the following qualifications:
+For purposes of this section, the term "qualified forestry conservation purpose" means the acquisition by a State or any political subdivision or instrumentality thereof or a 501(c)(3) organization (as defined in section 150(a)(4)) from an unrelated person of forest and forest land that meets the following qualifications:
 
 (1) Some portion of the land acquired must be adjacent to United States Forest Service Land.
 
@@ -42,7 +42,7 @@ For purposes of this section, the term “qualified forestry conservation purpos
 
 #### (f) Qualified issuer ####
 
-For purposes of this section, the term “qualified issuer” means a State or any political subdivision or instrumentality thereof or a 501(c)(3) organization (as defined in section 150(a)(4)).
+For purposes of this section, the term "qualified issuer" means a State or any political subdivision or instrumentality thereof or a 501(c)(3) organization (as defined in section 150(a)(4)).
 
 #### (g) Special arbitrage rule ####
 

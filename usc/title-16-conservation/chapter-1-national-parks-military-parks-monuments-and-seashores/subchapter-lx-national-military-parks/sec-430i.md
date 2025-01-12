@@ -16,4 +16,4 @@ National Park Service substituted for Office of National Parks, Buildings, and R
 
 #### Abolition of Commission ####
 
-Act Oct. 9, 1942, ch. 583, 56 Stat. 778, provided: “That the Guilford Courthouse National Military Park Commission, established pursuant to the Act of March 2, 1917 (39 Stat. 996; 16 U.S.C. 430i), is abolished effective at the expiration, on October 13, 1941, of the current appointment of the resident commissioner.”
+Act Oct. 9, 1942, ch. 583, 56 Stat. 778, provided: "That the Guilford Courthouse National Military Park Commission, established pursuant to the Act of March 2, 1917 (39 Stat. 996; 16 U.S.C. 430i), is abolished effective at the expiration, on October 13, 1941, of the current appointment of the resident commissioner."

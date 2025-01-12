@@ -22,4 +22,4 @@ Chapter 143 provides implementing legislation for the International Convention o
 
 #### Amendments ####
 
-**2010**—Pub. L. 111–281, title III, §303(e)(3), Oct. 15, 2010, 124 Stat. 2925, substituted “Tonnage Certificate” for “International Tonnage Certificate (1969)” in item 14303.
+**2010**—Pub. L. 111–281, title III, §303(e)(3), Oct. 15, 2010, 124 Stat. 2925, substituted "Tonnage Certificate" for "International Tonnage Certificate (1969)" in item 14303.

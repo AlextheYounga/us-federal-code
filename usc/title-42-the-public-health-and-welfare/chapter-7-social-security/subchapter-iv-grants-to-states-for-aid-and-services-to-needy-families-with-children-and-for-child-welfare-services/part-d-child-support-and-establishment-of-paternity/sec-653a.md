@@ -6,7 +6,7 @@
 
 #### (A) Requirement for States that have no directory ####
 
-Except as provided in subparagraph (B), not later than October 1, 1997, each State shall establish an automated directory (to be known as the “State Directory of New Hires”) which shall contain information supplied in accordance with subsection (b) of this section by employers on each newly hired employee.
+Except as provided in subparagraph (B), not later than October 1, 1997, each State shall establish an automated directory (to be known as the "State Directory of New Hires") which shall contain information supplied in accordance with subsection (b) of this section by employers on each newly hired employee.
 
 #### (B) States with new hire reporting law in existence ####
 
@@ -18,7 +18,7 @@ As used in this section:
 
 #### (A) Employee ####
 
-The term “employee”—
+The term "employee"—
 
 (i) means an individual who is an employee within the meaning of chapter 24 of the Internal Revenue Code of 1986; and
 
@@ -28,15 +28,15 @@ The term “employee”—
 
 #### (i) In general ####
 
-The term “employer” has the meaning given such term in section 3401(d) of the Internal Revenue Code of 1986 and includes any governmental entity and any labor organization.
+The term "employer" has the meaning given such term in section 3401(d) of the Internal Revenue Code of 1986 and includes any governmental entity and any labor organization.
 
 #### (ii) Labor organization ####
 
-The term “labor organization” shall have the meaning given such term in section 152(5) of title 29, and includes any entity (also known as a “hiring hall”) which is used by the organization and an employer to carry out requirements described in section 158(f)(3) of title 29 of an agreement between the organization and the employer.
+The term "labor organization" shall have the meaning given such term in section 152(5) of title 29, and includes any entity (also known as a "hiring hall") which is used by the organization and an employer to carry out requirements described in section 158(f)(3) of title 29 of an agreement between the organization and the employer.
 
 #### (C) Newly hired employee ####
 
-The term “newly hired employee” means an employee who—
+The term "newly hired employee" means an employee who—
 
 (i) has not previously been employed by the employer; or
 
@@ -108,9 +108,9 @@ Within 3 business days after the date information regarding a newly hired employ
 
 The State Directory of New Hires shall, on a quarterly basis, furnish to the National Directory of New Hires information concerning the wages and unemployment compensation paid to individuals, by such dates, in such format, and containing such information as the Secretary of Health and Human Services shall specify in regulations.
 
-#### (3) “Business day” defined ####
+#### (3) "Business day" defined ####
 
-As used in this subsection, the term “business day” means a day on which State offices are open for regular business.
+As used in this subsection, the term "business day" means a day on which State offices are open for regular business.
 
 #### (h) Other uses of new hire information ####
 
@@ -122,9 +122,9 @@ The agency administering the State plan approved under this part shall use infor
 
 A State agency responsible for administering a program specified in section 1320b–7(b) of this title shall have access to information reported by employers pursuant to subsection (b) of this section for purposes of verifying eligibility for the program.
 
-#### (3) Administration of employment security and workers’ compensation ####
+#### (3) Administration of employment security and workers' compensation ####
 
-State agencies operating employment security and workers’ compensation programs shall have access to information reported by employers pursuant to subsection (b) of this section for the purposes of administering such programs.
+State agencies operating employment security and workers' compensation programs shall have access to information reported by employers pursuant to subsection (b) of this section for the purposes of administering such programs.
 
 (Aug. 14, 1935, ch. 531, title IV, §453A, as added Pub. L. 104–193, title III, §313(b), Aug. 22, 1996, 110 Stat. 2209; amended Pub. L. 105–33, title V, §5533, Aug. 5, 1997, 111 Stat. 627; Pub. L. 111–291, title VIII, §802(a), (b), Dec. 8, 2010, 124 Stat. 3157; Pub. L. 112–40, title II, §253(a), Oct. 21, 2011, 125 Stat. 422.)
 
@@ -136,29 +136,29 @@ The Internal Revenue Code of 1986, referred to in subsecs. (a)(2), (b)(1)(A), an
 
 **2011**—Subsec. (a)(2)(C). Pub. L. 112–40 added subpar. (C).
 
-**2010**—Subsec. (b)(1)(A). Pub. L. 111–291, §802(a), inserted “the date services for remuneration were first performed by the employee,” after “of the employee,”.
+**2010**—Subsec. (b)(1)(A). Pub. L. 111–291, §802(a), inserted "the date services for remuneration were first performed by the employee," after "of the employee,".
 
-Subsec. (c). Pub. L. 111–291, §802(b), inserted “, to the extent practicable,” after “Each report required by subsection (b) of this section shall”.
+Subsec. (c). Pub. L. 111–291, §802(b), inserted ", to the extent practicable," after "Each report required by subsection (b) of this section shall".
 
-**1997**—Subsec. (d). Pub. L. 105–33, §5533(1), substituted “shall not exceed” for “shall be less than” in introductory provisions and “$25 per failure to meet the requirements of this section with respect to a newly hired employee” for “$25” in par. (1).
+**1997**—Subsec. (d). Pub. L. 105–33, §5533(1), substituted "shall not exceed" for "shall be less than" in introductory provisions and "$25 per failure to meet the requirements of this section with respect to a newly hired employee" for "$25" in par. (1).
 
-Subsec. (g)(2)(B). Pub. L. 105–33, §5533(2), substituted “information” for “extracts of the reports required under section 503(a)(6) of this title to be made to the Secretary of Labor”.
+Subsec. (g)(2)(B). Pub. L. 105–33, §5533(2), substituted "information" for "extracts of the reports required under section 503(a)(6) of this title to be made to the Secretary of Labor".
 
 #### Effective Date of 2011 Amendment ####
 
 Pub. L. 112–40, title II, §253(b), Oct. 21, 2011, 125 Stat. 422, provided that:
 
-“(1) In general.—Subject to paragraph (2), the amendments made by this section [amending this section] shall take effect 6 months after the date of the enactment of this Act [Oct. 21, 2011].
+"(1) In general.—Subject to paragraph (2), the amendments made by this section [amending this section] shall take effect 6 months after the date of the enactment of this Act [Oct. 21, 2011].
 
-“(2) Compliance transition period.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under part D of title IV of the Social Security Act [42 U.S.C. 651 et seq.] to meet the additional requirement imposed by the amendment made by subsection (a) [amending this section], the plan shall not be regarded as failing to meet such requirement before the first day of the second calendar quarter beginning after the close of the first regular session of the State legislature that begins after the effective date of such amendment. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
+"(2) Compliance transition period.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under part D of title IV of the Social Security Act [42 U.S.C. 651 et seq.] to meet the additional requirement imposed by the amendment made by subsection (a) [amending this section], the plan shall not be regarded as failing to meet such requirement before the first day of the second calendar quarter beginning after the close of the first regular session of the State legislature that begins after the effective date of such amendment. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
 
 #### Effective Date of 2010 Amendment ####
 
 Pub. L. 111–291, title VIII, §802(c), Dec. 8, 2010, 124 Stat. 3157, provided that:
 
-“(1) In general.—Subject to paragraph (2), the amendments made by this section [amending this section] shall take effect 6 months after the date of the enactment of this Act [Dec. 8, 2010].
+"(1) In general.—Subject to paragraph (2), the amendments made by this section [amending this section] shall take effect 6 months after the date of the enactment of this Act [Dec. 8, 2010].
 
-“(2) Compliance transition period.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under part D of title IV of the Social Security Act [42 U.S.C. 651 et seq.] to meet the additional requirements imposed by the amendment made by subsection (a), the plan shall not be regarded as failing to meet such requirements before the first day of the second calendar quarter beginning after the close of the first regular session of the State legislature that begins after the effective date of such amendment. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
+"(2) Compliance transition period.—If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under part D of title IV of the Social Security Act [42 U.S.C. 651 et seq.] to meet the additional requirements imposed by the amendment made by subsection (a), the plan shall not be regarded as failing to meet such requirements before the first day of the second calendar quarter beginning after the close of the first regular session of the State legislature that begins after the effective date of such amendment. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature."
 
 #### Effective Date of 1997 Amendment ####
 

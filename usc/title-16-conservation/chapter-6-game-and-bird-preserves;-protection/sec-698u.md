@@ -36,8 +36,8 @@ The purposes of sections 698u to 698u–7 of this title are—
 
 #### Amendments ####
 
-**2000**—Subsec. (a)(4)(A). Pub. L. 106–176 substituted “to acquire” for “to purchase”.
+**2000**—Subsec. (a)(4)(A). Pub. L. 106–176 substituted "to acquire" for "to purchase".
 
 #### Short Title ####
 
-Pub. L. 104–333, div. I, title X, §1001, Nov. 12, 1996, 110 Stat. 4204, provided that: “This subtitle [subtitle A (§§1001–1009) of title X of div. I of Pub. L. 104–333, enacting this section and sections 698u–1 to 698u–7 of this title] may be cited as the ‘Tallgrass Prairie National Preserve Act of 1996’.”
+Pub. L. 104–333, div. I, title X, §1001, Nov. 12, 1996, 110 Stat. 4204, provided that: "This subtitle [subtitle A (§§1001–1009) of title X of div. I of Pub. L. 104–333, enacting this section and sections 698u–1 to 698u–7 of this title] may be cited as the 'Tallgrass Prairie National Preserve Act of 1996'."

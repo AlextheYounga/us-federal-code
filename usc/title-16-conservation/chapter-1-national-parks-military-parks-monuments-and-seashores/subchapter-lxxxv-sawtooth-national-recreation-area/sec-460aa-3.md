@@ -12,4 +12,4 @@ After publication of such regulations, no privately owned lands shall be acquire
 
 #### Codification ####
 
-In subsec. (a), “subchapter II of chapter 5, and chapter 7, of title 5” was substituted for “the Administrative Procedure Act” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (a), "subchapter II of chapter 5, and chapter 7, of title 5" was substituted for "the Administrative Procedure Act" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.

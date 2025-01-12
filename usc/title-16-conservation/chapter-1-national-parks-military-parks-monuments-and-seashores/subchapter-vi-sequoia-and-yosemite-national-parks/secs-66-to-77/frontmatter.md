@@ -12,7 +12,7 @@ Section 70, act June 2, 1920, ch. 218, §9, 41 Stat. 734, related to arrests for
 
 Section 71, acts June 2, 1920, ch. 218, §10, 41 Stat. 734; Mar. 4, 1940, ch. 40, §2, 54 Stat. 43, related to service of process. See rule 4 of Federal Rules of Criminal Procedure, Title 18, Appendix, and section 3053 of title 18.
 
-Section 72, acts June 2, 1920, ch. 218, §11, 41 Stat. 734; Mar. 4, 1940, ch. 40, §2, 54 Stat. 43, related to commissioners’ salaries. See section 634 of Title 28, Judiciary and Judicial Procedure.
+Section 72, acts June 2, 1920, ch. 218, §11, 41 Stat. 734; Mar. 4, 1940, ch. 40, §2, 54 Stat. 43, related to commissioners' salaries. See section 634 of Title 28, Judiciary and Judicial Procedure.
 
 Section 73, act June 2, 1920, ch. 218, §11, 41 Stat. 734, related to fees and costs.
 

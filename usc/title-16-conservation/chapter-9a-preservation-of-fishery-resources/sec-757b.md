@@ -6,10 +6,10 @@ The Secretary, in accordance with any agreements entered into pursuant to sectio
 
 #### Amendments ####
 
-**1979**—Pub. L. 96–118 substituted “cooperating States or other non-Federal interests” for “United States”.
+**1979**—Pub. L. 96–118 substituted "cooperating States or other non-Federal interests" for "United States".
 
-**1978**—Cl. (5). Pub. L. 95–464 inserted “and Lake Champlain” after “Great Lakes”.
+**1978**—Cl. (5). Pub. L. 95–464 inserted "and Lake Champlain" after "Great Lakes".
 
 **1974**—Cl. (3). Pub. L. 93–362 inserted reference to the control of the sea lamprey.
 
-[<sup>1</sup> So in original. Probably should be “Secretary”.](#757b_1)
+[<sup>1</sup> So in original. Probably should be "Secretary".](#757b_1)

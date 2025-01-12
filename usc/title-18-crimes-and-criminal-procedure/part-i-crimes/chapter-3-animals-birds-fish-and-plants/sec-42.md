@@ -1,8 +1,8 @@
 ### §42. Importation or shipment of injurious mammals, birds, fish (including mollusks and crustacea), amphibia, and reptiles; permits, specimens for museums; regulations ###
 
-(a)(1) The importation into the United States, any territory of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States, or any shipment between the continental United States, the District of Columbia, Hawaii, the Commonwealth of Puerto Rico, or any possession of the United States, of the mongoose of the species Herpestes auropunctatus; of the species of so-called “flying foxes” or fruit bats of the genus Pteropus; of the zebra mussel of the species Dreissena polymorpha; of the bighead carp of the species Hypophthalmichthys nobilis; and such other species of wild mammals, wild birds, fish (including mollusks and crustacea), amphibians, reptiles, brown tree snakes, or the offspring or eggs of any of the foregoing which the Secretary of the Interior may prescribe by regulation to be injurious to human beings, to the interests of agriculture, horticulture, forestry, or to wildlife or the wildlife resources of the United States, is hereby prohibited. All such prohibited mammals, birds, fish (including mollusks and crustacea), amphibians, and reptiles, and the eggs or offspring therefrom, shall be promptly exported or destroyed at the expense of the importer or consignee. Nothing in this section shall be construed to repeal or modify any provision of the Public Health Service Act or Federal Food, Drug, and Cosmetic Act. Also, this section shall not authorize any action with respect to the importation of any plant pest as defined in the Federal Plant Pest Act,<sup><a href="#42_1_target" name="42_1">1</a></sup> insofar as such importation is subject to regulation under that Act.
+(a)(1) The importation into the United States, any territory of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States, or any shipment between the continental United States, the District of Columbia, Hawaii, the Commonwealth of Puerto Rico, or any possession of the United States, of the mongoose of the species Herpestes auropunctatus; of the species of so-called "flying foxes" or fruit bats of the genus Pteropus; of the zebra mussel of the species Dreissena polymorpha; of the bighead carp of the species Hypophthalmichthys nobilis; and such other species of wild mammals, wild birds, fish (including mollusks and crustacea), amphibians, reptiles, brown tree snakes, or the offspring or eggs of any of the foregoing which the Secretary of the Interior may prescribe by regulation to be injurious to human beings, to the interests of agriculture, horticulture, forestry, or to wildlife or the wildlife resources of the United States, is hereby prohibited. All such prohibited mammals, birds, fish (including mollusks and crustacea), amphibians, and reptiles, and the eggs or offspring therefrom, shall be promptly exported or destroyed at the expense of the importer or consignee. Nothing in this section shall be construed to repeal or modify any provision of the Public Health Service Act or Federal Food, Drug, and Cosmetic Act. Also, this section shall not authorize any action with respect to the importation of any plant pest as defined in the Federal Plant Pest Act,<sup><a href="#42_1_target" name="42_1">1</a></sup> insofar as such importation is subject to regulation under that Act.
 
-(2) As used in this subsection, the term “wild” relates to any creatures that, whether or not raised in captivity, normally are found in a wild state; and the terms “wildlife” and “wildlife resources” include those resources that comprise wild mammals, wild birds, fish (including mollusks and crustacea), and all other classes of wild creatures whatsoever, and all types of aquatic and land vegetation upon which such wildlife resources are dependent.
+(2) As used in this subsection, the term "wild" relates to any creatures that, whether or not raised in captivity, normally are found in a wild state; and the terms "wildlife" and "wildlife resources" include those resources that comprise wild mammals, wild birds, fish (including mollusks and crustacea), and all other classes of wild creatures whatsoever, and all types of aquatic and land vegetation upon which such wildlife resources are dependent.
 
 (3) Notwithstanding the foregoing, the Secretary of the Interior, when he finds that there has been a proper showing of responsibility and continued protection of the public interest and health, shall permit the importation for zoological, educational, medical, and scientific purposes of any mammals, birds, fish (including mollusks and crustacea), amphibia, and reptiles, or the offspring or eggs thereof, where such importation would be prohibited otherwise by or pursuant to this Act, and this Act shall not restrict importations by Federal agencies for their own use.
 
@@ -28,9 +28,9 @@ Based on title 18, U.S.C., 1940 ed., §§391, 394 (Mar. 4, 1909, ch. 321, §§24
 
 This section consolidates the provisions of sections 391 and 394 of title 18, U.S.C., 1940 ed., as subsections (a) and (b), respectively.
 
-In subsection (a) the words “Territory or District thereof” were omitted as unnecessary in view of the definition of the United States in section 5 of this title.
+In subsection (a) the words "Territory or District thereof" were omitted as unnecessary in view of the definition of the United States in section 5 of this title.
 
-In subsection (b) the words “upon conviction thereof”, were omitted as surplusage because punishment can only be imposed after conviction.
+In subsection (b) the words "upon conviction thereof", were omitted as surplusage because punishment can only be imposed after conviction.
 
 The amount of the fine was reduced from $1,000 to $500, thus making the violation a petty offense as defined in section 1 of this title. (See also section 41 of this title which provides a similar punishment.)
 
@@ -54,19 +54,19 @@ The enactment of the Lacey Act Amendments of 1981, referred to in subsec. (c), m
 
 #### Amendments ####
 
-**2010**—Subsec. (a)(1). Pub. L. 111–307 inserted “of the bighead carp of the species Hypophthalmichthys nobilis;” after “Dreissena polymorpha;”.
+**2010**—Subsec. (a)(1). Pub. L. 111–307 inserted "of the bighead carp of the species Hypophthalmichthys nobilis;" after "Dreissena polymorpha;".
 
 **1996**—Subsec. (a)(1). Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §1208. See 1990 Amendment note below.
 
-**1994**—Subsec. (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
+**1994**—Subsec. (b). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $500".
 
-**1991**—Subsec. (a)(1). Pub. L. 102–237 inserted “brown tree snakes,” after “reptiles,” in first sentence.
+**1991**—Subsec. (a)(1). Pub. L. 102–237 inserted "brown tree snakes," after "reptiles," in first sentence.
 
-**1990**—Subsec. (a)(1). Pub. L. 101–646, as amended by Pub. L. 104–332, inserted “of the zebra mussel of the species Dreissena polymorpha;” after “Pteropus;”.
+**1990**—Subsec. (a)(1). Pub. L. 101–646, as amended by Pub. L. 104–332, inserted "of the zebra mussel of the species Dreissena polymorpha;" after "Pteropus;".
 
-**1981**—Subsec. (c). Pub. L. 97–79 substituted “Secretary of the Interior within one hundred and eighty days of the enactment of the Lacey Act Amendments of 1981” for “Secretary of the Treasury”.
+**1981**—Subsec. (c). Pub. L. 97–79 substituted "Secretary of the Interior within one hundred and eighty days of the enactment of the Lacey Act Amendments of 1981" for "Secretary of the Treasury".
 
-**1960**—Pub. L. 86–702 substituted “Importation or shipment of injurious mammals, birds, fish (including mollusks and crustacea), amphibia and reptiles; permits; specimens for museums; regulations” for “Importation of injurious animals and birds; permits; specimens for museums” in section catchline.
+**1960**—Pub. L. 86–702 substituted "Importation or shipment of injurious mammals, birds, fish (including mollusks and crustacea), amphibia and reptiles; permits; specimens for museums; regulations" for "Importation of injurious animals and birds; permits; specimens for museums" in section catchline.
 
 Subsec. (a)(1). Pub. L. 86–702 designated first sentence of subsec. (a) as par. (1), prohibited importation into the Commonwealth of Puerto Rico or any possession of the United States and shipments between the continental United States, the District of Columbia, Hawaii, the Commonwealth of Puerto Rico, or any possession of the United States, described the mongoose and flying foxes by their scientific names, extended the provisions prohibiting importation or shipment to include wild mammals, wild birds, fish (including mollusks and crustacea), amphibians, reptiles, or their eggs or offspring, empowered the Secretary to prohibit importation or shipment if injurious to human beings, forestry, or to wildlife or wildlife resources, required prompt exportation or destruction at the expense of the importer or consignee, provided that this section shall not be construed to repeal or modify any provision of the Public Health Service Act or Federal Food, Drug, and Cosmetic Act and that it shall not authorize any action with respect to the importation of plant pests, and deleted provisions which required destruction of prohibited birds and animals or their return at the expense of the owner, and which prohibited the importation of the English sparrow and the starling.
 

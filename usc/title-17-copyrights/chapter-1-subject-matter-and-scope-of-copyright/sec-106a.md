@@ -22,7 +22,7 @@
 
 (2) The modification of a work of visual art which is the result of conservation, or of the public presentation, including lighting and placement, of the work is not a destruction, distortion, mutilation, or other modification described in subsection (a)(3) unless the modification is caused by gross negligence.
 
-(3) The rights described in paragraphs (1) and (2) of subsection (a) shall not apply to any reproduction, depiction, portrayal, or other use of a work in, upon, or in any connection with any item described in subparagraph (A) or (B) of the definition of “work of visual art” in section 101, and any such reproduction, depiction, portrayal, or other use of a work is not a destruction, distortion, mutilation, or other modification described in paragraph (3) of subsection (a).
+(3) The rights described in paragraphs (1) and (2) of subsection (a) shall not apply to any reproduction, depiction, portrayal, or other use of a work in, upon, or in any connection with any item described in subparagraph (A) or (B) of the definition of "work of visual art" in section 101, and any such reproduction, depiction, portrayal, or other use of a work is not a destruction, distortion, mutilation, or other modification described in paragraph (3) of subsection (a).
 
 (d) Duration of Rights.—(1) With respect to works of visual art created on or after the effective date set forth in section 610(a) of the Visual Artists Rights Act of 1990, the rights conferred by subsection (a) shall endure for a term consisting of the life of the author.
 
@@ -46,34 +46,34 @@ Section 610(a) of the Visual Artists Rights Act of 1990 [Pub. L. 101–650], ref
 
 Pub. L. 101–650, title VI, §610, Dec. 1, 1990, 104 Stat. 5132, provided that:
 
-“(a) In General.—Subject to subsection (b) and except as provided in subsection (c), this title [enacting this section, amending sections 101, 107, 113, 301, 411, 412, 501, and 506 of this title, and enacting provisions set out as notes under this section and section 101 of this title] and the amendments made by this title take effect 6 months after the date of the enactment of this Act [Dec. 1, 1990].
+"(a) In General.—Subject to subsection (b) and except as provided in subsection (c), this title [enacting this section, amending sections 101, 107, 113, 301, 411, 412, 501, and 506 of this title, and enacting provisions set out as notes under this section and section 101 of this title] and the amendments made by this title take effect 6 months after the date of the enactment of this Act [Dec. 1, 1990].
 
-“(b) Applicability.—The rights created by section 106A of title 17, United States Code, shall apply to—
+"(b) Applicability.—The rights created by section 106A of title 17, United States Code, shall apply to—
 
-“(1) works created before the effective date set forth in subsection (a) but title to which has not, as of such effective date, been transferred from the author, and
+"(1) works created before the effective date set forth in subsection (a) but title to which has not, as of such effective date, been transferred from the author, and
 
-“(2) works created on or after such effective date, but shall not apply to any destruction, distortion, mutilation, or other modification (as described in section 106A(a)(3) of such title) of any work which occurred before such effective date.
+"(2) works created on or after such effective date, but shall not apply to any destruction, distortion, mutilation, or other modification (as described in section 106A(a)(3) of such title) of any work which occurred before such effective date.
 
-“(c) Section 608.—Section 608 [set out below] takes effect on the date of the enactment of this Act.”
+"(c) Section 608.—Section 608 [set out below] takes effect on the date of the enactment of this Act."
 
 #### Studies by Copyright Office ####
 
 Pub. L. 101–650, title VI, §608, Dec. 1, 1990, 104 Stat. 5132, provided that:
 
-“(a) Study on Waiver of Rights Provision.—
+"(a) Study on Waiver of Rights Provision.—
 
-“(1) Study.—The Register of Copyrights shall conduct a study on the extent to which rights conferred by subsection (a) of section 106A of title 17, United States Code, have been waived under subsection (e)(1) of such section.
+"(1) Study.—The Register of Copyrights shall conduct a study on the extent to which rights conferred by subsection (a) of section 106A of title 17, United States Code, have been waived under subsection (e)(1) of such section.
 
-“(2) Report to congress.—Not later than 2 years after the date of the enactment of this Act [Dec. 1, 1990], the Register of Copyrights shall submit to the Congress a report on the progress of the study conducted under paragraph (1). Not later than 5 years after such date of enactment, the Register of Copyrights shall submit to the Congress a final report on the results of the study conducted under paragraph (1), and any recommendations that the Register may have as a result of the study.
+"(2) Report to congress.—Not later than 2 years after the date of the enactment of this Act [Dec. 1, 1990], the Register of Copyrights shall submit to the Congress a report on the progress of the study conducted under paragraph (1). Not later than 5 years after such date of enactment, the Register of Copyrights shall submit to the Congress a final report on the results of the study conducted under paragraph (1), and any recommendations that the Register may have as a result of the study.
 
-“(b) Study on Resale Royalties.—
+"(b) Study on Resale Royalties.—
 
-“(1) Nature of study.—The Register of Copyrights, in consultation with the Chair of the National Endowment for the Arts, shall conduct a study on the feasibility of implementing—
+"(1) Nature of study.—The Register of Copyrights, in consultation with the Chair of the National Endowment for the Arts, shall conduct a study on the feasibility of implementing—
 
-“(A) a requirement that, after the first sale of a work of art, a royalty on any resale of the work, consisting of a percentage of the price, be paid to the author of the work; and
+"(A) a requirement that, after the first sale of a work of art, a royalty on any resale of the work, consisting of a percentage of the price, be paid to the author of the work; and
 
-“(B) other possible requirements that would achieve the objective of allowing an author of a work of art to share monetarily in the enhanced value of that work.
+"(B) other possible requirements that would achieve the objective of allowing an author of a work of art to share monetarily in the enhanced value of that work.
 
-“(2) Groups to be consulted.—The study under paragraph (1) shall be conducted in consultation with other appropriate departments and agencies of the United States, foreign governments, and groups involved in the creation, exhibition, dissemination, and preservation of works of art, including artists, art dealers, collectors of fine art, and curators of art museums.
+"(2) Groups to be consulted.—The study under paragraph (1) shall be conducted in consultation with other appropriate departments and agencies of the United States, foreign governments, and groups involved in the creation, exhibition, dissemination, and preservation of works of art, including artists, art dealers, collectors of fine art, and curators of art museums.
 
-“(3) Report to congress.—Not later than 18 months after the date of the enactment of this Act [Dec. 1, 1990], the Register of Copyrights shall submit to the Congress a report containing the results of the study conducted under this subsection.”
+"(3) Report to congress.—Not later than 18 months after the date of the enactment of this Act [Dec. 1, 1990], the Register of Copyrights shall submit to the Congress a report containing the results of the study conducted under this subsection."

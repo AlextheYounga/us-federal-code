@@ -2,7 +2,7 @@
 
 #### (a) Definition of small business concern ####
 
-In this section, the term “small business concern” has the meaning given the term in section 632(a) of this title.
+In this section, the term "small business concern" has the meaning given the term in section 632(a) of this title.
 
 #### (b) Sense of Congress ####
 

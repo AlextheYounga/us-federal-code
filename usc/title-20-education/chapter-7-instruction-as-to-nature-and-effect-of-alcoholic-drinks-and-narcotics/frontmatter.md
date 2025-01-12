@@ -6,4 +6,4 @@ Sec.
 
 112. Enforcement of section 111.
 
-113. Teachers’ certificates dependent on passing examination on effect of alcoholic drinks and narcotics.
+113. Teachers' certificates dependent on passing examination on effect of alcoholic drinks and narcotics.

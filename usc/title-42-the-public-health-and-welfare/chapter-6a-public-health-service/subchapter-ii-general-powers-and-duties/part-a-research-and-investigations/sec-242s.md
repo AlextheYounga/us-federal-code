@@ -2,13 +2,13 @@
 
 #### (a) Establishment ####
 
-There is established within the Office of the Director of the Centers for Disease Control and Prevention, an office to be known as the Office of Women's Health (referred to in this section as the “Office”). The Office shall be headed by a director who shall be appointed by the Director of such Centers.
+There is established within the Office of the Director of the Centers for Disease Control and Prevention, an office to be known as the Office of Women's Health (referred to in this section as the "Office"). The Office shall be headed by a director who shall be appointed by the Director of such Centers.
 
 #### (b) Purpose ####
 
 The Director of the Office shall—
 
-(1) report to the Director of the Centers for Disease Control and Prevention on the current level of the Centers’ activity regarding women's health conditions across, where appropriate, age, biological, and sociocultural contexts, in all aspects of the Centers’ work, including prevention programs, public and professional education, services, and treatment;
+(1) report to the Director of the Centers for Disease Control and Prevention on the current level of the Centers' activity regarding women's health conditions across, where appropriate, age, biological, and sociocultural contexts, in all aspects of the Centers' work, including prevention programs, public and professional education, services, and treatment;
 
 (2) establish short-range and long-range goals and objectives within the Centers for women's health and, as relevant and appropriate, coordinate with other appropriate offices on activities within the Centers that relate to prevention, research, education and training, service delivery, and policy development, for issues of particular concern to women;
 
@@ -20,7 +20,7 @@ The Director of the Office shall—
 
 #### (c) Definition ####
 
-As used in this section, the term “women's health conditions”, with respect to women of all age, ethnic, and racial groups, means diseases, disorders, and conditions—
+As used in this section, the term "women's health conditions", with respect to women of all age, ethnic, and racial groups, means diseases, disorders, and conditions—
 
 (1) unique to, significantly more serious for, or significantly more prevalent in women; and
 

@@ -54,7 +54,7 @@ Sec.
 
 #### Historical and Revision Notes ####
 
-Section 101 [102] of H.R. 3105 [became Pub. L. 100–710] revises, consolidates, and enacts certain general and permanent laws of the United States related to commercial instruments and liens and public vessels and goods. It amends subtitle III of title 46, United States Code by striking at the end “Chapters 313, 315—Reserved” and substituting “Chapter 313—Commercial Instruments and Maritime Liens”. Chapter 313 is essentially a codification of the Ship Mortgage Act, 1920 (46 App. U.S.C. 911–984). H.R. 3105 is the second step in the process of enacting laws compiled in title 46 of the Code into positive law. The first step in the codification process began in 1983 when certain general and permanent laws related to vessels and seamen were enacted as subtitle II of the title 46, United States Code.
+Section 101 [102] of H.R. 3105 [became Pub. L. 100–710] revises, consolidates, and enacts certain general and permanent laws of the United States related to commercial instruments and liens and public vessels and goods. It amends subtitle III of title 46, United States Code by striking at the end "Chapters 313, 315—Reserved" and substituting "Chapter 313—Commercial Instruments and Maritime Liens". Chapter 313 is essentially a codification of the Ship Mortgage Act, 1920 (46 App. U.S.C. 911–984). H.R. 3105 is the second step in the process of enacting laws compiled in title 46 of the Code into positive law. The first step in the codification process began in 1983 when certain general and permanent laws related to vessels and seamen were enacted as subtitle II of the title 46, United States Code.
 
 #### house floor statement ####
 
@@ -62,6 +62,6 @@ Section 102 of this bill adds a new subtitle III to title 46, which contains a c
 
 #### Amendments ####
 
-**2002**—Pub. L. 107–295, title II, §205(a)(2), Nov. 25, 2002, 116 Stat. 2096, substituted “notices of claim of maritime lien” for “liens on preferred mortgage vessels” in item 31343.
+**2002**—Pub. L. 107–295, title II, §205(a)(2), Nov. 25, 2002, 116 Stat. 2096, substituted "notices of claim of maritime lien" for "liens on preferred mortgage vessels" in item 31343.
 
-**1996**—Pub. L. 104–324, title XI, §1113(b)(3), Oct. 19, 1996, 110 Stat. 3970, struck out item 31328 “Limitations on parties serving as trustees of mortgaged vessel interests”.
+**1996**—Pub. L. 104–324, title XI, §1113(b)(3), Oct. 19, 1996, 110 Stat. 3970, struck out item 31328 "Limitations on parties serving as trustees of mortgaged vessel interests".

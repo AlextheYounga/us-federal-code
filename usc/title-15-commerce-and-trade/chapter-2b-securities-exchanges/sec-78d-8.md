@@ -38,7 +38,7 @@ The Commission shall reimburse the Government Accountability Office for the full
 
 Such reimbursements shall—
 
-(A) be credited to the appropriation account “Salaries and Expenses, Government Accountability Office” current when the payment is received; and
+(A) be credited to the appropriation account "Salaries and Expenses, Government Accountability Office" current when the payment is received; and
 
 (B) remain available until expended.
 
@@ -54,4 +54,4 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 #### Definition ####
 
-For definition of “Commission” as used in this section, see section 5301 of Title 12, Banks and Banking.
+For definition of "Commission" as used in this section, see section 5301 of Title 12, Banks and Banking.

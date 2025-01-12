@@ -38,7 +38,7 @@ If any licensee or other person against which or against whom an order is issued
 
 #### References in Text ####
 
-For definition of “this chapter”, referred to in subsecs. (a)(3), (4) and (b), see References in Text note set out under section 661 of this title.
+For definition of "this chapter", referred to in subsecs. (a)(3), (4) and (b), see References in Text note set out under section 661 of this title.
 
 #### Amendments ####
 

@@ -6,4 +6,4 @@ In order to encourage private gifts of real and personal property or any income 
 
 #### Short Title ####
 
-Pub. L. 90–209, which enacted this subchapter, is popularly known as the “National Park Foundation Act”.
+Pub. L. 90–209, which enacted this subchapter, is popularly known as the "National Park Foundation Act".

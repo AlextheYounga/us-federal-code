@@ -10,12 +10,12 @@ Section was not enacted as a part of act Mar. 2, 1933, ch. 182, 47 Stat. 1421, a
 
 #### Amendments ####
 
-**1991**—Pub. L. 102–118 substituted “615 acres” for “600 acres” in two places.
+**1991**—Pub. L. 102–118 substituted "615 acres" for "600 acres" in two places.
 
-**1976**—Pub. L. 94–578 substituted “600 acres” for “465 acres” in two places.
+**1976**—Pub. L. 94–578 substituted "600 acres" for "465 acres" in two places.
 
-**1974**—Pub. L. 93–477 substituted “465 acres” for “two hundred and eighty-one acres” in two places and inserted proviso relating to property known as the Cross estate.
+**1974**—Pub. L. 93–477 substituted "465 acres" for "two hundred and eighty-one acres" in two places and inserted proviso relating to property known as the Cross estate.
 
 #### Authorization of Appropriations for Additional Lands ####
 
-Section 3 of Pub. L. 88–601, as amended by Pub. L. 93–477, title I, §101(8), Oct. 26, 1974, 88 Stat. 1445, provided that: “There are authorized to be appropriated such sums, but not more than $2,111,000 for acquisition of lands and interests in land, as may be necessary to carry out the purposes of this Act [sections 409g and 409h of this title].”
+Section 3 of Pub. L. 88–601, as amended by Pub. L. 93–477, title I, §101(8), Oct. 26, 1974, 88 Stat. 1445, provided that: "There are authorized to be appropriated such sums, but not more than $2,111,000 for acquisition of lands and interests in land, as may be necessary to carry out the purposes of this Act [sections 409g and 409h of this title]."

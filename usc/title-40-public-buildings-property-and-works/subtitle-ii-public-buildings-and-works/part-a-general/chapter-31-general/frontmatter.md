@@ -70,7 +70,7 @@ Sec.
 
 3171. Contract authority when appropriation is for less than full amount.
 
-3172. Extension of state workers’ compensation laws to buildings, works, and property of the Federal Government.
+3172. Extension of state workers' compensation laws to buildings, works, and property of the Federal Government.
 
 3173. Working capital fund for blueprinting, photostating, and duplicating services in General Services Administration. 2
 

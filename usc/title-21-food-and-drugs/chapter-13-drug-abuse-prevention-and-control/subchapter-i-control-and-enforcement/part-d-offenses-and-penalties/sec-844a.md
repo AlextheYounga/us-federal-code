@@ -62,6 +62,6 @@ A prior section 405 of Pub. L. 91–513 was renumbered section 418 and is classi
 
 **1990**—Subsec. (a). Pub. L. 101–647, §1002(g)(2)(A), made technical amendments to references to sections 841(b)(1)(A) and 844 of this title to correct references to corresponding provisions of original act.
 
-Subsecs. (c), (j)(4). Pub. L. 101–647, §1002(g)(2)(B), (C), struck out “as defined in section 802 of this title” after “controlled substance”.
+Subsecs. (c), (j)(4). Pub. L. 101–647, §1002(g)(2)(B), (C), struck out "as defined in section 802 of this title" after "controlled substance".
 
-[<sup>1</sup> So in original. Probably should be “section”.](#844a_1)
+[<sup>1</sup> So in original. Probably should be "section".](#844a_1)

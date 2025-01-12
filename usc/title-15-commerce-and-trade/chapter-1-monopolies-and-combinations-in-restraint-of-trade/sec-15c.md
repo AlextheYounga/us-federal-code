@@ -24,11 +24,11 @@
 
 An action under subsection (a)(1) of this section shall not be dismissed or compromised without the approval of the court, and notice of any proposed dismissal or compromise shall be given in such manner as the court directs.
 
-#### (d) Attorneys’ fees ####
+#### (d) Attorneys' fees ####
 
 In any action under subsection (a) of this section—
 
-(1) the amount of the plaintiffs’ attorney's fee, if any, shall be determined by the court; and
+(1) the amount of the plaintiffs' attorney's fee, if any, shall be determined by the court; and
 
 (2) the court may, in its discretion, award a reasonable attorney's fee to a prevailing defendant upon a finding that the State attorney general has acted in bad faith, vexatiously, wantonly, or for oppressive reasons.
 
@@ -48,4 +48,4 @@ Amendment by Pub. L. 96–349 applicable only with respect to actions commenced 
 
 #### Effective Date ####
 
-Pub. L. 94–435, title III, §304, Sept. 30, 1976, 90 Stat. 1396, provided that: “The amendments to the Clayton Act made by section 301 of this Act [enacting this section and sections 15d to 15h of this title] shall not apply to any injury sustained prior to the date of enactment of this Act [Sept. 30, 1976].”
+Pub. L. 94–435, title III, §304, Sept. 30, 1976, 90 Stat. 1396, provided that: "The amendments to the Clayton Act made by section 301 of this Act [enacting this section and sections 15d to 15h of this title] shall not apply to any injury sustained prior to the date of enactment of this Act [Sept. 30, 1976]."

@@ -18,7 +18,7 @@ On October 1, 1985, the Secretary shall transfer to the District, without compen
 
 #### Amendments ####
 
-**1991**—Subsec. (b). Pub. L. 102–150 substituted “October 1, 1992” for “October 1, 1991” and “2-year” for “twelve-month”.
+**1991**—Subsec. (b). Pub. L. 102–150 substituted "October 1, 1992" for "October 1, 1991" and "2-year" for "twelve-month".
 
 #### Change of Name ####
 
@@ -30,4 +30,4 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 Committee on the District of Columbia of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on the District of Columbia treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-[<sup>1</sup> So in original. Probably should be “identified”.](#225f_1)
+[<sup>1</sup> So in original. Probably should be "identified".](#225f_1)

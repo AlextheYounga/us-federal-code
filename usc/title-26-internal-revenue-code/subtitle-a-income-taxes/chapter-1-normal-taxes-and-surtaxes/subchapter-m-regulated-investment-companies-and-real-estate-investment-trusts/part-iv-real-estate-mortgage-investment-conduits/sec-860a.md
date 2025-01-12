@@ -12,7 +12,7 @@ The income of any REMIC shall be taxable to the holders of interests in such REM
 
 #### Amendments ####
 
-**1988**—Subsec. (a). Pub. L. 100–647 substituted “this subtitle” for “this chapter” in two places.
+**1988**—Subsec. (a). Pub. L. 100–647 substituted "this subtitle" for "this chapter" in two places.
 
 #### Effective Date of 1988 Amendment ####
 
@@ -22,17 +22,17 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Pub. L. 99–514, title VI, §675(a)–(c), Oct. 22, 1986, 100 Stat. 2320, as amended by Pub. L. 100–647, title I, §1006(w)(1), Nov. 10, 1988, 102 Stat. 3427, provided that:
 
-“(a) General Rule.—Except as otherwise provided in this section, the amendments made by this subtitle [subtitle H (§§671–675) of title VI of Pub. L. 99–514, enacting this part and amending sections 582, 593, 856, 1272, 6049, and 7701 of this title] shall take effect on January 1, 1987.
+"(a) General Rule.—Except as otherwise provided in this section, the amendments made by this subtitle [subtitle H (§§671–675) of title VI of Pub. L. 99–514, enacting this part and amending sections 582, 593, 856, 1272, 6049, and 7701 of this title] shall take effect on January 1, 1987.
 
-“(b) Rules for Accruing Original Issue Discount.—The amendment made by section 672 [amending section 1272 of this title] shall apply to debt instruments issued after December 31, 1986, in taxable years ending after such date.
+"(b) Rules for Accruing Original Issue Discount.—The amendment made by section 672 [amending section 1272 of this title] shall apply to debt instruments issued after December 31, 1986, in taxable years ending after such date.
 
-“(c) Treatment of Taxable Mortgage Pools.—
+"(c) Treatment of Taxable Mortgage Pools.—
 
-“(1) In general.—The amendment made by section 673 [amending section 7701 of this title] shall take effect on January 1, 1992.
+"(1) In general.—The amendment made by section 673 [amending section 7701 of this title] shall take effect on January 1, 1992.
 
-“(2) Treatment of existing entities.—The amendment made by section 673 shall not apply to any entity in existence on December 31, 1991. The preceding sentence shall cease to apply with respect to any entity as of the 1st day after December 31, 1991, on which there is a substantial transfer of cash or other property to such entity.
+"(2) Treatment of existing entities.—The amendment made by section 673 shall not apply to any entity in existence on December 31, 1991. The preceding sentence shall cease to apply with respect to any entity as of the 1st day after December 31, 1991, on which there is a substantial transfer of cash or other property to such entity.
 
-“(3) Special rule for coordination with wash-sale rules.—Notwithstanding paragraphs (1) and (2), for purposes of applying section 860F(d) of the Internal Revenue Code of 1986 (as added by this part [this subtitle]), the amendment made by section 673 shall apply to taxable years beginning after December 31, 1986.”
+"(3) Special rule for coordination with wash-sale rules.—Notwithstanding paragraphs (1) and (2), for purposes of applying section 860F(d) of the Internal Revenue Code of 1986 (as added by this part [this subtitle]), the amendment made by section 673 shall apply to taxable years beginning after December 31, 1986."
 
 #### Study of Amendments by Pub. L. 99–514 ####
 

@@ -50,7 +50,7 @@ A drug product may be compounded under subsection (a) of this section if the lic
 
 #### (2) Definition ####
 
-For purposes of paragraph (1)(D), the term “essentially a copy of a commercially available drug product” does not include a drug product in which there is a change, made for an identified individual patient, which produces for that patient a significant difference, as determined by the prescribing practitioner, between the compounded drug and the comparable commercially available drug product.
+For purposes of paragraph (1)(D), the term "essentially a copy of a commercially available drug product" does not include a drug product in which there is a change, made for an identified individual patient, which produces for that patient a significant difference, as determined by the prescribing practitioner, between the compounded drug and the comparable commercially available drug product.
 
 #### (3) Drug product ####
 
@@ -84,20 +84,20 @@ This section shall not apply to—
 
 (2) radiopharmaceuticals.
 
-#### (e) “Compounding” defined ####
+#### (e) "Compounding" defined ####
 
-As used in this section, the term “compounding” does not include mixing, reconstituting, or other such acts that are performed in accordance with directions contained in approved labeling provided by the product's manufacturer and other manufacturer directions consistent with that labeling.
+As used in this section, the term "compounding" does not include mixing, reconstituting, or other such acts that are performed in accordance with directions contained in approved labeling provided by the product's manufacturer and other manufacturer directions consistent with that labeling.
 
 (June 25, 1938, ch. 675, §503A, as added Pub. L. 105–115, title I, §127(a), Nov. 21, 1997, 111 Stat. 2328; amended Pub. L. 113–54, title I, §106(a), Nov. 27, 2013, 127 Stat. 598.)
 
 #### Amendments ####
 
-**2013**—Subsec. (a). Pub. L. 113–54, §106(a)(1), struck out “unsolicited” before “receipt of a valid prescription” in introductory provisions.
+**2013**—Subsec. (a). Pub. L. 113–54, §106(a)(1), struck out "unsolicited" before "receipt of a valid prescription" in introductory provisions.
 
-Subsec. (b)(1)(A)(i)(III). Pub. L. 113–54, §106(a)(4), substituted “subsection (c)” for “subsection (d)”.
+Subsec. (b)(1)(A)(i)(III). Pub. L. 113–54, §106(a)(4), substituted "subsection (c)" for "subsection (d)".
 
-Subsec. (c) to (e). Pub. L. 113–54, §106(a)(2), (3), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c). Prior to amendment, subsec. (c) read as follows: “A drug may be compounded under subsection (a) of this section only if the pharmacy, licensed pharmacist, or licensed physician does not advertise or promote the compounding of any particular drug, class of drug, or type of drug. The pharmacy, licensed pharmacist, or licensed physician may advertise and promote the compounding service provided by the licensed pharmacist or licensed physician.”
+Subsec. (c) to (e). Pub. L. 113–54, §106(a)(2), (3), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c). Prior to amendment, subsec. (c) read as follows: "A drug may be compounded under subsection (a) of this section only if the pharmacy, licensed pharmacist, or licensed physician does not advertise or promote the compounding of any particular drug, class of drug, or type of drug. The pharmacy, licensed pharmacist, or licensed physician may advertise and promote the compounding service provided by the licensed pharmacist or licensed physician."
 
 #### Effective Date ####
 
-Pub. L. 105–115, title I, §127(b), Nov. 21, 1997, 111 Stat. 2330, provided that: “Section 503A of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 353a], added by subsection (a), shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Nov. 21, 1997].”
+Pub. L. 105–115, title I, §127(b), Nov. 21, 1997, 111 Stat. 2330, provided that: "Section 503A of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 353a], added by subsection (a), shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Nov. 21, 1997]."

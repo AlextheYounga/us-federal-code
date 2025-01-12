@@ -6,6 +6,6 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 #### Amendments ####
 
-**1978**—Pub. L. 95–625 substituted “$1,373,000 for development” for “$1,052,700 (April 1970 prices) for development, plus or minus such amounts, if any, as may be justified by reason of ordinary fluctuations in construction costs as indicated by engineering cost indexes applicable to the types of construction involved herein”.
+**1978**—Pub. L. 95–625 substituted "$1,373,000 for development" for "$1,052,700 (April 1970 prices) for development, plus or minus such amounts, if any, as may be justified by reason of ordinary fluctuations in construction costs as indicated by engineering cost indexes applicable to the types of construction involved herein".
 
-**1976**—Pub. L. 94–578 substituted “$2,173,000” for “$423,000”.
+**1976**—Pub. L. 94–578 substituted "$2,173,000" for "$423,000".

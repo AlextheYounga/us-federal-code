@@ -54,7 +54,7 @@ the person shall be entitled to an indemnity payment under this subsection for s
 
 #### (2) Dealers and distributors ####
 
-(A) Any registrant, wholesaler, dealer, or other distributor (hereinafter in this paragraph referred to as a “seller”) of a registered pesticide who distributes or sells the pesticide directly to any person not described as an end user in paragraph (1)(C) shall, with respect to any quantity of the pesticide that such person cannot use or resell as a result of the suspension or cancellation of the pesticide, reimburse such person for the cost of first acquiring the pesticide from the seller (other than the cost of transportation, if any), unless the seller provided to the person at the time of distribution or sale a notice, in writing, that the pesticide is not subject to reimbursement by the seller.
+(A) Any registrant, wholesaler, dealer, or other distributor (hereinafter in this paragraph referred to as a "seller") of a registered pesticide who distributes or sells the pesticide directly to any person not described as an end user in paragraph (1)(C) shall, with respect to any quantity of the pesticide that such person cannot use or resell as a result of the suspension or cancellation of the pesticide, reimburse such person for the cost of first acquiring the pesticide from the seller (other than the cost of transportation, if any), unless the seller provided to the person at the time of distribution or sale a notice, in writing, that the pesticide is not subject to reimbursement by the seller.
 
 (B) If—
 
@@ -120,6 +120,6 @@ For effective date of section, see section 4 of Pub. L. 92–516, set out as a n
 
 Pub. L. 100–532, title V, §501(b), Oct. 25, 1988, 102 Stat. 2676, provided that:
 
-“(1) Source.—Any obligation of the Administrator to pay an indemnity arising under section 15 [this section], as it existed prior to the effective date of the amendment made by this section [see Effective Date of 1988 Amendment note above], shall be made from the appropriation provided under section 1304 of title 31, United States Code.
+"(1) Source.—Any obligation of the Administrator to pay an indemnity arising under section 15 [this section], as it existed prior to the effective date of the amendment made by this section [see Effective Date of 1988 Amendment note above], shall be made from the appropriation provided under section 1304 of title 31, United States Code.
 
-“(2) Administrative settlement.—An administrative settlement of a claim for such indemnity may be made in accordance with the third paragraph of section 2414 of title 28, United States Code, and shall be regarded as if it were made under that section for purposes of section 1304 of title 31, United States Code.”
+"(2) Administrative settlement.—An administrative settlement of a claim for such indemnity may be made in accordance with the third paragraph of section 2414 of title 28, United States Code, and shall be regarded as if it were made under that section for purposes of section 1304 of title 31, United States Code."

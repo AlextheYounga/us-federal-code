@@ -6,8 +6,8 @@ The Secretary shall administer the park in accordance with the provisions of thi
 
 #### Amendments ####
 
-**2009**—Pub. L. 111–11 substituted “The” for “The Secretary shall establish the park by publication of a notice to that effect in the Federal Register at such time as he finds that, consistent with the general management plan referred to in section 230g of this title, sufficient lands and interests therein (i) have been acquired for interpretive and administrative facilities, (ii) are being protected in the core area, and (iii) have been made the subject of cooperative agreements pursuant to secton 230c of this title. Pending such establishment and thereafter the”.
+**2009**—Pub. L. 111–11 substituted "The" for "The Secretary shall establish the park by publication of a notice to that effect in the Federal Register at such time as he finds that, consistent with the general management plan referred to in section 230g of this title, sufficient lands and interests therein (i) have been acquired for interpretive and administrative facilities, (ii) are being protected in the core area, and (iii) have been made the subject of cooperative agreements pursuant to secton 230c of this title. Pending such establishment and thereafter the".
 
-#### “Secretary” Defined ####
+#### "Secretary" Defined ####
 
 Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.

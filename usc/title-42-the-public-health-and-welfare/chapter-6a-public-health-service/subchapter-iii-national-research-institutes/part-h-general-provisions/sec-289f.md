@@ -6,15 +6,15 @@ The Secretary may, in accordance with section 238 of this title, accept conditio
 
 #### Amendments ####
 
-**1993**—Pub. L. 103–43 substituted “section 238” for “section 300aaa”.
+**1993**—Pub. L. 103–43 substituted "section 238" for "section 300aaa".
 
 **1990**—Pub. L. 101–381 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
 
 **1988**—Pub. L. 100–690 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
 
-Pub. L. 100–607 substituted “300aaa” for “300cc”.
+Pub. L. 100–607 substituted "300aaa" for "300cc".
 
-**1986**—Pub. L. 99–660 substituted “section 300cc of this title” for “section 300aa of this title”.
+**1986**—Pub. L. 99–660 substituted "section 300cc of this title" for "section 300aa of this title".
 
 #### Effective Date of 1988 Amendment ####
 

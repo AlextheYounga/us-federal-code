@@ -10,7 +10,7 @@ Sec.
 
 50104. Restriction on airport projects using products or services of foreign countries denying fair market opportunities.
 
-50105. Fraudulent use of “Made in America” label.
+50105. Fraudulent use of "Made in America" label.
 
 #### Amendments ####
 

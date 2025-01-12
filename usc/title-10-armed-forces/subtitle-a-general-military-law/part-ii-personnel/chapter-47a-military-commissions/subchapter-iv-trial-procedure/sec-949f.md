@@ -14,6 +14,6 @@ A prior section 949f, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Sta
 
 #### Amendments ####
 
-**2013**—Subsec. (a). Pub. L. 113–66, §1031(b)(1), inserted “primary or alternate” before “members”.
+**2013**—Subsec. (a). Pub. L. 113–66, §1031(b)(1), inserted "primary or alternate" before "members".
 
-Subsec. (b). Pub. L. 113–66, §1031(b)(2), inserted at end “Nothing in this section prohibits the military judge from awarding to each party such additional peremptory challenges as may be required in the interests of justice.”
+Subsec. (b). Pub. L. 113–66, §1031(b)(2), inserted at end "Nothing in this section prohibits the military judge from awarding to each party such additional peremptory challenges as may be required in the interests of justice."

@@ -30,7 +30,7 @@ A grant or contract under paragraph (1) may be used by the entity to meet the co
 
 #### (3) Definition ####
 
-In this section, the term “regular course of education of such a school” as used in subparagraph (D) includes a graduate program in behavioral or mental health.
+In this section, the term "regular course of education of such a school" as used in subparagraph (D) includes a graduate program in behavioral or mental health.
 
 #### (b) Requirements for awards ####
 

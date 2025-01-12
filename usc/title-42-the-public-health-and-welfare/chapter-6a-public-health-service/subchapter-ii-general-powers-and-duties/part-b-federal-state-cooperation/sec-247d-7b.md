@@ -6,7 +6,7 @@ Not later than 12 months after December 19, 2006, the Secretary shall link exist
 
 #### (b) Requirements ####
 
-The interoperable network of systems established under subsection (a) (referred to in this section as the “verification network”) shall include—
+The interoperable network of systems established under subsection (a) (referred to in this section as the "verification network") shall include—
 
 (1) with respect to each volunteer health professional included in the verification network—
 
@@ -56,10 +56,10 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### Amendments ####
 
-**2013**—Subsec. (k). Pub. L. 113–5 substituted “$5,000,000 for each of fiscal years 2014 through 2018” for “$2,000,000 for fiscal year 2002, and such sums as may be necessary for each of the fiscal years 2003 through 2011”.
+**2013**—Subsec. (k). Pub. L. 113–5 substituted "$5,000,000 for each of fiscal years 2014 through 2018" for "$2,000,000 for fiscal year 2002, and such sums as may be necessary for each of the fiscal years 2003 through 2011".
 
 **2006**—Subsecs. (a), (b). Pub. L. 109–417, §303(b)(2), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to establishment of a verification system and provisions regarding its promptness and efficiency.
 
-Subsec. (c). Pub. L. 109–417, §303(b)(3), substituted “network” for “system”.
+Subsec. (c). Pub. L. 109–417, §303(b)(3), substituted "network" for "system".
 
-Subsecs. (d) to (k). Pub. L. 109–417, §303(b)(1), (4), (5), added subsecs. (d) to (i), redesignated former subsecs. (e) and (f) as (j) and (k), respectively, substituted “2011” for “2006” in subsec. (k), and struck out heading and text of former subsec. (d). Text read as follows: “The Secretary may encourage each State to provide legal authority during a public health emergency for health professionals authorized in another State to provide certain health services to provide such health services in the State.”
+Subsecs. (d) to (k). Pub. L. 109–417, §303(b)(1), (4), (5), added subsecs. (d) to (i), redesignated former subsecs. (e) and (f) as (j) and (k), respectively, substituted "2011" for "2006" in subsec. (k), and struck out heading and text of former subsec. (d). Text read as follows: "The Secretary may encourage each State to provide legal authority during a public health emergency for health professionals authorized in another State to provide certain health services to provide such health services in the State."

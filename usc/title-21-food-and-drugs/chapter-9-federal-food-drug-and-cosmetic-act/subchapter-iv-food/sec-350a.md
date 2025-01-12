@@ -40,7 +40,7 @@ In prescribing requirements for audits under clause (iv), the Secretary shall pr
 
 (D) If the Secretary adds a nutrient to the list of nutrients in the table in subsection (i) of this section, the Secretary shall by regulation require that the manufacturer of an infant formula test each batch of such formula for such new nutrient in accordance with subparagraph (A), (B), or (C).
 
-(E) For purposes of this paragraph, the term “final product stage” means the point in the manufacturing process, before distribution of an infant formula, at which an infant formula is homogenous and is not subject to further degradation.
+(E) For purposes of this paragraph, the term "final product stage" means the point in the manufacturing process, before distribution of an infant formula, at which an infant formula is homogenous and is not subject to further degradation.
 
 (4)(A) The Secretary shall by regulation establish requirements respecting the retention of records. Such requirements shall provide for—
 
@@ -72,13 +72,13 @@ In prescribing requirements for audits under clause (iv), the Secretary shall pr
 
 (B) such person has at least 90 days before marketing such new infant formula, made the submission to the Secretary required by subsection (c)(1) of this section.
 
-(2) For purposes of paragraph (1), the term “new infant formula” includes—
+(2) For purposes of paragraph (1), the term "new infant formula" includes—
 
 (A) an infant formula manufactured by a person which has not previously manufactured an infant formula, and
 
 (B) an infant formula manufactured by a person which has previously manufactured infant formula and in which there is a major change, in processing or formulation, from a current or any previous formulation produced by such manufacturer.
 
-For purposes of this paragraph, the term “major change” has the meaning given to such term in section 106.30(c)(2) of title 21, Code of Federal Regulations (as in effect on August 1, 1986), and guidelines issued thereunder.
+For purposes of this paragraph, the term "major change" has the meaning given to such term in section 106.30(c)(2) of title 21, Code of Federal Regulations (as in effect on August 1, 1986), and guidelines issued thereunder.
 
 #### (d) Submission of information about new infant formula required ####
 
@@ -106,7 +106,7 @@ For purposes of this paragraph, the term “major change” has the meaning give
 
 the manufacturer shall promptly notify the Secretary of such knowledge. If the Secretary determines that the infant formula presents a risk to human health, the manufacturer shall immediately take all actions necessary to recall shipments of such infant formula from all wholesale and retail establishments, consistent with recall regulations and guidelines issued by the Secretary.
 
-(2) For purposes of paragraph (1), the term “knowledge” as applied to a manufacturer means (A) the actual knowledge that the manufacturer had, or (B) the knowledge which a reasonable person would have had under like circumstances or which would have been obtained upon the exercise of due care.
+(2) For purposes of paragraph (1), the term "knowledge" as applied to a manufacturer means (A) the actual knowledge that the manufacturer had, or (B) the knowledge which a reasonable person would have had under like circumstances or which would have been obtained upon the exercise of due care.
 
 #### (f) Procedures applicable to recalls by manufacturer; regulatory oversight ####
 
@@ -200,24 +200,24 @@ is exempt from the requirements of subsections (a), (b), and (c) of this section
 
 #### Amendments ####
 
-**1993**—Subsec. (h)(1). Pub. L. 103–80 substituted “(e)(1)(B) of this section” for “(c)(1)(B) of this section,” in concluding provisions.
+**1993**—Subsec. (h)(1). Pub. L. 103–80 substituted "(e)(1)(B) of this section" for "(c)(1)(B) of this section," in concluding provisions.
 
 **1986**—Subsecs. (a) to (d). Pub. L. 99–570, §4014(a)(7), added subsecs. (a) to (d) and struck out former subsecs. (a) relating to adulteration and regulatory oversight, (b) relating to notice to the Secretary by a manufacturer and requirements and scope of that notice, (c) relating to additional notice requirements for the manufacturer, and (d) relating to procedures applicable to recalls by a manufacturer.
 
 Subsecs. (e), (f). Pub. L. 99–570, §4014(a)(1), (7), added subsecs. (e) and (f) and redesignated former subsecs. (e) and (f) as (g) and (h), respectively.
 
-Subsec. (g). Pub. L. 99–570, §4014(a)(1), (2), redesignated subsec. (e) as (g) and substituted “Such records shall be retained for at least one year after the expiration of the shelf life of the infant formula” for “No manufacturer shall be required under this subsection to retain any record respecting the distribution of an infant formula for a period of longer than 2 years from the date the record was made”. Former subsec. (g) redesignated (i).
+Subsec. (g). Pub. L. 99–570, §4014(a)(1), (2), redesignated subsec. (e) as (g) and substituted "Such records shall be retained for at least one year after the expiration of the shelf life of the infant formula" for "No manufacturer shall be required under this subsection to retain any record respecting the distribution of an infant formula for a period of longer than 2 years from the date the record was made". Former subsec. (g) redesignated (i).
 
 Subsec. (h). Pub. L. 99–570, §4014(a)(1), redesignated subsec. (f) as (h).
 
-Subsec. (h)(1). Pub. L. 99–570, §4014(a)(3), (4), substituted “(a), (b), and (c)” for “(a) and (b)” and “(e)(1)” for “(c)(1)”.
+Subsec. (h)(1). Pub. L. 99–570, §4014(a)(3), (4), substituted "(a), (b), and (c)" for "(a) and (b)" and "(e)(1)" for "(c)(1)".
 
-Pub. L. 99–570, §4014(a)(5), which directed that “(d)(1)(B)” be substituted for “(e)(1)(B)” in second sentence could not be executed because “(e)(1)(B)” did not appear. See 1993 Amendment note above.
+Pub. L. 99–570, §4014(a)(5), which directed that "(d)(1)(B)" be substituted for "(e)(1)(B)" in second sentence could not be executed because "(e)(1)(B)" did not appear. See 1993 Amendment note above.
 
-Subsec. (h)(2). Pub. L. 99–570, §4014(a)(6), substituted “(a), (b), and (c)” for “(a) and (b)”.
+Subsec. (h)(2). Pub. L. 99–570, §4014(a)(6), substituted "(a), (b), and (c)" for "(a) and (b)".
 
-Subsec. (i). Pub. L. 99–570, §4014(a)(1), (b)(1), redesignated subsec. (g) as (i), designated existing provisions as par. (1), substituted “paragraph (2)” for “subsection (a)(2) of this section”, substituted a period for the colon after “as so revised”, and added par. (2).
+Subsec. (i). Pub. L. 99–570, §4014(a)(1), (b)(1), redesignated subsec. (g) as (i), designated existing provisions as par. (1), substituted "paragraph (2)" for "subsection (a)(2) of this section", substituted a period for the colon after "as so revised", and added par. (2).
 
 #### Effective Date of 1980 Amendment ####
 
-Pub. L. 96–359, §6, Sept. 26, 1980, 94 Stat. 1193, provided that: “Section 412 of the Federal Food, Drug, and Cosmetic Act (added by section 2) [this section] shall apply with respect to infant formulas manufactured on or after the 90th day after the date of the enactment of this Act [Sept. 26, 1980].”
+Pub. L. 96–359, §6, Sept. 26, 1980, 94 Stat. 1193, provided that: "Section 412 of the Federal Food, Drug, and Cosmetic Act (added by section 2) [this section] shall apply with respect to infant formulas manufactured on or after the 90th day after the date of the enactment of this Act [Sept. 26, 1980]."

@@ -18,7 +18,7 @@ Sec.
 
 608. Seal.
 
-609. Courts’ appointive power unaffected.
+609. Courts' appointive power unaffected.
 
 610. Courts defined.
 
@@ -36,8 +36,8 @@ Sec.
 
 **1967**—Pub. L. 90–219, title II, §201(b), Dec. 20, 1967, 81 Stat. 668, added item 611.
 
-**1959**—Pub. L. 86–370, §5(a)(2), Sept. 23, 1959, 73 Stat. 652, substituted “Deputy Director” for “Assistant Director” in items 601 and 606.
+**1959**—Pub. L. 86–370, §5(a)(2), Sept. 23, 1959, 73 Stat. 652, substituted "Deputy Director" for "Assistant Director" in items 601 and 606.
 
-**1949**—Act May 24, 1949, ch. 139, §72a, 63 Stat. 100, inserted an apostrophe after “Courts” and struck out comma after “Courts” in item 609.
+**1949**—Act May 24, 1949, ch. 139, §72a, 63 Stat. 100, inserted an apostrophe after "Courts" and struck out comma after "Courts" in item 609.
 
 [<sup>1</sup> Section catchline amended by Pub. L. 104–106 without corresponding amendment of chapter analysis.](#CHAPTER41_1)

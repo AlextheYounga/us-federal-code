@@ -22,7 +22,7 @@ Of the amounts made available under subsection (a) for each fiscal year—
 
 #### References in Text ####
 
-Section 971i(b)(2)(H) of this title, referred to in subsec. (b)(2), was in the original “section 3(b)(2)(H) of that section” and was translated as reading “section 3(b)(2)(H) of that Act”, meaning Pub. L. 96–339, to reflect the probable intent of Congress.
+Section 971i(b)(2)(H) of this title, referred to in subsec. (b)(2), was in the original "section 3(b)(2)(H) of that section" and was translated as reading "section 3(b)(2)(H) of that Act", meaning Pub. L. 96–339, to reflect the probable intent of Congress.
 
 #### Amendments ####
 
@@ -30,7 +30,7 @@ Section 971i(b)(2)(H) of this title, referred to in subsec. (b)(2), was in the o
 
 **2002**—Pub. L. 107–372 amended section generally, substituting provisions authorizing appropriations for fiscal years 2003 to 2006 for provisions authorizing appropriations for fiscal years 1995 to 2001.
 
-**1998**—Par. (4). Pub. L. 105–384 substituted “For each of fiscal years 1998, 1999, 2000, and 2001,” for “For fiscal year 1998,”.
+**1998**—Par. (4). Pub. L. 105–384 substituted "For each of fiscal years 1998, 1999, 2000, and 2001," for "For fiscal year 1998,".
 
 **1995**—Pub. L. 104–43 amended section generally, substituting provisions authorizing appropriations for fiscal years 1995 to 1998 for provisions authorizing appropriations for fiscal years 1989 to 1993.
 

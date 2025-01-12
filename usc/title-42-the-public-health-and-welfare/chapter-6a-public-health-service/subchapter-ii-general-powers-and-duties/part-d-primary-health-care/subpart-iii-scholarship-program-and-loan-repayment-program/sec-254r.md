@@ -100,9 +100,9 @@ The Secretary may not make a grant under subsection (a) of this section unless a
 
 The Secretary may not make payments under subsection (a) of this section to a State for any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the State has complied with each of the agreements made by the State under this section.
 
-#### (i) “State” defined ####
+#### (i) "State" defined ####
 
-For purposes of this section, the term “State” means each of the several States.
+For purposes of this section, the term "State" means each of the several States.
 
 #### (j) Authorization of appropriations ####
 
@@ -132,11 +132,11 @@ A prior section 338J of act July 1, 1944, was renumbered section 338K by Pub. L.
 
 #### Amendments ####
 
-**1998**—Subsec. (b)(1). Pub. L. 105–392, §301(1), struck out “in cash” after “contributions” in introductory provisions.
+**1998**—Subsec. (b)(1). Pub. L. 105–392, §301(1), struck out "in cash" after "contributions" in introductory provisions.
 
-Subsec. (j)(1). Pub. L. 105–392, §301(2), struck out “and” after “1992,” and inserted before period at end “, and such sums as may be necessary for each of the fiscal years 1998 through 2002”.
+Subsec. (j)(1). Pub. L. 105–392, §301(2), struck out "and" after "1992," and inserted before period at end ", and such sums as may be necessary for each of the fiscal years 1998 through 2002".
 
-Subsec. (k). Pub. L. 105–392, §301(3), substituted “$36,000,000” for “$10,000,000”.
+Subsec. (k). Pub. L. 105–392, §301(3), substituted "$36,000,000" for "$10,000,000".
 
 #### Communications for Rural Health Providers ####
 

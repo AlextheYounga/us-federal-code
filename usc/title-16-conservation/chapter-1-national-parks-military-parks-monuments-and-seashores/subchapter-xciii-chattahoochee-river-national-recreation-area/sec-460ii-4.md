@@ -70,7 +70,7 @@ The requirements of this subsection shall be carried out in accordance with proc
 
 (D) those that the Secretary has determined to be not inconsistent with the general management plan for the recreation area.
 
-Actions which are part of a project recommended in the study entitled “Metropolitan Atlanta Water Resources Management Study, Georgia: Report of Chief of Engineers”, dated June 1, 1982, and any Federal action which pertains to the control of air space, which is regulated under the Clean Air Act [42 U.S.C. 7401 et seq.], or which is required for maintenance or rehabilitation of existing structures or facilities shall also be exempt from the provisions of this subsection.
+Actions which are part of a project recommended in the study entitled "Metropolitan Atlanta Water Resources Management Study, Georgia: Report of Chief of Engineers", dated June 1, 1982, and any Federal action which pertains to the control of air space, which is regulated under the Clean Air Act [42 U.S.C. 7401 et seq.], or which is required for maintenance or rehabilitation of existing structures or facilities shall also be exempt from the provisions of this subsection.
 
 (Pub. L. 95–344, title I, §105, Aug. 15, 1978, 92 Stat. 476; Pub. L. 98–568, §1(e), Oct. 30, 1984, 98 Stat. 2929; Pub. L. 106–154, §2(d), (e)(4), Dec. 9, 1999, 113 Stat. 1738, 1739.)
 
@@ -88,15 +88,15 @@ The Clean Air Act, referred to in subsec. (d)(6), is act July 14, 1955, ch. 360,
 
 **1999**—Pub. L. 106–154, §2(d)(1), inserted section catchline.
 
-Subsec. (a). Pub. L. 106–154, §2(d)(1), (2), inserted subsec. heading, designated existing provisions as par. (1), inserted heading, substituted “$115,000,000” for “$79,400,000” and “this subchapter” for “this subchapter and chapter 43 of this title”, and added pars. (2) and (3).
+Subsec. (a). Pub. L. 106–154, §2(d)(1), (2), inserted subsec. heading, designated existing provisions as par. (1), inserted heading, substituted "$115,000,000" for "$79,400,000" and "this subchapter" for "this subchapter and chapter 43 of this title", and added pars. (2) and (3).
 
-Subsec. (c). Pub. L. 106–154, §2(d)(3), inserted subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, substituted “transmit to the Committee on Resources of the House of Representatives” for “transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives”, and added par. (2).
+Subsec. (c). Pub. L. 106–154, §2(d)(3), inserted subsec. heading, designated existing provisions as par. (1), inserted par. (1) heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, substituted "transmit to the Committee on Resources of the House of Representatives" for "transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives", and added par. (2).
 
-Subsec. (c)(1)(A). Pub. L. 106–154, §2(e)(4), substituted “of this subchapter” for “of this subchapter and chapter 43 of this title”.
+Subsec. (c)(1)(A). Pub. L. 106–154, §2(e)(4), substituted "of this subchapter" for "of this subchapter and chapter 43 of this title".
 
-**1984**—Subsec. (a). Pub. L. 98–568, §1(e)(1), substituted “$79,400,000” for “$72,900,000” and inserted provision respecting applicable statutory ceiling on appropriations.
+**1984**—Subsec. (a). Pub. L. 98–568, §1(e)(1), substituted "$79,400,000" for "$72,900,000" and inserted provision respecting applicable statutory ceiling on appropriations.
 
-Subsec. (c). Pub. L. 98–568, §1(e)(2), substituted “seven years” for “three years”.
+Subsec. (c). Pub. L. 98–568, §1(e)(2), substituted "seven years" for "three years".
 
 Subsec. (d). Pub. L. 98–568, §1(e)(3), added subsec. (d).
 

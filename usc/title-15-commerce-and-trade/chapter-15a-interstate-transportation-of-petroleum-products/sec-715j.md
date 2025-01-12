@@ -1,4 +1,4 @@
-### §715j. “President” as including agencies, officers and employees ###
+### §715j. "President" as including agencies, officers and employees ###
 
 Wherever reference is made in this chapter to the President such reference shall be held to include, in addition to the President, any agency, officer, or employee who may be designated by the President for the execution of any of the powers and functions vested in the President under this chapter.
 
@@ -14,7 +14,7 @@ Ex. Ord. No. 7756, Dec. 1, 1937, 2 F.R. 2664, which delegated to Secretary of th
 
 Ex. Ord. No. 10752, Feb. 12, 1958, 23 F.R. 973, provided:
 
-Section 1. The Secretary of the Interior is hereby designated and appointed as the agent of the President for the execution of all the powers and functions vested in the President by the act of February 22, 1935, 49 Stat. 30, entitled “An Act to regulate interstate and foreign commerce in petroleum and its products by prohibiting the shipment in such commerce of petroleum and its products produced in violation of State law, and for other purposes,” as amended (15 U.S.C. 715 *et seq*.), except those vested in the President by section 4 of the act (15 U.S.C. 715c).
+Section 1. The Secretary of the Interior is hereby designated and appointed as the agent of the President for the execution of all the powers and functions vested in the President by the act of February 22, 1935, 49 Stat. 30, entitled "An Act to regulate interstate and foreign commerce in petroleum and its products by prohibiting the shipment in such commerce of petroleum and its products produced in violation of State law, and for other purposes," as amended (15 U.S.C. 715 *et seq*.), except those vested in the President by section 4 of the act (15 U.S.C. 715c).
 
 Sec. 2. The Secretary of the Interior may make such provisions in the Department of the Interior as he may deem appropriate to administer the said act.
 

@@ -12,4 +12,4 @@ Shall be fined under this title, or imprisoned not more than six months, or both
 
 #### Amendments ####
 
-**1994**—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
+**1994**—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $500".

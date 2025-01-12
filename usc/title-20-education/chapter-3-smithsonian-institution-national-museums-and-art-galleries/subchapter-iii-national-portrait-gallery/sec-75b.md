@@ -14,24 +14,24 @@ Act of March 28, 1958, referred to in subsec. (a), is act Mar. 28, 1958, Pub. L.
 
 Pub. L. 108–72, §3, Aug. 15, 2003, 117 Stat. 888, provided that:
 
-“(a) Authorization of Use of Funds.—
+"(a) Authorization of Use of Funds.—
 
-“(1) In general.—The Board of Regents of the Smithsonian Institution may plan, design, and construct improvements to the interior and exterior of the Patent Office Building (including the construction of a roof covering for the courtyard), using funds available to the Institution from nonappropriated sources.
+"(1) In general.—The Board of Regents of the Smithsonian Institution may plan, design, and construct improvements to the interior and exterior of the Patent Office Building (including the construction of a roof covering for the courtyard), using funds available to the Institution from nonappropriated sources.
 
-“(2) Definition.—In this section, the term ‘Patent Office Building’ means the building transferred to the Smithsonian Institution pursuant to Public Law 85–357 [72 Stat. 68].
+"(2) Definition.—In this section, the term 'Patent Office Building' means the building transferred to the Smithsonian Institution pursuant to Public Law 85–357 [72 Stat. 68].
 
-“(b) Design and Specifications.—The design and specifications for any exterior alterations authorized by subsection (a) shall be—
+"(b) Design and Specifications.—The design and specifications for any exterior alterations authorized by subsection (a) shall be—
 
-“(1) submitted by the Secretary of the Smithsonian Institution (referred to in this section as the ‘Secretary’) to the Commission of Fine Arts for comments and recommendations; and
+"(1) submitted by the Secretary of the Smithsonian Institution (referred to in this section as the 'Secretary') to the Commission of Fine Arts for comments and recommendations; and
 
-“(2) subject to the review and approval of the National Capital Planning Commission in accordance with section 8722 of title 40, United States Code, and section 16 of the Act of June 20, 1938 (sec. 6–641.15, D.C. Official Code).
+"(2) subject to the review and approval of the National Capital Planning Commission in accordance with section 8722 of title 40, United States Code, and section 16 of the Act of June 20, 1938 (sec. 6–641.15, D.C. Official Code).
 
-“(c) Authority of Historic Preservation Agencies.—
+"(c) Authority of Historic Preservation Agencies.—
 
-“(1) In general.—The Secretary shall—
+"(1) In general.—The Secretary shall—
 
-“(A) take into account the effect of the improvements authorized by subsection (a) on the historic character of the Patent Office Building; and
+"(A) take into account the effect of the improvements authorized by subsection (a) on the historic character of the Patent Office Building; and
 
-“(B) provide the Advisory Council on Historic Preservation a reasonable opportunity to comment with regard to such improvements.
+"(B) provide the Advisory Council on Historic Preservation a reasonable opportunity to comment with regard to such improvements.
 
-“(2) Status of smithsonian.—In carrying out this subsection, and in carrying out other projects in the District of Columbia which are subject to the review and approval of the National Capital Planning Commission in accordance with section 16 of the Act of June 20, 1938 (sec. 6–641.15, D.C. Official Code), the Smithsonian Institution shall be deemed to be an agency for purposes of compliance with regulations promulgated by the Advisory Council on Historic Preservation pursuant to section 106 of the National Historic Preservation Act (16 U.S.C. 470f).”
+"(2) Status of smithsonian.—In carrying out this subsection, and in carrying out other projects in the District of Columbia which are subject to the review and approval of the National Capital Planning Commission in accordance with section 16 of the Act of June 20, 1938 (sec. 6–641.15, D.C. Official Code), the Smithsonian Institution shall be deemed to be an agency for purposes of compliance with regulations promulgated by the Advisory Council on Historic Preservation pursuant to section 106 of the National Historic Preservation Act (16 U.S.C. 470f)."

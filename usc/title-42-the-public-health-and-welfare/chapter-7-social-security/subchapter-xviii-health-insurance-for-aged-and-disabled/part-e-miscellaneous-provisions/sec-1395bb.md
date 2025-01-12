@@ -14,7 +14,7 @@
 
 (B) The 210-day and 60-day deadlines specified in subparagraph (A) shall not apply in the case of any request for a finding with respect to accreditation of a provider entity to which the conditions and requirements of sections 1395i–3 and 1395x(j) of this title apply.
 
-(4) For purposes of this section, the term “provider entity” means a provider of services, supplier, facility, clinic, agency, or laboratory.
+(4) For purposes of this section, the term "provider entity" means a provider of services, supplier, facility, clinic, agency, or laboratory.
 
 #### (b) Disclosure of accreditation survey ####
 
@@ -34,63 +34,63 @@ For provisions relating to validation surveys of entities that are treated as me
 
 **2008**—Subsec. (a). Pub. L. 110–275, §125(a), redesignated subsec. (b) as (a) and struck out former subsec. (a) which provided criteria necessary for an institution to meet certain requirements enumerated in section 1395x(e) of this title.
 
-Subsec. (a)(1). Pub. L. 110–275, §125(b)(1)(A), substituted “If” for “In addition, if”.
+Subsec. (a)(1). Pub. L. 110–275, §125(b)(1)(A), substituted "If" for "In addition, if".
 
-Subsec. (b). Pub. L. 110–275, §125(a), (b)(1)(B), redesignated subsec. (c) as (b), substituted “released to the Secretary by” for “released to him by the Joint Commission on Accreditation of Hospitals,”, and struck out the comma after “Osteopathic Association”. Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 110–275, §125(a), (b)(1)(B), redesignated subsec. (c) as (b), substituted "released to the Secretary by" for "released to him by the Joint Commission on Accreditation of Hospitals,", and struck out the comma after "Osteopathic Association". Former subsec. (b) redesignated (a).
 
-Subsecs. (c), (d). Pub. L. 110–275, §125(a), (b)(1)(C), (D), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and substituted “pursuant to subsection (a)(1)” for “pursuant to subsection (a) or (b)(1)”. Former subsec. (c) redesignated (b).
+Subsecs. (c), (d). Pub. L. 110–275, §125(a), (b)(1)(C), (D), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and substituted "pursuant to subsection (a)(1)" for "pursuant to subsection (a) or (b)(1)". Former subsec. (c) redesignated (b).
 
 Subsec. (e). Pub. L. 110–275, §125(a), redesignated subsec. (e) as (d).
 
-**2003**—Subsec. (b)(3)(B). Pub. L. 108–173 substituted “sections” for “section”.
+**2003**—Subsec. (b)(3)(B). Pub. L. 108–173 substituted "sections" for "section".
 
-**1996**—Subsec. (a). Pub. L. 104–134, §101(d) [title V, §516(b)(2), (3)], struck out after second sentence: “In addition, if the Secretary finds that accreditation of an entity by the American Osteopathic Association or any other national accreditation body provides reasonable assurance that any or all of the conditions of section 1395k(a)(2)(F)(i), 1395x(e), 1395x(f), 1395x(j), 1395x(o), 1395x(p)(4)(A) or (B), paragraphs (15) and (16) of section 1395x(s), section 1395x(aa)(2), 1395x(cc)(2), 1395x(dd)(2), or 1395x(mm)(1) of this title, as the case may be, are met, he may, to the extent he deems it appropriate, treat such entity as meeting the condition or conditions with respect to which he made such finding.” and redesignated fourth sentence as subsec. (c).
+**1996**—Subsec. (a). Pub. L. 104–134, §101(d) [title V, §516(b)(2), (3)], struck out after second sentence: "In addition, if the Secretary finds that accreditation of an entity by the American Osteopathic Association or any other national accreditation body provides reasonable assurance that any or all of the conditions of section 1395k(a)(2)(F)(i), 1395x(e), 1395x(f), 1395x(j), 1395x(o), 1395x(p)(4)(A) or (B), paragraphs (15) and (16) of section 1395x(s), section 1395x(aa)(2), 1395x(cc)(2), 1395x(dd)(2), or 1395x(mm)(1) of this title, as the case may be, are met, he may, to the extent he deems it appropriate, treat such entity as meeting the condition or conditions with respect to which he made such finding." and redesignated fourth sentence as subsec. (c).
 
 Subsec. (b). Pub. L. 104–134, §101(d) [title V, §516(b)(3)], added subsec. (b). Former subsec. (b) redesignated (d).
 
 Subsec. (c). Pub. L. 104–134, §101(d) [title V, §516(b)(2)], redesignated fourth sentence of subsec. (a) as subsec. (c).
 
-Subsec. (d). Pub. L. 104–134, §101(d) [title V, §516(b)(1), (c)(2)(A)], redesignated subsec. (b) as (d) and substituted “a provider entity” for “a hospital”, “the entity” for “the hospital” in two places, and “the conditions or requirements the entity has been treated as meeting pursuant to subsection (a) or (b)(1) of this section” for “the requirements of the numbered paragraphs of section 1395x(e) of this title”.
+Subsec. (d). Pub. L. 104–134, §101(d) [title V, §516(b)(1), (c)(2)(A)], redesignated subsec. (b) as (d) and substituted "a provider entity" for "a hospital", "the entity" for "the hospital" in two places, and "the conditions or requirements the entity has been treated as meeting pursuant to subsection (a) or (b)(1) of this section" for "the requirements of the numbered paragraphs of section 1395x(e) of this title".
 
 Subsec. (e). Pub. L. 104–134, §101(d) [title V, §516(c)(2)(B)], added subsec. (e).
 
-**1994**—Subsec. (a). Pub. L. 103–432 struck out “1395m(c)(3),” after “conditions of section 1395k(a)(2)(F)(i),” in closing provisions.
+**1994**—Subsec. (a). Pub. L. 103–432 struck out "1395m(c)(3)," after "conditions of section 1395k(a)(2)(F)(i)," in closing provisions.
 
-**1990**—Subsec. (a). Pub. L. 101–508 inserted “1395m(c)(3),” after “1395k(a)(2)(F)(i),” in second sentence.
+**1990**—Subsec. (a). Pub. L. 101–508 inserted "1395m(c)(3)," after "1395k(a)(2)(F)(i)," in second sentence.
 
-**1989**—Subsec. (a). Pub. L. 101–239, §6115(c), substituted “paragraphs (15) and (16)” for “paragraphs (14) and (15)”.
+**1989**—Subsec. (a). Pub. L. 101–239, §6115(c), substituted "paragraphs (15) and (16)" for "paragraphs (14) and (15)".
 
-Pub. L. 101–239, §6019(b), inserted before period at end “, except that the Secretary may disclose such a survey and information related to such a survey to the extent such survey and information relate to an enforcement action taken by the Secretary”.
+Pub. L. 101–239, §6019(b), inserted before period at end ", except that the Secretary may disclose such a survey and information related to such a survey to the extent such survey and information relate to an enforcement action taken by the Secretary".
 
-Pub. L. 101–239, §6003(g)(3)(C)(iv), substituted “1395x(dd)(2), or 1395x(mm)(1) of this title” for “or 1395x(dd)(2) of this title” in third sentence.
+Pub. L. 101–239, §6003(g)(3)(C)(iv), substituted "1395x(dd)(2), or 1395x(mm)(1) of this title" for "or 1395x(dd)(2) of this title" in third sentence.
 
 Pub. L. 101–234 repealed Pub. L. 100–360, §204(c)(3), (d)(3), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 and 1989 Amendment notes.
 
-Subsec. (a)(2). Pub. L. 101–239, §6019(a), designated existing provisions as subpar. (A), struck out “(if it is included within a survey described in section 1395aa(c) of this title)” after “such institution”, inserted “, together with any other information directly related to the survey as the Secretary may require (including corrective action plans)” after “by such Commission”, and added subpar. (B).
+Subsec. (a)(2). Pub. L. 101–239, §6019(a), designated existing provisions as subpar. (A), struck out "(if it is included within a survey described in section 1395aa(c) of this title)" after "such institution", inserted ", together with any other information directly related to the survey as the Secretary may require (including corrective action plans)" after "by such Commission", and added subpar. (B).
 
-Subsec. (b). Pub. L. 101–239, §6019(c), struck out “following a survey made pursuant to section 1395aa(c) of this title” after “if the Secretary finds”.
+Subsec. (b). Pub. L. 101–239, §6019(c), struck out "following a survey made pursuant to section 1395aa(c) of this title" after "if the Secretary finds".
 
 **1988**—Subsec. (a). Pub. L. 100–360, §411(d)(4)(B)(ii), as amended by Pub. L. 100–485, §608(d)(20)(D), added Pub. L. 100–203, §4025(b), see 1987 Amendment note below.
 
-Pub. L. 100–360, §204(d)(3), substituted “paragraphs (14) and (15)” for “paragraphs (13) and (14)” in third sentence.
+Pub. L. 100–360, §204(d)(3), substituted "paragraphs (14) and (15)" for "paragraphs (13) and (14)" in third sentence.
 
-Pub. L. 100–360, §204(c)(3), inserted “1395m(e)(3),” after “1395k(a)(2)(F)(i),” in third sentence.
+Pub. L. 100–360, §204(c)(3), inserted "1395m(e)(3)," after "1395k(a)(2)(F)(i)," in third sentence.
 
-**1987**—Subsec. (a). Pub. L. 100–203, §4072(d), substituted “paragraphs (13) and (14)” for “paragraphs (12) and (13)” in penultimate sentence.
+**1987**—Subsec. (a). Pub. L. 100–203, §4072(d), substituted "paragraphs (13) and (14)" for "paragraphs (12) and (13)" in penultimate sentence.
 
-Pub. L. 100–203, §4025(b), as added by Pub. L. 100–360, §411(d)(4)(B)(ii), as amended by Pub. L. 100–485, §608(d)(20)(D), inserted “(other than a survey with respect to a home health agency)” after “survey” in last sentence.
+Pub. L. 100–203, §4025(b), as added by Pub. L. 100–360, §411(d)(4)(B)(ii), as amended by Pub. L. 100–485, §608(d)(20)(D), inserted "(other than a survey with respect to a home health agency)" after "survey" in last sentence.
 
-**1986**—Subsec. (a). Pub. L. 99–509, §9305(c)(3), inserted “, requires a discharge planning process (or imposes another requirement which serves substantially the same purpose)” after “the same purpose)”, and “clause (A) or (B) of” after “comply also with” in second sentence.
+**1986**—Subsec. (a). Pub. L. 99–509, §9305(c)(3), inserted ", requires a discharge planning process (or imposes another requirement which serves substantially the same purpose)" after "the same purpose)", and "clause (A) or (B) of" after "comply also with" in second sentence.
 
-Pub. L. 99–509, §9320(h)(3), substituted “paragraphs (12) and (13)” for “paragraphs (11) and (12)” in third sentence.
+Pub. L. 99–509, §9320(h)(3), substituted "paragraphs (12) and (13)" for "paragraphs (11) and (12)" in third sentence.
 
-**1984**—Subsec. (a). Pub. L. 98–369, §2346(a), in provisions following par. (4), substituted “section 1395k(a)(2)(F)(i), 1395x(e), 1395x(f), 1395x(j), 1395x(o), 1395x(p)(4)(A) or (B), paragraphs (11) and (12) of section 1395x(s), section 1395x(aa)(2), 1395x(cc)(2), or 1395x(dd)(2) of this title” for “section 1395x(e), (j), (o), or (dd) of this title”, and substituted “entity” for “institution or agency” in two places.
+**1984**—Subsec. (a). Pub. L. 98–369, §2346(a), in provisions following par. (4), substituted "section 1395k(a)(2)(F)(i), 1395x(e), 1395x(f), 1395x(j), 1395x(o), 1395x(p)(4)(A) or (B), paragraphs (11) and (12) of section 1395x(s), section 1395x(aa)(2), 1395x(cc)(2), or 1395x(dd)(2) of this title" for "section 1395x(e), (j), (o), or (dd) of this title", and substituted "entity" for "institution or agency" in two places.
 
-Pub. L. 98–369, §2345(a), struck out “(on a confidential basis)” after “release to the Secretary” in par. (2), and inserted provision that the Secretary may not disclose any accreditation survey made and released to him by the Joint Commission on Accreditation of Hospitals, the American Osteopathic Association, or any other national accreditation body, of an entity accredited by such body, in provisions following par. (4).
+Pub. L. 98–369, §2345(a), struck out "(on a confidential basis)" after "release to the Secretary" in par. (2), and inserted provision that the Secretary may not disclose any accreditation survey made and released to him by the Joint Commission on Accreditation of Hospitals, the American Osteopathic Association, or any other national accreditation body, of an entity accredited by such body, in provisions following par. (4).
 
-**1982**—Subsec. (a). Pub. L. 97–248, §122(g)(4), substituted “(o), or (dd)” for “or (o)”.
+**1982**—Subsec. (a). Pub. L. 97–248, §122(g)(4), substituted "(o), or (dd)" for "or (o)".
 
-Subsec. (b). Pub. L. 97–248, §128(d)(3), substituted “a hospital” for “an institution” and “the hospital” for “such institution”.
+Subsec. (b). Pub. L. 97–248, §128(d)(3), substituted "a hospital" for "an institution" and "the hospital" for "such institution".
 
 **1972**—Pub. L. 92–603 designated existing provisions as subsec. (a), inserted reference to subsec. (b) of this section in opening provisions, redesignated existing provisions as pars. (1) and (3) and added pars. (2) and (4) and in provisions following par. (4) inserted provisions for the imposition of a standard which the Secretary determines is at least equivalent to the standard promulgated by the Secretary as described in par. (4), and added subsec. (b).
 
@@ -98,9 +98,9 @@ Subsec. (b). Pub. L. 97–248, §128(d)(3), substituted “a hospital” for “
 
 Pub. L. 110–275, title I, §125(d), July 15, 2008, 122 Stat. 2520, provided that:
 
-“(1) Subject to paragraph (2), the amendments made by this section [amending this section and sections 1395m, 1395w–22, 1395x, 1395aa, and 1395ll of this title] shall apply with respect to accreditations of hospitals granted on or after the date that is 24 months after the date of the enactment of this Act [July 15, 2008].
+"(1) Subject to paragraph (2), the amendments made by this section [amending this section and sections 1395m, 1395w–22, 1395x, 1395aa, and 1395ll of this title] shall apply with respect to accreditations of hospitals granted on or after the date that is 24 months after the date of the enactment of this Act [July 15, 2008].
 
-“(2) For purposes of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.), the amendments made by this section shall not effect [sic] the accreditation of a hospital by the Joint Commission, or under accreditation or comparable approval standards found to be essentially equivalent to accreditation or approval standards of the Joint Commission, for the period of time applicable under such accreditation.”
+"(2) For purposes of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.), the amendments made by this section shall not effect [sic] the accreditation of a hospital by the Joint Commission, or under accreditation or comparable approval standards found to be essentially equivalent to accreditation or approval standards of the Joint Commission, for the period of time applicable under such accreditation."
 
 #### Effective Date of 1994 Amendment ####
 
@@ -114,9 +114,9 @@ Amendment by Pub. L. 101–508 applicable to screening mammography performed on 
 
 Pub. L. 101–239, title VI, §6019(d), Dec. 19, 1989, 103 Stat. 2166, provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 19, 1989].
+"(1) Except as provided in paragraph (2), the amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 19, 1989].
 
-“(2) The amendments made by subsection (a) [amending this section] shall take effect 6 months after the date of the enactment of this Act.”
+"(2) The amendments made by subsection (a) [amending this section] shall take effect 6 months after the date of the enactment of this Act."
 
 Amendment by section 6115(c) of Pub. L. 101–239 applicable to screening pap smears performed on or after July 1, 1990, see section 6115(d) of Pub. L. 101–239, set out as a note under section 1395x of this title.
 
@@ -144,9 +144,9 @@ Amendment by section 9320(h)(3) of Pub. L. 99–509 applicable to services furni
 
 #### Effective Date of 1984 Amendment ####
 
-Pub. L. 98–369, div. B, title III, §2345(b), July 18, 1984, 98 Stat. 1096, provided that: “The amendments made by this section [amending this section] shall become effective on the date of the enactment of this Act [July 18, 1984], and shall apply with respect to surveys released to the Secretary on, before, or after such date.”
+Pub. L. 98–369, div. B, title III, §2345(b), July 18, 1984, 98 Stat. 1096, provided that: "The amendments made by this section [amending this section] shall become effective on the date of the enactment of this Act [July 18, 1984], and shall apply with respect to surveys released to the Secretary on, before, or after such date."
 
-Pub. L. 98–369, div. B, title III, §2346(b), July 18, 1984, 98 Stat. 1096, provided that: “The amendments made by this section [amending this section] shall become effective on the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. B, title III, §2346(b), July 18, 1984, 98 Stat. 1096, provided that: "The amendments made by this section [amending this section] shall become effective on the date of the enactment of this Act [July 18, 1984]."
 
 #### Effective Date of 1982 Amendment ####
 
@@ -160,4 +160,4 @@ Amendment by section 234(h) of Pub. L. 92–603 applicable with respect to provi
 
 #### Authority To Recognize the Joint Commission as a National Accreditation Body ####
 
-Pub. L. 110–275, title I, §125(c), July 15, 2008, 122 Stat. 2519, provided that: “The Secretary of Health and Human Services may recognize the Joint Commission as a national accreditation body under section 1865 of the Social Security Act (42 U.S.C. 1395bb), as amended by this section, upon such terms and conditions, and upon submission of such information, as the Secretary may require.”
+Pub. L. 110–275, title I, §125(c), July 15, 2008, 122 Stat. 2519, provided that: "The Secretary of Health and Human Services may recognize the Joint Commission as a national accreditation body under section 1865 of the Social Security Act (42 U.S.C. 1395bb), as amended by this section, upon such terms and conditions, and upon submission of such information, as the Secretary may require."

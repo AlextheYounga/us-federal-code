@@ -24,4 +24,4 @@ The Secretary, acting through the National Park Service, shall coordinate a comp
 
 (Pub. L. 103–449, title III, §304, Nov. 2, 1994, 108 Stat. 4758.)
 
-[<sup>1</sup> So in original. Probably should be “Cane River National Heritage Area Commission”.](#410ccc-2_1)
+[<sup>1</sup> So in original. Probably should be "Cane River National Heritage Area Commission".](#410ccc-2_1)

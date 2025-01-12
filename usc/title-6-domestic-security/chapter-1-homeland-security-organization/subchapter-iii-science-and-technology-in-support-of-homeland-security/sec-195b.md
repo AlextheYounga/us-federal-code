@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-The Secretary shall establish, operate, and maintain a National Biosurveillance Integration Center (referred to in this section as the “NBIC”), which shall be headed by a Directing Officer, under an office or directorate of the Department that is in existence as of August 3, 2007.
+The Secretary shall establish, operate, and maintain a National Biosurveillance Integration Center (referred to in this section as the "NBIC"), which shall be headed by a Directing Officer, under an office or directorate of the Department that is in existence as of August 3, 2007.
 
 #### (b) Primary mission ####
 
@@ -122,24 +122,24 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 In this section:
 
-(1) The terms “biological agent” and “toxin” have the meanings given those terms in section 178 of title 18.
+(1) The terms "biological agent" and "toxin" have the meanings given those terms in section 178 of title 18.
 
-(2) The term “biological event of national concern” means—
+(2) The term "biological event of national concern" means—
 
 (A) an act of terrorism involving a biological agent or toxin; or
 
 (B) a naturally occurring outbreak of an infectious disease that may result in a national epidemic.
 
-(3) The term “homeland security information” has the meaning given that term in section 482 of this title.
+(3) The term "homeland security information" has the meaning given that term in section 482 of this title.
 
-(4) The term “Member Agency” means any Federal department or agency that, at the discretion of the head of that department or agency, has entered a memorandum of understanding regarding participation in the NBIC.
+(4) The term "Member Agency" means any Federal department or agency that, at the discretion of the head of that department or agency, has entered a memorandum of understanding regarding participation in the NBIC.
 
-(5) The term “Privacy Officer” means the Privacy Officer appointed under section 142 of this title.
+(5) The term "Privacy Officer" means the Privacy Officer appointed under section 142 of this title.
 
 (Pub. L. 107–296, title III, §316, as added Pub. L. 110–53, title XI, §1101(a), Aug. 3, 2007, 121 Stat. 375.)
 
 #### Deadline for Implementation ####
 
-Pub. L. 110–53, title XI, §1101(c), Aug. 3, 2007, 121 Stat. 378, provided that: “The National Biosurveillance Integration Center under section 316 of the Homeland Security Act [of 2002, 6 U.S.C. 195b], as added by subsection (a), shall be fully operational by not later than September 30, 2008.”
+Pub. L. 110–53, title XI, §1101(c), Aug. 3, 2007, 121 Stat. 378, provided that: "The National Biosurveillance Integration Center under section 316 of the Homeland Security Act [of 2002, 6 U.S.C. 195b], as added by subsection (a), shall be fully operational by not later than September 30, 2008."
 
 [<sup>1</sup> So in original. No par. (2) has been enacted.](#195b_1)

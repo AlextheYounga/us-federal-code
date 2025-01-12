@@ -33,7 +33,7 @@ Chap. Sec.
 
 **2013**—Pub. L. 112–239, div. A, title X, §1076(a)(7), Jan. 2, 2013, 126 Stat. 1948, made technical amendment to directory language of Pub. L. 112–81, §631(f)(2). See 2011 Amendment note below.
 
-**2011**—Pub. L. 112–81, div. A, title VI, §631(f)(2), Dec. 31, 2011, 125 Stat. 1464, as amended by Pub. L. 112–239, div. A, title X, §1076(a)(7), Jan. 2, 2013, 126 Stat. 1948, substituted “Allowances Other Than Travel and Transportation Allowances” for “Allowances” in item for chapter 7 and added item for chapter 8.
+**2011**—Pub. L. 112–81, div. A, title VI, §631(f)(2), Dec. 31, 2011, 125 Stat. 1464, as amended by Pub. L. 112–239, div. A, title X, §1076(a)(7), Jan. 2, 2013, 126 Stat. 1948, substituted "Allowances Other Than Travel and Transportation Allowances" for "Allowances" in item for chapter 7 and added item for chapter 8.
 
 **1966**—Pub. L. 89–554, §5(a), Sept. 6, 1966, 80 Stat. 625, added item for chapter 10.
 
@@ -225,34 +225,34 @@ Chap. Sec.
 
 #### Enacting Clause ####
 
-Pub. L. 87–649, §1, Sept. 7, 1962, 76 Stat. 451, provided in part: “That the laws relating to pay and allowances of the uniformed services of the United States are revised, codified, and enacted as title 37 of the United States Code, entitled ‘Pay and Allowances of the Uniformed Services’.”
+Pub. L. 87–649, §1, Sept. 7, 1962, 76 Stat. 451, provided in part: "That the laws relating to pay and allowances of the uniformed services of the United States are revised, codified, and enacted as title 37 of the United States Code, entitled 'Pay and Allowances of the Uniformed Services'."
 
 #### Effective Date ####
 
-Pub. L. 87–649, §15, Sept. 7, 1962, 76 Stat. 502, provided in part that: “This Act shall take effect on November 1, 1962.”
+Pub. L. 87–649, §15, Sept. 7, 1962, 76 Stat. 502, provided in part that: "This Act shall take effect on November 1, 1962."
 
 #### Inconsistent Provisions ####
 
-Pub. L. 87–649, §15, Sept. 7, 1962, 76 Stat. 502, provided in part that: “Laws enacted after January 9, 1962, that are inconsistent with this Act shall supersede it to the extent of the inconsistency.”
+Pub. L. 87–649, §15, Sept. 7, 1962, 76 Stat. 502, provided in part that: "Laws enacted after January 9, 1962, that are inconsistent with this Act shall supersede it to the extent of the inconsistency."
 
 #### Savings and Severability Provisions ####
 
 Pub. L. 87–649, §12, Sept. 7, 1962, 76 Stat. 497, provided that:
 
-“(a) In sections 1–11 of this Act, it is the legislative purpose to restate, without substantive change, the law replaced by those sections on the effective date of this Act [Nov. 1, 1962]. However, laws effective after January 9, 1962, that are inconsistent with this Act, shall be considered as superseding it to the extent of the inconsistency.
+"(a) In sections 1–11 of this Act, it is the legislative purpose to restate, without substantive change, the law replaced by those sections on the effective date of this Act [Nov. 1, 1962]. However, laws effective after January 9, 1962, that are inconsistent with this Act, shall be considered as superseding it to the extent of the inconsistency.
 
-“(b) References that other laws, regulations, and orders make to the replaced law shall be considered to be made to the corresponding provisions of sections 1–11 of this Act.
+"(b) References that other laws, regulations, and orders make to the replaced law shall be considered to be made to the corresponding provisions of sections 1–11 of this Act.
 
-“(c) Actions taken under the replaced law shall be considered to have been taken under the corresponding provisions of sections 1–11 of this Act.
+"(c) Actions taken under the replaced law shall be considered to have been taken under the corresponding provisions of sections 1–11 of this Act.
 
-“(d) If a part of this Act is invalid, all valid parts that are severable from the invalid part remain in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications.
+"(d) If a part of this Act is invalid, all valid parts that are severable from the invalid part remain in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications.
 
-“(e) The enactment of this Act does not increase or decrease the pay or allowances, including retired or retainer pay, of any person.”
+"(e) The enactment of this Act does not increase or decrease the pay or allowances, including retired or retainer pay, of any person."
 
 #### Restatement of Suspended or Temporarily Superseded Provisions ####
 
-Pub. L. 87–649, §13, Sept. 7, 1962, 76 Stat. 498, provided that: “If on the effective date of this Act [Nov. 1, 1962], a provision of law that is restated in this Act and repealed by section 14 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status.”
+Pub. L. 87–649, §13, Sept. 7, 1962, 76 Stat. 498, provided that: "If on the effective date of this Act [Nov. 1, 1962], a provision of law that is restated in this Act and repealed by section 14 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status."
 
 #### Repeals ####
 
-Pub. L. 87–649, §14, Sept. 7, 1962, 76 Stat. 498, repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this title, “except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun before the effective date of this Act [Nov. 1, 1962] and except as provided in section 12.”
+Pub. L. 87–649, §14, Sept. 7, 1962, 76 Stat. 498, repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this title, "except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun before the effective date of this Act [Nov. 1, 1962] and except as provided in section 12."

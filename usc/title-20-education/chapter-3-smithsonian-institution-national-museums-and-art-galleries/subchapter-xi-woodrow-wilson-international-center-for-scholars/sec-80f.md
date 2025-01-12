@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-There is hereby established in the Smithsonian Institution a Woodrow Wilson International Center for Scholars and a Board of Trustees of the Center (hereinafter referred to as the “Center” and the “Board”), whose duties it shall be to maintain and administer the Center and site thereof and to execute such other functions as are vested in the Board by this subchapter.
+There is hereby established in the Smithsonian Institution a Woodrow Wilson International Center for Scholars and a Board of Trustees of the Center (hereinafter referred to as the "Center" and the "Board"), whose duties it shall be to maintain and administer the Center and site thereof and to execute such other functions as are vested in the Board by this subchapter.
 
 #### (b) Composition of Board ####
 
@@ -42,43 +42,43 @@ The President shall designate a Chairman and a Vice Chairman from among the memb
 
 #### Amendments ####
 
-**1998**—Subsec. (b). Pub. L. 105–277, §1335(i)(1)(A), substituted “17” for “19” in introductory provisions.
+**1998**—Subsec. (b). Pub. L. 105–277, §1335(i)(1)(A), substituted "17" for "19" in introductory provisions.
 
-Subsec. (b)(7) to (10). Pub. L. 105–277, §1335(i)(1)(B)–(D), redesignated pars. (8) to (10) as (7) to (9), respectively, in par. (9) substituted “9” for “10”, and struck out former par. (7) which read as follows: “the Director of the United States Information Agency;”.
+Subsec. (b)(7) to (10). Pub. L. 105–277, §1335(i)(1)(B)–(D), redesignated pars. (8) to (10) as (7) to (9), respectively, in par. (9) substituted "9" for "10", and struck out former par. (7) which read as follows: "the Director of the United States Information Agency;".
 
-Subsec. (c). Pub. L. 105–277, §1335(i)(2), substituted “(8)” for “(9)”.
+Subsec. (c). Pub. L. 105–277, §1335(i)(2), substituted "(8)" for "(9)".
 
-**1990**—Subsec. (b). Pub. L. 101–268, §1, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Board of Trustees shall be composed of sixteen members as follows:
+**1990**—Subsec. (b). Pub. L. 101–268, §1, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The Board of Trustees shall be composed of sixteen members as follows:
 
-“(1) the Secretary of State;
+"(1) the Secretary of State;
 
-“(2) the Director of the United States Information Agency;
+"(2) the Director of the United States Information Agency;
 
-“(3) the Secretary of Health and Human Services;
+"(3) the Secretary of Health and Human Services;
 
-“(4) the Chairman of the National Endowment for the Humanities;
+"(4) the Chairman of the National Endowment for the Humanities;
 
-“(5) the Secretary of the Smithsonian Institution;
+"(5) the Secretary of the Smithsonian Institution;
 
-“(6) the Librarian of Congress;
+"(6) the Librarian of Congress;
 
-“(7) the Archivist of the United States;
+"(7) the Archivist of the United States;
 
-“(8) one appointed by the President from time to time from within the Federal Government; and
+"(8) one appointed by the President from time to time from within the Federal Government; and
 
-“(9) eight appointed by the President from private life.”
+"(9) eight appointed by the President from private life."
 
-Subsec. (c). Pub. L. 101–268, §2(1), substituted “(9)” for “(8)”.
+Subsec. (c). Pub. L. 101–268, §2(1), substituted "(9)" for "(8)".
 
-Subsec. (d). Pub. L. 101–268, §2(2), substituted “(10)” for “(9)”.
+Subsec. (d). Pub. L. 101–268, §2(2), substituted "(10)" for "(9)".
 
-**1978**—Subsec. (b). Pub. L. 95–426, §206(a)(1), substituted “sixteen” for “fifteen”.
+**1978**—Subsec. (b). Pub. L. 95–426, §206(a)(1), substituted "sixteen" for "fifteen".
 
-Subsec. (b)(2) to (9). Pub. L. 95–426, §206(a)(2), (3), designated pars. (2) to (8) as (3) to (9), respectively, and added a new par. (2) “the Director of the International Communication Agency”.
+Subsec. (b)(2) to (9). Pub. L. 95–426, §206(a)(2), (3), designated pars. (2) to (8) as (3) to (9), respectively, and added a new par. (2) "the Director of the International Communication Agency".
 
-Subsec. (c). Pub. L. 95–426, §206(b)(1), substituted “(8)” for “(7)”.
+Subsec. (c). Pub. L. 95–426, §206(b)(1), substituted "(8)" for "(7)".
 
-Subsec. (d). Pub. L. 95–426, §206(b)(2), substituted “(9)” for “(8)”.
+Subsec. (d). Pub. L. 95–426, §206(b)(2), substituted "(9)" for "(8)".
 
 #### Effective Date of 1998 Amendment ####
 

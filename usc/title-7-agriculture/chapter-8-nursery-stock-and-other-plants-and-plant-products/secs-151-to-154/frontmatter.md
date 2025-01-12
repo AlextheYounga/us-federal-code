@@ -1,8 +1,8 @@
 ### §§151 to 154. Repealed. Pub. L. 106–224, title IV, §438(a)(1), June 20, 2000, 114 Stat. 454 ###
 
-Section 151, act Aug. 20, 1912, ch. 308, §11, 37 Stat. 319, defined “person” as used in this chapter.
+Section 151, act Aug. 20, 1912, ch. 308, §11, 37 Stat. 319, defined "person" as used in this chapter.
 
-Section 152, act Aug. 20, 1912, ch. 308, §6, 37 Stat. 317, defined “nursery stock” for purpose of this chapter.
+Section 152, act Aug. 20, 1912, ch. 308, §6, 37 Stat. 317, defined "nursery stock" for purpose of this chapter.
 
 Section 153, act Aug. 20, 1912, ch. 308, §11, 37 Stat. 319, related to liability of principal for act or omission of agent.
 

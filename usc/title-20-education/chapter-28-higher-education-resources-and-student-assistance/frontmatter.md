@@ -364,7 +364,7 @@ Sec.
 
 1070c–3a. Grants for access and persistence.
 
-1070c–4. “Community service” defined.
+1070c–4. "Community service" defined.
 
 1070d to 1070d–1d. Repealed.
 

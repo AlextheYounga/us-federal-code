@@ -8,7 +8,7 @@ The Secretary, acting through the officer designated under paragraph (2), shall 
 
 #### (2) Designation of officer ####
 
-The Secretary shall designate an officer responsible for the accreditation and certification program under this section. Such officer (hereinafter referred to in this section as the “designated officer”) shall be one of the following:
+The Secretary shall designate an officer responsible for the accreditation and certification program under this section. Such officer (hereinafter referred to in this section as the "designated officer") shall be one of the following:
 
 (A) The Administrator, based on consideration of—
 
@@ -98,7 +98,7 @@ In developing and implementing the program under this subsection, the designated
 
 #### (i) In general ####
 
-Not later than 210 days after August 3, 2007, the designated officer shall enter into one or more agreements with a highly qualified nongovernmental entity with experience or expertise in coordinating and facilitating the development and use of voluntary consensus standards and in managing or implementing accreditation and certification programs for voluntary consensus standards, or a similarly qualified private sector entity, to carry out accreditations and oversee the certification process under this subsection. An entity entering into an agreement with the designated officer under this clause (hereinafter referred to in this section as a “selected entity”) shall not perform certifications under this subsection.
+Not later than 210 days after August 3, 2007, the designated officer shall enter into one or more agreements with a highly qualified nongovernmental entity with experience or expertise in coordinating and facilitating the development and use of voluntary consensus standards and in managing or implementing accreditation and certification programs for voluntary consensus standards, or a similarly qualified private sector entity, to carry out accreditations and oversee the certification process under this subsection. An entity entering into an agreement with the designated officer under this clause (hereinafter referred to in this section as a "selected entity") shall not perform certifications under this subsection.
 
 #### (ii) Contents ####
 
@@ -128,7 +128,7 @@ A selected entity may accredit any qualified third party to carry out the certif
 
 #### (D) Disadvantaged business involvement ####
 
-In accrediting qualified third parties to carry out the certification process under this subsection, a selected entity shall ensure, to the extent practicable, that the third parties include qualified small, minority, women-owned, or disadvantaged business concerns when appropriate. The term “disadvantaged business concern” means a small business that is owned and controlled by socially and economically disadvantaged individuals, as defined in section 124 of title 13, United States Code of Federal Regulations.
+In accrediting qualified third parties to carry out the certification process under this subsection, a selected entity shall ensure, to the extent practicable, that the third parties include qualified small, minority, women-owned, or disadvantaged business concerns when appropriate. The term "disadvantaged business concern" means a small business that is owned and controlled by socially and economically disadvantaged individuals, as defined in section 124 of title 13, United States Code of Federal Regulations.
 
 #### (E) Treatment of other certifications ####
 
@@ -202,4 +202,4 @@ Nothing in this section may be construed as—
 
 #### Deadline for Designation of Officer ####
 
-Pub. L. 110–53, title IX, §901(c), Aug. 3, 2007, 121 Stat. 371, provided that: “The Secretary of Homeland Security shall designate the officer as described in section 524 of the Homeland Security Act of 2002 [6 U.S.C. 321m], as added by subsection (a), by not later than 30 days after the date of the enactment of this Act [Aug. 3, 2007].”
+Pub. L. 110–53, title IX, §901(c), Aug. 3, 2007, 121 Stat. 371, provided that: "The Secretary of Homeland Security shall designate the officer as described in section 524 of the Homeland Security Act of 2002 [6 U.S.C. 321m], as added by subsection (a), by not later than 30 days after the date of the enactment of this Act [Aug. 3, 2007]."

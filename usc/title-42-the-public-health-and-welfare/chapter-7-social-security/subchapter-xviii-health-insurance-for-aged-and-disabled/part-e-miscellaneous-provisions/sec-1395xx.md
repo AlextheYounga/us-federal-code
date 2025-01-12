@@ -4,7 +4,7 @@
 
 (1) The Secretary shall by regulation determine criteria for distinguishing those services (including inpatient and outpatient services) rendered in hospitals or skilled nursing facilities—
 
-(A) which constitute professional medical services, which are personally rendered for an individual patient by a physician and which contribute to the diagnosis or treatment of an individual patient, and which may be reimbursed as physicians’ services under part B, and
+(A) which constitute professional medical services, which are personally rendered for an individual patient by a physician and which contribute to the diagnosis or treatment of an individual patient, and which may be reimbursed as physicians' services under part B, and
 
 (B) which constitute professional services which are rendered for the general benefit to patients in a hospital or skilled nursing facility and which may be reimbursed only on a reasonable cost basis or on the bases described in section 1395ww of this title.
 
@@ -32,7 +32,7 @@
 
 #### Amendments ####
 
-**1983**—Subsec. (a)(1)(B). Pub. L. 98–21 inserted “or on the bases described in section 1395ww of this title”.
+**1983**—Subsec. (a)(1)(B). Pub. L. 98–21 inserted "or on the bases described in section 1395ww of this title".
 
 **1982**—Subsec. (b). Pub. L. 97–248, §109(a)(2), added subsec. (b).
 
@@ -44,10 +44,10 @@ Amendment by Pub. L. 98–21 applicable to items and services furnished by or un
 
 Pub. L. 97–248, title I, §109(c)(1), (2), Sept. 3, 1982, 96 Stat. 339, provided that:
 
-“(1) The amendments made by this section [amending this section and section 1395x of this title] shall become effective on the date of the enactment of this Act [Sept. 3, 1982], except that section 1887(b)(1) of the Social Security Act [42 U.S.C. 1395xx(b)(1)] shall not apply before October 1, 1982, to services furnished by a physician and described in section 1887(a)(1)(B) of such Act [42 U.S.C. 1395xx(a)(1)(B)].
+"(1) The amendments made by this section [amending this section and section 1395x of this title] shall become effective on the date of the enactment of this Act [Sept. 3, 1982], except that section 1887(b)(1) of the Social Security Act [42 U.S.C. 1395xx(b)(1)] shall not apply before October 1, 1982, to services furnished by a physician and described in section 1887(a)(1)(B) of such Act [42 U.S.C. 1395xx(a)(1)(B)].
 
-“(2) In the case of a contract with a provider of services entered into prior to the date of the enactment of this Act [Sept. 3, 1982], the amendment made by subsection (a) [amending this section] shall apply to payments under such contract (A) 30 days after the first date (after such date of enactment) the provider of services may unilaterally terminate the contract, or (B) one year after the date of the enactment of this Act, whichever is earlier.”
+"(2) In the case of a contract with a provider of services entered into prior to the date of the enactment of this Act [Sept. 3, 1982], the amendment made by subsection (a) [amending this section] shall apply to payments under such contract (A) 30 days after the first date (after such date of enactment) the provider of services may unilaterally terminate the contract, or (B) one year after the date of the enactment of this Act, whichever is earlier."
 
 #### Effective Date of Regulations ####
 
-Pub. L. 97–248, title I, §108(b), formerly §108(c), Sept. 3, 1982, 96 Stat. 338, as redesignated by Pub. L. 97–448, title III, §309(a)(3), Jan. 12, 1983, 96 Stat. 2408, provided that: “The Secretary of Health and Human Services shall first promulgate regulations to carry out section 1887(a) of the Social Security Act [42 U.S.C. 1395xx(a)] not later than October 1, 1982. Such regulations shall become effective on October 1, 1982, and shall be effective with respect to cost reporting periods ending after September 30, 1982, but in the case of any cost reporting period beginning before October 1, 1982, any reduction in payments under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] to a hospital or skilled nursing facility resulting from such regulations shall be imposed only in proportion to the part of the period which occurs after September 30, 1982.”
+Pub. L. 97–248, title I, §108(b), formerly §108(c), Sept. 3, 1982, 96 Stat. 338, as redesignated by Pub. L. 97–448, title III, §309(a)(3), Jan. 12, 1983, 96 Stat. 2408, provided that: "The Secretary of Health and Human Services shall first promulgate regulations to carry out section 1887(a) of the Social Security Act [42 U.S.C. 1395xx(a)] not later than October 1, 1982. Such regulations shall become effective on October 1, 1982, and shall be effective with respect to cost reporting periods ending after September 30, 1982, but in the case of any cost reporting period beginning before October 1, 1982, any reduction in payments under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] to a hospital or skilled nursing facility resulting from such regulations shall be imposed only in proportion to the part of the period which occurs after September 30, 1982."

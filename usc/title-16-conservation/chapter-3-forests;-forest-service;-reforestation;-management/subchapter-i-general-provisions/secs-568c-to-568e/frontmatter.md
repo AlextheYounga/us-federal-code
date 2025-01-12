@@ -12,4 +12,4 @@ Repeal effective Oct. 1, 1978, see section 17 of Pub. L. 95–313, set out as an
 
 #### Short Title ####
 
-Section 4 of act Aug. 25, 1950, setting forth the popular name of the act of Aug. 25, 1950, as the “Cooperative Forest Management Act,” was repealed by Pub. L. 95–313, §16(a)(4), formerly §13(a)(4), July 1, 1978, 92 Stat. 374, renumbered §16(a)(4), Pub. L. 101–624, title XII, §1215(1), Nov. 28, 1990, 104 Stat. 3525.
+Section 4 of act Aug. 25, 1950, setting forth the popular name of the act of Aug. 25, 1950, as the "Cooperative Forest Management Act," was repealed by Pub. L. 95–313, §16(a)(4), formerly §13(a)(4), July 1, 1978, 92 Stat. 374, renumbered §16(a)(4), Pub. L. 101–624, title XII, §1215(1), Nov. 28, 1990, 104 Stat. 3525.

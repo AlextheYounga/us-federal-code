@@ -24,6 +24,6 @@ Sec.
 
 **1994**—Pub. L. 103–322, title II, §20414(a)(2), title XXXIII, §330010(3), Sept. 13, 1994, 108 Stat. 1830, 2143, transferred analysis of this subchapter to follow heading for this subchapter and added item 3608.
 
-**1990**—Pub. L. 101–647, title XXXV, §3590, Nov. 29, 1990, 104 Stat. 4930, substituted “possessors” for “possessor” in item 3607.
+**1990**—Pub. L. 101–647, title XXXV, §3590, Nov. 29, 1990, 104 Stat. 4930, substituted "possessors" for "possessor" in item 3607.
 
 [<sup>1</sup> So in original. Probably should not appear.](#I_1)

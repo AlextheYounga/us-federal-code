@@ -214,7 +214,7 @@ Subsec. (a)(3). Pub. L. 100–532, §402, added par. (3).
 
 Subsecs. (e), (f). Pub. L. 100–532, §403, added subsecs. (e) and (f).
 
-Subsec. (f)(2). Pub. L. 100–532, §801(q)(1)(D), substituted “136i” for “136b”.
+Subsec. (f)(2). Pub. L. 100–532, §801(q)(1)(D), substituted "136i" for "136b".
 
 Subsecs. (g), (h). Pub. L. 100–532, §403, added subsecs. (g) and (h).
 

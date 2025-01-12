@@ -50,93 +50,93 @@
 
 #### Amendments ####
 
-**2013**—Subsec. (e). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+**2013**—Subsec. (e). Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-**2011**—Subsec. (e). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+**2011**—Subsec. (e). Pub. L. 112–81 substituted "December 31, 2012" for "December 31, 2011".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
-**2009**—Subsec. (e). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+**2009**—Subsec. (e). Pub. L. 111–84 substituted "December 31, 2010" for "December 31, 2009".
 
-**2008**—Subsec. (e). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+**2008**—Subsec. (e). Pub. L. 110–417 substituted "December 31, 2009" for "December 31, 2008".
 
-Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
+Pub. L. 110–181 substituted "December 31, 2008" for "December 31, 2007".
 
-**2006**—Subsec. (c). Pub. L. 109–163, §687(b)(18)(A), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “A person who receives a bonus payment under this section and who fails during the period for which the bonus was paid to serve satisfactorily in the Ready Reserve shall refund to the United States an amount which bears the same ratio to the amount of the bonus paid to such person as the period which such person failed to serve satisfactorily bears to the total period for which the bonus was paid.”
+**2006**—Subsec. (c). Pub. L. 109–163, §687(b)(18)(A), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: "A person who receives a bonus payment under this section and who fails during the period for which the bonus was paid to serve satisfactorily in the Ready Reserve shall refund to the United States an amount which bears the same ratio to the amount of the bonus paid to such person as the period which such person failed to serve satisfactorily bears to the total period for which the bonus was paid."
 
-Subsec. (d). Pub. L. 109–163, §687(b)(18)(B), (C), redesignated subsec. (f) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “An obligation to reimburse the United States imposed under subsection (c) is, for all purposes, a debt owed to the United States.”
+Subsec. (d). Pub. L. 109–163, §687(b)(18)(B), (C), redesignated subsec. (f) as (d) and struck out heading and text of former subsec. (d). Text read as follows: "An obligation to reimburse the United States imposed under subsection (c) is, for all purposes, a debt owed to the United States."
 
-Subsec. (e). Pub. L. 109–364 substituted “December 31, 2007” for “December 31, 2006”.
+Subsec. (e). Pub. L. 109–364 substituted "December 31, 2007" for "December 31, 2006".
 
-Pub. L. 109–163, §687(b)(18)(B), (C), redesignated subsec. (g) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “A discharge in bankruptcy under title 11 that is entered less than five years after the termination of a reenlistment, enlistment, or extension for which a bonus was paid under this section does not discharge the person receiving such bonus payment from the debt arising under subsection (c). This subsection applies to any case commenced under title 11 after September 24, 1983.”
+Pub. L. 109–163, §687(b)(18)(B), (C), redesignated subsec. (g) as (e) and struck out heading and text of former subsec. (e). Text read as follows: "A discharge in bankruptcy under title 11 that is entered less than five years after the termination of a reenlistment, enlistment, or extension for which a bonus was paid under this section does not discharge the person receiving such bonus payment from the debt arising under subsection (c). This subsection applies to any case commenced under title 11 after September 24, 1983."
 
 Subsec. (f). Pub. L. 109–163, §687(b)(18)(C), redesignated subsec. (f) as (d).
 
 Subsec. (g). Pub. L. 109–163, §687(b)(18)(C), redesignated subsec. (g) as (e).
 
-Pub. L. 109–163, §621(d), substituted “December 31, 2006” for “December 31, 2005”.
+Pub. L. 109–163, §621(d), substituted "December 31, 2006" for "December 31, 2005".
 
-**2004**—Subsec. (b)(2)(A). Pub. L. 108–375, §618(e)(1), substituted “$3,000” for “$1,500”.
+**2004**—Subsec. (b)(2)(A). Pub. L. 108–375, §618(e)(1), substituted "$3,000" for "$1,500".
 
-Subsec. (b)(2)(B). Pub. L. 108–375, §618(e)(2), substituted “$1,500” for “$750”.
+Subsec. (b)(2)(B). Pub. L. 108–375, §618(e)(2), substituted "$1,500" for "$750".
 
 Subsec. (b)(4). Pub. L. 108–375, §618(e)(3), added par. (4).
 
-Subsec. (g). Pub. L. 108–375, §611(e), substituted “December 31, 2005” for “December 31, 2004”.
+Subsec. (g). Pub. L. 108–375, §611(e), substituted "December 31, 2005" for "December 31, 2004".
 
 **2003**—Subsec. (a)(4). Pub. L. 108–136, §626(c), added par. (4).
 
-Subsec. (g). Pub. L. 108–136, §611(e), substituted “December 31, 2004” for “December 31, 2003”.
+Subsec. (g). Pub. L. 108–136, §611(e), substituted "December 31, 2004" for "December 31, 2003".
 
-**2002**—Subsec. (f)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+**2002**—Subsec. (f)(1). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-Subsec. (g). Pub. L. 107–314 substituted “December 31, 2003” for “December 31, 2002”.
+Subsec. (g). Pub. L. 107–314 substituted "December 31, 2003" for "December 31, 2002".
 
 **2001**—Subsec. (a). Pub. L. 107–107, §619(a), inserted heading and amended text generally. Prior to amendment, text read as follows:
 
-“(a)(1) An eligible person who is or has been a member of an armed force and who reenlists, enlists, or voluntarily extends an enlistment in a combat or combat support skill of an element (other than the Selected Reserve) of the Ready Reserve of an armed force for a period of three years, or for a period of six years, beyond any other period the person is obligated to serve may be paid a bonus as provided in subsection (b).
+"(a)(1) An eligible person who is or has been a member of an armed force and who reenlists, enlists, or voluntarily extends an enlistment in a combat or combat support skill of an element (other than the Selected Reserve) of the Ready Reserve of an armed force for a period of three years, or for a period of six years, beyond any other period the person is obligated to serve may be paid a bonus as provided in subsection (b).
 
-“(2) A bonus may not be paid under this section to a person who has failed to complete satisfactorily any original term of enlistment in the armed forces.”
+"(2) A bonus may not be paid under this section to a person who has failed to complete satisfactorily any original term of enlistment in the armed forces."
 
 Subsecs. (b) to (f). Pub. L. 107–107, §619(b)(1)–(5), inserted headings.
 
 Subsec. (g). Pub. L. 107–107, §619(b)(6), inserted heading.
 
-Pub. L. 107–107, §611(f), substituted “December 31, 2002” for “December 31, 2001”.
+Pub. L. 107–107, §611(f), substituted "December 31, 2002" for "December 31, 2001".
 
-**2000**—Subsec. (g). Pub. L. 106–398 substituted “December 31, 2001” for “December 31, 2000”.
+**2000**—Subsec. (g). Pub. L. 106–398 substituted "December 31, 2001" for "December 31, 2000".
 
-**1999**—Subsec. (g). Pub. L. 106–65 substituted “December 31, 2000” for “December 31, 1999”.
+**1999**—Subsec. (g). Pub. L. 106–65 substituted "December 31, 2000" for "December 31, 1999".
 
-**1998**—Subsec. (g). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
+**1998**—Subsec. (g). Pub. L. 105–261 substituted "December 31, 1999" for "September 30, 1999".
 
-**1997**—Subsec. (g). Pub. L. 105–85 substituted “September 30, 1999” for “September 30, 1998”.
+**1997**—Subsec. (g). Pub. L. 105–85 substituted "September 30, 1999" for "September 30, 1998".
 
-**1996**—Subsec. (g). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
+**1996**—Subsec. (g). Pub. L. 104–201 substituted "September 30, 1998" for "September 30, 1997".
 
-Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996”.
+Pub. L. 104–106 substituted "September 30, 1997" for "September 30, 1996".
 
-**1994**—Subsec. (g). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
+**1994**—Subsec. (g). Pub. L. 103–337 substituted "September 30, 1996" for "September 30, 1995".
 
-**1993**—Subsec. (g). Pub. L. 103–160 substituted “September 30, 1995” for “September 30, 1993”.
+**1993**—Subsec. (g). Pub. L. 103–160 substituted "September 30, 1995" for "September 30, 1993".
 
-**1992**—Subsec. (g). Pub. L. 102–484 substituted “September 30, 1993” for “September 30, 1992”.
+**1992**—Subsec. (g). Pub. L. 102–484 substituted "September 30, 1993" for "September 30, 1992".
 
-**1991**—Pub. L. 102–25 struck out “of this section” and “of this subsection” wherever appearing.
+**1991**—Pub. L. 102–25 struck out "of this section" and "of this subsection" wherever appearing.
 
-**1989**—Subsec. (g). Pub. L. 101–189 substituted “September 30, 1992” for “September 30, 1990”.
+**1989**—Subsec. (g). Pub. L. 101–189 substituted "September 30, 1992" for "September 30, 1990".
 
-**1987**—Subsec. (g). Pub. L. 100–180 substituted “September 30, 1990” for “September 30, 1987”.
+**1987**—Subsec. (g). Pub. L. 100–180 substituted "September 30, 1990" for "September 30, 1987".
 
-**1985**—Subsec. (a)(1). Pub. L. 99–145, §646(b)(1), substituted “for a period of three years, or for a period of six years,” for “for a period of not less than three years”.
+**1985**—Subsec. (a)(1). Pub. L. 99–145, §646(b)(1), substituted "for a period of three years, or for a period of six years," for "for a period of not less than three years".
 
-Subsec. (b). Pub. L. 99–145, §646(b)(2), designated existing provisions as par. (1), struck out “, except that the amount of such a bonus may not exceed $900 and shall be paid in equal annual increments”, and added pars. (2) and (3).
+Subsec. (b). Pub. L. 99–145, §646(b)(2), designated existing provisions as par. (1), struck out ", except that the amount of such a bonus may not exceed $900 and shall be paid in equal annual increments", and added pars. (2) and (3).
 
-Subsec. (e). Pub. L. 99–145, §1303(b)(3), substituted “September 24, 1983” for “the date of the enactment of the Department of Defense Authorization Act, 1984”.
+Subsec. (e). Pub. L. 99–145, §1303(b)(3), substituted "September 24, 1983" for "the date of the enactment of the Department of Defense Authorization Act, 1984".
 
 Subsec. (f). Pub. L. 99–145, §646(c), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (g). Pub. L. 99–145, §646(a), substituted “September 30, 1987” for “September 30, 1985”.
+Subsec. (g). Pub. L. 99–145, §646(a), substituted "September 30, 1987" for "September 30, 1985".
 
 **1984**—Subsec. (b). Pub. L. 98–525 inserted provision for payment in equal annual increments.
 
@@ -154,7 +154,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 2001 Amendment ####
 
-Pub. L. 107–107, div. A, title VI, §619(d), Dec. 28, 2001, 115 Stat. 1138, provided that: “Subsection (a) of section 308h of title 37, United States Code, as amended by this section, shall apply with respect to reserve component reenlistments, enlistments, and extensions of enlistments that are executed on or after the first day of the first month that begins more than 180 days after the date of the enactment of this Act [Dec. 28, 2001]. Subsection (a) of such section 308h, as in effect on the day before the date of the enactment of this Act, shall continue to apply with respect to reserve component reenlistments, enlistments, and extensions of enlistments that are executed before the first day of that first month.”
+Pub. L. 107–107, div. A, title VI, §619(d), Dec. 28, 2001, 115 Stat. 1138, provided that: "Subsection (a) of section 308h of title 37, United States Code, as amended by this section, shall apply with respect to reserve component reenlistments, enlistments, and extensions of enlistments that are executed on or after the first day of the first month that begins more than 180 days after the date of the enactment of this Act [Dec. 28, 2001]. Subsection (a) of such section 308h, as in effect on the day before the date of the enactment of this Act, shall continue to apply with respect to reserve component reenlistments, enlistments, and extensions of enlistments that are executed before the first day of that first month."
 
 #### Effective Date of 1993 Amendment ####
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 103–160 effective as of Sept. 30, 1993, and applicable wi
 
 #### Effective Date of 1985 Amendment ####
 
-Pub. L. 99–145, title VI, §646(d), Nov. 8, 1985, 99 Stat. 654, provided that: “The amendments made by this section [amending this section and section 308g of this title] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title VI, §646(d), Nov. 8, 1985, 99 Stat. 654, provided that: "The amendments made by this section [amending this section and section 308g of this title] shall take effect on October 1, 1985."
 
 #### Effective Date ####
 
@@ -170,7 +170,7 @@ Section effective Oct. 1, 1983, see section 1011(c) of Pub. L. 98–94, set out 
 
 #### Regulations ####
 
-Pub. L. 107–107, div. A, title VI, §619(c), Dec. 28, 2001, 115 Stat. 1138, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 28, 2001], the Secretaries of the military departments shall prescribe such regulations as may be necessary for administering subsection (a) of section 308h of title 37, United States Code, as amended by this section.”
+Pub. L. 107–107, div. A, title VI, §619(c), Dec. 28, 2001, 115 Stat. 1138, provided that: "Not later than 180 days after the date of the enactment of this Act [Dec. 28, 2001], the Secretaries of the military departments shall prescribe such regulations as may be necessary for administering subsection (a) of section 308h of title 37, United States Code, as amended by this section."
 
 #### Savings Provision ####
 
@@ -182,7 +182,7 @@ For provisions relating to coverage of period of lapsed authority from Oct. 1, 1
 
 #### Individual Ready Reserve Reenlistment Bonuses ####
 
-Pub. L. 98–525, title V, §552(f)(1), Oct. 19, 1984, 98 Stat. 2531, provided that: “In order to encourage members of the Armed Forces whose military service obligation is expiring and who do not choose to reenlist or otherwise extend their service on active duty or in active elements of reserve components to remain in the Armed Forces as members of the Individual Ready Reserve, the Secretary of Defense shall consider making greater use of the authority provided under section 308h of title 37, United States Code, to pay bonuses to persons reenlisting for periods of not less than three years in the Individual Ready Reserve.”
+Pub. L. 98–525, title V, §552(f)(1), Oct. 19, 1984, 98 Stat. 2531, provided that: "In order to encourage members of the Armed Forces whose military service obligation is expiring and who do not choose to reenlist or otherwise extend their service on active duty or in active elements of reserve components to remain in the Armed Forces as members of the Individual Ready Reserve, the Secretary of Defense shall consider making greater use of the authority provided under section 308h of title 37, United States Code, to pay bonuses to persons reenlisting for periods of not less than three years in the Individual Ready Reserve."
 
 #### Coast Guard; Reserve Forces Readiness Provisions Inapplicable ####
 

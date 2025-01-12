@@ -54,8 +54,8 @@ A prior section 949b, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Sta
 
 #### Amendments ####
 
-**2011**—Subsec. (b)(1)(A). Pub. L. 112–81, §1034(b)(1), substituted “a judge on” for “a military appellate judge or other duly appointed judge under this chapter on”.
+**2011**—Subsec. (b)(1)(A). Pub. L. 112–81, §1034(b)(1), substituted "a judge on" for "a military appellate judge or other duly appointed judge under this chapter on".
 
-Subsec. (b)(2). Pub. L. 112–81, §1034(b)(2), substituted “a judge on” for “a military appellate judge on”.
+Subsec. (b)(2). Pub. L. 112–81, §1034(b)(2), substituted "a judge on" for "a military appellate judge on".
 
-Subsec. (b)(3)(B). Pub. L. 112–81, §1034(b)(3), substituted “a judge on” for “an appellate military judge or a duly appointed appellate judge on”.
+Subsec. (b)(3)(B). Pub. L. 112–81, §1034(b)(3), substituted "a judge on" for "an appellate military judge or a duly appointed appellate judge on".

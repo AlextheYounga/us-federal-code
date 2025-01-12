@@ -36,6 +36,6 @@ A prior part II consisted of sections 5361 to 5373 of this title, prior to the g
 
 **1997**—Pub. L. 105–34, title XIV, §1422(b), Aug. 5, 1997, 111 Stat. 1050, added item 5364.
 
-**1979**—Pub. L. 96–39, title VIII, §807(b)(7), July 26, 1979, 93 Stat. 290, struck out item 5364 “Standard wine premises”.
+**1979**—Pub. L. 96–39, title VIII, §807(b)(7), July 26, 1979, 93 Stat. 290, struck out item 5364 "Standard wine premises".
 
-**1976**—Pub. L. 94–455, title XIX, §1905(b)(5), Oct. 4, 1976, 90 Stat. 1822, substituted “and marking” for “, marking, and stamping” in item 5368.
+**1976**—Pub. L. 94–455, title XIX, §1905(b)(5), Oct. 4, 1976, 90 Stat. 1822, substituted "and marking" for ", marking, and stamping" in item 5368.

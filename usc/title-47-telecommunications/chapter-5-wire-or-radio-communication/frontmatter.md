@@ -42,7 +42,7 @@ Sec.
 
 205. Commission authorized to prescribe just and reasonable charges; penalties for violations.
 
-206. Carriers’ liability for damages.
+206. Carriers' liability for damages.
 
 207. Recovery of damages.
 
@@ -64,7 +64,7 @@ Sec.
 
 216. Receivers and trustees; application of chapter.
 
-217. Agents’ acts and omissions; liability of carrier.
+217. Agents' acts and omissions; liability of carrier.
 
 218. Management of business; inquiries by Commission.
 
@@ -330,7 +330,7 @@ Sec.
 
 406. Compelling furnishing of facilities; mandamus; jurisdiction.
 
-407. Order for payment of money; petition for enforcement; procedure; order of Commission as prima facie evidence; costs; attorneys’ fees.
+407. Order for payment of money; petition for enforcement; procedure; order of Commission as prima facie evidence; costs; attorneys' fees.
 
 408. Order not for payment of money; when effective.
 

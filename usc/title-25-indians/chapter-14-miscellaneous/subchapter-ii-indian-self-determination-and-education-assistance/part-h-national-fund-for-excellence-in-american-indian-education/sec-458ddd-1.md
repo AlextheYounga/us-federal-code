@@ -26,4 +26,4 @@ Notwithstanding any other provision of this section, the Secretary may continue 
 
 #### Amendments ####
 
-**2010**—Subsec. (a)(2). Pub. L. 111–211, §231(d)(3), substituted “section 458ddd” for “section 458bbb”.
+**2010**—Subsec. (a)(2). Pub. L. 111–211, §231(d)(3), substituted "section 458ddd" for "section 458bbb".

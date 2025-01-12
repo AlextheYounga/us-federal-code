@@ -8,4 +8,4 @@ Sec.
 
 #### Amendments ####
 
-**1976**—Pub. L. 94–455, title XIX, §1901(b)(38), Oct. 4, 1976, 90 Stat. 1803, struck out item 1342 “Computation of tax where taxpayer recovers substantial amount held by another under claim of right”.
+**1976**—Pub. L. 94–455, title XIX, §1901(b)(38), Oct. 4, 1976, 90 Stat. 1803, struck out item 1342 "Computation of tax where taxpayer recovers substantial amount held by another under claim of right".

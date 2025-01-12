@@ -26,4 +26,4 @@ In carrying out its duties under this section, the Commission shall take into ac
 
 (May 17, 1954, ch. 204, §8, as added Pub. L. 98–398, title II, §201(a), Aug. 24, 1984, 98 Stat. 1470.)
 
-[<sup>1</sup> So in original. Probably should be “therefor,”.](#450jj-7_1)
+[<sup>1</sup> So in original. Probably should be "therefor,".](#450jj-7_1)

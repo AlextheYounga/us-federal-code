@@ -18,33 +18,33 @@
 
 #### Amendments ####
 
-**2013**—Subsec. (a)(1). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+**2013**—Subsec. (a)(1). Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-**2011**—Subsec. (a)(1). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+**2011**—Subsec. (a)(1). Pub. L. 112–81 substituted "December 31, 2012" for "December 31, 2011".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
-**2009**—Subsec. (a)(1). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+**2009**—Subsec. (a)(1). Pub. L. 111–84 substituted "December 31, 2010" for "December 31, 2009".
 
-**2008**—Subsec. (a)(1). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+**2008**—Subsec. (a)(1). Pub. L. 110–417 substituted "December 31, 2009" for "December 31, 2008".
 
-Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
+Pub. L. 110–181 substituted "December 31, 2008" for "December 31, 2007".
 
-**2006**—Subsec. (a)(1). Pub. L. 109–364, §612(f), substituted “December 31, 2007” for “December 31, 2006”.
+**2006**—Subsec. (a)(1). Pub. L. 109–364, §612(f), substituted "December 31, 2007" for "December 31, 2006".
 
-Pub. L. 109–163, §622(f), substituted “December 31, 2006” for “December 31, 2005”.
+Pub. L. 109–163, §622(f), substituted "December 31, 2006" for "December 31, 2005".
 
-Subsec. (a)(2). Pub. L. 109–364, §617(a), substituted “$200,000” for “$30,000”.
+Subsec. (a)(2). Pub. L. 109–364, §617(a), substituted "$200,000" for "$30,000".
 
 Subsec. (d). Pub. L. 109–163, §687(b)(11), amended heading and text of subsec. (d) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when officer fails to become and remain certified or licensed as dentist or fails to complete total period of active duty.
 
-**2004**—Subsec. (a)(1). Pub. L. 108–375 substituted “December 31, 2005” for “December 31, 2004”.
+**2004**—Subsec. (a)(1). Pub. L. 108–375 substituted "December 31, 2005" for "December 31, 2004".
 
-**2003**—Subsec. (a)(1). Pub. L. 108–136 substituted “December 31, 2004” for “December 31, 2003”.
+**2003**—Subsec. (a)(1). Pub. L. 108–136 substituted "December 31, 2004" for "December 31, 2003".
 
-**2002**—Subsec. (a)(1). Pub. L. 107–314 substituted “December 31, 2003” for “December 31, 2002”.
+**2002**—Subsec. (a)(1). Pub. L. 107–314 substituted "December 31, 2003" for "December 31, 2002".
 
-**2001**—Subsec. (a)(1). Pub. L. 107–107 substituted “September 23, 1996, and ending on December 31, 2002” for “the date of the enactment of this section, and ending on September 30, 2002”.
+**2001**—Subsec. (a)(1). Pub. L. 107–107 substituted "September 23, 1996, and ending on December 31, 2002" for "the date of the enactment of this section, and ending on September 30, 2002".
 
 #### Effective Date of 2008 Amendment ####
 
@@ -52,11 +52,11 @@ Amendment by Pub. L. 110–181 effective as of Dec. 31, 2007, and subject to var
 
 #### Effective Date of 2006 Amendment ####
 
-Pub. L. 109–364, div. A, title VI, §617(e), Oct. 17, 2006, 120 Stat. 2251, provided that: “The amendments made by this section [enacting sections 302k and 302l of this title and amending this section] shall take effect on October 1, 2006, and shall apply to agreements—
+Pub. L. 109–364, div. A, title VI, §617(e), Oct. 17, 2006, 120 Stat. 2251, provided that: "The amendments made by this section [enacting sections 302k and 302l of this title and amending this section] shall take effect on October 1, 2006, and shall apply to agreements—
 
-“(1) entered into or revised under section 302h of title 37, United States Code, on or after that date; or
+"(1) entered into or revised under section 302h of title 37, United States Code, on or after that date; or
 
-“(2) entered into under section 302k or 302l of such title, as added by subsections (b) and (c), on or after that date.”
+"(2) entered into under section 302k or 302l of such title, as added by subsections (b) and (c), on or after that date."
 
 #### Savings Provision ####
 

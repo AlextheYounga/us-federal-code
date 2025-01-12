@@ -124,8 +124,8 @@ Pub. L. 97–470, title V, §523, Jan. 14, 1983, 96 Stat. 2600, repealed Pub. L.
 
 #### Short Title of 1974 Amendment ####
 
-Pub. L. 93–518, §1(a), Dec. 7, 1974, 88 Stat. 1652, which had enacted sections 2050a to 2050c, 2054, and 2055 and amended sections 2041 to 2046, 2048, and 2053 of this title, had provided for citation of such amendments as the “Farm Labor Contractor Registration Act Amendments of 1974”.
+Pub. L. 93–518, §1(a), Dec. 7, 1974, 88 Stat. 1652, which had enacted sections 2050a to 2050c, 2054, and 2055 and amended sections 2041 to 2046, 2048, and 2053 of this title, had provided for citation of such amendments as the "Farm Labor Contractor Registration Act Amendments of 1974".
 
 #### Short Title ####
 
-Pub. L. 97–470, title V, §523, Jan. 14, 1983, 96 Stat. 2600, repealed Pub. L. 88–582, §1, Sept. 7, 1964, 78 Stat. 920, which had provided for citation of this chapter as the “Farm Labor Contractor Registration Act of 1963”.
+Pub. L. 97–470, title V, §523, Jan. 14, 1983, 96 Stat. 2600, repealed Pub. L. 88–582, §1, Sept. 7, 1964, 78 Stat. 920, which had provided for citation of this chapter as the "Farm Labor Contractor Registration Act of 1963".

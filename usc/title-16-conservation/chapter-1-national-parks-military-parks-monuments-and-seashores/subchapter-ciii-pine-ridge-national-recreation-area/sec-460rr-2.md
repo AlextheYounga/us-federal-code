@@ -44,10 +44,10 @@ In conducting the reviews and preparing the comprehensive management plan requir
 
 #### References in Text ####
 
-This subchapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 99–504, Oct. 20, 1986, 100 Stat. 1802, known as the Nebraska Wilderness Act of 1985, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
+This subchapter, referred to in subsec. (e), was in the original "this Act", meaning Pub. L. 99–504, Oct. 20, 1986, 100 Stat. 1802, known as the Nebraska Wilderness Act of 1985, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name ####
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
-[<sup>1</sup> So in original. Probably should be subsection “(f)”.](#460rr-2_1)
+[<sup>1</sup> So in original. Probably should be subsection "(f)".](#460rr-2_1)

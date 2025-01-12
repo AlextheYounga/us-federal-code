@@ -66,7 +66,7 @@ Sec.
 
 8401. Assistance to areas impacted by increased coal or uranium production.
 
-8401a. “Local government” defined.
+8401a. "Local government" defined.
 
 8402. Loans to assist powerplant acquisitions of air pollution control equipment.
 

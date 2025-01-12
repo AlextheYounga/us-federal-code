@@ -44,7 +44,7 @@ Sec.
 
 102. Attendance of witnesses.
 
-103. Witnesses’ fees.
+103. Witnesses' fees.
 
 104. Disobedience to subpoena.
 

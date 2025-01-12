@@ -30,7 +30,7 @@ Sec.
 
 13618. Treatment of other federally assisted housing.
 
-13619. “Covered section 8 housing” defined.
+13619. "Covered section 8 housing" defined.
 
 13620. Study.
 

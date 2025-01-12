@@ -38,11 +38,11 @@ The Commission may, by such rules as it determines necessary or appropriate in t
 
 #### References in Text ####
 
-This chapter, referred to in subsec. (f), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in subsec. (f), was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments ####
 
-**1978**—Subsec. (a). Pub. L. 95–283, §12(a), in heading substituted “Collection” for “Collecting”, and in text inserted provisions relating to designation of a self-regulatory organization other than the examining authority to act as collection agent and provisions relating to designation of a registered clearing agency as collection agent, and substituted provisions relating to remittances by the collection agent to SIPC, for provisions relating to remittances by an examining authority to SIPC.
+**1978**—Subsec. (a). Pub. L. 95–283, §12(a), in heading substituted "Collection" for "Collecting", and in text inserted provisions relating to designation of a self-regulatory organization other than the examining authority to act as collection agent and provisions relating to designation of a registered clearing agency as collection agent, and substituted provisions relating to remittances by the collection agent to SIPC, for provisions relating to remittances by an examining authority to SIPC.
 
 Subsec. (b). Pub. L. 95–283, §12(b), inserted reference to section 78eee(a)(2) of this title.
 

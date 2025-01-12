@@ -22,9 +22,9 @@ The period for approval or disapproval referred to in paragraph (1) may be exten
 
 No provision of this section shall be construed as authorizing a national bank or a subsidiary of a national bank to engage in any activity not otherwise authorized under this Act <sup><a href="#215c_1_target" name="215c_1">1</a></sup> or any other law governing the powers of national banks.
 
-#### (d) “Acquire” defined ####
+#### (d) "Acquire" defined ####
 
-For purposes of this section, the term “acquire” means to acquire, directly or indirectly, ownership or control through a merger or consolidation or an acquisition of assets or assumption of liabilities, provided that following such merger, consolidation, or acquisition, an acquiring insured depository institution may not own the shares of the acquired insured depository institution.
+For purposes of this section, the term "acquire" means to acquire, directly or indirectly, ownership or control through a merger or consolidation or an acquisition of assets or assumption of liabilities, provided that following such merger, consolidation, or acquisition, an acquiring insured depository institution may not own the shares of the acquired insured depository institution.
 
 (R.S. §5156A, as added Pub. L. 102–242, title V, §502(b), Dec. 19, 1991, 105 Stat. 2393; amended Pub. L. 104–208, div. A, title II, §2201(b)(1), Sept. 30, 1996, 110 Stat. 3009–403.)
 
@@ -40,6 +40,6 @@ Section was not enacted as part of act Nov. 7, 1918, ch. 209, as added Sept. 8, 
 
 #### Amendments ####
 
-**1996**—Subsec. (b)(1). Pub. L. 104–208 substituted “under any applicable law” for “by section 1815(d)(3) of this title or any other applicable law”.
+**1996**—Subsec. (b)(1). Pub. L. 104–208 substituted "under any applicable law" for "by section 1815(d)(3) of this title or any other applicable law".
 
 [<sup>1</sup> See References in Text note below.](#215c_1)

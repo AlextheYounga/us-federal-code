@@ -10,7 +10,7 @@ Section 8 of the Act of June 28, 1902, chapter 1302, as amended by the Act of De
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–447 substituted “Board” for “board” in first sentence.
+**2004**—Pub. L. 108–447 substituted "Board" for "board" in first sentence.
 
 #### Effective Date of 2004 Amendment ####
 

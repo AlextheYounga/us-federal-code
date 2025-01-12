@@ -1,6 +1,6 @@
 ### §402a. Supplemental subsistence allowance for low-income members with dependents ###
 
-(a) Supplemental Allowance Required.—(1) The Secretary concerned shall increase the basic allowance for subsistence to which a member of the armed forces described in subsection (b) is otherwise entitled under section 402 of this title by an amount (in this section referred to as the “supplemental subsistence allowance”) designed to remove the member's household from eligibility for benefits under the supplemental nutrition assistance program.
+(a) Supplemental Allowance Required.—(1) The Secretary concerned shall increase the basic allowance for subsistence to which a member of the armed forces described in subsection (b) is otherwise entitled under section 402 of this title by an amount (in this section referred to as the "supplemental subsistence allowance") designed to remove the member's household from eligibility for benefits under the supplemental nutrition assistance program.
 
 (2) The supplemental subsistence allowance may not exceed $1,100 per month. In establishing the amount of the supplemental subsistence allowance to be paid an eligible member under this paragraph, the Secretary shall take into consideration the amount of the basic allowance for housing that the member receives under section 403 of this title or would otherwise receive under such section, in the case of a member who is not entitled to that allowance as a result of assignment to quarters of the United States or a housing facility under the jurisdiction of a uniformed service.
 
@@ -50,15 +50,15 @@
 
 (g) Definitions.—In this section:
 
-(1) The term “Secretary concerned” means—
+(1) The term "Secretary concerned" means—
 
 (A) the Secretary of Defense; and
 
 (B) the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy.
 
-(2) The terms “allotment” and “household” have the meanings given those terms in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012).
+(2) The terms "allotment" and "household" have the meanings given those terms in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012).
 
-(3) The term “supplemental nutrition assistance program” means the program established pursuant to section 4 of the Food and Nutrition Act of 2008 (7 U.S.C. 2013).
+(3) The term "supplemental nutrition assistance program" means the program established pursuant to section 4 of the Food and Nutrition Act of 2008 (7 U.S.C. 2013).
 
 (Added Pub. L. 106–398, §1 [[div. A], title VI, §604(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–145; amended Pub. L. 107–107, div. A, title VI, §604(d), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §602(a), (b), Oct. 28, 2004, 118 Stat. 1943; Pub. L. 109–163, div. A, title VI, §608, Jan. 6, 2006, 119 Stat. 3289; Pub. L. 109–364, div. A, title X, §1071(c)(6), (e)(4), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(T), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(T), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–84, div. A, title VI, §602(a), Oct. 28, 2009, 123 Stat. 2347; Pub. L. 112–81, div. A, title X, §1063(a), Dec. 31, 2011, 125 Stat. 1586.)
 
@@ -80,37 +80,37 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments ####
 
-**2011**—Subsecs. (f) to (h). Pub. L. 112–81 redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “Not later than March 1 of each year after 2001, the Secretary of Defense shall submit to Congress a report specifying the number of members of the armed forces who received, at any time during the preceding year, the supplemental subsistence allowance. In preparing the report, the Secretary of Defense shall consult with the Secretary of Homeland Security, with respect to the Coast Guard.”
+**2011**—Subsecs. (f) to (h). Pub. L. 112–81 redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: "Not later than March 1 of each year after 2001, the Secretary of Defense shall submit to Congress a report specifying the number of members of the armed forces who received, at any time during the preceding year, the supplemental subsistence allowance. In preparing the report, the Secretary of Defense shall consult with the Secretary of Homeland Security, with respect to the Coast Guard."
 
-**2009**—Subsec. (a)(2), (3)(B). Pub. L. 111–84 substituted “$1,100” for “$500”.
+**2009**—Subsec. (a)(2), (3)(B). Pub. L. 111–84 substituted "$1,100" for "$500".
 
-**2008**—Subsec. (a)(1), (3). Pub. L. 110–246, §4002(b)(1)(A), (2)(T), substituted “supplemental nutrition assistance program” for “food stamp program”.
+**2008**—Subsec. (a)(1), (3). Pub. L. 110–246, §4002(b)(1)(A), (2)(T), substituted "supplemental nutrition assistance program" for "food stamp program".
 
-Subsec. (b)(1). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(T), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” and “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (b)(1). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(T), substituted "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977" and "supplemental nutrition assistance program" for "food stamp program".
 
-Subsec. (h)(2). Pub. L. 110–246, §4002(b)(1)(B), (2)(T), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+Subsec. (h)(2). Pub. L. 110–246, §4002(b)(1)(B), (2)(T), substituted "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977".
 
-Subsec. (h)(3). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(T), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+Subsec. (h)(3). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(T), substituted "supplemental nutrition assistance program" for "food stamp program" and "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977".
 
-**2006**—Subsec. (b)(3)(B). Pub. L. 109–364, §1071(c)(6), substituted “title” for “section”.
+**2006**—Subsec. (b)(3)(B). Pub. L. 109–364, §1071(c)(6), substituted "title" for "section".
 
-Subsec. (f). Pub. L. 109–163, §608(b), as amended by Pub. L. 109–364, §1071(e)(4), substituted “Secretary of Homeland Security, with respect to the Coast Guard” for “Secretary of Transportation” and struck out at end “No report is required under this subsection after March 1, 2006.”
+Subsec. (f). Pub. L. 109–163, §608(b), as amended by Pub. L. 109–364, §1071(e)(4), substituted "Secretary of Homeland Security, with respect to the Coast Guard" for "Secretary of Transportation" and struck out at end "No report is required under this subsection after March 1, 2006."
 
-Subsec. (i). Pub. L. 109–163, §608(a), struck out heading and text of subsec. (i). Text read as follows: “No supplemental subsistence allowance may be provided under this section after September 30, 2006.”
+Subsec. (i). Pub. L. 109–163, §608(a), struck out heading and text of subsec. (i). Text read as follows: "No supplemental subsistence allowance may be provided under this section after September 30, 2006."
 
-**2004**—Subsec. (b)(2). Pub. L. 108–375, §602(a)(1), substituted “concerned” for dash after “Secretary” and struck out “(A) shall not take into consideration the amount of the supplemental subsistence allowance payable under this section; but” and subpar. (B) designation before “shall take”.
+**2004**—Subsec. (b)(2). Pub. L. 108–375, §602(a)(1), substituted "concerned" for dash after "Secretary" and struck out "(A) shall not take into consideration the amount of the supplemental subsistence allowance payable under this section; but" and subpar. (B) designation before "shall take".
 
 Subsec. (b)(3). Pub. L. 108–375, §602(a)(2), added par. (3).
 
 Subsecs. (g) to (i). Pub. L. 108–375, §602(b), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
-**2002**—Subsec. (g)(1)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+**2002**—Subsec. (g)(1)(B). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-**2001**—Subsec. (b)(1). Pub. L. 107–107 inserted “with dependents” after “a member of the armed forces”.
+**2001**—Subsec. (b)(1). Pub. L. 107–107 inserted "with dependents" after "a member of the armed forces".
 
 #### Effective Date of 2009 Amendment ####
 
-Pub. L. 111–84, div. A, title VI, §602(b), Oct. 28, 2009, 123 Stat. 2347, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 2009, and shall apply with respect to monthly supplemental subsistence allowances for low-income members with dependents payable on or after that date.”
+Pub. L. 111–84, div. A, title VI, §602(b), Oct. 28, 2009, 123 Stat. 2347, provided that: "The amendments made by subsection (a) [amending this section] shall take effect on October 1, 2009, and shall apply with respect to monthly supplemental subsistence allowances for low-income members with dependents payable on or after that date."
 
 #### Effective Date of 2008 Amendment ####
 
@@ -124,7 +124,7 @@ Pub. L. 109–364, div. A, title X, §1071(e), Oct. 17, 2006, 120 Stat. 2401, pr
 
 #### Effective Date of 2004 Amendment ####
 
-Pub. L. 108–375, div. A, title VI, §602(c), Oct. 28, 2004, 118 Stat. 1944, provided that: “The amendments made by this section [amending this section] shall apply in determining, on or after the date of the enactment of this Act [Oct. 28, 2004], the eligibility of a person for a supplemental subsistence allowance under section 402a of title 37, United States Code, or for Federal assistance under a law specified in subsection (g) of such section, as so amended.”
+Pub. L. 108–375, div. A, title VI, §602(c), Oct. 28, 2004, 118 Stat. 1944, provided that: "The amendments made by this section [amending this section] shall apply in determining, on or after the date of the enactment of this Act [Oct. 28, 2004], the eligibility of a person for a supplemental subsistence allowance under section 402a of title 37, United States Code, or for Federal assistance under a law specified in subsection (g) of such section, as so amended."
 
 #### Effective Date of 2002 Amendment ####
 
@@ -132,4 +132,4 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date ####
 
-Pub. L. 106–398, §1 [[div. A], title VI, §604(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–147, provided that: “Section 402a of title 37, United States Code, as added by subsection (a), shall take effect on the first day of the first month that begins not less than 180 days after the date of the enactment of this Act [Oct. 30, 2000].”
+Pub. L. 106–398, §1 [[div. A], title VI, §604(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–147, provided that: "Section 402a of title 37, United States Code, as added by subsection (a), shall take effect on the first day of the first month that begins not less than 180 days after the date of the enactment of this Act [Oct. 30, 2000]."

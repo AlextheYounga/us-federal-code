@@ -8,7 +8,7 @@ After six months from June 21, 1938, no person shall export any natural gas from
 
 With respect to natural gas which is imported into the United States from a nation with which there is in effect a free trade agreement requiring national treatment for trade in natural gas, and with respect to liquefied natural gas—
 
-(1) the importation of such natural gas shall be treated as a “first sale” within the meaning of section 3301(21) of this title; and
+(1) the importation of such natural gas shall be treated as a "first sale" within the meaning of section 3301(21) of this title; and
 
 (2) the Commission shall not, on the basis of national origin, treat any such imported natural gas on an unjust, unreasonable, unduly discriminatory, or preferential basis.
 
@@ -60,7 +60,7 @@ Except as specifically provided in this chapter, nothing in this chapter affects
 
 #### (f) Military installations ####
 
-(1) In this subsection, the term “military installation”—
+(1) In this subsection, the term "military installation"—
 
 (A) means a base, camp, post, range, station, yard, center, or homeport facility for any ship or other activity under the jurisdiction of the Department of Defense, including any leased facility, that is located within a State, the District of Columbia, or any territory of the United States; and
 
@@ -82,7 +82,7 @@ The Federal Water Pollution Control Act, referred to in subsec. (d)(3), is act J
 
 #### Amendments ####
 
-**2005**—Pub. L. 109–58, §311(c)(1), inserted “; LNG terminals” after “natural gas” in section catchline.
+**2005**—Pub. L. 109–58, §311(c)(1), inserted "; LNG terminals" after "natural gas" in section catchline.
 
 Subsecs. (d) to (f). Pub. L. 109–58, §311(c)(2), added subsecs. (d) to (f).
 
@@ -118,6 +118,6 @@ Sec. 4. All Presidential Permits heretofore issued pursuant to Executive Order N
 
 Sec. 5. Executive Order No. 8202 of July 13, 1939, is hereby revoked.
 
-[<sup>1</sup> So in original. Probably should be “finds”.](#717b_1)
+[<sup>1</sup> So in original. Probably should be "finds".](#717b_1)
 
-[<sup>2</sup> So in original. Probably should be “coordinates and consults”.](#717b_2)
+[<sup>2</sup> So in original. Probably should be "coordinates and consults".](#717b_2)

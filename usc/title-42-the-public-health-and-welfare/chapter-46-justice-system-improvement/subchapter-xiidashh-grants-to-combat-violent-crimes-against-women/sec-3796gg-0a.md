@@ -2,7 +2,7 @@
 
 #### (a) Appointment ####
 
-The President, by and with the advice and consent of the Senate, shall appoint a Director for the Violence Against Women Office (in this subchapter <sup><a href="#3796gg-0a_1_target" name="3796gg-0a_1">1</a></sup> referred to as the “Director”) to be responsible, under the general authority of the Attorney General, for the administration, coordination, and implementation of the programs and activities of the Office.
+The President, by and with the advice and consent of the Senate, shall appoint a Director for the Violence Against Women Office (in this subchapter <sup><a href="#3796gg-0a_1_target" name="3796gg-0a_1">1</a></sup> referred to as the "Director") to be responsible, under the general authority of the Attorney General, for the administration, coordination, and implementation of the programs and activities of the Office.
 
 #### (b) Other employment ####
 
@@ -24,7 +24,7 @@ The Director shall be compensated at a rate of pay not to exceed the rate payabl
 
 #### References in Text ####
 
-This subchapter, referred to in subsec. (a), was in the original “this title”, and was translated as reading “this part”, meaning part T of title I of Pub. L. 90–351, to reflect the probable intent of Congress.
+This subchapter, referred to in subsec. (a), was in the original "this title", and was translated as reading "this part", meaning part T of title I of Pub. L. 90–351, to reflect the probable intent of Congress.
 
 The Violence Against Women Act of 1994, referred to in subsec. (b)(2), is title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1902, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 13701 of this title and Tables.
 

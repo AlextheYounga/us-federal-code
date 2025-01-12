@@ -49,4 +49,4 @@ Section 13, act July 30, 1947, ch. 390, 61 Stat. 650, provided for fining of sur
 
 Section 14, acts July 30, 1947, ch. 390, 61 Stat. 650; Aug. 9, 1955, ch. 683, §1, 69 Stat. 618, which related to purchase of bonds to cover officers and employees of Federal Government, was repealed by Pub. L. 92–310, title II, §203(1), June 6, 1972, 86 Stat. 202.
 
-Section 15, act July 30, 1947, ch. 390, 61 Stat. 650, which related to bonds and notes of United States in lieu of recognizance, stipulation, bond, guarantee, or undertaking and contractors’ bonds, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, 1085. See sections 9301 and 9303 of Title 31, Money and Finance.
+Section 15, act July 30, 1947, ch. 390, 61 Stat. 650, which related to bonds and notes of United States in lieu of recognizance, stipulation, bond, guarantee, or undertaking and contractors' bonds, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, 1085. See sections 9301 and 9303 of Title 31, Money and Finance.

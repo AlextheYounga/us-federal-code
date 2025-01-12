@@ -30,7 +30,7 @@ The Secretary may not make a loan under this section unless an application there
 
 If the Secretary determines that an individual has breached a written agreement entered into under subsection (a) of this section, he shall, as soon as practicable after making such determination, notify the individual of such determination. If within 60 days after the date of giving such notice, such individual is not practicing his profession in accordance with the agreement under such subsection and has not provided assurances satisfactory to the Secretary that he will not knowingly violate such agreement again, the United States shall be entitled to recover from such individual—
 
-(1) in the case of an individual who has received a grant under this section (as in effect prior to October 1, 1984), an amount determined under section 254o(b) of this title, except that in applying the formula contained in such section “φ” shall be the sum of the amount of the grant made under subsection (a) of this section to such individual and the interest on such amount which would be payable if at the time it was paid it was a loan bearing interest at the maximum legal prevailing rate, “t” shall be the number of months that such individual agreed to practice his profession under such agreement, and “s” shall be the number of months that such individual practices his profession in accordance with such agreement; and
+(1) in the case of an individual who has received a grant under this section (as in effect prior to October 1, 1984), an amount determined under section 254o(b) of this title, except that in applying the formula contained in such section "φ" shall be the sum of the amount of the grant made under subsection (a) of this section to such individual and the interest on such amount which would be payable if at the time it was paid it was a loan bearing interest at the maximum legal prevailing rate, "t" shall be the number of months that such individual agreed to practice his profession under such agreement, and "s" shall be the number of months that such individual practices his profession in accordance with such agreement; and
 
 (2) in the case of an individual who has received a loan under this section, the full amount of the principal and interest owed by such individual under this section.
 
@@ -54,17 +54,17 @@ Another prior section 338G of act July 1, 1944, was classified to section 254q o
 
 **1987**—Subsec. (a). Pub. L. 100–177, §309(1), substituted subsec. (a) consisting of pars. (1) to (3) for former subsec. (a) consisting of pars. (1) and (2).
 
-Subsec. (b). Pub. L. 100–177, §309(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “The amount of the grant or loan under subsection (a) of this section to an individual shall be—
+Subsec. (b). Pub. L. 100–177, §309(1), added subsec. (b) and struck out former subsec. (b) which read as follows: "The amount of the grant or loan under subsection (a) of this section to an individual shall be—
 
-“(1) $12,500 if the individual agrees to practice his profession in accordance with the agreement for a period of at least one year, but less than two years; or
+"(1) $12,500 if the individual agrees to practice his profession in accordance with the agreement for a period of at least one year, but less than two years; or
 
-“(2) $25,000 if the individual agrees to practice his profession in accordance with the agreement for a period of at least two years.”
+"(2) $25,000 if the individual agrees to practice his profession in accordance with the agreement for a period of at least two years."
 
-Subsec. (c). Pub. L. 100–177, §309(2), struck out “grant or” before “loan” in first sentence.
+Subsec. (c). Pub. L. 100–177, §309(2), struck out "grant or" before "loan" in first sentence.
 
-Subsec. (d)(1). Pub. L. 100–177, §309(3), substituted “under this section (as in effect prior to October 1, 1984)” for “under this section”, and made technical amendment to reference to section 254o(b) of this title to reflect renumbering of corresponding section of original act.
+Subsec. (d)(1). Pub. L. 100–177, §309(3), substituted "under this section (as in effect prior to October 1, 1984)" for "under this section", and made technical amendment to reference to section 254o(b) of this title to reflect renumbering of corresponding section of original act.
 
-**1983**—Subsec. (d)(1). Pub. L. 97–414 substituted “section 254o(b)” for “section 254o(c)”.
+**1983**—Subsec. (d)(1). Pub. L. 97–414 substituted "section 254o(b)" for "section 254o(c)".
 
 **1981**—Subsec. (a). Pub. L. 97–35, §2709(f)(2)–(4), made numerous changes to reflect renumbering of subpart sections, among them inserting references to section 254k of this title and striking out references to section 294v of this title, and added applicability to loans.
 

@@ -10,6 +10,6 @@ Sections 3, 4, and 5; section 6, less the west half of the northwest quarter; se
 
 #### Amendments ####
 
-**1970**—Subsec. (a). Pub. L. 91–428 substituted “$22,000,000” for “$2,000,000”.
+**1970**—Subsec. (a). Pub. L. 91–428 substituted "$22,000,000" for "$2,000,000".
 
 **1969**—Pub. L. 91–88 designated existing provisions as subsec. (a) and added subsec. (b).

@@ -1,6 +1,6 @@
 ### §§5031 to 5039. Repealed. Pub. L. 103–382, title III, §391(i), (j), Oct. 20, 1994, 108 Stat. 4023 ###
 
-Section 5031, Pub. L. 100–418, title VI, §6041, Aug. 23, 1988, 102 Stat. 1483, provided that this part could be cited as the “Educational Partnerships Act of 1988”.
+Section 5031, Pub. L. 100–418, title VI, §6041, Aug. 23, 1988, 102 Stat. 1483, provided that this part could be cited as the "Educational Partnerships Act of 1988".
 
 Section 5032, Pub. L. 100–418, title VI, §6042, Aug. 23, 1988, 102 Stat. 1483, stated purpose of this part.
 

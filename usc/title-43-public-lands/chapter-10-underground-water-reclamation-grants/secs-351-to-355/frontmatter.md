@@ -12,8 +12,8 @@ Section 355, act Oct. 22, 1919, ch. 77, §5, 41 Stat. 294, related to issuance o
 
 #### Savings Provision ####
 
-Pub. L. 88–417, §1, Aug. 11, 1964, 78 Stat. 389, provided: “That, subject to any valid rights and obligations existing on the date of approval of this Act [Aug. 11, 1964], the Act of October 22, 1919 (41 Stat. 293; 43 U.S.C. 351–355, 357–360), is hereby repealed.”
+Pub. L. 88–417, §1, Aug. 11, 1964, 78 Stat. 389, provided: "That, subject to any valid rights and obligations existing on the date of approval of this Act [Aug. 11, 1964], the Act of October 22, 1919 (41 Stat. 293; 43 U.S.C. 351–355, 357–360), is hereby repealed."
 
 #### Processing of Applications Filed Prior to August 11, 1964 ####
 
-Pub. L. 88–417, §2, Aug. 11, 1964, 78 Stat. 389, provided that: “Any valid application for permit under that Act [this chapter], on file with the Secretary of the Interior on the effective date of this Act [Aug. 11, 1964], may be processed in the same manner as if this Act [repealing sections 351 to 355 and 357 to 360 of this title] had not been enacted.”
+Pub. L. 88–417, §2, Aug. 11, 1964, 78 Stat. 389, provided that: "Any valid application for permit under that Act [this chapter], on file with the Secretary of the Interior on the effective date of this Act [Aug. 11, 1964], may be processed in the same manner as if this Act [repealing sections 351 to 355 and 357 to 360 of this title] had not been enacted."

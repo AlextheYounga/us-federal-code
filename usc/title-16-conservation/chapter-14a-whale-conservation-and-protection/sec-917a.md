@@ -6,21 +6,21 @@ The Secretary of Commerce, in consultation with the Marine Mammal Commission and
 
 #### References in Text ####
 
-Section 1802(8) of this title, referred to in text, which defined “fishery conservation zone”, was repealed and section 1802(6) of this title, defining “exclusive economic zone”, was added by Pub. L. 99–659, title I, §101(a), Nov. 14, 1986, 100 Stat. 3706. Section 1802 was subsequently amended and the term “exclusive economic zone” is defined elsewhere in that section.
+Section 1802(8) of this title, referred to in text, which defined "fishery conservation zone", was repealed and section 1802(6) of this title, defining "exclusive economic zone", was added by Pub. L. 99–659, title I, §101(a), Nov. 14, 1986, 100 Stat. 3706. Section 1802 was subsequently amended and the term "exclusive economic zone" is defined elsewhere in that section.
 
 #### Study of Eastern Gray Whale Population ####
 
 Pub. L. 106–562, title IV, §401, Dec. 23, 2000, 114 Stat. 2807, provided that:
 
-“(a) Study.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2000] and subject to the availability of appropriations, the Secretary of Commerce shall initiate a study of the environmental and biological factors responsible for the significant increase in mortality events of the eastern gray whale population, and the other potential impacts these factors may be having on the eastern gray whale population.
+"(a) Study.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2000] and subject to the availability of appropriations, the Secretary of Commerce shall initiate a study of the environmental and biological factors responsible for the significant increase in mortality events of the eastern gray whale population, and the other potential impacts these factors may be having on the eastern gray whale population.
 
-“(b) Consideration of Western Population Information.—The Secretary should ensure that, to the greatest extent practicable, information from current and future studies of the western gray whale population is considered in the study under this section, so as to better understand the dynamics of each population and to test different hypotheses that may lead to an increased understanding of the mechanism driving their respective population dynamics.
+"(b) Consideration of Western Population Information.—The Secretary should ensure that, to the greatest extent practicable, information from current and future studies of the western gray whale population is considered in the study under this section, so as to better understand the dynamics of each population and to test different hypotheses that may lead to an increased understanding of the mechanism driving their respective population dynamics.
 
-“(c) Authorization of Appropriations.—In addition to other amounts authorized under this title [this note], there are authorized to be appropriated to the Secretary to carry out this section—
+"(c) Authorization of Appropriations.—In addition to other amounts authorized under this title [this note], there are authorized to be appropriated to the Secretary to carry out this section—
 
-“(1) $290,000 for fiscal year 2001; and
+"(1) $290,000 for fiscal year 2001; and
 
-“(2) $500,000 for each of fiscal years 2002 through 2004.”
+"(2) $500,000 for each of fiscal years 2002 through 2004."
 
 Substantially identical provisions were contained in Pub. L. 106–555, title II, §203, Dec. 21, 2000, 114 Stat. 2768.
 

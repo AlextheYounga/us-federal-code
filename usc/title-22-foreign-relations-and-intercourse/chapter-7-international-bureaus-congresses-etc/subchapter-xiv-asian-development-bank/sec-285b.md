@@ -6,4 +6,4 @@ The policies and operations of the representatives of the United States on the B
 
 #### Amendments ####
 
-**1989**—Pub. L. 101–240 struck out subsec. (a) designation and struck out subsec. (b) which read as follows: “An annual report with respect to United States participation in the Bank shall be submitted to the Congress by such agency or officer as the President shall designate.”
+**1989**—Pub. L. 101–240 struck out subsec. (a) designation and struck out subsec. (b) which read as follows: "An annual report with respect to United States participation in the Bank shall be submitted to the Congress by such agency or officer as the President shall designate."

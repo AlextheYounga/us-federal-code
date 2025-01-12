@@ -6,12 +6,12 @@ In the performance of the functions of the Institute the Secretary of Commerce i
 
 #### Codification ####
 
-“Sections 5542 to 5546 of title 5” substituted in text for “titles II and III of the Federal Employees Pay Act of 1945” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+"Sections 5542 to 5546 of title 5" substituted in text for "titles II and III of the Federal Employees Pay Act of 1945" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–113 struck out “and” before “(g)” and inserted before period at end “; and (h) the provision of transportation services for employees of the Institute between the facilities of the Institute and nearby public transportation, notwithstanding section 1344 of title 31”.
+**1996**—Pub. L. 104–113 struck out "and" before "(g)" and inserted before period at end "; and (h) the provision of transportation services for employees of the Institute between the facilities of the Institute and nearby public transportation, notwithstanding section 1344 of title 31".
 
-**1988**—Pub. L. 100–418 substituted “functions of the Institute” for “functions of the National Bureau of Standards” and “Institute buildings” for “Bureau buildings”.
+**1988**—Pub. L. 100–418 substituted "functions of the Institute" for "functions of the National Bureau of Standards" and "Institute buildings" for "Bureau buildings".
 
-**1972**—Pub. L. 92–317 substituted, in cl. (b), “the care, maintenance, protection, repair, and alteration of Bureau buildings and other plant facilities, equipment, and property” for “the repair and alteration of buildings and other plant facilities”.
+**1972**—Pub. L. 92–317 substituted, in cl. (b), "the care, maintenance, protection, repair, and alteration of Bureau buildings and other plant facilities, equipment, and property" for "the repair and alteration of buildings and other plant facilities".

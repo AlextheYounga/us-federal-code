@@ -6,7 +6,7 @@ A statement of the acreage and value of such property as may have been transferr
 
 #### Amendments ####
 
-**1995**—Pub. L. 104–66 struck out before period at end “and shall be included in the annual budget transmitted to the Congress”.
+**1995**—Pub. L. 104–66 struck out before period at end "and shall be included in the annual budget transmitted to the Congress".
 
 #### Transfer of Functions ####
 

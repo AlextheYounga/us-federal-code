@@ -10,7 +10,7 @@ The Federal Power Commission is directed not to issue or approve any permits or 
 
 #### References in Text ####
 
-The Federal Power Act, referred to in text, which was in the original the “Federal Water Power Act”, is defined in section 617k of this title. For further details, see note set out under section 617k of this title.
+The Federal Power Act, referred to in text, which was in the original the "Federal Water Power Act", is defined in section 617k of this title. For further details, see note set out under section 617k of this title.
 
 #### Transfer of Functions ####
 

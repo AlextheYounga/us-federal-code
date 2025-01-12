@@ -8,9 +8,9 @@ The district courts shall have original jurisdiction of any civil action arising
 
 Based on title 28, U.S.C., 1940 ed., §41(5) (Mar. 3, 1911, ch. 231, §24, par. 5, 36 Stat. 1092; Mar. 2, 1929, ch. 488, §1, 45 Stat. 1475).
 
-Words “Customs Court” were substituted for “Court of Customs and Patent Appeals.” Section 41(5) of title 28, U.S.C., 1940 ed., is based on the Judicial Code of 1911. At that time the only court, other than the district courts, having jurisdiction of customs cases, was the Court of Customs Appeals which became the Court of Customs and Patent Appeals in 1929. The Customs Court was created in 1926 as a court of original jurisdiction over customs cases. (See reviser's note preceding section 251 of this title.)
+Words "Customs Court" were substituted for "Court of Customs and Patent Appeals." Section 41(5) of title 28, U.S.C., 1940 ed., is based on the Judicial Code of 1911. At that time the only court, other than the district courts, having jurisdiction of customs cases, was the Court of Customs Appeals which became the Court of Customs and Patent Appeals in 1929. The Customs Court was created in 1926 as a court of original jurisdiction over customs cases. (See reviser's note preceding section 251 of this title.)
 
-Words “any civil action” were substituted for “all cases” in view of Rule 2 of the Federal Rules of Civil Procedure.
+Words "any civil action" were substituted for "all cases" in view of Rule 2 of the Federal Rules of Civil Procedure.
 
 Changes were made in phraseology.
 

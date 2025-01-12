@@ -6,7 +6,7 @@ The Secretary shall make grants to, and enter into contracts with, eligible enti
 
 #### (b) Eligible entities ####
 
-For purposes of this section, the term “eligible entity” means an entity described in section 295o–1(b) of this title.
+For purposes of this section, the term "eligible entity" means an entity described in section 295o–1(b) of this title.
 
 #### (c) Application ####
 

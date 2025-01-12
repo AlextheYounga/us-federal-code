@@ -22,4 +22,4 @@ Subsection (d), which required the Secretary to report annually to the Committee
 
 #### Amendments ####
 
-**1994**—Subsec. (d). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+**1994**—Subsec. (d). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".

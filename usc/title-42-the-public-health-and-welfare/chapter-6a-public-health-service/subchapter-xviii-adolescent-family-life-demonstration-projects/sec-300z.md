@@ -60,4 +60,4 @@
 
 **1984**—Subsec. (a)(5). Pub. L. 98–512, §2(b), struck out reference relating to developmental disabilities and inserted provision relating to importance of education, training, and job research services for adolescent parents.
 
-Subsec. (b)(3). Pub. L. 98–512, §2(c), inserted “both” before “for pregnant adolescents”.
+Subsec. (b)(3). Pub. L. 98–512, §2(c), inserted "both" before "for pregnant adolescents".

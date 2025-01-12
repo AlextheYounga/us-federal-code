@@ -6,7 +6,7 @@ To enable the Secretary of Agriculture to carry out the purposes of section 590g
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–127 substituted “section 590g” for “sections 590g and 590h”, struck out “A specified amount or percentage of the appropriation shall be designated for long-term agreements based on farm and ranch conservation plans approved by local conservation districts, where such districts are organized.” before “The Secretary shall distribute”, and struck out last par. which read as follows: “Notwithstanding the foregoing provisions of this section and the provisions of section 590g(g) of this title, programs of soil-building practices, soil- and water-conserving practices, and agriculture-related pollution prevention and abatement practices shall be based on a distribution of the funds available for payments and grants among the several States in accordance with their conservation needs, as determinated by the Secretary, except that the proportion allocated to any State shall not be reduced by more than 15 per centum from the distribution of such funds for the next preceding program year. In carrying out such programs, the Secretary shall give particular consideration to conservation problems on farm lands diverted from crops under acreage allotment programs and to the maintenance of a proper balance between soil conserving and soil depleting crops on the farm.”
+**1996**—Pub. L. 104–127 substituted "section 590g" for "sections 590g and 590h", struck out "A specified amount or percentage of the appropriation shall be designated for long-term agreements based on farm and ranch conservation plans approved by local conservation districts, where such districts are organized." before "The Secretary shall distribute", and struck out last par. which read as follows: "Notwithstanding the foregoing provisions of this section and the provisions of section 590g(g) of this title, programs of soil-building practices, soil- and water-conserving practices, and agriculture-related pollution prevention and abatement practices shall be based on a distribution of the funds available for payments and grants among the several States in accordance with their conservation needs, as determinated by the Secretary, except that the proportion allocated to any State shall not be reduced by more than 15 per centum from the distribution of such funds for the next preceding program year. In carrying out such programs, the Secretary shall give particular consideration to conservation problems on farm lands diverted from crops under acreage allotment programs and to the maintenance of a proper balance between soil conserving and soil depleting crops on the farm."
 
 **1977**—Pub. L. 95–113 inserted provisions directing that appropriated funds be available until expended, that funds be made available for long-term agreements, and that the Secretary distribute the available funds among the several States in accordance with their conservation needs as determined by the Secretary and struck out provisions setting out a formula for determining the proper allocation of funds as between the various commodities and making reference to programs of soil-building practices, soil-conserving and water-conserving practices, and agricultural-related pollution prevention and abatement practices.
 
@@ -14,7 +14,7 @@ To enable the Secretary of Agriculture to carry out the purposes of section 590g
 
 **1954**—Act Aug. 28, 1954, inserted last par.
 
-**1938**—Act Feb. 16, 1938, inserted par. beginning “The funds available”.
+**1938**—Act Feb. 16, 1938, inserted par. beginning "The funds available".
 
 #### Effective Date of 1977 Amendment ####
 
@@ -22,7 +22,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Effective Date of 1938 Amendment ####
 
-Act Feb. 16, 1938, ch. 30, title I, §105, 52 Stat. 36, as amended by section 1 of act Apr. 7, 1938, provided that the amendment made by that act, amending this section, “shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year 1938 and based upon any soil-depleting crop for which special acreage allotments are established shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained herein shall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938.”
+Act Feb. 16, 1938, ch. 30, title I, §105, 52 Stat. 36, as amended by section 1 of act Apr. 7, 1938, provided that the amendment made by that act, amending this section, "shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year 1938 and based upon any soil-depleting crop for which special acreage allotments are established shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained herein shall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938."
 
 #### Transfer of Functions ####
 

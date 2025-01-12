@@ -14,57 +14,57 @@ A prior section 308d, added Pub. L. 96–342, title VIII, §805(a)(1), Sept. 8, 
 
 #### Amendments ####
 
-**2013**—Subsec. (c). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+**2013**—Subsec. (c). Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-**2011**—Subsec. (c). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+**2011**—Subsec. (c). Pub. L. 112–81 substituted "December 31, 2012" for "December 31, 2011".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
-**2009**—Subsec. (c). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+**2009**—Subsec. (c). Pub. L. 111–84 substituted "December 31, 2010" for "December 31, 2009".
 
-**2008**—Subsec. (c). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+**2008**—Subsec. (c). Pub. L. 110–417 substituted "December 31, 2009" for "December 31, 2008".
 
-Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
+Pub. L. 110–181 substituted "December 31, 2008" for "December 31, 2007".
 
-**2006**—Pub. L. 109–163, §632(c)(1), substituted “Special pay: members of the Selected Reserve assigned to certain high priority units” for “Special pay: enlisted members of the Selected Reserve assigned to certain high priority units” in section catchline.
+**2006**—Pub. L. 109–163, §632(c)(1), substituted "Special pay: members of the Selected Reserve assigned to certain high priority units" for "Special pay: enlisted members of the Selected Reserve assigned to certain high priority units" in section catchline.
 
-Subsec. (a). Pub. L. 109–163, §632(a), (b), substituted “a member” for “an enlisted member” and “$50” for “$10”.
+Subsec. (a). Pub. L. 109–163, §632(a), (b), substituted "a member" for "an enlisted member" and "$50" for "$10".
 
-Subsec. (c). Pub. L. 109–364 substituted “December 31, 2007” for “December 31, 2006”.
+Subsec. (c). Pub. L. 109–364 substituted "December 31, 2007" for "December 31, 2006".
 
-Pub. L. 109–163, §621(b), substituted “December 31, 2006” for “December 31, 2005”.
+Pub. L. 109–163, §621(b), substituted "December 31, 2006" for "December 31, 2005".
 
-**2004**—Subsec. (c). Pub. L. 108–375 substituted “December 31, 2005” for “December 31, 2004”.
+**2004**—Subsec. (c). Pub. L. 108–375 substituted "December 31, 2005" for "December 31, 2004".
 
-**2003**—Subsec. (c). Pub. L. 108–136 substituted “December 31, 2004” for “December 31, 2003”.
+**2003**—Subsec. (c). Pub. L. 108–136 substituted "December 31, 2004" for "December 31, 2003".
 
-**2002**—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+**2002**—Subsec. (a). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-Subsec. (c). Pub. L. 107–314 substituted “December 31, 2003” for “December 31, 2002”.
+Subsec. (c). Pub. L. 107–314 substituted "December 31, 2003" for "December 31, 2002".
 
-**2001**—Subsec. (c). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
+**2001**—Subsec. (c). Pub. L. 107–107 substituted "December 31, 2002" for "December 31, 2001".
 
-**2000**—Subsec. (c). Pub. L. 106–398 substituted “December 31, 2001” for “December 31, 2000”.
+**2000**—Subsec. (c). Pub. L. 106–398 substituted "December 31, 2001" for "December 31, 2000".
 
-**1999**—Subsec. (a). Pub. L. 106–65, §621, inserted “or the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy,” after “Secretary of Defense,”.
+**1999**—Subsec. (a). Pub. L. 106–65, §621, inserted "or the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy," after "Secretary of Defense,".
 
-Subsec. (c). Pub. L. 106–65, §611(d), substituted “December 31, 2000” for “December 31, 1999”.
+Subsec. (c). Pub. L. 106–65, §611(d), substituted "December 31, 2000" for "December 31, 1999".
 
-**1998**—Subsec. (c). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
+**1998**—Subsec. (c). Pub. L. 105–261 substituted "December 31, 1999" for "September 30, 1999".
 
-**1997**—Subsec. (c). Pub. L. 105–85 substituted “September 30, 1999” for “September 30, 1998”.
+**1997**—Subsec. (c). Pub. L. 105–85 substituted "September 30, 1999" for "September 30, 1998".
 
-**1996**—Subsec. (c). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
+**1996**—Subsec. (c). Pub. L. 104–201 substituted "September 30, 1998" for "September 30, 1997".
 
-Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996”.
+Pub. L. 104–106 substituted "September 30, 1997" for "September 30, 1996".
 
-**1994**—Subsec. (c). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
+**1994**—Subsec. (c). Pub. L. 103–337 substituted "September 30, 1996" for "September 30, 1995".
 
-**1993**—Subsec. (c). Pub. L. 103–160 substituted “September 30, 1995” for “September 30, 1993”.
+**1993**—Subsec. (c). Pub. L. 103–160 substituted "September 30, 1995" for "September 30, 1993".
 
-**1992**—Subsec. (c). Pub. L. 102–484 substituted “September 30, 1993” for “September 30, 1992”.
+**1992**—Subsec. (c). Pub. L. 102–484 substituted "September 30, 1993" for "September 30, 1992".
 
-**1991**—Subsec. (c). Pub. L. 102–190 substituted “1992” for “1991”.
+**1991**—Subsec. (c). Pub. L. 102–190 substituted "1992" for "1991".
 
 #### Effective Date of 2008 Amendment ####
 
@@ -76,15 +76,15 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1993 Amendment ####
 
-Pub. L. 103–160, div. A, title VI, §613(h)(2), Nov. 30, 1993, 107 Stat. 1682, provided that: “The amendment made by subsection (d) [amending this section] shall take effect as of September 30, 1993, and shall apply with respect to inactive duty for training performed after that date for which special pay is authorized under section 308d of title 37, United States Code.”
+Pub. L. 103–160, div. A, title VI, §613(h)(2), Nov. 30, 1993, 107 Stat. 1682, provided that: "The amendment made by subsection (d) [amending this section] shall take effect as of September 30, 1993, and shall apply with respect to inactive duty for training performed after that date for which special pay is authorized under section 308d of title 37, United States Code."
 
 #### Effective Date of 1992 Amendment ####
 
-Pub. L. 102–484, div. A, title VI, §612(j)(1), Oct. 23, 1992, 106 Stat. 2421, provided that: “The amendment made by subsection (e) [amending this section] shall take effect as of September 30, 1992, and shall apply with respect to inactive duty for training performed after that date for which special pay is authorized under section 308d of title 37, United States Code.”
+Pub. L. 102–484, div. A, title VI, §612(j)(1), Oct. 23, 1992, 106 Stat. 2421, provided that: "The amendment made by subsection (e) [amending this section] shall take effect as of September 30, 1992, and shall apply with respect to inactive duty for training performed after that date for which special pay is authorized under section 308d of title 37, United States Code."
 
 #### Effective Date of 1991 Amendment ####
 
-Pub. L. 102–190, div. A, title VI, §612(b)(2), Dec. 5, 1991, 105 Stat. 1376, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as of September 30, 1991, and shall apply with respect to inactive duty for training performed after that date for which special pay is authorized under section 308d of such title.”
+Pub. L. 102–190, div. A, title VI, §612(b)(2), Dec. 5, 1991, 105 Stat. 1376, provided that: "The amendment made by paragraph (1) [amending this section] shall take effect as of September 30, 1991, and shall apply with respect to inactive duty for training performed after that date for which special pay is authorized under section 308d of such title."
 
 #### Report to Congress ####
 

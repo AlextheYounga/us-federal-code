@@ -18,7 +18,7 @@ Any person, acting through a physician licensed in accordance with State law, ma
 
 #### (c) Treatment investigational new drug applications and treatment investigational device exemptions ####
 
-Upon submission by a sponsor or a physician of a protocol intended to provide widespread access to an investigational drug or investigational device for eligible patients (referred to in this subsection as an “expanded access protocol”), the Secretary shall permit such investigational drug or investigational device to be made available for expanded access under a treatment investigational new drug application or treatment investigational device exemption if the Secretary determines that—
+Upon submission by a sponsor or a physician of a protocol intended to provide widespread access to an investigational drug or investigational device for eligible patients (referred to in this subsection as an "expanded access protocol"), the Secretary shall permit such investigational drug or investigational device to be made available for expanded access under a treatment investigational new drug application or treatment investigational device exemption if the Secretary determines that—
 
 (1) under the treatment investigational new drug application or treatment investigational device exemption, the investigational drug or investigational device is intended for use in the diagnosis, monitoring, or treatment of a serious or immediately life-threatening disease or condition;
 
@@ -44,13 +44,13 @@ The Secretary may, at any time, with respect to a sponsor, physician, manufactur
 
 #### (e) Definitions ####
 
-In this section, the terms “investigational drug”, “investigational device”, “treatment investigational new drug application”, and “treatment investigational device exemption” shall have the meanings given the terms in regulations prescribed by the Secretary.
+In this section, the terms "investigational drug", "investigational device", "treatment investigational new drug application", and "treatment investigational device exemption" shall have the meanings given the terms in regulations prescribed by the Secretary.
 
 (June 25, 1938, ch. 675, §561, as added Pub. L. 105–115, title IV, §402, Nov. 21, 1997, 111 Stat. 2365; amended Pub. L. 109–482, title I, §102(f)(2), Jan. 15, 2007, 120 Stat. 3685.)
 
 #### Amendments ####
 
-**2007**—Subsec. (c). Pub. L. 109–482 substituted “section 282(i)(3)” for “section 282(j)(3)” in concluding provisions.
+**2007**—Subsec. (c). Pub. L. 109–482 substituted "section 282(i)(3)" for "section 282(j)(3)" in concluding provisions.
 
 #### Effective Date of 2007 Amendment ####
 

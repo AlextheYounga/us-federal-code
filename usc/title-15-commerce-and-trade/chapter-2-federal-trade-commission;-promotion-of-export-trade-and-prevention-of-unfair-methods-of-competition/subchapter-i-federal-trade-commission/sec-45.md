@@ -18,7 +18,7 @@
 
 If this subsection applies to such methods of competition only because of the operation of subparagraph (A)(ii), this subsection shall apply to such conduct only for injury to export business in the United States.
 
-(4)(A) For purposes of subsection (a), the term “unfair or deceptive acts or practices” includes such acts or practices involving foreign commerce that—
+(4)(A) For purposes of subsection (a), the term "unfair or deceptive acts or practices" includes such acts or practices involving foreign commerce that—
 
 (i) cause or are likely to cause reasonably foreseeable injury within the United States; or
 
@@ -88,9 +88,9 @@ If the order of the Commission is modified or set aside by the court of appeals,
 
 If the Supreme Court orders a rehearing; or if the case is remanded by the court of appeals to the Commission for a rehearing, and if (1) the time allowed for filing a petition for certiorari has expired, and no such petition has been duly filed, or (2) the petition for certiorari has been denied, or (3) the decision of the court has been affirmed by the Supreme Court, then the order of the Commission rendered upon such rehearing shall become final in the same manner as though no prior order of the Commission had been rendered.
 
-#### (k) “Mandate” defined ####
+#### (k) "Mandate" defined ####
 
-As used in this section the term “mandate”, in case a mandate has been recalled prior to the expiration of thirty days from the date of issuance thereof, means the final mandate.
+As used in this section the term "mandate", in case a mandate has been recalled prior to the expiration of thirty days from the date of issuance thereof, means the final mandate.
 
 #### (l) Penalty for violation of order; injunctions and other appropriate equitable relief ####
 
@@ -130,9 +130,9 @@ The Packers and Stockyards Act, 1921, as amended, referred to in subsec. (a)(2),
 
 #### Codification ####
 
-In subsec. (a)(2), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 [49 App. U.S.C. 1301 et seq.]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (a)(2), "part A of subtitle VII of title 49" substituted for "the Federal Aviation Act of 1958 [49 App. U.S.C. 1301 et seq.]" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
-In subsec. (c), “section 1254 of title 28” substituted for “section 240 of the Judicial Code [28 U.S.C. 347]” on authority of act June 25, 1948, ch. 646, 62 Stat. 869, the first section of which enacted Title 28, Judiciary and Judicial Procedure.
+In subsec. (c), "section 1254 of title 28" substituted for "section 240 of the Judicial Code [28 U.S.C. 347]" on authority of act June 25, 1948, ch. 646, 62 Stat. 869, the first section of which enacted Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments ####
 
@@ -140,21 +140,21 @@ In subsec. (c), “section 1254 of title 28” substituted for “section 240 of
 
 **2006**—Subsec. (a)(4). Pub. L. 109–455, §3, which added par. (4) extending the definition of unfair or deceptive acts or practices to include certain ones involving foreign commerce, was repealed by Pub. L. 109–455, §13, as amended by Pub. L. 112–203, §1. See Termination Date of 2006 Amendment note below.
 
-**1994**—Subsec. (g)(1). Pub. L. 103–312, §6(d), substituted a period for “; or” at end.
+**1994**—Subsec. (g)(1). Pub. L. 103–312, §6(d), substituted a period for "; or" at end.
 
-Subsec. (g)(2). Pub. L. 103–312, §6(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Upon the expiration of the time allowed for filing a petition for certiorari, if the order of the Commission has been affirmed, or the petition for review dismissed by the court of appeals, and no petition for certiorari has been duly filed; or”.
+Subsec. (g)(2). Pub. L. 103–312, §6(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Upon the expiration of the time allowed for filing a petition for certiorari, if the order of the Commission has been affirmed, or the petition for review dismissed by the court of appeals, and no petition for certiorari has been duly filed; or".
 
-Subsec. (g)(3). Pub. L. 103–312, §6(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Upon the denial of a petition for certiorari, if the order of the Commission has been affirmed or the petition for review dismissed by the court of appeals; or”.
+Subsec. (g)(3). Pub. L. 103–312, §6(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Upon the denial of a petition for certiorari, if the order of the Commission has been affirmed or the petition for review dismissed by the court of appeals; or".
 
-Subsec. (g)(4). Pub. L. 103–312, §6(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Upon the expiration of thirty days from the date of issuance of the mandate of the Supreme Court, if such Court directs that the order of the Commission be affirmed or the petition for review dismissed.”
+Subsec. (g)(4). Pub. L. 103–312, §6(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Upon the expiration of thirty days from the date of issuance of the mandate of the Supreme Court, if such Court directs that the order of the Commission be affirmed or the petition for review dismissed."
 
-Subsec. (m)(1)(B). Pub. L. 103–312, §4(a), inserted “, other than a consent order,” after “a final cease and desist order” in introductory provisions.
+Subsec. (m)(1)(B). Pub. L. 103–312, §4(a), inserted ", other than a consent order," after "a final cease and desist order" in introductory provisions.
 
-Subsec. (m)(2). Pub. L. 103–312, §4(b), inserted at end “Upon request of any party to such an action against such defendant, the court shall also review the determination of law made by the Commission in the proceeding under subsection (b) of this section that the act or practice which was the subject of such proceeding constituted an unfair or deceptive act or practice in violation of subsection (a) of this section.”
+Subsec. (m)(2). Pub. L. 103–312, §4(b), inserted at end "Upon request of any party to such an action against such defendant, the court shall also review the determination of law made by the Commission in the proceeding under subsection (b) of this section that the act or practice which was the subject of such proceeding constituted an unfair or deceptive act or practice in violation of subsection (a) of this section."
 
 Subsec. (n). Pub. L. 103–312, §9, added subsec. (n).
 
-**1987**—Subsec. (a)(2). Pub. L. 100–86 inserted “Federal credit unions described in section 57a(f)(4) of this title,” after “section 57a(f)(3) of this title,”.
+**1987**—Subsec. (a)(2). Pub. L. 100–86 inserted "Federal credit unions described in section 57a(f)(4) of this title," after "section 57a(f)(3) of this title,".
 
 **1984**—Subsec. (e). Pub. L. 98–620 struck out provision that such proceedings in the court of appeals had to be given precedence over other cases pending therein, and had to be in every way expedited.
 
@@ -164,7 +164,7 @@ Subsec. (n). Pub. L. 103–312, §9, added subsec. (n).
 
 **1979**—Subsec. (a)(2). Pub. L. 96–37 added savings and loan institutions described in section 57a(f)(3) of this title to the enumeration of entities exempted from the Commission's power to prevent the use of unfair methods of competition and unfair or deceptive acts or practices.
 
-**1975**—Pub. L. 93–637, §201(a), substituted “in or affecting commerce” for “in commerce” wherever appearing.
+**1975**—Pub. L. 93–637, §201(a), substituted "in or affecting commerce" for "in commerce" wherever appearing.
 
 Subsec. (a). Pub. L. 94–145 struck out pars. (2) to (5) which permitted fair trade pricing of articles for retail sale and State enactment of nonsigner provisions, and redesignated par. (6) as (2).
 
@@ -174,29 +174,29 @@ Subsec. (m). Pub. L. 93–637, §§204(b), 205(a), added subsec. (m). Former sub
 
 Subsec. (m). Pub. L. 93–153, §408(d), added subsec. (m).
 
-**1960**—Subsec. (f). Pub. L. 86–507 substituted “mailing a copy thereof by registered mail or by certified mail” for “registering and mailing a copy thereof”, and “mailed by registered mail or by certified mail” for “registered and mailed”.
+**1960**—Subsec. (f). Pub. L. 86–507 substituted "mailing a copy thereof by registered mail or by certified mail" for "registering and mailing a copy thereof", and "mailed by registered mail or by certified mail" for "registered and mailed".
 
-**1958**—Subsec. (a)(6). Pub. L. 85–909 substituted “persons, partnerships, or corporations insofar as they are subject to the Packers and Stockyards Act, 1921, as amended,” for “persons, partnerships or corporations subject to the Packers and Stockyards Act, 1921,”.
+**1958**—Subsec. (a)(6). Pub. L. 85–909 substituted "persons, partnerships, or corporations insofar as they are subject to the Packers and Stockyards Act, 1921, as amended," for "persons, partnerships or corporations subject to the Packers and Stockyards Act, 1921,".
 
-Pub. L. 85–726, §1411, substituted “Federal Aviation Act of 1958” for “Civil Aeronautics Act of 1938”.
+Pub. L. 85–726, §1411, substituted "Federal Aviation Act of 1958" for "Civil Aeronautics Act of 1938".
 
-Subsec. (b). Pub. L. 85–791, §3(a), struck out “the transcript of” before “the record in the proceeding” in sixth sentence.
+Subsec. (b). Pub. L. 85–791, §3(a), struck out "the transcript of" before "the record in the proceeding" in sixth sentence.
 
-Subsec. (c). Pub. L. 85–791, §3(b), in second sentence, substituted “transmitted by the clerk of the court to” for “served upon”, and “Commission shall file in the court the record in the proceeding, as provided in section 2112 of title 28” for “Commission forthwith shall certify and file in the court a transcript of the entire record in the proceeding, including all the evidence taken and the report and order of the Commission”, and which, in third sentence struck out “and transcript” after “petition”, inserted “concurrently with the Commission until the filing of the record” and struck out “upon the pleadings, evidence, and proceedings set forth in such transcript” before “a decree affirming”.
+Subsec. (c). Pub. L. 85–791, §3(b), in second sentence, substituted "transmitted by the clerk of the court to" for "served upon", and "Commission shall file in the court the record in the proceeding, as provided in section 2112 of title 28" for "Commission forthwith shall certify and file in the court a transcript of the entire record in the proceeding, including all the evidence taken and the report and order of the Commission", and which, in third sentence struck out "and transcript" after "petition", inserted "concurrently with the Commission until the filing of the record" and struck out "upon the pleadings, evidence, and proceedings set forth in such transcript" before "a decree affirming".
 
-Subsec. (d). Pub. L. 85–791, §3(c), substituted “Upon the filing of the record with it the” for “The”.
+Subsec. (d). Pub. L. 85–791, §3(c), substituted "Upon the filing of the record with it the" for "The".
 
 **1952**—Subsec. (a). Act July 14, 1952, amended subsec. (a) generally to permit fair trade pricing of articles for retail sale.
 
 **1950**—Subsec. (l). Act Mar. 16, 1950, inserted last sentence to make each separate violation of a cease and desist order as a separate offense, except that each day of a continuing failure to obey a final order shall be a separate offense.
 
-**1938**—Subsec. (a). Act June 23, 1938, inserted “air carriers and foreign air carriers subject to chapter 9 of title 49” in second par.
+**1938**—Subsec. (a). Act June 23, 1938, inserted "air carriers and foreign air carriers subject to chapter 9 of title 49" in second par.
 
 Act Mar. 21, 1938, amended section generally.
 
 #### Change of Name ####
 
-Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted “court of appeals” for “circuit court of appeals”.
+Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted "court of appeals" for "circuit court of appeals".
 
 #### Termination Date of 2006 Amendment ####
 
@@ -206,15 +206,15 @@ Amendment by section 3 of Pub. L. 109–455 repealed effective Sept. 30, 2020, a
 
 Pub. L. 103–312, §15, Aug. 26, 1994, 108 Stat. 1697, provided that:
 
-“(a) In General.—Except as provided in subsections (b), (c), (d), and (e), the provisions of this Act [enacting section 57b–5 of this title, amending this section and sections 53, 57a, 57b–1, 57b–2, 57c, and 58 of this title, and enacting provisions set out as notes under sections 57c and 58 of this title] shall take effect on the date of enactment of this Act [Aug. 26, 1994].
+"(a) In General.—Except as provided in subsections (b), (c), (d), and (e), the provisions of this Act [enacting section 57b–5 of this title, amending this section and sections 53, 57a, 57b–1, 57b–2, 57c, and 58 of this title, and enacting provisions set out as notes under sections 57c and 58 of this title] shall take effect on the date of enactment of this Act [Aug. 26, 1994].
 
-“(b) Applicability of Section 5.—The amendment made by section 5 of this Act [amending section 57a of this title] shall apply only to rulemaking proceedings initiated after the date of enactment of this Act. Such amendment shall not be construed to affect in any manner a rulemaking proceeding which was initiated before the date of enactment of this Act [Aug. 26, 1994].
+"(b) Applicability of Section 5.—The amendment made by section 5 of this Act [amending section 57a of this title] shall apply only to rulemaking proceedings initiated after the date of enactment of this Act. Such amendment shall not be construed to affect in any manner a rulemaking proceeding which was initiated before the date of enactment of this Act [Aug. 26, 1994].
 
-“(c) Applicability of Section 6.—The amendments made by section 6 of this Act [amending this section] shall apply only with respect to cease and desist orders issued under section 5 of the Federal Trade Commission Act (15 U.S.C. 45) after the date of enactment of this Act [Aug. 26, 1994]. These amendments shall not be construed to affect in any manner a cease and desist order which was issued before the date of enactment of this Act.
+"(c) Applicability of Section 6.—The amendments made by section 6 of this Act [amending this section] shall apply only with respect to cease and desist orders issued under section 5 of the Federal Trade Commission Act (15 U.S.C. 45) after the date of enactment of this Act [Aug. 26, 1994]. These amendments shall not be construed to affect in any manner a cease and desist order which was issued before the date of enactment of this Act.
 
-“(d) Applicability of Sections 7 and 8.—The amendments made by sections 7 and 8 of this Act [amending sections 57b–1 and 57b–2 of this title] shall apply only with respect to compulsory process issued after the date of enactment of this Act [Aug. 26, 1994].
+"(d) Applicability of Sections 7 and 8.—The amendments made by sections 7 and 8 of this Act [amending sections 57b–1 and 57b–2 of this title] shall apply only with respect to compulsory process issued after the date of enactment of this Act [Aug. 26, 1994].
 
-“(e) Applicability of Section 9.—The amendments made by section 9 of this Act [amending this section] shall apply only with respect to cease and desist orders issued under section 5 of the Federal Trade Commission Act (15 U.S.C. 45), or to rules promulgated under section 18 of the Federal Trade Commission Act (15 U.S.C. 57a) after the date of enactment of this Act [Aug. 26, 1994]. These amendments shall not be construed to affect in any manner a cease and desist order which was issued, or a rule which was promulgated, before the date of enactment of this Act. These amendments shall not be construed to affect in any manner a cease and desist order issued after the date of enactment of this Act, if such order was issued pursuant to remand from a court of appeals or the Supreme Court of an order issued by the Federal Trade Commission before the date of enactment of this Act.”
+"(e) Applicability of Section 9.—The amendments made by section 9 of this Act [amending this section] shall apply only with respect to cease and desist orders issued under section 5 of the Federal Trade Commission Act (15 U.S.C. 45), or to rules promulgated under section 18 of the Federal Trade Commission Act (15 U.S.C. 57a) after the date of enactment of this Act [Aug. 26, 1994]. These amendments shall not be construed to affect in any manner a cease and desist order which was issued, or a rule which was promulgated, before the date of enactment of this Act. These amendments shall not be construed to affect in any manner a cease and desist order issued after the date of enactment of this Act, if such order was issued pursuant to remand from a court of appeals or the Supreme Court of an order issued by the Federal Trade Commission before the date of enactment of this Act."
 
 #### Effective Date of 1984 Amendment ####
 
@@ -222,7 +222,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 #### Effective Date of 1980 Amendment ####
 
-Pub. L. 96–252, §23, May 28, 1980, 94 Stat. 397, provided that: “The provisions of this Act [enacting sections 57a–1 and 57b–1 to 57b–4 of this title, amending this section and sections 46, 50, 57a, 57c, and 58 of this title, and enacting provisions set out as notes under sections 46, 57a, 57a–1, 57c, and 58 of this title], and the amendments made by this Act, shall take effect on the date of the enactment of this Act [May 28, 1980].”
+Pub. L. 96–252, §23, May 28, 1980, 94 Stat. 397, provided that: "The provisions of this Act [enacting sections 57a–1 and 57b–1 to 57b–4 of this title, amending this section and sections 46, 50, 57a, 57c, and 58 of this title, and enacting provisions set out as notes under sections 46, 57a, 57a–1, 57c, and 58 of this title], and the amendments made by this Act, shall take effect on the date of the enactment of this Act [May 28, 1980]."
 
 #### Effective Date of 1975 Amendments ####
 
@@ -230,7 +230,7 @@ Amendment by Pub. L. 94–145 effective upon expiration of ninety-day period beg
 
 Amendment by section 204(b) of Pub. L. 93–637 not applicable to any civil action commenced before Jan. 4, 1975, see section 204(c) of Pub. L. 93–637, set out as a note under section 56 of this title.
 
-Pub. L. 93–637, §205(b), Jan. 4, 1975, 88 Stat. 2201, provided that: “The amendment made by subsection (a) of this section [amending this section] shall not apply to any violation, act, or practice to the extent that such violation, act, or practice occurred before the date of enactment of this Act [Jan. 4, 1975].”
+Pub. L. 93–637, §205(b), Jan. 4, 1975, 88 Stat. 2201, provided that: "The amendment made by subsection (a) of this section [amending this section] shall not apply to any violation, act, or practice to the extent that such violation, act, or practice occurred before the date of enactment of this Act [Jan. 4, 1975]."
 
 #### Effective Date of 1958 Amendment ####
 
@@ -248,14 +248,14 @@ For transfer of functions of Federal Trade Commission, with certain exceptions, 
 
 Pub. L. 93–153, §408(a), (b), Nov. 16, 1973, 87 Stat. 591, provided that:
 
-“(a)(1) The Congress hereby finds that the investigative and law enforcement responsibilities of the Federal Trade Commission have been restricted and hampered because of inadequate legal authority to enforce subpenas and to seek preliminary injunctive relief to avoid unfair competitive practices.
+"(a)(1) The Congress hereby finds that the investigative and law enforcement responsibilities of the Federal Trade Commission have been restricted and hampered because of inadequate legal authority to enforce subpenas and to seek preliminary injunctive relief to avoid unfair competitive practices.
 
-“(2) The Congress further finds that as a direct result of this inadequate legal authority significant delays have occurred in a major investigation into the legality of the structure, conduct, and activities of the petroleum industry, as well as in other major investigations designed to protect the public interest.
+"(2) The Congress further finds that as a direct result of this inadequate legal authority significant delays have occurred in a major investigation into the legality of the structure, conduct, and activities of the petroleum industry, as well as in other major investigations designed to protect the public interest.
 
-“(b) It is the purpose of this Act [amending this section and sections 46, 53, and 56 of this title] to grant the Federal Trade Commission the requisite authority to insure prompt enforcement of the laws the Commission administers by granting statutory authority to directly enforce subpenas issued by the Commission and to seek preliminary injunctive relief to avoid unfair competitive practices.”
+"(b) It is the purpose of this Act [amending this section and sections 46, 53, and 56 of this title] to grant the Federal Trade Commission the requisite authority to insure prompt enforcement of the laws the Commission administers by granting statutory authority to directly enforce subpenas issued by the Commission and to seek preliminary injunctive relief to avoid unfair competitive practices."
 
 #### Purpose of Act July 14, 1952 ####
 
-Act July 14, 1952, ch. 745, §1, 66 Stat. 631, provided: “That it is the purpose of this Act [amending this section] to protect the rights of States under the United States Constitution to regulate their internal affairs and more particularly to enact statutes and laws, and to adopt policies, which authorize contracts and agreements prescribing minimum or stipulated prices for the resale of commodities and to extend the minimum or stipulated prices prescribed by such contracts and agreements to persons who are not parties thereto. It is the further purpose of this Act to permit such statutes, laws, and public policies to apply to commodities, contracts, agreements, and activities in or affecting interstate or foreign commerce.”
+Act July 14, 1952, ch. 745, §1, 66 Stat. 631, provided: "That it is the purpose of this Act [amending this section] to protect the rights of States under the United States Constitution to regulate their internal affairs and more particularly to enact statutes and laws, and to adopt policies, which authorize contracts and agreements prescribing minimum or stipulated prices for the resale of commodities and to extend the minimum or stipulated prices prescribed by such contracts and agreements to persons who are not parties thereto. It is the further purpose of this Act to permit such statutes, laws, and public policies to apply to commodities, contracts, agreements, and activities in or affecting interstate or foreign commerce."
 
-[<sup>1</sup> So in original. Probably should be “clause”.](#45_1)
+[<sup>1</sup> So in original. Probably should be "clause".](#45_1)

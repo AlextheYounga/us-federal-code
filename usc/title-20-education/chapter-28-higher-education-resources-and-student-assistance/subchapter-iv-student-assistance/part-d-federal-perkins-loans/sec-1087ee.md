@@ -44,7 +44,7 @@
 
 (M) as a full-time speech language pathologist, if the pathologist has a masters degree and is working exclusively with schools that are eligible for assistance under title I of the Elementary and Secondary Education Act of 1965 [20 U.S.C. 6301 et seq.].
 
-For the purpose of this paragraph, the term “children with disabilities” has the meaning set forth in section 1401 of this title.
+For the purpose of this paragraph, the term "children with disabilities" has the meaning set forth in section 1401 of this title.
 
 (3)(A) The percent of a loan which shall be canceled under paragraph (1) of this subsection is—
 
@@ -58,7 +58,7 @@ For the purpose of this paragraph, the term “children with disabilities” has
 
 (C) Nothing in this subsection shall be construed to authorize refunding of any repayment of a loan.
 
-(4) For the purpose of this subsection, the term “year” where applied to service as a teacher means academic year as defined by the Secretary.
+(4) For the purpose of this subsection, the term "year" where applied to service as a teacher means academic year as defined by the Secretary.
 
 (5) The amount of a loan, and interest on a loan, which is canceled under this section shall not be considered income for purposes of title 26.
 
@@ -110,67 +110,67 @@ A prior section 1087ee, Pub. L. 89–329, title IV, §465, as added Pub. L. 92�
 
 #### Amendments ####
 
-**2009**—Subsec. (a)(6). Pub. L. 111–39 substituted “12601” for “12571”.
+**2009**—Subsec. (a)(6). Pub. L. 111–39 substituted "12601" for "12571".
 
-**2008**—Subsec. (a)(2)(A). Pub. L. 110–315, §465(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “as a full-time teacher for service in an academic year in a public or other nonprofit private elementary or secondary school which is in the school district of a local educational agency which is eligible in such year for assistance pursuant to title I of the Elementary and Secondary Education Act of 1965, and which for the purpose of this paragraph and for that year has been determined by the Secretary (pursuant to regulations and after consultation with the State educational agency of the State in which the school is located) to be a school in which the enrollment of children counted under section 111(c) of the Elementary and Secondary Education Act of 1965 exceeds 30 percent of the total enrollment of that school;”.
+**2008**—Subsec. (a)(2)(A). Pub. L. 110–315, §465(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: "as a full-time teacher for service in an academic year in a public or other nonprofit private elementary or secondary school which is in the school district of a local educational agency which is eligible in such year for assistance pursuant to title I of the Elementary and Secondary Education Act of 1965, and which for the purpose of this paragraph and for that year has been determined by the Secretary (pursuant to regulations and after consultation with the State educational agency of the State in which the school is located) to be a school in which the enrollment of children counted under section 111(c) of the Elementary and Secondary Education Act of 1965 exceeds 30 percent of the total enrollment of that school;".
 
-Subsec. (a)(2)(B). Pub. L. 110–315, §465(1)(B), substituted “Head Start Act, or in a prekindergarten or child care program that is licensed or regulated by the State, that” for “Head Start Act which”.
+Subsec. (a)(2)(B). Pub. L. 110–315, §465(1)(B), substituted "Head Start Act, or in a prekindergarten or child care program that is licensed or regulated by the State, that" for "Head Start Act which".
 
-Subsec. (a)(2)(C). Pub. L. 110–315, §465(1)(C), inserted “, including a system administered by an educational service agency” after “secondary school system”.
+Subsec. (a)(2)(C). Pub. L. 110–315, §465(1)(C), inserted ", including a system administered by an educational service agency" after "secondary school system".
 
-Subsec. (a)(2)(F). Pub. L. 110–315, §465(1)(D), added subpar. (F) and struck out former subpar. (F) which read as follows: “as a full-time law enforcement officer or corrections officer for service to local, State, or Federal law enforcement or corrections agencies;”.
+Subsec. (a)(2)(F). Pub. L. 110–315, §465(1)(D), added subpar. (F) and struck out former subpar. (F) which read as follows: "as a full-time law enforcement officer or corrections officer for service to local, State, or Federal law enforcement or corrections agencies;".
 
 Subsec. (a)(2)(J) to (M). Pub. L. 110–315, §465(1)(E)–(G), added subpars. (J) to (M).
 
-Subsec. (a)(3)(A)(i). Pub. L. 110–315, §465(2)(A), inserted “(D),” after “(C),” and substituted “(I), (J), (K), (L), or (M)” for “or (I)”.
+Subsec. (a)(3)(A)(i). Pub. L. 110–315, §465(2)(A), inserted "(D)," after "(C)," and substituted "(I), (J), (K), (L), or (M)" for "or (I)".
 
-Subsec. (a)(3)(A)(iii), (iv). Pub. L. 110–315, §465(2)(B)–(D), redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “in the case of service described in subparagraph (D) of paragraph (2), not to exceed a total of 50 percent of such loan at the rate of 12½ percent for each year of qualifying service; or”.
+Subsec. (a)(3)(A)(iii), (iv). Pub. L. 110–315, §465(2)(B)–(D), redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: "in the case of service described in subparagraph (D) of paragraph (2), not to exceed a total of 50 percent of such loan at the rate of 12½ percent for each year of qualifying service; or".
 
 **2004**—Subsec. (a)(2)(C). Pub. L. 108–446 made technical amendment to reference in original act which appears in text as reference to section 1435(a)(10) of this title.
 
-**1998**—Subsec. (a)(2). Pub. L. 105–244, §465(1)(B), substituted “section 1401” for “section 1401(a)(1)” in concluding provisions.
+**1998**—Subsec. (a)(2). Pub. L. 105–244, §465(1)(B), substituted "section 1401" for "section 1401(a)(1)" in concluding provisions.
 
-Subsec. (a)(2)(C). Pub. L. 105–244, §465(1)(A), substituted “section 1435(a)(10)” for “section 1476(b)(9)”.
+Subsec. (a)(2)(C). Pub. L. 105–244, §465(1)(A), substituted "section 1435(a)(10)" for "section 1476(b)(9)".
 
 Subsec. (a)(7). Pub. L. 105–244, §465(1)(C), added par. (7).
 
-Subsec. (b). Pub. L. 105–244, §465(2), inserted at end “To the extent feasible, the Secretary shall pay the amounts for which any institution qualifies under this subsection not later than 3 months after the institution files an institutional application for campus-based funds.”
+Subsec. (b). Pub. L. 105–244, §465(2), inserted at end "To the extent feasible, the Secretary shall pay the amounts for which any institution qualifies under this subsection not later than 3 months after the institution files an institutional application for campus-based funds."
 
-**1994**—Subsec. (a)(2)(A). Pub. L. 103–382 substituted “title I of the Elementary and Secondary Education Act of 1965” for “chapter 1 of the Education Consolidation and Improvement Act of 1981”.
+**1994**—Subsec. (a)(2)(A). Pub. L. 103–382 substituted "title I of the Elementary and Secondary Education Act of 1965" for "chapter 1 of the Education Consolidation and Improvement Act of 1981".
 
 **1993**—Subsec. (a)(2)(A). Pub. L. 103–208, §2(k)(7), amended Pub. L. 102–325, §465(a)(1). See 1992 Amendment note below.
 
-Subsec. (a)(2)(D). Pub. L. 103–208, §2(f)(12), substituted “service” for “services”.
+Subsec. (a)(2)(D). Pub. L. 103–208, §2(f)(12), substituted "service" for "services".
 
-Subsec. (a)(2)(F). Pub. L. 103–208, §2(f)(13), struck out “or” after semicolon at end.
+Subsec. (a)(2)(F). Pub. L. 103–208, §2(f)(13), struck out "or" after semicolon at end.
 
 Subsec. (a)(6). Pub. L. 103–208, §2(f)(14), realigned margin. See Codification note above.
 
 Pub. L. 103–82 added par. (6).
 
-**1992**—Subsec. (a)(2)(A). Pub. L. 102–325, §465(a)(1), as amended by Pub. L. 103–208, §2(k)(7), struck out before semicolon at end “and such determination shall not be made with respect to more than 50 percent of the total number of schools in the State receiving assistance under such chapter 1”.
+**1992**—Subsec. (a)(2)(A). Pub. L. 102–325, §465(a)(1), as amended by Pub. L. 103–208, §2(k)(7), struck out before semicolon at end "and such determination shall not be made with respect to more than 50 percent of the total number of schools in the State receiving assistance under such chapter 1".
 
-Subsec. (a)(2)(C). Pub. L. 102–325, §465(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “as a full-time teacher of children with disabilities in a public or other nonprofit elementary or secondary school system;”.
+Subsec. (a)(2)(C). Pub. L. 102–325, §465(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "as a full-time teacher of children with disabilities in a public or other nonprofit elementary or secondary school system;".
 
 Subsec. (a)(2)(G) to (I). Pub. L. 102–325, §465(a)(3)–(5), added subpars. (G) to (I).
 
-Subsec. (a)(3)(A)(i). Pub. L. 102–325, §465(b), substituted “(A), (C), (F), (G), (H), or (I)” for “(A), (C), or (F)”.
+Subsec. (a)(3)(A)(i). Pub. L. 102–325, §465(b), substituted "(A), (C), (F), (G), (H), or (I)" for "(A), (C), or (F)".
 
 Subsec. (c). Pub. L. 102–325, §465(c), added subsec. (c).
 
-**1991**—Subsec. (a)(2). Pub. L. 102–119 substituted “1401(a)(1)” for “1401(1)” in last sentence. The references to section 1401 include the substitution of “Individuals with Disabilities Education Act” for “Education of the Handicapped Act” in the original.
+**1991**—Subsec. (a)(2). Pub. L. 102–119 substituted "1401(a)(1)" for "1401(1)" in last sentence. The references to section 1401 include the substitution of "Individuals with Disabilities Education Act" for "Education of the Handicapped Act" in the original.
 
-**1990**—Subsec. (a)(2). Pub. L. 101–476, §901(e), substituted “children with disabilities” for “handicapped children” in two places.
+**1990**—Subsec. (a)(2). Pub. L. 101–476, §901(e), substituted "children with disabilities" for "handicapped children" in two places.
 
 Subsec. (a)(2)(F). Pub. L. 101–647, §2101(a), which directed amendment of subsec. (a)(2) by adding at the end a new subpar. (F), was executed by adding subpar. (F) after subpar. (E) and before last sentence to reflect the probable intent of Congress.
 
-Subsec. (a)(3)(A)(i). Pub. L. 101–647, §2101(b), which directed amendment of subsec. (a)(3)(i) by substituting “(A), (C), or (F)” for “(A) or (C)”, was executed by making the substitution in subsec. (a)(3)(A)(i) to reflect the probable intent of Congress.
+Subsec. (a)(3)(A)(i). Pub. L. 101–647, §2101(b), which directed amendment of subsec. (a)(3)(i) by substituting "(A), (C), or (F)" for "(A) or (C)", was executed by making the substitution in subsec. (a)(3)(A)(i) to reflect the probable intent of Congress.
 
-**1988**—Subsec. (a)(5). Pub. L. 100–369 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+**1988**—Subsec. (a)(5). Pub. L. 100–369 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-**1987**—Subsec. (a)(2)(A). Pub. L. 100–50, §13(j)(1), (2), substituted “chapter 1 of the Education Consolidation and Improvement Act of 1981” for “title I of the Elementary and Secondary Education Act of 1965” and “such chapter 1” for “such title I”.
+**1987**—Subsec. (a)(2)(A). Pub. L. 100–50, §13(j)(1), (2), substituted "chapter 1 of the Education Consolidation and Improvement Act of 1981" for "title I of the Elementary and Secondary Education Act of 1965" and "such chapter 1" for "such title I".
 
-Subsec. (a)(2)(B). Pub. L. 100–50, §13(j)(3), substituted “the Head Start Act” for “section 2809(a)(1) of title 42”.
+Subsec. (a)(2)(B). Pub. L. 100–50, §13(j)(3), substituted "the Head Start Act" for "section 2809(a)(1) of title 42".
 
 #### Effective Date of 2009 Amendment ####
 
@@ -188,9 +188,9 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 
 #### Effective Date of 1990 Amendments ####
 
-Pub. L. 101–647, title XXI, §2101(c), Nov. 29, 1990, 104 Stat. 4856, provided that: “The amendments made by this section [amending this section] shall apply only to loans made on or after the date of enactment of this Act [Nov. 29, 1990] under part E of title IV of the Higher Education Act of 1965 [this part].”
+Pub. L. 101–647, title XXI, §2101(c), Nov. 29, 1990, 104 Stat. 4856, provided that: "The amendments made by this section [amending this section] shall apply only to loans made on or after the date of enactment of this Act [Nov. 29, 1990] under part E of title IV of the Higher Education Act of 1965 [this part]."
 
-Pub. L. 101–476, title X, §1001, Oct. 30, 1990, 104 Stat. 1151, provided that: “The amendments made by this Act [see Short Title of 1990 Amendment note set out under section 1400 of this title] shall take effect October 1, 1990.”
+Pub. L. 101–476, title X, §1001, Oct. 30, 1990, 104 Stat. 1151, provided that: "The amendments made by this Act [see Short Title of 1990 Amendment note set out under section 1400 of this title] shall take effect October 1, 1990."
 
 #### Effective Date of 1987 Amendment ####
 
@@ -202,4 +202,4 @@ Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of 
 
 Subsection (a)(2)(E) of this section applicable only to loans made to cover the costs of instruction for periods of enrollment beginning on or after July 1, 1987, to individuals who are new borrowers on that date, see section 405(b) of Pub. L. 99–498, set out as a note under section 1087dd of this title.
 
-[<sup>1</sup> So in original. Probably should be “in such”.](#1087ee_1)
+[<sup>1</sup> So in original. Probably should be "in such".](#1087ee_1)

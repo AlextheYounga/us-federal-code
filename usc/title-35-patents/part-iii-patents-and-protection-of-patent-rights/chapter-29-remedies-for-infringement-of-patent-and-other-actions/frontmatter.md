@@ -46,13 +46,13 @@ Sec.
 
 Pub. L. 112–29, §17(b), Sept. 16, 2011, 125 Stat. 329, added item 298.
 
-Pub. L. 112–29, §3(h)(2), Sept. 16, 2011, 125 Stat. 289, amended item 291 generally, substituting “Derived patents” for “Interfering patents”.
+Pub. L. 112–29, §3(h)(2), Sept. 16, 2011, 125 Stat. 289, amended item 291 generally, substituting "Derived patents" for "Interfering patents".
 
 **1999**—Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4102(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–554, added item 297.
 
 **1992**—Pub. L. 102–560, §2(b), Oct. 28, 1992, 106 Stat. 4230, added item 296.
 
-**1988**—Pub. L. 100–418, title IX, §§9004(b), 9005(b), Aug. 23, 1988, 102 Stat. 1566, inserted “and other remedies” in item 287 and added item 295.
+**1988**—Pub. L. 100–418, title IX, §§9004(b), 9005(b), Aug. 23, 1988, 102 Stat. 1566, inserted "and other remedies" in item 287 and added item 295.
 
 **1982**—Pub. L. 97–247, §17(b)(2), Aug. 27, 1982, 96 Stat. 323, added item 294.
 

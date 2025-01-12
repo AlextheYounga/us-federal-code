@@ -6,7 +6,7 @@ For the purposes of ensuring the preservation, protection, enhancement, and inte
 
 #### (b) Boundaries ####
 
-(1) The recreation area shall consist of those lands within the area generally depicted on the map entitled “Proposed Smith River National Recreation Area” and dated July 1990. The map shall be on file and available for public inspection in the Office of the Chief, Forest Service, Department of Agriculture. The Secretary may, by publication of availability of a revised map and after public comment, make corrections or minor changes to the boundary of the recreation area.
+(1) The recreation area shall consist of those lands within the area generally depicted on the map entitled "Proposed Smith River National Recreation Area" and dated July 1990. The map shall be on file and available for public inspection in the Office of the Chief, Forest Service, Department of Agriculture. The Secretary may, by publication of availability of a revised map and after public comment, make corrections or minor changes to the boundary of the recreation area.
 
 (2) The exterior boundary of the recreation area, as generally depicted on the map, shall encompass the recreation area and the four excluded areas.
 
@@ -22,4 +22,4 @@ The federally owned lands within the recreation area administered by the Secreta
 
 #### References in Text ####
 
-This subchapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 101–612, Nov. 16, 1990, 104 Stat. 3209, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460bbb of this title and Tables.
+This subchapter, referred to in subsec. (d), was in the original "this Act", meaning Pub. L. 101–612, Nov. 16, 1990, 104 Stat. 3209, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460bbb of this title and Tables.

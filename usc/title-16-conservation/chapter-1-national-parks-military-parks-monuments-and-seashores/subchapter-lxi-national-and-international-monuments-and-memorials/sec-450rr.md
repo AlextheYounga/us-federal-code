@@ -28,4 +28,4 @@ The Congress declares that the purposes of sections 450rr to 450rr–6 of this t
 
 #### Short Title ####
 
-Pub. L. 99–513, §1, Oct. 21, 1986, 100 Stat. 2082, provided that: “This Act [enacting this section and sections 450rr–1 to 450rr–6 of this title] may be cited as the ‘R.M.S. Titanic Maritime Memorial Act of 1986’.”
+Pub. L. 99–513, §1, Oct. 21, 1986, 100 Stat. 2082, provided that: "This Act [enacting this section and sections 450rr–1 to 450rr–6 of this title] may be cited as the 'R.M.S. Titanic Maritime Memorial Act of 1986'."

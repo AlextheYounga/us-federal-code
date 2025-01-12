@@ -6,4 +6,4 @@ The district courts of the United States shall have jurisdiction over all offens
 
 #### Codification ####
 
-Words “and writs of error” after “appeals” deleted in view of section 1 of act Jan. 31, 1928, which abolished writs of error and provided for similar relief by appeal.
+Words "and writs of error" after "appeals" deleted in view of section 1 of act Jan. 31, 1928, which abolished writs of error and provided for similar relief by appeal.

@@ -22,9 +22,9 @@ Any State, municipality, or other political subdivision where any project develo
 
 For the purposes of this section—
 
-(1) the term “drift” includes any buoyant material that, when floating in the navigable waters of the United States, may cause damage to a commercial or recreational vessel; and
+(1) the term "drift" includes any buoyant material that, when floating in the navigable waters of the United States, may cause damage to a commercial or recreational vessel; and
 
-(2) the term “debris” includes any abandoned or dilapidated structure or any sunken vessel or other object that can reasonably be expected to collapse or otherwise enter the navigable waters of the United States as drift within a reasonable period.
+(2) the term "debris" includes any abandoned or dilapidated structure or any sunken vessel or other object that can reasonably be expected to collapse or otherwise enter the navigable waters of the United States as drift within a reasonable period.
 
 #### (f) Authorization of appropriations ####
 
@@ -34,6 +34,6 @@ There is authorized to be appropriated to carry out this section such sums as ma
 
 #### Amendments ####
 
-**1986**—Subsec. (f). Pub. L. 99–662 amended subsec. (f) generally, substituting “such sums as may be necessary for fiscal years beginning after Sept. 30, 1986” for “not to exceed $4,000,000 per fiscal year for fiscal years 1978 and 1979”.
+**1986**—Subsec. (f). Pub. L. 99–662 amended subsec. (f) generally, substituting "such sums as may be necessary for fiscal years beginning after Sept. 30, 1986" for "not to exceed $4,000,000 per fiscal year for fiscal years 1978 and 1979".
 
 [<sup>1</sup> So in original.](#426m_1)

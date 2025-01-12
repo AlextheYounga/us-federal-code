@@ -24,7 +24,7 @@ The Secretary may establish limited exceptions to the limitations contained in t
 
 #### Codification ####
 
-In subsecs. (a) and (c), “section 134 of title 41” substituted for “section 4(11) of the Office of Federal Procurement Policy Act” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsecs. (a) and (c), "section 134 of title 41" substituted for "section 4(11) of the Office of Federal Procurement Policy Act" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Section was formerly classified to section 290aa–5 of this title prior to renumbering by Pub. L. 102–321.
 
@@ -38,13 +38,13 @@ A prior section 504 of act July 1, 1944, which was classified to section 222 of 
 
 **2000**—Pub. L. 106–310 reenacted section catchline without change and amended text generally, substituting, in subsec. (a), provisions requiring, after consultation with the Administrator of the Substance Abuse and Mental Health Services Administration, appropriate peer review of grants, cooperative agreements, and contracts to be administered through the agency that exceed the simple acquisition threshold as defined in section 403 of title 41 for provisions requiring such peer review after consultation with the Directors of the Center for Substance Abuse Treatment, the Center for Substance Abuse Prevention, and the Center for Mental Health Services, in subsec. (b), provisions relating to members of peer groups qualified to perform review functions under subsec. (a) for similar provisions in former subsec. (b) but which included reference to regulatory establishment of such groups, in subsec. (c), provisions relating to advisory council review for provisions relating to requirements and specification of regulations promulgated under subsec. (a), and in subsec. (d), provisions relating to Secretary's authority to establish exceptions to the limitations in section regarding participation of Federal employees and advisory council approval for provisions relating to recommendations.
 
-**1998**—Subsec. (d)(2). Pub. L. 105–392 substituted “or cooperative agreement” for “cooperative agreement, or contract” wherever appearing in introductory provisions.
+**1998**—Subsec. (d)(2). Pub. L. 105–392 substituted "or cooperative agreement" for "cooperative agreement, or contract" wherever appearing in introductory provisions.
 
-**1992**—Pub. L. 102–352 struck out “by regulation” after “Center for Mental Health Services, shall” in subsec. (a).
+**1992**—Pub. L. 102–352 struck out "by regulation" after "Center for Mental Health Services, shall" in subsec. (a).
 
 Pub. L. 102–321 amended section generally, substituting provisions relating to peer review of grants, cooperative agreements, and contracts administered through the Centers for Substance Abuse Treatment, Substance Abuse Prevention, and Mental Health Services for provisions relating to peer review of biomedical and behavioral research and development grants, cooperative agreements, and contracts administered through the National Institutes of Mental Health, Alcohol Abuse and Alcoholism, and Drug Abuse.
 
-**1986**—Subsec. (b). Pub. L. 99–570, §4007, inserted “applications made for” before “grants, cooperative” in introductory text.
+**1986**—Subsec. (b). Pub. L. 99–570, §4007, inserted "applications made for" before "grants, cooperative" in introductory text.
 
 **1985**—Subsec. (e). Pub. L. 99–158 added subsec. (e).
 

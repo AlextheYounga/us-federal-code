@@ -28,9 +28,9 @@ Except as provided in subsection (b) of this section, any person who shall be in
 
 For purposes of this section—
 
-(1) the term “commercial activity” shall have the meaning given it in section 1603(d) of title 28, and
+(1) the term "commercial activity" shall have the meaning given it in section 1603(d) of title 28, and
 
-(2) the term “foreign state” shall have the meaning given it in section 1603(a) of title 28.
+(2) the term "foreign state" shall have the meaning given it in section 1603(a) of title 28.
 
 (Oct. 15, 1914, ch. 323, §4, 38 Stat. 731; Pub. L. 96–349, §4(a)(1), Sept. 12, 1980, 94 Stat. 1156; Pub. L. 97–393, Dec. 29, 1982, 96 Stat. 1964.)
 
@@ -44,10 +44,10 @@ Section supersedes two former similar sections enacted by act July 2, 1890, ch. 
 
 #### Amendments ####
 
-**1982**—Pub. L. 97–393 designated existing provisions as subsec. (a), inserted “Except as provided in subsection (b) of this section,”, and added subsecs. (b) and (c).
+**1982**—Pub. L. 97–393 designated existing provisions as subsec. (a), inserted "Except as provided in subsection (b) of this section,", and added subsecs. (b) and (c).
 
 **1980**—Pub. L. 96–349 inserted provisions respecting award of prejudgment interest including considerations for the court in determining whether an award is just under the circumstances.
 
 #### Effective Date of 1980 Amendment ####
 
-Pub. L. 96–349, §4(b), Sept. 12, 1980, 94 Stat. 1157, provided that: “The amendments made by this section [amending this section and sections 15a and 15c of this title] shall apply only with respect to actions commenced after the date of the enactment of this Act [Sept 12, 1980].”
+Pub. L. 96–349, §4(b), Sept. 12, 1980, 94 Stat. 1157, provided that: "The amendments made by this section [amending this section and sections 15a and 15c of this title] shall apply only with respect to actions commenced after the date of the enactment of this Act [Sept 12, 1980]."

@@ -4,7 +4,7 @@
 
 #### (1) Establishment of Office ####
 
-Not later than 90 days after June 10, 1993, the Secretary shall establish an office to be known as the Office of Research Integrity (referred to in this section as the “Office”), which shall be established as an independent entity in the Department of Health and Human Services.
+Not later than 90 days after June 10, 1993, the Secretary shall establish an office to be known as the Office of Research Integrity (referred to in this section as the "Office"), which shall be established as an independent entity in the Department of Health and Human Services.
 
 #### (2) Appointment of Director ####
 
@@ -12,9 +12,9 @@ The Office shall be headed by a Director, who shall be appointed by the Secretar
 
 #### (3) Definitions ####
 
-(A) The Secretary shall by regulation establish a definition for the term “research misconduct” for purposes of this section.
+(A) The Secretary shall by regulation establish a definition for the term "research misconduct" for purposes of this section.
 
-(B) For purposes of this section, the term “financial assistance” means a grant, contract, or cooperative agreement.
+(B) For purposes of this section, the term "financial assistance" means a grant, contract, or cooperative agreement.
 
 #### (b) Existence of administrative processes as condition of funding for research ####
 
@@ -64,19 +64,19 @@ The Secretary shall by regulation establish remedies for noncompliance by an ent
 
 #### Codification ####
 
-June 10, 1993, referred to in subsec. (a)(1), was in the original “the date of enactment of this section” which was translated as meaning the date of enactment of Pub. L. 103–43, which amended this section generally, to reflect the probable intent of Congress.
+June 10, 1993, referred to in subsec. (a)(1), was in the original "the date of enactment of this section" which was translated as meaning the date of enactment of Pub. L. 103–43, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments ####
 
 **1993**—Pub. L. 103–43, §161, amended section generally. Prior to amendment, section read as follows:
 
-“(a) The Secretary shall by regulation require that each entity which applies for a grant, contract, or cooperative agreement under this chapter for any project or program which involves the conduct of biomedical or behavioral research submit in or with its application for such grant, contract, or cooperative agreement assurances satisfactory to the Secretary that such entity—
+"(a) The Secretary shall by regulation require that each entity which applies for a grant, contract, or cooperative agreement under this chapter for any project or program which involves the conduct of biomedical or behavioral research submit in or with its application for such grant, contract, or cooperative agreement assurances satisfactory to the Secretary that such entity—
 
-“(1) has established (in accordance with regulations which the Secretary shall prescribe) an administrative process to review reports of scientific fraud in connection with biomedical and behavioral research conducted at or sponsored by such entity; and
+"(1) has established (in accordance with regulations which the Secretary shall prescribe) an administrative process to review reports of scientific fraud in connection with biomedical and behavioral research conducted at or sponsored by such entity; and
 
-“(2) will report to the Secretary any investigation of alleged scientific fraud which appears substantial.
+"(2) will report to the Secretary any investigation of alleged scientific fraud which appears substantial.
 
-“(b) The Director of NIH shall establish a process for the prompt and appropriate response to information provided the Director of NIH respecting scientific fraud in connection with projects for which funds have been made available under this chapter. The process shall include procedures for the receiving of reports of such information from recipients of funds under this chapter and taking appropriate action with respect to such fraud.”
+"(b) The Director of NIH shall establish a process for the prompt and appropriate response to information provided the Director of NIH respecting scientific fraud in connection with projects for which funds have been made available under this chapter. The process shall include procedures for the receiving of reports of such information from recipients of funds under this chapter and taking appropriate action with respect to such fraud."
 
 Subsec. (e). Pub. L. 103–43, §163, added subsec. (e).
 
@@ -84,18 +84,18 @@ Subsec. (e). Pub. L. 103–43, §163, added subsec. (e).
 
 Pub. L. 103–43, title I, §165, June 10, 1993, 107 Stat. 143, provided that:
 
-“(a) Issuance of Final Rules.—
+"(a) Issuance of Final Rules.—
 
-“(1) In general.—Not later than 180 days after the date of the enactment of this Act [June 10, 1993], the Secretary shall, subject to paragraph (2), issue the final rule for each regulation required in section 493 or 493A of the Public Health Service Act [42 U.S.C. 289b, 289b–1].
+"(1) In general.—Not later than 180 days after the date of the enactment of this Act [June 10, 1993], the Secretary shall, subject to paragraph (2), issue the final rule for each regulation required in section 493 or 493A of the Public Health Service Act [42 U.S.C. 289b, 289b–1].
 
-“(2) Definition of research misconduct.—Not later than 90 days after the date on which the report required in section 162(e) [107 Stat. 142] is submitted to the Secretary, the Secretary shall issue the final rule for the regulations required in section 493 of the Public Health Service Act with respect to the definition of the term ‘research misconduct’.
+"(2) Definition of research misconduct.—Not later than 90 days after the date on which the report required in section 162(e) [107 Stat. 142] is submitted to the Secretary, the Secretary shall issue the final rule for the regulations required in section 493 of the Public Health Service Act with respect to the definition of the term 'research misconduct'.
 
-“(b) Applicability to Ongoing Investigations.—The final rule issued pursuant to subsection (a) for investigations under section 493 of the Public Health Service Act [42 U.S.C. 289b] does not apply to investigations commenced before the date of the enactment of this Act [June 10, 1993] under authority of such section as in effect before such date.
+"(b) Applicability to Ongoing Investigations.—The final rule issued pursuant to subsection (a) for investigations under section 493 of the Public Health Service Act [42 U.S.C. 289b] does not apply to investigations commenced before the date of the enactment of this Act [June 10, 1993] under authority of such section as in effect before such date.
 
-“(c) Definitions.—For purposes of this section:
+"(c) Definitions.—For purposes of this section:
 
-“(1) The term ‘section 493 of the Public Health Service Act’ means such section [42 U.S.C. 289b] as amended by sections 161 and 163 of this Act, except as indicated otherwise in subsection (b).
+"(1) The term 'section 493 of the Public Health Service Act' means such section [42 U.S.C. 289b] as amended by sections 161 and 163 of this Act, except as indicated otherwise in subsection (b).
 
-“(2) The term ‘section 493A of the Public Health Service Act’ means such section [42 U.S.C. 289b–1] as added by section 164 of this Act.
+"(2) The term 'section 493A of the Public Health Service Act' means such section [42 U.S.C. 289b–1] as added by section 164 of this Act.
 
-“(3) The term ‘Secretary’ means the Secretary of Health and Human Services.”
+"(3) The term 'Secretary' means the Secretary of Health and Human Services."

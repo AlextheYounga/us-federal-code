@@ -20,13 +20,13 @@ No grant may be made under this part or contract entered into under section 274 
 
 (B) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient of a grant or contract under section 273 or 274a of this title that are pertinent to such grant or contract.
 
-#### (d) “Transplant center” and “organ” defined ####
+#### (d) "Transplant center" and "organ" defined ####
 
 For purposes of this part:
 
-(1) The term “transplant center” means a health care facility in which transplants of organs are performed.
+(1) The term "transplant center" means a health care facility in which transplants of organs are performed.
 
-(2) The term “organ” means the human kidney, liver, heart, lung, pancreas, and any other human organ (other than corneas and eyes) specified by the Secretary by regulation and for purposes of section 274a of this title, such term includes bone marrow.
+(2) The term "organ" means the human kidney, liver, heart, lung, pancreas, and any other human organ (other than corneas and eyes) specified by the Secretary by regulation and for purposes of section 274a of this title, such term includes bone marrow.
 
 (July 1, 1944, ch. 373, title III, §374, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2345; amended Pub. L. 100–607, title IV, §402(b), Nov. 4, 1988, 102 Stat. 3114; Pub. L. 101–616, title II, §203, Nov. 16, 1990, 104 Stat. 3284.)
 
@@ -36,10 +36,10 @@ A prior section 374 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, §1
 
 #### Amendments ####
 
-**1990**—Subsec. (a). Pub. L. 101–616, §203(1), substituted “No grant may be made under this part” for “No grant may be made under section 273 or 274a of this title”.
+**1990**—Subsec. (a). Pub. L. 101–616, §203(1), substituted "No grant may be made under this part" for "No grant may be made under section 273 or 274a of this title".
 
-Subsec. (b). Pub. L. 101–616, §203(2), redesignated par. (2) as (1) and substituted “section 273(a)(1)” for “section 273”, struck out former par. (1) which set forth factors in considering applications for section 273 grants, redesignated par. (3) as (2) and substituted “section 273(a)(2)” for “paragraphs (2) and (3) of section 273(a)”, and added par. (3).
+Subsec. (b). Pub. L. 101–616, §203(2), redesignated par. (2) as (1) and substituted "section 273(a)(1)" for "section 273", struck out former par. (1) which set forth factors in considering applications for section 273 grants, redesignated par. (3) as (2) and substituted "section 273(a)(2)" for "paragraphs (2) and (3) of section 273(a)", and added par. (3).
 
-Subsec. (c). Pub. L. 101–616, §203(3), inserted “or contract” after “grant” wherever appearing and “and contracts” after “grants” wherever appearing.
+Subsec. (c). Pub. L. 101–616, §203(3), inserted "or contract" after "grant" wherever appearing and "and contracts" after "grants" wherever appearing.
 
-**1988**—Subsec. (b)(3). Pub. L. 100–607 substituted “paragraphs (2) and (3) of section 273(a) of this title” for “section 273 of this title for the establishment, initial operation, or expansion of organ procurement organizations”.
+**1988**—Subsec. (b)(3). Pub. L. 100–607 substituted "paragraphs (2) and (3) of section 273(a) of this title" for "section 273 of this title for the establishment, initial operation, or expansion of organ procurement organizations".

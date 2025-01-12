@@ -6,4 +6,4 @@ This subpart was, in the original, chapter 11 of subtitle B of title IV of Pub. 
 
 #### Amendments ####
 
-**2013**—Pub. L. 113–4, title VI, §602(1), Mar. 7, 2013, 127 Stat. 109, substituted “VICTIMS OF DOMESTIC VIOLENCE, DATING VIOLENCE, SEXUAL ASSAULT, OR STALKING” for “CHILD VICTIMS OF DOMESTIC VIOLENCE, STALKING, OR SEXUAL ASSAULT” in heading.
+**2013**—Pub. L. 113–4, title VI, §602(1), Mar. 7, 2013, 127 Stat. 109, substituted "VICTIMS OF DOMESTIC VIOLENCE, DATING VIOLENCE, SEXUAL ASSAULT, OR STALKING" for "CHILD VICTIMS OF DOMESTIC VIOLENCE, STALKING, OR SEXUAL ASSAULT" in heading.

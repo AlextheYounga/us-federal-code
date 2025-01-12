@@ -16,4 +16,4 @@ Section 4805, Pub. L. 102–335, §6, Aug. 7, 1992, 106 Stat. 862, related to co
 
 #### Short Title ####
 
-Pub. L. 102–335, §1(a), Aug. 7, 1992, 106 Stat. 859, provided that Pub. L. 102–335 (this chapter) could be cited as the “Pacific Yew Act”.
+Pub. L. 102–335, §1(a), Aug. 7, 1992, 106 Stat. 859, provided that Pub. L. 102–335 (this chapter) could be cited as the "Pacific Yew Act".

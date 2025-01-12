@@ -68,15 +68,15 @@ The Attorney General shall issue the guidelines and procedures referred to in th
 
 For purposes of this section:
 
-(1)(A) The term “foreign official” means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or of a public international organization, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality, or for or on behalf of any such public international organization.
+(1)(A) The term "foreign official" means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or of a public international organization, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality, or for or on behalf of any such public international organization.
 
-(B) For purposes of subparagraph (A), the term “public international organization” means—
+(B) For purposes of subparagraph (A), the term "public international organization" means—
 
 (i) an organization that is designated by Executive order pursuant to section 288 of title 22; or
 
 (ii) any other international organization that is designated by the President by Executive order for the purposes of this section, effective as of the date of publication of such order in the Federal Register.
 
-(2)(A) A person's state of mind is “knowing” with respect to conduct, a circumstance, or a result if—
+(2)(A) A person's state of mind is "knowing" with respect to conduct, a circumstance, or a result if—
 
 (i) such person is aware that such person is engaging in such conduct, that such circumstance exists, or that such result is substantially certain to occur; or
 
@@ -84,7 +84,7 @@ For purposes of this section:
 
 (B) When knowledge of the existence of a particular circumstance is required for an offense, such knowledge is established if a person is aware of a high probability of the existence of such circumstance, unless the person actually believes that such circumstance does not exist.
 
-(3)(A) The term “routine governmental action” means only an action which is ordinarily and commonly performed by a foreign official in—
+(3)(A) The term "routine governmental action" means only an action which is ordinarily and commonly performed by a foreign official in—
 
 (i) obtaining permits, licenses, or other official documents to qualify a person to do business in a foreign country;
 
@@ -96,13 +96,13 @@ For purposes of this section:
 
 (v) actions of a similar nature.
 
-(B) The term “routine governmental action” does not include any decision by a foreign official whether, or on what terms, to award new business to or to continue business with a particular party, or any action taken by a foreign official involved in the decisionmaking process to encourage a decision to award new business to or continue business with a particular party.
+(B) The term "routine governmental action" does not include any decision by a foreign official whether, or on what terms, to award new business to or to continue business with a particular party, or any action taken by a foreign official involved in the decisionmaking process to encourage a decision to award new business to or continue business with a particular party.
 
 #### (g) Alternative jurisdiction ####
 
 (1) It shall also be unlawful for any issuer organized under the laws of the United States, or a State, territory, possession, or commonwealth of the United States or a political subdivision thereof and which has a class of securities registered pursuant to section 78l of this title or which is required to file reports under section 78o(d) of this title, or for any United States person that is an officer, director, employee, or agent of such issuer or a stockholder thereof acting on behalf of such issuer, to corruptly do any act outside the United States in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to any of the persons or entities set forth in paragraphs (1), (2), and (3) of subsection (a) of this section for the purposes set forth therein, irrespective of whether such issuer or such officer, director, employee, agent, or stockholder makes use of the mails or any means or instrumentality of interstate commerce in furtherance of such offer, gift, payment, promise, or authorization.
 
-(2) As used in this subsection, the term “United States person” means a national of the United States (as defined in section 1101 of title 8) or any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship organized under the laws of the United States or any State, territory, possession, or commonwealth of the United States, or any political subdivision thereof.
+(2) As used in this subsection, the term "United States person" means a national of the United States (as defined in section 1101 of title 8) or any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship organized under the laws of the United States or any State, territory, possession, or commonwealth of the United States, or any political subdivision thereof.
 
 (June 6, 1934, ch. 404, title I, §30A, as added Pub. L. 95–213, title I, §103(a), Dec. 19, 1977, 91 Stat. 1495; amended Pub. L. 100–418, title V, §5003(a), Aug. 23, 1988, 102 Stat. 1415; Pub. L. 105–366, §2(a)–(c), Nov. 10, 1998, 112 Stat. 3302, 3303.)
 
@@ -110,73 +110,73 @@ For purposes of this section:
 
 **1998**—Subsec. (a)(1)(A). Pub. L. 105–366, §2(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
 
-“(A)(i) influencing any act or decision of such foreign official in his official capacity, or (ii) inducing such foreign official to do or omit to do any act in violation of the lawful duty of such official, or”.
+"(A)(i) influencing any act or decision of such foreign official in his official capacity, or (ii) inducing such foreign official to do or omit to do any act in violation of the lawful duty of such official, or".
 
 Subsec. (a)(2)(A). Pub. L. 105–366, §2(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
 
-“(A)(i) influencing any act or decision of such party, official, or candidate in its or his official capacity, or (ii) inducing such party, official, or candidate to do or omit to do an act in violation of the lawful duty of such party, official, or candidate,”.
+"(A)(i) influencing any act or decision of such party, official, or candidate in its or his official capacity, or (ii) inducing such party, official, or candidate to do or omit to do an act in violation of the lawful duty of such party, official, or candidate,".
 
 Subsec. (a)(3)(A). Pub. L. 105–366, §2(a)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
 
-“(A)(i) influencing any act or decision of such foreign official, political party, party official, or candidate in his or its official capacity, or (ii) inducing such foreign official, political party, party official, or candidate to do or omit to do any act in violation of the lawful duty of such foreign official, political party, party official, or candidate, or”.
+"(A)(i) influencing any act or decision of such foreign official, political party, party official, or candidate in his or its official capacity, or (ii) inducing such foreign official, political party, party official, or candidate to do or omit to do any act in violation of the lawful duty of such foreign official, political party, party official, or candidate, or".
 
-Subsec. (b). Pub. L. 105–366, §2(c)(2), substituted “Subsections (a) and (g)” for “Subsection (a)”.
+Subsec. (b). Pub. L. 105–366, §2(c)(2), substituted "Subsections (a) and (g)" for "Subsection (a)".
 
-Subsec. (c). Pub. L. 105–366, §2(c)(3), substituted “subsection (a) or (g)” for “subsection (a)”.
+Subsec. (c). Pub. L. 105–366, §2(c)(3), substituted "subsection (a) or (g)" for "subsection (a)".
 
-Subsec. (f)(1). Pub. L. 105–366, §2(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘foreign official’ means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality.”
+Subsec. (f)(1). Pub. L. 105–366, §2(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The term 'foreign official' means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality."
 
 Subsec. (g). Pub. L. 105–366, §2(c)(1), added subsec. (g).
 
-**1988**—Pub. L. 100–418 substituted “Prohibited foreign trade” for “Foreign corrupt” in section catchline and amended text generally, revising and restating provisions of subsec. (a) relating to prohibitions, adding subsecs. (b) to (e), and redesignating provisions of subsec. (b) relating to definitions as subsec. (f) and amending those provisions generally.
+**1988**—Pub. L. 100–418 substituted "Prohibited foreign trade" for "Foreign corrupt" in section catchline and amended text generally, revising and restating provisions of subsec. (a) relating to prohibitions, adding subsecs. (b) to (e), and redesignating provisions of subsec. (b) relating to definitions as subsec. (f) and amending those provisions generally.
 
 #### Treatment of International Organizations Providing Commercial Communications Services ####
 
 Pub. L. 105–366, §5, Nov. 10, 1998, 112 Stat. 3309, provided that:
 
-“(a) Definition.—For purposes of this section:
+"(a) Definition.—For purposes of this section:
 
-“(1) International organization providing commercial communications services.—The term ‘international organization providing commercial communications services’ means—
+"(1) International organization providing commercial communications services.—The term 'international organization providing commercial communications services' means—
 
-“(A) the International Telecommunications Satellite Organization established pursuant to the Agreement Relating to the International Telecommunications Satellite Organization; and
+"(A) the International Telecommunications Satellite Organization established pursuant to the Agreement Relating to the International Telecommunications Satellite Organization; and
 
-“(B) the International Mobile Satellite Organization established pursuant to the Convention on the International Maritime Satellite Organization.
+"(B) the International Mobile Satellite Organization established pursuant to the Convention on the International Maritime Satellite Organization.
 
-“(2) Pro-competitive privatization.—The term ‘pro-competitive privatization’ means a privatization that the President determines to be consistent with the United States policy of obtaining full and open competition to such organizations (or their successors), and nondiscriminatory market access, in the provision of satellite services.
+"(2) Pro-competitive privatization.—The term 'pro-competitive privatization' means a privatization that the President determines to be consistent with the United States policy of obtaining full and open competition to such organizations (or their successors), and nondiscriminatory market access, in the provision of satellite services.
 
-“(b) Treatment as Public International Organizations.—
+"(b) Treatment as Public International Organizations.—
 
-“(1) Treatment.—An international organization providing commercial communications services shall be treated as a public international organization for purposes of section 30A of the Securities Exchange Act of 1934 (15 U.S.C. 78dd–1) and sections 104 and 104A of the Foreign Corrupt Practices Act of 1977 (15 U.S.C. 78dd–2 [and 78dd–3]) until such time as the President certifies to the Committee on Commerce [now Committee on Energy and Commerce] of the House of Representatives and the Committees on Banking, Housing and Urban Affairs and Commerce, Science, and Transportation that such international organization providing commercial communications services has achieved a pro-competitive privatization.
+"(1) Treatment.—An international organization providing commercial communications services shall be treated as a public international organization for purposes of section 30A of the Securities Exchange Act of 1934 (15 U.S.C. 78dd–1) and sections 104 and 104A of the Foreign Corrupt Practices Act of 1977 (15 U.S.C. 78dd–2 [and 78dd–3]) until such time as the President certifies to the Committee on Commerce [now Committee on Energy and Commerce] of the House of Representatives and the Committees on Banking, Housing and Urban Affairs and Commerce, Science, and Transportation that such international organization providing commercial communications services has achieved a pro-competitive privatization.
 
-“(2) Limitation on effect of treatment.—The requirement for a certification under paragraph (1), and any certification made under such paragraph, shall not be construed to affect the administration by the Federal Communications Commission of the Communications Act of 1934 [47 U.S.C. 151 et seq.] in authorizing the provision of services to, from, or within the United States over space segment of the international satellite organizations, or the privatized affiliates or successors thereof.
+"(2) Limitation on effect of treatment.—The requirement for a certification under paragraph (1), and any certification made under such paragraph, shall not be construed to affect the administration by the Federal Communications Commission of the Communications Act of 1934 [47 U.S.C. 151 et seq.] in authorizing the provision of services to, from, or within the United States over space segment of the international satellite organizations, or the privatized affiliates or successors thereof.
 
-“(c) Extension of Legal Process.—
+"(c) Extension of Legal Process.—
 
-“(1) In general.—Except as required by international agreements to which the United States is a party, an international organization providing commercial communications services, its officials and employees, and its records shall not be accorded immunity from suit or legal process for any act or omission taken in connection with such organization's capacity as a provider, directly or indirectly, of commercial telecommunications services to, from, or within the United States.
+"(1) In general.—Except as required by international agreements to which the United States is a party, an international organization providing commercial communications services, its officials and employees, and its records shall not be accorded immunity from suit or legal process for any act or omission taken in connection with such organization's capacity as a provider, directly or indirectly, of commercial telecommunications services to, from, or within the United States.
 
-“(2) No effect on personal liability.—Paragraph (1) shall not affect any immunity from personal liability of any individual who is an official or employee of an international organization providing commercial communications services.
+"(2) No effect on personal liability.—Paragraph (1) shall not affect any immunity from personal liability of any individual who is an official or employee of an international organization providing commercial communications services.
 
-“(3) Effective date.—This subsection shall take effect on May 1, 1999.
+"(3) Effective date.—This subsection shall take effect on May 1, 1999.
 
-“(d) Elimination or Limitation of Exceptions.—
+"(d) Elimination or Limitation of Exceptions.—
 
-“(1) Action required.—The President shall, in a manner that is consistent with requirements in international agreements to which the United States is a party, expeditiously take all appropriate actions necessary to eliminate or to reduce substantially all privileges and immunities that are accorded to an international organization described in subparagraph (A) or (B) of subsection (a)(1), its officials, its employees, or its records, and that are not eliminated pursuant to subsection (c).
+"(1) Action required.—The President shall, in a manner that is consistent with requirements in international agreements to which the United States is a party, expeditiously take all appropriate actions necessary to eliminate or to reduce substantially all privileges and immunities that are accorded to an international organization described in subparagraph (A) or (B) of subsection (a)(1), its officials, its employees, or its records, and that are not eliminated pursuant to subsection (c).
 
-“(2) Designation of agreements.—The President shall designate which agreements constitute international agreements to which the United States is a party for purposes of this section.
+"(2) Designation of agreements.—The President shall designate which agreements constitute international agreements to which the United States is a party for purposes of this section.
 
-“(e) Preservation of Law Enforcement and Intelligence Functions.—Nothing in subsection (c) or (d) of this section shall affect any immunity from suit or legal process of an international organization providing commercial communications services, or the privatized affiliates or successors thereof, for acts or omissions—
+"(e) Preservation of Law Enforcement and Intelligence Functions.—Nothing in subsection (c) or (d) of this section shall affect any immunity from suit or legal process of an international organization providing commercial communications services, or the privatized affiliates or successors thereof, for acts or omissions—
 
-“(1) under chapter 119, 121, 206, or 601 of title 18, United States Code, the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), section 514 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 884), or Rule 104, 501, or 608 of the Federal Rules of Evidence [28 U.S.C. App.];
+"(1) under chapter 119, 121, 206, or 601 of title 18, United States Code, the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), section 514 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 884), or Rule 104, 501, or 608 of the Federal Rules of Evidence [28 U.S.C. App.];
 
-“(2) under similar State laws providing protection to service providers cooperating with law enforcement agencies pursuant to State electronic surveillance or evidence laws, rules, regulations, or procedures; or
+"(2) under similar State laws providing protection to service providers cooperating with law enforcement agencies pursuant to State electronic surveillance or evidence laws, rules, regulations, or procedures; or
 
-“(3) pursuant to a court order.
+"(3) pursuant to a court order.
 
-“(f) Rules of Construction.—
+"(f) Rules of Construction.—
 
-“(1) Negotiations.—Nothing in this section shall affect the President's existing constitutional authority regarding the time, scope, and objectives of international negotiations.
+"(1) Negotiations.—Nothing in this section shall affect the President's existing constitutional authority regarding the time, scope, and objectives of international negotiations.
 
-“(2) Privatization.—Nothing in this section shall be construed as legislative authorization for the privatization of INTELSAT or Inmarsat, nor to increase the President's authority with respect to negotiations concerning such privatization.”
+"(2) Privatization.—Nothing in this section shall be construed as legislative authorization for the privatization of INTELSAT or Inmarsat, nor to increase the President's authority with respect to negotiations concerning such privatization."
 
 [Memorandum of President of the United States, Nov. 16, 1998, 63 F.R. 65997, delegated to Secretary of State functions and authorities vested in the President by section 5(d)(2) of Pub. L. 105–366, set out above.]
 
@@ -184,57 +184,57 @@ Pub. L. 105–366, §5, Nov. 10, 1998, 112 Stat. 3309, provided that:
 
 Pub. L. 105–366, §6, Nov. 10, 1998, 112 Stat. 3311, provided that:
 
-“(a) Reports Required.—Not later than July 1 of 1999 and each of the 5 succeeding years, the Secretary of Commerce shall submit to the House of Representatives and the Senate a report that contains the following information with respect to implementation of the Convention:
+"(a) Reports Required.—Not later than July 1 of 1999 and each of the 5 succeeding years, the Secretary of Commerce shall submit to the House of Representatives and the Senate a report that contains the following information with respect to implementation of the Convention:
 
-“(1) Ratification.—A list of the countries that have ratified the Convention, the dates of ratification by such countries, and the entry into force for each such country.
+"(1) Ratification.—A list of the countries that have ratified the Convention, the dates of ratification by such countries, and the entry into force for each such country.
 
-“(2) Domestic legislation.—A description of domestic laws enacted by each party to the Convention that implement commitments under the Convention, and assessment of the compatibility of such laws with the Convention.
+"(2) Domestic legislation.—A description of domestic laws enacted by each party to the Convention that implement commitments under the Convention, and assessment of the compatibility of such laws with the Convention.
 
-“(3) Enforcement.—As assessment of the measures taken by each party to the Convention during the previous year to fulfill its obligations under the Convention and achieve its object and purpose including—
+"(3) Enforcement.—As assessment of the measures taken by each party to the Convention during the previous year to fulfill its obligations under the Convention and achieve its object and purpose including—
 
-“(A) an assessment of the enforcement of the domestic laws described in paragraph (2);
+"(A) an assessment of the enforcement of the domestic laws described in paragraph (2);
 
-“(B) an assessment of the efforts by each such party to promote public awareness of such domestic laws and the achievement of such object and purpose; and
+"(B) an assessment of the efforts by each such party to promote public awareness of such domestic laws and the achievement of such object and purpose; and
 
-“(C) an assessment of the effectiveness, transparency, and viability of the monitoring process for the Convention, including its inclusion of input from the private sector and nongovernmental organizations.
+"(C) an assessment of the effectiveness, transparency, and viability of the monitoring process for the Convention, including its inclusion of input from the private sector and nongovernmental organizations.
 
-“(4) Laws prohibiting tax deduction of bribes.—An explanation of the domestic laws enacted by each party to the Convention that would prohibit the deduction of bribes in the computation of domestic taxes.
+"(4) Laws prohibiting tax deduction of bribes.—An explanation of the domestic laws enacted by each party to the Convention that would prohibit the deduction of bribes in the computation of domestic taxes.
 
-“(5) New signatories.—A description of efforts to expand international participation in the Convention by adding new signatories to the Convention and by assuring that all countries which are or become members of the Organization for Economic Cooperation and Development are also parties to the Convention.
+"(5) New signatories.—A description of efforts to expand international participation in the Convention by adding new signatories to the Convention and by assuring that all countries which are or become members of the Organization for Economic Cooperation and Development are also parties to the Convention.
 
-“(6) Subsequent efforts.—An assessment of the status of efforts to strengthen the Convention by extending the prohibitions contained in the Convention to cover bribes to political parties, party officials, and candidates for political office.
+"(6) Subsequent efforts.—An assessment of the status of efforts to strengthen the Convention by extending the prohibitions contained in the Convention to cover bribes to political parties, party officials, and candidates for political office.
 
-“(7) Advantages.—Advantages, in terms of immunities, market access, or otherwise, in the countries or regions served by the organizations described in section 5(a) [set out as a note above], the reason for such advantages, and an assessment of progress toward fulfilling the policy described in that section.
+"(7) Advantages.—Advantages, in terms of immunities, market access, or otherwise, in the countries or regions served by the organizations described in section 5(a) [set out as a note above], the reason for such advantages, and an assessment of progress toward fulfilling the policy described in that section.
 
-“(8) Bribery and transparency.—An assessment of anti-bribery programs and transparency with respect to each of the international organizations covered by this Act [enacting section 78dd–3 of this title, amending this section and sections 78dd–2 and 78ff of this title, and enacting provisions set out as notes under this section].
+"(8) Bribery and transparency.—An assessment of anti-bribery programs and transparency with respect to each of the international organizations covered by this Act [enacting section 78dd–3 of this title, amending this section and sections 78dd–2 and 78ff of this title, and enacting provisions set out as notes under this section].
 
-“(9) Private sector review.—A description of the steps taken to ensure full involvement of United States private sector participants and representatives of nongovernmental organizations in the monitoring and implementation of the Convention.
+"(9) Private sector review.—A description of the steps taken to ensure full involvement of United States private sector participants and representatives of nongovernmental organizations in the monitoring and implementation of the Convention.
 
-“(10) Additional information.—In consultation with the private sector participants and representatives of nongovernmental organizations described in paragraph (9), a list of additional means for enlarging the scope of the Convention and otherwise increasing its effectiveness. Such additional means shall include, but not be limited to, improved recordkeeping provisions and the desirability of expanding the applicability of the Convention to additional individuals and organizations and the impact on United States business of section 30A of the Securities Exchange Act of 1934 [15 U.S.C. 78dd–1] and sections 104 and 104A of the Foreign Corrupt Practices Act of 1977 [15 U.S.C. 78dd–2, 78dd–3].
+"(10) Additional information.—In consultation with the private sector participants and representatives of nongovernmental organizations described in paragraph (9), a list of additional means for enlarging the scope of the Convention and otherwise increasing its effectiveness. Such additional means shall include, but not be limited to, improved recordkeeping provisions and the desirability of expanding the applicability of the Convention to additional individuals and organizations and the impact on United States business of section 30A of the Securities Exchange Act of 1934 [15 U.S.C. 78dd–1] and sections 104 and 104A of the Foreign Corrupt Practices Act of 1977 [15 U.S.C. 78dd–2, 78dd–3].
 
-“(b) Definition.—For purposes of this section, the term ‘Convention’ means the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions adopted on November 21, 1997, and signed on December 17, 1997, by the United States and 32 other nations.”
+"(b) Definition.—For purposes of this section, the term 'Convention' means the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions adopted on November 21, 1997, and signed on December 17, 1997, by the United States and 32 other nations."
 
 #### International Agreements Concerning Acts Prohibited With Respect to Issuers and Domestic Concerns; Report to Congress ####
 
 Pub. L. 100–418, title V, §5003(d), Aug. 23, 1988, 102 Stat. 1424, provided that:
 
-“(1) Negotiations.—It is the sense of the Congress that the President should pursue the negotiation of an international agreement, among the members of the Organization of Economic Cooperation and Development, to govern persons from those countries concerning acts prohibited with respect to issuers and domestic concerns by the amendments made by this section [amending sections 78dd–1, 78dd–2, and 78ff of this title]. Such international agreement should include a process by which problems and conflicts associated with such acts could be resolved.
+"(1) Negotiations.—It is the sense of the Congress that the President should pursue the negotiation of an international agreement, among the members of the Organization of Economic Cooperation and Development, to govern persons from those countries concerning acts prohibited with respect to issuers and domestic concerns by the amendments made by this section [amending sections 78dd–1, 78dd–2, and 78ff of this title]. Such international agreement should include a process by which problems and conflicts associated with such acts could be resolved.
 
-“(2) Report to congress.—(A) Within 1 year after the date of the enactment of this Act [Aug. 23, 1988], the President shall submit to the Congress a report on—
+"(2) Report to congress.—(A) Within 1 year after the date of the enactment of this Act [Aug. 23, 1988], the President shall submit to the Congress a report on—
 
-“(i) the progress of the negotiations referred to in paragraph (1),[;]
+"(i) the progress of the negotiations referred to in paragraph (1),[;]
 
-“(ii) those steps which the executive branch and the Congress should consider taking in the event that these negotiations do not successfully eliminate any competitive disadvantage of United States businesses that results when persons from other countries commit the acts described in paragraph (1); and
+"(ii) those steps which the executive branch and the Congress should consider taking in the event that these negotiations do not successfully eliminate any competitive disadvantage of United States businesses that results when persons from other countries commit the acts described in paragraph (1); and
 
-“(iii) possible actions that could be taken to promote cooperation by other countries in international efforts to prevent bribery of foreign officials, candidates, or parties in third countries.
+"(iii) possible actions that could be taken to promote cooperation by other countries in international efforts to prevent bribery of foreign officials, candidates, or parties in third countries.
 
-“(B) The President shall include in the report submitted under subparagraph (A)—
+"(B) The President shall include in the report submitted under subparagraph (A)—
 
-“(i) any legislative recommendations necessary to give the President the authority to take appropriate action to carry out clauses (ii) and (iii) of subparagraph (A);
+"(i) any legislative recommendations necessary to give the President the authority to take appropriate action to carry out clauses (ii) and (iii) of subparagraph (A);
 
-“(ii) an analysis of the potential effect on the interests of the United States, including United States national security, when persons from other countries commit the acts described in paragraph (1); and
+"(ii) an analysis of the potential effect on the interests of the United States, including United States national security, when persons from other countries commit the acts described in paragraph (1); and
 
-“(iii) an assessment of the current and future role of private initiatives in curtailing such acts.”
+"(iii) an assessment of the current and future role of private initiatives in curtailing such acts."
 
 [For delegation of functions of the President under section 5003(d)(1) of Pub. L. 100–418 to the Secretary of State, see section 3–101 of Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, set out as a note under section 2901 of Title 19, Customs Duties.]
 
@@ -242,7 +242,7 @@ Pub. L. 100–418, title V, §5003(d), Aug. 23, 1988, 102 Stat. 1424, provided t
 
 Ex. Ord. No. 13259, Mar. 19, 2002, 67 F.R. 13239, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 30A(f)(1)(B)(ii) of the Securities Exchange Act of 1934 (15 U.S.C. 78dd–1(f)(1)(B)(ii)) and sections 104(h)(2)(B)(ii) and 104A(f)(2)(B)(ii) of the Foreign Corrupt Practices Act of 1977 (15 U.S.C. 78dd–2(h)(2)(B)(ii), 78dd–3(f)(2)(B)(ii)), I hereby designate as “public international organizations” for the purposes of application of section 30A of the Securities Exchange Act of 1934 and sections 104 and 104A of the Foreign Corrupt Practices Act of 1977:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 30A(f)(1)(B)(ii) of the Securities Exchange Act of 1934 (15 U.S.C. 78dd–1(f)(1)(B)(ii)) and sections 104(h)(2)(B)(ii) and 104A(f)(2)(B)(ii) of the Foreign Corrupt Practices Act of 1977 (15 U.S.C. 78dd–2(h)(2)(B)(ii), 78dd–3(f)(2)(B)(ii)), I hereby designate as "public international organizations" for the purposes of application of section 30A of the Securities Exchange Act of 1934 and sections 104 and 104A of the Foreign Corrupt Practices Act of 1977:
 
 (a) The European Union, including: the European Communities (the European Community, the European Coal & Steel Community, and the European Atomic Energy Community); institutions of the European Union, such as the European Commission, the Council of the European Union, the European Parliament, the European Court of Justice, the European Court of Auditors, the Economic and Social Committee, the Committee of the Regions, the European Central Bank, and the European Investment Bank; and any departments, agencies, and instrumentalities thereof; and
 

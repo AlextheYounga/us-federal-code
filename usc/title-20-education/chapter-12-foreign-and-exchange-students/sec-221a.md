@@ -6,4 +6,4 @@ After June 26, 1946, no person shall have authority to permit citizens of the Am
 
 #### Codification ####
 
-Words “sections 4344 and 9344 of title 10” substituted in text for “section 1 of this Act”, meaning section 1 of act June 27, 1946, ch. 493, 60 Stat. 311, on authority of act Aug. 10, 1956, §49(b), ch. 1041, 70A Stat. 640, the first section of which enacted Title 10, Armed Forces.
+Words "sections 4344 and 9344 of title 10" substituted in text for "section 1 of this Act", meaning section 1 of act June 27, 1946, ch. 493, 60 Stat. 311, on authority of act Aug. 10, 1956, §49(b), ch. 1041, 70A Stat. 640, the first section of which enacted Title 10, Armed Forces.

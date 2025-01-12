@@ -12,4 +12,4 @@ A prior chapter 85 of this title was repealed by Pub. L. 102–190, div. A, titl
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–201, div. A, title XVI, §1632(a)(3), Sept. 23, 1996, 110 Stat. 2745, substituted “CIVILIAN DEFENSE INTELLIGENCE EMPLOYEES” for “DEFENSE INTELLIGENCE AGENCY AND CENTRAL IMAGERY OFFICE CIVILIAN PERSONNEL” as chapter heading and added subchapter analysis.
+**1996**—Pub. L. 104–201, div. A, title XVI, §1632(a)(3), Sept. 23, 1996, 110 Stat. 2745, substituted "CIVILIAN DEFENSE INTELLIGENCE EMPLOYEES" for "DEFENSE INTELLIGENCE AGENCY AND CENTRAL IMAGERY OFFICE CIVILIAN PERSONNEL" as chapter heading and added subchapter analysis.

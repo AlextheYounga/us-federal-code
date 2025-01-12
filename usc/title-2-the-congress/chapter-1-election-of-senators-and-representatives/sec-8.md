@@ -30,7 +30,7 @@ If a special election is to be held under this subsection, the determination of 
 
 #### (A) In general ####
 
-In this subsection, “extraordinary circumstances” occur when the Speaker of the House of Representatives announces that vacancies in the representation from the States in the House exceed 100.
+In this subsection, "extraordinary circumstances" occur when the Speaker of the House of Representatives announces that vacancies in the representation from the States in the House exceed 100.
 
 #### (B) Judicial review ####
 
@@ -104,7 +104,7 @@ R.S. §26 derived from act Feb. 2, 1872, ch. 11, §4, 17 Stat. 28.
 
 #### Amendments ####
 
-**2005**—Pub. L. 109–55 designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b) of this section, the time” for “The time”, and added subsec. (b).
+**2005**—Pub. L. 109–55 designated existing provisions as subsec. (a), inserted heading, substituted "Except as provided in subsection (b) of this section, the time" for "The time", and added subsec. (b).
 
 #### Constitutional Provisions ####
 

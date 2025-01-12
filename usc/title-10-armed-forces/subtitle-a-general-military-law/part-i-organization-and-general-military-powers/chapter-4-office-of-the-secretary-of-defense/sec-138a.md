@@ -16,9 +16,9 @@
 
 #### Amendments ####
 
-**2011**—Subsec. (a). Pub. L. 111–383 substituted “The” for “There is a” and struck out “, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Assistant Secretary” after “Readiness”.
+**2011**—Subsec. (a). Pub. L. 111–383 substituted "The" for "There is a" and struck out ", appointed from civilian life by the President, by and with the advice and consent of the Senate. The Assistant Secretary" after "Readiness".
 
-**2009**—Pub. L. 111–84 renumbered section 133b of this title as this section and substituted “Assistant Secretary” for “Deputy Under Secretary” wherever appearing in section catchline and text.
+**2009**—Pub. L. 111–84 renumbered section 133b of this title as this section and substituted "Assistant Secretary" for "Deputy Under Secretary" wherever appearing in section catchline and text.
 
 #### Effective Date of 2011 Amendment ####
 

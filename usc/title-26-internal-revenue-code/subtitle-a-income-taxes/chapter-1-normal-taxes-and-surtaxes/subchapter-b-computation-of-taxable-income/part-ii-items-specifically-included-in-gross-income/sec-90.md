@@ -10,7 +10,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “illegal Federal irrigation subsidy” means the excess (if any) of—
+The term "illegal Federal irrigation subsidy" means the excess (if any) of—
 
 (A) the amount required to be paid for any Federal irrigation water delivered to the taxpayer during the taxpayer year, over
 
@@ -18,7 +18,7 @@ The term “illegal Federal irrigation subsidy” means the excess (if any) of�
 
 #### (2) Federal irrigation water ####
 
-The term “Federal irrigation water” means any water made available for agricultural purposes from the operation of any reclamation or irrigation project referred to in paragraph (8) of section 202 of the Reclamation Reform Act of 1982.
+The term "Federal irrigation water" means any water made available for agricultural purposes from the operation of any reclamation or irrigation project referred to in paragraph (8) of section 202 of the Reclamation Reform Act of 1982.
 
 #### (c) Denial of deduction ####
 
@@ -32,4 +32,4 @@ Section 202 of the Reclamation Reform Act of 1982, referred to in subsec. (b)(2)
 
 #### Effective Date ####
 
-Pub. L. 100–203, title X, §10611(c), Dec. 22, 1987, 101 Stat. 1330–452, provided that: “The amendments made by this section [enacting this section] shall apply to water delivered to the taxpayer in months beginning after the date of the enactment of this Act [Dec. 22, 1987].”
+Pub. L. 100–203, title X, §10611(c), Dec. 22, 1987, 101 Stat. 1330–452, provided that: "The amendments made by this section [enacting this section] shall apply to water delivered to the taxpayer in months beginning after the date of the enactment of this Act [Dec. 22, 1987]."

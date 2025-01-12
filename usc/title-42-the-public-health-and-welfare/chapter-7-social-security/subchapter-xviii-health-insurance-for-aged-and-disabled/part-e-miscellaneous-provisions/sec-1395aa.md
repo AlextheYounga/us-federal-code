@@ -2,7 +2,7 @@
 
 #### (a) Use of State agencies to determine compliance by providers of services with conditions of participation ####
 
-The Secretary shall make an agreement with any State which is able and willing to do so under which the services of the State health agency or other appropriate State agency (or the appropriate local agencies) will be utilized by him for the purpose of determining whether an institution therein is a hospital or skilled nursing facility, or whether an agency therein is a home health agency, or whether an agency is a hospice program or whether a facility therein is a rural health clinic as defined in section 1395x(aa)(2) of this title, a critical access hospital, as defined in section 1395x(mm)(1) of this title, or a comprehensive outpatient rehabilitation facility as defined in section 1395x(cc)(2) of this title, or whether a laboratory meets the requirements of paragraphs (16) and (17) of section 1395x(s) of this title, or whether a clinic, rehabilitation agency or public health agency meets the requirements of subparagraph (A) or (B), as the case may be, of section 1395x(p)(4) of this title, or whether an ambulatory surgical center meets the standards specified under section 1395k(a)(2)(F)(i) of this title. To the extent that the Secretary finds it appropriate, an institution or agency which such a State (or local) agency certifies is a hospital, skilled nursing facility, rural health clinic, comprehensive outpatient rehabilitation facility, home health agency, or hospice program (as those terms are defined in section 1395x of this title) may be treated as such by the Secretary. Any State agency which has such an agreement may (subject to approval of the Secretary) furnish to a skilled nursing facility, after proper request by such facility, such specialized consultative services (which such agency is able and willing to furnish in a manner satisfactory to the Secretary) as such facility may need to meet one or more of the conditions specified in section 1395i–3(a) of this title. Any such services furnished by a State agency shall be deemed to have been furnished pursuant to such agreement. Within 90 days following the completion of each survey of any health care facility, ambulatory surgical center, rural health clinic, comprehensive outpatient rehabilitation facility, laboratory, clinic, agency, or organization by the appropriate State or local agency described in the first sentence of this subsection, the Secretary shall make public in readily available form and place, and require (in the case of skilled nursing facilities) the posting in a place readily accessible to patients (and patients’ representatives), the pertinent findings of each such survey relating to the compliance of each such health care facility, ambulatory surgical center, rural health clinic, comprehensive outpatient rehabilitation facility, laboratory, clinic, agency, or organization with (1) the statutory conditions of participation imposed under this subchapter and (2) the major additional conditions which the Secretary finds necessary in the interest of health and safety of individuals who are furnished care or services by any such health care facility, ambulatory surgical center, rural health clinic, comprehensive outpatient rehabilitation facility, laboratory, clinic, agency, or organization. Any agreement under this subsection shall provide for the appropriate State or local agency to maintain a toll-free hotline (1) to collect, maintain, and continually update information on home health agencies located in the State or locality that are certified to participate in the program established under this subchapter (which information shall include any significant deficiencies found with respect to patient care in the most recent certification survey conducted by a State agency or accreditation survey conducted by a private accreditation agency under section 1395bb of this title with respect to the home health agency, when that survey was completed, whether corrective actions have been taken or are planned, and the sanctions, if any, imposed under this subchapter with respect to the agency) and (2) to receive complaints (and answer questions) with respect to home health agencies in the State or locality. Any such agreement shall provide for such State or local agency to maintain a unit for investigating such complaints that possesses enforcement authority and has access to survey and certification reports, information gathered by any private accreditation agency utilized by the Secretary under section 1395bb of this title, and consumer medical records (but only with the consent of the consumer or his or her legal representative).
+The Secretary shall make an agreement with any State which is able and willing to do so under which the services of the State health agency or other appropriate State agency (or the appropriate local agencies) will be utilized by him for the purpose of determining whether an institution therein is a hospital or skilled nursing facility, or whether an agency therein is a home health agency, or whether an agency is a hospice program or whether a facility therein is a rural health clinic as defined in section 1395x(aa)(2) of this title, a critical access hospital, as defined in section 1395x(mm)(1) of this title, or a comprehensive outpatient rehabilitation facility as defined in section 1395x(cc)(2) of this title, or whether a laboratory meets the requirements of paragraphs (16) and (17) of section 1395x(s) of this title, or whether a clinic, rehabilitation agency or public health agency meets the requirements of subparagraph (A) or (B), as the case may be, of section 1395x(p)(4) of this title, or whether an ambulatory surgical center meets the standards specified under section 1395k(a)(2)(F)(i) of this title. To the extent that the Secretary finds it appropriate, an institution or agency which such a State (or local) agency certifies is a hospital, skilled nursing facility, rural health clinic, comprehensive outpatient rehabilitation facility, home health agency, or hospice program (as those terms are defined in section 1395x of this title) may be treated as such by the Secretary. Any State agency which has such an agreement may (subject to approval of the Secretary) furnish to a skilled nursing facility, after proper request by such facility, such specialized consultative services (which such agency is able and willing to furnish in a manner satisfactory to the Secretary) as such facility may need to meet one or more of the conditions specified in section 1395i–3(a) of this title. Any such services furnished by a State agency shall be deemed to have been furnished pursuant to such agreement. Within 90 days following the completion of each survey of any health care facility, ambulatory surgical center, rural health clinic, comprehensive outpatient rehabilitation facility, laboratory, clinic, agency, or organization by the appropriate State or local agency described in the first sentence of this subsection, the Secretary shall make public in readily available form and place, and require (in the case of skilled nursing facilities) the posting in a place readily accessible to patients (and patients' representatives), the pertinent findings of each such survey relating to the compliance of each such health care facility, ambulatory surgical center, rural health clinic, comprehensive outpatient rehabilitation facility, laboratory, clinic, agency, or organization with (1) the statutory conditions of participation imposed under this subchapter and (2) the major additional conditions which the Secretary finds necessary in the interest of health and safety of individuals who are furnished care or services by any such health care facility, ambulatory surgical center, rural health clinic, comprehensive outpatient rehabilitation facility, laboratory, clinic, agency, or organization. Any agreement under this subsection shall provide for the appropriate State or local agency to maintain a toll-free hotline (1) to collect, maintain, and continually update information on home health agencies located in the State or locality that are certified to participate in the program established under this subchapter (which information shall include any significant deficiencies found with respect to patient care in the most recent certification survey conducted by a State agency or accreditation survey conducted by a private accreditation agency under section 1395bb of this title with respect to the home health agency, when that survey was completed, whether corrective actions have been taken or are planned, and the sanctions, if any, imposed under this subchapter with respect to the agency) and (2) to receive complaints (and answer questions) with respect to home health agencies in the State or locality. Any such agreement shall provide for such State or local agency to maintain a unit for investigating such complaints that possesses enforcement authority and has access to survey and certification reports, information gathered by any private accreditation agency utilized by the Secretary under section 1395bb of this title, and consumer medical records (but only with the consent of the consumer or his or her legal representative).
 
 #### (b) Payment in advance or by way of reimbursement to State for performance of functions of subsection (a) ####
 
@@ -24,29 +24,29 @@ Notwithstanding any other provision of law, the Secretary may not impose, or req
 
 #### Amendments ####
 
-**2008**—Subsec. (c). Pub. L. 110–275 substituted “pursuant to section 1395bb(a)(1)” for “pursuant to subsection (a) or (b)(1) of section 1395bb”.
+**2008**—Subsec. (c). Pub. L. 110–275 substituted "pursuant to section 1395bb(a)(1)" for "pursuant to subsection (a) or (b)(1) of section 1395bb".
 
-**1997**—Subsec. (a). Pub. L. 105–33, §4201(c)(1), substituted “critical access” for “rural primary care”.
+**1997**—Subsec. (a). Pub. L. 105–33, §4201(c)(1), substituted "critical access" for "rural primary care".
 
-Pub. L. 105–33, §4106(c), substituted “paragraphs (16) and (17)” for “paragraphs (15) and (16)”.
+Pub. L. 105–33, §4106(c), substituted "paragraphs (16) and (17)" for "paragraphs (15) and (16)".
 
-**1996**—Subsec. (c). Pub. L. 104–134, in first sentence, substituted at end “provider entities that, pursuant to subsection (a) or (b)(1) of section 1395bb of this title, are treated as meeting the conditions or requirements of this subchapter.” for “hospitals which have an agreement with the Secretary under section 1395cc of this title and which are accredited by the Joint Commission on Accreditation of Hospitals.”
+**1996**—Subsec. (c). Pub. L. 104–134, in first sentence, substituted at end "provider entities that, pursuant to subsection (a) or (b)(1) of section 1395bb of this title, are treated as meeting the conditions or requirements of this subchapter." for "hospitals which have an agreement with the Secretary under section 1395cc of this title and which are accredited by the Joint Commission on Accreditation of Hospitals."
 
-**1994**—Subsec. (a). Pub. L. 103–432, §160(a)(1)(B), struck out “or (in the case of a laboratory that does not participate or seek to participate in the medicare program) the requirements of section 263a of this title” after “section 1395x(s) of this title” in first sentence.
+**1994**—Subsec. (a). Pub. L. 103–432, §160(a)(1)(B), struck out "or (in the case of a laboratory that does not participate or seek to participate in the medicare program) the requirements of section 263a of this title" after "section 1395x(s) of this title" in first sentence.
 
-Pub. L. 103–432, §145(c)(3), struck out “, or whether screening mammography meets the standards established under section 1395m(c)(3) of this title” after “section 1395k(a)(2)(F)(i) of this title” in first sentence.
+Pub. L. 103–432, §145(c)(3), struck out ", or whether screening mammography meets the standards established under section 1395m(c)(3) of this title" after "section 1395k(a)(2)(F)(i) of this title" in first sentence.
 
-Subsec. (e). Pub. L. 103–432, §160(a)(1)(A), inserted before period at end “(other than any fee relating to section 263a of this title)”.
+Subsec. (e). Pub. L. 103–432, §160(a)(1)(A), inserted before period at end "(other than any fee relating to section 263a of this title)".
 
-**1990**—Subsec. (a). Pub. L. 101–508, §4163(c)(2), inserted before period at end of first sentence “, or whether screening mammography meets the standards established under section 1395m(c)(3) of this title”.
+**1990**—Subsec. (a). Pub. L. 101–508, §4163(c)(2), inserted before period at end of first sentence ", or whether screening mammography meets the standards established under section 1395m(c)(3) of this title".
 
-Pub. L. 101–508, §4154(d)(1), substituted “section 1395x(s) of this title or (in the case of a laboratory that does not participate or seek to participate in the medicare program) the requirements of section 263a of this title,” for “section 1395x(s) of this title,” in first sentence.
+Pub. L. 101–508, §4154(d)(1), substituted "section 1395x(s) of this title or (in the case of a laboratory that does not participate or seek to participate in the medicare program) the requirements of section 263a of this title," for "section 1395x(s) of this title," in first sentence.
 
 Subsec. (e). Pub. L. 101–508, §4207(g), formerly §4027(g), as renumbered by Pub. L. 103–432, §160(d)(4), added subsec. (e).
 
-**1989**—Subsec. (a). Pub. L. 101–239, §6115(c), substituted “paragraphs (15) and (16)” for “paragraphs (14) and (15)”.
+**1989**—Subsec. (a). Pub. L. 101–239, §6115(c), substituted "paragraphs (15) and (16)" for "paragraphs (14) and (15)".
 
-Pub. L. 101–239, §6003(g)(3)(C)(iii), inserted “, a rural primary care hospital, as defined in section 1395x(mm)(1) of this title,” after “1395x(aa)(2) of this title”.
+Pub. L. 101–239, §6003(g)(3)(C)(iii), inserted ", a rural primary care hospital, as defined in section 1395x(mm)(1) of this title," after "1395x(aa)(2) of this title".
 
 Pub. L. 101–234 repealed Pub. L. 100–360, §§203(e)(3), 204(c)(2), (d)(3), and provided that the provisions of law amended or repealed by such sections are restored or revived as if such sections had not been enacted, see 1988 and 1989 Amendment notes.
 
@@ -54,49 +54,49 @@ Pub. L. 101–234 repealed Pub. L. 100–360, §§203(e)(3), 204(c)(2), (d)(3), 
 
 Pub. L. 100–360, §411(l)(1)(C), as added by Pub. L. 100–485, §608(d)(27)(B), added Pub. L. 100–203, §4201(d)(4), see 1987 Amendment note below.
 
-Pub. L. 100–360, §411(d)(4)(A)(i), as amended by Pub. L. 100–485, §608(d)(20)(B)(i), substituted “most recent certification survey conducted by a State agency or accreditation survey conducted by a private accreditation agency under section 1395bb of this title with respect to the home health agency,” for “most recent certification survey conducted with respect to the agency,”.
+Pub. L. 100–360, §411(d)(4)(A)(i), as amended by Pub. L. 100–485, §608(d)(20)(B)(i), substituted "most recent certification survey conducted by a State agency or accreditation survey conducted by a private accreditation agency under section 1395bb of this title with respect to the home health agency," for "most recent certification survey conducted with respect to the agency,".
 
-Pub. L. 100–360, §411(d)(4)(A)(ii)(I), as amended by Pub. L. 100–485, §608(d)(20)(C), substituted “such State or local agency to maintain a unit” for “such agency to maintain a unit”.
+Pub. L. 100–360, §411(d)(4)(A)(ii)(I), as amended by Pub. L. 100–485, §608(d)(20)(C), substituted "such State or local agency to maintain a unit" for "such agency to maintain a unit".
 
-Pub. L. 100–360, §411(d)(4)(A)(ii)(II), as amended by Pub. L. 100–485, §608(d)(20)(B)(ii), substituted “utilized by the Secretary under section 1395bb of this title” for “pursuant to an agreement with the Secretary under this section”.
+Pub. L. 100–360, §411(d)(4)(A)(ii)(II), as amended by Pub. L. 100–485, §608(d)(20)(B)(ii), substituted "utilized by the Secretary under section 1395bb of this title" for "pursuant to an agreement with the Secretary under this section".
 
-Pub. L. 100–360, §204(d)(3), substituted “paragraphs (14) and (15)” for “paragraphs (13) and (14)”.
+Pub. L. 100–360, §204(d)(3), substituted "paragraphs (14) and (15)" for "paragraphs (13) and (14)".
 
-Pub. L. 100–360, §204(c)(2), inserted “, or whether screening mammography meets the standards established under section 1395m(e)(3) of this title” after “section 1395k(a)(2)(F)(i) of this title”.
+Pub. L. 100–360, §204(c)(2), inserted ", or whether screening mammography meets the standards established under section 1395m(e)(3) of this title" after "section 1395k(a)(2)(F)(i) of this title".
 
-Pub. L. 100–360, §203(e)(3), inserted “or a home intravenous drug therapy provider,” after “hospice program” and substituted “hospice program, or home intravenous drug therapy provider” for “or hospice program”.
+Pub. L. 100–360, §203(e)(3), inserted "or a home intravenous drug therapy provider," after "hospice program" and substituted "hospice program, or home intravenous drug therapy provider" for "or hospice program".
 
 **1987**—Subsec. (a). Pub. L. 100–203, §4212(b), which directed an amendment of subsec. (a) identical to Pub. L. 100–203, §4202(c), was amended generally by Pub. L. 100–360, §411(l)(6)(B), so that it does not amend this section but rather section 1396r of this title.
 
-Pub. L. 100–203, §4202(c), inserted “, and require (in the case of skilled nursing facilities) the posting in a place readily accessible to patients (and patients’ representatives),” after “place” in fifth sentence.
+Pub. L. 100–203, §4202(c), inserted ", and require (in the case of skilled nursing facilities) the posting in a place readily accessible to patients (and patients' representatives)," after "place" in fifth sentence.
 
-Pub. L. 100–203, §4201(d)(4), as added by Pub. L. 100–360, §411(l)(1)(C), as added by Pub. L. 100–485, §608(d)(27)(B), substituted “conditions specified in section 1395i–3(a) of this title” for “conditions specified in section 1395x(j) of this title”.
+Pub. L. 100–203, §4201(d)(4), as added by Pub. L. 100–360, §411(l)(1)(C), as added by Pub. L. 100–485, §608(d)(27)(B), substituted "conditions specified in section 1395i–3(a) of this title" for "conditions specified in section 1395x(j) of this title".
 
-Pub. L. 100–203, §4072(d), substituted “paragraphs (13) and (14)” for “paragraphs (12) and (13)” in first sentence.
+Pub. L. 100–203, §4072(d), substituted "paragraphs (13) and (14)" for "paragraphs (12) and (13)" in first sentence.
 
-Pub. L. 100–203, §4025(a), inserted at end “Any agreement under this subsection shall provide for the appropriate State or local agency to maintain a toll-free hotline (1) to collect, maintain, and continually update information on home health agencies located in the State or locality that are certified to participate in the program established under this subchapter (which information shall include any significant deficiencies found with respect to patient care in the most recent certification survey conducted with respect to the agency, when that survey was completed, whether corrective actions have been taken or are planned, and the sanctions, if any, imposed under this subchapter with respect to the agency) and (2) to receive complaints (and answer questions) with respect to home health agencies in the State or locality. Any such agreement shall provide for such agency to maintain a unit for investigating such complaints that possesses enforcement authority and has access to survey and certification reports, information gathered by any private accreditation agency pursuant to an agreement with the Secretary under this section, and consumer medical records (but only with the consent of the consumer or his or her legal representative).”
+Pub. L. 100–203, §4025(a), inserted at end "Any agreement under this subsection shall provide for the appropriate State or local agency to maintain a toll-free hotline (1) to collect, maintain, and continually update information on home health agencies located in the State or locality that are certified to participate in the program established under this subchapter (which information shall include any significant deficiencies found with respect to patient care in the most recent certification survey conducted with respect to the agency, when that survey was completed, whether corrective actions have been taken or are planned, and the sanctions, if any, imposed under this subchapter with respect to the agency) and (2) to receive complaints (and answer questions) with respect to home health agencies in the State or locality. Any such agreement shall provide for such agency to maintain a unit for investigating such complaints that possesses enforcement authority and has access to survey and certification reports, information gathered by any private accreditation agency pursuant to an agreement with the Secretary under this section, and consumer medical records (but only with the consent of the consumer or his or her legal representative)."
 
-Subsec. (d). Pub. L. 100–203, §4203(a)(1), inserted before period at end “and the establishment of remedies under sections 1395i–3(h)(2)(B) and 1395i–3(h)(2)(C) of this title (relating to establishment and application of remedies)”.
+Subsec. (d). Pub. L. 100–203, §4203(a)(1), inserted before period at end "and the establishment of remedies under sections 1395i–3(h)(2)(B) and 1395i–3(h)(2)(C) of this title (relating to establishment and application of remedies)".
 
-Pub. L. 100–203, §4202(a)(1), inserted “and section 1395i–3(g) of this title” before period at end.
+Pub. L. 100–203, §4202(a)(1), inserted "and section 1395i–3(g) of this title" before period at end.
 
 Pub. L. 100–203, §4201(a)(2), added subsec. (d).
 
-**1986**—Subsec. (a). Pub. L. 99–509 substituted “paragraphs (12) and (13)” for “paragraphs (11) and (12)”.
+**1986**—Subsec. (a). Pub. L. 99–509 substituted "paragraphs (12) and (13)" for "paragraphs (11) and (12)".
 
-**1984**—Subsec. (c). Pub. L. 98–369 struck out “the” after “Joint Commission on”.
+**1984**—Subsec. (c). Pub. L. 98–369 struck out "the" after "Joint Commission on".
 
-**1982**—Subsec. (a). Pub. L. 97–248 inserted “or whether an agency is a hospice program” and substituted “home health agency, or hospice program” for “or home health agency”.
+**1982**—Subsec. (a). Pub. L. 97–248 inserted "or whether an agency is a hospice program" and substituted "home health agency, or hospice program" for "or home health agency".
 
-**1980**—Subsec. (a). Pub. L. 96–611 substituted “requirements of paragraphs (11) and (12) of section 1395x(s) of this title” for “requirements of paragraphs (10) and (11) of section 1395x(s) of this title”.
+**1980**—Subsec. (a). Pub. L. 96–611 substituted "requirements of paragraphs (11) and (12) of section 1395x(s) of this title" for "requirements of paragraphs (10) and (11) of section 1395x(s) of this title".
 
-Pub. L. 96–499, §933(g), inserted “or a comprehensive outpatient rehabilitation facility as defined in section 1395x(cc)(2) of this title” after “section 1395x(aa)(2) of this title” and “comprehensive outpatient rehabilitation facility,” after “rural health clinic” in four places.
+Pub. L. 96–499, §933(g), inserted "or a comprehensive outpatient rehabilitation facility as defined in section 1395x(cc)(2) of this title" after "section 1395x(aa)(2) of this title" and "comprehensive outpatient rehabilitation facility," after "rural health clinic" in four places.
 
-Pub. L. 96–499, §934(c)(2), inserted “, or whether an ambulatory surgical center meets the standards specified under section 1395k(a)(2)(F) of this title” after “section 1395x(p)(4) of this title” and “ambulatory surgical center,” after “health care facility,” in three places.
+Pub. L. 96–499, §934(c)(2), inserted ", or whether an ambulatory surgical center meets the standards specified under section 1395k(a)(2)(F) of this title" after "section 1395x(p)(4) of this title" and "ambulatory surgical center," after "health care facility," in three places.
 
 **1977**—Subsec. (a). Pub. L. 95–210 expanded enumeration of institutions and agencies included under coverage of this subsection by inserting references to rural health clinics in five places.
 
-**1972**—Subsec. (a). Pub. L. 92–603, §§277, 278(a)(16), (b)(15), 299D(a), provided for the furnishing of specialized consultative services to skilled nursing facilities, authorized the Secretary to make public the pertinent findings of each survey within 90 days following the completion of each survey of any health care facility, etc., and substituted “skilled nursing facility” for “extended care facility”.
+**1972**—Subsec. (a). Pub. L. 92–603, §§277, 278(a)(16), (b)(15), 299D(a), provided for the furnishing of specialized consultative services to skilled nursing facilities, authorized the Secretary to make public the pertinent findings of each survey within 90 days following the completion of each survey of any health care facility, etc., and substituted "skilled nursing facility" for "extended care facility".
 
 Subsec. (c). Pub. L. 92–603, §244(a), added subsec. (c).
 
@@ -120,7 +120,7 @@ Amendment by section 145(c)(3) of Pub. L. 103–432 applicable to mammography fu
 
 #### Effective Date of 1990 Amendment ####
 
-Pub. L. 101–508, title IV, §4154(d)(2), Nov. 5, 1990, 104 Stat. 1388–85, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in the enactment of the Clinical Laboratory Improvement Amendments of 1988 [Pub. L. 100–578].”
+Pub. L. 101–508, title IV, §4154(d)(2), Nov. 5, 1990, 104 Stat. 1388–85, provided that: "The amendment made by paragraph (1) [amending this section] shall take effect as if included in the enactment of the Clinical Laboratory Improvement Amendments of 1988 [Pub. L. 100–578]."
 
 Amendment by section 4163(c)(2) of Pub. L. 101–508 applicable to screening mammography performed on or after Jan. 1, 1991, see section 4163(e) of Pub. L. 101–508, set out as a note under section 1395l of this title.
 
@@ -142,7 +142,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment ####
 
-Pub. L. 100–203, title IV, §4025(c), formerly §4025(b), Dec. 22, 1987, 101 Stat. 1330–74, as redesignated and amended by Pub. L. 100–360, title IV, §411(d)(4)(B)(i), July 1, 1988, 102 Stat. 774, provided that: “The amendment made by this section [amending this section and section 1395bb of this title] shall apply with respect to agreements entered into or renewed on or after the date of enactment of this Act [Dec. 22, 1987].”
+Pub. L. 100–203, title IV, §4025(c), formerly §4025(b), Dec. 22, 1987, 101 Stat. 1330–74, as redesignated and amended by Pub. L. 100–360, title IV, §411(d)(4)(B)(i), July 1, 1988, 102 Stat. 774, provided that: "The amendment made by this section [amending this section and section 1395bb of this title] shall apply with respect to agreements entered into or renewed on or after the date of enactment of this Act [Dec. 22, 1987]."
 
 For effective date of amendment by section 4072(d) of Pub. L. 100–203, see section 4072(e) of Pub. L. 100–203, set out as a note under section 1395x of this title.
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 95–210 applicable to services rendered on or after first 
 
 #### Effective Date of 1972 Amendment ####
 
-Pub. L. 92–603, title II, §299D(c), Oct. 30, 1972, 86 Stat. 1462, provided that: “The provisions of this section [amending this section and section 1396a of this title] shall be effective beginning January 1, 1973, or within 6 months following the enactment of this Act [Oct. 30, 1972], whichever is later.”
+Pub. L. 92–603, title II, §299D(c), Oct. 30, 1972, 86 Stat. 1462, provided that: "The provisions of this section [amending this section and section 1396a of this title] shall be effective beginning January 1, 1973, or within 6 months following the enactment of this Act [Oct. 30, 1972], whichever is later."
 
 #### Effective Date of 1968 Amendment ####
 
@@ -184,8 +184,8 @@ Pub. L. 90–248, title II, §228(b), Jan. 2, 1968, 81 Stat. 904, provided that 
 
 #### Use of State or Local Agencies in Evaluating Laboratories ####
 
-Pub. L. 103–432, title I, §160(a)(2), Oct. 31, 1994, 108 Stat. 4443, provided that: “An agreement made by the Secretary of Health and Human Services with a State under section 1864(a) of the Social Security Act [42 U.S.C. 1395aa(a)] may include an agreement that the services of the State health agency or other appropriate State agency (or the appropriate local agencies) will be utilized by the Secretary for the purpose of determining whether a laboratory meets the requirements of section 353 of the Public Health Service Act [42 U.S.C. 263a].”
+Pub. L. 103–432, title I, §160(a)(2), Oct. 31, 1994, 108 Stat. 4443, provided that: "An agreement made by the Secretary of Health and Human Services with a State under section 1864(a) of the Social Security Act [42 U.S.C. 1395aa(a)] may include an agreement that the services of the State health agency or other appropriate State agency (or the appropriate local agencies) will be utilized by the Secretary for the purpose of determining whether a laboratory meets the requirements of section 353 of the Public Health Service Act [42 U.S.C. 263a]."
 
 #### Nurse Aid Training and Competency Evaluation, Failure by State To Meet Guidelines ####
 
-Pub. L. 101–508, title IV, §4008(h)(1)(A), Nov. 5, 1990, 104 Stat. 1388–46, provided that: “The Secretary of Health and Human Services may not refuse to enter into an agreement or cancel an existing agreement with a State under section 1864 of the Social Security Act [42 U.S.C. 1395aa] on the basis that the State failed to meet the requirement of section 1819(e)(1)(A) of such Act [42 U.S.C. 1395i–3(e)(1)(A)] before the effective date of guidelines, issued by the Secretary, establishing requirements under section 1819(f)(2)(A) of such Act, if the State demonstrates to the satisfaction of the Secretary that it has made a good faith effort to meet such requirement before such effective date.”
+Pub. L. 101–508, title IV, §4008(h)(1)(A), Nov. 5, 1990, 104 Stat. 1388–46, provided that: "The Secretary of Health and Human Services may not refuse to enter into an agreement or cancel an existing agreement with a State under section 1864 of the Social Security Act [42 U.S.C. 1395aa] on the basis that the State failed to meet the requirement of section 1819(e)(1)(A) of such Act [42 U.S.C. 1395i–3(e)(1)(A)] before the effective date of guidelines, issued by the Secretary, establishing requirements under section 1819(f)(2)(A) of such Act, if the State demonstrates to the satisfaction of the Secretary that it has made a good faith effort to meet such requirement before such effective date."

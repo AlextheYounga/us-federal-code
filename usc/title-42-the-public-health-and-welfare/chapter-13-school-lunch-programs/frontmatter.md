@@ -4,7 +4,7 @@ Sec.
 
 1751. Congressional declaration of policy.
 
-1752. Authorization of appropriations; “Secretary” defined.
+1752. Authorization of appropriations; "Secretary" defined.
 
 1753. Apportionments to States.
 
@@ -52,7 +52,7 @@ Sec.
 
 1769a. Fresh fruit and vegetable program.
 
-1769b. Department of Defense overseas dependents’ schools.
+1769b. Department of Defense overseas dependents' schools.
 
 1769b–1. Training, technical assistance, and food service management institute.
 

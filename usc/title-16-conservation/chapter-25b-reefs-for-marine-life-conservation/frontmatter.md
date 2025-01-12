@@ -12,4 +12,4 @@ Sec.
 
 1220c–1. Financial assistance to State to prepare transferred ship.
 
-1220d. “Obsolete ship” defined.
+1220d. "Obsolete ship" defined.

@@ -6,13 +6,13 @@ The total administrative and supervisory costs which may be incurred under this 
 
 #### Amendments ####
 
-**2005**—Pub. L. 109–83 substituted “2015” for “2005”.
+**2005**—Pub. L. 109–83 substituted "2015" for "2005".
 
-**2000**—Pub. L. 106–472 substituted “2005” for “2000” and “30 percent” for “40 per centum”.
+**2000**—Pub. L. 106–472 substituted "2005" for "2000" and "30 percent" for "40 per centum".
 
-**1994**—Pub. L. 103–354 substituted “Secretary” for “Service”.
+**1994**—Pub. L. 103–354 substituted "Secretary" for "Service".
 
-**1993**—Pub. L. 103–156 substituted “services performed” for “inspection and weighing” and “2000” for “1993”.
+**1993**—Pub. L. 103–156 substituted "services performed" for "inspection and weighing" and "2000" for "1993".
 
 #### Effective Date of 2000 Amendment ####
 

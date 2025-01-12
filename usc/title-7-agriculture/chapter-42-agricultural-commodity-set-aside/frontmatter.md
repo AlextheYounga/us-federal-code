@@ -2,7 +2,7 @@
 
 Sec.
 
-1741. Maximum and minimum quantities for set-aside; “commodity set-aside” defined.
+1741. Maximum and minimum quantities for set-aside; "commodity set-aside" defined.
 
 1742. Determination of commodity value for set-aside.
 

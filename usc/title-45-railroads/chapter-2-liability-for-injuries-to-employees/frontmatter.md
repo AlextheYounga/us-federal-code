@@ -16,7 +16,7 @@ Sec.
 
 56. Actions; limitation; concurrent jurisdiction of courts.
 
-57. Who included in term “common carrier”.
+57. Who included in term "common carrier".
 
 58. Duty or liability of common carriers and rights of employees under other acts not impaired.
 

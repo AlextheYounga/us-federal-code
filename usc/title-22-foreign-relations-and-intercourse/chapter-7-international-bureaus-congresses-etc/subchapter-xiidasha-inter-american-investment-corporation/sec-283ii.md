@@ -16,4 +16,4 @@ Section is based on section 210 of title II of S. 2416, Ninety-eighth Congress, 
 
 #### Delegation of Functions ####
 
-Section 2 of Ex. Ord. No. 12567, Oct. 2, 1986, 51 F.R. 35495, provided that: “The functions vested in the President by Section 210 of the Inter-American Investment Corporation Act [this section] are hereby delegated to the Secretary of the Treasury.”
+Section 2 of Ex. Ord. No. 12567, Oct. 2, 1986, 51 F.R. 35495, provided that: "The functions vested in the President by Section 210 of the Inter-American Investment Corporation Act [this section] are hereby delegated to the Secretary of the Treasury."

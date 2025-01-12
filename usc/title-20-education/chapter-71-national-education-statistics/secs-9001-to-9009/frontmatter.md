@@ -20,4 +20,4 @@ Section 9009, Pub. L. 103–382, title IV, §410, Oct. 20, 1994, 108 Stat. 4036,
 
 #### Short Title ####
 
-Pub. L. 103–382, title IV, §401, Oct. 20, 1994, 108 Stat. 4029, which provided that title IV of Pub. L. 103–382, enacting this chapter, could be cited as the “National Education Statistics Act of 1994”, was repealed by Pub. L. 107–279, title IV, §403(1), Nov. 5, 2002, 116 Stat. 1985.
+Pub. L. 103–382, title IV, §401, Oct. 20, 1994, 108 Stat. 4029, which provided that title IV of Pub. L. 103–382, enacting this chapter, could be cited as the "National Education Statistics Act of 1994", was repealed by Pub. L. 107–279, title IV, §403(1), Nov. 5, 2002, 116 Stat. 1985.

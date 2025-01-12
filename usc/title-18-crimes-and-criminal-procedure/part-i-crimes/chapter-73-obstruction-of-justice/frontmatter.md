@@ -56,15 +56,15 @@ Sec.
 
 **1990**—Pub. L. 101–647, title XXV, §2503(b), Nov. 29, 1990, 104 Stat. 4861, added item 1517.
 
-**1988**—Pub. L. 100–690, title VII, §§7030, 7078(b), Nov. 18, 1988, 102 Stat. 4398, 4406, inserted “; general provision” in item 1515 and added item 1516.
+**1988**—Pub. L. 100–690, title VII, §§7030, 7078(b), Nov. 18, 1988, 102 Stat. 4398, 4406, inserted "; general provision" in item 1515 and added item 1516.
 
-**1982**—Pub. L. 97–291, §4(b), Oct. 12, 1982, 96 Stat. 1253, substituted “or juror” for “, juror or witness” after “officer” in item 1503, and added items 1512, 1513, 1514, and 1515.
+**1982**—Pub. L. 97–291, §4(b), Oct. 12, 1982, 96 Stat. 1253, substituted "or juror" for ", juror or witness" after "officer" in item 1503, and added items 1512, 1513, 1514, and 1515.
 
 **1970**—Pub. L. 91–452, title VIII, §802(b), Oct. 15, 1970, 84 Stat. 937, added item 1511.
 
 **1967**—Pub. L. 90–123, §1(b), Nov. 3, 1967, 81 Stat. 362, added item 1510.
 
-**1962**—Pub. L. 87–664, §6(b), Sept. 19, 1962, 76 Stat. 552, substituted “Obstruction of proceedings before departments, agencies, and committees” for “Influencing or injuring witness before agencies and committees” in item 1505.
+**1962**—Pub. L. 87–664, §6(b), Sept. 19, 1962, 76 Stat. 552, substituted "Obstruction of proceedings before departments, agencies, and committees" for "Influencing or injuring witness before agencies and committees" in item 1505.
 
 **1960**—Pub. L. 86–449, title I, §102, May 6, 1960, 74 Stat. 86, added item 1509.
 

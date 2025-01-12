@@ -6,7 +6,7 @@ Upon completion of the acquisition of the land and the work of the commission, t
 
 #### Change of Name ####
 
-“Battlefield” substituted in text for “park” in view of redesignation of Petersburg National Military Park as Petersburg National Military Battlefield by Pub. L. 87–603. See section 423h–1 of this title.
+"Battlefield" substituted in text for "park" in view of redesignation of Petersburg National Military Park as Petersburg National Military Battlefield by Pub. L. 87–603. See section 423h–1 of this title.
 
 #### Transfer of Functions ####
 

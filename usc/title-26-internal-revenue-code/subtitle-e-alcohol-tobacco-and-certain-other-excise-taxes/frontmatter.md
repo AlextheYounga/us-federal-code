@@ -17,11 +17,11 @@ Chapter Sec. 1
 
 **2002**—Pub. L. 107–134, title I, §115(b), Jan. 23, 2002, 115 Stat. 2438, added item relating to chapter 55.
 
-**1997**—Pub. L. 105–33, title IX, §9302(g)(3)(D), Aug. 5, 1997, 111 Stat. 673, added item relating to chapter 52 and struck out former item relating to chapter 52 “Cigars, cigarettes, smokeless tobacco, pipe tobacco, and cigarette papers and tubes”.
+**1997**—Pub. L. 105–33, title IX, §9302(g)(3)(D), Aug. 5, 1997, 111 Stat. 673, added item relating to chapter 52 and struck out former item relating to chapter 52 "Cigars, cigarettes, smokeless tobacco, pipe tobacco, and cigarette papers and tubes".
 
-**1988**—Pub. L. 100–647, title V, §5061(c)(4), Nov. 10, 1988, 102 Stat. 3680, substituted “Cigars, cigarettes, smokeless tobacco, pipe tobacco, and cigarette papers and tubes” for “Tobacco, cigars, cigarettes, smokeless tobacco, and cigarette papers and tubes” in item relating to chapter 52.
+**1988**—Pub. L. 100–647, title V, §5061(c)(4), Nov. 10, 1988, 102 Stat. 3680, substituted "Cigars, cigarettes, smokeless tobacco, pipe tobacco, and cigarette papers and tubes" for "Tobacco, cigars, cigarettes, smokeless tobacco, and cigarette papers and tubes" in item relating to chapter 52.
 
-Pub. L. 100–647, title I, §1018(u)(16), Nov. 10, 1988, 102 Stat. 3590, inserted “smokeless tobacco,” after “cigarettes,” in item relating to chapter 52.
+Pub. L. 100–647, title I, §1018(u)(16), Nov. 10, 1988, 102 Stat. 3590, inserted "smokeless tobacco," after "cigarettes," in item relating to chapter 52.
 
 **1987**—Pub. L. 100–203, title X, §10228(c), Dec. 22, 1987, 101 Stat. 1330–418, added item relating to chapter 54.
 

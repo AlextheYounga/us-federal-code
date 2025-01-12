@@ -1,10 +1,10 @@
 ### §254e. Health professional shortage areas ###
 
-#### (a) Designation by Secretary; removal from areas designated; “medical facility” defined ####
+#### (a) Designation by Secretary; removal from areas designated; "medical facility" defined ####
 
-(1) For purposes of this subpart the term “health professional shortage area” means (A) an area in an urban or rural area (which need not conform to the geographic boundaries of a political subdivision and which is a rational area for the delivery of health services) which the Secretary determines has a health manpower shortage and which is not reasonably accessible to an adequately served area, (B) a population group which the Secretary determines has such a shortage, or (C) a public or nonprofit private medical facility or other public facility which the Secretary determines has such a shortage. All Federally qualified health centers and rural health clinics, as defined in section 1861(aa) of the Social Security Act (42 U.S.C. 1395x(aa)), that meet the requirements of section 254g of this title shall be automatically designated as having such a shortage. The Secretary shall not remove an area from the areas determined to be health professional shortage areas under subparagraph (A) of the preceding sentence until the Secretary has afforded interested persons and groups in such area an opportunity to provide data and information in support of the designation as a health professional shortage area or a population group described in subparagraph (B) of such sentence or a facility described in subparagraph (C) of such sentence, and has made a determination on the basis of the data and information submitted by such persons and groups and other data and information available to the Secretary.
+(1) For purposes of this subpart the term "health professional shortage area" means (A) an area in an urban or rural area (which need not conform to the geographic boundaries of a political subdivision and which is a rational area for the delivery of health services) which the Secretary determines has a health manpower shortage and which is not reasonably accessible to an adequately served area, (B) a population group which the Secretary determines has such a shortage, or (C) a public or nonprofit private medical facility or other public facility which the Secretary determines has such a shortage. All Federally qualified health centers and rural health clinics, as defined in section 1861(aa) of the Social Security Act (42 U.S.C. 1395x(aa)), that meet the requirements of section 254g of this title shall be automatically designated as having such a shortage. The Secretary shall not remove an area from the areas determined to be health professional shortage areas under subparagraph (A) of the preceding sentence until the Secretary has afforded interested persons and groups in such area an opportunity to provide data and information in support of the designation as a health professional shortage area or a population group described in subparagraph (B) of such sentence or a facility described in subparagraph (C) of such sentence, and has made a determination on the basis of the data and information submitted by such persons and groups and other data and information available to the Secretary.
 
-(2) For purposes of this subsection, the term “medical facility” means a facility for the delivery of health services and includes—
+(2) For purposes of this subsection, the term "medical facility" means a facility for the delivery of health services and includes—
 
 (A) a hospital, State mental hospital, public health center, outpatient medical facility, rehabilitation facility, facility for long-term care, community mental health center, migrant health center, facility operated by a city or county health department, and community health center;
 
@@ -100,57 +100,57 @@ A prior section 332 of act July 1, 1944, was renumbered section 340, and was cla
 
 #### Amendments ####
 
-**2008**—Subsec. (a)(1). Pub. L. 110–355 struck out “Not earlier than 6 years after such date of designation, and every 6 years thereafter, each such center or clinic shall demonstrate that the center or clinic meets the applicable requirements of the Federal regulations regarding the definition of a health professional shortage area for purposes of this section.” before “The Secretary shall not”.
+**2008**—Subsec. (a)(1). Pub. L. 110–355 struck out "Not earlier than 6 years after such date of designation, and every 6 years thereafter, each such center or clinic shall demonstrate that the center or clinic meets the applicable requirements of the Federal regulations regarding the definition of a health professional shortage area for purposes of this section." before "The Secretary shall not".
 
-**2003**—Subsec. (a)(1). Pub. L. 108–163, §2(f)(1)(A), substituted “such date of designation” for “such date of enactment” and “regarding” for “, issued after the date of enactment of this Act, that revise”.
+**2003**—Subsec. (a)(1). Pub. L. 108–163, §2(f)(1)(A), substituted "such date of designation" for "such date of enactment" and "regarding" for ", issued after the date of enactment of this Act, that revise".
 
-Subsec. (a)(3). Pub. L. 108–163, §2(f)(1)(B), substituted “254b(h)(5)” for “254b(h)(4)”.
+Subsec. (a)(3). Pub. L. 108–163, §2(f)(1)(B), substituted "254b(h)(5)" for "254b(h)(4)".
 
 Subsec. (b)(2). Pub. L. 108–163, §2(f)(1)(C), struck out comma before period at end.
 
 Subsec. (j). Pub. L. 108–163, §2(f)(1)(D), added subsec. (j).
 
-**2002**—Subsec. (a)(1). Pub. L. 107–251, §302(a)(1)(A), inserted after first sentence “All Federally qualified health centers and rural health clinics, as defined in section 1861(aa) of the Social Security Act (42 U.S.C. 1395x(aa)), that meet the requirements of section 254g of this title shall be automatically designated as having such a shortage. Not earlier than 6 years after such date of enactment, and every 6 years thereafter, each such center or clinic shall demonstrate that the center or clinic meets the applicable requirements of the Federal regulations, issued after the date of enactment of this Act, that revise the definition of a health professional shortage area for purposes of this section.”
+**2002**—Subsec. (a)(1). Pub. L. 107–251, §302(a)(1)(A), inserted after first sentence "All Federally qualified health centers and rural health clinics, as defined in section 1861(aa) of the Social Security Act (42 U.S.C. 1395x(aa)), that meet the requirements of section 254g of this title shall be automatically designated as having such a shortage. Not earlier than 6 years after such date of enactment, and every 6 years thereafter, each such center or clinic shall demonstrate that the center or clinic meets the applicable requirements of the Federal regulations, issued after the date of enactment of this Act, that revise the definition of a health professional shortage area for purposes of this section."
 
-Subsec. (a)(2)(C). Pub. L. 107–251, §601(a), substituted “254b(h)” for “256”.
+Subsec. (a)(2)(C). Pub. L. 107–251, §601(a), substituted "254b(h)" for "256".
 
-Subsec. (a)(3). Pub. L. 107–251, §302(a)(1)(B), substituted “254b(h)(4) of this title), seasonal agricultural workers (as defined in section 254b(g)(3) of this title) and migratory agricultural workers (as so defined)), and residents of public housing (as defined in section 1437a(b)(1) of this title) may be population groups” for “256(r) of this title) may be a population group”.
+Subsec. (a)(3). Pub. L. 107–251, §302(a)(1)(B), substituted "254b(h)(4) of this title), seasonal agricultural workers (as defined in section 254b(g)(3) of this title) and migratory agricultural workers (as so defined)), and residents of public housing (as defined in section 1437a(b)(1) of this title) may be population groups" for "256(r) of this title) may be a population group".
 
-Subsec. (b)(2). Pub. L. 107–251, §302(a)(2), struck out after “designation,” the following: “with special consideration to indicators of—
+Subsec. (b)(2). Pub. L. 107–251, §302(a)(2), struck out after "designation," the following: "with special consideration to indicators of—
 
-“(A) infant mortality,
+"(A) infant mortality,
 
-“(B) access to health services,
+"(B) access to health services,
 
-“(C) health status, and
+"(C) health status, and
 
-“(D) ability to pay for health services”.
+"(D) ability to pay for health services".
 
-Subsec. (c)(2)(B). Pub. L. 107–251, §302(a)(3), substituted “XVIII, XIX, or XXI of the Social Security Act” for “XVIII or XIX of the Social Security Act”.
+Subsec. (c)(2)(B). Pub. L. 107–251, §302(a)(3), substituted "XVIII, XIX, or XXI of the Social Security Act" for "XVIII or XIX of the Social Security Act".
 
 Subsec. (i). Pub. L. 107–251, §302(d)(2), added subsec. (i).
 
 **1990**—Subsec. (a)(1). Pub. L. 101–597, §401(b)[(a)], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing.
 
-Subsec. (a)(2)(A). Pub. L. 101–597, §102(b)(1), inserted “facility operated by a city or county health department,” before “and community health center”.
+Subsec. (a)(2)(A). Pub. L. 101–597, §102(b)(1), inserted "facility operated by a city or county health department," before "and community health center".
 
-Subsec. (a)(2)(B). Pub. L. 101–597, §102(b)(2), inserted before semicolon “, and a health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act”.
+Subsec. (a)(2)(B). Pub. L. 101–597, §102(b)(2), inserted before semicolon ", and a health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act".
 
-Subsec. (a)(2)(C). Pub. L. 101–597, §102(b)(3), substituted “section” for “sections” before “248”, struck out “or” before “253” and “or section” before “247e”, and inserted before semicolon “, or 256 of this title (relating to the provision of health services to homeless individuals)”.
+Subsec. (a)(2)(C). Pub. L. 101–597, §102(b)(3), substituted "section" for "sections" before "248", struck out "or" before "253" and "or section" before "247e", and inserted before semicolon ", or 256 of this title (relating to the provision of health services to homeless individuals)".
 
 Subsec. (b). Pub. L. 101–597, §401(b)[(a)], substituted reference to health professional shortage area for reference to health manpower shortage area.
 
-Pub. L. 101–597, §102(c)(1), struck out “, promulgated not later than May 1, 1977,” after “establish by regulation”.
+Pub. L. 101–597, §102(c)(1), struck out ", promulgated not later than May 1, 1977," after "establish by regulation".
 
 Subsec. (c). Pub. L. 101–597, §102(c)(2), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows:
 
-“(A) The recommendations of each health systems agency (designated under section 300l–4 of this title) for a health service area which includes all or any part of the area, population group, medical facility, or other public facility under consideration for designation.
+"(A) The recommendations of each health systems agency (designated under section 300l–4 of this title) for a health service area which includes all or any part of the area, population group, medical facility, or other public facility under consideration for designation.
 
-“(B) The recommendations of the State health planning and development agency (designated under section 300m of this title) if such area, population group, medical facility, or other public facility is within a health service area for which no health systems agency has been designated.”
+"(B) The recommendations of the State health planning and development agency (designated under section 300m of this title) if such area, population group, medical facility, or other public facility is within a health service area for which no health systems agency has been designated."
 
 Subsec. (d). Pub. L. 101–597, §401(b)[(a)], substituted reference to health professional shortage area for reference to health manpower shortage area in par. (1).
 
-Pub. L. 101–597, §102(a), (c)(3), designated existing provision as par. (1), struck out “, not later than November 1, 1977,” after “Secretary shall designate”, and added par. (2).
+Pub. L. 101–597, §102(a), (c)(3), designated existing provision as par. (1), struck out ", not later than November 1, 1977," after "Secretary shall designate", and added par. (2).
 
 Subsec. (e). Pub. L. 101–597, §401(b)[(a)], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing.
 
@@ -158,13 +158,13 @@ Subsec. (f). Pub. L. 101–597, §401(b)[(a)], substituted reference to health p
 
 Pub. L. 101–597, §102(c)(4), redesignated par. (3) as (2) and struck out former par. (2) which read as follows:
 
-“(A) each health systems agency (designated under section 300l–4 of this title) for a health service area which includes all or any part of the area, population group, medical facility, or other public facility so designated; or
+"(A) each health systems agency (designated under section 300l–4 of this title) for a health service area which includes all or any part of the area, population group, medical facility, or other public facility so designated; or
 
-“(B) the State health planning and development agency of the State (designated under section 300m of this title) if there is a part of such area, population group, medical facility, or other public facility within a health service area for which no health systems agency has been designated; and”.
+"(B) the State health planning and development agency of the State (designated under section 300m of this title) if there is a part of such area, population group, medical facility, or other public facility within a health service area for which no health systems agency has been designated; and".
 
 Subsecs. (g), (h). Pub. L. 101–597, §401(b)[(a)], substituted reference to health professional shortage area for reference to health manpower shortage area.
 
-**1988**—Subsec. (a)(3). Pub. L. 100–607 and Pub. L. 100–628 made identical amendments, substituting “section 256(r)” for “section 256(q)(2)”.
+**1988**—Subsec. (a)(3). Pub. L. 100–607 and Pub. L. 100–628 made identical amendments, substituting "section 256(r)" for "section 256(q)(2)".
 
 **1987**—Subsec. (a)(1). Pub. L. 100–177, §302(1), inserted sentence at end relating to removal of an area from areas determined to be health manpower shortage areas.
 
@@ -174,13 +174,13 @@ Subsec. (b)(2)(D). Pub. L. 100–177, §302(2), added subpar. (D).
 
 **1981**—Subsec. (a)(1)(A). Pub. L. 97–35, §2702(a), inserted provisions respecting reasonable accessibility to adequately served area.
 
-Subsec. (a)(2)(C). Pub. L. 97–35, §986(b)(4), substituted “persons under quarantine” for “seamen”.
+Subsec. (a)(2)(C). Pub. L. 97–35, §986(b)(4), substituted "persons under quarantine" for "seamen".
 
 Subsec. (e). Pub. L. 97–35, §2702(c), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (h). Pub. L. 97–35, §2702(b), substituted “may” for “shall”.
+Subsec. (h). Pub. L. 97–35, §2702(b), substituted "may" for "shall".
 
-**1979**—Subsec. (a)(2)(C). Pub. L. 96–32 substituted “section 247e of this title” for “part D of subchapter II of this chapter”.
+**1979**—Subsec. (a)(2)(C). Pub. L. 96–32 substituted "section 247e of this title" for "part D of subchapter II of this chapter".
 
 **1977**—Subsec. (c)(3). Pub. L. 95–142 added par. (3).
 
@@ -190,9 +190,9 @@ Amendments by Pub. L. 108–163 deemed to have taken effect immediately after th
 
 #### Effective Date of 1988 Amendments ####
 
-Pub. L. 100–628, title VI, §631, Nov. 7, 1988, 102 Stat. 3244, provided that: “The amendments made by subsection (a) of section 601 [amending section 256 of this title] shall take effect in accordance with subsection (b) of such section [formerly set out as a note under section 256 of this title]. The amendments otherwise made by this title [amending this section and sections 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, and 290ee–1 of this title and amending provisions set out as a note under section 290aa–3 of this title] shall take effect October 1, 1988, or upon the date of the enactment of this Act [Nov. 7, 1988], whichever occurs later.”
+Pub. L. 100–628, title VI, §631, Nov. 7, 1988, 102 Stat. 3244, provided that: "The amendments made by subsection (a) of section 601 [amending section 256 of this title] shall take effect in accordance with subsection (b) of such section [formerly set out as a note under section 256 of this title]. The amendments otherwise made by this title [amending this section and sections 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, and 290ee–1 of this title and amending provisions set out as a note under section 290aa–3 of this title] shall take effect October 1, 1988, or upon the date of the enactment of this Act [Nov. 7, 1988], whichever occurs later."
 
-Pub. L. 100–607, title VIII, §831, Nov. 4, 1988, 102 Stat. 3171, provided that: “The amendments made by subsection (a) of section 801 [amending section 256 of this title] shall take effect in accordance with subsection (b) of such section [formerly set out as a note under section 256 of this title]. The amendments otherwise made by this title [amending this section and sections 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, and 290ee–1 of this title and amending provisions set out as a note under section 290aa–3 of this title] shall take effect October 1, 1988, or upon the date of the enactment of this Act [Nov. 4, 1988], whichever occurs later.”
+Pub. L. 100–607, title VIII, §831, Nov. 4, 1988, 102 Stat. 3171, provided that: "The amendments made by subsection (a) of section 801 [amending section 256 of this title] shall take effect in accordance with subsection (b) of such section [formerly set out as a note under section 256 of this title]. The amendments otherwise made by this title [amending this section and sections 256, 290bb–2, 290cc–21, 290cc–28, 290cc–29, 290cc–35, 290cc–36, 290dd, 290ee, and 290ee–1 of this title and amending provisions set out as a note under section 290aa–3 of this title] shall take effect October 1, 1988, or upon the date of the enactment of this Act [Nov. 4, 1988], whichever occurs later."
 
 #### Effective Date of 1981 Amendment ####
 
@@ -200,7 +200,7 @@ Amendment by section 986(b)(4) of Pub. L. 97–35 effective Oct. 1, 1981, see se
 
 #### Effective Date of 1977 Amendment ####
 
-Pub. L. 95–142, §7(e)(1), Oct. 25, 1977, 91 Stat. 1194, provided that: “The amendment made by subsection (d) [amending this section] shall apply with respect to determinations and designations made on and after the date of the enactment of this Act [Oct. 25, 1977].”
+Pub. L. 95–142, §7(e)(1), Oct. 25, 1977, 91 Stat. 1194, provided that: "The amendment made by subsection (d) [amending this section] shall apply with respect to determinations and designations made on and after the date of the enactment of this Act [Oct. 25, 1977]."
 
 #### Regulations ####
 
@@ -208,11 +208,11 @@ Pub. L. 107–251, title III, §302(b), Oct. 26, 2002, 116 Stat. 1644, which req
 
 #### Improvement of Site Designation Process ####
 
-Pub. L. 107–251, title III, §302(d)(1), Oct. 26, 2002, 116 Stat. 1644, provided that: “The Administrator of the Health Resources and Services Administration, in consultation with the Association of State and Territorial Dental Directors, dental societies, and other interested parties, shall revise the criteria on which the designations of dental health professional shortage areas are based so that such criteria provide a more accurate reflection of oral health care need, particularly in rural areas.”
+Pub. L. 107–251, title III, §302(d)(1), Oct. 26, 2002, 116 Stat. 1644, provided that: "The Administrator of the Health Resources and Services Administration, in consultation with the Association of State and Territorial Dental Directors, dental societies, and other interested parties, shall revise the criteria on which the designations of dental health professional shortage areas are based so that such criteria provide a more accurate reflection of oral health care need, particularly in rural areas."
 
 #### GAO Study ####
 
-Pub. L. 107–251, title III, §302(e), Oct. 26, 2002, 116 Stat. 1645, provided that: “Not later than February 1, 2005, the Comptroller General of the United States shall submit to the Congress a report on the appropriateness of the criteria, including but not limited to infant mortality rates, access to health services taking into account the distance to primary health services, the rate of poverty and ability to pay for health services, and low birth rates, established by the Secretary of Health and Human Services for the designation of health professional shortage areas and whether the deeming of federally qualified health centers and rural health clinics as such areas is appropriate and necessary.”
+Pub. L. 107–251, title III, §302(e), Oct. 26, 2002, 116 Stat. 1645, provided that: "Not later than February 1, 2005, the Comptroller General of the United States shall submit to the Congress a report on the appropriateness of the criteria, including but not limited to infant mortality rates, access to health services taking into account the distance to primary health services, the rate of poverty and ability to pay for health services, and low birth rates, established by the Secretary of Health and Human Services for the designation of health professional shortage areas and whether the deeming of federally qualified health centers and rural health clinics as such areas is appropriate and necessary."
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center ####
 

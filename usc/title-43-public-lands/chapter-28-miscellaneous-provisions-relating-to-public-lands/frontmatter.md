@@ -8,7 +8,7 @@ Sec.
 
 #### SUBCHAPTER II—DISPOSITION OF SUSPENDED ENTRIES AND CLAIMS; INVALID AND DEFECTIVE CLAIMS AND PATENTS THEREFOR ####
 
-1161. “Suspended entries of public lands” and “suspended preemption land claims”.
+1161. "Suspended entries of public lands" and "suspended preemption land claims".
 
 1162. Adjudications as to suspended entries; approval.
 

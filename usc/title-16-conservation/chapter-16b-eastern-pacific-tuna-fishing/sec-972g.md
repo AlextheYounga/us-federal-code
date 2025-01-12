@@ -32,7 +32,7 @@ Notwithstanding the provisions of section 2464 of title 28, when a warrant of ar
 
 #### Change of Name ####
 
-“United States magistrate judges” substituted for “United States magistrates” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+"United States magistrate judges" substituted for "United States magistrates" in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Transfer of Functions ####
 

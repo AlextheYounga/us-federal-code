@@ -18,7 +18,7 @@
 
 (2) The Commandant shall periodically publish a list of the positions designated under paragraph (1).
 
-(3) In this subsection each of the terms “Level 1 acquisition” and “Level 2 acquisition” has the meaning that term has in chapter 15 of this title.
+(3) In this subsection each of the terms "Level 1 acquisition" and "Level 2 acquisition" has the meaning that term has in chapter 15 of this title.
 
 (c) Functions of the Chief Acquisition Officer.—The functions of the Chief Acquisition Officer include—
 
@@ -44,16 +44,16 @@
 
 #### Selection Deadline ####
 
-Pub. L. 111–281, title IV, §401(c), Oct. 15, 2010, 124 Stat. 2930, provided that: “As soon as practicable after the date of enactment of this Act [Oct. 15, 2010], but no later than October 1, 2011, the Commandant of the Coast Guard shall select a Chief Acquisition Officer under section 56 of title 14, United States Code, as amended by this section.”
+Pub. L. 111–281, title IV, §401(c), Oct. 15, 2010, 124 Stat. 2930, provided that: "As soon as practicable after the date of enactment of this Act [Oct. 15, 2010], but no later than October 1, 2011, the Commandant of the Coast Guard shall select a Chief Acquisition Officer under section 56 of title 14, United States Code, as amended by this section."
 
 #### Special Rate Supplements ####
 
 Pub. L. 111–281, title IV, §401(d), Oct. 15, 2010, 124 Stat. 2930, as amended by Pub. L. 111–330, §1(3), Dec. 22, 2010, 124 Stat. 3569, provided that:
 
-“(1) Requirement to establish.—Not later than 1 year after the date of enactment of this Act [Oct. 15, 2010] and in accordance with section 9701.333 of title 5, Code of Federal Regulations, the Commandant of the Coast Guard shall establish special rate supplements that provide higher pay levels for employees necessary to carry out the amendment made by this section [adding this section].
+"(1) Requirement to establish.—Not later than 1 year after the date of enactment of this Act [Oct. 15, 2010] and in accordance with section 9701.333 of title 5, Code of Federal Regulations, the Commandant of the Coast Guard shall establish special rate supplements that provide higher pay levels for employees necessary to carry out the amendment made by this section [adding this section].
 
-“(2) Subject to appropriations.—The requirement under paragraph (1) is subject to the availability of appropriations.”
+"(2) Subject to appropriations.—The requirement under paragraph (1) is subject to the availability of appropriations."
 
 #### Elevation of Disputes to the Chief Acquisition Officer ####
 
-Pub. L. 111–281, title IV, §401(e), Oct. 15, 2010, 124 Stat. 2931, provided that: “If, after 90 days following the elevation to the Chief Acquisition Officer of any design or other dispute regarding Level 1 or Level 2 acquisition, the dispute remains unresolved, the Commandant shall provide to the appropriate congressional committees a detailed description of the issue and the rationale underlying the decision taken by the Chief Acquisition Officer to resolve the issue.”
+Pub. L. 111–281, title IV, §401(e), Oct. 15, 2010, 124 Stat. 2931, provided that: "If, after 90 days following the elevation to the Chief Acquisition Officer of any design or other dispute regarding Level 1 or Level 2 acquisition, the dispute remains unresolved, the Commandant shall provide to the appropriate congressional committees a detailed description of the issue and the rationale underlying the decision taken by the Chief Acquisition Officer to resolve the issue."

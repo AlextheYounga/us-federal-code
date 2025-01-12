@@ -26,4 +26,4 @@ Congress finds that—
 
 #### Short Title ####
 
-Pub. L. 108–184, §1, Dec. 16, 2003, 117 Stat. 2676, provided that: “This Act [enacting this subchapter] may be cited as the ‘National Museum of African American History and Culture Act’.”
+Pub. L. 108–184, §1, Dec. 16, 2003, 117 Stat. 2676, provided that: "This Act [enacting this subchapter] may be cited as the 'National Museum of African American History and Culture Act'."

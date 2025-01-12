@@ -8,7 +8,7 @@
 
 (A) In general.—Paragraph (1) shall not apply to any commodity trading advisor that is registered with the Securities and Exchange Commission as an investment adviser whose business does not consist primarily of acting as a commodity trading advisor, as defined in section 1a of this title, and that does not act as a commodity trading advisor to any commodity pool that is engaged primarily in trading commodity interests.
 
-(B) Engaged primarily.—For purposes of subparagraph (A), a commodity trading advisor or a commodity pool shall be considered to be “engaged primarily” in the business of being a commodity trading advisor or commodity pool if it is or holds itself out to the public as being engaged primarily, or proposes to engage primarily, in the business of advising on commodity interests or investing, reinvesting, owning, holding, or trading in commodity interests, respectively.
+(B) Engaged primarily.—For purposes of subparagraph (A), a commodity trading advisor or a commodity pool shall be considered to be "engaged primarily" in the business of being a commodity trading advisor or commodity pool if it is or holds itself out to the public as being engaged primarily, or proposes to engage primarily, in the business of advising on commodity interests or investing, reinvesting, owning, holding, or trading in commodity interests, respectively.
 
 (C) Commodity interests.—For purposes of this paragraph, commodity interests shall include contracts of sale of a commodity for future delivery, options on such contracts, security futures, swaps, leverage contracts, foreign exchange, spot and forward contracts on physical commodities, and any monies held in an account used for trading commodity interests.
 
@@ -22,9 +22,9 @@ The Securities Exchange Act of 1934, referred to in par. (2), is act June 6, 193
 
 #### Amendments ####
 
-**2010**—Par. (3). Pub. L. 111–203, §749(b), inserted heading, designated existing provisions as subpar. (A) and inserted heading, substituted “Paragraph (1)” for “Subsection (1) of this section” and “to any commodity pool that is engaged primarily in trading commodity interests.” for “to any investment trust, syndicate, or similar form of enterprise that is engaged primarily in trading in any commodity for future delivery on or subject to the rules of any contract market or registered derivatives transaction execution facility.”, and added subpars. (B) and (C).
+**2010**—Par. (3). Pub. L. 111–203, §749(b), inserted heading, designated existing provisions as subpar. (A) and inserted heading, substituted "Paragraph (1)" for "Subsection (1) of this section" and "to any commodity pool that is engaged primarily in trading commodity interests." for "to any investment trust, syndicate, or similar form of enterprise that is engaged primarily in trading in any commodity for future delivery on or subject to the rules of any contract market or registered derivatives transaction execution facility.", and added subpars. (B) and (C).
 
-Pub. L. 111–203, §721(e)(2), substituted “section 1a” for “section 1a(6)”.
+Pub. L. 111–203, §721(e)(2), substituted "section 1a" for "section 1a(6)".
 
 **2000**—Par. (3). Pub. L. 106–554 added par. (3).
 

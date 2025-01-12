@@ -82,9 +82,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **1991**—Subsec. (a). Pub. L. 102–237, §1006(a)(9), removed last sentence from par. (2) and placed it as a full measure sentence under par. (2).
 
-Subsec. (c). Pub. L. 102–237, §1006(b)(2), substituted “the Administrator's” for “his”.
+Subsec. (c). Pub. L. 102–237, §1006(b)(2), substituted "the Administrator's" for "his".
 
-**1988**—Subsec. (c). Pub. L. 100–532 substituted “prescribe. The Secretary” for “prescribe: *Provided*, That the Secretary” and “bond. All” for “bond: *And provided further*, That all”.
+**1988**—Subsec. (c). Pub. L. 100–532 substituted "prescribe. The Secretary" for "prescribe: *Provided*, That the Secretary" and "bond. All" for "bond: *And provided further*, That all".
 
 **1978**—Subsec. (a). Pub. L. 95–396, §18(a)(1), amended subsec. (a) generally.
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 100–532 effective on expiration of 60 days after Oct. 25,
 
 #### Effective Date of 1978 Amendment ####
 
-Pub. L. 95–396, §18(b), Sept. 30, 1978, 92 Stat. 833, provided that: “The amendment made by subsection (a)(1) of this section [amending this section] shall become effective one hundred and eighty days after the date of enactment of this Act [Sept. 30, 1978].”
+Pub. L. 95–396, §18(b), Sept. 30, 1978, 92 Stat. 833, provided that: "The amendment made by subsection (a)(1) of this section [amending this section] shall become effective one hundred and eighty days after the date of enactment of this Act [Sept. 30, 1978]."
 
 #### Effective Date ####
 

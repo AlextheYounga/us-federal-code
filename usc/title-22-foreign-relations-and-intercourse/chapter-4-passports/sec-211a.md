@@ -6,21 +6,21 @@ The Secretary of State may grant and issue passports, and cause passports to be 
 
 #### Amendments ####
 
-**1994**—Pub. L. 103–415, §1(b)(1), substituted “such other employees” for “such employees”.
+**1994**—Pub. L. 103–415, §1(b)(1), substituted "such other employees" for "such employees".
 
-Pub. L. 103–415, §1(b)(2), which directed the amendment of this section by substituting “United States” for “United States,” was executed by making the substitution after “who are citizens of the”, to reflect the probable intent of Congress.
+Pub. L. 103–415, §1(b)(2), which directed the amendment of this section by substituting "United States" for "United States," was executed by making the substitution after "who are citizens of the", to reflect the probable intent of Congress.
 
-Pub. L. 103–236 substituted “by diplomatic and consular officers of the United States, and by other employees of the Department of State who are citizens of the United States,” for “by diplomatic representatives of the United States, and by such consul generals, consuls, or vice consuls when in charge,”.
+Pub. L. 103–236 substituted "by diplomatic and consular officers of the United States, and by other employees of the Department of State who are citizens of the United States," for "by diplomatic representatives of the United States, and by such consul generals, consuls, or vice consuls when in charge,".
 
 **1978**—Pub. L. 95–426 inserted provision prohibiting passport restrictions except for countries with which the United States is at war, where armed hostilities are in progress or there is imminent danger to the public health or physical safety of United States travellers.
 
 #### Short Title of 2006 Amendment ####
 
-Pub. L. 109–167, §1, Jan. 10, 2006, 119 Stat. 3578, provided that: “This Act [amending section 214 of this title] may be cited as the ‘Passport Services Enhancement Act of 2005’.”
+Pub. L. 109–167, §1, Jan. 10, 2006, 119 Stat. 3578, provided that: "This Act [amending section 214 of this title] may be cited as the 'Passport Services Enhancement Act of 2005'."
 
 #### Limitations on Use of Funds for Procurement of Paper for Passports ####
 
-Pub. L. 100–440, title VI, §617(b), Sept. 22, 1988, 102 Stat. 1755, provided that: “None of the funds made available by this or any other Act with respect to any fiscal year may be used to procure paper for passports granted or issued pursuant to the first section of the Act entitled ‘An Act to regulate the issue and validity of passports, and for other purposes’, approved July 3, 1926 (22 U.S.C. 211a), if such paper is manufactured outside of the United States or its possessions or is procured from any corporation or other entity owned or controlled by persons not citizens of the United States. This subsection shall not apply if no domestic manufacturer for passport paper exists.”
+Pub. L. 100–440, title VI, §617(b), Sept. 22, 1988, 102 Stat. 1755, provided that: "None of the funds made available by this or any other Act with respect to any fiscal year may be used to procure paper for passports granted or issued pursuant to the first section of the Act entitled 'An Act to regulate the issue and validity of passports, and for other purposes', approved July 3, 1926 (22 U.S.C. 211a), if such paper is manufactured outside of the United States or its possessions or is procured from any corporation or other entity owned or controlled by persons not citizens of the United States. This subsection shall not apply if no domestic manufacturer for passport paper exists."
 
 Similar provisions were contained in the following prior appropriation act:
 
@@ -28,7 +28,7 @@ Pub. L. 100–202, §101(m) [title VI, §622(b)], Dec. 22, 1987, 101 Stat. 1329�
 
 #### Persons Entitled to Diplomatic or Official United States Passport ####
 
-Pub. L. 95–426, title I, §125, Oct. 7, 1978, 92 Stat. 971, provided that: “It is the sense of the Congress that a diplomatic or official United States passport should be issued only to, and used only by, a person who holds a diplomatic or other official position in the United States Government or who is otherwise eligible for such a passport under conditions specifically authorized by law.”
+Pub. L. 95–426, title I, §125, Oct. 7, 1978, 92 Stat. 971, provided that: "It is the sense of the Congress that a diplomatic or official United States passport should be issued only to, and used only by, a person who holds a diplomatic or other official position in the United States Government or who is otherwise eligible for such a passport under conditions specifically authorized by law."
 
 #### Ex. Ord. No. 11295. Rules Governing Granting, Issuing, and Verifying of Passports ####
 
@@ -40,9 +40,9 @@ Section 1. *Delegation of authority*. The Secretary of State is hereby designate
 
 Sec. 2. *Superseded orders*. Subject to Section 3 of this order, the following are hereby superseded:
 
-(1) Executive Order No. 7856 of March 31, 1938, entitled “Rules Governing the Granting and Issuing of Passports in the United States.”
+(1) Executive Order No. 7856 of March 31, 1938, entitled "Rules Governing the Granting and Issuing of Passports in the United States."
 
-(2) Executive Order No. 8820 of July 11, 1941, entitled “Amending the Foreign Service Regulations of the United States.”
+(2) Executive Order No. 8820 of July 11, 1941, entitled "Amending the Foreign Service Regulations of the United States."
 
 Sec. 3. *Saving provisions*. All rules and regulations contained in the Executive order provisions revoked by Section 2 of this order, and all rules and regulations issued under the authority of those provisions, which are in force at the time of the issuance of this order shall remain in full force and effect until revoked, or except as they may be hereafter amended or modified, in pursuance of the authority conferred by this order, unless sooner terminated by operation of law.
 

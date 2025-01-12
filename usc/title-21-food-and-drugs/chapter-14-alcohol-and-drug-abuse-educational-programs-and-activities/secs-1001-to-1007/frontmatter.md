@@ -12,7 +12,7 @@ Section 1005, Pub. L. 91–527, §6, Dec. 3, 1970, 84 Stat. 1388, related to nat
 
 Section 1006, Pub. L. 91–527, §7, Dec. 3, 1970, 84 Stat. 1388, related to utilization of services and facilities of Federal agencies and public and private agencies and institutions.
 
-Section 1007, Pub. L. 91–527, §8, Dec. 3, 1970, 84 Stat. 1388; Pub. L. 93–422, §2(f), Sept. 21, 1974, 88 Stat. 1157; Pub. L. 95–336, §5, Aug. 4, 1978, 92 Stat. 453; Pub. L. 96–88, title III, §301(a)(1), (2)(Q), title V, §507, Oct. 17, 1979, 93 Stat. 677, 678, 692, defined “Secretary” and “State”.
+Section 1007, Pub. L. 91–527, §8, Dec. 3, 1970, 84 Stat. 1388; Pub. L. 93–422, §2(f), Sept. 21, 1974, 88 Stat. 1157; Pub. L. 95–336, §5, Aug. 4, 1978, 92 Stat. 453; Pub. L. 96–88, title III, §301(a)(1), (2)(Q), title V, §507, Oct. 17, 1979, 93 Stat. 677, 678, 692, defined "Secretary" and "State".
 
 #### Effective Date of Repeal ####
 

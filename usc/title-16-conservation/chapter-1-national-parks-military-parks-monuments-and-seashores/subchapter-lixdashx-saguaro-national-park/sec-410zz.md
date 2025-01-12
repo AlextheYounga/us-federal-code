@@ -20,4 +20,4 @@ The Congress finds that—
 
 #### Short Title ####
 
-Pub. L. 103–364, §1, Oct. 14, 1994, 108 Stat. 3467, provided that: “This Act [enacting this subchapter and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under section 431 of this title] may be cited as the ‘Saguaro National Park Establishment Act of 1994’.”
+Pub. L. 103–364, §1, Oct. 14, 1994, 108 Stat. 3467, provided that: "This Act [enacting this subchapter and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under section 431 of this title] may be cited as the 'Saguaro National Park Establishment Act of 1994'."

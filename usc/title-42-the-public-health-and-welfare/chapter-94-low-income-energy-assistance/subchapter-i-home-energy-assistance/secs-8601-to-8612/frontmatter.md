@@ -2,7 +2,7 @@
 
 Section 8601, Pub. L. 96–223, title III, §302, Apr. 2, 1980, 94 Stat. 288, set forth Congressional findings and declaration of purpose for low-income energy assistance program.
 
-Section 8602, Pub. L. 96–223, title III, §303, Apr. 2, 1980, 94 Stat. 288, defined “household”, “home energy”, “lower living standard income level”, “Secretary”, and “State”.
+Section 8602, Pub. L. 96–223, title III, §303, Apr. 2, 1980, 94 Stat. 288, defined "household", "home energy", "lower living standard income level", "Secretary", and "State".
 
 Section 8603, Pub. L. 96–223, title III, §304, Apr. 2, 1980, 94 Stat. 289, related to authorizations for home energy grants.
 
@@ -30,4 +30,4 @@ Pub. L. 97–35, title XXVI, §2611, Aug. 13, 1981, 95 Stat. 902, provided that 
 
 #### Short Title ####
 
-Pub. L. 96–223, title III, §301, Apr. 2, 1980, 94 Stat. 288, provided that title III of Pub. L. 96–223, which enacted sections 8601 to 8612 of this title, and amended section 2014(d) of Title 7, Agriculture, was to be cited as the “Home Energy Assistance Act of 1980”, prior to repeal by Pub. L. 97–35, title XXVI, §2611, Aug. 13, 1981, 95 Stat. 902.
+Pub. L. 96–223, title III, §301, Apr. 2, 1980, 94 Stat. 288, provided that title III of Pub. L. 96–223, which enacted sections 8601 to 8612 of this title, and amended section 2014(d) of Title 7, Agriculture, was to be cited as the "Home Energy Assistance Act of 1980", prior to repeal by Pub. L. 97–35, title XXVI, §2611, Aug. 13, 1981, 95 Stat. 902.

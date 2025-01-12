@@ -6,6 +6,6 @@ There are hereby authorized to be appropriated the sums of not more than $2,130,
 
 #### Amendments ####
 
-**1992**—Pub. L. 102–576 substituted “$2,130,000” for “$630,000” and “$9,300,000” for “$4,100,000”.
+**1992**—Pub. L. 102–576 substituted "$2,130,000" for "$630,000" and "$9,300,000" for "$4,100,000".
 
-**1976**—Pub. L. 94–578 substituted “$4,100,000” for “$1,337,000”.
+**1976**—Pub. L. 94–578 substituted "$4,100,000" for "$1,337,000".

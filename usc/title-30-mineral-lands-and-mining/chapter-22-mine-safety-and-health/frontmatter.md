@@ -134,7 +134,7 @@ Sec.
 
 933. Duties of operators in States not qualifying under workmen's compensation laws.
 
-934. “Fund” defined; liability of operators to United States for repayments to fund; procedures applicable; rate of interest.
+934. "Fund" defined; liability of operators to United States for repayments to fund; procedures applicable; rate of interest.
 
 934a. Repealed.
 

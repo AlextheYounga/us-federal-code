@@ -50,4 +50,4 @@ Chapter repealed effective Oct. 1, 1998, by Pub. L. 99–554, title III, §302(f
 
 #### Amendments ####
 
-**2005**—Pub. L. 109–8, title X, §1007(c)(1), Apr. 20, 2005, 119 Stat. 188, inserted “OR FISHERMAN” after “FAMILY FARMER” in chapter heading.
+**2005**—Pub. L. 109–8, title X, §1007(c)(1), Apr. 20, 2005, 119 Stat. 188, inserted "OR FISHERMAN" after "FAMILY FARMER" in chapter heading.

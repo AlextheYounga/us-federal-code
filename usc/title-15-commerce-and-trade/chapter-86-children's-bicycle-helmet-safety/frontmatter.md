@@ -12,4 +12,4 @@ Sec.
 
 6005. Authorization of appropriations.
 
-6006. “Approved bicycle helmet” defined.
+6006. "Approved bicycle helmet" defined.

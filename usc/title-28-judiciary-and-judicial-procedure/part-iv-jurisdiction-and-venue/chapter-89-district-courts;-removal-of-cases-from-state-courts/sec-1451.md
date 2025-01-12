@@ -2,9 +2,9 @@
 
 For purposes of this chapter—
 
-(1) The term “State court” includes the Superior Court of the District of Columbia.
+(1) The term "State court" includes the Superior Court of the District of Columbia.
 
-(2) The term “State” includes the District of Columbia.
+(2) The term "State" includes the District of Columbia.
 
 (Added Pub. L. 91–358, title I, §172(d)(1), July 29, 1970, 84 Stat. 591.)
 

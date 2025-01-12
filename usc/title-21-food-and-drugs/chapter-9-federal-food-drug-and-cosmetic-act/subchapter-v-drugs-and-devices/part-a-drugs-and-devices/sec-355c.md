@@ -258,7 +258,7 @@ The Secretary—
 
 #### (3) Agreed initial pediatric study plan ####
 
-Not later than 90 calendar days following the meeting under paragraph (2)(C)(i) or the receipt of a written response from the Secretary under paragraph (2)(C)(iii), the applicant shall document agreement on the initial pediatric study plan in a submission to the Secretary marked “Agreed Initial Pediatric Study Plan”, and the Secretary shall confirm such agreement to the applicant in writing not later than 30 calendar days of receipt of such agreed initial pediatric study plan.
+Not later than 90 calendar days following the meeting under paragraph (2)(C)(i) or the receipt of a written response from the Secretary under paragraph (2)(C)(iii), the applicant shall document agreement on the initial pediatric study plan in a submission to the Secretary marked "Agreed Initial Pediatric Study Plan", and the Secretary shall confirm such agreement to the applicant in writing not later than 30 calendar days of receipt of such agreed initial pediatric study plan.
 
 #### (4) Deferral and waiver ####
 
@@ -434,57 +434,57 @@ A biological product that is interchangeable with a reference product under sect
 
 #### Amendments ####
 
-**2012**—Subsec. (a)(1). Pub. L. 112–144, §509(b)(1)(A), inserted “for a drug” after “(or supplement to an application)” in introductory provisions.
+**2012**—Subsec. (a)(1). Pub. L. 112–144, §509(b)(1)(A), inserted "for a drug" after "(or supplement to an application)" in introductory provisions.
 
-Subsec. (a)(3)(A)(ii)(II). Pub. L. 112–144, §506(b)(1), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “a description of the planned or ongoing studies;”.
+Subsec. (a)(3)(A)(ii)(II). Pub. L. 112–144, §506(b)(1), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: "a description of the planned or ongoing studies;".
 
 Subsec. (a)(3)(B), (C). Pub. L. 112–144, §505(a)(1)(A), (B), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 Subsec. (a)(3)(C)(i)(III), (IV). Pub. L. 112–144, §505(a)(1)(C)(i), added subcls. (III) and (IV).
 
-Subsec. (a)(3)(C)(ii). Pub. L. 112–144, §505(a)(1)(C)(ii), amended cl. (ii) generally. Prior to amendment, text read as follows: “The information submitted through the annual review under clause (i) shall promptly be made available to the public in an easily accessible manner, including through the Web site of the Food and Drug Administration.”
+Subsec. (a)(3)(C)(ii). Pub. L. 112–144, §505(a)(1)(C)(ii), amended cl. (ii) generally. Prior to amendment, text read as follows: "The information submitted through the annual review under clause (i) shall promptly be made available to the public in an easily accessible manner, including through the Web site of the Food and Drug Administration."
 
-Subsec. (a)(4)(C). Pub. L. 112–144, §509(b)(1)(B), inserted “partial” after “If a” in first sentence and substituted “such a” for “either a full or” in second sentence.
+Subsec. (a)(4)(C). Pub. L. 112–144, §509(b)(1)(B), inserted "partial" after "If a" in first sentence and substituted "such a" for "either a full or" in second sentence.
 
-Subsec. (b)(1). Pub. L. 112–144, §509(b)(2), substituted “The” for “After providing notice in the form of a letter (that, for a drug approved under section 355 of this title, references a declined written request under section 355a of this title for a labeled indication which written request is not referred under section 355a(n)(1)(A) of this title to the Foundation of the National Institutes of Health for the pediatric studies), the” in introductory provisions.
+Subsec. (b)(1). Pub. L. 112–144, §509(b)(2), substituted "The" for "After providing notice in the form of a letter (that, for a drug approved under section 355 of this title, references a declined written request under section 355a of this title for a labeled indication which written request is not referred under section 355a(n)(1)(A) of this title to the Foundation of the National Institutes of Health for the pediatric studies), the" in introductory provisions.
 
 Subsec. (d). Pub. L. 112–144, §505(c)(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to submission of assessments.
 
-Subsec. (e). Pub. L. 112–144, §506(a), amended subsec. (e) generally. Prior to amendment, text read as follows: “Before and during the investigational process for a new drug or biological product, the Secretary shall meet at appropriate times with the sponsor of the new drug or biological product to discuss—
+Subsec. (e). Pub. L. 112–144, §506(a), amended subsec. (e) generally. Prior to amendment, text read as follows: "Before and during the investigational process for a new drug or biological product, the Secretary shall meet at appropriate times with the sponsor of the new drug or biological product to discuss—
 
-“(1) information that the sponsor submits on plans and timelines for pediatric studies; or
+"(1) information that the sponsor submits on plans and timelines for pediatric studies; or
 
-“(2) any planned request by the sponsor for waiver or deferral of pediatric studies.”
+"(2) any planned request by the sponsor for waiver or deferral of pediatric studies."
 
-Subsec. (f). Pub. L. 112–144, §506(b)(2)(A), substituted “pediatric study plans,” for “pediatric plans,” in heading.
+Subsec. (f). Pub. L. 112–144, §506(b)(2)(A), substituted "pediatric study plans," for "pediatric plans," in heading.
 
-Pub. L. 112–144, §505(a)(2)(A), inserted “deferral extensions,” after “deferrals,” in heading.
+Pub. L. 112–144, §505(a)(2)(A), inserted "deferral extensions," after "deferrals," in heading.
 
-Subsec. (f)(1). Pub. L. 112–144, §506(b)(2)(B), substituted “initial pediatric study plans, agreed initial pediatric study plans,” for “all pediatric plans”.
+Subsec. (f)(1). Pub. L. 112–144, §506(b)(2)(B), substituted "initial pediatric study plans, agreed initial pediatric study plans," for "all pediatric plans".
 
-Pub. L. 112–144, §505(a)(2)(B), inserted “, deferral extension,” after “deferral”.
+Pub. L. 112–144, §505(a)(2)(B), inserted ", deferral extension," after "deferral".
 
-Subsec. (f)(4). Pub. L. 112–144, §506(b)(2)(C), substituted “pediatric study plans,” for “pediatric plans,” in heading and “initial pediatric study plans, agreed initial pediatric study plans,” for “pediatric plans” in text.
+Subsec. (f)(4). Pub. L. 112–144, §506(b)(2)(C), substituted "pediatric study plans," for "pediatric plans," in heading and "initial pediatric study plans, agreed initial pediatric study plans," for "pediatric plans" in text.
 
-Pub. L. 112–144, §505(a)(2)(C), inserted “deferral extensions,” after “deferrals,” in heading and “, deferral extensions,” after “deferrals” in text.
+Pub. L. 112–144, §505(a)(2)(C), inserted "deferral extensions," after "deferrals," in heading and ", deferral extensions," after "deferrals" in text.
 
-Subsec. (f)(6)(D). Pub. L. 112–144, §505(b), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the total number of deferrals requested and granted under this section and, if granted, the reasons for such deferrals, the timeline for completion, and the number completed and pending by the specified date, as outlined in subsection (a)(3);”.
+Subsec. (f)(6)(D). Pub. L. 112–144, §505(b), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "the total number of deferrals requested and granted under this section and, if granted, the reasons for such deferrals, the timeline for completion, and the number completed and pending by the specified date, as outlined in subsection (a)(3);".
 
 Subsec. (f)(6)(D)(iv). Pub. L. 112–144, §505(c)(2), added cl. (iv).
 
-Subsec. (g)(1)(A). Pub. L. 112–144, §509(b)(3)(A), inserted “that receives a priority review or 330 days after the date of the submission of an application or supplement that receives a standard review” after “after the date of the submission of the application or supplement” in introductory provisions.
+Subsec. (g)(1)(A). Pub. L. 112–144, §509(b)(3)(A), inserted "that receives a priority review or 330 days after the date of the submission of an application or supplement that receives a standard review" after "after the date of the submission of the application or supplement" in introductory provisions.
 
-Subsec. (g)(2). Pub. L. 112–144, §509(b)(3)(B), substituted “the labeling of such product” for “the label of such product”.
+Subsec. (g)(2). Pub. L. 112–144, §509(b)(3)(B), substituted "the labeling of such product" for "the label of such product".
 
-Subsec. (h)(1). Pub. L. 112–144, §509(b)(4), inserted “an application (or supplement to an application) that contains” after “date of submission of” and “if the application (or supplement) receives a priority review, or not later than 330 days after the date of submission of an application (or supplement to an application) that contains a pediatric assessment under this section, if the application (or supplement) receives a standard review,” after “under this section,”.
+Subsec. (h)(1). Pub. L. 112–144, §509(b)(4), inserted "an application (or supplement to an application) that contains" after "date of submission of" and "if the application (or supplement) receives a priority review, or not later than 330 days after the date of submission of an application (or supplement to an application) that contains a pediatric assessment under this section, if the application (or supplement) receives a standard review," after "under this section,".
 
-Subsec. (i)(1). Pub. L. 112–144, §509(b)(5)(A), substituted “first 18-month period” for “year one” in heading and “18-month” for “one-year” in text.
+Subsec. (i)(1). Pub. L. 112–144, §509(b)(5)(A), substituted "first 18-month period" for "year one" in heading and "18-month" for "one-year" in text.
 
-Subsec. (i)(2). Pub. L. 112–144, §509(b)(5)(B), substituted “periods” for “years” in heading and “18-month period” for “one-year period” in text.
+Subsec. (i)(2). Pub. L. 112–144, §509(b)(5)(B), substituted "periods" for "years" in heading and "18-month period" for "one-year period" in text.
 
 Subsec. (i)(3), (4). Pub. L. 112–144, §509(b)(5)(C), (D), added par. (3) and redesignated former par. (3) as (4).
 
-Subsecs. (m), (n). Pub. L. 112–144, §501(b), redesignated subsec. (n) as (m) and struck out former subsec. (m). Prior to amendment, text of subsec. (m) read as follows: “The authority under this section shall remain in effect so long as an application subject to this section may be accepted for filing by the Secretary on or before the date specified in section 355a(q) of this title.”
+Subsecs. (m), (n). Pub. L. 112–144, §501(b), redesignated subsec. (n) as (m) and struck out former subsec. (m). Prior to amendment, text of subsec. (m) read as follows: "The authority under this section shall remain in effect so long as an application subject to this section may be accepted for filing by the Secretary on or before the date specified in section 355a(q) of this title."
 
 **2010**—Subsec. (n). Pub. L. 111–148 added subsec. (n).
 
@@ -494,9 +494,9 @@ Subsecs. (m), (n). Pub. L. 112–144, §501(b), redesignated subsec. (n) as (m) 
 
 Pub. L. 112–144, title V, §506(c), July 9, 2012, 126 Stat. 1045, provided that:
 
-“(1) In general.—Subject to paragraph (2), the amendments made by this section [amending this section] shall take effect 180 calendar days after the date of enactment of this Act [July 9, 2012], irrespective of whether the Secretary [of Health and Human Services] has promulgated final regulations to carry out such amendments.
+"(1) In general.—Subject to paragraph (2), the amendments made by this section [amending this section] shall take effect 180 calendar days after the date of enactment of this Act [July 9, 2012], irrespective of whether the Secretary [of Health and Human Services] has promulgated final regulations to carry out such amendments.
 
-“(2) Rule of construction.—Paragraph (1) shall not be construed to affect the deadline for promulgation of proposed regulations under section 505B(e)(7) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355c(e)(7)], as added by subsection (a) of this section.”
+"(2) Rule of construction.—Paragraph (1) shall not be construed to affect the deadline for promulgation of proposed regulations under section 505B(e)(7) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355c(e)(7)], as added by subsection (a) of this section."
 
 Notwithstanding any provision of this section stating that a provision applies beginning on Sept. 27, 2007, any amendment made by Pub. L. 112–144 to such a provision applies beginning on July 9, 2012, subject to a transitional rule, see section 509(g) of Pub. L. 112–144, set out as a note under section 355a of this title.
 
@@ -504,30 +504,30 @@ Notwithstanding any provision of this section stating that a provision applies b
 
 Pub. L. 110–85, title IV, §402(b), Sept. 27, 2007, 121 Stat. 875, provided that:
 
-“(1) In general.—Notwithstanding subsection (h) of section 505B of the Federal Food, Drug and Cosmetic Act [21 U.S.C. 355c(h)], as in effect on the day before the date of the enactment of this Act [Sept. 27, 2007], a pending assessment, including a deferred assessment, required under such section 505B shall be deemed to have been required under section 505B of the Federal Food, Drug and Cosmetic Act as in effect on or after the date of the enactment of this Act.
+"(1) In general.—Notwithstanding subsection (h) of section 505B of the Federal Food, Drug and Cosmetic Act [21 U.S.C. 355c(h)], as in effect on the day before the date of the enactment of this Act [Sept. 27, 2007], a pending assessment, including a deferred assessment, required under such section 505B shall be deemed to have been required under section 505B of the Federal Food, Drug and Cosmetic Act as in effect on or after the date of the enactment of this Act.
 
-“(2) Certain assessments and waiver requests.—An assessment pending on or after the date that is 1 year prior to the date of the enactment of this Act shall be subject to the tracking and disclosure requirements established under such section 505B, as in effect on or after such date of enactment, except that any such assessments submitted or waivers of such assessments requested before such date of enactment shall not be subject to subsections (a)(4)(C), (b)(2)(C), (f)(6)(F), and (h) of such section 505B.”
+"(2) Certain assessments and waiver requests.—An assessment pending on or after the date that is 1 year prior to the date of the enactment of this Act shall be subject to the tracking and disclosure requirements established under such section 505B, as in effect on or after such date of enactment, except that any such assessments submitted or waivers of such assessments requested before such date of enactment shall not be subject to subsections (a)(4)(C), (b)(2)(C), (f)(6)(F), and (h) of such section 505B."
 
 #### Effective Date ####
 
 Pub. L. 108–155, §4, Dec. 3, 2003, 117 Stat. 1942, provided that:
 
-“(a) In General.—Subject to subsection (b), this Act [enacting this section, amending sections 355, 355a, and 355b of this title and sections 262 and 284m of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 301 of this title, and amending provisions set out as notes under section 355a of this title and section 284m of Title 42] and the amendments made by this Act take effect on the date of enactment of this Act [Dec. 3, 2003].
+"(a) In General.—Subject to subsection (b), this Act [enacting this section, amending sections 355, 355a, and 355b of this title and sections 262 and 284m of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 301 of this title, and amending provisions set out as notes under section 355a of this title and section 284m of Title 42] and the amendments made by this Act take effect on the date of enactment of this Act [Dec. 3, 2003].
 
-“(b) Applicability to New Drugs and Biological Products.—
+"(b) Applicability to New Drugs and Biological Products.—
 
-“(1) In general.—Subsection (a) of section 505B of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355c(a)] (as added by section 2) shall apply to an application described in paragraph (1) of that subsection submitted to the Secretary of Health and Human Services on or after April 1, 1999.
+"(1) In general.—Subsection (a) of section 505B of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355c(a)] (as added by section 2) shall apply to an application described in paragraph (1) of that subsection submitted to the Secretary of Health and Human Services on or after April 1, 1999.
 
-“(2) Waivers and deferrals.—
+"(2) Waivers and deferrals.—
 
-“(A) Waiver or deferral granted.—If, with respect to an application submitted to the Secretary of Health and Human Services between April 1, 1999, and the date of enactment of this Act [Dec. 3, 2003], a waiver or deferral of pediatric assessments was granted under regulations of the Secretary then in effect, the waiver or deferral shall be a waiver or deferral under subsection (a) of section 505B of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355c(a)], except that any date specified in such a deferral shall be extended by the number of days that is equal to the number of days between October 17, 2002, and the date of enactment of this Act.
+"(A) Waiver or deferral granted.—If, with respect to an application submitted to the Secretary of Health and Human Services between April 1, 1999, and the date of enactment of this Act [Dec. 3, 2003], a waiver or deferral of pediatric assessments was granted under regulations of the Secretary then in effect, the waiver or deferral shall be a waiver or deferral under subsection (a) of section 505B of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355c(a)], except that any date specified in such a deferral shall be extended by the number of days that is equal to the number of days between October 17, 2002, and the date of enactment of this Act.
 
-“(B) Waiver and deferral not granted.—If, with respect to an application submitted to the Secretary of Health and Human Services between April 1, 1999, and the date of enactment of this Act [Dec. 3, 2003], neither a waiver nor deferral of pediatric assessments was granted under regulations of the Secretary then in effect, the person that submitted the application shall be required to submit assessments under subsection (a)(2) of section 505B of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355c(a)(2)] on the date that is the later of—
+"(B) Waiver and deferral not granted.—If, with respect to an application submitted to the Secretary of Health and Human Services between April 1, 1999, and the date of enactment of this Act [Dec. 3, 2003], neither a waiver nor deferral of pediatric assessments was granted under regulations of the Secretary then in effect, the person that submitted the application shall be required to submit assessments under subsection (a)(2) of section 505B of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355c(a)(2)] on the date that is the later of—
 
-“(i) the date that is 1 year after the date of enactment of this Act; or
+"(i) the date that is 1 year after the date of enactment of this Act; or
 
-“(ii) such date as the Secretary may specify under subsection (a)(3) of that section;
+"(ii) such date as the Secretary may specify under subsection (a)(3) of that section;
 
  unless the Secretary grants a waiver under subsection (a)(4) of that section.
 
-“(c) No Limitation of Authority.—Neither the lack of guidance or regulations to implement this Act or the amendments made by this Act nor the pendency of the process for issuing guidance or regulations shall limit the authority of the Secretary of Health and Human Services under, or defer any requirement under, this Act or those amendments.”
+"(c) No Limitation of Authority.—Neither the lack of guidance or regulations to implement this Act or the amendments made by this Act nor the pendency of the process for issuing guidance or regulations shall limit the authority of the Secretary of Health and Human Services under, or defer any requirement under, this Act or those amendments."

@@ -16,7 +16,7 @@
 
 **2003**—Subsec. (b). Pub. L. 108–7 made technical amendment to reference in original act which appears in text as reference to section 530D of title 28.
 
-**2002**—Subsec. (b). Pub. L. 107–273 added subsec. (b) and struck out former subsec. (b) which read as follows: “The Attorney General shall notify the Counsel with respect to any proceeding in which the United States is a party of any determination by the Attorney General or Solicitor General not to appeal any court decision affecting the constitutionality of an Act or joint resolution of Congress within such time as will enable the Senate to direct the Counsel to intervene as a party in such proceeding pursuant to section 288e of this title.”
+**2002**—Subsec. (b). Pub. L. 107–273 added subsec. (b) and struck out former subsec. (b) which read as follows: "The Attorney General shall notify the Counsel with respect to any proceeding in which the United States is a party of any determination by the Attorney General or Solicitor General not to appeal any court decision affecting the constitutionality of an Act or joint resolution of Congress within such time as will enable the Senate to direct the Counsel to intervene as a party in such proceeding pursuant to section 288e of this title."
 
 #### Effective Date of 2003 Amendment ####
 

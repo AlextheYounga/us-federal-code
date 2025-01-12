@@ -192,7 +192,7 @@ The determination required by subparagraph (D) shall be concurred in by a licens
 
 (C) A decision under subparagraph (B)(ii) by the director shall be in writing, and may be made only after the Secretary has provided to the sponsor or applicant an opportunity for a meeting at which the director and the sponsor or applicant are present and at which the director documents the scientific issue involved.
 
-(8)(A) At any time, the Secretary may prohibit the sponsor of an investigation from conducting the investigation (referred to in this paragraph as a “clinical hold”) if the Secretary makes a determination described in subparagraph (B). The Secretary shall specify the basis for the clinical hold, including the specific information available to the Secretary which served as the basis for such clinical hold, and confirm such determination in writing.
+(8)(A) At any time, the Secretary may prohibit the sponsor of an investigation from conducting the investigation (referred to in this paragraph as a "clinical hold") if the Secretary makes a determination described in subparagraph (B). The Secretary shall specify the basis for the clinical hold, including the specific information available to the Secretary which served as the basis for such clinical hold, and confirm such determination in writing.
 
 (B) For purposes of subparagraph (A), a determination described in this subparagraph with respect to a clinical hold is a determination that—
 
@@ -246,7 +246,7 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 (1) Any device intended for human use—
 
-(A) for which on May 28, 1976 (hereinafter in this subsection referred to as the “enactment date”) an approval of an application submitted under section 355(b) of this title was in effect;
+(A) for which on May 28, 1976 (hereinafter in this subsection referred to as the "enactment date") an approval of an application submitted under section 355(b) of this title was in effect;
 
 (B) for which such an application was filed on or before the enactment date and with respect to which application no order of approval or refusing to approve had been issued on such date under subsection (c) or (d) of such section;
 
@@ -332,7 +332,7 @@ In a case described in subparagraph (B) in which a physician uses a device witho
 
 (II) is intended for the treatment or diagnosis of a disease or condition that does not occur in pediatric patients or that occurs in pediatric patients in such numbers that the development of the device for such patients is impossible, highly impracticable, or unsafe.
 
-(ii) During any calendar year, the number of such devices distributed during that year under each exemption granted under this subsection does not exceed the annual distribution number for such device. In this paragraph, the term “annual distribution number” means the number of such devices reasonably needed to treat, diagnose, or cure a population of 4,000 individuals in the United States. The Secretary shall determine the annual distribution number when the Secretary grants such exemption.
+(ii) During any calendar year, the number of such devices distributed during that year under each exemption granted under this subsection does not exceed the annual distribution number for such device. In this paragraph, the term "annual distribution number" means the number of such devices reasonably needed to treat, diagnose, or cure a population of 4,000 individuals in the United States. The Secretary shall determine the annual distribution number when the Secretary grants such exemption.
 
 (iii) Such person immediately notifies the Secretary if the number of such devices distributed during any calendar year exceeds the annual distribution number referred to in clause (ii).
 
@@ -344,9 +344,9 @@ In a case described in subparagraph (B) in which a physician uses a device witho
 
 (D) If a person notifies the Secretary, or the Secretary determines through an inspection under subparagraph (B), that the number of devices distributed during any calendar year exceeds the annual distribution number, as required under subparagraph (A)(iii), and modified under subparagraph (C), if applicable, then the prohibition in paragraph (3) shall apply with respect to such person for such device for any sales of such device after such notification.
 
-(E)(i) In this subsection, the term “pediatric patients” means patients who are 21 years of age or younger at the time of the diagnosis or treatment.
+(E)(i) In this subsection, the term "pediatric patients" means patients who are 21 years of age or younger at the time of the diagnosis or treatment.
 
-(ii) In this subsection, the term “pediatric subpopulation” means 1 of the following populations:
+(ii) In this subsection, the term "pediatric subpopulation" means 1 of the following populations:
 
 (I) Neonates.
 
@@ -370,19 +370,19 @@ In a case described in subparagraph (B) in which a physician uses a device witho
 
 #### References in Text ####
 
-July 9, 2012, referred to in subsec. (b)(3), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 112–144, which amended subsec. (b) generally, to reflect the probable intent of Congress.
+July 9, 2012, referred to in subsec. (b)(3), was in the original "the date of enactment of this section", which was translated as meaning the date of enactment of Pub. L. 112–144, which amended subsec. (b) generally, to reflect the probable intent of Congress.
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f)(3), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification ####
 
-In subsec. (k), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for “sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529, 41 U.S.C. 5)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (k), "section 3324(a) and (b) of title 31 and section 6101 of title 41" substituted for "sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529, 41 U.S.C. 5)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments ####
 
 **2012**—Subsec. (b). Pub. L. 112–144, §617, amended subsec. (b) generally. Prior to amendment, subsec. (b) related to custom devices.
 
-Subsec. (g)(2)(B)(ii). Pub. L. 112–144, §601(1), inserted “safety or effectiveness” before “data obtained”.
+Subsec. (g)(2)(B)(ii). Pub. L. 112–144, §601(1), inserted "safety or effectiveness" before "data obtained".
 
 Subsec. (g)(4)(C). Pub. L. 112–144, §601(2), added subpar. (C).
 
@@ -390,27 +390,27 @@ Subsec. (g)(8). Pub. L. 112–144, §606, added par. (8).
 
 Subsec. (m)(6)(A)(i). Pub. L. 112–144, §613(a)(1)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows:
 
-“(i)(I) The device with respect to which the exemption is granted is intended for the treatment or diagnosis of a disease or condition that occurs in pediatric patients or in a pediatric subpopulation, and such device is labeled for use in pediatric patients or in a pediatric subpopulation in which the disease or condition occurs.
+"(i)(I) The device with respect to which the exemption is granted is intended for the treatment or diagnosis of a disease or condition that occurs in pediatric patients or in a pediatric subpopulation, and such device is labeled for use in pediatric patients or in a pediatric subpopulation in which the disease or condition occurs.
 
-“(II) The device was not previously approved under this subsection for the pediatric patients or the pediatric subpopulation described in subclause (I) prior to September 27, 2007.”
+"(II) The device was not previously approved under this subsection for the pediatric patients or the pediatric subpopulation described in subclause (I) prior to September 27, 2007."
 
-Subsec. (m)(6)(A)(ii). Pub. L. 112–144, §613(a)(1)(A)(ii), added cl. (ii) and struck out former cl. (ii) which read as follows: “During any calendar year, the number of such devices distributed during that year does not exceed the annual distribution number specified by the Secretary when the Secretary grants such exemption. The annual distribution number shall be based on the number of individuals affected by the disease or condition that such device is intended to treat, diagnose, or cure, and of that number, the number of individuals likely to use the device, and the number of devices reasonably necessary to treat such individuals. In no case shall the annual distribution number exceed the number identified in paragraph (2)(A).”
+Subsec. (m)(6)(A)(ii). Pub. L. 112–144, §613(a)(1)(A)(ii), added cl. (ii) and struck out former cl. (ii) which read as follows: "During any calendar year, the number of such devices distributed during that year does not exceed the annual distribution number specified by the Secretary when the Secretary grants such exemption. The annual distribution number shall be based on the number of individuals affected by the disease or condition that such device is intended to treat, diagnose, or cure, and of that number, the number of individuals likely to use the device, and the number of devices reasonably necessary to treat such individuals. In no case shall the annual distribution number exceed the number identified in paragraph (2)(A)."
 
-Subsec. (m)(6)(A)(iv). Pub. L. 112–144, §507(c), substituted “2017” for “2012”.
+Subsec. (m)(6)(A)(iv). Pub. L. 112–144, §507(c), substituted "2017" for "2012".
 
-Subsec. (m)(6)(C). Pub. L. 112–144, §613(a)(1)(B), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “A person may petition the Secretary to modify the annual distribution number specified by the Secretary under subparagraph (A)(ii) with respect to a device if additional information on the number of individuals affected by the disease or condition arises, and the Secretary may modify such number but in no case shall the annual distribution number exceed the number identified in paragraph (2)(A).”
+Subsec. (m)(6)(C). Pub. L. 112–144, §613(a)(1)(B), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "A person may petition the Secretary to modify the annual distribution number specified by the Secretary under subparagraph (A)(ii) with respect to a device if additional information on the number of individuals affected by the disease or condition arises, and the Secretary may modify such number but in no case shall the annual distribution number exceed the number identified in paragraph (2)(A)."
 
-Subsec. (m)(7). Pub. L. 112–144, §613(a)(2), substituted “regarding a device described in paragraph (6)(A)(i)(I)” for “regarding a device”.
+Subsec. (m)(7). Pub. L. 112–144, §613(a)(2), substituted "regarding a device described in paragraph (6)(A)(i)(I)" for "regarding a device".
 
-Subsec. (m)(8). Pub. L. 112–144, §613(a)(3), substituted “of all devices described in paragraph (6)(A)(i)(I)” for “of all devices described in paragraph (6)”.
+Subsec. (m)(8). Pub. L. 112–144, §613(a)(3), substituted "of all devices described in paragraph (6)(A)(i)(I)" for "of all devices described in paragraph (6)".
 
-**2007**—Subsec. (m)(2). Pub. L. 110–85, §801(b)(3)(E), inserted before period at end of first sentence of concluding provisions “and such application shall include the certification required under section 282(j)(5)(B) of title 42 (which shall not be considered an element of such application)”.
+**2007**—Subsec. (m)(2). Pub. L. 110–85, §801(b)(3)(E), inserted before period at end of first sentence of concluding provisions "and such application shall include the certification required under section 282(j)(5)(B) of title 42 (which shall not be considered an element of such application)".
 
-Subsec. (m)(3). Pub. L. 110–85, §303(a)(1), substituted “Except as provided in paragraph (6), no” for “No”.
+Subsec. (m)(3). Pub. L. 110–85, §303(a)(1), substituted "Except as provided in paragraph (6), no" for "No".
 
-Subsec. (m)(5). Pub. L. 110–85, §303(a)(2), inserted “, if the Secretary has reason to believe that the requirements of paragraph (6) are no longer met,” after “public health” and inserted at end “If the person granted an exemption under paragraph (2) fails to demonstrate continued compliance with the requirements of this subsection, the Secretary may suspend or withdraw the exemption from the effectiveness requirements of sections 360d and 360e of this title for a humanitarian device only after providing notice and an opportunity for an informal hearing.”
+Subsec. (m)(5). Pub. L. 110–85, §303(a)(2), inserted ", if the Secretary has reason to believe that the requirements of paragraph (6) are no longer met," after "public health" and inserted at end "If the person granted an exemption under paragraph (2) fails to demonstrate continued compliance with the requirements of this subsection, the Secretary may suspend or withdraw the exemption from the effectiveness requirements of sections 360d and 360e of this title for a humanitarian device only after providing notice and an opportunity for an informal hearing."
 
-Subsec. (m)(6) to (8). Pub. L. 110–85, §303(a)(3), added pars. (6) to (8) and struck out former par. (6) which read as follows: “The Secretary may suspend or withdraw an exemption from the effectiveness requirements of sections 360d and 360e of this title for a humanitarian device only after providing notice and an opportunity for an informal hearing.”
+Subsec. (m)(6) to (8). Pub. L. 110–85, §303(a)(3), added pars. (6) to (8) and struck out former par. (6) which read as follows: "The Secretary may suspend or withdraw an exemption from the effectiveness requirements of sections 360d and 360e of this title for a humanitarian device only after providing notice and an opportunity for an informal hearing."
 
 **2005**—Subsec. (n). Pub. L. 109–96 added subsec. (n).
 
@@ -420,43 +420,43 @@ Subsec. (g)(6), (7). Pub. L. 105–115, §201(a), added pars. (6) and (7).
 
 Subsec. (h)(4). Pub. L. 105–115, §216(a)(1), amended par. (4) generally. Prior to amendment, par. (4) related to premarket approval of devices.
 
-Subsec. (l). Pub. L. 105–115, §125(b)(2)(E), struck out “or antibiotic drugs” after “new drugs” in heading.
+Subsec. (l). Pub. L. 105–115, §125(b)(2)(E), struck out "or antibiotic drugs" after "new drugs" in heading.
 
-Subsec. (l)(4). Pub. L. 105–115, §125(b)(2)(E), struck out par. (4) which read as follows: “Any device intended for human use which on the enactment date was subject to the requirements of section 357 of this title shall be subject to such requirements as follows:
+Subsec. (l)(4). Pub. L. 105–115, §125(b)(2)(E), struck out par. (4) which read as follows: "Any device intended for human use which on the enactment date was subject to the requirements of section 357 of this title shall be subject to such requirements as follows:
 
-“(A) In the case of such a device which is classified into class I, such requirements shall apply to such device until the effective date of the regulation classifying the device into such class.
+"(A) In the case of such a device which is classified into class I, such requirements shall apply to such device until the effective date of the regulation classifying the device into such class.
 
-“(B) In the case of such a device which is classified into class II, such requirements shall apply to such device until the effective date of a performance standard applicable to the device under section 360d of this title.
+"(B) In the case of such a device which is classified into class II, such requirements shall apply to such device until the effective date of a performance standard applicable to the device under section 360d of this title.
 
-“(C) In the case of such a device which is classified into class III, such requirements shall apply to such device until the date on which the device is required to have in effect an approved application under section 360e of this title.”
+"(C) In the case of such a device which is classified into class III, such requirements shall apply to such device until the date on which the device is required to have in effect an approved application under section 360e of this title."
 
-Subsec. (m)(2). Pub. L. 105–115, §203(1), inserted at end “The request shall be in the form of an application submitted to the Secretary. Not later than 75 days after the date of the receipt of the application, the Secretary shall issue an order approving or denying the application.”
+Subsec. (m)(2). Pub. L. 105–115, §203(1), inserted at end "The request shall be in the form of an application submitted to the Secretary. Not later than 75 days after the date of the receipt of the application, the Secretary shall issue an order approving or denying the application."
 
-Subsec. (m)(4). Pub. L. 105–115, §203(2)(B), inserted at end “In a case described in subparagraph (B) in which a physician uses a device without an approval from an institutional review committee, the physician shall, after the use of the device, notify the chairperson of the local institutional review committee of such use. Such notification shall include the identification of the patient involved, the date on which the device was used, and the reason for the use.”
+Subsec. (m)(4). Pub. L. 105–115, §203(2)(B), inserted at end "In a case described in subparagraph (B) in which a physician uses a device without an approval from an institutional review committee, the physician shall, after the use of the device, notify the chairperson of the local institutional review committee of such use. Such notification shall include the identification of the patient involved, the date on which the device was used, and the reason for the use."
 
-Subsec. (m)(4)(B). Pub. L. 105–115, §203(2)(A), inserted before period at end “, unless a physician determines in an emergency situation that approval from a local institutional review committee can not be obtained in time to prevent serious harm or death to a patient”.
+Subsec. (m)(4)(B). Pub. L. 105–115, §203(2)(A), inserted before period at end ", unless a physician determines in an emergency situation that approval from a local institutional review committee can not be obtained in time to prevent serious harm or death to a patient".
 
-Subsec. (m)(5). Pub. L. 105–115, §203(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “An exemption under paragraph (2) shall be for a term of 18 months and may only be initially granted in the 5-year period beginning on the date regulations under paragraph (6) take effect. The Secretary may extend such an exemption for a period of 18 months if the Secretary is able to make the findings set forth in paragraph (2) and if the applicant supplies information demonstrating compliance with paragraph (3). An exemption may be extended more than once and may be extended after the expiration of such 5-year period.”
+Subsec. (m)(5). Pub. L. 105–115, §203(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "An exemption under paragraph (2) shall be for a term of 18 months and may only be initially granted in the 5-year period beginning on the date regulations under paragraph (6) take effect. The Secretary may extend such an exemption for a period of 18 months if the Secretary is able to make the findings set forth in paragraph (2) and if the applicant supplies information demonstrating compliance with paragraph (3). An exemption may be extended more than once and may be extended after the expiration of such 5-year period."
 
-Subsec. (m)(6). Pub. L. 105–115, §203(4), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Within one year of November 28, 1990, the Secretary shall issue regulations to implement this subsection.”
+Subsec. (m)(6). Pub. L. 105–115, §203(4), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "Within one year of November 28, 1990, the Secretary shall issue regulations to implement this subsection."
 
-**1992**—Subsec. (g)(2)(A). Pub. L. 102–571 substituted “379e” for “376”.
+**1992**—Subsec. (g)(2)(A). Pub. L. 102–571 substituted "379e" for "376".
 
-**1990**—Subsec. (c). Pub. L. 101–629, §11(1), substituted “from class III to class II or class I” for “under section 360c of this title from class III to class II” and inserted “(1) in accordance with subsection (h) of this section, and (2)” after “except”.
+**1990**—Subsec. (c). Pub. L. 101–629, §11(1), substituted "from class III to class II or class I" for "under section 360c of this title from class III to class II" and inserted "(1) in accordance with subsection (h) of this section, and (2)" after "except".
 
-Subsec. (f)(1)(A). Pub. L. 101–629, §18(e), inserted “pre-production design validation (including a process to assess the performance of a device but not including an evaluation of the safety or effectiveness of a device),” after “manufacture,”.
+Subsec. (f)(1)(A). Pub. L. 101–629, §18(e), inserted "pre-production design validation (including a process to assess the performance of a device but not including an evaluation of the safety or effectiveness of a device)," after "manufacture,".
 
-Subsec. (h)(3). Pub. L. 101–629, §11(2)(A), substituted “Except as provided in paragraph (4), any” for “Any”.
+Subsec. (h)(3). Pub. L. 101–629, §11(2)(A), substituted "Except as provided in paragraph (4), any" for "Any".
 
 Subsec. (h)(4). Pub. L. 101–629, §11(2)(B), added par. (4).
 
-Subsec. (i). Pub. L. 101–629, §6(b)(2), substituted “section 360d(b)(5)(B)” for “section 360d(g)(5)(B)”.
+Subsec. (i). Pub. L. 101–629, §6(b)(2), substituted "section 360d(b)(5)(B)" for "section 360d(g)(5)(B)".
 
-Subsec. (j). Pub. L. 101–629, §3(b)(2), substituted “Except as provided in section 360i(e) of this title, no” for “No”.
+Subsec. (j). Pub. L. 101–629, §3(b)(2), substituted "Except as provided in section 360i(e) of this title, no" for "No".
 
-Subsec. (l)(2). Pub. L. 101–629, §18(f), struck out “and after affording the petitioner an opportunity for an informal hearing” after “under this paragraph”.
+Subsec. (l)(2). Pub. L. 101–629, §18(f), struck out "and after affording the petitioner an opportunity for an informal hearing" after "under this paragraph".
 
-Pub. L. 101–629, §5(c)(2), substituted “The Secretary may initiate the reclassification of a device classified into class III under paragraph (1) of this subsection or the manufacturer” for “The manufacturer”.
+Pub. L. 101–629, §5(c)(2), substituted "The Secretary may initiate the reclassification of a device classified into class III under paragraph (1) of this subsection or the manufacturer" for "The manufacturer".
 
 Subsec. (l)(5). Pub. L. 101–629, §4(b)(2), added par. (5).
 
@@ -468,21 +468,21 @@ Amendment by sections 201(a), 203, 216(a)(1), and 410(a) of Pub. L. 105–115 ef
 
 #### Effective Date of 1990 Amendment ####
 
-Pub. L. 101–629, §14(b), Nov. 28, 1990, 104 Stat. 4525, provided that: “Subsection (m) of section 520 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360j(m)], as added by the amendment made by subsection (a), shall take effect on the effective date of the regulations issued by the Secretary under paragraph (6) of such subsection.”
+Pub. L. 101–629, §14(b), Nov. 28, 1990, 104 Stat. 4525, provided that: "Subsection (m) of section 520 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360j(m)], as added by the amendment made by subsection (a), shall take effect on the effective date of the regulations issued by the Secretary under paragraph (6) of such subsection."
 
 #### Applicability to Existing Devices ####
 
-Pub. L. 112–144, title VI, §613(b), July 9, 2012, 126 Stat. 1061, provided that: “A sponsor of a device for which an exemption was approved under paragraph (2) of section 520(m) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360j(m)) before the date of enactment of this Act [July 9, 2012] may seek a determination under subclause (I) or (II) of section 520(m)(6)(A)(i) (as amended by subsection (a)). If the Secretary of Health and Human Services determines that such subclause (I) or (II) applies with respect to a device, clauses (ii), (iii), and (iv) of subparagraph (A) and subparagraphs (B), (C), (D), and (E) of paragraph (6) of such section 520(m) shall apply to such device, and the Secretary shall determine the annual distribution number for purposes of clause (ii) of such subparagraph (A) when making the determination under this subsection.”
+Pub. L. 112–144, title VI, §613(b), July 9, 2012, 126 Stat. 1061, provided that: "A sponsor of a device for which an exemption was approved under paragraph (2) of section 520(m) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360j(m)) before the date of enactment of this Act [July 9, 2012] may seek a determination under subclause (I) or (II) of section 520(m)(6)(A)(i) (as amended by subsection (a)). If the Secretary of Health and Human Services determines that such subclause (I) or (II) applies with respect to a device, clauses (ii), (iii), and (iv) of subparagraph (A) and subparagraphs (B), (C), (D), and (E) of paragraph (6) of such section 520(m) shall apply to such device, and the Secretary shall determine the annual distribution number for purposes of clause (ii) of such subparagraph (A) when making the determination under this subsection."
 
 #### Guidance ####
 
-Pub. L. 110–85, title III, §303(c), Sept. 27, 2007, 121 Stat. 862, provided that: “Not later than 180 days after the date of the enactment of this Act [Sept. 27, 2007], the Commissioner of Food and Drugs shall issue guidance for institutional review committees on how to evaluate requests for approval for devices for which a humanitarian device exemption under section 520(m)(2) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360j(m)(2)) has been granted.”
+Pub. L. 110–85, title III, §303(c), Sept. 27, 2007, 121 Stat. 862, provided that: "Not later than 180 days after the date of the enactment of this Act [Sept. 27, 2007], the Commissioner of Food and Drugs shall issue guidance for institutional review committees on how to evaluate requests for approval for devices for which a humanitarian device exemption under section 520(m)(2) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360j(m)(2)) has been granted."
 
-Pub. L. 107–250, title II, §213, Oct. 26, 2002, 116 Stat. 1614, provided that: “Not later than 270 days after the date of the enactment of this Act [Oct. 26, 2002], the Secretary of Health and Human Services shall issue guidance on the following:
+Pub. L. 107–250, title II, §213, Oct. 26, 2002, 116 Stat. 1614, provided that: "Not later than 270 days after the date of the enactment of this Act [Oct. 26, 2002], the Secretary of Health and Human Services shall issue guidance on the following:
 
-“(1) The type of information necessary to provide reasonable assurance of the safety and effectiveness of medical devices intended for use in pediatric populations.
+"(1) The type of information necessary to provide reasonable assurance of the safety and effectiveness of medical devices intended for use in pediatric populations.
 
-“(2) Protections for pediatric subjects in clinical investigations of the safety or effectiveness of such devices.”
+"(2) Protections for pediatric subjects in clinical investigations of the safety or effectiveness of such devices."
 
 #### Report on Humanitarian Device Exemptions ####
 

@@ -30,7 +30,7 @@ The Chief Medical Officer shall have the primary responsibility within the Depar
 
 #### Amendments ####
 
-**2012**—Subsec. (a). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end.
+**2012**—Subsec. (a). Pub. L. 112–166 struck out ", by and with the advice and consent of the Senate" before period at end.
 
 #### Change of Name ####
 

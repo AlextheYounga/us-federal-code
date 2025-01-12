@@ -20,47 +20,47 @@
 
 #### Amendments ####
 
-**2013**—Subsec. (f)(2). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+**2013**—Subsec. (f)(2). Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-**2011**—Subsec. (f)(2). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+**2011**—Subsec. (f)(2). Pub. L. 112–81 substituted "December 31, 2012" for "December 31, 2011".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
-**2009**—Subsec. (f)(2). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+**2009**—Subsec. (f)(2). Pub. L. 111–84 substituted "December 31, 2010" for "December 31, 2009".
 
-**2008**—Subsec. (f)(2). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+**2008**—Subsec. (f)(2). Pub. L. 110–417 substituted "December 31, 2009" for "December 31, 2008".
 
-Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
+Pub. L. 110–181 substituted "December 31, 2008" for "December 31, 2007".
 
-**2006**—Subsec. (d). Pub. L. 109–163, §687(b)(17)(A), added subsec. (d) and struck out former subsec. (d) which read as follows: “A person who receives a bonus payment under this section and who fails during the period for which the bonus was paid to serve satisfactorily in the element of the Ready Reserve with respect to which the bonus was paid shall refund to the United States an amount which bears the same ratio to the amount of the bonus paid to such person as the period which such person failed to serve satisfactorily bears to the total period for which the bonus was paid.”
+**2006**—Subsec. (d). Pub. L. 109–163, §687(b)(17)(A), added subsec. (d) and struck out former subsec. (d) which read as follows: "A person who receives a bonus payment under this section and who fails during the period for which the bonus was paid to serve satisfactorily in the element of the Ready Reserve with respect to which the bonus was paid shall refund to the United States an amount which bears the same ratio to the amount of the bonus paid to such person as the period which such person failed to serve satisfactorily bears to the total period for which the bonus was paid."
 
-Subsec. (e). Pub. L. 109–163, §687(b)(17)(B), (C), redesignated subsec. (g) as (e) and struck out former subsec. (e) which read as follows: “An obligation to reimburse the United States imposed under subsection (d) is, for all purposes, a debt owed to the United States.”
+Subsec. (e). Pub. L. 109–163, §687(b)(17)(B), (C), redesignated subsec. (g) as (e) and struck out former subsec. (e) which read as follows: "An obligation to reimburse the United States imposed under subsection (d) is, for all purposes, a debt owed to the United States."
 
-Subsec. (f). Pub. L. 109–163, §687(b)(17)(B), (C), redesignated subsec. (h) as (f) and struck out former subsec. (f) which read as follows: “A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an enlistment for which a bonus was paid under this section does not discharge the person receiving such bonus payment from the debt arising under subsection (d). This subsection applies to any case commenced under title 11 after September 24, 1983.”
+Subsec. (f). Pub. L. 109–163, §687(b)(17)(B), (C), redesignated subsec. (h) as (f) and struck out former subsec. (f) which read as follows: "A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an enlistment for which a bonus was paid under this section does not discharge the person receiving such bonus payment from the debt arising under subsection (d). This subsection applies to any case commenced under title 11 after September 24, 1983."
 
 Subsec. (f)(2). Pub. L. 109–364, §1071(c)(3), struck out second period at end.
 
-Pub. L. 109–364, §611(d), substituted “December 31, 2007” for “December 31, 2006”.
+Pub. L. 109–364, §611(d), substituted "December 31, 2007" for "December 31, 2006".
 
 Subsec. (g). Pub. L. 109–163, §687(b)(17)(C), redesignated subsec. (g) as (e).
 
 Subsec. (h). Pub. L. 109–163, §687(b)(17)(C), redesignated subsec. (h) as (f).
 
-Pub. L. 109–163, §621(c), substituted “an enlistment—” for “an enlistment after September 30, 1992” and added pars. (1) and (2).
+Pub. L. 109–163, §621(c), substituted "an enlistment—" for "an enlistment after September 30, 1992" and added pars. (1) and (2).
 
-**2004**—Subsec. (b). Pub. L. 108–375 substituted “$3,000” for “$1,000” and inserted last sentence.
+**2004**—Subsec. (b). Pub. L. 108–375 substituted "$3,000" for "$1,000" and inserted last sentence.
 
-**2002**—Subsec. (g). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+**2002**—Subsec. (g). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-**1991**—Pub. L. 102–25 struck out “of this section” wherever appearing in subsecs. (a), (b), (e), and (f).
+**1991**—Pub. L. 102–25 struck out "of this section" wherever appearing in subsecs. (a), (b), (e), and (f).
 
-**1989**—Subsec. (h). Pub. L. 101–189 substituted “September 30, 1992” for “September 30, 1990”.
+**1989**—Subsec. (h). Pub. L. 101–189 substituted "September 30, 1992" for "September 30, 1990".
 
-**1987**—Subsec. (h). Pub. L. 100–180 substituted “September 30, 1990” for “September 30, 1987”.
+**1987**—Subsec. (h). Pub. L. 100–180 substituted "September 30, 1990" for "September 30, 1987".
 
-**1985**—Subsec. (f). Pub. L. 99–145, §1303(b)(3), substituted “September 24, 1983” for “the date of the enactment of the Department of Defense Authorization Act, 1984”.
+**1985**—Subsec. (f). Pub. L. 99–145, §1303(b)(3), substituted "September 24, 1983" for "the date of the enactment of the Department of Defense Authorization Act, 1984".
 
-Subsec. (h). Pub. L. 99–145, §646(a)(1), substituted “September 30, 1987” for “September 30, 1985”.
+Subsec. (h). Pub. L. 99–145, §646(a)(1), substituted "September 30, 1987" for "September 30, 1985".
 
 #### Effective Date of 2008 Amendment ####
 
@@ -76,7 +76,7 @@ Amendment by section 646(a)(1) of Pub. L. 99–145 effective Oct. 1, 1985, see s
 
 #### Effective Date ####
 
-Pub. L. 98–94, title X, §1011(c), Sept. 24, 1983, 97 Stat. 664, provided that: “The amendments made by subsections (a) and (b) [enacting this section and section 308h of this title and repealing section 308d of this title] shall take effect on October 1, 1983.”
+Pub. L. 98–94, title X, §1011(c), Sept. 24, 1983, 97 Stat. 664, provided that: "The amendments made by subsections (a) and (b) [enacting this section and section 308h of this title and repealing section 308d of this title] shall take effect on October 1, 1983."
 
 #### Savings Provision ####
 

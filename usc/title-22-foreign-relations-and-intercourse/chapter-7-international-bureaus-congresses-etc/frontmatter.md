@@ -44,7 +44,7 @@ Sec.
 
 262 l. Environmental reform measures and remedial measures; Committee on Health and the Environment.
 
-262l–1. Sustainable economic growth and management of natural resources; environmental impact of loans; pest management; addition of trained professionals; “early warning system”.
+262l–1. Sustainable economic growth and management of natural resources; environmental impact of loans; pest management; addition of trained professionals; "early warning system".
 
 262l–2. Sustainable use of natural resources; use of agricultural and industrial chemicals.
 
@@ -140,7 +140,7 @@ Sec.
 
 262p–8. Modification of the Enhanced HIPC Initiative.
 
-262p–9. Reform of the “Doing Business” Report of the World Bank.
+262p–9. Reform of the "Doing Business" Report of the World Bank.
 
 262p–10. Enhancing the transparency and effectiveness of the Inspection Panel process of the World Bank.
 
@@ -192,7 +192,7 @@ Sec.
 
 268a. Repealed.
 
-268b. Advances from appropriation “Boundary line, Alaska and Canada, and the United States and Canada”.
+268b. Advances from appropriation "Boundary line, Alaska and Canada, and the United States and Canada".
 
 268c. Limitation on expenditure of funds for compensation of International Boundary Commissioner to actual hours worked.
 
@@ -354,7 +354,7 @@ Sec.
 
 277d–20. Limitation on application for reimbursement or compensation.
 
-277d–21. Attorneys’ fees; penalties.
+277d–21. Attorneys' fees; penalties.
 
 277d–22. Prohibition against duplicate payments; eligibility for payments unaffected by means employed for acquisition of property; rights and powers unaffected.
 
@@ -920,7 +920,7 @@ Sec.
 
 287j. Participation in future United Nations borrowing; promotion of pattern of financing to avoid future large-scale deficits; report to Congress.
 
-287k. Congressional expression of satisfaction that expenditures relating to operations in Middle East and in the Congo are “expenses of the Organization”.
+287k. Congressional expression of satisfaction that expenditures relating to operations in Middle East and in the Congo are "expenses of the Organization".
 
 287 l. Congressional declaration that United Nations take steps to give effect to advisory opinion of International Court of Justice on financial obligations of members.
 
@@ -944,7 +944,7 @@ Sec.
 
 #### SUBCHAPTER XVIII—PRIVILEGES AND IMMUNITIES OF INTERNATIONAL ORGANIZATIONS ####
 
-288. “International organization” defined; authority of President.
+288. "International organization" defined; authority of President.
 
 288a. Privileges, exemptions, and immunities of international organizations.
 
@@ -1172,7 +1172,7 @@ Sec.
 
 290m–2. Community adjustment and investment program.
 
-290m–3. “Border Environment Cooperation Agreement” defined.
+290m–3. "Border Environment Cooperation Agreement" defined.
 
 290m–4. Authority to agree to certain amendments to the Border Environment Cooperation Agreement.
 

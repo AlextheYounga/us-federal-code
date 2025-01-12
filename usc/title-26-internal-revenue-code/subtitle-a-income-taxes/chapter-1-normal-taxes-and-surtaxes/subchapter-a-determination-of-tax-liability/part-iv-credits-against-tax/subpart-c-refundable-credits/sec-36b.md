@@ -10,7 +10,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “premium assistance credit amount” means, with respect to any taxable year, the sum of the premium assistance amounts determined under paragraph (2) with respect to all coverage months of the taxpayer occurring during the taxable year.
+The term "premium assistance credit amount" means, with respect to any taxable year, the sum of the premium assistance amounts determined under paragraph (2) with respect to all coverage months of the taxpayer occurring during the taxable year.
 
 #### (2) Premium assistance amount ####
 
@@ -101,7 +101,7 @@ For purposes of this section—
 
 #### (A) In general ####
 
-The term “applicable taxpayer” means, with respect to any taxable year, a taxpayer whose household income for the taxable year equals or exceeds 100 percent but does not exceed 400 percent of an amount equal to the poverty line for a family of the size involved.
+The term "applicable taxpayer" means, with respect to any taxable year, a taxpayer whose household income for the taxable year equals or exceeds 100 percent but does not exceed 400 percent of an amount equal to the poverty line for a family of the size involved.
 
 #### (B) Special rule for certain individuals lawfully present in the United States ####
 
@@ -127,7 +127,7 @@ For purposes of this subsection—
 
 #### (A) In general ####
 
-The term “coverage month” means, with respect to an applicable taxpayer, any month if—
+The term "coverage month" means, with respect to an applicable taxpayer, any month if—
 
 (i) as of the first day of such month the taxpayer, the taxpayer's spouse, or any dependent of the taxpayer is covered by a qualified health plan described in subsection (b)(2)(A) that was enrolled in through an Exchange established by the State under section 1311 of the Patient Protection and Affordable Care Act, and
 
@@ -137,11 +137,11 @@ The term “coverage month” means, with respect to an applicable taxpayer, any
 
 #### (i) In general ####
 
-The term “coverage month” shall not include any month with respect to an individual if for such month the individual is eligible for minimum essential coverage other than eligibility for coverage described in section 5000A(f)(1)(C) (relating to coverage in the individual market).
+The term "coverage month" shall not include any month with respect to an individual if for such month the individual is eligible for minimum essential coverage other than eligibility for coverage described in section 5000A(f)(1)(C) (relating to coverage in the individual market).
 
 #### (ii) Minimum essential coverage ####
 
-The term “minimum essential coverage” has the meaning given such term by section 5000A(f).
+The term "minimum essential coverage" has the meaning given such term by section 5000A(f).
 
 #### (C) Special rule for employer-sponsored minimum essential coverage ####
 
@@ -173,11 +173,11 @@ In the case of plan years beginning in any calendar year after 2014, the Secreta
 
 #### (A) Qualified health plan ####
 
-The term “qualified health plan” has the meaning given such term by section 1301(a) of the Patient Protection and Affordable Care Act, except that such term shall not include a qualified health plan which is a catastrophic plan described in section 1302(e) of such Act.
+The term "qualified health plan" has the meaning given such term by section 1301(a) of the Patient Protection and Affordable Care Act, except that such term shall not include a qualified health plan which is a catastrophic plan described in section 1302(e) of such Act.
 
 #### (B) Grandfathered health plan ####
 
-The term “grandfathered health plan” has the meaning given such term by section 1251 of the Patient Protection and Affordable Care Act.
+The term "grandfathered health plan" has the meaning given such term by section 1251 of the Patient Protection and Affordable Care Act.
 
 #### (d) Terms relating to income and families ####
 
@@ -191,7 +191,7 @@ The family size involved with respect to any taxpayer shall be equal to the numb
 
 #### (A) Household income ####
 
-The term “household income” means, with respect to any taxpayer, an amount equal to the sum of—
+The term "household income" means, with respect to any taxpayer, an amount equal to the sum of—
 
 (i) the modified adjusted gross income of the taxpayer, plus
 
@@ -203,7 +203,7 @@ The term “household income” means, with respect to any taxpayer, an amount e
 
 #### (B) Modified adjusted gross income ####
 
-The term “modified adjusted gross income” means adjusted gross income increased by—
+The term "modified adjusted gross income" means adjusted gross income increased by—
 
 (i) any amount excluded from gross income under section 911,
 
@@ -215,7 +215,7 @@ The term “modified adjusted gross income” means adjusted gross income increa
 
 #### (A) In general ####
 
-The term “poverty line” has the meaning given that term in section 2110(c)(5) of the Social Security Act (42 U.S.C. 1397jj(c)(5)).
+The term "poverty line" has the meaning given that term in section 2110(c)(5) of the Social Security Act (42 U.S.C. 1397jj(c)(5)).
 
 #### (B) Poverty line used ####
 
@@ -281,7 +281,7 @@ In the case of any calendar year beginning after 2014, each of the dollar amount
 
 (I) such dollar amount, multiplied by
 
-(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2013” for “calendar year 1992” in subparagraph (B) thereof.
+(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting "calendar year 2013" for "calendar year 1992" in subparagraph (B) thereof.
 
  If the amount of any increase under clause (i) is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
 
@@ -323,76 +323,76 @@ The Social Security Act, referred to in subsec. (c)(1)(B)(ii), is act Aug. 14, 1
 
 #### Amendments ####
 
-**2011**—Subsec. (c)(2)(D). Pub. L. 112–10 struck out subpar. (D). Prior to amendment, text read as follows: “The term ‘coverage month’ shall not include any month in which such individual has a free choice voucher provided under section 10108 of the Patient Protection and Affordable Care Act.”
+**2011**—Subsec. (c)(2)(D). Pub. L. 112–10 struck out subpar. (D). Prior to amendment, text read as follows: "The term 'coverage month' shall not include any month in which such individual has a free choice voucher provided under section 10108 of the Patient Protection and Affordable Care Act."
 
 Subsec. (d)(2)(B)(iii). Pub. L. 112–56 added cl. (iii).
 
 Subsec. (f)(2)(B)(i). Pub. L. 112–9 amended cl. (i) generally. Prior to amendment, cl. (i) consisted of text and a table limiting increase in amount recovered on reconciliation of health insurance tax credit and advance of that credit for households with income below 500 percent of Federal poverty line.
 
-**2010**—Subsec. (b)(3)(A)(i). Pub. L. 111–152, §1001(a)(1)(A), substituted “for any taxable year shall be the percentage such that the applicable percentage for any taxpayer whose household income is within an income tier specified in the following table shall increase, on a sliding scale in a linear manner, from the initial premium percentage to the final premium percentage specified in such table for such income tier:” for “with respect to any taxpayer for any taxable year is equal to 2.8 percent, increased by the number of percentage points (not greater than 7) which bears the same ratio to 7 percentage points as—” in introductory provisions, inserted table, and struck out subcls. (I) and (II) which read as follows:
+**2010**—Subsec. (b)(3)(A)(i). Pub. L. 111–152, §1001(a)(1)(A), substituted "for any taxable year shall be the percentage such that the applicable percentage for any taxpayer whose household income is within an income tier specified in the following table shall increase, on a sliding scale in a linear manner, from the initial premium percentage to the final premium percentage specified in such table for such income tier:" for "with respect to any taxpayer for any taxable year is equal to 2.8 percent, increased by the number of percentage points (not greater than 7) which bears the same ratio to 7 percentage points as—" in introductory provisions, inserted table, and struck out subcls. (I) and (II) which read as follows:
 
-“(I) the taxpayer's household income for the taxable year in excess of 100 percent of the poverty line for a family of the size involved, bears to
+"(I) the taxpayer's household income for the taxable year in excess of 100 percent of the poverty line for a family of the size involved, bears to
 
-“(II) an amount equal to 200 percent of the poverty line for a family of the size involved.”
+"(II) an amount equal to 200 percent of the poverty line for a family of the size involved."
 
-Subsec. (b)(3)(A)(ii). Pub. L. 111–152, §1001(a)(1)(B), added cl. (ii) and struck out former cl. (ii). Text read as follows: “If a taxpayer's household income for the taxable year equals or exceeds 100 percent, but not more than 133 percent, of the poverty line for a family of the size involved, the taxpayer's applicable percentage shall be 2 percent.”
+Subsec. (b)(3)(A)(ii). Pub. L. 111–152, §1001(a)(1)(B), added cl. (ii) and struck out former cl. (ii). Text read as follows: "If a taxpayer's household income for the taxable year equals or exceeds 100 percent, but not more than 133 percent, of the poverty line for a family of the size involved, the taxpayer's applicable percentage shall be 2 percent."
 
-Pub. L. 111–148, §10105(a), substituted “equals or exceeds” for “is in excess of”.
+Pub. L. 111–148, §10105(a), substituted "equals or exceeds" for "is in excess of".
 
-Subsec. (b)(3)(A)(iii). Pub. L. 111–152, §1001(a)(1)(B), struck out cl. (iii). Text read as follows: “In the case of taxable years beginning in any calendar year after 2014, the Secretary shall adjust the initial and final applicable percentages under clause (i), and the 2 percent under clause (ii), for the calendar year to reflect the excess of the rate of premium growth between the preceding calendar year and 2013 over the rate of income growth for such period.”
+Subsec. (b)(3)(A)(iii). Pub. L. 111–152, §1001(a)(1)(B), struck out cl. (iii). Text read as follows: "In the case of taxable years beginning in any calendar year after 2014, the Secretary shall adjust the initial and final applicable percentages under clause (i), and the 2 percent under clause (ii), for the calendar year to reflect the excess of the rate of premium growth between the preceding calendar year and 2013 over the rate of income growth for such period."
 
-Subsec. (c)(1)(A). Pub. L. 111–148, §10105(b), inserted “equals or” before “exceeds”.
+Subsec. (c)(1)(A). Pub. L. 111–148, §10105(b), inserted "equals or" before "exceeds".
 
-Subsec. (c)(2)(C)(i)(II). Pub. L. 111–152, §1001(a)(2)(A), substituted “9.5 percent” for “9.8 percent”.
+Subsec. (c)(2)(C)(i)(II). Pub. L. 111–152, §1001(a)(2)(A), substituted "9.5 percent" for "9.8 percent".
 
-Subsec. (c)(2)(C)(iv). Pub. L. 111–152, §1001(a)(2), substituted “9.5 percent” for “9.8 percent” and “(b)(3)(A)(ii)” for “(b)(3)(A)(iii)”.
+Subsec. (c)(2)(C)(iv). Pub. L. 111–152, §1001(a)(2), substituted "9.5 percent" for "9.8 percent" and "(b)(3)(A)(ii)" for "(b)(3)(A)(iii)".
 
-Pub. L. 111–148, §10105(c), substituted “subsection (b)(3)(A)(iii)” for “subsection (b)(3)(A)(ii)”.
+Pub. L. 111–148, §10105(c), substituted "subsection (b)(3)(A)(iii)" for "subsection (b)(3)(A)(ii)".
 
 Subsec. (c)(2)(D). Pub. L. 111–148, §10108(h)(1), added subpar. (D).
 
-Subsec. (d)(2)(A)(i), (ii). Pub. L. 111–152, §1004(a)(1)(A), substituted “modified adjusted gross” for “modified gross”.
+Subsec. (d)(2)(A)(i), (ii). Pub. L. 111–152, §1004(a)(1)(A), substituted "modified adjusted gross" for "modified gross".
 
-Subsec. (d)(2)(B). Pub. L. 111–152, §1004(a)(2)(A), amended subpar. (B) generally. Prior to amendment, text read as follows: “The term ‘modified gross income’ means gross income—
+Subsec. (d)(2)(B). Pub. L. 111–152, §1004(a)(2)(A), amended subpar. (B) generally. Prior to amendment, text read as follows: "The term 'modified gross income' means gross income—
 
-“(i) decreased by the amount of any deduction allowable under paragraph (1), (3), (4), or (10) of section 62(a),
+"(i) decreased by the amount of any deduction allowable under paragraph (1), (3), (4), or (10) of section 62(a),
 
-“(ii) increased by the amount of interest received or accrued during the taxable year which is exempt from tax imposed by this chapter, and
+"(ii) increased by the amount of interest received or accrued during the taxable year which is exempt from tax imposed by this chapter, and
 
-“(iii) determined without regard to sections 911, 931, and 933.”
+"(iii) determined without regard to sections 911, 931, and 933."
 
-Subsec. (f)(2)(B). Pub. L. 111–309, §208(a), amended generally subpar. heading and cl. (i). Prior to amendment, text of cl. (i) read as follows: “In the case of an applicable taxpayer whose household income is less than 400 percent of the poverty line for the size of the family involved for the taxable year, the amount of the increase under subparagraph (A) shall in no event exceed $400 ($250 in the case of a taxpayer whose tax is determined under section 1(c) for the taxable year).”
+Subsec. (f)(2)(B). Pub. L. 111–309, §208(a), amended generally subpar. heading and cl. (i). Prior to amendment, text of cl. (i) read as follows: "In the case of an applicable taxpayer whose household income is less than 400 percent of the poverty line for the size of the family involved for the taxable year, the amount of the increase under subparagraph (A) shall in no event exceed $400 ($250 in the case of a taxpayer whose tax is determined under section 1(c) for the taxable year)."
 
-Subsec. (f)(2)(B)(ii). Pub. L. 111–309, §208(b), inserted “in the table contained” after “each of the dollar amounts” in introductory provisions.
+Subsec. (f)(2)(B)(ii). Pub. L. 111–309, §208(b), inserted "in the table contained" after "each of the dollar amounts" in introductory provisions.
 
 Subsec. (f)(3). Pub. L. 111–152, §1004(c), added par. (3).
 
 #### Effective Date of 2011 Amendment ####
 
-Pub. L. 112–56, title IV, §401(b), Nov. 21, 2011, 125 Stat. 734, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Nov. 21, 2011].”
+Pub. L. 112–56, title IV, §401(b), Nov. 21, 2011, 125 Stat. 734, provided that: "The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Nov. 21, 2011]."
 
-Pub. L. 112–10, div. B, title VIII, §1858(d), Apr. 15, 2011, 125 Stat. 169, provided that: “The amendments made by this section [amending this section, sections 162, 4980H, and 6056 of this title, and section 218b of Title 29, Labor, and repealing section 139D of this title and section 18101 of Title 42, The Public Health and Welfare] shall take effect as if included in the provisions of, and the amendments made by, the provisions of the Patient Protection and Affordable Care Act [Pub. L. 111–148] to which they relate.”
+Pub. L. 112–10, div. B, title VIII, §1858(d), Apr. 15, 2011, 125 Stat. 169, provided that: "The amendments made by this section [amending this section, sections 162, 4980H, and 6056 of this title, and section 218b of Title 29, Labor, and repealing section 139D of this title and section 18101 of Title 42, The Public Health and Welfare] shall take effect as if included in the provisions of, and the amendments made by, the provisions of the Patient Protection and Affordable Care Act [Pub. L. 111–148] to which they relate."
 
-Pub. L. 112–9, §4(b), Apr. 14, 2011, 125 Stat. 37, provided that: “The amendment made by this section [amending this section] shall apply to taxable years ending after December 31, 2013.”
+Pub. L. 112–9, §4(b), Apr. 14, 2011, 125 Stat. 37, provided that: "The amendment made by this section [amending this section] shall apply to taxable years ending after December 31, 2013."
 
 #### Effective Date of 2010 Amendment ####
 
-Pub. L. 111–309, title II, §208(c), Dec. 15, 2010, 124 Stat. 3292, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2013.”
+Pub. L. 111–309, title II, §208(c), Dec. 15, 2010, 124 Stat. 3292, provided that: "The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2013."
 
-Pub. L. 111–148, title X, §10108(h)(2), Mar. 23, 2010, 124 Stat. 914, provided that: “The amendment made by this subsection [amending this section] shall apply to taxable years beginning after December 31, 2013.”
+Pub. L. 111–148, title X, §10108(h)(2), Mar. 23, 2010, 124 Stat. 914, provided that: "The amendment made by this subsection [amending this section] shall apply to taxable years beginning after December 31, 2013."
 
 #### Effective Date ####
 
-Pub. L. 111–148, title I, §1401(e), Mar. 23, 2010, 124 Stat. 220, provided that: “The amendments made by this section [enacting this section and amending sections 280C and 6211 of this title and section 1324 of Title 31, Money and Finance] shall apply to taxable years ending after December 31, 2013.”
+Pub. L. 111–148, title I, §1401(e), Mar. 23, 2010, 124 Stat. 220, provided that: "The amendments made by this section [enacting this section and amending sections 280C and 6211 of this title and section 1324 of Title 31, Money and Finance] shall apply to taxable years ending after December 31, 2013."
 
 #### No Impact on Social Security Trust Funds ####
 
 Pub. L. 112–56, title IV, §401(c), Nov. 21, 2011, 125 Stat. 734, provided that:
 
-“(1) Estimate of secretary.—The Secretary of the Treasury, or the Secretary's delegate, shall annually estimate the impact that the amendments made by subsection (a) [amending this section] have on the income and balances of the trust funds established under section 201 of the Social Security Act (42 U.S.C. 401).
+"(1) Estimate of secretary.—The Secretary of the Treasury, or the Secretary's delegate, shall annually estimate the impact that the amendments made by subsection (a) [amending this section] have on the income and balances of the trust funds established under section 201 of the Social Security Act (42 U.S.C. 401).
 
-“(2) Transfer of funds.—If, under paragraph (1), the Secretary of the Treasury or the Secretary's delegate estimates that such amendments have a negative impact on the income and balances of such trust funds, the Secretary shall transfer, not less frequently than quarterly, from the general fund an amount sufficient so as to ensure that the income and balances of such trust funds are not reduced as a result of such amendments.”
+"(2) Transfer of funds.—If, under paragraph (1), the Secretary of the Treasury or the Secretary's delegate estimates that such amendments have a negative impact on the income and balances of such trust funds, the Secretary shall transfer, not less frequently than quarterly, from the general fund an amount sufficient so as to ensure that the income and balances of such trust funds are not reduced as a result of such amendments."
 
-[<sup>1</sup> So in original. Probably should be preceded by “section”.](#36B_1)
+[<sup>1</sup> So in original. Probably should be preceded by "section".](#36B_1)
 
 [<sup>2</sup> See References in Text note below.](#36B_2)

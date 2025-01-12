@@ -8,4 +8,4 @@ When the Secretary determines that lands and interests therein have been acquire
 
 **1980**—Pub. L. 96–287 authorized technical assistance to nonprofit entities in qualifying for appropriate historical designation and for any aid for protection, rehabilitation, or preservation of properties in the vicinity of the park which are historically related to the purposes of the park.
 
-[<sup>1</sup> So in original. Probably should be “administrable”.](#410aa-2_1)
+[<sup>1</sup> So in original. Probably should be "administrable".](#410aa-2_1)

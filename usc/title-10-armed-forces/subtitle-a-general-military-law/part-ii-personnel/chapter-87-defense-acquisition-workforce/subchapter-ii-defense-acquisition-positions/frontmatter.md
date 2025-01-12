@@ -24,4 +24,4 @@ Sec.
 
 **2008**—Pub. L. 110–417, [div. A], title VIII, §834(a)(2), Oct. 14, 2008, 122 Stat. 4537, as amended by Pub. L. 111–84, div. A, title X, §1073(c)(6), Oct. 28, 2009, 123 Stat. 2474, added item 1722a.
 
-**2003**—Pub. L. 108–136, div. A, title VIII, §836(2), Nov. 24, 2003, 117 Stat. 1551, struck out item 1725 “Office of Personnel Management approval”.
+**2003**—Pub. L. 108–136, div. A, title VIII, §836(2), Nov. 24, 2003, 117 Stat. 1551, struck out item 1725 "Office of Personnel Management approval".

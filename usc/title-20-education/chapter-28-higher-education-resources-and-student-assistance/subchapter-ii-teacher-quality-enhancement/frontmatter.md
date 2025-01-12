@@ -2,7 +2,7 @@
 
 #### Codification ####
 
-Pub. L. 107–110, title X, §1051(1), Jan. 8, 2002, 115 Stat. 2080, added heading and struck out former heading which read as follows: “TEACHER QUALITY ENHANCEMENT GRANTS FOR STATES AND PARTNERSHIPS”.
+Pub. L. 107–110, title X, §1051(1), Jan. 8, 2002, 115 Stat. 2080, added heading and struck out former heading which read as follows: "TEACHER QUALITY ENHANCEMENT GRANTS FOR STATES AND PARTNERSHIPS".
 
 #### Prior Provisions ####
 

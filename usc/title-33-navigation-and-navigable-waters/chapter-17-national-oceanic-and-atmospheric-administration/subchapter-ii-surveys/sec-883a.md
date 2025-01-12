@@ -28,91 +28,91 @@ Office of Director of Coast and Geodetic Survey abolished and Coast and Geodetic
 
 Pub. L. 100–220, title III, subtitle B, Dec. 29, 1987, 101 Stat. 1475, as amended by Pub. L. 100–629, §3, Nov. 7, 1988, 102 Stat. 3286, provided that:
 
-#### “SEC. 3201. SHORT TITLE. ####
+#### "SEC. 3201. SHORT TITLE. ####
 
-“This subtitle may be cited as the ‘Great Lakes Shoreline Mapping Act of 1987’.
+"This subtitle may be cited as the 'Great Lakes Shoreline Mapping Act of 1987'.
 
-#### “SEC. 3202. GREAT LAKES SHORELINE MAPPING PLAN. ####
+#### "SEC. 3202. GREAT LAKES SHORELINE MAPPING PLAN. ####
 
-“(a) Preparation of Plan.—Not later than nine months after the date of the enactment of this subtitle [Dec. 29, 1987], the Director, in consultation with the Director of the United States Geological Survey, shall submit to the Congress a plan for preparing maps of the shoreline of the Great Lakes under section 3203.
+"(a) Preparation of Plan.—Not later than nine months after the date of the enactment of this subtitle [Dec. 29, 1987], the Director, in consultation with the Director of the United States Geological Survey, shall submit to the Congress a plan for preparing maps of the shoreline of the Great Lakes under section 3203.
 
-“(b) Content of Plan.—A plan prepared under paragraph (1) shall include—
+"(b) Content of Plan.—A plan prepared under paragraph (1) shall include—
 
-“(1) a work proposal and a division of responsibilities between the National Oceanic and Atmospheric Administration and the United States Geological Survey;
+"(1) a work proposal and a division of responsibilities between the National Oceanic and Atmospheric Administration and the United States Geological Survey;
 
-“(2) a time schedule for completion of maps;
+"(2) a time schedule for completion of maps;
 
-“(3) recommendation of funding needed for preparing the maps; and
+"(3) recommendation of funding needed for preparing the maps; and
 
-“(4) an area mapping schedule, with first priority given to shoreline areas subject to a high risk of erosion or flooding.
+"(4) an area mapping schedule, with first priority given to shoreline areas subject to a high risk of erosion or flooding.
 
-#### “SEC. 3203. PREPARATION OF GREAT LAKES SHORELINE MAPS. ####
+#### "SEC. 3203. PREPARATION OF GREAT LAKES SHORELINE MAPS. ####
 
-“(a) In General.—The [sic] following completion of a shoreline mapping plan under section 3202 and subject to authorization and appropriation of funds, the Director, in consultation with the Director of the United States Geological Survey, shall prepare maps of the shoreline areas of the Great Lakes.
+"(a) In General.—The [sic] following completion of a shoreline mapping plan under section 3202 and subject to authorization and appropriation of funds, the Director, in consultation with the Director of the United States Geological Survey, shall prepare maps of the shoreline areas of the Great Lakes.
 
-“(b) Content of Maps.—Maps prepared under this section—
+"(b) Content of Maps.—Maps prepared under this section—
 
-“(1) shall include—
+"(1) shall include—
 
-“(A) bathymetry of the nearshore area, to the extent that this area will affect coastal erosion and flooding;
+"(A) bathymetry of the nearshore area, to the extent that this area will affect coastal erosion and flooding;
 
-“(B) topography of the adjacent shoreline, to the extent that this area will directly affect or be affected by coastal erosion and flooding;
+"(B) topography of the adjacent shoreline, to the extent that this area will directly affect or be affected by coastal erosion and flooding;
 
-“(C) the geological conditions of the nearshore area and shoreline to the extent that these areas will directly affect or be affected by coastal erosion and flooding;
+"(C) the geological conditions of the nearshore area and shoreline to the extent that these areas will directly affect or be affected by coastal erosion and flooding;
 
-“(D) information on the recent geological past of the nearshore area and shoreline areas described in paragraph (3); and
+"(D) information on the recent geological past of the nearshore area and shoreline areas described in paragraph (3); and
 
-“(E) appropriate information for use in predicting and preventing damage caused by erosion and flooding in the Great Lakes;
+"(E) appropriate information for use in predicting and preventing damage caused by erosion and flooding in the Great Lakes;
 
-“(2) shall be of appropriate scale and detail and take into account the greater informational needs of areas subject to a high risk of erosion or flooding; and
+"(2) shall be of appropriate scale and detail and take into account the greater informational needs of areas subject to a high risk of erosion or flooding; and
 
-“(3) to the maximum extent practicable, shall be consistent with similar shoreline maps prepared by, or for the use of, the Government of Canada.
+"(3) to the maximum extent practicable, shall be consistent with similar shoreline maps prepared by, or for the use of, the Government of Canada.
 
-“(c) Consultation.—In preparing maps under this section, the Director shall consult with, and take into consideration, the informational needs of—
+"(c) Consultation.—In preparing maps under this section, the Director shall consult with, and take into consideration, the informational needs of—
 
-“(1) the Army Corps of Engineers;
+"(1) the Army Corps of Engineers;
 
-“(2) the Federal Emergency Management Agency;
+"(2) the Federal Emergency Management Agency;
 
-“(3) other appropriate Federal agencies;
+"(3) other appropriate Federal agencies;
 
-“(4) the States of Illinois, Indiana, Michigan, Minnesota, New York, Ohio, Pennsylvania, and Wisconsin;
+"(4) the States of Illinois, Indiana, Michigan, Minnesota, New York, Ohio, Pennsylvania, and Wisconsin;
 
-“(5) appropriate local government units; and
+"(5) appropriate local government units; and
 
-“(6) the general public.
+"(6) the general public.
 
-“(d) Availability of Maps.—The Director shall make maps prepared under this section available to—
+"(d) Availability of Maps.—The Director shall make maps prepared under this section available to—
 
-“(1) Federal agencies;
+"(1) Federal agencies;
 
-“(2) State governments;
+"(2) State governments;
 
-“(3) local government units;
+"(3) local government units;
 
-“(4) the Government of Canada; and
+"(4) the Government of Canada; and
 
-“(5) the general public.
+"(5) the general public.
 
-“(e) Recovery of Costs.—The costs of reproducing and distributing maps prepared under this section may be recovered under section 9701 of title 31, United States Code, or another law.
+"(e) Recovery of Costs.—The costs of reproducing and distributing maps prepared under this section may be recovered under section 9701 of title 31, United States Code, or another law.
 
-#### “SEC. 3204. CONTRACT AUTHORITY. ####
+#### "SEC. 3204. CONTRACT AUTHORITY. ####
 
-“The Director may, subject to appropriations, enter into contracts and agreements on a reimbursable or cost-sharing basis with other Federal agencies, State governments, local governments, and private entities, to carry out this subtitle.
+"The Director may, subject to appropriations, enter into contracts and agreements on a reimbursable or cost-sharing basis with other Federal agencies, State governments, local governments, and private entities, to carry out this subtitle.
 
-#### “SEC. 3205. DEFINITIONS. ####
+#### "SEC. 3205. DEFINITIONS. ####
 
-“For purposes of this subtitle—
+"For purposes of this subtitle—
 
-“(1) The term ‘Director’ means the Director of Charting and Geodetic Services of the National Ocean Service, within the National Oceanic and Atmospheric Administration.
+"(1) The term 'Director' means the Director of Charting and Geodetic Services of the National Ocean Service, within the National Oceanic and Atmospheric Administration.
 
-“(2) The term ‘Great Lakes’ means Lake Erie, Lake Huron, Lake Michigan, Lake Ontario, Lake St. Clair, Lake Superior, the Saint Mary's River, the Saint Clair River, the Detroit River, the Niagara River, the Saint Lawrence River to the Canadian border, to the extent such lakes and rivers are subject to the jurisdiction of the United States.
+"(2) The term 'Great Lakes' means Lake Erie, Lake Huron, Lake Michigan, Lake Ontario, Lake St. Clair, Lake Superior, the Saint Mary's River, the Saint Clair River, the Detroit River, the Niagara River, the Saint Lawrence River to the Canadian border, to the extent such lakes and rivers are subject to the jurisdiction of the United States.
 
-“(3) The term ‘high risk of erosion’ means subject to erosion at a rate greater than 1 foot per year.
+"(3) The term 'high risk of erosion' means subject to erosion at a rate greater than 1 foot per year.
 
-#### “SEC. 3206. AUTHORIZATION OF APPROPRIATIONS. ####
+#### "SEC. 3206. AUTHORIZATION OF APPROPRIATIONS. ####
 
-“There are authorized to be appropriated to carry out section 3202 not more than $100,000 for fiscal year 1989. Amounts appropriated pursuant to this section shall remain available until expended.”
+"There are authorized to be appropriated to carry out section 3202 not more than $100,000 for fiscal year 1989. Amounts appropriated pursuant to this section shall remain available until expended."
 
 [For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.]
 

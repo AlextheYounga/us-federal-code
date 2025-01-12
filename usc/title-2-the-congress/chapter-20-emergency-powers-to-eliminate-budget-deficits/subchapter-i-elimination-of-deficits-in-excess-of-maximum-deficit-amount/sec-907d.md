@@ -34,9 +34,9 @@ would cause the amount of the deficit for such fiscal year to exceed the maximum
 
 In the Senate, an amendment which adds to a resolution reported under paragraph (2) an instruction of the type referred to in such paragraph shall be in order during the consideration of such resolution if such amendment would be in order but for the fact that it would be held to be non-germane on the basis that the instruction constitutes new matter.
 
-#### (7) “Day” defined ####
+#### (7) "Day" defined ####
 
-For purposes of paragraphs (1), (2), and (3), the term “day” shall mean any calendar day on which the Senate is in session.
+For purposes of paragraphs (1), (2), and (3), the term "day" shall mean any calendar day on which the Senate is in session.
 
 #### (b) Procedures ####
 
@@ -56,8 +56,8 @@ Section 641(d)(2) of this title shall apply to reconciliation bills and reconcil
 
 Any bill or resolution received in the Senate from the House, which is a companion to a reconciliation bill or reconciliation resolution of the Senate for the purposes of this subsection, shall be considered in the Senate pursuant to the provisions of this subsection.
 
-#### (5) “Resolution” defined ####
+#### (5) "Resolution" defined ####
 
-For purposes of this subsection, the term “resolution” means a simple, joint, or concurrent resolution.
+For purposes of this subsection, the term "resolution" means a simple, joint, or concurrent resolution.
 
 (Pub. L. 99–177, title II, §258C, as added Pub. L. 101–508, title XIII, §13101(g), Nov. 5, 1990, 104 Stat. 1388–600.)

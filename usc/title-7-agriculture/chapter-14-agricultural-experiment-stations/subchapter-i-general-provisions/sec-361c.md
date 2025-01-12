@@ -6,7 +6,7 @@ There are authorized to be appropriated for the purposes of sections 361a to 361
 
 #### (b) Allotments to States; authorization of appropriations for Virgin Islands and Guam; limitation ####
 
-(1) Out of such sums each State shall be entitled to receive annually a sum of money equal to and subject to the same requirement as to use for marketing research projects as the sums received from Federal appropriations for State agricultural experiment stations for the fiscal year 1955, except that amounts heretofore made available from the fund known as the “Regional research fund, Office of Experiment Stations” shall continue to be available for the support of cooperative regional projects as defined in subsection (c)(3) of this section, and the said fund shall be designated “Regional research fund, State agricultural experiment stations,” and the Secretary of Agriculture shall be entitled to receive annually for the administration of sections 361a to 361i of this title, a sum not less than that available for this purpose for the fiscal year ending June 30, 1955: *Provided*, That if the appropriations hereunder available for distribution in any fiscal year are less than those for the fiscal year 1955 the allotment to each State and the amounts for Federal administration and the regional research fund shall be reduced in proportion to the amount of such reduction.
+(1) Out of such sums each State shall be entitled to receive annually a sum of money equal to and subject to the same requirement as to use for marketing research projects as the sums received from Federal appropriations for State agricultural experiment stations for the fiscal year 1955, except that amounts heretofore made available from the fund known as the "Regional research fund, Office of Experiment Stations" shall continue to be available for the support of cooperative regional projects as defined in subsection (c)(3) of this section, and the said fund shall be designated "Regional research fund, State agricultural experiment stations," and the Secretary of Agriculture shall be entitled to receive annually for the administration of sections 361a to 361i of this title, a sum not less than that available for this purpose for the fiscal year ending June 30, 1955: *Provided*, That if the appropriations hereunder available for distribution in any fiscal year are less than those for the fiscal year 1955 the allotment to each State and the amounts for Federal administration and the regional research fund shall be reduced in proportion to the amount of such reduction.
 
 (2) There is authorized to be appropriated for the fiscal year ending June 30, 1973, and for each fiscal year thereafter, for payment to the Virgin Islands and Guam, $100,000 each, which sums shall be in addition to the sums appropriated for the several States of the United States and Puerto Rico under the provisions of this section. The amount paid by the Federal Government to the Virgin Islands and Guam pursuant to this paragraph shall not exceed during any fiscal year, except the fiscal years ending June 30, 1971, and June 30, 1972, when such amount may be used to pay the total cost of providing services pursuant to sections 361a to 361i of this title, the amount available and budgeted for expenditure by the Virgin Islands and Guam for the purposes of such sections.
 
@@ -18,7 +18,7 @@ Any sums made available by the Congress in addition to those provided for in sub
 
 (2) Not less than 52 per centum of such sums shall be allotted to each State, as follows: One-half in an amount which bears the same ratio to the total amount to be allotted as the rural population of the State bears to the total rural population of all the States as determined by the last preceding decennial census current at the time each such additional sum is first appropriated; and one-half in an amount which bears the same ratio to the total amount to be allotted as the farm population of the State bears to the total farm population of all the States as determined by the last preceding decennial census current at the time such additional sum is first appropriated;
 
-(3) Not less than 25 percent shall be allotted to the States for cooperative research employing multidisciplinary approaches in which a State agricultural experiment station, working with another State agricultural experiment station, the Agricultural Research Service, or a college or university, cooperates to solve problems that concern more than 1 State. The funds available under this paragraph, together with the funds available under subsection (b) of this section for a similar purpose, shall be designated as the “Multistate Research Fund, State Agricultural Experiment Stations”.
+(3) Not less than 25 percent shall be allotted to the States for cooperative research employing multidisciplinary approaches in which a State agricultural experiment station, working with another State agricultural experiment station, the Agricultural Research Service, or a college or university, cooperates to solve problems that concern more than 1 State. The funds available under this paragraph, together with the funds available under subsection (b) of this section for a similar purpose, shall be designated as the "Multistate Research Fund, State Agricultural Experiment Stations".
 
 (4) Three per centum shall be available to the Secretary of Agriculture for administration of sections 361a to 361i of this title. These administrative funds may be used for transportation of scientists who are not officers or employees of the United States to research meetings convened for the purpose of assessing research opportunities or research planning.
 
@@ -56,9 +56,9 @@ Effective beginning for fiscal year 2003, in lieu of the matching funds requirem
 
 The Secretary may waive the matching fund requirement of subparagraph (A) for any fiscal year if the Secretary determines that the government of the insular area or the District of Columbia will be unlikely to meet the matching requirement for the fiscal year.
 
-#### (e) “Administration” defined ####
+#### (e) "Administration" defined ####
 
-“Administration” as used in this section shall include participation in planning and coordinating cooperative regional research as defined in subsection (c)(3) of this section.
+"Administration" as used in this section shall include participation in planning and coordinating cooperative regional research as defined in subsection (c)(3) of this section.
 
 #### (f) Adjustment of payments ####
 
@@ -82,7 +82,7 @@ The State shall include in the plan of work of the State required under section 
 
 #### (1) In general ####
 
-Not less than the applicable percentage specified under paragraph (2) of the Federal formula funds that are paid under sections 361a to 361i of this title and subsections (b) and (c) of section 343 of this title to colleges and universities eligible to receive funds under the Act of July 2, 1862 (12 Stat. 503, chapter 130; 7 U.S.C. 301 et seq.), during a fiscal year shall be expended for activities that integrate cooperative research and extension (referred to in this subsection as “integrated activities”).
+Not less than the applicable percentage specified under paragraph (2) of the Federal formula funds that are paid under sections 361a to 361i of this title and subsections (b) and (c) of section 343 of this title to colleges and universities eligible to receive funds under the Act of July 2, 1862 (12 Stat. 503, chapter 130; 7 U.S.C. 301 et seq.), during a fiscal year shall be expended for activities that integrate cooperative research and extension (referred to in this subsection as "integrated activities").
 
 #### (2) Applicable percentages ####
 
@@ -124,7 +124,7 @@ Federal formula funds described in paragraph (1) that are used by a State for a 
 
 #### References in Text ####
 
-Act of July 2, 1862, referred to in subsec. (i)(1), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, referred to in subsec. (i)(1), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
 #### Codification ####
 
@@ -134,39 +134,39 @@ Prior to being amended generally by act Aug. 11, 1955, ch. 790, §1, 69 Stat. 67
 
 #### Amendments ####
 
-**2008**—Subsec. (d)(4). Pub. L. 110–246, §7404(a)(1), inserted “and the District of Columbia” after “areas” in heading.
+**2008**—Subsec. (d)(4). Pub. L. 110–246, §7404(a)(1), inserted "and the District of Columbia" after "areas" in heading.
 
-Subsec. (d)(4)(A). Pub. L. 110–246, §7404(a)(2), inserted “and the District of Columbia” after “United States” and after “respectively,”.
+Subsec. (d)(4)(A). Pub. L. 110–246, §7404(a)(2), inserted "and the District of Columbia" after "United States" and after "respectively,".
 
-Subsec. (d)(4)(B). Pub. L. 110–246, §7404(a)(3), inserted “or the District of Columbia” after “area”.
+Subsec. (d)(4)(B). Pub. L. 110–246, §7404(a)(3), inserted "or the District of Columbia" after "area".
 
-**2002**—Subsec. (d)(4). Pub. L. 107–171 added par. (4) and struck out heading and text of former par. (4). Text read as follows: “In lieu of the matching funds requirement of paragraph (1), the Commonwealth of Puerto Rico, the Virgin Islands, and Guam shall be subject to the same matching funds requirements as those applicable to an eligible institution under section 3222d of this title.”
+**2002**—Subsec. (d)(4). Pub. L. 107–171 added par. (4) and struck out heading and text of former par. (4). Text read as follows: "In lieu of the matching funds requirement of paragraph (1), the Commonwealth of Puerto Rico, the Virgin Islands, and Guam shall be subject to the same matching funds requirements as those applicable to an eligible institution under section 3222d of this title."
 
 **1998**—Subsec. (b)(1). Pub. L. 105–185, §104(b)(1), made technical amendment to reference in original act which appears in text as reference to subsection (c)(3) of this section.
 
 Subsec. (c)(1), (2). Pub. L. 105–185, §104(a)(1)(A), redesignated pars. 1 and 2 as (1) and (2), respectively.
 
-Subsec. (c)(3). Pub. L. 105–185, §104(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “Not more than 25 per centum shall be allotted to the States for cooperative research in which two or more State agricultural experiment stations are cooperating to solve problems that concern the agriculture of more than one State. The funds available for such purposes, together with funds available pursuant to subsection (b) of this section for like purpose shall be designated as the ‘Regional research fund, State agricultural experiment stations’;”.
+Subsec. (c)(3). Pub. L. 105–185, §104(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: "Not more than 25 per centum shall be allotted to the States for cooperative research in which two or more State agricultural experiment stations are cooperating to solve problems that concern the agriculture of more than one State. The funds available for such purposes, together with funds available pursuant to subsection (b) of this section for like purpose shall be designated as the 'Regional research fund, State agricultural experiment stations';".
 
 Pub. L. 105–185, §104(a)(1)(A), redesignated par. 3 as (3).
 
 Subsec. (c)(4), (5). Pub. L. 105–185, §104(a)(1)(A), redesignated par. 5 as (4).
 
-Subsec. (d). Pub. L. 105–185, §203(a), added subsec. (d) and struck out former subsec. (d) which read as follows: “Of any amount in excess of $90,000 available under sections 361a to 361i of this title for allotment to any State, exclusive of the regional research fund, State agricultural experiment stations, no allotment and no payments thereof shall be made in excess of the amount which the State makes available out of its own funds for research and for the establishment and maintenance of facilities necessary for the prosecution of such research: *And provided further*, That if any State fails to make available for such research purposes for any fiscal year a sum equal to the amount in excess of $90,000 to which it may be entitled for such year, the remainder of such amount shall be withheld by the Secretary of Agriculture and reapportioned among the States.”
+Subsec. (d). Pub. L. 105–185, §203(a), added subsec. (d) and struck out former subsec. (d) which read as follows: "Of any amount in excess of $90,000 available under sections 361a to 361i of this title for allotment to any State, exclusive of the regional research fund, State agricultural experiment stations, no allotment and no payments thereof shall be made in excess of the amount which the State makes available out of its own funds for research and for the establishment and maintenance of facilities necessary for the prosecution of such research: *And provided further*, That if any State fails to make available for such research purposes for any fiscal year a sum equal to the amount in excess of $90,000 to which it may be entitled for such year, the remainder of such amount shall be withheld by the Secretary of Agriculture and reapportioned among the States."
 
-Subsec. (d)(1). Pub. L. 105–277, §101(a) [title VII, §753(d)(1)], substituted “Except as provided in paragraph (4), no” for “No”.
+Subsec. (d)(1). Pub. L. 105–277, §101(a) [title VII, §753(d)(1)], substituted "Except as provided in paragraph (4), no" for "No".
 
 Subsec. (d)(4). Pub. L. 105–277, §101(a) [title VII, §753(d)(2)], added par. (4).
 
-Subsec. (e). Pub. L. 105–185, §104(b)(2), substituted “subsection (c)(3)” for “subsection (c)3”.
+Subsec. (e). Pub. L. 105–185, §104(b)(2), substituted "subsection (c)(3)" for "subsection (c)3".
 
 Subsec. (h). Pub. L. 105–185, §104(a)(2), added subsec. (h).
 
 Subsec. (i). Pub. L. 105–185, §204(a), added subsec. (i).
 
-**1996**—Subsec. (c)(3). Pub. L. 104–127 struck out “, and shall be used only for such cooperative regional projects as are recommended by a committee of nine persons elected by and representing the directors of the State agricultural experiment stations, and approved by the Secretary of Agriculture. The necessary travel expenses of the committee of nine persons in performance of their duties may be paid from the fund established by this paragraph” before semicolon at end.
+**1996**—Subsec. (c)(3). Pub. L. 104–127 struck out ", and shall be used only for such cooperative regional projects as are recommended by a committee of nine persons elected by and representing the directors of the State agricultural experiment stations, and approved by the Secretary of Agriculture. The necessary travel expenses of the committee of nine persons in performance of their duties may be paid from the fund established by this paragraph" before semicolon at end.
 
-**1990**—Subsec. (d). Pub. L. 101–624 inserted before period at end “and reapportioned among the States”.
+**1990**—Subsec. (d). Pub. L. 101–624 inserted before period at end "and reapportioned among the States".
 
 **1981**—Subsec. (g). Pub. L. 97–98 added subsec. (g).
 

@@ -12,7 +12,7 @@ The administrator may make such expenditures for offices, vehicles, furnishings,
 
 #### References in Text ####
 
-Federal Power Act, referred to in subsec. (a), was in the original the “Federal Water Power Act”, and was redesignated the Federal Power Act by section 791a of this title. The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
+Federal Power Act, referred to in subsec. (a), was in the original the "Federal Water Power Act", and was redesignated the Federal Power Act by section 791a of this title. The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 #### Amendments ####
 
@@ -24,7 +24,7 @@ Federal Power Act, referred to in subsec. (a), was in the original the “Federa
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-“Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec. (a) pursuant to Pub. L. 95–91, §402(a)(1)(B), which is classified to section 7172(a)(1)(B) of Title 42.
+"Federal Energy Regulatory Commission" substituted for "Federal Power Commission" in subsec. (a) pursuant to Pub. L. 95–91, §402(a)(1)(B), which is classified to section 7172(a)(1)(B) of Title 42.
 
 Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 

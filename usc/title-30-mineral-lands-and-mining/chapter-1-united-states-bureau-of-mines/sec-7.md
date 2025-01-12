@@ -6,11 +6,11 @@ For tests or investigations authorized by the Secretary of the Interior under th
 
 #### Amendments ####
 
-**1932**—Act June 30, 1932, substituted “Secretary of Commerce” for “Secretary of the Interior” and changed a reasonable fee to be charged to a fee sufficient to compensate for entire cost of services rendered.
+**1932**—Act June 30, 1932, substituted "Secretary of Commerce" for "Secretary of the Interior" and changed a reasonable fee to be charged to a fee sufficient to compensate for entire cost of services rendered.
 
 #### Change of Name ####
 
-“United States Bureau of Mines” substituted in text for “Bureau of Mines” pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
+"United States Bureau of Mines" substituted in text for "Bureau of Mines" pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
 
 #### Effective Date of 1932 Amendment ####
 

@@ -32,4 +32,4 @@ The United States Governor of the Bank is authorized—
 
 **2013**—Subsec. (b)(3), (4). Pub. L. 113–6 added pars. (3) and (4).
 
-[<sup>1</sup> So in original. Probably should be “paragraph (1)—”.](#286vv_1)
+[<sup>1</sup> So in original. Probably should be "paragraph (1)—".](#286vv_1)

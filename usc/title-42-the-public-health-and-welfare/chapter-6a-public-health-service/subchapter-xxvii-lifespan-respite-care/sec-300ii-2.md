@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-The Secretary may award a grant or cooperative agreement to a public or private nonprofit entity to establish a National Resource Center on Lifespan Respite Care (referred to in this section as the “center”).
+The Secretary may award a grant or cooperative agreement to a public or private nonprofit entity to establish a National Resource Center on Lifespan Respite Care (referred to in this section as the "center").
 
 #### (b) Purposes of the center ####
 

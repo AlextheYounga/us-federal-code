@@ -8,7 +8,7 @@ Any regulations prescribed by the Secretary of the Army in pursuance of this sec
 
 #### Codification ####
 
-The first paragraph of this section is from section 4 of act Aug. 18, 1894, popularly known as the “River and Harbor Act of 1894”, as amended.
+The first paragraph of this section is from section 4 of act Aug. 18, 1894, popularly known as the "River and Harbor Act of 1894", as amended.
 
 As originally enacted, said section 4 made it the duty of the Secretary of War to prescribe rules and regulations for the use, administration, and navigation of any or all canals and similar works of navigation owned, operated, or maintained by the United States, and provided for the posting of such regulations and the punishment of violations thereof.
 
@@ -20,7 +20,7 @@ The last paragraph of this section is from section 6 of act June 13, 1902. Said 
 
 #### Change of Name ####
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
 #### Rules and Regulations ####
 

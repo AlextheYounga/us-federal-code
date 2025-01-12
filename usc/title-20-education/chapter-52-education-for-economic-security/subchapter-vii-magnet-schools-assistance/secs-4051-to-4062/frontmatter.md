@@ -8,7 +8,7 @@ Section 4053, Pub. L. 98–377, title VII, §703, Aug. 11, 1984, 98 Stat. 1299; 
 
 Section 4054, Pub. L. 98–377, title VII, §704, Aug. 11, 1984, 98 Stat. 1299, related to program authorization.
 
-Section 4055, Pub. L. 98–377, title VII, §705, Aug. 11, 1984, 98 Stat. 1300, defined term “magnet school”.
+Section 4055, Pub. L. 98–377, title VII, §705, Aug. 11, 1984, 98 Stat. 1300, defined term "magnet school".
 
 Section 4056, Pub. L. 98–377, title VII, §706, Aug. 11, 1984, 98 Stat. 1300; Pub. L. 99–159, title II, §263, Nov. 22, 1985, 99 Stat. 902, related to uses of funds.
 

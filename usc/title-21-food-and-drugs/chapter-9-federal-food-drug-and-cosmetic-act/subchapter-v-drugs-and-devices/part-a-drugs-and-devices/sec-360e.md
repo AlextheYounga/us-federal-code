@@ -302,29 +302,29 @@ revising the classification of the device so that the device is classified into 
 
 #### Amendments ####
 
-**2012**—Subsec. (a)(1). Pub. L. 112–144, §608(b)(1)(A), substituted “an order issued under subsection (b) (or a regulation promulgated under such subsection prior to July 9, 2012)” for “regulation promulgated under subsection (b)”.
+**2012**—Subsec. (a)(1). Pub. L. 112–144, §608(b)(1)(A), substituted "an order issued under subsection (b) (or a regulation promulgated under such subsection prior to July 9, 2012)" for "regulation promulgated under subsection (b)".
 
-Subsec. (b). Pub. L. 112–144, §608(b)(1)(B)(i)(I), which directed substitution of “Order” for “Regulation” in the heading of par. (1) of subsec. (b), was executed by making the substitution in the heading of subsec. (b), to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 112–144, §608(b)(1)(B)(i)(I), which directed substitution of "Order" for "Regulation" in the heading of par. (1) of subsec. (b), was executed by making the substitution in the heading of subsec. (b), to reflect the probable intent of Congress.
 
-Subsec. (b)(1). Pub. L. 112–144, §608(b)(1)(B)(i)(II), in concluding provisions, substituted “by administrative order following publication of a proposed order in the Federal Register, a meeting of a device classification panel described in section 360c(b) of this title, and consideration of comments from all affected stakeholders, including patients, payors, and providers, notwithstanding subchapter II of chapter 5 of title 5” for “by regulation, promulgated in accordance with this subsection” and inserted at end “Authority to issue such administrative order shall not be delegated below the Director of the Center for Devices and Radiological Health, acting in consultation with the Commissioner.”
+Subsec. (b)(1). Pub. L. 112–144, §608(b)(1)(B)(i)(II), in concluding provisions, substituted "by administrative order following publication of a proposed order in the Federal Register, a meeting of a device classification panel described in section 360c(b) of this title, and consideration of comments from all affected stakeholders, including patients, payors, and providers, notwithstanding subchapter II of chapter 5 of title 5" for "by regulation, promulgated in accordance with this subsection" and inserted at end "Authority to issue such administrative order shall not be delegated below the Director of the Center for Devices and Radiological Health, acting in consultation with the Commissioner."
 
-Subsec. (b)(2). Pub. L. 112–144, §608(b)(1)(B)(ii), struck out subpar. (A) designation after “(2)” and substituted “A proposed order required under paragraph (1) shall contain—” for “A proceeding for the promulgation of a regulation under paragraph (1) respecting a device shall be initiated by the publication in the Federal Register of a notice of proposed rulemaking. Such notice shall contain—” in introductory provisions, redesignated cls. (i) to (iv) as subpars. (A) to (D), respectively, substituted “order” for “regulation” in subpars. (A) and (C), and struck out former subpar. (B) which read as follows: “If, within fifteen days after publication of a notice under subparagraph (A), the Secretary receives a request for a change in the classification of a device, he shall, within sixty days of the publication of such notice and after consultation with the appropriate panel under section 360c of this title, by order published in the Federal Register, either deny the request for change in classification or give notice of his intent to initiate such a change under section 360c(e) of this title.”
+Subsec. (b)(2). Pub. L. 112–144, §608(b)(1)(B)(ii), struck out subpar. (A) designation after "(2)" and substituted "A proposed order required under paragraph (1) shall contain—" for "A proceeding for the promulgation of a regulation under paragraph (1) respecting a device shall be initiated by the publication in the Federal Register of a notice of proposed rulemaking. Such notice shall contain—" in introductory provisions, redesignated cls. (i) to (iv) as subpars. (A) to (D), respectively, substituted "order" for "regulation" in subpars. (A) and (C), and struck out former subpar. (B) which read as follows: "If, within fifteen days after publication of a notice under subparagraph (A), the Secretary receives a request for a change in the classification of a device, he shall, within sixty days of the publication of such notice and after consultation with the appropriate panel under section 360c of this title, by order published in the Federal Register, either deny the request for change in classification or give notice of his intent to initiate such a change under section 360c(e) of this title."
 
-Subsec. (b)(3). Pub. L. 112–144, §608(b)(1)(B)(iii)(I), (II), (IV), (V), substituted “proposed order” for “proposed regulation” in two places, “paragraph (2),” for “paragraph (2) and after”, “(A) issue an administrative order under paragraph (1)” for “(A) promulgate such regulation”, “paragraph (2)(B)” for “paragraph (2)(A)(ii)”, and “issuance of the administrative order” for “promulgation of the regulation”.
+Subsec. (b)(3). Pub. L. 112–144, §608(b)(1)(B)(iii)(I), (II), (IV), (V), substituted "proposed order" for "proposed regulation" in two places, "paragraph (2)," for "paragraph (2) and after", "(A) issue an administrative order under paragraph (1)" for "(A) promulgate such regulation", "paragraph (2)(B)" for "paragraph (2)(A)(ii)", and "issuance of the administrative order" for "promulgation of the regulation".
 
-Pub. L. 112–144, §608(b)(1)(B)(iii)(III), which directed insertion of “and a meeting of a device classification panel described in section 360c(b) of this title,” after “such proposed regulation and findings,” was inserted after “such proposed order and findings,” to reflect the probable intent of Congress and amendment by Pub. L. 112–144, §608(b)(1)(B)(iii)(I). See above.
+Pub. L. 112–144, §608(b)(1)(B)(iii)(III), which directed insertion of "and a meeting of a device classification panel described in section 360c(b) of this title," after "such proposed regulation and findings," was inserted after "such proposed order and findings," to reflect the probable intent of Congress and amendment by Pub. L. 112–144, §608(b)(1)(B)(iii)(I). See above.
 
-Subsec. (b)(4). Pub. L. 112–144, §608(b)(1)(B)(iv), struck out par. (4) which read as follows: “The Secretary, upon his own initiative or upon petition of an interested person, may by regulation amend or revoke any regulation promulgated under this subsection. A regulation to amend or revoke a regulation under this subsection shall be promulgated in accordance with the requirements prescribed by this subsection for the promulgation of the regulation to be amended or revoked.”
+Subsec. (b)(4). Pub. L. 112–144, §608(b)(1)(B)(iv), struck out par. (4) which read as follows: "The Secretary, upon his own initiative or upon petition of an interested person, may by regulation amend or revoke any regulation promulgated under this subsection. A regulation to amend or revoke a regulation under this subsection shall be promulgated in accordance with the requirements prescribed by this subsection for the promulgation of the regulation to be amended or revoked."
 
-Subsec. (c)(4)(A). Pub. L. 112–144, §203(g), substituted “379j(h)” for “379j(g)”.
+Subsec. (c)(4)(A). Pub. L. 112–144, §203(g), substituted "379j(h)" for "379j(g)".
 
-Subsec. (i)(2). Pub. L. 112–144, §608(b)(1)(C)(i)(III), (IV), in concluding provisions, substituted “administrative order issued under this paragraph requires” for “regulation requires” and struck out at end “Before the publication of a regulation requiring a device to remain in class III or revising its classification, the Secretary shall publish a proposed regulation respecting the classification of a device under this paragraph and provide reasonable opportunity for the submission of comments on any such regulation. No regulation requiring a device to remain in class III or revising its classification may take effect before the expiration of 90 days from the date of its publication in the Federal Register as a proposed regulation.”
+Subsec. (i)(2). Pub. L. 112–144, §608(b)(1)(C)(i)(III), (IV), in concluding provisions, substituted "administrative order issued under this paragraph requires" for "regulation requires" and struck out at end "Before the publication of a regulation requiring a device to remain in class III or revising its classification, the Secretary shall publish a proposed regulation respecting the classification of a device under this paragraph and provide reasonable opportunity for the submission of comments on any such regulation. No regulation requiring a device to remain in class III or revising its classification may take effect before the expiration of 90 days from the date of its publication in the Federal Register as a proposed regulation."
 
-Pub. L. 112–144, §608(b)(1)(C)(i)(I), in introductory provisions, substituted “the date that is 2 years after July 9, 2012” for “December 1, 1995” and “issue an administrative order following publication of a proposed order in the Federal Register, a meeting of a device classification panel described in section 360c(b) of this title, and consideration of comments from all affected stakeholders, including patients, payors, and providers, notwithstanding subchapter II of chapter 5 of title 5,” for “publish a regulation in the Federal Register”.
+Pub. L. 112–144, §608(b)(1)(C)(i)(I), in introductory provisions, substituted "the date that is 2 years after July 9, 2012" for "December 1, 1995" and "issue an administrative order following publication of a proposed order in the Federal Register, a meeting of a device classification panel described in section 360c(b) of this title, and consideration of comments from all affected stakeholders, including patients, payors, and providers, notwithstanding subchapter II of chapter 5 of title 5," for "publish a regulation in the Federal Register".
 
-Subsec. (i)(2)(B). Pub. L. 112–144, §608(b)(1)(C)(i)(II), substituted “administrative order has been issued under subsection (b) (or no regulation has been promulgated under such subsection prior to July 9, 2012)” for “final regulation has been promulgated under subsection (b) of this section”.
+Subsec. (i)(2)(B). Pub. L. 112–144, §608(b)(1)(C)(i)(II), substituted "administrative order has been issued under subsection (b) (or no regulation has been promulgated under such subsection prior to July 9, 2012)" for "final regulation has been promulgated under subsection (b) of this section".
 
-Subsec. (i)(3). Pub. L. 112–144, §608(b)(1)(C)(ii), substituted “order requiring” for “regulation requiring” in two places and “issuance of an administrative order under subsection (b)” for “promulgation of a subsection (b) of this section regulation”.
+Subsec. (i)(3). Pub. L. 112–144, §608(b)(1)(C)(ii), substituted "order requiring" for "regulation requiring" in two places and "issuance of an administrative order under subsection (b)" for "promulgation of a subsection (b) of this section regulation".
 
 **2007**—Subsec. (c)(1)(G), (H). Pub. L. 110–85 added subpar. (G) and redesignated former subpar. (G) as (H).
 
@@ -332,19 +332,19 @@ Subsec. (i)(3). Pub. L. 112–144, §608(b)(1)(C)(ii), substituted “order requ
 
 Pub. L. 108–214, §2(d)(1)(A)(i), redesignated par. (3) relating to acceptance and review of any portion of the application prior to submission as (4).
 
-Subsec. (c)(4). Pub. L. 108–214, §2(d)(1)(A), redesignated par. (3) relating to acceptance and review of any portion of the application prior to submission as (4) and substituted “unless a significant issue of safety” for “unless an issue of safety” in subpar. (B).
+Subsec. (c)(4). Pub. L. 108–214, §2(d)(1)(A), redesignated par. (3) relating to acceptance and review of any portion of the application prior to submission as (4) and substituted "unless a significant issue of safety" for "unless an issue of safety" in subpar. (B).
 
-**2002**—Subsec. (a). Pub. L. 107–250, §302(c)(1), inserted “or, as applicable, an approval under subsection (c)(2) of this section of a report seeking premarket approval” before period in concluding provisions.
+**2002**—Subsec. (a). Pub. L. 107–250, §302(c)(1), inserted "or, as applicable, an approval under subsection (c)(2) of this section of a report seeking premarket approval" before period in concluding provisions.
 
 Subsec. (c)(2). Pub. L. 107–250, §302(c)(2)(B), added par. (2). Former par. (2) redesignated (3).
 
 Subsec. (c)(3). Pub. L. 107–250, §302(c)(2)(A), redesignated par. (2) relating to Secretary's referral of application to appropriate panel as (3).
 
-Pub. L. 107–250, §210, as amended by Pub. L. 108–214, §2(d)(1)(B), inserted “Where appropriate, the Secretary shall ensure that such panel includes, or consults with, one or more pediatric experts.” at the end of the concluding provisions of par. (3) as redesignated by Pub. L. 107–250, §302(c)(2)(A).
+Pub. L. 107–250, §210, as amended by Pub. L. 108–214, §2(d)(1)(B), inserted "Where appropriate, the Secretary shall ensure that such panel includes, or consults with, one or more pediatric experts." at the end of the concluding provisions of par. (3) as redesignated by Pub. L. 107–250, §302(c)(2)(A).
 
 Pub. L. 107–250, §209, added par. (3) relating to acceptance and review of any portion of the application prior to submission.
 
-**1997**—Subsec. (d)(1)(A). Pub. L. 105–115, §205(c)(1), inserted at end “In making the determination whether to approve or deny the application, the Secretary shall rely on the conditions of use included in the proposed labeling as the basis for determining whether or not there is a reasonable assurance of safety and effectiveness, if the proposed labeling is neither false nor misleading. In determining whether or not such labeling is false or misleading, the Secretary shall fairly evaluate all material facts pertinent to the proposed labeling.”
+**1997**—Subsec. (d)(1)(A). Pub. L. 105–115, §205(c)(1), inserted at end "In making the determination whether to approve or deny the application, the Secretary shall rely on the conditions of use included in the proposed labeling as the basis for determining whether or not there is a reasonable assurance of safety and effectiveness, if the proposed labeling is neither false nor misleading. In determining whether or not such labeling is false or misleading, the Secretary shall fairly evaluate all material facts pertinent to the proposed labeling."
 
 Subsec. (d)(1)(B)(iii). Pub. L. 105–115, §201(b), added cl. (iii).
 
@@ -354,13 +354,13 @@ Subsec. (d)(5). Pub. L. 105–115, §202(2), added par. (5).
 
 Subsec. (d)(6). Pub. L. 105–115, §205(c)(2), added par. (6).
 
-Subsec. (f)(2). Pub. L. 105–115, §216(b), substituted “the Secretary—” and subpars. (A) and (B) for “he shall refer the proposed protocol to the appropriate panel under section 360c of this title for its recommendation respecting approval of the protocol.”
+Subsec. (f)(2). Pub. L. 105–115, §216(b), substituted "the Secretary—" and subpars. (A) and (B) for "he shall refer the proposed protocol to the appropriate panel under section 360c of this title for its recommendation respecting approval of the protocol."
 
-**1993**—Subsec. (c)(2)(A). Pub. L. 103–80 struck out “refer such application” after “own initiative”.
+**1993**—Subsec. (c)(2)(A). Pub. L. 103–80 struck out "refer such application" after "own initiative".
 
-**1990**—Subsec. (c)(2). Pub. L. 101–629, §18(c), substituted “the Secretary—” for “the Secretary shall” and added subpars. (A) and (B).
+**1990**—Subsec. (c)(2). Pub. L. 101–629, §18(c), substituted "the Secretary—" for "the Secretary shall" and added subpars. (A) and (B).
 
-Subsec. (e). Pub. L. 101–629, §9(a)(2), inserted “and temporary suspension” after “Withdrawal” in heading.
+Subsec. (e). Pub. L. 101–629, §9(a)(2), inserted "and temporary suspension" after "Withdrawal" in heading.
 
 Subsec. (e)(3). Pub. L. 101–629, §9(a)(1), added par. (3).
 
@@ -380,7 +380,7 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 #### Report on Certain Devices ####
 
-Pub. L. 107–250, title II, §205, Oct. 26, 2002, 116 Stat. 1612, directed the Secretary of Health and Human Services, not later than one year after Oct. 26, 2002, to report to the appropriate committees of Congress on the timeliness and effectiveness of device premarket reviews by centers other than the Center for Devices and Radiological Health, including information on the times required to log in and review original submissions and supplements, times required to review manufacturers’ replies to submissions, times to approve or clear such devices, and recommendations on improvement of performance and reassignment of responsibility for regulating such devices.
+Pub. L. 107–250, title II, §205, Oct. 26, 2002, 116 Stat. 1612, directed the Secretary of Health and Human Services, not later than one year after Oct. 26, 2002, to report to the appropriate committees of Congress on the timeliness and effectiveness of device premarket reviews by centers other than the Center for Devices and Radiological Health, including information on the times required to log in and review original submissions and supplements, times required to review manufacturers' replies to submissions, times to approve or clear such devices, and recommendations on improvement of performance and reassignment of responsibility for regulating such devices.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates ####
 

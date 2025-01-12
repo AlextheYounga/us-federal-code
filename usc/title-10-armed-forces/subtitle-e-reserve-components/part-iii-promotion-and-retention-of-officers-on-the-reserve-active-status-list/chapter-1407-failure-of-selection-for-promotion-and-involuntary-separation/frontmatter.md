@@ -42,14 +42,14 @@ Sec.
 
 #### Amendments ####
 
-**2008**—Pub. L. 110–181, div. A, title V, §503(c)(3), title XVIII, §1825(a)(2), Jan. 28, 2008, 122 Stat. 95, 502, substituted “six years” for “five years” in item 14503 and “officers in grade of major general or rear admiral and above” for “major generals and rear admirals” in item 14511.
+**2008**—Pub. L. 110–181, div. A, title V, §503(c)(3), title XVIII, §1825(a)(2), Jan. 28, 2008, 122 Stat. 95, 502, substituted "six years" for "five years" in item 14503 and "officers in grade of major general or rear admiral and above" for "major generals and rear admirals" in item 14511.
 
-**2006**—Pub. L. 109–364, div. A, title V, §503(f), Oct. 17, 2006, 120 Stat. 2178, struck out “reserve” before “brigadier” in item 14510 and substituted “62” for “60” in items 14509 and 14510, “64” for “62” in item 14511, and “66” for “64” in item 14512.
+**2006**—Pub. L. 109–364, div. A, title V, §503(f), Oct. 17, 2006, 120 Stat. 2178, struck out "reserve" before "brigadier" in item 14510 and substituted "62" for "60" in items 14509 and 14510, "64" for "62" in item 14511, and "66" for "64" in item 14512.
 
 **2002**—Pub. L. 107–314, div. A, title V, §522(b), Dec. 2, 2002, 116 Stat. 2541, added item 14519.
 
-**2001**—Pub. L. 107–107, div. A, title V, §517(b)(2)(B), Dec. 28, 2001, 115 Stat. 1094, substituted “Failure of selection for promotion: transfer, retirement, or discharge” for “Separation for failure of selection of promotion” in item 14513.
+**2001**—Pub. L. 107–107, div. A, title V, §517(b)(2)(B), Dec. 28, 2001, 115 Stat. 1094, substituted "Failure of selection for promotion: transfer, retirement, or discharge" for "Separation for failure of selection of promotion" in item 14513.
 
 **1999**—Pub. L. 106–65, div. A, title V, §511(b), Oct. 5, 1999, 113 Stat. 592, added item 14518.
 
-**1996**—Pub. L. 104–106, div. A, title XV, §1501(b)(27), Feb. 10, 1996, 110 Stat. 497, inserted “reserve” after “Marine Corps and” in item 14506, “reserve” after “Removal from the” in item 14507, and “in grades” after “reserve officers” in item 14509.
+**1996**—Pub. L. 104–106, div. A, title XV, §1501(b)(27), Feb. 10, 1996, 110 Stat. 497, inserted "reserve" after "Marine Corps and" in item 14506, "reserve" after "Removal from the" in item 14507, and "in grades" after "reserve officers" in item 14509.

@@ -12,4 +12,4 @@ This section, as originally enacted, related to receivers of public moneys for l
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
-Words “officer designated by the Secretary of the Interior” and “officer” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
+Words "officer designated by the Secretary of the Interior" and "officer" substituted for "register" on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.

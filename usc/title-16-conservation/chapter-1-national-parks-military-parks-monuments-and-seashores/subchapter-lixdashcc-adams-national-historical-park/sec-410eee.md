@@ -34,6 +34,6 @@ Public Law 96–435, referred to in subsec. (a)(5), is Pub. L. 96–435, Oct. 10
 
 #### Short Title ####
 
-Pub. L. 105–342, §1, Nov. 2, 1998, 112 Stat. 3200, provided that: “This Act [enacting this subchapter] may be cited as the ‘Adams National Historical Park Act of 1998’.”
+Pub. L. 105–342, §1, Nov. 2, 1998, 112 Stat. 3200, provided that: "This Act [enacting this subchapter] may be cited as the 'Adams National Historical Park Act of 1998'."
 
-[<sup>1</sup> So in original. The word “that” probably should not appear.](#410eee_1)
+[<sup>1</sup> So in original. The word "that" probably should not appear.](#410eee_1)

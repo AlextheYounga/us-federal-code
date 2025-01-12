@@ -46,19 +46,19 @@ Section 450j–1(a)(3) of this title, referred to in subsec. (d), was repealed a
 
 #### Amendments ####
 
-**1994**—Subsec. (f). Pub. L. 103–413 added subsec. (f) and struck out former subsec. (f) which read as follows: “For each fiscal year during which an Indian tribal organization receives or expends funds pursuant to a contract or grant under this subchapter, the Indian tribe which requested such contract or grant shall submit to the appropriate Secretary a report including, but not limited to, an accounting of the amounts and purposes for which Federal funds were expended, information on the conduct of the program or service involved, and such other information as the appropriate Secretary may request through regulations promulgated under sections 552 and 553 of title 5.”
+**1994**—Subsec. (f). Pub. L. 103–413 added subsec. (f) and struck out former subsec. (f) which read as follows: "For each fiscal year during which an Indian tribal organization receives or expends funds pursuant to a contract or grant under this subchapter, the Indian tribe which requested such contract or grant shall submit to the appropriate Secretary a report including, but not limited to, an accounting of the amounts and purposes for which Federal funds were expended, information on the conduct of the program or service involved, and such other information as the appropriate Secretary may request through regulations promulgated under sections 552 and 553 of title 5."
 
-**1990**—Subsec. (a)(2). Pub. L. 101–301 substituted “chapter 75 of title 31” for “the Single Audit Act of 1984 (98 Stat. 2327, 31 U.S.C. 7501 et seq.),”.
+**1990**—Subsec. (a)(2). Pub. L. 101–301 substituted "chapter 75 of title 31" for "the Single Audit Act of 1984 (98 Stat. 2327, 31 U.S.C. 7501 et seq.),".
 
-Subsec. (d). Pub. L. 101–644 substituted “Except as provided in section 13a or 450j–1(a)(3) of this title,” for “Any” and inserted “through the respective Secretary” before period at end.
+Subsec. (d). Pub. L. 101–644 substituted "Except as provided in section 13a or 450j–1(a)(3) of this title," for "Any" and inserted "through the respective Secretary" before period at end.
 
-**1988**—Subsec. (a). Pub. L. 100–472, §104(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each recipient of Federal financial assistance from the Secretary of Interior or the Secretary of Health Education, and Welfare, under this Act, shall keep such records as the appropriate Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the cost of the project or undertaking in connection with which such assistance is given or used, the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.”
+**1988**—Subsec. (a). Pub. L. 100–472, §104(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Each recipient of Federal financial assistance from the Secretary of Interior or the Secretary of Health Education, and Welfare, under this Act, shall keep such records as the appropriate Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the cost of the project or undertaking in connection with which such assistance is given or used, the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit."
 
-Subsec. (e). Pub. L. 100–581 substituted “to each tribe” for “to tribes”.
+Subsec. (e). Pub. L. 100–581 substituted "to each tribe" for "to tribes".
 
 Pub. L. 100–472, §104(b), added subsec. (e).
 
-Subsec. (f). Pub. L. 100–472, §208, redesignated section 450l of this title as subsec. (f) of this section and inserted “through regulations promulgated under sections 552 and 553 of title 5”.
+Subsec. (f). Pub. L. 100–472, §208, redesignated section 450l of this title as subsec. (f) of this section and inserted "through regulations promulgated under sections 552 and 553 of title 5".
 
 [<sup>1</sup> So in original. Probably should be followed by a comma.](#450c_1)
 

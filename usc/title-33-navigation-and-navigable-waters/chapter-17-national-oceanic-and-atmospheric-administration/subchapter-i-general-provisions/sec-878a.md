@@ -4,25 +4,25 @@
 
 For purposes of this section—
 
-(1) the term “Under Secretary” means Under Secretary of Commerce for Oceans and Atmosphere;
+(1) the term "Under Secretary" means Under Secretary of Commerce for Oceans and Atmosphere;
 
-(2) the term “appropriate congressional committees” means—
+(2) the term "appropriate congressional committees" means—
 
 (A) the Committee on Appropriations and the Committee on Commerce, Science, and Transportation of the Senate; and
 
 (B) the Committee on Appropriations and the Committee on Science, Space and Technology of the House of Representatives;
 
-(3) the term “satellite” means the satellites proposed to be acquired for the National Oceanic and Atmospheric Administration (NOAA);
+(3) the term "satellite" means the satellites proposed to be acquired for the National Oceanic and Atmospheric Administration (NOAA);
 
-(4) the term “development” means the phase of a program following the formulation phase and beginning with the approval to proceed to implementation, as defined in NOAA Administrative Order 216–108, Department of Commerce Administrative Order 208–3, and NASA's Procedural Requirements 7120.5c, dated March 22, 2005;
+(4) the term "development" means the phase of a program following the formulation phase and beginning with the approval to proceed to implementation, as defined in NOAA Administrative Order 216–108, Department of Commerce Administrative Order 208–3, and NASA's Procedural Requirements 7120.5c, dated March 22, 2005;
 
-(5) the term “development cost” means the total of all costs, including construction of facilities and civil servant costs, from the period beginning with the approval to proceed to implementation through the achievement of operational readiness, without regard to funding source or management control, for the life of the program;
+(5) the term "development cost" means the total of all costs, including construction of facilities and civil servant costs, from the period beginning with the approval to proceed to implementation through the achievement of operational readiness, without regard to funding source or management control, for the life of the program;
 
-(6) the term “life-cycle cost” means the total of the direct, indirect, recurring, and nonrecurring costs, including the construction of facilities and civil servant costs, and other related expenses incurred or estimated to be incurred in the design, development, verification, production, operation, maintenance, support, and retirement of a program over its planned lifespan, without regard to funding source or management control;
+(6) the term "life-cycle cost" means the total of the direct, indirect, recurring, and nonrecurring costs, including the construction of facilities and civil servant costs, and other related expenses incurred or estimated to be incurred in the design, development, verification, production, operation, maintenance, support, and retirement of a program over its planned lifespan, without regard to funding source or management control;
 
-(7) the term “major program” means an activity approved to proceed to implementation that has an estimated life-cycle cost of more than $250,000,000; and
+(7) the term "major program" means an activity approved to proceed to implementation that has an estimated life-cycle cost of more than $250,000,000; and
 
-(8) the term “baseline” means the program as set following contract award and preliminary design review of the space and ground systems.
+(8) the term "baseline" means the program as set following contract award and preliminary design review of the space and ground systems.
 
 #### (b) Contract requirements for major programs ####
 
@@ -102,11 +102,11 @@ Pub. L. 110–161, div. B, title I, §112, Dec. 26, 2007, 121 Stat. 1894.
 
 #### Amendments ####
 
-**2013**—Subsec. (f). Pub. L. 113–6 substituted “subsection (e)(2)” for “paragraph (2)” and “subsection (e)” for “this subsection”.
+**2013**—Subsec. (f). Pub. L. 113–6 substituted "subsection (e)(2)" for "paragraph (2)" and "subsection (e)" for "this subsection".
 
 #### Requirements Adopted by Reference ####
 
-Pub. L. 113–76, div. B, title I, §104, Jan. 17, 2014, 128 Stat. 51, provided that: “The requirements set forth by section 105 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012 (Public Law 112–55) [33 U.S.C. 878a], as amended by section 105 of title I of division B of Public Law 113–6, are hereby adopted by reference and made applicable with respect to fiscal year 2014.”
+Pub. L. 113–76, div. B, title I, §104, Jan. 17, 2014, 128 Stat. 51, provided that: "The requirements set forth by section 105 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012 (Public Law 112–55) [33 U.S.C. 878a], as amended by section 105 of title I of division B of Public Law 113–6, are hereby adopted by reference and made applicable with respect to fiscal year 2014."
 
 Similar provisions were contained in the following prior appropriation act:
 

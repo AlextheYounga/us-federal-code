@@ -10,4 +10,4 @@ The Project Act, referred to in text, is defined in section 618k of this title.
 
 #### Amendments ####
 
-**1984**—Pub. L. 98–381 inserted proviso relating to rates of interest on appropriated funds advanced for visitors’ facilities program.
+**1984**—Pub. L. 98–381 inserted proviso relating to rates of interest on appropriated funds advanced for visitors' facilities program.

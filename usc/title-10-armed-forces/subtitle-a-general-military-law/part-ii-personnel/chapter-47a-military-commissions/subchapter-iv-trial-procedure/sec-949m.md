@@ -30,10 +30,10 @@ A prior section 949m, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Sta
 
 #### Amendments ####
 
-**2013**—Pub. L. 113–66, §1031(c)(1), inserted “primary” before “members” wherever appearing.
+**2013**—Pub. L. 113–66, §1031(c)(1), inserted "primary" before "members" wherever appearing.
 
 Subsec. (b)(4). Pub. L. 113–66, §1031(c)(2), added par. (4).
 
-**2011**—Subsec. (b)(2)(C). Pub. L. 112–81, §1030(a)(1), inserted before semicolon “, or a guilty plea was accepted and not withdrawn prior to announcement of the sentence in accordance with section 949i(b) of this title”.
+**2011**—Subsec. (b)(2)(C). Pub. L. 112–81, §1030(a)(1), inserted before semicolon ", or a guilty plea was accepted and not withdrawn prior to announcement of the sentence in accordance with section 949i(b) of this title".
 
-Subsec. (b)(2)(D). Pub. L. 112–81, §1030(a)(2), inserted “on the sentence” after “vote was taken”.
+Subsec. (b)(2)(D). Pub. L. 112–81, §1030(a)(2), inserted "on the sentence" after "vote was taken".

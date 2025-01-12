@@ -1,6 +1,6 @@
 ### §§5901 to 5909. Repealed. Pub. L. 107–171, title VI, §6201(a), May 13, 2002, 116 Stat. 418 ###
 
-Section 5901, Pub. L. 101–624, title XVI, §1657, Nov. 28, 1990, 104 Stat. 3756; Pub. L. 104–127, title VII, §721, Apr. 4, 1996, 110 Stat. 1112, provided that this subchapter may be cited as the “Alternative Agricultural Research and Commercialization Act of 1990” and specified purpose of and definitions relating to this subchapter.
+Section 5901, Pub. L. 101–624, title XVI, §1657, Nov. 28, 1990, 104 Stat. 3756; Pub. L. 104–127, title VII, §721, Apr. 4, 1996, 110 Stat. 1112, provided that this subchapter may be cited as the "Alternative Agricultural Research and Commercialization Act of 1990" and specified purpose of and definitions relating to this subchapter.
 
 Section 5902, Pub. L. 101–624, title XVI, §1658, Nov. 28, 1990, 104 Stat. 3757; Pub. L. 102–237, title IV, §405(a), Dec. 13, 1991, 105 Stat. 1864; Pub. L. 104–127, title VII, §722(a), Apr. 4, 1996, 110 Stat. 1113, created the Alternative Agricultural Research and Commercialization Corporation.
 
@@ -22,21 +22,21 @@ Section 5909, Pub. L. 101–624, title XVI, §1665, as added Pub. L. 104–127, 
 
 Pub. L. 107–171, title VI, §6201(b), (c), May 13, 2002, 116 Stat. 418, 419, provided that:
 
-“(b) Disposition of Assets.—On the date of enactment of this Act [May 13, 2002]—
+"(b) Disposition of Assets.—On the date of enactment of this Act [May 13, 2002]—
 
-“(1) the assets, both tangible and intangible, of the Alternative Agricultural Research and Commercialization Corporation (referred to in this section as the ‘Corporation’), including the funds in the Alternative Agricultural Research and Commercialization Revolving Fund as of the date of enactment of this Act, are transferred to the Secretary of Agriculture; and
+"(1) the assets, both tangible and intangible, of the Alternative Agricultural Research and Commercialization Corporation (referred to in this section as the 'Corporation'), including the funds in the Alternative Agricultural Research and Commercialization Revolving Fund as of the date of enactment of this Act, are transferred to the Secretary of Agriculture; and
 
-“(2) notwithstanding the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) [see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts] and any other law that prescribes procedures for procurement, use, and disposal of property by a Federal agency, the Secretary shall have authority to manage and dispose of the assets transferred under paragraph (1) in a manner that, to the maximum extent practicable, provides the best value to the Federal Government.
+"(2) notwithstanding the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) [see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts] and any other law that prescribes procedures for procurement, use, and disposal of property by a Federal agency, the Secretary shall have authority to manage and dispose of the assets transferred under paragraph (1) in a manner that, to the maximum extent practicable, provides the best value to the Federal Government.
 
-“(c) Use of Assets.—
+"(c) Use of Assets.—
 
-“(1) In general.—Funds transferred under subsection (b), and any income from assets or proceeds from the sale of assets transferred under subsection (b), shall be deposited in an account in the Treasury, and shall remain available to the Secretary until expended, without further appropriation, to pay—
+"(1) In general.—Funds transferred under subsection (b), and any income from assets or proceeds from the sale of assets transferred under subsection (b), shall be deposited in an account in the Treasury, and shall remain available to the Secretary until expended, without further appropriation, to pay—
 
-“(A) any claims against, or obligations of, the Corporation; and
+"(A) any claims against, or obligations of, the Corporation; and
 
-“(B) the costs incurred by the Secretary in carrying out this section.
+"(B) the costs incurred by the Secretary in carrying out this section.
 
-“(2) Final disposition.—On final disposition of all assets transferred under subsection (b), any funds remaining in the account described in paragraph (1) shall be transferred into miscellaneous receipts in the Treasury.”
+"(2) Final disposition.—On final disposition of all assets transferred under subsection (b), any funds remaining in the account described in paragraph (1) shall be transferred into miscellaneous receipts in the Treasury."
 
 #### Business Plan and Feasibility Study and Report ####
 

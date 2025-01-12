@@ -30,7 +30,7 @@ Section 250l, act Sept. 1, 1937, ch. 897, §13, 50 Stat. 902, which directed Sec
 
 Section 250m, act Sept. 1, 1937, ch. 897, §14, 50 Stat. 902, which related to use of public lands, was transferred to section 500m of Title 25.
 
-Section 250n, act Sept. 1, 1937, ch. 897, §15, 50 Stat. 902, which defined “Natives of Alaska” for purposes of sections 250 to 250n of this title, was transferred to section 500n of Title 25.
+Section 250n, act Sept. 1, 1937, ch. 897, §15, 50 Stat. 902, which defined "Natives of Alaska" for purposes of sections 250 to 250n of this title, was transferred to section 500n of Title 25.
 
 Section 250o, act Sept. 1, 1937, ch. 897, §16, 50 Stat. 902, which authorized appropriation of $2,000,000.00 to carry out sections 250 to 250n of this title, is set out as a note under section 500 of Title 25.
 

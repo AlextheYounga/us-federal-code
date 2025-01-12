@@ -48,7 +48,7 @@ Provisions similar to those comprising this section were contained in a prior se
 
 **1970**—Subsec. (a). Pub. L. 91–296 struck out from cl. (1) provisions requiring that States give special consideration for projects for hospitals serving rural areas but inserted provisions making such preference optional with each State and added cls. (4) to (7).
 
-**1964**—Subsec. (a)(4). Pub. L. 88–581 struck out cl. (4) relating to hospital facilities which “will include new or expanded facilities for nurse training”.
+**1964**—Subsec. (a)(4). Pub. L. 88–581 struck out cl. (4) relating to hospital facilities which "will include new or expanded facilities for nurse training".
 
 #### Effective Date of 1970 Amendment ####
 
@@ -60,6 +60,6 @@ Pub. L. 88–581, §3(b), Sept. 4, 1964, 78 Stat. 919, provided that the amendme
 
 #### Transfer of Functions ####
 
-“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted in text for "Secretary of Health, Education, and Welfare" pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.

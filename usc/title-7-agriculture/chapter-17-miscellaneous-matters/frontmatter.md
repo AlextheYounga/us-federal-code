@@ -28,7 +28,7 @@ Sec.
 
 416. Letting contract for packeting, etc., of seeds, etc., for distribution.
 
-417. Distribution of farmers’ bulletins.
+417. Distribution of farmers' bulletins.
 
 418. Annual report on work of agricultural experiment stations and of college extension work; publication and distribution.
 

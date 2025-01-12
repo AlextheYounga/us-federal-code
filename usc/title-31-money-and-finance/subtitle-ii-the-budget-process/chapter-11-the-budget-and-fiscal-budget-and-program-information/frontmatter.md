@@ -54,9 +54,9 @@ Sec.
 
 #### Amendments ####
 
-**2011**—Pub. L. 111–352, §13(b), (c), Jan. 4, 2011, 124 Stat. 3882, added items 1115, 1116, and 1120 to 1125, and struck out former items 1115 “Performance plans” and 1116 “Program performance reports”.
+**2011**—Pub. L. 111–352, §13(b), (c), Jan. 4, 2011, 124 Stat. 3882, added items 1115, 1116, and 1120 to 1125, and struck out former items 1115 "Performance plans" and 1116 "Program performance reports".
 
-**1994**—Pub. L. 103–355, title II, §2454(c)(3)(B), Oct. 13, 1994, 108 Stat. 3326, struck out item 1114 “Budget information on consulting services”.
+**1994**—Pub. L. 103–355, title II, §2454(c)(3)(B), Oct. 13, 1994, 108 Stat. 3326, struck out item 1114 "Budget information on consulting services".
 
 **1993**—Pub. L. 103–62, §11(b)(1), Aug. 3, 1993, 107 Stat. 295, added items 1115 to 1119.
 

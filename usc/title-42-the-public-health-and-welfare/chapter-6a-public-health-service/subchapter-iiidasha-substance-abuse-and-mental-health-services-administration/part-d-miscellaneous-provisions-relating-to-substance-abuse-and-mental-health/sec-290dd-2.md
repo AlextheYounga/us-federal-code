@@ -58,9 +58,9 @@ Section was formerly classified to section 4581 of this title prior to renumberi
 
 #### Amendments ####
 
-**1998**—Subsec. (e)(1), (2). Pub. L. 105–392 substituted “Uniformed Services” for “Armed Forces”.
+**1998**—Subsec. (e)(1), (2). Pub. L. 105–392 substituted "Uniformed Services" for "Armed Forces".
 
-**1992**—Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in subsec. (h).
+**1992**—Pub. L. 102–405 substituted "Under Secretary for Health" for "Chief Medical Director" in subsec. (h).
 
 Pub. L. 102–321 amended section generally, substituting provisions relating to confidentiality of records for provisions relating to admission of alcohol abusers and alcoholics to general hospitals and outpatient facilities.
 
@@ -68,11 +68,11 @@ Pub. L. 102–321 amended section generally, substituting provisions relating to
 
 Subsec. (a). Pub. L. 98–24, §2(b)(13)(C), made a technical amendment to reference to section 300s–3 of this title.
 
-**1976**—Subsec. (a). Pub. L. 94–371, §11(a), inserted “, or outpatient facility (as defined in section 300s–3(6) of this title)” after “hospital”.
+**1976**—Subsec. (a). Pub. L. 94–371, §11(a), inserted ", or outpatient facility (as defined in section 300s–3(6) of this title)" after "hospital".
 
-Subsec. (b)(1). Pub. L. 94–371, §11(b), inserted “and outpatient facilities” after “hospitals”, and “or outpatient facility” after “hospital” wherever appearing, and substituted “shall issue regulations not later than December 31, 1976” for “is authorized to make regulations”.
+Subsec. (b)(1). Pub. L. 94–371, §11(b), inserted "and outpatient facilities" after "hospitals", and "or outpatient facility" after "hospital" wherever appearing, and substituted "shall issue regulations not later than December 31, 1976" for "is authorized to make regulations".
 
-Subsec. (b)(2). Pub. L. 94–581 provided that subsec. (b)(2), which directed the Administrator of Veteran's Affairs, through the Chief Medical Director, to prescribe regulations making applicable the regulations prescribed by the Secretary under subsec. (b)(1) to the provision of hospital care, nursing home care, domiciliary care, and medical services under title 38 to veterans suffering from alcohol abuse or alcoholism and to consult with the Secretary in order to achieve the maximum possible coordination of the regulations, and the implementation thereof, which they each prescribed, was superseded by section 4131 [now 7331] et seq. of Title 38, Veterans’ Benefits.
+Subsec. (b)(2). Pub. L. 94–581 provided that subsec. (b)(2), which directed the Administrator of Veteran's Affairs, through the Chief Medical Director, to prescribe regulations making applicable the regulations prescribed by the Secretary under subsec. (b)(1) to the provision of hospital care, nursing home care, domiciliary care, and medical services under title 38 to veterans suffering from alcohol abuse or alcoholism and to consult with the Secretary in order to achieve the maximum possible coordination of the regulations, and the implementation thereof, which they each prescribed, was superseded by section 4131 [now 7331] et seq. of Title 38, Veterans' Benefits.
 
 **1974**—Subsec. (a). Pub. L. 93–282, in revising text, prohibited discrimination because of alcohol abuse, substituted provisions respecting eligibility for admission and treatment based on suffering from medical conditions for former provision based on medical need and ineligibility, because of discrimination, for support in any form from any program supported in whole or in part by funds appropriated to any Federal department or agency for former requirement for treatment by a general hospital which received Federal funds, and deleted prohibition against receiving Federal financial assistance for violation of section and for termination of Federal assistance on failure to comply, now incorporated in regulation authorization of subsec. (b) of this section.
 
@@ -84,8 +84,8 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 
 #### Effective Date of 1976 Amendment ####
 
-Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of Title 38, Veterans’ Benefits.
+Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of Title 38, Veterans' Benefits.
 
-#### Report of Administrator of Veterans’ Affairs to Congressional Committees; Publication in Federal Register ####
+#### Report of Administrator of Veterans' Affairs to Congressional Committees; Publication in Federal Register ####
 
-Pub. L. 93–282, title I, §121(b), May 14, 1974, 88 Stat. 131, which directed Administrator of Veterans’ Affairs to submit to appropriate committees of House of Representatives and Senate a full report (1) on regulations (including guidelines, policies, and procedures thereunder) he had prescribed pursuant to section 321(b)(2) of Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 [former 42 U.S.C. 290dd–2(b)(2)], (2) explaining bases for any inconsistency between such regulations and regulations of Secretary under section 321(b)(1) of such Act [42 U.S.C. 290dd–2(b)(1)], (3) on extent, substance, and results of his consultations with Secretary respecting prescribing and implementation of Administrator's regulations, and (4) containing such recommendations for legislation and administrative actions as he determined were necessary and desirable, with Administrator to submit report not later than sixty days after effective date of regulations prescribed by Secretary under such section 321(b)(1) [42 U.S.C. 290dd–2(b)(1)], and to publish such report in Federal Register, was characterized by section 111(c)(5) of Pub. L. 94–581 as having been superseded by section 4134 [now 7334] of Title 38, Veterans’ Benefits.
+Pub. L. 93–282, title I, §121(b), May 14, 1974, 88 Stat. 131, which directed Administrator of Veterans' Affairs to submit to appropriate committees of House of Representatives and Senate a full report (1) on regulations (including guidelines, policies, and procedures thereunder) he had prescribed pursuant to section 321(b)(2) of Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 [former 42 U.S.C. 290dd–2(b)(2)], (2) explaining bases for any inconsistency between such regulations and regulations of Secretary under section 321(b)(1) of such Act [42 U.S.C. 290dd–2(b)(1)], (3) on extent, substance, and results of his consultations with Secretary respecting prescribing and implementation of Administrator's regulations, and (4) containing such recommendations for legislation and administrative actions as he determined were necessary and desirable, with Administrator to submit report not later than sixty days after effective date of regulations prescribed by Secretary under such section 321(b)(1) [42 U.S.C. 290dd–2(b)(1)], and to publish such report in Federal Register, was characterized by section 111(c)(5) of Pub. L. 94–581 as having been superseded by section 4134 [now 7334] of Title 38, Veterans' Benefits.

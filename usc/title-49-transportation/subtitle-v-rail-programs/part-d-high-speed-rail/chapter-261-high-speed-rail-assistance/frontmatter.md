@@ -20,6 +20,6 @@ A prior chapter 261, consisting of sections 26101 and 26102, was renumbered chap
 
 #### Amendments ####
 
-**2008**—Pub. L. 110–432, div. B, title V, §501(c), (e), Oct. 16, 2008, 122 Stat. 4960, 4963, substituted “High-speed rail corridor planning” for “Corridor development” in item 26101 and added item 26106.
+**2008**—Pub. L. 110–432, div. B, title V, §501(c), (e), Oct. 16, 2008, 122 Stat. 4960, 4963, substituted "High-speed rail corridor planning" for "Corridor development" in item 26101 and added item 26106.
 
-**2005**—Pub. L. 109–59, title IX, §9001(a)(2), Aug. 10, 2005, 119 Stat. 1919, substituted “development” for “planning” in item 26101.
+**2005**—Pub. L. 109–59, title IX, §9001(a)(2), Aug. 10, 2005, 119 Stat. 1919, substituted "development" for "planning" in item 26101.

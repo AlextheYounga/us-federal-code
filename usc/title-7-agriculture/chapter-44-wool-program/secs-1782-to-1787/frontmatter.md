@@ -8,7 +8,7 @@ Section 1784, acts Aug. 28, 1954, ch. 1041, title VII, §705, 68 Stat. 911; Aug.
 
 Section 1785, acts Aug. 28, 1954, ch. 1041, title VII, §706, 68 Stat. 912; Aug. 10, 1993, Pub. L. 103–66, title I, §1111(3), 107 Stat. 327; Nov. 1, 1993, Pub. L. 103–130, §4(d), 107 Stat. 1369, authorized Secretary of Agriculture to determine or approve amounts, terms, and conditions of wool and mohair program operations and declared such determinations to be final and conclusive.
 
-Section 1786, act Aug. 28, 1954, ch. 1041, title VII, §707, 68 Stat. 912, defined “marketing year” as used in this chapter.
+Section 1786, act Aug. 28, 1954, ch. 1041, title VII, §707, 68 Stat. 912, defined "marketing year" as used in this chapter.
 
 Section 1787, acts Aug. 28, 1954, ch. 1041, title VII, §708, 68 Stat. 912; Nov. 30, 1970, Pub. L. 91–524, title III, §301(6), as added Aug. 10, 1973, Pub. L. 93–86, §1(7)(B), 87 Stat. 224; amended Dec. 23, 1985, Pub. L. 99–198, title II, §202, 99 Stat. 1378; Nov. 28, 1990, Pub. L. 101–624, title XIX, §1989, 104 Stat. 3909; Dec. 13, 1991, Pub. L. 102–237, title VIII, §810, 105 Stat. 1883, authorized Secretary of Agriculture to enter into agreements with, or to approve agreements entered into between, marketing cooperatives, trade associations, etc., for purpose of developing and conducting sales and advertising programs and for development and dissemination of information on product quality, production management, and marketing improvement.
 
@@ -16,10 +16,10 @@ Section 1787, acts Aug. 28, 1954, ch. 1041, title VII, §708, 68 Stat. 912; Nov.
 
 Pub. L. 103–130, §3(a), (b), Nov. 1, 1993, 107 Stat. 1369, provided that:
 
-“(a) In General.—Effective December 31, 1995, the National Wool Act of 1954 (7 U.S.C. 1781 et seq.) is repealed.
+"(a) In General.—Effective December 31, 1995, the National Wool Act of 1954 (7 U.S.C. 1781 et seq.) is repealed.
 
-“(b) Application.—The repeal made by subsection (a) [repealing this chapter and provisions set out as notes under sections 2, 1446, and 1781 of this title] shall apply to both the wool and mohair programs.”
+"(b) Application.—The repeal made by subsection (a) [repealing this chapter and provisions set out as notes under sections 2, 1446, and 1781 of this title] shall apply to both the wool and mohair programs."
 
 #### Liability of Producers ####
 
-Pub. L. 103–130, §5, Nov. 1, 1993, 107 Stat. 1369, provided that: “A provision of this Act [amending sections 1782, 1783, and 1785 of this title, repealing sections 1781 to 1787 of this title, enacting provisions set out as notes under this section and section 1447 of this title, and repealing provisions set out as notes under sections 2, 1446, and 1781 of this title] may not affect the liability of any person under any provision of law as in effect before the effective date of the provision.”
+Pub. L. 103–130, §5, Nov. 1, 1993, 107 Stat. 1369, provided that: "A provision of this Act [amending sections 1782, 1783, and 1785 of this title, repealing sections 1781 to 1787 of this title, enacting provisions set out as notes under this section and section 1447 of this title, and repealing provisions set out as notes under sections 2, 1446, and 1781 of this title] may not affect the liability of any person under any provision of law as in effect before the effective date of the provision."

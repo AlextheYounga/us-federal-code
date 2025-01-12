@@ -12,4 +12,4 @@ The provisions of this subchapter in no way rescind subchapter VII of this chapt
 
 #### Change of Name ####
 
-“National Air and Space Museum” substituted for “National Air Museum” in subsec. (b) pursuant to section 2 of Pub. L. 89–509, which is classified to section 77 of this title.
+"National Air and Space Museum" substituted for "National Air Museum" in subsec. (b) pursuant to section 2 of Pub. L. 89–509, which is classified to section 77 of this title.

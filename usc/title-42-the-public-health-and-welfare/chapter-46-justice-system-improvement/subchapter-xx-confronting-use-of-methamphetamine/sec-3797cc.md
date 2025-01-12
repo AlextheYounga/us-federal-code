@@ -30,12 +30,12 @@ Grants made under subsection (a) may be used for programs, projects, and other a
 
 #### Amendments ####
 
-**2007**—Subsec. (a)(1). Pub. L. 110–161, §220(a)(1)(A), inserted “, territories, and Indian tribes (as defined in section 3797d of this title)” after “to assist States” in introductory provisions.
+**2007**—Subsec. (a)(1). Pub. L. 110–161, §220(a)(1)(A), inserted ", territories, and Indian tribes (as defined in section 3797d of this title)" after "to assist States" in introductory provisions.
 
-Subsec. (a)(1)(B). Pub. L. 110–161, §220(a)(1)(B), substituted “, territorial, Tribal, and local” for “and local”.
+Subsec. (a)(1)(B). Pub. L. 110–161, §220(a)(1)(B), substituted ", territorial, Tribal, and local" for "and local".
 
-Subsec. (a)(2). Pub. L. 110–161, §220(a)(2), inserted “, territories, and Indian tribes” after “make grants to States”.
+Subsec. (a)(2). Pub. L. 110–161, §220(a)(2), inserted ", territories, and Indian tribes" after "make grants to States".
 
-Subsec. (a)(3)(C). Pub. L. 110–161, §220(a)(3), inserted “, Tribal,” after “support State”.
+Subsec. (a)(3)(C). Pub. L. 110–161, §220(a)(3), inserted ", Tribal," after "support State".
 
-[<sup>1</sup> So in original. The word “of” probably should not appear.](#3797cc_1)
+[<sup>1</sup> So in original. The word "of" probably should not appear.](#3797cc_1)

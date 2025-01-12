@@ -32,19 +32,19 @@ Section is based on section 202 of House Resolution No. 988, Ninety-third Congre
 
 #### Amendments ####
 
-**2004**—Subsec. (a)(1). Pub. L. 108–447, §107(a), substituted “conference of all” for “conference, to begin on or after the first day of December and conclude on or before the twentieth day of December in such year and to be attended by all”.
+**2004**—Subsec. (a)(1). Pub. L. 108–447, §107(a), substituted "conference of all" for "conference, to begin on or after the first day of December and conclude on or before the twentieth day of December in such year and to be attended by all".
 
-Subsec. (b)(1)(B). Pub. L. 108–447, §107(b)(1), substituted a period for “for a period not to exceed the shorter of the following—
+Subsec. (b)(1)(B). Pub. L. 108–447, §107(b)(1), substituted a period for "for a period not to exceed the shorter of the following—
 
-“(i) the period beginning with the day before the designated date upon which such caucus or conference is to convene and ending with the day after the date of the final adjournment of such caucus or conference; or
+"(i) the period beginning with the day before the designated date upon which such caucus or conference is to convene and ending with the day after the date of the final adjournment of such caucus or conference; or
 
-“(ii) fourteen days.”
+"(ii) fourteen days."
 
 Subsec. (d). Pub. L. 108–447, §107(c)(1), added subsec. (d).
 
-**1996**—Subsec. (b)(2). Pub. L. 104–186, §202(4)(A), substituted “House Oversight” for “House Administration” in two places.
+**1996**—Subsec. (b)(2). Pub. L. 104–186, §202(4)(A), substituted "House Oversight" for "House Administration" in two places.
 
-Subsec. (c). Pub. L. 104–186, §202(4)(B), substituted “applicable accounts of the House of Representatives are” for “contingent fund of the House is”.
+Subsec. (c). Pub. L. 104–186, §202(4)(B), substituted "applicable accounts of the House of Representatives are" for "contingent fund of the House is".
 
 #### Change of Name ####
 
@@ -52,7 +52,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 #### Effective Date of 2004 Amendment ####
 
-Pub. L. 108–447, div. G, title I, §107(d), Dec. 8, 2004, 118 Stat. 3177, provided that: “The amendments made by this section [amending this section and section 5343 of this title] shall apply with respect to the One Hundred Tenth Congress and each succeeding Congress.”
+Pub. L. 108–447, div. G, title I, §107(d), Dec. 8, 2004, 118 Stat. 3177, provided that: "The amendments made by this section [amending this section and section 5343 of this title] shall apply with respect to the One Hundred Tenth Congress and each succeeding Congress."
 
 #### Effective Date ####
 

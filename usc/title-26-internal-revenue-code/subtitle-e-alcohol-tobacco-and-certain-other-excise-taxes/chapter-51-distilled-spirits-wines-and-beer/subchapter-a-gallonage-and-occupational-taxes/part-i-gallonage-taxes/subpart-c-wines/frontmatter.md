@@ -18,4 +18,4 @@ A prior subpart C, comprising sections 5041 to 5045, related to wines, prior to 
 
 #### Amendments ####
 
-**1997**—Pub. L. 105–34, title XIV, §1416(b)(3), Aug. 5, 1997, 111 Stat. 1048, struck out “unmerchantable” before “wine” in item 5044.
+**1997**—Pub. L. 105–34, title XIV, §1416(b)(3), Aug. 5, 1997, 111 Stat. 1048, struck out "unmerchantable" before "wine" in item 5044.

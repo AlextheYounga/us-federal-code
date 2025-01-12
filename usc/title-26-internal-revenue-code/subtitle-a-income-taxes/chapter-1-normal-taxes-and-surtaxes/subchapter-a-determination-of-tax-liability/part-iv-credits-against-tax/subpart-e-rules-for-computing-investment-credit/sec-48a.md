@@ -36,15 +36,15 @@ For purposes of this section—
 
 #### (1) Qualifying advanced coal project ####
 
-The term “qualifying advanced coal project” means a project which meets the requirements of subsection (e).
+The term "qualifying advanced coal project" means a project which meets the requirements of subsection (e).
 
 #### (2) Advanced coal-based generation technology ####
 
-The term “advanced coal-based generation technology” means a technology which meets the requirements of subsection (f).
+The term "advanced coal-based generation technology" means a technology which meets the requirements of subsection (f).
 
 #### (3) Eligible property ####
 
-The term “eligible property” means—
+The term "eligible property" means—
 
 (A) in the case of any qualifying advanced coal project using an integrated gasification combined cycle, any property which is a part of such project and is necessary for the gasification of coal, including any coal handling and gas separation equipment, and
 
@@ -52,19 +52,19 @@ The term “eligible property” means—
 
 #### (4) Coal ####
 
-The term “coal” means anthracite, bituminous coal, subbituminous coal, lignite, and peat.
+The term "coal" means anthracite, bituminous coal, subbituminous coal, lignite, and peat.
 
 #### (5) Greenhouse gas capture capability ####
 
-The term “greenhouse gas capture capability” means an integrated gasification combined cycle technology facility capable of adding components which can capture, separate on a long-term basis, isolate, remove, and sequester greenhouse gases which result from the generation of electricity.
+The term "greenhouse gas capture capability" means an integrated gasification combined cycle technology facility capable of adding components which can capture, separate on a long-term basis, isolate, remove, and sequester greenhouse gases which result from the generation of electricity.
 
 #### (6) Electric generation unit ####
 
-The term “electric generation unit” means any facility at least 50 percent of the total annual net output of which is electrical power, including an otherwise eligible facility which is used in an industrial application.
+The term "electric generation unit" means any facility at least 50 percent of the total annual net output of which is electrical power, including an otherwise eligible facility which is used in an industrial application.
 
 #### (7) Integrated gasification combined cycle ####
 
-The term “integrated gasification combined cycle” means an electric generation unit which produces electricity by converting coal to synthesis gas which is used to fuel a combined-cycle plant which produces electricity from both a combustion turbine (including a combustion turbine/fuel cell hybrid) and a steam turbine.
+The term "integrated gasification combined cycle" means an electric generation unit which produces electricity by converting coal to synthesis gas which is used to fuel a combined-cycle plant which produces electricity from both a combustion turbine (including a combustion turbine/fuel cell hybrid) and a steam turbine.
 
 #### (d) Qualifying advanced coal project program ####
 
@@ -291,25 +291,25 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments ####
 
-**2009**—Subsec. (b)(2). Pub. L. 111–5 inserted “(without regard to subparagraph (D) thereof)” after “section 48(a)(4)”.
+**2009**—Subsec. (b)(2). Pub. L. 111–5 inserted "(without regard to subparagraph (D) thereof)" after "section 48(a)(4)".
 
 **2008**—Subsec. (a)(3). Pub. L. 110–343, §111(a), added par. (3).
 
-Subsec. (d)(2)(A). Pub. L. 110–343, §111(c)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Each applicant for certification under this paragraph shall submit an application meeting the requirements of subparagraph (B). An applicant may only submit an application during the 3-year period beginning on the date the Secretary establishes the program under paragraph (1).”
+Subsec. (d)(2)(A). Pub. L. 110–343, §111(c)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Each applicant for certification under this paragraph shall submit an application meeting the requirements of subparagraph (B). An applicant may only submit an application during the 3-year period beginning on the date the Secretary establishes the program under paragraph (1)."
 
-Subsec. (d)(3)(A). Pub. L. 110–343, §111(b), substituted “$2,550,000,000” for “$1,300,000,000”.
+Subsec. (d)(3)(A). Pub. L. 110–343, §111(b), substituted "$2,550,000,000" for "$1,300,000,000".
 
-Subsec. (d)(3)(B). Pub. L. 110–343, §111(c)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Of the dollar amount in subparagraph (A), the Secretary is authorized to certify—
+Subsec. (d)(3)(B). Pub. L. 110–343, §111(c)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Of the dollar amount in subparagraph (A), the Secretary is authorized to certify—
 
-“(i) $800,000,000 for integrated gasification combined cycle projects, and
+"(i) $800,000,000 for integrated gasification combined cycle projects, and
 
-“(ii) $500,000,000 for projects which use other advanced coal-based generation technologies.”
+"(ii) $500,000,000 for projects which use other advanced coal-based generation technologies."
 
 Subsec. (d)(5). Pub. L. 110–343, §111(d), added par. (5).
 
 Subsec. (e)(1)(G). Pub. L. 110–343, §111(c)(3)(A), added subpar. (G).
 
-Subsec. (e)(3). Pub. L. 110–343, §111(c)(5), substituted “certain” for “integrated gasification combined cycle” in heading.
+Subsec. (e)(3). Pub. L. 110–343, §111(c)(5), substituted "certain" for "integrated gasification combined cycle" in heading.
 
 Subsec. (e)(3)(B)(iii), (iv). Pub. L. 110–343, §111(c)(4), added cl. (iii) and redesignated former cl. (iii) as (iv).
 
@@ -319,7 +319,7 @@ Subsec. (h). Pub. L. 110–246, §15346(a), added subsec. (h).
 
 Subsec. (i). Pub. L. 110–343, §111(c)(3)(C), added subsec. (i).
 
-**2007**—Subsec. (d)(4)(B)(ii). Pub. L. 110–172 struck out “subsection” before “paragraph” in two places.
+**2007**—Subsec. (d)(4)(B)(ii). Pub. L. 110–172 struck out "subsection" before "paragraph" in two places.
 
 **2006**—Subsec. (f)(1). Pub. L. 109–432 inserted concluding provisions.
 
@@ -331,21 +331,21 @@ Amendment by Pub. L. 111–5 applicable to periods after Dec. 31, 2008, under ru
 
 Pub. L. 110–343, div. B, title I, §111(e), Oct. 3, 2008, 122 Stat. 3823, provided that:
 
-“(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [amending this section] shall apply to credits the application for which is submitted during the period described in section 48A(d)(2)(A)(ii) of the Internal Revenue Code of 1986 and which are allocated or reallocated after the date of the enactment of this Act [Oct. 3, 2008].
+"(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [amending this section] shall apply to credits the application for which is submitted during the period described in section 48A(d)(2)(A)(ii) of the Internal Revenue Code of 1986 and which are allocated or reallocated after the date of the enactment of this Act [Oct. 3, 2008].
 
-“(2) Disclosure of allocations.—The amendment made by subsection (d) [amending this section] shall apply to certifications made after the date of the enactment of this Act.
+"(2) Disclosure of allocations.—The amendment made by subsection (d) [amending this section] shall apply to certifications made after the date of the enactment of this Act.
 
-“(3) Clerical amendment.—The amendment made by subsection (c)(5) [amending this section] shall take effect as if included in the amendment made by section 1307(b) of the Energy Tax Incentives Act of 2005 [Pub. L. 109–58].”
+"(3) Clerical amendment.—The amendment made by subsection (c)(5) [amending this section] shall take effect as if included in the amendment made by section 1307(b) of the Energy Tax Incentives Act of 2005 [Pub. L. 109–58]."
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title XV, §15346(b), May 22, 2008, 122 Stat. 1523, and Pub. L. 110–246, §4(a), title XV, §15346(b), June 18, 2008, 122 Stat. 1664, 2285, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [June 18, 2008] and is applicable to all competitive certification awards entered into under section 48A or 48B of the Internal Revenue Code of 1986, whether such awards were issued before, on, or after such date of enactment.”
+Pub. L. 110–234, title XV, §15346(b), May 22, 2008, 122 Stat. 1523, and Pub. L. 110–246, §4(a), title XV, §15346(b), June 18, 2008, 122 Stat. 1664, 2285, provided that: "The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [June 18, 2008] and is applicable to all competitive certification awards entered into under section 48A or 48B of the Internal Revenue Code of 1986, whether such awards were issued before, on, or after such date of enactment."
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
 #### Effective Date of 2006 Amendment ####
 
-Pub. L. 109–432, div. A, title II, §203(b), Dec. 20, 2006, 120 Stat. 2945, provided that: “The amendment made by this section [amending this section] shall take apply [sic] with respect to applications for certification under section 48A(d)(2) of the Internal Revenue Code of 1986 submitted after October 2, 2006.”
+Pub. L. 109–432, div. A, title II, §203(b), Dec. 20, 2006, 120 Stat. 2945, provided that: "The amendment made by this section [amending this section] shall take apply [sic] with respect to applications for certification under section 48A(d)(2) of the Internal Revenue Code of 1986 submitted after October 2, 2006."
 
 #### Effective Date ####
 

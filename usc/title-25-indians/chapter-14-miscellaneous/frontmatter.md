@@ -10,7 +10,7 @@ Sec.
 
 443. Disposition of cash settlements.
 
-443a. Conveyance to Indian tribes of federally owned buildings, improvements, or facilities; disposition of property by Indians; forfeiture; “Indian” defined.
+443a. Conveyance to Indian tribes of federally owned buildings, improvements, or facilities; disposition of property by Indians; forfeiture; "Indian" defined.
 
 443b. Indian goods and supplies.
 
@@ -222,7 +222,7 @@ Sec.
 
 465a. Receipt and purchase in trust by United States of land for Klamath Tribe Indians.
 
-465b. “Klamath Tribe of Indians” defined.
+465b. "Klamath Tribe of Indians" defined.
 
 466. Indian forestry units; rules and regulations.
 
@@ -332,7 +332,7 @@ Sec.
 
 500i. Alienation of reindeer or interests; penalty.
 
-500j. “Reindeer” defined.
+500j. "Reindeer" defined.
 
 500k. Rules and regulations.
 
@@ -340,7 +340,7 @@ Sec.
 
 500m. Use of public lands; violation.
 
-500n. “Natives of Alaska” defined.
+500n. "Natives of Alaska" defined.
 
 #### SUBCHAPTER VIII—INDIANS IN OKLAHOMA: PROMOTION OF WELFARE ####
 
@@ -384,7 +384,7 @@ Sec.
 
 #### SUBCHAPTER XI—KLAMATH TRIBE: PAYMENTS IN LIEU OF ALLOTMENTS; INHERITANCE OF RESTRICTED PROPERTY ####
 
-551. “Klamath Tribe” defined.
+551. "Klamath Tribe" defined.
 
 552. Payments in lieu of allotments.
 
@@ -742,7 +742,7 @@ Sec.
 
 #### SUBCHAPTER XXV—INDIANS OF CALIFORNIA ####
 
-651. “Indians of California” defined.
+651. "Indians of California" defined.
 
 652. Claims against United States for appropriated lands; submission to United States Court of Federal Claims; appeal; grounds for relief.
 
@@ -786,7 +786,7 @@ Sec.
 
 674. Use of funds of the Ute Mountain Tribe of the Ute Mountain Reservation for expenditure and per capita payments; taxation of lands and funds; regulations applicable to loans.
 
-675. Restriction on payment of funds for agents’ or attorneys’ fees.
+675. Restriction on payment of funds for agents' or attorneys' fees.
 
 676. Use of funds of Southern Ute Tribe of Southern Ute Reservation for expenditure and per capita payments; regulations applicable to loans.
 
@@ -832,7 +832,7 @@ Sec.
 
 677p. Tax exemption; exceptions and time limits; valuation for income tax on gains or losses.
 
-677q. Applicability of decedents’ estates laws to individual trust property of mixed-blood members.
+677q. Applicability of decedents' estates laws to individual trust property of mixed-blood members.
 
 677r. Indian claims unaffected.
 
@@ -860,19 +860,19 @@ Sec.
 
 682. Payment free of liens or claims.
 
-683. Payments not “other income and resources”.
+683. Payments not "other income and resources".
 
 684. Per capita payment to tribal members; installments; rules and regulations.
 
 685. Payment free of liens or claims.
 
-686. Payments not “other income and resources”.
+686. Payments not "other income and resources".
 
 687. Per capita payment to tribal members; rules and regulations.
 
 688. Payment free of liens or claims.
 
-689. Payments not “other income and resources”.
+689. Payments not "other income and resources".
 
 690. Distribution of judgment fund; tax exemption of per capita payments.
 
@@ -1284,7 +1284,7 @@ Sec.
 
 962. Membership roll; enrollment of children born after September 14, 1961.
 
-963. Per capita distributions to tribal members; attorneys’ fees and expenses; advances or expenditures from tribal funds; tax exemption.
+963. Per capita distributions to tribal members; attorneys' fees and expenses; advances or expenditures from tribal funds; tax exemption.
 
 964. Distribution of shares.
 
@@ -1356,7 +1356,7 @@ Sec.
 
 995. Payments not subject to liens, debts, or claims; exception.
 
-996. Payments not “other income and resources”.
+996. Payments not "other income and resources".
 
 997. Costs.
 

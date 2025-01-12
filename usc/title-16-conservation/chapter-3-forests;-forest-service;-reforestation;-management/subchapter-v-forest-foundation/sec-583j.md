@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-There is established the National Forest Foundation (hereinafter referred to as the “Foundation”) as a charitable and nonprofit corporation domiciled in the District of Columbia.
+There is established the National Forest Foundation (hereinafter referred to as the "Foundation") as a charitable and nonprofit corporation domiciled in the District of Columbia.
 
 #### (b) Purposes ####
 
@@ -32,8 +32,8 @@ The purposes of the Foundation are to—
 
 #### Short Title of 1993 Amendment ####
 
-Pub. L. 103–106, §1, Oct. 12, 1993, 107 Stat. 1031, provided that: “This Act [amending sections 583j–3 and 583j–8 of this title and enacting provisions set out as a note under section 583j–3 of this title] may be cited as the ‘National Forest Foundation Act Amendment Act of 1993’.”
+Pub. L. 103–106, §1, Oct. 12, 1993, 107 Stat. 1031, provided that: "This Act [amending sections 583j–3 and 583j–8 of this title and enacting provisions set out as a note under section 583j–3 of this title] may be cited as the 'National Forest Foundation Act Amendment Act of 1993'."
 
 #### Short Title ####
 
-Pub. L. 101–593, title IV, §401, Nov. 16, 1990, 104 Stat. 2969, provided that: “This title [enacting this subchapter] may be cited as the ‘National Forest Foundation Act’.”
+Pub. L. 101–593, title IV, §401, Nov. 16, 1990, 104 Stat. 2969, provided that: "This title [enacting this subchapter] may be cited as the 'National Forest Foundation Act'."

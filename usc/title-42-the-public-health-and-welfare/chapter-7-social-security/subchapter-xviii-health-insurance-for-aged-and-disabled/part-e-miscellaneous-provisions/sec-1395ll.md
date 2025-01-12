@@ -20,31 +20,31 @@ Section 222(a) of the Social Security Amendments of 1972, referred to in subsec.
 
 #### Amendments ####
 
-**2008**—Subsec. (b). Pub. L. 110–275 substituted “national accreditation bodies under section 1395bb(a) of this title” for “the Joint Commission on Accreditation of Hospitals,”.
+**2008**—Subsec. (b). Pub. L. 110–275 substituted "national accreditation bodies under section 1395bb(a) of this title" for "the Joint Commission on Accreditation of Hospitals,".
 
-**2003**—Subsec. (b). Pub. L. 108–173 substituted “this subchapter” for “the insurance programs under parts A and B of this subchapter”.
+**2003**—Subsec. (b). Pub. L. 108–173 substituted "this subchapter" for "the insurance programs under parts A and B of this subchapter".
 
 **1989**—Subsec. (c). Pub. L. 101–239 struck out subsec. (c) which related to patient outcome assessment research program.
 
-Subsec. (c)(7). Pub. L. 101–234, §301(b)(5), (d)(2), amended par. (7) identically, substituting “date of the enactment of this section” for “date of the enactment of this Act”.
+Subsec. (c)(7). Pub. L. 101–234, §301(b)(5), (d)(2), amended par. (7) identically, substituting "date of the enactment of this section" for "date of the enactment of this Act".
 
-**1988**—Subsec. (c)(3). Pub. L. 100–647 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “For purposes of carrying out the research program, there are authorized to be appropriated—
+**1988**—Subsec. (c)(3). Pub. L. 100–647 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "For purposes of carrying out the research program, there are authorized to be appropriated—
 
-“(A) from the Federal Hospital Insurance Trust Fund $4,000,000 for fiscal year 1987 and $5,000,000 for each of fiscal years 1988 and 1989, and
+"(A) from the Federal Hospital Insurance Trust Fund $4,000,000 for fiscal year 1987 and $5,000,000 for each of fiscal years 1988 and 1989, and
 
-“(B) from the Federal Supplementary Medical Insurance Trust Fund $2,000,000 for fiscal year 1987 and $2,500,000 for each of fiscal years 1988 and 1989.”
+"(B) from the Federal Supplementary Medical Insurance Trust Fund $2,000,000 for fiscal year 1987 and $2,500,000 for each of fiscal years 1988 and 1989."
 
-**1987**—Subsec. (c)(3)(B). Pub. L. 100–203 substituted “fiscal year 1987” for “fiscal years 1987”.
+**1987**—Subsec. (c)(3)(B). Pub. L. 100–203 substituted "fiscal year 1987" for "fiscal years 1987".
 
 **1986**—Subsec. (c). Pub. L. 99–509 added subsec. (c).
 
-**1984**—Subsec. (b). Pub. L. 98–369 struck out “the” after “Joint Commission on”.
+**1984**—Subsec. (b). Pub. L. 98–369 struck out "the" after "Joint Commission on".
 
-**1972**—Subsec. (a). Pub. L. 92–603, §201(c)(7), inserted “and the disabled” after “aged”.
+**1972**—Subsec. (a). Pub. L. 92–603, §201(c)(7), inserted "and the disabled" after "aged".
 
-Subsec. (b). Pub. L. 92–603, §§222(c), 226(d)(1), 244(d), substituted “(including a validation of the accreditation process of the Joint Commission on the Accreditation of Hospitals, the operation and administration of health maintenance organizations authorized by section 226 of the Social Security Amendments of 1972, the experiments and demonstration projects authorized by section 402 of the Social Security Amendments of 1967 and the experiments and demonstration projects authorized by section 222(a) of the Social Security Amendments of 1972)” for “(including the experimentation authorized by section 402 of the Social Security Amendments of 1967)”. Pub. L. 92–603, §226(d)(2), which directed the substitution of “1972” for “1971”, could not be executed because “1971” did not appear.
+Subsec. (b). Pub. L. 92–603, §§222(c), 226(d)(1), 244(d), substituted "(including a validation of the accreditation process of the Joint Commission on the Accreditation of Hospitals, the operation and administration of health maintenance organizations authorized by section 226 of the Social Security Amendments of 1972, the experiments and demonstration projects authorized by section 402 of the Social Security Amendments of 1967 and the experiments and demonstration projects authorized by section 222(a) of the Social Security Amendments of 1972)" for "(including the experimentation authorized by section 402 of the Social Security Amendments of 1967)". Pub. L. 92–603, §226(d)(2), which directed the substitution of "1972" for "1971", could not be executed because "1971" did not appear.
 
-**1968**—Subsec. (b). Pub. L. 90–248 inserted “(including the experimentation authorized by section 402 of the Social Security Amendments of 1967” after “under parts A and B of this subchapter”.
+**1968**—Subsec. (b). Pub. L. 90–248 inserted "(including the experimentation authorized by section 402 of the Social Security Amendments of 1967" after "under parts A and B of this subchapter".
 
 #### Effective Date of 2008 Amendment; Transition Rule ####
 
@@ -66,121 +66,121 @@ Amendment by section 226(d) of Pub. L. 92–603 effective with respect to servic
 
 Pub. L. 108–173, title II, §238, Dec. 8, 2003, 117 Stat. 2213, provided that:
 
-“(a) Evaluation.—
+"(a) Evaluation.—
 
-“(1) In general.—Not later than the date that is 2 months after the date of the enactment of this Act [Dec. 8, 2003], the Secretary [of Health and Human Services] shall enter into an arrangement under which the Institute of Medicine of the National Academy of Sciences (in this section referred to as the ‘Institute’) shall conduct an evaluation of leading health care performance measures in the public and private sectors and options to implement policies that align performance with payment under the medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.).
+"(1) In general.—Not later than the date that is 2 months after the date of the enactment of this Act [Dec. 8, 2003], the Secretary [of Health and Human Services] shall enter into an arrangement under which the Institute of Medicine of the National Academy of Sciences (in this section referred to as the 'Institute') shall conduct an evaluation of leading health care performance measures in the public and private sectors and options to implement policies that align performance with payment under the medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.).
 
-“(2) Specific matters evaluated.—In conducting the evaluation under paragraph (1), the Institute shall—
+"(2) Specific matters evaluated.—In conducting the evaluation under paragraph (1), the Institute shall—
 
-“(A) catalogue, review, and evaluate the validity of leading health care performance measures;
+"(A) catalogue, review, and evaluate the validity of leading health care performance measures;
 
-“(B) catalogue and evaluate the success and utility of alternative performance incentive programs in public or private sector settings; and
+"(B) catalogue and evaluate the success and utility of alternative performance incentive programs in public or private sector settings; and
 
-“(C) identify and prioritize options to implement policies that align performance with payment under the medicare program that indicate—
+"(C) identify and prioritize options to implement policies that align performance with payment under the medicare program that indicate—
 
-“(i) the performance measurement set to be used and how that measurement set will be updated;
+"(i) the performance measurement set to be used and how that measurement set will be updated;
 
-“(ii) the payment policy that will reward performance; and
+"(ii) the payment policy that will reward performance; and
 
-“(iii) the key implementation issues (such as data and information technology requirements) that must be addressed.
+"(iii) the key implementation issues (such as data and information technology requirements) that must be addressed.
 
-“(3) Scope of health care performance measures.—The health care performance measures described in paragraph (2)(A) shall encompass a variety of perspectives, including physicians, hospitals, other health care providers, health plans, purchasers, and patients.
+"(3) Scope of health care performance measures.—The health care performance measures described in paragraph (2)(A) shall encompass a variety of perspectives, including physicians, hospitals, other health care providers, health plans, purchasers, and patients.
 
-“(4) Consultation with medpac.—In evaluating the matters described in paragraph (2)(C), the Institute shall consult with the Medicare Payment Advisory Commission established under section 1805 of the Social Security Act (42 U.S.C. 1395b–6).
+"(4) Consultation with medpac.—In evaluating the matters described in paragraph (2)(C), the Institute shall consult with the Medicare Payment Advisory Commission established under section 1805 of the Social Security Act (42 U.S.C. 1395b–6).
 
-“(b) Report.—Not later than the date that is 18 months after the date of enactment of this Act [Dec. 8, 2003], the Institute shall submit to the Secretary and appropriate committees of jurisdiction of the Senate and House of Representatives a report on the evaluation conducted under subsection (a)(1) describing the findings of such evaluation and recommendations for an overall strategy and approach for aligning payment with performance, including options for updating performance measures, in the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act [42 U.S.C. 1395c et seq., 1395j et seq.], the Medicare Advantage program under part C of such title [42 U.S.C. 1395w–21 et seq.], and any other programs under such title XVIII [42 U.S.C. 1395 et seq.].
+"(b) Report.—Not later than the date that is 18 months after the date of enactment of this Act [Dec. 8, 2003], the Institute shall submit to the Secretary and appropriate committees of jurisdiction of the Senate and House of Representatives a report on the evaluation conducted under subsection (a)(1) describing the findings of such evaluation and recommendations for an overall strategy and approach for aligning payment with performance, including options for updating performance measures, in the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act [42 U.S.C. 1395c et seq., 1395j et seq.], the Medicare Advantage program under part C of such title [42 U.S.C. 1395w–21 et seq.], and any other programs under such title XVIII [42 U.S.C. 1395 et seq.].
 
-“(c) Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary for purposes of conducting the evaluation and preparing the report required by this section.”
+"(c) Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary for purposes of conducting the evaluation and preparing the report required by this section."
 
-#### GAO Study on Access to Physicians’ Services ####
+#### GAO Study on Access to Physicians' Services ####
 
 Pub. L. 108–173, title VI, §604, Dec. 8, 2003, 117 Stat. 2301, provided that:
 
-“(a) Study.—The Comptroller General of the United States shall conduct a study on access of medicare beneficiaries to physicians’ services under the medicare program. The study shall include—
+"(a) Study.—The Comptroller General of the United States shall conduct a study on access of medicare beneficiaries to physicians' services under the medicare program. The study shall include—
 
-“(1) an assessment of the use by beneficiaries of such services through an analysis of claims submitted by physicians for such services under part B of the medicare program [42 U.S.C. 1395j et seq.];
+"(1) an assessment of the use by beneficiaries of such services through an analysis of claims submitted by physicians for such services under part B of the medicare program [42 U.S.C. 1395j et seq.];
 
-“(2) an examination of changes in the use by beneficiaries of physicians’ services over time; and
+"(2) an examination of changes in the use by beneficiaries of physicians' services over time; and
 
-“(3) an examination of the extent to which physicians are not accepting new medicare beneficiaries as patients.
+"(3) an examination of the extent to which physicians are not accepting new medicare beneficiaries as patients.
 
-“(b) Report.—Not later than 18 months after the date of the enactment of this Act [Dec. 8, 2003], the Comptroller General shall submit to Congress a report on the study conducted under subsection (a). The report shall include a determination whether—
+"(b) Report.—Not later than 18 months after the date of the enactment of this Act [Dec. 8, 2003], the Comptroller General shall submit to Congress a report on the study conducted under subsection (a). The report shall include a determination whether—
 
-“(1) data from claims submitted by physicians under part B of the medicare program [42 U.S.C. 1395j et seq.] indicate potential access problems for medicare beneficiaries in certain geographic areas; and
+"(1) data from claims submitted by physicians under part B of the medicare program [42 U.S.C. 1395j et seq.] indicate potential access problems for medicare beneficiaries in certain geographic areas; and
 
-“(2) access by medicare beneficiaries to physicians’ services may have improved, remained constant, or deteriorated over time.”
+"(2) access by medicare beneficiaries to physicians' services may have improved, remained constant, or deteriorated over time."
 
 #### Study on Enrollment Procedures for Groups That Retain Independent Contractor Physicians ####
 
 Pub. L. 106–554, §1(a)(6) [title IV, §413], Dec. 21, 2000, 114 Stat. 2763, 2763A–515, provided that:
 
-“(a) In General.—The Comptroller General of the United States shall conduct a study of the current medicare enrollment process for groups that retain independent contractor physicians with particular emphasis on hospital-based physicians, such as emergency department staffing groups. In conducting the evaluation, the Comptroller General shall consult with groups that retain independent contractor physicians and shall—
+"(a) In General.—The Comptroller General of the United States shall conduct a study of the current medicare enrollment process for groups that retain independent contractor physicians with particular emphasis on hospital-based physicians, such as emergency department staffing groups. In conducting the evaluation, the Comptroller General shall consult with groups that retain independent contractor physicians and shall—
 
-“(1) review the issuance of individual medicare provider numbers and the possible medicare program integrity vulnerabilities of the current process;
+"(1) review the issuance of individual medicare provider numbers and the possible medicare program integrity vulnerabilities of the current process;
 
-“(2) review direct and indirect costs associated with the current process incurred by the medicare program and groups that retain independent contractor physicians;
+"(2) review direct and indirect costs associated with the current process incurred by the medicare program and groups that retain independent contractor physicians;
 
-“(3) assess the effect on program integrity by the enrollment of groups that retain independent contractor hospital-based physicians; and
+"(3) assess the effect on program integrity by the enrollment of groups that retain independent contractor hospital-based physicians; and
 
-“(4) develop suggested procedures for the enrollment of these groups.
+"(4) develop suggested procedures for the enrollment of these groups.
 
-“(b) Report.—Not later than 1 year after the date of the enactment of this Act [Dec. 21, 2000], the Comptroller General shall submit to Congress a report on the study conducted under subsection (a).”
+"(b) Report.—Not later than 1 year after the date of the enactment of this Act [Dec. 21, 2000], the Comptroller General shall submit to Congress a report on the study conducted under subsection (a)."
 
 #### GAO Studies and Reports on Medicare Payments ####
 
 Pub. L. 106–554, §1(a)(6) [title IV, §437], Dec. 21, 2000, 114 Stat. 2763, 2763A–527, provided that:
 
-“(a) GAO Study on HCFA Post-Payment Audit Process.—
+"(a) GAO Study on HCFA Post-Payment Audit Process.—
 
-“(1) Study.—The Comptroller General of the United States shall conduct a study on the post-payment audit process under the medicare program under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] as such process applies to physicians, including the proper level of resources that the Health Care Financing Administration should devote to educating physicians regarding—
+"(1) Study.—The Comptroller General of the United States shall conduct a study on the post-payment audit process under the medicare program under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] as such process applies to physicians, including the proper level of resources that the Health Care Financing Administration should devote to educating physicians regarding—
 
-“(A) coding and billing;
+"(A) coding and billing;
 
-“(B) documentation requirements; and
+"(B) documentation requirements; and
 
-“(C) the calculation of overpayments.
+"(C) the calculation of overpayments.
 
-“(2) Report.—Not later than 18 months after the date of the enactment of this Act [Dec. 21, 2000], the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1) together with specific recommendations for changes or improvements in the post-payment audit process described in such paragraph.
+"(2) Report.—Not later than 18 months after the date of the enactment of this Act [Dec. 21, 2000], the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1) together with specific recommendations for changes or improvements in the post-payment audit process described in such paragraph.
 
-“(b) GAO Study on Administration and Oversight.—
+"(b) GAO Study on Administration and Oversight.—
 
-“(1) Study.—The Comptroller General of the United States shall conduct a study on the aggregate effects of regulatory, audit, oversight, and paperwork burdens on physicians and other health care providers participating in the medicare program under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.].
+"(1) Study.—The Comptroller General of the United States shall conduct a study on the aggregate effects of regulatory, audit, oversight, and paperwork burdens on physicians and other health care providers participating in the medicare program under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.].
 
-“(2) Report.—Not later than 18 months after the date of the enactment of this Act [Dec. 21, 2000], the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1) together with recommendations regarding any area in which—
+"(2) Report.—Not later than 18 months after the date of the enactment of this Act [Dec. 21, 2000], the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1) together with recommendations regarding any area in which—
 
-“(A) a reduction in paperwork, an ease of administration, or an appropriate change in oversight and review may be accomplished; or
+"(A) a reduction in paperwork, an ease of administration, or an appropriate change in oversight and review may be accomplished; or
 
-“(B) additional payments or education are needed to assist physicians and other health care providers in understanding and complying with any legal or regulatory requirements.”
+"(B) additional payments or education are needed to assist physicians and other health care providers in understanding and complying with any legal or regulatory requirements."
 
-#### Study and Report Regarding Utilization of Physicians’ Services by Medicare Beneficiaries ####
+#### Study and Report Regarding Utilization of Physicians' Services by Medicare Beneficiaries ####
 
 Pub. L. 106–113, div. B, §1000(a)(6) [title II, §211(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–349, provided that:
 
-“(1) Study by secretary.—The Secretary of Health and Human Services, acting through the Administrator of the Agency for Health Care Policy and Research, shall conduct a study of the issues specified in paragraph (2).
+"(1) Study by secretary.—The Secretary of Health and Human Services, acting through the Administrator of the Agency for Health Care Policy and Research, shall conduct a study of the issues specified in paragraph (2).
 
-“(2) Issues to be studied.—The issues specified in this paragraph are the following:
+"(2) Issues to be studied.—The issues specified in this paragraph are the following:
 
-“(A) The various methods for accurately estimating the economic impact on expenditures for physicians’ services under the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) [42 U.S.C. 1395c et seq., 1395j et seq.] resulting from—
+"(A) The various methods for accurately estimating the economic impact on expenditures for physicians' services under the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) [42 U.S.C. 1395c et seq., 1395j et seq.] resulting from—
 
-“(i) improvements in medical capabilities;
+"(i) improvements in medical capabilities;
 
-“(ii) advancements in scientific technology;
+"(ii) advancements in scientific technology;
 
-“(iii) demographic changes in the types of medicare beneficiaries that receive benefits under such program; and
+"(iii) demographic changes in the types of medicare beneficiaries that receive benefits under such program; and
 
-“(iv) geographic changes in locations where medicare beneficiaries receive benefits under such program.
+"(iv) geographic changes in locations where medicare beneficiaries receive benefits under such program.
 
-“(B) The rate of usage of physicians’ services under the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) among beneficiaries between ages 65 and 74, 75 and 84, 85 and over, and disabled beneficiaries under age 65.
+"(B) The rate of usage of physicians' services under the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) among beneficiaries between ages 65 and 74, 75 and 84, 85 and over, and disabled beneficiaries under age 65.
 
-“(C) Other factors that may be reliable predictors of beneficiary utilization of physicians’ services under the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.).
+"(C) Other factors that may be reliable predictors of beneficiary utilization of physicians' services under the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.).
 
-“(3) Report to congress.—Not later than 3 years after the date of the enactment of this Act [Nov. 29, 1999], the Secretary of Health and Human Services shall submit a report to Congress setting forth the results of the study conducted pursuant to paragraph (1), together with any recommendations the Secretary determines are appropriate.
+"(3) Report to congress.—Not later than 3 years after the date of the enactment of this Act [Nov. 29, 1999], the Secretary of Health and Human Services shall submit a report to Congress setting forth the results of the study conducted pursuant to paragraph (1), together with any recommendations the Secretary determines are appropriate.
 
-“(4) Medpac report to congress.—Not later than 180 days after the date of submission of the report under paragraph (3), the Medicare Payment Advisory Commission shall submit a report to Congress that includes—
+"(4) Medpac report to congress.—Not later than 180 days after the date of submission of the report under paragraph (3), the Medicare Payment Advisory Commission shall submit a report to Congress that includes—
 
-“(A) an analysis and evaluation of the report submitted under paragraph (3); and
+"(A) an analysis and evaluation of the report submitted under paragraph (3); and
 
-“(B) such recommendations as it determines are appropriate.”
+"(B) such recommendations as it determines are appropriate."
 
 #### Study of Adult Day Care Services ####
 
@@ -198,7 +198,7 @@ For treatment of hospitals in States which have had a waiver approved under this
 
 Pub. L. 96–499, title IX, §931(f), Dec. 5, 1980, 94 Stat. 2634, which related to a study of medicare coverage of certain additional detoxification-related services, was repealed by Pub. L. 97–35, title XXI, §2121(h), Aug. 13, 1981, 95 Stat. 796.
 
-#### Legislative Recommendations Regarding Reimbursement for Optometrists’ Services ####
+#### Legislative Recommendations Regarding Reimbursement for Optometrists' Services ####
 
 Pub. L. 96–499, title IX, §937(b), Dec. 5, 1980, 94 Stat. 2640, provided that the Secretary of Health and Human Services submit to the Congress by Jan. 1, 1982, legislative recommendations with respect to reimbursement under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] for services furnished by optometrists in connection with cataracts and such other services which they are legally authorized to perform.
 

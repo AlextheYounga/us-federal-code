@@ -1,8 +1,8 @@
 ### §57b–4. Good faith reliance on actions of Board of Governors ###
 
-#### (a) “Board of Governors” defined ####
+#### (a) "Board of Governors" defined ####
 
-For purposes of this section, the term “Board of Governors’ means the Board of Governors” of the Federal Reserve System.
+For purposes of this section, the term "Board of Governors' means the Board of Governors" of the Federal Reserve System.
 
 #### (b) Use as defense ####
 

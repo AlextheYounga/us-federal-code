@@ -44,6 +44,6 @@ The Secretary shall append to the economic development plan submitted to the Con
 
 #### Amendments ####
 
-**1992**—Subsec. (a)(3). Pub. L. 102–497 substituted “3 years” for “2 years”.
+**1992**—Subsec. (a)(3). Pub. L. 102–497 substituted "3 years" for "2 years".
 
-[<sup>1</sup> So in original. The word “shall” probably should not appear.](#983h_1)
+[<sup>1</sup> So in original. The word "shall" probably should not appear.](#983h_1)

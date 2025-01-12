@@ -10,6 +10,6 @@ Within 3 years after the date funds are made available therefor and in consultat
 
 (Pub. L. 103–449, title III, §306, Nov. 2, 1994, 108 Stat. 4760.)
 
-[<sup>1</sup> So in original. Probably should be “Cane River National Heritage Area Commission,”.](#410ccc-4_1)
+[<sup>1</sup> So in original. Probably should be "Cane River National Heritage Area Commission,".](#410ccc-4_1)
 
-[<sup>2</sup> So in original. Probably should be “Heritage Area Commission,”.](#410ccc-4_2)
+[<sup>2</sup> So in original. Probably should be "Heritage Area Commission,".](#410ccc-4_2)

@@ -32,6 +32,6 @@ Section 5(a) of the National Forest and Public Lands of Nevada Enhancement Act o
 
 #### Amendments ####
 
-**1994**—Subsec. (a)(1). Pub. L. 103–450 substituted “No later than January 1, 1997,” for “Within 3 full fiscal years following the fiscal year in which the date of enactment of this subchapter occurs,”.
+**1994**—Subsec. (a)(1). Pub. L. 103–450 substituted "No later than January 1, 1997," for "Within 3 full fiscal years following the fiscal year in which the date of enactment of this subchapter occurs,".
 
-Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".

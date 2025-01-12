@@ -142,4 +142,4 @@ This chapter, act July 5, 1946, ch. 540, 60 Stat. 427, became effective one year
 
 #### Prior Laws ####
 
-The Trade-Mark Act of 1905 superseded the Trade-Mark Act of Mar. 3, 1881, ch. 138, 21 Stat. 502, entitled “An Act to authorize the registration of trade-marks and protect the same,” and also act Aug. 5, 1882, ch. 393, 22 Stat. 298, entitled “An Act relating to the registration of trade marks”. Former section 109 of this title repealed all inconsistent acts and parts of acts, except so far as they might apply to certificates of registration issued under the Trade-Mark Act of Mar. 3, 1881, ch. 138, and act Aug. 5, 1882, ch. 393.
+The Trade-Mark Act of 1905 superseded the Trade-Mark Act of Mar. 3, 1881, ch. 138, 21 Stat. 502, entitled "An Act to authorize the registration of trade-marks and protect the same," and also act Aug. 5, 1882, ch. 393, 22 Stat. 298, entitled "An Act relating to the registration of trade marks". Former section 109 of this title repealed all inconsistent acts and parts of acts, except so far as they might apply to certificates of registration issued under the Trade-Mark Act of Mar. 3, 1881, ch. 138, and act Aug. 5, 1882, ch. 393.

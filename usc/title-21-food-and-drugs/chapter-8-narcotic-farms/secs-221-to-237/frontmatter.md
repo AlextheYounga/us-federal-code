@@ -1,6 +1,6 @@
 ### §§221 to 237. Repealed. July 1, 1944, ch. 373, title XIII, §1313, 58 Stat. 714 ###
 
-Section 221, act Jan. 19, 1929, ch. 82, §1, 45 Stat. 1085, defined “habit-forming narcotic drug”, “narcotic”, and “addict”. See section 201 of Title 42, The Public Health and Welfare.
+Section 221, act Jan. 19, 1929, ch. 82, §1, 45 Stat. 1085, defined "habit-forming narcotic drug", "narcotic", and "addict". See section 201 of Title 42, The Public Health and Welfare.
 
 Section 222, act Jan. 19, 1929, ch. 82, §2, 45 Stat. 1085, provided for narcotic farms.
 

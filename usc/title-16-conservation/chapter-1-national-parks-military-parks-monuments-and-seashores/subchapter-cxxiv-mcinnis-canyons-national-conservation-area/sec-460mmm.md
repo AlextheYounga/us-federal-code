@@ -16,16 +16,16 @@ The purpose of this subchapter is to conserve, protect, and enhance for the bene
 
 #### Amendments ####
 
-**2004**—Subsec. (b). Pub. L. 108–400 substituted “McInnis Canyons” for “Colorado Canyons”.
+**2004**—Subsec. (b). Pub. L. 108–400 substituted "McInnis Canyons" for "Colorado Canyons".
 
 #### Change of Name ####
 
-Pub. L. 108–400, §1(f), Oct. 30, 2004, 118 Stat. 2254, provided that: “Any reference in a law, map, regulation, document, paper, or other record of the United States to the ‘Colorado Canyons National Conservation Area’ shall be deemed to be a reference to the ‘McInnis Canyons National Conservation Area’.”
+Pub. L. 108–400, §1(f), Oct. 30, 2004, 118 Stat. 2254, provided that: "Any reference in a law, map, regulation, document, paper, or other record of the United States to the 'Colorado Canyons National Conservation Area' shall be deemed to be a reference to the 'McInnis Canyons National Conservation Area'."
 
 #### Effective Date of 2004 Amendment ####
 
-Pub. L. 108–400, §1(g), Oct. 30, 2004, 118 Stat. 2254, provided that: “This section [amending this section and sections 460mmm–1, 460mmm–2, and 460mmm–6 of this title, enacting provisions set out as a note under this section, and amending provisions set out as a note under this section] and the amendments made by this section take effect on January 1, 2005.”
+Pub. L. 108–400, §1(g), Oct. 30, 2004, 118 Stat. 2254, provided that: "This section [amending this section and sections 460mmm–1, 460mmm–2, and 460mmm–6 of this title, enacting provisions set out as a note under this section, and amending provisions set out as a note under this section] and the amendments made by this section take effect on January 1, 2005."
 
 #### Short Title ####
 
-Pub. L. 106–353, §1, Oct. 24, 2000, 114 Stat. 1374, as amended by Pub. L. 108–400, §1(e), Oct. 30, 2004, 118 Stat. 2254, provided that: “This Act [enacting this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title] may be cited as the ‘McInnis Canyons National Conservation Area and Black Ridge Canyons Wilderness Act of 2000’.”
+Pub. L. 106–353, §1, Oct. 24, 2000, 114 Stat. 1374, as amended by Pub. L. 108–400, §1(e), Oct. 30, 2004, 118 Stat. 2254, provided that: "This Act [enacting this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title] may be cited as the 'McInnis Canyons National Conservation Area and Black Ridge Canyons Wilderness Act of 2000'."

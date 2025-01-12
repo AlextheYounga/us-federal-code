@@ -16,7 +16,7 @@ No entity engaged in the manufacture, processing, packing, transporting, distrib
 
 #### (1) In general ####
 
-A person who believes that he or she has been discharged or otherwise discriminated against by any person in violation of subsection (a) may, not later than 180 days after the date on which such violation occurs, file (or have any person file on his or her behalf) a complaint with the Secretary of Labor (referred to in this section as the “Secretary”) alleging such discharge or discrimination and identifying the person responsible for such act. Upon receipt of such a complaint, the Secretary shall notify, in writing, the person named in the complaint of the filing of the complaint, of the allegations contained in the complaint, of the substance of evidence supporting the complaint, and of the opportunities that will be afforded to such person under paragraph (2).
+A person who believes that he or she has been discharged or otherwise discriminated against by any person in violation of subsection (a) may, not later than 180 days after the date on which such violation occurs, file (or have any person file on his or her behalf) a complaint with the Secretary of Labor (referred to in this section as the "Secretary") alleging such discharge or discrimination and identifying the person responsible for such act. Upon receipt of such a complaint, the Secretary shall notify, in writing, the person named in the complaint of the filing of the complaint, of the allegations contained in the complaint, of the substance of evidence supporting the complaint, and of the opportunities that will be afforded to such person under paragraph (2).
 
 #### (2) Investigation ####
 
@@ -64,11 +64,11 @@ If, in response to a complaint filed under paragraph (1), the Secretary determin
 
 #### (C) Penalty ####
 
-If such an order is issued under this paragraph, the Secretary, at the request of the complainant, shall assess against the person against whom the order is issued a sum equal to the aggregate amount of all costs and expenses (including attorneys’ and expert witness fees) reasonably incurred, as determined by the Secretary, by the complainant for, or in connection with, the bringing of the complaint upon which the order was issued.
+If such an order is issued under this paragraph, the Secretary, at the request of the complainant, shall assess against the person against whom the order is issued a sum equal to the aggregate amount of all costs and expenses (including attorneys' and expert witness fees) reasonably incurred, as determined by the Secretary, by the complainant for, or in connection with, the bringing of the complaint upon which the order was issued.
 
 #### (D) Bad faith claim ####
 
-If the Secretary finds that a complaint under paragraph (1) is frivolous or has been brought in bad faith, the Secretary may award to the prevailing employer a reasonable attorneys’ fee, not exceeding $1,000, to be paid by the complainant.
+If the Secretary finds that a complaint under paragraph (1) is frivolous or has been brought in bad faith, the Secretary may award to the prevailing employer a reasonable attorneys' fee, not exceeding $1,000, to be paid by the complainant.
 
 #### (4) Action in court ####
 
@@ -108,7 +108,7 @@ A person on whose behalf an order was issued under paragraph (3) may commence a 
 
 #### (B) Award ####
 
-The court, in issuing any final order under this paragraph, may award costs of litigation (including reasonable attorneys’ and expert witness fees) to any party whenever the court determines such award is appropriate.
+The court, in issuing any final order under this paragraph, may award costs of litigation (including reasonable attorneys' and expert witness fees) to any party whenever the court determines such award is appropriate.
 
 #### (c) Effect of section ####
 

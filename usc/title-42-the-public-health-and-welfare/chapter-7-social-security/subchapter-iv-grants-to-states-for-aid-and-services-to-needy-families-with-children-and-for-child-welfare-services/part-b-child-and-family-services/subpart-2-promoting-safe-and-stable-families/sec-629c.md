@@ -18,7 +18,7 @@ From the amount described in section 629f(a) of this title for any fiscal year t
 
 #### (A) In general ####
 
-As used in paragraph (1) of this subsection, the term “supplemental nutrition assistance program benefits percentage” means, with respect to a State and a fiscal year, the average monthly number of children receiving supplemental nutrition assistance program benefits in the State for months in the 3 fiscal years referred to in subparagraph (B) of this paragraph, as determined from sample surveys made under section 2025(c) of title 7, expressed as a percentage of the average monthly number of children receiving supplemental nutrition assistance program benefits in the States described in such paragraph (1) for months in such 3 fiscal years, as so determined.
+As used in paragraph (1) of this subsection, the term "supplemental nutrition assistance program benefits percentage" means, with respect to a State and a fiscal year, the average monthly number of children receiving supplemental nutrition assistance program benefits in the State for months in the 3 fiscal years referred to in subparagraph (B) of this paragraph, as determined from sample surveys made under section 2025(c) of title 7, expressed as a percentage of the average monthly number of children receiving supplemental nutrition assistance program benefits in the States described in such paragraph (1) for months in such 3 fiscal years, as so determined.
 
 #### (B) Fiscal years used in calculation ####
 
@@ -36,7 +36,7 @@ From the amount reserved pursuant to section 629f(b)(4)(A) of this title for any
 
 #### (2) Other States ####
 
-From the amount reserved pursuant to section 629f(b)(4)(A) of this title for any fiscal year that remains after applying paragraph (1) of this subsection for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) not specified in subsection (b) of this section, that has provided to the Secretary such documentation as may be necessary to verify that the State has complied with section 629f(b)(4)(B)(ii) of this title during the fiscal year, an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage of the State (as defined in subsection (c)(2) of this section) for the fiscal year, except that in applying subsection (c)(2)(A) of this section, “subsection (e)(2)” shall be substituted for “such paragraph (1)”.
+From the amount reserved pursuant to section 629f(b)(4)(A) of this title for any fiscal year that remains after applying paragraph (1) of this subsection for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) not specified in subsection (b) of this section, that has provided to the Secretary such documentation as may be necessary to verify that the State has complied with section 629f(b)(4)(B)(ii) of this title during the fiscal year, an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage of the State (as defined in subsection (c)(2) of this section) for the fiscal year, except that in applying subsection (c)(2)(A) of this section, "subsection (e)(2)" shall be substituted for "such paragraph (1)".
 
 (Aug. 14, 1935, ch. 531, title IV, §433, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 653; amended Pub. L. 107–133, title I, §§103, 106(a)(2), Jan. 17, 2002, 115 Stat. 2415, 2417; Pub. L. 109–288, §§4(a)(2), 5(b)(1)(A), 6(f)(4), Sept. 28, 2006, 120 Stat. 1237, 1242, 1247; Pub. L. 110–234, title IV, §4002(b)(1)(B), (D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–34, title I, §102(g)(2), Sept. 30, 2011, 125 Stat. 372.)
 
@@ -50,31 +50,31 @@ A prior section 433 of act Aug. 14, 1935, was classified to section 633 of this 
 
 #### Amendments ####
 
-**2011**—Subsec. (c)(2). Pub. L. 112–34, §102(g)(2)(A), substituted “Supplemental nutrition assistance program benefits” for “Food stamp” in heading.
+**2011**—Subsec. (c)(2). Pub. L. 112–34, §102(g)(2)(A), substituted "Supplemental nutrition assistance program benefits" for "Food stamp" in heading.
 
-Subsec. (c)(2)(A). Pub. L. 112–34, §102(g)(2)(B), substituted “receiving supplemental nutrition assistance program benefits” for “receiving supplemental nutrition assistance program benefits benefits” in two places.
+Subsec. (c)(2)(A). Pub. L. 112–34, §102(g)(2)(B), substituted "receiving supplemental nutrition assistance program benefits" for "receiving supplemental nutrition assistance program benefits benefits" in two places.
 
-**2008**—Subsec. (c)(1). Pub. L. 110–246, §4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
+**2008**—Subsec. (c)(1). Pub. L. 110–246, §4002(b)(1)(D), (2)(V), substituted "supplemental nutrition assistance program benefits" for "food stamp".
 
-Subsec. (c)(2)(A). Pub. L. 110–246, §4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp” wherever appearing.
+Subsec. (c)(2)(A). Pub. L. 110–246, §4002(b)(1)(D), (2)(V), substituted "supplemental nutrition assistance program benefits" for "food stamp" wherever appearing.
 
 Pub. L. 110–246, §4002(b)(1)(B), (2)(V), made technical amendment to reference in original act which appears in text as reference to section 2025(c) of title 7.
 
-Subsec. (e)(2). Pub. L. 110–246, §4002(b)(1)(D), (2)(V), substituted “supplemental nutrition assistance program benefits” for “food stamp”.
+Subsec. (e)(2). Pub. L. 110–246, §4002(b)(1)(D), (2)(V), substituted "supplemental nutrition assistance program benefits" for "food stamp".
 
-**2006**—Subsec. (a). Pub. L. 109–288, §5(b)(1)(A), inserted “or tribal consortia” after “tribes” in heading and inserted at end of text “If a consortium of Indian tribes submits a plan approved under this subpart, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.”
+**2006**—Subsec. (a). Pub. L. 109–288, §5(b)(1)(A), inserted "or tribal consortia" after "tribes" in heading and inserted at end of text "If a consortium of Indian tribes submits a plan approved under this subpart, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium."
 
-Subsec. (b). Pub. L. 109–288, §6(f)(4), substituted “section 623” for “section 621”.
+Subsec. (b). Pub. L. 109–288, §6(f)(4), substituted "section 623" for "section 621".
 
-Subsec. (d). Pub. L. 109–288, §4(a)(2)(A), inserted “subsection (a), (b), or (c) of” after “to a State under” and “specified in”.
+Subsec. (d). Pub. L. 109–288, §4(a)(2)(A), inserted "subsection (a), (b), or (c) of" after "to a State under" and "specified in".
 
 Subsec. (e). Pub. L. 109–288, §4(a)(2)(B), added subsec. (e).
 
-**2002**—Subsec. (a). Pub. L. 107–133, §106(a)(2)(A), substituted “section 629f(b)(3)” for “section 629(d)(3)”.
+**2002**—Subsec. (a). Pub. L. 107–133, §106(a)(2)(A), substituted "section 629f(b)(3)" for "section 629(d)(3)".
 
-Subsec. (b). Pub. L. 107–133, §106(a)(2)(B), substituted “section 629f(a)” for “section 629(b)” and “section 629f(b)” for “section 629(d)”.
+Subsec. (b). Pub. L. 107–133, §106(a)(2)(B), substituted "section 629f(a)" for "section 629(b)" and "section 629f(b)" for "section 629(d)".
 
-Subsec. (c)(1). Pub. L. 107–133, §106(a)(2)(C), substituted “section 629f(a)” for “section 629(b)” and “section 629f(b)” for “section 629(d)”.
+Subsec. (c)(1). Pub. L. 107–133, §106(a)(2)(C), substituted "section 629f(a)" for "section 629(b)" and "section 629f(b)" for "section 629(d)".
 
 Subsec. (d). Pub. L. 107–133, §103, added subsec. (d).
 

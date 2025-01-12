@@ -6,7 +6,7 @@ There is hereby authorized to be appropriated from time to time in fiscal years 
 
 #### Codification ####
 
-Words “personal services, traveling expenses, transportation of things, purchase, maintenance, and operation of motor vehicles, miscellaneous equipment, and supplies, communications, other contractual services, necessary printing locally, and maintenance, repair, improvement, equipment, and operation of vessels and buildings or other structures”, appearing in text, were inserted in place of words “all the classes of expenditures enumerated in the foregoing section”. The “foregoing section” referred to section 5 of Act Aug. 4, 1947, which is set out as a note under this section.
+Words "personal services, traveling expenses, transportation of things, purchase, maintenance, and operation of motor vehicles, miscellaneous equipment, and supplies, communications, other contractual services, necessary printing locally, and maintenance, repair, improvement, equipment, and operation of vessels and buildings or other structures", appearing in text, were inserted in place of words "all the classes of expenditures enumerated in the foregoing section". The "foregoing section" referred to section 5 of Act Aug. 4, 1947, which is set out as a note under this section.
 
 #### Transfer of Functions ####
 

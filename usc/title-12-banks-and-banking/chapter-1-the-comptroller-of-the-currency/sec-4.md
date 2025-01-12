@@ -8,7 +8,7 @@ The Secretary of the Treasury shall appoint no more than four Deputy Comptroller
 
 R.S. §327 derived from act June 3, 1864, ch. 106, §1, 13 Stat. 99, which was the National Bank Act. See section 38 of this title.
 
-R.S. §327, contained after the word “Secretary” the following “who shall be entitled to a salary of two thousand five hundred dollars a year, and” which was omitted from this section on authority of act Mar. 4, 1923, §209(b), fourth sentence, which was classified to section 9a of this title and regulated the salaries of deputy comptrollers.
+R.S. §327, contained after the word "Secretary" the following "who shall be entitled to a salary of two thousand five hundred dollars a year, and" which was omitted from this section on authority of act Mar. 4, 1923, §209(b), fourth sentence, which was classified to section 9a of this title and regulated the salaries of deputy comptrollers.
 
 #### Amendments ####
 

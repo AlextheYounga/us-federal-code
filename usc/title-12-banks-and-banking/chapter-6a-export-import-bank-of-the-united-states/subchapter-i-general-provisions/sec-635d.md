@@ -6,7 +6,7 @@ The Export-Import Bank of the United States is authorized to issue from time to 
 
 #### Codification ####
 
-“Chapter 31 of title 31” and “that chapter” substituted in text for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+"Chapter 31 of title 31" and "that chapter" substituted in text for "the Second Liberty Bond Act, as amended" and "that Act", respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Prior Provisions ####
 
@@ -16,15 +16,15 @@ A prior section 5 of act July 31, 1945, ch. 341, was classified to section 635c 
 
 **1975**—Pub. L. 93–646 substituted provision making mandatory that each Bank obligation bear interest at a rate not less than the current average yield on outstanding obligations of comparable maturity, for provision requiring that only the current average rate be taken into consideration.
 
-**1968**—Pub. L. 90–267 changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
+**1968**—Pub. L. 90–267 changed name of "Export-Import Bank of Washington" to "Export-Import Bank of the United States".
 
-**1958**—Pub. L. 85–424 substituted “$6,000,000,000” for “$4,000,000,000”.
+**1958**—Pub. L. 85–424 substituted "$6,000,000,000" for "$4,000,000,000".
 
-**1954**—Act Aug. 9, 1954, substituted “$4,000,000,000” for “three and one-half times the authorized capital stock of the Bank”.
+**1954**—Act Aug. 9, 1954, substituted "$4,000,000,000" for "three and one-half times the authorized capital stock of the Bank".
 
-**1951**—Act Oct. 3, 1951, substituted “three and one-half” for “two and one-half”.
+**1951**—Act Oct. 3, 1951, substituted "three and one-half" for "two and one-half".
 
-**1947**—Act June 9, 1947, struck out “and bear such rate of interest” before “as may be determined” in the second sentence and added the third sentence relating to the rate of interest on obligations.
+**1947**—Act June 9, 1947, struck out "and bear such rate of interest" before "as may be determined" in the second sentence and added the third sentence relating to the rate of interest on obligations.
 
 #### Effective Date of 1954 Amendment ####
 

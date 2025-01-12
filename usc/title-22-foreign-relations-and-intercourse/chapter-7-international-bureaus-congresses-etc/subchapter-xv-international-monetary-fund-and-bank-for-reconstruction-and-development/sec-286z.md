@@ -20,9 +20,9 @@ To this end, the Secretary of the Treasury shall instruct the United States Exec
 
 (2) to disseminate publicly information which is developed in the course of the Fund's collection, and to review and comment on efforts which the Fund determines would serve to enhance the informational base upon which international borrowing and lending decisions are taken.
 
-#### (c) “Credit” defined ####
+#### (c) "Credit" defined ####
 
-For purposes of this section, the term “credit” includes—
+For purposes of this section, the term "credit" includes—
 
 (1) outstanding loans to private and public entities, including government entities, instrumentalities, and central banks of any member, and
 

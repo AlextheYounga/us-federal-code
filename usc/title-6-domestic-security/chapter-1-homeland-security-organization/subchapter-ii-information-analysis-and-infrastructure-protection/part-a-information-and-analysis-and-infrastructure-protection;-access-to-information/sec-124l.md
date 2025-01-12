@@ -84,7 +84,7 @@ By not later than two years after August 3, 2007, the Inspector General of the D
 
 #### (f) National Infrastructure Protection Consortium ####
 
-The Secretary may establish a consortium to be known as the “National Infrastructure Protection Consortium”. The Consortium may advise the Secretary on the best way to identify, generate, organize, and maintain any database or list of systems and assets established by the Secretary, including the database established under subsection (a)(1) and the list established under subsection (a)(2). If the Secretary establishes the National Infrastructure Protection Consortium, the Consortium may—
+The Secretary may establish a consortium to be known as the "National Infrastructure Protection Consortium". The Consortium may advise the Secretary on the best way to identify, generate, organize, and maintain any database or list of systems and assets established by the Secretary, including the database established under subsection (a)(1) and the list established under subsection (a)(2). If the Secretary establishes the National Infrastructure Protection Consortium, the Consortium may—
 
 (1) be composed of national laboratories, Federal agencies, State and local homeland security organizations, academic institutions, or national Centers of Excellence that have demonstrated experience working with and identifying critical infrastructure and key resources; and
 
@@ -94,4 +94,4 @@ The Secretary may establish a consortium to be known as the “National Infrastr
 
 #### Deadlines for Implementation and Notification of Congress ####
 
-Pub. L. 110–53, title X, §1001(b), Aug. 3, 2007, 121 Stat. 374, provided that: “Not later than 180 days after the date of the enactment of this Act [Aug. 3, 2007], the Secretary of Homeland Security shall submit the first report required under section 210E(d) of the Homeland Security Act of 2002 [6 U.S.C. 124l(d)], as added by subsection (a).”
+Pub. L. 110–53, title X, §1001(b), Aug. 3, 2007, 121 Stat. 374, provided that: "Not later than 180 days after the date of the enactment of this Act [Aug. 3, 2007], the Secretary of Homeland Security shall submit the first report required under section 210E(d) of the Homeland Security Act of 2002 [6 U.S.C. 124l(d)], as added by subsection (a)."

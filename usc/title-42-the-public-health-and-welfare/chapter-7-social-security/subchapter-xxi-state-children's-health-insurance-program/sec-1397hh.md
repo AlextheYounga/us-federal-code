@@ -138,13 +138,13 @@ The information under paragraph (1) shall include information on children who ar
 
 **2010**—Subsec. (e)(7). Pub. L. 111–148, which directed amendment of subsec. (e) by adding par. (7) at end, was executed to the subsec. (e) added by Pub. L. 111–3, §402(a)(2), relating to information required for inclusion in State annual report, to reflect the probable intent of Congress.
 
-**2009**—Subsec. (a). Pub. L. 111–3, §402(a)(1), substituted “Subject to subsection (e), the State” for “The State” in introductory provisions.
+**2009**—Subsec. (a). Pub. L. 111–3, §402(a)(1), substituted "Subject to subsection (e), the State" for "The State" in introductory provisions.
 
-Subsec. (c)(3)(B). Pub. L. 111–3, §201(b)(2)(B)(ii), inserted “(such as through community health workers and others)” after “including practices”.
+Subsec. (c)(3)(B). Pub. L. 111–3, §201(b)(2)(B)(ii), inserted "(such as through community health workers and others)" after "including practices".
 
-Subsec. (c)(5). Pub. L. 111–3, §603, added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $10,000,000 for fiscal year 2000 for the purpose of conducting the evaluation authorized under this subsection. Amounts appropriated under this paragraph shall remain available for expenditure through fiscal year 2002.”
+Subsec. (c)(5). Pub. L. 111–3, §603, added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: "Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $10,000,000 for fiscal year 2000 for the purpose of conducting the evaluation authorized under this subsection. Amounts appropriated under this paragraph shall remain available for expenditure through fiscal year 2002."
 
-Subsec. (d). Pub. L. 111–8 struck out “and GAO report” after “Inspector General audit” in heading and struck out par. (3) which related to duty of Comptroller General to monitor Inspector General audits and report to Congress on audit results.
+Subsec. (d). Pub. L. 111–8 struck out "and GAO report" after "Inspector General audit" in heading and struck out par. (3) which related to duty of Comptroller General to monitor Inspector General audits and report to Congress on audit results.
 
 Pub. L. 111–3, §604, amended subsec. (d) generally. Prior to amendment, subsec. related to Inspector General audits of certain States.
 
@@ -164,9 +164,9 @@ Amendment by section 501(e)(2) of Pub. L. 111–3 effective for annual reports s
 
 Pub. L. 111–3, title IV, §402(b), Feb. 4, 2009, 123 Stat. 83, provided that:
 
-“(1) In general.—Not later than 1 year after the date of enactment of this Act [Feb. 4, 2009], the Secretary [of Health and Human Services] shall specify a standardized format for States to use for reporting the information required under section 2108(e) of the Social Security Act [42 U.S.C. 1397hh(e)], as added by subsection (a)(2).
+"(1) In general.—Not later than 1 year after the date of enactment of this Act [Feb. 4, 2009], the Secretary [of Health and Human Services] shall specify a standardized format for States to use for reporting the information required under section 2108(e) of the Social Security Act [42 U.S.C. 1397hh(e)], as added by subsection (a)(2).
 
-“(2) Transition period for states.—Each State that is required to submit a report under subsection (a) of section 2108 of the Social Security Act [42 U.S.C. 1397hh(a)] that includes the information required under subsection (e) of such section may use up to 3 reporting periods to transition to the reporting of such information in accordance with the standardized format specified by the Secretary under paragraph (1).”
+"(2) Transition period for states.—Each State that is required to submit a report under subsection (a) of section 2108 of the Social Security Act [42 U.S.C. 1397hh(a)] that includes the information required under subsection (e) of such section may use up to 3 reporting periods to transition to the reporting of such information in accordance with the standardized format specified by the Secretary under paragraph (1)."
 
 [<sup>1</sup> So in original. Two subsecs. (e) have been enacted.](#1397hh_1)
 

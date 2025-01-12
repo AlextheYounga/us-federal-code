@@ -18,23 +18,23 @@
 
 **2010**—Subsecs. (a) to (c). Pub. L. 111–281, §511(c)(1), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which read as follows:
 
-“(a) An officer who, while serving in the grade of vice admiral, is retired for physical disability shall be placed on the retired list with the grade of vice admiral.
+"(a) An officer who, while serving in the grade of vice admiral, is retired for physical disability shall be placed on the retired list with the grade of vice admiral.
 
-“(b) An officer who is retired while serving in the grade of vice admiral, or who, after serving at least two and one-half years in the grade of vice admiral, is retired while serving in a lower grade, may in the discretion of the President, be retired with the grade of vice admiral.
+"(b) An officer who is retired while serving in the grade of vice admiral, or who, after serving at least two and one-half years in the grade of vice admiral, is retired while serving in a lower grade, may in the discretion of the President, be retired with the grade of vice admiral.
 
-“(c) An officer who, after serving less than two and one-half years in the grade of vice admiral, is retired while serving in a lower grade, shall be retired in his permanent grade.”
+"(c) An officer who, after serving less than two and one-half years in the grade of vice admiral, is retired while serving in a lower grade, shall be retired in his permanent grade."
 
-Subsec. (d)(2). Pub. L. 111–281, §511(c)(2), substituted “or Vice Admiral” for “Area Commander, or Chief of Staff”.
+Subsec. (d)(2). Pub. L. 111–281, §511(c)(2), substituted "or Vice Admiral" for "Area Commander, or Chief of Staff".
 
-**1993**—Subsec. (a). Pub. L. 103–206, §205(c)(1), substituted “in the grade of vice admiral” for “as Commander, Atlantic Area, or Commander, Pacific Area”.
+**1993**—Subsec. (a). Pub. L. 103–206, §205(c)(1), substituted "in the grade of vice admiral" for "as Commander, Atlantic Area, or Commander, Pacific Area".
 
-Subsec. (b). Pub. L. 103–206, §205(c)(2), substituted “in the grade of vice admiral” for “as Commander, Atlantic Area, or Commander, Pacific Area”.
+Subsec. (b). Pub. L. 103–206, §205(c)(2), substituted "in the grade of vice admiral" for "as Commander, Atlantic Area, or Commander, Pacific Area".
 
 Subsec. (d). Pub. L. 103–206, §204(d), added subsec. (d).
 
-**1986**—Subsecs. (a), (b). Pub. L. 99–348, §205(b)(3)(A), struck out “and retired pay” after “with the grade”.
+**1986**—Subsecs. (a), (b). Pub. L. 99–348, §205(b)(3)(A), struck out "and retired pay" after "with the grade".
 
-Subsec. (c). Pub. L. 99–348, §205(b)(3)(B), struck out “and with the retired pay of that grade” after “permanent grade”.
+Subsec. (c). Pub. L. 99–348, §205(b)(3)(B), struck out "and with the retired pay of that grade" after "permanent grade".
 
 #### Effective Date ####
 

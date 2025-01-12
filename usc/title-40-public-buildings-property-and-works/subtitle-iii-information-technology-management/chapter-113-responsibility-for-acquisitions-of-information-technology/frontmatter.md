@@ -36,4 +36,4 @@ Sec.
 
 #### Amendments ####
 
-**2002**—Pub. L. 107–296, title X, §§1002(b), 1005(a)(2), Nov. 25, 2002, 116 Stat. 2269, 2272, and Pub. L. 107–347, title III, §§302(b), 305(a), Dec. 17, 2002, 116 Stat. 2957, 2960, amended table of sections identically, substituting “Responsibilities for Federal information systems standards” for “Responsibilities regarding efficiency, security, and privacy of federal computer systems” in item 11331 and striking out item 11332 “Federal computer system security training and plan”.
+**2002**—Pub. L. 107–296, title X, §§1002(b), 1005(a)(2), Nov. 25, 2002, 116 Stat. 2269, 2272, and Pub. L. 107–347, title III, §§302(b), 305(a), Dec. 17, 2002, 116 Stat. 2957, 2960, amended table of sections identically, substituting "Responsibilities for Federal information systems standards" for "Responsibilities regarding efficiency, security, and privacy of federal computer systems" in item 11331 and striking out item 11332 "Federal computer system security training and plan".

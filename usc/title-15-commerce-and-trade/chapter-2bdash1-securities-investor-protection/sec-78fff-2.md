@@ -74,11 +74,11 @@ To the extent that a net loss sustained by a broker or dealer arises from contra
 
 #### (3) Registered clearing agencies ####
 
-Neither a registered clearing agency which by its rules has an established procedure for the closeout of open contracts between an insolvent broker or dealer and its participants, nor its participants to the extent such participants’ claims are or may be processed within the registered clearing agency, shall be entitled to receive SIPC funds in payment of any losses on such contracts, except as SIPC may otherwise provide by rule. If such registered clearing agency or its participants sustain a net loss on the closeout of such contracts with the debtor, they shall have the right to participate in the general estate as unsecured creditors to the extent of such loss. Any funds or other property owed to the debtor, after the closeout of such contracts, shall be promptly paid to the trustee. Rules adopted by SIPC under this paragraph shall provide that in no case may a registered clearing agency or its participants, to the extent such participants’ claims are or may be processed within the registered clearing agency, be entitled to receive funds advanced by SIPC in an amount greater, in the aggregate, than could be received by the participants if such participants proceeded individually under paragraph (1) and (2).
+Neither a registered clearing agency which by its rules has an established procedure for the closeout of open contracts between an insolvent broker or dealer and its participants, nor its participants to the extent such participants' claims are or may be processed within the registered clearing agency, shall be entitled to receive SIPC funds in payment of any losses on such contracts, except as SIPC may otherwise provide by rule. If such registered clearing agency or its participants sustain a net loss on the closeout of such contracts with the debtor, they shall have the right to participate in the general estate as unsecured creditors to the extent of such loss. Any funds or other property owed to the debtor, after the closeout of such contracts, shall be promptly paid to the trustee. Rules adopted by SIPC under this paragraph shall provide that in no case may a registered clearing agency or its participants, to the extent such participants' claims are or may be processed within the registered clearing agency, be entitled to receive funds advanced by SIPC in an amount greater, in the aggregate, than could be received by the participants if such participants proceeded individually under paragraph (1) and (2).
 
-#### (4) “Customer” defined ####
+#### (4) "Customer" defined ####
 
-For purposes of this subsection, the term “customer” does not include any person who—
+For purposes of this subsection, the term "customer" does not include any person who—
 
 (A) is a broker or dealer;
 
@@ -106,7 +106,7 @@ A prior section 8 of Pub. L. 91–598 was renumbered section 12 and is classifie
 
 #### Amendments ####
 
-**1978**—Subsecs. (a)(1), (c)(3). Pub. L. 95–598 substituted “title 11” for “the Bankruptcy Act”.
+**1978**—Subsecs. (a)(1), (c)(3). Pub. L. 95–598 substituted "title 11" for "the Bankruptcy Act".
 
 #### Effective Date of 1978 Amendment ####
 

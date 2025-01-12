@@ -12,6 +12,6 @@ Sec.
 
 **1986**—Pub. L. 99–661, div. A, title V, §508(d)(1)(B), Nov. 14, 1986, 100 Stat. 3867, added item 600a.
 
-**1980**—Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2849, substituted “34” for “35” as chapter number.
+**1980**—Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2849, substituted "34" for "35" as chapter number.
 
-**1958**—Pub. L. 85–861, §1(11), Sept. 2, 1958, 72 Stat. 1440, added item 592 and struck out item 596 “Officers: promotion”.
+**1958**—Pub. L. 85–861, §1(11), Sept. 2, 1958, 72 Stat. 1440, added item 592 and struck out item 596 "Officers: promotion".

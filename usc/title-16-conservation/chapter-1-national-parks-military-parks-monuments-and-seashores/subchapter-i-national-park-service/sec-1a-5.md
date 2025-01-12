@@ -80,25 +80,25 @@ For the purposes of carrying out the studies for potential new Park System units
 
 #### References in Text ####
 
-This Act, referred to in subsec. (b)(4), means Pub. L. 91–383, Aug. 18, 1970, 84 Stat. 825, as amended, known as the “National Park System General Authorities Act”. As originally enacted, Pub. L. 91–383 contained sections 1 to 4, the first 3 of which enacted sections 1a–1 and 1a–2 and amended sections 1b and 1c of this title. Pub. L. 94–458 amended Pub. L. 91–383 by adding sections 5 to 12, which enacted sections 1a–3 to 1a–7, amended sections 17j, 460n–5, 463, 470a, and 559, and repealed sections 10, 10a, 17b–1, and 415 of this title. Pub. L. 103–322 amended Pub. L. 91–383 by adding section 13, which enacted section 1a–7a of this title. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under section 1 of this title and Tables.
+This Act, referred to in subsec. (b)(4), means Pub. L. 91–383, Aug. 18, 1970, 84 Stat. 825, as amended, known as the "National Park System General Authorities Act". As originally enacted, Pub. L. 91–383 contained sections 1 to 4, the first 3 of which enacted sections 1a–1 and 1a–2 and amended sections 1b and 1c of this title. Pub. L. 94–458 amended Pub. L. 91–383 by adding sections 5 to 12, which enacted sections 1a–3 to 1a–7, amended sections 17j, 460n–5, 463, 470a, and 559, and repealed sections 10, 10a, 17b–1, and 415 of this title. Pub. L. 103–322 amended Pub. L. 91–383 by adding section 13, which enacted section 1a–7a of this title. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under section 1 of this title and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c)(4), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments ####
 
-**1998**—Subsec. (a). Pub. L. 105–391, §303(1), (2), inserted heading and struck out after first sentence “At the beginning of each fiscal year, the Secretary shall transmit to the Speaker of the House of Representatives and to the President of the Senate, comprehensive reports on each of those areas upon which studies have been completed. Each such report shall indicate and elaborate on the theme(s) which the area represents as indicated in the National Park System Plan. On this same date, and accompanying such reports, the Secretary shall transmit a listing, in generally descending order of importance or merit, of not less than twelve such areas which appear to be of national significance and which may have potential for inclusion in the National Park System. Threats to resource values, and cost escalation factors shall be considered in listing the order of importance or merit. Such listing may be comprised of any areas heretofore submitted under terms of this section, and which at the time of listing are not included in the National Park System.”
+**1998**—Subsec. (a). Pub. L. 105–391, §303(1), (2), inserted heading and struck out after first sentence "At the beginning of each fiscal year, the Secretary shall transmit to the Speaker of the House of Representatives and to the President of the Senate, comprehensive reports on each of those areas upon which studies have been completed. Each such report shall indicate and elaborate on the theme(s) which the area represents as indicated in the National Park System Plan. On this same date, and accompanying such reports, the Secretary shall transmit a listing, in generally descending order of importance or merit, of not less than twelve such areas which appear to be of national significance and which may have potential for inclusion in the National Park System. Threats to resource values, and cost escalation factors shall be considered in listing the order of importance or merit. Such listing may be comprised of any areas heretofore submitted under terms of this section, and which at the time of listing are not included in the National Park System."
 
 Pub. L. 105–391, §303(3), redesignated last two sentences as subsec. (f).
 
 Subsecs. (b) to (e). Pub. L. 105–391, §303(4), added subsecs. (b) to (e).
 
-Subsec. (f). Pub. L. 105–391, §303(3), (5), redesignated last two sentences of subsec. (a) as (f), inserted heading, and inserted at end “For carrying out subsections (b) through (d) of this section there are authorized to be appropriated $2,000,000 for each fiscal year.”
+Subsec. (f). Pub. L. 105–391, §303(3), (5), redesignated last two sentences of subsec. (a) as (f), inserted heading, and inserted at end "For carrying out subsections (b) through (d) of this section there are authorized to be appropriated $2,000,000 for each fiscal year."
 
-**1996**—Subsec. (b). Pub. L. 104–333 struck out subsec. (b) which read as follows: “The Secretary shall submit to the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, a comprehensive, ‘National Park System Plan’, which document shall constitute a professional guide for the identification of natural and historic themes of the United States, and from which candidate areas can be identified and selected to constitute units of the National Park System. Such plan shall be revised and updated annually.”
+**1996**—Subsec. (b). Pub. L. 104–333 struck out subsec. (b) which read as follows: "The Secretary shall submit to the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, a comprehensive, 'National Park System Plan', which document shall constitute a professional guide for the identification of natural and historic themes of the United States, and from which candidate areas can be identified and selected to constitute units of the National Park System. Such plan shall be revised and updated annually."
 
-**1994**—Subsec. (a). Pub. L. 103–437, §6(b)(1), substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+**1994**—Subsec. (a). Pub. L. 103–437, §6(b)(1), substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
 
-Subsec. (b). Pub. L. 103–437, §6(b)(2), substituted “The Secretary shall submit to the Committee on Natural Resources” for “Within six months of March 5, 1980, the Secretary shall submit to the Committee on Interior and Insular Affairs”.
+Subsec. (b). Pub. L. 103–437, §6(b)(2), substituted "The Secretary shall submit to the Committee on Natural Resources" for "Within six months of March 5, 1980, the Secretary shall submit to the Committee on Interior and Insular Affairs".
 
 **1980**—Subsec. (a). Pub. L. 96–344 inserted provisions requiring that each report indicate and elaborate on the theme or themes which the area represents as indicated in the National Park System Plan and the annual priority listing of areas be accomplished by a synopsis, for each report previously submitted, of current and changed conditions of the resource integrity of the area or other relevant factors, to cover the period since the previous such submission or initial report submission one year earlier.
 
@@ -112,145 +112,145 @@ Subsec. (b). Pub. L. 96–199, §104(b), added subsec. (b).
 
 Pub. L. 111–11, title VII, §7210, Mar. 30, 2009, 123 Stat. 1210, provided that:
 
-“(a) Definitions.—
+"(a) Definitions.—
 
-“(1) Advisory committee.—The term ‘Advisory Committee’ means the Cold War Advisory Committee established under subsection (c).
+"(1) Advisory committee.—The term 'Advisory Committee' means the Cold War Advisory Committee established under subsection (c).
 
-“(2) Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+"(2) Secretary.—The term 'Secretary' means the Secretary of the Interior.
 
-“(3) Theme study.—The term ‘theme study’ means the national historic landmark theme study conducted under subsection (b)(1).
+"(3) Theme study.—The term 'theme study' means the national historic landmark theme study conducted under subsection (b)(1).
 
-“(b) Cold War Theme Study.—
+"(b) Cold War Theme Study.—
 
-“(1) In general.—The Secretary shall conduct a national historic landmark theme study to identify sites and resources in the United States that are significant to the Cold War.
+"(1) In general.—The Secretary shall conduct a national historic landmark theme study to identify sites and resources in the United States that are significant to the Cold War.
 
-“(2) Resources.—In conducting the theme study, the Secretary shall consider—
+"(2) Resources.—In conducting the theme study, the Secretary shall consider—
 
-“(A) the inventory of sites and resources associated with the Cold War completed by the Secretary of Defense under section 8120(b)(9) of the Department of Defense Appropriations Act, 1991 (Public Law 101–511; 104 Stat. 1906); and
+"(A) the inventory of sites and resources associated with the Cold War completed by the Secretary of Defense under section 8120(b)(9) of the Department of Defense Appropriations Act, 1991 (Public Law 101–511; 104 Stat. 1906); and
 
-“(B) historical studies and research of Cold War sites and resources, including—
+"(B) historical studies and research of Cold War sites and resources, including—
 
-“(i) intercontinental ballistic missiles;
+"(i) intercontinental ballistic missiles;
 
-“(ii) flight training centers;
+"(ii) flight training centers;
 
-“(iii) manufacturing facilities;
+"(iii) manufacturing facilities;
 
-“(iv) communications and command centers (such as Cheyenne Mountain, Colorado);
+"(iv) communications and command centers (such as Cheyenne Mountain, Colorado);
 
-“(v) defensive radar networks (such as the Distant Early Warning Line);
+"(v) defensive radar networks (such as the Distant Early Warning Line);
 
-“(vi) nuclear weapons test sites (such as the Nevada test site); and
+"(vi) nuclear weapons test sites (such as the Nevada test site); and
 
-“(vii) strategic and tactical aircraft.
+"(vii) strategic and tactical aircraft.
 
-“(3) Contents.—The theme study shall include—
+"(3) Contents.—The theme study shall include—
 
-“(A) recommendations for commemorating and interpreting sites and resources identified by the theme study, including—
+"(A) recommendations for commemorating and interpreting sites and resources identified by the theme study, including—
 
-“(i) sites for which studies for potential inclusion in the National Park System should be authorized;
+"(i) sites for which studies for potential inclusion in the National Park System should be authorized;
 
-“(ii) sites for which new national historic landmarks should be nominated; and
+"(ii) sites for which new national historic landmarks should be nominated; and
 
-“(iii) other appropriate designations;
+"(iii) other appropriate designations;
 
-“(B) recommendations for cooperative agreements with—
+"(B) recommendations for cooperative agreements with—
 
-“(i) State and local governments;
+"(i) State and local governments;
 
-“(ii) local historical organizations; and
+"(ii) local historical organizations; and
 
-“(iii) other appropriate entities; and
+"(iii) other appropriate entities; and
 
-“(C) an estimate of the amount required to carry out the recommendations under subparagraphs (A) and (B).
+"(C) an estimate of the amount required to carry out the recommendations under subparagraphs (A) and (B).
 
-“(4) Consultation.—In conducting the theme study, the Secretary shall consult with—
+"(4) Consultation.—In conducting the theme study, the Secretary shall consult with—
 
-“(A) the Secretary of the Air Force;
+"(A) the Secretary of the Air Force;
 
-“(B) State and local officials;
+"(B) State and local officials;
 
-“(C) State historic preservation offices; and
+"(C) State historic preservation offices; and
 
-“(D) other interested organizations and individuals.
+"(D) other interested organizations and individuals.
 
-“(5) Report.—Not later than 3 years after the date on which funds are made available to carry out this section, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes the findings, conclusions, and recommendations of the theme study.
+"(5) Report.—Not later than 3 years after the date on which funds are made available to carry out this section, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that describes the findings, conclusions, and recommendations of the theme study.
 
-“(c) Cold War Advisory Committee.—
+"(c) Cold War Advisory Committee.—
 
-“(1) Establishment.—As soon as practicable after funds are made available to carry out this section, the Secretary shall establish an advisory committee, to be known as the ‘Cold War Advisory Committee’, to assist the Secretary in carrying out this section.
+"(1) Establishment.—As soon as practicable after funds are made available to carry out this section, the Secretary shall establish an advisory committee, to be known as the 'Cold War Advisory Committee', to assist the Secretary in carrying out this section.
 
-“(2) Composition.—The Advisory Committee shall be composed of 9 members, to be appointed by the Secretary, of whom—
+"(2) Composition.—The Advisory Committee shall be composed of 9 members, to be appointed by the Secretary, of whom—
 
-“(A) 3 shall have expertise in Cold War history;
+"(A) 3 shall have expertise in Cold War history;
 
-“(B) 2 shall have expertise in historic preservation;
+"(B) 2 shall have expertise in historic preservation;
 
-“(C) 1 shall have expertise in the history of the United States; and
+"(C) 1 shall have expertise in the history of the United States; and
 
-“(D) 3 shall represent the general public.
+"(D) 3 shall represent the general public.
 
-“(3) Chairperson.—The Advisory Committee shall select a chairperson from among the members of the Advisory Committee.
+"(3) Chairperson.—The Advisory Committee shall select a chairperson from among the members of the Advisory Committee.
 
-“(4) Compensation.—A member of the Advisory Committee shall serve without compensation but may be reimbursed by the Secretary for expenses reasonably incurred in the performance of the duties of the Advisory Committee.
+"(4) Compensation.—A member of the Advisory Committee shall serve without compensation but may be reimbursed by the Secretary for expenses reasonably incurred in the performance of the duties of the Advisory Committee.
 
-“(5) Meetings.—On at least 3 occasions, the Secretary (or a designee) shall meet and consult with the Advisory Committee on matters relating to the theme study.
+"(5) Meetings.—On at least 3 occasions, the Secretary (or a designee) shall meet and consult with the Advisory Committee on matters relating to the theme study.
 
-“(d) Interpretive Handbook on the Cold War.—Not later than 4 years after the date on which funds are made available to carry out this section, the Secretary shall—
+"(d) Interpretive Handbook on the Cold War.—Not later than 4 years after the date on which funds are made available to carry out this section, the Secretary shall—
 
-“(1) prepare and publish an interpretive handbook on the Cold War; and
+"(1) prepare and publish an interpretive handbook on the Cold War; and
 
-“(2) disseminate information in the theme study by other appropriate means.
+"(2) disseminate information in the theme study by other appropriate means.
 
-“(e) Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $500,000.”
+"(e) Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $500,000."
 
 #### National Park Service Studies ####
 
 Pub. L. 106–113, div. B, §1000(a)(3) [title III, §326], Nov. 29, 1999, 113 Stat. 1535, 1501A–194, provided that:
 
-“(a) Short Title.—This section may be cited as the ‘National Park Service Studies Act of 1999’.
+"(a) Short Title.—This section may be cited as the 'National Park Service Studies Act of 1999'.
 
-“(b) Authorization of Studies.—
+"(b) Authorization of Studies.—
 
-“(1) In general.—The Secretary of the Interior (‘the Secretary’) shall conduct studies of the geographical areas and historic and cultural themes described in subsection (b)(3) to determine the appropriateness of including such areas or themes in the National Park System.
+"(1) In general.—The Secretary of the Interior ('the Secretary') shall conduct studies of the geographical areas and historic and cultural themes described in subsection (b)(3) to determine the appropriateness of including such areas or themes in the National Park System.
 
-“(2) Criteria.—In conducting the studies authorized by this Act, the Secretary shall use the criteria for the study of areas for potential inclusion in the National Park System in accordance with section 8 of Public Law 91–383 [16 U.S.C. 1a–5], as amended by section 303 of the National Parks Omnibus Management Act (Public Law 105–391; 112 Stat. 3501) [16 U.S.C. 1a–5].
+"(2) Criteria.—In conducting the studies authorized by this Act, the Secretary shall use the criteria for the study of areas for potential inclusion in the National Park System in accordance with section 8 of Public Law 91–383 [16 U.S.C. 1a–5], as amended by section 303 of the National Parks Omnibus Management Act (Public Law 105–391; 112 Stat. 3501) [16 U.S.C. 1a–5].
 
-“(3) Study areas.—The Secretary shall conduct studies of the following:
+"(3) Study areas.—The Secretary shall conduct studies of the following:
 
-“(A) Anderson Cottage, Washington, District of Columbia.
+"(A) Anderson Cottage, Washington, District of Columbia.
 
-“(B) Bioluminescent Bay, Puerto Rico.
+"(B) Bioluminescent Bay, Puerto Rico.
 
-“(C) Civil Rights Sites, multi-State.
+"(C) Civil Rights Sites, multi-State.
 
-“(D) Crossroads of the American Revolution, Central New Jersey.
+"(D) Crossroads of the American Revolution, Central New Jersey.
 
-“(E) Fort Hunter Liggett, California.
+"(E) Fort Hunter Liggett, California.
 
-“(F) Fort King, Florida.
+"(F) Fort King, Florida.
 
-“(G) Gaviota Coast Seashore, California.
+"(G) Gaviota Coast Seashore, California.
 
-“(H) Kate Mullany House, New York.
+"(H) Kate Mullany House, New York.
 
-“(I) Loess Hills, Iowa.
+"(I) Loess Hills, Iowa.
 
-“(J) Low Country Gullah Culture, multi-State.
+"(J) Low Country Gullah Culture, multi-State.
 
-“(K) Nan Madol, State of Ponape, Federated States of Micronesia (upon the request of the Government of the Federated States of Micronesia).
+"(K) Nan Madol, State of Ponape, Federated States of Micronesia (upon the request of the Government of the Federated States of Micronesia).
 
-“(L) Walden Pond and Woods, Massachusetts.
+"(L) Walden Pond and Woods, Massachusetts.
 
-“(M) World War II Sites, Commonwealth of the Northern Marianas.
+"(M) World War II Sites, Commonwealth of the Northern Marianas.
 
-“(N) World War II Sites, Republic of Palau (upon the request of the Government of the Republic of Palau).
+"(N) World War II Sites, Republic of Palau (upon the request of the Government of the Republic of Palau).
 
-“(c) Reports.—The Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources [now Committee on Natural Resources] of the House of Representatives a report on the findings, conclusions, and recommendations of each study under subsection (b) within three fiscal years following the date on which funds are first made available for each study.”
+"(c) Reports.—The Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources [now Committee on Natural Resources] of the House of Representatives a report on the findings, conclusions, and recommendations of each study under subsection (b) within three fiscal years following the date on which funds are first made available for each study."
 
 #### Purpose of 1998 Amendment ####
 
-Pub. L. 105–391, title III, §302, Nov. 13, 1998, 112 Stat. 3501, provided that: “It is the purpose of this title [amending this section and enacting provisions set out as a note under section 1 of this title] to reform the process by which areas are considered for addition to the National Park System.”
+Pub. L. 105–391, title III, §302, Nov. 13, 1998, 112 Stat. 3501, provided that: "It is the purpose of this title [amending this section and enacting provisions set out as a note under section 1 of this title] to reform the process by which areas are considered for addition to the National Park System."
 
 #### Revolutionary War and War of 1812 Historic Preservation Study ####
 
@@ -266,7 +266,7 @@ Pub. L. 102–525, title V, §501, Oct. 26, 1992, 106 Stat. 3442, directed Secre
 
 #### National Historic Landmark Theme Study on American Labor History ####
 
-Pub. L. 102–101, Aug. 17, 1991, 105 Stat. 493, directed Secretary of the Interior, in consultation with workers, workers’ representatives, scholars, and preservationists, and under cooperative agreements with scholarly and public historic organizations, to prepare and transmit to Congress, within 3 years of date of funding, a theme study to identify key sites in American labor history, to nominate districts, sites, etc., as national historic landmarks, to identify possible new park units, and to prepare a list of the most appropriate sites, and authorized appropriations of $250,000 to carry out study.
+Pub. L. 102–101, Aug. 17, 1991, 105 Stat. 493, directed Secretary of the Interior, in consultation with workers, workers' representatives, scholars, and preservationists, and under cooperative agreements with scholarly and public historic organizations, to prepare and transmit to Congress, within 3 years of date of funding, a theme study to identify key sites in American labor history, to nominate districts, sites, etc., as national historic landmarks, to identify possible new park units, and to prepare a list of the most appropriate sites, and authorized appropriations of $250,000 to carry out study.
 
 #### African-American History Landmark Theme Study ####
 
@@ -282,7 +282,7 @@ Pub. L. 101–628, title VI, Nov. 28, 1990, 104 Stat. 4495, directed Secretary o
 
 #### Civil War and Other Studies ####
 
-Pub. L. 101–628, title XII, §§1201–1210, Nov. 28, 1990, 104 Stat. 4503–4507, as amended by Pub. L. 102–166, title V, §501, Nov. 21, 1991, 105 Stat. 1100, provided that title XII of Pub. L. 101–628 could be cited as the “Civil War Sites Study Act of 1990”, directed Secretary of the Interior to prepare a study of Shenandoah Valley Civil War sites in order to obtain information on significance of such sites, threats to their integrity, and alternatives for their preservation, authorized establishment of Civil War Sites Advisory Commission, directed such Commission to prepare a study of historically significant sites other than Shenandoah Valley Civil War sites, and directed Secretary to undertake a complete revision of National Park Service “Thematic Framework” to reflect current scholarship on American history and culture, historic and prehistoric archeology, and architecture.
+Pub. L. 101–628, title XII, §§1201–1210, Nov. 28, 1990, 104 Stat. 4503–4507, as amended by Pub. L. 102–166, title V, §501, Nov. 21, 1991, 105 Stat. 1100, provided that title XII of Pub. L. 101–628 could be cited as the "Civil War Sites Study Act of 1990", directed Secretary of the Interior to prepare a study of Shenandoah Valley Civil War sites in order to obtain information on significance of such sites, threats to their integrity, and alternatives for their preservation, authorized establishment of Civil War Sites Advisory Commission, directed such Commission to prepare a study of historically significant sites other than Shenandoah Valley Civil War sites, and directed Secretary to undertake a complete revision of National Park Service "Thematic Framework" to reflect current scholarship on American history and culture, historic and prehistoric archeology, and architecture.
 
 #### Report to Congress on Criteria for Inclusion as Affiliated Area of National Park System ####
 

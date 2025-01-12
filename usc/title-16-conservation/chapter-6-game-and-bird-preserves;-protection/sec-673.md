@@ -8,7 +8,7 @@ There is established a winter game (elk) reserve in the State of Wyoming, which 
 
 Section is a combination provision, the first sentence being from act Aug. 10, 1912, and the last from act Mar. 4, 1913.
 
-As originally enacted, the first sentence was in the form of an appropriation for the purposes thereof as was also the second sentence which began with the following words: “For the establishment and maintenance of a winter elk refuge in the State of Wyoming, $5,000, to be available until expended, and the Secretary, etc.”
+As originally enacted, the first sentence was in the form of an appropriation for the purposes thereof as was also the second sentence which began with the following words: "For the establishment and maintenance of a winter elk refuge in the State of Wyoming, $5,000, to be available until expended, and the Secretary, etc."
 
 Res. Feb. 25, 1927, ch. 205, 44 Stat. 1246, authorized the acceptance of title to certain lands in accordance with this section.
 

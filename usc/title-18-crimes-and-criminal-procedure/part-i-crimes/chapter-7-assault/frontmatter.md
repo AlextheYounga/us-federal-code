@@ -30,10 +30,10 @@ Sec.
 
 **1984**—Pub. L. 98–473, title II, §1008(b), Oct. 12, 1984, 98 Stat. 2140, added item 115.
 
-**1976**—Pub. L. 94–467, §6, Oct. 8, 1976, 90 Stat. 2000, substituted “official guests, and internationally protected persons” for “and official guests” in item 112.
+**1976**—Pub. L. 94–467, §6, Oct. 8, 1976, 90 Stat. 2000, substituted "official guests, and internationally protected persons" for "and official guests" in item 112.
 
-**1972**—Pub. L. 92–539, title III, §302, Oct. 24, 1972, 86 Stat. 1073, substituted “Protection of foreign officials and official guests” for “Assaulting certain foreign diplomatic and other official personnel” in item 112.
+**1972**—Pub. L. 92–539, title III, §302, Oct. 24, 1972, 86 Stat. 1073, substituted "Protection of foreign officials and official guests" for "Assaulting certain foreign diplomatic and other official personnel" in item 112.
 
-**1964**—Pub. L. 88–493, §2, Aug. 27, 1964, 78 Stat. 610, substituted “certain foreign diplomatic and other official personnel” for “public minister” in item 112.
+**1964**—Pub. L. 88–493, §2, Aug. 27, 1964, 78 Stat. 610, substituted "certain foreign diplomatic and other official personnel" for "public minister" in item 112.
 
 [<sup>1</sup> Editorially supplied. Section 117 added by Pub. L. 109–162 without corresponding amendment of chapter analysis.](#CHAPTER7_1)

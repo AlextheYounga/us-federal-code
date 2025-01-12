@@ -8,7 +8,7 @@ If, upon application by an eligible lender, made upon such form, containing such
 
 #### (2) Effective date of insurance ####
 
-Insurance evidenced by a certificate of insurance pursuant to subsection (a)(1) of this section shall become effective upon the date of issuance of the certificate, except that the Secretary is authorized, in accordance with regulations, to issue commitments with respect to proposed loans, or with respect to lines (or proposed lines) of credit, submitted by eligible lenders, and in that event, upon compliance with subsection (a)(1) of this section by the lender, the certificate of insurance may be issued effective as of the date when any loan, or any payment by the lender pursuant to a line of credit, to be covered by such insurance is made to a student described in section 292d(a)(1) of this title. Such insurance shall cease to be effective upon 60 days’ default by the lender in the payment of any installment of the premiums payable pursuant to section 292g of this title.
+Insurance evidenced by a certificate of insurance pursuant to subsection (a)(1) of this section shall become effective upon the date of issuance of the certificate, except that the Secretary is authorized, in accordance with regulations, to issue commitments with respect to proposed loans, or with respect to lines (or proposed lines) of credit, submitted by eligible lenders, and in that event, upon compliance with subsection (a)(1) of this section by the lender, the certificate of insurance may be issued effective as of the date when any loan, or any payment by the lender pursuant to a line of credit, to be covered by such insurance is made to a student described in section 292d(a)(1) of this title. Such insurance shall cease to be effective upon 60 days' default by the lender in the payment of any installment of the premiums payable pursuant to section 292g of this title.
 
 #### (3) Certain agreements for lenders ####
 
@@ -58,6 +58,6 @@ Another prior section 706 of act July 1, 1944, was classified to section 230 of 
 
 #### Amendments ####
 
-**1998**—Subsec. (d). Pub. L. 105–392, §145(1), in heading, substituted “refinancing or consolidation” for “consolidation” and, in first sentence, substituted “indebtedness or the refinancing of a single loan” for “indebtedness”.
+**1998**—Subsec. (d). Pub. L. 105–392, §145(1), in heading, substituted "refinancing or consolidation" for "consolidation" and, in first sentence, substituted "indebtedness or the refinancing of a single loan" for "indebtedness".
 
-Subsec. (e). Pub. L. 105–392, §145(2), in heading, substituted “debts and refinancing” for “debts”, in first sentence, substituted “all of the borrower's loans insured under this subpart into a single instrument (or, if the borrower obtained only 1 loan insured under this subpart, refinancing the loan 1 time)” for “all of the borrower's debts into a single instrument”, and in second sentence, substituted “consolidation or refinancing” for “consolidation”.
+Subsec. (e). Pub. L. 105–392, §145(2), in heading, substituted "debts and refinancing" for "debts", in first sentence, substituted "all of the borrower's loans insured under this subpart into a single instrument (or, if the borrower obtained only 1 loan insured under this subpart, refinancing the loan 1 time)" for "all of the borrower's debts into a single instrument", and in second sentence, substituted "consolidation or refinancing" for "consolidation".

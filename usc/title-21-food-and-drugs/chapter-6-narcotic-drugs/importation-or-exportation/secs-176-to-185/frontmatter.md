@@ -24,7 +24,7 @@ Section 184, act Feb. 9, 1909, ch. 100, §8, as added Jan. 17, 1914, ch. 9, 38 S
 
 Section 184a, acts July 11, 1941, ch. 289, §1, 55 Stat. 584; July 18, 1956, ch. 629, title I, §108, 70 Stat. 571, made illegal bringing on board a vessel of United States any narcotic drugs not constituting a part of the cargo.
 
-Section 185, act Feb. 9, 1909, ch. 100, §9, as added May 26, 1922, ch. 202, §4, 42 Stat. 598, authorized the citation of act Feb. 9, 1909, ch. 100, as the “Narcotic Drugs Import and Export Act”.
+Section 185, act Feb. 9, 1909, ch. 100, §9, as added May 26, 1922, ch. 202, §4, 42 Stat. 598, authorized the citation of act Feb. 9, 1909, ch. 100, as the "Narcotic Drugs Import and Export Act".
 
 #### Effective Date of Repeal ####
 

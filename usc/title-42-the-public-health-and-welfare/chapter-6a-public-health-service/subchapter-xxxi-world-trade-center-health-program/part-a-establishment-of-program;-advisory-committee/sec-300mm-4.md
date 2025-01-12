@@ -12,7 +12,7 @@ The WTC Program Administrator shall, subject to subsection (b)(1)(B), enter into
 
 (C) for the provision of counseling for benefits under part B, with respect to WTC-related health conditions, for individuals eligible for such benefits;
 
-(D) for the provision of counseling for benefits for WTC-related health conditions that may be available under workers’ compensation or other benefit programs for work-related injuries or illnesses, health insurance, disability insurance, or other insurance plans or through public or private social service agencies and assisting eligible individuals in applying for such benefits;
+(D) for the provision of counseling for benefits for WTC-related health conditions that may be available under workers' compensation or other benefit programs for work-related injuries or illnesses, health insurance, disability insurance, or other insurance plans or through public or private social service agencies and assisting eligible individuals in applying for such benefits;
 
 (E) for the provision of translational and interpretive services for program participants who are not English language proficient; and
 
@@ -66,7 +66,7 @@ Not later than July 1, 2011, the Comptroller General of the United States shall 
 
 #### (A) Definition ####
 
-For purposes of this subchapter, the term “Clinical Center of Excellence” means a Center that demonstrates to the satisfaction of the Administrator that the Center—
+For purposes of this subchapter, the term "Clinical Center of Excellence" means a Center that demonstrates to the satisfaction of the Administrator that the Center—
 
 (i) uses an integrated, centralized health care provider approach to create a comprehensive suite of health services under this subchapter that are accessible to enrolled WTC responders, screening-eligible WTC survivors, or certified-eligible WTC survivors;
 
@@ -106,11 +106,11 @@ The WTC Program Administrator shall to the maximum extent feasible ensure contin
 
 #### (2) Data Centers ####
 
-For purposes of this subchapter, the term “Data Center” means a Center that the WTC Program Administrator determines has the capacity to carry out the responsibilities for a Data Center under subsection (a)(2).
+For purposes of this subchapter, the term "Data Center" means a Center that the WTC Program Administrator determines has the capacity to carry out the responsibilities for a Data Center under subsection (a)(2).
 
 #### (3) Corresponding centers ####
 
-For purposes of this subchapter, a Clinical Center of Excellence and a Data Center shall be treated as “corresponding” to the extent that such Clinical Center and Data Center serve the same population group.
+For purposes of this subchapter, a Clinical Center of Excellence and a Data Center shall be treated as "corresponding" to the extent that such Clinical Center and Data Center serve the same population group.
 
 #### (c) Payment for infrastructure costs ####
 
@@ -120,7 +120,7 @@ The WTC Program Administrator shall reimburse a Clinical Center of Excellence fo
 
 #### (2) Fixed infrastructure costs ####
 
-For purposes of paragraph (1), the term “fixed infrastructure costs” means, with respect to a Clinical Center of Excellence, the costs incurred by such Center that are not otherwise reimbursable by the WTC Program Administrator under section 300mm–22(c) of this title for patient evaluation, monitoring, or treatment but which are needed to operate the WTC program such as the costs involved in outreach to participants or recruiting participants, data collection and analysis, social services for counseling patients on other available assistance outside the WTC program, and the development of treatment protocols. Such term does not include costs for new construction or other capital costs.
+For purposes of paragraph (1), the term "fixed infrastructure costs" means, with respect to a Clinical Center of Excellence, the costs incurred by such Center that are not otherwise reimbursable by the WTC Program Administrator under section 300mm–22(c) of this title for patient evaluation, monitoring, or treatment but which are needed to operate the WTC program such as the costs involved in outreach to participants or recruiting participants, data collection and analysis, social services for counseling patients on other available assistance outside the WTC program, and the development of treatment protocols. Such term does not include costs for new construction or other capital costs.
 
 #### (d) GAO analysis ####
 
@@ -130,6 +130,6 @@ Not later than July 1, 2011, the Comptroller General shall submit to the Committ
 
 #### References in Text ####
 
-Section 300mm–1(b) of this title, referred to in subsec. (a)(2)(A)(v), was in the original “section 3002(b)” and was translated as meaning section 3302(b) of act July 1, 1944, to reflect the probable intent of Congress.
+Section 300mm–1(b) of this title, referred to in subsec. (a)(2)(A)(v), was in the original "section 3002(b)" and was translated as meaning section 3302(b) of act July 1, 1944, to reflect the probable intent of Congress.
 
 [<sup>1</sup> See References in Text note below.](#300mm-4_1)

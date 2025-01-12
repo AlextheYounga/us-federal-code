@@ -50,19 +50,19 @@ A prior section 11 of act June 25, 1947, was classified to section 135i of this 
 
 #### Amendments ####
 
-**1991**—Pub. L. 102–237, §1006(a)(6)(A), substituted “applicators” for “appplicators” in section catchline.
+**1991**—Pub. L. 102–237, §1006(a)(6)(A), substituted "applicators" for "appplicators" in section catchline.
 
-Subsec. (a)(1). Pub. L. 102–237, §1006(b)(3)(K), substituted “the applicator” for “his” in ninth sentence and “the Administrator” for “him” before period at end.
+Subsec. (a)(1). Pub. L. 102–237, §1006(b)(3)(K), substituted "the applicator" for "his" in ninth sentence and "the Administrator" for "him" before period at end.
 
-Subsec. (a)(2). Pub. L. 102–237, §1006(b)(2), substituted “the Administrator's” for “his” in introductory provisions.
+Subsec. (a)(2). Pub. L. 102–237, §1006(b)(2), substituted "the Administrator's" for "his" in introductory provisions.
 
-Subsec. (b). Pub. L. 102–237, §1006(a)(6)(B), (b)(1), substituted “subsection (a)(2) of this section” for “this paragraph” in two places and “the Administrator” for “he” before “shall afford” and before “shall so notify”.
+Subsec. (b). Pub. L. 102–237, §1006(a)(6)(B), (b)(1), substituted "subsection (a)(2) of this section" for "this paragraph" in two places and "the Administrator" for "he" before "shall afford" and before "shall so notify".
 
-Subsec. (c). Pub. L. 102–237, §1006(a)(6)(C), substituted “subsection (a)” for “subsections (a) and (b)” after “Administrator under”.
+Subsec. (c). Pub. L. 102–237, §1006(a)(6)(C), substituted "subsection (a)" for "subsections (a) and (b)" after "Administrator under".
 
-**1988**—Pub. L. 100–532, §801(q)(1)(A), (C), substituted section catchline for one which read: “Standards applicable to pesticide applicators”, redesignated subsecs. (a) and (b) as (d) and (e), respectively, and transferred subsecs. (a) to (c) of section 136b of this title to subsecs. (a) to (c), respectively, of this section.
+**1988**—Pub. L. 100–532, §801(q)(1)(A), (C), substituted section catchline for one which read: "Standards applicable to pesticide applicators", redesignated subsecs. (a) and (b) as (d) and (e), respectively, and transferred subsecs. (a) to (c) of section 136b of this title to subsecs. (a) to (c), respectively, of this section.
 
-Subsec. (a)(1). Pub. L. 100–532, §801(c), substituted “pesticides. Such program” for “pesticides: *Provided*, That such program” and “certification. The certification” for “certification: *Provided, however*, That the certification”.
+Subsec. (a)(1). Pub. L. 100–532, §801(c), substituted "pesticides. Such program" for "pesticides: *Provided*, That such program" and "certification. The certification" for "certification: *Provided, however*, That the certification".
 
 **1978**—Subsec. (a)(1). Pub. L. 95–396 required that, in any State without a State plan for applicator certification approved by the Administrator, the Administrator, in consultation with the Governor of the State, shall conduct a program for the certification of applicators of pesticides under a Federal plan for applicator certification, and also that in such a State records be maintained and reports submitted by persons engaged in commercial application, sale or distribution of pesticides classified for restricted use.
 

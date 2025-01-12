@@ -2,7 +2,7 @@
 
 #### (a) Designation ####
 
-To conserve and protect the Ancient Bristlecone Pines by maintaining near-natural conditions and to ensure the survival of the Pines for the purposes of public enjoyment and scientific study, the approximately 31,700 acres of public land in the State, as generally depicted on the map entitled “Ancient Bristlecone Pine Forest—Proposed” and dated July 16, 2008, is designated as the “Ancient Bristlecone Pine Forest”.
+To conserve and protect the Ancient Bristlecone Pines by maintaining near-natural conditions and to ensure the survival of the Pines for the purposes of public enjoyment and scientific study, the approximately 31,700 acres of public land in the State, as generally depicted on the map entitled "Ancient Bristlecone Pine Forest—Proposed" and dated July 16, 2008, is designated as the "Ancient Bristlecone Pine Forest".
 
 #### (b) Map and legal description ####
 
@@ -74,4 +74,4 @@ The National Forest Management Act of 1976, referred to in subsec. (c)(1)(B), is
 
 For definitions of terms used in this section, see section 1801 of Pub. L. 111–11, set out as a note under section 460vvv of this title.
 
-[<sup>1</sup> So in original. Probably should be “protects”.](#539o_1)
+[<sup>1</sup> So in original. Probably should be "protects".](#539o_1)

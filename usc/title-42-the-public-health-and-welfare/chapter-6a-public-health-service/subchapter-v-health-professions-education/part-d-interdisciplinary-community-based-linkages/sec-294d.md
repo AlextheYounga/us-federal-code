@@ -56,7 +56,7 @@ Applications submitted for assistance under this section shall—
 
 #### (d) Definitions ####
 
-For the purposes of this section, the term “rural” means geographic areas that are located outside of standard metropolitan statistical areas.
+For the purposes of this section, the term "rural" means geographic areas that are located outside of standard metropolitan statistical areas.
 
 (July 1, 1944, ch. 373, title VII, §754, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3547.)
 

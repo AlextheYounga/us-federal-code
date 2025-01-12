@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-There shall be in the Department of Commerce an Under Secretary of Commerce for Standards and Technology (in this section referred to as the “Under Secretary”).
+There shall be in the Department of Commerce an Under Secretary of Commerce for Standards and Technology (in this section referred to as the "Under Secretary").
 
 #### (b) Appointment ####
 

@@ -130,7 +130,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Forward-looking statement ####
 
-The term “forward-looking statement” means—
+The term "forward-looking statement" means—
 
 (A) a statement containing a projection of revenues, income (including income loss), earnings (including earnings loss) per share, capital expenditures, dividends, capital structure, or other financial items;
 
@@ -146,25 +146,25 @@ The term “forward-looking statement” means—
 
 #### (2) Investment company ####
 
-The term “investment company” has the same meaning as in section 80a–3(a) of this title.
+The term "investment company" has the same meaning as in section 80a–3(a) of this title.
 
 #### (3) Going private transaction ####
 
-The term “going private transaction” has the meaning given that term under the rules or regulations of the Commission issued pursuant to section 78m(e) of this title.
+The term "going private transaction" has the meaning given that term under the rules or regulations of the Commission issued pursuant to section 78m(e) of this title.
 
 #### (4) Person acting on behalf of an issuer ####
 
-The term “person acting on behalf of an issuer” means any officer, director, or employee of such issuer.
+The term "person acting on behalf of an issuer" means any officer, director, or employee of such issuer.
 
 #### (5) Other terms ####
 
-The terms “blank check company”, “rollup transaction”, “partnership”, “limited liability company”, “executive officer of an entity” and “direct participation investment program”, have the meanings given those terms by rule or regulation of the Commission.
+The terms "blank check company", "rollup transaction", "partnership", "limited liability company", "executive officer of an entity" and "direct participation investment program", have the meanings given those terms by rule or regulation of the Commission.
 
 (June 6, 1934, ch. 404, title I, §21E, as added Pub. L. 104–67, title I, §102(b), Dec. 22, 1995, 109 Stat. 753.)
 
 #### References in Text ####
 
-This chapter, referred to in subsecs. (c)(1), (f), and (g), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (c)(1), (f), and (g), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 #### Effective Date ####
 

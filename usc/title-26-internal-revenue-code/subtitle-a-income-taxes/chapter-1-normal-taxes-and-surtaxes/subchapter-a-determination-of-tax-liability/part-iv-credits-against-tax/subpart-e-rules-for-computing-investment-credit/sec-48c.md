@@ -24,7 +24,7 @@ The amount which is treated for all taxable years with respect to any qualifying
 
 #### (A) In general ####
 
-The term “qualifying advanced energy project” means a project—
+The term "qualifying advanced energy project" means a project—
 
 (i) which re-equips, expands, or establishes a manufacturing facility for the production of—
 
@@ -50,7 +50,7 @@ Such term shall not include any portion of a project for the production of any p
 
 #### (2) Eligible property ####
 
-The term “eligible property” means any property—
+The term "eligible property" means any property—
 
 (A) which is necessary for the production of property described in paragraph (1)(A)(i),
 

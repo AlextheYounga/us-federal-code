@@ -6,4 +6,4 @@ No forest reservation shall be created, nor shall any additions be made to one c
 
 #### References in Text ####
 
-Forest reservation, referred to in text, probably should be “national forest”. See act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
+Forest reservation, referred to in text, probably should be "national forest". See act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.

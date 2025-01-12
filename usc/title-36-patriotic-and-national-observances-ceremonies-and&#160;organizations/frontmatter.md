@@ -33,15 +33,15 @@ III. TREATY OBLIGATION ORGANIZATIONS 300101
 |                                             15                                             |                            300108                             |
 |                                             16                                             |                             Rep.                              |
 |                                        17, 17a, 17b                                        |                             Rep.                              |
-|                             18 (words before “for patriotic”)                              |                            153101                             |
-|                         18 (words beginning with “for patriotic”)                          |                            153102                             |
+|                             18 (words before "for patriotic")                              |                            153101                             |
+|                         18 (words beginning with "for patriotic")                          |                            153102                             |
 |                                     18a (1st sentence)                                     |                            153103                             |
 |                                    18a (last sentence)                                     |                            153105                             |
 |                                     18b (1st sentence)                                     |                            153107                             |
 |                                    18b (last sentence)                                     |                            153106                             |
 |                                            18c                                             |                            153104                             |
-|                     20 (1st sentence words before “for the promotion”)                     |                             21301                             |
-|                 20 (1st sentence words beginning with “for the promotion”)                 |                             21302                             |
+|                     20 (1st sentence words before "for the promotion")                     |                             21301                             |
+|                 20 (1st sentence words beginning with "for the promotion")                 |                             21302                             |
 |                                      20 (2d sentence)                                      |                             21303                             |
 |                           20 (3d sentence words before 2d comma)                           |                             21305                             |
 |                           20 (3d sentence words after 2d comma)                            |                             21304                             |
@@ -213,8 +213,8 @@ III. TREATY OBLIGATION ORGANIZATIONS 300101
 |                                      138b (last par.)                                      |                             2103                              |
 |                                      138c, 138c note                                       |                             2109                              |
 |                                            138d                                            |                             2103                              |
-|          139 (words before “for patriotic, historical, and educational purposes”)          |                            153901                             |
-|      139 (words beginning with “for patriotic, historical, and educational purposes”)      |                            153902                             |
+|          139 (words before "for patriotic, historical, and educational purposes")          |                            153901                             |
+|      139 (words beginning with "for patriotic, historical, and educational purposes")      |                            153902                             |
 |                                            139a                                            |                            153903                             |
 |                                            139b                                            |                            153904                             |
 |                                            140                                             |                            154301                             |
@@ -1263,8 +1263,8 @@ III. TREATY OBLIGATION ORGANIZATIONS 300101
 |                                            4316                                            |                             23112                             |
 |                                            4317                                            |                             23105                             |
 |                                            4318                                            |                             10102                             |
-|                4401 (words before “for the following objects and purposes”)                |                             70701                             |
-|            4401 (words beginning with “for the following objects and purposes”)            |                             70702                             |
+|                4401 (words before "for the following objects and purposes")                |                             70701                             |
+|            4401 (words beginning with "for the following objects and purposes")            |                             70702                             |
 |                             4402 (words before last semicolon)                             |                             70704                             |
 |                             4402 (words after last semicolon)                              |                             70705                             |
 |                                            4403                                            |                             70701                             |
@@ -1337,8 +1337,8 @@ III. TREATY OBLIGATION ORGANIZATIONS 300101
 |                                            4815                                            |                             60102                             |
 |                                            4901                                            |                             21501                             |
 |                                            4902                                            |                             21504                             |
-|               4903 (words before 8th comma less “gratuitously or otherwise”)               |                             21502                             |
-|                4903 (“gratuitously or otherwise” and words after 8th comma)                |                             21505                             |
+|               4903 (words before 8th comma less "gratuitously or otherwise")               |                             21502                             |
+|                4903 ("gratuitously or otherwise" and words after 8th comma)                |                             21505                             |
 |                                    4904 (1st sentence)                                     |                             21503                             |
 |                                    4904 (last sentence)                                    |                             21506                             |
 |                                         4905–4908                                          |                             21503                             |
@@ -1405,14 +1405,14 @@ III. TREATY OBLIGATION ORGANIZATIONS 300101
 |                                            5309                                            |                            151105                             |
 |                                            5310                                            |                            151101                             |
 |                                            5311                                            |                             10102                             |
-|         5401 (1st sentence words before “for the education of the general public”)         |                            200101                             |
-|     5401 (1st sentence words beginning with “for the education of the general public”)     |                            200102                             |
+|         5401 (1st sentence words before "for the education of the general public")         |                            200101                             |
+|     5401 (1st sentence words beginning with "for the education of the general public")     |                            200102                             |
 |                          5401 (2d sentence words before proviso)                           |                            200103                             |
 |                          5401 (2d sentence proviso, 3d sentence)                           |                            200104                             |
 |                         5401 (last sentence words before proviso)                          |                            200105                             |
 |                                5401 (last sentence proviso)                                |                            200104                             |
 |                                            5402                                            |                             10102                             |
-|                                 5501(a) (less “nonprofit”)                                 |                             40701                             |
+|                                 5501(a) (less "nonprofit")                                 |                             40701                             |
 |                               5501(a) (related to nonprofit)                               |                             40704                             |
 |                                         5501(b)(1)                                         |                             40701                             |
 |                                         5501(b)(2)                                         |                             40705                             |
@@ -1522,46 +1522,46 @@ III. TREATY OBLIGATION ORGANIZATIONS 300101
 
 #### Enacting Clause ####
 
-Pub. L. 105–225, §1, Aug. 12, 1998, 112 Stat. 1253, provided in part that: “Certain general and permanent laws of the United States, related to patriotic and national observances, ceremonies, and organizations, are revised, codified, and enacted as title 36, United States Code, ‘Patriotic and National Observances, Ceremonies, and Organizations’ ”.
+Pub. L. 105–225, §1, Aug. 12, 1998, 112 Stat. 1253, provided in part that: "Certain general and permanent laws of the United States, related to patriotic and national observances, ceremonies, and organizations, are revised, codified, and enacted as title 36, United States Code, 'Patriotic and National Observances, Ceremonies, and Organizations' ".
 
 #### Legislative Purpose and Construction ####
 
 Pub. L. 105–354, §4, Nov. 3, 1998, 112 Stat. 3245, provided that:
 
-“(a) No Substantive Change.—(1) Section 1 of this Act restates, without substantive change, laws enacted before September 5, 1998, that were replaced by section 1. Section 1 may not be construed as making a substantive change in the laws replaced.
+"(a) No Substantive Change.—(1) Section 1 of this Act restates, without substantive change, laws enacted before September 5, 1998, that were replaced by section 1. Section 1 may not be construed as making a substantive change in the laws replaced.
 
-“(2) Laws enacted after September 4, 1998, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
+"(2) Laws enacted after September 4, 1998, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
 
-“(b) References.—A reference to a law replaced by this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.
+"(b) References.—A reference to a law replaced by this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.
 
-“(c) Continuing Effect.—An order, rule, or regulation in effect under a law replaced by this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
+"(c) Continuing Effect.—An order, rule, or regulation in effect under a law replaced by this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
 
-“(d) Actions and Offenses Under Prior Law.—An action taken or an offense committed under a law replaced by this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.
+"(d) Actions and Offenses Under Prior Law.—An action taken or an offense committed under a law replaced by this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.
 
-“(e) Inferences.—An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of a heading of the provision.
+"(e) Inferences.—An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of a heading of the provision.
 
-“(f) Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
+"(f) Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications."
 
 Pub. L. 105–225, §5, Aug. 12, 1998, 112 Stat. 1499, provided that:
 
-“(a) No Substantive Change.—Sections 1 and 2 of this Act restate, without substantive change, laws enacted before August 16, 1997, that were replaced by those sections. Those sections may not be construed as making a substantive change in the laws replaced. Laws enacted after August 15, 1997, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
+"(a) No Substantive Change.—Sections 1 and 2 of this Act restate, without substantive change, laws enacted before August 16, 1997, that were replaced by those sections. Those sections may not be construed as making a substantive change in the laws replaced. Laws enacted after August 15, 1997, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
 
-“(b) References.—A reference to a law replaced by section 1 or 2 of this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.
+"(b) References.—A reference to a law replaced by section 1 or 2 of this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.
 
-“(c) Continuing Effect.—An order, rule, or regulation in effect under a law replaced by section 1 or 2 of this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
+"(c) Continuing Effect.—An order, rule, or regulation in effect under a law replaced by section 1 or 2 of this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
 
-“(d) Actions and Offenses Under Prior Law.—An action taken or an offense committed under a law replaced by section 1 or 2 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.
+"(d) Actions and Offenses Under Prior Law.—An action taken or an offense committed under a law replaced by section 1 or 2 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.
 
-“(e) Inferences.—An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of a caption or catch line of the provision.
+"(e) Inferences.—An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of a caption or catch line of the provision.
 
-“(f) Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
+"(f) Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications."
 
 #### Repeals and Savings Provisions ####
 
-Pub. L. 105–354, §5(a), Nov. 3, 1998, 112 Stat. 3245, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 105–354, §5(a), Nov. 3, 1998, 112 Stat. 3245, provided that: "The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal."
 
 Pub. L. 105–354, §5(b), Nov. 3, 1998, 112 Stat. 3245, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Nov. 3, 1998.
 
-Pub. L. 105–225, §6(a), Aug. 12, 1998, 112 Stat. 1499, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 105–225, §6(a), Aug. 12, 1998, 112 Stat. 1499, provided that: "The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal."
 
 Pub. L. 105–225, §6(b), Aug. 12, 1998, 112 Stat. 1499, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Aug. 12, 1998.

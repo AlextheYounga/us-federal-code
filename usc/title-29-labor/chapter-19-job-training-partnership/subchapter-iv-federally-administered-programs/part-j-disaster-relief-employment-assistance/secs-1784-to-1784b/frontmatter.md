@@ -4,7 +4,7 @@ Section 1784, Pub. L. 97–300, title IV, §499A, as added Pub. L. 102–367, ti
 
 Section 1784a, Pub. L. 97–300, title IV, §499B, as added Pub. L. 102–367, title IV, §408, Sept. 7, 1992, 106 Stat. 1095, related to use of funds.
 
-Section 1784b, Pub. L. 97–300, title IV, §499C, as added Pub. L. 102–367, title IV, §408, Sept. 7, 1992, 106 Stat. 1095, defined term “unit of general local government”.
+Section 1784b, Pub. L. 97–300, title IV, §499C, as added Pub. L. 102–367, title IV, §408, Sept. 7, 1992, 106 Stat. 1095, defined term "unit of general local government".
 
 #### Effective Date of Repeal ####
 

@@ -12,6 +12,6 @@ The Secretary of the Interior may enter into cooperative agreements with the own
 
 #### Amendments ####
 
-**1992**—Subsec. (a). Pub. L. 102–576 struck out after second sentence “Not more than one thousand and five hundred acres overall shall be designated pursuant to the foregoing provisions of this subsection.”
+**1992**—Subsec. (a). Pub. L. 102–576 struck out after second sentence "Not more than one thousand and five hundred acres overall shall be designated pursuant to the foregoing provisions of this subsection."
 
-[<sup>1</sup> So in original. Probably should be preceded by “the”.](#281c_1)
+[<sup>1</sup> So in original. Probably should be preceded by "the".](#281c_1)

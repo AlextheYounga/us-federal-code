@@ -46,7 +46,7 @@ Sec.
 
 #### Amendments ####
 
-**2012**—Pub. L. 112–213, title II, §§205(b), 216(e), (f), Dec. 20, 2012, 126 Stat. 1545, 1555, struck out items 193 “Advisory Committee” and 198 “Coast Guard history fellowships” and added item 200.
+**2012**—Pub. L. 112–213, title II, §§205(b), 216(e), (f), Dec. 20, 2012, 126 Stat. 1545, 1555, struck out items 193 "Advisory Committee" and 198 "Coast Guard history fellowships" and added item 200.
 
 **2010**—Pub. L. 111–281, title IX, §903(b)(3), Oct. 15, 2010, 124 Stat. 3011, inserted period at end of item 198.
 
@@ -60,12 +60,12 @@ Pub. L. 111–281, title V, §525(b), Oct. 15, 2010, 124 Stat. 2959, as amended 
 
 **1984**—Pub. L. 98–557, §24(b), Oct. 30, 1984, 98 Stat. 2872, added item 181a.
 
-**1982**—Pub. L. 97–295, §2(7)(A), Oct. 12, 1982, 96 Stat. 1301, substituted “Civilian teaching staff” for “Civilian instructors” in item 186.
+**1982**—Pub. L. 97–295, §2(7)(A), Oct. 12, 1982, 96 Stat. 1301, substituted "Civilian teaching staff" for "Civilian instructors" in item 186.
 
-Pub. L. 97–295, §2(7)(B), Oct. 12, 1982, 96 Stat. 1301, substituted “foreign nationals” for “foreigners” in item 195.
+Pub. L. 97–295, §2(7)(B), Oct. 12, 1982, 96 Stat. 1301, substituted "foreign nationals" for "foreigners" in item 195.
 
 **1970**—Pub. L. 91–278, §1(7), June 12, 1970, 84 Stat. 305, added item 195.
 
-**1960**—Pub. L. 86–474, §1(15), May 14, 1960, 74 Stat. 146, substituted “member of civilian teaching staff” for “civilian instructor” in item 191.
+**1960**—Pub. L. 86–474, §1(15), May 14, 1960, 74 Stat. 146, substituted "member of civilian teaching staff" for "civilian instructor" in item 191.
 
 [<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER9_1)

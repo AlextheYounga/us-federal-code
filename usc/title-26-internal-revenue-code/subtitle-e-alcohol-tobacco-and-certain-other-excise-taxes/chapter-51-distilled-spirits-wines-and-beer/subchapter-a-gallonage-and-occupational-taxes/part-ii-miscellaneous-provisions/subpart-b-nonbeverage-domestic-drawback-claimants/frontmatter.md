@@ -18,6 +18,6 @@ Another prior subpart B, consisting of sections 5091 to 5093, related to brewers
 
 #### Amendments ####
 
-**2005**—Pub. L. 109–59, title XI, §11125(b)(3)(A), (B), Aug. 10, 2005, 119 Stat. 1953, redesignated subpart F of this part as this subpart, renumbered items 5131 to 5134 as 5111 to 5114, respectively, and struck out “and rate of tax” after “Eligibility” in item 5111.
+**2005**—Pub. L. 109–59, title XI, §11125(b)(3)(A), (B), Aug. 10, 2005, 119 Stat. 1953, redesignated subpart F of this part as this subpart, renumbered items 5131 to 5134 as 5111 to 5114, respectively, and struck out "and rate of tax" after "Eligibility" in item 5111.
 
-**1997**—Pub. L. 105–34, title XIV, §1415(b)(3), Aug. 5, 1997, 111 Stat. 1047, struck out item 5115 “Sign required on premises”.
+**1997**—Pub. L. 105–34, title XIV, §1415(b)(3), Aug. 5, 1997, 111 Stat. 1047, struck out item 5115 "Sign required on premises".

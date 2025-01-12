@@ -2,7 +2,7 @@
 
 #### (a) Obligation by end of grant year ####
 
-Effective for fiscal year 2007 and subsequent fiscal years, funds from a grant award made to a State for a fiscal year pursuant to section 300ff–28(a)(1) or 300ff–28(a)(2)(F) of this title, or under section 300ff–29a or 300ff–30 of this title, are available for obligation by the State through the end of the one-year period beginning on the date in such fiscal year on which funds from the award first become available to the State (referred to in this section as the “grant year for the award”), except as provided in subsection (c)(1).
+Effective for fiscal year 2007 and subsequent fiscal years, funds from a grant award made to a State for a fiscal year pursuant to section 300ff–28(a)(1) or 300ff–28(a)(2)(F) of this title, or under section 300ff–29a or 300ff–30 of this title, are available for obligation by the State through the end of the one-year period beginning on the date in such fiscal year on which funds from the award first become available to the State (referred to in this section as the "grant year for the award"), except as provided in subsection (c)(1).
 
 #### (b) Supplemental grants; cancellation of unobligated balance of grant award ####
 
@@ -26,7 +26,7 @@ Effective for fiscal year 2007 and subsequent fiscal years, if a grant award mad
 
 With respect to a waiver under paragraph (1) that is approved for a balance that is unobligated as of the end of a grant year for an award:
 
-(A) The unobligated funds are available for expenditure by the State involved for the one-year period beginning upon the expiration of the grant year (referred to in this section as the “carryover year”).
+(A) The unobligated funds are available for expenditure by the State involved for the one-year period beginning upon the expiration of the grant year (referred to in this section as the "carryover year").
 
 (B) If the funds are not expended by the end of the carryover year, the Secretary shall cancel that unexpended balance of the award, and shall require the State to return any amounts from such balance that have been disbursed to the State.
 
@@ -68,21 +68,21 @@ In administering subsections (b) and (c) with respect to the unobligated balance
 
 **2009**—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-Subsec. (a). Pub. L. 111–87, §5(c)(3), substituted “300ff–28(a)(2)(F)” for “300ff–28(a)(2)(G)”.
+Subsec. (a). Pub. L. 111–87, §5(c)(3), substituted "300ff–28(a)(2)(F)" for "300ff–28(a)(2)(G)".
 
-Subsec. (b). Pub. L. 111–87, §5(c)(4), substituted “300ff–28(a)(2)(F)(ii)” for “300ff–28(a)(2)(G)(ii)” in introductory provisions.
+Subsec. (b). Pub. L. 111–87, §5(c)(4), substituted "300ff–28(a)(2)(F)(ii)" for "300ff–28(a)(2)(G)(ii)" in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 111–87, §5(c)(2), substituted “300ff–28(a)(2)(F)(i)” for “300ff–28(a)(2)(G)(i)” in introductory provisions.
+Subsec. (c)(1). Pub. L. 111–87, §5(c)(2), substituted "300ff–28(a)(2)(F)(i)" for "300ff–28(a)(2)(G)(i)" in introductory provisions.
 
-Subsec. (c)(4)(A). Pub. L. 111–87, §§5(c)(2), 8(b)(1)(B), substituted “300ff–28(a)(2)(F)(i)” for “300ff–28(a)(2)(G)(i)” in introductory provisions and “5 percent” for “2 percent” in concluding provisions.
+Subsec. (c)(4)(A). Pub. L. 111–87, §§5(c)(2), 8(b)(1)(B), substituted "300ff–28(a)(2)(F)(i)" for "300ff–28(a)(2)(G)(i)" in introductory provisions and "5 percent" for "2 percent" in concluding provisions.
 
-Subsec. (c)(4)(A)(i). Pub. L. 111–87, §8(c)(2), inserted “(less any amount of such balance that is the subject of a waiver of cancellation under paragraph (1))” after “unobligated balance”.
+Subsec. (c)(4)(A)(i). Pub. L. 111–87, §8(c)(2), inserted "(less any amount of such balance that is the subject of a waiver of cancellation under paragraph (1))" after "unobligated balance".
 
-Subsec. (d). Pub. L. 111–87, §10(a), inserted at end “If an expenditure of ADAP rebate funds would trigger a penalty under this section or a higher penalty than would otherwise have applied, the State may request that for purposes of this section, the Secretary deem the State's unobligated balance to be reduced by the amount of rebate funds in the proposed expenditure. Notwithstanding 300ff–28(a)(2)(F) of this title, any unobligated amount under section 300ff–28(a)(2)(F)(ii)(V) of this title that is returned to the Secretary for reallocation shall be used by the Secretary for—
+Subsec. (d). Pub. L. 111–87, §10(a), inserted at end "If an expenditure of ADAP rebate funds would trigger a penalty under this section or a higher penalty than would otherwise have applied, the State may request that for purposes of this section, the Secretary deem the State's unobligated balance to be reduced by the amount of rebate funds in the proposed expenditure. Notwithstanding 300ff–28(a)(2)(F) of this title, any unobligated amount under section 300ff–28(a)(2)(F)(ii)(V) of this title that is returned to the Secretary for reallocation shall be used by the Secretary for—
 
-“(1) the ADAP supplemental program if the Secretary determines appropriate; or
+"(1) the ADAP supplemental program if the Secretary determines appropriate; or
 
-“(2) for additional amounts for grants pursuant to section 300ff–29a of this title.”
+"(2) for additional amounts for grants pursuant to section 300ff–29a of this title."
 
 Subsec. (e). Pub. L. 111–87, §8(b)(2)(B), added subsec. (e).
 
@@ -92,4 +92,4 @@ Subsec. (e). Pub. L. 111–87, §8(b)(2)(B), added subsec. (e).
 
 For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by sections 5(c)(2)–(4), 8(b)(1)(B), (2)(B), (c)(2), and 10(a) of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–1 of this title.
 
-[<sup>1</sup> So in original. Probably should be preceded by “section”.](#300ff-31a_1)
+[<sup>1</sup> So in original. Probably should be preceded by "section".](#300ff-31a_1)

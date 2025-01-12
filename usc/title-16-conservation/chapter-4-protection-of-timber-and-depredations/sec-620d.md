@@ -122,7 +122,7 @@ Subsections (c) and (d) of this section do not apply to violations of section 62
 
 **1997**—Subsec. (c)(2)(C). Pub. L. 105–83, §603(1), added subpar. (C).
 
-Subsec. (d)(1). Pub. L. 105–83, §603(2), inserted subpar. (A) designation and heading, substituted “Subject to subparagraph (B), the head” for “The head”, and added subpar. (B).
+Subsec. (d)(1). Pub. L. 105–83, §603(2), inserted subpar. (A) designation and heading, substituted "Subject to subparagraph (B), the head" for "The head", and added subpar. (B).
 
 **1993**—Subsec. (a)(3), (4). Pub. L. 103–45, §3(a), added pars. (3) and (4).
 
@@ -130,4 +130,4 @@ Subsec. (c)(1). Pub. L. 103–45, §3(b)(1), designated existing provisions as s
 
 Subsec. (c)(2). Pub. L. 103–45, §3(b)(2), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii) of subpar. (A), and added subpar. (B).
 
-[<sup>1</sup> So in original. Probably should be “Contractual”.](#620d_1)
+[<sup>1</sup> So in original. Probably should be "Contractual".](#620d_1)

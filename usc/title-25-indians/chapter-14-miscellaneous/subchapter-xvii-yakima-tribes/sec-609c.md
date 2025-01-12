@@ -4,17 +4,17 @@
 
 For purposes of this section and section 609c–1 of this title, the term—
 
-(1) “tribe” means the Confederated Tribes and Bands of the Yakama Indian Nation or the Apache Tribe of the Mescalero Reservation;
+(1) "tribe" means the Confederated Tribes and Bands of the Yakama Indian Nation or the Apache Tribe of the Mescalero Reservation;
 
-(2) “tribal governing body” means the governing body of a tribe or a committee of the members of such body designated by such body for purposes of this section and section 609c–1 of this title;
+(2) "tribal governing body" means the governing body of a tribe or a committee of the members of such body designated by such body for purposes of this section and section 609c–1 of this title;
 
-(3) “Secretary” means the Secretary of the Interior acting through (unless otherwise determined by the Secretary) the Superintendent of the Bureau of Indian Affairs Agency serving the tribe involved;
+(3) "Secretary" means the Secretary of the Interior acting through (unless otherwise determined by the Secretary) the Superintendent of the Bureau of Indian Affairs Agency serving the tribe involved;
 
-(4) “minor” means a member of a tribe, or descendant of a member of a tribe, who has not attained the age of eighteen years and who has a minor's share;
+(4) "minor" means a member of a tribe, or descendant of a member of a tribe, who has not attained the age of eighteen years and who has a minor's share;
 
-(5) “minor's share” means the per capita share of a judgment award, and the investment income accruing thereto, which is held in trust by the Secretary for a minor; and
+(5) "minor's share" means the per capita share of a judgment award, and the investment income accruing thereto, which is held in trust by the Secretary for a minor; and
 
-(6) “parent” means the biological or adoptive parent or parents, or other legal guardian, of a minor.
+(6) "parent" means the biological or adoptive parent or parents, or other legal guardian, of a minor.
 
 #### (b) Disbursement to parent of minor ####
 
@@ -42,4 +42,4 @@ The United States Court of Claims, referred to in subsec. (b), and the United St
 
 #### Amendments ####
 
-**1994**—Subsec. (a)(1). Pub. L. 103–435 substituted “Confederated Tribes and Bands of the Yakama Indian Nation” for “Confederated Tribes and Bands of the Yakima Indian Nation”.
+**1994**—Subsec. (a)(1). Pub. L. 103–435 substituted "Confederated Tribes and Bands of the Yakama Indian Nation" for "Confederated Tribes and Bands of the Yakima Indian Nation".

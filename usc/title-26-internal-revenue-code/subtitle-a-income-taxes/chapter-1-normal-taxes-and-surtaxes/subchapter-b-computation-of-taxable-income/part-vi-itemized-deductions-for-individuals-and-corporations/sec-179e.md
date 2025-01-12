@@ -16,7 +16,7 @@ Any election made under this section may not be revoked except with the consent 
 
 #### (c) Qualified advanced mine safety equipment property ####
 
-For purposes of this section, the term “qualified advanced mine safety equipment property” means any advanced mine safety equipment property for use in any underground mine located in the United States—
+For purposes of this section, the term "qualified advanced mine safety equipment property" means any advanced mine safety equipment property for use in any underground mine located in the United States—
 
 (1) the original use of which commences with the taxpayer, and
 
@@ -24,7 +24,7 @@ For purposes of this section, the term “qualified advanced mine safety equipme
 
 #### (d) Advanced mine safety equipment property ####
 
-For purposes of this section, the term “advanced mine safety equipment property” means any of the following:
+For purposes of this section, the term "advanced mine safety equipment property" means any of the following:
 
 (1) Emergency communication technology or device which is used to allow a miner to maintain constant communication with an individual who is not in the mine.
 
@@ -56,20 +56,20 @@ The date of the enactment of this section, referred to in subsec. (c)(2), is the
 
 #### Amendments ####
 
-**2013**—Subsec. (g). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”.
+**2013**—Subsec. (g). Pub. L. 112–240 substituted "December 31, 2013" for "December 31, 2011".
 
-**2010**—Subsec. (g). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
+**2010**—Subsec. (g). Pub. L. 111–312 substituted "December 31, 2011" for "December 31, 2009".
 
-**2008**—Subsec. (g). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2008”.
+**2008**—Subsec. (g). Pub. L. 110–343 substituted "December 31, 2009" for "December 31, 2008".
 
 #### Effective Date of 2013 Amendment ####
 
-Pub. L. 112–240, title III, §316(b), Jan. 2, 2013, 126 Stat. 2331, provided that: “The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2011.”
+Pub. L. 112–240, title III, §316(b), Jan. 2, 2013, 126 Stat. 2331, provided that: "The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2011."
 
 #### Effective Date of 2010 Amendment ####
 
-Pub. L. 111–312, title VII, §743(b), Dec. 17, 2010, 124 Stat. 3319, provided that: “The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2009.”
+Pub. L. 111–312, title VII, §743(b), Dec. 17, 2010, 124 Stat. 3319, provided that: "The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2009."
 
 #### Effective Date ####
 
-Pub. L. 109–432, div. A, title IV, §404(c), Dec. 20, 2006, 120 Stat. 2957, provided that: “The amendments made by this section [enacting this section and amending sections 263, 312, and 1245 of this title] shall apply to costs paid or incurred after the date of the enactment of this Act [Dec. 20, 2006].”
+Pub. L. 109–432, div. A, title IV, §404(c), Dec. 20, 2006, 120 Stat. 2957, provided that: "The amendments made by this section [enacting this section and amending sections 263, 312, and 1245 of this title] shall apply to costs paid or incurred after the date of the enactment of this Act [Dec. 20, 2006]."

@@ -28,7 +28,7 @@ The enhanced FMAP determined under section 1397ee(b) of this title shall apply t
 
 #### (A) In general ####
 
-Each State for which coverage under an applicable existing waiver is terminated under paragraph (2)(A) may submit, not later than September 30, 2009, an application to the Secretary for a waiver under section 1315 of this title of the State plan under subchapter XIX to provide medical assistance to a nonpregnant childless adult whose coverage is so terminated (in this subsection referred to as a “Medicaid nonpregnant childless adults waiver”).
+Each State for which coverage under an applicable existing waiver is terminated under paragraph (2)(A) may submit, not later than September 30, 2009, an application to the Secretary for a waiver under section 1315 of this title of the State plan under subchapter XIX to provide medical assistance to a nonpregnant childless adult whose coverage is so terminated (in this subsection referred to as a "Medicaid nonpregnant childless adults waiver").
 
 #### (B) Deadline for approval ####
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “applicable existing waiver” means a waiver, experimental, pilot, or demonstration project under section 1315 of this title, grandfathered under section 6102(c)(3) of the Deficit Reduction Act of 2005, or otherwise conducted under authority that—
+The term "applicable existing waiver" means a waiver, experimental, pilot, or demonstration project under section 1315 of this title, grandfathered under section 6102(c)(3) of the Deficit Reduction Act of 2005, or otherwise conducted under authority that—
 
 (A) would allow funds made available under this subchapter to be used to provide child health assistance or other health benefits coverage to—
 
@@ -156,11 +156,11 @@ The term “applicable existing waiver” means a waiver, experimental, pilot, o
 
 #### (A) Parent ####
 
-The term “parent” includes a caretaker relative (as such term is used in carrying out section 1396u–1 of this title) and a legal guardian.
+The term "parent" includes a caretaker relative (as such term is used in carrying out section 1396u–1 of this title) and a legal guardian.
 
 #### (B) Nonpregnant childless adult ####
 
-The term “nonpregnant childless adult” has the meaning given such term by section 1397gg(f) of this title.
+The term "nonpregnant childless adult" has the meaning given such term by section 1397gg(f) of this title.
 
 (Aug. 14, 1935, ch. 531, title XXI, §2111, as added Pub. L. 111–3, title I, §112(a)(1), Feb. 4, 2009, 123 Stat. 29.)
 

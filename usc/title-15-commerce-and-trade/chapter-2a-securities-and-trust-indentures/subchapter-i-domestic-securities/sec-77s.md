@@ -8,7 +8,7 @@ The Commission shall have authority from time to time to make, amend, and rescin
 
 #### (1) In general ####
 
-In carrying out its authority under subsection (a) of this section and under section 13(b) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(b)], the Commission may recognize, as “generally accepted” for purposes of the securities laws, any accounting principles established by a standard setting body—
+In carrying out its authority under subsection (a) of this section and under section 13(b) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(b)], the Commission may recognize, as "generally accepted" for purposes of the securities laws, any accounting principles established by a standard setting body—
 
 (A) that—
 
@@ -64,7 +64,7 @@ For the purpose of all investigations which, in the opinion of the Commission, a
 
 (B) any forum, agency, or organization, or group referred to in section 80c–1 of this title, while such forum, agency, organization, or group is carrying out activities in furtherance of the provisions of such section 80c–1.
 
-As used in this paragraph, the terms “association”, “conference”, “meeting”, “forum”, “agency”, “organization”, and “group” include any committee, subgroup, or representative of such entities.
+As used in this paragraph, the terms "association", "conference", "meeting", "forum", "agency", "organization", and "group" include any committee, subgroup, or representative of such entities.
 
 #### (e) Evaluation of rules or programs ####
 
@@ -86,7 +86,7 @@ For purposes of the Paperwork Reduction Act (44 U.S.C. 3501 et seq.), any action
 
 The Commission may, subject to the limitations imposed by section 15B of the Securities Exchange Act of 1934 (15 U.S.C. 78o–4), require a national securities association registered under the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.] to establish—
 
-(A) a reasonable annual accounting support fee to adequately fund the annual budget of the Governmental Accounting Standards Board (referred to in this subsection as the “GASB”); and
+(A) a reasonable annual accounting support fee to adequately fund the annual budget of the Governmental Accounting Standards Board (referred to in this subsection as the "GASB"); and
 
 (B) rules and procedures, in consultation with the principal organizations representing State governors, legislators, local elected officials, and State and local finance officers, to provide for the equitable allocation, assessment, and collection of the accounting support fee established under subparagraph (A) from the members of the association, and the remittance of all such accounting support fees to the Financial Accounting Foundation.
 
@@ -130,7 +130,7 @@ The Securities Exchange Act of 1934, referred to in subsec. (g)(1), is act June 
 
 #### Amendments ####
 
-**2010**—Subsec. (d)(6)(A). Pub. L. 111–203, §985(a)(3), which directed substitution of “in paragraph (1) or (3)” for “in paragraph (1) of (3)”, could not be executed because the phrase “in paragraph (1) of (3)” did not appear.
+**2010**—Subsec. (d)(6)(A). Pub. L. 111–203, §985(a)(3), which directed substitution of "in paragraph (1) or (3)" for "in paragraph (1) of (3)", could not be executed because the phrase "in paragraph (1) of (3)" did not appear.
 
 Subsecs. (e), (f). Pub. L. 111–203, §912, added subsecs. (e) and (f).
 
@@ -144,7 +144,7 @@ Subsec. (g). Pub. L. 111–203, §978(a), added subsec. (g).
 
 **1976**—Subsec. (a). Pub. L. 94–210 struck out provisions relating to rules and regulations applicable to any common carrier subject to the provisions of section 20 of title 49.
 
-**1934**—Subsec. (a). Act June 6, 1934, inserted “technical” in first sentence and inserted last sentence.
+**1934**—Subsec. (a). Act June 6, 1934, inserted "technical" in first sentence and inserted last sentence.
 
 #### Effective Date of 2010 Amendment ####
 

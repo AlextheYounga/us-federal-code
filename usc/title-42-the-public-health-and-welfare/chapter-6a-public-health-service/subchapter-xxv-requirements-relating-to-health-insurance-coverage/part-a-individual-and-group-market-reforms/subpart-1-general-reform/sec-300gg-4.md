@@ -116,7 +116,7 @@ Any reference in this part to genetic information concerning an individual or fa
 
 #### (A) General rule ####
 
-For purposes of subsection (b)(2)(B), a program of health promotion or disease prevention (referred to in this subsection as a “wellness program”) shall be a program offered by an employer that is designed to promote health or prevent disease that meets the applicable requirements of this subsection.
+For purposes of subsection (b)(2)(B), a program of health promotion or disease prevention (referred to in this subsection as a "wellness program") shall be a program offered by an employer that is designed to promote health or prevent disease that meets the applicable requirements of this subsection.
 
 #### (B) No conditions based on health status factor ####
 
@@ -252,13 +252,13 @@ Another prior section 2705 of act July 1, 1944, was successively renumbered by s
 
 #### Amendments ####
 
-**2010**—Pub. L. 111–148, §1201(3), transferred section 300gg–1 of this title to subsecs. (b) to (f) of this section after amending it by striking out the section catchline “Prohibiting discrimination against individual participants and beneficiaries based on health status”, by striking subsec. (a) which prohibited discrimination against individual participants in group health plans based on certain health status-related factors, by amending subsec. (b) by substituting “health insurance issuer offering group or individual health insurance coverage” for “health insurance issuer offering health insurance coverage in connection with a group health plan” in pars. (1) and (3)(B) and by inserting “or individual” after “employer” and “or individual health coverage, as the case may be” before semicolon in par. (2)(A), and by amending subsec. (e) by substituting “(a)(6)” for “(a)(1)(F)” and “300gg–3” for “300gg” and making technical amendment to reference in original act which appears in text as reference to section 300gg–21(a) of this title.
+**2010**—Pub. L. 111–148, §1201(3), transferred section 300gg–1 of this title to subsecs. (b) to (f) of this section after amending it by striking out the section catchline "Prohibiting discrimination against individual participants and beneficiaries based on health status", by striking subsec. (a) which prohibited discrimination against individual participants in group health plans based on certain health status-related factors, by amending subsec. (b) by substituting "health insurance issuer offering group or individual health insurance coverage" for "health insurance issuer offering health insurance coverage in connection with a group health plan" in pars. (1) and (3)(B) and by inserting "or individual" after "employer" and "or individual health coverage, as the case may be" before semicolon in par. (2)(A), and by amending subsec. (e) by substituting "(a)(6)" for "(a)(1)(F)" and "300gg–3" for "300gg" and making technical amendment to reference in original act which appears in text as reference to section 300gg–21(a) of this title.
 
 #### Effective Date ####
 
 Section effective for plan years beginning on or after Jan. 1, 2014, see section 1255 of Pub. L. 111–148, set out as a note under section 300gg of this title.
 
-[<sup>1</sup> So in original. Probably should be preceded by “a”.](#300gg-4_1)
+[<sup>1</sup> So in original. Probably should be preceded by "a".](#300gg-4_1)
 
 [<sup>2</sup> See References in Text note below.](#300gg-4_2)
 

@@ -10,7 +10,7 @@ The National Security Act of 1947, as amended, referred to in text, is act July 
 
 #### Amendments ####
 
-**1974**—Pub. L. 93–377 substituted “Attorney General” for “Awards Board”.
+**1974**—Pub. L. 93–377 substituted "Attorney General" for "Awards Board".
 
 #### Change of Name ####
 

@@ -12,4 +12,4 @@ The Boulder Canyon Project Adjustment Act, referred to in text, is act July 19, 
 
 #### Amendments ####
 
-**1962**—Pub. L. 87–483 substituted “into” for “unto”.
+**1962**—Pub. L. 87–483 substituted "into" for "unto".

@@ -6,7 +6,7 @@ Upon request, real property which is under the jurisdiction or control of a Fede
 
 #### Amendments ####
 
-**1972**—Cl. (2). Pub. L. 92–432 struck out “chiefly” before “valuable for use”.
+**1972**—Cl. (2). Pub. L. 92–432 struck out "chiefly" before "valuable for use".
 
 #### Transfer of Functions ####
 

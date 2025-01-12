@@ -4,4 +4,4 @@ Notwithstanding the provisions of section 251i of this title, any noncorporate o
 
 (Pub. L. 94–578, title III, §320(g), Oct. 21, 1976, 90 Stat. 2741.)
 
-[<sup>1</sup> So in original. Probably should be “of”.](#251j_1)
+[<sup>1</sup> So in original. Probably should be "of".](#251j_1)

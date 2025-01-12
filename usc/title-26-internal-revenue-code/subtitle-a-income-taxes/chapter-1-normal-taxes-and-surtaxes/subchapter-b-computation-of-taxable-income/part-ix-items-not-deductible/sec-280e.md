@@ -10,4 +10,4 @@ The Controlled Substances Act, referred to in text, is title II of Pub. L. 91–
 
 #### Effective Date ####
 
-Pub. L. 97–248, title III, §351(c), Sept. 3, 1982, 96 Stat. 640, provided that: “The amendments made by this section [enacting this section] shall apply to amounts paid or incurred after the date of the enactment of this Act [Sept. 3, 1982] in taxable years ending after such date.”
+Pub. L. 97–248, title III, §351(c), Sept. 3, 1982, 96 Stat. 640, provided that: "The amendments made by this section [enacting this section] shall apply to amounts paid or incurred after the date of the enactment of this Act [Sept. 3, 1982] in taxable years ending after such date."

@@ -26,7 +26,7 @@ Sec.
 
 9119. Prevention of interference with other uses of high seas.
 
-9120. Monitoring of licensees’ activities.
+9120. Monitoring of licensees' activities.
 
 9121. Suspension, revocation, and termination of licenses.
 

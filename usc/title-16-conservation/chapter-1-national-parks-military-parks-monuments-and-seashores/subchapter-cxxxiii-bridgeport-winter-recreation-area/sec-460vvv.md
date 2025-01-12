@@ -2,7 +2,7 @@
 
 #### (a) Designation ####
 
-The approximately 7,254 acres of land in the Humboldt-Toiyabe National Forest identified as the “Bridgeport Winter Recreation Area”, as generally depicted on the map entitled “Humboldt-Toiyabe National Forest Proposed Management” and dated September 17, 2008, is designated as the Bridgeport Winter Recreation Area.
+The approximately 7,254 acres of land in the Humboldt-Toiyabe National Forest identified as the "Bridgeport Winter Recreation Area", as generally depicted on the map entitled "Humboldt-Toiyabe National Forest Proposed Management" and dated September 17, 2008, is designated as the Bridgeport Winter Recreation Area.
 
 #### (b) Map and legal description ####
 
@@ -62,7 +62,7 @@ The Secretary shall prioritize enforcement activities in the Recreation Area—
 
 #### (f) Pacific Crest National Scenic Trail ####
 
-The Secretary shall establish an appropriate snowmobile crossing point along the Trail in the area identified as “Pacific Crest Trail Proposed Crossing Area” on the map entitled “Humboldt-Toiyable National Forest Proposed Management” and dated September 17, 2008—
+The Secretary shall establish an appropriate snowmobile crossing point along the Trail in the area identified as "Pacific Crest Trail Proposed Crossing Area" on the map entitled "Humboldt-Toiyable National Forest Proposed Management" and dated September 17, 2008—
 
 (1) in accordance with—
 
@@ -92,18 +92,18 @@ This subtitle, referred to in subsec. (b)(2), is subtitle K (§§1801–1808) of
 
 #### Definitions ####
 
-Pub. L. 111–11, title I, §1801, Mar. 30, 2009, 123 Stat. 1052, provided that: “In this subtitle [subtitle K (§§1801–1808) of title I of Pub. L. 111–11, see References in Text note above]:
+Pub. L. 111–11, title I, §1801, Mar. 30, 2009, 123 Stat. 1052, provided that: "In this subtitle [subtitle K (§§1801–1808) of title I of Pub. L. 111–11, see References in Text note above]:
 
-“(1) Forest.—The term ‘Forest’ means the Ancient Bristlecone Pine Forest designated by section 1808(a) [16 U.S.C. 539o(a)].
+"(1) Forest.—The term 'Forest' means the Ancient Bristlecone Pine Forest designated by section 1808(a) [16 U.S.C. 539o(a)].
 
-“(2) Recreation area.—The term ‘Recreation Area’ means the Bridgeport Winter Recreation Area designated by section 1806(a) [16 U.S.C. 460vvv(a)].
+"(2) Recreation area.—The term 'Recreation Area' means the Bridgeport Winter Recreation Area designated by section 1806(a) [16 U.S.C. 460vvv(a)].
 
-“(3) Secretary.—The term ‘Secretary’ means—
+"(3) Secretary.—The term 'Secretary' means—
 
-“(A) with respect to land under the jurisdiction of the Secretary of Agriculture, the Secretary of Agriculture; and
+"(A) with respect to land under the jurisdiction of the Secretary of Agriculture, the Secretary of Agriculture; and
 
-“(B) with respect to land under the jurisdiction of the Secretary of the Interior, the Secretary of the Interior.
+"(B) with respect to land under the jurisdiction of the Secretary of the Interior, the Secretary of the Interior.
 
-“(4) State.—The term ‘State’ means the State of California.
+"(4) State.—The term 'State' means the State of California.
 
-“(5) Trail.—The term ‘Trail’ means the Pacific Crest National Scenic Trail.”
+"(5) Trail.—The term 'Trail' means the Pacific Crest National Scenic Trail."

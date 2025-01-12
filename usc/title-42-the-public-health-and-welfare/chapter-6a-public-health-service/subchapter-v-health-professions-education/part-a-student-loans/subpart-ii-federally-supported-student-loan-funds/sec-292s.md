@@ -18,9 +18,9 @@ Subject to the provisions of this subsection, in the case of student loan funds 
 
 (ii) the loan is made from—
 
-(I) a Federal capital contribution under section 292q of this title that is made from amounts appropriated under section 292t(f) <sup><a href="#292s_1_target" name="292s_1">1</a></sup> of this title (in this section referred to as an “exempt Federal capital contribution”); or
+(I) a Federal capital contribution under section 292q of this title that is made from amounts appropriated under section 292t(f) <sup><a href="#292s_1_target" name="292s_1">1</a></sup> of this title (in this section referred to as an "exempt Federal capital contribution"); or
 
-(II) a school contribution made under section 292q of this title pursuant to such a Federal capital contribution (in this section referred to as an “exempt school contribution”).
+(II) a school contribution made under section 292q of this title pursuant to such a Federal capital contribution (in this section referred to as an "exempt school contribution").
 
 (B) A Federal capital contribution under section 292q of this title may not be construed as being an exempt Federal capital contribution if the contribution was made from amounts appropriated before October 1, 1990. A school contribution under section 292q of this title may not be construed as being an exempt school contribution if the contribution was made pursuant to a Federal capital contribution under such section that was made from amounts appropriated before such date.
 
@@ -50,7 +50,7 @@ Subject to the provisions of this subsection, in the case of student loan funds 
 
 #### (2) Description of conditions ####
 
-With respect to graduates described in paragraph (1) (in this paragraph referred to as “designated graduates”), the conditions referred to in such paragraph for a school for a 1-year period are as follows:
+With respect to graduates described in paragraph (1) (in this paragraph referred to as "designated graduates"), the conditions referred to in such paragraph for a school for a 1-year period are as follows:
 
 (A) Not less than 50 percent of designated graduates of the school meet the criterion of either being in a residency training program in primary health care, or being engaged in a practice in such care (having completed such a program).
 
@@ -96,15 +96,15 @@ Each agreement under section 292q of this title with a school of medicine or ost
 
 For purposes of this section:
 
-(1) The term “exempt contributions” means exempt Federal capital contributions and exempt school contributions.
+(1) The term "exempt contributions" means exempt Federal capital contributions and exempt school contributions.
 
-(2) The term “exempt Federal capital contribution” means a Federal capital contribution described in subclause (I) of subsection (a)(2)(A)(ii) of this section.
+(2) The term "exempt Federal capital contribution" means a Federal capital contribution described in subclause (I) of subsection (a)(2)(A)(ii) of this section.
 
-(3) The term “exempt school contribution” means a school contribution described in subclause (II) of subsection (a)(2)(A)(ii) of this section.
+(3) The term "exempt school contribution" means a school contribution described in subclause (II) of subsection (a)(2)(A)(ii) of this section.
 
-(4) The term “income”, with respect to a student fund under section 292q of this title, means payments of principal and interest on any loan made from the fund, and any other earnings of the fund.
+(4) The term "income", with respect to a student fund under section 292q of this title, means payments of principal and interest on any loan made from the fund, and any other earnings of the fund.
 
-(5) The term “primary health care” means family medicine, general internal medicine, general pediatrics, preventive medicine, or osteopathic general practice.
+(5) The term "primary health care" means family medicine, general internal medicine, general pediatrics, preventive medicine, or osteopathic general practice.
 
 #### (d) Sense of Congress ####
 
@@ -122,33 +122,33 @@ A prior section 723 of act July 1, 1944, was classified to section 293c of this 
 
 #### Amendments ####
 
-**2010**—Subsec. (a)(1)(B). Pub. L. 111–148, §5201(a)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “to practice in such care through the date on which the loan is repaid in full.”
+**2010**—Subsec. (a)(1)(B). Pub. L. 111–148, §5201(a)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: "to practice in such care through the date on which the loan is repaid in full."
 
-Subsec. (a)(3). Pub. L. 111–148, §5201(a)(1)(B), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “Each agreement entered into with a student pursuant to paragraph (1) shall provide that, if the student fails to comply with such agreement, the loan involved will begin to accrue interest at a rate of 18 percent per year beginning on the date of such noncompliance.”
+Subsec. (a)(3). Pub. L. 111–148, §5201(a)(1)(B), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "Each agreement entered into with a student pursuant to paragraph (1) shall provide that, if the student fails to comply with such agreement, the loan involved will begin to accrue interest at a rate of 18 percent per year beginning on the date of such noncompliance."
 
 Subsec. (d). Pub. L. 111–148, §5201(a)(2), added subsec. (d).
 
-**1998**—Subsec. (a)(3). Pub. L. 105–392, §131(b), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “Each agreement entered into with a student pursuant to paragraph (1) shall provide that, if the student fails to comply with the agreement—
+**1998**—Subsec. (a)(3). Pub. L. 105–392, §131(b), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: "Each agreement entered into with a student pursuant to paragraph (1) shall provide that, if the student fails to comply with the agreement—
 
-“(A) the balance due on the loan involved will be immediately recomputed from the date of issuance at an interest rate of 12 percent per year, compounded annually; and
+"(A) the balance due on the loan involved will be immediately recomputed from the date of issuance at an interest rate of 12 percent per year, compounded annually; and
 
-“(B) the recomputed balance will be paid not later than the expiration of the 3-year period beginning on the date on which the student fails to comply with the agreement.”
+"(B) the recomputed balance will be paid not later than the expiration of the 3-year period beginning on the date on which the student fails to comply with the agreement."
 
-Subsec. (b)(1). Pub. L. 105–392, §131(a), substituted “4 years before” for “3 years before”.
+Subsec. (b)(1). Pub. L. 105–392, §131(a), substituted "4 years before" for "3 years before".
 
-Subsecs. (c), (d). Pub. L. 105–392, §131(c), redesignated subsec. (d) as (c) and struck out heading and text of subsec. (c). Text read as follows: “The Secretary shall each fiscal year submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate, a report regarding the administration of this section, including the extent of compliance with the requirements of this section, during the preceding fiscal year.”
+Subsecs. (c), (d). Pub. L. 105–392, §131(c), redesignated subsec. (d) as (c) and struck out heading and text of subsec. (c). Text read as follows: "The Secretary shall each fiscal year submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate, a report regarding the administration of this section, including the extent of compliance with the requirements of this section, during the preceding fiscal year."
 
 **1993**—Subsec. (a)(4). Pub. L. 103–43, §2014(c)(1), added par. (4).
 
-Subsec. (b)(1). Pub. L. 103–43, §2014(c)(2)(A), substituted “1997;” for “1994,” and “3 years before” for “4 years before”.
+Subsec. (b)(1). Pub. L. 103–43, §2014(c)(2)(A), substituted "1997;" for "1994," and "3 years before" for "4 years before".
 
-Subsec. (b)(2)(B). Pub. L. 103–43, §2014(c)(2)(B), substituted “25 percent” for “15 percent”.
+Subsec. (b)(2)(B). Pub. L. 103–43, §2014(c)(2)(B), substituted "25 percent" for "15 percent".
 
-Subsec. (b)(4)(B). Pub. L. 103–43, §2014(c)(2)(C), substituted “1997” for “1994” in cl. (i) and “1998” for “1995” in cl. (ii).
+Subsec. (b)(4)(B). Pub. L. 103–43, §2014(c)(2)(C), substituted "1997" for "1994" in cl. (i) and "1998" for "1995" in cl. (ii).
 
 #### Student Loan Guidelines ####
 
-Pub. L. 111–148, title V, §5201(b), Mar. 23, 2010, 124 Stat. 607, provided that: “The Secretary of Health and Human Services shall not require parental financial information for an independent student to determine financial need under section 723 of the Public Health Service Act (42 U.S.C. 292s) and the determination of need for such information shall be at the discretion of applicable school loan officer. The Secretary shall amend guidelines issued by the Health Resources and Services Administration in accordance with the preceding sentence.”
+Pub. L. 111–148, title V, §5201(b), Mar. 23, 2010, 124 Stat. 607, provided that: "The Secretary of Health and Human Services shall not require parental financial information for an independent student to determine financial need under section 723 of the Public Health Service Act (42 U.S.C. 292s) and the determination of need for such information shall be at the discretion of applicable school loan officer. The Secretary shall amend guidelines issued by the Health Resources and Services Administration in accordance with the preceding sentence."
 
 [<sup>1</sup> See References in Text note below.](#292s_1)
 

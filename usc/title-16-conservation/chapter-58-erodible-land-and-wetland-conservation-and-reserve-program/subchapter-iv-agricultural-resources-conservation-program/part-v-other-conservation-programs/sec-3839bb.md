@@ -26,15 +26,15 @@ In this section:
 
 #### (1) Department ####
 
-The term “Department” means the Department of Agriculture.
+The term "Department" means the Department of Agriculture.
 
 #### (2) Private grazing land ####
 
-The term “private grazing land” means private, State-owned, tribally-owned, and any other non-federally owned rangeland, pastureland, grazed forest land, and hay land.
+The term "private grazing land" means private, State-owned, tribally-owned, and any other non-federally owned rangeland, pastureland, grazed forest land, and hay land.
 
 #### (3) Secretary ####
 
-The term “Secretary” means the Secretary of Agriculture.
+The term "Secretary" means the Secretary of Agriculture.
 
 #### (c) Private grazing land conservation assistance ####
 
@@ -142,9 +142,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments ####
 
-**2014**—Subsec. (e). Pub. L. 113–79 substituted “2018” for “2012”.
+**2014**—Subsec. (e). Pub. L. 113–79 substituted "2018" for "2012".
 
-**2008**—Subsec. (e). Pub. L. 110–246, §2601, substituted “2012” for “2007”.
+**2008**—Subsec. (e). Pub. L. 110–246, §2601, substituted "2012" for "2007".
 
 **2002**—Pub. L. 107–171 amended section catchline and text generally. Prior to amendment, section required the Secretary to establish conservation farm option pilot programs for producers of wheat, feed grains, cotton, and rice.
 

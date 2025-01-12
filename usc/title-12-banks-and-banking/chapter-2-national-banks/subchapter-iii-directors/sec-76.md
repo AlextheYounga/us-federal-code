@@ -10,4 +10,4 @@ R.S. §5150 derived from act June 3, 1864, ch. 106, §9, 13 Stat. 102, which was
 
 #### Amendments ####
 
-**1927**—Act Feb. 25, 1927, amended section generally. Prior to amendment, section read as follows: “One of the directors, to be chosen by the board, shall be president of the board.”
+**1927**—Act Feb. 25, 1927, amended section generally. Prior to amendment, section read as follows: "One of the directors, to be chosen by the board, shall be president of the board."

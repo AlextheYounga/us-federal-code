@@ -1,8 +1,8 @@
 ### §78x. Public availability of information ###
 
-#### (a) “Records” defined ####
+#### (a) "Records" defined ####
 
-For purposes of section 552 of title 5 the term “records” includes all applications, statements, reports, contracts, correspondence, notices, and other documents filed with or otherwise obtained by the Commission pursuant to this chapter or otherwise.
+For purposes of section 552 of title 5 the term "records" includes all applications, statements, reports, contracts, correspondence, notices, and other documents filed with or otherwise obtained by the Commission pursuant to this chapter or otherwise.
 
 #### (b) Disclosure or personal use ####
 
@@ -10,7 +10,7 @@ It shall be unlawful for any member, officer, or employee of the Commission to d
 
 #### (c) Confidential disclosures ####
 
-The Commission may, in its discretion and upon a showing that such information is needed, provide all “records” (as defined in subsection (a) of this section) and other information in its possession to such persons, both domestic and foreign, as the Commission by rule deems appropriate if the person receiving such records or information provides such assurances of confidentiality as the Commission deems appropriate.
+The Commission may, in its discretion and upon a showing that such information is needed, provide all "records" (as defined in subsection (a) of this section) and other information in its possession to such persons, both domestic and foreign, as the Commission by rule deems appropriate if the person receiving such records or information provides such assurances of confidentiality as the Commission deems appropriate.
 
 #### (d) Records obtained from foreign securities authorities ####
 
@@ -60,11 +60,11 @@ The provisions of subparagraph (A) shall not apply to a self-regulatory organiza
 
 For purposes of this subsection—
 
-(A) the term “privilege” includes any work-product privilege, attorney-client privilege, governmental privilege, or other privilege recognized under Federal, State, or foreign law;
+(A) the term "privilege" includes any work-product privilege, attorney-client privilege, governmental privilege, or other privilege recognized under Federal, State, or foreign law;
 
-(B) the term “foreign law enforcement authority” means any foreign authority that is empowered under foreign law to detect, investigate or prosecute potential violations of law; and
+(B) the term "foreign law enforcement authority" means any foreign authority that is empowered under foreign law to detect, investigate or prosecute potential violations of law; and
 
-(C) the term “State securities or law enforcement authority” means the authority of any State or territory that is empowered under State or territory law to detect, investigate, or prosecute potential violations of law.
+(C) the term "State securities or law enforcement authority" means the authority of any State or territory that is empowered under State or territory law to detect, investigate, or prosecute potential violations of law.
 
 #### (g) Savings provision ####
 
@@ -78,23 +78,23 @@ Nothing in this section shall—
 
 #### References in Text ####
 
-This chapter, referred to in subsecs. (a) and (e)(2), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a) and (e)(2), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 The Right to Financial Privacy Act, referred to in subsec. (g)(1), probably means the Right to Financial Privacy Act of 1978, title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
 
 #### Amendments ####
 
-**2010**—Subsec. (d). Pub. L. 111–203, §929K(1), substituted “subsection (g)” for “subsection (f)”.
+**2010**—Subsec. (d). Pub. L. 111–203, §929K(1), substituted "subsection (g)" for "subsection (f)".
 
-Pub. L. 111–203, §929I(a)(1), substituted “subsection (f)” for “subsection (e)”.
+Pub. L. 111–203, §929I(a)(1), substituted "subsection (f)" for "subsection (e)".
 
 Subsec. (e). Pub. L. 111–257 added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows:
 
-“(1) In general.—Except as provided in subsection (g), the Commission shall not be compelled to disclose records or information obtained pursuant to section 78q(b) of this title, or records or information based upon or derived from such records or information, if such records or information have been obtained by the Commission for use in furtherance of the purposes of this chapter, including surveillance, risk assessments, or other regulatory and oversight activities.
+"(1) In general.—Except as provided in subsection (g), the Commission shall not be compelled to disclose records or information obtained pursuant to section 78q(b) of this title, or records or information based upon or derived from such records or information, if such records or information have been obtained by the Commission for use in furtherance of the purposes of this chapter, including surveillance, risk assessments, or other regulatory and oversight activities.
 
-“(2) Treatment of information.—For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. Collection of information pursuant to section 78q of this title shall be an administrative action involving an agency against specific individuals or agencies pursuant to section 3518(c)(1) of title 44.”
+"(2) Treatment of information.—For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. Collection of information pursuant to section 78q of this title shall be an administrative action involving an agency against specific individuals or agencies pursuant to section 3518(c)(1) of title 44."
 
-Pub. L. 111–203, §929K(2), substituted “subsection (g)” for “subsection (f)” in par. (1).
+Pub. L. 111–203, §929K(2), substituted "subsection (g)" for "subsection (f)" in par. (1).
 
 Pub. L. 111–203, §929I(a)(3), added subsec. (e). Former subsec. (e) redesignated (f).
 
@@ -104,17 +104,17 @@ Pub. L. 111–203, §929I(a)(2), redesignated subsec. (e) as (f).
 
 Subsec. (g). Pub. L. 111–203, §929K(3), redesignated subsec. (f) as (g).
 
-**1990**—Subsec. (b). Pub. L. 101–550, §202(a)(1), struck out at end “Nothing in this subsection shall authorize the Commission to withhold information from the Congress.”
+**1990**—Subsec. (b). Pub. L. 101–550, §202(a)(1), struck out at end "Nothing in this subsection shall authorize the Commission to withhold information from the Congress."
 
 Subsecs. (c) to (e). Pub. L. 101–550, §202(a)(2), added subsecs. (c) to (e).
 
-**1975**—Subsec. (a). Pub. L. 94–29 substituted “For purposes of section 552 of title 5, the term ‘records’ includes all applications, statements, reports, contracts, correspondence, notices, and other documents filed with or otherwise obtained by the Commission pursuant to this chapter or otherwise” for “Nothing in this chapter shall be construed to require, or to authorize the Commission to require, the revealing of trade secrets or processes in any application, report, or document filed with the Commission under this chapter”.
+**1975**—Subsec. (a). Pub. L. 94–29 substituted "For purposes of section 552 of title 5, the term 'records' includes all applications, statements, reports, contracts, correspondence, notices, and other documents filed with or otherwise obtained by the Commission pursuant to this chapter or otherwise" for "Nothing in this chapter shall be construed to require, or to authorize the Commission to require, the revealing of trade secrets or processes in any application, report, or document filed with the Commission under this chapter".
 
-Subsecs. (b), (c). Pub. L. 94–29 redesignated subsec. (c) as (b) and substituted “application, statement, report, contract, correspondence, notice, or other document filed with or otherwise obtained by the Commission (1) in contravention of the rules and regulations of the Commission under section 552 of title 5, or (2) in circumstances where the Commission has determined pursuant to such rules to accord confidential treatment for such information. Nothing in this subsection shall authorize the Commission to withhold information from Congress” for “application, report, or document filed with the Commission which is not made available to the public pursuant to subsection (b) of this section: Provided, That the Commission may make available to the Board of Governors of the Federal Reserve System any information requested by the Board for the purpose of enabling it to perform its duties under this chapter”. Former subsec. (b), providing for written objection to public disclosure of information, was struck out.
+Subsecs. (b), (c). Pub. L. 94–29 redesignated subsec. (c) as (b) and substituted "application, statement, report, contract, correspondence, notice, or other document filed with or otherwise obtained by the Commission (1) in contravention of the rules and regulations of the Commission under section 552 of title 5, or (2) in circumstances where the Commission has determined pursuant to such rules to accord confidential treatment for such information. Nothing in this subsection shall authorize the Commission to withhold information from Congress" for "application, report, or document filed with the Commission which is not made available to the public pursuant to subsection (b) of this section: Provided, That the Commission may make available to the Board of Governors of the Federal Reserve System any information requested by the Board for the purpose of enabling it to perform its duties under this chapter". Former subsec. (b), providing for written objection to public disclosure of information, was struck out.
 
 #### Change of Name ####
 
-Section 203(a) of act Aug. 23, 1935, substituted “Board of Governors of the Federal Reserve System” for “Federal Reserve Board”.
+Section 203(a) of act Aug. 23, 1935, substituted "Board of Governors of the Federal Reserve System" for "Federal Reserve Board".
 
 #### Effective Date of 2010 Amendment ####
 

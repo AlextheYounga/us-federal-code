@@ -28,4 +28,4 @@ Pub. L. 93–510, §13, Dec. 5, 1974, 88 Stat. 1608, as amended by Pub. L. 96–
 
 #### Short Title ####
 
-Pub. L. 93–510, §1, Dec. 5, 1974, 88 Stat. 1604, which provided that Pub. L. 93–510 could be cited as the “Joint Funding Simplification Act of 1974”, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
+Pub. L. 93–510, §1, Dec. 5, 1974, 88 Stat. 1604, which provided that Pub. L. 93–510 could be cited as the "Joint Funding Simplification Act of 1974", was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.

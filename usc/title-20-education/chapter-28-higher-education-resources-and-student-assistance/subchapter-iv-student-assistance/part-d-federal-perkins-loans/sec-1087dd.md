@@ -236,27 +236,27 @@ A prior section 1087dd, Pub. L. 89–329, title IV, §464, as added Pub. L. 92�
 
 #### Amendments ####
 
-**2009**—Subsec. (c). Pub. L. 111–39, §405(4)(A), substituted “(i)” for “(I)” and “(ii)” for “(II)” in par. (1)(D) and realigned margins in par. (2)(A)(iii).
+**2009**—Subsec. (c). Pub. L. 111–39, §405(4)(A), substituted "(i)" for "(I)" and "(ii)" for "(II)" in par. (1)(D) and realigned margins in par. (2)(A)(iii).
 
-Subsec. (g)(5). Pub. L. 111–39, §405(4)(B), substituted “consumer reporting agencies” for “credit bureaus”.
+Subsec. (g)(5). Pub. L. 111–39, §405(4)(B), substituted "consumer reporting agencies" for "credit bureaus".
 
-**2008**—Subsec. (a)(2)(A). Pub. L. 110–315, §464(a)(1), substituted “$5,500” for “$4,000” in cl. (i) and “$8,000” for “$6,000” in cl. (ii).
+**2008**—Subsec. (a)(2)(A). Pub. L. 110–315, §464(a)(1), substituted "$5,500" for "$4,000" in cl. (i) and "$8,000" for "$6,000" in cl. (ii).
 
-Subsec. (a)(2)(B). Pub. L. 110–315, §464(a)(2), substituted “$60,000” for “$40,000” in cl. (i), “$27,500” for “$20,000” in cl. (ii), and “$11,000” for “$8,000” in cl. (iii).
+Subsec. (a)(2)(B). Pub. L. 110–315, §464(a)(2), substituted "$60,000" for "$40,000" in cl. (i), "$27,500" for "$20,000" in cl. (ii), and "$11,000" for "$8,000" in cl. (iii).
 
-Subsec. (c)(1)(F). Pub. L. 110–315, §464(b)(1)(A), substituted “cancelled—” and cls. (i) to (iv) for “canceled upon the death of the borrower, or if he becomes permanently and totally disabled as determined in accordance with regulations of the Secretary;”.
+Subsec. (c)(1)(F). Pub. L. 110–315, §464(b)(1)(A), substituted "cancelled—" and cls. (i) to (iv) for "canceled upon the death of the borrower, or if he becomes permanently and totally disabled as determined in accordance with regulations of the Secretary;".
 
-Subsec. (c)(1)(I). Pub. L. 110–315, §432(b)(7)(A), substituted “consumer reporting agencies” for “credit bureau organizations”.
+Subsec. (c)(1)(I). Pub. L. 110–315, §432(b)(7)(A), substituted "consumer reporting agencies" for "credit bureau organizations".
 
-Subsec. (e). Pub. L. 110–315, §464(c)(1), substituted “, as documented in accordance with paragraph (2),” for “, upon written request,” in introductory provisions, designated existing text as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
+Subsec. (e). Pub. L. 110–315, §464(c)(1), substituted ", as documented in accordance with paragraph (2)," for ", upon written request," in introductory provisions, designated existing text as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
 
-Subsec. (h)(1)(A). Pub. L. 110–315, §§432(b)(7)(B), 464(c)(2), substituted “9 on-time” for “12 ontime” and “consumer” for “credit bureau organization or credit”.
+Subsec. (h)(1)(A). Pub. L. 110–315, §§432(b)(7)(B), 464(c)(2), substituted "9 on-time" for "12 ontime" and "consumer" for "credit bureau organization or credit".
 
-Subsec. (j)(2). Pub. L. 110–315, §464(c)(3), substituted “subsection (e)(1)(C)” for “subsection (e)(3)”.
+Subsec. (j)(2). Pub. L. 110–315, §464(c)(3), substituted "subsection (e)(1)(C)" for "subsection (e)(3)".
 
 Subsec. (k). Pub. L. 110–315, §464(b)(1)(B), added subsec. (k).
 
-**2007**—Subsec. (c)(2)(A)(iii). Pub. L. 110–84 struck out “not in excess of 3 years” before “during” in introductory provisions, substituted comma for semicolon at end of subcl. (II), and inserted concluding provisions.
+**2007**—Subsec. (c)(2)(A)(iii). Pub. L. 110–84 struck out "not in excess of 3 years" before "during" in introductory provisions, substituted comma for semicolon at end of subcl. (II), and inserted concluding provisions.
 
 **2006**—Subsec. (c)(2)(A)(iii) to (v). Pub. L. 109–171 added cl. (iii) and redesignated former cls. (iii) and (iv) as (iv) and (v), respectively.
 
@@ -266,13 +266,13 @@ Subsec. (j). Pub. L. 107–314, §651(d)(2), added subsec. (j).
 
 **1998**—Subsec. (a)(2). Pub. L. 105–244, §464(a), amended par. (2) generally. Prior to amendment, par. (2) related to limitations on the total of loans that could be made to a student by an institution of higher education from a loan fund established pursuant to an agreement under this part.
 
-Subsec. (b)(1). Pub. L. 105–244, §464(b)(1), inserted at end “A student who is in default on a loan under this part shall not be eligible for an additional loan under this part unless such loan meets one of the conditions for exclusion under section 1087bb(g)(1)(E) of this title.”
+Subsec. (b)(1). Pub. L. 105–244, §464(b)(1), inserted at end "A student who is in default on a loan under this part shall not be eligible for an additional loan under this part unless such loan meets one of the conditions for exclusion under section 1087bb(g)(1)(E) of this title."
 
-Subsec. (b)(2). Pub. L. 105–244, §464(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If the institution's capital contribution under section 1087bb of this title is directly or indirectly based in part on the financial need demonstrated by students who are (A) attending the institution less than full time, or (B) independent students, and if the total financial need of all such less than full-time and independent students at the institution exceeds 5 percent of the total financial need of all students at such institution, then at least 5 percent of such loans shall be made available to such less than full-time and independent students.”
+Subsec. (b)(2). Pub. L. 105–244, §464(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "If the institution's capital contribution under section 1087bb of this title is directly or indirectly based in part on the financial need demonstrated by students who are (A) attending the institution less than full time, or (B) independent students, and if the total financial need of all such less than full-time and independent students at the institution exceeds 5 percent of the total financial need of all students at such institution, then at least 5 percent of such loans shall be made available to such less than full-time and independent students."
 
-Subsec. (c)(1)(D). Pub. L. 105–244, §464(c)(1), struck out “(i) 3 percent per year, (ii) 4 percent per year in the case of any loan made on or after July 1, 1981, or (iii)” after “at the rate of” and substituted “paragraph (2)(A)(i)” for “subparagraph (A)(i)”.
+Subsec. (c)(1)(D). Pub. L. 105–244, §464(c)(1), struck out "(i) 3 percent per year, (ii) 4 percent per year in the case of any loan made on or after July 1, 1981, or (iii)" after "at the rate of" and substituted "paragraph (2)(A)(i)" for "subparagraph (A)(i)".
 
-Subsec. (c)(2)(A). Pub. L. 105–244, §464(c)(2), substituted “subparagraph (A) of paragraph (1)” for “subparagraph (B)” in concluding provisions.
+Subsec. (c)(2)(A). Pub. L. 105–244, §464(c)(2), substituted "subparagraph (A) of paragraph (1)" for "subparagraph (B)" in concluding provisions.
 
 Subsec. (c)(2)(C). Pub. L. 105–244, §464(c)(3), added subpar. (C).
 
@@ -280,47 +280,47 @@ Subsec. (c)(7). Pub. L. 105–244, §464(c)(4), added par. (7).
 
 Subsecs. (g) to (i). Pub. L. 105–244, §464(d), added subsecs. (g) to (i).
 
-**1993**—Subsec. (c)(2)(B). Pub. L. 103–208, §2(f)(9), substituted “repayment of” for “repayment or”.
+**1993**—Subsec. (c)(2)(B). Pub. L. 103–208, §2(f)(9), substituted "repayment of" for "repayment or".
 
-Subsec. (c)(6). Pub. L. 103–208, §2(f)(10), substituted “Fulbright” for “Fullbright”.
+Subsec. (c)(6). Pub. L. 103–208, §2(f)(10), substituted "Fulbright" for "Fullbright".
 
-Subsec. (e). Pub. L. 103–208, §2(f)(11), substituted “principal” for “principle” before “only”.
+Subsec. (e). Pub. L. 103–208, §2(f)(11), substituted "principal" for "principle" before "only".
 
-**1992**—Subsec. (a)(2). Pub. L. 102–325, §464(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The aggregate of the loans for all years made by institutions of higher education from loan funds established pursuant to agreements under this part may not exceed—
+**1992**—Subsec. (a)(2). Pub. L. 102–325, §464(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The aggregate of the loans for all years made by institutions of higher education from loan funds established pursuant to agreements under this part may not exceed—
 
-“(A) $18,000 in the case of any graduate or professional student (as defined by regulations of the Secretary, and including any loans from such funds made to such person before he became a graduate or professional student);
+"(A) $18,000 in the case of any graduate or professional student (as defined by regulations of the Secretary, and including any loans from such funds made to such person before he became a graduate or professional student);
 
-“(B) $9,000 in the case of a student who has successfully completed 2 years of a program of education leading to a bachelor's degree, but who has not completed the work necessary for such a degree (determined under regulations of the Secretary, and including any loans from such funds made to such person before he became such a student); and
+"(B) $9,000 in the case of a student who has successfully completed 2 years of a program of education leading to a bachelor's degree, but who has not completed the work necessary for such a degree (determined under regulations of the Secretary, and including any loans from such funds made to such person before he became such a student); and
 
-“(C) $4,500 in the case of any other student.”
+"(C) $4,500 in the case of any other student."
 
 Subsec. (a)(4). Pub. L. 102–325, §464(b), added par. (4).
 
-Subsec. (b)(1). Pub. L. 102–325, §464(c)(1), substituted “this subchapter, who meets the requirements of section 1091 of this title, and who provides the institution with the student's drivers license number, if any, at the time of application for the loan” for “this subchapter and who meets the requirements of section 1091 of this title”.
+Subsec. (b)(1). Pub. L. 102–325, §464(c)(1), substituted "this subchapter, who meets the requirements of section 1091 of this title, and who provides the institution with the student's drivers license number, if any, at the time of application for the loan" for "this subchapter and who meets the requirements of section 1091 of this title".
 
-Subsec. (b)(2). Pub. L. 102–325, §464(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If the institution's Federal capital contribution under section 1087bb of this title is directly or indirectly based in part on the financial need demonstrated by students attending the institution less than full time, a reasonable proportion of the loans under this part shall be made available to such students.”
+Subsec. (b)(2). Pub. L. 102–325, §464(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "If the institution's Federal capital contribution under section 1087bb of this title is directly or indirectly based in part on the financial need demonstrated by students attending the institution less than full time, a reasonable proportion of the loans under this part shall be made available to such students."
 
-Subsec. (c)(1)(C)(i). Pub. L. 102–325, §464(d), substituted “$40” for “$30” in two places.
+Subsec. (c)(1)(C)(i). Pub. L. 102–325, §464(d), substituted "$40" for "$30" in two places.
 
-Subsec. (c)(1)(E). Pub. L. 102–325, §464(e), struck out “unless the borrower is a minor and the note or other evidence of obligation executed by him would not, under applicable law, create a binding obligation,” before “shall provide”.
+Subsec. (c)(1)(E). Pub. L. 102–325, §464(e), struck out "unless the borrower is a minor and the note or other evidence of obligation executed by him would not, under applicable law, create a binding obligation," before "shall provide".
 
 Subsec. (c)(2)(A). Pub. L. 102–325, §464(f), amended subpar. (A) generally, revising and restating as cls. (i) to (iv) provisions formerly contained in cls. (i) to (ix).
 
 Subsec. (c)(2)(B), (C). Pub. L. 102–325, §464(g)(1), added subpar. (B) and struck out former subpars. (B) and (C) which read as follows:
 
-“(B) Any period during which repayment is deferred under subparagraph (A) shall not be included in computing the 10-year maximum period provided for in subparagraph (A) of paragraph (1).
+"(B) Any period during which repayment is deferred under subparagraph (A) shall not be included in computing the 10-year maximum period provided for in subparagraph (A) of paragraph (1).
 
-“(C) No repayment of principal of, or interest on, any loan for any period of study, service, or disability described in subparagraph (A) or any combination thereof shall begin until 6 months after the completion of such period of study, service, disability, or combination thereof.”
+"(C) No repayment of principal of, or interest on, any loan for any period of study, service, or disability described in subparagraph (A) or any combination thereof shall begin until 6 months after the completion of such period of study, service, disability, or combination thereof."
 
 Subsec. (c)(4) to (6). Pub. L. 102–325, §464(g)(2)–(4), added par. (4), redesignated former par. (4) as (5), and added par. (6).
 
 Subsecs. (e), (f). Pub. L. 102–325, §464(h), added subsecs. (e) and (f).
 
-**1989**—Subsec. (c)(2)(A)(i). Pub. L. 101–239 inserted before semicolon at end “, except that no borrower shall be eligible for a deferment under this clause, or a loan made under this part (other than a loan made under section 1078–2 or 1078–3 of this title), while serving in a medical internship or residency program”.
+**1989**—Subsec. (c)(2)(A)(i). Pub. L. 101–239 inserted before semicolon at end ", except that no borrower shall be eligible for a deferment under this clause, or a loan made under this part (other than a loan made under section 1078–2 or 1078–3 of this title), while serving in a medical internship or residency program".
 
-**1988**—Subsec. (c)(2)(A)(v). Pub. L. 100–369 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+**1988**—Subsec. (c)(2)(A)(v). Pub. L. 100–369 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-**1987**—Subsec. (c)(2)(A)(vi). Pub. L. 100–50 inserted “or serving in an internship or residency program leading to a degree or certificate awarded by an institution of higher education, a hospital, or a health care facility that offers postgraduate training” before semicolon at end.
+**1987**—Subsec. (c)(2)(A)(vi). Pub. L. 100–50 inserted "or serving in an internship or residency program leading to a degree or certificate awarded by an institution of higher education, a hospital, or a health care facility that offers postgraduate training" before semicolon at end.
 
 #### Effective Date of 2009 Amendment ####
 
@@ -328,7 +328,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 #### Effective Date of 2008 Amendment ####
 
-Pub. L. 110–315, title IV, §464(b)(2), Aug. 14, 2008, 122 Stat. 3267, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on July 1, 2008.”
+Pub. L. 110–315, title IV, §464(b)(2), Aug. 14, 2008, 122 Stat. 3267, provided that: "The amendments made by paragraph (1) [amending this section] shall take effect on July 1, 2008."
 
 #### Effective Date of 2007 Amendment ####
 
@@ -354,19 +354,19 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 #### Effective Date of 1992 Amendment ####
 
-Pub. L. 102–325, title IV, §468, July 23, 1992, 106 Stat. 585, as amended by Pub. L. 102–394, title III, §307(a), Oct. 6, 1992, 106 Stat. 1820, provided that: “The changes made in part E of title IV of the Act [20 U.S.C. 1087aa et seq.] by the amendments made by this part [part E (§§461–468) of title IV of Pub. L. 102–325, enacting section 1087ii of this title and amending sections 1087aa to 1087gg of this title] shall take effect on the date of enactment of this Act [July 23, 1992], except that—
+Pub. L. 102–325, title IV, §468, July 23, 1992, 106 Stat. 585, as amended by Pub. L. 102–394, title III, §307(a), Oct. 6, 1992, 106 Stat. 1820, provided that: "The changes made in part E of title IV of the Act [20 U.S.C. 1087aa et seq.] by the amendments made by this part [part E (§§461–468) of title IV of Pub. L. 102–325, enacting section 1087ii of this title and amending sections 1087aa to 1087gg of this title] shall take effect on the date of enactment of this Act [July 23, 1992], except that—
 
-“(1) the changes in section 463(a)(2)(B) [20 U.S.C. 1087cc(a)(2)(B)], relating to the matching of Federal capital contributions, shall apply to funds provided for such program for the award years beginning on or after July 1, 1993;
+"(1) the changes in section 463(a)(2)(B) [20 U.S.C. 1087cc(a)(2)(B)], relating to the matching of Federal capital contributions, shall apply to funds provided for such program for the award years beginning on or after July 1, 1993;
 
-“(2) the changes made in section 464(c)(1)(C) [20 U.S.C. 1087dd(c)(1)(C)], relating to minimum monthly payments shall apply with respect to loans for which the first disbursement is made on or after October 1, 1992, to an individual who, on the date the loan is made, has no outstanding balance of principal or interest owing on any loan made under part E of title IV of the Act;
+"(2) the changes made in section 464(c)(1)(C) [20 U.S.C. 1087dd(c)(1)(C)], relating to minimum monthly payments shall apply with respect to loans for which the first disbursement is made on or after October 1, 1992, to an individual who, on the date the loan is made, has no outstanding balance of principal or interest owing on any loan made under part E of title IV of the Act;
 
-“(3) the changes made in section 464(c)(2)(A), relating to deferments, shall apply with respect to loans for which the first disbursement is made on or after July 1, 1993;
+"(3) the changes made in section 464(c)(2)(A), relating to deferments, shall apply with respect to loans for which the first disbursement is made on or after July 1, 1993;
 
-“(4) the changes made in section 467 [20 U.S.C. 1087gg], relating to the creation of a Perkins Loan Revolving Fund, shall take effect on September 15, 1997; and
+"(4) the changes made in section 467 [20 U.S.C. 1087gg], relating to the creation of a Perkins Loan Revolving Fund, shall take effect on September 15, 1997; and
 
-“(5) the changes in section 464(a)(2)(A), (B) and (C) shall not apply to any loan made for the award year beginning July 1, 1992 provided that the loan does not result in a violation of section 464(a)(2)(A), (B) and (C) as in effect prior to such date of enactment.”
+"(5) the changes in section 464(a)(2)(A), (B) and (C) shall not apply to any loan made for the award year beginning July 1, 1992 provided that the loan does not result in a violation of section 464(a)(2)(A), (B) and (C) as in effect prior to such date of enactment."
 
-[Pub. L. 102–394, title III, §307(b), Oct. 6, 1992, 106 Stat. 1820, provided that: “The amendments made by subsection (a) [amending section 468 of Pub. L. 102–325, set out above] shall take effect as if enacted on July 23, 1992.”]
+[Pub. L. 102–394, title III, §307(b), Oct. 6, 1992, 106 Stat. 1820, provided that: "The amendments made by subsection (a) [amending section 468 of Pub. L. 102–325, set out above] shall take effect as if enacted on July 23, 1992."]
 
 #### Effective Date of 1989 Amendment ####
 
@@ -382,13 +382,13 @@ Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of 
 
 Pub. L. 99–498, title IV, §405(b), Oct. 17, 1986, 100 Stat. 1454, as amended by Pub. L. 100–50, §22(d), June 3, 1987, 101 Stat. 361, provided that:
 
-“(1) Section 462 of the Act [20 U.S.C. 1087bb] shall apply with respect to academic year 1988-1989 and succeeding academic years.
+"(1) Section 462 of the Act [20 U.S.C. 1087bb] shall apply with respect to academic year 1988-1989 and succeeding academic years.
 
-“(2) The changes made in sections 464(c)(1)(A), 464(c)(2), and 465(a)(2)(E) of the Act [20 U.S.C. 1087dd(c)(1)(A), (2), 1087ee(a)(2)(E)] shall apply only to loans made to cover the costs of instruction for periods of enrollment beginning on or after July 1, 1987, to individuals who are new borrowers on that date.
+"(2) The changes made in sections 464(c)(1)(A), 464(c)(2), and 465(a)(2)(E) of the Act [20 U.S.C. 1087dd(c)(1)(A), (2), 1087ee(a)(2)(E)] shall apply only to loans made to cover the costs of instruction for periods of enrollment beginning on or after July 1, 1987, to individuals who are new borrowers on that date.
 
-“(3) Section 463(a)(9) and section 463A of the Act [20 U.S.C. 1087cc(a)(9), 1087cc–1] as amended by this section shall apply only to loans made for periods of enrollment beginning on or after July 1, 1987.
+"(3) Section 463(a)(9) and section 463A of the Act [20 U.S.C. 1087cc(a)(9), 1087cc–1] as amended by this section shall apply only to loans made for periods of enrollment beginning on or after July 1, 1987.
 
-“(4) For the purpose of this subsection, the term ‘new borrower’ means, with respect to any date, an individual who on that date has no outstanding balance of principal or interest owing on any loan made under part E of title IV of the Act [this part].”
+"(4) For the purpose of this subsection, the term 'new borrower' means, with respect to any date, an individual who on that date has no outstanding balance of principal or interest owing on any loan made under part E of title IV of the Act [this part]."
 
 #### Construction of 2006 Amendment ####
 

@@ -6,12 +6,12 @@ The Secretary of Commerce shall encourage, promote, and develop travel within th
 
 #### Amendments ####
 
-**1975**—Pub. L. 94–55 substituted “shall encourage, promote, and develop travel within the United States, including any Commonwealth, territory, and possession thereof, through activities which are in the public interest and which do not compete with activities of any State, city, or private agency” for “is authorized and directed to encourage, promote, and develop travel within the United States, its Territories and possessions, providing such activities do not compete with the activities of private agencies; and to administer all existing travel promotion functions of the Department of Commerce”.
+**1975**—Pub. L. 94–55 substituted "shall encourage, promote, and develop travel within the United States, including any Commonwealth, territory, and possession thereof, through activities which are in the public interest and which do not compete with activities of any State, city, or private agency" for "is authorized and directed to encourage, promote, and develop travel within the United States, its Territories and possessions, providing such activities do not compete with the activities of private agencies; and to administer all existing travel promotion functions of the Department of Commerce".
 
 #### Transfer of Functions ####
 
 Pub. L. 93–193, §2, Dec. 19, 1973, 87 Stat. 765, provided that:
 
-“(a) There are hereby transferred to and vested in the Secretary of Commerce all functions, powers, and duties of the Secretary of the Interior and other offices and officers of the Department of the Interior under the Act of July 19, 1940 (54 Stat. 773; 16 U.S.C. 18–18d).
+"(a) There are hereby transferred to and vested in the Secretary of Commerce all functions, powers, and duties of the Secretary of the Interior and other offices and officers of the Department of the Interior under the Act of July 19, 1940 (54 Stat. 773; 16 U.S.C. 18–18d).
 
-“(b) The assets, liabilities, contracts, property, records, authorizations, and allocations, employed, held, used, rising from, available or to be made available in connection with the functions, powers, and duties transferred by subsection (a) of this section are hereby transferred to the Secretary of Commerce.”
+"(b) The assets, liabilities, contracts, property, records, authorizations, and allocations, employed, held, used, rising from, available or to be made available in connection with the functions, powers, and duties transferred by subsection (a) of this section are hereby transferred to the Secretary of Commerce."

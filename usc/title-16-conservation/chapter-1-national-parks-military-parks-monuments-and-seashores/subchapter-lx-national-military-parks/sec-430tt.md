@@ -6,4 +6,4 @@ There are authorized to be appropriated such sums, but not more than $722,000, a
 
 #### Amendments ####
 
-**1974**—Pub. L. 93–477 substituted “$722,000” for “$115,000”.
+**1974**—Pub. L. 93–477 substituted "$722,000" for "$115,000".

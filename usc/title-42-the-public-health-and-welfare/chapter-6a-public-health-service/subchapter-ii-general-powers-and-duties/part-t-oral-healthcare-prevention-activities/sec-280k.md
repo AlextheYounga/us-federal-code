@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention and in consultation with professional oral health organizations, shall, subject to the availability of appropriations, establish a 5-year national, public education campaign (referred to in this section as the “campaign”) that is focused on oral healthcare prevention and education, including prevention of oral disease such as early childhood and other caries, periodontal disease, and oral cancer.
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention and in consultation with professional oral health organizations, shall, subject to the availability of appropriations, establish a 5-year national, public education campaign (referred to in this section as the "campaign") that is focused on oral healthcare prevention and education, including prevention of oral disease such as early childhood and other caries, periodontal disease, and oral cancer.
 
 #### (b) Requirements ####
 
@@ -20,6 +20,6 @@ Not later than 2 years after March 23, 2010, the Secretary shall begin implement
 
 #### References in Text ####
 
-Section 1603(c) of title 25, referred to in subsec. (b)(1), which defines “Indians”, was redesignated section 1603(13) of title 25 by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.
+Section 1603(c) of title 25, referred to in subsec. (b)(1), which defines "Indians", was redesignated section 1603(13) of title 25 by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.
 
 [<sup>1</sup> See References in Text note below.](#280k_1)

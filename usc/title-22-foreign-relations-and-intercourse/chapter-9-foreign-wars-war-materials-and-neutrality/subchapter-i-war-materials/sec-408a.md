@@ -1,6 +1,6 @@
-### §408a. “United States” defined ###
+### §408a. "United States" defined ###
 
-The term “United States” as used in this Act includes the Canal Zone and all territory and waters, continental or insular, subject to the jurisdiction of the United States.
+The term "United States" as used in this Act includes the Canal Zone and all territory and waters, continental or insular, subject to the jurisdiction of the United States.
 
 (June 15, 1917, ch. 30, title XIII, §1, 40 Stat. 231.)
 

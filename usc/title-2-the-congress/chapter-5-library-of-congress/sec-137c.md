@@ -6,8 +6,8 @@ The chief judge and associate judges of the United States Court of Appeals for t
 
 #### Change of Name ####
 
-Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted “United States District Court for the District of Columbia” for “District Court of the United States for the District of Columbia”, “chief judge” for “chief justice” and “associate judges” for “associate justices” wherever appearing.
+Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted "United States District Court for the District of Columbia" for "District Court of the United States for the District of Columbia", "chief judge" for "chief justice" and "associate judges" for "associate justices" wherever appearing.
 
-Act June 25, 1936, substituted “District Court of the United States for the said District” for “Supreme Court for the said District”.
+Act June 25, 1936, substituted "District Court of the United States for the said District" for "Supreme Court for the said District".
 
-Act June 7, 1934, substituted “United States Court of Appeals for the District of Columbia” for “Court of Appeals of the District of Columbia”.
+Act June 7, 1934, substituted "United States Court of Appeals for the District of Columbia" for "Court of Appeals of the District of Columbia".

@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-There is established within the Institute a program linked to the purpose and functions of the Institute, to be known as the “Technology Innovation Program” for the purpose of assisting United States businesses and institutions of higher education or other organizations, such as national laboratories and nonprofit research institutions, to support, promote, and accelerate innovation in the United States through high-risk, high-reward research in areas of critical national need.
+There is established within the Institute a program linked to the purpose and functions of the Institute, to be known as the "Technology Innovation Program" for the purpose of assisting United States businesses and institutions of higher education or other organizations, such as national laboratories and nonprofit research institutions, to support, promote, and accelerate innovation in the United States through high-risk, high-reward research in areas of critical national need.
 
 #### (b) External funding ####
 
@@ -62,7 +62,7 @@ Nothing in this subsection shall be construed to prohibit the licensing to any c
 
 #### (3) Definition ####
 
-For purposes of this subsection, the term “intellectual property” means an invention patentable under title 35, or any patent on such an invention, or any work for which copyright protection is available under title 17.
+For purposes of this subsection, the term "intellectual property" means an invention patentable under title 35, or any patent on such an invention, or any work for which copyright protection is available under title 17.
 
 #### (f) Program operation ####
 
@@ -142,7 +142,7 @@ The TIP Advisory Board shall transmit an annual report to the Secretary for tran
 
 In this section—
 
-(1) the term “eligible company” means a small-sized or medium-sized business that is incorporated in the United States and does a majority of its business in the United States, and that either—
+(1) the term "eligible company" means a small-sized or medium-sized business that is incorporated in the United States and does a majority of its business in the United States, and that either—
 
 (A) is majority owned by citizens of the United States; or
 
@@ -164,7 +164,7 @@ In this section—
 
 (III) affords adequate and effective protection for intellectual property rights of United States-owned companies;
 
-(2) the term “high-risk, high-reward research” means research that—
+(2) the term "high-risk, high-reward research" means research that—
 
 (A) has the potential for yielding transformational results with far-ranging or wide-ranging implications;
 
@@ -172,9 +172,9 @@ In this section—
 
 (C) is too novel or spans too diverse a range of disciplines to fare well in the traditional peer-review process;
 
-(3) the term “institution of higher education” has the meaning given that term in section 1001 of title 20;
+(3) the term "institution of higher education" has the meaning given that term in section 1001 of title 20;
 
-(4) the term “joint venture” means a joint venture that—
+(4) the term "joint venture" means a joint venture that—
 
 (A) includes either—
 
@@ -184,7 +184,7 @@ In this section—
 
 (B) may include additional for-profit companies, institutions of higher education, and other organizations, such as national laboratories and nonprofit research institutes, that may or may not contribute non-Federal funds to the project; and
 
-(5) the term “TIP Advisory Board” means the advisory board established under subsection (k).
+(5) the term "TIP Advisory Board" means the advisory board established under subsection (k).
 
 (Mar. 3, 1901, ch. 872, §28, as added Pub. L. 110–69, title III, §3012(b), Aug. 9, 2007, 121 Stat. 593.)
 
@@ -202,15 +202,15 @@ Committee on Science and Technology of House of Representatives changed to Commi
 
 #### Technology Innovation Program ####
 
-Pub. L. 111–240, title IV, §4226(b), Sept. 27, 2010, 124 Stat. 2598, provided that: “In awarding grants, cooperative agreements, or contracts under section 28 of the National Institute of Standards and Technology Act (15 U.S.C. 278n), in addition to the award criteria set forth in subsection (c) of that section, the Director of the National Institute of Standards and Technology may take into consideration whether an application has significant potential for enhancing the competitiveness of small- and medium-sized businesses in the United States in the global marketplace. The Director shall consult with the Technology Innovation Program Advisory Board and the Secretary of Commerce in implementing this subsection.”
+Pub. L. 111–240, title IV, §4226(b), Sept. 27, 2010, 124 Stat. 2598, provided that: "In awarding grants, cooperative agreements, or contracts under section 28 of the National Institute of Standards and Technology Act (15 U.S.C. 278n), in addition to the award criteria set forth in subsection (c) of that section, the Director of the National Institute of Standards and Technology may take into consideration whether an application has significant potential for enhancing the competitiveness of small- and medium-sized businesses in the United States in the global marketplace. The Director shall consult with the Technology Innovation Program Advisory Board and the Secretary of Commerce in implementing this subsection."
 
 #### Transition ####
 
-Pub. L. 110–69, title III, §3012(c), Aug. 9, 2007, 121 Stat. 598, provided that: “Notwithstanding the repeal made by subsection (a) [repealing former section 278n of this title], the Director shall carry out section 28 of the National Institute of Standards and Technology Act (15 U.S.C. 278n) as such section was in effect on the day before the date of the enactment of this Act [Aug. 9, 2007], with respect to applications for grants under such section submitted before such date, until the earlier of—
+Pub. L. 110–69, title III, §3012(c), Aug. 9, 2007, 121 Stat. 598, provided that: "Notwithstanding the repeal made by subsection (a) [repealing former section 278n of this title], the Director shall carry out section 28 of the National Institute of Standards and Technology Act (15 U.S.C. 278n) as such section was in effect on the day before the date of the enactment of this Act [Aug. 9, 2007], with respect to applications for grants under such section submitted before such date, until the earlier of—
 
-“(1) the date that the Director promulgates the regulations required under section 28(f) of the National Institute of Standards and Technology Act [15 U.S.C. 278n(f)], as added by subsection (b) [Final regulations implementing the Technology Innovation Program issued June 25, 2008. See 73 F.R. 35913.]; or
+"(1) the date that the Director promulgates the regulations required under section 28(f) of the National Institute of Standards and Technology Act [15 U.S.C. 278n(f)], as added by subsection (b) [Final regulations implementing the Technology Innovation Program issued June 25, 2008. See 73 F.R. 35913.]; or
 
-“(2) December 31, 2007.”
+"(2) December 31, 2007."
 
 #### National Academies of Sciences and Engineering Study of Government-Industry Cooperation in Civilian Technology ####
 

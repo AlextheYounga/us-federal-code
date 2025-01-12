@@ -14,9 +14,9 @@ The court, in imposing sentence on such person, shall order, in addition to any 
 
 (1) General.—Property subject to forfeiture under this section, any seizure and disposition thereof, and any administrative or judicial proceeding in relation thereto, shall be governed by subsections (b) through (p) of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853), except that any reference under those subsections to—
 
-(A) “this subchapter or subchapter II” shall be deemed to be a reference to section 229A(a); and
+(A) "this subchapter or subchapter II" shall be deemed to be a reference to section 229A(a); and
 
-(B) “subsection (a)” shall be deemed to be a reference to subsection (a) of this section.
+(B) "subsection (a)" shall be deemed to be a reference to subsection (a) of this section.
 
 (2) Temporary restraining orders.—
 

@@ -8,4 +8,4 @@ The right of Congress to alter, amend, or repeal this section is expressly reser
 
 #### Codification ####
 
-The two sentences of this section are, respectively, from sections 1 and 2 of act Feb. 16, 1921, entitled “An Act declaring the Platte River to be a nonnavigable stream”.
+The two sentences of this section are, respectively, from sections 1 and 2 of act Feb. 16, 1921, entitled "An Act declaring the Platte River to be a nonnavigable stream".

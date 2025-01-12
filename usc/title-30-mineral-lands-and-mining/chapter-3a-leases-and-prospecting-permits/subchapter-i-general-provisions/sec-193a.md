@@ -16,9 +16,9 @@ Section was formerly classified to section 453 of Title 48, Territories and Insu
 
 #### Amendments ####
 
-**1992**—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+**1992**—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
-**1982**—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+**1982**—Pub. L. 97–164 substituted "United States Claims Court" for "Court of Claims".
 
 #### Effective Date of 1992 Amendment ####
 

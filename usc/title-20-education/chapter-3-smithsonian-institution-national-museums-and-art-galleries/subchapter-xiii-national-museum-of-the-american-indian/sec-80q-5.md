@@ -54,7 +54,7 @@ Federal funds may not be obligated for actual construction of a facility under p
 
 #### (6) Designation ####
 
-The facility to be constructed under paragraph (2)(A) shall be known and designated as the “George Gustav Heye Center of the National Museum of the American Indian”.
+The facility to be constructed under paragraph (2)(A) shall be known and designated as the "George Gustav Heye Center of the National Museum of the American Indian".
 
 #### (c) Museum Support Center facility ####
 
@@ -76,46 +76,46 @@ Notwithstanding any other provision of this subchapter, funds appropriated for c
 
 #### Codification ####
 
-“Section 586(a) and (b) of title 40” substituted in subsec. (b)(1)(A) for “section 210(j) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(j))”, “section 592 of title 40” substituted in subsec. (b)(1)(B) for “section 210(f) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(f))”, and “section 586(a) and (b) of title 40” substituted in subsec. (b)(1)(B) for “section 210(j) of such Act” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Section 586(a) and (b) of title 40" substituted in subsec. (b)(1)(A) for "section 210(j) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(j))", "section 592 of title 40" substituted in subsec. (b)(1)(B) for "section 210(f) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(f))", and "section 586(a) and (b) of title 40" substituted in subsec. (b)(1)(B) for "section 210(j) of such Act" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-#### National Native American Veterans’ Memorial ####
+#### National Native American Veterans' Memorial ####
 
 Pub. L. 103–384, Oct. 22, 1994, 108 Stat. 4067, as amended by Pub. L. 113–70, §2, Dec. 26, 2013, 127 Stat. 1208, provided that:
 
-#### “SECTION 1. SHORT TITLE. ####
+#### "SECTION 1. SHORT TITLE. ####
 
-“This Act may be cited as the ‘Native American Veterans’ Memorial Establishment Act of 1994’.
+"This Act may be cited as the 'Native American Veterans' Memorial Establishment Act of 1994'.
 
-#### “SEC. 2. FINDINGS. ####
+#### "SEC. 2. FINDINGS. ####
 
-“The Congress finds the following:
+"The Congress finds the following:
 
-“(1) Native Americans across the Nation—Indians, Native Alaskans, and Native Hawaiians—have a long, proud and distinguished tradition of service in the Armed Forces of the United States.
+"(1) Native Americans across the Nation—Indians, Native Alaskans, and Native Hawaiians—have a long, proud and distinguished tradition of service in the Armed Forces of the United States.
 
-“(2) Native Americans have historically served in the Armed Forces of the United States in numbers which far exceed their representation in the population of the United States.
+"(2) Native Americans have historically served in the Armed Forces of the United States in numbers which far exceed their representation in the population of the United States.
 
-“(3) Native American veterans count among themselves a number of Medal of Honor recipients. Their numbers are also conspicuous in the ranks of those who have received other decorations for valor and distinguished service.
+"(3) Native American veterans count among themselves a number of Medal of Honor recipients. Their numbers are also conspicuous in the ranks of those who have received other decorations for valor and distinguished service.
 
-“(4) Native Americans have lost their lives in the service of their Nation and in the cause of peace.
+"(4) Native Americans have lost their lives in the service of their Nation and in the cause of peace.
 
-“(5) The National Museum of the American Indian was established as a living memorial to Native Americans. Its mission is to advance knowledge and understanding of Native American cultures, including art, history, language, and the contributions Native Americans have made to our society.
+"(5) The National Museum of the American Indian was established as a living memorial to Native Americans. Its mission is to advance knowledge and understanding of Native American cultures, including art, history, language, and the contributions Native Americans have made to our society.
 
-“(6) The National Museum of the American Indian is an extraordinary site and an ideal location to establish a National Native American Veterans’ Memorial.
+"(6) The National Museum of the American Indian is an extraordinary site and an ideal location to establish a National Native American Veterans' Memorial.
 
-“(7) A National Native American Veterans’ Memorial would further the purposes of the National Museum of the American Indian by giving all Americans the opportunity to learn of the proud and courageous tradition of service of Native Americans in the Armed Forces of the United States.
+"(7) A National Native American Veterans' Memorial would further the purposes of the National Museum of the American Indian by giving all Americans the opportunity to learn of the proud and courageous tradition of service of Native Americans in the Armed Forces of the United States.
 
-#### “SEC. 3. AUTHORITY TO ESTABLISH MEMORIAL. ####
+#### "SEC. 3. AUTHORITY TO ESTABLISH MEMORIAL. ####
 
-“(a) In General.—The National Museum of the American Indian (established by the National Museum of the American Indian Act (20 U.S.C. 80q et seq.)), in close consultation with the National Congress of American Indians and other Native American groups, is authorized to construct and maintain a National Native American Veterans’ Memorial (hereafter in this Act referred to as the ‘memorial’).
+"(a) In General.—The National Museum of the American Indian (established by the National Museum of the American Indian Act (20 U.S.C. 80q et seq.)), in close consultation with the National Congress of American Indians and other Native American groups, is authorized to construct and maintain a National Native American Veterans' Memorial (hereafter in this Act referred to as the 'memorial').
 
-“(b) Location.—The memorial shall be located at a site determined to be suitable by the Museum on property under the jurisdiction of the Museum on the site described in section 7(a) of such Act (20 U.S.C. 80q–5(a)) (relating to housing the portion of the Museum to be located in the District of Columbia).
+"(b) Location.—The memorial shall be located at a site determined to be suitable by the Museum on property under the jurisdiction of the Museum on the site described in section 7(a) of such Act (20 U.S.C. 80q–5(a)) (relating to housing the portion of the Museum to be located in the District of Columbia).
 
-“(c) Design and Plans.—(1) The National Congress of American Indians and the National Museum of the American Indian are authorized to hold a competition to select the design of the Memorial. Any design so selected shall be compatible with both the purpose of the Museum, as set forth in section 3(b) of the National Museum of the American Indian Act (20 U.S.C. 80q–1 [(b)]), and with any existing design plans for the Museum's structure and its surroundings.
+"(c) Design and Plans.—(1) The National Congress of American Indians and the National Museum of the American Indian are authorized to hold a competition to select the design of the Memorial. Any design so selected shall be compatible with both the purpose of the Museum, as set forth in section 3(b) of the National Museum of the American Indian Act (20 U.S.C. 80q–1 [(b)]), and with any existing design plans for the Museum's structure and its surroundings.
 
-“(2) Any design so selected shall be subject to the approval of the Board of Regents of the Smithsonian Institution.
+"(2) Any design so selected shall be subject to the approval of the Board of Regents of the Smithsonian Institution.
 
-#### “SEC. 4. PAYMENT OF EXPENSES AND USE OF NAME. ####
+#### "SEC. 4. PAYMENT OF EXPENSES AND USE OF NAME. ####
 
-“(a) Responsibility of National Congress of American Indians and National Museum of the American Indian.—The National Congress of American Indians and the National Museum of the American Indian shall be responsible for acceptance of contributions for, and payment of the expenses of, the establishment of the memorial. No Federal funds may be used to pay any expense of the establishment of the memorial.
+"(a) Responsibility of National Congress of American Indians and National Museum of the American Indian.—The National Congress of American Indians and the National Museum of the American Indian shall be responsible for acceptance of contributions for, and payment of the expenses of, the establishment of the memorial. No Federal funds may be used to pay any expense of the establishment of the memorial.
 
-“(b) Use of Name.—Use of the name of the Smithsonian Institution or the National Museum of the American Indian in any material regarding the memorial produced by the National Congress of American Indians, other than in a manner simply describing the location of the memorial, shall be subject to consultation with, and the approval of, the Board of Regents of the Smithsonian Institution.”
+"(b) Use of Name.—Use of the name of the Smithsonian Institution or the National Museum of the American Indian in any material regarding the memorial produced by the National Congress of American Indians, other than in a manner simply describing the location of the memorial, shall be subject to consultation with, and the approval of, the Board of Regents of the Smithsonian Institution."

@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-The Secretary shall establish within the Office of the Director of NIH a Pediatric Research Initiative (referred to in this section as the “Initiative”) to conduct and support research that is directly related to diseases, disorders, and other conditions in children. The Initiative shall be headed by the Director of NIH.
+The Secretary shall establish within the Office of the Director of NIH a Pediatric Research Initiative (referred to in this section as the "Initiative") to conduct and support research that is directly related to diseases, disorders, and other conditions in children. The Initiative shall be headed by the Director of NIH.
 
 #### (b) Purpose ####
 
@@ -114,12 +114,12 @@ Another section 409D of act July 1, 1944, was renumbered section 409H and is cla
 
 **2013**—Subsecs. (d) to (f). Pub. L. 113–55 added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
-**2007**—Subsec. (c)(1). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
+**2007**—Subsec. (c)(1). Pub. L. 110–154 substituted "Eunice Kennedy Shriver National Institute of Child Health and Human Development" for "National Institute of Child Health and Human Development".
 
-Subsecs. (d), (e). Pub. L. 109–482 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated $50,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005.”
+Subsecs. (d), (e). Pub. L. 109–482 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated $50,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005."
 
 #### Effective Date of 2007 Amendment ####
 
 Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
-[<sup>1</sup> So in original. The word “and” probably should appear at end of subcl. (III).](#284h_1)
+[<sup>1</sup> So in original. The word "and" probably should appear at end of subcl. (III).](#284h_1)

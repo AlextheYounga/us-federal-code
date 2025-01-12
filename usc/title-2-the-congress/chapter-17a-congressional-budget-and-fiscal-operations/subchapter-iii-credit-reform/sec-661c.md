@@ -18,7 +18,7 @@ Notwithstanding any other provision of law, new direct loan obligations may be i
 
 Subsections (b) and (e) of this section shall not apply to a direct loan or loan guarantee program that—
 
-(1) constitutes an entitlement (such as the guaranteed student loan program or the veterans’ home loan guaranty program); or
+(1) constitutes an entitlement (such as the guaranteed student loan program or the veterans' home loan guaranty program); or
 
 (2) all existing credit programs of the Commodity Credit Corporation on November 5, 1990.
 
@@ -50,12 +50,12 @@ A prior section 504 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 322, w
 
 #### Amendments ####
 
-**1997**—Subsec. (b)(1). Pub. L. 105–33, §10117(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “appropriations of budget authority to cover their costs are made in advance;”.
+**1997**—Subsec. (b)(1). Pub. L. 105–33, §10117(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "appropriations of budget authority to cover their costs are made in advance;".
 
-Subsec. (b)(2). Pub. L. 105–33, §10117(b)(2), substituted “has been provided in advance in an appropriations Act” for “is enacted”.
+Subsec. (b)(2). Pub. L. 105–33, §10117(b)(2), substituted "has been provided in advance in an appropriations Act" for "is enacted".
 
-Subsec. (c). Pub. L. 105–33, §10117(b)(3), substituted “Subsections (b) and (e)” for “Subsection (b)”.
+Subsec. (c). Pub. L. 105–33, §10117(b)(3), substituted "Subsections (b) and (e)" for "Subsection (b)".
 
-Subsec. (d)(1). Pub. L. 105–33, §10117(b)(4), substituted “modify outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments)” for “directly or indirectly alter the costs of outstanding direct loans and loan guarantees”.
+Subsec. (d)(1). Pub. L. 105–33, §10117(b)(4), substituted "modify outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments)" for "directly or indirectly alter the costs of outstanding direct loans and loan guarantees".
 
-Subsec. (e). Pub. L. 105–33, §10117(b)(5), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “A direct loan obligation or loan guarantee commitment shall not be modified in a manner that increases its cost unless budget authority for the additional cost is appropriated, or is available out of existing appropriations or from other budgetary resources.”
+Subsec. (e). Pub. L. 105–33, §10117(b)(5), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "A direct loan obligation or loan guarantee commitment shall not be modified in a manner that increases its cost unless budget authority for the additional cost is appropriated, or is available out of existing appropriations or from other budgetary resources."

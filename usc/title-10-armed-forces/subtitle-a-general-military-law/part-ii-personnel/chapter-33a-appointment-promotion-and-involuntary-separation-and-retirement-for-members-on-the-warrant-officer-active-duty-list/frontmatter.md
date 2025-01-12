@@ -34,4 +34,4 @@ Sec.
 
 **1993**—Pub. L. 103–160, div. A, title V, §504(b), Nov. 30, 1993, 107 Stat. 1645, added item 580a.
 
-**1992**—Pub. L. 102–484, div. A, title X, §1052(6), Oct. 23, 1992, 106 Stat. 2499, inserted “to be” after “Information” in item 576 and substituted “Promotions:” for “Promotions;” in item 578.
+**1992**—Pub. L. 102–484, div. A, title X, §1052(6), Oct. 23, 1992, 106 Stat. 2499, inserted "to be" after "Information" in item 576 and substituted "Promotions:" for "Promotions;" in item 578.

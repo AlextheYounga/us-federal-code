@@ -24,4 +24,4 @@ Sec.
 
 **2006**—Pub. L. 109–468, §3(b), Dec. 29, 2006, 120 Stat. 3490, added item 6109.
 
-**2002**—Pub. L. 107–355, §2(c)(2), Dec. 17, 2002, 116 Stat. 2986, substituted “Implementation of best practices guidelines” for “Review of one-call system best practices” in item 6105.
+**2002**—Pub. L. 107–355, §2(c)(2), Dec. 17, 2002, 116 Stat. 2986, substituted "Implementation of best practices guidelines" for "Review of one-call system best practices" in item 6105.

@@ -6,4 +6,4 @@ Part E establishes the authority for the Coast Guard to issue, suspend, and revo
 
 #### Amendments ####
 
-**1985**—Pub. L. 99–36, §1(a)(9)(B), May 15, 1985, 99 Stat. 67, substituted “Merchant Seamen Licenses, Certificates, and” for “Licenses, Certificates, and Merchant Mariners’ ” in part E heading.
+**1985**—Pub. L. 99–36, §1(a)(9)(B), May 15, 1985, 99 Stat. 67, substituted "Merchant Seamen Licenses, Certificates, and" for "Licenses, Certificates, and Merchant Mariners' " in part E heading.

@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Fund ####
 
-Upon the issuance by the Secretary of a declaration under section 247d–6d(b) of this title, there is hereby established in the Treasury an emergency fund designated as the “Covered Countermeasure Process Fund” for purposes of providing timely, uniform, and adequate compensation to eligible individuals for covered injuries directly caused by the administration or use of a covered countermeasure pursuant to such declaration, which Fund shall consist of such amounts designated as emergency appropriations under section 402 of H. Con. Res. 95 of the 109th Congress, this emergency designation shall remain in effect through October 1, 2006.
+Upon the issuance by the Secretary of a declaration under section 247d–6d(b) of this title, there is hereby established in the Treasury an emergency fund designated as the "Covered Countermeasure Process Fund" for purposes of providing timely, uniform, and adequate compensation to eligible individuals for covered injuries directly caused by the administration or use of a covered countermeasure pursuant to such declaration, which Fund shall consist of such amounts designated as emergency appropriations under section 402 of H. Con. Res. 95 of the 109th Congress, this emergency designation shall remain in effect through October 1, 2006.
 
 #### (b) Payment of compensation ####
 
@@ -40,9 +40,9 @@ No court of the United States, or of any State, shall have subject matter jurisd
 
 In applying sections 239a, 239b, 239c, 239d, and 239e of this title for purposes of this section—
 
-(A) the terms “vaccine” and “smallpox vaccine” shall be deemed to mean a covered countermeasure;
+(A) the terms "vaccine" and "smallpox vaccine" shall be deemed to mean a covered countermeasure;
 
-(B) the terms “smallpox vaccine injury table” and “table established under section 239b of this title” shall be deemed to refer to the table established under paragraph (4); and
+(B) the terms "smallpox vaccine injury table" and "table established under section 239b of this title" shall be deemed to refer to the table established under paragraph (4); and
 
 (C) other terms used in those sections shall have the meanings given to such terms by this section.
 
@@ -78,11 +78,11 @@ For purposes of this section, the following terms shall have the following meani
 
 #### (1) Covered countermeasure ####
 
-The term “covered countermeasure” has the meaning given such term in section 247d–6d of this title.
+The term "covered countermeasure" has the meaning given such term in section 247d–6d of this title.
 
 #### (2) Covered individual ####
 
-The term “covered individual”, with respect to administration or use of a covered countermeasure pursuant to a declaration, means an individual—
+The term "covered individual", with respect to administration or use of a covered countermeasure pursuant to a declaration, means an individual—
 
 (A) who is in a population specified in such declaration, and with respect to whom the administration or use of the covered countermeasure satisfies the other specifications of such declaration; or
 
@@ -90,15 +90,15 @@ The term “covered individual”, with respect to administration or use of a co
 
 #### (3) Covered injury ####
 
-The term “covered injury” means serious physical injury or death.
+The term "covered injury" means serious physical injury or death.
 
 #### (4) Declaration ####
 
-The term “declaration” means a declaration under section 247d–6d(b) of this title.
+The term "declaration" means a declaration under section 247d–6d(b) of this title.
 
 #### (5) Eligible individual ####
 
-The term “eligible individual” means an individual who is determined, in accordance with subsection (b) of this section, to be a covered individual who sustains a covered injury.
+The term "eligible individual" means an individual who is determined, in accordance with subsection (b) of this section, to be a covered individual who sustains a covered injury.
 
 (July 1, 1944, ch. 373, title III, §319F–4, as added Pub. L. 109–148, div. C, §3, Dec. 30, 2005, 119 Stat. 2829.)
 

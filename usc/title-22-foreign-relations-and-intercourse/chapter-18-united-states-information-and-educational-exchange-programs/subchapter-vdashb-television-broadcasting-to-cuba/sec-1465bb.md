@@ -2,7 +2,7 @@
 
 #### (a) Television broadcasting to Cuba ####
 
-In order to carry out the purposes set forth in section 1465aa of this title and notwithstanding the limitation of section 1461 of this title with respect to the dissemination in the United States of information prepared for dissemination abroad to the extent such dissemination is inadvertent, the Broadcasting Board of Governors (hereafter in this subchapter referred to as the “Agency” <sup><a href="#1465bb_1_target" name="1465bb_1">1</a></sup>) shall provide for the open communication of information and ideas through the use of television broadcasting to Cuba. Television broadcasting to Cuba shall serve as a consistently reliable and authoritative source of accurate, objective, and comprehensive news.
+In order to carry out the purposes set forth in section 1465aa of this title and notwithstanding the limitation of section 1461 of this title with respect to the dissemination in the United States of information prepared for dissemination abroad to the extent such dissemination is inadvertent, the Broadcasting Board of Governors (hereafter in this subchapter referred to as the "Agency" <sup><a href="#1465bb_1_target" name="1465bb_1">1</a></sup>) shall provide for the open communication of information and ideas through the use of television broadcasting to Cuba. Television broadcasting to Cuba shall serve as a consistently reliable and authoritative source of accurate, objective, and comprehensive news.
 
 #### (b) Voice of America standards ####
 
@@ -10,7 +10,7 @@ Television broadcasting to Cuba under this subchapter shall be in accordance wit
 
 #### (c) Television Marti ####
 
-Any program of United States Government television broadcasts to Cuba authorized by this section shall be designated the “Television Marti Program”.
+Any program of United States Government television broadcasts to Cuba authorized by this section shall be designated the "Television Marti Program".
 
 #### (d) Frequency assignment ####
 
@@ -56,9 +56,9 @@ Section was enacted as part of the Television Broadcasting to Cuba Act which com
 
 #### Amendments ####
 
-**1998**—Subsec. (a). Pub. L. 105–277, §1325(1), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
+**1998**—Subsec. (a). Pub. L. 105–277, §1325(1), substituted "Broadcasting Board of Governors" for "United States Information Agency".
 
-Subsec. (c). Pub. L. 105–277, §1325(2), in heading struck out “USIA” before “Television” and in text substituted “the ‘Television” for “ ‘USIA Television”.
+Subsec. (c). Pub. L. 105–277, §1325(2), in heading struck out "USIA" before "Television" and in text substituted "the 'Television" for " 'USIA Television".
 
 #### Effective Date of 1998 Amendment ####
 
@@ -68,4 +68,4 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (f) of this section is listed on page 167), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
-[<sup>1</sup> So in original. Probably should be “ ‘Board’ ”.](#1465bb_1)
+[<sup>1</sup> So in original. Probably should be " 'Board' ".](#1465bb_1)

@@ -6,19 +6,19 @@ The Secretary of the Interior shall make and publish such rules and regulations 
 
 #### References in Text ####
 
-Herein, referred to in text, means act Aug. 25, 1916, known as the “National Park Service Organic Act”, which is classified to this section and sections 1, 2, and 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
+Herein, referred to in text, means act Aug. 25, 1916, known as the "National Park Service Organic Act", which is classified to this section and sections 1, 2, and 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
 
 #### Amendments ####
 
-**1998**—Pub. L. 105–391, §415(b)(1)(A), in fourth sentence, substituted “No natural,” for “He may also grant privileges, leases, and permits for the use of land for the accommodation of visitors in the various parks, monuments, or other reservations herein provided for, but for periods not exceeding thirty years; and no natural”.
+**1998**—Pub. L. 105–391, §415(b)(1)(A), in fourth sentence, substituted "No natural," for "He may also grant privileges, leases, and permits for the use of land for the accommodation of visitors in the various parks, monuments, or other reservations herein provided for, but for periods not exceeding thirty years; and no natural".
 
-Pub. L. 105–391, §415(b)(1)(B), in fourth sentence, struck out last proviso which read as follows “: *And provided further*, That the Secretary may, in his discretion, authorize such grantees, permittees, or licensees to execute mortgages and issue bonds, shares of stock, and other evidences of interest in or indebtedness upon their rights, properties, and franchises, for the purposes of installing, enlarging, or improving plant and equipment and extending facilities for the accommodation of the public within such national parks and monuments”.
+Pub. L. 105–391, §415(b)(1)(B), in fourth sentence, struck out last proviso which read as follows ": *And provided further*, That the Secretary may, in his discretion, authorize such grantees, permittees, or licensees to execute mortgages and issue bonds, shares of stock, and other evidences of interest in or indebtedness upon their rights, properties, and franchises, for the purposes of installing, enlarging, or improving plant and equipment and extending facilities for the accommodation of the public within such national parks and monuments".
 
-**1958**—Pub. L. 85–434 substituted “thirty years” for “twenty years”.
+**1958**—Pub. L. 85–434 substituted "thirty years" for "twenty years".
 
 **1928**—Act Mar. 7, 1928, inserted last three provisos.
 
-**1920**—Act June 2, 1920, substituted “and any violation of any of the rules and regulations authorized by this section and sections 1, 2, and 4 of this title shall be punished by a fine of not more than $500 or imprisonment for not exceeding six months, or both, and be adjudged to pay all cost of the proceedings” for “and any violations of any of the rules and regulations authorized by this section and sections 1, 2, and 4 of this title shall be punished as provided for in section 50 of the Act entitled ‘An Act to codify and amend the Penal Laws of the United States,’ approved March 4, 1909, as amended by section 6 of the Act of June 25, 1910 (Thirty-sixth United States Statutes at Large, page 857,”.
+**1920**—Act June 2, 1920, substituted "and any violation of any of the rules and regulations authorized by this section and sections 1, 2, and 4 of this title shall be punished by a fine of not more than $500 or imprisonment for not exceeding six months, or both, and be adjudged to pay all cost of the proceedings" for "and any violations of any of the rules and regulations authorized by this section and sections 1, 2, and 4 of this title shall be punished as provided for in section 50 of the Act entitled 'An Act to codify and amend the Penal Laws of the United States,' approved March 4, 1909, as amended by section 6 of the Act of June 25, 1910 (Thirty-sixth United States Statutes at Large, page 857,".
 
 #### Transfer of Functions ####
 

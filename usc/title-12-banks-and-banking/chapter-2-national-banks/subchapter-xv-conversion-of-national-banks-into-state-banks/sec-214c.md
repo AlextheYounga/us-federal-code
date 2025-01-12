@@ -6,6 +6,6 @@ No conversion of a national banking association into a State bank or its merger 
 
 #### Amendments ####
 
-**1954**—Act Sept. 3, 1954, substituted “this subchapter and section 321 of this title” for “sections 214 to 214c, 264(e)(2), (i)(2), (v)(4), and 321 of this title”.
+**1954**—Act Sept. 3, 1954, substituted "this subchapter and section 321 of this title" for "sections 214 to 214c, 264(e)(2), (i)(2), (v)(4), and 321 of this title".
 
 **1952**—Act July 12, 1952, amended section so that the limitation of this section beyond which State law cannot go will be measured by the standard set out in section 214a of this title for National-to-State conversions.

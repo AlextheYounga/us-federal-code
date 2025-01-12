@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-There is established, within the Smithsonian Institution, a living memorial to Native Americans and their traditions which shall be known as the “National Museum of the American Indian”.
+There is established, within the Smithsonian Institution, a living memorial to Native Americans and their traditions which shall be known as the "National Museum of the American Indian".
 
 #### (b) Purposes ####
 

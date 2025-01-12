@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-In order to preserve for public use and enjoyment certain areas possessing outstanding natural, historic, and recreational values, the Secretary of the Interior (hereinafter referred to as the “Secretary”) may establish and administer the Gulf Islands National Seashore (hereinafter referred to as the “seashore”).
+In order to preserve for public use and enjoyment certain areas possessing outstanding natural, historic, and recreational values, the Secretary of the Interior (hereinafter referred to as the "Secretary") may establish and administer the Gulf Islands National Seashore (hereinafter referred to as the "seashore").
 
 #### (b) Composition ####
 
@@ -12,7 +12,7 @@ The seashore shall comprise the areas described in paragraphs (2) and (3).
 
 #### (2) Areas included in boundary plan numbered NS–GI–7100J ####
 
-The areas described in this paragraph are the following gulf coast islands and mainland areas, together with adjacent water areas as generally depicted on the drawing entitled “Proposed Boundary Plan, Proposed Gulf Islands National Seashore,” numbered NS–GI–7100J, and dated December 1970:
+The areas described in this paragraph are the following gulf coast islands and mainland areas, together with adjacent water areas as generally depicted on the drawing entitled "Proposed Boundary Plan, Proposed Gulf Islands National Seashore," numbered NS–GI–7100J, and dated December 1970:
 
 (A) Ship, Petit Bois, and Horn Islands in Mississippi;
 
@@ -28,7 +28,7 @@ The areas described in this paragraph are the following gulf coast islands and m
 
 #### (3) Cat Island ####
 
-Upon its acquisition by the Secretary, the area described in this paragraph is the parcel consisting of approximately 2,000 acres of land on Cat Island, Mississippi, as generally depicted on the map entitled “Boundary Map, Gulf Islands National Seashore, Cat Island, Mississippi”, numbered 635/80085, and dated November 9, 1999 (referred to in sections 459h to 459h–10 of this title <sup><a href="#459h_1_target" name="459h_1">1</a></sup> as the “Cat Island Map”).
+Upon its acquisition by the Secretary, the area described in this paragraph is the parcel consisting of approximately 2,000 acres of land on Cat Island, Mississippi, as generally depicted on the map entitled "Boundary Map, Gulf Islands National Seashore, Cat Island, Mississippi", numbered 635/80085, and dated November 9, 1999 (referred to in sections 459h to 459h–10 of this title <sup><a href="#459h_1_target" name="459h_1">1</a></sup> as the "Cat Island Map").
 
 #### (4) Availability of Map ####
 
@@ -38,10 +38,10 @@ The Cat Island Map shall be on file and available for public inspection in the a
 
 #### References in Text ####
 
-Sections 459h to 459h–10 of this title, referred to in subsec. (b)(3), was in the original “this title”, and was translated as reading “this Act”, meaning Pub. L. 91–660, which enacted sections 459h to 459h–10 of this title, to reflect the probable intent of Congress, because Pub. L. 91–660 does not contain titles.
+Sections 459h to 459h–10 of this title, referred to in subsec. (b)(3), was in the original "this title", and was translated as reading "this Act", meaning Pub. L. 91–660, which enacted sections 459h to 459h–10 of this title, to reflect the probable intent of Congress, because Pub. L. 91–660 does not contain titles.
 
 #### Amendments ####
 
-**2000**—Pub. L. 106–554 inserted section catchline and subsec. (a) designation and heading, substituted “In order” for “That, in order”, inserted subsec. (b) designation and heading, added par. (1), inserted par. (2) designation and heading and substituted “The areas described in this paragraph are” for “The seashore shall comprise”, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (2), realigned margins, and added pars. (3) and (4).
+**2000**—Pub. L. 106–554 inserted section catchline and subsec. (a) designation and heading, substituted "In order" for "That, in order", inserted subsec. (b) designation and heading, added par. (1), inserted par. (2) designation and heading and substituted "The areas described in this paragraph are" for "The seashore shall comprise", redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (2), realigned margins, and added pars. (3) and (4).
 
 [<sup>1</sup> See References in Text note below.](#459h_1)

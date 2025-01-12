@@ -16,61 +16,61 @@ For any violation of the provisions of this section the Secretary of Transportat
 
 #### Amendments ####
 
-**2005**—Subsec. (a). Pub. L. 109–58 substituted “second Sunday of March” for “first Sunday of April” and “first Sunday of November” for “last Sunday of October”.
+**2005**—Subsec. (a). Pub. L. 109–58 substituted "second Sunday of March" for "first Sunday of April" and "first Sunday of November" for "last Sunday of October".
 
-**1986**—Subsec. (a). Pub. L. 99–359 substituted “first Sunday of April” for “last Sunday of April”.
+**1986**—Subsec. (a). Pub. L. 99–359 substituted "first Sunday of April" for "last Sunday of April".
 
-**1983**—Subsec. (c). Pub. L. 97–449 substituted “Secretary of Transportation or his” for “Interstate Commerce Commission or its”.
+**1983**—Subsec. (c). Pub. L. 97–449 substituted "Secretary of Transportation or his" for "Interstate Commerce Commission or its".
 
 **1972**—Subsec. (a). Pub. L. 92–267 authorized any State with parts thereof lying in more than one time zone to exempt by law that part of such State lying within any time zone from provisions of this subsection providing for advancement of time.
 
 #### Effective Date of 2005 Amendment ####
 
-Pub. L. 109–58, title I, §110(b), Aug. 8, 2005, 119 Stat. 615, provided that: “Subsection (a) [amending this section] shall take effect 1 year after the date of enactment of this Act [Aug. 8, 2005] or March 1, 2007, whichever is later.”
+Pub. L. 109–58, title I, §110(b), Aug. 8, 2005, 119 Stat. 615, provided that: "Subsection (a) [amending this section] shall take effect 1 year after the date of enactment of this Act [Aug. 8, 2005] or March 1, 2007, whichever is later."
 
 #### Effective Date of 1986 Amendment ####
 
-Pub. L. 99–359, §2(e), July 8, 1986, 100 Stat. 765, provided that: “This section [amending this section and enacting provisions set out as notes below] shall take effect 60 days after the date of enactment of this Act [July 8, 1986], except that if such effective date occurs in any calendar year after March 1, this section shall take effect on the first day of the following calendar year.”
+Pub. L. 99–359, §2(e), July 8, 1986, 100 Stat. 765, provided that: "This section [amending this section and enacting provisions set out as notes below] shall take effect 60 days after the date of enactment of this Act [July 8, 1986], except that if such effective date occurs in any calendar year after March 1, this section shall take effect on the first day of the following calendar year."
 
 #### Study and Report on Energy Consumption; Reversion ####
 
 Pub. L. 109–58, title I, §110(c), (d), Aug. 8, 2005, 119 Stat. 615, provided that:
 
-“(c) Report to Congress.—Not later than 9 months after the effective date stated in subsection (b) [set out above], the Secretary [of Energy] shall report to Congress on the impact of this section [amending this section] on energy consumption in the United States.
+"(c) Report to Congress.—Not later than 9 months after the effective date stated in subsection (b) [set out above], the Secretary [of Energy] shall report to Congress on the impact of this section [amending this section] on energy consumption in the United States.
 
-“(d) Right to Revert.—Congress retains the right to revert the Daylight Saving Time back to the 2005 time schedules once the Department [of Energy] study is complete.”
+"(d) Right to Revert.—Congress retains the right to revert the Daylight Saving Time back to the 2005 time schedules once the Department [of Energy] study is complete."
 
 #### Congressional Findings; Expansion of Daylight Saving Time ####
 
-Pub. L. 99–359, §2(a), July 8, 1986, 100 Stat. 764, provided that: “The Congress finds—
+Pub. L. 99–359, §2(a), July 8, 1986, 100 Stat. 764, provided that: "The Congress finds—
 
-“(1) that various studies of governmental and nongovernmental agencies indicate that daylight saving time over an expanded period would produce a significant energy savings in electrical power consumption;
+"(1) that various studies of governmental and nongovernmental agencies indicate that daylight saving time over an expanded period would produce a significant energy savings in electrical power consumption;
 
-“(2) that daylight saving time may yield energy savings in other areas besides electrical power consumption;
+"(2) that daylight saving time may yield energy savings in other areas besides electrical power consumption;
 
-“(3) that daylight saving time over an expanded period could serve as an incentive for further energy conservation by individuals, companies, and the various governmental entities at all levels of government, and that such energy conservation efforts could lead to greatly expanded energy savings; and
+"(3) that daylight saving time over an expanded period could serve as an incentive for further energy conservation by individuals, companies, and the various governmental entities at all levels of government, and that such energy conservation efforts could lead to greatly expanded energy savings; and
 
-“(4) that the use of daylight saving time over an expanded period could have other beneficial effects on the public interest, including the reduction of crime, improved traffic safety, more daylight outdoor playtime for the children and youth of our Nation, greater utilization of parks and recreation areas, expanded economic opportunity through extension of daylight hours to peak shopping hours and through extension of domestic office hours to periods of greater overlap with the European Economic Community.”
+"(4) that the use of daylight saving time over an expanded period could have other beneficial effects on the public interest, including the reduction of crime, improved traffic safety, more daylight outdoor playtime for the children and youth of our Nation, greater utilization of parks and recreation areas, expanded economic opportunity through extension of daylight hours to peak shopping hours and through extension of domestic office hours to periods of greater overlap with the European Economic Community."
 
 #### Effectiveness of State Exemption in Effect on July 8, 1986 ####
 
-Pub. L. 99–359, §2(c), July 8, 1986, 100 Stat. 764, provided that: “Any law in effect on the date of the enactment of this Act [July 8, 1986]—
+Pub. L. 99–359, §2(c), July 8, 1986, 100 Stat. 764, provided that: "Any law in effect on the date of the enactment of this Act [July 8, 1986]—
 
-“(1) adopted pursuant to section 3(a)(2) of the Uniform Time Act of 1966 [15 U.S.C. 260a(a)(2)] by a State with parts thereof in more than one time zone, or
+"(1) adopted pursuant to section 3(a)(2) of the Uniform Time Act of 1966 [15 U.S.C. 260a(a)(2)] by a State with parts thereof in more than one time zone, or
 
-“(2) adopted pursuant to section 3(a)(1) of such Act by a State that lies entirely within one time zone,
+"(2) adopted pursuant to section 3(a)(1) of such Act by a State that lies entirely within one time zone,
 
-shall be held and considered to remain in effect as the exercise by that State of the exemption permitted by such Act [see 15 U.S.C. 260a(a)] unless that State, by law, provides that such exemption shall not apply.”
+shall be held and considered to remain in effect as the exercise by that State of the exemption permitted by such Act [see 15 U.S.C. 260a(a)] unless that State, by law, provides that such exemption shall not apply."
 
 #### Adjustment by General Rules or Interim Action With Respect to Hours of Operation of Daytime Standard Amplitude Modulation Broadcast Stations ####
 
 Pub. L. 99–359, §2(d), July 8, 1986, 100 Stat. 764, provided that:
 
-“(1) Notwithstanding any other law or any regulation issued under any such law, the Federal Communications Commission shall, consistent with any existing treaty or other agreement, make such adjustment by general rules, or by interim action pending such general rules, with respect to hours of operation of daytime standard amplitude modulation broadcast stations, as may be consistent with the public interest, including the public's interest in receiving interference-free service.
+"(1) Notwithstanding any other law or any regulation issued under any such law, the Federal Communications Commission shall, consistent with any existing treaty or other agreement, make such adjustment by general rules, or by interim action pending such general rules, with respect to hours of operation of daytime standard amplitude modulation broadcast stations, as may be consistent with the public interest, including the public's interest in receiving interference-free service.
 
-“(2) Such general rules, or interim action, may include variances with respect to operating power and other technical operating characteristics.
+"(2) Such general rules, or interim action, may include variances with respect to operating power and other technical operating characteristics.
 
-“(3) Subsequent to the adoption of such general rules, they may be varied with respect to particular stations and areas because of the exigencies in each case.”
+"(3) Subsequent to the adoption of such general rules, they may be varied with respect to particular stations and areas because of the exigencies in each case."
 
 #### Emergency Daylight Saving Time Energy Conservation ####
 
@@ -80,9 +80,9 @@ Pub. L. 93–182, Dec. 15, 1973, 87 Stat. 707, as amended by Pub. L. 93–434, O
 
 Ex. Ord. No. 11751, Dec. 15, 1973, 38 F.R. 34725, provided:
 
-By virtue of the authority vested in me by section 3(b) of the Emergency Daylight Savings Time Energy Conservation Act of 1973 (Public Law 93–182) (hereinafter “the Act”) [formerly set out above], section 301 of title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
+By virtue of the authority vested in me by section 3(b) of the Emergency Daylight Savings Time Energy Conservation Act of 1973 (Public Law 93–182) (hereinafter "the Act") [formerly set out above], section 301 of title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
-Section 1. The Secretary of Transportation (hereinafter “the Secretary”) is hereby designated and empowered to exercise the authority vested in me by section 3(b) of the Act [formerly set out above] to grant an exemption from section 3(a) of the Act (which establishes daylight saving time as standard time), or a realignment of a time zone limit, pursuant to a proclamation of a Governor of a State finding that the exemption or realignment is necessary to avoid undue hardship or to conserve fuel in the State or a part thereof.
+Section 1. The Secretary of Transportation (hereinafter "the Secretary") is hereby designated and empowered to exercise the authority vested in me by section 3(b) of the Act [formerly set out above] to grant an exemption from section 3(a) of the Act (which establishes daylight saving time as standard time), or a realignment of a time zone limit, pursuant to a proclamation of a Governor of a State finding that the exemption or realignment is necessary to avoid undue hardship or to conserve fuel in the State or a part thereof.
 
 Sec. 2. In deciding to grant or deny an exemption or realignment, the Secretary shall consider, among other things, the policy of the United States, as expressed in sections 2 and 4 of the Uniform Time Act of 1966 (80 Stat. 107, 108; 15 U.S.C. 260, 261), to promote the adoption and observance of uniform time within the standard time zones of the United States and the convenience of commerce, as well as possible energy savings, undue hardship to large segments of the population, and the possible impact on the success of and cooperation with the national energy conservation program.
 

@@ -50,7 +50,7 @@ Nothing in this section may be construed to preclude a State, local, or tribal g
 
 #### Amendments ####
 
-**2007**—Subsec. (b)(5)(A). Pub. L. 110–53 inserted “, including the elderly” after “needs”.
+**2007**—Subsec. (b)(5)(A). Pub. L. 110–53 inserted ", including the elderly" after "needs".
 
 #### Change of Name ####
 

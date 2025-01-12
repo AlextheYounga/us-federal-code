@@ -14,7 +14,7 @@ Sec.
 
 6505. Appropriations for contingent expenses of Senate; restrictions.
 
-6506. Separate accounts for “Secretary of the Senate” and for “Sergeant at Arms and Doorkeeper of the Senate”; establishment within Senate contingent fund; inclusion of funds in existing accounts.
+6506. Separate accounts for "Secretary of the Senate" and for "Sergeant at Arms and Doorkeeper of the Senate"; establishment within Senate contingent fund; inclusion of funds in existing accounts.
 
 6507. Insurance of office funds of Secretary of Senate and Sergeant at Arms; payment of premiums.
 
@@ -142,7 +142,7 @@ Sec.
 
 6614. Funds advanced by Secretary of Senate to Sergeant at Arms and Doorkeeper of Senate to defray office expenses; accountability; maximum amount; vouchers.
 
-6615. Deposit of moneys for credit to account within Senate contingent fund for “Sergeant at Arms and Doorkeeper of the Senate”.
+6615. Deposit of moneys for credit to account within Senate contingent fund for "Sergeant at Arms and Doorkeeper of the Senate".
 
 6616. Support services for Senate during emergency; memorandum of understanding with an executive agency.
 
@@ -160,7 +160,7 @@ Sec.
 
 6623. Report on telecommunications to Committee on Rules and Administration.
 
-6624. Metered charges on copiers; “Sergeant at Arms” and “user” defined; certification of services and equipment as official; deposit of payments; availability for expenditure.
+6624. Metered charges on copiers; "Sergeant at Arms" and "user" defined; certification of services and equipment as official; deposit of payments; availability for expenditure.
 
 6625. Receipts from sales of items by Sergeant at Arms and Doorkeeper of Senate, to Senators, etc., to be credited to appropriation from which purchased.
 

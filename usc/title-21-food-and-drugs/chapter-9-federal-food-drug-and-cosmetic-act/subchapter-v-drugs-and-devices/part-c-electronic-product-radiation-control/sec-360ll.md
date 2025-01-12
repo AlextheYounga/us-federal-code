@@ -50,13 +50,13 @@ Section was classified to section 263g of Title 42, The Public Health and Welfar
 
 **1993**—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263g of Title 42, The Public Health and Welfare, as this section.
 
-**1990**—Subsec. (a)(1). Pub. L. 101–629, §19(a)(2)(C)(i), substituted “section 360kk” for “section 263f”.
+**1990**—Subsec. (a)(1). Pub. L. 101–629, §19(a)(2)(C)(i), substituted "section 360kk" for "section 263f".
 
-Subsec. (d). Pub. L. 101–629, §19(a)(1)(B), (2)(C)(ii), substituted “section 360nn” for “section 263i” and “this part” for “this subpart” in two places.
+Subsec. (d). Pub. L. 101–629, §19(a)(1)(B), (2)(C)(ii), substituted "section 360nn" for "section 263i" and "this part" for "this subpart" in two places.
 
-Subsec. (e). Pub. L. 101–629, §19(a)(1)(B), (2)(C), substituted “this part” for “this subpart” and “section 360nn” for “section 263i” in introductory provisions and “section 360kk” for “section 263f” in par. (1) and concluding provisions.
+Subsec. (e). Pub. L. 101–629, §19(a)(1)(B), (2)(C), substituted "this part" for "this subpart" and "section 360nn" for "section 263i" in introductory provisions and "section 360kk" for "section 263f" in par. (1) and concluding provisions.
 
-Subsec. (f). Pub. L. 101–629, §19(a)(1)(B), substituted “this part” for “this subpart” in two places.
+Subsec. (f). Pub. L. 101–629, §19(a)(1)(B), substituted "this part" for "this subpart" in two places.
 
 #### Noninterference With Other Federal Agencies ####
 

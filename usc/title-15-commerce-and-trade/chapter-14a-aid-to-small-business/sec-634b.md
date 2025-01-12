@@ -50,6 +50,6 @@ For termination of Administrative Conference of United States, see provision of 
 
 Pub. L. 103–403, title VI, §613, Oct. 22, 1994, 108 Stat. 4205, directed Chief Counsel for Advocacy of the Small Business Administration to conduct a study of the impact of all Federal regulatory, paperwork, and tax requirements upon small business, and report its findings to Congress not later than 1 year after Oct. 22, 1994.
 
-[<sup>1</sup> So in original. Probably should be “compete”.](#634b_1)
+[<sup>1</sup> So in original. Probably should be "compete".](#634b_1)
 
 [<sup>2</sup> So in original.](#634b_2)

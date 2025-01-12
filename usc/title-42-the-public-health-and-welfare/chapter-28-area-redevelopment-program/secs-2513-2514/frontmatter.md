@@ -10,4 +10,4 @@ Repeal effective July 1, 1965, see section 9(c) of Pub. L. 89–15, Apr. 26, 196
 
 #### Savings Provision ####
 
-Pub. L. 89–15, §9(b), Apr. 26, 1965, 79 Stat. 79, provided in part that: “The repeal of these sections [sections 2513 and 2514 of this title] shall not affect the disbursement of funds under, or the carrying out of, any contract, commitment, or other obligations entered into pursuant to the Area Redevelopment Act [this chapter] prior to the effective date of the repeal of such sections.”
+Pub. L. 89–15, §9(b), Apr. 26, 1965, 79 Stat. 79, provided in part that: "The repeal of these sections [sections 2513 and 2514 of this title] shall not affect the disbursement of funds under, or the carrying out of, any contract, commitment, or other obligations entered into pursuant to the Area Redevelopment Act [this chapter] prior to the effective date of the repeal of such sections."

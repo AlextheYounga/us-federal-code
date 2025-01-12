@@ -28,8 +28,8 @@ Section 1749ll, act June 27, 1934, ch. 847, title X, §1013, formerly §1012, as
 
 #### Savings Provision ####
 
-Pub. L. 101–235, title I, §133(c), Dec. 15, 1989, 103 Stat. 2027, provided that: “Any contract of insurance entered into under title X [this subchapter, §§1749aa to 1749ll] before the date of enactment of this Act [Dec. 15, 1989] shall be governed by the provisions of such title as such title existed immediately before such date.”
+Pub. L. 101–235, title I, §133(c), Dec. 15, 1989, 103 Stat. 2027, provided that: "Any contract of insurance entered into under title X [this subchapter, §§1749aa to 1749ll] before the date of enactment of this Act [Dec. 15, 1989] shall be governed by the provisions of such title as such title existed immediately before such date."
 
 #### Applicability of Repeal ####
 
-Pub. L. 101–235, title I, §133(b), Dec. 15, 1989, 103 Stat. 2027, provided that: “On or after the date of enactment of this Act [Dec. 15, 1989], no mortgage may be insured under title X [this subchapter, §§1749aa to 1749ll], as such title existed immediately before such date, except pursuant to a commitment to insure made before such date.”
+Pub. L. 101–235, title I, §133(b), Dec. 15, 1989, 103 Stat. 2027, provided that: "On or after the date of enactment of this Act [Dec. 15, 1989], no mortgage may be insured under title X [this subchapter, §§1749aa to 1749ll], as such title existed immediately before such date, except pursuant to a commitment to insure made before such date."

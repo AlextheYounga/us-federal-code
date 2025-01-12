@@ -44,7 +44,7 @@ In the case of a discriminatory group-term life insurance plan—
 
 #### (2) Discriminatory group-term life insurance plan ####
 
-For purposes of this subsection, the term “discriminatory group-term life insurance plan” means any plan of an employer for providing group-term life insurance unless—
+For purposes of this subsection, the term "discriminatory group-term life insurance plan" means any plan of an employer for providing group-term life insurance unless—
 
 (A) the plan does not discriminate in favor of key employees as to eligibility to participate, and
 
@@ -86,7 +86,7 @@ A plan shall not fail to meet the requirements of paragraph (2)(B) merely becaus
 
 #### (6) Key employee defined ####
 
-For purposes of this subsection, the term “key employee” has the meaning given to such term by paragraph (1) of section 416(i). Such term also includes any former employee if such employee when he retired or separated from service was a key employee.
+For purposes of this subsection, the term "key employee" has the meaning given to such term by paragraph (1) of section 416(i). Such term also includes any former employee if such employee when he retired or separated from service was a key employee.
 
 #### (7) Exemption for church plans ####
 
@@ -96,11 +96,11 @@ This subsection shall not apply to a church plan maintained for church employees
 
 #### (B) Definitions ####
 
-For purposes of subparagraph (A), the terms “church plan” and “church employee” have the meaning given such terms by paragraphs (1) and (3)(B) of section 414(e), respectively, except that—
+For purposes of subparagraph (A), the terms "church plan" and "church employee" have the meaning given such terms by paragraphs (1) and (3)(B) of section 414(e), respectively, except that—
 
-(i) section 414(e) shall be applied by substituting “section 501(c)(3)” for “section 501” each place it appears, and
+(i) section 414(e) shall be applied by substituting "section 501(c)(3)" for "section 501" each place it appears, and
 
-(ii) the term “church employee” shall not include an employee of—
+(ii) the term "church employee" shall not include an employee of—
 
 (I) an organization described in section 170(b)(1)(A)(ii) above the secondary school level (other than a school for religious training),
 
@@ -114,7 +114,7 @@ To the extent provided in regulations, this subsection shall be applied separate
 
 #### (e) Employee includes former employee ####
 
-For purposes of this section, the term “employee” includes a former employee.
+For purposes of this section, the term "employee" includes a former employee.
 
 #### (f) Exception for life insurance purchased in connection with qualified transfer of excess pension assets ####
 
@@ -126,23 +126,23 @@ Subsection (b)(3) and section 72(m)(3) shall not apply in the case of any cost p
 
 **2012**—Subsec. (f). Pub. L. 112–141 added subsec. (f).
 
-**1990**—Subsec. (d)(6). Pub. L. 101–508 substituted “any former employee” for “any retired employee”.
+**1990**—Subsec. (d)(6). Pub. L. 101–508 substituted "any former employee" for "any retired employee".
 
 **1989**—Subsec. (d). Pub. L. 101–140, §203(a)(1), amended subsec. (d) to read as if amendments by Pub. L. 99–514, §1151(c)(1), had not been enacted, see 1986 Amendment note below.
 
-Subsec. (d)(7). Pub. L. 101–140, §203(b)(1)(A), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “All employees who are treated as employed by a single employer under subsection (b), (c), or (m) of section 414 shall be treated as employed by a single employer for purposes of this section.”
+Subsec. (d)(7). Pub. L. 101–140, §203(b)(1)(A), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "All employees who are treated as employed by a single employer under subsection (b), (c), or (m) of section 414 shall be treated as employed by a single employer for purposes of this section."
 
-**1988**—Subsec. (c). Pub. L. 100–647 struck out at end “In the case of an employee who has attained age 64, the cost prescribed shall not exceed the cost with respect to such individual if he were age 63.”
+**1988**—Subsec. (c). Pub. L. 100–647 struck out at end "In the case of an employee who has attained age 64, the cost prescribed shall not exceed the cost with respect to such individual if he were age 63."
 
-**1986**—Subsec. (d). Pub. L. 99–514, §1151(c)(1), amended subsec. (d) generally, substituting “In the case of a group-term life insurance plan which is a discriminatory employee benefit plan, subsection (a)(1) shall apply only to the extent provided in section 89.” for provisions formerly designated as pars. (1)(A) and (B) that in the case of a discriminatory group-term life insurance plan subsec. (a)(1) shall not apply with respect to any key employee and the cost of group-term life insurance on the life of any key employee shall be determined without regard to subsec. (c), and striking out pars. (2) to (7) relating to classifications and eligibility classifications of nondiscriminatory plans.
+**1986**—Subsec. (d). Pub. L. 99–514, §1151(c)(1), amended subsec. (d) generally, substituting "In the case of a group-term life insurance plan which is a discriminatory employee benefit plan, subsection (a)(1) shall apply only to the extent provided in section 89." for provisions formerly designated as pars. (1)(A) and (B) that in the case of a discriminatory group-term life insurance plan subsec. (a)(1) shall not apply with respect to any key employee and the cost of group-term life insurance on the life of any key employee shall be determined without regard to subsec. (c), and striking out pars. (2) to (7) relating to classifications and eligibility classifications of nondiscriminatory plans.
 
-Subsec. (d)(1)(B). Pub. L. 99–514, §1827(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the cost of group-term life insurance on the life of any key employee shall be determined without regard to subsection (c).”
+Subsec. (d)(1)(B). Pub. L. 99–514, §1827(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "the cost of group-term life insurance on the life of any key employee shall be determined without regard to subsection (c)."
 
-Subsec. (d)(6). Pub. L. 99–514, §1827(c), struck out “, except that subparagraph (A)(iv) of such paragraph shall be applied by not taking into account employees described in paragraph (3)(B) who are not participants in the plan” from first sentence and inserted provision that such term also includes any retired employee if such employee when he retired or separated from service was a key employee.
+Subsec. (d)(6). Pub. L. 99–514, §1827(c), struck out ", except that subparagraph (A)(iv) of such paragraph shall be applied by not taking into account employees described in paragraph (3)(B) who are not participants in the plan" from first sentence and inserted provision that such term also includes any retired employee if such employee when he retired or separated from service was a key employee.
 
 Subsec. (d)(8). Pub. L. 99–514, §1827(d), added par. (8).
 
-**1984**—Subsec. (b)(1). Pub. L. 98–369, §223(a)(2), struck out “either has reached the retirement age with respect to such employer or” before “is disabled”.
+**1984**—Subsec. (b)(1). Pub. L. 98–369, §223(a)(2), struck out "either has reached the retirement age with respect to such employer or" before "is disabled".
 
 Subsec. (d)(1). Pub. L. 98–369, §223(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -150,9 +150,9 @@ Subsec. (e). Pub. L. 98–369, §223(a)(1), added subsec. (e).
 
 **1982**—Subsec. (d). Pub. L. 97–248 added subsec. (d).
 
-**1976**—Subsec. (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+**1976**—Subsec. (c). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
-**1965**—Subsec. (b)(1). Pub. L. 89–97 substituted “section 72(m)(7)” for “paragraph (3) of section 213(g), determined without regard to paragraph (4) thereof”.
+**1965**—Subsec. (b)(1). Pub. L. 89–97 substituted "section 72(m)(7)" for "paragraph (3) of section 213(g), determined without regard to paragraph (4) thereof".
 
 #### Effective Date of 2012 Amendment ####
 
@@ -160,49 +160,49 @@ Amendment by Pub. L. 112–141 applicable to transfers made after July 6, 2012, 
 
 #### Effective Date of 1990 Amendment ####
 
-Pub. L. 101–508, title XI, §11703(e)(2), Nov. 5, 1990, 104 Stat. 1388–517, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to employees separating from service after the date of the enactment of this Act [Nov. 5, 1990].”
+Pub. L. 101–508, title XI, §11703(e)(2), Nov. 5, 1990, 104 Stat. 1388–517, provided that: "The amendment made by paragraph (1) [amending this section] shall apply to employees separating from service after the date of the enactment of this Act [Nov. 5, 1990]."
 
 #### Effective Date of 1989 Amendment ####
 
-Pub. L. 101–140, title II, §203(c), Nov. 8, 1989, 103 Stat. 832, provided that: “The amendments made by this section [amending this section and sections 105, 117, 120, 125, 127, 129, 132, 162, 401, 414, 505, 3121, 3231, 3306, 3401, 4976, and 6652 of this title, section 409 of title 42, The Public Health and Welfare, and provisions set out as notes under sections 89 and 3121 of this title] shall take effect as if included in section 1151 of the Tax Reform Act of 1986 [Pub. L. 99–514, see section 1151(k) set out below].”
+Pub. L. 101–140, title II, §203(c), Nov. 8, 1989, 103 Stat. 832, provided that: "The amendments made by this section [amending this section and sections 105, 117, 120, 125, 127, 129, 132, 162, 401, 414, 505, 3121, 3231, 3306, 3401, 4976, and 6652 of this title, section 409 of title 42, The Public Health and Welfare, and provisions set out as notes under sections 89 and 3121 of this title] shall take effect as if included in section 1151 of the Tax Reform Act of 1986 [Pub. L. 99–514, see section 1151(k) set out below]."
 
 #### Effective Date of 1988 Amendment ####
 
-Pub. L. 100–647, title V, §5013(b), Nov. 10, 1988, 102 Stat. 3666, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1988.”
+Pub. L. 100–647, title V, §5013(b), Nov. 10, 1988, 102 Stat. 3666, provided that: "The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1988."
 
 #### Effective Date of 1986 Amendment ####
 
 Pub. L. 99–514, title XI, §1151(k), Oct. 22, 1986, 100 Stat. 2508, as amended by Pub. L. 100–647, title I, §1011B(a)(25), (26), Nov. 10, 1988, 102 Stat. 3486, provided that:
 
-“(1) In general.—The amendments made by this section [enacting section 89 of this title and amending this section and sections 105, 106, 117, 120, 125, 127, 129, 132, 414, 505, 6039D, and 6652 of this title] shall apply to years beginning after the later of—
+"(1) In general.—The amendments made by this section [enacting section 89 of this title and amending this section and sections 105, 106, 117, 120, 125, 127, 129, 132, 414, 505, 6039D, and 6652 of this title] shall apply to years beginning after the later of—
 
-“(A) December 31, 1987, or
+"(A) December 31, 1987, or
 
-“(B) the earlier of—
+"(B) the earlier of—
 
-“(i) the date which is 3 months after the date on which the Secretary of the Treasury or his delegate issues such regulations as are necessary to carry out the provisions of section 89 of the Internal Revenue Code of 1986 (as added by this section), or
+"(i) the date which is 3 months after the date on which the Secretary of the Treasury or his delegate issues such regulations as are necessary to carry out the provisions of section 89 of the Internal Revenue Code of 1986 (as added by this section), or
 
-“(ii) December 31, 1988.
+"(ii) December 31, 1988.
 
 Notwithstanding the preceding sentence, the amendments made by subsections (e)(1) and (i)(3)(C) [amending section 414 of this title] shall, to the extent they relate to sections 106, 162(i)(2), and 162(k) of the Internal Revenue Code of 1986, apply to years beginning after 1986.
 
-“(2) Special rule for collective bargaining plan.—In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before March 1, 1986, the amendments made by this section [enacting section 89 of this title and amending this section and sections 105, 106, 117, 120, 125, 127, 129, 132, 414, 505, 6039D, and 6652 of this title] shall not apply to employees covered by such an agreement in years beginning before the earlier of—
+"(2) Special rule for collective bargaining plan.—In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before March 1, 1986, the amendments made by this section [enacting section 89 of this title and amending this section and sections 105, 106, 117, 120, 125, 127, 129, 132, 414, 505, 6039D, and 6652 of this title] shall not apply to employees covered by such an agreement in years beginning before the earlier of—
 
-“(A) the date on which the last of such collective bargaining agreements terminates (determined without regard to any extension thereof after February 28, 1986), or
+"(A) the date on which the last of such collective bargaining agreements terminates (determined without regard to any extension thereof after February 28, 1986), or
 
-“(B) January 1, 1991.
+"(B) January 1, 1991.
 
 A plan shall not be required to take into account employees to which the preceding sentence applies for purposes of applying section 89 of the Internal Revenue Code of 1986 (as added by this section) to employees to which the preceding sentence does not apply for any year preceding the year described in the preceding sentence.
 
-“(3) Exception for certain group-term insurance plans.—In the case of a plan described in section 223(d)(2) of the Tax Reform Act of 1984 [section 232(d)(2) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note below], such plan shall be treated as meeting the requirements of section 89 of the Internal Revenue Code of 1986 (as added by this section) with respect to individuals described in section 223(d)(2) of such Act. An employer may elect to disregard such individuals in applying section 89 of such Code (as so added) to other employees of the employer.
+"(3) Exception for certain group-term insurance plans.—In the case of a plan described in section 223(d)(2) of the Tax Reform Act of 1984 [section 232(d)(2) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note below], such plan shall be treated as meeting the requirements of section 89 of the Internal Revenue Code of 1986 (as added by this section) with respect to individuals described in section 223(d)(2) of such Act. An employer may elect to disregard such individuals in applying section 89 of such Code (as so added) to other employees of the employer.
 
-“(4) Special rule for church plans.—In the case of a church plan (within the meaning of section 414(e)(3) of the Internal Revenue Code of 1986) maintaining an insured accident and health plan, the amendments made by this section [enacting section 89 of this title and amending this section and sections 105, 106, 117, 120, 125, 127, 129, 132, 414, 505, 6039D, and 6652 of this title] shall apply to years beginning after December 31, 1988.
+"(4) Special rule for church plans.—In the case of a church plan (within the meaning of section 414(e)(3) of the Internal Revenue Code of 1986) maintaining an insured accident and health plan, the amendments made by this section [enacting section 89 of this title and amending this section and sections 105, 106, 117, 120, 125, 127, 129, 132, 414, 505, 6039D, and 6652 of this title] shall apply to years beginning after December 31, 1988.
 
-“(5) Cafeteria plans.—The amendments made by subsection (d)(2) [amending sections 3121 and 3306 of this title and section 409 of Title 42, The Public Health and Welfare] shall apply to taxable years beginning after December 31, 1983.
+"(5) Cafeteria plans.—The amendments made by subsection (d)(2) [amending sections 3121 and 3306 of this title and section 409 of Title 42, The Public Health and Welfare] shall apply to taxable years beginning after December 31, 1983.
 
-“(6) Certain plans maintained by educational institutions.—If an educational organization described in section 170(b)(1)(A)(ii) of the Internal Revenue Code of 1986 makes an election under this paragraph with respect to a plan described in section 125(c)(2)(C) of such Code, the amendments made by this section shall apply with respect to such plan for plan years beginning after the date of the enactment of this Act [Oct. 22, 1986].”
+"(6) Certain plans maintained by educational institutions.—If an educational organization described in section 170(b)(1)(A)(ii) of the Internal Revenue Code of 1986 makes an election under this paragraph with respect to a plan described in section 125(c)(2)(C) of such Code, the amendments made by this section shall apply with respect to such plan for plan years beginning after the date of the enactment of this Act [Oct. 22, 1986]."
 
-Pub. L. 99–514, title XVIII, §1827(a)(2), Oct. 22, 1986, 100 Stat. 2850, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to taxable years ending after the date of the enactment of this Act [Oct. 22, 1986].”
+Pub. L. 99–514, title XVIII, §1827(a)(2), Oct. 22, 1986, 100 Stat. 2850, provided that: "The amendment made by paragraph (1) [amending this section] shall apply to taxable years ending after the date of the enactment of this Act [Oct. 22, 1986]."
 
 Amendment by section 1827(c), (d) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -210,27 +210,27 @@ Amendment by section 1827(c), (d) of Pub. L. 99–514 effective, except as other
 
 Pub. L. 98–369, div. A, title II, §223(d), July 18, 1984, 98 Stat. 775, as amended by Pub. L. 99–514, §2, title XVIII, §1827(b), Oct. 22, 1986, 100 Stat. 2095, 2850, provided that:
 
-“(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section and section 83 of this title] shall apply to taxable years beginning after December 31, 1983.
+"(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section and section 83 of this title] shall apply to taxable years beginning after December 31, 1983.
 
-“(2) Inclusion of former employees in the case of existing group-term insurance plans.—
+"(2) Inclusion of former employees in the case of existing group-term insurance plans.—
 
-“(A) In general.—The amendments made by subsection (a) [amending this section] shall not apply—
+"(A) In general.—The amendments made by subsection (a) [amending this section] shall not apply—
 
-“(i) to any group-term life insurance plan of the employer in existence on January 1, 1984, or
+"(i) to any group-term life insurance plan of the employer in existence on January 1, 1984, or
 
-“(ii) to any group-term life insurance plan of the employer (or a successor employer) which is a comparable successor to a plan described in clause (i),
+"(ii) to any group-term life insurance plan of the employer (or a successor employer) which is a comparable successor to a plan described in clause (i),
 
 but only with respect to an individual who attained age 55 on or before January 1, 1984, and was employed by such employer (or a predecessor employer) at any time during 1983. Such amendments also shall not apply to any employee who retired from employment on or before January 1, 1984, and who, when he retired, was covered by the plan (or a predecessor plan).
 
-“(B) Special rule in the case of discriminatory group-term life insurance plan.—In the case of any plan which, after December 31, 1986, is a discriminatory group-term life insurance plan (as defined in section 79(d) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]), subparagraph (A) shall not apply in the case of any individual retiring under such plan after December 31, 1986.
+"(B) Special rule in the case of discriminatory group-term life insurance plan.—In the case of any plan which, after December 31, 1986, is a discriminatory group-term life insurance plan (as defined in section 79(d) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]), subparagraph (A) shall not apply in the case of any individual retiring under such plan after December 31, 1986.
 
-“(C) Benefits to certain retired individuals not taken into account for purposes of determining whether plan is discriminatory.—For purposes of determining whether a plan described in subparagraph (A) meets the requirements of section 79(d) of the Internal Revenue Code of 1986 with respect to group-term life insurance for former employees, coverage provided to employees who retired on or before December 31, 1986, may, at the employer's election, be disregarded.
+"(C) Benefits to certain retired individuals not taken into account for purposes of determining whether plan is discriminatory.—For purposes of determining whether a plan described in subparagraph (A) meets the requirements of section 79(d) of the Internal Revenue Code of 1986 with respect to group-term life insurance for former employees, coverage provided to employees who retired on or before December 31, 1986, may, at the employer's election, be disregarded.
 
-“(D) Comparable successor plans.—For purposes of subparagraph (A), a plan shall not fail to be treated as a comparable successor to a plan described in subparagraph (A)(i) with respect to any employee whose benefits do not increase under the successor plan.”
+"(D) Comparable successor plans.—For purposes of subparagraph (A), a plan shall not fail to be treated as a comparable successor to a plan described in subparagraph (A)(i) with respect to any employee whose benefits do not increase under the successor plan."
 
 #### Effective Date of 1982 Amendment ####
 
-Pub. L. 97–248, title II, §244(b), Sept. 3, 1982, 96 Stat. 524, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1983.”
+Pub. L. 97–248, title II, §244(b), Sept. 3, 1982, 96 Stat. 524, provided that: "The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1983."
 
 #### Effective Date of 1965 Amendment ####
 
@@ -238,7 +238,7 @@ Amendment by Pub. L. 89–97 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date ####
 
-Pub. L. 88–272, title II, §204(d), Feb. 26, 1964, 78 Stat. 37, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) [amending this section and section 7701 of this title] and (c) [amending sections 6052 and 6678 of this title] and paragraph (3) of section 6652(a) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as amended by section 221(b)(2) of this Act), shall apply with respect to group-term life insurance provided after December 31, 1963, in taxable years ending after such date. The amendments made by subsection (b) [amending section 3401 of this title] shall apply with respect to remuneration paid after December 31, 1963, in the form of group-term life insurance provided after such date. In applying section 79(b) of the Internal Revenue Code of 1986 (as added by subsection (a)(1) of this section) to a taxable year beginning before May 1, 1964, if paragraph (2)(B) of such section applies with respect to an employee for the period beginning May 1, 1964, and ending with the close of his first taxable year ending after April 30, 1964, such paragraph (2)(B) shall be treated as applying with respect to such employee for the period beginning January 1, 1964, and ending April 30, 1964.”
+Pub. L. 88–272, title II, §204(d), Feb. 26, 1964, 78 Stat. 37, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by subsections (a) [amending this section and section 7701 of this title] and (c) [amending sections 6052 and 6678 of this title] and paragraph (3) of section 6652(a) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as amended by section 221(b)(2) of this Act), shall apply with respect to group-term life insurance provided after December 31, 1963, in taxable years ending after such date. The amendments made by subsection (b) [amending section 3401 of this title] shall apply with respect to remuneration paid after December 31, 1963, in the form of group-term life insurance provided after such date. In applying section 79(b) of the Internal Revenue Code of 1986 (as added by subsection (a)(1) of this section) to a taxable year beginning before May 1, 1964, if paragraph (2)(B) of such section applies with respect to an employee for the period beginning May 1, 1964, and ending with the close of his first taxable year ending after April 30, 1964, such paragraph (2)(B) shall be treated as applying with respect to such employee for the period beginning January 1, 1964, and ending April 30, 1964."
 
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990 ####
 

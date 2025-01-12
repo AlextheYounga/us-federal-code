@@ -6,7 +6,7 @@ As used in this section:
 
 #### (1) Area of concentrated public use ####
 
-The term “area of concentrated public use” means an area administered by the Secretary that meets each of the following criteria:
+The term "area of concentrated public use" means an area administered by the Secretary that meets each of the following criteria:
 
 (A) The area is managed primarily for outdoor recreation purposes.
 
@@ -18,11 +18,11 @@ The term “area of concentrated public use” means an area administered by the
 
 #### (2) Boat launching facility ####
 
-The term “boat launching facility” includes any boat launching facility, regardless of whether specialized facilities or services, such as mechanical or hydraulic boat lifts or facilities, are provided.
+The term "boat launching facility" includes any boat launching facility, regardless of whether specialized facilities or services, such as mechanical or hydraulic boat lifts or facilities, are provided.
 
 #### (3) Campground ####
 
-The term “campground” means any campground where a majority of the following amenities are provided, as determined by the Secretary:
+The term "campground" means any campground where a majority of the following amenities are provided, as determined by the Secretary:
 
 (A) Tent or trailer spaces.
 
@@ -42,7 +42,7 @@ The term “campground” means any campground where a majority of the following
 
 #### (4) Secretary ####
 
-The term “Secretary” means the Secretary of Agriculture.
+The term "Secretary" means the Secretary of Agriculture.
 
 #### (b) Authority to impose fees ####
 
@@ -50,7 +50,7 @@ The Secretary may charge—
 
 (1) admission or entrance fees at national monuments, national volcanic monuments, national scenic areas, and areas of concentrated public use administered by the Secretary; and
 
-(2) recreation use fees at lands administered by the Secretary in connection with the use of specialized outdoor recreation sites, equipment, services, and facilities, including visitors’ centers, picnic tables, boat launching facilities, and campgrounds.
+(2) recreation use fees at lands administered by the Secretary in connection with the use of specialized outdoor recreation sites, equipment, services, and facilities, including visitors' centers, picnic tables, boat launching facilities, and campgrounds.
 
 #### (c) Amount of fees ####
 

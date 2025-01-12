@@ -34,12 +34,12 @@ Sec.
 
 **1987**—Pub. L. 100–180, div. B, subdiv. 3, title II, §2325(b), Dec. 4, 1987, 101 Stat. 1221, added item 9781.
 
-**1982**—Pub. L. 97–214, §10(a)(9)(B), July 12, 1982, 96 Stat. 175, struck out item 9774 “Construction: limitations”.
+**1982**—Pub. L. 97–214, §10(a)(9)(B), July 12, 1982, 96 Stat. 175, struck out item 9774 "Construction: limitations".
 
-**1980**—Pub. L. 96–513, title V, §514(21), Dec. 12, 1980, 94 Stat. 2936, struck out item 9772 “Reservation and use for air base or testing field”.
+**1980**—Pub. L. 96–513, title V, §514(21), Dec. 12, 1980, 94 Stat. 2936, struck out item 9772 "Reservation and use for air base or testing field".
 
-**1973**—Pub. L. 93–166, title V, §509(e), Nov. 29, 1973, 87 Stat. 678, substituted “Construction: limitations” for “Construction of quarters: limitations on space and cost” in item 9774.
+**1973**—Pub. L. 93–166, title V, §509(e), Nov. 29, 1973, 87 Stat. 678, substituted "Construction: limitations" for "Construction of quarters: limitations on space and cost" in item 9774.
 
-**1971**—Pub. L. 92–145, title V, §509(b), Oct. 27, 1971, 85 Stat. 408, struck out item 9775 “Quarters: officers”.
+**1971**—Pub. L. 92–145, title V, §509(b), Oct. 27, 1971, 85 Stat. 408, struck out item 9775 "Quarters: officers".
 
 **1958**—Pub. L. 85–861, §1(203)(B), Sept. 2, 1958, 72 Stat. 1542, added item 9780.

@@ -24,7 +24,7 @@ To violate subsection (a), a person must have knowledge that the person or organ
 
 #### (d) Definition ####
 
-As used in this section, the term “anything of pecuniary value” has the meaning given the term in section 1958(b)(1) of title 18.
+As used in this section, the term "anything of pecuniary value" has the meaning given the term in section 1958(b)(1) of title 18.
 
 (Pub. L. 91–513, title III, §1010A, as added Pub. L. 109–177, title I, §122, Mar. 9, 2006, 120 Stat. 225.)
 

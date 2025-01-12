@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (1) Qualified payment ####
 
-The term “qualified payment” means any money or property which is transferred to any designated settlement fund pursuant to a court order, other than—
+The term "qualified payment" means any money or property which is transferred to any designated settlement fund pursuant to a court order, other than—
 
 (A) any amount which may be transferred from the fund to the taxpayer (or any related person), or
 
@@ -60,7 +60,7 @@ The term “qualified payment” means any money or property which is transferre
 
 #### (2) Designated settlement fund ####
 
-The term “designated settlement fund” means any fund—
+The term "designated settlement fund" means any fund—
 
 (A) which is established pursuant to a court order and which extinguishes completely the taxpayer's tort liability with respect to claims described in subparagraph (D),
 
@@ -78,11 +78,11 @@ An election under this section shall be made at such time and in such manner as 
 
 #### (3) Related person ####
 
-The term “related person” means a person related to the taxpayer within the meaning of section 267(b).
+The term "related person" means a person related to the taxpayer within the meaning of section 267(b).
 
 #### (e) Nonapplicability of section ####
 
-This section (other than subsection (g)) shall not apply with respect to any liability of the taxpayer arising under any workers’ compensation Act or any contested liability of the taxpayer within the meaning of section 461(f).
+This section (other than subsection (g)) shall not apply with respect to any liability of the taxpayer arising under any workers' compensation Act or any contested liability of the taxpayer within the meaning of section 461(f).
 
 #### (f) Other funds ####
 
@@ -106,7 +106,7 @@ An escrow account, settlement fund, or similar fund shall be treated as benefici
 
 (D) upon termination, any remaining funds will be disbursed to such government entity for use in accordance with applicable law.
 
-For purposes of this paragraph, the term “government entity” means the United States, any State or political subdivision thereof, the District of Columbia, any possession of the United States, and any agency or instrumentality of any of the foregoing.
+For purposes of this paragraph, the term "government entity" means the United States, any State or political subdivision thereof, the District of Columbia, any possession of the United States, and any agency or instrumentality of any of the foregoing.
 
 (Added Pub. L. 99–514, title XVIII, §1807(a)(7)(A), Oct. 22, 1986, 100 Stat. 2814; amended Pub. L. 100–647, title I, §1018(f)(1), (2), (4), (5)(A), Nov. 10, 1988, 102 Stat. 3582; Pub. L. 101–508, title XI, §11702(e)(1), Nov. 5, 1990, 104 Stat. 1388–515; Pub. L. 109–222, title II, §201(a), May 17, 2006, 120 Stat. 347; Pub. L. 109–432, div. A, title IV, §409(a), Dec. 20, 2006, 120 Stat. 2963.)
 
@@ -116,29 +116,29 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 
 #### Amendments ####
 
-**2006**—Subsec. (g). Pub. L. 109–222 reenacted heading without change and amended text of subsec. (g) generally. Prior to amendment, text read as follows: “Nothing in any provision of law shall be construed as providing that an escrow account, settlement fund, or similar fund is not subject to current income tax. The Secretary shall prescribe regulations providing for the taxation of any such account or fund whether as a grantor trust or otherwise.”
+**2006**—Subsec. (g). Pub. L. 109–222 reenacted heading without change and amended text of subsec. (g) generally. Prior to amendment, text read as follows: "Nothing in any provision of law shall be construed as providing that an escrow account, settlement fund, or similar fund is not subject to current income tax. The Secretary shall prescribe regulations providing for the taxation of any such account or fund whether as a grantor trust or otherwise."
 
-Subsec. (g)(3). Pub. L. 109–432 struck out heading and text of par. (3). Text read as follows: “Paragraph (2) shall not apply to accounts and funds established after December 31, 2010.”
+Subsec. (g)(3). Pub. L. 109–432 struck out heading and text of par. (3). Text read as follows: "Paragraph (2) shall not apply to accounts and funds established after December 31, 2010."
 
-**1990**—Subsec. (e). Pub. L. 101–508 substituted “This section (other than subsection (g))” for “This section”.
+**1990**—Subsec. (e). Pub. L. 101–508 substituted "This section (other than subsection (g))" for "This section".
 
-**1988**—Subsec. (b)(2). Pub. L. 100–647, §1018(f)(4)(B), substituted “No other” for “no other” in concluding provisions.
+**1988**—Subsec. (b)(2). Pub. L. 100–647, §1018(f)(4)(B), substituted "No other" for "no other" in concluding provisions.
 
-Subsec. (b)(2)(B). Pub. L. 100–647, §1018(f)(4)(A), substituted “a corporation.” for “the corporation,”.
+Subsec. (b)(2)(B). Pub. L. 100–647, §1018(f)(4)(A), substituted "a corporation." for "the corporation,".
 
-Subsec. (d)(1)(A). Pub. L. 100–647, §1018(f)(1), inserted “(or any related person)” after “taxpayer”.
+Subsec. (d)(1)(A). Pub. L. 100–647, §1018(f)(1), inserted "(or any related person)" after "taxpayer".
 
-Subsec. (d)(2)(A). Pub. L. 100–647, §1018(f)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “which is established pursuant to a court order,”.
+Subsec. (d)(2)(A). Pub. L. 100–647, §1018(f)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "which is established pursuant to a court order,".
 
-Subsec. (d)(2)(E). Pub. L. 100–647, §1018(f)(1), inserted “(or any related person)” after “taxpayer”.
+Subsec. (d)(2)(E). Pub. L. 100–647, §1018(f)(1), inserted "(or any related person)" after "taxpayer".
 
 Subsec. (g). Pub. L. 100–647, §1018(f)(5)(A), added subsec. (g).
 
 #### Effective Date of 2006 Amendment ####
 
-Pub. L. 109–432, div. A, title IV, §409(b), Dec. 20, 2006, 120 Stat. 2963, provided that: “The amendment made by this section [amending this section] shall take effect as if included in section 201 of the Tax Increase Prevention and Reconciliation Act of 2005 [Pub. L. 109–222].”
+Pub. L. 109–432, div. A, title IV, §409(b), Dec. 20, 2006, 120 Stat. 2963, provided that: "The amendment made by this section [amending this section] shall take effect as if included in section 201 of the Tax Increase Prevention and Reconciliation Act of 2005 [Pub. L. 109–222]."
 
-Pub. L. 109–222, title II, §201(b), May 17, 2006, 120 Stat. 348, provided that: “The amendment made by subsection (a) [amending this section] shall apply to accounts and funds established after the date of the enactment of this Act [May 17, 2006].”
+Pub. L. 109–222, title II, §201(b), May 17, 2006, 120 Stat. 348, provided that: "The amendment made by subsection (a) [amending this section] shall apply to accounts and funds established after the date of the enactment of this Act [May 17, 2006]."
 
 #### Effective Date of 1990 Amendment ####
 
@@ -158,13 +158,13 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Special Rule for Taxpayer in Bankruptcy Reorganization ####
 
-Pub. L. 99–514, title XVIII, §1807(a)(7)(C), Oct. 22, 1986, 100 Stat. 2816, as amended by Pub. L. 100–647, title I, §1018(f)(3), Nov. 10, 1988, 102 Stat. 3582, provided that: “In the case of any settlement fund which is established for claimants against a corporation which filed a petition for reorganization under chapter 11 of title 11, United States Code, on August 26, 1982, and which filed with a United States district court a first amended and restated plan of reorganization before March 1, 1986—
+Pub. L. 99–514, title XVIII, §1807(a)(7)(C), Oct. 22, 1986, 100 Stat. 2816, as amended by Pub. L. 100–647, title I, §1018(f)(3), Nov. 10, 1988, 102 Stat. 3582, provided that: "In the case of any settlement fund which is established for claimants against a corporation which filed a petition for reorganization under chapter 11 of title 11, United States Code, on August 26, 1982, and which filed with a United States district court a first amended and restated plan of reorganization before March 1, 1986—
 
-“(i) any portion of such fund which is established pursuant to a court order and with qualified payments, which meets the requirements of subparagraphs (C) and (D) of section 468B(d)(2) of the Internal Revenue Code of 1954 [now 1986] (as added by this paragraph), and with respect to which an election is made under subparagraph (F) thereof, shall be treated as a designated settlement fund for purposes of section 468B of such Code,
+"(i) any portion of such fund which is established pursuant to a court order and with qualified payments, which meets the requirements of subparagraphs (C) and (D) of section 468B(d)(2) of the Internal Revenue Code of 1954 [now 1986] (as added by this paragraph), and with respect to which an election is made under subparagraph (F) thereof, shall be treated as a designated settlement fund for purposes of section 468B of such Code,
 
-“(ii) such corporation (or any successor thereof) shall be liable for the tax imposed by section 468B of such Code on such portion of the fund (and the fund shall not be liable for such tax), such tax shall be deductible by the corporation, and the rate of tax under section 468B of such Code for any taxable year shall be equal to 15 percent, and
+"(ii) such corporation (or any successor thereof) shall be liable for the tax imposed by section 468B of such Code on such portion of the fund (and the fund shall not be liable for such tax), such tax shall be deductible by the corporation, and the rate of tax under section 468B of such Code for any taxable year shall be equal to 15 percent, and
 
-“(iii) any transaction by any portion of the fund not described in clause (i) shall be treated as a transaction made by the corporation.”
+"(iii) any transaction by any portion of the fund not described in clause (i) shall be treated as a transaction made by the corporation."
 
 #### Clarification of Law With Respect to Certain Funds ####
 

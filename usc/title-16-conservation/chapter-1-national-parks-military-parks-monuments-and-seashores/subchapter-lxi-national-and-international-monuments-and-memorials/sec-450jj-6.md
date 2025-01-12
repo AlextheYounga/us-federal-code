@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-There is hereby established the Jefferson National Expansion Memorial Commission (hereinafter in sections 450jj–6 to 450jj–9 of this title referred to as the “Commission”).
+There is hereby established the Jefferson National Expansion Memorial Commission (hereinafter in sections 450jj–6 to 450jj–9 of this title referred to as the "Commission").
 
 #### (b) Composition ####
 
@@ -82,6 +82,6 @@ The Commission may, for the purposes of carrying out the Commission's duties und
 
 (May 17, 1954, ch. 204, §7, as added Pub. L. 98–398, title II, §201(a), Aug. 24, 1984, 98 Stat. 1469.)
 
-[<sup>1</sup> So in original. Probably should be “subsection (b)”.](#450jj-6_1)
+[<sup>1</sup> So in original. Probably should be "subsection (b)".](#450jj-6_1)
 
-[<sup>2</sup> So in original. Probably should be “of”.](#450jj-6_2)
+[<sup>2</sup> So in original. Probably should be "of".](#450jj-6_2)

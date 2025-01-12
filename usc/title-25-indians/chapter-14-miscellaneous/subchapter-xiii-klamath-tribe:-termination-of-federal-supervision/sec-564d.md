@@ -22,7 +22,7 @@ Such amounts of Klamath tribal funds as may be required for the purposes of this
 
 #### Amendments ####
 
-**1958**—Subsec. (a)(3). Pub. L. 85–731, §§6, 7, struck out first proviso requiring that funds payable to the withdrawing members be distributed as each $200,000 accumulates, and substituted “who has elected to withdraw from the tribe may apply toward the purchase price up to 100 per centum of the amount estimated by the Secretary to be due him from the sale or taking of forest and marsh lands pursuant to subsections (b), (d), and (f) of section 564w–1 of this title, and up to 75 per centum of the amount estimated by the Secretary to be due him from the conversion of his interest in other tribal property” for “may apply toward the purchase price all or any part of the sum due him from the conversion of his interest in tribal property” in second proviso.
+**1958**—Subsec. (a)(3). Pub. L. 85–731, §§6, 7, struck out first proviso requiring that funds payable to the withdrawing members be distributed as each $200,000 accumulates, and substituted "who has elected to withdraw from the tribe may apply toward the purchase price up to 100 per centum of the amount estimated by the Secretary to be due him from the sale or taking of forest and marsh lands pursuant to subsections (b), (d), and (f) of section 564w–1 of this title, and up to 75 per centum of the amount estimated by the Secretary to be due him from the conversion of his interest in other tribal property" for "may apply toward the purchase price all or any part of the sum due him from the conversion of his interest in tribal property" in second proviso.
 
 Subsec. (a)(5). Pub. L. 85–731, §8, inserted sentence to provide that if no plan is satisfactory both to the members who elect to remain in the tribe and to the Secretary, the Secretary shall adopt a management plan.
 
@@ -30,25 +30,25 @@ Subsec. (a)(5). Pub. L. 85–731, §8, inserted sentence to provide that if no p
 
 Subsec. (a)(3). Pub. L. 85–132, §1(e), in second proviso provided that any person whose name appears on the final roll of the tribe, may purchase for his own account, but not as an agent for others, any such property in lots as offered for sale, and provided that if more than one right is exercised to purchase the same property, it be sold on the basis of competitive bids.
 
-Subsec. (a)(5). Pub. L. 85–132, §1(g), substituted “members who elect to remain in the tribe” for “tribe”.
+Subsec. (a)(5). Pub. L. 85–132, §1(g), substituted "members who elect to remain in the tribe" for "tribe".
 
 Subsec. (b). Pub. L. 85–132, §1(b), provided for partial reimbursement of the tribe for expenditures of tribal funds under this section, authorization of appropriation of the lesser of amount equal to one-half of such expenditures, or $550,000, in lieu of former provisions which charged expenses incident to par. (3) to members who withdraw from tribe, charged expenses under pars. (4) and (5) to members who remain in tribe, and charged all other expenses under this section to interests of both groups of members.
 
 #### Compensation for Services Pertaining to Enactment Prohibited ####
 
-Pub. L. 85–731, §3, Aug. 23, 1958, 72 Stat. 818, provided that: “No funds distributed pursuant to section 5 of the Act of August 13, 1954, as amended [this section], to members who withdraw from the tribe shall be paid to any person as compensation for services pertaining to the enactment of said Act or amendments thereto [this subchapter] and any person making or receiving such payments shall be guilty of a misdemeanor and shall be imprisoned for not more than six months and fined not more than $500.”
+Pub. L. 85–731, §3, Aug. 23, 1958, 72 Stat. 818, provided that: "No funds distributed pursuant to section 5 of the Act of August 13, 1954, as amended [this section], to members who withdraw from the tribe shall be paid to any person as compensation for services pertaining to the enactment of said Act or amendments thereto [this subchapter] and any person making or receiving such payments shall be guilty of a misdemeanor and shall be imprisoned for not more than six months and fined not more than $500."
 
 #### Termination of Contract With Management Specialists by Secretary of the Interior ####
 
-Pub. L. 85–731, §4, Aug. 23, 1958, 72 Stat. 819, provided that: “The Secretary of the Interior is directed to terminate the contract between him and the management specialists by giving immediately the sixty-day notice required by paragraph 18 of such contract. When the contract is terminated, all of the functions of the management specialists under section 5 of the Act of August 13, 1954, as amended [this section], shall be performed by the Secretary.”
+Pub. L. 85–731, §4, Aug. 23, 1958, 72 Stat. 819, provided that: "The Secretary of the Interior is directed to terminate the contract between him and the management specialists by giving immediately the sixty-day notice required by paragraph 18 of such contract. When the contract is terminated, all of the functions of the management specialists under section 5 of the Act of August 13, 1954, as amended [this section], shall be performed by the Secretary."
 
 #### Provisions Requiring Election To Withdraw or Remain in Tribe Following Appraisal as Unaffected ####
 
-Pub. L. 85–731, §5, Aug. 23, 1958, 72 Stat. 819, provided that: “Nothing in this Act shall in any way modify or repeal the provisions of subsection 5(a) of the Act of August 13, 1954, 68 Stat. 718), as amended [subsec. (a) of this section], providing for and requiring members of the Klamath Tribe to elect to withdraw from or remain in the tribe, following the appraisal of the tribal property.”
+Pub. L. 85–731, §5, Aug. 23, 1958, 72 Stat. 819, provided that: "Nothing in this Act shall in any way modify or repeal the provisions of subsection 5(a) of the Act of August 13, 1954, 68 Stat. 718), as amended [subsec. (a) of this section], providing for and requiring members of the Klamath Tribe to elect to withdraw from or remain in the tribe, following the appraisal of the tribal property."
 
 #### Cemeteries Within Reservation ####
 
-Pub. L. 85–731, §9, Aug. 23, 1958, 72 Stat. 819, provided that: “Except as provided below the provisions of the Act of August 13, 1954 (68 Stat. 718), as amended [this subchapter], shall not apply to cemeteries within the reservation. The Secretary is hereby authorized and directed to transfer title to such properties to any organization authorized by the tribe and approved by him. In the event such an organization is not formed by the tribe within eighteen months following enactment of this Act [August 23, 1958], the Secretary is directed to perfect the organization of a nonprofit entity empowered to accept title and maintain said cemeteries, any costs involved to be subject to the provisions of section 5(b) of said Act of August 13, 1954, as amended [subsec. (b) of this section].”
+Pub. L. 85–731, §9, Aug. 23, 1958, 72 Stat. 819, provided that: "Except as provided below the provisions of the Act of August 13, 1954 (68 Stat. 718), as amended [this subchapter], shall not apply to cemeteries within the reservation. The Secretary is hereby authorized and directed to transfer title to such properties to any organization authorized by the tribe and approved by him. In the event such an organization is not formed by the tribe within eighteen months following enactment of this Act [August 23, 1958], the Secretary is directed to perfect the organization of a nonprofit entity empowered to accept title and maintain said cemeteries, any costs involved to be subject to the provisions of section 5(b) of said Act of August 13, 1954, as amended [subsec. (b) of this section]."
 
 #### Deferral of Time for Sales of Tribal Property ####
 

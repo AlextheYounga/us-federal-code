@@ -234,12 +234,12 @@ The Commission shall prescribe rules governing the regulation of security-based 
 
 #### References in Text ####
 
-This chapter, referred to in subsec. (d)(9)(A)(ii), (10), (14)(B)(v), (C)(i)(I), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsec. (d)(9)(A)(ii), (10), (14)(B)(v), (C)(i)(I), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 #### Effective Date ####
 
 Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 77b of this title.
 
-[<sup>1</sup> So in original. Probably should be “take”.](#78c-4_1)
+[<sup>1</sup> So in original. Probably should be "take".](#78c-4_1)
 
 [<sup>2</sup> So in original.](#78c-4_2)

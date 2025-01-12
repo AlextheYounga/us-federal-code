@@ -4,7 +4,7 @@
 
 #### (1) 1-year carryback and 20-year carryforward ####
 
-If the sum of the business credit carryforwards to the taxable year plus the amount of the current year business credit for the taxable year exceeds the amount of the limitation imposed by subsection (c) of section 38 for such taxable year (hereinafter in this section referred to as the “unused credit year”), such excess (to the extent attributable to the amount of the current year business credit) shall be—
+If the sum of the business credit carryforwards to the taxable year plus the amount of the current year business credit for the taxable year exceeds the amount of the limitation imposed by subsection (c) of section 38 for such taxable year (hereinafter in this section referred to as the "unused credit year"), such excess (to the extent attributable to the amount of the current year business credit) shall be—
 
 (A) a business credit carryback to the taxable year preceding the unused credit year, and
 
@@ -28,13 +28,13 @@ Notwithstanding subsection (d), in the case of the marginal oil and gas well pro
 
 (A) this section shall be applied separately from the business credit (other than the marginal oil and gas well production credit) or the eligible small business credits,
 
-(B) paragraph (1) shall be applied by substituting “each of the 5 taxable years” for “the taxable year” in subparagraph (A) thereof, and
+(B) paragraph (1) shall be applied by substituting "each of the 5 taxable years" for "the taxable year" in subparagraph (A) thereof, and
 
 (C) paragraph (2) shall be applied—
 
-(i) by substituting “25 taxable years” for “21 taxable years” in subparagraph (A) thereof, and
+(i) by substituting "25 taxable years" for "21 taxable years" in subparagraph (A) thereof, and
 
-(ii) by substituting “24 taxable years” for “20 taxable years” in subparagraph (B) thereof.
+(ii) by substituting "24 taxable years" for "20 taxable years" in subparagraph (B) thereof.
 
 #### (4) 5-year carryback for eligible small business credits ####
 
@@ -42,17 +42,17 @@ Notwithstanding subsection (d), in the case of the marginal oil and gas well pro
 
 Notwithstanding subsection (d), in the case of eligible small business credits determined in the first taxable year of the taxpayer beginning in 2010—
 
-(i) paragraph (1) shall be applied by substituting “each of the 5 taxable years” for “the taxable year” in subparagraph (A) thereof, and
+(i) paragraph (1) shall be applied by substituting "each of the 5 taxable years" for "the taxable year" in subparagraph (A) thereof, and
 
 (ii) paragraph (2) shall be applied—
 
-(I) by substituting “25 taxable years” for “21 taxable years” in subparagraph (A) thereof, and
+(I) by substituting "25 taxable years" for "21 taxable years" in subparagraph (A) thereof, and
 
-(II) by substituting “24 taxable years” for “20 taxable years” in subparagraph (B) thereof.
+(II) by substituting "24 taxable years" for "20 taxable years" in subparagraph (B) thereof.
 
 #### (B) Eligible small business credits ####
 
-For purposes of this subsection, the term “eligible small business credits” has the meaning given such term by section 38(c)(5)(B).
+For purposes of this subsection, the term "eligible small business credits" has the meaning given such term by section 38(c)(5)(B).
 
 #### (b) Limitation on carrybacks ####
 
@@ -80,13 +80,13 @@ Another prior section 39 was renumbered section 37 of this title.
 
 #### Amendments ####
 
-**2010**—Subsec. (a)(3)(A). Pub. L. 111–240, §2012(b), inserted “or the eligible small business credits” after “credit)”.
+**2010**—Subsec. (a)(3)(A). Pub. L. 111–240, §2012(b), inserted "or the eligible small business credits" after "credit)".
 
 Subsec. (a)(4). Pub. L. 111–240, §2012(a), added par. (4).
 
-**2005**—Subsec. (a)(1)(A). Pub. L. 109–135, §412(g)(1), substituted “the taxable year” for “each of the 1 taxable years”.
+**2005**—Subsec. (a)(1)(A). Pub. L. 109–135, §412(g)(1), substituted "the taxable year" for "each of the 1 taxable years".
 
-Subsec. (a)(3)(B). Pub. L. 109–135, §412(g)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “paragraph (1) shall be applied by substituting ‘5 taxable years’ for ‘1 taxable years’ in subparagraph (A) thereof, and”.
+Subsec. (a)(3)(B). Pub. L. 109–135, §412(g)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "paragraph (1) shall be applied by substituting '5 taxable years' for '1 taxable years' in subparagraph (A) thereof, and".
 
 **2004**—Subsec. (a)(3). Pub. L. 108–357, §341(c), added par. (3).
 
@@ -98,15 +98,15 @@ Subsec. (d). Pub. L. 108–357, §245(b)(1), amended heading and text of subsec.
 
 **1998**—Subsec. (a)(2). Pub. L. 105–206 amended Pub. L. 105–34, §1083(a)(2). See 1997 Amendment note below.
 
-**1997**—Subsec. (a)(1). Pub. L. 105–34, §1083(a)(1), substituted “1-year” for “3-year” and “20-year” for “15-year” in heading, “1 taxable” for “3 taxable” in subpar. (A), and “20 taxable” for “15 taxable” in subpar. (B).
+**1997**—Subsec. (a)(1). Pub. L. 105–34, §1083(a)(1), substituted "1-year" for "3-year" and "20-year" for "15-year" in heading, "1 taxable" for "3 taxable" in subpar. (A), and "20 taxable" for "15 taxable" in subpar. (B).
 
-Subsec. (a)(2). Pub. L. 105–34, §1083(a)(2), as amended by Pub. L. 105–206, §6010(n), in subpar. (A), substituted “21 taxable” for “18 taxable”, and in subpar. (B), substituted “20 years” for “17 years” in heading and “20 taxable” for “17 taxable” in text.
+Subsec. (a)(2). Pub. L. 105–34, §1083(a)(2), as amended by Pub. L. 105–206, §6010(n), in subpar. (A), substituted "21 taxable" for "18 taxable", and in subpar. (B), substituted "20 years" for "17 years" in heading and "20 taxable" for "17 taxable" in text.
 
 Subsec. (d)(8). Pub. L. 105–34, §701(b)(1), added par. (8).
 
-**1996**—Subsec. (d)(5). Pub. L. 104–188, §1703(n)(1)(A), substituted “45A” for “45” in heading.
+**1996**—Subsec. (d)(5). Pub. L. 104–188, §1703(n)(1)(A), substituted "45A" for "45" in heading.
 
-Subsec. (d)(6). Pub. L. 104–188, §1703(n)(1)(B), substituted “45B” for “45” in heading.
+Subsec. (d)(6). Pub. L. 104–188, §1703(n)(1)(B), substituted "45B" for "45" in heading.
 
 Subsec. (d)(7). Pub. L. 104–188, §1205(c), added par. (7).
 
@@ -126,19 +126,19 @@ Pub. L. 101–508, §11511(b)(2), added par. (5) relating to carryback of enhanc
 
 **1988**—Subsec. (d)(4). Pub. L. 100–647 added par. (4).
 
-**1986**—Subsec. (d)(1)(A). Pub. L. 99–514, §1846(1), inserted “(as in effect before the enactment of the Tax Reform Act of 1984)”.
+**1986**—Subsec. (d)(1)(A). Pub. L. 99–514, §1846(1), inserted "(as in effect before the enactment of the Tax Reform Act of 1984)".
 
-Subsec. (d)(2)(B). Pub. L. 99–514, §1846(2), substituted “as defined in section 26(b)” for “as so defined in section 25(b)”.
+Subsec. (d)(2)(B). Pub. L. 99–514, §1846(2), substituted "as defined in section 26(b)" for "as so defined in section 25(b)".
 
 Subsec. (d)(3). Pub. L. 99–514, §231(d)(3)(C)(i), added par. (3).
 
 #### Effective Date of 2010 Amendment ####
 
-Pub. L. 111–240, title II, §2012(c), Sept. 27, 2010, 124 Stat. 2554, provided that: “The amendments made by this section [amending this section] shall apply to credits determined in taxable years beginning after December 31, 2009.”
+Pub. L. 111–240, title II, §2012(c), Sept. 27, 2010, 124 Stat. 2554, provided that: "The amendments made by this section [amending this section] shall apply to credits determined in taxable years beginning after December 31, 2009."
 
 #### Effective Date of 2004 Amendment ####
 
-Pub. L. 108–357, title II, §245(b)(2), Oct. 22, 2004, 118 Stat. 1448, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to taxable years ending after December 31, 2003.”
+Pub. L. 108–357, title II, §245(b)(2), Oct. 22, 2004, 118 Stat. 1448, provided that: "The amendment made by paragraph (1) [amending this section] shall apply with respect to taxable years ending after December 31, 2003."
 
 Amendment by section 245(b) of Pub. L. 108–357 applicable to taxable years beginning after Dec. 31, 2004, see section 245(e) of Pub. L. 108–357, set out as a note under section 38 of this title.
 
@@ -158,15 +158,15 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment ####
 
-Pub. L. 105–34, title VII, §701(d), Aug. 5, 1997, 111 Stat. 869, provided that: “Except as provided in subsection (c) [amending table of subchapters for this chapter], the amendments made by this section [enacting subchapter W of this chapter and amending this section and section 1016 of this title] shall take effect on the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title VII, §701(d), Aug. 5, 1997, 111 Stat. 869, provided that: "Except as provided in subsection (c) [amending table of subchapters for this chapter], the amendments made by this section [enacting subchapter W of this chapter and amending this section and section 1016 of this title] shall take effect on the date of the enactment of this Act [Aug. 5, 1997]."
 
-Pub. L. 105–34, title X, §1083(b), Aug. 5, 1997, 111 Stat. 951, provided that: “The amendments made by this section [amending this section] shall apply to credits arising in taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title X, §1083(b), Aug. 5, 1997, 111 Stat. 951, provided that: "The amendments made by this section [amending this section] shall apply to credits arising in taxable years beginning after December 31, 1997."
 
 #### Effective Date of 1996 Amendment ####
 
 Amendment by section 1205(c) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 45K of this title.
 
-Pub. L. 104–188, title I, §1703(o), Aug. 20, 1996, 110 Stat. 1878, provided that: “Any amendment made by this section [amending this section and sections 40, 59, 108, 117, 135, 143, 163, 904, 956A, 958, 1017, 1044, 1201, 1245, 1297, 1394, 1397B, 1561, 4001, 6033, 6427, 6501, 6655, and 9502 of this title, renumbering section 6714 of this title as section 6715, and amending provisions set out as notes under sections 38, 42, 197, and 1258 of this title and section 401 of Title 42, The Public Health and Welfare] shall take effect as if included in the provision of the Revenue Reconciliation Act of 1993 [Pub. L. 103–66, title XIII, ch. I, §§13001–13444] to which such amendment relates.”
+Pub. L. 104–188, title I, §1703(o), Aug. 20, 1996, 110 Stat. 1878, provided that: "Any amendment made by this section [amending this section and sections 40, 59, 108, 117, 135, 143, 163, 904, 956A, 958, 1017, 1044, 1201, 1245, 1297, 1394, 1397B, 1561, 4001, 6033, 6427, 6501, 6655, and 9502 of this title, renumbering section 6714 of this title as section 6715, and amending provisions set out as notes under sections 38, 42, 197, and 1258 of this title and section 401 of Title 42, The Public Health and Welfare] shall take effect as if included in the provision of the Revenue Reconciliation Act of 1993 [Pub. L. 103–66, title XIII, ch. I, §§13001–13444] to which such amendment relates."
 
 #### Effective Date of 1993 Amendment ####
 

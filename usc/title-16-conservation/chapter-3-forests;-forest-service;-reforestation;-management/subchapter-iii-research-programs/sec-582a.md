@@ -22,10 +22,10 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 #### Short Title ####
 
-Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, as amended, which is classified generally to this subchapter, is popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”.
+Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, as amended, which is classified generally to this subchapter, is popularly known as the "McIntire-Stennis Act of 1962" and also as the "McIntire-Stennis Cooperative Forestry Act".
 
 #### Reaffirmation of McIntire-Stennis Research Program ####
 
-Pub. L. 101–624, title XII, §1231, Nov. 28, 1990, 104 Stat. 3543, provided that: “It is the sense of Congress to reaffirm the importance of Public Law 87–788 (16 U.S.C. 582a et seq.) commonly known as the McIntire-Stennis Cooperative Forestry Act.”
+Pub. L. 101–624, title XII, §1231, Nov. 28, 1990, 104 Stat. 3543, provided that: "It is the sense of Congress to reaffirm the importance of Public Law 87–788 (16 U.S.C. 582a et seq.) commonly known as the McIntire-Stennis Cooperative Forestry Act."
 
 [<sup>1</sup> See References in Text note below.](#582a_1)

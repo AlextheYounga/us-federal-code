@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretaries of the Interior and of Health and Human Services to promulgate; time restriction ####
 
-(1) Except as may be specifically authorized in this subsection, or in any other provision of this subchapter, the Secretary of the Interior and the Secretary of Health and Human Services may not promulgate any regulation, nor impose any nonregulatory requirement, relating to self-determination contracts or the approval, award, or declination of such contracts, except that the Secretary of the Interior and the Secretary of Health and Human Services may promulgate regulations under this subchapter relating to chapter 171 of title 28, commonly known as the “Federal Tort Claims Act”, chapter 71 of title 41, declination and waiver procedures, appeal procedures, reassumption procedures, discretionary grant procedures for grants awarded under section 450h of this title, property donation procedures arising under section 450j(f) of this title, internal agency procedures relating to the implementation of this subchapter, retrocession and tribal organization relinquishment procedures, contract proposal contents, conflicts of interest, construction, programmatic reports and data requirements, procurement standards, property management standards, and financial management standards.
+(1) Except as may be specifically authorized in this subsection, or in any other provision of this subchapter, the Secretary of the Interior and the Secretary of Health and Human Services may not promulgate any regulation, nor impose any nonregulatory requirement, relating to self-determination contracts or the approval, award, or declination of such contracts, except that the Secretary of the Interior and the Secretary of Health and Human Services may promulgate regulations under this subchapter relating to chapter 171 of title 28, commonly known as the "Federal Tort Claims Act", chapter 71 of title 41, declination and waiver procedures, appeal procedures, reassumption procedures, discretionary grant procedures for grants awarded under section 450h of this title, property donation procedures arising under section 450j(f) of this title, internal agency procedures relating to the implementation of this subchapter, retrocession and tribal organization relinquishment procedures, contract proposal contents, conflicts of interest, construction, programmatic reports and data requirements, procurement standards, property management standards, and financial management standards.
 
 (2)(A) The regulations promulgated under this subchapter, including the regulations referred to in this subsection, shall be promulgated—
 
@@ -26,9 +26,9 @@ The Secretary of the Interior and the Secretary of Health and Human Services are
 
 (2)(A) In carrying out rulemaking processes under this subchapter, the Secretary of the Interior and the Secretary of Health and Human Services shall follow the guidance of—
 
-(i) subchapter III of chapter 5 of title 5, commonly known as the “Negotiated Rulemaking Act of 1990”; and
+(i) subchapter III of chapter 5 of title 5, commonly known as the "Negotiated Rulemaking Act of 1990"; and
 
-(ii) the recommendations of the Administrative Conference of the United States numbered 82–4 and 85–5 entitled “Procedures for Negotiating Proposed Regulations” under sections 305.82–4 and 305.85–5 of title 1, Code of Federal Regulations, and any successor recommendation or law (including any successor regulation).
+(ii) the recommendations of the Administrative Conference of the United States numbered 82–4 and 85–5 entitled "Procedures for Negotiating Proposed Regulations" under sections 305.82–4 and 305.85–5 of title 1, Code of Federal Regulations, and any successor recommendation or law (including any successor regulation).
 
 (B) The tribal participants in the negotiation process referred to in subparagraph (A) shall be nominated by and shall represent the groups described in this paragraph and shall include tribal representatives from all geographic regions.
 
@@ -50,52 +50,52 @@ The Indian Self-Determination Contract Reform Act of 1994, referred to in subsec
 
 #### Codification ####
 
-In subsec. (a)(1), “chapter 71 of title 41” substituted for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(1), "chapter 71 of title 41" substituted for "the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments ####
 
-**1996**—Subsec. (a)(2)(B). Pub. L. 104–133 substituted “20 months” for “18 months”.
+**1996**—Subsec. (a)(2)(B). Pub. L. 104–133 substituted "20 months" for "18 months".
 
 Subsec. (b). Pub. L. 104–287 repealed Pub. L. 103–437, §10(c)(2)(A). See 1994 Amendment note below.
 
-**1994**—Subsec. (a). Pub. L. 103–413, §105(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretaries of the Interior and of Health and Human Services are each authorized to perform any and all acts and to make such rules and regulations as may be necessary and proper for the purposes of carrying out the provisions of this subchapter: *Provided, however*, That all Federal requirements for self-determination contracts and grants under this Act shall be promulgated as regulations in conformity with sections 552 and 553 of title 5.”
+**1994**—Subsec. (a). Pub. L. 103–413, §105(1), added subsec. (a) and struck out former subsec. (a) which read as follows: "The Secretaries of the Interior and of Health and Human Services are each authorized to perform any and all acts and to make such rules and regulations as may be necessary and proper for the purposes of carrying out the provisions of this subchapter: *Provided, however*, That all Federal requirements for self-determination contracts and grants under this Act shall be promulgated as regulations in conformity with sections 552 and 553 of title 5."
 
 Subsec. (b). Pub. L. 103–437, §10(c)(2)(A), which directed that subsec. (b) be repealed, was itself repealed by Pub. L. 104–287, §6(e). See Effective Date and Construction of 1996 Amendment note below.
 
-Pub. L. 103–435, which directed substitution of “Committee on Natural Resources” for “Committee on Interior and Insular Affairs” in par. (2), could not be executed because “Committee on Interior and Insular Affairs” did not appear in text subsequent to amendment by Pub. L. 103–413, §105(1). See below.
+Pub. L. 103–435, which directed substitution of "Committee on Natural Resources" for "Committee on Interior and Insular Affairs" in par. (2), could not be executed because "Committee on Interior and Insular Affairs" did not appear in text subsequent to amendment by Pub. L. 103–413, §105(1). See below.
 
 Pub. L. 103–413, §105(1), added subsec. (b) and struck out former subsec. (b) which read as follows:
 
-“(b)(1) Within three months from October 5, 1988, the Secretary shall consider and formulate appropriate regulations to implement the provisions of this Act, with the participation of Indian tribes. Such proposed regulations shall contain all Federal requirements applicable to self-determination contracts and grants under this Act.
+"(b)(1) Within three months from October 5, 1988, the Secretary shall consider and formulate appropriate regulations to implement the provisions of this Act, with the participation of Indian tribes. Such proposed regulations shall contain all Federal requirements applicable to self-determination contracts and grants under this Act.
 
-“(2) Within six months from October 5, 1988, the Secretary shall present the proposed regulations to the Select Committee on Indian Affairs of the United States Senate and to the Committee on Interior and Insular Affairs of the United States House of Representatives.
+"(2) Within six months from October 5, 1988, the Secretary shall present the proposed regulations to the Select Committee on Indian Affairs of the United States Senate and to the Committee on Interior and Insular Affairs of the United States House of Representatives.
 
-“(3) Within seven months from October 5, 1988, the Secretary shall publish proposed regulations in the Federal Register for the purpose of receiving comments from tribes and other interested parties.
+"(3) Within seven months from October 5, 1988, the Secretary shall publish proposed regulations in the Federal Register for the purpose of receiving comments from tribes and other interested parties.
 
-“(4) Within ten months from October 5, 1988, the Secretary shall promulgate regulations to implement the provisions of such Act.”
+"(4) Within ten months from October 5, 1988, the Secretary shall promulgate regulations to implement the provisions of such Act."
 
-Subsec. (c). Pub. L. 103–437, §10(c)(2)(B), substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the United States Senate and House of Representatives”.
+Subsec. (c). Pub. L. 103–437, §10(c)(2)(B), substituted "Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives" for "Committees on Interior and Insular Affairs of the United States Senate and House of Representatives".
 
 Subsecs. (d), (e). Pub. L. 103–413, §105(2), added subsecs. (d) and (e).
 
-**1990**—Subsec. (c). Pub. L. 101–644 inserted “, with the participation of Indian tribes and tribal organizations,” after “authorized”.
+**1990**—Subsec. (c). Pub. L. 101–644 inserted ", with the participation of Indian tribes and tribal organizations," after "authorized".
 
-**1988**—Subsec. (a). Pub. L. 100–472, §207(a), substituted “Health and Human Services” for “Health, Education, and Welfare”, and inserted proviso relating to promulgation of Federal requirements for self-determination contracts as regulations.
+**1988**—Subsec. (a). Pub. L. 100–472, §207(a), substituted "Health and Human Services" for "Health, Education, and Welfare", and inserted proviso relating to promulgation of Federal requirements for self-determination contracts as regulations.
 
 Subsec. (b). Pub. L. 100–472, §207(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
-“(1) Within six months from January 4, 1975, the Secretary of the Interior and the Secretary of Health and Human Services shall each to the extent practicable, consult with national and regional Indian organizations to consider and formulate appropriate rules and regulations to implement the provisions of this subchapter.
+"(1) Within six months from January 4, 1975, the Secretary of the Interior and the Secretary of Health and Human Services shall each to the extent practicable, consult with national and regional Indian organizations to consider and formulate appropriate rules and regulations to implement the provisions of this subchapter.
 
-“(2) Within seven months from January 4, 1975, the Secretary of the Interior and the Secretary of Health and Human Services shall each present the proposed rules and regulations to the Committees on Interior and Insular Affairs of the United States Senate and House of Representatives.
+"(2) Within seven months from January 4, 1975, the Secretary of the Interior and the Secretary of Health and Human Services shall each present the proposed rules and regulations to the Committees on Interior and Insular Affairs of the United States Senate and House of Representatives.
 
-“(3) Within eight months from January 4, 1975, the Secretary of the Interior and the Secretary of Health and Human Services shall publish proposed rules and regulations in the Federal Register for the purpose of receiving comments from interested parties.
+"(3) Within eight months from January 4, 1975, the Secretary of the Interior and the Secretary of Health and Human Services shall publish proposed rules and regulations in the Federal Register for the purpose of receiving comments from interested parties.
 
-“(4) Within ten months from January 4, 1975, the Secretary of the Interior and the Secretary of Health and Human Services shall promulgate rules and regulations to implement the provisions of this subchapter.”
+"(4) Within ten months from January 4, 1975, the Secretary of the Interior and the Secretary of Health and Human Services shall promulgate rules and regulations to implement the provisions of this subchapter."
 
 #### Change of Name ####
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (c), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (c), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date and Construction of 1996 Amendment ####
 
-Pub. L. 104–287, §6(e), Oct. 11, 1996, 110 Stat. 3399, provided that: “Effective November 2, 1994, section 10(c)(2)(A) of the Act of November 2, 1994 (Public Law 103–437, 108 Stat. 4589) [amending this section], is repealed and section 107(b) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450k(b)), as amended by section 105(1) of the Indian Self-Determination Act (Public Law 103–413, 108 Stat. 4269), is revived and shall read as if section 10(c)(2)(A) of the Act of November 2, 1994 (Public Law 103–437, 108 Stat. 4589), had not been enacted.”
+Pub. L. 104–287, §6(e), Oct. 11, 1996, 110 Stat. 3399, provided that: "Effective November 2, 1994, section 10(c)(2)(A) of the Act of November 2, 1994 (Public Law 103–437, 108 Stat. 4589) [amending this section], is repealed and section 107(b) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450k(b)), as amended by section 105(1) of the Indian Self-Determination Act (Public Law 103–413, 108 Stat. 4269), is revived and shall read as if section 10(c)(2)(A) of the Act of November 2, 1994 (Public Law 103–437, 108 Stat. 4589), had not been enacted."

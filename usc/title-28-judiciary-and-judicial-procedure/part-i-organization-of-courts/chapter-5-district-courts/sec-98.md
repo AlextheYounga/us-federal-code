@@ -34,7 +34,7 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments ####
 
-**1984**—Subsec. (a). Pub. L. 98–353 inserted “, and Houma” after “New Orleans”.
+**1984**—Subsec. (a). Pub. L. 98–353 inserted ", and Houma" after "New Orleans".
 
 **1978**—Subsec. (c). Pub. L. 95–408 struck out par. (1) to (6) designations which had divided the parishes of Western District into six divisions.
 
@@ -48,14 +48,14 @@ Amendment by Pub. L. 95–408 effective 180 days after Oct. 2, 1978, with such a
 
 #### Effective Date of 1971 Amendment ####
 
-Pub. L. 92–208, §3(f), Dec. 18, 1971, 85 Stat. 742, provided that: “The provisions of this section [amending this section and sections 133 and 134 of this title and enacting provisions set out below] shall become effective one hundred and twenty days after the date of enactment of this Act [Dec. 18, 1971].”
+Pub. L. 92–208, §3(f), Dec. 18, 1971, 85 Stat. 742, provided that: "The provisions of this section [amending this section and sections 133 and 134 of this title and enacting provisions set out below] shall become effective one hundred and twenty days after the date of enactment of this Act [Dec. 18, 1971]."
 
 #### District Judge, United States Attorney, and United States Marshal for Middle District; Designation; Tenure; Appointment ####
 
 Pub. L. 92–208, §3(b), (c), Dec. 18, 1971, 85 Stat. 742, provided that:
 
-“(b) The district judge for the Eastern District of Louisiana holding office on the day immediately prior to the effective date of this section [see Effective Date of 1971 Amendment Note above], and whose official station on such date is Baton Rouge, shall, on and after such date, be the district judge for the Middle District of Louisiana. All other district judges for the Eastern District of Louisiana holding office on the day immediately prior to the effective date of this section shall be district judges for the Eastern District of Louisiana as constituted by this section.
+"(b) The district judge for the Eastern District of Louisiana holding office on the day immediately prior to the effective date of this section [see Effective Date of 1971 Amendment Note above], and whose official station on such date is Baton Rouge, shall, on and after such date, be the district judge for the Middle District of Louisiana. All other district judges for the Eastern District of Louisiana holding office on the day immediately prior to the effective date of this section shall be district judges for the Eastern District of Louisiana as constituted by this section.
 
-“(c)(1) Nothing in this section shall in any manner affect the tenure of office of the United States attorney and the United States marshal for the Eastern District of Louisiana who are in office on the effective date of this section, and who shall be during the remainder of their present terms of office the United States attorney and marshal for the Eastern District of Louisiana as constituted by this section.
+"(c)(1) Nothing in this section shall in any manner affect the tenure of office of the United States attorney and the United States marshal for the Eastern District of Louisiana who are in office on the effective date of this section, and who shall be during the remainder of their present terms of office the United States attorney and marshal for the Eastern District of Louisiana as constituted by this section.
 
-“(2) The President shall appoint, by and with the advice and consent of the Senate, a United States attorney and marshal for the Middle District of Louisiana.”
+"(2) The President shall appoint, by and with the advice and consent of the Senate, a United States attorney and marshal for the Middle District of Louisiana."

@@ -42,7 +42,7 @@ In awarding grants under this section, the Secretary shall give preference to el
 
 #### (3) Definition of eligible entity ####
 
-For purposes of this section, the term “eligible entity” means a public or nonprofit private entity (including a State or political subdivision of a State), or a consortium of any of such entities.
+For purposes of this section, the term "eligible entity" means a public or nonprofit private entity (including a State or political subdivision of a State), or a consortium of any of such entities.
 
 #### (b) Coordination with other children's programs ####
 
@@ -130,7 +130,7 @@ In determining the preference (if any) to be given to a State under this subsect
 
 #### (G) Civil liability protection law ####
 
-The certification required in subparagraph (F) shall be a certification made by the State attorney general that the State has reviewed any applicable civil liability protection law to determine the application of such law with regard to elementary and secondary school trained personnel who may administer epinephrine to a student reasonably believed to be having an anaphylactic reaction and has concluded that such law provides adequate civil liability protection applicable to such trained personnel. For purposes of the previous sentence, the term “civil liability protection law” means a State law offering legal protection to individuals who give aid on a voluntary basis in an emergency to an individual who is ill, in peril, or otherwise incapacitated.
+The certification required in subparagraph (F) shall be a certification made by the State attorney general that the State has reviewed any applicable civil liability protection law to determine the application of such law with regard to elementary and secondary school trained personnel who may administer epinephrine to a student reasonably believed to be having an anaphylactic reaction and has concluded that such law provides adequate civil liability protection applicable to such trained personnel. For purposes of the previous sentence, the term "civil liability protection law" means a State law offering legal protection to individuals who give aid on a voluntary basis in an emergency to an individual who is ill, in peril, or otherwise incapacitated.
 
 #### (2) Rule of construction ####
 
@@ -140,15 +140,15 @@ Nothing in this subsection creates a cause of action or in any other way increas
 
 For purposes of this subsection:
 
-(A) The terms “elementary school” and “secondary school” have the meaning given to those terms in section 7801 of title 20.
+(A) The terms "elementary school" and "secondary school" have the meaning given to those terms in section 7801 of title 20.
 
-(B) The term “health care practitioner” means a person authorized under law to prescribe drugs subject to section 353(b) of title 21.
+(B) The term "health care practitioner" means a person authorized under law to prescribe drugs subject to section 353(b) of title 21.
 
-(C) The term “medication” means a drug as that term is defined in section 321 of title 21 and includes inhaled bronchodilators and auto-injectable epinephrine.
+(C) The term "medication" means a drug as that term is defined in section 321 of title 21 and includes inhaled bronchodilators and auto-injectable epinephrine.
 
-(D) The term “self-administration” means a student's discretionary use of his or her prescribed asthma or anaphylaxis medication, pursuant to a prescription or written direction from a health care practitioner.
+(D) The term "self-administration" means a student's discretionary use of his or her prescribed asthma or anaphylaxis medication, pursuant to a prescription or written direction from a health care practitioner.
 
-(E) The term “trained personnel” means, with respect to an elementary or secondary school, an individual—
+(E) The term "trained personnel" means, with respect to an elementary or secondary school, an individual—
 
 (i) who has been designated by the principal (or other appropriate administrative staff) of the school to administer epinephrine on a voluntary basis outside their scope of employment;
 
@@ -182,40 +182,40 @@ Subsec. (d)(3)(E). Pub. L. 113–48, §2(2), added subpar. (E).
 
 #### Effective Date of 2004 Amendment ####
 
-Pub. L. 108–377, §3(b), Oct. 30, 2004, 118 Stat. 2204, provided that: “The amendments made by this section [amending this section] shall apply only with respect to grants made on or after the date that is 9 months after the date of the enactment of this Act [Oct. 30, 2004].”
+Pub. L. 108–377, §3(b), Oct. 30, 2004, 118 Stat. 2204, provided that: "The amendments made by this section [amending this section] shall apply only with respect to grants made on or after the date that is 9 months after the date of the enactment of this Act [Oct. 30, 2004]."
 
 #### Findings of 2004 Amendment ####
 
-Pub. L. 108–377, §2, Oct. 30, 2004, 118 Stat. 2202, provided that: “The Congress finds the following:
+Pub. L. 108–377, §2, Oct. 30, 2004, 118 Stat. 2202, provided that: "The Congress finds the following:
 
-“(1) Asthma is a chronic condition requiring lifetime, ongoing medical intervention.
+"(1) Asthma is a chronic condition requiring lifetime, ongoing medical intervention.
 
-“(2) In 1980, 6,700,000 Americans had asthma.
+"(2) In 1980, 6,700,000 Americans had asthma.
 
-“(3) In 2001, 20,300,000 Americans had asthma; 6,300,000 children under age 18 had asthma.
+"(3) In 2001, 20,300,000 Americans had asthma; 6,300,000 children under age 18 had asthma.
 
-“(4) The prevalence of asthma among African-American children was 40 percent greater than among Caucasian children, and more than 26 percent of all asthma deaths are in the African-American population.
+"(4) The prevalence of asthma among African-American children was 40 percent greater than among Caucasian children, and more than 26 percent of all asthma deaths are in the African-American population.
 
-“(5) In 2000, there were 1,800,000 asthma-related visits to emergency departments (more than 728,000 of these involved children under 18 years of age).
+"(5) In 2000, there were 1,800,000 asthma-related visits to emergency departments (more than 728,000 of these involved children under 18 years of age).
 
-“(6) In 2000, there were 465,000 asthma-related hospitalizations (214,000 of these involved children under 18 years of age).
+"(6) In 2000, there were 465,000 asthma-related hospitalizations (214,000 of these involved children under 18 years of age).
 
-“(7) In 2000, 4,487 people died from asthma, and of these 223 were children.
+"(7) In 2000, 4,487 people died from asthma, and of these 223 were children.
 
-“(8) According to the Centers for Disease Control and Prevention, asthma is a common cause of missed school days, accounting for approximately 14,000,000 missed school days annually.
+"(8) According to the Centers for Disease Control and Prevention, asthma is a common cause of missed school days, accounting for approximately 14,000,000 missed school days annually.
 
-“(9) According to the New England Journal of Medicine, working parents of children with asthma lose an estimated $1,000,000,000 a year in productivity.
+"(9) According to the New England Journal of Medicine, working parents of children with asthma lose an estimated $1,000,000,000 a year in productivity.
 
-“(10) At least 30 States have legislation protecting the rights of children to carry and self-administer asthma metered-dose inhalers, and at least 18 States expand this protection to epinephrine auto-injectors.
+"(10) At least 30 States have legislation protecting the rights of children to carry and self-administer asthma metered-dose inhalers, and at least 18 States expand this protection to epinephrine auto-injectors.
 
-“(11) Tragic refusals of schools to permit students to carry their inhalers and auto-injectable epinephrine have occurred, some resulting in death and spawning litigation.
+"(11) Tragic refusals of schools to permit students to carry their inhalers and auto-injectable epinephrine have occurred, some resulting in death and spawning litigation.
 
-“(12) School district medication policies must be developed with the safety of all students in mind. The immediate and correct use of asthma inhalers and auto-injectable epinephrine are necessary to avoid serious respiratory complications and improve health care outcomes.
+"(12) School district medication policies must be developed with the safety of all students in mind. The immediate and correct use of asthma inhalers and auto-injectable epinephrine are necessary to avoid serious respiratory complications and improve health care outcomes.
 
-“(13) No school should interfere with the patient-physician relationship.
+"(13) No school should interfere with the patient-physician relationship.
 
-“(14) Anaphylaxis, or anaphylactic shock, is a systemic allergic reaction that can kill within minutes. Anaphylaxis occurs in some asthma patients. According to the American Academy of Allergy, Asthma, and Immunology, people who have experienced symptoms of anaphylaxis previously are at risk for subsequent reactions and should carry an epinephrine auto-injector with them at all times, if prescribed.
+"(14) Anaphylaxis, or anaphylactic shock, is a systemic allergic reaction that can kill within minutes. Anaphylaxis occurs in some asthma patients. According to the American Academy of Allergy, Asthma, and Immunology, people who have experienced symptoms of anaphylaxis previously are at risk for subsequent reactions and should carry an epinephrine auto-injector with them at all times, if prescribed.
 
-“(15) An increasing number of students and school staff have life-threatening allergies. Exposure to the affecting allergen can trigger anaphylaxis. Anaphylaxis requires prompt medical intervention with an injection of epinephrine.”
+"(15) An increasing number of students and school staff have life-threatening allergies. Exposure to the affecting allergen can trigger anaphylaxis. Anaphylaxis requires prompt medical intervention with an injection of epinephrine."
 
 [<sup>1</sup> So in original. Two pars. (2) have been enacted.](#280g_1)

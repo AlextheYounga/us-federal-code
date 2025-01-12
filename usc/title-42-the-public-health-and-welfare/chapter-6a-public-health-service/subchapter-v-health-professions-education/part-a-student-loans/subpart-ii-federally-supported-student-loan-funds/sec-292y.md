@@ -50,7 +50,7 @@ A prior section 735 of act July 1, 1944, was classified to section 294h of this 
 
 #### Amendments ####
 
-**1998**—Subsec. (e)(2). Pub. L. 105–392 reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: “Amounts described in paragraph (1) that are returned to the Secretary before the fourth quarter of a fiscal year shall be obligated before the end of such fiscal year, and may not be obligated before the fourth quarter. For purposes of the preceding sentence, amounts returned to the Secretary during the last quarter of a fiscal year are deemed to have been returned during the first three quarters of the succeeding fiscal year.”
+**1998**—Subsec. (e)(2). Pub. L. 105–392 reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: "Amounts described in paragraph (1) that are returned to the Secretary before the fourth quarter of a fiscal year shall be obligated before the end of such fiscal year, and may not be obligated before the fourth quarter. For purposes of the preceding sentence, amounts returned to the Secretary during the last quarter of a fiscal year are deemed to have been returned during the first three quarters of the succeeding fiscal year."
 
 **1993**—Subsec. (f). Pub. L. 103–43 added subsec. (f).
 
@@ -58,4 +58,4 @@ A prior section 735 of act July 1, 1944, was classified to section 294h of this 
 
 #### Effective Date of 1992 Amendment ####
 
-Pub. L. 102–531, title III, §313(c), Oct. 27, 1992, 106 Stat. 3507, provided that: “The amendments described in this section [amending this section and sections 293j, 293l, 294n, 295j, 295l, 295n, 295o, 296k, and 298b–7 of this title, repealing section 297j of this title, redesignating subpart IV of part B of subchapter VI of this chapter as subpart III, and amending provisions set out as a note under section 295k of this title] are made, and take effect, immediately after the enactment of the bill, H.R. 3508, of the One Hundred Second Congress [Pub. L. 102–408, approved Oct. 13, 1992].”
+Pub. L. 102–531, title III, §313(c), Oct. 27, 1992, 106 Stat. 3507, provided that: "The amendments described in this section [amending this section and sections 293j, 293l, 294n, 295j, 295l, 295n, 295o, 296k, and 298b–7 of this title, repealing section 297j of this title, redesignating subpart IV of part B of subchapter VI of this chapter as subpart III, and amending provisions set out as a note under section 295k of this title] are made, and take effect, immediately after the enactment of the bill, H.R. 3508, of the One Hundred Second Congress [Pub. L. 102–408, approved Oct. 13, 1992]."

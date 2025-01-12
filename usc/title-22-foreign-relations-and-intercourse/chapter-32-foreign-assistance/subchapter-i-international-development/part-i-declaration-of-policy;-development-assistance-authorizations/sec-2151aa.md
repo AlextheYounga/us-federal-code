@@ -106,7 +106,7 @@ Not later than 3 months after October 21, 1998, and every 6 months thereafter, t
 
 #### (2) Definition ####
 
-In this subsection, the term “appropriate congressional committees” means—
+In this subsection, the term "appropriate congressional committees" means—
 
 (A) the Committee on International Relations and the Committee on Appropriations of the House of Representatives; and
 
@@ -118,19 +118,19 @@ In this section:
 
 #### (1) Developing or transitional country ####
 
-The term “developing or transitional country” means a country eligible to receive development assistance under this part.
+The term "developing or transitional country" means a country eligible to receive development assistance under this part.
 
 #### (2) International financial institution ####
 
-The term “international financial institution” means the International Monetary Fund, the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Multilateral Investment Guarantee Agency, the Asian Development Bank, the African Development Bank, the African Development Fund, the Inter-American Development Bank, the Inter-American Investment Corporation, the European Bank for Reconstruction and Development, and the Bank for Economic Cooperation and Development in the Middle East and North Africa.
+The term "international financial institution" means the International Monetary Fund, the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Multilateral Investment Guarantee Agency, the Asian Development Bank, the African Development Bank, the African Development Fund, the Inter-American Development Bank, the Inter-American Investment Corporation, the European Bank for Reconstruction and Development, and the Bank for Economic Cooperation and Development in the Middle East and North Africa.
 
 #### (3) Secretary ####
 
-The term “Secretary” means the Secretary of the Treasury.
+The term "Secretary" means the Secretary of the Treasury.
 
 #### (4) Technical assistance ####
 
-The term “technical assistance” includes—
+The term "technical assistance" includes—
 
 (A) the use of short-term and long-term expert advisers to assist foreign governments and foreign central banks for the purposes described in subsection (b)(1) of this section;
 
@@ -144,7 +144,7 @@ The term “technical assistance” includes—
 
 #### (5) Foreign participant ####
 
-The term “foreign participant” means the national of a developing or transitional country that is receiving assistance under the program established under subsection (a) of this section who has been designated to participate in activities under such program.
+The term "foreign participant" means the national of a developing or transitional country that is receiving assistance under the program established under subsection (a) of this section who has been designated to participate in activities under such program.
 
 #### (j) Authorization of appropriations ####
 
@@ -162,7 +162,7 @@ Amounts authorized to be appropriated under paragraph (1) are authorized to rema
 
 The Foreign Service Act of 1980, referred to in subsec. (d)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Chapter 9 of title I of the Foreign Service Act of 1980 is classified generally to subchapter IX (§4081 et seq.) of chapter 52 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
-This chapter, referred to in subsec. (d)(4), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (d)(4), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification ####
 

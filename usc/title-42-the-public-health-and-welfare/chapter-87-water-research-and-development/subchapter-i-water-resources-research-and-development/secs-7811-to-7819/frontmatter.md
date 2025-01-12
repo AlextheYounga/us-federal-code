@@ -12,7 +12,7 @@ Section 7815, Pub. L. 95–467, title I, §105, Oct. 17, 1978, 92 Stat. 1308, pr
 
 Section 7816, Pub. L. 95–467, title I, §106, Oct. 17, 1978, 92 Stat. 1309, set out range of program issues and provided for due consideration to be given to priority problems.
 
-Section 7817, Pub. L. 95–467, title I, §107, Oct. 17, 1978, 92 Stat. 1309, defined “State”.
+Section 7817, Pub. L. 95–467, title I, §107, Oct. 17, 1978, 92 Stat. 1309, defined "State".
 
 Section 7818, Pub. L. 95–467, title I, §108, Oct. 17, 1978, 92 Stat. 1309, authorized advance payment of initial expenses.
 

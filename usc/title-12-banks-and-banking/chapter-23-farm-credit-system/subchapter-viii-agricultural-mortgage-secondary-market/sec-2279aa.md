@@ -4,7 +4,7 @@ For purposes of this subchapter:
 
 #### (1) Agricultural real estate ####
 
-The term “agricultural real estate” means—
+The term "agricultural real estate" means—
 
 (A) a parcel or parcels of land, or a building or structure affixed to the parcel or parcels, that—
 
@@ -20,7 +20,7 @@ The term “agricultural real estate” means—
 
 #### (2) Board ####
 
-The term “Board” means—
+The term "Board" means—
 
 (A) the interim board of directors established in section 2279aa–2(a) of this title; and
 
@@ -30,7 +30,7 @@ as the case may be.
 
 #### (3) Certified facility ####
 
-The term “certified facility” means—
+The term "certified facility" means—
 
 (A) an agricultural mortgage marketing facility that is certified under section 2279aa–5 of this title; or
 
@@ -38,27 +38,27 @@ The term “certified facility” means—
 
 #### (4) Corporation ####
 
-The term “Corporation” means the Federal Agricultural Mortgage Corporation established in section 2279aa–1 of this title.
+The term "Corporation" means the Federal Agricultural Mortgage Corporation established in section 2279aa–1 of this title.
 
 #### (5) Guarantee ####
 
-The term “guarantee” means the guarantee of timely payment of the principal and interest on securities representing interests in, or obligations backed by, pools of qualified loans, in accordance with this subchapter.
+The term "guarantee" means the guarantee of timely payment of the principal and interest on securities representing interests in, or obligations backed by, pools of qualified loans, in accordance with this subchapter.
 
 #### (6) Interim board ####
 
-The term “interim board” means the interim board of directors established in section 2279aa–2(a) of this title.
+The term "interim board" means the interim board of directors established in section 2279aa–2(a) of this title.
 
 #### (7) Originator ####
 
-The term “originator” means any Farm Credit System institution, bank, insurance company, business and industrial development company, savings and loan association, association of agricultural producers, agricultural cooperative, commercial finance company, trust company, credit union, or other entity that originates and services agricultural mortgage loans.
+The term "originator" means any Farm Credit System institution, bank, insurance company, business and industrial development company, savings and loan association, association of agricultural producers, agricultural cooperative, commercial finance company, trust company, credit union, or other entity that originates and services agricultural mortgage loans.
 
 #### (8) Permanent board ####
 
-The term “permanent board” means the permanent board of directors established in section 2279aa–2(b) of this title.
+The term "permanent board" means the permanent board of directors established in section 2279aa–2(b) of this title.
 
 #### (9) Qualified loan ####
 
-The term “qualified loan” means an obligation—
+The term "qualified loan" means an obligation—
 
 (A)(i) that is secured by a fee-simple or leasehold mortgage with status as a first lien, on agricultural real estate located in the United States that is not subject to any legal or equitable claims deriving from a preceding fee-simple or leasehold mortgage;
 
@@ -80,7 +80,7 @@ The term “qualified loan” means an obligation—
 
 #### (10) State ####
 
-The term “State” has the meaning given such term in section 2277a of this title.
+The term "State" has the meaning given such term in section 2277a of this title.
 
 (Pub. L. 92–181, title VIII, §8.0, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1686; amended Pub. L. 100–399, title VI, §601(a), Aug. 17, 1988, 102 Stat. 1005; Pub. L. 101–624, title XVIII, §1839, Nov. 28, 1990, 104 Stat. 3834; Pub. L. 104–105, title I, §§101, 102, 108(c)(1), 109(b)(1), Feb. 10, 1996, 110 Stat. 163–165; Pub. L. 110–234, title V, §5406(a), May 22, 2008, 122 Stat. 1158; Pub. L. 110–246, §4(a), title V, §5406(a), June 18, 2008, 122 Stat. 1664, 1920.)
 
@@ -98,29 +98,29 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **2008**—Par. (9)(C). Pub. L. 110–246, §5406(a), added subpar. (C).
 
-**1996**—Par. (1)(B)(ii). Pub. L. 104–105, §101, substituted “, excluding the land to which the dwelling is affixed, with a value” for “with a purchase price”.
+**1996**—Par. (1)(B)(ii). Pub. L. 104–105, §101, substituted ", excluding the land to which the dwelling is affixed, with a value" for "with a purchase price".
 
-Par. (3)(A). Pub. L. 104–105, §102(1), substituted “an agricultural mortgage marketing” for “a secondary marketing agricultural loan”.
+Par. (3)(A). Pub. L. 104–105, §102(1), substituted "an agricultural mortgage marketing" for "a secondary marketing agricultural loan".
 
-Par. (3)(B). Pub. L. 104–105, §102(2), struck out “, but only with respect to qualified loans described in paragraph (9)(B)” after “thereof”.
+Par. (3)(B). Pub. L. 104–105, §102(2), struck out ", but only with respect to qualified loans described in paragraph (9)(B)" after "thereof".
 
-Par. (9)(B)(i). Pub. L. 104–105, §§108(c)(1), 109(b)(1), substituted “(d)” for “(f)” and “2279aa–8” for “2279aa–7, 2279aa–8,”.
+Par. (9)(B)(i). Pub. L. 104–105, §§108(c)(1), 109(b)(1), substituted "(d)" for "(f)" and "2279aa–8" for "2279aa–7, 2279aa–8,".
 
-**1990**—Par. (3). Pub. L. 101–624, §1839(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘certified facility’ means a secondary marketing agricultural loan facility that is certified under section 2279aa–5 of this title.”
+**1990**—Par. (3). Pub. L. 101–624, §1839(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The term 'certified facility' means a secondary marketing agricultural loan facility that is certified under section 2279aa–5 of this title."
 
-Par. (9). Pub. L. 101–624, §1839(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “The term ‘qualified loan’ means an obligation that—
+Par. (9). Pub. L. 101–624, §1839(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: "The term 'qualified loan' means an obligation that—
 
-“(A) is secured by a fee-simple or leasehold mortgage with status as a first lien on agricultural real estate located in the United States that is not subject to any legal or equitable claims deriving from a preceding fee-simple or leasehold mortgage;
+"(A) is secured by a fee-simple or leasehold mortgage with status as a first lien on agricultural real estate located in the United States that is not subject to any legal or equitable claims deriving from a preceding fee-simple or leasehold mortgage;
 
-“(B) is an obligation of—
+"(B) is an obligation of—
 
-“(i) a citizen or national of the United States or an alien lawfully admitted for permanent residence in the United States; or
+"(i) a citizen or national of the United States or an alien lawfully admitted for permanent residence in the United States; or
 
-“(ii) a private corporation or partnership whose members, stockholders, or partners holding a majority interest in the corporation or partnership are individuals described in clause (i); and
+"(ii) a private corporation or partnership whose members, stockholders, or partners holding a majority interest in the corporation or partnership are individuals described in clause (i); and
 
-“(C) is an obligation of a person, corporation, or partnership that has training or farming experience that, under criteria established by the Corporation, is sufficient to ensure a reasonable likelihood that the loan will be repaid according to its terms.”
+"(C) is an obligation of a person, corporation, or partnership that has training or farming experience that, under criteria established by the Corporation, is sufficient to ensure a reasonable likelihood that the loan will be repaid according to its terms."
 
-**1988**—Par. (9)(B)(ii). Pub. L. 100–399 substituted “holding” for “hold” and struck out “and” before “are”.
+**1988**—Par. (9)(B)(ii). Pub. L. 100–399 substituted "holding" for "hold" and struck out "and" before "are".
 
 #### Effective Date of 2008 Amendment ####
 
@@ -132,21 +132,21 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 #### Statement of Purpose ####
 
-Pub. L. 100–233, title VII, §701, Jan. 6, 1988, 101 Stat. 1686, provided that: “It is the purpose of this subtitle [subtitle A (§§701–705) of title VII of Pub. L. 100–233, enacting this subchapter, amending sections 2012, 2033, 2072, and 2093 of this title and section 9105 of Title 31, Money and Finance, and enacting provisions set out as a note below]—
+Pub. L. 100–233, title VII, §701, Jan. 6, 1988, 101 Stat. 1686, provided that: "It is the purpose of this subtitle [subtitle A (§§701–705) of title VII of Pub. L. 100–233, enacting this subchapter, amending sections 2012, 2033, 2072, and 2093 of this title and section 9105 of Title 31, Money and Finance, and enacting provisions set out as a note below]—
 
-“(1) to establish a corporation chartered by the Federal Government;
+"(1) to establish a corporation chartered by the Federal Government;
 
-“(2) to authorize the certification of agricultural mortgage marketing facilities by the corporation;
+"(2) to authorize the certification of agricultural mortgage marketing facilities by the corporation;
 
-“(3) to provide for a secondary marketing arrangement for agricultural real estate mortgages that meet the underwriting standards of the corporation—
+"(3) to provide for a secondary marketing arrangement for agricultural real estate mortgages that meet the underwriting standards of the corporation—
 
-“(A) to increase the availability of long-term credit to farmers and ranchers at stable interest rates;
+"(A) to increase the availability of long-term credit to farmers and ranchers at stable interest rates;
 
-“(B) to provide greater liquidity and lending capacity in extending credit to farmers and ranchers; and
+"(B) to provide greater liquidity and lending capacity in extending credit to farmers and ranchers; and
 
-“(C) to provide an arrangement for new lending to facilitate capital market investments in providing long-term agricultural funding, including funds at fixed rates of interest; and
+"(C) to provide an arrangement for new lending to facilitate capital market investments in providing long-term agricultural funding, including funds at fixed rates of interest; and
 
-“(4) to enhance the ability of individuals in small rural communities to obtain financing for moderate-priced homes.”
+"(4) to enhance the ability of individuals in small rural communities to obtain financing for moderate-priced homes."
 
 #### GAO Studies ####
 

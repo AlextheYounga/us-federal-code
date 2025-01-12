@@ -14,35 +14,35 @@ The provisions regarding appointment of the Assistant Commandant and Engineer in
 
 #### Amendments ####
 
-**2010**—Pub. L. 111–281 substituted “Vice commandant; appointment” for “Vice Commandant; assignment” in section catchline and “section 51(d)” for “subsection 51(d)” in text.
+**2010**—Pub. L. 111–281 substituted "Vice commandant; appointment" for "Vice Commandant; assignment" in section catchline and "section 51(d)" for "subsection 51(d)" in text.
 
-**1993**—Pub. L. 103–206 struck out “; retirement” after “assignment” in section catchline, struck out “(a)” before “The President may appoint”, substituted “The appointment and grade of a Vice Commandant shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in subsection 51(d) of this title.” for “The appointment of a Vice Commandant shall be effective on the date the officer assumes such duty, and shall terminate on the date he is detached from such duty.”, and struck out subsecs. (b) to (d) which read as follows:
+**1993**—Pub. L. 103–206 struck out "; retirement" after "assignment" in section catchline, struck out "(a)" before "The President may appoint", substituted "The appointment and grade of a Vice Commandant shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in subsection 51(d) of this title." for "The appointment of a Vice Commandant shall be effective on the date the officer assumes such duty, and shall terminate on the date he is detached from such duty.", and struck out subsecs. (b) to (d) which read as follows:
 
-“(b) A Vice Commandant, while so serving, who is retired for physical disability shall be placed on the retired list with the grade of vice admiral.
+"(b) A Vice Commandant, while so serving, who is retired for physical disability shall be placed on the retired list with the grade of vice admiral.
 
-“(c) An officer who is retired while serving as Vice Commandant, or who, after serving at least two and one-half years as Vice Commandant, is retired after completion of that service while serving in a lower rank or grade, may, in the discretion of the President, be retired with the grade of vice admiral.
+"(c) An officer who is retired while serving as Vice Commandant, or who, after serving at least two and one-half years as Vice Commandant, is retired after completion of that service while serving in a lower rank or grade, may, in the discretion of the President, be retired with the grade of vice admiral.
 
-“(d) An officer who, after serving less than two and one-half years as Vice Commandant, is retired after completion of that service while serving in a lower rank or grade, shall be retired in his permanent grade.”
+"(d) An officer who, after serving less than two and one-half years as Vice Commandant, is retired after completion of that service while serving in a lower rank or grade, shall be retired in his permanent grade."
 
-**1986**—Subsecs. (b), (c). Pub. L. 99–348, §205(b)(2)(A), struck out “and retired pay” after “with the grade”.
+**1986**—Subsecs. (b), (c). Pub. L. 99–348, §205(b)(2)(A), struck out "and retired pay" after "with the grade".
 
-Subsec. (d). Pub. L. 99–348, §205(b)(2)(B), struck out “and with the retired pay of that grade” after “permanent grade”.
+Subsec. (d). Pub. L. 99–348, §205(b)(2)(B), struck out "and with the retired pay of that grade" after "permanent grade".
 
-**1982**—Subsec. (a). Pub. L. 97–295 substituted “a” for “an” before “Vice Commandant”.
+**1982**—Subsec. (a). Pub. L. 97–295 substituted "a" for "an" before "Vice Commandant".
 
-**1972**—Subsec. (a). Pub. L. 92–451 substituted “Vice Commandant” for “Assistant Commandant” in four places, and “above the grade of captain” for “in the grade of captain or above” in second sentence.
+**1972**—Subsec. (a). Pub. L. 92–451 substituted "Vice Commandant" for "Assistant Commandant" in four places, and "above the grade of captain" for "in the grade of captain or above" in second sentence.
 
-Subsec. (b). Pub. L. 92–451 substituted “A Vice Commandant” for “An Assistant Commandant”.
+Subsec. (b). Pub. L. 92–451 substituted "A Vice Commandant" for "An Assistant Commandant".
 
-Subsecs. (c), (d). Pub. L. 92–451 substituted “Vice Commandant” for “Assistant Commandant” wherever appearing.
+Subsecs. (c), (d). Pub. L. 92–451 substituted "Vice Commandant" for "Assistant Commandant" wherever appearing.
 
 **1966**—Subsec. (c). Pub. L. 89–444, §1(6), struck out requirement that Assistant Commandant serve 2½ years as Assistant Commandant before becoming eligible for retirement with the grade and pay of vice admiral.
 
 Subsec. (d). Pub. L. 89–444, §1(7), struck out provision that section 334 of this title, which covers cases of retirement when a higher grade has been held, shall not apply to an officer retiring within 2½ years of the date of his original assignment as Assistant Commandant.
 
-**1963**—Subsec. (a). Pub. L. 88–130, §1(5), substituted “officers on the active duty promotion list serving in the grade of captain or above” for “active list of officers who hold a permanent commission as captain or above”.
+**1963**—Subsec. (a). Pub. L. 88–130, §1(5), substituted "officers on the active duty promotion list serving in the grade of captain or above" for "active list of officers who hold a permanent commission as captain or above".
 
-Subsec. (d). Pub. L. 88–130, §1(6), substituted “section 334” for “section 243”.
+Subsec. (d). Pub. L. 88–130, §1(6), substituted "section 334" for "section 243".
 
 **1960**—Pub. L. 86–474 amended section generally, and, among other changes, required Assistant Commandant to be appointed from the active list of officers who hold a permanent commission as captain or above, raised grade of Assistant Commandant from rear admiral to vice admiral, increased his pay and allowances from that of a rear admiral (upper half) to that of a vice admiral, struck out provisions which related to an Engineer in Chief, and added subsecs. (b) to (d).
 

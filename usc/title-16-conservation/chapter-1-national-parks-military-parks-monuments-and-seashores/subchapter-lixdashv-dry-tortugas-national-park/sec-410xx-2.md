@@ -16,7 +16,7 @@ The Secretary is authorized to lease or to acquire, by purchase, donation, or ex
 
 #### References in Text ####
 
-Section 201 of the Act of June 28, 1980 (Public Law 96–287), referred to in subsec. (a), appears in a table under the heading “National Monuments Established Under Presidential Proclamation”, set out as a note under section 431 of this title.
+Section 201 of the Act of June 28, 1980 (Public Law 96–287), referred to in subsec. (a), appears in a table under the heading "National Monuments Established Under Presidential Proclamation", set out as a note under section 431 of this title.
 
 #### Transfer of Functions ####
 

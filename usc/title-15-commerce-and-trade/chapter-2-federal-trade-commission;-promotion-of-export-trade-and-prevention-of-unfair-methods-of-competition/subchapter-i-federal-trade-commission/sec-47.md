@@ -6,7 +6,7 @@ In any suit in equity brought by or under the direction of the Attorney General 
 
 #### References in Text ####
 
-The words “In any suit in equity brought by or under the direction of the Attorney General as provided in the antitrust Acts” have reference to actions under sections 4, 9, and 25 of this title.
+The words "In any suit in equity brought by or under the direction of the Attorney General as provided in the antitrust Acts" have reference to actions under sections 4, 9, and 25 of this title.
 
 #### Transfer of Functions ####
 

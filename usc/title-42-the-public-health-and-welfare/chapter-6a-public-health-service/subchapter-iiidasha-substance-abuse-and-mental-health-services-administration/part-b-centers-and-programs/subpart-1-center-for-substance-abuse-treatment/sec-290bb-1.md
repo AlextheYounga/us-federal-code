@@ -92,7 +92,7 @@ With respect to the principal agency of the State involved that administers prog
 
 (ii) A determination by the Director of whether an entity referred to in clause (i) meets the criteria for a waiver under such clause shall be made without regard to whether the entity accepts voluntary donations regarding the provision of services to the public.
 
-(C) With respect to any authorized service that is available pursuant to the State plan described in subparagraph (A), the requirements established in such subparagraph shall not apply to the provision of any such service by an institution for mental diseases to an individual who has attained 21 years of age and who has not attained 65 years of age. For purposes of the preceding sentence, the term “institution for mental diseases” has the meaning given such term in section 1905(i) of the Social Security Act [42 U.S.C. 1396d(i)].
+(C) With respect to any authorized service that is available pursuant to the State plan described in subparagraph (A), the requirements established in such subparagraph shall not apply to the provision of any such service by an institution for mental diseases to an individual who has attained 21 years of age and who has not attained 65 years of age. For purposes of the preceding sentence, the term "institution for mental diseases" has the meaning given such term in section 1905(i) of the Social Security Act [42 U.S.C. 1396d(i)].
 
 #### (f) Requirement of matching funds ####
 
@@ -170,15 +170,15 @@ Not later than October 1, 1994, the Director shall submit to the Committee on En
 
 For purposes of this section:
 
-(1) The term “authorized services” means treatment services and supplemental services.
+(1) The term "authorized services" means treatment services and supplemental services.
 
-(2) The term “eligible woman” means a woman who has been admitted to a program operated pursuant to subsection (a) of this section.
+(2) The term "eligible woman" means a woman who has been admitted to a program operated pursuant to subsection (a) of this section.
 
-(3) The term “funding agreement under subsection (a)” of this section, with respect to an award under subsection (a) of this section, means that the Director may make the award only if the applicant makes the agreement involved.
+(3) The term "funding agreement under subsection (a)" of this section, with respect to an award under subsection (a) of this section, means that the Director may make the award only if the applicant makes the agreement involved.
 
-(4) The term “treatment services” means treatment for substance abuse, including the counseling and services described in subsection (c)(2) of this section.
+(4) The term "treatment services" means treatment for substance abuse, including the counseling and services described in subsection (c)(2) of this section.
 
-(5) The term “supplemental services” means the services described in subsection (d) of this section.
+(5) The term "supplemental services" means the services described in subsection (d) of this section.
 
 #### (r) Authorization of appropriations ####
 
@@ -214,20 +214,20 @@ Section effective Oct. 1, 1992, with provision for programs providing financial 
 
 Pub. L. 102–321, title I, §108(b), July 10, 1992, 106 Stat. 341, provided that:
 
-“(1) Savings provision for completion of current projects.—
+"(1) Savings provision for completion of current projects.—
 
-“(A) Subject to paragraph (2), in the case of any project for which a grant under former section 509F [former 42 U.S.C. 290aa–13] was provided for fiscal year 1992, the Secretary of Health and Human Services may continue in effect the grant for fiscal year 1993 and subsequent fiscal years, subject to the duration of any such grant not exceeding the period determined by the Secretary in first approving the grant. Subject to approval by the Administrator, such grants may be administered by the Center for Substance Abuse Prevention.
+"(A) Subject to paragraph (2), in the case of any project for which a grant under former section 509F [former 42 U.S.C. 290aa–13] was provided for fiscal year 1992, the Secretary of Health and Human Services may continue in effect the grant for fiscal year 1993 and subsequent fiscal years, subject to the duration of any such grant not exceeding the period determined by the Secretary in first approving the grant. Subject to approval by the Administrator, such grants may be administered by the Center for Substance Abuse Prevention.
 
-“(B) Subparagraph (A) shall apply with respect to a project notwithstanding that the project is not eligible to receive a grant under current section 508 or 509 [42 U.S.C. 290bb–1, 290bb–2].
+"(B) Subparagraph (A) shall apply with respect to a project notwithstanding that the project is not eligible to receive a grant under current section 508 or 509 [42 U.S.C. 290bb–1, 290bb–2].
 
-“(2) Limitation on funding for certain projects.—With respect to the amounts appropriated for any fiscal year under current section 508, any such amounts appropriated in excess of the amount appropriated for fiscal year 1992 under former section 509F shall be available only for grants under current section 508.
+"(2) Limitation on funding for certain projects.—With respect to the amounts appropriated for any fiscal year under current section 508, any such amounts appropriated in excess of the amount appropriated for fiscal year 1992 under former section 509F shall be available only for grants under current section 508.
 
-“(3) Definitions.—For purposes of this subsection:
+"(3) Definitions.—For purposes of this subsection:
 
-“(A) The term ‘former section 509F’ means section 509F of the Public Health Service Act [former 42 U.S.C. 290aa–13], as in effect for fiscal year 1992.
+"(A) The term 'former section 509F' means section 509F of the Public Health Service Act [former 42 U.S.C. 290aa–13], as in effect for fiscal year 1992.
 
-“(B) The term ‘current section 508’ means section 508 of the Public Health Service Act [42 U.S.C. 290bb–1], as in effect for fiscal year 1993 and subsequent fiscal years.
+"(B) The term 'current section 508' means section 508 of the Public Health Service Act [42 U.S.C. 290bb–1], as in effect for fiscal year 1993 and subsequent fiscal years.
 
-“(C) The term ‘current section 509’ means section 509 of the Public Health Service Act [42 U.S.C. 290bb–2], as in effect for fiscal year 1993 and subsequent fiscal years.”
+"(C) The term 'current section 509' means section 509 of the Public Health Service Act [42 U.S.C. 290bb–2], as in effect for fiscal year 1993 and subsequent fiscal years."
 
-[<sup>1</sup> So in original. Probably should be preceded by “or”.](#290bb-1_1)
+[<sup>1</sup> So in original. Probably should be preceded by "or".](#290bb-1_1)

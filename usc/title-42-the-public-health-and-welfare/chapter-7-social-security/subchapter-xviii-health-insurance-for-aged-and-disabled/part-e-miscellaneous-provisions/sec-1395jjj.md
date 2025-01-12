@@ -4,9 +4,9 @@
 
 #### (1) <sup><a href="#1395jjj_1_target" name="1395jjj_1">1</a></sup> In general ####
 
-Not later than January 1, 2012, the Secretary shall establish a shared savings program (in this section referred to as the “program”) that promotes accountability for a patient population and coordinates items and services under parts A and B, and encourages investment in infrastructure and redesigned care processes for high quality and efficient service delivery. Under such program—
+Not later than January 1, 2012, the Secretary shall establish a shared savings program (in this section referred to as the "program") that promotes accountability for a patient population and coordinates items and services under parts A and B, and encourages investment in infrastructure and redesigned care processes for high quality and efficient service delivery. Under such program—
 
-(A) groups of providers of services and suppliers meeting criteria specified by the Secretary may work together to manage and coordinate care for Medicare fee-for-service beneficiaries through an accountable care organization (referred to in this section as an “ACO”); and
+(A) groups of providers of services and suppliers meeting criteria specified by the Secretary may work together to manage and coordinate care for Medicare fee-for-service beneficiaries through an accountable care organization (referred to in this section as an "ACO"); and
 
 (B) ACOs that meet quality performance standards established by the Secretary are eligible to receive payments for shared savings under subsection (d)(2).
 
@@ -32,7 +32,7 @@ An ACO shall meet the following requirements:
 
 (A) The ACO shall be willing to become accountable for the quality, cost, and overall care of the Medicare fee-for-service beneficiaries assigned to it.
 
-(B) The ACO shall enter into an agreement with the Secretary to participate in the program for not less than a 3-year period (referred to in this section as the “agreement period”).
+(B) The ACO shall enter into an agreement with the Secretary to participate in the program for not less than a 3-year period (referred to in this section as the "agreement period").
 
 (C) The ACO shall have a formal legal structure that would allow the organization to receive and distribute payments for shared savings under subsection (d)(2) to participating providers of services and suppliers.
 
@@ -146,7 +146,7 @@ In this section:
 
 #### (1) ACO professional ####
 
-The term “ACO professional” means—
+The term "ACO professional" means—
 
 (A) a physician (as defined in section 1395x(r)(1) of this title); and
 
@@ -154,11 +154,11 @@ The term “ACO professional” means—
 
 #### (2) Hospital ####
 
-The term “hospital” means a subsection (d) hospital (as defined in section 1395ww(d)(1)(B) of this title).
+The term "hospital" means a subsection (d) hospital (as defined in section 1395ww(d)(1)(B) of this title).
 
 #### (3) Medicare fee-for-service beneficiary ####
 
-The term “Medicare fee-for-service beneficiary” means an individual who is enrolled in the original Medicare fee-for-service program under parts A and B and is not enrolled in an MA plan under part C, an eligible organization under section 1395mm of this title, or a PACE program under section 1395eee of this title.
+The term "Medicare fee-for-service beneficiary" means an individual who is enrolled in the original Medicare fee-for-service program under parts A and B and is not enrolled in an MA plan under part C, an eligible organization under section 1395mm of this title, or a PACE program under section 1395eee of this title.
 
 #### (i) Option to use other payment models ####
 
@@ -170,7 +170,7 @@ If the Secretary determines appropriate, the Secretary may use any of the paymen
 
 #### (A) In general ####
 
-Subject to subparagraph (B), a model described in this paragraph is a partial capitation model in which an ACO is at financial risk for some, but not all, of the items and services covered under parts A and B, such as at risk for some or all physicians’ services or all items and services under part B. The Secretary may limit a partial capitation model to ACOs that are highly integrated systems of care and to ACOs capable of bearing risk, as determined to be appropriate by the Secretary.
+Subject to subparagraph (B), a model described in this paragraph is a partial capitation model in which an ACO is at financial risk for some, but not all, of the items and services covered under parts A and B, such as at risk for some or all physicians' services or all items and services under part B. The Secretary may limit a partial capitation model to ACOs that are highly integrated systems of care and to ACOs capable of bearing risk, as determined to be appropriate by the Secretary.
 
 #### (B) No additional program expenditures ####
 

@@ -16,7 +16,7 @@ Notwithstanding title 11, the Commission may provide, with respect to a commodit
 
 #### (b) Definitions ####
 
-As used in this section, the terms “commodity broker”, “commodity contract”, “customer”, “customer property”, “member property”, “net equity”, and “security” have the meanings assigned such terms for the purposes of subchapter IV of chapter 7 of title 11.
+As used in this section, the terms "commodity broker", "commodity contract", "customer", "customer property", "member property", "net equity", and "security" have the meanings assigned such terms for the purposes of subchapter IV of chapter 7 of title 11.
 
 #### (c) Portfolio margining accounts ####
 
@@ -28,7 +28,7 @@ The Commission shall exercise its authority to ensure that securities held in a 
 
 **2010**—Subsec. (c). Pub. L. 111–203 added subsec. (c).
 
-**1982**—Subsec. (a)(3). Pub. L. 97–222, §20(b), inserted “, including the payment and allocation of margin with respect to commodity contracts not specifically identifiable to a particular customer pending their orderly liquidation”.
+**1982**—Subsec. (a)(3). Pub. L. 97–222, §20(b), inserted ", including the payment and allocation of margin with respect to commodity contracts not specifically identifiable to a particular customer pending their orderly liquidation".
 
 #### Effective Date of 2010 Amendment ####
 

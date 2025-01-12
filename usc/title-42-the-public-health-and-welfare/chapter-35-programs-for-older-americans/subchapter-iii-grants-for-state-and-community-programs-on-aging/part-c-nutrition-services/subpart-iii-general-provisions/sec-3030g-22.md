@@ -10,7 +10,7 @@ Prior sections 3030h to 3030l were repealed by Pub. L. 106–501, title III, §3
 
 Section 3030h, Pub. L. 89–73, title III, §341, as added Pub. L. 100–175, title I, §140(d), Nov. 29, 1987, 101 Stat. 945; amended Pub. L. 102–375, title I, §102(b)(6), (10)(C), Sept. 30, 1992, 106 Stat. 1201, 1202; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990, authorized a grant program for States.
 
-Section 3030i, Pub. L. 89–73, title III, §342, as added Pub. L. 100–175, title I, §140(d), Nov. 29, 1987, 101 Stat. 945; amended Pub. L. 102–375, title I, §102(b)(7), title III, §318, Sept. 30, 1992, 106 Stat. 1201, 1241, defined “in-home services”.
+Section 3030i, Pub. L. 89–73, title III, §342, as added Pub. L. 100–175, title I, §140(d), Nov. 29, 1987, 101 Stat. 945; amended Pub. L. 102–375, title I, §102(b)(7), title III, §318, Sept. 30, 1992, 106 Stat. 1201, 1241, defined "in-home services".
 
 Section 3030j, Pub. L. 89–73, title III, §343, as added Pub. L. 100–175, title I, §140(d), Nov. 29, 1987, 101 Stat. 945, provided for the State agency to develop eligibility criteria.
 

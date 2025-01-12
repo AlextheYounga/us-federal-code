@@ -58,45 +58,45 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 Pub. L. 106–345, title V, §502, Oct. 20, 2000, 114 Stat. 1353, provided that:
 
-“(a) Expansion, Intensification, and Coordination of Research and Other Activities.—
+"(a) Expansion, Intensification, and Coordination of Research and Other Activities.—
 
-“(1) In general.—The Director of NIH shall expand, intensify, and coordinate research and other activities of the National Institutes of Health with respect to the development of reliable and affordable tests for HIV disease that can rapidly be administered and whose results can rapidly be obtained (in this section referred to as ‘rapid HIV test’).
+"(1) In general.—The Director of NIH shall expand, intensify, and coordinate research and other activities of the National Institutes of Health with respect to the development of reliable and affordable tests for HIV disease that can rapidly be administered and whose results can rapidly be obtained (in this section referred to as 'rapid HIV test').
 
-“(2) Report to congress.—The Director of NIH shall periodically submit to the appropriate committees of Congress a report describing the research and other activities conducted or supported under paragraph (1).
+"(2) Report to congress.—The Director of NIH shall periodically submit to the appropriate committees of Congress a report describing the research and other activities conducted or supported under paragraph (1).
 
-“(3) Authorization of appropriations.—For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
+"(3) Authorization of appropriations.—For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
-“(b) Premarket Review of Rapid HIV Tests.—
+"(b) Premarket Review of Rapid HIV Tests.—
 
-“(1) In general.—Not later than 90 days after the date of the enactment of this Act [Oct. 20, 2000], the Secretary, in consultation with the Director of the Centers for Disease Control and Prevention and the Commissioner of Food and Drugs, shall submit to the appropriate committees of the Congress a report describing the progress made towards, and barriers to, the premarket review and commercial distribution of rapid HIV tests. The report shall—
+"(1) In general.—Not later than 90 days after the date of the enactment of this Act [Oct. 20, 2000], the Secretary, in consultation with the Director of the Centers for Disease Control and Prevention and the Commissioner of Food and Drugs, shall submit to the appropriate committees of the Congress a report describing the progress made towards, and barriers to, the premarket review and commercial distribution of rapid HIV tests. The report shall—
 
-“(A) assess the public health need for and public health benefits of rapid HIV tests, including the minimization of false positive results through the availability of multiple rapid HIV tests;
+"(A) assess the public health need for and public health benefits of rapid HIV tests, including the minimization of false positive results through the availability of multiple rapid HIV tests;
 
-“(B) make recommendations regarding the need for the expedited review of rapid HIV test applications submitted to the Center for Biologics Evaluation and Research and, if such recommendations are favorable, specify criteria and procedures for such expedited review; and
+"(B) make recommendations regarding the need for the expedited review of rapid HIV test applications submitted to the Center for Biologics Evaluation and Research and, if such recommendations are favorable, specify criteria and procedures for such expedited review; and
 
-“(C) specify whether the barriers to the premarket review of rapid HIV tests include the unnecessary application of requirements—
+"(C) specify whether the barriers to the premarket review of rapid HIV tests include the unnecessary application of requirements—
 
-“(i) necessary to ensure the efficacy of devices for donor screening to rapid HIV tests intended for use in other screening situations; or
+"(i) necessary to ensure the efficacy of devices for donor screening to rapid HIV tests intended for use in other screening situations; or
 
-“(ii) for identifying antibodies to HIV subtypes of rare incidence in the United States to rapid HIV tests intended for use in screening situations other than donor screening.
+"(ii) for identifying antibodies to HIV subtypes of rare incidence in the United States to rapid HIV tests intended for use in screening situations other than donor screening.
 
-“(c) Guidelines of Centers for Disease Control and Prevention.—Promptly after commercial distribution of a rapid HIV test begins, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall establish or update guidelines that include recommendations for States, hospitals, and other appropriate entities regarding the ready availability of such tests for administration to pregnant women who are in labor or in the late stage of pregnancy and whose HIV status is not known to the attending obstetrician.”
+"(c) Guidelines of Centers for Disease Control and Prevention.—Promptly after commercial distribution of a rapid HIV test begins, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall establish or update guidelines that include recommendations for States, hospitals, and other appropriate entities regarding the ready availability of such tests for administration to pregnant women who are in labor or in the late stage of pregnancy and whose HIV status is not known to the attending obstetrician."
 
 #### Limitation on Expenditures for AIDS and HIV Activities ####
 
-Pub. L. 104–146, §11, May 20, 1996, 110 Stat. 1373, provided that: “Notwithstanding any other provision of law, the total amounts of Federal funds expended in any fiscal year for AIDS and HIV activities may not exceed the total amounts expended in such fiscal year for activities related to cancer.”
+Pub. L. 104–146, §11, May 20, 1996, 110 Stat. 1373, provided that: "Notwithstanding any other provision of law, the total amounts of Federal funds expended in any fiscal year for AIDS and HIV activities may not exceed the total amounts expended in such fiscal year for activities related to cancer."
 
 #### Vaccines for Human Immunodeficiency Virus ####
 
 Pub. L. 103–43, title XIX, §1901(b), June 10, 1993, 107 Stat. 200, provided that:
 
-“(1) In general.—The Secretary of Health and Human Services, acting through the National Institutes of Health, shall develop a plan for the appropriate inclusion of HIV-infected women, including pregnant women, HIV-infected infants, and HIV-infected children in studies conducted by or through the National Institutes of Health concerning the safety and efficacy of HIV vaccines for the treatment and prevention of HIV infection. Such plan shall ensure the full participation of other Federal agencies currently conducting HIV vaccine studies and require that such studies conform fully to the requirements of part 46 of title 45, Code of Federal Regulations.
+"(1) In general.—The Secretary of Health and Human Services, acting through the National Institutes of Health, shall develop a plan for the appropriate inclusion of HIV-infected women, including pregnant women, HIV-infected infants, and HIV-infected children in studies conducted by or through the National Institutes of Health concerning the safety and efficacy of HIV vaccines for the treatment and prevention of HIV infection. Such plan shall ensure the full participation of other Federal agencies currently conducting HIV vaccine studies and require that such studies conform fully to the requirements of part 46 of title 45, Code of Federal Regulations.
 
-“(2) Report.—Not later than 180 days after the date of the enactment of this Act [June 10, 1993], the Secretary of Health and Human Services shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Labor and Human Resources [now Committee on Health, Education, Labor, and Pensions] of the Senate, a report concerning the plan developed under paragraph (1).
+"(2) Report.—Not later than 180 days after the date of the enactment of this Act [June 10, 1993], the Secretary of Health and Human Services shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Labor and Human Resources [now Committee on Health, Education, Labor, and Pensions] of the Senate, a report concerning the plan developed under paragraph (1).
 
-“(3) Implementation.—Not later than 12 months after the date of the enactment of this Act, the Secretary of Health and Human Services shall implement the plan developed under paragraph (1), including measures for the full participation of other Federal agencies currently conducting HIV vaccine studies.
+"(3) Implementation.—Not later than 12 months after the date of the enactment of this Act, the Secretary of Health and Human Services shall implement the plan developed under paragraph (1), including measures for the full participation of other Federal agencies currently conducting HIV vaccine studies.
 
-“(4) Authorization of appropriations.—For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1994 through 1996.”
+"(4) Authorization of appropriations.—For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1994 through 1996."
 
 #### Ex. Ord. No. 12963. Presidential Advisory Council on HIV/AIDS ####
 
@@ -104,7 +104,7 @@ Ex. Ord. No. 12963, June 14, 1995, 60 F.R. 31905, as amended by Ex. Ord. No. 130
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the Secretary of Health and Human Services to exercise her discretion as follows:
 
-Section 1. *Establishment*. (a) The Secretary of Health and Human Services (the “Secretary”) shall establish an HIV/AIDS Advisory Council (the “Advisory Council” or the “Council”), to be known as the Presidential Advisory Council on HIV/AIDS. The Advisory Council shall be composed of not more than 35 members to be appointed or designated by the Secretary. The Advisory Council shall comply with the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
+Section 1. *Establishment*. (a) The Secretary of Health and Human Services (the "Secretary") shall establish an HIV/AIDS Advisory Council (the "Advisory Council" or the "Council"), to be known as the Presidential Advisory Council on HIV/AIDS. The Advisory Council shall be composed of not more than 35 members to be appointed or designated by the Secretary. The Advisory Council shall comply with the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
 
 (b) The Secretary shall designate a Chairperson from among the members of the Advisory Council.
 
@@ -310,7 +310,7 @@ Sec. 2. *Mission and Functions of the Working Group*. (a) The Working Group shal
 
 (i) increasing government and public awareness of the need to address the intersection of HIV/AIDS, violence against women and girls, and gender-related health disparities, including sexual and reproductive health and access to health care;
 
-(ii) sharing best practices, including demonstration projects and international work by agencies, as well as successful gender-specific strategies aimed at addressing risks that influence women's and girls’ vulnerability to HIV infection and violence;
+(ii) sharing best practices, including demonstration projects and international work by agencies, as well as successful gender-specific strategies aimed at addressing risks that influence women's and girls' vulnerability to HIV infection and violence;
 
 (iii) integrating sexual and reproductive health services, gender-based violence services, and HIV/AIDS services, where research demonstrates that doing so will result in improved and sustained health outcomes;
 

@@ -124,7 +124,7 @@ A prior section 438 of act Aug. 14, 1935, was classified to section 638 of this 
 
 #### Amendments ####
 
-**2011**—Subsec. (a)(2)(A). Pub. L. 112–34, §104(a)(1)(A), substituted “, including the requirements in the Act related to concurrent planning;” for “; and”.
+**2011**—Subsec. (a)(2)(A). Pub. L. 112–34, §104(a)(1)(A), substituted ", including the requirements in the Act related to concurrent planning;" for "; and".
 
 Subsec. (a)(2)(C). Pub. L. 112–34, §104(a)(1)(B), (C), added subpar. (C).
 
@@ -132,19 +132,19 @@ Subsec. (a)(4). Pub. L. 112–34, §104(a)(2), designated existing provisions as
 
 Subsec. (b)(1). Pub. L. 112–34, §104(e), made technical amendment to directory language of Pub. L. 109–239, §8(b). See 2006 Amendment note below.
 
-Subsec. (b)(2). Pub. L. 112–34, §104(b), amended par. (2) generally. Prior to amendment, text read as follows: “A highest State court desiring grants under this section for 2 or more purposes shall submit separate applications for the following grants:
+Subsec. (b)(2). Pub. L. 112–34, §104(b), amended par. (2) generally. Prior to amendment, text read as follows: "A highest State court desiring grants under this section for 2 or more purposes shall submit separate applications for the following grants:
 
-“(A) A grant for the purposes described in paragraphs (1) and (2) of subsection (a).
+"(A) A grant for the purposes described in paragraphs (1) and (2) of subsection (a).
 
-“(B) A grant for the purpose described in subsection (a)(3).
+"(B) A grant for the purpose described in subsection (a)(3).
 
-“(C) A grant for the purpose described in subsection (a)(4).”
+"(C) A grant for the purpose described in subsection (a)(4)."
 
 Subsec. (c). Pub. L. 112–34, §104(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to allotments.
 
-Subsec. (d). Pub. L. 112–34, §104(d), substituted “2012 through 2016” for “2002 through 2011”.
+Subsec. (d). Pub. L. 112–34, §104(d), substituted "2012 through 2016" for "2002 through 2011".
 
-**2010**—Subsec. (c)(2)(A). Pub. L. 111–242, §133(2)(A), substituted “2011” for “2010”.
+**2010**—Subsec. (c)(2)(A). Pub. L. 111–242, §133(2)(A), substituted "2011" for "2010".
 
 Subsec. (e). Pub. L. 111–242, §133(2)(B), inserted concluding provisions.
 
@@ -152,15 +152,15 @@ Subsec. (e). Pub. L. 111–242, §133(2)(B), inserted concluding provisions.
 
 Subsec. (a)(3), (4). Pub. L. 109–171, §7401(a)(1), added pars. (3) and (4).
 
-Subsec. (b). Pub. L. 109–171, §7401(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “In order to be eligible for a grant under this section, a highest State court shall submit to the Secretary an application at such time, in such form, and including such information and assurances as the Secretary shall require.”
+Subsec. (b). Pub. L. 109–171, §7401(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: "In order to be eligible for a grant under this section, a highest State court shall submit to the Secretary an application at such time, in such form, and including such information and assurances as the Secretary shall require."
 
-Subsec. (b)(1). Pub. L. 109–239, §8(b), as amended by Pub. L. 112–34, §104(e), inserted “shall have in effect a rule requiring State courts to ensure that foster parents, pre-adoptive parents, and relative caregivers of a child in foster care under the responsibility of the State are notified of any proceeding to be held with respect to the child, and” after “highest State court” in introductory provisions.
+Subsec. (b)(1). Pub. L. 109–239, §8(b), as amended by Pub. L. 112–34, §104(e), inserted "shall have in effect a rule requiring State courts to ensure that foster parents, pre-adoptive parents, and relative caregivers of a child in foster care under the responsibility of the State are notified of any proceeding to be held with respect to the child, and" after "highest State court" in introductory provisions.
 
-Subsec. (c). Pub. L. 109–171, §7401(a)(3), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), in subpar. (A), inserted “of this section for a grant described in subsection (b)(2)(A) of this section” after “subsection (b)” and substituted “subparagraph (B) of this paragraph” for “paragraph (2) of this subsection”, in subpar. (B), substituted “this subparagraph” for “this paragraph” and “subparagraph (A) of this paragraph” for “paragraph (1) of this subsection” and inserted “for such a grant” after “subsection (b)”, and added par. (2).
+Subsec. (c). Pub. L. 109–171, §7401(a)(3), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), in subpar. (A), inserted "of this section for a grant described in subsection (b)(2)(A) of this section" after "subsection (b)" and substituted "subparagraph (B) of this paragraph" for "paragraph (2) of this subsection", in subpar. (B), substituted "this subparagraph" for "this paragraph" and "subparagraph (A) of this paragraph" for "paragraph (1) of this subsection" and inserted "for such a grant" after "subsection (b)", and added par. (2).
 
-Subsec. (c)(1)(A). Pub. L. 109–288 substituted “2011” for “2006”.
+Subsec. (c)(1)(A). Pub. L. 109–288 substituted "2011" for "2006".
 
-Subsec. (d). Pub. L. 109–288 substituted “2011” for “2006”.
+Subsec. (d). Pub. L. 109–288 substituted "2011" for "2006".
 
 Subsec. (e). Pub. L. 109–171, §7401(a)(4), added subsec. (e).
 
@@ -168,25 +168,25 @@ Subsec. (e). Pub. L. 109–171, §7401(a)(4), added subsec. (e).
 
 Subsec. (a)(1)(A). Pub. L. 107–133, §107(d)(1)(B), made technical amendment to reference in original act which appears in text as reference to this part and part E of this subchapter.
 
-Subsec. (a)(2). Pub. L. 107–133, §107(a)(1), added par. (2) and struck out former par. (2) which read as follows: “to implement changes deemed necessary as a result of the assessments.”
+Subsec. (a)(2). Pub. L. 107–133, §107(a)(1), added par. (2) and struck out former par. (2) which read as follows: "to implement changes deemed necessary as a result of the assessments."
 
-Subsec. (c)(1). Pub. L. 107–133, §107(a)(2), (b), inserted “and improvement” after “assessment” and substituted “for each of fiscal years 2002 through 2006, from the amount reserved pursuant to section 629f(b)(2) of this title (and the amount, if any, reserved pursuant to section 629g(b)(2) of this title), of an amount equal to the sum of $85,000 plus the amount described in paragraph (2) of this subsection for the fiscal year.” for “for each of fiscal years 1995 through 2001, from amounts reserved pursuant to section 629(d)(2) of this title, of an amount equal to the sum of—
+Subsec. (c)(1). Pub. L. 107–133, §107(a)(2), (b), inserted "and improvement" after "assessment" and substituted "for each of fiscal years 2002 through 2006, from the amount reserved pursuant to section 629f(b)(2) of this title (and the amount, if any, reserved pursuant to section 629g(b)(2) of this title), of an amount equal to the sum of $85,000 plus the amount described in paragraph (2) of this subsection for the fiscal year." for "for each of fiscal years 1995 through 2001, from amounts reserved pursuant to section 629(d)(2) of this title, of an amount equal to the sum of—
 
-“(A) for fiscal year 1995, $75,000 plus the amount described in paragraph (2) for fiscal year 1995; and
+"(A) for fiscal year 1995, $75,000 plus the amount described in paragraph (2) for fiscal year 1995; and
 
-“(B) for each of fiscal years 1996 through 2001, $85,000 plus the amount described in paragraph (2) for each of such fiscal years.”
+"(B) for each of fiscal years 1996 through 2001, $85,000 plus the amount described in paragraph (2) for each of such fiscal years."
 
-Subsec. (c)(2). Pub. L. 107–133, §107(d)(2), substituted “section 629f(b)(2) of this title (and the amount, if any, reserved pursuant to section 629g(b)(2) of this title)” for “section 629(d)(2) of this title”.
+Subsec. (c)(2). Pub. L. 107–133, §107(d)(2), substituted "section 629f(b)(2) of this title (and the amount, if any, reserved pursuant to section 629g(b)(2) of this title)" for "section 629(d)(2) of this title".
 
-Subsec. (d). Pub. L. 107–133, §107(c), in heading substituted “Federal share” for “Use of grant funds” and in text substituted “to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2002 through 2006.” for “to pay—
+Subsec. (d). Pub. L. 107–133, §107(c), in heading substituted "Federal share" for "Use of grant funds" and in text substituted "to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2002 through 2006." for "to pay—
 
-“(1) any or all costs of activities under this section in fiscal year 1995; and
+"(1) any or all costs of activities under this section in fiscal year 1995; and
 
-“(2) not more than 75 percent of the cost of activities under this section in each of fiscal years 1996, 1997, 1998, 1999, 2000, and 2001.”
+"(2) not more than 75 percent of the cost of activities under this section in each of fiscal years 1996, 1997, 1998, 1999, 2000, and 2001."
 
-**1997**—Subsec. (c)(1). Pub. L. 105–89, §305(a)(3)(A), substituted “2001” for “1998” in introductory provisions and par. (B).
+**1997**—Subsec. (c)(1). Pub. L. 105–89, §305(a)(3)(A), substituted "2001" for "1998" in introductory provisions and par. (B).
 
-Subsec. (d)(2). Pub. L. 105–89, §305(a)(3)(B), substituted “1998, 1999, 2000, and 2001” for “and 1998”.
+Subsec. (d)(2). Pub. L. 105–89, §305(a)(3)(B), substituted "1998, 1999, 2000, and 2001" for "and 1998".
 
 #### Effective Date of 2011 Amendment ####
 
@@ -214,10 +214,10 @@ Amendment by Pub. L. 107–133 effective Jan. 17, 2002, with delay permitted if 
 
 Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
 
-[<sup>1</sup> So in original. Probably should be followed by “and”.](#629h_1)
+[<sup>1</sup> So in original. Probably should be followed by "and".](#629h_1)
 
-[<sup>2</sup> So in original. The word “and” probably should not appear.](#629h_2)
+[<sup>2</sup> So in original. The word "and" probably should not appear.](#629h_2)
 
 [<sup>3</sup> So in original. Probably should be capitalized.](#629h_3)
 
-[<sup>4</sup> So in original. Probably should be “have”.](#629h_4)
+[<sup>4</sup> So in original. Probably should be "have".](#629h_4)

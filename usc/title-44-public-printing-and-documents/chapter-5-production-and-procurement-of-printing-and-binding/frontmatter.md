@@ -6,7 +6,7 @@ Sec.
 
 502. Procurement of printing, binding, and blank-book work by Public Printer.
 
-503. Printing in veterans’ hospitals.
+503. Printing in veterans' hospitals.
 
 504. Direct purchase of printing, binding, and blank-book work by Government agencies.
 
@@ -38,7 +38,7 @@ Sec.
 
 #### Amendments ####
 
-**1976**—Pub. L. 94–553, §105(a)(2), Oct. 19, 1976, 90 Stat. 2599, struck out “; copyright” after “plates” in item 505.
+**1976**—Pub. L. 94–553, §105(a)(2), Oct. 19, 1976, 90 Stat. 2599, struck out "; copyright" after "plates" in item 505.
 
 #### Federal Records Management Provisions Without Effect on Chapter ####
 

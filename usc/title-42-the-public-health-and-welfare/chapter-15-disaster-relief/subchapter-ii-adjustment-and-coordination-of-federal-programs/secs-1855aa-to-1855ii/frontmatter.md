@@ -1,8 +1,8 @@
 ### §§1855aa to 1855ii. Repealed. Pub. L. 91–606, title III, §302(2), Dec. 31, 1970, 84 Stat. 1759 ###
 
-Section 1855aa, Pub. L. 89–769, §2, Nov. 6, 1966, 80 Stat. 1316, defined “major disaster.”
+Section 1855aa, Pub. L. 89–769, §2, Nov. 6, 1966, 80 Stat. 1316, defined "major disaster."
 
-Pub. L. 89–769, §§1, 14, Nov. 6, 1966, 80 Stat. 1316, 1321, set out as notes under section 1855aa of this title, gave the name “Disaster Relief Act of 1966” to Pub. L. 89–769, and provided for effective date of such act.
+Pub. L. 89–769, §§1, 14, Nov. 6, 1966, 80 Stat. 1316, 1321, set out as notes under section 1855aa of this title, gave the name "Disaster Relief Act of 1966" to Pub. L. 89–769, and provided for effective date of such act.
 
 Section 1855bb, Pub. L. 89–769, §3(a), Nov. 6, 1966, 80 Stat. 1316, called for rescheduling and refinancing of Federal loans in event of a major disaster. See section 3538 of this title and section 912a of Title 7, Agriculture.
 

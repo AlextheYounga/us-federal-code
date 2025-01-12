@@ -2,15 +2,15 @@
 
 (a) Incentive Pay.—The Secretary of Defense may pay incentive pay under this section to an individual who—
 
-(1) is enrolled as a member of the Senior Reserve Officers’ Training Corps or the Marine Corps Platoon Leaders Class, as determined in accordance with regulations prescribed by the Secretary of Defense under subsection (e); and
+(1) is enrolled as a member of the Senior Reserve Officers' Training Corps or the Marine Corps Platoon Leaders Class, as determined in accordance with regulations prescribed by the Secretary of Defense under subsection (e); and
 
-(2) participates in a language immersion program approved for purposes of the Senior Reserve Officers’ Training Corps, or in study abroad, or is enrolled in an academic course that involves instruction in a foreign language of strategic interest to the Department of Defense as designated by the Secretary of Defense for purposes of this section.
+(2) participates in a language immersion program approved for purposes of the Senior Reserve Officers' Training Corps, or in study abroad, or is enrolled in an academic course that involves instruction in a foreign language of strategic interest to the Department of Defense as designated by the Secretary of Defense for purposes of this section.
 
 (b) Period of Payment.—Incentive pay is payable under this section to an individual described in subsection (a) for the period of the individual's participation in the language program or study described in paragraph (2) of that subsection.
 
 (c) Amount.—The amount of incentive pay payable to an individual under this section may not exceed $3,000 per year.
 
-(d) Repayment.—An individual who is paid incentive pay under this section but who does not satisfactorily complete participation in the individual's language program or study as described in subsection (a)(2), or who does not complete the requirements of the Senior Reserve Officers’ Training Corps or the Marine Corps Platoon Leaders Class, as applicable, shall be subject to the repayment provisions of section 303a(e) of this title.
+(d) Repayment.—An individual who is paid incentive pay under this section but who does not satisfactorily complete participation in the individual's language program or study as described in subsection (a)(2), or who does not complete the requirements of the Senior Reserve Officers' Training Corps or the Marine Corps Platoon Leaders Class, as applicable, shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (e) Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense.
 
@@ -36,4 +36,4 @@ A prior section 316a, added Pub. L. 102–190, div. A, title VI, §636(a), Dec. 
 
 #### Amendments ####
 
-**2011**—Subsec. (f). Pub. L. 112–81 substituted “April 1, 2012” for “January 1, 2010” in introductory provisions.
+**2011**—Subsec. (f). Pub. L. 112–81 substituted "April 1, 2012" for "January 1, 2010" in introductory provisions.

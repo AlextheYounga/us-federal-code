@@ -16,7 +16,7 @@ Section consolidates section 215 of title 13, U.S.C., 1952 ed., with those parts
 
 The provisions, as revised in this section, relate, not only to the censuses referred to above, but also, to all other investigations provided for in this title. This was probably the Congressional intent.
 
-Words in section 215 of title 13, U.S.C., 1952 ed., “on request of the Director of the Census”, were omitted since all functions under this title are vested primarily in the Secretary (of Commerce), in view of 1950 Reorganization Plan No. 5, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title.
+Words in section 215 of title 13, U.S.C., 1952 ed., "on request of the Director of the Census", were omitted since all functions under this title are vested primarily in the Secretary (of Commerce), in view of 1950 Reorganization Plan No. 5, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title.
 
 Changes were made in phraseology.
 
@@ -24,13 +24,13 @@ For remainder of sections 122 and 252 of title 13, U.S.C., 1952 ed., and of sect
 
 #### Amendments ####
 
-**1976**—Pub. L. 94–521 substituted “Information from other Federal departments and agencies; acquisition of reports from other governmental and private sources” for “Requests to other departments and offices for information, acquisition of reports from governmental and other sources” in section catchline.
+**1976**—Pub. L. 94–521 substituted "Information from other Federal departments and agencies; acquisition of reports from other governmental and private sources" for "Requests to other departments and offices for information, acquisition of reports from governmental and other sources" in section catchline.
 
-Subsec. (a). Pub. L. 94–521 substituted “considers” for “deems”, and “agency, or establishment of the Federal Government, or of the government of the District of Columbia” for “or office of the Government”.
+Subsec. (a). Pub. L. 94–521 substituted "considers" for "deems", and "agency, or establishment of the Federal Government, or of the government of the District of Columbia" for "or office of the Government".
 
 Subsec. (c). Pub. L. 94–521 added subsec. (c).
 
-**1957**—Pub. L. 85–207 inserted “, acquisition of reports from governmental and other sources” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+**1957**—Pub. L. 85–207 inserted ", acquisition of reports from governmental and other sources" in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
 
 #### Effective Date of 1976 Amendment ####
 

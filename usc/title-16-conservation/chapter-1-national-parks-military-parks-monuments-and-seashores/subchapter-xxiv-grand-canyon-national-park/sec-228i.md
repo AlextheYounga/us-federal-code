@@ -2,7 +2,7 @@
 
 #### (a) Lands of Havasupai Reservation Addition held in trust by United States; boundaries ####
 
-For the purpose of enabling the tribe of Indians known as the Havasupai Indians of Arizona (hereinafter referred to as the “tribe”) to improve the social, cultural, and economic life of its members, the lands generally depicted as the “Havasupai Reservation Addition” on the map described in section 228b of this title, and consisting of approximately one hundred and eighty-five thousand acres of land and any improvements thereon, are hereby declared to be held by the United States in trust for the Havasupai Tribe. Such map, which shall delineate a boundary line generally one-fourth of a mile from the rim of the outer gorge of the Grand Canyon of the Colorado River and shall traverse Havasu Creek from a point on the rim at Yumtheska Point to Beaver Falls to a point on the rim at Ukwalla Point, shall be on file and available for public inspection in the Offices of the Secretary, Department of the Interior, Washington, District of Columbia.
+For the purpose of enabling the tribe of Indians known as the Havasupai Indians of Arizona (hereinafter referred to as the "tribe") to improve the social, cultural, and economic life of its members, the lands generally depicted as the "Havasupai Reservation Addition" on the map described in section 228b of this title, and consisting of approximately one hundred and eighty-five thousand acres of land and any improvements thereon, are hereby declared to be held by the United States in trust for the Havasupai Tribe. Such map, which shall delineate a boundary line generally one-fourth of a mile from the rim of the outer gorge of the Grand Canyon of the Colorado River and shall traverse Havasu Creek from a point on the rim at Yumtheska Point to Beaver Falls to a point on the rim at Ukwalla Point, shall be on file and available for public inspection in the Offices of the Secretary, Department of the Interior, Washington, District of Columbia.
 
 #### (b) Lands held in trust by United States included within Reservation; administration pursuant to laws and regulations applicable to other trust Indian lands; specific administrative criteria and restrictions ####
 
@@ -28,11 +28,11 @@ The Secretary shall be responsible for the establishment and maintenance of cons
 
 #### (d) Grazing rights on the Raintank Allotment; continuation and renewal ####
 
-The Secretary shall permit any person presently exercising grazing privileges pursuant to Federal permit or lease in that part of the Kaibab National Forest designated as the “Raintank Allotment”, and which is included in the Havasupai Reservation by this section, to continue in the exercise thereof, but no permit or renewal shall be extended beyond the period ending ten years from January 3, 1975, at which time all rights of use and occupancy of the lands will be transferred to the tribe subject to the same terms and conditions as the other lands included in the reservation in subsection (b) of this section.
+The Secretary shall permit any person presently exercising grazing privileges pursuant to Federal permit or lease in that part of the Kaibab National Forest designated as the "Raintank Allotment", and which is included in the Havasupai Reservation by this section, to continue in the exercise thereof, but no permit or renewal shall be extended beyond the period ending ten years from January 3, 1975, at which time all rights of use and occupancy of the lands will be transferred to the tribe subject to the same terms and conditions as the other lands included in the reservation in subsection (b) of this section.
 
 #### (e) Havasupai Use Lands; use for grazing and other traditional purposes subject to regulations ####
 
-The Secretary, subject to such reasonable regulations as he may prescribe to protect the scenic, natural, and wildlife values thereof, shall permit the tribe to use lands within the Grand Canyon National Park which are designated as “Havasupai Use Lands” on the Grand Canyon National Park boundary map described in section 228b of this title, and consisting of approximately ninety-five thousand three hundred acres of land, for grazing and other traditional purposes.
+The Secretary, subject to such reasonable regulations as he may prescribe to protect the scenic, natural, and wildlife values thereof, shall permit the tribe to use lands within the Grand Canyon National Park which are designated as "Havasupai Use Lands" on the Grand Canyon National Park boundary map described in section 228b of this title, and consisting of approximately ninety-five thousand three hundred acres of land, for grazing and other traditional purposes.
 
 #### (f) Extinguishment of all tribal right, title, and interest in lands not otherwise declared as held in trust or covered by provisions enlarging park ####
 
@@ -46,4 +46,4 @@ Provision of subsec. (f) of this section, which repealed section 3 of act of Feb
 
 #### Amendments ####
 
-**1994**—Subsec. (b)(4). Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the United States Congress”.
+**1994**—Subsec. (b)(4). Pub. L. 103–437 substituted "Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives" for "Committees on Interior and Insular Affairs of the United States Congress".

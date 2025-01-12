@@ -1,6 +1,6 @@
 ### §9. Vessel of the United States defined ###
 
-The term “vessel of the United States”, as used in this title, means a vessel belonging in whole or in part to the United States, or any citizen thereof, or any corporation created by or under the laws of the United States, or of any State, Territory, District, or possession thereof.
+The term "vessel of the United States", as used in this title, means a vessel belonging in whole or in part to the United States, or any citizen thereof, or any corporation created by or under the laws of the United States, or of any State, Territory, District, or possession thereof.
 
 (June 25, 1948, ch. 645, 62 Stat. 685.)
 

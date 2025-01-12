@@ -2,7 +2,7 @@
 
 #### (a) Office of the Comptroller of the Currency established ####
 
-There is established in the Department of the Treasury a bureau to be known as the “Office of the Comptroller of the Currency” which is charged with assuring the safety and soundness of, and compliance with laws and regulations, fair access to financial services, and fair treatment of customers by, the institutions and other persons subject to its jurisdiction.
+There is established in the Department of the Treasury a bureau to be known as the "Office of the Comptroller of the Currency" which is charged with assuring the safety and soundness of, and compliance with laws and regulations, fair access to financial services, and fair treatment of customers by, the institutions and other persons subject to its jurisdiction.
 
 #### (b) Comptroller of the Currency ####
 
@@ -28,17 +28,17 @@ Section is comprised of R.S. §324, as amended by the eighth paragraph of act De
 
 #### Amendments ####
 
-**2010**—Pub. L. 111–203 amended section generally. Prior to amendment, section read as follows: “There shall be in the Department of the Treasury a bureau charged with the execution of all laws passed by Congress relating to the issue and regulation of national currency secured by United States bonds and, under the general supervision of the Board of Governors of the Federal Reserve System, of all Federal Reserve notes, except for the cancellation and destruction, and accounting with respect to such cancellation and destruction, of Federal Reserve notes unfit for circulation, the chief officer of which bureau shall be called the Comptroller of the Currency and shall perform his duties under the general directions of the Secretary of the Treasury. The Comptroller of the Currency shall have the same authority over matters within the jurisdiction of the Comptroller as the Director of the Office of Thrift Supervision has over matters within the Director's jurisdiction under section 1462a(b)(3) of this title. The Secretary of the Treasury may not delay or prevent the issuance of any rule or the promulgation of any regulation by the Comptroller of the Currency.”
+**2010**—Pub. L. 111–203 amended section generally. Prior to amendment, section read as follows: "There shall be in the Department of the Treasury a bureau charged with the execution of all laws passed by Congress relating to the issue and regulation of national currency secured by United States bonds and, under the general supervision of the Board of Governors of the Federal Reserve System, of all Federal Reserve notes, except for the cancellation and destruction, and accounting with respect to such cancellation and destruction, of Federal Reserve notes unfit for circulation, the chief officer of which bureau shall be called the Comptroller of the Currency and shall perform his duties under the general directions of the Secretary of the Treasury. The Comptroller of the Currency shall have the same authority over matters within the jurisdiction of the Comptroller as the Director of the Office of Thrift Supervision has over matters within the Director's jurisdiction under section 1462a(b)(3) of this title. The Secretary of the Treasury may not delay or prevent the issuance of any rule or the promulgation of any regulation by the Comptroller of the Currency."
 
-**1994**—Pub. L. 103–325 inserted at end “The Comptroller of the Currency shall have the same authority over matters within the jurisdiction of the Comptroller as the Director of the Office of Thrift Supervision has over matters within the Director's jurisdiction under section 1462a(b)(3) of this title. The Secretary of the Treasury may not delay or prevent the issuance of any rule or the promulgation of any regulation by the Comptroller of the Currency.”
+**1994**—Pub. L. 103–325 inserted at end "The Comptroller of the Currency shall have the same authority over matters within the jurisdiction of the Comptroller as the Director of the Office of Thrift Supervision has over matters within the Director's jurisdiction under section 1462a(b)(3) of this title. The Secretary of the Treasury may not delay or prevent the issuance of any rule or the promulgation of any regulation by the Comptroller of the Currency."
 
 **1966**—Pub. L. 89–427 inserted exception relating to cancellation and destruction, and accounting with respect to the cancellation and destruction, of Federal Reserve notes unfit for circulation.
 
 #### Effective Date of 2010 Amendment ####
 
-Pub. L. 111–203, title III, §314(d), July 21, 2010, 124 Stat. 1524, provided that: “This section [enacting section 4b of this title and amending this section and section 11 of this title], and the amendments made by this section, shall take effect on the transfer date.”
+Pub. L. 111–203, title III, §314(d), July 21, 2010, 124 Stat. 1524, provided that: "This section [enacting section 4b of this title and amending this section and section 11 of this title], and the amendments made by this section, shall take effect on the transfer date."
 
-[For definition of “transfer date” as used in section 314(d) of Pub. L. 111–203, set out above, see section 5301 of this title.]
+[For definition of "transfer date" as used in section 314(d) of Pub. L. 111–203, set out above, see section 5301 of this title.]
 
 #### Exception as to Transfer of Functions ####
 

@@ -10,9 +10,9 @@ Any State desiring to avail itself of the benefits of this chapter shall, by its
 
 The Secretary of the Interior shall approve only such comprehensive plans or projects as may be substantial in character and design and the expenditure of funds hereby authorized shall be applied only to such approved comprehensive wildlife plans or projects and if otherwise applied they shall be replaced by the State before it may participate in any further apportionment under this chapter. No payment of any money apportioned under this chapter shall be made on any comprehensive wildlife plan or project until an agreement to participate therein shall have been submitted to and approved by the Secretary of the Interior.
 
-#### (b) “Project” defined ####
+#### (b) "Project" defined ####
 
-If the State elects to avail itself of the benefits of this chapter by preparing a comprehensive fish and wildlife plan under option (1) of subsection (a) of this section, then the term “project” may be defined for the purposes of this chapter as a wildlife program, all other definitions notwithstanding.
+If the State elects to avail itself of the benefits of this chapter by preparing a comprehensive fish and wildlife plan under option (1) of subsection (a) of this section, then the term "project" may be defined for the purposes of this chapter as a wildlife program, all other definitions notwithstanding.
 
 #### (c) Costs ####
 

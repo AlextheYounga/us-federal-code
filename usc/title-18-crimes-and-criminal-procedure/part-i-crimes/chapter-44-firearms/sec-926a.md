@@ -10,4 +10,4 @@ A prior section 926A, added Pub. L. 99–308, §107(a), May 19, 1986, 100 Stat. 
 
 #### Effective Date ####
 
-Section effective on date on which Firearms Owners’ Protection Act, Pub. L. 99–308, became effective, see section 2 of Pub. L. 99–360, set out as an Effective Date of 1986 Amendments note under section 921 of this title.
+Section effective on date on which Firearms Owners' Protection Act, Pub. L. 99–308, became effective, see section 2 of Pub. L. 99–360, set out as an Effective Date of 1986 Amendments note under section 921 of this title.

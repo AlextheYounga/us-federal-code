@@ -42,7 +42,7 @@
 
 (d) Cutters Not Maintained in Class.—Each report under subsection (a) shall identify which, if any, Coast Guard cutters that have been issued a certificate of classification by the American Bureau of Shipping have not been maintained in class, with an explanation detailing the reasons why the cutters have not been maintained in class.
 
-(e) Major Acquisition Program Defined.—In this section, the term “major acquisition program” means an ongoing acquisition undertaken by the Coast Guard with a life-cycle cost estimate greater than or equal to $300,000,000.
+(e) Major Acquisition Program Defined.—In this section, the term "major acquisition program" means an ongoing acquisition undertaken by the Coast Guard with a life-cycle cost estimate greater than or equal to $300,000,000.
 
 (Added Pub. L. 112–213, title II, §210(a), Dec. 20, 2012, 126 Stat. 1550.)
 

@@ -4,4 +4,4 @@ Section, added Pub. L. 92–129, title II, §203(a), Sept. 28, 1971, 85 Stat. 35
 
 #### Effective Date of Repeal ####
 
-Pub. L. 106–398, §1 [[div. A], title VI, §624(c)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–153, provided that: “The amendments made by subsection (b) [repealing this section and section 308f of this title] shall take effect on October 1, 2000. The repeal of sections 308a and 308f of title 37, United States Code, by such subsection shall not affect the validity or terms of any bonus provided under such sections for enlistments in the Armed Forces made before that date.”
+Pub. L. 106–398, §1 [[div. A], title VI, §624(c)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–153, provided that: "The amendments made by subsection (b) [repealing this section and section 308f of this title] shall take effect on October 1, 2000. The repeal of sections 308a and 308f of title 37, United States Code, by such subsection shall not affect the validity or terms of any bonus provided under such sections for enlistments in the Armed Forces made before that date."

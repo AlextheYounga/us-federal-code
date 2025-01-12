@@ -4,6 +4,6 @@ Whenever the Secretary considers a permit application for a dock or a boat launc
 
 (Pub. L. 99–662, title IX, §946, Nov. 17, 1986, 100 Stat. 4200.)
 
-#### “Secretary” Defined ####
+#### "Secretary" Defined ####
 
 Secretary means the Secretary of the Army, see section 2201 of this title.

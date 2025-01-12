@@ -22,14 +22,14 @@ The Secretary shall establish guidelines for the use and distribution of funds u
 
 #### Amendments ####
 
-**2000**—Subsec. (a). Pub. L. 106–208 substituted “purposes of this subchapter” for “purposes this subchapter” and “determined by him.” for “determined by him:.”.
+**2000**—Subsec. (a). Pub. L. 106–208 substituted "purposes of this subchapter" for "purposes this subchapter" and "determined by him." for "determined by him:.".
 
-**1992**—Subsec. (a). Pub. L. 102–575, §4010(1), substituted “for the purposes this subchapter” for “for comprehensive statewide historic surveys and plans under this subchapter”.
+**1992**—Subsec. (a). Pub. L. 102–575, §4010(1), substituted "for the purposes this subchapter" for "for comprehensive statewide historic surveys and plans under this subchapter".
 
-Subsec. (b). Pub. L. 102–575, §4010(2), (3), substituted “as the Secretary determines to be appropriate” for “by the Secretary in accordance with needs as disclosed in approved statewide historic preservation plans” and inserted at end “The Secretary shall analyze and revise as necessary the method of apportionment. Such method and any revision thereof shall be published by the Secretary in the Federal Register.”
+Subsec. (b). Pub. L. 102–575, §4010(2), (3), substituted "as the Secretary determines to be appropriate" for "by the Secretary in accordance with needs as disclosed in approved statewide historic preservation plans" and inserted at end "The Secretary shall analyze and revise as necessary the method of apportionment. Such method and any revision thereof shall be published by the Secretary in the Federal Register."
 
-**1980**—Subsec. (b). Pub. L. 96–515, §203(a), inserted “and programs” after “projects” and substituted provision directing the Secretary to notify each State of its apportionment under this subsection within thirty days following enactment of legislation appropriating funds for provision directing the Secretary to notify each State of its apportionment, with the amounts available thereafter for payment to such State.
+**1980**—Subsec. (b). Pub. L. 96–515, §203(a), inserted "and programs" after "projects" and substituted provision directing the Secretary to notify each State of its apportionment under this subsection within thirty days following enactment of legislation appropriating funds for provision directing the Secretary to notify each State of its apportionment, with the amounts available thereafter for payment to such State.
 
 Subsecs. (c), (d). Pub. L. 96–515, §203(b), added subsecs. (c) and (d).
 
-**1976**—Subsec. (a). Pub. L. 94–422, which directed amendment of subsec. (a) by deleting “Provided, however, That the amount granted to any one State shall not exceed 50 per centum of the total cost of the comprehensive statewide historic survey and plan for that State, as determined by the Secretary,” after “determined by him:”, was executed by deleting the quoted language, which did not contain a comma after “Secretary”, to reflect the probable intent of Congress.
+**1976**—Subsec. (a). Pub. L. 94–422, which directed amendment of subsec. (a) by deleting "Provided, however, That the amount granted to any one State shall not exceed 50 per centum of the total cost of the comprehensive statewide historic survey and plan for that State, as determined by the Secretary," after "determined by him:", was executed by deleting the quoted language, which did not contain a comma after "Secretary", to reflect the probable intent of Congress.

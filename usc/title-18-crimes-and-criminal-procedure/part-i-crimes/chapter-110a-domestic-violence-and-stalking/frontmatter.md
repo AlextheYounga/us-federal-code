@@ -20,9 +20,9 @@ Sec.
 
 #### Amendments ####
 
-**1996**—Pub. L. 104–294, title VI, §604(a)(1), Oct. 11, 1996, 110 Stat. 3506, amended analysis by inserting “Sec.” above section numbers.
+**1996**—Pub. L. 104–294, title VI, §604(a)(1), Oct. 11, 1996, 110 Stat. 3506, amended analysis by inserting "Sec." above section numbers.
 
-Pub. L. 104–201, div. A, title X, §1069(b)(3), (c), Sept. 23, 1996, 110 Stat. 2656, inserted “AND STALKING” after “VIOLENCE” in chapter heading and added item 2261A.
+Pub. L. 104–201, div. A, title X, §1069(b)(3), (c), Sept. 23, 1996, 110 Stat. 2656, inserted "AND STALKING" after "VIOLENCE" in chapter heading and added item 2261A.
 
 [<sup>1</sup> Section catchline amended by Pub. L. 109–162 without corresponding amendment of chapter analysis.](#CHAPTER110A_1)
 

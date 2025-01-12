@@ -8,4 +8,4 @@ Section 82, act June 11, 1896, ch. 420, §1, 29 Stat. 445, authorized sale of me
 
 #### Effective Date of Repeal ####
 
-Repeal effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans’ Benefits.
+Repeal effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans' Benefits.

@@ -38,7 +38,7 @@ Sec.
 
 617. Clearance prohibited to vessel carrying meat for export without inspector's certificate.
 
-618. Delivery of inspectors’ certificates, and of copies.
+618. Delivery of inspectors' certificates, and of copies.
 
 619. Marking, labeling, or other identification to show kinds of animals from which derived; separate establishments for preparation and slaughtering activities.
 

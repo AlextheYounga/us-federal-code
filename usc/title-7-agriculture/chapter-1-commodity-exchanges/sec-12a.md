@@ -24,7 +24,7 @@ The Commission is authorized—
 
 *Provided*, That such person may appeal from a decision to refuse registration, condition registration, suspend, revoke or to place restrictions upon registration made pursuant to the provisions of this paragraph in the manner provided in section 9 of this title; and
 
-*Provided, further*, That for the purposes of paragraphs (2) and (3) of this section, “principal” shall mean, if the person is a partnership, any general partner or, if the person is a corporation, any officer, director, or beneficial owner of at least 10 per centum of the voting shares of the corporation, and any other person that the Commission by rule, regulation, or order determines has the power, directly or indirectly, through agreement or otherwise, to exercise a controlling influence over the activities of such person which are subject to regulation by the Commission;
+*Provided, further*, That for the purposes of paragraphs (2) and (3) of this section, "principal" shall mean, if the person is a partnership, any general partner or, if the person is a corporation, any officer, director, or beneficial owner of at least 10 per centum of the voting shares of the corporation, and any other person that the Commission by rule, regulation, or order determines has the power, directly or indirectly, through agreement or otherwise, to exercise a controlling influence over the activities of such person which are subject to regulation by the Commission;
 
 (3) to refuse to register or to register conditionally any person, if it is found, after opportunity for hearing, that—
 
@@ -84,11 +84,11 @@ The Commission is authorized—
 
 (F) the manner, method, and place of soliciting business, including the content of such solicitations; and
 
-(G) the form and manner of handling, recording, and accounting for customers’ orders, transactions, and accounts;
+(G) the form and manner of handling, recording, and accounting for customers' orders, transactions, and accounts;
 
 (8) to make and promulgate such rules and regulations with respect to those persons registered under this chapter, who are not members of a registered entity, as in the judgment of the Commission are reasonably necessary to protect the public interest and promote just and equitable principles of trade, including but not limited to the manner, method, and place of soliciting business, including the content of such solicitation;
 
-(9) to direct the registered entity, whenever it has reason to believe that an emergency exists, to take such action as in the Commission's judgment is necessary to maintain or restore orderly trading in or liquidation of any futures contract, including, but not limited to, the setting of temporary emergency margin levels on any futures contract, and the fixing of limits that may apply to a market position acquired in good faith prior to the effective date of the Commission's action. The term “emergency” as used herein shall mean, in addition to threatened or actual market manipulations and corners, any act of the United States or a foreign government affecting a commodity or any other major market disturbance which prevents the market from accurately reflecting the forces of supply and demand for such commodity. Any action taken by the Commission under this paragraph shall be subject to review only in the United States Court of Appeals for the circuit in which the party seeking review resides or has its principal place of business, or in the United States Court of Appeals for the District of Columbia Circuit. Such review shall be based upon an examination of all the information before the Commission at the time the determination was made. The court reviewing the Commission's action shall not enter a stay or order of mandamus unless it has determined, after notice and hearing before a panel of the court, that the agency action complained of was arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law. Nothing herein shall be deemed to limit the meaning or interpretation given by a registered entity to the terms “market emergency”, “emergency”, or equivalent language in its own bylaws, rules, regulations, or resolutions;
+(9) to direct the registered entity, whenever it has reason to believe that an emergency exists, to take such action as in the Commission's judgment is necessary to maintain or restore orderly trading in or liquidation of any futures contract, including, but not limited to, the setting of temporary emergency margin levels on any futures contract, and the fixing of limits that may apply to a market position acquired in good faith prior to the effective date of the Commission's action. The term "emergency" as used herein shall mean, in addition to threatened or actual market manipulations and corners, any act of the United States or a foreign government affecting a commodity or any other major market disturbance which prevents the market from accurately reflecting the forces of supply and demand for such commodity. Any action taken by the Commission under this paragraph shall be subject to review only in the United States Court of Appeals for the circuit in which the party seeking review resides or has its principal place of business, or in the United States Court of Appeals for the District of Columbia Circuit. Such review shall be based upon an examination of all the information before the Commission at the time the determination was made. The court reviewing the Commission's action shall not enter a stay or order of mandamus unless it has determined, after notice and hearing before a panel of the court, that the agency action complained of was arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law. Nothing herein shall be deemed to limit the meaning or interpretation given by a registered entity to the terms "market emergency", "emergency", or equivalent language in its own bylaws, rules, regulations, or resolutions;
 
 (10) to authorize any person to perform any portion of the registration functions under this chapter, in accordance with rules, notwithstanding any other provision of law, adopted by such person and submitted to the Commission for approval or, if applicable, for review pursuant to section 21(j) of this title, and subject to the provisions of this chapter applicable to registrations granted by the Commission; and
 
@@ -126,87 +126,87 @@ The Foreign Corrupt Practices Act of 1977, referred to in pars. (2)(E) and (3)(B
 
 #### Amendments ####
 
-**2010**—Par. (7)(C). Pub. L. 111–203, §736(1), struck out “, excepting the setting of levels of margin” after “requirements”.
+**2010**—Par. (7)(C). Pub. L. 111–203, §736(1), struck out ", excepting the setting of levels of margin" after "requirements".
 
 Par. (7)(D) to (G). Pub. L. 111–203, §736(2), (3), added subpar. (D) and redesignated former subpars. (D) to (F) as (E) to (G), respectively.
 
-**2000**—Pub. L. 106–554, §1(a)(5) [title I, §123(a)(19)(A)], substituted “registered entity” for “contract market” wherever appearing.
+**2000**—Pub. L. 106–554, §1(a)(5) [title I, §123(a)(19)(A)], substituted "registered entity" for "contract market" wherever appearing.
 
-Par. (2)(F). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(19)(B)], substituted “privileges” for “trading privileges”.
+Par. (2)(F). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(19)(B)], substituted "privileges" for "trading privileges".
 
-**1992**—Par. (1). Pub. L. 102–546, §207(b)(3), substituted “floor brokers, and floor traders” for “and floor brokers”.
+**1992**—Par. (1). Pub. L. 102–546, §207(b)(3), substituted "floor brokers, and floor traders" for "and floor brokers".
 
 Par. (2). Pub. L. 102–546, §209(b)(6)(A), made technical amendment to reference to sections 9 and 15 of this title in concluding provisions to reflect change in reference to corresponding section of original act.
 
-Par. (2)(C)(i). Pub. L. 102–546, §207(b)(4), inserted “floor trader,” after “floor broker,”.
+Par. (2)(C)(i). Pub. L. 102–546, §207(b)(4), inserted "floor trader," after "floor broker,".
 
-Par. (2)(C)(ii). Pub. L. 102–546, §208(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “engaging in or continuing any activity involving any transaction in or advice concerning contracts of sale of a commodity for future delivery, concerning matters subject to Commission regulation under section 6c or 23 of this title, or concerning securities”.
+Par. (2)(C)(ii). Pub. L. 102–546, §208(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "engaging in or continuing any activity involving any transaction in or advice concerning contracts of sale of a commodity for future delivery, concerning matters subject to Commission regulation under section 6c or 23 of this title, or concerning securities".
 
-Par. (2)(D)(ii). Pub. L. 102–546, §207(b)(4), inserted “floor trader,” after “floor broker,”.
+Par. (2)(D)(ii). Pub. L. 102–546, §207(b)(4), inserted "floor trader," after "floor broker,".
 
 Par. (2)(D)(iv). Pub. L. 102–546, §208(b), inserted references to sections 1001, 1503, 1623, 1961 to 1963, and 2314 of title 18 and sections 7201 and 7206 of title 26.
 
-Par. (2)(E). Pub. L. 102–546, §208(c), substituted “in a proceeding brought” for “by any court of competent jurisdiction,” and in cl. (i) inserted reference to chapter 96 of title 18.
+Par. (2)(E). Pub. L. 102–546, §208(c), substituted "in a proceeding brought" for "by any court of competent jurisdiction," and in cl. (i) inserted reference to chapter 96 of title 18.
 
-Par. (2)(G). Pub. L. 102–546, §208(d), substituted “this paragraph and paragraph (3)” for “subparagraphs (A) through (F) of this paragraph”, “materially false” for “material false”, and “application or any update thereto” for “application”.
+Par. (2)(G). Pub. L. 102–546, §208(d), substituted "this paragraph and paragraph (3)" for "subparagraphs (A) through (F) of this paragraph", "materially false" for "material false", and "application or any update thereto" for "application".
 
 Par. (3). Pub. L. 102–546, §209(b)(6)(B), made technical amendment to reference to sections 9 and 15 of this title in concluding provisions to reflect change in reference to corresponding section of original act.
 
-Par. (3)(D). Pub. L. 102–546, §208(e), inserted “pleaded guilty to or” after “person”, substituted “section,” for “section within ten years preceding the filing of the application or at any time thereafter,” and “felony of the type specified in paragraph (2)(D) of this section more” for “felony, including a felony of the type specified in paragraph (2)(D) of this section, more”.
+Par. (3)(D). Pub. L. 102–546, §208(e), inserted "pleaded guilty to or" after "person", substituted "section," for "section within ten years preceding the filing of the application or at any time thereafter," and "felony of the type specified in paragraph (2)(D) of this section more" for "felony, including a felony of the type specified in paragraph (2)(D) of this section, more".
 
-Par. (3)(E). Pub. L. 102–546, §208(f)(1), (2), inserted “pleaded guilty to or” after “person” and struck out “within ten years preceding the filing of the application for registration or at any time thereafter” before “of any misdemeanor”.
+Par. (3)(E). Pub. L. 102–546, §208(f)(1), (2), inserted "pleaded guilty to or" after "person" and struck out "within ten years preceding the filing of the application for registration or at any time thereafter" before "of any misdemeanor".
 
-Par. (3)(E)(ii). Pub. L. 102–546, §207(b)(4), inserted “floor trader,” after “floor broker,”.
+Par. (3)(E)(ii). Pub. L. 102–546, §207(b)(4), inserted "floor trader," after "floor broker,".
 
 Par. (3)(E)(iv). Pub. L. 102–546, §208(f)(3), inserted reference to sections 7203 to 7205 and 7207 of title 26.
 
-Par. (3)(G). Pub. L. 102–546, §208(g)(5), which directed the insertion of “or in any registration disqualification proceeding” after “Commission”, was executed by making the insertion after “Commission” the second time it appeared to reflect the probable intent of Congress.
+Par. (3)(G). Pub. L. 102–546, §208(g)(5), which directed the insertion of "or in any registration disqualification proceeding" after "Commission", was executed by making the insertion after "Commission" the second time it appeared to reflect the probable intent of Congress.
 
-Pub. L. 102–546, §208(g)(1)–(4), substituted “materially false” for “material false”, “application or any update thereto,” for “application,” and struck out “or” after “thereunder,”.
+Pub. L. 102–546, §208(g)(1)–(4), substituted "materially false" for "material false", "application or any update thereto," for "application," and struck out "or" after "thereunder,".
 
-Par. (3)(H). Pub. L. 102–546, §208(h), inserted “, in a United States military court,” after “State court”.
+Par. (3)(H). Pub. L. 102–546, §208(h), inserted ", in a United States military court," after "State court".
 
-Par. (3)(J). Pub. L. 102–546, §208(i), struck out “or” before “any other self-regulatory”, inserted “or any foreign regulatory body that the Commission recognizes as having a comparable regulatory program”, and substituted “association, self-regulatory organization, or foreign regulatory body” for “association, or self-regulatory organization”.
+Par. (3)(J). Pub. L. 102–546, §208(i), struck out "or" before "any other self-regulatory", inserted "or any foreign regulatory body that the Commission recognizes as having a comparable regulatory program", and substituted "association, self-regulatory organization, or foreign regulatory body" for "association, or self-regulatory organization".
 
 Par. (4). Pub. L. 102–546, §209(b)(6)(C), made technical amendment to references to sections 9 and 15 of this title in concluding provisions to reflect change in references to corresponding section of original act.
 
-Par. (5). Pub. L. 102–546, §402(10)(A), struck out “and” at end.
+Par. (5). Pub. L. 102–546, §402(10)(A), struck out "and" at end.
 
-Par. (7). Pub. L. 102–546, §402(10)(B), substituted “matters as—” for “matters as:” in introductory provisions.
+Par. (7). Pub. L. 102–546, §402(10)(B), substituted "matters as—" for "matters as:" in introductory provisions.
 
 Par. (11). Pub. L. 102–546, §227, added par. (11).
 
-**1983**—Par. (1). Pub. L. 97–444, §223, substituted authorization for registration of “associated persons of futures commission merchants” for “and persons associated therewith as described in section 6k of this title”; authorized registration of introducing brokers, associated persons of introducing brokers, associated persons of commodity trading advisors and associated persons of commodity pool operators, substituted “such persons” for “any persons” before “associated with the applicant”, and authorized establishment of registration and renewal fees and charges and granting of temporary licenses for terms not exceeding six months from date of issuance.
+**1983**—Par. (1). Pub. L. 97–444, §223, substituted authorization for registration of "associated persons of futures commission merchants" for "and persons associated therewith as described in section 6k of this title"; authorized registration of introducing brokers, associated persons of introducing brokers, associated persons of commodity trading advisors and associated persons of commodity pool operators, substituted "such persons" for "any persons" before "associated with the applicant", and authorized establishment of registration and renewal fees and charges and granting of temporary licenses for terms not exceeding six months from date of issuance.
 
-Par. (2). Pub. L. 97–444, §224(1), added par. (2) and struck out prior par. (2) which authorized Commission “to refuse to register any person—
+Par. (2). Pub. L. 97–444, §224(1), added par. (2) and struck out prior par. (2) which authorized Commission "to refuse to register any person—
 
-“(A) if the prior registration of such person has been suspended (and the period of such suspension shall not have expired) or has been revoked;
+"(A) if the prior registration of such person has been suspended (and the period of such suspension shall not have expired) or has been revoked;
 
-“(B) if it is found, after opportunity for hearing, that the applicant is unfit to engage in the business for which the application for registration is made, (i) because such applicant, or, if the applicant is a partnership, any general partner, or, if the applicant is a corporation, any officer or holder of more than 10 per centum of the stock, at any time engaged in any practice of the character prohibited by this chapter or was convicted of a felony in any State or Federal court, or was debarred by any agency of the United States from contracting with the United States, or the applicant willfully made any material false or misleading statement in his application or willfully omitted to state any material fact in connection with the application, or (ii) for other good cause shown; or
+"(B) if it is found, after opportunity for hearing, that the applicant is unfit to engage in the business for which the application for registration is made, (i) because such applicant, or, if the applicant is a partnership, any general partner, or, if the applicant is a corporation, any officer or holder of more than 10 per centum of the stock, at any time engaged in any practice of the character prohibited by this chapter or was convicted of a felony in any State or Federal court, or was debarred by any agency of the United States from contracting with the United States, or the applicant willfully made any material false or misleading statement in his application or willfully omitted to state any material fact in connection with the application, or (ii) for other good cause shown; or
 
-“(C) in the case of an applicant for registration as futures commission merchant, if it is found after opportunity for hearing that the applicant has not established that he meets the minimum financial requirements under section 6f of this title: *Provided*, That pending final determination under subparagraph (B) or (C), registration shall not be granted: *And provided further*, That the applicant may appeal from the refusal of registration under subparagraph (B) or (C) in the manner provided in sections 9 and 15 of this title; and”.
+"(C) in the case of an applicant for registration as futures commission merchant, if it is found after opportunity for hearing that the applicant has not established that he meets the minimum financial requirements under section 6f of this title: *Provided*, That pending final determination under subparagraph (B) or (C), registration shall not be granted: *And provided further*, That the applicant may appeal from the refusal of registration under subparagraph (B) or (C) in the manner provided in sections 9 and 15 of this title; and".
 
 Par. (3). Pub. L. 97–444, §224(3), added par. (3). Former par. (3) redesignated (4).
 
-Par. (4). Pub. L. 97–444, §224(2), (4), struck out par. (4) provision for establishment of registration and renewal fees and charges, covered in par. (1), redesignated par. (3) as (4), and in redesignated par. (4), authorized placing of restrictions on registrations, suspension or revocation of registration of an introducing broker and appeals from registration decisions made pursuant to this paragraph as provided in sections 9 and 15 of this title, and substituted “if cause exists under paragraph (3) of this section” for “if cause exists under paragraph (2)(B) or (C) of this section”.
+Par. (4). Pub. L. 97–444, §224(2), (4), struck out par. (4) provision for establishment of registration and renewal fees and charges, covered in par. (1), redesignated par. (3) as (4), and in redesignated par. (4), authorized placing of restrictions on registrations, suspension or revocation of registration of an introducing broker and appeals from registration decisions made pursuant to this paragraph as provided in sections 9 and 15 of this title, and substituted "if cause exists under paragraph (3) of this section" for "if cause exists under paragraph (2)(B) or (C) of this section".
 
 Par. (6). Pub. L. 97–444, §104, authorized communication of full facts respecting transactions or market operations to registered futures associations and self-regulatory organizations, included concern for investors, provided for communications when necessary or appropriate to effectuate purposes of this chapter, and prohibited disclosure of furnished information except in self-regulatory actions or proceedings.
 
-Pars. (6) to (8). Pub. L. 97–444, §224(5), struck out “and” at end of pars. (6), (7), and (8).
+Pars. (6) to (8). Pub. L. 97–444, §224(5), struck out "and" at end of pars. (6), (7), and (8).
 
 Par. (9). Pub. L. 97–444, §225, authorized Commission to direct the contract market to take certain action, including, but not limited to, setting of temporary emergency margin levels on any futures contract, and fixing of limits that may apply to a market position acquired in good faith prior to the effective date of Commission's action and inserted provisions respecting judicial review.
 
 Par. (10). Pub. L. 97–444, §224(6), added par. (10).
 
-**1978**—Par. (1). Pub. L. 95–405, §17(1), inserted “, which may require the applicant, and any persons associated with the applicant as the Commission may specify, to be fingerprinted and to submit, or cause to be submitted, such fingerprints to the Attorney General for identification and appropriate processing” after “by the Commission”.
+**1978**—Par. (1). Pub. L. 95–405, §17(1), inserted ", which may require the applicant, and any persons associated with the applicant as the Commission may specify, to be fingerprinted and to submit, or cause to be submitted, such fingerprints to the Attorney General for identification and appropriate processing" after "by the Commission".
 
-Par. (6). Pub. L. 95–405, §17(2), struck out “and to publish” after “any contract market”.
+Par. (6). Pub. L. 95–405, §17(2), struck out "and to publish" after "any contract market".
 
-**1974**—Pub. L. 93–463, §103(a), substituted “Commission” for “Secretary of Agriculture” in provisions preceding par. (1).
+**1974**—Pub. L. 93–463, §103(a), substituted "Commission" for "Secretary of Agriculture" in provisions preceding par. (1).
 
-Par. (1). Pub. L. 93–463, §§103(a), 204(c), 205(c), substituted “Commission” for “Secretary of Agriculture”, inserted “and persons associated therewith as described in section 6k of this title,” after “futures commission merchants”, and inserted “commodity trading advisors, commodity pool operators” before “and floor brokers”.
+Par. (1). Pub. L. 93–463, §§103(a), 204(c), 205(c), substituted "Commission" for "Secretary of Agriculture", inserted "and persons associated therewith as described in section 6k of this title," after "futures commission merchants", and inserted "commodity trading advisors, commodity pool operators" before "and floor brokers".
 
-Pars. (3), (5), (6). Pub. L. 93–463, §103(a), substituted “Commission” for “Secretary of Agriculture”.
+Pars. (3), (5), (6). Pub. L. 93–463, §103(a), substituted "Commission" for "Secretary of Agriculture".
 
 Par. (7). Pub. L. 93–463, §213, amended par. (7) generally, substituting provisions covering the altering or supplementing of the rules of a contract market for provisions covering the disapproval of bylaws, rules, regulations, and resolutions made, issued, or proposed by a contract market.
 
@@ -214,7 +214,7 @@ Par. (8). Pub. L. 93–463, §214, added par. (8).
 
 Par. (9). Pub. L. 93–463, §215, added par. (9).
 
-**1968**—Par. (2). Pub. L. 90–258, §20, designated existing provisions as subpar. (A), substituted “if the prior registration of such person” for “if such person has violated any of the provisions of this chapter or any of the rules or regulations promulgated by the Secretary of Agriculture hereunder for which the registration of such person” and added subpars. (B) and (C).
+**1968**—Par. (2). Pub. L. 90–258, §20, designated existing provisions as subpar. (A), substituted "if the prior registration of such person" for "if such person has violated any of the provisions of this chapter or any of the rules or regulations promulgated by the Secretary of Agriculture hereunder for which the registration of such person" and added subpars. (B) and (C).
 
 Par. (3). Pub. L. 90–258, §21, authorized Secretary of Agriculture, in accordance with procedure provided for in sections 9 and 15 of this title, to suspend or revoke the registration of any person registered under this chapter if cause exists under par. (2)(B) or (C) of this section which would warrant a refusal of registration of such person.
 
@@ -254,6 +254,6 @@ For effective date of section, see section 13 of act June 15, 1936, set out as a
 
 [<sup>1</sup> See References in Text note below.](#12a_1)
 
-[<sup>2</sup> So in original. Probably should be “Investor”.](#12a_2)
+[<sup>2</sup> So in original. Probably should be "Investor".](#12a_2)
 
-[<sup>3</sup> So in original. Probably should be “Investor”.](#12a_3)
+[<sup>3</sup> So in original. Probably should be "Investor".](#12a_3)

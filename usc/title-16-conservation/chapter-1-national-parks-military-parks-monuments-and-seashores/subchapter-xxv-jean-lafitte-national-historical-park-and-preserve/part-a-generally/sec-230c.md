@@ -10,9 +10,9 @@ Paragraphs (4) and (5) of section 230 of this title, included within the referen
 
 #### Amendments ####
 
-**1979**—Pub. L. 96–87 substituted reference to “section 907 of this title” for reference to “section 7 of this title” in the original. Since “section 7 of this title” had already been translated as “section 230f of this title” as the probable intent of Congress the substitution of “907” for “7” required no change in text as set out in this section.
+**1979**—Pub. L. 96–87 substituted reference to "section 907 of this title" for reference to "section 7 of this title" in the original. Since "section 7 of this title" had already been translated as "section 230f of this title" as the probable intent of Congress the substitution of "907" for "7" required no change in text as set out in this section.
 
-#### “Secretary” Defined ####
+#### "Secretary" Defined ####
 
 Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.
 

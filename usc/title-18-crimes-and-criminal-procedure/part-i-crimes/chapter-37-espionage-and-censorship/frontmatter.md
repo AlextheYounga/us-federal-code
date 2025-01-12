@@ -24,9 +24,9 @@ Sec.
 
 #### Amendments ####
 
-**1990**—Pub. L. 101–647, title XXXV, §3519(b), Nov. 29, 1990, 104 Stat. 4923, redesignated item 798, “Temporary extension of section 794”, as 798A.
+**1990**—Pub. L. 101–647, title XXXV, §3519(b), Nov. 29, 1990, 104 Stat. 4923, redesignated item 798, "Temporary extension of section 794", as 798A.
 
-**1961**—Pub. L. 87–369, §2, Oct. 4, 1961, 75 Stat. 795, struck out item 791 “Scope of chapter”.
+**1961**—Pub. L. 87–369, §2, Oct. 4, 1961, 75 Stat. 795, struck out item 791 "Scope of chapter".
 
 **1958**—Pub. L. 85–568, title III, §304(c)(2), July 29, 1958, 72 Stat. 434, added item 799.
 

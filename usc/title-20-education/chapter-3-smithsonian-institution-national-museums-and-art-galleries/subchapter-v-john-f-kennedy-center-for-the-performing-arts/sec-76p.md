@@ -6,4 +6,4 @@ The Secretary of the Treasury is authorized to accept on behalf of the United St
 
 #### Amendments ####
 
-**1994**—Pub. L. 103–279 substituted “which the Secretary finds” for “which he finds” and “the judgment of the Secretary” for “his judgment”.
+**1994**—Pub. L. 103–279 substituted "which the Secretary finds" for "which he finds" and "the judgment of the Secretary" for "his judgment".

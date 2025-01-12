@@ -66,29 +66,29 @@ Each valuation submitted under this subsection shall be prepared by the licensee
 
 #### References in Text ####
 
-For definition of “this chapter”, referred to in subsec. (a), see References in Text note set out under section 661 of this title.
+For definition of "this chapter", referred to in subsec. (a), see References in Text note set out under section 661 of this title.
 
 The Investment Company Act of 1940, referred to in subsec. (b), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 #### Amendments ####
 
-**2000**—Subsec. (c)(4). Pub. L. 106–554 substituted “1 year” for “five years”.
+**2000**—Subsec. (c)(4). Pub. L. 106–554 substituted "1 year" for "five years".
 
-**1997**—Subsec. (b). Pub. L. 105–135 inserted after first sentence “Fees collected under this subsection shall be deposited in the account for salaries and expenses of the Administration, and are authorized to be appropriated solely to cover the costs of examinations and other program oversight activities.”
+**1997**—Subsec. (b). Pub. L. 105–135 inserted after first sentence "Fees collected under this subsection shall be deposited in the account for salaries and expenses of the Administration, and are authorized to be appropriated solely to cover the costs of examinations and other program oversight activities."
 
-**1996**—Subsec. (b). Pub. L. 104–208, §208(f)(1), inserted “which may be conducted with the assistance of a private sector entity that has both the qualifications to conduct and expertise in conducting such examinations,” after “Investment Division of the Administration,” in first sentence.
+**1996**—Subsec. (b). Pub. L. 104–208, §208(f)(1), inserted "which may be conducted with the assistance of a private sector entity that has both the qualifications to conduct and expertise in conducting such examinations," after "Investment Division of the Administration," in first sentence.
 
-Subsec. (c)(4). Pub. L. 104–208, §208(h)(1)(C), struck out “not less than four years in the case of section 301(d) licensees and in all other cases,” after “small businesses for”.
+Subsec. (c)(4). Pub. L. 104–208, §208(h)(1)(C), struck out "not less than four years in the case of section 301(d) licensees and in all other cases," after "small businesses for".
 
-Subsec. (d). Pub. L. 104–208, §208(f)(2), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “Each small business investment company shall adopt written guidelines for determination of the value of investments made by such company. The board of directors of corporations and the general partners of partnerships shall have the sole responsibility for making a good faith determination of the fair market value of the investments made by such company. Determinations shall be made and reported to the Administration not less than semiannually or at more frequent intervals as the Administration determines appropriate: *Provided*, That any company which does not have outstanding financial assistance under the provisions of this subchapter shall be required to make such determinations and reports to the Administration annually, unless the Administration, in its discretion, determines otherwise.”
+Subsec. (d). Pub. L. 104–208, §208(f)(2), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: "Each small business investment company shall adopt written guidelines for determination of the value of investments made by such company. The board of directors of corporations and the general partners of partnerships shall have the sole responsibility for making a good faith determination of the fair market value of the investments made by such company. Determinations shall be made and reported to the Administration not less than semiannually or at more frequent intervals as the Administration determines appropriate: *Provided*, That any company which does not have outstanding financial assistance under the provisions of this subchapter shall be required to make such determinations and reports to the Administration annually, unless the Administration, in its discretion, determines otherwise."
 
-**1992**—Subsec. (b). Pub. L. 102–366, §407(a), substituted “Investment Division of” for “Administration by examiners selected or approved by”.
+**1992**—Subsec. (b). Pub. L. 102–366, §407(a), substituted "Investment Division of" for "Administration by examiners selected or approved by".
 
-Subsec. (c)(5). Pub. L. 102–366, §408(b), inserted before semicolon at end “, if such restriction is applicable”.
+Subsec. (c)(5). Pub. L. 102–366, §408(b), inserted before semicolon at end ", if such restriction is applicable".
 
 Subsec. (d). Pub. L. 102–366, §406(b), added subsec. (d).
 
-**1988**—Subsec. (b). Pub. L. 100–590 struck out second sentence, which read as follows: “Each such company shall be examined at least once each year, except that the Administrator may waive examination in the case of a company whose operations have been suspended by reason of the fact that the company is involved in litigation or is in receivership.”
+**1988**—Subsec. (b). Pub. L. 100–590 struck out second sentence, which read as follows: "Each such company shall be examined at least once each year, except that the Administrator may waive examination in the case of a company whose operations have been suspended by reason of the fact that the company is involved in litigation or is in receivership."
 
 Subsec. (c). Pub. L. 100–590 added subsec. (c).
 
@@ -110,4 +110,4 @@ Nothing in amendment by Pub. L. 102–366 to be construed to affect applicabilit
 
 #### Transfer of Resources ####
 
-Pub. L. 102–366, title IV, §407(b), Sept. 4, 1992, 106 Stat. 1016, provided that: “Effective October 1, 1992, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, and other funds employed, held, used, arising from, available or to be made available, which are related to the examination function provided by section 310 of the Small Business Investment Act of 1958 [15 U.S.C. 687b] shall be transferred by the Inspector General of the Small Business Administration to the Investment Division of the Small Business Administration.”
+Pub. L. 102–366, title IV, §407(b), Sept. 4, 1992, 106 Stat. 1016, provided that: "Effective October 1, 1992, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, and other funds employed, held, used, arising from, available or to be made available, which are related to the examination function provided by section 310 of the Small Business Investment Act of 1958 [15 U.S.C. 687b] shall be transferred by the Inspector General of the Small Business Administration to the Investment Division of the Small Business Administration."

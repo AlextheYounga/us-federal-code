@@ -1,6 +1,6 @@
 ### §171a. Council on Oversight of the National Leadership Command, Control, and Communications System ###
 
-(a) Establishment.—There is within the Department of Defense a council to be known as the “Council on Oversight of the National Leadership Command, Control, and Communications System” (in this section referred to as the “Council”).
+(a) Establishment.—There is within the Department of Defense a council to be known as the "Council on Oversight of the National Leadership Command, Control, and Communications System" (in this section referred to as the "Council").
 
 (b) Membership.—The members of the Council shall be as follows:
 
@@ -60,9 +60,9 @@
 
 (g) Notification of Anomalies.—(1) The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system for the national leadership of the United States that is reported to the Secretary or the Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
 
-(2) In this subsection, the term “anomaly” means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.
+(2) In this subsection, the term "anomaly" means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.
 
-(h) National Leadership of the United States Defined.—In this section, the term “national leadership of the United States” means the following:
+(h) National Leadership of the United States Defined.—In this section, the term "national leadership of the United States" means the following:
 
 (1) The President.
 

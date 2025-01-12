@@ -138,7 +138,7 @@ Sec.
 
 3032a. Career preparation for the field of aging.
 
-3032b. Older individuals’ protection from violence projects.
+3032b. Older individuals' protection from violence projects.
 
 3032c. Health care service demonstration projects in rural areas.
 
@@ -254,7 +254,7 @@ Sec.
 
 3057j–1. Distribution of funds among organizations.
 
-3057k. “Native Hawaiian” defined.
+3057k. "Native Hawaiian" defined.
 
 #### Part C—Native American Caregiver Support Program ####
 

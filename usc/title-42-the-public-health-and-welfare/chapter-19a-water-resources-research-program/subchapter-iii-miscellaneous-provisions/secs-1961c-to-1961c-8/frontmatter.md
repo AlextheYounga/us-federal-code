@@ -12,7 +12,7 @@ Section 1961c–4, Pub. L. 88–379, title III, §304, July 17, 1964, 78 Stat. 3
 
 Section 1961c–5, Pub. L. 88–379, title III, §305, July 17, 1964, 78 Stat. 332, related to interagency coordination of water resources research. See section 7877(b) of this title.
 
-Section 1961c–6, Pub. L. 88–379, title III, §306, July 17, 1964, 78 Stat. 333; Pub. L. 92–175, §6, Dec. 2, 1971, 85 Stat. 494, defined “State”. See section 7817 of this title.
+Section 1961c–6, Pub. L. 88–379, title III, §306, July 17, 1964, 78 Stat. 333; Pub. L. 92–175, §6, Dec. 2, 1971, 85 Stat. 494, defined "State". See section 7817 of this title.
 
 Section 1961c–7, Pub. L. 88–379, title III, §307, as added Pub. L. 89–404, §2, Apr. 19, 1966, 80 Stat. 130, and amended Pub. L. 92–175, §7, Dec. 2, 1971, 85 Stat. 494, required Secretary of the Interior to make an annual report to the President and Congress. See section 7880 of this title.
 

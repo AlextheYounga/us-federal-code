@@ -6,15 +6,15 @@ The flag of the United States shall be thirteen horizontal stripes, alternate re
 
 #### Short Title of 2009 Amendment ####
 
-Pub. L. 111–41, §1, July 27, 2009, 123 Stat. 1962, provided that: “This Act [amending section 6 of this title] may be cited as the ‘Korean War Veterans Recognition Act’.”
+Pub. L. 111–41, §1, July 27, 2009, 123 Stat. 1962, provided that: "This Act [amending section 6 of this title] may be cited as the 'Korean War Veterans Recognition Act'."
 
 #### Short Title of 2007 Amendment ####
 
-Pub. L. 110–41, §1, June 29, 2007, 121 Stat. 233, provided that: “This Act [amending section 7 of this title and provisions set out as a note under section 7 of this title] may be cited as the ‘Army Specialist Joseph P. Micks Federal Flag Code Amendment Act of 2007’.”
+Pub. L. 110–41, §1, June 29, 2007, 121 Stat. 233, provided that: "This Act [amending section 7 of this title and provisions set out as a note under section 7 of this title] may be cited as the 'Army Specialist Joseph P. Micks Federal Flag Code Amendment Act of 2007'."
 
 #### Short Title of 2000 Amendment ####
 
-Pub. L. 106–252, §1, July 28, 2000, 114 Stat. 626, provided that: “This Act [enacting sections 116 to 126 of this title and provisions set out as a note under section 116 of this title] may be cited as the ‘Mobile Telecommunications Sourcing Act’.”
+Pub. L. 106–252, §1, July 28, 2000, 114 Stat. 626, provided that: "This Act [enacting sections 116 to 126 of this title and provisions set out as a note under section 116 of this title] may be cited as the 'Mobile Telecommunications Sourcing Act'."
 
 #### Executive Order No. 10798 ####
 
@@ -26,7 +26,7 @@ Ex. Ord. No. 10834, Aug. 21, 1959, 24 F.R. 6865, provided:
 
 WHEREAS the State of Hawaii has this day been admitted into the Union; and
 
-WHEREAS section 2 of title 4 of the United States Code provides as follows: “On the admission of a new State into the Union one star shall be added to the union of the flag; and such addition shall take effect on the fourth day of July then next succeeding such admission.”; and
+WHEREAS section 2 of title 4 of the United States Code provides as follows: "On the admission of a new State into the Union one star shall be added to the union of the flag; and such addition shall take effect on the fourth day of July then next succeeding such admission."; and
 
 WHEREAS the Federal Property and Administrative Services Act of 1949 (63 Stat. 377), as amended [see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts] authorizes the President to prescribe policies and directives governing the procurement and utilization of property by executive agencies; and
 
@@ -80,7 +80,7 @@ Sec. 25. Subject to such limited exceptions as the Secretary of Defense in respe
 
 Sec. 31. The flag prescribed by Executive Order No. 10798 of January 3, 1959, shall be the official flag of the United States until July 4, 1960, and on that date the flag prescribed by Part I of this order shall become the official flag of the United States; but this section shall neither derogate from section 24 or section 25 of this order nor preclude the procurement, for executive agencies, of flags provided for by or pursuant to this order at any time after the date of this order.
 
-Sec. 32. As used in this order, the term “executive agencies” means the executive departments and independent establishments in the executive branch of the Government, including wholly-owned Government corporations.
+Sec. 32. As used in this order, the term "executive agencies" means the executive departments and independent establishments in the executive branch of the Government, including wholly-owned Government corporations.
 
 Sec. 33. Executive Order No. 10798 of January 3, 1959, is hereby revoked.
 

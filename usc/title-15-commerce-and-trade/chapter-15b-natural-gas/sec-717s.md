@@ -28,7 +28,7 @@ In any proceedings under subsection (a) of this section, the court may prohibit,
 
 #### Codification ####
 
-The words “the District Court of the United States for the District of Columbia” in subsec. (a) following “district court of the United States” and in subsec. (b) following “district courts of the United States” omitted as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district”, and section 88 of title 28 which states that “The District of Columbia constitutes one judicial district”.
+The words "the District Court of the United States for the District of Columbia" in subsec. (a) following "district court of the United States" and in subsec. (b) following "district courts of the United States" omitted as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that "There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district", and section 88 of title 28 which states that "The District of Columbia constitutes one judicial district".
 
 #### Amendments ####
 

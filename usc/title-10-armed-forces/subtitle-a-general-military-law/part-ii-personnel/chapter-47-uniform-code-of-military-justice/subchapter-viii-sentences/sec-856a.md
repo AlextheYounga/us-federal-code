@@ -18,4 +18,4 @@
 
 #### Effective Date ####
 
-Pub. L. 105–85, div. A, title V, §581(b), Nov. 18, 1997, 111 Stat. 1760, provided that: “Section 856a of title 10, United States Code (article 56a of the Uniform Code of Military Justice), as added by subsection (a), shall be applicable only with respect to an offense committed after the date of the enactment of this Act [Nov. 18, 1997].”
+Pub. L. 105–85, div. A, title V, §581(b), Nov. 18, 1997, 111 Stat. 1760, provided that: "Section 856a of title 10, United States Code (article 56a of the Uniform Code of Military Justice), as added by subsection (a), shall be applicable only with respect to an offense committed after the date of the enactment of this Act [Nov. 18, 1997]."

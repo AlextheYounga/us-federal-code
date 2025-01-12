@@ -4,7 +4,7 @@ The Secretary of the Interior is authorized to contract for the delivery of wate
 
 #### (a) Amount and time of water delivery to Service ####
 
-the public organizations or agencies contracting with the Secretary of the Interior, excluding the State of California, shall deliver annually to the United States Fish and Wildlife Service (hereinafter referred to as the “Service”), at no cost to the United States, not less than three thousand five hundred acre-feet of water during the period October 1 through November 30, inclusive, and not less than four thousand acre-feet of water during the period May 1 through September 30, inclusive, if available: *Provided*, That such amounts of water and times of delivery may be changed upon approval of the Secretary of the Interior;
+the public organizations or agencies contracting with the Secretary of the Interior, excluding the State of California, shall deliver annually to the United States Fish and Wildlife Service (hereinafter referred to as the "Service"), at no cost to the United States, not less than three thousand five hundred acre-feet of water during the period October 1 through November 30, inclusive, and not less than four thousand acre-feet of water during the period May 1 through September 30, inclusive, if available: *Provided*, That such amounts of water and times of delivery may be changed upon approval of the Secretary of the Interior;
 
 #### (b) Construction, operation, and maintenance of water conveyance facilities ####
 
@@ -26,4 +26,4 @@ The Federal reclamation laws, referred to in introductory text, are identified i
 
 #### Amendments ####
 
-**1978**—Pub. L. 95–616 inserted second sentence, including pars. (a) to (d), and struck out prior second sentence which read as follows: “If and when available, such water shall be delivered from the Central Valley project at a charge not to exceed the prevailing charge for class 2 water.”
+**1978**—Pub. L. 95–616 inserted second sentence, including pars. (a) to (d), and struck out prior second sentence which read as follows: "If and when available, such water shall be delivered from the Central Valley project at a charge not to exceed the prevailing charge for class 2 water."

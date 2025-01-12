@@ -16,8 +16,8 @@ For the purpose of mobilizing the resources of the Fund in order to help reduce 
 
 #### Amendments ####
 
-**2000**—Par. (1)(B), (D). Pub. L. 106–429 inserted “and” at end of subpar. (B) and struck out subpar. (D) which read as follows: “shall not use more than 9/14 of the earnings on the investment of the profits of such sales; and”.
+**2000**—Par. (1)(B), (D). Pub. L. 106–429 inserted "and" at end of subpar. (B) and struck out subpar. (D) which read as follows: "shall not use more than 9/14 of the earnings on the investment of the profits of such sales; and".
 
 #### Certification to Congress Relating To Use of Profits To Augment International Monetary Fund ####
 
-Pub. L. 106–113, div. B, §1000(a)(5) [title V, §503(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–316, provided that: “Within 15 days after the United States Executive Director casts the votes necessary to carry out the instruction described in section 62 of the Bretton Woods Agreements Act [22 U.S.C. 286nn], the Secretary of the Treasury shall certify to the Congress that neither the profits nor the earnings on the investment of profits from the gold sales made pursuant to the instruction or of the funds attributable to United States participation in SCA–2 will be used to augment the resources of any reserve account of the International Monetary Fund for the purpose of making loans.”
+Pub. L. 106–113, div. B, §1000(a)(5) [title V, §503(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–316, provided that: "Within 15 days after the United States Executive Director casts the votes necessary to carry out the instruction described in section 62 of the Bretton Woods Agreements Act [22 U.S.C. 286nn], the Secretary of the Treasury shall certify to the Congress that neither the profits nor the earnings on the investment of profits from the gold sales made pursuant to the instruction or of the funds attributable to United States participation in SCA–2 will be used to augment the resources of any reserve account of the International Monetary Fund for the purpose of making loans."

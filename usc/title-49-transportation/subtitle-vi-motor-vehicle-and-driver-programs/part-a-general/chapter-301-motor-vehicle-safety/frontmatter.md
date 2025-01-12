@@ -106,7 +106,7 @@ Sec.
 
 #### Amendments ####
 
-**2012**—Pub. L. 112–141, div. C, title I, §§31202(b), 31204(b)(1), (2)(A), 31208(1), 31307(c), 31312(b), July 6, 2012, 126 Stat. 758, 760, 761, 769, 772, added items 30120A and 30171, item for subchapter V, and items 30181 to 30183, substituted “Nonuse of safety belts” for “Buzzers indicating nonuse of safety belts” in item 30124 and “Service of process; conditions on importation of vehicles and equipment” for “Service of process” in item 30164, and struck out item 30168 “Research, testing, development, and training”.
+**2012**—Pub. L. 112–141, div. C, title I, §§31202(b), 31204(b)(1), (2)(A), 31208(1), 31307(c), 31312(b), July 6, 2012, 126 Stat. 758, 760, 761, 769, 772, added items 30120A and 30171, item for subchapter V, and items 30181 to 30183, substituted "Nonuse of safety belts" for "Buzzers indicating nonuse of safety belts" in item 30124 and "Service of process; conditions on importation of vehicles and equipment" for "Service of process" in item 30164, and struck out item 30168 "Research, testing, development, and training".
 
 **2005**—Pub. L. 109–59, title X, §10303(a), Aug. 10, 2005, 119 Stat. 1940, which directed amendment of the table of sections for chapter 301 by adding item 30128, without specifying the title to be amended, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 

@@ -88,7 +88,7 @@ A prior section 1359bb, act Feb. 16, 1938, ch. 30, title III, §359b, as added P
 
 #### Amendments ####
 
-**2014**—Subsec. (a)(1). Pub. L. 113–79 substituted “2018” for “2012”.
+**2014**—Subsec. (a)(1). Pub. L. 113–79 substituted "2018" for "2012".
 
 **2008**—Pub. L. 110–246, §1403(b), amended section generally, substituting provisions relating to sugar estimates for 2008 through 2012 crop years, establishment of allotments, coverage of allotments, and prohibition against marketing in excess of allotments, for provisions relating to sugar estimates for 2002 through 2007 crop years, establishment of allotments, and prohibition against marketing in excess of allotments.
 

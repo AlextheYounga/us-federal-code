@@ -16,4 +16,4 @@ No lands or interests therein within the boundaries of the park may be acquired 
 
 #### Amendments ####
 
-**2009**—Subsec. (d). Pub. L. 111–11 struck out subsec. (d). Text read as follows: “The Secretary shall not acquire any lands pursuant to this subchapter if the Secretary determines that such lands, or any portion thereof, have become contaminated with hazardous substances (as defined in the Comprehensive Environmental Response, Compensation and Liability Act (42 U.S.C. 9601)).”
+**2009**—Subsec. (d). Pub. L. 111–11 struck out subsec. (d). Text read as follows: "The Secretary shall not acquire any lands pursuant to this subchapter if the Secretary determines that such lands, or any portion thereof, have become contaminated with hazardous substances (as defined in the Comprehensive Environmental Response, Compensation and Liability Act (42 U.S.C. 9601))."

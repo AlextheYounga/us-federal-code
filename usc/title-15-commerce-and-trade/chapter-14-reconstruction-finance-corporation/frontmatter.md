@@ -20,11 +20,11 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 As used in this reorganization plan:
 
-(a) The term “Corporation” means the Reconstruction Finance Corporation.
+(a) The term "Corporation" means the Reconstruction Finance Corporation.
 
-(b) The term “remaining functions” means (1) all functions of the Corporation, (2) except as otherwise provided in subsections (b) and (c) of section 6 of this reorganization plan, all functions of the Secretary of the Treasury under section 10 of the Reconstruction Finance Corporation Act, as amended (15 U.S.C. 609), and (3) all functions of the Secretary of the Treasury under sections 102 and 106(b) of the Reconstruction Finance Corporation Liquidation Act (67 Stat. 230, 231), as amended [section 603 and section 609 note of this title].
+(b) The term "remaining functions" means (1) all functions of the Corporation, (2) except as otherwise provided in subsections (b) and (c) of section 6 of this reorganization plan, all functions of the Secretary of the Treasury under section 10 of the Reconstruction Finance Corporation Act, as amended (15 U.S.C. 609), and (3) all functions of the Secretary of the Treasury under sections 102 and 106(b) of the Reconstruction Finance Corporation Liquidation Act (67 Stat. 230, 231), as amended [section 603 and section 609 note of this title].
 
-(c) The term “transferees” means the Housing and Home Finance Administrator, the Administrator of General Services, the Administrator of the Small Business Administration, and the Secretary of the Treasury.
+(c) The term "transferees" means the Housing and Home Finance Administrator, the Administrator of General Services, the Administrator of the Small Business Administration, and the Secretary of the Treasury.
 
 #### Sec. 2. Transfer of Functions ####
 
@@ -99,12 +99,12 @@ This schedule annexed to Reorganization Plan No. 1 of 1957 lists by name and add
 
 #### Short Title of Act July 30, 1953, Ch. 282, Title I ####
 
-Congress, in enacting the amendments to sections 603(a) and 604(f) of this title; the provisions set out as notes under sections 603 and 609 of this title; the provisions set out as section 459 of former Title 40, Public Buildings, Property, and Works; and the provisions set out as notes under sections 98 and 544 of Title 50, War and National Defense, section 1929 and sections 2094 and 2261 of Appendix to title 50, provided by section 101 of such act that they should be popularly known as the “Reconstruction Finance Corporation Liquidation Act”.
+Congress, in enacting the amendments to sections 603(a) and 604(f) of this title; the provisions set out as notes under sections 603 and 609 of this title; the provisions set out as section 459 of former Title 40, Public Buildings, Property, and Works; and the provisions set out as notes under sections 98 and 544 of Title 50, War and National Defense, section 1929 and sections 2094 and 2261 of Appendix to title 50, provided by section 101 of such act that they should be popularly known as the "Reconstruction Finance Corporation Liquidation Act".
 
 #### Continuation of Pending Proceedings ####
 
-Act July 30, 1953, ch. 282, title I, §105, 67 Stat. 231, as amended by act June 29, 1954, ch. 410, §2(c), 68 Stat. 320, provided that: “No suit, action, or other proceeding lawfully commenced by or against the Reconstruction Finance Corporation shall abate by reason of the dissolution of the Corporation; but the court may, on motion or supplemental petition filed at any time within twelve months after the date of such dissolution and showing a necessity for a survival of such suit, action, or other proceeding to obtain a settlement of the questions involved, allow the same to be maintained by or against the officer or agency of the Government performing the functions with respect to which any such suit, action, or other proceeding was commenced.”
+Act July 30, 1953, ch. 282, title I, §105, 67 Stat. 231, as amended by act June 29, 1954, ch. 410, §2(c), 68 Stat. 320, provided that: "No suit, action, or other proceeding lawfully commenced by or against the Reconstruction Finance Corporation shall abate by reason of the dissolution of the Corporation; but the court may, on motion or supplemental petition filed at any time within twelve months after the date of such dissolution and showing a necessity for a survival of such suit, action, or other proceeding to obtain a settlement of the questions involved, allow the same to be maintained by or against the officer or agency of the Government performing the functions with respect to which any such suit, action, or other proceeding was commenced."
 
 #### Extension or Renewal of Loans ####
 
-Pub. L. 85–536, §4, July 18, 1958, 72 Stat. 396, provided that: “The Secretary of the Treasury is hereby authorized to further extend the maturity of or renew any loan transferred to the Secretary of the Treasury pursuant to Reorganization Plan Numbered 1 of 1957 [set out as a note above], for additional periods not to exceed ten years, if such extension or renewal will aid in the orderly liquidation of such loan.”
+Pub. L. 85–536, §4, July 18, 1958, 72 Stat. 396, provided that: "The Secretary of the Treasury is hereby authorized to further extend the maturity of or renew any loan transferred to the Secretary of the Treasury pursuant to Reorganization Plan Numbered 1 of 1957 [set out as a note above], for additional periods not to exceed ten years, if such extension or renewal will aid in the orderly liquidation of such loan."

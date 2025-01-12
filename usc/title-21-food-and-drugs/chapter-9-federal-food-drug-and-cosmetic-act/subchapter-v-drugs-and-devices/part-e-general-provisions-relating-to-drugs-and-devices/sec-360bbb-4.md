@@ -4,13 +4,13 @@
 
 In this section—
 
-(1) the term “countermeasure” means a qualified countermeasure, a security countermeasure, and a qualified pandemic or epidemic product;
+(1) the term "countermeasure" means a qualified countermeasure, a security countermeasure, and a qualified pandemic or epidemic product;
 
-(2) the term “qualified countermeasure” has the meaning given such term in section 247d–6a of title 42;
+(2) the term "qualified countermeasure" has the meaning given such term in section 247d–6a of title 42;
 
-(3) the term “security countermeasure” has the meaning given such term in section 247d–6b of title 42; and
+(3) the term "security countermeasure" has the meaning given such term in section 247d–6b of title 42; and
 
-(4) the term “qualified pandemic or epidemic product” means a product that meets the definition given such term in section 247d–6d of title 42 and—
+(4) the term "qualified pandemic or epidemic product" means a product that meets the definition given such term in section 247d–6d of title 42 and—
 
 (A) that has been identified by the Department of Health and Human Services or the Department of Defense as receiving funding directly related to addressing chemical, biological, radiological, or nuclear threats, including pandemic influenza; or
 
@@ -84,7 +84,7 @@ When practicable and appropriate, teams of Food and Drug Administration personne
 
 #### (1) Definition ####
 
-In this subsection, the term “eligible countermeasure” means—
+In this subsection, the term "eligible countermeasure" means—
 
 (A) a security countermeasure with respect to which the Secretary has entered into a procurement contract under section 247d–6b(c) of title 42; or
 
@@ -186,13 +186,13 @@ Not later than 180 days after March 13, 2013, and annually thereafter, the Secre
 
 #### Amendments ####
 
-**2013**—Pub. L. 113–5, §304(1), substituted “Countermeasure development, review, and technical assistance” for “Technical assistance” in section catchline.
+**2013**—Pub. L. 113–5, §304(1), substituted "Countermeasure development, review, and technical assistance" for "Technical assistance" in section catchline.
 
 Pub. L. 113–5, §303, designated existing provisions as subsec. (b) and inserted heading.
 
 Subsec. (a). Pub. L. 113–5, §303, added subsec. (a).
 
-Subsec. (b). Pub. L. 113–5, §304(2), reenacted heading without change, substituted “In order to accelerate the development, stockpiling, approval, licensure, and clearance of qualified countermeasures, security countermeasures, and qualified pandemic or epidemic products, the Secretary, in consultation with the Assistant Secretary for Preparedness and Response, shall—” for “The Secretary, in consultation with the Commissioner of Food and Drugs, shall”, added pars. (1) to (4), and designated remainder of existing provisions as par. (5).
+Subsec. (b). Pub. L. 113–5, §304(2), reenacted heading without change, substituted "In order to accelerate the development, stockpiling, approval, licensure, and clearance of qualified countermeasures, security countermeasures, and qualified pandemic or epidemic products, the Secretary, in consultation with the Assistant Secretary for Preparedness and Response, shall—" for "The Secretary, in consultation with the Commissioner of Food and Drugs, shall", added pars. (1) to (4), and designated remainder of existing provisions as par. (5).
 
 Subsecs. (c) to (e). Pub. L. 113–5, §304(3), added subsecs. (c) to (e).
 

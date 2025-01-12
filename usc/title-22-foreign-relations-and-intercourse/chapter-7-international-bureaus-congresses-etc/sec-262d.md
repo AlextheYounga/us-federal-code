@@ -94,29 +94,29 @@ In determining whether the government of a country engages in a pattern of gross
 
 #### Amendments ####
 
-**2000**—Subsec. (c)(1). Pub. L. 106–569 substituted “The Secretary of the Treasury shall report annually” for “Not later than 30 days after the end of each calendar quarter, the Secretary of the Treasury shall report quarterly”.
+**2000**—Subsec. (c)(1). Pub. L. 106–569 substituted "The Secretary of the Treasury shall report annually" for "Not later than 30 days after the end of each calendar quarter, the Secretary of the Treasury shall report quarterly".
 
 **1998**—Subsec. (g). Pub. L. 105–292 added subsec. (g) relating to violations of religious freedom.
 
-**1994**—Subsec. (b)(3). Pub. L. 103–236 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “whether the recipient country has detonated a nuclear device or is not a State Party to the Treaty on Nonproliferation of Nuclear Weapons or both; and”.
+**1994**—Subsec. (b)(3). Pub. L. 103–236 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "whether the recipient country has detonated a nuclear device or is not a State Party to the Treaty on Nonproliferation of Nuclear Weapons or both; and".
 
-**1992**—Subsec. (a). Pub. L. 102–511, §1008(a), substituted “the African Development Bank, the European Bank for Reconstruction and Development, and the International Monetary Fund,” for “and the African Development Bank,”.
+**1992**—Subsec. (a). Pub. L. 102–511, §1008(a), substituted "the African Development Bank, the European Bank for Reconstruction and Development, and the International Monetary Fund," for "and the African Development Bank,".
 
-Subsec. (b)(4). Pub. L. 102–511, §1008(b), inserted “Russia and the other independent states of the former Soviet Union (as defined in section 5801 of this title),” after “Laos,”.
+Subsec. (b)(4). Pub. L. 102–511, §1008(b), inserted "Russia and the other independent states of the former Soviet Union (as defined in section 5801 of this title)," after "Laos,".
 
-**1990**—Subsec. (g). Pub. L. 101–513 struck out “(2)” before “The Secretary” and substituted “of the Committee on Banking, Finance and Urban Affairs of the House of Representatives and of the Committee on Foreign Relations of the Senate” for “specified in paragraph (1)”.
+**1990**—Subsec. (g). Pub. L. 101–513 struck out "(2)" before "The Secretary" and substituted "of the Committee on Banking, Finance and Urban Affairs of the House of Representatives and of the Committee on Foreign Relations of the Senate" for "specified in paragraph (1)".
 
 **1989**—Subsec. (c). Pub. L. 101–240, §541(c), amended subsec. (c) generally, substituting provisions relating to quarterly reports by Secretary of the Treasury not later than 30 days after end of each calendar quarter for provisions relating to annual reports by Secretaries of State and the Treasury, and quarterly reports by Secretary of the Treasury.
 
-Subsec. (d). Pub. L. 101–240, §541(e)(8), struck out at end “The annual report required under subsection (c) of this section shall include a listing of categories of such assistance granted, with particular attention to categories that address basic human needs.”
+Subsec. (d). Pub. L. 101–240, §541(e)(8), struck out at end "The annual report required under subsection (c) of this section shall include a listing of categories of such assistance granted, with particular attention to categories that address basic human needs."
 
 Subsec. (g)(1). Pub. L. 101–240, §541(d)(4), struck out par. (1) which related to quarterly reporting requirements by Secretary of the Treasury in consultation with Secretary of State.
 
-**1983**—Subsec. (a)(1). Pub. L. 98–181 substituted “pattern” for “consistent pattern”.
+**1983**—Subsec. (a)(1). Pub. L. 98–181 substituted "pattern" for "consistent pattern".
 
-Subsec. (g)(1). Pub. L. 98–181 substituted “Not later than thirty days after the end of each calendar quarter, the Secretary of the Treasury, in consultation with the Secretary of State, shall report.” for “The Secretary of the Treasury, in consultation with the Secretary of State, shall report quarterly”.
+Subsec. (g)(1). Pub. L. 98–181 substituted "Not later than thirty days after the end of each calendar quarter, the Secretary of the Treasury, in consultation with the Secretary of State, shall report." for "The Secretary of the Treasury, in consultation with the Secretary of State, shall report quarterly".
 
-**1982**—Subsec. (c)(1). Pub. L. 97–375 inserted “excluding section 262e of this title and”.
+**1982**—Subsec. (c)(1). Pub. L. 97–375 inserted "excluding section 262e of this title and".
 
 **1981**—Subsec. (a). Pub. L. 97–35 inserted reference to the African Development Bank.
 
@@ -134,7 +134,7 @@ Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see sectio
 
 #### Effective Date of 1989 Amendment ####
 
-Pub. L. 101–240, title VIII, §801, Dec. 19, 1989, 103 Stat. 2524, provided that: “Except as otherwise provided in this Act, this Act and the amendments made by this Act [enacting sections 262m–7, 262p–4g to 262p–4k, 262r to 262r–2, 262s–1, 262t, 283z–5 to 283z–8, 286e–12, 286kk, and 2281 to 2286 of this title and section 3904a of Title 12, Banks and Banking, amending this section, sections 262m–7, 262p–1, 262p–5, 262s–2, 282b, 283b, 283cc, 284b, 285b, 286b, 286e–9, 286k–1, 286s, 290g–2, 290i–3, and 290k–5 of this title, and sections 635 and 635i–3 of Title 12, transferring former section 262q of this title to section 262s of this title and former section 4722 of Title 15, Commerce and Trade, to section 262s–2 of this title, repealing sections 262i, 262m–6, 276c–3, 283i, 286b–1, and 286b–2 of this title, enacting provisions set out as notes under sections 283z–6, 2151, and 2291 of this title and sections 635, 3901, and 3904a of Title 12, amending provisions set out as a note under section 262l of this title, and repealing provisions set out as notes under sections 262g–2 and 283 of this title] shall take effect on the date of the enactment of this Act [Dec. 19, 1989].”
+Pub. L. 101–240, title VIII, §801, Dec. 19, 1989, 103 Stat. 2524, provided that: "Except as otherwise provided in this Act, this Act and the amendments made by this Act [enacting sections 262m–7, 262p–4g to 262p–4k, 262r to 262r–2, 262s–1, 262t, 283z–5 to 283z–8, 286e–12, 286kk, and 2281 to 2286 of this title and section 3904a of Title 12, Banks and Banking, amending this section, sections 262m–7, 262p–1, 262p–5, 262s–2, 282b, 283b, 283cc, 284b, 285b, 286b, 286e–9, 286k–1, 286s, 290g–2, 290i–3, and 290k–5 of this title, and sections 635 and 635i–3 of Title 12, transferring former section 262q of this title to section 262s of this title and former section 4722 of Title 15, Commerce and Trade, to section 262s–2 of this title, repealing sections 262i, 262m–6, 276c–3, 283i, 286b–1, and 286b–2 of this title, enacting provisions set out as notes under sections 283z–6, 2151, and 2291 of this title and sections 635, 3901, and 3904a of Title 12, amending provisions set out as a note under section 262l of this title, and repealing provisions set out as notes under sections 262g–2 and 283 of this title] shall take effect on the date of the enactment of this Act [Dec. 19, 1989]."
 
 #### Effective Date of 1981 Amendment ####
 
@@ -146,12 +146,12 @@ Section effective Oct. 3, 1977, see section 1001 of Pub. L. 95–118, set out as
 
 #### Consultations for Adoption of Amendment to Articles of Agreement Respecting Human Rights Standards in Connection With Any Application for Assistance ####
 
-Pub. L. 95–118, title VII, §705, as added by Pub. L. 96–259, title V, §501(c), June 3, 1980, 94 Stat. 432, provided that: “The President shall direct the United States Governor of the International Bank for Reconstruction and Development, the United States Governor of the International Finance Corporation, the United States Governor of the International Development Association, the United States Governor of the Inter-American Development Bank, the United States Governor of the Asian Development Bank, and the United States Governor of the African Development Fund, to consult with the other Governors of those institutions concerning adoption of an amendment to the Articles of Agreement of their respective institutions to establish human rights standards to be considered in connection with each application for assistance.”
+Pub. L. 95–118, title VII, §705, as added by Pub. L. 96–259, title V, §501(c), June 3, 1980, 94 Stat. 432, provided that: "The President shall direct the United States Governor of the International Bank for Reconstruction and Development, the United States Governor of the International Finance Corporation, the United States Governor of the International Development Association, the United States Governor of the Inter-American Development Bank, the United States Governor of the Asian Development Bank, and the United States Governor of the African Development Fund, to consult with the other Governors of those institutions concerning adoption of an amendment to the Articles of Agreement of their respective institutions to establish human rights standards to be considered in connection with each application for assistance."
 
 #### Amendment of Articles of Agreement of International Financial Institutions; Establishment of Human Rights Standards To Be Considered in Connection With Assistance Application ####
 
-Pub. L. 95–481, title VI, §611, Oct. 18, 1978, 92 Stat. 1602, provided that: “The President shall direct the United States Governor of the International Bank for Reconstruction and Development, the United States Governor of the International Finance Corporation, the United States Governor of the International Development Association, the United States Governor of the Inter-American Development Bank, the United States Governor of the Asian Development Bank, and the United States Governor of the African Development Fund, to propose and seek adoption of an amendment to the Articles of Agreement for their respective institutions to establish human rights standards to be considered in connection with each application for assistance.”
+Pub. L. 95–481, title VI, §611, Oct. 18, 1978, 92 Stat. 1602, provided that: "The President shall direct the United States Governor of the International Bank for Reconstruction and Development, the United States Governor of the International Finance Corporation, the United States Governor of the International Development Association, the United States Governor of the Inter-American Development Bank, the United States Governor of the Asian Development Bank, and the United States Governor of the African Development Fund, to propose and seek adoption of an amendment to the Articles of Agreement for their respective institutions to establish human rights standards to be considered in connection with each application for assistance."
 
-[<sup>1</sup> So in original. Probably should be “Boards”.](#262d_1)
+[<sup>1</sup> So in original. Probably should be "Boards".](#262d_1)
 
 [<sup>2</sup> So in original. Two subsecs. (g) have been enacted.](#262d_2)

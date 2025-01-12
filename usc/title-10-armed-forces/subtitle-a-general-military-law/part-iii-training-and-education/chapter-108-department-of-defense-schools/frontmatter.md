@@ -24,21 +24,21 @@ Sec.
 
 #### Amendments ####
 
-**2013**—Pub. L. 112–239, div. A, title IX, §922(b)(2), Jan. 2, 2013, 126 Stat. 1879, substituted “National Intelligence University” for “National Defense Intelligence College” in item 2161.
+**2013**—Pub. L. 112–239, div. A, title IX, §922(b)(2), Jan. 2, 2013, 126 Stat. 1879, substituted "National Intelligence University" for "National Defense Intelligence College" in item 2161.
 
 **2009**—Pub. L. 111–84, div. A, title V, §525(a)(3)(B), title IX, §901(b), Oct. 28, 2009, 123 Stat. 2286, 2423, added items 2167a and 2169.
 
-**2008**—Pub. L. 110–417, [div. A], title V, §543(a)(2), (b)(2), Oct. 14, 2008, 122 Stat. 4457, 4458, added items 2161 and 2163 and struck out former items 2161 “Joint Military Intelligence College: academic degrees” and 2163 “National Defense University: master's degree programs”.
+**2008**—Pub. L. 110–417, [div. A], title V, §543(a)(2), (b)(2), Oct. 14, 2008, 122 Stat. 4457, 4458, added items 2161 and 2163 and struck out former items 2161 "Joint Military Intelligence College: academic degrees" and 2163 "National Defense University: master's degree programs".
 
-Pub. L. 110–181, div. A, title V, §526(b)(2), Jan. 28, 2008, 122 Stat. 105, added item 2163 and struck out former item 2163 “National Defense University: master of science degrees”.
+Pub. L. 110–181, div. A, title V, §526(b)(2), Jan. 28, 2008, 122 Stat. 105, added item 2163 and struck out former item 2163 "National Defense University: master of science degrees".
 
-**2006**—Pub. L. 109–163, div. A, title V, §521(b), Jan. 6, 2006, 119 Stat. 3240, substituted “National Defense University: master of science degrees” for “National Defense University: masters of science in national security strategy and in national resource strategy” in item 2163.
+**2006**—Pub. L. 109–163, div. A, title V, §521(b), Jan. 6, 2006, 119 Stat. 3240, substituted "National Defense University: master of science degrees" for "National Defense University: masters of science in national security strategy and in national resource strategy" in item 2163.
 
 **2001**—Pub. L. 107–107, div. A, title V, §§528(a)(2), 531(b), Dec. 28, 2001, 115 Stat. 1103, 1104, added items 2167 and 2168.
 
 **2000**—Pub. L. 106–398, §1 [[div. A], title IX, §911(c)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–228, added item 2166.
 
-**1997**—Pub. L. 105–107, title V, §501(b), Nov. 20, 1997, 111 Stat. 2262, substituted “Joint Military Intelligence College: academic degrees” for “Defense Intelligence School; master of science of strategic intelligence” in item 2261.
+**1997**—Pub. L. 105–107, title V, §501(b), Nov. 20, 1997, 111 Stat. 2262, substituted "Joint Military Intelligence College: academic degrees" for "Defense Intelligence School; master of science of strategic intelligence" in item 2261.
 
 Pub. L. 105–85, div. A, title IX, §921(a)(2), Nov. 18, 1997, 111 Stat. 1862, added item 2165.
 
@@ -46,11 +46,11 @@ Pub. L. 105–85, div. A, title IX, §921(a)(2), Nov. 18, 1997, 111 Stat. 1862, 
 
 **1993**—Pub. L. 103–160, div. A, title IX, §922(b), Nov. 30, 1993, 107 Stat. 1731, added item 2163.
 
-**1990**—Pub. L. 101–510, div. A, title IX, §911(b)(1), (2), Nov. 5, 1990, 104 Stat. 1626, substituted “DEPARTMENT OF DEFENSE SCHOOLS” for “GRANTING OF ADVANCED DEGREES AT DEPARTMENT OF DEFENSE SCHOOLS” as chapter heading and added item 2162.
+**1990**—Pub. L. 101–510, div. A, title IX, §911(b)(1), (2), Nov. 5, 1990, 104 Stat. 1626, substituted "DEPARTMENT OF DEFENSE SCHOOLS" for "GRANTING OF ADVANCED DEGREES AT DEPARTMENT OF DEFENSE SCHOOLS" as chapter heading and added item 2162.
 
 #### Asia-Pacific Center for Security Studies: Reimbursement Waiver for Personnel of Foreign Nations ####
 
-Pub. L. 107–248, title VIII, §8073, Oct. 23, 2002, 116 Stat. 1553, provided that: “During the current fiscal year and hereafter, the Secretary of Defense may waive reimbursement of the cost of conferences, seminars, courses of instruction, or similar educational activities of the Asia-Pacific Center for Security Studies for military officers and civilian officials of foreign nations if the Secretary determines that attendance by such personnel, without reimbursement, is in the national security interest of the United States: *Provided*, That costs for which reimbursement is waived pursuant to this section shall be paid from appropriations available for the Asia-Pacific Center.”
+Pub. L. 107–248, title VIII, §8073, Oct. 23, 2002, 116 Stat. 1553, provided that: "During the current fiscal year and hereafter, the Secretary of Defense may waive reimbursement of the cost of conferences, seminars, courses of instruction, or similar educational activities of the Asia-Pacific Center for Security Studies for military officers and civilian officials of foreign nations if the Secretary determines that attendance by such personnel, without reimbursement, is in the national security interest of the United States: *Provided*, That costs for which reimbursement is waived pursuant to this section shall be paid from appropriations available for the Asia-Pacific Center."
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -68,19 +68,19 @@ Pub. L. 104–208, div. A, title I, §101(b) [title VIII, §8121], Sept. 30, 199
 
 #### Regional Defense Counter-terrorism Fellowship Program ####
 
-Pub. L. 107–117, div. A, title VIII, §8125, Jan. 10, 2002, 115 Stat. 2275, provided that: “In addition to amounts provided elsewhere in this Act [see Tables for classification], $17,900,000 is hereby appropriated for the Secretary of Defense, to remain available until expended, to establish a Regional Defense Counter-terrorism Fellowship Program: *Provided*, That funding provided herein may be used by the Secretary to fund foreign military officers to attend U.S. military educational institutions and selected regional centers for non-lethal training: *Provided further*, That United States Regional Commanders in Chief will be the nominative authority for candidates and schools for attendance with joint staff review and approval by the Secretary of Defense: *Provided further*, That the Secretary of Defense shall establish rules to govern the administration of this program.”
+Pub. L. 107–117, div. A, title VIII, §8125, Jan. 10, 2002, 115 Stat. 2275, provided that: "In addition to amounts provided elsewhere in this Act [see Tables for classification], $17,900,000 is hereby appropriated for the Secretary of Defense, to remain available until expended, to establish a Regional Defense Counter-terrorism Fellowship Program: *Provided*, That funding provided herein may be used by the Secretary to fund foreign military officers to attend U.S. military educational institutions and selected regional centers for non-lethal training: *Provided further*, That United States Regional Commanders in Chief will be the nominative authority for candidates and schools for attendance with joint staff review and approval by the Secretary of Defense: *Provided further*, That the Secretary of Defense shall establish rules to govern the administration of this program."
 
 #### Attendance at Professional Military Education Schools by Military Personnel of the New Member Nations of NATO ####
 
 Pub. L. 106–65, div. A, title XII, §1223, Oct. 5, 1999, 113 Stat. 787, provided that:
 
-“(a) Finding.—Congress finds that it is in the national interest of the United States to fully integrate Poland, Hungary, and the Czech Republic (the new member nations of the North Atlantic Treaty Organization) into the NATO alliance as quickly as possible.
+"(a) Finding.—Congress finds that it is in the national interest of the United States to fully integrate Poland, Hungary, and the Czech Republic (the new member nations of the North Atlantic Treaty Organization) into the NATO alliance as quickly as possible.
 
-“(b) Military Education and Training Programs.—The Secretary of each military department shall give due consideration to according a high priority to the attendance of military personnel of Poland, Hungary, and the Czech Republic at professional military education schools and training programs in the United States, including the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, the National Defense University, the war colleges of the Armed Forces, the command and general staff officer courses of the Armed Forces, and other schools and training programs of the Armed Forces that admit personnel of foreign armed forces.”
+"(b) Military Education and Training Programs.—The Secretary of each military department shall give due consideration to according a high priority to the attendance of military personnel of Poland, Hungary, and the Czech Republic at professional military education schools and training programs in the United States, including the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, the National Defense University, the war colleges of the Armed Forces, the command and general staff officer courses of the Armed Forces, and other schools and training programs of the Armed Forces that admit personnel of foreign armed forces."
 
 #### Sense of Congress on Grade of Heads of Senior Professional Military Education Schools ####
 
-Pub. L. 103–337, div. A, title IX, §914, Oct. 5, 1994, 108 Stat. 2829, provided that: “It is the sense of Congress that an officer serving in a position as the head of one of the senior professional military education schools of the Department of Defense (or of the separate military departments) should, while so serving, hold a grade not less than the grade (or its equivalent) held by the officer serving in that position on the date of the enactment of this Act [Oct. 5, 1994].”
+Pub. L. 103–337, div. A, title IX, §914, Oct. 5, 1994, 108 Stat. 2829, provided that: "It is the sense of Congress that an officer serving in a position as the head of one of the senior professional military education schools of the Department of Defense (or of the separate military departments) should, while so serving, hold a grade not less than the grade (or its equivalent) held by the officer serving in that position on the date of the enactment of this Act [Oct. 5, 1994]."
 
 #### Military Department Affiliation of War College Students ####
 
@@ -94,4 +94,4 @@ Pub. L. 103–335, title VIII, §8108A, Sept. 30, 1994, 108 Stat. 2646.
 
 Pub. L. 102–484, div. A, title V, §542, Oct. 23, 1992, 106 Stat. 2413, related to conditions for and exceptions to authority of Department of Defense school faculty and students to accept honoraria for appearance, speech, or article published in bona fide publication, prior to repeal by Pub. L. 107–314, div. A, title VI, §653(a), Dec. 2, 2002, 116 Stat. 2581.
 
-[Pub. L. 107–314, div. A, title VI, §653(b), Dec. 2, 2002, 116 Stat. 2581, provided that: “The repeal made by subsection (a) [repealing section 542 of Pub. L. 102–484, formerly set out above] shall apply with respect to appearances made, speeches presented, and articles published on or after October 1, 2002.”]
+[Pub. L. 107–314, div. A, title VI, §653(b), Dec. 2, 2002, 116 Stat. 2581, provided that: "The repeal made by subsection (a) [repealing section 542 of Pub. L. 102–484, formerly set out above] shall apply with respect to appearances made, speeches presented, and articles published on or after October 1, 2002."]

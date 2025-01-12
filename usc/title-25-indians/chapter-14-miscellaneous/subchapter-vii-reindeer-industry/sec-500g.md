@@ -14,4 +14,4 @@ Section was formerly classified to section 250g of Title 48, Territories and Ins
 
 #### Effective Date of 1986 Amendment ####
 
-Pub. L. 99–514, title XVII, §1709(b), Oct. 22, 1986, 100 Stat. 2783, provided that: “The amendment made by this section [amending this section] shall take effect as if originally included in the provision of the Act of September 1, 1937, to which such amendment relates.”
+Pub. L. 99–514, title XVII, §1709(b), Oct. 22, 1986, 100 Stat. 2783, provided that: "The amendment made by this section [amending this section] shall take effect as if originally included in the provision of the Act of September 1, 1937, to which such amendment relates."

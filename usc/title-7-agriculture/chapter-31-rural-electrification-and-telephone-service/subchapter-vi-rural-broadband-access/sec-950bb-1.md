@@ -2,7 +2,7 @@
 
 #### (a) Designation of Center ####
 
-The Secretary shall designate an entity to serve as the National Center for Rural Telecommunications Assessment (referred to in this section as the “Center”).
+The Secretary shall designate an entity to serve as the National Center for Rural Telecommunications Assessment (referred to in this section as the "Center").
 
 #### (b) Criteria ####
 

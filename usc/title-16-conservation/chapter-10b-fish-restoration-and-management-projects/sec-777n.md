@@ -76,7 +76,7 @@ Amounts remaining in the Boat Safety Account on October 1, 2005, and amounts the
 
 #### Codification ####
 
-The amendments by Pub. L. 109–74 were directed to section 10119 of Pub. L. 109–59 “in the text proposed to be inserted as section 15 of the Dingell-Johnson Sport Fish Restoration Act” (this section). Those amendments were effective on enactment of Pub. L. 109–74 (Sept. 29, 2005) and were incorporated into the text of this section when it became effective on Oct. 1, 2005. See Effective Date notes below.
+The amendments by Pub. L. 109–74 were directed to section 10119 of Pub. L. 109–59 "in the text proposed to be inserted as section 15 of the Dingell-Johnson Sport Fish Restoration Act" (this section). Those amendments were effective on enactment of Pub. L. 109–74 (Sept. 29, 2005) and were incorporated into the text of this section when it became effective on Oct. 1, 2005. See Effective Date notes below.
 
 #### Prior Provisions ####
 
@@ -84,15 +84,15 @@ A prior section 15 of act Aug. 9, 1950, was renumbered section 16 and is set out
 
 #### Amendments ####
 
-**2005**—Par. (1)(A)(v). Pub. L. 109–74, §103(2), substituted “subsection (c) of that section” for “subsection (b) of that section”.
+**2005**—Par. (1)(A)(v). Pub. L. 109–74, §103(2), substituted "subsection (c) of that section" for "subsection (b) of that section".
 
-Par. (2)(A)(v). Pub. L. 109–74, §103(1), (2), substituted “subsection (c) of that section” for “subsection (b) of this Act”.
+Par. (2)(A)(v). Pub. L. 109–74, §103(1), (2), substituted "subsection (c) of that section" for "subsection (b) of this Act".
 
-Pars. (3)(A)(v), (4)(A)(v). Pub. L. 109–74, §103(2), substituted “subsection (c) of that section” for “subsection (b) of that section”.
+Pars. (3)(A)(v), (4)(A)(v). Pub. L. 109–74, §103(2), substituted "subsection (c) of that section" for "subsection (b) of that section".
 
-Par. (5)(A). Pub. L. 109–74, §103(3)(A), substituted “subsection (a)(2) of that section” for “subsection (b)”.
+Par. (5)(A). Pub. L. 109–74, §103(3)(A), substituted "subsection (a)(2) of that section" for "subsection (b)".
 
-Par. (5)(B). Pub. L. 109–74, §103(3)(B), substituted “subsection (c) of that section” for “subsection (h)”.
+Par. (5)(B). Pub. L. 109–74, §103(3)(B), substituted "subsection (c) of that section" for "subsection (h)".
 
 #### Effective Date ####
 

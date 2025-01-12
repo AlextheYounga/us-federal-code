@@ -6,4 +6,4 @@ The east half east half section 25, township 36 south, range 4 west; the east ha
 
 #### Amendments ####
 
-**1928**—Act May 12, 1928, corrected description of land in section 20 by inserting “and” between “east half” and “southwest quarter”.
+**1928**—Act May 12, 1928, corrected description of land in section 20 by inserting "and" between "east half" and "southwest quarter".

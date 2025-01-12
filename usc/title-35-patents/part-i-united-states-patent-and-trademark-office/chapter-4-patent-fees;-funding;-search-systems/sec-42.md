@@ -40,33 +40,33 @@ Section 31 of the Trademark Act of 1946, referred to in subsec. (c)(3)(B), is cl
 
 #### Amendments ####
 
-**2013**—Subsec. (c)(3)(A). Pub. L. 112–274, §1(j)(1), substituted “this title,” for “sections 41, 42, and 376,” and “a proportionate share of the administrative costs of the Office” for “a share of the administrative costs of the Office relating to patents”.
+**2013**—Subsec. (c)(3)(A). Pub. L. 112–274, §1(j)(1), substituted "this title," for "sections 41, 42, and 376," and "a proportionate share of the administrative costs of the Office" for "a share of the administrative costs of the Office relating to patents".
 
-Subsec. (c)(3)(B). Pub. L. 112–274, §1(j)(2), substituted “a proportionate share of the administrative costs of the Office” for “a share of the administrative costs of the Office relating to trademarks”.
+Subsec. (c)(3)(B). Pub. L. 112–274, §1(j)(2), substituted "a proportionate share of the administrative costs of the Office" for "a share of the administrative costs of the Office relating to trademarks".
 
-**2011**—Subsec. (c). Pub. L. 112–29 designated existing provisions as par. (1), substituted “shall, subject to paragraph (3), be available” for “shall be available”, struck out at end “All fees available to the Director under section 31 of the Trademark Act of 1946 shall be used only for the processing of trademark registrations and for other activities, services, and materials relating to trademarks and to cover a proportionate share of the administrative costs of the Patent and Trademark Office.”, and added pars. (2) and (3).
+**2011**—Subsec. (c). Pub. L. 112–29 designated existing provisions as par. (1), substituted "shall, subject to paragraph (3), be available" for "shall be available", struck out at end "All fees available to the Director under section 31 of the Trademark Act of 1946 shall be used only for the processing of trademark registrations and for other activities, services, and materials relating to trademarks and to cover a proportionate share of the administrative costs of the Patent and Trademark Office.", and added pars. (2) and (3).
 
 **2002**—Subsecs. (a), (b). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) [title IV, §4732(a)(10)(A)]. See 1999 Amendment note below.
 
-**1999**—Subsecs. (a), (b). Pub. L. 106–113, §1000(a)(9) [title IV, §4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+**1999**—Subsecs. (a), (b). Pub. L. 106–113, §1000(a)(9) [title IV, §4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted "Director" for "Commissioner".
 
-Subsec. (c). Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing and, in second sentence, substituted “All fees available” for “Fees available” and “shall be used” for “may be used”.
+Subsec. (c). Pub. L. 106–113 substituted "Director" for "Commissioner" wherever appearing and, in second sentence, substituted "All fees available" for "Fees available" and "shall be used" for "may be used".
 
-Subsec. (d). Pub. L. 106–113, §1000(a)(9) [title IV, §4732(a)(10)(A)], substituted “Director” for “Commissioner”.
+Subsec. (d). Pub. L. 106–113, §1000(a)(9) [title IV, §4732(a)(10)(A)], substituted "Director" for "Commissioner".
 
-**1998**—Subsec. (c). Pub. L. 105–358 substituted first sentence for former first sentence which read as follows: “Revenues from fees shall be available to the Commissioner to carry out, to the extent provided in appropriation Acts, the activities of the Patent and Trademark Office.”
+**1998**—Subsec. (c). Pub. L. 105–358 substituted first sentence for former first sentence which read as follows: "Revenues from fees shall be available to the Commissioner to carry out, to the extent provided in appropriation Acts, the activities of the Patent and Trademark Office."
 
-**1991**—Subsec. (c). Pub. L. 102–204, §5(e), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Revenues from fees will be available to the Commissioner of Patents to carry out, to the extent provided for in appropriation Acts, the activities of the Patent and Trademark Office. Fees available to the Commissioner under section 31 of the Trademark Act of 1946, as amended (15 U.S.C. 1113), shall be used exclusively for the processing of trademark registrations and for other services and materials related to trademarks.”
+**1991**—Subsec. (c). Pub. L. 102–204, §5(e), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Revenues from fees will be available to the Commissioner of Patents to carry out, to the extent provided for in appropriation Acts, the activities of the Patent and Trademark Office. Fees available to the Commissioner under section 31 of the Trademark Act of 1946, as amended (15 U.S.C. 1113), shall be used exclusively for the processing of trademark registrations and for other services and materials related to trademarks."
 
 Subsec. (e). Pub. L. 102–204, §4, added subsec. (e).
 
-**1982**—Subsec. (b). Pub. L. 97–258 struck out “, the provisions of section 725e of title 31, United States Code, notwithstanding” after “United States”.
+**1982**—Subsec. (b). Pub. L. 97–258 struck out ", the provisions of section 725e of title 31, United States Code, notwithstanding" after "United States".
 
 Subsec. (c). Pub. L. 97–247 inserted provision that fees available to the Commissioner under section 31 of the Trademark Act of 1946, as amended (15 U.S.C. 1113), be used exclusively for the processing of trademark registrations and for other services and materials related to trademarks.
 
 **1980**—Pub. L. 96–517 designated existing provision relating to payment of patent fees as subsec. (a) and struck out provision that, except as provided in sections 361(b) and 376(b) of this title, the Commissioner deposit fees paid in the Treasury of the United States in such manner as directed by the Secretary of the Treasury, designated existing provision relating to return of excess amounts paid as subsec. (d), and added subsecs. (b) and (c).
 
-**1975**—Pub. L. 94–131 inserted “, except as provided in sections 361(b) and 376(b) of this title,”.
+**1975**—Pub. L. 94–131 inserted ", except as provided in sections 361(b) and 376(b) of this title,".
 
 #### Effective Date of 2013 Amendment ####
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 112–274 effective Jan. 14, 2013, and applicable to procee
 
 #### Effective Date of 2011 Amendment ####
 
-Pub. L. 112–29, §22(b), Sept. 16, 2011, 125 Stat. 336, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2011.”
+Pub. L. 112–29, §22(b), Sept. 16, 2011, 125 Stat. 336, provided that: "The amendments made by this section [amending this section] shall take effect on October 1, 2011."
 
 #### Effective Date of 1999 Amendment ####
 
@@ -100,21 +100,21 @@ Amendment by Pub. L. 94–131 effective Jan. 24, 1978, and applicable on and aft
 
 Pub. L. 107–273, div. C, title III, §13102, Nov. 2, 2002, 116 Stat. 1899, provided that:
 
-“(a) In General.—There are authorized to be appropriated to the United States Patent and Trademark Office for salaries and necessary expenses for each of the fiscal years 2003 through 2008 an amount equal to the fees estimated by the Secretary of Commerce to be collected in each such fiscal year, respectively, under—
+"(a) In General.—There are authorized to be appropriated to the United States Patent and Trademark Office for salaries and necessary expenses for each of the fiscal years 2003 through 2008 an amount equal to the fees estimated by the Secretary of Commerce to be collected in each such fiscal year, respectively, under—
 
-“(1) title 35, United States Code; and
+"(1) title 35, United States Code; and
 
-“(2) the Act entitled ‘An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes’, approved July 5, 1946 (15 U.S.C. 1051 et seq.) (commonly referred to as the Trademark Act of 1946).
+"(2) the Act entitled 'An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes', approved July 5, 1946 (15 U.S.C. 1051 et seq.) (commonly referred to as the Trademark Act of 1946).
 
-“(b) Estimates.—Not later than February 15, of each fiscal year, the Undersecretary of Commerce for Intellectual Property and the Director of the Patent and Trademark Office (in this subtitle [subtitle A (§§13101–13106) of title III of div. C of Pub. L. 107–273, amending sections 134, 141, 303, 312, and 315 of this title and enacting provisions set out as notes under sections 2, 134, and 303 of this title] referred to as the Director) shall submit an estimate of all fees referred to under subsection (a) to be collected in the next fiscal year to the chairman and ranking member of—
+"(b) Estimates.—Not later than February 15, of each fiscal year, the Undersecretary of Commerce for Intellectual Property and the Director of the Patent and Trademark Office (in this subtitle [subtitle A (§§13101–13106) of title III of div. C of Pub. L. 107–273, amending sections 134, 141, 303, 312, and 315 of this title and enacting provisions set out as notes under sections 2, 134, and 303 of this title] referred to as the Director) shall submit an estimate of all fees referred to under subsection (a) to be collected in the next fiscal year to the chairman and ranking member of—
 
-“(1) the Committees on Appropriations and Judiciary of the Senate; and
+"(1) the Committees on Appropriations and Judiciary of the Senate; and
 
-“(2) the Committees on Appropriations and Judiciary of the House of Representatives.”
+"(2) the Committees on Appropriations and Judiciary of the House of Representatives."
 
 #### Appropriations Authorized To Be Carried Over ####
 
-Pub. L. 100–703, title I, §102, Nov. 19, 1988, 102 Stat. 4674, provided that: “Amounts appropriated under this Act and such fees as may be collected under title 35, United States Code, and the Trademark Act of 1946 (15 U.S.C. 1051 and following) may remain available until expended.”
+Pub. L. 100–703, title I, §102, Nov. 19, 1988, 102 Stat. 4674, provided that: "Amounts appropriated under this Act and such fees as may be collected under title 35, United States Code, and the Trademark Act of 1946 (15 U.S.C. 1051 and following) may remain available until expended."
 
 Similar provisions were contained in the following prior authorization act:
 

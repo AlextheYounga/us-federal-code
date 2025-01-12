@@ -10,7 +10,7 @@ R.S. §2327 derived from act May 10, 1872, ch. 152, §8, 17 Stat. 94.
 
 #### Amendments ####
 
-**1925**—Act Mar. 3, 1925, affected words now reading “United States supervisor of surveys” in first and second sentences of text. These words formerly read “the surveyor-general.” This act abolished the office of surveyor general, and transferred to and consolidated with the Field Surveying Service, under the jurisdiction of the U.S. Supervisor of Surveys, the administration, equipment, etc., of such office.
+**1925**—Act Mar. 3, 1925, affected words now reading "United States supervisor of surveys" in first and second sentences of text. These words formerly read "the surveyor-general." This act abolished the office of surveyor general, and transferred to and consolidated with the Field Surveying Service, under the jurisdiction of the U.S. Supervisor of Surveys, the administration, equipment, etc., of such office.
 
 #### Transfer of Functions ####
 

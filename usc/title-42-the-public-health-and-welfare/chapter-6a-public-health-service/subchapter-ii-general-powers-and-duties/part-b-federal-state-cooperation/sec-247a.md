@@ -22,4 +22,4 @@ Another prior section 247a, act July 1, 1944, ch. 373, title III, §316, as adde
 
 #### Amendments ####
 
-**1993**—Subsec. (c). Pub. L. 103–43 struck out subsec. (c) which read as follows: “The Secretary shall report to Congress, not later than one year after May 23, 1986, on family support groups and the network of such groups established pursuant to this section.”
+**1993**—Subsec. (c). Pub. L. 103–43 struck out subsec. (c) which read as follows: "The Secretary shall report to Congress, not later than one year after May 23, 1986, on family support groups and the network of such groups established pursuant to this section."

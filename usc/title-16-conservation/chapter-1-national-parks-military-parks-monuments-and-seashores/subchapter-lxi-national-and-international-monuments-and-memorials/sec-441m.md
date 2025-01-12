@@ -26,4 +26,4 @@ Executive Order Numbered 7868, dated April 15, 1938, referred to in subsec. (a),
 
 #### Change of Name ####
 
-Word “park” substituted for “monument” in subsecs. (a) to (c) pursuant to Pub. L. 95–625, §611, which is classified to section 441e–1 of this title and which redesignated Badlands National Monument as Badlands National Park.
+Word "park" substituted for "monument" in subsecs. (a) to (c) pursuant to Pub. L. 95–625, §611, which is classified to section 441e–1 of this title and which redesignated Badlands National Monument as Badlands National Park.

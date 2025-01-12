@@ -18,7 +18,7 @@ The amount of the credit determined under subsection (a) with respect to any tax
 
 #### (d) Qualified chemical security expenditure ####
 
-For purposes of this section, the term “qualified chemical security expenditure” means, with respect to any eligible agricultural business for any taxable year, any amount paid or incurred by such business during such taxable year for—
+For purposes of this section, the term "qualified chemical security expenditure" means, with respect to any eligible agricultural business for any taxable year, any amount paid or incurred by such business during such taxable year for—
 
 (1) employee security training and background checks,
 
@@ -42,7 +42,7 @@ Amounts described in the preceding sentence shall be taken into account only to 
 
 #### (e) Eligible agricultural business ####
 
-For purposes of this section, the term “eligible agricultural business” means any person in the trade or business of—
+For purposes of this section, the term "eligible agricultural business" means any person in the trade or business of—
 
 (1) selling agricultural products, including specified agricultural chemicals, at retail predominantly to farmers and ranchers, or
 
@@ -50,7 +50,7 @@ For purposes of this section, the term “eligible agricultural business” mean
 
 #### (f) Specified agricultural chemical ####
 
-For purposes of this section, the term “specified agricultural chemical” means—
+For purposes of this section, the term "specified agricultural chemical" means—
 
 (1) any fertilizer commonly used in agricultural operations which is listed under—
 

@@ -8,7 +8,7 @@ Such dissolution shall not take away or impair any remedy against such corporati
 
 #### References in Text ####
 
-This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
 The national-bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
 

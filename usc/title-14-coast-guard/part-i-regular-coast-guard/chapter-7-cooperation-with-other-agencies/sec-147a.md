@@ -16,7 +16,7 @@
 |-----------------|--------------------|----------------------------------------------|
 |      147a       |   14:141 (note).   |July 1, 1977, Pub. L. 95–61, §8, 91 Stat. 260.|
 
-In subsection (a), the words “Secretary of Health and Human Services” are substituted for “Department of Health, Education, and Welfare” because of 20:3508(b) and because the responsibility is in the head of the Department. The word “may” is substituted for “is authorized to” for clarity. The word “conditions” is substituted for “terms and conditions” because it is inclusive. The words “deems appropriate” are omitted as unnecessary. The words “The following . . . limitations apply” are substituted for “shall be subject to the following . . . limitations” for clarity.
+In subsection (a), the words "Secretary of Health and Human Services" are substituted for "Department of Health, Education, and Welfare" because of 20:3508(b) and because the responsibility is in the head of the Department. The word "may" is substituted for "is authorized to" for clarity. The word "conditions" is substituted for "terms and conditions" because it is inclusive. The words "deems appropriate" are omitted as unnecessary. The words "The following . . . limitations apply" are substituted for "shall be subject to the following . . . limitations" for clarity.
 
 #### Similar Provisions ####
 

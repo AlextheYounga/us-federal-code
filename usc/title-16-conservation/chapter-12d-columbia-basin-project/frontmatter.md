@@ -36,6 +36,6 @@ Sec.
 
 835k. Return of construction costs from marketing revenues in event of inability of irrigation water users to repay within repayment period and lack of other sources of revenue.
 
-835 l. Congressional declaration of financial policy; limitations on assistance; analyses and studies; “net revenues” defined.
+835 l. Congressional declaration of financial policy; limitations on assistance; analyses and studies; "net revenues" defined.
 
 835m. Recommendations for changes in limitations on financial assistance; time and frequency of submission.

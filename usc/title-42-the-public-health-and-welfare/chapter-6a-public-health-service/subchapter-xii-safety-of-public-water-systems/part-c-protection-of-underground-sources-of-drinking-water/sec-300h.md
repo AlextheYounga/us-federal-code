@@ -56,11 +56,11 @@ unless such requirements are essential to assure that underground sources of dri
 
 (C) that available technology or other means have been employed (and will be employed) to reduce the volume and toxicity of the fluid and to minimize the potentially adverse effect of the injection on the public health.
 
-#### (d) “Underground injection” defined; underground injection endangerment of drinking water sources ####
+#### (d) "Underground injection" defined; underground injection endangerment of drinking water sources ####
 
 For purposes of this part:
 
-(1) Underground injection.—The term “underground injection”—
+(1) Underground injection.—The term "underground injection"—
 
 (A) means the subsurface emplacement of fluids by well injection; and
 
@@ -80,13 +80,13 @@ Section 300j–6(b) of this title, referred to in subsec. (b)(1)(D), was repeale
 
 #### Amendments ####
 
-**2005**—Subsec. (d)(1). Pub. L. 109–58 inserted heading and amended text of par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘underground injection’ means the subsurface emplacement of fluids by well injection. Such term does not include the underground injection of natural gas for purposes of storage.”
+**2005**—Subsec. (d)(1). Pub. L. 109–58 inserted heading and amended text of par. (1) generally. Prior to amendment, par. (1) read as follows: "The term 'underground injection' means the subsurface emplacement of fluids by well injection. Such term does not include the underground injection of natural gas for purposes of storage."
 
-**1996**—Subsec. (b)(3)(B)(i). Pub. L. 104–182 substituted “number of States” for “number or States”.
+**1996**—Subsec. (b)(3)(B)(i). Pub. L. 104–182 substituted "number of States" for "number or States".
 
-**1986**—Subsec. (b)(2)(A). Pub. L. 99–339 inserted “or natural gas storage operations” after “production”.
+**1986**—Subsec. (b)(2)(A). Pub. L. 99–339 inserted "or natural gas storage operations" after "production".
 
-**1980**—Subsec. (b)(1)(A). Pub. L. 96–502, §4(c), substituted “effective on the date on which the applicable underground injection control program takes effect” for “effective three years after December 16, 1974”.
+**1980**—Subsec. (b)(1)(A). Pub. L. 96–502, §4(c), substituted "effective on the date on which the applicable underground injection control program takes effect" for "effective three years after December 16, 1974".
 
 Subsec. (d)(1). Pub. L. 96–502, §3, inserted provision that such term does not include the underground injection of natural gas for purposes of storage.
 

@@ -32,13 +32,13 @@ shall be increased to that amount, the total of the increases thereby required b
 
 For the purposes of this part—
 
-(1) The “allotment percentage” for any State shall be 100 per centum less that percentage which bears the same ratio to 50 per centum as the per capita income of such State bears to the per capita income of the United States, except that (A) the allotment percentage shall in no case be more than 75 per centum or less than 331/3 per centum, and (B) the allotment percentage for the Commonwealth of Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Virgin Islands shall be 75 per centum.
+(1) The "allotment percentage" for any State shall be 100 per centum less that percentage which bears the same ratio to 50 per centum as the per capita income of such State bears to the per capita income of the United States, except that (A) the allotment percentage shall in no case be more than 75 per centum or less than 331/3 per centum, and (B) the allotment percentage for the Commonwealth of Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Virgin Islands shall be 75 per centum.
 
 (2) The allotment percentages shall be determined by the Surgeon General between July 1 and September 30 of each even-numbered year, on the basis of the average of the per capita incomes of each of the States and of the United States for the three most recent consecutive years for which satisfactory data are available from the Department of Commerce, and the States shall be notified promptly thereof. Such determination shall be conclusive for each of the two fiscal years in the period beginning July 1 next succeeding such determination.
 
 (3) The population of the several States shall be determined on the basis of the latest figures certified by the Department of Commerce.
 
-(4) The term “United States” means (but only for purposes of paragraphs (1) and (2)) the fifty States and the District of Columbia.
+(4) The term "United States" means (but only for purposes of paragraphs (1) and (2)) the fifty States and the District of Columbia.
 
 #### (d) Availability of allotments in subsequent years ####
 
@@ -88,15 +88,15 @@ A prior section 291v(b), act July 1, 1944, ch. 373, title VI, §654, as added Ju
 
 #### Amendments ####
 
-**1970**—Subsec. (a)(1). Pub. L. 91–296, §103(a), substituted “sums appropriated for such year” for “new hospital portion of the sums appropriated for such year” and struck out provision setting out a formula for determining new hospital portion of sums appropriated pursuant to section 291a(b) of this title.
+**1970**—Subsec. (a)(1). Pub. L. 91–296, §103(a), substituted "sums appropriated for such year" for "new hospital portion of the sums appropriated for such year" and struck out provision setting out a formula for determining new hospital portion of sums appropriated pursuant to section 291a(b) of this title.
 
-Subsec. (a)(2). Pub. L. 91–296, §103(a), substituted “Secretary” for “Surgeon General”, and substituted reference to sums appropriated for such year under section 291a(c) of this title for reference to remainder of sums appropriated pursuant to section 291a(b) of this title (which portion was to be available for grants for modernization of facilities referred to in paragraphs (a) and (b) of section 291a of this title).
+Subsec. (a)(2). Pub. L. 91–296, §103(a), substituted "Secretary" for "Surgeon General", and substituted reference to sums appropriated for such year under section 291a(c) of this title for reference to remainder of sums appropriated pursuant to section 291a(b) of this title (which portion was to be available for grants for modernization of facilities referred to in paragraphs (a) and (b) of section 291a of this title).
 
-Subsec. (b)(1)(A). Pub. L. 91–296, §§103(b)(1), 119(a)(1), substituted “$50,000” and “$100,000” for “$25,000” and “$50,000”, respectively, and inserted reference to Trust Territory of the Pacific Islands.
+Subsec. (b)(1)(A). Pub. L. 91–296, §§103(b)(1), 119(a)(1), substituted "$50,000" and "$100,000" for "$25,000" and "$50,000", respectively, and inserted reference to Trust Territory of the Pacific Islands.
 
-Subsec. (b)(1)(B). Pub. L. 91–296, §§103(b)(2), 116(a), 119(a)(1), substituted “$100,000” and “$200,000” for “$50,000” and “$100,000”, respectively, substituted “outpatient facilities” for “diagnostic or treatment centers”, and inserted reference to Trust Territory of the Pacific Islands.
+Subsec. (b)(1)(B). Pub. L. 91–296, §§103(b)(2), 116(a), 119(a)(1), substituted "$100,000" and "$200,000" for "$50,000" and "$100,000", respectively, substituted "outpatient facilities" for "diagnostic or treatment centers", and inserted reference to Trust Territory of the Pacific Islands.
 
-Subsec. (b)(1)(C). Pub. L. 91–296, §§103(b)(3), 119(a)(1), substituted “$200,000” and “$300,000” for “$100,000” and “$200,000”, respectively, and inserted reference to Trust Territory of the Pacific Islands.
+Subsec. (b)(1)(C). Pub. L. 91–296, §§103(b)(3), 119(a)(1), substituted "$200,000" and "$300,000" for "$100,000" and "$200,000", respectively, and inserted reference to Trust Territory of the Pacific Islands.
 
 Subsec. (b)(1)(D). Pub. L. 91–296, §103(b)(4), added subpar. (D).
 
@@ -120,7 +120,7 @@ Pub. L. 91–296, title I, §103(b), June 30, 1970, 84 Stat. 338, provided that 
 
 Pub. L. 91–296, title I, §104, June 30, 1970, 84 Stat. 338, provided that the amendment made by that section is effective with respect to allotments made pursuant to section 291a of this title for fiscal years beginning after June 30, 1970.
 
-Pub. L. 91–296, title I, §119(e), June 30, 1970, 84 Stat. 343, provided that: “The amendments made by this section [amending this section and section 291o of this title] shall apply with respect to allotments (and grants therefrom) under part A of title VI of the Public Health Service Act [42 U.S.C. 291a et seq.] for fiscal years ending after June 30, 1970, and with respect to loan guarantees and loans under part B of such title [42 U.S.C. 291j–1 et seq.] made after June 30, 1970.”
+Pub. L. 91–296, title I, §119(e), June 30, 1970, 84 Stat. 343, provided that: "The amendments made by this section [amending this section and section 291o of this title] shall apply with respect to allotments (and grants therefrom) under part A of title VI of the Public Health Service Act [42 U.S.C. 291a et seq.] for fiscal years ending after June 30, 1970, and with respect to loan guarantees and loans under part B of such title [42 U.S.C. 291j–1 et seq.] made after June 30, 1970."
 
 Pub. L. 91–296, title I, §122, June 30, 1970, 84 Stat. 344, provided that the amendment made by that section is effective with respect to allotments made from appropriations under section 291a of this title for fiscal years beginning after June 30, 1970.
 

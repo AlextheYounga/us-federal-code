@@ -6,4 +6,4 @@ In fiscal year 2009 and each fiscal year thereafter, the Bureau of Land Manageme
 
 #### Amendments ####
 
-**2009**—Pub. L. 111–88 substituted “from mining claim holders the mining claim maintenance fees and location” for “mining law administration” and struck out “those” before “authorized”.
+**2009**—Pub. L. 111–88 substituted "from mining claim holders the mining claim maintenance fees and location" for "mining law administration" and struck out "those" before "authorized".

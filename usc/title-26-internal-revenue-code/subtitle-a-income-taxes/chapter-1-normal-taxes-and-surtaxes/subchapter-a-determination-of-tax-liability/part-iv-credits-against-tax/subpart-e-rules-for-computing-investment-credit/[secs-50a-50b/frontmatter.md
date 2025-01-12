@@ -6,11 +6,11 @@ Section 50B, added Pub. L. 92–178, title VI, §601(b), Dec. 10, 1971, 85 Stat.
 
 Subsequent to repeal, Pub. L. 101–239, title VII, §7644(a), Dec. 19, 1989, 103 Stat. 2381, provided that:
 
-“(a) In General.—So much of subparagraph (A) of section 50B(h)(1) of the Internal Revenue Code of 1954 (as in effect for taxable years beginning before January 1, 1982) as precedes clause (i) thereof is amended to read as follows:
+"(a) In General.—So much of subparagraph (A) of section 50B(h)(1) of the Internal Revenue Code of 1954 (as in effect for taxable years beginning before January 1, 1982) as precedes clause (i) thereof is amended to read as follows:
 
-“ ‘(A) who has been certified (or for whom a written request for certification has been made) on or before the day the individual began work for the taxpayer by the Secretary of Labor or by the appropriate agency of State or local government as—’.
+" '(A) who has been certified (or for whom a written request for certification has been made) on or before the day the individual began work for the taxpayer by the Secretary of Labor or by the appropriate agency of State or local government as—'.
 
-“(b) Effective Date.—The amendment made by subsection (a) shall apply for purposes of credits first claimed after March 11, 1987.”
+"(b) Effective Date.—The amendment made by subsection (a) shall apply for purposes of credits first claimed after March 11, 1987."
 
 #### Effective Date of Repeal ####
 

@@ -48,9 +48,9 @@ If the Government of any country requests that moisture content remain a criteri
 
 #### Amendments ####
 
-**1994**—Subsecs. (a) to (c). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
+**1994**—Subsecs. (a) to (c). Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
 
-**1993**—Subsec. (a)(1). Pub. L. 103–156, which directed amendment of “Section 4(a)(1)” by substituting “the judgment of the Administrator” for “his judgment”, without specifying the name of the Act being amended, was executed to this section, which is section 4 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+**1993**—Subsec. (a)(1). Pub. L. 103–156, which directed amendment of "Section 4(a)(1)" by substituting "the judgment of the Administrator" for "his judgment", without specifying the name of the Act being amended, was executed to this section, which is section 4 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
 **1990**—Subsec. (b). Pub. L. 101–624, §2005, designated existing provisions as par. (1) and added par. (2).
 
@@ -58,11 +58,11 @@ Subsecs. (c), (d). Pub. L. 101–624, §2006, added subsec. (c) and redesignated
 
 **1985**—Subsec. (c). Pub. L. 99–198 added subsec. (c).
 
-**1977**—Subsec. (a). Pub. L. 95–113 substituted “sorghum” for “grain sorghum”, “standards or procedures” for “standards”, “weight certification and controls” for “weight certification procedures and controls”, and “calibration and maintenance, for grain” for “calibration and maintenance for grain”.
+**1977**—Subsec. (a). Pub. L. 95–113 substituted "sorghum" for "grain sorghum", "standards or procedures" for "standards", "weight certification and controls" for "weight certification procedures and controls", and "calibration and maintenance, for grain" for "calibration and maintenance for grain".
 
 **1976**—Subsec. (a). Pub. L. 94–582, §5(a), authorized weighing of grain, designated existing provisions as cl. (1), inserted cl. (2), and reenacted provision for amendment or revocation of standards.
 
-Subsec. (b). Pub. L. 94–582, §5(b), substituted “Administrator” for “Secretary” in two places.
+Subsec. (b). Pub. L. 94–582, §5(b), substituted "Administrator" for "Secretary" in two places.
 
 **1968**—Pub. L. 90–487 substituted provisions authorizing Secretary to establish, amend, and revoke standards for provisions making the use of official standards compulsory, setting out exceptions, and providing for the right of appeal.
 
@@ -80,41 +80,41 @@ For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90
 
 #### Benefits and Costs Associated With Improved Grain Quality ####
 
-Pub. L. 101–624, title XX, §2003, Nov. 28, 1990, 104 Stat. 3929, provided that: “The Administrator of the Federal Grain Inspection Service shall estimate the economic impact, including the benefits and costs and the distribution of such benefits and costs, of any major changes necessary to carry out the amendments made under this title to sections 4 and 13 of the United States Grain Standards Act (7 U.S.C. 76 and 87b) prior to making such changes.”
+Pub. L. 101–624, title XX, §2003, Nov. 28, 1990, 104 Stat. 3929, provided that: "The Administrator of the Federal Grain Inspection Service shall estimate the economic impact, including the benefits and costs and the distribution of such benefits and costs, of any major changes necessary to carry out the amendments made under this title to sections 4 and 13 of the United States Grain Standards Act (7 U.S.C. 76 and 87b) prior to making such changes."
 
 #### Revision of Grain Inspection Procedures To Reflect Levels of Insect Infestation ####
 
-Pub. L. 99–641, title III, §304, Nov. 10, 1986, 100 Stat. 3565, provided that: “Not later than 6 months after the date of enactment of this Act [Nov. 10, 1986], the Administrator of the Federal Grain Inspection Service shall issue a final rule that revises grain inspection procedures and standards established under the United States Grain Standards Act (7 U.S.C. 71 et seq.) to more accurately reflect levels of insect infestation.”
+Pub. L. 99–641, title III, §304, Nov. 10, 1986, 100 Stat. 3565, provided that: "Not later than 6 months after the date of enactment of this Act [Nov. 10, 1986], the Administrator of the Federal Grain Inspection Service shall issue a final rule that revises grain inspection procedures and standards established under the United States Grain Standards Act (7 U.S.C. 71 et seq.) to more accurately reflect levels of insect infestation."
 
 #### Study of Uniform End-Use Value Tests for Grain ####
 
 Pub. L. 99–641, title III, §307, Nov. 10, 1986, 100 Stat. 3566, as amended by Pub. L. 104–66, title I, §1011(i), Dec. 21, 1995, 109 Stat. 710, provided that:
 
-“(a) Study.—The Secretary of Agriculture shall direct the Federal Grain Inspection Service and the Agricultural Research Service to conduct a study of the need for and availability of uniform end-use value tests for grain. The study shall include the following:
+"(a) Study.—The Secretary of Agriculture shall direct the Federal Grain Inspection Service and the Agricultural Research Service to conduct a study of the need for and availability of uniform end-use value tests for grain. The study shall include the following:
 
-“(1) A survey of domestic and foreign buyers of grain to identify the information about grain characteristics that would be most useful to such buyers. The survey shall take into account those factors that buyers specify in contracts, test for, measure, or would measure if tests were available, including—
+"(1) A survey of domestic and foreign buyers of grain to identify the information about grain characteristics that would be most useful to such buyers. The survey shall take into account those factors that buyers specify in contracts, test for, measure, or would measure if tests were available, including—
 
-“(A) the starch, oil, and protein content, breakage susceptibility, and individual kernel moisture of corn;
+"(A) the starch, oil, and protein content, breakage susceptibility, and individual kernel moisture of corn;
 
-“(B) the baking characteristics, protein content, gluten content and quality, and milling hardness of wheat; and
+"(B) the baking characteristics, protein content, gluten content and quality, and milling hardness of wheat; and
 
-“(C) the protein, oil, and free-fatty-acid content of soybeans.
+"(C) the protein, oil, and free-fatty-acid content of soybeans.
 
-“(2) A review of the development and availability of tests for the characteristics identified in the survey conducted under paragraph (1), including an evaluation of the costs of providing such tests.
+"(2) A review of the development and availability of tests for the characteristics identified in the survey conducted under paragraph (1), including an evaluation of the costs of providing such tests.
 
-“(b) End-Use Tests.—
+"(b) End-Use Tests.—
 
-“(1) Ongoing review.—The Secretary of Agriculture shall direct the Federal Grain Inspection Service and the Agricultural Research Service to maintain an ongoing review to determine the end-use tests that are of economic value to buyers, and the availability and costs of such tests.
+"(1) Ongoing review.—The Secretary of Agriculture shall direct the Federal Grain Inspection Service and the Agricultural Research Service to maintain an ongoing review to determine the end-use tests that are of economic value to buyers, and the availability and costs of such tests.
 
-“(2) Revision of procedures.—The Administrator of the Federal Grain Inspection Service, to the extent practicable, shall revise official grain inspection and certification procedures to include within official inspection (as defined in section 3(i) of the United States Grain Standards Act (7 U.S.C. 75(i))) those tests that are identified under the study conducted under subsection (a) as useful, available, and economically feasible.”
+"(2) Revision of procedures.—The Administrator of the Federal Grain Inspection Service, to the extent practicable, shall revise official grain inspection and certification procedures to include within official inspection (as defined in section 3(i) of the United States Grain Standards Act (7 U.S.C. 75(i))) those tests that are identified under the study conducted under subsection (a) as useful, available, and economically feasible."
 
 #### New Grain Classifications ####
 
 Pub. L. 99–198, title XVI, §1672, Dec. 23, 1985, 99 Stat. 1632, provided that:
 
-“(a) The Secretary of Agriculture shall direct the Federal Grain Inspection Service and the Agricultural Research Service to cooperate in developing new means of establishing grain classifications taking into account characteristics other than those visually evident.
+"(a) The Secretary of Agriculture shall direct the Federal Grain Inspection Service and the Agricultural Research Service to cooperate in developing new means of establishing grain classifications taking into account characteristics other than those visually evident.
 
-“(b) The Secretary shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, semiannually, with the first report due not later than December 31, 1985, on the status of cooperative efforts required under subsection (a), as such efforts relate to more accurately classifying types of wheat and other grains currently in use.”
+"(b) The Secretary shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, semiannually, with the first report due not later than December 31, 1985, on the status of cooperative efforts required under subsection (a), as such efforts relate to more accurately classifying types of wheat and other grains currently in use."
 
 #### Investigation and Study Regarding Adequacy of Grain Standards; Changes in Standards; Report to Congress by October 21, 1978 ####
 

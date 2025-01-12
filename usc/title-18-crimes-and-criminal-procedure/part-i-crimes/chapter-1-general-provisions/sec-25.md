@@ -2,11 +2,11 @@
 
 (a) Definitions.—In this section, the following definitions shall apply:
 
-(1) Crime of violence.—The term “crime of violence” has the meaning set forth in section 16.
+(1) Crime of violence.—The term "crime of violence" has the meaning set forth in section 16.
 
-(2) Minor.—The term “minor” means a person who has not reached 18 years of age.
+(2) Minor.—The term "minor" means a person who has not reached 18 years of age.
 
-(3) Uses.—The term “uses” means employs, hires, persuades, induces, entices, or coerces.
+(3) Uses.—The term "uses" means employs, hires, persuades, induces, entices, or coerces.
 
 (b) Penalties.—Any person who is 18 years of age or older, who intentionally uses a minor to commit a crime of violence for which such person may be prosecuted in a court of the United States, or to assist in avoiding detection or apprehension for such an offense, shall—
 

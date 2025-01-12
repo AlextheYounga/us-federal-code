@@ -56,7 +56,7 @@
 
 (4) The Secretary of a military department may, upon the request of the primary next of kin covered by paragraph (1)(A) and at the discretion of the Secretary, provide for the accompaniment of such next of kin in travel under this subsection by a casualty assistance officer or family liaison officer of the military department who shall act as an escort in such accompaniment.
 
-(f) Burial Ceremony Defined.—In this section, the term “burial ceremony” includes the following:
+(f) Burial Ceremony Defined.—In this section, the term "burial ceremony" includes the following:
 
 (1) An interment of casketed or cremated remains.
 
@@ -78,62 +78,62 @@
 
 Subsec. (h). Pub. L. 112–81, §631(e)(20), added subsec. (h).
 
-**2009**—Pub. L. 111–84, §542(b)(2)(A), substituted “member's burial ceremonies; transportation for survivors of member dying overseas to attend transfer ceremonies” for “the member's burial ceremonies” in section catchline.
+**2009**—Pub. L. 111–84, §542(b)(2)(A), substituted "member's burial ceremonies; transportation for survivors of member dying overseas to attend transfer ceremonies" for "the member's burial ceremonies" in section catchline.
 
 Subsec. (a)(2), (3). Pub. L. 111–84, §631(a), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (c). Pub. L. 111–84, §631(b), in introductory provisions of par. (1), substituted “paragraphs (1) and (2) of subsection (a)” for “subsection (a)(1)” and, in par. (2), substituted “paragraph (1) or (2) of subsection (a)” for “subsection (a)(1)”.
+Subsec. (c). Pub. L. 111–84, §631(b), in introductory provisions of par. (1), substituted "paragraphs (1) and (2) of subsection (a)" for "subsection (a)(1)" and, in par. (2), substituted "paragraph (1) or (2) of subsection (a)" for "subsection (a)(1)".
 
 Subsecs. (e) to (g). Pub. L. 111–84, §542(b)(1), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
-**2008**—Subsec. (c)(1)(B). Pub. L. 110–181, §632(a)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “The unmarried child or children of the deceased member referred to in section 401(a)(2) of this title.”
+**2008**—Subsec. (c)(1)(B). Pub. L. 110–181, §632(a)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: "The unmarried child or children of the deceased member referred to in section 401(a)(2) of this title."
 
 Subsec. (c)(1)(D), (E). Pub. L. 110–181, §632(a)(2), added subpars. (D) and (E).
 
-Subsec. (c)(2). Pub. L. 110–181, §632(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If no person described in paragraph (1) is provided travel and transportation allowances under subsection (a)(1), the travel and transportation allowances may be provided to—
+Subsec. (c)(2). Pub. L. 110–181, §632(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "If no person described in paragraph (1) is provided travel and transportation allowances under subsection (a)(1), the travel and transportation allowances may be provided to—
 
-“(A) the person who directs the disposition of the remains of the deceased member under section 1482(c) of title 10, or, in the case of a deceased member whose remains are commingled and buried in a common grave in a national cemetery, the person who would have been designated under such section to direct the disposition of the remains if individual identification had been made; and
+"(A) the person who directs the disposition of the remains of the deceased member under section 1482(c) of title 10, or, in the case of a deceased member whose remains are commingled and buried in a common grave in a national cemetery, the person who would have been designated under such section to direct the disposition of the remains if individual identification had been made; and
 
-“(B) up to two additional persons closely related to the deceased member who are selected by the person referred to in subparagraph (A).”
+"(B) up to two additional persons closely related to the deceased member who are selected by the person referred to in subparagraph (A)."
 
-**2004**—Subsec. (a)(1). Pub. L. 108–375, §631(a), inserted before period at end “at the location determined under subsection (a)(8) of section 1482 of title 10 or attend a memorial service for the deceased member, under circumstances covered by subsection (d) of such section”.
+**2004**—Subsec. (a)(1). Pub. L. 108–375, §631(a), inserted before period at end "at the location determined under subsection (a)(8) of section 1482 of title 10 or attend a memorial service for the deceased member, under circumstances covered by subsection (d) of such section".
 
 Subsec. (b). Pub. L. 108–375, §631(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows:
 
-“(1) Except as provided in paragraphs (2) and (3), allowances under subsection (a) are limited to travel and transportation to a location in the United States, Puerto Rico, and the possessions of the United States and may not exceed the rates for two days and the time necessary for such travel.
+"(1) Except as provided in paragraphs (2) and (3), allowances under subsection (a) are limited to travel and transportation to a location in the United States, Puerto Rico, and the possessions of the United States and may not exceed the rates for two days and the time necessary for such travel.
 
-“(2) If a deceased member was ordered or called to active duty from a place outside the United States, Puerto Rico, or the possessions of the United States, the allowances authorized under subsection (a) may be provided to and from such place and may not exceed the rates for two days and the time necessary for such travel.
+"(2) If a deceased member was ordered or called to active duty from a place outside the United States, Puerto Rico, or the possessions of the United States, the allowances authorized under subsection (a) may be provided to and from such place and may not exceed the rates for two days and the time necessary for such travel.
 
-“(3) If a deceased member is interred in a cemetery maintained by the American Battle Monuments Commission, the travel and transportation allowances authorized under subsection (a) may be provided to and from such cemetery and may not exceed the rates for two days and the time necessary for such travel.”
+"(3) If a deceased member is interred in a cemetery maintained by the American Battle Monuments Commission, the travel and transportation allowances authorized under subsection (a) may be provided to and from such cemetery and may not exceed the rates for two days and the time necessary for such travel."
 
-Subsec. (c)(1)(C). Pub. L. 108–375, §631(c), substituted “The” for “If no person described in subparagraph (A) or (B) is provided travel and transportation allowances under subsection (a)(1), the”.
+Subsec. (c)(1)(C). Pub. L. 108–375, §631(c), substituted "The" for "If no person described in subparagraph (A) or (B) is provided travel and transportation allowances under subsection (a)(1), the".
 
 **2001**—Pub. L. 107–107 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
-“(a) Under uniform regulations prescribed by the Secretaries concerned, round trip travel and transportation allowances may be provided the dependents of a member who dies while on active duty or inactive duty in order that such dependents may attend the burial ceremonies of the deceased member.
+"(a) Under uniform regulations prescribed by the Secretaries concerned, round trip travel and transportation allowances may be provided the dependents of a member who dies while on active duty or inactive duty in order that such dependents may attend the burial ceremonies of the deceased member.
 
-“(b)(1) Except as provided in paragraph (2), allowances under this section are limited to travel and transportation to a location in the United States, Puerto Rico, and the possessions of the United States and may not exceed the rates for 2 days.
+"(b)(1) Except as provided in paragraph (2), allowances under this section are limited to travel and transportation to a location in the United States, Puerto Rico, and the possessions of the United States and may not exceed the rates for 2 days.
 
-“(2) If a deceased member was ordered or called to active duty from a place outside the United States, Puerto Rico, or the possessions of the United States, the allowances authorized under this section may be provided to and from such place and may be extended to accommodate the time necessary for such travel.
+"(2) If a deceased member was ordered or called to active duty from a place outside the United States, Puerto Rico, or the possessions of the United States, the allowances authorized under this section may be provided to and from such place and may be extended to accommodate the time necessary for such travel.
 
-“(c) In this section, the term ‘dependents’ includes the dependents specified in paragraphs (1) and (2) of section 401(a) of this title. However, if no person qualifies under such paragraphs, the parents of a member (including stepparent or parent by adoption, or any person, including a former stepparent, who has stood in loco parentis to the member at any time for a continuous period of at least 5 years before the member became 21 years of age) may be paid the travel and transportation allowances authorized under this section.”
+"(c) In this section, the term 'dependents' includes the dependents specified in paragraphs (1) and (2) of section 401(a) of this title. However, if no person qualifies under such paragraphs, the parents of a member (including stepparent or parent by adoption, or any person, including a former stepparent, who has stood in loco parentis to the member at any time for a continuous period of at least 5 years before the member became 21 years of age) may be paid the travel and transportation allowances authorized under this section."
 
-**1993**—Subsec. (c). Pub. L. 103–35 substituted “section 401(a) of this title” for “section 401 of this title”.
+**1993**—Subsec. (c). Pub. L. 103–35 substituted "section 401(a) of this title" for "section 401 of this title".
 
-**1988**—Subsec. (a). Pub. L. 100–456 substituted “or inactive duty in order that such dependents may” for “for a period of 30 days or more in order to”.
+**1988**—Subsec. (a). Pub. L. 100–456 substituted "or inactive duty in order that such dependents may" for "for a period of 30 days or more in order to".
 
 #### Effective Date of 2009 Amendment ####
 
-Pub. L. 111–84, div. A, title V, §542(c), Oct. 28, 2009, 123 Stat. 2300, provided that: “This section [amending this section and enacting provisions set out as a note under section 1482 of Title 10, Armed Forces] and the amendments made by this section shall take effect on the date that is one year after the date of the enactment of this Act [Oct. 28, 2009].”
+Pub. L. 111–84, div. A, title V, §542(c), Oct. 28, 2009, 123 Stat. 2300, provided that: "This section [amending this section and enacting provisions set out as a note under section 1482 of Title 10, Armed Forces] and the amendments made by this section shall take effect on the date that is one year after the date of the enactment of this Act [Oct. 28, 2009]."
 
 #### Effective Date of 2001 Amendment ####
 
-Pub. L. 107–107, div. A, title VI, §638(c), Dec. 28, 2001, 115 Stat. 1148, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “Section 481f of title 37, United States Code, as amended by subsection (a), shall apply with respect to burial ceremonies of deceased members of the uniformed services that occur on or after the date of the enactment of this Act [Dec. 28, 2001].”
+Pub. L. 107–107, div. A, title VI, §638(c), Dec. 28, 2001, 115 Stat. 1148, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: "Section 481f of title 37, United States Code, as amended by subsection (a), shall apply with respect to burial ceremonies of deceased members of the uniformed services that occur on or after the date of the enactment of this Act [Dec. 28, 2001]."
 
 #### Effective Date of 1988 Amendment ####
 
-Pub. L. 100–456, div. A, title VI, §632(c), Sept. 29, 1988, 102 Stat. 1986, provided that: “The amendments made by this section [amending this section and section 411h of this title] shall take effect on October 1, 1988.”
+Pub. L. 100–456, div. A, title VI, §632(c), Sept. 29, 1988, 102 Stat. 1986, provided that: "The amendments made by this section [amending this section and section 411h of this title] shall take effect on October 1, 1988."
 
 #### Effective Date ####
 
-Pub. L. 99–145, title VI, §620(b), Nov. 8, 1985, 99 Stat. 643, provided that: “The travel and transportation allowance authorized by the amendments made by this section [enacting this section] is payable only for travel that commences after September 30, 1985.”
+Pub. L. 99–145, title VI, §620(b), Nov. 8, 1985, 99 Stat. 643, provided that: "The travel and transportation allowance authorized by the amendments made by this section [enacting this section] is payable only for travel that commences after September 30, 1985."

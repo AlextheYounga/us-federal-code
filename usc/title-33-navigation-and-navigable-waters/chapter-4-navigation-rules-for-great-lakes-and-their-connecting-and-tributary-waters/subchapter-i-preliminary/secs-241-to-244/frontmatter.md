@@ -2,7 +2,7 @@
 
 Section 241, acts Feb. 8, 1895, ch. 64, §1, 28 Stat. 645; Mar. 28, 1958, Pub. L. 85–350, §1, 72 Stat. 49, required adoption of rules for navigation of Great Lakes and connecting and tributary waters.
 
-Section 242, acts Feb. 8, 1895, ch. 64, §1, 28 Stat. 645, defined “sailing vessel”, “steam vessel” and “under way”.
+Section 242, acts Feb. 8, 1895, ch. 64, §1, 28 Stat. 645, defined "sailing vessel", "steam vessel" and "under way".
 
 Section 243, acts Feb. 8, 1895, ch. 64, §3, 28 Stat. 649; Feb. 14, 1903, ch. 552, §10, 32 Stat. 829; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, related to authority of Commandant of the Coast Guard to establish necessary regulations. See section 2071 of this title.
 

@@ -88,17 +88,17 @@ The Investment Company Act of 1940, referred to in subsec. (a)(1)(A), is title I
 
 The Investment Advisers Act of 1940, referred to in subsec. (a)(1)(A), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80b–20 of this title and Tables.
 
-This chapter, referred to in subsec. (a)(1)(A), (C), (2), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsec. (a)(1)(A), (C), (2), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 #### Amendments ####
 
-**2010**—Subsec. (a). Pub. L. 111–203, §929P(a)(2), designated existing provisions as par. (1) and inserted heading, inserted “that such penalty is in the public interest and” before “that such person—” in introductory provisions, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1) and realigned margins, struck out concluding provisions which read “and that such penalty is in the public interest.”, and added par. (2).
+**2010**—Subsec. (a). Pub. L. 111–203, §929P(a)(2), designated existing provisions as par. (1) and inserted heading, inserted "that such penalty is in the public interest and" before "that such person—" in introductory provisions, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1) and realigned margins, struck out concluding provisions which read "and that such penalty is in the public interest.", and added par. (2).
 
 Subsec. (f). Pub. L. 111–203, §773, added subsec. (f).
 
-**2006**—Subsec. (a). Pub. L. 109–291 inserted “78o–7,” after “78o–5,” in introductory provisions.
+**2006**—Subsec. (a). Pub. L. 109–291 inserted "78o–7," after "78o–5," in introductory provisions.
 
-**2002**—Subsec. (a). Pub. L. 107–204 inserted “78o–6,” before “78o–4,” in introductory provisions.
+**2002**—Subsec. (a). Pub. L. 107–204 inserted "78o–6," before "78o–4," in introductory provisions.
 
 #### Effective Date of 2010 Amendment ####
 

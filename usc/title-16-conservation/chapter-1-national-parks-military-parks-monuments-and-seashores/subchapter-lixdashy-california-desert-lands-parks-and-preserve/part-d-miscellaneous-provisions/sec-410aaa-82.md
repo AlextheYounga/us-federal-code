@@ -24,16 +24,16 @@ The Wilderness Act, referred to in subsecs. (a) and (b), is Pub. L. 88–577, Se
 
 Pub. L. 103–433, title VIII, §801, Oct. 31, 1994, 108 Stat. 4501, provided that:
 
-“(a) Short Title.—This title [enacting this section] may be cited as the ‘California Military Lands Withdrawal and Overflights Act of 1994’.
+"(a) Short Title.—This title [enacting this section] may be cited as the 'California Military Lands Withdrawal and Overflights Act of 1994'.
 
-“(b) Findings.—The Congress finds that—
+"(b) Findings.—The Congress finds that—
 
-“(1) military aircraft testing and training activities as well as demilitarization activities in California are an important part of the national defense system of the United States, and are essential in order to secure for the American people of this and future generations an enduring and viable national defense system;
+"(1) military aircraft testing and training activities as well as demilitarization activities in California are an important part of the national defense system of the United States, and are essential in order to secure for the American people of this and future generations an enduring and viable national defense system;
 
-“(2) the National Park System units and wilderness areas designated by this Act [see section 410aaa–81 of this title] lie within a region critical to providing training, research, and development for the Armed Forces of the United States and its allies;
+"(2) the National Park System units and wilderness areas designated by this Act [see section 410aaa–81 of this title] lie within a region critical to providing training, research, and development for the Armed Forces of the United States and its allies;
 
-“(3) there is a lack of alternative sites available for these military training, testing, and research activities;
+"(3) there is a lack of alternative sites available for these military training, testing, and research activities;
 
-“(4) continued use of the lands and airspace in the California desert region is essential for military purposes; and
+"(4) continued use of the lands and airspace in the California desert region is essential for military purposes; and
 
-“(5) continuation of these military activities, under appropriate terms and conditions, is not incompatible with the protection and proper management of the natural, environmental, cultural, and other resources and values of the Federal lands in the California desert area.”
+"(5) continuation of these military activities, under appropriate terms and conditions, is not incompatible with the protection and proper management of the natural, environmental, cultural, and other resources and values of the Federal lands in the California desert area."

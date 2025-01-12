@@ -10,17 +10,17 @@
 
 #### Amendments ####
 
-**1994**—Subsec. (b). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
+**1994**—Subsec. (b). Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
 
-**1993**—Pub. L. 103–156, §12(m), which directed amendment of “Section 14”, without specifying the name of the Act being amended, was executed to this section, which is section 14 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+**1993**—Pub. L. 103–156, §12(m), which directed amendment of "Section 14", without specifying the name of the Act being amended, was executed to this section, which is section 14 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Subsec. (a). Pub. L. 103–156, §§8, 12(m)(1), substituted “the person” for “he”, and struck out “shall be guilty of a misdemeanor and shall, on conviction thereof, be subject to imprisonment for not more than twelve months, or a fine of not more than $10,000, or both such imprisonment and fine; but, for each subsequent offense subject to this subsection, such person” before “shall be guilty of a felony”.
+Subsec. (a). Pub. L. 103–156, §§8, 12(m)(1), substituted "the person" for "he", and struck out "shall be guilty of a misdemeanor and shall, on conviction thereof, be subject to imprisonment for not more than twelve months, or a fine of not more than $10,000, or both such imprisonment and fine; but, for each subsequent offense subject to this subsection, such person" before "shall be guilty of a felony".
 
-Subsec. (b). Pub. L. 103–156, §12(m)(2), substituted “the Administrator” for “he” in three places.
+Subsec. (b). Pub. L. 103–156, §12(m)(2), substituted "the Administrator" for "he" in three places.
 
-**1976**—Subsec. (a). Pub. L. 94–582 inserted “(except an offense prohibited by paragraphs (a)(7), (a)(8), and (b)(4) in which case he shall be subject to the general penal statutes in Title 18 relating to crimes and offenses against the United States)”, increased the punishment for misdemeanors from six months to twelve months and the fine from $3,000 to $10,000, and denominated subsequent offenses as felonies, substituting “but, for each subsequent offense subject to this subsection, such person shall be guilty of a felony and shall, on conviction thereof, be subject to imprisonment for not more than five years, or a fine of not more than $20,000, or both such imprisonment and fine” for “but if such offense is committed after one conviction of such person under this section has become final, such person shall be subject to imprisonment for not more than one year, or a fine of not more than $5,000, or both such imprisonment and fine”.
+**1976**—Subsec. (a). Pub. L. 94–582 inserted "(except an offense prohibited by paragraphs (a)(7), (a)(8), and (b)(4) in which case he shall be subject to the general penal statutes in Title 18 relating to crimes and offenses against the United States)", increased the punishment for misdemeanors from six months to twelve months and the fine from $3,000 to $10,000, and denominated subsequent offenses as felonies, substituting "but, for each subsequent offense subject to this subsection, such person shall be guilty of a felony and shall, on conviction thereof, be subject to imprisonment for not more than five years, or a fine of not more than $20,000, or both such imprisonment and fine" for "but if such offense is committed after one conviction of such person under this section has become final, such person shall be subject to imprisonment for not more than one year, or a fine of not more than $5,000, or both such imprisonment and fine".
 
-Subsec. (b). Pub. L. 94–582 substituted “Administrator” for “Secretary” and inserted provision that nothing in this chapter shall be construed as requiring the Administrator to report any violation of this chapter for prosecution when he believes that institution of a proceeding under section 86 of this title will obtain compliance with this chapter and he institutes such a proceeding.
+Subsec. (b). Pub. L. 94–582 substituted "Administrator" for "Secretary" and inserted provision that nothing in this chapter shall be construed as requiring the Administrator to report any violation of this chapter for prosecution when he believes that institution of a proceeding under section 86 of this title will obtain compliance with this chapter and he institutes such a proceeding.
 
 Subsec. (c). Pub. L. 94–582 added subsec. (c).
 

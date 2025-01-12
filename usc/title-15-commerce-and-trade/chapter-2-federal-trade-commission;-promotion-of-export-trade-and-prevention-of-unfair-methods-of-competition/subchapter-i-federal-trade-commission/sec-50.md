@@ -12,15 +12,15 @@ Any officer or employee of the Commission who shall make public any information 
 
 #### Amendments ####
 
-**1980**—First par. Pub. L. 96–252 inserted “any” after “produce” and “an order of a district court of the United States directing compliance with” after “obedience to”.
+**1980**—First par. Pub. L. 96–252 inserted "any" after "produce" and "an order of a district court of the United States directing compliance with" after "obedience to".
 
-**1975**—Second par. Pub. L. 93–637, §203(c)(1), substituted “person, partnership, or corporation” for “corporation” wherever appearing.
+**1975**—Second par. Pub. L. 93–637, §203(c)(1), substituted "person, partnership, or corporation" for "corporation" wherever appearing.
 
-Third par. Pub. L. 93–637, §203(c)(2), substituted “If any persons, partnership, or corporation” for “If any corporation”, and “in the case of a corporation or partnership in the district where the corporation or partnership has its principal office or in any district in which it shall do business, and in the case of any person in the district where such person resides or has his principal place of business” for “in the district where the corporation has its principal office or in any district in which it shall do business”.
+Third par. Pub. L. 93–637, §203(c)(2), substituted "If any persons, partnership, or corporation" for "If any corporation", and "in the case of a corporation or partnership in the district where the corporation or partnership has its principal office or in any district in which it shall do business, and in the case of any person in the district where such person resides or has his principal place of business" for "in the district where the corporation has its principal office or in any district in which it shall do business".
 
 #### Change of Name ####
 
-Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys” for “district attorneys”. See section 541 et seq. of Title 28, Judiciary and Judicial Procedure.
+Act June 25, 1948, eff. Sept. 1, 1948, substituted "United States attorneys" for "district attorneys". See section 541 et seq. of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1980 Amendment ####
 

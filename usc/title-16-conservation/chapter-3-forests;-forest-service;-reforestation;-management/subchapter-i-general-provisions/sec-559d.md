@@ -20,7 +20,7 @@ The Controlled Substances Act, referred to in pars. (3) and (5), is title II of 
 
 #### Amendments ####
 
-**1988**—Par. (2). Pub. L. 100–690, §6254(c)(2), substituted “for offenses committed within the National Forest System or which affect the administration of the National Forest System” for “, within the boundaries of the National Forest System”.
+**1988**—Par. (2). Pub. L. 100–690, §6254(c)(2), substituted "for offenses committed within the National Forest System or which affect the administration of the National Forest System" for ", within the boundaries of the National Forest System".
 
 Pars. (3) to (5). Pub. L. 100–690, §6254(c)(3), added pars. (3) to (5).
 

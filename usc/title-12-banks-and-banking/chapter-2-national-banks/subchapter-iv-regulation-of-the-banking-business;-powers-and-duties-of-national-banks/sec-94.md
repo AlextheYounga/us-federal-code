@@ -14,8 +14,8 @@ Act Mar. 3, 1911, conferred powers and duties of former circuit courts on distri
 
 #### Amendments ####
 
-**1982**—Pub. L. 97–320, as amended by Pub. L. 97–457, amended section generally. Prior to amendment section read as follows: “Actions and proceedings against any association under this chapter may be had in any district or Territorial court of the United States held within the district in which such association may be established, or in any State, county, or municipal court in the county or city in which said association is located having jurisdiction in similar cases.”
+**1982**—Pub. L. 97–320, as amended by Pub. L. 97–457, amended section generally. Prior to amendment section read as follows: "Actions and proceedings against any association under this chapter may be had in any district or Territorial court of the United States held within the district in which such association may be established, or in any State, county, or municipal court in the county or city in which said association is located having jurisdiction in similar cases."
 
 #### Effective Date of 1983 Amendment ####
 
-Pub. L. 97–457, §20(b), Jan. 12, 1983, 96 Stat. 2509, provided that: “The amendment made by subsection (a) [amending this section] shall be deemed to have taken effect upon the enactment of Public Law 97–320 [Oct. 15, 1982].”
+Pub. L. 97–457, §20(b), Jan. 12, 1983, 96 Stat. 2509, provided that: "The amendment made by subsection (a) [amending this section] shall be deemed to have taken effect upon the enactment of Public Law 97–320 [Oct. 15, 1982]."

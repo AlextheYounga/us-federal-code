@@ -42,7 +42,7 @@ Pub. L. 95–598, title IV, §407, Nov. 6, 1978, 92 Stat. 2686, which provided t
 
 #### Extension and Termination of Term of Office of Bankruptcy Judge Serving on June 27, 1984 ####
 
-Pub. L. 98–353, title I, §121(e), July 10, 1984, 98 Stat. 346, provided that: “The term of office of any bankruptcy judge who was serving on June 27, 1984, is extended to and shall expire at the end of the day of enactment of this Act [July 10, 1984].”
+Pub. L. 98–353, title I, §121(e), July 10, 1984, 98 Stat. 346, provided that: "The term of office of any bankruptcy judge who was serving on June 27, 1984, is extended to and shall expire at the end of the day of enactment of this Act [July 10, 1984]."
 
 [Section 121(e) of Pub. L. 98–353 effective June 27, 1984, see section 122(c) of Pub. L. 98–353, set out as an Effective Date note under section 151 of this title.]
 

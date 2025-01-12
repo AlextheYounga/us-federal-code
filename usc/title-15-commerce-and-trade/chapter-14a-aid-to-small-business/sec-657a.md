@@ -10,9 +10,9 @@ There is established within the Administration a program to be carried out by th
 
 In this subsection—
 
-(A) the term “contracting officer” has the meaning given that term in section 2101(1) of title 41; and
+(A) the term "contracting officer" has the meaning given that term in section 2101(1) of title 41; and
 
-(B) the term “full and open competition” has the meaning given that term in section 107 of title 41.
+(B) the term "full and open competition" has the meaning given that term in section 107 of title 41.
 
 #### (2) Authority of contracting officer ####
 
@@ -86,7 +86,7 @@ Upon the request of the Administrator, the Secretary of Labor, the Secretary of 
 
 #### (4) Penalties ####
 
-In addition to the penalties described in section 645(d) of this title, any small business concern that is determined by the Administrator to have misrepresented the status of that concern as a “HUBZone small business concern” for purposes of this section, shall be subject to—
+In addition to the penalties described in section 645(d) of this title, any small business concern that is determined by the Administrator to have misrepresented the status of that concern as a "HUBZone small business concern" for purposes of this section, shall be subject to—
 
 (A) section 1001 of title 18; and
 
@@ -100,11 +100,11 @@ There is authorized to be appropriated to carry out the program established by t
 
 #### Codification ####
 
-In subsec. (b)(1)(A), “section 2101(1) of title 41” substituted for “section 27(f)(5) of the Office of Federal Procurement Policy Act (41 U.S.C. 423(f)(5))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(1)(A), "section 2101(1) of title 41" substituted for "section 27(f)(5) of the Office of Federal Procurement Policy Act (41 U.S.C. 423(f)(5))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(1)(B), “section 107 of title 41” substituted for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(1)(B), "section 107 of title 41" substituted for "section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(4), “chapter 85 of title 41” substituted for “the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(4), "chapter 85 of title 41" substituted for "the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions ####
 
@@ -112,23 +112,23 @@ A prior section 2[31] of Pub. L. 85–536 was renumbered section 2[47] and is se
 
 #### Amendments ####
 
-**2010**—Subsec. (b)(2). Pub. L. 111–240, §1347(c)(1), struck out introductory provisions which read as follows: “Notwithstanding any other provision of law—”.
+**2010**—Subsec. (b)(2). Pub. L. 111–240, §1347(c)(1), struck out introductory provisions which read as follows: "Notwithstanding any other provision of law—".
 
-Subsec. (b)(2)(A). Pub. L. 111–240, §1347(c)(2)(A), inserted heading and substituted “A contracting” for “a contracting” in introductory provisions.
+Subsec. (b)(2)(A). Pub. L. 111–240, §1347(c)(2)(A), inserted heading and substituted "A contracting" for "a contracting" in introductory provisions.
 
 Subsec. (b)(2)(A)(iii). Pub. L. 111–240, §1347(c)(2)(B), substituted period for semicolon at end.
 
-Subsec. (b)(2)(B). Pub. L. 111–240, §1347(c)(3), which directed amendment of subpar. (B) by inserting heading and substituting “A contract opportunity may” for “a contract opportunity shall”, and period for “; and”, was executed by inserting heading and substituting “A contract opportunity may” for “a contract opportunity may” and period for “; and”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 111–240, §1347(b)(1). See below.
+Subsec. (b)(2)(B). Pub. L. 111–240, §1347(c)(3), which directed amendment of subpar. (B) by inserting heading and substituting "A contract opportunity may" for "a contract opportunity shall", and period for "; and", was executed by inserting heading and substituting "A contract opportunity may" for "a contract opportunity may" and period for "; and", to reflect the probable intent of Congress and the intervening amendment by Pub. L. 111–240, §1347(b)(1). See below.
 
-Pub. L. 111–240, §1347(b)(1), substituted “may” for “shall”.
+Pub. L. 111–240, §1347(b)(1), substituted "may" for "shall".
 
-Subsec. (b)(2)(C). Pub. L. 111–240, §1347(c)(4), inserted heading and substituted “Not later” for “not later”.
+Subsec. (b)(2)(C). Pub. L. 111–240, §1347(c)(4), inserted heading and substituted "Not later" for "not later".
 
 **2004**—Subsec. (b)(3)(C), (D). Pub. L. 108–447, §153, which directed amendment of par. (3) by redesignating subpar. (C) as (D) and adding a new subpar. (C) at the end, was executed by making the redesignation as directed but by adding the new subpar. (C) after subpar. (B) to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 108–447, §154, substituted “2004 through 2006” for “2001 through 2003”.
+Subsec. (d). Pub. L. 108–447, §154, substituted "2004 through 2006" for "2001 through 2003".
 
-**2000**—Subsec. (b)(3). Pub. L. 106–554, §1(a)(9) [title VI, §612(a)], designated existing provisions as subpar. (A), inserted heading, substituted “Subject to subparagraph (B), in any” for “In any”, and added subpars. (B) and (C).
+**2000**—Subsec. (b)(3). Pub. L. 106–554, §1(a)(9) [title VI, §612(a)], designated existing provisions as subpar. (A), inserted heading, substituted "Subject to subparagraph (B), in any" for "In any", and added subpars. (B) and (C).
 
 Subsec. (d). Pub. L. 106–554, §1(a)(9) [title V, §503(b)], added subsec. (d).
 
@@ -138,34 +138,34 @@ Section effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a
 
 #### Initial Limited Applicability ####
 
-Pub. L. 105–135, title VI, §602(b)(2), Dec. 2, 1997, 111 Stat. 2631, as amended by Pub. L. 106–113, div. B, §1000(a)(5) [title II, §212], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, provided that: “During the period beginning on the date of enactment of this Act [Dec. 2, 1997] and ending on September 30, 2000, section 31 of the Small Business Act [15 U.S.C. 657a] (as added by paragraph (1) of this subsection) shall apply only to procurements by—
+Pub. L. 105–135, title VI, §602(b)(2), Dec. 2, 1997, 111 Stat. 2631, as amended by Pub. L. 106–113, div. B, §1000(a)(5) [title II, §212], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, provided that: "During the period beginning on the date of enactment of this Act [Dec. 2, 1997] and ending on September 30, 2000, section 31 of the Small Business Act [15 U.S.C. 657a] (as added by paragraph (1) of this subsection) shall apply only to procurements by—
 
-“(A) the Department of Defense;
+"(A) the Department of Defense;
 
-“(B) the Department of Agriculture;
+"(B) the Department of Agriculture;
 
-“(C) the Department of Health and Human Services;
+"(C) the Department of Health and Human Services;
 
-“(D) the Department of Transportation;
+"(D) the Department of Transportation;
 
-“(E) the Department of Energy;
+"(E) the Department of Energy;
 
-“(F) the Department of Housing and Urban Development;
+"(F) the Department of Housing and Urban Development;
 
-“(G) the Environmental Protection Agency;
+"(G) the Environmental Protection Agency;
 
-“(H) the National Aeronautics and Space Administration;
+"(H) the National Aeronautics and Space Administration;
 
-“(I) the General Services Administration;
+"(I) the General Services Administration;
 
-“(J) the Department of Veterans Affairs;
+"(J) the Department of Veterans Affairs;
 
-“(K) the Department of Commerce;
+"(K) the Department of Commerce;
 
-“(L) the Department of Justice; and
+"(L) the Department of Justice; and
 
-“(M) the Department of State.”
+"(M) the Department of State."
 
 #### Report ####
 
-Pub. L. 105–135, title VI, §606, Dec. 2, 1997, 111 Stat. 2635, provided that: “Not later than March 1, 2002, the Administrator shall submit to the Committees a report on the implementation of the HUBZone program established under section 31 of the Small Business Act [15 U.S.C. 657a] (as added by section 602(b) of this title) and the degree to which the HUBZone program has resulted in increased employment opportunities and an increased level of investment in HUBZones (as defined in section 3(p) of the Small Business Act (15 U.S.C. 632(p)), as added by section 602(a) of this title).”
+Pub. L. 105–135, title VI, §606, Dec. 2, 1997, 111 Stat. 2635, provided that: "Not later than March 1, 2002, the Administrator shall submit to the Committees a report on the implementation of the HUBZone program established under section 31 of the Small Business Act [15 U.S.C. 657a] (as added by section 602(b) of this title) and the degree to which the HUBZone program has resulted in increased employment opportunities and an increased level of investment in HUBZones (as defined in section 3(p) of the Small Business Act (15 U.S.C. 632(p)), as added by section 602(a) of this title)."

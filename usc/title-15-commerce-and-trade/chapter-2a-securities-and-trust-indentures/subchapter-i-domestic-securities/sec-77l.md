@@ -18,15 +18,15 @@ In an action described in subsection (a)(2) of this section, if the person who o
 
 #### Amendments ####
 
-**2000**—Subsec. (a)(2). Pub. L. 106–554 substituted “paragraphs (2) and (14)” for “paragraph (2)”.
+**2000**—Subsec. (a)(2). Pub. L. 106–554 substituted "paragraphs (2) and (14)" for "paragraph (2)".
 
-**1995**—Pub. L. 104–67 designated existing provisions as subsec. (a), inserted heading, inserted “, subject to subsection (b) of this section,” after “shall be liable” in concluding provisions, and added subsec. (b).
+**1995**—Pub. L. 104–67 designated existing provisions as subsec. (a), inserted heading, inserted ", subject to subsection (b) of this section," after "shall be liable" in concluding provisions, and added subsec. (b).
 
-**1954**—Act Aug. 10, 1954, inserted “offers or” before “sells” in pars. (1) and (2).
+**1954**—Act Aug. 10, 1954, inserted "offers or" before "sells" in pars. (1) and (2).
 
 #### Effective Date of 1995 Amendment ####
 
-Pub. L. 104–67, title I, §108, Dec. 22, 1995, 109 Stat. 758, provided that: “The amendments made by this title [enacting sections 77z–1, 77z–2, 78u–4, and 78u–5 of this title and amending this section and sections 77t, 78o, 78t, and 78u of this title and section 1964 of Title 18, Crimes and Criminal Procedure] shall not affect or apply to any private action arising under title I of the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.] or title I of the Securities Act of 1933 [15 U.S.C. 77a et seq.], commenced before and pending on the date of enactment of this Act [Dec. 22, 1995].”
+Pub. L. 104–67, title I, §108, Dec. 22, 1995, 109 Stat. 758, provided that: "The amendments made by this title [enacting sections 77z–1, 77z–2, 78u–4, and 78u–5 of this title and amending this section and sections 77t, 78o, 78t, and 78u of this title and section 1964 of Title 18, Crimes and Criminal Procedure] shall not affect or apply to any private action arising under title I of the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.] or title I of the Securities Act of 1933 [15 U.S.C. 77a et seq.], commenced before and pending on the date of enactment of this Act [Dec. 22, 1995]."
 
 #### Effective Date of 1954 Amendment ####
 

@@ -8,6 +8,6 @@
 
 #### Amendments ####
 
-**1988**—Pub. L. 100–541 designated existing provisions as subsec. (a), substituted “sums” for “sums, but not more than $1,800,000 in all,”, and added subsec. (b).
+**1988**—Pub. L. 100–541 designated existing provisions as subsec. (a), substituted "sums" for "sums, but not more than $1,800,000 in all,", and added subsec. (b).
 
 **1978**—Pub. L. 95–625 increased development appropriations authorization to $24,715,000 from $10,362,000 and prohibited expenditure of funds for improvements incompatible with wilderness management within the corridor of the park leading to the summit of Guadalupe Peak.

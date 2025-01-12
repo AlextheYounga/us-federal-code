@@ -28,6 +28,6 @@ Except with the written consent of the Administrator, it shall be unlawful—
 
 #### References in Text ####
 
-For definition of “this chapter”, referred to in subsec. (a), see References in Text note set out under section 661 of this title.
+For definition of "this chapter", referred to in subsec. (a), see References in Text note set out under section 661 of this title.
 
-[<sup>1</sup> So in original. Probably should be followed by “to”.](#689n_1)
+[<sup>1</sup> So in original. Probably should be followed by "to".](#689n_1)

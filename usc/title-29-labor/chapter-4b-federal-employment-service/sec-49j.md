@@ -6,7 +6,7 @@ In carrying out the provisions of this chapter the Secretary is authorized and d
 
 #### Amendments ####
 
-**1998**—Pub. L. 105–220, §307(2), which directed the substitution of “Secretary” for “Director”, was executed by making the substitution for “director” to reflect the probable intent of Congress.
+**1998**—Pub. L. 105–220, §307(2), which directed the substitution of "Secretary" for "Director", was executed by making the substitution for "director" to reflect the probable intent of Congress.
 
 Pub. L. 105–220, §307(1), redesignated subsec. (b) as entire section and struck out subsec. (a) which provided for establishment and composition of a Federal Advisory Council, and similar State advisory councils, to work on problems relating to employment.
 

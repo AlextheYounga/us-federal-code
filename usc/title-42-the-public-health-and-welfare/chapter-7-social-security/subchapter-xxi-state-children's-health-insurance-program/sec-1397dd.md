@@ -82,7 +82,7 @@ For purposes of subparagraph (A), a determination of the number of low-income ch
 
 #### (A) In general ####
 
-For purposes of paragraph (1)(A)(ii), the “State cost factor” for a State for a fiscal year equal to the sum of—
+For purposes of paragraph (1)(A)(ii), the "State cost factor" for a State for a fiscal year equal to the sum of—
 
 (i) 0.15, and
 
@@ -94,7 +94,7 @@ For purposes of paragraph (1)(A)(ii), the “State cost factor” for a State fo
 
 #### (B) Annual average wages per employee ####
 
-For purposes of subparagraph (A), the “annual average wages per employee” for a State, or for all the States, for a fiscal year is equal to the average of the annual wages per employee for the State or for the 50 States and the District of Columbia for employees in the health services industry (SIC code 8000), as reported by the Bureau of Labor Statistics of the Department of Labor for each of the most recent 3 years before the beginning of the calendar year in which such fiscal year begins.
+For purposes of subparagraph (A), the "annual average wages per employee" for a State, or for all the States, for a fiscal year is equal to the average of the annual wages per employee for the State or for the 50 States and the District of Columbia for employees in the health services industry (SIC code 8000), as reported by the Bureau of Labor Statistics of the Department of Labor for each of the most recent 3 years before the beginning of the calendar year in which such fiscal year begins.
 
 #### (4) Floors and ceilings in State allotments ####
 
@@ -138,11 +138,11 @@ In this paragraph:
 
 #### (i) Proportion of allotment ####
 
-The term “proportion” means, with respect to the allotment of a subsection (b) State for a fiscal year, the amount of the allotment of such State under this subsection for the fiscal year divided by the total of the amount available under this subsection for all such allotments for the fiscal year.
+The term "proportion" means, with respect to the allotment of a subsection (b) State for a fiscal year, the amount of the allotment of such State under this subsection for the fiscal year divided by the total of the amount available under this subsection for all such allotments for the fiscal year.
 
 #### (ii) Subsection (b) State ####
 
-The term “subsection (b) State” means one of the 50 States or the District of Columbia.
+The term "subsection (b) State" means one of the 50 States or the District of Columbia.
 
 #### (c) Allotments to territories ####
 
@@ -474,7 +474,7 @@ Notwithstanding subsections (e) and (f), amounts redistributed or allotted to a 
 
 #### (7) Definition of State ####
 
-For purposes of this subsection, the term “State” means a State that receives an allotment for fiscal year 2007 under subsection (b).
+For purposes of this subsection, the term "State" means a State that receives an allotment for fiscal year 2007 under subsection (b).
 
 #### (i) Redistribution of unused fiscal year 2005 allotments to States with estimated funding shortfalls for fiscal year 2008 ####
 
@@ -624,7 +624,7 @@ Subject to the succeeding provisions of this paragraph and paragraph (4), the Se
 
 #### (B) For the commonwealths and territories ####
 
-Subject to the succeeding provisions of this paragraph and paragraph (4), the Secretary shall allot for fiscal year 2009 from the amount made available under subsection (a)(12) to each of the commonwealths and territories described in subsection (c)(3) an amount equal to the highest amount of Federal payments to the commonwealth or territory under this subchapter for any fiscal year occurring during the period of fiscal years 1999 through 2008, multiplied by the allotment increase factor determined under paragraph (5) for fiscal year 2009, except that subparagraph (B) thereof shall be applied by substituting “the United States” for “the State”.
+Subject to the succeeding provisions of this paragraph and paragraph (4), the Secretary shall allot for fiscal year 2009 from the amount made available under subsection (a)(12) to each of the commonwealths and territories described in subsection (c)(3) an amount equal to the highest amount of Federal payments to the commonwealth or territory under this subchapter for any fiscal year occurring during the period of fiscal years 1999 through 2008, multiplied by the allotment increase factor determined under paragraph (5) for fiscal year 2009, except that subparagraph (B) thereof shall be applied by substituting "the United States" for "the State".
 
 #### (C) Adjustment for qualifying States ####
 
@@ -754,7 +754,7 @@ Each semi-annual allotment made under paragraph (3) for a period in fiscal year 
 
 #### (1) Establishment ####
 
-There is hereby established in the Treasury of the United States a fund which shall be known as the “Child Enrollment Contingency Fund” (in this subsection referred to as the “Fund”). Amounts in the Fund shall be available without further appropriations for payments under this subsection.
+There is hereby established in the Treasury of the United States a fund which shall be known as the "Child Enrollment Contingency Fund" (in this subsection referred to as the "Fund"). Amounts in the Fund shall be available without further appropriations for payments under this subsection.
 
 #### (2) Deposits into Fund ####
 
@@ -828,111 +828,111 @@ Section 108 of the Children's Health Insurance Program Reauthorization Act of 20
 
 #### Amendments ####
 
-**2010**—Subsec. (a)(16) to (18). Pub. L. 111–148, §10203(d)(1), added pars. (16) to (18) and struck out former par. (16) which read as follows: “for fiscal year 2013, for purposes of making 2 semi-annual allotments—
+**2010**—Subsec. (a)(16) to (18). Pub. L. 111–148, §10203(d)(1), added pars. (16) to (18) and struck out former par. (16) which read as follows: "for fiscal year 2013, for purposes of making 2 semi-annual allotments—
 
-“(A) $2,850,000,000 for the period beginning on October 1, 2012, and ending on March 31, 2013, and
+"(A) $2,850,000,000 for the period beginning on October 1, 2012, and ending on March 31, 2013, and
 
-“(B) $2,850,000,000 for the period beginning on April 1, 2013, and ending on September 30, 2013.”
+"(B) $2,850,000,000 for the period beginning on April 1, 2013, and ending on September 30, 2013."
 
-Subsec. (m). Pub. L. 111–148, §10203(d)(2)(A)(i), substituted “2015” for “2013” in heading.
+Subsec. (m). Pub. L. 111–148, §10203(d)(2)(A)(i), substituted "2015" for "2013" in heading.
 
-Subsec. (m)(2). Pub. L. 111–148, §10203(d)(2)(A)(ii), substituted “2014” for “2012” in heading and added subpar. (B).
+Subsec. (m)(2). Pub. L. 111–148, §10203(d)(2)(A)(ii), substituted "2014" for "2012" in heading and added subpar. (B).
 
-Subsec. (m)(3). Pub. L. 111–148, §10203(d)(2)(A)(iii)(I), substituted “2015” for “2013” in heading.
+Subsec. (m)(3). Pub. L. 111–148, §10203(d)(2)(A)(iii)(I), substituted "2015" for "2013" in heading.
 
-Subsec. (m)(3)(A), (B). Pub. L. 111–148, §10203(d)(2)(A)(iii)(II), substituted “paragraph (18)” for “paragraph (16)”.
+Subsec. (m)(3)(A), (B). Pub. L. 111–148, §10203(d)(2)(A)(iii)(II), substituted "paragraph (18)" for "paragraph (16)".
 
-Subsec. (m)(3)(C). Pub. L. 111–148, §10203(d)(2)(A)(iii)(III), substituted “2014” for “2012” wherever appearing and “2015” for “2013”.
+Subsec. (m)(3)(C). Pub. L. 111–148, §10203(d)(2)(A)(iii)(III), substituted "2014" for "2012" wherever appearing and "2015" for "2013".
 
-Subsec. (m)(3)(D)(i)(I). Pub. L. 111–148, §10203(d)(2)(A)(iii)(IV)(aa), substituted “subsection (a)(18)(A)” for “subsection (a)(16)(A)”.
+Subsec. (m)(3)(D)(i)(I). Pub. L. 111–148, §10203(d)(2)(A)(iii)(IV)(aa), substituted "subsection (a)(18)(A)" for "subsection (a)(16)(A)".
 
-Subsec. (m)(3)(D)(ii)(II). Pub. L. 111–148, §10203(d)(2)(A)(iii)(IV)(bb), substituted “subsection (a)(18)(B)” for “subsection (a)(16)(B)”.
+Subsec. (m)(3)(D)(ii)(II). Pub. L. 111–148, §10203(d)(2)(A)(iii)(IV)(bb), substituted "subsection (a)(18)(B)" for "subsection (a)(16)(B)".
 
-Subsec. (m)(4). Pub. L. 111–148, §10203(d)(2)(A)(iv), substituted “2015” for “2013”.
+Subsec. (m)(4). Pub. L. 111–148, §10203(d)(2)(A)(iv), substituted "2015" for "2013".
 
-Subsec. (m)(6). Pub. L. 111–148, §10203(d)(2)(A)(v)(II), substituted “, fiscal year 2012, or fiscal year 2014” for “or fiscal year 2012” in concluding provisions.
+Subsec. (m)(6). Pub. L. 111–148, §10203(d)(2)(A)(v)(II), substituted ", fiscal year 2012, or fiscal year 2014" for "or fiscal year 2012" in concluding provisions.
 
-Subsec. (m)(6)(A). Pub. L. 111–148, §10203(d)(2)(A)(v)(I), substituted “2015” for “2013”.
+Subsec. (m)(6)(A). Pub. L. 111–148, §10203(d)(2)(A)(v)(I), substituted "2015" for "2013".
 
 Subsec. (m)(7). Pub. L. 111–148, §2102(a)(1)(B), added par. (7). Former par. (7) redesignated (8).
 
-Subsec. (m)(8). Pub. L. 111–148, §10203(d)(2)(A)(vi), substituted “2015” for “2013” in heading and text.
+Subsec. (m)(8). Pub. L. 111–148, §10203(d)(2)(A)(vi), substituted "2015" for "2013" in heading and text.
 
 Pub. L. 111–148, §2102(a)(1)(A), redesignated par. (7) as (8).
 
-Subsec. (n)(2)(A)(ii), (B). Pub. L. 111–148, §10203(d)(2)(B)(i), substituted “2014” for “2012” and “2015” for “2013”.
+Subsec. (n)(2)(A)(ii), (B). Pub. L. 111–148, §10203(d)(2)(B)(i), substituted "2014" for "2012" and "2015" for "2013".
 
-Subsec. (n)(3)(A). Pub. L. 111–148, §10203(d)(2)(B)(ii), substituted “fiscal year 2013, fiscal year 2014, or a semi-annual allotment period for fiscal year 2015” for “or a semi-annual allotment period for fiscal year 2013”.
+Subsec. (n)(3)(A). Pub. L. 111–148, §10203(d)(2)(B)(ii), substituted "fiscal year 2013, fiscal year 2014, or a semi-annual allotment period for fiscal year 2015" for "or a semi-annual allotment period for fiscal year 2013".
 
-**2009**—Subsec. (a)(11). Pub. L. 111–3, §101(2), substituted “fiscal year 2008” for “each of fiscal years 2008 and 2009”.
+**2009**—Subsec. (a)(11). Pub. L. 111–3, §101(2), substituted "fiscal year 2008" for "each of fiscal years 2008 and 2009".
 
 Subsec. (a)(12) to (16). Pub. L. 111–3, §101(1), (3), added pars. (12) to (16).
 
-Subsec. (b)(1). Pub. L. 111–3, §102(1), substituted “subsections (d) and (m)” for “subsection (d)” in introductory provisions.
+Subsec. (b)(1). Pub. L. 111–3, §102(1), substituted "subsections (d) and (m)" for "subsection (d)" in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 111–3, §102(2), substituted “subsections (d) and (m)(4)” for “subsection (d)”.
+Subsec. (c)(1). Pub. L. 111–3, §102(2), substituted "subsections (d) and (m)(4)" for "subsection (d)".
 
-Subsec. (e). Pub. L. 111–3, §105, amended subsec. (e) generally. Prior to amendment, text read as follows: “Amounts allotted to a State pursuant to this section for a fiscal year shall remain available for expenditure by the State through the end of the second succeeding fiscal year; except that amounts reallotted to a State under subsection (f) of this section shall be available for expenditure by the State through the end of the fiscal year in which they are reallotted.”
+Subsec. (e). Pub. L. 111–3, §105, amended subsec. (e) generally. Prior to amendment, text read as follows: "Amounts allotted to a State pursuant to this section for a fiscal year shall remain available for expenditure by the State through the end of the second succeeding fiscal year; except that amounts reallotted to a State under subsection (f) of this section shall be available for expenditure by the State through the end of the fiscal year in which they are reallotted."
 
-Subsec. (f). Pub. L. 111–3, §106(a)(1), designated existing provisions as par. (1), inserted heading, substituted “States that the Secretary determines with respect to the fiscal year for which unused allotments are available for redistribution under this subsection, are shortfall States described in paragraph (2) for such fiscal year, but not to exceed the amount of the shortfall described in paragraph (2)(A) for each such State (as may be adjusted under paragraph (2)(C)).” for “States that have fully expended the amount of their allotments under this section.”, and added par. (2).
+Subsec. (f). Pub. L. 111–3, §106(a)(1), designated existing provisions as par. (1), inserted heading, substituted "States that the Secretary determines with respect to the fiscal year for which unused allotments are available for redistribution under this subsection, are shortfall States described in paragraph (2) for such fiscal year, but not to exceed the amount of the shortfall described in paragraph (2)(A) for each such State (as may be adjusted under paragraph (2)(C))." for "States that have fully expended the amount of their allotments under this section.", and added par. (2).
 
-Subsec. (k). Pub. L. 111–3, §106(b)(1), struck out “the first 2 quarters of” before “fiscal year 2009” in heading.
+Subsec. (k). Pub. L. 111–3, §106(b)(1), struck out "the first 2 quarters of" before "fiscal year 2009" in heading.
 
-Subsec. (k)(1). Pub. L. 111–3, §106(b)(2), struck out “the first 2 quarters of” before “fiscal year 2009,”.
+Subsec. (k)(1). Pub. L. 111–3, §106(b)(2), struck out "the first 2 quarters of" before "fiscal year 2009,".
 
-Subsec. (k)(6). Pub. L. 111–3, §106(b)(3), struck out “the first 2 quarters of” before “fiscal year 2009” and substituted “September 30” for “March 31”.
+Subsec. (k)(6). Pub. L. 111–3, §106(b)(3), struck out "the first 2 quarters of" before "fiscal year 2009" and substituted "September 30" for "March 31".
 
 Subsecs. (m), (n). Pub. L. 111–3, §§102(3), 103, added subsecs. (m) and (n).
 
 **2007**—Subsec. (a)(11). Pub. L. 110–173, §201(a)(1)(A), added par. (11).
 
-Subsec. (c)(4)(B). Pub. L. 110–173, §201(a)(1)(B), substituted “for each of fiscal years 2007 through 2009” for “for fiscal year 2007”.
+Subsec. (c)(4)(B). Pub. L. 110–173, §201(a)(1)(B), substituted "for each of fiscal years 2007 through 2009" for "for fiscal year 2007".
 
 Subsec. (h). Pub. L. 109–482 added subsec. (h).
 
-Subsec. (h)(1)(B). Pub. L. 110–28, §7001(b)(1), struck out “subject to paragraph (4)(B) and” after “estimates,” in introductory provisions.
+Subsec. (h)(1)(B). Pub. L. 110–28, §7001(b)(1), struck out "subject to paragraph (4)(B) and" after "estimates," in introductory provisions.
 
-Subsec. (h)(2). Pub. L. 110–28, §7001(a)(1), (b)(2), substituted “part” for “remainder of reduction” in heading and struck out “subject to paragraph (4)(B) and” after “estimates,” in introductory provisions of subpar. (B).
+Subsec. (h)(2). Pub. L. 110–28, §7001(a)(1), (b)(2), substituted "part" for "remainder of reduction" in heading and struck out "subject to paragraph (4)(B) and" after "estimates," in introductory provisions of subpar. (B).
 
 Subsec. (h)(4). Pub. L. 110–28, §7001(a)(2), added par. (4) and struck out former par. (4). Former text read as follows:
 
-“(A) Expenditures limited to coverage for populations eligible on october 1, 2006.—A State shall use amounts redistributed under this subsection only for expenditures for providing child health assistance or other health benefits coverage for populations eligible for such assistance or benefits under the State child health plan (including under a waiver of such plan) on October 1, 2006.
+"(A) Expenditures limited to coverage for populations eligible on october 1, 2006.—A State shall use amounts redistributed under this subsection only for expenditures for providing child health assistance or other health benefits coverage for populations eligible for such assistance or benefits under the State child health plan (including under a waiver of such plan) on October 1, 2006.
 
-“(B) Regular fmap for expenditures for coverage of nonchild populations.—To the extent a State uses amounts redistributed under this subsection for expenditures for providing child health assistance or other health benefits coverage to an individual who is not a child or a pregnant woman, the Federal medical assistance percentage (as defined in the first sentence of section 1396d(b) of this title) applicable to the State for the fiscal year shall apply to such expenditures for purposes of making payments to the State under subsection (a) of section 1397ee of this title from such amounts.”
+"(B) Regular fmap for expenditures for coverage of nonchild populations.—To the extent a State uses amounts redistributed under this subsection for expenditures for providing child health assistance or other health benefits coverage to an individual who is not a child or a pregnant woman, the Federal medical assistance percentage (as defined in the first sentence of section 1396d(b) of this title) applicable to the State for the fiscal year shall apply to such expenditures for purposes of making payments to the State under subsection (a) of section 1397ee of this title from such amounts."
 
-Subsec. (h)(5)(A). Pub. L. 110–28, §7001(b)(3), substituted “(3), and (4)” for “and (3)”.
+Subsec. (h)(5)(A). Pub. L. 110–28, §7001(b)(3), substituted "(3), and (4)" for "and (3)".
 
-Subsec. (h)(6). Pub. L. 110–28, §7001(b)(4), inserted “or allotted” after “redistributed” and “or allotments” after “redistributions” in first sentence and substituted “(3), and (4)” for “and (3)” in second sentence.
+Subsec. (h)(6). Pub. L. 110–28, §7001(b)(4), inserted "or allotted" after "redistributed" and "or allotments" after "redistributions" in first sentence and substituted "(3), and (4)" for "and (3)" in second sentence.
 
 Subsec. (i). Pub. L. 110–92 added subsec. (i).
 
 Subsec. (j) to (l). Pub. L. 110–173, §201(c)(1), added subsecs. (j) to (l).
 
-**2006**—Subsec. (a). Pub. L. 109–171, §6101(b)(1), inserted “subject to subsection (d),” after “under this section,” in introductory provisions.
+**2006**—Subsec. (a). Pub. L. 109–171, §6101(b)(1), inserted "subject to subsection (d)," after "under this section," in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 109–171, §6101(b)(2), inserted “and subsection (d)” after “Subject to paragraph (4)” in introductory provisions.
+Subsec. (b)(1). Pub. L. 109–171, §6101(b)(2), inserted "and subsection (d)" after "Subject to paragraph (4)" in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 109–171, §6101(b)(3), inserted “subject to subsection (d),” after “for a fiscal year,”.
+Subsec. (c)(1). Pub. L. 109–171, §6101(b)(3), inserted "subject to subsection (d)," after "for a fiscal year,".
 
 Subsec. (d). Pub. L. 109–171, §6101(a), added subsec. (d).
 
-**2003**—Subsec. (g). Pub. L. 108–74, §1(a)(2)(C)(i), (3)(C)(i), substituted “, 1999, 2000, and 2001” for “and 1999” in heading.
+**2003**—Subsec. (g). Pub. L. 108–74, §1(a)(2)(C)(i), (3)(C)(i), substituted ", 1999, 2000, and 2001" for "and 1999" in heading.
 
-Subsec. (g)(1)(A). Pub. L. 108–74, §1(a)(3)(B)(i), (ii), inserted “or for fiscal year 2001 by the end of fiscal year 2003,” after “fiscal year 2002,” and substituted “1999, 2000, or 2001” for “1999, or 2000”.
+Subsec. (g)(1)(A). Pub. L. 108–74, §1(a)(3)(B)(i), (ii), inserted "or for fiscal year 2001 by the end of fiscal year 2003," after "fiscal year 2002," and substituted "1999, 2000, or 2001" for "1999, or 2000".
 
-Pub. L. 108–74, §1(a)(2)(B)(i), (ii), inserted “or for fiscal year 2000 by the end of fiscal year 2002,” after “fiscal year 2001,” and substituted “1998, 1999, or 2000” for “1998 or 1999”.
+Pub. L. 108–74, §1(a)(2)(B)(i), (ii), inserted "or for fiscal year 2000 by the end of fiscal year 2002," after "fiscal year 2001," and substituted "1998, 1999, or 2000" for "1998 or 1999".
 
 Subsec. (g)(1)(A)(i)(III). Pub. L. 108–74, §1(a)(2)(B)(iii), added subclause (III).
 
 Subsec. (g)(1)(A)(i)(IV). Pub. L. 108–74, §1(a)(3)(B)(iii), added subcl. (IV).
 
-Subsec. (g)(1)(A)(ii). Pub. L. 108–74, §1(a)(3)(B)(iv), substituted “2000, or 2001” for “or 2000”.
+Subsec. (g)(1)(A)(ii). Pub. L. 108–74, §1(a)(3)(B)(iv), substituted "2000, or 2001" for "or 2000".
 
-Pub. L. 108–74, §1(a)(2)(B)(iv), substituted “, 1999, or 2000” for “or 1999”.
+Pub. L. 108–74, §1(a)(2)(B)(iv), substituted ", 1999, or 2000" for "or 1999".
 
-Subsec. (g)(1)(B). Pub. L. 108–74, §1(a)(2)(B)(v), struck out “with respect to fiscal year 1998 or 1999” after “paragraph” in introductory provisions.
+Subsec. (g)(1)(B). Pub. L. 108–74, §1(a)(2)(B)(v), struck out "with respect to fiscal year 1998 or 1999" after "paragraph" in introductory provisions.
 
-Subsec. (g)(1)(B)(ii). Pub. L. 108–74, §1(a)(2)(B)(vi), inserted “with respect to fiscal year 1998, 1999, or 2000” after “subsection (e) of this section,” and substituted “2004” for “2002”.
+Subsec. (g)(1)(B)(ii). Pub. L. 108–74, §1(a)(2)(B)(vi), inserted "with respect to fiscal year 1998, 1999, or 2000" after "subsection (e) of this section," and substituted "2004" for "2002".
 
 Subsec. (g)(1)(B)(iii), (iv). Pub. L. 108–74, §1(a)(3)(B)(v), added clause (iii) and redesignated former cl. (iii) as (iv).
 
@@ -940,61 +940,61 @@ Subsec. (g)(1)(C). Pub. L. 108–74, §1(a)(2)(B)(vii), added subpar. (C).
 
 Subsec. (g)(1)(D). Pub. L. 108–74, §1(a)(3)(B)(vi), added subpar. (D).
 
-Subsec. (g)(2). Pub. L. 108–74, §1(a)(2)(A)(i), (3)(A)(i), substituted “through 2001” for “and 1999” in heading.
+Subsec. (g)(2). Pub. L. 108–74, §1(a)(2)(A)(i), (3)(A)(i), substituted "through 2001" for "and 1999" in heading.
 
-Subsec. (g)(2)(A)(i), (ii). Pub. L. 108–74, §1(a)(1), substituted “fiscal year 2004” for “fiscal year 2002”.
+Subsec. (g)(2)(A)(i), (ii). Pub. L. 108–74, §1(a)(1), substituted "fiscal year 2004" for "fiscal year 2002".
 
 Subsec. (g)(2)(A)(iii). Pub. L. 108–74, §1(a)(2)(A)(ii), added cl. (iii).
 
 Subsec. (g)(2)(A)(iv). Pub. L. 108–74, §1(a)(3)(A)(ii), added cl. (iv).
 
-Subsec. (g)(3). Pub. L. 108–173 inserted “or CMS Form 64 or CMS Form 21, as the case may be,” after “HCFA Form 64 or HCFA Form 21”.
+Subsec. (g)(3). Pub. L. 108–173 inserted "or CMS Form 64 or CMS Form 21, as the case may be," after "HCFA Form 64 or HCFA Form 21".
 
-Pub. L. 108–74, §1(a)(3)(C)(ii), substituted “fiscal year 2000, or fiscal year 2001” for “or fiscal year 2000” and “November 30, 2002, or November 30, 2003,” for “or November 30, 2002,”.
+Pub. L. 108–74, §1(a)(3)(C)(ii), substituted "fiscal year 2000, or fiscal year 2001" for "or fiscal year 2000" and "November 30, 2002, or November 30, 2003," for "or November 30, 2002,".
 
-Pub. L. 108–74, §1(a)(2)(C)(ii), substituted “, fiscal year 1999, or fiscal year 2000” for “or fiscal year 1999” and “November 30, 2001, or November 30, 2002” for “or November 30, 2001”.
+Pub. L. 108–74, §1(a)(2)(C)(ii), substituted ", fiscal year 1999, or fiscal year 2000" for "or fiscal year 1999" and "November 30, 2001, or November 30, 2002" for "or November 30, 2001".
 
-**2000**—Subsec. (b)(1). Pub. L. 106–554, §1(a)(6) [title VIII, §802(d)(3)(A)], in introductory provisions, struck out “and subsection (d) of this section” after “Subject to paragraph (4)”.
+**2000**—Subsec. (b)(1). Pub. L. 106–554, §1(a)(6) [title VIII, §802(d)(3)(A)], in introductory provisions, struck out "and subsection (d) of this section" after "Subject to paragraph (4)".
 
-Subsec. (c)(1). Pub. L. 106–554, §1(a)(6) [title VIII, §802(d)(3)(B)], struck out “subject to subsection (d) of this section,” after “for a fiscal year,”.
+Subsec. (c)(1). Pub. L. 106–554, §1(a)(6) [title VIII, §802(d)(3)(B)], struck out "subject to subsection (d) of this section," after "for a fiscal year,".
 
-Subsec. (d). Pub. L. 106–554, §1(a)(6) [title VIII, §802(b)], struck out heading and text of subsec. (d). Text read as follows: “The amount of the allotment otherwise provided to a State under subsection (b) or (c) of this section for a fiscal year shall be reduced by the sum of—
+Subsec. (d). Pub. L. 106–554, §1(a)(6) [title VIII, §802(b)], struck out heading and text of subsec. (d). Text read as follows: "The amount of the allotment otherwise provided to a State under subsection (b) or (c) of this section for a fiscal year shall be reduced by the sum of—
 
-“(1) the amount (if any) of the payments made to that State under section 1396b(a) of this title for expenditures claimed by the State during such fiscal year that is attributable to the provision of medical assistance to a child during a presumptive eligibility period under section 1396r–1a of this title, and
+"(1) the amount (if any) of the payments made to that State under section 1396b(a) of this title for expenditures claimed by the State during such fiscal year that is attributable to the provision of medical assistance to a child during a presumptive eligibility period under section 1396r–1a of this title, and
 
-“(2) the amount (if any) of the payments made to that State under section 1396b(a) of this title for expenditures claimed by the State during such fiscal year that is attributable to the provision of medical assistance to a child for which payment is made under section 1396b(a)(1) of this title on the basis of an enhanced FMAP under the fourth sentence of section 1396d(b) of this title.”
+"(2) the amount (if any) of the payments made to that State under section 1396b(a) of this title for expenditures claimed by the State during such fiscal year that is attributable to the provision of medical assistance to a child for which payment is made under section 1396b(a)(1) of this title on the basis of an enhanced FMAP under the fourth sentence of section 1396d(b) of this title."
 
 Subsec. (g). Pub. L. 106–554, §1(a)(6) [title VIII, §801(a)], added subsec. (g).
 
-**1999**—Subsec. (b)(2)(A)(i). Pub. L. 106–113, §1000(a)(6) [title VII, §701(a)(1)(A)], substituted “and 1999” for “through 2000”.
+**1999**—Subsec. (b)(2)(A)(i). Pub. L. 106–113, §1000(a)(6) [title VII, §701(a)(1)(A)], substituted "and 1999" for "through 2000".
 
-Subsec. (b)(2)(A)(ii). Pub. L. 106–113, §1000(a)(6) [title VII, §701(a)(1)(B)], substituted “2000” for “2001” in introductory provisions.
+Subsec. (b)(2)(A)(ii). Pub. L. 106–113, §1000(a)(6) [title VII, §701(a)(1)(B)], substituted "2000" for "2001" in introductory provisions.
 
-Subsec. (b)(2)(B). Pub. L. 106–113, §1000(a)(6) [title VII, §701(a)(3)], substituted “the calendar year in which such fiscal year begins” for “the fiscal year”.
+Subsec. (b)(2)(B). Pub. L. 106–113, §1000(a)(6) [title VII, §701(a)(3)], substituted "the calendar year in which such fiscal year begins" for "the fiscal year".
 
-Subsec. (b)(3)(B). Pub. L. 106–113, §1000(a)(6) [title VII, §705(a)], substituted “all the States,” for “all the States.”
+Subsec. (b)(3)(B). Pub. L. 106–113, §1000(a)(6) [title VII, §705(a)], substituted "all the States," for "all the States."
 
-Pub. L. 106–113, §1000(a)(6) [title VII, §701(a)(4)], substituted “the calendar year in which such fiscal year begins” for “the fiscal year involved”.
+Pub. L. 106–113, §1000(a)(6) [title VII, §701(a)(4)], substituted "the calendar year in which such fiscal year begins" for "the fiscal year involved".
 
-Subsec. (b)(4). Pub. L. 106–113, §1000(a)(6) [title VII, §701(a)(2)], amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “In no case shall the amount of the allotment under this subsection for one of the 50 States or the District of Columbia for a year be less than $2,000,000. To the extent that the application of the previous sentence results in an increase in the allotment to a State above the amount otherwise provided, the allotments for the other States and the District of Columbia under this subsection shall be reduced in a pro rata manner (but not below $2,000,000) so that the total of such allotments in a fiscal year does not exceed the amount otherwise provided for allotment under paragraph (1) for that fiscal year.”
+Subsec. (b)(4). Pub. L. 106–113, §1000(a)(6) [title VII, §701(a)(2)], amended heading and text of par. (4) generally. Prior to amendment, text read as follows: "In no case shall the amount of the allotment under this subsection for one of the 50 States or the District of Columbia for a year be less than $2,000,000. To the extent that the application of the previous sentence results in an increase in the allotment to a State above the amount otherwise provided, the allotments for the other States and the District of Columbia under this subsection shall be reduced in a pro rata manner (but not below $2,000,000) so that the total of such allotments in a fiscal year does not exceed the amount otherwise provided for allotment under paragraph (1) for that fiscal year."
 
-Subsec. (c)(4)(B). Pub. L. 106–113, §1000(a)(6) [title VII, §702], inserted before period at end “, $34,200,000 for each of fiscal years 2000 and 2001, $25,200,000 for each of fiscal years 2002 through 2004, $32,400,000 for each of fiscal years 2005 and 2006, and $40,000,000 for fiscal year 2007”.
+Subsec. (c)(4)(B). Pub. L. 106–113, §1000(a)(6) [title VII, §702], inserted before period at end ", $34,200,000 for each of fiscal years 2000 and 2001, $25,200,000 for each of fiscal years 2002 through 2004, $32,400,000 for each of fiscal years 2005 and 2006, and $40,000,000 for fiscal year 2007".
 
-**1998**—Subsec. (b)(1). Pub. L. 105–277, §101(f) [title VII, §706(b)], inserted “(determined without regard to paragraph (4) thereof)” after “subsection (c) of this section”.
+**1998**—Subsec. (b)(1). Pub. L. 105–277, §101(f) [title VII, §706(b)], inserted "(determined without regard to paragraph (4) thereof)" after "subsection (c) of this section".
 
 Subsec. (c)(4). Pub. L. 105–277, §101(f) [title VII, §706(a)], added par. (4).
 
-**1997**—Subsec. (a)(1). Pub. L. 105–100, §162(8)(A), substituted “$4,295,000,000” for “$4,275,000,000”.
+**1997**—Subsec. (a)(1). Pub. L. 105–100, §162(8)(A), substituted "$4,295,000,000" for "$4,275,000,000".
 
-Subsec. (b)(4). Pub. L. 105–100, §162(8)(B), substituted “In” for “Subject to paragraph (5), in”.
+Subsec. (b)(4). Pub. L. 105–100, §162(8)(B), substituted "In" for "Subject to paragraph (5), in".
 
-Subsec. (c)(2)(C). Pub. L. 105–100, §162(8)(C), inserted “the” before “Virgin Islands”.
+Subsec. (c)(2)(C). Pub. L. 105–100, §162(8)(C), inserted "the" before "Virgin Islands".
 
-Subsec. (c)(3)(C), (E). Pub. L. 105–100, §162(8)(C), substituted “The” for “the”.
+Subsec. (c)(3)(C), (E). Pub. L. 105–100, §162(8)(C), substituted "The" for "the".
 
-Subsec. (d)(1). Pub. L. 105–100, §162(6)(A), substituted “for expenditures claimed by the State” for “for calendar quarters”.
+Subsec. (d)(1). Pub. L. 105–100, §162(6)(A), substituted "for expenditures claimed by the State" for "for calendar quarters".
 
-Subsec. (d)(2). Pub. L. 105–100, §162(6)(B), added par. (2) and struck out former par. (2) which read as follows: “the amount of payments under such section during such period that is attributable to the provision of medical assistance to a child for which payment is made under section 1396b(a)(1) of this title on the basis of an enhanced FMAP under section 1396d(b) of this title.”
+Subsec. (d)(2). Pub. L. 105–100, §162(6)(B), added par. (2) and struck out former par. (2) which read as follows: "the amount of payments under such section during such period that is attributable to the provision of medical assistance to a child for which payment is made under section 1396b(a)(1) of this title on the basis of an enhanced FMAP under section 1396d(b) of this title."
 
 #### Effective Date of 2010 Amendment ####
 
@@ -1004,7 +1004,7 @@ Pub. L. 111–148, title II, §2102(a), Mar. 23, 2010, 124 Stat. 288, provided t
 
 Amendment by sections 101–103, 105, and 106(b) of Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of this title.
 
-Pub. L. 111–3, title I, §106(a)(2), Feb. 4, 2009, 123 Stat. 24, provided that: “The amendments made by paragraph (1) [amending this section] shall apply to redistribution of allotments made for fiscal year 2007 and subsequent fiscal years.”
+Pub. L. 111–3, title I, §106(a)(2), Feb. 4, 2009, 123 Stat. 24, provided that: "The amendments made by paragraph (1) [amending this section] shall apply to redistribution of allotments made for fiscal year 2007 and subsequent fiscal years."
 
 #### Termination Date of 2007 Amendment ####
 
@@ -1012,21 +1012,21 @@ Pub. L. 110–92, §136(e), Sept. 29, 2007, 121 Stat. 995, which provided that t
 
 #### Effective Date of 2006 Amendment ####
 
-Pub. L. 109–171, title VI, §6101(c), Feb. 8, 2006, 120 Stat. 131, provided that: “The amendments made by this section [amending this section] apply to items and services furnished on or after October 1, 2005, without regard to whether or not regulations implementing such amendments have been issued.”
+Pub. L. 109–171, title VI, §6101(c), Feb. 8, 2006, 120 Stat. 131, provided that: "The amendments made by this section [amending this section] apply to items and services furnished on or after October 1, 2005, without regard to whether or not regulations implementing such amendments have been issued."
 
 #### Effective Date of 2003 Amendment ####
 
-Pub. L. 108–74, §1(a)(4), Aug. 15, 2003, 117 Stat. 895, provided that: “This subsection [amending this section], and the amendments made by this subsection, shall be effective as if this subsection had been enacted on September 30, 2002, and amounts under title XXI of the Social Security Act (42 U.S.C. 1397aa et seq.) from allotments for fiscal years 1998 through 2000 are available for expenditure on and after October 1, 2002, under the amendments made by this subsection as if this subsection had been enacted on September 30, 2002.”
+Pub. L. 108–74, §1(a)(4), Aug. 15, 2003, 117 Stat. 895, provided that: "This subsection [amending this section], and the amendments made by this subsection, shall be effective as if this subsection had been enacted on September 30, 2002, and amounts under title XXI of the Social Security Act (42 U.S.C. 1397aa et seq.) from allotments for fiscal years 1998 through 2000 are available for expenditure on and after October 1, 2002, under the amendments made by this subsection as if this subsection had been enacted on September 30, 2002."
 
 #### Effective Date of 2000 Amendment ####
 
-Pub. L. 106–554, §1(a)(6) [title VIII, §801(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–580, provided that: “The amendments made by this section [amending this section] shall take effect as if included in the enactment of section 4901 of BBA [Pub. L. 105–33] (111 Stat. 552).”
+Pub. L. 106–554, §1(a)(6) [title VIII, §801(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–580, provided that: "The amendments made by this section [amending this section] shall take effect as if included in the enactment of section 4901 of BBA [Pub. L. 105–33] (111 Stat. 552)."
 
 Amendment by section 802(b), (d)(3) of Pub. L. 106–554 effective as if included in the enactment of section 4901 of Pub. L. 105–33, see section 1(a)(6) [title VIII, §802(f)] of Pub. L. 106–554, set out as a note under section 1396d of this title.
 
 #### Effective Date of 1999 Amendment ####
 
-Pub. L. 106–113, div. B, §1000(a)(6) [title VII, §701(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–400, provided that: “The amendments made by this section [amending this section] apply to allotments determined under title XXI of the Social Security Act (42 U.S.C. 1397aa et seq.) for fiscal year 2000 and each fiscal year thereafter.”
+Pub. L. 106–113, div. B, §1000(a)(6) [title VII, §701(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–400, provided that: "The amendments made by this section [amending this section] apply to allotments determined under title XXI of the Social Security Act (42 U.S.C. 1397aa et seq.) for fiscal year 2000 and each fiscal year thereafter."
 
 #### Effective Date of 1997 Amendment ####
 
@@ -1034,19 +1034,19 @@ Pub. L. 105–100, title I, §162, Nov. 19, 1997, 111 Stat. 2188, provided that 
 
 #### Authority To Transfer Subchapter XXI Appropriations to Subchapter XIX Appropriation Account as Reimbursement for Medicaid Expenditures for Medicaid Expansion SCHIP Services ####
 
-Pub. L. 106–554, §1(a)(6) [title VIII, §802(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–581, provided that: “Notwithstanding any other provision of law, all amounts appropriated under title XXI [of the Social Security Act, 42 U.S.C. 1397aa et seq.] and allotted to a State pursuant to subsection (b) or (c) of section 2104 of the Social Security Act (42 U.S.C. 1397dd) for fiscal years 1998 through 2000 (including any amounts that, but for this provision, would be considered to have expired) and not expended in providing child health assistance or related services for which payment may be made pursuant to subparagraph (C) or (D) of section 2105(a)(1) of such Act (42 U.S.C. 1397ee(a)(1)) (as amended by subsection (a)), shall be available to reimburse the Grants to States for Medicaid account in an amount equal to the total payments made to such State under section 1903(a) of such Act (42 U.S.C. 1396b(a)) for expenditures in such years for medical assistance described in subparagraphs (A) and (B) of section 2105(a)(1) of such Act (42 U.S.C. 1397ee(a)(1)) (as so amended).”
+Pub. L. 106–554, §1(a)(6) [title VIII, §802(c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–581, provided that: "Notwithstanding any other provision of law, all amounts appropriated under title XXI [of the Social Security Act, 42 U.S.C. 1397aa et seq.] and allotted to a State pursuant to subsection (b) or (c) of section 2104 of the Social Security Act (42 U.S.C. 1397dd) for fiscal years 1998 through 2000 (including any amounts that, but for this provision, would be considered to have expired) and not expended in providing child health assistance or related services for which payment may be made pursuant to subparagraph (C) or (D) of section 2105(a)(1) of such Act (42 U.S.C. 1397ee(a)(1)) (as amended by subsection (a)), shall be available to reimburse the Grants to States for Medicaid account in an amount equal to the total payments made to such State under section 1903(a) of such Act (42 U.S.C. 1396b(a)) for expenditures in such years for medical assistance described in subparagraphs (A) and (B) of section 2105(a)(1) of such Act (42 U.S.C. 1397ee(a)(1)) (as so amended)."
 
 #### Determination of Number of Children and State Cost Factors for Fiscal Years 1998 and 1999 ####
 
-Pub. L. 105–277, div. A, §101(f) [title VII, §707], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389, provided that: “Notwithstanding any other provision of law, for purposes of determining the product under section 2104(b)(1)(A) of the Social Security Act (42 U.S.C. 1397dd(b)(1)(A)) for a State for each of fiscal years 1998 and 1999—
+Pub. L. 105–277, div. A, §101(f) [title VII, §707], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389, provided that: "Notwithstanding any other provision of law, for purposes of determining the product under section 2104(b)(1)(A) of the Social Security Act (42 U.S.C. 1397dd(b)(1)(A)) for a State for each of fiscal years 1998 and 1999—
 
-“(1) the number of children under clause (i) of such section shall be the number of low-income children specified for the State in Column B of the table on pages 48101–48102 of the Federal Register published on September 12, 1997, adjusted by the Census Bureau as necessary to treat children as being without health insurance if they have access to health care funded by the Indian Health Service but do not have health insurance; and
+"(1) the number of children under clause (i) of such section shall be the number of low-income children specified for the State in Column B of the table on pages 48101–48102 of the Federal Register published on September 12, 1997, adjusted by the Census Bureau as necessary to treat children as being without health insurance if they have access to health care funded by the Indian Health Service but do not have health insurance; and
 
-“(2) the State cost factor under clause (ii) of such section shall be the State cost factor specified for the State in Column C of such table.”
+"(2) the State cost factor under clause (ii) of such section shall be the State cost factor specified for the State in Column C of such table."
 
 [<sup>1</sup> So in original. The period probably should be a semicolon.](#1397dd_1)
 
-[<sup>2</sup> So in original. Probably should be “Child Enrollment Contingency Fund”.](#1397dd_2)
+[<sup>2</sup> So in original. Probably should be "Child Enrollment Contingency Fund".](#1397dd_2)
 
 [<sup>3</sup> So in original.](#1397dd_3)
 

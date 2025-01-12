@@ -96,11 +96,11 @@ Sec.
 
 **2008**—Pub. L. 110–323, §5(c), Sept. 22, 2008, 122 Stat. 3547, added item 705.
 
-**2004**—Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, substituted “GOVERNMENT ACCOUNTABILITY OFFICE” for “GENERAL ACCOUNTING OFFICE” in chapter heading and “Government Accountability Office” for “General Accounting Office” in item 702.
+**2004**—Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, substituted "GOVERNMENT ACCOUNTABILITY OFFICE" for "GENERAL ACCOUNTING OFFICE" in chapter heading and "Government Accountability Office" for "General Accounting Office" in item 702.
 
 **2000**—Pub. L. 106–303, §4(a)(3), Oct. 13, 2000, 114 Stat. 1069, added item 732a.
 
-**1994**—Pub. L. 103–272, §4(f)(1)(C), July 5, 1994, 108 Stat. 1362, struck out “Sec.” immediately above item 781.
+**1994**—Pub. L. 103–272, §4(f)(1)(C), July 5, 1994, 108 Stat. 1362, struck out "Sec." immediately above item 781.
 
 **1988**—Pub. L. 100–545, §2(a), Oct. 28, 1988, 102 Stat. 2728, added subchapter VI heading and items 781 to 783.
 

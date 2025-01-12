@@ -22,7 +22,7 @@ Whoever, in any matter within the jurisdiction of an examiner or hearing officer
 
 (2) The prohibition of this subsection applies with respect to any general, special, or primary election held solely or in part for the purpose of selecting or electing any candidate for the office of President, Vice President, presidential elector, Member of the United States Senate, Member of the United States House of Representatives, Delegate from the District of Columbia, Guam, or the Virgin Islands, or Resident Commissioner of the Commonwealth of Puerto Rico.
 
-(3) As used in this subsection, the term “votes more than once” does not include the casting of an additional ballot if all prior ballots of that voter were invalidated, nor does it include the voting in two jurisdictions under section 1973aa–1 of this title, to the extent two ballots are not cast for an election to the same candidacy or office.
+(3) As used in this subsection, the term "votes more than once" does not include the casting of an additional ballot if all prior ballots of that voter were invalidated, nor does it include the voting in two jurisdictions under section 1973aa–1 of this title, to the extent two ballots are not cast for an election to the same candidacy or office.
 
 (Pub. L. 89–110, title I, §11, Aug. 6, 1965, 79 Stat. 443; renumbered title I, Pub. L. 91–285, §2, June 22, 1970, 84 Stat. 314; amended Pub. L. 91–405, title II, §204(e), Sept. 22, 1970, 84 Stat. 853; Pub. L. 94–73, title IV, §§404, 409, Aug. 6, 1975, 89 Stat. 404, 405.)
 

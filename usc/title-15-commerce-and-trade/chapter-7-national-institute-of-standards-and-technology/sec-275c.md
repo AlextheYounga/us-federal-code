@@ -14,10 +14,10 @@ Section was not enacted as part of the National Institute and Technology Act whi
 
 #### Amendments ####
 
-**1988**—Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+**1988**—Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "National Bureau of Standards".
 
 #### Effective Date ####
 
-Pub. L. 99–73, §5(c), July 29, 1985, 99 Stat. 172, provided that: “The amendments made by subsection (a) [amending section 278b of this title] (and the provisions of subsection (b) [enacting this section]) shall be effective October 1, 1984.”
+Pub. L. 99–73, §5(c), July 29, 1985, 99 Stat. 172, provided that: "The amendments made by subsection (a) [amending section 278b of this title] (and the provisions of subsection (b) [enacting this section]) shall be effective October 1, 1984."
 
 [<sup>1</sup> See References in Text note below.](#275c_1)

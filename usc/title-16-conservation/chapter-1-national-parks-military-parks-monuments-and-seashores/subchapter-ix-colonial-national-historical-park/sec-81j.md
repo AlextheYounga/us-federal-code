@@ -16,6 +16,6 @@ Act Mar. 29, 1956, ch. 111, 70 Stat. 64, provided for the modernization of the s
 
 #### Temporary Transfer of Jurisdiction of Portion ####
 
-Act Dec. 24, 1942, ch. 820, 56 Stat. 1085, provided: “That the Secretary of the Interior be, and he is hereby, authorized and directed to transfer to the control and jurisdiction of the Department of the Navy a portion of the Colonial National Historical Park, Yorktown, Virginia, south of Ballards Creek and adjacent to the east boundary of the naval mine depot, containing approximately sixteen acres.
+Act Dec. 24, 1942, ch. 820, 56 Stat. 1085, provided: "That the Secretary of the Interior be, and he is hereby, authorized and directed to transfer to the control and jurisdiction of the Department of the Navy a portion of the Colonial National Historical Park, Yorktown, Virginia, south of Ballards Creek and adjacent to the east boundary of the naval mine depot, containing approximately sixteen acres.
 
-“Sec. 2. The President of the United States is authorized by Executive order to retransfer jurisdiction over the property to the Secretary of the Interior upon his application when, in the judgment of the President, the property has become surplus to the needs of the Department of the Navy, in which event it again shall become a part of the Colonial National Historical Park.”
+"Sec. 2. The President of the United States is authorized by Executive order to retransfer jurisdiction over the property to the Secretary of the Interior upon his application when, in the judgment of the President, the property has become surplus to the needs of the Department of the Navy, in which event it again shall become a part of the Colonial National Historical Park."

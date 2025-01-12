@@ -40,33 +40,33 @@ For effective date of section, see section 418 of Pub. L. 93–463, set out as a
 
 Pub. L. 99–641, title I, §111, Nov. 10, 1986, 100 Stat. 3561, provided that:
 
-“(a) Study.—The Comptroller General of the United States shall conduct and complete a comprehensive study of the effect of trading in contracts for the future delivery of live cattle on the cash market price of live cattle, with particular emphasis on—
+"(a) Study.—The Comptroller General of the United States shall conduct and complete a comprehensive study of the effect of trading in contracts for the future delivery of live cattle on the cash market price of live cattle, with particular emphasis on—
 
-“(1) whether the reaction of the live cattle futures market to the results of the milk production termination program in March 1986, conducted under section 201(d)(3) of the Agricultural Act of 1949 (7 U.S.C. 1446(d)(3)), was based on and accurately reflected the then prevailing conditions of supply and demand;
+"(1) whether the reaction of the live cattle futures market to the results of the milk production termination program in March 1986, conducted under section 201(d)(3) of the Agricultural Act of 1949 (7 U.S.C. 1446(d)(3)), was based on and accurately reflected the then prevailing conditions of supply and demand;
 
-“(2) the effect of the trading in contracts for the future delivery of live cattle on—
+"(2) the effect of the trading in contracts for the future delivery of live cattle on—
 
-“(i) the price relationship between feeder cattle and fed cattle;
+"(i) the price relationship between feeder cattle and fed cattle;
 
-“(ii) the price discovery process with respect to live cattle; and
+"(ii) the price discovery process with respect to live cattle; and
 
-“(iii) price competition within the cattle industry;
+"(iii) price competition within the cattle industry;
 
-“(3) the effect of the use of packer contracts, as a means of obtaining slaughter cattle, on the increase in short hedging in contracts for the future delivery of live cattle and the effect of this increase in short hedging on prices in the futures and cash markets;
+"(3) the effect of the use of packer contracts, as a means of obtaining slaughter cattle, on the increase in short hedging in contracts for the future delivery of live cattle and the effect of this increase in short hedging on prices in the futures and cash markets;
 
-“(4) the effect on the ability of the cash markets to accurately reflect prevailing conditions of supply and demand if packer contracts become the prevalent method of marketing fed cattle;
+"(4) the effect on the ability of the cash markets to accurately reflect prevailing conditions of supply and demand if packer contracts become the prevalent method of marketing fed cattle;
 
-“(5) whether the present delivery system for contracts for the future delivery of live cattle creates any bias (either upward or downward) in the cash price for cattle;
+"(5) whether the present delivery system for contracts for the future delivery of live cattle creates any bias (either upward or downward) in the cash price for cattle;
 
-“(6) whether the present delivery system for contracts for the future delivery of live cattle creates price volatility during the delivery month; and
+"(6) whether the present delivery system for contracts for the future delivery of live cattle creates price volatility during the delivery month; and
 
-“(7) whether there are advantages or disadvantages to a cash settlement system in lieu of the present delivery system in the case of contracts for the future delivery of live cattle.
+"(7) whether there are advantages or disadvantages to a cash settlement system in lieu of the present delivery system in the case of contracts for the future delivery of live cattle.
 
-“(b) Reports.—
+"(b) Reports.—
 
-“(1) Preliminary report.—Not later than January 15, 1987, the Comptroller General shall submit a preliminary report on the results of the study required under subsection (a) to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+"(1) Preliminary report.—Not later than January 15, 1987, the Comptroller General shall submit a preliminary report on the results of the study required under subsection (a) to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
-“(2) Final report.—Not later than 1 year after the date of enactment of this Act [Nov. 10, 1986], the Comptroller General shall submit to such committees a detailed final report of the results of the study required under subsection (a).”
+"(2) Final report.—Not later than 1 year after the date of enactment of this Act [Nov. 10, 1986], the Comptroller General shall submit to such committees a detailed final report of the results of the study required under subsection (a)."
 
 #### Potato Futures Study; Submission of Report to Congress ####
 

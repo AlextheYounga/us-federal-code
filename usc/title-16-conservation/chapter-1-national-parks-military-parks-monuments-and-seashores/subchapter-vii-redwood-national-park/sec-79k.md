@@ -10,7 +10,7 @@
 
 This Act, referred to in text, means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, as amended, which, insofar as classified to the Code, enacted sections 79c–1, 79k to 79q of this title, amended sections 1a–1, 79b, and 79c of this title, and enacted provisions set out as a note under section 79k of this title. For complete classification of this Act to the Code, see Tables.
 
-Sections 79b and 79c of this title, referred to in subsec. (a), was in the original “the first section of this Act”, meaning section 101 of Pub. L. 95–250. Provisions of section 101 relating to the addition of property to Redwood National Park are classified to sections 79b and 79c of this title.
+Sections 79b and 79c of this title, referred to in subsec. (a), was in the original "the first section of this Act", meaning section 101 of Pub. L. 95–250. Provisions of section 101 relating to the addition of property to Redwood National Park are classified to sections 79b and 79c of this title.
 
 #### Codification ####
 
@@ -22,4 +22,4 @@ Pub. L. 95–250, title I, §102(c), Mar. 27, 1978, 92 Stat. 167, directed Secre
 
 #### Reference to Secretary as Reference to Secretary of Department of the Interior; Exception ####
 
-Pub. L. 95–250, title I, §109, Mar. 27, 1978, 92 Stat. 172, provided that: “Unless otherwise indicated hereinbefore, a reference to the Secretary will refer to the Secretary of the Department of the Interior, except in subsections 103(d) through 103(i) [section 79l(d) to (i) of this title], where a reference to the Secretary will refer to the Secretary of the Department of Labor.”
+Pub. L. 95–250, title I, §109, Mar. 27, 1978, 92 Stat. 172, provided that: "Unless otherwise indicated hereinbefore, a reference to the Secretary will refer to the Secretary of the Department of the Interior, except in subsections 103(d) through 103(i) [section 79l(d) to (i) of this title], where a reference to the Secretary will refer to the Secretary of the Department of Labor."

@@ -14,6 +14,6 @@ Section was not enacted as part of the National Institute of Standards and Techn
 
 #### Amendments ####
 
-**2002**—Pub. L. 107–231 inserted “, or from an investigation under the National Construction Safety Team Act,” after “from such investigation”.
+**2002**—Pub. L. 107–231 inserted ", or from an investigation under the National Construction Safety Team Act," after "from such investigation".
 
-**1988**—Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+**1988**—Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "National Bureau of Standards".

@@ -16,13 +16,13 @@ Nothing in this chapter shall be construed (1) to affect the validity of any loa
 
 #### References in Text ####
 
-This chapter, referred to in text, was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in text, was in the original "this title". See References in Text note set out under section 78a of this title.
 
 #### Amendments ####
 
-**2010**—Subsec. (a). Pub. L. 111–203, §§927, 929T, amended subsec. (a) identically, substituting “a self-regulatory organization,” for “an exchange required thereby”.
+**2010**—Subsec. (a). Pub. L. 111–203, §§927, 929T, amended subsec. (a) identically, substituting "a self-regulatory organization," for "an exchange required thereby".
 
-**1990**—Subsec. (b). Pub. L. 101–429 substituted in cl. (A) “paragraph (3)” for “paragraph (2) or (3)” and in cl. (B) “paragraph (1) or (2)” for “paragraph (1)”, and inserted at end “The Commission may, in a rule or regulation prescribed pursuant to such paragraph (2) of such section 78o(c) of this title, designate such rule or regulation, or portion thereof, as a rule or regulation, or portion thereof, a contract in violation of which shall not be void by reason of this subsection.”
+**1990**—Subsec. (b). Pub. L. 101–429 substituted in cl. (A) "paragraph (3)" for "paragraph (2) or (3)" and in cl. (B) "paragraph (1) or (2)" for "paragraph (1)", and inserted at end "The Commission may, in a rule or regulation prescribed pursuant to such paragraph (2) of such section 78o(c) of this title, designate such rule or regulation, or portion thereof, as a rule or regulation, or portion thereof, a contract in violation of which shall not be void by reason of this subsection."
 
 **1938**—Subsec. (b). Act June 25, 1938, inserted proviso.
 

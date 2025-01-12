@@ -8,7 +8,7 @@
 
 #### Codification ####
 
-“Section 3171 of title 40” substituted in subsec. (a) for “section 34 of the Act of May 30, 1908 (35 Stat. 545; 40 U.S.C. 261)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Section 3171 of title 40" substituted in subsec. (a) for "section 34 of the Act of May 30, 1908 (35 Stat. 545; 40 U.S.C. 261)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments ####
 

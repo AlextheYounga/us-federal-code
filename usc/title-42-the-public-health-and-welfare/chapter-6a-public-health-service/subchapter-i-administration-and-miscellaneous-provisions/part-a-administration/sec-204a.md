@@ -36,7 +36,7 @@ The Secretary shall promulgate regulations under which a waiver described in sub
 
 #### (5) Urgent or emergency public health care need ####
 
-For purposes of this section and section 215 of this title, the term “urgent or emergency public health care need” means a health care need, as determined by the Secretary, arising as the result of—
+For purposes of this section and section 215 of this title, the term "urgent or emergency public health care need" means a health care need, as determined by the Secretary, arising as the result of—
 
 (A) a national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.);
 
@@ -76,10 +76,10 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Purpose ####
 
-Pub. L. 109–417, title II, §206(a), Dec. 19, 2006, 120 Stat. 2851, provided that: “It is the purpose of this section [enacting this section and amending sections 215 and 254d of this title] to improve the force management and readiness of the Commissioned Corps to accomplish the following objectives:
+Pub. L. 109–417, title II, §206(a), Dec. 19, 2006, 120 Stat. 2851, provided that: "It is the purpose of this section [enacting this section and amending sections 215 and 254d of this title] to improve the force management and readiness of the Commissioned Corps to accomplish the following objectives:
 
-“(1) To ensure the Corps is ready to respond rapidly to urgent or emergency public health care needs and challenges.
+"(1) To ensure the Corps is ready to respond rapidly to urgent or emergency public health care needs and challenges.
 
-“(2) To ensure the availability of the Corps for assignments that address clinical and public health needs in isolated, hardship, and hazardous duty positions, and, when required, to address needs related to the well-being, security, and defense of the United States.
+"(2) To ensure the availability of the Corps for assignments that address clinical and public health needs in isolated, hardship, and hazardous duty positions, and, when required, to address needs related to the well-being, security, and defense of the United States.
 
-“(3) To establish the Corps as a resource available to Federal and State Government agencies for assistance in meeting public health leadership and service roles.”
+"(3) To establish the Corps as a resource available to Federal and State Government agencies for assistance in meeting public health leadership and service roles."

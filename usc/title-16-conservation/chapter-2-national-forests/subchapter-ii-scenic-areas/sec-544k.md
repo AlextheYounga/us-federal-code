@@ -38,6 +38,6 @@ Section 13 of Pub. L. 99–663, which enacted this section, consisted of subsecs
 
 #### Amendments ####
 
-**2009**—Subsec. (a)(4). Pub. L. 111–11 struck out “for a period not to exceed twenty years from November 17, 1986,” before “if such facility”.
+**2009**—Subsec. (a)(4). Pub. L. 111–11 struck out "for a period not to exceed twenty years from November 17, 1986," before "if such facility".
 
-[<sup>1</sup> So in original. Probably should be “subsection”.](#544k_1)
+[<sup>1</sup> So in original. Probably should be "subsection".](#544k_1)

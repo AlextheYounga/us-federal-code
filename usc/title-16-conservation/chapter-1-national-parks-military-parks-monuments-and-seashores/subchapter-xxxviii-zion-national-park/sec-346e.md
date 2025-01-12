@@ -14,4 +14,4 @@ The Secretary is authorized to enter into cooperative agreements with State or l
 
 #### Amendments ####
 
-**2005**—Pub. L. 109–131 inserted “and Yosemite National Park” after “Zion National Park” in section catchline and in introductory provisions, inserted “for transportation systems or” after “appropriated funds” in introductory provisions, and substituted “systems or facilities” for “facilities” in introductory provisions.
+**2005**—Pub. L. 109–131 inserted "and Yosemite National Park" after "Zion National Park" in section catchline and in introductory provisions, inserted "for transportation systems or" after "appropriated funds" in introductory provisions, and substituted "systems or facilities" for "facilities" in introductory provisions.

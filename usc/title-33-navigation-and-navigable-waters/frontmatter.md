@@ -21,7 +21,7 @@ Chap. Sec.
 
 8. Summary Trials for Certain Offenses Against Navigation Laws 391
 
-9. Protection of Navigable Waters and of Harbor and River Improvements Generally 401
+9. Protection of Navigable Waters and of Harbor and River Improvements Generally 400
 
 10. Anchorage Grounds and Harbor Regulations Generally 471
 
@@ -39,7 +39,7 @@ Chap. Sec.
 
 17. National Oceanic and Atmospheric Administration 851
 
-18. Longshore and Harbor Workers’ Compensation 901
+18. Longshore and Harbor Workers' Compensation 901
 
 19. Saint Lawrence Seaway 981
 
@@ -106,3 +106,5 @@ Chap. Sec.
 50. Federal Ocean Acidification Research and Monitoring 3701
 
 51. Clean Hulls 3801
+
+52. Water Infrastructure Finance and Innovation 3901

@@ -42,7 +42,7 @@ A grant awarded under subsection (a) of this section shall be for a term of 3 ye
 
 #### (g) Definition ####
 
-In this section, the term “children and adolescents” means individuals who do not exceed 18 years of age.
+In this section, the term "children and adolescents" means individuals who do not exceed 18 years of age.
 
 #### (h) Authorization of appropriations ####
 

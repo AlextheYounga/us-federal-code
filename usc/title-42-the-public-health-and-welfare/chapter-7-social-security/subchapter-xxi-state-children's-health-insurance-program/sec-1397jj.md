@@ -2,7 +2,7 @@
 
 #### (a) Child health assistance ####
 
-For purposes of this subchapter, the term “child health assistance” means payment for part or all of the cost of health benefits coverage for targeted low-income children that includes any of the following (and includes, in the case described in section 1397ee(a)(1)(D)(i) of this title, payment for part or all of the cost of providing any of the following), as specified under the State plan:
+For purposes of this subchapter, the term "child health assistance" means payment for part or all of the cost of health benefits coverage for targeted low-income children that includes any of the following (and includes, in the case described in section 1397ee(a)(1)(D)(i) of this title, payment for part or all of the cost of providing any of the following), as specified under the State plan:
 
 (1) Inpatient hospital services.
 
@@ -66,13 +66,13 @@ For purposes of this subchapter, the term “child health assistance” means pa
 
 (28) Any other health care services or items specified by the Secretary and not excluded under this section.
 
-#### (b) “Targeted low-income child” defined ####
+#### (b) "Targeted low-income child" defined ####
 
 For purposes of this subchapter—
 
 #### (1) In general ####
 
-Subject to paragraph (2), the term “targeted low-income child” means a child—
+Subject to paragraph (2), the term "targeted low-income child" means a child—
 
 (A) who has been determined eligible by the State for child health assistance under the State plan;
 
@@ -82,7 +82,7 @@ Subject to paragraph (2), the term “targeted low-income child” means a child
 
 (I) whose family income (as determined under the State child health plan) exceeds the medicaid applicable income level (as defined in paragraph (4)), but does not exceed 50 percentage points above the medicaid applicable income level;
 
-(II) whose family income (as so determined) does not exceed the medicaid applicable income level (as defined in paragraph (4) but determined as if “June 1, 1997” were substituted for “March 31, 1997”); or
+(II) whose family income (as so determined) does not exceed the medicaid applicable income level (as defined in paragraph (4) but determined as if "June 1, 1997" were substituted for "March 31, 1997"); or
 
 (III) who resides in a State that does not have a medicaid applicable income level (as defined in paragraph (4)); and
 
@@ -102,7 +102,7 @@ A child shall not be considered to be described in paragraph (1)(C) notwithstand
 
 #### (4) Medicaid applicable income level ####
 
-The term “medicaid applicable income level” means, with respect to a child, the effective income level (expressed as a percent of the poverty line) that has been specified under the State plan under subchapter XIX of this chapter (including under a waiver authorized by the Secretary or under section 1396a(r)(2) of this title), as of March 31, 1997, for the child to be eligible for medical assistance under section 1396a(l)(2) or 1396d(n)(2) of this title (as selected by a State) for the age of such child.
+The term "medicaid applicable income level" means, with respect to a child, the effective income level (expressed as a percent of the poverty line) that has been specified under the State plan under subchapter XIX of this chapter (including under a waiver authorized by the Secretary or under section 1396a(r)(2) of this title), as of March 31, 1997, for the child to be eligible for medical assistance under section 1396a(l)(2) or 1396d(n)(2) of this title (as selected by a State) for the age of such child.
 
 #### (5) Option for States with a separate CHIP program to provide dental-only supplemental coverage ####
 
@@ -160,41 +160,41 @@ For purposes of this subchapter:
 
 #### (1) Child ####
 
-The term “child” means an individual under 19 years of age.
+The term "child" means an individual under 19 years of age.
 
 #### (2) Creditable health coverage ####
 
-The term “creditable health coverage” has the meaning given the term “creditable coverage” under section 2701(c) <sup><a href="#1397jj_2_target" name="1397jj_2">2</a></sup> of the Public Health Service Act (42 U.S.C. 300gg(c)) and includes coverage that meets the requirements of section 1397cc of this title provided to a targeted low-income child under this subchapter or under a waiver approved under section 1397ee(c)(2)(B) of this title (relating to a direct service waiver).
+The term "creditable health coverage" has the meaning given the term "creditable coverage" under section 2701(c) <sup><a href="#1397jj_2_target" name="1397jj_2">2</a></sup> of the Public Health Service Act (42 U.S.C. 300gg(c)) and includes coverage that meets the requirements of section 1397cc of this title provided to a targeted low-income child under this subchapter or under a waiver approved under section 1397ee(c)(2)(B) of this title (relating to a direct service waiver).
 
 #### (3) Group health plan; health insurance coverage; etc. ####
 
-The terms “group health plan”, “group health insurance coverage”, and “health insurance coverage” have the meanings given such terms in section 300gg–91 of this title.
+The terms "group health plan", "group health insurance coverage", and "health insurance coverage" have the meanings given such terms in section 300gg–91 of this title.
 
 #### (4) Low-income child ####
 
-The term “low-income child” means a child whose family income is at or below 200 percent of the poverty line for a family of the size involved.
+The term "low-income child" means a child whose family income is at or below 200 percent of the poverty line for a family of the size involved.
 
 #### (5) Poverty line defined ####
 
-The term “poverty line” has the meaning given such term in section 9902(2) of this title, including any revision required by such section.
+The term "poverty line" has the meaning given such term in section 9902(2) of this title, including any revision required by such section.
 
 #### (6) Preexisting condition exclusion ####
 
-The term “preexisting condition exclusion” has the meaning given such term in section 2701(b)(1)(A) <sup><a href="#1397jj_2_target" name="1397jj_2">2</a></sup> of the Public Health Service Act (42 U.S.C. 300gg(b)(1)(A)).
+The term "preexisting condition exclusion" has the meaning given such term in section 2701(b)(1)(A) <sup><a href="#1397jj_2_target" name="1397jj_2">2</a></sup> of the Public Health Service Act (42 U.S.C. 300gg(b)(1)(A)).
 
 #### (7) State child health plan; plan ####
 
-Unless the context otherwise requires, the terms “State child health plan” and “plan” mean a State child health plan approved under section 1397ff of this title.
+Unless the context otherwise requires, the terms "State child health plan" and "plan" mean a State child health plan approved under section 1397ff of this title.
 
 #### (8) Uncovered child ####
 
-The term “uncovered child” means a child that does not have creditable health coverage.
+The term "uncovered child" means a child that does not have creditable health coverage.
 
 #### (9) School-based health center ####
 
 #### (A) In general ####
 
-The term “school-based health center” means a health clinic that—
+The term "school-based health center" means a health clinic that—
 
 (i) is located in or near a school facility of a school district or board or of an Indian tribe or tribal organization;
 
@@ -208,7 +208,7 @@ The term “school-based health center” means a health clinic that—
 
 #### (B) Sponsoring facility ####
 
-For purposes of subparagraph (A)(iii), the term “sponsoring facility” includes any of the following:
+For purposes of subparagraph (A)(iii), the term "sponsoring facility" includes any of the following:
 
 (i) A hospital.
 
@@ -230,29 +230,29 @@ Section 2701 of the Public Health Service Act, referred to in subsec. (c)(2), (6
 
 #### Amendments ####
 
-**2010**—Subsec. (a)(23). Pub. L. 111–148, §2302(b), which directed insertion of “(concurrent, in the case of an individual who is a child, with care related to the treatment of the child's condition with respect to which a diagnosis of terminal illness has been made” after “hospice care”, was executed by making the insertion after “Hospice care”, to reflect the probable intent of Congress.
+**2010**—Subsec. (a)(23). Pub. L. 111–148, §2302(b), which directed insertion of "(concurrent, in the case of an individual who is a child, with care related to the treatment of the child's condition with respect to which a diagnosis of terminal illness has been made" after "hospice care", was executed by making the insertion after "Hospice care", to reflect the probable intent of Congress.
 
-Subsec. (b)(2)(B). Pub. L. 111–148, §10203(d)(2)(D)(i), inserted “except as provided in paragraph (6),” before “a child”.
+Subsec. (b)(2)(B). Pub. L. 111–148, §10203(d)(2)(D)(i), inserted "except as provided in paragraph (6)," before "a child".
 
 Subsec. (b)(6). Pub. L. 111–148, §10203(d)(2)(D)(ii), added par. (6).
 
-Subsec. (b)(6)(B). Pub. L. 111–309, §205(d)(1), struck out “per person” before “agency contribution” in heading and substituted “employees” for “each employee”.
+Subsec. (b)(6)(B). Pub. L. 111–309, §205(d)(1), struck out "per person" before "agency contribution" in heading and substituted "employees" for "each employee".
 
-Subsec. (b)(6)(C). Pub. L. 111–309, §205(d)(2), struck out “, on a case-by-case basis,” after “determines”.
+Subsec. (b)(6)(C). Pub. L. 111–309, §205(d)(2), struck out ", on a case-by-case basis," after "determines".
 
-Subsec. (c)(9)(B)(v). Pub. L. 111–148, §2102(a)(7), substituted “local educational agency (as defined under section 7801 of title 20” for “school or school system”.
+Subsec. (c)(9)(B)(v). Pub. L. 111–148, §2102(a)(7), substituted "local educational agency (as defined under section 7801 of title 20" for "school or school system".
 
-**2009**—Subsec. (b)(1)(C). Pub. L. 111–3, §501(b)(1)(A), inserted “, subject to paragraph (5),” after “subchapter XIX of this chapter or”.
+**2009**—Subsec. (b)(1)(C). Pub. L. 111–3, §501(b)(1)(A), inserted ", subject to paragraph (5)," after "subchapter XIX of this chapter or".
 
 Subsec. (b)(5). Pub. L. 111–3, §501(b)(1)(B), added par. (5).
 
 Subsec. (c)(9). Pub. L. 111–3, §505(b), added par. (9).
 
-**2000**—Subsec. (a). Pub. L. 106–554 substituted “section 1397ee(a)(1)(D)(i)” for “section 1397ee(a)(2)(A)” in introductory provisions.
+**2000**—Subsec. (a). Pub. L. 106–554 substituted "section 1397ee(a)(1)(D)(i)" for "section 1397ee(a)(2)(A)" in introductory provisions.
 
-**1997**—Subsec. (b)(1)(B)(ii). Pub. L. 105–100, §162(3)(A), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “is a child whose family income (as determined under the State child health plan) exceeds the medicaid applicable income level (as defined in paragraph (4)), but does not exceed 50 percentage points above the medicaid applicable income level; and”.
+**1997**—Subsec. (b)(1)(B)(ii). Pub. L. 105–100, §162(3)(A), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "is a child whose family income (as determined under the State child health plan) exceeds the medicaid applicable income level (as defined in paragraph (4)), but does not exceed 50 percentage points above the medicaid applicable income level; and".
 
-Subsec. (b)(4). Pub. L. 105–100, §162(3)(B), substituted “March 31, 1997” for “June 1, 1997” and “1396a(l)(2) or 1396d(n)(2) of this title (as selected by a State)” for “1396a(l)(2) of this title”.
+Subsec. (b)(4). Pub. L. 105–100, §162(3)(B), substituted "March 31, 1997" for "June 1, 1997" and "1396a(l)(2) or 1396d(n)(2) of this title (as selected by a State)" for "1396a(l)(2) of this title".
 
 Subsec. (c)(3). Pub. L. 105–100, §162(9), made technical amendment to reference in original act which appears in text as reference to section 300gg–91 of this title.
 
@@ -274,7 +274,7 @@ Pub. L. 105–100, title I, §162, Nov. 19, 1997, 111 Stat. 2188, provided in pa
 
 #### CHIP Eligibility for Children Ineligible for Medicaid as a Result of Elimination of Disregards ####
 
-Pub. L. 111–148, title II, §2101(f), Mar. 23, 2010, 124 Stat. 287, provided that: “Notwithstanding any other provision of law, a State shall treat any child who is determined to be ineligible for medical assistance under the State Medicaid plan or under a waiver of the plan as a result of the elimination of the application of an income disregard based on expense or type of income, as required under section 1902(e)(14) of the Social Security Act [42 U.S.C. 1396a(e)(14)] (as added by this Act), as a targeted low-income child under section 2110(b) [42 U.S.C. 1397jj(b)] (unless the child is excluded under paragraph (2) of that section) and shall provide child health assistance to the child under the State child health plan (whether implemented under title XIX or XXI, or both, of the Social Security Act [42 U.S.C. 1396 et seq., 1397aa et seq.]).”
+Pub. L. 111–148, title II, §2101(f), Mar. 23, 2010, 124 Stat. 287, provided that: "Notwithstanding any other provision of law, a State shall treat any child who is determined to be ineligible for medical assistance under the State Medicaid plan or under a waiver of the plan as a result of the elimination of the application of an income disregard based on expense or type of income, as required under section 1902(e)(14) of the Social Security Act [42 U.S.C. 1396a(e)(14)] (as added by this Act), as a targeted low-income child under section 2110(b) [42 U.S.C. 1397jj(b)] (unless the child is excluded under paragraph (2) of that section) and shall provide child health assistance to the child under the State child health plan (whether implemented under title XIX or XXI, or both, of the Social Security Act [42 U.S.C. 1396 et seq., 1397aa et seq.])."
 
 [<sup>1</sup> So in original. A closing parenthesis probably should precede the period.](#1397jj_1)
 

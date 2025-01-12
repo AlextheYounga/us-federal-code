@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-Not later than 180 days after March 30, 2009, the Secretary shall establish an advisory council, to be known as the “Dominguez-Escalante National Conservation Area Advisory Council”.
+Not later than 180 days after March 30, 2009, the Secretary shall establish an advisory council, to be known as the "Dominguez-Escalante National Conservation Area Advisory Council".
 
 #### (b) Duties ####
 

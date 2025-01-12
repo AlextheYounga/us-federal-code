@@ -152,11 +152,11 @@ In this subsection:
 
 #### (A) Affiliate ####
 
-The term “affiliate” means any facility that controls, is controlled by, or is under common control with another facility.
+The term "affiliate" means any facility that controls, is controlled by, or is under common control with another facility.
 
 #### (B) Qualified end-user ####
 
-The term “qualified end-user”, with respect to a food, means—
+The term "qualified end-user", with respect to a food, means—
 
 (i) the consumer of the food; or
 
@@ -172,11 +172,11 @@ The term “qualified end-user”, with respect to a food, means—
 
 #### (C) Consumer ####
 
-For purposes of subparagraph (B), the term “consumer” does not include a business.
+For purposes of subparagraph (B), the term "consumer" does not include a business.
 
 #### (D) Subsidiary ####
 
-The term “subsidiary” means any company which is owned or controlled directly or indirectly by another company.
+The term "subsidiary" means any company which is owned or controlled directly or indirectly by another company.
 
 #### (5) Study ####
 
@@ -196,7 +196,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall conduct 
 
 #### (B) Size ####
 
-The results of the study conducted under subparagraph (A) shall include the information necessary to enable the Secretary to define the terms “small business” and “very small business”, for purposes of promulgating the regulation under subsection (n). In defining such terms, the Secretary shall include consideration of harvestable acres, income, the number of employees, and the volume of food harvested.
+The results of the study conducted under subparagraph (A) shall include the information necessary to enable the Secretary to define the terms "small business" and "very small business", for purposes of promulgating the regulation under subsection (n). In defining such terms, the Secretary shall include consideration of harvestable acres, income, the number of employees, and the volume of food harvested.
 
 #### (C) Submission of report ####
 
@@ -232,7 +232,7 @@ Not later than 18 months after January 4, 2011, the Secretary shall promulgate r
 
 (A) to establish science-based minimum standards for conducting a hazard analysis, documenting hazards, implementing preventive controls, and documenting the implementation of the preventive controls under this section; and
 
-(B) to define, for purposes of this section, the terms “small business” and “very small business”, taking into consideration the study described in subsection (l)(5).
+(B) to define, for purposes of this section, the terms "small business" and "very small business", taking into consideration the study described in subsection (l)(5).
 
 #### (2) Coordination ####
 
@@ -244,7 +244,7 @@ The regulations promulgated under paragraph (1)(A) shall—
 
 (A) provide sufficient flexibility to be practicable for all sizes and types of facilities, including small businesses such as a small food processing facility co-located on a farm;
 
-(B) comply with chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”), with special attention to minimizing the burden (as defined in section 3502(2) of such title) on the facility, and collection of information (as defined in section 3502(3) of such title), associated with such regulations;
+(B) comply with chapter 35 of title 44 (commonly known as the "Paperwork Reduction Act"), with special attention to minimizing the burden (as defined in section 3502(2) of such title) on the facility, and collection of information (as defined in section 3502(3) of such title), associated with such regulations;
 
 (C) acknowledge differences in risk and minimize, as appropriate, the number of separate standards that apply to separate foods; and
 
@@ -256,7 +256,7 @@ Nothing in this subsection shall be construed to provide the Secretary with the 
 
 #### (5) Review ####
 
-In promulgating the regulations under paragraph (1)(A), the Secretary shall review regulatory hazard analysis and preventive control programs in existence on January 4, 2011, including the Grade “A” Pasteurized Milk Ordinance to ensure that such regulations are consistent, to the extent practicable, with applicable domestic and internationally-recognized standards in existence on such date.
+In promulgating the regulations under paragraph (1)(A), the Secretary shall review regulatory hazard analysis and preventive control programs in existence on January 4, 2011, including the Grade "A" Pasteurized Milk Ordinance to ensure that such regulations are consistent, to the extent practicable, with applicable domestic and internationally-recognized standards in existence on such date.
 
 #### (o) Definitions ####
 
@@ -264,15 +264,15 @@ For purposes of this section:
 
 #### (1) Critical control point ####
 
-The term “critical control point” means a point, step, or procedure in a food process at which control can be applied and is essential to prevent or eliminate a food safety hazard or reduce such hazard to an acceptable level.
+The term "critical control point" means a point, step, or procedure in a food process at which control can be applied and is essential to prevent or eliminate a food safety hazard or reduce such hazard to an acceptable level.
 
 #### (2) Facility ####
 
-The term “facility” means a domestic facility or a foreign facility that is required to register under section 350d of this title.
+The term "facility" means a domestic facility or a foreign facility that is required to register under section 350d of this title.
 
 #### (3) Preventive controls ####
 
-The term “preventive controls” means those risk-based, reasonably appropriate procedures, practices, and processes that a person knowledgeable about the safe manufacturing, processing, packing, or holding of food would employ to significantly minimize or prevent the hazards identified under the hazard analysis conducted under subsection (b) and that are consistent with the current scientific understanding of safe food manufacturing, processing, packing, or holding at the time of the analysis. Those procedures, practices, and processes may include the following:
+The term "preventive controls" means those risk-based, reasonably appropriate procedures, practices, and processes that a person knowledgeable about the safe manufacturing, processing, packing, or holding of food would employ to significantly minimize or prevent the hazards identified under the hazard analysis conducted under subsection (b) and that are consistent with the current scientific understanding of safe food manufacturing, processing, packing, or holding at the time of the analysis. Those procedures, practices, and processes may include the following:
 
 (A) Sanitation procedures for food contact surfaces and utensils and food-contact surfaces of equipment.
 
@@ -294,13 +294,13 @@ The term “preventive controls” means those risk-based, reasonably appropriat
 
 Pub. L. 111–353, title I, §103(i), Jan. 4, 2011, 124 Stat. 3898, provided that:
 
-“(1) General rule.—The amendments made by this section [enacting this section and amending section 331 of this title] shall take effect 18 months after the date of enactment of this Act [Jan. 4, 2011].
+"(1) General rule.—The amendments made by this section [enacting this section and amending section 331 of this title] shall take effect 18 months after the date of enactment of this Act [Jan. 4, 2011].
 
-“(2) Flexibility for small businesses.—Notwithstanding paragraph (1)—
+"(2) Flexibility for small businesses.—Notwithstanding paragraph (1)—
 
-“(A) the amendments made by this section shall apply to a small business (as defined in the regulations promulgated under section 418(n) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350g(n)] (as added by this section)) beginning on the date that is 6 months after the effective date of such regulations; and
+"(A) the amendments made by this section shall apply to a small business (as defined in the regulations promulgated under section 418(n) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350g(n)] (as added by this section)) beginning on the date that is 6 months after the effective date of such regulations; and
 
-“(B) the amendments made by this section shall apply to a very small business (as defined in such regulations) beginning on the date that is 18 months after the effective date of such regulations.”
+"(B) the amendments made by this section shall apply to a very small business (as defined in such regulations) beginning on the date that is 18 months after the effective date of such regulations."
 
 #### Construction ####
 
@@ -308,18 +308,18 @@ Nothing in this section to be construed to apply to certain alcohol-related faci
 
 #### Guidance Document ####
 
-Pub. L. 111–353, title I, §103(b), Jan. 4, 2011, 124 Stat. 3896, provided that: “The Secretary shall issue a guidance document related to the regulations promulgated under subsection (b)(1) [probably means 21 U.S.C. 350g(n)(1)] with respect to the hazard analysis and preventive controls under section 418 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350g] (as added by subsection (a)).”
+Pub. L. 111–353, title I, §103(b), Jan. 4, 2011, 124 Stat. 3896, provided that: "The Secretary shall issue a guidance document related to the regulations promulgated under subsection (b)(1) [probably means 21 U.S.C. 350g(n)(1)] with respect to the hazard analysis and preventive controls under section 418 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350g] (as added by subsection (a))."
 
 #### Small Entity Compliance Policy Guide ####
 
-Pub. L. 111–353, title I, §103(d), Jan. 4, 2011, 124 Stat. 3898, provided that: “Not later than 180 days after the issuance of the regulations promulgated under subsection (n) of section 418 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350g(n)] (as added by subsection (a)), the Secretary shall issue a small entity compliance policy guide setting forth in plain language the requirements of such section 418 and this section [enacting this section, amending section 331 of this title, and enacting provisions set out as notes under this section and sections 342 and 350d of this title] to assist small entities in complying with the hazard analysis and other activities required under such section 418 and this section.”
+Pub. L. 111–353, title I, §103(d), Jan. 4, 2011, 124 Stat. 3898, provided that: "Not later than 180 days after the issuance of the regulations promulgated under subsection (n) of section 418 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350g(n)] (as added by subsection (a)), the Secretary shall issue a small entity compliance policy guide setting forth in plain language the requirements of such section 418 and this section [enacting this section, amending section 331 of this title, and enacting provisions set out as notes under this section and sections 342 and 350d of this title] to assist small entities in complying with the hazard analysis and other activities required under such section 418 and this section."
 
 #### No Effect on HACCP Authorities ####
 
-Pub. L. 111–353, title I, §103(f), Jan. 4, 2011, 124 Stat. 3898, provided that: “Nothing in the amendments made by this section [enacting this section and amending section 331 of this title] limits the authority of the Secretary under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) or the Public Health Service Act (42 U.S.C. 201 et seq.) to revise, issue, or enforce Hazard Analysis Critical Control [Points] programs and the Thermally Processed Low-Acid Foods Packaged in Hermetically Sealed Containers standards.”
+Pub. L. 111–353, title I, §103(f), Jan. 4, 2011, 124 Stat. 3898, provided that: "Nothing in the amendments made by this section [enacting this section and amending section 331 of this title] limits the authority of the Secretary under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) or the Public Health Service Act (42 U.S.C. 201 et seq.) to revise, issue, or enforce Hazard Analysis Critical Control [Points] programs and the Thermally Processed Low-Acid Foods Packaged in Hermetically Sealed Containers standards."
 
 #### Dietary Supplements ####
 
-Pub. L. 111–353, title I, §103(g), Jan. 4, 2011, 124 Stat. 3898, provided that: “Nothing in the amendments made by this section [enacting this section and amending section 331 of this title] shall apply to any facility with regard to the manufacturing, processing, packing, or holding of a dietary supplement that is in compliance with the requirements of sections 402(g)(2) and 761 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 342(g)(2), 379aa–1).”
+Pub. L. 111–353, title I, §103(g), Jan. 4, 2011, 124 Stat. 3898, provided that: "Nothing in the amendments made by this section [enacting this section and amending section 331 of this title] shall apply to any facility with regard to the manufacturing, processing, packing, or holding of a dietary supplement that is in compliance with the requirements of sections 402(g)(2) and 761 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 342(g)(2), 379aa–1)."
 
-[<sup>1</sup> So in original. Probably should be “title”.](#350g_1)
+[<sup>1</sup> So in original. Probably should be "title".](#350g_1)

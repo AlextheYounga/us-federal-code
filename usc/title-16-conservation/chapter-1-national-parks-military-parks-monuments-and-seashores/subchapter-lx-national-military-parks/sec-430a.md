@@ -6,7 +6,7 @@ The Secretary of the Interior shall ascertain on what land the Battle of Kings M
 
 #### Codification ####
 
-“Sections 3111 and 3112 of title 40” substituted in text for “section 355 of the Revised Statutes” and “section 3113 of title 40” substituted in text for “the Act entitled ‘An Act to authorize condemnation of lands for sites for public buildings, and for other purposes,’ approved August 1, 1888” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Sections 3111 and 3112 of title 40" substituted in text for "section 355 of the Revised Statutes" and "section 3113 of title 40" substituted in text for "the Act entitled 'An Act to authorize condemnation of lands for sites for public buildings, and for other purposes,' approved August 1, 1888" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Transfer of Functions ####
 

@@ -18,4 +18,4 @@ Sec.
 
 #### Amendments ####
 
-**1976**—Pub. L. 94–575, §3(b), Oct. 21, 1976, 90 Stat. 2727, substituted “Transfer of records to records centers” for “Storage, processing, and servicing of records” in item 3103.
+**1976**—Pub. L. 94–575, §3(b), Oct. 21, 1976, 90 Stat. 2727, substituted "Transfer of records to records centers" for "Storage, processing, and servicing of records" in item 3103.

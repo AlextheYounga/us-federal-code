@@ -10,10 +10,10 @@ A prior section 2667a, added Pub. L. 98–115, title VIII, §807(a)(1), Oct. 11,
 
 Pub. L. 110–417, div. B, title XXVIII, §2812(e)(2), (3), Oct. 14, 2008, 122 Stat. 4727, provided that:
 
-“(2) Effect on existing contracts.—The repeal of section 2667a of title 10, United States Code, shall not affect the validity or terms of any lease with respect to property of a Defense Agency entered into by the Secretary of Defense under such section before the date of the enactment of this Act [Oct. 14, 2008].
+"(2) Effect on existing contracts.—The repeal of section 2667a of title 10, United States Code, shall not affect the validity or terms of any lease with respect to property of a Defense Agency entered into by the Secretary of Defense under such section before the date of the enactment of this Act [Oct. 14, 2008].
 
-“(3) Treatment of money rents.—Amounts in any special account established for a Defense Agency pursuant to subsection (d) of section 2667a of title 10, United States Code, before repeal of such section by paragraph (1), and amounts that would be deposited in such an account in connection with a lease referred to in paragraph (2), shall—
+"(3) Treatment of money rents.—Amounts in any special account established for a Defense Agency pursuant to subsection (d) of section 2667a of title 10, United States Code, before repeal of such section by paragraph (1), and amounts that would be deposited in such an account in connection with a lease referred to in paragraph (2), shall—
 
-“(A) remain available until expended for the purposes specified in such subsection, notwithstanding the repeal of such section by paragraph (1); or
+"(A) remain available until expended for the purposes specified in such subsection, notwithstanding the repeal of such section by paragraph (1); or
 
-“(B) to the extent provided in appropriations Acts, be transferred to the special account required for the Secretary of Defense by subsection (e) of section 2667 of such title, as amended by subsection (d)(2) of this section.”
+"(B) to the extent provided in appropriations Acts, be transferred to the special account required for the Secretary of Defense by subsection (e) of section 2667 of such title, as amended by subsection (d)(2) of this section."

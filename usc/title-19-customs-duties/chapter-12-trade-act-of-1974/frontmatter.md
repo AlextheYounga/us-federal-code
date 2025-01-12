@@ -206,7 +206,7 @@ Sec.
 
 2350. Civil actions.
 
-2351. “Firm” defined.
+2351. "Firm" defined.
 
 2352. Regulations.
 

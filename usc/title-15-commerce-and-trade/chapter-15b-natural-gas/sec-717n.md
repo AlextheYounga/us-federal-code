@@ -2,7 +2,7 @@
 
 #### (a) Definition ####
 
-In this section, the term “Federal authorization”—
+In this section, the term "Federal authorization"—
 
 (1) means any authorization required under Federal law with respect to an application for authorization under section 717b of this title or a certificate of public convenience and necessity under section 717f of this title; and
 
@@ -58,4 +58,4 @@ The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), is title
 
 #### Amendments ####
 
-**2005**—Pub. L. 109–58 substituted “Process coordination; hearings; rules of procedure” for “Hearings; rules of procedure” in section catchline, added subsecs. (a) to (d), and redesignated former subsecs. (a) and (b) as (e) and (f), respectively.
+**2005**—Pub. L. 109–58 substituted "Process coordination; hearings; rules of procedure" for "Hearings; rules of procedure" in section catchline, added subsecs. (a) to (d), and redesignated former subsecs. (a) and (b) as (e) and (f), respectively.

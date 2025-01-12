@@ -8,6 +8,6 @@ Settlers who have unpatented entries under any of the public land laws embracing
 
 Section 438 of this title, referred to in text, was repealed by act Aug. 13, 1953, ch. 428, §10, 67 Stat. 568. For provisions giving preference to ex-servicemen, see section 451g of this title.
 
-[<sup>1</sup> So in original. Probably should be “one of whom”.](#423c_1)
+[<sup>1</sup> So in original. Probably should be "one of whom".](#423c_1)
 
 [<sup>2</sup> See References in Text note below.](#423c_2)

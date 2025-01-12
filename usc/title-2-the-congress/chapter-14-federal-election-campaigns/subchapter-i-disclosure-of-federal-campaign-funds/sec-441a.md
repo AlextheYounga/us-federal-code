@@ -26,7 +26,7 @@
 
 (B) $57,500, in the case of any other contributions, of which not more than $37,500 may be attributable to contributions to political committees which are not political committees of national political parties.
 
-(4) The limitations on contributions contained in paragraphs (1) and (2) do not apply to transfers between and among political committees which are national, State, district, or local committees (including any subordinate committee thereof) of the same political party. For purposes of paragraph (2), the term “multicandidate political committee” means a political committee which has been registered under section 433 of this title for a period of not less than 6 months, which has received contributions from more than 50 persons, and, except for any State political party organization, has made contributions to 5 or more candidates for Federal office.
+(4) The limitations on contributions contained in paragraphs (1) and (2) do not apply to transfers between and among political committees which are national, State, district, or local committees (including any subordinate committee thereof) of the same political party. For purposes of paragraph (2), the term "multicandidate political committee" means a political committee which has been registered under section 433 of this title for a period of not less than 6 months, which has received contributions from more than 50 persons, and, except for any State political party organization, has made contributions to 5 or more candidates for Federal office.
 
 (5) For purposes of the limitations provided by paragraph (1) and paragraph (2), all contributions made by political committees established or financed or maintained or controlled by any corporation, labor organization, or any other person, including any parent, subsidiary, branch, division, department, or local unit of such corporation, labor organization, or any other person, or by any group of such persons, shall be considered to have been made by a single political committee, except that (A) nothing in this sentence shall limit transfers between political committees of funds raised through joint fund raising efforts; (B) for purposes of the limitations provided by paragraph (1) and paragraph (2) all contributions made by a single political committee established or financed or maintained or controlled by a national committee of a political party and by a single political committee established or financed or maintained or controlled by the State committee of a political party shall not be considered to have been made by a single political committee; and (C) nothing in this section shall limit the transfer of funds between the principal campaign committee of a candidate seeking nomination or election to a Federal office and the principal campaign committee of that candidate for nomination or election to another Federal office if (i) such transfer is not made when the candidate is actively seeking nomination or election to both such offices; (ii) the limitations contained in this Act on contributions by persons are not exceeded by such transfer; and (iii) the candidate has not elected to receive any funds under chapter 95 or chapter 96 of title 26. In any case in which a corporation and any of its subsidiaries, branches, divisions, departments, or local units, or a labor organization and any of its subsidiaries, branches, divisions, departments, or local units establish or finance or maintain or control more than one separate segregated fund, all such separate segregated funds shall be treated as a single separate segregated fund for purposes of the limitations provided by paragraph (1) and paragraph (2).
 
@@ -88,9 +88,9 @@ such disbursement or contracting shall be treated as a contribution to the candi
 
 (2) For purposes of paragraph (1)—
 
-(A) the term “price index” means the average over a calendar year of the Consumer Price Index (all items—United States city average) published monthly by the Bureau of Labor Statistics; and
+(A) the term "price index" means the average over a calendar year of the Consumer Price Index (all items—United States city average) published monthly by the Bureau of Labor Statistics; and
 
-(B) the term “base period” means—
+(B) the term "base period" means—
 
 (i) for purposes of subsections (b) and (d) of this section, calendar year 1974; and
 
@@ -126,7 +126,7 @@ such disbursement or contracting shall be treated as a contribution to the candi
 
 #### (e) Certification and publication of estimated voting age population ####
 
-During the first week of January 1975, and every subsequent year, the Secretary of Commerce shall certify to the Commission and publish in the Federal Register an estimate of the voting age population of the United States, of each State, and of each congressional district as of the first day of July next preceding the date of certification. The term “voting age population” means resident population, 18 years of age or older.
+During the first week of January 1975, and every subsequent year, the Secretary of Commerce shall certify to the Commission and publish in the Federal Register an estimate of the voting age population of the United States, of each State, and of each congressional district as of the first day of July next preceding the date of certification. The term "voting age population" means resident population, 18 years of age or older.
 
 #### (f) Prohibited contributions and expenditures ####
 
@@ -146,7 +146,7 @@ Notwithstanding any other provision of this Act, amounts totaling not more than 
 
 #### (A) In general ####
 
-Subject to paragraph (2), if the opposition personal funds amount with respect to a candidate for election to the office of Senator exceeds the threshold amount, the limit under subsection (a)(1)(A) of this section (in this subsection referred to as the “applicable limit”) with respect to that candidate shall be the increased limit.
+Subject to paragraph (2), if the opposition personal funds amount with respect to a candidate for election to the office of Senator exceeds the threshold amount, the limit under subsection (a)(1)(A) of this section (in this subsection referred to as the "applicable limit") with respect to that candidate shall be the increased limit.
 
 #### (B) Threshold amount ####
 
@@ -160,7 +160,7 @@ In this subsection, the threshold amount with respect to an election cycle of a 
 
 #### (ii) Voting age population ####
 
-In this subparagraph, the term “voting age population” means in the case of a candidate for the office of Senator, the voting age population of the State of the candidate (as certified under subsection (e) of this section).
+In this subparagraph, the term "voting age population" means in the case of a candidate for the office of Senator, the voting age population of the State of the candidate (as certified under subsection (e) of this section).
 
 #### (C) Increased limit ####
 
@@ -202,7 +202,7 @@ For purposes of determining the aggregate amount of expenditures from personal f
 
 #### (ii) Gross receipts advantage ####
 
-For purposes of clause (i), the term “gross receipts advantage” means the excess, if any, of—
+For purposes of clause (i), the term "gross receipts advantage" means the excess, if any, of—
 
 (I) the aggregate amount of 50 percent of gross receipts of a candidate's authorized committee during any election cycle (not including contributions from personal funds of the candidate) that may be expended in connection with the election, as determined on June 30 and December 31 of the year preceding the year in which a general election is held, over
 
@@ -256,31 +256,31 @@ Another prior section 315 of Pub. L. 92–225 was renumbered section 310, and is
 
 #### Amendments ####
 
-**2002**—Subsec. (a)(1). Pub. L. 107–155, §§304(a)(1), 319(b), substituted “Except as provided in subsection (i) of this section and section 441a–1 of this title, no person” for “No person” in introductory provisions.
+**2002**—Subsec. (a)(1). Pub. L. 107–155, §§304(a)(1), 319(b), substituted "Except as provided in subsection (i) of this section and section 441a–1 of this title, no person" for "No person" in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 107–155, §307(a)(1), substituted “$2,000” for “$1,000”.
+Subsec. (a)(1)(A). Pub. L. 107–155, §307(a)(1), substituted "$2,000" for "$1,000".
 
-Subsec. (a)(1)(B). Pub. L. 107–155, §§102(1), 307(a)(2), substituted “$25,000;” for “$20,000; or”.
+Subsec. (a)(1)(B). Pub. L. 107–155, §§102(1), 307(a)(2), substituted "$25,000;" for "$20,000; or".
 
-Subsec. (a)(1)(C). Pub. L. 107–155, §102(2), inserted “(other than a committee described in subparagraph (D))” after “committee” and substituted “; or” for period at end.
+Subsec. (a)(1)(C). Pub. L. 107–155, §102(2), inserted "(other than a committee described in subparagraph (D))" after "committee" and substituted "; or" for period at end.
 
 Subsec. (a)(1)(D). Pub. L. 107–155, §102(3), added subpar. (D).
 
-Subsec. (a)(3). Pub. L. 107–155, §307(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “No individual shall make contributions aggregating more than $25,000 in any calendar year. For purposes of this paragraph, any contribution made to a candidate in a year other than the calendar year in which the election is held with respect to which such contribution is made, is considered to be made during the calendar year in which such election is held.”
+Subsec. (a)(3). Pub. L. 107–155, §307(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "No individual shall make contributions aggregating more than $25,000 in any calendar year. For purposes of this paragraph, any contribution made to a candidate in a year other than the calendar year in which the election is held with respect to which such contribution is made, is considered to be made during the calendar year in which such election is held."
 
 Subsec. (a)(7)(B)(ii), (iii). Pub. L. 107–155, §214(a), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
 Subsec. (a)(7)(C), (D). Pub. L. 107–155, §202, added subpar. (C) and redesignated former subpar. (C) as (D).
 
-Subsec. (c)(1). Pub. L. 107–155, §307(d)(1), redesignated existing provisions as subpar. (A), struck out at end “Each limitation established by subsection (b) of this section and subsection (d) of this section shall be increased by such percent difference. Each amount so increased shall be the amount in effect for such calendar year.”, and added subpars. (B) and (C).
+Subsec. (c)(1). Pub. L. 107–155, §307(d)(1), redesignated existing provisions as subpar. (A), struck out at end "Each limitation established by subsection (b) of this section and subsection (d) of this section shall be increased by such percent difference. Each amount so increased shall be the amount in effect for such calendar year.", and added subpars. (B) and (C).
 
-Subsec. (c)(2)(B). Pub. L. 107–155, §307(d)(2), substituted “means—” for “means the calendar year 1974” and added cls. (i) and (ii).
+Subsec. (c)(2)(B). Pub. L. 107–155, §307(d)(2), substituted "means—" for "means the calendar year 1974" and added cls. (i) and (ii).
 
-Subsec. (d)(1). Pub. L. 107–155, §213(1), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
+Subsec. (d)(1). Pub. L. 107–155, §213(1), substituted "paragraphs (2), (3), and (4)" for "paragraphs (2) and (3)".
 
 Subsec. (d)(4). Pub. L. 107–155, §213(2), added par. (4).
 
-Subsec. (h). Pub. L. 107–155, §307(c), substituted “$35,000” for “$17,500”.
+Subsec. (h). Pub. L. 107–155, §307(c), substituted "$35,000" for "$17,500".
 
 Subsec. (i). Pub. L. 107–155, §304(a)(2), added subsec. (i).
 
@@ -288,24 +288,24 @@ Subsec. (i)(1)(E). Pub. L. 107–155, §316, added subpar. (E).
 
 Subsec. (j). Pub. L. 107–155, §304(a)(2), added subsec. (j).
 
-**1986**—Subsecs. (a)(5), (b)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+**1986**—Subsecs. (a)(5), (b)(1). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 #### Effective Date of 2002 Amendment ####
 
-Pub. L. 107–155, title III, §307(e), Mar. 27, 2002, 116 Stat. 103, provided that: “The amendments made by this section [amending this section] shall apply with respect to contributions made on or after January 1, 2003.”
+Pub. L. 107–155, title III, §307(e), Mar. 27, 2002, 116 Stat. 103, provided that: "The amendments made by this section [amending this section] shall apply with respect to contributions made on or after January 1, 2003."
 
 Amendment by Pub. L. 107–155 effective Nov. 6, 2002, except that amendments by sections 102 and 307 of the Act applicable with respect to contributions made on or after Jan. 1, 2003, and amendments by sections 202, 213, 214(a), 304(a), 316, and 319(b) of the Act not applicable with respect to runoff elections, recounts, or election contests resulting from elections held prior to Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of this title.
 
 #### Regulations by the Federal Election Commission ####
 
-Pub. L. 107–155, title II, §214(c), Mar. 27, 2002, 116 Stat. 95, provided that: “The Federal Election Commission shall promulgate new regulations on coordinated communications paid for by persons other than candidates, authorized committees of candidates, and party committees. The regulations shall not require agreement or formal collaboration to establish coordination. In addition to any subject determined by the Commission, the regulations shall address—
+Pub. L. 107–155, title II, §214(c), Mar. 27, 2002, 116 Stat. 95, provided that: "The Federal Election Commission shall promulgate new regulations on coordinated communications paid for by persons other than candidates, authorized committees of candidates, and party committees. The regulations shall not require agreement or formal collaboration to establish coordination. In addition to any subject determined by the Commission, the regulations shall address—
 
-“(1) payments for the republication of campaign materials;
+"(1) payments for the republication of campaign materials;
 
-“(2) payments for the use of a common vendor;
+"(2) payments for the use of a common vendor;
 
-“(3) payments for communications directed or made by persons who previously served as an employee of a candidate or a political party; and
+"(3) payments for communications directed or made by persons who previously served as an employee of a candidate or a political party; and
 
-“(4) payments for communications made by a person after substantial discussion about the communication with a candidate or a political party.”
+"(4) payments for communications made by a person after substantial discussion about the communication with a candidate or a political party."
 
-[<sup>1</sup> So in original. The word “and” probably should not appear.](#441a_1)
+[<sup>1</sup> So in original. The word "and" probably should not appear.](#441a_1)

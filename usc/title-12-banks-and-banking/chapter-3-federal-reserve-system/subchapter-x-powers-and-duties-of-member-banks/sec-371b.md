@@ -16,7 +16,7 @@ The Board may from time to time, after consulting with the Board of Directors of
 
 **1962**—Pub. L. 87–827 inserted sentence making this paragraph inapplicable, during the period commencing on October 15, 1962, and ending upon the expiration of three years after such date, to the rate of interest which may be paid by member banks on time deposits of foreign governments, monetary and financial authorities of foreign governments when acting as such, or international financial institutions of which the United States is a member.
 
-**1935**—Act Aug. 23, 1935, among other changes, inserted “except upon such conditions and in accordance with such rules and regulations as may be prescribed by the said Board” to second sentence and proviso.
+**1935**—Act Aug. 23, 1935, among other changes, inserted "except upon such conditions and in accordance with such rules and regulations as may be prescribed by the said Board" to second sentence and proviso.
 
 #### Effective Date of 1980 Amendment ####
 

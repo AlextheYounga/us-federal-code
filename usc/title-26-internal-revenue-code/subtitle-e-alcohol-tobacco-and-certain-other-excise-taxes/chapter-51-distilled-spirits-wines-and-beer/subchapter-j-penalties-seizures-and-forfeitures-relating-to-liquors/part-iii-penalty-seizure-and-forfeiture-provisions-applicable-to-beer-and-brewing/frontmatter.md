@@ -20,6 +20,6 @@ A prior part III consisted of sections 5671 to 5676 of this title, prior to the 
 
 #### Amendments ####
 
-**1978**—Pub. L. 95–458, §2(b)(5)(B), Oct. 14, 1978, 92 Stat. 1257, substituted “production or removal” for “removal” in item 5674.
+**1978**—Pub. L. 95–458, §2(b)(5)(B), Oct. 14, 1978, 92 Stat. 1257, substituted "production or removal" for "removal" in item 5674.
 
-**1976**—Pub. L. 94–455, title XIX, §1905(b)(1)(B), Oct. 4, 1976, 90 Stat. 1822, struck out item 5676 “Penalties relating to beer stamps”.
+**1976**—Pub. L. 94–455, title XIX, §1905(b)(1)(B), Oct. 4, 1976, 90 Stat. 1822, struck out item 5676 "Penalties relating to beer stamps".

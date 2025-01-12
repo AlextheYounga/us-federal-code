@@ -10,8 +10,8 @@ Section was not enacted as part of act Mar. 24, 1937, ch. 50, 50 Stat. 51, which
 
 #### Transfer of Jurisdiction ####
 
-Pub. L. 90–376, §4, July 5, 1968, 82 Stat. 286, provided that: “The Commissioner [Mayor] of the District of Columbia is authorized to transfer to the United States such jurisdiction as the District of Columbia may have over any of the property within the area referred to in the first section of this Act [this section].”
+Pub. L. 90–376, §4, July 5, 1968, 82 Stat. 286, provided that: "The Commissioner [Mayor] of the District of Columbia is authorized to transfer to the United States such jurisdiction as the District of Columbia may have over any of the property within the area referred to in the first section of this Act [this section]."
 
 #### Public Utility: Payment of Cost of Relocation or Protection From Trust Funds ####
 
-Pub. L. 90–376, §5, July 5, 1968, 82 Stat. 286, provided that: “If any public utility (whether privately or publicly owned) located within the area referred to in the first section of this Act [this section] is required to be relocated or protected by reason of the construction within such area of any addition to the National Gallery of Art, the cost of such relocation or protection shall be paid from trust funds administered by the Trustees of the National Gallery of Art.”
+Pub. L. 90–376, §5, July 5, 1968, 82 Stat. 286, provided that: "If any public utility (whether privately or publicly owned) located within the area referred to in the first section of this Act [this section] is required to be relocated or protected by reason of the construction within such area of any addition to the National Gallery of Art, the cost of such relocation or protection shall be paid from trust funds administered by the Trustees of the National Gallery of Art."

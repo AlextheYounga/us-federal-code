@@ -28,7 +28,7 @@ Sec.
 
 833. Repealed.
 
-834. “Classified information” defined.
+834. "Classified information" defined.
 
 835. Nonapplicability of administrative procedure provisions.
 
@@ -38,7 +38,7 @@ Sec.
 
 842. Proscription of Communist Party, its successors, and subsidiary organizations.
 
-843. Application of Internal Security Act of 1950 to members of Communist Party and other subversive organizations; “Communist Party” defined.
+843. Application of Internal Security Act of 1950 to members of Communist Party and other subversive organizations; "Communist Party" defined.
 
 844. Determination by jury of membership in Communist Party, participation, or knowledge of purpose.
 

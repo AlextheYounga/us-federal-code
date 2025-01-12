@@ -2,7 +2,7 @@
 
 #### (a) Short title ####
 
-This section may be cited as the “United States Cotton Futures Act”.
+This section may be cited as the "United States Cotton Futures Act".
 
 #### (b) Repeal of tax on cotton futures ####
 
@@ -14,23 +14,23 @@ For purposes of this section—
 
 #### (1) Cotton futures contract ####
 
-The term “cotton futures contract” means any contract of sale of cotton for future delivery made at, on, or in any exchange, board of trade, or similar institution or place of business which has been designated a “contract market” by the Commodity Futures Trading Commission pursuant to the Commodity Exchange Act [7 U.S.C. 1 et seq.] and the term “contract of sale” as so used shall be held to include sales, agreements of sale, and agreements to sell, except that any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section.
+The term "cotton futures contract" means any contract of sale of cotton for future delivery made at, on, or in any exchange, board of trade, or similar institution or place of business which has been designated a "contract market" by the Commodity Futures Trading Commission pursuant to the Commodity Exchange Act [7 U.S.C. 1 et seq.] and the term "contract of sale" as so used shall be held to include sales, agreements of sale, and agreements to sell, except that any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section.
 
 #### (2) Future delivery ####
 
-The term “future delivery” shall not include any cash sale of cotton for deferred shipment or delivery.
+The term "future delivery" shall not include any cash sale of cotton for deferred shipment or delivery.
 
 #### (3) Person ####
 
-The term “person” includes an individual, trust, estate, partnership, association, company, or corporation.
+The term "person" includes an individual, trust, estate, partnership, association, company, or corporation.
 
 #### (4) Secretary ####
 
-The term “Secretary” means the Secretary of Agriculture of the United States.
+The term "Secretary" means the Secretary of Agriculture of the United States.
 
 #### (5) Standards ####
 
-The term “standards” means the official cotton standards of the United States established by the Secretary pursuant to the United States Cotton Standards Act, as amended [7 U.S.C. 51 et seq.].
+The term "standards" means the official cotton standards of the United States established by the Secretary pursuant to the United States Cotton Standards Act, as amended [7 U.S.C. 51 et seq.].
 
 #### (d) Bona fide spot markets and commercial differences ####
 
@@ -74,7 +74,7 @@ Provide that in case cotton of grade other than the basis grade be tendered or d
 
 #### (E) Prohibition of delivery of inferior cotton ####
 
-Provide that cotton that, because of the presence of extraneous matter of any character, or irregularities or defects, is reduced in value below that of low middling, or cotton that is below the grade of low middling, or, if tinged, cotton that is below the grade of strict middling, or, if yellow stained, cotton that is below the grade of good middling, the grades mentioned being of the official cotton standards of the United States, or cotton that is less than seven-eighths of an inch in length of staple, or cotton of perished staple, or of immature staple, or cotton that is “gin cut” or reginned, or cotton that is “repacked” or “false packed” or “mixed packed” or “water packed”, shall not be delivered on, under, or in settlement of such contract.
+Provide that cotton that, because of the presence of extraneous matter of any character, or irregularities or defects, is reduced in value below that of low middling, or cotton that is below the grade of low middling, or, if tinged, cotton that is below the grade of strict middling, or, if yellow stained, cotton that is below the grade of good middling, the grades mentioned being of the official cotton standards of the United States, or cotton that is less than seven-eighths of an inch in length of staple, or cotton of perished staple, or of immature staple, or cotton that is "gin cut" or reginned, or cotton that is "repacked" or "false packed" or "mixed packed" or "water packed", shall not be delivered on, under, or in settlement of such contract.
 
 #### (F) Provisions for tender in full, notice of delivery date, and certificate of grade ####
 
@@ -86,7 +86,7 @@ Provide that all tenders of cotton and settlements therefor under such contract 
 
 #### (2) Incorporation of conditions in contracts ####
 
-The provisions of paragraphs (1)(C), (D), (E), (F), and (G) shall be deemed fully incorporated into any such contract if there be written or printed thereon, or on the memorandums evidencing the same, at or prior to the time the same is signed, the phrase “Subject to United States Cotton Futures Act, subsection (f).”
+The provisions of paragraphs (1)(C), (D), (E), (F), and (G) shall be deemed fully incorporated into any such contract if there be written or printed thereon, or on the memorandums evidencing the same, at or prior to the time the same is signed, the phrase "Subject to United States Cotton Futures Act, subsection (f)."
 
 #### (3) Delivery allowances ####
 
@@ -108,11 +108,11 @@ Provide that, in case cotton of grade or grades other than the basis grade speci
 
 #### (2) Incorporation of conditions in contract ####
 
-Contracts made in compliance with this subsection shall be known as “subsection (g) Contracts”. The provisions of this subsection shall be deemed fully incorporated into any such contract if there be written or printed thereon, or on the memorandum evidencing the same, at or prior to the time the same is signed, the phrase “Subject to United States Cotton Futures Act, subsection (g)”.
+Contracts made in compliance with this subsection shall be known as "subsection (g) Contracts". The provisions of this subsection shall be deemed fully incorporated into any such contract if there be written or printed thereon, or on the memorandum evidencing the same, at or prior to the time the same is signed, the phrase "Subject to United States Cotton Futures Act, subsection (g)".
 
 #### (3) Application of subsection ####
 
-Nothing in this subsection shall be so construed as to authorize any contract in which, or in the settlement of or in respect to which, any device or arrangement whatever is resorted to, or any agreement is made, for the determination or adjustment of the price of the grade or grades tendered other than the basis grade specified in the contract by any “fixed difference” system, or by arbitration, or by any other method not provided for by this section.
+Nothing in this subsection shall be so construed as to authorize any contract in which, or in the settlement of or in respect to which, any device or arrangement whatever is resorted to, or any agreement is made, for the determination or adjustment of the price of the grade or grades tendered other than the basis grade specified in the contract by any "fixed difference" system, or by arbitration, or by any other method not provided for by this section.
 
 #### (h) Specific grade contracts ####
 
@@ -134,11 +134,11 @@ Provide that cotton of or within the grade or of the type, or according to the s
 
 #### (D) Provision for specific performance ####
 
-Provide that the delivery of cotton under the contract shall not be effected by means of “setoff” or “ring” settlement, but only by the actual transfer of the specified cotton mentioned in the contract.
+Provide that the delivery of cotton under the contract shall not be effected by means of "setoff" or "ring" settlement, but only by the actual transfer of the specified cotton mentioned in the contract.
 
 #### (2) Incorporation of conditions in contract ####
 
-The provisions of paragraphs (1)(A), (C), and (D) shall be deemed fully incorporated into any such contract if there be written or printed thereon, or on the document or memorandum evidencing the same, at or prior to the time the same is entered into, the words “Subject to United States Cotton Futures Act, subsection (h)”.
+The provisions of paragraphs (1)(A), (C), and (D) shall be deemed fully incorporated into any such contract if there be written or printed thereon, or on the document or memorandum evidencing the same, at or prior to the time the same is entered into, the words "Subject to United States Cotton Futures Act, subsection (h)".
 
 #### (3) Application of subsection ####
 
@@ -178,15 +178,15 @@ The Internal Revenue Code of 1954, referred to in subsec. (l), was redesignated 
 
 Section was enacted as part of the Tax Reform Act of 1976, and not as part of the Commodity Exchange Act which comprises this chapter.
 
-This section, referred to in subsec. (c)(1), was in the original a reference to this “Act”, meaning the United States Cotton Futures Act, which comprises this section.
+This section, referred to in subsec. (c)(1), was in the original a reference to this "Act", meaning the United States Cotton Futures Act, which comprises this section.
 
-In subsec. (f)(1)(G), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (f)(1)(G), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments ####
 
-**2000**—Subsec. (d)(2). Pub. L. 106–472 inserted at end “A person complying with the preceding sentence shall not be liable for any loss or damage arising or resulting from such compliance.”
+**2000**—Subsec. (d)(2). Pub. L. 106–472 inserted at end "A person complying with the preceding sentence shall not be liable for any loss or damage arising or resulting from such compliance."
 
-**1991**—Subsec. (c)(1). Pub. L. 102–237 inserted before period at end “, except that any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section”.
+**1991**—Subsec. (c)(1). Pub. L. 102–237 inserted before period at end ", except that any cotton futures contract that, by its terms, is settled in cash is excluded from the coverage of this paragraph and section".
 
 **1981**—Subsec. (f)(1)(G). Pub. L. 97–35 inserted provisions relating to crediting to account referred to in section 55 of this title and provisions respecting cotton samples submitted or used becoming the property of the United States.
 
@@ -196,8 +196,8 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 156(e) of Pub. 
 
 #### Effective Date ####
 
-Pub. L. 94–455, title XIX, §1952(o), Oct. 4, 1976, 90 Stat. 1846, provided that: “The provisions of this section [enacting this section, amending section 6808 of Title 26, Internal Revenue Code, and repealing sections 7233 and 7263, subchapter D of chapter 39, and subchapter E of chapter 76 of Title 26] shall take effect on the 90th day after the date of the enactment of this Act [Oct. 4, 1976].”
+Pub. L. 94–455, title XIX, §1952(o), Oct. 4, 1976, 90 Stat. 1846, provided that: "The provisions of this section [enacting this section, amending section 6808 of Title 26, Internal Revenue Code, and repealing sections 7233 and 7263, subchapter D of chapter 39, and subchapter E of chapter 76 of Title 26] shall take effect on the 90th day after the date of the enactment of this Act [Oct. 4, 1976]."
 
-[<sup>1</sup> So in original. Probably should be “basis”.](#15b_1)
+[<sup>1</sup> So in original. Probably should be "basis".](#15b_1)
 
 [<sup>2</sup> See References in Text note below.](#15b_2)

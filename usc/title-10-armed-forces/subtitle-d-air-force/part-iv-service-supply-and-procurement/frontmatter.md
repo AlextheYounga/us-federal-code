@@ -29,6 +29,6 @@ Chap. Sec.
 
 #### Amendments ####
 
-**1999**—Pub. L. 106–65, div. A, title VII, §721(c)(8), Oct. 5, 1999, 113 Stat. 695, substituted “Disposition” for “Inquests; Disposition” and “9712” for “9711” in item for chapter 945.
+**1999**—Pub. L. 106–65, div. A, title VII, §721(c)(8), Oct. 5, 1999, 113 Stat. 695, substituted "Disposition" for "Inquests; Disposition" and "9712" for "9711" in item for chapter 945.
 
-**1993**—Pub. L. 103–160, div. A, title VIII, §828(c)(8)(B), Nov. 30, 1993, 107 Stat. 1715, substituted “Civil Reserve Air Fleet” for “Industrial Mobilization, Research, and Development” and “9511” for “9501” in item for chapter 931.
+**1993**—Pub. L. 103–160, div. A, title VIII, §828(c)(8)(B), Nov. 30, 1993, 107 Stat. 1715, substituted "Civil Reserve Air Fleet" for "Industrial Mobilization, Research, and Development" and "9511" for "9501" in item for chapter 931.

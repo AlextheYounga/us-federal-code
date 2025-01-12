@@ -70,7 +70,7 @@ No debt obligation which is made or committed to be made, or which is insured or
 
 #### Codification ####
 
-In subsec. (c), “December 12, 1980” substituted for “the date of enactment of this Act”. “This Act” probably meant the National Historic Preservation Act Amendments of 1980 (Pub. L. 96–515) rather than the National Historic Preservation Act of 1966 (Pub. L. 89–665).
+In subsec. (c), "December 12, 1980" substituted for "the date of enactment of this Act". "This Act" probably meant the National Historic Preservation Act Amendments of 1980 (Pub. L. 96–515) rather than the National Historic Preservation Act of 1966 (Pub. L. 89–665).
 
 #### Amendments ####
 
@@ -84,6 +84,6 @@ Subsecs. (c) to (k). Pub. L. 96–515 added subsecs. (c) to (k).
 
 Enforcement functions of Secretary or other official in Department of the Interior and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with historic preservation under sections 470 to 470a, 470b, and 470c to 470w–6 of this title with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
-[<sup>1</sup> So in original. Probably should be “subsections (g) and (h)”.](#470d_1)
+[<sup>1</sup> So in original. Probably should be "subsections (g) and (h)".](#470d_1)
 
-[<sup>2</sup> So in original. Probably should be “subsection (h)”.](#470d_2)
+[<sup>2</sup> So in original. Probably should be "subsection (h)".](#470d_2)

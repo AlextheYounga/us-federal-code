@@ -4,4 +4,4 @@ Section, added Pub. L. 106–398, §1 [[div. A], title X, §1071(a)], Oct. 30, 2
 
 #### Effective Date of Repeal ####
 
-Pub. L. 110–181, div. A, title X, §1072(b)(3), Jan. 28, 2008, 122 Stat. 330, provided that: “The amendments made by this subsection [repealing this section] shall take effect on January 1, 2008.”
+Pub. L. 110–181, div. A, title X, §1072(b)(3), Jan. 28, 2008, 122 Stat. 330, provided that: "The amendments made by this subsection [repealing this section] shall take effect on January 1, 2008."

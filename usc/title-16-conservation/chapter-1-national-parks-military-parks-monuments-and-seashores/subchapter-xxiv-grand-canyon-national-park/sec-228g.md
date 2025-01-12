@@ -10,4 +10,4 @@ The Noise Control Act of 1972, referred to in text, is Pub. L. 92–574, Oct. 27
 
 #### Transfer of Functions ####
 
-“Federal Aviation Administration” substituted in text for “Federal Aviation Agency” pursuant to Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, which transferred functions, powers, and duties of Federal Aviation Agency and of Administrator and other offices and officers thereof to Secretary of Transportation and established Federal Aviation Administration in Department of Transportation. See section 106 of Title 49, Transportation.
+"Federal Aviation Administration" substituted in text for "Federal Aviation Agency" pursuant to Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, which transferred functions, powers, and duties of Federal Aviation Agency and of Administrator and other offices and officers thereof to Secretary of Transportation and established Federal Aviation Administration in Department of Transportation. See section 106 of Title 49, Transportation.

@@ -14,25 +14,25 @@
 
 #### Amendments ####
 
-**2011**—Pub. L. 111–383, §901(k)(1)(D), substituted “Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs” for “Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs” in section catchline.
+**2011**—Pub. L. 111–383, §901(k)(1)(D), substituted "Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs" for "Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs" in section catchline.
 
 Pub. L. 111–383, §901(b)(8), renumbered section 142 of this title as this section.
 
-Subsec. (a). Pub. L. 111–383, §901(b)(8)(A), (B), redesignated subsec. (b) as (a), substituted “The Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs” for “The Assistant to the Secretary” in introductory provisions, and struck out former subsec. (a) which read as follows: “There is an Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs, appointed by the President, by and with the advice and consent of the Senate.”
+Subsec. (a). Pub. L. 111–383, §901(b)(8)(A), (B), redesignated subsec. (b) as (a), substituted "The Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs" for "The Assistant to the Secretary" in introductory provisions, and struck out former subsec. (a) which read as follows: "There is an Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs, appointed by the President, by and with the advice and consent of the Senate."
 
 Subsec. (b). Pub. L. 111–383, §901(b)(8)(C), added subsec. (b). Former subsec. (b) redesignated (a).
 
-Subsec. (c). Pub. L. 111–383, §901(b)(8)(C), struck out subsec. (c), which read as follows: “The Assistant to the Secretary shall be considered an Assistant Secretary of Defense for purposes of section 138(d) of this title.”
+Subsec. (c). Pub. L. 111–383, §901(b)(8)(C), struck out subsec. (c), which read as follows: "The Assistant to the Secretary shall be considered an Assistant Secretary of Defense for purposes of section 138(d) of this title."
 
 **2008**—Subsec. (c). Pub. L. 110–417 added subsec. (c).
 
-**1996**—Pub. L. 104–106, §904(a)(1)(A), substituted “Nuclear and Chemical and Biological Defense Programs” for “Atomic Energy” in section catchline.
+**1996**—Pub. L. 104–106, §904(a)(1)(A), substituted "Nuclear and Chemical and Biological Defense Programs" for "Atomic Energy" in section catchline.
 
 Pub. L. 104–106, §903(a), (c)(4), which directed repeal of this section eff. Jan. 31, 1997, was repealed by Pub. L. 104–201.
 
-Subsec. (a). Pub. L. 104–106, §904(a)(1)(B), substituted “Nuclear and Chemical and Biological Defense Programs” for “Atomic Energy”.
+Subsec. (a). Pub. L. 104–106, §904(a)(1)(B), substituted "Nuclear and Chemical and Biological Defense Programs" for "Atomic Energy".
 
-Subsec. (b). Pub. L. 104–106, §904(a)(1)(C), added subsec. (b) and struck out former subsec. (b) which read as follows: “The Assistant to the Secretary shall advise the Secretary of Defense and the Nuclear Weapons Council on nuclear energy and nuclear weapons matters.”
+Subsec. (b). Pub. L. 104–106, §904(a)(1)(C), added subsec. (b) and struck out former subsec. (b) which read as follows: "The Assistant to the Secretary shall advise the Secretary of Defense and the Nuclear Weapons Council on nuclear energy and nuclear weapons matters."
 
 **1993**—Pub. L. 103–160 renumbered section 141 of this title as this section.
 

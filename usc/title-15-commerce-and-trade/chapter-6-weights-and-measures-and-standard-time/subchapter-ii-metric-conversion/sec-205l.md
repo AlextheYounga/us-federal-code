@@ -68,11 +68,11 @@ The effective date of the Savings in Construction Act of 1996, referred to in su
 
 #### Codification ####
 
-In subsec. (a), “division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”, “section 3307(d) of title 41” substituted for “section 314B(c) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 264b(c))”, “section 3307(b) to (d) of title 41” substituted for “section 314B of the Federal Property and Administrative Services Act of 1949”, and “or 3307(b) to (d)” substituted for “or 314B” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a), "division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)", "section 3307(d) of title 41" substituted for "section 314B(c) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 264b(c))", "section 3307(b) to (d) of title 41" substituted for "section 314B of the Federal Property and Administrative Services Act of 1949", and "or 3307(b) to (d)" substituted for "or 314B" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments ####
 
-**2004**—Subsec. (e). Pub. L. 108–423 struck out heading and text of subsec. (e). Text read as follows: “The provisions contained in subsections (b) and (c) of this section shall expire 10 years from the effective date of the Savings in Construction Act of 1996.”
+**2004**—Subsec. (e). Pub. L. 108–423 struck out heading and text of subsec. (e). Text read as follows: "The provisions contained in subsections (b) and (c) of this section shall expire 10 years from the effective date of the Savings in Construction Act of 1996."
 
 **1996**—Pub. L. 104–289, §5, added subsec. (f).
 
@@ -80,4 +80,4 @@ In subsec. (a), “division C (except sections 3302, 3307(e), 3501(b), 3509, 390
 
 Section effective 90 days after Oct. 11, 1996, and inapplicable to contracts awarded and solicitations issued on or before that date, unless head of Federal agency makes written determination that it would be in public interest to apply one or more provisions of Pub. L. 104–289 to these existing contracts or solicitations, see section 6(b) of Pub. L. 104–289, set out as an Effective Date of 1996 Amendment; Savings Provision note under section 205c of this title.
 
-[<sup>1</sup> So in original. Probably should be followed by “section”.](#205l_1)
+[<sup>1</sup> So in original. Probably should be followed by "section".](#205l_1)

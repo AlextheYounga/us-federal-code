@@ -50,11 +50,11 @@ For purposes of this section:
 
 #### (1) Pregnancy-related assistance ####
 
-The term “pregnancy-related assistance” has the meaning given the term “child health assistance” in section 1397jj(a) of this title with respect to an individual during the period described in paragraph (2)(A).
+The term "pregnancy-related assistance" has the meaning given the term "child health assistance" in section 1397jj(a) of this title with respect to an individual during the period described in paragraph (2)(A).
 
 #### (2) Targeted low-income pregnant woman ####
 
-The term “targeted low-income pregnant woman” means an individual—
+The term "targeted low-income pregnant woman" means an individual—
 
 (A) during pregnancy and through the end of the month in which the 60-day period (beginning on the last day of her pregnancy) ends;
 

@@ -104,4 +104,4 @@ A prior section 747 of act July 1, 1944, was classified to section 294q–3 of t
 
 Another prior section 747 of act July 1, 1944, was classified to section 294g of this title prior to repeal by Pub. L. 94–484.
 
-[<sup>1</sup> So in original. Probably should be “propose”.](#293k_1)
+[<sup>1</sup> So in original. Probably should be "propose".](#293k_1)

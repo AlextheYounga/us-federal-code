@@ -26,6 +26,6 @@ Section 3310, Pub. L. 89–754, title I, §110, Nov. 3, 1966, 80 Stat. 1259, rel
 
 Section 3311, Pub. L. 89–754, title I, §111, Nov. 3, 1966, 80 Stat. 1260; Pub. L. 90–448, title XVII, §1701, Aug. 1, 1968, 82 Stat. 602; Pub. L. 91–152, title III, §301, Dec. 24, 1969, 83 Stat. 391; Pub. L. 91–609, title III, §301, Dec. 31, 1970, 84 Stat. 1780; Pub. L. 92–335, §2, July 1, 1972, 86 Stat. 405; Pub. L. 93–117, §6, Oct. 2, 1973, 87 Stat. 422; Pub. L. 93–383, title I, §116(d), Aug. 22, 1974, 88 Stat. 652, authorized appropriations.
 
-Section 3312, Pub. L. 89–754, title I, §112, Nov. 3, 1966, 80 Stat. 1260, provided definitions of “Federal grant-in-aid program”, “city demonstration agency”, “city”, and “local agencies”.
+Section 3312, Pub. L. 89–754, title I, §112, Nov. 3, 1966, 80 Stat. 1260, provided definitions of "Federal grant-in-aid program", "city demonstration agency", "city", and "local agencies".
 
 Section 3313, Pub. L. 89–754, title I, §114, Nov. 3, 1966, 80 Stat. 1261, provided for limitations on amount of grants.

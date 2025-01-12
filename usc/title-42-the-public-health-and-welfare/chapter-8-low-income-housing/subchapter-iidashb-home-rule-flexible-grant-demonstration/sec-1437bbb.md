@@ -26,6 +26,6 @@ The purpose of this subchapter is to demonstrate the effectiveness of authorizin
 
 #### Effective Date ####
 
-Act Sept. 1, 1937, ch. 896, title IV, §411, as added by Pub. L. 105–276, title V, §561, Oct. 21, 1998, 112 Stat. 2624, provided that: “This title [enacting this subchapter] shall take effect on the date of the enactment of the Quality Housing and Work Responsibility Act of 1998 [Oct. 21, 1998].”
+Act Sept. 1, 1937, ch. 896, title IV, §411, as added by Pub. L. 105–276, title V, §561, Oct. 21, 1998, 112 Stat. 2624, provided that: "This title [enacting this subchapter] shall take effect on the date of the enactment of the Quality Housing and Work Responsibility Act of 1998 [Oct. 21, 1998]."
 
 [<sup>1</sup> So in original. The semicolon probably should be a period.](#1437bbb_1)

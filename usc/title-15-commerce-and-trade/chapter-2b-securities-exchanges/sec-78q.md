@@ -84,7 +84,7 @@ In making any such rule or entering any such order, the Commission shall take in
 
 (2) Every member of a national securities exchange, broker, dealer, registered transfer agent, registered clearing agency, registered securities information processor, national securities exchange, and national securities association shall require that each of its partners, directors, officers, and employees be fingerprinted and shall submit such fingerprints, or cause the same to be submitted, to the Attorney General of the United States for identification and appropriate processing. The Commission, by rule, may exempt from the provisions of this paragraph upon specified terms, conditions, and periods, any class of partners, directors, officers, or employees of any such member, broker, dealer, transfer agent, clearing agency, securities information processor, national securities exchange, or national securities association, if the Commission finds that such action is not inconsistent with the public interest or the protection of investors. Notwithstanding any other provision of law, in providing identification and processing functions, the Attorney General shall provide the Commission and self-regulatory organizations designated by the Commission with access to all criminal history record information.
 
-(3)(A) In order to carry out the authority under paragraph (1) above, the Commission or its designee may enter into agreement with the Attorney General to use the facilities of the National Crime Information Center (“NCIC”) to receive, store, and disseminate information in regard to missing, lost, counterfeit, or stolen securities and to permit direct inquiry access to NCIC's file on such securities for the financial community.
+(3)(A) In order to carry out the authority under paragraph (1) above, the Commission or its designee may enter into agreement with the Attorney General to use the facilities of the National Crime Information Center ("NCIC") to receive, store, and disseminate information in regard to missing, lost, counterfeit, or stolen securities and to permit direct inquiry access to NCIC's file on such securities for the financial community.
 
 (B) In order to carry out the authority under paragraph (1) of this subsection, the Commission or its designee and the Secretary of the Treasury shall enter into an agreement whereby the Commission or its designee will receive, store, and disseminate information in the possession, and which comes into the possession, of the Department of the Treasury in regard to missing, lost, counterfeit, or stolen securities.
 
@@ -142,9 +142,9 @@ No information provided to or obtained by the Commission from any Federal bankin
 
 The Commission shall notify the Federal banking agency of any concerns of the Commission regarding significant financial or operational risks resulting from the activities of any registered broker or dealer, or any registered municipal securities dealer, government securities broker, or government securities dealer for which the Commission is the appropriate regulatory agency, to any associated person thereof which is subject to examination by or reporting requirements of the Federal banking agency.
 
-#### (G) “Federal banking agency” defined ####
+#### (G) "Federal banking agency" defined ####
 
-For purposes of this paragraph, the term “Federal banking agency” shall have the same meaning as the term “appropriate Federal bank agency” in section 1813(q) of title 12.
+For purposes of this paragraph, the term "Federal banking agency" shall have the same meaning as the term "appropriate Federal bank agency" in section 1813(q) of title 12.
 
 #### (4) Exemptions ####
 
@@ -192,19 +192,19 @@ Section 78x of this title shall apply to the sharing of information in accordanc
 
 Nothing in this paragraph authorizes the Commission or any examining authority to withhold information from the Congress, or prevent the Commission or any examining authority from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of its jurisdiction, or complying with an order of a court of the United States in an action brought by the United States or the Commission.
 
-#### (5) “Examining authority” defined ####
+#### (5) "Examining authority" defined ####
 
-For purposes of this subsection, the term “examining authority” means a self-regulatory organization registered with the Commission under this chapter (other than a registered clearing agency) with the authority to examine, inspect, and otherwise oversee the activities of a registered broker or dealer.
+For purposes of this subsection, the term "examining authority" means a self-regulatory organization registered with the Commission under this chapter (other than a registered clearing agency) with the authority to examine, inspect, and otherwise oversee the activities of a registered broker or dealer.
 
 (June 6, 1934, ch. 404, title I, §17, 48 Stat. 897; May 27, 1936, ch. 462, §4, 49 Stat. 1379; June 25, 1938, ch. 677, §5, 52 Stat. 1076; Pub. L. 94–29, §14, June 4, 1975, 89 Stat. 137; Pub. L. 99–571, title I, §102(h), (i), Oct. 28, 1986, 100 Stat. 3219; Pub. L. 100–181, title III, §321, title VIII, §801(b), Dec. 4, 1987, 101 Stat. 1257, 1265; Pub. L. 101–432, §4(a), Oct. 16, 1990, 104 Stat. 966; Pub. L. 104–290, title I, §108, Oct. 11, 1996, 110 Stat. 3425; Pub. L. 105–353, title III, §301(b)(5), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §231(a), Nov. 12, 1999, 113 Stat. 1402; Pub. L. 106–554, §1(a)(5) [title II, §204], Dec. 21, 2000, 114 Stat. 2763, 2763A–424; Pub. L. 107–204, title II, §205(c)(2), July 30, 2002, 116 Stat. 774; Pub. L. 108–386, §8(f)(5), (6), Oct. 30, 2004, 118 Stat. 2232; Pub. L. 109–291, §5, Sept. 29, 2006, 120 Stat. 1338; Pub. L. 111–203, title VI, §617(a), title IX, §§929D, 929S, 975(h), 982(e)(2), 985(b)(7), July 21, 2010, 124 Stat. 1616, 1853, 1867, 1923, 1929, 1934.)
 
 #### References in Text ####
 
-This chapter, referred to in subsecs. (a)(1), (b), (d)(1)(A), (B), (e)(2), (g), and (j)(5), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a)(1), (b), (d)(1)(A), (B), (e)(2), (g), and (j)(5), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 The Sarbanes-Oxley Act of 2002, referred to in subsec. (e)(1)(A), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of this title and Tables.
 
-Subchapter VIII of chapter 3 of title 12, referred to in subsec. (h)(3)(B), was in the original “section 9 of the Federal Reserve Act”, meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified generally to subchapter VIII (§321 et seq.) of chapter 3 of Title 12, Banks and Banking.
+Subchapter VIII of chapter 3 of title 12, referred to in subsec. (h)(3)(B), was in the original "section 9 of the Federal Reserve Act", meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified generally to subchapter VIII (§321 et seq.) of chapter 3 of Title 12, Banks and Banking.
 
 Section 3401(6) of title 12, referred to in subsec. (h)(4)(A), was redesignated section 3401(7) of title 12 by Pub. L. 101–73, title IX, §941(1), Aug. 9, 1989, 103 Stat. 496.
 
@@ -212,53 +212,53 @@ Subsection (i) of this section, referred to in subsec. (i), was repealed, and su
 
 #### Amendments ####
 
-**2010**—Subsec. (a)(1). Pub. L. 111–203, §975(h), inserted “municipal advisor,” after “municipal securities dealer”.
+**2010**—Subsec. (a)(1). Pub. L. 111–203, §975(h), inserted "municipal advisor," after "municipal securities dealer".
 
-Subsec. (b)(1)(B). Pub. L. 111–203, §985(b)(7), substituted “give notice to” for “gives notice to”.
+Subsec. (b)(1)(B). Pub. L. 111–203, §985(b)(7), substituted "give notice to" for "gives notice to".
 
-Subsec. (e)(1)(A). Pub. L. 111–203, §982(e)(2), substituted “independent public accounting firm, or by a registered public accounting firm if the firm is required to be registered under the Sarbanes-Oxley Act of 2002,” for “registered public accounting firm”.
+Subsec. (e)(1)(A). Pub. L. 111–203, §982(e)(2), substituted "independent public accounting firm, or by a registered public accounting firm if the firm is required to be registered under the Sarbanes-Oxley Act of 2002," for "registered public accounting firm".
 
-Subsec. (f)(1)(A). Pub. L. 111–203, §929D(1), substituted “securities that are missing, lost, counterfeit, stolen, or cancelled” for “missing, lost, counterfeit, or stolen securities”.
+Subsec. (f)(1)(A). Pub. L. 111–203, §929D(1), substituted "securities that are missing, lost, counterfeit, stolen, or cancelled" for "missing, lost, counterfeit, or stolen securities".
 
-Subsec. (f)(1)(B). Pub. L. 111–203, §929D(2), substituted “stolen, cancelled, or reported in such other manner as the Commission, by rule, may prescribe” for “or stolen”.
+Subsec. (f)(1)(B). Pub. L. 111–203, §929D(2), substituted "stolen, cancelled, or reported in such other manner as the Commission, by rule, may prescribe" for "or stolen".
 
-Subsec. (f)(2). Pub. L. 111–203, §929S, in first sentence, substituted “registered clearing agency, registered securities information processor, national securities exchange, and national securities association” for “and registered clearing agency,” and, in second sentence, substituted “clearing agency, securities information processor, national securities exchange, or national securities association,” for “or clearing agency,”.
+Subsec. (f)(2). Pub. L. 111–203, §929S, in first sentence, substituted "registered clearing agency, registered securities information processor, national securities exchange, and national securities association" for "and registered clearing agency," and, in second sentence, substituted "clearing agency, securities information processor, national securities exchange, or national securities association," for "or clearing agency,".
 
 Subsecs. (i) to (k). Pub. L. 111–203, §617(a), redesignated subsecs. (j) and (k) as (i) and (j), respectively, and struck out former subsec. (i) which related to supervision of investment bank holding companies and recordkeeping and reporting requirements.
 
-**2006**—Subsec. (a)(1). Pub. L. 109–291 inserted “nationally recognized statistical rating organization,” after “registered transfer agent,” and inserted at end “Any report that a nationally recognized statistical rating organization is required by Commission rules under this paragraph to make and disseminate to the Commission shall be deemed furnished to the Commission.”
+**2006**—Subsec. (a)(1). Pub. L. 109–291 inserted "nationally recognized statistical rating organization," after "registered transfer agent," and inserted at end "Any report that a nationally recognized statistical rating organization is required by Commission rules under this paragraph to make and disseminate to the Commission shall be deemed furnished to the Commission."
 
-**2004**—Subsec. (f)(4)(A). Pub. L. 108–386, §8(f)(5), struck out “and banks operating under the Code of Law for the District of Columbia” before semicolon.
+**2004**—Subsec. (f)(4)(A). Pub. L. 108–386, §8(f)(5), struck out "and banks operating under the Code of Law for the District of Columbia" before semicolon.
 
-Subsec. (f)(4)(B). Pub. L. 108–386, §8(f)(6), struck out “or a bank operating under the Code of Law for the District of Columbia” before semicolon.
+Subsec. (f)(4)(B). Pub. L. 108–386, §8(f)(6), struck out "or a bank operating under the Code of Law for the District of Columbia" before semicolon.
 
-**2002**—Subsecs. (e)(1)(A), (i)(3)(A)(ii). Pub. L. 107–204 substituted “a registered public accounting firm” for “an independent public accountant”.
+**2002**—Subsecs. (e)(1)(A), (i)(3)(A)(ii). Pub. L. 107–204 substituted "a registered public accounting firm" for "an independent public accountant".
 
 **2000**—Subsec. (b). Pub. L. 106–554, §1(a)(5) [title II, §204(5)], which directed amendment of subsec. (b) by adding at the end pars. (2) to (4)(B), was executed by making the addition after par. (1), to reflect the probable intent of Congress.
 
-Pub. L. 106–554, §1(a)(5) [title II, §204(1) to (4), (6)], inserted subsec. heading, inserted par. (1) designation and heading before “All”, substituted “prior to conducting any such examination of a—” for “prior to conducting any such examination of a”, inserted subpar. (A) designation before “registered clearing”, added subpar. (B), designated last sentence as par. (4)(C) and substituted “Nothing in the proviso in paragraph (1)” for “Nothing in the proviso to the preceding sentence”.
+Pub. L. 106–554, §1(a)(5) [title II, §204(1) to (4), (6)], inserted subsec. heading, inserted par. (1) designation and heading before "All", substituted "prior to conducting any such examination of a—" for "prior to conducting any such examination of a", inserted subpar. (A) designation before "registered clearing", added subpar. (B), designated last sentence as par. (4)(C) and substituted "Nothing in the proviso in paragraph (1)" for "Nothing in the proviso to the preceding sentence".
 
 **1999**—Subsecs. (i) to (k). Pub. L. 106–102 added subsecs. (i) and (j) and redesignated former subsec. (i) as (k).
 
-**1998**—Subsec. (g). Pub. L. 105–353 substituted “Board of Governors of the Federal Reserve System” for “Federal Reserve Board” in first sentence.
+**1998**—Subsec. (g). Pub. L. 105–353 substituted "Board of Governors of the Federal Reserve System" for "Federal Reserve Board" in first sentence.
 
 **1996**—Subsec. (i). Pub. L. 104–290 added subsec. (i).
 
 **1990**—Subsec. (h). Pub. L. 101–432 added subsec. (h).
 
-**1987**—Subsec. (c)(2). Pub. L. 100–181, §321(1), substituted new par. (2) for former par. (2) which read as follows: “The appropriate regulatory agency for a clearing agency, transfer agent, or municipal securities dealer for which the Commission is not the appropriate regulatory agency shall file with the Commission notice of the commencement of any proceeding and a copy of any order entered by such appropriate regulatory agency against such clearing agency, transfer agent, or municipal securities dealer, and the Commission shall file with such appropriate regulatory agency notice of the commencement of any proceeding and a copy of any order entered by the Commission against such clearing agency, transfer agent, or municipal securities dealer.”
+**1987**—Subsec. (c)(2). Pub. L. 100–181, §321(1), substituted new par. (2) for former par. (2) which read as follows: "The appropriate regulatory agency for a clearing agency, transfer agent, or municipal securities dealer for which the Commission is not the appropriate regulatory agency shall file with the Commission notice of the commencement of any proceeding and a copy of any order entered by such appropriate regulatory agency against such clearing agency, transfer agent, or municipal securities dealer, and the Commission shall file with such appropriate regulatory agency notice of the commencement of any proceeding and a copy of any order entered by the Commission against such clearing agency, transfer agent, or municipal securities dealer."
 
-Subsec. (f)(1)(A). Pub. L. 100–181, §801(b), substituted “securities issued pursuant to chapter 31 of title 31” for “government securities”.
+Subsec. (f)(1)(A). Pub. L. 100–181, §801(b), substituted "securities issued pursuant to chapter 31 of title 31" for "government securities".
 
-Subsec. (f)(2). Pub. L. 100–181, §321(2), inserted at end “Notwithstanding any other provision of law, in providing identification and processing functions, the Attorney General shall provide the Commission and self-regulatory organizations designated by the Commission with access to all criminal history record information.”
+Subsec. (f)(2). Pub. L. 100–181, §321(2), inserted at end "Notwithstanding any other provision of law, in providing identification and processing functions, the Attorney General shall provide the Commission and self-regulatory organizations designated by the Commission with access to all criminal history record information."
 
-Subsec. (f)(3)(A). Pub. L. 100–181, §321(3), substituted “paragraph (1)” for “paragraphs (1) and (2)”.
+Subsec. (f)(3)(A). Pub. L. 100–181, §321(3), substituted "paragraph (1)" for "paragraphs (1) and (2)".
 
 **1986**—Subsec. (c)(4). Pub. L. 99–571, §102(h), added par. (4).
 
-Subsec. (f)(1). Pub. L. 99–571, §102(i)(1), inserted “government securities broker, government securities dealer,” in introductory provisions and in subpar. (A).
+Subsec. (f)(1). Pub. L. 99–571, §102(i)(1), inserted "government securities broker, government securities dealer," in introductory provisions and in subpar. (A).
 
-Subsec. (f)(1)(A). Pub. L. 99–571, §102(i)(2), inserted “and, in the case of government securities, to the Secretary of the Treasury”.
+Subsec. (f)(1)(A). Pub. L. 99–571, §102(i)(2), inserted "and, in the case of government securities, to the Secretary of the Treasury".
 
 Subsec. (f)(3). Pub. L. 99–571, §102(i)(3), designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -266,17 +266,17 @@ Subsec. (f)(3). Pub. L. 99–571, §102(i)(3), designated existing provisions as
 
 Subsecs. (b) to (g). Pub. L. 94–29 added subsecs. (b) to (f) and redesignated former subsec. (b) as (g).
 
-**1938**—Subsec. (a). Act June 25, 1938, inserted “every registered securities association”.
+**1938**—Subsec. (a). Act June 25, 1938, inserted "every registered securities association".
 
-**1936**—Subsec. (a). Act May 27, 1936, substituted “every broker or dealer registered pursuant to section 78o of this title” for “every broker or dealer making or creating a market for both the purchase and sale of securities through the use of the mails or of any means or instrumentality of interstate commerce”.
+**1936**—Subsec. (a). Act May 27, 1936, substituted "every broker or dealer registered pursuant to section 78o of this title" for "every broker or dealer making or creating a market for both the purchase and sale of securities through the use of the mails or of any means or instrumentality of interstate commerce".
 
 #### Effective Date of 2010 Amendment ####
 
 Amendment by sections 929D, 929S, 982(e)(2), and 985(b)(7) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-Pub. L. 111–203, title VI, §617(b), July 21, 2010, 124 Stat. 1616, provided that: “The amendments made by this section [amending this section] shall take effect on the transfer date.”
+Pub. L. 111–203, title VI, §617(b), July 21, 2010, 124 Stat. 1616, provided that: "The amendments made by this section [amending this section] shall take effect on the transfer date."
 
-[For definition of “transfer date” as used in section 617(b) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.]
+[For definition of "transfer date" as used in section 617(b) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.]
 
 Amendment by section 975(h) of Pub. L. 111–203 effective Oct. 1, 2010, see section 975(i) of Pub. L. 111–203, set out as a note under section 78o of this title.
 
@@ -298,12 +298,12 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 [<sup>1</sup> So in original.](#78q_1)
 
-[<sup>2</sup> So in original. Probably should be “consult”.](#78q_2)
+[<sup>2</sup> So in original. Probably should be "consult".](#78q_2)
 
-[<sup>3</sup> So in original. Probably should be preceded by “an”.](#78q_3)
+[<sup>3</sup> So in original. Probably should be preceded by "an".](#78q_3)
 
-[<sup>4</sup> So in original. Probably should be preceded by “a”.](#78q_4)
+[<sup>4</sup> So in original. Probably should be preceded by "a".](#78q_4)
 
-[<sup>5</sup> So in original. Probably should be “an”.](#78q_5)
+[<sup>5</sup> So in original. Probably should be "an".](#78q_5)
 
 [<sup>6</sup> See References in Text note below.](#78q_6)

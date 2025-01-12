@@ -16,6 +16,6 @@ There is Federal jurisdiction over any offense described in this section.
 
 #### Amendments ####
 
-**2007**—Subsec. (b). Pub. L. 109–479 substituted “$200,000” for “$50,000” and “$400,000,” for “$100,000,”.
+**2007**—Subsec. (b). Pub. L. 109–479 substituted "$200,000" for "$50,000" and "$400,000," for "$100,000,".
 
-[<sup>1</sup> So in original. Probably should be “an”.](#773g_1)
+[<sup>1</sup> So in original. Probably should be "an".](#773g_1)

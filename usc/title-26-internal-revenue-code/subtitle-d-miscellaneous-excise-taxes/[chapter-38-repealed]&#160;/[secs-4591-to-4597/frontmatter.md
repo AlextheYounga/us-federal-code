@@ -1,6 +1,6 @@
 ### [§§4591 to 4597. Repealed. Pub. L. 94–455, title XIX, §1904(a)(15), Oct. 4, 1976, 90 Stat. 1814] ###
 
-Sections, comprising subchapter F, “Oleomargarine”, were struck out in the repeal of this chapter by Pub. L. 94–455.
+Sections, comprising subchapter F, "Oleomargarine", were struck out in the repeal of this chapter by Pub. L. 94–455.
 
 Section 4591, act Aug. 16, 1954, ch. 736, 68A Stat. 545, related to imposition of a tax on all oleomargarine imported from foreign countries.
 

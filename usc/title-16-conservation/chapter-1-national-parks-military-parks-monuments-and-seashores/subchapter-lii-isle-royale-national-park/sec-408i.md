@@ -10,4 +10,4 @@ A provision accepting the act of the Michigan Legislature which ceded to the Uni
 
 #### Notice to Michigan of Sections 408i to 408q ####
 
-Act Mar. 6, 1942, ch. 150, §10, 56 Stat. 135, which act affected sections 408i to 408q of this title, provided: “That the Secretary of the Interior shall notify in writing the Governor of the State of Michigan of the passage and approval of this Act, and of the fact that the United States assumes police jurisdiction over said park as specified in said act of the State of Michigan.”
+Act Mar. 6, 1942, ch. 150, §10, 56 Stat. 135, which act affected sections 408i to 408q of this title, provided: "That the Secretary of the Interior shall notify in writing the Governor of the State of Michigan of the passage and approval of this Act, and of the fact that the United States assumes police jurisdiction over said park as specified in said act of the State of Michigan."

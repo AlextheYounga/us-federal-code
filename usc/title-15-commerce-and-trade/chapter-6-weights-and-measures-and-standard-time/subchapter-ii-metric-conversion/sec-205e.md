@@ -16,7 +16,7 @@ It shall be the function of the Board to devise and carry out a broad program of
 
 (7) assist the public through information and education programs, to become familiar with the meaning and applicability of metric terms and measures in daily life. Such programs shall include—
 
-(A) public information programs conducted by the Board, through the use of newspapers, magazines, radio, television, and other media, and through talks before appropriate citizens’ groups, and trade and public organizations;
+(A) public information programs conducted by the Board, through the use of newspapers, magazines, radio, television, and other media, and through talks before appropriate citizens' groups, and trade and public organizations;
 
 (B) counseling and consultation by the Secretary of Education; the Secretary of Labor; the Administrator of the Small Business Administration; and the Director of the National Science Foundation, with educational associations, State and local educational agencies, labor education committees, apprentice training committees, and other interested groups, in order to assure (i) that the metric system of measurement is included in the curriculum of the Nation's educational institutions, and (ii) that teachers and other appropriate personnel are properly trained to teach the metric system of measurement;
 
@@ -36,7 +36,7 @@ It shall be the function of the Board to devise and carry out a broad program of
 
 #### Transfer of Functions ####
 
-“Secretary of Education” substituted for “Secretary of Health, Education, and Welfare” in par. (7)(B) pursuant to sections 301 and 507 of Pub. L. 96–88, which are classified to sections 3441 and 3507 of Title 20, Education.
+"Secretary of Education" substituted for "Secretary of Health, Education, and Welfare" in par. (7)(B) pursuant to sections 301 and 507 of Pub. L. 96–88, which are classified to sections 3441 and 3507 of Title 20, Education.
 
 #### Termination of Reporting Requirements ####
 

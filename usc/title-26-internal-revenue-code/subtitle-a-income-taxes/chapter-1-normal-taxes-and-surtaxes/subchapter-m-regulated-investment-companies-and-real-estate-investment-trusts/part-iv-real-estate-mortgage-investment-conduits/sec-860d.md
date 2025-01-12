@@ -2,7 +2,7 @@
 
 #### (a) General rule ####
 
-For purposes of this title, the terms “real estate mortgage investment conduit” and “REMIC” mean any entity—
+For purposes of this title, the terms "real estate mortgage investment conduit" and "REMIC" mean any entity—
 
 (1) to which an election to be treated as a REMIC applies for the taxable year and all prior taxable years,
 
@@ -54,18 +54,18 @@ then, notwithstanding such terminating event, such entity shall be treated as co
 
 **1990**—Subsec. (a). Pub. L. 101–508 inserted closing parenthesis before period at end.
 
-**1988**—Subsec. (a). Pub. L. 100–647, §1006(t)(19), inserted at end “In the case of a qualified liquidation (as defined in section 860F(a)(4)(A)), paragraph (4) shall not apply during the liquidation period (as defined in section 860F(a)(4)(B).”
+**1988**—Subsec. (a). Pub. L. 100–647, §1006(t)(19), inserted at end "In the case of a qualified liquidation (as defined in section 860F(a)(4)(A)), paragraph (4) shall not apply during the liquidation period (as defined in section 860F(a)(4)(B)."
 
-Subsec. (a)(4). Pub. L. 100–647, §1006(t)(2)(A)(i), substituted “3rd month beginning after” for “4th month ending after”.
+Subsec. (a)(4). Pub. L. 100–647, §1006(t)(2)(A)(i), substituted "3rd month beginning after" for "4th month ending after".
 
-Pub. L. 100–647, §1006(t)(2)(A)(ii), substituted “and at all times thereafter” for “and each quarter ending thereafter”.
+Pub. L. 100–647, §1006(t)(2)(A)(ii), substituted "and at all times thereafter" for "and each quarter ending thereafter".
 
 Subsec. (a)(6). Pub. L. 100–647, §1006(t)(16)(A), added par. (6).
 
 #### Effective Date of 1988 Amendment ####
 
-Pub. L. 100–647, title I, §1006(t)(2)(B), Nov. 10, 1988, 102 Stat. 3419, provided that: “The amendment made by subparagraph (A)(ii) [amending this section] shall take effect on January 1, 1988.”
+Pub. L. 100–647, title I, §1006(t)(2)(B), Nov. 10, 1988, 102 Stat. 3419, provided that: "The amendment made by subparagraph (A)(ii) [amending this section] shall take effect on January 1, 1988."
 
-Pub. L. 100–647, title I, §1006(t)(16)(D)(i), Nov. 10, 1988, 102 Stat. 3425, provided that: “The amendments made by subparagraph (A) [amending this section] shall apply in the case of any REMIC where the start-up day (as defined in section 860G(a)(9) of the 1986 Code, as in effect on the day before the date of the enactment of this Act [Nov. 10, 1988]) is after March 31, 1988; except that such amendments shall not apply in the case of a REMIC formed pursuant to a binding written contract in effect on such date.”
+Pub. L. 100–647, title I, §1006(t)(16)(D)(i), Nov. 10, 1988, 102 Stat. 3425, provided that: "The amendments made by subparagraph (A) [amending this section] shall apply in the case of any REMIC where the start-up day (as defined in section 860G(a)(9) of the 1986 Code, as in effect on the day before the date of the enactment of this Act [Nov. 10, 1988]) is after March 31, 1988; except that such amendments shall not apply in the case of a REMIC formed pursuant to a binding written contract in effect on such date."
 
 Amendment by section 1006(t)(2)(A)(i), (19) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.

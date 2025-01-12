@@ -2,7 +2,7 @@
 
 #### (a) Qualified energy conservation bond ####
 
-For purposes of this subchapter, the term “qualified energy conservation bond” means any bond issued as part of an issue if—
+For purposes of this subchapter, the term "qualified energy conservation bond" means any bond issued as part of an issue if—
 
 (1) 100 percent of the available project proceeds of such issue are to be used for one or more qualified conservation purposes,
 
@@ -40,7 +40,7 @@ The amount allocated under this subsection to a large local government may be re
 
 #### (C) Large local government ####
 
-For purposes of this section, the term “large local government” means any municipality or county if such municipality or county has a population of 100,000 or more.
+For purposes of this section, the term "large local government" means any municipality or county if such municipality or county has a population of 100,000 or more.
 
 #### (3) Allocation to issuers; restriction on private activity bonds ####
 
@@ -56,7 +56,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “qualified conservation purpose” means any of the following:
+The term "qualified conservation purpose" means any of the following:
 
 (A) Capital expenditures incurred for purposes of—
 
@@ -98,7 +98,7 @@ The term “qualified conservation purpose” means any of the following:
 
 #### (2) Special rules for private activity bonds ####
 
-For purposes of this section, in the case of any private activity bond, the term “qualified conservation purposes” shall not include any expenditure which is not a capital expenditure.
+For purposes of this section, in the case of any private activity bond, the term "qualified conservation purposes" shall not include any expenditure which is not a capital expenditure.
 
 #### (g) Population ####
 
@@ -126,11 +126,11 @@ The date of the enactment of this section, referred to in subsec. (g)(1), is the
 
 #### Amendments ####
 
-**2009**—Subsec. (d). Pub. L. 111–5, §1112(a), substituted “$3,200,000,000” for “$800,000,000”.
+**2009**—Subsec. (d). Pub. L. 111–5, §1112(a), substituted "$3,200,000,000" for "$800,000,000".
 
 Subsec. (e)(4). Pub. L. 111–5, §1112(b)(2), added par. (4).
 
-Subsec. (f)(1)(A)(ii). Pub. L. 111–5, §1112(b)(1), inserted “(including the use of loans, grants, or other repayment mechanisms to implement such programs)” after “green community programs”.
+Subsec. (f)(1)(A)(ii). Pub. L. 111–5, §1112(b)(1), inserted "(including the use of loans, grants, or other repayment mechanisms to implement such programs)" after "green community programs".
 
 #### Effective Date ####
 

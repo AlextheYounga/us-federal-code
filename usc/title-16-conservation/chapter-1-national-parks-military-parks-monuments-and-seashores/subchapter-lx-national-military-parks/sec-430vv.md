@@ -4,11 +4,11 @@
 
 #### (1) In general ####
 
-If Monroe County or Wayne County, Michigan, or other willing landowners in either County offer to donate to the United States land relating to the Battles of the River Raisin on January 18 and 22, 1813, or the aftermath of the battles, the Secretary of the Interior (referred to in this section as the “Secretary”) shall accept the donated land.
+If Monroe County or Wayne County, Michigan, or other willing landowners in either County offer to donate to the United States land relating to the Battles of the River Raisin on January 18 and 22, 1813, or the aftermath of the battles, the Secretary of the Interior (referred to in this section as the "Secretary") shall accept the donated land.
 
 #### (2) Designation of Park ####
 
-On the acquisition of land under paragraph (1) that is of sufficient acreage to permit efficient administration, the Secretary shall designate the acquired land as a unit of the National Park System, to be known as the “River Raisin National Battlefield Park” (referred to in this section as the “Park”).
+On the acquisition of land under paragraph (1) that is of sufficient acreage to permit efficient administration, the Secretary shall designate the acquired land as a unit of the National Park System, to be known as the "River Raisin National Battlefield Park" (referred to in this section as the "Park").
 
 #### (3) Legal description ####
 

@@ -16,4 +16,4 @@ Pub. L. 99–401, title II, §207, Aug. 27, 1986, 100 Stat. 909, which provided 
 
 #### Short Title ####
 
-Pub. L. 99–401, title II, §201, Aug. 27, 1986, 100 Stat. 907, as amended by Pub. L. 101–127, §6, Oct. 25, 1989, 103 Stat. 772, which provided that title II of Pub. L. 99–401 be cited as the “Temporary Child Care for Children With Disabilities and Crisis Nurseries Act of 1986”, was repealed by Pub. L. 104–235, title I, §142(a), Oct. 3, 1996, 110 Stat. 3089.
+Pub. L. 99–401, title II, §201, Aug. 27, 1986, 100 Stat. 907, as amended by Pub. L. 101–127, §6, Oct. 25, 1989, 103 Stat. 772, which provided that title II of Pub. L. 99–401 be cited as the "Temporary Child Care for Children With Disabilities and Crisis Nurseries Act of 1986", was repealed by Pub. L. 104–235, title I, §142(a), Oct. 3, 1996, 110 Stat. 3089.

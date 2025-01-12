@@ -44,7 +44,7 @@ The Commission shall reimburse the Government Accountability Office for the full
 
 Such reimbursements shall—
 
-(A) be credited to the appropriation account “Salaries and Expenses, Government Accountability Office” current when the payment is received; and
+(A) be credited to the appropriation account "Salaries and Expenses, Government Accountability Office" current when the payment is received; and
 
 (B) remain available until expended.
 

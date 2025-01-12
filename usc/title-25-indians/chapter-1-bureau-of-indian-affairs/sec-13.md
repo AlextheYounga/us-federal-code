@@ -20,7 +20,7 @@ For the purchase of horse-drawn and motor-propelled passenger-carrying vehicles 
 
 And for general and incidental expenses in connection with the administration of Indian affairs.
 
-Notwithstanding any other provision of this section or any other law, postsecondary schools administered by the Secretary of the Interior for Indians, and which meet the definition of an “institution of higher education” under section 101 of the Higher Education Act of 1965 [20 U.S.C. 1001], shall be eligible to participate in and receive appropriated funds under any program authorized by the Higher Education Act of 1965 [20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.] or any other applicable program for the benefit of institutions of higher education, community colleges, or postsecondary educational institutions.
+Notwithstanding any other provision of this section or any other law, postsecondary schools administered by the Secretary of the Interior for Indians, and which meet the definition of an "institution of higher education" under section 101 of the Higher Education Act of 1965 [20 U.S.C. 1001], shall be eligible to participate in and receive appropriated funds under any program authorized by the Higher Education Act of 1965 [20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.] or any other applicable program for the benefit of institutions of higher education, community colleges, or postsecondary educational institutions.
 
 (Nov. 2, 1921, ch. 115, 42 Stat. 208; Pub. L. 94–482, title IV, §410, Oct. 12, 1976, 90 Stat. 2233; Pub. L. 105–244, title I, §102(a)(8)(A), Oct. 7, 1998, 112 Stat. 1619.)
 
@@ -30,7 +30,7 @@ The Higher Education Act of 1965, referred to in text, is Pub. L. 89–329, Nov.
 
 #### Amendments ####
 
-**1998**—Pub. L. 105–244, which directed substitution of “101” for “1201” in the last paragraph of “section 410 of the Act entitled ‘An Act authorizing appropriations and expenditures for the administration of Indian Affairs, and for other purposes’, approved November 2, 1921 (25 U.S.C. 13) (commonly known as the Snyder Act)”, was executed to last paragraph of this section, which is the act of Nov. 2, 1921, ch. 115, commonly known as the Snyder Act, to reflect the probable intent of Congress. This section was amended by section 410 of Pub. L. 94–482 to add the last paragraph.
+**1998**—Pub. L. 105–244, which directed substitution of "101" for "1201" in the last paragraph of "section 410 of the Act entitled 'An Act authorizing appropriations and expenditures for the administration of Indian Affairs, and for other purposes', approved November 2, 1921 (25 U.S.C. 13) (commonly known as the Snyder Act)", was executed to last paragraph of this section, which is the act of Nov. 2, 1921, ch. 115, commonly known as the Snyder Act, to reflect the probable intent of Congress. This section was amended by section 410 of Pub. L. 94–482 to add the last paragraph.
 
 **1976**—Pub. L. 94–482 inserted provisions relating to postsecondary schools administered by the Secretary of the Interior for Indians.
 
@@ -44,7 +44,7 @@ Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except eith
 
 #### Short Title ####
 
-Act Nov. 2, 1921, which enacted this section, is popularly known as the “Snyder Act”.
+Act Nov. 2, 1921, which enacted this section, is popularly known as the "Snyder Act".
 
 #### Transfer of Functions ####
 
@@ -52,15 +52,15 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Availability of Housing Improvement Program Grant Repayments for Program Obligations ####
 
-Pub. L. 101–121, title I, Oct. 23, 1989, 103 Stat. 714, provided: “That hereafter, notwithstanding any other provision of law, amounts collected from grantees by the Secretary as grant repayments required under the Secretary's regulations for the Housing Improvement Program shall be credited in the year collected and shall be available for obligation under the terms and conditions applicable to the Program under that year's appropriation”.
+Pub. L. 101–121, title I, Oct. 23, 1989, 103 Stat. 714, provided: "That hereafter, notwithstanding any other provision of law, amounts collected from grantees by the Secretary as grant repayments required under the Secretary's regulations for the Housing Improvement Program shall be credited in the year collected and shall be available for obligation under the terms and conditions applicable to the Program under that year's appropriation".
 
 #### Alternative Methods for Equitable Distribution of Supplemental Program Funds; Development, Publication, etc., of Formula ####
 
 Pub. L. 95–561, title XI, §1102, Nov. 1, 1978, 92 Stat. 2316, provided that:
 
-“(a) The Secretary of the Interior shall develop alternative methods for the equitable distribution of any supplement program funds provided, pursuant to an appropriation under the Act of November 2, 1921, commonly referred to as the Snyder Act [this section], for contracting under the Act of April 16, 1934, commonly referred to as the Johnson-O'Malley Act [sections 452 to 457 of this title], and shall publish in the Federal Register by March 1, 1979, such alternatives for the purpose of allowing eligible tribes to comment by May 1, 1979. At that time, the Secretary shall conduct a field survey listing all alternative formula.
+"(a) The Secretary of the Interior shall develop alternative methods for the equitable distribution of any supplement program funds provided, pursuant to an appropriation under the Act of November 2, 1921, commonly referred to as the Snyder Act [this section], for contracting under the Act of April 16, 1934, commonly referred to as the Johnson-O'Malley Act [sections 452 to 457 of this title], and shall publish in the Federal Register by March 1, 1979, such alternatives for the purpose of allowing eligible tribes to comment by May 1, 1979. At that time, the Secretary shall conduct a field survey listing all alternative formula.
 
-“(b) By July 1, 1979, the Secretary shall establish and publish the formula in the Federal Register which the majority of such tribes determine, but vote certified to the Secretary, to be most equitable and shall use such formula for purposes of distribution of the funds appropriated pursuant to such Act beginning on or after October 1, 1979. The Secretary shall, in accordance with procedures consistent with that prescribed herein, revise such formula periodically as necessary”.
+"(b) By July 1, 1979, the Secretary shall establish and publish the formula in the Federal Register which the majority of such tribes determine, but vote certified to the Secretary, to be most equitable and shall use such formula for purposes of distribution of the funds appropriated pursuant to such Act beginning on or after October 1, 1979. The Secretary shall, in accordance with procedures consistent with that prescribed herein, revise such formula periodically as necessary".
 
 #### Payments for Basic Educational Support Grants or Contracts; Authorization; Time ####
 

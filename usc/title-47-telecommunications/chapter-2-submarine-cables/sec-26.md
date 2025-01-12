@@ -6,4 +6,4 @@ For the purpose of carrying into effect the convention described in section 30 o
 
 #### Codification ####
 
-The original enactment of this section did not contain the words, “with respect to requiring exhibition of documents evidencing the nationality of offending vessels and making reports of infractions,” which are inserted in view of the powers conferred on commanders of vessels of war contained in article 10 of the Convention, 24 Stat. 996, set out as a note under section 27 of this title.
+The original enactment of this section did not contain the words, "with respect to requiring exhibition of documents evidencing the nationality of offending vessels and making reports of infractions," which are inserted in view of the powers conferred on commanders of vessels of war contained in article 10 of the Convention, 24 Stat. 996, set out as a note under section 27 of this title.

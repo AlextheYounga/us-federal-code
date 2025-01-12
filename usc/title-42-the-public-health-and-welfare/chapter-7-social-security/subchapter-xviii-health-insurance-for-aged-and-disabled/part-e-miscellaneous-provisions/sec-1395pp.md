@@ -26,7 +26,7 @@ In any case arising under subsection (b) of this section (but without regard to 
 
 Where payment for inpatient hospital services or extended care services may not be made under part A of this subchapter on behalf of an individual entitled to benefits under such part solely because of an unintentional, inadvertent, or erroneous action with respect to the transfer of such individual from a hospital or skilled nursing facility that meets the requirements of section 1395x(e) or (j) of this title by such a provider of services acting in good faith in accordance with the advice of a utilization review committee, quality improvement organization, or fiscal intermediary, or on the basis of a clearly erroneous administrative decision by a provider of services, the Secretary shall take such action with respect to the payment of such benefits as he determines may be necessary to correct the effects of such unintentional, inadvertent, or erroneous action.
 
-#### (f) Presumption with respect to coverage denial; rebuttal; requirements; “fiscal intermediary” defined ####
+#### (f) Presumption with respect to coverage denial; rebuttal; requirements; "fiscal intermediary" defined ####
 
 (1) A home health agency which meets the applicable requirements of paragraphs (3) and (4) shall be presumed to meet the requirement of subsection (a)(2) of this section.
 
@@ -46,7 +46,7 @@ Where payment for inpatient hospital services or extended care services may not 
 
 (B) For purposes of determining the rate of denial of bills for a home health agency under subparagraph (A), a bill shall not be considered to be denied until the expiration of the 60-day period that begins on the date such bill is denied by the fiscal intermediary, or, with respect to such a denial for which the agency requests reconsideration, until the fiscal intermediary issues a decision denying payment for such bill.
 
-(5) In this subsection, the term “fiscal intermediary” means, with respect to a home health agency, an agency or organization with an agreement under section 1395h of this title with respect to the agency.
+(5) In this subsection, the term "fiscal intermediary" means, with respect to a home health agency, an agency or organization with an agreement under section 1395h of this title with respect to the agency.
 
 (6) The Secretary shall monitor the proportion of denied bills submitted by home health agencies for which reconsideration is requested, and shall notify Congress if the proportion of denials reversed upon reconsideration increases significantly.
 
@@ -78,33 +78,33 @@ any expenses incurred for items and services furnished to an individual by such 
 
 #### Amendments ####
 
-**2011**—Subsec. (a). Pub. L. 112–40, §261(a)(3)(A), substituted “quality improvement” for “utilization and quality control peer review” in concluding provisions.
+**2011**—Subsec. (a). Pub. L. 112–40, §261(a)(3)(A), substituted "quality improvement" for "utilization and quality control peer review" in concluding provisions.
 
-Subsec. (e). Pub. L. 112–40, §261(a)(3)(B), substituted “quality improvement” for “quality control and peer review”.
+Subsec. (e). Pub. L. 112–40, §261(a)(3)(B), substituted "quality improvement" for "quality control and peer review".
 
-**1997**—Subsec. (g). Pub. L. 105–33 substituted “subsection is—” for “subsection is,”, redesignated remaining text as par. (1) and former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, substituted “; and” for period at end, and added par. (2).
+**1997**—Subsec. (g). Pub. L. 105–33 substituted "subsection is—" for "subsection is,", redesignated remaining text as par. (1) and former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, substituted "; and" for period at end, and added par. (2).
 
 **1994**—Subsec. (h). Pub. L. 103–432 added subsec. (h).
 
-**1989**—Subsec. (f)(1). Pub. L. 101–239, §6214(a)(1), struck out “with respect to any coverage denial described in subsection (g) of this section” before period at end.
+**1989**—Subsec. (f)(1). Pub. L. 101–239, §6214(a)(1), struck out "with respect to any coverage denial described in subsection (g) of this section" before period at end.
 
 Subsec. (f)(4). Pub. L. 101–239, §6214(a)(2), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (f)(6). Pub. L. 101–239, §6214(b), added par. (6).
 
-**1987**—Subsec. (b). Pub. L. 100–203 struck out “, subject to the deductible and coinsurance provisions of this subchapter,” after “(referred to in such paragraphs)” and inserted at end “No item or service for which an individual is indemnified under this subsection shall be taken into account in applying any limitation on the amount of items and services for which payment may be made to or on behalf of the individual under this subchapter.”
+**1987**—Subsec. (b). Pub. L. 100–203 struck out ", subject to the deductible and coinsurance provisions of this subchapter," after "(referred to in such paragraphs)" and inserted at end "No item or service for which an individual is indemnified under this subsection shall be taken into account in applying any limitation on the amount of items and services for which payment may be made to or on behalf of the individual under this subchapter."
 
-**1986**—Subsec. (a). Pub. L. 99–509, §9305(g)(1)(A)–(C), inserted in par. (1) “or by reason of a coverage denial described in subsection (g) of this section”, and in concluding provisions inserted “and as though the coverage denial described in subsection (g) of this section had not occurred” and “or by reason of a coverage denial described in subsection (g) of this section”.
+**1986**—Subsec. (a). Pub. L. 99–509, §9305(g)(1)(A)–(C), inserted in par. (1) "or by reason of a coverage denial described in subsection (g) of this section", and in concluding provisions inserted "and as though the coverage denial described in subsection (g) of this section had not occurred" and "or by reason of a coverage denial described in subsection (g) of this section".
 
-Subsec. (c). Pub. L. 99–509, §9305(g)(1)(D), inserted “or by reason of a coverage denial described in subsection (g) of this section”.
+Subsec. (c). Pub. L. 99–509, §9305(g)(1)(D), inserted "or by reason of a coverage denial described in subsection (g) of this section".
 
-Subsec. (d). Pub. L. 99–509, §9341(a)(3), substituted “sections 1395ff(b) and 1395u(b)(3)(C) of this title (as may be applicable)” for “section 1395ff(b) of this title (when the determination is under part A) or section 1395u(b)(3)(C) of this title (when the determination is under part B)”.
+Subsec. (d). Pub. L. 99–509, §9341(a)(3), substituted "sections 1395ff(b) and 1395u(b)(3)(C) of this title (as may be applicable)" for "section 1395ff(b) of this title (when the determination is under part A) or section 1395u(b)(3)(C) of this title (when the determination is under part B)".
 
 Subsecs. (f), (g). Pub. L. 99–509, §9305(g)(1)(E), added subsecs. (f) and (g).
 
 **1982**—Subsec. (a). Pub. L. 97–248, §145, inserted provisions relating to imputing knowledge to provider or other person furnishing items or services for which payment may not be made that payment may not be made if the provider or other person has been notified that a pattern of inappropriate utilization has occurred in the past and there has been a reasonable time for correction of such utilization.
 
-Subsec. (e). Pub. L. 97–248, §148(e), substituted “quality control and peer review organization” for “professional standards review organization”.
+Subsec. (e). Pub. L. 97–248, §148(e), substituted "quality control and peer review organization" for "professional standards review organization".
 
 **1980**—Subsec. (e). Pub. L. 96–499 added subsec. (e).
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 103–432 applicable to items or services furnished on or a
 
 #### Effective Date of 1989 Amendment ####
 
-Pub. L. 101–239, title VI, §6214(c), Dec. 19, 1989, 103 Stat. 2252, provided that: “The amendments made by subsection (a) [amending this section] shall apply to determinations for quarters beginning on or after the date of the enactment of this Act [Dec. 19, 1989].”
+Pub. L. 101–239, title VI, §6214(c), Dec. 19, 1989, 103 Stat. 2252, provided that: "The amendments made by subsection (a) [amending this section] shall apply to determinations for quarters beginning on or after the date of the enactment of this Act [Dec. 19, 1989]."
 
 #### Effective Date of 1987 Amendment ####
 
@@ -130,7 +130,7 @@ Amendment by Pub. L. 100–203 applicable to services furnished on or after Jan.
 
 #### Effective Date of 1986 Amendment ####
 
-Pub. L. 99–509, title IX, §9305(g)(3), Oct. 21, 1986, 100 Stat. 1993, as amended by Pub. L. 100–360, title IV, §426(c), July 1, 1988, 102 Stat. 814; Pub. L. 101–508, title IV, §4207(b)(3), formerly §4027(b)(3), Nov. 5, 1990, 104 Stat. 1388–118, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “The amendments made by paragraph (1) [amending this section] shall apply to coverage denials occurring on or after July 1, 1987, and before December 31, 1995.”
+Pub. L. 99–509, title IX, §9305(g)(3), Oct. 21, 1986, 100 Stat. 1993, as amended by Pub. L. 100–360, title IV, §426(c), July 1, 1988, 102 Stat. 814; Pub. L. 101–508, title IV, §4207(b)(3), formerly §4027(b)(3), Nov. 5, 1990, 104 Stat. 1388–118, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: "The amendments made by paragraph (1) [amending this section] shall apply to coverage denials occurring on or after July 1, 1987, and before December 31, 1995."
 
 Amendment by section 9341(a)(3) of Pub. L. 99–509 applicable to items and services furnished on or after Jan. 1, 1987, see section 9341(b) of Pub. L. 99–509, set out as a note under section 1395ff of this title.
 
@@ -140,41 +140,41 @@ Amendment by Pub. L. 97–248 effective with respect to contracts entered into o
 
 #### Effective Date of 1980 Amendment ####
 
-Pub. L. 96–499, title IX, §956(b), Dec. 5, 1980, 94 Stat. 2648, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 1981.”
+Pub. L. 96–499, title IX, §956(b), Dec. 5, 1980, 94 Stat. 2648, provided that: "The amendment made by subsection (a) [amending this section] shall take effect on January 1, 1981."
 
 #### Effective Date ####
 
-Pub. L. 92–603, title II, §213(b), Oct. 30, 1972, 86 Stat. 1386, provided that: “The amendments made by this section [enacting this section] shall be effective with respect to claims under part A or part B of title XVIII of the Social Security Act [42 U.S.C. 1395c et seq., 1395j et seq.], filed with respect to items or services furnished after the date of the enactment of this Act [Oct. 30, 1972].”
+Pub. L. 92–603, title II, §213(b), Oct. 30, 1972, 86 Stat. 1386, provided that: "The amendments made by this section [enacting this section] shall be effective with respect to claims under part A or part B of title XVIII of the Social Security Act [42 U.S.C. 1395c et seq., 1395j et seq.], filed with respect to items or services furnished after the date of the enactment of this Act [Oct. 30, 1972]."
 
 #### Provisions Relating to Advance Beneficiary Notices; Report on Prior Determination Process ####
 
 Pub. L. 108–173, title IX, §938(c), Dec. 8, 2003, 117 Stat. 2415, provided that:
 
-“(1) Data collection.—The Secretary [of Health and Human Services] shall establish a process for the collection of information on the instances in which an advance beneficiary notice (as defined in paragraph (5)) has been provided and on instances in which a beneficiary indicates on such a notice that the beneficiary does not intend to seek to have the item or service that is the subject of the notice furnished.
+"(1) Data collection.—The Secretary [of Health and Human Services] shall establish a process for the collection of information on the instances in which an advance beneficiary notice (as defined in paragraph (5)) has been provided and on instances in which a beneficiary indicates on such a notice that the beneficiary does not intend to seek to have the item or service that is the subject of the notice furnished.
 
-“(2) Outreach and education.—The Secretary shall establish a program of outreach and education for beneficiaries and providers of services and other persons on the appropriate use of advance beneficiary notices and coverage policies under the medicare program.
+"(2) Outreach and education.—The Secretary shall establish a program of outreach and education for beneficiaries and providers of services and other persons on the appropriate use of advance beneficiary notices and coverage policies under the medicare program.
 
-“(3) GAO report on use of advance beneficiary notices.—Not later than 18 months after the date on which section 1869(h) of the Social Security Act [42 U.S.C. 1395ff(h)] (as added by subsection (a)) takes effect, the Comptroller General of the United States shall submit to Congress a report on the use of advance beneficiary notices under title XVIII of such Act [42 U.S.C. 1395 et seq.]. Such report shall include information concerning the providers of services and other persons that have provided such notices and the response of beneficiaries to such notices.
+"(3) GAO report on use of advance beneficiary notices.—Not later than 18 months after the date on which section 1869(h) of the Social Security Act [42 U.S.C. 1395ff(h)] (as added by subsection (a)) takes effect, the Comptroller General of the United States shall submit to Congress a report on the use of advance beneficiary notices under title XVIII of such Act [42 U.S.C. 1395 et seq.]. Such report shall include information concerning the providers of services and other persons that have provided such notices and the response of beneficiaries to such notices.
 
-“(4) GAO report on use of prior determination process.—Not later than 36 months after the date on which section 1869(h) of the Social Security Act [42 U.S.C. 1395ff(h)] (as added by subsection (a)) takes effect, the Comptroller General of the United States shall submit to Congress a report on the use of the prior determination process under such section. Such report shall include—
+"(4) GAO report on use of prior determination process.—Not later than 36 months after the date on which section 1869(h) of the Social Security Act [42 U.S.C. 1395ff(h)] (as added by subsection (a)) takes effect, the Comptroller General of the United States shall submit to Congress a report on the use of the prior determination process under such section. Such report shall include—
 
-“(A) information concerning—
+"(A) information concerning—
 
-“(i) the number and types of procedures for which a prior determination has been sought;
+"(i) the number and types of procedures for which a prior determination has been sought;
 
-“(ii) determinations made under the process;
+"(ii) determinations made under the process;
 
-“(iii) the percentage of beneficiaries prevailing;
+"(iii) the percentage of beneficiaries prevailing;
 
-“(iv) in those cases in which the beneficiaries do not prevail, the reasons why such beneficiaries did not prevail; and
+"(iv) in those cases in which the beneficiaries do not prevail, the reasons why such beneficiaries did not prevail; and
 
-“(v) changes in receipt of services resulting from the application of such process;
+"(v) changes in receipt of services resulting from the application of such process;
 
-“(B) an evaluation of whether the process was useful for physicians (and other suppliers) and beneficiaries, whether it was timely, and whether the amount of information required was burdensome to physicians and beneficiaries; and
+"(B) an evaluation of whether the process was useful for physicians (and other suppliers) and beneficiaries, whether it was timely, and whether the amount of information required was burdensome to physicians and beneficiaries; and
 
-“(C) recommendations for improvements or continuation of such process.
+"(C) recommendations for improvements or continuation of such process.
 
-“(5) Advance beneficiary notice defined.—In this subsection, the term ‘advance beneficiary notice’ means a written notice provided under section 1879(a) of the Social Security Act (42 U.S.C. 1395pp(a)) to an individual entitled to benefits under part A or enrolled under part B of title XVIII of such Act [42 U.S.C. 1395c et seq., 1395j et seq.] before items or services are furnished under such part in cases where a provider of services or other person that would furnish the item or service believes that payment will not be made for some or all of such items or services under such title [42 U.S.C. 1395 et seq.].”
+"(5) Advance beneficiary notice defined.—In this subsection, the term 'advance beneficiary notice' means a written notice provided under section 1879(a) of the Social Security Act (42 U.S.C. 1395pp(a)) to an individual entitled to benefits under part A or enrolled under part B of title XVIII of such Act [42 U.S.C. 1395c et seq., 1395j et seq.] before items or services are furnished under such part in cases where a provider of services or other person that would furnish the item or service believes that payment will not be made for some or all of such items or services under such title [42 U.S.C. 1395 et seq.]."
 
 #### Reports to Congress on Denials of Bills for Payment ####
 

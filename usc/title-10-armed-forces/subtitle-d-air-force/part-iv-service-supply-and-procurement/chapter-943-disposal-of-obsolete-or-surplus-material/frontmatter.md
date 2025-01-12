@@ -8,6 +8,6 @@ Sec.
 
 9684. Surplus obsolete ordnance: sale to patriotic organizations.
 
-9685. Obsolete ordnance: loan to educational institutions and State soldiers’ and sailors’ orphans’ homes.
+9685. Obsolete ordnance: loan to educational institutions and State soldiers' and sailors' orphans' homes.
 
 9686. Obsolete ordnance: gift to State homes for soldiers and sailors.

@@ -2,7 +2,7 @@
 
 #### (a) Designation; administration; continuance of resources-management-programs for refuge lands in Alaska; disposal of acquired lands; proceeds ####
 
-(1) For the purpose of consolidating the authorities relating to the various categories of areas that are administered by the Secretary for the conservation of fish and wildlife, including species that are threatened with extinction, all lands, waters, and interests therein administered by the Secretary as wildlife refuges, areas for the protection and conservation of fish and wildlife that are threatened with extinction, wildlife ranges, game ranges, wildlife management areas, or waterfowl production areas are hereby designated as the “National Wildlife Refuge System” (referred to herein as the “System”), which shall be subject to the provisions of this section, and shall be administered by the Secretary through the United States Fish and Wildlife Service. With respect to refuge lands in the State of Alaska, those programs relating to the management of resources for which any other agency of the Federal Government exercises administrative responsibility through cooperative agreement shall remain in effect, subject to the direct supervision of the United States Fish and Wildlife Service, as long as such agency agrees to exercise such responsibility.
+(1) For the purpose of consolidating the authorities relating to the various categories of areas that are administered by the Secretary for the conservation of fish and wildlife, including species that are threatened with extinction, all lands, waters, and interests therein administered by the Secretary as wildlife refuges, areas for the protection and conservation of fish and wildlife that are threatened with extinction, wildlife ranges, game ranges, wildlife management areas, or waterfowl production areas are hereby designated as the "National Wildlife Refuge System" (referred to herein as the "System"), which shall be subject to the provisions of this section, and shall be administered by the Secretary through the United States Fish and Wildlife Service. With respect to refuge lands in the State of Alaska, those programs relating to the management of resources for which any other agency of the Federal Government exercises administrative responsibility through cooperative agreement shall remain in effect, subject to the direct supervision of the United States Fish and Wildlife Service, as long as such agency agrees to exercise such responsibility.
 
 (2) The mission of the System is to administer a national network of lands and waters for the conservation, management, and where appropriate, restoration of the fish, wildlife, and plant resources and their habitats within the United States for the benefit of present and future generations of Americans.
 
@@ -138,7 +138,7 @@ No person shall disturb, injure, cut, burn, remove, destroy, or possess any real
 
 (1)(A) Except with respect to refuge lands in Alaska (which shall be governed by the refuge planning provisions of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3101 et seq.)), the Secretary shall—
 
-(i) propose a comprehensive conservation plan for each refuge or related complex of refuges (referred to in this subsection as a “planning unit”) in the System;
+(i) propose a comprehensive conservation plan for each refuge or related complex of refuges (referred to in this subsection as a "planning unit") in the System;
 
 (ii) publish a notice of opportunity for public comment in the Federal Register on each proposed conservation plan;
 
@@ -250,15 +250,15 @@ The Federal Advisory Committee Act, referred to in subsec. (o), is Pub. L. 92–
 
 #### Amendments ####
 
-**1998**—Subsec. (c). Pub. L. 105–312, §206(1), struck out “knowingly” after “No person shall” in first sentence.
+**1998**—Subsec. (c). Pub. L. 105–312, §206(1), struck out "knowingly" after "No person shall" in first sentence.
 
-Subsec. (f). Pub. L. 105–312, §206(2), inserted subsec. heading, par. (1) designation and heading, and “knowingly” after “Any person who”, and added par. (2).
+Subsec. (f). Pub. L. 105–312, §206(2), inserted subsec. heading, par. (1) designation and heading, and "knowingly" after "Any person who", and added par. (2).
 
-**1997**—Subsec. (a)(1). Pub. L. 105–57, §3(b), substituted “Secretary” for “Secretary of the Interior” before “for the conservation of fish and wildlife”.
+**1997**—Subsec. (a)(1). Pub. L. 105–57, §3(b), substituted "Secretary" for "Secretary of the Interior" before "for the conservation of fish and wildlife".
 
 Subsec. (a)(2). Pub. L. 105–57, §4(1), (3), added par. (2) and redesignated former par. (2) as (5).
 
-Subsec. (a)(2)(A). Pub. L. 105–57, §3(b), substituted “Secretary” for “Secretary of the Interior” before “determines with the approval”.
+Subsec. (a)(2)(A). Pub. L. 105–57, §3(b), substituted "Secretary" for "Secretary of the Interior" before "determines with the approval".
 
 Subsec. (a)(3). Pub. L. 105–57, §§4(1), 5(a), added par. (3) and redesignated former par. (3) as (6).
 
@@ -268,21 +268,21 @@ Subsec. (a)(5). Pub. L. 105–57, §4(1), redesignated par. (2) as (5).
 
 Subsec. (a)(6). Pub. L. 105–57, §4(1), redesignated par. (3) as (6).
 
-Subsec. (a)(6)(i). Pub. L. 105–57, §4(2), substituted “paragraph (5)” for “paragraph (2)”.
+Subsec. (a)(6)(i). Pub. L. 105–57, §4(2), substituted "paragraph (5)" for "paragraph (2)".
 
-Subsec. (b). Pub. L. 105–57, §5(b)(1), substituted “authorized to take the following actions:” for “authorized—” in introductory provisions.
+Subsec. (b). Pub. L. 105–57, §5(b)(1), substituted "authorized to take the following actions:" for "authorized—" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 105–57, §5(b)(2), substituted “Enter” for “to enter”.
+Subsec. (b)(1). Pub. L. 105–57, §5(b)(2), substituted "Enter" for "to enter".
 
-Subsec. (b)(2). Pub. L. 105–57, §5(b)(3), substituted “Accept” for “to accept” and substituted a period for “, and” at end.
+Subsec. (b)(2). Pub. L. 105–57, §5(b)(3), substituted "Accept" for "to accept" and substituted a period for ", and" at end.
 
-Subsec. (b)(3). Pub. L. 105–57, §5(b)(4), substituted “Acquire” for “to acquire”.
+Subsec. (b)(3). Pub. L. 105–57, §5(b)(4), substituted "Acquire" for "to acquire".
 
 Subsec. (b)(4), (5). Pub. L. 105–57, §5(b)(5), added pars. (4) and (5).
 
-Subsec. (c). Pub. L. 105–57, §8(b), struck out at end “The provisions of this Act shall not be construed as affecting the authority, jurisdiction, or responsibility of the several States to manage, control, or regulate fish and resident wildlife under State law or regulations in any area within the System.”
+Subsec. (c). Pub. L. 105–57, §8(b), struck out at end "The provisions of this Act shall not be construed as affecting the authority, jurisdiction, or responsibility of the several States to manage, control, or regulate fish and resident wildlife under State law or regulations in any area within the System."
 
-Subsec. (d)(2). Pub. L. 105–57, §3(b), substituted “Secretary” for “Secretary of the Interior” before “may not grant to any Federal” and before “pursuant to this paragraph”.
+Subsec. (d)(2). Pub. L. 105–57, §3(b), substituted "Secretary" for "Secretary of the Interior" before "may not grant to any Federal" and before "pursuant to this paragraph".
 
 Subsec. (d)(3), (4). Pub. L. 105–57, §6, added pars. (3) and (4).
 
@@ -290,39 +290,39 @@ Subsec. (e). Pub. L. 105–57, §7(a), added subsec. (e) and redesignated former
 
 Subsec. (f). Pub. L. 105–57, §7(a)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Pub. L. 105–57, §3(b), substituted “Secretary” for “Secretary of the Interior” before “to enforce the provisions”.
+Pub. L. 105–57, §3(b), substituted "Secretary" for "Secretary of the Interior" before "to enforce the provisions".
 
 Subsec. (g). Pub. L. 105–57, §7(a)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
 Subsec. (h). Pub. L. 105–57, §7(a)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-Pub. L. 105–57, §3(b), substituted “Secretary” for “Secretary of the Interior”.
+Pub. L. 105–57, §3(b), substituted "Secretary" for "Secretary of the Interior".
 
 Subsecs. (i), (j). Pub. L. 105–57, §7(a)(1), redesignated subsecs. (h) and (i) as (i) and (j), respectively.
 
 Subsecs. (k) to (o). Pub. L. 105–57, §8(a), added subsecs. (k) to (o).
 
-**1988**—Subsec. (e). Pub. L. 100–653 substituted “thereunder shall be fined under title 18 or imprisoned for not more than 1 year, or both” for “thereunder shall be fined not more than $500 or be imprisoned not more than six months, or both”.
+**1988**—Subsec. (e). Pub. L. 100–653 substituted "thereunder shall be fined under title 18 or imprisoned for not more than 1 year, or both" for "thereunder shall be fined not more than $500 or be imprisoned not more than six months, or both".
 
-**1987**—Subsec. (f). Pub. L. 100–226 inserted at end “The Director of the United States Fish and Wildlife Service is authorized to utilize by agreement, with or without reimbursement, the personnel and services of any other Federal or State agency for purposes of enhancing the enforcement of this Act.”
+**1987**—Subsec. (f). Pub. L. 100–226 inserted at end "The Director of the United States Fish and Wildlife Service is authorized to utilize by agreement, with or without reimbursement, the personnel and services of any other Federal or State agency for purposes of enhancing the enforcement of this Act."
 
 **1978**—Subsec. (d)(1)(A). Pub. L. 95–616, §6, authorized the Secretary to find that the taking of any species of migratory birds in more than 40 percent of the area would be beneficial to the species.
 
-Subsec. (f). Pub. L. 95–616, §3(f), substituted “disposed of by the Secretary, in accordance with law” for “disposed of by the court”.
+Subsec. (f). Pub. L. 95–616, §3(f), substituted "disposed of by the Secretary, in accordance with law" for "disposed of by the court".
 
-**1976**—Subsec. (a). Pub. L. 94–223 designated existing first sentence as par. (1), provided for administration of the System by the Secretary of the Interior through the United States Fish and Wildlife Service and inserted provision respecting continuance of programs relating to management of resources in refuge lands in Alaska, subject to direct supervision of the United States Fish and Wildlife Service; struck out second sentence providing that “Nothing in this Act shall restrict the authority of the Secretary to modify or revoke public land withdrawals affecting lands in the System as presently constituted, or as it may be constituted, whenever he determines that such action is consistent with the public interest.”; designated existing third sentence as par. (2), redesignated as subpars. (A) and (B) former clauses (1) and (2), redesignated as subpar. (B)(i) and (ii) former cl. (2)(A) and (B), substituted in subpar. (A) “with the approval of” for “after consultation with”, inserted in subpar. (B)(i) “or fair market value, whichever is greater;” and reenacted as second sentence of par. (2) former last sentence of subsec. (a); and added par. (3).
+**1976**—Subsec. (a). Pub. L. 94–223 designated existing first sentence as par. (1), provided for administration of the System by the Secretary of the Interior through the United States Fish and Wildlife Service and inserted provision respecting continuance of programs relating to management of resources in refuge lands in Alaska, subject to direct supervision of the United States Fish and Wildlife Service; struck out second sentence providing that "Nothing in this Act shall restrict the authority of the Secretary to modify or revoke public land withdrawals affecting lands in the System as presently constituted, or as it may be constituted, whenever he determines that such action is consistent with the public interest."; designated existing third sentence as par. (2), redesignated as subpars. (A) and (B) former clauses (1) and (2), redesignated as subpar. (B)(i) and (ii) former cl. (2)(A) and (B), substituted in subpar. (A) "with the approval of" for "after consultation with", inserted in subpar. (B)(i) "or fair market value, whichever is greater;" and reenacted as second sentence of par. (2) former last sentence of subsec. (a); and added par. (3).
 
-Subsec. (b)(3). Pub. L. 94–215 substituted designations “(A)” and “(B)” for “(a)” and “(b)”, inserted in cl. (A) “, or for interests in acquired or public lands,” before “under his jurisdiction” and substituted in cl. (B) “he may prescribe” for “the Secretary may prescribe”.
+Subsec. (b)(3). Pub. L. 94–215 substituted designations "(A)" and "(B)" for "(a)" and "(b)", inserted in cl. (A) ", or for interests in acquired or public lands," before "under his jurisdiction" and substituted in cl. (B) "he may prescribe" for "the Secretary may prescribe".
 
 **1974**—Subsec. (d). Pub. L. 93–509 designated existing provisions as par. (1)(A) and (B) and added par. (2).
 
-**1973**—Subsec. (c). Pub. L. 93–205 inserted “With the exception of endangered species and threatened species listed by the Secretary pursuant to section 1533 of this title in States wherein a cooperative agreement does not exist pursuant to section 1535(c) of this title” before “nothing in this Act shall be construed” and struck out “, including endangered species thereof,” before “on lands not within the System” in second sentence.
+**1973**—Subsec. (c). Pub. L. 93–205 inserted "With the exception of endangered species and threatened species listed by the Secretary pursuant to section 1533 of this title in States wherein a cooperative agreement does not exist pursuant to section 1535(c) of this title" before "nothing in this Act shall be construed" and struck out ", including endangered species thereof," before "on lands not within the System" in second sentence.
 
 **1968**—Subsec. (a). Pub. L. 90–404 inserted provisions that no acquired lands which are or become a part of the National Wildlife Refuge System may be transferred or otherwise disposed of except under the specified conditions, and provisions that the Secretary pay into the migratory bird conservation fund the proceeds of any such transfer or disposal.
 
 #### Effective Date of 1974 Amendment ####
 
-Pub. L. 93–509, §3, Dec. 3, 1974, 88 Stat. 1603, provided that: “Section 4 (d)(2) of the Act of October 15, 1966 (as added by this Act) [subsec. (d)(2) of this section], shall apply with respect to any right-of-way, easement, or reservation granted by the Secretary of the Interior on or after the date of the enactment of this Act [Dec. 3, 1974], including any right-of-way, easement, or reservation granted on or after such date in connection with any use permitted by him pursuant to section 4(d)(2) of the Act of October 15, 1966 [now subsec. (d)(1)(B) of this section] (as in effect before the date of the enactment of this Act).”
+Pub. L. 93–509, §3, Dec. 3, 1974, 88 Stat. 1603, provided that: "Section 4 (d)(2) of the Act of October 15, 1966 (as added by this Act) [subsec. (d)(2) of this section], shall apply with respect to any right-of-way, easement, or reservation granted by the Secretary of the Interior on or after the date of the enactment of this Act [Dec. 3, 1974], including any right-of-way, easement, or reservation granted on or after such date in connection with any use permitted by him pursuant to section 4(d)(2) of the Act of October 15, 1966 [now subsec. (d)(1)(B) of this section] (as in effect before the date of the enactment of this Act)."
 
 #### Effective Date of 1973 Amendment ####
 
@@ -330,23 +330,23 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 
 #### Effective Date of 1968 Amendment ####
 
-Pub. L. 90–404, §2, July 18, 1968, 82 Stat. 359, provided that: “The amendments made by the first section of this Act [amending subsec. (a) of this section] shall apply only with respect to transfers and disposals of land initiated and completed after the date of their enactment [July 18, 1968].”
+Pub. L. 90–404, §2, July 18, 1968, 82 Stat. 359, provided that: "The amendments made by the first section of this Act [amending subsec. (a) of this section] shall apply only with respect to transfers and disposals of land initiated and completed after the date of their enactment [July 18, 1968]."
 
 #### Short Title of 1998 Amendment ####
 
-Pub. L. 105–312, title II, §201, Oct. 30, 1998, 112 Stat. 2957, provided that: “This title [amending this section, sections 721 and 722 of this title, and section 564w–1 of Title 25, Indians, enacting provisions set out as a note under section 722 of this title, and amending provisions listed in a table of National Wildlife Refuges set out under this section] may be cited as the ‘National Wildlife Refuge System Improvement Act of 1998’.”
+Pub. L. 105–312, title II, §201, Oct. 30, 1998, 112 Stat. 2957, provided that: "This title [amending this section, sections 721 and 722 of this title, and section 564w–1 of Title 25, Indians, enacting provisions set out as a note under section 722 of this title, and amending provisions listed in a table of National Wildlife Refuges set out under this section] may be cited as the 'National Wildlife Refuge System Improvement Act of 1998'."
 
 #### Short Title of 1997 Amendment ####
 
-Pub. L. 105–57, §1(a), Oct. 9, 1997, 111 Stat. 1252, provided that: “This Act [amending this section and section 668ee of this title and enacting provisions set out as notes under this section] may be cited as the ‘National Wildlife Refuge System Improvement Act of 1997’.”
+Pub. L. 105–57, §1(a), Oct. 9, 1997, 111 Stat. 1252, provided that: "This Act [amending this section and section 668ee of this title and enacting provisions set out as notes under this section] may be cited as the 'National Wildlife Refuge System Improvement Act of 1997'."
 
 #### Short Title of 1974 Amendment ####
 
-Pub. L. 93–509, §1, Dec. 3, 1974, 88 Stat. 1603, provided: “That this Act [amending this section and section 715s of this title, and enacting provisions set out as notes under this section] may be cited as the ‘National Wildlife Refuge System Administration Act Amendments of 1974’.”
+Pub. L. 93–509, §1, Dec. 3, 1974, 88 Stat. 1603, provided: "That this Act [amending this section and section 715s of this title, and enacting provisions set out as notes under this section] may be cited as the 'National Wildlife Refuge System Administration Act Amendments of 1974'."
 
 #### Short Title ####
 
-Pub. L. 91–135, §12(f), Dec. 5, 1969, 83 Stat. 283, provided that: “The provisions of sections 4 and 5 of the Act of October 15, 1966 (80 Stat. 929; 16 U.S.C. 668dd–668ee), as amended, shall hereinafter be cited as the ‘National Wildlife Refuge System Administration Act of 1966’.”
+Pub. L. 91–135, §12(f), Dec. 5, 1969, 83 Stat. 283, provided that: "The provisions of sections 4 and 5 of the Act of October 15, 1966 (80 Stat. 929; 16 U.S.C. 668dd–668ee), as amended, shall hereinafter be cited as the 'National Wildlife Refuge System Administration Act of 1966'."
 
 #### Transfer of Functions ####
 
@@ -356,253 +356,253 @@ Enforcement functions of Secretary or other official in Department of the Interi
 
 Pub. L. 106–408, title III, Nov. 1, 2000, 114 Stat. 1782, provided that:
 
-#### “SEC. 301. SHORT TITLE. ####
+#### "SEC. 301. SHORT TITLE. ####
 
-“This title may be cited as the ‘National Wildlife Refuge System Centennial Act’.
+"This title may be cited as the 'National Wildlife Refuge System Centennial Act'.
 
-#### “SEC. 302. FINDINGS AND PURPOSES. ####
+#### "SEC. 302. FINDINGS AND PURPOSES. ####
 
-“(a) Findings.—Congress finds that—
+"(a) Findings.—Congress finds that—
 
-“(1) President Theodore Roosevelt began the National Wildlife Refuge System by establishing the first refuge at Pelican Island, Florida, on March 14, 1903;
+"(1) President Theodore Roosevelt began the National Wildlife Refuge System by establishing the first refuge at Pelican Island, Florida, on March 14, 1903;
 
-“(2) the National Wildlife Refuge System is comprised of more than 93,000,000 acres of Federal land managed by the United States Fish and Wildlife Service in more than 532 individual refuges and thousands of waterfowl production areas located in all 50 States and the territories of the United States;
+"(2) the National Wildlife Refuge System is comprised of more than 93,000,000 acres of Federal land managed by the United States Fish and Wildlife Service in more than 532 individual refuges and thousands of waterfowl production areas located in all 50 States and the territories of the United States;
 
-“(3) the System is the only network of Federal land dedicated singularly to wildlife conservation and where wildlife-dependent recreation and environmental education are priority public uses;
+"(3) the System is the only network of Federal land dedicated singularly to wildlife conservation and where wildlife-dependent recreation and environmental education are priority public uses;
 
-“(4) the System serves a vital role in the conservation of millions of migratory birds, dozens of endangered species and threatened species, some of the premier fisheries of the United States, marine mammals, and the habitats on which such species of fish and wildlife depend;
+"(4) the System serves a vital role in the conservation of millions of migratory birds, dozens of endangered species and threatened species, some of the premier fisheries of the United States, marine mammals, and the habitats on which such species of fish and wildlife depend;
 
-“(5) each year the System provides millions of Americans with opportunities to participate in wildlife-dependent recreation, including hunting, fishing, and wildlife observation;
+"(5) each year the System provides millions of Americans with opportunities to participate in wildlife-dependent recreation, including hunting, fishing, and wildlife observation;
 
-“(6)(A) public visitation to national wildlife refuges is growing, with more than 35,000,000 visitors annually; and
+"(6)(A) public visitation to national wildlife refuges is growing, with more than 35,000,000 visitors annually; and
 
-“(B) it is essential that visitor centers and public use facilities be properly constructed, operated, and maintained;
+"(B) it is essential that visitor centers and public use facilities be properly constructed, operated, and maintained;
 
-“(7) the National Wildlife Refuge System Volunteer and Community Partnership Enhancement Act of 1998 (16 U.S.C. 742f note; Public Law 105–242) [see Short Title of 1998 Amendments note under section 742a of this title], and the amendments made by that Act, significantly enhance the ability of the United States Fish and Wildlife Service to incorporate volunteers and partnerships in refuge management;
+"(7) the National Wildlife Refuge System Volunteer and Community Partnership Enhancement Act of 1998 (16 U.S.C. 742f note; Public Law 105–242) [see Short Title of 1998 Amendments note under section 742a of this title], and the amendments made by that Act, significantly enhance the ability of the United States Fish and Wildlife Service to incorporate volunteers and partnerships in refuge management;
 
-“(8) as of the date of the enactment of this Act [Nov. 1, 2000], the System has an unacceptable backlog of critical operation and maintenance needs; and
+"(8) as of the date of the enactment of this Act [Nov. 1, 2000], the System has an unacceptable backlog of critical operation and maintenance needs; and
 
-“(9) the occasion of the centennial of the System, in 2003, presents a historic opportunity to enhance natural resource stewardship and expand public enjoyment of the national wildlife refuges of the United States.
+"(9) the occasion of the centennial of the System, in 2003, presents a historic opportunity to enhance natural resource stewardship and expand public enjoyment of the national wildlife refuges of the United States.
 
-“(b) Purposes.—The purposes of this title are—
+"(b) Purposes.—The purposes of this title are—
 
-“(1) to establish a commission to promote awareness by the public of the National Wildlife Refuge System as the System celebrates its centennial in 2003;
+"(1) to establish a commission to promote awareness by the public of the National Wildlife Refuge System as the System celebrates its centennial in 2003;
 
-“(2) to develop a long-term plan to meet the priority operation, maintenance, and construction needs of the System;
+"(2) to develop a long-term plan to meet the priority operation, maintenance, and construction needs of the System;
 
-“(3) to require an annual report on the needs of the System prepared in the context of—
+"(3) to require an annual report on the needs of the System prepared in the context of—
 
-“(A) the budget submission of the Department of the Interior to the President; and
+"(A) the budget submission of the Department of the Interior to the President; and
 
-“(B) the President's budget request to Congress; and
+"(B) the President's budget request to Congress; and
 
-“(4) to improve public use programs and facilities of the System to meet the increasing needs of the public for wildlife-dependent recreation in the 21st century.
+"(4) to improve public use programs and facilities of the System to meet the increasing needs of the public for wildlife-dependent recreation in the 21st century.
 
-#### “SEC. 303. NATIONAL WILDLIFE REFUGE SYSTEM CENTENNIAL COMMISSION. ####
+#### "SEC. 303. NATIONAL WILDLIFE REFUGE SYSTEM CENTENNIAL COMMISSION. ####
 
-“(a) Establishment.—There is established the National Wildlife Refuge System Centennial Commission (referred to in this title as the ‘Commission’).
+"(a) Establishment.—There is established the National Wildlife Refuge System Centennial Commission (referred to in this title as the 'Commission').
 
-“(b) Members.—
+"(b) Members.—
 
-“(1) In general.—The Commission shall be composed of—
+"(1) In general.—The Commission shall be composed of—
 
-“(A) the Director of the United States Fish and Wildlife Service;
+"(A) the Director of the United States Fish and Wildlife Service;
 
-“(B) up to 10 individuals appointed by the Secretary of the Interior;
+"(B) up to 10 individuals appointed by the Secretary of the Interior;
 
-“(C) the chairman and ranking minority member of the Committee on Resources [now Committee on Natural Resources] of the House of Representatives and of the Committee on Environment and Public Works of the Senate, who shall be nonvoting members; and
+"(C) the chairman and ranking minority member of the Committee on Resources [now Committee on Natural Resources] of the House of Representatives and of the Committee on Environment and Public Works of the Senate, who shall be nonvoting members; and
 
-“(D) the congressional representatives of the Migratory Bird Conservation Commission, who shall be nonvoting members.
+"(D) the congressional representatives of the Migratory Bird Conservation Commission, who shall be nonvoting members.
 
-“(2) Appointments.—
+"(2) Appointments.—
 
-“(A) Deadline.—The members of the Commission shall be appointed not later than 90 days after the effective date of this title.
+"(A) Deadline.—The members of the Commission shall be appointed not later than 90 days after the effective date of this title.
 
-“(B) Appointments by the secretary of the interior.—
+"(B) Appointments by the secretary of the interior.—
 
-“(i) In general.—The members of the Commission appointed by the Secretary of the Interior under paragraph (1)(B)—
+"(i) In general.—The members of the Commission appointed by the Secretary of the Interior under paragraph (1)(B)—
 
- “(I) shall not be officers or employees of the Federal Government; and
+ "(I) shall not be officers or employees of the Federal Government; and
 
- “(II) shall, in the judgment of the Secretary—
+ "(II) shall, in the judgment of the Secretary—
 
-“(aa) represent the diverse beneficiaries of the System; and
+"(aa) represent the diverse beneficiaries of the System; and
 
-“(bb) have outstanding knowledge or appreciation of wildlife, natural resource management, or wildlife-dependent recreation.
+"(bb) have outstanding knowledge or appreciation of wildlife, natural resource management, or wildlife-dependent recreation.
 
-“(ii) Representation of views.—In making appointments under paragraph (1)(B), the Secretary of the Interior shall make every effort to ensure that the views of the hunting, fishing, and wildlife observation communities are represented on the Commission.
+"(ii) Representation of views.—In making appointments under paragraph (1)(B), the Secretary of the Interior shall make every effort to ensure that the views of the hunting, fishing, and wildlife observation communities are represented on the Commission.
 
-“(3) Vacancies.—Any vacancy in the Commission—
+"(3) Vacancies.—Any vacancy in the Commission—
 
-“(A) shall not affect the power or duties of the Commission; and
+"(A) shall not affect the power or duties of the Commission; and
 
-“(B) shall be expeditiously filled in the same manner as the original appointment was made.
+"(B) shall be expeditiously filled in the same manner as the original appointment was made.
 
-“(c) Chairperson.—The Secretary of the Interior shall appoint one of the members as the Chairperson of the Commission.
+"(c) Chairperson.—The Secretary of the Interior shall appoint one of the members as the Chairperson of the Commission.
 
-“(d) Compensation.—The members of the Commission shall receive no compensation for their service on the Commission.
+"(d) Compensation.—The members of the Commission shall receive no compensation for their service on the Commission.
 
-“(e) Travel Expenses.—
+"(e) Travel Expenses.—
 
-“(1) Legislative branch members.—The members of the Commission from the legislative branch of the Federal Government shall be allowed necessary travel expenses, as authorized by other law for official travel, while away from their homes or regular places of business in the performance of services for the Commission.
+"(1) Legislative branch members.—The members of the Commission from the legislative branch of the Federal Government shall be allowed necessary travel expenses, as authorized by other law for official travel, while away from their homes or regular places of business in the performance of services for the Commission.
 
-“(2) Executive branch members.—The members of the Commission from the executive branch of the Federal Government shall be allowed necessary travel expenses in accordance with section 5702 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
+"(2) Executive branch members.—The members of the Commission from the executive branch of the Federal Government shall be allowed necessary travel expenses in accordance with section 5702 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
 
-“(3) Other members and staff.—The members of the Commission appointed by the Secretary of the Interior and staff of the Commission may be allowed necessary travel expenses as authorized by section 5702 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
+"(3) Other members and staff.—The members of the Commission appointed by the Secretary of the Interior and staff of the Commission may be allowed necessary travel expenses as authorized by section 5702 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
 
-“(f) Duties.—The Commission shall—
+"(f) Duties.—The Commission shall—
 
-“(1) prepare, in cooperation with Federal, State, local, and nongovernmental partners, a plan to commemorate the centennial of the National Wildlife Refuge System beginning on March 14, 2003;
+"(1) prepare, in cooperation with Federal, State, local, and nongovernmental partners, a plan to commemorate the centennial of the National Wildlife Refuge System beginning on March 14, 2003;
 
-“(2) coordinate the activities of the partners under the plan; and
+"(2) coordinate the activities of the partners under the plan; and
 
-“(3) plan and host, in cooperation with the partners, a conference on the National Wildlife Refuge System, and assist in the activities of the conference.
+"(3) plan and host, in cooperation with the partners, a conference on the National Wildlife Refuge System, and assist in the activities of the conference.
 
-“(g) Staff.—Subject to the availability of appropriations, the Commission may employ such staff as are necessary to carry out the duties of the Commission.
+"(g) Staff.—Subject to the availability of appropriations, the Commission may employ such staff as are necessary to carry out the duties of the Commission.
 
-“(h) Donations.—
+"(h) Donations.—
 
-“(1) In general.—The Commission may, in accordance with criteria established under paragraph (2), accept and use donations of money, personal property, or personal services.
+"(1) In general.—The Commission may, in accordance with criteria established under paragraph (2), accept and use donations of money, personal property, or personal services.
 
-“(2) Criteria.—The Commission shall establish written criteria to be used in determining whether the acceptance of gifts or donations under paragraph (1) would—
+"(2) Criteria.—The Commission shall establish written criteria to be used in determining whether the acceptance of gifts or donations under paragraph (1) would—
 
-“(A) reflect unfavorably on the ability of the Commission or any employee of the Commission to carry out its responsibilities or official duties in a fair and objective manner; or
+"(A) reflect unfavorably on the ability of the Commission or any employee of the Commission to carry out its responsibilities or official duties in a fair and objective manner; or
 
-“(B) compromise the integrity or the appearance of the integrity of any person involved in the activities of the Commission.
+"(B) compromise the integrity or the appearance of the integrity of any person involved in the activities of the Commission.
 
-“(i) Administrative Support.—Upon the request of the Commission—
+"(i) Administrative Support.—Upon the request of the Commission—
 
-“(1) the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, may provide to the Commission such administrative support services as are necessary for the Commission to carry out the duties of the Commission under this title, including services relating to budgeting, accounting, financial reporting, personnel, and procurement; and
+"(1) the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, may provide to the Commission such administrative support services as are necessary for the Commission to carry out the duties of the Commission under this title, including services relating to budgeting, accounting, financial reporting, personnel, and procurement; and
 
-“(2) the head of any other appropriate Federal agency may provide to the Commission such advice and assistance, with or without reimbursement, as are appropriate to assist the Commission in carrying out the duties of the Commission.
+"(2) the head of any other appropriate Federal agency may provide to the Commission such advice and assistance, with or without reimbursement, as are appropriate to assist the Commission in carrying out the duties of the Commission.
 
-“(j) Reports.—
+"(j) Reports.—
 
-“(1) Annual reports.—Not later than 1 year after the effective date of this title, and annually thereafter, the Commission shall submit to Congress a report on the activities and plans of the Commission.
+"(1) Annual reports.—Not later than 1 year after the effective date of this title, and annually thereafter, the Commission shall submit to Congress a report on the activities and plans of the Commission.
 
-“(2) Final report.—Not later than September 30, 2004, the Commission shall submit to the Committee on Resources [now Committee on Natural Resources] of the House of Representatives and the Committee on Environment and Public Works of the Senate a final report on the activities of the Commission, including an accounting of all funds received and expended by the Commission.
+"(2) Final report.—Not later than September 30, 2004, the Commission shall submit to the Committee on Resources [now Committee on Natural Resources] of the House of Representatives and the Committee on Environment and Public Works of the Senate a final report on the activities of the Commission, including an accounting of all funds received and expended by the Commission.
 
-“(k) Termination.—
+"(k) Termination.—
 
-“(1) In general.—The Commission shall terminate 90 days after the date on which the Commission submits the final report under subsection (j).
+"(1) In general.—The Commission shall terminate 90 days after the date on which the Commission submits the final report under subsection (j).
 
-“(2) Disposition of materials.—Upon termination of the Commission and after consultation with the Archivist of the United States and the Secretary of the Smithsonian Institution, the Secretary of the Interior may—
+"(2) Disposition of materials.—Upon termination of the Commission and after consultation with the Archivist of the United States and the Secretary of the Smithsonian Institution, the Secretary of the Interior may—
 
-“(A)(i) deposit all books, manuscripts, miscellaneous printed matter, memorabilia, relics, and other similar materials of the Commission relating to the centennial of the National Wildlife Refuge System in Federal, State, or local libraries or museums; or
+"(A)(i) deposit all books, manuscripts, miscellaneous printed matter, memorabilia, relics, and other similar materials of the Commission relating to the centennial of the National Wildlife Refuge System in Federal, State, or local libraries or museums; or
 
-“(ii) otherwise dispose of such materials; and
+"(ii) otherwise dispose of such materials; and
 
-“(B)(i) use other property acquired by the Commission for the purposes of the National Wildlife Refuge System; or
+"(B)(i) use other property acquired by the Commission for the purposes of the National Wildlife Refuge System; or
 
-“(ii) treat such property as excess property.
+"(ii) treat such property as excess property.
 
-#### “SEC. 304. LONG-TERM PLANNING AND ANNUAL REPORTING REQUIREMENTS REGARDING THE OPERATION AND MAINTENANCE BACKLOG. ####
+#### "SEC. 304. LONG-TERM PLANNING AND ANNUAL REPORTING REQUIREMENTS REGARDING THE OPERATION AND MAINTENANCE BACKLOG. ####
 
-“(a) Unified Long-Term Plan.—Not later than March 1, 2002, the Secretary of the Interior shall prepare and submit to Congress and the President a unified long-term plan to address priority operation, maintenance, and construction needs of the National Wildlife Refuge System, including—
+"(a) Unified Long-Term Plan.—Not later than March 1, 2002, the Secretary of the Interior shall prepare and submit to Congress and the President a unified long-term plan to address priority operation, maintenance, and construction needs of the National Wildlife Refuge System, including—
 
-“(1) priority staffing needs of the System; and
+"(1) priority staffing needs of the System; and
 
-“(2) operation, maintenance, and construction needs as identified in—
+"(2) operation, maintenance, and construction needs as identified in—
 
-“(A) the Refuge Operating Needs System;
+"(A) the Refuge Operating Needs System;
 
-“(B) the Maintenance Management System;
+"(B) the Maintenance Management System;
 
-“(C) the 5-year deferred maintenance list;
+"(C) the 5-year deferred maintenance list;
 
-“(D) the 5-year construction list;
+"(D) the 5-year construction list;
 
-“(E) the United States Fish and Wildlife Service report entitled ‘Fulfilling the Promise of America's National Wildlife Refuge System’; and
+"(E) the United States Fish and Wildlife Service report entitled 'Fulfilling the Promise of America's National Wildlife Refuge System'; and
 
-“(F) individual refuge comprehensive conservation plans.
+"(F) individual refuge comprehensive conservation plans.
 
-“(b) Annual Submission.—Beginning with the submission to Congress of the budget for fiscal year 2003, the Secretary of the Interior shall prepare and submit to Congress, in the context of each annual budget submission, a report that contains—
+"(b) Annual Submission.—Beginning with the submission to Congress of the budget for fiscal year 2003, the Secretary of the Interior shall prepare and submit to Congress, in the context of each annual budget submission, a report that contains—
 
-“(1) an assessment of expenditures in the prior, current, and upcoming fiscal years to meet the operation and maintenance backlog as identified in the long-term plan under subsection (a); and
+"(1) an assessment of expenditures in the prior, current, and upcoming fiscal years to meet the operation and maintenance backlog as identified in the long-term plan under subsection (a); and
 
-“(2) a specification of transition costs, in the prior, current, and upcoming fiscal years, as identified in the analysis of newly acquired refuge land prepared by the Department of the Interior, and a description of the method used to determine the priority status of the transition costs.
+"(2) a specification of transition costs, in the prior, current, and upcoming fiscal years, as identified in the analysis of newly acquired refuge land prepared by the Department of the Interior, and a description of the method used to determine the priority status of the transition costs.
 
-#### “SEC. 305. YEAR OF THE NATIONAL WILDLIFE REFUGE. ####
+#### "SEC. 305. YEAR OF THE NATIONAL WILDLIFE REFUGE. ####
 
-“(a) Finding.—Congress finds that designation of the year 2003 as the ‘Year of the National Wildlife Refuge’ would promote the goal of increasing public appreciation of the importance of the National Wildlife Refuge System.
+"(a) Finding.—Congress finds that designation of the year 2003 as the 'Year of the National Wildlife Refuge' would promote the goal of increasing public appreciation of the importance of the National Wildlife Refuge System.
 
-“(b) Proclamation.—The President is requested to issue a proclamation calling on the people of the United States to conduct appropriate programs, ceremonies, and activities to accomplish the goal of such a year.
+"(b) Proclamation.—The President is requested to issue a proclamation calling on the people of the United States to conduct appropriate programs, ceremonies, and activities to accomplish the goal of such a year.
 
-#### “SEC. 306. AUTHORIZATION OF APPROPRIATIONS. ####
+#### "SEC. 306. AUTHORIZATION OF APPROPRIATIONS. ####
 
-“There are authorized to be appropriated to carry out the activities of the Commission under this title—
+"There are authorized to be appropriated to carry out the activities of the Commission under this title—
 
-“(1) $100,000 for fiscal year 2001; and
+"(1) $100,000 for fiscal year 2001; and
 
-“(2) $250,000 for each of fiscal years 2002 through 2004.
+"(2) $250,000 for each of fiscal years 2002 through 2004.
 
-#### “SEC. 307. EFFECTIVE DATE. ####
+#### "SEC. 307. EFFECTIVE DATE. ####
 
-“This title takes effect on January 20, 2001.”
+"This title takes effect on January 20, 2001."
 
 #### Congressional Findings ####
 
-Pub. L. 105–57, §2, Oct. 9, 1997, 111 Stat. 1252, provided that: “The Congress finds the following:
+Pub. L. 105–57, §2, Oct. 9, 1997, 111 Stat. 1252, provided that: "The Congress finds the following:
 
-“(1) The National Wildlife Refuge System is comprised of over 92,000,000 acres of Federal lands that have been incorporated within 509 individual units located in all 50 States and the territories of the United States.
+"(1) The National Wildlife Refuge System is comprised of over 92,000,000 acres of Federal lands that have been incorporated within 509 individual units located in all 50 States and the territories of the United States.
 
-“(2) The System was created to conserve fish, wildlife, and plants and their habitats and this conservation mission has been facilitated by providing Americans opportunities to participate in compatible wildlife-dependent recreation, including fishing and hunting, on System lands and to better appreciate the value of and need for fish and wildlife conservation.
+"(2) The System was created to conserve fish, wildlife, and plants and their habitats and this conservation mission has been facilitated by providing Americans opportunities to participate in compatible wildlife-dependent recreation, including fishing and hunting, on System lands and to better appreciate the value of and need for fish and wildlife conservation.
 
-“(3) The System serves a pivotal role in the conservation of migratory birds, anadromous and interjurisdictional fish, marine mammals, endangered and threatened species, and the habitats on which these species depend.
+"(3) The System serves a pivotal role in the conservation of migratory birds, anadromous and interjurisdictional fish, marine mammals, endangered and threatened species, and the habitats on which these species depend.
 
-“(4) The System assists in the fulfillment of important international treaty obligations of the United States with regard to fish, wildlife, and plants and their habitats.
+"(4) The System assists in the fulfillment of important international treaty obligations of the United States with regard to fish, wildlife, and plants and their habitats.
 
-“(5) The System includes lands purchased not only through the use of tax dollars but also through the proceeds from sales of Duck Stamps and national wildlife refuge entrance fees. It is a System that is financially supported by those benefiting from and utilizing it.
+"(5) The System includes lands purchased not only through the use of tax dollars but also through the proceeds from sales of Duck Stamps and national wildlife refuge entrance fees. It is a System that is financially supported by those benefiting from and utilizing it.
 
-“(6) When managed in accordance with principles of sound fish and wildlife management and administration, fishing, hunting, wildlife observation, and environmental education in national wildlife refuges have been and are expected to continue to be generally compatible uses.
+"(6) When managed in accordance with principles of sound fish and wildlife management and administration, fishing, hunting, wildlife observation, and environmental education in national wildlife refuges have been and are expected to continue to be generally compatible uses.
 
-“(7) On March 25, 1996, the President issued Executive Order 12996 [set out below], which recognized ‘compatible wildlife-dependent recreational uses involving hunting, fishing, wildlife observation and photography, and environmental education and interpretation as priority public uses of the Refuge System’.
+"(7) On March 25, 1996, the President issued Executive Order 12996 [set out below], which recognized 'compatible wildlife-dependent recreational uses involving hunting, fishing, wildlife observation and photography, and environmental education and interpretation as priority public uses of the Refuge System'.
 
-“(8) Executive Order 12996 is a positive step and serves as the foundation for the permanent statutory changes made by this Act [see Short Title of 1997 Amendment note above].”
+"(8) Executive Order 12996 is a positive step and serves as the foundation for the permanent statutory changes made by this Act [see Short Title of 1997 Amendment note above]."
 
 #### Statutory Construction With Respect to Alaska ####
 
 Pub. L. 105–57, §9, Oct. 9, 1997, 111 Stat. 1260, provided that:
 
-“(a) In General.—Nothing in this Act [see Short Title of 1997 Amendment note above] is intended to affect—
+"(a) In General.—Nothing in this Act [see Short Title of 1997 Amendment note above] is intended to affect—
 
-“(1) the provisions for subsistence uses in Alaska set forth in the Alaska National Interest Lands Conservation Act (Public Law 96–487) [see Short Title note set out under section 3101 of this title], including those in titles III [enacting provisions listed in a table of National Wildlife Refuges set out below and provisions set out as a note under section 3145 of this title] and VIII [16 U.S.C. 3111 et seq.] of that Act;
+"(1) the provisions for subsistence uses in Alaska set forth in the Alaska National Interest Lands Conservation Act (Public Law 96–487) [see Short Title note set out under section 3101 of this title], including those in titles III [enacting provisions listed in a table of National Wildlife Refuges set out below and provisions set out as a note under section 3145 of this title] and VIII [16 U.S.C. 3111 et seq.] of that Act;
 
-“(2) the provisions of section 102 of the Alaska National Interest Lands Conservation Act [16 U.S.C. 3102], the jurisdiction over subsistence uses in Alaska, or any assertion of subsistence uses in Alaska in the Federal courts; and
+"(2) the provisions of section 102 of the Alaska National Interest Lands Conservation Act [16 U.S.C. 3102], the jurisdiction over subsistence uses in Alaska, or any assertion of subsistence uses in Alaska in the Federal courts; and
 
-“(3) the manner in which section 810 of the Alaska National Interest Lands Conservation Act [16 U.S.C. 3120] is implemented in national wildlife refuges in Alaska.
+"(3) the manner in which section 810 of the Alaska National Interest Lands Conservation Act [16 U.S.C. 3120] is implemented in national wildlife refuges in Alaska.
 
-“(b) Conflicts of Laws.—If any conflict arises between any provision of this Act and any provision of the Alaska National Interest Lands Conservation Act, then the provision in the Alaska National Interest Lands Conservation Act shall prevail.”
+"(b) Conflicts of Laws.—If any conflict arises between any provision of this Act and any provision of the Alaska National Interest Lands Conservation Act, then the provision in the Alaska National Interest Lands Conservation Act shall prevail."
 
 #### Land Transfer and Conveyance, Pease Air Force Base, New Hampshire ####
 
 Pub. L. 102–154, title III, §319, Nov. 13, 1991, 105 Stat. 1036, provided that:
 
-“(a) Transfer by the Air Force.—Notwithstanding any other provision of law, the Secretary of the Air Force shall transfer to the Department of the Interior a parcel of real property located west of McIntyre Road at the site of former Pease Air Force Base, New Hampshire: *Provided*, That the Secretary of the Air Force shall retain responsibility for any hazardous substances which may be found on the property so transferred.
+"(a) Transfer by the Air Force.—Notwithstanding any other provision of law, the Secretary of the Air Force shall transfer to the Department of the Interior a parcel of real property located west of McIntyre Road at the site of former Pease Air Force Base, New Hampshire: *Provided*, That the Secretary of the Air Force shall retain responsibility for any hazardous substances which may be found on the property so transferred.
 
-“(b) Establishment of National Wildlife Refuge.—Except as provided in subsection (c), the Secretary of the Interior shall designate the parcel of land transferred under subsection (a) as an area in the National Wildlife Refuge System under the authority of section 4 of the Act of October 15, 1966 (16 U.S.C. 688dd).
+"(b) Establishment of National Wildlife Refuge.—Except as provided in subsection (c), the Secretary of the Interior shall designate the parcel of land transferred under subsection (a) as an area in the National Wildlife Refuge System under the authority of section 4 of the Act of October 15, 1966 (16 U.S.C. 688dd).
 
-“(c) Conveyance to State of New Hampshire.—
+"(c) Conveyance to State of New Hampshire.—
 
-“(1) Conveyance.—Subject to paragraphs (2) through (5), the Secretary of the Interior shall convey to the State of New Hampshire, without consideration, all right, title, and interest of the United States in and to a parcel of real property consisting of not more than 100 acres that is a part of the real property transferred to the Secretary under subsection (a) and that the Secretary determines to be suitable for use as a cemetery.
+"(1) Conveyance.—Subject to paragraphs (2) through (5), the Secretary of the Interior shall convey to the State of New Hampshire, without consideration, all right, title, and interest of the United States in and to a parcel of real property consisting of not more than 100 acres that is a part of the real property transferred to the Secretary under subsection (a) and that the Secretary determines to be suitable for use as a cemetery.
 
-“(2) Condition of conveyance.—The conveyance under paragraph (1) shall be subject to the condition that the State of New Hampshire use the property conveyed under that paragraph only for the purpose of establishing and operating a State cemetery for veterans.
+"(2) Condition of conveyance.—The conveyance under paragraph (1) shall be subject to the condition that the State of New Hampshire use the property conveyed under that paragraph only for the purpose of establishing and operating a State cemetery for veterans.
 
-“(3) Reversion.—If the Secretary determines at any time that the State of New Hampshire is not complying with the condition specified in paragraph (2), all right, title, and interest in and to the property conveyed pursuant to paragraph (1), including any improvements thereon, shall revert to the United States and the United States shall have the right of immediate entry thereon.
+"(3) Reversion.—If the Secretary determines at any time that the State of New Hampshire is not complying with the condition specified in paragraph (2), all right, title, and interest in and to the property conveyed pursuant to paragraph (1), including any improvements thereon, shall revert to the United States and the United States shall have the right of immediate entry thereon.
 
-“(4) Description of property.—The exact acreage and legal description of the parcel of real property to be conveyed under paragraph (1) shall be determined by a survey that is satisfactory to the Secretary.
+"(4) Description of property.—The exact acreage and legal description of the parcel of real property to be conveyed under paragraph (1) shall be determined by a survey that is satisfactory to the Secretary.
 
-“(5) Additional terms and conditions.—The Secretary may require any additional terms or conditions in connection with the conveyance under this subsection that the Secretary determines appropriate to protect the interests of the United States.
+"(5) Additional terms and conditions.—The Secretary may require any additional terms or conditions in connection with the conveyance under this subsection that the Secretary determines appropriate to protect the interests of the United States.
 
-“(d) The purposes for which this national wildlife refuge is established are—
+"(d) The purposes for which this national wildlife refuge is established are—
 
-“(1) to encourage the natural diversity of plant, fish, and wildlife species within the refuge, and to provide for their conservation and management;
+"(1) to encourage the natural diversity of plant, fish, and wildlife species within the refuge, and to provide for their conservation and management;
 
-“(2) to protect species listed as endangered or threatened, or identified as candidates for listing pursuant to the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.);
+"(2) to protect species listed as endangered or threatened, or identified as candidates for listing pursuant to the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.);
 
-“(3) to preserve and enhance the water quality of aquatic habitat within the refuge; and
+"(3) to preserve and enhance the water quality of aquatic habitat within the refuge; and
 
-“(4) to fulfill the international treaty obligations of the United States relating to fish and wildlife.”
+"(4) to fulfill the international treaty obligations of the United States relating to fish and wildlife."
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -679,7 +679,7 @@ Pub. L. 102–154, title III, §319, Nov. 13, 1991, 105 Stat. 1036, provided tha
 |                                                                                                               Rocky Flats National Wildlife Refuge, Colorado.—Pub. L. 107–107, div. C, title XXXI, Dec. 28, 2001, 115 Stat. 1379; Pub. L. 109–163, div. C, title XXXI, §3112(b)(7), Jan. 6, 2006, 119 Stat. 3541.                                                                                                                |
 |                                                                                                                      Rocky Mountain Arsenal National Wildlife Refuge, Colorado.—Pub. L. 102–402, Oct. 9, 1992, 106 Stat. 1961; Pub. L. 105–85, div. B, title XXVIII, §2840, Nov. 18, 1997, 111 Stat. 2007.                                                                                                                       |
 |                                                                                                                                                Sachuest Point National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title I, §1214(f), (h), June 9, 1998, 112 Stat. 206, 207.                                                                                                                                                 |
-|                                                                                                                                                            Sailors’ Snug Harbor National Wildlife Refuge, New York.—Pub. L. 96–315, §2, July 25, 1980, 94 Stat. 957.                                                                                                                                                             |
+|                                                                                                                                                            Sailors' Snug Harbor National Wildlife Refuge, New York.—Pub. L. 96–315, §2, July 25, 1980, 94 Stat. 957.                                                                                                                                                             |
 |                                                                                                                                                            St. Marks National Wildlife Refuge, Florida.—Pub. L. 109–241, title V, §504, July 11, 2006, 120 Stat. 551.                                                                                                                                                            |
 |                                                                                                                                      Sam D. Hamilton Noxubee National Wildlife Refuge (former Noxubee National Wildlife Refuge), Mississippi.—Pub. L. 112–94, Feb. 14, 2012, 126 Stat. 10.                                                                                                                                       |
 |                                                                                                                                           San Diego National Wildlife Refuge, California.—Pub. L. 106–398, §1 [div. B, title XXVIII, §2848], Oct. 30, 2000, 114 Stat. 1654, 1654A–426.                                                                                                                                           |
@@ -717,7 +717,7 @@ Ex. Ord. No. 12996, Mar. 25, 1996, 61 F.R. 13647, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Fish and Wildlife Act of 1956 (16 U.S.C. 742a [et seq.]), the Fish and Wildlife Coordination Act (16 U.S.C. 661 [et seq.]), the National Wildlife Refuge System Administration Act (16 U.S.C. 668dd [, 668ee]), the Refuge Recreation Act (16 U.S.C. 460k [et seq.]), the Endangered Species Act of 1973 (16 U.S.C. 1531 [et seq.]), the Emergency Wetlands Resources Act (16 U.S.C. 3901 [et seq.]), the North American Wetlands Conservation Act (16 U.S.C. 4401 [et seq.]), the National Environmental Policy Act (42 U.S.C. 4321 [et seq.]), and other pertinent statutes, and in order to conserve fish and wildlife and their habitat, it is ordered as follows:
 
-Section 1. *The Mission of the National Wildlife Refuge System*. The mission of the National Wildlife Refuge System (“Refuge System”) is to preserve a national network of lands and waters for the conservation and management of fish, wildlife, and plant resources of the United States for the benefit of present and future generations.
+Section 1. *The Mission of the National Wildlife Refuge System*. The mission of the National Wildlife Refuge System ("Refuge System") is to preserve a national network of lands and waters for the conservation and management of fish, wildlife, and plant resources of the United States for the benefit of present and future generations.
 
 Sec. 2. *Guiding Principles*. To help ensure a bright future for its treasured national heritage, I hereby affirm the following four guiding principles for the management and general public use of the Refuge System:
 

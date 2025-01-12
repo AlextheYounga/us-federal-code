@@ -2,7 +2,7 @@
 
 Sec.
 
-11201. Eligibility for veterans’ burial and cemetery benefits.
+11201. Eligibility for veterans' burial and cemetery benefits.
 
 11202. Qualified service.
 

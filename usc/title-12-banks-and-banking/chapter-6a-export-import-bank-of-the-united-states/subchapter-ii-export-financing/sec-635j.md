@@ -28,13 +28,13 @@ WHEREAS it is desirable and appropriate that guidance concerning the commercial 
 
 NOW, THEREFORE, by virtue of the authority vested in me as President of the United States, it is ordered as follows:
 
-Section 1. *Establishment of Advisory Committee*. (a) There is hereby established the Export Expansion Advisory Committee (hereinafter referred to as “the Committee”).
+Section 1. *Establishment of Advisory Committee*. (a) There is hereby established the Export Expansion Advisory Committee (hereinafter referred to as "the Committee").
 
 (b) The Committee shall be composed of the following members: the Secretary of Commerce, who shall be Chairman of the Committee, the Secretary of the Treasury, the Secretary of State, and the President and Chairman of the Board of the Export-Import Bank of the United States.
 
 Sec. 2. *Functions of the Committee*. The Committee shall review and make recommendations concerning applications and proposals for loans, guarantees, and insurance to be charged against allocations made to finance export expansion and shall provide guidance to the Board of Directors of the Bank concerning the use of such allocations with the view to fostering the foreign trade and long-term commercial interest of the United States.
 
-Sec. 3. *Construction*. Nothing in this order shall be construed to abrogate, modify, or restrict any function vested by law in, or assigned pursuant to law to, any Federal agency or any officer thereof or to any Federal interagency council or committee. As used herein the term “any Federal agency” includes any executive department and any other executive agency.
+Sec. 3. *Construction*. Nothing in this order shall be construed to abrogate, modify, or restrict any function vested by law in, or assigned pursuant to law to, any Federal agency or any officer thereof or to any Federal interagency council or committee. As used herein the term "any Federal agency" includes any executive department and any other executive agency.
 
 Lyndon B. Johnson.
 

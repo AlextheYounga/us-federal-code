@@ -66,27 +66,27 @@ Subsection (h), which required the Commodity Futures Trading Commission to submi
 
 #### Amendments ####
 
-**2010**—Subsec. (e). Pub. L. 111–203, in last sentence, inserted “, central bank and ministries,” after “department” wherever appearing and substituted “, is a party.” for “. is a party.”
+**2010**—Subsec. (e). Pub. L. 111–203, in last sentence, inserted ", central bank and ministries," after "department" wherever appearing and substituted ", is a party." for ". is a party."
 
-**2008**—Subsec. (a)(1). Pub. L. 110–246, §13105(g), in concluding provisions, struck out “commenced” after “receivership proceeding” and inserted “commenced” after “in a judicial proceeding”.
+**2008**—Subsec. (a)(1). Pub. L. 110–246, §13105(g), in concluding provisions, struck out "commenced" after "receivership proceeding" and inserted "commenced" after "in a judicial proceeding".
 
 **2000**—Subsec. (a)(3). Pub. L. 106–554, §1(a)(5) [title II, §253(a)], added par. (3).
 
-Subsec. (c). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(18)], in first sentence, substituted “registered entity” for “board of trade”.
+Subsec. (c). Pub. L. 106–554, §1(a)(5) [title I, §123(a)(18)], in first sentence, substituted "registered entity" for "board of trade".
 
 **1992**—Subsec. (a). Pub. L. 102–546, §§205, 304(1), designated existing provisions as par. (1), inserted provisions at end relating to disclosure of information received from foreign futures authorities, and added par. (2).
 
-Subsec. (b). Pub. L. 102–546, §304(2), inserted at end “This subsection shall not apply to the disclosure of data or information obtained by the Commission from a foreign futures authority.”
+Subsec. (b). Pub. L. 102–546, §304(2), inserted at end "This subsection shall not apply to the disclosure of data or information obtained by the Commission from a foreign futures authority."
 
 Subsec. (e). Pub. L. 102–546, §305, inserted references to foreign futures authority in fifth and last sentences.
 
-Subsec. (f). Pub. L. 102–546, §402(7), substituted “subpoena” for “subpena” wherever appearing and “subpoenas” for “subpenas” in last sentence.
+Subsec. (f). Pub. L. 102–546, §402(7), substituted "subpoena" for "subpena" wherever appearing and "subpoenas" for "subpenas" in last sentence.
 
 **1983**—Subsec. (a). Pub. L. 97–444, §222(1), inserted proviso authorizing Commission to withhold from public disclosure any data or information concerning or obtained in connection with any pending investigation of any person.
 
 Subsec. (b). Pub. L. 97–444, §222(2), inserted references to receivership proceedings involving a receiver appointed in a judicial proceeding brought under this chapter and to bankruptcy proceedings in which the Commission has intervened or in which Commission has right to appear and be heard under title 11.
 
-Subsec. (e). Pub. L. 97–444, §222(3), struck out “of the Executive Branch” after “Upon the request of any department or agency” and inserted “Upon the request of any department or agency of any State or any political subdivision thereof, acting within the scope of its jurisdiction, or any department or agency of any foreign government or any political subdivision thereof, acting within the scope of its jurisdiction, the Commission may furnish to such department or agency any information in the possession of the Commission obtained in connection with the administration of this chapter. Any information furnished to any department or agency of any State or political subdivision thereof shall not be disclosed by such department or agency except in connection with an adjudicatory action or proceeding brought under this chapter or the laws of such State or political subdivision to which such State or political subdivision or any department or agency thereof is a party. The Commission shall not furnish any information to a department or agency of a foreign government or political subdivision thereof unless the Commission is satisfied that the information will not be disclosed by such department or agency except in connection with an adjudicatory action or proceeding brought under the laws of such foreign government or political subdivision to which such foreign government or political subdivision or any department or agency thereof is a party.”
+Subsec. (e). Pub. L. 97–444, §222(3), struck out "of the Executive Branch" after "Upon the request of any department or agency" and inserted "Upon the request of any department or agency of any State or any political subdivision thereof, acting within the scope of its jurisdiction, or any department or agency of any foreign government or any political subdivision thereof, acting within the scope of its jurisdiction, the Commission may furnish to such department or agency any information in the possession of the Commission obtained in connection with the administration of this chapter. Any information furnished to any department or agency of any State or political subdivision thereof shall not be disclosed by such department or agency except in connection with an adjudicatory action or proceeding brought under this chapter or the laws of such State or political subdivision to which such State or political subdivision or any department or agency thereof is a party. The Commission shall not furnish any information to a department or agency of a foreign government or political subdivision thereof unless the Commission is satisfied that the information will not be disclosed by such department or agency except in connection with an adjudicatory action or proceeding brought under the laws of such foreign government or political subdivision to which such foreign government or political subdivision or any department or agency thereof is a party."
 
 Subsecs. (f), (g). Pub. L. 97–444, §222(5), added subsecs. (f) and (g). Former subsecs. (f) and (g) were redesignated (h) and (i), respectively.
 
@@ -94,11 +94,11 @@ Subsecs. (h), (i). Pub. L. 97–444, §222(4), redesignated former subsecs. (f) 
 
 **1978**—Pub. L. 95–405 consolidated under this section provisions formerly contained in this section and sections 12–1, 12–2, and 12–3 of this title, generally revised provisions thus consolidated to clarify and expand disclosure to public of traders and their positions on boards of trade, and divided provisions thus consolidated and revised into subsecs. (a) to (g).
 
-**1974**—Pub. L. 93–463 substituted “Commission” for “Secretary of Agriculture”, “it” for “he”, “its” for “his”, and “It” for “He”.
+**1974**—Pub. L. 93–463 substituted "Commission" for "Secretary of Agriculture", "it" for "he", "its" for "his", and "It" for "He".
 
 **1968**—Pub. L. 90–258 authorized investigations to ascertain facts regarding operations of other persons subject to any provisions of this chapter.
 
-**1936**—Act June 15, 1936, substituted “commodity” for “grain” wherever appearing.
+**1936**—Act June 15, 1936, substituted "commodity" for "grain" wherever appearing.
 
 #### Effective Date of 2010 Amendment ####
 

@@ -18,7 +18,7 @@
 
 For the purpose of this section—
 
-(1) the term “affiliate” with respect to a member bank means—
+(1) the term "affiliate" with respect to a member bank means—
 
 (A) any company that controls the member bank and any other company that is controlled by the company that controls the member bank;
 
@@ -56,13 +56,13 @@ For the purpose of this section—
 
 (B) notwithstanding any other provision of this section, no company shall be deemed to own or control another company by virtue of its ownership or control of shares in a fiduciary capacity, except as provided in paragraph (1)(C) of this subsection or if the company owning or controlling such shares is a business trust;
 
-(4) the term “subsidiary” with respect to a specified company means a company that is controlled by such specified company;
+(4) the term "subsidiary" with respect to a specified company means a company that is controlled by such specified company;
 
-(5) the term “bank” includes a State bank, national bank, banking association, and trust company;
+(5) the term "bank" includes a State bank, national bank, banking association, and trust company;
 
-(6) the term “company” means a corporation, partnership, business trust, association, or similar organization and, unless specifically excluded, the term “company” includes a “member bank” and a “bank”;
+(6) the term "company" means a corporation, partnership, business trust, association, or similar organization and, unless specifically excluded, the term "company" includes a "member bank" and a "bank";
 
-(7) the term “covered transaction” means with respect to an affiliate of a member bank—
+(7) the term "covered transaction" means with respect to an affiliate of a member bank—
 
 (A) a loan or extension of credit to the affiliate, including a purchase of assets subject to an agreement to repurchase;
 
@@ -78,13 +78,13 @@ For the purpose of this section—
 
 (G) a derivative transaction, as defined in paragraph (3) of section 84(b) of this title, with an affiliate, to the extent that the transaction causes a member bank or a subsidiary to have credit exposure to the affiliate;
 
-(8) the term “aggregate amount of covered transactions” means the amount of the covered transactions about to be engaged in added to the current amount of all outstanding covered transactions;
+(8) the term "aggregate amount of covered transactions" means the amount of the covered transactions about to be engaged in added to the current amount of all outstanding covered transactions;
 
-(9) the term “securities” means stocks, bonds, debentures, notes, or other similar obligations; and
+(9) the term "securities" means stocks, bonds, debentures, notes, or other similar obligations; and
 
-(10) the term “low-quality asset” means an asset that falls in any one or more of the following categories:
+(10) the term "low-quality asset" means an asset that falls in any one or more of the following categories:
 
-(A) an asset classified as “substandard”, “doubtful”, or “loss” or treated as “other loans especially mentioned” in the most recent report of examination or inspection of an affiliate prepared by either a Federal or State supervisory agency;
+(A) an asset classified as "substandard", "doubtful", or "loss" or treated as "other loans especially mentioned" in the most recent report of examination or inspection of an affiliate prepared by either a Federal or State supervisory agency;
 
 (B) an asset in a nonaccrual status;
 
@@ -104,7 +104,7 @@ For the purpose of this section—
 
 (ii) obligations fully guaranteed by the United States or its agencies as to principal and interest;
 
-(iii) notes, drafts, bills of exchange or bankers’ acceptances that are eligible for rediscount or purchase by a Federal Reserve Bank; or
+(iii) notes, drafts, bills of exchange or bankers' acceptances that are eligible for rediscount or purchase by a Federal Reserve Bank; or
 
 (iv) a segregated, earmarked deposit account with the member bank;
 
@@ -154,7 +154,7 @@ The provisions of this section, except subsection (a)(4) of this section, shall 
 
 #### (1) Financial subsidiary defined ####
 
-For purposes of this section and section 371c–1 of this title, the term “financial subsidiary” means any company that is a subsidiary of a bank that would be a financial subsidiary of a national bank under section 24a of this title.
+For purposes of this section and section 371c–1 of this title, the term "financial subsidiary" means any company that is a subsidiary of a bank that would be a financial subsidiary of a national bank under section 24a of this title.
 
 #### (2) Financial subsidiary treated as an affiliate ####
 
@@ -212,51 +212,51 @@ The effective date of this Act, referred to in subsec. (b)(2)(E), probably means
 
 The Gramm-Leach-Bliley Act, referred to in subsecs. (b)(11) and (e)(4)(B), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Section 122 of the Act is set out as a note under section 1843 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
 
-This chapter, referred to in subsec. (e)(4)(B), was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. For complete classification of this act to the Code, see References in Text note set out under section 226 of this title and Tables.
+This chapter, referred to in subsec. (e)(4)(B), was in the original "this Act", meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. For complete classification of this act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
 #### Amendments ####
 
 **2010**—Subsec. (b)(1)(D). Pub. L. 111–203, §608(a)(1)(A), added subpar. (D) and struck out former subpar. (D) which read as follows:
 
-“(i) any company, including a real estate investment trust, that is sponsored and advised on a contractual basis by the member bank or any subsidiary or affiliate of the member bank; or
+"(i) any company, including a real estate investment trust, that is sponsored and advised on a contractual basis by the member bank or any subsidiary or affiliate of the member bank; or
 
-“(ii) any investment company with respect to which a member bank or any affiliate thereof is an investment advisor as defined in section 80a–2(a)(20) of title 15; and”.
+"(ii) any investment company with respect to which a member bank or any affiliate thereof is an investment advisor as defined in section 80a–2(a)(20) of title 15; and".
 
-Subsec. (b)(7)(A). Pub. L. 111–203, §608(a)(1)(B)(i), inserted “, including a purchase of assets subject to an agreement to repurchase” before semicolon at end.
+Subsec. (b)(7)(A). Pub. L. 111–203, §608(a)(1)(B)(i), inserted ", including a purchase of assets subject to an agreement to repurchase" before semicolon at end.
 
-Subsec. (b)(7)(C). Pub. L. 111–203, §608(a)(1)(B)(ii), struck out “, including assets subject to an agreement to repurchase,” after “purchase of assets”.
+Subsec. (b)(7)(C). Pub. L. 111–203, §608(a)(1)(B)(ii), struck out ", including assets subject to an agreement to repurchase," after "purchase of assets".
 
-Subsec. (b)(7)(D). Pub. L. 111–203, §608(a)(1)(B)(iii)(I), inserted “or other debt obligations” after “acceptance of securities”.
+Subsec. (b)(7)(D). Pub. L. 111–203, §608(a)(1)(B)(iii)(I), inserted "or other debt obligations" after "acceptance of securities".
 
 Subsec. (b)(7)(F), (G). Pub. L. 111–203, §608(a)(1)(B)(iii)(II), (iv), added subpars. (F) and (G).
 
-Subsec. (c)(1). Pub. L. 111–203, §608(a)(2)(A)(i), substituted “subsidiary, and any credit exposure of a member bank or a subsidiary to an affiliate resulting from a securities borrowing or lending transaction, or a derivative transaction, shall be secured at all times” for “subsidiary shall be secured at the time of the transaction” in introductory provisions.
+Subsec. (c)(1). Pub. L. 111–203, §608(a)(2)(A)(i), substituted "subsidiary, and any credit exposure of a member bank or a subsidiary to an affiliate resulting from a securities borrowing or lending transaction, or a derivative transaction, shall be secured at all times" for "subsidiary shall be secured at the time of the transaction" in introductory provisions.
 
-Subsec. (c)(1)(A) to (D). Pub. L. 111–203, §608(a)(2)(A)(ii), substituted “letter of credit, or credit exposure” for “or letter of credit”.
+Subsec. (c)(1)(A) to (D). Pub. L. 111–203, §608(a)(2)(A)(ii), substituted "letter of credit, or credit exposure" for "or letter of credit".
 
-Subsec. (c)(2). Pub. L. 111–203, §608(a)(2)(D), inserted “, or credit exposure to an affiliate resulting from a securities borrowing or lending transaction, or derivative transaction” before period at end.
+Subsec. (c)(2). Pub. L. 111–203, §608(a)(2)(D), inserted ", or credit exposure to an affiliate resulting from a securities borrowing or lending transaction, or derivative transaction" before period at end.
 
-Pub. L. 111–203, §608(a)(2)(B), (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Any such collateral that is subsequently retired or amortized shall be replaced by additional eligible collateral where needed to keep the percentage of the collateral value relative to the amount of the outstanding loan or extension of credit, guarantee, acceptance, or letter of credit equal to the minimum percentage required at the inception of the transaction.”
+Pub. L. 111–203, §608(a)(2)(B), (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "Any such collateral that is subsequently retired or amortized shall be replaced by additional eligible collateral where needed to keep the percentage of the collateral value relative to the amount of the outstanding loan or extension of credit, guarantee, acceptance, or letter of credit equal to the minimum percentage required at the inception of the transaction."
 
-Subsec. (c)(3). Pub. L. 111–203, §608(a)(2)(E), inserted “or other debt obligations” after “securities” and substituted “guarantee, acceptance, or letter of credit issued on behalf of, or credit exposure from a securities borrowing or lending transaction, or derivative transaction to,” for “or guarantee, acceptance, or letter of credit issued on behalf of,”.
+Subsec. (c)(3). Pub. L. 111–203, §608(a)(2)(E), inserted "or other debt obligations" after "securities" and substituted "guarantee, acceptance, or letter of credit issued on behalf of, or credit exposure from a securities borrowing or lending transaction, or derivative transaction to," for "or guarantee, acceptance, or letter of credit issued on behalf of,".
 
 Pub. L. 111–203, §608(a)(2)(C), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
 Subsec. (c)(4), (5). Pub. L. 111–203, §608(a)(2)(C), redesignated par. (5) as (4). Former par. (4) redesignated (3).
 
-Subsec. (d)(4). Pub. L. 111–203, §608(a)(3), substituted “issuing a guarantee, acceptance, or letter of credit on behalf of, or having credit exposure resulting from a securities borrowing or lending transaction, or derivative transaction to,” for “or issuing a guarantee, acceptance, or letter of credit on behalf of,” in introductory provisions.
+Subsec. (d)(4). Pub. L. 111–203, §608(a)(3), substituted "issuing a guarantee, acceptance, or letter of credit on behalf of, or having credit exposure resulting from a securities borrowing or lending transaction, or derivative transaction to," for "or issuing a guarantee, acceptance, or letter of credit on behalf of," in introductory provisions.
 
 Subsec. (e)(3), (4). Pub. L. 111–203, §609(a), redesignated par. (4) as (3) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows:
 
-“(A) Exception from limit on covered transactions with any individual financial subsidiary.—Notwithstanding paragraph (2), the restriction contained in subsection (a)(1)(A) of this section shall not apply with respect to covered transactions between a bank and any individual financial subsidiary of the bank.
+"(A) Exception from limit on covered transactions with any individual financial subsidiary.—Notwithstanding paragraph (2), the restriction contained in subsection (a)(1)(A) of this section shall not apply with respect to covered transactions between a bank and any individual financial subsidiary of the bank.
 
-“(B) Exception for earnings retained by financial subsidiaries.—Notwithstanding paragraph (2) or subsection (b)(7) of this section, a bank's investment in a financial subsidiary of the bank shall not include retained earnings of the financial subsidiary.”
+"(B) Exception for earnings retained by financial subsidiaries.—Notwithstanding paragraph (2) or subsection (b)(7) of this section, a bank's investment in a financial subsidiary of the bank shall not include retained earnings of the financial subsidiary."
 
-Subsec. (f)(2). Pub. L. 111–203, §608(a)(4)(A)(iii), which directed “striking the Board and inserting” subpar. (A) designation and heading, followed by “The Board”, was executed by inserting subpar. (A) designation and heading before “The Board” as it appeared, to reflect the probable intent of Congress.
+Subsec. (f)(2). Pub. L. 111–203, §608(a)(4)(A)(iii), which directed "striking the Board and inserting" subpar. (A) designation and heading, followed by "The Board", was executed by inserting subpar. (A) designation and heading before "The Board" as it appeared, to reflect the probable intent of Congress.
 
-Pub. L. 111–203, §608(a)(4)(A)(ii), substituted “if—” for “if it finds such exemptions to be in the public interest and consistent with the purposes of this section.” and added cls. (i) and (ii).
+Pub. L. 111–203, §608(a)(4)(A)(ii), substituted "if—" for "if it finds such exemptions to be in the public interest and consistent with the purposes of this section." and added cls. (i) and (ii).
 
-Pub. L. 111–203, §608(a)(4)(A)(i), struck out “or order” after “regulation”.
+Pub. L. 111–203, §608(a)(4)(A)(i), struck out "or order" after "regulation".
 
 Subsec. (f)(2)(B). Pub. L. 111–203, §608(a)(4)(A)(iv), added subpar. (B).
 
@@ -268,45 +268,45 @@ Subsec. (e). Pub. L. 106–102, §121(b)(1)(B), added subsec. (e). Former subsec
 
 Subsec. (f). Pub. L. 106–102, §121(b)(1)(A), (3), redesignated subsec. (e) as (f) and added par. (3).
 
-**1983**—Subsec. (d)(1). Pub. L. 97–457, §22(1), substituted “subject to the prohibition contained in subsection (a)(3) of this section” for “except for the purchase of a low-quality asset which is prohibited”.
+**1983**—Subsec. (d)(1). Pub. L. 97–457, §22(1), substituted "subject to the prohibition contained in subsection (a)(3) of this section" for "except for the purchase of a low-quality asset which is prohibited".
 
-Subsec. (d)(6). Pub. L. 97–457, §22(2), inserted “, subject to the prohibition contained in subsection (a)(3) of this section,” after “market quotation or”.
+Subsec. (d)(6). Pub. L. 97–457, §22(2), inserted ", subject to the prohibition contained in subsection (a)(3) of this section," after "market quotation or".
 
 **1982**—Pub. L. 97–320 amended section generally by substituting provisions in lettered subsections relating to restrictions on transactions with affiliates, collateral for such transactions, exemptions for certain transactions and rulemaking and additional exemptions, for prior undesignated paragraphs which read as follows:
 
-“No member bank shall (1) make any loan or any extension of credit to, or purchase securities under repurchase agreement from, any of its affiliates, or (2) invest any of its funds in the capital stock, bonds, debentures, or other such obligations of any such affiliate, or (3) accept the capital stock, bonds, debentures, or other such obligations of any such affiliate as collateral security for advances made to any person, partnership, association, or corporation, if, in the case of any such affiliate, the aggregate amount of such loans, extensions of credit, repurchase agreements, investments, and advances against such collateral security will exceed 10 per centum of the capital stock and surplus of such member bank, or if, in the case of all such affiliates, the aggregate amount of such loans, extensions of credits, repurchase agreements, investments, and advances against such collateral security will exceed 20 per centum of the capital stock and surplus of such member bank.
+"No member bank shall (1) make any loan or any extension of credit to, or purchase securities under repurchase agreement from, any of its affiliates, or (2) invest any of its funds in the capital stock, bonds, debentures, or other such obligations of any such affiliate, or (3) accept the capital stock, bonds, debentures, or other such obligations of any such affiliate as collateral security for advances made to any person, partnership, association, or corporation, if, in the case of any such affiliate, the aggregate amount of such loans, extensions of credit, repurchase agreements, investments, and advances against such collateral security will exceed 10 per centum of the capital stock and surplus of such member bank, or if, in the case of all such affiliates, the aggregate amount of such loans, extensions of credits, repurchase agreements, investments, and advances against such collateral security will exceed 20 per centum of the capital stock and surplus of such member bank.
 
-“Within the foregoing limitations, each loan or extension of credit of any kind or character to an affiliate shall be secured by collateral in the form of stocks, bonds, debentures, or other such obligations having a market value at the time of making the loan or extension of credit of at least 20 per centum more than the amount of the loan or extension of credit, or of at least 10 per centum more than the amount of the loan or extension of credit if it is secured by obligations of any State or of any political subdivision or agency thereof: *Provided*, That the provisions of this paragraph shall not apply to loans or extensions of credit secured by obligations of the United States Government, the Federal intermediate credit banks, the Federal land banks, or the Federal Home Loan Banks, or by such notes, drafts, bills of exchange, or bankers’ acceptances as are eligible for rediscount or for purchase by Federal Reserve Banks. A loan or extension of credit to a director, officer, clerk, or other employee, or any representative of any such affiliate, shall be deemed a loan to the affiliate to the extent that the proceeds of such loan are used for the benefit of or transferred to the affiliate.
+"Within the foregoing limitations, each loan or extension of credit of any kind or character to an affiliate shall be secured by collateral in the form of stocks, bonds, debentures, or other such obligations having a market value at the time of making the loan or extension of credit of at least 20 per centum more than the amount of the loan or extension of credit, or of at least 10 per centum more than the amount of the loan or extension of credit if it is secured by obligations of any State or of any political subdivision or agency thereof: *Provided*, That the provisions of this paragraph shall not apply to loans or extensions of credit secured by obligations of the United States Government, the Federal intermediate credit banks, the Federal land banks, or the Federal Home Loan Banks, or by such notes, drafts, bills of exchange, or bankers' acceptances as are eligible for rediscount or for purchase by Federal Reserve Banks. A loan or extension of credit to a director, officer, clerk, or other employee, or any representative of any such affiliate, shall be deemed a loan to the affiliate to the extent that the proceeds of such loan are used for the benefit of or transferred to the affiliate.
 
-“The provisions of this section shall not apply to any affiliate (1) engaged solely in holding the bank premises of the member bank with which it is affiliated; (2) engaged solely in conducting a safe-deposit business or the business of an agricultural credit corporation or livestock loan company; (3) in the capital stock of which a national banking association is authorized to invest pursuant to section 25 of this Act, as amended [12 U.S.C. 601 et seq.], or a subsidiary of such affiliate, all the stock of which (except qualifying shares of directors in an amount not to exceed 10 per centum) is owned by such affiliate; (4) organized under section 25(a) of this Act, as amended [12 U.S.C. 611 et seq.], of this title, or a subsidiary of such affiliate, all the stock of which (except qualifying shares of directors in an amount not to exceed 10 per centum) is owned by such affiliate; (5) engaged solely in holding obligations of the United States or obligations fully guaranteed by the United States as to principal and interest, the Federal intermediate credit banks, the Federal land banks, the Federal Home Loan Banks; (6) where the affiliate relationship has arisen out of a bona fide debt contracted prior to the date of the creation of such relationship; or (7) where the affiliate relationship exists by reason of the ownership or control of any voting shares thereof by a member bank as executor, administrator, trustee, receiver, agent, depositary, or in any other fiduciary capacity, except where such shares are held for the benefit of all or a majority of the stockholders of such member bank; but as to any such affiliate, member banks shall continue to be subject to other provisions of law applicable to loans by such banks and investments by such banks in stocks, bonds, debentures, or other such obligations. The provisions of this section shall likewise not apply to indebtedness of any affiliate for unpaid balances due a bank on assets purchased from such bank or to loans secured by, or extensions of credit against, obligations of the United States or obligations fully guaranteed by the United States as to principal and interest.
+"The provisions of this section shall not apply to any affiliate (1) engaged solely in holding the bank premises of the member bank with which it is affiliated; (2) engaged solely in conducting a safe-deposit business or the business of an agricultural credit corporation or livestock loan company; (3) in the capital stock of which a national banking association is authorized to invest pursuant to section 25 of this Act, as amended [12 U.S.C. 601 et seq.], or a subsidiary of such affiliate, all the stock of which (except qualifying shares of directors in an amount not to exceed 10 per centum) is owned by such affiliate; (4) organized under section 25(a) of this Act, as amended [12 U.S.C. 611 et seq.], of this title, or a subsidiary of such affiliate, all the stock of which (except qualifying shares of directors in an amount not to exceed 10 per centum) is owned by such affiliate; (5) engaged solely in holding obligations of the United States or obligations fully guaranteed by the United States as to principal and interest, the Federal intermediate credit banks, the Federal land banks, the Federal Home Loan Banks; (6) where the affiliate relationship has arisen out of a bona fide debt contracted prior to the date of the creation of such relationship; or (7) where the affiliate relationship exists by reason of the ownership or control of any voting shares thereof by a member bank as executor, administrator, trustee, receiver, agent, depositary, or in any other fiduciary capacity, except where such shares are held for the benefit of all or a majority of the stockholders of such member bank; but as to any such affiliate, member banks shall continue to be subject to other provisions of law applicable to loans by such banks and investments by such banks in stocks, bonds, debentures, or other such obligations. The provisions of this section shall likewise not apply to indebtedness of any affiliate for unpaid balances due a bank on assets purchased from such bank or to loans secured by, or extensions of credit against, obligations of the United States or obligations fully guaranteed by the United States as to principal and interest.
 
-“For the purposes of this section, (1) the term ‘extension of credit’ and ‘extensions of credit’ shall be deemed to include (A) any purchase of securities, other assets or obligations under repurchase agreement, and (B) the discount of promissory notes, bills of exchange, conditional sales contracts, or similar paper, whether with or without recourse, except that the acquisition of such paper by a member bank from another bank, without recourse, shall not be deemed to be a ‘discount’ by such member bank for such other bank; and (2) noninterest-bearing deposits to the credit of a bank shall not be deemed to be a loan or advance or extension of credit to the bank of deposit, nor shall the giving of immediate credit to a bank upon uncollected items received in the ordinary course of business be deemed to be a loan or advance or extension of credit to the depositing bank.
+"For the purposes of this section, (1) the term 'extension of credit' and 'extensions of credit' shall be deemed to include (A) any purchase of securities, other assets or obligations under repurchase agreement, and (B) the discount of promissory notes, bills of exchange, conditional sales contracts, or similar paper, whether with or without recourse, except that the acquisition of such paper by a member bank from another bank, without recourse, shall not be deemed to be a 'discount' by such member bank for such other bank; and (2) noninterest-bearing deposits to the credit of a bank shall not be deemed to be a loan or advance or extension of credit to the bank of deposit, nor shall the giving of immediate credit to a bank upon uncollected items received in the ordinary course of business be deemed to be a loan or advance or extension of credit to the depositing bank.
 
-“For the purposes of this section, the term ‘affiliate’ shall include, with respect to any member bank, any bank holding company of which such member bank is a subsidiary within the meaning of the Bank Holding Company Act of 1956, as amended [12 U.S.C. 1841 et seq.], and any other subsidiary of such company.
+"For the purposes of this section, the term 'affiliate' shall include, with respect to any member bank, any bank holding company of which such member bank is a subsidiary within the meaning of the Bank Holding Company Act of 1956, as amended [12 U.S.C. 1841 et seq.], and any other subsidiary of such company.
 
-“The provisions of this section shall not apply to (1) stock, bonds, debentures, or other obligations of any company of the kinds described in section 4(c)(1) of the Bank Holding Company Act of 1956, as amended [12 U.S.C. 1843(c)(1)]; (2) stock, bonds, debentures, or other obligations accepted as security for debts previously contracted, provided that such collateral shall not be held for a period of over two years; (3) shares which are of the kinds and amounts eligible for investment by national banks under the provisions of section 24 of this title; (4) any extension of credit by a member bank to a bank holding company of which such bank is a subsidiary or to another subsidiary of such bank holding company, if made within one year after July 1, 1966, and pursuant to a contract lawfully entered into prior to January 1, 1966; or (5) any transaction by a member bank with another bank the deposits of which are insured by the Federal Deposit Insurance Corporation, if more than 50 per centum of the voting stock of such other bank is owned by the member bank or held by trustees for the benefit of the shareholders of the member bank.”
+"The provisions of this section shall not apply to (1) stock, bonds, debentures, or other obligations of any company of the kinds described in section 4(c)(1) of the Bank Holding Company Act of 1956, as amended [12 U.S.C. 1843(c)(1)]; (2) stock, bonds, debentures, or other obligations accepted as security for debts previously contracted, provided that such collateral shall not be held for a period of over two years; (3) shares which are of the kinds and amounts eligible for investment by national banks under the provisions of section 24 of this title; (4) any extension of credit by a member bank to a bank holding company of which such bank is a subsidiary or to another subsidiary of such bank holding company, if made within one year after July 1, 1966, and pursuant to a contract lawfully entered into prior to January 1, 1966; or (5) any transaction by a member bank with another bank the deposits of which are insured by the Federal Deposit Insurance Corporation, if more than 50 per centum of the voting stock of such other bank is owned by the member bank or held by trustees for the benefit of the shareholders of the member bank."
 
-**1966**—Pub. L. 89–485 added last three pars. and struck out from third par. introductory statement that term “affiliate” shall include holding company affiliates as well as other affiliates, respectively. Such added pars. make “extension of credit” cover all purchases under repurchase agreements and the discount of promissory notes, bills of exchange, conditional sales contracts, or similar paper, whether with or without recourse, excluding therefrom such discounts by one bank for another, if without recourse, exclude from being deemed a loan, advance, or extension of credit noninterest bearing deposits to the credit of a bank or the giving of immediate credit to a bank for uncollected items received in the ordinary course of business, define term “affiliate” (superseding one stricken from par. three), and exempt stocks, bonds, debentures, or other obligations of companies described in section 4(c)(1) of the Bank Holding Company Act of 1956, as amended; or accepted as security for debts previously contracted, shares of the kind and amounts eligible for investment by national banks under section 24 of this title, loans by a bank to its holding company or a fellow subsidiary if made within one year after July 1, 1966 and pursuant to a contract lawfully entered before Jan. 1, 1966, and transactions between a member bank and a majority-owned insured bank.
+**1966**—Pub. L. 89–485 added last three pars. and struck out from third par. introductory statement that term "affiliate" shall include holding company affiliates as well as other affiliates, respectively. Such added pars. make "extension of credit" cover all purchases under repurchase agreements and the discount of promissory notes, bills of exchange, conditional sales contracts, or similar paper, whether with or without recourse, excluding therefrom such discounts by one bank for another, if without recourse, exclude from being deemed a loan, advance, or extension of credit noninterest bearing deposits to the credit of a bank or the giving of immediate credit to a bank for uncollected items received in the ordinary course of business, define term "affiliate" (superseding one stricken from par. three), and exempt stocks, bonds, debentures, or other obligations of companies described in section 4(c)(1) of the Bank Holding Company Act of 1956, as amended; or accepted as security for debts previously contracted, shares of the kind and amounts eligible for investment by national banks under section 24 of this title, loans by a bank to its holding company or a fellow subsidiary if made within one year after July 1, 1966 and pursuant to a contract lawfully entered before Jan. 1, 1966, and transactions between a member bank and a majority-owned insured bank.
 
-**1959**—Pub. L. 86–230 struck out from second and third pars. references to Home Owners’ Loan Corporation after Federal Home Loan Banks.
+**1959**—Pub. L. 86–230 struck out from second and third pars. references to Home Owners' Loan Corporation after Federal Home Loan Banks.
 
-**1954**—Act June 30, 1954, amended third par. substituting “solely” for “on June 16, 1934” after “(1) engaged” and struck out “or in maintaining and operating properties acquired for banking purposes prior to such date” after “is affiliated”.
+**1954**—Act June 30, 1954, amended third par. substituting "solely" for "on June 16, 1934" after "(1) engaged" and struck out "or in maintaining and operating properties acquired for banking purposes prior to such date" after "is affiliated".
 
 **1935**—Act Aug. 23, 1935, amended third par.
 
 #### Effective Date of 2010 Amendment ####
 
-Pub. L. 111–203, title VI, §608(d), July 21, 2010, 124 Stat. 1611, provided that: “The amendments made by this section [amending this section and sections 371c–1 and 1468 of this title] shall take effect 1 year after the transfer date.”
+Pub. L. 111–203, title VI, §608(d), July 21, 2010, 124 Stat. 1611, provided that: "The amendments made by this section [amending this section and sections 371c–1 and 1468 of this title] shall take effect 1 year after the transfer date."
 
-[For definition of “transfer date” as used in section 608(d) of Pub. L. 111–203, set out above, see section 5301 of this title.]
+[For definition of "transfer date" as used in section 608(d) of Pub. L. 111–203, set out above, see section 5301 of this title.]
 
 Pub. L. 111–203, title VI, §609(b), (c), July 21, 2010, 124 Stat. 1611, provided that:
 
-“(b) Prospective Application of Amendment.—The amendments made by this section [amending this section] shall apply with respect to any covered transaction between a bank and a subsidiary of the bank, as those terms are defined in section 23A of the Federal Reserve Act (12 U.S.C. 371c), that is entered into on or after the date of enactment of this Act [July 21, 2010].
+"(b) Prospective Application of Amendment.—The amendments made by this section [amending this section] shall apply with respect to any covered transaction between a bank and a subsidiary of the bank, as those terms are defined in section 23A of the Federal Reserve Act (12 U.S.C. 371c), that is entered into on or after the date of enactment of this Act [July 21, 2010].
 
-“(c) Effective Date.—The amendments made by this section shall take effect 1 year after the transfer date.”
+"(c) Effective Date.—The amendments made by this section shall take effect 1 year after the transfer date."
 
-[For definition of “transfer date” as used in section 609(b), (c) of Pub. L. 111–203, set out above, see section 5301 of this title.]
+[For definition of "transfer date" as used in section 609(b), (c) of Pub. L. 111–203, set out above, see section 5301 of this title.]
 
 #### Effective Date of 1999 Amendment ####
 
@@ -314,4 +314,4 @@ Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see secti
 
 #### Effective Date of 1982 Amendment ####
 
-Pub. L. 97–320, title IV, §410(c), Oct. 15, 1982, 96 Stat. 1520, provided that: “Section 23A of the Federal Reserve Act, as amended by this section [this section], shall apply to any transaction entered into after the date of enactment of this Act [Oct. 15, 1982], except for transactions which are the subject of a binding written contract or commitment entered into on or before July 28, 1982, and except that any renewal of a participation in a loan outstanding on July 28, 1982, to a company that becomes an affiliate as a result of the enactment of this Act [see section 1 of Pub. L. 97–320, set out as a Short Title of 1982 Amendments note under section 226 of this title], or any participation in a loan to such an affiliate emanating from the renewal of a binding written contract or commitment outstanding on July 28, 1982, shall not be subject to the collateral requirements of this Act.”
+Pub. L. 97–320, title IV, §410(c), Oct. 15, 1982, 96 Stat. 1520, provided that: "Section 23A of the Federal Reserve Act, as amended by this section [this section], shall apply to any transaction entered into after the date of enactment of this Act [Oct. 15, 1982], except for transactions which are the subject of a binding written contract or commitment entered into on or before July 28, 1982, and except that any renewal of a participation in a loan outstanding on July 28, 1982, to a company that becomes an affiliate as a result of the enactment of this Act [see section 1 of Pub. L. 97–320, set out as a Short Title of 1982 Amendments note under section 226 of this title], or any participation in a loan to such an affiliate emanating from the renewal of a binding written contract or commitment outstanding on July 28, 1982, shall not be subject to the collateral requirements of this Act."

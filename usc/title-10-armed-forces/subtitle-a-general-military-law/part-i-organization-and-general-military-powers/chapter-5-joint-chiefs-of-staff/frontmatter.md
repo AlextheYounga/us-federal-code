@@ -34,6 +34,6 @@ Section 143, acts Aug. 10, 1956, ch. 1041, 70A Stat. 7; Aug. 6, 1958, Pub. L. 85
 
 Pub. L. 110–181, div. A, title V, §543(e)(2), Jan. 28, 2008, 122 Stat. 115, added item 156.
 
-**1987**—Pub. L. 100–180, div. A, title XIII, §1314(b)(1)(B), Dec. 4, 1987, 101 Stat. 1175, substituted “grade and rank” for “rank” in item 152.
+**1987**—Pub. L. 100–180, div. A, title XIII, §1314(b)(1)(B), Dec. 4, 1987, 101 Stat. 1175, substituted "grade and rank" for "rank" in item 152.
 
 **1986**—Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1005, amended chapter 5 heading and analysis generally, substituting items 151–155 for items 141–143.

@@ -6,13 +6,13 @@ All collections of rocks, minerals, soils, fossils, and objects of natural histo
 
 #### Codification ####
 
-Words “Coast and Interior Survey” appearing in act Mar. 3, 1879, were in prior editions of the Code changed to “Coast and Geodetic Survey.” Congress never created a Coast and Interior Survey. In a communication dated Nov. 6, 1940, the Director of the Geological Survey explained that the words “Coast and Interior Survey” were inadvertently incorporated upon authority of report contained in Senate Misc. Doc. No. 9, 45th Congress, 3d Session, which recommended the “Coast and Geodetic Survey” be changed to “United States Coast and Interior Survey” and an organization be created in the Interior Department to be known as the “United States Geological Survey.” Congress adopted only the latter suggestion.
+Words "Coast and Interior Survey" appearing in act Mar. 3, 1879, were in prior editions of the Code changed to "Coast and Geodetic Survey." Congress never created a Coast and Interior Survey. In a communication dated Nov. 6, 1940, the Director of the Geological Survey explained that the words "Coast and Interior Survey" were inadvertently incorporated upon authority of report contained in Senate Misc. Doc. No. 9, 45th Congress, 3d Session, which recommended the "Coast and Geodetic Survey" be changed to "United States Coast and Interior Survey" and an organization be created in the Interior Department to be known as the "United States Geological Survey." Congress adopted only the latter suggestion.
 
 Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Environmental Science Services Administration abolished in 1970 and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic and Atmospheric Administration, 35 F.R. 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. See notes set out under section 311 of Title 15, Commerce and Trade.
 
 #### Change of Name ####
 
-“United States Geological Survey” substituted in text for “Geological Survey” pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
+"United States Geological Survey" substituted in text for "Geological Survey" pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
 
 #### National Museum ####
 
@@ -20,7 +20,7 @@ Establishment of the National Museum, see note set out under section 50 of this 
 
 #### National Museum of American History ####
 
-Pub. L. 96–441, §2, Oct. 13, 1980, 94 Stat. 1884, provided that: “The bureau of the Smithsonian Institution known as the Museum of History and Technology and so referred to in the Act entitled ‘An Act to authorize the construction of a building for a Museum of History and Technology for the Smithsonian Institution, including the preparation of plans and specifications, and all other work incidental thereto’, approved June 28, 1955 (20 U.S.C. 59 note), shall be known as the ‘National Museum of American History’.”
+Pub. L. 96–441, §2, Oct. 13, 1980, 94 Stat. 1884, provided that: "The bureau of the Smithsonian Institution known as the Museum of History and Technology and so referred to in the Act entitled 'An Act to authorize the construction of a building for a Museum of History and Technology for the Smithsonian Institution, including the preparation of plans and specifications, and all other work incidental thereto', approved June 28, 1955 (20 U.S.C. 59 note), shall be known as the 'National Museum of American History'."
 
 For provision deeming references to the Museum of History and Technology in laws and regulations to be references to the National Museum of American History, see section of 3 of Pub. L. 96–441, set out as a note under section 71 of this title.
 

@@ -4,4 +4,4 @@ Section, added Pub. L. 91–172, title I, §121(e)(1), Dec. 30, 1969, 83 Stat. 5
 
 #### Effective Date of Repeal ####
 
-Pub. L. 96–167, §5(c), Dec. 29, 1979, 93 Stat. 1276, provided that: “The amendments made by this section [repealing this section] shall apply to transfers after the date of the enactment of this Act [Dec. 29, 1979].”
+Pub. L. 96–167, §5(c), Dec. 29, 1979, 93 Stat. 1276, provided that: "The amendments made by this section [repealing this section] shall apply to transfers after the date of the enactment of this Act [Dec. 29, 1979]."

@@ -24,7 +24,7 @@ Sec.
 
 #### Amendments ####
 
-**2001**—Pub. L. 107–56, title III, §373(c), Oct. 26, 2001, 115 Stat. 340, substituted “unlicensed” for “illegal” in item 1960.
+**2001**—Pub. L. 107–56, title III, §373(c), Oct. 26, 2001, 115 Stat. 340, substituted "unlicensed" for "illegal" in item 1960.
 
 **1992**—Pub. L. 102–550, title XV, §1512(b), Oct. 28, 1992, 106 Stat. 4058, added item 1960.
 

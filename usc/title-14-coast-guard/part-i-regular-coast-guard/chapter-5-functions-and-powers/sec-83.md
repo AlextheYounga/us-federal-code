@@ -12,7 +12,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments ####
 
-**1974**—Pub. L. 93–283 substituted “maritime navigation in or adjacent to the waters subject to the jurisdiction of the United States, its territories or possessions, or the Trust Territory of the Pacific Islands, or on the high seas if that person, or public body, or instrumentality is subject to the jurisdiction of the United States, without first obtaining authority” for “maritime navigation without first obtaining authority”.
+**1974**—Pub. L. 93–283 substituted "maritime navigation in or adjacent to the waters subject to the jurisdiction of the United States, its territories or possessions, or the Trust Territory of the Pacific Islands, or on the high seas if that person, or public body, or instrumentality is subject to the jurisdiction of the United States, without first obtaining authority" for "maritime navigation without first obtaining authority".
 
 #### Termination of Trust Territory of the Pacific Islands ####
 

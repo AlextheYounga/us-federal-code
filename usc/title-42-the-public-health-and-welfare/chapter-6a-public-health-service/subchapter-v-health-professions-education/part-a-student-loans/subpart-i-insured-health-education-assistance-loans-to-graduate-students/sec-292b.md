@@ -20,4 +20,4 @@ A prior section 703 of act July 1, 1994, was classified to section 292c of this 
 
 #### Amendments ####
 
-**1998**—Subsec. (a). Pub. L. 105–392 substituted “or behavioral and mental health practice, including clinical psychology” for “or clinical psychology” in first sentence.
+**1998**—Subsec. (a). Pub. L. 105–392 substituted "or behavioral and mental health practice, including clinical psychology" for "or clinical psychology" in first sentence.

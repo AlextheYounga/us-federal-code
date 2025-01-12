@@ -36,35 +36,35 @@ who is on active duty as a result of a call or order to active duty for a period
 
 #### Amendments ####
 
-**2006**—Subsec. (b)(4). Pub. L. 109–163 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Secretary concerned may terminate at any time the eligibility of an officer to receive retention special pay under paragraph (1). If such eligibility is terminated, the officer concerned shall receive such special pay only for the part of the period of active duty that the officer served and may be required to refund any amount in excess of that amount.”
+**2006**—Subsec. (b)(4). Pub. L. 109–163 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The Secretary concerned may terminate at any time the eligibility of an officer to receive retention special pay under paragraph (1). If such eligibility is terminated, the officer concerned shall receive such special pay only for the part of the period of active duty that the officer served and may be required to refund any amount in excess of that amount."
 
-**2002**—Subsec. (b)(1). Pub. L. 107–314 substituted “$15,000” for “$6,000”.
+**2002**—Subsec. (b)(1). Pub. L. 107–314 substituted "$15,000" for "$6,000".
 
-**2000**—Subsec. (b)(1). Pub. L. 106–398 substituted “the Secretary concerned may pay an officer described in paragraph (2) a” for “an officer described in paragraph (2) may be paid”.
+**2000**—Subsec. (b)(1). Pub. L. 106–398 substituted "the Secretary concerned may pay an officer described in paragraph (2) a" for "an officer described in paragraph (2) may be paid".
 
-**1996**—Subsec. (b)(2). Pub. L. 104–201, §614(a)(1)(A), substituted “a uniformed service” for “an armed force” in introductory provisions.
+**1996**—Subsec. (b)(2). Pub. L. 104–201, §614(a)(1)(A), substituted "a uniformed service" for "an armed force" in introductory provisions.
 
-Subsec. (b)(2)(C). Pub. L. 104–201, §614(a)(1)(B), struck out “of the military department” before “concerned to be”.
+Subsec. (b)(2)(C). Pub. L. 104–201, §614(a)(1)(B), struck out "of the military department" before "concerned to be".
 
-Subsec. (b)(4). Pub. L. 104–201, §614(a)(2), struck out “of the military department” before “concerned may terminate”.
+Subsec. (b)(4). Pub. L. 104–201, §614(a)(2), struck out "of the military department" before "concerned may terminate".
 
 **1990**—Pub. L. 101–510 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-**1987**—Pub. L. 100–26 substituted “A” for “a” at beginning of pars. (1) to (3), “; or” for “, or” at end of par. (1)(A), period for semicolon at end of par. (1)(B), and period for “; and” at end of par. (2).
+**1987**—Pub. L. 100–26 substituted "A" for "a" at beginning of pars. (1) to (3), "; or" for ", or" at end of par. (1)(A), period for semicolon at end of par. (1)(B), and period for "; and" at end of par. (2).
 
-**1980**—Pub. L. 96–284 substituted “Each” for “(a) In addition to any other basic pay, special pay, incentive pay or allowance to which he is entitled, each”, struck out “beginning on or after October 1, 1977” after “active duty”, struck out subsec. (b) which prohibited inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay, and struck out subsec. (c) which provided that no special pay be paid for any month after September 1980.
+**1980**—Pub. L. 96–284 substituted "Each" for "(a) In addition to any other basic pay, special pay, incentive pay or allowance to which he is entitled, each", struck out "beginning on or after October 1, 1977" after "active duty", struck out subsec. (b) which prohibited inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay, and struck out subsec. (c) which provided that no special pay be paid for any month after September 1980.
 
-**1978**—Subsec. (c). Pub. L. 95–485 substituted “September 1980” for “September 1978”.
+**1978**—Subsec. (c). Pub. L. 95–485 substituted "September 1980" for "September 1978".
 
 **1977**—Subsec. (a). Pub. L. 95–114 amended subsec. (a) to provide for the reinstatement of special pay provisions for optometrists for each month on active duty beginning on or after Oct. 1, 1977.
 
 Subsecs. (b), (c). Pub. L. 95–114 reenacted subsec. (b) without change and added subsec. (c).
 
-**1973**—Subsec. (a). Pub. L. 93–64 substituted “July 1, 1975” for “July 1, 1973” wherever appearing.
+**1973**—Subsec. (a). Pub. L. 93–64 substituted "July 1, 1975" for "July 1, 1973" wherever appearing.
 
 #### Effective Date of 1977 Amendment ####
 
-Pub. L. 95–114, §4, Sept. 30, 1977, 91 Stat. 1047, provided that: “The amendments made by sections 2 and 3 of this Act [amending this section and section 303 of this title] become effective on October 1, 1977.”
+Pub. L. 95–114, §4, Sept. 30, 1977, 91 Stat. 1047, provided that: "The amendments made by sections 2 and 3 of this Act [amending this section and section 303 of this title] become effective on October 1, 1977."
 
 #### Effective Date of 1973 Amendment ####
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 93–64 effective July 1, 1973, see section 206 of Pub. L. 
 
 #### Effective Date ####
 
-Pub. L. 92–129, title II, §209, Sept. 28, 1971, 85 Stat. 359, provided that: “The foregoing provisions of this title [enacting this section and section 428 of this title and amending sections 203 and 403 of this title and sections 2204 and 2207 of Title 50, Appendix, War and National Defense] shall become effective on October 1, 1971, except that section 203 [enacting section 308a of this title] shall become effective on such date as shall be prescribed by the Secretary of Defense, but not earlier than February 1, 1971, and section 206 [amending section 2203 of Title 50, Appendix] shall become effective July 1, 1971.”
+Pub. L. 92–129, title II, §209, Sept. 28, 1971, 85 Stat. 359, provided that: "The foregoing provisions of this title [enacting this section and section 428 of this title and amending sections 203 and 403 of this title and sections 2204 and 2207 of Title 50, Appendix, War and National Defense] shall become effective on October 1, 1971, except that section 203 [enacting section 308a of this title] shall become effective on such date as shall be prescribed by the Secretary of Defense, but not earlier than February 1, 1971, and section 206 [amending section 2203 of Title 50, Appendix] shall become effective July 1, 1971."
 
 #### Savings Provision ####
 

@@ -30,87 +30,87 @@
 
 #### Amendments ####
 
-**2013**—Subsec. (i). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+**2013**—Subsec. (i). Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-**2011**—Subsec. (i). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+**2011**—Subsec. (i). Pub. L. 112–81 substituted "December 31, 2012" for "December 31, 2011".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
-**2009**—Subsec. (i). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+**2009**—Subsec. (i). Pub. L. 111–84 substituted "December 31, 2010" for "December 31, 2009".
 
-**2008**—Subsec. (c)(1). Pub. L. 110–181, §620, inserted before semicolon “or has served in the armed forces, but was released from such service before completing the basic training requirements of the armed force of which the person was a member and the service was characterized as either honorable or uncharacterized”.
+**2008**—Subsec. (c)(1). Pub. L. 110–181, §620, inserted before semicolon "or has served in the armed forces, but was released from such service before completing the basic training requirements of the armed force of which the person was a member and the service was characterized as either honorable or uncharacterized".
 
-Subsec. (i). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+Subsec. (i). Pub. L. 110–417 substituted "December 31, 2009" for "December 31, 2008".
 
-Pub. L. 110–181, §611(b), substituted “December 31, 2008” for “December 31, 2007”.
+Pub. L. 110–181, §611(b), substituted "December 31, 2008" for "December 31, 2007".
 
 **2006**—Pub. L. 109–163, §631(a), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to payment of bonuses of up to $10,000 for enlistment in the Selected Reserve.
 
 Subsec. (g). Pub. L. 109–163, §687(b)(16), added subsec. (g) and struck out heading and text of former subsec. (g). Text read as follows:
 
-“(1) A person who enters into an agreement under subsection (a) or (c) and receives all or part of the bonus under the agreement, but who does not commence to serve in the Selected Reserve or does not satisfactorily participate in the Selected Reserve for the total period of service specified in the agreement, shall repay to the United States the amount of the bonus so paid, except as otherwise prescribed under paragraph (2).
+"(1) A person who enters into an agreement under subsection (a) or (c) and receives all or part of the bonus under the agreement, but who does not commence to serve in the Selected Reserve or does not satisfactorily participate in the Selected Reserve for the total period of service specified in the agreement, shall repay to the United States the amount of the bonus so paid, except as otherwise prescribed under paragraph (2).
 
-“(2) The Secretary concerned shall prescribe in regulations whether repayment of an amount otherwise required under paragraph (1) shall be made in whole or in part, the method for computing the amount of such repayment, and any conditions under which an exception to required repayment would apply.
+"(2) The Secretary concerned shall prescribe in regulations whether repayment of an amount otherwise required under paragraph (1) shall be made in whole or in part, the method for computing the amount of such repayment, and any conditions under which an exception to required repayment would apply.
 
-“(3) An obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to the United States. A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement entered into under subsection (a) or (c) does not discharge the individual signing the agreement from a debt arising under such agreement or under paragraph (1).”
+"(3) An obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to the United States. A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement entered into under subsection (a) or (c) does not discharge the individual signing the agreement from a debt arising under such agreement or under paragraph (1)."
 
-Subsec. (i). Pub. L. 109–364 substituted “December 31, 2007” for “December 31, 2006”.
+Subsec. (i). Pub. L. 109–364 substituted "December 31, 2007" for "December 31, 2006".
 
-**2004**—Subsec. (b). Pub. L. 108–375, §618(c)(1), substituted “$10,000” for “$8,000” in introductory provisions.
+**2004**—Subsec. (b). Pub. L. 108–375, §618(c)(1), substituted "$10,000" for "$8,000" in introductory provisions.
 
-Subsec. (e). Pub. L. 108–375, §611(b), substituted “December 31, 2005” for “December 31, 2004”.
+Subsec. (e). Pub. L. 108–375, §611(b), substituted "December 31, 2005" for "December 31, 2004".
 
-Subsec. (f). Pub. L. 108–375, §618(c)(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The total amount of expenditures under this section may not exceed $37,024,000 during fiscal year 1994.”
+Subsec. (f). Pub. L. 108–375, §618(c)(2), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "The total amount of expenditures under this section may not exceed $37,024,000 during fiscal year 1994."
 
-**2003**—Subsec. (e). Pub. L. 108–136 substituted “December 31, 2004” for “December 31, 2003”.
+**2003**—Subsec. (e). Pub. L. 108–136 substituted "December 31, 2004" for "December 31, 2003".
 
-**2002**—Subsec. (c). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+**2002**—Subsec. (c). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-Subsec. (e). Pub. L. 107–314 substituted “December 31, 2003” for “December 31, 2002”.
+Subsec. (e). Pub. L. 107–314 substituted "December 31, 2003" for "December 31, 2002".
 
-**2001**—Subsec. (e). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
+**2001**—Subsec. (e). Pub. L. 107–107 substituted "December 31, 2002" for "December 31, 2001".
 
-**2000**—Subsec. (e). Pub. L. 106–398 substituted “December 31, 2001” for “December 31, 2000”.
+**2000**—Subsec. (e). Pub. L. 106–398 substituted "December 31, 2001" for "December 31, 2000".
 
-**1999**—Subsec. (a). Pub. L. 106–65, §620(a), struck out “for a term of enlistment of not less than six years” after “Ready Reserve of an armed force”.
+**1999**—Subsec. (a). Pub. L. 106–65, §620(a), struck out "for a term of enlistment of not less than six years" after "Ready Reserve of an armed force".
 
-Subsec. (b). Pub. L. 106–65, §620(b), substituted “$8,000” for “$5,000” in introductory provisions.
+Subsec. (b). Pub. L. 106–65, §620(b), substituted "$8,000" for "$5,000" in introductory provisions.
 
-Subsec. (e). Pub. L. 106–65, §611(c), substituted “December 31, 2000” for “December 31, 1999”.
+Subsec. (e). Pub. L. 106–65, §611(c), substituted "December 31, 2000" for "December 31, 1999".
 
-**1998**—Subsec. (e). Pub. L. 105–261 substituted “December 31, 1999” for “September 30, 1999”.
+**1998**—Subsec. (e). Pub. L. 105–261 substituted "December 31, 1999" for "September 30, 1999".
 
-**1997**—Subsec. (e). Pub. L. 105–85 substituted “September 30, 1999” for “September 30, 1998”.
+**1997**—Subsec. (e). Pub. L. 105–85 substituted "September 30, 1999" for "September 30, 1998".
 
-**1996**—Subsec. (e). Pub. L. 104–201 substituted “September 30, 1998” for “September 30, 1997”.
+**1996**—Subsec. (e). Pub. L. 104–201 substituted "September 30, 1998" for "September 30, 1997".
 
-Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996”.
+Pub. L. 104–106 substituted "September 30, 1997" for "September 30, 1996".
 
-**1994**—Subsec. (e). Pub. L. 103–337 substituted “September 30, 1996” for “September 30, 1995”.
+**1994**—Subsec. (e). Pub. L. 103–337 substituted "September 30, 1996" for "September 30, 1995".
 
-**1993**—Subsec. (b). Pub. L. 103–160, §612(b)(1), substituted “$5,000” for “$2,000” in introductory provisions and “an amount not to exceed one-half of the bonus may be paid” for “one-half of the bonus shall be paid” in par. (1).
+**1993**—Subsec. (b). Pub. L. 103–160, §612(b)(1), substituted "$5,000" for "$2,000" in introductory provisions and "an amount not to exceed one-half of the bonus may be paid" for "one-half of the bonus shall be paid" in par. (1).
 
-Subsec. (e). Pub. L. 103–160, §612(b)(2), substituted “September 30, 1995” for “September 30, 1993”.
+Subsec. (e). Pub. L. 103–160, §612(b)(2), substituted "September 30, 1995" for "September 30, 1993".
 
 Subsec. (f). Pub. L. 103–160, §612(b)(3), added subsec. (f).
 
-**1992**—Subsec. (e). Pub. L. 102–484 substituted “September 30, 1993” for “September 30, 1992”.
+**1992**—Subsec. (e). Pub. L. 102–484 substituted "September 30, 1993" for "September 30, 1992".
 
-**1990**—Subsecs. (e), (f). Pub. L. 101–510 redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “The Secretary of Defense shall submit a report to the Congress every three months stating the number of members of the Selected Reserve of the Ready Reserve who at the time of such report are serving a term of enlistment for which a bonus has been paid under this section and listing each unit of the Selected Reserve of the Ready Reserve to which any such member is assigned at the time of such report.”
+**1990**—Subsecs. (e), (f). Pub. L. 101–510 redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: "The Secretary of Defense shall submit a report to the Congress every three months stating the number of members of the Selected Reserve of the Ready Reserve who at the time of such report are serving a term of enlistment for which a bonus has been paid under this section and listing each unit of the Selected Reserve of the Ready Reserve to which any such member is assigned at the time of such report."
 
-**1989**—Subsec. (a). Pub. L. 101–189, §652(b)(2), struck out “, after September 30, 1978,” after “Any person who”.
+**1989**—Subsec. (a). Pub. L. 101–189, §652(b)(2), struck out ", after September 30, 1978," after "Any person who".
 
-Subsec. (e). Pub. L. 101–189, §652(b)(1), struck out at end “The first such report shall be made not later than December 31, 1978.”
+Subsec. (e). Pub. L. 101–189, §652(b)(1), struck out at end "The first such report shall be made not later than December 31, 1978."
 
-Subsec. (f). Pub. L. 101–189, §613, substituted “September 30, 1992” for “September 30, 1990”.
+Subsec. (f). Pub. L. 101–189, §613, substituted "September 30, 1992" for "September 30, 1990".
 
-**1987**—Subsec. (f). Pub. L. 100–180 substituted “September 30, 1990” for “September 30, 1987”.
+**1987**—Subsec. (f). Pub. L. 100–180 substituted "September 30, 1990" for "September 30, 1987".
 
-**1985**—Subsec. (f). Pub. L. 99–145 substituted “September 30, 1987” for “September 30, 1985”.
+**1985**—Subsec. (f). Pub. L. 99–145 substituted "September 30, 1987" for "September 30, 1985".
 
-**1981**—Subsec. (e). Pub. L. 97–22 substituted “Secretary of Defense” for “Secretary of defense”.
+**1981**—Subsec. (e). Pub. L. 97–22 substituted "Secretary of Defense" for "Secretary of defense".
 
-**1980**—Subsec. (f). Pub. L. 96–342 substituted “September 30, 1985” for “September 30, 1980”.
+**1980**—Subsec. (f). Pub. L. 96–342 substituted "September 30, 1985" for "September 30, 1980".
 
 #### Effective Date of 2008 Amendment ####
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date of 1999 Amendment ####
 
-Pub. L. 106–65, div. A, title VI, §620(c), Oct. 5, 1999, 113 Stat. 653, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall take effect on October 1, 1999, and shall apply with respect to enlistments entered into on or after that date.”
+Pub. L. 106–65, div. A, title VI, §620(c), Oct. 5, 1999, 113 Stat. 653, provided that: "The amendments made by subsections (a) and (b) [amending this section] shall take effect on October 1, 1999, and shall apply with respect to enlistments entered into on or after that date."
 
 #### Effective Date of 1993 Amendment ####
 

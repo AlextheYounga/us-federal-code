@@ -16,11 +16,11 @@ Witnesses summoned before the Commission shall be paid the same fees and mileage
 
 #### Amendments ####
 
-**1975**—First par. Pub. L. 93–637, §203(b)(1), substituted “person, partnership, or corporation” for “corporation”.
+**1975**—First par. Pub. L. 93–637, §203(b)(1), substituted "person, partnership, or corporation" for "corporation".
 
-Third par. Pub. L. 93–637, §203(b)(2), substituted “person, partnership, or corporation” for “corporation or other person” wherever appearing.
+Third par. Pub. L. 93–637, §203(b)(2), substituted "person, partnership, or corporation" for "corporation or other person" wherever appearing.
 
-Fourth par. Pub. L. 93–637, §203(b)(3), substituted “person, partnership, or corporation” for “person or corporation”.
+Fourth par. Pub. L. 93–637, §203(b)(3), substituted "person, partnership, or corporation" for "person or corporation".
 
 **1970**—Seventh par. Pub. L. 91–452 struck out provisions which granted immunity from prosecution for any natural person testifying or producing evidence, documentary or otherwise, before the commission in obedience to a subpoena issued by it.
 

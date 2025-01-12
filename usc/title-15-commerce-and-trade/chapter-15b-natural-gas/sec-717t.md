@@ -8,6 +8,6 @@
 
 #### Amendments ####
 
-**2005**—Subsec. (a). Pub. L. 109–58, §314(a)(1)(A), substituted “$1,000,000” for “$5,000” and “5 years” for “two years”.
+**2005**—Subsec. (a). Pub. L. 109–58, §314(a)(1)(A), substituted "$1,000,000" for "$5,000" and "5 years" for "two years".
 
-Subsec. (b). Pub. L. 109–58, §314(a)(1)(B), substituted “$50,000” for “$500”.
+Subsec. (b). Pub. L. 109–58, §314(a)(1)(B), substituted "$50,000" for "$500".

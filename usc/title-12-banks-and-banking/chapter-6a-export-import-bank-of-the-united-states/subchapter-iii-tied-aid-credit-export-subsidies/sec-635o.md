@@ -14,8 +14,8 @@ The purpose of this subchapter is—
 
 #### References in Text ####
 
-This subchapter, referred to in text, was in the original “this part”, meaning part C (§§641–647, 650) of title VI of Pub. L. 98–181, title I, Nov. 30, 1983, 97 Stat. 1263, known as the Trade and Development Enhancement Act of 1983, which enacted this subchapter and section 1671g of Title 19, Customs Duties, and amended sections 1671a and 1671b of Title 19. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This subchapter, referred to in text, was in the original "this part", meaning part C (§§641–647, 650) of title VI of Pub. L. 98–181, title I, Nov. 30, 1983, 97 Stat. 1263, known as the Trade and Development Enhancement Act of 1983, which enacted this subchapter and section 1671g of Title 19, Customs Duties, and amended sections 1671a and 1671b of Title 19. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Short Title ####
 
-Pub. L. 98–181, title I [title VI, §641], Nov. 30, 1983, 97 Stat. 1263, provided that: “This part [part C (§§641–647, 650) of title VI, enacting this subchapter and section 1671g of Title 19, Customs Duties, and amending sections 1671a and 1671b of Title 19] may be referred to as the ‘Trade and Development Enhancement Act of 1983’.”
+Pub. L. 98–181, title I [title VI, §641], Nov. 30, 1983, 97 Stat. 1263, provided that: "This part [part C (§§641–647, 650) of title VI, enacting this subchapter and section 1671g of Title 19, Customs Duties, and amending sections 1671a and 1671b of Title 19] may be referred to as the 'Trade and Development Enhancement Act of 1983'."

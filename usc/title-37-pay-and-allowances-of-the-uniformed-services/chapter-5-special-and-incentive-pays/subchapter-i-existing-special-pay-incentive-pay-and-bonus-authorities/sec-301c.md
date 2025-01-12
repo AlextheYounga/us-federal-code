@@ -10,7 +10,7 @@
 
 (5) In this section:
 
-(A) The term “operational submarine duty” means duty—
+(A) The term "operational submarine duty" means duty—
 
 (i) while attached under competent orders to a submarine, while serving as an operator or crew member of an operational submersible (including an undersea exploration or research vehicle), while undergoing training preliminary to assignment to a nuclear-powered submarine, while undergoing rehabilitation after assignment to a nuclear-powered submarine, or, in the case of a member qualified in submarines, while attached as a member of a submarine operational command staff whose duties require serving on a submarine during underway operations—
 
@@ -24,7 +24,7 @@
 
 (iii) while receiving instruction to prepare for a position of increased responsibility on a submarine.
 
-(B) The term “submarine service” means the service performed, under regulations prescribed by the Secretary of the Navy, by a member, and the years of submarine service are computed beginning with the effective date of the initial order to perform submarine service.
+(B) The term "submarine service" means the service performed, under regulations prescribed by the Secretary of the Navy, by a member, and the years of submarine service are computed beginning with the effective date of the initial order to perform submarine service.
 
 (b) Monthly Rates.—The Secretary of the Navy shall prescribe the monthly rates of submarine duty incentive pay, except that the maximum monthly rate may not exceed $1,000.
 
@@ -38,35 +38,35 @@
 
 #### Amendments ####
 
-**2006**—Subsec. (d). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” in heading and text.
+**2006**—Subsec. (d). Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve" in heading and text.
 
-**2001**—Subsec. (a). Pub. L. 107–107, §617(b)(1), inserted heading and substituted “prescribed pursuant to subsection (b)” for “set forth in subsection (b)” in pars. (1), (2), and (4).
+**2001**—Subsec. (a). Pub. L. 107–107, §617(b)(1), inserted heading and substituted "prescribed pursuant to subsection (b)" for "set forth in subsection (b)" in pars. (1), (2), and (4).
 
 Subsec. (b). Pub. L. 107–107, §617(a), inserted heading and amended text generally, substituting provisions relating to the Secretary's discretion in prescribing submarine duty incentive pay rates for tables specifying those rates.
 
 Subsec. (c). Pub. L. 107–107, §617(b)(2), inserted heading.
 
-Subsec. (d). Pub. L. 107–107, §617(b)(3), inserted heading and substituted “prescribed pursuant to subsection (b)” for “authorized by subsection (b)”.
+Subsec. (d). Pub. L. 107–107, §617(b)(3), inserted heading and substituted "prescribed pursuant to subsection (b)" for "authorized by subsection (b)".
 
-**1991**—Pub. L. 102–25 struck out “of this section” and “of this subsection” wherever appearing in subsecs. (a) and (d).
+**1991**—Pub. L. 102–25 struck out "of this section" and "of this subsection" wherever appearing in subsecs. (a) and (d).
 
 Subsec. (b). Pub. L. 102–190, in table pertaining to warrant officers, added provisions relating to pay grade W–5 in two places.
 
-**1990**—Subsec. (e). Pub. L. 101–510 struck out subsec. (e) which read as follows: “The Secretary of Defense shall report to the Congress before January 1 each year—
+**1990**—Subsec. (e). Pub. L. 101–510 struck out subsec. (e) which read as follows: "The Secretary of Defense shall report to the Congress before January 1 each year—
 
-“(1) the number of enlisted members and officers, by pay grade, who, during the preceding fiscal year, had at least 12 but less than 18 years of submarine service and who were entitled to continuous monthly submarine duty incentive pay under subsection (a) of this section; and
+"(1) the number of enlisted members and officers, by pay grade, who, during the preceding fiscal year, had at least 12 but less than 18 years of submarine service and who were entitled to continuous monthly submarine duty incentive pay under subsection (a) of this section; and
 
-“(2) the number of enlisted members and officers, by pay grade, who, during such fiscal year, had at least 18 years of submarine service and who were entitled to such incentive pay.
+"(2) the number of enlisted members and officers, by pay grade, who, during such fiscal year, had at least 18 years of submarine service and who were entitled to such incentive pay.
 
-The Secretary shall include in each such report the number of enlisted members and the number of officers in each category referred to in the first sentence of this subsection, the number of such officers who, during the fiscal year concerned, were performing operational submarine duties, who were performing submarine command staff duties, and who were not performing submarine duties at all.”
+The Secretary shall include in each such report the number of enlisted members and the number of officers in each category referred to in the first sentence of this subsection, the number of such officers who, during the fiscal year concerned, were performing operational submarine duties, who were performing submarine command staff duties, and who were not performing submarine duties at all."
 
 **1988**—Subsec. (a). Pub. L. 100–456 made clarifying amendment to directory language of Pub. L. 100–180, §623(a). See 1987 Amendment note below.
 
-**1987**—Subsec. (a)(1), (2). Pub. L. 100–180, §623(a), as amended by Pub. L. 100–456, substituted “naval service” for “Navy”.
+**1987**—Subsec. (a)(1), (2). Pub. L. 100–180, §623(a), as amended by Pub. L. 100–456, substituted "naval service" for "Navy".
 
-Subsec. (a)(5). Pub. L. 100–26 substituted “In this section:” for “For the purposes of this section, the term—”, inserted “The term” at beginning of subpars. (A) and (B), and substituted “operational” for “Operational” and “submarine” for “Submarine” in subpars. (A) and (B), respectively.
+Subsec. (a)(5). Pub. L. 100–26 substituted "In this section:" for "For the purposes of this section, the term—", inserted "The term" at beginning of subpars. (A) and (B), and substituted "operational" for "Operational" and "submarine" for "Submarine" in subpars. (A) and (B), respectively.
 
-Subsec. (b). Pub. L. 100–224 struck out, preceding table for enlisted members, “(b) The monthly rates for special pay under subsection (a) are as follows:” which had inadvertently been inserted as a second subsec. (b) by Pub. L. 100–180, §623(b).
+Subsec. (b). Pub. L. 100–224 struck out, preceding table for enlisted members, "(b) The monthly rates for special pay under subsection (a) are as follows:" which had inadvertently been inserted as a second subsec. (b) by Pub. L. 100–180, §623(b).
 
 Pub. L. 100–180, §623(b), amended tables generally so as to reflect an upward adjustment in monthly incentive pay rates for enlisted members, commissioned officers, and warrant officers of all pay grades and years of service encompassed by tables.
 
@@ -76,7 +76,7 @@ Pub. L. 100–180, §623(b), amended tables generally so as to reflect an upward
 
 Subsec. (a)(2). Pub. L. 97–39, §701(a), substituted provisions relating to payment of submarine duty incentive pay for provisions relating to restrictions on payment of submarine duty incentive pay.
 
-Subsec. (a)(3), (4). Pub. L. 97–60 inserted “, but excluding, in the case of an officer, periods as an enlisted member before initial appointment as an officer” after “(as computed under section 205 of this title” in three places.
+Subsec. (a)(3), (4). Pub. L. 97–60 inserted ", but excluding, in the case of an officer, periods as an enlisted member before initial appointment as an officer" after "(as computed under section 205 of this title" in three places.
 
 Subsec. (a)(5)(A)(i). Pub. L. 97–39, §701(b), inserted provisions relating to service as an operator or crew member of an operational submersible.
 
@@ -92,21 +92,21 @@ Amendment by Pub. L. 100–456 applicable as if included in enactment of Pub. L.
 
 Pub. L. 100–180, div. A, title VI, §623(c), Dec. 4, 1987, 101 Stat. 1103, provided that:
 
-“(1) Subject to paragraph (2), the amendments made by this section [amending this section] shall take effect on the first day of the first month beginning after the date of the enactment of this Act [Dec. 4, 1987] and shall apply only with respect to duty performed on or after that date.
+"(1) Subject to paragraph (2), the amendments made by this section [amending this section] shall take effect on the first day of the first month beginning after the date of the enactment of this Act [Dec. 4, 1987] and shall apply only with respect to duty performed on or after that date.
 
-“(2) The amendments made by this section shall take effect only if legislation as described in section 3(c) is enacted [section 3(c) of Pub. L. 100–180, which is not classified to the Code].”
+"(2) The amendments made by this section shall take effect only if legislation as described in section 3(c) is enacted [section 3(c) of Pub. L. 100–180, which is not classified to the Code]."
 
 #### Effective Date of 1985 Amendment ####
 
-Pub. L. 99–145, title VI, §633(b), Nov. 8, 1985, 99 Stat. 646, provided that: “The amendment made by this section [amending this section] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title VI, §633(b), Nov. 8, 1985, 99 Stat. 646, provided that: "The amendment made by this section [amending this section] shall take effect on October 1, 1985."
 
 #### Effective Date of 1981 Amendment ####
 
-Pub. L. 97–39, title VII, §701(c), Aug. 14, 1981, 95 Stat. 942, provided that: “The amendments made by this section [amending this section] shall take effect as of January 1, 1981.”
+Pub. L. 97–39, title VII, §701(c), Aug. 14, 1981, 95 Stat. 942, provided that: "The amendments made by this section [amending this section] shall take effect as of January 1, 1981."
 
 #### Effective Date ####
 
-Pub. L. 96–579, §3(g), Dec. 23, 1980, 94 Stat. 3364, provided: “The amendments made by this subsection [probably means section 3 of Pub. L. 96–579, which enacted this section and amended sections 301 and 308 of this title] shall become effective on the first day of the first month following the month in which this Act is enacted [December, 1980].”
+Pub. L. 96–579, §3(g), Dec. 23, 1980, 94 Stat. 3364, provided: "The amendments made by this subsection [probably means section 3 of Pub. L. 96–579, which enacted this section and amended sections 301 and 308 of this title] shall become effective on the first day of the first month following the month in which this Act is enacted [December, 1980]."
 
 #### Delegation of Functions ####
 
@@ -114,8 +114,8 @@ For delegation of authority under this section to Secretaries of Defense, Commer
 
 #### Transition Provisions ####
 
-Pub. L. 107–107, div. A, title VI, §617(c), Dec. 28, 2001, 115 Stat. 1137, provided that: “The tables set forth in subsection (b) of section 301c of title 37, United States Code, as in effect on the day before the date of the enactment of this Act [Dec. 28, 2001], shall continue to apply until the later of the following:
+Pub. L. 107–107, div. A, title VI, §617(c), Dec. 28, 2001, 115 Stat. 1137, provided that: "The tables set forth in subsection (b) of section 301c of title 37, United States Code, as in effect on the day before the date of the enactment of this Act [Dec. 28, 2001], shall continue to apply until the later of the following:
 
-“(1) January 1, 2002.
+"(1) January 1, 2002.
 
-“(2) The date on which the Secretary of the Navy prescribes new submarine duty incentive pay rates as authorized by the amendment made by subsection (a) [amending this section].”
+"(2) The date on which the Secretary of the Navy prescribes new submarine duty incentive pay rates as authorized by the amendment made by subsection (a) [amending this section]."

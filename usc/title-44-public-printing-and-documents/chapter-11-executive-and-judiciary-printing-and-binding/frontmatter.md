@@ -12,7 +12,7 @@ Sec.
 
 1105. Form and style of work for departments.
 
-1106. Inserting “compliments” forbidden.
+1106. Inserting "compliments" forbidden.
 
 1107. Appropriations chargeable for printing and binding of documents or reports.
 
@@ -50,7 +50,7 @@ Sec.
 
 #### Amendments ####
 
-**1984**—Pub. L. 98–216, §3(d)(1), Feb. 14, 1984, 98 Stat. 6, substituted “Presidential” for “Bureau of Budget” in item 1108.
+**1984**—Pub. L. 98–216, §3(d)(1), Feb. 14, 1984, 98 Stat. 6, substituted "Presidential" for "Bureau of Budget" in item 1108.
 
 #### Federal Records Management Provisions Without Effect on Chapter ####
 

@@ -10,7 +10,7 @@ Provision of act Mar. 2, 1895, as to printing of the bulletin for distribution i
 
 Act Mar. 18, 1904, changed name of Department of Labor to Bureau of Labor.
 
-Act Mar. 4, 1913, authorized substitution of “Commissioner of Labor Statistics” and “Bureau of Labor Statistics” for “Commissioner of Labor” and “Bureau of Labor”, respectively.
+Act Mar. 4, 1913, authorized substitution of "Commissioner of Labor Statistics" and "Bureau of Labor Statistics" for "Commissioner of Labor" and "Bureau of Labor", respectively.
 
 #### Transfer of Functions ####
 

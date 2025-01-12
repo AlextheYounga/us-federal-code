@@ -20,7 +20,7 @@ It is declared to be the policy of the Congress, as expressed in this chapter, t
 
 #### Amendments ####
 
-**1940**—Subsec. (b). Act Mar. 6, 1940, substituted “January 1, 1942” for “January 1, 1941” wherever appearing.
+**1940**—Subsec. (b). Act Mar. 6, 1940, substituted "January 1, 1942" for "January 1, 1941" wherever appearing.
 
 #### Transfer of Functions ####
 

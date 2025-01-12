@@ -22,7 +22,7 @@ If the Secretary finds, after consideration of an application under subsection (
 
 (B) the closure is not for replacement of the hospital,
 
-the Secretary may include as an allowable cost in the hospital's reasonable cost (for the purpose of making payments to the hospital under this subchapter) an amount (in this section referred to as a “transitional allowance”), as provided in subsection (c) of this section.
+the Secretary may include as an allowable cost in the hospital's reasonable cost (for the purpose of making payments to the hospital under this subchapter) an amount (in this section referred to as a "transitional allowance"), as provided in subsection (c) of this section.
 
 #### (c) Factors determinative of transitional allowance ####
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 97–248 effective as if originally included as part of thi
 
 #### Effective Date ####
 
-Pub. L. 97–35, title XXI, §2101(c), Aug. 13, 1981, 95 Stat. 787, provided that: “The amendment made by subsection (a) [enacting this section and amending section 1396b of this title] shall apply only to services furnished by a hospital during any accounting year beginning on or after October 1, 1981.”
+Pub. L. 97–35, title XXI, §2101(c), Aug. 13, 1981, 95 Stat. 787, provided that: "The amendment made by subsection (a) [enacting this section and amending section 1396b of this title] shall apply only to services furnished by a hospital during any accounting year beginning on or after October 1, 1981."
 
 #### Payments To Promote Closure and Conversion of Underutilized Hospital Facilities ####
 

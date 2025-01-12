@@ -50,7 +50,7 @@ Sec.
 
 1962c–4. Payments to States; computation of amount.
 
-1962c–5. “State” defined.
+1962c–5. "State" defined.
 
 1962c–6. Records; audit and examination.
 

@@ -10,4 +10,4 @@ Section was formerly classified to section 1385 of Title 48, Territories and Ins
 
 #### Transfer of Functions ####
 
-References to the “Board of Directors of the Canal Zone Biological Area” and its “executive officer” changed to “Smithsonian Institution” and provisions for the appointment and compensation of said executive officer were superseded by Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5, Government Organization and Employees.
+References to the "Board of Directors of the Canal Zone Biological Area" and its "executive officer" changed to "Smithsonian Institution" and provisions for the appointment and compensation of said executive officer were superseded by Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5, Government Organization and Employees.

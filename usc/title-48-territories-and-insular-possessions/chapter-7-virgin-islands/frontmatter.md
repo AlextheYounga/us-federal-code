@@ -30,7 +30,7 @@ Sec.
 
 #### SUBCHAPTER II—CIVIL GOVERNMENT ####
 
-1405. Geographical application of subchapter; land and waters included in term “Virgin Islands”.
+1405. Geographical application of subchapter; land and waters included in term "Virgin Islands".
 
 1405a, 1405b. Repealed.
 

@@ -1,6 +1,6 @@
 ### §300bb–2. Continuation coverage ###
 
-For purposes of section 300bb–1 of this title, the term “continuation coverage” means coverage under the plan which meets the following requirements:
+For purposes of section 300bb–1 of this title, the term "continuation coverage" means coverage under the plan which meets the following requirements:
 
 #### (1) Type of benefit coverage ####
 
@@ -64,7 +64,7 @@ The plan may require payment of a premium for any period of continuation coverag
 
 (B) may, at the election of the payor, be made in monthly installments.
 
-In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage.<sup><a href="#300bb-2_2_target" name="300bb-2_2">2</a></sup> In the case of an individual described in the last sentence of paragraph (2)(A), any reference in subparagraph (A) of this paragraph to “102 percent” is deemed a reference to “150 percent” for any month after the 18th month of continuation coverage described in clause (i) or (ii) of paragraph (2)(A).
+In no event may the plan require the payment of any premium before the day which is 45 days after the day on which the qualified beneficiary made the initial election for continuation coverage.<sup><a href="#300bb-2_2_target" name="300bb-2_2">2</a></sup> In the case of an individual described in the last sentence of paragraph (2)(A), any reference in subparagraph (A) of this paragraph to "102 percent" is deemed a reference to "150 percent" for any month after the 18th month of continuation coverage described in clause (i) or (ii) of paragraph (2)(A).
 
 #### (4) No requirement of insurability ####
 
@@ -84,53 +84,53 @@ The Employee Retirement Income Security Act of 1974, referred to in par. (2)(D)(
 
 #### Amendments ####
 
-**2011**—Par. (2)(A)(iv). Pub. L. 112–40 substituted “January 1, 2014” for “February 12, 2011”.
+**2011**—Par. (2)(A)(iv). Pub. L. 112–40 substituted "January 1, 2014" for "February 12, 2011".
 
-**2010**—Par. (2)(A)(iv). Pub. L. 111–344 substituted “February 12, 2011” for “December 31, 2010”.
+**2010**—Par. (2)(A)(iv). Pub. L. 111–344 substituted "February 12, 2011" for "December 31, 2010".
 
 **2009**—Par. (2)(A). Pub. L. 111–5, §1899F(c)(1), designated concluding provisions as cl. (v) and inserted heading.
 
 Par. (2)(A)(iv) to (vi). Pub. L. 111–5, §1899F(c)(2), added cl. (iv) and redesignated former cls. (iv) and (v) as (v) and (vi), respectively.
 
-**1996**—Par. (2)(A). Pub. L. 104–191, §421(a)(1)(A)(ii)(IV), inserted “(with respect to all qualified beneficiaries)” after “29 months” in concluding provisions.
+**1996**—Par. (2)(A). Pub. L. 104–191, §421(a)(1)(A)(ii)(IV), inserted "(with respect to all qualified beneficiaries)" after "29 months" in concluding provisions.
 
-Pub. L. 104–191, §421(a)(1)(A)(ii)(III), which directed amendment of concluding provisions by striking “with respect to such event,”, was executed by striking that phrase, which did not contain a comma at end, before “is deemed a reference” to reflect the probable intent of Congress.
+Pub. L. 104–191, §421(a)(1)(A)(ii)(III), which directed amendment of concluding provisions by striking "with respect to such event,", was executed by striking that phrase, which did not contain a comma at end, before "is deemed a reference" to reflect the probable intent of Congress.
 
-Pub. L. 104–191, §421(a)(1)(A)(ii)(I), (II), in concluding provisions, substituted “a qualified beneficiary” for “an individual” and “at any time during the first 60 days of continuation coverage under this subchapter” for “at the time of a qualifying event described in section 300bb–3(2) of this title”.
+Pub. L. 104–191, §421(a)(1)(A)(ii)(I), (II), in concluding provisions, substituted "a qualified beneficiary" for "an individual" and "at any time during the first 60 days of continuation coverage under this subchapter" for "at the time of a qualifying event described in section 300bb–3(2) of this title".
 
 Pub. L. 104–191, §421(a)(1)(A)(i), transferred sentence following cl. (iii) to appear as concluding provisions following cl. (iv).
 
-Par. (2)(A)(iv). Pub. L. 104–188 amended heading and text of cl. (iv) generally. Prior to amendment, text read as follows: “In the case of an event described in section 300bb–3(4) of this title (without regard to whether such event is a qualifying event), the period of coverage for qualified beneficiaries other than the covered employee for such event or any subsequent qualifying event shall not terminate before the close of the 36-month period beginning on the date the covered employee becomes entitled to benefits under title XVIII of the Social Security Act.”
+Par. (2)(A)(iv). Pub. L. 104–188 amended heading and text of cl. (iv) generally. Prior to amendment, text read as follows: "In the case of an event described in section 300bb–3(4) of this title (without regard to whether such event is a qualifying event), the period of coverage for qualified beneficiaries other than the covered employee for such event or any subsequent qualifying event shall not terminate before the close of the 36-month period beginning on the date the covered employee becomes entitled to benefits under title XVIII of the Social Security Act."
 
-Par. (2)(D)(i). Pub. L. 104–191, §421(a)(1)(B), inserted “(other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of title 26, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, or subchapter XXV of this chapter)” before “, or”.
+Par. (2)(D)(i). Pub. L. 104–191, §421(a)(1)(B), inserted "(other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of title 26, part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, or subchapter XXV of this chapter)" before ", or".
 
-Par. (2)(E). Pub. L. 104–191, §421(a)(1)(C), substituted “at any time during the first 60 days of continuation coverage under this subchapter” for “at the time of a qualifying event described in section 300bb–3(2) of this title”.
+Par. (2)(E). Pub. L. 104–191, §421(a)(1)(C), substituted "at any time during the first 60 days of continuation coverage under this subchapter" for "at the time of a qualifying event described in section 300bb–3(2) of this title".
 
-**1989**—Par. (2)(A). Pub. L. 101–239, §6702(a)(1), inserted after cl. (iii) “In the case of an individual who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in section 300bb–3(2) of this title, any reference in clause (i) or (ii) to 18 months with respect to such event is deemed a reference to 29 months, but only if the qualified beneficiary has provided notice of such determination under section 300bb–6(3) of this title before the end of such 18 months.”
+**1989**—Par. (2)(A). Pub. L. 101–239, §6702(a)(1), inserted after cl. (iii) "In the case of an individual who is determined, under title II or XVI of the Social Security Act, to have been disabled at the time of a qualifying event described in section 300bb–3(2) of this title, any reference in clause (i) or (ii) to 18 months with respect to such event is deemed a reference to 29 months, but only if the qualified beneficiary has provided notice of such determination under section 300bb–6(3) of this title before the end of such 18 months."
 
 Par. (2)(A)(iv). Pub. L. 101–239, §6801(b)(1)(A), added cl. (iv).
 
-Par. (2)(D). Pub. L. 101–239, §6801(b)(2)(A), substituted “entitlement” for “eligibility” in heading and inserted “which does not contain any exclusion or limitation with respect to any preexisting condition of such beneficiary” after “or otherwise)” in cl. (i).
+Par. (2)(D). Pub. L. 101–239, §6801(b)(2)(A), substituted "entitlement" for "eligibility" in heading and inserted "which does not contain any exclusion or limitation with respect to any preexisting condition of such beneficiary" after "or otherwise)" in cl. (i).
 
 Par. (2)(E). Pub. L. 101–239, §6702(a)(2), added subpar. (E).
 
-Par. (3). Pub. L. 101–239, §6801(b)(3)(A), which directed the general amendment of the concluding provision was executed by amending the first sentence of the concluding provision generally to reflect the probable intent of Congress and amendment of concluding provision by Pub. L. 101–239, §6702(b). Prior to amendment, first sentence of the concluding provision read as follows: “If an election is made after the qualifying event, the plan shall permit payment for continuation coverage during the period preceding the election to be made within 45 days of the date of the election.”
+Par. (3). Pub. L. 101–239, §6801(b)(3)(A), which directed the general amendment of the concluding provision was executed by amending the first sentence of the concluding provision generally to reflect the probable intent of Congress and amendment of concluding provision by Pub. L. 101–239, §6702(b). Prior to amendment, first sentence of the concluding provision read as follows: "If an election is made after the qualifying event, the plan shall permit payment for continuation coverage during the period preceding the election to be made within 45 days of the date of the election."
 
-Pub. L. 101–239, §6702(b), inserted at end of concluding provision “In the case of an individual described in the last sentence of paragraph (2)(A), any reference in subparagraph (A) of this paragraph to ‘102 percent’ is deemed a reference to ‘150 percent’ for any month after the 18th month of continuation coverage described in clause (i) or (ii) of paragraph (2)(A).” See Amendment note above.
+Pub. L. 101–239, §6702(b), inserted at end of concluding provision "In the case of an individual described in the last sentence of paragraph (2)(A), any reference in subparagraph (A) of this paragraph to '102 percent' is deemed a reference to '150 percent' for any month after the 18th month of continuation coverage described in clause (i) or (ii) of paragraph (2)(A)." See Amendment note above.
 
-**1986**—Par. (1). Pub. L. 99–514, §1895(d)(1)(C), inserted at end “If coverage is modified under the plan for any group of similarly situated beneficiaries, such coverage shall also be modified in the same manner for all individuals who are qualified beneficiaries under the plan pursuant to this part in connection with such group.”
+**1986**—Par. (1). Pub. L. 99–514, §1895(d)(1)(C), inserted at end "If coverage is modified under the plan for any group of similarly situated beneficiaries, such coverage shall also be modified in the same manner for all individuals who are qualified beneficiaries under the plan pursuant to this part in connection with such group."
 
-Par. (2)(A). Pub. L. 99–514, §1895(d)(2)(C), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Maximum period.—In the case of—
+Par. (2)(A). Pub. L. 99–514, §1895(d)(2)(C), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Maximum period.—In the case of—
 
-“(i) a qualifying event described in section 300bb–3(2) of this title (relating to terminations and reduced hours), the date which is 18 months after the date of the qualifying event, and
+"(i) a qualifying event described in section 300bb–3(2) of this title (relating to terminations and reduced hours), the date which is 18 months after the date of the qualifying event, and
 
-“(ii) any qualifying event not described in clause (i), the date which is 36 months after the date of the qualifying event.”
+"(ii) any qualifying event not described in clause (i), the date which is 36 months after the date of the qualifying event."
 
-Par. (2)(C). Pub. L. 99–514, §1895(d)(3)(C), inserted at end “The payment of any premium (other than any payment referred to in the last sentence of paragraph (3)) shall be considered to be timely if made within 30 days after the date due or within such longer period as applies to or under the plan.”
+Par. (2)(C). Pub. L. 99–514, §1895(d)(3)(C), inserted at end "The payment of any premium (other than any payment referred to in the last sentence of paragraph (3)) shall be considered to be timely if made within 30 days after the date due or within such longer period as applies to or under the plan."
 
-Par. (2)(D). Pub. L. 99–514, §1895(d)(4)(C)(ii), (iii), substituted “Group health plan coverage” for “Reemployment” in heading, added cl. (i), and struck out former cl. (i) which read as follows: “a covered employee under any other group health plan, or”.
+Par. (2)(D). Pub. L. 99–514, §1895(d)(4)(C)(ii), (iii), substituted "Group health plan coverage" for "Reemployment" in heading, added cl. (i), and struck out former cl. (i) which read as follows: "a covered employee under any other group health plan, or".
 
-Par. (2)(E). Pub. L. 99–514, §1895(d)(4)(C)(i), struck out subpar. (E), remarriage of spouse, which read as follows: “In the case of an individual who is a qualified beneficiary by reason of being the spouse of a covered employee, the date on which the beneficiary remarries and becomes covered under a group health plan.”
+Par. (2)(E). Pub. L. 99–514, §1895(d)(4)(C)(i), struck out subpar. (E), remarriage of spouse, which read as follows: "In the case of an individual who is a qualified beneficiary by reason of being the spouse of a covered employee, the date on which the beneficiary remarries and becomes covered under a group health plan."
 
 #### Effective Date of 2011 Amendment ####
 
@@ -154,17 +154,17 @@ Amendment by Pub. L. 104–188 applicable to plan years beginning after Dec. 31,
 
 #### Effective Date of 1989 Amendment ####
 
-Pub. L. 101–239, title VI, §6702(d), 103 Stat. 2296, provided that: “The amendments made by this section [amending this section and section 300bb–6 of this title] shall apply to plan years beginning on or after the date of the enactment of this Act [Dec. 19, 1989], regardless of whether the qualifying event occurred before, on, or after such date.”
+Pub. L. 101–239, title VI, §6702(d), 103 Stat. 2296, provided that: "The amendments made by this section [amending this section and section 300bb–6 of this title] shall apply to plan years beginning on or after the date of the enactment of this Act [Dec. 19, 1989], regardless of whether the qualifying event occurred before, on, or after such date."
 
-Pub. L. 101–239, title VI, §6801(b)(1)(B), 103 Stat. 2297, provided that: “The amendments made by this paragraph [amending this section] shall apply to plan years beginning after December 31, 1989.”
+Pub. L. 101–239, title VI, §6801(b)(1)(B), 103 Stat. 2297, provided that: "The amendments made by this paragraph [amending this section] shall apply to plan years beginning after December 31, 1989."
 
-Pub. L. 101–239, title VI, §6801(b)(2)(B), 103 Stat. 2297, provided that: “The amendments made by subparagraph (A) [amending this section] shall apply to—
+Pub. L. 101–239, title VI, §6801(b)(2)(B), 103 Stat. 2297, provided that: "The amendments made by subparagraph (A) [amending this section] shall apply to—
 
-“(i) qualifying events occurring after December 31, 1989, and
+"(i) qualifying events occurring after December 31, 1989, and
 
-“(ii) in the case of qualified beneficiaries who elected continuation coverage after December 31, 1988, the period for which the required premium was paid (or was attempted to be paid but was rejected as such).”
+"(ii) in the case of qualified beneficiaries who elected continuation coverage after December 31, 1988, the period for which the required premium was paid (or was attempted to be paid but was rejected as such)."
 
-Pub. L. 101–239, title VI, §6801(b)(3)(B), 103 Stat. 2297, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply to plan years beginning after December 31, 1989.”
+Pub. L. 101–239, title VI, §6801(b)(3)(B), 103 Stat. 2297, provided that: "The amendment made by subparagraph (A) [amending this section] shall apply to plan years beginning after December 31, 1989."
 
 #### Effective Date of 1986 Amendment ####
 

@@ -60,6 +60,6 @@ Sec.
 
 **1999**—Pub. L. 106–65, div. A, title VII, §705(a)(2), Oct. 5, 1999, 113 Stat. 683, added item 12322.
 
-**1997**—Pub. L. 105–85, div. A, title V, §511(e)(2), Nov. 18, 1997, 111 Stat. 1729, inserted “and certain Individual Ready Reserve members” after “Selected Reserve” in item 12304.
+**1997**—Pub. L. 105–85, div. A, title V, §511(e)(2), Nov. 18, 1997, 111 Stat. 1729, inserted "and certain Individual Ready Reserve members" after "Selected Reserve" in item 12304.
 
-**1996**—Pub. L. 104–106, div. A, title XV, §1501(b)(16), Feb. 10, 1996, 110 Stat. 496, substituted a semicolon for a colon in item 12304 and struck out “on active duty” after “Retention” in item 12308.
+**1996**—Pub. L. 104–106, div. A, title XV, §1501(b)(16), Feb. 10, 1996, 110 Stat. 496, substituted a semicolon for a colon in item 12304 and struck out "on active duty" after "Retention" in item 12308.

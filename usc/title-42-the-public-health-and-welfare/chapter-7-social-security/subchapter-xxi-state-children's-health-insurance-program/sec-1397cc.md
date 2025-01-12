@@ -60,7 +60,7 @@ For purposes of this section, the categories of basic services described in this
 
 (A) Inpatient and outpatient hospital services.
 
-(B) Physicians’ surgical and medical services.
+(B) Physicians' surgical and medical services.
 
 (C) Laboratory and x-ray services.
 
@@ -210,7 +210,7 @@ The State child health plan—
 
 (II) of the individual's right to challenge the proposed termination pursuant to the applicable Federal regulations.
 
-For purposes of clause (i), the term “new coverage period” means the month immediately following the last month for which the premium has been paid.
+For purposes of clause (i), the term "new coverage period" means the month immediately following the last month for which the premium has been paid.
 
 #### (4) Relation to medicaid requirements ####
 
@@ -244,17 +244,17 @@ Section 2705 of the Public Health Service Act, referred to in subsec. (c)(6)(A),
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(1)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-The Public Health Service Act, referred to in subsec. (f), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of this title. Subpart 2 of part A of title XXVII of the Act may refer to subpart II of part A of subchapter XXV of chapter 6A of this title. Pub. L. 111–148, title I, §§1001(5), 1563(c)(2), (11), formerly §1562(c)(2), (11), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 268, 911, amended part A by inserting “subpart ii—improving coverage” (preceding section 300gg–11 of this title), by striking out “subpart 2—other requirements” (preceding section 300gg–4 of this title), and by redesignating subpart 4 as subpart 2 “exclusion of plans; enforcement; preemption” (preceding section 300gg–21 of this title). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsec. (f), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of this title. Subpart 2 of part A of title XXVII of the Act may refer to subpart II of part A of subchapter XXV of chapter 6A of this title. Pub. L. 111–148, title I, §§1001(5), 1563(c)(2), (11), formerly §1562(c)(2), (11), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 268, 911, amended part A by inserting "subpart ii—improving coverage" (preceding section 300gg–11 of this title), by striking out "subpart 2—other requirements" (preceding section 300gg–4 of this title), and by redesignating subpart 4 as subpart 2 "exclusion of plans; enforcement; preemption" (preceding section 300gg–21 of this title). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Amendments ####
 
-**2009**—Subsec. (a). Pub. L. 111–3, §502(b)(1), inserted “, (6),” after “(5)” in introductory provisions.
+**2009**—Subsec. (a). Pub. L. 111–3, §502(b)(1), inserted ", (6)," after "(5)" in introductory provisions.
 
-Pub. L. 111–3, §501(a)(1)(A)(i), substituted “paragraphs (5) and (7) of subsection (c)” for “subsection (c)(5)” in introductory provisions.
+Pub. L. 111–3, §501(a)(1)(A)(i), substituted "paragraphs (5) and (7) of subsection (c)" for "subsection (c)(5)" in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 111–3, §501(a)(1)(A)(ii), inserted “at least” after “that is”.
+Subsec. (a)(1). Pub. L. 111–3, §501(a)(1)(A)(ii), inserted "at least" after "that is".
 
-Subsec. (c)(2)(B) to (D). Pub. L. 111–3, §502(b)(2), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: “Mental health services.”
+Subsec. (c)(2)(B) to (D). Pub. L. 111–3, §502(b)(2), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: "Mental health services."
 
 Subsec. (c)(5). Pub. L. 111–3, §501(a)(1)(B)(ii), added par. (5). Former par. (5) redesignated (7).
 
@@ -264,7 +264,7 @@ Subsec. (c)(7). Pub. L. 111–3, §501(a)(1)(B)(i), redesignated par. (5) as (7)
 
 Subsec. (c)(8). Pub. L. 111–3, §505(a), added par. (8).
 
-Subsec. (e)(2). Pub. L. 111–3, §111(b)(1), inserted “or pregnancy-related assistance” after “preventive services” in heading and “or for pregnancy-related assistance” before period at end.
+Subsec. (e)(2). Pub. L. 111–3, §111(b)(1), inserted "or pregnancy-related assistance" after "preventive services" in heading and "or for pregnancy-related assistance" before period at end.
 
 Subsec. (e)(3)(C). Pub. L. 111–3, §504(a), added subpar. (C).
 
@@ -274,10 +274,10 @@ Subsec. (f)(3). Pub. L. 111–3, §403(a), added par. (3).
 
 Amendment by sections 111(b)(1), 502, and 505(a) of Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of this title.
 
-Pub. L. 111–3, title IV, §403(b), Feb. 4, 2009, 123 Stat. 84, provided that: “The amendment made by subsection (a) [amending this section] shall apply to contract years for health plans beginning on or after July 1, 2009.”
+Pub. L. 111–3, title IV, §403(b), Feb. 4, 2009, 123 Stat. 84, provided that: "The amendment made by subsection (a) [amending this section] shall apply to contract years for health plans beginning on or after July 1, 2009."
 
 Amendment by section 501(a)(1) of Pub. L. 111–3 applicable to coverage of items and services furnished on or after Oct. 1, 2009, see section 501(a)(3) of Pub. L. 111–3, set out as a note under section 1397bb of this title.
 
-Pub. L. 111–3, title V, §504(b), Feb. 4, 2009, 123 Stat. 90, provided that: “The amendment made by subsection (a) [amending this section] shall apply to new coverage periods beginning on or after the date of the enactment of this Act [Feb. 4, 2009].”
+Pub. L. 111–3, title V, §504(b), Feb. 4, 2009, 123 Stat. 90, provided that: "The amendment made by subsection (a) [amending this section] shall apply to new coverage periods beginning on or after the date of the enactment of this Act [Feb. 4, 2009]."
 
 [<sup>1</sup> See References in Text note below.](#1397cc_1)

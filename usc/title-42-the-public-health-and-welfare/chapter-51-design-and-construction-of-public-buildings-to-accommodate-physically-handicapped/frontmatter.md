@@ -2,7 +2,7 @@
 
 Sec.
 
-4151. “Building” defined.
+4151. "Building" defined.
 
 4152. Standards for design, construction, and alteration of buildings; Administrator of General Services.
 

@@ -20,7 +20,7 @@
 
 (3) is repatriated to a site inside or outside the United States.
 
-(c) Eligible Family Members.—In this section, the term “family member” has the meaning given the term in section 481h(b) of this title.
+(c) Eligible Family Members.—In this section, the term "family member" has the meaning given the term in section 481h(b) of this title.
 
 (d) Travel and Transportation Authorized.—(1) The transportation authorized by subsection (a) is round-trip transportation between the home of the family member (or home of the attendant or person provided transportation under paragraph (2) or (3) of subsection (a), as the case may be) and the location of the repatriation site at which the member is located.
 
@@ -40,7 +40,7 @@
 
 **2013**—Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
 
-**2011**—Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “481h” for “411h” in subsecs. (c) and (d)(3) and “474” for “404” in subsec. (d)(2).
+**2011**—Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "481h" for "411h" in subsecs. (c) and (d)(3) and "474" for "404" in subsec. (d)(2).
 
 Pub. L. 112–81, §631(d)(2), renumbered section 411j of this title as this section.
 

@@ -20,7 +20,7 @@ Sec.
 
 3049. Warrant for removal.
 
-3050. Bureau of Prisons employees’ powers.
+3050. Bureau of Prisons employees' powers.
 
 3051. Powers of Special Agents of Bureau of Alcohol, Tobacco, Firearms, and Explosives 2
 
@@ -30,7 +30,7 @@ Sec.
 
 [3054. Repealed.]
 
-3055. Officers’ powers to suppress Indian liquor traffic.
+3055. Officers' powers to suppress Indian liquor traffic.
 
 3056. Powers, authorities, and duties of United States Secret Service.
 
@@ -68,25 +68,25 @@ Pub. L. 109–162, title XI, §1172(a), Jan. 5, 2006, 119 Stat. 3123, added item
 
 **1994**—Pub. L. 103–322, title XXXIII, §330010(18), Sept. 13, 1994, 108 Stat. 2144, inserted a period at end of item 3059A.
 
-**1990**—Pub. L. 101–647, title XXXV, §3570, Nov. 29, 1990, 104 Stat. 4928, struck out item 3054 “Officer's powers involving animals and birds”.
+**1990**—Pub. L. 101–647, title XXXV, §3570, Nov. 29, 1990, 104 Stat. 4928, struck out item 3054 "Officer's powers involving animals and birds".
 
 Pub. L. 101–647, title XXV, §2587(b), Nov. 29, 1990, 104 Stat. 4905, as amended, effective as of date section 2587(b) of Pub. L. 101–647 took effect, by Pub. L. 103–322, title XXXIII, §330011(a), Sept. 13, 1994, 108 Stat. 2144, added item 3059A.
 
-**1988**—Pub. L. 100–690, title VI, §6251(b), Nov. 18, 1988, 102 Stat. 4362, substituted “Investigative powers of Postal Service personnel” for “Powers of postal personnel” in item 3061.
+**1988**—Pub. L. 100–690, title VI, §6251(b), Nov. 18, 1988, 102 Stat. 4362, substituted "Investigative powers of Postal Service personnel" for "Powers of postal personnel" in item 3061.
 
 Pub. L. 100–582, §4(b), Nov. 1, 1988, 102 Stat. 2959, added item 3063.
 
-**1984**—Pub. L. 98–587, §1(b), Oct. 30, 1984, 98 Stat. 3111, substituted “Powers, authorities, and duties of United States Secret Service” for “Secret Service powers” in item 3056.
+**1984**—Pub. L. 98–587, §1(b), Oct. 30, 1984, 98 Stat. 3111, substituted "Powers, authorities, and duties of United States Secret Service" for "Secret Service powers" in item 3056.
 
-Pub. L. 98–473, title II, §204(e), Oct. 12, 1984, 98 Stat. 1986, substituted “Repealed” for “Security of the peace and good behavior” in item 3043 and added item 3062.
+Pub. L. 98–473, title II, §204(e), Oct. 12, 1984, 98 Stat. 1986, substituted "Repealed" for "Security of the peace and good behavior" in item 3043 and added item 3062.
 
-**1970**—Pub. L. 91–375, §6(j)(38)(B), Aug. 12, 1970, 84 Stat. 782, substituted “postal personnel” for “postal inspectors” in item 3061.
+**1970**—Pub. L. 91–375, §6(j)(38)(B), Aug. 12, 1970, 84 Stat. 782, substituted "postal personnel" for "postal inspectors" in item 3061.
 
-**1968**—Pub. L. 90–578, title III, §303(b), Oct. 17, 1968, 82 Stat. 1118, struck out reference to “Rule” in item 3060.
+**1968**—Pub. L. 90–578, title III, §303(b), Oct. 17, 1968, 82 Stat. 1118, struck out reference to "Rule" in item 3060.
 
 Pub. L. 90–560, §5(b), Oct. 12, 1968, 82 Stat. 998, added item 3061.
 
-**1951**—Act Oct. 31, 1951, ch. 655, §56(f), 65 Stat. 729, struck out item 3051 “Extradition agent's powers”.
+**1951**—Act Oct. 31, 1951, ch. 655, §56(f), 65 Stat. 729, struck out item 3051 "Extradition agent's powers".
 
 [<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER203_1)
 

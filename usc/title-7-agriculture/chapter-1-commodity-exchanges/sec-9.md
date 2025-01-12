@@ -158,35 +158,35 @@ Section is comprised of subsec. (c) of section 6 of act Sept. 21, 1922. Prior to
 
 #### Amendments ####
 
-**2010**—Pub. L. 111–203, §753(a), amended section generally. Prior to amendment, section related to exclusion of persons from privilege of “registered entities”, procedure for exclusion, review by court of appeals, and enforcement powers of Commission.
+**2010**—Pub. L. 111–203, §753(a), amended section generally. Prior to amendment, section related to exclusion of persons from privilege of "registered entities", procedure for exclusion, review by court of appeals, and enforcement powers of Commission.
 
-Pub. L. 111–203, §741(b)(3), in first sentence, inserted “or of any swap,” before “or has willfully made”.
+Pub. L. 111–203, §741(b)(3), in first sentence, inserted "or of any swap," before "or has willfully made".
 
-**2008**—Pub. L. 110–246, §13103(a), in cl. (3) of third sentence inserted “(A)” after “assess such person” and added subcl. (B).
+**2008**—Pub. L. 110–246, §13103(a), in cl. (3) of third sentence inserted "(A)" after "assess such person" and added subcl. (B).
 
-**2000**—Pub. L. 106–554 substituted “registered entity” for “contract market” wherever appearing, “registered entities” for “contract markets” wherever appearing, and “privileges” for “trading privileges” in two places.
+**2000**—Pub. L. 106–554 substituted "registered entity" for "contract market" wherever appearing, "registered entities" for "contract markets" wherever appearing, and "privileges" for "trading privileges" in two places.
 
-**1992**—Pub. L. 102–546, §402(9)(B), which directed amendment of first sentence by striking “the Secretary of Agriculture or”, could not be executed because of amendment by Pub. L. 93–463, §103(a). See 1974 Amendment note below.
+**1992**—Pub. L. 102–546, §402(9)(B), which directed amendment of first sentence by striking "the Secretary of Agriculture or", could not be executed because of amendment by Pub. L. 93–463, §103(a). See 1974 Amendment note below.
 
-Pub. L. 102–546, §§209(a)(1), 212(b), 223, 402(1)(C), (6), substituted, in first sentence, “Commission thereunder” for “commission thereunder”, in sentence beginning “Upon evidence received”, inserted “(1)”, substituted “(2) if” for “and, if”, “suspend” for “may suspend”, “(3)” for “and may”, “the higher of $100,000 or triple the monetary gain to such person” for “$100,000”, and inserted before period “and (4) require restitution to customers of damages proximately caused by violations of such persons”, and in sentence beginning “After the issuance”, substituted “offending person” for “offending person.”.
+Pub. L. 102–546, §§209(a)(1), 212(b), 223, 402(1)(C), (6), substituted, in first sentence, "Commission thereunder" for "commission thereunder", in sentence beginning "Upon evidence received", inserted "(1)", substituted "(2) if" for "and, if", "suspend" for "may suspend", "(3)" for "and may", "the higher of $100,000 or triple the monetary gain to such person" for "$100,000", and inserted before period "and (4) require restitution to customers of damages proximately caused by violations of such persons", and in sentence beginning "After the issuance", substituted "offending person" for "offending person.".
 
-**1983**—Pub. L. 97–444 struck out “as futures commission merchant or any person associated therewith as described in section 6k of this title, commodity trading advisor, commodity pool operator, or as floor broker hereunder” after “such person, if registered” and also after “such person is registered” and inserted “, or in the case of an order denying registration, the circuit in which the petitioner's principal place of business listed on petitioner's application for registration is located,” after “court of appeals of the circuit in which the petitioner is doing business”.
+**1983**—Pub. L. 97–444 struck out "as futures commission merchant or any person associated therewith as described in section 6k of this title, commodity trading advisor, commodity pool operator, or as floor broker hereunder" after "such person, if registered" and also after "such person is registered" and inserted ", or in the case of an order denying registration, the circuit in which the petitioner's principal place of business listed on petitioner's application for registration is located," after "court of appeals of the circuit in which the petitioner is doing business".
 
-**1974**—Pub. L. 93–463, §§103(e), 204(b), 205(b), 212(a)(1), (2), 408, substituted “it” for “he”, inserted “or any person associated therewith as described in section 6k of this title,” after “futures commission merchant” wherever appearing, inserted “commodity trading advisor, commodity pool operator” before “or as floor broker” wherever appearing, inserted provision for the assessment of civil penalties of not more than $100,000 for each violation, set a limit of fifteen days after the issuance of an order within which period the person against whom the order was issued must file with the court of appeals his petition that the order be set aside, and substituted “an Administrative Law Judge” and “Administrative Law Judge” for “a referee” and “referee”, respectively.
+**1974**—Pub. L. 93–463, §§103(e), 204(b), 205(b), 212(a)(1), (2), 408, substituted "it" for "he", inserted "or any person associated therewith as described in section 6k of this title," after "futures commission merchant" wherever appearing, inserted "commodity trading advisor, commodity pool operator" before "or as floor broker" wherever appearing, inserted provision for the assessment of civil penalties of not more than $100,000 for each violation, set a limit of fifteen days after the issuance of an order within which period the person against whom the order was issued must file with the court of appeals his petition that the order be set aside, and substituted "an Administrative Law Judge" and "Administrative Law Judge" for "a referee" and "referee", respectively.
 
-Pub. L. 93–463, §103(a), provided for substitution of “Commission” for “Secretary of Agriculture” except where such words would be stricken by section 103(b), which directed striking the words “the Secretary of Agriculture or” where they appeared in the phrase “the Secretary of Agriculture or the Commission”. Section 103(a) was executed wherever the term “Secretary of Agriculture” appeared in this section including in the phrase “the Secretary of Agriculture or the commission” in the first sentence. Because the word “commission” was not capitalized in that phrase in the first sentence, section 103(b) did not apply to that phrase and therefore section 103(a) was executed, resulting in the substitution of “the Commission or the commission” for “the Secretary of Agriculture or the commission”.
+Pub. L. 93–463, §103(a), provided for substitution of "Commission" for "Secretary of Agriculture" except where such words would be stricken by section 103(b), which directed striking the words "the Secretary of Agriculture or" where they appeared in the phrase "the Secretary of Agriculture or the Commission". Section 103(a) was executed wherever the term "Secretary of Agriculture" appeared in this section including in the phrase "the Secretary of Agriculture or the commission" in the first sentence. Because the word "commission" was not capitalized in that phrase in the first sentence, section 103(b) did not apply to that phrase and therefore section 103(a) was executed, resulting in the substitution of "the Commission or the commission" for "the Secretary of Agriculture or the commission".
 
 **1968**—Pub. L. 90–258 amended first sentence generally, providing for denial of trading privileges to persons other than contract markets and suspension or revocation of registration of futures commission merchants and floor brokers, who are manipulating or have attempted to manipulate prices, for willful, material, misstatements in, or omissions from, reports or registration statements, and for violations of orders of Secretary of Agriculture or commission, and authorizing the Secretary to prohibit such persons from trading on or subject to rules of any contract market.
 
-**1960**—Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
+**1960**—Pub. L. 86–507 inserted "or by certified mail" after "registered mail".
 
-**1958**—Pub. L. 85–791 substituted “transmitted by the clerk of the court to the Secretary of Agriculture and thereupon the Secretary of Agriculture shall file in the court the record theretofore made, as provided in section 2112 of Title 28” for “served upon the Secretary of Agriculture by delivering such copy to him and thereupon the Secretary of Agriculture shall forthwith certify and file in the court a transcript of the record theretofore made, including evidence received” in seventh sentence, and substituted “petition” for “transcript” in eighth sentence.
+**1958**—Pub. L. 85–791 substituted "transmitted by the clerk of the court to the Secretary of Agriculture and thereupon the Secretary of Agriculture shall file in the court the record theretofore made, as provided in section 2112 of Title 28" for "served upon the Secretary of Agriculture by delivering such copy to him and thereupon the Secretary of Agriculture shall forthwith certify and file in the court a transcript of the record theretofore made, including evidence received" in seventh sentence, and substituted "petition" for "transcript" in eighth sentence.
 
 **1936**—Act June 15, 1936, among other changes, amended section by inserting provisions relating to the service of complaints and penalties for violations of this chapter.
 
 #### Change of Name ####
 
-Act June 25, 1948, as amended by act May 24, 1949, substituted “court of appeals” for “circuit court of appeals” wherever appearing in this section.
+Act June 25, 1948, as amended by act May 24, 1949, substituted "court of appeals" for "circuit court of appeals" wherever appearing in this section.
 
 #### Effective Date of 2010 Amendment ####
 
@@ -194,9 +194,9 @@ Amendment by section 741(b)(3) of Pub. L. 111–203 effective on the later of 36
 
 Pub. L. 111–203, title VII, §753(d), July 21, 2010, 124 Stat. 1754, provided that:
 
-“(1) The amendments made by this section [amending this section and sections 13b and 25 of this title] shall take effect on the date on which the final rule promulgated by the Commodity Futures Trading Commission [see 76 F.R. 41398, effective Aug. 15, 2011] pursuant to this Act [see Tables for classification] takes effect.
+"(1) The amendments made by this section [amending this section and sections 13b and 25 of this title] shall take effect on the date on which the final rule promulgated by the Commodity Futures Trading Commission [see 76 F.R. 41398, effective Aug. 15, 2011] pursuant to this Act [see Tables for classification] takes effect.
 
-“(2) Paragraph (1) shall not preclude the Commission from undertaking prior to the effective date any rulemaking necessary to implement the amendments contained in this section.”
+"(2) Paragraph (1) shall not preclude the Commission from undertaking prior to the effective date any rulemaking necessary to implement the amendments contained in this section."
 
 #### Effective Date of 2008 Amendment ####
 

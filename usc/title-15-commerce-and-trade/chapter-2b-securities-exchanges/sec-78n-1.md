@@ -72,10 +72,10 @@ The Securities Act of 1933, referred to in subsec. (e)(2)(B)(i), is title I of a
 
 #### Amendments ####
 
-**2012**—Subsec. (e). Pub. L. 112–106 designated existing provisions as par. (1), inserted heading, substituted “any other issuer” for “an issuer”, and added par. (2).
+**2012**—Subsec. (e). Pub. L. 112–106 designated existing provisions as par. (1), inserted heading, substituted "any other issuer" for "an issuer", and added par. (2).
 
 #### Effective Date ####
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of Title 12, Banks and Banking.
 
-[<sup>1</sup> So in original. Probably should be “burden”.](#78n-1_1)
+[<sup>1</sup> So in original. Probably should be "burden".](#78n-1_1)

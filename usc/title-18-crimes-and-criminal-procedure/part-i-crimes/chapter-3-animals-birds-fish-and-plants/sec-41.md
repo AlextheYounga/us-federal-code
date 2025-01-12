@@ -10,16 +10,16 @@ Based on title 18, U.S.C., 1940 ed., §145 and §§676, 682, 683, 685, 688, 689b
 
 This revised section condenses, consolidates, and simplifies similar provisions of sections 676, 682, 683, 685, 688, 689b, 692a, and 694a of title 16, U.S.C., 1940 ed., with section 145 of title 18, U.S.C., 1940 ed., with such changes of phraseology as make clear the intent of Congress to protect all wildlife within Federal sanctuaries, refuges, fish hatcheries, and breeding grounds. Irrelevant provisions of such sections in title 16 are to be retained in that title.
 
-Because of the general nature of this consolidated section, no specific reference is made to rules and regulations issued by the Secretary of the Interior or any other personage, but only to rules and regulations “promulgated by authority of law”.
+Because of the general nature of this consolidated section, no specific reference is made to rules and regulations issued by the Secretary of the Interior or any other personage, but only to rules and regulations "promulgated by authority of law".
 
 The punishment provided by the sections consolidated varied from a fine not exceeding $100 or imprisonment not exceeding 6 months, or both, in section 694a of title 16, U.S.C., 1940 ed., to a fine not exceeding $1,000 or imprisonment not exceeding 1 year, or both, in sections 676, 685, and 688 of such title 16. The revised section adopts the punishment provisions of the other five sections.
 
-The references to “misdemeanor” in sections 676, 685, 688, 689b, 692a, and 694a of title 16, U.S.C., 1940 ed., were omitted as unnecessary in view of definition of “misdemeanor” in section 1 of this title, and also to conform with policy followed by codifiers of the 1909 Criminal Code, as stated in Senate Report 10, part 1, pages 12, 13, 14, Sixtieth Congress, first session, to accompany S. 2982.
+The references to "misdemeanor" in sections 676, 685, 688, 689b, 692a, and 694a of title 16, U.S.C., 1940 ed., were omitted as unnecessary in view of definition of "misdemeanor" in section 1 of this title, and also to conform with policy followed by codifiers of the 1909 Criminal Code, as stated in Senate Report 10, part 1, pages 12, 13, 14, Sixtieth Congress, first session, to accompany S. 2982.
 
-Words “upon conviction”, contained in sections 676, 685, 688, 689b, 692a, and 694a of title 16, U.S.C., 1940 ed., were omitted as surplusage, because punishment can be imposed only after conviction.
+Words "upon conviction", contained in sections 676, 685, 688, 689b, 692a, and 694a of title 16, U.S.C., 1940 ed., were omitted as surplusage, because punishment can be imposed only after conviction.
 
-Words “in any United States court of competent jurisdiction”, in sections 676, 685, and 688 of title 16, U.S.C., 1940 ed., words “in any United States court”, in sections 689b, 692a, and 694a of such title 16, and words “in the discretion of the court”, in said sections 676, 685, 688, and 689b, were likewise omitted as surplusage.
+Words "in any United States court of competent jurisdiction", in sections 676, 685, and 688 of title 16, U.S.C., 1940 ed., words "in any United States court", in sections 689b, 692a, and 694a of such title 16, and words "in the discretion of the court", in said sections 676, 685, 688, and 689b, were likewise omitted as surplusage.
 
 #### Amendments ####
 
-**1994**—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
+**1994**—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $500".

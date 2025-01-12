@@ -16,7 +16,7 @@ The filing of an application for rehearing under subsection (a) of this section 
 
 #### (1) In general ####
 
-The United States Court of Appeals for the circuit in which a facility subject to section 717b of this title or section 717f of this title is proposed to be constructed, expanded, or operated shall have original and exclusive jurisdiction over any civil action for the review of an order or action of a Federal agency (other than the Commission) or State administrative agency acting pursuant to Federal law to issue, condition, or deny any permit, license, concurrence, or approval (hereinafter collectively referred to as “permit”) required under Federal law, other than the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.).
+The United States Court of Appeals for the circuit in which a facility subject to section 717b of this title or section 717f of this title is proposed to be constructed, expanded, or operated shall have original and exclusive jurisdiction over any civil action for the review of an order or action of a Federal agency (other than the Commission) or State administrative agency acting pursuant to Federal law to issue, condition, or deny any permit, license, concurrence, or approval (hereinafter collectively referred to as "permit") required under Federal law, other than the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.).
 
 #### (2) Agency delay ####
 
@@ -42,7 +42,7 @@ The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), (2), is 
 
 #### Codification ####
 
-In subsec. (b), “section 1254 of title 28” substituted for “sections 239 and 240 of the Judicial Code, as amended [28 U.S.C. 346, 347]” on authority of act June 25, 1948, ch. 646, 62 Stat. 869, the first section of which enacted Title 28, Judiciary and Judicial Procedure.
+In subsec. (b), "section 1254 of title 28" substituted for "sections 239 and 240 of the Judicial Code, as amended [28 U.S.C. 346, 347]" on authority of act June 25, 1948, ch. 646, 62 Stat. 869, the first section of which enacted Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments ####
 
@@ -50,8 +50,8 @@ In subsec. (b), “section 1254 of title 28” substituted for “sections 239 a
 
 **1958**—Subsec. (a). Pub. L. 85–791, §19(a), inserted sentence providing that until record in a proceeding has been filed in a court of appeals, Commission may modify or set aside any finding or order issued by it.
 
-Subsec. (b). Pub. L. 85–791, §19(b), in second sentence, substituted “transmitted by the clerk of the court to” for “served upon”, substituted “file with the court” for “certify and file with the court a transcript of”, and inserted “as provided in section 2112 of title 28”, and, in third sentence, substituted “petition” for “transcript”, and “jurisdiction, which upon the filing of the record with it shall be exclusive” for “exclusive jurisdiction”.
+Subsec. (b). Pub. L. 85–791, §19(b), in second sentence, substituted "transmitted by the clerk of the court to" for "served upon", substituted "file with the court" for "certify and file with the court a transcript of", and inserted "as provided in section 2112 of title 28", and, in third sentence, substituted "petition" for "transcript", and "jurisdiction, which upon the filing of the record with it shall be exclusive" for "exclusive jurisdiction".
 
 #### Change of Name ####
 
-Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted “court of appeals” for “circuit court of appeals” wherever appearing.
+Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted "court of appeals" for "circuit court of appeals" wherever appearing.

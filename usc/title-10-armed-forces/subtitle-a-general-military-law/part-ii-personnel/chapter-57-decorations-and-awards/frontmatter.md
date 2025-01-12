@@ -38,13 +38,13 @@ Sec.
 
 **2013**—Pub. L. 113–66, div. A, title V, §563(a)(2), Dec. 26, 2013, 127 Stat. 767, added item 1134a.
 
-**2011**—Pub. L. 111–383, div. A, title V, §571(b), Jan. 7, 2011, 124 Stat. 4223, added item 1133 and struck out former item 1133 “Bronze star: limitation to members receiving imminent danger pay”.
+**2011**—Pub. L. 111–383, div. A, title V, §571(b), Jan. 7, 2011, 124 Stat. 4223, added item 1133 and struck out former item 1133 "Bronze star: limitation to members receiving imminent danger pay".
 
 **2008**—Pub. L. 110–417, [div. A], title V, §571(b), Oct. 14, 2008, 122 Stat. 4472, added item 1135.
 
 **2004**—Pub. L. 108–375, div. A, title V, §561(b), Oct. 28, 2004, 118 Stat. 1918, added item 1134.
 
-**2003**—Pub. L. 108–136, div. A, title X, §1031(a)(10)(B), Nov. 24, 2003, 117 Stat. 1597, struck out “and recommendation” after “review” in item 1130.
+**2003**—Pub. L. 108–136, div. A, title X, §1031(a)(10)(B), Nov. 24, 2003, 117 Stat. 1597, struck out "and recommendation" after "review" in item 1130.
 
 **2000**—Pub. L. 106–398, §1 [[div. A], title V, §541(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–114, added item 1133.
 
@@ -56,7 +56,7 @@ Sec.
 
 **1993**—Pub. L. 103–160, div. A, title XI, §1141(b), Nov. 30, 1993, 107 Stat. 1757, added item 1129.
 
-**1985**—Pub. L. 99–145, title V, §532(a)(2), title XII, §1225(a)(2)(B), Nov. 8, 1985, 99 Stat. 634, 730, inserted “disclosures,” and substituted “and” for “or” in item 1124, and added item 1128.
+**1985**—Pub. L. 99–145, title V, §532(a)(2), title XII, §1225(a)(2)(B), Nov. 8, 1985, 99 Stat. 634, 730, inserted "disclosures," and substituted "and" for "or" in item 1124, and added item 1128.
 
 **1984**—Pub. L. 98–525, title V, §553(b), Oct. 19, 1984, 98 Stat. 2532, added item 1127.
 
@@ -70,53 +70,53 @@ Pub. L. 89–529, §1(2), Aug. 11, 1966, 80 Stat. 339, added item 1125.
 
 #### Promotional Materials and Recognition Items for Participants in Operation Enduring Freedom or Operation Iraqi Freedom ####
 
-Pub. L. 110–116, div. A, title VIII, §8099, Nov. 13, 2007, 121 Stat. 1337, provided that: “Hereafter, the Secretary of Defense may present promotional materials, including a United States flag, to any member of an Active or Reserve component under the Secretary's jurisdiction who, as determined by the Secretary, participates in Operation Enduring Freedom or Operation Iraqi Freedom, along with other recognition items in conjunction with any week-long national observation and day of national celebration, if established by Presidential proclamation, for any such members returning from such operations.”
+Pub. L. 110–116, div. A, title VIII, §8099, Nov. 13, 2007, 121 Stat. 1337, provided that: "Hereafter, the Secretary of Defense may present promotional materials, including a United States flag, to any member of an Active or Reserve component under the Secretary's jurisdiction who, as determined by the Secretary, participates in Operation Enduring Freedom or Operation Iraqi Freedom, along with other recognition items in conjunction with any week-long national observation and day of national celebration, if established by Presidential proclamation, for any such members returning from such operations."
 
 #### Report on Department of Defense Process for Awarding Decorations ####
 
 Pub. L. 109–364, div. A, title V, §557, Oct. 17, 2006, 120 Stat. 2219, provided that:
 
-“(a) Review.—The Secretary of Defense shall conduct a review of the policy, procedures, and processes of the military departments for awarding decorations to members of the Armed Forces.
+"(a) Review.—The Secretary of Defense shall conduct a review of the policy, procedures, and processes of the military departments for awarding decorations to members of the Armed Forces.
 
-“(b) Time Periods.—As part of the review under subsection (a), the Secretary shall compare the time frames of the awards process between active duty and reserve components—
+"(b) Time Periods.—As part of the review under subsection (a), the Secretary shall compare the time frames of the awards process between active duty and reserve components—
 
-“(1) from the time a recommendation for the award of a decoration is submitted until the time the award of the decoration is approved; and
+"(1) from the time a recommendation for the award of a decoration is submitted until the time the award of the decoration is approved; and
 
-“(2) from the time the award of a decoration is approved until the time when the decoration is presented to the recipient.
+"(2) from the time the award of a decoration is approved until the time when the decoration is presented to the recipient.
 
-“(c) Reserve Components.—If the Secretary, in conducting the review under subsection (a), finds that the timeliness of the awards process for members of the reserve components is not the same as, or similar to, that for members of the active components, the Secretary shall take appropriate steps to address the discrepancy.
+"(c) Reserve Components.—If the Secretary, in conducting the review under subsection (a), finds that the timeliness of the awards process for members of the reserve components is not the same as, or similar to, that for members of the active components, the Secretary shall take appropriate steps to address the discrepancy.
 
-“(d) Report.—Not later than August 1, 2007, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report containing the Secretary's findings as a result of the review under subsection (a), together with a plan for implementing whatever changes are determined to be appropriate to the process for awarding decorations in order to ensure that decorations are awarded in a timely manner, to the extent practicable.”
+"(d) Report.—Not later than August 1, 2007, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report containing the Secretary's findings as a result of the review under subsection (a), together with a plan for implementing whatever changes are determined to be appropriate to the process for awarding decorations in order to ensure that decorations are awarded in a timely manner, to the extent practicable."
 
 #### Separate Military Campaign Medals To Recognize Service in Operation Enduring Freedom and Service in Operation Iraqi Freedom ####
 
-Pub. L. 109–163, div. A, title V, §576, Jan. 6, 2006, 119 Stat. 3274, provided that: “For purposes of eligibility for the campaign medal for Operation Enduring Freedom established pursuant to Public Law 108–234 (10 U.S.C. 1121 note), the beginning date of Operation Enduring Freedom is September 11, 2001.”
+Pub. L. 109–163, div. A, title V, §576, Jan. 6, 2006, 119 Stat. 3274, provided that: "For purposes of eligibility for the campaign medal for Operation Enduring Freedom established pursuant to Public Law 108–234 (10 U.S.C. 1121 note), the beginning date of Operation Enduring Freedom is September 11, 2001."
 
 Pub. L. 108–234, §1, May 28, 2004, 118 Stat. 655, provided that:
 
-“(a) Requirement.—The President shall establish a campaign medal specifically to recognize service by members of the uniformed services in Operation Enduring Freedom and a separate campaign medal specifically to recognize service by members of the uniformed services in Operation Iraqi Freedom.
+"(a) Requirement.—The President shall establish a campaign medal specifically to recognize service by members of the uniformed services in Operation Enduring Freedom and a separate campaign medal specifically to recognize service by members of the uniformed services in Operation Iraqi Freedom.
 
-“(b) Eligibility.—Subject to such limitations as may be prescribed by the President, eligibility for a campaign medal established pursuant to subsection (a) shall be set forth in regulations to be prescribed by the Secretary concerned (as defined in section 101 of title 10, United States Code). In the case of regulations prescribed by the Secretaries of the military departments, the regulations shall be subject to approval by the Secretary of Defense and shall be uniform throughout the Department of Defense.”
+"(b) Eligibility.—Subject to such limitations as may be prescribed by the President, eligibility for a campaign medal established pursuant to subsection (a) shall be set forth in regulations to be prescribed by the Secretary concerned (as defined in section 101 of title 10, United States Code). In the case of regulations prescribed by the Secretaries of the military departments, the regulations shall be subject to approval by the Secretary of Defense and shall be uniform throughout the Department of Defense."
 
 #### Commendation of Members of Armed Forces and Government Civilian Personnel Who Served During Cold War ####
 
 Pub. L. 105–85, div. A, title X, §1084, Nov. 18, 1997, 111 Stat. 1919, provided that:
 
-“(a) Findings.—The Congress finds the following:
+"(a) Findings.—The Congress finds the following:
 
-“(1) During the period of the Cold War, from the end of World War II until the collapse of the Soviet Union in 1991, the United States and the Soviet Union engaged in a global military rivalry.
+"(1) During the period of the Cold War, from the end of World War II until the collapse of the Soviet Union in 1991, the United States and the Soviet Union engaged in a global military rivalry.
 
-“(2) This rivalry, potentially the most dangerous military confrontation in the history of mankind, has come to a close without a direct superpower military conflict.
+"(2) This rivalry, potentially the most dangerous military confrontation in the history of mankind, has come to a close without a direct superpower military conflict.
 
-“(3) Military and civilian personnel of the Department of Defense, personnel in the intelligence community, members of the foreign service, and other officers and employees of the United States faithfully performed their duties during the Cold War.
+"(3) Military and civilian personnel of the Department of Defense, personnel in the intelligence community, members of the foreign service, and other officers and employees of the United States faithfully performed their duties during the Cold War.
 
-“(4) Many such personnel performed their duties while isolated from family and friends and served overseas under frequently arduous conditions in order to protect the United States and achieve a lasting peace.
+"(4) Many such personnel performed their duties while isolated from family and friends and served overseas under frequently arduous conditions in order to protect the United States and achieve a lasting peace.
 
-“(5) The discipline and dedication of those personnel were fundamental to the prevention of a superpower military conflict.
+"(5) The discipline and dedication of those personnel were fundamental to the prevention of a superpower military conflict.
 
-“(b) Congressional Commendation.—The Congress hereby commends the members of the Armed Forces and civilian personnel of the Government who contributed to the historic victory in the Cold War and expresses its gratitude and appreciation for their service and sacrifices.
+"(b) Congressional Commendation.—The Congress hereby commends the members of the Armed Forces and civilian personnel of the Government who contributed to the historic victory in the Cold War and expresses its gratitude and appreciation for their service and sacrifices.
 
-“(c) Certificates of Recognition.—The Secretary of Defense shall prepare a certificate recognizing the Cold War service of qualifying members of the Armed Forces and civilian personnel of the Department of Defense and other Government agencies contributing to national security, as determined by the Secretary, and shall provide the certificate to such members and civilian personnel upon request.”
+"(c) Certificates of Recognition.—The Secretary of Defense shall prepare a certificate recognizing the Cold War service of qualifying members of the Armed Forces and civilian personnel of the Department of Defense and other Government agencies contributing to national security, as determined by the Secretary, and shall provide the certificate to such members and civilian personnel upon request."
 
 #### Ex. Ord. No. 11448. Meritorious Service Medal ####
 
@@ -188,11 +188,11 @@ Sec. 4. The Humanitarian Service Medal or device may be awarded posthumously, an
 
 #### Ex. Ord. No. 12019. Defense Meritorious Service Medal ####
 
-Ex. Ord. No. 12019, Nov. 3, 1977, 42 F.R. 57945, provided:
+Ex. Ord. No. 12019, Nov. 3, 1977, 42 F.R. 57945, as amended by Ex. Ord. No. 13666, Apr. 18, 2014, 79 F.R. 22591, provided:
 
 By virtue of the authority vested in me as President of the United States of America, and as Commander in Chief of the Armed Forces, it is hereby ordered as follows:
 
-Section 1. There is hereby established a Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense to any member of the Armed Forces of the United States who has rendered outstanding non-combat meritorious achievement or service while assigned to the Office of the Secretary of Defense, the Organization of the Joint Chiefs of Staff, a specified or unified command, a Defense agency, or other such joint activity as may be designated by the Secretary of Defense.
+Section 1. There is hereby established a Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense to any member of the Armed Forces of the United States, or to any member of the armed forces of a friendly foreign nation, who has rendered outstanding non-combat meritorious achievement or service while assigned to the Office of the Secretary of Defense, the Organization of the Joint Chiefs of Staff, a specified or unified command, a Defense agency, or other such joint activity as may be designated by the Secretary of Defense.
 
 Sec. 2. The Defense Meritorious Service Medal, with accompanying ribbons and appurtenances, shall be of appropriate design approved by the Secretary of Defense and shall be awarded under such regulations as the Secretary of Defense may prescribe. These regulations shall place the Defense Meritorious Service Medal in an order of precedence after the Medal of Honor, the Distinguished Service Cross, the Defense Distinguished Service Medal, the Distinguished Service Medal, the Silver Star Medal, the Defense Superior Service Medal, the Legion of Merit Medal, and the Bronze Star Medal, but before the Meritorious Service Medal.
 
@@ -200,17 +200,15 @@ Sec. 3. No more than one Defense Meritorious Service Medal shall be awarded to a
 
 Sec. 4. The Defense Meritorious Service Medal or device may be awarded posthumously and, when so awarded, may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Defense.
 
-Jimmy Carter.
-
 #### Ex. Ord. No. 12793. Presidential Service Certificate and Presidential Service Badge ####
 
 Ex. Ord. No. 12793, Mar. 20, 1992, 57 F.R. 10281, as amended by Ex. Ord. No. 13286, §31, Feb. 28, 2003, 68 F.R. 10625, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and as Commander in Chief of the Armed Forces of the United States, it is ordered of follows:
 
-Section 1. *Presidential Service Certificate*. The Presidential Service Certificate (“Certificate”) is hereby continued, the design of which accompanies and is hereby made a part of this order. The Certificate shall be awarded in the name of the President of the United States by the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or, when the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security. It shall be awarded by the appropriate Secretary to members of the Army, Navy, Marine Corps, Air Force, and Coast Guard, respectively, who have been assigned to the White House Office; to military units and support facilities under the administration of the White House Military Office; or to other direct support positions within the Executive Office of the President (“EOP”). The Certificate shall not be issued to any member who is issued a Vice Presidential Certificate, or similar EOP Certificate, for the same period of service. Such assignment must be for a period of at least one year, subsequent to January 21, 1989.
+Section 1. *Presidential Service Certificate*. The Presidential Service Certificate ("Certificate") is hereby continued, the design of which accompanies and is hereby made a part of this order. The Certificate shall be awarded in the name of the President of the United States by the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, or, when the Coast Guard is not operating as a service in the Navy, the Secretary of Homeland Security. It shall be awarded by the appropriate Secretary to members of the Army, Navy, Marine Corps, Air Force, and Coast Guard, respectively, who have been assigned to the White House Office; to military units and support facilities under the administration of the White House Military Office; or to other direct support positions within the Executive Office of the President ("EOP"). The Certificate shall not be issued to any member who is issued a Vice Presidential Certificate, or similar EOP Certificate, for the same period of service. Such assignment must be for a period of at least one year, subsequent to January 21, 1989.
 
-Sec. 2. *Presidential Service Badge*. The Presidential Service Badge (“Badge”) is hereby continued, the design of which accompanies and is hereby made a part of this order. The Badge shall be awarded to those members of the Armed Forces who have been granted the Certificate and shall be awarded in the same manner in which the Certificate has been given. The Badge shall be worn as a part of the uniform of those individuals under such regulations as their respective Secretaries may severally prescribe.
+Sec. 2. *Presidential Service Badge*. The Presidential Service Badge ("Badge") is hereby continued, the design of which accompanies and is hereby made a part of this order. The Badge shall be awarded to those members of the Armed Forces who have been granted the Certificate and shall be awarded in the same manner in which the Certificate has been given. The Badge shall be worn as a part of the uniform of those individuals under such regulations as their respective Secretaries may severally prescribe.
 
 Sec. 3. Only one Certificate may be awarded to an individual.
 

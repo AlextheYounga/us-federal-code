@@ -34,34 +34,34 @@ The Secretary may not enter into any contract for the construction, lease, or se
 
 Pub. L. 106–450, title III, Nov. 7, 2000, 114 Stat. 1945, provided that:
 
-#### “SEC. 301. SHORT TITLE. ####
+#### "SEC. 301. SHORT TITLE. ####
 
-“This title may be cited as the ‘Fisheries Survey Vessel Authorization Act of 2000’.
+"This title may be cited as the 'Fisheries Survey Vessel Authorization Act of 2000'.
 
-#### “SEC. 302. ACQUISITION OF FISHERY SURVEY VESSELS. ####
+#### "SEC. 302. ACQUISITION OF FISHERY SURVEY VESSELS. ####
 
-“(a) In General.—The Secretary, subject to the availability of appropriations, may in accordance with this section acquire, by purchase, lease, lease-purchase, or charter, and equip up to six fishery survey vessels in accordance with this section.
+"(a) In General.—The Secretary, subject to the availability of appropriations, may in accordance with this section acquire, by purchase, lease, lease-purchase, or charter, and equip up to six fishery survey vessels in accordance with this section.
 
-“(b) Vessel Requirements.—Any vessel acquired and equipped under this section must—
+"(b) Vessel Requirements.—Any vessel acquired and equipped under this section must—
 
-“(1) be capable of—
+"(1) be capable of—
 
-“(A) staying at sea continuously for at least 30 days;
+"(A) staying at sea continuously for at least 30 days;
 
-“(B) conducting fishery population surveys using hydroacoustic, longlining, deep water, and pelagic trawls, and other necessary survey techniques; and
+"(B) conducting fishery population surveys using hydroacoustic, longlining, deep water, and pelagic trawls, and other necessary survey techniques; and
 
-“(C) conducting other work necessary to provide fishery managers with the accurate and timely data needed to prepare and implement fishery management plans; and
+"(C) conducting other work necessary to provide fishery managers with the accurate and timely data needed to prepare and implement fishery management plans; and
 
-“(2) have a hull that meets the International Council for Exploration of the Sea standard regarding acoustic quietness.
+"(2) have a hull that meets the International Council for Exploration of the Sea standard regarding acoustic quietness.
 
-“(c) Authorization.—To carry out this section there are authorized to be appropriated to the Secretary $60,000,000 for each of fiscal years 2002 and 2003.”
+"(c) Authorization.—To carry out this section there are authorized to be appropriated to the Secretary $60,000,000 for each of fiscal years 2002 and 2003."
 
 #### Deactivation of NOAA Research Vessels ####
 
 Pub. L. 102–567, title IV, §401(b)(4), Oct. 29, 1992, 106 Stat. 4291, provided that:
 
-“(A) Unless necessary for safety reasons, the Secretary of Commerce shall not deactivate the ALBATROSS IV (if active), until an equivalent replacement vessel is operational.
+"(A) Unless necessary for safety reasons, the Secretary of Commerce shall not deactivate the ALBATROSS IV (if active), until an equivalent replacement vessel is operational.
 
-“(B) The Secretary of Commerce shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries [now Committee on Science, Space, and Technology] of the House of Representatives 60 days prior to the proposed deactivation of any other research vessel of the National Oceanic and Atmospheric Administration, if an equivalent replacement vessel will not become operational at the time of deactivation.”
+"(B) The Secretary of Commerce shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries [now Committee on Science, Space, and Technology] of the House of Representatives 60 days prior to the proposed deactivation of any other research vessel of the National Oceanic and Atmospheric Administration, if an equivalent replacement vessel will not become operational at the time of deactivation."
 
 [<sup>1</sup> So in original. Probably should be capitalized.](#891b_1)

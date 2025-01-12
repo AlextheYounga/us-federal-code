@@ -4,4 +4,4 @@ In accordance with regulations promulgated by the Secretary, an employer to whic
 
 (June 25, 1938, ch. 676, §18A, as added Pub. L. 111–148, title I, §1511, Mar. 23, 2010, 124 Stat. 252.)
 
-[<sup>1</sup> So in original. Probably should be “was”.](#218a_1)
+[<sup>1</sup> So in original. Probably should be "was".](#218a_1)

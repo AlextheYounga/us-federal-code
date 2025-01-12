@@ -20,4 +20,4 @@ Sec.
 
 **1994**—Pub. L. 103–322, title XIII, §130009(b), Sept. 13, 1994, 108 Stat. 2030, added item 1547.
 
-**1986**—Pub. L. 99–603, title I, §103(b), Nov. 6, 1986, 100 Stat. 3380, amended item 1546 generally, striking out “entry” before “documents”.
+**1986**—Pub. L. 99–603, title I, §103(b), Nov. 6, 1986, 100 Stat. 3380, amended item 1546 generally, striking out "entry" before "documents".

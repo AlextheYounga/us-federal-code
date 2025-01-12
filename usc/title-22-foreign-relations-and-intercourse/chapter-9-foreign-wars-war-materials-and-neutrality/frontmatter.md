@@ -14,7 +14,7 @@ Sec.
 
 408. Use of land and naval forces to prevent exportation.
 
-408a. “United States” defined.
+408a. "United States" defined.
 
 409 to 420. Repealed or Omitted.
 

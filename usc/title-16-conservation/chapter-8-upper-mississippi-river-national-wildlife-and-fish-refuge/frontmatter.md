@@ -2,7 +2,7 @@
 
 Sec.
 
-721. Short title; “person” defined.
+721. Short title; "person" defined.
 
 722. Acquisition of lands and water.
 

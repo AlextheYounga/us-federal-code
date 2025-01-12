@@ -54,10 +54,10 @@ Sec.
 
 **2004**—Pub. L. 108–492, §2(c)(26), Dec. 23, 2004, 118 Stat. 3982, added item 70105a.
 
-**2000**—Pub. L. 106–405, §3(b), Nov. 1, 2000, 114 Stat. 1752, substituted “Office of Commercial Space Transportation” for “Authorization of appropriations” in item 70119.
+**2000**—Pub. L. 106–405, §3(b), Nov. 1, 2000, 114 Stat. 1752, substituted "Office of Commercial Space Transportation" for "Authorization of appropriations" in item 70119.
 
 Pub. L. 106–391, title III, §322(d), Oct. 30, 2000, 114 Stat. 1598, added item 70109a.
 
-**1998**—Pub. L. 105–303, title I, §102(a)(1), Oct. 28, 1998, 112 Stat. 2846, substituted “launches, operations, and reentries” for “launches and operations” in item 70104, “launches, operation of launch sites and reentry sites, and reentries” for “launches and operation of launch sites” in item 70108, inserted “or reentries” after “scheduled launches” in item 70109, and added items 70120 and 70121.
+**1998**—Pub. L. 105–303, title I, §102(a)(1), Oct. 28, 1998, 112 Stat. 2846, substituted "launches, operations, and reentries" for "launches and operations" in item 70104, "launches, operation of launch sites and reentry sites, and reentries" for "launches and operation of launch sites" in item 70108, inserted "or reentries" after "scheduled launches" in item 70109, and added items 70120 and 70121.
 
 **1994**—Pub. L. 103–429, §6(78), Oct. 31, 1994, 108 Stat. 4388, made technical amendment to chapter heading.

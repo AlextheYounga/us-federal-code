@@ -74,27 +74,27 @@ The Railroad Retirement Act of 1974, referred to in subsec. (b), is act Aug. 29,
 
 #### Amendments ####
 
-**2013**—Subsecs. (b), (c). Pub. L. 112–240 substituted “fifth year” for “third year” and “five-year” for “three-year” in last sentence.
+**2013**—Subsecs. (b), (c). Pub. L. 112–240 substituted "fifth year" for "third year" and "five-year" for "three-year" in last sentence.
 
 **2003**—Subsec. (h). Pub. L. 108–173 added subsec. (h).
 
 **1988**—Pub. L. 100–360, §411(e)(3), added Pub. L. 100–203, §4039(h)(7), see 1987 Amendment note below.
 
-Subsec. (f)(1), (2). Pub. L. 100–360, §411(j)(4)(B), substituted “of assignment specified in” for “specified in subclauses (I) and (II) of”.
+Subsec. (f)(1), (2). Pub. L. 100–360, §411(j)(4)(B), substituted "of assignment specified in" for "specified in subclauses (I) and (II) of".
 
 **1987**—Pub. L. 100–203, §4039(h)(7), as added by Pub. L. 100–360, §411(e)(3), amended section catchline generally.
 
-Subsec. (f)(1), (2). Pub. L. 100–203, §4096(a)(2), substituted “to the terms specified in subclauses (I) and (II) of section 1395u(b)(3)(B)(ii) of this title with respect to the services” for “that the reasonable charge is the full charge for the services”.
+Subsec. (f)(1), (2). Pub. L. 100–203, §4096(a)(2), substituted "to the terms specified in subclauses (I) and (II) of section 1395u(b)(3)(B)(ii) of this title with respect to the services" for "that the reasonable charge is the full charge for the services".
 
-**1982**—Subsec. (c). Pub. L. 97–248 substituted “section 1395y(a)” for “section 1395y”.
+**1982**—Subsec. (c). Pub. L. 97–248 substituted "section 1395y(a)" for "section 1395y".
 
 **1980**—Subsec. (f). Pub. L. 96–499 amended subsec. (f) generally, inserting provision for payments to providers of medical and other health services where the person or persons furnishing the services did not agree that the reasonable charge was the full charge for such services.
 
-**1974**—Subsec. (b). Pub. L. 93–445 substituted “Railroad Retirement Act of 1974” for “Railroad Retirement Act of 1937”, wherever appearing.
+**1974**—Subsec. (b). Pub. L. 93–445 substituted "Railroad Retirement Act of 1974" for "Railroad Retirement Act of 1937", wherever appearing.
 
 **1972**—Subsec. (b). Pub. L. 92–603, §281(a), required that provider of services or other person be without fault with respect to payment of excess over correct amount as prerequisite to adjustment or recovery of incorrect payments.
 
-Subsec. (c). Pub. L. 92–603, §§261(a), 281(b), substituted “or where the adjustment (or recovery) would be made by decreasing payments to which another person who is without fault is entitled as provided in subsection (b)(4) of this section, if” for “and where”, inserted reference to subchapter XVIII of this chapter, and inserted provisions covering the adjustment or recovery of incorrect payments against individuals who are without fault.
+Subsec. (c). Pub. L. 92–603, §§261(a), 281(b), substituted "or where the adjustment (or recovery) would be made by decreasing payments to which another person who is without fault is entitled as provided in subsection (b)(4) of this section, if" for "and where", inserted reference to subchapter XVIII of this chapter, and inserted provisions covering the adjustment or recovery of incorrect payments against individuals who are without fault.
 
 Subsec. (g). Pub. L. 92–603, §266, added subsec. (g).
 
@@ -104,11 +104,11 @@ Subsecs. (e), (f). Pub. L. 90–248, §154(c), added subsecs. (e) and (f).
 
 #### Effective Date of 2013 Amendment ####
 
-Pub. L. 112–240, title VI, §638(b), Jan. 2, 2013, 126 Stat. 2357, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Jan. 2, 2013].”
+Pub. L. 112–240, title VI, §638(b), Jan. 2, 2013, 126 Stat. 2357, provided that: "The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Jan. 2, 2013]."
 
 #### Effective Date of 2003 Amendment ####
 
-Pub. L. 108–173, title IX, §939(b), Dec. 8, 2003, 117 Stat. 2416, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 8, 2003] and shall apply to items and services furnished on or after such date.”
+Pub. L. 108–173, title IX, §939(b), Dec. 8, 2003, 117 Stat. 2416, provided that: "The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 8, 2003] and shall apply to items and services furnished on or after such date."
 
 #### Effective Date of 1988 Amendment ####
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 97–248 effective Sept. 3, 1982, see section 128(e)(3) of 
 
 #### Effective Date of 1980 Amendment ####
 
-Pub. L. 96–499, title IX, §954(b), Dec. 5, 1980, 94 Stat. 2647, provided that: “The amendment made by this section [amending this section] shall apply only to claims filed on or after January 1, 1981.”
+Pub. L. 96–499, title IX, §954(b), Dec. 5, 1980, 94 Stat. 2647, provided that: "The amendment made by this section [amending this section] shall apply only to claims filed on or after January 1, 1981."
 
 #### Effective Date of 1974 Amendment ####
 
@@ -132,10 +132,10 @@ Amendment by Pub. L. 93–445 effective Jan. 1, 1975, see section 603 of Pub. L.
 
 #### Effective Date of 1972 Amendment ####
 
-Pub. L. 92–603, title II, §261(b), Oct. 30, 1972, 86 Stat. 1448, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to waiver actions considered after the date of the enactment of this Act [Oct. 30, 1972].”
+Pub. L. 92–603, title II, §261(b), Oct. 30, 1972, 86 Stat. 1448, provided that: "The amendment made by subsection (a) [amending this section] shall apply with respect to waiver actions considered after the date of the enactment of this Act [Oct. 30, 1972]."
 
-Pub. L. 92–603, title II, §281(g), Oct. 30, 1972, 86 Stat. 1456, provided that: “The provisions of subsection (a)(1) [amending this section] shall apply with respect to notices of payment sent to individuals after the date of enactment of this Act [Oct. 30, 1972]. The provisions of subsections (a)(2), (b), (c), and (d) [amending this section and sections 1395u and 1395cc of this title] shall apply in the case of notices sent to individuals after 1968. The provisions of subsections (e) and (f) [amending sections 1395f and 1395n of this title] shall apply in the case of services furnished (or deemed to have been furnished) after 1970.”
+Pub. L. 92–603, title II, §281(g), Oct. 30, 1972, 86 Stat. 1456, provided that: "The provisions of subsection (a)(1) [amending this section] shall apply with respect to notices of payment sent to individuals after the date of enactment of this Act [Oct. 30, 1972]. The provisions of subsections (a)(2), (b), (c), and (d) [amending this section and sections 1395u and 1395cc of this title] shall apply in the case of notices sent to individuals after 1968. The provisions of subsections (e) and (f) [amending sections 1395f and 1395n of this title] shall apply in the case of services furnished (or deemed to have been furnished) after 1970."
 
 #### Waiver of Liability Limiting Recoupment in Certain Cases ####
 
-Pub. L. 101–239, title VI, §6109, Dec. 19, 1989, 103 Stat. 2213, provided that: “In the case where more than the correct amount may have been paid to a physician or individual under part B of title XVIII of the Social Security Act [42 U.S.C. 1395j et seq.] with respect to services furnished during the period beginning on July 1, 1985, and ending on March 31, 1986, as a result of a carrier's establishing statewide fees for certain procedure codes while the carrier was in the process of implementing the national common procedure coding system of the Health Care Financing Administration, the provisions of section 1870(c) of the Social Security Act [42 U.S.C. 1395gg(c)] shall apply, without the need for affirmative action by such a physician or individual, so as to prevent any recoupment, or other decrease in subsequent payments, to the physician or individual. The previous sentence shall apply to claims for items and services which were reopened by carriers on or after July 31, 1987.”
+Pub. L. 101–239, title VI, §6109, Dec. 19, 1989, 103 Stat. 2213, provided that: "In the case where more than the correct amount may have been paid to a physician or individual under part B of title XVIII of the Social Security Act [42 U.S.C. 1395j et seq.] with respect to services furnished during the period beginning on July 1, 1985, and ending on March 31, 1986, as a result of a carrier's establishing statewide fees for certain procedure codes while the carrier was in the process of implementing the national common procedure coding system of the Health Care Financing Administration, the provisions of section 1870(c) of the Social Security Act [42 U.S.C. 1395gg(c)] shall apply, without the need for affirmative action by such a physician or individual, so as to prevent any recoupment, or other decrease in subsequent payments, to the physician or individual. The previous sentence shall apply to claims for items and services which were reopened by carriers on or after July 31, 1987."

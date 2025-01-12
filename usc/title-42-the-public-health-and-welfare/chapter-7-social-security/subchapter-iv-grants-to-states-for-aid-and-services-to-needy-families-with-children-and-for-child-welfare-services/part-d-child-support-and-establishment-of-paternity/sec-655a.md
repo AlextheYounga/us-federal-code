@@ -18,9 +18,9 @@ Section was not enacted as part of the Social Security Act which comprises this 
 
 #### Amendments ####
 
-**1998**—Par. (1). Pub. L. 105–220 substituted “section 49b(b) of title 29” for “the third sentence of section 49b(a) of title 29”.
+**1998**—Par. (1). Pub. L. 105–220 substituted "section 49b(b) of title 29" for "the third sentence of section 49b(a) of title 29".
 
-**1996**—Pub. L. 104–193 amended section catchline and text generally. Prior to amendment, text read as follows: “For purposes of section 603 of this title, expenses incurred to reimburse State employment offices for furnishing information requested of such offices pursuant to the third sentence of section 49b(a) of title 29, by a State or local agency administering a State plan approved under part A of this subchapter shall be considered to constitute expenses incurred in the administration of such State plan; and for purposes of section 655 of this title, expenses incurred to reimburse State employment offices for furnishing information so requested by a State or local agency charged with the duty of carrying out a State plan for child support approved under part D of this subchapter shall be considered to constitute expenses incurred in the administration of such State plan.”
+**1996**—Pub. L. 104–193 amended section catchline and text generally. Prior to amendment, text read as follows: "For purposes of section 603 of this title, expenses incurred to reimburse State employment offices for furnishing information requested of such offices pursuant to the third sentence of section 49b(a) of title 29, by a State or local agency administering a State plan approved under part A of this subchapter shall be considered to constitute expenses incurred in the administration of such State plan; and for purposes of section 655 of this title, expenses incurred to reimburse State employment offices for furnishing information so requested by a State or local agency charged with the duty of carrying out a State plan for child support approved under part D of this subchapter shall be considered to constitute expenses incurred in the administration of such State plan."
 
 #### Effective Date of 1998 Amendment ####
 

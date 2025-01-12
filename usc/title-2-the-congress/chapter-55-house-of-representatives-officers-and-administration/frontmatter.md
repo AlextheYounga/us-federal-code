@@ -18,7 +18,7 @@ Sec.
 
 5507. Transfers of amounts appropriated for House.
 
-5508. Account in House of Representatives for Employees’ Compensation Fund.
+5508. Account in House of Representatives for Employees' Compensation Fund.
 
 5509. Incidental use of equipment and supplies.
 

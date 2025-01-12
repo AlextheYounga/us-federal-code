@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-Subject to subsections (b), (c), and (d) notwithstanding any other provision of law (including regulations), the Coquille Indian Tribe of the State of Oregon (including any agent or instrumentality of the Tribe) (referred to in this section as the “Tribe”), may transfer, lease, encumber, or otherwise convey, without further authorization or approval, all or any part of the Tribe's interest in any real property that is not held in trust by the United States for the benefit of the Tribe.
+Subject to subsections (b), (c), and (d) notwithstanding any other provision of law (including regulations), the Coquille Indian Tribe of the State of Oregon (including any agent or instrumentality of the Tribe) (referred to in this section as the "Tribe"), may transfer, lease, encumber, or otherwise convey, without further authorization or approval, all or any part of the Tribe's interest in any real property that is not held in trust by the United States for the benefit of the Tribe.
 
 #### (b) Nonapplicability to certain conveyances ####
 

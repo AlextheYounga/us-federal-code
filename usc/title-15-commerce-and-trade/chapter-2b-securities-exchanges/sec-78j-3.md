@@ -16,7 +16,7 @@ The rules of the Commission under paragraph (1) shall require that each member o
 
 #### (3) Independence ####
 
-The rules of the Commission under paragraph (1) shall require that, in determining the definition of the term “independence” for purposes of paragraph (2), the national securities exchanges and the national securities associations shall consider relevant factors, including—
+The rules of the Commission under paragraph (1) shall require that, in determining the definition of the term "independence" for purposes of paragraph (2), the national securities exchanges and the national securities associations shall consider relevant factors, including—
 
 (A) the source of compensation of a member of the board of directors of an issuer, including any consulting, advisory, or other compensatory fee paid by the issuer to such member of the board of directors; and
 
@@ -128,7 +128,7 @@ This section shall not apply to any controlled company.
 
 #### (2) Definition ####
 
-For purposes of this section, the term “controlled company” means an issuer—
+For purposes of this section, the term "controlled company" means an issuer—
 
 (A) that is listed on a national securities exchange or by a national securities association; and
 

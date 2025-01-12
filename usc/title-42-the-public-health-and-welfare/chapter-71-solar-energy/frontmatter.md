@@ -28,7 +28,7 @@ Sec.
 
 5511a. Solar Assistance Financing Entity.
 
-5512. Small business concerns’ opportunities to participate in programs.
+5512. Small business concerns' opportunities to participate in programs.
 
 5513. Priorities and criteria of demonstration programs.
 

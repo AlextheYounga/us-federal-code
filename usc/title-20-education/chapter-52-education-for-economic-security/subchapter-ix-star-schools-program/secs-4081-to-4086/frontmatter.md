@@ -24,4 +24,4 @@ For similar provisions, see section 6891 et seq. of this title.
 
 #### Short Title ####
 
-Section 901 of title IX of Pub. L. 98–377, as added by Pub. L. 100–297, title II, §2302, Apr. 28, 1988, 102 Stat. 320, provided that title IX of Pub. L. 98–377 [enacting this subchapter] could be cited as the “Star Schools Program Assistance Act”, prior to repeal by Pub. L. 103–382, title III, §364, Oct. 20, 1994, 108 Stat. 3975.
+Section 901 of title IX of Pub. L. 98–377, as added by Pub. L. 100–297, title II, §2302, Apr. 28, 1988, 102 Stat. 320, provided that title IX of Pub. L. 98–377 [enacting this subchapter] could be cited as the "Star Schools Program Assistance Act", prior to repeal by Pub. L. 103–382, title III, §364, Oct. 20, 1994, 108 Stat. 3975.

@@ -14,7 +14,7 @@ Section was not enacted as a part of act July 31, 1945, ch. 339, 59 Stat. 512, k
 
 #### Amendments ####
 
-**1957**—Pub. L. 85–21 inserted “, and the action of the Secretary of the Treasury in signing the agreement dated March 6, 1957, amending said agreement is approved”.
+**1957**—Pub. L. 85–21 inserted ", and the action of the Secretary of the Treasury in signing the agreement dated March 6, 1957, amending said agreement is approved".
 
 #### Delegation of Functions ####
 
@@ -24,9 +24,9 @@ Functions of National Advisory Council on International Monetary and Financial P
 
 Act July 15, 1946, ch. 577, 60 Stat. 535, provided that:
 
-“Whereas in the Bretton Woods Agreements Act [this subchapter] the Congress has declared it to be the policy of the United States ‘to seek to bring about further agreement and cooperation among nations and international bodies, as soon as possible, on ways and means which will best reduce obstacles to and restrictions upon international trade, eliminate unfair trade practices, promote mutually advantageous commercial relations, and otherwise facilitate the expansion and balanced growth of international trade and promote the stability of international economic relations’; and
+"Whereas in the Bretton Woods Agreements Act [this subchapter] the Congress has declared it to be the policy of the United States 'to seek to bring about further agreement and cooperation among nations and international bodies, as soon as possible, on ways and means which will best reduce obstacles to and restrictions upon international trade, eliminate unfair trade practices, promote mutually advantageous commercial relations, and otherwise facilitate the expansion and balanced growth of international trade and promote the stability of international economic relations'; and
 
-“Whereas in further implementation of the purposes of the Bretton Woods Agreements, the Governments of the United States and the United Kingdom have negotiated an agreement dated December 6, 1945, designed to expedite the achievement of stable and orderly exchange arrangements, the prompt elimination of exchange restrictions and discriminations, and other objectives of the above-mentioned policy declared by the Congress.”
+"Whereas in further implementation of the purposes of the Bretton Woods Agreements, the Governments of the United States and the United Kingdom have negotiated an agreement dated December 6, 1945, designed to expedite the achievement of stable and orderly exchange arrangements, the prompt elimination of exchange restrictions and discriminations, and other objectives of the above-mentioned policy declared by the Congress."
 
 #### Financial Agreement Between the Governments of the United States and the United Kingdom ####
 
@@ -86,9 +86,9 @@ Forty-nine annual installments of principal repayments and interest shall be equ
 
 For the purposes of this Agreement:
 
-(i) The term “current transactions” shall have the meaning prescribed in Article XIX (i) of the Articles of Agreement of the International Monetary Fund.
+(i) The term "current transactions" shall have the meaning prescribed in Article XIX (i) of the Articles of Agreement of the International Monetary Fund.
 
-(ii) The term “sterling area” means the United Kingdom and the other territories declared by the Defence (Finance) Definition of the Sterling Area) (No. 2) Order, 1944, to be included in the sterling area, namely “the following territories excluding Canada and Newfoundland, that is to say—
+(ii) The term "sterling area" means the United Kingdom and the other territories declared by the Defence (Finance) Definition of the Sterling Area) (No. 2) Order, 1944, to be included in the sterling area, namely "the following territories excluding Canada and Newfoundland, that is to say—
 
 (a) any Dominion,
 
@@ -100,7 +100,7 @@ For the purposes of this Agreement:
 
 (e) Egypt, the Anglo-Egyptian Sudan and Iraq.
 
-(f) Iceland and the Faroe Islands.”
+(f) Iceland and the Faroe Islands."
 
 12. Consultation on Agreement: Either government shall be entitled to approach the other for a reconsideration of any of the provisions of this Agreement, if in its opinion the prevailing conditions of international exchange justify such reconsideration, with a view to agreeing upon modifications for presentation to their respective legislatures.
 

@@ -6,19 +6,19 @@ In this section:
 
 #### (1) Bull of the Woods Wilderness ####
 
-The term “Bull of the Woods Wilderness” means the land designated as wilderness by section 3(4) of the Oregon Wilderness Act of 1984 (Public Law 98–328; 16 U.S.C. 1132 note).
+The term "Bull of the Woods Wilderness" means the land designated as wilderness by section 3(4) of the Oregon Wilderness Act of 1984 (Public Law 98–328; 16 U.S.C. 1132 note).
 
 #### (2) Opal Creek Wilderness ####
 
-The term “Opal Creek Wilderness” means certain land in the Willamette National Forest in the State of Oregon comprising approximately 12,800 acres, as generally depicted on the map entitled “Proposed Opal Creek Wilderness and Scenic Recreation Area”, dated July 1996.
+The term "Opal Creek Wilderness" means certain land in the Willamette National Forest in the State of Oregon comprising approximately 12,800 acres, as generally depicted on the map entitled "Proposed Opal Creek Wilderness and Scenic Recreation Area", dated July 1996.
 
 #### (3) Scenic Recreation Area ####
 
-The term “Scenic Recreation Area” means the Opal Creek Scenic Recreation Area, comprising approximately 13,000 acres, as generally depicted on the map entitled “Proposed Opal Creek Wilderness and Scenic Recreation Area”, dated July 1996 and established under subsection (c)(1)(C) of this section.
+The term "Scenic Recreation Area" means the Opal Creek Scenic Recreation Area, comprising approximately 13,000 acres, as generally depicted on the map entitled "Proposed Opal Creek Wilderness and Scenic Recreation Area", dated July 1996 and established under subsection (c)(1)(C) of this section.
 
 #### (4) Secretary ####
 
-The term “Secretary” means the Secretary of Agriculture.
+The term "Secretary" means the Secretary of Agriculture.
 
 #### (b) Purposes ####
 
@@ -322,7 +322,7 @@ Nothing in this section shall interfere with activity for which a special use pe
 
 #### (1) Authorization ####
 
-Notwithstanding any other law, if the Rosboro Lumber Company (referred to in this subsection as “Rosboro”) offers and conveys marketable title to the United States to the land described in paragraph (2), the Secretary of Agriculture shall convey all right, title and interest held by the United States to sufficient lands described in paragraph (3) to Rosboro, in the order in which they appear in this subsection, as necessary to satisfy the equal value requirements of paragraph (4).
+Notwithstanding any other law, if the Rosboro Lumber Company (referred to in this subsection as "Rosboro") offers and conveys marketable title to the United States to the land described in paragraph (2), the Secretary of Agriculture shall convey all right, title and interest held by the United States to sufficient lands described in paragraph (3) to Rosboro, in the order in which they appear in this subsection, as necessary to satisfy the equal value requirements of paragraph (4).
 
 #### (2) Land to be offered by Rosboro ####
 
@@ -410,7 +410,7 @@ Provisions substantially identical to the text of this section were enacted by t
 
 #### Amendments ####
 
-**2000**—Subsec. (c)(1)(A). Pub. L. 106–176 struck out “of 1964” after “Wilderness Act”.
+**2000**—Subsec. (c)(1)(A). Pub. L. 106–176 struck out "of 1964" after "Wilderness Act".
 
 #### Change of Name ####
 
@@ -418,7 +418,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 #### Short Title ####
 
-Pub. L. 104–208, div. B, title I, §101, Sept. 30, 1996, 110 Stat. 3009–523, provided that: “This title [see Codification note above] may be cited as the ‘Opal Creek Wilderness and Opal Creek Scenic Recreation Area Act of 1996’.”
+Pub. L. 104–208, div. B, title I, §101, Sept. 30, 1996, 110 Stat. 3009–523, provided that: "This title [see Codification note above] may be cited as the 'Opal Creek Wilderness and Opal Creek Scenic Recreation Area Act of 1996'."
 
 #### Termination of Advisory Councils ####
 
@@ -430,8 +430,8 @@ Advisory councils established after Jan. 5, 1973, to terminate not later than th
 
 [<sup>3</sup> So in original. Probably should be capitalized.](#545b_3)
 
-[<sup>4</sup> So in original. Probably should be “section”.](#545b_4)
+[<sup>4</sup> So in original. Probably should be "section".](#545b_4)
 
 [<sup>5</sup> So in original. The semicolon probably should be a period.](#545b_5)
 
-[<sup>6</sup> So in original. Probably should be “if”.](#545b_6)
+[<sup>6</sup> So in original. Probably should be "if".](#545b_6)

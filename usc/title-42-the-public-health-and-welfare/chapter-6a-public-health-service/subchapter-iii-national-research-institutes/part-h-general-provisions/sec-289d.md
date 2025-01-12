@@ -66,7 +66,7 @@ No guideline or regulation promulgated under subsection (a) or (c) of this secti
 
 #### Prohibition on Funding of Projects Involving Use of Chimpanzees Obtained From the Wild ####
 
-Pub. L. 102–394, title II, §213, Oct. 6, 1992, 106 Stat. 1812, provided that: “No funds appropriated under this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts shall be used by the National Institutes of Health, or any other Federal agency, or recipient of Federal funds on any project that entails the capture or procurement of chimpanzees obtained from the wild. For purposes of this section, the term ‘recipient of Federal funds’ includes private citizens, corporations, or other research institutions located outside of the United States that are recipients of Federal funds.”
+Pub. L. 102–394, title II, §213, Oct. 6, 1992, 106 Stat. 1812, provided that: "No funds appropriated under this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts shall be used by the National Institutes of Health, or any other Federal agency, or recipient of Federal funds on any project that entails the capture or procurement of chimpanzees obtained from the wild. For purposes of this section, the term 'recipient of Federal funds' includes private citizens, corporations, or other research institutions located outside of the United States that are recipients of Federal funds."
 
 Similar provisions were contained in the following prior appropriation acts:
 

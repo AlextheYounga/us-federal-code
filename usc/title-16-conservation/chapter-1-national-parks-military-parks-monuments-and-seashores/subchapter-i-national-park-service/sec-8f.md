@@ -1,12 +1,12 @@
-### §8f. Roads leading to certain historical areas; “State” defined ###
+### §8f. Roads leading to certain historical areas; "State" defined ###
 
-The word “State” as used in section 8e of this title includes Hawaii, Alaska, Puerto Rico, Guam, and the Virgin Islands.
+The word "State" as used in section 8e of this title includes Hawaii, Alaska, Puerto Rico, Guam, and the Virgin Islands.
 
 (June 3, 1948, ch. 401, §2, 62 Stat. 334; Aug. 1, 1956, ch. 852, §5, 70 Stat. 908.)
 
 #### Amendments ####
 
-**1956**—Act Aug. 1, 1956, inserted “Guam” after “Puerto Rico”.
+**1956**—Act Aug. 1, 1956, inserted "Guam" after "Puerto Rico".
 
 #### Admission of Alaska and Hawaii to Statehood ####
 

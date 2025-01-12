@@ -16,7 +16,7 @@ The amount of the credit determined under subsection (a) for any taxable year sh
 
 #### (2) Reference price ####
 
-For purposes of this subsection, the term “reference price” means, with respect to any calendar year, the reference price determined for such calendar year under section 45K(d)(2)(C).
+For purposes of this subsection, the term "reference price" means, with respect to any calendar year, the reference price determined for such calendar year under section 45K(d)(2)(C).
 
 #### (3) Inflation adjustment ####
 
@@ -30,7 +30,7 @@ In the case of any taxable year beginning in a calendar year after 1991, there s
 
 #### (B) Inflation adjustment factor ####
 
-The term “inflation adjustment factor” means, with respect to any calendar year, a fraction the numerator of which is the GNP implicit price deflator for the preceding calendar year and the denominator of which is the GNP implicit price deflator for 1990. For purposes of the preceding sentence, the term “GNP implicit price deflator” means the first revision of the implicit price deflator for the gross national product as computed and published by the Secretary of Commerce. Not later than April 1 of any calendar year, the Secretary shall publish the inflation adjustment factor for the preceding calendar year.
+The term "inflation adjustment factor" means, with respect to any calendar year, a fraction the numerator of which is the GNP implicit price deflator for the preceding calendar year and the denominator of which is the GNP implicit price deflator for 1990. For purposes of the preceding sentence, the term "GNP implicit price deflator" means the first revision of the implicit price deflator for the gross national product as computed and published by the Secretary of Commerce. Not later than April 1 of any calendar year, the Secretary shall publish the inflation adjustment factor for the preceding calendar year.
 
 #### (c) Qualified enhanced oil recovery costs ####
 
@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “qualified enhanced oil recovery costs” means any of the following:
+The term "qualified enhanced oil recovery costs" means any of the following:
 
 (A) Any amount paid or incurred during the taxable year for tangible property—
 
@@ -68,7 +68,7 @@ For purposes of this subsection—
 
 #### (A) In general ####
 
-The term “qualified enhanced oil recovery project” means any project—
+The term "qualified enhanced oil recovery project" means any project—
 
 (i) which involves the application (in accordance with sound engineering principles) of 1 or more tertiary recovery methods (as defined in section 193(b)(3)) which can reasonably be expected to result in more than an insignificant increase in the amount of crude oil which will ultimately be recovered,
 
@@ -94,7 +94,7 @@ For purposes of paragraph (1)(D)—
 
 #### (A) In general ####
 
-The term “Alaska natural gas” means natural gas entering the Alaska natural gas pipeline (as defined in section 168(i)(16) (determined without regard to subparagraph (B) thereof)) which is produced from a well—
+The term "Alaska natural gas" means natural gas entering the Alaska natural gas pipeline (as defined in section 168(i)(16) (determined without regard to subparagraph (B) thereof)) which is produced from a well—
 
 (i) located in the area of the State of Alaska lying north of 64 degrees North latitude, determined by excluding the area of the Alaska National Wildlife Refuge (including the continental shelf thereof within the meaning of section 638(1)), and
 
@@ -102,7 +102,7 @@ The term “Alaska natural gas” means natural gas entering the Alaska natural 
 
 #### (B) Natural gas ####
 
-The term “natural gas” has the meaning given such term by section 613A(e)(2).
+The term "natural gas" has the meaning given such term by section 613A(e)(2).
 
 #### (d) Other rules ####
 
@@ -142,23 +142,23 @@ Another prior section 43 was renumbered section 37 of this title.
 
 #### Amendments ####
 
-**2005**—Subsec. (b)(2). Pub. L. 109–58 substituted “section 45K(d)(2)(C)” for “section 29(d)(2)(C)”.
+**2005**—Subsec. (b)(2). Pub. L. 109–58 substituted "section 45K(d)(2)(C)" for "section 29(d)(2)(C)".
 
-Subsec. (c)(5). Pub. L. 109–135 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of paragraph (1)(D)—
+Subsec. (c)(5). Pub. L. 109–135 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "For purposes of paragraph (1)(D)—
 
-“(1) In general.—The term ‘Alaska natural gas’ means natural gas entering the Alaska natural gas pipeline (as defined in section 168(i)(16) (determined without regard to subparagraph (B) thereof)) which is produced from a well—
+"(1) In general.—The term 'Alaska natural gas' means natural gas entering the Alaska natural gas pipeline (as defined in section 168(i)(16) (determined without regard to subparagraph (B) thereof)) which is produced from a well—
 
-“(A) located in the area of the State of Alaska lying north of 64 degrees North latitude, determined by excluding the area of the Alaska National Wildlife Refuge (including the continental shelf thereof within the meaning of section 638(1)), and
+"(A) located in the area of the State of Alaska lying north of 64 degrees North latitude, determined by excluding the area of the Alaska National Wildlife Refuge (including the continental shelf thereof within the meaning of section 638(1)), and
 
-“(B) pursuant to the applicable State and Federal pollution prevention, control, and permit requirements from such area (including the continental shelf thereof within the meaning of section 638(1)).
+"(B) pursuant to the applicable State and Federal pollution prevention, control, and permit requirements from such area (including the continental shelf thereof within the meaning of section 638(1)).
 
-“(2) Natural gas.—The term ‘natural gas’ has the meaning given such term by section 613A(e)(2).”
+"(2) Natural gas.—The term 'natural gas' has the meaning given such term by section 613A(e)(2)."
 
 **2004**—Subsec. (c)(1)(D). Pub. L. 108–357, §707(a), added subpar. (D).
 
 Subsec. (c)(5). Pub. L. 108–357, §707(b), added par. (5).
 
-**2000**—Subsec. (c)(1)(C). Pub. L. 106–554 inserted “(as defined in section 193(b))” after “expenses” and struck out “under section 193” after “allowable”.
+**2000**—Subsec. (c)(1)(C). Pub. L. 106–554 inserted "(as defined in section 193(b))" after "expenses" and struck out "under section 193" after "allowable".
 
 #### Effective Date of 2005 Amendment ####
 
@@ -166,19 +166,19 @@ Amendment by Pub. L. 109–58 applicable to credits determined under the Interna
 
 #### Effective Date of 2004 Amendment ####
 
-Pub. L. 108–357, title VII, §707(c), Oct. 22, 2004, 118 Stat. 1550, provided that: “The amendment made by this section [amending this section] shall apply to costs paid or incurred in taxable years beginning after December 31, 2004.”
+Pub. L. 108–357, title VII, §707(c), Oct. 22, 2004, 118 Stat. 1550, provided that: "The amendment made by this section [amending this section] shall apply to costs paid or incurred in taxable years beginning after December 31, 2004."
 
 #### Effective Date of 2000 Amendment ####
 
-Pub. L. 106–554, §1(a)(7) [title III, §317(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–645, provided that: “The amendment made by this section [amending this section] shall take effect as if included in section 11511 of the Revenue Reconciliation Act of 1990 [Pub. L. 101–508].”
+Pub. L. 106–554, §1(a)(7) [title III, §317(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–645, provided that: "The amendment made by this section [amending this section] shall take effect as if included in section 11511 of the Revenue Reconciliation Act of 1990 [Pub. L. 101–508]."
 
 #### Effective Date ####
 
 Pub. L. 101–508, title XI, §11511(d), Nov. 5, 1990, 104 Stat. 1388–485, provided that:
 
-“(1) In general.—The amendments made by this section [enacting this section and amending sections 38, 39, 196, and 6501 of this title] shall apply to costs paid or incurred in taxable years beginning after December 31, 1990.
+"(1) In general.—The amendments made by this section [enacting this section and amending sections 38, 39, 196, and 6501 of this title] shall apply to costs paid or incurred in taxable years beginning after December 31, 1990.
 
-“(2) Special rule for significant expansion of projects.—For purposes of section 43(c)(2)(A)(iii) of the Internal Revenue Code of 1986 (as added by subsection (a)), any significant expansion after December 31, 1990, of a project begun before January 1, 1991, shall be treated as a project with respect to which the first injection commences after December 31, 1990.”
+"(2) Special rule for significant expansion of projects.—For purposes of section 43(c)(2)(A)(iii) of the Internal Revenue Code of 1986 (as added by subsection (a)), any significant expansion after December 31, 1990, of a project begun before January 1, 1991, shall be treated as a project with respect to which the first injection commences after December 31, 1990."
 
 #### Inflation Adjusted Items for Certain Tax Years ####
 

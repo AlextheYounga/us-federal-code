@@ -18,4 +18,4 @@ The rules of the Commission under subsection (a) shall require each issuer to de
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of Title 12, Banks and Banking.
 
-[<sup>1</sup> So in original. Probably should be “compensation in”.](#78j-4_1)
+[<sup>1</sup> So in original. Probably should be "compensation in".](#78j-4_1)

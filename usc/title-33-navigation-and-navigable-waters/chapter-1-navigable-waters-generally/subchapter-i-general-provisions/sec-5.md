@@ -20,11 +20,11 @@
 
 #### Codification ####
 
-Section is from act July 5, 1884, popularly known as the “Rivers and Harbors Appropriation Act of 1884”.
+Section is from act July 5, 1884, popularly known as the "Rivers and Harbors Appropriation Act of 1884".
 
 The section, as originally enacted, was as follows:
 
-“No tolls or operating charges whatsoever shall be levied or collected upon any vessel or vessels, dredges, or other passing water-craft through any canal or other work for the improvement of navigation belonging to the United States; and for the purpose of preserving and continuing the use and navigation of said canals, rivers, and other public works without interruption, the Secretary of War, upon the application of the chief engineer in charge of said works, is hereby authorized to draw his warrant or requisition from time to time upon the Secretary of the Treasury to pay the actual expenses of operating and keeping said works in repair, which warrants or requisitions shall be paid by the Secretary of the Treasury, out of any money in the Treasury not otherwise appropriated: *Provided, however*, That an itemized statement of said expenses shall accompany the annual report of the chief of engineers.”
+"No tolls or operating charges whatsoever shall be levied or collected upon any vessel or vessels, dredges, or other passing water-craft through any canal or other work for the improvement of navigation belonging to the United States; and for the purpose of preserving and continuing the use and navigation of said canals, rivers, and other public works without interruption, the Secretary of War, upon the application of the chief engineer in charge of said works, is hereby authorized to draw his warrant or requisition from time to time upon the Secretary of the Treasury to pay the actual expenses of operating and keeping said works in repair, which warrants or requisitions shall be paid by the Secretary of the Treasury, out of any money in the Treasury not otherwise appropriated: *Provided, however*, That an itemized statement of said expenses shall accompany the annual report of the chief of engineers."
 
 It was amended by act March 3, 1909, to read substantially as set forth above.
 
@@ -38,11 +38,11 @@ It was amended by act March 3, 1909, to read substantially as set forth above.
 
 #### Change of Name ####
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
 #### Effective Date of 2003 Amendment ####
 
-Pub. L. 108–176, title VIII, §829(b), Dec. 12, 2003, 117 Stat. 2597, provided that: “The amendment made by subsection (a) [amending this section] is effective on and after November 25, 2002.”
+Pub. L. 108–176, title VIII, §829(b), Dec. 12, 2003, 117 Stat. 2597, provided that: "The amendment made by subsection (a) [amending this section] is effective on and after November 25, 2002."
 
 #### Termination of Board of Engineers for Rivers and Harbors and Reassignment of Duties and Responsibilities ####
 
@@ -50,4 +50,4 @@ For termination of Board of Engineers for Rivers and Harbors 180 days after Oct.
 
 #### Appropriations ####
 
-Section 2 of act June 26, 1934, ch. 756, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Operating and care of canals and other works of navigation (8x881)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
+Section 2 of act June 26, 1934, ch. 756, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title "Operating and care of canals and other works of navigation (8x881)" effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.

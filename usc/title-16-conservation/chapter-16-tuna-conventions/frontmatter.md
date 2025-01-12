@@ -20,7 +20,7 @@ Sec.
 
 959. Enforcement of chapter.
 
-960. Commissions’ functions not restrained by this chapter or State laws.
+960. Commissions' functions not restrained by this chapter or State laws.
 
 961. Authorization of appropriations.
 

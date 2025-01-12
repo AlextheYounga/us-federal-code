@@ -4,7 +4,7 @@
 
 (1) Except as provided in paragraph (2), the Secretary is authorized to acquire lands and interests in lands within the park, by donation, purchase with donated or appropriated funds or by exchange.
 
-(2) The lands designated “P04–04” on the map referred to in section 425k(a) of this title numbered 326–40072E/89/A and dated September 1990 may be acquired only by donation, and the lands designated “P04–01”, “P04–02”, and “P04–03” on such map may be acquired only by donation, purchase from willing sellers, or exchange.
+(2) The lands designated "P04–04" on the map referred to in section 425k(a) of this title numbered 326–40072E/89/A and dated September 1990 may be acquired only by donation, and the lands designated "P04–01", "P04–02", and "P04–03" on such map may be acquired only by donation, purchase from willing sellers, or exchange.
 
 #### (b) Conveyance of lands excluded from park ####
 
@@ -30,4 +30,4 @@ Within the area bounded by the Orange Turnpike, the Orange Plank Road, and McLaw
 
 #### Amendments ####
 
-**1999**—Subsec. (a). Pub. L. 106–150 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the Secretary” for “The Secretary”, and added par. (2).
+**1999**—Subsec. (a). Pub. L. 106–150 designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), the Secretary" for "The Secretary", and added par. (2).

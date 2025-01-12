@@ -10,6 +10,6 @@ Section 390a of this title, referred to in text, was in the original a reference
 
 #### Amendments ####
 
-**1980**—Pub. L. 96–375 substituted “Wayne N. Aspinall” for “Curecanti”.
+**1980**—Pub. L. 96–375 substituted "Wayne N. Aspinall" for "Curecanti".
 
 [<sup>1</sup> See References in Text note below.](#620i_1)

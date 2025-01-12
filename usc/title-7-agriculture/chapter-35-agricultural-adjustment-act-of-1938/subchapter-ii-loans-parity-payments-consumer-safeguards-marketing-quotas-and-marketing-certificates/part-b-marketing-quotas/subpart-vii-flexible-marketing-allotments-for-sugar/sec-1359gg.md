@@ -94,15 +94,15 @@ A prior section 1359gg, act Feb. 16, 1938, ch. 30, title III, §359g, as added P
 
 #### Amendments ####
 
-**2008**—Subsec. (a). Pub. L. 110–246, §1403(g)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “For the purpose of establishing proportionate shares for sugarcane farms under section 1359ff(c) of this title, the Secretary, on application of any producer, with the written consent of all owners of a farm, may transfer the acreage base history of the farm to any other parcels of land of the applicant.”
+**2008**—Subsec. (a). Pub. L. 110–246, §1403(g)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "For the purpose of establishing proportionate shares for sugarcane farms under section 1359ff(c) of this title, the Secretary, on application of any producer, with the written consent of all owners of a farm, may transfer the acreage base history of the farm to any other parcels of land of the applicant."
 
-Subsec. (d)(1). Pub. L. 110–246, §1403(g)(2)(A), inserted “affected” before “crop-share owners” in two places and struck out “, and from the processing company holding the applicable allocation for such shares,” before “may deliver”.
+Subsec. (d)(1). Pub. L. 110–246, §1403(g)(2)(A), inserted "affected" before "crop-share owners" in two places and struck out ", and from the processing company holding the applicable allocation for such shares," before "may deliver".
 
-Subsec. (d)(2). Pub. L. 110–246, §1403(g)(2)(B), struck out “the product of” after “based on” in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
+Subsec. (d)(2). Pub. L. 110–246, §1403(g)(2)(B), struck out "the product of" after "based on" in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
 
-“(A) the number of acres of proportionate shares being transferred; and
+"(A) the number of acres of proportionate shares being transferred; and
 
-“(B) the State's per acre yield goal established under section 1359ff(c)(3) of this title.”
+"(B) the State's per acre yield goal established under section 1359ff(c)(3) of this title."
 
 #### Effective Date of 2008 Amendment ####
 

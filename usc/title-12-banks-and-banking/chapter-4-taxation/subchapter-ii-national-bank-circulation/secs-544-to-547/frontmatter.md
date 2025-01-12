@@ -16,12 +16,12 @@ Effective July 1, 1935, the permanent appropriation provided for in former secti
 
 #### Redemption of Bonds; Termination of Circulating Notes ####
 
-In a communication from the Treasury Department dated February 17, 1941, it was stated “The Secretary of the Treasury called for redemption the only outstanding issues of United States bonds bearing the circulation privilege as follows:
+In a communication from the Treasury Department dated February 17, 1941, it was stated "The Secretary of the Treasury called for redemption the only outstanding issues of United States bonds bearing the circulation privilege as follows:
 
-“2% Consols. of 1930, as of July 1, 1935,
+"2% Consols. of 1930, as of July 1, 1935,
 
-“2% Panama Canal bonds of 1916–36, and
+"2% Panama Canal bonds of 1916–36, and
 
-“2% Panama Canal bonds of 1918–38, as of August 1, 1935.
+"2% Panama Canal bonds of 1918–38, as of August 1, 1935.
 
-“The retirement of these issues automatically put an end to National Bank note circulation and the collection of the tax thereon.”
+"The retirement of these issues automatically put an end to National Bank note circulation and the collection of the tax thereon."

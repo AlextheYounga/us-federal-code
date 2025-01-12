@@ -6,8 +6,8 @@ There are hereby authorized to be appropriated such sums, but not more than $13,
 
 #### Amendments ####
 
-**2009**—Pub. L. 111–88 substituted “$13,575,000” for “$5,575,000”.
+**2009**—Pub. L. 111–88 substituted "$13,575,000" for "$5,575,000".
 
-**1978**—Pub. L. 95–625 substituted “$5,575,000” for “$3,542,000”.
+**1978**—Pub. L. 95–625 substituted "$5,575,000" for "$3,542,000".
 
-[<sup>1</sup> So in original. Probably should be “San Juan Island National Historical Park.”](#282c_1)
+[<sup>1</sup> So in original. Probably should be "San Juan Island National Historical Park."](#282c_1)

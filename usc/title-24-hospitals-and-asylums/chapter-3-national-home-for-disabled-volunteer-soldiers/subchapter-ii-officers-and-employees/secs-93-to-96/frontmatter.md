@@ -12,4 +12,4 @@ Section 96, act Mar. 3, 1901, ch. 853, §1, 31 Stat. 1178, provided for designat
 
 #### Effective Date of Repeal ####
 
-Repeal effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans’ Benefits.
+Repeal effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans' Benefits.

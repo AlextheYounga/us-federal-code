@@ -10,4 +10,4 @@ R.S. §5583 derived from act Aug. 10, 1846, ch. 178, §7, 9 Stat. 105.
 
 #### Amendments ####
 
-**1951**—Act Oct. 25, 1951, inserted “until no longer needed in conducting current business”.
+**1951**—Act Oct. 25, 1951, inserted "until no longer needed in conducting current business".

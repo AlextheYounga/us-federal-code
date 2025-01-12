@@ -40,11 +40,11 @@ In this part:
 
 #### (1) Other developmental disabilities ####
 
-The term “other developmental disabilities” has the meaning given the term “developmental disability” in section 15002(8) of this title.
+The term "other developmental disabilities" has the meaning given the term "developmental disability" in section 15002(8) of this title.
 
 #### (2) State ####
 
-The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, and the Trust Territory of the Pacific Islands.
+The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, and the Trust Territory of the Pacific Islands.
 
 #### (e) Sunset ####
 
@@ -54,7 +54,7 @@ This section shall not apply after September 30, 2014.
 
 #### Amendments ####
 
-**2011**—Subsec. (e). Pub. L. 112–32 substituted “2014” for “2011”.
+**2011**—Subsec. (e). Pub. L. 112–32 substituted "2014" for "2011".
 
 #### Termination of Trust Territory of the Pacific Islands ####
 

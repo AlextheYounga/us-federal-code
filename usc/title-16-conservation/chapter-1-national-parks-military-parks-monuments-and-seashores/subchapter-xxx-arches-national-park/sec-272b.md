@@ -24,7 +24,7 @@ A grazing lease, permit, or license described in paragraph (1) may be sold durin
 
 #### (5) Taylor Grazing Act ####
 
-Nothing in this subsection affects other provisions concerning leases, permits, or licenses under the Act of June 28, 1934 (commonly known as the “Taylor Grazing Act”) (48 Stat. 1269, chapter 865; 43 U.S.C. 315 et seq.).
+Nothing in this subsection affects other provisions concerning leases, permits, or licenses under the Act of June 28, 1934 (commonly known as the "Taylor Grazing Act") (48 Stat. 1269, chapter 865; 43 U.S.C. 315 et seq.).
 
 #### (6) Administration ####
 

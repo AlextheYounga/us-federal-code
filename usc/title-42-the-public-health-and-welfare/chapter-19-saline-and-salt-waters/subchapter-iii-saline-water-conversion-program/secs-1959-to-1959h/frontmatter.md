@@ -4,7 +4,7 @@ Section 1959, Pub. L. 92–60, §2, July 29, 1971, 85 Stat. 159, set out Congres
 
 Section 1959a, Pub. L. 92–60, §3, July 29, 1971, 85 Stat. 159, set out general duties of Secretary of the Interior in the area of conversion of saline water. See section 7832 of this title.
 
-Section 1959b, Pub. L. 92–60, §4, July 29, 1971, 85 Stat. 160, set out additional duties of Secretary of the Interior in area of conversion of saline water, such as conducting preliminary investigations, exploring potential cooperative agreements, reporting to the President and Congress, utilizing Federal agencies’ expertise and accepting financial assistance from State and other public agencies. See section 7833 of this title.
+Section 1959b, Pub. L. 92–60, §4, July 29, 1971, 85 Stat. 160, set out additional duties of Secretary of the Interior in area of conversion of saline water, such as conducting preliminary investigations, exploring potential cooperative agreements, reporting to the President and Congress, utilizing Federal agencies' expertise and accepting financial assistance from State and other public agencies. See section 7833 of this title.
 
 Section 1959c, Pub. L. 92–60, §5, July 29, 1971, 85 Stat. 160, set out powers of Secretary of the Interior. See section 7871 of this title.
 
@@ -20,7 +20,7 @@ Section 1959h, Pub. L. 92–60, §10, July 29, 1971, 85 Stat. 162; Pub. L. 95–
 
 #### Short Title ####
 
-Pub. L. 92–60, §1, July 29, 1971, 85 Stat. 159, which provided that Pub. L. 92–60, which enacted sections 1959 to 1959h of this title and repealed sections 1951 to 1958 of this title may be cited as “The Saline Water Conversion Act of 1971” was repealed by Pub. L. 95–467, title IV, §410(a), Oct. 17, 1978, 92 Stat. 1316.
+Pub. L. 92–60, §1, July 29, 1971, 85 Stat. 159, which provided that Pub. L. 92–60, which enacted sections 1959 to 1959h of this title and repealed sections 1951 to 1958 of this title may be cited as "The Saline Water Conversion Act of 1971" was repealed by Pub. L. 95–467, title IV, §410(a), Oct. 17, 1978, 92 Stat. 1316.
 
 #### Annual Authorization of Appropriations ####
 

@@ -120,7 +120,7 @@ The Secretary may audit a qualified teaching health center to ensure the accurac
 
 #### (B) Limitation on payment ####
 
-A teaching health center may only receive payment in a cost reporting period for a number of such resident positions that is greater than the base level of primary care resident positions, as determined by the Secretary. For purposes of this subparagraph, the “base level of primary care residents” for a teaching health center is the level of such residents as of a base period.
+A teaching health center may only receive payment in a cost reporting period for a number of such resident positions that is greater than the base level of primary care resident positions, as determined by the Secretary. For purposes of this subparagraph, the "base level of primary care residents" for a teaching health center is the level of such residents as of a base period.
 
 #### (3) Reduction in payment for failure to report ####
 
@@ -150,7 +150,7 @@ In this section:
 
 #### (1) Approved graduate medical residency training program ####
 
-The term “approved graduate medical residency training program” means a residency or other postgraduate medical training program—
+The term "approved graduate medical residency training program" means a residency or other postgraduate medical training program—
 
 (A) participation in which may be counted toward certification in a specialty or subspecialty and includes formal postgraduate training programs in geriatric medicine approved by the Secretary; and
 
@@ -158,11 +158,11 @@ The term “approved graduate medical residency training program” means a resi
 
 #### (2) Primary care residency program ####
 
-The term “primary care residency program” has the meaning given that term in section 293l–1 of this title.
+The term "primary care residency program" has the meaning given that term in section 293l–1 of this title.
 
 #### (3) Qualified teaching health center ####
 
-The term “qualified teaching health center” has the meaning given the term “teaching health center” in section 293l–1 of this title.
+The term "qualified teaching health center" has the meaning given the term "teaching health center" in section 293l–1 of this title.
 
 (July 1, 1944, ch. 373, title III, §340H, as added Pub. L. 111–148, title V, §5508(c), Mar. 23, 2010, 124 Stat. 670.)
 
@@ -170,12 +170,12 @@ The term “qualified teaching health center” has the meaning given the term �
 
 Section 4410 of the Balanced Budget Act of 1997, referred to in subsec. (c)(2)(A)(ii), is section 4410 of Pub. L. 105–33, which is set out as a note under section 1395ww of this title.
 
-Section 1395ww(d) of this title, referred to in subsec. (f), was in the original “section 1186(d) of such Act”, and was translated as meaning section 1886(d) of act Aug. 14, 1935, ch. 531, known as the Social Security Act, to reflect the probable intent of Congress. The Social Security Act does not contain a section 1186.
+Section 1395ww(d) of this title, referred to in subsec. (f), was in the original "section 1186(d) of such Act", and was translated as meaning section 1886(d) of act Aug. 14, 1935, ch. 531, known as the Social Security Act, to reflect the probable intent of Congress. The Social Security Act does not contain a section 1186.
 
 #### Codification ####
 
 Another section 340H of act July 1, 1944, ch. 373, as added by Pub. L. 111–148, title X, §10333, March 23, 2010, 124 Stat. 970, is classified to section 256i of this title.
 
-[<sup>1</sup> So in original. Probably should be “subsections”.](#256h_1)
+[<sup>1</sup> So in original. Probably should be "subsections".](#256h_1)
 
 [<sup>2</sup> See References in Text note below.](#256h_2)

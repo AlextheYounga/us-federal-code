@@ -48,6 +48,6 @@ Sec.
 
 #### Amendments ####
 
-**1982**—Pub. L. 97–221, §2(b), July 23, 1982, 96 Stat. 233, inserted “SUBCHAPTER I—GENERAL PROVISIONS” before item 6101 and inserted “SUBCHAPTER II—FLEXIBLE AND COMPRESSED WORK SCHEDULES” and items 6120 to 6133 after item 6106.
+**1982**—Pub. L. 97–221, §2(b), July 23, 1982, 96 Stat. 233, inserted "SUBCHAPTER I—GENERAL PROVISIONS" before item 6101 and inserted "SUBCHAPTER II—FLEXIBLE AND COMPRESSED WORK SCHEDULES" and items 6120 to 6133 after item 6106.
 
-**1972**—Pub. L. 92–392, §7(b), Aug. 19, 1972, 86 Stat. 573, struck out item 6102 “Eight-hour day; 40-hour work week; wage-board employees”.
+**1972**—Pub. L. 92–392, §7(b), Aug. 19, 1972, 86 Stat. 573, struck out item 6102 "Eight-hour day; 40-hour work week; wage-board employees".

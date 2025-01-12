@@ -10,6 +10,6 @@ For the purpose of establishing an appropriate memorial to Hernando De Soto, the
 
 #### Authorization of Appropriations ####
 
-Section 3 of act Mar. 11, 1948, as amended Aug. 21, 1950, ch. 768, 64 Stat. 469; Sept. 8, 1960, Pub. L. 86–728, §1B, 74 Stat. 856; Nov. 10, 1978, Pub. L. 95–625, title I, §101(8), 92 Stat. 3471; Oct. 12, 1979, Pub. L. 96–87, title IV, §401(a), 93 Stat. 665, provided that: “There is hereby authorized to be appropriated such sums, not to exceed $292,000, as may be necessary to carry out the provisions of this Act [sections 450dd and 450dd–1 of this title].”
+Section 3 of act Mar. 11, 1948, as amended Aug. 21, 1950, ch. 768, 64 Stat. 469; Sept. 8, 1960, Pub. L. 86–728, §1B, 74 Stat. 856; Nov. 10, 1978, Pub. L. 95–625, title I, §101(8), 92 Stat. 3471; Oct. 12, 1979, Pub. L. 96–87, title IV, §401(a), 93 Stat. 665, provided that: "There is hereby authorized to be appropriated such sums, not to exceed $292,000, as may be necessary to carry out the provisions of this Act [sections 450dd and 450dd–1 of this title]."
 
-[<sup>1</sup> So in original. Probably should be “purchasable”.](#450dd_1)
+[<sup>1</sup> So in original. Probably should be "purchasable".](#450dd_1)

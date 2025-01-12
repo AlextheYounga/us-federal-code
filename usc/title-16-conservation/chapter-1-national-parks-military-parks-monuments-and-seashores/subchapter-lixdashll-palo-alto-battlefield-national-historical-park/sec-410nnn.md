@@ -18,12 +18,12 @@ This subchapter is comprised of Pub. L. 102–304. Pub. L. 102–304 was formerl
 
 #### Short Title ####
 
-Pub. L. 102–304, §1, June 23, 1992, 106 Stat. 256, as amended by Pub. L. 111–11, title VII, §7113(a)(3)(A), Mar. 30, 2009, 123 Stat. 1201, provided that: “This Act [enacting this subchapter] may be cited as the ‘Palo Alto Battlefield National Historical Park Act of 1991’.”
+Pub. L. 102–304, §1, June 23, 1992, 106 Stat. 256, as amended by Pub. L. 111–11, title VII, §7113(a)(3)(A), Mar. 30, 2009, 123 Stat. 1201, provided that: "This Act [enacting this subchapter] may be cited as the 'Palo Alto Battlefield National Historical Park Act of 1991'."
 
 #### Designation of Palo Alto Battlefield National Historical Park ####
 
 Pub. L. 111–11, title VII, §7113(a)(1), (2), Mar. 30, 2009, 123 Stat. 1201, provided that:
 
-“(1) In general.—The Palo Alto Battlefield National Historic Site shall be known and designated as the ‘Palo Alto Battlefield National Historical Park’.
+"(1) In general.—The Palo Alto Battlefield National Historic Site shall be known and designated as the 'Palo Alto Battlefield National Historical Park'.
 
-“(2) References.—Any reference in a law, map, regulation, document, paper, or other record of the United States to the historic site referred to in subsection (a) shall be deemed to be a reference to the Palo Alto Battlefield National Historical Park.”
+"(2) References.—Any reference in a law, map, regulation, document, paper, or other record of the United States to the historic site referred to in subsection (a) shall be deemed to be a reference to the Palo Alto Battlefield National Historical Park."

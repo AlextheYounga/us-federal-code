@@ -4,7 +4,7 @@
 
 Sections were omitted in the general amendment of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
-Section 3241, Pub. L. 89–10, title VI, §6001, as added Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 265, provided that this part could be cited as the “School Dropout Demonstration Assistance Act of 1988”.
+Section 3241, Pub. L. 89–10, title VI, §6001, as added Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 265, provided that this part could be cited as the "School Dropout Demonstration Assistance Act of 1988".
 
 A prior section 3241, Pub. L. 89–10, title VII, §731, as added Pub. L. 95–561, title VII, §701, Nov. 1, 1978, 92 Stat. 2278; amended Pub. L. 98–511, title II, §201, Oct. 19, 1984, 98 Stat. 2380, related to use of funds, prior to the general amendment of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, by Pub. L. 100–297.
 

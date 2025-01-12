@@ -8,7 +8,7 @@
 
 (C) the nature of the business of the applicant, including the manner of giving advice and rendering of analyses or reports;
 
-(D) the nature and scope of the authority of the applicant with respect to clients’ funds and accounts;
+(D) the nature and scope of the authority of the applicant with respect to clients' funds and accounts;
 
 (E) the basis upon which the applicant is or will be compensated; and
 
@@ -30,7 +30,7 @@
 
 Par. (6). Pub. L. 97–444 struck out par. (6) which authorized Commission to deny registration or revoke or suspend the registration of any commodity trading advisor or commodity pool operator if the Commission found that such denial, revocation, or suspension was in the public interest and that such person had been guilty of certain specified activities. See section 12a(2), (3), and (4) of this title.
 
-**1978**—Par. (2). Pub. L. 95–405, §9(1)–(3), redesignated par. (3) as (2) and substituted “Each registration” for “All registrations” and inserted “or at such other time, not less than one year from the effective date thereof, as the Commission may rule, regulation, or order prescribe,” after “June of each year,”. Former par. (2), which provided that registration under this section becomes effective thirty days after the receipt of such application by the Commission, or within such shorter period of time as the Commission may determine, was struck out.
+**1978**—Par. (2). Pub. L. 95–405, §9(1)–(3), redesignated par. (3) as (2) and substituted "Each registration" for "All registrations" and inserted "or at such other time, not less than one year from the effective date thereof, as the Commission may rule, regulation, or order prescribe," after "June of each year,". Former par. (2), which provided that registration under this section becomes effective thirty days after the receipt of such application by the Commission, or within such shorter period of time as the Commission may determine, was struck out.
 
 Pars. (3) to (6). Pub. L. 95–405, §9(1), redesignated pars. (4) to (7) as (3) to (6), respectively. Former par. (3) redesignated (2).
 

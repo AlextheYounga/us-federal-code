@@ -6,6 +6,6 @@ Section, added Pub. L. 99–514, title XI, §1133(a), Oct. 22, 1986, 100 Stat. 2
 
 Pub. L. 105–34, title X, §1073(c), Aug. 5, 1997, 111 Stat. 948, provided that:
 
-“(1) Excess distribution tax repeal.—Except as provided in paragraph (2), the repeal made by subsection (a) [repealing this section] shall apply to excess distributions received after December 31, 1996.
+"(1) Excess distribution tax repeal.—Except as provided in paragraph (2), the repeal made by subsection (a) [repealing this section] shall apply to excess distributions received after December 31, 1996.
 
-“(2) Excess retirement accumulation tax repeal.—The repeal made by subsection (a) with respect to section 4980A(d) of the Internal Revenue Code of 1986 and the amendments made by subsection (b) [amending sections 691, 2013, 2053, and 6018 of this title] shall apply to estates of decedents dying after December 31, 1996.”
+"(2) Excess retirement accumulation tax repeal.—The repeal made by subsection (a) with respect to section 4980A(d) of the Internal Revenue Code of 1986 and the amendments made by subsection (b) [amending sections 691, 2013, 2053, and 6018 of this title] shall apply to estates of decedents dying after December 31, 1996."

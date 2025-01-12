@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Responsible party ####
 
-The term “responsible party”, with respect to an article of food, means a person that submits the registration under section 350d(a) of this title for a food facility that is required to register under section 350d(a) of this title, at which such article of food is manufactured, processed, packed, or held.
+The term "responsible party", with respect to an article of food, means a person that submits the registration under section 350d(a) of this title for a food facility that is required to register under section 350d(a) of this title, at which such article of food is manufactured, processed, packed, or held.
 
 #### (2) Reportable food ####
 
-The term “reportable food” means an article of food (other than infant formula) for which there is a reasonable probability that the use of, or exposure to, such article of food will cause serious adverse health consequences or death to humans or animals.
+The term "reportable food" means an article of food (other than infant formula) for which there is a reasonable probability that the use of, or exposure to, such article of food will cause serious adverse health consequences or death to humans or animals.
 
 #### (b) Establishment ####
 
@@ -242,7 +242,7 @@ Section 350d(a)(3), (4) of this title, referred to in subsecs. (e)(1) and (k), w
 
 #### Effective Date ####
 
-Pub. L. 110–85, title X, §1005(e), Sept. 27, 2007, 121 Stat. 969, provided that: “The requirements of section 417(d) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350f(d)], as added by subsection (a) [probably should be (b)], shall become effective 1 year after the date of the enactment of this Act [Sept. 27, 2007].”
+Pub. L. 110–85, title X, §1005(e), Sept. 27, 2007, 121 Stat. 969, provided that: "The requirements of section 417(d) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350f(d)], as added by subsection (a) [probably should be (b)], shall become effective 1 year after the date of the enactment of this Act [Sept. 27, 2007]."
 
 #### Construction of 2011 Amendment ####
 
@@ -250,22 +250,22 @@ Nothing in amendment by Pub. L. 111–353 to be construed to apply to certain al
 
 #### Findings ####
 
-Pub. L. 110–85, title X, §1005(a), Sept. 27, 2007, 121 Stat. 964, provided that: “Congress makes the following findings:
+Pub. L. 110–85, title X, §1005(a), Sept. 27, 2007, 121 Stat. 964, provided that: "Congress makes the following findings:
 
-“(1) In 1994, Congress passed the Dietary Supplement Health and Education Act of 1994 (Public Law 103–417) [see Short Title of 1994 Amendments note set out under section 301 of this title] to provide the Food and Drug Administration the legal framework which is intended to ensure that dietary supplements are safe and properly labeled foods.
+"(1) In 1994, Congress passed the Dietary Supplement Health and Education Act of 1994 (Public Law 103–417) [see Short Title of 1994 Amendments note set out under section 301 of this title] to provide the Food and Drug Administration the legal framework which is intended to ensure that dietary supplements are safe and properly labeled foods.
 
-“(2) In 2006, Congress passed the Dietary Supplement and Nonprescription Drug Consumer Protection Act (Public Law 109–462) [see Short Title of 2006 Amendment note set out under section 301 of this title] to establish a mandatory reporting system of serious adverse events for nonprescription drugs and dietary supplements sold and consumed in the United States.
+"(2) In 2006, Congress passed the Dietary Supplement and Nonprescription Drug Consumer Protection Act (Public Law 109–462) [see Short Title of 2006 Amendment note set out under section 301 of this title] to establish a mandatory reporting system of serious adverse events for nonprescription drugs and dietary supplements sold and consumed in the United States.
 
-“(3) The adverse event reporting system created under the Dietary Supplement and Nonprescription Drug Consumer Protection Act is intended to serve as an early warning system for potential public health issues associated with the use of these products.
+"(3) The adverse event reporting system created under the Dietary Supplement and Nonprescription Drug Consumer Protection Act is intended to serve as an early warning system for potential public health issues associated with the use of these products.
 
-“(4) A reliable mechanism to track patterns of adulteration in food would support efforts by the Food and Drug Administration to target limited inspection resources to protect the public health.”
+"(4) A reliable mechanism to track patterns of adulteration in food would support efforts by the Food and Drug Administration to target limited inspection resources to protect the public health."
 
 #### Guidance ####
 
-Pub. L. 110–85, title X, §1005(f), Sept. 27, 2007, 121 Stat. 969, provided that: “Not later than 9 months after the date of the enactment of this Act [Sept. 27, 2007], the Secretary [of Health and Human Services] shall issue a guidance to industry about submitting reports to the electronic portal established under section 417 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350f] (as added by this section) and providing notifications to other persons in the supply chain of an article of food under such section 417.”
+Pub. L. 110–85, title X, §1005(f), Sept. 27, 2007, 121 Stat. 969, provided that: "Not later than 9 months after the date of the enactment of this Act [Sept. 27, 2007], the Secretary [of Health and Human Services] shall issue a guidance to industry about submitting reports to the electronic portal established under section 417 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350f] (as added by this section) and providing notifications to other persons in the supply chain of an article of food under such section 417."
 
 [<sup>1</sup> See References in Text note below.](#350f_1)
 
-[<sup>2</sup> So in original. Probably should be followed by “a”.](#350f_2)
+[<sup>2</sup> So in original. Probably should be followed by "a".](#350f_2)
 
-[<sup>3</sup> So in original. Probably should be “in section”.](#350f_3)
+[<sup>3</sup> So in original. Probably should be "in section".](#350f_3)

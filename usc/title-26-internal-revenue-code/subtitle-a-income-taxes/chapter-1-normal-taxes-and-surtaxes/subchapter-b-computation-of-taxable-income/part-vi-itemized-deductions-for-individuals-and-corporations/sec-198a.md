@@ -6,7 +6,7 @@ A taxpayer may elect to treat any qualified disaster expenses which are paid or 
 
 #### (b) Qualified disaster expense ####
 
-For purposes of this section, the term “qualified disaster expense” means any expenditure—
+For purposes of this section, the term "qualified disaster expense" means any expenditure—
 
 (1) which is paid or incurred in connection with a trade or business or with business-related property,
 
@@ -26,7 +26,7 @@ For purposes of this section—
 
 #### (1) Business-related property ####
 
-The term “business-related property” means property—
+The term "business-related property" means property—
 
 (A) held by the taxpayer for use in a trade or business or for the production of income, or
 
@@ -34,7 +34,7 @@ The term “business-related property” means property—
 
 #### (2) Federally declared disaster ####
 
-The term “federally declared disaster” has the meaning given such term by section 165(h)(3)(C)(i).
+The term "federally declared disaster" has the meaning given such term by section 165(h)(3)(C)(i).
 
 #### (d) Deduction recaptured as ordinary income on sale, etc. ####
 
@@ -56,4 +56,4 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Effective Date ####
 
-Pub. L. 110–343, div. C, title VII, §707(c), Oct. 3, 2008, 122 Stat. 3924, provided that: “The amendments made by this section [enacting this section] shall apply to amounts paid or incurred after December 31, 2007[,] in connection with disaster[s] declared after such date.”
+Pub. L. 110–343, div. C, title VII, §707(c), Oct. 3, 2008, 122 Stat. 3924, provided that: "The amendments made by this section [enacting this section] shall apply to amounts paid or incurred after December 31, 2007[,] in connection with disaster[s] declared after such date."

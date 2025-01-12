@@ -14,7 +14,7 @@ Section was enacted as part of the Television Broadcasting to Cuba Act which com
 
 #### Amendments ####
 
-**1998**—Pub. L. 105–277 substituted “Broadcasting Board of Governors” for “United States Information Agency” and “the Board” for “the Agency”.
+**1998**—Pub. L. 105–277 substituted "Broadcasting Board of Governors" for "United States Information Agency" and "the Board" for "the Agency".
 
 #### Effective Date of 1998 Amendment ####
 

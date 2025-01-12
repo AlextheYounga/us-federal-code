@@ -84,7 +84,7 @@ The Secretary shall, to the extent practicable, publicly report on measures for 
 
 #### Amendments ####
 
-**2010**—Pub. L. 111–148, §10304, substituted “quality and efficiency” for “quality” wherever appearing in text.
+**2010**—Pub. L. 111–148, §10304, substituted "quality and efficiency" for "quality" wherever appearing in text.
 
 Subsec. (e). Pub. L. 111–148, §3013(b), added subsec. (e).
 

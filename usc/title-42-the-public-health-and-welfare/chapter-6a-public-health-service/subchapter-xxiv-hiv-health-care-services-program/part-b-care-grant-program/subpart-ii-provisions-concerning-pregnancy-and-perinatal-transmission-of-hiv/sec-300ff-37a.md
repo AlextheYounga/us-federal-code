@@ -42,7 +42,7 @@ A prior section 2628 of act July 1, 1944, was classified to section 300ff–36 o
 
 **2006**—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
-Subsec. (a)(1)(B). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease”.
+Subsec. (a)(1)(B). Pub. L. 109–415, §702(3), substituted "HIV/AIDS" for "HIV disease".
 
 #### Effective Date of 2009 Amendment; Revival of Section ####
 

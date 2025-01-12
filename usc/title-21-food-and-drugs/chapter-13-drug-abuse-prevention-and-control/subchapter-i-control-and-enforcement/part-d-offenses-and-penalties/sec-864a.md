@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Eligible entity ####
 
-The term “eligible entity” means—
+The term "eligible entity" means—
 
 (A) a producer of agricultural commodities;
 
@@ -20,7 +20,7 @@ The term “eligible entity” means—
 
 #### (2) Nurse tank ####
 
-The term “nurse tank” shall be considered to be a cargo tank (within the meaning of section 173.315(m) of title 49, Code of Federal Regulations, as in effect as of the date of the enactment of this Act).
+The term "nurse tank" shall be considered to be a cargo tank (within the meaning of section 173.315(m) of title 49, Code of Federal Regulations, as in effect as of the date of the enactment of this Act).
 
 #### (b) Grant authority ####
 
@@ -54,6 +54,6 @@ Section was enacted as part of the Food, Conservation, and Energy Act of 2008, a
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
-#### Definition of “Secretary” ####
+#### Definition of "Secretary" ####
 
-“Secretary” as meaning the Secretary of Agriculture, see section 8701 of Title 7, Agriculture.
+"Secretary" as meaning the Secretary of Agriculture, see section 8701 of Title 7, Agriculture.

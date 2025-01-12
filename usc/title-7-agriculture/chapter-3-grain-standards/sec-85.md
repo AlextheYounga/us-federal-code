@@ -6,11 +6,11 @@ The Secretary may refuse to renew, or may suspend or revoke, any license issued 
 
 #### Amendments ####
 
-**1994**—Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
+**1994**—Pub. L. 103–354 substituted "Secretary" for "Administrator" wherever appearing.
 
-**1993**—Pub. L. 103–156, which directed amendment of “Section 9” by substituting “or has used the license” for “or has used his license” and “instructions issued to the licensee” for “instructions issued to him”, without specifying the name of the Act being amended, was executed to this section, which is section 9 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+**1993**—Pub. L. 103–156, which directed amendment of "Section 9" by substituting "or has used the license" for "or has used his license" and "instructions issued to the licensee" for "instructions issued to him", without specifying the name of the Act being amended, was executed to this section, which is section 9 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-**1976**—Pub. L. 94–582 substituted “Administrator” for “Secretary” wherever appearing and “inspected or weighed or supervised the weighing of” for “inspected” in two places and authorized summary revocation of licenses based on conviction of prescribed offenses.
+**1976**—Pub. L. 94–582 substituted "Administrator" for "Secretary" wherever appearing and "inspected or weighed or supervised the weighing of" for "inspected" in two places and authorized summary revocation of licenses based on conviction of prescribed offenses.
 
 **1968**—Pub. L. 90–487 substituted provisions authorizing the suspension, revocation, and refusal of renewal of licenses by the Secretary, for provisions setting out the penalties for violations of this chapter.
 

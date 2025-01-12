@@ -52,7 +52,7 @@ The provisions of subsection (a) of this section shall not apply to—
 
 (D) a balance sheet certified by an independent public accountant and other financial statements (which shall, as the Commission specifies, be certified);
 
-(E) the nature and scope of the authority of such investment adviser with respect to clients’ funds and accounts;
+(E) the nature and scope of the authority of such investment adviser with respect to clients' funds and accounts;
 
 (F) the basis or bases upon which such investment adviser is compensated;
 
@@ -248,7 +248,7 @@ In any cease-and-desist proceeding under paragraph (1), the Commission may enter
 
 #### (l) Exemption of venture capital fund advisers ####
 
-No investment adviser that acts as an investment adviser solely to 1 or more venture capital funds shall be subject to the registration requirements of this subchapter with respect to the provision of investment advice relating to a venture capital fund. Not later than 1 year after July 21, 2010, the Commission shall issue final rules to define the term “venture capital fund” for purposes of this subsection. The Commission shall require such advisers to maintain such records and provide to the Commission such annual or other reports as the Commission determines necessary or appropriate in the public interest or for the protection of investors.
+No investment adviser that acts as an investment adviser solely to 1 or more venture capital funds shall be subject to the registration requirements of this subchapter with respect to the provision of investment advice relating to a venture capital fund. Not later than 1 year after July 21, 2010, the Commission shall issue final rules to define the term "venture capital fund" for purposes of this subsection. The Commission shall require such advisers to maintain such records and provide to the Commission such annual or other reports as the Commission determines necessary or appropriate in the public interest or for the protection of investors.
 
 #### (m) Exemption of and reporting by certain private fund advisers ####
 
@@ -280,93 +280,93 @@ The Investment Company Act of 1940, referred to in subsec. (e)(5), (6), is title
 
 #### Amendments ####
 
-**2010**—Subsec. (b)(1). Pub. L. 111–203, §403(1), inserted “, other than an investment adviser who acts as an investment adviser to any private fund,” after “any investment adviser”.
+**2010**—Subsec. (b)(1). Pub. L. 111–203, §403(1), inserted ", other than an investment adviser who acts as an investment adviser to any private fund," after "any investment adviser".
 
-Subsec. (b)(3). Pub. L. 111–203, §403(2), added par. (3) and struck out former par. (3) which read as follows: “any investment adviser who during the course of the preceding twelve months has had fewer than fifteen clients and who neither holds himself out generally to the public as an investment adviser nor acts as an investment adviser to any investment company registered under subchapter I of this chapter, or a company which has elected to be a business development company pursuant to section 80a–53 of this title and has not withdrawn its election. For purposes of determining the number of clients of an investment adviser under this paragraph, no shareholder, partner, or beneficial owner of a business development company, as defined in this subchapter, shall be deemed to be a client of such investment adviser unless such person is a client of such investment adviser separate and apart from his status as a shareholder, partner, or beneficial owner;”.
+Subsec. (b)(3). Pub. L. 111–203, §403(2), added par. (3) and struck out former par. (3) which read as follows: "any investment adviser who during the course of the preceding twelve months has had fewer than fifteen clients and who neither holds himself out generally to the public as an investment adviser nor acts as an investment adviser to any investment company registered under subchapter I of this chapter, or a company which has elected to be a business development company pursuant to section 80a–53 of this title and has not withdrawn its election. For purposes of determining the number of clients of an investment adviser under this paragraph, no shareholder, partner, or beneficial owner of a business development company, as defined in this subchapter, shall be deemed to be a client of such investment adviser unless such person is a client of such investment adviser separate and apart from his status as a shareholder, partner, or beneficial owner;".
 
-Subsec. (b)(5). Pub. L. 111–203, §403(3), struck out “or” at end.
+Subsec. (b)(5). Pub. L. 111–203, §403(3), struck out "or" at end.
 
 Subsec. (b)(6). Pub. L. 111–203, §403(4), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
 
 Subsec. (b)(7). Pub. L. 111–203, §403(5), added par. (7).
 
-Subsec. (c)(1)(A). Pub. L. 111–203, §985(e)(1)(A), substituted “principal office, principal place of business, and” for “principal business office and”.
+Subsec. (c)(1)(A). Pub. L. 111–203, §985(e)(1)(A), substituted "principal office, principal place of business, and" for "principal business office and".
 
-Subsec. (f). Pub. L. 111–203, §925(b), substituted “12 months or bar any such person from being associated with an investment adviser, broker, dealer, municipal securities dealer, municipal advisor, transfer agent, or nationally recognized statistical rating organization,” for “twelve months or bar any such person from being associated with an investment adviser,”.
+Subsec. (f). Pub. L. 111–203, §925(b), substituted "12 months or bar any such person from being associated with an investment adviser, broker, dealer, municipal securities dealer, municipal advisor, transfer agent, or nationally recognized statistical rating organization," for "twelve months or bar any such person from being associated with an investment adviser,".
 
-Subsec. (i)(1). Pub. L. 111–203, §929P(a)(4), designated existing provisions as subpar. (A) and inserted heading, inserted “that such penalty is in the public interest and” before “that such person—” in introductory provisions, redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, and realigned margins, struck out concluding provisions which read “and that such penalty is in the public interest.”, and added subpar. (B).
+Subsec. (i)(1). Pub. L. 111–203, §929P(a)(4), designated existing provisions as subpar. (A) and inserted heading, inserted "that such penalty is in the public interest and" before "that such person—" in introductory provisions, redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, and realigned margins, struck out concluding provisions which read "and that such penalty is in the public interest.", and added subpar. (B).
 
-Subsec. (k)(4)(B). Pub. L. 111–203, §985(e)(1)(B), substituted “principal office or place of business” for “principal place of business” in concluding provisions.
+Subsec. (k)(4)(B). Pub. L. 111–203, §985(e)(1)(B), substituted "principal office or place of business" for "principal place of business" in concluding provisions.
 
 Subsec. (l). Pub. L. 111–203, §407, added subsec. (l).
 
 Subsecs. (m), (n). Pub. L. 111–203, §408, added subsecs. (m) and (n).
 
-**2006**—Subsec. (e)(2)(B), (4). Pub. L. 109–291 inserted “credit rating agency,” after “transfer agent,”.
+**2006**—Subsec. (e)(2)(B), (4). Pub. L. 109–291 inserted "credit rating agency," after "transfer agent,".
 
-**2002**—Subsec. (e)(7). Pub. L. 107–204, §604(b)(1), added par. (7) and struck out former par. (7) which read as follows: “is subject to an order of the Commission entered pursuant to subsection (f) of this section barring or suspending the right of such person to be associated with an investment adviser which order is in effect with respect to such person.”
+**2002**—Subsec. (e)(7). Pub. L. 107–204, §604(b)(1), added par. (7) and struck out former par. (7) which read as follows: "is subject to an order of the Commission entered pursuant to subsection (f) of this section barring or suspending the right of such person to be associated with an investment adviser which order is in effect with respect to such person."
 
 Subsec. (e)(9). Pub. L. 107–204, §604(b)(2), (3), added par. (9).
 
-Subsec. (f). Pub. L. 107–204, §604(c)(2), substituted “(8), or (9)” for “or (8)” and inserted “or (3)” after “paragraph (2)”.
+Subsec. (f). Pub. L. 107–204, §604(c)(2), substituted "(8), or (9)" for "or (8)" and inserted "or (3)" after "paragraph (2)".
 
 **2000**—Subsec. (b)(6). Pub. L. 106–554 added par. (6).
 
-**1998**—Subsec. (e)(8)(B). Pub. L. 105–353 inserted “or” after semicolon at end.
+**1998**—Subsec. (e)(8)(B). Pub. L. 105–353 inserted "or" after semicolon at end.
 
-**1996**—Subsec. (a). Pub. L. 104–290, §303(d), which directed substitution of “subsection (b) of this section and section 80b–3a of this title” for “subsection (b) of this section”, was executed by making the substitution for “subsection (b)” to reflect the probable intent of Congress.
+**1996**—Subsec. (a). Pub. L. 104–290, §303(d), which directed substitution of "subsection (b) of this section and section 80b–3a of this title" for "subsection (b) of this section", was executed by making the substitution for "subsection (b)" to reflect the probable intent of Congress.
 
 Subsec. (b)(5). Pub. L. 104–290, §508(d), added par. (5).
 
-Subsec. (c)(2). Pub. L. 104–290, §303(b)(1), inserted “and that the applicant is not prohibited from registering as an investment adviser under section 80b–3a of this title” after “satisfied” in closing provisions.
+Subsec. (c)(2). Pub. L. 104–290, §303(b)(1), inserted "and that the applicant is not prohibited from registering as an investment adviser under section 80b–3a of this title" after "satisfied" in closing provisions.
 
 Subsec. (e)(3) to (5). Pub. L. 104–290, §305(a), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6).
 
-Subsec. (e)(6). Pub. L. 104–290, §305(b)(1), substituted “this paragraph” for “this paragraph (5)”.
+Subsec. (e)(6). Pub. L. 104–290, §305(b)(1), substituted "this paragraph" for "this paragraph (5)".
 
 Pub. L. 104–290, §305(a)(1), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
 Subsec. (e)(7), (8). Pub. L. 104–290, §305(a)(1), redesignated pars. (6) and (7) as (7) and (8), respectively.
 
-Subsec. (f). Pub. L. 104–290, §305(b)(2), substituted “paragraph (1), (5), (6), or (8) of subsection (e) of this section” for “paragraph (1), (4), (5), or (7) of subsection (e) of this section” and “paragraph (4)” for “paragraph (3)” and substituted “subsection (e)” for “said subsection (e)” in two places.
+Subsec. (f). Pub. L. 104–290, §305(b)(2), substituted "paragraph (1), (5), (6), or (8) of subsection (e) of this section" for "paragraph (1), (4), (5), or (7) of subsection (e) of this section" and "paragraph (4)" for "paragraph (3)" and substituted "subsection (e)" for "said subsection (e)" in two places.
 
-Subsec. (h). Pub. L. 104–290, §303(b)(2), substituted “existence,” for “existence or” and inserted “or is prohibited from registering as an investment adviser under section 80b–3a of this title,” after “investment adviser,”.
+Subsec. (h). Pub. L. 104–290, §303(b)(2), substituted "existence," for "existence or" and inserted "or is prohibited from registering as an investment adviser under section 80b–3a of this title," after "investment adviser,".
 
-Subsec. (i)(1)(D). Pub. L. 104–290, §305(b)(3), substituted “subsection (e)(6) of this section” for “subsection (e)(5) of this section”.
+Subsec. (i)(1)(D). Pub. L. 104–290, §305(b)(3), substituted "subsection (e)(6) of this section" for "subsection (e)(5) of this section".
 
 **1995**—Subsec. (b)(4). Pub. L. 104–62 added par. (4).
 
-**1990**—Subsec. (e)(2). Pub. L. 101–550, §205(b)(1), inserted “or of a substantially equivalent crime by a foreign court of competent jurisdiction” after “misdemeanor”.
+**1990**—Subsec. (e)(2). Pub. L. 101–550, §205(b)(1), inserted "or of a substantially equivalent crime by a foreign court of competent jurisdiction" after "misdemeanor".
 
-Subsec. (e)(2)(A). Pub. L. 101–550, §205(b)(2), inserted “any substantially equivalent activity however denominated by the laws of the relevant foreign government,” after “burglary,”.
+Subsec. (e)(2)(A). Pub. L. 101–550, §205(b)(2), inserted "any substantially equivalent activity however denominated by the laws of the relevant foreign government," after "burglary,".
 
-Subsec. (e)(2)(B). Pub. L. 101–550, §205(b)(3), inserted “foreign person performing a function substantially equivalent to any of the above,” after “transfer agent,” and “or any substantially equivalent statute or regulation” after “Commodity Exchange Act”.
+Subsec. (e)(2)(B). Pub. L. 101–550, §205(b)(3), inserted "foreign person performing a function substantially equivalent to any of the above," after "transfer agent," and "or any substantially equivalent statute or regulation" after "Commodity Exchange Act".
 
-Subsec. (e)(2)(C). Pub. L. 101–550, §205(b)(4), inserted “or substantially equivalent activity however denominated by the laws of the relevant foreign government” after “securities”.
+Subsec. (e)(2)(C). Pub. L. 101–550, §205(b)(4), inserted "or substantially equivalent activity however denominated by the laws of the relevant foreign government" after "securities".
 
-Subsec. (e)(2)(D). Pub. L. 101–550, §205(b)(5), inserted “, or a violation of substantially equivalent foreign statute” after “title 18”.
+Subsec. (e)(2)(D). Pub. L. 101–550, §205(b)(5), inserted ", or a violation of substantially equivalent foreign statute" after "title 18".
 
-Subsec. (e)(3). Pub. L. 101–550, §205(b)(3), (6), inserted “foreign person performing a function substantially equivalent to any of the above,” after “transfer agent,”, “or any substantially equivalent statute or regulation” after “Commodity Exchange Act” wherever appearing, “, including any foreign court of competent jurisdiction”, and “foreign entity substantially equivalent to any of the above,” after “insurance company,”.
+Subsec. (e)(3). Pub. L. 101–550, §205(b)(3), (6), inserted "foreign person performing a function substantially equivalent to any of the above," after "transfer agent,", "or any substantially equivalent statute or regulation" after "Commodity Exchange Act" wherever appearing, ", including any foreign court of competent jurisdiction", and "foreign entity substantially equivalent to any of the above," after "insurance company,".
 
-Subsec. (e)(5). Pub. L. 101–550, §205(b)(7), inserted “the Commodity Exchange Act” after “this subchapter,”.
+Subsec. (e)(5). Pub. L. 101–550, §205(b)(7), inserted "the Commodity Exchange Act" after "this subchapter,".
 
 Subsec. (e)(7). Pub. L. 101–550, §205(b)(8), added par. (7).
 
-Subsec. (f). Pub. L. 101–550, §205(c), substituted “paragraph (1), (4), (5), or (7)” for “paragraph (1), (4), or (5)”.
+Subsec. (f). Pub. L. 101–550, §205(c), substituted "paragraph (1), (4), (5), or (7)" for "paragraph (1), (4), or (5)".
 
 Subsecs. (i) to (k). Pub. L. 101–429 added subsecs. (i) to (k).
 
-**1987**—Subsec. (e)(2)(B). Pub. L. 100–181, §702(1), inserted “transfer agent,” after “fiduciary,”.
+**1987**—Subsec. (e)(2)(B). Pub. L. 100–181, §702(1), inserted "transfer agent," after "fiduciary,".
 
-Subsec. (e)(3). Pub. L. 100–181, §702(2), inserted “transfer agent,” after “government securities dealer,”.
+Subsec. (e)(3). Pub. L. 100–181, §702(2), inserted "transfer agent," after "government securities dealer,".
 
-Subsec. (f). Pub. L. 100–181, §702(3), inserted “, seeking to become associated, or, at the time of the alleged misconduct, associated” before “or seeking to become associated”.
+Subsec. (f). Pub. L. 100–181, §702(3), inserted ", seeking to become associated, or, at the time of the alleged misconduct, associated" before "or seeking to become associated".
 
-Subsec. (g). Pub. L. 100–181, §702(4), substituted “subsection (c) or subsection (e)” for “subsection (d)”.
+Subsec. (g). Pub. L. 100–181, §702(4), substituted "subsection (c) or subsection (e)" for "subsection (d)".
 
-**1986**—Subsec. (e)(2)(B). Pub. L. 99–571, §102(m)(1), substituted “government securities broker, government securities dealer, fiduciary, or entity or person required to be registered under the Commodity Exchange Act” for “or fiduciary”.
+**1986**—Subsec. (e)(2)(B). Pub. L. 99–571, §102(m)(1), substituted "government securities broker, government securities dealer, fiduciary, or entity or person required to be registered under the Commodity Exchange Act" for "or fiduciary".
 
-Subsec. (e)(3). Pub. L. 99–571, §102(m)(2), inserted par. (3) and struck out former par. (3) which read as follows: “is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction from acting as an investment adviser, underwriter, broker, dealer, or municipal securities dealer, or as an affiliated person or employee of any investment company, bank, or insurance company, or from engaging in or continuing any conduct or practice in connection with any such activity, or in connection with the purchase or sale of any security.”
+Subsec. (e)(3). Pub. L. 99–571, §102(m)(2), inserted par. (3) and struck out former par. (3) which read as follows: "is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction from acting as an investment adviser, underwriter, broker, dealer, or municipal securities dealer, or as an affiliated person or employee of any investment company, bank, or insurance company, or from engaging in or continuing any conduct or practice in connection with any such activity, or in connection with the purchase or sale of any security."
 
 Subsec. (e)(4). Pub. L. 99–571, §102(m)(3), inserted reference to Commodity Exchange Act.
 
@@ -380,11 +380,11 @@ Subsec. (f). Pub. L. 94–29, §29(3), added the placing of limitations on the a
 
 Subsecs. (g), (h). Pub. L. 94–29, §29(4), redesignated subsecs. (h) and (i) as (g) and (h), respectively. Former subsec. (g), covering the postponement of the effective day of registration by the commencement of a proceeding to deny registration, was struck out.
 
-**1970**—Subsec. (b). Pub. L. 91–547, §24(a), struck out “investment companies and” before “insurance companies” in par. (2) and struck out “does not hold” after “clients and who” and inserted “neither hold” and “nor acts as an investment adviser to any investment company registered under subchapter I of this chapter” in par. (3).
+**1970**—Subsec. (b). Pub. L. 91–547, §24(a), struck out "investment companies and" before "insurance companies" in par. (2) and struck out "does not hold" after "clients and who" and inserted "neither hold" and "nor acts as an investment adviser to any investment company registered under subchapter I of this chapter" in par. (3).
 
-Subsec. (c)(1)(F). Pub. L. 91–547, §24(b), substituted “any person associated with such investment adviser” for “any partner, officer, director thereof, or any person performing similar functions, or any person directly or indirectly controlling or controlled by such investment adviser” and reference to subsec. “(e)” for “(d)”.
+Subsec. (c)(1)(F). Pub. L. 91–547, §24(b), substituted "any person associated with such investment adviser" for "any partner, officer, director thereof, or any person performing similar functions, or any person directly or indirectly controlling or controlled by such investment adviser" and reference to subsec. "(e)" for "(d)".
 
-Subsecs. (d), (e). Pub. L. 91–547, §24(c), (d), added subsec. (d), redesignated former subsec. (d) as (e), and in amending its provisions, inserted reference to “censure” in two places and substituted “such investment adviser or any person associated with such investment adviser” for “(1) such investment adviser, whether prior or subsequent to becoming such, or (2) any partner, officer, or director thereof, or any person performing similar functions, or (3) any person directly or indirectly controlling or controlled by such investment adviser, whether prior or subsequent to becoming such,” in introductory text preceding par. (1), formerly cl. (A), redesignated as pars. (1) to (5) former cls. (A) to (E), redesignated as items (A) to (D) of par. (2) former items (i) to (iv), striking out “, as heretofore or hereafter amended” after “Title 18”, substituted in par. (3) “an affiliated person” for “as an affiliated person”, in par. (4) included reference to subchapter I of this chapter and struck out “as any of such statutes heretofore have been or hereafter may be amended” after “this subchapter”, in par. (5) included reference to subchapter I of this chapter, struck out “as any of such statutes heretofore have been or hereafter may be amended” after “this subchapter”, inserted provision respecting disciplining an investment adviser for failure reasonably to supervise, with a view to preventing violations of statutes, rules, and regulations, another person who commits such a violation if such other person is subject to his supervision, including subpars. (A) and (B) respecting failure to supervise a person, and inserted par. (6). Former subsec. (e) redesignated (g).
+Subsecs. (d), (e). Pub. L. 91–547, §24(c), (d), added subsec. (d), redesignated former subsec. (d) as (e), and in amending its provisions, inserted reference to "censure" in two places and substituted "such investment adviser or any person associated with such investment adviser" for "(1) such investment adviser, whether prior or subsequent to becoming such, or (2) any partner, officer, or director thereof, or any person performing similar functions, or (3) any person directly or indirectly controlling or controlled by such investment adviser, whether prior or subsequent to becoming such," in introductory text preceding par. (1), formerly cl. (A), redesignated as pars. (1) to (5) former cls. (A) to (E), redesignated as items (A) to (D) of par. (2) former items (i) to (iv), striking out ", as heretofore or hereafter amended" after "Title 18", substituted in par. (3) "an affiliated person" for "as an affiliated person", in par. (4) included reference to subchapter I of this chapter and struck out "as any of such statutes heretofore have been or hereafter may be amended" after "this subchapter", in par. (5) included reference to subchapter I of this chapter, struck out "as any of such statutes heretofore have been or hereafter may be amended" after "this subchapter", inserted provision respecting disciplining an investment adviser for failure reasonably to supervise, with a view to preventing violations of statutes, rules, and regulations, another person who commits such a violation if such other person is subject to his supervision, including subpars. (A) and (B) respecting failure to supervise a person, and inserted par. (6). Former subsec. (e) redesignated (g).
 
 Subsec. (f). Pub. L. 91–547, §24(e), inserted subsec. (f). Former subsec. (f) redesignated (h).
 
@@ -392,15 +392,15 @@ Subsec. (g). Pub. L. 91–547, §24(c), redesignated former subsec. (e) as (g). 
 
 Subsecs. (h), (i). Pub. L. 91–547, §24(e), redesignated former subsecs. (f) and (g) as (h) and (i), respectively.
 
-**1960**—Subsec. (c)(1)(F). Pub. L. 86–750, §2, substituted “or any person performing similar functions, or any person directly or indirectly controlling or controlled by such investment adviser, is subject to any disqualification which would be a basis for denial, suspension, or revocation of registration of such investment adviser under the provisions of subsection (d)” for “person performing similar function or controlling person thereof (i) within ten years of the filing of such application has been convicted of any felony or misdemeanor of the character described in paragraph (1) of subsection (d) of this section, or (ii) is permanently or temporarily enjoined by an order, judgment or decree of the character described in paragraph (2) of said subsection (d) and in each case the facts relating to such conviction or injunction”.
+**1960**—Subsec. (c)(1)(F). Pub. L. 86–750, §2, substituted "or any person performing similar functions, or any person directly or indirectly controlling or controlled by such investment adviser, is subject to any disqualification which would be a basis for denial, suspension, or revocation of registration of such investment adviser under the provisions of subsection (d)" for "person performing similar function or controlling person thereof (i) within ten years of the filing of such application has been convicted of any felony or misdemeanor of the character described in paragraph (1) of subsection (d) of this section, or (ii) is permanently or temporarily enjoined by an order, judgment or decree of the character described in paragraph (2) of said subsection (d) and in each case the facts relating to such conviction or injunction".
 
-Subsec. (c)(2). Pub. L. 86–750, §3(a), substituted “a statement as to whether the principal business of such investment adviser consists or is to consist of acting as investment adviser and a statement as to whether a substantial part of the business of such investment adviser consists or is to consist of rendering investment supervisory services” for “a statement as to whether such investment adviser is engaged or is to engage primarily in the business of rendering investment supervisory services”.
+Subsec. (c)(2). Pub. L. 86–750, §3(a), substituted "a statement as to whether the principal business of such investment adviser consists or is to consist of acting as investment adviser and a statement as to whether a substantial part of the business of such investment adviser consists or is to consist of rendering investment supervisory services" for "a statement as to whether such investment adviser is engaged or is to engage primarily in the business of rendering investment supervisory services".
 
 Subsec. (d). Pub. L. 86–750, §3(b), among other changes, limited the period of suspension to twelve months, included people controlled by the adviser, provided that the ten year period within which convictions are counted be measured from the filing of the application or after specified felonies or misdemeanors, increased the number of offenses by including willful, false or misleading statements as to any material fact, or omissions thereof, in any application for registration or report filed with the Commission, embezzlement, fraudulent conversion, and misappropriation of funds or securities, violations of sections 1341, 1342 or 1343 of title 18, willful violations of, or aiding, abetting, counseling, commanding, inducing or procuring the violation of the Securities Act of 1933, or of the Securities Exchange Act of 1934, or of this title, and any amendment or rule or regulation thereunder.
 
 Subsec. (e). Pub. L. 86–750, §4, substituted provisions postponing the effective date of registration for ninety days at commencement of a proceeding to deny registration, or until final determination whether such registration should be denied, whichever was first, and authorizing the Commission after notice and opportunity for hearing, to postpone said effective date beyond the ninety-day period or final determination, provided that upon request of any interested party, made more than ninety days after such postponement, the Commission shall consider the postponement's continuation, for provisions prohibiting postponement of the effective date of registration upon a proceeding to deny registration, unless the Commission found it in the public interest to do so, and which limited said postponement to three months.
 
-Subsec. (g). Pub. L. 86–750, §5, substituted “existence” for “business”.
+Subsec. (g). Pub. L. 86–750, §5, substituted "existence" for "business".
 
 #### Effective Date of 2010 Amendment ####
 
@@ -436,12 +436,12 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, except that amendment by 
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
-[<sup>1</sup> So in original. The period probably should be “; or”.](#80b-3_1)
+[<sup>1</sup> So in original. The period probably should be "; or".](#80b-3_1)
 
-[<sup>2</sup> So in original. Probably should be “of a”.](#80b-3_2)
+[<sup>2</sup> So in original. Probably should be "of a".](#80b-3_2)
 
-[<sup>3</sup> So in original. Probably should be “financial”.](#80b-3_3)
+[<sup>3</sup> So in original. Probably should be "financial".](#80b-3_3)
 
 [<sup>4</sup> So in original. The semicolon probably should be a period.](#80b-3_4)
 
-[<sup>5</sup> So in original. The word “of” probably should not appear.](#80b-3_5)
+[<sup>5</sup> So in original. The word "of" probably should not appear.](#80b-3_5)

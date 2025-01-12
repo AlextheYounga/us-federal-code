@@ -4,7 +4,7 @@
 
 With respect to a drug for which there is in effect an approved application under section 355 or 360b of this title or a license under section 262 of title 42, a change from the manufacturing process approved pursuant to such application or license may be made, and the drug as made with the change may be distributed, if—
 
-(1) the holder of the approved application or license (referred to in this section as a “holder”) has validated the effects of the change in accordance with subsection (b) of this section; and
+(1) the holder of the approved application or license (referred to in this section as a "holder") has validated the effects of the change in accordance with subsection (b) of this section; and
 
 (2)(A) in the case of a major manufacturing change, the holder has complied with the requirements of subsection (c) of this section; or
 
@@ -72,4 +72,4 @@ In the case of a manufacturing change to which paragraph (1)(B) applies:
 
 #### Effective Date ####
 
-Pub. L. 105–115, title I, §116(b), Nov. 21, 1997, 111 Stat. 2315, provided that: “The amendment made by subsection (a) [enacting this section] takes effect upon the effective date of regulations promulgated by the Secretary of Health and Human Services to implement such amendment, or upon the expiration of the 24-month period beginning on the date of the enactment of this Act [Nov. 21, 1997], whichever occurs first.”
+Pub. L. 105–115, title I, §116(b), Nov. 21, 1997, 111 Stat. 2315, provided that: "The amendment made by subsection (a) [enacting this section] takes effect upon the effective date of regulations promulgated by the Secretary of Health and Human Services to implement such amendment, or upon the expiration of the 24-month period beginning on the date of the enactment of this Act [Nov. 21, 1997], whichever occurs first."

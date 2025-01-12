@@ -6,4 +6,4 @@ Section 66, act Sept. 3, 5, 1916, ch. 436, §4, 39 Stat. 722, provided penalty f
 
 #### Short Title ####
 
-Act Sept. 3, 5, 1916, ch. 436, 39 Stat. 721, which enacted sections 65 and 66 of this title, was popularly known as the “Adamson Law”.
+Act Sept. 3, 5, 1916, ch. 436, 39 Stat. 721, which enacted sections 65 and 66 of this title, was popularly known as the "Adamson Law".

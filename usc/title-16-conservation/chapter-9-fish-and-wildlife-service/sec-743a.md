@@ -1,8 +1,8 @@
 ### §743a. Detail of personnel and loan of equipment to Director of Bureau of Sport Fisheries and Wildlife ###
 
-#### (a) “Agency” defined ####
+#### (a) "Agency" defined ####
 
-As used in this section, the term “agency” means the department in which the Coast Guard is operating, the Department of the Army, the Department of the Navy, the Department of the Air Force, the Atomic Energy Commission, and the National Aeronautics and Space Administration.
+As used in this section, the term "agency" means the department in which the Coast Guard is operating, the Department of the Army, the Department of the Navy, the Department of the Air Force, the Atomic Energy Commission, and the National Aeronautics and Space Administration.
 
 #### (b) Personnel and equipment available ####
 
@@ -24,9 +24,9 @@ The Bureau of Sport Fisheries and Wildlife, referred to in subsec. (b), was repl
 
 #### Amendments ####
 
-**1994**—Subsec. (c). Pub. L. 103–437 substituted “Committee on Commerce, Science, and Transportation” for “Committee on Commerce”.
+**1994**—Subsec. (c). Pub. L. 103–437 substituted "Committee on Commerce, Science, and Transportation" for "Committee on Commerce".
 
-**1980**—Subsec. (c). Pub. L. 96–470 substituted provision requiring that a report to Congress be made at the end of any fiscal year that provisions of this section are utilized for provision requiring an annual report to Congress be made on utilization of the provisions of this section and struck out “annual” before “report shall be”.
+**1980**—Subsec. (c). Pub. L. 96–470 substituted provision requiring that a report to Congress be made at the end of any fiscal year that provisions of this section are utilized for provision requiring an annual report to Congress be made on utilization of the provisions of this section and struck out "annual" before "report shall be".
 
 #### Transfer of Functions ####
 

@@ -10,9 +10,9 @@ Any State desiring to avail itself of the benefits of this chapter shall, by its
 
 The Secretary of the Interior shall approve only such comprehensive plans or projects as may be substantial in character and design and the expenditure of funds hereby authorized shall be applied only to such approved comprehensive fishery plan or projects and if otherwise applied they shall be replaced by the State before it may participate in any further apportionment under this chapter. No payment of any money apportioned under this chapter shall be made on any comprehensive fishery plan or project until an agreement to participate therein shall have been submitted to and approved by the Secretary of the Interior.
 
-#### (b) “Project” defined ####
+#### (b) "Project" defined ####
 
-If the State elects to avail itself of the benefits of this chapter by preparing a comprehensive fish and wildlife plan under option (1) of subsection (a) of this section, then the term “project” may be defined for the purpose of this chapter as a fishery program, all other definitions notwithstanding.
+If the State elects to avail itself of the benefits of this chapter by preparing a comprehensive fish and wildlife plan under option (1) of subsection (a) of this section, then the term "project" may be defined for the purpose of this chapter as a fishery program, all other definitions notwithstanding.
 
 #### (c) Costs ####
 
@@ -40,4 +40,4 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respec
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 777 of this title.
 
-[<sup>1</sup> So in original. Probably should be “from”.](#777e_1)
+[<sup>1</sup> So in original. Probably should be "from".](#777e_1)

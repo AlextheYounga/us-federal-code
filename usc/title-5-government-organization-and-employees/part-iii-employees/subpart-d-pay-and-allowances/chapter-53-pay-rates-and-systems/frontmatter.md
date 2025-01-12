@@ -156,27 +156,27 @@ Sec.
 
 **1992**—Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359, repealed Pub. L. 100–510, §1206(i)(2). See 1990 Amendment note below.
 
-Pub. L. 102–378, §2(24), Oct. 2, 1992, 106 Stat. 1348, substituted “repayments” for “repayment” in item 5379 and struck out “Sec.” before item 5391.
+Pub. L. 102–378, §2(24), Oct. 2, 1992, 106 Stat. 1348, substituted "repayments" for "repayment" in item 5379 and struck out "Sec." before item 5391.
 
-**1990**—Pub. L. 101–510, div. A, title XII, §1206(i)(2), Nov. 5, 1990, 104 Stat. 1663, which added item 5380 “Pay authority for critical positions”, was repealed by Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359, which provided that this title shall read as if such section 1206(i)(2) had not been enacted.
+**1990**—Pub. L. 101–510, div. A, title XII, §1206(i)(2), Nov. 5, 1990, 104 Stat. 1663, which added item 5380 "Pay authority for critical positions", was repealed by Pub. L. 102–378, §8(a), Oct. 2, 1992, 106 Stat. 1359, which provided that this title shall read as if such section 1206(i)(2) had not been enacted.
 
 Pub. L. 101–510, div. A, title XII, §1206(b)(2), Nov. 5, 1990, 104 Stat. 1661, added item 5379.
 
-Pub. L. 101–509, title V, §529 [title I, §§101(a)(2), 102(a)(2), 103(b), 104(b), 105(a)(2), 109(a)(1)(B), title II, §§205(b), 211(b)(2)], Nov. 5, 1990, 104 Stat. 1427, 1439, 1443, 1445, 1446, 1448, 1451, 1457, 1461, struck out items 5301 “Policy”, 5303 “Higher minimum rates; Presidential authority”, 5304 “Presidential policies and regulations”, 5305 “Annual pay reports and adjustments”, 5306 “Advisory Committee on Federal Pay”, 5307 “Pay fixed by administrative action”, and 5308 “Pay limitation”, and added items 5301 to 5307, struck out “; higher rates for supervisors of prevailing rate employees” after “appointments” in item 5333, substituted “Health care positions” for “Scientific and professional positions” in item 5371, and added items 5372a, 5376 to 5378, item for subchapter IX, and items 5391 and 5392.
+Pub. L. 101–509, title V, §529 [title I, §§101(a)(2), 102(a)(2), 103(b), 104(b), 105(a)(2), 109(a)(1)(B), title II, §§205(b), 211(b)(2)], Nov. 5, 1990, 104 Stat. 1427, 1439, 1443, 1445, 1446, 1448, 1451, 1457, 1461, struck out items 5301 "Policy", 5303 "Higher minimum rates; Presidential authority", 5304 "Presidential policies and regulations", 5305 "Annual pay reports and adjustments", 5306 "Advisory Committee on Federal Pay", 5307 "Pay fixed by administrative action", and 5308 "Pay limitation", and added items 5301 to 5307, struck out "; higher rates for supervisors of prevailing rate employees" after "appointments" in item 5333, substituted "Health care positions" for "Scientific and professional positions" in item 5371, and added items 5372a, 5376 to 5378, item for subchapter IX, and items 5391 and 5392.
 
-Pub. L. 101–263, §1(b), Apr. 4, 1990, 104 Stat. 125, inserted “the” before “National” in item 5375.
+Pub. L. 101–263, §1(b), Apr. 4, 1990, 104 Stat. 125, inserted "the" before "National" in item 5375.
 
-**1979**—Pub. L. 96–54, §2(a)(26)(B), Aug. 14, 1979, 93 Stat. 382, substituted “prevailing rate” for “wage-board” in item 5333.
+**1979**—Pub. L. 96–54, §2(a)(26)(B), Aug. 14, 1979, 93 Stat. 382, substituted "prevailing rate" for "wage-board" in item 5333.
 
-**1978**—Pub. L. 95–454, title IV, §407(b), title VIII, §801(a)(3)(B)(i), (ii), Oct. 13, 1978, 92 Stat. 1172, 1221, struck out items 5337 “Pay saving” and 5345 “Retained rate of pay on reduction in grade or reassignment”, added item for subchapter VI and items 5361 to 5366, redesignated former item for subchapter VI and items 5361 to 5365 as subchapter VII and items 5371 to 5375, respectively, and added item for subchapter VIII and items 5381 to 5385.
+**1978**—Pub. L. 95–454, title IV, §407(b), title VIII, §801(a)(3)(B)(i), (ii), Oct. 13, 1978, 92 Stat. 1172, 1221, struck out items 5337 "Pay saving" and 5345 "Retained rate of pay on reduction in grade or reassignment", added item for subchapter VI and items 5361 to 5366, redesignated former item for subchapter VI and items 5361 to 5365 as subchapter VII and items 5371 to 5375, respectively, and added item for subchapter VIII and items 5381 to 5385.
 
-Pub. L. 95–251, §2(c)(4), Mar. 27, 1978, 92 Stat. 184, substituted “Administrative law judges” for “Hearing examiners” in item 5362.
+Pub. L. 95–251, §2(c)(4), Mar. 27, 1978, 92 Stat. 184, substituted "Administrative law judges" for "Hearing examiners" in item 5362.
 
 **1975**—Pub. L. 94–82, title II, §202(b)(6), Aug. 9, 1975, 89 Stat. 420, added item 5318.
 
-**1972**—Pub. L. 92–392, §1(b), Aug. 19, 1972, 86 Stat. 572, substituted items 5341, 5343, 5344, and 5345 relating to “Policy”, “Prevailing rate determinations; wage schedules; night differentials”, “Effective date of wage increase; retroactive pay” and “Retained rate of pay on reduction in grade or reassignment”, for such former items relating to “Trades and crafts”, “Effective date of pay increase”, “Retroactive pay” and “Position classification appeals”, added items 5342, 5346, 5347, and 5349, and renumbered former item 5342 as 5348.
+**1972**—Pub. L. 92–392, §1(b), Aug. 19, 1972, 86 Stat. 572, substituted items 5341, 5343, 5344, and 5345 relating to "Policy", "Prevailing rate determinations; wage schedules; night differentials", "Effective date of wage increase; retroactive pay" and "Retained rate of pay on reduction in grade or reassignment", for such former items relating to "Trades and crafts", "Effective date of pay increase", "Retroactive pay" and "Position classification appeals", added items 5342, 5346, 5347, and 5349, and renumbered former item 5342 as 5348.
 
-**1971**—Pub. L. 91–656, §§2(b)(2), 3(b), Jan. 8, 1971, 84 Stat. 1946, 1951, struck out item 5302 “Annual reports on pay comparability” and added items 5305–5308.
+**1971**—Pub. L. 91–656, §§2(b)(2), 3(b), Jan. 8, 1971, 84 Stat. 1946, 1951, struck out item 5302 "Annual reports on pay comparability" and added items 5305–5308.
 
 **1969**—Pub. L. 91–34, §1(b), June 30, 1969, 83 Stat. 41, added item 5365.
 

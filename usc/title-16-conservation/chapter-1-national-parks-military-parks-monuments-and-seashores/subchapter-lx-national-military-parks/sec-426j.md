@@ -6,4 +6,4 @@ The sum of $100,000, or so much thereof as may be necessary, is authorized to be
 
 #### Change of Name ####
 
-“Battlefield” substituted in text for “park” in view of redesignation of Stones River National Military Park as Stones River National Battlefield by Pub. L. 86–443. See section 426l of this title.
+"Battlefield" substituted in text for "park" in view of redesignation of Stones River National Military Park as Stones River National Battlefield by Pub. L. 86–443. See section 426l of this title.

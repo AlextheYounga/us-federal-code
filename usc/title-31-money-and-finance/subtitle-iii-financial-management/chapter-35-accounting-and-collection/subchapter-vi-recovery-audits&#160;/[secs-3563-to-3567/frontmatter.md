@@ -8,4 +8,4 @@ Section 3565, added Pub. L. 107–107, div. A, title VIII, §831(a)(1), Dec. 28,
 
 Section 3566, added Pub. L. 107–107, div. A, title VIII, §831(a)(1), Dec. 28, 2001, 115 Stat. 1188, related to privacy protections.
 
-Section 3567, added Pub. L. 107–107, div. A, title VIII, §831(a)(1), Dec. 28, 2001, 115 Stat. 1188; amended Pub. L. 111–350, §5(h)(5), Jan. 4, 2011, 124 Stat. 3849, defined “executive agency”.
+Section 3567, added Pub. L. 107–107, div. A, title VIII, §831(a)(1), Dec. 28, 2001, 115 Stat. 1188; amended Pub. L. 111–350, §5(h)(5), Jan. 4, 2011, 124 Stat. 3849, defined "executive agency".

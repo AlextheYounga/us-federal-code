@@ -1,6 +1,6 @@
 ### §§1361 to 1364. Repealed. Pub. L. 94–579, title VII, §705(a), Oct. 21, 1976, 90 Stat. 2792 ###
 
-Section 1361, Pub. L. 86–649, §2, July 14, 1960, 74 Stat. 506, defined “public lands”.
+Section 1361, Pub. L. 86–649, §2, July 14, 1960, 74 Stat. 506, defined "public lands".
 
 Section 1362, Pub. L. 86–649, title I, §101, July 14, 1960, 74 Stat. 506, authorized the Secretary of the Interior to conduct investigations, etc., for improvement, management, use, and protection of public lands and resources.
 

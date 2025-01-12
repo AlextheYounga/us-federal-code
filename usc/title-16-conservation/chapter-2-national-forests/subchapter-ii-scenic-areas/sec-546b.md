@@ -4,9 +4,9 @@
 
 There are designated as National Scenic Areas—
 
-(1) certain National Forest System land in the Jefferson National Forest, comprising approximately 5,192 acres, as generally depicted on the map entitled “Seng Mountain and Raccoon Branch” and dated April 28, 2008, which shall be known as the “Seng Mountain National Scenic Area”; and
+(1) certain National Forest System land in the Jefferson National Forest, comprising approximately 5,192 acres, as generally depicted on the map entitled "Seng Mountain and Raccoon Branch" and dated April 28, 2008, which shall be known as the "Seng Mountain National Scenic Area"; and
 
-(2) certain National Forest System land in the Jefferson National Forest, comprising approximately 5,128 acres, as generally depicted on the map entitled “Bear Creek” and dated April 28, 2008, which shall be known as the “Bear Creek National Scenic Area”.
+(2) certain National Forest System land in the Jefferson National Forest, comprising approximately 5,128 acres, as generally depicted on the map entitled "Bear Creek" and dated April 28, 2008, which shall be known as the "Bear Creek National Scenic Area".
 
 #### (b) Purposes ####
 
@@ -108,7 +108,7 @@ The Secretary may authorize the use of motorized vehicles—
 
 (i) on Forest Development Roads 49410 and 84b; and
 
-(ii) on the portion of Forest Development Road 6261 designated on the map described in subsection (a)(2) as “open seasonally”.
+(ii) on the portion of Forest Development Road 6261 designated on the map described in subsection (a)(2) as "open seasonally".
 
 #### (j) Wildfire suppression ####
 
@@ -138,8 +138,8 @@ This subtitle, referred to in subsec. (c)(1)(A), is subtitle B (§§1101–1107)
 
 #### Definitions ####
 
-Pub. L. 111–11, title I, §1101, Mar. 30, 2009, 123 Stat. 1002, provided that: “In this subtitle [subtitle B (§§1101–1107) of title I of Pub. L. 111–11, enacting this section and section 546b–1 of this title and enacting and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title]:
+Pub. L. 111–11, title I, §1101, Mar. 30, 2009, 123 Stat. 1002, provided that: "In this subtitle [subtitle B (§§1101–1107) of title I of Pub. L. 111–11, enacting this section and section 546b–1 of this title and enacting and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title]:
 
-“(1) Scenic areas.—The term ‘scenic areas’ means the Seng Mountain National Scenic Area and the Bear Creek National Scenic Area.
+"(1) Scenic areas.—The term 'scenic areas' means the Seng Mountain National Scenic Area and the Bear Creek National Scenic Area.
 
-“(2) Secretary.—The term ‘Secretary’ means the Secretary of Agriculture.”
+"(2) Secretary.—The term 'Secretary' means the Secretary of Agriculture."

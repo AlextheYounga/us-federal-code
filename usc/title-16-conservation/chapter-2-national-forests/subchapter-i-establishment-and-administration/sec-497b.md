@@ -6,7 +6,7 @@ The provisions of the Act of March 4, 1915 (16 U.S.C. 497) notwithstanding, the 
 
 #### (b) Authority ####
 
-The Secretary of Agriculture (hereinafter referred to as “the Secretary”) is authorized to issue permits (hereinafter referred to as “ski area permits”) for the use and occupancy of suitable lands within the National Forest System for skiing and other snow sports and recreational uses authorized by this section. A ski area permit—
+The Secretary of Agriculture (hereinafter referred to as "the Secretary") is authorized to issue permits (hereinafter referred to as "ski area permits") for the use and occupancy of suitable lands within the National Forest System for skiing and other snow sports and recreational uses authorized by this section. A ski area permit—
 
 (1) may be issued for a term not to exceed 40 years;
 
@@ -102,7 +102,7 @@ Nothing in this section shall be deemed to amend, modify or otherwise affect the
 
 Act of March 4, 1915 (16 U.S.C. 497), referred to in subsec. (a), is act Mar. 4, 1915, ch. 144, 38 Stat. 1086. For complete classification of this Act to the Code, see Tables.
 
-This section, referred to in subsecs. (a), (b), and (e), was in the original “this Act”, meaning Pub. L. 99–522, Oct. 22, 1986, 100 Stat. 3000, known as the National Forest Ski Area Permit Act of 1986, which enacted this section and notes set out under this section. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This section, referred to in subsecs. (a), (b), and (e), was in the original "this Act", meaning Pub. L. 99–522, Oct. 22, 1986, 100 Stat. 3000, known as the National Forest Ski Area Permit Act of 1986, which enacted this section and notes set out under this section. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
@@ -110,44 +110,44 @@ The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to i
 
 #### Amendments ####
 
-**2011**—Subsec. (a). Pub. L. 112–46, §3(1), substituted “ski areas and associated facilities” for “nordic and alpine ski areas and facilities”.
+**2011**—Subsec. (a). Pub. L. 112–46, §3(1), substituted "ski areas and associated facilities" for "nordic and alpine ski areas and facilities".
 
-Subsec. (b). Pub. L. 112–46, §3(2), substituted “skiing and other snow sports and recreational uses authorized by this section” for “nordic and alpine skiing operations and purposes” in introductory provisions.
+Subsec. (b). Pub. L. 112–46, §3(2), substituted "skiing and other snow sports and recreational uses authorized by this section" for "nordic and alpine skiing operations and purposes" in introductory provisions.
 
 Subsec. (c). Pub. L. 112–46, §3(4), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 112–46, §3(5), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Within one year after October 22, 1986, the Secretary shall promulgate rules and regulations to implement the provisions of this section, and shall, to the extent practicable and with the consent of existing permit holders, convert all existing ski area permits or leases on National Forest System lands into ski area permits which conform to the provisions of this section within 3 years of October 22, 1986.”
+Subsec. (d). Pub. L. 112–46, §3(5), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "Within one year after October 22, 1986, the Secretary shall promulgate rules and regulations to implement the provisions of this section, and shall, to the extent practicable and with the consent of existing permit holders, convert all existing ski area permits or leases on National Forest System lands into ski area permits which conform to the provisions of this section within 3 years of October 22, 1986."
 
 Pub. L. 112–46, §3(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 112–46, §3(6), substituted “the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.)” for “the National Environmental Policy Act, or the Forest and Rangelands Renewable Resources Planning Act as amended by the National Forest Management Act”.
+Subsec. (e). Pub. L. 112–46, §3(6), substituted "the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.)" for "the National Environmental Policy Act, or the Forest and Rangelands Renewable Resources Planning Act as amended by the National Forest Management Act".
 
 Pub. L. 112–46, §3(3), redesignated subsec. (d) as (e).
 
 #### Short Title of 2011 Amendment ####
 
-Pub. L. 112–46, §1, Nov. 7, 2011, 125 Stat. 538, provided that: “This Act [amending this section and enacting provisions set out as notes under this section] may be cited as the ‘Ski Area Recreational Opportunity Enhancement Act of 2011’.”
+Pub. L. 112–46, §1, Nov. 7, 2011, 125 Stat. 538, provided that: "This Act [amending this section and enacting provisions set out as notes under this section] may be cited as the 'Ski Area Recreational Opportunity Enhancement Act of 2011'."
 
 #### Short Title ####
 
-Pub. L. 99–522, §1, Oct. 22, 1986, 100 Stat. 3000, provided that: “This Act [enacting this section and provisions set out as a note below] may be cited as the ‘National Forest Ski Area Permit Act of 1986’.”
+Pub. L. 99–522, §1, Oct. 22, 1986, 100 Stat. 3000, provided that: "This Act [enacting this section and provisions set out as a note below] may be cited as the 'National Forest Ski Area Permit Act of 1986'."
 
 #### Effect ####
 
-Pub. L. 112–46, §4, Nov. 7, 2011, 125 Stat. 540, provided that: “Nothing in the amendments made by this Act [amending this section] establishes a legal preference for the holder of a ski area permit to provide activities and associated facilities authorized by section 3(c) of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b(c)) (as amended by section 3).”
+Pub. L. 112–46, §4, Nov. 7, 2011, 125 Stat. 540, provided that: "Nothing in the amendments made by this Act [amending this section] establishes a legal preference for the holder of a ski area permit to provide activities and associated facilities authorized by section 3(c) of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b(c)) (as amended by section 3)."
 
 #### Purposes ####
 
-Pub. L. 112–46, §2, Nov. 7, 2011, 125 Stat. 538, provided that: “The purpose of this Act [see Short Title of 2011 Amendment note above] is to amend the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b)—
+Pub. L. 112–46, §2, Nov. 7, 2011, 125 Stat. 538, provided that: "The purpose of this Act [see Short Title of 2011 Amendment note above] is to amend the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b)—
 
-“(1) to enable snow-sports (other than nordic and alpine skiing) to be permitted on National Forest System land subject to ski area permits issued by the Secretary of Agriculture under section 3 of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b); and
+"(1) to enable snow-sports (other than nordic and alpine skiing) to be permitted on National Forest System land subject to ski area permits issued by the Secretary of Agriculture under section 3 of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b); and
 
-“(2) to clarify the authority of the Secretary of Agriculture to permit appropriate additional seasonal or year-round recreational activities and facilities on National Forest System land subject to ski area permits issued by the Secretary of Agriculture under section 3 of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b).”
+"(2) to clarify the authority of the Secretary of Agriculture to permit appropriate additional seasonal or year-round recreational activities and facilities on National Forest System land subject to ski area permits issued by the Secretary of Agriculture under section 3 of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b)."
 
-Pub. L. 99–522, §2, Oct. 22, 1986, 100 Stat. 3000, provided that: “The purposes of this Act [see Short Title note above] are to—
+Pub. L. 99–522, §2, Oct. 22, 1986, 100 Stat. 3000, provided that: "The purposes of this Act [see Short Title note above] are to—
 
-“(a) provide a unified and modern permitting process for nordic and alpine ski areas on national forest lands;
+"(a) provide a unified and modern permitting process for nordic and alpine ski areas on national forest lands;
 
-“(b) provide for ski area permits which more closely reflect the acreage and other physical requirements of modern ski area development; and
+"(b) provide for ski area permits which more closely reflect the acreage and other physical requirements of modern ski area development; and
 
-“(c) provide a permit system which will be more commensurate with the long-term construction, financing, and operation needs of ski areas on national forest lands.”
+"(c) provide a permit system which will be more commensurate with the long-term construction, financing, and operation needs of ski areas on national forest lands."

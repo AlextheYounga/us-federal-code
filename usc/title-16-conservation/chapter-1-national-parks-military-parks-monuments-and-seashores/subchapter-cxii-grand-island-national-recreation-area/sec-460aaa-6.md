@@ -28,4 +28,4 @@ In preparing the comprehensive management plan, the Secretary shall consult with
 
 (Pub. L. 101–292, §7, May 17, 1990, 104 Stat. 188.)
 
-[<sup>1</sup> So in original. Probably should be “subsection.”](#460aaa-6_1)
+[<sup>1</sup> So in original. Probably should be "subsection."](#460aaa-6_1)

@@ -61,8 +61,8 @@ IV. MISCELLANEOUS 8101
 |                                              24a                                               |                                Rep.                                 |
 |                                            25 to 27                                            |                        (Previously repealed)                        |
 |                                            28 to 34                                            |                                Rep.                                 |
-|35 (matter before subsec. (a) less words related to definition of “agency of the United States”)|                                6502                                 |
-|     35 (matter before subsec. (a) related to definition of “agency of the United States”)      |                                6501                                 |
+|35 (matter before subsec. (a) less words related to definition of "agency of the United States")|                                6502                                 |
+|     35 (matter before subsec. (a) related to definition of "agency of the United States")      |                                6501                                 |
 |                                          35(a) to (d)                                          |                                6502                                 |
 |                                               36                                               |                                6503                                 |
 |                                               37                                               |                                6504                                 |
@@ -196,10 +196,10 @@ IV. MISCELLANEOUS 8101
 |                                              263                                               |                                3103                                 |
 |                                              264                                               |                                3307                                 |
 |                               264 note (Pub. L. 103–355, §8002)                                |                                3307                                 |
-|                                    264a (“commercial item”)                                    |                                 103                                 |
-|                                 264a (“nondevelopmental item”)                                 |                                 110                                 |
-|                                       264a (“component”)                                       |                                 105                                 |
-|                                 264a (“commercial component”)                                  |                                 102                                 |
+|                                    264a ("commercial item")                                    |                                 103                                 |
+|                                 264a ("nondevelopmental item")                                 |                                 110                                 |
+|                                       264a ("component")                                       |                                 105                                 |
+|                                 264a ("commercial component")                                  |                                 102                                 |
 |                                              264b                                              |                                3307                                 |
 |                                              265                                               |                                4705                                 |
 |                                              266                                               |                                3105                                 |
@@ -228,8 +228,8 @@ IV. MISCELLANEOUS 8101
 |                                             403(7)                                             |                                 113                                 |
 |                                             403(8)                                             |                                 116                                 |
 |                                             403(9)                                             |                                 109                                 |
-|                               403(10) (“item”, “item of supply”)                               |                                 108                                 |
-|                                      403(10) (“supplies”)                                      |                                 115                                 |
+|                               403(10) ("item", "item of supply")                               |                                 108                                 |
+|                                      403(10) ("supplies")                                      |                                 115                                 |
 |                                            403(11)                                             |                                 134                                 |
 |                                            403(12)                                             |                                 103                                 |
 |                                            403(13)                                             |                                 110                                 |
@@ -338,32 +338,32 @@ IV. MISCELLANEOUS 8101
 
 #### Enactment of Title 41, United States Code ####
 
-Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3677, provided that: “Certain general and permanent laws of the United States, related to public contracts, are revised, codified, and enacted as title 41, United States Code, ‘Public Contracts’, as follows:”
+Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3677, provided that: "Certain general and permanent laws of the United States, related to public contracts, are revised, codified, and enacted as title 41, United States Code, 'Public Contracts', as follows:"
 
 #### Purpose; Conformity With Original Intent ####
 
 Pub. L. 111–350, §2, Jan. 4, 2011, 124 Stat. 3677, provided that:
 
-“(a) Purpose.—The purpose of this Act [see Tables for classification] is to enact certain laws relating to public contracts as title 41, United States Code, ‘Public Contracts’.
+"(a) Purpose.—The purpose of this Act [see Tables for classification] is to enact certain laws relating to public contracts as title 41, United States Code, 'Public Contracts'.
 
-“(b) Conformity With Original Intent.—In the codification of laws by this Act, the intent is to conform to the understood policy, intent, and purpose of Congress in the original enactments, with such amendments and corrections as will remove ambiguities, contradictions, and other imperfections, in accordance with section 205(c)(1) of House Resolution No. 988, 93d Congress, as enacted into law by Public Law 93–554 (2 U.S.C. 285b(1)).”
+"(b) Conformity With Original Intent.—In the codification of laws by this Act, the intent is to conform to the understood policy, intent, and purpose of Congress in the original enactments, with such amendments and corrections as will remove ambiguities, contradictions, and other imperfections, in accordance with section 205(c)(1) of House Resolution No. 988, 93d Congress, as enacted into law by Public Law 93–554 (2 U.S.C. 285b(1))."
 
 #### Transitional and Savings Provisions ####
 
 Pub. L. 111–350, §6(a)–(e), Jan. 4, 2011, 124 Stat. 3854, provided that:
 
-“(a) Cutoff Date.—This Act [see Tables for classification] replaces certain provisions of law enacted on or before December 31, 2008. If a law enacted after that date amends or repeals a provision replaced by this Act, that law is deemed to amend or repeal, as the case may be, the corresponding provision enacted by this Act. If a law enacted after that date is otherwise inconsistent with this Act, it supersedes this Act to the extent of the inconsistency.
+"(a) Cutoff Date.—This Act [see Tables for classification] replaces certain provisions of law enacted on or before December 31, 2008. If a law enacted after that date amends or repeals a provision replaced by this Act, that law is deemed to amend or repeal, as the case may be, the corresponding provision enacted by this Act. If a law enacted after that date is otherwise inconsistent with this Act, it supersedes this Act to the extent of the inconsistency.
 
-“(b) Original Date of Enactment Unchanged.—For purposes of determining whether one provision of law supersedes another based on enactment later in time, the date of enactment of a provision enacted by this Act is deemed to be the date of enactment of the provision it replaced.
+"(b) Original Date of Enactment Unchanged.—For purposes of determining whether one provision of law supersedes another based on enactment later in time, the date of enactment of a provision enacted by this Act is deemed to be the date of enactment of the provision it replaced.
 
-“(c) References to Provisions Replaced.—A reference to a provision of law replaced by this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.
+"(c) References to Provisions Replaced.—A reference to a provision of law replaced by this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.
 
-“(d) Regulations, Orders, and Other Administrative Actions.—A regulation, order, or other administrative action in effect under a provision of law replaced by this Act continues in effect under the corresponding provision enacted by this Act.
+"(d) Regulations, Orders, and Other Administrative Actions.—A regulation, order, or other administrative action in effect under a provision of law replaced by this Act continues in effect under the corresponding provision enacted by this Act.
 
-“(e) Actions Taken and Offenses Committed.—An action taken or an offense committed under a provision of law replaced by this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.”
+"(e) Actions Taken and Offenses Committed.—An action taken or an offense committed under a provision of law replaced by this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act."
 
 #### Repeals ####
 
 Pub. L. 111–350, §7(b), Jan. 4, 2011, 124 Stat. 3855, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Jan. 4, 2011.
 
-Pub. L. 111–350, §7(a), Jan. 4, 2011, 124 Stat. 3855, provided that: “The repeal of a law by this Act [see Tables for classification] may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 111–350, §7(a), Jan. 4, 2011, 124 Stat. 3855, provided that: "The repeal of a law by this Act [see Tables for classification] may not be construed as a legislative inference that the provision was or was not in effect before its repeal."

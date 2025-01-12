@@ -100,7 +100,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (g) Definition ####
 
-In this section, the term “young women” means women 15 to 44 years of age.
+In this section, the term "young women" means women 15 to 44 years of age.
 
 #### (h) Authorization of appropriations ####
 

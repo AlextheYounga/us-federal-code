@@ -10,7 +10,7 @@ Section was enacted as a part of Health Services Research, Health Statistics, an
 
 #### Effective Date ####
 
-Pub. L. 93–353, title I, §108(b), July 23, 1974, 88 Stat. 371, provided that: “Subsection (a) [enacting this section] shall be effective from December 28, 1973.”
+Pub. L. 93–353, title I, §108(b), July 23, 1974, 88 Stat. 371, provided that: "Subsection (a) [enacting this section] shall be effective from December 28, 1973."
 
 #### Transfer of Functions ####
 

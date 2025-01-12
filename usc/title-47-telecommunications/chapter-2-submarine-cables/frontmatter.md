@@ -36,6 +36,6 @@ Sec.
 
 37. Violations; punishment.
 
-38. “United States” defined.
+38. "United States" defined.
 
 39. Amendment, modification, etc., of rights granted.

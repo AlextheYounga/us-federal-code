@@ -83,35 +83,35 @@ Notwithstanding any other provision of this subchapter, the Commission shall not
 
 #### References in Text ####
 
-Sections 78m(e) and 78n(g) of this title, referred to in subsec. (b)(5), were in the original, “sections 13(e) and 14(g)” and were translated as meaning sections 13(e) and 14(g) of the Securities Exchange Act of 1934 to reflect the probable intent of Congress.
+Sections 78m(e) and 78n(g) of this title, referred to in subsec. (b)(5), were in the original, "sections 13(e) and 14(g)" and were translated as meaning sections 13(e) and 14(g) of the Securities Exchange Act of 1934 to reflect the probable intent of Congress.
 
 #### Amendments ####
 
 **2012**—Subsec. (e). Pub. L. 112–106 added subsec. (e).
 
-**2010**—Subsec. (b). Pub. L. 111–203, §991(b)(1)(A)–(G), in par. (5), substituted “target fee” for “target offsetting” and, in par. (11)(A), substituted “Target fee” for “Target offsetting” in heading and table and “target fee” for “target offsetting” in introductory provisions, redesignated pars. (2), (5), (7), (10), and (11) as (1), (2), (3), (5), and (6), respectively, and struck out former pars. (1), (3), (4), (6), (8), and (9) which related to recovery of cost of services, offsetting collections, prohibition of treatment of fees as general revenues, final rate adjustment, review and effective date of rates, and rate during lapse of appropriation, respectively.
+**2010**—Subsec. (b). Pub. L. 111–203, §991(b)(1)(A)–(G), in par. (5), substituted "target fee" for "target offsetting" and, in par. (11)(A), substituted "Target fee" for "Target offsetting" in heading and table and "target fee" for "target offsetting" in introductory provisions, redesignated pars. (2), (5), (7), (10), and (11) as (1), (2), (3), (5), and (6), respectively, and struck out former pars. (1), (3), (4), (6), (8), and (9) which related to recovery of cost of services, offsetting collections, prohibition of treatment of fees as general revenues, final rate adjustment, review and effective date of rates, and rate during lapse of appropriation, respectively.
 
-Subsec. (b)(1). Pub. L. 111–203, §991(b)(1)(H), substituted “paragraph (2).” for “paragraph (5) or (6).”
+Subsec. (b)(1). Pub. L. 111–203, §991(b)(1)(H), substituted "paragraph (2)." for "paragraph (5) or (6)."
 
-Subsec. (b)(2). Pub. L. 111–203, §991(b)(1)(I), substituted “For each fiscal year” for “For each of the fiscal years 2003 through 2011” and “paragraph (1)” for “paragraph (2)”.
+Subsec. (b)(2). Pub. L. 111–203, §991(b)(1)(I), substituted "For each fiscal year" for "For each of the fiscal years 2003 through 2011" and "paragraph (1)" for "paragraph (2)".
 
 Subsec. (b)(4). Pub. L. 111–203, §991(b)(1)(J), added par. (4). Former par. (4) struck out.
 
-Subsec. (b)(5). Pub. L. 111–203, §991(b)(1)(K), substituted “August 31” for “April 30”.
+Subsec. (b)(5). Pub. L. 111–203, §991(b)(1)(K), substituted "August 31" for "April 30".
 
-Subsec. (b)(6)(A). Pub. L. 111–203, §991(b)(1)(L), substituted “each fiscal year” for “each of the fiscal years 2002 through 2011” in introductory provisions and, in table, added items for fiscal years 2012 to 2021 and each fiscal year thereafter.
+Subsec. (b)(6)(A). Pub. L. 111–203, §991(b)(1)(L), substituted "each fiscal year" for "each of the fiscal years 2002 through 2011" in introductory provisions and, in table, added items for fiscal years 2012 to 2021 and each fiscal year thereafter.
 
 **2002**—Subsec. (b)(2) to (11). Pub. L. 107–123 added pars. (2) to (11) and struck out former pars. (2) to (5), which required fee payment, set out rates for general revenue and offsetting collection fees, and required pro rata rates for amounts and balances equal to less than $1,000,000.
 
-**1996**—Subsec. (b). Pub. L. 104–290 inserted heading and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “At the time of filing a registration statement the applicant shall pay to the Commission a fee of one-fiftieth of 1 per centum of the maximum aggregate price at which such securities are proposed to be offered, but in no case shall such fee be less than $100.”
+**1996**—Subsec. (b). Pub. L. 104–290 inserted heading and amended text of subsec. (b) generally. Prior to amendment, text read as follows: "At the time of filing a registration statement the applicant shall pay to the Commission a fee of one-fiftieth of 1 per centum of the maximum aggregate price at which such securities are proposed to be offered, but in no case shall such fee be less than $100."
 
 **1987**—Subsec. (e). Pub. L. 100–181 struck out subsec. (e) which provided that no registration statement should be filed within the first 40 days following May 27, 1933.
 
-**1965**—Subsec. (b). Pub. L. 89–289 substituted “one-fiftieth” for “one one-hundredth” and “$100” for “$25”.
+**1965**—Subsec. (b). Pub. L. 89–289 substituted "one-fiftieth" for "one one-hundredth" and "$100" for "$25".
 
 #### Effective Date of 2010 Amendment ####
 
-Pub. L. 111–203, title IX, §991(b)(4), July 21, 2010, 124 Stat. 1953, provided that: “The amendments made by this subsection [amending this section and sections 78m and 78n of this title] shall take effect on October 1, 2011, except that for fiscal year 2012, the [Securities and Exchange] Commission shall publish the rate established under section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)), as amended by this Act, on August 31, 2011.”
+Pub. L. 111–203, title IX, §991(b)(4), July 21, 2010, 124 Stat. 1953, provided that: "The amendments made by this subsection [amending this section and sections 78m and 78n of this title] shall take effect on October 1, 2011, except that for fiscal year 2012, the [Securities and Exchange] Commission shall publish the rate established under section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)), as amended by this Act, on August 31, 2011."
 
 #### Effective Date of 2002 Amendment ####
 
@@ -119,7 +119,7 @@ Amendment by Pub. L. 107–123 effective Oct. 1, 2001, except that authorities p
 
 #### Effective Date of 1965 Amendment ####
 
-Pub. L. 89–289, §2, Oct. 22, 1965, 79 Stat. 1051, provided that: “The amendment made by the first section of this Act [amending this section] shall take effect January 1, 1966.”
+Pub. L. 89–289, §2, Oct. 22, 1965, 79 Stat. 1051, provided that: "The amendment made by the first section of this Act [amending this section] shall take effect January 1, 1966."
 
 #### Transfer of Functions ####
 

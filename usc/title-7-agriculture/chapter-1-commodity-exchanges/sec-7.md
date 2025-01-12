@@ -236,10 +236,10 @@ A prior section 7, acts Sept. 21, 1922, ch. 369, §5, 42 Stat. 1000; June 15, 19
 
 Subsec. (d). Pub. L. 111–203, §735(b), added subsec. (d) and struck out former subsec. (d) which related to core principles for contract markets.
 
-Subsec. (e)(1). Pub. L. 111–203, §721(e)(4), substituted “section 1a(9)” for “section 1a(4)”.
+Subsec. (e)(1). Pub. L. 111–203, §721(e)(4), substituted "section 1a(9)" for "section 1a(4)".
 
 #### Effective Date of 2010 Amendment ####
 
 Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as a note under section 1a of this title.
 
-[<sup>1</sup> So in original. Probably should be “take”.](#7_1)
+[<sup>1</sup> So in original. Probably should be "take".](#7_1)

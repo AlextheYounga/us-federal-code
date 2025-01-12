@@ -88,11 +88,11 @@ Any loss disallowed by reason of subparagraph (A) shall be treated as incurred b
 
 #### Amendments ####
 
-**1988**—Subsec. (b)(1). Pub. L. 100–647, §1006(t)(21), substituted “and, except as provided in regulations, in the same manner” for “and in the same manner” in introductory provisions.
+**1988**—Subsec. (b)(1). Pub. L. 100–647, §1006(t)(21), substituted "and, except as provided in regulations, in the same manner" for "and in the same manner" in introductory provisions.
 
 Subsec. (b)(1)(E). Pub. L. 100–647, §1006(t)(8)(C), added subpar. (E).
 
-Subsec. (e)(1). Pub. L. 100–647, §1006(t)(1), substituted “ordinary” for “ordinary income” in heading and amended text generally. Prior to amendment, text read as follows: “Any amount included in the gross income of any holder of a residual interest in a REMIC by reason of subsection (a) shall be treated as ordinary income.”
+Subsec. (e)(1). Pub. L. 100–647, §1006(t)(1), substituted "ordinary" for "ordinary income" in heading and amended text generally. Prior to amendment, text read as follows: "Any amount included in the gross income of any holder of a residual interest in a REMIC by reason of subsection (a) shall be treated as ordinary income."
 
 #### Effective Date of 1988 Amendment ####
 

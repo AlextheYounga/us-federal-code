@@ -12,4 +12,4 @@ Act of February 25, 1920, as amended, referred to in text, is act Feb. 25, 1920,
 
 **1936**—Act June 26, 1936, amended section generally.
 
-[<sup>1</sup> So in original. Probably should be “scrip”.](#315f_1)
+[<sup>1</sup> So in original. Probably should be "scrip".](#315f_1)

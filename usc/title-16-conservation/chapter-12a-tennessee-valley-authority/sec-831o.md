@@ -6,7 +6,7 @@ The Board, whenever the President deems it advisable, is empowered and directed 
 
 #### Amendments ####
 
-**2004**—Pub. L. 108–447 substituted “Board” for “board”.
+**2004**—Pub. L. 108–447 substituted "Board" for "board".
 
 #### Effective Date of 2004 Amendment ####
 

@@ -2,7 +2,7 @@
 
 #### (a) Negotiations to exchange ####
 
-Upon request of the California State Lands Commission (hereinafter in this section referred to as the “Commission”), the Secretary shall enter into negotiations for an agreement to exchange Federal lands or interests therein on the list referred to in subsection (b)(2) of this section for California State School lands or interests therein which are located within the boundaries of one or more of the wilderness areas or park system units designated by this Act (hereinafter in this section referred to as “State School lands.”). The Secretary shall negotiate in good faith to reach a land exchange agreement consistent with the requirements of section 206 of the Federal Land Policy and Management Act of 1976 [43 U.S.C. 1716].
+Upon request of the California State Lands Commission (hereinafter in this section referred to as the "Commission"), the Secretary shall enter into negotiations for an agreement to exchange Federal lands or interests therein on the list referred to in subsection (b)(2) of this section for California State School lands or interests therein which are located within the boundaries of one or more of the wilderness areas or park system units designated by this Act (hereinafter in this section referred to as "State School lands."). The Secretary shall negotiate in good faith to reach a land exchange agreement consistent with the requirements of section 206 of the Federal Land Policy and Management Act of 1976 [43 U.S.C. 1716].
 
 #### (b) Preparation of list ####
 

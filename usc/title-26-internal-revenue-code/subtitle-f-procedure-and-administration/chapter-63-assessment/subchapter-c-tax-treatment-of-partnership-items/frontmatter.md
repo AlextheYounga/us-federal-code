@@ -34,7 +34,7 @@ Sec.
 
 **1997**—Pub. L. 105–34, title XII, §1231(c), Aug. 5, 1997, 111 Stat. 1023, added item 6234.
 
-**1988**—Pub. L. 100–418, title I, §1941(b)(3)(D), Aug. 23, 1988, 102 Stat. 1324, struck out item 6232 “Extension of subchapter to windfall profit tax”.
+**1988**—Pub. L. 100–418, title I, §1941(b)(3)(D), Aug. 23, 1988, 102 Stat. 1324, struck out item 6232 "Extension of subchapter to windfall profit tax".
 
 **1984**—Pub. L. 98–369, div. A, title VII, §714(p)(2)(E), July 18, 1984, 98 Stat. 965, added item 6233.
 

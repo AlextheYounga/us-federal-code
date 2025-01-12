@@ -24,6 +24,6 @@ Act approved August 13, 1954, referred to in subsec. (b), is act Aug. 13, 1954, 
 
 #### Codification ####
 
-In subsecs. (a) and (b), “on October 17, 1984,” the date of enactment of Pub. L. 98–481, substituted for “upon passage of this Act”.
+In subsecs. (a) and (b), "on October 17, 1984," the date of enactment of Pub. L. 98–481, substituted for "upon passage of this Act".
 
-[<sup>1</sup> So in original. Probably should be “subsection”.](#714a_1)
+[<sup>1</sup> So in original. Probably should be "subsection".](#714a_1)

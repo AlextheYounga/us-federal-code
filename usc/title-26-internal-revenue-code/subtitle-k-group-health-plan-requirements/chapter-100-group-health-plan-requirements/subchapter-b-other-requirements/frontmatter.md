@@ -14,7 +14,7 @@ Sec.
 
 **2008**—Pub. L. 110–381, §2(c)(2), Oct. 9, 2008, 122 Stat. 4086, added item 9813.
 
-Pub. L. 110–343, div. C, title V, §512(g)(3)(B), Oct. 3, 2008, 122 Stat. 3892, added item 9812 and struck out former item 9812 “Parity in the application of certain limits to mental health benefits”.
+Pub. L. 110–343, div. C, title V, §512(g)(3)(B), Oct. 3, 2008, 122 Stat. 3892, added item 9812 and struck out former item 9812 "Parity in the application of certain limits to mental health benefits".
 
 **1997**—Pub. L. 105–34, title XV, §1531(a)(4), Aug. 5, 1997, 111 Stat. 1081, added subchapter heading and analysis.
 

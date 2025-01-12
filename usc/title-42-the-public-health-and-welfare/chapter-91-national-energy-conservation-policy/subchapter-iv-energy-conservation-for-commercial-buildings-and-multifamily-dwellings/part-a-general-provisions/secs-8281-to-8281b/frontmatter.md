@@ -8,4 +8,4 @@ Section 8281b, Pub. L. 95–619, title VII, §712, as added Pub. L. 96–294, ti
 
 #### Demonstration Projects for Energy Efficiency in Commercial Buildings ####
 
-Pub. L. 99–412, title II, §202, Aug. 28, 1986, 100 Stat. 943, provided that: “The Secretary of Energy shall, using funds appropriated for energy conservation activities of the Department of Energy, carry out demonstration projects by sharing the cost of the construction and development by nongovernmental entities of facilities which demonstrate innovative technologies for utility applications that increase energy efficiency in commercial buildings.”
+Pub. L. 99–412, title II, §202, Aug. 28, 1986, 100 Stat. 943, provided that: "The Secretary of Energy shall, using funds appropriated for energy conservation activities of the Department of Energy, carry out demonstration projects by sharing the cost of the construction and development by nongovernmental entities of facilities which demonstrate innovative technologies for utility applications that increase energy efficiency in commercial buildings."

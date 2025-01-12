@@ -40,7 +40,7 @@ Sec.
 
 **1993**—Pub. L. 103–159, title I, §104(b), Nov. 30, 1993, 107 Stat. 1543, added item 925A.
 
-**1990**—Pub. L. 101–647, title XXXV, §3523, Nov. 29, 1990, 104 Stat. 4924, struck out “clause” after “Separability” in item 928.
+**1990**—Pub. L. 101–647, title XXXV, §3523, Nov. 29, 1990, 104 Stat. 4924, struck out "clause" after "Separability" in item 928.
 
 **1988**—Pub. L. 100–690, title VI, §6215(b), Nov. 18, 1988, 102 Stat. 4362, added item 930.
 
@@ -76,7 +76,7 @@ Section 1. *Firearms Tracing*. (a) Federal law enforcement agencies shall ensure
 
 (d) Within 90 days of the date of this memorandum, each Federal law enforcement agency shall submit a report to the Attorney General affirming that its operational protocols reflect the requirements set forth in this memorandum.
 
-(e) For purposes of this memorandum, “Federal law enforcement agencies” means the Departments of State, the Treasury, Defense, Justice, the Interior, Agriculture, Energy, Veterans Affairs, and Homeland Security, and such other agencies and offices that regularly recover firearms in the course of their criminal investigations as the President may designate.
+(e) For purposes of this memorandum, "Federal law enforcement agencies" means the Departments of State, the Treasury, Defense, Justice, the Interior, Agriculture, Energy, Veterans Affairs, and Homeland Security, and such other agencies and offices that regularly recover firearms in the course of their criminal investigations as the President may designate.
 
 Sec. 2. *General Provisions*. (a) Nothing in this memorandum shall be construed to impair or otherwise affect the authority granted by law to a department or agency, or the head thereof.
 

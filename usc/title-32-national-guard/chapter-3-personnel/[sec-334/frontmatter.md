@@ -4,7 +4,7 @@ Section, added Pub. L. 94–464, §2(b), Oct. 8, 1976, 90 Stat. 1986; amended Pu
 
 #### Amendment After Repeal ####
 
-Pub. L. 97–258, §3(h)(1), Sept. 13, 1982, 96 Stat. 1065, purported to substitute “section 1304 of title 31” for “section 1302 of the Act of July 27, 1956, (31 U.S.C. 724a)” in subsec. (a) of section 334 of this title, without reference to the earlier repeal of that section by Pub. L. 97–124, §3, Dec. 29, 1981, 95 Stat. 1666.
+Pub. L. 97–258, §3(h)(1), Sept. 13, 1982, 96 Stat. 1065, purported to substitute "section 1304 of title 31" for "section 1302 of the Act of July 27, 1956, (31 U.S.C. 724a)" in subsec. (a) of section 334 of this title, without reference to the earlier repeal of that section by Pub. L. 97–124, §3, Dec. 29, 1981, 95 Stat. 1666.
 
 #### Effective Date of Repeal ####
 

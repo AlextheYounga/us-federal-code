@@ -4,7 +4,7 @@ For purposes of this subchapter—
 
 #### (1) In general ####
 
-The term “applicable premium” means, with respect to any period of continuation coverage of qualified beneficiaries, the cost to the plan for such period of the coverage for similarly situated beneficiaries with respect to whom a qualifying event has not occurred (without regard to whether such cost is paid by the employer or employee).
+The term "applicable premium" means, with respect to any period of continuation coverage of qualified beneficiaries, the cost to the plan for such period of the coverage for similarly situated beneficiaries with respect to whom a qualifying event has not occurred (without regard to whether such cost is paid by the employer or employee).
 
 #### (2) Special rule for self-insured plans ####
 

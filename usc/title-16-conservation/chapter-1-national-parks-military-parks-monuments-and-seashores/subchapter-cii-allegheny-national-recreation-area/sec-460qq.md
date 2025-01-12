@@ -2,7 +2,7 @@
 
 #### (a) Designation of area; revision of boundaries ####
 
-In furtherance of the findings and purposes of this subchapter, certain lands in the Allegheny National Forest, Pennsylvania, which comprise approximately twenty-three thousand one hundred acres, as generally depicted on a map entitled “Allegheny National Recreation Area—Proposed”, dated March 1984, are hereby designated as the Allegheny National Recreation Area (hereinafter in this subchapter referred to as the “national recreation area”). The Secretary of Agriculture may revise the boundaries of the national recreation area to correct errors or to include additional lands acquired adjacent to the area.
+In furtherance of the findings and purposes of this subchapter, certain lands in the Allegheny National Forest, Pennsylvania, which comprise approximately twenty-three thousand one hundred acres, as generally depicted on a map entitled "Allegheny National Recreation Area—Proposed", dated March 1984, are hereby designated as the Allegheny National Recreation Area (hereinafter in this subchapter referred to as the "national recreation area"). The Secretary of Agriculture may revise the boundaries of the national recreation area to correct errors or to include additional lands acquired adjacent to the area.
 
 #### (b) Description of purposes ####
 
@@ -44,7 +44,7 @@ Nothing in this section shall be construed to apply to or have any effect on any
 
 #### References in Text ####
 
-This subchapter, referred to in subsecs. (a) and (f), was in the original “this Act”, meaning Pub. L. 98–585, Oct. 30, 1984, 98 Stat. 3100, known as the Pennsylvania Wilderness Act of 1984, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
+This subchapter, referred to in subsecs. (a) and (f), was in the original "this Act", meaning Pub. L. 98–585, Oct. 30, 1984, 98 Stat. 3100, known as the Pennsylvania Wilderness Act of 1984, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
 
 The National Forest Management Act of 1976, referred to in subsec. (d), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
 

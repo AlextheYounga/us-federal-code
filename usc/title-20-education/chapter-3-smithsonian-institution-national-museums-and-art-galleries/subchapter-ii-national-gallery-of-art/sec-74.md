@@ -20,13 +20,13 @@ The actions of the board, including any payment made or directed to be made by i
 
 #### Codification ####
 
-In subsec. (c), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (c), "chapter 51 and subchapter III of chapter 53 of title 5" substituted for "the Classification Act of 1949, as amended" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments ####
 
-**1949**—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+**1949**—Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
-**1939**—Subsec. (a). Act Apr. 13, 1939, inserted in last sentence “and to provide, prior to the completion of the National Gallery of Art, for the protection and care of the works of art in said Gallery and for administrative and operating expenses and equipment preparatory to the opening of the Gallery to the public”.
+**1939**—Subsec. (a). Act Apr. 13, 1939, inserted in last sentence "and to provide, prior to the completion of the National Gallery of Art, for the protection and care of the works of art in said Gallery and for administrative and operating expenses and equipment preparatory to the opening of the Gallery to the public".
 
 #### Repeals ####
 

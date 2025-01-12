@@ -16,17 +16,17 @@ Provisions similar to those in this section were contained in former section 98 
 
 #### Amendments ####
 
-**2013**—Subsec. (b). Pub. L. 112–239 inserted “or a single point of failure” after “foreign sources”.
+**2013**—Subsec. (b). Pub. L. 112–239 inserted "or a single point of failure" after "foreign sources".
 
-**1996**—Subsec. (c). Pub. L. 104–201 added subsec. (c) and struck out former subsec. (c) which read as follows: “In providing for the National Defense Stockpile under this subchapter, Congress establishes the following principles:
+**1996**—Subsec. (c). Pub. L. 104–201 added subsec. (c) and struck out former subsec. (c) which read as follows: "In providing for the National Defense Stockpile under this subchapter, Congress establishes the following principles:
 
-“(1) The purpose of the National Defense Stockpile is to serve the interest of national defense only. The National Defense Stockpile is not to be used for economic or budgetary purposes.
+"(1) The purpose of the National Defense Stockpile is to serve the interest of national defense only. The National Defense Stockpile is not to be used for economic or budgetary purposes.
 
-“(2) Before October 1, 1994, the quantities of materials stockpiled under this subchapter should be sufficient to sustain the United States for a period of not less than three years during a national emergency situation that would necessitate total mobilization of the economy of the United States for a sustained conventional global war of indefinite duration.
+"(2) Before October 1, 1994, the quantities of materials stockpiled under this subchapter should be sufficient to sustain the United States for a period of not less than three years during a national emergency situation that would necessitate total mobilization of the economy of the United States for a sustained conventional global war of indefinite duration.
 
-“(3) On and after October 1, 1994, the quantities of materials stockpiled under this subchapter should be sufficient to meet the needs of the United States during a period of a national emergency that would necessitate an expansion of the Armed Forces together with a significant mobilization of the economy of the United States under planning guidance issued by the Secretary of Defense.”
+"(3) On and after October 1, 1994, the quantities of materials stockpiled under this subchapter should be sufficient to meet the needs of the United States during a period of a national emergency that would necessitate an expansion of the Armed Forces together with a significant mobilization of the economy of the United States under planning guidance issued by the Secretary of Defense."
 
-**1993**—Subsec. (c)(2). Pub. L. 103–160, §3311(1), substituted “Before October 1, 1994, the quantities” for “The quantities”.
+**1993**—Subsec. (c)(2). Pub. L. 103–160, §3311(1), substituted "Before October 1, 1994, the quantities" for "The quantities".
 
 Subsec. (c)(3). Pub. L. 103–160, §3311(2), added par. (3).
 
@@ -34,4 +34,4 @@ Subsec. (c)(3). Pub. L. 103–160, §3311(2), added par. (3).
 
 #### Effective Date of 1996 Amendment ####
 
-Pub. L. 104–201, div. C, title XXXIII, §3311(c), Sept. 23, 1996, 110 Stat. 2857, provided that: “The amendments made by this section [amending this section and section 98h–5 of this title] shall take effect on October 1, 1996.”
+Pub. L. 104–201, div. C, title XXXIII, §3311(c), Sept. 23, 1996, 110 Stat. 2857, provided that: "The amendments made by this section [amending this section and section 98h–5 of this title] shall take effect on October 1, 1996."

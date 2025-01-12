@@ -18,6 +18,6 @@ Sections 63 and 64 of this title, referred to in text, were repealed by Pub. L. 
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-[<sup>1</sup> So in original. Probably should be “fails”.](#64a_1)
+[<sup>1</sup> So in original. Probably should be "fails".](#64a_1)
 
-[<sup>2</sup> So in original. Probably should be “months”.](#64a_2)
+[<sup>2</sup> So in original. Probably should be "months".](#64a_2)

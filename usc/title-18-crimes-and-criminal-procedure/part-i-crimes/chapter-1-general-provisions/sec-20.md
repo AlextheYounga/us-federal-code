@@ -1,6 +1,6 @@
 ### §20. Financial institution defined ###
 
-As used in this title, the term “financial institution” means—
+As used in this title, the term "financial institution" means—
 
 (1) an insured depository institution (as defined in section 3(c)(2) of the Federal Deposit Insurance Act);
 
@@ -46,22 +46,22 @@ A prior section 20 was renumbered section 17 of this title.
 
 **1990**—Pars. (7) to (9). Pub. L. 101–647 added pars. (7) to (9).
 
-**1989**—Pub. L. 101–73, §962(e)(1), (2)(A)–(C), redesignated subsec. (b) of section 215 of this title as this section, inserted section catchline, struck out subsec. (b) designation before “As used”, and substituted “used in this title” for “used in this section”.
+**1989**—Pub. L. 101–73, §962(e)(1), (2)(A)–(C), redesignated subsec. (b) of section 215 of this title as this section, inserted section catchline, struck out subsec. (b) designation before "As used", and substituted "used in this title" for "used in this section".
 
-Par. (1). Pub. L. 101–73, §962(e)(2)(D), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “a bank with deposits insured by the Federal Deposit Insurance Corporation;”.
+Par. (1). Pub. L. 101–73, §962(e)(2)(D), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "a bank with deposits insured by the Federal Deposit Insurance Corporation;".
 
-Par. (2). Pub. L. 101–73, §962(e)(2)(E), (H), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “an institution with accounts insured by the Federal Savings and Loan Insurance Corporation;”.
+Par. (2). Pub. L. 101–73, §962(e)(2)(E), (H), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "an institution with accounts insured by the Federal Savings and Loan Insurance Corporation;".
 
 Par. (3). Pub. L. 101–73, §962(e)(2)(H), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-Par. (4). Pub. L. 101–73, §962(e)(2)(F), (H), redesignated par. (5) as (4) and amended it generally. Prior to amendment, par. (4) read as follows: “a Federal land bank, Federal intermediate credit bank, bank for cooperatives, production credit association, and Federal land bank association;”. Former par. (4) redesignated (3).
+Par. (4). Pub. L. 101–73, §962(e)(2)(F), (H), redesignated par. (5) as (4) and amended it generally. Prior to amendment, par. (4) read as follows: "a Federal land bank, Federal intermediate credit bank, bank for cooperatives, production credit association, and Federal land bank association;". Former par. (4) redesignated (3).
 
 Par. (5). Pub. L. 101–73, §962(e)(2)(H), redesignated par. (6) as (5). Former par. (5) redesignated (4).
 
-Pars. (6), (7). Pub. L. 101–73, §962(e)(2)(G), (H), redesignated par. (7) as (6) and amended it generally. Prior to amendment, par. (6) read as follows: “a bank holding company as defined in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841); or”. Former par. (6) redesignated (5).
+Pars. (6), (7). Pub. L. 101–73, §962(e)(2)(G), (H), redesignated par. (7) as (6) and amended it generally. Prior to amendment, par. (6) read as follows: "a bank holding company as defined in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841); or". Former par. (6) redesignated (5).
 
-Par. (8). Pub. L. 101–73, §962(e)(2)(E), struck out par. (8) which read as follows: “a savings and loan holding company as defined in section 408 of the National Housing Act (12 U.S.C. 1730a).”
+Par. (8). Pub. L. 101–73, §962(e)(2)(E), struck out par. (8) which read as follows: "a savings and loan holding company as defined in section 408 of the National Housing Act (12 U.S.C. 1730a)."
 
-**1986**—Pub. L. 99–370 amended subsec. (b) [formerly §215(b)] generally expanding provisions formerly contained in subsec. (c) [former §215(c)] defining “financial institution”.
+**1986**—Pub. L. 99–370 amended subsec. (b) [formerly §215(b)] generally expanding provisions formerly contained in subsec. (c) [former §215(c)] defining "financial institution".
 
 [<sup>1</sup> See References in Text note below.](#20_1)

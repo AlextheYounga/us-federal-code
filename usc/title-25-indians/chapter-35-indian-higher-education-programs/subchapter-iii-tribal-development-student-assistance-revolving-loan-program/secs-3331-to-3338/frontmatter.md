@@ -1,6 +1,6 @@
 ### §§3331 to 3338. Repealed. Pub. L. 105–332, §6(b)(1), Oct. 31, 1998, 112 Stat. 3128 ###
 
-Section 3331, Pub. L. 102–325, title XIII, §1341, July 23, 1992, 106 Stat. 809, provided that subchapter could be cited as the “Tribal Development Student Assistance Act”.
+Section 3331, Pub. L. 102–325, title XIII, §1341, July 23, 1992, 106 Stat. 809, provided that subchapter could be cited as the "Tribal Development Student Assistance Act".
 
 Section 3332, Pub. L. 102–325, title XIII, §1342, July 23, 1992, 106 Stat. 809, declared congressional findings and purposes.
 

@@ -26,7 +26,7 @@ Nothing in this section shall be construed as limiting any other authority of th
 
 #### (d) Definition ####
 
-In this section, the term “regulated person” means—
+In this section, the term "regulated person" means—
 
 (1) a person who is required to register under section 360 or 381(s) of this title;
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-There is established in the Commodity Credit Corporation a revolving trust fund, to be known as the “Tobacco Trust Fund”, which shall be used in carrying out this subchapter. The Tobacco Trust Fund shall consist of the following:
+There is established in the Commodity Credit Corporation a revolving trust fund, to be known as the "Tobacco Trust Fund", which shall be used in carrying out this subchapter. The Tobacco Trust Fund shall consist of the following:
 
 (1) Assessments collected under section 518d of this title.
 

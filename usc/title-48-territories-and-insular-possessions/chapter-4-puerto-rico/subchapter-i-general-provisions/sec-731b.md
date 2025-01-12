@@ -10,4 +10,4 @@ Section was not enacted as part of the Puerto Rican Federal Relations Act which 
 
 #### Repeals ####
 
-Act July 3, 1950, ch. 446, §6, 64 Stat. 320, provided that: “All laws or parts of laws inconsistent with this Act [enacting sections 731b to 731e of this title] are hereby repealed.”
+Act July 3, 1950, ch. 446, §6, 64 Stat. 320, provided that: "All laws or parts of laws inconsistent with this Act [enacting sections 731b to 731e of this title] are hereby repealed."

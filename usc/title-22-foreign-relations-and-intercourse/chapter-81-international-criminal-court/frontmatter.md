@@ -8,7 +8,7 @@ Sec.
 
 7402. Prohibition on extradition or transfer of United States citizens to the International Criminal Court.
 
-#### SUBCHAPTER II—AMERICAN SERVICEMEMBERS’ PROTECTION ####
+#### SUBCHAPTER II—AMERICAN SERVICEMEMBERS' PROTECTION ####
 
 7421. Findings.
 

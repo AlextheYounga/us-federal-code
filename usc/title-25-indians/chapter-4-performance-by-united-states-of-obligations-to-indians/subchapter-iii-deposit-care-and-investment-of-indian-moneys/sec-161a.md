@@ -16,7 +16,7 @@
 
 #### Effective Date of 1994 Amendment ####
 
-Pub. L. 103–412, title I, §103(d), Oct. 25, 1994, 108 Stat. 4241, provided that: “The amendment made by subsection (a) [amending this section] shall apply to interest earned on amounts deposited or invested on or after the date of the enactment of this Act [Oct. 25, 1994].”
+Pub. L. 103–412, title I, §103(d), Oct. 25, 1994, 108 Stat. 4241, provided that: "The amendment made by subsection (a) [amending this section] shall apply to interest earned on amounts deposited or invested on or after the date of the enactment of this Act [Oct. 25, 1994]."
 
 #### Transfer of Functions ####
 

@@ -16,4 +16,4 @@ In order to facilitate the presentation of a comprehensive picture of the Lewis 
 
 #### References in Text ####
 
-This subchapter, referred to in subsec. (a), was in the original “this title”, meaning title I of Pub. L. 108–387, Oct. 30, 2004, 118 Stat. 2234, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 410kkk of this title and Tables.
+This subchapter, referred to in subsec. (a), was in the original "this title", meaning title I of Pub. L. 108–387, Oct. 30, 2004, 118 Stat. 2234, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 410kkk of this title and Tables.

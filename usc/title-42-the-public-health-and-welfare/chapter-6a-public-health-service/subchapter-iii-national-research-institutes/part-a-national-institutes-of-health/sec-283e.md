@@ -34,7 +34,7 @@ The Director of NIH shall take such actions as may be appropriate to convey to s
 
 #### (e) Interagency Coordinating Committee on the Use of Animals in Research ####
 
-(1) The Director of NIH shall establish within the National Institutes of Health a committee to be known as the Interagency Coordinating Committee on the Use of Animals in Research (in this subsection referred to as the “Committee”).
+(1) The Director of NIH shall establish within the National Institutes of Health a committee to be known as the Interagency Coordinating Committee on the Use of Animals in Research (in this subsection referred to as the "Committee").
 
 (2) The Committee shall provide advice to the Director of NIH on the preparation of the plan required in subsection (a) of this section.
 
@@ -48,7 +48,7 @@ The Director of NIH shall take such actions as may be appropriate to convey to s
 
 #### Amendments ####
 
-**2011**—Subsec. (e)(3)(A). Pub. L. 112–74 struck out “and the Director of the Center for Research Resources” after “institutes”.
+**2011**—Subsec. (e)(3)(A). Pub. L. 112–74 struck out "and the Director of the Center for Research Resources" after "institutes".
 
 #### Change of Name ####
 

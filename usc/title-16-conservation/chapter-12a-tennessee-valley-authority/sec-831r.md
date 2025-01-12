@@ -6,7 +6,7 @@ The Corporation, as an instrumentality and agency of the Government of the Unite
 
 #### Amendments ####
 
-**1999**—Pub. L. 106–113 substituted “United States Patent and Trademark Office” for “Patent Office of the United States” and “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents”.
+**1999**—Pub. L. 106–113 substituted "United States Patent and Trademark Office" for "Patent Office of the United States" and "Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office" for "Commissioner of Patents".
 
 #### Effective Date of 1999 Amendment ####
 

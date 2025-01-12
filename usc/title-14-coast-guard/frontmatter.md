@@ -11,7 +11,7 @@ II. Coast Guard Reserve and Auxiliary 701
 
 #### Amendments ####
 
-**1986**—Pub. L. 99–640, §10(a)(1), Nov. 10, 1986, 100 Stat. 3548, substituted “701” for “751” in item for part II.
+**1986**—Pub. L. 99–640, §10(a)(1), Nov. 10, 1986, 100 Stat. 3548, substituted "701" for "751" in item for part II.
 
 |*Title 14<br/><br/>Former Sections*|*Title 14<br/><br/>New Sections*|
 |-----------------------------------|--------------------------------|
@@ -281,28 +281,28 @@ II. Coast Guard Reserve and Auxiliary 701
 
 #### Positive Law; Citation ####
 
-This title has been enacted into positive law by act Aug. 4, 1949, ch. 393, §1, 63 Stat. 495, which provided in part that: “Title 14 of the United States Code, entitled ‘Coast Guard’, is hereby revised, codified, and enacted into law, and may be cited as ‘14 U.S.C., §—.’ ”
+This title has been enacted into positive law by act Aug. 4, 1949, ch. 393, §1, 63 Stat. 495, which provided in part that: "Title 14 of the United States Code, entitled 'Coast Guard', is hereby revised, codified, and enacted into law, and may be cited as '14 U.S.C., §—.' "
 
 #### Effective Date ####
 
-Act Aug. 4, 1949, ch. 393, §19, 63 Stat. 561, provided that: “This Act shall take effect on the first day of the third month after approval by the President but shall not affect any proceedings commenced by or against any person prior to the effective date of this Act.”
+Act Aug. 4, 1949, ch. 393, §19, 63 Stat. 561, provided that: "This Act shall take effect on the first day of the third month after approval by the President but shall not affect any proceedings commenced by or against any person prior to the effective date of this Act."
 
 #### Repeals ####
 
-Act Aug. 4, 1949, ch. 393, §20, 63 Stat. 561, repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this act, with a proviso that “any rights or liabilities now existing under such sections or parts thereof shall not be affected by such repeal”.
+Act Aug. 4, 1949, ch. 393, §20, 63 Stat. 561, repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this act, with a proviso that "any rights or liabilities now existing under such sections or parts thereof shall not be affected by such repeal".
 
 #### Legislative Construction ####
 
-Act Aug. 4, 1949, ch. 393, §3, 63 Stat. 557, provided that: “No inference of a legislative construction is to be drawn by reason of the chapter in Title 14, Coast Guard, as set out in section 1 of this Act, in which any section is placed, nor by reason of the catch lines used in such title.”
+Act Aug. 4, 1949, ch. 393, §3, 63 Stat. 557, provided that: "No inference of a legislative construction is to be drawn by reason of the chapter in Title 14, Coast Guard, as set out in section 1 of this Act, in which any section is placed, nor by reason of the catch lines used in such title."
 
 #### Separability ####
 
-Act Aug. 4, 1949, ch. 393, §2, 63 Stat. 557, provided that: “If any part of Title 14, United States Code, as enacted by section 1 of this Act, shall be held invalid the remainder of such title shall not be affected thereby.”
+Act Aug. 4, 1949, ch. 393, §2, 63 Stat. 557, provided that: "If any part of Title 14, United States Code, as enacted by section 1 of this Act, shall be held invalid the remainder of such title shall not be affected thereby."
 
 #### Orders, Rules, and Regulations ####
 
-Act Aug. 4, 1949, ch. 393, §4, 63 Stat. 558, provided that: “All orders, rules, and regulations of the Coast Guard in effect under provisions of law superseded or amended by this Act shall, to the extent they would have been authorized under this Act, remain in force and effect as the regulations and orders under the provisions of this Act and shall be administered and enforced under this Act as nearly as may be until specifically repealed, amended, or revised.”
+Act Aug. 4, 1949, ch. 393, §4, 63 Stat. 558, provided that: "All orders, rules, and regulations of the Coast Guard in effect under provisions of law superseded or amended by this Act shall, to the extent they would have been authorized under this Act, remain in force and effect as the regulations and orders under the provisions of this Act and shall be administered and enforced under this Act as nearly as may be until specifically repealed, amended, or revised."
 
 #### Reduction in Grade, Rank, Pay, Allowances, and Benefits ####
 
-Act Aug. 4, 1949, ch. 393, §5, 63 Stat. 558, provided that: “Nothing contained in this Act shall operate to abolish or reduce the grade, rank, rating, pay, allowances, or other benefits to which any person in the Coast Guard is entitled on the effective date of this Act.”
+Act Aug. 4, 1949, ch. 393, §5, 63 Stat. 558, provided that: "Nothing contained in this Act shall operate to abolish or reduce the grade, rank, rating, pay, allowances, or other benefits to which any person in the Coast Guard is entitled on the effective date of this Act."

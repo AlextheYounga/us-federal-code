@@ -166,9 +166,9 @@ None of the functions and activities carried out pursuant to this section shall 
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 1999 through 2004.
 
-#### (h) “Local area” defined ####
+#### (h) "Local area" defined ####
 
-In this section, the term “local area” means the smallest geographical area for which data can be produced with statistical reliability.
+In this section, the term "local area" means the smallest geographical area for which data can be produced with statistical reliability.
 
 (June 6, 1933, ch. 49, §15, as added Pub. L. 105–220, title III, §309(2), Aug. 7, 1998, 112 Stat. 1082; amended Pub. L. 105–277, div. A, §101(f) [title VIII, §403(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416; Pub. L. 105–332, §5(b)(1), Oct. 31, 1998, 112 Stat. 3127; Pub. L. 109–270, §2(g), Aug. 12, 2006, 120 Stat. 747.)
 
@@ -186,19 +186,19 @@ A prior section 15 of act of June 6, 1933, was renumbered section 16, and is set
 
 #### Amendments ####
 
-**2006**—Subsec. (f). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”.
+**2006**—Subsec. (f). Pub. L. 109–270 substituted "Carl D. Perkins Career and Technical Education Act of 2006" for "Carl D. Perkins Vocational and Applied Technology Education Act".
 
-**1998**—Subsec. (a)(2)(A)(i). Pub. L. 105–332, §5(b)(1)(A), substituted “under the provisions of this section for any purpose other than the statistical purposes for which” for “under the provisions of this section for any purpose other than the statistical purposes for which”.
+**1998**—Subsec. (a)(2)(A)(i). Pub. L. 105–332, §5(b)(1)(A), substituted "under the provisions of this section for any purpose other than the statistical purposes for which" for "under the provisions of this section for any purpose other than the statistical purposes for which".
 
-Pub. L. 105–277, §101(f) [title VIII, §403(a)(1)(A)], struck out “of this section” after “statistical purposes”.
+Pub. L. 105–277, §101(f) [title VIII, §403(a)(1)(A)], struck out "of this section" after "statistical purposes".
 
-Subsec. (e)(2)(G). Pub. L. 105–277, §101(f) [title VIII, §403(a)(1)(B)], and Pub. L. 105–332, §5(b)(1)(B), amended subpar. (G) identically, substituting “complementarity” for “complementary”.
+Subsec. (e)(2)(G). Pub. L. 105–277, §101(f) [title VIII, §403(a)(1)(B)], and Pub. L. 105–332, §5(b)(1)(B), amended subpar. (G) identically, substituting "complementarity" for "complementary".
 
 #### Effective Date of 1998 Amendments ####
 
-Pub. L. 105–332, §5(b)(2), Oct. 31, 1998, 112 Stat. 3127, provided that: “The amendments made by paragraph (1) [amending this section] take effect July 2, 1999.”
+Pub. L. 105–332, §5(b)(2), Oct. 31, 1998, 112 Stat. 3127, provided that: "The amendments made by paragraph (1) [amending this section] take effect July 2, 1999."
 
-Pub. L. 105–277, div. A, §101(f) [title VIII, §403(a)(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416, provided that: “The amendments made by paragraph (1) [amending this section] take effect on July 2, 1999.”
+Pub. L. 105–277, div. A, §101(f) [title VIII, §403(a)(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416, provided that: "The amendments made by paragraph (1) [amending this section] take effect on July 2, 1999."
 
 #### Effective Date ####
 

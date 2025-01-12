@@ -58,7 +58,7 @@ A prior section 429 of act Aug. 14, 1935, was renumbered section 426(c) and is c
 
 **1997**—Pub. L. 105–33, §5592(a)(1)(C), transferred section in original to end of this subpart.
 
-Subsec. (a). Pub. L. 105–33, §5591(a), inserted “(directly, or by grant, contract, or interagency agreement)” after “conduct”.
+Subsec. (a). Pub. L. 105–33, §5591(a), inserted "(directly, or by grant, contract, or interagency agreement)" after "conduct".
 
 #### Effective Date of 1997 Amendment ####
 

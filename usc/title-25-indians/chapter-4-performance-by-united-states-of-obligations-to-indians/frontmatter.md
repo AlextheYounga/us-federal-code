@@ -138,7 +138,7 @@ Sec.
 
 161a. Tribal funds in trust in Treasury Department; investment by Secretary of the Treasury; maturities; interest; funds held in trust for individual Indians.
 
-161b. “Indian Money, Proceeds of Labor” fund; separate accounts for respective tribes; rate of interest.
+161b. "Indian Money, Proceeds of Labor" fund; separate accounts for respective tribes; rate of interest.
 
 161c. Surplus above requirements of fund; transfer to surplus fund of Treasury; retransfer.
 

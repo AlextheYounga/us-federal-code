@@ -16,7 +16,7 @@ Section 107, act Aug. 19, 1890, ch. 802, §1, 26 Stat. 327, related to crossing 
 
 Section 108, act Aug. 19, 1890, ch. 802, §1, 26 Stat. 327, related to duty of steam vessel to slacken speed.
 
-Section 109, act Aug. 19, 1890, ch. 802, §1, 26 Stat. 327, provided that overtaking vessel keep out of the way of the overtaken vessel, defined “overtaken vessel”.
+Section 109, act Aug. 19, 1890, ch. 802, §1, 26 Stat. 327, provided that overtaking vessel keep out of the way of the overtaken vessel, defined "overtaken vessel".
 
 Section 110, act Aug. 19, 1890, ch. 802, §1, 26 Stat. 327, related to steam vessel in narrow channel.
 

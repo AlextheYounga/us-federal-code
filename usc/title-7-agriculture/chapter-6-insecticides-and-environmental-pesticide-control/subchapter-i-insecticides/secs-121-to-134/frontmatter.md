@@ -1,6 +1,6 @@
 ### §§121 to 134. Repealed. June 25, 1947, ch. 125, §16, 61 Stat. 172 ###
 
-Sections, act Apr. 26, 1910, ch. 191, 36 Stat. 335, formerly known as “The Insecticides Act”, are covered by subchapter II of this chapter.
+Sections, act Apr. 26, 1910, ch. 191, 36 Stat. 335, formerly known as "The Insecticides Act", are covered by subchapter II of this chapter.
 
 #### Effective Date of Repeal; Savings Provision ####
 

@@ -22,7 +22,7 @@ For purposes of this section—
 
 #### (1) Energy efficient commercial building property ####
 
-The term “energy efficient commercial building property” means property—
+The term "energy efficient commercial building property" means property—
 
 (A) with respect to which depreciation (or amortization in lieu of depreciation) is allowable,
 
@@ -44,7 +44,7 @@ The term “energy efficient commercial building property” means property—
 
 #### (2) Standard 90.1–2001 ####
 
-The term “Standard 90.1–2001” means Standard 90.1–2001 of the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America (as in effect on April 2, 2003).
+The term "Standard 90.1–2001" means Standard 90.1–2001 of the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America (as in effect on April 2, 2003).
 
 #### (d) Special rules ####
 
@@ -58,7 +58,7 @@ Except as provided in subsection (f), if—
 
 (ii) there is a certification in accordance with paragraph (6) that any system referred to in subsection (c)(1)(C) satisfies the energy-savings targets established by the Secretary under subparagraph (B) with respect to such system,
 
-then the requirement of subsection (c)(1)(D) shall be treated as met with respect to such system, and the deduction under subsection (a) shall be allowed with respect to energy efficient commercial building property installed as part of such system and as part of a plan to meet such targets, except that subsection (b) shall be applied to such property by substituting “$.60” for “$1.80”.
+then the requirement of subsection (c)(1)(D) shall be treated as met with respect to such system, and the deduction under subsection (a) shall be allowed with respect to energy efficient commercial building property installed as part of such system and as part of a plan to meet such targets, except that subsection (b) shall be applied to such property by substituting "$.60" for "$1.80".
 
 #### (B) Regulations ####
 
@@ -76,7 +76,7 @@ Any calculation under paragraph (2) shall be prepared by qualified computer soft
 
 #### (B) Qualified computer software ####
 
-For purposes of this paragraph, the term “qualified computer software” means software—
+For purposes of this paragraph, the term "qualified computer software" means software—
 
 (i) for which the software designer has certified that the software meets all procedures and detailed methods for calculating energy and power consumption and costs as required by the Secretary,
 
@@ -156,12 +156,12 @@ This section shall not apply with respect to property placed in service after De
 
 #### Amendments ####
 
-**2008**—Subsec. (h). Pub. L. 110–343 substituted “December 31, 2013” for “December 31, 2008”.
+**2008**—Subsec. (h). Pub. L. 110–343 substituted "December 31, 2013" for "December 31, 2008".
 
-**2006**—Subsec. (h). Pub. L. 109–432 substituted “2008” for “2007”.
+**2006**—Subsec. (h). Pub. L. 109–432 substituted "2008" for "2007".
 
 #### Effective Date ####
 
-Pub. L. 109–58, title XIII, §1331(d), Aug. 8, 2005, 119 Stat. 1024, provided that: “The amendments made by this section [enacting this section and amending sections 263, 312, 1016, 1245, and 1250 of this title] shall apply to property placed in service after December 31, 2005.”
+Pub. L. 109–58, title XIII, §1331(d), Aug. 8, 2005, 119 Stat. 1024, provided that: "The amendments made by this section [enacting this section and amending sections 263, 312, 1016, 1245, and 1250 of this title] shall apply to property placed in service after December 31, 2005."
 
 [<sup>1</sup> So in original.](#179D_1)

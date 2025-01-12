@@ -56,4 +56,4 @@ Penalties collected under this section shall be available to the Secretary and w
 
 [<sup>1</sup> So in original. Following provisions probably should be set flush with par. (2).](#470aaa-6_1)
 
-[<sup>2</sup> So in original. Probably should be “is”.](#470aaa-6_2)
+[<sup>2</sup> So in original. Probably should be "is".](#470aaa-6_2)

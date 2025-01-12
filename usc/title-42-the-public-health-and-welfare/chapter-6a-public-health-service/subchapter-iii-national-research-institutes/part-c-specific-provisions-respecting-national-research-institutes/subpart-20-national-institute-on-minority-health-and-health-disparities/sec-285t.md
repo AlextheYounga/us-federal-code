@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-The general purpose of the National Institute on Minority Health and Health Disparities (in this subpart referred to as the “Institute”) is the conduct and support of research, training, dissemination of information, and other programs with respect to minority health conditions and other populations with health disparities.
+The general purpose of the National Institute on Minority Health and Health Disparities (in this subpart referred to as the "Institute") is the conduct and support of research, training, dissemination of information, and other programs with respect to minority health conditions and other populations with health disparities.
 
 #### (b) Priorities ####
 
@@ -12,9 +12,9 @@ The Director of the Institute shall in expending amounts appropriated under this
 
 For purposes of this subpart:
 
-(1) The term “minority health disparities research” means basic, clinical, and behavioral research on minority health conditions (as defined in paragraph (2)), including research to prevent, diagnose, and treat such conditions.
+(1) The term "minority health disparities research" means basic, clinical, and behavioral research on minority health conditions (as defined in paragraph (2)), including research to prevent, diagnose, and treat such conditions.
 
-(2) The term “minority health conditions”, with respect to individuals who are members of minority groups, means all diseases, disorders, and conditions (including with respect to mental health and substance abuse)—
+(2) The term "minority health conditions", with respect to individuals who are members of minority groups, means all diseases, disorders, and conditions (including with respect to mental health and substance abuse)—
 
 (A) unique to, more serious, or more prevalent in such individuals;
 
@@ -22,9 +22,9 @@ For purposes of this subpart:
 
 (C) with respect to which there has been insufficient research involving such individuals as subjects or insufficient data on such individuals.
 
-(3) The term “minority group” has the meaning given the term “racial and ethnic minority group” in section 300u–6 of this title.
+(3) The term "minority group" has the meaning given the term "racial and ethnic minority group" in section 300u–6 of this title.
 
-(4) The terms “minority” and “minorities” refer to individuals from a minority group.
+(4) The terms "minority" and "minorities" refer to individuals from a minority group.
 
 #### (d) Health disparity populations ####
 
@@ -34,7 +34,7 @@ For purposes of this subpart:
 
 (2) The Director shall give priority consideration to determining whether minority groups qualify as health disparity populations under paragraph (1).
 
-(3) The term “health disparities research” means basic, clinical, and behavioral research on health disparity populations (including individual members and communities of such populations) that relates to health disparities as defined under paragraph (1), including the causes of such disparities and methods to prevent, diagnose, and treat such disparities.
+(3) The term "health disparities research" means basic, clinical, and behavioral research on health disparity populations (including individual members and communities of such populations) that relates to health disparities as defined under paragraph (1), including the causes of such disparities and methods to prevent, diagnose, and treat such disparities.
 
 #### (e) Coordination of activities ####
 
@@ -138,43 +138,43 @@ Section was formerly classified to section 287c–31 of this title prior to renu
 
 #### Amendments ####
 
-**2011**—Subsec. (i)(1). Pub. L. 112–74 substituted “Director of NIH” for “Director of the National Institute for Research Resources” and “283k(c)(2)” for “287a–1(c)(3)” and inserted “under such section” after “Institutions of Emerging Excellence”.
+**2011**—Subsec. (i)(1). Pub. L. 112–74 substituted "Director of NIH" for "Director of the National Institute for Research Resources" and "283k(c)(2)" for "287a–1(c)(3)" and inserted "under such section" after "Institutions of Emerging Excellence".
 
-**2010**—Pub. L. 111–148, §10334(c)(1)(D)(iii), substituted “Institute” for “Center” in section catchline.
+**2010**—Pub. L. 111–148, §10334(c)(1)(D)(iii), substituted "Institute" for "Center" in section catchline.
 
-Subsec. (a). Pub. L. 111–148, §10334(c)(1)(D)(ii), (iii), substituted “National Institute on Minority Health and Health Disparities” for “National Center on Minority Health and Health Disparities” and “Institute” for “Center”.
+Subsec. (a). Pub. L. 111–148, §10334(c)(1)(D)(ii), (iii), substituted "National Institute on Minority Health and Health Disparities" for "National Center on Minority Health and Health Disparities" and "Institute" for "Center".
 
-Subsecs. (b), (d) to (g). Pub. L. 111–148, §10334(c)(1)(D)(iii), substituted “Institute” for “Center” wherever appearing.
+Subsecs. (b), (d) to (g). Pub. L. 111–148, §10334(c)(1)(D)(iii), substituted "Institute" for "Center" wherever appearing.
 
 Subsec. (h). Pub. L. 111–148, §10334(c)(2)(C), added at end subsec. (h) relating to interagency coordination.
 
-Subsec. (h)(1). Pub. L. 111–148, §10334(c)(2)(A), in par. (1) of subsec. (h) relating to research endowments, substituted “research endowments—
+Subsec. (h)(1). Pub. L. 111–148, §10334(c)(2)(A), in par. (1) of subsec. (h) relating to research endowments, substituted "research endowments—
 
-“(1) at centers of excellence under section 293 of this title; and
+"(1) at centers of excellence under section 293 of this title; and
 
-“(2) at centers of excellence under section 285t–1 of this title.”
+"(2) at centers of excellence under section 285t–1 of this title."
 
-for “research endowments at centers of excellence under section 293 of this title.”
+for "research endowments at centers of excellence under section 293 of this title."
 
-Pub. L. 111–148, §10334(c)(1)(D)(iii), in par. (1) of subsec. (h) relating to research endowments, substituted “Institute” for “Center”.
+Pub. L. 111–148, §10334(c)(1)(D)(iii), in par. (1) of subsec. (h) relating to research endowments, substituted "Institute" for "Center".
 
-Subsec. (h)(2). Pub. L. 111–148, §10334(c)(1)(D)(iii), in par. (2) of subsec. (h) relating to research endowments, substituted “Institute” for “Center” in introductory provisions.
+Subsec. (h)(2). Pub. L. 111–148, §10334(c)(1)(D)(iii), in par. (2) of subsec. (h) relating to research endowments, substituted "Institute" for "Center" in introductory provisions.
 
-Subsec. (h)(2)(A). Pub. L. 111–148, §10334(c)(2)(B), in par. (2)(A) of subsec. (h) relating to research endowments, substituted “median” for “average”.
+Subsec. (h)(2)(A). Pub. L. 111–148, §10334(c)(2)(B), in par. (2)(A) of subsec. (h) relating to research endowments, substituted "median" for "average".
 
-Subsecs. (i), (j). Pub. L. 111–148, §10334(c)(1)(D)(iii), substituted “Institute” for “Center” wherever appearing.
+Subsecs. (i), (j). Pub. L. 111–148, §10334(c)(1)(D)(iii), substituted "Institute" for "Center" wherever appearing.
 
-**2007**—Subsec. (k). Pub. L. 109–482, §104(b)(1)(N), struck out heading and text of subsec. (k). Text read as follows: “The Director of the Center shall prepare an annual report on the activities carried out or to be carried out by the Center, and shall submit each such report to the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Commerce of the House of Representatives, the Secretary, and the Director of NIH. With respect to the fiscal year involved, the report shall—
+**2007**—Subsec. (k). Pub. L. 109–482, §104(b)(1)(N), struck out heading and text of subsec. (k). Text read as follows: "The Director of the Center shall prepare an annual report on the activities carried out or to be carried out by the Center, and shall submit each such report to the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Commerce of the House of Representatives, the Secretary, and the Director of NIH. With respect to the fiscal year involved, the report shall—
 
-“(1) describe and evaluate the progress made in health disparities research conducted or supported by the national research institutes;
+"(1) describe and evaluate the progress made in health disparities research conducted or supported by the national research institutes;
 
-“(2) summarize and analyze expenditures made for activities with respect to health disparities research conducted or supported by the National Institutes of Health;
+"(2) summarize and analyze expenditures made for activities with respect to health disparities research conducted or supported by the National Institutes of Health;
 
-“(3) include a separate statement applying the requirements of paragraphs (1) and (2) specifically to minority health disparities research; and
+"(3) include a separate statement applying the requirements of paragraphs (1) and (2) specifically to minority health disparities research; and
 
-“(4) contain such recommendations as the Director considers appropriate.”
+"(4) contain such recommendations as the Director considers appropriate."
 
-Subsec. (l). Pub. L. 109–482, §103(b)(44), struck out heading and text of subsec. (l). Text read as follows: “For the purpose of carrying out this subpart, there are authorized to be appropriated $100,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005. Such authorization of appropriations is in addition to other authorizations of appropriations that are available for the conduct and support of minority health disparities research or other health disparities research by the agencies of the National Institutes of Health.”
+Subsec. (l). Pub. L. 109–482, §103(b)(44), struck out heading and text of subsec. (l). Text read as follows: "For the purpose of carrying out this subpart, there are authorized to be appropriated $100,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005. Such authorization of appropriations is in addition to other authorizations of appropriations that are available for the conduct and support of minority health disparities research or other health disparities research by the agencies of the National Institutes of Health."
 
 #### Effective Date of 2007 Amendment ####
 
@@ -182,45 +182,45 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 
 #### Findings ####
 
-Pub. L. 106–525, §2, Nov. 22, 2000, 114 Stat. 2495, provided that: “The Congress finds as follows:
+Pub. L. 106–525, §2, Nov. 22, 2000, 114 Stat. 2495, provided that: "The Congress finds as follows:
 
-“(1) Despite notable progress in the overall health of the Nation, there are continuing disparities in the burden of illness and death experienced by African Americans, Hispanics, Native Americans, Alaska Natives, and Asian Pacific Islanders, compared to the United States population as a whole.
+"(1) Despite notable progress in the overall health of the Nation, there are continuing disparities in the burden of illness and death experienced by African Americans, Hispanics, Native Americans, Alaska Natives, and Asian Pacific Islanders, compared to the United States population as a whole.
 
-“(2) The largest numbers of the medically underserved are white individuals, and many of them have the same health care access problems as do members of minority groups. Nearly 20,000,000 white individuals live below the poverty line with many living in nonmetropolitan, rural areas such as Appalachia, where the high percentage of counties designated as health professional shortage areas (47 percent) and the high rate of poverty contribute to disparity outcomes. However, there is a higher proportion of racial and ethnic minorities in the United States represented among the medically underserved.
+"(2) The largest numbers of the medically underserved are white individuals, and many of them have the same health care access problems as do members of minority groups. Nearly 20,000,000 white individuals live below the poverty line with many living in nonmetropolitan, rural areas such as Appalachia, where the high percentage of counties designated as health professional shortage areas (47 percent) and the high rate of poverty contribute to disparity outcomes. However, there is a higher proportion of racial and ethnic minorities in the United States represented among the medically underserved.
 
-“(3) There is a national need for minority scientists in the fields of biomedical, clinical, behavioral, and health services research. Ninety percent of minority physicians educated at Historically Black Medical Colleges live and serve in minority communities.
+"(3) There is a national need for minority scientists in the fields of biomedical, clinical, behavioral, and health services research. Ninety percent of minority physicians educated at Historically Black Medical Colleges live and serve in minority communities.
 
-“(4) Demographic trends inspire concern about the Nation's ability to meet its future scientific, technological, and engineering workforce needs. Historically, non-Hispanic white males have made up the majority of the United States scientific, technological, and engineering workers.
+"(4) Demographic trends inspire concern about the Nation's ability to meet its future scientific, technological, and engineering workforce needs. Historically, non-Hispanic white males have made up the majority of the United States scientific, technological, and engineering workers.
 
-“(5) The Hispanic and Black population will increase significantly in the next 50 years. The scientific, technological, and engineering workforce may decrease if participation by underrepresented minorities remains the same.
+"(5) The Hispanic and Black population will increase significantly in the next 50 years. The scientific, technological, and engineering workforce may decrease if participation by underrepresented minorities remains the same.
 
-“(6) Increasing rates of Black and Hispanic workers can help ensure a strong scientific, technological, and engineering workforce.
+"(6) Increasing rates of Black and Hispanic workers can help ensure a strong scientific, technological, and engineering workforce.
 
-“(7) Individuals such as underrepresented minorities and women in the scientific, technological, and engineering workforce enable society to address its diverse needs.
+"(7) Individuals such as underrepresented minorities and women in the scientific, technological, and engineering workforce enable society to address its diverse needs.
 
-“(8) If there had not been a substantial increase in the number of science and engineering degrees awarded to women and underrepresented minorities over the past few decades, the United States would be facing even greater shortages in scientific, technological, and engineering workers.
+"(8) If there had not been a substantial increase in the number of science and engineering degrees awarded to women and underrepresented minorities over the past few decades, the United States would be facing even greater shortages in scientific, technological, and engineering workers.
 
-“(9) In order to effectively promote a diverse and strong 21st century scientific, technological, and engineering workforce, Federal agencies should expand or add programs that effectively overcome barriers such as educational transition from one level to the next and student requirements for financial resources.
+"(9) In order to effectively promote a diverse and strong 21st century scientific, technological, and engineering workforce, Federal agencies should expand or add programs that effectively overcome barriers such as educational transition from one level to the next and student requirements for financial resources.
 
-“(10) Federal agencies should work in concert with the private nonprofit sector to emphasize the recruitment and retention of qualified individuals from ethnic and gender groups that are currently underrepresented in the scientific, technological, and engineering workforce.
+"(10) Federal agencies should work in concert with the private nonprofit sector to emphasize the recruitment and retention of qualified individuals from ethnic and gender groups that are currently underrepresented in the scientific, technological, and engineering workforce.
 
-“(11) Behavioral and social sciences research has increased awareness and understanding of factors associated with health care utilization and access, patient attitudes toward health services, and risk and protective behaviors that affect health and illness. These factors have the potential to then be modified to help close the health disparities gap among ethnic minority populations. In addition, there is a shortage of minority behavioral science researchers and behavioral health care professionals. According to the National Science Foundation, only 15.5 percent of behavioral research-oriented psychology doctorate degrees were awarded to minority students in 1997. In addition, only 17.9 percent of practice-oriented psychology doctorate degrees were awarded to ethnic minorities.”
+"(11) Behavioral and social sciences research has increased awareness and understanding of factors associated with health care utilization and access, patient attitudes toward health services, and risk and protective behaviors that affect health and illness. These factors have the potential to then be modified to help close the health disparities gap among ethnic minority populations. In addition, there is a shortage of minority behavioral science researchers and behavioral health care professionals. According to the National Science Foundation, only 15.5 percent of behavioral research-oriented psychology doctorate degrees were awarded to minority students in 1997. In addition, only 17.9 percent of practice-oriented psychology doctorate degrees were awarded to ethnic minorities."
 
 #### Public Awareness and Dissemination of Information on Health Disparities ####
 
 Pub. L. 106–525, title V, §501, Nov. 22, 2000, 114 Stat. 2510, provided that:
 
-“(a) Public Awareness on Health Disparities.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall conduct a national campaign to inform the public and health care professionals about health disparities in minority and other underserved populations by disseminating information and materials available on specific diseases affecting these populations and programs and activities to address these disparities. The campaign shall—
+"(a) Public Awareness on Health Disparities.—The Secretary of Health and Human Services (in this section referred to as the 'Secretary') shall conduct a national campaign to inform the public and health care professionals about health disparities in minority and other underserved populations by disseminating information and materials available on specific diseases affecting these populations and programs and activities to address these disparities. The campaign shall—
 
-“(1) have a specific focus on minority and other underserved communities with health disparities; and
+"(1) have a specific focus on minority and other underserved communities with health disparities; and
 
-“(2) include an evaluation component to assess the impact of the national campaign in raising awareness of health disparities and information on available resources.
+"(2) include an evaluation component to assess the impact of the national campaign in raising awareness of health disparities and information on available resources.
 
-“(b) Dissemination of Information on Health Disparities.—The Secretary shall develop and implement a plan for the dissemination of information and findings with respect to health disparities under titles I, II, III, and IV of this Act [see Tables for classification]. The plan shall—
+"(b) Dissemination of Information on Health Disparities.—The Secretary shall develop and implement a plan for the dissemination of information and findings with respect to health disparities under titles I, II, III, and IV of this Act [see Tables for classification]. The plan shall—
 
-“(1) include the participation of all agencies of the Department of Health and Human Services that are responsible for serving populations included in the health disparities research; and
+"(1) include the participation of all agencies of the Department of Health and Human Services that are responsible for serving populations included in the health disparities research; and
 
-“(2) have agency-specific strategies for disseminating relevant findings and information on health disparities and improving health care services to affected communities.”
+"(2) have agency-specific strategies for disseminating relevant findings and information on health disparities and improving health care services to affected communities."
 
 #### Termination of Advisory Councils ####
 
@@ -230,9 +230,9 @@ Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under sect
 
 [<sup>1</sup> Another subsec. (h) is set out after subsec. (j).](#285t_1)
 
-[<sup>2</sup> So in original. Probably should be “(A)”.](#285t_2)
+[<sup>2</sup> So in original. Probably should be "(A)".](#285t_2)
 
-[<sup>3</sup> So in original. Probably should be “(B)”.](#285t_3)
+[<sup>3</sup> So in original. Probably should be "(B)".](#285t_3)
 
 [<sup>4</sup> So in original. Another subsec. (h) is set out preceding subsec. (i).](#285t_4)
 

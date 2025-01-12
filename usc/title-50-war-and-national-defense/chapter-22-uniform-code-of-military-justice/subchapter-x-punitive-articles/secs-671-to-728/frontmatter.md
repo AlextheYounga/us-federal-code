@@ -1,6 +1,6 @@
 ### §§671 to 728. Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641 ###
 
-Section 671, act May 5, 1950, ch. 169, §1, 64 Stat. 134, defined “principal”. See section 877 of Title 10, Armed Forces.
+Section 671, act May 5, 1950, ch. 169, §1, 64 Stat. 134, defined "principal". See section 877 of Title 10, Armed Forces.
 
 Section 672, act May 5, 1950, ch. 169, §1, 64 Stat. 134, related to accessories after the fact. See section 878 of Title 10.
 

@@ -40,7 +40,7 @@ Section 282(b)(6) of this title, referred to in subsec. (b), was redesignated se
 
 #### Amendments ####
 
-**2007**—Subsec. (a)(2). Pub. L. 109–482 substituted “sections 282(b)(16)” for “sections 282(b)(6)” in concluding provisions.
+**2007**—Subsec. (a)(2). Pub. L. 109–482 substituted "sections 282(b)(16)" for "sections 282(b)(6)" in concluding provisions.
 
 **1993**—Subsec. (c). Pub. L. 103–43 added subsec. (c).
 

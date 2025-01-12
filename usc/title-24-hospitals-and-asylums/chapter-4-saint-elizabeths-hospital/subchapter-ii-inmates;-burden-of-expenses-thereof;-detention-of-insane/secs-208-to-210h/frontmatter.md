@@ -18,7 +18,7 @@ Section 210e, act Oct. 11, 1949, ch. 672, §5, 63 Stat. 761, related to examinat
 
 Section 210f, act Oct. 11, 1949, ch. 672, §6, 63 Stat. 761, related to transfer of military personnel apprehended or detained.
 
-Section 210g, act Oct. 11, 1949, ch. 672, §7, 63 Stat. 761, related to persons entitled to care and treatment in a Veterans’ Administration facility.
+Section 210g, act Oct. 11, 1949, ch. 672, §7, 63 Stat. 761, related to persons entitled to care and treatment in a Veterans' Administration facility.
 
 Section 210h, act Oct. 11, 1949, ch. 672, §8, 63 Stat. 761, related to payment of expenses of transfer to state hospitals or to the custody of relatives.
 

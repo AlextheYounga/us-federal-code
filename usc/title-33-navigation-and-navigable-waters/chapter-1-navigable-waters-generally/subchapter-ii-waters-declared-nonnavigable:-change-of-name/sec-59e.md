@@ -12,4 +12,4 @@ The provisions of the Acts of August 30, 1935 (49 Stat. 1028) and July 14, 1960 
 
 #### Portion of Bayou Lafourche Declared To Be Navigable Waterway ####
 
-Pub. L. 101–595, title III, §314, Nov. 16, 1990, 104 Stat. 2987, provided that: “Bayou Lafourche, in the State of Louisiana, between the Percy Brown Road (Hwy 648), city of Thibodaux, parish of Lafourche, and the Southern Pacific Railroad bridge crossing the bayou, city of Thibodaux, parish of Lafourche, is declared to be navigable waterway of the United States under chapter 11 of title 33, United States Code.”
+Pub. L. 101–595, title III, §314, Nov. 16, 1990, 104 Stat. 2987, provided that: "Bayou Lafourche, in the State of Louisiana, between the Percy Brown Road (Hwy 648), city of Thibodaux, parish of Lafourche, and the Southern Pacific Railroad bridge crossing the bayou, city of Thibodaux, parish of Lafourche, is declared to be navigable waterway of the United States under chapter 11 of title 33, United States Code."

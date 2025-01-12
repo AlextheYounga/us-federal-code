@@ -14,35 +14,35 @@ In the case of the demolition of any structure—
 
 #### Amendments ####
 
-**1984**—Pub. L. 98–369 struck out “certain historic” before “structures” in section catchline, struck out heading “(a) General rule”, substituted “In the case of the demolition of any structure” for “In the case of the demolition of a certified historic structure (as defined in 48(g)(3)(A))” in text, and struck out subsecs. (b) and (c) which contained provisions relating to a special rule for registered historic districts and to the application of this section, respectively.
+**1984**—Pub. L. 98–369 struck out "certain historic" before "structures" in section catchline, struck out heading "(a) General rule", substituted "In the case of the demolition of any structure" for "In the case of the demolition of a certified historic structure (as defined in 48(g)(3)(A))" in text, and struck out subsecs. (b) and (c) which contained provisions relating to a special rule for registered historic districts and to the application of this section, respectively.
 
-**1981**—Subsec. (a). Pub. L. 97–34, §212(d)(2)(C)(i), substituted “48(g)(3)(A)” for “section 191(d)(1)” in provisions preceding par. (1).
+**1981**—Subsec. (a). Pub. L. 97–34, §212(d)(2)(C)(i), substituted "48(g)(3)(A)" for "section 191(d)(1)" in provisions preceding par. (1).
 
-Subsec. (b). Pub. L. 97–34, §212(d)(2)(C)(ii), substituted “section 48(g)(3)(B)” for “section 191(d)(2)”.
+Subsec. (b). Pub. L. 97–34, §212(d)(2)(C)(ii), substituted "section 48(g)(3)(B)" for "section 191(d)(2)".
 
 **1980**—Subsec. (c). Pub. L. 96–541 added subsec. (c).
 
-**1978**—Subsec. (b). Pub. L. 95–600 substituted “registered historic district (as defined in section 191(d)(2))” for “Registered Historic District” and “Secretary of the Interior has certified that such structure is not a certified historic structure, and that such structure is not of historic significance to the district, and if such certification occurs after the beginning of the demolition of such structure, the taxpayer has certified to the Secretary that, at the time of such demolition, he in good faith was not aware of the certification requirement by the Secretary of the Interior” for “Secretary of the Interior has certified, prior to the demolition of such structure, that such structure is not of historic significance to the district”.
+**1978**—Subsec. (b). Pub. L. 95–600 substituted "registered historic district (as defined in section 191(d)(2))" for "Registered Historic District" and "Secretary of the Interior has certified that such structure is not a certified historic structure, and that such structure is not of historic significance to the district, and if such certification occurs after the beginning of the demolition of such structure, the taxpayer has certified to the Secretary that, at the time of such demolition, he in good faith was not aware of the certification requirement by the Secretary of the Interior" for "Secretary of the Interior has certified, prior to the demolition of such structure, that such structure is not of historic significance to the district".
 
 #### Effective Date of 1984 Amendment ####
 
 Pub. L. 98–369, div. A, title X, §1063(c), July 18, 1984, 98 Stat. 1047, as amended by Pub. L. 99–514, title XVIII, §1878(h), Oct. 22, 1986, 100 Stat. 2904, provided that:
 
-“(1) The amendments made by this section [amending this section] shall apply to taxable years ending after December 31, 1983, but shall not apply to any demolition (other than of a certified historic structure) commencing before July 19, 1984.
+"(1) The amendments made by this section [amending this section] shall apply to taxable years ending after December 31, 1983, but shall not apply to any demolition (other than of a certified historic structure) commencing before July 19, 1984.
 
-“(2) For purposes of paragraph (1), if a demolition is delayed until the completion of the replacement structure on the same site, the demolition shall be treated as commencing when construction of the replacement structure commences.
+"(2) For purposes of paragraph (1), if a demolition is delayed until the completion of the replacement structure on the same site, the demolition shall be treated as commencing when construction of the replacement structure commences.
 
-“(3) The amendments made by this section [amending this section] shall not apply to any demolition commencing before September 1, 1984, pursuant to a bank headquarters building project if—
+"(3) The amendments made by this section [amending this section] shall not apply to any demolition commencing before September 1, 1984, pursuant to a bank headquarters building project if—
 
-“(A) on April 1, 1984, a corporation was retained to advise the bank on the final completion of the project, and
+"(A) on April 1, 1984, a corporation was retained to advise the bank on the final completion of the project, and
 
-“(B) on June 12, 1984, the Comptroller of the Currency approved the project.
+"(B) on June 12, 1984, the Comptroller of the Currency approved the project.
 
-“(4) The amendments made by this section shall not apply to the remaining adjusted basis at the time of demolition of any structure if—
+"(4) The amendments made by this section shall not apply to the remaining adjusted basis at the time of demolition of any structure if—
 
-“(A) such structure was used in the manufacture, storage, or distribution of lead alkyl antiknock products and intermediate and related products at facilities located in or near Baton Rouge, Louisiana, and Houston, Texas, owned by the same corporation, and
+"(A) such structure was used in the manufacture, storage, or distribution of lead alkyl antiknock products and intermediate and related products at facilities located in or near Baton Rouge, Louisiana, and Houston, Texas, owned by the same corporation, and
 
-“(B) demolition of at least one such structure at the Baton Rouge facility commenced before January 1, 1984.”
+"(B) demolition of at least one such structure at the Baton Rouge facility commenced before January 1, 1984."
 
 #### Effective Date of 1981 Amendment ####
 

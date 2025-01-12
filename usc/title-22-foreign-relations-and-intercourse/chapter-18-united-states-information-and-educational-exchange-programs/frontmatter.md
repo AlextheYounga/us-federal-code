@@ -18,7 +18,7 @@ Sec.
 
 1437. Utilization of private agencies.
 
-1438. Veterans’ preference.
+1438. Veterans' preference.
 
 1439 to 1441. Repealed or Omitted.
 

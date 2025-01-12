@@ -16,7 +16,7 @@ Sec.
 
 667. Annual reports.
 
-668. “Hydraulic mining” and “mining by hydraulic process” defined.
+668. "Hydraulic mining" and "mining by hydraulic process" defined.
 
 669. Petition by hydraulic miners.
 
@@ -46,7 +46,7 @@ Sec.
 
 682. Malicious injury to works; injury to navigable waters by hydraulic mining; penalty.
 
-683. Tax on operation of hydraulic mines; “debris fund”; advances by mine owners; storage for water and use of outlet facilities.
+683. Tax on operation of hydraulic mines; "debris fund"; advances by mine owners; storage for water and use of outlet facilities.
 
 684. Cooperation by commission with State authorities.
 

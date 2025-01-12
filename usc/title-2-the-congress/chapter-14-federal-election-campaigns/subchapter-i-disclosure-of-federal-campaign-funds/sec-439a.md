@@ -70,11 +70,11 @@ Paragraphs (1) and (2) do not apply to a flight on an aircraft owned or leased b
 
 #### (B) Immediate family member defined ####
 
-In this subparagraph (A), the term “immediate family member” means, with respect to a candidate, a father, mother, son, daughter, brother, sister, husband, wife, father-in-law, or mother-in-law.
+In this subparagraph (A), the term "immediate family member" means, with respect to a candidate, a father, mother, son, daughter, brother, sister, husband, wife, father-in-law, or mother-in-law.
 
 #### (4) Leadership PAC defined ####
 
-In this subsection, the term “leadership PAC” has the meaning given such term in section 434(i)(8)(B) of this title.
+In this subsection, the term "leadership PAC" has the meaning given such term in section 434(i)(8)(B) of this title.
 
 (Pub. L. 92–225, title III, §313, as added Pub. L. 107–155, title III, §301, Mar. 27, 2002, 116 Stat. 95; amended Pub. L. 108–447, div. H, title V, §532, Dec. 8, 2004, 118 Stat. 3272; Pub. L. 110–81, title VI, §601(a), Sept. 14, 2007, 121 Stat. 774.)
 
@@ -98,7 +98,7 @@ Another prior section 313 of Pub. L. 92–225 was renumbered section 308, and is
 
 #### Effective Date of 2007 Amendment ####
 
-Pub. L. 110–81, title VI, §601(b), Sept. 14, 2007, 121 Stat. 775, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to flights taken on or after the date of the enactment of this Act [Sept. 14, 2007].”
+Pub. L. 110–81, title VI, §601(b), Sept. 14, 2007, 121 Stat. 775, provided that: "The amendment made by subsection (a) [amending this section] shall apply with respect to flights taken on or after the date of the enactment of this Act [Sept. 14, 2007]."
 
 #### Effective Date ####
 

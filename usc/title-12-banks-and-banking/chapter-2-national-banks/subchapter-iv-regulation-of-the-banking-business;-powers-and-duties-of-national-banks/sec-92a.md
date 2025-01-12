@@ -24,7 +24,7 @@ In the event of the failure of such bank the owners of the funds held in trust f
 
 Whenever the laws of a State require corporations acting in a fiduciary capacity to deposit securities with the State authorities for the protection of private or court trusts, national banks so acting shall be required to make similar deposits and securities so deposited shall be held for the protection of private or court trusts, as provided by the State law. National banks in such cases shall not be required to execute the bond usually required of individuals if State corporations under similar circumstances are exempt from this requirement. National banks shall have power to execute such bond when so required by the laws of the State.
 
-#### (g) Officials’ oath or affidavit ####
+#### (g) Officials' oath or affidavit ####
 
 In any case in which the laws of a State require that a corporation acting as trustee, executor, administrator, or in any capacity specified in this section, shall take an oath or make an affidavit, the president, vice president, cashier, or trust officer of such national bank may take the necessary oath or execute the necessary affidavit.
 
@@ -54,16 +54,16 @@ Any national banking association desiring to surrender its right to exercise the
 
 #### Amendments ####
 
-**2012**—Subsec. (a). Pub. L. 112–231, §2(b)(1)(A), struck out “committee of estates of lunatics,” before “or in any other fiduciary capacity”.
+**2012**—Subsec. (a). Pub. L. 112–231, §2(b)(1)(A), struck out "committee of estates of lunatics," before "or in any other fiduciary capacity".
 
-Subsec. (j). Pub. L. 112–231, §2(b)(1)(B), struck out “committee of estates of lunatics” before “or other fiduciary, under court, private,”.
+Subsec. (j). Pub. L. 112–231, §2(b)(1)(B), struck out "committee of estates of lunatics" before "or other fiduciary, under court, private,".
 
 **1980**—Subsec. (k). Pub. L. 96–221 added subsec. (k).
 
 #### Savings Provision ####
 
-Pub. L. 87–722, §2, Sept. 28, 1962, 76 Stat. 669, provided that: “Nothing contained in this Act [enacting this section, amending sections 581 and 584(a)(2) of Title 26, and repealing section 248(k) of this title] shall be deemed to affect or curtail the right of any national bank to act in fiduciary capacities under a permit granted before the date of enactment of this Act [Sept. 28, 1962] by the Board of Governors of the Federal Reserve System, nor to affect the validity of any transactions entered into at any time by any national bank pursuant to such permit. On and after the date of enactment of this Act the exercise of fiduciary powers by national banks shall be subject to the provisions of this Act and the requirements of regulations issued by the Comptroller of the Currency pursuant to the authority granted by this Act.”
+Pub. L. 87–722, §2, Sept. 28, 1962, 76 Stat. 669, provided that: "Nothing contained in this Act [enacting this section, amending sections 581 and 584(a)(2) of Title 26, and repealing section 248(k) of this title] shall be deemed to affect or curtail the right of any national bank to act in fiduciary capacities under a permit granted before the date of enactment of this Act [Sept. 28, 1962] by the Board of Governors of the Federal Reserve System, nor to affect the validity of any transactions entered into at any time by any national bank pursuant to such permit. On and after the date of enactment of this Act the exercise of fiduciary powers by national banks shall be subject to the provisions of this Act and the requirements of regulations issued by the Comptroller of the Currency pursuant to the authority granted by this Act."
 
-[<sup>1</sup> So in original. Probably should be “enumerated”.](#92a_1)
+[<sup>1</sup> So in original. Probably should be "enumerated".](#92a_1)
 
-[<sup>2</sup> So in original. Probably should be “executor,”.](#92a_2)
+[<sup>2</sup> So in original. Probably should be "executor,".](#92a_2)

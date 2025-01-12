@@ -22,7 +22,7 @@ Sec.
 
 #### Part C—Residential Energy Efficiency Programs ####
 
-8235. “Residential building” defined.
+8235. "Residential building" defined.
 
 8235a. Approval of plans for prototype residential energy efficiency programs and provision of financial assistance for such programs.
 
@@ -118,7 +118,7 @@ Sec.
 
 #### Part C—Federal Photovoltaic Utilization ####
 
-8271. “Federal facility” and “Secretary” defined.
+8271. "Federal facility" and "Secretary" defined.
 
 8272. Photovoltaic energy program.
 

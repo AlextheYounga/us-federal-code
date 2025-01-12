@@ -6,7 +6,7 @@ The Secretary of Transportation is authorized whenever he shall deem it advisabl
 
 #### Codification ####
 
-Section is based on last paragraph under heading “FOR LIFE-SAVING AND LIFE-BOAT STATIONS” of act Mar. 3, 1875, ch. 130, 18 Stat. 372, insofar as such paragraph provided for the right to use and occupy sites for pier-head beacons. Provisions of such paragraph relating to the right to use and occupy sites for Coast Guard Stations and houses of refuge were classified to section 96 of former Title 14, Coast Guard, and were repealed by act Aug. 4, 1949, ch. 393, §20, 63 Stat. 561, and restated as section 92(f) of Title 14, Coast Guard.
+Section is based on last paragraph under heading "FOR LIFE-SAVING AND LIFE-BOAT STATIONS" of act Mar. 3, 1875, ch. 130, 18 Stat. 372, insofar as such paragraph provided for the right to use and occupy sites for pier-head beacons. Provisions of such paragraph relating to the right to use and occupy sites for Coast Guard Stations and houses of refuge were classified to section 96 of former Title 14, Coast Guard, and were repealed by act Aug. 4, 1949, ch. 393, §20, 63 Stat. 561, and restated as section 92(f) of Title 14, Coast Guard.
 
 #### Transfer of Functions ####
 

@@ -6,7 +6,7 @@ Except as provided in this section, a Roth IRA shall be treated for purposes of 
 
 #### (b) Roth IRA ####
 
-For purposes of this title, the term “Roth IRA” means an individual retirement plan (as defined in section 7701(a)(37)) which is designated (in such manner as the Secretary may prescribe) at the time of establishment of the plan as a Roth IRA. Such designation shall be made in such manner as the Secretary may prescribe.
+For purposes of this title, the term "Roth IRA" means an individual retirement plan (as defined in section 7701(a)(37)) which is designated (in such manner as the Secretary may prescribe) at the time of establishment of the plan as a Roth IRA. Such designation shall be made in such manner as the Secretary may prescribe.
 
 #### (c) Treatment of contributions ####
 
@@ -62,7 +62,7 @@ In the case of any taxable year beginning in a calendar year after 2006, the dol
 
 (i) such dollar amount, multiplied by
 
-(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2005” for “calendar year 1992” in subparagraph (B) thereof.
+(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2005" for "calendar year 1992" in subparagraph (B) thereof.
 
 Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $1,000.
 
@@ -106,7 +106,7 @@ For purposes of this subsection—
 
 #### (A) In general ####
 
-The term “qualified distribution” means any payment or distribution—
+The term "qualified distribution" means any payment or distribution—
 
 (i) made on or after the date on which the individual attains age 59½,
 
@@ -122,7 +122,7 @@ A payment or distribution from a Roth IRA shall not be treated as a qualified di
 
 #### (C) Distributions of excess contributions and earnings ####
 
-The term “qualified distribution” shall not include any distribution of any contribution described in section 408(d)(4) and any net income allocable to the contribution.
+The term "qualified distribution" shall not include any distribution of any contribution described in section 408(d)(4) and any net income allocable to the contribution.
 
 #### (3) Rollovers from an eligible retirement plan other than a Roth IRA ####
 
@@ -212,7 +212,7 @@ Any distribution allocated to a qualified rollover contribution under clause (ii
 
 #### (5) Qualified special purpose distribution ####
 
-For purposes of this section, the term “qualified special purpose distribution” means any distribution to which subparagraph (F) of section 72(t)(2) applies.
+For purposes of this section, the term "qualified special purpose distribution" means any distribution to which subparagraph (F) of section 72(t)(2) applies.
 
 #### (6) Taxpayer may make adjustments before due date ####
 
@@ -240,7 +240,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “qualified rollover contribution” means a rollover contribution—
+The term "qualified rollover contribution" means a rollover contribution—
 
 (A) to a Roth IRA from another such account,
 
@@ -256,7 +256,7 @@ For purposes of section 408(d)(3)(B), there shall be disregarded any qualified r
 
 #### (A) In general ####
 
-The term “qualified rollover contribution” includes a contribution to a Roth IRA maintained for the benefit of an individual made before the end of the 1-year period beginning on the date on which such individual receives an amount under section 1477 of title 10, United States Code, or section 1967 of title 38 of such Code, with respect to a person, to the extent that such contribution does not exceed—
+The term "qualified rollover contribution" includes a contribution to a Roth IRA maintained for the benefit of an individual made before the end of the 1-year period beginning on the date on which such individual receives an amount under section 1477 of title 10, United States Code, or section 1967 of title 38 of such Code, with respect to a person, to the extent that such contribution does not exceed—
 
 (i) the sum of the amounts received during such period by such individual under such sections with respect to such person, reduced by
 
@@ -286,115 +286,115 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 #### Amendments ####
 
-**2008**—Subsec. (c)(3)(B). Pub. L. 110–458, §108(d)(1), in introductory provisions, struck out second “an” before “eligible” and “other than a Roth IRA” before “during any taxable year”, and inserted as concluding provisions “This subparagraph shall not apply to a qualified rollover contribution from a Roth IRA or to a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A).”
+**2008**—Subsec. (c)(3)(B). Pub. L. 110–458, §108(d)(1), in introductory provisions, struck out second "an" before "eligible" and "other than a Roth IRA" before "during any taxable year", and inserted as concluding provisions "This subparagraph shall not apply to a qualified rollover contribution from a Roth IRA or to a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A)."
 
 Subsec. (c)(3)(C), (E). Pub. L. 110–458, §108(h)(1), redesignated subpar. (C) relating to inflation adjustment as subpar. (E).
 
-Subsec. (d)(3)(B). Pub. L. 110–458, §108(d)(2), struck out “(other than a Roth IRA)” after “section 402(c)(8)(B))” and inserted at end “This paragraph shall not apply to a distribution which is a qualified rollover contribution from a Roth IRA or a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A)”.
+Subsec. (d)(3)(B). Pub. L. 110–458, §108(d)(2), struck out "(other than a Roth IRA)" after "section 402(c)(8)(B))" and inserted at end "This paragraph shall not apply to a distribution which is a qualified rollover contribution from a Roth IRA or a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A)".
 
-Subsec. (e). Pub. L. 110–245, §109(b), amended subsec. (e), as in effect after amendment by section 824(a) of Pub. L. 109–280, by amending text generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘qualified rollover contribution’ means a rollover contribution—
+Subsec. (e). Pub. L. 110–245, §109(b), amended subsec. (e), as in effect after amendment by section 824(a) of Pub. L. 109–280, by amending text generally. Prior to amendment, text read as follows: "For purposes of this section, the term 'qualified rollover contribution' means a rollover contribution—
 
-“(1) to a Roth IRA from another such account,
+"(1) to a Roth IRA from another such account,
 
-“(2) from an eligible retirement plan, but only if—
+"(2) from an eligible retirement plan, but only if—
 
-“(A) in the case of an individual retirement plan, such rollover contribution meets the requirements of section 408(d)(3), and
+"(A) in the case of an individual retirement plan, such rollover contribution meets the requirements of section 408(d)(3), and
 
-“(B) in the case of any eligible retirement plan (as defined in section 402(c)(8)(B) other than clauses (i) and (ii) thereof), such rollover contribution meets the requirements of section 402(c), 403(b)(8), or 457(e)(16), as applicable.
+"(B) in the case of any eligible retirement plan (as defined in section 402(c)(8)(B) other than clauses (i) and (ii) thereof), such rollover contribution meets the requirements of section 402(c), 403(b)(8), or 457(e)(16), as applicable.
 
-For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA.”
+For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA."
 
-Pub. L. 110–245, §109(a), amended subsec. (e), as in effect before amendment by section 824(a) of Pub. L. 109–280, by reenacting heading without change and amending text to read as follows: “For purposes of this section—
+Pub. L. 110–245, §109(a), amended subsec. (e), as in effect before amendment by section 824(a) of Pub. L. 109–280, by reenacting heading without change and amending text to read as follows: "For purposes of this section—
 
-“(1) In general.—The term ‘qualified rollover contribution’ means a rollover contribution to a Roth IRA from another such account, or from an individual retirement plan, but only if such rollover contribution meets the requirements of section 408(d)(3). Such term includes a rollover contribution described in section 402A(c)(3)(A). For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA.
+"(1) In general.—The term 'qualified rollover contribution' means a rollover contribution to a Roth IRA from another such account, or from an individual retirement plan, but only if such rollover contribution meets the requirements of section 408(d)(3). Such term includes a rollover contribution described in section 402A(c)(3)(A). For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA.
 
-“(2) Military death gratuity.—
+"(2) Military death gratuity.—
 
-“(A) In general.—The term ‘qualified rollover contribution’ includes a contribution to a Roth IRA maintained for the benefit of an individual made before the end of the 1-year period beginning on the date on which such individual receives an amount under section 1477 of title 10, United States Code, or section 1967 of title 38 of such Code, with respect to a person, to the extent that such contribution does not exceed—
+"(A) In general.—The term 'qualified rollover contribution' includes a contribution to a Roth IRA maintained for the benefit of an individual made before the end of the 1-year period beginning on the date on which such individual receives an amount under section 1477 of title 10, United States Code, or section 1967 of title 38 of such Code, with respect to a person, to the extent that such contribution does not exceed—
 
-“(i) the sum of the amounts received during such period by such individual under such sections with respect to such person, reduced by
+"(i) the sum of the amounts received during such period by such individual under such sections with respect to such person, reduced by
 
-“(ii) the amounts so received which were contributed to a Coverdell education savings account under section 530(d)(9).
+"(ii) the amounts so received which were contributed to a Coverdell education savings account under section 530(d)(9).
 
-“(B) Annual limit on number of rollovers not to apply.—Section 408(d)(3)(B) shall not apply with respect to amounts treated as a rollover by subparagraph (A).
+"(B) Annual limit on number of rollovers not to apply.—Section 408(d)(3)(B) shall not apply with respect to amounts treated as a rollover by subparagraph (A).
 
-“(C) Application of section 72.—For purposes of applying section 72 in the case of a distribution which is not a qualified distribution, the amount treated as a rollover by reason of subparagraph (A) shall be treated as investment in the contract.” See 2006 Amendment note below.
+"(C) Application of section 72.—For purposes of applying section 72 in the case of a distribution which is not a qualified distribution, the amount treated as a rollover by reason of subparagraph (A) shall be treated as investment in the contract." See 2006 Amendment note below.
 
-**2006**—Subsec. (c)(3)(B). Pub. L. 109–222, §512(a)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “A taxpayer shall not be allowed to make a qualified rollover contribution to a Roth IRA from an individual retirement plan other than a Roth IRA during any taxable year if, for the taxable year of the distribution to which such contribution relates—
+**2006**—Subsec. (c)(3)(B). Pub. L. 109–222, §512(a)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text read as follows: "A taxpayer shall not be allowed to make a qualified rollover contribution to a Roth IRA from an individual retirement plan other than a Roth IRA during any taxable year if, for the taxable year of the distribution to which such contribution relates—
 
-“(i) the taxpayer's adjusted gross income exceeds $100,000, or
+"(i) the taxpayer's adjusted gross income exceeds $100,000, or
 
-“(ii) the taxpayer is a married individual filing a separate return.
+"(ii) the taxpayer is a married individual filing a separate return.
 
-This subparagraph shall not apply to a qualified rollover contribution from a Roth IRA or to a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A).” See Effective Date of 2006 Amendment note below.
+This subparagraph shall not apply to a qualified rollover contribution from a Roth IRA or to a qualified rollover contribution from a designated Roth account which is a rollover contribution described in section 402A(c)(3)(A)." See Effective Date of 2006 Amendment note below.
 
-Pub. L. 109–280, §824(b)(1), substituted “eligible retirement plan” for “IRA” in heading and “an eligible retirement plan (as defined by section 402(c)(8)(B))” for “individual retirement plan” in introductory provisions. See Effective Date of 2006 Amendment note below.
+Pub. L. 109–280, §824(b)(1), substituted "eligible retirement plan" for "IRA" in heading and "an eligible retirement plan (as defined by section 402(c)(8)(B))" for "individual retirement plan" in introductory provisions. See Effective Date of 2006 Amendment note below.
 
-Subsec. (c)(3)(B)(i). Pub. L. 109–222, §512(a)(2), substituted “except that any amount included in gross income under subsection (d)(3) shall not be taken into account, and” for “except that—
+Subsec. (c)(3)(B)(i). Pub. L. 109–222, §512(a)(2), substituted "except that any amount included in gross income under subsection (d)(3) shall not be taken into account, and" for "except that—
 
-“(I) any amount included in gross income under subsection (d)(3) shall not be taken into account; and
+"(I) any amount included in gross income under subsection (d)(3) shall not be taken into account; and
 
-“(II) any amount included in gross income by reason of a required distribution under a provision described in paragraph (5) shall not be taken into account for purposes of subparagraph (B)(i), and”.
+"(II) any amount included in gross income by reason of a required distribution under a provision described in paragraph (5) shall not be taken into account for purposes of subparagraph (B)(i), and".
 
 Subsec. (c)(3)(C). Pub. L. 109–222, §512(a)(1), redesignated subpar. (D), relating to marital status, as (C). Former subpar. (C) redesignated (B). See Effective Date of 2006 Amendment note below.
 
 Pub. L. 109–280, §833(c), added subpar. (C) relating to inflation adjustment.
 
-Subsec. (c)(3)(D), (E). Pub. L. 110–458, §108(h)(2), redesignated subpar. (E) as (D) and substituted “subparagraph (B)(ii)” for “subparagraph (C)(ii)”.
+Subsec. (c)(3)(D), (E). Pub. L. 110–458, §108(h)(2), redesignated subpar. (E) as (D) and substituted "subparagraph (B)(ii)" for "subparagraph (C)(ii)".
 
-Subsec. (d)(3). Pub. L. 109–280, §824(b)(2)(E), substituted “an eligible retirement plan” for “an IRA” in heading.
+Subsec. (d)(3). Pub. L. 109–280, §824(b)(2)(E), substituted "an eligible retirement plan" for "an IRA" in heading.
 
-Subsec. (d)(3)(A). Pub. L. 109–280, §824(b)(2)(A), substituted “sections 402(c), 403(b)(8), 408(d)(3), and 457(e)(16)” for “section 408(d)(3)” in introductory provisions.
+Subsec. (d)(3)(A). Pub. L. 109–280, §824(b)(2)(A), substituted "sections 402(c), 403(b)(8), 408(d)(3), and 457(e)(16)" for "section 408(d)(3)" in introductory provisions.
 
-Subsec. (d)(3)(A)(iii). Pub. L. 109–222, §512(b)(1), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “unless the taxpayer elects not to have this clause apply for any taxable year, any amount required to be included in gross income for such taxable year by reason of this paragraph for any distribution before January 1, 1999, shall be so included ratably over the 4-taxable year period beginning with such taxable year.”
+Subsec. (d)(3)(A)(iii). Pub. L. 109–222, §512(b)(1), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "unless the taxpayer elects not to have this clause apply for any taxable year, any amount required to be included in gross income for such taxable year by reason of this paragraph for any distribution before January 1, 1999, shall be so included ratably over the 4-taxable year period beginning with such taxable year."
 
-Subsec. (d)(3)(B). Pub. L. 109–280, §824(b)(2)(B), substituted “eligible retirement plan (as defined by section 402(c)(8)(B))” for “individual retirement plan”.
+Subsec. (d)(3)(B). Pub. L. 109–280, §824(b)(2)(B), substituted "eligible retirement plan (as defined by section 402(c)(8)(B))" for "individual retirement plan".
 
-Subsec. (d)(3)(D). Pub. L. 109–280, §824(b)(2)(C), (D), substituted “persons subject to section 6047(d)(1), or all of the foregoing persons” for “or both” and inserted “or 6047” after “408(i)”.
+Subsec. (d)(3)(D). Pub. L. 109–280, §824(b)(2)(C), (D), substituted "persons subject to section 6047(d)(1), or all of the foregoing persons" for "or both" and inserted "or 6047" after "408(i)".
 
-Subsec. (d)(3)(E). Pub. L. 109–222, §512(b)(2)(B), substituted “2-year” for “4-year” in heading.
+Subsec. (d)(3)(E). Pub. L. 109–222, §512(b)(2)(B), substituted "2-year" for "4-year" in heading.
 
 Subsec. (d)(3)(E)(i). Pub. L. 109–222, §512(b)(2)(A), amended cl. (i) generally. Prior to amendment, text read as follows:
 
-“(I) In general.—The amount required to be included in gross income for each of the first 3 taxable years in the 4-year period under subparagraph (A)(iii) shall be increased by the aggregate distributions from Roth IRAs for such taxable year which are allocable under paragraph (4) to the portion of such qualified rollover contribution required to be included in gross income under subparagraph (A)(i).
+"(I) In general.—The amount required to be included in gross income for each of the first 3 taxable years in the 4-year period under subparagraph (A)(iii) shall be increased by the aggregate distributions from Roth IRAs for such taxable year which are allocable under paragraph (4) to the portion of such qualified rollover contribution required to be included in gross income under subparagraph (A)(i).
 
-“(II) Limitation on aggregate amount included.—The amount required to be included in gross income for any taxable year under subparagraph (A)(iii) shall not exceed the aggregate amount required to be included in gross income under subparagraph (A)(iii) for all taxable years in the 4-year period (without regard to subclause (I)) reduced by amounts included for all preceding taxable years.”
+"(II) Limitation on aggregate amount included.—The amount required to be included in gross income for any taxable year under subparagraph (A)(iii) shall not exceed the aggregate amount required to be included in gross income under subparagraph (A)(iii) for all taxable years in the 4-year period (without regard to subclause (I)) reduced by amounts included for all preceding taxable years."
 
-Subsec. (e). Pub. L. 109–280, §824(a), reenacted heading without change and amended text of subsec. (e) generally. Prior to amendments by Pub. L. 109–280, §824(a), and Pub. L. 110–245, §109(a), text read as follows: “For purposes of this section, the term ‘qualified rollover contribution’ means a rollover contribution to a Roth IRA from another such account, or from an individual retirement plan, but only if such rollover contribution meets the requirements of section 408(d)(3). For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA.” See 2008 Amendment note above.
+Subsec. (e). Pub. L. 109–280, §824(a), reenacted heading without change and amended text of subsec. (e) generally. Prior to amendments by Pub. L. 109–280, §824(a), and Pub. L. 110–245, §109(a), text read as follows: "For purposes of this section, the term 'qualified rollover contribution' means a rollover contribution to a Roth IRA from another such account, or from an individual retirement plan, but only if such rollover contribution meets the requirements of section 408(d)(3). For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA." See 2008 Amendment note above.
 
-**2001**—Subsec. (e). Pub. L. 107–16 inserted “Such term includes a rollover contribution described in section 402A(c)(3)(A).” after first sentence.
+**2001**—Subsec. (e). Pub. L. 107–16 inserted "Such term includes a rollover contribution described in section 402A(c)(3)(A)." after first sentence.
 
-**1998**—Subsec. (c)(3)(A). Pub. L. 105–206, §6005(b)(1), substituted “shall not exceed an amount equal to the amount determined under paragraph (2)(A) for such taxable year, reduced” for “shall be reduced” in introductory provisions.
+**1998**—Subsec. (c)(3)(A). Pub. L. 105–206, §6005(b)(1), substituted "shall not exceed an amount equal to the amount determined under paragraph (2)(A) for such taxable year, reduced" for "shall be reduced" in introductory provisions.
 
-Subsec. (c)(3)(A)(ii). Pub. L. 105–206, §6005(b)(2)(A), inserted “or a married individual filing a separate return” after “joint return”.
+Subsec. (c)(3)(A)(ii). Pub. L. 105–206, §6005(b)(2)(A), inserted "or a married individual filing a separate return" after "joint return".
 
-Subsec. (c)(3)(B). Pub. L. 105–206, §6005(b)(2)(B)(i), inserted “, for the taxable year of the distribution to which such contribution relates” after “if” in introductory provisions.
+Subsec. (c)(3)(B). Pub. L. 105–206, §6005(b)(2)(B)(i), inserted ", for the taxable year of the distribution to which such contribution relates" after "if" in introductory provisions.
 
-Subsec. (c)(3)(B)(i). Pub. L. 105–206, §6005(b)(2)(B)(ii), struck out “for such taxable year” after “gross income”.
+Subsec. (c)(3)(B)(i). Pub. L. 105–206, §6005(b)(2)(B)(ii), struck out "for such taxable year" after "gross income".
 
-Subsec. (c)(3)(C)(i). Pub. L. 105–206, §7004(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “adjusted gross income shall be determined in the same manner as under section 219(g)(3), except that any amount included in gross income under subsection (d)(3) shall not be taken into account, and”.
+Subsec. (c)(3)(C)(i). Pub. L. 105–206, §7004(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "adjusted gross income shall be determined in the same manner as under section 219(g)(3), except that any amount included in gross income under subsection (d)(3) shall not be taken into account, and".
 
-Pub. L. 105–206, §6005(b)(2)(C), struck out “and the deduction under section 219 shall be taken into account” after “taken into account”.
+Pub. L. 105–206, §6005(b)(2)(C), struck out "and the deduction under section 219 shall be taken into account" after "taken into account".
 
-Subsec. (c)(3)(C)(i)(II). Pub. L. 105–277 substituted “, and” for period at end.
+Subsec. (c)(3)(C)(i)(II). Pub. L. 105–277 substituted ", and" for period at end.
 
-Subsec. (d)(1). Pub. L. 105–206, §6005(b)(5)(B), substituted “Exclusion” for “General rules” in heading and amended text generally. Prior to amendment, text read as follows:
+Subsec. (d)(1). Pub. L. 105–206, §6005(b)(5)(B), substituted "Exclusion" for "General rules" in heading and amended text generally. Prior to amendment, text read as follows:
 
-“(A) Exclusions from gross income.—Any qualified distribution from a Roth IRA shall not be includible in gross income.
+"(A) Exclusions from gross income.—Any qualified distribution from a Roth IRA shall not be includible in gross income.
 
-“(B) Nonqualified distributions.—In applying section 72 to any distribution from a Roth IRA which is not a qualified distribution, such distribution shall be treated as made from contributions to the Roth IRA to the extent that such distribution, when added to all previous distributions from the Roth IRA, does not exceed the aggregate amount of contributions to the Roth IRA.”
+"(B) Nonqualified distributions.—In applying section 72 to any distribution from a Roth IRA which is not a qualified distribution, such distribution shall be treated as made from contributions to the Roth IRA to the extent that such distribution, when added to all previous distributions from the Roth IRA, does not exceed the aggregate amount of contributions to the Roth IRA."
 
-Subsec. (d)(2)(B). Pub. L. 105–206, §6005(b)(3)(A), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “A payment or distribution shall not be treated as a qualified distribution under subparagraph (A) if—
+Subsec. (d)(2)(B). Pub. L. 105–206, §6005(b)(3)(A), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: "A payment or distribution shall not be treated as a qualified distribution under subparagraph (A) if—
 
-“(i) it is made within the 5-taxable year period beginning with the 1st taxable year for which the individual made a contribution to a Roth IRA (or such individual's spouse made a contribution to a Roth IRA) established for such individual, or
+"(i) it is made within the 5-taxable year period beginning with the 1st taxable year for which the individual made a contribution to a Roth IRA (or such individual's spouse made a contribution to a Roth IRA) established for such individual, or
 
-“(ii) in the case of a payment or distribution properly allocable (as determined in the manner prescribed by the Secretary) to a qualified rollover contribution from an individual retirement plan other than a Roth IRA (or income allocable thereto), it is made within the 5-taxable year period beginning with the taxable year in which the rollover contribution was made.”
+"(ii) in the case of a payment or distribution properly allocable (as determined in the manner prescribed by the Secretary) to a qualified rollover contribution from an individual retirement plan other than a Roth IRA (or income allocable thereto), it is made within the 5-taxable year period beginning with the taxable year in which the rollover contribution was made."
 
 Subsec. (d)(2)(C). Pub. L. 105–206, §6005(b)(3)(B), added subpar. (C).
 
-Subsec. (d)(3)(A). Pub. L. 105–206, §6005(b)(4)(A), added cl. (iii) and concluding provisions and struck out former cl. (iii) which read as follows: “in the case of a distribution before January 1, 1999, any amount required to be included in gross income by reason of this paragraph shall be so included ratably over the 4-taxable year period beginning with the taxable year in which the payment or distribution is made.”
+Subsec. (d)(3)(A). Pub. L. 105–206, §6005(b)(4)(A), added cl. (iii) and concluding provisions and struck out former cl. (iii) which read as follows: "in the case of a distribution before January 1, 1999, any amount required to be included in gross income by reason of this paragraph shall be so included ratably over the 4-taxable year period beginning with the taxable year in which the payment or distribution is made."
 
-Subsec. (d)(3)(D). Pub. L. 105–206, §6005(b)(6)(B), redesignated subpar. (E) as (D) and struck out heading and text of former subpar. (D). Text read as follows: “If, no later than the due date for filing the return of tax for any taxable year (without regard to extensions), an individual transfers, from an individual retirement plan (other than a Roth IRA), contributions for such taxable year (and any earnings allocable thereto) to a Roth IRA, no such amount shall be includible in gross income to the extent no deduction was allowed with respect to such amount.”
+Subsec. (d)(3)(D). Pub. L. 105–206, §6005(b)(6)(B), redesignated subpar. (E) as (D) and struck out heading and text of former subpar. (D). Text read as follows: "If, no later than the due date for filing the return of tax for any taxable year (without regard to extensions), an individual transfers, from an individual retirement plan (other than a Roth IRA), contributions for such taxable year (and any earnings allocable thereto) to a Roth IRA, no such amount shall be includible in gross income to the extent no deduction was allowed with respect to such amount."
 
 Subsec. (d)(3)(E). Pub. L. 105–206, §6005(b)(6)(B), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
 
@@ -406,7 +406,7 @@ Subsec. (d)(3)(G). Pub. L. 105–206, §6005(b)(6)(B), redesignated subpar. (G) 
 
 Pub. L. 105–206, §6005(b)(4)(B), added subpar. (G).
 
-Subsec. (d)(4). Pub. L. 105–206, §6005(b)(5)(A), substituted “Aggregation and ordering rules” for “Coordination with individual retirement accounts” in heading and amended text generally. Prior to amendment, text read as follows: “Section 408(d)(2) shall be applied separately with respect to Roth IRAs and other individual retirement plans.”
+Subsec. (d)(4). Pub. L. 105–206, §6005(b)(5)(A), substituted "Aggregation and ordering rules" for "Coordination with individual retirement accounts" in heading and amended text generally. Prior to amendment, text read as follows: "Section 408(d)(2) shall be applied separately with respect to Roth IRAs and other individual retirement plans."
 
 Subsec. (d)(6). Pub. L. 105–206, §6005(b)(6)(A), added par. (6).
 
@@ -416,27 +416,27 @@ Subsec. (f). Pub. L. 105–206, §6005(b)(9), added subsec. (f).
 
 #### Effective Date of 2008 Amendment ####
 
-Pub. L. 110–458, title I, §108(h)(2), Dec. 23, 2008, 122 Stat. 5109, amended this section “[i]n the case of taxable years beginning after December 31, 2009”.
+Pub. L. 110–458, title I, §108(h)(2), Dec. 23, 2008, 122 Stat. 5109, amended this section "[i]n the case of taxable years beginning after December 31, 2009".
 
 Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of this title.
 
 Pub. L. 110–245, title I, §109(d), June 17, 2008, 122 Stat. 1633, provided that:
 
-“(1) In general.—Except as provided by paragraphs (2) and (3), the amendments made by this section [amending this section and section 530 of this title] shall apply with respect to deaths from injuries occurring on or after the date of the enactment of this Act [June 17, 2008].
+"(1) In general.—Except as provided by paragraphs (2) and (3), the amendments made by this section [amending this section and section 530 of this title] shall apply with respect to deaths from injuries occurring on or after the date of the enactment of this Act [June 17, 2008].
 
-“(2) Application of amendments to deaths from injuries occurring on or after october 7, 2001, and before enactment.—The amendments made by this section shall apply to any contribution made pursuant to section 408A(e)(2) or 530(d)(5) of the Internal Revenue Code of 1986, as amended by this Act, with respect to amounts received under section 1477 of title 10, United States Code, or under section 1967 of title 38 of such Code, for deaths from injuries occurring on or after October 7, 2001, and before the date of the enactment of this Act if such contribution is made not later than 1 year after the date of the enactment of this Act.
+"(2) Application of amendments to deaths from injuries occurring on or after october 7, 2001, and before enactment.—The amendments made by this section shall apply to any contribution made pursuant to section 408A(e)(2) or 530(d)(5) of the Internal Revenue Code of 1986, as amended by this Act, with respect to amounts received under section 1477 of title 10, United States Code, or under section 1967 of title 38 of such Code, for deaths from injuries occurring on or after October 7, 2001, and before the date of the enactment of this Act if such contribution is made not later than 1 year after the date of the enactment of this Act.
 
-“(3) Pension protection act changes.—Section 408A(e)(1) of the Internal Revenue Code of 1986 (as in effect after the amendments made by subsection (b)) shall apply to taxable years beginning after December 31, 2007.”
+"(3) Pension protection act changes.—Section 408A(e)(1) of the Internal Revenue Code of 1986 (as in effect after the amendments made by subsection (b)) shall apply to taxable years beginning after December 31, 2007."
 
 #### Effective Date of 2006 Amendment ####
 
 Pub. L. 109–280, title VIII, §824(b)(1), Aug. 17, 2006, 120 Stat. 998, provided that the amendment made by section 824(b)(1) amends this section as in effect before the Tax Increase Prevention and Reconciliation Act of 2005, Pub. L. 109–222. See below.
 
-Pub. L. 109–280, title VIII, §824(c), Aug. 17, 2006, 120 Stat. 999, provided that: “The amendments made by this section [amending this section] shall apply to distributions after December 31, 2007.”
+Pub. L. 109–280, title VIII, §824(c), Aug. 17, 2006, 120 Stat. 999, provided that: "The amendments made by this section [amending this section] shall apply to distributions after December 31, 2007."
 
 Amendment by section 833(c) of Pub. L. 109–280 applicable to taxable years beginning after 2006, see section 833(d) of Pub. L. 109–280, set out as a note under section 25B of this title.
 
-Pub. L. 109–222, title V, §512(c), May 17, 2006, 120 Stat. 366, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2009.”
+Pub. L. 109–222, title V, §512(c), May 17, 2006, 120 Stat. 366, provided that: "The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2009."
 
 #### Effective Date of 2001 Amendment ####
 
@@ -448,7 +448,7 @@ Amendment by Pub. L. 105–277 effective as if included in the provision of the 
 
 Amendment by section 6005(b)(1)–(7), (9) of Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
-Pub. L. 105–206, title VII, §7004(b), July 22, 1998, 112 Stat. 833, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2004.”
+Pub. L. 105–206, title VII, §7004(b), July 22, 1998, 112 Stat. 833, provided that: "The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2004."
 
 #### Effective Date ####
 
@@ -458,38 +458,38 @@ Section applicable to taxable years beginning after Dec. 31, 1997, see section 3
 
 Pub. L. 110–458, title I, §125, Dec. 23, 2008, 122 Stat. 5115, provided that:
 
-“(a) General Rule.—If a qualified airline employee receives any airline payment amount and transfers any portion of such amount to a Roth IRA within 180 days of receipt of such amount (or, if later, within 180 days of the date of the enactment of this Act [Dec. 23, 2008]), then such amount (to the extent so transferred) shall be treated as a qualified rollover contribution described in section 408A(e) of the Internal Revenue Code of 1986, and the limitations described in section 408A(c)(3) of such Code shall not apply to any such transfer.
+"(a) General Rule.—If a qualified airline employee receives any airline payment amount and transfers any portion of such amount to a Roth IRA within 180 days of receipt of such amount (or, if later, within 180 days of the date of the enactment of this Act [Dec. 23, 2008]), then such amount (to the extent so transferred) shall be treated as a qualified rollover contribution described in section 408A(e) of the Internal Revenue Code of 1986, and the limitations described in section 408A(c)(3) of such Code shall not apply to any such transfer.
 
-“(b) Definitions and Special Rules.—For purposes of this section—
+"(b) Definitions and Special Rules.—For purposes of this section—
 
-“(1) Airline payment amount.—
+"(1) Airline payment amount.—
 
-“(A) In general.—The term ‘airline payment amount’ means any payment of any money or other property which is payable by a commercial passenger airline carrier to a qualified airline employee—
+"(A) In general.—The term 'airline payment amount' means any payment of any money or other property which is payable by a commercial passenger airline carrier to a qualified airline employee—
 
-“(i) under the approval of an order of a Federal bankruptcy court in a case filed after September 11, 2001, and before January 1, 2007, and
+"(i) under the approval of an order of a Federal bankruptcy court in a case filed after September 11, 2001, and before January 1, 2007, and
 
-“(ii) in respect of the qualified airline employee's interest in a bankruptcy claim against the carrier, any note of the carrier (or amount paid in lieu of a note being issued), or any other fixed obligation of the carrier to pay a lump sum amount.
+"(ii) in respect of the qualified airline employee's interest in a bankruptcy claim against the carrier, any note of the carrier (or amount paid in lieu of a note being issued), or any other fixed obligation of the carrier to pay a lump sum amount.
 
  The amount of such payment shall be determined without regard to any requirement to deduct and withhold tax from such payment under sections 3102(a) and 3402(a).
 
-“(B) Exception.—An airline payment amount shall not include any amount payable on the basis of the carrier's future earnings or profits.
+"(B) Exception.—An airline payment amount shall not include any amount payable on the basis of the carrier's future earnings or profits.
 
-“(2) Qualified airline employee.—The term ‘qualified airline employee’ means an employee or former employee of a commercial passenger airline carrier who was a participant in a defined benefit plan maintained by the carrier which—
+"(2) Qualified airline employee.—The term 'qualified airline employee' means an employee or former employee of a commercial passenger airline carrier who was a participant in a defined benefit plan maintained by the carrier which—
 
-“(A) is a plan described in section 401(a) of the Internal Revenue Code of 1986 which includes a trust exempt from tax under section 501(a) of such Code, and
+"(A) is a plan described in section 401(a) of the Internal Revenue Code of 1986 which includes a trust exempt from tax under section 501(a) of such Code, and
 
-“(B) was terminated or became subject to the restrictions contained in paragraphs (2) and (3) of section 402(b) of the Pension Protection Act of 2006 [Pub. L. 109–280, 26 U.S.C. 430 note].
+"(B) was terminated or became subject to the restrictions contained in paragraphs (2) and (3) of section 402(b) of the Pension Protection Act of 2006 [Pub. L. 109–280, 26 U.S.C. 430 note].
 
-“(3) Reporting requirements.—If a commercial passenger airline carrier pays 1 or more airline payment amounts, the carrier shall, within 90 days of such payment (or, if later, within 90 days of the date of the enactment of this Act [Dec. 23, 2008]), report—
+"(3) Reporting requirements.—If a commercial passenger airline carrier pays 1 or more airline payment amounts, the carrier shall, within 90 days of such payment (or, if later, within 90 days of the date of the enactment of this Act [Dec. 23, 2008]), report—
 
-“(A) to the Secretary of the Treasury, the names of the qualified airline employees to whom such amounts were paid, and
+"(A) to the Secretary of the Treasury, the names of the qualified airline employees to whom such amounts were paid, and
 
-“(B) to the Secretary and to such employees, the years and the amounts of the payments.
+"(B) to the Secretary and to such employees, the years and the amounts of the payments.
 
 Such reports shall be in such form, and contain such additional information, as the Secretary may prescribe.
 
-“(c) Effective Date.—This section shall apply to transfers made after the date of the enactment of this Act [Dec. 23, 2008] with respect to airline payment amounts paid before, on, or after such date.”
+"(c) Effective Date.—This section shall apply to transfers made after the date of the enactment of this Act [Dec. 23, 2008] with respect to airline payment amounts paid before, on, or after such date."
 
 [<sup>1</sup> So in original. Probably should be followed by a period.](#408A_1)
 
-[<sup>2</sup> So in original. The word “the” probably should not appear.](#408A_2)
+[<sup>2</sup> So in original. The word "the" probably should not appear.](#408A_2)

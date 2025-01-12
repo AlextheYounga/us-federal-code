@@ -42,7 +42,7 @@ Subparagraph (A) shall not apply to any personal property acquired during any ta
 
 For purposes of subparagraph (B), rules similar to the rules of paragraphs (2) and (3) of section 448(c) shall apply.
 
-For purposes of paragraph (1), the term “tangible personal property” shall include a film, sound recording, video tape, book, or similar property.
+For purposes of paragraph (1), the term "tangible personal property" shall include a film, sound recording, video tape, book, or similar property.
 
 #### (c) General exceptions ####
 
@@ -138,7 +138,7 @@ In the case of any plant with respect to which amounts would have been capitaliz
 
 #### (B) Recapture amount ####
 
-For purposes of subparagraph (A), the term “recapture amount” means any amount allowable as a deduction to the taxpayer which, but for an election under subsection (d)(3), would have been capitalized with respect to the plant.
+For purposes of subparagraph (A), the term "recapture amount" means any amount allowable as a deduction to the taxpayer which, but for an election under subsection (d)(3), would have been capitalized with respect to the plant.
 
 #### (2) Effects of election on depreciation ####
 
@@ -148,7 +148,7 @@ If the taxpayer (or any related person) makes an election under subsection (d)(3
 
 #### (B) Related person ####
 
-For purposes of subparagraph (A), the term “related person” means—
+For purposes of subparagraph (A), the term "related person" means—
 
 (i) the taxpayer and members of the taxpayer's family,
 
@@ -160,13 +160,13 @@ For purposes of subparagraph (A), the term “related person” means—
 
 #### (C) Members of family ####
 
-For purposes of this paragraph, the term “family” means the taxpayer, the spouse of the taxpayer, and any of their children who have not attained age 18 before the close of the taxable year.
+For purposes of this paragraph, the term "family" means the taxpayer, the spouse of the taxpayer, and any of their children who have not attained age 18 before the close of the taxable year.
 
 #### (3) Preproductive period ####
 
 #### (A) In general ####
 
-For purposes of this section, the term “preproductive period” means—
+For purposes of this section, the term "preproductive period" means—
 
 (i) in the case of a plant which will have more than 1 crop or yield, the period before the 1st marketable crop or yield from such plant, or
 
@@ -184,11 +184,11 @@ For purposes of this section—
 
 #### (A) In general ####
 
-The term “farming business” means the trade or business of farming.
+The term "farming business" means the trade or business of farming.
 
 #### (B) Certain trades and businesses included ####
 
-The term “farming business” shall include the trade or business of—
+The term "farming business" shall include the trade or business of—
 
 (i) operating a nursery or sod farm, or
 
@@ -252,7 +252,7 @@ Property has a long useful life if such property is—
 
 #### (B) Production period ####
 
-The term “production period” means, when used with respect to any property, the period—
+The term "production period" means, when used with respect to any property, the period—
 
 (i) beginning on the date on which production of the property begins, and
 
@@ -260,7 +260,7 @@ The term “production period” means, when used with respect to any property, 
 
 #### (C) Production expenditures ####
 
-The term “production expenditures” means the costs (whether or not incurred during the production period) required to be capitalized under subsection (a) with respect to the property.
+The term "production expenditures" means the costs (whether or not incurred during the production period) required to be capitalized under subsection (a) with respect to the property.
 
 #### (g) Production ####
 
@@ -268,7 +268,7 @@ For purposes of this section—
 
 #### (1) In general ####
 
-The term “produce” includes construct, build, install, manufacture, develop, or improve.
+The term "produce" includes construct, build, install, manufacture, develop, or improve.
 
 #### (2) Treatment of property produced under contract for the taxpayer ####
 
@@ -282,7 +282,7 @@ Nothing in this section shall require the capitalization of any qualified creati
 
 #### (2) Qualified creative expense ####
 
-For purposes of this subsection, the term “qualified creative expense” means any expense—
+For purposes of this subsection, the term "qualified creative expense" means any expense—
 
 (A) which is paid or incurred by an individual in the trade or business of such individual (other than as an employee) of being a writer, photographer, or artist, and
 
@@ -296,17 +296,17 @@ For purposes of this subsection—
 
 #### (A) Writer ####
 
-The term “writer” means any individual if the personal efforts of such individual create (or may reasonably be expected to create) a literary manuscript, musical composition (including any accompanying words), or dance score.
+The term "writer" means any individual if the personal efforts of such individual create (or may reasonably be expected to create) a literary manuscript, musical composition (including any accompanying words), or dance score.
 
 #### (B) Photographer ####
 
-The term “photographer” means any individual if the personal efforts of such individual create (or may reasonably be expected to create) a photograph or photographic negative or transparency.
+The term "photographer" means any individual if the personal efforts of such individual create (or may reasonably be expected to create) a photograph or photographic negative or transparency.
 
 #### (C) Artist ####
 
 #### (i) In general ####
 
-The term “artist” means any individual if the personal efforts of such individual create (or may reasonably be expected to create) a picture, painting, sculpture, statue, etching, drawing, cartoon, graphic design, or original print edition.
+The term "artist" means any individual if the personal efforts of such individual create (or may reasonably be expected to create) a picture, painting, sculpture, statue, etching, drawing, cartoon, graphic design, or original print edition.
 
 #### (ii) Criteria ####
 
@@ -330,7 +330,7 @@ If—
 
 #### (ii) Qualified employee-owner ####
 
-For purposes of this subparagraph, the term “qualified employee-owner” means any individual who is an employee-owner of the corporation (as defined in section 269A(b)(2)) and who is a writer, photographer, or artist.
+For purposes of this subparagraph, the term "qualified employee-owner" means any individual who is an employee-owner of the corporation (as defined in section 269A(b)(2)) and who is a writer, photographer, or artist.
 
 #### (i) Regulations ####
 
@@ -344,45 +344,45 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments ####
 
-**2005**—Subsec. (c)(3). Pub. L. 109–58 inserted “167(h),” after “under section”.
+**2005**—Subsec. (c)(3). Pub. L. 109–58 inserted "167(h)," after "under section".
 
-**2004**—Subsec. (c)(3). Pub. L. 108–357, which directed amendment of par. (3) by inserting “179B,” after “section”, was executed by making the insertion after “section” the second place it appeared to reflect the probable intent of Congress.
+**2004**—Subsec. (c)(3). Pub. L. 108–357, which directed amendment of par. (3) by inserting "179B," after "section", was executed by making the insertion after "section" the second place it appeared to reflect the probable intent of Congress.
 
-**1999**—Subsec. (b)(2)(A). Pub. L. 106–170 substituted “1221(a)(1)” for “1221(1)”.
+**1999**—Subsec. (b)(2)(A). Pub. L. 106–170 substituted "1221(a)(1)" for "1221(1)".
 
-**1989**—Subsec. (h)(3)(D). Pub. L. 101–239 substituted “corporations” for “personal service corporations” in heading and amended text generally. Prior to amendment, text read as follows:
+**1989**—Subsec. (h)(3)(D). Pub. L. 101–239 substituted "corporations" for "personal service corporations" in heading and amended text generally. Prior to amendment, text read as follows:
 
-“(i) In general.—In the case of a personal service corporation, this subsection shall apply to any expense of such corporation which directly relates to the activities of the qualified employee-owner in the same manner as if such expense were incurred by such employee-owner.
+"(i) In general.—In the case of a personal service corporation, this subsection shall apply to any expense of such corporation which directly relates to the activities of the qualified employee-owner in the same manner as if such expense were incurred by such employee-owner.
 
-“(ii) Qualified employee-owner.—The term ‘qualified employee-owner’ means any individual who is an employee-owner of the personal service corporation and who is a writer, photographer, or artist, but only if substantially all of the stock of such corporation is owned by such individual and members of his family (as defined in section 267(c)(4)).
+"(ii) Qualified employee-owner.—The term 'qualified employee-owner' means any individual who is an employee-owner of the personal service corporation and who is a writer, photographer, or artist, but only if substantially all of the stock of such corporation is owned by such individual and members of his family (as defined in section 267(c)(4)).
 
-“(iii) Personal service corporation.—For purposes of this subparagraph, the term ‘personal service corporation’ means any personal service corporation (as defined in section 269A(b)).”
+"(iii) Personal service corporation.—For purposes of this subparagraph, the term 'personal service corporation' means any personal service corporation (as defined in section 269A(b))."
 
-**1988**—Subsec. (a)(2). Pub. L. 100–647, §1008(b)(1), inserted at end “Any cost which (but for this subsection) could not be taken into account in computing taxable income for any taxable year shall not be treated as a cost described in this paragraph.”
+**1988**—Subsec. (a)(2). Pub. L. 100–647, §1008(b)(1), inserted at end "Any cost which (but for this subsection) could not be taken into account in computing taxable income for any taxable year shall not be treated as a cost described in this paragraph."
 
-Subsec. (c)(3). Pub. L. 100–647, §1008(b)(2)(A), substituted “section 263(c), 263(i), 291(b)(2), 616, or 617” for “section 263(c), 616(a), or 617(a)”.
+Subsec. (c)(3). Pub. L. 100–647, §1008(b)(2)(A), substituted "section 263(c), 263(i), 291(b)(2), 616, or 617" for "section 263(c), 616(a), or 617(a)".
 
 Subsec. (c)(6). Pub. L. 100–647, §1008(b)(2)(B), added par. (6).
 
-Subsec. (d)(1). Pub. L. 100–647, §6026(b)(2)(A), substituted “Section not to apply to certain property” for “Section to apply only if preproductive period is more than 2 years” in heading.
+Subsec. (d)(1). Pub. L. 100–647, §6026(b)(2)(A), substituted "Section not to apply to certain property" for "Section to apply only if preproductive period is more than 2 years" in heading.
 
-Subsec. (d)(1)(A). Pub. L. 100–647, §6026(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “This section shall not apply to any plant or animal which is produced by the taxpayer in a farming business and which has a preproductive period of 2 years or less.”
+Subsec. (d)(1)(A). Pub. L. 100–647, §6026(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "This section shall not apply to any plant or animal which is produced by the taxpayer in a farming business and which has a preproductive period of 2 years or less."
 
-Subsec. (d)(2)(B)(i). Pub. L. 100–647, §1008(b)(3)(A), substituted “the plants described in subparagraph (A) at all times during the taxable year in which such amounts were paid or incurred” for “such grove, orchard, or vineyard”.
+Subsec. (d)(2)(B)(i). Pub. L. 100–647, §1008(b)(3)(A), substituted "the plants described in subparagraph (A) at all times during the taxable year in which such amounts were paid or incurred" for "such grove, orchard, or vineyard".
 
-Subsec. (d)(2)(B)(ii). Pub. L. 100–647, §1008(b)(3)(B), substituted “the plants described in subparagraph (A) during the taxable year in which such amounts were paid or incurred” for “such grove, orchard, or vineyard during the 4-taxable year period beginning with the taxable year in which the grove, orchard, or vineyard was lost or damaged”.
+Subsec. (d)(2)(B)(ii). Pub. L. 100–647, §1008(b)(3)(B), substituted "the plants described in subparagraph (A) during the taxable year in which such amounts were paid or incurred" for "such grove, orchard, or vineyard during the 4-taxable year period beginning with the taxable year in which the grove, orchard, or vineyard was lost or damaged".
 
-Subsec. (d)(3)(A). Pub. L. 100–647, §6026(b)(2)(B), struck out “or animal” after “plant”.
+Subsec. (d)(3)(A). Pub. L. 100–647, §6026(b)(2)(B), struck out "or animal" after "plant".
 
-Subsec. (d)(3)(B). Pub. L. 100–647, §6026(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “No election may be made under this paragraph—
+Subsec. (d)(3)(B). Pub. L. 100–647, §6026(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "No election may be made under this paragraph—
 
-“(i) by a corporation, partnership, or tax shelter, if such corporation, partnership, or tax shelter is required to use an accrual method of accounting under section 447 or 448(a)(3), or
+"(i) by a corporation, partnership, or tax shelter, if such corporation, partnership, or tax shelter is required to use an accrual method of accounting under section 447 or 448(a)(3), or
 
-“(ii) with respect to the planting, cultivation, maintenance, or development of pistachio trees.”
+"(ii) with respect to the planting, cultivation, maintenance, or development of pistachio trees."
 
-Subsec. (e). Pub. L. 100–647, §6026(b)(2)(B), struck out “or animal” after “plant” wherever appearing in pars. (1), (3), and (5).
+Subsec. (e). Pub. L. 100–647, §6026(b)(2)(B), struck out "or animal" after "plant" wherever appearing in pars. (1), (3), and (5).
 
-Subsec. (f)(3). Pub. L. 100–647, §1008(b)(4), substituted “allocable (as determined under paragraph (2)) to” for “incurred or continued in connection with” and inserted “(as so determined)” after “allocable”.
+Subsec. (f)(3). Pub. L. 100–647, §1008(b)(4), substituted "allocable (as determined under paragraph (2)) to" for "incurred or continued in connection with" and inserted "(as so determined)" after "allocable".
 
 Subsecs. (h), (i). Pub. L. 100–647, §6026(a), added subsec. (h) and redesignated former subsec. (h) as (i).
 
@@ -408,82 +408,82 @@ Amendment by section 1008(b)(1)–(4) of Pub. L. 100–647 effective, except as 
 
 Pub. L. 100–647, title VI, §6026(d), Nov. 10, 1988, 102 Stat. 3693, as amended by Pub. L. 101–239, title VII, §7816(d)(2), Dec. 19, 1989, 103 Stat. 2421, provided that:
 
-“(1) In general.—Except as otherwise provided in this paragraph, the amendments made by this section [amending this section] shall take effect as if included in the amendments made by section 803 of the Tax Reform Act of 1986 [section 803 of Pub. L. 99–514].
+"(1) In general.—Except as otherwise provided in this paragraph, the amendments made by this section [amending this section] shall take effect as if included in the amendments made by section 803 of the Tax Reform Act of 1986 [section 803 of Pub. L. 99–514].
 
-“(2) Subsection (b).—
+"(2) Subsection (b).—
 
-“(A) In general.—The amendments made by subsection (b) [amending this section] shall apply to costs incurred after December 31, 1988, in taxable years ending after such date.
+"(A) In general.—The amendments made by subsection (b) [amending this section] shall apply to costs incurred after December 31, 1988, in taxable years ending after such date.
 
-“(B) Revocation of election.—If a taxpayer engaged in a farming business involving the production of animals having a preproductive period of more than 2 years made an election under section 263A(d)(3) of the 1986 Code for a taxable year beginning before January 1, 1989, such taxpayer may, without the consent of the Secretary of the Treasury or his delegate, revoke such election effective for the taxpayer's 1st taxable year beginning after December 31, 1988.”
+"(B) Revocation of election.—If a taxpayer engaged in a farming business involving the production of animals having a preproductive period of more than 2 years made an election under section 263A(d)(3) of the 1986 Code for a taxable year beginning before January 1, 1989, such taxpayer may, without the consent of the Secretary of the Treasury or his delegate, revoke such election effective for the taxpayer's 1st taxable year beginning after December 31, 1988."
 
 #### Effective Date ####
 
-Pub. L. 101–239, title VII, §7831(d)(2), Dec. 19, 1989, 103 Stat. 2427, provided that: “If any interest costs incurred after December 31, 1986, are attributable to costs incurred before January 1, 1987, the amendments made by section 803 of the Tax Reform Act of 1986 [section 803 of Pub. L. 99–514, enacting this section, amending sections 48, 267, 312, 447, 464, and 471 of this title, and repealing sections 189, 278, and 280 of this title] shall apply to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of the Tax Reform Act of 1986) or, if applicable, section 266 of such Code.”
+Pub. L. 101–239, title VII, §7831(d)(2), Dec. 19, 1989, 103 Stat. 2427, provided that: "If any interest costs incurred after December 31, 1986, are attributable to costs incurred before January 1, 1987, the amendments made by section 803 of the Tax Reform Act of 1986 [section 803 of Pub. L. 99–514, enacting this section, amending sections 48, 267, 312, 447, 464, and 471 of this title, and repealing sections 189, 278, and 280 of this title] shall apply to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of the Tax Reform Act of 1986) or, if applicable, section 266 of such Code."
 
 Pub. L. 99–514, title VIII, §803(d), Oct. 22, 1986, 100 Stat. 2356, as amended by Pub. L. 100–647, title I, §1008(b)(7), Nov. 10, 1988, 102 Stat. 3438; Pub. L. 101–239, title VII, §7831(d)(1), Dec. 19, 1989, 103 Stat. 2426, provided that:
 
-“(1) In general.—Except as provided in this subsection, the amendments made by this section [enacting this section, amending sections 48, 267, 312, 447, 464, and 471 of this title, and repealing sections 189, 278, and 280 of this title] shall apply to costs incurred after December 31, 1986, in taxable years ending after such date.
+"(1) In general.—Except as provided in this subsection, the amendments made by this section [enacting this section, amending sections 48, 267, 312, 447, 464, and 471 of this title, and repealing sections 189, 278, and 280 of this title] shall apply to costs incurred after December 31, 1986, in taxable years ending after such date.
 
-“(2) Special rule for inventory property.—In the case of any property which is inventory in the hands of the taxpayer—
+"(2) Special rule for inventory property.—In the case of any property which is inventory in the hands of the taxpayer—
 
-“(A) In general.—The amendments made by this section shall apply to taxable years beginning after December 31, 1986.
+"(A) In general.—The amendments made by this section shall apply to taxable years beginning after December 31, 1986.
 
-“(B) Change in method of accounting.—If the taxpayer is required by the amendments made by this section to change its method of accounting with respect to such property for any taxable year—
+"(B) Change in method of accounting.—If the taxpayer is required by the amendments made by this section to change its method of accounting with respect to such property for any taxable year—
 
-“(i) such change shall be treated as initiated by the taxpayer,
+"(i) such change shall be treated as initiated by the taxpayer,
 
-“(ii) such change shall be treated as made with the consent of the Secretary, and
+"(ii) such change shall be treated as made with the consent of the Secretary, and
 
-“(iii) the period for taking into account the adjustments under section 481 by reason of such change shall not exceed 4 years.
+"(iii) the period for taking into account the adjustments under section 481 by reason of such change shall not exceed 4 years.
 
-“(3) Special rule for self-constructed property.—The amendments made by this section shall not apply to any property which is produced by the taxpayer for use by the taxpayer if substantial construction had occurred before March 1, 1986.
+"(3) Special rule for self-constructed property.—The amendments made by this section shall not apply to any property which is produced by the taxpayer for use by the taxpayer if substantial construction had occurred before March 1, 1986.
 
-“(4) Transitional rule for capitalization of interest and taxes.—
+"(4) Transitional rule for capitalization of interest and taxes.—
 
-“(A) Transition property exempted from interest capitalization.—Section 263A of the Internal Revenue Code of 1986 (as added by this section) and the amendment made by subsection (b)(1) [repealing section 189 of this title] shall not apply to interest costs which are allocable to any property—
+"(A) Transition property exempted from interest capitalization.—Section 263A of the Internal Revenue Code of 1986 (as added by this section) and the amendment made by subsection (b)(1) [repealing section 189 of this title] shall not apply to interest costs which are allocable to any property—
 
-“(i) to which the amendments made by section 201 [amending sections 46, 167, 168, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title] do not apply by reason of sections 204(a)(1)(D) and (E) and 204(a)(5)(A) [set out as a note under section 168 of this title], and
+"(i) to which the amendments made by section 201 [amending sections 46, 167, 168, 178, 179, 280F, 291, 312, 465, 467, 514, 751, 1245, 4162, 6111, and 7701 of this title] do not apply by reason of sections 204(a)(1)(D) and (E) and 204(a)(5)(A) [set out as a note under section 168 of this title], and
 
-“(ii) to which the amendments made by section 251 [amending sections 46 and 48 of this title and enacting provisions set out as a note under section 46 of this title] do not apply by reason of section 251(d)(3)(M) [set out as a note under section 46 of this title].
+"(ii) to which the amendments made by section 251 [amending sections 46 and 48 of this title and enacting provisions set out as a note under section 46 of this title] do not apply by reason of section 251(d)(3)(M) [set out as a note under section 46 of this title].
 
-“(B) Interest and taxes.—Section 263A of such Code shall not apply to property described in the matter following subparagraph (B) of section 207(e)(2) of the Tax Equity and Fiscal Responsibility Act of 1982 [section 207(e)(2)(B) of Pub. L. 97–248, formerly set out as a note under section 189 of this title] to the extent it would require the capitalization of interest and taxes paid or incurred in connection with such property which are not required to be capitalized under section 189 of such Code (as in effect before the amendment made by subsection (b)(1)) [repealing section 189 of this title].
+"(B) Interest and taxes.—Section 263A of such Code shall not apply to property described in the matter following subparagraph (B) of section 207(e)(2) of the Tax Equity and Fiscal Responsibility Act of 1982 [section 207(e)(2)(B) of Pub. L. 97–248, formerly set out as a note under section 189 of this title] to the extent it would require the capitalization of interest and taxes paid or incurred in connection with such property which are not required to be capitalized under section 189 of such Code (as in effect before the amendment made by subsection (b)(1)) [repealing section 189 of this title].
 
-“(5) Transition rule concerning capitalization of inventory rules.—In the case of a corporation which on the date of the enactment of this Act [Oct. 22, 1986] was a member of an affiliated group of corporations (within the meaning of section 1504(a) of the Internal Revenue Code of 1986), the parent of which—
+"(5) Transition rule concerning capitalization of inventory rules.—In the case of a corporation which on the date of the enactment of this Act [Oct. 22, 1986] was a member of an affiliated group of corporations (within the meaning of section 1504(a) of the Internal Revenue Code of 1986), the parent of which—
 
-“(A) was incorporated in California on April 15, 1925,
+"(A) was incorporated in California on April 15, 1925,
 
-“(B) adopted LIFO accounting as of the close of the taxable year ended December 31, 1950, and
+"(B) adopted LIFO accounting as of the close of the taxable year ended December 31, 1950, and
 
-“(C) was, on May 22, 1986, merged into a Delaware corporation incorporated on March 12, 1986,
+"(C) was, on May 22, 1986, merged into a Delaware corporation incorporated on March 12, 1986,
 
 the amendments made by this section shall apply under a cut-off method whereby the uniform capitalization rules are applied only in costing layers of inventory acquired during taxable years beginning on or after January 1, 1987.
 
-“(6) Treatment of certain rehabilitation project.—The amendments made by this section shall not apply to interest and taxes paid or incurred with respect to the rehabilitation and conversion of a certified historic building which was formerly a factory into an apartment project with 155 units, 39 units of which are for low-income families, if the project was approved for annual interest assistance on June 10, 1986, by the housing authority of the State in which the project is located.
+"(6) Treatment of certain rehabilitation project.—The amendments made by this section shall not apply to interest and taxes paid or incurred with respect to the rehabilitation and conversion of a certified historic building which was formerly a factory into an apartment project with 155 units, 39 units of which are for low-income families, if the project was approved for annual interest assistance on June 10, 1986, by the housing authority of the State in which the project is located.
 
-“(7) Special rule for casualty losses.—Section 263A(d)(2) of the Internal Revenue Code of 1986 (as added by this section) shall apply to expenses incurred on or after the date of the enactment of this Act [Oct. 22, 1986].”
+"(7) Special rule for casualty losses.—Section 263A(d)(2) of the Internal Revenue Code of 1986 (as added by this section) shall apply to expenses incurred on or after the date of the enactment of this Act [Oct. 22, 1986]."
 
 #### Allocation Ratio for Apportioning Storage Costs and Related Handling Costs ####
 
-Pub. L. 100–647, title I, §1008(b)(8), Nov. 10, 1988, 102 Stat. 3438, provided that: “The allocation used in the regulations prescribed under section 263A(h)(2) of the Internal Revenue Code of 1986 for apportioning storage costs and related handling costs shall be determined by dividing the amount of such costs by the beginning inventory balances and the purchases during the year and by multiplying the resulting allocation ratio by inventory amounts determined in accordance with the provisions of the joint explanatory statement of the committee of conference of the conference report accompanying H.R. 3838 (H.R. Rept. No. 99–841, Vol. II., 99th Cong., 2d Sess. II–306–307 (1986)).”
+Pub. L. 100–647, title I, §1008(b)(8), Nov. 10, 1988, 102 Stat. 3438, provided that: "The allocation used in the regulations prescribed under section 263A(h)(2) of the Internal Revenue Code of 1986 for apportioning storage costs and related handling costs shall be determined by dividing the amount of such costs by the beginning inventory balances and the purchases during the year and by multiplying the resulting allocation ratio by inventory amounts determined in accordance with the provisions of the joint explanatory statement of the committee of conference of the conference report accompanying H.R. 3838 (H.R. Rept. No. 99–841, Vol. II., 99th Cong., 2d Sess. II–306–307 (1986))."
 
 #### Amortization of Past Service Pension Costs ####
 
 Pub. L. 100–203, title X, §10204, Dec. 22, 1987, 101 Stat. 1330–394, provided that:
 
-“(a) In General.—For purposes of sections 263A and 460 of the Internal Revenue Code of 1986, the allocable costs (within the meaning of section 263A(a)(2) or section 460(c) of such Code, whichever is applicable) with respect to any property shall include contributions paid to or under a pension or annuity plan whether or not such contributions represent past service costs.
+"(a) In General.—For purposes of sections 263A and 460 of the Internal Revenue Code of 1986, the allocable costs (within the meaning of section 263A(a)(2) or section 460(c) of such Code, whichever is applicable) with respect to any property shall include contributions paid to or under a pension or annuity plan whether or not such contributions represent past service costs.
 
-“(b) Effective Date.—
+"(b) Effective Date.—
 
-“(1) In general.—Except as provided in paragraph (2), subsection (a) shall apply to costs incurred after December 31, 1987, in taxable years ending after such date.
+"(1) In general.—Except as provided in paragraph (2), subsection (a) shall apply to costs incurred after December 31, 1987, in taxable years ending after such date.
 
-“(2) Special rule for inventory property.—In the case of any property which is inventory in the hands of the taxpayer—
+"(2) Special rule for inventory property.—In the case of any property which is inventory in the hands of the taxpayer—
 
-“(A) In general.—Subsection (a) shall apply to taxable years beginning after December 31, 1987.
+"(A) In general.—Subsection (a) shall apply to taxable years beginning after December 31, 1987.
 
-“(B) Change in method of accounting.—If the taxpayer is required by this section to change its method of accounting for any taxable year—
+"(B) Change in method of accounting.—If the taxpayer is required by this section to change its method of accounting for any taxable year—
 
-“(i) such change shall be treated as initiated by the taxpayer,
+"(i) such change shall be treated as initiated by the taxpayer,
 
-“(ii) such change shall be treated as made with the consent of the Secretary of the Treasury or his delegate, and
+"(ii) such change shall be treated as made with the consent of the Secretary of the Treasury or his delegate, and
 
-“(iii) the net amount of adjustments required by section 481 of the Internal Revenue Code of 1986 shall be taken into account over a period not longer than 4 taxable years.”
+"(iii) the net amount of adjustments required by section 481 of the Internal Revenue Code of 1986 shall be taken into account over a period not longer than 4 taxable years."

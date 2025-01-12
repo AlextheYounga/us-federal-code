@@ -1,8 +1,8 @@
-### §671a. Workers’ family protection ###
+### §671a. Workers' family protection ###
 
 #### (a) Short title ####
 
-This section may be cited as the “Workers’ Family Protection Act”.
+This section may be cited as the "Workers' Family Protection Act".
 
 #### (b) Findings and purpose ####
 
@@ -10,7 +10,7 @@ This section may be cited as the “Workers’ Family Protection Act”.
 
 Congress finds that—
 
-(A) hazardous chemicals and substances that can threaten the health and safety of workers are being transported out of industries on workers’ clothing and persons;
+(A) hazardous chemicals and substances that can threaten the health and safety of workers are being transported out of industries on workers' clothing and persons;
 
 (B) these chemicals and substances have the potential to pose an additional threat to the health and welfare of workers and their families;
 
@@ -36,7 +36,7 @@ It is the purpose of this section to—
 
 #### (A) In general ####
 
-Not later than 18 months after October 26, 1992, the Director of the National Institute for Occupational Safety and Health (hereafter in this section referred to as the “Director”), in cooperation with the Secretary of Labor, the Administrator of the Environmental Protection Agency, the Administrator of the Agency for Toxic Substances and Disease Registry, and the heads of other Federal Government agencies as determined to be appropriate by the Director, shall conduct a study to evaluate the potential for, the prevalence of, and the issues related to the contamination of workers’ homes with hazardous chemicals and substances, including infectious agents, transported from the workplaces of such workers.
+Not later than 18 months after October 26, 1992, the Director of the National Institute for Occupational Safety and Health (hereafter in this section referred to as the "Director"), in cooperation with the Secretary of Labor, the Administrator of the Environmental Protection Agency, the Administrator of the Agency for Toxic Substances and Disease Registry, and the heads of other Federal Government agencies as determined to be appropriate by the Director, shall conduct a study to evaluate the potential for, the prevalence of, and the issues related to the contamination of workers' homes with hazardous chemicals and substances, including infectious agents, transported from the workplaces of such workers.
 
 #### (B) Matters to be evaluated ####
 
@@ -60,7 +60,7 @@ In conducting the study and evaluation under subparagraph (A), the Director shal
 
 (II) the health effects, if any, of the resulting exposure on workers and their families;
 
-(III) the effectiveness of normal house cleaning and laundry procedures for removing hazardous materials and agents from workers’ homes and personal clothing;
+(III) the effectiveness of normal house cleaning and laundry procedures for removing hazardous materials and agents from workers' homes and personal clothing;
 
 (IV) indoor air quality, as the research concerning such pertains to the fate of chemicals transported from a workplace into the home environment; and
 
@@ -76,7 +76,7 @@ In conducting the study and evaluation under subparagraph (A), the Director shal
 
 #### (A) Task Force ####
 
-Not later than 12 months after October 26, 1992, the Director shall establish a working group, to be known as the “Workers’ Family Protection Task Force”. The Task Force shall—
+Not later than 12 months after October 26, 1992, the Director shall establish a working group, to be known as the "Workers' Family Protection Task Force". The Task Force shall—
 
 (i) be composed of not more than 15 individuals to be appointed by the Director from among individuals who are representative of workers, industry, scientists, industrial hygienists, the National Research Council, and government agencies, except that not more than one such individual shall be from each appropriate government agency and the number of individuals appointed to represent industry and workers shall be equal in number;
 

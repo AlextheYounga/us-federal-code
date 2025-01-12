@@ -2,7 +2,7 @@
 
 (1) The Secretary of Energy shall establish a program to facilitate and encourage the transfer of technology to small businesses and shall issue guidelines relating to the program not later than May 1, 1993.
 
-(2) For the purposes of this section, the term “small business” means a business concern that meets the applicable size standards prescribed pursuant to section 632(a) of title 15.
+(2) For the purposes of this section, the term "small business" means a business concern that meets the applicable size standards prescribed pursuant to section 632(a) of title 15.
 
 (Pub. L. 102–484, div. C, title XXXI, §3135(b), Oct. 23, 1992, 106 Stat. 2641.)
 

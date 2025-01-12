@@ -6,7 +6,7 @@ Sec.
 
 7101. Findings and purpose.
 
-7102. Employees’ rights.
+7102. Employees' rights.
 
 7103. Definitions; application.
 
@@ -60,4 +60,4 @@ Sec.
 
 #### Amendments ####
 
-**1978**—Pub. L. 95–454, title VII, §§701, 703(a)(2), Oct. 13, 1978, 92 Stat. 1191, 1217, in heading for Subpart F inserted “Labor-Management and” before “Employee”, in heading for chapter 71 substituted “LABOR-MANAGEMENT RELATIONS” for “POLICIES”, in heading for subchapter I substituted “GENERAL PROVISIONS” for “EMPLOYEE ORGANIZATIONS”, in item 7101 substituted “Findings and purpose” for “Right to organize; postal employees”, in item 7102 substituted “Employees’ rights” for “Right to petition Congress; employees”, added items 7103 to 7106, and added subchapter II and items 7111 to 7120, subchapter III and items 7121 to 7123, and subchapter IV and items 7131 to 7135. Former subchapter II heading “ANTIDISCRIMINATION IN EMPLOYMENT” and items 7151 to 7154, “Policy”, “Marital status”, “Physical handicap”, and “Other prohibitions”, respectively, were transferred to subchapter I of chapter 72 and renumbered and amended.
+**1978**—Pub. L. 95–454, title VII, §§701, 703(a)(2), Oct. 13, 1978, 92 Stat. 1191, 1217, in heading for Subpart F inserted "Labor-Management and" before "Employee", in heading for chapter 71 substituted "LABOR-MANAGEMENT RELATIONS" for "POLICIES", in heading for subchapter I substituted "GENERAL PROVISIONS" for "EMPLOYEE ORGANIZATIONS", in item 7101 substituted "Findings and purpose" for "Right to organize; postal employees", in item 7102 substituted "Employees' rights" for "Right to petition Congress; employees", added items 7103 to 7106, and added subchapter II and items 7111 to 7120, subchapter III and items 7121 to 7123, and subchapter IV and items 7131 to 7135. Former subchapter II heading "ANTIDISCRIMINATION IN EMPLOYMENT" and items 7151 to 7154, "Policy", "Marital status", "Physical handicap", and "Other prohibitions", respectively, were transferred to subchapter I of chapter 72 and renumbered and amended.

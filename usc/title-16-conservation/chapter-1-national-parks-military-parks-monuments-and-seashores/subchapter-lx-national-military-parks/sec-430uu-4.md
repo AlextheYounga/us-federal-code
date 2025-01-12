@@ -6,4 +6,4 @@ There are authorized to be appropriated such sums not exceeding $42,500 as are n
 
 #### Amendments ####
 
-**1972**—Pub. L. 92–272 substituted “$42,500” for “$20,000”.
+**1972**—Pub. L. 92–272 substituted "$42,500" for "$20,000".

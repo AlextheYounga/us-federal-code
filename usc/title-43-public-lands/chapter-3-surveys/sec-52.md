@@ -20,6 +20,6 @@ R.S. §2223 derived from acts May 18, 1796, ch. 29, §1, 1 Stat. 464; Apr. 29, 1
 
 #### Transfer of Functions ####
 
-References to Supervisor of Surveys and Commissioner of General Land Office changed to Secretary of the Interior or such officer as he may designate, reference to manager changed to officer designated by Secretary of the Interior, and “Bureau of Land Management” substituted for “General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
+References to Supervisor of Surveys and Commissioner of General Land Office changed to Secretary of the Interior or such officer as he may designate, reference to manager changed to officer designated by Secretary of the Interior, and "Bureau of Land Management" substituted for "General Land Office" on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
 
-Previously, references to surveyors general were changed to supervisor of surveys and provisions limiting application of section to points “within his surveying district” were omitted on authority of act Mar. 3, 1925, which abolished office of surveyor general and transferred its activities to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
+Previously, references to surveyors general were changed to supervisor of surveys and provisions limiting application of section to points "within his surveying district" were omitted on authority of act Mar. 3, 1925, which abolished office of surveyor general and transferred its activities to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.

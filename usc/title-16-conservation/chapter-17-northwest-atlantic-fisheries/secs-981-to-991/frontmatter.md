@@ -1,6 +1,6 @@
 ### §§981 to 991. Repealed. Pub. L. 95–6, §4, Feb. 21, 1977, 91 Stat. 16 ###
 
-Section 981, acts Sept. 27, 1950, ch. 1054, §2, 64 Stat. 1067; July 24, 1968, Pub. L. 90–420, §1(a) to (c), 82 Stat. 419; Aug. 11, 1971, Pub. L. 92–87, §§101 to 103, 85 Stat. 310; July 10, 1974, Pub. L. 93–339, §1(a), 88 Stat. 293, covered definitions of “convention”, “Commission”, “person”, “vessel”, “fishing gear”, “fishing”, “fish”, “international measures of control”, and “national measures of control”.
+Section 981, acts Sept. 27, 1950, ch. 1054, §2, 64 Stat. 1067; July 24, 1968, Pub. L. 90–420, §1(a) to (c), 82 Stat. 419; Aug. 11, 1971, Pub. L. 92–87, §§101 to 103, 85 Stat. 310; July 10, 1974, Pub. L. 93–339, §1(a), 88 Stat. 293, covered definitions of "convention", "Commission", "person", "vessel", "fishing gear", "fishing", "fish", "international measures of control", and "national measures of control".
 
 Section 982, acts Sept. 27, 1950, ch. 1054, §3, 64 Stat. 1068; Aug. 11, 1971, Pub. L. 92–87, §111(a), (b), 85 Stat. 313, related to appointment and compensation of Commissioners for the International Commission for the Northwest Atlantic Fisheries.
 

@@ -4,4 +4,4 @@ Section, added Pub. L. 107–314, div. A, title II, §242(a)(1), Dec. 2, 2002, 1
 
 #### Effective Date of Repeal ####
 
-Pub. L. 112–81, div. A, title II, §251(b), Dec. 31, 2011, 125 Stat. 1347, provided that: “The amendments made by subsection (a) [repealing this section] shall take effect on October 1, 2013.”
+Pub. L. 112–81, div. A, title II, §251(b), Dec. 31, 2011, 125 Stat. 1347, provided that: "The amendments made by subsection (a) [repealing this section] shall take effect on October 1, 2013."

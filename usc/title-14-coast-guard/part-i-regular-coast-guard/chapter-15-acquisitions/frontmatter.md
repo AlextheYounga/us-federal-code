@@ -54,4 +54,4 @@ A prior chapter 15 of this title, consisting of sections 561 to 576 and relating
 
 **2012**—Pub. L. 112–213, title II, §§210(b), 211(b), Dec. 20, 2012, 126 Stat. 1551, 1552, added items 569a and 577.
 
-[<sup>1</sup> So in original. “Sec.” probably should not appear.](#CHAPTER15_1)
+[<sup>1</sup> So in original. "Sec." probably should not appear.](#CHAPTER15_1)

@@ -12,4 +12,4 @@ Section 333, acts Aug. 10, 1956, ch. 1041, 70A Stat. 609; Pub. L. 100–456, div
 
 #### Effective Date of Repeal ####
 
-Pub. L. 107–314, div. A, title V, §512(c)(2), Dec. 2, 2002, 116 Stat. 2537, provided that: “The provisions of law repealed by paragraph (1) [repealing sections 328 to 333 of this title] shall continue to apply with respect to courts-martial convened in the National Guard not in Federal service before the date of the enactment of this Act [Dec. 2, 2002].”
+Pub. L. 107–314, div. A, title V, §512(c)(2), Dec. 2, 2002, 116 Stat. 2537, provided that: "The provisions of law repealed by paragraph (1) [repealing sections 328 to 333 of this title] shall continue to apply with respect to courts-martial convened in the National Guard not in Federal service before the date of the enactment of this Act [Dec. 2, 2002]."

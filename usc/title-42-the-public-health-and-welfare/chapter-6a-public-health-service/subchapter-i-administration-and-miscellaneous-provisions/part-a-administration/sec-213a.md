@@ -38,7 +38,7 @@
 
 (18) Section 1034, Protected Communications; Prohibition of Retaliatory Personnel Actions.
 
-(b) The authority vested by title 10 in the “military departments”, “the Secretary concerned”, or “the Secretary of Defense” with respect to the rights, privileges, immunities, and benefits referred to in subsection (a) of this section shall be exercised, with respect to commissioned officers of the Service, by the Secretary of Health and Human Services or his designee. For purposes of paragraph (18) of subsection (a), the term “Inspector General” in section 1034 of such title 10 shall mean the Inspector General of the Department of Health and Human Services.
+(b) The authority vested by title 10 in the "military departments", "the Secretary concerned", or "the Secretary of Defense" with respect to the rights, privileges, immunities, and benefits referred to in subsection (a) of this section shall be exercised, with respect to commissioned officers of the Service, by the Secretary of Health and Human Services or his designee. For purposes of paragraph (18) of subsection (a), the term "Inspector General" in section 1034 of such title 10 shall mean the Inspector General of the Department of Health and Human Services.
 
 (July 1, 1944, ch. 373, title II, §221, as added Aug. 10, 1956, ch. 1041, §4, 70A Stat. 619; amended Pub. L. 85–861, §4, Sept. 2, 1958, 72 Stat. 1547; Pub. L. 86–160, §3, Aug. 14, 1959, 73 Stat. 359; Pub. L. 87–555, §2, July 27, 1962, 76 Stat. 244; Pub. L. 88–132, §5(k), Oct. 2, 1963, 77 Stat. 214; Pub. L. 88–431, §1(d), Aug. 14, 1964, 78 Stat. 440; Pub. L. 89–538, §3(b), Aug. 14, 1966, 80 Stat. 348; Pub. L. 92–425, §5, Sept. 21, 1972, 86 Stat. 713; Pub. L. 96–76, title III, §312, Sept. 29, 1979, 93 Stat. 586; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–513, title V, §507(f)(2), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 99–117, §4, Oct. 7, 1985, 99 Stat. 492; Pub. L. 105–85, div. A, title VI, §653(a), Nov. 18, 1997, 111 Stat. 1804; Pub. L. 107–107, div. A, title VI, §653(a), Dec. 28, 2001, 115 Stat. 1153; Pub. L. 112–144, title XI, §1129, July 9, 2012, 126 Stat. 1118.)
 
@@ -56,7 +56,7 @@ Section was formerly classified to section 316 of title 37 prior to the general 
 
 **2012**—Subsec. (a)(18). Pub. L. 112–144, §1129(a), added par. (18).
 
-Subsec. (b). Pub. L. 112–144, §1129(b), inserted at end “For purposes of paragraph (18) of subsection (a), the term ‘Inspector General’ in section 1034 of such title 10 shall mean the Inspector General of the Department of Health and Human Services.”
+Subsec. (b). Pub. L. 112–144, §1129(b), inserted at end "For purposes of paragraph (18) of subsection (a), the term 'Inspector General' in section 1034 of such title 10 shall mean the Inspector General of the Department of Health and Human Services."
 
 **2001**—Subsec. (a)(17). Pub. L. 107–107 added cl. (17).
 
@@ -68,7 +68,7 @@ Subsec. (b). Pub. L. 112–144, §1129(b), inserted at end “For purposes of pa
 
 **1979**—Subsec. (a)(12) to (14). Pub. L. 96–76 added cls. (12) to (14).
 
-**1972**—Subsec. (a)(5). Pub. L. 92–425 substituted “Retired Serviceman's Family Protection Plan; Survivor Benefit Plan” for “Annuities Based on Retired or Retainer Pay”.
+**1972**—Subsec. (a)(5). Pub. L. 92–425 substituted "Retired Serviceman's Family Protection Plan; Survivor Benefit Plan" for "Annuities Based on Retired or Retainer Pay".
 
 **1966**—Subsec. (a)(11). Pub. L. 89–538 added cl. (11).
 
@@ -76,15 +76,15 @@ Subsec. (b). Pub. L. 112–144, §1129(b), inserted at end “For purposes of pa
 
 **1963**—Subsec. (b). Pub. L. 88–132 inserted reference to Secretary of Defense.
 
-**1962**—Subsec. (a). Pub. L. 87–555 added cl. (9). Notwithstanding directory language that section be amended by “adding the following new clause at the end thereof”, the amendment was executed to subsec. (a) to reflect the probable intent of Congress since the “new” clause was numbered “(9)” and subsec. (a) contained cls. (1) to (8).
+**1962**—Subsec. (a). Pub. L. 87–555 added cl. (9). Notwithstanding directory language that section be amended by "adding the following new clause at the end thereof", the amendment was executed to subsec. (a) to reflect the probable intent of Congress since the "new" clause was numbered "(9)" and subsec. (a) contained cls. (1) to (8).
 
 **1959**—Subsec. (a). Pub. L. 86–160 added cl. (1) and renumbered former cls. (1) to (7) as (2) to (8).
 
-**1958**—Subsec. (a). Pub. L. 85–861 substituted “provisions” for “chapters” in opening clause, struck out former cl. (1) which related to chapter 55 of title 10, renumbered former cls. (2) to (6) as (1) to (5), amended cl. (1), as renumbered, to make sections 1201 to 1203 of title 10, inapplicable to commissioned officers of the Public Health Service who have been ordered to active duty for training for a period of more than 30 days, inserted a reference to section 1374 of title 10 in cl. (2), as renumbered, struck out “Care of the Dead” after “Benefits” in cl. (5), as renumbered, and added cl. (6).
+**1958**—Subsec. (a). Pub. L. 85–861 substituted "provisions" for "chapters" in opening clause, struck out former cl. (1) which related to chapter 55 of title 10, renumbered former cls. (2) to (6) as (1) to (5), amended cl. (1), as renumbered, to make sections 1201 to 1203 of title 10, inapplicable to commissioned officers of the Public Health Service who have been ordered to active duty for training for a period of more than 30 days, inserted a reference to section 1374 of title 10 in cl. (2), as renumbered, struck out "Care of the Dead" after "Benefits" in cl. (5), as renumbered, and added cl. (6).
 
 #### Effective Date of 1997 Amendment ####
 
-Pub. L. 105–85, div. A, title VI, §653(c), Nov. 18, 1997, 111 Stat. 1804, provided that: “The amendments made by this section [amending this section and former section 857a of Title 33, Navigation and Navigable Waters] shall apply only to adoptions that are completed on or after the date of the enactment of this Act [Nov. 18, 1997].”
+Pub. L. 105–85, div. A, title VI, §653(c), Nov. 18, 1997, 111 Stat. 1804, provided that: "The amendments made by this section [amending this section and former section 857a of Title 33, Navigation and Navigable Waters] shall apply only to adoptions that are completed on or after the date of the enactment of this Act [Nov. 18, 1997]."
 
 #### Effective Date of 1980 Amendment ####
 

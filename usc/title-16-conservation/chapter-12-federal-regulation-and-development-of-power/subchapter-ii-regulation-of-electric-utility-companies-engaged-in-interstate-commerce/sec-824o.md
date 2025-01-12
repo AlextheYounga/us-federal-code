@@ -4,7 +4,7 @@
 
 For purposes of this section:
 
-(1) The term “bulk-power system” means—
+(1) The term "bulk-power system" means—
 
 (A) facilities and control systems necessary for operating an interconnected electric energy transmission network (or any portion thereof); and
 
@@ -12,19 +12,19 @@ For purposes of this section:
 
 The term does not include facilities used in the local distribution of electric energy.
 
-(2) The terms “Electric Reliability Organization” and “ERO” mean the organization certified by the Commission under subsection (c) of this section the purpose of which is to establish and enforce reliability standards for the bulk-power system, subject to Commission review.
+(2) The terms "Electric Reliability Organization" and "ERO" mean the organization certified by the Commission under subsection (c) of this section the purpose of which is to establish and enforce reliability standards for the bulk-power system, subject to Commission review.
 
-(3) The term “reliability standard” means a requirement, approved by the Commission under this section, to provide for reliable operation of the bulk-power system. The term includes requirements for the operation of existing bulk-power system facilities, including cybersecurity protection, and the design of planned additions or modifications to such facilities to the extent necessary to provide for reliable operation of the bulk-power system, but the term does not include any requirement to enlarge such facilities or to construct new transmission capacity or generation capacity.
+(3) The term "reliability standard" means a requirement, approved by the Commission under this section, to provide for reliable operation of the bulk-power system. The term includes requirements for the operation of existing bulk-power system facilities, including cybersecurity protection, and the design of planned additions or modifications to such facilities to the extent necessary to provide for reliable operation of the bulk-power system, but the term does not include any requirement to enlarge such facilities or to construct new transmission capacity or generation capacity.
 
-(4) The term “reliable operation” means operating the elements of the bulk-power system within equipment and electric system thermal, voltage, and stability limits so that instability, uncontrolled separation, or cascading failures of such system will not occur as a result of a sudden disturbance, including a cybersecurity incident, or unanticipated failure of system elements.
+(4) The term "reliable operation" means operating the elements of the bulk-power system within equipment and electric system thermal, voltage, and stability limits so that instability, uncontrolled separation, or cascading failures of such system will not occur as a result of a sudden disturbance, including a cybersecurity incident, or unanticipated failure of system elements.
 
-(5) The term “Interconnection” means a geographic area in which the operation of bulk-power system components is synchronized such that the failure of one or more of such components may adversely affect the ability of the operators of other components within the system to maintain reliable operation of the facilities within their control.
+(5) The term "Interconnection" means a geographic area in which the operation of bulk-power system components is synchronized such that the failure of one or more of such components may adversely affect the ability of the operators of other components within the system to maintain reliable operation of the facilities within their control.
 
-(6) The term “transmission organization” means a Regional Transmission Organization, Independent System Operator, independent transmission provider, or other transmission organization finally approved by the Commission for the operation of transmission facilities.
+(6) The term "transmission organization" means a Regional Transmission Organization, Independent System Operator, independent transmission provider, or other transmission organization finally approved by the Commission for the operation of transmission facilities.
 
-(7) The term “regional entity” means an entity having enforcement authority pursuant to subsection (e)(4) of this section.
+(7) The term "regional entity" means an entity having enforcement authority pursuant to subsection (e)(4) of this section.
 
-(8) The term “cybersecurity incident” means a malicious act or suspicious event that disrupts, or was an attempt to disrupt, the operation of those programmable electronic devices and communication networks including hardware, software and data that are essential to the reliable operation of the bulk power system.
+(8) The term "cybersecurity incident" means a malicious act or suspicious event that disrupts, or was an attempt to disrupt, the operation of those programmable electronic devices and communication networks including hardware, software and data that are essential to the reliable operation of the bulk power system.
 
 #### (b) Jurisdiction and applicability ####
 
@@ -140,8 +140,8 @@ The provisions of this section do not apply to Alaska or Hawaii.
 
 #### Status of ERO ####
 
-Pub. L. 109–58, title XII, §1211(b), Aug. 8, 2005, 119 Stat. 946, provided that: “The Electric Reliability Organization certified by the Federal Energy Regulatory Commission under section 215(c) of the Federal Power Act [16 U.S.C. 824o(c)] and any regional entity delegated enforcement authority pursuant to section 215(e)(4) of that Act [16 U.S.C. 824o(e)(4)] are not departments, agencies, or instrumentalities of the United States Government.”
+Pub. L. 109–58, title XII, §1211(b), Aug. 8, 2005, 119 Stat. 946, provided that: "The Electric Reliability Organization certified by the Federal Energy Regulatory Commission under section 215(c) of the Federal Power Act [16 U.S.C. 824o(c)] and any regional entity delegated enforcement authority pursuant to section 215(e)(4) of that Act [16 U.S.C. 824o(e)(4)] are not departments, agencies, or instrumentalities of the United States Government."
 
 #### Access Approvals by Federal Agencies ####
 
-Pub. L. 109–58, title XII, §1211(c), Aug. 8, 2005, 119 Stat. 946, provided that: “Federal agencies responsible for approving access to electric transmission or distribution facilities located on lands within the United States shall, in accordance with applicable law, expedite any Federal agency approvals that are necessary to allow the owners or operators of such facilities to comply with any reliability standard, approved by the [Federal Energy Regulatory] Commission under section 215 of the Federal Power Act [16 U.S.C. 824o], that pertains to vegetation management, electric service restoration, or resolution of situations that imminently endanger the reliability or safety of the facilities.”
+Pub. L. 109–58, title XII, §1211(c), Aug. 8, 2005, 119 Stat. 946, provided that: "Federal agencies responsible for approving access to electric transmission or distribution facilities located on lands within the United States shall, in accordance with applicable law, expedite any Federal agency approvals that are necessary to allow the owners or operators of such facilities to comply with any reliability standard, approved by the [Federal Energy Regulatory] Commission under section 215 of the Federal Power Act [16 U.S.C. 824o], that pertains to vegetation management, electric service restoration, or resolution of situations that imminently endanger the reliability or safety of the facilities."

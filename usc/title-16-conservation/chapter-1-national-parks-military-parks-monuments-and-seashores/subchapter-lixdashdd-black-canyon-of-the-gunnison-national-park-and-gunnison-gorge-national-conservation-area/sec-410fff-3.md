@@ -50,4 +50,4 @@ On the date that the Secretary acquires fee ownership of any privately owned lan
 
 #### Amendments ####
 
-**2003**—Subsec. (a)(1). Pub. L. 108–128 substituted “Map or the map described in section 410fff–2(a)(2) of this title” for “Map”.
+**2003**—Subsec. (a)(1). Pub. L. 108–128 substituted "Map or the map described in section 410fff–2(a)(2) of this title" for "Map".

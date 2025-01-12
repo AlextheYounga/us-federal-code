@@ -10,4 +10,4 @@ Act of March 1, 1911, referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat
 
 #### Amendments ####
 
-**1988**—Pub. L. 100–409 substituted “National Forest System lands” for “national forest lands” and inserted provision that lands interchanged under authority of this section and section 505a of this title be deemed to include interests in lands.
+**1988**—Pub. L. 100–409 substituted "National Forest System lands" for "national forest lands" and inserted provision that lands interchanged under authority of this section and section 505a of this title be deemed to include interests in lands.

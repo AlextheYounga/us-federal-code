@@ -32,12 +32,12 @@ Section was enacted as part of the Best Pharmaceuticals for Children Act, and no
 
 #### Amendments ####
 
-**2003**—Subsec. (b)(1). Pub. L. 108–155 struck out “Advisory Subcommittee of the Anti-Infective Drugs” before “Advisory Committee”.
+**2003**—Subsec. (b)(1). Pub. L. 108–155 struck out "Advisory Subcommittee of the Anti-Infective Drugs" before "Advisory Committee".
 
 #### Effective Date of 2003 Amendment ####
 
 Amendment by Pub. L. 108–155 effective Dec. 3, 2003, except as otherwise provided, see section 4 of Pub. L. 108–155, set out as an Effective Date note under section 355c of this title.
 
-[<sup>1</sup> So in original. Probably should be preceded by “section”.](#355b_1)
+[<sup>1</sup> So in original. Probably should be preceded by "section".](#355b_1)
 
-[<sup>2</sup> So in original. Probably should be “Committee”.](#355b_2)
+[<sup>2</sup> So in original. Probably should be "Committee".](#355b_2)

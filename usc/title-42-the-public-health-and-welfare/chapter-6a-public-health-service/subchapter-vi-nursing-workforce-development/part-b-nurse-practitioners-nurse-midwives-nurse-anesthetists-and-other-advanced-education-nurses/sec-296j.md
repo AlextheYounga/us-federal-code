@@ -10,7 +10,7 @@ The Secretary may award grants to and enter into contracts with eligible entitie
 
 #### (b) Definition of advanced education nurses ####
 
-For purposes of this section, the term “advanced education nurses” means individuals trained in advanced degree programs including individuals in combined R.N./Master's degree programs, post-nursing master's certificate programs, or, in the case of nurse midwives, in certificate programs in existence on the date that is one day prior to November 13, 1998, to serve as nurse practitioners, clinical nurse specialists, nurse midwives, nurse anesthetists, nurse educators, nurse administrators, or public health nurses, or in other nurse specialties determined by the Secretary to require advanced education.
+For purposes of this section, the term "advanced education nurses" means individuals trained in advanced degree programs including individuals in combined R.N./Master's degree programs, post-nursing master's certificate programs, or, in the case of nurse midwives, in certificate programs in existence on the date that is one day prior to November 13, 1998, to serve as nurse practitioners, clinical nurse specialists, nurse midwives, nurse anesthetists, nurse educators, nurse administrators, or public health nurses, or in other nurse specialties determined by the Secretary to require advanced education.
 
 #### (c) Authorized nurse practitioner ####
 
@@ -62,12 +62,12 @@ A prior section 296j, act July 1, 1944, ch. 373, title VIII, §815, as added Jul
 
 #### Amendments ####
 
-**2010**—Subsec. (c). Pub. L. 111–148, §5308(1), struck out “and nurse midwifery programs” after “practitioner” in heading and “and nurse midwifery” after “practitioner” in introductory provisions.
+**2010**—Subsec. (c). Pub. L. 111–148, §5308(1), struck out "and nurse midwifery programs" after "practitioner" in heading and "and nurse midwifery" after "practitioner" in introductory provisions.
 
 Subsecs. (d), (e). Pub. L. 111–148, §5308(3), (4), added subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 111–148, §5308(3), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (f)(2), (3). Pub. L. 111–148, §5308(2), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The Secretary may not obligate more than 10 percent of the traineeships under subsection (a) of this section for individuals in doctorate degree programs.”
+Subsec. (f)(2), (3). Pub. L. 111–148, §5308(2), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "The Secretary may not obligate more than 10 percent of the traineeships under subsection (a) of this section for individuals in doctorate degree programs."
 
 Subsec. (g). Pub. L. 111–148, §5308(3), redesignated subsec. (f) as (g).

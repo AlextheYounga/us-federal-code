@@ -2,7 +2,7 @@
 
 #### (a) Definition ####
 
-In this section, the term “program” means the expedited disaster assistance business loan program established under subsection (b).
+In this section, the term "program" means the expedited disaster assistance business loan program established under subsection (b).
 
 #### (b) Creation of program ####
 
@@ -100,4 +100,4 @@ Section was enacted as part of the Food, Conservation, and Energy Act of 2008, a
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
-[<sup>1</sup> So in original. Probably should be “636(b)(3)(E)”.](#636j_1)
+[<sup>1</sup> So in original. Probably should be "636(b)(3)(E)".](#636j_1)

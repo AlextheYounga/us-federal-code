@@ -64,4 +64,4 @@ The Materials Act of 1947, referred to in subsec. (h), is act July 31, 1947, ch.
 
 **2001**—Subsec. (h). Pub. L. 107–63 added subsec. (h).
 
-[<sup>1</sup> So in original. Probably should be “section”.](#460ppp-3_1)
+[<sup>1</sup> So in original. Probably should be "section".](#460ppp-3_1)

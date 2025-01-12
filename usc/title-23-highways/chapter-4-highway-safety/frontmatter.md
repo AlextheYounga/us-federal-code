@@ -22,13 +22,13 @@ Sec.
 
 #### Amendments ####
 
-**2012**—Pub. L. 112–141, div. C, title I, §§31105(b), 31109(b)–(f), July 6, 2012, 126 Stat. 755–757, substituted “National priority safety programs” for “Occupant protection incentive grants” in item 405 and struck out items 406 “Safety belt performance grants”, 407 “Innovative project grants”, 408 “State traffic safety information system improvements”, 410 “Alcohol-impaired driving countermeasures”, and 411 “State highway safety data improvements”.
+**2012**—Pub. L. 112–141, div. C, title I, §§31105(b), 31109(b)–(f), July 6, 2012, 126 Stat. 755–757, substituted "National priority safety programs" for "Occupant protection incentive grants" in item 405 and struck out items 406 "Safety belt performance grants", 407 "Innovative project grants", 408 "State traffic safety information system improvements", 410 "Alcohol-impaired driving countermeasures", and 411 "State highway safety data improvements".
 
-**2005**—Pub. L. 109–59, title II, §§2005(b), 2006(b), 2008(b), Aug. 10, 2005, 119 Stat. 1527, 1529, 1535, substituted “Safety belt performance grants” for “School bus driver training” in item 406 and “State traffic safety information system improvements” for “Alcohol traffic safety programs” in item 408 and added item 412.
+**2005**—Pub. L. 109–59, title II, §§2005(b), 2006(b), 2008(b), Aug. 10, 2005, 119 Stat. 1527, 1529, 1535, substituted "Safety belt performance grants" for "School bus driver training" in item 406 and "State traffic safety information system improvements" for "Alcohol traffic safety programs" in item 408 and added item 412.
 
-**1998**—Pub. L. 105–178, title II, §§2003(a)(2), 2005(b), June 9, 1998, 112 Stat. 327, 334, substituted “Occupant protection incentive grants” for “Repealed” in item 405 and added item 411.
+**1998**—Pub. L. 105–178, title II, §§2003(a)(2), 2005(b), June 9, 1998, 112 Stat. 327, 334, substituted "Occupant protection incentive grants" for "Repealed" in item 405 and added item 411.
 
-**1991**—Pub. L. 102–240, title I, §1035(b), title II, §2004(c), Dec. 18, 1991, 105 Stat. 1978, 2079, substituted “Discovery and admission” for “Admission” in item 409 and “Alcohol-impaired driving countermeasures” for “Drunk driving prevention programs” in item 410.
+**1991**—Pub. L. 102–240, title I, §1035(b), title II, §2004(c), Dec. 18, 1991, 105 Stat. 1978, 2079, substituted "Discovery and admission" for "Admission" in item 409 and "Alcohol-impaired driving countermeasures" for "Drunk driving prevention programs" in item 410.
 
 **1988**—Pub. L. 100–690, title IX, §9002(b), Nov. 18, 1988, 102 Stat. 4525, added item 410.
 
@@ -38,7 +38,7 @@ Sec.
 
 **1978**—Pub. L. 95–599, title II, §208(b), Nov. 6, 1978, 92 Stat. 2732, added item 407.
 
-**1976**—Pub. L. 94–280, title I, §135(d), May 5, 1976, 90 Stat. 442, substituted item 405 “Repealed” for “Federal-aid safer roads demonstration program”.
+**1976**—Pub. L. 94–280, title I, §135(d), May 5, 1976, 90 Stat. 442, substituted item 405 "Repealed" for "Federal-aid safer roads demonstration program".
 
 **1975**—Pub. L. 93–643, §126(b), Jan. 4, 1975, 88 Stat. 2291, added item 406.
 

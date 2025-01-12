@@ -6,13 +6,13 @@ The Secretary of Agriculture is authorized to establish research laboratories, i
 
 #### Codification ####
 
-Provisions that authorized the Secretary to employ technical experts and scientists “without regard to the Classification Act”, meaning the Classification Act of 1923, were omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exception contained in this section because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632 (the first section of which revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
+Provisions that authorized the Secretary to employ technical experts and scientists "without regard to the Classification Act", meaning the Classification Act of 1923, were omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exception contained in this section because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632 (the first section of which revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
 #### Amendments ####
 
-**1990**—Pub. L. 101–624 substituted “United States (except” for “United States except” and “tunnel) unless the Secretary determines that it is necessary and in the public interest for the conduct of research and study in the United States (except at Brookhaven National Laboratory in Upton, New York) and issues a permit under such rules as the Secretary shall promulgate to protect animal health,” for “tunnel, and”.
+**1990**—Pub. L. 101–624 substituted "United States (except" for "United States except" and "tunnel) unless the Secretary determines that it is necessary and in the public interest for the conduct of research and study in the United States (except at Brookhaven National Laboratory in Upton, New York) and issues a permit under such rules as the Secretary shall promulgate to protect animal health," for "tunnel, and".
 
-**1962**—Pub. L. 87–793 substituted “shall not exceed the highest rate of grade 18 of the General Schedule” for “shall not exceed $19,000 per annum”.
+**1962**—Pub. L. 87–793 substituted "shall not exceed the highest rate of grade 18 of the General Schedule" for "shall not exceed $19,000 per annum".
 
 **1958**—Pub. L. 85–573 inserted in proviso clause of first sentence the exception clause respecting transportation of virus in original package across mainland under adequate safeguards.
 
@@ -32,16 +32,16 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 Pub. L. 110–234, title VII, §7524, May 22, 2008, 122 Stat. 1273, and Pub. L. 110–246, §4(a), title VII, §7524, June 18, 2008, 122 Stat. 1664, 2034, provided that:
 
-“(a) In General.—The Secretary [of Agriculture] shall issue a permit required under section 12 of the Act of May 29, 1884 (21 U.S.C. 113a) to the Secretary of Homeland Security for work on the live virus of foot and mouth disease at any facility that is a successor to the Plum Island Animal Disease Center and charged with researching high-consequence biological threats involving zoonotic and foreign animal diseases (referred to in this section as the ‘successor facility’).
+"(a) In General.—The Secretary [of Agriculture] shall issue a permit required under section 12 of the Act of May 29, 1884 (21 U.S.C. 113a) to the Secretary of Homeland Security for work on the live virus of foot and mouth disease at any facility that is a successor to the Plum Island Animal Disease Center and charged with researching high-consequence biological threats involving zoonotic and foreign animal diseases (referred to in this section as the 'successor facility').
 
-“(b) Limitation to Single Facility.—Not more than 1 facility shall be issued a permit under subsection (a).
+"(b) Limitation to Single Facility.—Not more than 1 facility shall be issued a permit under subsection (a).
 
-“(c) Limitation on Validity.—The permit issued under this section shall be valid unless the Secretary determines that the study of live foot and mouth disease virus at the successor facility is not being carried out in accordance with the regulations promulgated by the Secretary pursuant to the Agricultural Bioterrorism Protection Act of 2002 (7 U.S.C. 8401 et seq.).
+"(c) Limitation on Validity.—The permit issued under this section shall be valid unless the Secretary determines that the study of live foot and mouth disease virus at the successor facility is not being carried out in accordance with the regulations promulgated by the Secretary pursuant to the Agricultural Bioterrorism Protection Act of 2002 (7 U.S.C. 8401 et seq.).
 
-“(d) Authority.—The suspension, revocation, or other impairment of the permit issued under this section—
+"(d) Authority.—The suspension, revocation, or other impairment of the permit issued under this section—
 
-“(1) shall be made by the Secretary; and
+"(1) shall be made by the Secretary; and
 
-“(2) is a nondelegable function.”
+"(2) is a nondelegable function."
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]

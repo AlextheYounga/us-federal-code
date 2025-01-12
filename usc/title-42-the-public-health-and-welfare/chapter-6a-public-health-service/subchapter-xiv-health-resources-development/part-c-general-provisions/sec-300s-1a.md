@@ -68,23 +68,23 @@ A prior section 1622 of act July 1, 1944, as added Jan. 4, 1975, Pub. L. 93–64
 
 **1984**—Pub. L. 98–369 amended section generally. Prior to the amendment, section read as follows:
 
-“(a) If any facility constructed, modernized, or converted with funds provided under this subchapter is, at any time within twenty years after the completion of such construction, modernization, or conversion with such funds—
+"(a) If any facility constructed, modernized, or converted with funds provided under this subchapter is, at any time within twenty years after the completion of such construction, modernization, or conversion with such funds—
 
-“(1) sold or transferred to any person or entity (A) which is not qualified to file an application under section 300s–1 or 300t–12 of this title or (B) which is not approved as a transferee by the State Agency of the State in which such facility is located, or its successor; or
+"(1) sold or transferred to any person or entity (A) which is not qualified to file an application under section 300s–1 or 300t–12 of this title or (B) which is not approved as a transferee by the State Agency of the State in which such facility is located, or its successor; or
 
-“(2) not used as a medical facility, and the Secretary has not determined that there is good cause for termination of such use,
+"(2) not used as a medical facility, and the Secretary has not determined that there is good cause for termination of such use,
 
 the United States shall be entitled to recover from either the transferor or the transferee in the case of a sale or transfer or from the owner in the case of termination of use an amount bearing the same ratio to the then value (as determined by the agreement of the parties or by action brought in the district court of the United States for the district in which the facility is situated) of so much of such facility as constituted an approved project or projects, as the amount of the Federal participation bore to the cost of the construction, modernization, or conversion of such project or projects. Such right of recovery shall not constitute a lien upon such facility prior to judgment.
 
-“(b) The Secretary may waive the recovery rights of the United States under subsection (a) of this section with respect to a facility in any State—
+"(b) The Secretary may waive the recovery rights of the United States under subsection (a) of this section with respect to a facility in any State—
 
-“(1) if (as determined under regulations prescribed by the Secretary) the amount which could be recovered under subsection (a) of this section with respect to such facility is applied to the development, expansion, or support of another medical facility located in such State which has been approved by the Statewide Health Coordinating Council for such State as consistent with the State health plan established pursuant to section 300m–3(c) of this title; or
+"(1) if (as determined under regulations prescribed by the Secretary) the amount which could be recovered under subsection (a) of this section with respect to such facility is applied to the development, expansion, or support of another medical facility located in such State which has been approved by the Statewide Health Coordinating Council for such State as consistent with the State health plan established pursuant to section 300m–3(c) of this title; or
 
-“(2) if the Secretary determines, in accordance with regulations, that there is good cause for waiving such requirement with respect to such facility.
+"(2) if the Secretary determines, in accordance with regulations, that there is good cause for waiving such requirement with respect to such facility.
 
-If the amount which the United States is entitled to recover under subsection (a) of this section exceeds 90 per centum of the total cost of the construction or modernization project for a facility, a waiver under this subsection shall only apply with respect to an amount which is not more than 90 per centum of such total cost.”
+If the amount which the United States is entitled to recover under subsection (a) of this section exceeds 90 per centum of the total cost of the construction or modernization project for a facility, a waiver under this subsection shall only apply with respect to an amount which is not more than 90 per centum of such total cost."
 
-**1979**—Subsec. (a)(1)(A). Pub. L. 96–79, §203(c), substituted “section 300s–1 or 300t–12 of this title” for “section 300o–3 of this title”.
+**1979**—Subsec. (a)(1)(A). Pub. L. 96–79, §203(c), substituted "section 300s–1 or 300t–12 of this title" for "section 300o–3 of this title".
 
 #### Effective Date of 1979 Amendment ####
 

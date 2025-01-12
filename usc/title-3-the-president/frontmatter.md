@@ -23,11 +23,11 @@ Chap. Sec.
 
 #### Positive Law; Citation ####
 
-This title has been made positive law by section 1 of act June 25, 1948, ch. 644, 62 Stat. 672, which provided in part that: “Title 3 of the United States Code, entitled ‘The President’, is codified and enacted into positive law and may be cited as ‘3 U. S. C., §—.’ ”
+This title has been made positive law by section 1 of act June 25, 1948, ch. 644, 62 Stat. 672, which provided in part that: "Title 3 of the United States Code, entitled 'The President', is codified and enacted into positive law and may be cited as '3 U. S. C., §—.' "
 
 #### Savings Clause ####
 
-Section 2 of act June 25, 1948, provided that: “The provisions of title 3, ‘The President’, set out in section 1 of this Act, shall be construed as a continuation of existing law and no loss of rights, interruption of jurisdiction, nor prejudice to matters pending on the effective date of this Act shall result from its enactment.”
+Section 2 of act June 25, 1948, provided that: "The provisions of title 3, 'The President', set out in section 1 of this Act, shall be construed as a continuation of existing law and no loss of rights, interruption of jurisdiction, nor prejudice to matters pending on the effective date of this Act shall result from its enactment."
 
 #### Repeals ####
 

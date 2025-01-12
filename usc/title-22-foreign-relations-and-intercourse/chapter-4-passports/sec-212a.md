@@ -34,13 +34,13 @@ Notwithstanding paragraph (1), the Secretary of State may, prior to revocation, 
 
 In this subsection—
 
-(A) the term “covered period” means the period beginning on the date on which an individual is convicted of a violation of section 2423 of title 18 and ending on the later of—
+(A) the term "covered period" means the period beginning on the date on which an individual is convicted of a violation of section 2423 of title 18 and ending on the later of—
 
 (i) the date on which the individual is released from a sentence of imprisonment relating to the offense; and
 
 (ii) the end of a period of parole or other supervised release of the covered individual relating to the offense; and
 
-(B) the term “imprisonment” means being confined in or otherwise restricted to a jail, prison, half-way house, treatment facility, or another institution, on a full or part-time basis, pursuant to the sentence imposed as the result of a criminal conviction.
+(B) the term "imprisonment" means being confined in or otherwise restricted to a jail, prison, half-way house, treatment facility, or another institution, on a full or part-time basis, pursuant to the sentence imposed as the result of a criminal conviction.
 
 (Pub. L. 110–457, title II, §236, Dec. 23, 2008, 122 Stat. 5082.)
 

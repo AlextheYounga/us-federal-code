@@ -24,7 +24,7 @@ Sec.
 
 149. Bylaws.
 
-150. Stockholders’ meetings.
+150. Stockholders' meetings.
 
 151. Directors.
 

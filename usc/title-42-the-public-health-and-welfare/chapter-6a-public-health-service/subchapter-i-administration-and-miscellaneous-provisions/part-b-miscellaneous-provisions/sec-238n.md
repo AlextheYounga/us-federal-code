@@ -34,12 +34,12 @@ This section shall not—
 
 For purposes of this section:
 
-(1) The term “financial assistance”, with respect to a government program, includes governmental payments provided as reimbursement for carrying out health-related activities.
+(1) The term "financial assistance", with respect to a government program, includes governmental payments provided as reimbursement for carrying out health-related activities.
 
-(2) The term “health care entity” includes an individual physician, a postgraduate physician training program, and a participant in a program of training in the health professions.
+(2) The term "health care entity" includes an individual physician, a postgraduate physician training program, and a participant in a program of training in the health professions.
 
-(3) The term “postgraduate physician training program” includes a residency training program.
+(3) The term "postgraduate physician training program" includes a residency training program.
 
 (July 1, 1944, ch. 373, title II, §245, as added Pub. L. 104–134, title I, §101(d) [title V, §515], Apr. 26, 1996, 110 Stat. 1321–211, 1321–245; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 
-[<sup>1</sup> So in original. Probably should be “standard”.](#238n_1)
+[<sup>1</sup> So in original. Probably should be "standard".](#238n_1)

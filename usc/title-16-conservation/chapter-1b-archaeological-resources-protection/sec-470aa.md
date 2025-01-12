@@ -16,8 +16,8 @@
 
 #### Short Title ####
 
-Pub. L. 96–95, §1, Oct. 31, 1979, 93 Stat. 721, provided that: “This Act [enacting this chapter] may be cited as the ‘Archaeological Resources Protection Act of 1979’.”
+Pub. L. 96–95, §1, Oct. 31, 1979, 93 Stat. 721, provided that: "This Act [enacting this chapter] may be cited as the 'Archaeological Resources Protection Act of 1979'."
 
 #### Galisteo Basin Archaeological Sites Protection ####
 
-Pub. L. 108–208, Mar. 19, 2004, 118 Stat. 558, known as the “Galisteo Basin Archaeological Sites Protection Act”, provided for the preservation, protection, and interpretation of nationally significant archaeological resources in the Galisteo Basin of New Mexico by designating Galisteo Basin Archaeological Protection Sites and their acreage and provided for addition, deletion or modification of the sites, administration, cooperative agreements, acquisition of land and interests, withdrawal of lands from mining and other public land laws, and construction of the Act.
+Pub. L. 108–208, Mar. 19, 2004, 118 Stat. 558, known as the "Galisteo Basin Archaeological Sites Protection Act", provided for the preservation, protection, and interpretation of nationally significant archaeological resources in the Galisteo Basin of New Mexico by designating Galisteo Basin Archaeological Protection Sites and their acreage and provided for addition, deletion or modification of the sites, administration, cooperative agreements, acquisition of land and interests, withdrawal of lands from mining and other public land laws, and construction of the Act.

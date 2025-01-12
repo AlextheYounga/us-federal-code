@@ -66,21 +66,21 @@ Unless otherwise provided, amendment by subtitle B (§§761–774) of title VII 
 
 #### Amendments ####
 
-**2010**—Subsec. (a)(1). Pub. L. 111–203, §929R(b)(1), struck out “(and, if such security is registered on a national securities exchange, also with the exchange)” after “Commission”.
+**2010**—Subsec. (a)(1). Pub. L. 111–203, §929R(b)(1), struck out "(and, if such security is registered on a national securities exchange, also with the exchange)" after "Commission".
 
-Subsec. (a)(2)(B). Pub. L. 111–203, §929R(b)(2), inserted “, or within such shorter time as the Commission may establish by rule” after “officer”.
+Subsec. (a)(2)(B). Pub. L. 111–203, §929R(b)(2), inserted ", or within such shorter time as the Commission may establish by rule" after "officer".
 
-Subsec. (a)(2)(C). Pub. L. 111–203, §762(d)(5)(A), struck out “(as defined in section 206(b) of the Gramm-Leach-Bliley Act (15 U.S.C. 78c note))” after “security-based swap agreement”.
+Subsec. (a)(2)(C). Pub. L. 111–203, §762(d)(5)(A), struck out "(as defined in section 206(b) of the Gramm-Leach-Bliley Act (15 U.S.C. 78c note))" after "security-based swap agreement".
 
-Subsec. (a)(3)(B). Pub. L. 111–203, §762(d)(5)(B), which directed amendment of subpar. (B) by inserting “or security-based swaps” after “security-based swap agreement”, was executed by making the insertion after “security-based swap agreements”, to reflect the probable intent of Congress.
+Subsec. (a)(3)(B). Pub. L. 111–203, §762(d)(5)(B), which directed amendment of subpar. (B) by inserting "or security-based swaps" after "security-based swap agreement", was executed by making the insertion after "security-based swap agreements", to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 111–203, §762(d)(5)(D), which directed amendment of subsec. (b) by substituting “or a security-based swap” for “(as defined in section 206B of the Gramm-Leach Bliley Act)” in third sentence, was executed by making the substitution for “(as defined in section 206B of the Gramm-Leach-Bliley Act)” in third sentence, to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 111–203, §762(d)(5)(D), which directed amendment of subsec. (b) by substituting "or a security-based swap" for "(as defined in section 206B of the Gramm-Leach Bliley Act)" in third sentence, was executed by making the substitution for "(as defined in section 206B of the Gramm-Leach-Bliley Act)" in third sentence, to reflect the probable intent of Congress.
 
-Pub. L. 111–203, §762(d)(5)(C), struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreement” in first sentence.
+Pub. L. 111–203, §762(d)(5)(C), struck out "(as defined in section 206B of the Gramm-Leach-Bliley Act)" after "security-based swap agreement" in first sentence.
 
-Subsec. (g). Pub. L. 111–203, §762(d)(5)(E), struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreements”.
+Subsec. (g). Pub. L. 111–203, §762(d)(5)(E), struck out "(as defined in section 206B of the Gramm-Leach-Bliley Act)" after "security-based swap agreements".
 
-**2002**—Pub. L. 107–204 reenacted section catchline without change, added heading and text of subsec. (a), and struck out former subsec. (a) which read as follows: “Every person who is directly or indirectly the beneficial owner of more than 10 per centum of any class of any equity security (other than an exempted security) which is registered pursuant to section 78l of this title, or who is a director or an officer of the issuer of such security, shall file, at the time of the registration of such security on a national securities exchange or by the effective date of a registration statement filed pursuant to section 78l(g) of this title, or within ten days after he becomes such beneficial owner, director, or officer, a statement with the Commission (and, if such security is registered on a national securities exchange, also with the exchange) of the amount of all equity securities of such issuer of which he is the beneficial owner, and within ten days after the close of each calendar month thereafter, if there has been a change in such ownership or if such person shall have purchased or sold a security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) involving such equity security during such month, shall file with the Commission (and if such security is registered on a national securities exchange, shall also file with the exchange), a statement indicating his ownership at the close of the calendar month and such changes in his ownership and such purchases and sales of such security-based swap agreements as have occurred during such calendar month.”
+**2002**—Pub. L. 107–204 reenacted section catchline without change, added heading and text of subsec. (a), and struck out former subsec. (a) which read as follows: "Every person who is directly or indirectly the beneficial owner of more than 10 per centum of any class of any equity security (other than an exempted security) which is registered pursuant to section 78l of this title, or who is a director or an officer of the issuer of such security, shall file, at the time of the registration of such security on a national securities exchange or by the effective date of a registration statement filed pursuant to section 78l(g) of this title, or within ten days after he becomes such beneficial owner, director, or officer, a statement with the Commission (and, if such security is registered on a national securities exchange, also with the exchange) of the amount of all equity securities of such issuer of which he is the beneficial owner, and within ten days after the close of each calendar month thereafter, if there has been a change in such ownership or if such person shall have purchased or sold a security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) involving such equity security during such month, shall file with the Commission (and if such security is registered on a national securities exchange, shall also file with the exchange), a statement indicating his ownership at the close of the calendar month and such changes in his ownership and such purchases and sales of such security-based swap agreements as have occurred during such calendar month."
 
 **2000**—Subsecs. (a), (b). Pub. L. 106–554, §1(a)(5) [title III, §303(g)], amended subsecs. (a) and (b) generally, revising provisions to extend application to security-based swap agreements.
 
@@ -88,7 +88,7 @@ Subsec. (f). Pub. L. 106–554, §1(a)(5) [title II, §208(b)(3)], added subsec.
 
 Subsec. (g). Pub. L. 106–554, §1(a)(5) [title III, §303(h)], added subsec. (g).
 
-**1964**—Subsec. (a). Pub. L. 88–467, §8(a), substituted “registered pursuant to section 78l of this title” for “registered on a national securities exchange”, “Commission (and, if such security is registered on a national securities exchange, also with the exchange)” for “exchange (and a duplicate original thereof with the Commission)”, “a change” for “any change”, and “Commission (and if such security is registered on a national securities exchange, shall also file with the exchange) a statement” for “exchange a statement (and a duplicate original thereof with the Commission)”, and inserted “on a national securities exchange or by the effective date of a registration statement filed pursuant to section 78l(g) of this title” after “registration of such security”.
+**1964**—Subsec. (a). Pub. L. 88–467, §8(a), substituted "registered pursuant to section 78l of this title" for "registered on a national securities exchange", "Commission (and, if such security is registered on a national securities exchange, also with the exchange)" for "exchange (and a duplicate original thereof with the Commission)", "a change" for "any change", and "Commission (and if such security is registered on a national securities exchange, shall also file with the exchange) a statement" for "exchange a statement (and a duplicate original thereof with the Commission)", and inserted "on a national securities exchange or by the effective date of a registration statement filed pursuant to section 78l(g) of this title" after "registration of such security".
 
 Subsecs. (d), (e). Pub. L. 88–467, §8(b), added subsec. (d) and redesignated former subsec. (d) as (e).
 
@@ -100,7 +100,7 @@ Amendment by section 762(d)(5) of Pub. L. 111–203 effective on the later of 36
 
 #### Effective Date of 2002 Amendment ####
 
-Pub. L. 107–204, title IV, §403(b), July 30, 2002, 116 Stat. 789, provided that: “The amendment made by this section [amending this section] shall be effective 30 days after the date of the enactment of this Act [July 30, 2002].”
+Pub. L. 107–204, title IV, §403(b), July 30, 2002, 116 Stat. 789, provided that: "The amendment made by this section [amending this section] shall be effective 30 days after the date of the enactment of this Act [July 30, 2002]."
 
 #### Effective Date of 1964 Amendment ####
 

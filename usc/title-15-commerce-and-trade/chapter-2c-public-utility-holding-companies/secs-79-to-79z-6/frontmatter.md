@@ -1,6 +1,6 @@
 ### §§79 to 79z–6. Repealed. Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974 ###
 
-Section 79, acts Aug. 26, 1935, ch. 687, title I, §36, formerly §33, 49 Stat. 838; renumbered §35, Pub. L. 102–486, title VII, §711, Oct. 24, 1992, 106 Stat. 2905; renumbered §36, Pub. L. 104–104, title I, §103, Feb. 8, 1996, 110 Stat. 81, provided that this chapter could be cited as the “Public Utility Holding Company Act of 1935”.
+Section 79, acts Aug. 26, 1935, ch. 687, title I, §36, formerly §33, 49 Stat. 838; renumbered §35, Pub. L. 102–486, title VII, §711, Oct. 24, 1992, 106 Stat. 2905; renumbered §36, Pub. L. 104–104, title I, §103, Feb. 8, 1996, 110 Stat. 81, provided that this chapter could be cited as the "Public Utility Holding Company Act of 1935".
 
 Section 79a, act Aug. 26, 1935, ch. 687, title I, §1, 49 Stat. 803, related to necessity for control of holding companies and set forth policy of chapter.
 

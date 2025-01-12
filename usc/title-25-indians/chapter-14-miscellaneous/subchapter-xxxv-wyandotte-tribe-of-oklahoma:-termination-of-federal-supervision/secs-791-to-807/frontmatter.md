@@ -2,7 +2,7 @@
 
 Section 791, act Aug. 1, 1956, ch. 843, §1, 70 Stat. 893, set out purpose of sections 791 to 807 of this title as termination of Federal supervision and services for tribe.
 
-Section 792, act Aug. 1, 1956, ch. 843, §2, 70 Stat. 893, defined “tribe”, “Secretary”, “lands”, and “tribal property”.
+Section 792, act Aug. 1, 1956, ch. 843, §2, 70 Stat. 893, defined "tribe", "Secretary", "lands", and "tribal property".
 
 Section 793, act Aug. 1, 1956, ch. 843, §3, 70 Stat. 893, related to preparation and publication of membership roll.
 

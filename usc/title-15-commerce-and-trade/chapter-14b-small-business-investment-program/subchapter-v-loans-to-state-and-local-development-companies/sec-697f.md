@@ -84,9 +84,9 @@ Issuers of debentures under subchapter III of this chapter may issue new debentu
 
 The Administration shall use certified mail and other reasonable means to notify each eligible borrower of the prepayment program provided in this subchapter. Each preliminary notice shall specify the range and dollar amount of repurchase premiums which could be required of that borrower in order to participate in the program. In carrying out this program, the Administration shall provide a period of not less than 45 days following the receipt of such notice by the borrower during which the borrower must notify the Administration of the borrower's intent to participate in the program. The Administration shall require that a borrower who gives notice of its intent to participate to make an earnest money deposit of $1,000 which shall not be refundable but which shall be credited toward the final repurchase premium.
 
-#### (B) “Borrower” defined ####
+#### (B) "Borrower" defined ####
 
-For purposes of this paragraph, the term “borrower”, in the case of a small business investment company or a specialized small business investment company, means “issuer”.
+For purposes of this paragraph, the term "borrower", in the case of a small business investment company or a specialized small business investment company, means "issuer".
 
 #### (6) Final notice ####
 
@@ -96,13 +96,13 @@ Based upon the response to the preliminary notice under paragraph (5), the Admin
 
 For purposes of this section—
 
-(1) the term “issuer” means—
+(1) the term "issuer" means—
 
 (A) the qualified State or local development company that issued a debenture pursuant to section 697 of this title, which has been purchased by the Federal Financing Bank; and
 
 (B) a small business investment company licensed pursuant to section 681 of this title; or
 
-(2) the term “borrower” means a small business concern whose loan secures a debenture issued pursuant to section 697 of this title.
+(2) the term "borrower" means a small business concern whose loan secures a debenture issued pursuant to section 697 of this title.
 
 #### (f) Regulations ####
 
@@ -116,7 +116,7 @@ There are authorized to be appropriated $30,000,000 to carry out the provisions 
 
 #### References in Text ####
 
-For definition of “this chapter”, referred to in subsec. (a)(1), see References in Text note set out under section 661 of this title.
+For definition of "this chapter", referred to in subsec. (a)(1), see References in Text note set out under section 661 of this title.
 
 Public Law 103–317, referred to in subsec. (a)(2)(B)(iii), is Pub. L. 103–317, Aug. 26, 1994, 108 Stat. 1724, known as the Departments of Commerce, Justice, and State, The Judiciary, and Related Agencies Appropriations Act, 1995. For complete classification of this Act to the Code, see Tables.
 
@@ -124,28 +124,28 @@ The Small Business Prepayment Penalty Relief Act of 1994, referred to in subsec.
 
 #### Amendments ####
 
-**1996**—Subsec. (a)(1). Pub. L. 104–208, §208(h)(1)(H)(i), struck out at end “A small business investment company operating under the authority of section 681(d) of this title that has issued a debenture that was purchased by and is held by the Administration, may, under the same terms and conditions, prepay such debenture, and the penalty as provided in this section, and shall thereafter be immediately eligible to apply for additional assistance from the Administration.”
+**1996**—Subsec. (a)(1). Pub. L. 104–208, §208(h)(1)(H)(i), struck out at end "A small business investment company operating under the authority of section 681(d) of this title that has issued a debenture that was purchased by and is held by the Administration, may, under the same terms and conditions, prepay such debenture, and the penalty as provided in this section, and shall thereafter be immediately eligible to apply for additional assistance from the Administration."
 
-Subsec. (e)(1)(B). Pub. L. 104–208, §208(h)(1)(H)(ii), substituted “section 681 of this title” for “subsection (c) or (d) of section 681 of this title”.
+Subsec. (e)(1)(B). Pub. L. 104–208, §208(h)(1)(H)(ii), substituted "section 681 of this title" for "subsection (c) or (d) of section 681 of this title".
 
 #### Intention of Congress ####
 
 Pub. L. 103–403, title V, §502, Oct. 22, 1994, 108 Stat. 4198, provided that:
 
-“(a) In General.—The Small Business Administration shall fully utilize the $30,000,000 appropriated in Public Law 103–317 [108 Stat. 1724] to reduce, in accordance with this title [enacting this section and provisions set out as a note under section 661 of this title] and the amendments made by this title, prepayment penalties imposed in connection with debentures issued under—
+"(a) In General.—The Small Business Administration shall fully utilize the $30,000,000 appropriated in Public Law 103–317 [108 Stat. 1724] to reduce, in accordance with this title [enacting this section and provisions set out as a note under section 661 of this title] and the amendments made by this title, prepayment penalties imposed in connection with debentures issued under—
 
-“(1) section 303 or 503 of the Small Business Investment Act of 1958 [15 U.S.C. 683, 697], which have been purchased by the Federal Financing Bank; and
+"(1) section 303 or 503 of the Small Business Investment Act of 1958 [15 U.S.C. 683, 697], which have been purchased by the Federal Financing Bank; and
 
-“(2) title III [probably means title III of Pub. L. 85–699, which is classified to section 681 et seq. of this title] to companies operating under section 301(d) of such Act [15 U.S.C. 681(d)], which have been purchased by the Small Business Administration.
+"(2) title III [probably means title III of Pub. L. 85–699, which is classified to section 681 et seq. of this title] to companies operating under section 301(d) of such Act [15 U.S.C. 681(d)], which have been purchased by the Small Business Administration.
 
-“(b) Equal Opportunity.—In order to provide an equal opportunity to participate in the program authorized under this title, the Small Business Administration shall afford each borrower or issuer of a debenture subject to this title, not less than 45 days to elect to participate and to provide an earnest money deposit. The Administration shall subsequently allow a period of not less than 4 months, during which those borrowers or issuers that elect to participate shall be allowed to complete the prepayment process.
+"(b) Equal Opportunity.—In order to provide an equal opportunity to participate in the program authorized under this title, the Small Business Administration shall afford each borrower or issuer of a debenture subject to this title, not less than 45 days to elect to participate and to provide an earnest money deposit. The Administration shall subsequently allow a period of not less than 4 months, during which those borrowers or issuers that elect to participate shall be allowed to complete the prepayment process.
 
-“(c) Restrictions on Participation.—In no event shall the Small Business Administration—
+"(c) Restrictions on Participation.—In no event shall the Small Business Administration—
 
-“(1) allow any borrower or issuer to participate in the program if the borrower or issuer fails to—
+"(1) allow any borrower or issuer to participate in the program if the borrower or issuer fails to—
 
-“(A) make a timely election and provide the deposit on a timely basis; or
+"(A) make a timely election and provide the deposit on a timely basis; or
 
-“(B) complete the prepayment process within the required time; or
+"(B) complete the prepayment process within the required time; or
 
-“(2) allow any borrower or issuer to participate in the program at a percentage rate other than the rate finally determined to be applicable to all other borrowers or issuers with similar terms of years.”
+"(2) allow any borrower or issuer to participate in the program at a percentage rate other than the rate finally determined to be applicable to all other borrowers or issuers with similar terms of years."

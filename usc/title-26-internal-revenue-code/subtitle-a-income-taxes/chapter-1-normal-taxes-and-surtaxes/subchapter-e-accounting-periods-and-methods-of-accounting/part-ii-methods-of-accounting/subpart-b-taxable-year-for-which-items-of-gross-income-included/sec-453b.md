@@ -70,33 +70,33 @@ Provisions similar to those comprising this section were contained in former sec
 
 #### Amendments ####
 
-**1990**—Subsec. (d). Pub. L. 101–508 substituted heading for one which read: “Effect of distribution in liquidations to which section 332 applies” and amended text generally. Prior to amendment, text read as follows: “If—
+**1990**—Subsec. (d). Pub. L. 101–508 substituted heading for one which read: "Effect of distribution in liquidations to which section 332 applies" and amended text generally. Prior to amendment, text read as follows: "If—
 
-“(1) an installment obligation is distributed in a liquidation to which section 332 (relating to complete liquidations of subsidiaries) applies, and
+"(1) an installment obligation is distributed in a liquidation to which section 332 (relating to complete liquidations of subsidiaries) applies, and
 
-“(2) the basis of such obligation in the hands of the distributee is determined under section 334(b)(1),
+"(2) the basis of such obligation in the hands of the distributee is determined under section 334(b)(1),
 
-then no gain or loss with respect to the distribution of such obligation shall be recognized by the distributing corporation.”
+then no gain or loss with respect to the distribution of such obligation shall be recognized by the distributing corporation."
 
 **1988**—Subsec. (h). Pub. L. 100–647 added subsec. (h).
 
-**1986**—Subsec. (d). Pub. L. 99–514, §631(e)(9), amended subsec. (d) generally, substituting “liquidations to which section 332 applies” for “certain liquidations” in heading, striking out par. (1) designation, redesignating subpars. (A) and (B) as pars. (1) and (2), and striking out former par. (2) relating to liquidations to which section 337 applies.
+**1986**—Subsec. (d). Pub. L. 99–514, §631(e)(9), amended subsec. (d) generally, substituting "liquidations to which section 332 applies" for "certain liquidations" in heading, striking out par. (1) designation, redesignating subpars. (A) and (B) as pars. (1) and (2), and striking out former par. (2) relating to liquidations to which section 337 applies.
 
-Subsec. (e)(2)(B). Pub. L. 99–514, §1011(b)(1), substituted “section 806(b)(3)” for “section 806(c)(3)”.
+Subsec. (e)(2)(B). Pub. L. 99–514, §1011(b)(1), substituted "section 806(b)(3)" for "section 806(c)(3)".
 
-Subsec. (g). Pub. L. 99–514, §1842(c), inserted “(other than a transfer in trust)”.
+Subsec. (g). Pub. L. 99–514, §1842(c), inserted "(other than a transfer in trust)".
 
-**1984**—Subsec. (d)(2). Pub. L. 98–369, §492(b)(3), struck out “1251(c),” after “1250(a),” in provision following subpar. (B).
+**1984**—Subsec. (d)(2). Pub. L. 98–369, §492(b)(3), struck out "1251(c)," after "1250(a)," in provision following subpar. (B).
 
-Pub. L. 98–369, §43(c)(2), substituted “1254(a), or 1276(a)” for “or 1254(a)”.
+Pub. L. 98–369, §43(c)(2), substituted "1254(a), or 1276(a)" for "or 1254(a)".
 
-Subsec. (e)(1). Pub. L. 98–369, §211(b)(6)(A), substituted “section 816(a)” for “section 801(a)”.
+Subsec. (e)(1). Pub. L. 98–369, §211(b)(6)(A), substituted "section 816(a)" for "section 801(a)".
 
-Subsec. (e)(2). Pub. L. 98–369, §211(b)(6)(B), substituted “as not related to insurance business” for “as investment income” in heading, and in text substituted “as if such income were an item attributable to a noninsurance business (as defined in section 806(c)(3))” for “if such income would not otherwise be returnable as an item referred to in section 804(b) or as long-term capital gain, as if the income on such obligations were income specified in section 804(b)”.
+Subsec. (e)(2). Pub. L. 98–369, §211(b)(6)(B), substituted "as not related to insurance business" for "as investment income" in heading, and in text substituted "as if such income were an item attributable to a noninsurance business (as defined in section 806(c)(3))" for "if such income would not otherwise be returnable as an item referred to in section 804(b) or as long-term capital gain, as if the income on such obligations were income specified in section 804(b)".
 
 Subsec. (g). Pub. L. 98–369, §421(b)(3), added subsec. (g).
 
-**1983**—Subsec. (d)(2). Pub. L. 97–448 substituted “under subsection (a)” for “under paragraph (1)” in second sentence.
+**1983**—Subsec. (d)(2). Pub. L. 97–448 substituted "under subsection (a)" for "under paragraph (1)" in second sentence.
 
 **1980**—Subsec. (d). Pub. L. 96–471, §2(c)(3), inserted last sentence providing that in the case of any installment obligation which would have met the requirements of subpars. (A) and (B) of par. (2) but for sections 337(f), gain shall be recognized to such corporation by reason of such distribution only to the extent gain would have been recognized under sections 337(f) if such corporation had sold or exchanged such installment obligation on the date of such distribution.
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 631(e)(9) of Pub. L. 99–514 applicable to any distribution in complete liquidation, and any sale or exchange, made by a corporation after July 31, 1986, unless such corporation is completely liquidated before Jan. 1, 1987, any transaction described in section 338 of this title for which the acquisition date occurs after Dec. 31, 1986, and any distribution, not in complete liquidation, made after Dec. 31, 1986, with exceptions and special and transitional rules, see section 633 of Pub. L. 99–514, set out as an Effective Date note under section 336 of this title.
 
-Pub. L. 99–514, title X, §1011(c)(1), Oct. 22, 1986, 100 Stat. 2389, provided that: “The amendments made by this section [amending this section and sections 465, 801, 804 to 806, 813, and 815 of this title, enacting provisions set out as a note under section 801 of this title, and amending provisions set out as a note under section 806 of this title] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title X, §1011(c)(1), Oct. 22, 1986, 100 Stat. 2389, provided that: "The amendments made by this section [amending this section and sections 465, 801, 804 to 806, 813, and 815 of this title, enacting provisions set out as a note under section 801 of this title, and amending provisions set out as a note under section 806 of this title] shall apply to taxable years beginning after December 31, 1986."
 
 Amendment by section 1842(c) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -142,9 +142,9 @@ For effective date, see section 6(a)(1), (5) of Pub. L. 96–471, set out as a n
 
 Pub. L. 106–573, §2, Dec. 28, 2000, 114 Stat. 3061, provided that:
 
-“(a) In General.—Subsection (a) of section 536 of the Ticket to Work and Work Incentives Improvement Act of 1999 (relating to modification of installment method and repeal of installment method for accrual method taxpayers) [Pub. L. 106–170, amending this section] is repealed effective with respect to sales and other dispositions occurring on or after the date of the enactment of such Act[Dec. 17, 1999].
+"(a) In General.—Subsection (a) of section 536 of the Ticket to Work and Work Incentives Improvement Act of 1999 (relating to modification of installment method and repeal of installment method for accrual method taxpayers) [Pub. L. 106–170, amending this section] is repealed effective with respect to sales and other dispositions occurring on or after the date of the enactment of such Act[Dec. 17, 1999].
 
-“(b) Applicability.—The Internal Revenue Code of 1986 shall be applied and administered as if that subsection (and the amendments made by that subsection) had not been enacted.”
+"(b) Applicability.—The Internal Revenue Code of 1986 shall be applied and administered as if that subsection (and the amendments made by that subsection) had not been enacted."
 
 #### Plan Amendments Not Required Until January 1, 1989 ####
 
@@ -152,4 +152,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Treatment of Elections Under Section 453B(e)(2) ####
 
-Pub. L. 98–369, div. A, title II, §217(b), July 18, 1984, 98 Stat. 762, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If an election is made under section 453B(e)(2) before January 1, 1984, with respect to any installment obligation, any income from such obligation shall be treated as attributable to a noninsurance business (as defined in section 806(c)(3) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]).”
+Pub. L. 98–369, div. A, title II, §217(b), July 18, 1984, 98 Stat. 762, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "If an election is made under section 453B(e)(2) before January 1, 1984, with respect to any installment obligation, any income from such obligation shall be treated as attributable to a noninsurance business (as defined in section 806(c)(3) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954])."

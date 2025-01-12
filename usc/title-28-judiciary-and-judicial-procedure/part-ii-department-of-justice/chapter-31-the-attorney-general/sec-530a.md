@@ -14,4 +14,4 @@ Sections 901 and 904 of the Foreign Service Act of 1980, referred to in pars. (1
 
 #### Amendments ####
 
-**2011**—Pub. L. 112–55 substituted “used from appropriations” for “appropriated” in introductory provisions and inserted “(2),” before “(3)” in par. (1).
+**2011**—Pub. L. 112–55 substituted "used from appropriations" for "appropriated" in introductory provisions and inserted "(2)," before "(3)" in par. (1).

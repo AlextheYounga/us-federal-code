@@ -22,7 +22,7 @@ The training at the Rural Policing Institute established under subsection (a) sh
 
 #### (c) Definition ####
 
-In this section, the term “rural” means an area that is not located in a metropolitan statistical area, as defined by the Office of Management and Budget.
+In this section, the term "rural" means an area that is not located in a metropolitan statistical area, as defined by the Office of Management and Budget.
 
 #### (d) Authorization of appropriations ####
 
@@ -36,4 +36,4 @@ There are authorized to be appropriated to carry out this section (including for
 
 #### Rural Area ####
 
-Pub. L. 112–74, div. D, title V, §546, Dec. 23, 2011, 125 Stat. 977, provided that: “For fiscal year 2012 and thereafter, for purposes of section 210C of the Homeland Security Act of 2002 (6 U.S.C. 124j), a rural area shall also include any area that is located in a metropolitan statistical area and a county, borough, parish, or area under the jurisdiction of an Indian tribe with a population of not more than 50,000.”
+Pub. L. 112–74, div. D, title V, §546, Dec. 23, 2011, 125 Stat. 977, provided that: "For fiscal year 2012 and thereafter, for purposes of section 210C of the Homeland Security Act of 2002 (6 U.S.C. 124j), a rural area shall also include any area that is located in a metropolitan statistical area and a county, borough, parish, or area under the jurisdiction of an Indian tribe with a population of not more than 50,000."

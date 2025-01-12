@@ -8,11 +8,11 @@
 
 #### Amendments ####
 
-**2000**—Par. (1). Pub. L. 106–181, §605(b)(1), substituted “cooperative agreements, or any other agreements,” for “cooperative agreements”.
+**2000**—Par. (1). Pub. L. 106–181, §605(b)(1), substituted "cooperative agreements, or any other agreements," for "cooperative agreements".
 
-Par. (2). Pub. L. 106–181, §605(b)(2), which directed the striking of “cooperative”, was executed by striking “cooperative” before “agreement” in two places, to reflect the probable intent of Congress.
+Par. (2). Pub. L. 106–181, §605(b)(2), which directed the striking of "cooperative", was executed by striking "cooperative" before "agreement" in two places, to reflect the probable intent of Congress.
 
-**1986**—Pub. L. 99–272 designated existing provisions as par. (1), inserted “any Federal agency,” after “or subdivision thereof,” and added par. (2).
+**1986**—Pub. L. 99–272 designated existing provisions as par. (1), inserted "any Federal agency," after "or subdivision thereof," and added par. (2).
 
 #### Effective Date of 2000 Amendment ####
 

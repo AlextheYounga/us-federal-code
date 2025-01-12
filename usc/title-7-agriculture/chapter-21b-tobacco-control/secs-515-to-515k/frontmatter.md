@@ -30,8 +30,8 @@ Repeal applicable to the 2005 and subsequent crops of tobacco, see section 643 o
 
 #### Short Title ####
 
-Act Apr. 25, 1936, which was classified to this chapter, was popularly known as the “Tobacco Control Act”.
+Act Apr. 25, 1936, which was classified to this chapter, was popularly known as the "Tobacco Control Act".
 
 #### Savings Provision ####
 
-Pub. L. 108–357, title VI, §614, Oct. 22, 2004, 118 Stat. 1524, provided that: “The amendments made by this subtitle [subtitle A (§§611–614) of title VI of Pub. L. 108–357, amending sections 609, 1282, 1301, 1303, 1314h, 1361, 1371, 1373, 1375, 1378, 1379, 1428, 1433c–1, and 1441 of this title and section 714c of Title 15, Commerce and Trade, repealing sections 511r, 515 to 515k, 625, 1311 to 1314, 1314–1, 1314b, 1314b–1, 1314b–2, 1314c to 1314j, 1315, 1316, 1445, 1445–1, and 1445–2 of this title, and repealing provisions set out as a note under section 1314c of this title] shall not affect the liability of any person under any provision of law so amended with respect to the 2004 or an earlier crop of each kind of tobacco.”
+Pub. L. 108–357, title VI, §614, Oct. 22, 2004, 118 Stat. 1524, provided that: "The amendments made by this subtitle [subtitle A (§§611–614) of title VI of Pub. L. 108–357, amending sections 609, 1282, 1301, 1303, 1314h, 1361, 1371, 1373, 1375, 1378, 1379, 1428, 1433c–1, and 1441 of this title and section 714c of Title 15, Commerce and Trade, repealing sections 511r, 515 to 515k, 625, 1311 to 1314, 1314–1, 1314b, 1314b–1, 1314b–2, 1314c to 1314j, 1315, 1316, 1445, 1445–1, and 1445–2 of this title, and repealing provisions set out as a note under section 1314c of this title] shall not affect the liability of any person under any provision of law so amended with respect to the 2004 or an earlier crop of each kind of tobacco."

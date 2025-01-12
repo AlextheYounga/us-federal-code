@@ -32,9 +32,9 @@ The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch
 
 #### Amendments ####
 
-**2001**—Subsec. (a)(1). Pub. L. 107–90 in introductory provisions, inserted after first sentence “On or before May 1 of each year beginning in 2003, the Railroad Retirement Board shall compute its projection of the account benefits ratio and the average account benefits ratio (as defined by section 3241(c) of the Internal Revenue Code of 1986) for each of the next succeeding five fiscal years.” and substituted “the projections prepared pursuant to the preceding two sentences” for “the projection prepared pursuant to the preceding sentence”.
+**2001**—Subsec. (a)(1). Pub. L. 107–90 in introductory provisions, inserted after first sentence "On or before May 1 of each year beginning in 2003, the Railroad Retirement Board shall compute its projection of the account benefits ratio and the average account benefits ratio (as defined by section 3241(c) of the Internal Revenue Code of 1986) for each of the next succeeding five fiscal years." and substituted "the projections prepared pursuant to the preceding two sentences" for "the projection prepared pursuant to the preceding sentence".
 
-**1995**—Subsec. (a)(1). Pub. L. 104–66 substituted “May 1” and “July 1” for “February 1” and “April 1”, respectively, in introductory provisions.
+**1995**—Subsec. (a)(1). Pub. L. 104–66 substituted "May 1" and "July 1" for "February 1" and "April 1", respectively, in introductory provisions.
 
 **1983**—Subsec. (a). Pub. L. 98–76 amended subsec. (a) generally, substituting provisions requiring Railroad Retirement Board to annually prepare and report on a five-year projection of ability of Railroad Retirement Account to pay benefits during five-year period for provisions which required Board to prepare a report in any fiscal year in which it determined that more than 50 percent of borrowing authority under this subchapter would be used.
 
@@ -42,4 +42,4 @@ The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch
 
 Section effective Oct. 1, 1981, see section 1129(g) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 231 of this title.
 
-[<sup>1</sup> So in original. Probably should be “benefits”.](#231u_1)
+[<sup>1</sup> So in original. Probably should be "benefits".](#231u_1)

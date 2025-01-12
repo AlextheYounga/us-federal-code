@@ -6,7 +6,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) National bank ####
 
-The term “national bank” includes—
+The term "national bank" includes—
 
 (A) any bank organized under the laws of the United States; and
 
@@ -14,11 +14,11 @@ The term “national bank” includes—
 
 #### (2) State consumer financial laws ####
 
-The term “State consumer financial law” means a State law that does not directly or indirectly discriminate against national banks and that directly and specifically regulates the manner, content, or terms and conditions of any financial transaction (as may be authorized for national banks to engage in), or any account related thereto, with respect to a consumer.
+The term "State consumer financial law" means a State law that does not directly or indirectly discriminate against national banks and that directly and specifically regulates the manner, content, or terms and conditions of any financial transaction (as may be authorized for national banks to engage in), or any account related thereto, with respect to a consumer.
 
 #### (3) Other definitions ####
 
-The terms “affiliate”, “subsidiary”, “includes”, and “including” have the same meanings as in section 1813 of this title.
+The terms "affiliate", "subsidiary", "includes", and "including" have the same meanings as in section 1813 of this title.
 
 #### (b) Preemption standard ####
 
@@ -40,7 +40,7 @@ Title 62 of the Revised Statutes and section 371 of this title do not preempt, a
 
 #### (A) Definition ####
 
-As used in this section the term “case-by-case basis” refers to a determination pursuant to this section made by the Comptroller concerning the impact of a particular State consumer financial law on any national bank that is subject to that law, or the law of any other State with substantively equivalent terms.
+As used in this section the term "case-by-case basis" refers to a determination pursuant to this section made by the Comptroller concerning the impact of a particular State consumer financial law on any national bank that is subject to that law, or the law of any other State with substantively equivalent terms.
 
 #### (B) Consultation ####
 
@@ -84,7 +84,7 @@ Notwithstanding any provision of title 62 of the Revised Statutes or section 371
 
 #### (f) Preservation of powers related to charging interest ####
 
-No provision of title 62 of the Revised Statutes shall be construed as altering or otherwise affecting the authority conferred by section 85 of this title for the charging of interest by a national bank at the rate allowed by the laws of the State, territory, or district where the bank is located, including with respect to the meaning of “interest” under such provision.
+No provision of title 62 of the Revised Statutes shall be construed as altering or otherwise affecting the authority conferred by section 85 of this title for the charging of interest by a national bank at the rate allowed by the laws of the State, territory, or district where the bank is located, including with respect to the meaning of "interest" under such provision.
 
 #### (g) Transparency of OCC preemption determinations ####
 
@@ -94,7 +94,7 @@ The Comptroller of the Currency shall publish and update no less frequently than
 
 #### (1) Definitions ####
 
-For purposes of this subsection, the terms “depository institution”, “subsidiary”, and “affiliate” have the same meanings as in section 1813 of this title.
+For purposes of this subsection, the terms "depository institution", "subsidiary", and "affiliate" have the same meanings as in section 1813 of this title.
 
 #### (2) Rule of construction ####
 
@@ -116,7 +116,7 @@ The ability of the Comptroller of the Currency to bring an enforcement action un
 
 The International Banking Act of 1978, referred to in subsec. (a)(1)(B), is Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, which enacted chapter 32 (§3101 et seq.) and sections 347d and 611a of this title, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b, 1831b, and 1841 of this title, and enacted provisions set out as notes under sections 247, 611a, and 3101 of this title and formerly set out as notes under sections 36, 247, and 601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-Title 62 of the Revised Statutes, referred to in subsecs. (b)(1)(C), (2), (4), (5)(A), (e), (f), (h)(2), (i)(1), and (j), was in the original a reference to “this title” or “This title” meaning title LXII of the Revised Statutes, consisting of R.S. §§5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
+Title 62 of the Revised Statutes, referred to in subsecs. (b)(1)(C), (2), (4), (5)(A), (e), (f), (h)(2), (i)(1), and (j), was in the original a reference to "this title" or "This title" meaning title LXII of the Revised Statutes, consisting of R.S. §§5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
 
 For classification of title LXII of the Revised Statutes of the United States, referred to in subsec. (b)(5)(B), see note above.
 

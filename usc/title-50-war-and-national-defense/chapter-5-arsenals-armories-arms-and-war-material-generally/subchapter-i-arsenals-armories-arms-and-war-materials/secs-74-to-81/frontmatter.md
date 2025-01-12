@@ -1,6 +1,6 @@
 ### §§74 to 81. Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641 ###
 
-Section 74, act Jan. 22, 1923, ch. 28, 42 Stat. 1142, provided that net proceeds of sales of useless ordnance material by Navy Department should be covered into Treasury as “Miscellaneous receipts”. See section 7543 of Title 10, Armed Forces.
+Section 74, act Jan. 22, 1923, ch. 28, 42 Stat. 1142, provided that net proceeds of sales of useless ordnance material by Navy Department should be covered into Treasury as "Miscellaneous receipts". See section 7543 of Title 10, Armed Forces.
 
 Section 75, act Aug. 24, 1912, ch. 391, §1, 37 Stat. 589, related to payment for transfers of ordnance or stores to bureaus or departments.
 

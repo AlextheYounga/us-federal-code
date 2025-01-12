@@ -2,9 +2,9 @@
 
 #### (a) Controlled group of corporations ####
 
-For purposes of this subpart, all employees of all corporations which are members of the same controlled group of corporations shall be treated as employed by a single employer. In any such case, the credit (if any) determined under section 51(a) with respect to each such member shall be its proportionate share of the wages giving rise to such credit. For purposes of this subsection, the term “controlled group of corporations” has the meaning given to such term by section 1563(a), except that—
+For purposes of this subpart, all employees of all corporations which are members of the same controlled group of corporations shall be treated as employed by a single employer. In any such case, the credit (if any) determined under section 51(a) with respect to each such member shall be its proportionate share of the wages giving rise to such credit. For purposes of this subsection, the term "controlled group of corporations" has the meaning given to such term by section 1563(a), except that—
 
-(1) “more than 50 percent” shall be substituted for “at least 80 percent” each place it appears in section 1563(a)(1), and
+(1) "more than 50 percent" shall be substituted for "at least 80 percent" each place it appears in section 1563(a)(1), and
 
 (2) the determination shall be made without regard to subsections (a)(4) and (e)(3)(C) of section 1563.
 
@@ -56,25 +56,25 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 
 **2011**—Subsec. (c). Pub. L. 112–56 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-**1997**—Subsec. (c). Pub. L. 105–34 substituted “work opportunity credit” for “targeted jobs credit”.
+**1997**—Subsec. (c). Pub. L. 105–34 substituted "work opportunity credit" for "targeted jobs credit".
 
-**1996**—Subsec. (e)(1) to (3). Pub. L. 104–188 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “an organization to which section 593 (relating to reserves for losses on loans) applies,”.
+**1996**—Subsec. (e)(1) to (3). Pub. L. 104–188 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: "an organization to which section 593 (relating to reserves for losses on loans) applies,".
 
-**1990**—Subsec. (e). Pub. L. 101–508 substituted “section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)” for “section 46” in concluding provisions.
+**1990**—Subsec. (e). Pub. L. 101–508 substituted "section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)" for "section 46" in concluding provisions.
 
-**1984**—Subsec. (a). Pub. L. 98–369, §474(p)(4), substituted “the credit (if any) determined under section 51(a) with respect to each such member” for “the credit (if any) allowable by section 44B to each such member”.
+**1984**—Subsec. (a). Pub. L. 98–369, §474(p)(4), substituted "the credit (if any) determined under section 51(a) with respect to each such member" for "the credit (if any) allowable by section 44B to each such member".
 
-Subsec. (b)(2). Pub. L. 98–369, §474(p)(5), substituted “the credit (if any) determined under section 51(a)” for “the credit (if any) allowable by section 44B”.
+Subsec. (b)(2). Pub. L. 98–369, §474(p)(5), substituted "the credit (if any) determined under section 51(a)" for "the credit (if any) allowable by section 44B".
 
-Subsec. (c). Pub. L. 98–369, §474(p)(6), substituted “credit shall be allowed under section 38 for any targeted jobs credit determined under this subpart” for “credit shall be allowed under section 44B”.
+Subsec. (c). Pub. L. 98–369, §474(p)(6), substituted "credit shall be allowed under section 38 for any targeted jobs credit determined under this subpart" for "credit shall be allowed under section 44B".
 
-Subsec. (d)(2). Pub. L. 98–369, §474(p)(7), substituted “, subject to section 38(c), a credit under section 38(a)” for “, subject to section 53 a credit under section 44B”.
+Subsec. (d)(2). Pub. L. 98–369, §474(p)(7), substituted ", subject to section 38(c), a credit under section 38(a)" for ", subject to section 53 a credit under section 44B".
 
 **1982**—Subsecs. (d) to (f). Pub. L. 97–354 struck out subsec. (d) relating to apportionment of credit among shareholders, and redesignated subsecs. (e) and (f) as (d) and (e), respectively.
 
-**1980**—Subsec. (f). Pub. L. 96–222 substituted “subsections (e) and (h) of section 46” for “section 46(e)”.
+**1980**—Subsec. (f). Pub. L. 96–222 substituted "subsections (e) and (h) of section 46" for "section 46(e)".
 
-**1978**—Subsecs. (a), (b). Pub. L. 95–600, §321(c)(1)(B), substituted “proportionate share of the wages” for “proportionate contribution to the increase in unemployment insurance wages”.
+**1978**—Subsecs. (a), (b). Pub. L. 95–600, §321(c)(1)(B), substituted "proportionate share of the wages" for "proportionate contribution to the increase in unemployment insurance wages".
 
 Subsecs. (c), (d). Pub. L. 95–600, §321(c)(1)(A), struck out subsec. (c) which related to dispositions by an employer, and redesignated subsecs. (d) and (f) as (c) and (d), respectively.
 

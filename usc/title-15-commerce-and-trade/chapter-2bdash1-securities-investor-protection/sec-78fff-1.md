@@ -42,11 +42,11 @@ A prior section 7 of Pub. L. 91–598 was renumbered section 11 and is classifie
 
 #### Amendments ####
 
-**1978**—Subsec. (a). Pub. L. 95–598, §308(i), substituted “trustee in a case under title 11” for “trustee in bankruptcy under the Bankruptcy Act has with respect to a bankrupt and the property of a bankrupt”.
+**1978**—Subsec. (a). Pub. L. 95–598, §308(i), substituted "trustee in a case under title 11" for "trustee in bankruptcy under the Bankruptcy Act has with respect to a bankrupt and the property of a bankrupt".
 
-Subsec. (b). Pub. L. 95–598, §308(j), substituted “trustee in a case under chapter 7 of title 11, including, if the debtor is a commodity broker, as defined under section 101 of such title, the duties specified in subchapter IV of such chapter 7,” for “trustee in bankruptcy”.
+Subsec. (b). Pub. L. 95–598, §308(j), substituted "trustee in a case under chapter 7 of title 11, including, if the debtor is a commodity broker, as defined under section 101 of such title, the duties specified in subchapter IV of such chapter 7," for "trustee in bankruptcy".
 
-Subsec. (c). Pub. L. 95–598, §308(k), substituted “required of a trustee in a case under chapter 7 of title 11” for “required by the Bankruptcy Act”.
+Subsec. (c). Pub. L. 95–598, §308(k), substituted "required of a trustee in a case under chapter 7 of title 11" for "required by the Bankruptcy Act".
 
 #### Effective Date of 1978 Amendment ####
 

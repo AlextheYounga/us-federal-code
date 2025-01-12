@@ -4,7 +4,7 @@
 
 #### (1) In general ####
 
-As soon as practicable after July 29, 2010, the Secretary shall establish, under the laws of the District of Columbia and in accordance with this part, a foundation, to be known as the “Indian Law Enforcement Foundation”.
+As soon as practicable after July 29, 2010, the Secretary shall establish, under the laws of the District of Columbia and in accordance with this part, a foundation, to be known as the "Indian Law Enforcement Foundation".
 
 #### (2) Funding determinations ####
 
@@ -38,7 +38,7 @@ The Foundation shall—
 
 #### (1) In general ####
 
-The Secretary shall establish a committee, to be known as the “Committee for the Establishment of the Indian Law Enforcement Foundation”, to assist the Secretary in establishing the Foundation.
+The Secretary shall establish a committee, to be known as the "Committee for the Establishment of the Indian Law Enforcement Foundation", to assist the Secretary in establishing the Foundation.
 
 #### (2) Duties ####
 

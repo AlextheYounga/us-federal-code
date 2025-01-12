@@ -61,7 +61,7 @@ Chap. Sec.
 
 25. Pay and Personnel Program for Overseas Teachers 901
 
-25A. Overseas Defense Dependents’ Education 921
+25A. Overseas Defense Dependents' Education 921
 
 26. Support and Scholarship in Humanities and Arts; Museum Services 951
 

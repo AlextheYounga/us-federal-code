@@ -1,6 +1,6 @@
 ### §§1014 to 1025. Repealed. Pub. L. 87–128, title III, §341(a), Aug. 8, 1961, 75 Stat. 318 ###
 
-Section 1014, act July 22, 1937, ch. 517, title IV, §40, 50 Stat. 527, created the Farmers’ Home Corporation and provided for its location, delegation of power by Secretary of Agriculture, capital stock, board of directors, personnel, quorum, compensation, expenses, selection of administrator, powers of corporation, compensation to injured employees, deposit of monies, tax exemption, records and annual report.
+Section 1014, act July 22, 1937, ch. 517, title IV, §40, 50 Stat. 527, created the Farmers' Home Corporation and provided for its location, delegation of power by Secretary of Agriculture, capital stock, board of directors, personnel, quorum, compensation, expenses, selection of administrator, powers of corporation, compensation to injured employees, deposit of monies, tax exemption, records and annual report.
 
 Section 1015, acts July 22, 1937, ch. 517, title IV, §41, 50 Stat. 528; Aug. 14, 1946, ch. 964, §3, 60 Stat. 1064; July 26, 1947, ch. 339, §1(a), 61 Stat. 493; Oct. 15, 1949, ch. 695, §6(a), 63 Stat. 881; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Aug. 30, 1954, ch. 1076, §1(4), 68 Stat. 966; July 31, 1956, ch. 804, title I, §107(a), 70 Stat. 739; Aug. 1, 1956, ch. 829, §3(a), 70 Stat. 803, related to powers or Secretary of Agriculture.
 

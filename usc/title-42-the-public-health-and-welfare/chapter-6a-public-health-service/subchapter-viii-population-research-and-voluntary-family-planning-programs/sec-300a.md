@@ -8,9 +8,9 @@ The Secretary is authorized to make grants, from allotments made under subsectio
 
 The sums appropriated to carry out the provisions of this section shall be allotted to the States by the Secretary on the basis of the population and the financial need of the respective States.
 
-#### (c) “State” defined ####
+#### (c) "State" defined ####
 
-For the purposes of this section, the term “State” includes the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, the Virgin Islands, the District of Columbia, and the Trust Territory of the Pacific Islands.
+For the purposes of this section, the term "State" includes the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, the Virgin Islands, the District of Columbia, and the Trust Territory of the Pacific Islands.
 
 #### (d) Authorization of appropriations ####
 
@@ -20,7 +20,7 @@ For the purpose of making grants under this section, there are authorized to be 
 
 #### Amendments ####
 
-**1976**—Subsec. (c). Pub. L. 94–484 defined “State” to include Northern Mariana Islands.
+**1976**—Subsec. (c). Pub. L. 94–484 defined "State" to include Northern Mariana Islands.
 
 #### Termination of Trust Territory of the Pacific Islands ####
 

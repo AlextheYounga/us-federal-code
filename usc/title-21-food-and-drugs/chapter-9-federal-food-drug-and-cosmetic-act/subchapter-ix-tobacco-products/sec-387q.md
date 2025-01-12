@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-Not later than 6 months after June 22, 2009, the Secretary shall establish a 12-member advisory committee, to be known as the Tobacco Products Scientific Advisory Committee (in this section referred to as the “Advisory Committee”).
+Not later than 6 months after June 22, 2009, the Secretary shall establish a 12-member advisory committee, to be known as the Tobacco Products Scientific Advisory Committee (in this section referred to as the "Advisory Committee").
 
 #### (b) Membership ####
 

@@ -12,4 +12,4 @@ There is authorized to be appropriated to the Administrator of General Services 
 
 #### Codification ####
 
-“Section 592 of title 40” substituted in subsec. (b) for “section 210(f) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(f))” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Section 592 of title 40" substituted in subsec. (b) for "section 210(f) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(f))" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.

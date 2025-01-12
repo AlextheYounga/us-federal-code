@@ -8,4 +8,4 @@ Section 1707b, Pub. L. 95–501, title II, §201, Oct. 21, 1978, 92 Stat. 1686, 
 
 Section 1707c, Pub. L. 95–501, title II, §202, Oct. 21, 1978, 92 Stat. 1687, provided for a program of credit sales to People's Republic of China.
 
-Section 1707d, Pub. L. 95–501, title II, §203, Oct. 21, 1978, 92 Stat. 1687, defined “agricultural commodity”.
+Section 1707d, Pub. L. 95–501, title II, §203, Oct. 21, 1978, 92 Stat. 1687, defined "agricultural commodity".

@@ -4,7 +4,7 @@
 
 #### (1) In general ####
 
-The Director shall establish a centrally located facility for the coordination of all United States Fish and Wildlife Service activities in the Great Lakes Basin, to be known as the “Great Lakes Coordination Office”.
+The Director shall establish a centrally located facility for the coordination of all United States Fish and Wildlife Service activities in the Great Lakes Basin, to be known as the "Great Lakes Coordination Office".
 
 #### (2) Functional responsibilities ####
 
@@ -32,7 +32,7 @@ The Director shall establish an office with necessary administrative and technic
 
 #### (2) Name and location ####
 
-The office shall be known as the “Lower Great Lakes Fishery Resources Office”, and shall be centrally located in the lower Great Lakes so as to facilitate fishery resource restoration and enhancement activities relating to the lower Great Lakes.
+The office shall be known as the "Lower Great Lakes Fishery Resources Office", and shall be centrally located in the lower Great Lakes so as to facilitate fishery resource restoration and enhancement activities relating to the lower Great Lakes.
 
 #### (3) Responsibilities ####
 
@@ -46,7 +46,7 @@ The Director shall establish one or more offices with necessary administrative a
 
 #### (2) Name and location ####
 
-Each of the offices shall be known as an “Upper Great Lakes Fishery Resources Office”, and shall be appropriately located so as to facilitate fishery resource activities in the upper Great Lakes.
+Each of the offices shall be known as an "Upper Great Lakes Fishery Resources Office", and shall be appropriately located so as to facilitate fishery resource activities in the upper Great Lakes.
 
 #### (3) Responsibilities ####
 
@@ -60,7 +60,7 @@ Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substanti
 
 #### Amendments ####
 
-**2006**—Subsec. (a). Pub. L. 109–326, §6(1), added subsec. (a) and struck out former subsec. (a). Text read as follows: “The Director shall establish a centrally located facility for the coordination of all United States Fish and Wildlife Service activities in the Great Lakes Basin, to be known as the ‘Great Lakes Coordination Office’. The functional responsibilities of the Great Lakes Coordination Office shall include intra- and interagency coordination, information distribution, and public awareness outreach. The Great Lakes Coordination Office shall include all administrative and technical support necessary to carry out its responsibilities.”
+**2006**—Subsec. (a). Pub. L. 109–326, §6(1), added subsec. (a) and struck out former subsec. (a). Text read as follows: "The Director shall establish a centrally located facility for the coordination of all United States Fish and Wildlife Service activities in the Great Lakes Basin, to be known as the 'Great Lakes Coordination Office'. The functional responsibilities of the Great Lakes Coordination Office shall include intra- and interagency coordination, information distribution, and public awareness outreach. The Great Lakes Coordination Office shall include all administrative and technical support necessary to carry out its responsibilities."
 
 Subsec. (b). Pub. L. 109–326, §6(2), designated first and second sentences of subsec. (b) as pars. (1) and (2), respectively, inserted headings, and added par. (3).
 

@@ -4,13 +4,13 @@
 
 (1) In order to promote research in food, agriculture, and related areas, a research grants program is hereby established in the Department of Agriculture.
 
-(2) Short Title.—This section may be cited as the “Competitive, Special, and Facilities Research Grant Act”.
+(2) Short Title.—This section may be cited as the "Competitive, Special, and Facilities Research Grant Act".
 
 #### (b) Agriculture and food research initiative ####
 
 #### (1) Establishment ####
 
-There is established in the Department of Agriculture an Agriculture and Food Research Initiative under which the Secretary of Agriculture (referred to in this subsection as “the Secretary”) may make competitive grants for fundamental and applied research, extension, and education to address food and agricultural sciences (as defined under section 3103 of this title).
+There is established in the Department of Agriculture an Agriculture and Food Research Initiative under which the Secretary of Agriculture (referred to in this subsection as "the Secretary") may make competitive grants for fundamental and applied research, extension, and education to address food and agricultural sciences (as defined under section 3103 of this title).
 
 #### (2) Priority areas ####
 
@@ -316,7 +316,7 @@ Funds made available under this paragraph shall—
 
 #### (e) Inter-Regional Research Project Number 4 ####
 
-(1) The Secretary of Agriculture shall establish an Inter-Regional Research Project Number 4 (hereinafter referred to in this subsection as the “IR–4 Program”) to assist in the collection of residue and efficacy data in support of—
+(1) The Secretary of Agriculture shall establish an Inter-Regional Research Project Number 4 (hereinafter referred to in this subsection as the "IR–4 Program") to assist in the collection of residue and efficacy data in support of—
 
 (A) the registration or reregistration of pesticides for minor agricultural use and for use on specialty crops (as defined in section 3 of the Specialty Crops Competitiveness Act of 2004 (7 U.S.C. 1621 note)), under the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136 et seq.); and
 
@@ -382,13 +382,13 @@ The Federal Advisory Committee Act and title XVIII of the Food and Agriculture A
 
 #### (k) Emphasis on sustainable agriculture ####
 
-The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) of this section are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term “sustainable agriculture” has the meaning given that term in section 3103 of this title.
+The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) of this section are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term "sustainable agriculture" has the meaning given that term in section 3103 of this title.
 
 (Pub. L. 89–106, §2, Aug. 4, 1965, 79 Stat. 431; Pub. L. 95–113, title XIV, §1414, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1415, Dec. 22, 1981, 95 Stat. 1303; Pub. L. 99–198, title XIV, §1409, Dec. 23, 1985, 99 Stat. 1546; Pub. L. 101–624, title XIV, §1497, title XVI, §§1615, 1616, Nov. 28, 1990, 104 Stat. 3630, 3729, 3732; Pub. L. 102–237, title IV, §401, Dec. 13, 1991, 105 Stat. 1862; Pub. L. 104–66, title I, §1011(v), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, §885, Apr. 4, 1996, 110 Stat. 1179; Pub. L. 105–185, title II, §§211, 212, title III, §301(f), title VI, §606(h), June 23, 1998, 112 Stat. 536, 563, 604; Pub. L. 107–76, title VII, §775, Nov. 28, 2001, 115 Stat. 746; Pub. L. 107–171, title VI, §6403(b), title VII, §§7136, 7211, May 13, 2002, 116 Stat. 429, 436, 447; Pub. L. 110–234, title VII, §§7101(b)(2), 7406(a), (b)(2), May 22, 2008, 122 Stat. 1213, 1247, 1251; Pub. L. 110–246, §4(a), title VII, §§7101(b)(2), 7406(a), (b)(2), June 18, 2008, 122 Stat. 1664, 1974, 2009, 2013; Pub. L. 113–79, title VII, §§7128(b)(4), 7404, Feb. 7, 2014, 128 Stat. 879, 895.)
 
 #### References in Text ####
 
-Act of October 10, 1962, referred to in subsec. (c)(1)(B), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
+Act of October 10, 1962, referred to in subsec. (c)(1)(B), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the "McIntire-Stennis Act of 1962" and also as the "McIntire-Stennis Cooperative Forestry Act", which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
 
 Section 3 of the Specialty Crops Competitiveness Act of 2004, referred to in subsec. (e)(1)(A), is section 3 of Pub. L. 108–465, which is set out as a note under section 1621 of this title.
 
@@ -406,11 +406,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **2014**—Subsec. (b)(2)(B)(ix), (x). Pub. L. 113–79, §7404(b)(1), added cls. (ix) and (x).
 
-Subsec. (b)(2)(D). Pub. L. 113–79, §7404(b)(2)(A), substituted “Bioenergy” for “Renewable energy” in heading.
+Subsec. (b)(2)(D). Pub. L. 113–79, §7404(b)(2)(A), substituted "Bioenergy" for "Renewable energy" in heading.
 
 Subsec. (b)(2)(D)(iv) to (vii). Pub. L. 113–79, §7404(b)(2)(B), (C), added cl. (iv) and redesignated former cls. (iv) to (vi) as (v) to (vii), respectively.
 
-Subsec. (b)(2)(F). Pub. L. 113–79, §7404(b)(3)(A), inserted “economics,” after “trade,” in introductory provisions.
+Subsec. (b)(2)(F). Pub. L. 113–79, §7404(b)(3)(A), inserted "economics," after "trade," in introductory provisions.
 
 Subsec. (b)(2)(F)(v) to (vii). Pub. L. 113–79, §7404(b)(3)(B), (C), added cl. (v) and redesignated former cls. (v) and (vi) as (vi) and (vii), respectively.
 
@@ -418,7 +418,7 @@ Subsec. (b)(4)(F). Pub. L. 113–79, §7404(c), added subpar. (F).
 
 Subsec. (b)(6)(E). Pub. L. 113–79, §7404(d), added subpar. (E).
 
-Subsec. (b)(7)(G). Pub. L. 113–79, §7404(e), substituted “, foundations, or corporations” for “or corporations”.
+Subsec. (b)(7)(G). Pub. L. 113–79, §7404(e), substituted ", foundations, or corporations" for "or corporations".
 
 Subsec. (b)(9)(A)(iii). Pub. L. 113–79, §7128(b)(4)(A), added cl. (iii).
 
@@ -426,11 +426,11 @@ Subsec. (b)(9)(B). Pub. L. 113–79, §7404(f), added subpar. (B).
 
 Pub. L. 113–79, §7128(b)(4)(B), struck out subpar. (B) which related to applied research.
 
-Subsec. (b)(11)(A). Pub. L. 113–79, §7404(a), substituted “2018” for “2012” in introductory provisions.
+Subsec. (b)(11)(A). Pub. L. 113–79, §7404(a), substituted "2018" for "2012" in introductory provisions.
 
-Subsec. (e)(1)(A). Pub. L. 113–79, §7404(g)(1), substituted “pesticides for minor agricultural use and for use on specialty crops (as defined in section 3 of the Specialty Crops Competitiveness Act of 2004 (7 U.S.C. 1621 note)),” for “minor use pesticides”.
+Subsec. (e)(1)(A). Pub. L. 113–79, §7404(g)(1), substituted "pesticides for minor agricultural use and for use on specialty crops (as defined in section 3 of the Specialty Crops Competitiveness Act of 2004 (7 U.S.C. 1621 note))," for "minor use pesticides".
 
-Subsec. (e)(4)(A). Pub. L. 113–79, §7404(g)(2)(A), inserted “and for use on specialty crops” after “minor agricultural use”.
+Subsec. (e)(4)(A). Pub. L. 113–79, §7404(g)(2)(A), inserted "and for use on specialty crops" after "minor agricultural use".
 
 Subsec. (e)(4)(C) to (G). Pub. L. 113–79, §7404(g)(2)(B)–(D), added subpars. (C) to (F) and redesignated former subpar. (C) as (G).
 
@@ -438,45 +438,45 @@ Subsec. (e)(4)(C) to (G). Pub. L. 113–79, §7404(g)(2)(B)–(D), added subpars
 
 Subsec. (d). Pub. L. 110–246, §7406(b)(2), struck out subsec. (d) which related to annual grants to support the renovation and refurbishment of research spaces in buildings or spaces to be used for research and the purchase and installation of fixed equipment in such spaces.
 
-Subsec. (k). Pub. L. 110–246, §7101(b)(2), which directed amendment of “Section 2(k) of the Competitive, Special, and Facilities Research Grant Act” by substituting “3103” for “3103(17)”, was executed by making the substitution to subsec. (k) of this section, which is the Competitive, Special, and Facilities Research Grant Act, to reflect the probable intent of Congress.
+Subsec. (k). Pub. L. 110–246, §7101(b)(2), which directed amendment of "Section 2(k) of the Competitive, Special, and Facilities Research Grant Act" by substituting "3103" for "3103(17)", was executed by making the substitution to subsec. (k) of this section, which is the Competitive, Special, and Facilities Research Grant Act, to reflect the probable intent of Congress.
 
-**2002**—Subsec. (b)(2). Pub. L. 107–171, §7211, substituted “in the areas described in subparagraphs (A) through (F). Such needs shall be determined by the Secretary, in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board, not later than July 1 of each fiscal year for the purposes of the following fiscal year.” for “in—” in provisions preceding subpar. (A).
+**2002**—Subsec. (b)(2). Pub. L. 107–171, §7211, substituted "in the areas described in subparagraphs (A) through (F). Such needs shall be determined by the Secretary, in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board, not later than July 1 of each fiscal year for the purposes of the following fiscal year." for "in—" in provisions preceding subpar. (A).
 
-Subsec. (b)(8)(B). Pub. L. 107–171, §6403(b), substituted “college, university, or research foundation maintained by a college or university that ranks in the lowest 1/3 of such colleges, universities, and research foundations on the basis of Federal research funds received” for “smaller college or university (as described in section 2204f(c)(2)(C)(ii) of this title)” in second sentence.
+Subsec. (b)(8)(B). Pub. L. 107–171, §6403(b), substituted "college, university, or research foundation maintained by a college or university that ranks in the lowest 1/3 of such colleges, universities, and research foundations on the basis of Federal research funds received" for "smaller college or university (as described in section 2204f(c)(2)(C)(ii) of this title)" in second sentence.
 
-Subsec. (b)(10). Pub. L. 107–171, §7136, substituted “2007” for “2002” in introductory provisions.
+Subsec. (b)(10). Pub. L. 107–171, §7136, substituted "2007" for "2002" in introductory provisions.
 
 **2001**—Subsec. (b)(3)(G). Pub. L. 107–76, §775(1), added subpar. (G).
 
-Subsec. (b)(10)(C). Pub. L. 107–76, §775(2), substituted “, (F), and (G) of paragraph (3) for” for “and (F) of paragraph (3) for awarding grants in”.
+Subsec. (b)(10)(C). Pub. L. 107–76, §775(2), substituted ", (F), and (G) of paragraph (3) for" for "and (F) of paragraph (3) for awarding grants in".
 
-**1998**—Subsec. (b)(1). Pub. L. 105–185, §§211(1), 606(h)(1), in first sentence, inserted “national laboratories,” after “Federal agencies,” and in second sentence, substituted “National Agricultural Research, Extension, Education, and Economics Advisory Board (as established under section 3123 of this title)” for “Joint Council on Food and Agricultural Sciences and the National Agricultural Research and Extension Users Advisory Board”.
+**1998**—Subsec. (b)(1). Pub. L. 105–185, §§211(1), 606(h)(1), in first sentence, inserted "national laboratories," after "Federal agencies," and in second sentence, substituted "National Agricultural Research, Extension, Education, and Economics Advisory Board (as established under section 3123 of this title)" for "Joint Council on Food and Agricultural Sciences and the National Agricultural Research and Extension Users Advisory Board".
 
-Subsec. (b)(2). Pub. L. 105–185, §211(2), substituted “multistate” for “regional” in introductory provisions.
+Subsec. (b)(2). Pub. L. 105–185, §211(2), substituted "multistate" for "regional" in introductory provisions.
 
-Subsec. (b)(3)(E). Pub. L. 105–185, §211(3), substituted “an individual shall be within 5 years of the individual's initial career track position” for “an individual shall have less than 5 years of post-graduate research experience” in second sentence.
+Subsec. (b)(3)(E). Pub. L. 105–185, §211(3), substituted "an individual shall be within 5 years of the individual's initial career track position" for "an individual shall have less than 5 years of post-graduate research experience" in second sentence.
 
-Subsec. (b)(8)(B). Pub. L. 105–185, §211(4), substituted “the cost of” for “the cost” and inserted at end “The Secretary may waive all or part of the matching requirement under this subparagraph in the case of a smaller college or university (as described in section 2204f(c)(2)(C)(ii) of this title) if the equipment to be acquired costs not more than $25,000 and has multiple uses within a single research project or is usable in more than 1 research project.”
+Subsec. (b)(8)(B). Pub. L. 105–185, §211(4), substituted "the cost of" for "the cost" and inserted at end "The Secretary may waive all or part of the matching requirement under this subparagraph in the case of a smaller college or university (as described in section 2204f(c)(2)(C)(ii) of this title) if the equipment to be acquired costs not more than $25,000 and has multiple uses within a single research project or is usable in more than 1 research project."
 
-Subsec. (b)(10). Pub. L. 105–185, §301(f), substituted “2002” for “1997” in introductory provisions.
+Subsec. (b)(10). Pub. L. 105–185, §301(f), substituted "2002" for "1997" in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 105–185, §212(1)(A), substituted “3 years” for “5 years” in introductory provisions.
+Subsec. (c)(1). Pub. L. 105–185, §212(1)(A), substituted "3 years" for "5 years" in introductory provisions.
 
-Subsec. (c)(1)(A). Pub. L. 105–185, §212(1)(B), inserted “, extension, or education activities” after “conducting research”.
+Subsec. (c)(1)(A). Pub. L. 105–185, §212(1)(B), inserted ", extension, or education activities" after "conducting research".
 
-Subsec. (c)(1)(B). Pub. L. 105–185, §212(1)(C)(i), inserted “, extension, or education” after “agricultural research” in introductory provisions.
+Subsec. (c)(1)(B). Pub. L. 105–185, §212(1)(C)(i), inserted ", extension, or education" after "agricultural research" in introductory provisions.
 
-Subsec. (c)(1)(B)(i). Pub. L. 105–185, §212(1)(C)(ii), inserted “, extension, or education” after “research”.
+Subsec. (c)(1)(B)(i). Pub. L. 105–185, §212(1)(C)(ii), inserted ", extension, or education" after "research".
 
-Subsec. (c)(1)(B)(iv). Pub. L. 105–185, §212(1)(C)(iii), substituted “, extension, or education among States through regional” for “among States through regional research”.
+Subsec. (c)(1)(B)(iv). Pub. L. 105–185, §212(1)(C)(iii), substituted ", extension, or education among States through regional" for "among States through regional research".
 
 Subsec. (c)(5), (6). Pub. L. 105–185, §212(2), added pars. (5) and (6).
 
-Subsec. (l). Pub. L. 105–185, §606(h)(2), struck out heading and text of subsec. (l). Text read as follows: “The Secretary of Agriculture may consult with the Agricultural Science and Technology Review Board regarding the policies, priorities, and operation of subsections (b) and (c) of this section.”
+Subsec. (l). Pub. L. 105–185, §606(h)(2), struck out heading and text of subsec. (l). Text read as follows: "The Secretary of Agriculture may consult with the Agricultural Science and Technology Review Board regarding the policies, priorities, and operation of subsections (b) and (c) of this section."
 
-**1996**—Subsec. (b)(10). Pub. L. 104–127, §885(a)(1), substituted “each of fiscal years 1995 through 1997” for “fiscal year 1995” in introductory provisions.
+**1996**—Subsec. (b)(10). Pub. L. 104–127, §885(a)(1), substituted "each of fiscal years 1995 through 1997" for "fiscal year 1995" in introductory provisions.
 
-Subsec. (b)(10)(B). Pub. L. 104–127, §885(a)(2), substituted “40 percent” for “20 percent”.
+Subsec. (b)(10)(B). Pub. L. 104–127, §885(a)(2), substituted "40 percent" for "20 percent".
 
 Subsec. (b)(11). Pub. L. 104–127, §885(b), added par. (11).
 
@@ -484,41 +484,41 @@ Subsec. (b)(11). Pub. L. 104–127, §885(b), added par. (11).
 
 **1991**—Subsec. (a). Pub. L. 102–237, §401(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b)(10). Pub. L. 102–237, §401(b)(1), struck out “and” after “1993,”.
+Subsec. (b)(10). Pub. L. 102–237, §401(b)(1), struck out "and" after "1993,".
 
-Subsec. (e). Pub. L. 102–237, §401(b)(2)(A), substituted “Inter-Regional Research Project Number 4” for “Record keeping” as heading.
+Subsec. (e). Pub. L. 102–237, §401(b)(2)(A), substituted "Inter-Regional Research Project Number 4" for "Record keeping" as heading.
 
-Subsec. (e)(1). Pub. L. 102–237, §401(b)(2)(B), substituted “this subsection” for “this section” in introductory provisions.
+Subsec. (e)(1). Pub. L. 102–237, §401(b)(2)(B), substituted "this subsection" for "this section" in introductory provisions.
 
-Subsec. (e)(2) to (4). Pub. L. 102–237, §401(b)(2)(C), substituted “IR–4 Program” for “IR–4 program”.
+Subsec. (e)(2) to (4). Pub. L. 102–237, §401(b)(2)(C), substituted "IR–4 Program" for "IR–4 program".
 
-Subsec. (e)(5)(B). Pub. L. 102–237, §401(b)(2)(D), substituted “registrations,” for “registration,” and inserted “and” at end.
+Subsec. (e)(5)(B). Pub. L. 102–237, §401(b)(2)(D), substituted "registrations," for "registration," and inserted "and" at end.
 
-Subsec. (e)(5)(C). Pub. L. 102–237, §401(b)(2)(C), substituted “IR–4 Program” for “IR–4 program”.
+Subsec. (e)(5)(C). Pub. L. 102–237, §401(b)(2)(C), substituted "IR–4 Program" for "IR–4 program".
 
-Subsec. (e)(6). Pub. L. 102–237, §401(b)(2)(E), substituted “not later than November 28, 1991,” for “within one year of November 28, 1990,” and inserted a comma after “reregistrations” in first sentence.
+Subsec. (e)(6). Pub. L. 102–237, §401(b)(2)(E), substituted "not later than November 28, 1991," for "within one year of November 28, 1990," and inserted a comma after "reregistrations" in first sentence.
 
-Subsec. (e)(6)(A). Pub. L. 102–237, §401(b)(2)(C), substituted “IR–4 Program” for “IR–4 program”.
+Subsec. (e)(6)(A). Pub. L. 102–237, §401(b)(2)(C), substituted "IR–4 Program" for "IR–4 program".
 
-Subsec. (e)(7). Pub. L. 102–237, §401(b)(2)(B), substituted “this subsection” for “this section”.
+Subsec. (e)(7). Pub. L. 102–237, §401(b)(2)(B), substituted "this subsection" for "this section".
 
-Subsec. (f). Pub. L. 102–237, §401(b)(3), substituted “Record keeping” for “Limits on overhead costs” as heading.
+Subsec. (f). Pub. L. 102–237, §401(b)(3), substituted "Record keeping" for "Limits on overhead costs" as heading.
 
-Subsec. (g). Pub. L. 102–237, §401(b)(4), substituted “Limits on overhead costs” for “Authorization of appropriations” as heading.
+Subsec. (g). Pub. L. 102–237, §401(b)(4), substituted "Limits on overhead costs" for "Authorization of appropriations" as heading.
 
-Subsec. (h). Pub. L. 102–237, §401(b)(5), substituted “Authorization of appropriations” for “Rules” as heading and “subsections (b) and (e) of this section” for “subsection (b) of this section” and struck out “the provisions of” after “to carry out”.
+Subsec. (h). Pub. L. 102–237, §401(b)(5), substituted "Authorization of appropriations" for "Rules" as heading and "subsections (b) and (e) of this section" for "subsection (b) of this section" and struck out "the provisions of" after "to carry out".
 
-Subsec. (i). Pub. L. 102–237, §401(b)(6), substituted “Rules” for “Application of other laws” as heading, substituted “may” for “is authorized to”, and struck out “the provisions of” after “to carry out”.
+Subsec. (i). Pub. L. 102–237, §401(b)(6), substituted "Rules" for "Application of other laws" as heading, substituted "may" for "is authorized to", and struck out "the provisions of" after "to carry out".
 
-Subsec. (j). Pub. L. 102–237, §401(b)(7), (8), inserted “Application of other laws” as heading and redesignated another subsec. (j), relating to emphasis on sustainable agriculture, as (k).
+Subsec. (j). Pub. L. 102–237, §401(b)(7), (8), inserted "Application of other laws" as heading and redesignated another subsec. (j), relating to emphasis on sustainable agriculture, as (k).
 
 Subsecs. (k) to (m). Pub. L. 102–237, §401(b)(8), redesignated subsecs. (j) to (l), as added by Pub. L. 101–624, §1615(b), as (k) to (m), respectively.
 
-**1990**—Pub. L. 101–624, §1615(c)(1), inserted “Competitive, special, and facilities research grants” as section catchline.
+**1990**—Pub. L. 101–624, §1615(c)(1), inserted "Competitive, special, and facilities research grants" as section catchline.
 
 Subsec. (a). Pub. L. 101–624, §1615(c)(1), inserted heading.
 
-Subsec. (b). Pub. L. 101–624, §1615(a), inserted heading, designated first two sentences of existing text as par. (1), added pars. (2) to (10), and struck out former similar provisions which identified “high priority research” as well as provisions relating to the awarding, administration, and funding of such research.
+Subsec. (b). Pub. L. 101–624, §1615(a), inserted heading, designated first two sentences of existing text as par. (1), added pars. (2) to (10), and struck out former similar provisions which identified "high priority research" as well as provisions relating to the awarding, administration, and funding of such research.
 
 Subsec. (c). Pub. L. 101–624, §1616, amended subsec. (c) generally, designating former introductory text as par. (1), redesignating former pars. (1) and (2) as subpars. (A) and (B), respectively, and in subpar. (A), expanding the entities which may receive grants under this subsection to include all colleges and universities, other research institutions and organizations, Federal agencies, private organizations or corporations, and individuals for the purpose of conducting research in areas of food and agriculture important to the U.S., and designating former closing provisions as pars. (2) through (4), and in par. (4), inserting provisions requiring that ninety percent of the amounts appropriated for a fiscal year under this subsection be used for regional research projects.
 
@@ -530,7 +530,7 @@ Subsec. (f). Pub. L. 101–624, §§1497(1), 1615(c)(4), redesignated subsec. (e
 
 Subsec. (g). Pub. L. 101–624, §§1497(1), 1615(c)(5), redesignated subsec. (f) as (g) and inserted heading. Former subsec. (g) redesignated (h).
 
-Pub. L. 101–624, §1497(3), which directed insertion of “and subsection (e)” after “subsection (b)”, could not be executed because “subsection (b)” did not appear in text.
+Pub. L. 101–624, §1497(3), which directed insertion of "and subsection (e)" after "subsection (b)", could not be executed because "subsection (b)" did not appear in text.
 
 Subsec. (h). Pub. L. 101–624, §§1497(1), 1615(c)(6), redesignated subsec. (g) as (h) and inserted heading. Former subsec. (h) redesignated (i).
 
@@ -542,7 +542,7 @@ Pub. L. 101–624, §1497(1), redesignated subsec. (i), relating to application 
 
 Subsecs. (k) and (l). Pub. L. 101–624, §1615(b), added subsecs. (k) and (l).
 
-**1985**—Subsec. (b). Pub. L. 99–198, §1409(a)(1), (2), substituted in third sentence par. “(2) research, with emphasis on biotechnology,” for “(2) research” and added pars. (7) and (8), and prohibited any grant under subsec. (b) for any purpose for which a grant may be made under subsec. (d) or for the planning, repair, rehabilitation, acquisition, or construction of a building or a facility.
+**1985**—Subsec. (b). Pub. L. 99–198, §1409(a)(1), (2), substituted in third sentence par. "(2) research, with emphasis on biotechnology," for "(2) research" and added pars. (7) and (8), and prohibited any grant under subsec. (b) for any purpose for which a grant may be made under subsec. (d) or for the planning, repair, rehabilitation, acquisition, or construction of a building or a facility.
 
 Pub. L. 99–198, §1409(a)(3), in concluding provisions substituted appropriations authorization of $70,000,000 annually for fiscal years ending Sept. 30, 1986, through Sept. 30, 1990 for prior authorization of 25, 30, 35, and 40 million dollars for fiscal years ending Sept. 30, 1978, through Sept. 30, 1981, and 50 million dollars annually for fiscal years ending Sept. 30, 1982, through Sept. 30, 1985, and for any subsequent fiscal year not in excess of such sums as may be authorized by law; and authorized retention of four percent of appropriated funds for payment of administrative costs.
 
@@ -552,9 +552,9 @@ Pub. L. 99–198, §1409(b)(2), authorized retention of four percent of appropri
 
 Subsec. (i). Pub. L. 99–198, §1409(c), added subsec. (i).
 
-**1981**—Subsec. (b). Pub. L. 97–98, §1415(a), inserted “and the National Agricultural Research and Extension Users Advisory Board” and provision specifying what is included in high priority research and substituted “for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985” for “for the fiscal year ending September 30, 1982”.
+**1981**—Subsec. (b). Pub. L. 97–98, §1415(a), inserted "and the National Agricultural Research and Extension Users Advisory Board" and provision specifying what is included in high priority research and substituted "for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, and September 30, 1985" for "for the fiscal year ending September 30, 1982".
 
-Subsec. (c). Pub. L. 97–98, §1415(b), in par. (1) inserted “research foundations established by land-grant colleges and universities,”, in par. (2) inserted reference to research foundations established by land-grant colleges and universities, colleges and universities receiving funds under the Act of October 10, 1962, and accredited schools or colleges of veterinary medicine, and added subpar. (D).
+Subsec. (c). Pub. L. 97–98, §1415(b), in par. (1) inserted "research foundations established by land-grant colleges and universities,", in par. (2) inserted reference to research foundations established by land-grant colleges and universities, colleges and universities receiving funds under the Act of October 10, 1962, and accredited schools or colleges of veterinary medicine, and added subpar. (D).
 
 Subsec. (d). Pub. L. 97–98, §1415(c), in provision preceding par. (1) substituted provision directing that annual grants be made to support the renovation and refurbishment, including energy retrofitting, of research spaces in buildings or spaces to be used for research, and the purchase and installation of fixed equipment in such spaces and providing that grants may be used for new construction only for auxiliary facilities and fixed equipment used for research in such facilities, such as greenhouses, insectaries, and research farm structures and installations for provision that grants be made to support the purchase of equipment, supplies, and land, and the construction, alteration, or renovation of buildings, necessary for the conduct of food and agricultural research and added pars. (3) and (4).
 
@@ -564,7 +564,7 @@ Subsec. (d). Pub. L. 97–98, §1415(c), in provision preceding par. (1) substit
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-Pub. L. 110–234, title VII, §7406(c), May 22, 2008, 122 Stat. 1251, and Pub. L. 110–246, §4(a), title VII, §7406(c), June 18, 2008, 122 Stat. 1664, 2013, provided that: “The amendments made by this section [amending this section and sections 3319, 5924, and 5925b of this title and repealing section 7621 of this title] shall not apply to any solicitation for grant applications issued by the Cooperative State Research, Education, and Extension Service before the date of enactment of this Act [June 18, 2008].”
+Pub. L. 110–234, title VII, §7406(c), May 22, 2008, 122 Stat. 1251, and Pub. L. 110–246, §4(a), title VII, §7406(c), June 18, 2008, 122 Stat. 1664, 2013, provided that: "The amendments made by this section [amending this section and sections 3319, 5924, and 5925b of this title and repealing section 7621 of this title] shall not apply to any solicitation for grant applications issued by the Cooperative State Research, Education, and Extension Service before the date of enactment of this Act [June 18, 2008]."
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 

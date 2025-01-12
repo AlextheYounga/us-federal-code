@@ -60,7 +60,7 @@ Sec.
 
 13742. Ounce of prevention grant program.
 
-13743. “Indian tribe” defined.
+13743. "Indian tribe" defined.
 
 13744. Authorization of appropriations.
 
@@ -310,7 +310,7 @@ Sec.
 
 #### Part K—Services, Education, Protection and Justice for Young Victims of Violence ####
 
-14043c. Creating hope through outreach, options, services, and education for children and youth (“CHOOSE Children & Youth”).
+14043c. Creating hope through outreach, options, services, and education for children and youth ("CHOOSE Children & Youth").
 
 14043c–1 to 14043c–3. Repealed.
 
@@ -380,7 +380,7 @@ Sec.
 
 #### SUBCHAPTER IV—DRUG CONTROL ####
 
-14051. Increased penalties for drug-dealing in “drug-free” zones.
+14051. Increased penalties for drug-dealing in "drug-free" zones.
 
 14052. Enhanced penalties for illegal drug use in Federal prisons and for smuggling drugs into Federal prisons.
 
