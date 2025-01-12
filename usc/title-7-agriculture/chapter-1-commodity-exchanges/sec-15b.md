@@ -40,7 +40,7 @@ For purposes of this section, the only markets which shall be considered bona fi
 
 #### (2) Determination ####
 
-In determining, pursuant to the provisions of this section, what markets are bona fide spot markets, the Secretary is directed to consider only markets in which spot cotton is sold in such volume and under such conditions as customarily to reflect accurately the value of middling cotton and the differences between the prices or values of middling cotton and of other grades of cotton for which standards shall have been established by the Secretary; except that if there are not sufficient places, in the markets of which are made bona fide sales of spot cotton of grades for which standards are established by the Secretary, to enable him to designate at least five spot markets in accordance with subsection (f)(3) of this section, he shall, from data as to spot sales collected by him, make rules and regulations for determining the actual commercial differences in the value of spot cotton of the grades established by him as reflected by bona fide sales of spot cotton, of the same or different grades, in the market selected and designated by him, from time to time, for that purpose, and in that event differences in value of cotton of various grades involved in contracts made pursuant to subsection (f)(1) and (2) of this section shall be determined in compliance with such rules and regulations. It shall be the duty of any person engaged in the business of dealing in cotton, when requested by the Secretary or any agent acting under his instructions, to answer correctly to the best of his knowledge, under oath or otherwise, all questions touching his knowledge of the number of bales, the classification, the price or bona fide price offered, and other terms of purchase or sale, of any cotton involved in any transaction participated in by him, or to produce all books, letters, papers, or documents in his possession or under his control relating to such matter. A person complying with the preceding sentence shall not be liable for any loss or damage arising or resulting from such compliance.
+In determining, pursuant to the provisions of this section, what markets are bona fide spot markets, the Secretary is directed to consider only markets in which spot cotton is sold in such volume and under such conditions as customarily to reflect accurately the value of middling cotton and the differences between the prices or values of middling cotton and of other grades of cotton for which standards shall have been established by the Secretary; except that if there are not sufficient places, in the markets of which are made bona fide sales of spot cotton of grades for which standards are established by the Secretary, to enable him to designate at least five spot markets in accordance with subsection (f)(3), he shall, from data as to spot sales collected by him, make rules and regulations for determining the actual commercial differences in the value of spot cotton of the grades established by him as reflected by bona fide sales of spot cotton, of the same or different grades, in the market selected and designated by him, from time to time, for that purpose, and in that event differences in value of cotton of various grades involved in contracts made pursuant to subsection (f)(1) and (2) shall be determined in compliance with such rules and regulations. It shall be the duty of any person engaged in the business of dealing in cotton, when requested by the Secretary or any agent acting under his instructions, to answer correctly to the best of his knowledge, under oath or otherwise, all questions touching his knowledge of the number of bales, the classification, the price or bona fide price offered, and other terms of purchase or sale, of any cotton involved in any transaction participated in by him, or to produce all books, letters, papers, or documents in his possession or under his control relating to such matter. A person complying with the preceding sentence shall not be liable for any loss or damage arising or resulting from such compliance.
 
 #### (3) Withholding information ####
 
@@ -48,7 +48,7 @@ Any person engaged in the business of dealing in cotton who shall, within a reas
 
 #### (e) Form and validity of cotton futures contracts ####
 
-Each cotton futures contract shall be a basis grade contract, or a tendered grade contract, or a specific grade contract as specified in subsections (f), (g), or (h) of this section and shall be in writing plainly stating, or evidenced by written memorandum showing, the terms of such contract, including the quantity of the cotton involved and the names and addresses of the seller and buyer in such contract, and shall be signed by the party to be charged, or by his agent in his behalf. No cotton futures contract which does not conform to such requirements shall be enforceable by, or on behalf of, any party to such contract or his privies.
+Each cotton futures contract shall be a basis grade contract, or a tendered grade contract, or a specific grade contract as specified in subsections (f), (g), or (h) and shall be in writing plainly stating, or evidenced by written memorandum showing, the terms of such contract, including the quantity of the cotton involved and the names and addresses of the seller and buyer in such contract, and shall be signed by the party to be charged, or by his agent in his behalf. No cotton futures contract which does not conform to such requirements shall be enforceable by, or on behalf of, any party to such contract or his privies.
 
 #### (f) Basis grade contracts ####
 
@@ -100,7 +100,7 @@ Each tendered grade cotton future contract shall comply with each of the followi
 
 #### (A) Compliance with subsection (f) ####
 
-Comply with all the terms and conditions of subsection (f) of this section not inconsistent with this subsection; and
+Comply with all the terms and conditions of subsection (f) not inconsistent with this subsection; and
 
 #### (B) Provision for contingent specific performance ####
 
@@ -142,7 +142,7 @@ The provisions of paragraphs (1)(A), (C), and (D) shall be deemed fully incorpor
 
 #### (3) Application of subsection ####
 
-This subsection shall not be construed to apply to any contract of sale made in compliance with subsection (f) or (g) of this section.
+This subsection shall not be construed to apply to any contract of sale made in compliance with subsection (f) or (g).
 
 #### (i) Liability of principal for acts of agent ####
 
@@ -154,7 +154,7 @@ The Secretary is authorized to make such regulations with the force and effect o
 
 #### (k) Violations ####
 
-Any person who knowingly violates any regulation made in pursuance of this section, shall, upon conviction thereof, be fined not less than $100 nor more than $500, for each violation thereof, in the discretion of the court, and, in case of natural persons, may, in addition be punished by imprisonment for not less than 30 days nor more than 90 days, for each violation, in the discretion of the court except that this subsection shall not apply to violations subject to subsection (d)(3) of this section.
+Any person who knowingly violates any regulation made in pursuance of this section, shall, upon conviction thereof, be fined not less than $100 nor more than $500, for each violation thereof, in the discretion of the court, and, in case of natural persons, may, in addition be punished by imprisonment for not less than 30 days nor more than 90 days, for each violation, in the discretion of the court except that this subsection shall not apply to violations subject to subsection (d)(3).
 
 #### (l) Applicability to contracts prior to effective date ####
 

@@ -46,7 +46,7 @@ Except as provided in paragraph (2), in the Senate the provisions of sections 63
 
 #### (2) Limit on debate ####
 
-Debate in the Senate on any resolution reported pursuant to subsection (a)(2) of this section, and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to 10 hours.
+Debate in the Senate on any resolution reported pursuant to subsection (a)(2), and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to 10 hours.
 
 #### (3) Limitation on amendments ####
 

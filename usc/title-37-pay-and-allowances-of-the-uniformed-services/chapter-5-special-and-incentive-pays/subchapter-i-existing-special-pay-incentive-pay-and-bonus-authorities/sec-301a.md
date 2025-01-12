@@ -79,9 +79,9 @@ Subsec. (d). Pub. L. 105–261, §615(c)(1)(B), substituted "subsection (b) for 
 
 Pub. L. 105–85, §615(a), which directed amendment by inserting at the end of phase I of the table the following:
 
- "Over 14
-
-840";  
+|        |     |
+|--------|-----|
+|"Over 14|840";|
 
 and by striking out phase II of the table and inserting in lieu thereof the following:
 

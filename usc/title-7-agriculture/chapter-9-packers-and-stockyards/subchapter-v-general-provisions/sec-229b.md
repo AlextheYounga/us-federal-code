@@ -32,15 +32,15 @@ Notwithstanding a provision in any contract between a producer and a processor f
 
 #### (c) Effect on State laws ####
 
-Subsection (b) of this section does not—
+Subsection (b) does not—
 
-(1) preempt any State law that addresses confidentiality provisions in contracts for the sale or production of livestock or poultry, except any provision of State law that makes lawful a contract provision that prohibits a party from, or limits a party in, engaging in discussion that subsection (b) of this section requires to be permitted; or
+(1) preempt any State law that addresses confidentiality provisions in contracts for the sale or production of livestock or poultry, except any provision of State law that makes lawful a contract provision that prohibits a party from, or limits a party in, engaging in discussion that subsection (b) requires to be permitted; or
 
 (2) deprive any State court of jurisdiction under any such State law.
 
 #### (d) Applicability ####
 
-This section applies to each contract described in subsection (b) of this section that is entered into, amended, renewed, or extended after May 13, 2002.
+This section applies to each contract described in subsection (b) that is entered into, amended, renewed, or extended after May 13, 2002.
 
 (Pub. L. 107–171, title X, §10503, May 13, 2002, 116 Stat. 510.)
 

@@ -54,7 +54,7 @@ To assure the normal movement of grain at all inspection points in a timely mann
 
 #### (j) Deposit of fees ####
 
-Fees collected under subsections (g), (h), and (i) of this section shall be deposited into the fund created under section 79(j) of this title.
+Fees collected under subsections (g), (h), and (i) shall be deposited into the fund created under section 79(j) of this title.
 
 #### (k) Official courtesies ####
 

@@ -24,7 +24,7 @@
 
 (ii) a manipulation of the price of any such contract or swap or the price of the commodity underlying such contract or swap.
 
-(2) Except as provided in subsection (b) of this section, the rights of action authorized by this subsection and by sections 7(d)(13), 7a–1(c)(2)(H), and 21(b)(10) of this title shall be the exclusive remedies under this chapter available to any person who sustains loss as a result of any alleged violation of this chapter. Nothing in this subsection shall limit or abridge the rights of the parties to agree in advance of a dispute upon any forum for resolving claims under this section, including arbitration.
+(2) Except as provided in subsection (b), the rights of action authorized by this subsection and by sections 7(d)(13), 7a–1(c)(2)(H), and 21(b)(10) of this title shall be the exclusive remedies under this chapter available to any person who sustains loss as a result of any alleged violation of this chapter. Nothing in this subsection shall limit or abridge the rights of the parties to agree in advance of a dispute upon any forum for resolving claims under this section, including arbitration.
 
 (3) In any action arising from a violation in the execution of an order on the floor of a registered entity, the person referred to in paragraph (1) shall be liable for—
 

@@ -30,7 +30,7 @@
 
 (b) No person licensed or authorized to perform any function under this chapter shall—
 
-(1) commit any offense prohibited by subsection (a) of this section;
+(1) commit any offense prohibited by subsection (a);
 
 (2) knowingly perform improperly any official sampling or other official inspection or weighing function under this chapter;
 

@@ -284,7 +284,7 @@ Funds made available under this paragraph shall—
 
 (2) Limitations.—The Secretary may not make a grant under this subsection—
 
-(A) for any purpose for which a grant may be made under subsection (d) of this section; or
+(A) for any purpose for which a grant may be made under subsection (d); or
 
 (B) for the planning, repair, rehabilitation, acquisition, or construction of a building or facility.
 
@@ -370,7 +370,7 @@ The Secretary of Agriculture shall limit allowable overhead costs, with respect 
 
 #### (h) Authorization of appropriations ####
 
-Except as otherwise provided in subsections (b) and (e) of this section, there are hereby authorized to be appropriated such sums as are necessary to carry out this section.
+Except as otherwise provided in subsections (b) and (e), there are hereby authorized to be appropriated such sums as are necessary to carry out this section.
 
 #### (i) Rules ####
 
@@ -382,7 +382,7 @@ The Federal Advisory Committee Act and title XVIII of the Food and Agriculture A
 
 #### (k) Emphasis on sustainable agriculture ####
 
-The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) of this section are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term "sustainable agriculture" has the meaning given that term in section 3103 of this title.
+The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term "sustainable agriculture" has the meaning given that term in section 3103 of this title.
 
 (Pub. L. 89–106, §2, Aug. 4, 1965, 79 Stat. 431; Pub. L. 95–113, title XIV, §1414, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1415, Dec. 22, 1981, 95 Stat. 1303; Pub. L. 99–198, title XIV, §1409, Dec. 23, 1985, 99 Stat. 1546; Pub. L. 101–624, title XIV, §1497, title XVI, §§1615, 1616, Nov. 28, 1990, 104 Stat. 3630, 3729, 3732; Pub. L. 102–237, title IV, §401, Dec. 13, 1991, 105 Stat. 1862; Pub. L. 104–66, title I, §1011(v), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, §885, Apr. 4, 1996, 110 Stat. 1179; Pub. L. 105–185, title II, §§211, 212, title III, §301(f), title VI, §606(h), June 23, 1998, 112 Stat. 536, 563, 604; Pub. L. 107–76, title VII, §775, Nov. 28, 2001, 115 Stat. 746; Pub. L. 107–171, title VI, §6403(b), title VII, §§7136, 7211, May 13, 2002, 116 Stat. 429, 436, 447; Pub. L. 110–234, title VII, §§7101(b)(2), 7406(a), (b)(2), May 22, 2008, 122 Stat. 1213, 1247, 1251; Pub. L. 110–246, §4(a), title VII, §§7101(b)(2), 7406(a), (b)(2), June 18, 2008, 122 Stat. 1664, 1974, 2009, 2013; Pub. L. 113–79, title VII, §§7128(b)(4), 7404, Feb. 7, 2014, 128 Stat. 879, 895.)
 
@@ -506,7 +506,7 @@ Subsec. (f). Pub. L. 102–237, §401(b)(3), substituted "Record keeping" for "L
 
 Subsec. (g). Pub. L. 102–237, §401(b)(4), substituted "Limits on overhead costs" for "Authorization of appropriations" as heading.
 
-Subsec. (h). Pub. L. 102–237, §401(b)(5), substituted "Authorization of appropriations" for "Rules" as heading and "subsections (b) and (e) of this section" for "subsection (b) of this section" and struck out "the provisions of" after "to carry out".
+Subsec. (h). Pub. L. 102–237, §401(b)(5), substituted "Authorization of appropriations" for "Rules" as heading and "subsections (b) and (e)" for "subsection (b) of this section" and struck out "the provisions of" after "to carry out".
 
 Subsec. (i). Pub. L. 102–237, §401(b)(6), substituted "Rules" for "Application of other laws" as heading, substituted "may" for "is authorized to", and struck out "the provisions of" after "to carry out".
 

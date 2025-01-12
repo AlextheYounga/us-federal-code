@@ -6,7 +6,7 @@
 
 (c) Whenever, pursuant to a claim filed with the Secretary within two years after payment to him of any penalty collected from any person pursuant to this chapter, the Secretary finds that such penalty was erroneously, illegally, or wrongfully collected and the claimant bore the burden of the payment of such penalty, the Secretary shall certify to the Secretary of the Treasury for payment to the claimant, in accordance with regulations prescribed by the Secretary of the Treasury, such amount as the Secretary finds the claimant is entitled to receive as a refund of such penalty.
 
-Notwithstanding any other provision of law, the Secretary is authorized to prescribe by regulations for the identification of farms and it shall be sufficient to schedule receipts into special deposit accounts or to schedule such receipts for transfer therefrom, or directly, into the separate fund provided for in subsection (b) of this section by means of such identification without reference to the names of the producers on such farms.
+Notwithstanding any other provision of law, the Secretary is authorized to prescribe by regulations for the identification of farms and it shall be sufficient to schedule receipts into special deposit accounts or to schedule such receipts for transfer therefrom, or directly, into the separate fund provided for in subsection (b) by means of such identification without reference to the names of the producers on such farms.
 
 The Secretary is authorized to prescribe regulations governing the filing of such claims and the determination of such refunds.
 

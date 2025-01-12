@@ -6,7 +6,7 @@ There is hereby established in the Treasury a revolving fund for duplication and
 
 #### (b) Fees for services ####
 
-The Librarian may charge a fee for providing services described in subsection (a) of this section, and shall deposit any such fees charged into the revolving fund under this section.
+The Librarian may charge a fee for providing services described in subsection (a), and shall deposit any such fees charged into the revolving fund under this section.
 
 #### (c) Contents of fund ####
 
@@ -14,9 +14,9 @@ The Librarian may charge a fee for providing services described in subsection (a
 
 The revolving fund under this section shall consist of the following amounts:
 
-(A) Amounts deposited by the Librarian under subsection (b) of this section.
+(A) Amounts deposited by the Librarian under subsection (b).
 
-(B) Any other amounts received by the Librarian which are attributable to the services described in subsection (a) of this section.
+(B) Any other amounts received by the Librarian which are attributable to the services described in subsection (a).
 
 (C) Amounts deposited by the Librarian under paragraph (2).
 
@@ -26,7 +26,7 @@ The revolving fund under this section shall consist of the following amounts:
 
 The Librarian shall transfer to the revolving fund under this section the following:
 
-(A) Any obligated, unexpended balances existing as of the date of the transfer which are attributable to the services described in subsection (a) of this section.
+(A) Any obligated, unexpended balances existing as of the date of the transfer which are attributable to the services described in subsection (a).
 
 (B) An amount equal to the difference as of such date between—
 
@@ -36,7 +36,7 @@ The Librarian shall transfer to the revolving fund under this section the follow
 
 #### (d) Use of amounts in fund ####
 
-Amounts in the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the services described in subsection (a) of this section.
+Amounts in the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the services described in subsection (a).
 
 (Pub. L. 106–481, title I, §101, Nov. 9, 2000, 114 Stat. 2187; Pub. L. 107–68, title II, §207, Nov. 12, 2001, 115 Stat. 587.)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-(1) Except as provided by subsection (b) of this section, it shall be unlawful for any person in any State to distribute or sell to any person—
+(1) Except as provided by subsection (b), it shall be unlawful for any person in any State to distribute or sell to any person—
 
 (A) any pesticide that is not registered under section 136a of this title or whose registration has been canceled or suspended, except to the extent that distribution or sale otherwise has been authorized by the Administrator under this subchapter;
 
@@ -28,7 +28,7 @@
 
 (iii) allow any entry, inspection, copying of records, or sampling authorized by this subchapter;
 
-(C) to give a guaranty or undertaking provided for in subsection (b) of this section which is false in any particular, except that a person who receives and relies upon a guaranty authorized under subsection (b) of this section may give a guaranty to the same effect, which guaranty shall contain, in addition to the person's own name and address, the name and address of the person residing in the United States from whom the person received the guaranty or undertaking;
+(C) to give a guaranty or undertaking provided for in subsection (b) which is false in any particular, except that a person who receives and relies upon a guaranty authorized under subsection (b) may give a guaranty to the same effect, which guaranty shall contain, in addition to the person's own name and address, the name and address of the person residing in the United States from whom the person received the guaranty or undertaking;
 
 (D) to use for the person's own advantage or to reveal, other than to the Administrator, or officials or employees of the Environmental Protection Agency or other Federal executive agencies, or to the courts, or to physicians, pharmacists, and other qualified persons, needing such information for the performance of their duties, in accordance with such directions as the Administrator may prescribe, any information acquired by authority of this subchapter which is confidential under this subchapter;
 
@@ -64,7 +64,7 @@
 
 #### (b) Exemptions ####
 
-The penalties provided for a violation of paragraph (1) of subsection (a) of this section shall not apply to—
+The penalties provided for a violation of paragraph (1) of subsection (a) shall not apply to—
 
 (1) any person who establishes a guaranty signed by, and containing the name and address of, the registrant or person residing in the United States from whom the person purchased or received in good faith the pesticide in the same unbroken package, to the effect that the pesticide was lawfully registered at the time of sale and delivery to the person, and that it complies with the other requirements of this subchapter, and in such case the guarantor shall be subject to the penalties which would otherwise attach to the person holding the guaranty under the provisions of this subchapter;
 

@@ -6,11 +6,11 @@ When directed to do so pursuant to section 288b(b) of this title, the Counsel sh
 
 #### (b) Actions in name of committees and subcommittees ####
 
-Any directive to the Counsel to bring a civil action pursuant to subsection (a) of this section in the name of a committee or subcommittee of the Senate shall, for such committee or subcommittee, constitute authorization to bring such action within the meaning of any statute conferring jurisdiction on any court of the United States.
+Any directive to the Counsel to bring a civil action pursuant to subsection (a) in the name of a committee or subcommittee of the Senate shall, for such committee or subcommittee, constitute authorization to bring such action within the meaning of any statute conferring jurisdiction on any court of the United States.
 
 #### (c) Consideration of resolutions authorizing actions ####
 
-It shall not be in order in the Senate to consider a resolution to direct the Counsel to bring a civil action pursuant to subsection (a) of this section in the name of a committee or subcommittee unless—
+It shall not be in order in the Senate to consider a resolution to direct the Counsel to bring a civil action pursuant to subsection (a) in the name of a committee or subcommittee unless—
 
 (1) such resolution is reported by a majority of the members voting, a majority being present, of such committee or committee of which such subcommittee is a subcommittee, and
 
@@ -26,7 +26,7 @@ It shall not be in order in the Senate to consider a resolution to direct the Co
 
 #### (d) Rules of Senate ####
 
-The provisions of subsection (c) of this section are enacted—
+The provisions of subsection (c) are enacted—
 
 (1) as an exercise of the rulemaking power of the Senate, and, as such, they shall be considered as part of the rules of the Senate, and such rules shall supersede any other rule of the Senate only to the extent that rule is inconsistent therewith; and
 
@@ -34,7 +34,7 @@ The provisions of subsection (c) of this section are enacted—
 
 #### (e) Committee reports ####
 
-A report filed pursuant to subsection (c)(2) of this section shall not be receivable in any court of law to the extent such report is in compliance with such subsection.
+A report filed pursuant to subsection (c)(2) shall not be receivable in any court of law to the extent such report is in compliance with such subsection.
 
 #### (f) Omitted ####
 

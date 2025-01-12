@@ -22,7 +22,7 @@ Before commencing a rulemaking or making a determination pursuant to a rule issu
 
 #### (1) Filing of petition for review ####
 
-The Board of Governors of the Federal Reserve System may obtain review of any rule or determination referred to in subsection (a) of this section in the United States Court of Appeals for the District of Columbia Circuit by filing in the court, not later than 60 days after the date of publication of the rule or determination, a written petition requesting that the rule or determination be set aside. Any proceeding to challenge any such rule or determination shall be expedited by the court.
+The Board of Governors of the Federal Reserve System may obtain review of any rule or determination referred to in subsection (a) in the United States Court of Appeals for the District of Columbia Circuit by filing in the court, not later than 60 days after the date of publication of the rule or determination, a written petition requesting that the rule or determination be set aside. Any proceeding to challenge any such rule or determination shall be expedited by the court.
 
 #### (2) Transmittal of petition and record ####
 

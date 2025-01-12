@@ -6,7 +6,7 @@ There are authorized to be appropriated for the purposes of sections 361a to 361
 
 #### (b) Allotments to States; authorization of appropriations for Virgin Islands and Guam; limitation ####
 
-(1) Out of such sums each State shall be entitled to receive annually a sum of money equal to and subject to the same requirement as to use for marketing research projects as the sums received from Federal appropriations for State agricultural experiment stations for the fiscal year 1955, except that amounts heretofore made available from the fund known as the "Regional research fund, Office of Experiment Stations" shall continue to be available for the support of cooperative regional projects as defined in subsection (c)(3) of this section, and the said fund shall be designated "Regional research fund, State agricultural experiment stations," and the Secretary of Agriculture shall be entitled to receive annually for the administration of sections 361a to 361i of this title, a sum not less than that available for this purpose for the fiscal year ending June 30, 1955: *Provided*, That if the appropriations hereunder available for distribution in any fiscal year are less than those for the fiscal year 1955 the allotment to each State and the amounts for Federal administration and the regional research fund shall be reduced in proportion to the amount of such reduction.
+(1) Out of such sums each State shall be entitled to receive annually a sum of money equal to and subject to the same requirement as to use for marketing research projects as the sums received from Federal appropriations for State agricultural experiment stations for the fiscal year 1955, except that amounts heretofore made available from the fund known as the "Regional research fund, Office of Experiment Stations" shall continue to be available for the support of cooperative regional projects as defined in subsection (c)(3), and the said fund shall be designated "Regional research fund, State agricultural experiment stations," and the Secretary of Agriculture shall be entitled to receive annually for the administration of sections 361a to 361i of this title, a sum not less than that available for this purpose for the fiscal year ending June 30, 1955: *Provided*, That if the appropriations hereunder available for distribution in any fiscal year are less than those for the fiscal year 1955 the allotment to each State and the amounts for Federal administration and the regional research fund shall be reduced in proportion to the amount of such reduction.
 
 (2) There is authorized to be appropriated for the fiscal year ending June 30, 1973, and for each fiscal year thereafter, for payment to the Virgin Islands and Guam, $100,000 each, which sums shall be in addition to the sums appropriated for the several States of the United States and Puerto Rico under the provisions of this section. The amount paid by the Federal Government to the Virgin Islands and Guam pursuant to this paragraph shall not exceed during any fiscal year, except the fiscal years ending June 30, 1971, and June 30, 1972, when such amount may be used to pay the total cost of providing services pursuant to sections 361a to 361i of this title, the amount available and budgeted for expenditure by the Virgin Islands and Guam for the purposes of such sections.
 
@@ -18,7 +18,7 @@ Any sums made available by the Congress in addition to those provided for in sub
 
 (2) Not less than 52 per centum of such sums shall be allotted to each State, as follows: One-half in an amount which bears the same ratio to the total amount to be allotted as the rural population of the State bears to the total rural population of all the States as determined by the last preceding decennial census current at the time each such additional sum is first appropriated; and one-half in an amount which bears the same ratio to the total amount to be allotted as the farm population of the State bears to the total farm population of all the States as determined by the last preceding decennial census current at the time such additional sum is first appropriated;
 
-(3) Not less than 25 percent shall be allotted to the States for cooperative research employing multidisciplinary approaches in which a State agricultural experiment station, working with another State agricultural experiment station, the Agricultural Research Service, or a college or university, cooperates to solve problems that concern more than 1 State. The funds available under this paragraph, together with the funds available under subsection (b) of this section for a similar purpose, shall be designated as the "Multistate Research Fund, State Agricultural Experiment Stations".
+(3) Not less than 25 percent shall be allotted to the States for cooperative research employing multidisciplinary approaches in which a State agricultural experiment station, working with another State agricultural experiment station, the Agricultural Research Service, or a college or university, cooperates to solve problems that concern more than 1 State. The funds available under this paragraph, together with the funds available under subsection (b) for a similar purpose, shall be designated as the "Multistate Research Fund, State Agricultural Experiment Stations".
 
 (4) Three per centum shall be available to the Secretary of Agriculture for administration of sections 361a to 361i of this title. These administrative funds may be used for transportation of scientists who are not officers or employees of the United States to research meetings convened for the purpose of assessing research opportunities or research planning.
 
@@ -26,13 +26,13 @@ Any sums made available by the Congress in addition to those provided for in sub
 
 #### (1) Requirement ####
 
-Except as provided in paragraph (4), no allotment shall be made to a State under subsection (b) or (c) of this section, and no payments from the allotment shall be made to a State, in excess of the amount that the State makes available out of non-Federal funds for agricultural research and for the establishment and maintenance of facilities for the performance of the research.
+Except as provided in paragraph (4), no allotment shall be made to a State under subsection (b) or (c), and no payments from the allotment shall be made to a State, in excess of the amount that the State makes available out of non-Federal funds for agricultural research and for the establishment and maintenance of facilities for the performance of the research.
 
 #### (2) Failure to provide matching funds ####
 
 If a State fails to comply with the requirement to provide matching funds for a fiscal year under paragraph (1), the Secretary of Agriculture shall withhold from payment to the State for that fiscal year an amount equal to the difference between—
 
-(A) the amount that would be allotted and paid to the State under subsections (b) and (c) of this section (if the full amount of matching funds were provided by the State); and
+(A) the amount that would be allotted and paid to the State under subsections (b) and (c) (if the full amount of matching funds were provided by the State); and
 
 (B) the amount of matching funds actually provided by the State.
 
@@ -58,7 +58,7 @@ The Secretary may waive the matching fund requirement of subparagraph (A) for an
 
 #### (e) "Administration" defined ####
 
-"Administration" as used in this section shall include participation in planning and coordinating cooperative regional research as defined in subsection (c)(3) of this section.
+"Administration" as used in this section shall include participation in planning and coordinating cooperative regional research as defined in subsection (c)(3).
 
 #### (f) Adjustment of payments ####
 
@@ -72,11 +72,11 @@ If in any year the amount made available by a State from its own funds (includin
 
 #### (1) Peer review ####
 
-Research carried out under subsection (c)(3) of this section shall be subject to scientific peer review. The review of a project conducted under this paragraph shall be considered to satisfy the merit review requirements of section 7613(e) of this title.
+Research carried out under subsection (c)(3) shall be subject to scientific peer review. The review of a project conducted under this paragraph shall be considered to satisfy the merit review requirements of section 7613(e) of this title.
 
 #### (2) Plan of work ####
 
-The State shall include in the plan of work of the State required under section 361g of this title a description of the manner in which the State will meet the requirements of subsection (c)(3) of this section.
+The State shall include in the plan of work of the State required under section 361g of this title a description of the manner in which the State will meet the requirements of subsection (c)(3).
 
 #### (i) Integration of research and extension ####
 

@@ -2,11 +2,11 @@
 
 #### (a) Establishment ####
 
-There is hereby established in the Treasury a revolving fund for the Federal Library and Information Network program (hereafter in sections 182a to 182d of this title referred to as the "FEDLINK program") of the Library of Congress (as described in subsection (f)(1) of this section) and the Federal Research program of the Library of Congress (as described in subsection (f)(2) of this section).
+There is hereby established in the Treasury a revolving fund for the Federal Library and Information Network program (hereafter in sections 182a to 182d of this title referred to as the "FEDLINK program") of the Library of Congress (as described in subsection (f)(1)) and the Federal Research program of the Library of Congress (as described in subsection (f)(2)).
 
 #### (b) Individual accounting requirement ####
 
-A separate account shall be maintained in the revolving fund under this section with respect to the programs described in subsection (a) of this section.
+A separate account shall be maintained in the revolving fund under this section with respect to the programs described in subsection (a).
 
 #### (c) Fees for services ####
 
@@ -28,7 +28,7 @@ Participants in the FEDLINK program and the Federal Research program shall pay f
 
 Each account of the revolving fund under this section shall consist of the following amounts:
 
-(A) Amounts deposited by the Librarian under subsection (c) of this section.
+(A) Amounts deposited by the Librarian under subsection (c).
 
 (B) Any other amounts received by the Librarian which are attributable to the program covered by such account.
 

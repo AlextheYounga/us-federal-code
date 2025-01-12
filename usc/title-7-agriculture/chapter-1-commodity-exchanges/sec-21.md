@@ -90,7 +90,7 @@ Any person registered under this chapter, who is not a member of a futures assoc
 
 #### (f) Denial of registration ####
 
-Upon filing of an application for registration pursuant to subsection (a) of this section, the Commission may by order grant such registration if the requirements of this section are satisfied. If, after appropriate notice and opportunity for hearing, it appears to the Commission that any requirement of this section is not satisfied, the Commission shall by order deny such registration.
+Upon filing of an application for registration pursuant to subsection (a), the Commission may by order grant such registration if the requirements of this section are satisfied. If, after appropriate notice and opportunity for hearing, it appears to the Commission that any requirement of this section is not satisfied, the Commission shall by order deny such registration.
 
 #### (g) Withdrawal from registration; notice of withdrawal ####
 
@@ -180,7 +180,7 @@ The Commission shall include in its annual reports to Congress information conce
 
 #### (o) Delegation to futures associations of registrative functions; discretionary review by Commission; judicial appeal ####
 
-(1) The Commission may require any futures association registered pursuant to this section to perform any portion of the registration functions under this chapter with respect to each member of the association other than a registered entity and with respect to each associated person of such member, in accordance with rules, notwithstanding any other provision of law, adopted by such futures association and submitted to the Commission pursuant to subsection (j) of this section, and subject to the provisions of this chapter applicable to registrations granted by the Commission.
+(1) The Commission may require any futures association registered pursuant to this section to perform any portion of the registration functions under this chapter with respect to each member of the association other than a registered entity and with respect to each associated person of such member, in accordance with rules, notwithstanding any other provision of law, adopted by such futures association and submitted to the Commission pursuant to subsection (j), and subject to the provisions of this chapter applicable to registrations granted by the Commission.
 
 (2) In performing any Commission registration function authorized by the Commission under section 12a(10) of this title, this section, or any other applicable provisions of this chapter, a futures association may issue orders (A) to refuse to register any person, (B) to register conditionally any person, (C) to suspend the registration of any person, (D) to place restrictions on the registration of any person, or (E) to revoke the registration of any person. If such an order is the final decision of the futures association, any person against whom the order has been issued may petition the Commission to review the decision. The Commission may on its own initiative or upon petition decline review or grant review and affirm, set aside, or modify such an order of the futures association; and the findings of the futures association as to the facts, if supported by the weight of the evidence, shall be conclusive. Unless the Commission grants review under this section of an order concerning registration issued by a futures association, the order of the futures association shall be considered to be an order issued by the Commission.
 

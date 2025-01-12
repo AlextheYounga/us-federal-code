@@ -20,26 +20,11 @@ Pub. L. 100–203, title X, §10201(c)(2), Dec. 22, 1987, 101 Stat. 1330–388, 
 
 "(ii) shall be taken into account over the 4-taxable year period beginning with the taxable year following such last taxable year as follows:
 
-**The percentage taken**
-
-**"In the case of the:**
-
-**into account is:**
-
-1st year
-
-25
-
-2nd year
-
-5
-
-3rd year
-
-35
-
-4th year
-
-35.   
+| **"In the case of the:**|**The percentage taken into<br/><br/>account is:**|
+|-------------------------|--------------------------------------------------|
+|        1st year         |                        25                        |
+|        2nd year         |                        5                         |
+|        3rd year         |                        35                        |
+|        4th year         |                       35.                        |
 
 Notwithstanding subparagraph (C)(ii), if the period the adjustments are required to be taken into account under section 481 of such Code is less than 4 years, such adjustments shall be taken into account ratably over such shorter period."

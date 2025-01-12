@@ -58,11 +58,11 @@ If a borrower meets the penalty requirements of paragraph (1) by increasing the 
 
 #### (1) In general ####
 
-On the payment of a penalty as provided by subsection (b) of this section, the loan or loan advance, or any portion of the loan or advance, shall be refinanced at the interest rate described in paragraph (2) for a term selected by the borrower pursuant to paragraph (3), except that this paragraph shall not apply if the loan advance, or any portion of the advance, is prepaid by the borrower.
+On the payment of a penalty as provided by subsection (b), the loan or loan advance, or any portion of the loan or advance, shall be refinanced at the interest rate described in paragraph (2) for a term selected by the borrower pursuant to paragraph (3), except that this paragraph shall not apply if the loan advance, or any portion of the advance, is prepaid by the borrower.
 
 #### (2) Interest rate ####
 
-The interest rate on a loan refinanced under this section shall be determined to be equal to the then current cost of funds to the Department of the Treasury for obligations of comparable maturity to a term selected by the borrower pursuant to paragraph (3), except that such rate shall not be greater than 7 percent per year, subject to subsection (d) of this section.
+The interest rate on a loan refinanced under this section shall be determined to be equal to the then current cost of funds to the Department of the Treasury for obligations of comparable maturity to a term selected by the borrower pursuant to paragraph (3), except that such rate shall not be greater than 7 percent per year, subject to subsection (d).
 
 #### (3) Loan term ####
 
@@ -78,7 +78,7 @@ The borrower may not select a term pursuant to paragraph (3) that ends after the
 
 #### (5) Existing loans ####
 
-In the case of the refinancing of a loan of a borrower pursuant to this section and the inclusion of a penalty in the outstanding principal balance of the refinanced loan pursuant to subsection (b)(3) of this section—
+In the case of the refinancing of a loan of a borrower pursuant to this section and the inclusion of a penalty in the outstanding principal balance of the refinanced loan pursuant to subsection (b)(3)—
 
 (A) the refinancing and inclusion of the penalty shall not be subject to appropriations or limited by the amount provided during a fiscal year for new loans, loan guarantees, or other credit activity;
 
@@ -98,7 +98,7 @@ A borrower may not exercise the option under paragraph (1) in the case of a loan
 
 #### (3) Fee ####
 
-A borrower that exercises the maximum rate option under paragraph (1) shall, at the time of exercising such option, pay a fee equal to 1 percent of the outstanding principal balance of such loan or loan advance, or portion thereof, for which such option is exercised. Such fee shall be in addition to the penalties and other payments required under subsection (b) of this section.
+A borrower that exercises the maximum rate option under paragraph (1) shall, at the time of exercising such option, pay a fee equal to 1 percent of the outstanding principal balance of such loan or loan advance, or portion thereof, for which such option is exercised. Such fee shall be in addition to the penalties and other payments required under subsection (b).
 
 #### (4) Sunset ####
 

@@ -12,7 +12,7 @@ Each laboratory or individual that performs, brokers, or otherwise arranges for 
 
 #### (b) Timing of report ####
 
-A laboratory shall submit the report required under subsection (a) of this section to the Secretary, the Secretary of Health and Human Services, and the owner of such food as soon as practicable after the completion of the analysis of such food.
+A laboratory shall submit the report required under subsection (a) to the Secretary, the Secretary of Health and Human Services, and the owner of such food as soon as practicable after the completion of the analysis of such food.
 
 #### (c) Guidelines ####
 

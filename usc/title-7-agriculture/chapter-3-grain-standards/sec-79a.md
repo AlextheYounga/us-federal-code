@@ -38,11 +38,11 @@ No State or local governmental agency or person shall weigh or state in any docu
 
 #### (1) In general ####
 
-No State or local governmental agency or person other than an authorized employee of the Secretary shall perform official weighing or supervision of weighing for the purposes of this chapter except in accordance with the provisions of an unsuspended and unrevoked delegation of authority or designation by the Secretary as provided in this section or as otherwise provided in section 79(i) of this title and subsection (d) of this section.
+No State or local governmental agency or person other than an authorized employee of the Secretary shall perform official weighing or supervision of weighing for the purposes of this chapter except in accordance with the provisions of an unsuspended and unrevoked delegation of authority or designation by the Secretary as provided in this section or as otherwise provided in section 79(i) of this title and subsection (d).
 
 #### (2) Geographic boundaries for official agencies ####
 
-Not more than one designated official agency referred to in paragraph (1) or State agency delegated authority pursuant to subsection (c)(2) of this section to carry out the weighing provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in section 74 of this title, the Secretary may—
+Not more than one designated official agency referred to in paragraph (1) or State agency delegated authority pursuant to subsection (c)(2) to carry out the weighing provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in section 74 of this title, the Secretary may—
 
 (A) allow more than one designated official agency to carry out the weighing provisions within the same geographical area as part of a pilot program; and
 

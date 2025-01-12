@@ -128,6 +128,8 @@ Sec.
 
 #### SUBCHAPTER II–B—CHILD CARE AND DEVELOPMENT BLOCK GRANT ####
 
+9857. Short title and purposes.
+
 9858. Authorization of appropriations.
 
 9858a. Establishment of block grant program.
@@ -138,9 +140,9 @@ Sec.
 
 9858d. Limitations on State allotments.
 
-9858e. Activities to improve quality of child care.
+9858e. Activities to improve the quality of child care.
 
-9858f. Repealed.
+9858f. Criminal background checks.
 
 9858g. Administration and enforcement.
 
@@ -148,7 +150,7 @@ Sec.
 
 9858i. Reports and audits.
 
-9858j. Report by Secretary.
+9858j. Reports, hotline, and Web site.
 
 9858k. Limitations on use of financial assistance for certain purposes.
 
@@ -163,6 +165,8 @@ Sec.
 9858p. Severability.
 
 9858q. Miscellaneous provisions.
+
+9858r. Studies on waiting lists.
 
 #### SUBCHAPTER II–C—CHILD CARE SAFETY AND HEALTH GRANTS ####
 

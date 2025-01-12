@@ -30,7 +30,7 @@ The Secretary shall provide, by regulation, for the registration of all persons 
 
 Persons required to register under this section shall also submit to the Secretary the information specified in clauses (A) through (F) of this paragraph with respect to any business engaged in the business of buying grain for sale in interstate commerce, and in the business of handling, weighing, or transporting of grain for sale in interstate commerce, if, with respect to such business, the person otherwise required to register under this section is in a control relationship.
 
-(2) For the purposes of this section, a person shall be deemed to be in a "control relationship" with respect to a business required to register under subsection (a) of this section and with respect to applicable interstate businesses if—
+(2) For the purposes of this section, a person shall be deemed to be in a "control relationship" with respect to a business required to register under subsection (a) and with respect to applicable interstate businesses if—
 
 (A) such person has an ownership interest of 10 per centum or more in such business, or
 
@@ -40,7 +40,7 @@ Persons required to register under this section shall also submit to the Secreta
 
 #### (c) Certificate of registration ####
 
-The Secretary shall issue a certificate of registration to persons who comply with the provisions of this section. The certificate of registration issued in accordance with this section shall be renewed annually. If there has been any change in the information required under subsection (b) of this section, the person holding such certificate shall, within thirty days of the discovery of such change, notify the Secretary of such change. No person shall engage in the business of buying grain for sale in foreign commerce, and in the business of handling, weighing, or transporting of grain in foreign commerce unless the person has registered with the Secretary as required by this chapter and has an unsuspended and unrevoked certificate of registration.
+The Secretary shall issue a certificate of registration to persons who comply with the provisions of this section. The certificate of registration issued in accordance with this section shall be renewed annually. If there has been any change in the information required under subsection (b), the person holding such certificate shall, within thirty days of the discovery of such change, notify the Secretary of such change. No person shall engage in the business of buying grain for sale in foreign commerce, and in the business of handling, weighing, or transporting of grain in foreign commerce unless the person has registered with the Secretary as required by this chapter and has an unsuspended and unrevoked certificate of registration.
 
 #### (d) Suspension or registration of certificate of registration ####
 

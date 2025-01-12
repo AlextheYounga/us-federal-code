@@ -46,7 +46,7 @@ For loans under section 935(d)(2) of this title—
 
 #### (c) Funding levels ####
 
-The Secretary shall make insured loans under this subchapter for the purposes, in the amounts, and for the periods of time specified in subsection (b) of this section, as provided in advance in appropriations Acts.
+The Secretary shall make insured loans under this subchapter for the purposes, in the amounts, and for the periods of time specified in subsection (b), as provided in advance in appropriations Acts.
 
 #### (d) Availability of funds for insured loans ####
 

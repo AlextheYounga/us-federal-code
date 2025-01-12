@@ -10,7 +10,7 @@ The Joint Commission shall consist of the following members: Three individuals d
 
 #### (c) Chairman ####
 
-The Joint Commission shall be headed by a Chairman who shall be selected by the Secretary of Agriculture from among the three individuals designated by the Secretary as members under subsection (b) of this section.
+The Joint Commission shall be headed by a Chairman who shall be selected by the Secretary of Agriculture from among the three individuals designated by the Secretary as members under subsection (b).
 
 #### (d) Delegation of responsibilities to Joint Commission; transfer and use of appropriated funds ####
 
@@ -46,7 +46,7 @@ To the maximum extent possible, the Secretaries and the Joint Commission shall s
 
 Subsec. (b). Pub. L. 98–284, §4(b), struck out provision mandating that two of the designees of the Secretary of Commerce be Federal Cochairmen of Regional Commissions engaged in the support of native latex research, development, demonstration, or commercialization activities, inserted provisions for the appointment of a representative of the Department of State, a representative of the Department of Defense, and a representative of the Federal Emergency Management Agency, and inserted provisions that each of the members of the Joint Commission be an individual who, on behalf of the Department or agency which such individual represents, is engaged in the support of research, development, demonstration, and commercialization activities involving native latex and the production of other critical agricultural materials from native agricultural crops.
 
-Subsec. (c). Pub. L. 98–284, §4(c), substituted "The Joint Commission shall be headed by a Chairman who shall be selected by the Secretary of Agriculture from among the three individuals designated by the Secretary as members under subsection (b) of this section" for "The Joint Commission shall be headed by a Chairman. The Secretary of Agriculture shall designate one of the two members from his Department to serve as Joint Commission Chairman during the first two-year period following November 4, 1978, and the Secretary of Commerce shall designate one of the two members from his Department as Joint Commission Chairman during the second two-year period following November 4, 1978. And the same process of designating Joint Commission Chairmen shall be followed in ensuing years".
+Subsec. (c). Pub. L. 98–284, §4(c), substituted "The Joint Commission shall be headed by a Chairman who shall be selected by the Secretary of Agriculture from among the three individuals designated by the Secretary as members under subsection (b)" for "The Joint Commission shall be headed by a Chairman. The Secretary of Agriculture shall designate one of the two members from his Department to serve as Joint Commission Chairman during the first two-year period following November 4, 1978, and the Secretary of Commerce shall designate one of the two members from his Department as Joint Commission Chairman during the second two-year period following November 4, 1978. And the same process of designating Joint Commission Chairmen shall be followed in ensuing years".
 
 Subsec. (h). Pub. L. 98–284, §4(d), substituted "manufacturing and commerce involving rubber and other critical agricultural materials" for "rubber manufacturing and commerce".
 

@@ -34,7 +34,7 @@ The assets of the fund shall be available only for the following purposes:
 
 (3)(A) The assets accounted for in the electric account shall be available solely for electrification loan operations under this chapter.
 
-(B) The assets accounted for in the telephone account shall be available solely for telephone loan operations under this chapter (other than under subchapter IV of this chapter).
+(B) The assets accounted for in the telephone account shall be available solely for telephone loan operations under this chapter (other than under subchapter IV).
 
 (May 20, 1936, ch. 432, title III, §302, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 30; amended Pub. L. 93–32, §2, May 11, 1973, 87 Stat. 66; Pub. L. 101–624, title XXIII, §2359, Nov. 28, 1990, 104 Stat. 4041; Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 104–127, title VII, §772(b)(2), Apr. 4, 1996, 110 Stat. 1149.)
 

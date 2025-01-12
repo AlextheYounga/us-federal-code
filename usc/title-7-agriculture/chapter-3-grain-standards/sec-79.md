@@ -56,7 +56,7 @@ Official certificates setting out the results of official inspection issued and 
 
 (B) the Secretary determines that the applicant is better able than any other applicant to provide official inspection service.
 
-(2) Geographic boundaries for official agencies.—Not more than one official agency designated under paragraph (1) or State delegated authority under subsection (e)(2) of this section to carry out the inspection provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in section 74 of this title, the Secretary may—
+(2) Geographic boundaries for official agencies.—Not more than one official agency designated under paragraph (1) or State delegated authority under subsection (e)(2) to carry out the inspection provisions of this chapter shall be operative at the same time in any geographic area defined by the Secretary, except that, if the Secretary determines that the presence of more than one designated official agency in the same geographic area will not undermine the policy stated in section 74 of this title, the Secretary may—
 
 (A) allow more than one designated official agency to carry out inspections within the same geographical area as part of a pilot program; and
 

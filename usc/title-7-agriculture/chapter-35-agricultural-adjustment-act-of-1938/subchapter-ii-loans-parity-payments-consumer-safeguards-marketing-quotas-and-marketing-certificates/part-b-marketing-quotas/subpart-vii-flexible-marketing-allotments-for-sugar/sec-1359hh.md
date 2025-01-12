@@ -6,7 +6,7 @@ The Secretary or the Commodity Credit Corporation, as appropriate, shall issue s
 
 #### (b) Violation ####
 
-Any person knowingly violating any regulation of the Secretary issued under subsection (a) of this section shall be subject to a civil penalty of not more than $5,000 for each violation.
+Any person knowingly violating any regulation of the Secretary issued under subsection (a) shall be subject to a civil penalty of not more than $5,000 for each violation.
 
 #### (c) Publication in Federal Register ####
 

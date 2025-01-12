@@ -10,7 +10,7 @@ Upon receipt of such notification, the members of the Joint Leadership Group sha
 
 #### (c) Computation of period following publication ####
 
-For purposes of the computation of the fifteen day period in subsection (b) of this section—
+For purposes of the computation of the fifteen day period in subsection (b)—
 
 (1) continuity of session is broken only by an adjournment of Congress sine die; and
 

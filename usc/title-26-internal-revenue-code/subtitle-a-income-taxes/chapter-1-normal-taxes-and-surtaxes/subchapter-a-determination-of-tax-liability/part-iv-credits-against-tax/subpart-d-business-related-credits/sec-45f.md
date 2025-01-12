@@ -88,16 +88,16 @@ If, as of the close of any taxable year, there is a recapture event with respect
 
 For purposes of this subsection, the applicable recapture percentage shall be determined from the following table:
 
-|**If the recapture event occurs in:**|**The applicable recapture percentage is:**|
-|-------------------------------------|-------------------------------------------|
-|              Years 1–3              |                    100                    |
-|               Year 4                |                    85                     |
-|               Year 5                |                    70                     |
-|               Year 6                |                    55                     |
-|               Year 7                |                    40                     |
-|               Year 8                |                    25                     |
-|           Years 9 and 10            |                    10                     |
-|       Years 11 and thereafter       |                    0.                     |
+| If the recapture event occurs in:|**The<br/><br/>applicable recapture percentage is:**|
+|----------------------------------|----------------------------------------------------|
+|            Years 1–3             |                        100                         |
+|              Year 4              |                         85                         |
+|              Year 5              |                         70                         |
+|              Year 6              |                         55                         |
+|              Year 7              |                         40                         |
+|              Year 8              |                         25                         |
+|          Years 9 and 10          |                         10                         |
+|     Years 11 and thereafter      |                         0.                         |
 
 #### (B) Years ####
 

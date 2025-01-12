@@ -32,7 +32,7 @@ The Secretary of Agriculture shall establish within the Department of Agricultur
 
 #### (d) Authority of Secretary in carrying out demonstration project ####
 
-Notwithstanding any other provision of law, in carrying out a demonstration project referred to in subsection (b)(9) of this section, the Secretary may—
+Notwithstanding any other provision of law, in carrying out a demonstration project referred to in subsection (b)(9), the Secretary may—
 
 (1) enter into a contract or cooperative agreement with, or provide a grant to, any person, or public or private agency or organization, to participate in, carry out, support, or stimulate such project;
 

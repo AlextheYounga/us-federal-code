@@ -8,7 +8,7 @@ There shall be covered into such fund $24,400,000 for fiscal year 1977, $100,000
 
 #### References in Text ####
 
-The Outer Continental Shelf Lands Act, referred to in second par., is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. Section 9 of the Act (43 U.S.C. 1338) provides for the disposition of revenues. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in second par., is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. Section 9 of the Act (43 U.S.C. 1338) provides for the disposition of revenues. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 #### Codification ####
 

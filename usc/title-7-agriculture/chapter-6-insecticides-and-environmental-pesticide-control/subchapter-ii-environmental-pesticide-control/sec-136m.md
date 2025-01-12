@@ -96,7 +96,7 @@ An administrative settlement of a claim for such indemnity may be made in accord
 
 #### (1) In general ####
 
-The amount of an indemnity payment under subsection (a) or (b) of this section to any person shall be determined on the basis of the cost of the pesticide owned by the person (other than the cost of transportation, if any) immediately before the issuance of the notice to the registrant referred to in subsection (a)(1)(A), (b)(1)(A), or (b)(2)(B)(i) of this section, except that in no event shall an indemnity payment to any person exceed the fair market value of the pesticide owned by the person immediately before the issuance of the notice.
+The amount of an indemnity payment under subsection (a) or (b) to any person shall be determined on the basis of the cost of the pesticide owned by the person (other than the cost of transportation, if any) immediately before the issuance of the notice to the registrant referred to in subsection (a)(1)(A), (b)(1)(A), or (b)(2)(B)(i), except that in no event shall an indemnity payment to any person exceed the fair market value of the pesticide owned by the person immediately before the issuance of the notice.
 
 #### (2) Special rule ####
 

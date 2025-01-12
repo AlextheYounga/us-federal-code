@@ -14,11 +14,11 @@ There is hereby established in the Treasury a revolving fund for the following p
 
 #### (b) Individual accounting requirement ####
 
-A separate account shall be maintained in the revolving fund under this section with respect to the programs and activities described in each of the paragraphs of subsection (a) of this section.
+A separate account shall be maintained in the revolving fund under this section with respect to the programs and activities described in each of the paragraphs of subsection (a).
 
 #### (c) Fees for services ####
 
-The Librarian may charge a fee for services under any of the programs and activities described in subsection (a) of this section, and shall deposit any such fees charged into the account of the revolving fund under this section for such program or activity.
+The Librarian may charge a fee for services under any of the programs and activities described in subsection (a), and shall deposit any such fees charged into the account of the revolving fund under this section for such program or activity.
 
 #### (d) Contents of accounts in fund ####
 
@@ -26,7 +26,7 @@ The Librarian may charge a fee for services under any of the programs and activi
 
 Each account of the revolving fund under this section shall consist of the following amounts:
 
-(A) Amounts deposited by the Librarian under subsection (c) of this section.
+(A) Amounts deposited by the Librarian under subsection (c).
 
 (B) Any other amounts received by the Librarian which are attributable to the programs and activities covered by such account.
 

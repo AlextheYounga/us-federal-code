@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-Except as provided in subsection (b) of this section, the time for holding elections in any State, District, or Territory for a Representative or Delegate to fill a vacancy, whether such vacancy is caused by a failure to elect at the time prescribed by law, or by the death, resignation, or incapacity of a person elected, may be prescribed by the laws of the several States and Territories respectively.
+Except as provided in subsection (b), the time for holding elections in any State, District, or Territory for a Representative or Delegate to fill a vacancy, whether such vacancy is caused by a failure to elect at the time prescribed by law, or by the death, resignation, or incapacity of a person elected, may be prescribed by the laws of the several States and Territories respectively.
 
 #### (b) Special rules in extraordinary circumstances ####
 
@@ -104,7 +104,7 @@ R.S. §26 derived from act Feb. 2, 1872, ch. 11, §4, 17 Stat. 28.
 
 #### Amendments ####
 
-**2005**—Pub. L. 109–55 designated existing provisions as subsec. (a), inserted heading, substituted "Except as provided in subsection (b) of this section, the time" for "The time", and added subsec. (b).
+**2005**—Pub. L. 109–55 designated existing provisions as subsec. (a), inserted heading, substituted "Except as provided in subsection (b), the time" for "The time", and added subsec. (b).
 
 #### Constitutional Provisions ####
 

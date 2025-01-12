@@ -10,11 +10,11 @@ The Librarian shall endeavor to obtain, for educational and research purposes, a
 
 #### (c) Property of United States ####
 
-All copies of films on the National Film Registry that are received as gifts or bequests by the Librarian and other materials received by the Librarian under subsection (b) of this section, shall become the property of the United States Government, subject to the provisions of title 17.
+All copies of films on the National Film Registry that are received as gifts or bequests by the Librarian and other materials received by the Librarian under subsection (b), shall become the property of the United States Government, subject to the provisions of title 17.
 
 #### (d) National Film Registry Collection ####
 
-All copies of films on the National Film Registry that are received by the Librarian under subsection (a) of this section, and other materials received by the Librarian under subsection (b) of this section, shall be maintained in the Library of Congress and be known as the "National Film Registry Collection of the Library of Congress". The Librarian shall, by regulation, and in accordance with title 17, provide for reasonable access to the films and other materials in such collection for scholarly and research purposes.
+All copies of films on the National Film Registry that are received by the Librarian under subsection (a) of this section, and other materials received by the Librarian under subsection (b), shall be maintained in the Library of Congress and be known as the "National Film Registry Collection of the Library of Congress". The Librarian shall, by regulation, and in accordance with title 17, provide for reasonable access to the films and other materials in such collection for scholarly and research purposes.
 
 #### (e) National Audio-Visual Conservation Center ####
 

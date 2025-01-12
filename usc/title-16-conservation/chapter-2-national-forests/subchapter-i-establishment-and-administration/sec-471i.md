@@ -196,7 +196,7 @@ The Safe Drinking Water Act, referred to in subsec. (f)(9), is title XIV of act 
 
 The Land and Water Conservation Fund Act, referred to in subsec. (h)(1)(B), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–4 of this title and Tables.
 
-The Outer Continental Shelf Lands Act, as amended, referred to in subsec. (k)(1), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, as amended, referred to in subsec. (k)(1), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 Enactment of this Act, referred to in subsec. (k)(2), probably means date of enactment of Pub. L. 100–486, which enacted subsec. (k)(2) of this section and which was approved Oct. 13, 1988.
 

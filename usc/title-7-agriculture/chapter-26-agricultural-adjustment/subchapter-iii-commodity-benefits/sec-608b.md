@@ -14,7 +14,7 @@
 
 (ii) be paid to the Secretary.
 
-(2) Violation of this subsection by a person who has not entered into such an agreement shall result in the assessment by the Secretary of a penalty equal to 140 percent of the support price for quota peanuts multiplied by the quantity of peanuts sold or disposed of in violation of subsection (b)(1)(B) of this section, as determined under section 1445c–3 <sup><a href="#608b_1_target" name="608b_1">1</a></sup> of this title, for the marketing year for the crop with respect to which such violation occurs.
+(2) Violation of this subsection by a person who has not entered into such an agreement shall result in the assessment by the Secretary of a penalty equal to 140 percent of the support price for quota peanuts multiplied by the quantity of peanuts sold or disposed of in violation of subsection (b)(1)(B), as determined under section 1445c–3 <sup><a href="#608b_1_target" name="608b_1">1</a></sup> of this title, for the marketing year for the crop with respect to which such violation occurs.
 
 (May 12, 1933, ch. 25, title I, §8b, formerly §8(2), 48 Stat. 34; Apr. 7, 1934, ch. 103, §7, 48 Stat. 528; renumbered and amended Aug. 24, 1935, ch. 641, §4, 49 Stat. 753; June 3, 1937, ch. 296, §1, 50 Stat. 246; June 30, 1947, ch. 166, title II, §206(d), 61 Stat. 208; Pub. L. 101–220, §4, Dec. 12, 1989, 103 Stat. 1878; Pub. L. 102–237, title I, §115(1), Dec. 13, 1991, 105 Stat. 1840; Pub. L. 103–66, title I, §1109(b), Aug. 10, 1993, 107 Stat. 326.)
 

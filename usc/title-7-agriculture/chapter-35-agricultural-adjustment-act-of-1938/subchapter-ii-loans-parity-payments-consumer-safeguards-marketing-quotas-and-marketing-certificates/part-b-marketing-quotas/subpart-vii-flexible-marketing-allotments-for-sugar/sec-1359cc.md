@@ -74,7 +74,7 @@ The allotment for sugar derived from sugarcane, less the amount provided for und
 
 #### (f) Filling cane sugar allotments ####
 
-Except as provided in section 1359ee of this title, a State cane sugar allotment established under subsection (e) of this section for a crop year may be filled only with sugar processed from sugarcane grown in the State covered by the allotment.
+Except as provided in section 1359ee of this title, a State cane sugar allotment established under subsection (e) for a crop year may be filled only with sugar processed from sugarcane grown in the State covered by the allotment.
 
 #### (g) Adjustment of marketing allotments ####
 
