@@ -4,7 +4,7 @@
 
 #### (1) Annual amounts ####
 
-There are authorized to be appropriated to FEMA to carry out sections 467e, 467f, and 467h of this title (in addition to any amounts made available for similar purposes included in any other Act and amounts made available under subsections (b) through (e)), $9,200,000 for each of fiscal years 2015 through 2019, to remain available until expended.
+There are authorized to be appropriated to FEMA to carry out sections 467e, 467f, and 467h of this title (in addition to any amounts made available for similar purposes included in any other Act and amounts made available under subsections (b) through (e)), $9,200,000 for each of fiscal years 2019 through 2023, to remain available until expended.
 
 #### (2) Allocation ####
 
@@ -36,29 +36,29 @@ The Administrator and the Board shall determine the amount allocated to States.
 
 #### (b) National dam inventory ####
 
-There is authorized to be appropriated to carry out section 467d of this title $500,000 for each of fiscal years 2015 through 2019.
+There is authorized to be appropriated to carry out section 467d of this title $500,000 for each of fiscal years 2019 through 2023.
 
 #### (c) Public awareness ####
 
-There is authorized to be appropriated to carry out section 467g–2 of this title $1,000,000 for each of fiscal years 2015 through 2019.
+There is authorized to be appropriated to carry out section 467g–2 of this title $1,000,000 for each of fiscal years 2019 through 2023.
 
 #### (d) Research ####
 
-There is authorized to be appropriated to carry out section 467g of this title $1,450,000 for each of fiscal years 2015 through 2019, to remain until expended.
+There is authorized to be appropriated to carry out section 467g of this title $1,450,000 for each of fiscal years 2019 through 2023, to remain until expended.
 
 #### (e) Dam safety training ####
 
-There is authorized to be appropriated to carry out section 467g–1 of this title $750,000 for each of fiscal years 2015 through 2019.
+There is authorized to be appropriated to carry out section 467g–1 of this title $750,000 for each of fiscal years 2019 through 2023.
 
 #### (f) Staff ####
 
-There is authorized to be appropriated to FEMA for the employment of such additional staff personnel as are necessary to carry out sections 467f through 467g–1 of this title $1,000,000 for each of fiscal years 2015 through 2019.
+There is authorized to be appropriated to FEMA for the employment of such additional staff personnel as are necessary to carry out sections 467f through 467g–1 of this title $1,000,000 for each of fiscal years 2019 through 2023.
 
 #### (g) Limitation on use of amounts ####
 
 Amounts made available under this subchapter may not be used to construct or repair any Federal or non-Federal dam.
 
-(Pub. L. 92–367, §14, formerly §12, as added Pub. L. 104–303, title II, §215(c)(8), Oct. 12, 1996, 110 Stat. 3693; renumbered §13 and amended Pub. L. 107–310, §§5(1), 7, Dec. 2, 2002, 116 Stat. 2453; Pub. L. 109–460, §1(d), Dec. 22, 2006, 120 Stat. 3401; renumbered §14 and amended Pub. L. 113–121, title III, §3001(a)(1), (d)(1), (e), (f), June 10, 2014, 128 Stat. 1282–1284.)
+(Pub. L. 92–367, §14, formerly §12, as added Pub. L. 104–303, title II, §215(c)(8), Oct. 12, 1996, 110 Stat. 3693; renumbered §13 and amended Pub. L. 107–310, §§5(1), 7, Dec. 2, 2002, 116 Stat. 2453; Pub. L. 109–460, §1(d), Dec. 22, 2006, 120 Stat. 3401; renumbered §14 and amended Pub. L. 113–121, title III, §3001(a)(1), (d)(1), (e), (f), June 10, 2014, 128 Stat. 1282–1284; Pub. L. 115–270, title I, §1163, Oct. 23, 2018, 132 Stat. 3796.)
 
 #### Prior Provisions ####
 
@@ -67,6 +67,8 @@ A prior section 467j, Pub. L. 92–367, §11, as added Pub. L. 99–662, title X
 A prior section 14 of Pub. L. 92–367 was classified to section 467m of this title prior to repeal by Pub. L. 104–303.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–270 substituted "2019 through 2023" for "2015 through 2019" wherever appearing.
 
 **2014**—Subsec. (a)(1). Pub. L. 113–121, §3001(f), made technical amendment to reference in original act which appears in text as reference to section 467h of this title.
 

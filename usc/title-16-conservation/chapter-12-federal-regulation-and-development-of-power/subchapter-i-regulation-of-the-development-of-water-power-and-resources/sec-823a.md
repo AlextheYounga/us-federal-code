@@ -12,7 +12,7 @@
 
 (ii) if the Commission makes an initial determination, pursuant to clause (i), that the facility meets the qualifying criteria, publish public notice of the notice of intent filed under subparagraph (A).
 
-(C) If, not later than 45 days after the date of publication of the public notice described in subparagraph (B)(ii)—
+(C) If, not later than 30 days after the date of publication of the public notice described in subparagraph (B)(ii)—
 
 (i) an entity contests whether the facility meets the qualifying criteria, the Commission shall promptly issue a written determination as to whether the facility meets such criteria; or
 
@@ -28,7 +28,7 @@
 
 (i) the facility is constructed, operated, or maintained for the generation of electric power and uses for such generation only the hydroelectric potential of a non-federally owned conduit;
 
-(ii) the facility has an installed capacity that does not exceed 5 megawatts; and
+(ii) the facility has an installed capacity that does not exceed 40 megawatts; and
 
 (iii) on or before August 9, 2013, the facility is not licensed under, or exempted from the license requirements contained in, this subchapter.
 
@@ -56,7 +56,7 @@ Any violation of a term or condition of any exemption granted under subsection (
 
 The Commission, in addition to the requirements of section 803(e) of this title, shall establish fees which shall be paid by an applicant for a license or exemption for a project that is required to meet terms and conditions set by fish and wildlife agencies under subsection (c). Such fees shall be adequate to reimburse the fish and wildlife agencies referred to in subsection (c) for any reasonable costs incurred in connection with any studies or other reviews carried out by such agencies for purposes of compliance with this section. The fees shall, subject to annual appropriations Acts, be transferred to such agencies by the Commission for use solely for purposes of carrying out such studies and shall remain available until expended.
 
-(June 10, 1920, ch. 285, pt. I, §30, as added Pub. L. 95–617, title II, §213, Nov. 9, 1978, 92 Stat. 3148; amended Pub. L. 99–495, §7, Oct. 16, 1986, 100 Stat. 1248; Pub. L. 113–23, §4(a), Aug. 9, 2013, 127 Stat. 494.)
+(June 10, 1920, ch. 285, pt. I, §30, as added Pub. L. 95–617, title II, §213, Nov. 9, 1978, 92 Stat. 3148; amended Pub. L. 99–495, §7, Oct. 16, 1986, 100 Stat. 1248; Pub. L. 113–23, §4(a), Aug. 9, 2013, 127 Stat. 494; Pub. L. 115–270, title III, §3002, Oct. 23, 2018, 132 Stat. 3863.)
 
 #### References in Text ####
 
@@ -67,6 +67,10 @@ The Fish and Wildlife Coordination Act, referred to in subsec. (c), is act Mar. 
 A prior section 30 of act June 10, 1920, was classified to section 791 of this title, prior to repeal by act Aug. 26, 1935, ch. 687, title II, §212, 49 Stat. 847.
 
 #### Amendments ####
+
+**2018**—Subsec. (a)(2)(C). Pub. L. 115–270, §3002(1), substituted "30 days" for "45 days" in introductory provisions.
+
+Subsec. (a)(3)(C)(ii). Pub. L. 115–270, §3002(2), substituted "40 megawatts" for "5 megawatts".
 
 **2013**—Subsecs. (a), (b). Pub. L. 113–23, §4(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which authorized the Commission to grant exemptions from the requirements of this subchapter for certain hydroelectric facilities and prohibited the granting of exemptions to facilities with certain capacities.
 

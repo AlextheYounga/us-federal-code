@@ -10,7 +10,7 @@ The costs of implementing measures, including a study, shall be cost-shared in t
 
 #### (c) Requirement for specific authorization ####
 
-No such project shall be initiated without specific authorization by Congress if the Federal first cost exceeds $10,000,000.
+No such project shall be initiated without specific authorization by Congress if the Federal first cost exceeds $12,500,000.
 
 #### (d) Coordination ####
 
@@ -24,9 +24,11 @@ The Secretary shall—
 
 Beginning on December 16, 2016, in any case in which the Secretary implements a project under this section, the Secretary shall reimburse or credit the non-Federal interest for any amounts contributed for the study evaluating the damage in excess of the non-Federal share of the costs, as determined under subsection (b).
 
-(Pub. L. 90–483, title I, §111, Aug. 13, 1968, 82 Stat. 735; Pub. L. 99–662, title IX, §§915(f), 940, Nov. 17, 1986, 100 Stat. 4191, 4199; Pub. L. 106–53, title II, §214, Aug. 17, 1999, 113 Stat. 291; Pub. L. 113–121, title I, §1030(c), June 10, 2014, 128 Stat. 1232; Pub. L. 114–322, title I, §1169, Dec. 16, 2016, 130 Stat. 1671.)
+(Pub. L. 90–483, title I, §111, Aug. 13, 1968, 82 Stat. 735; Pub. L. 99–662, title IX, §§915(f), 940, Nov. 17, 1986, 100 Stat. 4191, 4199; Pub. L. 106–53, title II, §214, Aug. 17, 1999, 113 Stat. 291; Pub. L. 113–121, title I, §1030(c), June 10, 2014, 128 Stat. 1232; Pub. L. 114–322, title I, §1169, Dec. 16, 2016, 130 Stat. 1671; Pub. L. 115–270, title I, §1157(c), Oct. 23, 2018, 132 Stat. 3794.)
 
 #### Amendments ####
+
+**2018**—Subsec. (c). Pub. L. 115–270 substituted "$12,500,000" for '$10,000,000".
 
 **2016**—Subsec. (b). Pub. L. 114–322, §1169(1), substituted "measures, including a study, shall be cost-shared in the same proportion as the cost-sharing provisions applicable to construction of the project" for "measures under this section shall be cost-shared in the same proportion as the cost-sharing provisions applicable to the project".
 
@@ -43,3 +45,19 @@ Pub. L. 99–662, §915(f), substituted "$2,000,000" for "$1,000,000".
 #### Effective Date of 1986 Amendment ####
 
 Amendment by section 915(f) of Pub. L. 99–662 not applicable to any project under contract for construction on Nov. 17, 1986, see section 915(i) of Pub. L. 99–662, set out as a note under section 426g of this title.
+
+#### Coastal Erosion ####
+
+Pub. L. 115–270, title I, §1172, Oct. 23, 2018, 132 Stat. 3799, provided that:
+
+"(a) In General.—Pursuant to section 111 of the River and Harbor Act of 1968 (33 U.S.C. 426i), the Secretary [of the Army] shall, to the maximum extent practicable, complete operation and maintenance renourishment to mitigate coastal erosion attributed to Federal project structures in the upper northeast United States.
+
+"(b) Project Selection.—In carrying out the work under subsection (a), the Secretary shall—
+
+"(1) identify and carry out not more than five projects—
+
+"(A) located in any of the States of Maine, New Hampshire, Massachusetts, Connecticut, Rhode Island, or New York; and
+
+"(B) for which a feasibility study has been completed by December 31, 2019, that includes findings that a Federal project structure is interrupting the natural flow of sediment and causing coastal erosion; and
+
+"(2) consult with relevant State agencies in selecting projects."

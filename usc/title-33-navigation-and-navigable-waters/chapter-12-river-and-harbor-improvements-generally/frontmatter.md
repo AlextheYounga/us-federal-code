@@ -36,6 +36,8 @@ Sec.
 
 549a. Review of navigation, flood control, and water supply projects.
 
+549b. Inclusion of project or facility in Corps of Engineers workplan.
+
 550. Report on water terminal and transfer facilities.
 
 551. Policy of Government as to terminal facilities for new projects.
@@ -72,7 +74,7 @@ Sec.
 
 560. Contributions from private parties; return of excess.
 
-561. Advances by private parties; repayment.
+561. Repealed.
 
 561a. Contributions from local interests; reduction to meet lowered cost.
 
@@ -140,9 +142,11 @@ Sec.
 
 578a. Disposition studies.
 
+578b. Disposition of projects.
+
 579. Repealed.
 
-579a. Project deauthorizations.
+579a. Corps budgeting; project deauthorizations; comprehensive backlog report.
 
 579b. Omitted.
 
@@ -150,7 +154,15 @@ Sec.
 
 579c–1. Backlog prevention: projects from Public Law 114–322.
 
-579d. Deauthorization of inactive projects.
+579c–2. Backlog prevention: projects from Public Law 115–270.
+
+579d. Deauthorization of inactive projects as of Public Law 114–322.
+
+579d–1. Deauthorization of inactive projects as of Public Law 115–270.
+
+579e. Access to real estate data.
+
+579f. Budgetary evaluation metrics and transparency; public participation.
 
 #### SUBCHAPTER II—PAY AND ALLOWANCES; TRAVELING EXPENSES AND SUBSISTENCE ####
 
@@ -184,6 +196,8 @@ Sec.
 
 598. Resettlement of displaced families, individuals, and business concerns.
 
+598a. Property acquisition.
+
 #### SUBCHAPTER IV—PARTICULAR WORK OR IMPROVEMENTS ####
 
 601. Mississippi River; regulation of reservoirs at headwaters.
@@ -210,7 +224,7 @@ Sec.
 
 609. Sluices and other work in dams for development of water power.
 
-610. Control of aquatic plant growths.
+610. Control of aquatic plant growths and invasive species.
 
 #### SUBCHAPTER V—PROSECUTION OF WORK GENERALLY ####
 
@@ -239,3 +253,5 @@ Sec.
 632. Omitted.
 
 633. Protection, alteration, reconstruction, relocation, or replacement of structures and facilities; contract standards; reasonable costs.
+
+634. Assistance relating to water supply.

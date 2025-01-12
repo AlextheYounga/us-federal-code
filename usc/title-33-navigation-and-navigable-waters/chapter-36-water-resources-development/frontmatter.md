@@ -4,6 +4,8 @@ Sec.
 
 2201. "Secretary" defined.
 
+2202. Non-Federal engagement and review.
+
 #### SUBCHAPTER I—COST SHARING ####
 
 2211. Harbors.
@@ -36,7 +38,7 @@ Sec.
 
 2224. Crediting authority for federally authorized navigation projects.
 
-2225. Credit in lieu of reimbursement.
+2225. Credit or reimbursement.
 
 2226. Water resources projects on Federal land.
 
@@ -97,6 +99,8 @@ Sec.
 2262. Survey of potential for use of certain facilities as hydroelectric facilities.
 
 2263. Study of Corps capability to conserve fish and wildlife.
+
+2263a. Aquatic invasive species research.
 
 2264. Deauthorization of studies.
 
@@ -222,6 +226,8 @@ Sec.
 
 2315a. Transparency in accounting and administrative expenses.
 
+2315b. Transparency and accountability in cost sharing for water resources development projects.
+
 2316. Environmental protection mission.
 
 2317. Wetlands.
@@ -236,7 +242,7 @@ Sec.
 
 2320. Protection of recreational and commercial uses.
 
-2321. Operation and maintenance of hydroelectric facilities.
+2321. Operation and maintenance of navigation and hydroelectric facilities.
 
 2321a. Hydroelectric power project uprating.
 
@@ -326,6 +332,8 @@ Sec.
 
 2347a. Determination of project completion.
 
+2347b. Purpose and need.
+
 2348. Project acceleration.
 
 2349. Categorical exclusions in emergencies.
@@ -334,8 +342,12 @@ Sec.
 
 2351. Durability, sustainability, and resilience.
 
+2351a. Operation and maintenance of existing infrastructure.
+
 2352. Funding to process permits.
 
 2353. Structural health monitoring.
 
 2354. Easements for electric, telephone, or broadband service facilities.
+
+2355. Prior project authorization.

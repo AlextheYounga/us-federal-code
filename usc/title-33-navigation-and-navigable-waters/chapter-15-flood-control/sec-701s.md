@@ -1,10 +1,12 @@
 ### §701s. Small flood control projects; appropriations; amount limitation for single locality; conditions ###
 
-The Secretary of the Army is authorized to allot from any appropriations heretofore or hereafter made for flood control, not to exceed $55,000,000 for any one fiscal year, for the implementation of small structural and nonstructural projects for flood control and related purposes not specifically authorized by Congress, which come within the provisions of section 701a of this title, when in the opinion of the Chief of Engineers such work is advisable. The amount allotted for a project shall be sufficient to complete Federal participation in the project. Not more than $10,000,000 shall be allotted under this section for a project at any single locality. The provisions of local cooperation specified in section 701c of this title shall apply. The work shall be complete in itself and not commit the United States to any additional improvement to insure its successful operation, except as may result from the normal procedure applying to projects authorized after submission of preliminary examination and survey reports.
+The Secretary of the Army is authorized to allot from any appropriations heretofore or hereafter made for flood control, not to exceed $68,750,000 for any one fiscal year, for the implementation of small structural and nonstructural projects for flood control and related purposes not specifically authorized by Congress, which come within the provisions of section 701a of this title, when in the opinion of the Chief of Engineers such work is advisable. The amount allotted for a project shall be sufficient to complete Federal participation in the project. Not more than $10,000,000 shall be allotted under this section for a project at any single locality. The provisions of local cooperation specified in section 701c of this title shall apply. The work shall be complete in itself and not commit the United States to any additional improvement to insure its successful operation, except as may result from the normal procedure applying to projects authorized after submission of preliminary examination and survey reports.
 
-(June 30, 1948, ch. 771, title II, §205, 62 Stat. 1182; May 17, 1950, ch. 188, title II, §212, 64 Stat. 183; July 11, 1956, ch. 558, 70 Stat. 522; Pub. L. 87–874, title II, §205, Oct. 23, 1962, 76 Stat. 1194; Pub. L. 93–251, title I, §61, Mar. 7, 1974, 88 Stat. 29; Pub. L. 94–587, §133(b), Oct. 22, 1976, 90 Stat. 2928; Pub. L. 97–140, §2(a), Dec. 29, 1981, 95 Stat. 1717; Pub. L. 99–662, title IX, §915(a), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 106–53, title II, §201, Aug. 17, 1999, 113 Stat. 285; Pub. L. 106–541, title II, §218, Dec. 11, 2000, 114 Stat. 2596; Pub. L. 110–114, title II, §2021, Nov. 8, 2007, 121 Stat. 1078; Pub. L. 113–121, title I, §1030(e), June 10, 2014, 128 Stat. 1232.)
+(June 30, 1948, ch. 771, title II, §205, 62 Stat. 1182; May 17, 1950, ch. 188, title II, §212, 64 Stat. 183; July 11, 1956, ch. 558, 70 Stat. 522; Pub. L. 87–874, title II, §205, Oct. 23, 1962, 76 Stat. 1194; Pub. L. 93–251, title I, §61, Mar. 7, 1974, 88 Stat. 29; Pub. L. 94–587, §133(b), Oct. 22, 1976, 90 Stat. 2928; Pub. L. 97–140, §2(a), Dec. 29, 1981, 95 Stat. 1717; Pub. L. 99–662, title IX, §915(a), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 106–53, title II, §201, Aug. 17, 1999, 113 Stat. 285; Pub. L. 106–541, title II, §218, Dec. 11, 2000, 114 Stat. 2596; Pub. L. 110–114, title II, §2021, Nov. 8, 2007, 121 Stat. 1078; Pub. L. 113–121, title I, §1030(e), June 10, 2014, 128 Stat. 1232; Pub. L. 115–270, title I, §1157(e), Oct. 23, 2018, 132 Stat. 3794.)
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–270 substituted "$68,750,000" for "$55,000,000" in first sentence.
 
 **2014**—Pub. L. 113–121 substituted "$10,000,000" for "$7,000,000" in third sentence.
 
@@ -42,7 +44,7 @@ Amendment by Pub. L. 94–587 not applicable to any project under contract for c
 
 #### Ice Jam Prevention and Mitigation ####
 
-Pub. L. 114–322, title I, §1150, Dec. 16, 2016, 130 Stat. 1661, provided that:
+Pub. L. 114–322, title I, §1150, Dec. 16, 2016, 130 Stat. 1661, as amended by Pub. L. 115–270, title I, §1131, Oct. 23, 2018, 132 Stat. 3780, provided that:
 
 "(a) In General.—The Secretary [of the Army] may carry out projects under section 205 of the Flood Control Act of 1948 (33 U.S.C. 701s), including planning, design, construction, and monitoring of structural and nonstructural technologies and measures, for preventing and mitigating flood damages associated with ice jams.
 
@@ -58,6 +60,10 @@ Pub. L. 114–322, title I, §1150, Dec. 16, 2016, 130 Stat. 1661, provided that
 
 "(c) Pilot Program.—
 
-"(1) In general.—During fiscal years 2017 through 2022, the Secretary shall identify and carry out not fewer than 10 projects under this section to demonstrate technologies and designs developed in accordance with this section.
+"(1) In general.—The Secretary shall identify and carry out not fewer than 20 projects under this section to demonstrate technologies and designs developed in accordance with this section.
 
-"(2) Project selection.—The Secretary shall ensure that the projects are selected from all cold regions of the United States, including the Upper Missouri River Basin and the Northeast."
+"(2) Project selection.—The Secretary shall—
+
+"(A) ensure that the projects are selected from all cold regions of the United States, including the Upper Missouri River Basin and the Northeast; and
+
+"(B) select not fewer than one project to be carried out on a reservation (as defined in section 3 of the Indian Financing Act of 1974 [25 U.S.C. 1452]) that serves more than one Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act [25 U.S.C. 5304])."

@@ -40,6 +40,10 @@ Pub. L. 106–113, div. B, §1000(a)(9) [title IV, subtitle G, §4731], Nov. 29,
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
+#### Short Title of 2018 Amendment ####
+
+Pub. L. 115–273, §1, Oct. 31, 2018, 132 Stat. 4158, provided that: "This Act [amending provisions set out as a note under section 41 of this title] may be cited as the 'Study of Underrepresented Classes Chasing Engineering and Science Success Act of 2018' or the 'SUCCESS Act'."
+
 #### Short Title of 2012 Amendment ####
 
 Pub. L. 112–211, §1, Dec. 18, 2012, 126 Stat. 1527, provided that: "This Act [enacting part V and sections 27 and 151 of this title, amending sections 41, 100, 102, 111, 115, 119, 120, 122, 133, 154, 171, 173, 261, 361, 364 to 366, and 371 of this title, repealing section 151 of this title, and enacting provisions set out as notes under sections 27 and 100 of this title] may be cited as the 'Patent Law Treaties Implementation Act of 2012'."

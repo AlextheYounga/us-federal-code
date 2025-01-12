@@ -64,11 +64,11 @@ The term "Indian tribe" has the meaning given the term in section 628(c) of this
 
 The term "tribal organization" has the meaning given the term in section 628(c) of this title.
 
-#### (7) Time-limited family reunification services ####
+#### (7) Family reunification services ####
 
 #### (A) In general ####
 
-The term "time-limited family reunification services" means the services and activities described in subparagraph (B) that are provided to a child that is removed from the child's home and placed in a foster family home or a child care institution and to the parents or primary caregiver of such a child, in order to facilitate the reunification of the child safely and appropriately within a timely fashion, but only during the 15-month period that begins on the date that the child, pursuant to section 675(5)(F) of this title, is considered to have entered foster care.
+The term "family reunification services" means the services and activities described in subparagraph (B) that are provided to a child that is removed from the child's home and placed in a foster family home or a child care institution or a child who has been returned home and to the parents or primary caregiver of such a child, in order to facilitate the reunification of the child safely and appropriately within a timely fashion and to ensure the strength and stability of the reunification. In the case of a child who has been returned home, the services and activities shall only be provided during the 15-month period that begins on the date that the child returns home.
 
 #### (B) Services and activities described ####
 
@@ -103,22 +103,6 @@ The term "non-Federal funds" means State funds, or at the option of a State, Sta
 For other definitions of other terms used in this subpart, see section 675 of this title.
 
 (Aug. 14, 1935, ch. 531, title IV, §431, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 650; amended Pub. L. 105–89, title III, §305(b)(2), (c)(2), (d)(1), Nov. 19, 1997, 111 Stat. 2131, 2132; Pub. L. 106–169, title IV, §401(e), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 107–133, title I, §102, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §11(c), Sept. 28, 2006, 120 Stat. 1255; Pub. L. 112–34, title I, §102(c), (d), Sept. 30, 2011, 125 Stat. 371, 372; Pub. L. 115–123, div. E, title VII, §§50721(a), 50751(a), Feb. 9, 2018, 132 Stat. 245, 262.)
-
-#### Amendment of Subsection (a)(7) ####
-
-Pub. L. 115–123, div. E, title VII, §§50721(a), 50734, Feb. 9, 2018, 132 Stat. 245, 252, provided that, effective Oct. 1, 2018, subject to transition rules for required State legislation or tribal action, subsection (a)(7) of this section is amended—
-
-(1) in the paragraph heading, by striking "Time-limited family" and inserting "Family"; and
-
-(2) in subparagraph (A)—
-
-(A) by striking "time-limited family" and inserting "family";
-
-(B) by inserting "or a child who has been returned home" after "child care institution"; and
-
-(C) by striking ", but only during the 15-month period that begins on the date that the child, pursuant to section 675(5)(F) of this title, is considered to have entered foster care" and inserting "and to ensure the strength and stability of the reunification. In the case of a child who has been returned home, the services and activities shall only be provided during the 15-month period that begins on the date that the child returns home".
-
-See 2018 Amendment notes below.
 
 #### Prior Provisions ####
 

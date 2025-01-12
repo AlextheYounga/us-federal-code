@@ -72,6 +72,8 @@ Sec.
 
 701h–1. Contributions by States and political subdivisions for immediate use on authorized flood-control work; repayment.
 
+701h–2. No adverse effect on processes.
+
 701i. Elimination from protection of areas subject to evacuation.
 
 701j. Installation in dams of facilities for future development of hydroelectric power.
@@ -175,6 +177,8 @@ Sec.
 702m. Interest of Members of Congress in contracts for acquisition of land.
 
 702n. Levee rights-of-way; payment or reimbursement for.
+
+702 o. Mississippi River and Tributaries Project.
 
 703. Sacramento River, California.
 

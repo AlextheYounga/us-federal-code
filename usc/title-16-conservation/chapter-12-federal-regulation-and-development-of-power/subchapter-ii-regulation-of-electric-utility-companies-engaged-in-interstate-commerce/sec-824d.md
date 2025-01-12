@@ -46,9 +46,25 @@ if such clause or practice does not result in the economical purchase and use of
 
 (4) As used in this subsection, the term "automatic adjustment clause" means a provision of a rate schedule which provides for increases or decreases (or both), without prior hearing, in rates reflecting increases or decreases (or both) in costs incurred by an electric utility. Such term does not include any rate which takes effect subject to refund and subject to a later determination of the appropriate amount of such rate.
 
-(June 10, 1920, ch. 285, pt. II, §205, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 851; amended Pub. L. 95–617, title II, §§207(a), 208, Nov. 9, 1978, 92 Stat. 3142.)
+#### (g) Inaction of Commissioners ####
+
+#### (1) In general ####
+
+With respect to a change described in subsection (d), if the Commission permits the 60-day period established therein to expire without issuing an order accepting or denying the change because the Commissioners are divided two against two as to the lawfulness of the change, as a result of vacancy, incapacity, or recusal on the Commission, or if the Commission lacks a quorum—
+
+(A) the failure to issue an order accepting or denying the change by the Commission shall be considered to be an order issued by the Commission accepting the change for purposes of section 825l(a) of this title; and
+
+(B) each Commissioner shall add to the record of the Commission a written statement explaining the views of the Commissioner with respect to the change.
+
+#### (2) Appeal ####
+
+If, pursuant to this subsection, a person seeks a rehearing under section 825l(a) of this title, and the Commission fails to act on the merits of the rehearing request by the date that is 30 days after the date of the rehearing request because the Commissioners are divided two against two, as a result of vacancy, incapacity, or recusal on the Commission, or if the Commission lacks a quorum, such person may appeal under section 825l(b) of this title.
+
+(June 10, 1920, ch. 285, pt. II, §205, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 851; amended Pub. L. 95–617, title II, §§207(a), 208, Nov. 9, 1978, 92 Stat. 3142; Pub. L. 115–270, title III, §3006, Oct. 23, 2018, 132 Stat. 3868.)
 
 #### Amendments ####
+
+**2018**—Subsec. (g). Pub. L. 115–270 added subsec. (g).
 
 **1978**—Subsec. (d). Pub. L. 95–617, §207(a), substituted "sixty" for "thirty" in two places.
 

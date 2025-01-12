@@ -462,7 +462,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (i)(4) of this
 
 #### Fee Setting Authority ####
 
-Pub. L. 112–29, §10, Sept. 16, 2011, 125 Stat. 316, provided that:
+Pub. L. 112–29, §10, Sept. 16, 2011, 125 Stat. 316, as amended by Pub. L. 115–273, §4, Oct. 31, 2018, 132 Stat. 4159, provided that:
 
 "(a) Fee Setting.—
 
@@ -532,7 +532,7 @@ Pub. L. 112–29, §10, Sept. 16, 2011, 125 Stat. 316, provided that:
 
 "(1) Effective date.—Except as provided in subsection (h), this section [enacting section 123 of this title] and the amendments made by this section shall take effect on the date of the enactment of this Act [Sept. 16, 2011].
 
-"(2) Sunset.—The authority of the Director to set or adjust any fee under subsection (a) shall terminate upon the expiration of the 7-year period beginning on the date of the enactment of this Act.
+"(2) Sunset.—The authority of the Director to set or adjust any fee under subsection (a) shall terminate upon the expiration of the 15-year period beginning on the date of the enactment of this Act.
 
 "(3) Prior regulations not affected.—The termination of authority under this subsection shall not affect any regulations issued under this section before the effective date of such termination or any rulemaking proceeding for the issuance of regulations under this section that is pending on such date."
 

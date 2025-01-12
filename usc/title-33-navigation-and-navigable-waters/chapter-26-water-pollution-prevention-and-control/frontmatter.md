@@ -114,7 +114,7 @@ Sec.
 
 1300. Pilot program for alternative water source projects.
 
-1301. Sewer overflow control grants.
+1301. Sewer overflow and stormwater reuse municipal grants.
 
 #### SUBCHAPTER III—STANDARDS AND ENFORCEMENT ####
 
@@ -126,7 +126,9 @@ Sec.
 
 1313a. Revised water quality standards.
 
-1314. Information and guidelines
+1314. Information and guidelines.
+
+1314a. Wastewater technology clearinghouse.
 
 1315. State reports on water quality.
 

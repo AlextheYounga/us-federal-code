@@ -30,6 +30,22 @@ Section is comprised of the second, third, fourth, and sixth undesignated pars. 
 
 **2003**—Pub. L. 108–137 inserted in first par. ", not to exceed $5,000,000 for each causal event giving rise to a claim or claims" after "activities of the Bureau of Reclamation".
 
+#### Operations and Maintenance Costs of Certain Bureau of Reclamation Dikes ####
+
+Pub. L. 115–270, title IV, §4309, Oct. 23, 2018, 132 Stat. 3889, provided that:
+
+"(a) In General.—Notwithstanding any other provision of law (including regulations), effective beginning on the date of enactment of this section [Oct. 23, 2018], the Federal share of the operations and maintenance costs of a dike described in subsection (b) shall be 100 percent.
+
+"(b) Description of Dikes.—A dike referred to in subsection (a) is a dike—
+
+"(1) that is owned by the Bureau of Reclamation on the date of enactment of this section;
+
+"(2) the construction of which was completed not later than December 31, 1945;
+
+"(3) a corrective action study for which was completed not later than December 31, 2015; and
+
+"(4) the construction of which was authorized by the Act of June 28, 1938 (52 Stat. 1215, chapter 795)."
+
 [<sup>1</sup> So in original. Probably should be followed by a comma.](#377b_1)
 
 [<sup>2</sup> See References in Text note below.](#377b_2)

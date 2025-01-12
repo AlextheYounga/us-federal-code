@@ -26,6 +26,6 @@ Sec.
 
 3912. Funding.
 
-3913. Reports on pilot program implementation.
+3913. Reports on program implementation.
 
 3914. Requirements.

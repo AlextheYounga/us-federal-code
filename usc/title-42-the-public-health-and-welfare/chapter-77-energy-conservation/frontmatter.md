@@ -130,6 +130,8 @@ Sec.
 
 6294a. Energy Star program.
 
+.6294b. Watersense program.
+
 6295. Energy conservation standards.
 
 6296. Requirements of manufacturers.

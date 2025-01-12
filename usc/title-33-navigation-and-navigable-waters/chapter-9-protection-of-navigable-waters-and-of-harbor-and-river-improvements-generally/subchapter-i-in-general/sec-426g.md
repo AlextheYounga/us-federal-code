@@ -144,7 +144,7 @@ Not later than December 31, 2008, and every 3 years thereafter, the Secretary sh
 
 #### (1) In general ####
 
-Subject to paragraph (2), the Secretary may expend, from any appropriations made available to the Secretary for the purpose of carrying out civil works, not more than $30,000,000 during any fiscal year to pay the Federal share of the costs of construction of small shore and beach restoration and protection projects or small projects under this section.
+Subject to paragraph (2), the Secretary may expend, from any appropriations made available to the Secretary for the purpose of carrying out civil works, not more than $37,500,000 during any fiscal year to pay the Federal share of the costs of construction of small shore and beach restoration and protection projects or small projects under this section.
 
 #### (2) Limitation ####
 
@@ -154,13 +154,15 @@ The total amount expended for a project under this section shall—
 
 (B) be not more than $10,000,000.
 
-(Aug. 13, 1946, ch. 960, §3, 60 Stat. 1056; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; July 28, 1956, ch. 768, 70 Stat. 703; Pub. L. 87–874, title I, §103(a)(4), Oct. 23, 1962, 76 Stat. 1178; Pub. L. 89–298, title III, §310(b), Oct. 27, 1965, 79 Stat. 1095; Pub. L. 91–611, title I, §112(b), Dec. 31, 1970, 84 Stat. 1821; Pub. L. 99–662, title IX, §915(e), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 104–303, title II, §227(e)(2)(C), Oct. 12, 1996, 110 Stat. 3703; Pub. L. 106–53, title II, §226, Aug. 17, 1999, 113 Stat. 298; Pub. L. 110–114, title II, §2038(a), Nov. 8, 2007, 121 Stat. 1097; Pub. L. 114–322, title I, §1167, Dec. 16, 2016, 130 Stat. 1670.)
+(Aug. 13, 1946, ch. 960, §3, 60 Stat. 1056; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; July 28, 1956, ch. 768, 70 Stat. 703; Pub. L. 87–874, title I, §103(a)(4), Oct. 23, 1962, 76 Stat. 1178; Pub. L. 89–298, title III, §310(b), Oct. 27, 1965, 79 Stat. 1095; Pub. L. 91–611, title I, §112(b), Dec. 31, 1970, 84 Stat. 1821; Pub. L. 99–662, title IX, §915(e), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 104–303, title II, §227(e)(2)(C), Oct. 12, 1996, 110 Stat. 3703; Pub. L. 106–53, title II, §226, Aug. 17, 1999, 113 Stat. 298; Pub. L. 110–114, title II, §2038(a), Nov. 8, 2007, 121 Stat. 1097; Pub. L. 114–322, title I, §1167, Dec. 16, 2016, 130 Stat. 1670; Pub. L. 115–270, title I, §1157(a), Oct. 23, 2018, 132 Stat. 3793.)
 
 #### References in Text ####
 
 The Shoreline Erosion Control Demonstration Act of 1974, referred to in subsec. (b)(2)(C)(viii), is Pub. L. 93–251, title I, §54, Mar. 7, 1974, 88 Stat. 26, formerly set out as a note under section 1962d–5 of Title 42, The Public Health and Welfare.
 
 #### Amendments ####
+
+**2018**—Subsec. (c)(1). Pub. L. 115–270 substituted "$37,500,000" for "$30,000,000".
 
 **2016**—Subsec. (c)(2)(B). Pub. L. 114–322 substituted "$10,000,000" for "$5,000,000".
 
@@ -195,6 +197,28 @@ Pub. L. 91–611, title I, §112(c), Dec. 31, 1970, 84 Stat. 1821, provided that
 #### Transfer of Functions ####
 
 Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, §6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+
+#### Hurricane and Storm Damage Protection Program ####
+
+Pub. L. 115–270, title I, §1112, Oct. 23, 2018, 132 Stat. 3775, provided that:
+
+"(a) In General.—The Secretary [of the Army] is authorized to carry out a pilot program to award single contracts for more than one authorized hurricane and storm damage reduction project in a geographical region, including projects across more than one Corps of Engineers district, if the Secretary determines that the contract provides cost savings compared to the awarding of such work on a project-by-project basis.
+
+"(b) Project Selection.—In carrying out the pilot program under subsection (a), the Secretary shall consult with relevant State agencies in selecting projects.
+
+"(c) Criteria.—In carrying out the pilot program under subsection (a), the Secretary shall establish criteria and other considerations that—
+
+"(1) foster Federal, State, and local collaboration;
+
+"(2) evaluate the performance of projects being carried out under a single contract with respect to whether such projects yield any regional or multi-district benefits; and
+
+"(3) include other criteria and considerations that the Secretary determines to be appropriate.
+
+"(d) Report.—Not later than 1 year after the date of enactment of this Act [Oct. 23, 2018], and annually thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes findings and recommendations of the Secretary with respect to the projects completed under the pilot program carried out under subsection (a).
+
+"(e) Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $75,000,000.
+
+"(f) Termination.—The authority of the Secretary to enter into contracts pursuant to the pilot program carried out under subsection (a) shall expire on the date that is 10 years after the date of enactment of this Act."
 
 [<sup>1</sup> So in original. Probably should be "demonstration".](#426g_1)
 

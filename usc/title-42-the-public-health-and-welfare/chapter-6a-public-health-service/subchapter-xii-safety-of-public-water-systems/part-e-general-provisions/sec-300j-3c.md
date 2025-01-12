@@ -47,3 +47,23 @@ The term "water supply system" means a system for the provision to the public of
 #### Codification ####
 
 Section was enacted as part of the Safe Drinking Water Act Amendments of 1996, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Indian Reservation Drinking Water Program ####
+
+Pub. L. 115–270, title II, §2001, Oct. 23, 2018, 132 Stat. 3840, provided that:
+
+"(a) In General.—Subject to the availability of appropriations, the Administrator of the Environmental Protection Agency shall carry out a program to implement—
+
+"(1) 10 eligible projects described in subsection (b) that are within the Upper Missouri River Basin; and
+
+"(2) 10 eligible projects described in subsection (b) that are within the Upper Rio Grande Basin.
+
+"(b) Eligible Projects.—A project eligible to participate in the program under subsection (a) is a project—
+
+"(1) that is on a reservation (as defined in section 3 of the Indian Financing Act of 1974 (25 U.S.C. 1452)) that serves a federally recognized Indian Tribe; and
+
+"(2) the purpose of which is to connect, expand, or repair an existing public water system, as defined in section 1401(4) of the Safe Drinking Water Act (42 U.S.C. 300f(4)), in order to improve water quality, water pressure, or water services.
+
+"(c) Requirement.—In carrying out the program under subsection (a)(1), the Administrator of the Environmental Protection Agency shall select not less than one eligible project for a reservation that serves more than one federally recognized Indian Tribe.
+
+"(d) Authorization of Appropriations.—There is authorized to be appropriated to carry out the program under subsection (a) $20,000,000 for each of fiscal years 2019 through 2022."

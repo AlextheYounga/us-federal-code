@@ -2254,7 +2254,7 @@ Sec.
 
 300i–1. Tampering with public water systems.
 
-300i–2. Terrorist and other intentional acts.
+300i–2. Community water system risk and resilience.
 
 300i–3. Contaminant prevention, detection and response.
 
@@ -2265,6 +2265,8 @@ Sec.
 300j. Assurances of availability of adequate supplies of chemicals necessary for treatment of water.
 
 300j–1. Research, technical assistance, information, training of personnel.
+
+300j–1a. Innovative water technology grant program.
 
 300j–2. Grants for State programs.
 
@@ -2314,6 +2316,12 @@ Sec.
 
 300j–19b. Reducing lead in drinking water.
 
+300j–19c. Study on intractable water systems.
+
+300j–19d. Review of technologies.
+
+300j–19e. Water infrastructure and workforce investment.
+
 #### Part F—Additional Requirements To Regulate Safety of Drinking Water ####
 
 300j–21. Definitions.
@@ -2324,7 +2332,7 @@ Sec.
 
 300j–24. Lead contamination in school drinking water.
 
-300j–25. Repealed.
+300j–25. Drinking water fountain replacement for schools.
 
 300j–26. Certification of testing laboratories.
 

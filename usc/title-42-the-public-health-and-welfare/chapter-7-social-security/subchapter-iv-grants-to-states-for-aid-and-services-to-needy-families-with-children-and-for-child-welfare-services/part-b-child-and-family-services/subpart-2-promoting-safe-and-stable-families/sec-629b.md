@@ -18,11 +18,11 @@ A State plan meets the requirements of this subsection if the plan—
 
 (3) provides for coordination, to the extent feasible and appropriate, of the provision of services under the plan and the provision of services or benefits under other Federal or federally assisted programs serving the same populations;
 
-(4) contains assurances that not more than 10 percent of expenditures under the plan for any fiscal year with respect to which the State is eligible for payment under section 629d of this title for the fiscal year shall be for administrative costs, and that the remaining expenditures shall be for programs of family preservation services, community-based family support services, time-limited family reunification services, and adoption promotion and support services, with significant portions of such expenditures for each such program;
+(4) contains assurances that not more than 10 percent of expenditures under the plan for any fiscal year with respect to which the State is eligible for payment under section 629d of this title for the fiscal year shall be for administrative costs, and that the remaining expenditures shall be for programs of family preservation services, community-based family support services, family reunification services, and adoption promotion and support services, with significant portions of such expenditures for each such program;
 
 (5) contains assurances that the State will—
 
-(A) annually prepare, furnish to the Secretary, and make available to the public a description (including separate descriptions with respect to family preservation services, community-based family support services, time-limited family reunification services, and adoption promotion and support services) of—
+(A) annually prepare, furnish to the Secretary, and make available to the public a description (including separate descriptions with respect to family preservation services, community-based family support services, family reunification services, and adoption promotion and support services) of—
 
 (i) the service programs to be made available under the plan in the immediately succeeding fiscal year;
 
@@ -66,7 +66,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 #### (1) In general ####
 
-The Secretary shall approve a plan that meets the requirements of subsection (a) only if the plan was developed jointly by the Secretary and the State, after consultation by the State agency with appropriate public and nonprofit private agencies and community-based organizations with experience in administering programs of services for children and families (including family preservation, family support, time-limited family reunification, and adoption promotion and support services).
+The Secretary shall approve a plan that meets the requirements of subsection (a) only if the plan was developed jointly by the Secretary and the State, after consultation by the State agency with appropriate public and nonprofit private agencies and community-based organizations with experience in administering programs of services for children and families (including family preservation, family support, family reunification, and adoption promotion and support services).
 
 #### (2) Plans of Indian tribes or tribal consortia ####
 
@@ -93,10 +93,6 @@ The compilation shall include the individual State reports and tables that synth
 Not later than September 30 of each year, the Secretary shall publish the compilation on the website of the Department of Health and Human Services in a location easily accessible by the public.
 
 (Aug. 14, 1935, ch. 531, title IV, §432, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 651; amended Pub. L. 105–89, title III, §305(b)(1), (c)(1), Nov. 19, 1997, 111 Stat. 2130, 2131; Pub. L. 105–200, title IV, §410(c), July 16, 1998, 112 Stat. 673; Pub. L. 109–288, §§3(e)(1), (2), 5(b)(3)(A), (c), Sept. 28, 2006, 120 Stat. 1235, 1243, 1244; Pub. L. 112–34, title I, §102(b), (e), (g)(1), Sept. 30, 2011, 125 Stat. 371, 372; Pub. L. 115–123, div. E, title VII, §50721(b)(2), Feb. 9, 2018, 132 Stat. 245.)
-
-#### Amendment of Section ####
-
-Pub. L. 115–123, div. E, title VII, §§50721(b)(2), 50734, Feb. 9, 2018, 132 Stat. 245, 252, provided that, effective Oct. 1, 2018, subject to transition rules for required State legislation or tribal action, subsections (a)(4), (5)(A) and (b)(1) of this section are amended by striking "time-limited" each place it appears. See 2018 Amendment notes below.
 
 #### Prior Provisions ####
 

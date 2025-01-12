@@ -1,10 +1,12 @@
 ### §701r. Protection of highways, bridge approaches, public works, and nonprofit public services ###
 
-The Secretary of the Army is authorized to allot from any appropriations heretofore or hereafter made for flood control, not to exceed $20,000,000 per year, for the construction, repair, restoration, and modification of emergency streambank and shoreline protection works to prevent damage to highways, bridge approaches, and public works, churches, hospitals, schools, and other nonprofit public services, when in the opinion of the Chief of Engineers such work is advisable: *Provided*, That not more than $5,000,000 shall be allotted for this purpose at any single locality from the appropriations for any one fiscal year.
+The Secretary of the Army is authorized to allot from any appropriations heretofore or hereafter made for flood control, not to exceed $25,000,000 per year, for the construction, repair, restoration, and modification of emergency streambank and shoreline protection works to prevent damage to highways, bridge approaches, and public works, churches, hospitals, schools, and other nonprofit public services, when in the opinion of the Chief of Engineers such work is advisable: *Provided*, That not more than $5,000,000 shall be allotted for this purpose at any single locality from the appropriations for any one fiscal year, and if such amount is not sufficient to cover the costs included in the Federal cost share for a project, as determined by the Secretary, the non-Federal interest shall be responsible for any such costs that exceed such amount.
 
-(July 24, 1946, ch. 596, §14, 60 Stat. 653; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 93–251, title I, §27, Mar. 7, 1974, 88 Stat. 20; Pub. L. 99–662, title IX, §915(c), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 104–303, title II, §219, Oct. 12, 1996, 110 Stat. 3696; Pub. L. 110–114, title II, §2023, Nov. 8, 2007, 121 Stat. 1078; Pub. L. 113–121, title I, §1030(i), June 10, 2014, 128 Stat. 1232.)
+(July 24, 1946, ch. 596, §14, 60 Stat. 653; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 93–251, title I, §27, Mar. 7, 1974, 88 Stat. 20; Pub. L. 99–662, title IX, §915(c), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 104–303, title II, §219, Oct. 12, 1996, 110 Stat. 3696; Pub. L. 110–114, title II, §2023, Nov. 8, 2007, 121 Stat. 1078; Pub. L. 113–121, title I, §1030(i), June 10, 2014, 128 Stat. 1232; Pub. L. 115–270, title I, §§1157(h), 1167, Oct. 23, 2018, 132 Stat. 3794, 3798.)
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–270 substituted "$25,000,000" for "$20,000,000" and inserted ", and if such amount is not sufficient to cover the costs included in the Federal cost share for a project, as determined by the Secretary, the non-Federal interest shall be responsible for any such costs that exceed such amount" before period at end.
 
 **2014**—Pub. L. 113–121 substituted "$20,000,000" for "$15,000,000" and "$5,000,000" for "$1,500,000".
 

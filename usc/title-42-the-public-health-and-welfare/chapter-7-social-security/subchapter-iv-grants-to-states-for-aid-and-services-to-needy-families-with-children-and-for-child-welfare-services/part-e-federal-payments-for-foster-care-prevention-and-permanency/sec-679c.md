@@ -30,9 +30,11 @@ Subject to clause (ii) of this subparagraph, an assurance that the plan will pro
 
 (I) foster care maintenance payments under section 672 of this title only on behalf of children who satisfy the eligibility requirements of section 672(a) of this title;
 
-(II) adoption assistance payments under section 673 of this title pursuant to adoption assistance agreements only on behalf of children who satisfy the eligibility requirements for such payments under that section; and
+(II) adoption assistance payments under section 673 of this title pursuant to adoption assistance agreements only on behalf of children who satisfy the eligibility requirements for such payments under that section;
 
-(III) at the option of the tribe, organization, or consortium, kinship guardianship assistance payments in accordance with section 673(d) of this title only on behalf of children who meet the requirements of section 673(d)(3) of this title.
+(III) at the option of the tribe, organization, or consortium, kinship guardianship assistance payments in accordance with section 673(d) of this title only on behalf of children who meet the requirements of section 673(d)(3) of this title; and
+
+(IV) at the option of the tribe, organization, or consortium, services and programs specified in section 671(e)(1) of this title to children described in section 671(e)(2) of this title and their parents or kin caregivers, in accordance with section 671(e) of this title and subparagraph (E).
 
 #### (ii) Satisfaction of foster care eligibility requirements ####
 
@@ -104,6 +106,16 @@ If, at the time expenditures are made for a fiscal year quarter beginning after 
 
 (II) in the case of any quarter of fiscal year 2015 or any fiscal year thereafter, no tribe, organization, or consortium may claim in-kind expenditures from third-party sources for purposes of determining the non-Federal share of such expenditures if a State with a plan approved under section 671(a) of this title could not claim in-kind expenditures from third-party sources for such purposes.
 
+#### (E) Prevention services and programs for children and their parents and kin caregivers ####
+
+#### (i) In general ####
+
+In the case of a tribe, organization, or consortium that elects to provide services and programs specified in section 671(e)(1) of this title to children described in section 671(e)(2) of this title and their parents or kin caregivers under the plan, the Secretary shall specify the requirements applicable to the provision of the services and programs. The requirements shall, to the greatest extent practicable, be consistent with the requirements applicable to States under section 671(e) of this title and shall permit the provision of the services and programs in the form of services and programs that are adapted to the culture and context of the tribal communities served.
+
+#### (ii) Performance measures ####
+
+The Secretary shall establish specific performance measures for each tribe, organization, or consortium that elects to provide services and programs specified in section 671(e)(1) of this title. The performance measures shall, to the greatest extent practicable, be consistent with the prevention services measures required for States under section 671(e)(6) of this title but shall allow for consideration of factors unique to the provision of the services by tribes, organizations, or consortia.
+
 #### (2) Clarification of tribal authority to establish standards for tribal foster family homes and tribal child care institutions ####
 
 For purposes of complying with section 671(a)(10) of this title, an Indian tribe, tribal organization, or tribal consortium shall establish and maintain a tribal authority or authorities which shall be responsible for establishing and maintaining tribal standards for tribal foster family homes and tribal child care institutions.
@@ -112,11 +124,15 @@ For purposes of complying with section 671(a)(10) of this title, an Indian tribe
 
 The participating Indian tribes or tribal organizations of a tribal consortium may develop and submit a single plan under section 671 of this title that meets the requirements of this section.
 
-#### (d) Determination of Federal medical assistance percentage for foster care maintenance and adoption assistance payments ####
+#### (4) Inapplicability of State plan requirement to have in effect procedures providing for the use of an electronic interstate case-processing system ####
+
+The requirement in section 671(a)(25) of this title that a State plan provide that the State shall have in effect procedures providing for the use of an electronic interstate case-processing system shall not apply to an Indian tribe, tribal organization, or tribal consortium that elects to operate a program under this part.
+
+#### (d) Determination of Federal medical assistance percentage ####
 
 #### (1) Per capita income ####
 
-For purposes of determining the Federal medical assistance percentage applicable to an Indian tribe, a tribal organization, or a tribal consortium under paragraphs (1), (2), and (5) of section 674(a) of this title, the calculation of the per capita income of the Indian tribe, tribal organization, or tribal consortium shall be based upon the service population of the Indian tribe, tribal organization, or tribal consortium, except that in no case shall an Indian tribe, a tribal organization, or a tribal consortium receive less than the Federal medical assistance percentage for any State in which the tribe, organization, or consortium is located.
+For purposes of determining the Federal medical assistance percentage applicable to an Indian tribe, a tribal organization, or a tribal consortium under paragraphs (1), (2), (5), and (6)(A) of section 674(a) of this title, the calculation of the per capita income of the Indian tribe, tribal organization, or tribal consortium shall be based upon the service population of the Indian tribe, tribal organization, or tribal consortium, except that in no case shall an Indian tribe, a tribal organization, or a tribal consortium receive less than the Federal medical assistance percentage for any State in which the tribe, organization, or consortium is located.
 
 #### (2) Consideration of other information ####
 
@@ -135,44 +151,6 @@ Except as provided in section 677(j) of this title, subsection (b) of this secti
 Nothing in this section shall be construed as affecting the application of section 672(h) of this title to a child on whose behalf payments are paid under section 672 of this title, or the application of section 673(b) of this title to a child on whose behalf payments are made under section 673 of this title pursuant to an adoption assistance agreement or a kinship guardianship assistance agreement, by an Indian tribe, tribal organization, or tribal consortium that elects to operate a foster care and adoption assistance program in accordance with this section.
 
 (Aug. 14, 1935, ch. 531, title IV, §479B, as added Pub. L. 110–351, title III, §301(a)(1), Oct. 7, 2008, 122 Stat. 3962; amended Pub. L. 115–123, div. E, title VII, §§50711(e), 50722(b), Feb. 9, 2018, 132 Stat. 243, 246.)
-
-#### Amendment of Subsections (c) and (d) ####
-
-Pub. L. 115–123, div. E, title VII, §§50711(e), 50722(b), 50734, Feb. 9, 2018, 132 Stat. 243, 246, 252, provided that, effective Oct. 1, 2018, subject to transition rules for required State legislation or tribal action, this section is amended—
-
-(1) in subsection (c)—
-
-(A) in paragraph (1)—
-
-(i) in subparagraph (C)(i), by striking "and" after the semicolon in subclause (II), by striking the period at the end of subclause (III) and inserting "; and", and by adding at the end the following:
-
-*"(IV) at the option of the tribe, organization, or consortium, services and programs specified in section 671(e)(1) of this title to children described in section 671(e)(2) of this title and their parents or kin caregivers, in accordance with section 671(e) of this title and subparagraph (E)."; and*
-
-(ii) by adding at the end the following:
-
-#### *"(E) Prevention services and programs for children and their parents and kin caregivers* ####
-
-#### *"(i) In general* ####
-
-*"In the case of a tribe, organization, or consortium that elects to provide services and programs specified in section 671(e)(1) of this title to children described in section 671(e)(2) of this title and their parents or kin caregivers under the plan, the Secretary shall specify the requirements applicable to the provision of the services and programs. The requirements shall, to the greatest extent practicable, be consistent with the requirements applicable to States under section 671(e) of this title and shall permit the provision of the services and programs in the form of services and programs that are adapted to the culture and context of the tribal communities served.*
-
-#### *"(ii) Performance measures* ####
-
-*"The Secretary shall establish specific performance measures for each tribe, organization, or consortium that elects to provide services and programs specified in section 671(e)(1) of this title. The performance measures shall, to the greatest extent practicable, be consistent with the prevention services measures required for States under section 671(e)(6) of this title but shall allow for consideration of factors unique to the provision of the services by tribes, organizations, or consortia."; and*
-
-(B) by adding at the end the following:
-
-#### *"(4) Inapplicability of state plan requirement to have in effect procedures providing for the use of an electronic interstate case-processing system* ####
-
-*"The requirement in section 671(a)(25) of this title that a State plan provide that the State shall have in effect procedures providing for the use of an electronic interstate case-processing system shall not apply to an Indian tribe, tribal organization, or tribal consortium that elects to operate a program under this part."; and*
-
-(2) in subsection (d)—
-
-(A) in the heading, by striking "for foster care maintenance and adoption assistance payments"; and
-
-(B) in paragraph (1), by striking "and (5)" and inserting "(5), and (6)(A)".
-
-See 2018 Amendment notes below.
 
 #### References in Text ####
 
