@@ -144,6 +144,10 @@ For purposes of this section, if an authorized water resources development proje
 
 (Pub. L. 113–121, title VI, §6001, June 10, 2014, 128 Stat. 1345.)
 
+#### References in Text ####
+
+Subsection (b), referred to in subsec. (c)(4), is subsection (b) of section 6001 of Pub. L. 113–121.
+
 #### Codification ####
 
 Section is comprised of section 6001 of Pub. L. 113–121. Subsec. (b) of section 6001 of Pub. L. 113–121 amended section 579a of this title.

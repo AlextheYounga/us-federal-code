@@ -30,7 +30,7 @@ Sec.
 
 521. Assistance to certain rehabilitation activities.
 
-512A. 1 Adaptive sports programs for disabled veterans and members of the Armed Forces.
+521A. Adaptive sports programs for disabled veterans and members of the Armed Forces.
 
 522. Studies of rehabilitation of disabled persons.
 
@@ -64,6 +64,8 @@ Sec.
 
 #### Amendments ####
 
+**2015**—Pub. L. 114–58, title VI, §601(2), Sept. 30, 2015, 129 Stat. 538, which directed amendment of this analysis by striking item "521A" and adding item 521A, was executed by striking item 512A "Adaptive sports programs for disabled veterans and members of the Armed Forces" and adding item 521A, to reflect the probable intent of Congress.
+
 **2013**—Pub. L. 113–59, §5(h)(2), Dec. 20, 2013, 127 Stat. 662, which directed amendment of this analysis by striking item 521A and adding item "512A", was executed by striking item 521A "Assistance for United States Olympic Committee" and adding item 512A in the position for item 521A, to reflect the probable intent of Congress.
 
 Pub. L. 113–37, §2(b)(3), Sept. 30, 2013, 127 Stat. 524, added item 521A and struck out former item 521A "Assistance for United States Paralympics, Inc."
@@ -81,5 +83,3 @@ Pub. L. 113–37, §2(b)(3), Sept. 30, 2013, 127 Stat. 524, added item 521A and 
 **1994**—Pub. L. 103–446, title V, §510(b), Nov. 2, 1994, 108 Stat. 4670, added item 544.
 
 **1992**—Pub. L. 102–405, title I, §105(b)(2), Oct. 9, 1992, 106 Stat. 1976, added item 543.
-
-[<sup>1</sup> So in original. Probably should be "521A." See 2013 Amendment note below.](#CHAPTER5_1)

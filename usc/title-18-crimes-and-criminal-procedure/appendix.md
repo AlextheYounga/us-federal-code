@@ -2813,7 +2813,7 @@ Amendments of this rule embraced in the order of the United States Supreme Court
 
 (iii) a violation of the constitutional right to a speedy trial;
 
-(iv) selective or vindictive prosecution;
+(iv) selective or vindictive prosecution; and
 
 (v) an error in the grand-jury proceeding or preliminary hearing;
 
@@ -2833,7 +2833,7 @@ Amendments of this rule embraced in the order of the United States Supreme Court
 
 (D) severance of charges or defendants under Rule 14; and
 
-(E)	discovery under Rule 16.
+(E) discovery under Rule 16.
 
 (4) *Notice of the Government's Intent to Use Evidence.*
 

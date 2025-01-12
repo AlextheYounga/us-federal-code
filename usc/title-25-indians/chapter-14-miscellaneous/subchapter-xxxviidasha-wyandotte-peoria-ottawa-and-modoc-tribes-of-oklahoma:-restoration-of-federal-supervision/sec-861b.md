@@ -6,7 +6,7 @@ It is hereby declared that enactment of this subchapter fulfills the requirement
 
 #### (b) Modoc Tribe; right or interest in tribal land ####
 
-It is hereby declared that the organization of the Modoc Tribe of Oklahoma as provided in subsection (a) of this section shall fulfill the requirements of the second proviso in section 2 of the Act of January 2, 1975 (88 Stat. 1920, 1921).
+It is hereby declared that the organization of the Modoc Tribe of Oklahoma as provided in subsection (a) shall fulfill the requirements of the second proviso in section 2 of the Act of January 2, 1975 (88 Stat. 1920, 1921).
 
 #### (c) Modoc Tribe; publication of notice in Federal Register of organization for purposes of compliance ####
 

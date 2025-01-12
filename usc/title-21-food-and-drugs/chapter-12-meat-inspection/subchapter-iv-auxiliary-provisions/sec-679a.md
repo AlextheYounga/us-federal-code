@@ -96,4 +96,4 @@ A prior section 410 of act Mar. 4, 1907, was renumbered section 411, and is clas
 
 #### Use of Appropriated Funds ####
 
-For prohibition of use of funds appropriated by div. A of Pub. L. 113–235 or any other Act to carry out this section see section 741 Pub. L. 113–235, set out as a note under section 471 of this title.
+For prohibition of use of funds appropriated by div. A of Pub. L. 113–235 or any other Act to carry out this section, see section 741 Pub. L. 113–235, set out as a note under section 471 of this title.

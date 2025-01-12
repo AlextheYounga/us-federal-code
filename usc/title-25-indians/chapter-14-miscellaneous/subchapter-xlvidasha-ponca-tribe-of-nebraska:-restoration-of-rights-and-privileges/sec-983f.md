@@ -10,6 +10,6 @@ Not later than 120 days after the Tribe adopts a tribal constitution, the Secret
 
 #### (c) Governing body treated as Indian tribal government for purposes of taxation ####
 
-Notwithstanding any other provision of law, the governing body of the Tribe established under the constitution of the Tribe that is adopted under subsection (a) of this section shall be treated as an Indian tribal government for purposes of title 26.
+Notwithstanding any other provision of law, the governing body of the Tribe established under the constitution of the Tribe that is adopted under subsection (a) shall be treated as an Indian tribal government for purposes of title 26.
 
 (Pub. L. 101–484, §8, Oct. 31, 1990, 104 Stat. 1169.)

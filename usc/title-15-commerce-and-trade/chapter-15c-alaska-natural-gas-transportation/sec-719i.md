@@ -6,15 +6,15 @@ In addition to remedies available under other applicable provisions of law, when
 
 (1) issue a compliance order requiring such person to comply with such provision or any rule, regulation, or order thereunder, or
 
-(2) bring a civil action in accordance with subsection (c) of this section.
+(2) bring a civil action in accordance with subsection (c).
 
 #### (b) Specificity of compliance order ####
 
-Any order issued under subsection (a) of this section shall state with reasonable specificity the nature of the violation and a time of compliance, not to exceed 30 days, which the officer or agency, as the case may be, determines is reasonable, taking into account the seriousness of the violation and any good faith efforts to comply with applicable requirements.
+Any order issued under subsection (a) shall state with reasonable specificity the nature of the violation and a time of compliance, not to exceed 30 days, which the officer or agency, as the case may be, determines is reasonable, taking into account the seriousness of the violation and any good faith efforts to comply with applicable requirements.
 
 #### (c) Appropriate relief and jurisdiction of civil action ####
 
-Upon a request of such officer or agency, as the case may be, the Attorney General may commence a civil action for appropriate relief, including a permanent or temporary injunction or a civil penalty not to exceed $25,000 per day for violations of the compliance order issued under subsection (a) of this section. Any action under this subsection may be brought in any district court of the United States for the district in which the defendant is located, resides, or is doing business, and such court shall have jurisdiction to restrain such violation, require compliance, or impose such penalty or give ancillary relief.
+Upon a request of such officer or agency, as the case may be, the Attorney General may commence a civil action for appropriate relief, including a permanent or temporary injunction or a civil penalty not to exceed $25,000 per day for violations of the compliance order issued under subsection (a). Any action under this subsection may be brought in any district court of the United States for the district in which the defendant is located, resides, or is doing business, and such court shall have jurisdiction to restrain such violation, require compliance, or impose such penalty or give ancillary relief.
 
 (Pub. L. 94–586, §11, Oct. 22, 1976, 90 Stat. 2914.)
 

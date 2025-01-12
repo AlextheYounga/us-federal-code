@@ -10,13 +10,13 @@ The President may declare a natural gas supply emergency (or extend a previously
 
 #### (b) Limitation ####
 
-(1) Any declaration of a natural gas supply emergency (or extension thereof) under subsection (a) of this section, shall terminate at the earlier of—
+(1) Any declaration of a natural gas supply emergency (or extension thereof) under subsection (a), shall terminate at the earlier of—
 
-(A) the date on which the President finds that any shortage described in subsection (a) of this section does not exist or is not imminent; or
+(A) the date on which the President finds that any shortage described in subsection (a) does not exist or is not imminent; or
 
 (B) 120 days after the date of such declaration of emergency (or extension thereof).
 
-(2) Nothing in this subsection shall prohibit the President from extending, under subsection (a) of this section, any emergency (or extension thereof) previously declared under subsection (a) of this section, upon the expiration of such declaration of emergency (or extension thereof) under paragraph (1)(B).
+(2) Nothing in this subsection shall prohibit the President from extending, under subsection (a), any emergency (or extension thereof) previously declared under subsection (a), upon the expiration of such declaration of emergency (or extension thereof) under paragraph (1)(B).
 
 #### (c) Prohibitions ####
 

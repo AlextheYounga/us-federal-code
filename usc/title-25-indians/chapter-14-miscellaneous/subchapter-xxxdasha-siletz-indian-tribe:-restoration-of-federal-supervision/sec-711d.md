@@ -12,11 +12,11 @@ Upon the written request of the Interim Council, the Secretary shall conduct an 
 
 #### (b) Pre-election distribution of proposed constitution and bylaws and brief impartial description; consultation by Interim Council with members of tribe ####
 
-The Interim Council shall draft and distribute to each member described in section 711b(d) of this title, no later than thirty days before the election under subsection (a) of this section, a copy of the proposed constitution and bylaws of the tribe, as drafted by the Interim Council, along with a brief, impartial description of the proposed constitution and bylaws. The members of the Interim Council may freely consult with members of the tribe concerning the text and description of the constitution and bylaws, except that such consultation may not be carried on within fifty feet of the polling places on the date of the election.
+The Interim Council shall draft and distribute to each member described in section 711b(d) of this title, no later than thirty days before the election under subsection (a), a copy of the proposed constitution and bylaws of the tribe, as drafted by the Interim Council, along with a brief, impartial description of the proposed constitution and bylaws. The members of the Interim Council may freely consult with members of the tribe concerning the text and description of the constitution and bylaws, except that such consultation may not be carried on within fifty feet of the polling places on the date of the election.
 
 #### (c) Majority vote necessary for adoption of constitution and bylaws ####
 
-In any election held pursuant to subsection (a) of this section, the vote of a majority of those actually voting shall be necessary and sufficient for the adoption of a tribal constitution and bylaws.
+In any election held pursuant to subsection (a), the vote of a majority of those actually voting shall be necessary and sufficient for the adoption of a tribal constitution and bylaws.
 
 #### (d) Election of tribal officials provided for in constitution and bylaws; ballot requirements ####
 

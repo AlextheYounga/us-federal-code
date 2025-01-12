@@ -8,17 +8,17 @@ The Secretary shall—
 
 (2) in accordance with this section, establish such a plan; and
 
-(3) upon the approval of such plan by the governing body of the Tribe (and after consultation with the State and local officials pursuant to subsection (b) of this section), shall <sup><a href="#983h_1_target" name="983h_1">1</a></sup> submit such plan to the Congress by no later than the date that is 3 years after October 31, 1990.
+(3) upon the approval of such plan by the governing body of the Tribe (and after consultation with the State and local officials pursuant to subsection (b)), shall <sup><a href="#983h_1_target" name="983h_1">1</a></sup> submit such plan to the Congress by no later than the date that is 3 years after October 31, 1990.
 
 #### (b) Consultation with State and local officials ####
 
-(1) To ensure that legitimate State and local interests are not prejudiced by the economic development plan established under subsection (a) of this section, the Secretary shall notify and consult with the appropriate officials of the State and all appropriate local governmental officials in the State with respect to the proposed economic development plan. The Secretary shall provide complete information on the proposed economic development plan to such officials, including the restrictions imposed on such plan by subsection (c) of this section.
+(1) To ensure that legitimate State and local interests are not prejudiced by the economic development plan established under subsection (a), the Secretary shall notify and consult with the appropriate officials of the State and all appropriate local governmental officials in the State with respect to the proposed economic development plan. The Secretary shall provide complete information on the proposed economic development plan to such officials, including the restrictions imposed on such plan by subsection (c).
 
 (2) During any consultation by the Secretary under this subsection, the Secretary shall provide such information as the Secretary may possess and shall request comments and additional information on the extent of any State or local service to the Tribe.
 
 #### (c) Required provisions ####
 
-Any economic development plan established by the Secretary under subsection (a) of this section shall provide that—
+Any economic development plan established by the Secretary under subsection (a) shall provide that—
 
 (1) real property acquired by or for the Tribe located in Knox or Boyd Counties, Nebraska, shall be taken by the Secretary in the name of the United States in trust for the benefit of the Tribe;
 
@@ -32,9 +32,9 @@ Any economic development plan established by the Secretary under subsection (a) 
 
 #### (d) Statement regarding individuals consulted, and testimony or comments received by Secretary ####
 
-The Secretary shall append to the economic development plan submitted to the Congress under subsection (a) of this section a detailed statement—
+The Secretary shall append to the economic development plan submitted to the Congress under subsection (a) a detailed statement—
 
-(1) naming each individual consulted in accordance with subsection (b) of this section;
+(1) naming each individual consulted in accordance with subsection (b);
 
 (2) summarizing the testimony received by the Secretary pursuant to any such consultation; and
 

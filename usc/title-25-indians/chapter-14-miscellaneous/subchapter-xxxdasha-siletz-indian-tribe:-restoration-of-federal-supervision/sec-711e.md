@@ -6,11 +6,11 @@ Any reservation for the tribe shall be established by an Act of Congress enacted
 
 #### (b) Plan; negotiation with tribe; approval by tribal officials; submittal to Congress ####
 
-Inasmuch as the reservation of the tribe has been terminated, the Secretary shall negotiate with the tribe, or with representatives of the tribe chosen by the tribe, concerning the establishment of a reservation for the tribe and shall, in accordance with subsections (c) and (d) of this section and within two years after November 18, 1977, develop a plan for the establishment of a reservation for the tribe. Upon approval of such plan by the tribal officials elected under the tribal constitution and bylaws adopted pursuant to section 711d of this title, the Secretary shall submit such plan, in the form of proposed legislation, to the Congress.
+Inasmuch as the reservation of the tribe has been terminated, the Secretary shall negotiate with the tribe, or with representatives of the tribe chosen by the tribe, concerning the establishment of a reservation for the tribe and shall, in accordance with subsections (c) and (d) and within two years after November 18, 1977, develop a plan for the establishment of a reservation for the tribe. Upon approval of such plan by the tribal officials elected under the tribal constitution and bylaws adopted pursuant to section 711d of this title, the Secretary shall submit such plan, in the form of proposed legislation, to the Congress.
 
 #### (c) Notification and consultation ####
 
-To assure that legitimate State and local interests are not prejudiced by the creation of a reservation for the tribe, the Secretary, in developing a plan under subsection (b) of this section for the establishment of a reservation, shall notify and consult with all appropriate officials of the State of Oregon, all appropriate local governmental officials in the State of Oregon and any other interested parties. Such consultation shall include the following subjects:
+To assure that legitimate State and local interests are not prejudiced by the creation of a reservation for the tribe, the Secretary, in developing a plan under subsection (b)for the establishment of a reservation, shall notify and consult with all appropriate officials of the State of Oregon, all appropriate local governmental officials in the State of Oregon and any other interested parties. Such consultation shall include the following subjects:
 
 (1) the size and location of the reservation;
 
@@ -42,7 +42,7 @@ Any plan developed under this section for the establishment of a reservation for
 
 #### (e) Statement ####
 
-The Secretary shall append to the plan a detailed statement describing the manner in which the notification and consultation prescribed by subsection (c) of this section was carried out and shall include any written comments with respect to the establishment of a reservation for the tribe submitted to the Secretary by State and local officials and other interested parties in the course of such consultation.
+The Secretary shall append to the plan a detailed statement describing the manner in which the notification and consultation prescribed by subsection (c) was carried out and shall include any written comments with respect to the establishment of a reservation for the tribe submitted to the Secretary by State and local officials and other interested parties in the course of such consultation.
 
 (Pub. L. 95–195, §7, Nov. 18, 1977, 91 Stat. 1418.)
 

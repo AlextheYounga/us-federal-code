@@ -8,7 +8,7 @@ The Secretary shall negotiate and enter into an annual written funding agreement
 
 Each funding agreement shall—
 
-(1) authorize the tribe to plan, conduct, consolidate, and administer programs, services, functions, and activities, or portions thereof, administered by the Department of the Interior through the Bureau of Indian Affairs, without regard to the agency or office of the Bureau of Indian Affairs within which the program, service, function, and activity, or portion thereof, is performed, including funding for agency, area, and central office functions in accordance with subsection (g)(3) of this section, and including any program, service, function, and activity, or portion thereof, administered under the authority of—
+(1) authorize the tribe to plan, conduct, consolidate, and administer programs, services, functions, and activities, or portions thereof, administered by the Department of the Interior through the Bureau of Indian Affairs, without regard to the agency or office of the Bureau of Indian Affairs within which the program, service, function, and activity, or portion thereof, is performed, including funding for agency, area, and central office functions in accordance with subsection (g)(3), and including any program, service, function, and activity, or portion thereof, administered under the authority of—
 
 (A) the Act of April 16, 1934 (25 U.S.C. 452 et seq.);
 
@@ -44,7 +44,7 @@ Each funding agreement shall—
 
 #### (c) Additional activities ####
 
-Each funding agreement negotiated pursuant to subsections (a) and (b) of this section may, in accordance to such additional terms as the parties deem appropriate, also include other programs, services, functions, and activities, or portions thereof, administered by the Secretary of the Interior which are of special geographic, historical, or cultural significance to the participating Indian tribe requesting a compact.
+Each funding agreement negotiated pursuant to subsections (a) and (b) may, in accordance to such additional terms as the parties deem appropriate, also include other programs, services, functions, and activities, or portions thereof, administered by the Secretary of the Interior which are of special geographic, historical, or cultural significance to the participating Indian tribe requesting a compact.
 
 #### (d) Provisions relating to Secretary ####
 
@@ -76,7 +76,7 @@ Not later than 90 days before the proposed effective date of an agreement entere
 
 (2) The funding agreements authorized by this part and title III of this Act shall provide for advance payments to the tribes in the form of annual or semi-annual installments at the discretion of the tribes.
 
-(3) Subject to paragraph (4) of this subsection and paragraphs (1) through (3) of subsection (b) of this section, the Secretary shall provide funds to the tribe under an agreement under this part for programs, services, functions, and activities, or portions thereof, in an amount equal to the amount that the tribe would have been eligible to receive under contracts and grants under this subchapter, including amounts for direct program and contract support costs and, in addition, any funds that are specifically or functionally related to the provision by the Secretary of services and benefits to the tribe or its members, without regard to the organization level within the Department where such functions are carried out.
+(3) Subject to paragraph (4) of this subsection and paragraphs (1) through (3) of subsection (b), the Secretary shall provide funds to the tribe under an agreement under this part for programs, services, functions, and activities, or portions thereof, in an amount equal to the amount that the tribe would have been eligible to receive under contracts and grants under this subchapter, including amounts for direct program and contract support costs and, in addition, any funds that are specifically or functionally related to the provision by the Secretary of services and benefits to the tribe or its members, without regard to the organization level within the Department where such functions are carried out.
 
 (4) Funds for trust services to individual Indians shall be available under an agreement entered into under this section only to the extent that the same services that would have been provided by the Secretary are provided to individual Indians by the tribe.
 
@@ -104,7 +104,7 @@ All funds provided under funding agreements entered into pursuant to this subcha
 
 #### (k) Disclaimer ####
 
-Nothing in this section is intended or shall be construed to expand or alter existing statutory authorities in the Secretary so as to authorize the Secretary to enter into any agreement under subsection (b)(2) of this section and section 458ee(c)(1) of this title with respect to functions that are inherently Federal or where the statute establishing the existing program does not authorize the type of participation sought by the tribe: *Provided*, however an Indian tribe or tribes need not be identified in the authorizing statute in order for a program or element of a program to be included in a compact under subsection (b)(2) of this section.
+Nothing in this section is intended or shall be construed to expand or alter existing statutory authorities in the Secretary so as to authorize the Secretary to enter into any agreement under subsection (b)(2) and section 458ee(c)(1) of this title with respect to functions that are inherently Federal or where the statute establishing the existing program does not authorize the type of participation sought by the tribe: *Provided*, however an Indian tribe or tribes need not be identified in the authorizing statute in order for a program or element of a program to be included in a compact under subsection (b)(2).
 
 #### (l) Incorporate self-determination provisions ####
 

@@ -30,17 +30,17 @@
 
 #### (b) Commission approval ####
 
-(1) No transfer of contractual interests authorized by the rule required under subsection (a)(1) of this section may take effect unless the Commission issues a certificate of public convenience and necessity for such transfer if such natural gas is to be resold by the person to whom such contractual interests are to be transferred. Such certificate shall be issued by the Commission in accordance with the requirements of this subsection and those of section 7 of the Natural Gas Act [15 U.S.C. 717f], and the provisions of such Act [15 U.S.C. 717 et seq.] applicable to the determination of satisfaction of the public convenience and necessity requirements of such section.
+(1) No transfer of contractual interests authorized by the rule required under subsection (a)(1) may take effect unless the Commission issues a certificate of public convenience and necessity for such transfer if such natural gas is to be resold by the person to whom such contractual interests are to be transferred. Such certificate shall be issued by the Commission in accordance with the requirements of this subsection and those of section 7 of the Natural Gas Act [15 U.S.C. 717f], and the provisions of such Act [15 U.S.C. 717 et seq.] applicable to the determination of satisfaction of the public convenience and necessity requirements of such section.
 
-(2) The rule required under subsection (a)(1) of this section shall set forth guidelines for the application on a regional or national basis (as the Commission determines appropriate) of the criteria specified in subsection (e)(2) and (3) of this section to determine the maximum consideration permitted as just compensation under this section.
+(2) The rule required under subsection (a)(1) shall set forth guidelines for the application on a regional or national basis (as the Commission determines appropriate) of the criteria specified in subsection (e)(2) and (3) to determine the maximum consideration permitted as just compensation under this section.
 
 #### (c) Restrictions on transfers unenforceable ####
 
-Any provision of any contract, which provision prohibits any transfer of any contractual interests thereunder, or any commingling or transportation of natural gas subject to such contract with natural gas the sale for resale or transportation of which is subject to the jurisdiction of the Commission under the Natural Gas Act [15 U.S.C. 717 et seq.], or terminates such contract on the basis of any such transfer, commingling, or transportation, shall be unenforceable in any court of the United States and in any court of any State if applied with respect to any transfer approved under the rule required under subsection (a)(1) of this section.
+Any provision of any contract, which provision prohibits any transfer of any contractual interests thereunder, or any commingling or transportation of natural gas subject to such contract with natural gas the sale for resale or transportation of which is subject to the jurisdiction of the Commission under the Natural Gas Act [15 U.S.C. 717 et seq.], or terminates such contract on the basis of any such transfer, commingling, or transportation, shall be unenforceable in any court of the United States and in any court of any State if applied with respect to any transfer approved under the rule required under subsection (a)(1).
 
 #### (d) Contractual obligations unaffected ####
 
-The person acquiring contractual interests transferred pursuant to the rule required under subsection (a)(1) of this section shall assume the contractual obligations which the person transferring such contractual interests has under such contract. This section shall not relieve the person transferring such contractual interests from any contractual obligation of such person under such contract if such obligation is not performed by the person acquiring such contractual interests.
+The person acquiring contractual interests transferred pursuant to the rule required under subsection (a)(1) shall assume the contractual obligations which the person transferring such contractual interests has under such contract. This section shall not relieve the person transferring such contractual interests from any contractual obligation of such person under such contract if such obligation is not performed by the person acquiring such contractual interests.
 
 #### (e) Definitions ####
 
@@ -48,17 +48,17 @@ For purposes of this section—
 
 (1) The term "natural gas" has the same meaning as provided by section 2(5) of the Natural Gas Act [15 U.S.C. 717a(5)].
 
-(2) The term "just compensation", when used with respect to any contractual interests pursuant to the rule required under subsection (a)(1) of this section, means the maximum amount of, or method of determining, consideration which does not exceed the amount by which—
+(2) The term "just compensation", when used with respect to any contractual interests pursuant to the rule required under subsection (a)(1), means the maximum amount of, or method of determining, consideration which does not exceed the amount by which—
 
-(A) the reasonable costs (not including capital costs) incurred, during the remainder of the period of the contract with respect to which contractual interests are transferred pursuant to the rule required under subsection (a)(1) of this section, in direct association with the use of heavy petroleum fuel oil as a fuel in the applicable facility, exceeds
+(A) the reasonable costs (not including capital costs) incurred, during the remainder of the period of the contract with respect to which contractual interests are transferred pursuant to the rule required under subsection (a)(1), in direct association with the use of heavy petroleum fuel oil as a fuel in the applicable facility, exceeds
 
 (B) the price under such contract for natural gas, subject to such contract, delivered during such period.
 
 For purposes of subparagraph (A), the reasonable costs directly associated with the use of heavy petroleum fuel oil as a fuel shall include an allowance for the amortization, over the remaining useful life, of the undepreciated value of depreciable assets located on the premises containing such facility, which assets were directly associated with the use of natural gas and are not usable in connection with the use of such heavy petroleum fuel oil.
 
-(3) The term "just compensation", when used with respect to any intrastate pipeline which would have transported or distributed natural gas with respect to which contractual interests are transferred pursuant to the rule required under subsection (a)(1) of this section, means an amount equal to any loss of revenue, during the remaining period of the contract with respect to which contractual interests are transferred pursuant to the rule required under subsection (a)(1) of this section, to the extent such loss—
+(3) The term "just compensation", when used with respect to any intrastate pipeline which would have transported or distributed natural gas with respect to which contractual interests are transferred pursuant to the rule required under subsection (a)(1), means an amount equal to any loss of revenue, during the remaining period of the contract with respect to which contractual interests are transferred pursuant to the rule required under subsection (a)(1), to the extent such loss—
 
-(A) is directly incurred by reason of the discontinuation of the transportation or distribution of natural gas resulting from the transfer of contractual interests pursuant to the rule required under subsection (a)(1) of this section; and
+(A) is directly incurred by reason of the discontinuation of the transportation or distribution of natural gas resulting from the transfer of contractual interests pursuant to the rule required under subsection (a)(1); and
 
 (B) is not offset by—
 
@@ -88,19 +88,19 @@ For purposes of subparagraph (A), the reasonable costs directly associated with 
 
 (1) Consideration in any transfer of contractual interests pursuant to the rule required under subsection (a)(1) of this section shall be deemed just and reasonable for purposes of sections 4 and 5 of the Natural Gas Act [15 U.S.C. 717c, 717d] if such consideration does not exceed just compensation.
 
-(2) No person shall be subject to the jurisdiction of the Commission under the Natural Gas Act [15 U.S.C. 717 et seq.] as a natural gas-company (within the meaning of such Act) or to regulation as a common carrier under any provision of Federal or State law solely by reason of making any sale, or engaging in any transportation, of natural gas with respect to which contractual interests are transferred pursuant to the rule required under subsection (a)(1) of this section.
+(2) No person shall be subject to the jurisdiction of the Commission under the Natural Gas Act [15 U.S.C. 717 et seq.] as a natural gas-company (within the meaning of such Act) or to regulation as a common carrier under any provision of Federal or State law solely by reason of making any sale, or engaging in any transportation, of natural gas with respect to which contractual interests are transferred pursuant to the rule required under subsection (a)(1).
 
-(3) Nothing in this section shall exempt from the jurisdiction of the Commission under the Natural Gas Act [15 U.S.C. 717 et seq.] any transportation in interstate commerce of natural gas, any sale in interstate commerce for resale of natural gas, or any person engaged in such transportation or such sale to the extent such transportation, sale, or person is subject to the jurisdiction of the Commission under such Act without regard to the transfer of contractual interests pursuant to the rule required under subsection (a)(1) of this section.
+(3) Nothing in this section shall exempt from the jurisdiction of the Commission under the Natural Gas Act [15 U.S.C. 717 et seq.] any transportation in interstate commerce of natural gas, any sale in interstate commerce for resale of natural gas, or any person engaged in such transportation or such sale to the extent such transportation, sale, or person is subject to the jurisdiction of the Commission under such Act without regard to the transfer of contractual interests pursuant to the rule required under subsection (a)(1).
 
-(4) Nothing in this section shall exempt any person from any obligation to obtain a certificate of public convenience and necessity for the sale in interstate commerce for resale or the transportation in interstate commerce of natural gas with respect to which contractual interests are transferred pursuant to the rule required under subsection (a)(1) of this section.
+(4) Nothing in this section shall exempt any person from any obligation to obtain a certificate of public convenience and necessity for the sale in interstate commerce for resale or the transportation in interstate commerce of natural gas with respect to which contractual interests are transferred pursuant to the rule required under subsection (a)(1).
 
 #### (g) Volume limitation ####
 
-No supplier of natural gas under any contract, with respect to which contractual interests have been transferred pursuant to the rule required under subsection (a)(1) of this section, shall be required to supply natural gas during any relevant period in volume amounts which exceed the lesser of—
+No supplier of natural gas under any contract, with respect to which contractual interests have been transferred pursuant to the rule required under subsection (a)(1), shall be required to supply natural gas during any relevant period in volume amounts which exceed the lesser of—
 
 (1) the volume determined by reference to the maximum delivery obligations specified in such contract;
 
-(2) the volume which such supplier would have been required to supply, under the curtailment plan in effect for such supplier, to the person, who transferred contractual interests pursuant to the rule required under subsection (a)(1) of this section, if no such transfer had occurred; and
+(2) the volume which such supplier would have been required to supply, under the curtailment plan in effect for such supplier, to the person, who transferred contractual interests pursuant to the rule required under subsection (a)(1), if no such transfer had occurred; and
 
 (3) the volume actually delivered or for which payment would have been made pursuant to such contract during the 12-calendar-month period ending immediately before such transfer of contractual interests.
 

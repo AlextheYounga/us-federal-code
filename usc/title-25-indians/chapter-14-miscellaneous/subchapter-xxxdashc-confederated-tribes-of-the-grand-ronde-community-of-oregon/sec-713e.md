@@ -18,7 +18,7 @@ The membership roll of the tribe is established and open.
 
 #### (c) Procedures for verification of eligibility ####
 
-(1) Before the election of the members of the Interim Council is held pursuant to section 713c(b) of this title, verification of (A) descendancy, for purposes of enrollment, and (B) age, for purposes of voting rights under subsection (d) of this section, shall be made upon oath before the Secretary whose determination thereon shall be final.
+(1) Before the election of the members of the Interim Council is held pursuant to section 713c(b) of this title, verification of (A) descendancy, for purposes of enrollment, and (B) age, for purposes of voting rights under subsection (d), shall be made upon oath before the Secretary whose determination thereon shall be final.
 
 (2) After the election of the members of the Interim Council is held pursuant to section 713c(b) of this title, but before the first election of the members of the tribal governing body is held pursuant to section 713d(d) of this title, the verification of descendancy and age shall be made upon oath before the Interim Council, or its authorized representative. An individual may appeal the exclusion of his name from the membership roll of the tribe to the Secretary, who shall make a final determination of each such appeal within ninety days after such an appeal has been filed with him. The determination of the Secretary with respect to such an appeal shall be final.
 

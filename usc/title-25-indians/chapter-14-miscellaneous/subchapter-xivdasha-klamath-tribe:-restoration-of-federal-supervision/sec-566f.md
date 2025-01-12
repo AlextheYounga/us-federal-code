@@ -8,15 +8,15 @@ The Secretary shall—
 
 (B) in accordance with this section and not later than two years after August 27, 1986, develop such a plan.
 
-(2) Upon the approval of such plan by the General Council (and after consultation with the State and local officials pursuant to subsection (b) of this section), the Secretary shall submit such plan to the Congress.
+(2) Upon the approval of such plan by the General Council (and after consultation with the State and local officials pursuant to subsection (b)), the Secretary shall submit such plan to the Congress.
 
 #### (b) Consultation with State and local officials required ####
 
-To assure that legitimate State and local interests are not prejudiced by the proposed economic self-sufficiency plan, the Secretary shall notify and consult with the appropriate officials of the State and all appropriate local governmental officials in the State. The Secretary shall provide complete information on the proposed plan to such officials, including the restrictions on such proposed plan imposed by subsection (c) of this section. During any consultation by the Secretary under this subsection, the Secretary shall provide such information as the Secretary may possess, and shall request comments and additional information on the extent of any State or local service to the tribe.
+To assure that legitimate State and local interests are not prejudiced by the proposed economic self-sufficiency plan, the Secretary shall notify and consult with the appropriate officials of the State and all appropriate local governmental officials in the State. The Secretary shall provide complete information on the proposed plan to such officials, including the restrictions on such proposed plan imposed by subsection (c). During any consultation by the Secretary under this subsection, the Secretary shall provide such information as the Secretary may possess, and shall request comments and additional information on the extent of any State or local service to the tribe.
 
 #### (c) Restrictions to be contained in plan ####
 
-Any plan developed by the Secretary under subsection (a) of this section shall provide that—
+Any plan developed by the Secretary under subsection (a) shall provide that—
 
 (1) any real property transferred by the tribe or any member to the Secretary shall be taken and held in the name of the United States for the benefit of the tribe;
 
@@ -30,9 +30,9 @@ Any plan developed by the Secretary under subsection (a) of this section shall p
 
 #### (d) Appendix to plan submitted to Congress ####
 
-The Secretary shall append to the plan submitted to the Congress under subsection (a) of this section a detailed statement—
+The Secretary shall append to the plan submitted to the Congress under subsection (a) a detailed statement—
 
-(1) naming each individual and official consulted in accordance with subsection (b) of this section;
+(1) naming each individual and official consulted in accordance with subsection (b);
 
 (2) summarizing the testimony received by the Secretary pursuant to any such consultation; and
 

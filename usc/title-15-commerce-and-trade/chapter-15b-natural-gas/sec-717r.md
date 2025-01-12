@@ -2,7 +2,7 @@
 
 #### (a) Application for rehearing; time ####
 
-Any person, State, municipality, or State commission aggrieved by an order issued by the Commission in a proceeding under this chapter to which such person, State, municipality, or State commission is a party may apply for a rehearing within thirty days after the issuance of such order. The application for rehearing shall set forth specifically the ground or grounds upon which such application is based. Upon such application the Commission shall have power to grant or deny rehearing or to abrogate or modify its order without further hearing. Unless the Commission acts upon the application for rehearing within thirty days after it is filed, such application may be deemed to have been denied. No proceeding to review any order of the Commission shall be brought by any person unless such person shall have made application to the Commission for a rehearing thereon. Until the record in a proceeding shall have been filed in a court of appeals, as provided in subsection (b) of this section, the Commission may at any time, upon reasonable notice and in such manner as it shall deem proper, modify or set aside, in whole or in part, any finding or order made or issued by it under the provisions of this chapter.
+Any person, State, municipality, or State commission aggrieved by an order issued by the Commission in a proceeding under this chapter to which such person, State, municipality, or State commission is a party may apply for a rehearing within thirty days after the issuance of such order. The application for rehearing shall set forth specifically the ground or grounds upon which such application is based. Upon such application the Commission shall have power to grant or deny rehearing or to abrogate or modify its order without further hearing. Unless the Commission acts upon the application for rehearing within thirty days after it is filed, such application may be deemed to have been denied. No proceeding to review any order of the Commission shall be brought by any person unless such person shall have made application to the Commission for a rehearing thereon. Until the record in a proceeding shall have been filed in a court of appeals, as provided in subsection (b), the Commission may at any time, upon reasonable notice and in such manner as it shall deem proper, modify or set aside, in whole or in part, any finding or order made or issued by it under the provisions of this chapter.
 
 #### (b) Review of Commission order ####
 
@@ -10,7 +10,7 @@ Any party to a proceeding under this chapter aggrieved by an order issued by the
 
 #### (c) Stay of Commission order ####
 
-The filing of an application for rehearing under subsection (a) of this section shall not, unless specifically ordered by the Commission, operate as a stay of the Commission's order. The commencement of proceedings under subsection (b) of this section shall not, unless specifically ordered by the court, operate as a stay of the Commission's order.
+The filing of an application for rehearing under subsection (a) shall not, unless specifically ordered by the Commission, operate as a stay of the Commission's order. The commencement of proceedings under subsection (b) of this section shall not, unless specifically ordered by the court, operate as a stay of the Commission's order.
 
 #### (d) Judicial review ####
 

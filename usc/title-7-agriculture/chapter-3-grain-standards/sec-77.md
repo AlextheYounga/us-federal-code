@@ -4,9 +4,9 @@
 
 Whenever standards or procedures are effective under section 76 of this title for any grain—
 
-(1) no person shall ship from the United States to any place outside thereof any lot of such grain, unless such lot is officially weighed and officially inspected in accordance with such standards or procedures, and unless a valid official certificate showing the official grade designation and certified weight of the lot of grain has been provided by official inspection personnel and is promptly furnished by the shipper, or the agent of the shipper, to the consignee with the bill of lading or other shipping documents covering the shipment: *Provided*, That the Secretary may waive the foregoing requirement in emergency or other circumstances which would not impair the objectives of this chapter: *Provided further*, That the Secretary shall waive the requirement for official inspection whenever the parties to a contract for such shipment of a lot of grain (which is not sold, offered for sale, or consigned for sale by grade) from the United States to any place outside thereof mutually agree under the contract to ship such lot of grain without official inspection being performed and a copy of the contract is furnished to the Secretary prior to shipment;
+(1) no person shall ship from the United States to any place outside thereof any lot of such grain, unless such lot is officially weighed and officially inspected in accordance with such standards or procedures, and unless a valid official certificate showing the official grade designation and certified weight of the lot of grain has been provided by official inspection personnel and is promptly furnished by the shipper, or the agent of the shipper, to the consignee with the bill of lading or other shipping documents covering the shipment: *Provided*, That the Secretary shall waive the foregoing requirement in emergency or other circumstances that would not impair the objectives of this chapter whenever the parties to a contract for such shipment mutually agree to the waiver and documentation of such agreement is provided to the Secretary prior to shipment: *Provided further*, That the Secretary shall waive the requirement for official inspection whenever the parties to a contract for such shipment of a lot of grain (which is not sold, offered for sale, or consigned for sale by grade) from the United States to any place outside thereof mutually agree under the contract to ship such lot of grain without official inspection being performed and a copy of the contract is furnished to the Secretary prior to shipment;
 
-(2) except as the Secretary may provide in emergency or other circumstances which would not impair the objectives of this chapter, all other grain transferred out of and all grain transferred into an export elevator at an export port location shall be officially weighed in accordance with such standards or procedure: *Provided*, That, unless the shipper or receiver requests that the grain be officially weighed, intracompany shipments of grain into an export elevator by any mode of transportation, grain transferred into an export elevator by transportation modes other than barge, and grain transferred out of an export elevator to destinations within the United States shall not be officially weighed; and
+(2) except as the Secretary may provide in emergency or other circumstances which would not impair the objectives of this chapter, all other grain transferred out of and all grain transferred into an export elevator at an export port location shall be officially weighed in accordance with such standards or procedure: *Provided*, That, unless the shipper or receiver requests that the grain be officially weighed, shipments of grain into an export elevator by any mode of transportation and grain transferred out of an export elevator to destinations within the United States shall not be officially weighed; and
 
 (3) except as otherwise authorized by the Secretary, whenever a lot of grain is both officially inspected and officially weighed while being transferred into or out of a grain elevator, warehouse, or other storage or handling facility, an official certificate shall be issued showing both the official grade designation and the certified weight of the lot of grain.
 
@@ -18,9 +18,29 @@ All official inspection and official weighing, whether performed by authorized e
 
 The Secretary is authorized and directed to require that all corn exported from the United States be tested to ascertain whether it exceeds acceptable levels of aflatoxin contamination, unless the contract for export between the buyer and seller stipulates that aflatoxin testing shall not be conducted.
 
-(Aug. 11, 1916, ch. 313, pt. B, §5, 39 Stat. 483; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 763; Pub. L. 94–582, §6, Oct. 21, 1976, 90 Stat. 2869; Pub. L. 95–113, title XVI, §1606(b), Sept. 29, 1977, 91 Stat. 1030; Pub. L. 96–437, §2, Oct. 13, 1980, 94 Stat. 1870; Pub. L. 101–624, title XX, §2007, Nov. 28, 1990, 104 Stat. 3931; Pub. L. 103–156, §12(c), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, §293(a)(3), (7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §101, Nov. 9, 2000, 114 Stat. 2059.)
+#### (d) Disruption in grain inspection or weighing ####
+
+In the case of a disruption in official grain inspections or weighings, including if the Secretary waives the requirement for official inspection due to an emergency under subsection (a)(1), the Secretary shall—
+
+(1) immediately take such actions as are necessary to address the disruption and resume inspections or weighings;
+
+(2) not later than 24 hours after the start of the disruption in inspection or weighing, submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes—
+
+(A) the disruption; and
+
+(B) any actions necessary to address the concerns of the Secretary relating to the disruption so that inspections or weighings may resume; and
+
+(3) once the initial report in paragraph (2) has been made, provide daily updates until official inspection or weighing services at the site of disruption have resumed.
+
+(Aug. 11, 1916, ch. 313, pt. B, §5, 39 Stat. 483; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 763; Pub. L. 94–582, §6, Oct. 21, 1976, 90 Stat. 2869; Pub. L. 95–113, title XVI, §1606(b), Sept. 29, 1977, 91 Stat. 1030; Pub. L. 96–437, §2, Oct. 13, 1980, 94 Stat. 1870; Pub. L. 101–624, title XX, §2007, Nov. 28, 1990, 104 Stat. 3931; Pub. L. 103–156, §12(c), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, §293(a)(3), (7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §101, Nov. 9, 2000, 114 Stat. 2059; Pub. L. 114–54, title III, §301(a), Sept. 30, 2015, 129 Stat. 516.)
 
 #### Amendments ####
+
+**2015**—Subsec. (a)(1). Pub. L. 114–54, §301(a)(1), substituted "shall waive the foregoing requirement in emergency or other circumstances that would not impair the objectives of this chapter whenever the parties to a contract for such shipment mutually agree to the waiver and documentation of such agreement is provided to the Secretary prior to shipment" for "may waive the foregoing requirement in emergency or other circumstances which would not impair the objectives of this chapter".
+
+Subsec. (a)(2). Pub. L. 114–54, §301(a)(2), substituted "shipments of grain into an export elevator by any mode of transportation" for "intracompany shipments of grain into an export elevator by any mode of transportation, grain transferred into an export elevator by transportation modes other than barge,".
+
+Subsec. (d). Pub. L. 114–54, §301(a)(3), added subsec. (d).
 
 **2000**—Subsec. (a)(1). Pub. L. 106–472 struck out "(on the basis of official samples taken after final elevation as near the final spout through which the grain passes as physically practicable as it is being loaded aboard, or while it is in, the final carrier in which it is to be transported from the United States)" after "officially inspected".
 

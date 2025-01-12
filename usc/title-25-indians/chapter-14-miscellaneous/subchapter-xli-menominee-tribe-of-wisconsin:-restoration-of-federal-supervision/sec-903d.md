@@ -18,6 +18,6 @@ The Secretary and the Menominee Restoration Committee shall consult with appropr
 
 #### (e) Establishment of local government bodies, etc., by Wisconsin to provide necessary governmental services in Menominee County ####
 
-For the purpose of implementing subsection (d) of this section, the State of Wisconsin may establish such local government bodies, political subdivisions, and service arrangements as will best provide the State or local government services required by the people in the territory constituting, on December 22, 1973, the county of Menominee.
+For the purpose of implementing subsection (d), the State of Wisconsin may establish such local government bodies, political subdivisions, and service arrangements as will best provide the State or local government services required by the people in the territory constituting, on December 22, 1973, the county of Menominee.
 
 (Pub. L. 93–197, §6, Dec. 22, 1973, 87 Stat. 772.)

@@ -98,7 +98,7 @@ Sec.
 
 #### World War I Centennial ####
 
-Pub. L. 113–291, div. B, title XXX, §3091, Dec. 19, 2014, 128 Stat. 3858, provided that:
+Pub. L. 113–291, div. B, title XXX, §3091(a)–(c)(3)(B), Dec. 19, 2014, 128 Stat. 3858–3860, provided that:
 
 "(a) Liberty Memorial as World War I Museum and Memorial.—
 
@@ -138,9 +138,9 @@ Pub. L. 113–291, div. B, title XXX, §3091, Dec. 19, 2014, 128 Stat. 3858, pro
 
 "(7) Authorization to complete construction after termination of commission.—[Amended section 8 of Pub. L. 112–272, set out below.]
 
-"(c) Additional Amendments to World War I Centennial Commission Act.—[Amended sections 4, 7, and 9 of Pub. L. 112–272, set out below.]"
+"(c) Additional Amendments to World War I Centennial Commission Act.—[Pars. (1) to (3)(B) amended sections 4, 7, and 9 of Pub. L. 112–272, set out below. Par. (3)(C) amended table of contents of Pub. L. 112–272, which was omitted from the Code.]"
 
-Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, as amended by Pub. L. 113–291, div. B, title XXX, §3091(b)(7)–(c)(3)(B), Dec. 19, 2014, 128 Stat. 3859, provided that:
+Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, as amended by Pub. L. 113–291, div. B, title XXX, §3091(b)(7)–(c)(3)(B), Dec. 19, 2014, 128 Stat. 3859, 3860, provided that:
 
 #### "SECTION 1. SHORT TITLE; TABLE OF CONTENTS. ####
 

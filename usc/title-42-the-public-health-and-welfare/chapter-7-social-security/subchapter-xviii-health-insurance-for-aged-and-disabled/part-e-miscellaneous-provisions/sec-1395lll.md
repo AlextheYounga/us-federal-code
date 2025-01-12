@@ -364,7 +364,7 @@ For purposes of carrying out this section, the Secretary shall provide for the t
 
 There shall be no administrative or judicial review under sections 1395ff and 1395oo of this title or otherwise of the specification of standardized patient assessment data required, the determination of measures, and the systems to report such standardized data under this section.
 
-#### (m) Non-application of Paperwork Reduction act ####
+#### (m) Non-application of Paperwork Reduction Act ####
 
 Chapter 35 of title 44 (commonly referred to as the "Paperwork Reduction Act of 1995") shall not apply to this section and the sections referenced in subsection (a)(2)(B) that require modification in order to achieve the standardization of patient assessment data.
 

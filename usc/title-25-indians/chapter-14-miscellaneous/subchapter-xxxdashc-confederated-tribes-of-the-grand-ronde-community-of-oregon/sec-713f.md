@@ -4,11 +4,11 @@
 
 (1) Any reservation for the tribe shall be established by an Act of Congress enacted after November 22, 1983.
 
-(2) The Secretary shall enter into negotiations with the tribal governing body with respect to establishing a reservation for the tribe and, in accordance with this section and within two years of November 22, 1983, develop a plan for the establishment of such a reservation. Upon the approval of such plan by the tribal governing body (and after consultation with interested parties pursuant to subsection (b) of this section), the Secretary shall submit such plan to the Clerk of the House of Representatives and the Secretary of the Senate for distribution to the committees of the respective Houses of the Congress with jurisdiction over the subject matter.
+(2) The Secretary shall enter into negotiations with the tribal governing body with respect to establishing a reservation for the tribe and, in accordance with this section and within two years of November 22, 1983, develop a plan for the establishment of such a reservation. Upon the approval of such plan by the tribal governing body (and after consultation with interested parties pursuant to subsection (b)), the Secretary shall submit such plan to the Clerk of the House of Representatives and the Secretary of the Senate for distribution to the committees of the respective Houses of the Congress with jurisdiction over the subject matter.
 
 #### (b) Consultation with State and local officials required ####
 
-To assure that legitimate State and local interests are not prejudiced by the proposed enlargement of the reservation, the Secretary shall notify and consult all appropriate officials of the State of Oregon, all appropriate local governmental officials in the State of Oregon, and any other interested party in developing any plan under subsection (a) of this section. The Secretary shall provide complete information on the proposed plan to such officials and interested parties, including the restrictions on such proposed plan imposed by subsection (c) of this section. During any consultation by the Secretary under this subsection, the Secretary shall provide such information as he may possess, and shall request comments and additional information, on the following subjects:
+To assure that legitimate State and local interests are not prejudiced by the proposed enlargement of the reservation, the Secretary shall notify and consult all appropriate officials of the State of Oregon, all appropriate local governmental officials in the State of Oregon, and any other interested party in developing any plan under subsection (a). The Secretary shall provide complete information on the proposed plan to such officials and interested parties, including the restrictions on such proposed plan imposed by subsection (c). During any consultation by the Secretary under this subsection, the Secretary shall provide such information as he may possess, and shall request comments and additional information, on the following subjects:
 
 (1) The size and location of the proposed reservation.
 
@@ -22,7 +22,7 @@ To assure that legitimate State and local interests are not prejudiced by the pr
 
 #### (c) Restrictions on plan ####
 
-Any plan developed by the Secretary under subsection (a) of this section shall provide that—
+Any plan developed by the Secretary under subsection (a) shall provide that—
 
 (1) any real property transferred by the tribe or any member to the Secretary shall be taken and held in the name of the United States for the benefit of the tribe and shall be a part of the reservation of the tribe;
 
@@ -40,15 +40,15 @@ Any plan developed by the Secretary under subsection (a) of this section shall p
 
 (6) the State of Oregon shall exercise criminal and civil jurisdiction over the reservation, and over the individuals on the reservation, in accordance with section 1162 of title 18 and section 1360 of title 28, respectively; and
 
-(7) any Federal real property transferred for the benefit of the tribe, pursuant to any reservation plan developed under subsection (a) of this section, shall come only from available public lands administered under the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701), and from lands held in trust by the United States for the tribe or for individual Indians.
+(7) any Federal real property transferred for the benefit of the tribe, pursuant to any reservation plan developed under subsection (a), shall come only from available public lands administered under the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701), and from lands held in trust by the United States for the tribe or for individual Indians.
 
 #### (d) Appendix to plan submitted to the Congress ####
 
-The Secretary shall append to the plan submitted to the Congress under subsection (a) of this section a detailed statement—
+The Secretary shall append to the plan submitted to the Congress under subsection (a) a detailed statement—
 
-(1) describing the manner in which the Secretary notified all interested parties in accordance with subsection (b) of this section;
+(1) describing the manner in which the Secretary notified all interested parties in accordance with subsection (b);
 
-(2) naming each individual and official consulted in accordance with subsection (b) of this section;
+(2) naming each individual and official consulted in accordance with subsection (b);
 
 (3) summarizing the testimony received by the Secretary pursuant to any such consultation; and
 

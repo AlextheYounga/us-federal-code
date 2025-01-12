@@ -18,7 +18,7 @@ Until the tribe adopts and the Secretary approves a new governing document, its 
 
 #### (e) Governing body pending adoption of final document ####
 
-Until the tribe adopts a final governing document, the tribe's governing body shall consist of its current board of directors elected at the tribe's annual meeting of August 10, 1986, or such new board members as are selected under election procedures of the interim governing document identified at subsection (d) of this section.
+Until the tribe adopts a final governing document, the tribe's governing body shall consist of its current board of directors elected at the tribe's annual meeting of August 10, 1986, or such new board members as are selected under election procedures of the interim governing document identified at subsection (d).
 
 (Pub. L. 97–391, §4, Dec. 29, 1982, 96 Stat. 1961; Pub. L. 100–139, §7(a), Oct. 26, 1987, 101 Stat. 828.)
 

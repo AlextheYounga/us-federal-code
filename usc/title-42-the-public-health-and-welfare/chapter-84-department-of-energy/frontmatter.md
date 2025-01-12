@@ -500,7 +500,7 @@ Sec.
 
 7385s–15. Office of Ombudsman.
 
-7385s–16. Advisory Board on toxic substances and worker health.
+7385s–16. Advisory Board on Toxic Substances and Worker Health.
 
 #### SUBCHAPTER XVII—[Repealed] ####
 

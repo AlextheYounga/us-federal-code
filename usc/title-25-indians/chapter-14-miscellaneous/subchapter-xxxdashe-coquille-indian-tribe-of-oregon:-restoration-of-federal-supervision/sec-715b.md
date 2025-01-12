@@ -12,6 +12,6 @@ The Secretary shall—
 
 #### (b) Restrictions to be contained in plan ####
 
-Any proposed transfer of real property contained in the plan developed by the Secretary under subsection (a) of this section shall be consistent with the requirements of section 715c of this title.
+Any proposed transfer of real property contained in the plan developed by the Secretary under subsection (a) shall be consistent with the requirements of section 715c of this title.
 
 (Pub. L. 101–42, §4, June 28, 1989, 103 Stat. 92.)

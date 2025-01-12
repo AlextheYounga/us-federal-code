@@ -26,7 +26,7 @@ A prior section 9 of Pub. L. 92–367 was classified to section 467h of this tit
 
 #### Amendments ####
 
-**2014**—Pub. L. 113–121 substituted "Administrator" for "Director" in introductory provisions of subsecs. (a) and (b).
+**2014**—Pub. L. 113–121 substituted "Administrator" for "Director" in introductory provisions of subsec. (a) and in subsec. (b).
 
 **2002**—Subsec. (a). Pub. L. 107–310, §4(1), in introductory provisions, substituted "in cooperation with the Board" for "in cooperation with ICODS" and inserted "and support" after "develop".
 

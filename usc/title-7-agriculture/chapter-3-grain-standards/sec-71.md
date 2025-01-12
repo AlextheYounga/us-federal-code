@@ -18,6 +18,10 @@ Section is comprised of part of section 1 of part B of act Aug. 11, 1916. Other 
 
 Amendment by Pub. L. 90–487 effective 180 days after Aug. 15, 1968, see section 2 of Pub. L. 90–487, set out as a note under section 78 of this title.
 
+#### Short Title of 2015 Amendment ####
+
+Pub. L. 114–54, §1, Sept. 30, 2015, 129 Stat. 513, provided that: "This Act [amending sections 77, 79, 79a, 79d, 84, 87h, 87j, 1635i, 1635j, and 1636i of this title and sections 583j–2, 583j–3, 583j–5, and 583j–8 of Title 16, Conservation, enacting provisions set out as a note under section 1635m of this title, and amending provisions set out as a note under section 1635 of this title] may be cited as the 'Agriculture Reauthorizations Act of 2015'."
+
 #### Short Title of 2000 Amendment ####
 
 Pub. L. 106–472, §1(a), Nov. 9, 2000, 114 Stat. 2058, provided that: "This Act [enacting sections 228d, 241 to 256, 918a, and 1726b of this title and section 1012 of Title 16, Conservation, amending sections 15b, 77, 79, 79a, 79b, 79d, 84, 87b, 87h, 87j, 229, 1622, 1736a, 1926, 2009d, 5101, 5102, and 5106 of this title and sections 1766 and 1786 of Title 42, The Public Health and Welfare, repealing section 87e-1 of this title, enacting provisions set out as notes under sections 79, 181, 241, and 1314e of this title and section 1786 of Title 42, amending provisions set out as notes under sections 74, 612c, and 1421 of this title, and repealing provisions set out as notes under sections 75a, 76, and 79 of this title] may be cited as the 'Grain Standards and Warehouse Improvement Act of 2000'."

@@ -6,7 +6,7 @@ When any mixed-blood member of the tribe has received his distributive share of 
 
 #### (b) Partition or sale by Secretary prior to removal of restrictions ####
 
-Prior to the removal of restrictions in accordance with the provisions of subsection (a) of this section on land owned by more than one person, the Secretary may—
+Prior to the removal of restrictions in accordance with the provisions of subsection (a) hereof on land owned by more than one person, the Secretary may—
 
 (1) upon request of any of the owners, partition the land and issue to each owner an unrestricted patent or deed for his individual share, unless such owner is a full-blood member of the tribe or other Indian who owns trust or restricted property, in which event a trust patent or restricted deed shall be issued and such trust may be terminated or such restrictions may be removed when the Secretary determines that the need therefor no longer exists;
 

@@ -18,9 +18,9 @@ Members of the advisory committee shall serve without compensation, if not other
 
 #### (e) Expiration of Secretary's authority ####
 
-The authority provided to the Secretary for the establishment and maintenance of an advisory committee under this section shall expire on September 30, 2015.
+The authority provided to the Secretary for the establishment and maintenance of an advisory committee under this section shall expire on September 30, 2020.
 
-(Aug. 11, 1916, ch. 313, pt. B, §21, as added Pub. L. 100–518, §2(5), Oct. 24, 1988, 102 Stat. 2586; amended Pub. L. 103–156, §§13(b)(1), 14(c), Nov. 24, 1993, 107 Stat. 1529, 1530; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §109, Nov. 9, 2000, 114 Stat. 2060; Pub. L. 109–83, §1(a), Sept. 30, 2005, 119 Stat. 2053.)
+(Aug. 11, 1916, ch. 313, pt. B, §21, as added Pub. L. 100–518, §2(5), Oct. 24, 1988, 102 Stat. 2586; amended Pub. L. 103–156, §§13(b)(1), 14(c), Nov. 24, 1993, 107 Stat. 1529, 1530; Pub. L. 103–354, title II, §293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §109, Nov. 9, 2000, 114 Stat. 2060; Pub. L. 109–83, §1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, §301(g), Sept. 30, 2015, 129 Stat. 520.)
 
 #### References in Text ####
 
@@ -29,6 +29,8 @@ The enactment of this section, referred to in subsec. (a), means Oct. 24, 1988, 
 The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments ####
+
+**2015**—Subsec. (e). Pub. L. 114–54 substituted "2020" for "2015".
 
 **2005**—Subsec. (e). Pub. L. 109–83 substituted "2015" for "2005".
 

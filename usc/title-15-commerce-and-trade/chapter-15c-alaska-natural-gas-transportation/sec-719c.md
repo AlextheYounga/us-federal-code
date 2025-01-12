@@ -18,7 +18,7 @@
 
 #### (c) Report; public availability; factors to be discussed ####
 
-The Commission shall accompany any recommendation under subsection (b)(1) of this section with a report, which shall be available to the public, explaining the basis for such recommendation and including for each transportation system reviewed or considered a discussion of the following:
+The Commission shall accompany any recommendation under subsection (b)(1) with a report, which shall be available to the public, explaining the basis for such recommendation and including for each transportation system reviewed or considered a discussion of the following:
 
 (1) for each year of the 20-year period which begins with the first year following October 22, 1976, the estimated—
 

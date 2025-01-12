@@ -8,7 +8,7 @@ The Secretary shall negotiate and enter into a written funding agreement with ea
 
 #### (1) In general ####
 
-Each funding agreement required under subsection (a) of this section shall, as determined by the Indian tribe, authorize the Indian tribe to plan, conduct, consolidate, administer, and receive full tribal share funding, including tribal shares of discretionary Indian Health Service competitive grants (excluding congressionally earmarked competitive grants), for all programs, services, functions, and activities (or portions thereof), that are carried out for the benefit of Indians because of their status as Indians without regard to the agency or office of the Indian Health Service within which the program, service, function, or activity (or portion thereof) is performed.
+Each funding agreement required under subsection (a) shall, as determined by the Indian tribe, authorize the Indian tribe to plan, conduct, consolidate, administer, and receive full tribal share funding, including tribal shares of discretionary Indian Health Service competitive grants (excluding congressionally earmarked competitive grants), for all programs, services, functions, and activities (or portions thereof), that are carried out for the benefit of Indians because of their status as Indians without regard to the agency or office of the Indian Health Service within which the program, service, function, or activity (or portion thereof) is performed.
 
 #### (2) Inclusion of certain programs, services, functions, and activities ####
 

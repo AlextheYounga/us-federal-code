@@ -288,7 +288,7 @@ Subsec. (d). Pub. L. 113–183, §203(b)(2), inserted "and legal guardianship" a
 
 Subsec. (d)(1). Pub. L. 113–183, §203(b)(1), inserted "and legal guardianship" after "adoption" in introductory provisions.
 
-Subsec. (d)(1)(A) to (D). Pub. L. 113–183, §202(c)(1), added subpars. (A) to (D) and struck out formers subpars. (A) to (C) which read as follows:
+Pub. L. 113–183, §202(c)(1), added subpars. (A) to (D) and struck out former subpars. (A) to (C) which read as follows:
 
 "(A) $4,000, multiplied by the amount (if any) by which the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year;
 

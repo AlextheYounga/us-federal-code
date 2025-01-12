@@ -4,7 +4,7 @@
 
 Each self-determination contract entered into under this subchapter shall—
 
-(1) contain, or incorporate by reference, the provisions of the model agreement described in subsection (c) of this section (with modifications where indicated and the blanks appropriately filled in), and
+(1) contain, or incorporate by reference, the provisions of the model agreement described in subsection (c) (with modifications where indicated and the blanks appropriately filled in), and
 
 (2) contain such other provisions as are agreed to by the parties.
 
@@ -14,7 +14,7 @@ Notwithstanding any other provision of law, the Secretary may make payments purs
 
 #### (c) Model agreement ####
 
-The model agreement referred to in subsection (a)(1) of this section reads as follows:
+The model agreement referred to in subsection (a)(1) reads as follows:
 
 #### "SECTION 1. AGREEMENT BETWEEN THE SECRETARY AND THE \_\_\_\_\_\_\_\_\_\_\_\_ TRIBAL GOVERNMENT. ####
 

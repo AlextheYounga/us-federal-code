@@ -22,7 +22,7 @@ The Secretary of the Interior and the Secretary of Health and Human Services are
 
 #### (d) Consultation in drafting and promulgating; negotiation process; interagency committees; extension of deadlines ####
 
-(1) In drafting and promulgating regulations as provided in subsection (a) of this section (including drafting and promulgating any revised regulations), the Secretary of the Interior and the Secretary of Health and Human Services shall confer with, and allow for active participation by, representatives of Indian tribes, tribal organizations, and individual tribal members.
+(1) In drafting and promulgating regulations as provided in subsection (a) (including drafting and promulgating any revised regulations), the Secretary of the Interior and the Secretary of Health and Human Services shall confer with, and allow for active participation by, representatives of Indian tribes, tribal organizations, and individual tribal members.
 
 (2)(A) In carrying out rulemaking processes under this subchapter, the Secretary of the Interior and the Secretary of Health and Human Services shall follow the guidance of—
 
@@ -36,7 +36,7 @@ The Secretary of the Interior and the Secretary of Health and Human Services are
 
 (D) Notwithstanding any other provision of law (including any regulation), the Secretary of the Interior and the Secretary of Health and Human Services are authorized to jointly establish and fund such interagency committees or other interagency bodies, including advisory bodies comprised of tribal representatives, as may be necessary or appropriate to carry out the provisions of this subchapter.
 
-(E) If the Secretary determines that an extension of the deadlines under subsection (a)(2)(B) of this section and subparagraph (C) of this paragraph is appropriate, the Secretary may submit proposed legislation to Congress for the extension of such deadlines.
+(E) If the Secretary determines that an extension of the deadlines under subsection (a)(2)(B) and subparagraph (C) of this paragraph is appropriate, the Secretary may submit proposed legislation to Congress for the extension of such deadlines.
 
 #### (e) Exceptions in or waiver of regulations ####
 

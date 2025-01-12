@@ -68,7 +68,7 @@ Sec.
 
 701g. Removal of obstructions; clearing channels.
 
-701h. Contributions by States and political subdivisions.
+701h. Contributions by States, political subdivisions, and other non-Federal interests.
 
 701h–1. Contributions by States and political subdivisions for immediate use on authorized flood-control work; repayment.
 

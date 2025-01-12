@@ -28,6 +28,8 @@ Sec.
 
 408. Taking possession of, use of, or injury to harbor or river improvements.
 
+408a. Expediting approval of modifications and alterations of projects by non-Federal interests.
+
 409. Obstruction of navigable waters by vessels; floating timber; marking and removal of sunken vessels.
 
 410. Exception as to floating loose timber, sack rafts, etc.; violation of regulations; penalty.

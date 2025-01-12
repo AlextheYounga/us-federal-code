@@ -16,7 +16,7 @@ The report shall—
 
 (4) include the separate views of the tribes; and
 
-(5) include the funding formula for individual tribal shares of Central Office funds, together with the comments of affected Indian tribes, developed under subsection (d) of this section.
+(5) include the funding formula for individual tribal shares of Central Office funds, together with the comments of affected Indian tribes, developed under subsection (d).
 
 #### (c) Report on non-BIA programs ####
 
@@ -34,6 +34,6 @@ The report shall—
 
 #### (d) Report on Central Office funds ####
 
-Within 90 days after October 25, 1994, the Secretary shall, in consultation with Indian tribes, develop a funding formula to determine the individual tribal share of funds controlled by the Central Office of the Bureau of Indian Affairs for inclusion in the Self-Governance compacts. The Secretary shall include such formula in the annual report submitted to the Congress under subsection (b) of this section, together with the views of the affected Indian tribes.
+Within 90 days after October 25, 1994, the Secretary shall, in consultation with Indian tribes, develop a funding formula to determine the individual tribal share of funds controlled by the Central Office of the Bureau of Indian Affairs for inclusion in the Self-Governance compacts. The Secretary shall include such formula in the annual report submitted to the Congress under subsection (b), together with the views of the affected Indian tribes.
 
 (Pub. L. 93–638, title IV, §405, as added Pub. L. 103–413, title II, §204, Oct. 25, 1994, 108 Stat. 4276.)

@@ -48,13 +48,13 @@ In any hearing or appeal involving a decision to reassume operation of a program
 
 #### (b) Final offer ####
 
-In the event the Secretary and a participating Indian tribe are unable to agree, in whole or in part, on the terms of a compact or funding agreement (including funding levels), the Indian tribe may submit a final offer to the Secretary. Not more than 45 days after such submission, or within a longer time agreed upon by the Indian tribe, the Secretary shall review and make a determination with respect to such offer. In the absence of a timely rejection of the offer, in whole or in part, made in compliance with subsection (c) of this section, the offer shall be deemed agreed to by the Secretary.
+In the event the Secretary and a participating Indian tribe are unable to agree, in whole or in part, on the terms of a compact or funding agreement (including funding levels), the Indian tribe may submit a final offer to the Secretary. Not more than 45 days after such submission, or within a longer time agreed upon by the Indian tribe, the Secretary shall review and make a determination with respect to such offer. In the absence of a timely rejection of the offer, in whole or in part, made in compliance with subsection (c), the offer shall be deemed agreed to by the Secretary.
 
 #### (c) Rejection of final offers ####
 
 #### (1) In general ####
 
-If the Secretary rejects an offer made under subsection (b) of this section (or one or more provisions or funding levels in such offer), the Secretary shall provide—
+If the Secretary rejects an offer made under subsection (b) (or one or more provisions or funding levels in such offer), the Secretary shall provide—
 
 (A) a timely written notification to the Indian tribe that contains a specific finding that clearly demonstrates, or that is supported by a controlling legal authority, that—
 
@@ -78,7 +78,7 @@ If an Indian tribe exercises the option specified in paragraph (1)(D), that Indi
 
 #### (d) Burden of proof ####
 
-With respect to any hearing or appeal or civil action conducted pursuant to this section, the Secretary shall have the burden of demonstrating by clear and convincing evidence the validity of the grounds for rejecting the offer (or a provision thereof) made under subsection (b) of this section.
+With respect to any hearing or appeal or civil action conducted pursuant to this section, the Secretary shall have the burden of demonstrating by clear and convincing evidence the validity of the grounds for rejecting the offer (or a provision thereof) made under subsection (b).
 
 #### (e) Good faith ####
 
@@ -94,7 +94,7 @@ The Secretary is prohibited from waiving, modifying, or diminishing in any way t
 
 #### (h) Decisionmaker ####
 
-A decision that constitutes final agency action and relates to an appeal within the Department of Health and Human Services conducted under subsection (c) of this section shall be made either—
+A decision that constitutes final agency action and relates to an appeal within the Department of Health and Human Services conducted under subsection (c) shall be made either—
 
 (1) by an official of the Department who holds a position at a higher organizational level within the Department than the level of the departmental agency in which the decision that is the subject of the appeal was made; or
 

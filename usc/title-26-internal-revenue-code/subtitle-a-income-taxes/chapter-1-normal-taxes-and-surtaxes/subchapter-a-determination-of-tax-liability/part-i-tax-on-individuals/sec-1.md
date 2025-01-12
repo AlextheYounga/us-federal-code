@@ -1146,6 +1146,8 @@ Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub.
 
 #### Short Title of 2015 Amendment ####
 
+Pub. L. 114–55, §1(a), Sept. 30, 2015, 129 Stat. 522, provided that: "This Act [amending sections 4081, 4083, 4261, 4271, and 9502 of this title, sections 106, 41742, 47104, 47107, 47115, 47124, 47141, 48101 to 48103, and 48114 of Title 49, Transportation, section 50905 of Title 51, National and Commercial Space Programs, amending provisions set out as a note preceding section 42301 of Title 49, and provisions set out as notes under sections 41731 and 47141 of Title 49] may be cited as the 'Airport and Airway Extension Act of 2015'."
+
 Pub. L. 114–26, §1, June 29, 2015, 129 Stat. 319, provided that: "This Act [see Tables for classification] may be cited as the 'Defending Public Safety Employees' Retirement Act'."
 
 Pub. L. 114–14, §1, May 22, 2015, 129 Stat. 198, provided that: "This Act [amending section 104 of this title] may be cited as the 'Don't Tax Our Fallen Public Safety Heroes Act'."
