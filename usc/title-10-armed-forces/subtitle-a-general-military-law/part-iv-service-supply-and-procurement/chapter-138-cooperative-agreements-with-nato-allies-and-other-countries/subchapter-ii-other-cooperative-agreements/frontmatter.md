@@ -26,11 +26,25 @@ Sec.
 
 2350 l. Cooperative agreements for reciprocal use of test facilities: foreign countries and international organizations.
 
-[2350m. Renumbered.]
+2350m. 1
+
+Participation in European program on multilateral exchange of surface transportation services.
 
 2350n. North Atlantic Treaty Organization Joint Force Command.
 
+2350o. Participation in programs relating to coordination or exchange of air refueling and air transportation services.
+
+2350p. Reciprocal patient movement agreements.
+
+2350m. 1 Execution of projects under the North Atlantic Treaty Organization Security Investment Program.
+
+#### Amendment of Analysis ####
+
+Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1844(b)(2)(A), Jan. 1, 2021, 134 Stat. 4151, 4246, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this analysis is amended by striking the item relating to section 2350l. See 2021 Amendment note below.
+
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title XII, §§1202(b), 1203(b), 1204(b), title XVIII, §1844(b)(2)(A), div. B, title XXV, §2503(b), Jan. 1, 2021, 134 Stat. 3910–3912, 4246, 4310, added items 2350m "Participation in European program on multilateral exchange of surface transportation services", 2350o, 2350p, and 2350m "Execution of projects under the North Atlantic Treaty Organization Security Investment Program", and struck out item 2350l "Cooperative agreements for reciprocal use of test facilities: foreign countries and international organizations".
 
 **2019**—Pub. L. 116–92, div. A, title XII, §1249(b), Dec. 20, 2019, 133 Stat. 1664, added item 2350n.
 
@@ -51,3 +65,9 @@ Pub. L. 102–25, title VII, §704(a)(9), Apr. 6, 1991, 105 Stat. 119, made clar
 **1990**—Pub. L. 101–510, div. A, title XIV, §1452(a)(2), Nov. 5, 1990, 104 Stat. 1694, added item 2350h.
 
 Pub. L. 101–510, div. A, title XIV, §1451(b)(2), Nov. 5, 1990, 104 Stat. 1693, as amended by Pub. L. 102–25, title VII, §704(a)(9), Apr. 6, 1991, 105 Stat. 119, added item 2350g.
+
+#### Effective Date of 2021 Amendment ####
+
+Amendment by section 1844(b)(2)(A) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+[<sup>1</sup> So in original. There are two sections 2350m.](#I_1)

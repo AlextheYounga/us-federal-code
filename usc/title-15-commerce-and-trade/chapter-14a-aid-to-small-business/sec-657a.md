@@ -266,7 +266,7 @@ A contracting officer may award sole source contracts under this section to any 
 
 (ii) the anticipated award price of the contract (including options) will not exceed—
 
-(I) $5,000,000, in the case of a contract opportunity assigned a standard industrial classification code for manufacturing; or
+(I) $7,000,000, in the case of a contract opportunity assigned a standard industrial classification code for manufacturing; or
 
 (II) $3,000,000, in the case of all other contract opportunities; and
 
@@ -404,7 +404,7 @@ Not later than 90 days after the last day of each fiscal year, the Administrator
 
 There is authorized to be appropriated to carry out the program established by this section $10,000,000 for each of fiscal years 2020 through 2025.
 
-(Pub. L. 85–536, §2[31], as added Pub. L. 105–135, title VI, §602(b)(1)(B), Dec. 2, 1997, 111 Stat. 2629; amended Pub. L. 106–554, §1(a)(9) [title V, §503(b), title VI, §612(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–695, 2763A–699; Pub. L. 108–447, div. K, title I, §§153, 154, Dec. 8, 2004, 118 Stat. 3458; Pub. L. 111–240, title I, §1347(b)(1), (c), Sept. 27, 2010, 124 Stat. 2547; Pub. L. 114–92, div. A, title VIII, §866(c), Nov. 25, 2015, 129 Stat. 932; Pub. L. 115–91, div. A, title XVII, §1701(a)(1), (2), (b)–(e), (g), (h), Dec. 12, 2017, 131 Stat. 1795–1798, 1800.)
+(Pub. L. 85–536, §2[31], as added Pub. L. 105–135, title VI, §602(b)(1)(B), Dec. 2, 1997, 111 Stat. 2629; amended Pub. L. 106–554, §1(a)(9) [title V, §503(b), title VI, §612(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–695, 2763A–699; Pub. L. 108–447, div. K, title I, §§153, 154, Dec. 8, 2004, 118 Stat. 3458; Pub. L. 111–240, title I, §1347(b)(1), (c), Sept. 27, 2010, 124 Stat. 2547; Pub. L. 114–92, div. A, title VIII, §866(c), Nov. 25, 2015, 129 Stat. 932; Pub. L. 115–91, div. A, title XVII, §1701(a)(1), (2), (b)–(e), (g), (h), Dec. 12, 2017, 131 Stat. 1795–1798, 1800; Pub. L. 116–283, div. A, title VIII, §864(2), Jan. 1, 2021, 134 Stat. 3784.)
 
 #### References in Text ####
 
@@ -425,6 +425,8 @@ In subsec. (c)(4), "chapter 85 of title 41" substituted for "the Javits-Wagner-O
 A prior section 2[31] of Pub. L. 85–536 was renumbered section 2[49] and is set out as a note under section 631 of this title.
 
 #### Amendments ####
+
+**2021**—Subsec. (c)(2)(A)(ii)(I). Pub. L. 116–283 substituted "$7,000,000" for "$5,000,000".
 
 **2017**—Subsec. (a). Pub. L. 115–91, §1701(h)(2)(A), inserted "(to be known as the HUBZone program)" after "program" and ", including promoting economic development in economically distressed areas (as defined in section 636(m)(11)) of this title," after "assistance".
 

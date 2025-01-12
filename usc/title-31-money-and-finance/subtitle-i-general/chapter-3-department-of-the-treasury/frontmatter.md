@@ -34,6 +34,8 @@ Sec.
 
 315. Continuing in office.
 
+316. Treasury Attaché Program.
+
 #### SUBCHAPTER II—ADMINISTRATIVE ####
 
 321. General authority of the Secretary.
@@ -65,6 +67,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. F, title LXI, §6106(b), Jan. 1, 2021, 134 Stat. 4557, added item 316.
 
 **2010**—Pub. L. 111–203, title V, §502(c), July 21, 2010, 124 Stat. 1588, added items 312 to 315 and struck out item 312 "Continuing in office".
 

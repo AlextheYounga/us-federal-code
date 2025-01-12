@@ -172,6 +172,52 @@ Pub. L. 86–142, §1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
 
 **1958**—Pub. L. 85–861, §1(24)(B), Sept. 2, 1958, 72 Stat. 1445, added item 1037.
 
+#### Policy To Improve Responses to Pregnancy and Childbirth by Certain Members of the Armed Forces ####
+
+Pub. L. 116–283, div. A, title V, §555, Jan. 1, 2021, 134 Stat. 3636, provided that:
+
+"(a) Policy Required.—The Secretary of Defense, in coordination with the Secretaries of the military departments, shall develop a policy to ensure that the career of a member of the Armed Forces is not unduly affected because the member is a covered member. The policy shall address the following:
+
+"(1) Enforcement and implementation of the applicable requirements of the Pregnancy Discrimination Act (Public Law 95–555 [amending section 2000e of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 2000e of Title 42]; 42 U.S.C. 2000e(k)).
+
+"(2) The need for individual determinations regarding the ability of members of the Armed Forces to serve during and after pregnancy.
+
+"(3) Responses to the effects specific to covered members who reintegrate into home life after deployment.
+
+"(4) Education and training on pregnancy discrimination to diminish stigma, stereotypes, and negative perceptions regarding covered members, including with regards to commitment to the Armed Forces and abilities.
+
+"(5) Opportunities to maintain readiness when positions are unfilled due to pregnancy, medical conditions arising from pregnancy or childbirth, pregnancy convalescence, or parental leave.
+
+"(6) Reasonable accommodations for covered members in general and specific accommodations based on career field or military occupational specialty.
+
+"(7) Consideration of deferments at military educational institutions for covered members.
+
+"(8) Extended assignments and performance reporting periods for covered members.
+
+"(9) A mechanism by which covered members may report harassment or discrimination, including retaliation, relating to being a covered member.
+
+"(b) Briefing.—Not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives—
+
+"(1) a briefing summarizing the policy developed under this section; and
+
+"(2) a copy of the policy.
+
+"(c) Definitions.—In this section:
+
+"(1) The term 'covered member' means a member of an Armed Force under the jurisdiction of the Secretary of a military department who—
+
+"(A) is pregnant;
+
+"(B) gives birth to a child; or
+
+"(C) incurs a medical condition arising from pregnancy or childbirth.
+
+"(2) The term 'military educational institution' means a postsecondary educational institution established within the Department of Defense."
+
+#### Training on Certain Department of Defense Instructions for Members of the Armed Forces ####
+
+Pub. L. 116–283, div. A, title V, §556, Jan. 1, 2021, 134 Stat. 3637, provided that: "In accordance with Department of Defense Instruction 1300.17, dated September 1, 2020, and applicable law, the Secretary of Defense shall implement training on relevant Federal statutes, Department of Defense Instructions, and the regulations of each military department, including the responsibility of commanders to maintain good order and discipline."
+
 #### Access to Wireless High-speed Internet and Network Connections for Certain Members of the Armed Forces ####
 
 Pub. L. 114–328, div. A, title III, §347, Dec. 23, 2016, 130 Stat. 2086, provided that:

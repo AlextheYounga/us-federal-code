@@ -36,7 +36,11 @@
 
 (9) Performing the duties assigned to the Director in section 2222 of this title.
 
-(Added Pub. L. 111–23, title I, §101(a)(1), May 22, 2009, 123 Stat. 1705, §139c; renumbered §139a and amended Pub. L. 111–383, div. A, title IX, §901(f), title X, §1075(b)(5), Jan. 7, 2011, 124 Stat. 4322, 4369; Pub. L. 112–239, div. A, title X, §1076(f)(4), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title IX, §912(c), Dec. 12, 2017, 131 Stat. 1521; Pub. L. 116–92, div. A, title IX, §902(5), title XVI, §1621(e)(1)(A)(iii), Dec. 20, 2019, 133 Stat. 1543, 1733.)
+(Added Pub. L. 111–23, title I, §101(a)(1), May 22, 2009, 123 Stat. 1705, §139c; renumbered §139a and amended Pub. L. 111–383, div. A, title IX, §901(f), title X, §1075(b)(5), Jan. 7, 2011, 124 Stat. 4322, 4369; Pub. L. 112–239, div. A, title X, §1076(f)(4), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title IX, §912(c), Dec. 12, 2017, 131 Stat. 1521; Pub. L. 116–92, div. A, title IX, §902(5), title XVI, §1621(e)(1)(A)(iii), Dec. 20, 2019, 133 Stat. 1543, 1733; Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
+
+#### Amendment of Section ####
+
+Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
 
 #### Prior Provisions ####
 
@@ -45,6 +49,8 @@ A prior section 139a was renumbered section 138b of this title.
 Another prior section 139a was renumbered section 2432 of this title.
 
 #### Amendments ####
+
+**2021**—Subsec. (b)(1)(A). Pub. L. 116–283, which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to "section 2334", which was redesignated as multiple sections.
 
 **2019**—Subsec. (d)(6). Pub. L. 116–92, §1621(e)(1)(A)(iii), substituted "Under Secretary of Defense for Intelligence and Security" for "Under Secretary of Defense for Intelligence".
 
@@ -57,6 +63,10 @@ Pub. L. 116–92, §902(5), substituted "Under Secretary of Defense for Acquisit
 **2011**—Pub. L. 111–383, §901(f), renumbered section 139c of this title as this section.
 
 Subsec. (d)(4). Pub. L. 111–383, §1075(b)(5), which directed amendment of section 139c of this title by inserting a period at the end of subsec. (d)(4), was executed to this section, to reflect the probable intent of Congress and the renumbering of section 139c of this title as this section by Pub. L. 111–383, §901(f). See above.
+
+#### Effective Date of 2021 Amendment ####
+
+Amendment by 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2011 Amendment ####
 

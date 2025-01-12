@@ -112,15 +112,25 @@
 
 (5) The terms "electronic communication", "intercept", "oral communication", and "wire communication" have the meanings given those terms in section 2510 of title 18.
 
-(6) The terms "unmanned aircraft" and "unmanned aircraft system" have the meanings given those terms in section 44801 of title 49 <sup><a href="#130i_1_target" name="130i_1">1</a></sup>
+(6) The terms "unmanned aircraft" and "unmanned aircraft system" have the meanings given those terms in section 44801 of title 49.
 
-(Added Pub. L. 114–328, div. A, title XVI, §1697(a), Dec. 23, 2016, 130 Stat. 2639; amended Pub. L. 115–91, div. A, title XVI, §1692, Dec. 12, 2017, 131 Stat. 1788; Pub. L. 116–92, div. A, title XVI, §1694, title XVII, §1731(a)(6), Dec. 20, 2019, 133 Stat. 1791, 1812.)
+(Added Pub. L. 114–328, div. A, title XVI, §1697(a), Dec. 23, 2016, 130 Stat. 2639; amended Pub. L. 115–91, div. A, title XVI, §1692, Dec. 12, 2017, 131 Stat. 1788; Pub. L. 116–92, div. A, title XVI, §1694, title XVII, §1731(a)(6), Dec. 20, 2019, 133 Stat. 1791, 1812; Pub. L. 116–283, div. A, title X, §1081(a)(8), title XVIII, §1845(c)(4), Jan. 1, 2021, 134 Stat. 3871, 4247.)
+
+#### Amendment of Subsection (j)(3)(C)(ix) ####
+
+Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1845(c)(4), Jan. 1, 2021, 134 Stat. 4151, 4247, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (j)(3)(C)(ix) of this section is amended by striking "section 196(i)" and inserting "sections 4173(i)". See 2021 Amendment note below.
 
 #### References in Text ####
 
 The Presidential Protection Assistance Act of 1976, referred to in subsec. (j)(3)(C)(iv), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, which enacted and amended provisions set out as notes under section 3056 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments ####
+
+**2021**—Subsec. (i)(1). Pub. L. 116–283, §1081(a)(8)(A), substituted "of subsection (j)(3)(C) shall" for "of subsection (j)(3)(C) shall", resulting in no change in text. See 2019 Amendment notes and Coordination of Amendments by Pub. L. 116–92 note below
+
+Subsec. (j)(3)(C)(ix). Pub. L. 116–283, §1845(c)(4), substituted "sections 4173(i)" for "section 196(i)".
+
+Subsec. (j)(6). Pub. L. 116–283, §1081(a)(8)(B), inserted a period at end.
 
 **2019**—Subsec. (i). Pub. L. 116–92, §1694(a), substituted "2023" for "2020" in two places.
 
@@ -134,8 +144,10 @@ Pub. L. 116–92, §1694(b)(2), substituted "in section 44801 of title 49" for "
 
 **2017**—Pub. L. 115–91 amended section generally. Prior to amendment, section related to protection of certain facilities and assets from unmanned aircraft and consisted of provisions relating to authority of Secretary of Defense, authorized actions, forfeiture, regulations, and definitions.
 
+#### Effective Date of 2021 Amendment ####
+
+Amendment by 1845(c)(4) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
 #### Coordination of Amendments by Pub. L. 116–92 ####
 
 Amendments to this section by section 1731 of Pub. L. 116–92 to be treated as having been enacted immediately before amendments by other provisions of Pub. L. 116–92, see section 1731(f) of Pub. L. 116–92, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act note under section 101 of this title.
-
-[<sup>1</sup> So in original. Probably should be followed by a period.](#130i_1)

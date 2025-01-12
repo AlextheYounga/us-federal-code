@@ -72,6 +72,10 @@ Sec.
 
 2538d. Incorporation of integrated surety architecture.
 
+2538e. W93 Nuclear warhead acquisition process.
+
+2538f. Earned value management and technology readiness levels for life extension programs.
+
 #### Part B—Tritium ####
 
 2541. Tritium production program.
@@ -140,6 +144,8 @@ Sec.
 
 2590. Estimation of costs of meeting defense environmental cleanup milestones required by consent orders.
 
+2591. Public statement of environmental liabilities.
+
 #### Part B—Closure of Facilities ####
 
 2601. Repealed.
@@ -197,6 +203,8 @@ Sec.
 2658 to 2660. Repealed.
 
 2661. Protection of certain nuclear facilities and assets from unmanned aircraft.
+
+2662. Reporting on penetrations of networks of contractors and subcontractors.
 
 #### Part B—Classified Information ####
 
@@ -284,6 +292,8 @@ Sec.
 
 2756. Unfunded priorities of the Administration.
 
+2757. Review of adequacy of nuclear weapons budget.
+
 #### Part B—Penalties ####
 
 2761. Restriction on use of funds to pay penalties under environmental laws.
@@ -294,7 +304,7 @@ Sec.
 
 2771. Repealed.
 
-2772. Quarterly reports on financial balances for atomic energy defense activities.
+2772. Reports on financial balances for atomic energy defense activities.
 
 2773. Independent acquisition project reviews of capital assets acquisition projects.
 

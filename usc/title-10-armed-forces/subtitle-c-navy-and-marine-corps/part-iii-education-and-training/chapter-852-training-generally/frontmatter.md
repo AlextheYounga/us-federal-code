@@ -30,6 +30,64 @@ Pub. L. 116–92, div. A, title V, §565, Dec. 20, 2019, 133 Stat. 1395, provide
 
 #### Annual Certifications Related to Ready, Relevant Learning Initiative of the Navy ####
 
+Pub. L. 116–283, div. A, title V, §574, Jan. 1, 2021, 134 Stat. 3644, provided that:
+
+"(a) Additional Elements With 2021 Certifications.—In submitting to Congress in 2021 the certifications required by section 545 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 131 Stat. 1396; 10 U.S.C. 8431 note prec.) [set out below], relating to the Ready, Relevant Learning initiative of the Navy, the Secretary of the Navy shall also submit each of the following:
+
+"(1) A framework for a life cycle sustainment plan for the Ready, Relevant Learning initiative meeting the requirements in subsection (b).
+
+"(2) A report on the use of readiness assessment teams in training addressing the elements specified in subsection (c).
+
+"(b) Life Cycle Sustainment Plan Framework.—The framework for a life cycle sustainment plan required by subsection (a)(1) shall address each of the following:
+
+"(1) Product support management.
+
+"(2) Supply support.
+
+"(3) Packaging, handling, storage, and transportation.
+
+"(4) Maintenance planning and management.
+
+"(5) Design interface.
+
+"(6) Sustainment engineering.
+
+"(7) Technical data.
+
+"(8) Computer resources.
+
+"(9) Facilities and infrastructure.
+
+"(10) Manpower and personnel.
+
+"(11) Support equipment.
+
+"(12) Training and training support.
+
+"(13) Course content and relevance.
+
+"(14) Governance, including the acquisition and program management structure.
+
+"(15) Such other elements in the life cycle sustainment of the Ready, Relevant Learning initiative as the Secretary considers appropriate.
+
+"(c) Report on Use of Readiness Assessment Teams.—The report required by subsection (a)(2) shall set forth the following:
+
+"(1) A description and assessment of the extent to which the Navy is currently using Engineering Readiness Assessment Teams and Combat Systems Readiness Assessment Teams to conduct unit-level training and assistance in each capacity as follows:
+
+"(A) To augment non-Ready, Relevant Learning initiative training.
+
+"(B) As part of Ready, Relevant Learning initiative training.
+
+"(C) To train students on legacy, obsolete, one of a kind, or unique systems that are still widely used by the Navy.
+
+"(D) To train students on military-specific systems that are not found in the commercial maritime world.
+
+"(2) A description and assessment of potential benefits, and anticipated timelines and costs, in expanding Engineering Readiness Assessment Team and Combat Systems Readiness Assessment Team training in the capacities specified in paragraph (1).
+
+"(3) Such other matters in connection with the use of readiness assessment teams in connection with the Ready, Relevant Learning initiative as the Secretary considers appropriate.
+
+"(d) Life Cycle Sustainment Plan With 2022 Certifications.—In submitting to Congress in 2022 the certifications required by section 545 of the National Defense Authorization Act for Fiscal Year 2018, the Secretary shall also submit the approved life cycle sustainment plan for the Ready, Relevant Learning initiative of the Navy, based on the framework for the plan developed for purposes of subsection (a)(1)."
+
 Pub. L. 115–91, div. A, title V, §545, Dec. 12, 2017, 131 Stat. 1396, provided that:
 
 "(a) Annual Certifications Required.—Not later than March 1, 2018, and each year thereafter, the Secretary of the Navy shall submit to the Committees on Armed Services of the Senate and the House of Representatives a certification on the status of implementation of the Ready, Relevant Learning initiative of the Navy for each applicable enlisted rating.

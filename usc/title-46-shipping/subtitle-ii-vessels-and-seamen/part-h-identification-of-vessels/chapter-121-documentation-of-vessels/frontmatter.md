@@ -18,6 +18,8 @@ Sec.
 
 12107. Wrecked vessels.
 
+12108. Authority to extend duration of vessel certificates.
+
 #### SUBCHAPTER II—ENDORSEMENTS AND SPECIAL DOCUMENTATION ####
 
 12111. Registry endorsement.
@@ -77,6 +79,8 @@ Sec.
 This chapter was originally enacted by Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 584, and amended by Pub. L. 98–364, July 17, 1984, 98 Stat. 440; Pub. L. 98–454, Oct. 5, 1984, 98 Stat. 1732; Pub. L. 99–36, May 15, 1985, 99 Stat. 67; Pub. L. 99–307, May 19, 1986, 100 Stat. 444; Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1874; Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207; Pub. L. 100–239, Jan. 11, 1988, 101 Stat. 1778; Pub. L. 100–710, Nov. 23, 1988, 102 Stat. 4735; Pub. L. 101–225, Dec. 12, 1989, 103 Stat. 1908; Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484; Pub. L. 101–595, Nov. 16, 1990, 104 Stat. 2979; Pub. L. 102–388, Oct. 6, 1992, 106 Stat. 1520; Pub. L. 102–587, Nov. 4, 1992, 106 Stat. 5039; Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009; Pub. L. 104–324, Oct. 19, 1996, 110 Stat. 3901; Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681; Pub. L. 105–383, Nov. 13, 1998, 112 Stat. 3411; Pub. L. 106–31, May 21, 1999, 113 Stat. 57; Pub. L. 107–20, July 24, 2001, 115 Stat. 155; Pub. L. 107–206, Aug. 2, 2002, 116 Stat. 820; Pub. L. 107–295, Nov. 25, 2002, 116 Stat. 2064; Pub. L. 108–136, Nov. 24, 2003, 117 Stat. 1392; Pub. L. 108–293, Aug. 9, 2004, 118 Stat. 1028; Pub. L. 109–241, July 11, 2006, 120 Stat. 516. This chapter is shown here, however, as having been enacted by Pub. L. 109–304, §5, Oct. 6, 2006, 120 Stat. 1491, without reference to those intervening amendments because of the general amendment of this chapter by Pub. L. 109–304.
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], §8320(b), Jan. 1, 2021, 134 Stat. 4701, which directed amendment of "the analysis for subchapter I of chapter 121" of this title by adding at the end item 12108 "Authority to extend duration of vessel certificates", was executed by adding item 12108 after item 12107 in this analysis to reflect the probable intent of Congress.
 
 **2012**—Pub. L. 112–213, title III, §308(b), Dec. 20, 2012, 126 Stat. 1566, added item 12140.
 

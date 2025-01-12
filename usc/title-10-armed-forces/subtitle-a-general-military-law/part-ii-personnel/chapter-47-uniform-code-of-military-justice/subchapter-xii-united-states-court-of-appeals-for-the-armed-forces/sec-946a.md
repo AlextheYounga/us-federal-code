@@ -10,9 +10,11 @@
 
 (A) information on compliance with processing time goals;
 
-(B) descriptions of the circumstances surrounding cases in which general or special court-martial convictions were (i) reversed because of command influence or denial of the right to speedy review or (ii) otherwise remitted because of loss of records of trial or other administrative deficiencies; and
+(B) descriptions of the circumstances surrounding cases in which general or special court-martial convictions were (i) reversed because of command influence or denial of the right to speedy review or (ii) otherwise remitted because of loss of records of trial or other administrative deficiencies;
 
-(C) an analysis of each case in which a provision of this chapter was held unconstitutional.
+(C) an analysis of each case in which a provision of this chapter was held unconstitutional; and
+
+(D) an analysis of each case in which a Court of Criminal Appeals made a final determination that a finding of a court-martial was clearly against the weight of the evidence, including an explanation of the standard of appellate review applied in such case.
 
 (3)(A) An explanation of measures implemented by the armed force concerned to ensure the ability of judge advocates—
 
@@ -34,7 +36,11 @@
 
 (2) to the Secretary of Defense, the Secretaries of the military departments, and the Secretary of the department in which the Coast Guard is operating when it is not operating as a service in the Navy.
 
-(Added Pub. L. 114–328, div. E, title LXII, §5522, Dec. 23, 2016, 130 Stat. 2964.)
+(Added Pub. L. 114–328, div. E, title LXII, §5522, Dec. 23, 2016, 130 Stat. 2964; amended Pub. L. 116–283, div. A, title V, §542(d), Jan. 1, 2021, 134 Stat. 3612.)
+
+#### Amendments ####
+
+**2021**—Subsec. (b)(2)(D). Pub. L. 116–283 added subpar. (D).
 
 #### Effective Date ####
 

@@ -10,7 +10,7 @@ Sec.
 
 4304. Importation of nonconforming vessels and equipment.
 
-4305. Exemptions.
+4305. Exemptions and equivalents.
 
 4306. Federal preemption.
 
@@ -33,5 +33,7 @@ Chapter 43 contains the laws applicable to recreational vessels, which originate
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], §8318(b), Jan. 1, 2021, 134 Stat. 4700, substituted "Exemptions and equivalents" for "Exemptions" in item 4305.
 
 **2018**—Pub. L. 115–282, title V, §503(b), Dec. 4, 2018, 132 Stat. 4271, added item 4312.

@@ -6,6 +6,8 @@ Sec.
 
 628. Special selection boards.
 
+628a. Special selection review boards.
+
 629. Removal from a list of officers recommended for promotion.
 
 630. Discharge of commissioned officers with less than six years of active commissioned service or found not qualified for promotion for first lieutenant or lieutenant (junior grade).
@@ -23,6 +25,8 @@ Sec.
 636. Retirement for years of service: regular officers in grades above brigadier general and rear admiral (lower half).
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title V, §505(a)(2), Jan. 1, 2021, 134 Stat. 3568, added item 628a.
 
 **2008**—Pub. L. 110–181, div. A, title V, §503(a)(3), Jan. 28, 2008, 122 Stat. 95, substituted "six years" for "five years" in item 630.
 

@@ -38,7 +38,11 @@ Sec.
 
 1491. Funeral honors functions at funerals for veterans.
 
+1492. Authority to provide travel and transportation allowances in connection with transfer ceremonies of certain civilian employees who die overseas.
+
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title XI, §1104(a)(2), Jan. 1, 2021, 134 Stat. 3890, added item 1492.
 
 **2001**—Pub. L. 107–107, div. A, title X, §1048(a)(14), Dec. 28, 2001, 115 Stat. 1223, transferred subchapter II heading so as to appear before the table of sections for that subchapter.
 

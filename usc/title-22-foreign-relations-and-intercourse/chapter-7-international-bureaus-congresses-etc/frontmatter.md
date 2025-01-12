@@ -1261,3 +1261,65 @@ Sec.
 #### SUBCHAPTER XXXII—ORGANIZATION OF AMERICAN STATES ####
 
 290q. Organization of American States revitalization and reform strategy.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Ensuring Chinese Debt Transparency ####
+
+Pub. L. 116–283, div. H, title XCVII, §9722, Jan. 1, 2021, 134 Stat. 4840, provided that:
+
+"(a) United States Policy at the International Financial Institutions.—The Secretary of the Treasury shall instruct the United States Executive Director at each international financial institution (as defined in section 1701(c)(2) of the International Financial Institutions Act [22 U.S.C. 262r(c)(2)]) that it is the policy of the United States to use the voice and vote of the United States at the respective institution to seek to secure greater transparency with respect to the terms and conditions of financing provided by the government of the People's Republic of China to any member state of the respective institution that is a recipient of financing from the institution, consistent with the rules and principles of the Paris Club.
+
+"(b) Report Required.—The Chairman of the National Advisory Council on International Monetary and Financial Policies shall include in the annual report required by section 1701 of the International Financial Institutions Act [22 U.S.C. 262r]—
+
+"(1) a description of progress made toward advancing the policy described in subsection (a) of this section; and
+
+"(2) a discussion of financing provided by entities owned or controlled by the government of the People's Republic of China to the member states of international financial institutions that receive financing from the international financial institutions, including any efforts or recommendations by the Chairman to seek greater transparency with respect to the former financing.
+
+"(c) Sunset.—Subsections (a) and (b) of this section shall have no force or effect after the earlier of—
+
+"(1) the date that is 7 years after the date of the enactment of this Act [Jan. 1, 2021]; or
+
+"(2) 30 days after the date that the Secretary reports to the Committee on Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate that the People's Republic of China is in substantial compliance with the rules and principles of the Paris Club."
+
+#### Accountability for World Bank Loans to China ####
+
+Pub. L. 116–283, div. H, title XCVII, §9723, Jan. 1, 2021, 134 Stat. 4841, provided that:
+
+"(a) United States Support for Graduation of China From World Bank Assistance.—
+
+"(1) In general.—The United States Governor of the International Bank for Reconstruction and Development (in this section referred to as the 'IBRD') shall instruct the United States Executive Director at the IBRD that it is the policy of the United States to—
+
+"(A) pursue the expeditious graduation of the People's Republic of China from assistance by the IBRD, consistent with the lending criteria of the IBRD; and
+
+"(B) until the graduation of China from IBRD assistance, prioritize projects in China that contribute to global public goods, to the extent practicable.
+
+"(2) Sunset.—Paragraph (1) shall have no force or effect on or after the earlier of—
+
+"(A) the date that is 7 years after the date of the enactment of this Act [Jan. 1, 2021]; or
+
+"(B) the date that the Secretary of the Treasury reports to the Committee on Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate that termination of paragraph (1) is important to the national interest of the United States, with a detailed explanation of the reasons therefor.
+
+"(b) Accountability for World Bank Loans to the People's Republic of China.—
+
+"(1) In general.—Not later than 180 days after the date of the enactment of this Act, the United States Governor of the IBRD shall submit the report described in paragraph (2) to the Committee on Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate.
+
+"(2) Report described.—The report described in this paragraph shall include the following:
+
+"(A) A detailed description of the efforts of the United States Governor of the IBRD to enforce the timely graduation of countries from the IBRD, with a particular focus on the efforts with regard to the People's Republic of China.
+
+"(B) If the People's Republic of China is a member country of the IBRD, an explanation of any economic or political factors that have prevented the graduation of the People's Republic of China from the IBRD.
+
+"(C) A discussion of any effects resulting from fungibility and IBRD lending to China, including the potential for IBRD lending to allow for funding by the government of the People's Republic of China of activities that may be inconsistent with the national interest of the United States.
+
+"(D) An action plan to help ensure that the People's Republic of China graduates from the IBRD within 2 years after submission of the report, consistent with the lending eligibility criteria of the IBRD.
+
+"(3) Waiver of requirement that report include action plan.—The Secretary of the Treasury may waive the requirement of paragraph (2)(D) on reporting to the Committee on Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate that the waiver is important to the national interest of the United States, with a detailed explanation of the reasons therefor.
+
+"(c) Ensuring Debt Transparency With Respect to the Belt and Road Initiative.—Within 180 days after the date of the enactment of this Act, the Secretary of the Treasury shall, in consultation with the Secretary of State, submit to the Committee on Financial Services and the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report (which should be submitted in unclassified form but may include a classified annex) that includes the following:
+
+"(1) An assessment of the level of indebtedness of countries receiving assistance through the Belt and Road Initiative that are also beneficiary countries of the international financial institutions, including the level and nature of indebtedness to the People's Republic of China or an entity owned or controlled by the government of the People's Republic of China.
+
+"(2) An analysis of debt management assistance provided by the World Bank, the International Monetary Fund, and the Office of Technical Assistance of the Department of the Treasury to borrowing countries of the Belt and Road Initiative of the People's Republic of China (or any comparable initiative or successor initiative of China).
+
+"(3) An assessment of the effectiveness of United States efforts, including bilateral efforts and multilateral efforts, at the World Bank, the International Monetary Fund, other international financial institutions and international organizations to promote debt transparency."

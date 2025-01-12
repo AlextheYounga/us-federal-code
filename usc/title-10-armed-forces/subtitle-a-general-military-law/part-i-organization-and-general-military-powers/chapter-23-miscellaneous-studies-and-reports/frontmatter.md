@@ -10,7 +10,7 @@ Sec.
 
 482. Readiness reports.
 
-[483. Repealed.]
+483. Notifications related to basing decision-making process.
 
 484. Quarterly cyber operations briefings.
 
@@ -23,6 +23,8 @@ Sec.
 [489 to 491. Repealed or Renumbered.]
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. B, title XXVIII, §2871(c), Jan. 1, 2021, 134 Stat. 4366, added item 483.
 
 **2019**—Pub. L. 116–92, div. A, title III, §361(c), Dec. 20, 2019, 133 Stat. 1327, added item 482 and struck out former item 482 "Quarterly reports: personnel and unit readiness".
 
@@ -62,8 +64,16 @@ Pub. L. 104–106, div. A, title III, §361(a)(2), Feb. 10, 1996, 110 Stat. 273,
 
 #### Questions in Surveys Regarding Extremist Activity in the Workplace ####
 
-Pub. L. 116–92, div. A, title V, §593, Dec. 20, 2019, 133 Stat. 1415, provided that: "The Secretary of Defense shall include in appropriate surveys administered by the Department of Defense questions regarding whether respondents have ever—
+Pub. L. 116–92, div. A, title V, §593, Dec. 20, 2019, 133 Stat. 1415, as amended by Pub. L. 116–283, div. A, title V, §553, Jan. 1, 2021, 134 Stat. 3633, provided that:
 
-"(1) experienced or witnessed extremist activity in the workplace; or
+"(a) Questions Required.—The Secretary of Defense shall include in appropriate surveys administered by the Department of Defense questions regarding whether respondents have ever—
 
-"(2) reported such activity."
+"(1) experienced or witnessed extremist, racist, anti-Semitic, or supremacist activity in the workplace; or
+
+"(2) reported such activity.
+
+"(b) Briefing.—Not later than March 1, 2021, the Secretary shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing including—
+
+"(1) the text of the questions included in surveys under subsection (a); and
+
+"(2) which surveys include such questions."

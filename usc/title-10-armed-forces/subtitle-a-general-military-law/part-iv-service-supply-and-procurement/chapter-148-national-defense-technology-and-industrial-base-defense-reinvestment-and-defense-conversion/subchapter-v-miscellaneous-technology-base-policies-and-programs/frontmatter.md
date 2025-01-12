@@ -14,6 +14,8 @@ Sec.
 
 2533c. Prohibition on acquisition of sensitive materials from non-allied foreign nations.
 
+2533d. Additional requirements pertaining to printed circuit boards.
+
 2534. Miscellaneous limitations on the procurement of goods other than United States goods.
 
 2535. Defense Industrial Reserve.
@@ -30,7 +32,13 @@ Sec.
 
 2539b. Availability of samples, drawings, information, equipment, materials, and certain services.
 
+#### Repeal of Subchapter ####
+
+Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, chapter 148 of this title, and therefore this subchapter, is repealed. See Effective Date of Repeal note below.
+
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title VIII, §841(b), Jan. 1, 2021, 134 Stat. 3763, added item 2533d.
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §871(b), Aug. 13, 2018, 132 Stat. 1905, added item 2533c.
 
@@ -47,3 +55,7 @@ Sec.
 **1993**—Pub. L. 103–160, div. A, title VIII, §§828(c)(5), 842(c)(2), Nov. 30, 1993, 107 Stat. 1714, 1719, substituted "Award of certain contracts to entities controlled by a foreign government: prohibition" for "Prohibition on award of certain Department of Defense and Department of Energy contracts to companies owned by an entity controlled by a foreign government" in item 2536 and added items 2538 to 2541.
 
 **1992**—Pub. L. 102–484, div. A, title VIII, §§836(a)(2), 838(b), Oct. 23, 1992, 106 Stat. 2463, 2466, added items 2536 and 2537.
+
+#### Effective Date of Repeal ####
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.

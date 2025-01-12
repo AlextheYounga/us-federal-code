@@ -8,7 +8,7 @@ Sec.
 
 2503. National defense program for analysis of the technology and industrial base.
 
-2504. Annual report to Congress.
+2504. National technology and industrial base: annual report and quarterly briefings.
 
 2504a. Unfunded priorities of the national technology and industrial base: annual report.
 
@@ -22,7 +22,13 @@ Sec.
 
 2509. Modernization of acquisition processes to ensure integrity of industrial base.
 
+#### Repeal of Subchapter ####
+
+Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, chapter 148 of this title, and therefore this subchapter, is repealed. See Effective Date of Repeal note below.
+
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title VIII, §842(b)(2), Jan. 1, 2021, 134 Stat. 3765, added item 2504 and struck out former item 2504 "Annual report to Congress".
 
 **2019**—Pub. L. 116–92, div. A, title VIII, §§845(b), 846(c)(2), Dec. 19, 2019, 133 Stat. 1503, 1505, added items 2504a and 2509.
 
@@ -37,3 +43,7 @@ Sec.
 Pub. L. 104–106, div. A, title X, §1081(i)(1), Feb. 10, 1996, 110 Stat. 455, substituted "National security objectives concerning national technology and industrial base" for "Congressional defense policy concerning national technology and industrial base, reinvestment, and conversion" in item 2501.
 
 **1993**—Pub. L. 103–160, div. A, title XIII, §1312(a)(2), Nov. 30, 1993, 107 Stat. 1786, struck out item 2504 "Center for the Study of Defense Economic Adjustment".
+
+#### Effective Date of Repeal ####
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.

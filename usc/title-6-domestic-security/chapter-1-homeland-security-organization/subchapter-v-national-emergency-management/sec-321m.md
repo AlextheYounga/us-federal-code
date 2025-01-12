@@ -84,7 +84,7 @@ In developing and implementing the program under this subsection, the designated
 
 (I) under any other provision of Federal law; or
 
-(II) by any sector-specific agency, as defined under Homeland Security Presidential Directive–7; and
+(II) by anySector Risk Management Agency, as defined under Homeland Security Presidential Directive–7; and
 
 (ii) coordinate the program, as appropriate, with—
 
@@ -194,11 +194,19 @@ Nothing in this section may be construed as—
 
 (A) under any other provision of federal law; or
 
-(B) by any sector-specific agency, as those agencies are defined under Homeland Security Presidential Directive–7; or
+(B) by any Sector Risk Management Agency, as those agencies are defined under Homeland Security Presidential Directive–7; or
 
 (2) exempting any private sector entity seeking certification or meeting certification requirements under subsection (b) from compliance with all applicable statutes, regulations, directives, policies, and industry codes of practice.
 
-(Pub. L. 107–296, title V, §524, as added Pub. L. 110–53, title IX, §901(a), Aug. 3, 2007, 121 Stat. 365.)
+(Pub. L. 107–296, title V, §524, as added Pub. L. 110–53, title IX, §901(a), Aug. 3, 2007, 121 Stat. 365; amended Pub. L. 116–283, div. H, title XC, §9002(c)(2)(B), Jan. 1, 2021, 134 Stat. 4772.)
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2021**—Subsec. (b)(2)(E)(i)(II). Pub. L. 116–283, §9002(c)(2)(B)(i), substituted "Sector Risk Management Agency" for "sector-specific agency".
+
+Subsec. (c)(1)(B). Pub. L. 116–283, §9002(c)(2)(B)(ii), substituted "Sector Risk Management Agency" for "sector-specific agency".
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

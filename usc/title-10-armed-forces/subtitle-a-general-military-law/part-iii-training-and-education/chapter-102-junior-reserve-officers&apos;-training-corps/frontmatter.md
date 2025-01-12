@@ -12,7 +12,11 @@ Sec.
 
 2035. Flexibility in authorities for management of programs and units.
 
+2036. Grants to support science, technology, engineering, and mathematics education.
+
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title V, §513(a)(2), Jan. 1, 2021, 134 Stat. 3588, added item 2036.
 
 **2018**—Pub. L. 115–232, div. A, title V, §557(a)(2), Aug. 13, 2018, 132 Stat. 1774, added item 2035.
 

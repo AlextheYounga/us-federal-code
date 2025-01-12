@@ -150,6 +150,8 @@ Sec.
 
 657f. Procurement program for small business concerns owned and controlled by service-disabled veterans.
 
+657f–1. Certification of small business concerns owned and controlled by veterans.
+
 657g. Participation in federally funded projects.
 
 657h. Small business energy efficiency.

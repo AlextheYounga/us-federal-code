@@ -1,8 +1,12 @@
 ### §167b. Unified combatant command for cyber operations ###
 
-(a) Establishment.—With the advice and assistance of the Chairman of the Joint Chiefs of Staff, the President, through the Secretary of Defense, shall establish under section 161 of this title a unified combatant command for cyber operations forces (hereinafter in this section referred to as the "cyber command"). The principal function of the command is to prepare cyber operations forces to carry out assigned missions.
+(a) Establishment.—(1) With the advice and assistance of the Chairman of the Joint Chiefs of Staff, the President, through the Secretary of Defense, shall establish under section 161 of this title a unified combatant command for cyber operations forces (hereinafter in this section referred to as the "cyber command").
 
-(b) Assignment of Forces.—Unless otherwise directed by the Secretary of Defense, all active and reserve cyber operations forces of the armed forces stationed in the United States shall be assigned to the cyber command.
+(2) The principal mission of the Cyber Command is to direct, synchronize, and coordinate military cyberspace planning and operations to defend and advance national interests in collaboration with domestic and international partners.
+
+(b) Assignment of Forces.—(1) Active and reserve cyber forces of the armed forces shall be assigned to the Cyber Command through the Global Force Management Process, as approved by the Secretary of Defense.
+
+(2) Cyber forces not assigned to Cyber Command remain assigned to combatant commands or service-retained.
 
 (c) Grade of Commander.—The commander of the cyber command shall hold the grade of general or, in the case of an officer of the Navy, admiral while serving in that position, without vacating that officer's permanent grade. The commander of such command shall be appointed to that grade by the President, by and with the advice and consent of the Senate, for service in that position.
 
@@ -48,13 +52,17 @@
 
 (e) Intelligence and Special Activities.—This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.).
 
-(Added Pub. L. 114–328, div. A, title IX, §923(a), Dec. 23, 2016, 130 Stat. 2357; amended Pub. L. 115–91, div. A, title X, §1081(a)(12), title XVI, §1635, Dec. 12, 2017, 131 Stat. 1595, 1741.)
+(Added Pub. L. 114–328, div. A, title IX, §923(a), Dec. 23, 2016, 130 Stat. 2357; amended Pub. L. 115–91, div. A, title X, §1081(a)(12), title XVI, §1635, Dec. 12, 2017, 131 Stat. 1595, 1741; Pub. L. 116–283, div. A, title XVII, §1701(1), Jan. 1, 2021, 134 Stat. 4079.)
 
 #### References in Text ####
 
 The National Security Act of 1947, referred to in subsec. (e), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments ####
+
+**2021**—Subsec. (a). Pub. L. 116–283, §1701(1)(A), designated existing provisions as par. (1), struck out at end "The principal function of the command is to prepare cyber operations forces to carry out assigned missions.", and added par. (2).
+
+Subsec. (b). Pub. L. 116–283, §1701(1)(B), amended subsec. (b) generally. Prior to amendment, text read as follows: "Unless otherwise directed by the Secretary of Defense, all active and reserve cyber operations forces of the armed forces stationed in the United States shall be assigned to the cyber command."
 
 **2017**—Subsec. (d). Pub. L. 115–91, §1635, redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to command of activity or mission.
 

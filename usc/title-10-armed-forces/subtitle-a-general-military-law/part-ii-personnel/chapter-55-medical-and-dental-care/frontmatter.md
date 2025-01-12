@@ -16,6 +16,8 @@ Sec.
 
 1073d. Military medical treatment facilities.
 
+1073e. Protection of armed forces from infectious diseases.
+
 1074. Medical and dental care for members and certain former members.
 
 1074a. Medical and dental care: members on duty other than active duty for a period of more than 30 days.
@@ -189,6 +191,8 @@ Sec.
 Pub. L. 116–92, div. A, title VII, §702(b)(3), (c), Dec. 20, 2019, 133 Stat. 1436, 1437, provided that, applicable to health care coverage beginning on or after Jan. 1, 2021, this analysis is amended by adding items 1097a "TRICARE Prime: automatic enrollments" and 1099 "Health care enrollment system and payment options" and by striking out former items 1097a "TRICARE Prime: automatic enrollments; payment options" and 1099 "Health care enrollment system". See 2019 Amendment note below.
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title VII, §712(b), Jan. 1, 2021, 134 Stat. 3692, added item 1073e.
 
 **2019**—Pub. L. 116–92, div. A, title VII, §702(b)(3), Dec. 20, 2019, 133 Stat. 1436, added items 1097a and 1099 and struck out former items 1097a "TRICARE Prime: automatic enrollments; payment options" and 1099 "Health care enrollment system".
 

@@ -12,7 +12,11 @@ Sec.
 
 7595. Army Military History Institute: fee for providing historical information to the public.
 
+7596. Provision of goods and services at Kwajalein Atoll.
+
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title XII, §1299A(b), Jan. 1, 2021, 134 Stat. 3998, added item 7596.
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 437 of this title as this chapter and items 4591 to 4595 as 7591 to 7595, respectively.
 

@@ -6,7 +6,7 @@ Sec.
 
 6202. Standards and principles.
 
-6203. Establishment of the Chief Executive Officer of the Broadcasting Board of Governors.
+6203. Establishment of the Chief Executive Officer of the United States Agency for Global Media.
 
 6204. Authorities of Chief Executive Officer.
 
@@ -18,6 +18,8 @@ Sec.
 
 6208. Radio Free Asia.
 
+6208a. Open Technology Fund.
+
 6209. Broadcast entities reporting to Chief Executive Officer.
 
 6209a. Inspector General authorities.
@@ -26,7 +28,7 @@ Sec.
 
 6210. Preservation of American jobs.
 
-6211. The continuing mission of Radio Free Europe and Radio Liberty broadcasts.
+6211. Repealed.
 
 6212. Requirement for authorization of appropriations.
 

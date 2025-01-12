@@ -6,9 +6,13 @@ Sec.
 
 1561a. Civilian orders of protection: force and effect on military installations.
 
+1561b. Confidential reporting of sexual harassment.
+
 1562. Database on domestic violence incidents.
 
-1563. Consideration of proposals for posthumous and honorary promotions and appointments: procedures for review.
+1563. Consideration of proposals from Members of Congress for honorary promotions: procedures for review and promotion.
+
+1563a. Honorary promotions on the initiative of the Department of Defense.
 
 1564. Security clearance investigations.
 
@@ -36,6 +40,8 @@ A prior chapter 80, comprised of sections 1571 to 1577, relating to Exemplary Re
 
 #### Amendments ####
 
+**2021**—Pub. L. 116–283, div. A, title V, §§523(c), 532(a)(2), Jan. 1, 2021, 134 Stat. 3599, 3602, added items 1561b, 1563, and 1563a and struck out former item 1563 "Consideration of proposals for posthumous and honorary promotions and appointments: procedures for review." Item 1561b was added after item 1561a to reflect the probable intent of Congress, notwithstanding directory language adding it after item 1561b.
+
 **2018**—Pub. L. 115–232, div. A, title XVI, §1622(b), Aug. 13, 2018, 132 Stat. 2118, added item 1564b.
 
 **2011**—Pub. L. 112–81, div. A, title V, §581(b)(2), Dec. 31, 2011, 125 Stat. 1431, added item 1565b.
@@ -57,6 +63,24 @@ Pub. L. 107–311, §2(b), Dec. 2, 2002, 116 Stat. 2455, added item 1561a.
 Pub. L. 106–398, §1 [[div. A], title V, §542(b), title X, §1072(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–115, 1654A–277, added items 1563 and 1564.
 
 **1999**—Pub. L. 106–65, div. A, title V, §594(b), Oct. 5, 1999, 113 Stat. 644, added item 1562.
+
+#### Multidisciplinary Board To Evaluate Suicide Events ####
+
+Pub. L. 116–283, div. A, title V, §549A, Jan. 1, 2021, 134 Stat. 3620, provided that:
+
+"(a) Guidance Required.—The Secretary of Defense shall issue guidance that requires each suicide event involving of a member of a covered Armed Force to be reviewed by a multidisciplinary board established at the command or installation level, or by the Chief of the covered Armed Force. Such guidance shall require that, for each suicide event reviewed by such a board, the board shall—
+
+"(1) clearly define the objective, purpose, and outcome of the review;
+
+"(2) take a multidisciplinary approach to the review and include, as part of the review process, leaders of military units, medical and mental health professionals, and representatives of military criminal investigative organizations; and
+
+"(3) take appropriate steps to protect and share information obtained from ongoing investigations into the event (such as medical and law enforcement reports).
+
+"(b) Implementation by Covered Armed Forces.—Not later than 90 days after the date on which the guidance is issued under subsection (a), the Chiefs of the covered Armed Forces shall implement the guidance.
+
+"(c) Progress Report.—Not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the progress of the Secretary in implementing the guidance required under subsection (a).
+
+"(d) Covered Armed Forces Defined.—In this section, the term 'covered Armed Forces' means the Army, Navy, Air Force, Marine Corps, and Space Force."
 
 #### Increase in Number of Digital Forensic Examiners for Certain Military Criminal Investigative Organizations ####
 

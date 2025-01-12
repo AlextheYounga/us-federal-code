@@ -26,13 +26,15 @@ Sec.
 
 1788. Additional family assistance.
 
-1788a. Family support programs: immediate family members of members of special operations forces.
+1788a. Support programs: special operations forces personnel; immediate family members.
 
 1789. Chaplain-led programs: authorized support.
 
 1790. Military personnel citizenship processing.
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title V, §583(b), Jan. 1, 2021, 134 Stat. 3654, which directed amendment of the table of sections at the beginning of chapter 88 by adding item 1788a and striking out former item 1788a "Family support programs: immediate family members of members of special operations forces", was executed to the analysis of this subchapter, to reflect the probable intent of Congress.
 
 **2017**—Pub. L. 115–91, div. A, title V, §555(e), Dec. 12, 2017, 131 Stat. 1403, added item 1788a.
 

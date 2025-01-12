@@ -14,9 +14,13 @@
 
 (c) Inapplicability to Certain Dockets and Records.—Nothing in this section shall be construed to provide public access to docket information, filings, or records that are classified, subject to a judicial protective order, or ordered sealed.
 
-(Added Pub. L. 114–328, div. E, title LXI, §5504(a), Dec. 23, 2016, 130 Stat. 2961; amended Pub. L. 116–92, div. A, title V, §534(a), Dec. 20, 2019, 133 Stat. 1361.)
+(d) Preservation of Court-Martial Records Without Regard to Outcome.—The standards and criteria prescribed by the Secretary of Defense under subsection (a) shall provide for the preservation of general and special court-martial records, without regard to the outcome of the proceeding concerned, for not fewer than 15 years.
+
+(Added Pub. L. 114–328, div. E, title LXI, §5504(a), Dec. 23, 2016, 130 Stat. 2961; amended Pub. L. 116–92, div. A, title V, §534(a), Dec. 20, 2019, 133 Stat. 1361; Pub. L. 116–283, div. A, title V, §543, Jan. 1, 2021, 134 Stat. 3613.)
 
 #### Amendments ####
+
+**2021**—Subsec. (d). Pub. L. 116–283 added subsec. (d).
 
 **2019**—Pub. L. 116–92 designated existing provisions as subsec. (a), inserted heading, in introductory provisions substituted "The Secretary of Defense, in consultation with the Secretary of Homeland Security," for "The Secretary of Defense" and inserted "(including with respect to the Coast Guard)" after "military justice system", in par. (4) inserted "public" before "access to docket information", and added subsecs. (b) and (c).
 

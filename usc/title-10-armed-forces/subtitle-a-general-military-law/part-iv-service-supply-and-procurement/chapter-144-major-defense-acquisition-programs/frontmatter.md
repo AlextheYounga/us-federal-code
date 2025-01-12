@@ -30,7 +30,7 @@ Sec.
 
 2439. Negotiation of price for technical data before development, production, or sustainment of major weapon systems.
 
-2440. Technology and industrial base plans.
+2440. National technology and industrial base plans, policy, and guidance.
 
 2441. Sustainment reviews.
 
@@ -38,7 +38,13 @@ Sec.
 
 2443. Sustainment factors in weapon system design.
 
+#### Repeal of Chapter ####
+
+Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this chapter is repealed.
+
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title VIII, §846(b)(2), Jan. 1, 2021, 134 Stat. 3768, added item 2440 and struck out former item 2440 "Technology and industrial base plans".
 
 **2019**—Pub. L. 116–92, div. A, title XVII, §1731(a)(49), Dec. 20, 2019, 133 Stat. 1815, amended item 2439 generally. Prior to amendment, item 2439 read as follows: "Negotiation of price for technical data before development or production of major weapon systems.".
 
@@ -75,3 +81,7 @@ Pub. L. 115–91, div. A, title VIII, §834(a)(2), Dec. 12, 2017, 131 Stat. 1470
 Pub. L. 99–500, §101(c) [title X, §§904(a)(2), 905(a)(2), 906(a)(2)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–134, 1783–135, 1783–137, and Pub. L. 99–591, §101(c) [title X, §§904(a)(2), 905(a)(2), 906(a)(2)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–134, 3341–135, 3341–137; Pub. L. 99–661, div. A, title IX, formerly title IV, §§904(a)(2), 905(a)(2), 906(a)(2), Nov. 14, 1986, 100 Stat. 3914–3916, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, added items 2435 to 2437.
 
 Pub. L. 99–433, title I, §101(a)(4), Oct. 1, 1986, 100 Stat. 994, added chapter heading and analysis of sections for chapter 144, consisting of sections 2431 to 2434.
+
+#### Effective Date of Repeal ####
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.

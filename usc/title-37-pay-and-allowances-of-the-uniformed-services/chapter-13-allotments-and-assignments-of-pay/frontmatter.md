@@ -2,7 +2,7 @@
 
 Sec.
 
-701. Members of the Army, Navy, Air Force, and Marine Corps; contract surgeons.
+701. Members of the Army, Navy, Air Force, Marine Corps, and Space Force; contract surgeons.
 
 [702. Repealed.]
 
@@ -19,6 +19,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title IX, §925(h)(4), Jan. 1, 2021, 134 Stat. 3828, substituted "Members of the Army, Navy, Air Force, Marine Corps, and Space Force; contract surgeons" for "Members of the Army, Navy, Air Force, and Marine Corps; contract surgeons" in item 701.
 
 **1990**—Pub. L. 101–510, div. A, title XIV, §1484(f)(1), Nov. 5, 1990, 104 Stat. 1717, revised chapter heading so as to appear in all capital letters.
 

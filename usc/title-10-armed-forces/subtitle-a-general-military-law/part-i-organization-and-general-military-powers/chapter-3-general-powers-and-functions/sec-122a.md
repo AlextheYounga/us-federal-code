@@ -40,6 +40,10 @@ Pub. L. 113–66, div. A, title X, §1081(b), Dec. 26, 2013, 127 Stat. 871, prov
 
 Pub. L. 111–383, div. A, title X, §1061(b), Jan. 7, 2011, 124 Stat. 4362, provided that: "Section 122a of title 10, United States Code (as added by subsection (a)), shall take effect 90 days after the date of the enactment of this Act [Jan. 7, 2011], and shall apply with respect to reports that are required by law to be submitted to Congress on or after that date."
 
+#### Public Availability of Department of Defense Legislative Proposals ####
+
+Pub. L. 116–283, div. A, title X, §1059, Jan. 1, 2021, 134 Stat. 3857, provided that: "Not later than 21 days after the transmission to the Committee on Armed Services of the Senate or the Committee on Armed Services of the House of Representatives of any official Department of Defense legislative proposal, the Secretary of Defense shall make publicly available on a website of the Department such legislative proposal, including any bill text and section-by-section analysis associated with the proposal."
+
 #### Public Availability of Top-Line Numbers of Deployed Members of the Armed Forces ####
 
 Pub. L. 115–232, div. A, title V, §595, Aug. 13, 2018, 132 Stat. 1789, provided that:

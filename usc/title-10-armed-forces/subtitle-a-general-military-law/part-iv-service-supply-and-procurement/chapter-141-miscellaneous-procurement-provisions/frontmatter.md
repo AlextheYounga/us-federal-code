@@ -96,7 +96,37 @@ Sec.
 
 2410s. Security clearances for facilities of certain companies.
 
+#### Amendment of Analysis ####
+
+Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1882(a)(1), (c), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this analysis is amended as follows:
+
+(1) The heading is amended to read as follows:
+
+**"PART [probably should be 'CHAPTER'] 141—MISCELLANEOUS PROVISIONS RELATING TO PROPERTY"; and**
+
+(2) The table of sections is amended to read as follows:
+
+Sec.
+
+2385. Arms and ammunition: immunity from taxation.
+
+2387. Contract working dogs: requirement to transfer animals to 341st Training Squadron after service life.
+
+2388. Security clearances for facilities of certain companies.
+
+2389. Ensuring safety regarding insensitive munitions.
+
+2390. Prohibition on the sale of certain defense articles from the stocks of the Department of Defense.
+
+2391. Military base reuse studies and community planning assistance.
+
+2396. Advances for payments for compliance with foreign laws, rent in foreign countries, tuition, public utility services, and pay and supplies of armed forces of friendly foreign countries.
+
+See Effective Date of 2021 Amendment note below.
+
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title XVIII, §1882(a)(1), (c), Jan. 1, 2021, 134 Stat. 4293, amended analysis generally, substituting items 2385 to 2396 for items 2381 to 2410s, and directed amendment of chapter heading by substituting "PART 141—MISCELLANEOUS PROVISIONS RELATING TO PROPERTY" for "CHAPTER 141—MISCELLANEOUS PROCUREMENT PROVISIONS" which was executed by substituting "MISCELLANEOUS PROVISIONS RELATING TO PROPERTY" for "MISCELLANEOUS PROCUREMENT PROVISIONS" to reflect the probable intent of Congress.
 
 **2019**—Pub. L. 116–92, div. A, title VIII, §864(b), Dec. 20, 2019, 133 Stat. 1523, added item 2409a.
 
@@ -183,6 +213,10 @@ Pub. L. 97–214, §6(a)(2), July 12, 1982, 96 Stat. 172, added item 2394.
 **1966**—Pub. L. 89–696, §1(2), Oct. 19, 1966, 80 Stat. 1057, added item 2389.
 
 **1958**—Pub. L. 85–861, §1(47), Sept. 2, 1958, 72 Stat. 1458, added items 2387 and 2388.
+
+#### Effective Date of 2021 Amendment ####
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Prohibition on Reliance on China and Russia for Space-Based Weather Data ####
 

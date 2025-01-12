@@ -8772,7 +8772,7 @@ Reorg. Plan No. 5 of 1949, 14 F.R. 5227, 63 Stat. 1067, which related to the Civ
 **REORGANIZATION PLAN NO. 6 OF 1949**
 ----------
 
-Reorg. Plan No. 6 of 1949, 14 F.R. 5228, 63 Stat. 1069, which related to the United States Maritime Commission, was repealed by Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. See section 301 of Title 46, Shipping.
+Reorg. Plan No. 6 of 1949, 14 F.R. 5228, 63 Stat. 1069, which related to the United States Maritime Commission, was repealed by Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. See section 46101 of Title 46, Shipping.
 
 **REORGANIZATION PLAN NO. 7 OF 1949**
 ----------
@@ -11105,7 +11105,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Part I. Federal Maritime Commission ####
 
-Secs. 101–105. [Repealed. Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. Section 101 related to creation of Federal Maritime Commission. Section 102 related to composition of the Commission. Section 103 related to transfer of functions to Commission. Section 104 related to transfer of functions to Chairman. Section 105 related to authority to delegate. See sections 301 et seq. of Title 46, Shipping.]
+Secs. 101–105. [Repealed. Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. Section 101 related to creation of Federal Maritime Commission. Section 102 related to composition of the Commission. Section 103 related to transfer of functions to Commission. Section 104 related to transfer of functions to Chairman. Section 105 related to authority to delegate. See sections 46101 et seq. of Title 46, Shipping.]
 
 #### Part II. Department of Commerce ####
 

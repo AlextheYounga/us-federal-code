@@ -12,7 +12,7 @@
 
 (ii) ensuring the financial statements of the Department of Defense go under full financial statement audit, and that the Department leadership makes every effort to reach an unmodified opinion as soon as possible;
 
-(iii) ensuring the audit of the financial statements of the Department of Defense for fiscal year 2018 occurs by not later than March 31, 2019.
+(iii) ensuring the audit of the financial statements of the Department of Defense for each fiscal year after fiscal year 2020 occurs by not later than March 31 following such fiscal year;
 
 (iv) achieving an unqualified audit opinion for each major element of the statement of budgetary resources of the Department of Defense; and
 
@@ -50,13 +50,15 @@
 
 (viii) If less than 25 percent of the auditing services under contract, as described in the briefing required under paragraph (2), are being performed by professionals meeting the qualifications described in section 240d(b) of this title, a written certification that the staffing ratio complies with commercial best practices and presents no increased risk of delay in the Department's ability to achieve a clean audit opinion.
 
-(ix) If less than 50 percent of the audit remediation services under contract, as described in the briefing required under paragraph (2)(B), are being performed by individual professionals meeting the qualifications described in suhsection <sup><a href="#240b_1_target" name="240b_1">1</a></sup> (c), a detailed description of the risks associated with the risks of the acquisition strategy of the Department with respect to conducting audit remediation activities and an explanation of how the strategy complies with the policies expressed by Congress.
+(ix) If less than 50 percent of the audit remediation services under contract, as described in the briefing required under paragraph (2)(B), are being performed by individual professionals meeting the qualifications described in subsection (c), a detailed description of the risks associated with the risks of the acquisition strategy of the Department with respect to conducting audit remediation activities and an explanation of how the strategy complies with the policies expressed by Congress.
 
 (x) If less than 25 percent of the audit remediation services under contract, as described in the briefing required under paragraph (2)(B), are being performed by individual professionals meeting the qualifications described in subsection (c), a written certification that the staffing ratio complies with commercial best practices and presents no increased risk of delay in the Department's ability to achieve a clean audit opinion.
 
 (xi) A description of audit activities and results for classified programs, including a description of the use of procedures and requirements to prevent unauthorized exposure of classified information in such activities.
 
-(xii) An identification <sup><a href="#240b_2_target" name="240b_2">2</a></sup> the manner in which the corrective action plan or plans of each department, agency, component, or element of the Department of Defense, and the corrective action plan of the Department as a whole, support the National Defense Strategy (NDS) of the United States.
+(xii) An identification of the manner in which the corrective action plan or plans of each department, agency, component, or element of the Department of Defense, and the corrective action plan of the Department as a whole, support the National Defense Strategy (NDS) of the United States.
+
+(xiii) An <sup><a href="#240b_1_target" name="240b_1">1</a></sup> description of the incentives available pursuant to the guidance required by section 1004(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, including a detailed explanation of how such incentives were provided during the fiscal year covered by the report.
 
 (C) Additional requirements.—
 
@@ -72,13 +74,25 @@
 
 (c) Selection of Audit Remediation Services.—The selection of audit remediation service providers shall be based, among other appropriate criteria, on qualifications, relevant experience, and capacity to develop and implement corrective action plans to address internal control and compliance deficiencies identified during a financial statement or program audit.
 
-(Added and amended Pub. L. 115–91, div. A, title X, §1002(c)(1)–(3), Dec. 12, 2017, 131 Stat. 1538, §252; renumbered §240b and amended Pub. L. 115–232, div. A, title X, §1002(a)(1)(A), (2)–(c), Aug. 13, 2018, 132 Stat. 1945, 1946; Pub. L. 116–92, div. A, title X, §§1003, 1008–1009(b), Dec. 20, 2019, 133 Stat. 1571, 1575, 1576.)
+(Added and amended Pub. L. 115–91, div. A, title X, §1002(c)(1)–(3), Dec. 12, 2017, 131 Stat. 1538, §252; renumbered §240b and amended Pub. L. 115–232, div. A, title X, §1002(a)(1)(A), (2)–(c), Aug. 13, 2018, 132 Stat. 1945, 1946; Pub. L. 116–92, div. A, title X, §§1003, 1008–1009(b), Dec. 20, 2019, 133 Stat. 1571, 1575, 1576; Pub. L. 116–283, div. A, title X, §§1003, 1004(b), 1081(a)(14), Jan. 1, 2021, 134 Stat. 3836, 3837, 3871.)
+
+#### References in Text ####
+
+Section 1004(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (b)(1)(B)(xiii), is section 1004(a) of Pub. L. 116–283, div. A, title X, Jan. 1, 2021, 134 Stat. 3837, which is set out as a note below.
 
 #### Codification ####
 
 Subsec. (a) of this section, as added by Pub. L. 115–91, is based on text of subsec. (a) of section 1003 of Pub. L. 111–84, div. A, title X, Oct. 28, 2009, 123 Stat. 2439, which was formerly set out as a note under section 2222 of this title, prior to repeal by Pub. L. 115–91, div. A, title X, §1002(c)(4), Dec. 12, 2017, 131 Stat. 1540.
 
 #### Amendments ####
+
+**2021**—Subsec. (a)(2)(A)(iii). Pub. L. 116–283, §1003, substituted "for each fiscal year after fiscal year 2020 occurs by not later than March 31 following such fiscal year;" for "for fiscal year 2018 occurs by not later than March 31, 2019."
+
+Subsec. (b)(1)(B)(ix). Pub. L. 116–283, §1081(a)(14)(A), substituted "subsection" for "suhsection".
+
+Subsec. (b)(1)(B)(xii). Pub. L. 116–283, §1081(a)(14)(B), inserted "of" after "identification".
+
+Subsec. (b)(1)(B)(xiii). Pub. L. 116–283, §1004(b), added cl. (xiii).
 
 **2019**—Subsec. (b)(1)(B)(i). Pub. L. 116–92, §1009(b), substituted "section 240c" for "section 253a".
 
@@ -140,10 +154,20 @@ Subsec. (a)(2)(C), (D). Pub. L. 115–91, §1002(c)(3)(B)(ii)(III), struck out s
 
 Subsec. (b). Pub. L. 115–91, §1002(c)(3)(C), added subsec. (b).
 
+#### Incentives for the Achievement by the Components of the Department of Defense of Unqualified Audit Opinions on the Financial Statements ####
+
+Pub. L. 116–283, div. A, title X, §1004(a), Jan. 1, 2021, 134 Stat. 3837, provided that:
+
+"(a) Incentives Required.—
+
+"(1) In general.—Not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Under Secretary of Defense (Comptroller), acting through the Deputy Chief Financial Officer of the Department of Defense, shall develop and issue guidance to provide incentives for the achievement by each department, agency, and other component of the Department of Defense of unqualified audit opinions on their financial statements.
+
+"(2) Applicability.—The guidance required under paragraph (1) shall provide incentives for individual employees in addition to departments, agencies, and components."
+
 #### Annual Reports on Funding for Corrective Action Plans ####
 
-Pub. L. 116–92, div. A, title X, §1009(c), Dec. 20, 2019, 133 Stat. 1576, provided that: "Not later than five days after the submittal to Congress under section 1105(a) of title 31, United States Code, of the budget of the President for any fiscal year after fiscal year 2020, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a reporting [sic] setting forth a detailed estimate of the funding required for such fiscal year to procure, obtain, or otherwise implement each process, system, and technology identified to address the current corrective action plans of the departments, agencies, components, and elements of the Department of Defense, and the corrective action plan of the Department as a whole, for purposes of chapter 9A of title 10, United States Code, during such fiscal year."
+Pub. L. 116–92, div. A, title X, §1009(c), Dec. 20, 2019, 133 Stat. 1576, as amended by Pub. L. 116–283, div. A, title X, §1081(c)(5), Jan. 1, 2021, 134 Stat. 3873, provided that: "Not later than five days after the submittal to Congress under section 1105(a) of title 31, United States Code, of the budget of the President for any fiscal year after fiscal year 2020, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report setting forth a detailed estimate of the funding required for such fiscal year to procure, obtain, or otherwise implement each process, system, and technology identified to address the current corrective action plans of the departments, agencies, components, and elements of the Department of Defense, and the corrective action plan of the Department as a whole, for purposes of chapter 9A of title 10, United States Code, during such fiscal year."
 
-[<sup>1</sup> So in original. Probably should be "subsection".](#240b_1)
+[Pub. L. 116–283, div. A, title X, §1081(c), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(c)(5) of Pub. L. 116–283 to section 1009(c) of Pub. L. 116–92, set out above, is effective as of Dec. 20, 2020 (probably should be Dec. 20, 2019) and as if included in Pub. L. 116–92.]
 
-[<sup>2</sup> So in original. The word "of" probably should appear.](#240b_2)
+[<sup>1</sup> So in original. Probably should be "A".](#240b_1)

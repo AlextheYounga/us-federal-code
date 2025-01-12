@@ -6,13 +6,15 @@ Sec.
 
 802. Forfeiture of pay during absence from duty due to disease from intemperate use of alcohol or drugs.
 
-803. Commissioned officers of Army or Air Force: forfeiture of pay when dropped from rolls.
+803. Commissioned officers of the Army, Air Force, or Space Force: forfeiture of pay when dropped from rolls.
 
 [804, 805. Repealed.]
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title IX, §925(i)(2)(C), Jan. 1, 2021, 134 Stat. 3829, substituted "Commissioned officers of the Army, Air Force, or Space Force: forfeiture of pay when dropped from rolls" for "Commissioned officers of Army or Air Force: forfeiture of pay when dropped from rolls" in item 803.
 
 **1996**—Pub. L. 104–106, div. A, title XI, §1122(c)(2), Feb. 10, 1996, 110 Stat. 463, struck out item 804 "Enlisted members of Army or Air Force: pay and allowances not to accrue during suspended sentence of dishonorable discharge".
 

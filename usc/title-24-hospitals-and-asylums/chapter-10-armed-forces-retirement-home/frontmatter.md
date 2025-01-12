@@ -24,7 +24,7 @@ Sec.
 
 417. Administrators, Ombudsmen, and staff of facilities.
 
-418. Periodic inspection of retirement home facilities by Department of Defense Inspector General and outside inspectors.
+418. Periodic inspection of retirement home facilities.
 
 419. Armed Forces Retirement Home Trust Fund.
 

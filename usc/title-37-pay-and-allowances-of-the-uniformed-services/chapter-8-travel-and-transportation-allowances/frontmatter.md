@@ -38,7 +38,7 @@ Sec.
 
 474b. Travel and transportation allowances: payment of lodging expenses at temporary duty location during authorized absence of member.
 
-475. Travel and transportation allowances: per diem while on duty outside the continental United States.
+[475. Transferred.]
 
 475a. Travel and transportation allowances: departure allowances.
 
@@ -98,11 +98,13 @@ Sec.
 
 494. Subsistence reimbursement relating to escorts of foreign arms control inspection teams.
 
-495. Funeral honors duty: allowance.
+[495. Transferred.]
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title IV, §604(c)(2), Jan. 1, 2021, 134 Stat. 3672, struck out item 475 "Travel and transportation allowances: per diem while on duty outside the continental United States" and item 495 "Funeral honors duty: allowance".
 
 **2019**—Pub. L. 116–92, div. A, title VI, §606(b), Dec. 20, 2019, 133 Stat. 1425, added item 456.
 

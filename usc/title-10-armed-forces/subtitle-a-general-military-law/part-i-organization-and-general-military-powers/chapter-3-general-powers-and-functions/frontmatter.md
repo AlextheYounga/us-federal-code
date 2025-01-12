@@ -18,6 +18,8 @@ Sec.
 
 125. Functions, powers, and duties: transfer, reassignment, consolidation, or abolition.
 
+125a. Reform: improvement of efficacy and efficiency.
+
 126. Transfer of funds and employees.
 
 127. Emergency and extraordinary expenses.
@@ -31,6 +33,8 @@ Sec.
 [127d. Renumbered.]
 
 127e. Support of special operations to combat terrorism.
+
+127f. Expenditure of funds for clandestine activities that support operational preparation of the environment.
 
 128. Control and physical protection of special nuclear material: limitation on dissemination of unclassified information.
 
@@ -66,7 +70,11 @@ Sec.
 
 [130j, 130k. Renumbered.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title IX, §911(a)(2), title X, §1052(b), Jan. 1, 2021, 134 Stat. 3801, 3850, added items 125a and 127f.
 
 **2018**—Pub. L. 115–232, div. A, title X, §1081(a)(2), title XVI, §1631(c)(1), Aug. 13, 2018, 132 Stat. 1983, 2123, struck out item 130g "Authorities concerning military cyber operations" and made technical correction to and struck out items 130j "Notification requirements for sensitive military cyber operations" and 130k "Notification requirements for cyber weapons".
 

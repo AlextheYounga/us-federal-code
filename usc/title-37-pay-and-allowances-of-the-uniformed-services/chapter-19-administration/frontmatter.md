@@ -10,7 +10,7 @@ Sec.
 
 1004. Computation of pay and allowances for month or part of month.
 
-1005. Army and Air Force: prompt payments required.
+1005. Army, Air Force, and Space Force: prompt payments required.
 
 1006. Advance payments.
 
@@ -35,6 +35,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title IX, §925(k)(1)(C), Jan. 1, 2021, 134 Stat. 3829, which directed amendment of the analysis for chapter 15 by striking item 803 and inserting a new item 1005, was executed to the analysis for this chapter by adding item 1005 and striking out former item 1005 "Army and Air Force: prompt payments required", to reflect the probable intent of Congress.
 
 **2015**—Pub. L. 114–92, div. A, title VI, §662(b), Nov. 25, 2015, 129 Stat. 859, added item 1015.
 

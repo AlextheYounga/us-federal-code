@@ -8,7 +8,7 @@ Sec.
 
 343. Western Hemisphere Institute for Security Cooperation.
 
-344. Participation in multinational military centers of excellence.
+344. Participation in multinational centers of excellence.
 
 345. Regional Defense Combating Terrorism and Irregular Warfare Fellowship Program.
 
@@ -27,6 +27,8 @@ Sec.
 352. Naval Small Craft Instruction and Technical Training School.
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title XII, §1206(b), Jan. 1, 2021, 134 Stat. 3913, added item 344 and struck out former item 344 "Participation in multinational military centers of excellence".
 
 **2019**—Pub. L. 116–92, div. A, title XVII, §1731(a)(15), Dec. 20, 2019, 133 Stat. 1813, struck out "Sec." after item 350.
 

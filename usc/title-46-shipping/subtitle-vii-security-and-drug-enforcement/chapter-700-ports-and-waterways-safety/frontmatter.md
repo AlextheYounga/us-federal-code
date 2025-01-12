@@ -1,8 +1,10 @@
 ### **CHAPTER 700—PORTS AND WATERWAYS SAFETY** ###
 
-#### SUBCHAPTER A <sup><a href="#CHAPTER700_1_target" name="CHAPTER700_1">1</a></sup> —VESSEL OPERATIONS ####
+#### SUBCHAPTER I—VESSEL OPERATIONS ####
 
-70001. 2 Vessel traffic services.
+Sec.
+
+70001. Vessel traffic services.
 
 70002. Special powers.
 
@@ -12,7 +14,9 @@
 
 70005. International agreements.
 
-#### SUBCHAPTER B <sup><a href="#CHAPTER700_1_target" name="CHAPTER700_1">1</a></sup> —PORTS AND WATERWAYS SAFETY ####
+70006. Establishment by the Secretary of the department in which the Coast Guard is operating of anchorage grounds and regulations generally. 1
+
+#### SUBCHAPTER II—PORTS AND WATERWAYS SAFETY ####
 
 70011. Waterfront safety.
 
@@ -20,11 +24,15 @@
 
 70013. Requirement to notify Coast Guard of release of objects into the navigable waters of the United States.
 
-#### SUBCHAPTER C <sup><a href="#CHAPTER700_1_target" name="CHAPTER700_1">1</a></sup> —CONDITION FOR ENTRY INTO PORTS IN THE UNITED STATES ####
+70014. Aiming laser pointer at vessel.
 
-70021. Conditions for entry to ports in the united states. 3
+#### SUBCHAPTER III—CONDITIONS FOR ENTRY INTO PORTS IN THE UNITED STATES ####
 
-#### SUBCHAPTER D <sup><a href="#CHAPTER700_1_target" name="CHAPTER700_1">1</a></sup> —DEFINITIONS, REGULATIONS, ENFORCEMENT, INVESTIGATORY POWERS, APPLICABILITY ####
+70021. Conditions for entry into ports in the United States.
+
+70022. Prohibition on entry and operation.
+
+#### SUBCHAPTER IV—DEFINITIONS REGULATIONS, ENFORCEMENT, INVESTIGATORY POWERS, APPLICABILITY <sup><a href="#CHAPTER700_2_target" name="CHAPTER700_2">2</a></sup> ####
 
 70031. Definitions.
 
@@ -38,11 +46,11 @@
 
 70036. Enforcement.
 
-#### SUBCHAPTER E <sup><a href="#CHAPTER700_1_target" name="CHAPTER700_1">1</a></sup> —REGATTAS AND MARINE PARADES ####
+#### SUBCHAPTER V—REGATTAS AND MARINE PARADES ####
 
 70041. Regattas and marine parades.
 
-#### SUBCHAPTER F <sup><a href="#CHAPTER700_1_target" name="CHAPTER700_1">1</a></sup> —REGULATION OF VESSELS IN TERRITORIAL WATERS OF UNITED STATES ####
+#### SUBCHAPTER VI—REGULATION OF VESSELS IN TERRITORIAL WATERS OF THE UNITED STATES <sup><a href="#CHAPTER700_2_target" name="CHAPTER700_2">2</a></sup> ####
 
 70051. Regulation of anchorage and movement of vessels during national emergency.
 
@@ -56,10 +64,10 @@
 
 #### Amendments ####
 
+**2021**—Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], §8342(b), title LVXXXV, §§8501(b)(5), 8507(a)(3), 8508(2)(C), Jan. 1, 2021, 134 Stat. 4709, 4746, 4753, 4755, inserted "Sec." before item 70001, added item 70006, and substituted "Conditions for entry into ports in the United States" for "Conditions for entry to ports in the united states" in item 70021, "SUBCHAPTER I" for "SUBCHAPTER A", "SUBCHAPTER II" for "SUBCHAPTER B", "SUBCHAPTER III" for "SUBCHAPTER C", "SUBCHAPTER IV" and "SUBCHAPTER D", "SUBCHAPTER V" for "SUBCHAPTER E", and "SUBCHAPTER VI" for "SUBCHAPTER F". Item 70014, which was directed to be inserted at the end of the analysis for subchapter II of chapter 700, was added after item 70013 to reflect the probable intent of Congress.
+
 **2018**—Pub. L. 115–282, title IV, §§406(b), 407(e), Dec. 4, 2018, 132 Stat. 4266, 4267, added items for subchapters E and F and items 70041 and 70051 to 70054.
 
-[<sup>1</sup> So in original. Does not conform to subchapter designation.](#CHAPTER700_1)
+[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER700_1)
 
-[<sup>2</sup> So in original. Probably should be preceded by "Sec."](#CHAPTER700_2)
-
-[<sup>3</sup> So in original. Does not conform to section catchline.](#CHAPTER700_3)
+[<sup>2</sup> So in original. Does not conform to subchapter heading.](#CHAPTER700_2)

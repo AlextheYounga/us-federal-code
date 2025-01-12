@@ -133,6 +133,84 @@ Chap. Sec.
 
 389. Loan Guarantee Programs 4971
 
+#### Effective Date of 2021 Amendment ####
+
+Pub. L. 116–283, div. A, title XVIII, §1801(d), Jan. 1, 2021, 134 Stat. 4151, provided that:
+
+"(1) Delayed enactment.—Except as specifically provided, this title [see Tables for classification] and the amendments made by this title shall take effect on January 1, 2022.
+
+"(2) Delayed implementation.—Not later than January 1, 2023, the Secretary of Defense shall take such action as necessary to revise or modify the Department of Defense Supplement to the Federal Acquisition Regulation and other existing authorities affected by the enactment of this title and the amendments made by this title.
+
+"(3) Applicability.—
+
+"(A) In general.—The Secretary of Defense shall apply the law as in effect on December 31, 2021, with respect to contracts entered into during the covered period.
+
+"(B) Covered period defined.—In this paragraph, the term 'covered period' means the period beginning on January 1, 2022, and ending on the earlier of—
+
+"(i) the date on which the Secretary of Defense revises or modifies authorities pursuant to paragraph (2); or
+
+"(ii) January 1, 2023."
+
+#### Rule of Construction ####
+
+Pub. L. 116–283, div. A, title XVIII, §1885, Jan. 1, 2021, 134 Stat. 4294, provided that: "This title [see Tables for classification], including the amendments made by this title, is intended only to reorganize title 10, United States Code, and may not be construed to alter—
+
+"(1) the effect of a provision of title 10, United States Code, including any authority or requirement therein;
+
+"(2) a department or agency interpretation with respect to title 10, United States Code; or
+
+"(3) a judicial interpretation with respect to title 10, United States Code."
+
+#### Savings Provisions ####
+
+Pub. L. 116–283, div. A, title XVIII, §1884, Jan. 1, 2021, 134 Stat. 4294, provided that:
+
+"(a) Regulations, Orders, and Other Administrative Actions.—A regulation, order, or other administrative action in effect under a provision of title 10, United States Code, redesignated by this title [see Tables for classification] continues in effect under the provision as so redesignated.
+
+"(b) Actions Taken and Offenses Committed.—An action taken or an offense committed under a provision of title 10, United States Code, redesignated by this title is deemed to have been taken or committed under the provision as so redesignated."
+
+#### Transfer and Reorganization of Defense Acquisition Statutes ####
+
+Pub. L. 116–283, div. A, title XVIII, §1801(a), (b), Jan. 1, 2021, 134 Stat. 4150, provided that:
+
+"(a) Activities.—Not later than February 1, 2021, the Secretary of Defense shall establish a process to engage interested parties and experts from the public and private sectors, as determined appropriate by the Secretary, in a comprehensive review of this title [see Tables for classification] and the amendments made by this title.
+
+"(b) Assessment and Report.—Not later than March 15, 2021, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report evaluating this title and the amendments made by this title that shall include the following elements:
+
+"(1) Specific recommendations for modifications to the legislative text of this title and the amendments made by this title, along with a list of conforming amendments to law required by this title and the amendments made by this title.
+
+"(2) A summary of activities conducted pursuant to the process established under subsection (a), including an assessment of the effect of this title and the amendments made by this title on related Department of Defense activities, guidance, and interagency coordination.
+
+"(3) An implementation plan for updating the regulations and guidance relating to this title and the amendments made by this title that contains the following elements:
+
+"(A) A description of how the plan will be implemented.
+
+"(B) A schedule with milestones for the implementation of the plan.
+
+"(C) A description of the assignment of roles and responsibilities for the implementation of the plan.
+
+"(D) A description of the resources required to implement the plan.
+
+"(E) A description of how the plan will be reviewed and assessed to monitor progress.
+
+"(4) Such other items as the Secretary considers appropriate."
+
+#### References to Sections Redesignated by Title XVIII of Pub. L. 116–283 ####
+
+Pub. L. 116–283, div. A, title XVIII, §1883, Jan. 1, 2021, 134 Stat. 4294, provided that:
+
+"(a) Definitions.—In this section:
+
+"(1) Redesignated section.—The term 'redesignated section' means a section of title 10, United States Code, that is redesignated by this title [see Tables for classification], as that section is so redesignated.
+
+"(2) Source section.—The term 'source section' means a section of title 10, United States Code, that is redesignated by this title, as that section was in effect before the redesignation.
+
+"(b) Reference to Source Section.—
+
+"(1) Treatment of reference.—Except as otherwise provided in this title, a reference to a source section, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding redesignated section.
+
+"(2) Title 10.—Except as otherwise provided in this title, in title 10, United States Code, each reference in the text of such title to a source section is amended by striking such reference and inserting a reference to the appropriate redesignated section."
+
 [<sup>1</sup> So in original. Does not conform to chapter heading.](#PARTV_1)
 
 [<sup>2</sup> Editorially supplied.](#PARTV_2)

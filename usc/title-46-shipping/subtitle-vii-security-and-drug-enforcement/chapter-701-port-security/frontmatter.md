@@ -8,7 +8,7 @@ Sec.
 
 70102. United States facility and vessel vulnerability assessments.
 
-70102a. Port, harbor, and coastal facility security.
+[70102a. Repealed]
 
 70103. Maritime transportation security plans.
 
@@ -68,9 +68,11 @@ Sec.
 
 #### Amendments ####
 
-**2018**—Pub. L. 115–282, title IV, §§402(b)(3), 408(c), Dec. 4, 2018, 132 Stat. 4264, 4268, added items 70102a and 70116.
+**2021**—Pub. L. 116–283, div. G, title LVXXXV [LXXXV], §8507(d)(1), Jan. 1, 2021, 134 Stat. 4754, repealed amendment by Pub. L. 115–282, §408(c). See 2018 Amendment note below.
 
-Pub. L. 115–254, div. J, §1809(c)(1), Oct. 5, 2018, 132 Stat. 3538, struck out items 70107A "Interagency operational centers for port security" and 70116 "Secure systems of transportation".
+**2018**—Pub. L. 115–282, title IV, §408(c), Dec. 4, 2018, 132 Stat. 4268, added item 70102a "Port, harbor, and coastal facility security", prior to repeal by Pub. L. 116–283.
+
+Pub. L. 115–282, title IV, §402(b)(3), Dec. 4, 2018, 132 Stat. 4264, added item 70116.
 
 **2016**—Pub. L. 114–120, title III, §306(a)(8), Feb. 8, 2016, 130 Stat. 54, inserted a period at end of item 70107A and substituted "Security Advisory Committees" for "security advisory committees" in item 70112 and "Watch Program" for "watch program" in item 70122.
 

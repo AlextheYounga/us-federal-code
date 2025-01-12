@@ -2,7 +2,7 @@
 
 (a) Reimbursement Authority.—Under regulations prescribed by the Secretary of Defense, the Secretary of a military department may reimburse eligible Department of Defense personnel for expenses incurred after October 1, 2001, for parking a privately owned vehicle at a place of duty described in subsection (b).
 
-(b) Eligibility.—A member of the Army, Navy, Air Force, or Marine Corps or an employee of the Department of Defense may be reimbursed under subsection (a) for parking expenses while—
+(b) Eligibility.—A member of the Army, Navy, Air Force, Marine Corps, or Space Force or an employee of the Department of Defense may be reimbursed under subsection (a) for parking expenses while—
 
 (1) assigned to duty at a recruiting facility of the armed forces;
 
@@ -12,11 +12,13 @@
 
 (c) Termination.—No reimbursement may be provided under this section for expenses incurred after the travel authorities transition expiration date.
 
-(Added Pub. L. 106–398, §1 [[div. A], title VI, §645(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–161, §411i; renumbered §481i and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(22), Dec. 31, 2011, 125 Stat. 1460, 1463; Pub. L. 115–232, div. A, title VI, §604, Aug. 13, 2018, 132 Stat. 1795.)
+(Added Pub. L. 106–398, §1 [[div. A], title VI, §645(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–161, §411i; renumbered §481i and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(22), Dec. 31, 2011, 125 Stat. 1460, 1463; Pub. L. 115–232, div. A, title VI, §604, Aug. 13, 2018, 132 Stat. 1795; Pub. L. 116–283, div. A, title IX, §925(f), Jan. 1, 2021, 134 Stat. 3827.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Subsec. (b). Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps".
 
 **2018**—Subsec. (b)(1). Pub. L. 115–232 substituted "at a recruiting facility" for "as a recruiter for any".
 

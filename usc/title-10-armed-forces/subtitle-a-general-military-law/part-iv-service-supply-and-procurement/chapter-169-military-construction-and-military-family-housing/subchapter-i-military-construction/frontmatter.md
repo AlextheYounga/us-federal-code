@@ -32,9 +32,13 @@ Sec.
 
 2815. Military installation resilience projects.
 
+2816. Consideration of energy security and energy resilience in life-cycle cost for military construction.
+
 #### Amendments ####
 
-**2019**—Pub. L. 116–92, div. B, title XXVIII, §2801(b)(2), Dec. 20, 2019, 133 Stat. 1881, which directed amendment of the analysis at the beginning of this chapter by adding item 2815, was executed in the analysis for this subchapter to reflect the probable intent of Congress.
+**2021**—Pub. L. 116–283, div. A, title X, §1081(c)(9), div. B, title XXVIII, §2804(b), Jan. 1, 2021, 134 Stat. 3873, 4321, added item 2816 and amended directory language of Pub. L. 116–92, §2801(b)(2). See 2019 Amendment note below.
+
+**2019**—Pub. L. 116–92, div. B, title XXVIII, §2801(b)(2), Dec. 20, 2019, 133 Stat. 1881, as amended by Pub. L. 116–283, div. A, title X, §1081(c)(9), Jan. 1, 2021, 134 Stat. 3873, added item 2815.
 
 **2011**—Pub. L. 112–81, div. A, title X, §1061(23)(B), Dec. 31, 2011, 125 Stat. 1584, struck out item 2815 "Joint use military construction projects: annual evaluation".
 

@@ -54,17 +54,21 @@
 
 (c) Comptroller General Review.—The Comptroller General of the United States shall—
 
-(1) review each report under subsection (a) for accuracy and completeness with respect to the matters described in paragraphs (2)(F) and (3) of such subsection; and
+(1) periodically review reports submitted under subsection (a) for accuracy and completeness with respect to the matters described in paragraphs (2)(F) and (3) of such subsection; and
 
-(2) not later than 180 days after the date on which such report under subsection (a) is submitted, submit to the congressional defense committees a summary of each such review.
+(2) submit to the congressional defense committees a summary of each such review.
 
-(Added and amended Pub. L. 116–92, div. A, title XVI, §1665(c)(1), Dec. 20, 2019, 133 Stat. 1773.)
+(Added and amended Pub. L. 116–92, div. A, title XVI, §1665(c)(1), Dec. 20, 2019, 133 Stat. 1773; Pub. L. 116–283, div. A, title XVI, §1633, Jan. 1, 2021, 134 Stat. 4059.)
 
 #### Codification ####
 
 Section, as added and amended by Pub. L. 116–92, is based on Pub. L. 112–81, div. A, title X, §1043, Dec. 31, 2011, 125 Stat. 1576, as amended by Pub. L. 112–239, div. A, title X, §1041(a), Jan. 2, 2013, 126 Stat. 1931; Pub. L. 113–66, div. A, title X, §1054, Dec. 26, 2013, 127 Stat. 861; Pub. L. 113–291, div. A, title XVI, §1643, Dec. 19, 2014, 128 Stat. 3650; Pub. L. 115–91, div. A, title XVI, §1665, Dec. 12, 2017, 131 Stat. 1767; Pub. L. 115–232, div. A, title XVI, §1670, Aug. 13, 2018, 132 Stat. 2157; Pub. L. 116–92, div. A, title XVI, §1665(a), (b), Dec. 20, 2019, 133 Stat. 1773, which was transferred to this chapter and renumbered as this section.
 
 #### Amendments ####
+
+**2021**—Subsec. (c)(1). Pub. L. 116–283, §1633(1), substituted "periodically review reports submitted" for "review each report".
+
+Subsec. (c)(2). Pub. L. 116–283, §1633(2), struck out "not later than 180 days after the date on which such report under subsection (a) is submitted," before "submit to the congressional defense committees".
 
 **2019**—Pub. L. 116–92, §1665(c)(1)(D), conformed section designation and catchline to the style of this title.
 

@@ -46,6 +46,8 @@ Sec.
 
 1596b. Foreign language proficiency: National Foreign Language Skills Registry.
 
+1596c. Programming language proficiency: special pay for proficiency beneficial for national security interests.
+
 1597. Civilian positions: guidelines for reductions.
 
 1598. Assistance to terminated employees to obtain certification and employment as teachers or employment as teachers' aides.
@@ -68,7 +70,11 @@ Sec.
 
 1599h. Personnel management authority to attract experts in science and engineering.
 
+1599i. Recruitment incentives for placement at remote locations.
+
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title II, §241(c)(2), title XI, §1120(d), Jan. 1, 2021, 134 Stat. 3487, 3900, added items 1596c and 1599i.
 
 **2016**—Pub. L. 114–328, div. A, title XI, §§1104(b), 1121(a)(2), Dec. 23, 2016, 130 Stat. 2447, 2452, added items 1599g and 1599h.
 
@@ -136,9 +142,135 @@ Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(
 
 **1958**—Pub. L. 85–577, §1(2), July 31, 1958, 72 Stat. 456, added item 1585.
 
+#### Pilot Program on the Use of Electronic Portfolios To Evaluate Certain Applicants for Technical Positions ####
+
+Pub. L. 116–283, div. A, title II, §247, Jan. 1, 2021, 134 Stat. 3491, provided that:
+
+"(a) Pilot Program.—Beginning not later than one year after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall carry out a pilot program under which certain applicants for technical positions within the Department of Defense will be evaluated, in part, based on electronic portfolios of the applicant's work, as described in subsection (b).
+
+"(b) Activities.—Under the pilot program, the human resources manager of each organization of the Department of Defense participating in the program, in consultation with relevant subject matter experts, shall—
+
+"(1) identify a subset of technical positions for which the evaluation of electronic portfolios would be appropriate as part of the hiring process; and
+
+"(2) as appropriate, assess applicants for such positions by reviewing electronic portfolios of the applicants' best work, as selected by the applicant concerned.
+
+"(c) Scope of Program.—The Secretary of Defense shall carry out the pilot program under subsection (a) in—
+
+"(1) the Joint Artificial Intelligence Center;
+
+"(2) the Defense Digital Service;
+
+"(3) at least one activity of each military department, as identified by the Secretary of the department concerned; and
+
+"(4) such other organizations and elements of the Department of Defense as the Secretary determines appropriate.
+
+"(d) Report.—Not later than two years after the commencement of the pilot program under subsection (a), the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the results of the program. At a minimum, the report shall—
+
+"(1) describe how the use of electronic portfolios in the hiring process affected the timeliness of the hiring process for technical positions in organizations of the Department of Defense participating in the program;
+
+"(2) assess the level of satisfaction of organization leaders, hiring authorities, and subject matter experts with the quality of applicants who were hired based on evaluations of electronic portfolios;
+
+"(3) identify other job series that could benefit from the use of electronic portfolios in the hiring process;
+
+"(4) recommend whether the use of electronic portfolios in the hiring process should be expanded or made permanent; and
+
+"(5) recommend any statutory, regulatory, or policy changes required to support the goals of the pilot program under subsection (a).
+
+"(e) Technical Position Defined.—In this section, the term 'technical position' means a position in the Department of Defense that—
+
+"(1) requires expertise in artificial intelligence, data science, or software development; and
+
+"(2) is eligible for direct hire authority under section 9905 of title 5, United States Code, or section 2358a of title 10, United States Code.
+
+"(f) Termination.—The authority to carry out the pilot program under subsection (a) shall terminate 5 years after the date of the enactment of this Act."
+
+#### Coordination of Scholarship and Employment Programs of the Department of Defense ####
+
+Pub. L. 116–283, div. A, title II, §251, Jan. 1, 2021, 134 Stat. 3496, provided that:
+
+"(a) Establishment or Designation of Organization.—The Secretary of Defense shall establish or designate an organization within the Department of Defense which shall have primary responsibility for building cohesion and collaboration across the various scholarship and employment programs of the Department.
+
+"(b) Duties.—The organization established or designated under subsection (a) shall have the following duties:
+
+"(1) To establish an interconnected network and database across the scholarship and employment programs of the Department.
+
+"(2) To aid in matching scholarships to individuals pursuing courses of study in high demand skill areas.
+
+"(3) To build a network of current and former program participants for potential engagement or employment with Department activities.
+
+"(c) Annual Listing.—On an annual basis, the organization established or designated under subsection (a) shall publish, on a publicly accessible website of the Department, a listing of scholarship and employment programs carried out by the Department."
+
+#### Temporary Authority To Appoint Retired Members of the Armed Forces to Positions in the Department of Defense ####
+
+Pub. L. 116–283, div. A, title XI, §1108, Jan. 1, 2021, 134 Stat. 3891, provided that:
+
+"(a) In General.—Notwithstanding the requirements of section 3326 of title 5, United States Code, the Secretary of Defense may appoint retired members of the Armed Forces to positions in the Department of Defense described in subsection (b).
+
+"(b) Positions.—
+
+"(1) In general.—The positions in the Department described in this subsection are positions classified at or below GS–13 under the General Schedule under subchapter III of chapter 53 of title 5, United States Code, or an equivalent level under another wage system, in the competitive service—
+
+"(A) at any defense industrial base facility (as that term is defined in section 2208(u)(3) of title 10, United States Code) that is part of the core logistics capabilities (as described in section 2464(a) of such title); and
+
+"(B) that have been certified by the Secretary of the military department concerned as lacking sufficient numbers of potential applicants.
+
+"(2) Limitation on delegation of certification.—The Secretary of a military department may not delegate the authority to make a certification described in paragraph (1)(B) to an individual in a grade lower than colonel, captain in the Navy, or an equivalent grade in the Space Force, or an individual with an equivalent civilian grade.
+
+"(c) Report.—Not later than two years after the date of enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on this section and the authority provided by this section. The report shall include the following:
+
+"(1) A description of the use of such authority, including the positions to which appointments are authorized to be made under such authority and the number of retired members appointed to each such position under such authority.
+
+"(2) Any other matters in connection with such section or such authority that the Secretary considers appropriate.
+
+"(d) Sunset.—Effective on the date that is 3 years after the date of enactment of this Act, the authority provided under subsection (a) shall expire.
+
+"(e) Definitions.—In this section, the terms 'member' and 'Secretary concerned' have the meaning given those terms in section 101 of title 37, United States Code."
+
+#### Pilot Program on Enhanced Pay Authority for Certain High-Level Management Positions in the Department of Defense ####
+
+Pub. L. 116–283, div. A, title XI, §1119, Jan. 1, 2021, 134 Stat. 3897, provided that:
+
+"(a) Pilot Program Authorized.—The Secretary of Defense may carry out a pilot program to assess the feasibility and advisability of using the pay authority specified in subsection (d) to fix the rate of basic pay for positions described in subsection (c) in order to assist the Department of Defense in attracting and retaining personnel with significant experience in high-level management of complex organizations and enterprise functions in order to lead implementation by the Department of the National Defense Strategy.
+
+"(b) Approval Required.—The pilot program may be carried out only with approval as follows:
+
+"(1) Approval of the Deputy Secretary of Defense, in the case of a position not under the authority, direction, and control of an Under Secretary of Defense and not under the authority, direction, and control of the Under Secretary of a military department.
+
+"(2) Approval of the applicable Under Secretary of Defense, in the case of a position under the authority, direction, and control of an Under Secretary of Defense.
+
+"(3) Approval of the Under Secretary or an Assistant Secretary of the military department concerned, in the case of a position in a military department.
+
+"(c) Positions.—The positions described in this subsection are positions that require expertise of an extremely high level in innovative leadership and management of enterprise-wide business operations, including financial management, health care, supply chain and logistics, information technology, real property stewardship, and human resources, across a large and complex organization.
+
+"(d) Rate of Basic Pay.—Without regard to the basic pay authorities in sections 5376, 5382, 5383 and 9903 of title 5, United States Code, the pay authority specified in this subsection is authority as follows:
+
+"(1) Authority to fix the rate of basic pay for a position at a rate not to exceed 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the applicable official under subsection (b).
+
+"(2) Authority to fix the rate of basic pay for a position at a rate in excess of 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the Secretary of Defense.
+
+"(e) Limitations.—
+
+"(1) In general.—The authority in subsection (a) may be used only to the extent necessary to competitively recruit or retain individuals exceptionally well qualified for positions described in subsection (c).
+
+"(2) Number of positions.—The authority in subsection (a) may not be used with respect to—
+
+"(A) more than 10 positions in the Office of the Secretary of Defense and components of the Department of Defense other than the military departments at any one time; and
+
+"(B) more than five positions in each military department at any one time.
+
+"(3) Term of positions.—The authority in subsection (a) may be used only for positions having terms less than five years.
+
+"(4) Past service.—An individual may not be appointed to a position pursuant to the authority provided by subsection (a) if the individual separated or retired from Federal civil service or service as a commissioned officer of an Armed Force on a date that is less than five years before the date of such appointment of the individual.
+
+"(f) Termination.—
+
+"(1) In general.—The authority to fix rates of basic pay for a position under this section shall terminate on October 1, 2025.
+
+"(2) Continuation of pay.—Nothing in paragraph (1) shall be construed to prohibit the payment after October 1, 2025, of basic pay at rates fixed under this section before that date for positions whose terms continue after that date."
+
 #### Technology and National Security Fellowship ####
 
-Pub. L. 116–92, div. A, title II, §235, Dec. 20, 2019, 133 Stat. 1279, provided that:
+Pub. L. 116–92, div. A, title II, §235, Dec. 20, 2019, 133 Stat. 1279, as amended by Pub. L. 116–283, div. A, title II, §243, Jan. 1, 2021, 134 Stat. 3488, provided that:
 
 "(a) Fellowship Program.—
 
@@ -154,7 +286,7 @@ Pub. L. 116–92, div. A, title II, §235, Dec. 20, 2019, 133 Stat. 1279, provid
 
 "(4) Pay and benefits.—To the extent practicable, each individual assigned to a position under paragraph (3)—
 
-"(A) shall be compensated at a rate of basic pay that is equivalent to the rate of basic pay payable for a position at level 10 of the General Schedule; and
+"(A) shall be compensated at a rate of basic pay that is not less than the minimum rate of basic pay payable for a position at GS–10 of the General Schedule (subchapter III of chapter 53 of title 5, United States Code) and not more than the maximum rate of basic pay payable for a position at GS–15 of such Schedule; and
 
 "(B) shall be treated as an employee of the United States during the assignment.
 
@@ -177,6 +309,8 @@ Pub. L. 116–92, div. A, title II, §235, Dec. 20, 2019, 133 Stat. 1279, provid
 "(A) meets the requirements specified in paragraph (1); and
 
 "(B) has not less than 3 years of relevant work experience in the field of science, technology, engineering, or mathematics.
+
+"(3) Background check requirement.—No individual may participate in the fellows program without first undergoing a background check that the Secretary of Defense considers appropriate for participation in the program.
 
 "(c) Application.—Each individual seeking to participate in the fellows program shall submit to the Secretary an application therefor at such time and in such manner as the Secretary shall specify.
 

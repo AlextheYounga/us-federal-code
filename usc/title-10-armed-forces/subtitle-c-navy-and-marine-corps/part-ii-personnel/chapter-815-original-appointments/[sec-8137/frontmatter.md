@@ -1,0 +1,3 @@
+### [§8137. Repealed. Pub. L. 116–283, div. A, title V, §509(a), Jan. 1, 2021, 134 Stat. 3586] ###
+
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 325, §5587; Pub. L. 90–179, §5(2), Dec. 8, 1967, 81 Stat. 547; Pub. L. 90–386, §1(5), July 5, 1968, 82 Stat. 293; Pub. L. 96–513, title III, §324, Dec. 12, 1980, 94 Stat. 2893; renumbered §8137, Pub. L. 115–232, div. A, title VIII, §807(b)(4), Aug. 13, 2018, 132 Stat. 1834, related to regular Navy: officers designated for engineering duty, aeronautical engineering duty, and special duty.

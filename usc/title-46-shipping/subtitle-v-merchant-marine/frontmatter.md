@@ -33,6 +33,8 @@ Chapter Sec.
 
 533. Construction Reserve Funds 53301
 
+534. Tanker Security Fleet 53401
+
 535. Capital Construction Funds 53501
 
 537. Loans and Guarantees 53701
@@ -49,7 +51,7 @@ Chapter Sec.
 
 555. Miscellaneous 55501
 
-556. Short Sea Transportation 55601
+556. Short Sea Transportation 1 55601
 
 #### Part E—Control of Merchant Marine Capabilities ####
 
@@ -75,6 +77,8 @@ Chapter Sec.
 
 #### Amendments ####
 
+**2021**—Pub. L. 116–283, div. C, title XXXV, §3511(b), Jan. 1, 2021, 134 Stat. 4419, which directed amendment of this analysis by adding item for chapter 534 "at the end", was executed by adding the item for chapter 534 after the item for chapter 533 to reflect the probable intent of Congress.
+
 **2019**—Pub. L. 116–92, div. C, title XXXV, §3521(b), Dec. 20, 2019, 133 Stat. 1997, added item for chapter 532.
 
 **2008**—Pub. L. 110–181, div. C, title XXXV, §3523(a)(6)(E), Jan. 28, 2008, 122 Stat. 600, added item for chapter 541.
@@ -82,3 +86,5 @@ Chapter Sec.
 **2007**—Pub. L. 110–140, title XI, §1121(b), Dec. 19, 2007, 121 Stat. 1762, added item for chapter 556.
 
 **2006**—Pub. L. 109–304, §8(a), Oct. 6, 2006, 120 Stat. 1555, amended subtitle analysis generally. Prior to amendment, analysis consisted of item for chapter 531 "Maritime Security Fleet".
+
+[<sup>1</sup> So in original. Does not conform to chapter heading.](#SubtitleV_1)

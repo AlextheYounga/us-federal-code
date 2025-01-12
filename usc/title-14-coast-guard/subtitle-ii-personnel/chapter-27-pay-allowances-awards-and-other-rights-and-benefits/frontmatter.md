@@ -28,6 +28,8 @@ Sec.
 
 2712. Payment for the apprehension of stragglers.
 
+2713. Employment assistance.
+
 #### SUBCHAPTER II—AWARDS ####
 
 2731. Delegation of powers to make awards; rules and regulations.
@@ -68,7 +70,7 @@ Sec.
 
 #### SUBCHAPTER III—PAYMENTS ####
 
-2761. Persons discharged as result of court-martial; allowances to.
+2761. Individuals discharged as result of court-martial; allowances to.
 
 2762. Shore patrol duty; payment of expenses.
 
@@ -80,7 +82,7 @@ Sec.
 
 2766. Travel card management.
 
-2767. Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States.
+2767. Reimbursement for medical-related travel expenses for certain individuals residing on islands in the continental United States.
 
 2768. Annual audit of pay and allowances of members undergoing permanent change of station.
 
@@ -100,7 +102,7 @@ Sec.
 
 2776. Payments at time of discharge for good of service.
 
-2777. Clothing for destitute shipwrecked persons.
+2777. Clothing for destitute shipwrecked individuals.
 
 2778. Advancement of public funds to personnel.
 
@@ -115,5 +117,7 @@ A prior analysis for part III of this title "COAST GUARD AUTHORIZATIONS AND REPO
 A prior analysis for chapter 27 "AUTHORIZATIONS" consisted of items 2701 "Requirement for prior authorization of appropriations", 2702 "Authorization of appropriations", 2703 "Authorization of personnel end strengths", and 2704 "Authorized levels of military strength and training", prior to repeal by Pub. L. 115–282, title I, §116(a), Dec. 4, 2018, 132 Stat. 4225.
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. G, title LVXXXII [LXXXII], §8206(b), title LVXXXV [LXXXV], §8505(a)(38)(B), (39)(B), (45)(B), Jan. 1, 2021, 134 Stat. 4649, 4750, added items 2713, 2761, 2767, and 2777, and struck out former items 2761 "Persons discharged as result of court-martial; allowances to", 2767 "Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States", and 2777 "Clothing for destitute shipwrecked persons". Item 2713 was added to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language adding that item "at the end" of the analysis for subchapter I of this chapter.
 
 **2018**—Pub. L. 115–282, title I, §116(a), title III, §316, Dec. 4, 2018, 132 Stat. 4225, 4250, inserted chapter 27 designation and heading, added items 2701 to 2779, and struck out item 2705 "Clothing at time of discharge for good of service".

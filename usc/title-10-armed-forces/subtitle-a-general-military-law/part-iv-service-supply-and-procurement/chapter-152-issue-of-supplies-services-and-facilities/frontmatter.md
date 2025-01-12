@@ -40,13 +40,15 @@ Sec.
 
 2568. Retention of combat uniforms by members deployed in support of contingency operations.
 
-2568a. Damaged personal protective equipment: award to members separating from the armed forces and veterans. 1
+2568a. Damaged personal protective equipment: award to members separating from the Armed Forces and veterans.
 
 #### Prior Provisions ####
 
 Chapter was comprised of subchapter I, former section 2540, and subchapter II, sections 2541 to 2553, prior to amendment by Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512, which struck out headings for subchapters I and II.
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title X, §1081(a)(39), Jan. 1, 2021, 134 Stat. 3873, substituted "Damaged personal protective equipment: award to members separating from the Armed Forces and veterans" for "Damaged personal protective equipment: award to members separating from the armed forces and veterans" in item 2568a.
 
 **2019**—Pub. L. 116–92, div. A, title V, §592(c)(2), title XVII, §1731(a)(63), Dec. 20, 2019, 133 Stat. 1415, 1816, substituted "Provision of assistance for adaptive sports programs: members of the armed forces; certain veterans" for "Provision of assistance for adaptive sports programs for members of the armed forces" in item 2564a and amended item 2568a without change.
 
@@ -99,5 +101,3 @@ Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512
 **1972**—Pub. L. 92–249, Mar. 10, 1972, 86 Stat. 62, added item 2544.
 
 **1958**—Pub. L. 85–861, §1(48)(B), Sept. 2, 1958, 72 Stat. 1459, added item 2543.
-
-[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER152_1)

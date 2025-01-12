@@ -148,17 +148,17 @@ In this subsection:
 
 (B) The terms "prepare" and "preparedness" mean the actions taken to plan, organize, equip, train, and exercise to build and sustain the capabilities necessary to prevent, protect against, mitigate the effects of, respond to, and recover from those threats that pose the greatest risk to the security of the homeland, including the prediction and notification of impending EMPs and GMDs.
 
-(C) The term "Sector-Specific Agency" has the meaning given that term in section 651 of this title.
+(C) The term "Sector Risk Management Agency" has the meaning given that term in section 651 of this title.
 
 #### (e) Rule of construction ####
 
 Nothing in this section may be construe— <sup><a href="#195f_1_target" name="195f_1">1</a></sup>
 
-(1) to affect in any manner the authority of the executive branch to implement Executive Order 13865, dated March 26, 2019, and entitled "Coordinating National Resilience to Electromagnetic Pulses", or any other authority existing on the day before December 20, 2019, of any other component of the Department or any other Federal department or agency, including the authority provided to the Sector-Specific Agency specified in section 61003(c) of division F of the Fixing America's Surface Transportation Act (6 U.S.C. 121 note), including the authority under section 824o of title 16, and including the authority of independent agencies to be independent; or
+(1) to affect in any manner the authority of the executive branch to implement Executive Order 13865, dated March 26, 2019, and entitled "Coordinating National Resilience to Electromagnetic Pulses", or any other authority existing on the day before December 20, 2019, of any other component of the Department or any other Federal department or agency, including the authority provided to the Sector Risk Management Agency specified in section 61003(c) of division F of the Fixing America's Surface Transportation Act (6 U.S.C. 121 note), including the authority under section 824o of title 16, and including the authority of independent agencies to be independent; or
 
 (2) as diminishing or transferring any authorities vested in the Administrator of the Federal Emergency Management Agency or in the Agency prior to December 20, 2019.
 
-(Pub. L. 107–296, title III, §320, formerly §319, as added Pub. L. 114–328, div. A, title XIX, §1913(a)(3), Dec. 23, 2016, 130 Stat. 2685; renumbered §320 and amended Pub. L. 115–278, §2(g)(3)(B), (C), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 116–92, div. A, title XVII, §1740(a)(1), Dec. 20, 2019, 133 Stat. 1821.)
+(Pub. L. 107–296, title III, §320, formerly §319, as added Pub. L. 114–328, div. A, title XIX, §1913(a)(3), Dec. 23, 2016, 130 Stat. 2685; renumbered §320 and amended Pub. L. 115–278, §2(g)(3)(B), (C), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 116–92, div. A, title XVII, §1740(a)(1), Dec. 20, 2019, 133 Stat. 1821; Pub. L. 116–283, div. H, title XC, §9002(c)(2)(A), Jan. 1, 2021, 134 Stat. 4772.)
 
 #### **Editorial Notes** ####
 
@@ -169,6 +169,10 @@ Executive Order 13865, referred to in subsec. (e)(1), is Ex. Ord. No. 13865, Mar
 Section 61003(c) of division F of the Fixing America's Surface Transportation Act, referred to in subsec. (e)(1), is section 61003(c) of Pub. L. 114–94, div. F, Dec. 4, 2015, 129 Stat. 1778, which is set out as a note under section 121 of this title.
 
 #### Amendments ####
+
+**2021**—Subsec. (d)(3)(C). Pub. L. 116–283, §9002(c)(2)(A)(i), substituted "Sector Risk Management Agency" for "Sector-Specific Agency".
+
+Subsec. (e)(1). Pub. L. 116–283, §9002(c)(2)(A)(ii), substituted "Sector Risk Management Agency" for "Sector-Specific Agency".
 
 **2019**—Pub. L. 116–92, §1740(a)(1)(A), inserted "and threat assessment, response, and recovery" after "development" in section catchline.
 
@@ -331,5 +335,7 @@ Sec. 7. *General Provisions*. (a) Nothing in this order shall be construed to im
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.
+
+[Reference to a Sector Specific Agency (including any permutations or conjugations thereof) deemed to be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector and have the meaning give such term in section 651(5) of this title, see section 652a(c)(3) of this title, enacted Jan. 1, 2021.]
 
 [<sup>1</sup> So in original. Probably should be "construed—".](#195f_1)

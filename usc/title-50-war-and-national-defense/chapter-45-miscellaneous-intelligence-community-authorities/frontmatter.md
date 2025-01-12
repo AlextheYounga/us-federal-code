@@ -168,7 +168,7 @@ Sec.
 
 3368. Assistance for governmental entities and private entities in recognizing online violent extremist content.
 
-3369. Encouragement of cooperative actions to detect and counter foreign influence operations.
+3369. Cooperative actions to detect and counter foreign influence operations.
 
 3369a. Report on deepfake technology, foreign weaponization of deepfakes, and related notifications.
 

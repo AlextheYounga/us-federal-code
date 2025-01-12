@@ -8,7 +8,7 @@ Sec.
 
 2913. Energy savings contracts and activities.
 
-2914. Energy resilience and conservation construction projects.
+2914. Military construction projects for energy resilience, energy security, and energy conservation.
 
 2915. Facilities: use of renewable forms of energy and energy efficient products.
 
@@ -20,7 +20,11 @@ Sec.
 
 2919. Department of Defense participation in programs for management of energy demand or reduction of energy usage during peak periods.
 
+2920. Energy resilience and energy security measures on military installations.
+
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title III, §316(b), div. B, title XXVIII, §2805(b), Jan. 1, 2021, 134 Stat. 3519, 4322, added items 2914 and 2920 and struck out former item 2914 "Energy resilience and conservation construction projects".
 
 **2019**—Pub. L. 116–92, div. A, title XVII, §1731(a)(59), Dec. 20, 2019, 133 Stat. 1815, which directed amendment of the analysis at the beginning of this chapter by substituting "Energy resilience and conservation construction projects" for "Energy resiliency and conservation construction projects"in item 2914, was executed in the analysis for this subchapter to reflect the probable intent of Congress.
 

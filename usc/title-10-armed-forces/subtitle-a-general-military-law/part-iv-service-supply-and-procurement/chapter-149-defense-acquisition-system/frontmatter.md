@@ -12,6 +12,10 @@ Sec.
 
 2548. Performance assessments of the defense acquisition system.
 
+#### Renumbering of Chapter ####
+
+Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1808(a)(1), Jan. 1, 2021, 134 Stat. 4151, 4159, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this chapter is renumbered chapter 205 and transferred to part V of subtitle A. See Effective Date of 2021 Amendment note below.
+
 #### Prior Provisions ####
 
 A prior chapter 149, comprised of sections 2511 to 2518, relating to manufacturing technology, was repealed, except for sections 2517 and 2518, by Pub. L. 102–484, div. D, title XLII, §4202(a), Oct. 23, 1992, 106 Stat. 2659. Sections 2517 and 2518 of that chapter were renumbered sections 2523 and 2522, respectively, of this chapter by Pub. L. 102–484, div. D, title XLII, §§4232(a), 4233(a), Oct. 23, 1992, 106 Stat. 2687, and were subsequently repealed.
@@ -25,3 +29,7 @@ Another prior chapter 150, comprised of section 2521, was renumbered chapter 152
 #### Amendments ####
 
 **2015**—Pub. L. 114–92, div. A, title VIII, §802(a)(2), Nov. 25, 2015, 129 Stat. 879, added item 2546a.
+
+#### Effective Date of 2021 Amendment ####
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.

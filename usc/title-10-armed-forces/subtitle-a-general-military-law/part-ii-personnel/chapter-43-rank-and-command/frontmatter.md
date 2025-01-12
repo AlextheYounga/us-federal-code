@@ -6,17 +6,19 @@ Sec.
 
 742. Rank: warrant officers.
 
-743. Rank: Chief of Staff of the Army; Chief of Naval Operations; Chief of Staff of the Air Force; Commandant of the Marine Corps.
+743. Rank: Chief of Staff of the Army; Chief of Naval Operations; Chief of Staff of the Air Force; Commandant of the Marine Corps; Chief of Space Operations.
 
 [744, 745. Repealed.]
 
-747. Command: when different commands of Army, Navy, Air Force, Marine Corps, and Coast Guard join.
+747. Command: when different commands of Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard join.
 
 749. Command: commissioned officers in same grade or corresponding grades on duty at same place.
 
 750. Command: retired officers.
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title IX, §924(b)(2)(C), (20)(C), Jan. 1, 2021, 134 Stat. 3821, 3824, added items 743 and 747 and struck out former items 743 "Rank: Chief of Staff of the Army; Chief of Naval Operations; Chief of Staff of the Air Force; Commandant of the Marine Corps" and 747 "Command: when different commands of Army, Navy, Air Force, Marine Corps, and Coast Guard join".
 
 **2016**—Pub. L. 114–328, div. A, title V, §502(i)(2), Dec. 23, 2016, 130 Stat. 2103, struck out item 744 "Physician to White House: assignment; grade".
 

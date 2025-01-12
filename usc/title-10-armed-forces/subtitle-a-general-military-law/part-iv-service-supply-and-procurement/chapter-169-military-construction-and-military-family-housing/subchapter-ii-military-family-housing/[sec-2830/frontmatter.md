@@ -1,0 +1,3 @@
+### [§2830. Repealed. Pub. L. 116–283, div. B, title XXVIII, §2812(a), Jan. 1, 2021, 134 Stat. 4326] ###
+
+Section, added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 162; amended Pub. L. 99–348, title III, §304(a)(4), July 1, 1986, 100 Stat. 703; Pub. L. 100–180, div. A, title VI, §632(a), Dec. 4, 1987, 101 Stat. 1105; Pub. L. 105–85, div. A, title VI, §603(d)(2)(B), Nov. 18, 1997, 111 Stat. 1782; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314, related to occupancy of substandard family housing units.

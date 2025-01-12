@@ -40,7 +40,7 @@ Sec.
 
 5322. Criminal penalties.
 
-5323. Rewards for informants.
+5323. Whistleblower incentives and protections.
 
 5324. Structuring transactions to evade reporting requirement prohibited.
 
@@ -48,9 +48,7 @@ Sec.
 
 5326. Records of certain domestic transactions.
 
-[5327. Repealed.]
-
-5328. Whistleblower protections.
+[5327, 5328. Repealed.]
 
 5329. Staff commentaries.
 
@@ -59,6 +57,14 @@ Sec.
 5331. Reports relating to coins and currency received in nonfinancial trade or business.
 
 5332. Bulk cash smuggling into or out of the United States.
+
+5333. Safe harbor with respect to keep open directives.
+
+5334. Training regarding anti-money laundering and countering the financing of terrorism.
+
+5335. Prohibition on concealment of the source of assets in monetary transactions.
+
+5336. Beneficial ownership information reporting requirements.
 
 #### SUBCHAPTER III—MONEY LAUNDERING AND RELATED FINANCIAL CRIMES ####
 
@@ -101,6 +107,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. F, title LXIII, §§6306(b)(1), 6307(b), 6313(b), 6314(c), title LXIV, §6403(b)(3), Jan. 1, 2021, 134 Stat. 4589, 4590, 4597, 4603, 4623, added items 5323 and 5333 to 5336 and struck out former item 5323 "Rewards for informants" and item 5328 "Whistleblower protections". Former item 5323 and item 5328 were struck out, and item 5323 was added, to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language striking out and adding those items to the analysis for subchapter II of this chapter.
 
 **2017**—Pub. L. 115–44, title II, §275(b), Aug. 2, 2017, 131 Stat. 938, struck out "coin and currency" before "transactions" in item 5326.
 

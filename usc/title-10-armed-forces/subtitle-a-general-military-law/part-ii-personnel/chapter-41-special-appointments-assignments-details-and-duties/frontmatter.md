@@ -10,9 +10,9 @@ Sec.
 
 713. State Department: assignment or detail as couriers and building inspectors.
 
-[714. Repealed.]
+714. Senior leaders of the Department of Defense and other specified persons: authority to provide protection within the United States.
 
-715. Attending Physician to the Congress: grade 1
+715. Attending Physician to the Congress: grade.
 
 716. Commissioned officers: transfers among the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service.
 
@@ -24,9 +24,11 @@ Sec.
 
 [720 to 722. Repealed.]
 
-714. 2 Senior leaders of the Department of Defense and other specified persons: authority to provide protection within the United States.
+723. Support of Federal authorities in response to civil disturbances: requirement for use of members of the Armed Forces and Federal law enforcement personnel.
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title X, §§1064(b), 1081(a)(19), Jan. 1, 2021, 134 Stat. 3860, 3871, moved item 714 to appear immediately after item 713, inserted period at end of item 715, and added item 723.
 
 **2018**—Pub. L. 115–232, div. A, title V, §508(b), Aug. 13, 2018, 132 Stat. 1749, added item 715.
 
@@ -153,7 +155,3 @@ Pub. L. 109–364, div. A, title XI, §1104, Oct. 17, 2006, 120 Stat. 2409, as a
 "(1) A detail under the provisions of Department of Defense Directive 1000.17.
 
 "(2) A legislative fellowship (including a legislative fellowship under the provisions of Department of Defense Directive 1322.6)."
-
-[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER41_1)
-
-[<sup>2</sup> See 2016 Amendment note below.](#CHAPTER41_2)

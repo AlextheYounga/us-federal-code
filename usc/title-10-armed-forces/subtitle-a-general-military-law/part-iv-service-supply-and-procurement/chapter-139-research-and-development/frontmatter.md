@@ -20,6 +20,8 @@ Sec.
 
 2358b. Joint reserve detachment of the Defense Innovation Unit.
 
+2358c. Enhanced pay authority for certain research and technology positions in science and technology reinvention laboratories.
+
 2359. Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research, development, test, and evaluation.
 
 2359a. Defense Research and Development Rapid Innovation Program.
@@ -70,9 +72,15 @@ Sec.
 
 2374a. Prizes for advanced technology achievements.
 
-[2374b. Repealed.]
+2374b. Disclosure requirements for recipients of research and development funds.
+
+#### Repeal of Chapter ####
+
+Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this chapter is repealed. See Effective Date of Repeal note below.
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title II, §212(a)(2), title XI, §1115(b), Jan. 1, 2021, 134 Stat. 3456, 3896, added items 2358c and 2374b.
 
 **2019**—Pub. L. 116–92, div. A, title II, §213(a)(2), title VIII, §835(a)(2), Dec. 20, 2019, 133 Stat. 1257, 1496, added items 2361a and 2358b.
 
@@ -151,3 +159,7 @@ Pub. L. 99–500, §101(c) [title X, §§909(a)(2), 910(a)(2), 912(a)(2)], Oct. 
 **1962**—Pub. L. 87–651, title II, §208(b), Sept. 7, 1962, 76 Stat. 523, added item 2358.
 
 **1958**—Pub. L. 85–599, §3(d), Aug. 6, 1958, 72 Stat. 516, struck out item 2351 "Policy, plans, and coordination".
+
+#### Effective Date of Repeal ####
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.

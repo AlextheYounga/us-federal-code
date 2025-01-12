@@ -32,19 +32,47 @@ Sec.
 
 **1968**—Pub. L. 90–235, §8(1)(B), Jan. 2, 1968, 81 Stat. 764, added item 771a.
 
+#### Pilot Program for Temporary Issuance of Maternity-Related Uniform Items ####
+
+Pub. L. 116–283, div. A, title III, §361, Jan. 1, 2021, 134 Stat. 3546, provided that:
+
+"(a) Pilot Program.—The Director of the Defense Logistics Agency, in coordination with the Secretaries concerned, shall carry out a pilot program for issuing maternity-related uniform items to pregnant members of the Armed Forces, on a temporary basis and at no cost to such member. In carrying out the pilot program, the Director shall take the following actions:
+
+"(1) The Director shall maintain a stock of each type of maternity-related uniform item determined necessary by the Secretary concerned, including service uniforms items, utility uniform items, and other items relating to the command and duty assignment of the member requiring issuance.
+
+"(2) The Director shall ensure that such items have not been treated with the chemical permethrin.
+
+"(3) The Director, in coordination with the Secretary concerned, shall determine a standard number of maternity-related uniform items that may be issued per member.
+
+"(4) The Secretary concerned shall ensure that any member receiving a maternity-related uniform item returns such item to the relevant office established under paragraph (1) on the date on which the Secretary concerned determines the member no longer requires such item.
+
+"(5) The Secretary concerned shall inspect, process, repair, clean, and re-stock items returned by a member pursuant to paragraph (4) for re-issuance from such relevant office.
+
+"(6) The Director, in coordination with the Secretaries concerned, may issue such guidance and regulations as necessary to carry out the pilot program.
+
+"(b) Termination.—No maternity-related uniform items may be issued to a member of the Armed Forces under the pilot program after September 30, 2026.
+
+"(c) Report.—Not later than September 30, 2025, the Director of the Defense Logistics Agency, in coordination with the Secretaries concerned, shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the pilot program. Such report shall include each of the following:
+
+"(1) For each year during which the pilot program was carried out, the number of members of the Armed Forces who received a maternity-related uniform item under the pilot program.
+
+"(2) An overview of the costs associated with, and any savings realized by, the pilot program, including a comparison of the cost of maintaining a stock of maternity-related uniform items for issuance under the pilot program versus the cost of providing allowances to members for purchasing such items.
+
+"(3) A recommendation on whether the pilot program should be extended after the date of termination under subsection (b) and whether legislation is necessary for such extension.
+
+"(4) Any other matters that the Secretary of Defense determines appropriate."
+
 #### Functional Badge or Insignia Upon Commission for Chaplains ####
 
 Pub. L. 116–92, div. A, title V, §510B, Dec. 20, 2019, 133 Stat. 1348, provided that: "A military chaplain shall receive a functional badge or insignia upon commission."
 
 #### Notification Requirements Relating to Changes to Uniform of Members of the Uniformed Services ####
 
-Pub. L. 115–232, div. A, title III, §356, Aug. 13, 2018, 132 Stat. 1732, provided that:
+Pub. L. 115–232, div. A, title III, §356, Aug. 13, 2018, 132 Stat. 1732, as amended by Pub. L. 116–283, div. A, title III, §348, Jan. 1, 2021, 134 Stat. 3542, provided that:
 
-"(a) DLA Notification.—The Secretary of a military department shall notify the Commander of the Defense Logistics Agency of any plan to implement a change to any uniform or uniform component of a member of the uniformed services. Such notification shall be made not less than three years prior to the implementation of such change.
+"(a) Contractor Notification.—The Director of the Defense Logistics Agency shall notify a contractor when one of the uniformed services plans to make a change to a uniform component that is provided by that contractor. Such a notification shall be made not less than 12 months prior to any announcement of a public solicitation for the manufacture of the new uniform component.
 
-"(b) Contractor Notification.—The Commander of the Defense Logistics Agency shall notify a contractor when one of the uniformed services plans to make a change to a uniform component that is provided by that contractor. Such a notification shall be made not less than 12 months prior to any announcement of a public solicitation for the manufacture of the new uniform component.
-
-"(c) Waiver.—If the Secretary of a military department or the Commander of the Defense Logistics Agency determines that the notification requirement under subsection (a) would adversely affect operational safety, force protection, or the national security interests of the United States, the Secretary or the Commander may waive such requirement."
+"(b) Waiver.—If the Secretary of a military department or the Director of the Defense Logistics Agency determines that the notification requirement under subsection (a) would adversely affect operational safety, force protection, or the national security interests of the United States, the Secretary or the Director may waive such requirement."
 
 #### Revised Policy on Ground Combat and Camouflage Utility Uniforms ####
 

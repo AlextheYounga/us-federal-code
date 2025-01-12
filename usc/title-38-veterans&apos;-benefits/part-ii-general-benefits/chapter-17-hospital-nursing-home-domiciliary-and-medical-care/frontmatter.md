@@ -92,11 +92,11 @@ Sec.
 
 1720E. Nasopharyngeal radium irradiation.
 
-1720F. Comprehensive program for suicide prevention among veterans.
+1720F. Comprehensive program for suicide prevention among veterans and members of the reserve components of the Armed Forces.
 
 1720G. Assistance and support services for caregivers.
 
-1720H. Mental health treatment for veterans who served in classified missions.
+1720H. Mental health treatment for veterans and members of the reserve components of the Armed Forces who served in classified missions.
 
 1720I. Mental and behavioral health care for certain former members of the Armed Forces.
 
@@ -200,6 +200,8 @@ Sec.
 
 1788. Transplant procedures with live donors and related services.
 
+1789. Mental health services for members of the reserve components of the Armed Forces.
+
 #### Amendment of Analysis ####
 
 Pub. L. 116–315, title III, §3002(b), (c), Jan. 5, 2021, 134 Stat. 4991, provided that, effective one year after Jan. 5, 2021, this analysis is amended by striking item 1730A and inserting new item 1730A "Prohibition on collection of copayments from certain veterans". See 2021 Amendment note below.
@@ -209,6 +211,10 @@ Pub. L. 116–315, title III, §3002(b), (c), Jan. 5, 2021, 134 Stat. 4991, prov
 #### Amendments ####
 
 **2021**—Pub. L. 116–315, title III, §3002(b), title V, §5107(a)(3), Jan. 5, 2021, 134 Stat. 4991, 5031, added item 1709C and substituted "Prohibition on collection of copayments from certain veterans" for "Prohibition on collection of copayments from catastrophically disabled veterans" in item 1730A.
+
+Pub. L. 116–283, div. A, title VII, §§763(b), 764(a)(3)(B), Jan. 1, 2021, 134 Stat. 3725, 3726, which directed amendment of subchapter analysis for this chapter by adding item 1789 and substituting "Comprehensive program for suicide prevention among veterans and members of the reserve components of the Armed Forces" for "Comprehensive program for suicide prevention among veterans" in item 1720F, was executed by by making the amendments to the analysis for this chapter, to reflect the probable intent of Congress.
+
+Pub. L. 116–283, div. A, title VII, §764(b)(2)(B), Jan. 1, 2021, 134 Stat. 3727, substituted "Mental health treatment for veterans and members of the reserve components of the Armed Forces who served in classified missions" for "Mental health treatment for veterans who served in classified missions" in item 1720H.
 
 **2020**—Pub. L. 116–214, title II, §201(b), Dec. 5, 2020, 134 Stat. 1033, added item 1720J.
 

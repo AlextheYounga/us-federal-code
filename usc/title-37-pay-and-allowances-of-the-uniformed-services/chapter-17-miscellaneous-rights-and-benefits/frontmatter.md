@@ -16,7 +16,7 @@ Sec.
 
 907. Enlisted members and warrant officers appointed as officers: pay and allowances stabilized.
 
-908. Employment of reserves and retired members by foreign governments.
+908. Reserves and retired members: acceptance of employment, payments, and awards from foreign governments.
 
 909. Special and incentive pay: payment at unreduced rates during suspension of personnel laws.
 
@@ -25,6 +25,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title VI, §641(c)(2), Jan. 1, 2021, 134 Stat. 3684, substituted "Reserves and retired members: acceptance of employment, payments, and awards from foreign governments" for "Employment of reserves and retired members by foreign governments" in item 908.
 
 **2006**—Pub. L. 109–163, div. A, title VI, §614(b), Jan. 6, 2006, 119 Stat. 3293, added item 910.
 

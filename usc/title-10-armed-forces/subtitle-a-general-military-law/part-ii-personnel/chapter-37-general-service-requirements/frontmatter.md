@@ -12,11 +12,13 @@ Sec.
 
 655. Designation of persons having interest in status of a missing member.
 
-656. Diversity in military leadership: plan.
+656. Diversity in military leadership: plan; mentoring and career counseling program.
 
 657. Prohibition on service in the armed forces by individuals convicted of certain sexual offenses.
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title V, §571(a)(3)(B), Jan. 1, 2021, 134 Stat. 3643, added item 656 and struck out former item 656 "Diversity in military leadership: plan".
 
 **2013**—Pub. L. 113–66, div. A, title XVII, §1711(a)(2), Dec. 26, 2013, 127 Stat. 963, added item 657.
 

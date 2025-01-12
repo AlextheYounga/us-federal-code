@@ -155,6 +155,116 @@ Pub. L. 102–25, title VII, §701(e)(1), Apr. 6, 1991, 105 Stat. 114, added ite
 
 **1958**—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted "General Service Requirements" for "Service Requirements for Reserves" in item for chapter 37, "971" for "[No present sections]" in item for chapter 49, "Medical and Dental Care" for "Voting by Members of Armed Forces" in item for chapter 55, and struck out "Care of the Dead" and substituted "1475" for "1481" in item for chapter 75.
 
+#### Measuring and Incentivizing Programming Proficiency ####
+
+Pub. L. 116–283, div. A, title II, §241(a), (b), Jan. 1, 2021, 134 Stat. 3486, 3487, provided that:
+
+"(a) In General.—Not later than two years after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall carry out the following activities:
+
+"(1) Leverage existing civilian software development and software architecture certification programs to implement coding language proficiency and artificial intelligence competency tests within the Department of Defense that—
+
+"(A) measure an individual's competency in using machine learning tools, in a manner similar to the way the Defense Language Proficiency Test measures competency in foreign language skills;
+
+"(B) enable the identification of members of the Armed Forces and civilian employees of the Department of Defense who have varying levels of quantified coding comprehension and skills and a propensity to learn new programming paradigms, algorithms, and data analytics; and
+
+"(C) include hands-on coding demonstrations and challenges.
+
+"(2) Update existing recordkeeping systems to track artificial intelligence and programming certification testing results in a manner that is comparable to the system used for tracking and documenting foreign language competency, and use that recordkeeping system to ensure that workforce coding and artificial intelligence comprehension and skills are taken into consideration when making assignments.
+
+"(3) Implement a system of rewards, including appropriate incentive pay and retention incentives, for members of the Armed Forces and civilian employees of the Department of Defense who perform successfully on specific language coding proficiency and artificial intelligence competency tests and make their skills available to the Department.
+
+"(b) Information Sharing With Other Federal Agencies.—The Secretary of Defense shall share information on the activities carried out under subsection (a) with the Secretary of Homeland Security, the Attorney General, the Director of National Intelligence, and the heads of such other organizations of the intelligence community as the Secretary determines appropriate, for purposes of—
+
+"(1) making information about the coding language proficiency and artificial intelligence competency tests developed under such subsection available to other Federal national security agencies; and
+
+"(2) encouraging the heads of such agencies to implement tracking and reward systems that are comparable to those implemented by the Department of Defense pursuant to such subsection."
+
+#### Evaluation of Barriers to Minority Participation in Certain Units of the Armed Forces ####
+
+Pub. L. 116–283, div. A, title V, §557, Jan. 1, 2021, 134 Stat. 3637, provided that:
+
+"(a) Study Required.—
+
+"(1) In general.—Not later than 30 days after the date of the enactment of this Act [Jan. 1, 2021], the Under Secretary of Defense for Personnel and Readiness shall seek to enter into an agreement with a federally funded research and development center with relevant expertise to conduct an evaluation of the barriers to minority participation in covered units of the Armed Forces.
+
+"(2) Elements.—The evaluation required under paragraph (1) shall include the following elements:
+
+"(A) A description of the racial, ethnic, and gender composition of covered units.
+
+"(B) A comparison of the participation rates of minority populations in covered units to participation rates of the general population as members and as officers of the Armed Forces.
+
+"(C) A comparison of the percentage of minority officers in the grade of O–7 or higher who have served in each covered unit to such percentage for all such officers in the Armed Force of that covered unit.
+
+"(D) An identification of barriers to minority (including English language learners) participation in the recruitment, accession, assessment, and training processes.
+
+"(E) The status and effectiveness of the response to the recommendations contained in the report of the RAND Corporation titled 'Barriers to Minority Participation in Special Operations Forces' and any follow-up recommendations.
+
+"(F) Recommendations to increase the numbers of minority officers in the Armed Forces.
+
+"(G) Recommendations to increase minority participation in covered units.
+
+"(H) Any other matters the Secretary determines appropriate.
+
+"(3) Report to congress.—The Secretary shall—
+
+"(A) submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the results of the study by not later than January 1, 2022; and
+
+"(B) provide interim briefings to such committees upon request.
+
+"(b) Designation.—The study conducted under subsection (a) shall be known as the 'Study on Reducing Barriers to Minority Participation in Elite Units in the Armed Services'.
+
+"(c) Implementation Required.—
+
+"(1) In general.—Except as provided in paragraph (2), not later than March 1, 2023, the Secretary of Defense shall commence the implementation of each recommendation included in the final report submitted under subsection (a)(3).
+
+"(2) Exceptions.—
+
+"(A) Delayed implementation.—The Secretary of Defense may commence implementation of a recommendation described [in] paragraph (1) [not] later than March 1, 2023, if—
+
+"(i) the Secretary submits to the congressional defense committees, not later than January 1, 2023, written notice of the intent of the Secretary to delay implementation of the recommendation; and
+
+"(ii) includes, as part of such notice, a specific justification for the delay in implementing the recommendation.
+
+"(B) Nonimplementation.—The Secretary of Defense may elect not to implement a recommendation described in paragraph (1), if—
+
+"(i) the Secretary submits to the congressional defense committees, not later than January 1, 2023, written notice of the intent of the Secretary not to implement the recommendation; and
+
+"(ii) includes, as part of such notice—
+
+ "(I) the reasons for the Secretary's decision not to implement the recommendation; and
+
+ "(II) a summary of alternative actions the Secretary will carry out to address the purposes underlying the recommendation.
+
+"(3) Implementation plan.—For each recommendation that the Secretary implements under this subsection, the Secretary shall submit to the congressional defense committees an implementation plan that includes—
+
+"(A) a summary of actions the Secretary has carried out, or intends to carry out, to implement the recommendation; and
+
+"(B) a schedule, with specific milestones, for completing the implementation of the recommendation.
+
+"(d) Covered Units Defined.—In this section, the term 'covered units' means the following:
+
+"(1) Army Special Forces.
+
+"(2) Army Rangers.
+
+"(3) Navy SEALs.
+
+"(4) Air Force Combat Control Teams.
+
+"(5) Air Force Pararescue.
+
+"(6) Air Force Special Reconnaissance.
+
+"(7) Marine Raider Regiments.
+
+"(8) Marine Corps Force Reconnaissance.
+
+"(9) Coast Guard Maritime Security Response Team.
+
+"(10) Any other forces designated by the Secretary of Defense as special operations forces.
+
+"(11) Pilot and navigator military occupational specialties."
+
 #### Policy on the Talent Management of Digital Expertise and Software Professionals ####
 
 Pub. L. 116–92, div. A, title II, §230, Dec. 20, 2019, 133 Stat. 1273, provided that:

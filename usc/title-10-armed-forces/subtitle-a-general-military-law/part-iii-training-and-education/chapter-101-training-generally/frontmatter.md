@@ -82,6 +82,88 @@ Pub. L. 104–106, div. A, title V, §572(b), Feb. 10, 1996, 110 Stat. 355, adde
 
 **1965**—Pub. L. 89–160, §1(2), Sept. 1, 1965, 79 Stat. 615, added item 2002.
 
+#### Training Program for Human Resources Personnel in Best Practices for Technical Workforce ####
+
+Pub. L. 116–283, div. A, title II, §246, Jan. 1, 2021, 134 Stat. 3490, provided that:
+
+"(a) Pilot Training Program.—
+
+"(1) In general.—Not later than one year after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness and the Under Secretary of Defense for Research and Engineering, shall develop and implement a pilot program to provide covered human resources personnel with training in public and private sector best practices for attracting and retaining technical talent.
+
+"(2) Training areas.—The pilot program shall include training in the authorities and procedures that may be used to recruit technical personnel for positions in the Department of Defense, including—
+
+"(A) appropriate direct hiring authorities;
+
+"(B) excepted service authorities;
+
+"(C) personnel exchange authorities;
+
+"(D) authorities for hiring special government employees and highly qualified experts;
+
+"(E) special pay authorities; and
+
+"(F) private sector best practices to attract and retain technical talent.
+
+"(3) Metrics.—The Secretary of Defense shall develop metrics to evaluate the effectiveness of the pilot program in contributing to the ability of the Department of Defense to attract and retain technical talent.
+
+"(4) Plan required.—The Secretary of Defense shall develop a plan for the implementation of the pilot program.
+
+"(b) Reports.—
+
+"(1) Report on plan.—Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report that sets forth the plan required under subsection (a)(4).
+
+"(2) Report on pilot program.—Not later than three years after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report on the results of the pilot program.
+
+"(c) Definitions.—In this section:
+
+"(1) The term 'covered human resources personnel' means members of the Armed Forces and civilian employees of the Department of Defense, including human resources professionals, hiring managers, and recruiters, who are responsible for hiring technical talent.
+
+"(2) The term 'technical talent' means individuals with expertise in high priority technical disciplines.
+
+"(d) Termination.—The requirement to carry out the pilot program under this section shall terminate five years after the date of the enactment of this Act."
+
+#### Pilot Program on Self-directed Training in Advanced Technologies ####
+
+Pub. L. 116–283, div. A, title II, §248, Jan. 1, 2021, 134 Stat. 3492, provided that:
+
+"(a) Online Courses.—The Secretary of Defense shall carry out a pilot program under which the Secretary makes available a list of approved online courses relating to advanced technologies that may be taken by civilian employees of the Department of Defense and members of the Armed Forces on a voluntary basis while not engaged in the performance of their duties.
+
+"(b) Procedures.—The Secretary shall establish procedures for the development, selection, approval, adoption, and evaluation of online courses under subsection (a) to ensure that such courses are supportive of the goals of this section and overall goals for the training and education of the civilian and military workforce of the Department of Defense.
+
+"(c) Documentation of Completion.—The Secretary of Defense shall develop and implement a system—
+
+"(1) to confirm whether a civilian employee of the Department of Defense or member of the Armed Forces has completed an online course approved by the Secretary under subsection (a); and
+
+"(2) to document the completion of such course by such employee or member.
+
+"(d) Incentives.—The Secretary of Defense shall develop and implement incentives to encourage civilian employees of the Department of Defense and members of the Armed Forces to complete online courses approved by the Secretary under subsection (a).
+
+"(e) Metrics.—The Secretary of Defense shall develop metrics to evaluate whether, and to what extent, the pilot program under this section improves the ability of participants—
+
+"(1) to perform job-related functions; and
+
+"(2) to execute relevant missions of the Department of Defense.
+
+"(f) Advanced Technologies Defined.—In this section, the term 'advanced technologies' means technologies that the Secretary of Defense determines to be in high-demand within the Department of Defense and to which significant research and development efforts are devoted, including technologies such as artificial intelligence, data science, machine learning, fifth-generation telecommunications technology, and biotechnology.
+
+"(g) Deadline.—The Secretary of Defense shall carry out the activities described in subsections (a) through (e) not later than one year after the date of the enactment of this Act [Jan. 1, 2021].
+
+"(h) Sunset.—This section shall terminate on October 1, 2024."
+
+#### Training Program Regarding Foreign Malign Influence Campaigns ####
+
+Pub. L. 116–283, div. A, title V, §589E, Jan. 1, 2021, 134 Stat. 3661, provided that:
+
+"(a) Establishment.—Not later than September 30, 2021, the Secretary of Defense shall establish a program for training members of the Armed Forces and civilian employees of the Department of Defense regarding the threat of foreign malign influence campaigns targeted at such individuals and the families of such individuals, including such campaigns carried out through social media.
+
+"(b) Designation of Official to Coordinate and Integrate.—Not later than 30 days after the date of enactment of this Act [Jan. 1, 2021], the Secretary shall designate an official of the Department who shall be responsible for coordinating and integrating the training program under this section.
+
+"(c) Best Practices.—In coordinating and integrating the training program under this section, the official designated under subsection (b) shall review best practices of existing training programs across the Department.
+
+"(d) Report Required.—Not later than October 30, 2021, the Secretary shall submit a report to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] detailing the program established under this section.
+
+"(e) Foreign Malign Influence Defined.—In this section, the term 'foreign malign influence' has the meaning given that term in section 119C of the National Security Act of 1947 (50 U.S.C. 3059)."
+
 #### Collection of Blast Exposure Information ####
 
 Pub. L. 116–92, div. A, title VII, §742(b), Dec. 20, 2019, 133 Stat. 1469, provided that: "The Secretary of Defense shall collect blast exposure information with respect to a member of the Armed Forces in a manner—

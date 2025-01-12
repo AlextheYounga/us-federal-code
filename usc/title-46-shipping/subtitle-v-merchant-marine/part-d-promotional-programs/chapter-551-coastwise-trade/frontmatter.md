@@ -46,9 +46,13 @@ Sec.
 
 55122. Floating dry docks.
 
+55123. Priority loading for coal.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title X, §1024(b)(1)(B)(ii), Jan. 1, 2021, 134 Stat. 3842, added item 55123.
 
 **2014**—Pub. L. 113–291, div. C, title XXXV, §3502(b), Dec. 19, 2014, 128 Stat. 3904, added item 55122.
 

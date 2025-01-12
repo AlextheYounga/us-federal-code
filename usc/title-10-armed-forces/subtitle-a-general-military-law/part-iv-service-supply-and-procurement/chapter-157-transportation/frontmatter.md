@@ -2,7 +2,7 @@
 
 Sec.
 
-2631. Supplies: preference to United States vessels.
+2631. Preference for United States vessels in transporting supplies by sea.
 
 2631a. Contingency planning: sealift and related intermodal transportation requirements.
 
@@ -55,6 +55,8 @@ Sec.
 2652. Prohibition on charge of certain tariffs on aircraft traveling through channel routes.
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title X, §1024(a)(2), Jan. 1, 2021, 134 Stat. 3842, substituted "Preference for United States vessels in transporting supplies by sea" for "Supplies: preference to United States vessels" in item 2631.
 
 **2017**—Pub. L. 115–91, div. A, title X, §1044(b), Dec. 12, 2017, 131 Stat. 1555, added item 2652.
 

@@ -42,6 +42,10 @@ Sec.
 
 320. Coast Guard Junior Reserve Officers' Training Corps.
 
+321. Congressional affairs; Director.
+
+322. Redistricting notification requirement.
+
 #### **Editorial Notes** ####
 
 #### Prior Provisions ####
@@ -49,6 +53,8 @@ Sec.
 A prior analysis for chapter 3 "COMPOSITION AND ORGANIZATION" consisted of items 41 "Grades and ratings", 41a "Active duty promotion list", 42 "Number and distribution of commissioned officers on active duty promotion list", 44 "Commandant; appointment", 46 "Retirement of Commandant or Vice Commandant", 47 "Vice Commandant; appointment", 50 "Vice admirals", 51 "Retirement", 52 "Vice admirals and admiral, continuity of grade", 53 "Office of the Coast Guard Reserve; Director", 54 "Chief of Staff to President: appointment", 56 "Chief Acquisition Officer", 57 "Prevention and response workforces", 58 "Centers of expertise for Coast Guard prevention and response", 59 "Marine industry training programs", and 60 "Training course on workings of Congress", prior to repeal by Pub. L. 115–282, title I, §104(a), Dec. 4, 2018, 132 Stat. 4196.
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. G, title LVXXXII [LXXXII], §8211(b), title LVXXXV [LXXXV], §8501(b)(1), Jan. 1, 2021, 134 Stat. 4649, 4746, added items 321 and 322.
 
 **2019**—Pub. L. 116–92, div. A, title V, §519(b), Dec. 20, 2019, 133 Stat. 1351, added item 320.
 

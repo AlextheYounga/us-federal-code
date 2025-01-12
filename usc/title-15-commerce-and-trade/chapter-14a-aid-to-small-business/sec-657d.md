@@ -38,7 +38,7 @@ The term "SBIR program" has the same meaning as in section 638(e)(4) of this tit
 
 #### (9) State ####
 
-The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa.
+The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (10) STTR program ####
 
@@ -230,7 +230,7 @@ Of the total amount made available under paragraph (1) for fiscal years 2001 thr
 
 The authority to carry out the FAST program under this section shall terminate on September 30, 2005.
 
-(Pub. L. 85–536, §2[34], as added Pub. L. 106–554, §1(a)(9) [title I, §111(b)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–674; amended Pub. L. 107–50, §8, Oct. 15, 2001, 115 Stat. 265; Pub. L. 114–88, div. B, title I, §2104, Nov. 25, 2015, 129 Stat. 691.)
+(Pub. L. 85–536, §2[34], as added Pub. L. 106–554, §1(a)(9) [title I, §111(b)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–674; amended Pub. L. 107–50, §8, Oct. 15, 2001, 115 Stat. 265; Pub. L. 114–88, div. B, title I, §2104, Nov. 25, 2015, 129 Stat. 691; Pub. L. 116–283, div. A, title VIII, §867(2), Jan. 1, 2021, 134 Stat. 3787.)
 
 #### References in Text ####
 
@@ -241,6 +241,8 @@ Subpar. (C) of section 42(d)(5) of title 26, referred to in subsec. (e)(2)(B), w
 A prior section 2[34] of Pub. L. 85–536 was renumbered section 2[49] and is set out as a note under section 631 of this title.
 
 #### Amendments ####
+
+**2021**—Subsec. (a)(9). Pub. L. 116–283 substituted "American Samoa, and the Commonwealth of the Northern Mariana Islands" for "and American Samoa".
 
 **2015**—Subsec. (a)(3) to (10). Pub. L. 114–88, §2104(a), added par. (3) and redesignated former pars. (3) to (9) as (4) to (10), respectively.
 

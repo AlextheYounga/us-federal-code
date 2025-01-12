@@ -22,6 +22,10 @@ Sec.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Cybersecurity in STEM Programs of the National Aeronautics and Space Administration ####
+
+Pub. L. 116–283, div. H, title XCIV, §9406, Jan. 1, 2021, 134 Stat. 4812, provided that: "In carrying out any STEM education program of the National Aeronautics and Space Administration (referred to in this section as 'NASA'), including a program of the Office of STEM Engagement, the Administrator of NASA shall, to the maximum extent practicable, encourage the inclusion of cybersecurity education opportunities in such program."
+
 #### NASA Internship and Fellowship Opportunities ####
 
 Pub. L. 115–303, §3, Dec. 11, 2018, 132 Stat. 4399, provided that: "Not later than October 1, 2018, the Administrator of the National Aeronautics and Space Administration (in this section referred to as 'NASA') shall institute a process to encourage the recruitment of qualified candidates who are women or individuals who are underrepresented in the fields of science, technology, engineering, and mathematics (STEM) and computer science for internships and fellowships at NASA with relevance to the aerospace sector and related fields."

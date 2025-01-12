@@ -12,9 +12,11 @@
 
 (C) A court-martial relating to the offense.
 
-(D) A public proceeding of the service clemency and parole board relating to the offense.
+(D) A post-trial motion, filing, or hearing that may address the finding or sentence of a court-martial with respect to the accused, unseal privileged or private information of the victim, or result in the release of the accused.
 
-(E) The release or escape of the accused, unless such notice may endanger the safety of any person.
+(E) A public proceeding of the service clemency and parole board relating to the offense.
+
+(F) The release or escape of the accused, unless such notice may endanger the safety of any person.
 
 (3) The right not to be excluded from any public hearing or proceeding described in paragraph (2) unless the military judge or preliminary hearing officer, as applicable, after receiving clear and convincing evidence, determines that testimony by the victim of an offense under this chapter would be materially altered if the victim heard other testimony at that hearing or proceeding.
 
@@ -74,9 +76,11 @@
 
 (2) If requested by an alleged victim who is subject to a request for interview under paragraph (1), any interview of the victim by counsel for the accused shall take place only in the presence of the counsel for the Government, a counsel for the victim, or, if applicable, a victim advocate.
 
-(Added Pub. L. 113–66, div. A, title XVII, §1701(a)(1), Dec. 26, 2013, 127 Stat. 952; amended Pub. L. 113–291, div. A, title V, §§531(f), 535, Dec. 19, 2014, 128 Stat. 3364, 3368; Pub. L. 114–92, div. A, title V, §531, Nov. 25, 2015, 129 Stat. 814; Pub. L. 114–328, div. E, title LI, §5105, title LVI, §5203(e)(1), Dec. 23, 2016, 130 Stat. 2895, 2906; Pub. L. 115–91, div. A, title V, §531(a), title X, §1081(a)(22), (c)(1)(B), Dec. 12, 2017, 131 Stat. 1384, 1595, 1597.)
+(Added Pub. L. 113–66, div. A, title XVII, §1701(a)(1), Dec. 26, 2013, 127 Stat. 952; amended Pub. L. 113–291, div. A, title V, §§531(f), 535, Dec. 19, 2014, 128 Stat. 3364, 3368; Pub. L. 114–92, div. A, title V, §531, Nov. 25, 2015, 129 Stat. 814; Pub. L. 114–328, div. E, title LI, §5105, title LVI, §5203(e)(1), Dec. 23, 2016, 130 Stat. 2895, 2906; Pub. L. 115–91, div. A, title V, §531(a), title X, §1081(a)(22), (c)(1)(B), Dec. 12, 2017, 131 Stat. 1384, 1595, 1597; Pub. L. 116–283, div. A, title V, §541, Jan. 1, 2021, 134 Stat. 3611.)
 
 #### Amendments ####
+
+**2021**—Subsec. (a)(2)(D) to (F). Pub. L. 116–283 added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
 **2017**—Subsec. (b). Pub. L. 115–91, §1081(c)(1)(B), which directed striking out "(the Uniform Code of Military Justice)" after "this chapter", was not executed in light of the prior amendment by section 1081(a)(22) of Pub. L. 115–91, to reflect the probable intent of Congress. See Amendment note below and Effective Date of 2017 Amendment note below.
 

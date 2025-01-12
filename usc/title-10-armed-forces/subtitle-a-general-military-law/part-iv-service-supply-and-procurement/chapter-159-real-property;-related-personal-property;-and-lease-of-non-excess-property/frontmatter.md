@@ -62,7 +62,7 @@ Sec.
 
 2687. Base closures and realignments.
 
-2687a. Overseas base closures and realignments and basing master plans.
+2687a. Overseas base closures and realignments and status of United States overseas military locations.
 
 2688. Utility systems: conveyance authority.
 
@@ -88,6 +88,10 @@ Sec.
 
 2697. Acceptance and use of landing fees charged for use of domestic military airfields by civil aircraft.
 
+#### Amendment of Analysis ####
+
+Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1844(b)(2)(B), Jan. 1, 2021, 134 Stat. 4151, 4246, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this analysis is amended by striking the item relating to section 2681. See 2021 Amendment note below.
+
 #### Historical and Revision Notes ####
 
 #### 1962 Act ####
@@ -95,6 +99,8 @@ Sec.
 This section makes necessary clerical amendments to chapter analysis.
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title XVIII, §1844(b)(2)(B), title XXVIII, §2822(b)(3), Jan. 1, 2021, 134 Stat. 4246, 4332, struck out item 2681 "Use of test and evaluation installations by commercial entities" and substituted "Overseas base closures and realignments and status of United States overseas military locations" for "Overseas base closures and realignments and basing master plans" in item 2687a.
 
 **2017**—Pub. L. 115–91, div. B, title XXVIII, §2814(c), Dec. 12, 2017, 131 Stat. 1850, substituted "Restoration of land used by permit or damaged by mishap; reimbursement of State costs of fighting wildland fires" for "Restoration of land used by permit or lease" in item 2691.
 
@@ -191,6 +197,66 @@ Pub. L. 96–418, title VIII, §806(b), Oct. 10, 1980, 94 Stat. 1777, as amended
 **1958**—Pub. L. 85–861, §1(52), Sept. 2, 1958, 72 Stat. 1461, added items 2672 to 2678.
 
 Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
+
+#### Prizes for Development of Non-PFAS-Containing Fire-Fighting Agent ####
+
+Pub. L. 116–283, div. A, title III, §330, Jan. 1, 2021, 134 Stat. 3528, provided that:
+
+"(a) Authority.—The Secretary of Defense, acting through the Assistant Secretary of Defense for Sustainment and the Strategic Environmental Research and Development Program, may carry out a program to award cash prizes and other types of prizes that the Secretary determines are appropriate to recognize outstanding achievements in the development of a non-PFAS-containing fire-fighting agent to replace aqueous film-forming foam with the potential for application to the performance of the military missions of the Department of Defense.
+
+"(b) Competition Requirements.—A program under subsection (a) shall use a competitive process for the selection of recipients of cash prizes. The process shall include the widely-advertised solicitation of submissions of research results, technology developments, and prototypes.
+
+"(c) Limitations.—The following limitations shall apply to a program under subsection (a):
+
+"(1) No prize competition may result in the award of a prize with a fair market value of more than $5,000,000.
+
+"(2) No prize competition may result in the award of more than $1,000,000 in cash prizes without the approval of the Assistant Secretary of Defense for Sustainment.
+
+"(3) No prize competition may result in the award of a solely nonmonetary prize with a fair market value of more than $10,000 without the approval of the Assistant Secretary of Defense for Sustainment.
+
+"(d) Relationship to Other Authority.—A program under subsection (a) may be carried out in conjunction with or in addition to the exercise of any other authority of the Department of Defense.
+
+"(e) Use of Prize Authority.—Use of prize authority under this section shall be considered the use of competitive procedures for the purposes of section 2304 of title 10, United States Code.
+
+"(f) PFAS Defined.—In this section, the term 'PFAS' means—
+
+"(1) man-made chemicals of which all of the carbon atoms are fully fluorinated carbon atoms; and
+
+"(2) man-made chemicals containing a mix of fully fluorinated carbon atoms, partially fluorinated carbon atoms, and nonfluorinated carbon atoms.
+
+"(g) Termination.—The authority to carry out a program under this section shall terminate on October 1, 2024."
+
+#### Research and Development of Alternative to Aqueous Film-Forming Foam ####
+
+Pub. L. 116–283, div. A, title III, §334, Jan. 1, 2021, 134 Stat. 3531, provided that:
+
+"(a) In General.—The Secretary of Defense, acting through the National Institute of Standards and Technology and in consultation with appropriate stakeholders and manufactures, research institutions, and other Federal agencies shall award grants and carry out other activities to—
+
+"(1) promote and advance the research and development of additional alternatives to aqueous film-forming foam (in this section referred to as 'AFFF') containing per- and polyfluoroalkyl substances (in this section referred to as 'PFAS') to facilitate the development of a military specification and subsequent fielding of a PFAS-free fire-fighting foam;
+
+"(2) advance the use of green and sustainable chemistry for a fluorine-free alternative to AFFF;
+
+"(3) increase opportunities for sharing best practices within the research and development sector with respect to AFFF;
+
+"(4) assist in the testing of potential alternatives to AFFF; and
+
+"(5) provide guidelines on priorities with respect to an alternative to AFFF.
+
+"(b) Additional Requirements.—In carrying out the program required under subsection (a), the Secretary shall—
+
+"(1) take into consideration the different uses of AFFF and the priorities of the Department of Defense in finding an alternative;
+
+"(2) prioritize green and sustainable chemicals that do not pose a threat to public health or the environment; and
+
+"(3) use and leverage research from existing Department of Defense programs.
+
+"(c) Report.—The Secretary shall submit to Congress a report on—
+
+"(1) the priorities and actions taken with respect to finding an alternative to AFFF and the implementation of such priorities; and
+
+"(2) any alternatives the Secretary has denied, and the reason for any such denial.
+
+"(d) Use of Funds.—This section shall be carried out using amounts authorized to be available for the Strategic Environmental Research and Development Program."
 
 #### Replacement of Fluorinated Aqueous Film-Forming Foam ####
 

@@ -10,7 +10,11 @@ Sec.
 
 1903. Annual Board of Visitors.
 
-1904. Participation in Federal, State, or other educational research grants.
+1904. Advisory Board on Women at the Coast Guard Academy.
+
+1905. Coast Guard Academy minority outreach team program.
+
+1906. Participation in Federal, State, or other educational research grants.
 
 #### SUBCHAPTER II—CADETS ####
 
@@ -59,5 +63,7 @@ Sec.
 A prior chapter 19, consisting of sections 690 to 693, related to carrying out an environmental compliance and restoration program, prior to repeal by Pub. L. 115–282, title I, §§104(c)(2), 110(a), Dec. 4, 2018, 132 Stat. 4199, 4211.
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. G, title LVXXXII [LXXXII], §§8215(b)(3), 8275(b), Jan. 1, 2021, 134 Stat. 4651, 4685, substituted "Advisory Board on Women at the Coast Guard Academy." for "Participation in Federal, State, or other educational research grants." in item 1904 and added items 1905 and 1906. Item 1906 was added at the end of subchapter I in the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language to amend the analysis for this chapter by adding that item "at the end".
 
 **2018**—Pub. L. 115–282, title I, §110(a), Dec. 4, 2018, 132 Stat. 4211, inserted chapter 19 designation and heading and added items 1901 to 1948.

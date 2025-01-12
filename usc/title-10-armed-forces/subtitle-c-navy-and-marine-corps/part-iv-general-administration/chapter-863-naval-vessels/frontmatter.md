@@ -52,6 +52,8 @@ Sec.
 
 8684. Overhaul of naval vessels: competition between public and private shipyards.
 
+8684a. Repair, maintenance, or overhaul of naval vessels: rate for progress payments.
+
 8685. Preservation of Navy shipbuilding capability.
 
 8686. Support for transfers of decommissioned vessels and shipboard equipment.
@@ -60,17 +62,27 @@ Sec.
 
 8688. Warranty requirements for shipbuilding contracts.
 
+8688a. Construction and conversion of naval vessels: liens.
+
 8689. Requirements for availability of funds relating to advanced naval nuclear fuel systems based on low-enriched uranium.
 
 8690. Limitation on length of overseas forward deployment of naval vessels.
 
 8691. Nuclear-powered aircraft carriers: dismantlement and disposal.
 
-8692. Ford-class aircraft carriers: cost limitation baselines.
+8692. 1
+
+Ford-class aircraft carriers: cost limitation baselines.
+
+8692. 1 Biennial report on shipbuilder training and the defense industrial base.
 
 #### Amendments ####
 
-**2019**—Pub. L. 116–92, div. A, title I, §121(b), title X, §1034(b), Dec. 20, 2019, 133 Stat. 1234, 1583, added items 8669b and 8692.
+**2021**—Pub. L. 116–283, div. A, title XVIII, §1876(d), Jan. 1, 2021, 134 Stat. 4291, added items 8684a and 8688a.
+
+Pub. L. 116–283, div. A, title X, §1026(b), Jan. 1, 2021, 134 Stat. 3844, added item 8692 "Biennial report on shipbuilder training and the defense industrial base".
+
+**2019**—Pub. L. 116–92, div. A, title I, §121(b), title X, §1034(b), Dec. 20, 2019, 133 Stat. 1234, 1583, added item 8669b and item 8692 "Ford-class aircraft carriers: cost limitation baselines".
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 633 of this title as this chapter and items 7291 to 7294, 7297, 7299 to 7301, and 7303 to 7321 as 8661 to 8664, 8667, 8669 to 8671, and 8673 to 8691, respectively.
 
@@ -127,3 +139,5 @@ Pub. L. 97–295, §1(49)(B), Oct. 12, 1982, 96 Stat. 1299, added item 7310.
 Pub. L. 97–252, title XI, §1127(b), Sept. 8, 1982, 96 Stat. 759, added item 7309.
 
 **1981**—Pub. L. 97–86, title IX, §911(b)(2), Dec. 1, 1981, 95 Stat. 1122, struck out item 7300 "Contracts for construction: profit limitation".
+
+[<sup>1</sup> So in original. Two items 8692 have been enacted.](#CHAPTER863_1)

@@ -22,7 +22,7 @@ Act June 30, 1949, ch. 288, title VI, §604, formerly title V, §504, 63 Stat. 4
 
 #### Prohibition on Certain Telecommunications and Video Surveillance Services or Equipment ####
 
-Pub. L. 115–232, div. A, title VIII, §889, Aug. 13, 2018, 132 Stat. 1917, provided that:
+Pub. L. 115–232, div. A, title VIII, §889, Aug. 13, 2018, 132 Stat. 1917, as amended by Pub. L. 116–283, div. A, title X, §1081(d)(5), Jan. 1, 2021, 134 Stat. 3874, provided that:
 
 "(a) Prohibition on Use or Procurement.—(1) The head of an executive agency may not—
 
@@ -60,7 +60,7 @@ Pub. L. 115–232, div. A, title VIII, §889, Aug. 13, 2018, 132 Stat. 1917, pro
 
 "(f) Definitions.—In this section:
 
-"(1) Appropriate congressional committees.—The term 'appropriate congressional committees' ' [sic] means—
+"(1) Appropriate congressional committees.—The term 'appropriate congressional committees' means—
 
 "(A) the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, and the Committee on Homeland Security and Governmental Affairs of the Senate; and
 
@@ -79,6 +79,8 @@ Pub. L. 115–232, div. A, title VIII, §889, Aug. 13, 2018, 132 Stat. 1917, pro
 "(D) Telecommunications or video surveillance equipment or services produced or provided by an entity that the Secretary of Defense, in consultation with the Director of the National Intelligence or the Director of the Federal Bureau of Investigation, reasonably believes to be an entity owned or controlled by, or otherwise connected to, the government of a covered foreign country.
 
 "(4) Executive agency.—The term 'executive agency' has the meaning given the term in section 133 of title 41, United States Code."
+
+[Pub. L. 116–283, div. A, title X, §1081(d), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(d)(5) of Pub. L. 116–283 to section 889 of Pub. L. 115–232, set out above, is effective as of Aug. 13, 2018, and as if included in Pub. L. 115–232.]
 
 #### Share-in-Savings Contracts ####
 

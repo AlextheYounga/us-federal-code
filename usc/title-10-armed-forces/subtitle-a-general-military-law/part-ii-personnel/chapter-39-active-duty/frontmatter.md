@@ -24,9 +24,11 @@ Sec.
 
 690. Retired members ordered to active duty: limitation on number.
 
-691. Permanent end strength levels to support two major regional contingencies.
+691. Permanent end strength levels to support the National Defense Strategy 1
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title IV, §402(b), Jan. 1, 2021, 134 Stat. 3556, added item 691 and struck out former item 691 "Permanent end strength levels to support two major regional contingencies".
 
 **2013**—Pub. L. 113–66, div. A, title XVII, §1713(b), Dec. 26, 2013, 127 Stat. 964, added item 674.
 
@@ -69,3 +71,5 @@ Pub. L. 102–25, title VII, §701(e)(3), Apr. 6, 1991, 105 Stat. 114, transferr
 **1962**—Pub. L. 87–651, title I, §102(b), Sept. 7, 1962, 76 Stat. 508, added item 687.
 
 **1958**—Pub. L. 85–861, §1(16), Sept. 2, 1958, 72 Stat. 1441, added items 684 and 685.
+
+[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER39_1)

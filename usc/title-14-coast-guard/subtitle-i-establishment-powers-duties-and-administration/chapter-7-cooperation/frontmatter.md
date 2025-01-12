@@ -38,6 +38,10 @@ Sec.
 
 718. Training; emergency response providers.
 
+719. Research projects; transactions other than contracts and grants.
+
+720. VHF communication services. 1
+
 #### **Editorial Notes** ####
 
 #### Prior Provisions ####
@@ -48,4 +52,8 @@ A prior analysis for chapter 7 "COOPERATION WITH OTHER AGENCIES" consisted of it
 
 #### Amendments ####
 
+**2021**—Pub. L. 116–283, div. G, title LVXXXII [LXXXII], §8218(b), title LVXXXV [LXXXV], §8501(b)(2), Jan. 1, 2021, 134 Stat. 4655, 4746, added items 719 and 720.
+
 **2018**—Pub. L. 115–282, title I, §106(a), title III, §306(b), Dec. 4, 2018, 132 Stat. 4202, 4247, inserted chapter 7 designation and heading and added items 701 to 718.
+
+[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER7_1)

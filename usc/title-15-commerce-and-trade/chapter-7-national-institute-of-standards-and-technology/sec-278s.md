@@ -490,6 +490,10 @@ A prior section 34 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 
 **2019**—Pub. L. 116–92 amended section generally. Prior to amendment, section related to Network for Manufacturing Innovation.
 
+#### Coordination With Hollings Manufacturing Extension Partnership Centers ####
+
+Pub. L. 116–283, div. H, title XCIV, §9415, Jan. 1, 2021, 134 Stat. 4822, provided that: "Notwithstanding section 34(d)(2)(A)(iv) of the National Institute for [of] Standards and Technology Act (15 U.S.C. 278s(d)(2)(A)(iv)), each Manufacturing USA Institute (established under subsection (d) of such section) shall, as appropriate, contract with a Hollings Manufacturing Extension Partnership Center (established under section 25 of such Act [15 U.S.C. 278k]) in each State in which such Institute provides services, either directly or through another such Center, to provide defense industrial base-related outreach, technical assistance, workforce development, and technology transfer assistance to small and medium-sized manufacturers. No Center shall charge in excess of its standard rate for such services. Funds received by a Center through such a contract shall not constitute financial assistance under section 25(e) of such Act."
+
 #### Expansion of Manufacturing USA Network ####
 
 Pub. L. 116–92, div. A, title XVII, §1741(b), Dec. 20, 2019, 133 Stat. 1837, provided that: "Subject to the availability of appropriations, the Secretary of Commerce shall take such actions as may be necessary to increase the number of Manufacturing USA institutes that participate in the Manufacturing USA Network."

@@ -20,7 +20,7 @@ Sec.
 
 2829. Multi-year contracts for supplies and services.
 
-2830. Occupancy of substandard family housing units.
+[2830. Repealed.]
 
 2831. Military family housing management account.
 
@@ -41,6 +41,8 @@ Sec.
 2838. Leasing of military family housing to Secretary of Defense.
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. B, title XXVIII, §2812(b), Jan. 1, 2021, 134 Stat. 4327, struck out item 2830 "Occupancy of substandard family housing units".
 
 **2013**—Pub. L. 113–66, div. B, title XXVIII, §2802(a)(2), Dec. 26, 2013, 127 Stat. 1006, struck out item 2837 "Limited partnerships with private developers of housing".
 

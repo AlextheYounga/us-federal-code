@@ -54,6 +54,12 @@ Sec.
 
 547. Rewards for apprehension of persons interfering with aids to navigation.
 
+548. Prohibition against officers and employees being interested in contracts for materials.
+
+549. Lighthouse and other sites; necessity and sufficiency of cession by State of jurisdiction.
+
+550. Marking pierheads in certain lakes.
+
 #### SUBCHAPTER IV—MISCELLANEOUS ####
 
 561. Icebreaking in polar regions.
@@ -69,5 +75,7 @@ Sec.
 A prior analysis for chapter 5 "FUNCTIONS AND POWERS" consisted of items 81 "Aids to navigation authorized", 83 "Unauthorized aids to maritime navigation; penalty", 84 "Interference with aids to navigation; penalty", 85 "Aids to maritime navigation; penalty", 86 "Marking of obstructions", 87 "Icebreaking in polar regions", 88 "Saving life and property", 89 "Law enforcement", 90 "Arctic maritime transportation", 91 "Safety of naval vessels", 92 "Secretary; general powers", 93 "Commandant; general powers", 94 "Oceanographic research", 95 "Special agents of the Coast Guard Investigative Service law enforcement authority", 96 "Prohibition on overhaul, repair, and maintenance of Coast Guard vessels in foreign shipyards", 97 "Procurement of buoy chain", 98 "National Coast Guard Museum", 99 "Enforcement authority", 100 "Enforcement of coastwise trade laws", 101 "Appeals and waivers", 102 "Agreements", 103 "Notification of certain determinations", and 104 "Protecting against unmanned aircraft", prior to repeal by Pub. L. 115–282, title I, §105(a), Dec. 4, 2018, 132 Stat. 4199.
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. G, title LVXXXV [LXXXV], §8509(c), Jan. 1, 2021, 134 Stat. 4756, added items 548 to 550.
 
 **2018**—Pub. L. 115–282, title I, §105(a), title III, §§305(b), 318(b), Dec. 4, 2018, 132 Stat. 4200, 4246, 4252, inserted chapter 5 designation and heading and added items 501 to 563.

@@ -72,7 +72,19 @@ Sec.
 
 2229b. Comptroller General assessment of acquisition programs and initiatives.
 
+#### Amendment of Analysis ####
+
+Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1807(b)(2)(B), (g)(2), 1809(f)(2), (g)(2), (i)(2), Jan. 1, 2021, 134 Stat. 4151, 4157, 4159, 4161, 4162, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this analysis is amended as follows:
+
+(1) by amending item 2202 to read "Regulations on production, warehousing, and supply distribution functions"; and
+
+(2) by striking items 2212, 2213, 2216, 2217, and 2229b.
+
+See 2021 Amendment note below.
+
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title XVIII, §§1807(b)(2)(B), (g)(2), 1809(f)(2), (g)(2), (i)(2), Jan. 1, 2021, 134 Stat. 4157, 4159, 4161, 4162, substituted "Regulations on production, warehousing, and supply distribution functions" for "Regulations on procurement, production, warehousing, and supply distribution functions" in item 2202 and struck out items 2212 "Obligations for contract services: reporting in budget object classes", 2213 "Limitation on acquisition of excess supplies", 2216 "Defense Modernization Account", 2217 "Comparable budgeting for common procurement weapon systems", and 2229b "Comptroller General assessment of acquisition programs and initiatives".
 
 **2019**—Pub. L. 116–92, div. A, title XVII, §1731(a)(33), Dec. 20, 2019, 133 Stat. 1814, substituted "Comptroller General assessment of acquisition programs and initiatives" for "Comptroller General assessment of acquisition programs and related initiatives" in item 2229b.
 

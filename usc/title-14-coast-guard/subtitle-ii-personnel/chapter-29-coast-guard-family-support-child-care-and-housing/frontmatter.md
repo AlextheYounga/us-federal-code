@@ -28,6 +28,8 @@ Sec.
 
 2925. Parent partnerships with child development centers.
 
+2926. Family child care providers.
+
 #### SUBCHAPTER III—HOUSING ####
 
 2941. Definitions.
@@ -51,5 +53,7 @@ Sec.
 A prior analysis for chapter 29 "REPORTS" consisted of items 2901 "Transmission of annual Coast Guard authorization request", 2902 "Capital investment plan", 2903 "Major acquisitions", 2904 "Manpower requirements plan", 2905 "Annual performance report", and 2906 "Major acquisition program risk assessment", prior to repeal by Pub. L. 115–282, title I, §117(a), Dec. 4, 2018, 132 Stat. 4229.
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. G, title LVXXXII [LXXXII], §8237(b)(2), Jan. 1, 2021, 134 Stat. 4665, which directed amendment of the analysis for this chapter by adding item 2926 "at the end", was executed by adding the item after item 2925, which item was at the end of the items for subchapter II of this chapter, to reflect the probable intent of Congress.
 
 **2018**—Pub. L. 115–282, title I, §117(a), Dec. 4, 2018, 132 Stat. 4230, inserted chapter 29 designation and heading and added items 2901 to 2947.

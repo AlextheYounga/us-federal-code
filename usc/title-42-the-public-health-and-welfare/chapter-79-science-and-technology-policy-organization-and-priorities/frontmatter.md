@@ -12,6 +12,8 @@ Sec.
 
 6604. Interagency working group on research regulation.
 
+6605. Disclosure of funding sources in applications for Federal research and development awards.
+
 #### SUBCHAPTER II—OFFICE OF SCIENCE AND TECHNOLOGY POLICY ####
 
 6611. Establishment of Office.

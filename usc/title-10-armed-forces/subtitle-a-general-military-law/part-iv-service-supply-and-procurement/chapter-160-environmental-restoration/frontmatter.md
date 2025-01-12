@@ -26,7 +26,13 @@ Sec.
 
 2711. Annual report on defense environmental programs.
 
+2712. Reporting on usage and spills of aqueous film-forming foam.
+
+2713. Native American lands environmental mitigation program.
+
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title III, §§318(b), 319(b), Jan. 1, 2021, 134 Stat. 3519, 3521, added items 2712 and 2713.
 
 **2011**—Pub. L. 112–81, div. A, title III, §317(b), title X, §1061(22)(B), Dec. 31, 2011, 125 Stat. 1360, 1584, struck out item 2706 "Annual reports to Congress" and added item 2711.
 

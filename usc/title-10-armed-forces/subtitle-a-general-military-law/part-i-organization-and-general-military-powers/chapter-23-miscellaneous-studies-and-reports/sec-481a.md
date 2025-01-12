@@ -18,9 +18,17 @@
 
 (c) Report to Congress.—Upon the completion of a survey under this section, the Secretary shall submit to Congress a report containing the results of the survey.
 
-(Added Pub. L. 113–291, div. A, title X, §1073(a)(1), Dec. 19, 2014, 128 Stat. 3517; amended Pub. L. 116–92, div. A, title V, §591(b), Dec. 20, 2019, 133 Stat. 1414.)
+(d) Postponement.—(1) The Secretary of Defense may postpone the conduct of a survey under this section if the Secretary determines that conducting such survey is not practicable due to a war or national emergency declared by the President or Congress.
+
+(2) The Secretary shall ensure that a survey postponed under paragraph (1) is conducted as soon as practicable after the end of the period of war or national emergency concerned, or earlier if the Secretary determines appropriate.
+
+(3) The Secretary shall notify Congress of a determination under paragraph (1) not later than 30 days after the date on which the Secretary makes such determination.
+
+(Added Pub. L. 113–291, div. A, title X, §1073(a)(1), Dec. 19, 2014, 128 Stat. 3517; amended Pub. L. 116–92, div. A, title V, §591(b), Dec. 20, 2019, 133 Stat. 1414; Pub. L. 116–283, div. A, title V, §552(c), Jan. 1, 2021, 134 Stat. 3632.)
 
 #### Amendments ####
+
+**2021**—Subsec. (d). Pub. L. 116–283 added subsec. (d).
 
 **2019**—Subsecs. (a), (b). Pub. L. 116–92 inserted "(including unwanted sexual contact)" after "assault" wherever appearing.
 

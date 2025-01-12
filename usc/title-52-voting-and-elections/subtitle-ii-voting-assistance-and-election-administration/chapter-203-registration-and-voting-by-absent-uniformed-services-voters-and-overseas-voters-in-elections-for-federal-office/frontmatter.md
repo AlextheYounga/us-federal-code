@@ -4,6 +4,8 @@ Sec.
 
 20301. Federal responsibilities.
 
+20301a. Duties of Secretary under Uniformed and Overseas Citizens Absentee Voting Act.
+
 20302. State responsibilities.
 
 20303. Federal write-in absentee ballot in general elections for Federal office for absent uniformed services voters and overseas voters.

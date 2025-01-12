@@ -6,9 +6,7 @@ Sec.
 
 132. Deputy Secretary of Defense.
 
-132a. Chief Management Officer.
-
-[133. Repealed.]
+[132a, 133. Repealed.]
 
 133a. Under Secretary of Defense for Research and Engineering.
 
@@ -36,7 +34,7 @@ Sec.
 
 139a. Director of Cost Assessment and Program Evaluation.
 
-139b. Special Operations Policy and Oversight Council.
+139b. Secretariat for Special Operations; Special Operations Policy and Oversight Council.
 
 [139c. Repealed.]
 
@@ -56,7 +54,13 @@ Sec.
 
 145. Principal Advisor on Countering Weapons of Mass Destruction.
 
+146. Office of Local Defense Community Cooperation.
+
+147. Chief Diversity Officer.
+
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title IX, §§901(a)(3), 902(b)(2), 905(a)(2), 913(a)(2), Jan. 1, 2021, 134 Stat. 3794, 3797, 3799, 3803, added items 146 and 147, substituted "Secretariat for Special Operations; Special Operations Policy and Oversight Council" for "Special Operations Policy and Oversight Council" in item 139b, and struck out item 132a "Chief Management Officer".
 
 **2019**—Pub. L. 116–92, div. A, title XVI, §1621(e)(1)(D), Dec. 20, 2019, 133 Stat. 1733, substituted "Under Secretary of Defense for Intelligence and Security" for "Under Secretary of Defense for Intelligence" in item 137.
 
@@ -140,7 +144,7 @@ Pub. L. 96–342, title X, §1001(d)(2), Sept. 8, 1980, 94 Stat. 1119, substitut
 
 #### Effective Date of 2017 Amendment ####
 
-Pub. L. 115–91, div. A, title IX, §910(a)(2), Dec. 12, 2017, 131 Stat. 1517, provided that the amendment made by section 910(a)(2) is effective Feb. 1, 2018.
+Pub. L. 115–91, div. A, title IX, §910(a)(2), Dec. 12, 2017, 131 Stat. 1517, which provided that the amendment made by section 910(a)(2) was effective Feb. 1, 2018, was repealed by Pub. L. 116–283, div. A, title IX, §901(a)(2)(B), Jan. 1, 2021, 134 Stat. 3794.
 
 Pub. L. 115–91, div. A, title X, §1081(b)(1), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment made by section 1081(b)(1)(B) is effective as of Dec. 23, 2016.
 

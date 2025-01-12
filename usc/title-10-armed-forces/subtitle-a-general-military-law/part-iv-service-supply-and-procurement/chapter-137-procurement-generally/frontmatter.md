@@ -14,7 +14,7 @@ Sec.
 
 2302d. Major system: definitional threshold amounts.
 
-2302e. Contract authority for advanced development of initial or additional prototype units.
+2302e. Contract authority for development and demonstration of initial or additional prototype units.
 
 2303. Applicability of chapter.
 
@@ -126,7 +126,15 @@ Sec.
 
 2339b. Notification of Navy procurement production disruptions.
 
+2339c. Disclosures for offerors for certain shipbuilding major defense acquisition program contracts.
+
+#### Repeal of Chapter ####
+
+Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this chapter is repealed.
+
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title VIII, §§803(b), 831(b), Jan. 1, 2021, 134 Stat. 3735, 3753, added items 2302e and 2339c and struck out former item 2302e "Contract authority for advanced development of initial or additional prototype units".
 
 **2019**—Pub. L. 116–92, div. A, title VIII, §820(b), title XI, §1123(b)(3), title XVII, §1731(a)(39)(C), Dec. 20, 2019, 133 Stat. 1490, 1614, 1814, struck out "and certain other entities" after "businesses" in item 2304e and "and certain institutions of higher education" after "businesses" in item 2323a and added items 2339 and 2339b.
 

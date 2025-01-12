@@ -10,6 +10,10 @@ Sec.
 
 [2525. Renumbered.]
 
+#### Repeal of Subchapter ####
+
+Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, chapter 148 of this title, and therefore this subchapter, is repealed. See Effective Date of Repeal note below.
+
 #### Amendments ####
 
 **2000**—Pub. L. 106–398, §1 [[div. A], title III, §344(c)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, redesignated item 2525 as 2521 and added item 2522.
@@ -21,3 +25,7 @@ Sec.
 **1994**—Pub. L. 103–337, div. A, title II, §256(a)(2), Oct. 5, 1994, 108 Stat. 2704, substituted "Manufacturing Science and" for "Industrial Preparedness Manufacturing" in item 2525.
 
 **1993**—Pub. L. 103–160, div. A, title VIII, §801(a)(2), Nov. 30, 1993, 107 Stat. 1701, added item 2525.
+
+#### Effective Date of Repeal ####
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.

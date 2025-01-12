@@ -2,7 +2,7 @@
 
 (a) Policies and Procedures.—The Secretary of Defense shall establish policies and procedures for determining the most appropriate and cost efficient mix of military, civilian, and contractor personnel to perform the mission of the Department of Defense.
 
-(b) Risk Mitigation Over Cost.—In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces takes precedence over cost.
+(b) Risk Mitigation Over Cost.—In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces takes precedence over cost. The Secretary may not reduce the civilian workforce programmed full-time equivalent levels unless the Secretary conducts an appropriate analysis of the impacts of such reductions on workload, military force structure, lethality, readiness, operational effectiveness, stress on the military force, and fully burdened costs.
 
 (c) Delegation of Responsibilities.—The Secretary shall delegate responsibility for implementation of the policies and procedures established under subsection (a) as follows:
 
@@ -54,13 +54,25 @@
 
 (2) In determining the workforce mix between civilian and military personnel, the Secretary of a military department shall reserve military personnel for the performance of the functions that, in the estimation of the Secretary, are required to be performed by military personnel in order to achieve national defense goals or in order to enable the proper functioning of the military department. In making workforce decisions, the Secretary shall account for the relative budgetary impact of military versus civilian personnel in determining the functions required to be performed by military personnel.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(b)(2), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 112–81, div. A, title IX, §931(a), Dec. 31, 2011, 125 Stat. 1541; Pub. L. 114–328, div. A, title IX, §914, Dec. 23, 2016, 130 Stat. 2350; Pub. L. 115–91, div. A, title X, §§1051(a)(6)(B), 1081(a)(5), Dec. 12, 2017, 131 Stat. 1560, 1594; Pub. L. 115–232, div. A, title IX, §933, Aug. 13, 2018, 132 Stat. 1938; Pub. L. 116–92, div. A, title IX, §902(1), title XI, §1106, Dec. 20, 2019, 133 Stat. 1542, 1597.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(b)(2), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 112–81, div. A, title IX, §931(a), Dec. 31, 2011, 125 Stat. 1541; Pub. L. 114–328, div. A, title IX, §914, Dec. 23, 2016, 130 Stat. 2350; Pub. L. 115–91, div. A, title X, §§1051(a)(6)(B), 1081(a)(5), Dec. 12, 2017, 131 Stat. 1560, 1594; Pub. L. 115–232, div. A, title IX, §933, Aug. 13, 2018, 132 Stat. 1938; Pub. L. 116–92, div. A, title IX, §902(1), title XI, §1106, Dec. 20, 2019, 133 Stat. 1542, 1597; Pub. L. 116–283, div. A, title IX, §912, title XVIII, §§1808(d)(1), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3802, 4160, 4294.)
+
+#### Amendment of Section ####
+
+Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
+
+Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1808(d)(1), Jan. 1, 2021, 134 Stat. 4151, 4160, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (c)(3) of this section is amended by striking "section 2545" and inserting "section 3001". See 2021 Amendment note below.
 
 #### Prior Provisions ####
 
 Provisions similar to those in this section were contained in section 115(b)(5) of this title, prior to repeal by Pub. L. 101–510, §1483(a).
 
 #### Amendments ####
+
+**2021**—Subsec. (b). Pub. L. 116–283, §912, inserted at end "The Secretary may not reduce the civilian workforce programmed full-time equivalent levels unless the Secretary conducts an appropriate analysis of the impacts of such reductions on workload, military force structure, lethality, readiness, operational effectiveness, stress on the military force, and fully burdened costs."
+
+Subsec. (c)(3). Pub. L. 116–283, §1808(d)(1), substituted "section 3001" for "section 2545".
+
+Subsec. (d)(1). Pub. L. 116–283, §1883(b)(2), substituted section 4505(c) for section 2330a(c).
 
 **2019**—Subsec. (c)(3). Pub. L. 116–92, §902(1), substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 
@@ -83,6 +95,10 @@ Subsec. (d). Pub. L. 115–91, §1051(a)(6)(B), redesignated pars. (3) and (4) a
 "(1) consider particularly the advantages of converting from one form of personnel (military, civilian, or private contract) to another for the performance of a specified job; and
 
 "(2) include in each manpower requirements report submitted under section 115a of this title a complete justification for converting from one form of personnel to another."
+
+#### Effective Date of 2021 Amendment ####
+
+Amendment by sections 1808(d)(1) and 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Strategic Policy for the Retrograde, Reconstitution, and Replacement of Operating Forces Used To Support Overseas Contingency Operations ####
 

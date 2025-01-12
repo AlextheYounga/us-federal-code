@@ -6,6 +6,8 @@ Sec.
 
 14502. Special selection boards: correction of errors.
 
+14502a. Special selection review boards.
+
 14503. Discharge of officers with less than six years of commissioned service or found not qualified for promotion to first lieutenant or lieutenant (junior grade).
 
 14504. Effect of failure of selection for promotion: reserve first lieutenants of the Army, Air Force, and Marine Corps and reserve lieutenants (junior grade) of the Navy.
@@ -41,6 +43,8 @@ Sec.
 14519. Deferment of retirement or separation for medical reasons.
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title V, §505(b)(2), Jan. 1, 2021, 134 Stat. 3571, added item 14502a.
 
 **2008**—Pub. L. 110–181, div. A, title V, §503(c)(3), title XVIII, §1825(a)(2), Jan. 28, 2008, 122 Stat. 95, 502, substituted "six years" for "five years" in item 14503 and "officers in grade of major general or rear admiral and above" for "major generals and rear admirals" in item 14511.
 

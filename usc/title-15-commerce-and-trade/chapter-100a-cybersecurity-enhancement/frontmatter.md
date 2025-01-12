@@ -12,15 +12,19 @@ Sec.
 
 7431. Federal cybersecurity research and development.
 
+7432. National cybersecurity challenges.
+
 #### SUBCHAPTER II—EDUCATION AND WORKFORCE DEVELOPMENT ####
 
 7441. Cybersecurity competitions and challenges.
 
 7442. Federal Cyber Scholarship-for-Service Program.
 
+7443. National cybersecurity awareness and education program.
+
 #### SUBCHAPTER III—CYBERSECURITY AWARENESS AND PREPAREDNESS ####
 
-7451. National cybersecurity awareness and education program.
+7451. Transferred.
 
 #### SUBCHAPTER IV—ADVANCEMENT OF CYBERSECURITY TECHNICAL STANDARDS ####
 

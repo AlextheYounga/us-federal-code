@@ -6,7 +6,7 @@ Sec.
 
 8135. Regular Marine Corps: order of filling vacancies in grade of second lieutenant.
 
-8137. Regular Navy: officers designated for engineering duty, aeronautical engineering duty, and special duty.
+[8137. Repealed.]
 
 8138. Regular Marine Corps: judge advocates.
 
@@ -15,6 +15,8 @@ Sec.
 8146. Navy and Marine Corps: temporary appointments of officers designated for limited duty.
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title V, §509(b), Jan. 1, 2021, 134 Stat. 3586, struck out item 8137 "Regular Navy: officers designated for engineering duty, aeronautical engineering duty, and special duty".
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(2)(B), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 539 of this title as this chapter and items 5582, 5585, 5587, 5587a, 5589, and 5596 as 8132, 8135, 8137, 8138, 8139, and 8146, respectively.
 

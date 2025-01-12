@@ -10,7 +10,9 @@
 
 (2) Paragraph (2)(A) of that section.
 
-(d) Ineligibility of Certain Officers.—The following officers are not eligible for promotion under this subchapter:
+(d) Inapplicability of Requirement Relating to Opportunities for Consideration for Promotion.—Section 645(1)(A)(i)(I) of this title shall not apply to the promotion of officers described in subsection (a) to the extent that such section is inconsistent with a number of opportunities for promotion specified pursuant to section 649d of this title.
+
+(e) Ineligibility of Certain Officers.—The following officers are not eligible for promotion under this subchapter:
 
 (1) An officer described in section 619(d) of this title.
 
@@ -20,4 +22,8 @@
 
 (4) An officer recommended by a selection board to be removed from consideration for promotion in accordance with section 649b(c) of this title.
 
-(Added Pub. L. 115–232, div. A, title V, §507(a)(1), Aug. 13, 2018, 132 Stat. 1745.)
+(Added Pub. L. 115–232, div. A, title V, §507(a)(1), Aug. 13, 2018, 132 Stat. 1745; amended Pub. L. 116–283, div. A, title V, §506, Jan. 1, 2021, 134 Stat. 3573.)
+
+#### Amendments ####
+
+**2021**—Subsecs. (d), (e). Pub. L. 116–283 added subsec. (d) and redesignated former subsec. (d) as (e).

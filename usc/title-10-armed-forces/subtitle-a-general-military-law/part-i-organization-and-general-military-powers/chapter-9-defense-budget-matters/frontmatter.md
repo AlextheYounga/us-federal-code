@@ -30,7 +30,9 @@ Sec.
 
 231. Budgeting for construction of naval vessels: annual plan and certification.
 
-[231a, 232. Repealed.]
+231a. Budgeting for life-cycle costs of aircraft for the Army, Navy, and Air Force: annual plan and certification.
+
+[232. Repealed.]
 
 233. Operation and maintenance budget presentation.
 
@@ -50,7 +52,13 @@ Sec.
 
 239b. Certain intelligence-related programs: budget justification materials.
 
+#### Amendment of Analysis ####
+
+Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1809(h)(2), Jan. 1, 2021, 134 Stat. 4151, 4162, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this analysis is amended by striking the item relating to section 235. See 2021 Amendment note below.
+
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title I, §151(b), title XVIII, §1809(h)(2), Jan. 1, 2021, 134 Stat. 3440, 4162, added item 231a and struck out item 235 "Procurement of contract services: specification of amounts requested in budget".
 
 **2019**—Pub. L. 116–92, div. A, title X, §1007(b), Dec. 20, 2019, 133 Stat. 1575, added item 226.
 

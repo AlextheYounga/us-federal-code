@@ -35,7 +35,9 @@ Chap. Sec.
 
 16. Security Cooperation 301
 
-19. Cyber and Information Operations Matters 391
+19. 1 Cyber and Information Operations Matters 391
+
+19. 1 Cyber Matters 391
 
 20. Humanitarian and Other Assistance 401
 
@@ -48,6 +50,8 @@ Chap. Sec.
 24. Nuclear Posture 491
 
 #### Amendments ####
+
+**2021**—Pub. L. 116–283, div. A, title X, §1081(a)(1), Jan. 1, 2021, 134 Stat. 3870, added item for chapter 19.
 
 **2019**—Pub. L. 116–92, div. A, title XVI, §1631(a)(2)(B), title XVII, §1731(a)(1), Dec. 20, 2019, 133 Stat. 1742, 1812, substituted "240a" for "251" in item for chapter 9A and "Cyber and Information Operations Matters" for "Cyber Matters" in item for chapter 19.
 
@@ -94,3 +98,5 @@ Pub. L. 99–433, title VI, §605(a), Oct. 1, 1986, 100 Stat. 1075a, added items
 **1981**—Pub. L. 97–86, title IX, §905(a)(2), Dec. 1, 1981, 95 Stat. 1116, added item for chapter 18.
 
 **1962**—Pub. L. 87–651, title II, §203, Sept. 7, 1962, 76 Stat. 519, added item for chapter 4.
+
+[<sup>1</sup> So in original. Two items for chapter 19 have been enacted.](#PARTI_1)
