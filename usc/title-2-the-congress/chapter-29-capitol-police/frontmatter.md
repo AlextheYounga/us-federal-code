@@ -94,6 +94,8 @@ Sec.
 
 1965. Maintenance of security systems for Capitol buildings and grounds.
 
+1965a. Prohibition on use of funds for installation of permanent fencing on Capitol Grounds.
+
 1966. Protection of Members of Congress, officers of Congress, and members of their families.
 
 1967. Law enforcement authority.

@@ -12,7 +12,7 @@ Sec.
 
 1804. Applications for court orders.
 
-1805. Issuance or order.
+1805. Issuance of order.
 
 1805a to 1805c. Repealed.
 
@@ -68,11 +68,11 @@ Sec.
 
 #### SUBCHAPTER IV—ACCESS TO CERTAIN BUSINESS RECORDS FOR FOREIGN INTELLIGENCE PURPOSES ####
 
-1861. Access to certain business records for foreign intelligence and international terrorism investigations.
+1861. Definitions.
 
-1862. Congressional oversight.
+1862. Access to certain business records for foreign intelligence and international terrorism investigations.
 
-1863. Repealed.
+1863. Congressional oversight.
 
 1864. Notification of changes to retention of call detail record policies.
 

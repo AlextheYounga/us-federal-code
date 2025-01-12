@@ -12,6 +12,8 @@ Section 61h–1, Pub. L. 93–371, §4, Aug. 13, 1974, 88 Stat. 429; Pub. L. 94�
 
 A prior section 61h–1, Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 339, authorized Senate Majority and Minority Leaders to each appoint and fix compensation of an administrative assistant, a legislative assistant, an executive secretary, and a clerical assistant in lieu of positions heretofore authorized by Senate Resolution 158, agreed to December 9, 1941, Pub. L. 86–30, approved May 20, 1959, and Senate Resolution 240, agreed to January 24, 1952.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Abolition of Positions in Offices of Senate Majority and Minority Leaders ####
 
 Pub. L. 95–26, title I, May 4, 1977, 91 Stat. 80, provided in part: "That the positions established by the Legislative Branch Appropriation Act, 1970 [Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 338], for the Offices of the Majority and Minority Leaders [of the Senate] are abolished effective April 1, 1977." The positions referred to were enumerated in Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 339, classified to former section 61h–1 of this title, which authorized the respective leaders to appoint an administrative assistant, a legislative assistant, an executive secretary, and a clerical assistant in lieu of the positions authorized prior thereto by Senate Resolution 158, agreed to Dec. 9, 1941, Pub. L. 86–30, approved May 20, 1959, and Senate Resolution 240, agreed to Jan. 24, 1952. See section 6131 of this title.
