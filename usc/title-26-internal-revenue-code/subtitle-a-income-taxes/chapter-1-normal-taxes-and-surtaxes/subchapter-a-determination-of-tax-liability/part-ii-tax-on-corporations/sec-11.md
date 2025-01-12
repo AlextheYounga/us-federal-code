@@ -20,13 +20,15 @@ Subsection (a) shall not apply to a corporation subject to a tax imposed by—
 
 #### (d) Foreign corporations ####
 
-In the case of a foreign corporation, the tax imposed by subsection (a) shall apply only as provided by section 882.
+In the case of a foreign corporation, the taxes imposed by subsection (a) and section 55 shall apply only as provided by section 882.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 11; Mar. 30, 1955, ch. 18, §2, 69 Stat. 14; Mar. 29, 1956, ch. 115, §2, 70 Stat. 66; Pub. L. 85–12, §2, Mar. 29, 1957, 71 Stat. 9; Pub. L. 85–475, §2, June 30, 1958, 72 Stat. 259; Pub. L. 86–75, §2, June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §201, June 30, 1960, 74 Stat. 290; Pub. L. 86–779, §10(d), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 87–72, §2, June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §2, June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §2, June 29, 1963, 77 Stat. 72; Pub. L. 88–272, title I, §121, Feb. 26, 1964, 78 Stat. 25; Pub. L. 89–809, title I, §104(b)(2), Nov. 13, 1966, 80 Stat. 1557; Pub. L. 91–172, title IV, §401(b)(2)(B), Dec. 30, 1969, 83 Stat. 602; Pub. L. 94–12, title III, §303(a), (b), Mar. 29, 1975, 89 Stat. 44; Pub. L. 94–164, §4(a)–(c), Dec. 23, 1975, 89 Stat. 973, 974; Pub. L. 94–455, title IX, §901(a), Oct. 4, 1976, 90 Stat. 1606; Pub. L. 95–30, title II, §201(1), (2), May 23, 1977, 91 Stat. 141; Pub. L. 95–600, title III, §301(a), Nov. 6, 1978, 92 Stat. 2820; Pub. L. 97–34, title II, §231(a), Aug. 13, 1981, 95 Stat. 249; Pub. L. 98–369, div. A, title I, §66(a), July 18, 1984, 98 Stat. 585; Pub. L. 99–514, title VI, §601(a), Oct. 22, 1986, 100 Stat. 2249; Pub. L. 100–203, title X, §10224(a), Dec. 22, 1987, 101 Stat. 1330–412; Pub. L. 100–647, title I, §1007(g)(13)(B), Nov. 10, 1988, 102 Stat. 3436; Pub. L. 103–66, title XIII, §13221(a), (b), Aug. 10, 1993, 107 Stat. 477; Pub. L. 115–97, title I, §§12001(b)(11), 13001(a), Dec. 22, 2017, 131 Stat. 2094, 2096.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 11; Mar. 30, 1955, ch. 18, §2, 69 Stat. 14; Mar. 29, 1956, ch. 115, §2, 70 Stat. 66; Pub. L. 85–12, §2, Mar. 29, 1957, 71 Stat. 9; Pub. L. 85–475, §2, June 30, 1958, 72 Stat. 259; Pub. L. 86–75, §2, June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §201, June 30, 1960, 74 Stat. 290; Pub. L. 86–779, §10(d), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 87–72, §2, June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §2, June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §2, June 29, 1963, 77 Stat. 72; Pub. L. 88–272, title I, §121, Feb. 26, 1964, 78 Stat. 25; Pub. L. 89–809, title I, §104(b)(2), Nov. 13, 1966, 80 Stat. 1557; Pub. L. 91–172, title IV, §401(b)(2)(B), Dec. 30, 1969, 83 Stat. 602; Pub. L. 94–12, title III, §303(a), (b), Mar. 29, 1975, 89 Stat. 44; Pub. L. 94–164, §4(a)–(c), Dec. 23, 1975, 89 Stat. 973, 974; Pub. L. 94–455, title IX, §901(a), Oct. 4, 1976, 90 Stat. 1606; Pub. L. 95–30, title II, §201(1), (2), May 23, 1977, 91 Stat. 141; Pub. L. 95–600, title III, §301(a), Nov. 6, 1978, 92 Stat. 2820; Pub. L. 97–34, title II, §231(a), Aug. 13, 1981, 95 Stat. 249; Pub. L. 98–369, div. A, title I, §66(a), July 18, 1984, 98 Stat. 585; Pub. L. 99–514, title VI, §601(a), Oct. 22, 1986, 100 Stat. 2249; Pub. L. 100–203, title X, §10224(a), Dec. 22, 1987, 101 Stat. 1330–412; Pub. L. 100–647, title I, §1007(g)(13)(B), Nov. 10, 1988, 102 Stat. 3436; Pub. L. 103–66, title XIII, §13221(a), (b), Aug. 10, 1993, 107 Stat. 477; Pub. L. 115–97, title I, §§12001(b)(11), 13001(a), Dec. 22, 2017, 131 Stat. 2094, 2096; Pub. L. 117–169, title I, §10101(a)(4)(C), Aug. 16, 2022, 136 Stat. 1822.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Subsec. (d). Pub. L. 117–169 substituted "the taxes imposed by subsection (a) and section 55" for "the tax imposed by subsection (a)".
 
 **2017**—Subsec. (b). Pub. L. 115–97, §13001(a), amended subsec. (b) generally. Prior to amendment, text read as follows:
 
@@ -145,6 +147,10 @@ Subsec. (d)(3). Pub. L. 86–779 inserted "and real estate investment trusts" af
 **1955**—Subsec. (b). Act Mar. 30, 1955, substituted "April 1, 1956" for "April 1, 1955" and "March 31, 1956" for "March 31, 1955" wherever appearing.
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Pub. L. 117–169, title I, §10101(f), Aug. 16, 2022, 136 Stat. 1828, provided that: "The amendments made by this section [enacting section 56A of this title and amending this section and sections 12, 38, 53, 55, 59, 860E, 882, 897, 6425, and 6655 of this title] shall apply to taxable years beginning after December 31, 2022."
 
 #### Effective Date of 2017 Amendment ####
 

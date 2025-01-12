@@ -98,7 +98,7 @@ The term "biodiesel" means the monoalkyl esters of long chain fatty acids derive
 
 (B) the requirements of the American Society of Testing and Materials D6751.
 
-Such term shall not include any liquid with respect to which a credit may be determined under section 40.
+Such term shall not include any liquid with respect to which a credit may be determined under section 40 or 40B.
 
 #### (2) Agri-biodiesel ####
 
@@ -234,21 +234,11 @@ The term "renewable diesel" means liquid fuel derived from biomass which meets�
 
 Such term shall not include any liquid with respect to which a credit may be determined under section 40. Such term does not include any fuel derived from coprocessing biomass with a feedstock which is not biomass. For purposes of this paragraph, the term "biomass" has the meaning given such term by section 45K(c)(3).
 
-#### (4) Certain aviation fuel ####
-
-#### (A) In general ####
-
-Except as provided in the last 3 sentences of paragraph (3), the term "renewable diesel" shall include fuel derived from biomass which meets the requirements of a Department of Defense specification for military jet fuel or an American Society of Testing and Materials specification for aviation turbine fuel.
-
-#### (B) Application of mixture credits ####
-
-In the case of fuel which is treated as renewable diesel solely by reason of subparagraph (A), subsection (b)(1) and section 6426(c) shall be applied with respect to such fuel by treating kerosene as though it were diesel fuel.
-
 #### (g) Termination ####
 
-This section shall not apply to any sale or use after December 31, 2022.
+This section shall not apply to any sale or use after December 31, 2024.
 
-(Added Pub. L. 108–357, title III, §302(a), Oct. 22, 2004, 118 Stat. 1463; amended Pub. L. 109–58, title XIII, §§1344(a), 1345(a)–(d), 1346(a), (b)(1), Aug. 8, 2005, 119 Stat. 1052–1055; Pub. L. 109–135, title IV, §412(h), Dec. 21, 2005, 119 Stat. 2637; Pub. L. 110–234, title XV, §15321(f), May 22, 2008, 122 Stat. 1514; Pub. L. 110–246, §4(a), title XV, §15321(f), June 18, 2008, 122 Stat. 1664, 2276; Pub. L. 110–343, div. B, title II, §§202(a), (b)(1), (b)(3)–(f), 203(b), Oct. 3, 2008, 122 Stat. 3832, 3833; Pub. L. 111–312, title VII, §701(a), Dec. 17, 2010, 124 Stat. 3310; Pub. L. 112–240, title IV, §405(a), Jan. 2, 2013, 126 Stat. 2340; Pub. L. 113–295, div. A, title I, §153(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §185(a)(1), Dec. 18, 2015, 129 Stat. 3073; Pub. L. 115–123, div. D, title I, §40407(a)(1), Feb. 9, 2018, 132 Stat. 149; Pub. L. 116–94, div. Q, title I, §121(a)(1), Dec. 20, 2019, 133 Stat. 3230.)
+(Added Pub. L. 108–357, title III, §302(a), Oct. 22, 2004, 118 Stat. 1463; amended Pub. L. 109–58, title XIII, §§1344(a), 1345(a)–(d), 1346(a), (b)(1), Aug. 8, 2005, 119 Stat. 1052–1055; Pub. L. 109–135, title IV, §412(h), Dec. 21, 2005, 119 Stat. 2637; Pub. L. 110–234, title XV, §15321(f), May 22, 2008, 122 Stat. 1514; Pub. L. 110–246, §4(a), title XV, §15321(f), June 18, 2008, 122 Stat. 1664, 2276; Pub. L. 110–343, div. B, title II, §§202(a), (b)(1), (b)(3)–(f), 203(b), Oct. 3, 2008, 122 Stat. 3832, 3833; Pub. L. 111–312, title VII, §701(a), Dec. 17, 2010, 124 Stat. 3310; Pub. L. 112–240, title IV, §405(a), Jan. 2, 2013, 126 Stat. 2340; Pub. L. 113–295, div. A, title I, §153(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §185(a)(1), Dec. 18, 2015, 129 Stat. 3073; Pub. L. 115–123, div. D, title I, §40407(a)(1), Feb. 9, 2018, 132 Stat. 149; Pub. L. 116–94, div. Q, title I, §121(a)(1), Dec. 20, 2019, 133 Stat. 3230; Pub. L. 117–169, title I, §§13201(a), 13203(c), Aug. 16, 2022, 136 Stat. 1931, 1934.)
 
 #### **Editorial Notes** ####
 
@@ -257,6 +247,12 @@ This section shall not apply to any sale or use after December 31, 2022.
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments ####
+
+**2022**—Subsec. (d)(1). Pub. L. 117–169, §13203(c)(1), inserted "or 40B" after "determined under section 40" in concluding provisions.
+
+Subsec. (f)(4). Pub. L. 117–169, §13203(c)(2), struck out par. (4) which defined renewable diesel to include certain aviation fuel.
+
+Subsec. (g). Pub. L. 117–169, §13201(a), substituted "December 31, 2024" for "December 31, 2022".
 
 **2019**—Subsec. (g). Pub. L. 116–94 substituted "December 31, 2022" for "December 31, 2017".
 
@@ -331,6 +327,12 @@ Pub. L. 109–58, §1345(c), redesignated subsec. (e) as (f).
 Subsec. (g). Pub. L. 109–58, §1346(a), redesignated subsec. (f) as (g).
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Pub. L. 117–169, title I, §13201(f), Aug. 16, 2022, 136 Stat. 1932, provided that: "The amendments made by this section [amending this section and sections 6426 and 6427 of this title] shall apply to fuel sold or used after December 31, 2021."
+
+Amendment by section 13203(c) of Pub. L. 117–169 applicable to fuel sold or used after Dec. 31, 2022, see section 13203(f) of Pub. L. 117–169, set out as an Effective Date note under section 40B of this title.
 
 #### Effective Date of 2019 Amendment ####
 

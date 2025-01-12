@@ -4,7 +4,7 @@
 
 For purposes of section 38, the renewable electricity production credit for any taxable year is an amount equal to the product of—
 
-(1) 1.5 cents, multiplied by
+(1) 0.3 cents, multiplied by
 
 (2) the kilowatt hours of electricity—
 
@@ -28,31 +28,23 @@ The amount of the credit determined under subsection (a) shall be reduced by an 
 
 #### (2) Credit and phaseout adjustment based on inflation ####
 
-The 1.5 cent amount in subsection (a), the 8 cent amount in paragraph (1), the $4.375 amount in subsection (e)(8)(A), the $2 amount in subsection (e)(8)(D)(ii)(I), and in subsection (e)(8)(B)(i) the reference price of fuel used as a feedstock (within the meaning of subsection (c)(7)(A)) in 2002 shall each be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale occurs. If any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
+The 0.3 cent amount in subsection (a), the 8 cent amount in paragraph (1), the $4.375 amount in subsection (e)(8)(A), the $2 amount in subsection (e)(8)(D)(ii)(I), and in subsection (e)(8)(B)(i) the reference price of fuel used as a feedstock (within the meaning of subsection (c)(7)(A)) in 2002 shall each be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale occurs. If the 0.3 cent amount as increased under the preceding sentence is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. In any other case, if an amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
 
-#### (3) Credit reduced for grants, tax-exempt bonds, subsidized energy financing, and other credits ####
+#### (3) Credit reduced for tax-exempt bonds ####
 
-The amount of the credit determined under subsection (a) with respect to any project for any taxable year (determined after the application of paragraphs (1) and (2)) shall be reduced by the amount which is the product of the amount so determined for such year and the lesser of ½ or a fraction—
+The amount of the credit determined under subsection (a) with respect to any facility for any taxable year (determined after the application of paragraphs (1) and (2)) shall be reduced by the amount which is the product of the amount so determined for such year and the lesser of 15 percent or a fraction—
 
-(A) the numerator of which is the sum, for the taxable year and all prior taxable years, of—
+(A) the numerator of which is the sum, for the taxable year and all prior taxable years, of proceeds of an issue of any obligations the interest on which is exempt from tax under section 103 and which is used to provide financing for the qualified facility, and
 
-(i) grants provided by the United States, a State, or a political subdivision of a State for use in connection with the project,
+(B) the denominator of which is the aggregate amount of additions to the capital account for the qualified facility for the taxable year and all prior taxable years.
 
-(ii) proceeds of an issue of State or local government obligations used to provide financing for the project the interest on which is exempt from tax under section 103,
-
-(iii) the aggregate amount of subsidized energy financing provided (directly or indirectly) under a Federal, State, or local program provided in connection with the project, and
-
-(iv) the amount of any other credit allowable with respect to any property which is part of the project, and
-
-(B) the denominator of which is the aggregate amount of additions to the capital account for the project for the taxable year and all prior taxable years.
-
-The amounts under the preceding sentence for any taxable year shall be determined as of the close of the taxable year. This paragraph shall not apply with respect to any facility described in subsection (d)(2)(A)(ii).
+The amounts under the preceding sentence for any taxable year shall be determined as of the close of the taxable year.
 
 #### (4) Credit rate and period for electricity produced and sold from certain facilities ####
 
 #### (A) Credit rate ####
 
-In the case of electricity produced and sold in any calendar year after 2003 at any qualified facility described in paragraph (3), (5), (6), (7), (9), or (11) of subsection (d), the amount in effect under subsection (a)(1) for such calendar year (determined before the application of the last sentence of paragraph (2) of this subsection) shall be reduced by one-half.
+In the case of electricity produced and sold in any calendar year after 2003 at any qualified facility described in paragraph (3), (5), (6), or (7) of subsection (d), the amount in effect under subsection (a)(1) for such calendar year (determined before the application of the last two sentences of paragraph (2) of this subsection) shall be reduced by one-half.
 
 #### (B) Credit period ####
 
@@ -70,7 +62,7 @@ Clause (i) shall not apply to any facility placed in service after the date of t
 
 #### (5) Phaseout of credit for wind facilities ####
 
-In the case of any facility using wind to produce electricity, the amount of the credit determined under subsection (a) (determined after the application of paragraphs (1), (2), and (3) and without regard to this paragraph) shall be reduced by—
+In the case of any facility using wind to produce electricity which is placed in service before January 1, 2022, the amount of the credit determined under subsection (a) (determined after the application of paragraphs (1), (2), and (3) and without regard to this paragraph) shall be reduced by—
 
 (A) in the case of any facility the construction of which begins after December 31, 2016, and before January 1, 2018, 20 percent,
 
@@ -79,6 +71,254 @@ In the case of any facility using wind to produce electricity, the amount of the
 (C) in the case of any facility the construction of which begins after December 31, 2018, and before January 1, 2020, 60 percent, and
 
 (D) in the case of any facility the construction of which begins after December 31, 2019, and before January 1, 2022, 40 percent.
+
+#### (6) Increased credit amount for qualified facilities ####
+
+#### (A) In general ####
+
+In the case of any qualified facility which satisfies the requirements of subparagraph (B), the amount of the credit determined under subsection (a) (determined after the application of paragraphs (1) through (5) and without regard to this paragraph) shall be equal to such amount multiplied by 5.
+
+#### (B) Qualified facility requirements ####
+
+A qualified facility meets the requirements of this subparagraph if it is one of the following:
+
+(i) A facility with a maximum net output of less than 1 megawatt (as measured in alternating current).
+
+(ii) A facility the construction of which begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (7)(A) and (8).
+
+(iii) A facility which satisfies the requirements of paragraphs (7)(A) and (8).
+
+#### (7) Prevailing wage requirements ####
+
+#### (A) In general ####
+
+The requirements described in this subparagraph with respect to any qualified facility are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in—
+
+(i) the construction of such facility, and
+
+(ii) with respect to any taxable year, for any portion of such taxable year which is within the period described in subsection (a)(2)(A)(ii), the alteration or repair of such facility,
+
+shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such facility is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code. For purposes of determining an increased credit amount under paragraph (6)(A) for a taxable year, the requirement under clause (ii) is applied to such taxable year in which the alteration or repair of the qualified facility occurs.
+
+#### (B) Correction and penalty related to failure to satisfy wage requirements ####
+
+#### (i) In general ####
+
+In the case of any taxpayer which fails to satisfy the requirement under subparagraph (A) with respect to the construction of any qualified facility or with respect to the alteration or repair of a facility in any year during the period described in subparagraph (A)(ii), such taxpayer shall be deemed to have satisfied such requirement under such subparagraph with respect to such facility for any year if, with respect to any laborer or mechanic who was paid wages at a rate below the rate described in such subparagraph for any period during such year, such taxpayer—
+
+(I) makes payment to such laborer or mechanic in an amount equal to the sum of—
+
+(aa) an amount equal to the difference between—
+
+(AA) the amount of wages paid to such laborer or mechanic during such period, and
+
+(BB) the amount of wages required to be paid to such laborer or mechanic pursuant to such subparagraph during such period, plus
+
+(bb) interest on the amount determined under item (aa) at the underpayment rate established under section 6621 (determined by substituting "6 percentage points" for "3 percentage points" in subsection (a)(2) of such section) for the period described in such item, and
+
+(II) makes payment to the Secretary of a penalty in an amount equal to the product of—
+
+(aa) $5,000, multiplied by
+
+(bb) the total number of laborers and mechanics who were paid wages at a rate below the rate described in subparagraph (A) for any period during such year.
+
+#### (ii) Deficiency procedures not to apply ####
+
+Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply with respect to the assessment or collection of any penalty imposed by this paragraph.
+
+#### (iii) Intentional disregard ####
+
+If the Secretary determines that any failure described in clause (i) is due to intentional disregard of the requirements under subparagraph (A), such clause shall be applied—
+
+(I) in subclause (I), by substituting "three times the sum" for "the sum", and
+
+(II) in subclause (II), by substituting "$10,000" for "5,000 <sup><a href="#45_1_target" name="45_1">1</a></sup> " in item (aa) thereof.
+
+#### (iv) Limitation on period for payment ####
+
+Pursuant to rules issued by the Secretary, in the case of a final determination by the Secretary with respect to any failure by the taxpayer to satisfy the requirement under subparagraph (A), subparagraph (B)(i) shall not apply unless the payments described in subclauses (I) and (II) of such subparagraph are made by the taxpayer on or before the date which is 180 days after the date of such determination.
+
+#### (8) Apprenticeship requirements ####
+
+The requirements described in this paragraph with respect to the construction of any qualified facility are as follows:
+
+#### (A) Labor hours ####
+
+#### (i) Percentage of total labor hours ####
+
+Taxpayers shall ensure that, with respect to the construction of any qualified facility, not less than the applicable percentage of the total labor hours of the construction, alteration, or repair work (including such work performed by any contractor or subcontractor) with respect to such facility shall, subject to subparagraph (B), be performed by qualified apprentices.
+
+#### (ii) Applicable percentage ####
+
+For purposes of clause (i), the applicable percentage shall be—
+
+(I) in the case of a qualified facility the construction of which begins before January 1, 2023, 10 percent,
+
+(II) in the case of a qualified facility the construction of which begins after December 31, 2022, and before January 1, 2024, 12.5 percent, and
+
+(III) in the case of a qualified facility the construction of which begins after December 31, 2023, 15 percent.
+
+#### (B) Apprentice to journeyworker ratio ####
+
+The requirement under subparagraph (A)(i) shall be subject to any applicable requirements for apprentice-to-journeyworker ratios of the Department of Labor or the applicable State apprenticeship agency.
+
+#### (C) Participation ####
+
+Each taxpayer, contractor, or subcontractor who employs 4 or more individuals to perform construction, alteration, or repair work with respect to the construction of a qualified facility shall employ 1 or more qualified apprentices to perform such work.
+
+#### (D) Exception ####
+
+#### (i) In general ####
+
+A taxpayer shall not be treated as failing to satisfy the requirements of this paragraph if such taxpayer—
+
+(I) satisfies the requirements described in clause (ii), or
+
+(II) subject to clause (iii), in the case of any failure by the taxpayer to satisfy the requirement under subparagraphs (A) and (C) with respect to the construction, alteration, or repair work on any qualified facility to which subclause (I) does not apply, makes payment to the Secretary of a penalty in an amount equal to the product of—
+
+(aa) $50, multiplied by
+
+(bb) the total labor hours for which the requirement described in such subparagraph was not satisfied with respect to the construction, alteration, or repair work on such qualified facility.
+
+#### (ii) Good faith effort ####
+
+For purposes of clause (i), a taxpayer shall be deemed to have satisfied the requirements under this paragraph with respect to a qualified facility if such taxpayer has requested qualified apprentices from a registered apprenticeship program, as defined in section 3131(e)(3)(B), and—
+
+(I) such request has been denied, provided that such denial is not the result of a refusal by the taxpayer or any contractors or subcontractors engaged in the performance of construction, alteration, or repair work with respect to such qualified facility to comply with the established standards and requirements of the registered apprenticeship program, or
+
+(II) the registered apprenticeship program fails to respond to such request within 5 business days after the date on which such registered apprenticeship program received such request.
+
+#### (iii) Intentional disregard ####
+
+If the Secretary determines that any failure described in subclause (i)(II) is due to intentional disregard of the requirements under subparagraphs (A) and (C), subclause (i)(II) shall be applied by substituting "$500" for "$50" in item (aa) thereof.
+
+#### (E) Definitions ####
+
+For purposes of this paragraph—
+
+#### (i) Labor hours ####
+
+The term "labor hours"—
+
+(I) means the total number of hours devoted to the performance of construction, alteration, or repair work by any individual employed by the taxpayer or by any contractor or subcontractor, and
+
+(II) excludes any hours worked by—
+
+(aa) foremen,
+
+(bb) superintendents,
+
+(cc) owners, or
+
+(dd) persons employed in a bona fide executive, administrative, or professional capacity (within the meaning of those terms in part 541 of title 29, Code of Federal Regulations).
+
+#### (ii) Qualified apprentice ####
+
+The term "qualified apprentice" means an individual who is employed by the taxpayer or by any contractor or subcontractor and who is participating in a registered apprenticeship program, as defined in section 3131(e)(3)(B).
+
+#### (9) Domestic content bonus credit amount ####
+
+#### (A) In general ####
+
+In the case of any qualified facility which satisfies the requirement under subparagraph (B)(i), the amount of the credit determined under subsection (a) (determined after the application of paragraphs (1) through (8)) shall be increased by an amount equal to 10 percent of the amount so determined.
+
+#### (B) Requirement ####
+
+#### (i) In general ####
+
+The requirement described in this clause is satisfied with respect to any qualified facility if the taxpayer certifies to the Secretary (at such time, and in such form and manner, as the Secretary may prescribe) that any steel, iron, or manufactured product which is a component of such facility (upon completion of construction) was produced in the United States (as determined under section <sup><a href="#45_2_target" name="45_2">2</a></sup> 661 of title 49, Code of Federal Regulations).
+
+#### (ii) Steel and iron ####
+
+In the case of steel or iron, clause (i) shall be applied in a manner consistent with section 661.5 of title 49, Code of Federal Regulations.
+
+#### (iii) Manufactured product ####
+
+For purposes of clause (i), the manufactured products which are components of a qualified facility upon completion of construction shall be deemed to have been produced in the United States if not less than the adjusted percentage (as determined under subparagraph (C)) of the total costs of all such manufactured products of such facility are attributable to manufactured products (including components) which are mined, produced, or manufactured in the United States.
+
+#### (C) Adjusted percentage ####
+
+#### (i) In general ####
+
+Subject to subclause (ii), for purposes of subparagraph (B)(iii), the adjusted percentage shall be 40 percent.
+
+#### (ii) Offshore wind facility ####
+
+For purposes of subparagraph (B)(iii), in the case of a qualified facility which is an offshore wind facility, the adjusted percentage shall be 20 percent.
+
+#### (10) Phaseout for elective payment ####
+
+#### (A) In general ####
+
+In the case of a taxpayer making an election under section 6417 with respect to a credit under this section, the amount of such credit shall be replaced with—
+
+(i) the value of such credit (determined without regard to this paragraph), multiplied by
+
+(ii) the applicable percentage.
+
+#### (B) 100 percent applicable percentage for certain qualified facilities ####
+
+In the case of any qualified facility—
+
+(i) which satisfies the requirements under paragraph (9)(B), or
+
+(ii) with a maximum net output of less than 1 megawatt (as measured in alternating current),
+
+the applicable percentage shall be 100 percent.
+
+#### (C) Phased domestic content requirement ####
+
+Subject to subparagraph (D), in the case of any qualified facility which is not described in subparagraph (B), the applicable percentage shall be—
+
+(i) if construction of such facility began before January 1, 2024, 100 percent, and
+
+(ii) if construction of such facility began in calendar year 2024, 90 percent.
+
+#### (D) Exception ####
+
+#### (i) In general ####
+
+For purposes of this paragraph, the Secretary shall provide exceptions to the requirements under this paragraph if—
+
+(I) the inclusion of steel, iron, or manufactured products which are produced in the United States increases the overall costs of construction of qualified facilities by more than 25 percent, or
+
+(II) relevant steel, iron, or manufactured products are not produced in the United States in sufficient and reasonably available quantities or of a satisfactory quality.
+
+#### (ii) Applicable percentage ####
+
+In any case in which the Secretary provides an exception pursuant to clause (i), the applicable percentage shall be 100 percent.
+
+#### (11) Special rule for qualified facility located in energy community ####
+
+#### (A) In general ####
+
+In the case of a qualified facility which is located in an energy community, the credit determined under subsection (a) (determined after the application of paragraphs (1) through (10), without the application of paragraph (9)) shall be increased by an amount equal to 10 percent of the amount so determined.
+
+#### (B) Energy community ####
+
+For purposes of this paragraph, the term "energy community" means—
+
+(i) a brownfield site (as defined in subparagraphs (A), (B), and (D)(ii)(III) of section 101(39) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601(39))),
+
+(ii) a metropolitan statistical area or non-metropolitan statistical area which—
+
+(I) has (or, at any time during the period beginning after December 31, 2009, had) 0.17 percent or greater direct employment or 25 percent or greater local tax revenues related to the extraction, processing, transport, or storage of coal, oil, or natural gas (as determined by the Secretary), and
+
+(II) has an unemployment rate at or above the national average unemployment rate for the previous year (as determined by the Secretary), or
+
+(iii) a census tract—
+
+(I) in which—
+
+(aa) after December 31, 1999, a coal mine has closed, or
+
+(bb) after December 31, 2009, a coal-fired electric generating unit has been retired, or
+
+(II) which is directly adjoining to any census tract described in subclause (I).
+
+#### (12) Regulations and guidance ####
+
+The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
 
 #### (c) Resources ####
 
@@ -244,9 +484,15 @@ The term "marine and hydrokinetic renewable energy" means energy derived from—
 
 (ii) free flowing water in rivers, lakes, and streams,
 
-(iii) free flowing water in an irrigation system, canal, or other man-made channel, including projects that utilize nonmechanical structures to accelerate the flow of water for electric power production purposes, or
+(iii) free flowing water in an irrigation system, canal, or other man-made channel, including projects that utilize nonmechanical structures to accelerate the flow of water for electric power production purposes,
 
-(iv) differentials in ocean temperature (ocean thermal energy conversion).
+(iv) differentials in ocean temperature (ocean thermal energy conversion), or
+
+(v) pressurized water used in a pipeline (or similar man-made water conveyance) which is operated—
+
+(I) for the distribution of water for agricultural, municipal, or industrial consumption, and
+
+(II) not primarily for the generation of electricity.
 
 #### (B) Exceptions ####
 
@@ -258,7 +504,7 @@ For purposes of this section:
 
 #### (1) Wind facility ####
 
-In the case of a facility using wind to produce electricity, the term "qualified facility" means any facility owned by the taxpayer which is originally placed in service after December 31, 1993, and the construction of which begins before January 1, 2022. Such term shall not include any facility with respect to which any qualified small wind energy property expenditure (as defined in subsection (d)(4) of section 25D) is taken into account in determining the credit under such section.
+In the case of a facility using wind to produce electricity, the term "qualified facility" means any facility owned by the taxpayer which is originally placed in service after December 31, 1993, and the construction of which begins before January 1, 2025. Such term shall not include any facility with respect to which any qualified small wind energy property expenditure (as defined in subsection (d)(4) of section 25D) is taken into account in determining the credit under such section.
 
 #### (2) Closed-loop biomass facility ####
 
@@ -266,11 +512,11 @@ In the case of a facility using wind to produce electricity, the term "qualified
 
 In the case of a facility using closed-loop biomass to produce electricity, the term "qualified facility" means any facility—
 
-(i) owned by the taxpayer which is originally placed in service after December 31, 1992, and the construction of which begins before January 1, 2022, or
+(i) owned by the taxpayer which is originally placed in service after December 31, 1992, and the construction of which begins before January 1, 2025, or
 
-(ii) owned by the taxpayer which before January 1, 2022, is originally placed in service and modified to use closed-loop biomass to co-fire with coal, with other biomass, or with both, but only if the modification is approved under the Biomass Power for Rural Development Programs or is part of a pilot project of the Commodity Credit Corporation as described in 65 Fed. Reg. 63052.
+(ii) owned by the taxpayer which before January 1, 2025, is originally placed in service and modified to use closed-loop biomass to co-fire with coal, with other biomass, or with both, but only if the modification is approved under the Biomass Power for Rural Development Programs or is part of a pilot project of the Commodity Credit Corporation as described in 65 Fed. Reg. 63052.
 
-For purposes of clause (ii), a facility shall be treated as modified before January 1, 2022, if the construction of such modification begins before such date.
+For purposes of clause (ii), a facility shall be treated as modified before January 1, 2025, if the construction of such modification begins before such date.
 
 #### (B) Expansion of facility ####
 
@@ -292,11 +538,11 @@ In the case of a facility using open-loop biomass to produce electricity, the te
 
 (i) in the case of a facility using agricultural livestock waste nutrients—
 
-(I) is originally placed in service after the date of the enactment of this subclause and the construction of which begins before January 1, 2022, and
+(I) is originally placed in service after the date of the enactment of this subclause and the construction of which begins before January 1, 2025, and
 
 (II) the nameplate capacity rating of which is not less than 150 kilowatts, and
 
-(ii) in the case of any other facility, the construction of which begins before January 1, 2022.
+(ii) in the case of any other facility, the construction of which begins before January 1, 2025.
 
 #### (B) Expansion of facility ####
 
@@ -308,13 +554,7 @@ In the case of any facility described in subparagraph (A), if the owner of such 
 
 #### (4) Geothermal or solar energy facility ####
 
-In the case of a facility using geothermal or solar energy to produce electricity, the term "qualified facility" means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and which—
-
-(A) in the case of a facility using solar energy, is placed in service before January 1, 2006, or
-
-(B) in the case of a facility using geothermal energy, the construction of which begins before January 1, 2022.
-
-Such term shall not include any property described in section 48(a)(3) the basis of which is taken into account by the taxpayer for purposes of determining the energy credit under section 48.
+In the case of a facility using geothermal or solar energy to produce electricity, the term "qualified facility" means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2025. Such term shall not include any property described in section 48(a)(3) the basis of which is taken into account by the taxpayer for purposes of determining the energy credit under section 48.
 
 #### (5) Small irrigation power facility ####
 
@@ -322,11 +562,11 @@ In the case of a facility using small irrigation power to produce electricity, t
 
 #### (6) Landfill gas facilities ####
 
-In the case of a facility producing electricity from gas derived from the biodegradation of municipal solid waste, the term "qualified facility" means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2022.
+In the case of a facility producing electricity from gas derived from the biodegradation of municipal solid waste, the term "qualified facility" means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2025.
 
 #### (7) Trash facilities ####
 
-In the case of a facility (other than a facility described in paragraph (6)) which uses municipal solid waste to produce electricity, the term "qualified facility" means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2022. Such term shall include a new unit placed in service in connection with a facility placed in service on or before the date of the enactment of this paragraph, but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
+In the case of a facility (other than a facility described in paragraph (6)) which uses municipal solid waste to produce electricity, the term "qualified facility" means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2025. Such term shall include a new unit placed in service in connection with a facility placed in service on or before the date of the enactment of this paragraph, but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
 
 #### (8) Refined coal production facility ####
 
@@ -342,9 +582,9 @@ In the case of a facility that produces refined coal, the term "refined coal pro
 
 In the case of a facility producing qualified hydroelectric production described in subsection (c)(8), the term "qualified facility" means—
 
-(i) in the case of any facility producing incremental hydropower production, such facility but only to the extent of its incremental hydropower production attributable to efficiency improvements or additions to capacity described in subsection (c)(8)(B) placed in service after the date of the enactment of this paragraph and before January 1, 2022, and
+(i) in the case of any facility producing incremental hydropower production, such facility but only to the extent of its incremental hydropower production attributable to efficiency improvements or additions to capacity described in subsection (c)(8)(B) placed in service after the date of the enactment of this paragraph and before January 1, 2025, and
 
-(ii) any other facility placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2022.
+(ii) any other facility placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2025.
 
 #### (B) Credit period ####
 
@@ -352,7 +592,7 @@ In the case of a qualified facility described in subparagraph (A), the 10-year p
 
 #### (C) Special rule ####
 
-For purposes of subparagraph (A)(i), an efficiency improvement or addition to capacity shall be treated as placed in service before January 1, 2022, if the construction of such improvement or addition begins before such date.
+For purposes of subparagraph (A)(i), an efficiency improvement or addition to capacity shall be treated as placed in service before January 1, 2025, if the construction of such improvement or addition begins before such date.
 
 #### (10) Indian coal production facility ####
 
@@ -362,9 +602,9 @@ The term "Indian coal production facility" means a facility that produces Indian
 
 In the case of a facility producing electricity from marine and hydrokinetic renewable energy, the term "qualified facility" means any facility owned by the taxpayer—
 
-(A) which has a nameplate capacity rating of at least 150 kilowatts, and
+(A) which has a nameplate capacity rating of at least 25 kilowatts, and
 
-(B) which is originally placed in service on or after the date of the enactment of this paragraph and the construction of which begins before January 1, 2022.
+(B) which is originally placed in service on or after the date of the enactment of this paragraph and the construction of which begins before January 1, 2025.
 
 #### (e) Definitions and special rules ####
 
@@ -504,7 +744,7 @@ The term "qualified facility" shall not include any facility which produces elec
 
 #### (i) In general ####
 
-The term "refined coal production facility" shall not include any facility the production from which is allowed as a credit under section 45K for the taxable year or any prior taxable year (or under section 29,<sup><a href="#45_1_target" name="45_1">1</a></sup> as in effect on the day before the date of enactment of the Energy Tax Incentives Act of 2005, for any prior taxable year).
+The term "refined coal production facility" shall not include any facility the production from which is allowed as a credit under section 45K for the taxable year or any prior taxable year (or under section 29,<sup><a href="#45_3_target" name="45_3">3</a></sup> as in effect on the day before the date of enactment of the Energy Tax Incentives Act of 2005, for any prior taxable year).
 
 #### (ii) Exception for steel industry coal ####
 
@@ -576,7 +816,19 @@ shall be treated as an increase in tax imposed by this chapter on the organizati
 
 For purposes of this section the term "eligible cooperative" means a cooperative organization described in section 1381(a) which is owned more than 50 percent by agricultural producers or by entities owned by agricultural producers. For this purpose an entity owned by an agricultural producer is one that is more than 50 percent owned by agricultural producers.
 
-(Added Pub. L. 102–486, title XIX, §1914(a), Oct. 24, 1992, 106 Stat. 3020; amended Pub. L. 106–170, title V, §507(a)–(c), Dec. 17, 1999, 113 Stat. 1922; Pub. L. 106–554, §1(a)(7) [title III, §319(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–147, title VI, §603(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title III, §313(a), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 108–357, title VII, §710(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1552–1557; Pub. L. 109–58, title XIII, §§1301(a)–(f)(4), 1302(a), 1322(a)(3)(C), Aug. 8, 2005, 119 Stat. 986–990, 1011; Pub. L. 109–135, title IV, §§402(b), 403(t), 412(j), Dec. 21, 2005, 119 Stat. 2610, 2628, 2637; Pub. L. 109–432, div. A, title II, §201, Dec. 20, 2006, 120 Stat. 2944; Pub. L. 110–172, §§7(b), 9(a), Dec. 29, 2007, 121 Stat. 2482, 2484; Pub. L. 110–343, div. B, title I, §§101(a)–(e), 102(a)–(e), 106(c)(3)(B), 108(a)–(d)(1), Oct. 3, 2008, 122 Stat. 3808–3810, 3815, 3819–3821; Pub. L. 111–5, div. B, title I, §1101(a), (b), Feb. 17, 2009, 123 Stat. 319; Pub. L. 111–312, title VII, §702(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §§406(a), 407(a), Jan. 2, 2013, 126 Stat. 2340; Pub. L. 113–295, div. A, title I, §§154(a), 155(a), title II, §210(g)(1), Dec. 19, 2014, 128 Stat. 4021, 4032; Pub. L. 114–113, div. P, title III, §301(a), div. Q, title I, §§186(a)–(c), (d)(2), 187(a), Dec. 18, 2015, 129 Stat. 3038, 3073, 3074; Pub. L. 115–123, div. D, title I, §§40408(a), 40409(a), Feb. 9, 2018, 132 Stat. 149, 150; Pub. L. 115–141, div. U, title IV, §401(a)(14)–(16), Mar. 23, 2018, 132 Stat. 1185; Pub. L. 116–94, div. Q, title I, §§127(a), (c)(1), (2)(A), 128(a), Dec. 20, 2019, 133 Stat. 3231, 3232; Pub. L. 116–260, div. EE, title I, §§131(a), (c)(1), 145(a), Dec. 27, 2020, 134 Stat. 3052, 3054.)
+#### (12) Coordination with energy credit for qualified biogas property ####
+
+The term "qualified facility" shall not include any facility which produces electricity from gas produced by qualified biogas property (as defined in section 48(c)(7)) if a credit is allowed under section 48 with respect to such property for the taxable year or any prior taxable year.
+
+#### (13) Special rule for electricity used at a qualified clean hydrogen production facility ####
+
+Electricity produced by the taxpayer shall be treated as sold by such taxpayer to an unrelated person during the taxable year if—
+
+(A) such electricity is used during such taxable year by the taxpayer or a person related to the taxpayer at a qualified clean hydrogen production facility (as defined in section 45V(c)(3)) to produce qualified clean hydrogen (as defined in section 45V(c)(2)), and
+
+(B) such use and production is verified (in such form or manner as the Secretary may prescribe) by an unrelated third party.
+
+(Added Pub. L. 102–486, title XIX, §1914(a), Oct. 24, 1992, 106 Stat. 3020; amended Pub. L. 106–170, title V, §507(a)–(c), Dec. 17, 1999, 113 Stat. 1922; Pub. L. 106–554, §1(a)(7) [title III, §319(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–147, title VI, §603(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title III, §313(a), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 108–357, title VII, §710(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1552–1557; Pub. L. 109–58, title XIII, §§1301(a)–(f)(4), 1302(a), 1322(a)(3)(C), Aug. 8, 2005, 119 Stat. 986–990, 1011; Pub. L. 109–135, title IV, §§402(b), 403(t), 412(j), Dec. 21, 2005, 119 Stat. 2610, 2628, 2637; Pub. L. 109–432, div. A, title II, §201, Dec. 20, 2006, 120 Stat. 2944; Pub. L. 110–172, §§7(b), 9(a), Dec. 29, 2007, 121 Stat. 2482, 2484; Pub. L. 110–343, div. B, title I, §§101(a)–(e), 102(a)–(e), 106(c)(3)(B), 108(a)–(d)(1), Oct. 3, 2008, 122 Stat. 3808–3810, 3815, 3819–3821; Pub. L. 111–5, div. B, title I, §1101(a), (b), Feb. 17, 2009, 123 Stat. 319; Pub. L. 111–312, title VII, §702(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §§406(a), 407(a), Jan. 2, 2013, 126 Stat. 2340; Pub. L. 113–295, div. A, title I, §§154(a), 155(a), title II, §210(g)(1), Dec. 19, 2014, 128 Stat. 4021, 4032; Pub. L. 114–113, div. P, title III, §301(a), div. Q, title I, §§186(a)–(c), (d)(2), 187(a), Dec. 18, 2015, 129 Stat. 3038, 3073, 3074; Pub. L. 115–123, div. D, title I, §§40408(a), 40409(a), Feb. 9, 2018, 132 Stat. 149, 150; Pub. L. 115–141, div. U, title IV, §401(a)(14)–(16), Mar. 23, 2018, 132 Stat. 1185; Pub. L. 116–94, div. Q, title I, §§127(a), (c)(1), (2)(A), 128(a), Dec. 20, 2019, 133 Stat. 3231, 3232; Pub. L. 116–260, div. EE, title I, §§131(a), (c)(1), 145(a), Dec. 27, 2020, 134 Stat. 3052, 3054; Pub. L. 117–169, title I, §§13101(a)–(c), (e)(1), (2)(A), (f)–(j), 13102(f)(4), 13204(b)(1), Aug. 16, 2022, 136 Stat. 1906–1913, 1916, 1939.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -603,6 +855,54 @@ The date of enactment of the Energy Tax Incentives Act of 2005, referred to in s
 A prior section 45 was renumbered section 37 of this title.
 
 #### Amendments ####
+
+**2022**—Subsec. (a)(1). Pub. L. 117–169, §13101(b)(1), substituted "0.3 cents" for "1.5 cents".
+
+Subsec. (b)(2). Pub. L. 117–169, §13101(i)(1), substituted "If the 0.3 cent amount as increased under the preceding sentence is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. In any other case, if an amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent." for "If any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent."Pub. L. 117–169, §13101(b)(2), substituted "0.3 cent" for "1.5 cent".
+
+Subsec. (b)(3). Pub. L. 117–169, §13101(h), amended par. (3) generally. Prior to amendment, par. (3) related to credit reduced for grants, tax-exempt bonds, subsidized energy financing, and other credits.
+
+Subsec. (b)(4)(A). Pub. L. 117–169, §13101(j)(1), substituted "or (7)" for "(7), (9), or (11)".
+
+Pub. L. 117–169, §13101(i)(2), substituted "last two sentences" for "last sentence".
+
+Subsec. (b)(5). Pub. L. 117–169, §13101(e)(2)(A), inserted "which is placed in service before January 1, 2022" after "using wind to produce electricity" in introductory provisions.
+
+Subsec. (b)(6) to (8). Pub. L. 117–169, §13101(f), added pars. (6) to (8).
+
+Subsec. (b)(9). Pub. L. 117–169, §13101(g)(2), added par. (9). Former par. (9) (added by section 13101(f), see below) redesignated (12).Pub. L. 117–169, §13101(f), added par. (9), which was subsequently redesignated (12).
+
+Subsec. (b)(10), (11). Pub. L. 117–169, §13101(g)(2), added pars. (10) and (11).
+
+Subsec. (b)(12). Pub. L. 117–169, §13101(g)(1), redesignated par. (9) as (12).
+
+Subsec. (c)(10)(A)(v). Pub. L. 117–169, §13101(j)(2)(A), added cl. (v). Conforming amendment striking "or" in cl. (iii) was executed by striking the "or" at the end of the clause, to reflect the probable intent of Congress.
+
+Subsec. (d)(1). Pub. L. 117–169, §13101(e)(1), substituted "January 1, 2025" for "January 1, 2022".
+
+Subsec. (d)(2)(A). Pub. L. 117–169, §13101(a)(1), substituted "January 1, 2025" for "January 1, 2022" wherever appearing.
+
+Subsec. (d)(3)(A)(i)(I), (ii). Pub. L. 117–169, §13101(a)(2), substituted "January 1, 2025" for "January 1, 2022".
+
+Subsec. (d)(4). Pub. L. 117–169, §13101(c), substituted "and the construction of which begins before January 1, 2025" for "and which—
+
+"(A) in the case of a facility using solar energy, is placed in service before January 1, 2006, or
+
+"(B) in the case of a facility using geothermal energy, the construction of which begins before January 1, 2022"
+
+Concluding provisions following former subpar. (B) were joined with the preceding paragraph to reflect the probable intent of Congress.
+
+Subsec. (d)(6), (7). Pub. L. 117–169, §13101(a)(3), (4), substituted "January 1, 2025" for "January 1, 2022".
+
+Subsec. (d)(9)(A)(i), (ii), (C). Pub. L. 117–169, §13101(a)(5), substituted "January 1, 2025" for "January 1, 2022".
+
+Subsec. (d)(11)(A). Pub. L. 117–169, §13101(j)(2)(B), substituted "25" for "150".
+
+Subsec. (d)(11)(B). Pub. L. 117–169, §13101(a)(6), substituted "January 1, 2025" for "January 1, 2022".
+
+Subsec. (e)(12). Pub. L. 117–169, §13102(f)(4), added par. (12).
+
+Subsec. (e)(13). Pub. L. 117–169, §13204(b)(1), added par. (13).
 
 **2020**—Subsec. (b)(5)(D). Pub. L. 116–260, §131(c)(1), substituted "January 1, 2022" for "January 1, 2021".
 
@@ -854,6 +1154,26 @@ Subsec. (d)(6), (7). Pub. L. 106–170, §507(c), added pars. (6) and (7).
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Effective Date of 2022 Amendment ####
+
+Pub. L. 117–169, title I, §13101(k), Aug. 16, 2022, 136 Stat. 1913, provided that:
+
+"(1) In general.—Except as provided in paragraphs (2) and (3), the amendments made by this section [amending this section and section 48 of this title] shall apply to facilities placed in service after December 31, 2021.
+
+"(2) Credit reduced for tax-exempt bonds.—The amendment made by subsection (h) [amending this section] shall apply to facilities the construction of which begins after the date of enactment of this Act [Aug. 16, 2022].
+
+"(3) Domestic content, phaseout, energy communities, and hydropower.—The amendments made by subsections (g) and (j) [amending this section] shall apply to facilities placed in service after December 31, 2022."
+
+Pub. L. 117–169, title I, §13102(q), Aug. 16, 2022, 136 Stat. 1921, provided that:
+
+"(1) In general.—Except as provided in paragraphs (2) and (3), the amendments made by this section [amending this section and sections 48, 50, and 7701 of this title] shall apply to property placed in service after December 31, 2021.
+
+"(2) Other property.—The amendments made by subsections (f), (g), (h), (i), (j), (l), (n), and (o) [amending this section and sections 48, 50, and 7701 of this title] shall apply to property placed in service after December 31, 2022.
+
+"(3) Special rule for property financed by tax-exempt bonds.—The amendments made by subsection (m) [amending section 48 of this title] shall apply to property the construction of which begins after the date of enactment of this Act [Aug. 16, 2022]."
+
+Pub. L. 117–169, title I, §13204(b)(3), Aug. 16, 2022, 136 Stat. 1940, provided that: "The amendments made by this subsection [amending this section and section 45U of this title] shall apply to electricity produced after December 31, 2022."
+
 #### Effective Date of 2020 Amendment ####
 
 Pub. L. 116–260, div. EE, title I, §131(d), Dec. 27, 2020, 134 Stat. 3052, provided that: "The amendments made by this section [amending this section and section 48 of this title] shall take effect on January 1, 2021."
@@ -1042,4 +1362,8 @@ Provisions relating to inflation adjustment of items in this section for certain
 
 **1996**—Internal Revenue Notice 96–25.
 
-[<sup>1</sup> See References in Text note below.](#45_1)
+[<sup>1</sup> So in original. Probably should be "$5,000".](#45_1)
+
+[<sup>2</sup> So in original. Probably should be "part".](#45_2)
+
+[<sup>3</sup> See References in Text note below.](#45_3)

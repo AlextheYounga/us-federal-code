@@ -11,3 +11,5 @@ Sec.
 3004. National goal for renewable energy production on Federal land.
 
 3005. Savings clause.
+
+3006. Ensuring energy security.

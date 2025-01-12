@@ -10,6 +10,8 @@ Sec.
 
 40A. Biodiesel and renewable diesel used as fuel.
 
+40B. Sustainable aviation fuel credit.
+
 41. Credit for increasing research activities.
 
 42. Low-income housing credit.
@@ -62,9 +64,25 @@ Sec.
 
 45T. Auto-enrollment option for retirement savings options provided by small employers.
 
+45U. Zero-emission nuclear power production credit.
+
+45V. Credit for production of clean hydrogen.
+
+45W. Qualified commercial clean vehicle credit. 1
+
+45X. Advanced manufacturing production credit.
+
+45Y. Clean electricity production credit.
+
+45Z. Clean fuel production credit.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–169, title I, §§13105(b)(2), 13204(a)(4)(B), 13403(b)(3), 13502(b)(2), 13701(b)(2), 13704(b)(4), Aug. 16, 2022, 136 Stat. 1931, 1939, 1966, 1981, 1990, 2002, added items 45U to 45Z.
+
+Pub. L. 117–169, title I, §13203(d)(2)(D), Aug. 16, 2022, 136 Stat. 1935, which directed amendment of the analysis for "subpart D of subchapter A of chapter 1" by adding item 40B, was executed to this analysis, which is for subpart D of part IV of subchapter A of chapter 1, to reflect the probable intent of Congress.
 
 **2019**—Pub. L. 116–94, div. O, title I, §105(c), Dec. 20, 2019, 133 Stat. 3148, added item 45T.
 
@@ -105,3 +123,5 @@ Pub. L. 107–16, title II, §205(b)(2), June 7, 2001, 115 Stat. 53, added item 
 **1986**—Pub. L. 99–514, title II, §§231(d)(3)(K), 252(d), Oct. 22, 1986, 100 Stat. 2180, 2205, added item 41 relating to credit for increasing research activities and item 42.
 
 **1984**—Pub. L. 98–369, div. A, title IV, §471(b), July 18, 1984, 98 Stat. 826, added subpart D heading and analysis of sections for subpart D, consisting of items 38 (new), 39 (new), 40 (formerly 44E), and 41 (formerly 44G). Former subpart D was redesignated F.
+
+[<sup>1</sup> So in original. Does not conform to section catchline.](#I_1)

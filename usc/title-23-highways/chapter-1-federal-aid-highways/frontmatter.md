@@ -154,9 +154,17 @@ Sec.
 
 176. Promoting Resilient Operations for Transformative, Efficient, and Cost-saving Transportation (PROTECT) program.
 
+177. Neighborhood access and equity grant program.
+
+178. Environmental review implementation funds.
+
+179. Low-carbon transportation materials grants.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–169, title VI, §§60501(b), 60505(b), 60506(b), Aug. 16, 2022, 136 Stat. 2083, 2085, 2086, added items 177 to 179.
 
 **2021**—Pub. L. 117–58, div. A, title I, §§11110(b), 11118(b), 11123(b)(2), 11123(c)(2), 11132(b), 11203(b), 11301(b), 11312(b), 11403(b), 11405(b), 11501(b), Nov. 15, 2021, 135 Stat. 475, 495, 502, 505, 514, 520, 530, 539, 558, 575, 578, added items 124, 157, and 171 to 176, substituted "Nationally significant multimodal freight and highway projects" for "Nationally significant freight and highway projects" in item 117 and "Efficient environmental reviews for project decisionmaking and One Federal Decision" for "Efficient environmental reviews for project decisionmaking" in item 139, and struck out item 105 "Additional deposits into Highway Trust Fund".
 

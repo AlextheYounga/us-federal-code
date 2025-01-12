@@ -176,9 +176,11 @@ If during any taxable year there is a recapture amount determined with respect t
 
 In the case of any energy credit—
 
-(A) only 50 percent of such credit shall be taken into account under paragraph (1), and
+(A) only 50 percent of such credit shall be taken into account under paragraph (1),
 
-(B) only 50 percent of any recapture amount attributable to such credit shall be taken into account under paragraph (2).
+(B) only 50 percent of any recapture amount attributable to such credit shall be taken into account under paragraph (2), and
+
+(C) paragraph (1) shall not apply for purposes of determining eligible basis under section 42.
 
 #### (4) Recapture of reductions ####
 
@@ -206,7 +208,13 @@ For purposes of this subpart, rules similar to the rules of the following provis
 
 (1) Section 46(e) (relating to limitations with respect to certain persons).
 
-(2) Section 46(f) (relating to limitation in case of certain regulated companies).
+(2) Section 46(f) (relating to limitation in case of certain regulated companies). At the election of a taxpayer, this paragraph shall not apply to any energy storage technology (as defined in section 48(c)(6)), provided—
+
+(A) no election under this paragraph shall be permitted if the making of such election is prohibited by a State or political subdivision thereof, by any agency or instrumentality of the United States, or by a public service or public utility commission or other similar body of any State or political subdivision that regulates public utilities as described in section 7701(a)(33)(A),
+
+(B) an election under this paragraph shall be made separately with respect to each energy storage technology by the due date (including extensions) of the Federal tax return for the taxable year in which the energy storage technology is placed in service by the taxpayer, and once made, may be revoked only with the consent of the Secretary, and
+
+(C) an election shall not apply with respect to any energy storage technology if such energy storage technology has a maximum capacity equal to or less than 500 kilowatt hours.
 
 (3) Section 46(h) (relating to special rules for cooperatives).
 
@@ -218,9 +226,19 @@ For purposes of this subpart, rules similar to the rules of the following provis
 
 (7) Section 48(r) (relating to certain 501(d) organizations).
 
-Paragraphs (1)(A), (2)(A), and (4) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any taxable year beginning after December 31, 1995.
+Paragraphs (1)(A), (2)(A), and (4) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any taxable year beginning after December 31, 1995. In the case of a real estate investment trust making an election under section 6418, paragraphs (1)(B) and (2)(B) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any investment credit property of such real estate investment trust to which such election applies.
 
-(Added Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–546; amended Pub. L. 104–188, title I, §§1616(b)(1), 1702(h)(11), 1704(t)(29), Aug. 20, 1996, 110 Stat. 1856, 1874, 1889; Pub. L. 105–206, title VI, §6004(g)(7), July 22, 1998, 112 Stat. 796; Pub. L. 108–357, title III, §322(d)(2)(D), Oct. 22, 2004, 118 Stat. 1475; Pub. L. 109–135, title IV, §412(o), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 113–295, div. A, title II, §220(d), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–141, div. U, title IV, §401(a)(25), (d)(3)(B)(ii), Mar. 23, 2018, 132 Stat. 1185, 1209; Pub. L. 117–167, div. A, §107(b)(1)–(3)(B), (d)(3), Aug. 9, 2022, 136 Stat. 1397–1399.)
+(Added Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–546; amended Pub. L. 104–188, title I, §§1616(b)(1), 1702(h)(11), 1704(t)(29), Aug. 20, 1996, 110 Stat. 1856, 1874, 1889; Pub. L. 105–206, title VI, §6004(g)(7), July 22, 1998, 112 Stat. 796; Pub. L. 108–357, title III, §322(d)(2)(D), Oct. 22, 2004, 118 Stat. 1475; Pub. L. 109–135, title IV, §412(o), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 113–295, div. A, title II, §220(d), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–141, div. U, title IV, §401(a)(25), (d)(3)(B)(ii), Mar. 23, 2018, 132 Stat. 1185, 1209; Pub. L. 117–167, div. A, §107(b)(1)–(3)(B), (d)(3), Aug. 9, 2022, 136 Stat. 1397–1399; Pub. L. 117–169, title I, §§13102(f)(5), (i), 13702(b)(3), (4), 13801(c), Aug. 16, 2022, 136 Stat. 1917, 1997, 2012.)
+
+#### Amendment of Section ####
+
+Pub. L. 117–169, title I, §13702(b)(3), (4), (c), Aug. 16, 2022, 136 Stat. 1997, provided that, applicable to property placed in service after Dec. 31, 2024, this section is amended:
+
+(1) in subsection (a)(2)(E), by striking "or 48D(b)(5)" and inserting "48D(b)(5), or 48E(e)"; and
+
+(2) in subsection (c)(3), by inserting "or clean electricity investment credit" after "In the case of any energy credit".
+
+See 2022 Amendment notes below.
 
 #### **Editorial Notes** ####
 
@@ -238,7 +256,9 @@ A prior section 50, Pub. L. 92–178, title I, §101(a), Dec. 10, 1971, 85 Stat.
 
 #### Amendments ####
 
-**2022**—Subsec. (a)(2)(E). Pub. L. 117–167, §107(d)(3), substituted "48C(b)(2), or 48D(b)(5)" for "or 48C(b)(2)".
+**2022**—Subsec. (a)(2)(E). Pub. L. 117–169, §13702(b)(3), substituted "48D(b)(5), or 48E(e)" for "or 48D(b)(5)".
+
+Pub. L. 117–167, §107(d)(3), substituted "48C(b)(2), or 48D(b)(5)" for "or 48C(b)(2)".
 
 Subsec. (a)(3). Pub. L. 117–167, §107(b)(1), added par. (3). Former par. (3) redesignated (4).
 
@@ -253,6 +273,14 @@ Subsec. (a)(5), (6). Pub. L. 117–167, §107(b)(1), redesignated pars. (4) as (
 Subsec. (a)(6)(C). Pub. L. 117–167, §107(b)(3)(B), substituted "paragraph (1), (2), or (3)" for "paragraph (1) or (2)".
 
 Subsec. (a)(6)(D), (E). Pub. L. 117–167, §107(b)(2), added subpars. (D) and (E).
+
+Subsec. (c)(3). Pub. L. 117–169, §13702(b)(4), inserted "or clean electricity investment credit" after "In the case of any energy credit" in introductory provisions.
+
+Subsec. (c)(3)(C). Pub. L. 117–169, §13102(i), added subpar. (C).
+
+Subsec. (d). Pub. L. 117–169, §13801(c), inserted "In the case of a real estate investment trust making an election under section 6418, paragraphs (1)(B) and (2)(B) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any investment credit property of such real estate investment trust to which such election applies." at end of concluding provisions.
+
+Subsec. (d)(2). Pub. L. 117–169, §13102(f)(5), inserted "At the election of a taxpayer, this paragraph shall not apply to any energy storage technology (as defined in section 48(c)(6)), provided—" after "companies)." and added subpars. (A) to (C).
 
 **2018**—Subsec. (a)(2)(E). Pub. L. 115–141, §401(d)(3)(B)(ii), substituted "or 48C(b)(2)" for "48C(b)(2), or 48D(b)(4)".
 
@@ -275,6 +303,12 @@ Subsec. (d). Pub. L. 104–188, §1616(b)(1), inserted closing provisions.
 #### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2022 Amendment ####
+
+Amendment by section 13102(f)(5), (i) of Pub. L. 117–169 applicable to property placed in service after Dec. 31, 2022, see section 13102(q)(2) of Pub. L. 117–169, set out in a note under section 45 of this title.
+
+Amendment by section 13702(b)(3), (4) of Pub. L. 117–169 applicable to property placed in service after Dec. 31, 2024, see section 13702(c) of Pub. L. 117–169, set out as an Effective Date note under section 48E of this title.
+
+Amendment by section 13801(c) of Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 13801(g) of Pub. L. 117–169, set out as an Effective Date note under section 6417 of this title.
 
 Amendment by Pub. L. 117–167 applicable to property placed in service after Dec. 31, 2022, and, for any property the construction of which begins prior to Jan. 1, 2023, only to the extent of the basis thereof attributable to the construction, reconstruction, or erection after Aug. 9, 2022, see section 107(f) of Pub. L. 117–167, set out as a note under section 905 of Title 2, The Congress.
 

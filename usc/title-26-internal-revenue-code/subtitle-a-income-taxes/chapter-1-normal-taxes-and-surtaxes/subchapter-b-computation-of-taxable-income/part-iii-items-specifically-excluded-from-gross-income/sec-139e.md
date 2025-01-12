@@ -46,7 +46,7 @@ Any items of cultural significance, reimbursement of costs, or cash honorarium f
 
 (Added Pub. L. 113–168, §2(a), Sept. 26, 2014, 128 Stat. 1883; amended Pub. L. 115–141, div. U, title IV, §401(a)(42), (43), Mar. 23, 2018, 132 Stat. 1186.)
 
-#### **Statutory Notes and Related Subsidiaries** ####
+#### **Editorial Notes** ####
 
 #### References in Text ####
 

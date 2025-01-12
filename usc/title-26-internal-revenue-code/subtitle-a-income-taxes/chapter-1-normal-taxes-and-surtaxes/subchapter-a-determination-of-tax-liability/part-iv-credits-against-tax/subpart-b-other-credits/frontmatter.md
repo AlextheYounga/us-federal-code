@@ -12,11 +12,13 @@ Sec.
 
 30C. Alternative fuel vehicle refueling property credit.
 
-30D. New qualified plug-in electric drive motor vehicles.
+30D. Clean vehicle credit.
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–169, title I, §13401(i)(6), Aug. 16, 2022, 136 Stat. 1961, added item 30D and struck out former item 30D "New qualified plug-in electric drive motor vehicles".
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(i), Mar. 23, 2018, 132 Stat. 1206, substituted "Taxes of foreign countries and possessions of the United States" for "Taxes of foreign countries and possessions of the United States; possession tax credit" in item 27.
 

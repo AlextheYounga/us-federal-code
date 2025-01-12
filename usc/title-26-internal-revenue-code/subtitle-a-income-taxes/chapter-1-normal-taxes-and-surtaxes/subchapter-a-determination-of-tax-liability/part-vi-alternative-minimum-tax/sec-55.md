@@ -2,17 +2,19 @@
 
 #### (a) General rule ####
 
-In the case of a taxpayer other than a corporation, there is hereby imposed (in addition to any other tax imposed by this subtitle) a tax equal to the excess (if any) of—
+There is hereby imposed (in addition to any other tax imposed by this subtitle) a tax equal to the excess (if any) of—
 
 (1) the tentative minimum tax for the taxable year, over
 
-(2) the regular tax for the taxable year.
+(2) the regular tax for the taxable year plus, in the case of an applicable corporation, the tax imposed by section 59A.
 
 #### (b) Tentative minimum tax ####
 
 For purposes of this part—
 
-#### (1) Amount of tentative tax ####
+#### (1) Noncorporate taxpayers ####
+
+In the case of a taxpayer other than a corporation—
 
 #### (A) In general ####
 
@@ -32,15 +34,29 @@ For purposes of this subsection, the term "taxable excess" means so much of the 
 
 In the case of a married individual filing a separate return, subparagraph (A) shall be applied by substituting 50 percent of the dollar amount otherwise applicable under clause (i) and clause (ii) thereof. For purposes of the preceding sentence, marital status shall be determined under section 7703.
 
-#### (2) Alternative minimum taxable income ####
+#### (D) Alternative minimum taxable income ####
 
 The term "alternative minimum taxable income" means the taxable income of the taxpayer for the taxable year—
 
-(A) determined with the adjustments provided in section 56 and section 58, and
+(i) determined with the adjustments provided in section 56 and section 58, and
 
-(B) increased by the amount of the items of tax preference described in section 57.
+(ii) increased by the amount of the items of tax preference described in section 57.
 
-If a taxpayer is subject to the regular tax, such taxpayer shall be subject to the tax imposed by this section (and, if the regular tax is determined by reference to an amount other than taxable income, such amount shall be treated as the taxable income of such taxpayer for purposes of the preceding sentence).
+ If a taxpayer is subject to the regular tax, such taxpayer shall be subject to the tax imposed by this section (and, if the regular tax is determined by reference to an amount other than taxable income, such amount shall be treated as the taxable income of such taxpayer for purposes of the preceding sentence).
+
+#### (2) Corporations ####
+
+#### (A) Applicable corporations ####
+
+In the case of an applicable corporation, the tentative minimum tax for the taxable year shall be the excess of—
+
+(i) 15 percent of the adjusted financial statement income for the taxable year (as determined under section 56A), over
+
+(ii) the corporate AMT foreign tax credit for the taxable year.
+
+#### (B) Other corporations ####
+
+In the case of any corporation which is not an applicable corporation, the tentative minimum tax for the taxable year shall be zero.
 
 #### (3) Maximum rate of tax on net capital gain of noncorporate taxpayers ####
 
@@ -190,7 +206,7 @@ Any increased amount determined under clause (i) shall be rounded to the nearest
 
 In the case of any taxable year to which subparagraph (A) applies, no adjustment shall be made under paragraph (3) to any of the numbers which are substituted under subparagraph (A) and adjusted under this subparagraph.
 
-(Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(l)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388–551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462; Pub. L. 104–188, title I, §§1205(d)(6), 1401(b)(3), 1601(b)(2)(A), Aug. 20, 1996, 110 Stat. 1776, 1788, 1832; Pub. L. 105–34, title III, §311(b)(1), (2)(A), title IV, §401(a), title XVI, §1601(f)(1)(C), Aug. 5, 1997, 111 Stat. 834, 835, 843, 1090; Pub. L. 105–206, title VI, §§6005(d)(2), 6006(a), July 22, 1998, 112 Stat. 804, 806; Pub. L. 107–16, title VII, §701(a), (b), June 7, 2001, 115 Stat. 148; Pub. L. 108–27, title I, §106(a), title III, §301(a)(1), (2)(B), (b)(2), May 28, 2003, 117 Stat. 755, 758; Pub. L. 108–311, title I, §103(a), title IV, §406(d), Oct. 4, 2004, 118 Stat. 1168, 1189; Pub. L. 108–357, title III, §314(a), Oct. 22, 2004, 118 Stat. 1468; Pub. L. 109–58, title XIII, §§1302(b), 1322(a)(3)(H), 1341(b)(3), 1342(b)(3), Aug. 8, 2005, 119 Stat. 991, 1012, 1049, 1051; Pub. L. 109–135, title IV, §§403(h), 412(p), Dec. 21, 2005, 119 Stat. 2624, 2638; Pub. L. 109–222, title III, §301(a), May 17, 2006, 120 Stat. 353; Pub. L. 110–166, §2(a), Dec. 26, 2007, 121 Stat. 2461; Pub. L. 110–234, title XV, §15311(b), May 22, 2008, 122 Stat. 1503; Pub. L. 110–246, §4(a), title XV, §15311(b), June 18, 2008, 122 Stat. 1664, 2265; Pub. L. 110–343, div. C, title I, §102(a), Oct. 3, 2008, 122 Stat. 3863; Pub. L. 111–5, div. B, title I, §§1012(a), 1142(b)(5), 1144(b)(3), Feb. 17, 2009, 123 Stat. 319, 331, 332; Pub. L. 111–240, title II, §2013(b), Sept. 27, 2010, 124 Stat. 2555; Pub. L. 111–312, title II, §201(a), Dec. 17, 2010, 124 Stat. 3299; Pub. L. 112–240, title I, §§102(b)(2), (c)(2), 104(a), (b), (c)(2)(J), Jan. 2, 2013, 126 Stat. 2319, 2320, 2322; Pub. L. 113–295, div. A, title II, §202(c), Dec. 19, 2014, 128 Stat. 4024; Pub. L. 114–113, div. Q, title III, §334(b), Dec. 18, 2015, 129 Stat. 3108; Pub. L. 115–97, title I, §§11002(d)(1)(I), 12001(a), (b)(3)(A), (B), (4)–(6), 12003(a), Dec. 22, 2017, 131 Stat. 2060, 2092, 2093, 2095; Pub. L. 116–94, div. O, title V, §501(b), Dec. 20, 2019, 133 Stat. 3180.)
+(Added and amended Pub. L. 99–514, title II, §252(c), title VII, §701(a), Oct. 22, 1986, 100 Stat. 2205, 2321; Pub. L. 100–647, title I, §§1002(l)(27), 1007(a), Nov. 10, 1988, 102 Stat. 3381, 3428; Pub. L. 101–508, title XI, §§11102(a), 11813(b)(5), Nov. 5, 1990, 104 Stat. 1388–406, 1388–551; Pub. L. 102–318, title V, §521(b)(1), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(b)(2)(D), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §13203(a)–(c)(1), Aug. 10, 1993, 107 Stat. 461, 462; Pub. L. 104–188, title I, §§1205(d)(6), 1401(b)(3), 1601(b)(2)(A), Aug. 20, 1996, 110 Stat. 1776, 1788, 1832; Pub. L. 105–34, title III, §311(b)(1), (2)(A), title IV, §401(a), title XVI, §1601(f)(1)(C), Aug. 5, 1997, 111 Stat. 834, 835, 843, 1090; Pub. L. 105–206, title VI, §§6005(d)(2), 6006(a), July 22, 1998, 112 Stat. 804, 806; Pub. L. 107–16, title VII, §701(a), (b), June 7, 2001, 115 Stat. 148; Pub. L. 108–27, title I, §106(a), title III, §301(a)(1), (2)(B), (b)(2), May 28, 2003, 117 Stat. 755, 758; Pub. L. 108–311, title I, §103(a), title IV, §406(d), Oct. 4, 2004, 118 Stat. 1168, 1189; Pub. L. 108–357, title III, §314(a), Oct. 22, 2004, 118 Stat. 1468; Pub. L. 109–58, title XIII, §§1302(b), 1322(a)(3)(H), 1341(b)(3), 1342(b)(3), Aug. 8, 2005, 119 Stat. 991, 1012, 1049, 1051; Pub. L. 109–135, title IV, §§403(h), 412(p), Dec. 21, 2005, 119 Stat. 2624, 2638; Pub. L. 109–222, title III, §301(a), May 17, 2006, 120 Stat. 353; Pub. L. 110–166, §2(a), Dec. 26, 2007, 121 Stat. 2461; Pub. L. 110–234, title XV, §15311(b), May 22, 2008, 122 Stat. 1503; Pub. L. 110–246, §4(a), title XV, §15311(b), June 18, 2008, 122 Stat. 1664, 2265; Pub. L. 110–343, div. C, title I, §102(a), Oct. 3, 2008, 122 Stat. 3863; Pub. L. 111–5, div. B, title I, §§1012(a), 1142(b)(5), 1144(b)(3), Feb. 17, 2009, 123 Stat. 319, 331, 332; Pub. L. 111–240, title II, §2013(b), Sept. 27, 2010, 124 Stat. 2555; Pub. L. 111–312, title II, §201(a), Dec. 17, 2010, 124 Stat. 3299; Pub. L. 112–240, title I, §§102(b)(2), (c)(2), 104(a), (b), (c)(2)(J), Jan. 2, 2013, 126 Stat. 2319, 2320, 2322; Pub. L. 113–295, div. A, title II, §202(c), Dec. 19, 2014, 128 Stat. 4024; Pub. L. 114–113, div. Q, title III, §334(b), Dec. 18, 2015, 129 Stat. 3108; Pub. L. 115–97, title I, §§11002(d)(1)(I), 12001(a), (b)(3)(A), (B), (4)–(6), 12003(a), Dec. 22, 2017, 131 Stat. 2060, 2092, 2093, 2095; Pub. L. 116–94, div. O, title V, §501(b), Dec. 20, 2019, 133 Stat. 3180; Pub. L. 117–169, title I, §10101(a)(1), (3)–(4)(B)(i), Aug. 16, 2022, 136 Stat. 1818, 1821.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -211,6 +227,16 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 55, Pub. L. 95–600, title IV, §421(a), Nov. 6, 1978, 92 Stat. 2871; amended Pub. L. 96–222, title I, §104(a)(4)(A)–(D), (G), (H)(i), (ii), (viii), Apr. 1, 1980, 94 Stat. 215–218; Pub. L. 96–223, title II, §232(b)(2)(A), (c)(2), Apr. 2, 1980, 94 Stat. 276, 277; Pub. L. 96–603, §4(a), (b), Dec. 28, 1980, 94 Stat. 3513, 3514; Pub. L. 97–34, title I, §101(d)(1), title II, §221(b)(1)(A), title III, §331(d)(1)(A), Aug. 13, 1981, 95 Stat. 183, 246, 294; Pub. L. 97–248, title II, §201(a), Sept. 3, 1982, 96 Stat. 411; Pub. L. 97–354, §5(a)(13), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 97–448, title I, §103(g)(2)(E), title III, §§305(c), 306(a)(1)(B), (C), Jan. 12, 1983, 96 Stat. 2379, 2399, 2400; Pub. L. 98–369, div. A, title IV, §§474(q), 491(d)(1), title VI, §612(e)(3), title VII, §711(a)(1), (4), (5), July 18, 1984, 98 Stat. 838, 849, 912, 942, 943; Pub. L. 99–514, title XVIII, §1847(a), Oct. 22, 1986, 100 Stat. 2856, related to alternative minimum tax for taxpayers other than corporations, prior to the general revision of this part by Pub. L. 99–514, §701(a).
 
 #### Amendments ####
+
+**2022**—Subsec. (a). Pub. L. 117–169, §10101(a)(4)(A), substituted "There" for "In the case of a taxpayer other than a corporation, there" in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 117–169, §10101(a)(3), inserted "plus, in the case of an applicable corporation, the tax imposed by section 59A" before period at end.
+
+Subsec. (b)(1). Pub. L. 117–169, §10101(a)(4)(B)(i)(I), substituted "Noncorporate taxpayers" for "Amount of tentative tax" in heading and inserted introductory provisions.
+
+Subsec. (b)(1)(D). Pub. L. 117–169, §10101(a)(4)(B)(i)(II), added subpar. (D).
+
+Subsec. (b)(2). Pub. L. 117–169, §10101(a)(1), amended par. (2) generally. Prior to amendment, par. (2) defined "alternative minimum taxable income".
 
 **2019**—Subsec. (d)(4)(A)(iii). Pub. L. 116–94 added cl. (iii).
 
@@ -413,6 +439,10 @@ Subsec. (d)(3). Pub. L. 100–647, §1007(a)(3), inserted at end "In the case of
 **1986**—Subsec. (c)(1). Pub. L. 99–514, §252(c), inserted "or section 42(j)".
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Amendment by Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 10101(f) of Pub. L. 117–169, set out as a note under section 11 of this title.
 
 #### Effective Date of 2019 Amendment ####
 

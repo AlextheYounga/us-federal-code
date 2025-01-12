@@ -68,6 +68,20 @@ Sec.
 
 7431. Land use authority.
 
+7432. Clean heavy-duty vehicles.
+
+7433. Grants to reduce air pollution at ports.
+
+7434. Greenhouse gas reduction fund.
+
+7435. Low emissions electricity program.
+
+7436. Methane emissions and waste reduction incentive program for petroleum and natural gas systems.
+
+7437. Greenhouse gas air pollution plans and implementation grants.
+
+7438. Environmental and climate justice block grants.
+
 #### Part B—Ozone Protection ####
 
 7450 to 7459. Repealed.

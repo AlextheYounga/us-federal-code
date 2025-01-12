@@ -2,33 +2,65 @@
 
 #### (a) Credit allowed ####
 
-There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 30 percent of the cost of any qualified alternative fuel vehicle refueling property placed in service by the taxpayer during the taxable year.
+There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 30 percent (6 percent in the case of property of a character subject to depreciation) of the cost of any qualified alternative fuel vehicle refueling property placed in service by the taxpayer during the taxable year.
 
 #### (b) Limitation ####
 
-The credit allowed under subsection (a) with respect to all qualified alternative fuel vehicle refueling property placed in service by the taxpayer during the taxable year at a location shall not exceed—
+The credit allowed under subsection (a) with respect to any single item of qualified alternative fuel vehicle refueling property placed in service by the taxpayer during the taxable year shall not exceed—
 
-(1) $30,000 in the case of a property of a character subject to an allowance for depreciation, and
+(1) $100,000 in the case of any such item of property of a character subject to an allowance for depreciation, and
 
 (2) $1,000 in any other case.
 
 #### (c) Qualified alternative fuel vehicle refueling property ####
 
-For purposes of this section, the term "qualified alternative fuel vehicle refueling property" has the same meaning as the term "qualified clean-fuel vehicle refueling property" would have under section 179A if—
+For purposes of this section—
 
-(1) paragraph (1) of section 179A(d) did not apply to property installed on property which is used as the principal residence (within the meaning of section 121) of the taxpayer, and
+#### (1) In general ####
 
-(2) only the following were treated as clean-burning fuels for purposes of section 179A(d):
+The term "qualified alternative fuel vehicle refueling property" has the same meaning as the term "qualified clean-fuel vehicle refueling property" would have under section 179A if—
 
-(A) Any fuel at least 85 percent of the volume of which consists of one or more of the following: ethanol, natural gas, compressed natural gas, liquified natural gas, liquefied petroleum gas, or hydrogen.
+(A) paragraph (1) of section 179A(d) did not apply to property installed on property which is used as the principal residence (within the meaning of section 121) of the taxpayer, and
 
-(B) Any mixture—
+(B) only the following were treated as clean-burning fuels for purposes of section 179A(d):
 
-(i) which consists of two or more of the following: biodiesel (as defined in section 40A(d)(1)), diesel fuel (as defined in section 4083(a)(3)), or kerosene, and
+(i) Any fuel at least 85 percent of the volume of which consists of one or more of the following: ethanol, natural gas, compressed natural gas, liquified natural gas, liquefied petroleum gas, or hydrogen.
 
-(ii) at least 20 percent of the volume of which consists of biodiesel (as so defined) determined without regard to any kerosene in such mixture.
+(ii) Any mixture—
 
-(C) Electricity.
+(I) which consists of two or more of the following: biodiesel (as defined in section 40A(d)(1)), diesel fuel (as defined in section 4083(a)(3)), or kerosene, and
+
+(II) at least 20 percent of the volume of which consists of biodiesel (as so defined) determined without regard to any kerosene in such mixture.
+
+(iii) Electricity.
+
+#### (2) Bidirectional charging equipment ####
+
+Property shall not fail to be treated as qualified alternative fuel vehicle refueling property solely because such property—
+
+(A) is capable of charging the battery of a motor vehicle propelled by electricity, and
+
+(B) allows discharging electricity from such battery to an electric load external to such motor vehicle.
+
+#### (3) Property required to be located in eligible census tracts ####
+
+#### (A) In general ####
+
+Property shall not be treated as qualified alternative fuel vehicle refueling property unless such property is placed in service in an eligible census tract.
+
+#### (B) Eligible census tract ####
+
+#### (i) In general ####
+
+For purposes of this paragraph, the term "eligible census tract" means any population census tract which—
+
+(I) is described in section 45D(e), or
+
+(II) is not an urban area.
+
+#### (ii) Urban area ####
+
+For purposes of clause (i)(II), the term "urban area" means a census tract (as defined by the Bureau of the Census) which, according to the most recent decennial census, has been designated as an urban area by the Secretary of Commerce.
 
 #### (d) Application with other credits ####
 
@@ -72,15 +104,83 @@ Rules similar to the rules of section 179A(e)(4) shall apply.
 
 For purposes of this section, any reference to section 179A shall be treated as a reference to such section as in effect immediately before its repeal.
 
-#### (f) Regulations ####
+#### (f) Special rule for electric charging stations for certain vehicles with 2 or 3 wheels ####
+
+For purposes of this section—
+
+#### (1) In general ####
+
+The term "qualified alternative fuel vehicle refueling property" includes any property described in subsection (c) for the recharging of a motor vehicle described in paragraph (2), but only if such property—
+
+(A) meets the requirements of subsection (a)(2),<sup><a href="#30C_1_target" name="30C_1">1</a></sup> and
+
+(B) is of a character subject to depreciation.
+
+#### (2) Motor vehicle ####
+
+A motor vehicle is described in this paragraph if the motor vehicle—
+
+(A) is manufactured primarily for use on public streets, roads, or highways (not including a vehicle operated exclusively on a rail or rails),
+
+(B) has 2 or 3 wheels, and
+
+(C) is propelled by electricity.
+
+#### (g) Wage and apprenticeship requirements ####
+
+#### (1) Increased credit amount ####
+
+#### (A) In general ####
+
+In the case of any qualified alternative fuel vehicle refueling project which satisfies the requirements of subparagraph (C), the amount of the credit determined under subsection (a) for any qualified alternative fuel vehicle refueling property of a character subject to an allowance for depreciation which is part of such project shall be equal to such amount (determined without regard to this sentence) multiplied by 5.
+
+#### (B) Qualified alternative fuel vehicle refueling project ####
+
+For purposes of this subsection, the term "qualified alternative fuel vehicle refueling project" means a project consisting of one or more properties that are part of a single project.
+
+#### (C) Project requirements ####
+
+A project meets the requirements of this subparagraph if it is one of the following:
+
+(i) A project the construction of which begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (2)(A) and (3).
+
+(ii) A project which satisfies the requirements of paragraphs (2)(A) and (3).
+
+#### (2) Prevailing wage requirements ####
+
+#### (A) In general ####
+
+The requirements described in this subparagraph with respect to any qualified alternative fuel vehicle refueling project are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the construction of any qualified alternative fuel vehicle refueling property which is part of such project shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such project is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code.
+
+#### (B) Correction and penalty related to failure to satisfy wage requirements ####
+
+Rules similar to the rules of section 45(b)(7)(B) shall apply.
+
+#### (3) Apprenticeship requirements ####
+
+Rules similar to the rules of section 45(b)(8) shall apply.
+
+#### (4) Regulations and guidance ####
+
+The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
+
+#### (h) Regulations ####
 
 The Secretary shall prescribe such regulations as necessary to carry out the provisions of this section.
 
-#### (g) Termination ####
+#### (i) Termination ####
 
-This section shall not apply to any property placed in service after December 31, 2021.
+This section shall not apply to any property placed in service after December 31, 2032.
 
-(Added Pub. L. 109–58, title XIII, §1342(a), Aug. 8, 2005, 119 Stat. 1049; amended Pub. L. 109–135, title IV, §§402(k), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–172, §6(b), Dec. 29, 2007, 121 Stat. 2479; Pub. L. 110–343, div. B, title II, §207(a), (b), Oct. 3, 2008, 122 Stat. 3839; Pub. L. 111–5, div. B, title I, §§1123(a), 1142(b)(3), 1144(b)(2), Feb. 17, 2009, 123 Stat. 325, 331, 332; Pub. L. 111–312, title VII, §711(a), Dec. 17, 2010, 124 Stat. 3315; Pub. L. 112–240, title IV, §402(a), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §161(a), title II, §§218(b), 221(a)(34)(B), Dec. 19, 2014, 128 Stat. 4023, 4035, 4042; Pub. L. 114–113, div. Q, title I, §182(a), Dec. 18, 2015, 129 Stat. 3072; Pub. L. 115–123, div. D, title I, §40404(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 115–141, div. U, title IV, §401(b)(3), Mar. 23, 2018, 132 Stat. 1201; Pub. L. 116–94, div. Q, title I, §125(a), Dec. 20, 2019, 133 Stat. 3231; Pub. L. 116–260, div. EE, title I, §143(a), Dec. 27, 2020, 134 Stat. 3054.)
+(Added Pub. L. 109–58, title XIII, §1342(a), Aug. 8, 2005, 119 Stat. 1049; amended Pub. L. 109–135, title IV, §§402(k), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–172, §6(b), Dec. 29, 2007, 121 Stat. 2479; Pub. L. 110–343, div. B, title II, §207(a), (b), Oct. 3, 2008, 122 Stat. 3839; Pub. L. 111–5, div. B, title I, §§1123(a), 1142(b)(3), 1144(b)(2), Feb. 17, 2009, 123 Stat. 325, 331, 332; Pub. L. 111–312, title VII, §711(a), Dec. 17, 2010, 124 Stat. 3315; Pub. L. 112–240, title IV, §402(a), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §161(a), title II, §§218(b), 221(a)(34)(B), Dec. 19, 2014, 128 Stat. 4023, 4035, 4042; Pub. L. 114–113, div. Q, title I, §182(a), Dec. 18, 2015, 129 Stat. 3072; Pub. L. 115–123, div. D, title I, §40404(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 115–141, div. U, title IV, §401(b)(3), Mar. 23, 2018, 132 Stat. 1201; Pub. L. 116–94, div. Q, title I, §125(a), Dec. 20, 2019, 133 Stat. 3231; Pub. L. 116–260, div. EE, title I, §143(a), Dec. 27, 2020, 134 Stat. 3054; Pub. L. 117–169, title I, §§13404(a)–(e), 13704(b)(2), Aug. 16, 2022, 136 Stat. 1966–1968, 2002.)
+
+#### Amendment of Subsection (c)(1)(B) ####
+
+Pub. L. 117–169, title I, §13704(b)(2), (c), Aug. 16, 2022, 136 Stat. 2002, 2003, provided that, applicable to transportation fuel produced after Dec. 31, 2024, subsection (c)(1)(B) of this section is amended by adding at the end the following new clause (iv):
+
+*(iv) Any transportation fuel (as defined in section 45Z(d)(5)).*
+
+See 2022 Amendment note below.
 
 #### **Editorial Notes** ####
 
@@ -89,6 +189,28 @@ This section shall not apply to any property placed in service after December 31
 Section 179A as in effect immediately before its repeal, referred to in subsec. (e)(6), means section 179A of this title as in effect before it was repealed by Pub. L. 113–295, div. A, title II, §221(a)(34)(A), Dec, 19, 2014, 128 Stat. 4042, effective Dec. 19, 2014.
 
 #### Amendments ####
+
+**2022**—Subsec. (a). Pub. L. 117–169, §13404(b)(1), inserted "(6 percent in the case of property of a character subject to depreciation)" after "30 percent".
+
+Subsec. (b). Pub. L. 117–169, §13404(b)(2)(A), in introductory provisions, substituted "with respect to any single item of" for "with respect to all" and struck out "at a location" after "taxable year".
+
+Subsec. (b)(1). Pub. L. 117–169, §13404(b)(2)(B), substituted "$100,000 in the case of any such item of property" for "$30,000 in the case of a property".
+
+Subsec. (c). Pub. L. 117–169, §13404(b)(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to qualified alternative fuel vehicle refueling property.
+
+Subsec. (c)(1)(B)(iv). Pub. L. 117–169, §13704(b)(2), added cl. (iv).
+
+Subsec. (c)(3). Pub. L. 117–169, §13404(e), added par. (3).
+
+Subsec. (f). Pub. L. 117–169, §13404(c), added subsec. (f). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 117–169, §13404(d), added subsec. (g). Former subsec. (g) redesignated (h).
+
+Pub. L. 117–169, §13404(c), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+
+Pub. L. 117–169, §13404(a), substituted "December 31, 2032" for "December 31, 2021".
+
+Subsecs. (h), (i). Pub. L. 117–169, §13404(d), redesignated subsecs. (g) and (h) as (h) and (i), respectively.
 
 **2020**—Subsec. (g). Pub. L. 116–260 substituted "December 31, 2021" for "December 31, 2020".
 
@@ -141,6 +263,16 @@ Subsec. (c). Pub. L. 110–172, §6(b)(2), reenacted heading without change and 
 Subsec. (e)(2). Pub. L. 109–135, §402(k), inserted at end "For purposes of subsection (d), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation."
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Pub. L. 117–169, title I, §13404(f), Aug. 16, 2022, 136 Stat. 1968, provided that:
+
+"(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply to property placed in service after December 31, 2022.
+
+"(2) Extension.—The amendments made by subsection (a) [amending this section] shall apply to property placed in service after December 31, 2021."
+
+Amendment by section 13704(b)(2) of Pub. L. 117–169 applicable to transportation fuel produced after Dec. 31, 2024, see section 13704(c) of Pub. L. 117–169, set out as an Effective Date note under section 45Z of this title.
 
 #### Effective Date of 2020 Amendment ####
 
@@ -207,3 +339,5 @@ Pub. L. 109–58, title XIII, §1342(c), Aug. 8, 2005, 119 Stat. 1051, provided 
 #### Savings Provision ####
 
 For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+
+[<sup>1</sup> So in original. There is no subsec. (a)(2) in this section.](#30C_1)

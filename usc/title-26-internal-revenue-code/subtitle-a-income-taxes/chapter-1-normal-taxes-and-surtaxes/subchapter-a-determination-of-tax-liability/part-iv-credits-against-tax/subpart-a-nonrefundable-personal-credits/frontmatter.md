@@ -16,15 +16,19 @@ Sec.
 
 25B. Elective deferrals and IRA contributions by certain individuals.
 
-25C. Nonbusiness energy property.
+25C. Energy efficient home improvement credit.
 
-25D. Residential energy efficient property.
+25D. Residential clean energy credit.
+
+25E. Previously-owned clean vehicles.
 
 26. Limitation based on tax liability; definition of tax liability.
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–169, title I, §§13301(h)(2), 13302(c)(3), 13402(d), Aug. 16, 2022, 136 Stat. 1946, 1947, 1964, added items 25C to 25E and struck out former items 25C "Nonbusiness energy property" and 25D "Residential energy efficient property".
 
 **2018**—Pub. L. 115–141, div. U, title I, §101(l)(10), Mar. 23, 2018, 132 Stat. 1165, substituted "American Opportunity and Lifetime Learning credits" for "Hope and Lifetime Learning credits" in item 25A.
 

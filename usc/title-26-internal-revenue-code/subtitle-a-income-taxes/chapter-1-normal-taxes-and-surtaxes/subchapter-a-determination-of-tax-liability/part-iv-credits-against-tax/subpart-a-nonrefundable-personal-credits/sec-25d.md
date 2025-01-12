@@ -1,4 +1,4 @@
-### §25D. Residential energy efficient property ###
+### §25D. Residential clean energy credit ###
 
 #### (a) Allowance of credit ####
 
@@ -14,7 +14,7 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 (5) the qualified geothermal heat pump property expenditures, and
 
-(6) the qualified biomass fuel property expenditures, and
+(6) the qualified battery storage technology expenditures,
 
 made by the taxpayer during such year.
 
@@ -46,7 +46,7 @@ The term "qualified solar electric property expenditure" means an expenditure fo
 
 #### (3) Qualified fuel cell property expenditure ####
 
-The term "qualified fuel cell property expenditure" means an expenditure for qualified fuel cell property (as defined in section 48(c)(1)) installed on or in connection with a dwelling unit located in the United States and used as a principal residence (within the meaning of section 121) by the taxpayer.
+The term "qualified fuel cell property expenditure" means an expenditure for qualified fuel cell property (as defined in section 48(c)(1), without regard to subparagraph (D) thereof) installed on or in connection with a dwelling unit located in the United States and used as a principal residence (within the meaning of section 121) by the taxpayer.
 
 #### (4) Qualified small wind energy property expenditure ####
 
@@ -66,19 +66,13 @@ The term "qualified geothermal heat pump property" means any equipment which—
 
 (ii) meets the requirements of the Energy Star program which are in effect at the time that the expenditure for such equipment is made.
 
-#### (6) Qualified biomass fuel property expenditure ####
+#### (6) Qualified battery storage technology expenditure ####
 
-#### (A) In general ####
+The term "qualified battery storage technology expenditure" means an expenditure for battery storage technology which—
 
-The term "qualified biomass fuel property expenditure" means an expenditure for property—
+(A) is installed in connection with a dwelling unit located in the United States and used as a residence by the taxpayer, and
 
-(i) which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and
-
-(ii) which has a thermal efficiency rating of at least 75 percent (measured by the higher heating value of the fuel).
-
-#### (B) Biomass fuel ####
-
-For purposes of this section, the term "biomass fuel" means any plant-derived fuel available on a renewable or recurring basis.
+(B) has a capacity of not less than 3 kilowatt hours.
 
 #### (e) Special rules ####
 
@@ -154,19 +148,45 @@ For purposes of subsection (a), the applicable percentage shall be—
 
 (1) in the case of property placed in service after December 31, 2016, and before January 1, 2020, 30 percent,
 
-(2) in the case of property placed in service after December 31, 2019, and before January 1, 2023, 26 percent, and
+(2) in the case of property placed in service after December 31, 2019, and before January 1, 2022, 26 percent,
 
-(3) in the case of property placed in service after December 31, 2022, and before January 1, 2024, 22 percent.
+(3) in the case of property placed in service after December 31, 2021, and before January 1, 2033, 30 percent,
+
+(4) in the case of property placed in service after December 31, 2032, and before January 1, 2034, 26 percent, and
+
+(5) in the case of property placed in service after December 31, 2033, and before January 1, 2035, 22 percent.
 
 #### (h) Termination ####
 
-The credit allowed under this section shall not apply to property placed in service after December 31, 2023.
+The credit allowed under this section shall not apply to property placed in service after December 31, 2034.
 
-(Added Pub. L. 109–58, title XIII, §1335(a), Aug. 8, 2005, 119 Stat. 1033; amended Pub. L. 109–135, title IV, §402(i)(1), (2), (3)(E), Dec. 21, 2005, 119 Stat. 2612, 2614; Pub. L. 109–432, div. A, title II, §206, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title I, §106(a)–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, 122 Stat. 3814–3816; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(B), 1122(a), Feb. 17, 2009, 123 Stat. 320, 324; Pub. L. 112–240, title I, §104(c)(2)(F), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 114–113, div. P, title III, §304(a), Dec. 18, 2015, 129 Stat. 3039; Pub. L. 115–123, div. D, title I, §40402(a), (b), Feb. 9, 2018, 132 Stat. 148; Pub. L. 116–260, div. EE, title I, §148(a)–(b)(2), Dec. 27, 2020, 134 Stat. 3055.)
+(Added Pub. L. 109–58, title XIII, §1335(a), Aug. 8, 2005, 119 Stat. 1033; amended Pub. L. 109–135, title IV, §402(i)(1), (2), (3)(E), Dec. 21, 2005, 119 Stat. 2612, 2614; Pub. L. 109–432, div. A, title II, §206, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title I, §106(a)–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, 122 Stat. 3814–3816; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(B), 1122(a), Feb. 17, 2009, 123 Stat. 320, 324; Pub. L. 112–240, title I, §104(c)(2)(F), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 114–113, div. P, title III, §304(a), Dec. 18, 2015, 129 Stat. 3039; Pub. L. 115–123, div. D, title I, §40402(a), (b), Feb. 9, 2018, 132 Stat. 148; Pub. L. 116–260, div. EE, title I, §148(a)–(b)(2), Dec. 27, 2020, 134 Stat. 3055; Pub. L. 117–169, title I, §13302(a)–(c)(2), Aug. 16, 2022, 136 Stat. 1946, 1947.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–169, §13302(c)(2), substituted "clean energy credit" for "energy efficient property" in section catchline.
+
+Subsec. (a)(6). Pub. L. 117–169, §13302(b)(1), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "the qualified biomass fuel property expenditures, and".
+
+Subsec. (d)(3). Pub. L. 117–169, §13302(c)(1), inserted ", without regard to subparagraph (D) thereof" after "section 48(c)(1)".
+
+Subsec. (d)(6). Pub. L. 117–169, §13302(b)(2), amended par. (6) generally. Prior to amendment, par. (6) related to qualified biomass fuel property expenditure, and subpars. (A) and (B) read as follows:
+
+"(A) In general.—The term 'qualified biomass fuel property expenditure' means an expenditure for property—
+
+"(i) which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and
+
+"(ii) which has a thermal efficiency rating of at least 75 percent (measured by the higher heating value of the fuel).
+
+"(B) Biomass fuel.—For purposes of this section, the term 'biomass fuel' means any plant-derived fuel available on a renewable or recurring basis."
+
+Subsec. (g)(2). Pub. L. 117–169, §13302(a)(2)(A), substituted "before January 1, 2022, 26 percent," for "before January 1, 2023, 26 percent, and"
+
+Subsec. (g)(3) to (5). Pub. L. 117–169, §13302(a)(2)(B), added pars. (3) to (5) and struck out former par. (3) which read as follows: "in the case of property placed in service after December 31, 2022, and before January 1, 2024, 22 percent."
+
+Subsec. (h). Pub. L. 117–169, §13302(a)(1), substituted "December 31, 2034" for "December 31, 2023".
 
 **2020**—Subsec. (a)(6). Pub. L. 116–260, §148(b)(1), added par. (6).
 
@@ -257,6 +277,14 @@ Subsec. (e)(4)(A), (B). Pub. L. 109–135, §402(i)(2), amended subpars. (A) and
 "(B) There shall be allowable, with respect to such expenditures to each of such individuals, a credit under subsection (a) for the taxable year in which such calendar year ends in an amount which bears the same ratio to the amount determined under subparagraph (A) as the amount of such expenditures made by such individual during such calendar year bears to the aggregate of such expenditures made by all of such individuals during such calendar year."
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Pub. L. 117–169, title I, §13302(d), Aug. 16, 2022, 136 Stat. 1947, provided that:
+
+"(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply to expenditures made after December 31, 2021.
+
+"(2) Residential clean energy credit for battery storage technology; certain expenditures disallowed.—The amendments made by subsection (b) [amending this section] shall apply to expenditures made after December 31, 2022."
 
 #### Effective Date of 2020 Amendment ####
 

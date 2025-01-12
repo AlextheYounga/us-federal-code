@@ -14,9 +14,17 @@ For purposes of section 38, in the case of an eligible contractor, the new energ
 
 For purposes of paragraph (1), the applicable amount is an amount equal to—
 
-(A) in the case of a dwelling unit described in paragraph (1) or (2) of subsection (c), $2,000, and
+(A) in the case of a dwelling unit which is eligible to participate in the Energy Star Residential New Construction Program or the Energy Star Manufactured New Homes program—
 
-(B) in the case of a dwelling unit described in paragraph (3) of subsection (c), $1,000.
+(i) which meets the requirements of subsection (c)(1)(A) (and which does not meet the requirements of subsection (c)(1)(B)), $2,500, and
+
+(ii) which meets the requirements of subsection (c)(1)(B), $5,000, and
+
+(B) in the case of a dwelling unit which is part of a building eligible to participate in the Energy Star Multifamily New Construction Program—
+
+(i) which meets the requirements of subsection (c)(1)(A) (and which does not meet the requirements of subsection (c)(1)(B)), $500, and
+
+(ii) which meets the requirements of subsection (c)(1)(B), $1,000.
 
 #### (b) Definitions ####
 
@@ -50,25 +58,37 @@ The term "acquire" includes purchase.
 
 #### (c) Energy saving requirements ####
 
-A dwelling unit meets the energy saving requirements of this subsection if such unit is—
+#### (1) In general ####
 
-(1) certified—
+#### (A) In general ####
 
-(A) to have a level of annual heating and cooling energy consumption which is at least 50 percent below the annual level of heating and cooling energy consumption of a comparable dwelling unit—
+A dwelling unit meets the requirements of this subparagraph if such dwelling unit meets the requirements of paragraph (2) or (3) (whichever is applicable).
 
-(i) which is constructed in accordance with the standards of chapter 4 of the 2006 International Energy Conservation Code, as such Code (including supplements) is in effect on January 1, 2006, and
+#### (B) Zero energy ready home program ####
 
-(ii) for which the heating and cooling equipment efficiencies correspond to the minimum allowed under the regulations established by the Department of Energy pursuant to the National Appliance Energy Conservation Act of 1987 and in effect at the time of completion of construction, and
+A dwelling unit meets the requirements of this subparagraph if such dwelling unit is certified as a zero energy ready home under the zero energy ready home program of the Department of Energy as in effect on January 1, 2023 (or any successor program determined by the Secretary).
 
-(B) to have building envelope component improvements account for at least 1/5 of such 50 percent,
+#### (2) Single-family home requirements ####
 
-(2) a manufactured home which conforms to Federal Manufactured Home Construction and Safety Standards (part 3280 of title 24, Code of Federal Regulations) and which meets the requirements of paragraph (1), or
+A dwelling unit meets the requirements of this paragraph if—
 
-(3) a manufactured home which conforms to Federal Manufactured Home Construction and Safety Standards (part 3280 of title 24, Code of Federal Regulations) and which—
+(A) such dwelling unit meets—
 
-(A) meets the requirements of paragraph (1) applied by substituting "30 percent" for "50 percent" both places it appears therein and by substituting "1/3" for "1/5" in subparagraph (B) thereof, or
+(i)(I) in the case of a dwelling unit acquired before January 1, 2025, the Energy Star Single-Family New Homes National Program Requirements 3.1, or
 
-(B) meets the requirements established by the Administrator of the Environmental Protection Agency under the Energy Star Labeled Homes program.
+(II) in the case of a dwelling unit acquired after December 31, 2024, the Energy Star Single-Family New Homes National Program Requirements 3.2, and
+
+(ii) the most recent Energy Star Single-Family New Homes Program Requirements applicable to the location of such dwelling unit (as in effect on the latter of January 1, 2023, or January 1 of two calendar years prior to the date the dwelling unit was acquired), or
+
+(B) such dwelling unit meets the most recent Energy Star Manufactured Home National program requirements as in effect on the latter of January 1, 2023, or January 1 of two calendar years prior to the date such dwelling unit is acquired.
+
+#### (3) Multi-family home requirements ####
+
+A dwelling unit meets the requirements of this paragraph if—
+
+(A) such dwelling unit meets the most recent Energy Star Multifamily New Construction National Program Requirements (as in effect on either January 1, 2023, or January 1 of three calendar years prior to the date the dwelling was acquired, whichever is later), and
+
+(B) such dwelling unit meets the most recent Energy Star Multifamily New Construction Regional Program Requirements applicable to the location of such dwelling unit (as in effect on either January 1, 2023, or January 1 of three calendar years prior to the date the dwelling was acquired, whichever is later).
 
 #### (d) Certification ####
 
@@ -82,17 +102,41 @@ Any certification described in subsection (c) shall be made in writing in a mann
 
 #### (e) Basis adjustment ####
 
-For purposes of this subtitle, if a credit is allowed under this section in connection with any expenditure for any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so determined.
+For purposes of this subtitle, if a credit is allowed under this section in connection with any expenditure for any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so determined. This subsection shall not apply for purposes of determining the adjusted basis of any building under section 42.
 
 #### (f) Coordination with investment credit ####
 
 For purposes of this section, expenditures taken into account under section 47 or 48(a) shall not be taken into account under this section.
 
-#### (g) Termination ####
+#### (g) Prevailing wage requirement ####
 
-This section shall not apply to any qualified new energy efficient home acquired after December 31, 2021.
+#### (1) In general ####
 
-(Added Pub. L. 109–58, title XIII, §1332(a), Aug. 8, 2005, 119 Stat. 1024; amended Pub. L. 109–432, div. A, title II, §205, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(7), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–343, div. B, title III, §304, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 111–312, title VII, §703(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §408(a), (b), Jan. 2, 2013, 126 Stat. 2342; Pub. L. 113–295, div. A, title I, §156(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §188(a), Dec. 18, 2015, 129 Stat. 3074; Pub. L. 115–123, div. D, title I, §40410(a), Feb. 9, 2018, 132 Stat. 150; Pub. L. 116–94, div. Q, title I, §129(a), Dec. 20, 2019, 133 Stat. 3232; Pub. L. 116–260, div. EE, title I, §146(a), Dec. 27, 2020, 134 Stat. 3055.)
+In the case of a qualifying residence described in subsection (a)(2)(B) meeting the prevailing wage requirements of paragraph (2)(A), the credit amount allowed with respect to such residence shall be—
+
+(A) $2,500 in the case of a residence which meets the requirements of subparagraph (A) of subsection (c)(1) (and which does not meet the requirements of subparagraph (B) of such subsection), and
+
+(B) $5,000 in the case of a residence which meets the requirements of subsection (c)(1)(B).
+
+#### (2) Prevailing wage requirements ####
+
+#### (A) In general ####
+
+The requirements described in this subparagraph with respect to any qualified residence are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the construction of such residence shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such residence is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code.
+
+#### (B) Correction and penalty related to failure to satisfy wage requirements ####
+
+Rules similar to the rules of section 45(b)(7)(B) shall apply.
+
+#### (3) Regulations and guidance ####
+
+The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
+
+#### (h) Termination ####
+
+This section shall not apply to any qualified new energy efficient home acquired after December 31, 2032.
+
+(Added Pub. L. 109–58, title XIII, §1332(a), Aug. 8, 2005, 119 Stat. 1024; amended Pub. L. 109–432, div. A, title II, §205, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(7), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–343, div. B, title III, §304, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 111–312, title VII, §703(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §408(a), (b), Jan. 2, 2013, 126 Stat. 2342; Pub. L. 113–295, div. A, title I, §156(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §188(a), Dec. 18, 2015, 129 Stat. 3074; Pub. L. 115–123, div. D, title I, §40410(a), Feb. 9, 2018, 132 Stat. 150; Pub. L. 116–94, div. Q, title I, §129(a), Dec. 20, 2019, 133 Stat. 3232; Pub. L. 116–260, div. EE, title I, §146(a), Dec. 27, 2020, 134 Stat. 3055; Pub. L. 117–169, title I, §13304(a)–(e), Aug. 16, 2022, 136 Stat. 1952–1954.)
 
 #### **Editorial Notes** ####
 
@@ -103,6 +147,16 @@ The date of the enactment of this section, referred to in subsec. (b)(2)(B), is 
 The National Appliance Energy Conservation Act of 1987, referred to in subsec. (c)(1)(A)(ii), is Pub. L. 100–12, Mar. 17, 1987, 101 Stat. 103. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under section 6201 of Title 42, The Public Health and Welfare, and Tables.
 
 #### Amendments ####
+
+**2022**—Subsec. (a)(2). Pub. L. 117–169, §13304(b), amended par. (2) generally. Prior to amendment, par. (2) related to applicable amount for dwelling unit.
+
+Subsec. (c). Pub. L. 117–169, §13304(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to energy saving requirements of dwelling unit.
+
+Subsec. (e). Pub. L. 117–169, §13304(e), inserted at end "This subsection shall not apply for purposes of determining the adjusted basis of any building under section 42."
+
+Subsec. (g). Pub. L. 117–169, §13304(d), added subsec. (g). Former subsec. (g) redesignated (h).Pub. L. 117–169, §13304(a), substituted "December 31, 2032" for "December 31, 2021".
+
+Subsec. (h). Pub. L. 117–169, §13304(d), redesignated subsec. (g) as (h).
 
 **2020**—Subsec. (g). Pub. L. 116–260 substituted "December 31, 2021" for "December 31, 2020".
 
@@ -127,6 +181,14 @@ Subsec. (g). Pub. L. 112–240, §408(a), substituted "December 31, 2013" for "D
 **2006**—Subsec. (g). Pub. L. 109–432 substituted "2008" for "2007".
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Pub. L. 117–169, title I, §13304(f), Aug. 16, 2022, 136 Stat. 1954, provided that:
+
+"(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply to dwelling units acquired after December 31, 2022.
+
+"(2) Extension of credit.—The amendments made by subsection (a) [amending this section] shall apply to dwelling units acquired after December 31, 2021."
 
 #### Effective Date of 2020 Amendment ####
 

@@ -656,6 +656,8 @@ Sec.
 
 16516. Omitted.
 
+16517. Energy infrastructure reinvestment financing.
+
 #### SUBCHAPTER XVI—STUDIES ####
 
 16521. Report on energy integration with Latin America.

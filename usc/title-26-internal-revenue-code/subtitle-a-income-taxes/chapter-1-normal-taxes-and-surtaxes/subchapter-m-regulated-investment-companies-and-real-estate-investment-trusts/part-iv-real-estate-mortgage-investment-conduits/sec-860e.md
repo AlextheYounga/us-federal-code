@@ -22,7 +22,7 @@ Any excess inclusion for any taxable year shall not be taken into account—
 
 For purposes of part VI of subchapter A of this chapter—
 
-(A) the reference in section 55(b)(2) to taxable income shall be treated as a reference to taxable income determined without regard to this subsection,
+(A) the reference in section 55(b)(1)(D) to taxable income shall be treated as a reference to taxable income determined without regard to this subsection,
 
 (B) the alternative minimum taxable income of any holder of a residual interest in a REMIC for any taxable year shall in no event be less than the excess inclusion for such taxable year, and
 
@@ -172,11 +172,13 @@ For purposes of subtitle F, the taxes imposed by this subsection shall be treate
 
 Except as provided in regulations, with respect to any variable contract (as defined in section 817), there shall be no adjustment in the reserve to the extent of any excess inclusion.
 
-(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2311; amended Pub. L. 100–647, title I, §1006(t)(13), (15), (16)(B), (17), (23), (26), (27), Nov. 10, 1988, 102 Stat. 3423, 3426, 3427; Pub. L. 104–188, title I, §§1616(b)(10), 1704(h)(1), Aug. 20, 1996, 110 Stat. 1857, 1881; Pub. L. 115–97, title I, §13001(b)(1)(B), Dec. 22, 2017, 131 Stat. 2096; Pub. L. 116–136, div. A, title II, §2303(a)(2)(C), Mar. 27, 2020, 134 Stat. 353.)
+(Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2311; amended Pub. L. 100–647, title I, §1006(t)(13), (15), (16)(B), (17), (23), (26), (27), Nov. 10, 1988, 102 Stat. 3423, 3426, 3427; Pub. L. 104–188, title I, §§1616(b)(10), 1704(h)(1), Aug. 20, 1996, 110 Stat. 1857, 1881; Pub. L. 115–97, title I, §13001(b)(1)(B), Dec. 22, 2017, 131 Stat. 2096; Pub. L. 116–136, div. A, title II, §2303(a)(2)(C), Mar. 27, 2020, 134 Stat. 353; Pub. L. 117–169, title I, §10101(a)(4)(B)(ii), Aug. 16, 2022, 136 Stat. 1822.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Subsec. (a)(4)(A). Pub. L. 117–169 substituted "55(b)(1)(D)" for "55(b)(2)".
 
 **2020**—Subsec. (a)(3)(B). Pub. L. 116–136 substituted "subsection (a)(2)(B)(ii)(I) and the second sentence of subsection (b)(2) of section 172." for "the 2nd sentence of section 172(b)(2)."
 
@@ -209,6 +211,10 @@ Subsec. (e). Pub. L. 100–647, §1006(t)(16)(B), added subsec. (e).
 Subsec. (f). Pub. L. 100–647, §1006(t)(26), added subsec. (f).
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Amendment by Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 10101(f) of Pub. L. 117–169, set out as a note under section 11 of this title.
 
 #### Effective Date of 2020 Amendment ####
 

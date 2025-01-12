@@ -146,7 +146,23 @@ Rules similar to the rules of section 47(d)(3) (as in effect on the day before t
 
 Any increase in tax under paragraph (1) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under this chapter.
 
-(Added Pub. L. 99–514, title II, §211(a), Oct. 22, 1986, 100 Stat. 2166; amended Pub. L. 100–647, title I, §1002(e)(1)–(3), (8)(B), Nov. 10, 1988, 102 Stat. 3367, 3369; Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–543; Pub. L. 105–206, title VI, §6004(g)(6), July 22, 1998, 112 Stat. 796; Pub. L. 109–58, title XIII, §1307(c)(1), Aug. 8, 2005, 119 Stat. 1006; Pub. L. 111–5, div. B, title I, §1302(c)(1), Feb. 17, 2009, 123 Stat. 347; Pub. L. 111–148, title IX, §9023(c)(1), Mar. 23, 2010, 124 Stat. 880; Pub. L. 115–141, div. U, title IV, §401(a)(24), (d)(3)(B)(i), Mar. 23, 2018, 132 Stat. 1185, 1209; Pub. L. 117–167, div. A, §107(d)(2), Aug. 9, 2022, 136 Stat. 1398.)
+(Added Pub. L. 99–514, title II, §211(a), Oct. 22, 1986, 100 Stat. 2166; amended Pub. L. 100–647, title I, §1002(e)(1)–(3), (8)(B), Nov. 10, 1988, 102 Stat. 3367, 3369; Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–543; Pub. L. 105–206, title VI, §6004(g)(6), July 22, 1998, 112 Stat. 796; Pub. L. 109–58, title XIII, §1307(c)(1), Aug. 8, 2005, 119 Stat. 1006; Pub. L. 111–5, div. B, title I, §1302(c)(1), Feb. 17, 2009, 123 Stat. 347; Pub. L. 111–148, title IX, §9023(c)(1), Mar. 23, 2010, 124 Stat. 880; Pub. L. 115–141, div. U, title IV, §401(a)(24), (d)(3)(B)(i), Mar. 23, 2018, 132 Stat. 1185, 1209; Pub. L. 117–167, div. A, §107(d)(2), Aug. 9, 2022, 136 Stat. 1398; Pub. L. 117–169, title I, §13702(b)(2), Aug. 16, 2022, 136 Stat. 1997.)
+
+#### Amendment of Subsection (a)(1)(C) ####
+
+Pub. L. 117–169, title I, §13702(b)(2), (c), Aug. 16, 2022, 136 Stat. 1997, provided that, applicable to property placed in service after Dec. 31, 2024, subsection (a)(1)(C) of this section is amended:
+
+(1) by striking "and" at the end of clause (v),
+
+(2) by striking the period at the end of clause (vi) and inserting a comma, and
+
+(3) by adding at the end the following new clauses:
+
+*(vii) the basis of any qualified property which is part of a qualified facility under section 48E, and*
+
+*(viii) the basis of any energy storage technology under section 48E.*
+
+See 2022 Amendment note below.
 
 #### **Editorial Notes** ####
 
@@ -161,6 +177,8 @@ A prior section 49, Pub. L. 91–172, title VII, §703(a), Dec. 30, 1969, 83 Sta
 #### Amendments ####
 
 **2022**—Subsec. (a)(1)(C)(vi). Pub. L. 117–167 added cl. (vi).
+
+Subsec. (a)(1)(C)(vii), (viii). Pub. L. 117–169, §13702(b)(2), added cls. (vii) and (viii).
 
 **2018**—Subsec. (a)(1)(C)(vi). Pub. L. 115–141, §401(d)(3)(B)(i), struck out cl. (vi) which read as follows: "the basis of any property to which paragraph (1) of section 48D(e) applies which is part of a qualifying therapeutic discovery project under such section 48D."
 
@@ -195,6 +213,8 @@ Subsec. (d)(1). Pub. L. 100–647, §1002(e)(1), amended par. (1) generally. Pri
 #### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2022 Amendment ####
+
+Amendment by Pub. L. 117–169 applicable to property placed in service after Dec. 31, 2024, see section 13702(c) of Pub. L. 117–169, set out as an Effective Date note under section 48E of this title.
 
 Amendment by Pub. L. 117–167 applicable to property placed in service after Dec. 31, 2022, and, for any property the construction of which begins prior to Jan. 1, 2023, only to the extent of the basis thereof attributable to the construction, reconstruction, or erection after Aug. 9, 2022, see section 107(f) of Pub. L. 117–167, set out as a note under section 905 of Title 2, The Congress.
 

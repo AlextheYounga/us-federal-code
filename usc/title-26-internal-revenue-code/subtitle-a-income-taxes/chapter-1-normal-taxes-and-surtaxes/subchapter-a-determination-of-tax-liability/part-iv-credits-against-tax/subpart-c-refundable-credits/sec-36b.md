@@ -57,9 +57,9 @@ Except as provided in subclause (III), in the case of any calendar year after 20
 
 Subclause (II) shall apply for any calendar year only if the aggregate amount of premium tax credits under this section and cost-sharing reductions under section 1402 of the Patient Protection and Affordable Care Act for the preceding calendar year exceeds an amount equal to 0.504 percent of the gross domestic product for the preceding calendar year.
 
-#### (iii) Temporary percentages for 2021 and 2022 ####
+#### (iii) Temporary percentages for 2021 through 2025 ####
 
-In the case of a taxable year beginning in 2021 or 2022—
+In the case of a taxable year beginning after December 31, 2020, and before January 1, 2026—
 
 (I) clause (ii) shall not apply for purposes of adjusting premium percentages under this subparagraph, and
 
@@ -138,9 +138,9 @@ If the taxpayer is married (within the meaning of section 7703) at the close of 
 
 No credit shall be allowed under this section to any individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins.
 
-#### (E) Temporary rule for 2021 and 2022 ####
+#### (E) Temporary rule for 2021 through 2025 ####
 
-In the case of a taxable year beginning in 2021 or 2022, subparagraph (A) shall be applied without regard to "but does not exceed 400 percent".
+In the case of a taxable year beginning after December 31, 2020, and before January 1, 2026, subparagraph (A) shall be applied without regard to "but does not exceed 400 percent".
 
 #### (2) Coverage month ####
 
@@ -396,7 +396,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 (2) the application of subsection (f) where the filing status of the taxpayer for a taxable year is different from such status used for determining the advance payment of the credit.
 
-(Added and amended Pub. L. 111–148, title I, §1401(a), title X, §§10105(a)–(c), 10108(h)(1), Mar. 23, 2010, 124 Stat. 213, 906, 914; Pub. L. 111–152, title I, §§1001(a), 1004(a)(1)(A), (2)(A), (c), Mar. 30, 2010, 124 Stat. 1030, 1034, 1035; Pub. L. 111–309, title II, §208(a), (b), Dec. 15, 2010, 124 Stat. 3291, 3292; Pub. L. 112–9, §4(a), Apr. 14, 2011, 125 Stat. 36; Pub. L. 112–10, div. B, title VIII, §1858(b)(1), Apr. 15, 2011, 125 Stat. 168; Pub. L. 112–56, title IV, §401(a), Nov. 21, 2011, 125 Stat. 734; Pub. L. 114–255, div. C, title XVIII, §18001(a)(3), Dec. 13, 2016, 130 Stat. 1341; Pub. L. 115–97, title I, §11002(d)(1)(E), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 117–2, title IX, §§9661(a), (b), 9662(a), 9663(a), Mar. 11, 2021, 135 Stat. 182, 183.)
+(Added and amended Pub. L. 111–148, title I, §1401(a), title X, §§10105(a)–(c), 10108(h)(1), Mar. 23, 2010, 124 Stat. 213, 906, 914; Pub. L. 111–152, title I, §§1001(a), 1004(a)(1)(A), (2)(A), (c), Mar. 30, 2010, 124 Stat. 1030, 1034, 1035; Pub. L. 111–309, title II, §208(a), (b), Dec. 15, 2010, 124 Stat. 3291, 3292; Pub. L. 112–9, §4(a), Apr. 14, 2011, 125 Stat. 36; Pub. L. 112–10, div. B, title VIII, §1858(b)(1), Apr. 15, 2011, 125 Stat. 168; Pub. L. 112–56, title IV, §401(a), Nov. 21, 2011, 125 Stat. 734; Pub. L. 114–255, div. C, title XVIII, §18001(a)(3), Dec. 13, 2016, 130 Stat. 1341; Pub. L. 115–97, title I, §11002(d)(1)(E), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 117–2, title IX, §§9661(a), (b), 9662(a), 9663(a), Mar. 11, 2021, 135 Stat. 182, 183; Pub. L. 117–169, title I, §12001(a), (b), Aug. 16, 2022, 136 Stat. 1905.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -417,6 +417,10 @@ Section 1311(d)(2)(B)(ii)(I) of the Patient Protection and Affordable Care Act, 
 The Social Security Act, referred to in subsec. (c)(1)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments ####
+
+**2022**—Subsec. (b)(3)(A)(iii). Pub. L. 117–169, §12001(a), substituted "2021 through 2025" for "2021 and 2022" in heading and "after December 31, 2020, and before January 1, 2026" for "in 2021 or 2022" in introductory provisions.
+
+Subsec. (c)(1)(E). Pub. L. 117–169, §12001(b), substituted "2021 through 2025" for "2021 and 2022" in heading and "after December 31, 2020, and before January 1, 2026" for "in 2021 or 2022" in text.
 
 **2021**—Subsec. (b)(3)(A)(iii). Pub. L. 117–2, §9661(a), added cl. (iii).
 
@@ -475,6 +479,10 @@ Subsec. (f)(2)(B)(ii). Pub. L. 111–309, §208(b), inserted "in the table conta
 Subsec. (f)(3). Pub. L. 111–152, §1004(c), added par. (3).
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Pub. L. 117–169, title I, §12001(c), Aug. 16, 2022, 136 Stat. 1906, provided that: "The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2022."
 
 #### Effective Date of 2021 Amendment ####
 

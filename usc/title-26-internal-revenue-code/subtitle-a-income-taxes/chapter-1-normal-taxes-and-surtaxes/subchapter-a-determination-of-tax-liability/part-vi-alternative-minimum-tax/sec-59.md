@@ -152,7 +152,137 @@ In the case of any taxable year beginning in a calendar year after 1998, the dol
 
 If any increase determined under the preceding sentence is not a multiple of $50, such increase shall be rounded to the nearest multiple of $50.
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2336; amended Pub. L. 100–647, title I, §§1007(e), 1014(e)(5)(A), Nov. 10, 1988, 102 Stat. 3432, 3561; Pub. L. 101–239, title VII, §§7611(f)(5)(B), (6), 7612(e)(1), 7811(d)(1)(A), (j)(7), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408, 2412; Pub. L. 101–508, title XI, §§11101(d)(3), 11531(b)(2), 11702(d), 11801(c)(2)(D), Nov. 5, 1990, 104 Stat. 1388–405, 1388–490, 1388–514, 1388–523; Pub. L. 102–486, title XIX, §1915(c)(3), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 104–188, title I, §§1601(b)(2)(D), 1702(a)(1), 1703(e), 1704(m)(3), Aug. 20, 1996, 110 Stat. 1833, 1868, 1875, 1883; Pub. L. 105–34, title X, §1057(a), title XI, §1103(a), title XII, §1201(b)(1), Aug. 5, 1997, 111 Stat. 945, 966, 994; Pub. L. 105–206, title VI, §§6011(a), 6023(2), July 22, 1998, 112 Stat. 817, 824; Pub. L. 108–357, title IV, §421(a)(1), Oct. 22, 2004, 118 Stat. 1514; Pub. L. 115–97, title I, §§11002(d)(4), 12001(b)(3)(C), (10), Dec. 22, 2017, 131 Stat. 2061, 2093; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(ii), Mar. 23, 2018, 132 Stat. 1206.)
+#### (k) Applicable corporation ####
+
+For purposes of this part—
+
+#### (1) Applicable corporation defined ####
+
+#### (A) In general ####
+
+The term "applicable corporation" means, with respect to any taxable year, any corporation (other than an S corporation, a regulated investment company, or a real estate investment trust) which meets the average annual adjusted financial statement income test of subparagraph (B) for one or more taxable years which—
+
+(i) are prior to such taxable year, and
+
+(ii) end after December 31, 2021.
+
+#### (B) Average annual adjusted financial statement income test ####
+
+For purposes of this subsection—
+
+(i) a corporation meets the average annual adjusted financial statement income test for a taxable year if the average annual adjusted financial statement income of such corporation (determined without regard to section 56A(d)) for the 3-taxable-year period ending with such taxable year exceeds $1,000,000,000, and
+
+(ii) in the case of a corporation described in paragraph (2), such corporation meets the average annual adjusted financial statement income test for a taxable year if—
+
+(I) the corporation meets the requirements of clause (i) for such taxable year (determined after the application of paragraph (2)), and
+
+(II) the average annual adjusted financial statement income of such corporation (determined without regard to the application of paragraph (2) and without regard to section 56A(d)) for the 3-taxable-year-period ending with such taxable year is $100,000,000 or more.
+
+#### (C) Exception ####
+
+Notwithstanding subparagraph (A), the term "applicable corporation" shall not include any corporation which otherwise meets the requirements of subparagraph (A) if—
+
+(i) such corporation—
+
+(I) has a change in ownership, or
+
+(II) has a specified number (to be determined by the Secretary and which shall, as appropriate, take into account the facts and circumstances of the taxpayer) of consecutive taxable years, including the most recent taxable year, in which the corporation does not meet the average annual adjusted financial statement income test of subparagraph (B), and
+
+(ii) the Secretary determines that it would not be appropriate to continue to treat such corporation as an applicable corporation.
+
+The preceding sentence shall not apply to any corporation if, after the Secretary makes the determination described in clause (ii), such corporation meets the average annual adjusted financial statement income test of subparagraph (B) for any taxable year beginning after the first taxable year for which such determination applies.
+
+#### (D) Special rules for determining applicable corporation status ####
+
+Solely for purposes of determining whether a corporation is an applicable corporation under this paragraph, all adjusted financial statement income of persons treated as a single employer with such corporation under subsection (a) or (b) of section 52 shall be treated as adjusted financial statement income of such corporation, and adjusted financial statement income of such corporation shall be determined without regard to paragraphs (2)(D)(i) and (11) of section 56A(c).
+
+#### (E) Other special rules ####
+
+#### (i) Corporations in existence for less than 3 years ####
+
+If the corporation was in existence for less than 3-taxable years, subparagraph (B) shall be applied on the basis of the period during which such corporation was in existence.
+
+#### (ii) Short taxable years ####
+
+Adjusted financial statement income for any taxable year of less than 12 months shall be annualized by multiplying the adjusted financial statement income for the short period by 12 and dividing the result by the number of months in the short period.
+
+#### (iii) Treatment of predecessors ####
+
+Any reference in this subparagraph to a corporation shall include a reference to any predecessor of such corporation.
+
+#### (2) Special rule for foreign-parented multinational groups ####
+
+#### (A) In general ####
+
+If a corporation is a member of a foreign-parented multinational group for any taxable year, then, solely for purposes of determining whether such corporation meets the average annual adjusted financial statement income test under paragraph (1)(B)(ii)(I) for such taxable year, the adjusted financial statement income of such corporation for such taxable year shall include the adjusted financial statement income of all members of such group. Solely for purposes of this subparagraph, adjusted financial statement income shall be determined without regard to paragraphs (2)(D)(i), (3), (4), and (11) of section 56A(c).
+
+#### (B) Foreign-parented multinational group ####
+
+For purposes of subparagraph (A), the term "foreign-parented multinational group" means, with respect to any taxable year, two or more entities if—
+
+(i) at least one entity is a domestic corporation and another entity is a foreign corporation,
+
+(ii) such entities are included in the same applicable financial statement with respect to such year, and
+
+(iii) either—
+
+(I) the common parent of such entities is a foreign corporation, or
+
+(II) if there is no common parent, the entities are treated as having a common parent which is a foreign corporation under subparagraph (D).
+
+#### (C) Foreign corporations engaged in a trade or business within the United States ####
+
+For purposes of this paragraph, if a foreign corporation is engaged in a trade or business within the United States, such trade or business shall be treated as a separate domestic corporation that is wholly owned by the foreign corporation.
+
+#### (D) Other rules ####
+
+The Secretary shall, applying the principles of this section, prescribe rules for the application of this paragraph, including rules for the determination of—
+
+(i) the entities (if any) which are to be to be treated under subparagraph (B)(iii)(II) as having a common parent which is a foreign corporation,
+
+(ii) the entities to be included in a foreign-parented multinational group, and
+
+(iii) the common parent of a foreign-parented multinational group.
+
+#### (3) Regulations or other guidance ####
+
+The Secretary shall provide regulations or other guidance for the purposes of carrying out this subsection, including regulations or other guidance—
+
+(A) providing a simplified method for determining whether a corporation meets the requirements of paragraph (1), and
+
+'(B) <sup><a href="#59_1_target" name="59_1">1</a></sup> addressing the application of this subsection to a corporation that experiences a change in ownership.
+
+#### (l) Corporate AMT foreign tax credit ####
+
+#### (1) In general ####
+
+For purposes of this part, if an applicable corporation chooses to have the benefits of subpart A of part III of subchapter N for any taxable year, the corporate AMT foreign tax credit for the taxable year of the applicable corporation is an amount equal to sum of—
+
+(A) the lesser of—
+
+(i) the aggregate of the applicable corporation's pro rata share (as determined under section 56A(c)(3)) of the amount of income, war profits, and excess profits taxes (within the meaning of section 901) imposed by any foreign country or possession of the United States which are—
+
+(I) taken into account on the applicable financial statement of each controlled foreign corporation with respect to which the applicable corporation is a United States shareholder, and
+
+(II) paid or accrued (for Federal income tax purposes) by each such controlled foreign corporation, or
+
+(ii) the product of the amount of the adjustment under section 56A(c)(3) and the percentage specified in section 55(b)(2)(A)(i), and
+
+(B) in the case of an applicable corporation that is a domestic corporation, the amount of income, war profits, and excess profits taxes (within the meaning of section 901) imposed by any foreign country or possession of the United States to the extent such taxes are—
+
+(i) taken into account on the applicable corporation's applicable financial statement, and
+
+(ii) paid or accrued (for Federal income tax purposes) by the applicable corporation.
+
+#### (2) Carryover of excess tax paid ####
+
+For any taxable year for which an applicable corporation chooses to have the benefits of subpart A of part III of subchapter N, the excess of the amount described in paragraph (1)(A)(i) over the amount described in paragraph (1)(A)(ii) shall increase the amount described in paragraph (1)(A)(i) in any of the first 5 succeeding taxable years to the extent not taken into account in a prior taxable year.
+
+#### (3) Regulations or other guidance ####
+
+The Secretary shall provide for such regulations or other guidance as is necessary to carry out the purposes of this subsection.
+
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2336; amended Pub. L. 100–647, title I, §§1007(e), 1014(e)(5)(A), Nov. 10, 1988, 102 Stat. 3432, 3561; Pub. L. 101–239, title VII, §§7611(f)(5)(B), (6), 7612(e)(1), 7811(d)(1)(A), (j)(7), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408, 2412; Pub. L. 101–508, title XI, §§11101(d)(3), 11531(b)(2), 11702(d), 11801(c)(2)(D), Nov. 5, 1990, 104 Stat. 1388–405, 1388–490, 1388–514, 1388–523; Pub. L. 102–486, title XIX, §1915(c)(3), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 104–188, title I, §§1601(b)(2)(D), 1702(a)(1), 1703(e), 1704(m)(3), Aug. 20, 1996, 110 Stat. 1833, 1868, 1875, 1883; Pub. L. 105–34, title X, §1057(a), title XI, §1103(a), title XII, §1201(b)(1), Aug. 5, 1997, 111 Stat. 945, 966, 994; Pub. L. 105–206, title VI, §§6011(a), 6023(2), July 22, 1998, 112 Stat. 817, 824; Pub. L. 108–357, title IV, §421(a)(1), Oct. 22, 2004, 118 Stat. 1514; Pub. L. 115–97, title I, §§11002(d)(4), 12001(b)(3)(C), (10), Dec. 22, 2017, 131 Stat. 2061, 2093; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(ii), Mar. 23, 2018, 132 Stat. 1206; Pub. L. 117–169, title I, §§10101(a)(2), (c), 13904(a), Aug. 16, 2022, 136 Stat. 1818, 1827, 2014.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -161,6 +291,22 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Subsec. (k). Pub. L. 117–169, §10101(a)(2), added subsec. (k).
+
+Subsec. (k)(1)(D). Pub. L. 117–169, §13904(a), amended subpar. (D) generally. Prior to amendment, text of subpar. (D) read as follows:
+
+"(i) In general.—Solely for purposes of determining whether a corporation is an applicable corporation under this paragraph, all adjusted financial statement income of persons treated as a single employer with such corporation under subsection (a) or (b) of section 52 (determined with the modifications described in clause (ii)) shall be treated as adjusted financial statement income of such corporation, and adjusted financial statement income of such corporation shall be determined without regard to paragraphs (2)(D)(i) and (11) of section 56A(c).
+
+"(ii) Modifications.—For purposes of this subparagraph—
+
+"(I) section 52(a) shall be applied by substituting 'component members' for 'members', and
+
+"(II) for purposes of applying section 52(b), the term 'trade or business' shall include any activity treated as a trade or business under paragraph (5) or (6) of section 469(c) (determined without regard to the phrase 'To the extent provided in regulations' in such paragraph (6)).
+
+"(iii) Component member.—For purposes of this subparagraph, the term 'component member' has the meaning given such term by section 1563(b), except that the determination shall be made without regard to section 1563(b)(2)."
+
+Subsec. (l). Pub. L. 117–169, §10101(c), added subsec. (l).
 
 **2018**—Subsec. (a)(1). Pub. L. 115–141 substituted "27" for "27(a)" in introductory provisions.
 
@@ -258,6 +404,10 @@ Subsec. (j). Pub. L. 100–647, §1014(e)(5)(A), added subsec. (j).
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Effective Date of 2022 Amendment ####
+
+Amendment by section 10101(a)(2), (c) of Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 10101(f) of Pub. L. 117–169, set out as a note under section 11 of this title.
+
 #### Effective Date of 2017 Amendment ####
 
 Amendment by section 11002(d)(4) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
@@ -341,3 +491,5 @@ Pub. L. 100–647, title I, §1007(f)(5), Nov. 10, 1988, 102 Stat. 3434, provide
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States ####
 
 For applicability of amendment by section 701(a) of Pub. L. 99–514 [enacting this section] notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+
+[<sup>1</sup> So in original.](#59_1)

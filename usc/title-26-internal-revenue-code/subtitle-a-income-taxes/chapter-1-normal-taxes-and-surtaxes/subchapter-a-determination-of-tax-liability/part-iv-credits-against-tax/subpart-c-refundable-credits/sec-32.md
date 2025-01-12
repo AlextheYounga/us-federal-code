@@ -351,7 +351,7 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 #### References in Text ####
 
-The Social Security Act, referred to in subsecs. (c)(2)(B)(v), (m), and (n)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A, B and E of title IV of the Act are classified generally to parts A (§601 et seq.), B (§620 et seq.), and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Sections 205(c)(2)(B)(i) and 407(d)(4), (7) of the Act are classified to sections 405(c)(2)(B)(i) and 607(d)(4), (7), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(2)(B)(v), (m), and (n)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A, B, and E of title IV of the Act are classified generally to parts A (§601 et seq.), B (§620 et seq.), and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Sections 205(c)(2)(B)(i) and 407(d)(4), (7) of the Act are classified to sections 405(c)(2)(B)(i) and 607(d)(4), (7), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (l)(1), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note under section 1437 of Title 42 and Tables.
 

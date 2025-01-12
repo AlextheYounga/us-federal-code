@@ -15,7 +15,7 @@ Chapter Sec. 1
 
 36. Certain other excise taxes 4451
 
-[37. Repealed.]
+37. Repurchase of corporate stock 4501
 
 38. Environmental taxes 4611
 
@@ -43,9 +43,13 @@ Chapter Sec. 1
 
 50. Foreign procurement 5000C
 
+50A. Designated drugs 5000D
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–169, title I, §§10201(c), 11003(c), Aug. 16, 2022, 136 Stat. 1831, 1864, added items for chapters 37 and 50A.
 
 **2011**—Pub. L. 111–347, title III, §301(a)(2), Jan. 2, 2011, 124 Stat. 3666, added item for chapter 50.
 

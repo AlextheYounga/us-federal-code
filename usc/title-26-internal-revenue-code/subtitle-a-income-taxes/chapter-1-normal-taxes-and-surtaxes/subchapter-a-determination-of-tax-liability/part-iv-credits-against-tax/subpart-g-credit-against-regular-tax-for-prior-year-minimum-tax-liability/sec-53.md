@@ -58,55 +58,31 @@ In the case of a corporation—
 
 #### (2) Tentative minimum tax ####
 
-The term "tentative minimum tax" has the meaning given to such term by section 55(b), except that in the case of a corporation, the tentative minimum tax shall be treated as zero.
+The term "tentative minimum tax" has the meaning given to such term by section 55(b).
 
-#### (3) AMT term references ####
+#### (e) Application to applicable corporations ####
 
-In the case of a corporation, any references in this subsection to section 55, 56, or 57 shall be treated as a reference to such section as in effect before the amendments made by Tax Cuts and Jobs Act.<sup><a href="#53_1_target" name="53_1">1</a></sup>
+In the case of a corporation—
 
-#### (e) Portion of credit treated as refundable ####
+(1) subsection (b)(1) shall be applied by substituting "the net minimum tax for all prior taxable years beginning after 2022" for "the adjusted net minimum tax imposed for all prior taxable years beginning after 1986", and
 
-#### (1) In general ####
+(2) the amount determined under subsection (c)(1) shall be increased by the amount of tax imposed under section 59A for the taxable year.
 
-In the case of any taxable year of a corporation beginning in 2018 or 2019, the limitation under subsection (c) shall be increased by the AMT refundable credit amount for such year.
-
-#### (2) AMT refundable credit amount ####
-
-For purposes of paragraph (1), the AMT refundable credit amount is an amount equal to 50 percent (100 percent in the case of a taxable year beginning in 2019) of the excess (if any) of—
-
-(A) the minimum tax credit determined under subsection (b) for the taxable year, over
-
-(B) the minimum tax credit allowed under subsection (a) for such year (before the application of this subsection for such year).
-
-#### (3) Credit refundable ####
-
-For purposes of this title (other than this section), the credit allowed by reason of this subsection shall be treated as a credit allowed under subpart C (and not this subpart).
-
-#### (4) Short taxable years ####
-
-In the case of any taxable year of less than 365 days, the AMT refundable credit amount determined under paragraph (2) with respect to such taxable year shall be the amount which bears the same ratio to such amount determined without regard to this paragraph as the number of days in such taxable year bears to 365.
-
-#### (5) Special rule ####
-
-In the case of a corporation making an election under this paragraph—
-
-(A) paragraph (1) shall not apply, and
-
-(B) subsection (c) shall not apply to the first taxable year of such corporation beginning in 2018.
-
-(Added Pub. L. 99–514, title VII, §701(b), Oct. 22, 1986, 100 Stat. 2339; amended Pub. L. 100–647, title I, §1007(g)(4), title VI, §6304(a), Nov. 10, 1988, 102 Stat. 3435, 3756; Pub. L. 101–239, title VII, §§7612(a)(1), (2), (b)(1), 7811(d)(2), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408; Pub. L. 102–486, title XIX, §1913(b)(2)(C), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §§13113(b)(2), 13171(c), Aug. 10, 1993, 107 Stat. 429, 455; Pub. L. 104–188, title I, §§1205(d)(5), 1704(j)(1), Aug. 20, 1996, 110 Stat. 1776, 1881; Pub. L. 108–357, title IV, §421(a)(2), Oct. 22, 2004, 118 Stat. 1514; Pub. L. 109–58, title XIII, §1322(a)(3)(G), Aug. 8, 2005, 119 Stat. 1012; Pub. L. 109–432, div. A, title IV, §402(a), Dec. 20, 2006, 120 Stat. 2953; Pub. L. 110–172, §2(a), Dec. 29, 2007, 121 Stat. 2473; Pub. L. 110–343, div. C, title I, §103(a), (b), Oct. 3, 2008, 122 Stat. 3863; Pub. L. 111–5, div. B, title I, §1142(b)(4), Feb. 17, 2009, 123 Stat. 331; Pub. L. 113–295, div. A, title II, §221(a)(8)(A)(i), Dec. 19, 2014, 128 Stat. 4038; Pub. L. 115–97, title I, §§12001(b)(2), 12002(a), (b), Dec. 22, 2017, 131 Stat. 2092, 2094; Pub. L. 116–136, div. A, title II, §2305(a), (b), Mar. 27, 2020, 134 Stat. 357.)
+(Added Pub. L. 99–514, title VII, §701(b), Oct. 22, 1986, 100 Stat. 2339; amended Pub. L. 100–647, title I, §1007(g)(4), title VI, §6304(a), Nov. 10, 1988, 102 Stat. 3435, 3756; Pub. L. 101–239, title VII, §§7612(a)(1), (2), (b)(1), 7811(d)(2), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408; Pub. L. 102–486, title XIX, §1913(b)(2)(C), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §§13113(b)(2), 13171(c), Aug. 10, 1993, 107 Stat. 429, 455; Pub. L. 104–188, title I, §§1205(d)(5), 1704(j)(1), Aug. 20, 1996, 110 Stat. 1776, 1881; Pub. L. 108–357, title IV, §421(a)(2), Oct. 22, 2004, 118 Stat. 1514; Pub. L. 109–58, title XIII, §1322(a)(3)(G), Aug. 8, 2005, 119 Stat. 1012; Pub. L. 109–432, div. A, title IV, §402(a), Dec. 20, 2006, 120 Stat. 2953; Pub. L. 110–172, §2(a), Dec. 29, 2007, 121 Stat. 2473; Pub. L. 110–343, div. C, title I, §103(a), (b), Oct. 3, 2008, 122 Stat. 3863; Pub. L. 111–5, div. B, title I, §1142(b)(4), Feb. 17, 2009, 123 Stat. 331; Pub. L. 113–295, div. A, title II, §221(a)(8)(A)(i), Dec. 19, 2014, 128 Stat. 4038; Pub. L. 115–97, title I, §§12001(b)(2), 12002(a), (b), Dec. 22, 2017, 131 Stat. 2092, 2094; Pub. L. 116–136, div. A, title II, §2305(a), (b), Mar. 27, 2020, 134 Stat. 357; Pub. L. 117–169, title I, §10101(e), Aug. 16, 2022, 136 Stat. 1828.)
 
 #### **Editorial Notes** ####
-
-#### References in Text ####
-
-The Tax Cuts and Jobs Act, referred to in subsec. (d)(3), probably means title I of Pub. L. 115–97, Dec. 22, 2017, 131 Stat. 2054. Prior versions of the bill that was enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of title I of Pub. L. 115–97. For complete classification of title I of Pub. L. 115–97 to the Code, see Tables.
 
 #### Prior Provisions ####
 
 A prior section 53, added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 146; amended Pub. L. 95–600, title III, §321(c)(2), Nov. 6, 1978, 92 Stat. 2835; Pub. L. 97–34, title II, §207(c)(2), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), and §265(b)(2)(A)(iii), Sept. 3, 1982, 96 Stat. 420, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; 97–354, §5(a)(12), Oct. 19, 1982, 96 Stat. 1693; 97–448, title I, §102(d)(3), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title VII, §713(c)(1)(C), July 18, 1984, 98 Stat. 957, placed limitations on the amount of credit allowed by former section 44B for employment of certain new employees, prior to repeal by Pub. L. 98–369, div. A, title IV, §474(p)(8), July 18, 1984, 98 Stat. 838, applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
 
 #### Amendments ####
+
+**2022**—Subsec. (d)(2). Pub. L. 117–169, §10101(e)(2)(A), struck out ", except that in the case of a corporation, the tentative minimum tax shall be treated as zero" after "section 55(b)".
+
+Subsec. (d)(3). Pub. L. 117–169, §10101(e)(2)(B), struck out par. (3). Prior to amendment, text read as follows: "In the case of a corporation, any references in this subsection to section 55, 56, or 57 shall be treated as a reference to such section as in effect before the amendments made by Tax Cuts and Jobs Act."
+
+Subsec. (e). Pub. L. 117–169, §10101(e)(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to portion of credit treated as refundable.
 
 **2020**—Subsec. (e)(1). Pub. L. 116–136, §2305(a)(1), substituted "2018 or 2019" for "2018, 2019, 2020, or 2021".
 
@@ -177,6 +153,10 @@ Pub. L. 101–239, §7612(a)(1), added cl. (iv).
 Subsec. (d)(1)(B)(iii). Pub. L. 100–647, §6304(a), added cl. (iii).
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Amendment by Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 10101(f) of Pub. L. 117–169, set out as a note under section 11 of this title.
 
 #### Effective Date of 2020 Amendment ####
 
@@ -301,5 +281,3 @@ Pub. L. 116–136, div. A, title II, §2305(d), Mar. 27, 2020, 134 Stat. 357, pr
 in a manner similar to the manner provided in section 6411(b) of the Internal Revenue Code of 1986.
 
 "(C) Consolidated returns.—The provisions of section 6411(c) of the Internal Revenue Code of 1986 Code shall apply to an adjustment under this paragraph to the same extent and manner as the Secretary of the Treasury (or the Secretary's delegate) may provide."
-
-[<sup>1</sup> So in original. Probably should be "the Tax Cuts and Jobs Act."](#53_1)

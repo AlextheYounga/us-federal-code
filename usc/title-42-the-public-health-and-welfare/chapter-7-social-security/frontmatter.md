@@ -712,6 +712,24 @@ Sec.
 
 1320e–3. Information exchange with payroll data providers.
 
+#### Part E—Price Negotiation Program To Lower Prices for Certain High-Priced Single Source Drugs ####
+
+1320f. Establishment of program.
+
+1320f–1. Selection of negotiation-eligible drugs as selected drugs.
+
+1320f–2. Manufacturer agreements.
+
+1320f–3. Negotiation and renegotiation process.
+
+1320f–4. Publication of maximum fair prices.
+
+1320f–5. Administrative duties and compliance monitoring.
+
+1320f–6. Civil monetary penalties.
+
+1320f–7. Limitation on administrative and judicial review.
+
 #### SUBCHAPTER XII—ADVANCES TO STATE UNEMPLOYMENT FUNDS ####
 
 1321. Eligibility requirements for transfer of funds; reimbursement by State; application; certification; limitation.
@@ -959,6 +977,12 @@ Sec.
 1395w–114. Premium and cost-sharing subsidies for low-income individuals.
 
 1395w–114a. Medicare coverage gap discount program.
+
+1395w–114b. Manufacturer rebate for certain drugs with prices increasing faster than inflation.
+
+1395w–114c. Manufacturer discount program.
+
+1395w–114d. Selected drug subsidy program.
 
 1395w–115. Subsidies for part D eligible individuals for qualified prescription drug coverage.
 

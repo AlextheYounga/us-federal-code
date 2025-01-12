@@ -24,25 +24,47 @@ The amount which is treated as the qualified investment for all taxable years wi
 
 #### (A) In general ####
 
-The term "qualifying advanced energy project" means a project—
+The term "qualifying advanced energy project" means a project, any portion of the qualified investment of which is certified by the Secretary under subsection (e) as eligible for a credit under this section—
 
-(i) which re-equips, expands, or establishes a manufacturing facility for the production of—
+(i) which re-equips, expands, or establishes an industrial or manufacturing facility for the production or recycling of—
 
-(I) property designed to be used to produce energy from the sun, wind, geothermal deposits (within the meaning of section 613(e)(2)), or other renewable resources,
+(I) property designed to be used to produce energy from the sun, water, wind, geothermal deposits (within the meaning of section 613(e)(2)), or other renewable resources,
 
-(II) fuel cells, microturbines, or an energy storage system for use with electric or hybrid-electric motor vehicles,
+(II) fuel cells, microturbines, or energy storage systems and components,
 
-(III) electric grids to support the transmission of intermittent sources of renewable energy, including storage of such energy,
+(III) electric grid modernization equipment or components,
 
-(IV) property designed to capture and sequester carbon dioxide emissions,
+(IV) property designed to capture, remove, use, or sequester carbon oxide emissions,
 
-(V) property designed to refine or blend renewable fuels or to produce energy conservation technologies (including energy-conserving lighting technologies and smart grid technologies),
+(V) equipment designed to refine, electrolyze, or blend any fuel, chemical, or product which is—
 
-(VI) new qualified plug-in electric drive motor vehicles (as defined by section 30D) or components which are designed specifically for use with such vehicles, including electric motors, generators, and power control units, or
+(aa) renewable, or
 
-(VII) other advanced energy property designed to reduce greenhouse gas emissions as may be determined by the Secretary, and
+(bb) low-carbon and low-emission,
 
-(ii) any portion of the qualified investment of which is certified by the Secretary under subsection (d) as eligible for a credit under this section.
+(VI) property designed to produce energy conservation technologies (including residential, commercial, and industrial applications),
+
+(VII) light-, medium-, or heavy-duty electric or fuel cell vehicles, as well as—
+
+(aa) technologies, components, or materials for such vehicles, and
+
+(bb) associated charging or refueling infrastructure,
+
+(VIII) hybrid vehicles with a gross vehicle weight rating of not less than 14,000 pounds, as well as technologies, components, or materials for such vehicles, or
+
+(IX) other advanced energy property designed to reduce greenhouse gas emissions as may be determined by the Secretary,
+
+(ii) which re-equips an industrial or manufacturing facility with equipment designed to reduce greenhouse gas emissions by at least 20 percent through the installation of—
+
+(I) low- or zero-carbon process heat systems,
+
+(II) carbon capture, transport, utilization and storage systems,
+
+(III) energy efficiency and reduction in waste from industrial processes, or
+
+(IV) any other industrial technology designed to reduce greenhouse gas emissions, as determined by the Secretary, or
+
+(iii) which re-equips, expands, or establishes an industrial facility for the processing, refining, or recycling of critical materials (as defined in section 7002(a) of the Energy Act of 2020 (30 U.S.C. 1606(a)) <sup><a href="#48C_1_target" name="48C_1">1</a></sup>.
 
 #### (B) Exception ####
 
@@ -52,7 +74,13 @@ Such term shall not include any portion of a project for the production of any p
 
 The term "eligible property" means any property—
 
-(A) which is necessary for the production of property described in paragraph (1)(A)(i),
+(A) which is necessary for—
+
+(i) the production or recycling of property described in clause (i) of paragraph (1)(A),
+
+(ii) re-equipping an industrial or manufacturing facility described in clause (ii) of such paragraph, or
+
+(iii) re-equipping, expanding, or establishing an industrial facility described in clause (iii) of such paragraph,
 
 (B) which is—
 
@@ -128,11 +156,71 @@ If the Secretary determines that credits under this section are available for re
 
 The Secretary shall, upon making a certification under this subsection, publicly disclose the identity of the applicant and the amount of the credit with respect to such applicant.
 
-#### (e) Denial of double benefit ####
+#### (e) Additional allocations ####
 
-A credit shall not be allowed under this section for any qualified investment for which a credit is allowed under section 48, 48A, or 48B.
+#### (1) In general ####
 
-(Added Pub. L. 111–5, div. B, title I, §1302(b), Feb. 17, 2009, 123 Stat. 345; amended Pub. L. 113–295, div. A, title II, §§209(g), 221(a)(2)(C), Dec. 19, 2014, 128 Stat. 4029, 4037.)
+Not later than 180 days after the date of enactment of this subsection, the Secretary shall establish a program to consider and award certifications for qualified investments eligible for credits under this section to qualifying advanced energy project sponsors.
+
+#### (2) Limitation ####
+
+The total amount of credits which may be allocated under the program established under paragraph (1) shall not exceed $10,000,000,000, of which not greater than $6,000,000,000 may be allocated to qualified investments which are not located within a census tract which—
+
+(A) is described in clause (iii) of section 45(b)(11)(B), and
+
+(B) prior to the date of enactment of this subsection, had no project which received a certification and allocation of credits under subsection (d).
+
+#### (3) Certifications ####
+
+#### (A) Application requirement ####
+
+Each applicant for certification under this subsection shall submit an application at such time and containing such information as the Secretary may require.
+
+#### (B) Time to meet criteria for certification ####
+
+Each applicant for certification shall have 2 years from the date of acceptance by the Secretary of the application during which to provide to the Secretary evidence that the requirements of the certification have been met.
+
+#### (C) Period of issuance ####
+
+An applicant which receives a certification shall have 2 years from the date of issuance of the certification in order to place the project in service and to notify the Secretary that such project has been so placed in service, and if such project is not placed in service by that time period, then the certification shall no longer be valid. If any certification is revoked under this subparagraph, the amount of the limitation under paragraph (2) shall be increased by the amount of the credit with respect to such revoked certification.
+
+#### (D) Location of project ####
+
+In the case of an applicant which receives a certification, if the Secretary determines that the project has been placed in service at a location which is materially different than the location specified in the application for such project, the certification shall no longer be valid.
+
+#### (4) Credit rate conditioned upon wage and apprenticeship requirements ####
+
+#### (A) Base rate ####
+
+For purposes of allocations under this subsection, the amount of the credit determined under subsection (a) shall be determined by substituting "6 percent" for "30 percent".
+
+#### (B) Alternative rate ####
+
+In the case of any project which satisfies the requirements of paragraphs (5)(A) and (6), subparagraph (A) shall not apply.
+
+#### (5) Prevailing wage requirements ####
+
+#### (A) In general ####
+
+The requirements described in this subparagraph with respect to a project are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the re-equipping, expansion, or establishment of a manufacturing facility shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such project is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code.
+
+#### (B) Correction and penalty related to failure to satisfy wage requirements ####
+
+Rules similar to the rules of section 45(b)(7)(B) shall apply.
+
+#### (6) Apprenticeship requirements ####
+
+Rules similar to the rules of section 45(b)(8) shall apply.
+
+#### (7) Disclosure of allocations ####
+
+The Secretary shall, upon making a certification under this subsection, publicly disclose the identity of the applicant and the amount of the credit with respect to such applicant.
+
+#### (f) Denial of double benefit ####
+
+A credit shall not be allowed under this section for any qualified investment for which a credit is allowed under section 48, 48A, 48B, 48E, 45Q, or 45V.
+
+(Added Pub. L. 111–5, div. B, title I, §1302(b), Feb. 17, 2009, 123 Stat. 345; amended Pub. L. 113–295, div. A, title II, §§209(g), 221(a)(2)(C), Dec. 19, 2014, 128 Stat. 4029, 4037; Pub. L. 117–169, title I, §13501(a)–(d), Aug. 16, 2022, 136 Stat. 1969–1971.)
 
 #### **Editorial Notes** ####
 
@@ -142,13 +230,43 @@ Subsections (c)(4) and (d) of section 46 (as in effect on the day before the ena
 
 The date of enactment of this section, referred to in subsec. (d)(1)(A), (4)(A), is the date of enactment of Pub. L. 111–5, which was approved Feb. 17, 2009.
 
+The date of enactment of this subsection, referred to in subsec. (e)(1), (2)(B), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
+
 #### Amendments ####
+
+**2022**—Subsec. (c)(1)(A). Pub. L. 117–169, §13501(b)(1), inserted ", any portion of the qualified investment of which is certified by the Secretary under subsection (e) as eligible for a credit under this section" after "means a project" in introductory provisions.
+
+Subsec. (c)(1)(A)(i). Pub. L. 117–169, §13501(b)(2)(A), substituted "an industrial or manufacturing facility for the production or recycling of" for "a manufacturing facility for the production of" in introductory provisions.
+
+Subsec. (c)(1)(A)(i)(I). Pub. L. 117–169, §13501(b)(2)(B), inserted "water," after "sun,".
+
+Subsec. (c)(1)(A)(i)(II). Pub. L. 117–169, §13501(b)(2)(C), substituted "energy storage systems and components" for "an energy storage system for use with electric or hybrid-electric motor vehicles".
+
+Subsec. (c)(1)(A)(i)(III). Pub. L. 117–169, §13501(b)(2)(D), substituted "grid modernization equipment or components" for "grids to support the transmission of intermittent sources of renewable energy, including storage of such energy".
+
+Subsec. (c)(1)(A)(i)(IV). Pub. L. 117–169, §13501(b)(2)(E), substituted ", remove, use, or sequester carbon oxide emissions" for "and sequester carbon dioxide emissions".
+
+Subsec. (c)(1)(A)(i)(V). Pub. L. 117–169, §13501(b)(2)(F), added subcl. (V) and struck out former subcl. (V) which read as follows: "property designed to refine or blend renewable fuels or to produce energy conservation technologies (including energy-conserving lighting technologies and smart grid technologies),".
+
+Subsec. (c)(1)(A)(i)(VI) to (IX). Pub. L. 117–169, §13501(b)(2)(G)–(J), added subcls. (VI) to (VIII), redesignated former subcl. (VII) as (IX), struck out "and" at end of subcl. (IX), and struck out former subcl. (VI) which read as follows: "new qualified plug-in electric drive motor vehicles (as defined by section 30D) or components which are designed specifically for use with such vehicles, including electric motors, generators, and power control units, or".
+
+Subsec. (c)(1)(A)(ii), (iii). Pub. L. 117–169, §13501(b)(3), added cls. (ii) and (iii) and struck out former cl. (ii) which read as follows: "any portion of the qualified investment of which is certified by the Secretary under subsection (d) as eligible for a credit under this section."
+
+Subsec. (c)(2)(A). Pub. L. 117–169, §13501(c), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "which is necessary for the production of property described in paragraph (1)(A)(i),".
+
+Subsec. (e). Pub. L. 117–169, §13501(a), added subsec. (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 117–169, §13501(a), (d), redesignated subsec. (e) as (f) and substituted "48B, 48E, 45Q, or 45V" for "or 48B".
 
 **2014**—Subsec. (b)(3). Pub. L. 113–295, §209(g), inserted "as the qualified investment" after "The amount which is treated".
 
 Subsec. (c)(1)(A)(i)(VI). Pub. L. 113–295, §221(a)(2)(C), struck out ", qualified plug-in electric vehicles (as defined by section 30(d))," before "or components".
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Pub. L. 117–169, title I, §13501(e), Aug. 16, 2022, 136 Stat. 1971, provided that: "The amendments made by this section [amending this section] shall take effect on January 1, 2023."
 
 #### Effective Date of 2014 Amendment ####
 
@@ -159,3 +277,5 @@ Amendment by section 221(a)(2)(C) of Pub. L. 113–295 effective Dec. 19, 2014, 
 #### Effective Date ####
 
 Section applicable to periods after Feb. 17, 2009, under rules similar to the rules of section 48(m) of this title as in effect on the day before Nov. 5, 1990, see section 1302(d) of Pub. L. 111–5, set out as an Effective Date of 2009 Amendment note under section 46 of this title.
+
+[<sup>1</sup> So in original. Probably should be followed by a closing parenthesis.](#48C_1)

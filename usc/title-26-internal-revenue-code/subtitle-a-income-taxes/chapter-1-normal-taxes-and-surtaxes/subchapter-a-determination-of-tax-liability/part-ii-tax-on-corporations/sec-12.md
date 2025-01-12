@@ -8,11 +8,15 @@
 
 **(4) For rate of withholding in case of foreign corporations, see section 1442.**
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 11; Pub. L. 88–272, title II, §234(b)(4), Feb. 26, 1964, 78 Stat. 115; Pub. L. 91–172, title III, §301(b)(3), Dec. 30, 1969, 83 Stat. 585; Pub. L. 94–12, title III, §303(c)(2), Mar. 29, 1975, 89 Stat. 44; Pub. L. 95–600, title III, §301(b)(1), Nov. 6, 1978, 92 Stat. 2820; Pub. L. 98–369, div. A, title IV, §474(r)(29)(E), July 18, 1984, 98 Stat. 844; Pub. L. 99–514, title VII, §701(e)(4)(B), Oct. 22, 1986, 100 Stat. 2343; Pub. L. 115–97, title I, §§12001(b)(12), 13001(b)(2)(B), Dec. 22, 2017, 131 Stat. 2094, 2096.)
+**(5) For alternative minimum tax, see section 55.**
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 11; Pub. L. 88–272, title II, §234(b)(4), Feb. 26, 1964, 78 Stat. 115; Pub. L. 91–172, title III, §301(b)(3), Dec. 30, 1969, 83 Stat. 585; Pub. L. 94–12, title III, §303(c)(2), Mar. 29, 1975, 89 Stat. 44; Pub. L. 95–600, title III, §301(b)(1), Nov. 6, 1978, 92 Stat. 2820; Pub. L. 98–369, div. A, title IV, §474(r)(29)(E), July 18, 1984, 98 Stat. 844; Pub. L. 99–514, title VII, §701(e)(4)(B), Oct. 22, 1986, 100 Stat. 2343; Pub. L. 115–97, title I, §§12001(b)(12), 13001(b)(2)(B), Dec. 22, 2017, 131 Stat. 2094, 2096; Pub. L. 117–169, title I, §10101(a)(4)(D), Aug. 16, 2022, 136 Stat. 1822.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Par. (5). Pub. L. 117–169 added par. (5).
 
 **2017**—Pars. (4) to (6). Pub. L. 115–97, §13001(b)(2)(B), redesignated par. (5) as (4) and struck out former pars. (4) and (6) which read as follows:
 
@@ -35,6 +39,10 @@ Par. (7). Pub. L. 115–97, §12001(b)(12), struck out par. (7) which read as fo
 **1964**—Par. (8). Pub. L. 88–272 struck out par. (8) which referred to section 1503 for additional tax for corporations filing consolidated returns.
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Amendment by Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 10101(f) of Pub. L. 117–169, set out as a note under section 11 of this title.
 
 #### Effective Date of 2017 Amendment ####
 

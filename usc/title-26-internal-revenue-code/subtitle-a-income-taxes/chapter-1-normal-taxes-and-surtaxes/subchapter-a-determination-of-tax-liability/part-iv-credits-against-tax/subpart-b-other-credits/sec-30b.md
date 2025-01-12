@@ -458,7 +458,7 @@ No credit shall be allowable under subsection (a) with respect to any property r
 
 #### (8) Recapture ####
 
-The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit (including recapture in the case of a lease period of less than the economic life of a vehicle), except that no benefit shall be recaptured if such property ceases to be eligible for such credit by reason of conversion to a qualified plug-in electric drive motor vehicle.
+The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit (including recapture in the case of a lease period of less than the economic life of a vehicle).
 
 #### (9) Election to not take credit ####
 
@@ -472,23 +472,7 @@ Unless otherwise provided in this section, a motor vehicle shall not be consider
 
 (B) the motor vehicle safety provisions of sections 30101 through 30169 of title 49, United States Code.
 
-#### (i) Plug-in conversion credit ####
-
-#### (1) In general ####
-
-For purposes of subsection (a), the plug-in conversion credit determined under this subsection with respect to any motor vehicle which is converted to a qualified plug-in electric drive motor vehicle is 10 percent of so much of the cost of the converting such vehicle as does not exceed $40,000.
-
-#### (2) Qualified plug-in electric drive motor vehicle ####
-
-For purposes of this subsection, the term "qualified plug-in electric drive motor vehicle" means any new qualified plug-in electric drive motor vehicle (as defined in section 30D, determined without regard to whether such vehicle is made by a manufacturer or whether the original use of such vehicle commences with the taxpayer).
-
-#### (3) Credit allowed in addition to other credits ####
-
-The credit allowed under this subsection shall be allowed with respect to a motor vehicle notwithstanding whether a credit has been allowed with respect to such motor vehicle under this section (other than this subsection) in any preceding taxable year.
-
-#### (4) Termination ####
-
-This subsection shall not apply to conversions made after December 31, 2011.
+#### [(i) Repealed. Pub. L. 117–169, title I, §13401(i)(2)(B), Aug. 16, 2022, 136 Stat. 1961] ####
 
 #### (j) Regulations ####
 
@@ -512,7 +496,7 @@ This section shall not apply to any property purchased after—
 
 (4) in the case of a new qualified alternative fuel vehicle (as described in subsection (e)), December 31, 2010.
 
-(Added Pub. L. 109–58, title XIII, §1341(a), Aug. 8, 2005, 119 Stat. 1038; amended Pub. L. 109–135, title IV, §§402(j), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–343, div. B, title II, §205(b), Oct. 3, 2008, 122 Stat. 3838; Pub. L. 111–5, div. B, title I, §§1141(b)(1), 1142(b)(2), 1143(a)–(c), 1144(a), Feb. 17, 2009, 123 Stat. 328, 330–332; Pub. L. 111–148, title X, §10909(b)(2)(G), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(H), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 113–295, div. A, title II, §§218(a), 220(a), Dec. 19, 2014, 128 Stat. 4035; Pub. L. 114–113, div. Q, title I, §193(a), Dec. 18, 2015, 129 Stat. 3075; Pub. L. 115–123, div. D, title I, §40403(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 116–94, div. Q, title I, §124(a), Dec. 20, 2019, 133 Stat. 3231; Pub. L. 116–260, div. EE, title I, §142(a), Dec. 27, 2020, 134 Stat. 3054.)
+(Added Pub. L. 109–58, title XIII, §1341(a), Aug. 8, 2005, 119 Stat. 1038; amended Pub. L. 109–135, title IV, §§402(j), 412(d), Dec. 21, 2005, 119 Stat. 2615, 2636; Pub. L. 110–343, div. B, title II, §205(b), Oct. 3, 2008, 122 Stat. 3838; Pub. L. 111–5, div. B, title I, §§1141(b)(1), 1142(b)(2), 1143(a)–(c), 1144(a), Feb. 17, 2009, 123 Stat. 328, 330–332; Pub. L. 111–148, title X, §10909(b)(2)(G), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(H), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 113–295, div. A, title II, §§218(a), 220(a), Dec. 19, 2014, 128 Stat. 4035; Pub. L. 114–113, div. Q, title I, §193(a), Dec. 18, 2015, 129 Stat. 3075; Pub. L. 115–123, div. D, title I, §40403(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 116–94, div. Q, title I, §124(a), Dec. 20, 2019, 133 Stat. 3231; Pub. L. 116–260, div. EE, title I, §142(a), Dec. 27, 2020, 134 Stat. 3054; Pub. L. 117–169, title I, §13401(i)(2), Aug. 16, 2022, 136 Stat. 1961.)
 
 #### **Editorial Notes** ####
 
@@ -525,6 +509,10 @@ The date of the enactment of this section, referred to in subsecs. (b)(3)(B) and
 The date of the enactment of the Energy Tax Incentives Act of 2005, referred to in subsec. (e)(2), is the date of enactment of title XIII of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
 #### Amendments ####
+
+**2022**—Subsec. (h)(8). Pub. L. 117–169, §13401(i)(2)(A), struck out ", except that no benefit shall be recaptured if such property ceases to be eligible for such credit by reason of conversion to a qualified plug-in electric drive motor vehicle" before period at end.
+
+Subsec. (i). Pub. L. 117–169, §13401(i)(2)(B), struck out subsec. (i) which related to plug-in conversion credit.
 
 **2020**—Subsec. (k)(1). Pub. L. 116–260 substituted "December 31, 2021" for "December 31, 2020".
 
@@ -565,6 +553,10 @@ Subsecs. (i) to (k). Pub. L. 111–5, §1143(a), added subsec. (i) and redesigna
 Subsec. (h)(6). Pub. L. 109–135, §402(j), inserted at end "For purposes of subsection (g), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation."
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Amendment by Pub. L. 117–169 applicable to vehicles placed in service after Dec. 31, 2022, see section 13401(k)(1) of Pub. L. 117–169, set out in an Effective Date of 2022 Amendment; Transition Rule note under section 30D of this title.
 
 #### Effective Date of 2020 Amendment ####
 

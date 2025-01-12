@@ -14,6 +14,14 @@ Sec.
 
 18713. Transmission facilitation program.
 
+#### Part A–1—Electric Transmission ####
+
+18715. Transmission facility financing.
+
+18715a. Grants to facilitate the siting of interstate electricity transmission lines.
+
+18715b. Interregional and offshore wind electricity transmission planning, modeling, and analysis.
+
 #### Part B—Cybersecurity ####
 
 18721. Enhancing grid security through public-private partnerships.
@@ -76,7 +84,15 @@ Sec.
 
 18792. Energy efficiency revolving loan fund capitalization grant program.
 
-18793. Energy auditor training grant program.
+18793.
+
+#### Part A–1—Residential Efficiency and Electrification Rebates ####
+
+18795. Home energy performance-based, whole-house rebates.
+
+18795a. High-efficiency electric home rebate program.
+
+18795b. State-based home energy efficiency contractor training grants.
 
 #### Part B—Buildings ####
 

@@ -178,7 +178,7 @@ If the taxpayer (in the case of a joint return, either spouse) has a principal p
 
 Subsection (c) shall be applied—
 
-(A) by substituting"$8,000" for "$3,000" in paragraph (1) thereof, and
+(A) by substituting "$8,000" for "$3,000" in paragraph (1) thereof, and
 
 (B) by substituting "$16,000" for "$6,000" in paragraph (2) thereof.
 
