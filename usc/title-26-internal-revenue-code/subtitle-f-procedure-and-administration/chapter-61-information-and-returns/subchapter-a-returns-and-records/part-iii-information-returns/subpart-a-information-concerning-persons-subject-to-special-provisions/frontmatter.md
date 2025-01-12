@@ -12,7 +12,7 @@ Sec.
 
 6034A. Information to beneficiaries of estates and trusts.
 
-[6035. Repealed.]
+6035. Basis information to persons acquiring property from decedent.
 
 6036. Notice of qualification as executor or receiver.
 
@@ -53,6 +53,8 @@ Sec.
 6040. Cross references.
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–41, title II, §2004(b)(3), July 31, 2015, 129 Stat. 456, added item 6035.
 
 **2010**—Pub. L. 111–147, title V, §511(b), Mar. 18, 2010, 124 Stat. 110, added item 6038D.
 

@@ -4,7 +4,7 @@ Section 698v, Pub. L. 106–248, title I, §102, July 25, 2000, 114 Stat. 598, s
 
 Section 698v–1, Pub. L. 106–248, title I, §103, July 25, 2000, 114 Stat. 599, defined terms in sections 698v to 698v–10 of this title.
 
-Section 698v–2, Pub. L. 106–248, title I, §104, July 25, 2000, 114 Stat. 600; Pub. L. 109–132, §2(a), Dec. 20, 2005, 119 Stat. 2570; Pub. L. 113–287, §5(d)(20), Dec. 19, 2014, 128 Stat. 3266, related to acquisition of lands. Pursuant to section 698v–11(d)(2)(B) of this title, subsec. (g) of section 698v–2 remains in effect. For text of subsec. (g), see note under section 698v–11 of this title.
+Section 698v–2, Pub. L. 106–248, title I, §104, July 25, 2000, 114 Stat. 600; Pub. L. 109–132, §2(a), Dec. 20, 2005, 119 Stat. 2570; Pub. L. 113–287, §5(d)(20), Dec. 19, 2014, 128 Stat. 3266, related to acquisition of lands. Pursuant to section 698v–11(d)(2)(B) of this title, subsec. (g) of section 698v–2 remains in effect. For text of subsec. (g), see Pueblo of Santa Clara note under section 698v–11 of this title.
 
 Section 698v–3, Pub. L. 106–248, title I, §105, July 25, 2000, 114 Stat. 602, related to establishment and management of Valles Caldera National Preserve.
 
@@ -34,4 +34,4 @@ Pub. L. 106–248, title I, §101, July 25, 2000, 114 Stat. 598, which provided 
 
 #### Termination of Valles Caldera Trust ####
 
-Valles Caldera Trust to terminate 180 days after December 19, 2014, unless Secretary determines that the date be extended to facilitate the transitional management of the Preserve, see section 698v–11(c)(4)(A) of this title.
+Valles Caldera Trust to terminate 180 days after Dec. 19, 2014, unless the Secretary of the Interior determines that the date be extended to facilitate the transitional management of the Valles Caldera National Preserve, see section 698v–11(c)(4)(A) of this title.

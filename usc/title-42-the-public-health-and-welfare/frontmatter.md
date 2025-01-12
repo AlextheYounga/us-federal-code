@@ -69,7 +69,7 @@ Chap. Sec.
 
 19B. Water Resources Planning 1962
 
-20. Elective Franchise [Transferred, Omitted, or Repealed] 1971
+20. Elective Franchise [Transferred, Repealed, or Omitted] 1971
 
 20A. Civil Rights Commission 1975
 

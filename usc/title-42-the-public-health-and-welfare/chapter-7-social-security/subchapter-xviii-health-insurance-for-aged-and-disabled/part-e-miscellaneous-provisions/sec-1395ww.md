@@ -2464,7 +2464,7 @@ The Secretary shall establish procedures for making data submitted under subpara
 
 #### (i) In general ####
 
-For the rate year beginning on the specified application date (as defined in subsection (a)(2)(E) of 1395lll of this title), as applicable with respect to long-term care hospitals and quality measures under subsection (c)(1) of such section and measures under subsection (d)(1) of such section, and each subsequent rate year, in addition to the data on the quality measures described in subparagraph (C), each long-term care hospital (other than a hospital classified under subsection (d)(1)(B)(iv)(II)) shall submit to the Secretary data on the quality measures under such subsection (c)(1) and any necessary data specified by the Secretary under such subsection (d)(1).
+For the rate year beginning on the specified application date (as defined in subsection (a)(2)(E) of section 1395lll of this title), as applicable with respect to long-term care hospitals and quality measures under subsection (c)(1) of such section and measures under subsection (d)(1) of such section, and each subsequent rate year, in addition to the data on the quality measures described in subparagraph (C), each long-term care hospital (other than a hospital classified under subsection (d)(1)(B)(iv)(II)) shall submit to the Secretary data on the quality measures under such subsection (c)(1) and any necessary data specified by the Secretary under such subsection (d)(1).
 
 #### (ii) Standardized patient assessment data ####
 
@@ -5700,7 +5700,7 @@ Pub. L. 110–173, title I, §114(d), Dec. 29, 2007, 121 Stat. 2503, as amended 
 
 "(6) Limitation on application of exceptions.—Paragraphs (2) and (3) shall not apply during the period beginning on the date of the enactment of paragraph (7) of this subsection [Apr. 1, 2014] and ending September 30, 2017.
 
-"(7) *Additional exception for certain long-term care hospitals*.—The moratorium under paragraph (1)(A) shall not apply to a long-term care hospital that—
+"(7) Additional exception for certain long-term care hospitals.—The moratorium under paragraph (1)(A) shall not apply to a long-term care hospital that—
 
 "(A) began its qualifying period for payment as a long-term care hospital under section 412.23(e) of title 42, Code of Federal Regulations, on or before the date of enactment of this paragraph [Apr. 1, 2014];
 

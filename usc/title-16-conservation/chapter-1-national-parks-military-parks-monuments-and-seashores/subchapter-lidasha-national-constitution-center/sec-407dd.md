@@ -28,4 +28,4 @@ Nothing in this section may be construed to alter or waive the requirement that 
 
 #### Codification ####
 
-In subsec. (f), "section 306108 of title 54" substituted for "section 106 of the Historic Preservation Act (90 Stat. 1320)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+In subsec. (f), "section 306108 of title 54" substituted for "section 106 of the Historic Preservation Act (90 Stat. 1320) as amended" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.

@@ -2,4 +2,4 @@
 
 Sec.
 
-5401 to 5409. Repealed or Omitted.
+5401 to 5409. Omitted or Repealed.

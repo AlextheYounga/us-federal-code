@@ -36,7 +36,7 @@ The Secretary may use funds from the sale of Migratory Bird Hunting and Conserva
 
 #### (d) Annual report ####
 
-The Secretary shall include in each annual report of the Commission under section 3 <sup><a href="#718d_1_target" name="718d_1">1</a></sup> of the Migratory Bird Conservation Act (16 U.S.C. 715b)—
+The Secretary shall include in each annual report of the Commission under section 3 of the Migratory Bird Conservation Act (16 U.S.C. 715b)—
 
 (1) a description of activities conducted under subsection (c) in the year covered by the report;
 
@@ -60,7 +60,7 @@ The Secretary shall include in each annual report of the Commission under sectio
 
 #### References in Text ####
 
-The Migratory Bird Conservation Act, referred to in subsecs. (b)(2), (3) and (d), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§715 et seq.) of chapter 7 of this title. Section 3 of the Act was classified to section 715b of this title and was omitted from the Code. For complete classification of this Act to the Code, see section 715 of this title and Tables.
+The Migratory Bird Conservation Act, referred to in subsec. (b)(2), (3), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
 
 #### Amendments ####
 
@@ -121,5 +121,3 @@ For effective date of amendment by Pub. L. 85–585, see section 4 of Pub. L. 85
 #### Transfer of Functions ####
 
 Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 718a of this title.
-
-[<sup>1</sup> See References in Text note below.](#718d_1)

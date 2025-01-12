@@ -26,7 +26,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Effective Date of 1964 Amendment ####
 
-Pub. L. 88–578, title I, §1(a), Sept. 3, 1964, 78 Stat. 897, provided in part that: "This Act [amending this section, repealing former section 14 of this title, and amending provisions set out as a note under section 120 of Title 23, Highways] shall become effective on January 1, 1965."
+Pub. L. 88–578, title I, §1(a), Sept. 3, 1964, 78 Stat. 897, provided in part that: "This Act [amending this section, repealing section 14 of this title, and amending provisions set out as a note under section 120 of Title 23, Highways] shall become effective on January 1, 1965."
 
 #### Recreation Policy ####
 

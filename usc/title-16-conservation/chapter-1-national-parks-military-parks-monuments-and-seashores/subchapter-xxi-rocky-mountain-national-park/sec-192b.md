@@ -22,7 +22,7 @@ All of sections 25, 26, 35, and 36; those portions of sections 13, 22, 23, 24, 2
 
 Proc. No. 3144, June 27, 1956, 21 F.R. 4783, provided:
 
-NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of America, do proclaim that the lands hereinafter described are hereby added to the Rocky Mountain National Park, in the State of Colorado, and shall, upon acquisition of title thereto by the United States, become subject to the provisions of the act entitled "An Act to establish a National Park Service, and for other purposes," approved August 25, 1916, 39 Stat. 535 (16 U.S.C. §§1–3) [former 16 U.S.C. 1, 2, 3, and 4], and all acts supplementary thereto and amendatory thereof, and all other laws and rules and regulations applicable to such park:
+NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of America, do proclaim that the lands hereinafter described are hereby added to the Rocky Mountain National Park, in the State of Colorado, and shall, upon acquisition of title thereto by the United States, become subject to the provisions of the act entitled "An Act to establish a National Park Service, and for other purposes," approved August 25, 1916, 39 Stat. 535 ([former] 16 U.S.C. §§1–3) [see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101], and all acts supplementary thereto and amendatory thereof, and all other laws and rules and regulations applicable to such park:
 
 #### Sixth Principal Meridian ####
 
@@ -36,7 +36,7 @@ Sec. 34, N½SW¼NE¼, N½SE¼NW¼, SW¼NW¼, and NW¼SW¼.
 
 Proc. No. 3374, Sept. 23, 1960, 25 F.R. 9284, provided:
 
-NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of America, under and by virtue of the authority vested in me by the said act of June 21, 1930 [this section], do proclaim that the lands hereinafter described shall be, and they are hereby, added to and reserved as a part of the Rocky Mountain National Park, in the State of Colorado; and such lands shall be subject to the provisions of the act entitled "An Act to establish a National Park Service, and for other purposes," approved August 25, 1916, 39 Stat. 535 (16 U.S.C. 1–3) [former 16 U.S.C. 1, 2, 3, and 4], and all acts supplementary thereto and amendatory thereof, and all other laws and rules and regulations applicable to such park:
+NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of America, under and by virtue of the authority vested in me by the said act of June 21, 1930 [this section], do proclaim that the lands hereinafter described shall be, and they are hereby, added to and reserved as a part of the Rocky Mountain National Park, in the State of Colorado; and such lands shall be subject to the provisions of the act entitled "An Act to establish a National Park Service, and for other purposes," approved August 25, 1916, 39 Stat. 535 ([former] 16 U.S.C. 1–3) [see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101], and all acts supplementary thereto and amendatory thereof, and all other laws and rules and regulations applicable to such park:
 
 #### Sixth Principal Meridian ####
 

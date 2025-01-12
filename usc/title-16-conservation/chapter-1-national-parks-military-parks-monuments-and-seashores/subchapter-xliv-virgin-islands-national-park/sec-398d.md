@@ -82,7 +82,7 @@ Pub. L. 111–261, §1, Oct. 8, 2010, 124 Stat. 2777, provided that:
 
 "(8) Renewal.—A lease entered into under this section may not be extended or renewed.
 
-"(9) Termination.—Upon the termination of a lease entered into under this section, if the Secretary determines the continuation of commercial services at the resort to be appropriate, the services shall be provided in accordance with the National Park Service Concessions Management Improvement Act of 1998 ([former] 16 U.S.C. 5951 et seq.) [see 54 U.S.C. 101911 et seq.].
+"(9) Termination.—Upon the termination of a lease entered into under this section, if the Secretary determines the continuation of commercial services at the resort to be appropriate, the services shall be provided in accordance with the National Park Service Concessions Management Improvement Act of 1998 ([former] 16 U.S.C. 5951 et seq.) [enacting former sections 5951 to 5966 of this title, which were repealed and restated in sections 101911 et seq. and 101524 of Title 54, National Park Service and Related Programs, amending former sections 1a–7 and 3 of this title, repealing section 17b–1 and subchapter IV of chapter 1 of this title, and enacting provisions set out as notes under sections 100101, 101911, and 101912 of Title 54].
 
 "(c) Retained Use Estate.—
 

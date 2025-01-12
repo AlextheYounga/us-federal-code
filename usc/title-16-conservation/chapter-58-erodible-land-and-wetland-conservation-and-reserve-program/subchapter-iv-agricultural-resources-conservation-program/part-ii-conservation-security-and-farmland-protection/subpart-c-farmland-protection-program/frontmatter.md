@@ -8,4 +8,4 @@ Section 2503(a) of Pub. L. 107–171, which directed that subchapter B (this sub
 
 #### Prior Provisions ####
 
-A prior subpart C, consisting of sections 3838n to 3838q, was redesignated subpart D of this part by Pub. L. 110–234, title II, §2301(a)(1), May 22, 2008, 122 Stat. 1040, and Pub. L. 110–246, §4(a), title II, §2301(a)(1), June 18, 2008, 122 Stat. 1664, 1768.
+A prior subpart C, consisting of sections 3838n to 3838q, was redesignated subpart D of this part by Pub. L. 110–234, title II, §2301(a)(1), May 22, 2008, 122 Stat. 1040, and Pub. L. 110–246, §4(a), title II, §2301(a)(1), June 18, 2008, 122 Stat. 1664, 1768, and was subsequently repealed by Pub. L. 113–79, title II, §2705(a), Feb. 7, 2014, 128 Stat. 768.

@@ -272,7 +272,7 @@ Subsec. (a). Pub. L. 113–183, §203(b)(1), inserted "and legal guardianship" a
 
 Subsec. (b)(2) to (4). Pub. L. 113–183, §202(a), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows:
 
-"(2)(A) the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year;
+"(A) the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year;
 
 "(B) the number of older child adoptions in the State during the fiscal year exceeds the base number of older child adoptions for the State for the fiscal year; or
 
@@ -282,7 +282,7 @@ Subsec. (b)(5). Pub. L. 113–183, §202(a), redesignated par. (5) as (4).
 
 Pub. L. 113–183, §201(1), substituted "2013 through 2015" for "2008 through 2012".
 
-Subsec. (c)(2). Pub. L. 113–183, §202(b), substituted "rates of adoptions and guardianships" for "numbers of adoptions" in heading, substituted "each of the rates required to be determined under this section with respect to a State and a fiscal year," for "the numbers of foster child adoptions, of special needs adoptions that are not older child adoptions, and of older child adoptions in a State during a fiscal year, and the foster child adoption rate for the State for the fiscal year, for purposes of this section," in text, and inserted before period at end ", and, with respect to the determination of the rates related to foster child guardianships, on the basis of information reported to the Secretary under paragraph (12) of subsection (g)".
+Subsec. (c)(2). Pub. L. 113–183, §202(b), in heading, substituted "rates of adoptions and guardianships" for "numbers of adoptions" and, in text, substituted "each of the rates required to be determined under this section with respect to a State and a fiscal year," for "the numbers of foster child adoptions, of special needs adoptions that are not older child adoptions, and of older child adoptions in a State during a fiscal year, and the foster child adoption rate for the State for the fiscal year, for purposes of this section," and inserted before period at end ", and, with respect to the determination of the rates related to foster child guardianships, on the basis of information reported to the Secretary under paragraph (12) of subsection (g)".
 
 Subsec. (d). Pub. L. 113–183, §203(b)(2), inserted "and legal guardianship" after "Adoption" in heading.
 
@@ -296,7 +296,7 @@ Subsec. (d)(1)(A) to (D). Pub. L. 113–183, §202(c)(1), added subpars. (A) to 
 
 "(C) $8,000, multiplied by the amount (if any) by which the number of older child adoptions in the State during the fiscal year exceeds the base number of older child adoptions for the State for the fiscal year."
 
-Subsec. (d)(2)(A), (B). Pub. L. 113–183, §203(b)(1), inserted "and legal guardianship" after "adoption".
+Subsec. (d)(2). Pub. L. 113–183, §203(b)(1), inserted "and legal guardianship" after "adoption" in subpars. (A) and (B).
 
 Subsec. (d)(3). Pub. L. 113–183, §202(c)(2), added par. (3) and struck out former par. (3) which related to increased incentive payment for exceeding the highest ever foster child adoption rate.
 
@@ -304,7 +304,7 @@ Subsec. (e). Pub. L. 113–183, §205, substituted "36-month" for "24-month" in 
 
 Subsec. (f). Pub. L. 113–183, §204, inserted ", and shall use the amount to supplement, and not supplant, any Federal or non-Federal funds used to provide any service under part B or E" before period in the first sentence.
 
-Subsec. (g)(1) to (12). Pub. L. 113–183, §202(d), added pars. (1) to (12) and struck out former pars. (1) to (8) which defined "foster child adoption", "special needs adoption", "base number of foster child adoptions for a State", "base number of special needs adoptions that are not older child adoptions for a State", "base number of older child adoptions for a State", "older child adoptions", "highest ever foster child adoption rate", and "foster child adoption rate", respectively.
+Subsec. (g). Pub. L. 113–183, §202(d), added pars. (1) to (12) and struck out former pars. (1) to (8) which defined "foster child adoption", "special needs adoption", "base number of foster child adoptions for a State", "base number of special needs adoptions that are not older child adoptions for a State", "base number of older child adoptions for a State", "older child adoptions", "highest ever foster child adoption rate", and "foster child adoption rate", respectively.
 
 Subsec. (h)(1)(D), (2). Pub. L. 113–183, §201(2), substituted "2016" for "2013".
 
@@ -396,9 +396,9 @@ Subsec. (j). Pub. L. 106–169, §131(a), added subsec. (j).
 
 #### Effective Date of 2014 Amendment ####
 
-Amendment by sections 201 and 205 of Pub. L. 113–183 effective Oct. 1, 2013, see section 210(a) of Pub. L. 113–183, set out as a note under section 671 of this title.
+Amendment by sections 201 and 205 of Pub. L. 113–183 effective as if enacted on Oct. 1, 2013, see section 210(a) of Pub. L. 113–183, set out as a note under section 671 of this title.
 
-Amendment by sections 202 and 203 of Pub. L. 113–183 effective Oct. 1, 2014, see section 210(b) of Pub. L. 113–183, set out as a note under section 671 of this title.
+Amendment by sections 202 and 203 of Pub. L. 113–183 effective Oct. 1, 2014, subject to a transition rule, see section 210(b) of Pub. L. 113–183, set out as a note under section 671 of this title.
 
 #### Effective Date of 2008 Amendment ####
 

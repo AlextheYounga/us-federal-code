@@ -98,7 +98,7 @@ The maps referred to in this paragraph shall be available for public inspection 
 
 #### (F) Administrative facilities ####
 
-The Secretary may acquire not more than 10 acres in Woonsocket, Rhode Island for the development of administrative, curatorial, maintenance, or visitor facilities for the Park.
+The Secretary may acquire not more than 10 acres in Woonsocket, Rhode Island <sup><a href="#410ppp_1_target" name="410ppp_1">1</a></sup> for the development of administrative, curatorial, maintenance, or visitor facilities for the Park.
 
 #### (G) Limitation ####
 
@@ -114,9 +114,9 @@ The Secretary shall administer land within the boundary of the Park in accordanc
 
 (ii) the laws generally applicable to units of the National Park System, including—
 
-(I) the National Park Service Organic Act (16 U.S.C. 1 et seq.); <sup><a href="#410ppp_1_target" name="410ppp_1">1</a></sup> and
+(I) the National Park Service Organic Act (16 U.S.C. 1 et seq.); <sup><a href="#410ppp_2_target" name="410ppp_2">2</a></sup> and
 
-(II) the Act of August 21, 1935 (16 U.S.C. 461 et seq.).<sup><a href="#410ppp_1_target" name="410ppp_1">1</a></sup>
+(II) the Act of August 21, 1935 (16 U.S.C. 461 et seq.).<sup><a href="#410ppp_2_target" name="410ppp_2">2</a></sup>
 
 #### (B) General management plan ####
 
@@ -166,7 +166,7 @@ As a condition of the receipt of funds under clause (i)(II), the Secretary shall
 
 #### (iii) Reimbursement ####
 
-Any payment made by the Secretary under clause (i)(ii) <sup><a href="#410ppp_2_target" name="410ppp_2">2</a></sup> shall be subject to an agreement that the conversion, use, or disposal of the project for purposes that are inconsistent with the purposes of this subsection, as determined by the Secretary, shall result in a right of the United States to reimbursement of the greater of—
+Any payment made by the Secretary under clause (i)(ii) <sup><a href="#410ppp_3_target" name="410ppp_3">3</a></sup> shall be subject to an agreement that the conversion, use, or disposal of the project for purposes that are inconsistent with the purposes of this subsection, as determined by the Secretary, shall result in a right of the United States to reimbursement of the greater of—
 
 (I) the amount provided by the Secretary to the project under clause (i)(II); or
 
@@ -194,7 +194,7 @@ The Secretary shall display a memorial at an appropriate location in the Park th
 
 #### References in Text ####
 
-The National Park Service Organic Act (16 U.S.C. 1 et seq.), referred to in subsec. (c)(4)(A)(ii)(I), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+The National Park Service Organic Act (16 U.S.C. 1 et seq.), referred to in subsec. (c)(4)(A)(ii)(I), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 The Act of August 21, 1935 (16 U.S.C. 461 et seq.), referred to in subsec. (c)(4)(A)(ii)(II), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
@@ -202,6 +202,8 @@ The Act of August 21, 1935 (16 U.S.C. 461 et seq.), referred to in subsec. (c)(4
 
 In subsec. (c)(4)(B)(i)(II), "section 100502 of title 54" substituted for "section 12(b) of the National Park System General Authorities Act (16 U.S.C. 1a–7(b))" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
-[<sup>1</sup> See References in Text note below.](#410ppp_1)
+[<sup>1</sup> So in original. Probably should be followed by a comma.](#410ppp_1)
 
-[<sup>2</sup> So in original. Probably should be "(i)(II)".](#410ppp_2)
+[<sup>2</sup> See References in Text note below.](#410ppp_2)
+
+[<sup>3</sup> So in original. Probably should be "(i)(II)".](#410ppp_3)

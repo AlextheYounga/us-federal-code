@@ -30,7 +30,7 @@ This section shall take effect upon promulgation of Forest Service regulations f
 
 Section was formerly set out as a note under section 497 of this title.
 
-In subsec. (b), "section 306109 of title 54" substituted for "section 470h–2(g) of this title" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+In subsec. (b), "section 306109 of title 54" substituted for "section 110(g) of the National Historic Preservation Act (16 U.S.C. 470h–2(g))" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments ####
 
@@ -46,6 +46,6 @@ Subsec. (b). Pub. L. 110–161, §416(2), substituted "2012" for "2006".
 
 Subsec. (b). Pub. L. 109–54, §425(2), substituted "2006" for "2005".
 
-**2004**—Subsec. (a). Pub. L. 108–447, §345(1), which directed substitution of "2005" for "2004" in part (a), was executed by making the substitution in subsec. (a) to reflect the probable intent of Congress.
+**2004**—Subsec. (a). Pub. L. 108–447, §345(1), substituted "2005" for "2004".
 
-Subsec. (b). Pub. L. 108–447, §345(2), which directed substitution of "2005" for "2004" in part (b), was executed by making the substitution in subsec. (b) to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 108–447, §345(2), substituted "2005" for "2004".

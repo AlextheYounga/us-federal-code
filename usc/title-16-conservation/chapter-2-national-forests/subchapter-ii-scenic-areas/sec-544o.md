@@ -6,11 +6,11 @@ Nothing in sections 544 to 544p of this title shall—
 
 (1) affect or modify any treaty or other rights of any Indian tribe;
 
-(2) except as provided in section 13(c), authorize the appropriation or use of water by any Federal, State, or local agency, Indian tribe, or any other entity or individual;
+(2) except as provided in section 13(c),<sup><a href="#544o_1_target" name="544o_1">1</a></sup> authorize the appropriation or use of water by any Federal, State, or local agency, Indian tribe, or any other entity or individual;
 
-(3) except as provided in section 13(c), affect the rights or jurisdictions of the United States, the States, Indian tribes or other entities over waters of any river or stream or over any ground water resource or affect or interfere with transportation activities on any such river or stream;
+(3) except as provided in section 13(c),<sup><a href="#544o_1_target" name="544o_1">1</a></sup> affect the rights or jurisdictions of the United States, the States, Indian tribes or other entities over waters of any river or stream or over any ground water resource or affect or interfere with transportation activities on any such river or stream;
 
-(4) except as provided in section 13(c), alter, establish, or affect the respective rights of the United States, the States, Indian tribes, or any person with respect to any water or water-related right;
+(4) except as provided in section 13(c),<sup><a href="#544o_1_target" name="544o_1">1</a></sup> alter, establish, or affect the respective rights of the United States, the States, Indian tribes, or any person with respect to any water or water-related right;
 
 (5) alter, amend, repeal, interpret, modify, or be in conflict with any interstate compact made by the States before November 17, 1986;
 
@@ -55,3 +55,5 @@ Section 13(c), referred to in subsec. (a)(2) to (4), is section 13(c) of Pub. L.
 The National Forest Management Act of 1976, referred to in subsec. (a)(9), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, 581h, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
 
 The National Environmental Policy Act, referred to in subsec. (f), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+[<sup>1</sup> See References in Text note below.](#544o_1)

@@ -4,10 +4,6 @@ Notwithstanding the provisions of section 200306(a)(2) of title 54, moneys appro
 
 (Pub. L. 93–535, §6, Dec. 22, 1974, 88 Stat. 1733; Pub. L. 113–287, §5(d)(15), Dec. 19, 2014, 128 Stat. 3265.)
 
-#### References in Text ####
-
-The Land and Water Conservation Fund, referred to in text, was established by former section 460l–5 of this title. See section 200302 of Title 54, National Park Service and Related Programs.
-
 #### Amendments ####
 
 **2014**—Pub. L. 113–287 substituted "section 200306(a)(2) of title 54" for "section 460l–9(a)(1) of this title".

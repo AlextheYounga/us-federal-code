@@ -54,7 +54,7 @@ All costs recovered under this section shall be available for expenditure by the
 
 The Secretary shall establish a process to ensure that the Secretary responds in a timely manner to permit applicants for commercial filming, still photography, or other activity.
 
-(Pub. L. 106–206, §1, May 26, 2000, 114 Stat. 314; Pub. L. 113–287, §4(c), Dec. 19, 2014, 128 Stat. 3261.)
+(Pub. L. 106–206, §1, May 26, 2000, 114 Stat. 314; Pub. L. 113–287, §§4(c), 7, Dec. 19, 2014, 128 Stat. 3261, 3272.)
 
 #### Repeals ####
 
@@ -66,4 +66,4 @@ Section was not enacted as part of the Land and Water Conservation Fund Act of 1
 
 #### Amendments ####
 
-**2014**—Pub. L. 113–287 amended section generally. Prior to amendment, section related to commercial filming with respect to lands under the jurisdiction of the Secretaries of the Interior and Agriculture.
+**2014**—Pub. L. 113–287, §4(c), amended section generally. Prior to amendment, section related to commercial filming with respect to lands under the jurisdiction of the Secretaries of the Interior and Agriculture.

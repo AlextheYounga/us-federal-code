@@ -2,4 +2,4 @@
 
 Sec.
 
-2501 to 2514. Repealed, Transferred, or Omitted.
+2501 to 2514. Omitted, Transferred, or Repealed.

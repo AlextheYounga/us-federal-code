@@ -155,7 +155,7 @@ Chap. Sec.
 
 38. Fishery Conservation and Management 1801
 
-39. Mining Activity Within National Park System Areas 1901
+39. Mining Activity Within National Park System Areas [Repealed] 1901
 
 40. Soil and Water Resources Conservation 2001
 
@@ -163,7 +163,7 @@ Chap. Sec.
 
 42. Emergency Conservation Program 2201
 
-43. Public Transportation Programs for National Park System Areas 2301
+43. Public Transportation Programs for National Park System Areas [Omitted, Transferred, or Repealed] 2301
 
 44. Antarctic Conservation 2401
 
@@ -171,7 +171,7 @@ Chap. Sec.
 
 44B. Antarctic Mineral Resources Protection 2461
 
-45. Urban Park and Recreation Recovery Program 2501
+45. Urban Park and Recreation Recovery Program [Omitted, Transferred, or Repealed] 2501
 
 46. Public Utility Regulatory Policies 2601
 
@@ -241,7 +241,7 @@ Chap. Sec.
 
 73. Rhinoceros and Tiger Conservation 5301
 
-74. National Maritime Heritage 5401
+74. National Maritime Heritage [Omitted or Repealed] 5401
 
 75. High Seas Fishing Compliance 5501
 
@@ -251,7 +251,7 @@ Chap. Sec.
 
 78. National Natural Resources Conservation Foundation 5801
 
-79. National Park Service Management 5901
+79. National Park Service Management [Repealed] 5901
 
 80. Neotropical Migratory Bird Conservation 6101
 

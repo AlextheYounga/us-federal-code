@@ -100,7 +100,7 @@ The Congressional Budget and Impoundment Control Act of 1974, referred to in sub
 
 #### Amendments ####
 
-**2014**—Subsec. (e)(3)(D)(iii). Pub. L. 113–287 substituted "chapter 2003 of title 54" for "the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–4 through 11)".
+**2014**—Subsec. (e)(3)(D)(iii). Pub. L. 113–287, which directed amendment of subsec. (e)(3)(D)(iii) by substituting "chapter 2003 of title 54" for "the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–4 through 11)", was executed by making the substitution for "the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 4601–4 through 11)", to reflect the probable intent of Congress.
 
 **2000**—Subsec. (c)(3). Pub. L. 106–291 inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted "Except as provided in subparagraph (B), no payment" for "No payment", substituted "eighth full fiscal year" for "fifth full fiscal year", and added subpar. (B).
 

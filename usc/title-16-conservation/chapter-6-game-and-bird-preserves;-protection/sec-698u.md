@@ -10,7 +10,7 @@ Congress finds that—
 
 (3) the study concludes that the Spring Hill Ranch—
 
-(A) is a nationally significant example of the once vast tallgrass ecosystem, and includes buildings listed on the National Register of Historic Places pursuant to section 302101 of title 54 that represent outstanding examples of Second Empire and other 19th Century architectural styles; and
+(A) is a nationally significant example of the once vast tallgrass ecosystem, and includes buildings listed on the National Register of Historic Places pursuant to section 101 of the National Historic Preservation Act (16 U.S.C. 470a) <sup><a href="#698u_1_target" name="698u_1">1</a></sup> that represent outstanding examples of Second Empire and other 19th Century architectural styles; and
 
 (B) is suitable and feasible as a potential addition to the National Park System; and
 
@@ -34,9 +34,9 @@ The purposes of sections 698u to 698u–7 of this title are—
 
 (Pub. L. 104–333, div. I, title X, §1002, Nov. 12, 1996, 110 Stat. 4204; Pub. L. 106–176, title I, §122(1), Mar. 10, 2000, 114 Stat. 29.)
 
-#### Codification ####
+#### References in Text ####
 
-In subsec. (a)(3)(A), "section 302101 of title 54" substituted for "section 470a of this title" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+Section 101 of the National Historic Preservation Act (16 U.S.C. 470a), referred to in subsec. (a)(3)(A), is section 101 of Pub. L. 89–665, which was repealed and restated as chapters 3021 to 3027 and sections 302902(a), 302903(a), 302904 to 302909, 303902, 303903, and 306101(b) and (c) of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272.
 
 #### Amendments ####
 
@@ -45,3 +45,5 @@ In subsec. (a)(3)(A), "section 302101 of title 54" substituted for "section 470a
 #### Short Title ####
 
 Pub. L. 104–333, div. I, title X, §1001, Nov. 12, 1996, 110 Stat. 4204, provided that: "This subtitle [subtitle A (§§1001–1009) of title X of div. I of Pub. L. 104–333, enacting this section and sections 698u–1 to 698u–7 of this title] may be cited as the 'Tallgrass Prairie National Preserve Act of 1996'."
+
+[<sup>1</sup> See References in Text note below.](#698u_1)

@@ -54,7 +54,7 @@ Sec.
 
 #### Amendments ####
 
-**2014**—Pub. L. 113–291, div. A, title X, §1071(f)(21), Dec. 19, 2014, 128 Stat. 3511, which directed substitution of "rate" for "rates" in item 2642, could not be executed because the word "rates" does not appear after the amendment by Pub. L. 113–291, §1044(c)(2). See below.
+**2014**—Pub. L. 113–291, div. A, title X, §1071(f)(21), Dec. 19, 2014, 128 Stat. 3511, which directed substitution of "rate" for "rates" in item 2642, could not be executed because the word "rates" did not appear after the amendment by Pub. L. 113–291, §1044(c)(2). See below.
 
 Pub. L. 113–291, div. A, title X, §1044(c)(2), Dec. 19, 2014, 128 Stat. 3494, amended item 2642 generally, substituting "Transportation services provided to certain non-Department of Defense agencies and entities: use of Department of Defense reimbursement rate" for "Transportation services provided to certain other agencies: use of Department of Defense reimbursement rates".
 

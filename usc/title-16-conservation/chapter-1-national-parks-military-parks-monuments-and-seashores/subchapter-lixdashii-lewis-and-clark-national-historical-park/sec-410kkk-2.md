@@ -10,7 +10,7 @@ Not later than 3 years after funds are made available for this purpose, the Secr
 
 #### (c) Cooperative management ####
 
-In order to facilitate the presentation of a comprehensive picture of the Lewis and Clark Expedition's experiences in the lower Columbia River area and to promote more efficient administration of the sites associated with those experiences, the Secretary may enter into cooperative management agreements with appropriate officials in the States of Washington and Oregon in accordance with the authority provided under section 1a–2(l) <sup><a href="#410kkk-2_1_target" name="410kkk-2_1">1</a></sup> of this title.
+In order to facilitate the presentation of a comprehensive picture of the Lewis and Clark Expedition's experiences in the lower Columbia River area and to promote more efficient administration of the sites associated with those experiences, the Secretary may enter into cooperative management agreements with appropriate officials in the States of Washington and Oregon in accordance with the authority provided under section 101703 of title 54.
 
 (Pub. L. 108–387, title I, §104, Oct. 30, 2004, 118 Stat. 2236.)
 
@@ -22,6 +22,8 @@ The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1 et seq.), referred to in s
 
 The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461 et seq.), referred to in subsec. (a), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
-Section 1a–2(l) of this title, referred to in subsec. (c), was repealed and restated in section 101703 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3136, 3272.
+#### Codification ####
+
+In subsec. (c), "section 101703 of title 54" substituted for "section 3(l) of Public Law 91–383 (112 Stat. 3522; 16 U.S.C. 1a–2)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 [<sup>1</sup> See References in Text note below.](#410kkk-2_1)

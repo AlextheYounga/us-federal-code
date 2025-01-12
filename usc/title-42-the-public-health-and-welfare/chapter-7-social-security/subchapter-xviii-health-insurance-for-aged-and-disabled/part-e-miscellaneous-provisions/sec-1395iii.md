@@ -32,11 +32,11 @@ In the case that expenditures from the Fund are applied to, or otherwise affect,
 
 Pub. L. 113–82, §3(1), substituted "Transitional Fund for Sustainable Growth Rate (SGR) Reform" for "Medicare Improvement Fund" in section catchline.
 
-Subsec. (a). Pub. L. 113–185, §3(e)(2), amended subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary shall establish under this subchapter a Transitional Fund for Sustainable Growth Rate (SGR) Reform (in this section referred to as the "Fund") which shall be available to the Secretary to provide funds to pay for physicians' services under part B to supplement the conversion factor under section 1395w–4(d) of this title for 2017 if the conversion factor for 2017 is less than conversion factor for 2013."
+Subsec. (a). Pub. L. 113–185, §3(e)(2), amended subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary shall establish under this subchapter a Transitional Fund for Sustainable Growth Rate (SGR) Reform (in this section referred to as the 'Fund') which shall be available to the Secretary to provide funds to pay for physicians' services under part B to supplement the conversion factor under section 1395w–4(d) of this title for 2017 if the conversion factor for 2017 is less than conversion factor for 2013."
 
 Pub. L. 113–82, §3(2), amended subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary shall establish under this subchapter a Medicare Improvement Fund (in this section referred to as the 'Fund') which shall be available to the Secretary to make improvements under the original medicare fee-for-service program under parts A and B for individuals entitled to, or enrolled for, benefits under part A or enrolled under part B including, but not limited to, an increase in the conversion factor under section 1395w–4(d) of this title to address, in whole or in part, any projected shortfall in the conversion factor for 2014 relative to the conversion factor for 2008 and adjustments to payments for items and services furnished by providers of services and suppliers under such original medicare fee-for-service program."
 
-Subsec. (b)(1). Pub. L. 113–185, §3(e)(3), substituted "during and after fiscal year 2020, $195,000,000." for "during or after 2017, $0.".
+Subsec. (b)(1). Pub. L. 113–185, §3(e)(3), substituted "during and after fiscal year 2020, $195,000,000." for "during or after 2017, $0."
 
 Pub. L. 113–93 substituted "$0" for "$2,300,000,000".
 

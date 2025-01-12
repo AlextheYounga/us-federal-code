@@ -4,4 +4,4 @@ Section, Pub. L. 92–225, title III, §311, formerly §312, as added Pub. L. 93
 
 #### Effective Date of Repeal ####
 
-Repeal effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as an Effective Date of 1980 Amendment note under section 431 of this title.
+Repeal effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as an Effective Date of 1980 Amendment note under section 30101 of Title 52, Voting and Elections.

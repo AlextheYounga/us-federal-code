@@ -54,4 +54,4 @@ Pub. L. 102–220, §§1–3, 5, Dec. 11, 1991, 105 Stat. 1674, 1675, as amended
 
 "There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act."
 
-[Pub. L. 113–287, §5(d)(13), Dec. 19, 2014, 128 Stat. 3265, which directed amendment of section 2(b) of Pub. L. 102–220, set out above, by substituting "section 100506 of title 54, United States Code" for "section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–9)", was executed by making the substitution for "section 7 of the Land and Water Conservation Fund Act (16 U.S.C. 460l–9)" to reflect the probable intent of Congress.]
+[Pub. L. 113–287, §5(d)(13), Dec. 19, 2014, 128 Stat. 3265, which directed amendment of section 2(b) of Pub. L. 102–220, set out above, by substituting "section 100506 of title 54, United States Code" for "section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–9)", was executed by making the substitution for "section 7 of the Land and Water Conservation Fund Act (16 U.S.C. 4601–9)" to reflect the probable intent of Congress.]

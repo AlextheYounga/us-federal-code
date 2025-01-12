@@ -6,7 +6,7 @@ Sec.
 
 1 to 1a–7a. Repealed.
 
-1a–7b. Protecting Americans from violent crime.
+1a–7b. Protection of right of individuals to bear arms.
 
 1a–8 to 1a–14. Repealed.
 
@@ -24,7 +24,7 @@ Sec.
 
 17 o. Repealed or Omitted.
 
-18 to 18f–3. Repealed or Transferred.
+18 to 18f–3. Transferred or Repealed.
 
 #### SUBCHAPTER II—VOLUNTEERS IN PARKS PROGRAM ####
 
@@ -178,7 +178,7 @@ Sec.
 
 56. Repealed.
 
-57. Yosemite and Sequoia National Parks; exclusive jurisdiction of United States; jurisdiction remaining in and taxation by California.
+57. Yosemite, Sequoia, and General Grant National Parks; exclusive jurisdiction of United States; jurisdiction remaining in and taxation by California.
 
 58. Laws applicable; fugitives from justice.
 
@@ -198,7 +198,7 @@ Sec.
 
 66 to 77. Repealed.
 
-78. Detail of troops to Sequoia and Yosemite Parks.
+78. Detail of troops to Sequoia, Yosemite, and General Grant Parks.
 
 79. Omitted.
 
@@ -2280,7 +2280,7 @@ Sec.
 
 410ooo–1. Establishment of Pinnacles National Park.
 
-#### SUBCHAPTER LIX–NN—BLACKSTONE VALLEY NATIONAL HISTORICAL PARK ####
+#### SUBCHAPTER LIX–NN—BLACKSTONE RIVER VALLEY NATIONAL HISTORICAL PARK ####
 
 410ppp. Blackstone River Valley National Historical Park.
 
@@ -3352,7 +3352,7 @@ Sec.
 
 #### Part B—Land and Water Conservation Fund ####
 
-460l–4 to 460l–6b. Repealed or Transferred.
+460l–4 to 460l–6b. Transferred or Repealed.
 
 460l–6c. Admission, entrance, and recreation fees.
 
@@ -3792,7 +3792,7 @@ Sec.
 
 460aa–3. Private land, regulations.
 
-460aa–4. Administrative determination of suitability for designation as wilderness areas.
+460aa–4. Repealed.
 
 460aa–5. Cooperation with other agencies in development and operation of facilities and services; Stanley, restoration.
 

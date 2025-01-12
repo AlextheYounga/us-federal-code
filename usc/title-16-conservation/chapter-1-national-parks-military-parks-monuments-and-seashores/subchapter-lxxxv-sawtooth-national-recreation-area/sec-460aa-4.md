@@ -1,5 +1,3 @@
-### §460aa–4. Administrative determination of suitability for designation as wilderness areas ###
+### §460aa–4. Repealed. Pub. L. 114–46, title I, §108(a), Aug. 7, 2015, 129 Stat. 480 ###
 
-The Secretary shall, as soon as practicable after August 22, 1972, review the undeveloped and unimproved portion or portions of the recreation area as to suitability or nonsuitability for preservation as a part of the National Wilderness Preservation System. In conducting his review, the Secretary shall comply with the provisions of section 1132(d) of this title, relating to public notice, public hearings, and review by State and other agencies, and shall advise the Senate and House of Representatives of his recommendations with respect to the designation as wilderness of the area or areas reviewed.
-
-(Pub. L. 92–400, §5, Aug. 22, 1972, 86 Stat. 614.)
+Section, Pub. L. 92–400, §5, Aug. 22, 1972, 86 Stat. 614, related to administrative determination of suitability for designation as wilderness areas.

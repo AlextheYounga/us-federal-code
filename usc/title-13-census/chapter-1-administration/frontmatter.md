@@ -66,7 +66,7 @@ Sec.
 
 #### Change of Name ####
 
-"Director of the Government Publishing Office" substituted for "Public Printer" in item 7 on authority of section 1301(d) of Pub. L. 113–235, Dec. 16, 2014, 128 Stat. 2537, set out as a note under section 301 of Title 44, Public Printing and Documents.
+"Director of the Government Publishing Office" substituted for "Public Printer" in item 7 on authority of section 1301(d) of Pub. L. 113–235, div. H, title I, Dec. 16, 2014, 128 Stat. 2537, set out as a note under section 301 of Title 44, Public Printing and Documents.
 
 [<sup>1</sup> Section repealed by Pub. L. 86–682 without corresponding amendment of chapter analysis.](#CHAPTER1_1)
 

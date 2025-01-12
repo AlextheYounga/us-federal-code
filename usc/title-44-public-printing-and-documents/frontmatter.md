@@ -73,6 +73,10 @@ Pub. L. 95–378, §2(b), Sept. 22, 1978, 92 Stat. 723, struck out item 27 "Fede
 
 **1974**—Pub. L. 93–536, §2, Dec. 22, 1974, 88 Stat. 1735, substituted "National Historical Publications and Records Commission" for "National Historical Publications Commission" in item 25.
 
+#### Change of Name ####
+
+"Government Publishing Office" substituted for "Government Printing Office" in items 3 and 39 on authority of section 1301(b) of Pub. L. 113–235, div. H, title I, Dec. 16, 2014, 128 Stat. 2537, set out as a note preceding section 301 of this title.
+
 |*Title 44<br/><br/>Former Sections*|*Title 44<br/><br/>New Sections*|
 |-----------------------------------|--------------------------------|
 |                 1                 |              101               |
@@ -413,10 +417,6 @@ Pub. L. 95–378, §2(b), Sept. 22, 1978, 92 Stat. 723, struck out item 27 "Fede
 |                425                |              3510              |
 |                426                |              3502              |
 |                427                |              3511              |
-
-#### Change of Name ####
-
-"Government Publishing Office" substituted for "Government Printing Office" in items 3 and 39 on authority of section 1301(b) of Pub. L. 113–235, div. H, title I, Dec. 16, 2014, 128 Stat. 2537, set out as a note preceding section 301 of this title.
 
 #### Enacting Clause ####
 

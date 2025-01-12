@@ -134,7 +134,7 @@ Subsec. (d)(4)(B). Pub. L. 113–166, §2(3)(B), inserted ", but shall meet no 
 
 Subsec. (e)(1). Pub. L. 113–166, §2(4)(A)(i), substituted "through the agencies represented on the Coordinating Committee pursuant to subsection (d)(2)(A)" for "through the national research institutes" in introductory provisions.
 
-Subsec. (e)(1)(A). Pub. L. 113–166, §2(4)(A)(ii), inserted "public services," before "and rehabilitative issues" and ", studies to demonstrate the cost-effectiveness of providing independent living resources and support to patients with various forms of muscular dystrophy, and studies to determine optimal clinical care interventions for adults with various forms of muscular dystrophy" after "including studies of the impact of such diseases in rural and underserved communities".
+Subsec. (e)(1)(A). Pub. L. 113–166, §2(4)(A)(ii), inserted "public services," after "psychosocial," and ", studies to demonstrate the cost-effectiveness of providing independent living resources and support to patients with various forms of muscular dystrophy, and studies to determine optimal clinical care interventions for adults with various forms of muscular dystrophy" after "including studies of the impact of such diseases in rural and underserved communities".
 
 Subsec. (e)(2)(D). Pub. L. 113–166, §2(4)(B), inserted "and new clinical interventions to improve the health of those with muscular dystrophy" after "including new biological agents".
 

@@ -99,6 +99,8 @@ Chap. Sec.
 
 95. Personnel flexibilities 2 relating 2 to the Internal Revenue Service 9501
 
+96. Personnel flexibilities 2 relating 2 to land 2 management 2 agencies 2 9601
+
 97. Department of Homeland Security 9701
 
 98. National Aeronautics and Space Administration 9801
@@ -110,6 +112,8 @@ Chap. Sec.
 102. United States Secret Service Uniformed Division Personnel 10201
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–47, §2(b), Aug. 7, 2015, 129 Stat. 487, added item for chapter 96.
 
 **2011**—Pub. L. 112–81, div. A, title XI, §1101(d)(2), Dec. 31, 2011, 125 Stat. 1610, added item for chapter 99 and struck out former item for chapter 99 "Department of Defense National Security Personnel System".
 

@@ -2,7 +2,7 @@
 
 Nothing in this chapter shall be construed to—
 
-(1) invalidate, modify, or impose any additional restrictions or permitting requirements on any activities permitted at any time under the general mining laws, the mineral or geothermal leasing laws, laws providing for minerals materials disposal, or laws providing for the management or regulation of the activities authorized by the aforementioned laws including but not limited to the Federal Land Policy Management Act (43 U.S.C. 1701–1784),<sup><a href="#470aaa-10_1_target" name="470aaa-10_1">1</a></sup> subchapter 3 of chapter 1007 of title 54, the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1201–1358) [30 U.S.C. 1201 et seq.], and the Organic Administration Act (16 U.S.C. 478, 482, 551);
+(1) invalidate, modify, or impose any additional restrictions or permitting requirements on any activities permitted at any time under the general mining laws, the mineral or geothermal leasing laws, laws providing for minerals materials disposal, or laws providing for the management or regulation of the activities authorized by the aforementioned laws including but not limited to the Federal Land Policy Management Act (43 U.S.C. 1701–1784),<sup><a href="#470aaa-10_1_target" name="470aaa-10_1">1</a></sup> subchapter 3 <sup><a href="#470aaa-10_2_target" name="470aaa-10_2">2</a></sup> of chapter 1007 of title 54, the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1201–1358) [30 U.S.C. 1201 et seq.], and the Organic Administration Act (16 U.S.C. 478, 482, 551);
 
 (2) invalidate, modify, or impose any additional restrictions or permitting requirements on any activities permitted at any time under existing laws and authorities relating to reclamation and multiple uses of Federal land;
 
@@ -26,6 +26,8 @@ The Organic Administration Act, referred to in par. (1), is the popular name for
 
 #### Amendments ####
 
-**2014**—Par. (1). Pub. L. 113–287 substituted "subchapter 3 of chapter 1007 of title 54" for "Public Law 94–429 (commonly known as the 'Mining in the Parks Act') (16 U.S.C. 1901 et seq.)".
+**2014**—Par. (1). Pub. L. 113–287, which directed amendment of par. (1) by substituting "subchapter 3 of chapter 1007 of title 54" for "Public Law 94–429 (commonly known as the 'Mining in the Parks Act' (16 U.S.C. 1901 et seq.)", was executed by making the substitution for "Public Law 94–429 (commonly known as the 'Mining in the Parks Act') (16 U.S.C. 1901 et seq.)", to reflect the probable intent of Congress.
 
 [<sup>1</sup> See References in Text note below.](#470aaa-10_1)
+
+[<sup>2</sup> So in original. Probably should be "subchapter III".](#470aaa-10_2)

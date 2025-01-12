@@ -20,7 +20,7 @@
 
 (e) Icebreaking.—The Secretary shall promote safe maritime navigation by means of icebreaking where necessary, feasible, and effective to carry out the purposes of this section.
 
-(f) Arctic Definition.—In this section, the term "Arctic"?<sup><a href="#90_1_target" name="90_1">1</a></sup> has the meaning given such term in section 112 of the Arctic Research and Policy Act of 1984 (15 U.S.C. 4111).
+(f) Arctic Definition.—In this section, the term "Arctic"? <sup><a href="#90_1_target" name="90_1">1</a></sup> has the meaning given such term in section 112 of the Arctic Research and Policy Act of 1984 (15 U.S.C. 4111).
 
 (Added Pub. L. 113–281, title V, §501(a), Dec. 18, 2014, 128 Stat. 3056.)
 

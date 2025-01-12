@@ -92,11 +92,31 @@ and which provides such additional information as the Secretary may specify,
 
 in accordance with regulations promulgated by the Secretary regarding admission practices, payment methodology, and rates of payment (including the acceptance of no more than such payment rate as payment in full for such items and services,<sup><a href="#1395cc_2_target" name="1395cc_2">2</a></sup>
 
-(V) in the case of hospitals that are not otherwise subject to the Occupational Safety and Health Act of 1970 [29 U.S.C. 651 et seq.] (or a State occupational safety and health plan that is approved under 18(b) <sup><a href="#1395cc_3_target" name="1395cc_3">3</a></sup> of such Act [29 U.S.C. 667(b)]), to comply with the Bloodborne Pathogens standard under section 1910.1030 of title 29 of the Code of Federal Regulations (or as subsequently redesignated), and
+(V) in the case of hospitals that are not otherwise subject to the Occupational Safety and Health Act of 1970 [29 U.S.C. 651 et seq.] (or a State occupational safety and health plan that is approved under 18(b) <sup><a href="#1395cc_3_target" name="1395cc_3">3</a></sup> of such Act [29 U.S.C. 667(b)]), to comply with the Bloodborne Pathogens standard under section 1910.1030 of title 29 of the Code of Federal Regulations (or as subsequently redesignated),
 
-(W) <sup><a href="#1395cc_4_target" name="1395cc_4">4</a></sup> in the case of a hospital described in section 1395ww(d)(1)(B)(v) of this title, to report quality data to the Secretary in accordance with subsection (k).
+(W) in the case of a hospital described in section 1395ww(d)(1)(B)(v) of this title, to report quality data to the Secretary in accordance with subsection (k),
 
-(W) <sup><a href="#1395cc_4_target" name="1395cc_4">4</a></sup> maintain and, upon request of the Secretary, provide access to documentation relating to written orders or requests for payment for durable medical equipment, certifications for home health services, or referrals for other items or services written or ordered by the provider under this subchapter, as specified by the Secretary.
+(X) maintain and, upon request of the Secretary, provide access to documentation relating to written orders or requests for payment for durable medical equipment, certifications for home health services, or referrals for other items or services written or ordered by the provider under this subchapter, as specified by the Secretary, and
+
+(Y) beginning 12 months after August 6, 2015, in the case of a hospital or critical access hospital, with respect to each individual who receives observation services as an outpatient at such hospital or critical access hospital for more than 24 hours, to provide to such individual not later than 36 hours after the time such individual begins receiving such services (or, if sooner, upon release)—
+
+(i) such oral explanation of the written notification described in clause (ii), and such documentation of the provision of such explanation, as the Secretary determines to be appropriate;
+
+(ii) a written notification (as specified by the Secretary pursuant to rulemaking and containing such language as the Secretary prescribes consistent with this paragraph) which—
+
+(I) explains the status of the individual as an outpatient receiving observation services and not as an inpatient of the hospital or critical access hospital and the reasons for such status of such individual;
+
+(II) explains the implications of such status on services furnished by the hospital or critical access hospital (including services furnished on an inpatient basis), such as implications for cost-sharing requirements under this title and for subsequent eligibility for coverage under this title for services furnished by a skilled nursing facility;
+
+(III) includes such additional information as the Secretary determines appropriate;
+
+(IV) either—
+
+(aa) is signed by such individual or a person acting on such individual's behalf to acknowledge receipt of such notification; or
+
+(bb) if such individual or person refuses to provide the signature described in item (aa), is signed by the staff member of the hospital or critical access hospital who presented the written notification and includes the name and title of such staff member, a certification that the notification was presented, and the date and time the notification was presented; and
+
+(V) is written and formatted using plain language and is made available in appropriate languages as determined by the Secretary.
 
 In the case of a hospital which has an agreement in effect with an organization described in subparagraph (F), which organization's contract with the Secretary under part B of subchapter XI of this chapter is terminated on or after October 1, 1984, the hospital shall not be determined to be out of compliance with the requirement of such subparagraph during the six month period beginning on the date of the termination of that contract.
 
@@ -140,7 +160,7 @@ In the case of a hospital which has an agreement in effect with an organization 
 
 (4)(A) A hospital that fails to comply with the requirement of subsection (a)(1)(V) of this section (relating to the Bloodborne Pathogens standard) is subject to a civil money penalty in an amount described in subparagraph (B), but is not subject to termination of an agreement under this section.
 
-(B) The amount referred to in subparagraph (A) is an amount that is similar to the amount of civil penalties that may be imposed under section 17 of the Occupational Safety and Health Act of 1970 [29 U.S.C. 666] for a violation of the Bloodborne Pathogens standard referred to in subsection (a)(1)(U) <sup><a href="#1395cc_5_target" name="1395cc_5">5</a></sup> of this section by a hospital that is subject to the provisions of such Act [29 U.S.C. 651 et seq.].
+(B) The amount referred to in subparagraph (A) is an amount that is similar to the amount of civil penalties that may be imposed under section 17 of the Occupational Safety and Health Act of 1970 [29 U.S.C. 666] for a violation of the Bloodborne Pathogens standard referred to in subsection (a)(1)(U) <sup><a href="#1395cc_4_target" name="1395cc_4">4</a></sup> of this section by a hospital that is subject to the provisions of such Act [29 U.S.C. 651 et seq.].
 
 (C) A civil money penalty under this paragraph shall be imposed and collected in the same manner as civil money penalties under subsection (a) of section 1320a–7a of this title are imposed and collected under that section.
 
@@ -164,7 +184,7 @@ For purposes of this section, the term "provider of services" shall include—
 
 #### (f) Maintenance of written policies and procedures ####
 
-(1) For purposes of subsection (a)(1)(Q) of this section and sections 1395i–3(c)(2)(E),<sup><a href="#1395cc_6_target" name="1395cc_6">6</a></sup> 1395l(s), 1395w–25(i), 1395mm(c)(8), and 1395bbb(a)(6) of this title, the requirement of this subsection is that a provider of services, Medicare+Choice organization, or prepaid or eligible organization (as the case may be) maintain written policies and procedures with respect to all adult individuals receiving medical care by or through the provider or organization—
+(1) For purposes of subsection (a)(1)(Q) of this section and sections 1395i–3(c)(2)(E),<sup><a href="#1395cc_5_target" name="1395cc_5">5</a></sup> 1395l(s), 1395w–25(i), 1395mm(c)(8), and 1395bbb(a)(6) of this title, the requirement of this subsection is that a provider of services, Medicare+Choice organization, or prepaid or eligible organization (as the case may be) maintain written policies and procedures with respect to all adult individuals receiving medical care by or through the provider or organization—
 
 (A) to provide written information to each such individual concerning—
 
@@ -324,7 +344,7 @@ The Secretary may promulgate an interim final rule to carry out this paragraph.
 
 #### (A) In general ####
 
-The Secretary shall establish procedures to provide for a provisional period of not less than 30 days and not more than 1 year during which new providers of medical or other items or services and suppliers, as the Secretary determines appropriate, including categories of providers or suppliers, would be subject to enhanced oversight, such as prepayment review and payment caps, under the program under this subchapter, the Medicaid program under subchapter XIX.<sup><a href="#1395cc_7_target" name="1395cc_7">7</a></sup> and the CHIP program under subchapter XXI.
+The Secretary shall establish procedures to provide for a provisional period of not less than 30 days and not more than 1 year during which new providers of medical or other items or services and suppliers, as the Secretary determines appropriate, including categories of providers or suppliers, would be subject to enhanced oversight, such as prepayment review and payment caps, under the program under this subchapter, the Medicaid program under subchapter XIX.<sup><a href="#1395cc_6_target" name="1395cc_6">6</a></sup> and the CHIP program under subchapter XXI.
 
 #### (B) Implementation ####
 
@@ -372,7 +392,7 @@ The Secretary may impose a temporary moratorium on the enrollment of new provide
 
 There shall be no judicial review under section 1395ff of this title, section 1395oo of this title, or otherwise, of a temporary moratorium imposed under subparagraph (A).
 
-#### (8) <sup><a href="#1395cc_8_target" name="1395cc_8">8</a></sup> Compliance programs ####
+#### (8) <sup><a href="#1395cc_7_target" name="1395cc_7">7</a></sup> Compliance programs ####
 
 #### (A) In general ####
 
@@ -386,7 +406,7 @@ The Secretary, in consultation with the Inspector General of the Department of H
 
 The Secretary shall determine the timeline for the establishment of the core elements under subparagraph (B) and the date of the implementation of subparagraph (A) for providers or suppliers within a particular industry or category. The Secretary shall, in determining such date of implementation, consider the extent to which the adoption of compliance programs by a provider of medical or other items or services or supplier is widespread in a particular industry sector or with respect to a particular provider or supplier category.
 
-#### (8) <sup><a href="#1395cc_8_target" name="1395cc_8">8</a></sup> Hearing rights in cases of denial or non-renewal ####
+#### (8) <sup><a href="#1395cc_7_target" name="1395cc_7">7</a></sup> Hearing rights in cases of denial or non-renewal ####
 
 A provider of services or supplier whose application to enroll (or, if applicable, to renew enrollment) under this subchapter is denied may have a hearing and judicial review of such denial under the procedures that apply under subsection (h)(1)(A) of this section to a provider of services that is dissatisfied with a determination by the Secretary.
 
@@ -418,7 +438,7 @@ Not later than October 1, 2012, the Secretary shall publish the measures selecte
 
 The Secretary shall establish procedures for making data submitted under paragraph (4) available to the public. Such procedures shall ensure that a hospital described in section 1395ww(d)(1)(B)(v) of this title has the opportunity to review the data that is to be made public with respect to the hospital prior to such data being made public. The Secretary shall report quality measures of process, structure, outcome, patients' perspective on care, efficiency, and costs of care that relate to services furnished in such hospitals on the Internet website of the Centers for Medicare & Medicaid Services.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1866, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 327; amended Pub. L. 90–248, title I, §§129(c)(12), 133(c), 135(b), Jan. 2, 1968, 81 Stat. 849, 851, 852; Pub. L. 92–603, title II, §§223(e), (g), 227(d)(2), 229(b), 249A(b)–(d), 278(a)(17), (b)(18), 281(c), Oct. 30, 1972, 86 Stat. 1394, 1406, 1409, 1427, 1453–1455; Pub. L. 95–142, §§3(b), 8(b), 13(b)(3), 15(a), Oct. 25, 1977, 91 Stat. 1178, 1194, 1195, 1198, 1200; Pub. L. 95–210, §2(e), Dec. 13, 1977, 91 Stat. 1489; Pub. L. 95–292, §4(e), June 13, 1978, 92 Stat. 315; Pub. L. 96–272, title III, §308(b), June 17, 1980, 94 Stat. 531; Pub. L. 96–499, title IX, §916(a), Dec. 5, 1980, 94 Stat. 2623; Pub. L. 96–611, §1(b)(4), Dec. 28, 1980, 94 Stat. 3566; Pub. L. 97–35, title XXI, §2153, Aug. 13, 1981, 95 Stat. 802; Pub. L. 97–248, title I, §§122(g)(5), (6), 128(a)(5), (d)(4), 144, Sept. 3, 1982, 96 Stat. 362, 366, 367, 393; Pub. L. 97–448, title III, §309(a)(5), (b)(11), Jan. 12, 1983, 96 Stat. 2408, 2409; Pub. L. 98–21, title VI, §602(f), (l), Apr. 20, 1983, 97 Stat. 163, 166; Pub. L. 98–369, div. B, title III, §§2303(f), 2315(d), 2321(c), 2323(b)(3), 2335(d), 2347(a), 2348(a), 2354(b)(33), (34), July 18, 1984, 98 Stat. 1066, 1080, 1084, 1086, 1090, 1096, 1097, 1102; Pub. L. 99–272, title IX, §§9121(a), 9122(a), 9401(b)(2)(F), 9402(a), 9403(b), Apr. 7, 1986, 100 Stat. 164, 167, 199, 200; Pub. L. 99–509, title IX, §§9305(b)(1), 9320(h)(2), 9332(e)(1), 9337(c)(2), 9343(c)(2), (3), 9353(e)(1), Oct. 21, 1986, 100 Stat. 1989, 2016, 2025, 2034, 2040, 2047; Pub. L. 99–514, title XVIII, §1895(b)(5), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 99–576, title II, §233(a), Oct. 28, 1986, 100 Stat. 3265; Pub. L. 100–93, §8(d), Aug. 18, 1987, 101 Stat. 693; Pub. L. 100–203, title IV, §§4012(a), 4062(d)(4), 4085(i)(17), (28), 4097(a), (b), 4212(e)(4), Dec. 22, 1987, 101 Stat. 1330–60, 1330–109, 1330–133, 1330–140, 1330–213, as amended Pub. L. 100–360, title IV, §411(i)(4)(C)(vi), (j)(5), July 1, 1988, 102 Stat. 790, 791; Pub. L. 100–360, title I, §104(d)(5), title II, §§201(b), (d), 202(h)(1), title IV, §411(c)(2)(A)(i), (C), (g)(1)(D), July 1, 1988, 102 Stat. 689, 702, 718, 772, 782, as amended Pub. L. 100–485, title VI, §608(d)(3)(F), (19)(A), Oct. 13, 1988, 102 Stat. 2414, 2419; Pub. L. 100–485, title VI, §608(f)(1), Oct. 13, 1988, 102 Stat. 2424; Pub. L. 101–234, title I, §101(a), title II, §201(a), title III, §301(b)(4), (d)(1), Dec. 13, 1989, 103 Stat. 1979, 1981, 1985, 1986; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xii), (xiii), 6017, 6018(a), 6020, 6112(e)(3), Dec. 19, 1989, 103 Stat. 2154, 2165, 2166, 2216; Pub. L. 101–508, title IV, §§4008(b)(3)(B), (m)(3)(G)[(F)], 4153(d)(1), 4157(c)(2), 4162(b)(2), 4206(a), Nov. 5, 1990, 104 Stat. 1388–44, 1388–54, 1388–84, 1388–89, 1388–96, 1388–115; Pub. L. 102–54, §13(q)(3)(F), June 13, 1991, 105 Stat. 280; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–296, title I, §108(c)(5), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 103–432, title I, §§106(b)(1)(B), 147(e)(7), 156(a)(2)(E), 160(d)(2), Oct. 31, 1994, 108 Stat. 4406, 4430, 4441, 4443; Pub. L. 104–191, title II, §262(b)(1), Aug. 21, 1996, 110 Stat. 2031; Pub. L. 105–12, §9(a)(2), Apr. 30, 1997, 111 Stat. 26; Pub. L. 105–33, title IV, §§4002(d), (e), 4201(c)(1), 4302(a), 4321(b), 4432(b)(5)(F), 4511(a)(2)(D), 4523(b), 4541(a)(3), 4641(a), 4714(b)(1), Aug. 5, 1997, 111 Stat. 329, 373, 382, 395, 422, 442, 449, 456, 487, 510; Pub. L. 106–113, div. B, §1000(a)(6) [title III, §321(k)(11), (12)], Nov. 29, 1999, 113 Stat. 1536, 1501A–368; Pub. L. 106–554, §1(a)(6) [title III, §313(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–499; Pub. L. 108–173, title II, §236(a)(1), title V, §§505(b), 506(a), title VII, §736(a)(13), title IX, §§932(b), (c)(1), 936(a), 947(a), Dec. 8, 2003, 117 Stat. 2210, 2294, 2355, 2400, 2401, 2411, 2425; Pub. L. 110–275, title I, §143(b)(8), July 15, 2008, 122 Stat. 2543; Pub. L. 111–148, title III, §3005, title VI, §§6401(a), 6406(b), title X, §10603, Mar. 23, 2010, 124 Stat. 371, 747, 769, 1006; Pub. L. 111–152, title I, §1304, Mar. 30, 2010, 124 Stat. 1058; Pub. L. 111–192, title I, §103(b), (c), June 25, 2010, 124 Stat. 1283; Pub. L. 112–40, title II, §261(a)(3)(A), (D), Oct. 21, 2011, 125 Stat. 423.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1866, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 327; amended Pub. L. 90–248, title I, §§129(c)(12), 133(c), 135(b), Jan. 2, 1968, 81 Stat. 849, 851, 852; Pub. L. 92–603, title II, §§223(e), (g), 227(d)(2), 229(b), 249A(b)–(d), 278(a)(17), (b)(18), 281(c), Oct. 30, 1972, 86 Stat. 1394, 1406, 1409, 1427, 1453–1455; Pub. L. 95–142, §§3(b), 8(b), 13(b)(3), 15(a), Oct. 25, 1977, 91 Stat. 1178, 1194, 1195, 1198, 1200; Pub. L. 95–210, §2(e), Dec. 13, 1977, 91 Stat. 1489; Pub. L. 95–292, §4(e), June 13, 1978, 92 Stat. 315; Pub. L. 96–272, title III, §308(b), June 17, 1980, 94 Stat. 531; Pub. L. 96–499, title IX, §916(a), Dec. 5, 1980, 94 Stat. 2623; Pub. L. 96–611, §1(b)(4), Dec. 28, 1980, 94 Stat. 3566; Pub. L. 97–35, title XXI, §2153, Aug. 13, 1981, 95 Stat. 802; Pub. L. 97–248, title I, §§122(g)(5), (6), 128(a)(5), (d)(4), 144, Sept. 3, 1982, 96 Stat. 362, 366, 367, 393; Pub. L. 97–448, title III, §309(a)(5), (b)(11), Jan. 12, 1983, 96 Stat. 2408, 2409; Pub. L. 98–21, title VI, §602(f), (l), Apr. 20, 1983, 97 Stat. 163, 166; Pub. L. 98–369, div. B, title III, §§2303(f), 2315(d), 2321(c), 2323(b)(3), 2335(d), 2347(a), 2348(a), 2354(b)(33), (34), July 18, 1984, 98 Stat. 1066, 1080, 1084, 1086, 1090, 1096, 1097, 1102; Pub. L. 99–272, title IX, §§9121(a), 9122(a), 9401(b)(2)(F), 9402(a), 9403(b), Apr. 7, 1986, 100 Stat. 164, 167, 199, 200; Pub. L. 99–509, title IX, §§9305(b)(1), 9320(h)(2), 9332(e)(1), 9337(c)(2), 9343(c)(2), (3), 9353(e)(1), Oct. 21, 1986, 100 Stat. 1989, 2016, 2025, 2034, 2040, 2047; Pub. L. 99–514, title XVIII, §1895(b)(5), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 99–576, title II, §233(a), Oct. 28, 1986, 100 Stat. 3265; Pub. L. 100–93, §8(d), Aug. 18, 1987, 101 Stat. 693; Pub. L. 100–203, title IV, §§4012(a), 4062(d)(4), 4085(i)(17), (28), 4097(a), (b), 4212(e)(4), Dec. 22, 1987, 101 Stat. 1330–60, 1330–109, 1330–133, 1330–140, 1330–213, as amended Pub. L. 100–360, title IV, §411(i)(4)(C)(vi), (j)(5), July 1, 1988, 102 Stat. 790, 791; Pub. L. 100–360, title I, §104(d)(5), title II, §§201(b), (d), 202(h)(1), title IV, §411(c)(2)(A)(i), (C), (g)(1)(D), July 1, 1988, 102 Stat. 689, 702, 718, 772, 782, as amended Pub. L. 100–485, title VI, §608(d)(3)(F), (19)(A), Oct. 13, 1988, 102 Stat. 2414, 2419; Pub. L. 100–485, title VI, §608(f)(1), Oct. 13, 1988, 102 Stat. 2424; Pub. L. 101–234, title I, §101(a), title II, §201(a), title III, §301(b)(4), (d)(1), Dec. 13, 1989, 103 Stat. 1979, 1981, 1985, 1986; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xii), (xiii), 6017, 6018(a), 6020, 6112(e)(3), Dec. 19, 1989, 103 Stat. 2154, 2165, 2166, 2216; Pub. L. 101–508, title IV, §§4008(b)(3)(B), (m)(3)(G)[(F)], 4153(d)(1), 4157(c)(2), 4162(b)(2), 4206(a), Nov. 5, 1990, 104 Stat. 1388–44, 1388–54, 1388–84, 1388–89, 1388–96, 1388–115; Pub. L. 102–54, §13(q)(3)(F), June 13, 1991, 105 Stat. 280; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–296, title I, §108(c)(5), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 103–432, title I, §§106(b)(1)(B), 147(e)(7), 156(a)(2)(E), 160(d)(2), Oct. 31, 1994, 108 Stat. 4406, 4430, 4441, 4443; Pub. L. 104–191, title II, §262(b)(1), Aug. 21, 1996, 110 Stat. 2031; Pub. L. 105–12, §9(a)(2), Apr. 30, 1997, 111 Stat. 26; Pub. L. 105–33, title IV, §§4002(d), (e), 4201(c)(1), 4302(a), 4321(b), 4432(b)(5)(F), 4511(a)(2)(D), 4523(b), 4541(a)(3), 4641(a), 4714(b)(1), Aug. 5, 1997, 111 Stat. 329, 373, 382, 395, 422, 442, 449, 456, 487, 510; Pub. L. 106–113, div. B, §1000(a)(6) [title III, §321(k)(11), (12)], Nov. 29, 1999, 113 Stat. 1536, 1501A–368; Pub. L. 106–554, §1(a)(6) [title III, §313(b)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–499; Pub. L. 108–173, title II, §236(a)(1), title V, §§505(b), 506(a), title VII, §736(a)(13), title IX, §§932(b), (c)(1), 936(a), 947(a), Dec. 8, 2003, 117 Stat. 2210, 2294, 2355, 2400, 2401, 2411, 2425; Pub. L. 110–275, title I, §143(b)(8), July 15, 2008, 122 Stat. 2543; Pub. L. 111–148, title III, §3005, title VI, §§6401(a), 6406(b), title X, §10603, Mar. 23, 2010, 124 Stat. 371, 747, 769, 1006; Pub. L. 111–152, title I, §1304, Mar. 30, 2010, 124 Stat. 1058; Pub. L. 111–192, title I, §103(b), (c), June 25, 2010, 124 Stat. 1283; Pub. L. 112–40, title II, §261(a)(3)(A), (D), Oct. 21, 2011, 125 Stat. 423; Pub. L. 114–42, §2, Aug. 6, 2015, 129 Stat. 468.)
 
 #### References in Text ####
 
@@ -433,6 +453,10 @@ Section 1395l(t)(5) of this title, referred to in subsec. (a)(2)(A), was redesig
 The Internal Revenue Code of 1986, referred to in subsec. (j)(2)(E), (6)(B)(i), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments ####
+
+Subsec. (a)(1)(W), (X). Pub. L. 114–42, §2(1)–(3)(A), redesignated subpar. (W), relating to maintaining and providing access to documentation, as (X).
+
+Subsec. (a)(1)(Y). Pub. L. 114–42, §2(3)(B), (4), added subpar. (Y).
 
 **2011**—Subsec. (a)(1)(F). Pub. L. 112–40, §261(a)(3)(A), substituted "quality improvement" for "utilization and quality control peer review" in cls. (i) and (ii).
 
@@ -1100,12 +1124,10 @@ Pub. L. 92–603, title II, §249A(f), Oct. 30, 1972, 86 Stat. 1427, provided th
 
 [<sup>3</sup> So in original. Probably should be preceded by "section".](#1395cc_3)
 
-[<sup>4</sup> So in original. Two subpars. (W) have been enacted.](#1395cc_4)
+[<sup>4</sup> So in original. Probably should be subsection "(a)(1)(V)".](#1395cc_4)
 
-[<sup>5</sup> So in original. Probably should be subsection "(a)(1)(V)".](#1395cc_5)
+[<sup>5</sup> So in original. Probably should refer to section 1395i–3(c)(1)(E).](#1395cc_5)
 
-[<sup>6</sup> So in original. Probably should refer to section 1395i–3(c)(1)(E).](#1395cc_6)
+[<sup>6</sup> So in original. Probably should be a comma.](#1395cc_6)
 
-[<sup>7</sup> So in original. Probably should be a comma.](#1395cc_7)
-
-[<sup>8</sup> So in original. Two pars. (8) have been enacted.](#1395cc_8)
+[<sup>7</sup> So in original. Two pars. (8) have been enacted.](#1395cc_7)

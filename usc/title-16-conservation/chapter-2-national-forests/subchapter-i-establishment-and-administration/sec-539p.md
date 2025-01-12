@@ -140,7 +140,7 @@ The Secretary may accept a payment in excess of 25 percent of the total value of
 
 #### (iii) Disposition and use of proceeds ####
 
-Any amounts received by the United States under this subparagraph shall be deposited in the fund established under Public Law 90–171 (commonly known as the "Sisk Act"; 16 U.S.C. 484a) and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
+Any amounts received by the United States under this subparagraph shall be deposited in the fund established under section 484a of this title and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
 
 #### (C) Surplus of non-Federal land ####
 
@@ -254,7 +254,7 @@ On the acquisition of land by the Secretary under this section, the boundaries o
 
 #### (iii) Land and Water Conservation Fund ####
 
-For purposes of section 460l–9 of this title, the boundaries of a national forest in which land acquired by the Secretary is located shall be deemed to be the boundaries of that forest as in existence on January 1, 1965.
+For purposes of sections 100506(c) and 200306 of title 54, the boundaries of a national forest in which land acquired by the Secretary is located shall be deemed to be the boundaries of that forest as in existence on January 1, 1965.
 
 #### (B) Land acquired by the Secretary of the Interior ####
 
@@ -392,7 +392,7 @@ The Town shall pay to the Secretary the market value for each parcel of land or 
 
 #### (3) Sisk Act ####
 
-Any payment received by the Secretary from the Town under this subsection shall be deposited in the fund established under Public Law 90–171 (commonly known as the "Sisk Act") (16 U.S.C. 484a) and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
+Any payment received by the Secretary from the Town under this subsection shall be deposited in the fund established under section 484a of this title and shall be made available to the Secretary for the acquisition of land or interests in land in Region 3 of the Forest Service.
 
 #### (4) Terms and conditions ####
 
@@ -447,5 +447,9 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c)(9), is
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(2)(B)(ii), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 The Geothermal Steam Act of 1970, referred to in subsec. (i)(1)(B), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
+
+#### Codification ####
+
+In subsec. (d)(2)(A)(iii), "sections 100506(c) and 200306 of title 54" substituted for "section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 4601–9) [sic]" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 [<sup>1</sup> So in original. The word "Riparian" probably should precede "National".](#539p_1)

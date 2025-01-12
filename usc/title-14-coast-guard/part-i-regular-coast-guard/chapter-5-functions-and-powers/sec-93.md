@@ -304,7 +304,7 @@ Pub. L. 107–295, title IV, §430, Nov. 25, 2002, 116 Stat. 2128, provided that
 
 #### Conveyance of Lighthouses; Notification ####
 
-Pub. L. 105–383, title IV, §416(d), Nov. 13, 1998, 112 Stat. 3437, provided that: "Not less than 1 year prior to reporting to the General Services Administration that a lighthouse or light station eligible for listing under the National Historic Preservation Act of 1966 (16 U.S.C. 470 et seq.) [see 54 U.S.C. 300101 et seq.] and under the jurisdiction of the Coast Guard is excess to the needs of the Coast Guard, the Commandant of the Coast Guard shall notify the State in which the lighthouse or light station is located, (including the State Historic Preservation Officer, if any) the appropriate political subdivision of that State, and any lighthouse, historic, or maritime preservation organizations in that State, that such property is excess to the needs of the Coast Guard."
+Pub. L. 105–383, title IV, §416(d), Nov. 13, 1998, 112 Stat. 3437, provided that: "Not less than 1 year prior to reporting to the General Services Administration that a lighthouse or light station eligible for listing under the National Historic Preservation Act of 1966 ([former] 16 U.S.C. 470 et seq.) [see 54 U.S.C. 300101 et seq.] and under the jurisdiction of the Coast Guard is excess to the needs of the Coast Guard, the Commandant of the Coast Guard shall notify the State in which the lighthouse or light station is located, (including the State Historic Preservation Officer, if any) the appropriate political subdivision of that State, and any lighthouse, historic, or maritime preservation organizations in that State, that such property is excess to the needs of the Coast Guard."
 
 #### Small Waterplane Area Twin Hull (SWATH) Technology ####
 

@@ -98,7 +98,7 @@ This section may not be construed as affecting the authorities of the Director o
 
 Pub. L. 113–94, §3(b)(1)(A), redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, and realigned margins.
 
-Subsec. (a)(2). Pub. L. 113–94, §3(b)(1)(C), added par. (2).
+Subsec. (a)(2). Pub. L. 113–94, §3(b)(1)(C), added par. (2). Former par. (2) redesignated subpar. (B) of par. (1).
 
 Subsecs. (c)(1)(B), (D), (d). Pub. L. 113–94, §3(b)(2), substituted "subsection (a)(1)" for "subsection (a)" wherever appearing.
 
@@ -108,9 +108,7 @@ Section applicable only with respect to amounts appropriated for fiscal year 200
 
 #### Supplement, Not Supplant; Prohibition Against Transfer ####
 
-Pub. L. 113–94, §3(c), Apr. 3, 2014, 128 Stat. 1087, provided that:
-
-"Funds appropriated pursuant to section 402A(a)(2) of the Public Health Service Act [42 U.S.C. 282a(a)(2)], as added by subsection (b)—
+Pub. L. 113–94, §3(c), Apr. 3, 2014, 128 Stat. 1087, provided that: "Funds appropriated pursuant to section 402A(a)(2) of the Public Health Service Act [42 U.S.C. 282a(a)(2)], as added by subsection (b)—
 
 "(1) shall be used to supplement, not supplant, the funds otherwise allocated by the National Institutes of Health for pediatric research; and
 

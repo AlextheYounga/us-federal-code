@@ -180,17 +180,19 @@ Pub. L. 112–240, title IX, §901(e), Jan. 2, 2013, 126 Stat. 2370, provided th
 
 " '(B) for the nonsecurity category, $499,000,000,000 in budget authority;'."
 
-#### Sequestration Order for Fiscal Year 2015 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended ####
+#### Sequestration Order for Fiscal Year 2016 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended ####
 
-Order of President of the United States, dated Mar. 10, 2014, 79 F.R. 14365, provided:
+Order of President of the United States, dated Feb. 2, 2015, 80 F.R. 6645, provided:
 
-By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the "Act"), as amended, 2 U.S.C. 901a, I hereby order that, on October 1, 2014, direct spending budgetary resources for fiscal year 2015 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of March 10, 2014.
+By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the "Act"), as amended, 2 U.S.C. 901a, I hereby order that, on October 1, 2015, direct spending budgetary resources for fiscal year 2016 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of February 2, 2015.
 
-All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget's report of March 10, 2014, prepared pursuant to section 251A(9) of the Act.
+All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget's report of February 2, 2015, prepared pursuant to section 251A(9) of the Act.
 
 Barack Obama.
 
 Sequestration orders pursuant to this section for prior fiscal years were contained in the following:
+
+**2015**—Order of President of the United States, dated Mar. 10, 2014, 79 F.R. 14365.
 
 **2014**—Order of President of the United States, dated Apr. 10, 2013, 78 F.R. 22409.
 

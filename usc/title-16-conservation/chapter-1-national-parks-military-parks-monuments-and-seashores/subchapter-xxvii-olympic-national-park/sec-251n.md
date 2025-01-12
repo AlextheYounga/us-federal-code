@@ -30,7 +30,7 @@ Pub. L. 99–635, §§2–5, Nov. 7, 1986, 100 Stat. 3528, 3529, as amended by P
 
 "Sec. 3. (a) The Secretary of the Interior is authorized to acquire by donation, purchase with donated or appropriated funds, exchange, bequest or otherwise any non-Federal lands, waters, and interests therein included within the boundary of Olympic National Park pursuant to section 1 of this Act [16 U.S.C. 251n]: *Provided*: That any lands, waters, or interests therein owned by the State of Washington or any political subdivision thereof may be acquired only by donation or exchange.
 
-"(b) For the purpose of section 7 of the Land and Water Conservation Fund Act of 1965 (78 Stat. 903, as amended; 16 U.S.C. 460l–9) [see 54 U.S.C. 100506(c), 200306], the boundary of the Olympic National Forest, as modified pursuant to section 1 of this Act [16 U.S.C. 251n], shall be treated as if it was the boundary of that national forest on January 1, 1965.
+"(b) For the purpose of section 7 of the Land and Water Conservation Fund Act of 1965 (78 Stat. 903, as amended; [former] 16 U.S.C. 460l–9) [see 54 U.S.C. 100506(c), 200306], the boundary of the Olympic National Forest, as modified pursuant to section 1 of this Act [16 U.S.C. 251n], shall be treated as if it was the boundary of that national forest on January 1, 1965.
 
 "Sec. 4. Effective upon acceptance thereof by the State of Washington, the jurisdiction which the United States acquired over those lands excluded from the boundaries of Olympic National Park by this Act [enacting this section and this note] is hereby retroceded to the State.
 

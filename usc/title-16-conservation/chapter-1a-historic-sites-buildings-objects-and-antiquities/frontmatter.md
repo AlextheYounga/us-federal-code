@@ -18,11 +18,11 @@ Sec.
 
 469i to 469k. Repealed.
 
-469k–1. Repealed or Omitted.
+469k–1. Transferred or Repealed.
 
 469 l. Omitted or Transferred.
 
-469l–1 to 469l–3. Transferred or Repealed.
+469l–1 to 469l–3. Repealed.
 
 469m. Repealed or Omitted.
 
@@ -32,7 +32,7 @@ Sec.
 
 #### SUBCHAPTER II—NATIONAL HISTORIC PRESERVATION ####
 
-470, 470–1. Repealed, Transferred, or Omitted.
+470, 470–1. Transferred, Omitted, or Repealed.
 
 #### Part A—Programs ####
 

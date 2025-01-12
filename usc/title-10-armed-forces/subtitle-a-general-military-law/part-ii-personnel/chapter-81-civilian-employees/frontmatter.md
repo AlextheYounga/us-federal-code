@@ -220,7 +220,7 @@ Pub. L. 111–84, div. A, title XI, §1112, Oct. 28, 2009, 123 Stat. 2496, provi
 
 "(E) The consideration of participants in the program for selection into the senior management, functional, and technical workforce of the Department.
 
-"(7) Consideration for senior management, functional, and technical workforce.—Any participant in the program who, as determined by the Secretary, demonstrates outstanding performance shall be afforded priority in consideration for selection into the appropriate element of the senior management, functional, and technical workforce of the Department of Defense (as defined in section 115b(f) of title 10, United States Code) [see 10 U.S.C. 115b(h)]."
+"(7) Consideration for senior management, functional, and technical workforce.—Any participant in the program who, as determined by the Secretary, demonstrates outstanding performance shall be afforded priority in consideration for selection into the appropriate element of the senior management, functional, and technical workforce of the Department of Defense (as defined in section 115b(f) of title 10, United States Code) [see now 10 U.S.C. 115b(h)]."
 
 #### Direct Hire Authority at Personnel Demonstration Laboratories for Certain Candidates ####
 

@@ -32,7 +32,7 @@ The term "Secretary" means the Secretary of the Interior.
 
 The term "State" means the State of Nevada.
 
-#### (2) Conveyance of Federal land to county ####
+#### (2) Conveyance of Federal land to County ####
 
 #### (A) In general ####
 

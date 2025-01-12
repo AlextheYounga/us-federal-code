@@ -6354,7 +6354,7 @@ Subdivision (b) is amended to prescribe the procedure for seeking an award of at
 
 As provided in Rule 54(d)(2)(A), new subsection (b)(2) does not apply to fees recoverable as an element of damages, as when sought under the terms of a contract providing for the recovery of fees incurred prior to the instant adversary proceeding. Such fees typically are required to be claimed in a pleading.
 
-Rule 54(d)(2)(D) F.R.Civ.P. does not apply in adversary proceedings insofar as it authorizes the referral of fee matters to a master or a magistrate judge. The use of masters is not authorized in bankruptcy cases, see Rule 9031, and 28 U.S.C. §636 does not authorize a magistrate judge to exercise jurisdiction upon referral by a bankruptcy judge. The remaining provision of Rule 54(d)(2)(D) is expressed in subdivision (b)(2)(B) of this rule.
+Rule 54(d)(2)(D) F.R.Civ.P. does not apply in adversary proceedings insofar as it authorizes the referral of fee matters to a master or a magistrate judge. The use of masters is not authorized in bankruptcy cases, *see* Rule 9031, and 28 U.S.C. §636 does not authorize a magistrate judge to exercise jurisdiction upon referral by a bankruptcy judge. The remaining provision of Rule 54(d)(2)(D) is expressed in subdivision (b)(2)(B) of this rule.
 
 Rule 54(d)(2)(C) refers to Rule 78 F.R.Civ.P., which is not applicable in adversary proceedings. Accordingly, that reference is not incorporated by this rule.
 
@@ -6576,7 +6576,7 @@ These rules take account of the evolving technology in the federal courts for th
 
 (A) grants relief from an automatic stay under §362, 922, 1201, or 1301 of the Code;
 
-(B) the sale or lease of property or the use of cash collateral under §363 of the Code;
+(B) authorizes the sale or lease of property or the use of cash collateral under §363 of the Code;
 
 (C) authorizes the obtaining of credit under §364 of the Code;
 
@@ -6586,7 +6586,7 @@ These rules take account of the evolving technology in the federal courts for th
 
 (F) confirms a plan under §943, 1129, 1225, or 1325 of the Code.
 
-(3) Time Limits on an Extension. No extension of time may exceed 21 days after the time prescribed by this rule, or 14 days after the order granting the motion to extend time is entered, whichever is later.
+(3) *Time Limits on an Extension*. No extension of time may exceed 21 days after the time prescribed by this rule, or 14 days after the order granting the motion to extend time is entered, whichever is later.
 
 (Added Apr. 25, 2014, eff. Dec. 1, 2014.)
 
@@ -6636,7 +6636,7 @@ Subdivision (d) continues to allow the court to grant an extension of time to fi
 
 (c) Serving the Notice of Appeal.
 
-(1) *Serving Parties and Transmitting to the United States Trustee.* The bankruptcy clerk must serve the notice of appeal on counsel of record for each party to the appeal, excluding the appellant, and transmit it to the United States trustee. If a party is proceeding pro se, the clerk must send the notice of appeal to the party's last known address. The clerk must note, on each copy, the date when the notice of appeal was filed.
+(1) *Serving Parties and Transmitting to the United States Trustee*. The bankruptcy clerk must serve the notice of appeal on counsel of record for each party to the appeal, excluding the appellant, and transmit it to the United States trustee. If a party is proceeding pro se, the clerk must send the notice of appeal to the party's last known address. The clerk must note, on each copy, the date when the notice of appeal was filed.
 
 (2) *Effect of Failing to Serve or Transmit Notice*. The bankruptcy clerk's failure to serve notice on a party or transmit notice to the United States trustee does not affect the validity of the appeal.
 
@@ -6646,7 +6646,7 @@ Subdivision (d) continues to allow the court to grant an extension of time to fi
 
 (1) *Transmitting the Notice*. The bankruptcy clerk must promptly transmit the notice of appeal to the BAP clerk if a BAP has been established for appeals from that district and the appellant has not elected to have the district court hear the appeal. Otherwise, the bankruptcy clerk must promptly transmit the notice to the district clerk.
 
-(2)*Docketing in the District Court or BAP*. Upon receiving the notice of appeal, the district or BAP clerk must docket the appeal under the title of the bankruptcy case and the title of any adversary proceeding, and must identify the appellant, adding the appellant's name if necessary.
+(2) *Docketing in the District Court or BAP*. Upon receiving the notice of appeal, the district or BAP clerk must docket the appeal under the title of the bankruptcy case and the title of any adversary proceeding, and must identify the appellant, adding the appellant's name if necessary.
 
 (Added Apr. 25, 2014, eff. Dec. 1, 2014.)
 
@@ -6774,11 +6774,11 @@ Subdivision (d) provides that, in the case of an appeal by leave, if the appella
 
 (b) Filing the Certification. The certification must be filed with the clerk of the court where the matter is pending. For purposes of this rule, a matter remains pending in the bankruptcy court for 30 days after the effective date under Rule 8002 of the first notice of appeal from the judgment, order, or decree for which direct review is sought. A matter is pending in the district court or BAP thereafter.
 
-(c) Joint Certification by all Appellants and Appellees. A joint certification by all the appellants and appellees under 28 U.S.C. §158(d)(2)(A) must be made by using the appropriate Official Form. The parties may supplement the certification with a short statement of the basis for the certification, which may include the information listed in subdivision (f)(2).
+(c) Joint Certification by All Appellants and Appellees. A joint certification by all the appellants and appellees under 28 U.S.C. §158(d)(2)(A) must be made by using the appropriate Official Form. The parties may supplement the certification with a short statement of the basis for the certification, which may include the information listed in subdivision (f)(2).
 
 (d) The Court That May Make the Certification. Only the court where the matter is pending, as provided in subdivision (b), may certify a direct review on request of parties or on its own motion.	
 
-(e) Certification on the Court's own Motion.
+(e) Certification on the Court's Own Motion.
 
 (1) *How Accomplished*. A certification on the court's own motion must be set forth in a separate document. The clerk of the certifying court must serve it on the parties to the appeal in the manner required for service of a notice of appeal under Rule 8003(c)(1). The certification must be accompanied by an opinion or memorandum that contains the information required by subdivision (f)(2)(A)–(D).
 
@@ -6786,7 +6786,7 @@ Subdivision (d) provides that, in the case of an appeal by leave, if the appella
 
 (f) Certification by the Court on Request.
 
-(1) *How Requested*. A request by a party for certification that a circumstance specified in 28 U.S.C. §158(d)(2)(A)(i)–(iii) applies—or a request by a majority of the appellants and a majority of the appellees—must be filed with the clerk of the court where the matter is pending within 60 days after the entry of the judgment, order, or decree.
+(1) *How Requested*. A request by a party for certification that a circumstance specified in 28 U.S.C. §158(d)(2)(A)(i)–(iii) applies—or a request by a majority of the appellants and a majority of the appellees—must be filed with the clerk of the court where the matter is pending within 60 days after the entry of the judgment, order, or decree.
 
 (2) *Service and Contents*. The request must be served on all parties to the appeal in the manner required for service of a notice of appeal under Rule 8003(c)(1), and it must include the following:
 
@@ -6798,7 +6798,7 @@ Subdivision (d) provides that, in the case of an appeal by leave, if the appella
 
 (D) the reasons why the direct appeal should be allowed, including which circumstance specified in 28 U.S.C. §158(d)(2)(A)(i)–(iii) applies; and
 
-(E)	a copy of the judgment, order, or decree and any related opinion or memorandum.
+(E) a copy of the judgment, order, or decree and any related opinion or memorandum.
 
 (3) *Time to File a Response or a Cross-Request*. A party may file a response to the request within 14 days after the request is served, or such other time as the court where the matter is pending allows. A party may file a cross-request for certification within 14 days after the request is served, or within 60 days after the entry of the judgment, order, or decree, whichever occurs first.
 
@@ -6996,7 +6996,7 @@ A designation and statement served prematurely must be treated as served on the 
 
 (5) *Unsupported Finding or Conclusion*. If the appellant intends to argue on appeal that a finding or conclusion is unsupported by the evidence or is contrary to the evidence, the appellant must include in the record a transcript of all relevant testimony and copies of all relevant exhibits.
 
-(c) Statement of the Evidence When a Transcript is Unavailable. If a transcript of a hearing or trial is unavailable, the appellant may prepare a statement of the evidence or proceedings from the best available means, including the appellant's recollection. The statement must be filed within the time prescribed by subdivision (a)(1) and served on the appellee, who may serve objections or proposed amendments within 14 days after being served. The statement and any objections or proposed amendments must then be submitted to the bankruptcy court for settlement and approval. As settled and approved, the statement must be included by the bankruptcy clerk in the record on appeal.
+(c) Statement of the Evidence When a Transcript Is Unavailable. If a transcript of a hearing or trial is unavailable, the appellant may prepare a statement of the evidence or proceedings from the best available means, including the appellant's recollection. The statement must be filed within the time prescribed by subdivision (a)(1) and served on the appellee, who may serve objections or proposed amendments within 14 days after being served. The statement and any objections or proposed amendments must then be submitted to the bankruptcy court for settlement and approval. As settled and approved, the statement must be included by the bankruptcy clerk in the record on appeal.
 
 (d) Agreed Statement as the Record on Appeal. Instead of the record on appeal as defined in subdivision (a), the parties may prepare, sign, and submit to the bankruptcy court a statement of the case showing how the issues presented by the appeal arose and were decided in the bankruptcy court. The statement must set forth only those facts alleged and proved or sought to be proved that are essential to the court's resolution of the issues. If the statement is accurate, it—together with any additions that the bankruptcy court may consider necessary to a full presentation of the issues on appeal—must be approved by the bankruptcy court and must then be certified to the court where the appeal is pending as the record on appeal. The bankruptcy clerk must then transmit it to the clerk of that court within the time provided by Rule 8010. A copy of the agreed statement may be filed in place of the appendix required by Rule 8018(b) or, in the case of a direct appeal to the court of appeals, by F.R.App.P. 30.
 
@@ -7076,7 +7076,7 @@ The Federal Rules of Appellate Procedure, referred to in subd. (d), are set out 
 
 (5) *When Leave to Appeal is Requested*. Subject to subdivision (c), if a motion for leave to appeal has been filed under Rule 8004, the bankruptcy clerk must prepare and transmit the record only after the district court, BAP, or court of appeals grants leave.
 
-(c) Record for a Preliminary Motion in the District Court, Bap, or Court of Appeals. This subdivision (c) applies if, before the record is transmitted, a party moves in the district court, BAP, or court of appeals for any of the following relief:
+(c) Record for a Preliminary Motion in the District Court, BAP, or Court of Appeals. This subdivision (c) applies if, before the record is transmitted, a party moves in the district court, BAP, or court of appeals for any of the following relief:
 
 • leave to appeal;
 
@@ -7100,13 +7100,13 @@ A prior Rule 8010, Apr. 25, 1983, eff. Aug. 1, 1983, related to form and length 
 
 This rule is derived from former Rule 8007 and F.R.App.P. 11. It applies to an appeal taken directly to a court of appeals under 28 U.S.C. §158(d)(2), as well as to an appeal to a district court or BAP.	
 
-Subdivision (a) generally retains the procedure of former Rule 8007(a) regarding the reporter s duty to prepare and file a transcript if a party requests one. It clarifies that the person or service that transcribes the recording of a proceeding is considered the reporter under this rule if the proceeding is recorded without a reporter being present in the courtroom. It also makes clear that the reporter must file with the bankruptcy court the acknowledgment of the request for a transcript and statement of the expected completion date, the completed transcript, and any request for an extension of time beyond 30 days for completion of the transcript.	
+Subdivision (a) generally retains the procedure of former Rule 8007(a) regarding the reporter's duty to prepare and file a transcript if a party requests one. It clarifies that the person or service that transcribes the recording of a proceeding is considered the reporter under this rule if the proceeding is recorded without a reporter being present in the courtroom. It also makes clear that the reporter must file with the bankruptcy court the acknowledgment of the request for a transcript and statement of the expected completion date, the completed transcript, and any request for an extension of time beyond 30 days for completion of the transcript.	
 
-Subdivision (b) requires the bankruptcy clerk to transmit the record to the district, BAP or circuit clerk when the record is complete and, in the case of appeals under 28 U.S.C. §158(a)(3), leave to appeal has been granted. This transmission will be made electronically, either by sending the record itself or sending notice that the record can be accessed electronically. The court where the appeal is pending may, however, require that a paper copy of some or all of the record be furnished, in which case the clerk of that court will direct the appellant to provide the copies. If the appellant does not do so, the bankruptcy clerk must prepare the copies at the appellant s expense.	
+Subdivision (b) requires the bankruptcy clerk to transmit the record to the district, BAP or circuit clerk when the record is complete and, in the case of appeals under 28 U.S.C. §158(a)(3), leave to appeal has been granted. This transmission will be made electronically, either by sending the record itself or sending notice that the record can be accessed electronically. The court where the appeal is pending may, however, require that a paper copy of some or all of the record be furnished, in which case the clerk of that court will direct the appellant to provide the copies. If the appellant does not do so, the bankruptcy clerk must prepare the copies at the appellant's expense.	
 
 In a change from former Rule 8007(b), subdivision (b) of this rule no longer directs the clerk of the appellate court to docket the appeal upon receipt of the record from the bankruptcy clerk. Instead, under Rules 8003(d) and 8004(c) and F.R.App.P. 12(a), the district, BAP, or circuit clerk dockets the appeal upon receipt of the notice of appeal or, in the case of appeals under 28 U.S.C. §158(a)(3), the notice of appeal and the motion for leave to appeal. Accordingly, by the time the district, BAP, or circuit clerk receives the record, the appeal will already be docketed in that court. The clerk of the appellate court must indicate on the docket and give notice to the parties to the appeal when the transmission of the record is received. Under Rule 8018(a) and F.R.App.P. 31, the briefing schedule is generally based on that date.	
 
-Subdivision (c) is derived from former Rule 8007(c) and F.R.App.P. 11(g) . It provides for the transmission of parts of the record that the parties designate for consideration by the district court, BAP, or court of appeals in ruling on specified preliminary motions filed prior to the preparation and transmission of the record on appeal.
+Subdivision (c) is derived from former Rule 8007(c) and F.R.App.P. 11(g). It provides for the transmission of parts of the record that the parties designate for consideration by the district court, BAP, or court of appeals in ruling on specified preliminary motions filed prior to the preparation and transmission of the record on appeal.
 
 *Changes Made After Publication and Comment*. Subdivision (a)(1) was revised to more accurately reflect the way in which transcription services are selected. A cross-reference to Rule 8009(b) was added to subdivision (a)(2)(A).
 
@@ -7132,7 +7132,7 @@ Subdivision (c) is derived from former Rule 8007(c) and F.R.App.P. 11(g) . It pr
 
 (3) *Clerk's Refusal of Documents*. The court's clerk must not refuse to accept for filing any document transmitted for that purpose solely because it is not presented in proper form as required by these rules or by any local rule or practice.
 
-(b) Service of all Documents Required. Unless a rule requires service by the clerk, a party must, at or before the time of the filing of a document, serve it on the other parties to the appeal. Service on a party represented by counsel must be made on the party's counsel.
+(b) Service of All Documents Required. Unless a rule requires service by the clerk, a party must, at or before the time of the filing of a document, serve it on the other parties to the appeal. Service on a party represented by counsel must be made on the party's counsel.
 
 (c) Manner of Service.
 
@@ -7246,7 +7246,7 @@ If filed separately from a brief, motion, response, petition, or answer, the sta
 
 (d) Emergency Motion.
 
-(1) Noting the Emergency. When a movant requests expedited action on a motion because irreparable harm would occur during the time needed to consider a response, the movant must insert the word "Emergency" before the title of the motion.
+(1) *Noting the Emergency*. When a movant requests expedited action on a motion because irreparable harm would occur during the time needed to consider a response, the movant must insert the word "Emergency" before the title of the motion.
 
 (2) *Contents of the Motion*. The emergency motion must
 
@@ -7554,7 +7554,7 @@ Under Rule 8011(e), the party filing the document or, if represented, its counse
 
 (3) the appellant's response and reply brief, within 30 days after the appellee's principal and response brief is served; and
 
-(4)	the appellee's reply brief, within 14 days after the appellant's response and reply brief is served, but at least 7 days before scheduled argument unless the district court or BAP, for good cause, allows a later filing.
+(4) the appellee's reply brief, within 14 days after the appellant's response and reply brief is served, but at least 7 days before scheduled argument unless the district court or BAP, for good cause, allows a later filing.
 
 (Added Apr. 25, 2014, eff. Dec. 1, 2014.)
 
@@ -7604,7 +7604,7 @@ Subdivision (e) governs the time for filing briefs in cases in which there is a 
 
 (5) an argument, which may be preceded by a summary and need not include a statement of the applicable standard of review; and
 
-(6)	a certificate of compliance, if required by Rule 8015(a)(7)(C) or 8015(b).
+(6) a certificate of compliance, if required by Rule 8015(a)(7)(C) or 8015(b).
 
 (d) Length. Except by the district court's or BAP's permission, an amicus brief must be no more than one-half the maximum length authorized by these rules for a party's principal brief. If the court grants a party permission to file a longer brief, that extension does not affect the length of an amicus brief.
 
@@ -7668,7 +7668,7 @@ Subdivisions (b)–(g) adopt F.R.App.P. 29(b)–(g).
 
 (e) Appeal on the Original Record Without an Appendix. The district court or BAP may, either by rule for all cases or classes of cases or by order in a particular case, dispense with the appendix and permit an appeal to proceed on the original record, with the submission of any relevant parts of the record that the district court or BAP orders the parties to file.
 
-(Added Apr. 25, 2014, eff. Dec. 1,2014.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
 
 #### Prior Rule ####
 
@@ -7700,7 +7700,7 @@ Subdivision (d), which addresses the inclusion of exhibits in the appendix, is d
 
 (a) Party's Statement. Any party may file, or a district court or BAP may require, a statement explaining why oral argument should, or need not, be permitted.
 
-(b) Resumption of Oral Argument and Exceptions. Oral argument must be allowed in every case unless the district judge—or all the BAP judges assigned to hear the appeal—examine the briefs and record and determine that oral argument is unnecessary because
+(b) Presumption of Oral Argument and Exceptions. Oral argument must be allowed in every case unless the district judge—or all the BAP judges assigned to hear the appeal—examine the briefs and record and determine that oral argument is unnecessary because
 
 (1) the appeal is frivolous;
 
@@ -7712,7 +7712,7 @@ Subdivision (d), which addresses the inclusion of exhibits in the appendix, is d
 
 (d) Order and Contents of Argument. The appellant opens and concludes the argument. Counsel must not read at length from briefs, the record, or authorities.
 
-(e) Cross-appeals and Separate Appeals. If there is a cross-appeal, Rule 8016(b) determines which party is the appellant and which is the appellee for the purposes of oral argument. Unless the district court or BAP directs otherwise, a cross-appeal or separate appeal must be argued when the initial appeal is argued. Separate parties should avoid duplicative argument.
+(e) Cross-Appeals and Separate Appeals. If there is a cross-appeal, Rule 8016(b) determines which party is the appellant and which is the appellee for the purposes of oral argument. Unless the district court or BAP directs otherwise, a cross-appeal or separate appeal must be argued when the initial appeal is argued. Separate parties should avoid duplicative argument.
 
 (f) Nonappearance of a Party. If the appellee fails to appear for argument, the district court or BAP may hear the appellant's argument. If the appellant fails to appear for argument, the district court or BAP may hear the appellee's argument. If neither party appears, the case will be decided on the briefs unless the district court or BAP orders otherwise.
 
@@ -7740,7 +7740,7 @@ The remainder of this rule adopts the provisions of F.R.App.P. 34(b)–(g), with
 
 ### Rule 8020. Frivolous Appeal and Other Misconduct ###
 
-(a) Frivolous Appeal—damages and Costs. If the district court or BAP determines that an appeal is frivolous, it may, after a separately filed motion or notice from the court and reasonable opportunity to respond, award just damages and single or double costs to the appellee.
+(a) Frivolous Appeal—Damages and Costs. If the district court or BAP determines that an appeal is frivolous, it may, after a separately filed motion or notice from the court and reasonable opportunity to respond, award just damages and single or double costs to the appellee.
 
 (b) Other Misconduct. The district court or BAP may discipline or sanction an attorney or party appearing before it for other misconduct, including failure to comply with any court order. First, however, the court must afford the attorney or party reasonable notice, an opportunity to show cause to the contrary, and, if requested, a hearing.
 
@@ -7828,7 +7828,7 @@ The clerk of the district court or BAP must dismiss an appeal if the parties fil
 
 #### Committee Notes on Rules—2014 ####
 
-This rule is derived from former Rule 8001(c) and F.R.App.P. 42. The provision of the former rule regarding dismissal of appeals in the bankruptcy court prior to docketing of the appeal has been deleted. Now that docketing occurs promptly after a notice of appeal is filed, see Rules 8003(d) and 8004(c), an appeal likely will not be voluntarily dismissed before docketing.
+This rule is derived from former Rule 8001(c) and F.R.App.P. 42. The provision of the former rule regarding dismissal of appeals in the bankruptcy court prior to docketing of the appeal has been deleted. Now that docketing occurs promptly after a notice of appeal is filed, *see* Rules 8003(d) and 8004(c), an appeal likely will not be voluntarily dismissed before docketing.
 
 The rule retains the provision of the former rule that the district or BAP clerk must dismiss an appeal upon the parties' agreement. District courts and BAPs continue to have discretion to dismiss an appeal on an appellant's motion. Nothing in the rule prohibits a district court or BAP from dismissing an appeal for other reasons authorized by law, such as the failure to prosecute an appeal.	
 
@@ -7898,7 +7898,7 @@ This rule is derived from former Rule 8017. Most of the changes to the former ru
 
 (3) *Limitation on Imposing Requirements of Form*. A local rule imposing a requirement of form must not be enforced in a way that causes a party to lose any right because of a nonwillful failure to comply.
 
-(b) Procedure When There Is No Controlling law.
+(b) Procedure When There is No Controlling Law.
 
 (1) *In General*. A district court or BAP may regulate practice in any manner consistent with federal law, applicable federal rules, the Official Forms, and local rules.
 

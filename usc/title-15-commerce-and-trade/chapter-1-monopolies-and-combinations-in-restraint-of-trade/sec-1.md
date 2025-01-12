@@ -26,6 +26,10 @@ Pub. L. 107–72, §4, Nov. 20, 2001, 115 Stat. 650, provided that: "This Act [e
 
 Pub. L. 94–145, §4, Dec. 12, 1974, 89 Stat. 801, provided that: "The amendments made by sections 2 and 3 of this Act [amending this section and section 45 of this title] shall take effect upon the expiration of the ninety-day period which begins on the date of enactment of this Act [Dec. 12, 1975]."
 
+#### Short Title of 2015 Amendment ####
+
+Pub. L. 114–44, §1, Aug. 6, 2015, 129 Stat. 472, provided that: "This Act [amending provisions set out as a note under this section] may be cited as the 'Need-Based Educational Aid Act of 2015'."
+
 #### Short Title of 2009 Amendment ####
 
 Pub. L. 111–30, §1, June 19, 2009, 123 Stat. 1775, provided that: "This Act [enacting and amending provisions set out as notes under this section] may be cited as the 'Antitrust Criminal Penalty Enhancement and Reform Act of 2004 Extension Act'."
@@ -350,17 +354,15 @@ Pub. L. 107–72, §3, Nov. 20, 2001, 115 Stat. 648, provided that:
 
 "(2) Non-participating institutions.—Nothing in this subsection shall be construed to require an institution of higher education that does not participate under the antitrust exemption under section 568 of the Improving America's Schools Act of 1994 (15 U.S.C. 1 note) to collect and maintain data under this subsection."
 
-Pub. L. 103–382, title V, §568(a)–(d), Oct. 20, 1994, 108 Stat. 4060, 4061, as amended by Pub. L. 105–43, §2(a), Sept. 17, 1997, 111 Stat. 1140; Pub. L. 105–244, title I, §102(a)(3), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–72, §2, Nov. 20, 2001, 115 Stat. 648; Pub. L. 110–327, §2, Sept. 30, 2008, 122 Stat. 3566, provided that:
+Pub. L. 103–382, title V, §568(a)–(d), Oct. 20, 1994, 108 Stat. 4060, 4061, as amended by Pub. L. 105–43, §2(a), Sept. 17, 1997, 111 Stat. 1140; Pub. L. 105–244, title I, §102(a)(3), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–72, §2, Nov. 20, 2001, 115 Stat. 648; Pub. L. 110–327, §2, Sept. 30, 2008, 122 Stat. 3566; Pub. L. 114–44, §2, Aug. 6, 2015, 129 Stat. 472, provided that:
 
 "(a) Exemption.—It shall not be unlawful under the antitrust laws for 2 or more institutions of higher education at which all students admitted are admitted on a need-blind basis, to agree or attempt to agree—
 
 "(1) to award such students financial aid only on the basis of demonstrated financial need for such aid;
 
-"(2) to use common principles of analysis for determining the need of such students for financial aid if the agreement to use such principles does not restrict financial aid officers at such institutions in their exercising independent professional judgment with respect to individual applicants for such financial aid;
+"(2) to use common principles of analysis for determining the need of such students for financial aid if the agreement to use such principles does not restrict financial aid officers at such institutions in their exercising independent professional judgment with respect to individual applicants for such financial aid; or
 
-"(3) to use a common aid application form for need-based financial aid for such students if the agreement to use such form does not restrict such institutions in their requesting from such students, or in their using, data in addition to the data requested on such form; or
-
-"(4) to exchange through an independent third party, before awarding need-based financial aid to any of such students who is commonly admitted to the institutions of higher education involved, data submitted by the student so admitted, the student's family, or a financial institution on behalf of the student or the student's family relating to assets, liabilities, income, expenses, the number of family members, and the number of the student's siblings in college, if each of such institutions of higher education is permitted to retrieve such data only once with respect to the student.
+"(3) to use a common aid application form for need-based financial aid for such students if the agreement to use such form does not restrict such institutions in their requesting from such students, or in their using, data in addition to the data requested on such form.
 
 "(b) Limitations.—Subsection (a) shall not apply with respect to—
 
@@ -384,6 +386,6 @@ Pub. L. 103–382, title V, §568(a)–(d), Oct. 20, 1994, 108 Stat. 4060, 4061,
 
 "(7) the term 'student' means, with respect to an institution of higher education, a national of the United States or an alien admitted for permanent residence who is admitted to attend an undergraduate program at such institution on a full-time basis.
 
-"(d) Expiration.—Subsection (a) shall expire on September 30, 2015."
+"(d) Expiration.—Subsection (a) shall expire on September 30, 2022."
 
 [Pub. L. 105–43, §2(b), Sept. 17, 1997, 111 Stat. 1140, provided that: "The amendments made by subsection (a) [amending section 568(a)–(d) of Pub. L. 103–382, set out above] shall take effect immediately before September 30, 1997."]
