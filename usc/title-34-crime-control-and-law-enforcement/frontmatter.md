@@ -79,6 +79,8 @@ Subtitle VI—Other Crime Control and Law Enforcement Matters
 
 605. Recidivism Prevention 60501
 
+607. Project Safe Neighborhoods Block Grant Program 60701
+
 #### Prior Provisions ####
 
 A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 70A Stat. 1, which revised and codified the statutory provisions that related to the Army, Navy, Air Force, and Marine Corps, and enacted those provisions into law as Title 10, Armed Forces. For distribution of provisions of former Title 34 in Title 10, see Table II, set out preceding the text of Title 10.
@@ -241,7 +243,7 @@ A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 7
 |                                                      42:3750 note (Pub. L. 109–162, title XI, §1111(d), Jan. 5, 2006, 119 Stat. 3102)                                                      |           34:10151 note           |
 |                                                                                          42:3751                                                                                           |             34:10152              |
 |                                                                                          42:3752                                                                                           |             34:10153              |
-|                                                  42:3752 note (Pub. L. 114–255, div. B, title XIV, §14011, Dec. 13, 2016, 130 Stat. 1297                                                   |           34:10153 note           |
+|                                                  42:3752 note (Pub. L. 114–255, div. B, title XIV, §14011, Dec. 13, 2016, 130 Stat. 1297)                                                  |           34:10153 note           |
 |                                                           42:3752 note (Pub. L. 114–324, §14(c), Dec. 16, 2016, 130 Stat. 1959)                                                            |           34:10153 note           |
 |                                                                                          42:3753                                                                                           |             34:10154              |
 |                                                                                          42:3754                                                                                           |             34:10155              |
