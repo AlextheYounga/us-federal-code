@@ -296,7 +296,7 @@ The term "derivative" means any contract (including any option, forward contract
 
 Such term shall not include any item described in clauses (i) through (v).
 
-#### (B) Treatment of american depository receipts and similar instruments ####
+#### (B) Treatment of American depository receipts and similar instruments ####
 
 Except as otherwise provided by the Secretary, for purposes of this part, American depository receipts (and similar instruments) with respect to shares of stock in foreign corporations shall be treated as shares of stock in such foreign corporations.
 

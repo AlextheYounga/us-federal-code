@@ -590,7 +590,7 @@ In the case of a taxable year beginning after December 31, 2017, and before Janu
 
 The following table shall be applied in lieu of the table contained in subsection (a):
 
-|    **"If taxable income is:**     |                **The tax is:**                |
+|     **If taxable income is:**     |                **The tax is:**                |
 |-----------------------------------|-----------------------------------------------|
 |         Not over $19,050          |            10% of taxable income.             |
 | Over $19,050 but not over $77,400 | $1,905, plus 12% of the excess over $19,050.  |
@@ -604,7 +604,7 @@ The following table shall be applied in lieu of the table contained in subsectio
 
 The following table shall be applied in lieu of the table contained in subsection (b):
 
-|    **"If taxable income is:**     |                **The tax is:**                |
+|     **If taxable income is:**     |                **The tax is:**                |
 |-----------------------------------|-----------------------------------------------|
 |         Not over $13,600          |            10% of taxable income.             |
 | Over $13,600 but not over $51,800 | $1,360, plus 12% of the excess over $13,600.  |
@@ -618,7 +618,7 @@ The following table shall be applied in lieu of the table contained in subsectio
 
 The following table shall be applied in lieu of the table contained in subsection (c):
 
-|    **"If taxable income is:**     |                 **The tax is:**                  |
+|     **If taxable income is:**     |                 **The tax is:**                  |
 |-----------------------------------|--------------------------------------------------|
 |          Not over $9,525          |              10% of taxable income.              |
 | Over $9,525 but not over $38,700  |   $952.50, plus 12% of the excess over $9,525.   |
@@ -632,7 +632,7 @@ The following table shall be applied in lieu of the table contained in subsectio
 
 The following table shall be applied in lieu of the table contained in subsection (d):
 
-|    **"If taxable income is:**     |                 **The tax is:**                 |
+|     **If taxable income is:**     |                 **The tax is:**                 |
 |-----------------------------------|-------------------------------------------------|
 |          Not over $9,525          |             10% of taxable income.              |
 | Over $9,525 but not over $38,700  |  $952.50, plus 12% of the excess over $9,525.   |
@@ -646,7 +646,7 @@ The following table shall be applied in lieu of the table contained in subsectio
 
 The following table shall be applied in lieu of the table contained in subsection (e):
 
-|   **"If taxable income is:**   |                **The tax is:**                |
+|   **If taxable income is:**    |                **The tax is:**                |
 |--------------------------------|-----------------------------------------------|
 |        Not over $2,550         |            10% of taxable income.             |
 |Over $2,550 but not over $9,150 |   $255, plus 24% of the excess over $2,550.   |

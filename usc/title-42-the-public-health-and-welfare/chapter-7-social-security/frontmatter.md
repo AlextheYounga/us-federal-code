@@ -62,6 +62,8 @@ Sec.
 
 418. Voluntary agreements for coverage of State and local employees.
 
+418a. Voluntary agreements for coverage of Indian tribal council members.
+
 419. Repealed.
 
 420. Disability provisions inapplicable if benefit rights impaired.
@@ -936,7 +938,7 @@ Sec.
 
 1395w–111. PDP regions; submission of bids; plan approval.
 
-1396w–112. Requirements for and contracts with prescription drug plan (PDP) sponsors.
+1395w–112. Requirements for and contracts with prescription drug plan (PDP) sponsors.
 
 1395w–113. Premiums; late enrollment penalty.
 

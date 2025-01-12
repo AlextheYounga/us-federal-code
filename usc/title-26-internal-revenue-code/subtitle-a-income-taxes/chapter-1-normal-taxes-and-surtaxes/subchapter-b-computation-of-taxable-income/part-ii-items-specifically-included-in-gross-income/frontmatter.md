@@ -84,4 +84,4 @@ Pub. L. 89–384, §1(b)(2), Apr. 8, 1966, 80 Stat. 102, added item 80.
 
 **1962**—Pub. L. 87–834, §9(d)(1), Oct. 16, 1962, 76 Stat. 1001, added item 78.
 
-[<sup>1</sup> Section catchline amended by Pub. L. 115–79 without corresponding amendment of analysis.](#I_1)
+[<sup>1</sup> Section catchline amended by Pub. L. 115–97 without corresponding amendment of analysis.](#I_1)
