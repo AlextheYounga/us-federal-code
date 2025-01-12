@@ -146,7 +146,7 @@ Sec.
 
 [356. Repealed.]
 
-357. Involuntary retirement of enlisted members.
+357. Retirement of enlisted members: increase in retired pay.
 
 [358. Repealed.]
 
@@ -200,9 +200,13 @@ Sec.
 
 428. Sea service letters.
 
-#### SPECIAL PROVISIONS ####
+429. Multirater assessment of certain personnel.
 
-[431. Repealed.]
+430. Investigations of flag officers and Senior Executive Service employees.
+
+431. Leave policies for the Coast Guard.
+
+#### SPECIAL PROVISIONS ####
 
 432. Personnel of former Lighthouse Service.
 
@@ -215,6 +219,8 @@ This chapter, dealing with the appointment, enlistment, promotion, retirement an
 The subject matter seemed to break down into the sub-heads of "Commissioned Officers", "Warrant Officers", "Enlisted Men", and "General Provisions". Each of the first three sub-heads parallels the other two, insofar as the applicability of statutes of the three groups permits. The last sub-head includes the broad provisions which, in the same terms, can be made applicable to all military personnel. In accord with existing Navy and Coast Guard law, the term "commissioned officer" includes commissioned warrant officers unless specifically excepted, or manifestly inapplicable. Heretofore Coast Guard statutes have designated commissioned warrant officers as chief warrant officers; in line with Navy designation it is changed to commissioned warrant officers throughout this title. Terms such as "Coast Guard personnel" or "personnel of the Coast Guard", as used throughout this title, are intended to include all employees of the Service, civilian and military. 81st Congress, House Report No. 557.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–120, title II, §214(a)(2), 215(b)(2), 220(b), 222(b), Feb. 8, 2016, 130 Stat. 43, 46, 48, 50, added items 357, 429, 430, and 431 and struck out former item 357 "Involuntary retirement of enlisted members".
 
 **2014**—Pub. L. 113–281, title II, §212(b), title III, §305(b)(2), Dec. 18, 2014, 128 Stat. 3029, 3044, added items 296 and 428.
 
@@ -276,4 +282,4 @@ Act June 8, 1955, ch. 136, §1, 69 Stat. 88, added item 370.
 
 #### Year-End Strength for Active Duty Personnel and Average Military Training Student Loads for Each Fiscal Year After Fiscal Year 1977; Authorization and Appropriations ####
 
-Pub. L. 94–406, §6, Sept. 10, 1976, 90 Stat. 1236, which had required that Congress set the active duty end strength and average training student loads for each fiscal year for the Coast Guard, appropriations for those years not to be spent relating to those areas until Congress made such determination, was repealed and reenacted as section 661 of this title by Pub. L. 97–295, §§2(20)(A), 6(b), Oct. 12, 1982, 96 Stat. 1302, 1314.
+Pub. L. 94–406, §6, Sept. 10, 1976, 90 Stat. 1236, which had required that Congress set the active duty end strength and average training student loads for each fiscal year for the Coast Guard, appropriations for those years not to be spent relating to those areas until Congress made such determination, was repealed and reenacted as section 661 of this title by Pub. L. 97–295, §§2(20)(A), 6(b), Oct. 12, 1982, 96 Stat. 1302, 1314 and subsequently transferred to section 2703 of this title by Pub. L. 114–120, title I, §101(c), Feb. 8, 2016, 130 Stat. 31.

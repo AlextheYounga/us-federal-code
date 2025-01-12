@@ -18,7 +18,11 @@ Sec.
 
 4048. Fees for health care services for prisoners.
 
+4049. Officers and employees of the Bureau of Prisons authorized to carry oleoresin capsicum spray.
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–133, §2(b), Mar. 9, 2016, 130 Stat. 297, added item 4049.
 
 **2000**—Pub. L. 106–294, §2(b), Oct. 12, 2000, 114 Stat. 1040, added item 4048.
 

@@ -206,7 +206,7 @@ A prior section 21 of act Sept. 21, 1922, ch. 369, as added by Pub. L. 96–276,
 
 Subsec. (c)(7)(E)(iv). Pub. L. 114–94, §86001(b)(1)(B), added cl. (iv).
 
-Subsec. (d). Pub. L. 114–94, §86001(b)(2), added subsec. (d) and struck out former subsec. (d) related to confidentiality and indemnification agreement.
+Subsec. (d). Pub. L. 114–94, §86001(b)(2), added subsec. (d) and struck out former subsec. (d) which related to confidentiality and indemnification agreement.
 
 #### Effective Date of 2015 Amendment ####
 

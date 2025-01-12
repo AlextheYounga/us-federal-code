@@ -6,6 +6,8 @@ Sec.
 
 1472. Special packaging standards.
 
+1472a. Special packaging for liquid nicotine containers.
+
 1473. Conventional packages, marketing.
 
 1474. Regulations for special packaging standards.

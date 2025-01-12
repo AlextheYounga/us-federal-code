@@ -22,7 +22,7 @@ Sec.
 
 708. Temporary members of the Reserve; certificate of honorable service.
 
-709. Reserve student aviation pilots; reserve aviation pilots; appointments in commissioned grade. 1
+709. Reserve student aviation pilots; Reserve aviation pilots; appointments in commissioned grade.
 
 709a. Reserve student pre-commissioning assistance program.
 
@@ -78,7 +78,7 @@ Sec.
 
 739. Failure of selection for promotion.
 
-740. Failure of selection and removal from active status. 2
+740. Failure of selection and removal from an active status.
 
 741. Retention boards; removal from an active status to provide a flow of promotion.
 
@@ -93,6 +93,8 @@ Sec.
 746. Recall of a retired officer; grade upon release.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–120, title II, §209(12), Feb. 8, 2016, 130 Stat. 41, substituted "Reserve student aviation pilots; Reserve aviation pilots; appointments in commissioned grade" for "Reserve student aviation pilots; reserve aviation pilots; appointments in commissioned grade" in item 709 and "Failure of selection and removal from an active status" for "Failure of selection and removal from active status" in item 740.
 
 **2002**—Pub. L. 107–295, title IV, §413(b), Nov. 25, 2002, 116 Stat. 2120, added item 709a.
 
@@ -121,7 +123,3 @@ Pub. L. 87–649, §7(d), Sept. 7, 1962, 76 Stat. 495, substituted "Benefits" fo
 **1958**—Pub. L. 85–861, §5(3), Sept. 2, 1958, 72 Stat. 1555, added heading "Commissioned Officers" and items 770 to 795.
 
 **1956**—Act Aug. 10, 1956, ch. 1041, §§15(b), 16(b), 70A Stat. 625, 626, added items 751a, 752a, 753a, 758a, and 759a.
-
-[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER21_1)
-
-[<sup>2</sup> So in original. Does not conform to section catchline.](#CHAPTER21_2)

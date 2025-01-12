@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-The Secretary shall establish within the Department a social media working group (in this section referred to as the 'Group').
+The Secretary shall establish within the Department a social media working group (in this section referred to as the "Group").
 
 #### (b) Purpose ####
 

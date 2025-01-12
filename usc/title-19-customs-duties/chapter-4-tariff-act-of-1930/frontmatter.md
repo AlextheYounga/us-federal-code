@@ -258,7 +258,7 @@ Sec.
 
 1500. Appraisement, classification, and liquidation procedure.
 
-1501. Voluntary reliquidations by Customs Service.
+1501. Voluntary reliquidations by U.S. Customs and Border Protection.
 
 1502. Regulations for appraisement and classification.
 
@@ -294,7 +294,9 @@ Sec.
 
 1516a. Judicial review in countervailing duty and antidumping duty proceedings.
 
-1517 to 1519. Repealed.
+1517. Procedures for investigating claims of evasion of antidumping and countervailing duty orders
+
+1518, 1519. Repealed.
 
 1520. Refunds and errors.
 
@@ -461,6 +463,8 @@ Sec.
 1627a. Unlawful importation or exportation of certain vehicles; inspections.
 
 1628. Exchange of information.
+
+1628a. Exchange of information related to trade enforcement.
 
 1629. Inspections and preclearance in foreign countries.
 

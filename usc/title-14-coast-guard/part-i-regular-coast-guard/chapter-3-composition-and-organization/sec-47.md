@@ -1,8 +1,8 @@
-### §47. Vice commandant; <sup><a href="#46_1_target" name="46_1">1</a></sup> appointment ###
+### §47. Vice Commandant; appointment ###
 
-The President may appoint, by and with the advice and consent of the Senate, one Vice Commandant who shall rank next after the Commandant, shall perform such duties as the Commandant may prescribe and shall act as Commandant during the absence or disability of the Commandant or in the event that there is a vacancy in the office of Commandant. The Vice Commandant shall be selected from the officers on the active duty promotion list serving above the grade of captain. The Commandant shall make recommendation for such appointment. The Vice Commandant shall, while so serving, have the grade of vice admiral with pay and allowances of that grade. The appointment and grade of a Vice Commandant shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in section 51(d) of this title.
+The President may appoint, by and with the advice and consent of the Senate, one Vice Commandant who shall rank next after the Commandant, shall perform such duties as the Commandant may prescribe and shall act as Commandant during the absence or disability of the Commandant or in the event that there is a vacancy in the office of Commandant. The Vice Commandant shall be selected from the officers on the active duty promotion list serving above the grade of captain. The Commandant shall make recommendation for such appointment. The Vice Commandant shall, while so serving, have the grade of admiral with pay and allowances of that grade. The appointment and grade of a Vice Commandant shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in section 51(d) of this title.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 499; Pub. L. 86–474, §1(6), May 14, 1960, 74 Stat. 144; Pub. L. 88–130, §1(5), (6), Sept. 24, 1963, 77 Stat. 175; Pub. L. 89–444, §1(6), (7), June 9, 1966, 80 Stat. 195; Pub. L. 92–451, §1(4), Oct. 2, 1972, 86 Stat. 755; Pub. L. 97–295, §2(2), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 99–348, title II, §205(b)(2), July 1, 1986, 100 Stat. 700; Pub. L. 103–206, title II, §204(b)(1), Dec. 20, 1993, 107 Stat. 2421; Pub. L. 111–281, title V, §511(f)(1), (g), Oct. 15, 2010, 124 Stat. 2952, 2953.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 499; Pub. L. 86–474, §1(6), May 14, 1960, 74 Stat. 144; Pub. L. 88–130, §1(5), (6), Sept. 24, 1963, 77 Stat. 175; Pub. L. 89–444, §1(6), (7), June 9, 1966, 80 Stat. 195; Pub. L. 92–451, §1(4), Oct. 2, 1972, 86 Stat. 755; Pub. L. 97–295, §2(2), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 99–348, title II, §205(b)(2), July 1, 1986, 100 Stat. 700; Pub. L. 103–206, title II, §204(b)(1), Dec. 20, 1993, 107 Stat. 2421; Pub. L. 111–281, title V, §511(f)(1), (g), Oct. 15, 2010, 124 Stat. 2952, 2953; Pub. L. 114–120, title II, §§201(b), 209(3), Feb. 8, 2016, 130 Stat. 33, 40.)
 
 #### Historical and Revision Notes ####
 
@@ -13,6 +13,10 @@ Said sections have been divided. The provisions of the proviso of title 14, U.S.
 The provisions regarding appointment of the Assistant Commandant and Engineer in Chief are coordinated, inasmuch as these positions are about equal in the Coast Guard organization. The qualification that the Engineer in Chief be appointed from the active list of engineering officers is changed to the active list of officers who have qualified for engineering duty, because there is no longer any provision for a corps of engineering officers. 81st Congress, House Report No. 557.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–120, §209(3), substituted "Commandant" for "commandant" in heading.
+
+Pub. L. 114–120, §201(b), substituted "admiral" for "vice admiral".
 
 **2010**—Pub. L. 111–281 substituted "Vice commandant; appointment" for "Vice Commandant; assignment" in section catchline and "section 51(d)" for "subsection 51(d)" in text.
 
@@ -53,5 +57,3 @@ Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation b
 #### Effective Date of Higher Grade and Increased Pay and Allowances ####
 
 The increased grade of vice admiral for the Vice Commandant, including the pay and allowances applicable to such grade, effective on the first day of the month following May 14, 1960, see section 2 of Pub. L. 86–474, set out as a note under section 44 of this title.
-
-[<sup>1</sup> So in original. Probably should be capitalized.](#47_1)

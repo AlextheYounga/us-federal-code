@@ -10,6 +10,8 @@ Sec.
 
 212a. Restriction of passports for sex tourism.
 
+212b. Unique passport identifiers for covered sex offenders.
+
 213. Application for passport; verification by oath of initial passport.
 
 214. Fees for execution and issuance of passports; persons excused from payment.

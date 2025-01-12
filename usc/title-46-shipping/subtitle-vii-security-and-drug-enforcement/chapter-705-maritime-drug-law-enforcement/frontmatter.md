@@ -6,7 +6,7 @@ Sec.
 
 70502. Definitions.
 
-70503. Manufacture, distribution, or possession of controlled substances on vessels.
+70503. Prohibited acts.
 
 70504. Jurisdiction and venue.
 
@@ -16,10 +16,10 @@ Sec.
 
 70507. Forfeitures.
 
-70508. Operation of submersible vessel or semi-submersible vessel without nationality 1
+70508. Operation of submersible vessel or semi-submersible vessel without nationality.
 
 #### Amendments ####
 
-**2008**—Pub. L. 110–407, title II, §202(b)(1), Oct. 13, 2008, 122 Stat. 4300, added item 70508.
+**2016**—Pub. L. 114–120, title III, §§306(a)(12), 314(e)(2), Feb. 8, 2016, 130 Stat. 55, 59, inserted period at end of item 70508, added item 70503, and struck out former item 70503 "Manufacture, distribution, or possession of controlled substances on vessels."
 
-[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER705_1)
+**2008**—Pub. L. 110–407, title II, §202(b)(1), Oct. 13, 2008, 122 Stat. 4300, added item 70508.

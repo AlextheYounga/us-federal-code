@@ -4,7 +4,7 @@
 
 (b) A member of the Auxiliary while assigned to duty shall be deemed to be a Federal employee only for the purposes of the following:
 
-(1) Chapter 26 <sup><a href="#823a_1_target" name="823a_1">1</a></sup> of title 28 (popularly known as the Federal Tort Claims Act).
+(1) Chapter 171 of title 28 (popularly known as the Federal Tort Claims Act).
 
 (2) Section 2733 of title 10 (popularly known as the Military Claims Act).
 
@@ -24,7 +24,7 @@
 
 (c) A member of the Auxiliary, while assigned to duty, shall be deemed to be a person acting under an officer of the United States or an agency thereof for purposes of section 1442(a)(1) of title 28.
 
-(Added Pub. L. 104–324, title IV, §403(a), Oct. 19, 1996, 110 Stat. 3923; amended Pub. L. 107–295, title IV, §415, Nov. 25, 2002, 116 Stat. 2121; Pub. L. 109–304, §17(c), Oct. 6, 2006, 120 Stat. 1707.)
+(Added Pub. L. 104–324, title IV, §403(a), Oct. 19, 1996, 110 Stat. 3923; amended Pub. L. 107–295, title IV, §415, Nov. 25, 2002, 116 Stat. 2121; Pub. L. 109–304, §17(c), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 114–120, title II, §209(15), Feb. 8, 2016, 130 Stat. 41.)
 
 #### References in Text ####
 
@@ -33,6 +33,8 @@ The Military Personnel and Civilian Employees' Claims Act of 1964, referred to i
 Section 651 of Public Law 104–208, referred to in subsec. (b)(9), is section 101(f) [title VI, §651] of Pub. L. 104–208, which is set out as a note under section 8133 of Title 5, Government Organization and Employees.
 
 #### Amendments ####
+
+**2016**—Subsec. (b)(1). Pub. L. 114–120 substituted "Chapter 171" for "Chapter 26".
 
 **2006**—Subsec. (b)(3) to (5). Pub. L. 109–304 added pars (3) to (5) and struck out former pars. (3) to (5) which read as follows:
 
@@ -43,5 +45,3 @@ Section 651 of Public Law 104–208, referred to in subsec. (b)(9), is section 1
 "(5) The Act of June 19, 1948 (46 App. U.S.C. 740; popularly known as the Admiralty Extension Act)."
 
 **2002**—Subsec. (b)(9). Pub. L. 107–295 added par. (9).
-
-[<sup>1</sup> So in original. Probably should be 171.](#823a_1)

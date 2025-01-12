@@ -20,7 +20,7 @@ If a judgment is entered for the United States in a civil forfeiture proceeding 
 
 (4) the compromise of claims;
 
-shall apply to any forfeiture ordered, and to any case in which forfeiture is alleged to be authorized, under this section, unless such provisions are inconsistent with the purposes, policy, and provisions of this subchapter. The duties and powers imposed upon the Commissioner of Customs or other persons under such provisions shall, with respect to this subchapter, be performed by officers or other persons designated for such purpose by the Secretary.
+shall apply to any forfeiture ordered, and to any case in which forfeiture is alleged to be authorized, under this section, unless such provisions are inconsistent with the purposes, policy, and provisions of this subchapter. The duties and powers imposed upon the Commissioner of U.S. Customs and Border Protection or other persons under such provisions shall, with respect to this subchapter, be performed by officers or other persons designated for such purpose by the Secretary.
 
 #### (d) Bond or other security; disposal of seized fish ####
 
@@ -38,7 +38,11 @@ upon the receipt of a satisfactory bond or other security from any person claimi
 
 For purposes of this section, it shall be a rebuttable presumption that all fish found on board a fishing vessel which is seized in connection with an act prohibited by section 773e of this title were taken or retained in violation of the Convention and this subchapter.
 
-(Pub. L. 97–176, §10, May 17, 1982, 96 Stat. 81.)
+(Pub. L. 97–176, §10, May 17, 1982, 96 Stat. 81; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+
+#### Change of Name ####
+
+"Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (c) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
 
 #### Transfer of Functions ####
 

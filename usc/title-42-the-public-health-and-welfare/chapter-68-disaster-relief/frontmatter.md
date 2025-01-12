@@ -80,6 +80,8 @@ Sec.
 
 5165d. Designation of Small State and Rural Advocate.
 
+5165e. Integrated plan for administrative cost reduction.
+
 #### SUBCHAPTER IV—MAJOR DISASTER ASSISTANCE PROGRAMS ####
 
 5170. Procedure for declaration.

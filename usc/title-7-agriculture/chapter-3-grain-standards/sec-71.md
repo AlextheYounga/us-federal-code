@@ -20,7 +20,7 @@ Amendment by Pub. L. 90–487 effective 180 days after Aug. 15, 1968, see sectio
 
 #### Short Title of 2015 Amendment ####
 
-Pub. L. 114–54, §1, Sept. 30, 2015, 129 Stat. 513, provided that: "This Act [amending sections 77, 79, 79a, 79d, 84, 87h, 87j, 1635i, 1635j, and 1636i of this title and sections 583j–2, 583j–3, 583j–5, and 583j–8 of Title 16, Conservation, enacting provisions set out as a note under section 1635m of this title, and amending provisions set out as a note under section 1635 of this title] may be cited as the 'Agriculture Reauthorizations Act of 2015'."
+Pub. L. 114–54, §1(a), Sept. 30, 2015, 129 Stat. 513, provided that: "This Act [amending sections 77, 79, 79a, 79d, 84, 87h, 87j, 1635i, 1635j, and 1636i of this title and sections 583j–2, 583j–3, 583j–5, and 583j–8 of Title 16, Conservation, enacting provisions set out as a note under section 1635m of this title, and amending provisions set out as a note under section 1635 of this title] may be cited as the 'Agriculture Reauthorizations Act of 2015'."
 
 #### Short Title of 2000 Amendment ####
 

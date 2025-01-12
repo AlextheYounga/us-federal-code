@@ -148,19 +148,19 @@ Sec.
 
 195d. Social media working group.
 
-#### SUBCHAPTER IV—DIRECTORATE OF BORDER AND TRANSPORTATION SECURITY ####
+#### SUBCHAPTER IV—BORDER, MARITIME, AND TRANSPORTATION SECURITY ####
 
-#### Part A—Under Secretary for Border and Transportation Security ####
+#### Part A—Border, Maritime, and Transportation Security Responsibilities and Functions ####
 
-201. Under Secretary for Border and Transportation Security.
+201. Repealed.
 
-202. Responsibilities.
+202. Border, maritime, and transportation responsibilities.
 
 203. Functions transferred.
 
-#### Part B—United States Customs Service ####
+#### Part B—U.S. Customs and Border Protection ####
 
-211. Establishment; Commissioner of Customs.
+211. Establishment of U.S. Customs and Border Protection; Commissioner, Deputy Commissioner, and operational offices.
 
 212. Retention of Customs revenue functions by Secretary of the Treasury.
 
@@ -170,11 +170,11 @@ Sec.
 
 215. Definition.
 
-216. GAO report to Congress.
+216. Repealed.
 
 217. Allocation of resources by the Secretary.
 
-218. Reports to Congress.
+218. Repealed.
 
 220. Methamphetamine and methamphetamine precursor chemicals.
 
@@ -208,7 +208,7 @@ Sec.
 
 #### Part D—Immigration Enforcement Functions ####
 
-251. Transfer of functions to Under Secretary for Border and Transportation Security.
+251. Transfer of functions.
 
 252. Establishment of Bureau of Border Security.
 

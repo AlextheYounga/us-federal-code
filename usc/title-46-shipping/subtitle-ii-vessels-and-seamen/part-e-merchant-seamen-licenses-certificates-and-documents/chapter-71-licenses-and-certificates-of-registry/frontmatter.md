@@ -32,7 +32,11 @@ Sec.
 
 7115. Merchant Mariner Medical Advisory Committee.
 
+7116. Examinations for merchant mariner credentials.
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–120, title III, §315(b)(2), Feb. 8, 2016, 130 Stat. 62, added item 7116.
 
 **2010**—Pub. L. 111–281, title II, §210(c), Oct. 15, 2010, 124 Stat. 2914, added item 7115.
 

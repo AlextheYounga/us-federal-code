@@ -114,6 +114,8 @@ Sec.
 
 2254. Monitoring, modification, and termination of action.
 
+2255. Trade monitoring.
+
 #### Part 2—Adjustment Assistance for Workers ####
 
 #### subpart a—petitions and determinations ####
@@ -284,7 +286,7 @@ Sec.
 
 2419. Administration.
 
-2420. Identification of trade expansion priorities.
+2420. Trade enforcement priorities.
 
 #### SUBCHAPTER IV—TRADE RELATIONS WITH COUNTRIES NOT RECEIVING NONDISCRIMINATORY TREATMENT ####
 

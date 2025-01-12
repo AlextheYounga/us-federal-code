@@ -40,6 +40,18 @@ Pub. L. 85–726, title XV, §1505(2), Aug. 23, 1958, 72 Stat. 810, provided tha
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
+#### Discontinuance of an Aid to Navigation ####
+
+Pub. L. 114–120, title II, §210, Feb. 8, 2016, 130 Stat. 41, provided that:
+
+"(a) In General.—Not later than 180 days after the date of the enactment of this Act [Feb. 8, 2016], the Secretary of the department in which the Coast Guard is operating shall establish a process for the discontinuance of an aid to navigation (other than a seasonal or temporary aid) established, maintained, or operated by the Coast Guard.
+
+"(b) Requirement.—The process established under subsection (a) shall include procedures to notify the public of any discontinuance of an aid to navigation described in that subsection.
+
+"(c) Consultation.—In establishing a process under subsection (a), the Secretary shall consult with and consider any recommendations of the Navigation Safety Advisory Council.
+
+"(d) Notification.—Not later than 30 days after establishing a process under subsection (a), the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the process established."
+
 #### Improved Safety Information for Vessels ####
 
 Pub. L. 113–281, title II, §228, Dec. 18, 2014, 128 Stat. 3040, provided that: "Not later than 1 year after the date of enactment of this Act [Dec. 18, 2014], the Secretary of the department in which the Coast Guard is operating shall establish a process that allows an operator of a marine exchange or other non-Federal vessel traffic information service to use the automatic identification system to transmit weather, ice, and other important navigation safety information to vessels."

@@ -54,6 +54,28 @@ Sec.
 
 16929. Immunity for good faith conduct.
 
+#### Part A–1—Advanced Notification of Traveling Sex Offenders ####
+
+16935. Findings.
+
+16935a. Definitions.
+
+16935b. Angel Watch Center.
+
+16935c. Notification by the United States Marshals Service.
+
+16935d. Implementation.
+
+16935e. Reciprocal notifications.
+
+16935f. Implementation plan.
+
+16935g. Technical assistance.
+
+16935h. Authorization of appropriations.
+
+16935i. Rule of construction.
+
 #### Part B—Improving Federal Criminal Law Enforcement To Ensure Sex Offender Compliance With Registration and Notification Requirements and Protection of Children From Violent Predators ####
 
 16941. Federal assistance with respect to violations of registration requirements.

@@ -16,7 +16,7 @@ Sec.
 
 46. Retirement of Commandant.
 
-47. Vice Commandant; appointment. 1
+47. Vice Commandant; appointment.
 
 [48, 49. Repealed.]
 
@@ -42,7 +42,11 @@ Sec.
 
 59. Marine industry training programs. 1
 
+60. Training course on workings of Congress.
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–120, title II, §214(b)(2), Feb. 8, 2016, 130 Stat. 45, added item 60.
 
 **2012**—Pub. L. 112–213, title II, §216(a), Dec. 20, 2012, 126 Stat. 1555, struck out item 55 "District Ombudsmen".
 

@@ -32,11 +32,11 @@ shall be liable to the United States for a civil penalty for each such violation
 
 #### (A) Action by the Secretary ####
 
-A civil penalty under subsection (a) of this section shall be assessed by the Secretary on a person by an order made on the record after an opportunity for an agency hearing on disputed issues of material fact and the amount of the penalty. In the course of any investigation or hearing under this subparagraph, the Secretary may administer oaths and affirmations, examine witnesses, receive evidence, and issue subpoenas requiring the attendance and testimony of witnesses and the production of evidence that relates to the matter under investigation.
+A civil penalty under subsection (a) shall be assessed by the Secretary on a person by an order made on the record after an opportunity for an agency hearing on disputed issues of material fact and the amount of the penalty. In the course of any investigation or hearing under this subparagraph, the Secretary may administer oaths and affirmations, examine witnesses, receive evidence, and issue subpoenas requiring the attendance and testimony of witnesses and the production of evidence that relates to the matter under investigation.
 
 #### (B) Action by the Attorney General ####
 
-In lieu of a proceeding under subparagraph (A), the Attorney General may, upon request of the Secretary, institute a civil action to recover a civil money penalty in the amount and for any of the acts set forth in subsection (a) of this section. Such an action may be instituted separately from or in connection with any other claim, civil or criminal, initiated by the Attorney General under this chapter.
+In lieu of a proceeding under subparagraph (A), the Attorney General may, upon request of the Secretary, institute a civil action to recover a civil money penalty in the amount and for any of the acts set forth in subsection (a). Such an action may be instituted separately from or in connection with any other claim, civil or criminal, initiated by the Attorney General under this chapter.
 
 #### (2) Amount ####
 
@@ -46,21 +46,21 @@ In determining the amount of a civil penalty under paragraph (1), the Secretary 
 
 No action may be initiated under this section—
 
-(A) with respect to any act described in subsection (a) of this section that occurred before May 13, 1992, or
+(A) with respect to any act described in subsection (a) that occurred before May 13, 1992, or
 
 (B) more than 6 years after the date when facts material to the act are known or reasonably should have been known by the Secretary but in no event more than 10 years after the date the act took place.
 
 #### (c) Judicial review ####
 
-Any person that is the subject of an adverse decision under subsection (b)(1)(A) of this section may obtain a review of such decision by the United States Court of Appeals for the District of Columbia or for the circuit in which the person resides, by filing in such court (within 60 days following the date the person is notified of the Secretary's decision) a petition requesting that the decision be modified or set aside.
+Any person that is the subject of an adverse decision under subsection (b)(1)(A) may obtain a review of such decision by the United States Court of Appeals for the District of Columbia or for the circuit in which the person resides, by filing in such court (within 60 days following the date the person is notified of the Secretary's decision) a petition requesting that the decision be modified or set aside.
 
 #### (d) Recovery of penalties ####
 
-The Attorney General may recover any civil penalty (plus interest at the currently prevailing rates from the date the penalty became final) assessed under subsection (b)(1)(A) of this section in an action brought in the name of the United States. The amount of such penalty may be deducted, when the penalty has become final, from any sums then or later owing by the United States to the person against whom the penalty has been assessed. In an action brought under this subsection, the validity, amount, and appropriateness of the penalty shall not be subject to judicial review.
+The Attorney General may recover any civil penalty (plus interest at the currently prevailing rates from the date the penalty became final) assessed under subsection (b)(1)(A) in an action brought in the name of the United States. The amount of such penalty may be deducted, when the penalty has become final, from any sums then or later owing by the United States to the person against whom the penalty has been assessed. In an action brought under this subsection, the validity, amount, and appropriateness of the penalty shall not be subject to judicial review.
 
 #### (e) Informants ####
 
-The Secretary may award to any individual (other than an officer or employee of the Federal Government or a person who materially participated in any conduct described in subsection (a) of this section) who provides information leading to the imposition of a civil penalty under this section an amount not to exceed—
+The Secretary may award to any individual (other than an officer or employee of the Federal Government or a person who materially participated in any conduct described in subsection (a)) who provides information leading to the imposition of a civil penalty under this section an amount not to exceed—
 
 (1) $250,000, or
 

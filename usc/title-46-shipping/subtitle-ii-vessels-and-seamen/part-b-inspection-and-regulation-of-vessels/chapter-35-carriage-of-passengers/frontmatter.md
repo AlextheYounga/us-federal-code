@@ -14,9 +14,9 @@ Sec.
 
 3506. Copies of laws.
 
-3507. Passenger vessel security and safety requirements 1
+3507. Passenger vessel security and safety requirements.
 
-3508. Crime scene preservation training for passenger vessel crewmembers 1
+3508. Crime scene preservation training for passenger vessel crewmembers.
 
 #### Historical and Revision Notes ####
 
@@ -24,6 +24,6 @@ Chapter 35 consolidates the laws that have specific application to the carriage 
 
 #### Amendments ####
 
-**2010**—Pub. L. 111–207, §3(b), July 27, 2010, 124 Stat. 2251, added items 3507 and 3508.
+**2016**—Pub. L. 114–120, title III, §306(a)(3), Feb. 8, 2016, 130 Stat. 54, inserted a period at end of items 3507 and 3508.
 
-[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER35_1)
+**2010**—Pub. L. 111–207, §3(b), July 27, 2010, 124 Stat. 2251, added items 3507 and 3508.

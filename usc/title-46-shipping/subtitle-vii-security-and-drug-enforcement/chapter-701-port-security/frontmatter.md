@@ -18,7 +18,7 @@ Sec.
 
 70107. Grants.
 
-70107A. Interagency operational centers for port security 1
+70107A. Interagency operational centers for port security.
 
 70108. Foreign port assessment.
 
@@ -28,7 +28,7 @@ Sec.
 
 70111. Enhanced crewmember identification.
 
-70112. Maritime security advisory committees. 2
+70112. Maritime Security Advisory Committees.
 
 70113. Maritime intelligence.
 
@@ -48,7 +48,7 @@ Sec.
 
 70121. Withholding of clearance.
 
-70122. Waterway watch program.
+70122. Waterway Watch Program.
 
 70123. Mobile biometric identification.
 
@@ -64,6 +64,8 @@ Sec.
 
 #### Amendments ####
 
+**2016**—Pub. L. 114–120, title III, §306(a)(8), Feb. 8, 2016, 130 Stat. 54, inserted a period at end of item 70107A and substituted "Security Advisory Committees" for "security advisory committees" in item 70112 and "Watch Program" for "watch program" in item 70122.
+
 **2010**—Pub. L. 111–281, title VIII, §828(c)(2), Oct. 15, 2010, 124 Stat. 3007, as amended by Pub. L. 111–330, §1(17)(B)–(D), Dec. 22, 2010, 124 Stat. 3570, added items for subchapters I and II and items 70131 and 70132.
 
 Pub. L. 111–281, title II, §208(b), title VIII, §§801(b), 804(b), 806(c)(2)(C), 807(b), 820(b), 821(c), Oct. 15, 2010, 124 Stat. 2912, 2989, 2991, 2993, 3001, 3003, substituted "Deployable, specialized forces" for "Maritime safety and security teams" in item 70106 and "Actions and assistance for foreign ports or facilities and United States territories" for "Actions and assistance for foreign ports and United States territories" in item 70110, struck out item 70117 "Firearms, arrests, and seizure of property", and added items 70122 to 70125.
@@ -77,7 +79,3 @@ Pub. L. 109–241, §901(l)(5), July 11, 2006, 120 Stat. 565, which directed ame
 **2004**—Pub. L. 108–293, title VIII, §802(c), Aug. 9, 2004, 118 Stat. 1080, added items 70117 "In rem liability for civil penalties and certain costs", 70118 "Enforcement by injunction or withholding of clearance", and 70119 "Civil penalty", and struck out former item 70119 "Enforcement by State and local officers".
 
 Pub. L. 108–293, title VIII, §801(b), Aug. 9, 2004, 118 Stat. 1078, added items 70118 "Enforcement" and 70119 "Enforcement by State and local officers".
-
-[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER701_1)
-
-[<sup>2</sup> So in original. Does not conform to section catchline.](#CHAPTER701_2)

@@ -122,6 +122,10 @@ Sec.
 
 1862q. Informal STEM education.
 
+1862r. Research in disabilities education.
+
+1862r–1. Dyslexia.
+
 1863. National Science Board.
 
 1864. Director of Foundation.

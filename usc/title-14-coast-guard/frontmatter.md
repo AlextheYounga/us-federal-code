@@ -9,7 +9,11 @@ I. Regular Coast Guard 1
 
 II. Coast Guard Reserve and Auxiliary 701
 
+III. Coast Guard Authorizations and Reports to Congress 2701
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–120, title I, §102(a), Feb. 8, 2016, 130 Stat. 32, added item for part III.
 
 **1986**—Pub. L. 99–640, §10(a)(1), Nov. 10, 1986, 100 Stat. 3548, substituted "701" for "751" in item for part II.
 

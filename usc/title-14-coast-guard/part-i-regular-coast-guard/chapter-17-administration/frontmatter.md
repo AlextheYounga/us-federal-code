@@ -62,13 +62,7 @@ Sec.
 
 660. Transportation to and from certain places of employment.
 
-661. Authorization of personnel end strengths.
-
-662. Requirement for prior authorization of appropriations.
-
-662a. Transmission of annual Coast Guard authorization request.
-
-663. Capital investment plan.
+[661 to 663. Transferred.]
 
 664. User fees.
 
@@ -98,6 +92,8 @@ Sec.
 
 676. Search and rescue center standards.
 
+676a. Air facility closures.
+
 677. Turnkey selection procedures.
 
 678. Aircraft accident investigations.
@@ -106,7 +102,11 @@ Sec.
 
 680. 1 Retired service members and dependents serving on advisory committees.
 
+681. 2 Disposition of infrastructure related to E–LORAN.
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–120, title I, §102(c), title II, §208(c)(1), title VI, §610(a)(2), Feb. 8, 2016, 130 Stat. 32, 40, 84, added items 676a and 681 and struck out items 661 "Authorization of personnel end strengths", 662 "Requirement for prior authorization of appropriations", 662a "Transmission of annual Coast Guard authorization request", and 663 "Capital investment plan".
 
 **2014**—Pub. L. 113–281, title II, §§214(b)(2)(D), 216(b), 217(b), 218(b), 221(a)(2), Dec. 18, 2014, 128 Stat. 3034–3037, added items 662a, 679, and 680 and struck out items 651 "Annual report" and 657 "Dependent school children".
 
@@ -169,3 +169,5 @@ Pub. L. 100–448, §§26(b), 29(b), Sept. 28, 1988, 102 Stat. 1848, 1849, added
 **1956**—Act Aug. 7, 1956, ch. 1023, §1(b), 70 Stat. 1077, substituted "Coast Guard Supply Fund" for "Coast Guard supply fund and supply account" in item 650.
 
 [<sup>1</sup> Another item 680 appears in the analysis for chapter 18 of this title.](#CHAPTER17_1)
+
+[<sup>2</sup> Another item 681 appears in the analysis for chapter 18 of this title.](#CHAPTER17_2)

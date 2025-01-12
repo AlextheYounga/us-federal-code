@@ -20,6 +20,8 @@ Sec.
 
 4721. United States and Foreign Commercial Service.
 
+4721a. State Trade coordination.
+
 4722. Transferred.
 
 4723. Market Development Cooperator Program.
@@ -37,5 +39,7 @@ Sec.
 4727a. Implementation of primary objectives of TPCC.
 
 4728. Environmental trade promotion.
+
+4728a. State and Federal Export Promotion Coordination Working Group.
 
 4729. Report on export policy.

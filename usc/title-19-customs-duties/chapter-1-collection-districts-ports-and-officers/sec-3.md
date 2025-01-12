@@ -12,7 +12,7 @@ Section, prior to its incorporation into the Code, contained the words "and tonn
 
 #### Analysis Regarding CES Program; Effect on Implementation of Program ####
 
-Pub. L. 100–203, title IX, §9501(c), Dec. 22, 1987, 101 Stat. 1330–380, as amended by Pub. L. 103–182, title VI, §691(b)(1), Dec. 8, 1993, 107 Stat. 2224, provided that:
+Pub. L. 100–203, title IX, §9501(c), Dec. 22, 1987, 101 Stat. 1330–380, as amended by Pub. L. 103–182, title VI, §691(b)(1), Dec. 8, 1993, 107 Stat. 2224; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210, provided that:
 
 "(1) The Comptroller General of the United States shall conduct a comprehensive analysis, including a cost-benefit study, of the centralized cargo examination station (CES) concept from the perspective of both the United States Customs Service and business community users. The analysis shall be submitted on the same day to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate (hereinafter in this subsection referred to as the 'Committees') not later than March 30, 1988, and shall include recommendations as to how best to implement cargo inspection procedures.
 
@@ -28,6 +28,6 @@ Pub. L. 100–203, title IX, §9501(c), Dec. 22, 1987, 101 Stat. 1330–380, as 
 
 During the period of suspension of operations under subparagraph (B) at any centralized cargo examination station at an airport, the Secretary of the Treasury shall maintain customs operations and staffing at that airport at a level not less than that which was in effect immediately before the suspension took effect.
 
-"(3) The Commissioner of Customs is authorized to obtain from the operators of centralized cargo examination stations information regarding the fees paid to them for the provision of services at these stations."
+"(3) The Commissioner of U.S. Customs and Border Protection is authorized to obtain from the operators of centralized cargo examination stations information regarding the fees paid to them for the provision of services at these stations."
 
 [For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.]

@@ -4,7 +4,7 @@ Sec.
 
 680. 1 Definitions.
 
-681. General authority.
+681. 2 General authority.
 
 [682 to 684. Repealed.]
 
@@ -27,3 +27,5 @@ Sec.
 **2004**—Pub. L. 108–293, title II, §207(f), Aug. 9, 2004, 118 Stat. 1035, substituted "Direct loans and loan guarantees" for "Loan guarantees" in item 682 and "eligible" for "nongovernmental" in item 684 and added item 687a.
 
 [<sup>1</sup> Another item 680 appears in the analysis for chapter 17 of this title.](#CHAPTER18_1)
+
+[<sup>2</sup> Another item 681 appears in the analysis for chapter 17 of this title.](#CHAPTER18_2)

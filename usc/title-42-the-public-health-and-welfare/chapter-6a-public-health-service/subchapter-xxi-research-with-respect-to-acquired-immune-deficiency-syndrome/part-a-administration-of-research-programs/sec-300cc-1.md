@@ -122,6 +122,10 @@ Sec. 4. *General Provisions*. (a) Notwithstanding the provisions of any other Ex
 
 William J. Clinton.
 
+#### Extension of Term of Presidential Advisory Council on HIV/AIDS ####
+
+Term of Presidential Advisory Council on HIV/AIDS extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
 #### Ex. Ord. No. 13649. Accelerating Improvements in HIV Prevention and Care in the United States Through the HIV Care Continuum Initiative ####
 
 Ex. Ord. No. 13649, July 15, 2013, 78 F.R. 43057, provided:
