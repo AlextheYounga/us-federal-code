@@ -1,5 +1,7 @@
 ### [§§3477, 3478. Vacant] ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Prior to renumbering of sections 1651 to 1693 of this chapter as sections 3451 to 3493 by Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406, sections 1677 and 1678 of this chapter were repealed.

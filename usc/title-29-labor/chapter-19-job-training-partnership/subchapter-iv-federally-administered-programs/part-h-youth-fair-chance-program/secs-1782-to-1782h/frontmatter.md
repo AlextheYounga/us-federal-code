@@ -18,6 +18,8 @@ Section 1782g, Pub. L. 97–300, title IV, §498, as added Pub. L. 102–367, ti
 
 Section 1782h, Pub. L. 97–300, title IV, §498A, as added Pub. L. 102–367, title IV, §406, Sept. 7, 1992, 106 Stat. 1092, defined "participating community", "high poverty area", and "target area".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, set out as a note under section 1501 of this title.

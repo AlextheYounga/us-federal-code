@@ -20,6 +20,8 @@ On or before July 1 of each year, the Interagency Disability Coordinating Counci
 
 (Pub. L. 93–112, title V, §507, as added Pub. L. 95–602, title I, §120(a), Nov. 6, 1978, 92 Stat. 2983; amended Pub. L. 96–88, title V, §508(m)(2), Oct. 17, 1979, 93 Stat. 694; Pub. L. 98–221, title I, §104(b)(4), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title VI, §602, title X, §1001(f)(4), Oct. 21, 1986, 100 Stat. 1830, 1843; Pub. L. 102–569, title V, §508(a), Oct. 29, 1992, 106 Stat. 4429; Pub. L. 113–128, title IV, §456(d), July 22, 2014, 128 Stat. 1676.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Subsec. (a). Pub. L. 113–128 inserted "the Chairperson of the National Council on Disability," before "and such other".
@@ -33,6 +35,8 @@ Pub. L. 99–506, §1001(f)(4), which directed the substitution of "Chairperson"
 **1984**—Pub. L. 98–221 substituted "Chairman of the Office of Personnel Management" for "Chairman of the United States Civil Service Commission" and purported to substitute "Secretary of Education, the Secretary of Health and Human Services," for "Secretary of Health, Education, and Welfare" which amendment could not be executed in view of the previous amendment by Pub. L. 96–88. See 1979 Amendment note below.
 
 **1979**—Pub. L. 96–88 substituted requirement that the Secretaries of Education and Health and Human Services be members of the Council for requirement that the Secretary of Health, Education, and Welfare be a member.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1979 Amendment ####
 

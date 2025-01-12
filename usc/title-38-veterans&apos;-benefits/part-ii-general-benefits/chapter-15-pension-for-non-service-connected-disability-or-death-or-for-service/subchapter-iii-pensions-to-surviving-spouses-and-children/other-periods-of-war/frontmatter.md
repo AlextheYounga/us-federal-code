@@ -1,5 +1,7 @@
 ### Other Periods of War ###
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1991**—Pub. L. 102–25, title III, §333(c)(1), Apr. 6, 1991, 105 Stat. 88, substituted "Other Periods of War" for "Mexican Border Period, World War I, World War II, The Korean Conflict, and The Vietnam Era" as subheading.

@@ -10,6 +10,8 @@
 
 (Pub. L. 99–662, title IX, §942, Nov. 17, 1986, 100 Stat. 4199.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### "Secretary" Defined ####
 
 Secretary means the Secretary of the Army, see section 2201 of this title.

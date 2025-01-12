@@ -36,6 +36,8 @@ Such former provisions are covered by various sections as follows:
 |      42a(e)(2)       |   See 723(a)(6)   |
 |         42b          |      774(c)       |
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective 90 days after Sept. 26, 1973, see section 500(a) of Pub. L. 93–112, which is classified to section 790(a) of this title.

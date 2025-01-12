@@ -6,6 +6,8 @@ Section 2842, Pub. L. 105–220, title I, §122, Aug. 7, 1998, 112 Stat. 965, re
 
 Section 2843, Pub. L. 105–220, title I, §123, Aug. 7, 1998, 112 Stat. 971, related to identification of eligible providers of youth activities. See section 3153 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.

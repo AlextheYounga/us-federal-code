@@ -20,6 +20,8 @@ A State may expend payments received under section 731 of this title to educate 
 
 (Pub. L. 93–112, title I, §109, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1160; amended Pub. L. 113–128, title IV, §418, July 22, 2014, 128 Stat. 1655.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Americans with Disabilities Act of 1990, referred to in par. (1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
@@ -35,6 +37,8 @@ A prior section 728a, Pub. L. 93–112, title I, §109, as added Pub. L. 102–5
 "(1) to carry out a program to train employers with respect to compliance with the requirements of title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.); and
 
 "(2) to inform employers of the existence of the program and the availability of the services of the program."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definitions of Terms in Pub. L. 113–128 ####
 

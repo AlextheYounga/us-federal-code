@@ -10,6 +10,8 @@ Section 1424, Pub. L. 93–406, title IV, §4244, as added Pub. L. 96–364, tit
 
 Section 1425, Pub. L. 93–406, title IV, §4244A, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1257; amended Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445, related to adjustments in accrued benefits.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable with respect to plan years beginning after Dec. 31, 2014, see section 108(c) of div. O of Pub. L. 113–235, set out as a note under section 418 of Title 26, Internal Revenue Code.

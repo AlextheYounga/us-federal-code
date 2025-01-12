@@ -26,9 +26,13 @@ In the development of, or any proposed major substantive modification to, a prop
 
 (Pub. L. 115–270, title I, §1154, Oct. 23, 2018, 132 Stat. 3791.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is comprised of section 1154 of Pub. L. 115–270. Subsec. (a) of section 1154 of Pub. L. 115–270 amended section 579a of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### "Secretary" Defined ####
 

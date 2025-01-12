@@ -22,6 +22,8 @@ A prior section 1605, Pub. L. 97–300, title II, §205, Oct. 13, 1982, 96 Stat.
 
 Section 1606, Pub. L. 97–300, title II, §206, as added Pub. L. 102–367, title II, §203, Sept. 7, 1992, 106 Stat. 1061, related to transfer of funds.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, set out as a note under section 1501 of this title.

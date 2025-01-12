@@ -4,6 +4,8 @@ On and after May 9, 1938, the Secretary of the Interior is authorized, in his di
 
 (May 9, 1938, ch. 187, §1, 52 Stat. 302.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This paragraph, referred to in text, means the first undesignated paragraph contained at 52 Stat. 302, and the appropriations for advances for the fiscal year 1939, referred to in text, were contained in such part of the undesignated paragraph which was not classified to the Code.

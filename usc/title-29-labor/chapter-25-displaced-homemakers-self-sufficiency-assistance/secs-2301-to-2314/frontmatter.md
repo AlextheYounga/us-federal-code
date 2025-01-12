@@ -28,6 +28,8 @@ Section 2313, Pub. L. 101–554, §14, Nov. 15, 1990, 104 Stat. 2757, contained 
 
 Section 2314, Pub. L. 101–554, §15, Nov. 15, 1990, 104 Stat. 2757, authorized appropriations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 105–220, title I, §199(c)(1), Aug. 7, 1998, 112 Stat. 1059, which provided that the repeals made by subsection (a) (repealing sections 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11441 to 11447, 11449, and 11450 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, and repealing provisions set out as notes below and under section 1255a of Title 8, Aliens and Nationality) would take effect on Aug. 7, 1998, was repealed by Pub. L. 113–128, title V, §511(a), July 22, 2014, 128 Stat. 1705.

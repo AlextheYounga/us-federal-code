@@ -18,6 +18,8 @@ For purposes of this chapter—
 
 (June 6, 1933, ch. 49, §2, 48 Stat. 114; Pub. L. 97–300, title VI, §601(a), formerly title V, §501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, §601(a), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 105–220, title III, §301, Aug. 7, 1998, 112 Stat. 1080; Pub. L. 113–128, title III, §302, July 22, 2014, 128 Stat. 1624.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in text, was in the original "this Act", meaning act June 6, 1933, ch. 49, 48 Stat. 113, known as the Wagner-Peyser Act, which was classified to this chapter and section 338 of former Title 39, The Postal Service. Section 338 of former title 39 was repealed and reenacted as section 4152 of former Title 39, The Postal Service, by Pub. L. 86–682, Sept. 2, 1960, 74 Stat. 578. Section 4152 of former title 39 was repealed and reenacted as section 3202 of Title 39, Postal Service, by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
@@ -41,6 +43,8 @@ Par. (3). Pub. L. 105–220, §301(4), added par. (3). Former par. (3) redesigna
 Par. (4). Pub. L. 105–220, §301(2), (3), (5), redesignated par. (3) as (4), substituted "Labor; and" for "Labor;", and struck out former par. (4) which read as follows: "the term 'service delivery area' has the same meaning given that term under the Job Training Partnership Act; and".
 
 **1982**—Pub. L. 97–300 amended section generally, substituting provisions relating to definitions for provisions which authorized appointment of personnel and payment of office expenses.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2014 Amendment ####
 

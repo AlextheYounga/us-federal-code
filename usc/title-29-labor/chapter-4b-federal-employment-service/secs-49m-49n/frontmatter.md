@@ -1,5 +1,7 @@
 ### §§49m, 49n. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 49m, Pub. L. 88–136, title I, Oct. 11, 1963, 77 Stat. 225, relating to payments to States for administrative expenses for their unemployment compensation law and their public employment offices, was from the Department of Labor Appropriation Act, 1964, and was not repeated in the Department of Labor Appropriation Act of 1965. Similar provisions were contained in the following prior appropriation acts:

@@ -4,6 +4,8 @@ The Bureau of Labor Statistics of the United States Department of Labor is autho
 
 (June 7, 1940, ch. 267, 54 Stat. 249; Aug. 30, 1954, ch. 1076, §1(27), 68 Stat. 968.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Provision of this section authorizing appropriations of up to $100,000 for studies by the bureau in the first fiscal year was omitted.
@@ -11,6 +13,8 @@ Provision of this section authorizing appropriations of up to $100,000 for studi
 #### Amendments ####
 
 **1954**—Act Aug. 30, 1954, repealed second par. which required Secretary of Labor to submit annually to Congress reports of findings under this section.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

@@ -6,6 +6,8 @@ The right of Congress to alter, amend, or repeal this section is expressly reser
 
 (July 1, 1922, ch. 266, §§1, 2, 42 Stat. 816.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The two sentences comprising this section are, respectively, sections 1 and 2 of act July 1, 1922, entitled "An act declaring Tchula Lake, Holmes County, Mississippi, to be a nonnavigable stream".

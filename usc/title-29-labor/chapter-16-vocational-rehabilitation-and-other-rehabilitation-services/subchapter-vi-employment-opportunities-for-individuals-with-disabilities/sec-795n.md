@@ -102,6 +102,8 @@ The Committee shall terminate on the day after the date on which the Committee s
 
 (Pub. L. 93–112, title VI, §609, as added Pub. L. 113–128, title IV, §461(11), July 22, 2014, 128 Stat. 1682.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 795n, Pub. L. 93–112, title VI, §609, formerly §628, as added Pub. L. 105–220, title IV, §409, Aug. 7, 1998, 112 Stat. 1217; amended Pub. L. 105–277, div. A, §101(f) [title VIII, §402(b)(19)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered §609, Pub. L. 113–128, title IV, §461(3), July 22, 2014, 128 Stat. 1679, related to authorization of appropriations, prior to repeal by Pub. L. 113–128, title IV, §461(11), July 22, 2014, 128 Stat. 1682. See section 795o of this title. Provisions similar to prior section 795n were contained in section 795q of this title prior to the general amendment of this subchapter by Pub. L. 105–220.

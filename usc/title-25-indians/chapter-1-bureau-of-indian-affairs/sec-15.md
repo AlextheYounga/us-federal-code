@@ -4,6 +4,8 @@ Except for electric utility systems constructed and operated as a part of an irr
 
 (Pub. L. 87–279, Sept. 22, 1961, 75 Stat. 577; Pub. L. 103–437, §10(a), Nov. 2, 1994, 108 Stat. 4588.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–437 substituted "Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives" for "Committees on Interior and Insular Affairs of the Senate and the House of Representatives".

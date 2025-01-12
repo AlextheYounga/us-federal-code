@@ -32,6 +32,8 @@ Not later than 60 days after the expiration of the 12-year period beginning on J
 
 (Pub. L. 113–121, title VI, §6003, June 10, 2014, 128 Stat. 1349; Pub. L. 115–270, title I, §1330(a), Oct. 23, 2018, 132 Stat. 3827.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is Pub. L. 113–121, June 10, 2014, 128 Stat. 1193, known as the Water Resources Reform and Development Act of 2014. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under section 2201 of this title and Tables.
@@ -39,6 +41,8 @@ This Act, referred to in text, is Pub. L. 113–121, June 10, 2014, 128 Stat. 11
 **2018**—Subsec. (a)(1), (2). Pub. L. 115–270, §1330(a)(1), substituted "10-year period" for "7-year period".
 
 Subsec. (a)(3), (4). Pub. L. 115–270, §1330(a)(2), added pars. (3) and (4).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### "Secretary" Defined ####
 

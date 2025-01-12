@@ -10,9 +10,13 @@ Not later than 1 year after December 16, 2016, the Secretary shall complete the 
 
 (Pub. L. 114–322, title I, §1165, Dec. 16, 2016, 130 Stat. 1670.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 6002 of the Water Resources Reform and Development Act of 2014, referred to in text, is section 6002 of Pub. L. 113–121, title VI, June 10, 2014, 128 Stat. 1349, which is not classified to the Code.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### "Secretary" Defined ####
 

@@ -10,6 +10,8 @@ Upon the acquisition by a State or States, or by a subdivision or instrumentalit
 
 (Pub. L. 92–434, §8, Sept. 26, 1972, 86 Stat. 732; Pub. L. 114–120, title III, §306(b)(6)(B), Feb. 8, 2016, 130 Stat. 56.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 535d of this title, referred to in subsec. (b), was repealed by Pub. L. 100–17, title I, §135(g), Apr. 2, 1987, 101 Stat. 174.

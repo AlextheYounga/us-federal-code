@@ -8,6 +8,8 @@ Section 2863, Pub. L. 105–220, title I, §133, Aug. 7, 1998, 112 Stat. 987, re
 
 Section 2864, Pub. L. 105–220, title I, §134, Aug. 7, 1998, 112 Stat. 990; Pub. L. 105–277, div. A, §101(f) [title VIII, §401(5)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 109–270, §2(h)(6), Aug. 12, 2006, 120 Stat. 748, related to use of funds for employment and training activities. See section 3174 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.

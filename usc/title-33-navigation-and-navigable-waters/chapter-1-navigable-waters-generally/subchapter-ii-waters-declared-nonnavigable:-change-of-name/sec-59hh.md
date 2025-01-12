@@ -50,6 +50,8 @@ The 605-acre parcel and the 564-acre parcel shall be surveyed and further legall
 
 (Pub. L. 103–126, title I, §108, Oct. 28, 1993, 107 Stat. 1320; Pub. L. 106–53, title V, §585, Aug. 17, 1999, 113 Stat. 377.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The National Environmental Policy Act of 1969, referred to in subsec. (e)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.

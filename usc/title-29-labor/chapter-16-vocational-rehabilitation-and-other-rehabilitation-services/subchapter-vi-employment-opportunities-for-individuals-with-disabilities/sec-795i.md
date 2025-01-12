@@ -16,6 +16,8 @@ Funds allotted under this subchapter, or subchapter I, and used for the provisio
 
 (Pub. L. 93–112, title VI, §604, as added Pub. L. 113–128, title IV, §461(6), July 22, 2014, 128 Stat. 1680.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 795i, Pub. L. 93–112, title VI, §604, formerly §623, as added Pub. L. 105–220, title IV, §409, Aug. 7, 1998, 112 Stat. 1215; amended Pub. L. 105–277, div. A, §101(f) [title VIII, §402(b)(14)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered §604, Pub. L. 113–128, title IV, §461(3), July 22, 2014, 128 Stat. 1679, related to availability of services, prior to repeal by Pub. L. 113–128, title IV, §461(6), July 22, 2014, 128 Stat. 1680. Provisions similar to prior section 795i were contained in section 795l of this title prior to the general amendment of this subchapter by Pub. L. 105–220.

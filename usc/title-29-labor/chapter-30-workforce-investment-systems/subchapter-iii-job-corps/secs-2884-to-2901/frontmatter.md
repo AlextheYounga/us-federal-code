@@ -58,6 +58,8 @@ Section 2900, Pub. L. 105–220, title I, §160, Aug. 7, 1998, 112 Stat. 1020, r
 
 Section 2901, Pub. L. 105–220, title I, §161, Aug. 7, 1998, 112 Stat. 1021, authorized appropriations for fiscal years 1999 through 2003.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.

@@ -4,9 +4,13 @@ The Commissioner of Indian Affairs shall have the custody of said seal, and shal
 
 (July 26, 1892, ch. 256, §4, 27 Stat. 273; Pub. L. 92–310, title II, §229(b), June 6, 1972, 86 Stat. 208.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1972**—Pub. L. 92–310 struck out provisions which required the receiving clerk to give a bond in the sum of $1,000.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

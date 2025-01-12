@@ -4,9 +4,13 @@ The Administrator of the National Oceanic and Atmospheric Administration (herein
 
 (Pub. L. 99–272, title VI, §6082, Apr. 7, 1986, 100 Stat. 135.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subtitle, referred to in text, is subtitle H (§§6081–6085) of title VI of Pub. L. 99–272, Apr. 7, 1986, 100 Stat. 135, which enacted this section and section 1530 of Title 15, Commerce and Trade, amended section 883e of this title and sections 330e, 2903 and 2904 of Title 15, and repealed section 2905 of Title 15. For complete classification of this subtitle to the Code, see Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

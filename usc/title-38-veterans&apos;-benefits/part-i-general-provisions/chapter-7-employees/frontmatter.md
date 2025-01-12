@@ -54,6 +54,8 @@ Sec.
 
 741. Executive Management Fellowship Program.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–407, title V, §501(b), Dec. 31, 2018, 132 Stat. 5376, which directed adding item 728 after item 728, was executed by adding item 728 after item 727 to reflect the probable intent of Congress.

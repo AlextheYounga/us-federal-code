@@ -1,5 +1,7 @@
 ### [§§3495 to 3498. Vacant] ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Prior to renumbering of sections 1651 to 1693 of this chapter as sections 3451 to 3493 by Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406, sections 1695 to 1698 of this chapter, which comprised former subchapter VI of this chapter, were repealed by Pub. L. 96–466, title VI, §601(a)(1), title VIII, §802(f), Oct. 17, 1980, 94 Stat. 2208, 2218, effective Oct. 1, 1980.

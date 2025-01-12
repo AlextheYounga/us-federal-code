@@ -18,6 +18,8 @@ This section shall not apply with respect to the distribution of the estates of 
 
 (July 8, 1940, ch. 555, §§1, 2, 54 Stat. 746.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 For effective date of this section, referred to in text, see Effective Date note set out below.
@@ -26,9 +28,13 @@ For effective date of this section, referred to in text, see Effective Date note
 
 First and second paragraphs of this section are from sections 1 and 2, respectively, of act July 8, 1940.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Act July 8, 1940, ch. 555, §3, 54 Stat. 746, provided that: "This Act shall become effective six months after the date of its approval [July 8, 1940]."
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

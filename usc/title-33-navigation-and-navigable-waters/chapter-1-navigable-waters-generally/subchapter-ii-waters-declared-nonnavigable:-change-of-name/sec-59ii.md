@@ -24,6 +24,8 @@ Before making a determination under this subsection, the Secretary of Transporta
 
 (Pub. L. 106–32, §2, June 1, 1999, 113 Stat. 115.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Findings ####
 
 Pub. L. 106–32, §1, June 1, 1999, 113 Stat. 115, provided that: "The Congress finds the following:

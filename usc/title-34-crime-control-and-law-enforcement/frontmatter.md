@@ -85,6 +85,8 @@ Subtitle VI—Other Crime Control and Law Enforcement Matters
 
 607. Project Safe Neighborhoods Block Grant Program 60701
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 70A Stat. 1, which revised and codified the statutory provisions that related to the Army, Navy, Air Force, and Marine Corps, and enacted those provisions into law as Title 10, Armed Forces. For distribution of provisions of former Title 34 in Title 10, see Table II, set out preceding the text of Title 10.

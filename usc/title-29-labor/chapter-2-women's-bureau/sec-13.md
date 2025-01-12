@@ -4,9 +4,13 @@ It shall be the duty of the Women's Bureau to formulate standards and policies w
 
 (June 5, 1920, ch. 248, §2, 41 Stat. 987.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Part of section 2 of act June 5, 1920, constitutes section 12 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

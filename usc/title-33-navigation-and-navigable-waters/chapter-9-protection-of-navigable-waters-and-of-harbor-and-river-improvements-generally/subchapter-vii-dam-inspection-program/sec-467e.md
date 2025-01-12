@@ -14,6 +14,8 @@ ICODS shall encourage the establishment and maintenance of effective Federal pro
 
 (Pub. L. 92–367, §7, as added Pub. L. 104–303, title II, §215(c)(8), Oct. 12, 1996, 110 Stat. 3687; amended Pub. L. 107–310, §2, Dec. 2, 2002, 116 Stat. 2450; Pub. L. 113–121, title III, §3001(a)(1), June 10, 2014, 128 Stat. 1282.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 467e, Pub. L. 92–367, §6, Aug. 8, 1972, 86 Stat. 507, directed that existing liabilities and obligations be unaffected, prior to repeal by Pub. L. 104–303, title II, §215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
@@ -29,6 +31,8 @@ A prior section 7 of Pub. L. 92–367 was classified to section 467f of this tit
 "(1) coordination and information exchange among Federal agencies and State dam safety agencies; and
 
 "(2) coordination and information exchange among Federal agencies concerning implementation of the Federal Guidelines for Dam Safety."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

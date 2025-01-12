@@ -34,6 +34,8 @@ The Administrator of the National Oceanic and Atmospheric Administration shall e
 
 (Pub. L. 111–358, title III, §303, Jan. 4, 2011, 124 Stat. 3998.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 302 of this Act, referred to in subsec. (c), is section 302 of Pub. L. 111–358, which amended section 893a of this title.

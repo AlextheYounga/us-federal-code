@@ -6,9 +6,13 @@ All unexpended balances of appropriations prior to May 15, 1928, made for prosec
 
 (May 15, 1928, ch. 569, §1, 45 Stat. 534; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Herein, referred to in text, means act May 15, 1928, ch. 569, 45 Stat. 534, as amended, which enacted sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, 702k, 702l, 702m, and 704 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

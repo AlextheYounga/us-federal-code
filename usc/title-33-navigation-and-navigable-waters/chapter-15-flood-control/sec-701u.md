@@ -4,6 +4,8 @@ The Secretary of the Army is authorized to allot from any appropriations heretof
 
 (May 17, 1950, ch. 188, title II, §211, 64 Stat. 183; Pub. L. 104–303, title II, §222, Oct. 12, 1996, 110 Stat. 3697.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–303 substituted "outside the United States" for "outside the continental limits of the United States" and struck out before period at end ": *And provided further*, That not more than $25,000 shall be allotted during any one fiscal year for this purpose".

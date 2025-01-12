@@ -24,6 +24,8 @@ such amounts as the Secretary determines to be necessary for allotment in accord
 
 (June 6, 1933, ch. 49, §5, 48 Stat. 114; May 10, 1935, ch. 102, 49 Stat. 216; June 29, 1938, ch. 816, 52 Stat. 1244; Sept. 8, 1950, ch. 933, §2, 64 Stat. 822; Aug. 1, 1956, ch. 852, §17(b), 70 Stat. 910; Pub. L. 86–778, title V, §543(c), Sept. 13, 1960, 74 Stat. 987; Pub. L. 94–566, title I, §116(c), Oct. 20, 1976, 90 Stat. 2672; Pub. L. 97–35, title VII, §702, Aug. 13, 1981, 95 Stat. 521; Pub. L. 97–300, title VI, §601(b), formerly title V, §501(b), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, §601(b), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 105–220, title III, §304, Aug. 7, 1998, 112 Stat. 1081.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Unemployment Tax Act, referred to in subsec. (b)(1), is act Aug. 16, 1954, ch. 736, §§3301 to 3311, 68A Stat. 454, as amended, which is classified generally to chapter 23 (§3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
@@ -53,6 +55,8 @@ Subsec. (c). Pub. L. 97–300 added subsec. (c).
 **1938**—Subsec. (a). Act June 29, 1938, substituted "The annual appropriation under this chapter shall designate the amount to" for "Seventy-five per centum of the amounts appropriated under this chapter shall", at beginning of second sentence, and "the said amount among the several States" for "said 75 per centum of amounts appropriated after January 1, 1935, under this chapter" in proviso.
 
 **1935**—Subsec. (a). Act May 10, 1935, inserted proviso.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1998 Amendment ####
 

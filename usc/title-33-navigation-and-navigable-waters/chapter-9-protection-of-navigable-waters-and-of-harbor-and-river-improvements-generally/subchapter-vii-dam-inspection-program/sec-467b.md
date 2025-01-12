@@ -4,6 +4,8 @@ As soon as practicable after inspection of a dam, the Secretary shall notify the
 
 (Pub. L. 92–367, §4, formerly §3, Aug. 8, 1972, 86 Stat. 507; Pub. L. 99–662, title XII, §1204, Nov. 17, 1986, 100 Stat. 4263; renumbered §4 and amended Pub. L. 104–303, title II, §215(c)(3), (6), Oct. 12, 1996, 110 Stat. 3685, 3687.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 4 of Pub. L. 92–367 was renumbered section 5 and is classified to section 467c of this title.

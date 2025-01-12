@@ -4,6 +4,8 @@ In addition to participating in cooperative investigations and studies with agen
 
 (July 31, 1945, ch. 334, §1, 59 Stat. 508; Pub. L. 88–172, §1, Nov. 7, 1963, 77 Stat. 304.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Coastal Engineering Research Center has been substituted for Beach Erosion Board pursuant to Pub. L. 88–172, §1, providing in part for the abolition of the Beach Erosion Board, which is set out as a note under section 426 of this title. For transfer of investigatory functions of the Beach Erosion Board to the Coastal Engineering Research Center, see section 426–1 of this title.

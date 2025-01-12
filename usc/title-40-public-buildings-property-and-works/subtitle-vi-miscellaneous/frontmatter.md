@@ -17,6 +17,8 @@ Chapter Sec.
 
 183. NATIONAL CAPITAL AREA INTEREST ARBITRATION STANDARDS 18301
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2008**—Pub. L. 110–234, title XIV, §14217(a)(1), May 22, 2008, 122 Stat. 1467, and Pub. L. 110–246, title XIV, §14217(a)(1), June 18, 2008, 122 Stat. 2229, made identical amendments, redesignating subtitle V of this title as subtitle VI. The amendment by Pub. L. 110–234 was repealed by Pub. L. 110–246, §4(a), June 18, 2008, 122 Stat. 1664.

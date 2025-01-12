@@ -6,9 +6,13 @@ The right to alter, amend, or repeal this section is hereby expressly reserved.
 
 (Pub. L. 90–149, Nov. 22, 1967, 81 Stat. 507.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The provisions of the Acts of August 30, 1935 (49 Stat. 1028) and July 14, 1960 (74 Stat. 480), referred to in text, authorizing the Bayou Lafourche, Louisiana, project, are not classified to the Code.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Portion of Bayou Lafourche Declared To Be Navigable Waterway ####
 

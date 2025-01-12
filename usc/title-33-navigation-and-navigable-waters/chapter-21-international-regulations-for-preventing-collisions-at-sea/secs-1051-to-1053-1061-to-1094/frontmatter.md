@@ -74,9 +74,13 @@ Section 1093, Pub. L. 88–131, §4, Sept. 24, 1963, 77 Stat. 208, related to di
 
 Section 1094, Pub. L. 88–131, §4, Sept. 24, 1963, 77 Stat. 209, set out general considerations and recommendations on the use of radar information as an aid to avoiding collisions at sea.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 15, 1977, see section 10 of Pub. L. 95–75, set out in part as a note under section 1601 of this title.
+
+#### **Executive Documents** ####
 
 #### Executive Order No. 11239 ####
 

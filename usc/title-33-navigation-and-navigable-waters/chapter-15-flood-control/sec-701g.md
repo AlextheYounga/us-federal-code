@@ -4,6 +4,8 @@ The Secretary of the Army is authorized to allot not to exceed $7,500,000 from a
 
 (Aug. 28, 1937, ch. 877, §2, 50 Stat. 877; Aug. 11, 1939, ch. 699, §1, 53 Stat. 1414; Aug. 18, 1941, ch. 377, §9, 55 Stat. 650; July 24, 1946, ch. 596, §13, 60 Stat. 652; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Sept. 3, 1954, ch. 1264, title II, §208, 68 Stat. 1266; Pub. L. 93–251, title I, §26, Mar. 7, 1974, 88 Stat. 20; Pub. L. 99–662, title IX, §915(b), Nov. 17, 1986, 100 Stat. 4191.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1986**—Pub. L. 99–662 substituted "$7,500,000" for "$5,000,000" and "$500,000" for "$250,000".
@@ -17,6 +19,8 @@ The Secretary of the Army is authorized to allot not to exceed $7,500,000 from a
 **1941**—Act Aug. 18, 1941, substituted "$500,000" for "$300,000".
 
 **1939**—Act Aug. 11, 1939, authorized Secretary to allot instead of to approve amount for flood control and limited amount allotted instead of expended for any single tributary.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

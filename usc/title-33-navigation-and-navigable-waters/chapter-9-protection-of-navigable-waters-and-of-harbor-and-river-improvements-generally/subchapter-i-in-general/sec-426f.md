@@ -20,6 +20,8 @@ The agreement shall—
 
 (Aug. 13, 1946, ch. 960, §2, 60 Stat. 1056; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; July 28, 1956, ch. 768, 70 Stat. 703; Pub. L. 87–874, title I, §103(a)(4), Oct. 23, 1962, 76 Stat. 1178; Pub. L. 104–303, title II, §227(c)(1), Oct. 12, 1996, 110 Stat. 3699.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–303 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted "Secretary" for "Secretary of the Army" and "non-Federal interests" for "local interests", inserted "or separable element of the project" after "project", inserted "or separable elements" after "projects" wherever appearing, and added subsec. (b).
@@ -27,6 +29,8 @@ The agreement shall—
 **1962**—Pub. L. 87–874 substituted provisions which authorize the Secretary of the Army to reimburse local interests for work done on authorized projects which individually do not exceed $1,000,000 in cost, and provide that such reimbursement shall be subject to applicable appropriations or available funds and not take priority over pending projects of higher priority, for provisions which authorized the Chief of Engineers to cause to be paid to the political subdivision involved the amount authorized by Congress.
 
 **1956**—Act July 28, 1956, substituted "or other political subdivision involved" for "or political subdivision".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

@@ -12,6 +12,8 @@ Section 158, acts June 7, 1897, ch. 4, §3, 30 Stat. 102; May 21, 1948, ch. 328,
 
 Section 159, acts June 7, 1897, ch. 4, §4, 30 Stat. 103; May 21, 1948, ch. 328, §3, 62 Stat. 249; Aug. 14, 1958, Pub. L. 85–656, §1, 72 Stat. 612, provided for a penalty for violations by vessels. See section 2072 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Dec. 24, 1981, see section 7 of Pub. L. 96–591, set out as an Effective Date of 1980 Amendment note under section 1604 of this title.

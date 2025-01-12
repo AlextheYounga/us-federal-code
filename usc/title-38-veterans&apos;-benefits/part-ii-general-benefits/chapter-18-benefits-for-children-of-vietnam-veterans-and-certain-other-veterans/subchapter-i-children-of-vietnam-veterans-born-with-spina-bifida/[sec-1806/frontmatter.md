@@ -8,6 +8,8 @@ Prior section 1807, added Pub. L. 94–324, §2(a), June 30, 1976, 90 Stat. 720;
 
 Prior section 1810 was renumbered section 3710 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on the first day of the first month beginning more than one year after Nov. 1, 2000, see section 401(g) of Pub. L. 106–419, set out as an Effective Date note under section 1811 of this title.

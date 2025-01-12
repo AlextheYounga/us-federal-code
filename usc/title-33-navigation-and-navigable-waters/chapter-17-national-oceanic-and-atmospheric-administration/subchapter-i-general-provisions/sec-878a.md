@@ -94,6 +94,8 @@ NOAA shall complete an analysis initiated under subsection (e)(2) not later than
 
 (Pub. L. 112–55, div. B, title I, §105, Nov. 18, 2011, 125 Stat. 599; Pub. L. 113–6, div. B, title I, §105(a), Mar. 26, 2013, 127 Stat. 242.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is from the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2012, which is division B of the Consolidated and Further Continuing Appropriations Act, 2012.
@@ -107,6 +109,8 @@ Pub. L. 110–161, div. B, title I, §112, Dec. 26, 2007, 121 Stat. 1894.
 #### Amendments ####
 
 **2013**—Subsec. (f). Pub. L. 113–6 substituted "subsection (e)(2)" for "paragraph (2)" and "subsection (e)" for "this subsection".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Requirements Adopted by Reference ####
 

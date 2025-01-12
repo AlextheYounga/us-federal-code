@@ -34,6 +34,8 @@ The Secretary, in consultation with States, is authorized to assist the States i
 
 (June 6, 1933, ch. 49, §3, 48 Stat. 114; Sept. 8, 1950, ch. 933, §1, 64 Stat. 822; Aug. 3, 1954, ch. 655, §6(a), 68 Stat. 665; Aug. 1, 1956, ch. 852, §17(a), 70 Stat. 910; Pub. L. 86–624, §21(a), July 12, 1960, 74 Stat. 417; Pub. L. 93–198, title II, §204(c), Dec. 24, 1973, 87 Stat. 783; Pub. L. 94–566, title V, §508(a), Oct. 20, 1976, 90 Stat. 2689; Pub. L. 97–300, title VI, §601(a), formerly title V, §501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, §601(a), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 99–198, title XV, §1535(b)(2), Dec. 23, 1985, 99 Stat. 1584; Pub. L. 104–193, title I, §110(m), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–220, title III, §§302(a), 310, Aug. 7, 1998, 112 Stat. 1080, 1086; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(Q), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(Q), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 113–128, title III, §303, July 22, 2014, 128 Stat. 1625.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Social Security Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Part D of title IV of such Act is classified generally to part D (§651 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -81,6 +83,8 @@ Subsec. (b). Pub. L. 93–198, §204(c)(2), included District of Columbia in def
 **1954**—Subsec. (a). Act Aug. 3, 1954, inserted provisions relating to employment counseling and placement services for handicapped persons.
 
 **1950**—Subsec. (b). Act Sept. 8, 1950, included Puerto Rico and Virgin Islands in definition of "State" or "States".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2014 Amendment ####
 

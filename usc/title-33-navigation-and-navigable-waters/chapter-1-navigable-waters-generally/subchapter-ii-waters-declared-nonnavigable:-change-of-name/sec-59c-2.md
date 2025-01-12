@@ -4,6 +4,8 @@ If the Secretary of the Army, acting through the Chief of Engineers, finds that 
 
 (Pub. L. 93–251, title I, §51, Mar. 7, 1974, 88 Stat. 26.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.

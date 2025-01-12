@@ -32,6 +32,8 @@ There is authorized to be appropriated to carry out this section such sums as ma
 
 (Pub. L. 94–587, §202, Oct. 22, 1976, 90 Stat. 2945; Pub. L. 99–662, title XI, §1129(a), Nov. 17, 1986, 100 Stat. 4246.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1986**—Subsec. (f). Pub. L. 99–662 amended subsec. (f) generally, substituting "such sums as may be necessary for fiscal years beginning after Sept. 30, 1986" for "not to exceed $4,000,000 per fiscal year for fiscal years 1978 and 1979".

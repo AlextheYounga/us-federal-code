@@ -40,6 +40,8 @@ Any personnel action of any department, agency, or other entity referred to in s
 
 (Pub. L. 90–202, §15, as added Pub. L. 93–259, §28(b)(2), Apr. 8, 1974, 88 Stat. 74; amended Pub. L. 95–256, §5(a), (e), Apr. 6, 1978, 92 Stat. 191; 1978 Reorg. Plan No. 1, eff. Jan. 1, 1979, §2, 43 F.R. 19807, 92 Stat. 3781; Pub. L. 104–1, title II, §201(c)(2), Jan. 23, 1995, 109 Stat. 8; Pub. L. 105–220, title III, §341(b), Aug. 7, 1998, 112 Stat. 1092; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–2, §5(c)(3), Jan. 29, 2009, 123 Stat. 7; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The amendments made to this section by the Age Discrimination in Employment Act Amendments of 1978, referred to in subsec. (g)(1), are amendments by section 5(a) and (e) of Pub. L. 95–256, which amended subsecs. (a), (f), and (g) of this section.
@@ -60,6 +62,8 @@ The amendments made to this section by the Age Discrimination in Employment Act 
 
 Subsecs. (f), (g). Pub. L. 95–256, §5(e), added subsecs. (f) and (g).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "Government Publishing Office" substituted for "Government Printing Office" in subsec. (a) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
@@ -74,7 +78,7 @@ Pub. L. 105–220, title III, §341(d), Aug. 7, 1998, 112 Stat. 1092, which prov
 
 #### Effective Date of 1995 Amendment ####
 
-Amendment by Pub. L. 104–1 effective 1 year after Jan. 23, 1995, see section 1311(d) of Title 2, The Congress.
+Amendment by Pub. L. 104–1 effective 1 year after Jan. 23, 1995, see section 1311(e) of Title 2, The Congress.
 
 #### Effective Date of 1978 Amendment ####
 
@@ -83,6 +87,8 @@ Pub. L. 95–256, §5(f), Apr. 6, 1978, 92 Stat. 192, provided that: "The amendm
 #### Effective Date ####
 
 Section effective May 1, 1974, see section 29(a) of Pub. L. 93–259, set out as an Effective Date of 1974 Amendment note under section 202 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

@@ -1,5 +1,7 @@
 ### [§§1771 to 1774. Renumbered §§2031 to 2034] ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Former subchapter VII of chapter 17, which consisted of sections 1771 to 1774, was renumbered subchapter IV of chapter 20 of this title and transferred to follow section 2023 of this title, and sections 1771 to 1774 were renumbered sections 2031 to 2034 of this title, respectively.

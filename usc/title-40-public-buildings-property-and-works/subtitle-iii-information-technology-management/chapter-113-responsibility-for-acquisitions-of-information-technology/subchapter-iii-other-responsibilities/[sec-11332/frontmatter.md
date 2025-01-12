@@ -2,6 +2,8 @@
 
 Section, Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1244, related to Federal computer system security training and plan.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Dec. 17, 2002, see section 402(b) of Pub. L. 107–347, set out as an Effective Date of 2002 Amendments note under section 3504 of Title 44, Public Printing and Documents.

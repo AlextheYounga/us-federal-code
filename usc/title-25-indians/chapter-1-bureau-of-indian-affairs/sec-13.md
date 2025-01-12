@@ -24,6 +24,8 @@ Notwithstanding any other provision of this section or any other law, postsecond
 
 (Nov. 2, 1921, ch. 115, 42 Stat. 208; Pub. L. 94–482, title IV, §410, Oct. 12, 1976, 90 Stat. 2233; Pub. L. 105–244, title I, §102(a)(8)(A), Oct. 7, 1998, 112 Stat. 1619.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Higher Education Act of 1965, referred to in text, is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
@@ -33,6 +35,8 @@ The Higher Education Act of 1965, referred to in text, is Pub. L. 89–329, Nov.
 **1998**—Pub. L. 105–244, which directed substitution of "101" for "1201" in the last paragraph of "section 410 of the Act entitled 'An Act authorizing appropriations and expenditures for the administration of Indian Affairs, and for other purposes', approved November 2, 1921 (25 U.S.C. 13) (commonly known as the Snyder Act)", was executed to last paragraph of this section, which is the act of Nov. 2, 1921, ch. 115, commonly known as the Snyder Act, to reflect the probable intent of Congress. This section was amended by section 410 of Pub. L. 94–482 to add the last paragraph.
 
 **1976**—Pub. L. 94–482 inserted provisions relating to postsecondary schools administered by the Secretary of the Interior for Indians.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1998 Amendment ####
 
@@ -45,10 +49,6 @@ Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except eith
 #### Short Title ####
 
 Act Nov. 2, 1921, which enacted this section, is popularly known as the "Snyder Act".
-
-#### Transfer of Functions ####
-
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Availability of Housing Improvement Program Grant Repayments for Program Obligations ####
 
@@ -65,3 +65,9 @@ Pub. L. 95–561, title XI, §1102, Nov. 1, 1978, 92 Stat. 2316, provided that:
 #### Payments for Basic Educational Support Grants or Contracts; Authorization; Time ####
 
 Pub. L. 95–561, title XI, §1103(a), Nov. 1, 1978, 92 Stat. 2316, as amended by Pub. L. 96–46, §2(b)(1), Aug. 6, 1979, 93 Stat. 341, provided that payments for basic educational support grants or contracts for fiscal year 1978, including any fiscal year 1978 funds subsequently obligated in fiscal year 1979, were to be made under the authority of act Apr. 16, 1934, and set forth conditions, time, etc., for payments.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.

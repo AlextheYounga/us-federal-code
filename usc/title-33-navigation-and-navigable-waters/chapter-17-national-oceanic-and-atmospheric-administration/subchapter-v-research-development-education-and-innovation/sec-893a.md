@@ -50,6 +50,8 @@ In this section, the term "STEM" means the academic and professional disciplines
 
 (Pub. L. 110–69, title IV, §4002, Aug. 9, 2007, 121 Stat. 600; Pub. L. 111–358, title III, §302, Jan. 4, 2011, 124 Stat. 3997; Pub. L. 114–329, title III, §314, Jan. 6, 2017, 130 Stat. 3015.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Subsec. (a). Pub. L. 114–329, §314(a), substituted "the agency, with consideration given to the goal of promoting the participation of individuals identified in sections 1885a and 1885b of title 42" for "agency, with consideration given to the goal of promoting the participation of individuals from underrepresented groups".

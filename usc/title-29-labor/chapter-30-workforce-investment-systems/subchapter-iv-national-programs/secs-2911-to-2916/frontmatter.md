@@ -16,6 +16,8 @@ Section 2915, Pub. L. 105–220, title I, §170, Aug. 7, 1998, 112 Stat. 1030; P
 
 Section 2916, Pub. L. 105–220, title I, §171, Aug. 7, 1998, 112 Stat. 1031; Pub. L. 105–277, div. A, §101(f) [title VIII, §401(11)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 110–140, title X, §1002, Dec. 19, 2007, 121 Stat. 1748, related to demonstration, pilot, multiservice, research, and multistate projects. See section 3224(b) of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.

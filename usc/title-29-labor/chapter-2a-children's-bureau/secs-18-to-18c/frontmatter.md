@@ -1,5 +1,7 @@
 ### §§18 to 18c. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 18, acts Apr. 9, 1912, ch. 73, §1, 37 Stat. 79; Mar. 4, 1913, ch. 141, §3, 37 Stat. 737, which established a Children's Bureau in Department of Labor, was transferred to section 191 of Title 42, The Public Health and Welfare.

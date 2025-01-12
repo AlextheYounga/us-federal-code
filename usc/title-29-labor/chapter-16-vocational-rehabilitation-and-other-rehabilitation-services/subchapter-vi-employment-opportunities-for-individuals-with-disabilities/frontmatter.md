@@ -1,5 +1,7 @@
 ### SUBCHAPTER VI—EMPLOYMENT OPPORTUNITIES FOR INDIVIDUALS WITH DISABILITIES ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 113–128, title IV, §461(1), (2), July 22, 2014, 128 Stat. 1679, amended this subchapter by striking out part A, consisting of sections 795 and 795a, and striking out the heading of part B preceding section 795g.

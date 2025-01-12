@@ -1,5 +1,7 @@
 ### §§3011 to 3015. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections, comprising subchapter I of this chapter "State Grant Programs", were omitted in the general amendment of this chapter by Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1707.

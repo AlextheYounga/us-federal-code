@@ -40,6 +40,8 @@ Sec.
 
 1323. Certifications with respect to circumstances of death.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1997**—Pub. L. 105–33, title VIII, §8031(b)(2), Aug. 5, 1997, 111 Stat. 669, added item 1303.
@@ -53,6 +55,8 @@ Sec.
 **1976**—Pub. L. 94–433, §405(6), (8), Sept. 30, 1976, 90 Stat. 1379, substituted "surviving spouses" for "widows" in item 404 and "surviving spouse" for "widow" in item 411.
 
 **1969**—Pub. L. 91–96, §6, Oct. 27, 1969, 83 Stat. 145, substituted "Determination of pay grade" for "Computation of basic pay" in item 402 and "Certifications with respect to pay grade" for "Certifications with respect to basic pay" in item 421.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Uniformed Services, Promotion of Members in Missing Status; Effective Date ####
 

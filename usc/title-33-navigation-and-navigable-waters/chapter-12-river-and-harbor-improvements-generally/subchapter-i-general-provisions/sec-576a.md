@@ -4,6 +4,8 @@ On and after March 4, 1933, the provisions of section 1343 of title 31 shall be 
 
 (Mar. 4, 1933, ch. 281, title II, §1, 47 Stat. 1599.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 "Section 1343 of title 31" substituted in text for "section 5 of the Act of July 16, 1914 (U.S.C., title 5, sec. 78)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.

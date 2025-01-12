@@ -16,7 +16,7 @@ Sec.
 
 3607. Public-private use policy.
 
-3608. Independent cost estimate.
+3608. Repealed.
 
 3609. Intent of Congress.
 

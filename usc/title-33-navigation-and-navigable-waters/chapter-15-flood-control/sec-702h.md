@@ -6,6 +6,8 @@ The official salary of any officer of the United States Army or other branch of 
 
 (May 15, 1928, ch. 569, §8, 45 Stat. 537; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 106–53, title V, §558, Aug. 17, 1999, 113 Stat. 354.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Herein, referred to in text, means act May 15, 1928, ch. 569, 45 Stat. 534, which enacted sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, 702k, 702l, 702m, and 704 of this title. For complete classification of this Act to the Code, see Tables. The "project herein authorized" was specifically authorized by section 702a of this title.
@@ -17,6 +19,8 @@ Provisions of the second paragraph, as amended by Pub. L. 106–53, that read: "
 #### Amendments ####
 
 **1999**—Pub. L. 106–53 amended provisions which were omitted from the second paragraph by substituting "$21,500" for "$7,500". See Codification note above.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

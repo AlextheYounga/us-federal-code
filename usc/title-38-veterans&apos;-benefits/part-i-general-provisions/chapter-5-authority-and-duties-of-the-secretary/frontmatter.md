@@ -62,6 +62,8 @@ Sec.
 
 546. Advisory Committee on Disability Compensation.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Pub. L. 114–58, title VI, §601(2), Sept. 30, 2015, 129 Stat. 538, which directed amendment of this analysis by striking item "521A" and adding item 521A, was executed by striking item 512A "Adaptive sports programs for disabled veterans and members of the Armed Forces" and adding item 521A, to reflect the probable intent of Congress.

@@ -4,6 +4,8 @@ No employer shall be subject to any liability or punishment under the Fair Labor
 
 (Oct. 26, 1949, ch. 736, §16(e), 63 Stat. 920.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Fair Labor Standards Act of 1938, referred to in text, is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 201 of this title and Tables.

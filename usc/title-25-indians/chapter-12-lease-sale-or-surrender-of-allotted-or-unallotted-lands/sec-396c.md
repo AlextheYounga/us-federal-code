@@ -4,6 +4,8 @@ On and after May 11, 1938, lessees of restricted Indian lands, tribal or allotte
 
 (May 11, 1938, ch. 198, §3, 52 Stat. 348.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Repeal of Inconsistent Acts ####
 
 For repeal of inconsistent acts, see section 7 of act May 11, 1938, set out as a note under section 396a of this title.

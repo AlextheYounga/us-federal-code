@@ -4,6 +4,8 @@ The Secretary of the Army is authorized to receive from States and political sub
 
 (June 22, 1936, ch. 688, §5 (part), 49 Stat. 1572; July 19, 1937, ch. 511, §1, 50 Stat. 518; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 106–53, title II, §203, Aug. 17, 1999, 113 Stat. 285; Pub. L. 112–74, div. B, title I, §111(a), Dec. 23, 2011, 125 Stat. 858; Pub. L. 113–121, title I, §1015(a), June 10, 2014, 128 Stat. 1222; Pub. L. 115–270, title I, §1169, Oct. 23, 2018, 132 Stat. 3798.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 When originally enacted, section 5 of act June 22, 1936, which consisted of a paragraph (including a proviso) authorizing works of improvement followed by numerous headings and paragraphs describing those authorized works, was not classified to the Code. Act July 19, 1937, amended section 5 of act June 22, 1936, by inserting two additional provisos at the end of the first paragraph. The provisos inserted by the 1937 Act, as amended, form the sole basis for the text appearing in this section, with minor editorial changes to the introductory language of the provisos. Subsequent amendments to section 5 of act June 22, 1936, have generally been directed to the text of section 5 as it has appeared in the Code and have not taken into account the portion of that section that has never been set out. Those amendments have been executed as directed, to reflect the probable intent of Congress, and amendment notes below reflect such execution without further comment.
@@ -23,6 +25,8 @@ Pub. L. 113–121, §1015(a)(1), (2), inserted "and other non-Federal interests"
 **1999**—Pub. L. 106–53 inserted "or environmental restoration" after "flood control".
 
 **1937**—Act July 19, 1937, inserted text of section.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

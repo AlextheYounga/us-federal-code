@@ -4,6 +4,8 @@ On and after October 21, 1998, notwithstanding any other provision of law, India
 
 (Pub. L. 105–277, div. A, §101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–246.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Similar Provisions ####
 
 Similar provisions were contained in the following prior appropriations acts:

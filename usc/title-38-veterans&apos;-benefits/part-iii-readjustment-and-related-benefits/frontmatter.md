@@ -27,6 +27,8 @@ Chap. Sec.
 
 43. Employment and Reemployment Rights of Members of the Uniformed Services 4301
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2008**—Pub. L. 110–252, title V, §5003(a)(2), June 30, 2008, 122 Stat. 2375, added item for chapter 33.
@@ -66,6 +68,8 @@ Pub. L. 93–508, title IV, §404(b), Dec. 3, 1974, 88 Stat. 1600, added item fo
 **1966**—Pub. L. 89–358, §§4(c), 6(b), Mar. 3, 1966, 80 Stat. 23, 27, added item for chapter "34. Veterans' Educational Assistance . . . 1650", struck out item for chapter "33. Education of Korean Conflict Veterans . . . 1601" and added item for chapter 36; and substituted "Job Counseling and Employment Placement Service for Veterans" for "Unemployment Benefits for Veterans" in item for chapter 41.
 
 **1965**—Pub. L. 89–50, §1(b), June 24, 1965, 79 Stat. 173, struck out item for chapter 43 "Mustering-Out Payments".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Continuation of Department of Veterans Affairs Educational Assistance Benefits for Certain Programs of Education Converted to Distance Learning by Reason of Emergencies and Health-Related Situations ####
 

@@ -22,6 +22,8 @@ A prior section 1634, Pub. L. 97–300, title II, §255, formerly §254, Oct. 13
 
 Section 1635, Pub. L. 97–300, title II, §256, as added Pub. L. 102–367, title II, §205, Sept. 7, 1992, 106 Stat. 1063; amended Pub. L. 103–227, title X, §1016(b), Mar. 31, 1994, 108 Stat. 268, related to transfer of funds.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, set out as a note under section 1501 of this title.

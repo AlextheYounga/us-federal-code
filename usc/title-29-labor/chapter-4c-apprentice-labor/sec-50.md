@@ -4,6 +4,8 @@ The Secretary of Labor is authorized and directed to formulate and promote the f
 
 (Aug. 16, 1937, ch. 663, §1, 50 Stat. 664; 1939 Reorg. Plan No. I, §§ 201, 204, 206, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424, 1425; July 12, 1943, ch. 221, title VII, 57 Stat. 518; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 93–198, title II, § 204(h), Dec. 24, 1973, 87 Stat. 784; Pub. L. 96–88, title III, §301(a)(1), Oct. 17, 1979, 93 Stat. 677.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 17 of title 20, referred to in text, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 643.
@@ -15,6 +17,8 @@ Words "with the National Youth Administration" were omitted from text in view of
 #### Amendments ####
 
 **1973**—Pub. L. 93–198 inserted provision that "State" includes the District of Columbia.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1973 Amendment ####
 
@@ -31,6 +35,10 @@ The act of Aug. 16, 1937, ch. 663, 50 Stat. 664, which enacted this chapter, is 
 #### Transfer of Functions ####
 
 "Secretary of Education" substituted in text for "Office of Education under the Department of Health, Education, and Welfare", pursuant to section 301(a)(1) of Pub. L. 96–88, which is classified to section 3441(a)(1) of Title 20, Education, and which transferred all functions of Office of Education to Secretary of Education.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 

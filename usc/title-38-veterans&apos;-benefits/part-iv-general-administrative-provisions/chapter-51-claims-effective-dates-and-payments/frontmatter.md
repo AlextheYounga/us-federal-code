@@ -68,6 +68,8 @@ Sec.
 
 Amendment of analysis by section 2(f)(2), (g)(2), (h)(2), (i)(3), (k)(2) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Pub. L. 115–55, §2(f)(2), (g)(2), (h)(2), (i)(3), (k)(2), Aug. 23, 2017, 131 Stat. 1107–1109, added items 5104A to 5104C and substituted "Supplemental claims" for "Reopening disallowed claims" in item 5108 and "Expedited treatment of returned and remanded claims" for "Expedited treatment of remanded claims" in item 5109B.

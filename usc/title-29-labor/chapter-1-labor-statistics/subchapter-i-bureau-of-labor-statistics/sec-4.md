@@ -4,6 +4,8 @@ It shall be the duty of the Commissioner of Labor Statistics to ascertain the ef
 
 (June 13, 1888, ch. 389, §7, 25 Stat. 183; Aug. 23, 1912, ch. 350, §1, 37 Stat. 407; Mar. 4, 1913, ch. 141, §3, 37 Stat. 737; May 29, 1928, ch. 901, §1(110), (111), 45 Stat. 994.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is from act June 13, 1888. Act June 13, 1888, also contained other provisions relating to duties of former Commissioner of Labor to ascertain cost of producing, in leading countries, articles dutiable in United States, comparative cost of living, etc., which have been omitted from this section because of act Aug. 23, 1912, transferring those duties to Bureau of Foreign and Domestic Commerce.
@@ -15,6 +17,8 @@ Act Mar. 4, 1913, authorized the substitution of "Commissioner of Labor Statisti
 #### Amendments ####
 
 **1928**—Act May 29, 1928, repealed provisions requiring reports to Congress on investigations required by this section, and is authority for omission of "and report as to" after "ascertain" in first sentence and "and report thereon to Congress" at end of third sentence relating to information from foreign nations, and convict made goods.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

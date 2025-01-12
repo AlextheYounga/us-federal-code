@@ -4,6 +4,8 @@ Section 1085b, Pub. L. 93–406, title I, §307, as added Pub. L. 100–203, tit
 
 Section 1086, Pub. L. 93–406, title I, §308, formerly §306, Sept. 2, 1974, 88 Stat. 874, renumbered §307, Pub. L. 99–272, title XI, §11015(a)(1)(A)(i), Apr. 7, 1986, 100 Stat. 264; renumbered §308, Pub. L. 100–203, title IX, §9341(b)(1), Dec. 22, 1987, 101 Stat. 1330–370; amended Pub. L. 101–239, title VII, §7894(h)(3), Dec. 19, 1989, 103 Stat. 2451, related to effective dates of part.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to plan years beginning after 2007, see section 101(d) of Pub. L. 109–280, set out as an Effective Date note under section 1082 of this title.

@@ -6,6 +6,8 @@ Section 768, acts Aug. 24, 1912, ch. 355, §8, 37 Stat. 487; Mar. 3, 1915, ch. 8
 
 Section 769, act Feb. 25, 1929, ch. 313, §3, 45 Stat. 1262, related to aids to navigation in Panama. See section 541 of Title 14, Coast Guard.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective first day of third month after approval by President [Aug. 4, 1949], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.

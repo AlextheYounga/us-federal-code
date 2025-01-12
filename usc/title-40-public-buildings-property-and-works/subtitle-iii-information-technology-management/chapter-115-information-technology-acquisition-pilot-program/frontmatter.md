@@ -18,6 +18,8 @@ Sec.
 
 [11521, 11522. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Pub. L. 107–314, div. A, title VIII, §825(b)(3)(A), Dec. 2, 2002, 116 Stat. 2616, and Pub. L. 107–347, title II, §210(h)(3)(B), Dec. 17, 2002, 116 Stat. 2938, amended chapter heading identically, substituting "PROGRAM" for "PROGRAMS".

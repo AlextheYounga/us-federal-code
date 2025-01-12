@@ -18,6 +18,8 @@
 
 (July 5, 1884, ch. 229, §4, 23 Stat. 147; Mar. 3, 1909, ch. 264, §6, 35 Stat. 818; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, §1(15), 68 Stat. 967; Pub. L. 107–295, title IV, §445, Nov. 25, 2002, 116 Stat. 2133; Pub. L. 108–176, title VIII, §829(a), Dec. 12, 2003, 117 Stat. 2597.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is from act July 5, 1884, popularly known as the "Rivers and Harbors Appropriation Act of 1884".
@@ -35,6 +37,8 @@ It was amended by act March 3, 1909, to read substantially as set forth above.
 **2002**—Pub. L. 107–295 designated existing provisions as subsec. (a) and added subsec. (b).
 
 **1954**—Act Aug. 30, 1954, repealed last proviso requiring that an itemized statement of expenses incurred in operating, maintaining, keeping in repair, and reconstructing locks, canals, etc., other than the Panama Canal, as provided in this section, should accompany the annual report of the Chief of Engineers.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

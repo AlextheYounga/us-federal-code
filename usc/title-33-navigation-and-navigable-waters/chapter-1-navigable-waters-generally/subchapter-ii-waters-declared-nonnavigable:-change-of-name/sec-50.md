@@ -8,6 +8,8 @@ The right of Congress to alter, amend, or repeal this section is expressly reser
 
 (Mar. 10, 1937, ch. 36, §§1–3, 50 Stat. 28.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Rivers and Harbors Act approved June 25, 1910, referred to in text, is act June 25, 1910, ch. 382, 36 Stat. 630, as amended, which is classified to sections 546, 564, and 643 of this title. For complete classification of this Act to the Code, see Tables.

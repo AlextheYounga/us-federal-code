@@ -1,5 +1,7 @@
 ### §§852 to 852b. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections, which made provision for a Director of the Coast and Geodetic Survey and for a Deputy Director and covered their appointment, rank, pay, and allowances, have been omitted in view of 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title, which abolished such offices and transferred their functions to the Secretary of Commerce. For further details, see Transfer of Functions note set out under section 851 of this title.

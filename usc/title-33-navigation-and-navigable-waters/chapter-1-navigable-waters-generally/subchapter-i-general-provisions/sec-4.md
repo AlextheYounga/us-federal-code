@@ -6,6 +6,8 @@ For the purpose of securing the uninterrupted gauging of the waters of the Missi
 
 (R.S. §5252; Aug. 11, 1888, ch. 860, §6, 25 Stat. 424; June 13, 1902, ch. 1079, §9, 32 Stat. 374; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, §1(15), 68 Stat. 967.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §5252 derived from Res. Feb. 21, 1871, No. 40, 16 Stat. 598.
@@ -15,6 +17,8 @@ The first paragraph of this section is from R.S. §5252, which, as enacted, auth
 #### Amendments ####
 
 **1954**—Act Aug. 30, 1954, repealed proviso requiring that an itemized statement of expenses incurred in gauging waters of the Mississippi River and its tributaries, as provided in this section, should accompany the annual report of the Chief of Engineers.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

@@ -122,6 +122,8 @@ Sec. 1
 
 7699B. Breach of agreement: liability.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Pub. L. 116–171, title V, §502(b)(2), Oct. 17, 2020, 134 Stat. 818, added heading for subchapter IX and items 7698 to 7699B.

@@ -60,6 +60,8 @@ Sec.
 
 4335. Training for Federal executive agency human resources personnel on employment and reemployment rights and limitations.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 This chapter was originally added by Pub. L. 93–508, title IV, §404(a), Dec. 3, 1974, 88 Stat. 1594, and amended by Pub. L. 94–286, May 14, 1976, 90 Stat. 517; Pub. L. 94–502, Oct. 15, 1976, 90 Stat. 2383; Pub. L. 96–466, Oct. 17, 1980, 94 Stat. 2171; Pub. L. 97–295, Oct. 12, 1982, 96 Stat. 1287; Pub. L. 98–620, Nov. 8, 1984, 98 Stat. 3335; Pub. L. 99–576, Oct. 28, 1986, 100 Stat. 3248; Pub. L. 102–12, Mar. 18, 1991, 105 Stat. 34; Pub. L. 102–25, Apr. 6, 1991, 105 Stat. 75; Pub. L. 102–568, Oct. 29, 1992, 106 Stat. 4320. This chapter is shown here, however, as having been added by Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150, without reference to those intervening amendments because of the general amendment of this chapter by Pub. L. 103–353.

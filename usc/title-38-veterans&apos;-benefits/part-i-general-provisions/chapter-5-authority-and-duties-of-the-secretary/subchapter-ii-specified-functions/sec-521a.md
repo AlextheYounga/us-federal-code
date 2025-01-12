@@ -86,6 +86,8 @@
 
 (Added Pub. L. 110–389, title VII, §702(a), Oct. 10, 2008, 122 Stat. 4181; amended Pub. L. 113–37, §2(b)(1), (2), Sept. 30, 2013, 127 Stat. 523; Pub. L. 113–59, §5(a)–(e), (g), (h)(1), Dec. 20, 2013, 127 Stat. 659–662; Pub. L. 114–58, title IV, §405, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, §405, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, §405, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, §165, Sept. 29, 2018, 132 Stat. 3171; Pub. L. 116–159, div. E, title IV, §5403, Oct. 1, 2020, 134 Stat. 751.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Subsec. (g)(1). Pub. L. 116–159, §5403(a), substituted "appropriated amounts as follows:" for "appropriated $8,000,000", inserted "(A) $8,000,000 for each of fiscal years 2010 through 2020." before "for each of fiscal years 2010 through 2020.", and added subpar. (B).
@@ -141,6 +143,8 @@ Pub. L. 113–37, §2(b)(1)(B), substituted "The Secretary may not provide assis
 Subsec. (m). Pub. L. 113–59, §5(g)(7), struck out subsec. (m) which provided for applicability of this section and section 322 of this title to commonwealths and territories of the United States.
 
 Subsec. (m). Pub. L. 113–37, §2(b)(2)(C), added subsec. (m).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2013 Amendment ####
 

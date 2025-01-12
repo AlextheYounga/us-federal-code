@@ -11,6 +11,8 @@ Chap. Sec.
 
 85. Disposition of Deceased Veterans' Personal Property 8501
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1991**—Pub. L. 102–86, title IV, §401(b)(2), Aug. 14, 1991, 105 Stat. 422, inserted "; Enhanced-Use Leases of Real Property" in item for chapter 81.

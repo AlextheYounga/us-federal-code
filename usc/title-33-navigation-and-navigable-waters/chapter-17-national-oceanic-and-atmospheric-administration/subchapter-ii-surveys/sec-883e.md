@@ -6,6 +6,8 @@
 
 (Aug. 6, 1947, ch. 504, §5, 61 Stat. 788; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; Pub. L. 99–272, title VI, §6085, Apr. 7, 1986, 100 Stat. 138; Pub. L. 106–181, title VI, §605(b), Apr. 5, 2000, 114 Stat. 154.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2000**—Par. (1). Pub. L. 106–181, §605(b)(1), substituted "cooperative agreements, or any other agreements," for "cooperative agreements".
@@ -14,9 +16,13 @@ Par. (2). Pub. L. 106–181, §605(b)(2), which directed the striking of "cooper
 
 **1986**—Pub. L. 99–272 designated existing provisions as par. (1), inserted "any Federal agency," after "or subdivision thereof," and added par. (2).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2000 Amendment ####
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of Title 49, Transportation.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

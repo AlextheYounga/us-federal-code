@@ -4,9 +4,13 @@ Leases for oil- and/or gas-mining purposes covering such unallotted lands shall 
 
 (May 11, 1938, ch. 198, §2, 52 Stat. 347.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of June 18, 1934, referred to in text, is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to chapter 45 (§5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Repeal of Inconsistent Acts ####
 

@@ -4,6 +4,8 @@ On and after February 20, 2003, the Secretary of Commerce may award contracts fo
 
 (Pub. L. 108–7, div. B, title II, §206, Feb. 20, 2003, 117 Stat. 77.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Property and Administrative Services Act of 1949, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377. Title IX of the Act, which was classified generally to subchapter VI (§541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§1101 et seq.) of Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.

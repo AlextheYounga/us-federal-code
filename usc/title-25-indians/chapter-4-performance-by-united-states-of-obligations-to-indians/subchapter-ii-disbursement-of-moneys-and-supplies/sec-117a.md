@@ -4,6 +4,8 @@ Funds which are held in trust by the Secretary of the Interior (hereinafter refe
 
 (Pub. L. 98–64, §1, Aug. 2, 1983, 97 Stat. 365.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 98–64, Aug. 2, 1983, 97 Stat. 365, which enacted sections 117a to 117c and repealed section 117 of this title and repealed section 19 (per capita payments provisions) of act June 28, 1898, ch. 517, 30 Stat. 502, is popularly known as the "Per Capita Act".

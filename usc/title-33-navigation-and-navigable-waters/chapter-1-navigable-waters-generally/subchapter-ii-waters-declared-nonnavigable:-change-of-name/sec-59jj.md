@@ -138,6 +138,8 @@ If, on the date that is 20 years after November 12, 2001, any area or portion of
 
 (Pub. L. 107–66, title I, §107, Nov. 12, 2001, 115 Stat. 494.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of March 3, 1899, referred to in subsec. (b)(2)(A), is act Mar. 3, 1899, ch. 425, 30 Stat. 1121, as amended, which enacted sections 401, 403, 404, 406, 407, 408, 409, 411 to 416, 418, 502, 549, and 687 of this title and amended section 686 of this title. For complete classification of this Act to the Code, see Tables.

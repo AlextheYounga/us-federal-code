@@ -98,7 +98,7 @@ Sec. 33. Executive Order No. 10798 of January 3, 1959, is hereby revoked.
 
 Dwight D. Eisenhower.
 
-<img src="http://uscode.house.gov/images/uscprelim/t4flag.gif" width="700" />
+<img src="http://uscode.house.gov/images/uscprelim/t4flag.png" width="700" />
 
 |Hoist (width) of flag 1.0|Fly (length) of flag 1.9|Hoist (width) of Union 0.5385<br/><br/>(7/13)|Fly (length) of Union 0.76|0.054|0.054|0.063|0.063|Diameter of star 0.0616|Width of stripe 0.0769<br/><br/>(1/13)|
 |-------------------------|------------------------|---------------------------------------------|--------------------------|-----|-----|-----|-----|-----------------------|--------------------------------------|

@@ -4,6 +4,8 @@ The Secretary of Labor is authorized to appoint such employees as he may from ti
 
 (Aug. 16, 1937, ch. 663, §3, 50 Stat. 665; July 12, 1943, ch. 221, title VII, 57 Stat. 518.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Proviso authorizing employment of certain persons in the division of apprentice training of National Youth Administration, was omitted in view of abolition of that agency by act July 12, 1943.

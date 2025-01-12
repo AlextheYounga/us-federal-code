@@ -14,6 +14,8 @@ The Architectural and Transportation Barriers Compliance Board, in consultation 
 
 (Pub. L. 93–112, title V, §510, as added Pub. L. 111–148, title IV, §4203, Mar. 23, 2010, 124 Stat. 570.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 March 23, 2010, referred to in subsec. (a), was in the original "the date of enactment of the Affordable Health Choices Act", which was translated as meaning the date of enactment of the Patient Protection and Affordable Care Act, Pub. L. 111–148, which enacted this section, to reflect the probable intent of Congress.

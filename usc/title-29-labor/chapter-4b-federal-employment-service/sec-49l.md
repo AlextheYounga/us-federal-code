@@ -8,6 +8,8 @@
 
 (June 6, 1933, ch. 49, §13, as added Pub. L. 97–300, title VI, §601(h), formerly title V, §501(h), Oct. 13, 1982, 96 Stat. 1397; renumbered title VI, §601(h), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; amended Pub. L. 97–404, §5, Dec. 31, 1982, 96 Stat. 2027; Pub. L. 113–128, title III, §307, July 22, 2014, 128 Stat. 1627.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 49l, act June 6, 1933, ch. 49, §13, 48 Stat. 117, relating to mail franking privileges to employment systems, was transferred to section 338 of former Title 39, The Postal Service. Section 338 of former Title 39 was repealed and reenacted as section 4152 of former Title 39, The Postal Service by Pub. L. 86–682, Sept. 2, 1960, 74 Stat. 578. Section 4152 of former Title 39 was repealed and reenacted as section 3202 of Title 39, Postal Service, by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
@@ -17,6 +19,8 @@ A prior section 49l, act June 6, 1933, ch. 49, §13, 48 Stat. 117, relating to m
 **2014**—Subsec. (a). Pub. L. 113–128 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary is authorized to establish performance standards for activities under this chapter which shall take into account the differences in priorities reflected in State plans."
 
 **1982**—Subsec. (b). Pub. L. 97–404 designated existing provisions as par. (1) and added par. (2).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2014 Amendment ####
 

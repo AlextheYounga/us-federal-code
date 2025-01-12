@@ -108,6 +108,8 @@ Sec.
 
 [3771 to 3775. Repealed or renumbered.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–174, title III, §309(a)(4), May 24, 2018, 132 Stat. 1350, added item 3709.
@@ -161,6 +163,8 @@ Pub. L. 97–253, title IV, §406(a)(2), Sept. 8, 1982, 96 Stat. 805, added item
 **1966**—Pub. L. 89–358, §5(b), (f)(2), Mar. 3, 1966, 80 Stat. 26, 27, added items 1818 and 1826.
 
 **1960**—Pub. L. 86–665, §§6(b), 7(b), July 14, 1960, 74 Stat. 532, 533, added items 1806 and 1824 and renumbered former item 1824 as 1825.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Maximum Interest Rates for Mortgage Insurance Program ####
 

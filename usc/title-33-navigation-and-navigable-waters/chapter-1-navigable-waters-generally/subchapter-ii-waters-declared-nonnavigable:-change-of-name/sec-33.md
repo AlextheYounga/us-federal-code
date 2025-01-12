@@ -4,6 +4,8 @@ Little River, from Big Lake in Mississippi County to Marked Tree in Poinsett Cou
 
 (Mar. 2, 1919, ch. 95, §4, 40 Stat. 1287.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is from section 4 of act Mar. 2, 1919, popularly known as the "Rivers and Harbors Appropriation Act of 1919".

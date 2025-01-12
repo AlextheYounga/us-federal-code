@@ -4,6 +4,8 @@ Section 753, act June 20, 1918, ch. 103, §4, 40 Stat. 608, related to sale of p
 
 Section 754, acts July 27, 1912, ch. 255, §2, 37 Stat. 239; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736, related to sale of clothing to employees. See section 2708 of Title 14, Coast Guard.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective first day of third month after approval by President [Aug. 4, 1949], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.

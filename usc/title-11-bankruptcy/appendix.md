@@ -9856,7 +9856,7 @@ This procedure does not affect the availability of any remedies that an individu
 
 ### APPENDIX ###
 
-<img src="http://uscode.house.gov/images/uscprelim/11appf1p1.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/11appf1p2.gif" width="700" />
+<img src="http://uscode.house.gov/images/uscprelim/11appf1p1.png" width="700" /><img src="http://uscode.house.gov/images/uscprelim/11appf1p2.png" width="700" />
 
 (As added Apr. 26, 2018, eff. Dec. 1, 2018.)
 

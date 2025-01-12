@@ -12,6 +12,8 @@ In order that full public benefit may be derived from the operations of the Nati
 
 (Aug. 6, 1947, ch. 504, §2, 61 Stat. 787; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 106–181, title VI, §605(a), Apr. 5, 2000, 114 Stat. 154.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2000**—Par. (3). Pub. L. 106–181, §605(a)(1), (2), redesignated par. (4) as (3), substituted "charts;" for "charts of the United States, its Territories, and possessions;" and struck out former par. (3) which read as follows: "Compilation and printing of aeronautical charts of the United States, its Territories, and possessions; and, in addition, the compilation and printing of such aeronautical charts covering international airways as are required primarily by United States Civil aviation;".
@@ -22,9 +24,13 @@ Par. (5). Pub. L. 106–181, §605(a)(1), struck out par. (5) which read as foll
 
 Par. (6). Pub. L. 106–181, §605(a)(1), redesignated par. (6) as (4).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2000 Amendment ####
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of Title 49, Transportation.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

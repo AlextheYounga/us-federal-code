@@ -16,11 +16,15 @@ Subsection (a) shall take effect with respect to employers in a State beginning 
 
 (June 25, 1938, ch. 676, §18B, as added and amended Pub. L. 111–148, title I, §1512, title X, §10108(i)(2), Mar. 23, 2010, 124 Stat. 252, 914; Pub. L. 112–10, div. B, title VIII, §1858(c), Apr. 15, 2011, 125 Stat. 169.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Subsec. (a)(3). Pub. L. 112–10 struck out "and the employer does not offer a free choice voucher" after "Exchange".
 
 **2010**—Subsec. (a)(3). Pub. L. 111–148, §10108(i)(2), inserted "and the employer does not offer a free choice voucher" after "Exchange" and substituted "may lose" for "will lose".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2011 Amendment ####
 

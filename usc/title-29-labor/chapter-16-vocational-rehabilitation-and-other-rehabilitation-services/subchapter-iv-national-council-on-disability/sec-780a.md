@@ -14,6 +14,8 @@ References in any statute, reorganization plan, Executive order, regulation, or 
 
 (Pub. L. 98–221, title I, §141(b), Feb. 22, 1984, 98 Stat. 26.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Rehabilitation Act of 1973, referred to in par. (2), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to this chapter (§701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
@@ -21,6 +23,8 @@ The Rehabilitation Act of 1973, referred to in par. (2), is Pub. L. 93–112, Se
 #### Codification ####
 
 Section was enacted as part of the Rehabilitation Amendments of 1984, and not as part of Rehabilitation Act of 1973 which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

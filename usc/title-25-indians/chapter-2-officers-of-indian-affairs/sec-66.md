@@ -6,9 +6,13 @@ The pay of any superintendent who performs agency duties in addition to those of
 
 (Mar. 1, 1907, ch. 2285, 34 Stat. 1020; Pub. L. 92–310, title II, §229(d), June 6, 1972, 86 Stat. 208.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1972**—Pub. L. 92–310 struck out provisions which required the superintendent of the Indian school to give a bond as other Indian agents.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

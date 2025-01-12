@@ -4,6 +4,8 @@ Section, added Pub. L. 104–204, title IV, §421(b)(1), Sept. 26, 1996, 110 Sta
 
 A prior section 1801 was renumbered section 3701 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on the first day of the first month beginning more than one year after Nov. 1, 2000, see section 401(g) of Pub. L. 106–419, set out as an Effective Date note under section 1811 of this title.

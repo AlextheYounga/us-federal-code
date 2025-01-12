@@ -14,6 +14,8 @@ Section 1661e, Pub. L. 97–300, title III, §316, as added Pub. L. 100–418, t
 
 Section 1661f, Pub. L. 97–300, title III, §317, as added Pub. L. 100–418, title VI, §6302(a), Aug. 23, 1988, 102 Stat. 1536, related to functions of State job training coordinating council.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, set out as a note under section 1501 of this title.

@@ -4,6 +4,8 @@ Notwithstanding this or any other Act regulating labor-management relations, eac
 
 (Pub. L. 98–473, title II, §2201, Oct. 12, 1984, 98 Stat. 2192.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, probably means title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1976, known as the Comprehensive Crime Control Act of 1984. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.

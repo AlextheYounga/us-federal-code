@@ -4,9 +4,13 @@ Appropriations are hereby authorized out of any money in the Treasury not otherw
 
 (May 26, 1928, ch. 756, 45 Stat. 750.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Highway Act, referred to in text, is act Nov. 9, 1921, ch. 119, 42 Stat. 212, which enacted sections 1, 2, 3, 3a, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 to 20, 21, 22, 23, 24, and 25 of former Title 23, Highways, and amended sections 5 and 12a of former Title 23 and section 3 of Title 50, War and National Defense. Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 919, repealed the Federal Highway Act, with the exception of the amendment to section 3 of Title 50, as part of the general revision and reenactment of Title 23, Highways.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Appropriations for Fiscal Years 1950 and 1951 ####
 

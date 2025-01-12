@@ -1094,7 +1094,7 @@ Pub. L. 114–215, July 29, 2016, 130 Stat. 830, provided that:
 
 #### United States Semiquincentennial Commission ####
 
-Pub. L. 114–196, July 22, 2016, 130 Stat. 685, provided that:
+Pub. L. 114–196, July 22, 2016, 130 Stat. 685, as amended by Pub. L. 116–282, §2, Dec. 31, 2020, 134 Stat. 3386, provided that:
 
 #### "SECTION 1. SHORT TITLE. ####
 
@@ -1172,7 +1172,15 @@ Pub. L. 114–196, July 22, 2016, 130 Stat. 685, provided that:
 
 "(H) The Archivist of the United States.
 
-"(I) The presiding officer of the Federal Council on the Arts and the Humanities.
+"(I) The Chairperson of the National Endowment for the Arts.
+
+"(J) The Chairperson of the National Endowment for the Humanities.
+
+"(K) The Director of the Institute of Museum and Library Services.
+
+"(L)(i) The Chief Justice of the United States; or
+
+"(ii) an Associate Justice or former Associate Justice appointed by the Chief Justice of the United States.
 
 "(c) Term; Vacancies.—
 
@@ -1184,7 +1192,13 @@ Pub. L. 114–196, July 22, 2016, 130 Stat. 685, provided that:
 
 "(B) shall be filled in the same manner as the original appointment was made.
 
-"(d) Meetings.—All meetings of the Commission shall be convened at Independence Hall in Philadelphia, Pennsylvania, to honor the historical significance of the building as the site of deliberations and adoption of both the United States Declaration of Independence and Constitution.
+"(3) Removal of members who are private citizens.—Following notice and approval of the relevant appointing authority, on an affirmative vote of not less than 2/3 of the members of the Commission, the Commission may remove a member of the Commission appointed under subsection (b)(3).
+
+"(d) Meetings.—
+
+"(1) Location of first meeting.—The first meeting of the Commission shall be convened at Independence Hall in Philadelphia, Pennsylvania, to honor the historical significance of the building as the site of deliberations and adoption of both the United States Declaration of Independence and Constitution.
+
+"(2) Location of subsequent meetings.—At least 1 meeting of the Commission each year shall be held in Philadelphia, Pennsylvania.
 
 "(e) Quorum.—A majority of the members of the Commission shall constitute a quorum, but a lesser number of members may hold hearings.
 
@@ -1228,7 +1242,7 @@ Pub. L. 114–196, July 22, 2016, 130 Stat. 685, provided that:
 
 "(c) Report Submitted to the President.—
 
-"(1) In general.—Not later than 2 years after the date of enactment of this Act [July 22, 2016], the Commission shall submit to the President a comprehensive report that includes the specific recommendations of the Commission for the commemoration of the 250th anniversary and related events.
+"(1) In general.—Not later than March 31, 2020, the Commission shall submit to the President a comprehensive report that includes the specific recommendations of the Commission for the commemoration of the 250th anniversary and related events.
 
 "(2) Recommended activities.—The report may include recommended activities such as—
 
@@ -1284,7 +1298,7 @@ Pub. L. 114–196, July 22, 2016, 130 Stat. 685, provided that:
 
 "(3) Arts and humanities.—
 
-"(A) In general.—The presiding officer of the Federal Council on the Arts and the Humanities, the Chairperson of the National Endowment for the Arts, and the Chairperson of the National Endowment for the Humanities shall cooperate with the Commission, especially in the encouragement and coordination of scholarly works and artistic expressions focusing on the history, culture, and political thought of the period predating the United States Semiquincentennial.
+"(A) In general.—The Chairperson of the National Endowment for the Arts, the Chairperson of the National Endowment for the Humanities, and the Director of the Institute of Museum and Library Services shall cooperate with the Commission, especially in the encouragement and coordination of scholarly works and artistic expressions focusing on the history, culture, and political thought of the period predating the United States Semiquincentennial.
 
 "(B) Library of congress, smithsonian institution, and archives.—
 
@@ -1298,7 +1312,7 @@ Pub. L. 114–196, July 22, 2016, 130 Stat. 685, provided that:
 
 "(ii) to incorporate in the report described in section 5(c) such findings and recommendations as the Commission considers appropriate.
 
-"(4) Department of state.—The Secretary of State shall coordinate the participation of foreign nations in the celebration of the United States Semiquincentennial, including by soliciting the erection of monuments and other cultural cooperations in founding cities of the United States so as—
+"(4) Department of state.—The Secretary of State shall coordinate the participation of foreign nations in the celebration of the United States Semiquincentennial, including by soliciting the erection of monuments and other cultural cooperations in founding and other cities of the United States so as—
 
 "(A) to celebrate the shared heritage of the United States with the many peoples and nations of the world; and
 
@@ -1374,7 +1388,7 @@ Pub. L. 114–196, July 22, 2016, 130 Stat. 685, provided that:
 
 #### "SEC. 9. EXPENDITURES OF COMMISSION. ####
 
-"(a) In General.—All expenditures of the Commission shall be made solely from donated funds.
+"(a) In General.—All expenditures of the Commission shall be made from donations, earned income, and any funds made available to carry out this Act under subsection (f).
 
 "(b) Administrative Secretariat.—The Secretary of the Interior shall, through a competitive process, seek to enter into an arrangement with a nonprofit organization, the mission of which is consistent with the purpose of this Act. Under such arrangement, such nonprofit organization shall—
 
@@ -1396,7 +1410,11 @@ Pub. L. 114–196, July 22, 2016, 130 Stat. 685, provided that:
 
 "(B) No promulgation by commission.—The Commission shall not be required to prescribe any regulations relating to the matters described in subparagraph (A).
 
-"(d) Annual Report.—Once each year during the period beginning on the date of enactment of this Act [July 22, 2016] and ending on December 31, 2027, the Commission shall submit to Congress a report of the activities of the Commission, including an accounting of funds received and expended during the year covered by the report.
+"(d) Annual Report.—Annually during the period beginning 1 year after the Commission submits the report to the President under section 5(c)(1) and ending on December 31, 2027, the Commission shall submit to Congress a report of the activities of the Commission, including an accounting of funds received and expended during the year covered by the report.
+
+"(e) Intellectual Property Protections.—The Commission shall have the exclusive right to use, and to allow others to use, the official marks, imprimaturs, and logos of the Commission.
+
+"(f) Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this Act.
 
 #### "SEC. 10. TERMINATION OF COMMISSION. ####
 

@@ -60,6 +60,8 @@ Sec.
 
 [3036. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2012**—Pub. L. 112–154, title IV, §402(b)(2), Aug. 6, 2012, 126 Stat. 1190, struck out item 3036 "Reporting requirement".

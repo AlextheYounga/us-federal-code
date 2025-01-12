@@ -4,9 +4,13 @@ It shall be unlawful for any employer or his duly authorized agent to discharge 
 
 (Mar. 4, 1927, ch. 509, §49, as added Pub. L. 92–576, §19, Oct. 27, 1972, 86 Stat. 1263; amended Pub. L. 98–426, §26, Sept. 28, 1984, 98 Stat. 1654.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1984**—Pub. L. 98–426 inserted after first sentence "The discharge or refusal to employ a person who has been adjudicated to have filed a fraudulent claim for compensation is not a violation of this section.", substituted "$1,000" for "$100", and substituted "$5,000" for "$1,000".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1984 Amendment ####
 

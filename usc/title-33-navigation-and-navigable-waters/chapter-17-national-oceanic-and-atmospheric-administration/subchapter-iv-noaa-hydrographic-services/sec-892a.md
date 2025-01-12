@@ -42,6 +42,8 @@ Where appropriate and to the extent that it does not detract from the promotion 
 
 (Pub. L. 105–384, title III, §303, Nov. 13, 1998, 112 Stat. 3454; Pub. L. 107–372, title I, §103, Dec. 19, 2002, 116 Stat. 3079; Pub. L. 110–386, §3, Oct. 10, 2008, 122 Stat. 4107.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsecs. (a) and (b), was in the original "this Act", and was translated, to reflect the probable intent of Congress, as reading "this title", meaning title III of Pub. L. 105–384, Nov. 13, 1998, 112 Stat. 3454, known as the Hydrographic Services Improvement Act of 1998, which is classified principally to this subchapter. For complete classification of title III to the Code, see Short Title of 1998 Amendment note set out under section 851 of this title and Tables.
@@ -59,6 +61,8 @@ Subsec. (b). Pub. L. 110–386, §3(3), added subsec. (b) and struck out former 
 **2002**—Subsec. (b)(4). Pub. L. 107–372, §103(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "may design and install where appropriate Physical Oceanographic Real-Time Systems to enhance navigation safety and efficiency."
 
 Subsec. (c). Pub. L. 107–372, §103(b), added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Charting and Survey Services ####
 

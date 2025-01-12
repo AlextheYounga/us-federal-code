@@ -1,5 +1,7 @@
 ### §§48c to 48g. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 48c, act Feb. 10, 1931, ch. 117, §4, 46 Stat. 1085; Ex. Ord. No. 6623, Mar. 1, 1934; 1939 Reorg. Plan No. I, §§4, 6, eff. July 1, 1939, 4 F.R. 2727, 53 Stat. 1423, related to basis of action of the National Resources Planning Board which was abolished. See note below.
@@ -11,6 +13,8 @@ Section 48e, act Feb. 10, 1931, ch. 117, §6, 46 Stat. 1086, related to use of e
 Section 48f, act Feb. 10, 1931, ch. 117, §7, 46 Stat. 1086, related to acceleration of emergency construction work.
 
 Section 48g, act Feb. 10, 1931, ch. 117, §8, 46 Stat. 1086; Ex. Ord. No. 6623, Mar. 1, 1934; 1939 Reorg. Plan No. I, §§4, 6, eff. July 1, 1939, 4 F.R. 2727, 53 Stat. 1423, related to advance planning by construction agencies of the government and submission of programs, plans, and estimates to the National Resources Planning Board which was abolished. See note below.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### National Resources Planning Board ####
 

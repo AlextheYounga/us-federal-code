@@ -16,6 +16,8 @@ for the purpose of assisting such persons or entities in removing architectural,
 
 (Pub. L. 93–112, title V, §506, as added Pub. L. 95–602, title I, §120(a), Nov. 6, 1978, 92 Stat. 2983; amended Pub. L. 100–630, title II, §206(e), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title V, §507, Oct. 29, 1992, 106 Stat. 4428; Pub. L. 105–220, title IV, §408(a)(4), Aug. 7, 1998, 112 Stat. 1203; Pub. L. 105–394, title II, §203(b), Nov. 13, 1998, 112 Stat. 3653.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1998**—Subsec. (a). Pub. L. 105–220, §408(a)(4)(A), in concluding provisions, inserted last sentence and struck out former last sentence which read as follows: "Any concurrence of the Access Board under this paragraph shall reflect its consideration of the cost studies carried out by States under section 792(c)(1) of this title."

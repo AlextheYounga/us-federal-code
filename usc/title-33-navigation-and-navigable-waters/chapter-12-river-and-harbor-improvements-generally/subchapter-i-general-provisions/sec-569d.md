@@ -20,6 +20,8 @@ There is authorized to be appropriated $350,000 for each fiscal year beginning a
 
 (Pub. L. 102–580, title II, §210, Oct. 31, 1992, 106 Stat. 4830.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### "Secretary" Defined ####
 
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under section 2201 of this title.

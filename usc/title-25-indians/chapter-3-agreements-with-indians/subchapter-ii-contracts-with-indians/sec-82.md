@@ -4,9 +4,13 @@ No money shall be paid to any agent or attorney by an officer of the United Stat
 
 (R.S. §2104.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §2104 derived from act May 21, 1872, ch. 177, §3, 17 Stat. 137.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

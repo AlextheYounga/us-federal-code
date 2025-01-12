@@ -4,9 +4,13 @@ The sum of $5,000,000 is authorized to be appropriated as an emergency fund to b
 
 (May 15, 1928, ch. 569, §7, 45 Stat. 537; June 19, 1930, ch. 542, 46 Stat. 787; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1930**—Act June 19, 1930, inserted provisos.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

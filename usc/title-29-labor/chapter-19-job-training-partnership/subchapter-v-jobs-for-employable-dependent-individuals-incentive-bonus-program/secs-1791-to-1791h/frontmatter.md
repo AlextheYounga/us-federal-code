@@ -28,6 +28,8 @@ Section 1791g, Pub. L. 97–300, title V, §508, as added Pub. L. 100–628, tit
 
 Section 1791h, Pub. L. 97–300, title V, §509, as added Pub. L. 100–628, title VII, §712(a)(3), Nov. 7, 1988, 102 Stat. 3253; amended Pub. L. 102–367, title V, §501, Sept. 7, 1992, 106 Stat. 1099, related to implementing regulations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, set out as a note under section 1501 of this title.

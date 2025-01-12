@@ -86,9 +86,13 @@ The Secretary shall prioritize and complete the activities required of the Secre
 
 (Pub. L. 113–121, title I, §1007, June 10, 2014, 128 Stat. 1214; Pub. L. 114–322, title I, §1156(b), Dec. 16, 2016, 130 Stat. 1665.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Subsecs. (f), (g). Pub. L. 114–322 added subsecs. (f) and (g).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### "Secretary" Defined ####
 

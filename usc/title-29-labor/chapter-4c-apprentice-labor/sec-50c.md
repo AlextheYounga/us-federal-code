@@ -36,6 +36,8 @@ Notwithstanding any other provision of law, for any program applying to become a
 
 (Pub. L. 116–134, §2, Mar. 26, 2020, 134 Stat. 276.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Act of August 16, 1937, referred to in subsec. (a)(1), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, popularly known as the National Apprenticeship Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.

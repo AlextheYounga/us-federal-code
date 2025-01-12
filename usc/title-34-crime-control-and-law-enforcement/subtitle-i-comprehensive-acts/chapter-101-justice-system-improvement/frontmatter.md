@@ -556,15 +556,33 @@ Sec.
 
 10741. Grant program to evaluate and improve educational methods at prisons, jails, and juvenile facilities.
 
+#### SUBCHAPTER XLI—CRISIS STABILIZATION AND COMMUNITY REENTRY PROGRAM ####
+
+10751. Grant authorization.
+
+10752. Applications.
+
+10753. Review of applications.
+
+10754. Evaluation.
+
+10755. Authorization of funding.
+
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Title I of the Omnibus Crime Control and Safe Streets Act of 1968, comprising this chapter, was originally enacted by Pub. L. 90–351, June 19, 1968, 82 Stat. 197, and amended by Pub. L. 91–644, Jan. 2, 1971, 84 Stat. 1880; Pub. L. 93–83, Aug. 6, 1973, 87 Stat. 197; Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 94–237, Mar. 19, 1976, 90 Stat. 241; Pub. L. 94–273, Apr. 21, 1976, 90 Stat. 375; Pub. L. 94–430, Sept. 29, 1976, 90 Stat. 1346; Pub. L. 94–503, Oct. 15, 1976, 90 Stat. 2407; Pub. L. 95–115, Oct. 3, 1977, 91 Stat. 1048. Such title is shown herein, however, as having been added by Pub. L. 96–157, Dec. 27, 1979, 93 Stat. 1167, without reference to such intervening amendments because of the extensive revision of the title's provisions by Pub. L. 96–157.
 
 Title I of the Omnibus Crime Control and Safe Streets Act of 1968 was formerly classified to chapter 46 (§3701 et seq.) of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this chapter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Law Enforcement Assistance Act of 1965 ####
 
 Pub. L. 89–197, §§1–11, Sept. 22, 1965, 79 Stat. 828, as amended by Pub. L. 89–798, Nov. 8, 1966, 80 Stat. 1506, was repealed by Pub. L. 90–351, title I, §405, June 19, 1968, 82 Stat. 204, subject to the provisions of former section 3745 of Title 42, The Public Health and Welfare. See section 10101 et seq. (chapter 101) of this title. Such Act had provided for grants and contracts for improvement of quality of state and local personnel through professional training; grants and contracts to improve state and local law enforcement techniques; delegation and redelegation of powers; contributions to program by recipients, rules and regulations, necessary stipends, and allowances; studies by Attorney General and technical assistance to states; prohibition against control over local agencies; advisory committees, compensation, and expenses; term of program; appropriations; and reports to President and Congress.
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 11396. Coordination By Attorney General of Federal Law Enforcement and Crime Prevention Programs ####
 

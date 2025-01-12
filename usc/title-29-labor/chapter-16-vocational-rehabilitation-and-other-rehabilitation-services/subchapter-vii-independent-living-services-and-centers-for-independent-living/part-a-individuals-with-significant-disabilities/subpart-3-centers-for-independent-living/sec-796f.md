@@ -72,6 +72,8 @@ Whenever the Administrator determines that any amount of an allotment to a State
 
 (Pub. L. 93–112, title VII, §721, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1226; amended Pub. L. 113–128, title IV, §481, July 22, 2014, 128 Stat. 1691.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Part B of this subchapter, as in effect on the day before October 29, 1992, referred to in subsec. (c)(1)(B), (C), means former part B (§796e) which was included in the repeal of subchapter VII of this chapter by Pub. L. 102–569, title VII, §701(1), Oct. 29, 1992, 106 Stat. 4443.

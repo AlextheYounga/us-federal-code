@@ -4,6 +4,8 @@ The three bodies of water located at block 4004, lots 1 and 2, and block 4003, l
 
 (Pub. L. 100–676, §54, Nov. 17, 1988, 102 Stat. 4046.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, as amended, which is classified generally to subchapter III (§525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 525 of this title and Tables.

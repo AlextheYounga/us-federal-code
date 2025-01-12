@@ -6,6 +6,8 @@ Section 1672, Pub. L. 97–300, title IV, §402, Oct. 13, 1982, 96 Stat. 1369; P
 
 Section 1673, Pub. L. 97–300, title IV, §403, as added Pub. L. 102–367, title IV, §401(g), Sept. 7, 1992, 106 Stat. 1076, related to grant procedures.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, set out as a note under section 1501 of this title.

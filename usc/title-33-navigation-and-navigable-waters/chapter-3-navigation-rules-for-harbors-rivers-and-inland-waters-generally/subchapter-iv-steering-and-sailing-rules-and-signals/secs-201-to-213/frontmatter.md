@@ -26,6 +26,8 @@ Section 212, act June 7, 1897, ch. 4, §1, 30 Stat. 102, provided for departure 
 
 Section 213, act June 7, 1897, ch. 4, §1, 30 Stat. 102, related to signal to be given that a vessel's engines are going at full speed astern.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Dec. 24, 1981, see section 7 of Pub. L. 96–591, set out as an Effective Date of 1980 Amendment note under section 1604 of this title.

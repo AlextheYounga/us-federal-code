@@ -392,6 +392,8 @@ Sec.
 
 1300n to 1300n–6. Omitted.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 This chapter has been editorially reorganized. Pursuant to this reorganization, subchapters II, IV, V, and VIII of this chapter have been reclassified and transferred to appear as chapters 46 (§5301 et seq.), 47 (§5501 et seq.), 45 (§5101 et seq.), and 45A (§5201 et seq.), respectively, of this title. Other provisions of this chapter which have not been previously repealed, transferred, or omitted from the Code have been either reclassified and transferred or omitted from the Code as being of special and not general application. For complete disposition of provisions pursuant to this reorganization, see table set out preceding section 1 of this title.

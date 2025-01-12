@@ -4,9 +4,13 @@ Any disbursing agent of the Indian Service, with the approval of the Commissione
 
 (Feb. 14, 1920, ch. 75, §1, 41 Stat. 414; Pub. L. 92–310, title II, §229(f), June 6, 1972, 86 Stat. 209.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1972**—Pub. L. 92–310 struck out provisions which related to official bond of disbursing agent.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

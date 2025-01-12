@@ -1,5 +1,7 @@
 ### §§1791i, 1791j. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1791i and 1791j of this title were omitted in the general revision of this subchapter by Pub. L. 102–367, title V, §501, title VII, §701(a), Sept. 7, 1992, 106 Stat. 1099, 1103, effective July 1, 1993.

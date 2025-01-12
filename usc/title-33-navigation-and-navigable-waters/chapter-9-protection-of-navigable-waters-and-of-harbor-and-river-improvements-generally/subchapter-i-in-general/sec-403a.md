@@ -4,6 +4,8 @@ The creation of any obstruction, not affirmatively authorized by law, to the nav
 
 (Sept. 19, 1890, ch. 907, §10, 26 Stat. 454; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This act, referred to in text, is act Sept. 19, 1890, ch. 907, 26 Stat. 426. Sections 6 to 9 of the Act are not classified to the Code. For complete classification of this act to the Code, see Tables.

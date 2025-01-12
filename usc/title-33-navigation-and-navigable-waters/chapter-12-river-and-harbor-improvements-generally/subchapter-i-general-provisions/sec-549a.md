@@ -4,6 +4,8 @@ The Secretary of the Army, acting through the Chief of Engineers, is authorized 
 
 (Pub. L. 91–611, title II, §216, Dec. 31, 1970, 84 Stat. 1830.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is from Pub. L. 91–611, popularly known as the "Flood Control Act of 1970".

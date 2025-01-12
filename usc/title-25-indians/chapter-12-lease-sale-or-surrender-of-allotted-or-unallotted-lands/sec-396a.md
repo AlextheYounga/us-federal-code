@@ -4,6 +4,8 @@ On and after May 11, 1938, unallotted lands within any Indian reservation or lan
 
 (May 11, 1938, ch. 198, §1, 52 Stat. 347.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Repeal of Inconsistent Acts ####
 
 Act May 11, 1938, ch. 198, §7, 52 Stat. 348, provided that: "All Act [Acts] or parts of Acts inconsistent herewith are hereby repealed."

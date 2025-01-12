@@ -24,6 +24,8 @@ If, 20 years from November 17, 1988, any area or part thereof described in subse
 
 (Pub. L. 100–676, §38, Nov. 17, 1988, 102 Stat. 4032; Pub. L. 110–114, title III, §3181(g), Nov. 8, 2007, 121 Stat. 1162; Pub. L. 114–322, title I, §1310, Dec. 16, 2016, 130 Stat. 1694.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
@@ -37,6 +39,8 @@ The text of the boundary descriptions contained in pars. (1) to (5) of subsec. (
 **2016**—Subsec. (c). Pub. L. 114–322 struck out "(except 30 years from November 17, 1988, in the case of the area or any part thereof described in subsection (a)(5))" after "in subsection (a)" and inserted at end "Notwithstanding the preceding sentence, the declaration of nonnavigability for the area described in subsection (a)(5), or any part thereof, shall not expire."
 
 **2007**—Subsec. (c). Pub. L. 110–114 substituted "subsection (a) (except 30 years from November 17, 1988, in the case of the area or any part thereof described in subsection (a)(5))" for "subsection (a) of this section".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### "Secretary" Defined ####
 

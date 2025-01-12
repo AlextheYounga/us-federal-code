@@ -40,6 +40,8 @@ Of amounts authorized by this section for each fiscal year for contract hydrogra
 
 (Pub. L. 105–384, title III, §306, Nov. 13, 1998, 112 Stat. 3457; Pub. L. 105–383, title IV, §432(b), Nov. 13, 1998, 112 Stat. 3445; Pub. L. 107–372, title I, §106, Dec. 19, 2002, 116 Stat. 3081; Pub. L. 110–386, §5, Oct. 10, 2008, 122 Stat. 4108; Pub. L. 115–282, title X, §1001, Dec. 4, 2018, 132 Stat. 4364.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsec. (a)(4), (5), was in the original "this title", meaning title III of Pub. L. 105–384, Nov. 13, 1998, 112 Stat. 3454, which is classified principally to this subchapter. For complete classification of this title to the Code, see Short Title of 1998 Amendment note set out under section 851 of this title and Tables.
@@ -115,6 +117,8 @@ Subsec. (c). Pub. L. 115–282, §1001(b), added subsec. (c).
 "(4) To carry out tide and current measurement functions under the Act of 1947, $22,500,000 for each of fiscal years 1999 through 2001. Of these amounts $4,500,000 is authorized for each fiscal year to implement and operate a national quality control system for real-time tide and current and maintain the national tide network, and $7,000,000 is authorized for each fiscal year to design and install real-time tide and current data measurement systems under section 892a(b)(4) of this title."
 
 **1998**—Pub. L. 105–383 amended section generally, substituting present provisions for substantially identical provisions.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1998 Amendment ####
 

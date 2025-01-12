@@ -26,6 +26,8 @@ Sec.
 
 2109. Specially adapted housing destroyed or damaged by natural disasters.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–177, §1(d), June 1, 2018, 132 Stat. 1378, added item 2102B.

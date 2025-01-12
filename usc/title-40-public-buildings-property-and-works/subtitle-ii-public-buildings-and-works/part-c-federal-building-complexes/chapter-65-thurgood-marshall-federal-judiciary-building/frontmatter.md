@@ -16,6 +16,8 @@ Sec.
 
 6507. Account in Treasury.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2006**—Pub. L. 109–284, §6(19), Sept. 27, 2006, 120 Stat. 1213, renumbered item 6581 as 6501.

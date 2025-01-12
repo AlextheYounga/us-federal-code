@@ -232,6 +232,8 @@ In this section, the term "local area" means the smallest geographical area for 
 
 (June 6, 1933, ch. 49, §15, as added Pub. L. 105–220, title III, §309(2), Aug. 7, 1998, 112 Stat. 1082; amended Pub. L. 105–277, div. A, §101(f) [title VIII, §403(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416; Pub. L. 105–332, §5(b)(1), Oct. 31, 1998, 112 Stat. 3127; Pub. L. 109–270, §2(g), Aug. 12, 2006, 120 Stat. 747; Pub. L. 113–128, title III, §308, July 22, 2014, 128 Stat. 1627; Pub. L. 115–224, title III, §301, July 31, 2018, 132 Stat. 1622.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 134(d), referred to in subsec. (a)(1)(B)(iii), probably means section 134(d) of the Workforce Investment Act of 1998, Pub. L. 105–220, which is classified to section 2864(d) of this title. The Wagner-Peyser Act, of which this section is a part, does not contain a section 134.
@@ -281,6 +283,8 @@ Subsec. (g). Pub. L. 113–128, §308(g), substituted "$60,153,000 for fiscal ye
 Pub. L. 105–277, §101(f) [title VIII, §403(a)(1)(A)], struck out "of this section" after "statistical purposes".
 
 Subsec. (e)(2)(G). Pub. L. 105–277, §101(f) [title VIII, §403(a)(1)(B)], and Pub. L. 105–332, §5(b)(1)(B), amended subpar. (G) identically, substituting "complementarity" for "complementary".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

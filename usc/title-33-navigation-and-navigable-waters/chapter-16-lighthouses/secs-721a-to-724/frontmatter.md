@@ -8,6 +8,8 @@ Section 723, act Mar. 4, 1909, ch. 299, §1, 35 Stat. 973, related to proposals 
 
 Section 724, acts June 17, 1910, ch. 301, §8, 36 Stat. 538; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736, related to contracts for materials and necessity for public letting.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective first day of third month after approval by President [Aug. 4, 1949], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.

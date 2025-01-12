@@ -150,6 +150,8 @@ The plan shall describe how the State will provide independent living services d
 
 (Pub. L. 93–112, title VII, §704, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1218; amended Pub. L. 113–128, title IV, §474, July 22, 2014, 128 Stat. 1686.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 796c, Pub. L. 93–112, title VII, §704, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4444; amended Pub. L. 103–73, title I, §114(b), Aug. 11, 1993, 107 Stat. 728, related to State plans, prior to the general amendment of this subchapter by Pub. L. 105–220.

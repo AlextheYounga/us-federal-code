@@ -14,6 +14,8 @@ Section 857–4, Pub. L. 91–621, §4, Dec. 31, 1970, 84 Stat. 1863, related to
 
 Section 857–5, Pub. L. 91–621, §5, Dec. 31, 1970, 84 Stat. 1864, related to applicability of statutes that had applied to commissioned officers of the Coast and Geodetic Survey and the Environmental Science Services Administration.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Repeals ####
 
 Pub. L. 91–621, §8, Dec. 31, 1970, 84 Stat. 1867, provided that all provisions of law inconsistent with Pub. L. 91–621 were repealed, prior to repeal by Pub. L. 107–372, title II, §271(3), Dec. 19, 2002, 116 Stat. 3094.

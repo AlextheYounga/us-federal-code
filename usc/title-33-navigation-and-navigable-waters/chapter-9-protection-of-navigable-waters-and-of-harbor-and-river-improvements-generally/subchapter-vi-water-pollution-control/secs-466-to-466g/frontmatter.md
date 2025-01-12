@@ -1,5 +1,7 @@
 ### §§466 to 466g. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 466 to 466g of this title were transferred to sections 1151 to 1160 of this title and were subsequently omitted in the general amendment of the Federal Water Pollution Control Act by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816. See section 1251 et seq. of this title.

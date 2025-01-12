@@ -1,5 +1,7 @@
 ### §§43 to 45b. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 43, formerly constituting part of section 7 of act June 2, 1920, ch. 219, 41 Stat. 737, as amended by Ex. Ord. No. 6166, §15, June 10, 1933; 1939 Reorg. Plan No. I, §§201, 204, eff. July 1, 1939, related to report, by Federal Security Agency, of gifts or donations. Act June 2, 1920, was amended generally by act July 6, 1943, ch. 190, 57 Stat. 374, which did not contain similar provisions.

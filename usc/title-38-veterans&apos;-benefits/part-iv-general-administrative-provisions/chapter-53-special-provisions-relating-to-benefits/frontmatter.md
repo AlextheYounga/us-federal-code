@@ -52,6 +52,8 @@ Sec.
 
 5319. Limitations on access to financial records.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–141, div. J, title II, §259(b), Mar. 23, 2018, 132 Stat. 829, added item 5303B.
@@ -85,6 +87,8 @@ Pub. L. 96–385, title V, §504(b), Oct. 7, 1980, 94 Stat. 1535, added item 311
 **1970**—Pub. L. 91–376, §8(c), Aug. 12, 1970, 84 Stat. 790, added item 3111.
 
 **1962**—Pub. L. 87–825, §4(b), Oct. 15, 1962, 76 Stat. 950, added item 3110.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Department of Veterans Affairs Notice Relating to Debt Collection Activities ####
 

@@ -12,6 +12,8 @@ Sec.
 
 4215. Priority of service for veterans in Department of Labor job training programs.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Pub. L. 107–288, §2(a)(2), Nov. 7, 2002, 116 Stat. 2034, added item 4215.

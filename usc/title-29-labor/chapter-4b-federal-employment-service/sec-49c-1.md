@@ -4,6 +4,8 @@ For the purpose of assisting the State employment services established and maint
 
 (Aug. 11, 1939, ch. 693, 53 Stat. 1409; Ex. Ord. No. 9247, Sept. 17, 1942, 7 F.R. 7379; Ex. Ord. No. 9617, Sept. 19, 1945, 10 F.R. 11929; June 16, 1948, ch. 472, title I, 62 Stat. 446; 1949 Reorg. Plan No. 2, §1, eff. Aug. 20, 1949, 14 F.R. 5225, 63 Stat. 1065.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of June 6, 1933, and the said Act, referred to in text, are act June 6, 1933, ch. 49, 48 Stat. 113, known as the Wagner-Peyser Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
@@ -12,6 +14,8 @@ Act of June 6, 1933, and the said Act, referred to in text, are act June 6, 1933
 
 This section was not enacted as part of the Wagner-Peyser Act which comprises this chapter.
 
+#### **Statutory Notes and Executive Documents** ####
+
 #### Transfer of Functions ####
 
-For history of transfer of functions of United States Employment Service to Secretary of Labor, see note set out under section 49 of this title.
+For history of transfer of functions of United States Employment Service to Secretary of Labor, see notes set out under section 49 of this title.

@@ -44,6 +44,8 @@ Sec.
 
 4115. Longitudinal study of job counseling, training, and placement service for veterans.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Pub. L. 114–315, title V, §502(b), Dec. 16, 2016, 130 Stat. 1568, added item 4115.

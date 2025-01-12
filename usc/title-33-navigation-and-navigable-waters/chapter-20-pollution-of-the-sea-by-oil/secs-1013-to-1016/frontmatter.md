@@ -8,6 +8,8 @@ Section 1015, Pub. L. 87–167, §17, Aug. 30, 1961, 75 Stat. 407; Pub. L. 89–
 
 Section 1016, Pub. L. 93–119, §3, Oct. 4, 1973, 87 Stat. 428, provided effective date of 1973 amendments to this chapter by Pub. L. 93–119, the subsections covering the following subject matter: subsec. (a) general effective date; subsec. (b) savings provision; and subsec. (c) effective date of section 1004(d) and (e) of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 2, 1983, see section 14(a) of Pub. L. 96–478, set out as an Effective Date note under section 1901 of this title.

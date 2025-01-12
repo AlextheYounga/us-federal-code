@@ -10,6 +10,8 @@ For the purposes of this subchapter—
 
 (June 29, 1888, ch. 496, §7, as added Pub. L. 85–802, §1(8), Aug. 28, 1958, 72 Stat. 970.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section effective on sixtieth day after Aug. 28, 1958, see section 2 of Pub. L. 85–802, set out as an Effective Date of 1958 Amendment note under section 441 of this title.

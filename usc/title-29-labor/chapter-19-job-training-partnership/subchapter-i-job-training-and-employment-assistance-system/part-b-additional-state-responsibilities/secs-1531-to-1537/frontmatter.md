@@ -14,6 +14,8 @@ Section 1536, Pub. L. 97–300, title I, §126, Oct. 13, 1982, 96 Stat. 1343, re
 
 Section 1537, Pub. L. 97–300, title I, §127, Oct. 13, 1982, 96 Stat. 1343, related to interstate agreements.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, set out as a note under section 1501 of this title.

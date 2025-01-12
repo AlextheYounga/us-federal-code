@@ -10,9 +10,13 @@ The following harbors shall be subject to this subchapter:
 
 (June 29, 1888, ch. 496, §6, 25 Stat. 210; Pub. L. 85–802, §1(7), Aug. 28, 1958, 72 Stat. 970.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1958**—Pub. L. 85–802 substituted provisions making harbors of New York, Hampton Roads, and Baltimore subject to this subchapter for appropriation provisions.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1958 Amendment ####
 

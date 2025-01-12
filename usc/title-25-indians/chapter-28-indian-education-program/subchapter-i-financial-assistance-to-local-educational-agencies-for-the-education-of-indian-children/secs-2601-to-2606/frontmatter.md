@@ -12,6 +12,8 @@ Section 2605, Pub. L. 100–297, title V, §5315, Apr. 28, 1988, 102 Stat. 402; 
 
 Section 2606, Pub. L. 100–297, title V, §5316, Apr. 28, 1988, 102 Stat. 402, authorized appropriations for Indian education and permitted Secretary to reallocate funds.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 100–297, title V, §5301, Apr. 28, 1988, 102 Stat. 395, provided that part C (§§5301–5352) of title V of Pub. L. 100–297, enacting this chapter, repealing sections 241aa, 241bb, 241cc to 241ff, 1211a, 1221f to 1221h, and 3385 to 3385b of Title 20, Education, and repealing provisions set out as notes under sections 241aa and 1411 of Title 20, could be cited as the "Indian Education Act of 1988", prior to repeal by Pub. L. 103–382, title III, §367, Oct. 20, 1994, 108 Stat. 3976.

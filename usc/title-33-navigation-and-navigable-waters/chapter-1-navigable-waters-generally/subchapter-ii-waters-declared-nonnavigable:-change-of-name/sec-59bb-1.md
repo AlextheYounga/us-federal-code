@@ -20,6 +20,8 @@ If, 20 years from December 11, 2000, any area or part thereof described in subse
 
 (Pub. L. 106–541, title III, §346, Dec. 11, 2000, 114 Stat. 2614.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
@@ -27,6 +29,8 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pu
 #### Codification ####
 
 The provisions of subsec. (b) of this section, which contain the text of the boundary descriptions, have been omitted. Such provisions appear at 114 Stat. 2614 to 2618.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### "Secretary" Defined ####
 

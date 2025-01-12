@@ -4,6 +4,8 @@ The Secretary of the Interior, or his authorized representative, is authorized t
 
 (June 4, 1953, ch. 98, 67 Stat. 41; Pub. L. 85–31, May 16, 1957, 71 Stat. 29; Pub. L. 87–417, Mar. 16, 1962, 76 Stat. 33.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1962**—Pub. L. 87–417 increased land conveyance limitation from twenty to fifty acres.

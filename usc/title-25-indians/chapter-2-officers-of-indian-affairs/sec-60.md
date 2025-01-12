@@ -4,6 +4,8 @@ The several compensations prescribed by title 28 of the Revised Statutes shall b
 
 (R.S. §2076.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Title 28 of the Revised Statutes, referred to in text, was in the original "this title", meaning title 28 of the Revised Statutes, consisting of R.S. §§2039 to 2157. For complete classification of R.S. §§2039 to 2157 to the Code, see Tables.

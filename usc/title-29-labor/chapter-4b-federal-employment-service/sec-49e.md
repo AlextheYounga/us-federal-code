@@ -20,6 +20,8 @@ For purposes of this paragraph, the number of individuals in the civilian labor 
 
 (June 6, 1933, ch. 49, §6, as added Pub. L. 97–300, title VI, §601(c), formerly title V, §501(c), Oct. 13, 1982, 96 Stat. 1393; renumbered title VI, §601(c), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; amended Pub. L. 105–220, title III, §310, Aug. 7, 1998, 112 Stat. 1086; Pub. L. 113–128, title III, §304, July 22, 2014, 128 Stat. 1626.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 49e, act June 6, 1933, ch. 49, §6, 48 Stat. 115, related to apportionment of appropriations, and certification to Secretary of the Treasury, prior to repeal by act Sept. 8, 1950, ch. 933, §3, 64 Stat. 823.
@@ -31,6 +33,8 @@ A prior section 49e, act June 6, 1933, ch. 49, §6, 48 Stat. 115, related to app
 Subsec. (b)(1). Pub. L. 113–128, §304(2), in introductory provisions, inserted "after making the allotments required by subsection (a)," before "the Secretary" and substituted "funds described in subsection (a)" for "sums appropriated and certified pursuant to section 49d of this title"; in subpars. (A) and (B), substituted "remainder" for "sums"; and, in concluding provisions, inserted "For purposes of this paragraph, the term 'State' does not include Guam or the Virgin Islands." at end.
 
 **1998**—Subsec. (b)(1). Pub. L. 105–220 substituted "Secretary" for "Secretary of Labor" in concluding provisions.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2014 Amendment ####
 

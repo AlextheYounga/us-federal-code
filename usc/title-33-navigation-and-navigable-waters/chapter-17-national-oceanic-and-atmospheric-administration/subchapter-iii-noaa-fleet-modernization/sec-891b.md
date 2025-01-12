@@ -30,6 +30,8 @@ The Secretary may not enter into any contract for the construction, lease, or se
 
 (Pub. L. 102–567, title VI, §604, Oct. 29, 1992, 106 Stat. 4300.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Fishery Survey Vessel Acquisition ####
 
 Pub. L. 106–450, title III, Nov. 7, 2000, 114 Stat. 1945, provided that:

@@ -8,6 +8,8 @@ As soon as the city of Chicago, or any other governmental agency or any corporat
 
 (Jan. 24, 1923, ch. 33, §§1, 2, 42 Stat. 1171; Feb. 27, 1923, ch. 142, 42 Stat. 1323; June 7, 1924, ch. 337, 43 Stat. 646; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 7 of the Act of September 19, 1890, referred to in text, is section 7 of act Sept. 19, 1890, ch. 907, 26 Stat. 454, as amended generally by act July 13, 1892, ch. 158, §3, 27 Stat. 110, which prohibited construction of certain structures in the navigable waters of the United States, with certain conditions and exceptions, and is not classified to the Code. Provisions similar to those in section 7 of act Sept. 19, 1890, were subsequently enacted by sections 9 and 10 of act Mar. 3, 1899, ch. 425, 30 Stat. 1151, which are classified, respectively, to sections 401 and 403 of this title.
@@ -19,6 +21,8 @@ The two sentences comprising the first paragraph of this section are, respective
 The second paragraph of this section is from act Feb. 27, 1923.
 
 The last paragraph of this section is from act June 7, 1924.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

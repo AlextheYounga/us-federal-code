@@ -4,6 +4,8 @@ The approval of the Secretary of the department in which the Coast Guard is oper
 
 (Pub. L. 92–434, §5, Sept. 26, 1972, 86 Stat. 732; Pub. L. 114–120, title III, §306(b)(6)(A), Feb. 8, 2016, 130 Stat. 56.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Pub. L. 114–120 substituted "Secretary of the department in which the Coast Guard is operating" for "Secretary of Transportation".

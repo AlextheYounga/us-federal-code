@@ -48,6 +48,8 @@ Nothing in this section shall be construed to—
 
 (R.S. §2103; Pub. L. 85–770, Aug. 27, 1958, 72 Stat. 927; Pub. L. 106–179, §2, Mar. 14, 2000, 114 Stat. 46.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Indian Gaming Regulatory Act, referred to in subsec. (f)(2), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, as amended, which is classified principally to chapter 29 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
@@ -63,6 +65,8 @@ R.S. §2103 derived from acts Mar. 3, 1871, ch. 120, §3, 16 Stat. 570; May 21, 
 **1958**—Par. Second. Pub. L. 85–770 struck out requirement that contracts with Indian tribes be executed before a judge of a court of record.
 
 Par. Sixth. Pub. L. 85–770 struck out par. Sixth enumerating contractual elements to be certified to by the judge.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

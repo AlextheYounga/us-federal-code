@@ -28,6 +28,8 @@ There are authorized to be appropriated to carry out the provisions of this sect
 
 (June 23, 1947, ch. 120, title II, §205A, as added Pub. L. 95–524, §6(c)(2), Oct. 27, 1978, 92 Stat. 2020.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 For short title of section 6 of Pub. L. 95–524 as the Labor Management Cooperation Act of 1978, see Short Title of 1978 Amendment note set out under section 141 of this title.

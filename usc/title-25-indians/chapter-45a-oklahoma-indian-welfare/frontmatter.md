@@ -22,6 +22,8 @@ Sec.
 
 5210. Payment of gross production taxes; method.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Chapter was formerly classified to subchapter VIII (§501 et seq.) of chapter 14 of this title prior to editorial reclassification as this chapter.

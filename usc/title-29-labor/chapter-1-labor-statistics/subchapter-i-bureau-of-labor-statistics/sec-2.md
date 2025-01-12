@@ -6,13 +6,13 @@ The Bureau of Labor Statistics shall also collect, collate, report, and publish 
 
 (Mar. 4, 1913, ch. 141, §4, 37 Stat. 737; July 7, 1930, ch. 873, 46 Stat. 1019.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1930**—Act July 7, 1930, inserted second par.
 
-#### Transfer of Functions ####
-
-For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Census Data on Women-Owned Businesses; Study and Report ####
 
@@ -25,3 +25,9 @@ Pub. L. 100–175, title I, §191, Nov. 29, 1987, 101 Stat. 967, provided that: 
 #### Prison Statistics Report ####
 
 Joint Res. June 17, 1940, ch. 389, 54 Stat. 401, authorized Bureau of Labor Statistics to furnish a report to Congress before May 1, 1941, on kind, amount, and value of all goods produced in State and Federal prisons.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.

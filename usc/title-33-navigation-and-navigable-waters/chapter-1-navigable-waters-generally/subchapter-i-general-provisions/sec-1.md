@@ -6,6 +6,8 @@ Any regulations prescribed by the Secretary of the Army in pursuance of this sec
 
 (Aug. 18, 1894, ch. 299, §4, 28 Stat. 362; June 13, 1902, ch. 1079, §§6, 11, 32 Stat. 374; Aug. 8, 1917, ch. 49, §7, 40 Stat. 266; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The first paragraph of this section is from section 4 of act Aug. 18, 1894, popularly known as the "River and Harbor Act of 1894", as amended.
@@ -17,6 +19,8 @@ Said section 4 was amended by section 11 of act June 13, 1902, principally by ad
 Section 4 was also amended by section 7 of act Aug. 8, 1917, to read as set forth in the first paragraph hereof.
 
 The last paragraph of this section is from section 6 of act June 13, 1902. Said section 6 is also the source of the last proviso in section 499 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

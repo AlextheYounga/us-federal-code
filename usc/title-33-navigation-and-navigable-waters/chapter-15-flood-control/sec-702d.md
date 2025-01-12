@@ -6,9 +6,13 @@ The Secretary of the Army may cause proceedings to be instituted for the acquire
 
 (May 15, 1928, ch. 569, §4, 45 Stat. 536; Nov. 30, 1945, ch. 496, 59 Stat. 587; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1945**—Act Nov. 30, 1945, substituted second sentence of second par. for a sentence which read "In all such proceedings the court, for the purpose of ascertaining the value of the property and assessing the compensation to be paid, shall appoint three commissioners, whose award, when confirmed by the court, shall be final."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

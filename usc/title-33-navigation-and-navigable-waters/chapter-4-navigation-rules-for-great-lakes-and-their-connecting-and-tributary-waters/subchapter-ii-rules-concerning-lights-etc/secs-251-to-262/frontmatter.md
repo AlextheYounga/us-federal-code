@@ -24,6 +24,8 @@ Section 261, act Feb. 8, 1895, ch. 64, §1, 28 Stat. 647, related to use of torc
 
 Section 262, act Feb. 8, 1895, ch. 64, §1, 28 Stat. 647, related to suspension of lights by vessels of war or Coast Guard vessels.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Mar. 1, 1983, pursuant to 47 F.R. 15135, Apr. 8, 1982, see section 7 of Pub. L. 96–591, set out as an Effective Date of 1980 Amendment note under section 1604 of this title.

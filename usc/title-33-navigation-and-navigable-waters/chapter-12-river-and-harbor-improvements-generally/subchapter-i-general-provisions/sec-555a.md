@@ -38,9 +38,13 @@ For purposes of this section, the term—
 
 (Pub. L. 99–662, title IX, §919, Nov. 17, 1986, 100 Stat. 4192.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Subsec. (f) of this section amended section 555 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### "Secretary" Defined ####
 

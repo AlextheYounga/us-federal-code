@@ -1,5 +1,7 @@
 ### §§191 to 197. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 191, act June 23, 1947, ch. 120, title IV, §401, 61 Stat. 160, related to establishment and composition of Joint Committee on Labor-Management Relations.

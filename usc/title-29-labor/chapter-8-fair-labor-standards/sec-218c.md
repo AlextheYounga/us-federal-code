@@ -26,6 +26,8 @@ Nothing in this section shall be deemed to diminish the rights, privileges, or r
 
 (June 25, 1938, ch. 676, §18C, as added Pub. L. 111–148, title I, §1558, Mar. 23, 2010, 124 Stat. 261.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 18071 of title 42, referred to in subsec. (a)(1), was in the original "section 1402 of this Act", and was translated as meaning section 1402 of the Patient Protection and Affordable Care Act, which is classified to section 18071 of title 42, to reflect the probable intent of Congress.

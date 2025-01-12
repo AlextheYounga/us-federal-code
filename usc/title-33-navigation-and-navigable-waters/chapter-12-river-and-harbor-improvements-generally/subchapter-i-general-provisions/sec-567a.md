@@ -6,6 +6,8 @@ No such compact or agreement shall be binding or obligatory upon any State a par
 
 (June 8, 1936, ch. 542, §§1, 2, 49 Stat. 1490.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Approval of Compact by Congress ####
 
 Act July 11, 1940, ch. 581, 54 Stat. 752, provided in part that: "The consent and approval of Congress is hereby given to an interstate compact relating to the control and reduction of the pollution of the streams of the Ohio River drainage basin negotiated and entered into or to be entered into under authority of Public Resolution Numbered 104, Seventy-fourth Congress, approved June 8, 1936, [this section] and now ratified by the States of New York, Illinois, Kentucky, and Indiana, and by the State of Ohio (whose ratification is to go into effect at the time at which the States of New York, Pennsylvania, and West Virginia enter into said compact as parties and signatory States), also by the State of West Virginia (whose ratification is to go into effect at the time at which the States of New York, Ohio, Virginia, and Pennsylvania enter into said compact as parties and signatory States) \* \* \*."

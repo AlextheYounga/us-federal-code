@@ -4,9 +4,13 @@ Where any of the tribes are, in the opinion of the Secretary of the Interior, co
 
 (R.S. §2072.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §2072 derived from act June 30, 1834, ch. 162, §9, 4 Stat. 737.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

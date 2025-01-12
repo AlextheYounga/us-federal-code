@@ -4,11 +4,15 @@ The Secretary of the Army is authorized to make such rules and regulations for t
 
 (Mar. 3, 1909, ch. 264, §5, 35 Stat. 818; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 These provisions were part of section 5 of act Mar. 3, 1909, popularly known as the "River and Harbor Appropriation Act of 1909".
 
 These provisions superseded previous similar provisions relating to the navigation of the South Pass only, contained in act Aug. 11, 1888, ch. 860, §5, 25 Stat. 424, amended by act Sept. 19, 1890, ch. 907, §3, 26 Stat. 452.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

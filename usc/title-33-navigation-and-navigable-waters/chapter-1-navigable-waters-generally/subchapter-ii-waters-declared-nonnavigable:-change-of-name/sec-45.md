@@ -4,6 +4,8 @@ Swan Creek, a stream lying within the limits of the city of Toledo, State of Ohi
 
 (Mar. 4, 1915, ch. 142, §13, 38 Stat. 1055.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is from act Mar. 4, 1915, popularly known as the "Rivers and Harbors Appropriation Act of 1915".

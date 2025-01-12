@@ -4,9 +4,13 @@ The Commissioner of Indian Affairs, with the approval of the Secretary of the In
 
 (Mar. 3, 1909, ch. 263, 35 Stat. 783.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is from the Indian Department Appropriation Act, 1910.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

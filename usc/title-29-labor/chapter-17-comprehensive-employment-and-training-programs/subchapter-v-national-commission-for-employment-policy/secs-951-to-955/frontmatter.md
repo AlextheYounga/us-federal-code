@@ -22,6 +22,8 @@ A prior section 955, Pub. L. 93–203, title V, §505, Dec. 28, 1973, 87 Stat. 8
 
 Section 956, Pub. L. 93–203, title V, §506, Dec. 28, 1973, 87 Stat. 876, related to a study by Secretary concerning the impact of energy shortages upon manpower needs, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Commission Authorized Until September 30, 1983 ####
 
 Commission established by former sections 951 to 955 of this title continued until Sept. 30, 1983, and on that date the personnel, property, and records of that Commission transferred by former section 1591(b) of this title to the Commission established by former section 1771 et seq. of this title.

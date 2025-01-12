@@ -52,6 +52,8 @@ After November 13, 1998, the Administrator may not—
 
 (Pub. L. 105–384, title III, §304, Nov. 13, 1998, 112 Stat. 3455; Pub. L. 107–372, title I, §104(a), Dec. 19, 2002, 116 Stat. 3080.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Subsec. (b)(1). Pub. L. 107–372 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The Administrator may—

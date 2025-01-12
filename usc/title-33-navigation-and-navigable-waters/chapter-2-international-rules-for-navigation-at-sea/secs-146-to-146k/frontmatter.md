@@ -24,6 +24,8 @@ Section 146j, act Oct. 11, 1951, ch. 495, §6, Pt. C, 65 Stat. 419, related to r
 
 Section 146k, act Oct. 11, 1951, ch. 495, §6, Pt. C, 65 Stat. 419, related to special circumstances requiring departure from rules.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Sept. 1, 1965, see Proc. No. 3632, Dec. 29, 1964, 29 F.R. 19167, and section 3 of Pub. L. 88–131, both set out as notes under section 1051 of this title.

@@ -4,6 +4,8 @@ The Bureau of Indian Affairs shall not expend any other funds for the operation 
 
 (Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 326.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Other funds, referred to in text, means funds other than the appropriation of $22,000,000 made available to the Bureau of Indian Affairs for transfer to the State of Alaska for the benefit of Alaska Native secondary students under the headings "Bureau of Indian Affairs" and "Operation of Indian Programs" in chapter VII of Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 326.

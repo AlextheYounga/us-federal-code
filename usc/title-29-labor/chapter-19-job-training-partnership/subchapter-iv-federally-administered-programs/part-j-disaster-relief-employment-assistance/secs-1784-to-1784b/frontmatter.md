@@ -6,6 +6,8 @@ Section 1784a, Pub. L. 97–300, title IV, §499B, as added Pub. L. 102–367, t
 
 Section 1784b, Pub. L. 97–300, title IV, §499C, as added Pub. L. 102–367, title IV, §408, Sept. 7, 1992, 106 Stat. 1095, defined term "unit of general local government".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, set out as a note under section 1501 of this title.

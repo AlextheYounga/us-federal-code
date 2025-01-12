@@ -26,6 +26,8 @@ Section 1582, Pub. L. 97–300, title I, §172, as added Pub. L. 99–496, §4, 
 
 Section 1583, Pub. L. 97–300, title I, §173, formerly §172, as added Pub. L. 100–628, title VII, §714(e)(1), Nov. 7, 1988, 102 Stat. 3256; renumbered §173 and amended Pub. L. 102–367, title I, §103(b)(3), title VII, §702(a)(9), Sept. 7, 1992, 106 Stat. 1026, 1112, related to construction of chapter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, set out as a note under section 1501 of this title.

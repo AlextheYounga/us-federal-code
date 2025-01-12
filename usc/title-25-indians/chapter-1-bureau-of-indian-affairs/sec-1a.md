@@ -4,18 +4,24 @@ For the purpose of facilitating and simplifying the administration of the laws g
 
 (Aug. 8, 1946, ch. 907, 60 Stat. 939; Pub. L. 101–509, title V, §529 [title I, §112(c)], Nov. 5, 1990, 104 Stat. 1427, 1454.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Pub. L. 101–509 substituted "Deputy Secretary" for "Under Secretary" before "or to an Assistant Secretary".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1990 Amendment ####
 
 Amendment by Pub. L. 101–509 effective on first day of first pay period beginning on or after Nov. 5, 1990, with continued service by incumbent Under Secretary of the Interior, see section 529 [title I, §112(e)(1), (2)(B)] of Pub. L. 101–509, set out as a note under section 3404 of Title 20, Education.
 
-#### Transfer of Functions ####
-
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Assistant Commissioners ####
 
 An assistant commissioner was authorized by a provision of act July 16, 1914, ch. 141, §1, 38 Stat. 490.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.

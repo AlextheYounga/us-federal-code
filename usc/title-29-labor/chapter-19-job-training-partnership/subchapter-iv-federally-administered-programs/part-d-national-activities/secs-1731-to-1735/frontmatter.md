@@ -14,6 +14,8 @@ Section 1735, Pub. L. 97–300, title IV, §455, as added Pub. L. 102–367, tit
 
 A prior section 1735, Pub. L. 97–300, title IV, §455, Oct. 13, 1982, 96 Stat. 1383, related to personnel training and technical assistance with respect to programs under this chapter, prior to repeal by Pub. L. 102–367, title IV, §403(a)(4), title VII, §701(a), Sept. 7, 1992, 106 Stat. 1084, 1103, effective July 1, 1993.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, set out as a note under section 1501 of this title.

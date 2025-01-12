@@ -48,6 +48,8 @@ Sec.
 
 3493. Effect on educational entitlement.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1992**—Pub. L. 102–568, title III, §313(a)(3)(B), Oct. 29, 1992, 106 Stat. 4332, struck out item 3473 "Disapproval of enrollment in certain courses".

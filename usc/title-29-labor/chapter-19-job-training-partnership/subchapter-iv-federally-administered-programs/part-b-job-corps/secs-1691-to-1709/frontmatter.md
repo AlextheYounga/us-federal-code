@@ -40,6 +40,8 @@ Section 1708, Pub. L. 97–300, title IV, §438, Oct. 13, 1982, 96 Stat. 1379, c
 
 Section 1709, Pub. L. 97–300, title IV, §439, Oct. 13, 1982, 96 Stat. 1380, related to donations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, set out as a note under section 1501 of this title.

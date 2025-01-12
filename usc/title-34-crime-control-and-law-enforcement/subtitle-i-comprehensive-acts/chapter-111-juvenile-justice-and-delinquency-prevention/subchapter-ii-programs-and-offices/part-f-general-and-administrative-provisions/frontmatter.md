@@ -1,5 +1,7 @@
 ### Part F—General and Administrative Provisions ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Part F of title II of Pub. L. 93–415, classified to this part, was formerly part I of title II of Pub. L. 93–415, prior to redesignation as part F by Pub. L. 107–273, div. C, title II, §12210(3), Nov. 2, 2002, 116 Stat. 1880.

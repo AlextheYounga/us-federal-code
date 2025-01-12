@@ -240,6 +240,8 @@ Sec.
 
 1388. Requirements.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The Federal Water Pollution Control Act, comprising this chapter, was originally enacted by act June 30, 1948, ch. 758, 62 Stat. 1155, and amended by acts July 17, 1952, ch. 927, 66 Stat. 755; July 9, 1956, ch. 518, §§1, 2, 70 Stat. 498–507; June 25, 1959, Pub. L. 86–70, 73 Stat. 141; July 12, 1960, Pub. L. 86–624, 74 Stat. 411; July 20, 1961, Pub. L. 87–88, 75 Stat. 204; Oct. 2, 1965, Pub. L. 89–234, 79 Stat. 903; Nov. 3, 1966, Pub. L. 89–753, 80 Stat. 1246; Apr. 3, 1970, Pub. L. 91–224, 84 Stat. 91; Dec. 31, 1970, Pub. L. 91–611, 84 Stat. 1818; July 9, 1971, Pub. L. 92–50, 85 Stat. 124; Oct. 13, 1971, Pub. L. 92–137, 85 Stat. 379; Mar. 1, 1972, Pub. L. 92–240, 86 Stat. 47, and was formerly classified first to section 466 et seq. of this title and later to section 1151 et seq. of this title. The act is shown herein, however, as having been added by Pub. L. 92–500 without reference to such intervening amendments because of the extensive amendment, reorganization, and expansion of the act's provisions by Pub. L. 92–500.

@@ -4,6 +4,8 @@ All waters within such portion of the project are declared to be nonnavigable wa
 
 (Pub. L. 106–541, title III, §347(a)(2), Dec. 11, 2000, 114 Stat. 2618.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 "Such portion of the project", referred to in text, means "The portion of the project for navigation, Sacramento Deep Water Ship Channel, California, authorized by section 202(a) of the Water Resources Development Act of 1986 (100 Stat. 4092), beginning from the confluence of the Sacramento River and the Barge Canal to a point 3,300 feet west of the William G. Stone Lock western gate (including the William G. Stone Lock and the Bascule Bridge and Barge Canal)." See first sentence of section 347(a)(2) of Pub. L. 106–541, Dec. 11, 2000, 114 Stat. 2618.

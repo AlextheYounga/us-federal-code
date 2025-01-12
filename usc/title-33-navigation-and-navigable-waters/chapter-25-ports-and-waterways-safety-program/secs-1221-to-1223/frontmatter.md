@@ -6,6 +6,8 @@ Section 1222, Pub. L. 92–340, §3, formerly title I, §102, July 10, 1972, 86 
 
 Section 1223, Pub. L. 92–340, §4, formerly title I, §103, July 10, 1972, 86 Stat. 426; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1472; Pub. L. 101–380, title IV, §4107(a), Aug. 18, 1990, 104 Stat. 514; Pub. L. 104–324, title VII, §705, Oct. 19, 1996, 110 Stat. 3934; Pub. L. 108–293, title III, §302, Aug. 9, 2004, 118 Stat. 1041; Pub. L. 109–241, title IX, §901(d), July 11, 2006, 120 Stat. 564; Pub. L. 115–44, title III, §315(b)(1), Aug. 2, 2017, 131 Stat. 949, related to vessel operating requirements. See section 70001 of Title 46, Shipping.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title of 1986 Amendment ####
 
 Pub. L. 99–399, title IX, §901, Aug. 27, 1986, 100 Stat. 889, provided that: "This title [enacting section 1226 of this title and sections 1801 to 1809 of the former Appendix to Title 46, Shipping] may be cited as the 'International Maritime and Port Security Act'."

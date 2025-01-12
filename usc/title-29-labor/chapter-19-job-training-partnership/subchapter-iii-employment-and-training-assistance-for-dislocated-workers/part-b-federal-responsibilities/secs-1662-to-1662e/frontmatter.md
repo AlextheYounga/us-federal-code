@@ -14,6 +14,8 @@ Section 1662d–1, Pub. L. 97–300, title III, §325A, as added Pub. L. 102–4
 
 Section 1662e, Pub. L. 97–300, title III, §326, as added Pub. L. 101–549, title XI, §1101(a), Nov. 15, 1990, 104 Stat. 2709; amended Pub. L. 102–367, title I, §102(b), Sept. 7, 1992, 106 Stat. 1024, related to clean air employment transition assistance.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, set out as a note under section 1501 of this title.

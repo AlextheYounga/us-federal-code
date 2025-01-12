@@ -108,6 +108,8 @@ The Secretary shall notify and consult with the non-Federal sponsor regarding th
 
 (Aug. 18, 1941, ch. 377, §5, 55 Stat. 650; July 24, 1946, ch. 596, §12, 60 Stat. 652; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; June 30, 1948, ch. 771, title II, §206, 62 Stat. 1182; May 17, 1950, ch. 188, title II, §210, 64 Stat. 183; June 28, 1955, ch. 194, 69 Stat. 186; Pub. L. 87–874, title II, §206, Oct. 23, 1962, 76 Stat. 1194; Pub. L. 93–251, title I, §82, Mar. 7, 1974, 88 Stat. 34; Pub. L. 95–51, §2, June 20, 1977, 91 Stat. 233; Pub. L. 99–662, title IX, §917, Nov. 17, 1986, 100 Stat. 4192; Pub. L. 100–45, §9, May 27, 1987, 101 Stat. 323; Pub. L. 100–707, title I, §109(m), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–640, title III, §302, Nov. 28, 1990, 104 Stat. 4633; Pub. L. 104–303, title II, §202(e), (f), Oct. 12, 1996, 110 Stat. 3675; Pub. L. 113–121, title III, §3029(a), June 10, 2014, 128 Stat. 1305; Pub. L. 114–322, title I, §1176, Dec. 16, 2016, 130 Stat. 1673; Pub. L. 115–270, title I, §§1160, 1161(a), 1162, Oct. 23, 2018, 132 Stat. 3795, 3796.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
@@ -157,6 +159,8 @@ Subsec. (c). Pub. L. 104–303, §202(f), added subsec. (c).
 **1948**—Act June 30, 1948, inserted provisions relating to the strengthening, extending, or modification of flood-control works.
 
 **1946**—Act July 24, 1946, substituted "$2,000,000" for "$1,000,000".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

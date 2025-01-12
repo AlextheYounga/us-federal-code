@@ -4,6 +4,8 @@ Whenever the tribal organization of any Indian tribe is in actual hostility to t
 
 (R.S. §2080.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §2080 derived from act July 5, 1862, ch. 135, §1, 12 Stat. 528.

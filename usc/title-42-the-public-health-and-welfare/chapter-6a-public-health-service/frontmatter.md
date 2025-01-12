@@ -2098,13 +2098,15 @@ Sec.
 
 300b–17. Report by Secretary.
 
-#### Part B—Sudden Infant Death Syndrome ####
+#### Part B—Sudden Unexpected Infant Death, Sudden Infant Death Syndrome, and Sudden Unexpected Death in Childhood ####
 
-300c–11. Repealed.
+300c–11. Addressing sudden unexpected infant death and sudden unexpected death in childhood.
 
 300c–12. Sudden infant death syndrome research.
 
 300c–13. Continuing activities related to stillbirth, sudden unexpected infant death and sudden unexplained death in childhood.
+
+300c–14. Report to Congress.
 
 #### Part C—Hemophilia Programs ####
 

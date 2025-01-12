@@ -42,6 +42,8 @@ Sec.
 
 5728. Authorization of appropriations.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Pub. L. 114–31, §2(c), July 20, 2015, 129 Stat. 430, added item 5706.
@@ -53,6 +55,8 @@ Sec.
 Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 3301 to 3313 as 5701 to 5713, respectively.
 
 **1980**—Pub. L. 96–385, title V, §505(b), Oct. 7, 1980, 94 Stat. 1537, added item 3305.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Updating Dependent Information ####
 

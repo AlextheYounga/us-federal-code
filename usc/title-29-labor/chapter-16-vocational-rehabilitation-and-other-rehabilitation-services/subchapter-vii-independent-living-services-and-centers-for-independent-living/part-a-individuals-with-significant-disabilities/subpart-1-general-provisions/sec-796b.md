@@ -4,6 +4,8 @@ Services may be provided under this part to any individual with a significant di
 
 (Pub. L. 93–112, title VII, §703, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1218.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 796b, Pub. L. 93–112, title VII, §703, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4444, related to eligibility for receipt of services, prior to the general amendment of this subchapter by Pub. L. 105–220.

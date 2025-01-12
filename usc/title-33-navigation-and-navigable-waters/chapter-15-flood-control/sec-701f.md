@@ -4,6 +4,8 @@ The sum of $310,000,000 is authorized to be appropriated for carrying out the im
 
 (June 22, 1936, ch. 688, §9, 49 Stat. 1596; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 "Herein", and "this Act", referred to in text, means act June 22, 1936, ch. 688, 49 Stat. 1570, as amended, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables. Portions of section 5 of act June 22, 1936, enumerating certain improvements with regard to flood control, and sections 6 and 7 of that act, relating to examinations and surveys, were not classified to the Code.
@@ -11,6 +13,8 @@ The sum of $310,000,000 is authorized to be appropriated for carrying out the im
 #### Codification ####
 
 The first proviso, relating to a limitation upon the amount of expenditure during the fiscal year 1937, was deleted as executed and obsolete. The second proviso, relating to payment from funds available to the Works Progress Administration, was also omitted as executed and obsolete. The Works Progress Administration was renamed the Work Projects Administration by Reorg. Plan No. 1 of 1939, §306, eff. July 1, 1939, 4 F.R. 2727, 53 Stat. 1423, set out in the Appendix to Title 5, Government Organization and Employees. Liquidation was ordered by President's letter of December 4, 1942, and appropriations for it authorized by act July 12, 1943, ch. 229, title I, 57 Stat. 540.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

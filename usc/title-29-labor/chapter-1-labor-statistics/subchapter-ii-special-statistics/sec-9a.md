@@ -4,6 +4,8 @@ All moneys hereinafter <sup><a href="#9a_1_target" name="9a_1">1</a></sup> rece
 
 (Apr. 13, 1934, ch. 118, §2, 48 Stat. 582; Apr. 11, 1935, ch. 59, 49 Stat. 154; June 15, 1937, ch. 349, 50 Stat. 259; Apr. 15, 1939, ch. 71, 53 Stat. 581.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 This section and sections 9 and 9b of this title comprised sections 1 to 3 of act Apr. 13, 1934, which were to terminate one year after Apr. 13, 1934, pursuant to section 4 of act Apr. 13, 1934, set out as a Codification note under section 9 of this title. Such sections were temporarily extended by acts Apr. 11, 1935, and June 15, 1937, and were made permanent by act Apr. 15, 1939.

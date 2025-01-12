@@ -4,6 +4,8 @@ Appropriations in this title <sup><a href="#540a_1_target" name="540a_1">1</a><
 
 (Pub. L. 102–377, title I, Oct. 2, 1992, 106 Stat. 1325.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This title, referred to in text, is title I of Pub. L. 102–377, Oct. 2, 1992, 106 Stat. 1315. For complete classification of title I to the Code, see Tables.

@@ -44,6 +44,8 @@ Funds allotted or made available to a State under this section shall be administ
 
 (Pub. L. 93–112, title VII, §711, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1224; amended Pub. L. 113–128, title IV, §476(a), July 22, 2014, 128 Stat. 1690.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Part A of this subchapter, as in effect on the day before October 29, 1992, referred to in subsec. (a)(1)(B), means former part A (§796 et seq.) which was included in the repeal of subchapter VII of this chapter by Pub. L. 102–569, title VII, §701(1), Oct. 29, 1992, 106 Stat. 4443.

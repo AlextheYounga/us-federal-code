@@ -100,6 +100,8 @@ In developing the policy required by subsection (a), the Secretary may consult o
 
 (Pub. L. 114–328, div. C, title XXXV, §3542, Dec. 23, 2016, 130 Stat. 2801; Pub. L. 116–259, title V, §504(a)(2), Dec. 23, 2020, 134 Stat. 1180.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Subsec. (b)(5)(B). Pub. L. 116–259 substituted "can be reported on a restricted or unrestricted basis" for "can be confidentially reported".

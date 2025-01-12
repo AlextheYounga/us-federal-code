@@ -4,6 +4,8 @@ Regular officers of the Corps of Engineers of the Army, and reserve officers of 
 
 (Aug. 10, 1956, ch. 1041, §36, 70A Stat. 634.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is derived from the third proviso of Act June 26, 1936, ch. 839, 49 Stat. 1974, which was classified to section 181a of Title 10 prior to the general revision and enactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, §1, 70A Stat. 1.

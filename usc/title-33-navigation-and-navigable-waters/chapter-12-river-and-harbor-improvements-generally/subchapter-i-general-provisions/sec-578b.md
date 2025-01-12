@@ -18,6 +18,8 @@ For disposition studies described in subsection (a) in which the Secretary deter
 
 (Pub. L. 115–270, title I, §1168, Oct. 23, 2018, 132 Stat. 3798.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### "Secretary" Defined ####
 
 Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under section 2201 of this title.

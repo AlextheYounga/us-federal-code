@@ -1,5 +1,7 @@
 ### SUBCHAPTER II—QUALITY ASSURANCE ###
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior subchapter II of this chapter, consisting of sections 7721 to 7727, related to the veterans outreach services program, prior to repeal by Pub. L. 109–233, title IV, §402(c), June 15, 2006, 120 Stat. 411. See chapter 63 of this title.

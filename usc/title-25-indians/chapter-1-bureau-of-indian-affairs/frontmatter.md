@@ -64,9 +64,13 @@ Sec.
 
 17. Use of Bureau facilities.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### National Council on Indian Opportunity; Appropriations Authorization; Termination Date ####
 
 Pub. L. 91–125, Nov. 26, 1969, 83 Stat. 220, provided for annual appropriations of $300,000 and a termination date of Nov. 26, 1974 for the National Council on Indian Opportunity which was established by Ex. Ord. 11399.
+
+#### **Executive Documents** ####
 
 #### Executive Order No. 11399 ####
 

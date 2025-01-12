@@ -20,6 +20,8 @@ The term "consumer control" means, with respect to a center for independent livi
 
 (Pub. L. 93–112, title VII, §702, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1218; amended Pub. L. 113–128, title IV, §473, July 22, 2014, 128 Stat. 1685.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 796a, Pub. L. 93–112, title VII, §702, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4443, defined terms "center for independent living" and "consumer control", prior to the general amendment of this subchapter by Pub. L. 105–220.

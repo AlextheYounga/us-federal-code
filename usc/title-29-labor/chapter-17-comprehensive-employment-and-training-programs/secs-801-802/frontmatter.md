@@ -14,6 +14,8 @@ Provisions similar to those comprising this section were contained in former sec
 
 A prior section 803, Pub. L. 95–93, title III, §305, Aug. 5, 1977, 91 Stat. 651, providing for increased participation of veterans in public service employment programs and job training opportunities, was omitted because it was limited to fiscal years 1977 and 1978.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 97–300, title I, §184(a), Oct. 13, 1982, 96 Stat. 1357, which provided for the repeal of the Comprehensive Employment and Training Act, this chapter, effective Oct. 13, 1982, was itself repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, as amended, eff. July 1, 2000.

@@ -36,9 +36,13 @@ In this section, the term "significant subsidy" includes, but is not limited to,
 
 (Pub. L. 102–567, title VI, §607, Oct. 29, 1992, 106 Stat. 4302; Pub. L. 106–36, title I, §1002(f), June 25, 1999, 113 Stat. 133.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1999**—Subsec. (b)(8). Pub. L. 106–36 substituted "Agreement on Subsidies and Countervailing Measures referred to in section 3511(d)(12) of title 19, or any other export subsidy prohibited by that agreement" for "Agreement on Interpretation and Application of Articles VI, XVI, and XXIII of the General Agreement on Tariffs and Trade or any other export subsidy that may be prohibited as a result of the Uruguay Round of trade negotiations."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Fisheries Research Vessel Procurement ####
 

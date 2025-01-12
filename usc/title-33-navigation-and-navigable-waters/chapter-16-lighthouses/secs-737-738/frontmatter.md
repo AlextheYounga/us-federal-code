@@ -1,5 +1,7 @@
 ### §§737, 738. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 737, act May 14, 1908, ch. 168, §4, 35 Stat. 162, as affected by act June 17, 1910, ch. 301, §6, 36 Stat. 538, related to maintenance of anchorage buoys in New York and Philadelphia harbors. See section 472 of this title.

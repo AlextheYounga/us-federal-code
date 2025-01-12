@@ -114,6 +114,8 @@ Not later than 180 days after November 9, 2000, the Board shall promulgate regul
 
 (Aug. 27, 1935, ch. 748, §6, as added Pub. L. 101–644, title I, §105, Nov. 29, 1990, 104 Stat. 4664; amended Pub. L. 106–497, §2, Nov. 9, 2000, 114 Stat. 2219; Pub. L. 111–211, title I, §102(b), July 29, 2010, 124 Stat. 2259.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in subsec. (f), is act Aug. 27, 1935, ch. 748, 49 Stat. 891, as amended, which is classified generally to section 305 et seq. of this title. For complete classification of this Act to the Code, see Tables.
@@ -145,6 +147,8 @@ Subsec. (c)(2)(A). Pub. L. 106–497, §2(2)(B), designated existing text as cl.
 Subsec. (d)(2). Pub. L. 106–497, §2(3), inserted "subject to subsection (f) of this section," before "the terms".
 
 Subsec. (f). Pub. L. 106–497, §2(4), added subsec. (f).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Certification of Indian Artisans ####
 

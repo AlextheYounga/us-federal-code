@@ -1,8 +1,12 @@
 ### §640d. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section, Pub. L. 93–531, §1, Dec. 22, 1974, 88 Stat. 1712, which related to appointment of a mediator to assist in the negotiations for the settlement and partition of interests of the Hopi and Navajo Tribes in certain lands and duties of mediator, was omitted from the Code as being of special and not general application.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 1988 Amendment ####
 

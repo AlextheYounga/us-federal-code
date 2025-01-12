@@ -20,6 +20,8 @@ Section 1708, Pub. L. 95–273, §9, May 8, 1978, 92 Stat. 232, related to effec
 
 Section 1709, Pub. L. 95–273, §10, May 8, 1978, 92 Stat. 232; Pub. L. 96–17, June 4, 1979, 93 Stat. 34; Pub. L. 96–255, §1, May 30, 1980, 94 Stat. 420; Pub. L. 99–272, title VI, §6075, Apr. 7, 1986, 100 Stat. 135; Pub. L. 100–636, §1(8), Nov. 8, 1988, 102 Stat. 3324, authorized appropriations to carry out this chapter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 95–273, §1, May 8, 1978, 92 Stat. 228, as amended by Pub. L. 96–255, §3, May 30, 1980, 94 Stat. 420, which provided that this chapter could be cited as the "National Ocean Pollution Planning Act of 1978", was repealed by Pub. L. 102–567, title II, §204, Oct. 29, 1992, 106 Stat. 4282.

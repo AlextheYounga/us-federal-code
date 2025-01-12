@@ -4,6 +4,8 @@ There is authorized to be appropriated to carry out this subchapter $27,548,000 
 
 (Pub. L. 93–112, title VI, §610, as added Pub. L. 113–128, title IV, §461(11), July 22, 2014, 128 Stat. 1684.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 Prior sections 795o to 795r were omitted in the general amendment of this subchapter by Pub. L. 105–220.

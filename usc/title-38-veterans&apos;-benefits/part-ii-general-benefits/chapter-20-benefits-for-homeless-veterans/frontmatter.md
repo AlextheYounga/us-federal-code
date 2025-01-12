@@ -76,6 +76,8 @@ Sec.
 
 2067. National Center on Homelessness Among Veterans.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Pub. L. 114–315, title VII, §§712(a)(2), 713(b), Dec. 16, 2016, 130 Stat. 1587, 1588, added items 2013, 2014, and 2067 and struck out former item 2013 "Authorization of appropriations".

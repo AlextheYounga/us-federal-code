@@ -6,6 +6,8 @@ Section 1792a, Pub. L. 97–300, title VII, §702, as added Pub. L. 102–367, t
 
 Section 1792b, Pub. L. 97–300, title VII, §703, as added Pub. L. 102–367, title VI, §601(a), Sept. 7, 1992, 106 Stat. 1102, related to administration of Councils.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, set out as a note under section 1501 of this title.

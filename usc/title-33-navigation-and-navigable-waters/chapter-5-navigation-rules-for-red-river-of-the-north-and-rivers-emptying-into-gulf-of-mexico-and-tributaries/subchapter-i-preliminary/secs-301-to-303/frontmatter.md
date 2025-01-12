@@ -6,6 +6,8 @@ Section 302, R.S. §4233; Feb. 19, 1895, ch. 102, §1, 28 Stat. 672; Mar. 3, 190
 
 Section 303, act Feb. 19, 1895, ch. 102, §3, 28 Stat. 672, set penalties for violation by vessels. See section 2072 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Dec. 24, 1981, see section 7 of Pub. L. 96–591, set out as an Effective Date of 1980 Amendment note under section 1604 of this title.

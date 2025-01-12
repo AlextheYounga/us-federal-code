@@ -14,9 +14,13 @@ The term "Mississippi River and Tributaries Project" means the Mississippi River
 
 (Pub. L. 115–270, title I, §1128, Oct. 23, 2018, 132 Stat. 3780.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The act of May 15, 1928, referred to in subsec. (c), is act May 15, 1928, ch. 569, 45 Stat. 534, which enacted sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, 702k, 702l, 702m, and 704 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### "Secretary" Defined ####
 

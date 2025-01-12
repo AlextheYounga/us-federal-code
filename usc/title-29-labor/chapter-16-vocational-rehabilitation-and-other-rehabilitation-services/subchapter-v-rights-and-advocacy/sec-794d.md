@@ -104,6 +104,8 @@ This section shall not be construed to limit any right, remedy, or procedure oth
 
 (Pub. L. 93–112, title V, §508, as added Pub. L. 99–506, title VI, §603(a), Oct. 21, 1986, 100 Stat. 1830; amended Pub. L. 100–630, title II, §206(f), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title V, §509(a), Oct. 29, 1992, 106 Stat. 4430; Pub. L. 105–220, title IV, §408(b), Aug. 7, 1998, 112 Stat. 1203; Pub. L. 106–246, div. B, title II, §2405, July 13, 2000, 114 Stat. 555.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 "Section 11101(6) of title 40" substituted in subsec. (a)(2)(A)(i) for "section 5002(3) of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401(3))" and "section 11103(a) of title 40" substituted in subsec. (a)(5) for "section 5142 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1452)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.

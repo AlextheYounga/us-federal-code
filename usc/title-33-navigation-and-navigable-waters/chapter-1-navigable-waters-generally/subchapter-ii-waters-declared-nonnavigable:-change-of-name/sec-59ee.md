@@ -4,6 +4,8 @@ For purposes of bridge administration, the Sacramento River Barge Canal, which c
 
 (Pub. L. 102–241, §34, Dec. 19, 1991, 105 Stat. 2223.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, as amended, which is classified generally to subchapter III (§525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 525 of this title and Tables.

@@ -4,6 +4,8 @@ In every contract or agreement to be made or entered into for the acquisition of
 
 (May 15, 1928, ch. 569, §14, 45 Stat. 539.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In text, "section 6306(a)" substituted for "section 3741 of the Revised Statutes being section 22 of title 41 of the United States Code" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.

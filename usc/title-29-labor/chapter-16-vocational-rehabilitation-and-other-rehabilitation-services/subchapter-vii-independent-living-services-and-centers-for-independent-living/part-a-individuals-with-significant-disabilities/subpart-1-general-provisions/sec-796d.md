@@ -152,6 +152,8 @@ The Council may use available resources to reimburse members of the Council for 
 
 (Pub. L. 93–112, title VII, §705, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1220; amended Pub. L. 105–277, div. A, §101(f) [title VIII, §402(c)(7)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416; Pub. L. 113–128, title IV, §475, July 22, 2014, 128 Stat. 1687.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 796d, Pub. L. 93–112, title VII, §705, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4446; amended Pub. L. 103–73, title I, §114(c), Aug. 11, 1993, 107 Stat. 728, related to Statewide Independent Living Councils, prior to the general amendment of this subchapter by Pub. L. 105–220.

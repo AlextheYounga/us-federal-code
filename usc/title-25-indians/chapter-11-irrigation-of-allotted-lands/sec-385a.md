@@ -4,6 +4,8 @@ Effective August 7, 1946, collections made from water users on each Indian irrig
 
 (Aug. 7, 1946, ch. 802, §1, 60 Stat. 895.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 "Section 1321 of title 31" substituted in text for "section 20 of the Permanent Appropriation Repeal Act, 1934 (48 Stat. 1227) [31 U.S.C. 725s]" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.

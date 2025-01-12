@@ -1,5 +1,7 @@
 ### §§70n–4 to 70v–3. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The Indian Claims Commission terminated on Sept. 30, 1978, pursuant to section 70v of this title.

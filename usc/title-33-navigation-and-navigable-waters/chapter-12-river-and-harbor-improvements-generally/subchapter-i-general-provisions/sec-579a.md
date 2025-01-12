@@ -74,6 +74,8 @@ The Secretary shall publish in the Federal Register a list of any projects or se
 
 (Pub. L. 99–662, title X, §1001, Nov. 17, 1986, 100 Stat. 4201; Pub. L. 101–640, title I, §119(a), Nov. 28, 1990, 104 Stat. 4630; Pub. L. 104–303, title II, §228(a), Oct. 12, 1996, 110 Stat. 3703; Pub. L. 106–109, §8(d), Nov. 24, 1999, 113 Stat. 1496; Pub. L. 110–114, title II, §2046, Nov. 8, 2007, 121 Stat. 1105; Pub. L. 113–121, title VI, §6001(b), June 10, 2014, 128 Stat. 1345; Pub. L. 115–270, title I, §1154(a), Oct. 23, 2018, 132 Stat. 3791.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in subsec. (a), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
@@ -99,6 +101,8 @@ Pub. L. 110–114, §2046(1), in first sentence, substituted "year" for "two yea
 **1996**—Subsec. (b)(2). Pub. L. 104–303 substituted "7 full" for "10 full", "Upon submission" for "Before submission", and "for the planning, design, or construction" for "for construction".
 
 **1990**—Subsec. (b)(2). Pub. L. 101–640 inserted after first sentence "Before submission of such list to Congress, the Secretary shall notify each Senator in whose State, and each Member of the House of Representatives in whose district, a project (including any part thereof) on such list would be located."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Savings Clause ####
 

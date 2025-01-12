@@ -178,6 +178,8 @@ The Commissioner may not make a grant under subparagraph (A) unless the State in
 
 (Pub. L. 93–112, title VII, §752, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1237; amended Pub. L. 113–128, title IV, §487, July 22, 2014, 128 Stat. 1694.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Part C, as in effect on the day before October 29, 1992, referred to in subsec. (b)(2)(B), means former part C (§796f) which was included in the repeal of subchapter VII of this chapter by Pub. L. 102–569, title VII, §701(1), Oct. 29, 1992, 106 Stat. 4443.

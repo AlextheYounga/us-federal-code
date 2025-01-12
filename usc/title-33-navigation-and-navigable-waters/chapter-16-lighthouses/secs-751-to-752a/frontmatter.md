@@ -6,6 +6,8 @@ Section 752, acts Mar. 4, 1913, ch. 168, 37 Stat. 1019; Mar. 4, 1913, ch. 141, ย
 
 Section 752a, act May 22, 1926, ch. 371, ยง5, 44 Stat. 626, related to sale of equipment; disposition of receipts. See section 901 of Title 14.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective first day of third month after approval by President [Aug. 4, 1949], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.

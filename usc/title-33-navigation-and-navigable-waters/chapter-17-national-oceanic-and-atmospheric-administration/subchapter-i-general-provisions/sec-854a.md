@@ -4,6 +4,8 @@ For purposes of promotion which is now or may hereafter be authorized for office
 
 (Jan. 19, 1942, ch. 6, §2, 56 Stat. 6; June 3, 1948, ch. 390, §22(a), formerly §21(a), 62 Stat. 300, renumbered §22(a), Pub. L. 87–233, §1(f), Sept. 14, 1961, 75 Stat. 506; Oct. 12, 1949, ch. 681, title V, §531(b)(32), 63 Stat. 839; June 21, 1955, ch. 172, §3(a), 69 Stat. 169.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Provisions similar to this section are contained in section 3032 of this title.
@@ -15,6 +17,8 @@ Provisions similar to this section are contained in section 3032 of this title.
 **1949**—Act Oct. 12, 1949, repealed that part of second proviso of subsec. (b) relating to service credit as deck officer or junior engineer for pay, longevity pay, or retirement purposes.
 
 **1948**—Act June 3, 1948, repealed subsecs. (a), (c), (d) and all of subsec. (b) except for second proviso which now comprises this section.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1949 Amendment ####
 

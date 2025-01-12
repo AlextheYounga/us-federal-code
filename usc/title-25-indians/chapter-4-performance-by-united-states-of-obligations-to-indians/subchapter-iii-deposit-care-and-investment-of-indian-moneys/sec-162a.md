@@ -54,6 +54,8 @@ The Secretary's proper discharge of the trust responsibilities of the United Sta
 
 (June 24, 1938, ch. 648, §1, 52 Stat. 1037; Pub. L. 98–146, title I, Nov. 4, 1983, 97 Stat. 929; Pub. L. 101–644, title III, §302, Nov. 29, 1990, 104 Stat. 4667; Pub. L. 103–412, title I, §§101, 103(b), (c), Oct. 25, 1994, 108 Stat. 4240, 4241.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 12B of the Federal Reserve Act, referred to in subsec. (a), formerly classified to section 264 of Title 12, Banks and Banking, has been withdrawn from the Federal Reserve Act and incorporated in the Federal Deposit Insurance Act which is classified to chapter 16 (§1811 et seq.) of Title 12.
@@ -72,11 +74,15 @@ Subsec. (d). Pub. L. 103–412, §101, added subsec. (d).
 
 **1983**—Pub. L. 98–146 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Repeal of Inconsistent Provisions and Construction With Other Laws ####
 
 Act June 24, 1938, ch. 648, §2, 52 Stat. 1037, repealed act May 25, 1918, ch. 86, §28, 40 Stat. 591, which was contained in former section 162 of this title, and all other inconsistent acts.
 
 Act June 24, 1938, ch. 648, §3, 52 Stat. 1038, provided: "Nothing contained in this act shall be construed as affecting the provisions of the Federal Reserve Act or regulations issued thereunder relating to the payment of interest on deposits."
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

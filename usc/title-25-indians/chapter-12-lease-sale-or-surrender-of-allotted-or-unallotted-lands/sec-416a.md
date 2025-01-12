@@ -14,11 +14,15 @@ Any contract, including a lease, affecting land within the Salt River Pima-Maric
 
 (Pub. L. 89–715, §2, Nov. 2, 1966, 80 Stat. 1112; Pub. L. 98–163, Nov. 22, 1983, 97 Stat. 1016; Pub. L. 108–329, §1(a), Oct. 16, 2004, 118 Stat. 1274.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Subsec. (c). Pub. L. 108–329, in first sentence, substituted "Any contract, including a lease, affecting land" for "Any lease entered into under sections 416 to 416j or 415 to 415d of this title or any contract entered into under section 81 of this title, affecting land" and "such contract" for "such lease or contract" and, in second sentence, substituted "Such contracts" for "Such leases or contracts entered into pursuant to such sections".
 
 **1983**—Subsec. (c). Pub. L. 98–163 added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2004 Amendment ####
 

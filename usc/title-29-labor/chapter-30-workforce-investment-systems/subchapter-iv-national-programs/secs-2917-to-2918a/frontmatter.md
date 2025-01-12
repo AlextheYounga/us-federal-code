@@ -6,6 +6,8 @@ Section 2918, Pub. L. 105–220, title I, §173, Aug. 7, 1998, 112 Stat. 1035; P
 
 Section 2918a, Pub. L. 105–220, title I, §173A, as added Pub. L. 109–281, §2(a), Sept. 22, 2006, 120 Stat. 1173, related to YouthBuild programs. See section 3226 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.

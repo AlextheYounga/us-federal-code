@@ -4,6 +4,8 @@ In accordance with the recommendations of the Chief of Engineers, as set forth i
 
 (June 28, 1938, ch. 795, §4, 52 Stat. 1220.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 702a–1½ of this title.

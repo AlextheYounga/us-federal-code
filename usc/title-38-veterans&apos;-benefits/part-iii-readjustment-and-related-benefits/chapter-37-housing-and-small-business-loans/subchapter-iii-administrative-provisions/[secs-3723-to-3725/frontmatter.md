@@ -6,6 +6,8 @@ Section 3724, added Pub. L. 86–665, §7(a), July 14, 1960, 74 Stat. 532, §182
 
 Section 3725, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1215, §1824; renumbered §1825, Pub. L. 86–665, §7(a), July 14, 1960, 74 Stat. 532; amended Pub. L. 94–324, §7(29), June 30, 1976, 90 Stat. 722; Pub. L. 101–237, title III, §302(a)(1), Dec. 18, 1989, 103 Stat. 2069; Pub. L. 102–54, §15(a)(2), June 13, 1991, 105 Stat. 289; renumbered §3725 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §2(b)(2), Oct. 28, 1992, 106 Stat. 3634, related to Guaranty and Indemnity Fund. See section 3722 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as an Effective Date of 1998 Amendment note under section 2106 of this title.

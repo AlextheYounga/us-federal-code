@@ -50,6 +50,8 @@ Section 2944, Pub. L. 105–220, title I, §194, Aug. 7, 1998, 112 Stat. 1056, r
 
 Section 2945, Pub. L. 105–220, title I, §195, Aug. 7, 1998, 112 Stat. 1057, contained general program requirements. See section 3254(1) to (13) of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.

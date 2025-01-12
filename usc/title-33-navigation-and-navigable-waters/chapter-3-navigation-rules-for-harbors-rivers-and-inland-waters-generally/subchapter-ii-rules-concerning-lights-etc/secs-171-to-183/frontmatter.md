@@ -26,6 +26,8 @@ Section 182, act June 7, 1897, ch. 4, §1, 30 Stat. 99, related to special light
 
 Section 183, act June 7, 1897, ch. 4, §1, 30 Stat. 99, related to day signal of vessels under sail.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Dec. 24, 1981, see section 7 of Pub. L. 96–591, set out as an Effective Date of 1980 Amendment note under section 1604 of this title.

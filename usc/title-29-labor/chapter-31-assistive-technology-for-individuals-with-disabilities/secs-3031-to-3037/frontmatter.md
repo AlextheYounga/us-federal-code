@@ -1,5 +1,7 @@
 ### §§3031 to 3037. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections, comprising subchapter II of this chapter, "National Activities", were omitted in the general amendment of this chapter by Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1707.

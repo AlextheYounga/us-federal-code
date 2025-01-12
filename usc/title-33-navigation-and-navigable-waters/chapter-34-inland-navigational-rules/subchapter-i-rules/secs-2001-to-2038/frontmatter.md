@@ -76,6 +76,8 @@ Section 2037, Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3432, related to Ru
 
 Section 2038, Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3432, related to Rule 38, exemptions.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 108–293, title III, §303(a), (c), Aug. 9, 2004, 118 Stat. 1042, provided that the repeal of this subchapter by section 303(a) is effective on the effective date of final regulations prescribed by the Secretary of the Department in which the Coast Guard is operating under section 2071 of this title. Repeal effective May 17, 2010, and Inland Navigation Rules moved to 33 CFR part 83. See 75 F.R. 19544, Apr. 15, 2010.

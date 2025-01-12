@@ -58,6 +58,8 @@ The panel may exercise such powers as are reasonably necessary in order to carry
 
 (Pub. L. 105–384, title III, §305, Nov. 13, 1998, 112 Stat. 3456; Pub. L. 105–383, title IV, §432(c), Nov. 13, 1998, 112 Stat. 3445; Pub. L. 107–372, title I, §105, Dec. 19, 2002, 116 Stat. 3080; Pub. L. 110–386, §4, Oct. 10, 2008, 122 Stat. 4107.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsec. (c)(1)(C), was in the original "this Act", and was translated, to reflect the probable intent of Congress, as reading "this title", meaning title III of Pub. L. 105–384, Nov. 13, 1998, 112 Stat. 3454, known as the Hydrographic Services Improvement Act of 1998, which is classified principally to this subchapter. For complete classification of title III to the Code, see Short Title of 1998 Amendment note set out under section 851 of this title and Tables.
@@ -77,6 +79,8 @@ This subchapter, referred to in subsec. (c)(1)(C), was in the original "this Act
 "(2) existing safety and efficiency needs in United States ports that could be met by increased use of those systems; and
 
 "(3) a plan for expanding those systems to meet those needs, including an estimate of the cost of implementing those systems in priority locations."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1998 Amendment ####
 

@@ -4,6 +4,8 @@ After September 30, 1985, no part of any appropriation (except trust funds) to t
 
 (Pub. L. 98–473, title I, §101(c) [title I, §100], Oct. 12, 1984, 98 Stat. 1837, 1848.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.

@@ -198,6 +198,8 @@ Sec.
 
 1788. Transplant procedures with live donors and related services.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Pub. L. 116–214, title II, §201(b), Dec. 5, 2020, 134 Stat. 1033, added item 1720J.

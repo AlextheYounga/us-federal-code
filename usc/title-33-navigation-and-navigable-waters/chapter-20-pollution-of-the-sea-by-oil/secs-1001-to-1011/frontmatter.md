@@ -24,6 +24,8 @@ Section 1010, Pub. L. 87–167, §12, formerly §11, Aug. 30, 1961, 75 Stat. 404
 
 Section 1011, Pub. L. 87–167, §12, Aug. 30, 1961, 75 Stat. 404; Pub. L. 89–551, §1(8), Sept. 1, 1966, 80 Stat. 375, specified prohibited zones and provided for reduction or extension of such zones.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 2, 1983, see section 14(a) of Pub. L. 96–478, set out as an Effective Date note under section 1901 of this title.

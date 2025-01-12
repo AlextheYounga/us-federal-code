@@ -94,6 +94,8 @@ Sec.
 
 7474. Consultation.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Pub. L. 116–12, §1(b)(4), Apr. 8, 2019, 133 Stat. 845, substituted "PAY FOR PHYSICIANS, PODIATRISTS, AND DENTISTS" for "PAY FOR PHYSICIANS AND DENTISTS" in item for subchapter III.

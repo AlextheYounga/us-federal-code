@@ -18,6 +18,8 @@ Section 1518, Pub. L. 97–300, title I, §108, Oct. 13, 1982, 96 Stat. 1336; Pu
 
 Section 1519, Pub. L. 97–300, title I, §109, as added Pub. L. 102–367, title I, §118, Sept. 7, 1992, 106 Stat. 1036, related to recapture and reallotment of unobligated funds.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, set out as a note under section 1501 of this title.

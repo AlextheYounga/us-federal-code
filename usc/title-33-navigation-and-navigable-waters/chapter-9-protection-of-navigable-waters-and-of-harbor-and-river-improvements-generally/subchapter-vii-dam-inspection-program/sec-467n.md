@@ -10,6 +10,8 @@
 
 (Pub. L. 99–662, title XII, §1203, Nov. 17, 1986, 100 Stat. 4263.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Public Law 98–404, referred to in subsec. (a)(1), is Pub. L. 98–404, Aug. 28, 1984, 98 Stat. 1481, known as The Reclamation Safety of Dams Act Amendments of 1984, which amended sections 508 and 509 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 506 of Title 43 and Tables.
@@ -19,6 +21,8 @@ Public Law 84–99, referred to in subsec. (b), is act June 28, 1955, ch. 194, 6
 #### Codification ####
 
 Section was enacted as part of the Dam Safety Act of 1986, and also as part of the Water Resources Development Act of 1986, and not as part of the National Dam Safety Program Act which comprises this subchapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Dam Safety Repair Projects ####
 

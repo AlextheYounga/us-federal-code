@@ -24,6 +24,8 @@ Section 249, act July 4, 1884, ch. 180, §1, 23 Stat. 94, related to officers an
 
 Section 250, act Aug. 24, 1912, ch. 388, §1, 37 Stat. 519, related to powers of chief special officer and deputies to suppress liquor traffic. See section 3055 of Title 18.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Sept. 1, 1948, see act June 25, 1948, ch. 645, §20, 62 Stat. 862.

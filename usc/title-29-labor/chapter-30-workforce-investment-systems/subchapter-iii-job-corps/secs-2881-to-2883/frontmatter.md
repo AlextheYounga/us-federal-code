@@ -10,6 +10,8 @@ Section 2883, Pub. L. 105–220, title I, §143, Aug. 7, 1998, 112 Stat. 1007, e
 
 Provisions similar to those formerly contained in section 2883 were contained in section 1692 of this title prior to repeal by Pub. L. 105–220.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.

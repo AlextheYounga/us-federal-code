@@ -4,6 +4,8 @@ So much of the Iowa River within the State of Iowa, as lies north of the town of
 
 (R.S. §5248; Aug. 18, 1894, ch. 299, §1, 28 Stat. 356.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §5248 derived from Res. July 13, 1868, No. 55, 15 Stat. 257; act May 6, 1870, ch. 92, 16 Stat. 121.

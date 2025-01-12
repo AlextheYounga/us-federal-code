@@ -30,6 +30,8 @@ Section 308f, Pub. L. 85–836, §15, as added Pub. L. 87–420, §16(a), Mar. 2
 
 Section 309, Pub. L. 85–836, §16, formerly §10, Aug. 28, 1958, 72 Stat. 1002, renumbered and amended Pub. L. 87–420, §16(a), (b), Mar. 20, 1962, 76 Stat. 38, 41, related to effect of other laws on provisions of this chapter. See section 1144 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 1, 1975, except that chapter to remain applicable to any conduct and events which occurred before Jan. 1, 1975, see section 1031 of this title.

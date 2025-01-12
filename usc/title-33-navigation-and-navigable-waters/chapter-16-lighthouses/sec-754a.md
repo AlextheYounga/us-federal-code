@@ -4,9 +4,13 @@ Officers and crews of vessels of the Lighthouse Service and light keepers and de
 
 (May 22, 1926, ch. 371, §4, 44 Stat. 626; Pub. L. 115–232, div. C, title XXXV, §3533(c)(3), Aug. 13, 2018, 132 Stat. 2321.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232 substituted "enlisted members" for "enlisted men".
+
+#### **Statutory Notes and Executive Documents** ####
 
 #### Transfer of Functions ####
 

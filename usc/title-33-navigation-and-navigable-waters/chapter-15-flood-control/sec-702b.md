@@ -4,6 +4,8 @@ It is declared to be the sense of Congress that the principle of local contribut
 
 (May 15, 1928, ch. 569, §2, 45 Stat. 535.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Herein, referred to in text, means act May 15, 1928, ch. 569, 45 Stat. 534, as amended, which enacted sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, 702k, 702l, 702m, and 704 of this title. For complete classification of this Act to the Code, see Tables.

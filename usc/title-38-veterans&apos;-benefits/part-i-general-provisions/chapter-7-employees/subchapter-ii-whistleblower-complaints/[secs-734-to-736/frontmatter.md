@@ -6,6 +6,8 @@ Section 735, added Pub. L. 114–223, div. A, title II, §247(a)(1), Sept. 29, 2
 
 Section 736, added Pub. L. 114–223, div. A, title II, §247(a)(1), Sept. 29, 2016, 130 Stat. 889, related to reports to Congress on whistleblower complaints.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 Prior sections 740 to 763, 765 to 779, 781 to 788, and 801 to 806 were renumbered sections 1940 to 1963, 1965 to 1979, 1981 to 1988, and 2101 to 2106 of this title, respectively.

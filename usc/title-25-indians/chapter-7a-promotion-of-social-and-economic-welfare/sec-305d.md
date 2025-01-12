@@ -42,6 +42,8 @@ In lieu of, or in addition to, any criminal proceeding under subsection (c), the
 
 (Aug. 27, 1935, ch. 748, §5, as added Pub. L. 101–644, title I, §103, Nov. 29, 1990, 104 Stat. 4662; amended Pub. L. 111–211, title I, §102(a), July 29, 2010, 124 Stat. 2258.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in subsec. (b), is act Aug. 27, 1935, ch. 748, 49 Stat. 891, which is classified generally to section 305 et seq. of this title. For complete classification of this Act to the Code, see Tables.

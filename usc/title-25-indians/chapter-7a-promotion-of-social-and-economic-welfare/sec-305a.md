@@ -4,6 +4,8 @@ It shall be the function and the duty of the Secretary of the Interior through t
 
 (Aug. 27, 1935, ch. 748, §2, 49 Stat. 891; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784; Pub. L. 101–644, title I, §102, Nov. 29, 1990, 104 Stat. 4662.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The proviso in clause (h) originally provided that the Classification Act of 1923, as amended, shall be applicable to all permanent employees except executive officers, and that all employees other than executive officers shall be appointed in accordance with the civil-service laws from lists of eligibles to be supplied by the Civil Service Commission. The exception of "executive officers" has been omitted as obsolete and superseded.
@@ -24,9 +26,13 @@ Pub. L. 101–644, §102(3), inserted sentence at end defining "Indian arts and 
 
 **1949**—Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Repeals ####
 
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, §8, 80 Stat. 632, 655.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

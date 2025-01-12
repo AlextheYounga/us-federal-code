@@ -4,6 +4,8 @@ Provision by an employer of facilities for the operations of a Federal Credit Un
 
 (Dec. 6, 1937, ch. 3, §5, 51 Stat. 5.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 This section was not enacted either as part of the Labor Management Relations Act, 1947, which comprises this chapter, or as part of the National Labor Relations Act, which comprises this subchapter.

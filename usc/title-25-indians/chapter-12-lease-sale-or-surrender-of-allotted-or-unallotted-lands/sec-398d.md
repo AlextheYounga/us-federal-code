@@ -4,9 +4,13 @@ Changes in the boundaries of reservations created by Executive order, proclamati
 
 (Mar. 3, 1927, ch. 299, §4, 44 Stat. 1347; Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Pub. L. 94–579 struck out proviso relating to nonapplicability of provisions to temporary withdrawals by Secretary of the Interior.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1976 Amendment ####
 

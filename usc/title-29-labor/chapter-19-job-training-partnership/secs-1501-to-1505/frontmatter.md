@@ -10,6 +10,8 @@ Section 1504, Pub. L. 97–300, title VI, §604, formerly title V, §504, Oct. 1
 
 Section 1505, Pub. L. 97–300, title VI, §605, formerly title V, §505, as added Pub. L. 100–418, title VI, §6307(a), Aug. 23, 1988, 102 Stat. 1541; renumbered title VI, §505, Pub. L. 100–628, title VII, §712(a)(1), Nov. 7, 1988, 102 Stat. 3248; renumbered §605, Pub. L. 102–367, title VII, §702(a)(20), Sept. 7, 1992, 106 Stat. 1113, related to State job bank systems.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 105–220, title I, §199(c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, which provided that the repeal made by subsection (b)(2) (repealing this chapter and provisions set out as a note under section 801 of this title) would take effect on July 1, 2000, was repealed by Pub. L. 113–128, title V, §511(a), July 22, 2014, 128 Stat. 1705.

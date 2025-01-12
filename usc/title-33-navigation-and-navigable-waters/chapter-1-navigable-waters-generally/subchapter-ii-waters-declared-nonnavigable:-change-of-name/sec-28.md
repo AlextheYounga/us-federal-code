@@ -4,6 +4,8 @@ After the channel of the Crum River where the same empties into the Delaware Riv
 
 (July 27, 1916, ch. 260, §1, 39 Stat. 393.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act July 27, 1916, chapter 260, referred to in text, is act July 27, 1916, ch. 260, 39 Stat. 393, which is classified to sections 7, 25, 28, 38, 424, and 648 to 650 of this title. For complete classification of this Act to the Code, see Tables.

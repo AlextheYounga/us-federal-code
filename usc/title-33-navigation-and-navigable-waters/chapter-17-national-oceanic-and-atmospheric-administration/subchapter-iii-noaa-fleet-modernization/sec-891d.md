@@ -50,6 +50,8 @@ Notwithstanding any other law, the Secretary may not require a contractor for th
 
 (Pub. L. 102–567, title VI, §606, Oct. 29, 1992, 106 Stat. 4301.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In subsec. (a)(1), "subsections (a) and (b) of section 6301 of title 41" substituted for "section 3732 of the Revised Statutes of the United States (41 U.S.C. 11)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.

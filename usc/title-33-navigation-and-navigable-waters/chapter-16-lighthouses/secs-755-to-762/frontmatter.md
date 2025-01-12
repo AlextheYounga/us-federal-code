@@ -16,6 +16,8 @@ Section 761, acts May 14, 1908, ch. 168, §6, 35 Stat. 162; June 17, 1910, ch. 3
 
 Section 762, act Mar. 3, 1915, ch. 81, §8, 38 Stat. 928, related to wrongful interference with private aids to navigation and penalty. See section 543 of Title 14.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective first day of third month after approval by President [Aug. 4, 1949], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.

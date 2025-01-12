@@ -1,5 +1,7 @@
 ### SUBCHAPTER V—BUREAU OF JUSTICE ASSISTANCE GRANT PROGRAMS ###
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 This subchapter is comprised of part E (§500 et seq.) of title I of Pub. L. 90–351. A prior part E (formerly part F) related to discretionary grants, prior to repeal by Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4328.

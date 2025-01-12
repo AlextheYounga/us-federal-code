@@ -34,6 +34,8 @@ A State that receives an allotment under this subchapter shall reserve and expen
 
 (Pub. L. 93–112, title VI, §603, formerly §622, as added Pub. L. 105–220, title IV, §409, Aug. 7, 1998, 112 Stat. 1214; amended Pub. L. 105–277, div. A, §101(f) [title VIII, §402(b)(13)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–414; renumbered §603 and amended Pub. L. 113–128, title IV, §461(3), (5), July 22, 2014, 128 Stat. 1679.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Part B of this subchapter (as in effect on September 30, 1992), referred to in subsec. (a)(1)(B), consisted of sections 795g to 795i and related to projects with industry and business opportunities for individuals with handicaps.

@@ -10,6 +10,8 @@ Section 740b, acts June 23, 1874, ch. 455, §1, 18 Stat. 220; June 17, 1910, ch.
 
 Sections covered by section 541 of Title 14, Coast Guard.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective first day of third month after approval by President [Aug. 4, 1949], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.

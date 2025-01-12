@@ -6,6 +6,8 @@
 
 (Pub. L. 106–291, title I, §122, Oct. 11, 2000, 114 Stat. 944; Pub. L. 107–20, title II, §2608, July 24, 2001, 115 Stat. 178.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 103(a)(2) of Public Law 104–193, 110 Stat. 2159, referred to in subsec. (b), enacted section 419 of act Aug. 14, 1935, ch. 531, which is classified to section 619 of Title 42, The Public Health and Welfare, and contains a listing of Alaska Native regional nonprofit corporations.

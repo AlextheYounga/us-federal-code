@@ -42,6 +42,8 @@ Sec.
 
 119. Contracting for statistical analyses and data evaluation.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Pub. L. 116–171, title III, §306(b), Oct. 17, 2020, 134 Stat. 805, added item 119.

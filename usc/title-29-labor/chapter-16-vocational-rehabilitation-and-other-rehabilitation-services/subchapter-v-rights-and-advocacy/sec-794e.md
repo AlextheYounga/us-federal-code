@@ -84,7 +84,7 @@ In order to receive assistance under this section, an eligible system shall subm
 
 (A) the objectives and priorities for the activities of the system for each year and the rationale for the establishment of such objectives and priorities; and
 
-(B) the coordination of programs provided through the system under this section with the advocacy programs of the client assistance program under section 732 of this title, the State long-term care ombudsman program established under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [42 U.S.C. 15001 et seq.], and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup><a href="#794e_2_target" name="794e_2">2</a></sup> (42 U.S.C. 10801 et seq.);
+(B) the coordination of programs provided through the system under this section with the advocacy programs of the client assistance program under section 732 of this title, the State long-term care ombudsman program established under the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [42 U.S.C. 15001 et seq.], and the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup><a href="#794e_1_target" name="794e_1">1</a></sup> (42 U.S.C. 10801 et seq.);
 
 (6) establish a grievance procedure for clients or prospective clients of the system to ensure that individuals with disabilities are afforded equal opportunity to access the services of the system; and
 
@@ -133,6 +133,8 @@ The term "eligible system" means a protection and advocacy system that is establ
 The term "American Indian consortium" means a consortium established as described in section 142 <sup><a href="#794e_2_target" name="794e_2">2</a></sup> of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042).
 
 (Pub. L. 93–112, title V, §509, as added Pub. L. 102–569, title V, §510(a), Oct. 29, 1992, 106 Stat. 4430; amended Pub. L. 103–73, title I, §112(c), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–12, §9(n), Apr. 30, 1997, 111 Stat. 28; Pub. L. 105–220, title IV, §408(c), Aug. 7, 1998, 112 Stat. 1206; Pub. L. 105–394, title IV, §402(c), Nov. 13, 1998, 112 Stat. 3662; Pub. L. 106–402, title IV, §401(b)(3)(C), (D), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 113–128, title IV, §457, July 22, 2014, 128 Stat. 1676.)
+
+#### **Editorial Notes** ####
 
 #### References in Text ####
 
@@ -192,6 +194,8 @@ Subsec. (j). Pub. L. 103–73, §112(c)(7), added subsec. (j) and struck out hea
 
 Subsec. (n). Pub. L. 103–73, §112(c)(5), redesignated subsec. (i) as (n).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
@@ -203,5 +207,3 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 Amendment by Pub. L. 105–12 effective Apr. 30, 1997, applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, and also applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of Title 42, The Public Health and Welfare.
 
 [<sup>1</sup> See References in Text note below.](#794e_1)
-
-[<sup>2</sup> See References in Text note below.](#794e_2)

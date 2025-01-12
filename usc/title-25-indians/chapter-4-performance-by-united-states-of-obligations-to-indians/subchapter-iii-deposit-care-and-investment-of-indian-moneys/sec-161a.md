@@ -6,6 +6,8 @@
 
 (Feb. 12, 1929, ch. 178, §1, 45 Stat. 1164; June 13, 1930, ch. 483, 46 Stat. 584; Pub. L. 98–451, Oct. 4, 1984, 98 Stat. 1729; Pub. L. 103–412, title I, §103(a), Oct. 25, 1994, 108 Stat. 4241.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–412 designated existing provisions as subsec. (a) and added subsec. (b).
@@ -14,9 +16,13 @@
 
 **1930**—Act June 13, 1930, amended section generally.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1994 Amendment ####
 
 Pub. L. 103–412, title I, §103(d), Oct. 25, 1994, 108 Stat. 4241, provided that: "The amendment made by subsection (a) [amending this section] shall apply to interest earned on amounts deposited or invested on or after the date of the enactment of this Act [Oct. 25, 1994]."
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

@@ -78,6 +78,8 @@ In constructing a shore protection project or separable element under this parag
 
 (Aug. 13, 1946, ch. 960, §1, 60 Stat. 1056; July 28, 1956, ch. 768, 70 Stat. 702; Pub. L. 87–874, title I, §103(a)(1)–(3), Oct. 23, 1962, 76 Stat. 1178; Pub. L. 88–172, §1, Nov. 7, 1963, 77 Stat. 304; Pub. L. 91–611, title II, §208, Dec. 31, 1970, 84 Stat. 1829; Pub. L. 104–303, title II, §227(a), (b), (e)(2)(A), (B), Oct. 12, 1996, 110 Stat. 3698, 3703.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 426h of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 110–114, title II, §2038(b), Nov. 8, 2007, 121 Stat. 1100.
@@ -101,6 +103,8 @@ Subsec. (e). Pub. L. 104–303, §227(b), (e)(2)(B), inserted subsec. heading, d
 Subsec. (e). Pub. L. 87–874, §103(a)(3), required approval of plans by Chief of Engineers in case of a small project under section 426g of this title.
 
 **1956**—Act July 28, 1956, extended assistance to privately owned shores, to include shores of Territories and possessions, substituted "restoration" for "improvement", defined "construction", and struck out provisions which authorized Federal aid toward the repair and protection of seawalls constructed by political subdivisions to protect important public highways.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Beach Recreation ####
 

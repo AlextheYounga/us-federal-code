@@ -24,6 +24,8 @@ Within one year after the date appropriations are made under subsection (b) for 
 
 (Pub. L. 95–602, title IV, §401, Nov. 6, 1978, 92 Stat. 3002; Pub. L. 98–221, title I, §104(c)(1), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, §103(d)(2)(C), Oct. 21, 1986, 100 Stat. 1810.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Rehabilitation Act of 1973, referred to in subsec. (c), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to this chapter (§701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.

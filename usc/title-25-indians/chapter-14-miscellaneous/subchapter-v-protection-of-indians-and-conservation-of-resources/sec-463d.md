@@ -1,8 +1,12 @@
 ### §463d. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section, act Aug. 10, 1939, ch. 662, §1, 53 Stat. 1351, which related to restoration of lands in Umatilla Indian Reservation to tribal ownership, was omitted from the Code as being of special and not general application.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Inheritance of Trust or Restricted Lands ####
 

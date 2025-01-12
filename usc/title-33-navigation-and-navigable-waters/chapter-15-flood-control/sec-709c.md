@@ -34,6 +34,8 @@ The Secretary shall use the procedures established under subsection (b) only whe
 
 (Pub. L. 113–121, title III, §3027, June 10, 2014, 128 Stat. 1305.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### "Secretary" Defined ####
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.

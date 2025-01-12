@@ -4,6 +4,8 @@ After there shall be conveyed to the United States, free of cost, a valid title 
 
 (June 19, 1906, ch. 3436, §1, 34 Stat. 302.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 This section is from a proviso following provisions establishing an additional collection district in the State of Texas to be known as the district of Sabine; the establishment of the said district being conditioned on the making of the conveyance referred to in this section.

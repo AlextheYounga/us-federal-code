@@ -18,6 +18,8 @@ Sec.
 
 2308. Transportation of deceased veteran to a national cemetery.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–275, title II, §213(b)(2), Oct. 9, 1996, 110 Stat. 3332, substituted "burial receptacles" for "grave liners" in item 2306.

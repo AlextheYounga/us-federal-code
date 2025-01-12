@@ -24,6 +24,8 @@ Section 1657, Pub. L. 97–300, title III, §307, Oct. 13, 1982, 96 Stat. 1367, 
 
 Section 1658, Pub. L. 97–300, title III, §308, Oct. 13, 1982, 96 Stat. 1367; Pub. L. 97–404, §3, Dec. 31, 1982, 96 Stat. 2026, related to State plans and coordination with other programs.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, set out as a note under section 1501 of this title.

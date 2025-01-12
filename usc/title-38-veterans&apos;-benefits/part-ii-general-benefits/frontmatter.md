@@ -23,6 +23,8 @@ Chap. Sec.
 
 24. National Cemeteries and Memorials 2400
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2003**—Pub. L. 108–183, title I, §102(e)(2), Dec. 16, 2003, 117 Stat. 2655, substituted "Benefits for Children of Vietnam Veterans and Certain Other Veterans" for "Benefits for Children of Vietnam Veterans" in item for chapter 18.

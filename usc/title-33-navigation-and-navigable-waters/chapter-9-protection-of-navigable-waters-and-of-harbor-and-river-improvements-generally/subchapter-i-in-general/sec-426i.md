@@ -26,6 +26,8 @@ Beginning on December 16, 2016, in any case in which the Secretary implements a 
 
 (Pub. L. 90–483, title I, §111, Aug. 13, 1968, 82 Stat. 735; Pub. L. 99–662, title IX, §§915(f), 940, Nov. 17, 1986, 100 Stat. 4191, 4199; Pub. L. 106–53, title II, §214, Aug. 17, 1999, 113 Stat. 291; Pub. L. 113–121, title I, §1030(c), June 10, 2014, 128 Stat. 1232; Pub. L. 114–322, title I, §1169, Dec. 16, 2016, 130 Stat. 1671; Pub. L. 115–270, title I, §1157(c), Oct. 23, 2018, 132 Stat. 3794.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (c). Pub. L. 115–270 substituted "$12,500,000" for "$10,000,000".
@@ -41,6 +43,8 @@ Subsec. (e). Pub. L. 114–322, §1169(2), added subsec. (e).
 **1986**—Pub. L. 99–662, §940, amended section generally. Prior to amendment, section read as follows: "The Secretary of the Army, acting through the Chief of Engineers, is authorized to investigate, study, and construct projects for the prevention or mitigation of shore damages attributable to Federal navigation works. The cost of installing, operating, and maintaining such projects shall be borne entirely by the United States. No such project shall be constructed without specific authorization by Congress if the estimated first cost exceeds $2,000,000."
 
 Pub. L. 99–662, §915(f), substituted "$2,000,000" for "$1,000,000".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1986 Amendment ####
 

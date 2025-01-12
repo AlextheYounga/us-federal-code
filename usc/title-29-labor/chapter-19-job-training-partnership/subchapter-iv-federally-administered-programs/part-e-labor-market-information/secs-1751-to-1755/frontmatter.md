@@ -10,6 +10,8 @@ Section 1754, Pub. L. 97–300, title IV, §464, Oct. 13, 1982, 96 Stat. 1385; P
 
 Section 1755, Pub. L. 97–300, title IV, §465, Oct. 13, 1982, 96 Stat. 1386; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, related to job bank program.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, set out as a note under section 1501 of this title.

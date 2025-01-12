@@ -6,9 +6,13 @@ Section 143a, act Oct. 11, 1951, ch. 495, §2, 65 Stat. 407, provided that Navy 
 
 Section 143b, act Oct. 11, 1951, ch. 495, §6, 65 Stat. 408, related to identity of regulations authorized to be proclaimed.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Sept. 1, 1965, see Proc. No. 3632, Dec. 29, 1964, 29 F.R. 19167, and section 3 of Pub. L. 88–131, both set out as notes under section 1051 of this title.
+
+#### **Executive Documents** ####
 
 #### Proclamation No. 3030 ####
 

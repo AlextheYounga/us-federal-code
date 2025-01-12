@@ -28,6 +28,8 @@ Section 853l, acts June 3, 1948, ch. 390, §14, formerly §13, 62 Stat. 299; ren
 
 A prior section 14 of act June 3, 1948, was classified to section 853m of this title prior to repeal by act Oct. 12, 1949.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Section 1 of act June 3, 1948, ch. 390, 62 Stat. 297, provided that act June 3, 1948, enacting sections 853a to 853o and 853p to 853v of this title, amending sections 852a, 852b, 854a, and 864d of this title, and repealing sections 851a, 854b, 854c, 864b, and 864c of this title, could be cited as the "Coast and Geodetic Survey Commissioned Officers' Act of 1948", prior to repeal by Pub. L. 107–372, title II, §271(1), Dec. 19, 2002, 116 Stat. 3094.

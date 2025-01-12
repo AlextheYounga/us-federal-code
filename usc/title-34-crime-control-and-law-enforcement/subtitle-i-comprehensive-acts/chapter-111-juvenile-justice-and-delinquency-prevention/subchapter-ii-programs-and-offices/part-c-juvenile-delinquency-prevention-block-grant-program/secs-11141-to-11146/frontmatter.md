@@ -30,6 +30,8 @@ A prior section 246 of Pub. L. 93–415, title II, formerly §250, Sept. 7, 1974
 
 Another prior section 246 of Pub. L. 93–415, title II, formerly §247, Sept. 7, 1974, 88 Stat. 1127; Pub. L. 95–115, §5(d), Oct. 3, 1977, 91 Stat. 1057; renumbered §246 and amended Pub. L. 98–473, title II, §636, Oct. 12, 1984, 98 Stat. 2120, set forth additional functions of the Institute for Juvenile Justice and Delinquency Prevention, prior to repeal by Pub. L. 100–690, title VII, §§7263(a)(2)(C), 7296(a), Nov. 18, 1988, 102 Stat. 4443, 4463, effective Oct. 1, 1988.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under section 11102 of this title.

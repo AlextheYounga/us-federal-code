@@ -1,5 +1,7 @@
 ### §§1166 to 1175. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1166 to 1175 of this title were omitted as superseded by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816. See section 1251 et seq. of this title.

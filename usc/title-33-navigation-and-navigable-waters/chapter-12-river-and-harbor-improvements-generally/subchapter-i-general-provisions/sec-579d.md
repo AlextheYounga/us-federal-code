@@ -160,9 +160,13 @@ For purposes of this section, if an authorized water resources development proje
 
 (Pub. L. 114–322, title I, §1301, Dec. 16, 2016, 130 Stat. 1686.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is comprised of section 1301 of Pub. L. 114–322. Subsec. (g) of section 1301 of Pub. L. 114–322 amended section 579b of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### "Secretary" Defined ####
 

@@ -1,5 +1,7 @@
 ### §§48, 48a. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 48 to 48g of this title comprised the Employment Stabilization Act of 1931, act Feb. 10, 1931, ch. 117, §§1–8, 46 Stat. 1084–1086, which became obsolete upon the abolition of the National Resources Planning Board effective Aug. 31, 1943, by act June 26, 1943, ch. 145, title I, §1, 57 Stat. 170.

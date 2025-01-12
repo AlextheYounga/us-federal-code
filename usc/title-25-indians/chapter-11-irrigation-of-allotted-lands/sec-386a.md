@@ -4,6 +4,8 @@ The Secretary of the Interior is hereby authorized and directed to adjust or eli
 
 (July 1, 1932, ch. 369, 47 Stat. 564; Pub. L. 97–375, title II, §208(a), Dec. 21, 1982, 96 Stat. 1824; Pub. L. 104–42, title II, §207, Nov. 2, 1995, 109 Stat. 364.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1995**—Pub. L. 104–42 inserted before period at end ": *Provided further*, That the Secretary shall adjust or eliminate charges, defer collection of construction costs, and make no assessment on behalf of such charges for beneficiaries that hold leases on Hawaiian home lands, to the same extent as is permitted for individual Indians or tribes of Indians under this section".

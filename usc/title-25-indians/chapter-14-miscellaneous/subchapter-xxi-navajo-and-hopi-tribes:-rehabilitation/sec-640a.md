@@ -1,8 +1,12 @@
 ### §640a. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section, Pub. L. 92–189, §2, Dec. 15, 1971, 85 Stat. 646; Pub. L. 110–315, title IX, §946(a), Aug. 14, 2008, 122 Stat. 3468, which related to purpose of former sections 640a to 640c–3 of this title, was omitted from the Code as being of special and not general application.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 2008 Amendment ####
 

@@ -26,6 +26,8 @@ Not later than 1 year after June 10, 2014, the Secretary shall submit to Congres
 
 (Pub. L. 113–121, title IV, §4002(a), June 10, 2014, 128 Stat. 1308.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### "Secretary" Defined ####
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.

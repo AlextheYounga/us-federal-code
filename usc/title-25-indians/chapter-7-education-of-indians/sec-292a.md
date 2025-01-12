@@ -4,6 +4,8 @@ All reservation and nonreservation boarding schools with an average attendance i
 
 (Mar. 4, 1929, ch. 705, 45 Stat. 1576.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is from the Interior Department Appropriation Act, 1930. Similar provisions were contained in the following prior appropriation acts:

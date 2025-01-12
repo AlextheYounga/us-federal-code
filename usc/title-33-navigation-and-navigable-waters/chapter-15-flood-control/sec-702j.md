@@ -6,15 +6,21 @@ The sum of $5,000,000 is authorized to be used out of the appropriation authoriz
 
 (May 15, 1928, ch. 569, §10, 45 Stat. 538; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of January 21, 1927 [ch. 47, 44 Stat. 1010], referred to in text, popularly known as the River and Harbor Act of January 21, 1927, was not classified to the Code, except for subsections (b) and (d) of section 5 of the act, which enacted sections 569 and 584 of this title.
 
 Herein, referred to in text, means act May 15, 1928, ch. 569, 45 Stat. 534, as amended, which enacted sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, 702k, 702l, 702m, and 704 of this title. For complete classification of this Act to the Code, see Tables.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

@@ -4,6 +4,8 @@ The Indians or persons conducting schools or missions in the Territory of Alaska
 
 (June 6, 1900, ch. 786, §27, 31 Stat. 330.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, means act June 6, 1900, ch. 786, 31 Stat. 321, as amended. For complete classification of Title I of this act to the Code, see Tables. Title III of this act provided for the Alaska Civil Code.
@@ -15,6 +17,8 @@ Section was formerly classified to section 356 of Title 48, Territories and Insu
 #### Prior Provisions ####
 
 Similar provisions were contained in act May 17, 1884, ch. 53, §8, 23 Stat. 26, which provided in part that the Indians or other persons in the district should not be disturbed in the possession of any lands actually in their use or occupation or claimed by them, but reserved for future legislation the terms under which such persons might acquire title. That section contained a further provision, similar to the provision contained in this section, continuing lands occupied as missionary stations in the occupancy of the several religious societies.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

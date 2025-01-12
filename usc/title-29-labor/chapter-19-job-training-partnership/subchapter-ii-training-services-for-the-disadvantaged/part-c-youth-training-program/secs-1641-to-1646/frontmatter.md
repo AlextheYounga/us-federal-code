@@ -12,6 +12,8 @@ Section 1645, Pub. L. 97–300, title II, §265, as added Pub. L. 102–367, tit
 
 Section 1646, Pub. L. 97–300, title II, §266, as added Pub. L. 102–367, title II, §208, Sept. 7, 1992, 106 Stat. 1073, related to transfer of funds.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 2000, see section 199(c)(2)(B) of Pub. L. 105–220, set out as a note under section 1501 of this title.

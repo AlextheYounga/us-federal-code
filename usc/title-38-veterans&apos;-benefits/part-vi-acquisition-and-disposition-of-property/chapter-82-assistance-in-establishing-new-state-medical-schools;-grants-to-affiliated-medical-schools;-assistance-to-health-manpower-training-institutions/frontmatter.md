@@ -34,6 +34,8 @@ Sec.
 
 8241. Expenditures to remodel and make special allocations to Department hospitals for health manpower education and training.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1991**—Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted "DEPARTMENT" for "VETERANS' ADMINISTRATION" in headings for subchapters III and IV and "Department" for "Veterans' Administration" in item 8241.

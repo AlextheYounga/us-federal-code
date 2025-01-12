@@ -104,6 +104,8 @@ In this section, the term "Federal minimum wage" means the rate applicable under
 
 (Pub. L. 93–112, title V, §511, as added Pub. L. 113–128, title IV, §458(a), July 22, 2014, 128 Stat. 1676; amended Pub. L. 114–95, title IX, §9215(mmm)(4)(A), Dec. 10, 2015, 129 Stat. 2188.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The effective date of this section, referred to in subsec. (a)(1), means 2 years after July 22, 2014. See Effective Date note below.
@@ -117,6 +119,8 @@ The effective date of this Act, referred to in subsec. (b)(3), may mean the effe
 #### Amendments ####
 
 **2015**—Subsec. (b)(2). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2015 Amendment ####
 

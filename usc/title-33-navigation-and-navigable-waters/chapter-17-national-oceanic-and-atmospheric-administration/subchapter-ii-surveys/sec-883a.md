@@ -14,15 +14,45 @@ To provide charts and related information for the safe navigation of marine and 
 
 (Aug. 6, 1947, ch. 504, §1, 61 Stat. 787; Pub. L. 86–409, Apr. 5, 1960, 74 Stat. 16; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1960**—Pub. L. 86–409 struck out provisions which restricted the Coast and Geodetic Survey in the conduct of its specified activities to the United States, its Territories and possessions, and which restricted hydrographic and topographic surveys to surveys of coastal water and land areas (including offlying islands, banks, shoals, and other offshore areas), and to surveys of lakes, rivers, reservoirs, and other inland waters not otherwise provided for by statute.
 
-#### Transfer of Functions ####
+#### **Statutory Notes and Related Subsidiaries** ####
 
-Functions of Secretary and other officers of Department of Commerce under sections 883a to 883h of this title that relate to the Office of Aeronautical Charting and Cartography to provide aeronautical charts, products, and services for safe and efficient navigation of air commerce transferred to Administrator of Federal Aviation Administration effective Oct. 1, 2000, see section 44721(c)(1) of Title 49, Transportation.
+#### Great Lakes Environmental Sensitivity Index ####
 
-Office of Director of Coast and Geodetic Survey abolished and Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and Director. For further details, see note set out under section 851 of this title.
+Pub. L. 116–274, Dec. 31, 2020, 134 Stat. 3356, provided that:
+
+#### "SECTION 1. SHORT TITLE. ####
+
+"This Act may be cited as the 'Great Lakes Environmental Sensitivity Index Act of 2020'.
+
+#### "SEC. 2. UPDATE TO ENVIRONMENTAL SENSITIVITY INDEX PRODUCTS OF NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION FOR GREAT LAKES. ####
+
+"(a) Update Required for Environmental Sensitivity Index Products for Great Lakes.—Not later than 180 days after the date of the enactment of this Act [Dec. 31, 2020], the Under Secretary for Oceans and Atmosphere shall commence updating the environmental sensitivity index products of the National Oceanic and Atmospheric Administration for each coastal area of the Great Lakes.
+
+"(b) Periodic Updates for Environmental Sensitivity Index Products Generally.—Subject to the availability of appropriations and the priorities set forth in subsection (c), the Under Secretary shall—
+
+"(1) periodically update the environmental sensitivity index products of the Administration; and
+
+"(2) endeavor to do so not less frequently than once every 7 years.
+
+"(c) Priorities.—When prioritizing geographic areas to update environmental sensitivity index products, the Under Secretary shall consider—
+
+"(1) the age of existing environmental sensitivity index products for the areas;
+
+"(2) the occurrence of extreme events, be it natural or man-made, which have significantly altered the shoreline or ecosystem since the last update;
+
+"(3) the natural variability of shoreline and coastal environment; and
+
+"(4) the volume of vessel traffic and general vulnerability to spilled pollutants.
+
+"(d) Environmental Sensitivity Index Product Defined.—In this section, the term 'environmental sensitivity index product' means a map or similar tool that is utilized to identify sensitive shoreline, coastal or offshore, resources prior to an oil spill event in order to set baseline priorities for protection and plan cleanup strategies, typically including information relating to shoreline type, biological resources, and human use resources.
+
+"(e) Funding.—Funds to carry out the activities under this section shall be derived from amounts authorized to be appropriated for the Under Secretary that are enacted after the date of the enactment of this Act."
 
 #### Great Lakes Mapping ####
 
@@ -117,3 +147,13 @@ Pub. L. 100–220, title III, subtitle B, Dec. 29, 1987, 101 Stat. 1475, as amen
 [For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.]
 
 [For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.]
+
+#### Transfer of Functions ####
+
+Functions of Secretary and other officers of Department of Commerce under sections 883a to 883h of this title that relate to the Office of Aeronautical Charting and Cartography to provide aeronautical charts, products, and services for safe and efficient navigation of air commerce transferred to Administrator of Federal Aviation Administration effective Oct. 1, 2000, see section 44721(c)(1) of Title 49, Transportation.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+Office of Director of Coast and Geodetic Survey abolished and Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and Director. For further details, see note set out under section 851 of this title.

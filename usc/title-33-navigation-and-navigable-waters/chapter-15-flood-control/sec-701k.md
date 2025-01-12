@@ -4,9 +4,13 @@ Any amounts collected from any person, persons, or corporations as a reimburseme
 
 (June 20, 1938, ch. 535, §4, 52 Stat. 805; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is also set out as section 571 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

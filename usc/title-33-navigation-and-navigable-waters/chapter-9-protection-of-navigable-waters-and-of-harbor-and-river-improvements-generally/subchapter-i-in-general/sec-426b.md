@@ -4,9 +4,13 @@ All provisions of existing law relating to examinations and surveys and to works
 
 (July 31, 1945, ch. 334, §2, 59 Stat. 508; Pub. L. 88–172, §1, Nov. 7, 1963, 77 Stat. 304.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Provision for the referral of projects having to do with shore protection for consideration and recommendation to the Beach Erosion Board have been omitted as obsolete in view of the abolition of the Beach Erosion Board and the transfer of its review function to the Board of Engineers for Rivers and Harbors by Pub. L. 88–172, §1. See section 426–3 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of Board of Engineers for Rivers and Harbors and Reassignment of Duties and Responsibilities ####
 

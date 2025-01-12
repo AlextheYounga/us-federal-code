@@ -4,6 +4,8 @@ The Secretary of the Interior is hereby authorized, under such rules and regulat
 
 (Mar. 3, 1927, ch. 299, §5, 44 Stat. 1347.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of February 25, 1920, referred to in text, probably means act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.

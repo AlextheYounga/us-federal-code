@@ -1,5 +1,7 @@
 ### Part E—Sexual Abuse Prevention Program ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 106–71, §3(n)(1)(C), Oct. 12, 1999, 113 Stat. 1040, added part heading.

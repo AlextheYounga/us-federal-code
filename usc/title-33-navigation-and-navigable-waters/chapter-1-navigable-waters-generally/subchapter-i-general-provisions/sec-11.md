@@ -4,6 +4,8 @@ The consent of the Congress is given to the States of North Dakota, South Dakota
 
 (Mar. 4, 1921, ch. 176, 41 Stat. 1447.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 This section is from a resolution entitled a "Joint Resolution giving consent of the Congress of the United States to the States of North Dakota, South Dakota, Minnesota, Wisconsin, Iowa, and Nebraska, or any two or more of said States, to agree upon the jurisdiction to be exercised by said States over boundary waters between any two or more of said States".

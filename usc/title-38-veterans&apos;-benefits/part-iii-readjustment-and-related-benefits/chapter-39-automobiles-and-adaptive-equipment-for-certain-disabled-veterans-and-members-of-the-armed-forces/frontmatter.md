@@ -10,6 +10,8 @@ Sec.
 
 3904. Research and development.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 This chapter as added by Pub. L. 91–666, §2(a), Jan. 11, 1971, 84 Stat. 1998, constitutes a general revision of the provisions of a prior chapter 39, as enacted by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1215, and amended thereafter. The analysis in the original consisted of the following provisions:

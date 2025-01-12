@@ -4,6 +4,8 @@ The project for flood control of the Lower Mississippi River adopted by sections
 
 (Aug. 18, 1941, ch. 377, §3, 55 Stat. 642.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 702a–1¾ of this title.

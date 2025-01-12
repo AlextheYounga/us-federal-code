@@ -4,6 +4,8 @@ On and after April 13, 1926, the funds of any tribe of Indians under the control
 
 (Apr. 13, 1926, ch. 118, 44 Stat. 242; Aug. 2, 1946, ch. 754, 60 Stat. 852.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1946**—Act Aug. 2, 1946, provided for use of funds to pay premiums on personal and property damage insurance.

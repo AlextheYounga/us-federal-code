@@ -4,9 +4,13 @@ The Secretary shall include in the report to Congress required pursuant to secti
 
 (June 22, 1936, ch. 692, §6, 49 Stat. 1804; Pub. L. 96–470, title II, §206(b), Oct. 19, 1980, 94 Stat. 2244.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1980**—Pub. L. 96–470 substituted provision requiring the Secretary to include in the report to Congress required pursuant to section 389a of this title a description of the actions taken under sections 389 to 389e of this title during the preceding fiscal year for provision requiring the Secretary to make reports to Congress on the first Monday of each regular session, and from time to time thereafter, showing actions taken under sections 389 to 389e of this title during the preceding fiscal year.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Approval of Secretary's Action ####
 

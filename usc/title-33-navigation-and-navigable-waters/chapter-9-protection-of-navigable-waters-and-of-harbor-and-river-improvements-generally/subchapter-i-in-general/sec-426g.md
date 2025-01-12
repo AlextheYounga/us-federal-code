@@ -156,6 +156,8 @@ The total amount expended for a project under this section shall—
 
 (Aug. 13, 1946, ch. 960, §3, 60 Stat. 1056; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; July 28, 1956, ch. 768, 70 Stat. 703; Pub. L. 87–874, title I, §103(a)(4), Oct. 23, 1962, 76 Stat. 1178; Pub. L. 89–298, title III, §310(b), Oct. 27, 1965, 79 Stat. 1095; Pub. L. 91–611, title I, §112(b), Dec. 31, 1970, 84 Stat. 1821; Pub. L. 99–662, title IX, §915(e), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 104–303, title II, §227(e)(2)(C), Oct. 12, 1996, 110 Stat. 3703; Pub. L. 106–53, title II, §226, Aug. 17, 1999, 113 Stat. 298; Pub. L. 110–114, title II, §2038(a), Nov. 8, 2007, 121 Stat. 1097; Pub. L. 114–322, title I, §1167, Dec. 16, 2016, 130 Stat. 1670; Pub. L. 115–270, title I, §1157(a), Oct. 23, 2018, 132 Stat. 3793.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Shoreline Erosion Control Demonstration Act of 1974, referred to in subsec. (b)(2)(C)(viii), is Pub. L. 93–251, title I, §54, Mar. 7, 1974, 88 Stat. 26, formerly set out as a note under section 1962d–5 of Title 42, The Public Health and Welfare.
@@ -181,6 +183,8 @@ The Shoreline Erosion Control Demonstration Act of 1974, referred to in subsec. 
 **1962**—Pub. L. 87–874 substituted provisions which authorize the Secretary of the Army to undertake small shore and beach projects not specifically authorized by Congress, which otherwise comply with section 426e of this title, and to allot from any civil works appropriations hereafter made, an amount not to exceed $3,000,000 for the Federal share of such projects in any one fiscal year, provide that no such single project shall be allotted more than $400,000, including periodic nourishment, that provisions of local cooperation shall apply, and that the work shall be complete and not commit the United States to any additional improvement except for periodic beach nourishment, and as may result from procedure applying to projects authorized after submission of survey reports, for provisions which permitted the Chief of Engineers to make advance payments, not exceeding the United States pro rata part of the value of the labor and materials actually put in, and to undertake construction of restoration and protective works under sections 426e to 426h of this title upon the request of, and contribution of funds by, the interested political subdivision.
 
 **1956**—Act July 28, 1956, substituted "restoration and protective works under sections 426e to 426h of this title" for "improvement and protective works".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

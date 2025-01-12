@@ -4,9 +4,13 @@ There shall be in the Women's Bureau an assistant director, to be appointed by t
 
 (June 5, 1920, ch. 248, §3, 41 Stat. 987.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Words "who shall receive an annual compensation of $5,000 and" were omitted in view of the Classification Acts. See sections 5101 et seq. and 5331 et seq. of Title 5, Government Organization and Employees.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

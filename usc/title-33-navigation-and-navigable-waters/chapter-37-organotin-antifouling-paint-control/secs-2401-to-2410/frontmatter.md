@@ -20,6 +20,8 @@ Section 2409, Pub. L. 100–333, §10, June 16, 1988, 102 Stat. 608, provided fo
 
 Section 2410, Pub. L. 100–333, §11, June 16, 1988, 102 Stat. 608, related to other authorities and State laws.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date; Use of Existing Stocks ####
 
 Pub. L. 100–333, §12, June 16, 1988, 102 Stat. 609, which provided that this chapter would take effect on June 16, 1988, and provided for a limited amount of time after that date to sell and use existing stocks of organotin paints and additives, was repealed by Pub. L. 111–281, title X, §1048, Oct. 15, 2010, 124 Stat. 3032.

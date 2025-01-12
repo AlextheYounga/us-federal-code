@@ -4,6 +4,8 @@ There shall be credited to each trust-fund account established under section 385
 
 (Aug. 7, 1946, ch. 802, §2, 60 Stat. 895.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 4 of the Permanent Appropriation Repeal Act, 1934, referred to in text, is section 4 of act June 26, 1934, ch. 756, 48 Stat. 1227, which was classified to section 725c of former Title 31, and was omitted from the Code in the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877.

@@ -26,6 +26,8 @@ Section 350, R.S. §4233; Feb. 19, 1895, ch. 102, §1, 28 Stat. 672; Mar. 3, 189
 
 Section 351, R.S. §4233; Feb. 19, 1895, ch. 102, §1, 28 Stat. 672; Mar. 3, 1897, ch. 389, §13, 29 Stat. 690; May 21, 1948, ch. 328, §4, 62 Stat. 256, related to usual additional precautions required.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Dec. 24, 1981, see section 7 of Pub. L. 96–591, set out as an Effective Date of 1980 Amendment note under section 1604 of this title.

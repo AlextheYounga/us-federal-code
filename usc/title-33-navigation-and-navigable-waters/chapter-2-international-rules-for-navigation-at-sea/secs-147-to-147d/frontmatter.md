@@ -10,6 +10,8 @@ Section 147c, act Oct. 11, 1951, ch. 495, §6, Pt. D, 65 Stat. 420, related to d
 
 Section 147d, act Oct. 11, 1951, ch. 495, §6, Pt. D, 65 Stat. 420, related to orders to helmsmen, and has been omitted.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Sept. 1, 1963, see Proc. No. 3632, Dec. 29, 1964, 29 F.R. 19167, and section 3 of Pub. L. 88–131, both set out as notes under section 1051 of this title.

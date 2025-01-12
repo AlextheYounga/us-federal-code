@@ -124,6 +124,8 @@ On enactment of the Rehabilitation Act of 1973, such former provisions were cove
 |      41b(f)       |          772(a), 774           |
 |        41c        |           721(a)(4)            |
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective 90 days after Sept. 26, 1973, see section 500(a) of Pub. L. 93–112, which is classified to section 790(a) of this title.
