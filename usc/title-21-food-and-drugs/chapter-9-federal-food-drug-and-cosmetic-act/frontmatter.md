@@ -314,6 +314,24 @@ Sec.
 
 360eee–4. Uniform national policy.
 
+#### Part I—Nonprescription Sunscreen and Other Active Ingredients ####
+
+360fff. Definitions.
+
+360fff–1. Submission of requests.
+
+360fff–2. Eligibility determinations; data submission; filing.
+
+360fff–3. GRASE determination.
+
+360fff–4. Guidance; other provisions.
+
+360fff–5. Sunscreen monograph.
+
+360fff–6. Non-sunscreen time and extent applications.
+
+360fff–7. Report.
+
 #### SUBCHAPTER VI—COSMETICS ####
 
 361. Adulterated cosmetics.

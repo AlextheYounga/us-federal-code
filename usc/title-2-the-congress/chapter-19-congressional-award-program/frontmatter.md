@@ -16,7 +16,7 @@ Sec.
 
 806. Powers, functions, and limitations.
 
-807. Audits and evaluation.
+807. Audits.
 
 808. Termination.
 

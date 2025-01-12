@@ -28,7 +28,7 @@ Sec.
 
 2113. Depository for agreements between States.
 
-2114. Preservation of motion-picture films, still pictures, and sound recordings.
+2114. Preservation of audio and visual records.
 
 2115. Reports; correction of violations.
 
@@ -43,6 +43,8 @@ Sec.
 2120. Online access of founding fathers documents.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–187, §3(c)(2), Nov. 26, 2014, 128 Stat. 2008, substituted "Preservation of audio and visual records" for "Preservation of motion-picture films, still pictures, and sound recordings" in item 2114.
 
 **2008**—Pub. L. 110–404, §4(c), Oct. 13, 2008, 122 Stat. 4283, added item 2120.
 

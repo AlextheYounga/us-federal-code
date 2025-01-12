@@ -1,4 +1,4 @@
-### **CHAPTER 29—RECORDS MANAGEMENT BY THE ARCHIVIST OF THE UNITED STATES AND BY THE ADMINISTRATOR OF GENERAL SERVICES** ###
+### **CHAPTER 29—RECORDS MANAGEMENT BY THE ARCHIVIST OF THE UNITED STATES** ###
 
 Sec.
 
@@ -14,7 +14,7 @@ Sec.
 
 2906. Inspection of agency records.
 
-2907. Records centers and centralized microfilming services.
+2907. Records centers and centralized microfilming or digitization services.
 
 2908. Regulations.
 
@@ -22,7 +22,11 @@ Sec.
 
 2910. Preservation of Freedmen's Bureau records.
 
+2911. Disclosure requirement for official business conducted using non-official electronic messaging accounts.
+
 #### Amendments ####
+
+**2014**—Pub. L. 113–187, §§9(b)(2), (f)(1), 10(b), Nov. 26, 2014, 128 Stat. 2013–2015, struck out "AND BY THE ADMINISTRATOR OF GENERAL SERVICES" after "UNITED STATES" in chapter heading, inserted "or digitization" after "microfilming" in item 2907, and added item 2911.
 
 **2000**—Pub. L. 106–444, §2(b), Nov. 6, 2000, 114 Stat. 1929, added item 2910.
 

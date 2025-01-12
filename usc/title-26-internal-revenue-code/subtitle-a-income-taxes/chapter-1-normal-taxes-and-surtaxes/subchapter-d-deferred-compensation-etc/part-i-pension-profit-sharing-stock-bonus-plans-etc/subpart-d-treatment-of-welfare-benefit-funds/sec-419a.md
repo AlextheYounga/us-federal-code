@@ -190,12 +190,12 @@ The account limit for any of the first 4 taxable years to which this section app
 
 For purposes of subparagraph (A)—
 
-|                   In the case of:                   |**The<br/><br/>applicable percentage is:**|
-|-----------------------------------------------------|------------------------------------------|
-|The first taxable year to which this section applies |                    80                    |
-|The second taxable year to which this section applies|                    60                    |
-|The third taxable year to which this section applies |                    40                    |
-|The fourth taxable year to which this section applies|                   20.                    |
+|                   In the case of:                   |**The applicable percentage is:**|
+|-----------------------------------------------------|---------------------------------|
+|The first taxable year to which this section applies |               80                |
+|The second taxable year to which this section applies|               60                |
+|The third taxable year to which this section applies |               40                |
+|The fourth taxable year to which this section applies|               20.               |
 
 #### (C) Existing excess reserve ####
 

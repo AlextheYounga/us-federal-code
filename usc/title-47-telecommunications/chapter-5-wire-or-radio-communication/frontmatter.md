@@ -501,3 +501,5 @@ Sec.
 620. Relay services for deaf-blind individuals.
 
 621. Rulemaking on loud commercials required.
+
+622. Optional electronic labeling of communications equipment.

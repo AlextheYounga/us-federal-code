@@ -14,7 +14,7 @@ The Secretary of State shall provide foreign policy guidance to the Secretary to
 
 #### (1) In general ####
 
-In carrying out the program established under subsection (a) of this section, the Secretary shall provide economic and financial technical assistance to foreign governments and foreign central banks of developing and transitional countries by providing advisers with appropriate expertise to advance the enactment of laws and establishment of administrative procedures and institutions in such countries to promote macroeconomic and fiscal stability, efficient resource allocation, transparent and market-oriented processes and sustainable private sector growth.
+In carrying out the program established under subsection (a), the Secretary shall provide economic and financial technical assistance to foreign governments and foreign central banks of developing and transitional countries by providing advisers with appropriate expertise to advance the enactment of laws and establishment of administrative procedures and institutions in such countries to promote macroeconomic and fiscal stability, efficient resource allocation, transparent and market-oriented processes and sustainable private sector growth.
 
 #### (2) Additional requirements ####
 
@@ -36,7 +36,7 @@ Such technical assistance shall include elements designed to combat anti-competi
 
 #### (c) Administrative requirements ####
 
-In carrying out the program established under subsection (a) of this section, the Secretary—
+In carrying out the program established under subsection (a), the Secretary—
 
 (1) shall establish a methodology for identifying and selecting foreign governments and foreign central banks to receive assistance under the program;
 
@@ -50,7 +50,7 @@ In carrying out the program established under subsection (a) of this section, th
 
 #### (d) Administrative authorities ####
 
-In carrying out the program established under subsection (a) of this section, the Secretary shall have the following administrative authorities:
+In carrying out the program established under subsection (a), the Secretary shall have the following administrative authorities:
 
 (1) The Secretary may provide allowances and benefits under chapter 9 of title I of the Foreign Service Act of 1980 (22 U.S.C. 4081 et seq.) to any officer or employee of any agency of the United States Government performing functions under this section outside the United States.
 
@@ -96,7 +96,7 @@ Nothing in this section shall be construed to infringe upon the powers or functi
 
 #### (g) Termination of assistance ####
 
-The Secretary shall conclude assistance activities for a recipient foreign government or foreign central bank under the program established under subsection (a) of this section if the Secretary, after consultation with the appropriate officers of the United States, determines that such assistance has resulted in the enactment of laws or the establishment of institutions in that country that promote fiscal stability and administrative procedures, efficient resource allocation, transparent and market-oriented processes and private sector growth in a sustainable manner.
+The Secretary shall conclude assistance activities for a recipient foreign government or foreign central bank under the program established under subsection (a) if the Secretary, after consultation with the appropriate officers of the United States, determines that such assistance has resulted in the enactment of laws or the establishment of institutions in that country that promote fiscal stability and administrative procedures, efficient resource allocation, transparent and market-oriented processes and private sector growth in a sustainable manner.
 
 #### (h) Report ####
 
@@ -132,9 +132,9 @@ The term "Secretary" means the Secretary of the Treasury.
 
 The term "technical assistance" includes—
 
-(A) the use of short-term and long-term expert advisers to assist foreign governments and foreign central banks for the purposes described in subsection (b)(1) of this section;
+(A) the use of short-term and long-term expert advisers to assist foreign governments and foreign central banks for the purposes described in subsection (b)(1);
 
-(B) training in the recipient country, the United States, or elsewhere for the purposes described in subsection (b)(1) of this section;
+(B) training in the recipient country, the United States, or elsewhere for the purposes described in subsection (b)(1);
 
 (C) grants of goods, services, or funds to foreign governments and foreign central banks;
 
@@ -144,7 +144,7 @@ The term "technical assistance" includes—
 
 #### (5) Foreign participant ####
 
-The term "foreign participant" means the national of a developing or transitional country that is receiving assistance under the program established under subsection (a) of this section who has been designated to participate in activities under such program.
+The term "foreign participant" means the national of a developing or transitional country that is receiving assistance under the program established under subsection (a) who has been designated to participate in activities under such program.
 
 #### (j) Authorization of appropriations ####
 

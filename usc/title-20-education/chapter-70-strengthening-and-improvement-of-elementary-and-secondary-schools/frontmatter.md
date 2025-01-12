@@ -276,7 +276,7 @@ Sec.
 
 6573. State administration.
 
-6574. Local educational agency spending audits.
+6574. Repealed.
 
 6575. Prohibition against Federal mandates, direction, or control.
 

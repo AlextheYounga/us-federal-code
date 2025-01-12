@@ -4,7 +4,7 @@ Sec.
 
 1401. Definitions.
 
-1402. Port of Entry Infrastructure Assessment Study.
+1402, 1403. Repealed.
 
 1403. National Land Border Security Plan.
 

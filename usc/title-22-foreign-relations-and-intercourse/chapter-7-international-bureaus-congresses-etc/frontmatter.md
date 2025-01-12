@@ -1178,7 +1178,7 @@ Sec.
 
 290m–5. Grants out of paid-in capital resources.
 
-290m–6. Annual report.
+290m–6. Repealed.
 
 #### SUBCHAPTER XXIX—UNITED STATES-MEXICO BORDER HEALTH COMMISSION ####
 

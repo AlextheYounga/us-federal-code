@@ -74,23 +74,19 @@ Not later than 9 months after August 9, 2007, the Director shall promulgate regu
 
 (3) providing for appropriate dissemination of Technology Innovation Program research results.
 
-#### (g) Annual report ####
-
-The Director shall submit annually to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives a report describing the Technology Innovation Program's activities, including a description of the metrics upon which award funding decisions were made in the previous fiscal year, any proposed changes to those metrics, metrics for evaluating the success of ongoing and completed awards, and an evaluation of ongoing and completed awards. The first annual report shall include best practices for management of programs to stimulate high-risk, high-reward research.
-
-#### (h) Continuation of ATP grants ####
+#### (g) Continuation of ATP grants ####
 
 The Director shall, through the Technology Innovation Program, continue to provide support originally awarded under the Advanced Technology Program, in accordance with the terms of the original award and consistent with the goals of the Technology Innovation Program.
 
-#### (i) Coordination with other State and Federal technology programs ####
+#### (h) Coordination with other State and Federal technology programs ####
 
 In carrying out this section, the Director shall, as appropriate, coordinate with other senior State and Federal officials to ensure cooperation and coordination in State and Federal technology programs and to avoid unnecessary duplication of efforts.
 
-#### (j) Acceptance of funds from other Federal agencies ####
+#### (i) Acceptance of funds from other Federal agencies ####
 
 In addition to amounts appropriated to carry out this section, the Secretary and the Director may accept funds from other Federal agencies to support awards under the Technology Innovation Program. Any award under this section which is supported with funds from other Federal agencies shall be selected and carried out according to the provisions of this section. Funds accepted from other Federal agencies shall be included as part of the Federal cost share of any project funded under this section.
 
-#### (k) TIP Advisory Board ####
+#### (j) TIP Advisory Board ####
 
 #### (1) Establishment ####
 
@@ -134,11 +130,7 @@ The TIP Advisory Board shall meet not less than 2 times annually, and provide th
 
 In discharging its duties under this subsection, the TIP Advisory Board shall function solely in an advisory capacity, in accordance with the Federal Advisory Committee Act.
 
-#### (5) Annual report ####
-
-The TIP Advisory Board shall transmit an annual report to the Secretary for transmittal to the Congress not later than 30 days after the submission to Congress of the President's annual budget request in each year. Such report shall address the status of the Technology Innovation Program and comment on the relevant sections of the programmatic planning document and updates thereto transmitted to Congress by the Director under subsections (c) and (d) of section 278i of this title.
-
-#### (l) Definitions ####
+#### (k) Definitions ####
 
 In this section—
 
@@ -184,21 +176,29 @@ In this section—
 
 (B) may include additional for-profit companies, institutions of higher education, and other organizations, such as national laboratories and nonprofit research institutes, that may or may not contribute non-Federal funds to the project; and
 
-(5) the term "TIP Advisory Board" means the advisory board established under subsection (k).
+(5) the term "TIP Advisory Board" means the advisory board established under subsection (j).
 
-(Mar. 3, 1901, ch. 872, §28, as added Pub. L. 110–69, title III, §3012(b), Aug. 9, 2007, 121 Stat. 593.)
+(Mar. 3, 1901, ch. 872, §28, as added Pub. L. 110–69, title III, §3012(b), Aug. 9, 2007, 121 Stat. 593; amended Pub. L. 113–188, title II, §201(d), (e), Nov. 26, 2014, 128 Stat. 2018.)
 
 #### References in Text ####
 
-The Federal Advisory Committee Act, referred to in subsec. (k)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (j)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions ####
 
 A prior section 278n, act Mar. 3, 1901, ch. 872, §28, as added Pub. L. 100–418, title V, §5131(a), Aug. 23, 1988, 102 Stat. 1439; amended Pub. L. 102–245, title II, §201(c), Feb. 14, 1992, 106 Stat. 16, related to the Advanced Technology Program, prior to repeal by Pub. L. 110–69, title III, §3012(a), Aug. 9, 2007, 121 Stat. 593.
 
-#### Change of Name ####
+#### Amendments ####
 
-Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+**2014**—Subsecs. (g) to (j). Pub. L. 113–188, §201(d)(1), (2), redesignated subsecs. (h) to (k) as (g) to (j), respectively, and struck out former subsec. (g) which required annual reports describing the Technology Innovation Program's activities.
+
+Subsec. (j)(5). Pub. L. 113–188, §201(e), struck out par. (5) which related to annual Technology Innovation Program status reports transmitted by the TIP Advisory Board.
+
+Subsec. (k). Pub. L. 113–188, §201(d)(2), redesignated subsec. (l) as (k). Former subsec. (k) redesignated (j).
+
+Subsec. (k)(5). Pub. L. 113–188, §201(d)(3), substituted "under subsection (j)" for "under subsection (k)".
+
+Subsec. (l). Pub. L. 113–188, §201(d)(2), redesignated subsec. (l) as (k).
 
 #### Technology Innovation Program ####
 

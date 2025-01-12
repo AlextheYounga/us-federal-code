@@ -26,27 +26,11 @@ Sec.
 
 3314. Procedures for disposal of records exclusive.
 
-3315. Definitions.
-
-3316. Establishment of Commission.
-
-3317. Duties of Commission.
-
-3318. Membership.
-
-3319. Director and staff; experts and consultants.
-
-3320. Powers of Commission.
-
-3321. Support services.
-
-3322. Report.
-
-3323. Termination.
-
-3324. Authorization of appropriations.
+[3315 to 3324. Repealed.]
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–187, §7(b), Nov. 26, 2014, 128 Stat. 2011, struck out items 3315 "Definitions", 3316 "Establishment of Commission", 3317 "Duties of Commission", 3318 "Membership", 3319 "Director and staff; experts and consultants", 3320 "Powers of Commission", 3321 "Support services", 3322 "Report", 3323 "Termination", and 3324 "Authorization of appropriations".
 
 **2004**—Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, substituted "Government Accountability Office" for "General Accounting Office" in item 3309.
 

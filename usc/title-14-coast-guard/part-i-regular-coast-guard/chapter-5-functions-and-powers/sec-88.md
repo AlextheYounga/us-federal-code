@@ -56,29 +56,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Modernization of National Distress and Response System ####
 
-Pub. L. 107–295, title III, §346, Nov. 25, 2002, 116 Stat. 2107, provided that:
-
-"(a) Report.—The Secretary of the department in which the Coast Guard is operating shall prepare a status report on the modernization of the National Distress and Response System and transmit the report, not later than 60 days after the date of enactment of this Act [Nov. 25, 2002] and annually thereafter until completion of the project, to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
-
-"(b) Contents.—The report required by subsection (a) shall—
-
-"(1) set forth the scope of the modernization, the schedule for completion of the System, and information on progress in meeting the schedule and on any anticipated delays;
-
-"(2) specify the funding expended to-date on the System, the funding required to complete the System, and the purposes for which the funds were or will be expended;
-
-"(3) describe and map the existing public and private communications coverage throughout the waters of the coastal and internal regions of the continental United States, Alaska, Hawaii, Guam, and the Caribbean, and identify locations that possess direction-finding, asset-tracking communications, and digital selective calling service;
-
-"(4) identify areas of high risk to boaters and Coast Guard personnel due to communications gaps;
-
-"(5) specify steps taken by the Secretary to fill existing gaps in coverage, including obtaining direction-finding equipment, digital recording systems, asset-tracking communications, use of commercial VHF services, and digital selective calling services that meet or exceed Global Maritime Distress and Safety System requirements adopted under the International Convention for the Safety of Life at Sea [see 33 U.S.C. 1602 and notes thereunder];
-
-"(6) identify the number of VHF–FM radios equipped with digital selective calling sold to United States boaters;
-
-"(7) list all reported marine accidents, casualties, and fatalities occurring in areas with existing communications gaps or failures, including incidents associated with gaps in VHF–FM coverage or digital selected calling capabilities and failures associated with inadequate communications equipment aboard the involved vessels during calendar years 1997 and thereafter;
-
-"(8) identify existing systems available to close all identified marine safety gaps before January 1, 2003, including expeditious receipt and response by appropriate Coast Guard operations centers to VHF–FM digital selective calling distress signal; and
-
-"(9) identify actions taken to-date to implement the recommendations of the National Transportation Safety Board in its Report No. MAR–99–01."
+Pub. L. 107–295, title III, §346, Nov. 25, 2002, 116 Stat. 2107, which required annual reports on the modernization of the National Distress and Response System, was repealed by Pub. L. 113–188, title X, §1001(d)(1), Nov. 26, 2014, 128 Stat. 2022.
 
 #### Helicopter Rescue Swimming Program ####
 

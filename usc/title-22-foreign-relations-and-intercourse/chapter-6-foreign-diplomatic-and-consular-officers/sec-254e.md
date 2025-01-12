@@ -2,7 +2,7 @@
 
 #### (a) Compliance with regulations ####
 
-Each mission, members of the mission and their families, and individuals described in section 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946, shall comply with any requirement imposed by the regulations promulgated by the Director of the Office of Foreign Missions in the Department of State pursuant to subsection (b) of this section.
+Each mission, members of the mission and their families, and individuals described in section 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946, shall comply with any requirement imposed by the regulations promulgated by the Director of the Office of Foreign Missions in the Department of State pursuant to subsection (b).
 
 #### (b) Establishment by regulation of liability insurance requirements ####
 
@@ -10,7 +10,7 @@ The Director of the Office of Foreign Missions shall, by regulation, establish l
 
 #### (c) Enforcement of liability insurance requirements ####
 
-The Director of the Office of Foreign Missions shall take such steps as he may deem necessary to insure that each mission, members of the mission and their families, and individuals described in section 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946, who operate motor vehicles, vessels, or aircraft in the United States comply with the requirements established pursuant to subsection (b) of this section.
+The Director of the Office of Foreign Missions shall take such steps as he may deem necessary to insure that each mission, members of the mission and their families, and individuals described in section 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946, who operate motor vehicles, vessels, or aircraft in the United States comply with the requirements established pursuant to subsection (b).
 
 (Pub. L. 95–393, §6, Sept. 30, 1978, 92 Stat. 809; Pub. L. 98–164, title VI, §602, Nov. 22, 1983, 97 Stat. 1042.)
 

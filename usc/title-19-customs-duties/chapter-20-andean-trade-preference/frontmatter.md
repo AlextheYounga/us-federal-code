@@ -10,6 +10,6 @@ Sec.
 
 3204. International Trade Commission reports on impact of this chapter.
 
-3205. Impact study by Secretary of Labor.
+3205. Repealed.
 
 3206. Termination of preferential treatment.
