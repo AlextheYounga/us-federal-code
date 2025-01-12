@@ -108,7 +108,7 @@ Pub. L. 117–263, div. A, title I, §153, Dec. 23, 2022, 136 Stat. 2457, provid
 
 "(2) conduct research on providers of commercial software capabilities that have the potential to expedite the progress of digital engineering initiatives across the weapon system enterprise, with a particular focus on capabilities that have the potential to generate significant life-cycle cost savings, streamline and accelerate weapon system acquisition, and provide data-driven approaches to inform investments by the Department of the Air Force.
 
-"(d) Report.—Not later than March 1, 2023, the Secretary of the Air Force shall submit to the congressional defense committees [Committee on Armed Services and Committee on Appropriations of the Senate and House of Representatives] a report that includes—
+"(d) Report.—Not later than March 1, 2023, the Secretary of the Air Force shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report that includes—
 
 "(1) an analysis of specific digital engineering and software tool capability manufacturers that deliver high mission impact with broad reach into the weapon system enterprise of the Department of the Air Force; and
 
@@ -140,7 +140,7 @@ Pub. L. 117–263, div. A, title II, §217, Dec. 23, 2022, 136 Stat. 2474, provi
 
 "(c) Outcome-based Actions Required.—If the Director of Operational Test and Evaluation and the Director of the Air Force Rapid Capabilities Office affirm that the demonstrations and tests under subsection (a) confirm that certain commercial electronics technology could enable one or more of the capabilities described in such subsection—
 
-"(1) not later than 45 days after the conclusion of the tests under subsection (a), the Director of the Air Force Rapid Capabilities Office and the Director of Operational Test and Evaluation shall jointly provide to the congressional defense committees [Committee on Armed Services and Committee on Appropriations of the Senate and House of Representatives] a briefing on the outcomes of the tests;
+"(1) not later than 45 days after the conclusion of the tests under subsection (a), the Director of the Air Force Rapid Capabilities Office and the Director of Operational Test and Evaluation shall jointly provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on the outcomes of the tests;
 
 "(2) the Director of the Air Force Rapid Capabilities Office may begin engineering form, fit, and function development and integration to incorporate technologies demonstrated and tested under subsection (a) into specific Department of Defense platforms and applications; and
 
