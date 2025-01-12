@@ -24,7 +24,7 @@ The Congress recognizes that economic development is a long-term process needing
 
 #### References in Text ####
 
-This Act, referred to in subsec. (a)(5), is Pub. L. 95–118, Oct. 3, 1977, 91 Stat. 1067, known as the International Financial Institutions Act, which enacted sections 262c, 262d, 262e to 262g–3, 262m to 262p–13, 262r to 262t, 282i, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as notes under sections 262c and 282i of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 261 of this title and Tables.
+This Act, referred to in subsec. (a)(5), is Pub. L. 95–118, Oct. 3, 1977, 91 Stat. 1067, known as the International Financial Institutions Act, which enacted sections 262c, 262d, 262e to 262g–3, 262m to 262p–15, 262r to 262t, 282i, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as notes under sections 262c and 282i of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 261 of this title and Tables.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
