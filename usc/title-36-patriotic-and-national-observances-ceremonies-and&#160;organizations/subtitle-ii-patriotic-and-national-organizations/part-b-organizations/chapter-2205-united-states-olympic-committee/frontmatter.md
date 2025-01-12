@@ -48,7 +48,19 @@ Sec.
 
 220529. Arbitration of corporation determinations.
 
+220530. Other amateur sports organizations.
+
+#### SUBCHAPTER III—UNITED STATES CENTER FOR SAFE SPORT ####
+
+220541. Designation of United States Center for Safe Sport.
+
+220542. Additional duties.
+
+220543. Records, audits, and reports.
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–126, title II, §§202(c), 204(b), Feb. 14, 2018, 132 Stat. 323, 325, added item for subchapter III and items 220530 and 220541 to 220543.
 
 **2006**—Pub. L. 109–284, §5(12), Sept. 27, 2006, 120 Stat. 1212, substituted "Short title and definitions" for "Definitions" in item 220501.
 
