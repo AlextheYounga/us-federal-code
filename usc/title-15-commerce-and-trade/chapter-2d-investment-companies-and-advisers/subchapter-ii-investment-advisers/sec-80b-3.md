@@ -248,7 +248,13 @@ In any cease-and-desist proceeding under paragraph (1), the Commission may enter
 
 #### (l) Exemption of venture capital fund advisers ####
 
+#### (1) In general ####
+
 No investment adviser that acts as an investment adviser solely to 1 or more venture capital funds shall be subject to the registration requirements of this subchapter with respect to the provision of investment advice relating to a venture capital fund. Not later than 1 year after July 21, 2010, the Commission shall issue final rules to define the term "venture capital fund" for purposes of this subsection. The Commission shall require such advisers to maintain such records and provide to the Commission such annual or other reports as the Commission determines necessary or appropriate in the public interest or for the protection of investors.
+
+#### (2) Advisers of SBICS ####
+
+For purposes of this subsection, a venture capital fund includes an entity described in subparagraph (A), (B), or (C) of subsection (b)(7) (other than an entity that has elected to be regulated or is regulated as a business development company pursuant to section 54 of the Investment Company Act of 1940 [15 U.S.C. 80a–53]).
 
 #### (m) Exemption of and reporting by certain private fund advisers ####
 
@@ -260,11 +266,15 @@ The Commission shall provide an exemption from the registration requirements und
 
 The Commission shall require investment advisers exempted by reason of this subsection to maintain such records and provide to the Commission such annual or other reports as the Commission determines necessary or appropriate in the public interest or for the protection of investors.
 
+#### (3) Advisers of SBICS ####
+
+For purposes of this subsection, the assets under management of a private fund that is an entity described in subparagraph (A), (B), or (C) of subsection (b)(7) (other than an entity that has elected to be regulated or is regulated as a business development company pursuant to section 54 of the Investment Company Act of 1940 [15 U.S.C. 80–53]) shall be excluded from the limit set forth in paragraph (1).
+
 #### (n) Registration and examination of mid-sized private fund advisers ####
 
 In prescribing regulations to carry out the requirements of this section with respect to investment advisers acting as investment advisers to mid-sized private funds, the Commission shall take into account the size, governance, and investment strategy of such funds to determine whether they pose systemic risk, and shall provide for registration and examination procedures with respect to the investment advisers of such funds which reflect the level of systemic risk posed by such funds.
 
-(Aug. 22, 1940, ch. 686, title II, §203, 54 Stat. 850; Pub. L. 86–750, §§2–5, Sept. 13, 1960, 74 Stat. 885, 886; Pub. L. 91–547, §24, Dec. 14, 1970, 84 Stat. 1430; Pub. L. 94–29, §29(1)–(4), June 4, 1975, 89 Stat. 166–169; Pub. L. 96–477, title II, §202, Oct. 21, 1980, 94 Stat. 2290; Pub. L. 99–571, title I, §102(m), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 100–181, title VII, §702, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 101–429, title IV, §401, Oct. 15, 1990, 104 Stat. 946; Pub. L. 101–550, title II, §205(b), (c), Nov. 15, 1990, 104 Stat. 2719, 2720; Pub. L. 104–62, §5, Dec. 8, 1995, 109 Stat. 685; Pub. L. 104–290, title III, §§303(b), (d), 305, title V, §508(d), Oct. 11, 1996, 110 Stat. 3438, 3439, 3448; Pub. L. 105–353, title III, §301(d)(1), Nov. 3, 1998, 112 Stat. 3237; Pub. L. 106–554, §1(a)(5) [title II, §209(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–436; Pub. L. 107–204, title VI, §604(b), (c)(2), July 30, 2002, 116 Stat. 796; Pub. L. 109–291, §4(b)(3)(C), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title IV, §§403, 407, 408, title IX, §§925(b), 929P(a)(4), 985(e)(1), July 21, 2010, 124 Stat. 1571, 1574, 1575, 1851, 1864, 1935.)
+(Aug. 22, 1940, ch. 686, title II, §203, 54 Stat. 850; Pub. L. 86–750, §§2–5, Sept. 13, 1960, 74 Stat. 885, 886; Pub. L. 91–547, §24, Dec. 14, 1970, 84 Stat. 1430; Pub. L. 94–29, §29(1)–(4), June 4, 1975, 89 Stat. 166–169; Pub. L. 96–477, title II, §202, Oct. 21, 1980, 94 Stat. 2290; Pub. L. 99–571, title I, §102(m), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 100–181, title VII, §702, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 101–429, title IV, §401, Oct. 15, 1990, 104 Stat. 946; Pub. L. 101–550, title II, §205(b), (c), Nov. 15, 1990, 104 Stat. 2719, 2720; Pub. L. 104–62, §5, Dec. 8, 1995, 109 Stat. 685; Pub. L. 104–290, title III, §§303(b), (d), 305, title V, §508(d), Oct. 11, 1996, 110 Stat. 3438, 3439, 3448; Pub. L. 105–353, title III, §301(d)(1), Nov. 3, 1998, 112 Stat. 3237; Pub. L. 106–554, §1(a)(5) [title II, §209(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–436; Pub. L. 107–204, title VI, §604(b), (c)(2), July 30, 2002, 116 Stat. 796; Pub. L. 109–291, §4(b)(3)(C), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title IV, §§403, 407, 408, title IX, §§925(b), 929P(a)(4), 985(e)(1), July 21, 2010, 124 Stat. 1571, 1574, 1575, 1851, 1864, 1935; Pub. L. 114–94, div. G, title LXXIV, §§74001, 74002, Dec. 4, 2015, 129 Stat. 1786.)
 
 #### References in Text ####
 
@@ -276,9 +286,13 @@ The Securities Act of 1933, referred to in subsecs. (e)(5), (6) and (i)(1)(A)(i)
 
 The Securities Exchange Act of 1934, referred to in subsecs. (e)(5), (6) and (i)(1)(A)(i), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (e)(5), (6) and (i)(1)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsecs. (e)(5), (6) and (i)(1)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 #### Amendments ####
+
+**2015**—Subsec. (l). Pub. L. 114–94, §74001, designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (m)(3). Pub. L. 114–94, §74002, added par. (3).
 
 **2010**—Subsec. (b)(1). Pub. L. 111–203, §403(1), inserted ", other than an investment adviser who acts as an investment adviser to any private fund," after "any investment adviser".
 

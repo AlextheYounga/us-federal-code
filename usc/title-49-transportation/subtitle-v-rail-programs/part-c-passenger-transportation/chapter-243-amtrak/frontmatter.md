@@ -32,9 +32,21 @@ Sec.
 
 24315. Reports and audits.
 
-24316. Plan to assist families of passengers involved in rail passenger accidents. 1
+24316. Plans to address the needs of families of passengers involved in rail passenger accidents. 1
+
+24317. Accounts.
+
+24318. Costs and revenues.
+
+24320. Amtrak 5-year business line and asset plans.
+
+24321. Food and beverage reform.
+
+24322. Rolling stock purchases.
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–94, div. A, title XI, §§11201(b), 11202(b), 11203(c), 11207(b), 11208(b), 11316(m), Dec. 4, 2015, 129 Stat. 1627, 1630, 1634, 1639, 1640, 1678, substituted "Plans to address the needs of families of passengers involved in rail passenger accidents" for "Plan to assist families of passengers involved in rail passenger accidents" in item 24316 and added items 24317 to 24322.
 
 **2008**—Pub. L. 110–432, div. A, title V, §502(b), div. B, title II, §221(b), Oct. 16, 2008, 122 Stat. 4899, 4932, added items 24310 and 24316.
 

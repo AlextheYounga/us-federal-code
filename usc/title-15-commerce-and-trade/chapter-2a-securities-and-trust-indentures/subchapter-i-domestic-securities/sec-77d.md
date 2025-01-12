@@ -1,6 +1,8 @@
 ### §77d. Exempted transactions ###
 
-(a) The provisions of section 77e of this title shall not apply to—
+#### (a) In general ####
+
+The provisions of section 77e of this title shall not apply to—
 
 (1) transactions by any person other than an issuer, underwriter, or dealer.
 
@@ -34,9 +36,15 @@ With respect to transactions referred to in clause (B), if securities of the iss
 
 (D) the issuer complies with the requirements of section 77d–1(b) of this title.
 
-(b) <sup><a href="#77d_1_target" name="77d_1">1</a></sup> Offers and sales exempt under section 230.506 of title 17, Code of Federal Regulations (as revised pursuant to section 201 of the Jumpstart Our Business Startups Act) shall not be deemed public offerings under the Federal securities laws as a result of general advertising or general solicitation.
+(7) transactions meeting the requirements of subsection (d).
 
-(b)(1) <sup><a href="#77d_1_target" name="77d_1">1</a></sup> With respect to securities offered and sold in compliance with Rule 506 of Regulation D under this subchapter, no person who meets the conditions set forth in paragraph (2) shall be subject to registration as a broker or dealer pursuant to section 78o(a)(1) of this title,<sup><a href="#77d_2_target" name="77d_2">2</a></sup> solely because—
+#### (b) Offers and sales exempt under 17 CFR 230.506 ####
+
+Offers and sales exempt under section 230.506 of title 17, Code of Federal Regulations (as revised pursuant to section 201 of the Jumpstart Our Business Startups Act) shall not be deemed public offerings under the Federal securities laws as a result of general advertising or general solicitation.
+
+#### (c) Securities offered and sold in compliance with Rule 506 of Regulation D ####
+
+(1) With respect to securities offered and sold in compliance with Rule 506 of Regulation D under this subchapter, no person who meets the conditions set forth in paragraph (2) shall be subject to registration as a broker or dealer pursuant to section 78o(a)(1) of this title,<sup><a href="#77d_1_target" name="77d_1">1</a></sup> solely because—
 
 (A) that person maintains a platform or mechanism that permits the offer, sale, purchase, or negotiation of or with respect to securities, or permits general solicitations, general advertisements, or similar or related activities by issuers of such securities, whether online, in person, or through any other means;
 
@@ -50,7 +58,7 @@ With respect to transactions referred to in clause (B), if securities of the iss
 
 (B) such person and each person associated with that person does not have possession of customer funds or securities in connection with the purchase or sale of such security; and
 
-(C) such person is not subject to a statutory disqualification as defined in section 78c(a)(39) of this title <sup><a href="#77d_2_target" name="77d_2">2</a></sup> and does not have any person associated with that person subject to such a statutory disqualification.
+(C) such person is not subject to a statutory disqualification as defined in section 78c(a)(39) of this title <sup><a href="#77d_1_target" name="77d_1">1</a></sup> and does not have any person associated with that person subject to such a statutory disqualification.
 
 (3) For the purposes of this subsection, the term "ancillary services" means—
 
@@ -58,17 +66,89 @@ With respect to transactions referred to in clause (B), if securities of the iss
 
 (B) the provision of standardized documents to the issuers and investors, so long as such person or entity does not negotiate the terms of the issuance for and on behalf of third parties and issuers are not required to use the standardized documents as a condition of using the service.
 
-(May 27, 1933, ch. 38, title I, §4, 48 Stat. 77; June 6, 1934, ch. 404, title II, §203, 48 Stat. 906; Aug. 10, 1954, ch. 667, title I, §6, 68 Stat. 684; Pub. L. 88–467, §12, Aug. 20, 1964, 78 Stat. 580; Pub. L. 94–29, §30, June 4, 1975, 89 Stat. 169; Pub. L. 96–477, title VI, §602, Oct. 21, 1980, 94 Stat. 2294; Pub. L. 111–203, title IX, §944(a), July 21, 2010, 124 Stat. 1897; Pub. L. 112–106, title II, §201(b), (c), title III, §302(a), title IV, §401(c), Apr. 5, 2012, 126 Stat. 314, 315, 325.)
+#### (d) Certain accredited investor transactions ####
+
+The transactions referred to in subsection (a)(7) are transactions meeting the following requirements:
+
+(1) Accredited investor requirement.—Each purchaser is an accredited investor, as that term is defined in section 230.501(a) of title 17, Code of Federal Regulations (or any successor regulation).
+
+(2) Prohibition on general solicitation or advertising.—Neither the seller, nor any person acting on the seller's behalf, offers or sells securities by any form of general solicitation or general advertising.
+
+(3) Information requirement.—In the case of a transaction involving the securities of an issuer that is neither subject to section 78m or 78o(d) of this title, nor exempt from reporting pursuant to section 240.12g3–2(b) of title 17, Code of Federal Regulations, nor a foreign government (as defined in section 230.405 of title 17, Code of Federal Regulations) eligible to register securities under Schedule B, the seller and a prospective purchaser designated by the seller obtain from the issuer, upon request of the seller, and the seller in all cases makes available to a prospective purchaser, the following information (which shall be reasonably current in relation to the date of resale under this section):
+
+(A) The exact name of the issuer and the issuer's predecessor (if any).
+
+(B) The address of the issuer's principal executive offices.
+
+(C) The exact title and class of the security.
+
+(D) The par or stated value of the security.
+
+(E) The number of shares or total amount of the securities outstanding as of the end of the issuer's most recent fiscal year.
+
+(F) The name and address of the transfer agent, corporate secretary, or other person responsible for transferring shares and stock certificates.
+
+(G) A statement of the nature of the business of the issuer and the products and services it offers, which shall be presumed reasonably current if the statement is as of 12 months before the transaction date.
+
+(H) The names of the officers and directors of the issuer.
+
+(I) The names of any persons registered as a broker, dealer, or agent that shall be paid or given, directly or indirectly, any commission or remuneration for such person's participation in the offer or sale of the securities.
+
+(J) The issuer's most recent balance sheet and profit and loss statement and similar financial statements, which shall—
+
+(i) be for such part of the 2 preceding fiscal years as the issuer has been in operation;
+
+(ii) be prepared in accordance with generally accepted accounting principles or, in the case of a foreign private issuer, be prepared in accordance with generally accepted accounting principles or the International Financial Reporting Standards issued by the International Accounting Standards Board;
+
+(iii) be presumed reasonably current if—
+
+(I) with respect to the balance sheet, the balance sheet is as of a date less than 16 months before the transaction date; and
+
+(II) with respect to the profit and loss statement, such statement is for the 12 months preceding the date of the issuer's balance sheet; and
+
+(iv) if the balance sheet is not as of a date less than 6 months before the transaction date, be accompanied by additional statements of profit and loss for the period from the date of such balance sheet to a date less than 6 months before the transaction date.
+
+(K) To the extent that the seller is a control person with respect to the issuer, a brief statement regarding the nature of the affiliation, and a statement certified by such seller that they have no reasonable grounds to believe that the issuer is in violation of the securities laws or regulations.
+
+(4) Issuers disqualified.—The transaction is not for the sale of a security where the seller is an issuer or a subsidiary, either directly or indirectly, of the issuer.
+
+(5) Bad actor prohibition.—Neither the seller, nor any person that has been or will be paid (directly or indirectly) remuneration or a commission for their participation in the offer or sale of the securities, including solicitation of purchasers for the seller is subject to an event that would disqualify an issuer or other covered person under Rule 506(d)(1) of Regulation D (17 CFR 230.506(d)(1)) or is subject to a statutory disqualification described under section 78c(a)(39) of this title.
+
+(6) Business requirement.—The issuer is engaged in business, is not in the organizational stage or in bankruptcy or receivership, and is not a blank check, blind pool, or shell company that has no specific business plan or purpose or has indicated that the issuer's primary business plan is to engage in a merger or combination of the business with, or an acquisition of, an unidentified person.
+
+(7) Underwriter prohibition.—The transaction is not with respect to a security that constitutes the whole or part of an unsold allotment to, or a subscription or participation by, a broker or dealer as an underwriter of the security or a redistribution.
+
+(8) Outstanding class requirement.—The transaction is with respect to a security of a class that has been authorized and outstanding for at least 90 days prior to the date of the transaction.
+
+#### (e) Additional requirements ####
+
+(1) In general.—With respect to an exempted transaction described under subsection (a)(7):
+
+(A) Securities acquired in such transaction shall be deemed to have been acquired in a transaction not involving any public offering.
+
+(B) Such transaction shall be deemed not to be a distribution for purposes of section 77b(a)(11) of this title.
+
+(C) Securities involved in such transaction shall be deemed to be restricted securities within the meaning of Rule 144 (17 CFR 230.144).
+
+(2) Rule of construction.—The exemption provided by subsection (a)(7) shall not be the exclusive means for establishing an exemption from the registration requirements of section 77e of this title.
+
+(May 27, 1933, ch. 38, title I, §4, 48 Stat. 77; June 6, 1934, ch. 404, title II, §203, 48 Stat. 906; Aug. 10, 1954, ch. 667, title I, §6, 68 Stat. 684; Pub. L. 88–467, §12, Aug. 20, 1964, 78 Stat. 580; Pub. L. 94–29, §30, June 4, 1975, 89 Stat. 169; Pub. L. 96–477, title VI, §602, Oct. 21, 1980, 94 Stat. 2294; Pub. L. 111–203, title IX, §944(a), July 21, 2010, 124 Stat. 1897; Pub. L. 112–106, title II, §201(b), (c), title III, §302(a), title IV, §401(c), Apr. 5, 2012, 126 Stat. 314, 315, 325; Pub. L. 114–94, div. G, title LXXVI, §76001(a), Dec. 4, 2015, 129 Stat. 1787.)
 
 #### References in Text ####
 
 Section 201 of the Jumpstart Our Business Startups Act, referred to in subsec. (b), is section 201 of Pub. L. 112–106, which amended this section and enacted provisions set out as a note under this section.
 
-Section 78o(a)(1) of this title, referred to in subsec. (b)(1), was in the original "section 15(a)(1) of this title" and was translated as meaning section 15(a)(1) of the Securities Exchange Act of 1934 to reflect the probable intent of Congress.
+Section 78o(a)(1) of this title, referred to in subsec. (c)(1), was in the original "section 15(a)(1) of this title" and was translated as meaning section 15(a)(1) of the Securities Exchange Act of 1934 to reflect the probable intent of Congress.
 
-Section 78c(a)(39) of this title, referrred to in subsec. (b)(2)(C), was in the original "section 3(a)(39) of this title" and was translated as meaning section 3(a)(39) of the Securities Exchange Act of 1934 to reflect the probable intent of Congress.
+Section 78c(a)(39) of this title, referrred to in subsec. (c)(2)(C), was in the original "section 3(a)(39) of this title" and was translated as meaning section 3(a)(39) of the Securities Exchange Act of 1934 to reflect the probable intent of Congress.
 
 #### Amendments ####
+
+**2015**—Subsec. (a)(7). Pub. L. 114–94, §76001(a)(1), added par. (7).
+
+Subsecs. (b), (c). Pub. L. 114–94, §76001(a)(2), redesignated subsec. (b) relating to securities offered and sold in compliance with Rule 506 of Regulation D as (c).
+
+Subsecs. (d), (e). Pub. L. 114–94, §76001(a)(3), added subsecs. (d) and (e).
 
 **2012**—Pub. L. 112–106, §201(b)(1), (c)(1), made identical amendments, designating existing provisions as subsec. (a).
 
@@ -186,6 +266,4 @@ Pub. L. 111–203, title IX, §926, July 21, 2010, 124 Stat. 1851, provided that
 
 [For definitions of terms used in section 926 of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.]
 
-[<sup>1</sup> So in original. Two subsecs. (b) have been enacted.](#77d_1)
-
-[<sup>2</sup> See References in Text note below.](#77d_2)
+[<sup>1</sup> See References in Text note below.](#77d_1)

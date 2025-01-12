@@ -24,6 +24,8 @@ Sec.
 
 31109. Performance and registration information system management.
 
+31110. Authorization of appropriations.
+
 #### SUBCHAPTER II—LENGTH AND WIDTH LIMITATIONS ####
 
 31111. Length limitations.
@@ -84,7 +86,13 @@ Sec.
 
 31161. International cooperation.
 
+#### Amendment of Analysis ####
+
+Pub. L. 114–94, div. A, title V, §5101(d), (e)(3), (4), (f), Dec. 4, 2015, 129 Stat. 1525, 1526, provided that, effective Oct. 1, 2016, the analysis for this chapter is amended by striking items 31102, 31103, and 31104 and inserting new items 31102 "Motor carrier safety assistance program", 31103 "Commercial motor vehicle operators grant program", and 31104 "Authorization of appropriations" and by striking items 31107 and 31109. See 2015 Amendment note below.
+
 #### Amendments ####
+
+**2015**—Pub. L. 114–94, div. A, title V, §§5101(d), (e)(3), (4), 5103(b), Dec. 4, 2015, 129 Stat. 1525, 1527, substituted "Motor carrier safety assistance program" for "Grants to States" in item 31102, "Commercial motor vehicle operators grant program" for "United States Government's share of costs" in item 31103, and "Authorization of appropriations" for "Availability of amounts" in item 31104, struck out items 31107 "Border enforcement grants" and 31109 "Performance and registration information system management", and added item 31110.
 
 **2012**—Pub. L. 112–141, div. C, title II, §§32105(b), 32301(d), July 6, 2012, 126 Stat. 781, 788, added items 31134 and 31137 and struck out former item 31137 "Monitoring device and brake maintenance regulations".
 

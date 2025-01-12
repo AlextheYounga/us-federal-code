@@ -24,11 +24,11 @@ Sec.
 
 5311. Formula grants for rural areas.
 
-5312. Research, development, demonstration, and deployment projects.
+5312. Public transportation innovation.
 
-5313. Transit cooperative research program.
+[5313. Repealed.]
 
-5314. Technical assistance and standards development.
+5314. Technical assistance and workforce development.
 
 5315. Private sector participation.
 
@@ -36,13 +36,13 @@ Sec.
 
 5318. Bus testing facility.
 
-5319. Bicycle facilities.
+[5319. Repealed.]
 
 [5320. Repealed.]
 
 5321. Crime prevention and security.
 
-5322. Human resources and training.
+[5322. Repealed.]
 
 5323. General provisions.
 
@@ -76,11 +76,13 @@ Sec.
 
 5338. Authorizations.
 
-5339. Bus and bus facilities formula grants.
+5339. Grants for buses and bus facilities.
 
 5340. Apportionments based on growing States and high density States formula factors.
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–94, div. A, title III, §§3008(c), 3009(b), 3017(b), 3030(b)–(d), Dec. 4, 2015, 129 Stat. 1469, 1473, 1487, 1496, 1497, substituted "Public transportation innovation" for "Research, development, demonstration, and deployment projects" in item 5312, "Technical assistance and workforce development" for "Technical assistance and standards development" in item 5314, and "Grants for buses and bus facilities" for "Bus and bus facilities formula grants" in item 5339, and struck out item 5313 "Transit cooperative research program", item 5319 "Bicycle facilities", and item 5322 "Human resources and training".
 
 **2012**—Pub. L. 112–141, div. B, §20030(k), July 6, 2012, 126 Stat. 731, amended generally the analysis for this chapter, adding item 5326, substituting "Policies and purposes" for "Policies, findings, and purposes" in item 5301, "Statewide and nonmetropolitan transportation planning" for "Statewide transportation planning" in item 5304, "Fixed guideway capital investment grants" for "Capital investment grants" in item 5309, "Formula grants for the enhanced mobility of seniors and individuals with disabilities" for "Formula grants for special needs of elderly individuals and individuals with disabilities" in item 5310, "Formula grants for rural areas" for "Formula grants for other than urbanized areas" in item 5311, "Technical assistance and standards development" for "National research programs" in item 5314, "Private sector participation" for "National transit institute" in item 5315, "Human resources and training" for "Human resource programs" in item 5322, "General provisions" for "General provisions on assistance" in item 5323, "Public transportation emergency relief program" for "Special provisions for capital projects" in item 5324, "Public transportation safety program" for "Investigations of safety hazards and security risks" in item 5329, "State of good repair grants" for "Apportionment based on fixed guideway factors" in item 5337, and "Bus and bus facilities formula grants" for "Alternatives analysis program" in item 5339, and striking out items 5308 "Clean fuels grant program", 5316 "Job access and reverse commute formula grants", 5317 "New freedom program", 5320 "Alternative transportation in parks and public lands, and 5328 "Project review".
 

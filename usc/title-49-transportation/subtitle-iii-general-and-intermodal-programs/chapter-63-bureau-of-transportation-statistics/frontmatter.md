@@ -27,3 +27,9 @@ Sec.
 6312. Transportation statistics annual report.
 
 6313. Mandatory response authority for freight data collection.
+
+6314. Port performance freight statistics program.
+
+#### Amendments ####
+
+**2015**—Pub. L. 114–94, div. A, title VI, §6018(c), Dec. 4, 2015, 129 Stat. 1577, added item 6314.

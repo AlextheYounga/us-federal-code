@@ -21,11 +21,13 @@ VII. AVIATION PROGRAMS 40101
 
 VIII. PIPELINES 60101
 
-IX. [TRANSFERRED]
+IX. Multimodal Freight Transportation 1 70101
 
 X. MISCELLANEOUS 80101
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–94, div. A, title VIII, §8001(b), Dec. 4, 2015, 129 Stat. 1612, substituted "Multimodal Freight Transportation . . .70101" for "[TRANSFERRED]" in item for subtitle IX.
 
 **2010**—Pub. L. 111–314, §4(d)(1)(A), Dec. 18, 2010, 124 Stat. 3440, substituted "[TRANSFERRED]" for "COMMERCIAL SPACE TRANSPORTATION . . .70101" in item for subtitle IX.
 
@@ -2055,3 +2057,5 @@ Pub. L. 95–473, §4(c), Oct. 17, 1978, 92 Stat. 1470, which provided that the 
 #### Effective Date of Certain Repeals ####
 
 Pub. L. 95–473, §4(d), Oct. 17, 1978, 92 Stat. 1470, as amended by Pub. L. 97–449, §4(b)(3), Jan. 12, 1983, 96 Stat. 2441, provided that: "The repeals, by subsection (b) of this section, of section 1(a)(25), (26) of the Act of July 3, 1952, chapter 570, the Act of June 30, 1953, chapter 165, and the Act of July 31, 1953, chapter 292, are effective on September 14, 1978."
+
+[<sup>1</sup> So in original. Probably should be upper case.](#_1)

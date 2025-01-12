@@ -378,7 +378,7 @@ A security-based swap data repository shall—
 
 (F) maintain the privacy of any and all security-based swap transaction information that the security-based swap data repository receives from a security-based swap dealer, counterparty, or any other registered entity; and
 
-(G) on a confidential basis pursuant to section 78x of this title, upon request, and after notifying the Commission of the request, make available all data obtained by the security-based swap data repository, including individual counterparty trade and position data, to—
+(G) on a confidential basis pursuant to section 78x of this title, upon request, and after notifying the Commission of the request, make available security-based swap data obtained by the security-based swap data repository, including individual counterparty trade and position data, to—
 
 (i) each appropriate prudential regulator;
 
@@ -392,15 +392,13 @@ A security-based swap data repository shall—
 
 (I) foreign financial supervisors (including foreign futures authorities);
 
-(II) foreign central banks; and
+(II) foreign central banks;
 
-(III) foreign ministries.
+(III) foreign ministries; and
 
-(H) Confidentiality and indemnification agreement.—Before the security-based swap data repository may share information with any entity described in subparagraph (G)—
+(IV) other foreign authorities.
 
-(i) the security-based swap data repository shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 78x of this title relating to the information on security-based swap transactions that is provided; and
-
-(ii) each entity shall agree to indemnify the security-based swap data repository and the Commission for any expenses arising from litigation relating to the information provided under section 78x of this title.
+(H) Confidentiality agreement.—Before the security-based swap data repository may share information with any entity described in subparagraph (G), the security-based swap data repository shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 78x of this title relating to the information on security-based swap transactions that is provided.
 
 #### (6) Designation of chief compliance officer ####
 
@@ -712,7 +710,7 @@ Upon receiving a report under paragraph (4) that includes a disclosure of an act
 
 The provisions of this subsection shall terminate on the date that is 30 days after the date on which the President makes the certification described in section 8551(a) of title 22.
 
-(June 6, 1934, ch. 404, title I, §13, 48 Stat. 894; Pub. L. 88–467, §4, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §2, July 29, 1968, 82 Stat. 454; Pub. L. 91–567, §§1, 2, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 94–29, §10, June 4, 1975, 89 Stat. 119; Pub. L. 94–210, title III, §308(b), Feb. 5, 1976, 90 Stat. 57; Pub. L. 95–213, title I, §102, title II, §§202, 203, Dec. 19, 1977, 91 Stat. 1494, 1498, 1499; Pub. L. 98–38, §2(a), June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §§315, 316, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–241, §12(d), Feb. 3, 1988, 101 Stat. 1810; Pub. L. 100–418, title V, §5002, Aug. 23, 1988, 102 Stat. 1415; Pub. L. 101–432, §3, Oct. 16, 1990, 104 Stat. 964; Pub. L. 107–123, §5, Jan. 16, 2002, 115 Stat. 2395; Pub. L. 107–204, title I, §109(i), formerly §109(h), title IV, §§401(a), 402(a), 409, July 30, 2002, 116 Stat. 771, 785, 787, 791, renumbered §109(i), Pub. L. 111–203, title IX, §982(h)(3), July 21, 2010, 124 Stat. 1930; Pub. L. 111–203, title VII, §§763(i), 766(b), (c), (e), title IX, §§929R(a), 929X(a), 985(b)(4), 991(b)(2), title XV, §§1502(b), 1504, July 21, 2010, 124 Stat. 1779, 1799, 1866, 1870, 1933, 1952, 2213, 2220; Pub. L. 112–106, title I, §102(b)(2), Apr. 5, 2012, 126 Stat. 309; Pub. L. 112–158, title II, §219(a), Aug. 10, 2012, 126 Stat. 1235.)
+(June 6, 1934, ch. 404, title I, §13, 48 Stat. 894; Pub. L. 88–467, §4, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §2, July 29, 1968, 82 Stat. 454; Pub. L. 91–567, §§1, 2, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 94–29, §10, June 4, 1975, 89 Stat. 119; Pub. L. 94–210, title III, §308(b), Feb. 5, 1976, 90 Stat. 57; Pub. L. 95–213, title I, §102, title II, §§202, 203, Dec. 19, 1977, 91 Stat. 1494, 1498, 1499; Pub. L. 98–38, §2(a), June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §§315, 316, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–241, §12(d), Feb. 3, 1988, 101 Stat. 1810; Pub. L. 100–418, title V, §5002, Aug. 23, 1988, 102 Stat. 1415; Pub. L. 101–432, §3, Oct. 16, 1990, 104 Stat. 964; Pub. L. 107–123, §5, Jan. 16, 2002, 115 Stat. 2395; Pub. L. 107–204, title I, §109(i), formerly §109(h), title IV, §§401(a), 402(a), 409, July 30, 2002, 116 Stat. 771, 785, 787, 791, renumbered §109(i), Pub. L. 111–203, title IX, §982(h)(3), July 21, 2010, 124 Stat. 1930; Pub. L. 111–203, title VII, §§763(i), 766(b), (c), (e), title IX, §§929R(a), 929X(a), 985(b)(4), 991(b)(2), title XV, §§1502(b), 1504, July 21, 2010, 124 Stat. 1779, 1799, 1866, 1870, 1933, 1952, 2213, 2220; Pub. L. 112–106, title I, §102(b)(2), Apr. 5, 2012, 126 Stat. 309; Pub. L. 112–158, title II, §219(a), Aug. 10, 2012, 126 Stat. 1235; Pub. L. 114–94, div. G, title LXXXVI, §86001(c), Dec. 4, 2015, 129 Stat. 1798.)
 
 #### Amendment of Section ####
 
@@ -739,6 +737,12 @@ Executive Order No. 13224, referred to in subsec. (r)(1)(D)(i), is Ex. Ord. No. 
 Executive Order No. 13382, referred to in subsec. (r)(1)(D)(ii), is Ex. Ord. No. 13382, June 28, 2005, 70 F.R. 38567, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
 #### Amendments ####
+
+**2015**—Subsec. (n)(5)(G). Pub. L. 114–94, §86001(c)(1)(A), substituted "make available security-based swap" for "make available all" in introductory provisions.
+
+Subsec. (n)(5)(G)(v)(IV). Pub. L. 114–94, §86001(c)(1)(B), added subcl. (IV)
+
+Subsec. (n)(5)(H). Pub. L. 114–94, §86001(c)(2), added subpar. (H) and struck out former subpar. (H) which related to confidentiality and indemnification agreement.
 
 **2012**—Subsec. (a). Pub. L. 112–106 inserted at end of concluding provisions "In any registration statement, periodic report, or other reports to be filed with the Commission, an emerging growth company need not present selected financial data in accordance with section 229.301 of title 17, Code of Federal Regulations, for any period prior to the earliest audited period presented in connection with its first registration statement that became effective under this chapter or the Securities Act of 1933 and, with respect to any such statement or reports, an emerging growth company may not be required to comply with any new or revised financial accounting standard until such date that a company that is not an issuer (as defined under section 7201 of this title) is required to comply with such new or revised accounting standard, if such standard applies to companies that are not issuers."
 
@@ -822,6 +826,10 @@ Subsec. (e)(2). Pub. L. 91–567, §2, inserted provisions empowering the Commis
 
 **1964**—Subsec. (a). Pub. L. 88–467 substituted provisions which require the issuer of a security registered pursuant to section 78l of this title to file reports with the Commission rather than with the exchange and to furnish the exchange with duplicate originals and prohibit the Commission from requiring the filing of any material contract wholly executed before July 1, 1962 for former provisions which required the issuer of a security registered on a national securities exchange to file certain reports with the exchange and to file duplicates with the Commission.
 
+#### Effective Date of 2015 Amendment ####
+
+Amendment by Pub. L. 114–94 effective as if enacted as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. 111–203, see section 86001(d) of Pub. L. 114–94, set out as a note under section 7a–1 of Title 7, Agriculture.
+
 #### Effective Date of 2012 Amendment ####
 
 Pub. L. 112–158, title II, §219(b), Aug. 10, 2012, 126 Stat. 1236, provided that: "The amendment made by subsection (a) [amending this section] shall take effect with respect to reports required to be filed with the Securities and Exchange Commission after the date that is 180 days after the date of the enactment of this Act [Aug. 10, 2012]."
@@ -853,6 +861,10 @@ Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L.
 #### Transfer of Functions ####
 
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+
+#### Summary Page for Form 10–K ####
+
+Pub. L. 114–94, div. G, title LXXII, §72001, Dec. 4, 2015, 129 Stat. 1784, provided that: "Not later than the end of the 180-day period beginning on the date of the enactment of this Act [Dec. 4, 2015], the Securities and Exchange Commission shall issue regulations to permit issuers to submit a summary page on form 10–K (17 CFR 249.310), but only if each item on such summary page includes a cross-reference (by electronic link or otherwise) to the material contained in form 10–K to which such item relates."
 
 #### Elimination of Exemption From Fair Disclosure Rule ####
 

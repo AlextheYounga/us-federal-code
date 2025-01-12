@@ -46,6 +46,10 @@ Subsec. (c)(4). Pub. L. 110–144, §2(2), added par. (4).
 
 **1988**—Subsec. (c)(1). Pub. L. 100–607 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The term 'human organ' means the human kidney, liver, heart, lung, pancreas, bone marrow, cornea, eye, bone, and skin, and any other human organ specified by the Secretary of Health and Human Services by regulation."
 
+#### Determination on the Definition of Human Organ ####
+
+Pub. L. 114–104, §4, Dec. 18, 2015, 129 Stat. 2218, provided that: "Not later than one year after the date of enactment of this Act [Dec. 18, 2015], the Secretary of Health and Human Services shall issue determinations with respect to the inclusion of peripheral blood stem cells and umbilical cord blood in the definition of human organ."
+
 #### No Impact on Social Security Trust Fund ####
 
 Pub. L. 110–144, §4, Dec. 21, 2007, 121 Stat. 1814, provided that: "Nothing in this Act [see Short Title of 2007 Amendment note set out under section 201 of this title] (or an amendment made by this Act) shall be construed to alter or amend the Social Security Act (42 U.S.C. 301 et seq.) (or any regulation promulgated under that Act)."

@@ -50,21 +50,23 @@ A security is a covered security with respect to a transaction that is exempt fr
 
 (C) section 77d(6) <sup><a href="#77r_1_target" name="77r_1">1</a></sup> of this title;
 
-(D) <sup><a href="#77r_2_target" name="77r_2">2</a></sup> a rule or regulation adopted pursuant to section 77c(b)(2) of this title and such security is—
+(D) a rule or regulation adopted pursuant to section 77c(b)(2) of this title and such security is—
 
 (i) offered or sold on a national securities exchange; or
 
 (ii) offered or sold to a qualified purchaser, as defined by the Commission pursuant to paragraph (3) with respect to that purchase or sale;
 
-(D) <sup><a href="#77r_2_target" name="77r_2">2</a></sup> section 77c(a) of this title, other than the offer or sale of a security that is exempt from such registration pursuant to paragraph (4), (10), or (11) of such section, except that a municipal security that is exempt from such registration pursuant to paragraph (2) of such section is not a covered security with respect to the offer or sale of such security in the State in which the issuer of such security is located; or
+(E) section 77c(a) of this title, other than the offer or sale of a security that is exempt from such registration pursuant to paragraph (4), (10), or (11) of such section, except that a municipal security that is exempt from such registration pursuant to paragraph (2) of such section is not a covered security with respect to the offer or sale of such security in the State in which the issuer of such security is located;
 
-(E) Commission rules or regulations issued under section 77d(2) <sup><a href="#77r_1_target" name="77r_1">1</a></sup> of this title, except that this subparagraph does not prohibit a State from imposing notice filing requirements that are substantially similar to those required by rule or regulation under section 77d(2) <sup><a href="#77r_1_target" name="77r_1">1</a></sup> of this title that are in effect on September 1, 1996.
+(F) Commission rules or regulations issued under section 77d(2) <sup><a href="#77r_1_target" name="77r_1">1</a></sup> of this title, except that this subparagraph does not prohibit a State from imposing notice filing requirements that are substantially similar to those required by rule or regulation under section 77d(2) <sup><a href="#77r_1_target" name="77r_1">1</a></sup> of this title that are in effect on September 1, 1996; or
+
+(G) section 77d(a)(7) of this title.
 
 #### (c) Preservation of authority ####
 
 #### (1) Fraud authority ####
 
-Consistent with this section, the securities commission (or any agency or office performing like functions) of any State shall retain jurisdiction under the laws of such State to investigate and bring enforcement actions, in connection with securities or securities transactions <sup><a href="#77r_3_target" name="77r_3">3</a></sup>
+Consistent with this section, the securities commission (or any agency or office performing like functions) of any State shall retain jurisdiction under the laws of such State to investigate and bring enforcement actions, in connection with securities or securities transactions <sup><a href="#77r_2_target" name="77r_2">2</a></sup>
 
 (A) with respect to—
 
@@ -72,7 +74,7 @@ Consistent with this section, the securities commission (or any agency or office
 
 (ii) unlawful conduct by a broker, dealer, or funding portal; and
 
-(B) in connection to <sup><a href="#77r_4_target" name="77r_4">4</a></sup> a transaction described under section 77d(6) <sup><a href="#77r_1_target" name="77r_1">1</a></sup> of this title, with respect to—
+(B) in connection to <sup><a href="#77r_3_target" name="77r_3">3</a></sup> a transaction described under section 77d(6) <sup><a href="#77r_1_target" name="77r_1">1</a></sup> of this title, with respect to—
 
 (i) fraud or deceit; or
 
@@ -108,7 +110,7 @@ For purposes of this subparagraph, delays in payment of fees or underpayments of
 
 Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(1), or will be such a covered security upon completion of the transaction, or is a security of the same issuer that is equal in seniority or that is a senior security to a security that is a covered security pursuant to subsection (b)(1).
 
-#### (F) <sup><a href="#77r_5_target" name="77r_5">5</a></sup> Fees not permitted on crowdfunded securities ####
+#### (F) <sup><a href="#77r_4_target" name="77r_4">4</a></sup> Fees not permitted on crowdfunded securities ####
 
 Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(4)(B), or will be such a covered security upon completion of the transaction, except for the securities commission (or any agency or office performing like functions) of the State of the principal place of business of the issuer, or any State in which purchasers of 50 percent or greater of the aggregate amount of the issue are residents, provided that for purposes of this subparagraph, the term "State" includes the District of Columbia and the territories of the United States.
 
@@ -140,7 +142,7 @@ The term "State" has the same meaning as in section 78c of this title.
 
 The term "senior security" means any bond, debenture, note, or similar obligation or instrument constituting a security and evidencing indebtedness, and any stock of a class having priority over any other class as to distribution of assets or payment of dividends.
 
-(May 27, 1933, ch. 38, title I, §18, 48 Stat. 85; Pub. L. 104–290, title I, §102(a), Oct. 11, 1996, 110 Stat. 3417; Pub. L. 105–353, title III, §§301(a)(4), 302, Nov. 3, 1998, 112 Stat. 3235, 3237; Pub. L. 111–203, title IX, §985(a)(2), July 21, 2010, 124 Stat. 1933; Pub. L. 112–106, title III, §305(a), (b)(2), (c), (d)(2), title IV, §401(b), Apr. 5, 2012, 126 Stat. 322, 323, 325.)
+(May 27, 1933, ch. 38, title I, §18, 48 Stat. 85; Pub. L. 104–290, title I, §102(a), Oct. 11, 1996, 110 Stat. 3417; Pub. L. 105–353, title III, §§301(a)(4), 302, Nov. 3, 1998, 112 Stat. 3235, 3237; Pub. L. 111–203, title IX, §985(a)(2), July 21, 2010, 124 Stat. 1933; Pub. L. 112–106, title III, §305(a), (b)(2), (c), (d)(2), title IV, §401(b), Apr. 5, 2012, 126 Stat. 322, 323, 325; Pub. L. 114–94, div. G, title LXXVI, §76001(b), Dec. 4, 2015, 129 Stat. 1789.)
 
 #### References in Text ####
 
@@ -149,6 +151,12 @@ The Investment Company Act of 1940, referred to in subsec. (b)(2), is title I of
 Section 77d(1), (2), (3), (4), and (6) of this title, referred to in subsecs. (b)(4)(A) to (C), (E) and (c)(1)(B), were redesignated section 77d(a)(1), (2), (3), (4), and (6), respectively, of this title by Pub. L. 112–106, title II, §201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
 
 #### Amendments ####
+
+**2015**—Subsec. (b)(4)(E). Pub. L. 114–94, §76001(b)(1), which directed amendment of subsec. (b)(4) by redesignating "the second subparagraph (D)" as (E), was executed by making the redesignation for the subpar. (D) relating to section 77c(a) of this title to reflect the probable intent of Congress. Former subpar. (E) redesignated (F)
+
+Subsec. (b)(4)(F). Pub. L. 114–94, §76001(b)(1), redesignated subpar. (E) as (F).
+
+Subsec. (b)(4)(G). Pub. L. 114–94, §76001(b)(2)–(4), added subpar. (G).
 
 **2012**—Subsec. (b)(4)(C). Pub. L. 112–106, §305(a)(2), added subpar. (C). Former subpar. (C) redesignated (D).
 
@@ -200,10 +208,8 @@ Pub. L. 104–290, title I, §102(b), Oct. 11, 1996, 110 Stat. 3420, provided th
 
 [<sup>1</sup> See References in Text note below.](#77r_1)
 
-[<sup>2</sup> So in original. There are two subpars. (D).](#77r_2)
+[<sup>2</sup> So in original. The words "in connection with securities or securities transactions" probably should be part of subpar. (A).](#77r_2)
 
-[<sup>3</sup> So in original. The words "in connection with securities or securities transactions" probably should be part of subpar. (A).](#77r_3)
+[<sup>3</sup> So in original. Probably should be "with".](#77r_3)
 
-[<sup>4</sup> So in original. Probably should be "with".](#77r_4)
-
-[<sup>5</sup> So in original. No subpar. (E) has been enacted.](#77r_5)
+[<sup>4</sup> So in original. No subpar. (E) has been enacted.](#77r_4)

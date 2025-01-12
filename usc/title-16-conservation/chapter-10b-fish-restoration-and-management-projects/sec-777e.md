@@ -20,17 +20,23 @@ Administrative costs in the form of overhead or indirect costs for services prov
 
 #### (d) Agreements to finance initial costs of acquisition of lands and construction of structures ####
 
-The Secretary of the Interior may enter into agreements to finance up to 75 per centum of the initial costs of the acquisition of lands or interests therein and the construction of structures or facilities for <sup><a href="#777e_1_target" name="777e_1">1</a></sup> appropriations currently available for the purposes of this chapter; and to agree to finance up to 75 per centum of the remaining costs over such a period of time as the Secretary may consider necessary. The liability of the United States in any such agreement is contingent upon the continued availability of funds for the purposes of this chapter.
+The Secretary of the Interior may enter into agreements to finance up to 75 per centum of the initial costs of the acquisition of lands or interests therein and the construction of structures or facilities from appropriations currently available for the purposes of this chapter; and to agree to finance up to 75 per centum of the remaining costs over such a period of time as the Secretary may consider necessary. The liability of the United States in any such agreement is contingent upon the continued availability of funds for the purposes of this chapter.
 
-(Aug. 9, 1950, ch. 658, §6, 64 Stat. 432; Pub. L. 91–503, title II, §202, Oct. 23, 1970, 84 Stat. 1102; Pub. L. 98–369, div. A, title X, §1014(a)(5), July 18, 1984, 98 Stat. 1016.)
+(Aug. 9, 1950, ch. 658, §6, 64 Stat. 432; Pub. L. 91–503, title II, §202, Oct. 23, 1970, 84 Stat. 1102; Pub. L. 98–369, div. A, title X, §1014(a)(5), July 18, 1984, 98 Stat. 1016; Pub. L. 114–94, div. A, title X, §10001(c), Dec. 4, 2015, 129 Stat. 1621.)
 
 #### Amendments ####
+
+**2015**—Subsec. (d). Pub. L. 114–94 substituted "from appropriations" for "for appropriations".
 
 **1984**—Subsec. (d). Pub. L. 98–369 added subsec. (d).
 
 **1970**—Subsec. (a). Pub. L. 91–503 added an alternative method of application for funds by submission of a comprehensive fish and wildlife resource management plan for a period of five years based on projections for fifteen years, to be updated every three years, laid down a maximum limit of assistance of 75 percent of the estimated cost of the implementation of plan, and in existing method of application struck out reference to Secretary of the Treasury and requirement that State pay 10 percent of costs.
 
 Subsecs. (b), (c). Pub. L. 91–503 added subsecs. (b) and (c).
+
+#### Effective Date of 2015 Amendment ####
+
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1984 Amendment ####
 
@@ -39,5 +45,3 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respec
 #### Transfer of Functions ####
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 777 of this title.
-
-[<sup>1</sup> So in original. Probably should be "from".](#777e_1)

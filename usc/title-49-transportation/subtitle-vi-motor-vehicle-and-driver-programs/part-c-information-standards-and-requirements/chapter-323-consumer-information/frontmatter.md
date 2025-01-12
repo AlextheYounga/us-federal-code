@@ -10,7 +10,7 @@ Sec.
 
 32304. Passenger motor vehicle country of origin labeling.
 
-32304A. Consumer tire information.
+32304A. Consumer tire information. 1
 
 32305. Information and assistance from other departments, agencies, and instrumentalities.
 
@@ -27,3 +27,5 @@ Sec.
 **2007**—Pub. L. 110–140, title I, §111(c), Dec. 19, 2007, 121 Stat. 1507, added item 32304A.
 
 **1994**—Pub. L. 103–429, §6(28), Oct. 31, 1994, 108 Stat. 4380, substituted "Civil" for "Criminal" in item 32309.
+
+[<sup>1</sup> Section catchline amended by Pub. L. 114–94 without corresponding amendment of chapter analysis.](#CHAPTER323_1)

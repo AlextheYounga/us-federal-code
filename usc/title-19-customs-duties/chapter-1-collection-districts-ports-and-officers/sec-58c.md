@@ -2,7 +2,7 @@
 
 #### (a) Schedule of fees ####
 
-In addition to any other fee authorized by law, the Secretary of the Treasury shall charge and collect the following fees for the provision of customs services in connection with the following:
+In addition to any other fee authorized by law, the Secretary of the Treasury shall charge and collect the following fees (subject to adjustment under subsection (l)) for the provision of customs services in connection with the following:
 
 (1) For the arrival of a commercial vessel of 100 net tons or more, $397.
 
@@ -86,9 +86,9 @@ For provisions relating to the informal entry or release of merchandise at facil
 
 (C) The exemption provided for in subparagraph (A)(i) shall not apply to fiscal years 1994, 1995, 1996, and 1997.
 
-(2) No fee may be charged under subsection (a)(2) for the arrival of a commercial truck during any calendar year after a total of $100 in fees has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such commercial truck during such calendar year.
+(2) No fee may be charged under subsection (a)(2) for the arrival of a commercial truck during any calendar year after a total of $100 in fees (subject to adjustment under subsection (l)) has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such commercial truck during such calendar year.
 
-(3) No fee may be charged under subsection (a)(3) for the arrival of a railroad car whether passenger or freight during any calendar year after a total of $100 in fees has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such passenger or freight rail car during such calendar year.
+(3) No fee may be charged under subsection (a)(3) for the arrival of a railroad car whether passenger or freight during any calendar year after a total of $100 in fees (subject to adjustment under subsection (l)) has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such passenger or freight rail car during such calendar year.
 
 (4)(A) No fee may be charged under subsection (a)(5) with respect to the arrival of any passenger—
 
@@ -100,13 +100,13 @@ For provisions relating to the informal entry or release of merchandise at facil
 
 (5) No fee may be charged under subsection (a)(1) for the arrival of—
 
-(A) a vessel during a calendar year after a total of $5,955 in fees charged under paragraph (1) or (8) of subsection (a) has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such vessel during such calendar year,
+(A) a vessel during a calendar year after a total of $5,955 in fees (subject to adjustment under subsection (l)) charged under paragraph (1) or (8) of subsection (a) has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such vessel during such calendar year,
 
 (B) any vessel which, at the time of the arrival, is being used solely as a tugboat, or
 
 (C) any barge or other bulk carrier from Canada or Mexico.
 
-(6) No fee may be charged under subsection (a)(8) for the arrival of a barge or other bulk carrier during a calendar year after a total of $1,500 in fees charged under paragraph (1) or (8) of subsection (a) has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such barge or other bulk carrier during such calendar year.
+(6) No fee may be charged under subsection (a)(8) for the arrival of a barge or other bulk carrier during a calendar year after a total of $1,500 in fees (subject to adjustment under subsection (l)) charged under paragraph (1) or (8) of subsection (a) has been paid to the Secretary of the Treasury for the provision of customs services for all arrivals of such barge or other bulk carrier during such calendar year.
 
 (7) No fee may be charged under paragraph (2), (3), or (4) of subsection (a) for the arrival of any—
 
@@ -118,9 +118,9 @@ For provisions relating to the informal entry or release of merchandise at facil
 
 that is being transported, at the time of the arrival, by any vessel that is not a ferry.
 
-(8)(A)(i) Subject to clause (ii), the fee charged under subsection (a)(9) for the formal entry or release of merchandise may not exceed $485 or be less than $25, unless adjusted pursuant to subsection (a)(9)(B).
+(8)(A)(i) Subject to clause (ii), the fee charged under subsection (a)(9) for the formal entry or release of merchandise may not exceed $485 or be less than $25, unless adjusted pursuant to subsection (a)(9)(B) or (l).
 
-(ii) A surcharge of $3 shall be added to the fee determined after application of clause (i) for any manual entry or release of merchandise.
+(ii) A surcharge of $3 (subject to adjustment under subsection (l)) shall be added to the fee determined after application of clause (i) for any manual entry or release of merchandise.
 
 (B) No fee may be charged under subsection (a)(9) or (10) for the processing of any article that is—
 
@@ -170,7 +170,7 @@ With respect to merchandise that is classified under subheading 9802.00.60 or he
 
 (iii) withdrawn from warehouse for consumption.
 
-(9)(A) With respect to the processing of letters, documents, records, shipments, merchandise, or any other item that is valued at an amount that is $2,000 or less (or such higher amount as the Secretary of the Treasury may set by regulation pursuant to section 1498 of this title), except such items entered for transportation and exportation or immediate exportation at a centralized hub facility, an express consignment carrier facility, or a small airport or other facility, the following reimbursements and payments are required:
+(9)(A) With respect to the processing of letters, documents, records, shipments, merchandise, or any other item that is valued at an amount that is $2,000 or less (or such higher amount as the Secretary of the Treasury may set by regulation pursuant to section 1498 of this title and subject to adjustment under subsection (l)), except such items entered for transportation and exportation or immediate exportation at a centralized hub facility, an express consignment carrier facility, or a small airport or other facility, the following reimbursements and payments are required:
 
 (i) In the case of a small airport or other facility—
 
@@ -180,11 +180,11 @@ With respect to merchandise that is classified under subheading 9802.00.60 or he
 
 (ii) Notwithstanding subsection (e)(6) and subject to the provisions of subparagraph (B), in the case of an express consignment carrier facility or centralized hub facility—
 
-(I) $.66 per individual airway bill or bill of lading; and
+(I) $.66 per individual airway bill or bill of lading (subject to adjustment under subsection (l)); and
 
 (II) if the merchandise is formally entered, the fee provided for in subsection (a)(9), if applicable.
 
-(B)(i) Beginning in fiscal year 2004, the Secretary of the Treasury may adjust (not more than once per fiscal year) the amount described in subparagraph (A)(ii) to an amount that is not less than $.35 and not more than $1.00 per individual airway bill or bill of lading. The Secretary shall provide notice in the Federal Register of a proposed adjustment under the preceding sentence and the reasons therefor and shall allow for public comment on the proposed adjustment.
+(B)(i) Beginning in fiscal year 2004, the Secretary of the Treasury may adjust (not more than once per fiscal year) the amount described in subparagraph (A)(ii) to an amount that is not less than $.35 and not more than $1.00 per individual airway bill or bill of lading (subject to adjustment under subsection (l)). The Secretary shall provide notice in the Federal Register of a proposed adjustment under the preceding sentence and the reasons therefor and shall allow for public comment on the proposed adjustment.
 
 (ii) Notwithstanding section 1451 of this title, the payment required by subparagraph (A)(ii)(I) or (II) shall be the only payment required for reimbursement of the Customs Service in connection with the processing of an individual airway bill or bill of lading in accordance with such subparagraph and for providing services at express consignment carrier facilities or centralized hub facilities, except that the Customs Service may require such facilities to cover expenses of the Customs Service for adequate office space, equipment, furnishings, supplies, and security.
 
@@ -438,7 +438,25 @@ Except with respect to customs services for which fees are imposed under subsect
 
 The Commissioner of Customs shall establish an advisory committee whose membership shall consist of representatives from the airline, cruise ship, and other transportation industries who may be subject to fees under subsection (a). The advisory committee shall not be subject to termination under section 14 of the Federal Advisory Committee Act. The advisory committee shall meet on a periodic basis and shall advise the Commissioner on issues related to the performance of the inspectional services of the United States Customs Service. Such advice shall include, but not be limited to, such issues as the time periods during which such services should be performed, the proper number and deployment of inspection officers, the level of fees, and the appropriateness of any proposed fee. The Commissioner shall give consideration to the views of the advisory committee in the exercise of his or her duties.
 
-(Pub. L. 99–272, title XIII, §13031, Apr. 7, 1986, 100 Stat. 308; Pub. L. 99–509, title VIII, §8101, Oct. 21, 1986, 100 Stat. 1965; Pub. L. 99–514, §2, title XVIII, §1893(a)–(c)(1), (d), (e), Oct. 22, 1986, 100 Stat. 2095, 2927–2930; Pub. L. 100–203, title IX, §9501(a), Dec. 22, 1987, 101 Stat. 1330–377; Pub. L. 100–418, title I, §1214(g), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 100–449, title II, §203, Sept. 28, 1988, 102 Stat. 1861; Pub. L. 100–647, title IX, §9001(a)(13), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 101–207, §3(c)(1), (f)(2), Dec. 7, 1989, 103 Stat. 1834, 1835; Pub. L. 101–382, title I, §§111(a)–(e), 139(c), Aug. 20, 1990, 104 Stat. 635–639, 654; Pub. L. 101–508, title X, §10001(a), (b), (e), (f), Nov. 5, 1990, 104 Stat. 1388–385 to 1388–387; Pub. L. 103–66, title XIII, §§13801, 13813, Aug. 10, 1993, 107 Stat. 667, 671; Pub. L. 103–182, title II, §204, title V, §521(a), title VI, §682, Dec. 8, 1993, 107 Stat. 2092, 2160, 2218; Pub. L. 103–465, title VI, §§611(a), 612(a), Dec. 8, 1994, 108 Stat. 4991, 4992; Pub. L. 104–295, §§4(a), 6, 21(a)(1), 38(a)–(c), Oct. 11, 1996, 110 Stat. 3516, 3517, 3529, 3539, 3540; Pub. L. 105–150, §1(a), Dec. 16, 1997, 111 Stat. 2685; Pub. L. 106–36, title I, §1001(b)(1), title II, §2418(a)–(d), June 25, 1999, 113 Stat. 131, 176, 177; Pub. L. 106–476, title I, §1457, Nov. 9, 2000, 114 Stat. 2170; Pub. L. 107–210, div. A, title III, §337(a), Aug. 6, 2002, 116 Stat. 978; Pub. L. 107–296, title IV, §419(a), Nov. 25, 2002, 116 Stat. 2181; Pub. L. 108–77, title II, §204, Sept. 3, 2003, 117 Stat. 930; Pub. L. 108–78, title II, §203, Sept. 3, 2003, 117 Stat. 961; Pub. L. 108–89, title III, §301, Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–121, title II, §201, Nov. 11, 2003, 117 Stat. 1343; Pub. L. 108–286, title II, §204, Aug. 3, 2004, 118 Stat. 939; Pub. L. 108–357, title VIII, §892(a), (b), (c)(2), (d), Oct. 22, 2004, 118 Stat. 1644–1646; Pub. L. 108–429, title II, §2004(f), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–53, title II, §204, Aug. 2, 2005, 119 Stat. 483; Pub. L. 109–169, title II, §203, Jan. 11, 2006, 119 Stat. 3591; Pub. L. 109–280, title XIV, §1635(f)(5), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 109–283, title II, §203, Sept. 26, 2006, 120 Stat. 1201; Pub. L. 110–42, §3, June 30, 2007, 121 Stat. 236; Pub. L. 110–52, §2, Aug. 1, 2007, 121 Stat. 264; Pub. L. 110–89, §2(b), Sept. 28, 2007, 121 Stat. 982; Pub. L. 110–138, title II, §204, title VI, §601, Dec. 14, 2007, 121 Stat. 1475, 1489; Pub. L. 110–191, §3, Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–234, title XV, §15201(a), (b), May 22, 2008, 122 Stat. 1500; Pub. L. 110–246, §4(a), title XV, §15201(a), (b), June 18, 2008, 122 Stat. 1664, 2262; Pub. L. 110–287, §2, July 29, 2008, 122 Stat. 2649; Pub. L. 110–436, §5(a), Oct. 16, 2008, 122 Stat. 4981; Pub. L. 111–42, title I, §103, July 28, 2009, 123 Stat. 1963; Pub. L. 111–124, §3, Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–171, §11, May 24, 2010, 124 Stat. 1207; Pub. L. 111–210, §2, July 27, 2010, 124 Stat. 2256; Pub. L. 111–227, title IV, §4001(a), (b)(1), Aug. 11, 2010, 124 Stat. 2480; Pub. L. 111–291, title VIII, §821, Dec. 8, 2010, 124 Stat. 3163; Pub. L. 111–344, title III, §301, Dec. 29, 2010, 124 Stat. 3617; Pub. L. 112–41, title II, §203, title V, §504, Oct. 21, 2011, 125 Stat. 447, 460; Pub. L. 112–42, title II, §204, title VI, §§601(a), 602, Oct. 21, 2011, 125 Stat. 483, 495, 496; Pub. L. 112–43, title II, §204, title V, §501, Oct. 21, 2011, 125 Stat. 518, 530; Pub. L. 112–163, §5, Aug. 10, 2012, 126 Stat. 1277; Pub. L. 113–67, div. A, title VII, §701, Dec. 26, 2013, 127 Stat. 1189; Pub. L. 113–159, title II, §2004, Aug. 8, 2014, 128 Stat. 1851; Pub. L. 113–188, title X, §1001(c), Nov. 26, 2014, 128 Stat. 2022; Pub. L. 114–27, title VIII, §§801(a), 802(a), June 29, 2015, 129 Stat. 414.)
+#### (l) Adjustment of fees for inflation ####
+
+#### (1) In general ####
+
+The Secretary of the Treasury shall adjust the fees established under subsection (a), and the limitations on such fees under paragraphs (2), (3), (5), (6), (8), and (9) of subsection (b), on April 1, 2016, and at the beginning of each fiscal year thereafter, to reflect the percentage (if any) of the increase in the average of the Consumer Price Index for the preceding 12-month period compared to the Consumer Price Index for fiscal year 2014.
+
+#### (2) Special rules for calculation of adjustment ####
+
+In adjusting under paragraph (1) the amount of the fees established under subsection (a), and the limitations on such fees under paragraphs (2), (3), (5), (6), (8), and (9) of subsection (b), the Secretary—
+
+(A) shall round the amount of any increase in the Consumer Price Index to the nearest dollar; and
+
+(B) may ignore any such increase of less than 1 percent.
+
+#### (3) Consumer price index defined ####
+
+For purposes of this subsection, the term "Consumer Price Index" means the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
+
+(Pub. L. 99–272, title XIII, §13031, Apr. 7, 1986, 100 Stat. 308; Pub. L. 99–509, title VIII, §8101, Oct. 21, 1986, 100 Stat. 1965; Pub. L. 99–514, §2, title XVIII, §1893(a)–(c)(1), (d), (e), Oct. 22, 1986, 100 Stat. 2095, 2927–2930; Pub. L. 100–203, title IX, §9501(a), Dec. 22, 1987, 101 Stat. 1330–377; Pub. L. 100–418, title I, §1214(g), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 100–449, title II, §203, Sept. 28, 1988, 102 Stat. 1861; Pub. L. 100–647, title IX, §9001(a)(13), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 101–207, §3(c)(1), (f)(2), Dec. 7, 1989, 103 Stat. 1834, 1835; Pub. L. 101–382, title I, §§111(a)–(e), 139(c), Aug. 20, 1990, 104 Stat. 635–639, 654; Pub. L. 101–508, title X, §10001(a), (b), (e), (f), Nov. 5, 1990, 104 Stat. 1388–385 to 1388–387; Pub. L. 103–66, title XIII, §§13801, 13813, Aug. 10, 1993, 107 Stat. 667, 671; Pub. L. 103–182, title II, §204, title V, §521(a), title VI, §682, Dec. 8, 1993, 107 Stat. 2092, 2160, 2218; Pub. L. 103–465, title VI, §§611(a), 612(a), Dec. 8, 1994, 108 Stat. 4991, 4992; Pub. L. 104–295, §§4(a), 6, 21(a)(1), 38(a)–(c), Oct. 11, 1996, 110 Stat. 3516, 3517, 3529, 3539, 3540; Pub. L. 105–150, §1(a), Dec. 16, 1997, 111 Stat. 2685; Pub. L. 106–36, title I, §1001(b)(1), title II, §2418(a)–(d), June 25, 1999, 113 Stat. 131, 176, 177; Pub. L. 106–476, title I, §1457, Nov. 9, 2000, 114 Stat. 2170; Pub. L. 107–210, div. A, title III, §337(a), Aug. 6, 2002, 116 Stat. 978; Pub. L. 107–296, title IV, §419(a), Nov. 25, 2002, 116 Stat. 2181; Pub. L. 108–77, title II, §204, Sept. 3, 2003, 117 Stat. 930; Pub. L. 108–78, title II, §203, Sept. 3, 2003, 117 Stat. 961; Pub. L. 108–89, title III, §301, Oct. 1, 2003, 117 Stat. 1134; Pub. L. 108–121, title II, §201, Nov. 11, 2003, 117 Stat. 1343; Pub. L. 108–286, title II, §204, Aug. 3, 2004, 118 Stat. 939; Pub. L. 108–357, title VIII, §892(a), (b), (c)(2), (d), Oct. 22, 2004, 118 Stat. 1644–1646; Pub. L. 108–429, title II, §2004(f), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–53, title II, §204, Aug. 2, 2005, 119 Stat. 483; Pub. L. 109–169, title II, §203, Jan. 11, 2006, 119 Stat. 3591; Pub. L. 109–280, title XIV, §1635(f)(5), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 109–283, title II, §203, Sept. 26, 2006, 120 Stat. 1201; Pub. L. 110–42, §3, June 30, 2007, 121 Stat. 236; Pub. L. 110–52, §2, Aug. 1, 2007, 121 Stat. 264; Pub. L. 110–89, §2(b), Sept. 28, 2007, 121 Stat. 982; Pub. L. 110–138, title II, §204, title VI, §601, Dec. 14, 2007, 121 Stat. 1475, 1489; Pub. L. 110–191, §3, Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–234, title XV, §15201(a), (b), May 22, 2008, 122 Stat. 1500; Pub. L. 110–246, §4(a), title XV, §15201(a), (b), June 18, 2008, 122 Stat. 1664, 2262; Pub. L. 110–287, §2, July 29, 2008, 122 Stat. 2649; Pub. L. 110–436, §5(a), Oct. 16, 2008, 122 Stat. 4981; Pub. L. 111–42, title I, §103, July 28, 2009, 123 Stat. 1963; Pub. L. 111–124, §3, Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–171, §11, May 24, 2010, 124 Stat. 1207; Pub. L. 111–210, §2, July 27, 2010, 124 Stat. 2256; Pub. L. 111–227, title IV, §4001(a), (b)(1), Aug. 11, 2010, 124 Stat. 2480; Pub. L. 111–291, title VIII, §821, Dec. 8, 2010, 124 Stat. 3163; Pub. L. 111–344, title III, §301, Dec. 29, 2010, 124 Stat. 3617; Pub. L. 112–41, title II, §203, title V, §504, Oct. 21, 2011, 125 Stat. 447, 460; Pub. L. 112–42, title II, §204, title VI, §§601(a), 602, Oct. 21, 2011, 125 Stat. 483, 495, 496; Pub. L. 112–43, title II, §204, title V, §501, Oct. 21, 2011, 125 Stat. 518, 530; Pub. L. 112–163, §5, Aug. 10, 2012, 126 Stat. 1277; Pub. L. 113–67, div. A, title VII, §701, Dec. 26, 2013, 127 Stat. 1189; Pub. L. 113–159, title II, §2004, Aug. 8, 2014, 128 Stat. 1851; Pub. L. 113–188, title X, §1001(c), Nov. 26, 2014, 128 Stat. 2022; Pub. L. 114–27, title VIII, §§801(a), 802(a), June 29, 2015, 129 Stat. 414; Pub. L. 114–94, div. C, title XXXII, §32201(a), (c), Dec. 4, 2015, 129 Stat. 1738.)
 
 #### Amendment of Section ####
 
@@ -510,11 +528,33 @@ Section is comprised of section 13031 of Pub. L. 99–272. Subsec. (h) of sectio
 
 #### Amendments ####
 
-**2015**—Subsec. (j)(3)(A). Pub. L. 114–27, §801(a), substituted "July 7, 2025" for "September 30, 2024".
+**2015**—Subsec. (a). Pub. L. 114–94, §32201(c)(1), inserted "(subject to adjustment under subsection (l))" after "following fees" in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 114–94, §32201(c)(2)(A), inserted "(subject to adjustment under subsection (l))" after "in fees".
+
+Subsec. (b)(3). Pub. L. 114–94, §32201(c)(2)(B), inserted "(subject to adjustment under subsection (l))" after "in fees".
+
+Subsec. (b)(5)(A). Pub. L. 114–94, §32201(c)(2)(C), inserted "(subject to adjustment under subsection (l))" after "in fees".
+
+Subsec. (b)(6). Pub. L. 114–94, §32201(c)(2)(D), inserted "(subject to adjustment under subsection (l))" after "in fees".
+
+Subsec. (b)(8)(A)(i). Pub. L. 114–94, §32201(c)(2)(E)(i), inserted "or (l)" after "subsection (a)(9)(B)".
+
+Subsec. (b)(8)(A)(ii). Pub. L. 114–94, §32201(c)(2)(E)(ii), inserted "(subject to adjustment under subsection (l))" after "$3".
+
+Subsec. (b)(9)(A). Pub. L. 114–94, §32201(c)(2)(F)(i)(I), inserted "and subject to adjustment under subsection (l)" after "section 1498 of this title" in introductory provisions.
+
+Subsec. (b)(9)(A)(ii)(I). Pub. L. 114–94, §32201(c)(2)(F)(i)(II), inserted "(subject to adjustment under subsection (l))" after "bill of lading".
+
+Subsec. (b)(9)(B)(i). Pub. L. 114–94, §32201(c)(2)(F)(ii), inserted "(subject to adjustment under subsection (l))" after "bill of lading".
+
+Subsec. (j)(3)(A). Pub. L. 114–27, §801(a), substituted "July 7, 2025" for "September 30, 2024".
 
 Subsec. (j)(3)(B)(i). Pub. L. 114–27, §802(a)(1), substituted "September 30, 2025" for "September 30, 2024".
 
 Subsec. (j)(3)(D). Pub. L. 114–27, §802(a)(2), added subpar. (D).
+
+Subsec. (l). Pub. L. 114–94, §32201(a), added subsec. (l).
 
 **2014**—Subsec. (a)(9)(C), (D). Pub. L. 113–188, §1001(c)(1)(A), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: "If for any fiscal year, the Secretary of the Treasury determines not to make an adjustment under subparagraph (B), the Secretary shall, within the time prescribed under subparagraph (B)(iii)(I), submit a written report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives detailing the reasons for maintaining the current fee and the methodology used for computing such fee."
 
@@ -1145,6 +1185,10 @@ Pub. L. 103–182, title II, §212, Dec. 8, 1993, 107 Stat. 2099, provided that:
 #### Transfer of Functions ####
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Use of Fees ####
+
+Pub. L. 114–94, div. C, title XXXII, §32201(b), Dec. 4, 2015, 129 Stat. 1738, provided that: "The fees collected as a result of the amendments made by this section [amending this section] shall be deposited in the Customs User Fee Account, shall be available for reimbursement of customs services and inspections costs, and shall be available only to the extent provided in appropriations Acts."
 
 #### Rates for Merchandise Processing Fees ####
 

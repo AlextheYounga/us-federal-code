@@ -16,6 +16,12 @@ Sec.
 
 635a–4. Guarantees for export accounts receivable and inventory.
 
+635a–5. Negotiations to end export credit financing.
+
+635a–6. Periodic audits of bank transactions.
+
+635a–7. Independent audit of bank portfolio.
+
 635b. Capitalization of Bank; method of capital stock payments; public-debt transactions; issuance of stock certificates.
 
 635c. Repealed.

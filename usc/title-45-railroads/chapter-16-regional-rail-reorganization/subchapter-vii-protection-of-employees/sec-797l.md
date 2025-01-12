@@ -14,4 +14,4 @@ A prior section 797l, Pub. L. 93–236, title VII, §713, as added Pub. L. 97–
 
 #### Effective Date ####
 
-Section effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as a note under section 701 of Title 49, Transportation.
+Section effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of Title 49, Transportation.

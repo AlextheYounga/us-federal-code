@@ -440,19 +440,15 @@ Subject to section 12 of this title, and upon request, the Commission shall shar
 
 (iii) foreign ministries.
 
-#### (5) Confidentiality and indemnification agreement ####
+#### (5) Confidentiality agreement ####
 
-Before the Commission may share information with any entity described in paragraph (4)—
-
-(A) the Commission shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 12 of this title relating to the information on swap transactions that is provided; and
-
-(B) each entity shall agree to indemnify the Commission for any expenses arising from litigation relating to the information provided under section 12 of this title.
+Before the Commission may share information with any entity described in paragraph (4), the Commission shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 12 of this title relating to the information on swap transactions that is provided.
 
 #### (6) Public information ####
 
 Each derivatives clearing organization that clears swaps shall provide to the Commission (including any designee of the Commission) information under paragraph (2) in such form and at such frequency as is required by the Commission to comply with the public reporting requirements contained in section 2(a)(13) of this title.
 
-(Sept. 21, 1922, ch. 369, §5b, as added Pub. L. 106–554, §1(a)(5) [title I, §112(f)], Dec. 21, 2000, 114 Stat. 2763, 2763A–396; amended Pub. L. 111–203, title VII, §§721(e)(6), 725(a)–(c), (e), (h), July 21, 2010, 124 Stat. 1671, 1685–1687, 1693, 1695.)
+(Sept. 21, 1922, ch. 369, §5b, as added Pub. L. 106–554, §1(a)(5) [title I, §112(f)], Dec. 21, 2000, 114 Stat. 2763, 2763A–396; amended Pub. L. 111–203, title VII, §§721(e)(6), 725(a)–(c), (e), (h), July 21, 2010, 124 Stat. 1671, 1685–1687, 1693, 1695; Pub. L. 114–94, div. G, title LXXXVI, §86001(a), Dec. 4, 2015, 129 Stat. 1797.)
 
 #### References in Text ####
 
@@ -463,6 +459,12 @@ The Securities Exchange Act of 1934, referred to in subsecs. (a)(1)(A)(ii) and (
 A prior section 5b of act Sept. 21, 1922, was renumbered section 5e, and is classified to section 7b of this title.
 
 #### Amendments ####
+
+**2015**—Subsec. (k)(5). Pub. L. 114–94 amended par. (5) generally. Prior to amendment, text read as follows: "Before the Commission may share information with any entity described in paragraph (4)—
+
+"(A) the Commission shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 12 of this title relating to the information on swap transactions that is provided; and
+
+"(B) each entity shall agree to indemnify the Commission for any expenses arising from litigation relating to the information provided under section 12 of this title."
 
 **2010**—Subsec. (a). Pub. L. 111–203, §725(a), added subsec. (a) and struck out former subsec. (a) which related to registration requirement of derivatives clearing organizations.
 
@@ -477,6 +479,10 @@ Subsec. (f)(1). Pub. L. 111–203, §725(h), inserted at end "In order to minimi
 Subsecs. (g) to (i). Pub. L. 111–203, §725(b), added subsecs. (g) to (i).
 
 Subsec. (k). Pub. L. 111–203, §725(e), added subsec. (k).
+
+#### Effective Date of 2015 Amendment ####
+
+Pub. L. 114–94, div. G, title LXXXVI, §86001(d), Dec. 4, 2015, 129 Stat. 1798, provided that: "The amendments made by this section [amending this section, section 24a of this title, and section 78m of Title 15, Commerce and Trade] shall take effect as if enacted as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203)."
 
 #### Effective Date of 2010 Amendment ####
 

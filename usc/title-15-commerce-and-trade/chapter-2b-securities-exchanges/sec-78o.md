@@ -188,7 +188,7 @@ The Commission, by rule, may prescribe reasonable fees and charges to defray its
 
 #### (1) In general ####
 
-Each issuer which has filed a registration statement containing an undertaking which is or becomes operative under this subsection as in effect prior to August 20, 1964, and each issuer which shall after such date file a registration statement which has become effective pursuant to the Securities Act of 1933, as amended [15 U.S.C. 77a et seq.], shall file with the Commission, in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors, such supplementary and periodic information, documents, and reports as may be required pursuant to section 78m of this title in respect of a security registered pursuant to section 78l of this title. The duty to file under this subsection shall be automatically suspended if and so long as any issue of securities of such issuer is registered pursuant to section 78l of this title. The duty to file under this subsection shall also be automatically suspended as to any fiscal year, other than the fiscal year within which such registration statement became effective, if, at the beginning of such fiscal year, the securities of each class, other than any class of asset-backed securities, to which the registration statement relates are held of record by less than 300 persons, or, in the case of bank <sup><a href="#78o_4_target" name="78o_4">4</a></sup> or a bank holding company, as such term is defined in section 1841 of title 12, 1,200 persons persons.<sup><a href="#78o_1_target" name="78o_1">1</a></sup> For the purposes of this subsection, the term "class" shall be construed to include all securities of an issuer which are of substantially similar character and the holders of which enjoy substantially similar rights and privileges. The Commission may, for the purpose of this subsection, define by rules and regulations the term "held of record" as it deems necessary or appropriate in the public interest or for the protection of investors in order to prevent circumvention of the provisions of this subsection. Nothing in this subsection shall apply to securities issued by a foreign government or political subdivision thereof.
+Each issuer which has filed a registration statement containing an undertaking which is or becomes operative under this subsection as in effect prior to August 20, 1964, and each issuer which shall after such date file a registration statement which has become effective pursuant to the Securities Act of 1933, as amended [15 U.S.C. 77a et seq.], shall file with the Commission, in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors, such supplementary and periodic information, documents, and reports as may be required pursuant to section 78m of this title in respect of a security registered pursuant to section 78l of this title. The duty to file under this subsection shall be automatically suspended if and so long as any issue of securities of such issuer is registered pursuant to section 78l of this title. The duty to file under this subsection shall also be automatically suspended as to any fiscal year, other than the fiscal year within which such registration statement became effective, if, at the beginning of such fiscal year, the securities of each class, other than any class of asset-backed securities, to which the registration statement relates are held of record by less than 300 persons, or, in the case of a bank, a savings and loan holding company (as defined in section 1467a of title 12), or a bank holding company, as such term is defined in section 1841 of title 12, 1,200 persons persons.<sup><a href="#78o_1_target" name="78o_1">1</a></sup> For the purposes of this subsection, the term "class" shall be construed to include all securities of an issuer which are of substantially similar character and the holders of which enjoy substantially similar rights and privileges. The Commission may, for the purpose of this subsection, define by rules and regulations the term "held of record" as it deems necessary or appropriate in the public interest or for the protection of investors in order to prevent circumvention of the provisions of this subsection. Nothing in this subsection shall apply to securities issued by a foreign government or political subdivision thereof.
 
 #### (2) Asset-backed securities ####
 
@@ -326,7 +326,7 @@ For purposes of subparagraph (A)(i)(II)—
 
 (ii) if the customer is present in another State for 30 or more consecutive days or has permanently changed his or her residence to another State, a transaction is not described in this paragraph, unless the associated person of the broker or dealer files an application for registration with such State not later than 10 business days after the later of the date of the transaction, or the date of the discovery of the presence of the customer in the other State for 30 or more consecutive days or the change in the customer's residence.
 
-#### (j) <sup><a href="#78o_5_target" name="78o_5">5</a></sup> Rulemaking to extend requirements to new hybrid products ####
+#### (j) <sup><a href="#78o_4_target" name="78o_4">4</a></sup> Rulemaking to extend requirements to new hybrid products ####
 
 #### (1) Consultation ####
 
@@ -408,19 +408,19 @@ The term "new hybrid product" means a product that—
 
 The term "Board" means the Board of Governors of the Federal Reserve System.
 
-#### (j) <sup><a href="#78o_5_target" name="78o_5">5</a></sup> Limitation on Commission authority ####
+#### (j) <sup><a href="#78o_4_target" name="78o_4">4</a></sup> Limitation on Commission authority ####
 
 The authority of the Commission under this section with respect to security-based swap agreements shall be subject to the restrictions and limitations of section 78c–1(b) of this title.
 
-#### (k) <sup><a href="#78o_6_target" name="78o_6">6</a></sup> Registration or succession to a United States broker or dealer ####
+#### (k) <sup><a href="#78o_5_target" name="78o_5">5</a></sup> Registration or succession to a United States broker or dealer ####
 
 In determining whether to permit a foreign person or an affiliate of a foreign person to register as a United States broker or dealer, or succeed to the registration of a United States broker or dealer, the Commission may consider whether, for a foreign person, or an affiliate of a foreign person that presents a risk to the stability of the United States financial system, the home country of the foreign person has adopted, or made demonstrable progress toward adopting, an appropriate system of financial regulation to mitigate such risk.
 
-#### (l) <sup><a href="#78o_7_target" name="78o_7">7</a></sup> Termination of a United States broker or dealer ####
+#### (l) <sup><a href="#78o_6_target" name="78o_6">6</a></sup> Termination of a United States broker or dealer ####
 
 For a foreign person or an affiliate of a foreign person that presents such a risk to the stability of the United States financial system, the Commission may determine to terminate the registration of such foreign person or an affiliate of such foreign person as a broker or dealer in the United States, if the Commission determines that the home country of the foreign person has not adopted, or made demonstrable progress toward adopting, an appropriate system of financial regulation to mitigate such risk.
 
-#### (k) <sup><a href="#78o_8_target" name="78o_8">8</a></sup> Standard of conduct ####
+#### (k) <sup><a href="#78o_7_target" name="78o_7">7</a></sup> Standard of conduct ####
 
 #### (1) In general ####
 
@@ -430,7 +430,7 @@ Notwithstanding any other provision of this chapter or the Investment Advisers A
 
 Where a broker or dealer sells only proprietary or other limited range of products, as determined by the Commission, the Commission may by rule require that such broker or dealer provide notice to each retail customer and obtain the consent or acknowledgment of the customer. The sale of only proprietary or other limited range of products by a broker or dealer shall not, in and of itself, be considered a violation of the standard set forth in paragraph (1).
 
-#### (l) <sup><a href="#78o_9_target" name="78o_9">9</a></sup> Other matters ####
+#### (l) <sup><a href="#78o_8_target" name="78o_8">8</a></sup> Other matters ####
 
 The Commission shall—
 
@@ -446,7 +446,7 @@ The enforcement authority of the Commission with respect to violations of the st
 
 (2) the enforcement authority of the Commission with respect to violations of the standard of conduct applicable to an investment adviser under the Investment Advisers Act of 1940 [15 U.S.C. 80b–1 et seq.], including the authority to impose sanctions for such violations, and
 
-the Commission shall seek to prosecute and sanction violators of the standard of conduct applicable to a broker or dealer providing personalized investment advice about securities to a retail customer under this chapter to <sup><a href="#78o_10_target" name="78o_10">10</a></sup> same extent as the Commission prosecutes and sanctions violators of the standard of conduct applicable to an investment advisor under the Investment Advisers Act of 1940 [15 U.S.C. 80b–1 et seq.].
+the Commission shall seek to prosecute and sanction violators of the standard of conduct applicable to a broker or dealer providing personalized investment advice about securities to a retail customer under this chapter to <sup><a href="#78o_9_target" name="78o_9">9</a></sup> same extent as the Commission prosecutes and sanctions violators of the standard of conduct applicable to an investment advisor under the Investment Advisers Act of 1940 [15 U.S.C. 80b–1 et seq.].
 
 #### (n) Disclosures to retail investors ####
 
@@ -474,7 +474,7 @@ Any documents or information designated under a rule promulgated under paragraph
 
 The Commission, by rule, may prohibit, or impose conditions or limitations on the use of, agreements that require customers or clients of any broker, dealer, or municipal securities dealer to arbitrate any future dispute between them arising under the Federal securities laws, the rules and regulations thereunder, or the rules of a self-regulatory organization if it finds that such prohibition, imposition of conditions, or limitations are in the public interest and for the protection of investors.
 
-(June 6, 1934, ch. 404, title I, §15, 48 Stat. 895; May 27, 1936, ch. 462, §3, 49 Stat. 1377; June 25, 1938, ch. 677, §2, 52 Stat. 1075; Pub. L. 88–467, §6, Aug. 20, 1964, 78 Stat. 570; Pub. L. 91–598, §11(d), formerly §7(d), Dec. 30, 1970, 84 Stat. 1653, renumbered §11(d), Pub. L. 95–283, §9, May 21, 1978, 92 Stat. 260; Pub. L. 94–29, §11, June 4, 1975, 89 Stat. 121; Pub. L. 95–213, title II, §204, Dec. 19, 1977, 91 Stat. 1500; Pub. L. 98–38, §3(a), June 6, 1983, 97 Stat. 206; Pub. L. 98–376, §§4, 6(b), Aug. 10, 1984, 98 Stat. 1265; Pub. L. 99–571, title I, §102(e), (f), Oct. 28, 1986, 100 Stat. 3218; Pub. L. 100–181, title III, §317, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–704, §3(b)(1), Nov. 19, 1988, 102 Stat. 4679; Pub. L. 101–429, title V, §§504(a), 505, Oct. 15, 1990, 104 Stat. 952, 953; Pub. L. 101–550, title II, §203(a), (c)(1), Nov. 15, 1990, 104 Stat. 2715, 2718; Pub. L. 103–202, title I, §§105, 106(b)(2)(B), 109(b)(2), 110, Dec. 17, 1993, 107 Stat. 2348, 2350, 2353; Pub. L. 104–67, title I, §103(a), Dec. 22, 1995, 109 Stat. 756; Pub. L. 104–290, title I, §103(a), Oct. 11, 1996, 110 Stat. 3420; Pub. L. 105–353, title III, §301(b)(8), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §205, Nov. 12, 1999, 113 Stat. 1391; Pub. L. 106–554, §1(a)(5) [title II, §§203(a)(1), (b), 206(h), title III, §303(e), (f)], Dec. 21, 2000, 114 Stat. 2763, 2763A–421, 2763A–422, 2763A–432, 2763A–454, 2763A–455; Pub. L. 107–204, title VI, §604(a), (c)(1)(B)(ii), July 30, 2002, 116 Stat. 795, 796; Pub. L. 109–291, §4(b)(1)(A), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title I, §173(c), title VII, §§713(a), 762(d)(4), 766(d), title IX, §§913(g)(1), (h)(1), 919, 921(a), 925(a)(1), 929L(3), 929X(c), 942(a), 975(g), 985(b)(5)(A), July 21, 2010, 124 Stat. 1440, 1646, 1761, 1799, 1828, 1829, 1837, 1841, 1850, 1861, 1870, 1896, 1923, 1933; Pub. L. 112–106, title III, §305(d)(1), title VI, §601(b), Apr. 5, 2012, 126 Stat. 323, 326.)
+(June 6, 1934, ch. 404, title I, §15, 48 Stat. 895; May 27, 1936, ch. 462, §3, 49 Stat. 1377; June 25, 1938, ch. 677, §2, 52 Stat. 1075; Pub. L. 88–467, §6, Aug. 20, 1964, 78 Stat. 570; Pub. L. 91–598, §11(d), formerly §7(d), Dec. 30, 1970, 84 Stat. 1653, renumbered §11(d), Pub. L. 95–283, §9, May 21, 1978, 92 Stat. 260; Pub. L. 94–29, §11, June 4, 1975, 89 Stat. 121; Pub. L. 95–213, title II, §204, Dec. 19, 1977, 91 Stat. 1500; Pub. L. 98–38, §3(a), June 6, 1983, 97 Stat. 206; Pub. L. 98–376, §§4, 6(b), Aug. 10, 1984, 98 Stat. 1265; Pub. L. 99–571, title I, §102(e), (f), Oct. 28, 1986, 100 Stat. 3218; Pub. L. 100–181, title III, §317, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–704, §3(b)(1), Nov. 19, 1988, 102 Stat. 4679; Pub. L. 101–429, title V, §§504(a), 505, Oct. 15, 1990, 104 Stat. 952, 953; Pub. L. 101–550, title II, §203(a), (c)(1), Nov. 15, 1990, 104 Stat. 2715, 2718; Pub. L. 103–202, title I, §§105, 106(b)(2)(B), 109(b)(2), 110, Dec. 17, 1993, 107 Stat. 2348, 2350, 2353; Pub. L. 104–67, title I, §103(a), Dec. 22, 1995, 109 Stat. 756; Pub. L. 104–290, title I, §103(a), Oct. 11, 1996, 110 Stat. 3420; Pub. L. 105–353, title III, §301(b)(8), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–102, title II, §205, Nov. 12, 1999, 113 Stat. 1391; Pub. L. 106–554, §1(a)(5) [title II, §§203(a)(1), (b), 206(h), title III, §303(e), (f)], Dec. 21, 2000, 114 Stat. 2763, 2763A–421, 2763A–422, 2763A–432, 2763A–454, 2763A–455; Pub. L. 107–204, title VI, §604(a), (c)(1)(B)(ii), July 30, 2002, 116 Stat. 795, 796; Pub. L. 109–291, §4(b)(1)(A), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title I, §173(c), title VII, §§713(a), 762(d)(4), 766(d), title IX, §§913(g)(1), (h)(1), 919, 921(a), 925(a)(1), 929L(3), 929X(c), 942(a), 975(g), 985(b)(5)(A), July 21, 2010, 124 Stat. 1440, 1646, 1761, 1799, 1828, 1829, 1837, 1841, 1850, 1861, 1870, 1896, 1923, 1933; Pub. L. 112–106, title III, §305(d)(1), title VI, §601(b), Apr. 5, 2012, 126 Stat. 323, 326; Pub. L. 114–94, div. G, title LXXXV, §85001(2), Dec. 4, 2015, 129 Stat. 1797.)
 
 #### Amendment of Section ####
 
@@ -497,6 +497,8 @@ Subsection (i) of section 78q of this title, referred to in subsec. (b)(11)(B)(v
 Section 206 of the Gramm-Leach-Bliley Act, referred to in subsec. (j)(6)(A)(ii), (iii), is section 206 of Pub. L. 106–102, which is set out as a note under section 78c of this title.
 
 #### Amendments ####
+
+**2015**—Subsec. (d). Pub. L. 114–94 substituted "case of a bank, a savings and loan holding company (as defined in section 1467a of title 12)," for "case of bank".
 
 **2012**—Subsec. (d)(1). Pub. L. 112–106, §601(b), substituted "300 persons, or, in the case of bank or a bank holding company, as such term is defined in section 1841 of title 12, 1,200 persons" for "three hundred".
 
@@ -890,16 +892,14 @@ Pub. L. 101–429, title V, §504(b), Oct. 15, 1990, 104 Stat. 953, provided tha
 
 [<sup>3</sup> See References in Text note below.](#78o_3)
 
-[<sup>4</sup> So in original. Probably should be preceded by "a".](#78o_4)
+[<sup>4</sup> So in original. There are two subsecs. designated (j).](#78o_4)
 
-[<sup>5</sup> So in original. There are two subsecs. designated (j).](#78o_5)
+[<sup>5</sup> Another subsec. (k) is set out after the first subsec. (*l*).](#78o_5)
 
-[<sup>6</sup> Another subsec. (k) is set out after the first subsec. (*l*).](#78o_6)
+[<sup>6</sup> Another subsec. (*l*) is set out after the second subsec. (k).](#78o_6)
 
-[<sup>7</sup> Another subsec. (*l*) is set out after the second subsec. (k).](#78o_7)
+[<sup>7</sup> Another subsec. (k) is set out after the second subsec. (j).](#78o_7)
 
-[<sup>8</sup> Another subsec. (k) is set out after the second subsec. (j).](#78o_8)
+[<sup>8</sup> Another subsec. (*l*) is set out after the first subsec. (k).](#78o_8)
 
-[<sup>9</sup> Another subsec. (*l*) is set out after the first subsec. (k).](#78o_9)
-
-[<sup>10</sup> So in original. Probably should be followed by "the".](#78o_10)
+[<sup>9</sup> So in original. Probably should be followed by "the".](#78o_9)

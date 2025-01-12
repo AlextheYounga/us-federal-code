@@ -8,7 +8,7 @@ Sec.
 
 403. Highway safety research and development.
 
-404. National Highway Safety Advisory Committee.
+404. High-visibility enforcement program.
 
 405. National priority safety programs.
 
@@ -21,6 +21,8 @@ Sec.
 412. Agency accountability.
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–94, div. A, title IV, §4004(b), Dec. 4, 2015, 129 Stat. 1501, substituted "High-visibility enforcement program" for "National Highway Safety Advisory Committee" in item 404.
 
 **2012**—Pub. L. 112–141, div. C, title I, §§31105(b), 31109(b)–(f), July 6, 2012, 126 Stat. 755–757, substituted "National priority safety programs" for "Occupant protection incentive grants" in item 405 and struck out items 406 "Safety belt performance grants", 407 "Innovative project grants", 408 "State traffic safety information system improvements", 410 "Alcohol-impaired driving countermeasures", and 411 "State highway safety data improvements".
 

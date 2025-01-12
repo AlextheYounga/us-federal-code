@@ -8,7 +8,7 @@ Sec.
 
 5502. Intermodal Transportation Advisory Board.
 
-5503. Office of Intermodalism.
+[5503. Repealed.]
 
 5504. Model intermodal transportation plans.
 
@@ -35,6 +35,8 @@ Sec.
 5568. Authorization of appropriations.
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–94, div. A, title VI, §6015(b), Dec. 4, 2015, 129 Stat. 1571, struck out item 5503 "Office of Intermodalism".
 
 **2012**—Pub. L. 112–141, div. E, title II, §§52009(b), 52010(b), July 6, 2012, 126 Stat. 887, added item 5505, struck out former item 5505 "National university transportation centers", and struck out item 5506 "University transportation research".
 

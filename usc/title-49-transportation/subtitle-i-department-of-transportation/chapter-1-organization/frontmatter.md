@@ -22,9 +22,7 @@ Sec.
 
 110. Saint Lawrence Seaway Development Corporation.
 
-[111. Repealed.]
-
-112. Office of the Assistant Secretary for Research and Technology of the Department of Transportation.
+[111, 112. Repealed.]
 
 113. Federal Motor Carrier Safety Administration.
 
@@ -32,7 +30,13 @@ Sec.
 
 115. Transportation Security Oversight Board.
 
+116. National Surface Transportation and Innovative Finance Bureau.
+
+117. Council on Credit and Finance.
+
 #### Amendments ####
+
+**2015**—Pub. L. 114–94, div. A, title VI, §6012(b), title IX, §§9001(b), 9002(b), Dec. 4, 2015, 129 Stat. 1570, 1618, 1619, added items 116 and 117 and struck out item 112 which had read "Research and Innovative Technology Administration" and was subsequently changed to "Office of the Assistant Secretary for Research and Technology of the Department of Transportation" on authority of title I of div. L of Pub. L. 113–76, set out in part as a note under former section 112 of this title.
 
 **2012**—Pub. L. 112–141, div. E, title II, §52011(c)(1), July 6, 2012, 126 Stat. 895, struck out item 111 "Bureau of Transportation Statistics".
 
@@ -47,7 +51,3 @@ Sec.
 **1992**—Pub. L. 102–508, title IV, §401(b), Oct. 24, 1992, 106 Stat. 3310, added item 112.
 
 **1991**—Pub. L. 102–240, title III, §3004(c)(3), title VI, §6006(c), Dec. 18, 1991, 105 Stat. 2088, 2174, substituted "Federal Transit Administration" for "Urban Mass Transportation Administration" in item 107 and added second item 110 and item 111.
-
-#### Change of Name ####
-
-"Office of the Assistant Secretary for Research and Technology of the Department of Transportation" substituted for "Research and Innovative Technology Administration" in item 112 on authority of title I of div. L of Pub. L. 113–76, set out in part as a note under section 112 of this title.

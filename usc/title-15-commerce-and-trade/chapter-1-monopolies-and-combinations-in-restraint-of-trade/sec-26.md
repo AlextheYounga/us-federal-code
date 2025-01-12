@@ -16,4 +16,4 @@ The antitrust laws, referred to in text, are defined in section 12 of this title
 
 #### Effective Date of 1995 Amendment ####
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.

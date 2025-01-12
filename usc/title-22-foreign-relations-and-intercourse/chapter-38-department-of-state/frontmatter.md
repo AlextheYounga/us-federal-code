@@ -194,6 +194,8 @@ Sec.
 
 2714. Denial of passports to certain convicted drug traffickers.
 
+2714a. Revocation or denial of passport in case of certain unpaid taxes.
+
 2715. Procedures regarding major disasters and incidents abroad affecting United States citizens.
 
 2715a. Provision of information on certain violent crimes abroad to victims and victims' families.

@@ -56,7 +56,7 @@ Pub. L. 97–34, §301(b)(5), inserted "or 128" after "section 116".
 
 Pub. L. 94–455, §1402(b)(1)(L), provided that "6 months" would be changed to "9 months" for taxable years beginning in 1977.
 
-Subsec. (a)(7) to (9). Pub. L. 94–455, §§1901(b)(1)(I)(i), 1906(b)(13)(A), redesignated pars. (8) and (9) as (7) and (8), respectively, and in par. (7), as so redesignated, struck out "or his delegate" after "Secretary". Former par. (7), which related partially tax-exempt interest on obligations of the United States or its instrumentalities, was struck out.
+Subsec. (a)(7) to (9). Pub. L. 94–455, §§1901(b)(1)(I)(i), 1906(b)(13)(A), redesignated pars. (8) and (9) as (7) and (8), respectively, and in par. (7), as so redesignated, struck out "or his delegate" after "Secretary". Former par. (7), which related to partially tax-exempt interest on obligations of the United States or its instrumentalities, was struck out.
 
 Subsec. (b). Pub. L. 94–455, §1901(b)(1)(I)(ii), substituted "paragraphs (1) through (7)" for "paragraphs (1) through (8)".
 

@@ -60,7 +60,11 @@ Sec.
 
 329. Eligibility for control of noxious weeds and aquatic noxious weeds and establishment of native species.
 
+330. Program for eliminating duplication of environmental reviews.
+
 #### Amendments ####
+
+**2015**—Pub. L. 114–94, div. A, title I, §1309(d), Dec. 4, 2015, 129 Stat. 1397, added item 330.
 
 **2012**—Pub. L. 112–141, div. A, title I, §1519(c)(1)(C), July 6, 2012, 126 Stat. 575, struck out items 303 "Management systems" and 309 "Cooperation with other American Republics".
 

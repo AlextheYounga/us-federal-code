@@ -96,6 +96,8 @@ Sec.
 
 30171. Protection of employees providing motor vehicle safety information.
 
+30172. Whistleblower incentives and protections.
+
 #### SUBCHAPTER V—MOTOR VEHICLE SAFETY RESEARCH AND DEVELOPMENT ####
 
 30181. Policy.
@@ -105,6 +107,8 @@ Sec.
 30183. Prohibition on certain disclosures.
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–94, div. B, title XXIV, §24352(c), Dec. 4, 2015, 129 Stat. 1720, which directed amendment of the analysis for subchapter IV of this chapter by adding item 30172 at the end, was executed by adding item 30172 to the analysis for this chapter to reflect the probable intent of Congress.
 
 **2012**—Pub. L. 112–141, div. C, title I, §§31202(b), 31204(b)(1), (2)(A), 31208(1), 31307(c), 31312(b), July 6, 2012, 126 Stat. 758, 760, 761, 769, 772, added items 30120A and 30171, item for subchapter V, and items 30181 to 30183, substituted "Nonuse of safety belts" for "Buzzers indicating nonuse of safety belts" in item 30124 and "Service of process; conditions on importation of vehicles and equipment" for "Service of process" in item 30164, and struck out item 30168 "Research, testing, development, and training".
 

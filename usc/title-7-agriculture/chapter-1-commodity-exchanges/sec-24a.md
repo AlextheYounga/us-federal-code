@@ -68,7 +68,7 @@ A swap data repository shall—
 
 (6) maintain the privacy of any and all swap transaction information that the swap data repository receives from a swap dealer, counterparty, or any other registered entity; and
 
-(7) on a confidential basis pursuant to section 12 of this title, upon request, and after notifying the Commission of the request, make available all data obtained by the swap data repository, including individual counterparty trade and position data, to—
+(7) on a confidential basis pursuant to section 12 of this title, upon request, and after notifying the Commission of the request, make available swap data obtained by the swap data repository, including individual counterparty trade and position data, to—
 
 (A) each appropriate prudential regulator;
 
@@ -82,19 +82,17 @@ A swap data repository shall—
 
 (i) foreign financial supervisors (including foreign futures authorities);
 
-(ii) foreign central banks; and
+(ii) foreign central banks;
 
 (iii) foreign ministries; and
 
+(iv) other foreign authorities; and
+
 (8) establish and maintain emergency procedures, backup facilities, and a plan for disaster recovery that allows for the timely recovery and resumption of operations and the fulfillment of the responsibilities and obligations of the organization.
 
-#### (d) Confidentiality and indemnification agreement ####
+#### (d) Confidentiality agreement ####
 
-Before the swap data repository may share information with any entity described in subsection (c)(7)—
-
-(1) the swap data repository shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 12 of this title relating to the information on swap transactions that is provided; and
-
-(2) each entity shall agree to indemnify the swap data repository and the Commission for any expenses arising from litigation relating to the information provided under section 12 of this title.
+Before the swap data repository may share information with any entity described in subsection (c)(7), the swap data repository shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 12 of this title relating to the information on swap transactions that is provided.
 
 #### (e) Designation of chief compliance officer ####
 
@@ -196,11 +194,23 @@ Any person that is required to be registered as a swap data repository under thi
 
 The Commission shall adopt rules governing persons that are registered under this section.
 
-(Sept. 21, 1922, ch. 369, §21, as added Pub. L. 111–203, title VII, §728, July 21, 2010, 124 Stat. 1697.)
+(Sept. 21, 1922, ch. 369, §21, as added Pub. L. 111–203, title VII, §728, July 21, 2010, 124 Stat. 1697; amended Pub. L. 114–94, div. G, title LXXXVI, §86001(b), Dec. 4, 2015, 129 Stat. 1797.)
 
 #### Prior Provisions ####
 
 A prior section 21 of act Sept. 21, 1922, ch. 369, as added by Pub. L. 96–276, §7, June 17, 1980, 94 Stat. 542, related to silver markets activity and was set out as a note under section 4a of this title prior to repeal by Pub. L. 102–546, title IV, §402(13), Oct. 28, 1992, 106 Stat. 3625.
+
+#### Amendments ####
+
+**2015**—Subsec. (c)(7). Pub. L. 114–94, §86001(b)(1)(A), substituted "swap" for "all" in introductory provisions.
+
+Subsec. (c)(7)(E)(iv). Pub. L. 114–94, §86001(b)(1)(B), added cl. (iv).
+
+Subsec. (d). Pub. L. 114–94, §86001(b)(2), added subsec. (d) and struck out former subsec. (d) related to confidentiality and indemnification agreement.
+
+#### Effective Date of 2015 Amendment ####
+
+Amendment by Pub. L. 114–94 effective as if enacted as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, Pub. L. 111–203, see section 86001(d) of Pub. L. 114–94, set out as a note under section 7a–1 of this title.
 
 #### Effective Date ####
 

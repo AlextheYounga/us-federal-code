@@ -38,9 +38,11 @@ For purposes of this subsection, the term "assets under management" means the se
 
 No law of any State or political subdivision thereof requiring the registration, licensing, or qualification as an investment adviser or supervised person of an investment adviser shall apply to any person—
 
-(A) that is registered under section 80b–3 of this title as an investment adviser, or that is a supervised person of such person, except that a State may license, register, or otherwise qualify any investment adviser representative who has a place of business located within that State; or
+(A) that is registered under section 80b–3 of this title as an investment adviser, or that is a supervised person of such person, except that a State may license, register, or otherwise qualify any investment adviser representative who has a place of business located within that State;
 
-(B) that is not registered under section 80b–3 of this title because that person is excepted from the definition of an investment adviser under section 80b–2(a)(11) of this title.
+(B) that is not registered under section 80b–3 of this title because that person is excepted from the definition of an investment adviser under section 80b–2(a)(11) of this title; or
+
+(C) that is not registered under section 80b–3 of this title because that person is exempt from registration as provided in subsection (b)(7) of such section, or is a supervised person of such person.
 
 #### (2) Limitation ####
 
@@ -54,13 +56,15 @@ Notwithstanding subsection (a), the Commission, by rule or regulation upon its o
 
 Upon request of the securities commissioner (or any agency or officer performing like functions) of any State, the Commission may provide such training, technical assistance, or other reasonable assistance in connection with the regulation of investment advisers by the State.
 
-(Aug. 22, 1940, ch. 686, title II, §203A, as added Pub. L. 104–290, title III, §303(a), Oct. 11, 1996, 110 Stat. 3437; amended Pub. L. 109–290, §7(b)(1), Sept. 29, 2006, 120 Stat. 1321; Pub. L. 111–203, title IV, §410, July 21, 2010, 124 Stat. 1576.)
+(Aug. 22, 1940, ch. 686, title II, §203A, as added Pub. L. 104–290, title III, §303(a), Oct. 11, 1996, 110 Stat. 3437; amended Pub. L. 109–290, §7(b)(1), Sept. 29, 2006, 120 Stat. 1321; Pub. L. 111–203, title IV, §410, July 21, 2010, 124 Stat. 1576; Pub. L. 114–94, div. G, title LXXIV, §74003, Dec. 4, 2015, 129 Stat. 1786.)
 
 #### References in Text ####
 
 The Investment Company Act of 1940, referred to in subsec. (a)(2)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 #### Amendments ####
+
+**2015**—Subsec. (b)(1)(C). Pub. L. 114–94 added subpar. (C).
 
 **2010**—Subsec. (a)(2), (3). Pub. L. 111–203 added par. (2) and redesignated former par. (2) as (3).
 

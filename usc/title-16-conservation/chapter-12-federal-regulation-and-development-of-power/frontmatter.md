@@ -130,6 +130,8 @@ Sec.
 
 824 o. Electric reliability.
 
+824o–1. Critical electric infrastructure security.
+
 824p. Siting of interstate electric transmission facilities.
 
 824q. Native load service obligation.

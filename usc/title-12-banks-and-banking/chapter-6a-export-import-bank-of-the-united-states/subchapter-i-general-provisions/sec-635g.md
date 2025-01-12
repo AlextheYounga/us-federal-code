@@ -136,13 +136,19 @@ The Bank shall include in its annual report to the Congress under subsection (a)
 
 The Bank shall include in its annual report to the Congress under subsection (a) of this section a description of the success of the Bank in providing effective and reasonably priced financing to the United States textile and apparel industry for exports of goods manufactured in the United States that are used as components in global textile and apparel supply chains in the year covered by the report, and steps the Bank has taken to increase the use of Bank products by such firms.
 
-(July 31, 1945, ch. 341, §8, formerly §9, 59 Stat. 529; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 93–646, §10, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §1907(b), Nov. 10, 1978, 92 Stat. 3725; Pub. L. 98–181, title I [title VI, §§618(b), 623], Nov. 30, 1983, 97 Stat. 1259, 1262; Pub. L. 99–472, §20(b), (c), Oct. 15, 1986, 100 Stat. 1209, 1210; renumbered §8, Pub. L. 102–429, title I, §121(c)(2), Oct. 21, 1992, 106 Stat. 2199; Pub. L. 106–569, title XI, §1104(a)(4), Dec. 27, 2000, 114 Stat. 3032; Pub. L. 107–189, §12, June 14, 2002, 116 Stat. 704; Pub. L. 109–438, §20, Dec. 20, 2006, 120 Stat. 3282; Pub. L. 112–122, §§6, 10, 20(b)(2), 21(c), May 30, 2012, 126 Stat. 353, 356, 362, 363.)
+#### (k) Report on programs for small- and medium-sized businesses ####
+
+The Bank shall include in its annual report to Congress under subsection (a) a report on the programs of the Bank for United States businesses with less than $250,000,000 in annual sales.
+
+(July 31, 1945, ch. 341, §8, formerly §9, 59 Stat. 529; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 93–646, §10, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §1907(b), Nov. 10, 1978, 92 Stat. 3725; Pub. L. 98–181, title I [title VI, §§618(b), 623], Nov. 30, 1983, 97 Stat. 1259, 1262; Pub. L. 99–472, §20(b), (c), Oct. 15, 1986, 100 Stat. 1209, 1210; renumbered §8, Pub. L. 102–429, title I, §121(c)(2), Oct. 21, 1992, 106 Stat. 2199; Pub. L. 106–569, title XI, §1104(a)(4), Dec. 27, 2000, 114 Stat. 3032; Pub. L. 107–189, §12, June 14, 2002, 116 Stat. 704; Pub. L. 109–438, §20, Dec. 20, 2006, 120 Stat. 3282; Pub. L. 112–122, §§6, 10, 20(b)(2), 21(c), May 30, 2012, 126 Stat. 353, 356, 362, 363; Pub. L. 114–94, div. E, title LII, §52002(a), Dec. 4, 2015, 129 Stat. 1767.)
 
 #### Prior Provisions ####
 
 A prior section 8 of act July 31, 1945, ch. 341, was renumbered section 7 and is classified to section 635f of this title.
 
 #### Amendments ####
+
+**2015**—Subsec. (k). Pub. L. 114–94 added subsec. (k).
 
 **2012**—Subsec. (g). Pub. L. 112–122, §6, added subsec. (g).
 
@@ -181,6 +187,10 @@ Subsec. (d). Pub. L. 98–181, §623, added subsec. (d).
 #### Change of Name ####
 
 Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
+
+#### Effective Date of 2015 Amendment ####
+
+Pub. L. 114–94, div. E, title LII, §52002(b), Dec. 4, 2015, 129 Stat. 1767, provided that: "The amendment made by subsection (a) [amending this section] shall apply with respect to the report of the Export-Import Bank of the United States submitted to Congress under section 8 of the Export-Import Bank Act of 1945 (12 U.S.C. 635g) for the first year that begins after the date of the enactment of this Act [Dec. 4, 2015]."
 
 #### Termination Date of 1986 Amendment ####
 

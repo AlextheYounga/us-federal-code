@@ -14,15 +14,19 @@ Sec.
 
 304. Application of categorical exclusions for multimodal projects.
 
+304a. Accelerated decisionmaking in environmental reviews.
+
 305. Transportation investment standards and criteria.
 
 306. Prohibited discrimination.
 
-[307. Repealed.]
+307. Improving State and Federal agency engagement in environmental reviews.
 
 308. Reports.
 
 309. High-speed ground transportation.
+
+310. Aligning Federal environmental reviews.
 
 #### SUBCHAPTER II—ADMINISTRATIVE ####
 
@@ -44,7 +48,7 @@ Sec.
 
 329. Transportation information.
 
-330. Research contracts.
+330. Research activities.
 
 331. Service, supplies, and facilities at remote places.
 
@@ -70,9 +74,11 @@ Sec.
 
 #### Amendments ####
 
-**2012**—Pub. L. 112–141, div. C, title II, §32932(a)(2), July 6, 2012, 126 Stat. 829, struck out item 307 "Safety information and intervention in Interstate Commerce Commission proceedings".
+**2015**—Pub. L. 114–94, div. A, title I, §§1311(b), 1312(b), 1313(b), title VI, §6011(c), Dec. 4, 2015, 129 Stat. 1399, 1400, 1402, 1569, added items 304a, 307, and 310 and substituted "Research activities" for "Research contracts" in item 330.
 
-Pub. L. 112–141, div. A, title I, §1314(b), July 6, 2012, 126 Stat. 549, which directed the general amendment of the item relating to section 304 in the analysis for title 49, was executed to the analysis for this chapter, to reflect the probable intent of Congress. Prior to amendment, item 304 read as follows: "Joint activities with the Secretary of Housing and Urban Development".
+Pub. L. 114–94, div. A, title I, §1446(d)(4), Dec. 4, 2015, 129 Stat. 1438, amended section 1314(b) of Pub. L. 112–141, effective July 6, 2012, as if included in Pub. L. 112–141 as enacted. See 2012 Amendment note below.
+
+**2012**—Pub. L. 112–141, div. A, title I, §1314(b), div. C, title II, §32932(a)(2), July 6, 2012, 126 Stat. 549, 829, as amended by Pub. L. 114–94, div. A, title I, §1446(d)(4), Dec. 4, 2015, 129 Stat. 1438, substituted "Application of categorical exclusions for multimodal projects" for "Joint activities with the Secretary of Housing and Urban Development" in item 304 and struck out item 307 "Safety information and intervention in Interstate Commerce Commission proceedings".
 
 **2003**—Pub. L. 108–168, §8(b)(2), Dec. 6, 2003, 117 Stat. 2035, added item 354.
 

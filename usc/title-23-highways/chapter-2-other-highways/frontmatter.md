@@ -14,15 +14,13 @@ Sec.
 
 206. Recreational trails program.
 
-[207 to 209. Repealed.]
+207. Tribal transportation self-governance program.
+
+[208, 209. Repealed.]
 
 210. Defense access roads.
 
-[211, 212. Repealed.]
-
-213. Transportation alternatives 1
-
-[214 to 216. Repealed.]
+[211 to 216. Repealed.]
 
 217. Bicycle transportation and pedestrian walkways.
 
@@ -31,6 +29,8 @@ Sec.
 [219. Repealed.]
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–94, div. A, title I, §§1109(c)(6)(B), 1121(b), Dec. 4, 2015, 129 Stat. 1344, 1368, added item 207 and struck out item 213 "Transportation alternatives".
 
 **2012**—Pub. L. 112–141, div. A, title I, §§1114(b)(2)(B), 1119(c)(1), 1122(b), 1519(c)(1)(B), July 6, 2012, 126 Stat. 468, 491, 497, 575, substituted "Federal lands and tribal transportation programs" for "Authorizations" in item 201, "Tribal transportation program" for "Allocations" in item 202, "Federal lands transportation program" for "Availability of funds" in item 203, and "Federal lands access program" for "Federal lands highways program" in item 204, struck out item 212 "Inter-American Highway", added item 213, and struck out items 214 "Public lands development roads and trails", 215 "Territorial highway program", and 216 "Darien Gap Highway".
 
@@ -55,5 +55,3 @@ Pub. L. 97–424, title I, §126(e)(3), Jan. 6, 1983, 96 Stat. 2116, substituted
 **1970**—Pub. L. 91–605, title I, §§112(b), 113(b), Dec. 31, 1970, 84 Stat. 1721, 1722, added items 215 and 216.
 
 **1962**—Pub. L. 87–866, §6(c), Oct. 23, 1962, 76 Stat. 1147, added item 214.
-
-[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER2_1)

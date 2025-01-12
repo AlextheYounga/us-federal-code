@@ -28,7 +28,7 @@ Sec.
 
 31312. Decertification authority.
 
-31313. Grants for commercial driver's license program implementation.
+31313. Commercial driver's license program implementation financial assistance program.
 
 31314. Withholding amounts for State noncompliance.
 
@@ -39,6 +39,8 @@ Sec.
 31317. Procedure for prescribing regulations.
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–94, div. A, title V, §5104(b), Dec. 4, 2015, 129 Stat. 1529, substituted "Commercial driver's license program implementation financial assistance program" for "Grants for commercial driver's license program implementation" in item 31313.
 
 **2012**—Pub. L. 112–141, div. C, title II, §§32304(d), 32402(b), 32604(b)(2), July 6, 2012, 126 Stat. 792, 802, 809, added items 31305, 31306a, and 31313 and struck out former items 31305 "General driver fitness and testing" and 31313 "Grants for commercial driver's license program improvements".
 

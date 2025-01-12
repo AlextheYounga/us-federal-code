@@ -2163,7 +2163,7 @@ Section 409(a)(2) of Pub. L. 105–134 provided that: "The amendment made by par
 
 #### Effective Date of 1995 Amendment ####
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 #### Effective Date of 1993 Amendment ####
 
@@ -2172,6 +2172,24 @@ Pub. L. 103–82, title II, §202(g)(2)(B), Sept. 21, 1993, 107 Stat. 890, provi
 #### Effective Date ####
 
 Section effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as an Effective Date of 1988 Amendment note under section 5 of Pub. L. 95–452 in this Appendix.
+
+#### Amtrak Inspector General ####
+
+Pub. L. 114–94, div. A, title XI, §11314, Dec. 4, 2015, 129 Stat. 1674, provided that:
+
+"(a) Authority.—
+
+"(1) In general.—The Inspector General of Amtrak shall have the authority available to other Inspectors General, as necessary in carrying out the duties specified in the Inspector General Act of 1978 (5 U.S.C. App.), to investigate any alleged violation of sections 286, 287, 371, 641, 1001, 1002 and 1516 of title 18, United States Code.
+
+"(2) Agency.—For purposes of sections 286, 287, 371, 641, 1001, 1002, and 1516 of title 18, United States Code, Amtrak and the Amtrak Office of Inspector General, shall be considered a corporation in which the United States has a proprietary interest as set forth in section 6 of such title.
+
+"(b) Assessment.—The Inspector General of Amtrak shall—
+
+"(1) not later than 60 days after the date of enactment of this Act [Dec. 4, 2015], initiate an assessment to determine whether current expenditures or procurements involving Amtrak's fulfillment of the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) utilize competitive, market-driven provisions that are applicable throughout the entire term of such related expenditures or procurements; and
+
+"(2) not later than 6 months after the date of enactment of this Act, transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives the assessment under paragraph (1).
+
+"(c) Limitation.—The authority provided by subsection (a) shall be effective only with respect to a fiscal year for which Amtrak receives a Federal subsidy."
 
 #### Inspector General at the Commission on Civil Rights ####
 

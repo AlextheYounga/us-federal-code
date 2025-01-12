@@ -106,7 +106,7 @@ Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substitut
 
 #### Effective Date of 1995 Amendment ####
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 #### Effective Date of 1984 Amendments ####
 

@@ -10,7 +10,7 @@ Sec.
 
 4332. Cooperation of agencies; reports; availability of information; recommendations; international and national coordination of efforts.
 
-4332a. Accelerated decisionmaking in environmental reviews.
+4332a. Repealed.
 
 4333. Conformity of administrative procedures to national environmental policy.
 
@@ -91,3 +91,31 @@ Sec.
 4370g. Availability of funds for uniforms and certain services.
 
 4370h. Availability of funds for facilities.
+
+#### SUBCHAPTER IV—FEDERAL PERMITTING IMPROVEMENT ####
+
+4370m. Definitions.
+
+4370m–1. Federal permitting improvement council.
+
+4370m–2. Permitting process improvement.
+
+4370m–3. Interstate compacts.
+
+4370m–4. Coordination of required reviews.
+
+4370m–5. Delegated State permitting programs.
+
+4370m–6. Litigation, judicial review, and savings provision.
+
+4370m–7. Reports.
+
+4370m–8. Funding for governance, oversight, and processing of environmental reviews and permits.
+
+4370m–9. Application.
+
+4370m–10. GAO report.
+
+4370m–11. Savings provision.
+
+4370m–12. Sunset.

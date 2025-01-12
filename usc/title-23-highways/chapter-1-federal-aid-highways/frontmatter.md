@@ -10,7 +10,7 @@ Sec.
 
 104. Apportionment.
 
-[105. Repealed.]
+105. Additional deposits into Highway Trust Fund.
 
 106. Project approval and oversight.
 
@@ -34,7 +34,7 @@ Sec.
 
 116. Maintenance.
 
-[117. Repealed.]
+117. Nationally significant freight and highway projects.
 
 118. Availability of funds.
 
@@ -66,7 +66,7 @@ Sec.
 
 132. Payments on Federal-aid projects undertaken by a Federal agency.
 
-133. Surface transportation program.
+133. Surface transportation block grant program.
 
 134. Metropolitan transportation planning.
 
@@ -102,7 +102,7 @@ Sec.
 
 150. National goals and performance management measures.
 
-[151. Repealed.]
+151. National electric vehicle charging and hydrogen, propane, and natural gas fueling corridors.
 
 152. Hazard elimination program.
 
@@ -134,7 +134,7 @@ Sec.
 
 166. HOV facilities.
 
-167. National freight program. 1
+167. National highway freight program.
 
 168. Integration of planning and environmental review.
 
@@ -144,9 +144,11 @@ Sec.
 
 #### Amendments ####
 
-**2012**—Pub. L. 112–141, div. A, title I, §§1104(c)(1), 1106(c), 1111(b), 1114(b)(1), 1115(b), 1202(b), 1310(b), 1311(b), 1509(b), 1515(b), 1519(c)(1)(A), July 6, 2012, 126 Stat. 427, 437, 450, 468, 472, 524, 543, 545, 567, 574, 575, substituted "National Highway System" for "Federal-aid systems" in item 103, struck out items 105 "Equity bonus program", 110 "Revenue aligned budget authority", and 117 "High priority projects program", substituted "National highway performance program" for "Interstate maintenance program" in item 119, struck out item 124 "Advances to States", substituted "Transferability of Federal-aid highway funds" for "Uniform transferability of Federal-aid highway funds" in item 126, "Statewide and nonmetropolitan transportation planning" for "Statewide transportation planning" in item 135, and "National bridge and tunnel inventory and inspection standards" for "Highway bridge program" in item 144, struck out items 151 "National bridge inspection program", 155 "Access highways to public recreation areas on certain lakes", 157 "Safety incentive grants for use of seat belts", and 160 "Reimbursement for segments of the Interstate System constructed without Federal assistance", substituted "Territorial and Puerto Rico highway program" for "Puerto Rico highway program" in item 165, and added items 167 to 170.
+**2015**—Pub. L. 114–94, div. A, title I, §§1105(b), 1109(c)(6)(A), 1116(b), 1403(b), 1413(b), Dec. 4, 2015, 129 Stat. 1337, 1344, 1356, 1409, 1418, substituted "Surface transportation block grant program" for "Surface transportation program" in item 133, "National highway freight program" for "National freight program" in item 167, and added items 105, 117, and 151.
 
-Pub. L. 112–141, div. A, title I, §1203(b), July 6, 2012, 126 Stat. 526, which directed striking out item 150 and inserting new item 150, was executed by adding item 150 to reflect the probable intent of Congress and the prior striking of item 150 by Pub. L. 105–178. See 1998 Amendment note below.
+Pub. L. 114–94, div. A, title I, §1446(d)(2)(B), Dec. 4, 2015, 129 Stat. 1438, amended section 1203(b) of Pub. L. 112–141, effective July 6, 2012, as if included in Pub. L. 112–141 as enacted. See 2012 Amendment note below.
+
+**2012**—Pub. L. 112–141, div. A, title I, §§1104(c)(1), 1106(c), 1111(b), 1114(b)(1), 1115(b), 1202(b), 1203(b), 1310(b), 1311(b), 1509(b), 1515(b), 1519(c)(1)(A), July 6, 2012, 126 Stat. 427, 437, 450, 468, 472, 524, 526, 543, 545, 567, 574, 575, as amended by Pub. L. 114–94, div. A, title I, §1446(d)(2)(B), Dec. 4, 2015, 129 Stat. 1438, substituted "National Highway System" for "Federal-aid systems" in item 103, struck out items 105 "Equity bonus program", 110 "Revenue aligned budget authority", and 117 "High priority projects program", substituted "National highway performance program" for "Interstate maintenance program" in item 119, struck out item 124 "Advances to States", substituted "Transferability of Federal-aid highway funds" for "Uniform transferability of Federal-aid highway funds" in item 126, "Statewide and nonmetropolitan transportation planning" for "Statewide transportation planning" in item 135, and "National bridge and tunnel inventory and inspection standards" for "Highway bridge program" in item 144, added item 150, struck out items 151 "National bridge inspection program", 155 "Access highways to public recreation areas on certain lakes", 157 "Safety incentive grants for use of seat belts", and 160 "Reimbursement for segments of the Interstate System constructed without Federal assistance", substituted "Territorial and Puerto Rico highway program" for "Puerto Rico highway program" in item 165, and added items 167 to 170.
 
 **2008**—Pub. L. 110–244, title I, §101(m)(3)(C), June 6, 2008, 122 Stat. 1576, struck out "replacement and rehabilitation" after "Highway bridge" in item 144.
 
@@ -201,5 +203,3 @@ Pub. L. 89–139, §4(b), Aug. 28, 1965, 79 Stat. 579, added item 135.
 **1962**—Pub. L. 87–866, §§5(b), 9(b), Oct. 23, 1962, 76 Stat. 1147, 1148, added items 133 and 134.
 
 **1960**—Pub. L. 86–657, §§4(b), 5(b), July 14, 1960, 74 Stat. 523, included ferries in item 129 and added item 132.
-
-[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER1_1)
