@@ -522,7 +522,7 @@ Subsection (g), referred to in subsec. (c)(7)(A), was repealed, and subsec. (h) 
 
 Pub. L. 115–123, §50302(d), substituted "paragraph (3)(A)(i)" for "paragraph (3)(A)".
 
-Subsec. (b)(3). Pub. L. 115–123, §50302(a), inserted subpar. (A) designation before "With respect to", redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), substituted "subject to subparagraph (B), on a comprehensive" for "on a comprehensive", and added subpar. (B).
+Subsec. (b)(3). Pub. L. 115–123, §50302(a), inserted subpar. (A) designation before "With respect to", redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), substituted "subject to subparagraph (B), on a comprehensive" for "on a comprehensive" in cl. (ii), and added subpar. (B).
 
 **2014**—Subsec. (b)(14)(F)(i)(I). Pub. L. 113–93, §217(b)(2)(A), substituted "subclauses (II) and (III)" for "subclause (II)" and inserted at end "In order to accomplish the purposes of subparagraph (I) with respect to 2016, 2017, and 2018, after determining the increase factor described in the preceding sentence for each of 2016, 2017, and 2018, the Secretary shall reduce such increase factor by 1.25 percentage points for each of 2016 and 2017 and by 1 percentage point for 2018."
 

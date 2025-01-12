@@ -358,7 +358,7 @@ Information may only be disclosed by a MEDIC under subparagraph (A) if the discl
 
 Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (d)(2)(B), is section 202(b) of Pub. L. 104–191, which amended sections 1395h and 1395u of this title.
 
-Section 1395l(z) of this title, referred to in subsec. (h)(10)(A), probably means the subsec. (z) of section 1395l of this title which relates to medical review of spinal subluxation services and was added by Pub. L. 114–10, title V, §514(a), Apr. 16, 2015, 129 Stat. 171.
+Section 1395l(z) of this title, referred to in subsec. (h)(10)(A), probably means the subsec. (z) of section 1395l of this title which relates to medical review of spinal subluxation services, was added by Pub. L. 114–10, title V, §514(a), Apr. 16, 2015, 129 Stat. 171, and was redesignated subsec. (aa) by Pub. L. 115–271, title VI, §6083(b)(1), Oct. 24, 2018, 132 Stat. 3994.
 
 Section 514(b) of the Medicare Access and CHIP Reauthorization Act of 2015, referred to in subsec. (h)(10)(A), is section 514(b) of Pub. L. 114–10, which is set out as a note under section 1395l of this title.
 

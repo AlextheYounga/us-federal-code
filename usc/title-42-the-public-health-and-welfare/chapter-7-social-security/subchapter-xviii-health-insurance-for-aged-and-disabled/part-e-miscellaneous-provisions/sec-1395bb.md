@@ -110,10 +110,6 @@ Subsec. (b). Pub. L. 97–248, §128(d)(3), substituted "a hospital" for "an ins
 
 **1972**—Pub. L. 92–603 designated existing provisions as subsec. (a), inserted reference to subsec. (b) of this section in opening provisions, redesignated existing provisions as pars. (1) and (3) and added pars. (2) and (4) and in provisions following par. (4) inserted provisions for the imposition of a standard which the Secretary determines is at least equivalent to the standard promulgated by the Secretary as described in par. (4), and added subsec. (b).
 
-#### Timing for Acceptance of Requests From Accreditation Organizations ####
-
-Pub. L. 115–123, div. E, title IV, §50403(a)(2), Feb. 9, 2018, 132 Stat. 218, provided that: "Not later than 90 days after the date of enactment of this Act [Feb. 9, 2018], the Secretary of Health and Human Services shall begin accepting requests from national accreditation bodies for a finding described in section 1865(a)(3)(A) of the Social Security Act (42 U.S.C. 1395bb(a)(3)(A)) for purposes of accrediting provider entities that are required to meet the conditions and requirements under section 1881(b) of such Act (42 U.S.C. 1395rr(b))."
-
 #### Effective Date of 2008 Amendment; Transition Rule ####
 
 Pub. L. 110–275, title I, §125(d), July 15, 2008, 122 Stat. 2520, provided that:
@@ -177,6 +173,10 @@ Amendment by section 128(d)(3) of Pub. L. 97–248 effective Sept. 3, 1982, see 
 #### Effective Date of 1972 Amendment ####
 
 Amendment by section 234(h) of Pub. L. 92–603 applicable with respect to providers of services for fiscal years beginning after the fifth month following October 1972, see section 234(i) of Pub. L. 92–603, set out as a note under section 1395x of this title.
+
+#### Timing for Acceptance of Requests From Accreditation Organizations ####
+
+Pub. L. 115–123, div. E, title IV, §50403(a)(2), Feb. 9, 2018, 132 Stat. 218, provided that: "Not later than 90 days after the date of enactment of this Act [Feb. 9, 2018], the Secretary of Health and Human Services shall begin accepting requests from national accreditation bodies for a finding described in section 1865(a)(3)(A) of the Social Security Act (42 U.S.C. 1395bb(a)(3)(A)) for purposes of accrediting provider entities that are required to meet the conditions and requirements under section 1881(b) of such Act (42 U.S.C. 1395rr(b))."
 
 #### Authority To Recognize the Joint Commission as a National Accreditation Body ####
 

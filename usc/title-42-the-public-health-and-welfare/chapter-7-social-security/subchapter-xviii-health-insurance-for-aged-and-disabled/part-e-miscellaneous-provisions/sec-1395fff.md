@@ -412,7 +412,7 @@ Pub. L. 111–148, title III, §3131(d), title X, §10315(b), Mar. 23, 2010, 124
 
 #### Temporary Increase for Home Health Services Furnished in a Rural Area ####
 
-Pub. L. 108–173, title IV, §421, Dec. 8, 2003, 117 Stat. 2283, as amended by Pub. L. 109–171, title V, §5201(b), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §3131(c), Mar. 23, 2010, 124 Stat. 428; Pub. L. 114–10, title II, §210, Apr. 16, 2015, 129 Stat. 151; Pub. L. 115–123, div. E, title II, §50208(a)(1), Feb. 9, 2018, 132 Stat. 187, provided that:
+Pub. L. 108–173, title IV, §421, Dec. 8, 2003, 117 Stat. 2283, as amended by Pub. L. 109–171, title V, §5201(b), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §3131(c), Mar. 23, 2010, 124 Stat. 428; Pub. L. 114–10, title II, §210, Apr. 16, 2015, 129 Stat. 151; Pub. L. 115–123, div. E, title II, §50208(a)(1), Feb. 9, 2018, 132 Stat. 188, provided that:
 
 "(a) In General.—With respect to episodes and visits ending on or after April 1, 2004, and before April 1, 2005, episodes and visits beginning on or after January 1, 2006, and before January 1, 2007, and episodes and visits ending on or after April 1, 2010, and before January 1, 2019, in the case of home health services furnished in a rural area (as defined in section 1886(d)(2)(D) of the Social Security Act (42 U.S.C. 1395ww(d)(2)(D))), the Secretary [of Health and Human Services] shall increase the payment amount otherwise made under section 1895 of such Act (42 U.S.C. 1395fff) for such services by 5 percent (or, in the case of episodes and visits ending on or after April 1, 2010, and before January 1, 2019, 3 percent).
 

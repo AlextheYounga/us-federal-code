@@ -470,7 +470,7 @@ The Secretary shall establish procedures for making data submitted under paragra
 
 #### Amendment of Subsection (a)(1)(L) ####
 
-Pub. L. 115–182, title I, §144(a)(2), (b), June 6, 2018, 132 Stat. 1430, provided that, effective on the date described in section 101(b), set out as an Effective Date of 2018 Amendment note under section 1703 of Title 38, Veterans' Benefits, subsection (a)(1)(L) of this section is amended by striking "under section 603" and inserting "under chapter 17". See 2018 Amendment note below.
+Pub. L. 115–182, title I, §144(a)(2), (b), June 6, 2018, 132 Stat. 1430, provided that, effective on the date described in section 101(b) of Pub. L. 115–182, set out as an Effective Date of 2018 Amendment note under section 1703 of Title 38, Veterans' Benefits, subsection (a)(1)(L) of this section is amended by striking "under section 603" and inserting "under chapter 17". See 2018 Amendment note below.
 
 #### References in Text ####
 
@@ -858,7 +858,7 @@ References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subje
 
 #### Effective Date of 2018 Amendment ####
 
-Amendment by Pub. Law 115–182 effective on the date described in section 101(b) of Pub. Law 115–182, see section 144(b) of Pub. Law 115–182, set out as a note under section 1712 of Title 38, Veterans' Benefits.
+Amendment by Pub. L. 115–182 effective on the date described in section 101(b) of Pub. L. 115–182, see section 144(b) of Pub. L. 115–182, set out as a note under section 1712 of Title 38, Veterans' Benefits.
 
 #### Effective Date of 2011 Amendment ####
 

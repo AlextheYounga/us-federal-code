@@ -546,7 +546,7 @@ The Internal Revenue Code of 1986, referred to in subsecs. (c)(10)(B)(i)(III), (
 
 **2018**—Subsec. (b). Pub. L. 115–120, §3005, inserted "and during the period that begins on October 1, 2019, and ends on September 30, 2020, the enhanced FMAP determined for a State for a fiscal year (or for any portion of a fiscal year occurring during such period) shall be increased by 11.5 percentage points" after "23 percentage points,".
 
-**2018**—Subsec. (d)(3). Pub. L. 115–123, §50101(f)(1)(A), substituted "through September 30, 2027" for "through September 30, 2023" in heading.
+Subsec. (d)(3). Pub. L. 115–123, §50101(f)(1)(A), substituted "through September 30, 2027" for "through September 30, 2023" in heading.
 
 Pub. L. 115–120, §3002(f)(1)(A), substituted "through September 30, 2023" for "until October 1, 2019" in heading.
 

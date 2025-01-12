@@ -842,7 +842,7 @@ The allotment increase factor under this paragraph for a fiscal year is equal to
 
 In the case of one of the 50 States or the District of Columbia that—
 
-(A) has submitted to the Secretary, and has approved by the Secretary, a State plan amendment or waiver request relating to an expansion of eligibility for children or benefits under this subchapter that becomes effective for a fiscal year (beginning with fiscal year 2010 and ending with fiscal year 2027,);<sup><a href="#1397dd_6_target" name="1397dd_6">6</a></sup> and
+(A) has submitted to the Secretary, and has approved by the Secretary, a State plan amendment or waiver request relating to an expansion of eligibility for children or benefits under this subchapter that becomes effective for a fiscal year (beginning with fiscal year 2010 and ending with fiscal year 2027,); <sup><a href="#1397dd_6_target" name="1397dd_6">6</a></sup> and
 
 (B) has submitted to the Secretary, before the August 31 preceding the beginning of the fiscal year (or, in the case of fiscal year 2018, by not later than the date that is 60 days after January 22, 2018), a request for an expansion allotment adjustment under this paragraph for such fiscal year that specifies—
 

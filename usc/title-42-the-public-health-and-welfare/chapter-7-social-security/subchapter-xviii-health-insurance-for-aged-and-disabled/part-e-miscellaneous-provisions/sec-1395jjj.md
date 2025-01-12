@@ -352,7 +352,7 @@ Any payment made under an ACO Beneficiary Incentive Program established under th
 
 Subsec. (c). Pub. L. 115–123, §50331, designated existing provisions as par. (1), inserted heading, substituted "Subject to paragraph (2), the Secretary" for "The Secretary", redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and added par. (2).
 
-Subsec. (e). Pub. L. 115–123, §50341(a)(3), inserted", including an ACO Beneficiary Incentive Program under subsections (b)(2)(I) and (m)" after "the program".
+Subsec. (e). Pub. L. 115–123, §50341(a)(3), inserted ", including an ACO Beneficiary Incentive Program under subsections (b)(2)(I) and (m)" after "the program".
 
 Subsec. (g)(6). Pub. L. 115–123, §50341(a)(4), inserted "or of an ACO Beneficiary Incentive Program under subsections (b)(2)(I) and (m)" after "under subsection (d)(4)".
 

@@ -3652,7 +3652,7 @@ Section 124 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act 
 
 **2018**—Subsec. (b)(3)(B)(viii)(XII). Pub. L. 115–271, §6104(a), added subcl. (XII).
 
-Subsec. (b)(3)(D). Pub. L. 115–123, §50205(b)(1)(A), substituted "October 1, 2022" for "October 1, 2017".
+Subsec. (b)(3)(D). Pub. L. 115–123, §50205(b)(1)(A), substituted "October 1, 2022" for "October 1, 2017" in introductory provisions.
 
 Subsec. (b)(3)(D)(iv). Pub. L. 115–123, §50205(b)(1)(B), substituted "through fiscal year 2022" for "through fiscal year 2017".
 
@@ -3682,7 +3682,7 @@ Subsec. (d)(12)(D). Pub. L. 115–123, §50204(a)(3), substituted "through 2022"
 
 "(i) with respect to each of fiscal years 2011 through 2018, with 200 or fewer"
 
-for "hospitals with 200 or fewer", and "fiscal year or portion of fiscal year; and" for "fiscal year.", and added subcl. (ii).
+for "hospitals with 200 or fewer", and "fiscal year or portion of fiscal year; and" for "fiscal year.", and added cl. (ii).
 
 Subsec. (m)(6)(B)(i)(I). Pub. L. 115–123, §51005(a)(1), substituted "fiscal years 2016 through 2019" for "fiscal year 2016 or fiscal year 2017".
 
@@ -3690,7 +3690,7 @@ Subsec. (m)(6)(B)(i)(II). Pub. L. 115–123, §51005(a)(2), substituted "2020" f
 
 Subsec. (m)(6)(B)(ii). Pub. L. 115–123, §51005(b)(1), substituted "Subject to clause (iv), in this paragraph" for "In this paragraph" in introductory provisions.
 
-Subsec. (m)(6)(B)(iv). Pub. L. 115–123, §51005(b)(2), added subcl. (iv).
+Subsec. (m)(6)(B)(iv). Pub. L. 115–123, §51005(b)(2), added cl. (iv).
 
 Subsec. (n)(3)(A). Pub. L. 115–123, §50413, struck out "by requiring more stringent measures of meaningful use selected under this paragraph" after "quality over time" in concluding provisions.
 
