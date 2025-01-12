@@ -18,31 +18,33 @@ Sec.
 
 [712. Repealed.]
 
-713. Senior executives: removal based on performance or misconduct.
+713. Senior executives: removal, demotion, or suspension based on performance or misconduct.
 
-[714. Renumbered.]
+714. Employees: removal, demotion, or suspension based on performance or misconduct.
 
 715. Congressional testimony by employees: treatment as official duty.
 
-[716. Renumbered.]
-
 717. Limitation on administrative leave.
+
+719. Reduction of benefits of employees convicted of certain crimes.
+
+721. Recoupment of bonuses or awards paid to employees of Department.
+
+723. Recoupment of relocation expenses paid on behalf of employees of Department.
 
 #### SUBCHAPTER II—WHISTLEBLOWER COMPLAINTS ####
 
-731. Whistleblower complaint defined.
+731. Adverse actions against supervisory employees who commit prohibited personnel actions relating to whistleblower complaints.
 
-732. Treatment of whistleblower complaints.
+732. Protection of whistleblowers as criteria in evaluation of supervisors.
 
-733. Adverse actions against supervisory employees who commit prohibited personnel actions relating to whistleblower complaints.
+733. Training regarding whistleblower disclosures.
 
-734. Evaluation criteria of supervisors and treatment of bonuses.
-
-735. Training regarding whistleblower complaints.
-
-736. Reports to Congress.
+[734 to 736. Repealed.]
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–41, title I, §102(b), title II, §§201(c), 202(b)(1), 203(a)(2), 204(b), 205(b), June 23, 2017, 131 Stat. 867, 869, 873, 875–877, substituted "removal, demotion, or suspension" for "removal" in item 713, added items 714, 719, 721, 723, and 731 to 733, and struck out former items 731 "Whistleblower complaint defined", 732 "Treatment of whistleblower complaints", and 733 "Adverse actions against supervisory employees who commit prohibited personnel actions relating to whistleblower complaints", and items 734 "Evaluation criteria of supervisors and treatment of bonuses", 735 "Training regarding whistleblower complaints", and 736 "Reports to Congress".
 
 **2016**—Pub. L. 114–315, title V, §503(a)(2), Dec. 16, 2016, 130 Stat. 1568, added item 717.
 
