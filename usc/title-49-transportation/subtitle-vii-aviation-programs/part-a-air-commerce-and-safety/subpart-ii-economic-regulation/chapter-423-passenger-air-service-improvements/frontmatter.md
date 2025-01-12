@@ -20,7 +20,7 @@ Pub. L. 114–190, title II, §2309, July 15, 2016, 130 Stat. 648, provided that
 
 #### Establishment of Advisory Committee for Aviation Consumer Protection ####
 
-Pub. L. 112–95, title IV, §411, Feb. 14, 2012, 126 Stat. 88, as amended by Pub. L. 114–55, title I, §102(i), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(g), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(j), July 15, 2016, 130 Stat. 618, provided that:
+Pub. L. 112–95, title IV, §411, Feb. 14, 2012, 126 Stat. 88, as amended by Pub. L. 114–55, title I, §102(i), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(g), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(j), July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §102(i), Sept. 29, 2017, 131 Stat. 1170, provided that:
 
 "(a) In General.—The Secretary of Transportation shall establish an advisory committee for aviation consumer protection to advise the Secretary in carrying out activities relating to airline customer service improvements.
 
@@ -52,7 +52,7 @@ Pub. L. 112–95, title IV, §411, Feb. 14, 2012, 126 Stat. 88, as amended by Pu
 
 "(2) an explanation of how the Secretary has implemented each recommendation and, for each recommendation not implemented, the Secretary's reason for not implementing the recommendation.
 
-"(h) Termination.—The advisory committee established under this section shall terminate on September 30, 2017."
+"(h) Termination.—The advisory committee established under this section shall terminate on March 31, 2018."
 
 #### Disclosure of Seat Dimensions To Facilitate the Use of Child Safety Seats on Aircraft ####
 

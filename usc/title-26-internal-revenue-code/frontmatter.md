@@ -4034,7 +4034,7 @@ Subtitle D—Miscellaneous Excise Taxes
 
 35. Taxes on wagering 4401
 
-36. Certain other excise taxes 4451
+36. Certain other excise taxes 4461
 
 [37. Repealed.]
 

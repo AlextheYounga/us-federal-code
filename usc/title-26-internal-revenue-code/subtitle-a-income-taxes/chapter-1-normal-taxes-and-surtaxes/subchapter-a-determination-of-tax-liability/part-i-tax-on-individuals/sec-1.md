@@ -1144,6 +1144,10 @@ Pub. L. 89–809, title I, §103(n), Nov. 13, 1966, 80 Stat. 1555, provided that
 
 Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Except for purposes of section 21 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title [amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title] shall apply with respect to taxable years beginning after December 31, 1963."
 
+#### Short Title of 2017 Amendment ####
+
+Pub. L. 115–63, §1(a), Sept. 29, 2017, 131 Stat. 1168, provided that: "This Act [amending sections 4081, 4083, 4261, 4271, and 9502 of this title, sections 254c–3, 256h, 256i, and 1395iii of Title 42, The Public Health and Welfare, and sections 106, 41742, 41743, 47104, 47107, 47114, 47115, 47124, 47141, 48101 to 48103, and 48114 of Title 49, Transportation, and amending provisions set out as a note under section 1395l of Title 42, provisions set out as a note preceding section 42301 of Title 49, and provisions set out as notes under sections 41731 and 47141 of Title 49] may be cited as the 'Disaster Tax Relief and Airport and Airway Extension Act of 2017'."
+
 #### Short Title of 2016 Amendment ####
 
 Pub. L. 114–239, §1, Oct. 7, 2016, 130 Stat. 973, provided that: "This Act [amending section 74 of this title and enacting provisions set out as a note under section 74 of this title] may be cited as the 'United States Appreciation for Olympians and Paralympians Act of 2016'."

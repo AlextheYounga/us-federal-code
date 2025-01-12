@@ -24,7 +24,7 @@
 
 #### Amendment of Subsection (d) ####
 
-Pub. L. 113–291, div. A, title IX, §901(j)(2), Dec. 19, 2014, 128 Stat. 3467, provided that, effective Feb. 1, 2017, subsection (d) of this section is amended in the first sentence by striking all that follows after "the military departments," and inserting "and the Under Secretaries of Defense." See 2014 Amendment note below.
+Pub. L. 113–291, div. A, title IX, §901(j)(2), Dec. 19, 2014, 128 Stat. 3467, provided that, effective Feb. 1, 2017, subsection (d) of this section is amended in the first sentence by striking all that follows after "the military departments," and inserting "and the Under Secretaries of Defense." Amendment was not executed to reflect the probable intent of Congress. See 2014 Amendment note below.
 
 #### Amendments ####
 

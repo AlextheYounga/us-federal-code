@@ -20,6 +20,6 @@ Sec.
 
 #### Amendments ####
 
-**2016**—Pub. L. 114–120, title III, §§306(a)(12), 314(e)(2), Feb. 8, 2016, 130 Stat. 55, 59, inserted period at end of item 70508, added item 70503, and struck out former item 70503 "Manufacture, distribution, or possession of controlled substances on vessels."
+**2016**—Pub. L. 114–120, title III, §§306(a)(12), 314(e)(2), Feb. 8, 2016, 130 Stat. 55, 59, inserted period at end of item 70508, added item 70503, and struck out former item 70503 "Manufacture, distribution, or possession of controlled substances on vessels".
 
 **2008**—Pub. L. 110–407, title II, §202(b)(1), Oct. 13, 2008, 122 Stat. 4300, added item 70508.

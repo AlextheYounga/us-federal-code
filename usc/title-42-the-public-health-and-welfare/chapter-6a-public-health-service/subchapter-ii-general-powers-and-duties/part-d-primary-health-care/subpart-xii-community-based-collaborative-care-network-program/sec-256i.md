@@ -70,10 +70,6 @@ The Secretary may limit the percent of grant funding that may be spent on direct
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2011 through 2015.
 
-(July 1, 1944, ch. 373, title III, §340H, as added Pub. L. 111–148, title X, §10333, Mar. 23, 2010, 124 Stat. 970.)
-
-#### Codification ####
-
-Another section 340H of act July 1, 1944, ch. 373, as added by Pub. L. 111–148, title V, §5508(c), March 23, 2010, 124 Stat. 670, is classified to section 256h of this title.
+(July 1, 1944, ch. 373, title III, §340I, formerly §340H, as added Pub. L. 111–148, title X, §10333, Mar. 23, 2010, 124 Stat. 970; renumbered §340I, Pub. L. 115–63, title III, §301(c)(2), Sept. 29, 2017, 131 Stat. 1172.)
 
 [<sup>1</sup> So in original. A closing parenthesis probably should appear.](#256i_1)
