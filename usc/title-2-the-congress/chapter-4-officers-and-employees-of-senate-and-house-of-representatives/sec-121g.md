@@ -17,3 +17,7 @@ In this section—
 Subsection (a) of this section shall take effect on January 23, 2004, and shall apply during any fiscal year occurring on or after January 23, 2004.
 
 (Pub. L. 108–199, div. H, §151, Jan. 23, 2004, 118 Stat. 448.)
+
+#### Codification ####
+
+Section is from the Miscellaneous Appropriations and Offsets Act, 2004, which is division H of the Consolidated Appropriations Act, 2004.

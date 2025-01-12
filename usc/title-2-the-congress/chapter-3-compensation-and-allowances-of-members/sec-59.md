@@ -132,7 +132,7 @@ Subsec. (f)(5). Pub. L. 102–90, §7(b)(5), substituted “Payment” for “Re
 
 **1980**—Subsec. (a)(2). Pub. L. 96–304, §109(1), substituted provision limiting term of a lease of office space to a term not extending beyond the term of office which Senator is serving on first day of such lease, except in case of a Senator whose term is expiring and who has been elected to another term, to end of term for which he has been so elected, for provision limiting term of a lease of office space to a term of not to exceed one year and inserted provision requiring each lease to contain a provision permitting cancellation upon sixty days written notification by Sergeant at Arms and Doorkeeper of Senate, in event of death or resignation of Senator.
 
-Subsec. (c). Pub. L. 96–304, §109(2), substituted “shall not exceed the highest rate per square foot charged Federal agencies on the first day of the lease of such office” for “shall not at any time exceed the applicable rate per square foot charged Federal agencies”.
+Subsec. (c)(1). Pub. L. 96–304, §109(2), substituted “shall not exceed the highest rate per square foot charged Federal agencies on the first day of the lease of such office” for “shall not at any time exceed the applicable rate per square foot charged Federal agencies”.
 
 **1977**—Subsec. (c)(2). Pub. L. 95–94 substituted “$22,550” for “$20,500” and “$550” for “$500”.
 
