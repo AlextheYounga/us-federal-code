@@ -2066,7 +2066,7 @@ Sec.
 
 300b–4. Public Health Service facilities.
 
-300b–5. Repealed.
+300b–5. Sickle cell disease and other heritable blood disorders research, surveillance, prevention, and treatment.
 
 300b–6. Applied technology.
 

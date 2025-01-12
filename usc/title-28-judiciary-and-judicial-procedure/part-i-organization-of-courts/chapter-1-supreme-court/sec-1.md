@@ -10,6 +10,10 @@ Based on title 28, U.S.C., 1940 ed., §321 (Mar. 3, 1911, ch. 231, §215, 36 Sta
 
 Appointment of "judges of the Supreme Court" by the President by and with the advice and consent of the Senate is provided by U.S. Constitution art. 2, §2, cl. 2.
 
+#### Short Title of 2018 Amendment ####
+
+Pub. L. 115–332, §1, Dec. 19, 2018, 132 Stat. 4487, provided that: "This Act [amending section 1631 of this title] may be cited as the 'Protecting Access to the Courts for Taxpayers Act'."
+
 #### Short Title of 2017 Amendment ####
 
 Pub. L. 115–72, div. B, §1001, Oct. 26, 2017, 131 Stat. 1229, provided that: "This division [enacting section 1232 of Title 11, Bankruptcy, amending section 1930 of this title and sections 1222, 1228, and 1229 of Title 11, and enacting provisions set out as notes under sections 152, 589a, and 1930 of this title and section 1222 of Title 11] may be cited as the 'Bankruptcy Judgeship Act of 2017'."
