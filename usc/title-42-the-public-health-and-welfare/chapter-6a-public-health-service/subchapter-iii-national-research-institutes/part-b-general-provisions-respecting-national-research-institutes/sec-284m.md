@@ -124,13 +124,13 @@ Nothing in this subsection limits the authority of the United States to bring an
 
 #### (1) In general ####
 
-There are authorized to be appropriated to carry out this section, $5,273,973 for the period beginning on October 1, 2022 and ending on December 16, 2022.
+There are authorized to be appropriated to carry out this section, $5,753,425 for the period beginning on October 1, 2022 and ending on December 23, 2022.
 
 #### (2) Availability ####
 
 Any amount appropriated under paragraph (1) shall remain available to carry out this section until expended.
 
-(July 1, 1944, ch. 373, title IV, §409I, as added Pub. L. 107–109, §3(3), Jan. 4, 2002, 115 Stat. 1408; amended Pub. L. 108–155, §3(b)(6), Dec. 3, 2003, 117 Stat. 1942; Pub. L. 109–482, title I, §103(b)(14), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–85, title V, §502(b), Sept. 27, 2007, 121 Stat. 886; Pub. L. 111–148, title VII, §7002(g)(2)(A), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§507(d), 509(d), July 9, 2012, 126 Stat. 1045, 1049; Pub. L. 113–5, title III, §307(b), Mar. 13, 2013, 127 Stat. 192; Pub. L. 115–52, title V, §501, Aug. 18, 2017, 131 Stat. 1036; Pub. L. 117–180, div. F, title V, §5001, Sept. 30, 2022, 136 Stat. 2167.)
+(July 1, 1944, ch. 373, title IV, §409I, as added Pub. L. 107–109, §3(3), Jan. 4, 2002, 115 Stat. 1408; amended Pub. L. 108–155, §3(b)(6), Dec. 3, 2003, 117 Stat. 1942; Pub. L. 109–482, title I, §103(b)(14), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–85, title V, §502(b), Sept. 27, 2007, 121 Stat. 886; Pub. L. 111–148, title VII, §7002(g)(2)(A), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§507(d), 509(d), July 9, 2012, 126 Stat. 1045, 1049; Pub. L. 113–5, title III, §307(b), Mar. 13, 2013, 127 Stat. 192; Pub. L. 115–52, title V, §501, Aug. 18, 2017, 131 Stat. 1036; Pub. L. 117–180, div. F, title V, §5001, Sept. 30, 2022, 136 Stat. 2167; Pub. L. 117–229, div. C, title III, §302, Dec. 16, 2022, 136 Stat. 2312.)
 
 #### **Editorial Notes** ####
 
@@ -140,7 +140,9 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(10), (11), 
 
 #### Amendments ####
 
-**2022**—Subsec. (d)(1). Pub. L. 117–180 substituted "$5,273,973 for the period beginning on October 1, 2022 and ending on December 16, 2022" for "$25,000,000 for each of fiscal years 2018 through 2022".
+**2022**—Subsec. (d)(1). Pub. L. 117–229 substituted "$5,753,425 for the period beginning on October 1, 2022 and ending on December 23, 2022" for "$5,273,973 for the period beginning on October 1, 2022 and ending on December 16, 2022".
+
+Pub. L. 117–180 substituted "$5,273,973 for the period beginning on October 1, 2022 and ending on December 16, 2022" for "$25,000,000 for each of fiscal years 2018 through 2022".
 
 **2017**—Subsec. (a)(2)(A)(ii). Pub. L. 115–52, §501(1), inserted "and identification of biomarkers for such diseases, disorders, or conditions," after "biologics,".
 

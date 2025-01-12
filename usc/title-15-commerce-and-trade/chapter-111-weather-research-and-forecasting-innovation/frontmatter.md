@@ -57,3 +57,11 @@ Sec.
 8549. Hurricane hunter aircraft.
 
 8550. Improvements to Cooperative Observer Program of National Weather Service.
+
+#### SUBCHAPTER IV—IMPROVING FEDERAL PRECIPITATION INFORMATION ####
+
+8561. Study on precipitation estimation.
+
+8562. Improving probable maximum precipitation estimates.
+
+8563. Definitions.

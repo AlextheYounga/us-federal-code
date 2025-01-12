@@ -278,7 +278,7 @@ The application of this clause may result in the applicable percentage increase 
 
 There shall be substituted for the base cost reporting period described in clause (i) a hospital's cost reporting period (if any) beginning during fiscal year 1987 if such substitution results in an increase in the target amount for the hospital.
 
-(D) For cost reporting periods ending on or before September 30, 1994, and for discharges occurring on or after October 1, 1997, and before December 17, 2022, in the case of a hospital that is a medicare-dependent, small rural hospital (as defined in subsection (d)(5)(G)), subject to subparagraph (K), the term "target amount" means—
+(D) For cost reporting periods ending on or before September 30, 1994, and for discharges occurring on or after October 1, 1997, and before December 24, 2022, in the case of a hospital that is a medicare-dependent, small rural hospital (as defined in subsection (d)(5)(G)), subject to subparagraph (K), the term "target amount" means—
 
 (i) with respect to the first 12-month cost reporting period in which this subparagraph is applied to the hospital—
 
@@ -290,7 +290,7 @@ There shall be substituted for the base cost reporting period described in claus
 
 (iii) with respect to discharges occurring in fiscal year 1994, the target amount for the cost reporting period beginning in fiscal year 1993 increased by the applicable percentage increase under subparagraph (B)(iv), and
 
-(iv) with respect to discharges occurring during fiscal year 1998 through fiscal year 2022 and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 16, 2022,,<sup><a href="#1395ww_3_target" name="1395ww_3">3</a></sup> the target amount for the preceding year increased by the applicable percentage increase under subparagraph (B)(iv).
+(iv) with respect to discharges occurring during fiscal year 1998 through fiscal year 2022 and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 23, 2022, the target amount for the preceding year increased by the applicable percentage increase under subparagraph (B)(iv).
 
 There shall be substituted for the base cost reporting period described in clause (i) a hospital's cost reporting period (if any) beginning during fiscal year 1987 if such substitution results in an increase in the target amount for the hospital.
 
@@ -538,7 +538,7 @@ The Secretary shall respond to requests of States under this paragraph within 60
 
 (iv) a hospital which has an average inpatient length of stay (as determined by the Secretary) of greater than 25 days,
 
-(v)(I) a hospital that the Secretary has classified, at any time on or before December 31, 1990,<sup><a href="#1395ww_4_target" name="1395ww_4">4</a></sup> (or, in the case of a hospital that, as of December 19, 1989, is located in a State operating a demonstration project under section 1395f(b) of this title, on or before December 31, 1991) for purposes of applying exceptions and adjustments to payment amounts under this subsection, as a hospital involved extensively in treatment for or research on cancer,
+(v)(I) a hospital that the Secretary has classified, at any time on or before December 31, 1990,<sup><a href="#1395ww_3_target" name="1395ww_3">3</a></sup> (or, in the case of a hospital that, as of December 19, 1989, is located in a State operating a demonstration project under section 1395f(b) of this title, on or before December 31, 1991) for purposes of applying exceptions and adjustments to payment amounts under this subsection, as a hospital involved extensively in treatment for or research on cancer,
 
 (II) a hospital that was recognized as a comprehensive cancer center or clinical cancer research center by the National Cancer Institute of the National Institutes of Health as of April 20, 1983, that is located in a State which, as of December 19, 1989, was not operating a demonstration project under section 1395f(b) of this title, that applied and was denied, on or before December 31, 1990, for classification as a hospital involved extensively in treatment for or research on cancer under this clause (as in effect on the day before August 5, 1997), that as of August 5, 1997, is licensed for less than 50 acute care beds, and that demonstrates for the 4-year period ending on December 31, 1996, that at least 50 percent of its total discharges have a principal finding of neoplastic disease, as defined in subparagraph (E), or
 
@@ -584,7 +584,7 @@ and, in accordance with regulations of the Secretary, does not include a psychia
 
 (iii) adjusting for variations in case mix among hospitals, and
 
-(iv) for discharges occurring on or after October 1, 1986, excluding an estimate of the additional payments to certain hospitals to be made under paragraph (5)(F), except that the Secretary shall not exclude additional payments under such paragraph made as a result of the enactment of section 6003(c) of the Omnibus Budget Reconciliation Act of 1989, the enactment of section 4002(b) of the Omnibus Budget Reconciliation Act of 1990, the enactment of section 303 of the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, or the enactment of section 402(a)(1) <sup><a href="#1395ww_5_target" name="1395ww_5">5</a></sup> of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.
+(iv) for discharges occurring on or after October 1, 1986, excluding an estimate of the additional payments to certain hospitals to be made under paragraph (5)(F), except that the Secretary shall not exclude additional payments under such paragraph made as a result of the enactment of section 6003(c) of the Omnibus Budget Reconciliation Act of 1989, the enactment of section 4002(b) of the Omnibus Budget Reconciliation Act of 1990, the enactment of section 303 of the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, or the enactment of section 402(a)(1) <sup><a href="#1395ww_4_target" name="1395ww_4">4</a></sup> of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.
 
 (D) Computing urban and rural averages.—The Secretary shall compute an average of the standardized amounts determined under subparagraph (C) for the United States and for each region—
 
@@ -694,7 +694,7 @@ For purposes of this subsection, the term "region" means one of the nine census 
 
 (iv)(I) For discharges occurring during the emergency period described in section 1320b–5(g)(1)(B) of this title, in the case of a discharge of an individual diagnosed with COVID–19, the Secretary shall increase the weighting factor that would otherwise apply to the diagnosis-related group to which the discharge is assigned by 20 percent. The Secretary shall identify a discharge of such an individual through the use of diagnosis codes, condition codes, or other such means as may be necessary.
 
-(II) Any adjustment under subclause (I) shall not be taken into account in applying budget neutrality under clause (iii) <sup><a href="#1395ww_6_target" name="1395ww_6">6</a></sup>
+(II) Any adjustment under subclause (I) shall not be taken into account in applying budget neutrality under clause (iii) <sup><a href="#1395ww_5_target" name="1395ww_5">5</a></sup>
 
 (III) In the case of a State for which the Secretary has waived all or part of this section under the authority of section 1315a of this title, nothing in this section shall preclude such State from implementing an adjustment similar to the adjustment under subclause (I).
 
@@ -902,7 +902,7 @@ In determining under subclause (II) the number of the hospital's patient days fo
 
 (a) for discharges occurring on or after April 1, 1990, and on or before December 31, 1990, (P−15)(.6) + 2.5,
 
-(b) for discharges occurring on or after January 1, 1991, and on or before September 30, 1993, (P−15)(.6) + 2.5,<sup><a href="#1395ww_7_target" name="1395ww_7">7</a></sup>
+(b) for discharges occurring on or after January 1, 1991, and on or before September 30, 1993, (P−15)(.6) + 2.5,<sup><a href="#1395ww_6_target" name="1395ww_6">6</a></sup>
 
 (c) for discharges occurring on or after October 1, 1993, (P−15)(.65) + 2.5,
 
@@ -962,13 +962,13 @@ where "P" is the hospital's disproportionate patient percentage (as defined in c
 
 (II) Under subclause (I), the disproportionate share adjustment percentage shall not exceed 12 percent for a hospital that is not classified as a rural referral center under subparagraph (C) or, in the case of discharges occurring on or after October 1, 2006, as a medicare-dependent, small rural hospital under subparagraph (G)(iv).
 
-(G)(i) For any cost reporting period beginning on or after April 1, 1990, and before October 1, 1994, or discharges occurring on or after October 1, 1997, and before December 17, 2022, in the case of a subsection (d) hospital which is a medicare-dependent, small rural hospital, payment under paragraph (1)(A) shall be equal to the sum of the amount determined under clause (ii) and the amount determined under paragraph (1)(A)(iii).
+(G)(i) For any cost reporting period beginning on or after April 1, 1990, and before October 1, 1994, or discharges occurring on or after October 1, 1997, and before December 24, 2022, in the case of a subsection (d) hospital which is a medicare-dependent, small rural hospital, payment under paragraph (1)(A) shall be equal to the sum of the amount determined under clause (ii) and the amount determined under paragraph (1)(A)(iii).
 
 (ii) The amount determined under this clause is—
 
 (I) for discharges occurring during the 36-month period beginning with the first day of the cost reporting period that begins on or after April 1, 1990, the amount by which the hospital's target amount for the cost reporting period (as defined in subsection (b)(3)(D)) exceeds the amount determined under paragraph (1)(A)(iii); and
 
-(II) for discharges occurring during any subsequent cost reporting period (or portion thereof) and before October 1, 1994, or discharges occurring on or after October 1, 1997, and before December 17, 2022, 50 percent (or 75 percent in the case of discharges occurring on or after October 1, 2006) of the amount by which the hospital's target amount for the cost reporting period or for discharges in the fiscal year (as defined in subsection (b)(3)(D)) exceeds the amount determined under paragraph (1)(A)(iii).
+(II) for discharges occurring during any subsequent cost reporting period (or portion thereof) and before October 1, 1994, or discharges occurring on or after October 1, 1997, and before December 24, 2022, 50 percent (or 75 percent in the case of discharges occurring on or after October 1, 2006) of the amount by which the hospital's target amount for the cost reporting period or for discharges in the fiscal year (as defined in subsection (b)(3)(D)) exceeds the amount determined under paragraph (1)(A)(iii).
 
 (iii) In the case of a medicare dependent, small rural hospital that experiences, in a cost reporting period compared to the previous cost reporting period, a decrease of more than 5 percent in its total number of inpatient cases due to circumstances beyond its control, the Secretary shall provide for such adjustment to the payment amounts under this subsection (other than under paragraph (9)) as may be necessary to fully compensate the hospital for the fixed costs it incurs in the period in providing inpatient hospital services, including the reasonable cost of maintaining necessary core staff and services.
 
@@ -1238,7 +1238,7 @@ As used in this section, the term "subsection (d) Puerto Rico hospital" means a 
 
 (iii)(I) The Board shall render a decision on an application submitted under clause (i) not later than 180 days after the deadline referred to in clause (ii).
 
-(II) Appeal of decisions of the Board shall be subject to the provisions of section 557b <sup><a href="#1395ww_8_target" name="1395ww_8">8</a></sup> of title 5. The Secretary shall issue a decision on such an appeal not later than 90 days after the date on which the appeal is filed. The decision of the Secretary shall be final and shall not be subject to judicial review.
+(II) Appeal of decisions of the Board shall be subject to the provisions of section 557b <sup><a href="#1395ww_7_target" name="1395ww_7">7</a></sup> of title 5. The Secretary shall issue a decision on such an appeal not later than 90 days after the date on which the appeal is filed. The decision of the Secretary shall be final and shall not be subject to judicial review.
 
 (D)(i) The Secretary shall publish guidelines to be utilized by the Board in rendering decisions on applications submitted under this paragraph, and shall include in such guidelines the following:
 
@@ -1286,7 +1286,7 @@ As used in this section, the term "subsection (d) Puerto Rico hospital" means a 
 
 (A) In general.—In addition to any payments calculated under this section for a subsection (d) hospital, for discharges occurring during a fiscal year (beginning with fiscal year 2005), the Secretary shall provide for an additional payment amount to each low-volume hospital (as defined in subparagraph (C)(i)) for discharges occurring during that fiscal year that is equal to the applicable percentage increase (determined under subparagraph (B) or (D) for the hospital involved) in the amount paid to such hospital under this section for such discharges (determined without regard to this paragraph).
 
-(B) Applicable percentage increase.—For discharges occurring in fiscal years 2005 through 2010 and for discharges occurring during the portion of fiscal year 2023 beginning on December 17, 2022, and ending on September 30, 2023, and in fiscal year 2024 and subsequent fiscal years, the Secretary shall determine an applicable percentage increase for purposes of subparagraph (A) as follows:
+(B) Applicable percentage increase.—For discharges occurring in fiscal years 2005 through 2010 and for discharges occurring during the portion of fiscal year 2023 beginning on December 24, 2022, and ending on September 30, 2023, and in fiscal year 2024 and subsequent fiscal years, the Secretary shall determine an applicable percentage increase for purposes of subparagraph (A) as follows:
 
 (i) The Secretary shall determine the empirical relationship for subsection (d) hospitals between the standardized cost-per-case for such hospitals and the total number of discharges of such hospitals and the amount of the additional incremental costs (if any) that are associated with such number of discharges.
 
@@ -1296,15 +1296,15 @@ As used in this section, the term "subsection (d) Puerto Rico hospital" means a 
 
 (C) Definitions.—
 
-(i) Low-volume hospital.—For purposes of this paragraph, the term "low-volume hospital" means, for a fiscal year or portion of a fiscal year, a subsection (d) hospital (as defined in paragraph (1)(B)) that the Secretary determines is located more than 25 road miles (or, with respect to fiscal years 2011 through 2022 and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 16, 2022, 15 road miles) from another subsection (d) hospital and has—
+(i) Low-volume hospital.—For purposes of this paragraph, the term "low-volume hospital" means, for a fiscal year or portion of a fiscal year, a subsection (d) hospital (as defined in paragraph (1)(B)) that the Secretary determines is located more than 25 road miles (or, with respect to fiscal years 2011 through 2022 and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 23, 2022, 15 road miles) from another subsection (d) hospital and has—
 
 (I) with respect to each of fiscal years 2005 through 2010, less than 800 discharges during the fiscal year;
 
 (II) with respect to each of fiscal years 2011 through 2018, less than 1,600 discharges of individuals entitled to, or enrolled for, benefits under part A during the fiscal year or portion of fiscal year;
 
-(III) with respect to each of fiscal years 2019 through 2022 and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 16, 2022, less than 3,800 discharges during the fiscal year; and
+(III) with respect to each of fiscal years 2019 through 2022 and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 23, 2022, less than 3,800 discharges during the fiscal year; and
 
-(IV) with respect to the portion of fiscal year 2023 beginning on December 17, 2022, and ending on September 30, 2023, and fiscal year 2024 and each subsequent fiscal year, less than 800 discharges during the fiscal year.
+(IV) with respect to the portion of fiscal year 2023 beginning on December 24, 2022, and ending on September 30, 2023, and fiscal year 2024 and each subsequent fiscal year, less than 800 discharges during the fiscal year.
 
 (ii) Discharge.—For purposes of subparagraphs (B) and (D) and clause (i), the term "discharge" means an inpatient acute care discharge of an individual regardless (except as provided in clause (i)(II) and subparagraph (D)(i)) of whether the individual is entitled to benefits under part A.
 
@@ -1312,13 +1312,13 @@ As used in this section, the term "subsection (d) Puerto Rico hospital" means a 
 
 (I) a subsection (d) hospital of the Indian Health Service (whether operated by such Service or by an Indian tribe or tribal organization (as those terms are defined in section 1603 of title 25)), or
 
-(II) a subsection (d) hospital other than a hospital of the Indian Health Service meets the mileage criterion under clause (i) with respect to fiscal year 2011 or a succeeding fiscal year, the Secretary shall apply the policy described in the regulation at part <sup><a href="#1395ww_9_target" name="1395ww_9">9</a></sup> 412.101(e) of title 42, Code of Federal Regulations (as in effect on March 23, 2018).
+(II) a subsection (d) hospital other than a hospital of the Indian Health Service meets the mileage criterion under clause (i) with respect to fiscal year 2011 or a succeeding fiscal year, the Secretary shall apply the policy described in the regulation at part <sup><a href="#1395ww_8_target" name="1395ww_8">8</a></sup> 412.101(e) of title 42, Code of Federal Regulations (as in effect on March 23, 2018).
 
-(D) Temporary applicable percentage increase.—For discharges occurring in fiscal years 2011 through 2022 or during the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 16, 2022, the Secretary shall determine an applicable percentage increase for purposes of subparagraph (A) using a continuous linear sliding scale ranging from 25 percent for low-volume hospitals—
+(D) Temporary applicable percentage increase.—For discharges occurring in fiscal years 2011 through 2022 or during the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 23, 2022, the Secretary shall determine an applicable percentage increase for purposes of subparagraph (A) using a continuous linear sliding scale ranging from 25 percent for low-volume hospitals—
 
-(i) with respect to each of fiscal years 2011 through 2018, with 200 or fewer discharges of individuals entitled to, or enrolled for, benefits under part A in the fiscal year or the portion of fiscal year to 0 percent for low-volume hospitals with greater than 1,600 discharges of such individuals in the fiscal year or the portion of fiscal year or portion of fiscal year; <sup><a href="#1395ww_3_target" name="1395ww_3">3</a></sup> and
+(i) with respect to each of fiscal years 2011 through 2018, with 200 or fewer discharges of individuals entitled to, or enrolled for, benefits under part A in the fiscal year or the portion of fiscal year to 0 percent for low-volume hospitals with greater than 1,600 discharges of such individuals in the fiscal year or the portion of fiscal year or portion of fiscal year; <sup><a href="#1395ww_9_target" name="1395ww_9">9</a></sup> and
 
-(ii) with respect to each of fiscal years 2019 through 2022 and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 16, 2022, with 500 or fewer discharges in the fiscal year to 0 percent for low-volume hospitals with greater than 3,800 discharges in the fiscal year.
+(ii) with respect to each of fiscal years 2019 through 2022 and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 23, 2022, with 500 or fewer discharges in the fiscal year to 0 percent for low-volume hospitals with greater than 3,800 discharges in the fiscal year.
 
 (13)(A) In order to recognize commuting patterns among geographic areas, the Secretary shall establish a process through application or otherwise for an increase of the wage index applied under paragraph (3)(E) for subsection (d) hospitals located in a qualifying county described in subparagraph (B) in the amount computed under subparagraph (D) based on out-migration of hospital employees who reside in that county to any higher wage index area.
 
@@ -1566,7 +1566,7 @@ The locality adjusted national per resident amount for a hospital for—
 
 in lieu of such FTE resident amount the Secretary shall, in accordance with the methodology described in section 413.77(e) of title 42 of the Code of Federal Regulations (or any successor regulation), establish a new FTE resident amount if the hospital trains at least 1.0 full-time-equivalent resident (in the case of a hospital described in subclause (I)) or more than 3.0 full-time-equivalent residents (in the case of a hospital described in subclause (II)) in a cost reporting period beginning on or after such date and before the date that is 5 years after such date.
 
-(iv) For purposes of carrying out this subparagraph for cost reporting periods beginning on or after December 27, 2020, a hospital shall report full-time-equivalent residents on its cost report for a cost reporting period if the hospital trains at least 1.0 full-time-equivalent residents <sup><a href="#1395ww_3_target" name="1395ww_3">3</a></sup> in an approved medical residency training program or programs in such period.
+(iv) For purposes of carrying out this subparagraph for cost reporting periods beginning on or after December 27, 2020, a hospital shall report full-time-equivalent residents on its cost report for a cost reporting period if the hospital trains at least 1.0 full-time-equivalent residents <sup><a href="#1395ww_9_target" name="1395ww_9">9</a></sup> in an approved medical residency training program or programs in such period.
 
 (v) As appropriate, the Secretary may consider information from any cost reporting period necessary to establish a new FTE resident amount as described in clause (iii).
 
@@ -1716,7 +1716,7 @@ In the case of a hospital's first cost reporting period beginning on or after Oc
 
 (II) In applying this clause in the case of a hospital that, on or after December 27, 2020, begins training residents in a new approved medical residency training program or programs (as defined by the Secretary), the Secretary shall not determine a limitation applicable to the hospital under subparagraph (F) until such time as the Secretary determines that the hospital has trained at least 1.0 full-time-equivalent resident in such new approved medical residency training program or programs in a cost reporting period.
 
-(III) In applying this clause in the case of a hospital that, as of December 27, 2020, has a limitation under subparagraph (F), based on a cost reporting period beginning before October 1, 1997, of less than 1.0 full-time-equivalent resident, the Secretary shall adjust the limitation in the manner applicable to a new approved medical residency training program if the Secretary determines the hospital begins training at least 1.0 full-time-equivalent residents <sup><a href="#1395ww_3_target" name="1395ww_3">3</a></sup> in a program year beginning on or after such date and before the date that is 5 years after such date.
+(III) In applying this clause in the case of a hospital that, as of December 27, 2020, has a limitation under subparagraph (F), based on a cost reporting period beginning before October 1, 1997, of less than 1.0 full-time-equivalent resident, the Secretary shall adjust the limitation in the manner applicable to a new approved medical residency training program if the Secretary determines the hospital begins training at least 1.0 full-time-equivalent residents <sup><a href="#1395ww_9_target" name="1395ww_9">9</a></sup> in a program year beginning on or after such date and before the date that is 5 years after such date.
 
 (IV) In applying this clause in the case of a hospital that, as of December 27, 2020, has a limitation under subparagraph (F), based on a cost reporting period beginning on or after October 1, 1997, and before such date, of no more than 3.0 full-time-equivalent residents, the Secretary shall adjust the limitation in the manner applicable to a new approved medical residency training program if the Secretary determines the hospital begins training more than 3.0 full-time-equivalent residents in a program year beginning on or after such date and before the date that is 5 years after such date.
 
@@ -2146,7 +2146,7 @@ In determining for which hospitals the increase in the otherwise applicable resi
 
 (ii) Whether the hospital is located in a State, a territory of the United States, or the District of Columbia that is among the top 10 States, territories, or Districts in terms of the ratio of—
 
-(I) the total population of the State, territory, or District living in an area designated (under such section 332(a)(1)(A) <sup><a href="#1395ww_5_target" name="1395ww_5">5</a></sup>) as a health professional shortage area (as of March 23, 2010); to
+(I) the total population of the State, territory, or District living in an area designated (under such section 332(a)(1)(A) <sup><a href="#1395ww_4_target" name="1395ww_4">4</a></sup>) as a health professional shortage area (as of March 23, 2010); to
 
 (II) the total population of the State, territory, or District (as determined by the Secretary based on the most recent available population data published by the Bureau of the Census).
 
@@ -3734,7 +3734,7 @@ The term "HCPCS" means, with respect to hospital items and services, the code un
 
 The term "ICD–10–PCS" means the International Classification of Diseases, 10th Revision, Procedure Coding System, and includes any subsequent revision of such International Classification of Diseases, Procedure Coding System.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1886, as added and amended Pub. L. 97–248, title I, §§101(a)(1), 110, Sept. 3, 1982, 96 Stat. 331, 339; Pub. L. 97–448, title III, §309(b)(13)–(15), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §601(a)(1), (2), (b), (c), (d)(2), (e), Apr. 20, 1983, 97 Stat. 149, 150, 152; Pub. L. 98–369, div. B, title III, §§2307(b)(1), 2310(a), 2311(a)–(c), 2312(a), (b), 2313(a), (b), (d), 2315(a)–(c), 2354(b)(42)–(44), July 18, 1984, 98 Stat. 1073, 1075–1080, 1102; Pub. L. 98–617, §3(b)(9), Nov. 8, 1984, 98 Stat. 3296; Pub. L. 99–272, title IX, §§9101(b), (c), 9102(a)–(c), 9104(a), (b), 9105(a)–(c), 9106(a), 9107(a), 9109(a), 9111(a), 9127(a), 9202(a), Apr. 7, 1986, 100 Stat. 153–155, 157–162, 170, 171; Pub. L. 99–349, title II, §206, July 2, 1986, 100 Stat. 749; Pub. L. 99–509, title IX, §§9302(a)(1), (2), (b)(1), (c), (d)(1)(A), (e), 9303, 9304(a)–(c), 9306(a)–(c), 9307(c)(1), 9314(a), 9320(g), 9321(e)(2), Oct. 21, 1986, 100 Stat. 1982–1985, 1988, 1995, 2005, 2015, 2018; Pub. L. 99–514, §2, title XVIII, §1895(b)(1)(A)–(C), (2)(A)–(C), (3), (9), Oct. 22, 1986, 100 Stat. 2095, 2931–2933; Pub. L. 100–93, §8(c)(4), Aug. 18, 1987, 101 Stat. 693; Pub. L. 100–203, title IV, §§4002(a)–(f)(1), 4003(a)–(c), 4004(a), 4005(a)(1), (c)(1), (d)(1)(A), 4006(a)–(b)(2), 4007(b)(1), 4009(d)(1), (j)(1)–(6)(B), 4083(b)(1), Dec. 22, 1987, 101 Stat. 1330–42 to 1330–44, 1330–46, 1330–47, 1330–49, 1330–52, 1330–53, 1330–57 to 1330–59, 1330–129, as amended Pub. L. 100–360, title IV, §411(b)(1)(E), (3), (4)(C)(i), (5)(B), (6)(B), (8)(B), July 1, 1988, 102 Stat. 769, 770, 772; Pub. L. 100–360, title IV, §411(b)(1)(A)–(D), (F)–(H)(i), (4)(A), (B), (5)(A), July 1, 1988, 102 Stat. 768–770; Pub. L. 100–485, title VI, §608(d)(18)(A), (B), Oct. 13, 1988, 102 Stat. 2418; Pub. L. 100–647, title I, §1018(r)(1), title VIII, §§8401, 8403(a), Nov. 10, 1988, 102 Stat. 3586, 3798; Pub. L. 101–234, title III, §301(b)(3), (c)(3), Dec. 13, 1989, 103 Stat. 1985, 1986; Pub. L. 101–239, title VI, §§6002, 6003(a)(1), (b)–(c)(3), (e)(1), (2)(B)–(E), (f), (g)(2), (4)–(h)(4), (6), 6004(a)(1), (2), (b)(1), 6011(a), 6015(a), 6022, Dec. 19, 1989, 103 Stat. 2140–2144, 2151, 2154–2157, 2159–2161, 2164, 2167; Pub. L. 101–403, title I, §115(b)(1), Oct. 1, 1990, 104 Stat. 870; Pub. L. 101–508, title IV, §§4001, 4002(a)(1), (b)(1)–(4), (c)(1), (2), (e)(1), (g)(1), (2), (h)(1)(A), (2)(B), 4003(a), 4005(a)(1), (c)(1)(B), (2), 4008(f)(1), (m)(2)(A), Nov. 5, 1990, 104 Stat. 1388–31 to 1388–38, 1388–40, 1388–42, 1388–45, 1388–53; Pub. L. 103–66, title XIII, §§13501(a), (b)(1), (c), (e)(1), (f), 13502, 13506, 13563(a), (b)(1), (c)(1), Aug. 10, 1993, 107 Stat. 572, 574, 575, 577, 579, 605; Pub. L. 103–432, title I, §§101(a)(1), (b), (c), 102(b)(1)(B), 105, 108–110(a), (c), 153(a), Oct. 31, 1994, 108 Stat. 4400–4402, 4405, 4407, 4408, 4437; Pub. L. 105–33, title IV, §§4022(b)(1)(A), 4201(c)(1), (4), 4202(a), 4204(a)(1), (2), 4401(a), 4402, 4403(a), 4405(a)–(c), 4406, 4407, 4411–4415(c), 4416, 4417(a)(1), (b)(1), 4418(a), 4419(a)(1), 4421(a), (b), 4621–4626(a), 4627(a), 4644(a)(1), (b)(1), (c)(1), Aug. 5, 1997, 111 Stat. 354, 373–375, 397, 398, 400, 401, 403–410, 413, 475–480, 483, 488; Pub. L. 106–113, div. B, §1000(a)(6) [title I, §§111(a), (c), 112(a), 121(a), 122, 125(a), title III, §§311, 312(a), 321(b), (e), (f), (h), (k)(15)–(17), title IV, §§401(a), 402(a), 404(a), (b)(1), 405–407(a)(2), (b)(1), (2), (c)(1), title V, §541], Nov. 29, 1999, 113 Stat. 1536, 1501A–329 to 1501A–332, 1501A–362 to 150A–366, 1501A–368, 1501A–369, 1501A–372 to 1501A–374, 1501A–391; Pub. L. 106–554, §1(a)(4) [div. B, title I, §152(a), (b)], §1(a)(6) [title II, §§211, 212(a), 213(a), title III, §§301(a), (e)(1), 302(a), (c), (d), 303(a), (c), (d)(1), 304(a), (c)(2), 305(a), (b), 307(a)(1), title V, §§511, 512(a), 533(b)(1), (3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–251, 2763A–252, 2763A–483, 2763A–485, 2763A–491 to 2763A–496, 2763A–533, 2763A–548, 2763A–550; Pub. L. 108–173, title IV, §§401(a)–(c), 402, 403, 406, 407(a), 422(a), (b)(1), title V, §§501(a), (b), 502(a), (b), 503(a)–(d)(1), 504, 505(a), title VII, §§711, 736(a)(9), (15), (c)(6), Dec. 8, 2003, 117 Stat. 2262–2265, 2269, 2270, 2284, 2286, 2289–2293, 2340, 2355, 2356; Pub. L. 109–171, title V, §§5001(a), (c), 5002(a), 5003(a)(1), (2)(A), (b)–(d), Feb. 8, 2006, 120 Stat. 28, 30–32; Pub. L. 109–432, div. B, title I, §§106(c), 109(a)(2), title II, §205(b)(1), Dec. 20, 2006, 120 Stat. 2983, 2985, 2989; Pub. L. 110–161, div. G, title II, §225(a), (b)(1), Dec. 26, 2007, 121 Stat. 2189; Pub. L. 110–173, title I, §§114(e)(1), 115(a)(1), Dec. 29, 2007, 121 Stat. 2504, 2506; Pub. L. 110–275, title I, §122, July 15, 2008, 122 Stat. 2514; Pub. L. 111–5, div. B, title IV, §4102(a)(1), (b)(1), Feb. 17, 2009, 123 Stat. 477, 482; Pub. L. 111–148, title III, §§3001(a)(1)–(3), 3004(a), (b), 3008(a), 3025(a), 3124(a), (b)(1), 3125, 3133, 3401(a), (c), (d), (f), title V, §§5503(a), (b), 5504(a), (b), 5505(a), (b), 5506(a), (b), (e), title X, §§10309, 10314, 10316, 10319(a)–(c), (e), 10322(a), 10324(a), 10335, Mar. 23, 2010, 124 Stat. 353–360, 368, 369, 376, 408, 424, 425, 432, 480–483, 655, 658–663, 942, 944, 946, 948, 949, 952, 959, 974; Pub. L. 111–152, title I, §§1104–1105(d), Mar. 30, 2010, 124 Stat. 1047, 1048; Pub. L. 111–192, title I, §102(a), June 25, 2010, 124 Stat. 1281; Pub. L. 111–309, title II, §203, Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–40, title II, §261(a)(3)(A), Oct. 21, 2011, 125 Stat. 423; Pub. L. 112–240, title VI, §§605–606(b)(1), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §§1105–1106(b)(1), title II, §1206(a)(1), (c), Dec. 26, 2013, 127 Stat. 1197, 1200, 1204; Pub. L. 113–93, title I, §§105–106(b)(1), 112(a), Apr. 1, 2014, 128 Stat. 1042, 1044; Pub. L. 113–185, §2(c)(2), (3), Oct. 6, 2014, 128 Stat. 1963, 1964; Pub. L. 114–10, title I, §106(b)(2)(B), title II, §§204–205(b)(1), title IV, §411(b), (e), Apr. 16, 2015, 129 Stat. 139, 144, 145, 161, 162; Pub. L. 114–113, div. H, title II, §231, div. O, title VI, §§601–602(b)(1), Dec. 18, 2015, 129 Stat. 2626, 3023, 3024; Pub. L. 114–115, §4(b), Dec. 28, 2015, 129 Stat. 3133; Pub. L. 114–255, div. A, title IV, §4002(b)(2), div. C, title XV, §§15001—15002(b), 15004(b), 15008(a), (b), (d)(2), 15009(a), 15010(a), Dec. 13, 2016, 130 Stat. 1161, 1315—1317, 1319, 1321–1323; Pub. L. 115–123, div. E, title II, §§50204(a), 50205(a), (b)(1), title IV, §50413, title X, §51005, title XII, §53109(a), Feb. 9, 2018, 132 Stat. 181–183, 221, 296, 303; Pub. L. 115–141, div. G, title IV, §429, Mar. 23, 2018, 132 Stat. 693; Pub. L. 115–271, title VI, §6104, Oct. 24, 2018, 132 Stat. 4006; Pub. L. 116–94, div. N, title I, §108, Dec. 20, 2019, 133 Stat. 3102; Pub. L. 116–136, div. A, title III, §3710(a), Mar. 27, 2020, 134 Stat. 422; Pub. L. 116–260, div. CC, title I, §§126(a)–(c), 127, 131(a)–(c), Dec. 27, 2020, 134 Stat. 2967–2970, 2974, 2976; Pub. L. 117–2, title IX, §9831, Mar. 11, 2021, 135 Stat. 221; Pub. L. 117–180, div. D, title I, §§101(a), 102(a), (b)(1), Sept. 30, 2022, 136 Stat. 2134, 2135.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1886, as added and amended Pub. L. 97–248, title I, §§101(a)(1), 110, Sept. 3, 1982, 96 Stat. 331, 339; Pub. L. 97–448, title III, §309(b)(13)–(15), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §601(a)(1), (2), (b), (c), (d)(2), (e), Apr. 20, 1983, 97 Stat. 149, 150, 152; Pub. L. 98–369, div. B, title III, §§2307(b)(1), 2310(a), 2311(a)–(c), 2312(a), (b), 2313(a), (b), (d), 2315(a)–(c), 2354(b)(42)–(44), July 18, 1984, 98 Stat. 1073, 1075–1080, 1102; Pub. L. 98–617, §3(b)(9), Nov. 8, 1984, 98 Stat. 3296; Pub. L. 99–272, title IX, §§9101(b), (c), 9102(a)–(c), 9104(a), (b), 9105(a)–(c), 9106(a), 9107(a), 9109(a), 9111(a), 9127(a), 9202(a), Apr. 7, 1986, 100 Stat. 153–155, 157–162, 170, 171; Pub. L. 99–349, title II, §206, July 2, 1986, 100 Stat. 749; Pub. L. 99–509, title IX, §§9302(a)(1), (2), (b)(1), (c), (d)(1)(A), (e), 9303, 9304(a)–(c), 9306(a)–(c), 9307(c)(1), 9314(a), 9320(g), 9321(e)(2), Oct. 21, 1986, 100 Stat. 1982–1985, 1988, 1995, 2005, 2015, 2018; Pub. L. 99–514, §2, title XVIII, §1895(b)(1)(A)–(C), (2)(A)–(C), (3), (9), Oct. 22, 1986, 100 Stat. 2095, 2931–2933; Pub. L. 100–93, §8(c)(4), Aug. 18, 1987, 101 Stat. 693; Pub. L. 100–203, title IV, §§4002(a)–(f)(1), 4003(a)–(c), 4004(a), 4005(a)(1), (c)(1), (d)(1)(A), 4006(a)–(b)(2), 4007(b)(1), 4009(d)(1), (j)(1)–(6)(B), 4083(b)(1), Dec. 22, 1987, 101 Stat. 1330–42 to 1330–44, 1330–46, 1330–47, 1330–49, 1330–52, 1330–53, 1330–57 to 1330–59, 1330–129, as amended Pub. L. 100–360, title IV, §411(b)(1)(E), (3), (4)(C)(i), (5)(B), (6)(B), (8)(B), July 1, 1988, 102 Stat. 769, 770, 772; Pub. L. 100–360, title IV, §411(b)(1)(A)–(D), (F)–(H)(i), (4)(A), (B), (5)(A), July 1, 1988, 102 Stat. 768–770; Pub. L. 100–485, title VI, §608(d)(18)(A), (B), Oct. 13, 1988, 102 Stat. 2418; Pub. L. 100–647, title I, §1018(r)(1), title VIII, §§8401, 8403(a), Nov. 10, 1988, 102 Stat. 3586, 3798; Pub. L. 101–234, title III, §301(b)(3), (c)(3), Dec. 13, 1989, 103 Stat. 1985, 1986; Pub. L. 101–239, title VI, §§6002, 6003(a)(1), (b)–(c)(3), (e)(1), (2)(B)–(E), (f), (g)(2), (4)–(h)(4), (6), 6004(a)(1), (2), (b)(1), 6011(a), 6015(a), 6022, Dec. 19, 1989, 103 Stat. 2140–2144, 2151, 2154–2157, 2159–2161, 2164, 2167; Pub. L. 101–403, title I, §115(b)(1), Oct. 1, 1990, 104 Stat. 870; Pub. L. 101–508, title IV, §§4001, 4002(a)(1), (b)(1)–(4), (c)(1), (2), (e)(1), (g)(1), (2), (h)(1)(A), (2)(B), 4003(a), 4005(a)(1), (c)(1)(B), (2), 4008(f)(1), (m)(2)(A), Nov. 5, 1990, 104 Stat. 1388–31 to 1388–38, 1388–40, 1388–42, 1388–45, 1388–53; Pub. L. 103–66, title XIII, §§13501(a), (b)(1), (c), (e)(1), (f), 13502, 13506, 13563(a), (b)(1), (c)(1), Aug. 10, 1993, 107 Stat. 572, 574, 575, 577, 579, 605; Pub. L. 103–432, title I, §§101(a)(1), (b), (c), 102(b)(1)(B), 105, 108–110(a), (c), 153(a), Oct. 31, 1994, 108 Stat. 4400–4402, 4405, 4407, 4408, 4437; Pub. L. 105–33, title IV, §§4022(b)(1)(A), 4201(c)(1), (4), 4202(a), 4204(a)(1), (2), 4401(a), 4402, 4403(a), 4405(a)–(c), 4406, 4407, 4411–4415(c), 4416, 4417(a)(1), (b)(1), 4418(a), 4419(a)(1), 4421(a), (b), 4621–4626(a), 4627(a), 4644(a)(1), (b)(1), (c)(1), Aug. 5, 1997, 111 Stat. 354, 373–375, 397, 398, 400, 401, 403–410, 413, 475–480, 483, 488; Pub. L. 106–113, div. B, §1000(a)(6) [title I, §§111(a), (c), 112(a), 121(a), 122, 125(a), title III, §§311, 312(a), 321(b), (e), (f), (h), (k)(15)–(17), title IV, §§401(a), 402(a), 404(a), (b)(1), 405–407(a)(2), (b)(1), (2), (c)(1), title V, §541], Nov. 29, 1999, 113 Stat. 1536, 1501A–329 to 1501A–332, 1501A–362 to 150A–366, 1501A–368, 1501A–369, 1501A–372 to 1501A–374, 1501A–391; Pub. L. 106–554, §1(a)(4) [div. B, title I, §152(a), (b)], §1(a)(6) [title II, §§211, 212(a), 213(a), title III, §§301(a), (e)(1), 302(a), (c), (d), 303(a), (c), (d)(1), 304(a), (c)(2), 305(a), (b), 307(a)(1), title V, §§511, 512(a), 533(b)(1), (3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–251, 2763A–252, 2763A–483, 2763A–485, 2763A–491 to 2763A–496, 2763A–533, 2763A–548, 2763A–550; Pub. L. 108–173, title IV, §§401(a)–(c), 402, 403, 406, 407(a), 422(a), (b)(1), title V, §§501(a), (b), 502(a), (b), 503(a)–(d)(1), 504, 505(a), title VII, §§711, 736(a)(9), (15), (c)(6), Dec. 8, 2003, 117 Stat. 2262–2265, 2269, 2270, 2284, 2286, 2289–2293, 2340, 2355, 2356; Pub. L. 109–171, title V, §§5001(a), (c), 5002(a), 5003(a)(1), (2)(A), (b)–(d), Feb. 8, 2006, 120 Stat. 28, 30–32; Pub. L. 109–432, div. B, title I, §§106(c), 109(a)(2), title II, §205(b)(1), Dec. 20, 2006, 120 Stat. 2983, 2985, 2989; Pub. L. 110–161, div. G, title II, §225(a), (b)(1), Dec. 26, 2007, 121 Stat. 2189; Pub. L. 110–173, title I, §§114(e)(1), 115(a)(1), Dec. 29, 2007, 121 Stat. 2504, 2506; Pub. L. 110–275, title I, §122, July 15, 2008, 122 Stat. 2514; Pub. L. 111–5, div. B, title IV, §4102(a)(1), (b)(1), Feb. 17, 2009, 123 Stat. 477, 482; Pub. L. 111–148, title III, §§3001(a)(1)–(3), 3004(a), (b), 3008(a), 3025(a), 3124(a), (b)(1), 3125, 3133, 3401(a), (c), (d), (f), title V, §§5503(a), (b), 5504(a), (b), 5505(a), (b), 5506(a), (b), (e), title X, §§10309, 10314, 10316, 10319(a)–(c), (e), 10322(a), 10324(a), 10335, Mar. 23, 2010, 124 Stat. 353–360, 368, 369, 376, 408, 424, 425, 432, 480–483, 655, 658–663, 942, 944, 946, 948, 949, 952, 959, 974; Pub. L. 111–152, title I, §§1104–1105(d), Mar. 30, 2010, 124 Stat. 1047, 1048; Pub. L. 111–192, title I, §102(a), June 25, 2010, 124 Stat. 1281; Pub. L. 111–309, title II, §203, Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–40, title II, §261(a)(3)(A), Oct. 21, 2011, 125 Stat. 423; Pub. L. 112–240, title VI, §§605–606(b)(1), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §§1105–1106(b)(1), title II, §1206(a)(1), (c), Dec. 26, 2013, 127 Stat. 1197, 1200, 1204; Pub. L. 113–93, title I, §§105–106(b)(1), 112(a), Apr. 1, 2014, 128 Stat. 1042, 1044; Pub. L. 113–185, §2(c)(2), (3), Oct. 6, 2014, 128 Stat. 1963, 1964; Pub. L. 114–10, title I, §106(b)(2)(B), title II, §§204–205(b)(1), title IV, §411(b), (e), Apr. 16, 2015, 129 Stat. 139, 144, 145, 161, 162; Pub. L. 114–113, div. H, title II, §231, div. O, title VI, §§601–602(b)(1), Dec. 18, 2015, 129 Stat. 2626, 3023, 3024; Pub. L. 114–115, §4(b), Dec. 28, 2015, 129 Stat. 3133; Pub. L. 114–255, div. A, title IV, §4002(b)(2), div. C, title XV, §§15001—15002(b), 15004(b), 15008(a), (b), (d)(2), 15009(a), 15010(a), Dec. 13, 2016, 130 Stat. 1161, 1315—1317, 1319, 1321–1323; Pub. L. 115–123, div. E, title II, §§50204(a), 50205(a), (b)(1), title IV, §50413, title X, §51005, title XII, §53109(a), Feb. 9, 2018, 132 Stat. 181–183, 221, 296, 303; Pub. L. 115–141, div. G, title IV, §429, Mar. 23, 2018, 132 Stat. 693; Pub. L. 115–271, title VI, §6104, Oct. 24, 2018, 132 Stat. 4006; Pub. L. 116–94, div. N, title I, §108, Dec. 20, 2019, 133 Stat. 3102; Pub. L. 116–136, div. A, title III, §3710(a), Mar. 27, 2020, 134 Stat. 422; Pub. L. 116–260, div. CC, title I, §§126(a)–(c), 127, 131(a)–(c), Dec. 27, 2020, 134 Stat. 2967–2970, 2974, 2976; Pub. L. 117–2, title IX, §9831, Mar. 11, 2021, 135 Stat. 221; Pub. L. 117–180, div. D, title I, §§101(a), 102(a), (b)(1), Sept. 30, 2022, 136 Stat. 2134, 2135; Pub. L. 117–229, div. C, title I, §§101(a), 102(a), (b)(1), Dec. 16, 2022, 136 Stat. 2310.)
 
 #### **Editorial Notes** ####
 
@@ -3794,25 +3794,45 @@ Section 124 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act 
 
 #### Amendments ####
 
-**2022**—Subsec. (b)(3)(D). Pub. L. 117–180, §102(b)(1)(A), substituted "December 17, 2022" for "October 1, 2022" in introductory provisions.
+**2022**—Subsec. (b)(3)(D). Pub. L. 117–229, §102(b)(1)(A), substituted "December 24, 2022" for "December 17, 2022" in introductory provisions.
 
-Subsec. (b)(3)(D)(iv). Pub. L. 117–180, §102(b)(1)(B), inserted "and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 16, 2022," after "through fiscal year 2022".
+Pub. L. 117–180, §102(b)(1)(A), substituted "December 17, 2022" for "October 1, 2022" in introductory provisions.
 
-Subsec. (d)(5)(G)(i). Pub. L. 117–180, §102(a)(1), substituted "December 17, 2022" for "October 1, 2022".
+Subsec. (b)(3)(D)(iv). Pub. L. 117–229, §102(b)(1)(B), substituted "December 23, 2022" for "December 16, 2022,".
 
-Subsec. (d)(5)(G)(ii)(II). Pub. L. 117–180, §102(a)(2), substituted "December 17, 2022" for "October 1, 2022".
+Pub. L. 117–180, §102(b)(1)(B), inserted "and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 16, 2022," after "through fiscal year 2022".
 
-Subsec. (d)(12)(B). Pub. L. 117–180, §101(a)(1), substituted "during the portion of fiscal year 2023 beginning on December 17, 2022, and ending on September 30, 2023, and in fiscal year 2024 and subsequent fiscal years" for "in fiscal year 2023 and subsequent fiscal years" in introductory provisions.
+Subsec. (d)(5)(G)(i). Pub. L. 117–229, §102(a)(1), substituted "December 24, 2022" for "December 17, 2022".
 
-Subsec. (d)(12)(C)(i). Pub. L. 117–180, §101(a)(2)(A), inserted "or portion of a fiscal year" after "for a fiscal year" and "and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 16, 2022" after "through 2022" in introductory provisions.
+Pub. L. 117–180, §102(a)(1), substituted "December 17, 2022" for "October 1, 2022".
 
-Subsec. (d)(12)(C)(i)(III). Pub. L. 117–180, §101(a)(2)(B), inserted "and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 16, 2022" after "through 2022".
+Subsec. (d)(5)(G)(ii)(II). Pub. L. 117–229, §102(a)(2), substituted "December 24, 2022" for "December 17, 2022".
 
-Subsec. (d)(12)(C)(i)(IV). Pub. L. 117–180, §101(a)(2)(C), substituted "the portion of fiscal year 2023 beginning on December 17, 2022, and ending on September 30, 2023, and fiscal year 2024" for "fiscal year 2023".
+Pub. L. 117–180, §102(a)(2), substituted "December 17, 2022" for "October 1, 2022".
 
-Subsec. (d)(12)(D). Pub. L. 117–180, §101(a)(3)(A), inserted "or during the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 16, 2022" after "through 2022" in introductory provisions.
+Subsec. (d)(12)(B). Pub. L. 117–229, §101(a)(1), substituted "December 24, 2022" for "December 17, 2022" in introductory provisions.
 
-Subsec. (d)(12)(D)(ii). Pub. L. 117–180, §101(a)(3)(B), inserted "and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 16, 2022" after "through 2022".
+Pub. L. 117–180, §101(a)(1), substituted "during the portion of fiscal year 2023 beginning on December 17, 2022, and ending on September 30, 2023, and in fiscal year 2024 and subsequent fiscal years" for "in fiscal year 2023 and subsequent fiscal years" in introductory provisions.
+
+Subsec. (d)(12)(C)(i). Pub. L. 117–229, §101(a)(2)(A), substituted "December 23, 2022" for "December 16, 2022" in introductory provisions.
+
+Pub. L. 117–180, §101(a)(2)(A), inserted "or portion of a fiscal year" after "for a fiscal year" and "and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 16, 2022" after "through 2022" in introductory provisions.
+
+Subsec. (d)(12)(C)(i)(III). Pub. L. 117–229, §101(a)(2)(B), which directed the substitution of "December 23, 2022" for "December 16, 2022' ", was executed by making the substitution for "December 16, 2022" to reflect the probable intent of Congress.
+
+Pub. L. 117–180, §101(a)(2)(B), inserted "and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 16, 2022" after "through 2022".
+
+Subsec. (d)(12)(C)(i)(IV). Pub. L. 117–229, §101(a)(2)(C), substituted "December 24, 2022" for "December 17, 2022".
+
+Pub. L. 117–180, §101(a)(2)(C), substituted "the portion of fiscal year 2023 beginning on December 17, 2022, and ending on September 30, 2023, and fiscal year 2024" for "fiscal year 2023".
+
+Subsec. (d)(12)(D). Pub. L. 117–229, §101(a)(3)(A), which directed the substitution of "December 23, 2022" for "December 16, 2022' " in introductory provisions, was executed by making the substitution for "December 16, 2022" to reflect the probable intent of Congress.
+
+Pub. L. 117–180, §101(a)(3)(A), inserted "or during the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 16, 2022" after "through 2022" in introductory provisions.
+
+Subsec. (d)(12)(D)(ii). Pub. L. 117–229, §101(a)(3)(B), which directed the substitution of "December 23, 2022" for "December 16, 2022' ", was executed by making the substitution for "December 16, 2022" to reflect the probable intent of Congress.
+
+Pub. L. 117–180, §101(a)(3)(B), inserted "and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 16, 2022" after "through 2022".
 
 **2021**—Subsec. (d)(3)(E)(i). Pub. L. 117–2, §9831(b), substituted ", the amendments" for "and the amendments" and inserted ", and the amendments made by section 9831(a) of the American Rescue Plan Act of 2021" after "the Patient Protection and Affordable Care Act".
 
@@ -5888,6 +5908,10 @@ Pub. L. 111–148, title V, §5506(c), Mar. 23, 2010, 124 Stat. 662, provided th
 
 Prospective Payment Assessment Commission (ProPAC) was terminated and its assets and staff transferred to the Medicare Payment Advisory Commission (MedPAC) by section 4022(c)(2), (3) of Pub. L. 105–33, set out as a note under section 1395b–6 of this title. Section 4022(c)(2), (3) further provided that MedPAC was to be responsible for preparation and submission of reports required by law to be submitted by ProPAC, and that, for that purpose, any reference in law to ProPAC was to be deemed, after the appointment of MedPAC, to refer to MedPAC.
 
+#### Implementation of Amendment by Pub. L. 117–229 ####
+
+Pub. L. 117–229, div. C, title I, §101(b), Dec. 16, 2022, 136 Stat. 2310, provided that: "Notwithstanding any other provision of law, the Secretary of Health and Human Services may implement the provisions of, including the amendments made by, this section [amending this section] by program instruction or otherwise."
+
 #### Implementation of Amendment by Pub. L. 117–180 ####
 
 Pub. L. 117–180, div. D, title I, §101(b), Sept. 30, 2022, 136 Stat. 2134, provided that: "Notwithstanding any other provision of law, the Secretary of Health and Human Services may implement the provisions of, including the amendments made by, this section [amending this section] by program instruction or otherwise."
@@ -7148,9 +7172,9 @@ Pub. L. 103–66, title XIII, §13501(d), Aug. 10, 1993, 107 Stat. 575, provided
 
 #### Hospitals Declining Urban Area Reclassifications; Retroactive Payments ####
 
-Pub. L. 103–66, title XIII, §13501(e)(2), (3), Aug. 10, 1993, 107 Stat. 576, as amended by Pub. L. 105–33, title IV, §4204(a)(3), Aug. 5, 1997, 111 Stat. 376; Pub. L. 106–113, div. B, §1000(a)(6) [title IV, §404(b)(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–372; Pub. L. 109–171, title V, §5003(a)(2)(B), Feb. 8, 2006, 120 Stat. 32; Pub. L. 111–148, title III, §3124(b)(2), Mar. 23, 2010, 124 Stat. 425; Pub. L. 112–240, title VI, §606(b)(2), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1106(b)(2), Dec. 26, 2013, 127 Stat. 1197; Pub. L. 113–93, title I, §106(b)(2), Apr. 1, 2014, 128 Stat. 1042; Pub. L. 114–10, title II, §205(b)(2), Apr. 16, 2015, 129 Stat. 145; Pub. L. 115–123, div. E, title II, §50205(b)(2), Feb. 9, 2018, 132 Stat. 183; Pub. L. 117–180, div. D, title I, §102(b)(2), Sept. 30, 2022, 136 Stat. 2135, provided that:
+Pub. L. 103–66, title XIII, §13501(e)(2), (3), Aug. 10, 1993, 107 Stat. 576, as amended by Pub. L. 105–33, title IV, §4204(a)(3), Aug. 5, 1997, 111 Stat. 376; Pub. L. 106–113, div. B, §1000(a)(6) [title IV, §404(b)(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–372; Pub. L. 109–171, title V, §5003(a)(2)(B), Feb. 8, 2006, 120 Stat. 32; Pub. L. 111–148, title III, §3124(b)(2), Mar. 23, 2010, 124 Stat. 425; Pub. L. 112–240, title VI, §606(b)(2), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §1106(b)(2), Dec. 26, 2013, 127 Stat. 1197; Pub. L. 113–93, title I, §106(b)(2), Apr. 1, 2014, 128 Stat. 1042; Pub. L. 114–10, title II, §205(b)(2), Apr. 16, 2015, 129 Stat. 145; Pub. L. 115–123, div. E, title II, §50205(b)(2), Feb. 9, 2018, 132 Stat. 183; Pub. L. 117–180, div. D, title I, §102(b)(2), Sept. 30, 2022, 136 Stat. 2135; Pub. L. 117–229, div. C, title I, §102(b)(2), Dec. 16, 2022, 136 Stat. 2311, provided that:
 
-"(2) Permitting hospitals to decline reclassification.—If any hospital fails to qualify as a medicare-dependent, small rural hospital under section 1886(d)(5)(G)(i) of the Social Security Act [42 U.S.C. 1395ww(d)(5)(G)(i)] as a result of a decision by the Medicare Geographic Classification Review Board under section 1886(d)(10) of such Act to reclassify the hospital as being located in an urban area for fiscal year 1993, fiscal year 1994, fiscal year 1998, fiscal year 1999, fiscal year 2000 through fiscal year 2022, or the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 16, 2022 the Secretary of Health and Human Services shall—
+"(2) Permitting hospitals to decline reclassification.—If any hospital fails to qualify as a medicare-dependent, small rural hospital under section 1886(d)(5)(G)(i) of the Social Security Act [42 U.S.C. 1395ww(d)(5)(G)(i)] as a result of a decision by the Medicare Geographic Classification Review Board under section 1886(d)(10) of such Act to reclassify the hospital as being located in an urban area for fiscal year 1993, fiscal year 1994, fiscal year 1998, fiscal year 1999, fiscal year 2000 through fiscal year 2022, or the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 23, 2022[,] the Secretary of Health and Human Services shall—
 
 "(A) notify such hospital of such failure to qualify,
 
@@ -7912,19 +7936,19 @@ Pub. L. 97–248, title I, §101(b)(2)(B), Sept. 3, 1982, 96 Stat. 335, as amend
 
 [<sup>2</sup> So in original. The semicolon probably should be a comma.](#1395ww_2)
 
-[<sup>3</sup> So in original.](#1395ww_3)
+[<sup>3</sup> So in original. The comma probably should not appear.](#1395ww_3)
 
-[<sup>4</sup> So in original. The comma probably should not appear.](#1395ww_4)
+[<sup>4</sup> See References in Text note below.](#1395ww_4)
 
-[<sup>5</sup> See References in Text note below.](#1395ww_5)
+[<sup>5</sup> So in original. Probably should be followed by a period.](#1395ww_5)
 
-[<sup>6</sup> So in original. Probably should be followed by a period.](#1395ww_6)
+[<sup>6</sup> So in original. Probably should be followed by "and".](#1395ww_6)
 
-[<sup>7</sup> So in original. Probably should be followed by "and".](#1395ww_7)
+[<sup>7</sup> So in original. Probably should be section "557(b)".](#1395ww_7)
 
-[<sup>8</sup> So in original. Probably should be section "557(b)".](#1395ww_8)
+[<sup>8</sup> So in original. Probably should be "section".](#1395ww_8)
 
-[<sup>9</sup> So in original. Probably should be "section".](#1395ww_9)
+[<sup>9</sup> So in original.](#1395ww_9)
 
 [<sup>10</sup> So in original. The semicolon probably should not appear.](#1395ww_10)
 
