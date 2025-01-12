@@ -20,6 +20,10 @@ Words "with the National Youth Administration" were omitted from text in view of
 
 Amendment by Pub. L. 93–198 effective July 1, 1974, see section 771(b) of Pub. L. 93–198, set out in part as a note under section 49b of this title.
 
+#### Short Title of 2020 Amendment ####
+
+Pub. L. 116–134, §1, Mar. 26, 2020, 134 Stat. 276, provided that: "This Act [enacting section 50c of this title] may be cited as the 'Support for Veterans in Effective Apprenticeships Act of 2019'."
+
 #### Short Title ####
 
 The act of Aug. 16, 1937, ch. 663, 50 Stat. 664, which enacted this chapter, is popularly known as the "National Apprenticeship Act".

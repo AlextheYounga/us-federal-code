@@ -374,7 +374,7 @@ Sec.
 
 1430. Married persons and employees of certain nonprofit organizations.
 
-1431. Children born outside the United States and residing permanently in the United States; conditions under which citizenship automatically acquired; determinations of name and birth date.
+1431. Children born outside the United States and lawfully admitted for permanent residence; conditions under which citizenship automatically acquired.
 
 1432. Repealed.
 
