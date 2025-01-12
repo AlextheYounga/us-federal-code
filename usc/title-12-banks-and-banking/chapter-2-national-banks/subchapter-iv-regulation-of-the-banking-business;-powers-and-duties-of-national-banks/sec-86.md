@@ -4,6 +4,8 @@ The taking, receiving, reserving, or charging a rate of interest greater than is
 
 (R.S. §5198.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §5198 (less last sentence) derived from act June 3, 1864, ch. 106, §30, 13 Stat. 108, which was the National Bank Act. See section 38 of this title.

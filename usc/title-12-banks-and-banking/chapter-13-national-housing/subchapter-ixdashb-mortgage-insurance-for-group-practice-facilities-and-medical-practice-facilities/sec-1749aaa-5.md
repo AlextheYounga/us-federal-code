@@ -30,6 +30,8 @@ For the purposes of this subchapter—
 
 (June 27, 1934, ch. 847, title XI, §1106, as added Pub. L. 89–754, title V, §502(a), Nov. 3, 1966, 80 Stat. 1276; amended Pub. L. 93–383, title III, §312(a)(6), (b), Aug. 22, 1974, 88 Stat. 683, 684.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1974**—Par. (1). Pub. L. 93–383, §312(b)(1), inserted references to practice of osteopathy and authorized inclusion of podiatric care or treatment under the professional supervision of persons licensed to practice podiatry in the State.

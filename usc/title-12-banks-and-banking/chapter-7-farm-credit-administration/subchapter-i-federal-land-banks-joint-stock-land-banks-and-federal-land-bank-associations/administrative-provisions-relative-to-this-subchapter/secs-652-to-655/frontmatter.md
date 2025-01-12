@@ -6,6 +6,8 @@ Section 652 was amended by act Mar. 4, 1923, ch. 252, title III, §301, 42 Stat.
 
 Sections 653, 654, and 655 were each amended by Ex. Ord. No. 6084, Mar. 27, 1933; and act June 16, 1933, ch. 98, title VIII, §80(a), 48 Stat. 273.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective 120 days after Aug. 6, 1953, see act Aug. 6, 1953, ch. 335, §18, 67 Stat. 399.

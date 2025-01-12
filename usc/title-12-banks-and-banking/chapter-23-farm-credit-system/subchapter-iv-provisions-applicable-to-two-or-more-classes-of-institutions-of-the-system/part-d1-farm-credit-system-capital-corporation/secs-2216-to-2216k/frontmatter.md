@@ -24,6 +24,8 @@ Section 2216j, Pub. L. 92–181, title IV, §4.28K, as added Pub. L. 99–205, t
 
 Section 2216k, Pub. L. 92–181, title IV, §4.28L, as added Pub. L. 99–205, title I, §103, Dec. 23, 1985, 99 Stat. 1687, provided for tax status of consolidated obligations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective 15 days after Jan. 6, 1988, see section 207(b) of Pub. L. 100–233, set out as a note under section 2152 of this title.

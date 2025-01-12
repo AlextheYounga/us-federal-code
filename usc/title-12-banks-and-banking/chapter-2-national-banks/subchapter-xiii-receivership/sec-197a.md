@@ -4,6 +4,8 @@ In any case in which, in the opinion of the Comptroller of the Currency, it woul
 
 (June 16, 1933, ch. 89, §29, 48 Stat. 193.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Exception as to Transfer of Functions ####
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.

@@ -4,6 +4,8 @@ Section 658, acts July 17, 1916, ch. 245, title I, §3, 39 Stat. 361; Mar. 4, 19
 
 Section 659, acts July 17, 1916, ch. 245, title I, §3, 39 Stat. 361; Mar. 4, 1925, ch. 524, §4, 43 Stat. 1263, related to employment of attorneys, experts, and other employees.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Dec. 31, 1959, see Pub. L. 86–168, title I, §104(k), Aug. 18,1959, 73 Stat. 387.

@@ -4,6 +4,8 @@ The term "common stock" as used in sections 51a, 51b, 51c, and 51d <sup><a href
 
 (Mar. 9, 1933, ch. 1, title III, §303, 48 Stat. 5.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 51d of this title, referred to in text, was repealed by act June 30, 1947, ch. 166, title II, §206(b), (o), 61 Stat. 208. For effect of the repeal on outstanding debentures held by banks, see note under section 51b–1 of this title.

@@ -38,9 +38,13 @@ The Board shall place on its home Internet website, a link entitled "Audit", whi
 
 (Dec. 23, 1913, ch. 6, §2B, as added Pub. L. 106–569, title X, §1003(b)(1), Dec. 27, 2000, 114 Stat. 3028; amended Pub. L. 111–203, title XI, §1103(a), July 21, 2010, 124 Stat. 2118.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Subsec. (c). Pub. L. 111–203 added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

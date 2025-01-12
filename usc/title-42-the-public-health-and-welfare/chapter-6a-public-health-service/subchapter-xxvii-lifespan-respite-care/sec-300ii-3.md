@@ -1,11 +1,19 @@
-### §300ii–3. Report ###
+### §300ii–3. Data collection and reporting ###
 
-Not later than January 1, 2009, the Secretary shall report to the Congress on the activities undertaken under this subchapter. Such report shall evaluate—
+#### (a) In general ####
 
-(1) the number of States that have lifespan respite care programs;
+Each State agency awarded a grant or cooperative agreement under section 300ii–1 of this title shall report such data, information, and metrics as the Secretary may require for purposes of—
 
-(2) the demographics of the caregivers receiving respite care services through grants or cooperative agreements under this subchapter; and
+(1) evaluating State programs and activities funded pursuant to such grant or cooperative agreement, including any results pursuant to section 300ii–1(d)(2)(B)(xii) of this title; and
 
-(3) the effectiveness of entities receiving grants or cooperative agreements under this subchapter.
+(2) identifying effective programs and activities funded pursuant to section 300ii–1 of this title.
 
-(July 1, 1944, ch. 373, title XXIX, §2904, as added Pub. L. 109–442, §2, Dec. 21, 2006, 120 Stat. 3295.)
+#### (b) Report ####
+
+Not later than October 1, 2023, the Secretary shall submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives regarding the outcomes of the programs and activities funded pursuant to section 300ii–1 of this title, including any effective programs and activities identified.
+
+(July 1, 1944, ch. 373, title XXIX, §2904, as added Pub. L. 109–442, §2, Dec. 21, 2006, 120 Stat. 3295; amended Pub. L. 116–324, §2(a), Jan. 5, 2021, 134 Stat. 5085.)
+
+#### Amendments ####
+
+**2021**—Pub. L. 116–324 amended section generally. Prior to amendment, section required the Secretary to report to Congress by Jan. 1, 2009, on the activities undertaken under this subchapter.

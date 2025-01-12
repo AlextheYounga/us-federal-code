@@ -22,6 +22,8 @@ Section 1730c, act June 27, 1934, ch. 847, title IV, §410, as added Dec. 15, 19
 
 Section 1730d, act June 27, 1934, ch. 847, title IV, §411, as added Oct. 26, 1970, Pub. L. 91–508, title I, §102, 84 Stat. 1116; amended Nov. 18, 1988, Pub. L. 100–690, title VI, §6185(d)(2), 102 Stat. 4356, related to retention of records by insured institutions.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
 For provisions relating to abolition of Federal Savings and Loan Insurance Corporation and transfer of functions, personnel and property, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of this title.

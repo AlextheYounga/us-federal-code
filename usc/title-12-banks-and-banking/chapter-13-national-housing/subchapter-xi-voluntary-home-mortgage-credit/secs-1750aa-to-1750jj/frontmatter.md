@@ -1,5 +1,7 @@
 ### §§1750aa to 1750jj. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1750aa, act Aug. 2, 1954, ch. 649, title VI, §601, 68 Stat. 637, contained a declaration of policy for voluntary home mortgage credit.

@@ -4,6 +4,8 @@ If any part of the capital of a national bank, State member bank, or bank applyi
 
 (Aug. 23, 1935, ch. 614, title III, §345, 49 Stat. 722; Pub. L. 96–221, title VII, §703, Mar. 31, 1980, 94 Stat. 186.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 51d of this title, referred to in text, which was section 304 of the Emergency Banking and Bank Conservation Act, approved March 9, 1933, ch. 1, 48 Stat. 6, as amended, and which authorized the Reconstruction Finance Corporation, upon the request of the Secretary of the Treasury approved by the President, to purchase, or to make loans upon, the capital stock of any bank or trust company requiring funds for capital purposes in connection with its organization or reorganization, and which made provision for the purchase of the capital notes of banks organized in States which subject holders of preferred stock to double liability and for the sale of any stock or notes purchased under such authority, was repealed by act June 30, 1947, ch. 166, title II, §206(b), (o), 61 Stat. 208. However, according to the information received from the Department of the Treasury, the second sentence of this section is not obsolete even though it contains such obsolete reference to section 51d of this title, and even though, under 1957 Reorg. Plan No. 1, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees, the Reconstruction Finance Corporation was abolished, for many banks have outstanding debentures which they obtained pursuant to the provisions of section 51d, and which they are not required to redeem; and their benefits or entitlements conferred by the second sentence of this section will remain until the debentures are redeemed.
@@ -13,6 +15,8 @@ The Emergency Banking and Bank Conservation Act, approved March 9, 1933, as amen
 #### Amendments ####
 
 **1980**—Pub. L. 96–221 struck out limitation on payment of cumulative dividends at a rate not exceeding 6 per centum per annum.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Exception as to Transfer of Functions ####
 

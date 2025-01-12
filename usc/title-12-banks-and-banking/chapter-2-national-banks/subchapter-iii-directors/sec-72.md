@@ -4,6 +4,8 @@ Every director must, during his whole term of service, be a citizen of the Unite
 
 (R.S. §5146; Feb. 28, 1905, ch. 1163, 33 Stat. 818; Mar. 1, 1921, ch. 100, 41 Stat. 1199; Feb. 25, 1927, ch. 191, §17, 44 Stat. 1233; Apr. 27, 1956, ch. 215, 70 Stat. 119; Pub. L. 95–369, §2, Sept. 17, 1978, 92 Stat. 608; Pub. L. 96–221, title VII, §710, Mar. 31, 1980, 94 Stat. 189; Pub. L. 103–325, title III, §313, Sept. 23, 1994, 108 Stat. 2221; Pub. L. 104–208, div. A, title II, §2241, Sept. 30, 1996, 110 Stat. 3009–418; Pub. L. 106–569, title XII, §1233(a), Dec. 27, 2000, 114 Stat. 3037.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §5146 derived from act June 3, 1864, ch. 106, §§9, 10, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.

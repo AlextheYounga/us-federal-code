@@ -46,6 +46,8 @@ The Board of Governors of the Federal Reserve System may prescribe such rules an
 
 (Dec. 23, 1913, ch. 6, §22(g), as added June 16, 1933, ch. 89, §12, 48 Stat. 182; amended June 14, 1935, ch. 245, 49 Stat. 375; Aug. 23, 1935, ch. 614, title III, §326(c), 49 Stat. 716; Apr. 25, 1938, ch. 173, 52 Stat. 223; June 20, 1939, ch. 214, §1, 53 Stat. 842; Pub. L. 90–44, §1, July 3, 1967, 81 Stat. 109; Pub. L. 95–630, title I, §110, Nov. 10, 1978, 92 Stat. 3665; Pub. L. 97–320, title IV, §421, Oct. 15, 1982, 96 Stat. 1522; Pub. L. 103–325, title III, §334(a), Sept. 23, 1994, 108 Stat. 2233; Pub. L. 109–351, title VI, §601(a), Oct. 13, 2006, 120 Stat. 1978.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Proviso which permitted renewal or extension of loans made to executive officers prior to June 16, 1933, for periods expiring not more than five years from June 16, 1939, was omitted as obsolete.
@@ -95,6 +97,8 @@ Pub. L. 90–44 struck out former sixth sentence, less proviso, which provided f
 **1935**—Act Aug. 23, 1935, added last two provisos.
 
 Act June 14, 1935, struck out a proviso and inserted in lieu thereof first proviso.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1978 Amendment ####
 

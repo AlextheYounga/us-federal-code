@@ -4,6 +4,8 @@ All transfers of the notes, bonds, bills of exchange, or other evidences of debt
 
 (R.S. §5242.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Chapter 4 of title 62 of the Revised Statutes, referred to in text, was in the original "this chapter", meaning chapter 4 of title 62 of the Revised Statutes, consisting of R.S. §§5220 to 5244, which are classified to this section and sections 16, 43, 93, 93a, 181, 182, 192 to 194, 196, and 481 to 485 of this title. See, also, section 709 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5220 to 5244 to the Code, see Tables.

@@ -18,6 +18,8 @@ Notwithstanding the five-year holding limitation of this section or any other pr
 
 (R.S. §5137; Feb. 25, 1927, ch. 191, §3, 44 Stat. 1227; Pub. L. 96–221, title VII, §701(a), Mar. 31, 1980, 94 Stat. 186; Pub. L. 97–25, title III, §302, July 27, 1981, 95 Stat. 145; Pub. L. 97–320, title IV, §413, Oct. 15, 1982, 96 Stat. 1521.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Title 62 of the Revised Statutes, referred to in last par., was in the original "this title" meaning title LXII of the Revised Statutes, consisting of R.S. §§5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.

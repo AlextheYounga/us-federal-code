@@ -4,6 +4,8 @@ The Comptroller of the Currency is authorized to employ such additional examiner
 
 (Mar. 4, 1923, ch. 252, title II, §209(b), 42 Stat. 1467.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 6, referred to in text, was repealed by Pub. L. 86–251, §1(c)(1), Sept. 9, 1959, 73 Stat. 488.
@@ -19,6 +21,8 @@ The bureau referred to in text is known as the Office of the Comptroller of the 
 #### Codification ####
 
 Section is comprised of subsec. (b), third sentence, of section 209 of act Mar. 4, 1923. For classification to this title of other provisions of section 209, see Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Exception as to Transfer of Functions ####
 

@@ -4,6 +4,8 @@ The president of the bank shall be a member of the board and shall be the chairm
 
 (R.S. §5150; Feb. 25, 1927, ch. 191, §6, 44 Stat. 1228.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §5150 derived from act June 3, 1864, ch. 106, §9, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.

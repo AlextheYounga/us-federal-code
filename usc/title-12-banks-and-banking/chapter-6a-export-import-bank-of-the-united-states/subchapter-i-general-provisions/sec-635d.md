@@ -4,6 +4,8 @@ The Export-Import Bank of the United States is authorized to issue from time to 
 
 (July 31, 1945, ch. 341, §5, formerly §6, 59 Stat. 528; June 9, 1947, ch. 101, §2, 61 Stat. 131; Oct. 3, 1951, ch. 445, §1(a), 65 Stat. 367; Aug. 9, 1954, ch. 660, §3(a), 68 Stat. 678; Pub. L. 85–424, §1(1), May 22, 1958, 72 Stat. 133; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 93–646, §7, Jan. 4, 1975, 88 Stat. 2336; renumbered §5, Pub. L. 102–429, title I, §121(c)(2), Oct. 21, 1992, 106 Stat. 2199.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 "Chapter 31 of title 31" and "that chapter" substituted in text for "the Second Liberty Bond Act, as amended" and "that Act", respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
@@ -25,6 +27,8 @@ A prior section 5 of act July 31, 1945, ch. 341, was classified to section 635c 
 **1951**—Act Oct. 3, 1951, substituted "three and one-half" for "two and one-half".
 
 **1947**—Act June 9, 1947, struck out "and bear such rate of interest" before "as may be determined" in the second sentence and added the third sentence relating to the rate of interest on obligations.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1954 Amendment ####
 

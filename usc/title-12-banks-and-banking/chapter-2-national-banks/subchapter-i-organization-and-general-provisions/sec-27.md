@@ -8,6 +8,8 @@
 
 (R.S. §5169; Pub. L. 95–630, title XV, §1504, Nov. 10, 1978, 92 Stat. 3713; Pub. L. 96–221, title VII, §712(a), (c), Mar. 31, 1980, 94 Stat. 189, 190; Pub. L. 97–320, title IV, §404(a), Oct. 15, 1982, 96 Stat. 1511; Pub. L. 103–325, title III, §322(a)(2), Sept. 23, 1994, 108 Stat. 2227.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Title 62 of the Revised Statutes, referred to in subsec. (a), was in the original "this Title" meaning title LXII of the Revised Statutes, consisting of R.S. §§5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 25b, 26, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
@@ -27,6 +29,8 @@ Pub. L. 103–325, §322(a)(2)(B), which directed substitution of "services to o
 **1980**—Pub. L. 96–221, §712(a), (c), temporarily inserted provisions relating to treatment of national banking associations as additional banks within the contemplation of section 1842 of this title. See Termination Date of 1980 Amendment note below.
 
 **1978**—Pub. L. 95–630 inserted provision that a National Bank Association, to which the Comptroller of the Currency has heretofore issued or hereafter issues such certificate, is not illegally constituted solely because its operations are or have been required by the Comptroller of the Currency to be limited to those of a trust company and activities related thereto.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination Date of 1980 Amendment ####
 

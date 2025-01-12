@@ -4,6 +4,8 @@ A State member bank may make investments directly or indirectly, each of which i
 
 (Dec. 23, 1913, ch. 6, §9(23), formerly §9 (par.), as added Pub. L. 102–485, §6(b), Oct. 23, 1992, 106 Stat. 2774; amended Pub. L. 104–208, div. A, title II, §2704(d)(8), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(b), Feb. 15, 2006, 119 Stat. 3616; renumbered §9(23) and amended Pub. L. 109–351, title III, §305(b), Oct. 13, 2006, 120 Stat. 1971; Pub. L. 110–289, div. B, title V, §2503(b), July 30, 2008, 122 Stat. 2857.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is comprised of par. (23) (the twenty-third par.) of section 9 of act Dec. 23, 1913, as amended. For further details, see Codification note set out under section 321 of this title.
@@ -19,6 +21,8 @@ Pub. L. 109–173, in fourth sentence, substituted "Deposit Insurance Fund" for 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(8). See 1996 Amendment note below.
 
 **1996**—Pub. L. 104—208, §2704(d)(8), which directed the amendment of the fourth sentence by substituting "Deposit Insurance Fund" for "affected deposit insurance fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2006 Amendment ####
 

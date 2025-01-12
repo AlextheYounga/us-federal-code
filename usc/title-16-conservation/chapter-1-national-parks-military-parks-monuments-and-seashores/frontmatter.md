@@ -2402,6 +2402,30 @@ Sec.
 
 410ffff–5. Authorization of appropriations.
 
+#### SUBCHAPTER LIX–EEE—HOMESTEAD NATIONAL HISTORICAL PARK ####
+
+410gggg. Homestead National Historical Park; establishment.
+
+410gggg–1. Administration; establishment of museum.
+
+410gggg–2. Authorization of annual appropriations.
+
+#### SUBCHAPTER LIX–FFF—JIMMY CARTER NATIONAL HISTORICAL PARK ####
+
+410hhhh. Establishment of Jimmy Carter National Historic Site.
+
+410hhhh–1. Jimmy Carter National Preservation District.
+
+410hhhh–2. Administration of historic site and preservation district.
+
+410hhhh–3. Advisory commission.
+
+410hhhh–4. Management plan.
+
+410hhhh–5. Definitions.
+
+410hhhh–6. Authorization of appropriations.
+
 #### SUBCHAPTER LX—NATIONAL MILITARY PARKS ####
 
 411 to 421. Omitted, Repealed, or Transferred.
@@ -2960,13 +2984,7 @@ Sec.
 
 450t. Administration, protection, and development.
 
-450u. Homestead National Monument of America; establishment.
-
-450v. Omitted.
-
-450w. Administration; establishment of museum.
-
-450x. Authorization of annual appropriations.
+450u to 450x. Transferred or Omitted.
 
 450y. Coronado National Memorial; establishment.
 

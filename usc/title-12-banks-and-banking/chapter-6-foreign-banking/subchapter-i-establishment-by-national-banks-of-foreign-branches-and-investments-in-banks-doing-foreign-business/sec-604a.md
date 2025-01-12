@@ -4,6 +4,8 @@ Regulations issued by the Board of Governors of the Federal Reserve System under
 
 (Dec. 23, 1913, ch. 6, §25 (par.), as added Pub. L. 87–588, Aug. 15, 1962, 76 Stat. 388.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in text, was in the original "this section", meaning section 25 of act Dec. 23, 1913, which is classified to this subchapter (§601 et seq.).

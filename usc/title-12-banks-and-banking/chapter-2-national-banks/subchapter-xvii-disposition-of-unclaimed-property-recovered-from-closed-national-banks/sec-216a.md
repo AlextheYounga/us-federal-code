@@ -10,6 +10,8 @@ For purposes of this subchapter—
 
 (Pub. L. 96–221, title VII, §732, as added Pub. L. 97–320, title IV, §408, Oct. 15, 1982, 96 Stat. 1513; amended Pub. L. 109–351, title VII, §725(c)(2), Oct. 13, 2006, 120 Stat. 2001; Pub. L. 109–356, title I, §123(c)(2), Oct. 16, 2006, 120 Stat. 2029.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2006**—Par. (2). Pub. L. 109–351 and 109–356 amended par. (2) identically, striking out "or closed banks in the District of Columbia" after "closed national banks".

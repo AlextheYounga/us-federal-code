@@ -4,6 +4,8 @@ In addition to the powers now vested by law in national banking associations org
 
 (Dec. 23, 1913, ch. 6, §13 (par.), as added Sept. 7, 1916, ch. 461, 39 Stat. 753; amended Pub. L. 97–320, title IV, §403(b), Oct. 15, 1982, 96 Stat. 1511.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is based on the eleventh par. of section 13 of act Dec. 23, 1913, as amended. The eleventh par. constituted the ninth par. of section 13 in 1916 (39 Stat. 752, 753), became the tenth par. in 1923 (42 Stat. 1478), and became the eleventh par. in 1932 (47 Stat. 715). For further details, see Codification notes under sections 342 to 344 of this title.
@@ -13,6 +15,8 @@ For decision by U.S. Supreme Court that, despite faulty placement of quotation m
 #### Amendments ####
 
 **1982**—Pub. L. 97–320 struck out "; and may also act as the broker or agent for others in making or procuring loans on real estate located within one hundred miles of the place in which said bank may be located, receiving for such services a reasonable fee or commission" after "may act as agent" and "guarantee either the principal or interest of any such loans or" after "shall in any case".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1982 Amendment ####
 

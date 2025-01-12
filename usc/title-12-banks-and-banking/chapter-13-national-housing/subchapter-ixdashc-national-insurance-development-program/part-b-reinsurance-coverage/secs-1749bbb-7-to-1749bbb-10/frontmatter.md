@@ -1,5 +1,7 @@
 ### §§1749bbb–7 to 1749bbb–10. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1749bbb–7 to 1749bbb–10, comprising part B of this subchapter, were omitted in view of termination of powers of Director under this part on Nov. 30, 1983, pursuant to former section 1749bbb(b) of this title.

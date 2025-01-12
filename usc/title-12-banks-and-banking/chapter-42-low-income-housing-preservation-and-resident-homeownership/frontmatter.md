@@ -70,6 +70,8 @@ Sec.
 
 4147. Funding.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Subtitles A and B of the Low-Income Housing Preservation and Resident Homeownership Act of 1990, Pub. L. 100–242, title II, as revised generally by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, comprise subchapter I of this chapter. Prior to the general revision by Pub. L. 101–625 subtitles A and B (§§201–235) of the Emergency Low Income Housing Preservation Act of 1987, Pub. L. 100–242, title II, Feb. 5, 1988, 101 Stat. 1877, as amended by Pub. L. 100–628, title X, §§1021–1027, Nov. 7, 1988, 102 Stat. 3270, 3271; Pub. L. 101–235, title II, §§201, 202(a)–(c), 203(b), Dec. 15, 1989, 103 Stat. 2037, 2038; Pub. L. 101–402, §1, Oct. 1, 1990, 104 Stat. 866; Pub. L. 101–494, §§1(c), 2(a), Oct. 31, 1990, 104 Stat. 1185, were set out as a note under section 1715l of this title and amended section 1715z–6 of this title.

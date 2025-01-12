@@ -38,6 +38,8 @@ Stock of the receiving association may be issued as provided by the terms of the
 
 (Nov. 7, 1918, ch. 209, §3, formerly §2, as added Pub. L. 86–230, §20, Sept. 8, 1959, 73 Stat. 463; renumbered §3, Pub. L. 103–328, title I, §102(b)(4)(A), Sept. 29, 1994, 108 Stat. 2351; amended Pub. L. 112–231, §2(b)(2)(B), Dec. 28, 2012, 126 Stat. 1619.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Provisions similar to those comprising this section were contained in section 4 of act Nov. 7, 1918, ch. 209, as added July 14, 1952, ch. 722, §1, 66 Stat. 599 (formerly classified to section 34b of this title), prior to the complete amendment and renumbering of act Nov. 7, 1918, by Pub. L. 86–230.

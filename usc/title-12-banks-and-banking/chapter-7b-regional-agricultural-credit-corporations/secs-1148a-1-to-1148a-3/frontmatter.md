@@ -8,6 +8,8 @@ Section 1148a–3, act Apr. 6, 1949, ch. 49, §3(a), 63 Stat. 44, provided that 
 
 For subject matter of former sections 1148a–1 to 1148a–3 of this title see section 1921 et seq. of Title 7, Agriculture.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective one hundred and twenty days after Aug. 8, 1961, or such earlier date as the provisions of chapter 50 of Title 7, Agriculture, are made effective by regulations of Secretary of Agriculture, except that repeal of section 1148a–2(c) of this title shall not be effective prior to Jan. 1, 1962, see section 341(a) of Pub. L. 87–128, set out as a note under section 1921 of Title 7.

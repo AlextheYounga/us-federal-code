@@ -230,6 +230,8 @@ The term "well managed" means—
 
 (R.S. §5136A, as added Pub. L. 106–102, title I, §121(a)(2), Nov. 12, 1999, 113 Stat. 1373; amended Pub. L. 111–203, title IX, §939(d), July 21, 2010, 124 Stat. 1886.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Gramm-Leach-Bliley Act, referred to in subsecs. (a)(2)(B)(iii), (b)(2)(A), (3), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Section 122 of the Act is set out as a note under section 1843 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
@@ -257,6 +259,8 @@ Subsec. (a)(3)(A). Pub. L. 111–203, §939(d)(3), amended subpar. (A) generally
 Subsec. (f). Pub. L. 111–203, §939(d)(4), substituted "meet standards of credit-worthiness" for "maintain public rating or" in heading.
 
 Subsec. (f)(1). Pub. L. 111–203, §939(d)(5), substituted "standards of credit-worthiness established by the Comptroller of the Currency" for "any applicable rating".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

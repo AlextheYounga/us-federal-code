@@ -1,5 +1,7 @@
 ### §§3501 to 3509. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 3501 to 3509, which provided for creation and operation of Depository Institutions Deregulation Committee, were omitted pursuant to section 3509 which provided that the Committee and all authorities transferred to the Committee ceased to exist on expiration of six years after Mar. 31, 1980.

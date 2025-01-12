@@ -8,9 +8,13 @@ Member banks are authorized to obligate themselves in accordance with the provis
 
 (Dec. 23, 1913, ch. 6, §10A, formerly §10(a), as added Feb. 27, 1932, ch. 58, §1, 47 Stat. 56; amended Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; renumbered §10A, Pub. L. 102–242, title I, §142(a)(1), Dec. 19, 1991, 105 Stat. 2279.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 347b of this title, referred to in first par., was in the original a reference to section 10(b), meaning section 10(b) of the Federal Reserve Act. Section 10(b) of that Act was renumbered section 10B by Pub. L. 102–242, title I, §142(a)(2), Dec. 19, 1991, 105 Stat. 2279, without a corresponding amendment to this section.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

@@ -1,5 +1,7 @@
 ### §§1020a–2, 1020a–3. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1020a–2, act June 4, 1956, ch. 355, title IV, 70 Stat. 239, which related to maximum amounts available for administrative expenses, was from the Department of Agriculture and Farm Credit Administration Appropriation Act, 1957, and was not repeated in subsequent appropriation acts.

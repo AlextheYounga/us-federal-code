@@ -24,6 +24,8 @@ For purposes of this subsection, the terms "depository institution", "insured de
 
 (May 1, 1886, ch. 73, §2, 24 Stat. 18; Pub. L. 86–230, §3, Sept. 8, 1959, 73 Stat. 457; Pub. L. 97–320, title IV, §405(a), Oct. 15, 1982, 96 Stat. 1512; Pub. L. 97–457, §19(a), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 103–328, title I, §102(b)(2), Sept. 29, 1994, 108 Stat. 2350; Pub. L. 106–102, title VII, §723, Nov. 12, 1999, 113 Stat. 1471.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1999**—Subsec. (d). Pub. L. 106–102 added subsec. (d).
@@ -35,6 +37,8 @@ For purposes of this subsection, the terms "depository institution", "insured de
 **1982**—Pub. L. 97–320 designated existing provisions as subsec. (a), substituted provisions permitting a change of name upon written notice to the Comptroller, such new name to include "National", for provisions permitting a change of name or location of the main office, with approval of the Comptroller, within city limits, etc., or outside such limits by vote of shareholders, such change to be validated by certificate of approval, and added subsec. (b).
 
 **1959**—Pub. L. 86–230 required approval of Comptroller of the Currency before a national bank could change location of its main office within the limitations of the city, town, or village in which it is situated.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Exception as to Transfer of Functions ####
 

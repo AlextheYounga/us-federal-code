@@ -206,6 +206,8 @@ For purposes of this section and section 371c–1 of this title—
 
 (Dec. 23, 1913, ch. 6, §23A, as added June 16, 1933, ch. 89, §13, 48 Stat. 183; amended Aug. 23, 1935, ch. 614, title III, §327, 49 Stat. 717; June 30, 1954, ch. 434, §1, 68 Stat. 358; Pub. L. 86–230, §1(b), Sept. 8, 1959, 73 Stat. 457; Pub. L. 89–485, §§12(a), 13(h), July 1, 1966, 80 Stat. 241, 243; Pub. L. 97–320, title IV, §410(b), Oct. 15, 1982, 96 Stat. 1515; Pub. L. 97–457, §22, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 106–102, title I, §121(b), Nov. 12, 1999, 113 Stat. 1378; Pub. L. 111–203, title VI, §§608(a), 609(a), July 21, 2010, 124 Stat. 1608, 1611.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The effective date of this Act, referred to in subsec. (b)(2)(E), probably means the effective date as provided by Pub. L. 97–320, which completely revised this section. Section 410(c) of Pub. L. 97–320 set out as an Effective Date of 1982 Amendment note below, provided that this section shall apply to any transaction entered into after Oct. 15, 1982 with certain exceptions.
@@ -293,6 +295,8 @@ Subsec. (d)(6). Pub. L. 97–457, §22(2), inserted ", subject to the prohibiti
 **1954**—Act June 30, 1954, amended third par. substituting "solely" for "on June 16, 1934" after "(1) engaged" and struck out "or in maintaining and operating properties acquired for banking purposes prior to such date" after "is affiliated".
 
 **1935**—Act Aug. 23, 1935, amended third par.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

@@ -4,6 +4,8 @@ The Comptroller of the Currency shall be appointed by the President, by and with
 
 (R.S. §325; Aug. 23, 1935, ch. 614, title II, §209, 49 Stat. 707.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §325 derived from act June 3, 1864, ch. 106, §1, 13 Stat. 99, which was the National Bank Act. See section 38 of this title.
@@ -13,6 +15,8 @@ Provisions of this section which prescribed the annual basic compensation of the
 #### Amendments ####
 
 **1935**—Act Aug. 23, 1935, struck out "on the recommendation of the Secretary of the Treasury" after "President", where first appearing, and changed the salary from "$5,000 a year" to "$15,000 a year".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Repeals ####
 

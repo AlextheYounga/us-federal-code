@@ -148,6 +148,10 @@ Sec.
 
 1862t. Supporting veterans in STEM education and computer science.
 
+1862u. NSF support of research on opioid addiction.
+
+1862v. National Science Foundation research.
+
 1863. National Science Board.
 
 1864. Director of Foundation.

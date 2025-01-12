@@ -1,5 +1,7 @@
 ### §§1901 to 1910. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1901 to 1910 were omitted pursuant to section 1910 which provided that the authority conferred by this chapter expired at the close of June 30, 1982.
@@ -26,6 +28,8 @@ Section 1909, Pub. L. 91–151, title II, §210, Dec. 23, 1969, 83 Stat. 378, re
 
 Section 1910, Pub. L. 91–151, title II, §211, as added Pub. L. 96–508, §9, Dec. 8, 1980, 94 Stat. 2749, provided that the authority conferred by this chapter expired at the close of June 30, 1982.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Council on Wage and Price Stability ####
 
 Pub. L. 93–387, Aug. 24, 1974, 88 Stat. 750, as amended by Pub. L. 93–449, §4(e), Oct. 18, 1974, 88 Stat. 1367; Pub. L. 94–78, §§2–7, Aug. 9, 1975, 89 Stat. 411, 412; Pub. L. 95–121, §§1–6, Oct. 6, 1977, 91 Stat. 1091; Pub. L. 96–10, §§1–5, May 10, 1979, 96 Stat. 23; Pub. L. 96–508, §§1–8, Dec. 8, 1980, 94 Stat. 2748, 2749; Pub. L. 97–35, title III, §383, Aug. 13, 1981, 95 Stat. 432, known as the "Council on Wage and Price Stability Act", provided for the establishment of a Council on Wage and Price Stability and the appointment and compensation of members, chairman, director, and employees; authorized cooperation with other agencies; specified the powers and duties of the Council; directed the establishment and duties of an Office of Productivity; specified that the Act did not authorize the continuation or imposition of economic controls or affect the Emergency Petroleum Allocation Act of 1973 (15 U.S.C. 751 et seq.); provided for the disclosure of information; required annual reports; authorized appropriations; and terminated the authority granted by the Act on Sept. 30, 1981.
@@ -37,6 +41,8 @@ Pub. L. 91–379, title II, Aug. 15, 1970, 84 Stat. 799, as amended by Pub. L. 9
 #### Exemption From Price Restraints and Allocation Programs of First Sale of Crude Oil and Natural Gas of Certain Leases ####
 
 Pub. L. 93–153, title IV, §406, Nov. 16, 1973, 87 Stat. 590, provided that the first sale of crude oil and natural gas liquids produced from any lease whose average daily production did not exceed ten barrels per well not be subject to price restraints or any allocation program established pursuant to any Federal law, prior to repeal by Pub. L. 94–163, title IV, §401(b)(4), Dec. 22, 1975, 89 Stat. 946. For effective date of repeal of section 406 of Pub. L. 93–153, see section 401(b)(5) of Pub. L. 94–163.
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 12288. Termination of Wage and Price Regulatory Program ####
 

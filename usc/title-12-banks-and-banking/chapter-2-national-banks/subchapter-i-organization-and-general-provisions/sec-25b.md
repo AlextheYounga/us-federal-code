@@ -112,6 +112,8 @@ The ability of the Comptroller of the Currency to bring an enforcement action un
 
 (R.S. §5136C, as added and amended Pub. L. 111–203, title X, §§1044(a), 1045, 1047(a), July 21, 2010, 124 Stat. 2014, 2017, 2018.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The International Banking Act of 1978, referred to in subsec. (a)(1)(B), is Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, which enacted chapter 32 (§3101 et seq.) and sections 347d and 611a of this title, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b, 1831b, and 1841 of this title, and enacted provisions set out as notes under sections 247, 611a, and 3101 of this title and formerly set out as notes under sections 36, 247, and 601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
@@ -125,6 +127,8 @@ For classification of title LXII of the Revised Statutes of the United States, r
 **2010**—Subsec. (h). Pub. L. 111–203, §1045, added subsec. (h).
 
 Subsecs. (i), (j). Pub. L. 111–203, §1047(a), added subsecs. (i) and (j).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

@@ -158,6 +158,8 @@ The Board of Governors of the Federal Reserve System may prescribe such regulati
 
 (Dec. 23, 1913, ch. 6, §22(h), as added Pub. L. 95–630, title I, §104, Nov. 10, 1978, 92 Stat. 3644; amended Pub. L. 97–320, title IV, §§410(e), 422, Oct. 15, 1982, 96 Stat. 1520, 1522; Pub. L. 102–242, title III, §306(a)–(h), Dec. 19, 1991, 105 Stat. 2355, 2357–2359; Pub. L. 102–550, title IX, §955, title XVI, §1605(a)(10), Oct. 28, 1992, 106 Stat. 3895, 4086; Pub. L. 103–325, title III, §334(b), Sept. 23, 1994, 108 Stat. 2233; Pub. L. 104–208, div. A, title II, §2211, Sept. 30, 1996, 110 Stat. 3009–410; Pub. L. 111–203, title VI, §614(a), July 21, 2010, 124 Stat. 1614.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 22(h) of act Dec. 23, 1913, ch. 6, as added June 19, 1934, ch. 653, §3, 48 Stat. 1107, was classified to section 596 of this title, prior to repeal by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948.
@@ -203,6 +205,8 @@ Par. (9)(F). Pub. L. 102–242, §306(h), struck out last sentence of subpar. (F
 **1982**—Par. (2). Pub. L. 97–320, §422, substituted "an amount prescribed in a regulation of the appropriate Federal banking agency" for "$25,000".
 
 Par. (6)(C) to (F). Pub. L. 97–320, §410(e), redesignated subpars. (D) to (G) as (C) to (F), respectively. Former subpar. (C), relating to definition of term "extension of credit", was struck out.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

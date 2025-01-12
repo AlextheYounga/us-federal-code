@@ -4,6 +4,8 @@ The Board may from time to time, after consulting with the Board of Directors of
 
 (Dec. 23, 1913, ch. 6, §19(j), formerly §19 (par. 13), as added June 16, 1933, ch. 89, §11(b), 48 Stat. 182; amended Aug. 23, 1935, ch. 614, title III, §324(c), 49 Stat. 714; Pub. L. 87–827, §1, Oct. 15, 1962, 76 Stat. 953; Pub. L. 89–79, §1, July 21, 1965, 79 Stat. 244; renumbered §19(j) and amended Pub. L. 89–597, §2(b), (c), Sept. 21, 1966, 80 Stat. 824; Pub. L. 90–505, §2(a), Sept. 21, 1968, 82 Stat. 856; Pub. L. 96–221, title II, §207(b)(4)–(6), Mar. 31, 1980, 94 Stat. 144.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1980**—Pub. L. 96–221 struck out provisions relating to payment of interest on deposits, prescribing of different limitations by the Board for different classes of deposits, and payment of time deposits before maturity.
@@ -17,6 +19,8 @@ The Board may from time to time, after consulting with the Board of Directors of
 **1962**—Pub. L. 87–827 inserted sentence making this paragraph inapplicable, during the period commencing on October 15, 1962, and ending upon the expiration of three years after such date, to the rate of interest which may be paid by member banks on time deposits of foreign governments, monetary and financial authorities of foreign governments when acting as such, or international financial institutions of which the United States is a member.
 
 **1935**—Act Aug. 23, 1935, among other changes, inserted "except upon such conditions and in accordance with such rules and regulations as may be prescribed by the said Board" to second sentence and proviso.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1980 Amendment ####
 

@@ -12,6 +12,8 @@ As used in this subchapter, the term—
 
 (Nov. 7, 1918, ch. 209, §7, formerly §3, as added Pub. L. 86–230, §20, Sept. 8, 1959, 73 Stat. 465; renumbered §5, Pub. L. 103–328, title I, §102(b)(4)(B), Sept. 29, 1994, 108 Stat. 2351; renumbered §7, Pub. L. 106–569, title XII, §1204(1), Dec. 27, 2000, 114 Stat. 3033; amended Pub. L. 109–351, title VII, §725(e), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, §123(e), Oct. 16, 2006, 120 Stat. 2029.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Provisions similar to those comprising this section were contained in section 5 of act Nov. 7, 1918, ch. 209, as added July 14, 1952, ch. 722, §1, 66 Stat. 601 (formerly classified to section 34c of this title), prior to the complete amendment and renumbering of act Nov. 7, 1918, by Pub. L. 86–230.

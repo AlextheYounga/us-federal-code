@@ -4,6 +4,8 @@ No conversion of a national banking association into a State bank or its merger 
 
 (Aug. 17, 1950, ch. 729, §4, 64 Stat. 456; July 12, 1952, ch. 696, 66 Stat. 590; Sept. 3, 1954, ch. 1263, §25, 68 Stat. 1235.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1954**—Act Sept. 3, 1954, substituted "this subchapter and section 321 of this title" for "sections 214 to 214c, 264(e)(2), (i)(2), (v)(4), and 321 of this title".

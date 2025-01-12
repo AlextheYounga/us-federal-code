@@ -4,6 +4,8 @@ After one year from June 16, 1933, notwithstanding any other provision of law, t
 
 (June 16, 1933, ch. 89, §31, 48 Stat. 194; June 16, 1934, ch. 546, §4, 48 Stat. 971; Aug. 23, 1935, ch. 614, title II, §203(a), title III, §306, 49 Stat. 704, 708; Pub. L. 106–569, title XII, §1205(b), Dec. 27, 2000, 114 Stat. 3034.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2000**—Pub. L. 106–569 inserted before period at end of first sentence ", except that the Comptroller of the Currency may, by regulation or order, exempt a national bank from the 25-member limit established by this section".
@@ -11,6 +13,8 @@ After one year from June 16, 1933, notwithstanding any other provision of law, t
 **1935**—Act June 16, 1934, as amended by act Aug. 23, 1935, §306, repealed a former provision of this section relating to stock ownership requirements of directors, trustees, or members of similar governing bodies of any national banking association, or of any State bank or trust company which is a member of the Federal Reserve System.
 
 **1934**—Act June 16, 1934, repealed a former provision of this section relating to stock ownership requirements of directors, trustees, or members of similar governing bodies of member banks of the Federal Reserve System.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

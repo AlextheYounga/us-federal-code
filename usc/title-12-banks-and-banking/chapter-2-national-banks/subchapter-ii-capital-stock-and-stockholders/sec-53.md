@@ -4,6 +4,8 @@ All of the capital stock of every national banking association shall be paid in 
 
 (R.S. §5140; Pub. L. 86–230, §4, Sept. 8, 1959, 73 Stat. 457.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §5140 derived from act June 3, 1864, ch. 106, §14, 13 Stat. 103, which was the National Bank Act. See section 38 of this title.

@@ -1,5 +1,7 @@
 ### §§544 to 547. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 544, R.S. §5215; act Mar. 3, 1883, ch. 121, §1, 22 Stat. 488, related to half-yearly return of circulation.
@@ -9,6 +11,8 @@ Section 545, R.S. §5216; act Mar. 3, 1883, ch. 121, §1, 22 Stat. 488, related 
 Section 546, R.S. §5217, related to enforcing tax on circulation.
 
 Section 547, R.S. §5218; act June 10, 1921, ch. 18, §304, 42 Stat. 24, related to refunding excess tax.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Repeals ####
 

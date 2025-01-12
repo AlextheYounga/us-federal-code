@@ -1,5 +1,7 @@
 ### §§1749bbb–3 to 1749bbb–6a. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1749bbb–3 to 1749bbb–6a, comprising part A of this subchapter, terminated on Sept. 30, 1985, pursuant to former section 1749bbb(b) of this title.

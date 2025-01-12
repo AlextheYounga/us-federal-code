@@ -4,6 +4,8 @@ Whenever any Federal Reserve bank notes or Federal Reserve notes are presented t
 
 (June 13, 1933, ch. 62, §1, 48 Stat. 127; Pub. L. 89–427, §4(a), May 20, 1966, 80 Stat. 161; Pub. L. 103–325, title VI, §602(g)(8)(A), Sept. 23, 1994, 108 Stat. 2294.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–325, §602(g)(8)(A)(ii), which directed the amendment of this section by striking out ", and the notes, other than Federal Reserves notes, so redeemed shall be forwarded to the Comptroller of the Currency for cancellation and destruction" after "Treasury may prescribe", was executed by striking out text which contained the word "Reserves" rather than "Reserve", to reflect the probable intent of Congress.
@@ -11,6 +13,8 @@ Whenever any Federal Reserve bank notes or Federal Reserve notes are presented t
 Pub. L. 103–325, §602(g)(8)(A)(i), substituted "Whenever any Federal Reserve bank notes," for "Whenever any national-bank notes, Federal Reserve bank notes,".
 
 **1966**—Pub. L. 89–427 excepted Federal Reserve notes from the category of notes which, upon redemption by the Treasurer of the United States, must be forwarded to the Comptroller of the Currency for cancellation and destruction.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

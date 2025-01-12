@@ -46,9 +46,13 @@ All depository institutions, as defined in section 461(b)(1) of this title, may 
 
 (Dec. 23, 1913, ch. 6, §11A, as added Pub. L. 96–221, title I, §107, Mar. 31, 1980, 94 Stat. 140; amended Pub. L. 100–86, title VI, §612(a), Aug. 10, 1987, 101 Stat. 652.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1987**—Subsec. (e). Pub. L. 100–86 added subsec. (e).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1987 Amendment ####
 

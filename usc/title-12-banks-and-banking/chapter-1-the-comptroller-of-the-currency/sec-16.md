@@ -6,9 +6,13 @@ The Comptroller of the Currency shall have sole authority to determine the manne
 
 (R.S. §5240A, as added Pub. L. 111–203, title III, §318(b), July 21, 2010, 124 Stat. 1526.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Subchapter XV of chapter 3, referred to in first par., was in the original a reference to section 5240 of the Revised Statutes.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

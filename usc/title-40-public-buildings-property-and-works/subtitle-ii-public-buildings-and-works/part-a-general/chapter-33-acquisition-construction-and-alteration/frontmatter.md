@@ -38,11 +38,15 @@ Sec.
 
 3318. Lactation room in public buildings.
 
+3318. Availability of Federal building project information.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
 
-**2019**—Pub. L. 116–30, §2(b), July 25, 2019, 133 Stat. 1033, which directed adding item 3318 after item 3316, was executed by adding it after item 3317, to reflect the probable intent of Congress.
+**2021**—Pub. L. 116–333, §2(b), Jan. 13, 2021, 134 Stat. 5114, which directed adding item 3318, relating to availability of Federal building project information, to the table of chapters for chapter 33, was executed by adding it to the table of sections for chapter 33, to reflect the probable intent of Congress.
+
+**2019**—Pub. L. 116–30, §2(b), July 25, 2019, 133 Stat. 1033, which directed adding item 3318, relating to lactation room in public buildings, after item 3316, was executed by adding it after item 3317, to reflect the probable intent of Congress.
 
 **2016**—Pub. L. 114–235, §2(b), Oct. 7, 2016, 130 Stat. 965, added items 3314 to 3317 and struck out former items 3314 "Delegation", 3315 "Report to Congress", and 3316 "Certain authority not affected".
 

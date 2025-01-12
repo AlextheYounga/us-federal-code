@@ -1,5 +1,7 @@
 ### Part F—Sale of Insurance ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 100–399, title VII, §702(c), Aug. 17, 1988, 102 Stat. 1006, redesignated part G as F.

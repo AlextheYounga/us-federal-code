@@ -10,9 +10,19 @@ The Bank shall specially designate loans, guarantees, and insurance on the books
 
 (Pub. L. 90–390, §1, July 7, 1968, 82 Stat. 296; Pub. L. 96–470, title I, §115, Oct. 19, 1980, 94 Stat. 2240.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1980**—Subsec. (c). Pub. L. 96–470 struck out subsec. (c) which required the Board of Directors of the Bank to submit to Congress for the calendar ending Sept. 30, 1968, and each calendar quarter thereafter, a report of all actions taken under authority of sections 635j to 635n of this title during such quarter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Termination of Advisory Committees ####
+
+Advisory Committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law, see section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 11420. Export Expansion Advisory Committee ####
 
@@ -37,7 +47,3 @@ Sec. 2. *Functions of the Committee*. The Committee shall review and make recomm
 Sec. 3. *Construction*. Nothing in this order shall be construed to abrogate, modify, or restrict any function vested by law in, or assigned pursuant to law to, any Federal agency or any officer thereof or to any Federal interagency council or committee. As used herein the term "any Federal agency" includes any executive department and any other executive agency.
 
 Lyndon B. Johnson.
-
-#### Termination of Advisory Committees ####
-
-Advisory Committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law, see section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, set out in the Appendix to Title 5, Government Organization and Employees.

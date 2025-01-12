@@ -1,5 +1,7 @@
 ### §§678 to 682. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections were stricken by act Aug. 19, 1937, ch. 704, §7(b), 50 Stat. 707, and former section 677a of this title was substituted in lieu thereof.

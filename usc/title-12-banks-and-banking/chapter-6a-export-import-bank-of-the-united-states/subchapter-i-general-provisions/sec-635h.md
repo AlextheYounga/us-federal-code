@@ -4,6 +4,8 @@ Notwithstanding the provisions of section 955 of title 18, any person, including
 
 (July 31, 1945, ch. 341, §9, formerly §11, 59 Stat. 529; Sept. 3, 1954, ch. 1263, §29, 68 Stat. 1237; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; renumbered §9, Pub. L. 102–429, title I, §121(c)(3), Oct. 21, 1992, 106 Stat. 2199.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 9 of act July 31, 1945, ch. 341, was renumbered section 8 and is classified to section 635g of this title.

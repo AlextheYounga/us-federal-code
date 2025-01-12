@@ -110,6 +110,8 @@ A depository institution is "viable" if the Board or the appropriate Federal ban
 
 (Dec. 23, 1913, ch. 6, §10B, formerly §10(b), as added Feb. 27, 1932, ch. 58, §2, 47 Stat. 56; amended Feb. 3, 1933, ch. 34, 47 Stat. 794; Mar. 9, 1933, ch. 1, title IV, §402, 48 Stat. 7; Aug. 23, 1935, ch. 614, title II, §204, 49 Stat. 705; Pub. L. 93–449, §5, Oct. 18, 1974, 88 Stat. 1368; Pub. L. 96–221, title I, §106, Mar. 31, 1980, 94 Stat. 140; renumbered §10B and amended Pub. L. 102–242, title I, §142(a)(2), (b), Dec. 19, 1991, 105 Stat. 2279; Pub. L. 104–208, div. A, title II, §2704(d)(9), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(c), Feb. 15, 2006, 119 Stat. 3616.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsec. (b)(4), was in the original "this Act", meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
@@ -134,6 +136,8 @@ Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(9). See 1996 Amendment n
 
 Act Feb. 3, 1933, extended termination date from "March 3, 1933" to "March 3, 1934".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2006 Amendment ####
 
 Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub. L. 109–173, set out as a note under section 24 of this title.
@@ -151,6 +155,8 @@ Pub. L. 102–242, title I, §142(d), Dec. 19, 1991, 105 Stat. 2281, provided th
 #### Effective Date of 1980 Amendment ####
 
 Amendment by Pub. L. 96–221 effective on first day of sixth month which begins after Mar. 31, 1980, see section 108 of Pub. L. 96–221, set out as a note under section 248 of this title.
+
+#### **Executive Documents** ####
 
 #### Expiration ####
 

@@ -28,6 +28,8 @@ For purposes of this section, the term "acquire" means to acquire, directly or i
 
 (R.S. §5156A, as added Pub. L. 102–242, title V, §502(b), Dec. 19, 1991, 105 Stat. 2393; amended Pub. L. 104–208, div. A, title II, §2201(b)(1), Sept. 30, 1996, 110 Stat. 3009–403.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 1815(d)(3) of this title, referred to in subsec. (a), which related to optional conversions by insured depository institutions subject to special rules on deposit insurance payments, was struck out and former section 1815(d)(1)(C) redesignated section 1815(d)(3) by Pub. L. 109–173, §8(a)(4), (5)(D), Feb. 15, 2006, 119 Stat. 3610, 3611.

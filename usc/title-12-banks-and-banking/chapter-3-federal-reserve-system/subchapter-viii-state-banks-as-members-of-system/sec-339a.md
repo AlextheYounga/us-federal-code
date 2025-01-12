@@ -20,6 +20,8 @@ The Board (in the case of an uninsured State member bank which operates, or oper
 
 (Dec. 13, 1913, ch. 6, §9B, as added Pub. L. 106–554, §1(a)(5) [title I, §112(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–392.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 4422 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 111–203, title VII, §740, July 21, 2010, 124 Stat. 1729.

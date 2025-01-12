@@ -34,6 +34,8 @@ No mortgage shall be insured under this subchapter unless the mortgagor and the 
 
 (June 27, 1934, ch. 847, title XI, §1101, as added Pub. L. 89–754, title V, §502(a), Nov. 3, 1966, 80 Stat. 1274; amended Pub. L. 90–448, title XVII, §1722(d), Aug. 1, 1968, 82 Stat. 610; Pub. L. 91–78, §2(g), Sept. 30, 1969, 83 Stat. 125; Pub. L. 91–152, title I, §101(i), title IV, §418(f), Dec. 24, 1969, 83 Stat. 379, 402; Pub. L. 91–432, §1(g), Oct. 2, 1970, 84 Stat. 887; Pub. L. 91–473, §1(g), Oct. 21, 1970, 84 Stat. 1065; Pub. L. 91–525, §1(g), Dec. 1, 1970, 84 Stat. 1384; Pub. L. 91–609, title I, §101(i), Dec. 31, 1970, 84 Stat. 1770; Pub. L. 92–503, §1(i), Oct. 18, 1972, 86 Stat. 906; Pub. L. 93–85, §1(i), Aug. 10, 1973, 87 Stat. 220; Pub. L. 93–117, §1(i), Oct. 2, 1973, 87 Stat. 422; Pub. L. 93–383, title III, §§304(l), 312(a)(1)–(4), 316(g), Aug. 22, 1974, 88 Stat. 678, 683, 685; Pub. L. 95–60, §1(h), June 30, 1977, 91 Stat. 257; Pub. L. 95–80, §1(h), July 31, 1977, 91 Stat. 339; Pub. L. 95–128, title III, §301(k), Oct. 12, 1977, 91 Stat. 1131; Pub. L. 95–406, §1(k), Sept. 30, 1978, 92 Stat. 879; Pub. L. 95–557, title III, §301(k), Oct. 31, 1978, 92 Stat. 2096; Pub. L. 96–71, §1(k), Sept. 28, 1979, 93 Stat. 501; Pub. L. 96–105, §1(k), Nov. 8, 1979, 93 Stat. 794; Pub. L. 96–153, title III, §301(k), Dec. 21, 1979, 93 Stat. 1112; Pub. L. 96–372, §1(k), Oct. 3, 1980, 94 Stat. 1363; Pub. L. 96–399, title III, §§301(k), 310(i), Oct. 8, 1980, 94 Stat. 1639, 1643; Pub. L. 97–35, title III, §331(j), Aug. 13, 1981, 95 Stat. 413; Pub. L. 97–289, §1(k), Oct. 6, 1982, 96 Stat. 1230; Pub. L. 98–35, §1(k), May 26, 1983, 97 Stat. 197; Pub. L. 98–109, §1(k), Oct. 1, 1983, 97 Stat. 745; Pub. L. 98–181, title I [title IV, §401(j)], Nov. 30, 1983, 97 Stat. 1208; Pub. L. 98–479, title I, §104(a)(8), Oct. 17, 1984, 98 Stat. 2225; Pub. L. 99–120, §1(j), Oct. 8, 1985, 99 Stat. 503; Pub. L. 99–156, §1(j), Nov. 15, 1985, 99 Stat. 816; Pub. L. 99–219, §1(j), Dec. 26, 1985, 99 Stat. 1731; Pub. L. 99–267, §1(k), Mar. 27, 1986, 100 Stat. 74; Pub. L. 99–272, title III, §3007(j), Apr. 7, 1986, 100 Stat. 105; Pub. L. 99–289, §1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, §1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 100–242, title IV, §401(a)(8), Feb. 5, 1988, 101 Stat. 1898.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 8211 of title 42, referred to in subsec. (c)(2), was omitted from the Code pursuant to section 8229 of Title 42, The Public Health and Welfare, which terminated authority under that section on June 30, 1989.
@@ -131,6 +133,8 @@ Pub. L. 91–78 substituted "January 1, 1970" for "October 1, 1969".
 Subsec. (c)(2). Pub. L. 91–152, §418(f), substituted "replacement cost" for "value" wherever appearing.
 
 **1968**—Subsec. (c)(3). Pub. L. 90–448 limited term of mortgage to not more than twenty-five years from beginning of amortization of mortgage.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1981 Amendment ####
 

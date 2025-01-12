@@ -4,6 +4,8 @@ No association, or any member thereof, shall, during the time it shall continue 
 
 (R.S. §5204; Pub. L. 103–325, title VI, §602(h)(1), Sept. 23, 1994, 108 Stat. 2294.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §5204 derived from act June 3, 1864, ch. 106, §38, 13 Stat. 110, which was the National Bank Act. See section 38 of this title.

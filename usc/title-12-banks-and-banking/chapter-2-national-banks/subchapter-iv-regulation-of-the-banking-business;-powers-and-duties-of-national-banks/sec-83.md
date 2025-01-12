@@ -10,6 +10,8 @@ For purposes of this section, a national bank shall not be deemed to be making a
 
 (R.S. §5201; Pub. L. 106–569, title XII, §1207(a), Dec. 27, 2000, 114 Stat. 3034.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §5201 derived from act June 3, 1864, ch. 106, §35, 13 Stat. 110, which was the National Bank Act. See section 38 of this title.

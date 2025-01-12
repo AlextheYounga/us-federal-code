@@ -4,6 +4,8 @@ Export-Import Bank of the United States shall continue to exercise its functions
 
 (July 31, 1945, ch. 341, §7, formerly §8, 59 Stat. 529; June 9, 1947, ch. 101, §3, 61 Stat. 131; Oct. 3, 1951, ch. 445, §1(c), 65 Stat. 367; Pub. L. 85–55, June 17, 1957, 71 Stat. 82; Pub. L. 88–101, §2, Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, §1(a), (f), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 92–126, §1(b)(4), Aug. 17, 1971, 85 Stat. 345; Pub. L. 93–331, July 4, 1974, 88 Stat. 289; Pub. L. 93–374, Aug. 14, 1974, 88 Stat. 445; Pub. L. 93–425, Sept. 30, 1974, 88 Stat. 1166; Pub. L. 93–450, Oct. 18, 1974, 88 Stat. 1368; Pub. L. 93–646, §9, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–143, §4, Oct. 26, 1977, 91 Stat. 1211; Pub. L. 95–407, Sept. 30, 1978, 92 Stat. 882; Pub. L. 95–630, title XIX, §1906, Nov. 10, 1978, 92 Stat. 3725; Pub. L. 98–109, §6, Oct. 1, 1983, 97 Stat. 746; Pub. L. 98–143, Nov. 1, 1983, 97 Stat. 916; Pub. L. 98–181, title I [title VI, §611], Nov. 30, 1983, 97 Stat. 1254; Pub. L. 99–472, §14, Oct. 15, 1986, 100 Stat. 1204; renumbered §7 and amended Pub. L. 102–429, title I, §§102, 121(c)(2), Oct. 21, 1992, 106 Stat. 2187, 2199; Pub. L. 105–46, §122, Sept. 30, 1997, 111 Stat. 1158; Pub. L. 105–121, §2(a), Nov. 26, 1997, 111 Stat. 2528; Pub. L. 107–189, §3, June 14, 2002, 116 Stat. 699; Pub. L. 109–438, §2, Dec. 20, 2006, 120 Stat. 3268; Pub. L. 112–122, §2, May 30, 2012, 126 Stat. 350; Pub. L. 114–94, div. E, title LIV, §54001(a), Dec. 4, 2015, 129 Stat. 1768; Pub. L. 116–94, div. I, title IV, §401(a), Dec. 20, 2019, 133 Stat. 3021.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 7 of act July 31, 1945, ch. 341, was renumbered section 6 and is classified to section 635e of this title.
@@ -61,6 +63,8 @@ Pub. L. 93–331 substituted "July 30, 1974" for "June 30, 1974".
 **1951**—Act Oct. 3, 1951, substituted "June 30, 1958" for "June 30, 1953".
 
 **1947**—Act June 9, 1947, struck out former section and inserted present section to provide for the termination of the Bank as of June 30, 1953, and its orderly liquidation thereafter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2015 Amendment ####
 

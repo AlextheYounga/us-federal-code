@@ -4,6 +4,8 @@ The Congress declares that it is the purpose of this subchapter to provide for t
 
 (Dec. 23, 1913, ch. 6, §25A (par.), formerly §25(a), as added Pub. L. 95–369, §3(b), Sept. 17, 1978, 92 Stat. 608; renumbered §25A, Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in text, was in the original "this section", meaning section 25A of act Dec. 23, 1913, which is classified to this subchapter (§611 et seq.).
@@ -13,6 +15,8 @@ Section 3(a) of the International Banking Act of 1978, referred to in text, is P
 #### Codification ####
 
 Section is comprised of par. 2 (undesignated) of section 25A of act Dec. 23, 1913, which comprises this subchapter. For complete classification of section 25A of this Act, see Codification note set out under section 611 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Elimination or Modification of Restrictions Limiting Foreign Banking; Congressional Declaration of Purpose ####
 

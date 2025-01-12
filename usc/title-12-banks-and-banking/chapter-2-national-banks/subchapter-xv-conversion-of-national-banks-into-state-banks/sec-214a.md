@@ -12,6 +12,8 @@ A shareholder of a national banking association who votes against the conversion
 
 (Aug. 17, 1950, ch. 729, §2, 64 Stat. 455; Pub. L. 86–507, §1(10), June 11, 1960, 74 Stat. 200; Pub. L. 96–221, title VII, §706, Mar. 31, 1980, 94 Stat. 188.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1980**—Subsec. (b). Pub. L. 96–221 substituted "majority" for "unanimous".

@@ -8,6 +8,8 @@ After August 23, 1935, no certificate evidencing the stock of any such associati
 
 (R.S. §5139; Feb. 25, 1927, ch. 191, §16, 44 Stat. 1233; June 16, 1933, ch. 89, §18, 48 Stat. 186; Aug. 23, 1935, ch. 614, title III, §§310(a), 335, 49 Stat. 710, 720.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §5139 derived from act June 3, 1864, ch. 106, §12, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.

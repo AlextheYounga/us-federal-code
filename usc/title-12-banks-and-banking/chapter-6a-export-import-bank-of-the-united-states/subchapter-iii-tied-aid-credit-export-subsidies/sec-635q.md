@@ -26,6 +26,8 @@ Concessional financing or grants made available under section 635r(d) of this ti
 
 (Pub. L. 98–181, title I [title VI, §644], Nov. 30, 1983, 97 Stat. 1264; Pub. L. 100–418, title II, §2204(c)(1)(A), Aug. 23, 1988, 102 Stat. 1330; Pub. L. 102–549, title II, §202(c)(1), Oct. 28, 1992, 106 Stat. 3658.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1992**—Subsec. (a)(2), (3)(A). Pub. L. 102–549 substituted "Development Agency" for "Development Program".
@@ -35,6 +37,8 @@ Concessional financing or grants made available under section 635r(d) of this ti
 Subsec. (a)(3)(A). Pub. L. 100–418, §2204(c)(1)(A)(ii), substituted "made available under section 635r(d) of this title" for "offered by the Agency for International Development" and "Trade and Development Program" for "Agency for International Development".
 
 Subsec. (d). Pub. L. 100–418, §2204(c)(1)(A)(iii), substituted "made available under section 635r(d) of this title" for "offered by the Agency for International Development" and "section 635r(c) of this title" for "subsections (c) and (d) of section 635r of this title".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transition Provisions ####
 

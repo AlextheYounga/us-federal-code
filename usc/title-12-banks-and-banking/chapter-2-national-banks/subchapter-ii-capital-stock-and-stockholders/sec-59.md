@@ -10,6 +10,8 @@ As part of its capital reduction plan approved in accordance with subsection (a)
 
 (R.S. §5143; Dec. 23, 1913, ch. 6, §28, 38 Stat. 274; Aug. 23, 1935, ch. 614, title III, §334, 49 Stat. 720; Pub. L. 109–351, title III, §304, Oct. 13, 2006, 120 Stat. 1970.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §5143 derived from act June 3, 1864, ch. 106, §13, 13 Stat. 103, which was the National Bank Act. See section 38 of this title.

@@ -12,6 +12,10 @@ Appointment of "judges of the Supreme Court" by the President by and with the ad
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Short Title of 2021 Amendment ####
+
+Pub. L. 116–325, §1, Jan. 12, 2021, 134 Stat. 5086, provided that: "This Act [amending sections 375, 589a, and 1930 of this title and section 330 of Title 11, Bankruptcy, and enacting provisions set out as notes under sections 152, 589a, and 1930 of this title and section 330 of Title 11] may be cited as the 'Bankruptcy Administration Improvement Act of 2020'."
+
 #### Short Title of 2019 Amendment ####
 
 Pub. L. 116–73, §1, Nov. 26, 2019, 133 Stat. 1154, provided that: "This Act [amending section 83 of this title and enacting provisions set out as a note under section 83 of this title] may be cited as the 'Divisional Realignment for the Eastern District of Arkansas Act of 2019'."

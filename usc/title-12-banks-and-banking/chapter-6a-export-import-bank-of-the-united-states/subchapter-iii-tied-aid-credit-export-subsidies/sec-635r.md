@@ -24,6 +24,8 @@ Funds available to carry out chapter 4 of part II of the Foreign Assistance Act 
 
 (Pub. L. 98–181, title I [title VI, §645], Nov. 30, 1983, 97 Stat. 1264; Pub. L. 100–418, title II, §2204(c)(1)(B), Aug. 23, 1988, 102 Stat. 1330; Pub. L. 102–549, title II, §202(c), Oct. 28, 1992, 106 Stat. 3658.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Foreign Assistance Act of 1961, referred to in subsec. (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified generally to part IV (§2346 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.

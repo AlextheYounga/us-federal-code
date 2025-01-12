@@ -4,6 +4,8 @@ Section 2709, Pub. L. 94–50, title I, §110, July 2, 1975, 89 Stat. 253; Pub. 
 
 Section 2710, Pub. L. 94–50, title I, §111, July 2, 1975, 89 Stat. 253; Pub. L. 94–375, §13(c), Aug. 3, 1976, 90 Stat. 1075, related to reports to Congress; time; contents.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on the date on which final regulations implementing such repeal take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of Title 15, Commerce and Trade.

@@ -48,11 +48,15 @@ The Comptroller of the Currency shall issue such regulations as may be necessary
 
 (R.S. §5136B, formerly §5136A, as added Pub. L. 90–203, §1(a), Dec. 15, 1967, 81 Stat. 608; renumbered R.S. §5136B, Pub. L. 106–102, title I, §121(a)(1), Nov. 12, 1999, 113 Stat. 1373; amended Pub. L. 113–251, §3(a), Dec. 18, 2014, 128 Stat. 2889.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Subsec. (c)(2). Pub. L. 113–251, §3(a)(1), inserted ", other than a savings promotion raffle," before "whereby" in introductory provisions.
 
 Subsec. (c)(4). Pub. L. 113–251, §3(a)(2), added par. (4).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

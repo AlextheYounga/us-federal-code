@@ -4,16 +4,22 @@ Every association which shall have failed to pay up its capital stock, as requir
 
 (R.S. §5205; June 30, 1876, ch. 156, §4, 19 Stat. 64.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §5205 derived from act Mar. 3, 1873, ch. 269, §1, 17 Stat. 603.
 
-#### Transfer of Functions ####
-
-All functions of all officers of the Department of the Treasury, and all functions of all agencies and employees of such Department, were transferred, with certain exceptions, to the Secretary of the Treasury, with power vested in him to authorize their performance or the performance of any of his functions, by any of those officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, formerly set out in the Appendix to Title 5, Government Organization and Employees. See section 321(c) of Title 31, Money and Finance. The Comptroller of the Currency and the Treasurer of the United States, both referred to in this section, are officers of the Treasury Department, but such Plan excepted, from the transfer, any function vested by law in the Comptroller of the Currency.
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Application to District of Columbia ####
 
 Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, §4, 47 Stat. 1567.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+All functions of all officers of the Department of the Treasury, and all functions of all agencies and employees of such Department, were transferred, with certain exceptions, to the Secretary of the Treasury, with power vested in him to authorize their performance or the performance of any of his functions, by any of those officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, formerly set out in the Appendix to Title 5, Government Organization and Employees. See section 321(c) of Title 31, Money and Finance. The Comptroller of the Currency and the Treasurer of the United States, both referred to in this section, are officers of the Treasury Department, but such Plan excepted, from the transfer, any function vested by law in the Comptroller of the Currency.
 
 [<sup>1</sup> So in original.](#55_1)

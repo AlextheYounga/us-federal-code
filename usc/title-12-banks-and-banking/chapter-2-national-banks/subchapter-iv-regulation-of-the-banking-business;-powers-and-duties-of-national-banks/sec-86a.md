@@ -1,5 +1,7 @@
 ### §86a. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section, Pub. L. 96–221, title V, §511, Mar. 31, 1980, 94 Stat. 164; Pub. L. 96–399, title III, §324(b), (d), Oct. 8, 1980, 94 Stat. 1648, which authorized interest on business or agricultural loans of $1,000 or more at a rate of not more than 5 per centum in excess of the discount rate, was omitted pursuant to section 512 of Pub. L. 96–221 which made these provisions applicable only with respect to such loans made in any State during the period beginning on April 1, 1980, and ending on the earlier of (1) April 1, 1983, or (2) the date, on or after April 1, 1980, on which such State adopts a law or certifies that the voters of such State have voted in favor of any provision, constitutional or otherwise, which states explicitly that such State does not want these provisions to apply with respect to loans made in such State.

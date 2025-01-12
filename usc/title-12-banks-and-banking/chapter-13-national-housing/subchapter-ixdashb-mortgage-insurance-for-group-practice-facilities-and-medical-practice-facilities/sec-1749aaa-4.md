@@ -10,6 +10,8 @@ With a view to avoiding unnecessary duplication of existing staffs and facilitie
 
 (June 27, 1934, ch. 847, title XI, §1105, as added Pub. L. 89–754, title V, §502(a), Nov. 3, 1966, 80 Stat. 1276; amended Pub. L. 93–383, title III, §312(a)(5), Aug. 22, 1974, 88 Stat. 683.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1974**—Subsec. (a). Pub. L. 93–383 substituted "or medical practice facility (as defined in section 1749aaa–5 of this title)" for "(as defined in section 1749aaa–5(1) of this title)".

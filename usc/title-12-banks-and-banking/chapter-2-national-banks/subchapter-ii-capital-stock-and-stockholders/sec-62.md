@@ -4,6 +4,8 @@ The president and cashier of every national banking association shall cause to b
 
 (R.S. §5210; May 18, 1953, ch. 59, §1, 67 Stat. 27.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §5210 derived from act June 3, 1864, ch. 106, §40, 13 Stat. 111, which was the National Bank Act. See section 38 of this title.
@@ -11,6 +13,8 @@ R.S. §5210 derived from act June 3, 1864, ch. 106, §40, 13 Stat. 111, which wa
 #### Amendments ####
 
 **1953**—Act May 18, 1953, changed the requirement for annual transmission of a copy of the shareholders list to the Comptroller of the Currency by authorizing the Comptroller to acquire such copy at any time on 10 days' notice.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Exception as to Transfer of Functions ####
 

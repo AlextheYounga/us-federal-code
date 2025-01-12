@@ -1,5 +1,7 @@
 ### §§33 to 34c. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Act Nov. 7, 1918, ch. 209, 40 Stat. 1043, as amended, formerly classified to sections 33 to 34c of this title, which related to consolidation and merger of national banking associations and such associations and State banks, was completely amended by Pub. L. 86–230, §20, Sept. 8 1959 73 Stat. 460, and is classified to sections 215 to 215b of this title.

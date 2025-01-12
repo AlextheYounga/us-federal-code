@@ -12,6 +12,8 @@ Section 1141e, act June 15, 1929, ch. 24, §7, 46 Stat. 14; Ex. Ord. No. 6084, M
 
 Section 1141f, act June 15, 1929, ch. 24, §8, 46 Stat. 14; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title V, §54, 48 Stat. 266; June 3, 1935, ch. 164, §11, 49 Stat. 316; Aug. 19, 1937, ch. 704, §5(a), 50 Stat. 704; Aug. 11, 1955, ch. 785, title I, §109, 69 Stat. 662; Pub. L. 89–525, §4(b), Aug. 2, 1966, 80 Stat. 334, set out miscellaneous loan provisions.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1141b to 1141d, 1141e, and 1141f were formerly classified to sections 524 to 526, 527, and 528, respectively, of Title 7, Agriculture.

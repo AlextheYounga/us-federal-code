@@ -4,6 +4,8 @@ The salaries of the Deputy Comptrollers and of all national bank examiners and a
 
 (Mar. 4, 1923, ch. 252, title II, §209(b), 42 Stat. 1467; Pub. L. 86–251, §1(c)(2), Sept. 9, 1959, 73 Stat. 488.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Subchapter XV [§481 et seq.] of chapter 3 of this title, referred to in text, was in the original a reference to section 5240 of the Revised Statutes.

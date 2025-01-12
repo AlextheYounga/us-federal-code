@@ -148,6 +148,8 @@ The words "State bank," "State banks," "bank," or "banks," as used in this secti
 
 (R.S. §5155; Feb. 25, 1927, ch. 191, §7, 44 Stat. 1228; June 16, 1933, ch. 89, §23, 48 Stat. 189; Aug. 23, 1935, ch. 614, title III, §305, 49 Stat. 708; July 15, 1952, ch. 753, §2(b), 66 Stat. 633; Pub. L. 87–721, Sept. 28, 1962, 76 Stat. 667; Pub. L. 103–328, title I, §§102(b)(1), 103(a), Sept. 29, 1994, 108 Stat. 2349, 2352; Pub. L. 104–208, div. A, title II, §§2204, 2205(a), Sept. 30, 1996, 110 Stat. 3009–405; Pub. L. 105–24, §2(b), July 3, 1997, 111 Stat. 239; Pub. L. 111–203, title VI, §613(a), July 21, 2010, 124 Stat. 1614.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 1831u of this title, referred to in subsec. (d), was subsequently amended, and subsec. (f)(6) of section 1831u no longer defines the term "interstate merger transaction". However, such term is defined elsewhere in that section.
@@ -189,6 +191,8 @@ Subsecs. (h) to (l). Pub. L. 103–328, §102(b)(1)(A), redesignated subsecs. (d
 **1933**—Subsecs. (c), (d). Act June 16, 1933, amended subsecs. (c) and (d).
 
 **1927**—Act Feb. 25, 1927, amended section generally.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

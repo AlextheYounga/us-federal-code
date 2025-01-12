@@ -62,6 +62,8 @@ The limitations contained in subsection (a) shall be subject to the following ex
 
 For termination of amendment by section 4011(a) of Pub. L. 116–136, see Effective and Termination Dates of 2020 Amendment note below.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 372 of this title, referred to in subsec. (c)(2), was in the original a reference to "section 13 of the Federal Reserve Act". Provisions of section 13 describing bankers' acceptances are classified to section 372 of this title. Other provisions of section 13 are classified to sections 342 to 347, 347c, 347d of this title.
@@ -139,6 +141,8 @@ Par. (13). Pub. L. 86–251, §3(d), added par. (13).
 Par. (9). Act May 20, 1933, added par. (9).
 
 **1927**—Act Feb. 25, 1927, reenacted section, subdividing it into eight numbered exceptions.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective and Termination Dates of 2020 Amendment ####
 

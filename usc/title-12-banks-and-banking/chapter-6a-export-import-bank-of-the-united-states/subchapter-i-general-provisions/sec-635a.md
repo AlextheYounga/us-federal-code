@@ -398,7 +398,9 @@ The duties of the Risk Management Committee shall be—
 
 #### Termination of Amendment ####
 
-For termination of amendment by Pub. L. 116–94, see section 409(b) of Pub. L. 116–94, set out as a Termination Date of 2019 Amerndment note below.
+For termination of amendment by Pub. L. 116–94, see section 409(b) of Pub. L. 116–94, set out as a Termination Date of 2019 Amendment note below.
+
+#### **Editorial Notes** ####
 
 #### References in Text ####
 
@@ -471,6 +473,8 @@ Subsec. (e). Pub. L. 98–181, §620(b), substituted "such individual's" for "hi
 Subsec. (d). Pub. L. 90–267, §1(d), substituted provisions for compensation of members, not otherwise in the regular full-time employ of the United States, at rates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule for each day spent in travel or attendance at meetings of the Committee, and for allowance of travel expenses, when serving away from home or regular place of business, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently for former provisions for allowance for attendance at meetings and travel expenses of $50 and $10, respectively.
 
 **1954**—Act Aug. 9, 1954, amended section generally to provide for the independent management of the Bank under a Board of Directors and for the appointment of a President and First Vice President of the Bank.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination Date of 2019 Amendment ####
 

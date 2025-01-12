@@ -16,6 +16,8 @@ Section 2226, Pub. L. 92–181, title V, §5.5, Dec. 10, 1971, 85 Stat. 616; Pub
 
 Section 2227, Pub. L. 92–181, title V, §5.6, Dec. 10, 1971, 85 Stat. 616; 1978 Reorg. Plan No. 2, §102, 43 F.R. 36037, 92 Stat. 3784; Pub. L. 99–205, title II, §205(g)(5), Dec. 23, 1985, 99 Stat. 1707, related to powers of district farm credit board.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective immediately after amendments made by section 401 of Pub. L. 100–233, which were effective 6 months after Jan. 6, 1988, see section 1001(b) of Pub. L. 100–399, set out as an Effective Date of 1988 Amendment note under section 2002 of this title.

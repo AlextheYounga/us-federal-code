@@ -4,6 +4,8 @@ When the day fixed in the bylaws for the regular annual meeting of the sharehold
 
 (R.S. §5149; Pub. L. 86–230, §9, Sept. 8, 1959, 73 Stat. 457; Pub. L. 88–232, §2, Dec. 23, 1963, 77 Stat. 472.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §5149 derived from act June 3, 1864, ch. 106, §10, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.

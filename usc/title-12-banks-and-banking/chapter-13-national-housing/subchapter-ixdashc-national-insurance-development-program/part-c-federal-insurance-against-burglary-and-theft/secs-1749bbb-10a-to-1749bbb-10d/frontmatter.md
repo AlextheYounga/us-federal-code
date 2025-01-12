@@ -1,5 +1,7 @@
 ### §§1749bbb–10a to 1749bbb–10d. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1749bbb–10a to 1749bbb–10d, comprising part C of this subchapter, terminated on Sept. 30, 1995, with certain exceptions, pursuant to former section 1749bbb(b) of this title.

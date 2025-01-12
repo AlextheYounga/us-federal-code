@@ -40,6 +40,8 @@ Section 3619, Pub. L. 96–294, title V, §521, June 30, 1980, 94 Stat. 737, est
 
 Section 3620, Pub. L. 96–294, title V, §522, June 30, 1980, 94 Stat. 737; Pub. L. 98–181, title I [title IV, §463(f)(2)], Nov. 30, 1983, 97 Stat. 1235, authorized appropriations for residential and commercial energy conserving improvements and solar energy systems.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 96–294, title V, §501, June 30, 1980, 94 Stat. 719, provided that: "This title [enacting this chapter and sections 6347, 8235 to 8235i, and 8281 to 8286b of Title 42, The Public Health and Welfare, amending sections 1451, 1454, 1717, 1723g, and 1723h of this title and sections 6862 to 6872, 8211, 8213, 8214, 8216, 8217, and 8221 of Title 42, repealing section 1723f of this title, and enacting provisions set out as notes under this section and sections 8211 and 8235 of Title 42] may be cited as the 'Solar Energy and Energy Conservation Act of 1980'."

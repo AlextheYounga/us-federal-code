@@ -4,6 +4,8 @@ Any association may take, receive, reserve, and charge on any loan or discount m
 
 (R.S. §5197; June 16, 1933, ch. 89, §25, 48 Stat. 191; Aug. 23, 1935, ch. 614, title III, §314, 49 Stat. 711; Pub. L. 93–501, title II, §201, Oct. 29, 1974, 88 Stat. 1558; Pub. L. 96–104, title I, §101, Nov. 5, 1979, 93 Stat. 789; Pub. L. 96–161, title II, §201, Dec. 28, 1979, 93 Stat. 1235; Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Title 62 of the Revised Statutes, referred to in text, was in the original "this Title" meaning title LXII of the Revised Statutes, consisting of R.S. §§5133 to 5244, which are classified to this section and sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83, 84, 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
@@ -31,6 +33,8 @@ Pub. L. 96–104 substituted "or in the case of business or agricultural loans i
 **1935**—Act Aug. 23, 1935, inserted third sentence.
 
 **1933**—Act June 16, 1933, authorized interest at the alternative rate of 1 per centum in excess of the discount rate on ninety-day commercial paper in effect at the federal reserve bank in the Federal reserve district where the bank is located if greater.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1980 Amendment ####
 

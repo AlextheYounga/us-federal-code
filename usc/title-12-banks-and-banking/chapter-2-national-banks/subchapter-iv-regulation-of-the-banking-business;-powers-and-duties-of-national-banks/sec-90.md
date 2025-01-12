@@ -10,6 +10,8 @@ Notwithstanding chapters 1 to 11 of title 40 and division C (except sections 330
 
 (R.S. §5153; Mar. 3, 1901, ch. 871, 31 Stat. 1448; Mar. 4, 1907, ch. 2913, §3, 34 Stat. 1290; Dec. 23, 1913, ch. 6, §27, 38 Stat. 274; Aug. 4, 1914, ch. 225, 38 Stat. 682; June 25, 1930, ch. 604, 46 Stat. 809; Aug. 18, 1950, ch. 754, 64 Stat. 463; Pub. L. 96–153, title III, §323(f), Dec. 21, 1979, 93 Stat. 1120; Pub. L. 104–208, div. A, title I, §101(f) [§2(1)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–386.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In text, "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949, as amended" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.

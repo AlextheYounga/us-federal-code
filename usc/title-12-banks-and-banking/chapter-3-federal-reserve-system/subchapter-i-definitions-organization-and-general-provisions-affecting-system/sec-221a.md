@@ -16,6 +16,8 @@ As used in this chapter—
 
 (June 16, 1933, ch. 89, §2, 48 Stat. 162; Aug. 23, 1935, ch. 614, title III, §301, 49 Stat. 707; Pub. L. 89–485, §13(a), (b), July 1, 1966, 80 Stat. 242.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 As used in this chapter, referred to in text, was in the original "As used in this Act and in any provision of law amended by this Act", meaning act June 16, 1933, ch. 89, 48 Stat. 162, as amended, known as the Banking Act of 1933. For complete classification of this Act to the Code, see References in Text note set out under section 227 of this title and Tables.

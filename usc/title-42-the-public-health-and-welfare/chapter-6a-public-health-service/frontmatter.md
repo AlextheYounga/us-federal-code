@@ -3226,7 +3226,7 @@ Sec.
 
 300ii–2. National lifespan respite resource center.
 
-300ii–3. Report.
+300ii–3. Data collection and reporting.
 
 300ii–4. Authorization of appropriations.
 

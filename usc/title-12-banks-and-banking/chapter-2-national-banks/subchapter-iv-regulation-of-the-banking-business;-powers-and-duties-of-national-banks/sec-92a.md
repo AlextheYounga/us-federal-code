@@ -52,6 +52,8 @@ Any national banking association desiring to surrender its right to exercise the
 
 (Pub. L. 87–722, §1, Sept. 28, 1962, 76 Stat. 668; Pub. L. 96–221, title VII, §704, Mar. 31, 1980, 94 Stat. 187; Pub. L. 112–231, §2(b)(1), Dec. 28, 2012, 126 Stat. 1619.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2012**—Subsec. (a). Pub. L. 112–231, §2(b)(1)(A), struck out "committee of estates of lunatics," before "or in any other fiduciary capacity".
@@ -59,6 +61,8 @@ Any national banking association desiring to surrender its right to exercise the
 Subsec. (j). Pub. L. 112–231, §2(b)(1)(B), struck out "committee of estates of lunatics" before "or other fiduciary, under court, private,".
 
 **1980**—Subsec. (k). Pub. L. 96–221 added subsec. (k).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Savings Provision ####
 

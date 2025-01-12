@@ -1,5 +1,7 @@
 ### §§1749bbb to 1749bbb–2. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1749bbb to 1749bbb–2 were omitted in view of the termination of parts A to D of this subchapter by former section 1749bbb of this title.

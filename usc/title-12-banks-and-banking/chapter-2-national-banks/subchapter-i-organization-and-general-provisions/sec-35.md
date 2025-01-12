@@ -6,6 +6,8 @@ The Comptroller of the Currency may, in his discretion and subject to such condi
 
 (R.S. §5154; Dec. 23, 1913, ch. 6, §8, 38 Stat. 258; Aug. 23, 1935, ch. 614, title III, §312, 49 Stat. 711; Pub. L. 97–457, §19(b), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 111–203, title VI, §612(b), July 21, 2010, 124 Stat. 1612.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in first par., may refer to the Federal Reserve Act, act Dec. 23, 1913, from which this wording is derived; or section 5154 of the Revised Statutes which the Federal Reserve Act amended; or act June 3, 1864, from which R.S. §5154 was derived; or Congress might have intended to refer to the preceding provisions of the 1913 amendment. Similar reference in R.S. §5154 prior to 1913 amendment was to "this Title," meaning title 62 of the Revised Statutes, which title comprised the National Bank Act (June 3, 1864, ch. 106, 13 Stat. 99). See section 38 of this title. Note also specific reference to the Federal Reserve Act and the National Banking Act in first par.
@@ -25,6 +27,8 @@ R.S. §5154 derived from act June 3, 1864, ch. 106, §44, 13 Stat. 112, which wa
 **1983**—Pub. L. 97–457 substituted "with a name that contains the word 'national' " for "with any name approved by the Comptroller of the Currency" after "national banking association,".
 
 **1935**—Act Aug. 23, 1935, added last par.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

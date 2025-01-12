@@ -4,6 +4,8 @@ Subject to such restrictions, limitations, and regulations as may be imposed by 
 
 (Dec. 23, 1913, ch. 6, §13 (par.), as added Pub. L. 95–369, §7(b), Sept. 17, 1978, 92 Stat. 621.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is comprised of the fourteenth (last) par. of section 13 of act Dec. 23, 1913, as added by act Sept. 17, 1978. For additional details concerning the enactment and numbering of the first thirteen pars. of section 13, see Codification notes set out under sections 92, 342 to 347, 347c, 361, 372, and 373 of this title.

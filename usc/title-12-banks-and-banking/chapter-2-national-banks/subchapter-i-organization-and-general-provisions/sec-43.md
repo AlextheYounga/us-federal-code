@@ -46,6 +46,8 @@ The appropriate Federal banking agency may make exceptions to subsection (a) if�
 
 (R.S. §5244, as added Pub. L. 103–328, title I, §114, Sept. 29, 1994, 108 Stat. 2366.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Another R.S. §5244 is classified to section 8 of Title 33, Navigation and Navigable Waters.

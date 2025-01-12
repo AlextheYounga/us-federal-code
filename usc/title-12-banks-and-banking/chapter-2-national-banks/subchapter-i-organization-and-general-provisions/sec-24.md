@@ -42,6 +42,8 @@ Eleventh. To make investments directly or indirectly, each of which is designed 
 
 For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Title 62 of the Revised Statutes, referred to in par. Seventh, was in the original "this Title" meaning title LXII of the Revised Statutes, consisting of R.S. §§5133 to 5244, which are classified to this section and sections 16, 21, 22, 23, 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
@@ -185,6 +187,8 @@ Act June 29, 1949, inserted last sentence to permit national banks and State mem
 **1933**—Act June 16, 1933, among other changes, struck out closing paragraph prohibiting transaction of any business by association prior to authorization by Comptroller, except that necessarily preliminary to organization.
 
 **1927**—Act Feb. 25, 1927, struck out definite period of succession in par. Second, and inserted provisos in par. Seventh.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2006 Amendment ####
 

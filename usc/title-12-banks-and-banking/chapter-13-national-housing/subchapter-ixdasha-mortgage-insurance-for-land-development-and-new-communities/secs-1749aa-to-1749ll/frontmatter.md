@@ -26,6 +26,8 @@ Section 1749kk, act June 27, 1934, ch. 847, title X, §1012, formerly §1011, as
 
 Section 1749ll, act June 27, 1934, ch. 847, title X, §1013, formerly §1012, as added Aug. 10, 1965, Pub. L. 89–117, title II, §201(a), 79 Stat. 464; renumbered §1013, Nov. 3, 1966, Pub. L. 89–754, title IV, §401(a), 80 Stat. 1271; amended May 25, 1967, Pub. L. 90–19, §1(a)(3), (4), 81 Stat. 17, related to requirements to assure that amount of mortgage was not excessive and to requirement that mortgagor certify costs of land development.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Savings Provision ####
 
 Pub. L. 101–235, title I, §133(c), Dec. 15, 1989, 103 Stat. 2027, provided that: "Any contract of insurance entered into under title X [this subchapter, §§1749aa to 1749ll] before the date of enactment of this Act [Dec. 15, 1989] shall be governed by the provisions of such title as such title existed immediately before such date."

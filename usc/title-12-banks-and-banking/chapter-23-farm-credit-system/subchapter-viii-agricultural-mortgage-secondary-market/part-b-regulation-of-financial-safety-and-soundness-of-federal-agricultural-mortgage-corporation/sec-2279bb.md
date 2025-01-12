@@ -36,6 +36,8 @@ The term "State" means the States of the United States, the District of Columbia
 
 (Pub. L. 92–181, title VIII, §8.31, as added Pub. L. 102–237, title V, §503(b)(2), Dec. 13, 1991, 105 Stat. 1871.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Termination of Trust Territory of the Pacific Islands ####
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.

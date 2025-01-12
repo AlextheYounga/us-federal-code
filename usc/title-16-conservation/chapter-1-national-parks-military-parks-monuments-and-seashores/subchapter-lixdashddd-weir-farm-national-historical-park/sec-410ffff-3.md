@@ -1,4 +1,4 @@
-### 410ffff–3. Acquisition of real and personal property and services ###
+### §410ffff–3. Acquisition of real and personal property and services ###
 
 #### (a) Real and personal property ####
 

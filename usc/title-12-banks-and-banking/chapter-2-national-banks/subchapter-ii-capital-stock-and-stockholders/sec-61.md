@@ -4,6 +4,8 @@ In all elections of directors, each shareholder shall have the right to vote the
 
 (R.S. §5144; June 16, 1933, ch. 89, §19, 48 Stat. 186; Aug. 23, 1935, ch. 614, title III, §311, 49 Stat. 710; Sept. 3, 1954, ch. 1263, §21, 68 Stat. 1234; Pub. L. 86–114, §4, July 28, 1959, 73 Stat. 264; Pub. L. 89–485, §13(c), July 1, 1966, 80 Stat. 242; Pub. L. 109–351, title III, §301, Oct. 13, 2006, 120 Stat. 1969.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §5144 derived from act June 3, 1864, ch. 106, §11, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
