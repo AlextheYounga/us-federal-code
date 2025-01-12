@@ -102,6 +102,10 @@ In the case of production from a qualified marginal well which is eligible for t
 
 (Added Pub. L. 108–357, title III, §341(a), Oct. 22, 2004, 118 Stat. 1485; amended Pub. L. 109–58, title XIII, §1322(a)(3)(B), (D), Aug. 8, 2005, 119 Stat. 1011; Pub. L. 109–135, title IV, §412(k), Dec. 21, 2005, 119 Stat. 2637.)
 
+#### Inflation Adjusted Items for Certain Tax Years ####
+
+For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.
+
 #### Amendments ####
 
 **2005**—Subsec. (a)(2). Pub. L. 109–135 substituted "qualified crude oil production" for "qualified credit oil production".
@@ -119,3 +123,13 @@ Amendment by Pub. L. 109–58 applicable to credits determined under the Interna
 #### Effective Date ####
 
 Section applicable to production in taxable years beginning after Dec. 31, 2004, see section 341(e) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under section 38 of this title.
+
+#### Inflation Adjusted Items for Certain Years ####
+
+Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+**2018**—Internal Revenue Notice 2019–37.
+
+**2017**—Internal Revenue Notice 2018–52.
+
+**2016**—Internal Revenue Notice 2017–51.

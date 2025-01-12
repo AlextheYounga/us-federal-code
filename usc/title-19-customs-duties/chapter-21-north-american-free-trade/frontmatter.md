@@ -125,3 +125,7 @@ Sec.
 3472. Agreement on Environmental Cooperation.
 
 3473. Agreement on Border Environment Cooperation Commission.
+
+#### Repeal of Chapter ####
+
+Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, provided that, effective on the date the USMCA enters into force, Pub. L. 103–182, which enacted this chapter, is repealed.

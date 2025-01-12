@@ -74,6 +74,10 @@ The Securities and Exchange Commission, acting in consultation with the National
 
 (Pub. L. 103–182, title V, §541, Dec. 8, 1993, 107 Stat. 2165.)
 
+#### Repeal of Section ####
+
+Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, provided that, effective on the date the USMCA enters into force, this section is repealed.
+
 #### References in Text ####
 
 This subchapter, referred to in subsec. (a), was in the original "this part" meaning part 2 of subtitle D of title V of Pub. L. 103–182, which enacted this subchapter and amended section 24 of Title 12, Banks and Banking. For complete classification of part 2 to the Code, see Tables.
@@ -81,3 +85,7 @@ This subchapter, referred to in subsec. (a), was in the original "this part" mea
 #### Codification ####
 
 Section is comprised of section 541 of Pub. L. 103–182. Subsec. (h)(1) of section 541 amended section 24 of Title 12, Banks and Banking.
+
+#### Effective Date of Repeal ####
+
+Repeal effective on the date the USMCA enters into force, see section 601 of Pub. L. 116–113, set out as a note under section 3301 of Title 19, Customs Duties.

@@ -42,7 +42,11 @@ At the time use of the merchandise in production begins, the merchandise shall b
 
 For purposes of this subsection, the term "foreign trade zone" includes a subzone.
 
-(June 18, 1934, ch. 590, §3, 48 Stat. 999; June 17, 1950, ch. 296, §1, 64 Stat. 246; Pub. L. 91–271, title III, §309, June 2, 1970, 84 Stat. 292; Pub. L. 98–573, title II, §231(a)(2), Oct. 30, 1984, 98 Stat. 2990; Pub. L. 99–514, title XVIII, §1894, Oct. 22, 1986, 100 Stat. 2931; Pub. L. 100–418, title I, §1783(f), Aug. 23, 1988, 102 Stat. 1300; Pub. L. 100–449, title II, §204(c)(5), Sept. 28, 1988, 102 Stat. 1863; Pub. L. 100–647, title IX, §9002, Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–382, title III, §§481, 484F, Aug. 20, 1990, 104 Stat. 706, 710; Pub. L. 103–182, title II, §203(b)(5), Dec. 8, 1993, 107 Stat. 2091; Pub. L. 104–295, §31(a), Oct. 11, 1996, 110 Stat. 3536; Pub. L. 106–36, title I, §1001(b)(2), June 25, 1999, 113 Stat. 131; Pub. L. 108–77, title II, §203(b)(5), Sept. 3, 2003, 117 Stat. 929.)
+(June 18, 1934, ch. 590, §3, 48 Stat. 999; June 17, 1950, ch. 296, §1, 64 Stat. 246; Pub. L. 91–271, title III, §309, June 2, 1970, 84 Stat. 292; Pub. L. 98–573, title II, §231(a)(2), Oct. 30, 1984, 98 Stat. 2990; Pub. L. 99–514, title XVIII, §1894, Oct. 22, 1986, 100 Stat. 2931; Pub. L. 100–418, title I, §1783(f), Aug. 23, 1988, 102 Stat. 1300; Pub. L. 100–449, title II, §204(c)(5), Sept. 28, 1988, 102 Stat. 1863; Pub. L. 100–647, title IX, §9002, Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–382, title III, §§481, 484F, Aug. 20, 1990, 104 Stat. 706, 710; Pub. L. 103–182, title II, §203(b)(5), Dec. 8, 1993, 107 Stat. 2091; Pub. L. 104–295, §31(a), Oct. 11, 1996, 110 Stat. 3536; Pub. L. 106–36, title I, §1001(b)(2), June 25, 1999, 113 Stat. 131; Pub. L. 108–77, title II, §203(b)(5), Sept. 3, 2003, 117 Stat. 929; Pub. L. 116–113, title V, §501(e)(5), Jan. 29, 2020, 134 Stat. 69.)
+
+#### Amendment of Subsection (a) ####
+
+Pub. L. 116–113, title V, §501(e)(5), (g), Jan. 29, 2020, 134 Stat. 69, provided that, effective on the date the USMCA enters into force and applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after that date, subsection "(a)(2)" of this section is amended in the flush text by substituting "goods subject to USMCA drawback, as defined in section 4534(a) of this title" for "goods subject to NAFTA drawback, as defined in section 3333(a) of this title", "a USMCA country, as defined in section 4502 of this title" for "a NAFTA country, as defined in section 3301(4) of this title", and "USMCA" for "NAFTA" wherever appearing. See 2020 Amendment note below.
 
 #### Amendment of Section ####
 
@@ -77,6 +81,8 @@ Section 204 of the United States-Canada Free-Trade Agreement Implementation Act 
 
 #### Amendments ####
 
+**2020**—Subsec. (a). Pub. L. 116–113, which directed amendment of the flush text of subsec. "(a)(2)" by substituting "goods subject to USMCA drawback, as defined in section 4534(a) of this title" for "goods subject to NAFTA drawback, as defined in section 3333(a) of this title", "a USMCA country, as defined in section 4502 of this title" for "a NAFTA country, as defined in section 3301(4) of this title", and "USMCA" for "NAFTA" wherever appearing, was executed by making the substitutions in concluding provisions of subsec. (a), to reflect the probable intent of Congress.
+
 **2003**—Subsec. (a). Pub. L. 108–77, §§107(c), 203(b)(5), temporarily inserted before period at end "*Provided further*, That no merchandise that consists of goods subject to Chile FTA drawback, as defined in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, that is manufactured or otherwise changed in condition shall be exported to Chile without an assessment of a duty on the merchandise in its condition and quantity, and at its weight, at the time of its exportation (or if the privilege in the first proviso to this subsection was requested, an assessment of a duty on the merchandise in its condition and quantity, and at its weight, at the time of its admission into the zone) and the payment of the assessed duty before the 61st day after the date of exportation of the article, except that the customs duty may be waived or reduced by (1) 100 percent during the 8-year period beginning on January 1, 2004; (2) 75 percent during the 1-year period beginning on January 1, 2012; (3) 50 percent during the 1-year period beginning on January 1, 2013; and (4) 25 percent during the 1-year period beginning on January 1, 2014". See Effective and Termination Dates of 2003 Amendment note below.
 
 **1999**—Subsec. (a). Pub. L. 106–36 struck out second period at end of last sentence.
@@ -102,6 +108,24 @@ Subsec. (d). Pub. L. 100–647 added subsec. (d).
 **1970**—Pub. L. 91–271 substituted references to the appropriate customs officers for references to the collector of customs wherever appearing.
 
 **1950**—Act June 17, 1950, amended section generally to remove the prohibition against, and to authorize specifically, manufacture and exhibition within a zone.
+
+#### Effective Date of 2020 Amendment ####
+
+Pub. L. 116–113, title V, §501(g), Jan. 29, 2020, 134 Stat. 69, provided that:
+
+"(1) In general.—Each transfer, redesignation, and amendment made by subsections (b) through (e) [amending this section and sections 1311 to 1313, 1562, 3333, and 4534 of this title] shall—
+
+"(A) take effect on the date on which the USMCA enters into force; and
+
+"(B) apply with respect to a good entered, or withdrawn from warehouse for consumption, on or after that date.
+
+"(2) Transition from nafta treatment.—In the case of a good entered, or withdrawn from warehouse for consumption, before the date on which the USMCA enters into force—
+
+"(A) the amendments made by subsections (b) through (e) shall not apply with respect to the good; and
+
+"(B) the provisions of law amended by such subsections, as such provisions were in effect on the day before that date, shall continue to apply on and after that date with respect to the good."
+
+[For definition of "USMCA" as used in section 501(g) of Pub. L. 116–113, set out above, see section 4502 of this title.]
 
 #### Effective and Termination Dates of 2003 Amendment ####
 

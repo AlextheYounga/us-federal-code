@@ -184,6 +184,8 @@ Pub. L. 101–508, title XI, §11511(d), Nov. 5, 1990, 104 Stat. 1388–485, pro
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+**2019**—Internal Revenue Notice 2019–36.
+
 **2018**—Internal Revenue Notice 2018–49.
 
 **2017**—Internal Revenue Notice 2017–25.
