@@ -22,9 +22,9 @@ In addition to any other fee authorized by law, the Secretary of the Treasury sh
 
 (8) For the arrival of a barge or other bulk carrier from Canada or Mexico, $100.
 
-(9)(A) For the processing of merchandise that is formally entered or released during any fiscal year, a fee in an amount equal to 0.21 percent ad valorem, unless adjusted under subparagraph (B).
+(9)(A) For the processing of merchandise that is formally entered or released during any fiscal year, a fee in an amount equal to 0.21 <sup><a href="#58c_1_target" name="58c_1">1</a></sup> percent ad valorem, unless adjusted under subparagraph (B).
 
-(B)(i) The Secretary of the Treasury may adjust the ad valorem rate specified in subparagraph (A) to an ad valorem rate (but not to a rate of more than 0.21 percent nor less than 0.15 percent) and the amounts specified in subsection (b)(8)(A)(i) (but not to more than $485 nor less than $21) to rates and amounts which would, if charged, offset the salaries and expenses that will likely be incurred by the Customs Service in the processing of such entries and releases during the fiscal year in which such costs are incurred.
+(B)(i) The Secretary of the Treasury may adjust the ad valorem rate specified in subparagraph (A) to an ad valorem rate (but not to a rate of more than 0.21 <sup><a href="#58c_1_target" name="58c_1">1</a></sup> percent nor less than 0.15 percent) and the amounts specified in subsection (b)(8)(A)(i) (but not to more than $485 nor less than $21) to rates and amounts which would, if charged, offset the salaries and expenses that will likely be incurred by the Customs Service in the processing of such entries and releases during the fiscal year in which such costs are incurred.
 
 (ii) In determining the amount of any adjustment under clause (i), the Secretary of the Treasury shall take into account whether there is a surplus or deficit in the fund established under subsection (f) with respect to the provision of customs services for the processing of formal entries and releases of merchandise.
 
@@ -402,7 +402,7 @@ and shall transfer from the Customs User Fee Account to the General Fund of the 
 
 (4)(A) There is created within the general fund of the Treasury a separate account that shall be known as the "Customs Commercial and Homeland Security Automation Account". In each of fiscal years 2003, 2004, and 2005 there shall be deposited into the Account from fees collected under subsection (a)(9)(A), $350,000,000.
 
-(B) There is authorized to be appropriated from the Account in fiscal years 2016 through 2018 not less than $153,736,000 to complete the development and implementation, establishment, and implementation <sup><a href="#58c_1_target" name="58c_1">1</a></sup> of the Automated Commercial Environment computer system for the processing of merchandise that is entered or released and for other purposes related to the functions of the Department of Homeland Security. Amounts appropriated pursuant to this subparagraph are authorized to remain available until expended.
+(B) There is authorized to be appropriated from the Account in fiscal years 2016 through 2018 not less than $153,736,000 to complete the development and implementation, establishment, and implementation <sup><a href="#58c_2_target" name="58c_2">2</a></sup> of the Automated Commercial Environment computer system for the processing of merchandise that is entered or released and for other purposes related to the functions of the Department of Homeland Security. Amounts appropriated pursuant to this subparagraph are authorized to remain available until expended.
 
 (C) In adjusting the fee imposed by subsection (a)(9)(A) for fiscal year 2006, the Secretary of the Treasury shall reduce the amount estimated to be collected in fiscal year 2006 by the amount by which total fees deposited to the Account during fiscal years 2003, 2004, and 2005 exceed total appropriations from that Account.
 
@@ -428,7 +428,7 @@ Except with respect to customs services for which fees are imposed under subsect
 
 (3)(A) Fees may not be charged under paragraphs (9) and (10) of subsection (a) after September 30, 2029.
 
-(B)(i) Subject to clause (ii), Fees <sup><a href="#58c_2_target" name="58c_2">2</a></sup> may not be charged under paragraphs (1) through (8) of subsection (a) after September 30, 2029.
+(B)(i) Subject to clause (ii), Fees <sup><a href="#58c_3_target" name="58c_3">3</a></sup> may not be charged under paragraphs (1) through (8) of subsection (a) after September 30, 2029.
 
 (ii) In fiscal year 2006 and in each succeeding fiscal year for which fees under paragraphs (1) through (8) of subsection (a) are authorized—
 
@@ -1300,7 +1300,7 @@ Pub. L. 112–40, title II, §262, Oct. 21, 2011, 125 Stat. 426, provided that:
 
 "(2) in subparagraph (B)(i), by substituting '0.1740' for '0.21'."
 
-[For additional application and administration of subsec. (a)(9) of this section for period beginning on Dec. 1, 2015, and ending on June 30, 2021, see section 503 of Pub. L. 112–41, set out in a note under section 3805 of this title.]
+[For additional application and administration of subsec. (a)(9) of this section for period beginning on Dec. 1, 2015, and ending on Sept. 30, 2029, see section 503 of Pub. L. 112–41, set out in a note under section 3805 of this title.]
 
 #### Time for Remitting Certain Merchandise Processing Fees ####
 
@@ -1348,6 +1348,8 @@ Pub. L. 99–514, title XVIII, §1893(c)(2), (3), Oct. 22, 1986, 100 Stat. 2929,
 
 "(B) Notwithstanding any other provision of law, the Secretary of the Treasury may not suspend or revoke any customs broker permit issued under section 641(c) of the Tariff Act of 1930 (19 U.S.C. 1641(c)) solely by reason of nonpayment of the fee imposed by section 13031(a)(7) of the Consolidated Omnibus Budget Reconciliation Act of 1985 before the date that is 60 days after the date of enactment of this Act [Oct. 22, 1986]."
 
-[<sup>1</sup> So in original.](#58c_1)
+[<sup>1</sup> See Rates for Merchandise Processing Fees notes below.](#58c_1)
 
-[<sup>2</sup> So in original. Probably should not be capitalized.](#58c_2)
+[<sup>2</sup> So in original.](#58c_2)
+
+[<sup>3</sup> So in original. Probably should not be capitalized.](#58c_3)
