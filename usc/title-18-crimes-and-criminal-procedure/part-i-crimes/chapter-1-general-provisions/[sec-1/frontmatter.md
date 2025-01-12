@@ -10,6 +10,8 @@ Repeal of section effective Nov. 1, 1987, and applicable only to offenses commit
 
 #### Short Title of 2024 Amendment ####
 
+Pub. L. 118–59, §1, May 7, 2024, 138 Stat. 1014, provided that: "This Act [amending sections 2258A and 2258B of this title and enacting provisions set out as notes under sections 2258A and 2258B of this title] may be cited as the 'Revising Existing Procedures On Reporting via Technology Act' or the 'REPORT Act'."
+
 Pub. L. 118–42, div. G, title III, §302(a), Mar. 9, 2024, 138 Stat. 451, provided that: "This section [enacting provisions set out as a note under section 3551 of this title] may be cited as the 'United States Parole Commission Additional Extension Act of 2024'."
 
 #### Short Title of 2023 Amendment ####
