@@ -28,6 +28,8 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 (6) The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall submit to Congress an annual report on the activities carried out under this section.
 
+(7) The Secretary shall convene the Advisory Council at least two times each calendar year.
+
 #### (b) Accreditation ####
 
 The Secretary shall, through a public process, recognize one or more accreditation entities for the accreditation of cord blood banks.
@@ -98,7 +100,7 @@ With respect to cord blood, the Program shall—
 
 #### (B) Efforts to increase collection of high quality cord blood units ####
 
-In carrying out subparagraph (A)(iv), not later than 1 year after October 8, 2010, and annually thereafter, the Secretary shall set an annual goal of increasing collections of high quality cord blood units,<sup><a href="#274k_1_target" name="274k_1">1</a></sup> consistent with the inventory goal described in section 2(a) of the Stem Cell Therapeutic and Research Act of 2005 (referred to in this subparagraph as the "inventory goal"), and shall identify at least one project under subparagraph (A)(iv) to replicate and expand nationwide, as appropriate. If the Secretary cannot identify a project as described in the preceding sentence, the Secretary shall submit a plan, not later than 180 days after the date on which the Secretary was required to identify such a project, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives for expanding collection of high quality cord blood units, including remote collection,<sup><a href="#274k_1_target" name="274k_1">1</a></sup> consistent with the requirements under the National Cord Blood Inventory program under section 2 of the Stem Cell Therapeutic and Research Act of 2005 and the inventory goal. Each such plan shall be made available to the public.
+In carrying out subparagraph (A)(iv), not later than 1 year after October 8, 2010, and annually thereafter, the Secretary shall set an annual goal of increasing collections of high quality cord blood units, including remote collection, consistent with the inventory goal described in section 2(a) of the Stem Cell Therapeutic and Research Act of 2005 (referred to in this subparagraph as the "inventory goal"), and shall identify at least one project under subparagraph (A)(iv) to replicate and expand nationwide, as appropriate.
 
 #### (C) Definition ####
 
@@ -308,7 +310,21 @@ The Secretary and the Comptroller General of the United States shall have access
 
 Any person who discloses the content of any record referred to in subsection (d)(4)(D) or (f)(5)(A) without the prior written consent of the donor or potential donor with respect to whom the record is maintained, or in violation of the standards described in subsection (f)(5)(B), shall be imprisoned for not more than 2 years or fined in accordance with title 18, or both.
 
-(July 1, 1944, ch. 373, title III, §379, as added Pub. L. 101–616, title I, §101(a)(2), Nov. 16, 1990, 104 Stat. 3279; amended Pub. L. 105–196, §2(a), (b)(1), (c)–(g), July 16, 1998, 112 Stat. 631–635; Pub. L. 109–129, §3(a), Dec. 20, 2005, 119 Stat. 2553; Pub. L. 111–264, §2(b), Oct. 8, 2010, 124 Stat. 2791; Pub. L. 114–104, §2(a), Dec. 18, 2015, 129 Stat. 2216.)
+#### (o) Periodic review of state of science ####
+
+#### (1) Review ####
+
+Not less frequently than every 2 years, the Secretary, in consultation with the Director of the National Institutes of Health, the Commissioner of Food and Drugs, the Administrator of the Health Resources and Services Administration, the Advisory Council, and other stakeholders, where appropriate given relevant expertise, shall conduct a review of the state of the science of using adult stem cells and birthing tissues to develop new types of therapies for patients, for the purpose of considering the potential inclusion of such new types of therapies in the Program.
+
+#### (2) Recommendations ####
+
+Not later than June 30, 2025, the Secretary shall—
+
+(A) complete the second review required by paragraph (1); and
+
+(B) informed by such review, submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives recommendations on the appropriateness of the inclusion of new types of therapies in the Program.
+
+(July 1, 1944, ch. 373, title III, §379, as added Pub. L. 101–616, title I, §101(a)(2), Nov. 16, 1990, 104 Stat. 3279; amended Pub. L. 105–196, §2(a), (b)(1), (c)–(g), July 16, 1998, 112 Stat. 631–635; Pub. L. 109–129, §3(a), Dec. 20, 2005, 119 Stat. 2553; Pub. L. 111–264, §2(b), Oct. 8, 2010, 124 Stat. 2791; Pub. L. 114–104, §2(a), Dec. 18, 2015, 129 Stat. 2216; Pub. L. 117–15, §2(a)–(c), May 26, 2021, 135 Stat. 277.)
 
 #### References in Text ####
 
@@ -316,7 +332,15 @@ Section 2 of the Stem Cell Therapeutic and Research Act of 2005, referred to in 
 
 #### Amendments ####
 
-**2015**—Subsec. (d)(2)(B). Pub. L. 114–104, §2(a)(2), which directed insertion of "including remote collection," after "cord blood units,", was executed by making the insertion after "cord blood units," the second place appearing.
+**2021**—Subsec. (a)(7). Pub. L. 117–15, §2(a), added par. (7).
+
+Subsec. (d)(2)(B). Pub. L. 117–15, §2(b)(2), struck out at end "If the Secretary cannot identify a project as described in the preceding sentence, the Secretary shall submit a plan, not later than 180 days after the date on which the Secretary was required to identify such a project, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives for expanding collection of high quality cord blood units, consistent with the requirements under the National Cord Blood Inventory program under section 2 of the Stem Cell Therapeutic and Research Act of 2005 and the inventory goal. Each such plan shall be made available to the public."
+
+Pub. L. 117–15, §2(b)(1), made technical amendment to directory language of Pub. L. 114–104, §2(a)(2). See 2015 Amendment note below.
+
+Subsec. (o). Pub. L. 117–15, §2(c), added subsec. (o).
+
+**2015**—Subsec. (d)(2)(B). Pub. L. 114–104, §2(a)(2), as amended by Pub. L. 117–15, §2(b)(1), inserted "including remote collection," after "goal of increasing collections of high quality cord blood units,".
 
 Pub. L. 114–104, §2(a)(1), substituted "expanding collection" for "expanding remote collection".
 
@@ -374,6 +398,10 @@ Subsec. (k). Pub. L. 105–196, §2(c), (g)(2), redesignated subsec. (i) as (k) 
 
 Subsec. (l). Pub. L. 105–196, §2(f), added subsec. (l).
 
+#### Effective Date of 2021 Amendment ####
+
+Pub. L. 117–15, §2(b)(1), May 26, 2021, 135 Stat. 277, provided that the amendment made by section 2(b)(1) is effective as if included in the enactment of the Stem Cell Therapeutic and Research Reauthorization Act of 2015 (Pub. L. 114–104).
+
 #### Effective Date of 1998 Amendment ####
 
 Pub. L. 105–196, §7, July 16, 1998, 112 Stat. 637, provided that: "This Act [see Short Title of 1998 Amendment note set out under section 201 of this title] takes effect October 1, 1998, or upon the date of the enactment of this Act [July 16, 1998], whichever occurs later."
@@ -390,7 +418,7 @@ Pub. L. 101–616, title I, §102, Nov. 16, 1990, 104 Stat. 3282, provided that:
 
 #### Cord Blood Inventory ####
 
-Pub. L. 109–129, §2, Dec. 20, 2005, 119 Stat. 2550, as amended by Pub. L. 111–264, §2(a), Oct. 8, 2010, 124 Stat. 2789; Pub. L. 114–104, §3, Dec. 18, 2015, 129 Stat. 2217, provided that:
+Pub. L. 109–129, §2, Dec. 20, 2005, 119 Stat. 2550, as amended by Pub. L. 111–264, §2(a), Oct. 8, 2010, 124 Stat. 2789; Pub. L. 114–104, §3, Dec. 18, 2015, 129 Stat. 2217; Pub. L. 117–15, §3, May 26, 2021, 135 Stat. 278, provided that:
 
 "(a) In General.—The Secretary of Health and Human Services shall enter into contracts with qualified cord blood banks to assist in the collection and maintenance of the inventory goal of at least 150,000 new units of high-quality cord blood to be made available for transplantation through the C.W. Bill Young Cell Transplantation Program and to carry out the requirements of subsection (b).
 
@@ -458,9 +486,9 @@ Pub. L. 109–129, §2, Dec. 20, 2005, 119 Stat. 2550, as amended by Pub. L. 111
 
 "(5) The term 'Secretary' means the Secretary of Health and Human Services.
 
-"(g) Authorization of Appropriations.—
+#### "(g) Authorization of Appropriations ####
 
-"(1) [sic; there is no par. (2)] Authorization of appropriations.—There are authorized to be appropriated to the Secretary to carry out the program under this section $20,000,000 for fiscal year 2015 and $23,000,000 for each of fiscal years 2016 through 2020."
+"To carry out this section, there is authorized to be appropriated $23,000,000 for each of fiscal years 2022 through 2026."
 
 #### Report of Inspector General; Plan Regarding Relationship Between Registry and Donor Centers ####
 
@@ -473,5 +501,3 @@ Pub. L. 105–196, §5, July 16, 1998, 112 Stat. 636, provided that the Comptrol
 #### Compliance With New Requirements for Office of Patient Advocacy ####
 
 Pub. L. 105–196, §6, July 16, 1998, 112 Stat. 636, provided that with respect to requirements for the office of patient advocacy under subsec. (d) of this section, the Secretary of Health and Human Services was to ensure that, not later than 180 days after Oct. 1, 1998, such office was in compliance with all requirements that were additional to the requirements under this section in effect with respect to patient advocacy on the day before July 16, 1998.
-
-[<sup>1</sup> See 2015 Amendment note below.](#274k_1)

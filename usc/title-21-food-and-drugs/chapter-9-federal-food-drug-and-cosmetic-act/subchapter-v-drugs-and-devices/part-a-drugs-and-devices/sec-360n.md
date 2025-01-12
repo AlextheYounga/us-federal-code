@@ -70,7 +70,11 @@ The term "tropical disease product application" means an application that—
 
 (B) is approved after September 27, 2007, by the Secretary for use in the prevention, detection, or treatment of a tropical disease; and
 
-(C) is for a human drug, no active ingredient (including any ester or salt of the active ingredient) of which has been approved in any other application under section 355(b)(1) of this title or section 262 of title 42.
+(C) is for—
+
+(i) a human drug, no active moiety (as defined by the Secretary in section 314.3 of title 21, Code of Federal Regulations (or any successor regulations)) of which has been approved in any other application under section 355(b)(1) of this title; or
+
+(ii) a biological product, no active ingredient of which has been approved in any other application under section 262 of title 42.
 
 #### (b) Priority review voucher ####
 
@@ -132,7 +136,7 @@ Fees collected pursuant to this subsection for any fiscal year—
 
 (B) shall not be collected for any fiscal year except to the extent provided in advance in appropriation Acts.
 
-(June 25, 1938, ch. 675, §524, as added Pub. L. 110–85, title XI, §1102, Sept. 27, 2007, 121 Stat. 972; amended Pub. L. 113–233, §2, Dec. 16, 2014, 128 Stat. 2127; Pub. L. 114–146, §2, Apr. 19, 2016, 130 Stat. 357; Pub. L. 114–255, div. A, title III, §3101(a)(2)(M), Dec. 13, 2016, 130 Stat. 1154; Pub. L. 115–52, title VI, §611(a), Aug. 18, 2017, 131 Stat. 1054.)
+(June 25, 1938, ch. 675, §524, as added Pub. L. 110–85, title XI, §1102, Sept. 27, 2007, 121 Stat. 972; amended Pub. L. 113–233, §2, Dec. 16, 2014, 128 Stat. 2127; Pub. L. 114–146, §2, Apr. 19, 2016, 130 Stat. 357; Pub. L. 114–255, div. A, title III, §3101(a)(2)(M), Dec. 13, 2016, 130 Stat. 1154; Pub. L. 115–52, title VI, §611(a), Aug. 18, 2017, 131 Stat. 1054; Pub. L. 117–9, §1(a)(3), Apr. 23, 2021, 135 Stat. 257.)
 
 #### **Editorial Notes** ####
 
@@ -141,6 +145,8 @@ Fees collected pursuant to this subsection for any fiscal year—
 Section 101(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (a)(1), is section 101(c) of Pub. L. 110–85, which is set out as a note under section 379g of this title.
 
 #### Amendments ####
+
+**2021**—Subsec. (a)(4)(C). Pub. L. 117–9 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "is for a human drug, no active ingredient (including any ester or salt of the active ingredient) of which has been approved in any other application under section 355(b)(1) of this title or section 262 of title 42."
 
 **2017**—Subsec. (a)(4)(A)(iii), (iv). Pub. L. 115–52 added cls. (iii) and (iv).
 

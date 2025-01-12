@@ -90,17 +90,21 @@ Sec.
 
 1163. Trial work periods and vocational rehabilitation for certain veterans with total disability ratings.
 
-1164. 1 Presumptions of service-connection for Coronavirus Disease 2019.
-
-1164. 1 Specialized teams to evaluate claims involving military sexual trauma.
+1164. Presumptions of service-connection for Coronavirus Disease 2019.
 
 1165. Choice of sex of medical examiner for certain disabilities.
+
+1166. Specialized teams to evaluate claims involving military sexual trauma.
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–315, title IV, §4101(b), title V, §§5501(a)(2), 5502(b), Jan. 5, 2021, 134 Stat. 5008, 5048, 5050, added two items 1164 and item 1165.
+**2021**—Pub. L. 117–16, §7(a)(1), (b)(3), June 8, 2021, 135 Stat. 284, 285, renumbered item 1164 "Specialized teams to evaluate claims involving military sexual trauma" as 1166 and made technical amendment to directory language of Pub. L. 116–315, §4101(b). See Amendment note below.
+
+Pub. L. 116–315, title V, §§5501(a)(2), 5502(b), Jan. 5, 2021, 134 Stat. 5048, 5050, added item 1164 "Specialized teams to evaluate claims involving military sexual trauma" and item 1165.
+
+Pub. L. 116–315, title IV, §4101(b), Jan. 5, 2021, 134 Stat. 5008, as amended by Pub. L. 117–16, §7(b)(3), June 8, 2021, 135 Stat. 285, added item 1164 "Presumptions of service-connection for Coronavirus Disease 2019".
 
 **2019**—Pub. L. 116–23, §§2(b), 3(b), June 25, 2019, 133 Stat. 968, 970, added items 1116A and 1116B.
 
@@ -145,5 +149,3 @@ Pub. L. 102–4, §2(a)(2), Feb. 6, 1991, 105 Stat. 13, added item 316.
 **1962**—Pub. L. 87–610, §2, Aug. 28, 1962, 76 Stat. 406, added item 360.
 
 **1960**—Pub. L. 86–501, §2, June 10, 1960, 74 Stat. 195, added item 359.
-
-[<sup>1</sup> So in original. Two sections 1164 have been enacted.](#CHAPTER11_1)

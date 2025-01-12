@@ -24,13 +24,19 @@ The term "rare pediatric disease" means a disease that meets each of the followi
 
 The term "rare pediatric disease product application" means a human drug application, as defined in section 379g(1) of this title, that—
 
-(A) is for a drug or biological product—
+(A) is for a drug or biological product that is for the prevention or treatment of a rare pediatric disease;
 
-(i) that is for the prevention or treatment of a rare pediatric disease; and
+(B)(i) is for such a drug—
 
-(ii) that contains no active ingredient (including any ester or salt of the active ingredient) that has been previously approved in any other application under section 355(b)(1), 355(b)(2), or 355(j) of this title or section 351(a) or 351(k) of the Public Health Service Act [42 U.S.C. 262(a), 262(k)];
+(I) that contains no active moiety (as defined by the Secretary in section 314.3 of title 21, Code of Federal Regulations (or any successor regulations)) that has been previously approved in any other application under subsection (b)(1), (b)(2), or (j) of section 355 of this title; and
 
-(B) is submitted under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act [42 U.S.C. 262(a)];
+(II) that is the subject of an application submitted under section 355(b)(1) of this title; or
+
+(ii) is for such a biological product—
+
+(I) that contains no active ingredient that has been previously approved in any other application under section 351(a) or 351(k) of the Public Health Service Act [42 U.S.C. 262(a), 262(k)]; and
+
+(II) that is the subject of an application submitted under section 351(a) of the Public Health Service Act [42 U.S.C. 262(a)];
 
 (C) the Secretary deems eligible for priority review;
 
@@ -228,7 +234,7 @@ In conducting the study under subparagraph (A), the Comptroller General shall ex
 
 Not later than 1 year after the date under paragraph (1)(A), the Comptroller General shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, a report containing the results of the study under paragraph (1).
 
-(June 25, 1938, ch. 675, §529, as added Pub. L. 112–144, title IX, §908, July 9, 2012, 126 Stat. 1094; amended Pub. L. 114–113, div. A, title VII, §765, Dec. 18, 2015, 129 Stat. 2286; Pub. L. 114–229, §2(a), Sept. 30, 2016, 130 Stat. 943; Pub. L. 114–255, div. A, title III, §3013(a), Dec. 13, 2016, 130 Stat. 1093; Pub. L. 116–159, div. C, title I, §2105, Oct. 1, 2020, 134 Stat. 729; Pub. L. 116–215, div. B, title II, §1211, Dec. 11, 2020, 134 Stat. 1045; Pub. L. 116–260, div. BB, title III, §321, Dec. 27, 2020, 134 Stat. 2932.)
+(June 25, 1938, ch. 675, §529, as added Pub. L. 112–144, title IX, §908, July 9, 2012, 126 Stat. 1094; amended Pub. L. 114–113, div. A, title VII, §765, Dec. 18, 2015, 129 Stat. 2286; Pub. L. 114–229, §2(a), Sept. 30, 2016, 130 Stat. 943; Pub. L. 114–255, div. A, title III, §3013(a), Dec. 13, 2016, 130 Stat. 1093; Pub. L. 116–159, div. C, title I, §2105, Oct. 1, 2020, 134 Stat. 729; Pub. L. 116–215, div. B, title II, §1211, Dec. 11, 2020, 134 Stat. 1045; Pub. L. 116–260, div. BB, title III, §321, Dec. 27, 2020, 134 Stat. 2932; Pub. L. 117–9, §1(a)(4), Apr. 23, 2021, 135 Stat. 257.)
 
 #### **Editorial Notes** ####
 
@@ -239,6 +245,16 @@ Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to
 The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments ####
+
+**2021**—Subsec. (a)(4)(A), (B). Pub. L. 117–9 added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+
+"(A) is for a drug or biological product—
+
+"(i) that is for the prevention or treatment of a rare pediatric disease; and
+
+"(ii) that contains no active ingredient (including any ester or salt of the active ingredient) that has been previously approved in any other application under section 355(b)(1), 355(b)(2), or 355(j) of this title or section 351(a) or 351(k) of the Public Health Service Act;
+
+"(B) is submitted under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act;".
 
 **2020**—Subsec. (b)(5). Pub. L. 116–260 substituted "September 30, 2024" for "December 18, 2020" in introductory provisions and in subpar. (A) and substituted "September 30, 2026" for "December 18, 2022" in subpar. (B).
 

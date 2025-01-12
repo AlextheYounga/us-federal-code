@@ -1,10 +1,12 @@
 ### §274m. Authorization of appropriations ###
 
-For the purpose of carrying out this part, there are authorized to be appropriated $33,000,000 for fiscal year 2015 and $30,000,000 for each of fiscal years 2016 through 2020.
+For the purpose of carrying out this part, there are authorized to be appropriated $31,009,000 for each of fiscal years 2022 through 2026.
 
-(July 1, 1944, ch. 373, title III, §379B, as added Pub. L. 105–196, §4(2), July 16, 1998, 112 Stat. 636; amended Pub. L. 109–129, §3(d), Dec. 20, 2005, 119 Stat. 2562; Pub. L. 111–264, §2(d), Oct. 8, 2010, 124 Stat. 2792; Pub. L. 114–104, §2(b), Dec. 18, 2015, 129 Stat. 2216.)
+(July 1, 1944, ch. 373, title III, §379B, as added Pub. L. 105–196, §4(2), July 16, 1998, 112 Stat. 636; amended Pub. L. 109–129, §3(d), Dec. 20, 2005, 119 Stat. 2562; Pub. L. 111–264, §2(d), Oct. 8, 2010, 124 Stat. 2792; Pub. L. 114–104, §2(b), Dec. 18, 2015, 129 Stat. 2216; Pub. L. 117–15, §2(d), May 26, 2021, 135 Stat. 278.)
 
 #### Amendments ####
+
+**2021**—Pub. L. 117–15 substituted "$31,009,000 for each of fiscal years 2022 through 2026" for "$33,000,000 for fiscal year 2015 and $30,000,000 for each of fiscal years 2016 through 2020".
 
 **2015**—Pub. L. 114–104 struck out "$30,000,000 for each of fiscal years 2011 through 2014 and" after "to be appropriated" and inserted "and $30,000,000 for each of fiscal years 2016 through 2020" after "fiscal year 2015".
 

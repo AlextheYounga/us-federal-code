@@ -13,3 +13,5 @@ Sec.
 30505. Severability.
 
 30506. Rule of construction.
+
+30507. Jabara-Heyer NO HATE Act.

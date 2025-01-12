@@ -18,7 +18,7 @@ Sec.
 
 2407. Authority to accept and maintain suitable memorials.
 
-2408. Aid to States for establishment, expansion, and improvement of veterans' cemeteries.
+2408. Aid to States, counties, and tribal organizations for establishment, expansion, and improvement of veterans' cemeteries.
 
 2409. Memorial areas in Arlington National Cemetery.
 
@@ -33,10 +33,6 @@ Sec.
 2413. Prohibition on certain demonstrations and disruptions at cemeteries under control of the National Cemetery Administration and at Arlington National Cemetery.
 
 2414. Communication between Department of Veterans Affairs and medical examiners and funeral directors.
-
-#### Amendment of Analysis ####
-
-Pub. L. 116–315, title II, §2205(b)(2), (c), Jan. 5, 2021, 134 Stat. 4987, provided that, effective on the date that is two years after Jan. 5, 2021, this analysis is amended by inserting ", counties, and tribal organizations" after "States" in item 2408. See 2021 Amendment note below.
 
 #### **Editorial Notes** ####
 
