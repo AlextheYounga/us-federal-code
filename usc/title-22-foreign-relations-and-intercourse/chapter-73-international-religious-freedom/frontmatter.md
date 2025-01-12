@@ -34,6 +34,8 @@ Sec.
 
 6433. Report of Commission.
 
+6433a. Strategic plan.
+
 6434. Applicability of other laws.
 
 6435. Authorization of appropriations.
