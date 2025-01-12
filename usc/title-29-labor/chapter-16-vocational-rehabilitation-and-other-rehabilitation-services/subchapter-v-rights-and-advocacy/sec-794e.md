@@ -144,7 +144,7 @@ The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred t
 
 The Assistive Technology Act of 1998, referred to in subsec. (a)(2), is Pub. L. 105–394, Nov. 13, 1998, 112 Stat. 3627, which is classified principally to chapter 31 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-The Older Americans Act of 1965, referred to in subsec. (f)(5)(B), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+The Older Americans Act of 1965, referred to in subsec. (f)(5)(B), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
 Section 142 of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042), referred to in subsec. (m)(2), was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737.
 

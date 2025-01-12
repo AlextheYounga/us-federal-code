@@ -6,7 +6,7 @@ Sec.
 
 71. Future treaties with Indian tribes.
 
-72. Abrogation of treaties.
+72. Repealed.
 
 #### SUBCHAPTER II—CONTRACTS WITH INDIANS ####
 

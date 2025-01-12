@@ -8,7 +8,7 @@ Sec.
 
 272a. Other duties.
 
-273. Detail of Army officer.
+273. Repealed.
 
 274. Employment of Indian girls and boys as assistants.
 
@@ -32,11 +32,7 @@ Sec.
 
 282. Regulations by Secretary of the Interior to secure attendance at school.
 
-283. Regulations for withholding rations for nonattendance at schools.
-
-284. Omitted.
-
-285. Withholding annuities from Osage Indians for nonattendance at schools.
+283 to 285. Repealed or Omitted.
 
 286. Sending child to school out of State without consent.
 
@@ -68,11 +64,7 @@ Sec.
 
 295. Supervision of expenditure of appropriations for school purposes.
 
-296 to 301. Repealed or Omitted.
-
-302. Indian Reform School; rules and regulations; consent of parents to placing youth in reform school.
-
-303. Omitted.
+296 to 303. Repealed or Omitted.
 
 304. South Dakota Indians; State course of study.
 

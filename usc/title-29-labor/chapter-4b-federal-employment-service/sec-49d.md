@@ -28,7 +28,7 @@ such amounts as the Secretary determines to be necessary for allotment in accord
 
 #### References in Text ####
 
-The Federal Unemployment Tax Act, referred to in subsec. (b)(1), is act Aug. 16, 1954, ch. 736, §§3301 to 3311, 68A Stat. 454, as amended, which is classified generally to chapter 23 (§3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
+The Federal Unemployment Tax Act, referred to in subsec. (b)(1), is act Aug. 16, 1954, ch. 736, §§3301 to 3311, 68A Stat. 454, which is classified generally to chapter 23 (§3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
 
 #### Amendments ####
 

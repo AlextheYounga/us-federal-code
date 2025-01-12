@@ -28,7 +28,7 @@ Sec.
 
 7111. Revision of decisions on grounds of clear and unmistakable error.
 
-7112. Expedited treatment of remanded claims.
+7112. Expedited treatment of certain claims.
 
 7113. Evidentiary record before the Board of Veterans' Appeals.
 
@@ -36,7 +36,9 @@ Sec.
 
 #### Amendments ####
 
-**2022**—Pub. L. 117–168, §1(b)(2), title VIII, §807(a)(5)(A), Aug. 10, 2022, 136 Stat 1759, 1806, inserted "; decisions; notice" after "Board" in item 7104.
+**2022**—Pub. L. 117–300, §2(a)(2)(B), Dec. 27, 2022, 136 Stat. 4380, added item 7112 and struck out former item 7112 "Expedited treatment of remanded claims".
+
+Pub. L. 117–168, §1(b)(2), title VIII, §807(a)(5)(A), Aug. 10, 2022, 136 Stat 1759, 1806, inserted "; decisions; notice" after "Board" in item 7104.
 
 **2017**—Pub. L. 115–55, §2(q)(2), (s)(2), (u)(3), (w)(3), Aug. 23, 2017, 131 Stat. 1112, 1113, 1115, substituted "Filing of appeal" for "Filing of notice of disagreement and appeal" in item 7105, struck out items 7106 "Administrative appeals" and 7109 "Independent medical opinions", and added item 7113.
 

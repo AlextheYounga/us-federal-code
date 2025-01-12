@@ -68,15 +68,7 @@ Sec.
 
 125. Expenditure of moneys of tribes of Quapaw Agency.
 
-126. Omitted.
-
-127. Moneys or annuities of hostile Indians.
-
-128. Appropriations not paid to Indians at war with United States.
-
-129. Moneys due Indians holding captives other than Indians withheld.
-
-130. Withholding of moneys or goods on account of intoxicating liquors.
+126 to 130. Omitted or Repealed.
 
 131. Advances to disbursing officers.
 
@@ -90,9 +82,7 @@ Sec.
 
 136. Commutation of rations and other supplies; payment per capita.
 
-137. Supplies distributed to able-bodied males on condition.
-
-138. Goods withheld from chiefs violating treaty stipulations.
+137, 138. Repealed
 
 139. Appropriations for subsistence.
 

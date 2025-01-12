@@ -132,7 +132,7 @@ There are authorized to be appropriated from sums otherwise authorized to be app
 
 #### References in Text ####
 
-The Occupational Safety and Health Act of 1970, referred to in subsecs. (c)(1)(B)(i)(II) and (d)(2), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 651 of this title and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsecs. (c)(1)(B)(i)(II) and (d)(2), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 651 of this title and Tables.
 
 #### Codification ####
 

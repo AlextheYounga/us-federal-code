@@ -72,6 +72,8 @@ Sec.
 
 10158. Interest-bearing trust funds.
 
+10159. Law enforcement training programs.
+
 #### Part B—Discretionary Grants ####
 
 #### subpart 1—grants to public agencies ####

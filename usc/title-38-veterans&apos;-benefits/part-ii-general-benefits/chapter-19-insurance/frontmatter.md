@@ -86,7 +86,7 @@ Sec.
 
 1948. Total disability provision.
 
-1949. Change of beneficiary.
+1949. Beneficiaries.
 
 1950. Payment to estates.
 
@@ -173,6 +173,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–313, §3(b)(2), Dec. 27, 2022, 136 Stat. 4400, substituted "Beneficiaries" for "Change of beneficiary" in item 1949.
 
 **2021**—Pub. L. 116–315, title II, §2004(a)(2), (c)(3), Jan. 5, 2021, 134 Stat. 4974, added item 1922B and substituted "Legacy service" for "Service" in item 1922 and "Legacy supplemental" for "Supplemental" in item 1922A.
 

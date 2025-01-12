@@ -26,7 +26,7 @@ Each State shall repay to the United States amounts found not to have been expen
 
 #### References in Text ####
 
-The Inspector General Act, referred to in subsec. (b)(2), probably means the Inspector General Act of 1978, Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act, referred to in subsec. (b)(2), probably means the Inspector General Act of 1978, Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments ####
 

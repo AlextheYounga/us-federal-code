@@ -220,6 +220,10 @@ Sec.
 
 242. Department of Homeland Security Blue Campaign.
 
+242a. Department of Homeland Security Center for Countering Human Trafficking.
+
+242b. Reports.
+
 243. Maritime operations coordination plan.
 
 244. Maritime security capabilities assessments.

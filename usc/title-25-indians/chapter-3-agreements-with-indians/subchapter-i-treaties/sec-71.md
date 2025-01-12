@@ -20,6 +20,10 @@ R.S. §2079 derived from act Mar. 3, 1871, ch. 120, §1, 16 Stat. 566.
 
 Amendment by Pub. L. 100–647 applicable to all periods beginning before, on, or after Nov. 10, 1988, with no inference created as to existence or nonexistence or scope of any income tax exemption derived from fishing rights secured as of Mar. 17, 1988, by any treaty, law, or Executive order, see section 3044 of Pub. L. 100–647, set out as an Effective Date note under section 7873 of Title 26, Internal Revenue Code.
 
+#### Short Title of 2022 Amendment ####
+
+Pub. L. 117–317, §1, Dec. 27, 2022, 136 Stat. 4419, provided that: "This Act [repealing sections 72, 127 to 130, 137, 138, 273, 283, 285, and 302 of this title] may be cited as the 'Repealing Existing Substandard Provisions Encouraging Conciliation with Tribes Act' or the 'RESPECT Act'."
+
 #### Short Title of 2000 Amendment ####
 
 Pub. L. 106–179, §1, Mar. 14, 2000, 114 Stat. 46, provided that: "This Act [amending sections 81 and 476 of this title] may be cited as the 'Indian Tribal Economic Development and Contract Encouragement Act of 2000'."

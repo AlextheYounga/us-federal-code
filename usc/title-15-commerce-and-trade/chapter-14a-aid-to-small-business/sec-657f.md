@@ -34,7 +34,45 @@ In accordance with this section, a contracting officer may award contracts on th
 
 A procurement may not be made from a source on the basis of a preference provided under subsection (a) or (b) if the procurement would otherwise be made from a different source under section 4124 or 4125 of title 18 or chapter 85 of title 41.
 
-#### (g) <sup><a href="#657f_1_target" name="657f_1">1</a></sup> Certification requirement ####
+#### (f) Database of veteran-owned businesses ####
+
+(1) Subject to paragraphs (2) through (6), the Administrator shall maintain a database of small business concerns owned and controlled by veterans, small business concerns owned and controlled by service-disabled veterans, and the veteran owners of such business concerns.
+
+(2)(A) To be eligible for inclusion in the database, such a veteran shall submit to the Administrator such information as the Administrator may require with respect to the small business concern or the veteran. Application for inclusion in the database shall constitute permission under section 552a of title 5 (commonly referred to as the Privacy Act) for the Administrator to obtain from the Secretary of Veterans Affairs such personal information maintained by the Secretary as may be necessary to verify the information contained in the application.
+
+(B) For purposes of this subsection—
+
+(i) the Secretary of Veterans Affairs shall—
+
+(I) verify an individual's status as a veteran or a service-disabled veteran; and
+
+(II) establish a system to permit the Administrator to access, but not alter, the verification of such status; and
+
+(ii) the Administrator shall verify—
+
+(I) the status of a business concern as a small business concern; and
+
+(II) the ownership and control of such business concern.
+
+(C) The Administrator may not certify a concern under subsection (b) or section 657f–1 of this title if the Secretary of Veterans Affairs cannot provide the verification described under subparagraph (B)(i)(I).
+
+(3) Information maintained in the database shall be submitted on a voluntary basis by a veteran described in paragraph (1).
+
+(4) The Administrator shall make the database available to all Federal departments and agencies and shall notify each such department and agency of the availability of the database.
+
+(5) If the Administrator determines that the public dissemination of certain types of information maintained in the database is inappropriate, the Administrator shall take such steps as are necessary to maintain such types of information in a secure and confidential manner.
+
+(6)(A) If a small business concern is not included in the database because the Administrator does not certify the status of the concern as a small business concern owned and controlled by veterans (under section 657f–1 of this title) or a small business concern owned and controlled by service-disabled veterans (under subsection (g) of this section), the concern may appeal the denial of certification to the Office of Hearings and Appeals of the Administration (as established under section 634(i) of this title). The decision of the Office of Hearings and Appeals shall be considered a final agency action.
+
+(B)(i) If an interested party challenges the inclusion in the database of a small business concern owned and controlled by veterans or a small business concern owned and controlled by service-disabled veterans based on the status of the concern as a small business concern or the ownership or control of the concern, the challenge shall be heard by the Office of Hearings and Appeals as described in subparagraph (A). The decision of the Office of Hearings and Appeals shall be considered final agency action.
+
+(ii) In this subparagraph, the term "interested party" means—
+
+(I) the Secretary of Veterans Affairs or the Administrator; or
+
+(II) in the case of a small business concern that is awarded a contract, the applicable contracting officer or another small business concern that submitted an offer for the contract that was awarded to the small business concern that is the subject of a challenge made under clause (i).
+
+#### (g) Certification requirement ####
 
 Notwithstanding subsection (c), a contracting officer may only award a sole source contract to a small business concern owned and controlled by service-disabled veterans or a contract on the basis of competition restricted to small business concerns owned and controlled by service-disabled veterans if such a concern is certified by the Administrator as a small business concern owned and controlled by service-disabled veterans.
 
@@ -62,15 +100,13 @@ Upon the request of the Administrator, the head of any Federal department or age
 
 (Pub. L. 85–536, §2[36], as added Pub. L. 108–183, title III, §308, Dec. 16, 2003, 117 Stat. 2662; amended Pub. L. 116–283, div. A, title VIII, §§862(b)(2), (d)(1), 864(3), Jan. 1, 2021, 134 Stat. 3778, 3779, 3785.)
 
-#### Amendment of Section ####
-
-Pub. L. 116–283, div. A, title VIII, §862(b)(2), Jan. 1, 2021, 134 Stat. 3778, provided that, effective on the transfer date (2 years after Jan. 1, 2021), this section is amended by transferring subsection (f) of section 8127 of Title 38, Veterans' Benefits, to subsection (f) of this section. See 2021 Amendment note and Effective Date of 2021 Amendment note below.
-
 #### **Editorial Notes** ####
 
 #### Codification ####
 
 In subsec. (e), "chapter 85 of title 41" substituted for "the Javits-Wagner-O'Day Act (41 U.S.C. 46 et seq.)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+The text of subsec. (f) of section 8127 of Title 38, Veterans' Benefits, which was transferred to subsec. (f) of this section by Pub. L. 116–283, div. A, title VIII, §862(b)(2), Jan. 1, 2021, 134 Stat. 3778, was based on Pub. L. 109–461, title V, §502(a)(1), Dec. 22, 2006, 120 Stat. 3431; Pub. L. 111–275, title I, §104(b)(1), Oct. 13, 2010, 124 Stat. 2867; Pub. L. 114–328, div. A, title XVIII, §1832(b)(2)(D), (d), (f)(1), Dec. 23, 2016, 130 Stat. 2660; Pub. L. 116–283, div. A, title VIII, §862(b)(1)(B), Jan. 1, 2021, 134 Stat. 3776.
 
 #### Prior Provisions ####
 
@@ -90,7 +126,7 @@ Pub. L. 116–283, §862(d)(1)(A), redesignated subsec. (d) as par. (3) of subse
 
 Subsec. (e). Pub. L. 116–283, §862(d)(1)(B), (C), redesignated subsec. (c) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: "For purposes of this section, the term 'contracting officer' has the meaning given such term in section 2101(1) of title 41."
 
-Subsec. (f). Pub. L. 116–283, §862(b)(2), transferred subsec. (f) of section 8127 of Title 38, Veterans' Benefits, to subsec. (f) of this section.
+Subsec. (f). Pub. L. 116–283, §862(b)(2), transferred subsec. (f) of section 8127 of Title 38, Veterans' Benefits, to subsec. (f) of this section. See Codification note above.
 
 Subsec. (g). Pub. L. 116–283, §862(d)(1)(F), added subsec. (g).
 
@@ -173,5 +209,3 @@ Pub. L. 116–283, div. A, title VIII, §862(a), (c), (f), (g), Jan. 1, 2021, 13
 "(F) Effect on personnel.—The Secretary of Veterans Affairs shall appoint any employee represented by a labor organization accorded exclusive recognition under section 7111 of title 5, United States Code, that is affected by the transfer of functions under this subsection to a position of a continuing nature for which the employee is qualified, at a grade and compensation not lower than the current grade and compensation of the employee.
 
 "(6) References.—Any reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to a function of the Center for Verification and Evaluation that is transferred under this subsection is deemed, after the transfer date, to refer to the Small Business Administration."
-
-[<sup>1</sup> For delayed enactment of subsec. (f), see Amendment of Section note below.](#657f_1)

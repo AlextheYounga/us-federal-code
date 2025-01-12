@@ -10,7 +10,7 @@ Notwithstanding this or any other Act regulating labor-management relations, eac
 
 This Act, referred to in text, probably means title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1976, known as the Comprehensive Crime Control Act of 1984. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
 
-The National Labor Relations Act, referred to in text, is act July 5, 1935, ch. 372, 49 Stat. 449, as amended, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 167 of this title and Tables.
+The National Labor Relations Act, referred to in text, is act July 5, 1935, ch. 372, 49 Stat. 449, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 167 of this title and Tables.
 
 #### Codification ####
 
